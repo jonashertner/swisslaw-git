@@ -4,31 +4,31 @@ title: Loi fédérale du 25 mars 1977 sur les explosifs (LExpl)
 short: LExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/522_522_522"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1977-03-25
 in_force: 1980-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les substances explosibles
+# Loi fédérale sur les explosifs
 
-(Loi sur les explosifs, LExpl**[^t-1]**)
+(LExpl)[^t-1]
 
-du 25 mars 1977 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 mars 1977 (Etat le 1<sup>er</sup> janvier 2023)
 
-[^t-1]: Sigle introduit par l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^t-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 20, al. 1, 31<sup>bis</sup>, al. 2, 32, al. 3, 34<sup>ter</sup>, 40<sup>bis</sup>, 64<sup>bis</sup>, 69<sup>bis</sup> et 85, ch. 7, de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 20 août 1975[^ingress-3],
+vu les art. 60, al. 1, 95, al. 1, 107, 110, al. 1, let. a, 118, al. 2, let. a, 173, al. 2, et 178, al. 3, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 20 août 1975[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001), [1985 659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)]. Aux disp. mentionnées correspondent actuellement les art. 60 al. 1, 95 al. 1, 107, 110, 118, 123 al. 1 et 173 al. 1 let. b de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nouvelle teneur selon le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^ingress-3]: [FF 1975 II 1301](https://fedlex.data.admin.ch/eli/fga/1975/2_1289_1301_1261)
 
 ## Section 1 Champ d’application et définitions
@@ -37,32 +37,35 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> La présente loi règle le commerce des matières explosives, des engins pyrotechniques et de la poudre de guerre. Ses dispositions concernant les engins pyrotechniques s’appliquent également à la poudre de guerre, à l’exception des art. 12, al. 5, 14, ainsi que 24, al. 3, et sous réserve de prescriptions particulières.[^1-1]
+<sup>1</sup> La présente loi règle toute opération impliquant des matières explosives fabriquées à titre professionnel, des engins pyrotechniques et de la poudre de guerre.[^1-1] Ses dispositions concernant les engins pyrotechniques s’appliquent également à la poudre de guerre, à l’exception des art. 12, al. 5, 14, ainsi que 24, al. 3, et sous réserve de prescriptions particulières.[^1-2]
 
 <sup>2</sup> En ce qui concerne les engins pyrotechniques de divertissement, la loi ne s’applique qu’au fabricant, à l’importateur et au vendeur, ainsi qu’à leurs employés et auxiliaires.
 
-<sup>3</sup> La poudre utilisée comme charge propulsive dans les munitions pour armes à feu est soumise à la législation sur les armes.[^1-2]
+<sup>3</sup> La poudre utilisée comme charge propulsive dans les munitions pour armes à feu est soumise à la législation sur les armes.[^1-3]
 
-<sup>4</sup> La législation fédérale sur le matériel de guerre et sur la protection contre les substances et les préparations dangereuses est réservée, à moins que la présente loi ou une ordonnance d’exécution n’en dispose autrement.[^1-3]
+<sup>4</sup> La législation fédérale sur le matériel de guerre et sur la protection contre les substances et les préparations dangereuses est réservée, à moins que la présente loi ou une ordonnance d’exécution n’en dispose autrement.[^1-4]
 
-<sup>5</sup> Le droit cantonal en matière de police du feu et des constructions est réservé.[^1-4]
+<sup>5</sup> Le droit cantonal en matière de police du feu et des constructions est réservé.[^1-5]
 
-[^1-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
-[^1-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^1-2]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 [^1-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^1-4]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-4]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-5]: Introduit par l’annexe ch. 3 de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 2
 
 **Armée et administrations militaires**
 
-<sup>1</sup> L’armée, les administrations militaires fédérales et cantonales et leurs entreprises ne sont soumises aux dispositions de la présente loi que si elles fournissent des matières explosives à des offices civils ou à des particuliers.
+<sup>1</sup> L’armée, les administrations militaires fédérales et cantonales et leurs entreprises ne sont soumises aux dispositions de la présente loi que si elles fournissent des matières explosives ou des engins pyrotechniques à des offices civils ou à des particuliers.[^2-1]
 
-<sup>2</sup> Le Conseil fédéral édicte des prescriptions sur le commerce des matières explosives dans l’armée, les administrations militaires et leurs entreprises. Ces prescriptions ne peuvent s’écarter des dispositions de la présente loi que si les intérêts de la défense nationale l’exigent.
+<sup>2</sup> Le Conseil fédéral édicte des prescriptions sur les opérations impliquant des matières explosives dans l’armée, les administrations militaires et leurs entreprises.[^2-2] Ces prescriptions ne peuvent s’écarter des dispositions de la présente loi que si les intérêts de la défense nationale l’exigent.
 
-<sup>3</sup> Le Conseil fédéral peut déléguer sa compétence au Département fédéral de la défense, de la protection de la population et des sports[^2-1] et aux services qui en dépendent.
+<sup>3</sup> Le Conseil fédéral peut déléguer sa compétence au Département fédéral de la défense, de la protection de la population et des sports[^2-3] et aux services qui en dépendent.
 
-[^2-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
+[^2-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^2-3]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié).
 
 #### Art. 2a
 
@@ -76,11 +79,13 @@ arrête:
 
 #### Art. 3
 
-**Commerce**
+**Opération**[^3-1]
 
-<sup>1</sup> Par commerce, il faut entendre toutes les opérations touchant les matières explosives et les engins pyrotechniques, en particulier le fait d’en fabriquer, entreposer, détenir, importer, fournir, acquérir, utiliser et détruire.
+<sup>1</sup> Par opération, on entend toutes les activités en rapport avec des matières explosives et des engins pyrotechniques, en particulier le fait d’en fabriquer, d’en entreposer, d’en détenir, d’en importer, d’en fournir, d’en acquérir, d’en utiliser et d’en détruire.
 
-<sup>2</sup> Leur acheminement à l’intérieur du pays par voie postale, ferroviaire, routière, aérienne, lacustre et fluviale n’est pas considéré comme commerce au sens de la présente loi; il est réglé par les prescriptions particulières de la législation fédérale et des accords internationaux.
+<sup>2</sup> Leur acheminement à l’intérieur du pays par voie postale, ferroviaire, routière, aérienne, lacustre et fluviale n’est pas considéré comme une opération au sens de la présente loi; il est réglé par les prescriptions particulières de la législation fédérale et des accords internationaux.
+
+[^3-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 4
 
@@ -96,11 +101,14 @@ Par matières explosives, il faut entendre les explosifs et les moyens d’allum
 
 <sup>2</sup>
 
-Ne sont pas considérés comme explosifs:
+Ne sont pas considérés comme des explosifs au sens de la présente loi:[^5-1]
 
 - a. les gaz explosibles, les vapeurs de combustibles liquides et les autres substances qui n’explosent qu’après avoir été mélangées avec de l’air;
 - b. les adjuvants utilisés dans la fabrication des produits chimiques ou les produits en cours d’élaboration présentant un risque d’explosion, qui est toutefois éliminé avant l’achèvement de la fabrication;
-- c. les produits et les préparations explosibles fabriqués et mis dans le commerce à d’autres fins qu’à des tirs de mines.
+- c.[^5-2] les produits et les préparations explosibles fabriqués à des fins autres qu’à des tirs de mines.
+
+[^5-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 6
 
@@ -112,7 +120,7 @@ Les moyens d’allumage contiennent des substances explosives et servent à la m
 
 **Engins pyrotechniques**
 
-Les engins pyrotechniques sont des produits prêts à l’emploi, comprenant un élément explosif ou un dispositif d’allumage, qui
+Les engins pyrotechniques sont des produits prêts à l’emploi, comprenant un élément explosif ou un dispositif d’allumage, qui:
 
 - a. ne servent pas à des fins de destruction, mais à d’autres fins d’ordre industriel, technique ou agricole, tels que moyens de signalisation, fusées météorologiques, cartouches servant à la soudure ou à la trempe des métaux, ou
 - b. sont destinés au simple divertissement comme les pièces d’artifice.
@@ -140,19 +148,24 @@ Est réputé poudre de guerre:
 
 [^8-1]: Abrogé par le ch. I de la LF du 13 déc. 1996, avec effet au 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
-## Section 3 Droit de se livrer au commerce des matières explosives et des engins pyrotechniques
+## Section 3 Droit de se livrer à des opérations impliquant des matières explosives et des engins pyrotechniques
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 8a
 
 **Principe**[^8a-1]
 
-Les matières explosives et les engins pyrotechniques ne peuvent être commercialisés qu’à condition de ne pas mettre en danger la vie et la santé des utilisateurs ni des tiers lorsqu’ils sont utilisés conformément aux prescriptions et avec précaution. Le Conseil fédéral fixe les exigences de base en matière de sécurité et règle les procédures de conformité et d’autorisation; il tient compte du droit international y relatif.
+Les opérations impliquant des matières explosives ou des engins pyrotechniques ne sont autorisées qu’à condition que ceux-ci ne mettent pas en danger la vie et la santé des utilisateurs ni des tiers lorsqu’ils sont utilisés conformément aux prescriptions et avec précaution.[^8a-2] Le Conseil fédéral fixe les exigences de base en matière de sécurité et règle les procédures de conformité et d’autorisation; il tient compte du droit international y relatif.
 
 [^8a-1]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^8a-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 9
 
-**Fabrication, importation, exportation et transit[^9-1]**
+**Fabrication, préparation, possession, importation, exportation et transit[^9-1]**
 
 <sup>1</sup> La fabrication en Suisse de matières explosives et de poudre de guerre ainsi que leur importation sont soumises à l’autorisation de la Confédération. L’autorisation de fabriquer des matières explosives ou de la poudre de guerre inclut le droit de les vendre sur le territoire suisse. L’autorisation d’importer de la poudre de guerre accordée en vertu de la législation sur les armes vaut également autorisation d’importer au sens de la présente loi.[^9-2]
 
@@ -165,13 +178,14 @@ L’exportation et le transit de matières explosives et de poudre de guerre son
 
 <sup>2</sup> Des engins pyrotechniques ne peuvent être fabriqués ou importés qu’avec l’autorisation de la Confédération. Le Conseil fédéral fixe le régime applicable à la délivrance, au retrait et à l’expiration des autorisations. Il peut dispenser du régime de l’autorisation certains produits ou groupes de produits, pour autant que la sécurité soit garantie par d’autres moyens.[^9-4]
 
-<sup>3</sup> ...[^9-5]
+<sup>3</sup> Les dispositions de la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^9-5] relatives à la préparation de substances explosibles par des utilisateurs privés et à l’acquisition et à la possession de substances explosibles préparées par des utilisateurs privés sont réservées.[^9-6]
 
-[^9-1]: Nouvelle teneur selon le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^9-2]: Nouvelle teneur selon le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^9-3]: Introduit par le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^9-4]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
-[^9-5]: Introduit par le ch. I de la LF du 13 déc. 1996 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)). Abrogé par le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, avec effet au 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-5]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^9-6]: Introduit par le ch. I de la LF du 13 déc. 1996 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 10
 
@@ -185,9 +199,10 @@ L’exportation et le transit de matières explosives et de poudre de guerre son
 
 <sup>4</sup> L’autorisation n’est accordée qu’aux entreprises dignes de confiance et aux personnes de bonne réputation qui ont les connaissances techniques nécessaires et qui disposent des entrepôts prescrits.
 
-<sup>5</sup> Il appartient à la Confédération d’autoriser l’armée, les administrations militaires fédérales et cantonales ou leurs entreprises à fournir des matières explosives à des offices civils et à des particuliers.
+<sup>5</sup> La fourniture de matières explosives ou d’engins pyrotechniques par l’armée, les administrations militaires fédérales et cantonales ou leurs entreprises à des offices civils ou à des particuliers se fait en accord avec l’office central.[^10-2]
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^10-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 11
 
@@ -252,6 +267,23 @@ Après avoir entendu les cantons, la Caisse nationale suisse d’assurance en ca
 [^14-3]: Nouvelle expression selon le ch. I 32 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
 [^14-4]: Introduit par l’annexe ch. 5 de la LF du 12 juin 2009 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Abrogé par l’annexe ch. 37 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
+#### Art. 14a
+
+**Refus d’autorisation, de permis d’acquisition et de permis d’emploi**[^14a-1]
+
+<sup>1</sup>
+
+L’autorité compétente peut refuser ou retirer à une personne l’autorisation de fabrication ou d’importation, le permis d’acquisition ou le permis d’emploi pour l’un des motifs suivants:
+
+- a. la personne est protégée par une curatelle de portée générale ou un mandat pour cause d’inaptitude;
+- b. des indices laissent penser que la personne pourrait utiliser, manipuler ou conserver les matières explosives ou les engins pyrotechniques d’une manière dangereuse pour elle-même ou pour autrui;
+- c. la personne est inscrite au casier judiciaire pour une infraction qui laisse craindre qu’elle commette des infractions contre la vie et l’intégrité corporelle de personnes ou contre des biens matériels ou qu’elle contribue à la commission de telles infractions;
+- d. d’autres indices laissent penser que la personne pourrait commettre des infractions contre la vie et l’intégrité corporelle de personnes ou contre des biens matériels ou pourrait contribuer à la commission de telles infractions.
+
+<sup>2</sup> Les autorités compétentes peuvent demander à l’Office fédéral de la police (fedpol) des renseignements sur des personnes afin de déterminer l’existence d’un des motifs visés à l’al. 1. Si fedpol a connaissance de l’existence d’un tel motif, il peut en informer d’office les autorités compétentes.
+
+[^14a-1]: Introduit par l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+
 #### Art. 15
 
 **Commerce prohibé**
@@ -266,22 +298,26 @@ Après avoir entendu les cantons, la Caisse nationale suisse d’assurance en ca
 
 <sup>5</sup> Il est interdit d’utiliser à des fins de divertissement des matières explosives et des engins pyrotechniques destinés à d’autres buts. Les cantons peuvent autoriser exceptionnellement l’emploi de poudre de guerre pour la commémoration d’événements historiques ou à l’occasion de manifestations analogues, s’il est garanti que son usage sera conforme aux règles de l’art.
 
-[^15-1]: La désignation de l’unité administrative a été adaptée en aplication de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette modification dans tout le présent texte.
+[^15-1]: La désignation de l’unité administrative a été adaptée en aplication de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette modification dans tout le présent texte.
 [^15-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 16
 
-**Cas particuliers**
+**Cas particuliers**[^16-1]
 
-Lorsque des matières explosives doivent servir en Suisse à des fins scientifiques, de recherche ou de formation, le Conseil fédéral peut en faciliter le commerce et, s’il y va de quantités insignifiantes, l’affranchir du régime de l’autorisation.
+Lorsque des matières explosives doivent servir en Suisse à des fins scientifiques, de recherche ou de formation, le Conseil fédéral peut faciliter les opérations impliquant ces matières et, s’il y va de quantités insignifiantes, les affranchir du régime de l’autorisation.
+
+[^16-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 ## Section 4 Protection et sécurité
 
 #### Art. 17
 
-**Principe**
+**Principe**[^17-1]
 
-Celui que se livre au commerce de matières explosives ou d’engins pyrotechniques est tenu, pour en assurer la préservation et pour protéger les biens et les personnes, de prendre toutes les mesures qui peuvent raisonnablement être exigées compte tenu des circonstances.
+Celui qui se livre à des opérations impliquant des matières explosives ou des engins pyrotechniques est tenu, pour en assurer la préservation et pour protéger les biens et les personnes, de prendre toutes les mesures qui peuvent raisonnablement être exigées compte tenu des circonstances.
+
+[^17-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 18
 
@@ -341,7 +377,7 @@ Le Conseil fédéral peut alléger les conditions relatives à l’entreposage e
 
 <sup>2</sup> Les dispositions sur la prévention des accidents selon la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^23-1] sont réservées.[^23-2]
 
-[^23-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^23-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^23-2]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 20 mars 1981 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 al. 1; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 24
@@ -380,38 +416,45 @@ Après avoir entendu les cantons, la Caisse nationale suisse d’assurance en ca
 
 <sup>3</sup> La responsabilité de la Confédération, des cantons et des communes est également soumise à ces dispositions.
 
-[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
-## Section 6 Surveillance du commerce des matières explosives et des engins pyrotechniques
+## Section 6 Surveillance des opérations impliquant des matières explosives et des engins pyrotechniques
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 28
 
 **Compétence**
 
-<sup>1</sup> Les cantons surveillent le commerce des matières explosives et des engins pyrotechniques. L’art. 33, al. 3, est réservé.[^28-1]
+<sup>1</sup> Les cantons surveillent les opérations impliquant des matières explosives et des engins pyrotechniques.[^28-1] L’art. 33, al. 3, est réservé.[^28-2]
 
-<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières surveille l’importation des matières explosives et des engins pyrotechniques.[^28-2]
+<sup>2</sup> L’Office fédéral de la douane et de la sécurité des frontières surveille l’importation des matières explosives et des engins pyrotechniques.[^28-3]
 
-<sup>3</sup> La surveillance du commerce des matières explosives dans l’armée et les administrations militaires fédérales et cantonales est du ressort de la Confédération.
+<sup>3</sup> La surveillance des opérations impliquant des matières explosives dans l’armée et les administrations militaires fédérales et cantonales est du ressort de la Confédération.[^28-4]
 
-[^28-1]: Phrase introduite par l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^28-2]: Nouvelle teneur selon le ch. I 37 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^28-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^28-2]: Phrase introduite par l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^28-3]: Nouvelle teneur selon le ch. I 37 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^28-4]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 29
 
 **Registres**
 
-<sup>1</sup> Les titulaires d’autorisations de fabriquer, d’importer et de vendre des matières explosives tiendront un registre séparé de leurs opérations, suivant qu’elles se rapportent aux explosifs ou aux moyens d’allumage.
+<sup>1</sup> Les titulaires d’autorisations de fabriquer, d’importer et de vendre des matières explosives tiendront un registre séparé de leurs transactions commerciales, suivant qu’elles se rapportent aux explosifs ou aux moyens d’allumage.[^29-1]
 
 <sup>2</sup> Les gros utilisateurs de matières explosives ont également l’obligation de tenir des registres.
 
 <sup>3</sup> Ces registres indiqueront avec précision dans chaque cas le genre et la quantité de matières explosives, leur provenance et leur livraison ou utilisation.
 
-<sup>4</sup> Les inventaires seront conservés en bon ordre pendant cinq ans, avec pièces à l’appui. Le Conseil fédéral peut prévoir une période de conservation plus longue.[^29-1]
+<sup>4</sup> Les inventaires seront conservés en bon ordre pendant cinq ans, avec pièces à l’appui. Le Conseil fédéral peut prévoir une période de conservation plus longue.[^29-2]
 
 <sup>5</sup> Le Conseil fédéral édicte les dispositions sur la tenue des registres pour les engins pyrotechniques. Il peut limiter l’obligation de tenir le registre à des catégories déterminées d’engins.
 
-[^29-1]: Phrase introduite par l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^29-2]: Phrase introduite par l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 30
 
@@ -423,7 +466,7 @@ Après avoir entendu les cantons, la Caisse nationale suisse d’assurance en ca
 
 <sup>3</sup> L’obligation de déclarer l’accident conformément à l’art. 45 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^30-1] est réservée.[^30-2]
 
-[^30-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^30-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^30-2]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 20 mars 1981 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 al. 1; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 31
@@ -446,10 +489,10 @@ Les organes d’exécution sont autorisés, durant les heures de travail, à pé
 
 <sup>2</sup> L’office central établit une liste des matières explosives. Celle-ci a un caractère informatif et doit être communiquée périodiquement aux cantons et à la Caisse nationale suisse d’assurance en cas d’accidents.
 
-<sup>3</sup> En collaboration avec les autorités cantonales compétentes, l’office central contrôle par sondage la conformité aux dispositions légales des matières explosives et des engins pyrotechniques mis sur le marché.[^33-2]
+<sup>3</sup> En collaboration avec les autorités cantonales compétentes, l’office central contrôle par sondage la conformité des matières explosives et des engins pyrotechniques aux prescriptions légales. Les contrôles s’effectuent notamment auprès des fabricants, des importateurs et des commerçants.[^33-2]
 
 [^33-1]: Nouvelle teneur selon le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^33-2]: Introduit par l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^33-2]: Introduit par l’annexe ch. 5 de la LF du 12 juin 2009 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 34
 
@@ -458,9 +501,9 @@ Les organes d’exécution sont autorisés, durant les heures de travail, à pé
 Les mesures qui assurent la protection des travailleurs sont régies par la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^34-2].
 
 [^34-1]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 20 mars 1981 sur l’assurance-accidents, en vigueur depuis le 1<sup>er</sup> janv. 1984 ([RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 al. 1; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^34-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^34-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
-## Section 6*a***** Émoluments
+## Section 6*a* Émoluments
 
 [^sec6a-1]
 
@@ -489,41 +532,45 @@ Les décisions relatives aux permis d’emploi au sens de l’art. 14 peuvent fa
 [^36-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 12 juin 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6643](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^36-2]: Nouvelle expression selon le ch. I 32 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
 
-## Section 8 Dispositions pénales****
+## Section 8 Dispositions pénales
 
 [^sec8-1]
 
-[^sec8-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^sec8-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 #### Art. 37
 
-**Commerce non autorisé**
+**Opérations non autorisées**[^37-1]
 
-<sup>1.</sup> Celui qui, sans autorisation ou au mépris des interdictions instituées par la présente loi, se sera livré au commerce des matières explosives ou des engins pyrotechniques et qui, notamment, en aura fabriqué, entreposé, détenu, importé, fourni, acquis, utilisé ou détruit,
+<sup>1</sup>
 
-celui qui aura donné des indications fausses ou incomplètes, déterminantes pour l’octroi d’une autorisation prévue par la présente loi,
+Est puni, s’il agit intentionnellement, d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque:
 
-celui qui aura fait usage d’une autorisation obtenue au moyen de telles indications,
+- a. sans autorisation ou au mépris des interdictions instituées par la présente loi, se livre à des opérations impliquant des matières explosives ou des engins pyrotechniques et, notamment, en fabrique, entrepose, détient, importe, fournit, acquiert, utilise ou détruit;
+- b. donne des indications fausses ou incomplètes, déterminantes pour l’octroi d’une autorisation prévue par la présente loi;
+- c. fait usage d’une autorisation obtenue au moyen de telles indications.
 
-sera passible, s’il a agi intentionnellement, de l’emprisonnement ou de l’amende. Si le délinquant a agi par négligence, il est passible des arrêts ou de l’amende.
+<sup>2</sup> L’auteur qui agit par négligence est puni de l’amende.
 
-2.[^37-1] Celui qui, sans autorisation, aura fabriqué, importé ou fait le commerce de poudre de guerre ou de produits finis ou semi-finis contenant de la poudre de guerre sera puni de l’amende.
+<sup>3</sup> Quiconque, sans autorisation, fabrique, importe ou fait le commerce de poudre de guerre ou de produits finis ou semi-finis contenant de la poudre de guerre est puni de l’amende.
 
-[^37-1]: Nouvelle teneur selon le ch. I 3 de la LF du 22 juin 2001 relative à la coordination de la législation sur les armes, sur le matériel de guerre, sur les explosifs et sur le contrôle des biens, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 3151](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^37-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 38
 
-**Autres infractions**
+**Autres infractions**[^38-1]
 
-<sup>1.</sup> Celui qui ne se sera pas conformé aux mesures de protection ou de sécurité prescrites par la présente loi (art. 17 à 26) ou par une ordonnance d’exécution rendue en vertu de celle-ci,
+<sup>1</sup>
 
-celui qui, au mépris des devoirs que lui imposent la présente loi ou ses dispositions d’exécution, aura violé son obligation de tenir des registres, de déclarer ou de renseigner,
+Est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:
 
-celui qui, de toute autre manière, aura contrevenu intentionnellement aux prescriptions de la présente loi ou aux dispositions d’exécution y relatives, ou à une décision à lui signifiée (art. 35) sous la menace de la peine prévue au présent article,
+- a. ignore les mesures de protection ou de sécurité prescrites par la présente loi (art. 17 à 26) ou par une ordonnance d’exécution rendue en vertu de celle-ci;
+- b. viole son obligation de tenir des registres, de déclarer ou de renseigner, au mépris des devoirs que lui imposent la présente loi ou ses dispositions d’exécution;
+- c. de toute autre manière, contrevient aux prescriptions de la présente loi ou aux dispositions d’exécution y relatives, ou à une décision à lui signifiée (art. 35) sous la menace de la peine prévue au présent article.
 
-sera passible des arrêts ou de l’amende.
+<sup>2</sup> L’auteur qui agit par négligence est puni d’une amende.
 
-<sup>2.</sup> Si le délinquant a agi par négligence, il est passible de l’amende.
+[^38-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 39
 
@@ -541,14 +588,14 @@ sera passible des arrêts ou de l’amende.
 
 <sup>1</sup> L’application des art. 224 à 226 du code pénal suisse[^40-1] n’exclut celle des dispositions pénales de la présente loi que lorsqu’ils saisissent l’acte sous tous ses aspects, tant sur le plan de l’illicéité que sur celui de la culpabilité.
 
-<sup>2</sup> et <sup>3</sup> ...[^40-2]
+<sup>2 et <sup>3</sup></sup> ...[^40-2]
 
 <sup>4</sup> Les dispositions pénales de la présente loi priment les art. 49 et 50 de la loi du 15 décembre 2000 sur les produits chimiques[^40-3] et les art. 112 et 113 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^40-4].[^40-5]
 
-[^40-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^40-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^40-2]: Abrogés par l’art. 45 de la LF du 13 déc. 1996 sur le matériel de guerre, avec effet au 1<sup>er</sup> avr. 1998 ([RO 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794); [FF 1995 II 988](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)).
-[^40-3]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^40-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^40-3]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^40-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^40-5]: Nouvelle teneur selon l’annexe ch. II 5 de la loi du 15 déc. 2000 sur les produits chimiques, en vigueur depuis le 1<sup>er</sup> août 2005 ([RO 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724), [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 623](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 
 #### Art. 41
@@ -595,7 +642,7 @@ sera passible des arrêts ou de l’amende.
 
 <sup>7</sup> Jusqu’à l’entrée en vigueur de la législation de la Confédération sur les armes, les art. 9, 10, 15, 17, 27 à 32 et 34 à 41 sont également applicables aux munitions qui ne sont pas soumises à la loi fédérale du 13 décembre 1996 sur le matériel de guerre[^43-1]; le Conseil fédéral fixe les modalités d’application.[^43-2]
 
-[^43-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^43-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^43-2]: Introduit par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 1023](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
 #### Art. 44
@@ -610,7 +657,7 @@ Les cantons peuvent limiter le commerce de détail des engins pyrotechniques de 
 
 La loi fédérale du 30 avril 1849 sur le droit régalien de la poudre à canon[^45-1] est abrogée.
 
-[^45-1]: [RS **5** 696; [RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 5]
+[^45-1]: [[RS 5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7227)696; [RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 5]
 
 #### Art. 46
 

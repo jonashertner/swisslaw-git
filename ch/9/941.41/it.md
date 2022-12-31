@@ -4,31 +4,31 @@ title: Legge federale del 25 marzo 1977 sugli esplosivi (LEspl)
 short: LEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/1980/522_522_522"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1977-03-25
 in_force: 1980-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1980/522_522_522/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1980-522_522_522-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1980/522_522_522/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sugli esplosivi
 
-(LEspl)**[^t-1]**
+(LEspl)[^t-1]
 
-del 25 marzo 1977 (Stato 1° gennaio 2022)
+del 25 marzo 1977 (Stato 1° gennaio 2023)
 
-[^t-1]: Introdotta dell’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^t-1]: Introdotta dell’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 20 capoverso 1, 31<sup>bis</sup> capoverso 2, 32 capoverso 3, 34<sup>ter</sup>, 40<sup>bis</sup>, 64<sup>bis</sup>, 69<sup>bis</sup> e 85 numero 7 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 20 agosto 1975[^ingress-3],
+visti gli articoli 60 capoverso 1, 95 capoverso 1, 107, 110 capoverso 1 lettera a, 118 capoverso 2 lettera a, 173 capoverso 2 e 178 capoverso 3 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale del 20 agosto 1975[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; [RU 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001), [1985 659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)]. A queste disp. corrispondono gli art. 60 cpv. 1, 95 cpv. 1, 107, 110, 118, 123 cpv. 1 e 173 cpv. 1 lett. b della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^ingress-3]: [FF 1975 II 1261](https://fedlex.data.admin.ch/eli/fga/1975/2_1289_1301_1261)
 
 ## Sezione 1: Campo d’applicazione e definizioni
@@ -37,32 +37,35 @@ decreta:
 
 **Campo d’applicazione**
 
-<sup>1</sup> La presente legge disciplina il commercio di esplosivi, pezzi pirotecnici e polvere da fuoco. Le sue disposizioni concernenti i pezzi pirotecnici valgono anche per la polvere da fuoco, fatti salvi gli articoli 12 capoverso 5, 14 nonché 24 capoverso 3 e nella misura in cui non sia oggetto di prescrizioni particolari.[^1-1]
+<sup>1</sup> La presente legge disciplina qualsiasi operazione con esplosivi fabbricati a titolo professionale, con pezzi pirotecnici e con polvere da fuoco.[^1-1] Le sue disposizioni concernenti i pezzi pirotecnici valgono anche per la polvere da fuoco, fatti salvi gli articoli 12 capoverso 5, 14 nonché 24 capoverso 3 e nella misura in cui non sia oggetto di prescrizioni particolari.[^1-2]
 
 <sup>2</sup> Riguardo ai pezzi pirotecnici da spettacolo, la legge è applicabile unicamente al fabbricante, all’importatore, al venditore e ai loro impiegati e ausiliari.
 
-<sup>3</sup> La polvere da sparo utilizzata come carica propulsiva per munizioni di armi da fuoco sottostà alle disposizioni della legislazione sulle armi.[^1-2]
+<sup>3</sup> La polvere da sparo utilizzata come carica propulsiva per munizioni di armi da fuoco sottostà alle disposizioni della legislazione sulle armi.[^1-3]
 
-<sup>4</sup> È fatta salva la legislazione federale sul materiale bellico e sulla protezione contro le sostanze e i preparati pericolosi, sempreché la presente legge o un’ordinanza d’esecuzione non contengano prescrizioni particolari.[^1-3]
+<sup>4</sup> È fatta salva la legislazione federale sul materiale bellico e sulla protezione contro le sostanze e i preparati pericolosi, sempreché la presente legge o un’ordinanza d’esecuzione non contengano prescrizioni particolari.[^1-4]
 
-<sup>5</sup> Sono parimenti fatte salve le prescrizioni del diritto cantonale in materia di edilizia e di polizia del fuoco.[^1-4]
+<sup>5</sup> Sono parimenti fatte salve le prescrizioni del diritto cantonale in materia di edilizia e di polizia del fuoco.[^1-5]
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
-[^1-2]: Nuovo testo giusta l’all. n. 3 alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^1-3]: Nuovo testo giusta l’all. n. 3 alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
-[^1-4]: Introdotto dall’all. n. 3 alla LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^1-2]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^1-3]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-4]: Nuovo testo giusta l’all. n. 3 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
+[^1-5]: Introdotto dall’all. n. 3 della LF del 22 giu. 2007, in vigore dal 12 dic. 2008 ([RU 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. d; [FF 2006 2531](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
 #### Art. 2
 
 **Esercito e amministrazioni militari**
 
-<sup>1</sup> L’esercito, le amministrazioni militari federali e cantonali e le loro regie sottostanno alle disposizioni della presente legge soltanto in quanto forniscano esplosivi a uffici civili o a privati.
+<sup>1</sup> L’esercito, le amministrazioni militari federali e cantonali e le loro regìe sottostanno alle disposizioni della presente legge soltanto in quanto forniscano esplosivi o pezzi pirotecnici a uffici civili o a privati.[^2-1]
 
-<sup>2</sup> Il Consiglio federale emana prescrizioni sul commercio di esplosivi nell’esercito, nelle amministrazioni militari e nelle loro regìe. Esso può derogare alla presente legge soltanto se gli interessi della difesa nazionale lo esigono.
+<sup>2</sup> Il Consiglio federale emana prescrizioni sulle operazioni con esplosivi nell’esercito, nelle amministrazioni militari e nelle loro regìe.[^2-2] Esso può derogare alla presente legge soltanto se gli interessi della difesa nazionale lo esigono.
 
-<sup>3</sup> Il Consiglio federale può delegare questa competenza al Dipartimento federale della difesa, della protezione della popolazione e dello sport[^2-1] e ai servizi che ne dipendono.
+<sup>3</sup> Il Consiglio federale può delegare questa competenza al Dipartimento federale della difesa, della protezione della popolazione e dello sport[^2-3] e ai servizi che ne dipendono.
 
-[^2-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997.
+[^2-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^2-2]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^2-3]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997.
 
 #### Art. 2a
 
@@ -72,15 +75,17 @@ decreta:
 
 <sup>2</sup> Può prevedere disposizioni speciali per tali corpi.
 
-[^2a-1]: Introdotto dell’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^2a-1]: Introdotto dell’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 3
 
-**Commercio**
+**Operazioni**[^3-1]
 
-<sup>1</sup> Per commercio va intesa qualsiasi operazione con esplosivi e pezzi pirotecnici, segnatamente la fabbricazione, il deposito, la detenzione, l’importazione, la fornitura, l’acquisto, l’impiego e la distruzione.
+<sup>1</sup> Per operazioni s’intende qualsiasi attività correlata a esplosivi e pezzi pirotecnici, segnatamente la fabbricazione, il deposito, la detenzione, l’importazione, la fornitura, l’acquisto, l’impiego e la distruzione.
 
-<sup>2</sup> Il trasporto all’interno del Paese nel traffico postale, ferroviario, stradale, aereo, fluviale e lacustre non è considerato commercio; esso è disciplinato secondo le prescrizioni speciali della legislazione federale e degli accordi internazionali.
+<sup>2</sup> Il trasporto all’interno del Paese nel traffico postale, ferroviario, stradale, aereo, fluviale e lacustre non è considerato un’operazione ai sensi della presente legge; esso è disciplinato secondo le prescrizioni speciali della legislazione federale e degli accordi internazionali.
+
+[^3-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 4
 
@@ -96,11 +101,14 @@ Per esplosivi si intendono le materie esplosive e i mezzi d’innesco.
 
 <sup>2</sup>
 
-Non sono considerate materie esplosive:
+Non sono considerate materie esplosive ai sensi della presente legge:[^5-1]
 
 - a. i gas esplosivi, i vapori di combustibili liquidi e le altre sostanze che esplodono soltanto dopo essere state miscelate con l’aria;
 - b. gli additivi impiegati nella fabbricazione di prodotti chimici o i prodotti intermedi di tale fabbricazione presentanti rischio d’esplosione eliminato però prima che sia terminato il processo di fabbricazione;
-- c. i prodotti e i preparati esplosivi, fabbricati e messi in commercio per scopo diverso da quello derivante dalle loro proprietà esplosive.
+- c.[^5-2] i prodotti e i preparati esplodenti, fabbricati per scopo diverso da quello derivante dalle loro proprietà esplosive.
+
+[^5-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^5-2]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 6
 
@@ -112,7 +120,7 @@ I mezzi d’innesco contengono sostanze esplosive e servono al brillamento.
 
 **Pezzi pirotecnici**
 
-I pezzi pirotecnici sono prodotti pronti all’uso, comprendenti un elemento esplosivo o un dispositivo d’innesco che
+I pezzi pirotecnici sono prodotti pronti all’uso, comprendenti un elemento esplosivo o un dispositivo d’innesco che:
 
 - a. non servono al brillamento ma ad altri fini industriali, tecnici o agricoli come i mezzi di segnaletica, i razzi meteorologici, i candelotti per la saldatura o la tempera dei metalli, oppure
 - b. sono destinati unicamente allo spettacolo come i fuochi d’artificio.
@@ -140,19 +148,24 @@ Per polvere da fuoco s’intende:
 
 [^8-1]: Abrogato dal n. I della LF del 13 dic. 1996, con effetto dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
-## Sezione 3: Diritto di commerciare esplosivi e pezzi pirotecnici
+## Sezione 3: Diritto di effettuare operazioni con esplosivi e pezzi pirotecnici
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 8a
 
 **Principio**[^8a-1]
 
-Gli esplosivi e i pezzi pirotecnici possono essere commercializzati solo se non mettono in pericolo la vita e la salute degli utenti e di terzi quando sono utilizzati conformemente alle prescrizioni e con le dovute precauzioni. Il Consiglio federale stabilisce le esigenze in materia di sicurezza e disciplina le procedure in materia di conformità e di autorizzazione; tiene conto al riguardo del diritto internazionale.
+Le operazioni con esplosivi e pezzi pirotecnici sono consentite unicamente se questi non mettono in pericolo la vita e la salute degli utenti e di terzi quando sono utilizzati conformemente alle prescrizioni e con le dovute precauzioni.[^8a-2] Il Consiglio federale stabilisce le esigenze in materia di sicurezza e disciplina le procedure in materia di conformità e di autorizzazione; tiene conto al riguardo del diritto internazionale.
 
 [^8a-1]: Introdotto dal n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^8a-2]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 9
 
-**Fabbricazione nonché importazione, esportazione e transito[^9-1]**
+**Fabbricazione, detenzione nonché importazione, esportazione e transito[^9-1]**
 
 <sup>1</sup> Esplosivi e polvere da fuoco possono essere fabbricati o importati in Svizzera solo con un’autorizzazione della Confederazione. Chi ottiene l’autorizzazione di fabbricare esplosivi e polvere da fuoco, può venderli anche in Svizzera. Un’autorizzazione secondo la legislazione sulle armi per l’importazione di polvere da fuoco vale quale autorizzazione d’importazione conformemente alla presente legge.[^9-2]
 
@@ -165,13 +178,14 @@ L’esportazione e il transito di esplosivi e polvere da fuoco sono disciplinati
 
 <sup>2</sup> I pezzi pirotecnici possono essere fabbricati o importati soltanto con l’autorizzazione della Confederazione. Il Consiglio federale disciplina il rilascio, la revoca e la scadenza delle autorizzazioni. Può dispensare taluni prodotti o gruppi di prodotti dall’obbligo dell’autorizzazione, sempreché la sicurezza sia garantita da altre misure.[^9-4]
 
-<sup>3</sup> ...[^9-5]
+<sup>3</sup> Sono fatte salve le disposizioni della legge federale del 25 settembre 2020[^9-5] sui precursori di sostanze esplodenti relative alla fabbricazione di sostanze esplodenti da parte di utilizzatori privati e all’acquisto e alla detenzione di sostanze esplodenti fabbricate da utilizzatori privati.[^9-6]
 
-[^9-1]: Nuovo titolo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 [^9-2]: Nuovo testo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^9-3]: Introdotto dal n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
 [^9-4]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
-[^9-5]: Introdotto dal n. I della LF del 13 dic. 1996 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)). Abrogato dal n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, con effetto dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+[^9-5]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
+[^9-6]: Introdotto dal n. I della LF del 13 dic. 1996 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)). Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 10
 
@@ -185,9 +199,10 @@ L’esportazione e il transito di esplosivi e polvere da fuoco sono disciplinati
 
 <sup>4</sup> L’autorizzazione è accordata soltanto alle imprese degne di fiducia e alle persone di buona reputazione che dispongono delle conoscenze tecniche necessarie e dei depositi prescritti.
 
-<sup>5</sup> Spetta alla Confederazione il diritto di autorizzare l’esercito, le amministrazioni militari federali e cantonali e le loro regie a fornire ordigni esplosivi a uffici civili e a privati.
+<sup>5</sup> La fornitura di ordigni esplosivi o pezzi pirotecnici da parte dell’esercito, delle amministrazioni militari federali e cantonali e delle loro regìe a uffici civili e a privati avviene d’intesa con l’Ufficio centrale.[^10-2]
 
 [^10-1]: Nuovo testo giusta il n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
+[^10-2]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 11
 
@@ -246,10 +261,27 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>6</sup> ...[^14-4]
 
-[^14-1]: Nuovo testo del per. giusta l’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^14-2]: Introdotto dall’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-1]: Nuovo testo del per. giusta l’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^14-2]: Introdotto dall’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^14-3]: Nuova espr. giusta il n. I 32 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
-[^14-4]: Introdotto dall’all. n. 5 alla LF del 12 giu. 2009 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Abrogato dall’all. n. 37 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^14-4]: Introdotto dall’all. n. 5 della LF del 12 giu. 2009 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Abrogato dall’all. n. 37 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+
+#### Art. 14a
+
+**Rifiuto di autorizzazioni, di permessi d’acquisto e di permessi d’uso**[^14a-1]
+
+<sup>1</sup>
+
+L’autorità competente può rifiutare o revocare a una persona l’autorizzazione di fabbricazione o d’importazione, il permesso d’acquisto o il permesso d’uso, se sussiste uno dei motivi d’impedimento seguenti:
+
+- a. la persona è sottoposta a curatela generale o è rappresentata da una persona che ha designato con mandato precauzionale;
+- b. vi sono indizi secondo cui la persona potrebbe utilizzare, manipolare o custodire gli esplosivi o i pezzi pirotecnici in modo tale da esporre a pericolo se stessa o terzi;
+- c. la persona è iscritta nel casellario giudiziale per un reato tale da far temere che possa commettere reati contro la vita e l’integrità delle persone o contro cose oppure contribuire alla commissione di simili reati;
+- d. vi sono altri indizi secondo cui la persona potrebbe commettere reati contro la vita e l’integrità delle persone o contro cose oppure contribuire alla commissione di simili reati.
+
+<sup>2</sup> Per esaminare i motivi d’impedimento, le autorità competenti possono chiedere informazioni sulle persone all’Ufficio federale di polizia (fedpol). Se fedpol è a conoscenza dell’esistenza di un motivo d’impedimento, può informarne d’ufficio le autorità competenti.
+
+[^14a-1]: Introdotto dall’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 15
 
@@ -265,21 +297,25 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>5</sup> È vietato l’uso al fine di spettacolo di esplosivi e pezzi pirotecnici destinati ad altri scopi. I Cantoni possono permettere eccezionalmente l’impiego di polvere da fuoco per commemorare ricorrenze storiche o per manifestazioni analoghe, se esiste garanzia per un uso a regola d’arte.
 
-[^15-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^15-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 16
 
-**Casi speciali**
+**Casi speciali**[^16-1]
 
-Il Consiglio federale può agevolare il commercio di esplosivi e, nel caso di quantità esigue, esentarlo dall’obbligo d’autorizzazione, se detti esplosivi servono in Svizzera a scopi scientifici, di ricerca o di formazione.
+Il Consiglio federale può agevolare le operazioni con esplosivi e, nel caso di quantità esigue, esentarle dall’obbligo d’autorizzazione, se detti esplosivi servono in Svizzera a fini scientifici, di ricerca o di formazione
+
+[^16-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 ## Sezione 4: Prescrizioni di protezione e di sicurezza
 
 #### Art. 17
 
-**Principio**
+**Principio**[^17-1]
 
-Chiunque commercia con esplosivi o pezzi pirotecnici deve, per la sicurezza di quest’ultimi nonché per la protezione della vita e dei beni, adottare tutti i provvedimenti che, secondo le circostanze, si possono ragionevolmente pretendere.
+Chiunque effettua operazioni con esplosivi o pezzi pirotecnici deve, per la sicurezza di questi ultimi nonché per la protezione della vita e dei beni, adottare tutti i provvedimenti che, secondo le circostanze, si possono ragionevolmente pretendere.
+
+[^17-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 18
 
@@ -339,8 +375,8 @@ Il Consiglio federale può agevolare le condizioni relative al deposito e alla c
 
 <sup>2</sup> Sono riservate le disposizioni sulla prevenzione degli infortuni giusta la legge federale del 20 marzo 1981[^23-1] sull’assicurazione contro gli infortuni.[^23-2]
 
-[^23-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^23-2]: Nuovo testo giusta l’all. n. 14 alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^23-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^23-2]: Nuovo testo giusta l’all. n. 14 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 24
 
@@ -378,38 +414,45 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>3</sup> Anche la Confederazione, i Cantoni e i Comuni sottostanno a queste disposizioni.
 
-[^27-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^27-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
-## Sezione 6: Vigilanza sul commercio di esplosivi e pezzi pirotecnici
+## Sezione 6: Vigilanza sulle operazioni con esplosivi e pezzi pirotecnici
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 28
 
 **Competenza**
 
-<sup>1</sup> I Cantoni sorvegliano il commercio di esplosivi e pezzi pirotecnici. È fatto salvo l’articolo 33 capoverso 3.[^28-1]
+<sup>1</sup> I Cantoni sorvegliano le operazioni con esplosivi e pezzi pirotecnici.[^28-1] È fatto salvo l’articolo 33 capoverso 3.[^28-2]
 
-<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini vigila sull’importazione di esplosivi e pezzi pirotecnici.[^28-2]
+<sup>2</sup> L’Ufficio federale della dogana e della sicurezza dei confini vigila sull’importazione di esplosivi e pezzi pirotecnici.[^28-3]
 
-<sup>3</sup> La vigilanza sul commercio con esplosivi nell’esercito e nelle amministrazioni militari federali e cantonali spetta alla Confederazione.
+<sup>3</sup> La vigilanza sulle operazioni con esplosivi nell’esercito e nelle amministrazioni militari federali e cantonali spetta alla Confederazione.[^28-4]
 
-[^28-1]: Per. introdotto dall’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^28-2]: Nuovo testo giusta il n. I 37 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamenot della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^28-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^28-2]: Per. introdotto dall’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^28-3]: Nuovo testo giusta il n. I 37 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamenot della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
+[^28-4]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 29
 
 **Inventari**
 
-<sup>1</sup> I titolari d’autorizzazioni di fabbricazione, importazione e vendita di esplosivi devono tenere inventari distinti circa le loro operazioni riguardanti le materie esplosive e i mezzi di innesco.
+<sup>1</sup> I titolari d’autorizzazioni di fabbricazione, importazione e vendita di esplosivi devono tenere inventari distinti circa le loro transazioni commerciali riguardanti le materie esplosive e i mezzi di innesco.[^29-1]
 
 <sup>2</sup> I grossi utilizzatori di esplosivi hanno pure l’obbligo di tenere l’inventario.
 
 <sup>3</sup> Negli inventari devono essere indicati esattamente il tipo e la quantità degli esplosivi, la loro provenienza, la loro destinazione o il loro uso.
 
-<sup>4</sup> Gli inventari con gli atti devono essere custoditi in buon ordine durante cinque anni con i rispettivi giustificativi. Il Consiglio federale può prevedere un termine di conservazione più lungo.[^29-1]
+<sup>4</sup> Gli inventari con gli atti devono essere custoditi in buon ordine durante cinque anni con i rispettivi giustificativi. Il Consiglio federale può prevedere un termine di conservazione più lungo.[^29-2]
 
 <sup>5</sup> Il Consiglio federale disciplina la tenuta degli inventari dei pezzi pirotecnici. Esso può restringerla a determinati tipi.
 
-[^29-1]: Per. introdotto dell’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^29-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
+[^29-2]: Per. introdotto dell’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 
 #### Art. 30
 
@@ -421,8 +464,8 @@ Il Consiglio federale, uditi i Cantoni, l’Istituto nazionale svizzero d’assi
 
 <sup>3</sup> È riservato l’obbligo di annunciare l’infortunio conformemente all’articolo 45 della legge federale del 20 marzo 1981[^30-1] sull’assicurazione contro gli infortuni.[^30-2]
 
-[^30-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^30-2]: Nuovo testo giusta l’all. n. 14 alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^30-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^30-2]: Nuovo testo giusta l’all. n. 14 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 #### Art. 31
 
@@ -444,10 +487,10 @@ Gli organi d’esecuzione possono, durante le ore di lavoro, entrare senza preav
 
 <sup>2</sup> L’Ufficio centrale allestisce un elenco degli esplosivi. L’elenco ha carattere informativo ed è comunicato periodicamente ai Cantoni e all’Istituto nazionale svizzero d’assicurazione contro gli infortuni.
 
-<sup>3</sup> In collaborazione con le autorità cantonali competenti, l’Ufficio centrale verifica mediante controlli per campionatura che gli esplosivi e i pezzi pirotecnici messi in commercio siano conformi alle prescrizioni legali.[^33-2]
+<sup>3</sup> In collaborazione con le autorità cantonali competenti, l’Ufficio centrale verificamediante controlli per campionatura che gli esplosivi e i pezzi pirotecnici siano conformi alle prescrizioni legali. Le verifiche sono effettuate segnatamente presso i fabbricanti, gli importatori e i commercianti.[^33-2]
 
 [^33-1]: Nuovo testo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
-[^33-2]: Introdotto dall’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^33-2]: Introdotto dall’all. n. 5 della LF del 12 giu. 2009 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)). Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 34
 
@@ -455,10 +498,10 @@ Gli organi d’esecuzione possono, durante le ore di lavoro, entrare senza preav
 
 I provvedimenti intesi a garantire protezione ai lavoratori sono eseguiti secondo la legge federale del 20 marzo 1981[^34-2] sull’assicurazione contro gli infortuni.
 
-[^34-1]: Nuovo testo giusta l’all. n. 14 alla LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^34-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^34-1]: Nuovo testo giusta l’all. n. 14 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art.1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
+[^34-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
-## Sezione 6*a*:**** Tasse
+## Sezione 6*a*: Tasse
 
 [^sec6a-1]
 
@@ -484,36 +527,48 @@ Per le autorizzazioni previste nella presente legge sono riscosse tasse. Il Cons
 
 Le decisioni inerenti ai permessi d’uso ai sensi dell’articolo 14 possono essere impugnate mediante ricorso alla Segreteria di Stato per la formazione, la ricerca e l’innovazione[^36-2].
 
-[^36-1]: Nuovo testo giusta l’all. n. 5 alla LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^36-1]: Nuovo testo giusta l’all. n. 5 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
 [^36-2]: Nuova espr. giusta il n. I 32 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)).
 
-## Sezione 8: Disposizioni penali****
+## Sezione 8: Disposizioni penali
 
 [^sec8-1]
 
-[^sec8-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^sec8-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2 – 6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13. dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 #### Art. 37
 
-**Commercio non autorizzato**
+**Operazioni non autorizzate**[^37-1]
 
-<sup>1.</sup> Chiunque, senza essere autorizzato o in violazione della presente legge, commercia con esplosivi o pezzi pirotecnici segnatamente fabbricandoli, depositandoli, detenendoli, importandoli, fornendoli, acquistandoli, usandoli o distruggendoli, chiunque fornisce indicazioni errate o incomplete, importanti per il rilascio di un’autorizzazione prevista nella presente legge, chiunque fa uso di un’autorizzazione ottenuta mediante siffatte indicazioni,
+<sup>1</sup>
 
-è punito, se ha agito intenzionalmente, con la detenzione o con la multa. Se l’autore ha agito per negligenza, la pena è dell’arresto o della multa.
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, intenzionalmente:
 
-<sup>2.</sup> Chiunque, senza autorizzazione, fabbrica, importa o commercia polvere da fuoco oppure semifabbricati o prodotti finiti che la contengono è punito con la multa.[^37-1]
+- a. senza essere autorizzato o in violazione della presente legge, effettua operazioni con esplosivi o pezzi pirotecnici, segnatamente fabbricandoli, depositandoli, detenendoli, importandoli, fornendoli, acquistandoli, usandoli o distruggendoli;
+- b. fornisce indicazioni errate o incomplete, importanti per il rilascio di un’autorizzazione prevista nella presente legge;
+- c. fa uso di un’autorizzazione ottenuta mediante tali indicazioni.
 
-[^37-1]: Nuovo testo giusta il n. I 3 della LF del 22 giu. 2001 concernente il coordinamento della legislazione federale sulle armi, sul materiale bellico, sugli esplosivi e sui beni utilizzabili a fini civili e militari, in vigore dal 1° mar. 2002 ([RU 2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53); [FF 2000 2971](https://fedlex.data.admin.ch/eli/fga/2000/714)).
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
+
+<sup>3</sup> Chiunque, senza autorizzazione, fabbrica, importa o commercia polvere da fuoco oppure semifabbricati o prodotti finiti che la contengono è punito con la multa.
+
+[^37-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 38
 
-**Altre infrazioni**
+**Altre infrazioni**[^38-1]
 
-<sup>1.</sup> Chiunque disattende i provvedimenti di protezione o di sicurezza prescritti dalla presente legge (art. 17 a 26) o da una ordinanza d’esecuzione, chiunque viola gli obblighi di tenere gli inventari, di annunciare o di informare impostigli dalla presente legge o dalle disposizioni esecutive,
+<sup>1</sup>
 
-chiunque in altro modo contravviene intenzionalmente alla presente legge, alle disposizioni esecutive o ad una singola decisione (art. 35) notificatagli sotto comminatoria della pena prevista nel presente articolo è punito con l’arresto o con la multa.
+È punito con la multa sino a 20 000 franchi chiunque, intenzionalmente:
 
-<sup>2.</sup> Se il colpevole ha agito per negligenza, la pena è della multa.
+- a. disattende i provvedimenti di protezione o di sicurezza prescritti dalla presente legge (art. 17–26) o da un’ordinanza d’esecuzione;
+- b. viola gli obblighi di tenere gli inventari, di annunciare o di informare impostigli dalla presente legge o dalle disposizioni esecutive;
+- c. in altro modo contravviene alla presente legge, alle disposizioni esecutive o a una singola decisione (art. 35) notificatagli sotto comminatoria della pena prevista nel presente articolo.
+
+<sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
+
+[^38-1]: Nuovo testo giusta l’all. n. 5 della LF del 25 set. 2020 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 151](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
 #### Art. 39
 
@@ -531,15 +586,15 @@ chiunque in altro modo contravviene intenzionalmente alla presente legge, alle d
 
 <sup>1</sup> Gli articoli 224 a 226 del Codice penale[^40-1] escludono l’irrogazione di pene giusta la presente legge soltanto se ricoprono l’atto in tutti i suoi aspetti, sia sul piano dell’illecito sia su quello della colpa.
 
-<sup>2</sup> e <sup>3</sup> ...[^40-2]
+<sup>2 e <sup>3</sup></sup> ...[^40-2]
 
 <sup>4</sup> Le disposizioni penali della presente legge prevalgono sugli articoli 49 e 50 della legge del 15 dicembre 2000[^40-3] sui prodotti chimici e sugli articoli 112 e 113 della legge del 20 marzo 1981[^40-4] sull’assicurazione contro gli infortuni.[^40-5]
 
-[^40-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^40-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^40-2]: Abrogati dall’art. 45 della LF del 13 dic. 1996 sul materiale bellico, con effetto dal 1° apr. 1998 ([RU 1998 794](https://fedlex.data.admin.ch/eli/oc/1998/794_794_794); [FF 1995 II 864](https://fedlex.data.admin.ch/eli/fga/1995/2_1027_988_864)).
-[^40-3]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^40-4]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^40-5]: Nuovo testo giusta l’all. n. II 5 alla L del 15 dic. 2000 sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)[2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)).
+[^40-3]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^40-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^40-5]: Nuovo testo giusta l’all. n. II 5 della L del 15 dic. 2000 sui prodotti chimici, in vigore dal 1° ago. 2005 ([RU 2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)[2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [FF 2000 590](https://fedlex.data.admin.ch/eli/fga/2000/195)).
 
 #### Art. 41
 
@@ -586,7 +641,7 @@ chiunque in altro modo contravviene intenzionalmente alla presente legge, alle d
 
 <sup>7</sup> Fino all’entrata in vigore della legislazione della Confederazione sulle armi, gli articoli 9, 10, 15, 17, 27–32 e 34–41 sono applicabili anche per munizioni che non sottostanno alla legge del 13 dicembre 1996[^43-1] sul materiale bellico; il Consiglio federale disciplina i particolari.[^43-2]
 
-[^43-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
+[^43-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
 [^43-2]: Introdotto dal il n. I della LF del 13 dic. 1996, in vigore dal 1° apr. 1998 ([RU 1998 990](https://fedlex.data.admin.ch/eli/oc/1998/990_990_990); [FF 1996 II 922](https://fedlex.data.admin.ch/eli/fga/1996/2_1042_1023_922)).
 
 #### Art. 44
