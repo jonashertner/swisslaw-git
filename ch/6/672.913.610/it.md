@@ -3,18 +3,18 @@ sr: "672.913.610"
 title: Ordinanza del 30 aprile 2003 concernente la convenzione germano-svizzera di doppia imposizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/229"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2003-04-30
 in_force: 2003-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/229/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2003-229-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/229/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/229/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-229-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/229/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la convenzione germano-svizzera di doppia imposizione
 
-del 30 aprile 2003 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 30 aprile 2003 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -44,46 +44,50 @@ ordina:
 
 <sup>1</sup> L’istanza di rimborso dell’imposta preventiva va presentata dagli aventi diritto residenti nella Repubblica federale di Germania su modulo 85.
 
-<sup>2</sup> Il richiedente deve fare l’istanza in doppio e sottomettere i due esemplari al competente ufficio finanziario germanico. Quest’ultimo trattiene l’esemplare a lui destinato e ritorna al richiedente l’esemplare per l’Amministrazione federale delle contribuzioni con l’attestazione prevista sul modulo.
+<sup>2</sup> Il richiedente deve fare l’istanza in doppio e sottomettere i due esemplari al competente ufficio finanziario germanico. Quest’ultimo trattiene l’esemplare a lui destinato e ritorna al richiedente l’esemplare per l’Amministrazione federale delle contribuzioni (AFC) con l’attestazione prevista sul modulo.[^2-2]
 
-<sup>3</sup> Il richiedente deve presentare l’esemplare dell’istanza con l’attestazione all’Amministrazione federale delle contribuzioni, Berna, nei tre anni successivi alla fine dell’anno civile in cui i dividendi o gli interessi sono scaduti.
+<sup>3</sup> Il richiedente deve presentare l’esemplare dell’istanza con l’attestazione all’AFC[^2-3], Berna, nei tre anni successivi alla fine dell’anno civile in cui i dividendi o gli interessi sono scaduti.
 
-<sup>4</sup> L’Amministrazione federale delle contribuzioni verifica la fondatezza e l’esattezza dell’istanza. Essa domanda direttamente al richiedente le informazioni e le prove che fossero necessarie.[^2-2]
+<sup>4</sup> L AFC verifica la fondatezza e l’esattezza dell’istanza. Essa domanda direttamente al richiedente le informazioni e le prove che fossero necessarie.[^2-4]
 
-<sup>5</sup> L’Amministrazione federale delle contribuzioni notifica per scritto il risultato della verifica al richiedente e paga l’ammontare del rimborso all’indirizzo indicato nell’istanza.[^2-3]
+<sup>5</sup> L’AFC notifica per scritto il risultato della verifica al richiedente e paga l’ammontare del rimborso all’indirizzo indicato nell’istanza.[^2-5]
 
-<sup>6</sup> Se l’istanza è respinta in tutto o in parte, il richiedente può esigere dall’Amministrazione federale delle contribuzioni una decisione, che deve essere notificata, con indicazione dei motivi e dei rimedi giuridici.[^2-4]
+<sup>6</sup> Se l’istanza è respinta in tutto o in parte, il richiedente può esigere dall’AFC una decisione, che deve essere notificata, con indicazione dei motivi e dei rimedi giuridici.[^2-6]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-2]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
-[^2-3]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-2]: Nuovo testo del per. giusta il n. I 3 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^2-3]: Nuova espr. giusta il n. I 3 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^2-4]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-5]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^2-6]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
 #### Art. 3
 
 **Procedura di dichiarazione per dividendi da partecipazioni determinanti**[^3-1]
 
-<sup>1</sup> Su istanza l’Amministrazione federale delle contribuzioni può rilasciare a una società svizzera l’autorizzazione di versare senza la ritenuta dell’imposta preventiva i dividendi pagati a una società di capitali tedesca, purché siano adempiute le condizioni dell’articolo 10 paragrafo 3 della convenzione.
+<sup>1</sup> Su istanza l’AFC può rilasciare a una società svizzera l’autorizzazione di versare senza la ritenuta dell’imposta preventiva i dividendi pagati a una società tedesca ai sensi dell’articolo 3 paragrafo 1 lettera e della convenzione, purché siano adempiute le condizioni dell’articolo 10 paragrafo 3 della convenzione.[^3-2]
 
 <sup>2</sup> L’istanza deve essere presentata su modulo ufficiale prima della scadenza dei dividendi.
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni verifica l’istanza. Un’autorizzazione può essere rilasciata solo quando è accertato che la società di capitali tedesca, a carico della quale dovrebbe essere trasferita l’imposta, ha diritto al previsto sgravio da questa imposta a titolo di partecipazione determinante secondo l’articolo 10 paragrafo 3 della convenzione. L’autorizzazione viene notificata per scritto ed è valida tre anni.
+<sup>3</sup> L’AFC verifica l’istanza. Un’autorizzazione può essere rilasciata solo quando è accertato che la società tedesca, a carico della quale dovrebbe essere trasferita l’imposta, ha diritto al previsto sgravio da questa imposta a titolo di partecipazione determinante secondo l’articolo 10 paragrafo 3 della convenzione. L’autorizzazione viene notificata per scritto ed è valida cinque anni.[^3-3]
 
-<sup>4</sup> Se l’istanza è respinta in tutto o in parte, la società svizzera può esigere dall’Amministrazione federale delle contribuzioni una decisione, che deve essere notificata con indicazione dei motivi e dei rimedi giuridici.
+<sup>4</sup> Se l’istanza è respinta in tutto o in parte, la società svizzera può esigere dall’AFC una decisione, che deve essere notificata con indicazione dei motivi e dei rimedi giuridici.
 
-<sup>5</sup> Se i presupposti per il diritto alla procedura di dichiarazione non sono più adempiuti, la società svizzera che paga i dividendi deve informarne tempestivamente l’Amministrazione federale delle contribuzioni.
+<sup>5</sup> Se i presupposti per il diritto alla procedura di dichiarazione non sono più adempiuti, la società svizzera che paga i dividendi deve informarne tempestivamente l’AFC.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
+[^3-2]: Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^3-3]: Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 3a
 
-**Dichiarazione all’Amministrazione federale delle contribuzioni**[^3a-1]
+**Dichiarazione all’AFC**[^3a-1]
 
-<sup>1</sup> Se dispone di un’autorizzazione, la società svizzera che paga i dividendi ne dichiara spontaneamente entro 30 giorni il pagamento mediante il modulo 108. Esso deve essere presentato all’Amministrazione federale delle contribuzioni unitamente al modulo ufficiale di riscossione.
+<sup>1</sup> Se dispone di un’autorizzazione, la società svizzera che paga i dividendi ne dichiara spontaneamente entro 30 giorni il pagamento mediante il modulo 108. Esso deve essere presentato all’AFC unitamente al modulo ufficiale di riscossione.
 
-<sup>2</sup> Il capoverso 1 è valido anche quando non è stata presentata nessuna istanza di autorizzazione o non è ancora stata presa nessuna decisione. In assenza di istanza di autorizzazione, questa deve essere presentata unitamente al modulo 108. Se il controllo dell’Amministrazione federale delle contribuzioni dimostra un abuso della procedura di dichiarazione, l’imposta preventiva e un eventuale interesse di mora devono essere riscossi posticipatamente. Se la riscossione posticipata è contestata, l’Amministrazione federale delle contribuzioni emana una decisione.
+<sup>2</sup> Il capoverso 1 è valido anche quando non è stata presentata nessuna istanza di autorizzazione o non è ancora stata presa nessuna decisione. In assenza di istanza di autorizzazione, questa deve essere presentata unitamente al modulo 108. Se il controllo dell’AFC dimostra un abuso della procedura di dichiarazione, l’imposta preventiva e un eventuale interesse di mora devono essere riscossi posticipatamente. Se la riscossione posticipata è contestata, l’AFC emana una decisione.
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni può trasmettere copia del modulo 108 all’autorità tedesca competente.
+<sup>3</sup> L’AFC può trasmettere copia del modulo 108 all’autorità tedesca competente.
 
 [^3a-1]: Introdotto dal n. I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 19](https://fedlex.data.admin.ch/eli/oc/2005/7)).
 
@@ -91,7 +95,7 @@ ordina:
 
 **Rimedio giuridico**[^4-1]
 
-I ricorsi contro le decisioni dell’Amministrazione federale delle contribuzioni sono retti dalle disposizioni generali concernenti l’organizzazione giudiziaria.
+I ricorsi contro le decisioni dell’AFC sono retti dalle disposizioni generali concernenti l’organizzazione giudiziaria.
 
 [^4-1]: Nuovo testo giusta il n. II 51 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -125,26 +129,26 @@ Le persone residenti in Svizzera, che pretendono gli sgravi delle imposte german
 
 <sup>1</sup> L’autorità fiscale cantonale, alla quale è stata presentata l’istanza, verifica se le condizioni per lo sgravio delle imposte germaniche sono soddisfatte.
 
-<sup>2</sup> Se l’istanza è fondata, l’autorità fiscale cantonale lo attesta sugli esemplari dell’istanza destinati alle autorità germaniche e all’Amministrazione federale delle contribuzioni. L’autorità fiscale cantonale conserva nei suoi atti un esemplare dell’istanza.
+<sup>2</sup> Se l’istanza è fondata, l’autorità fiscale cantonale lo attesta sugli esemplari dell’istanza destinati alle autorità germaniche e all’AFC. L’autorità fiscale cantonale conserva nei suoi atti un esemplare dell’istanza.
 
 <sup>3</sup>
 
 L’autorità fiscale cantonale invia gli esemplari attestati:
 
 - a. di un’istanza su modulo R-D 1 o R-D 3, compresi gli allegati, in ritorno al richiedente, il quale deve presentare gli esemplari all’ufficio federale delle finanze a Bonn nei quattro anni successivi alla fine dell’anno civile in cui i redditi sono pagati;
-- b. di un’istanza su modulo R-D 2, R-D 4 o R-D 5, compresi gli allegati, all’Amministrazione federale delle contribuzioni a Berna, la quale conserva nei suoi atti un esemplare e trasmette l’altro esemplare insieme con gli allegati all’ufficio federale delle finanze a Bonn.
+- b. di un’istanza su modulo R-D 2, R-D 4 o R-D 5, compresi gli allegati, all’AFC a Berna, la quale conserva nei suoi atti un esemplare e trasmette l’altro esemplare insieme con gli allegati all’ufficio federale delle finanze a Bonn.
 
-<sup>4</sup> Le autorità fiscali cantonali e l’Amministrazione federale delle contribuzioni hanno il diritto di procedere a inchieste complementari.
+<sup>4</sup> Le autorità fiscali cantonali e l’AFC hanno il diritto di procedere a inchieste complementari.
 
 ## Sezione 3: Scambio di informazioni generale
 
 #### Art. 8
 
-<sup>1</sup> Da parte svizzera, solo l’Amministrazione federale delle contribuzioni è competente a comunicare alle autorità germaniche le informazioni previste nell’articolo 27 lettera a della convenzione. Le richieste d’informazione da parte germanica, che pervengono ad altre autorità, devono essere trasmesse all’Amministrazione federale delle contribuzioni.
+<sup>1</sup> Da parte svizzera, solo l’AFC è competente a comunicare alle autorità germaniche le informazioni previste nell’articolo 27 lettera a della convenzione. Le richieste d’informazione da parte germanica, che pervengono ad altre autorità, devono essere trasmesse all’Amministrazione federale delle contribuzioni.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni decide sulle contestazioni che sorgono in merito alla comunicazione d’informazioni di tale genere.
+<sup>2</sup> L’AFC decide sulle contestazioni che sorgono in merito alla comunicazione d’informazioni di tale genere.
 
-<sup>3</sup> Il ricorso contro la decisione dell’Amministrazione federale delle contribuzioni è retto dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^8-1]
+<sup>3</sup> Il ricorso contro la decisione dell’AFC è retto dalle disposizioni generali concernenti l’organizzazione giudiziaria.[^8-1]
 
 [^8-1]: Nuovo testo giusta il n. II 51 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -154,29 +158,29 @@ L’autorità fiscale cantonale invia gli esemplari attestati:
 
 **Esame preliminare delle richieste germaniche**
 
-<sup>1</sup> Le richieste delle competenti autorità germaniche per lo scambio di informazioni secondo l’articolo 27 paragrafo 1 lettera b della convenzione in caso di delitti in materia di frode fiscale sono oggetto di un esame preliminare dell’Amministrazione federale delle contribuzioni.
+<sup>1</sup> Le richieste delle competenti autorità germaniche per lo scambio di informazioni secondo l’articolo 27 paragrafo 1 lettera b della convenzione in caso di delitti in materia di frode fiscale sono oggetto di un esame preliminare dell’AFC.
 
-<sup>2</sup> Se una richiesta di scambio di informazioni non può essere soddisfatta, l’Amministrazione federale delle contribuzioni ne informa la competente autorità germanica. Quest’ultima può completare la sua richiesta.
+<sup>2</sup> Se una richiesta di scambio di informazioni non può essere soddisfatta, l’AFC ne informa la competente autorità germanica. Quest’ultima può completare la sua richiesta.
 
-<sup>3</sup> Se l’esame preliminare dimostra che l’adempimento delle condizioni dell’articolo 27 paragrafo 1 lettera b della convenzione, in correlazione con il numero 3 del protocollo, è attendibile, l’Amministrazione federale delle contribuzioni informa della presentazione della richiesta e delle informazioni volute la persona che in Svizzera dispone delle relative informazioni (detentore delle informazioni). Il resto del contenuto della richiesta non deve essere comunicato al detentore delle informazioni.
+<sup>3</sup> Se l’esame preliminare dimostra che l’adempimento delle condizioni dell’articolo 27 paragrafo 1 lettera b della convenzione, in correlazione con il numero 3 del protocollo, è attendibile, l’AFC informa della presentazione della richiesta e delle informazioni volute la persona che in Svizzera dispone delle relative informazioni (detentore delle informazioni). Il resto del contenuto della richiesta non deve essere comunicato al detentore delle informazioni.
 
-<sup>4</sup> L’Amministrazione federale delle contribuzioni chiede contemporaneamente al detentore delle informazioni di trasmetterle le informazioni e d’invitare una persona interessata con domicilio all’estero a designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
+<sup>4</sup> L’AFC chiede contemporaneamente al detentore delle informazioni di trasmetterle le informazioni e d’invitare una persona interessata con domicilio all’estero a designare in Svizzera un mandatario autorizzato a ricevere le notificazioni.
 
 #### Art. 10
 
 **Ottenimento delle informazioni**
 
-<sup>1</sup> Se il detentore delle informazioni trasmette all’Amministrazione federale delle contribuzioni le informazioni richieste, quest’ultima le esamina ed emette una decisione finale.
+<sup>1</sup> Se il detentore delle informazioni trasmette all’AFC le informazioni richieste, quest’ultima le esamina ed emette una decisione finale.
 
-<sup>2</sup> Se il detentore delle informazioni o la persona interessata, rispettivamente il mandatario autorizzato a ricevere le notificazioni, non acconsentono a fornire le informazioni richieste entro un termine di 14 giorni, l’Amministrazione federale delle contribuzioni emette nei confronti del detentore delle informazioni una decisione con la quale esige la consegna delle informazioni indicate nella richiesta germanica.
+<sup>2</sup> Se il detentore delle informazioni o la persona interessata, rispettivamente il mandatario autorizzato a ricevere le notificazioni, non acconsentono a fornire le informazioni richieste entro un termine di 14 giorni, l’AFC emette nei confronti del detentore delle informazioni una decisione con la quale esige la consegna delle informazioni indicate nella richiesta germanica.
 
 #### Art. 11
 
 **Diritti della persona interessata**
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni notifica parimenti alla persona interessata o al suo mandatario autorizzato a ricevere le notificazioni, la decisione indirizzata al detentore delle informazioni nonché copia della richiesta della competente autorità germanica, a meno che nella richiesta non venga espressamente chiesta la segretezza.
+<sup>1</sup> L’AFC notifica parimenti alla persona interessata o al suo mandatario autorizzato a ricevere le notificazioni, la decisione indirizzata al detentore delle informazioni nonché copia della richiesta della competente autorità germanica, a meno che nella richiesta non venga espressamente chiesta la segretezza.
 
-<sup>2</sup> Se una persona interessata con domicilio all’estero non ha designato un mandatario autorizzato a ricevere le notificazioni, la notificazione deve essere eseguita dalla competente autorità germanica secondo il diritto germanico. Contemporaneamente, l’Amministrazione federale delle contribuzioni fissa alla persona un termine per acconsentire allo scambio di informazioni o per designare un mandatario autorizzato a ricevere le notificazioni.
+<sup>2</sup> Se una persona interessata con domicilio all’estero non ha designato un mandatario autorizzato a ricevere le notificazioni, la notificazione deve essere eseguita dalla competente autorità germanica secondo il diritto germanico. Contemporaneamente, l’AFC fissa alla persona un termine per acconsentire allo scambio di informazioni o per designare un mandatario autorizzato a ricevere le notificazioni.
 
 <sup>3</sup>
 
@@ -185,7 +189,7 @@ La persona interessata può partecipare alla procedura e consultare gli atti. La
 - a. per documenti e atti procedurali per i quali esistono motivi di segretezza secondo l’articolo 80*b* capoverso 2 della legge federale del 20 marzo 1981[^11-1] sull’assistenza in materia penale;
 - b. se lo esige l’articolo 27 della convenzione.
 
-<sup>4</sup> Oggetti, documenti e atti che sono stati consegnati all’Amministrazione federale delle contribuzioni o che quest’ultima si è procurata non possono essere utilizzati ai fini dell’applicazione del diritto fiscale svizzero. È fatto salvo l’articolo 16 paragrafo 4.
+<sup>4</sup> Oggetti, documenti e atti che sono stati consegnati all’AFC o che quest’ultima si è procurata non possono essere utilizzati ai fini dell’applicazione del diritto fiscale svizzero. È fatto salvo l’articolo 16 paragrafo 4.
 
 [^11-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
 
@@ -193,13 +197,13 @@ La persona interessata può partecipare alla procedura e consultare gli atti. La
 
 **Misure coercitive**
 
-<sup>1</sup> Se le informazioni richieste nella decisione non sono fornite all’Amministrazione federale delle contribuzioni entro il termine fissato, possono essere prese misure coercitive. Al riguardo si può procedere alla perquisizione domiciliare nonché al sequestro di oggetti, documenti e atti in forma scritta o su supporti di immagini o di dati.
+<sup>1</sup> Se le informazioni richieste nella decisione non sono fornite all’AFC entro il termine fissato, possono essere prese misure coercitive. Al riguardo si può procedere alla perquisizione domiciliare nonché al sequestro di oggetti, documenti e atti in forma scritta o su supporti di immagini o di dati.
 
-<sup>2</sup> Le misure coercitive devono essere ordinate dal direttore dell’Amministrazione federale delle contribuzioni o dal suo sostituto. Esse devono essere eseguite da persone particolarmente istruite a tale scopo.
+<sup>2</sup> Le misure coercitive devono essere ordinate dal direttore dell’AFC o dal suo sostituto. Esse devono essere eseguite da persone particolarmente istruite a tale scopo.
 
-<sup>3</sup> In caso di pericolo imminente e se una misura non può essere ordinata tempestivamente, la persona istruita può di sua iniziativa eseguire una misura coercitiva. La misura deve essere approvata entro tre giorni dal direttore dell’Amministrazione federale delle contribuzioni o dal suo sostituto.
+<sup>3</sup> In caso di pericolo imminente e se una misura non può essere ordinata tempestivamente, la persona istruita può di sua iniziativa eseguire una misura coercitiva. La misura deve essere approvata entro tre giorni dal direttore dell’AFC o dal suo sostituto.
 
-<sup>4</sup> La polizia dei Cantoni e dei Comuni sostiene l’Amministrazione federale delle contribuzioni nell’esecuzione delle misure coercitive.
+<sup>4</sup> La polizia dei Cantoni e dei Comuni sostiene l’AFC nell’esecuzione delle misure coercitive.
 
 #### Art. 13
 
@@ -227,9 +231,9 @@ La persona interessata può partecipare alla procedura e consultare gli atti. La
 
 **Esecuzione semplificata**
 
-<sup>1</sup> Se la persona interessata acconsente di fornire le informazioni alla competente autorità germanica, può informarne per scritto l’Amministrazione federale delle contribuzioni. Tale consenso è irrevocabile.
+<sup>1</sup> Se la persona interessata acconsente di fornire le informazioni alla competente autorità germanica, può informarne per scritto l’AFC. Tale consenso è irrevocabile.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni constata per scritto il consenso e chiude la procedura con la trasmissione delle informazioni alla competente autorità.[^15-1]
+<sup>2</sup> L’AFC constata per scritto il consenso e chiude la procedura con la trasmissione delle informazioni alla competente autorità.[^15-1]
 
 <sup>3</sup> Se il consenso riguarda solo una parte delle informazioni, i rimanenti oggetti, documenti e atti vengono trasmessi con decisione finale conformemente agli articoli 10 e seguenti.
 
@@ -239,19 +243,19 @@ La persona interessata può partecipare alla procedura e consultare gli atti. La
 
 **Chiusura della procedura**
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni emette una decisione finale motivata. In essa si pronuncia sull’esistenza di una frode fiscale e decide in merito alla trasmissione di oggetti, documenti e atti alla competente autorità germanica.
+<sup>1</sup> L’AFC emette una decisione finale motivata. In essa si pronuncia sull’esistenza di una frode fiscale e decide in merito alla trasmissione di oggetti, documenti e atti alla competente autorità germanica.
 
 <sup>2</sup> La decisione è notificata alla persona interessata o al suo mandatario autorizzato a ricevere le notificazioni.
 
 <sup>3</sup> Se una persona interessata con domicilio all’estero non ha designato alcun mandatario autorizzato a ricevere le notificazioni, la notificazione avviene con pubblicazione nel Foglio federale.
 
-<sup>4</sup> Dopo il passaggio in giudicato della decisione finale nonché nel quadro dell’esecuzione semplificata di cui all’articolo 15, le informazioni trasmesse alla competente autorità germanica possono essere utilizzate dall’Amministrazione federale delle contribuzioni.
+<sup>4</sup> Dopo il passaggio in giudicato della decisione finale nonché nel quadro dell’esecuzione semplificata di cui all’articolo 15, le informazioni trasmesse alla competente autorità germanica possono essere utilizzate dall’AFC.
 
 #### Art. 17
 
 **Rimedi giuridici**
 
-<sup>1</sup> La decisione finale dell’Amministrazione federale delle contribuzioni relativa alla trasmissione delle informazioni può essere impugnata con ricorso secondo le disposizioni generali concernenti l’organizzazione giudiziaria.[^17-1]
+<sup>1</sup> La decisione finale dell’AFC relativa alla trasmissione delle informazioni può essere impugnata con ricorso secondo le disposizioni generali concernenti l’organizzazione giudiziaria.[^17-1]
 
 <sup>2</sup> Anche il detentore delle informazioni è autorizzato al ricorso, per quanto faccia valere interessi propri.
 
@@ -279,6 +283,14 @@ L’ordinanza del 7 febbraio 1973[^18-1] concernente la convenzione germano-sviz
 <sup>1</sup> La procedura di cui all’articolo 3 è applicabile ai dividendi che scadono dopo il 30 giugno 2003.
 
 <sup>2</sup> Nel caso di dividendi ai sensi dell’articolo 3 scaduti tra il 1° gennaio 2002 e il 30 giugno 2003, è concesso, su istanza, un rimborso del 35 per cento. Qualora sia già stato effettuato un rimborso del 30 per cento, il rimanete 5 per cento sarà rimborsato previa ulteriore istanza.
+
+#### Art. 19a
+
+**Disposizione transitoria della modifica del 4 maggio 2022**[^19a-1]
+
+Alle istanze di autorizzazione pendenti al momento dell’entrata in vigore della modifica del 4 maggio 2022 è applicabile l’articolo 3 capoversi 1 e 3 del diritto anteriore
+
+[^19a-1]: Introdotto dal n. I 3 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 20
 
