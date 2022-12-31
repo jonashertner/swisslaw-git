@@ -4,11 +4,11 @@ title: "Ordinanza del 10 settembre 2008 sull'utilizzazione di organismi nell'amb
 short: OEDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-614-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-614-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20220101/it"
 
 (Ordinanza sull’emissione deliberata nell’ambiente, OEDA)
 
-del 10 settembre 2008 (Stato 1° gennaio 2022)
+del 10 settembre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -649,9 +649,9 @@ A seconda del prodotto, l’autorizzazione di cui all’articolo 25 è rilasciat
 <tr><td>e.[^26-6] Prodotti fitosanitari</td><td>USAV</td><td>ordinanza del 12 maggio 2010[^26-7] sui prodotti fitosanitari</td></tr>
 <tr><td>f. Concimi</td><td>UFAG</td><td>ordinanza del 10 gennaio 2001[^26-8] sui concimi</td></tr>
 <tr><td>g. Alimenti per animali</td><td>UFAG</td><td>ordinanza del 26 maggio 1999[^26-9] sugli alimenti per animali</td></tr>
-<tr><td>h. Medicamenti immunologici per uso veterinario</td><td>USAV</td><td>ordinanza del 21 settembre 2018 sui medicamenti</td></tr>
-<tr><td>i.[^26-10] ...</td><td></td><td></td></tr>
-<tr><td>j. Biocidi</td><td>UFSP</td><td>ordinanza del 18 maggio 2005[^26-11] sui biocidi</td></tr>
+<tr><td>h.[^26-10] ...</td><td></td><td></td></tr>
+<tr><td>i.[^26-11] ...</td><td></td><td></td></tr>
+<tr><td>j. Biocidi</td><td>UFSP</td><td>ordinanza del 18 maggio 2005[^26-12] sui biocidi</td></tr>
 <tr><td>k. Tutti gli altri prodotti</td><td>UFAM</td><td>ordinanza del 10 settembre 2008 sull’emissione deliberata nell’ambiente</td></tr>
 </table>
 
@@ -664,8 +664,9 @@ A seconda del prodotto, l’autorizzazione di cui all’articolo 25 è rilasciat
 [^26-7]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^26-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^26-9]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^26-10]: Abrogata dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^26-11]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^26-10]: Abrogata dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^26-11]: Abrogata dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
+[^26-12]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
 #### Art. 27
 
