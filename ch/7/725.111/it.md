@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 sulle strade nazionali (OSN)
 short: OSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20221001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/it"
 
 (OSN)
 
-del 7 novembre 2007 (Stato 1° ottobre 2022)
+del 7 novembre 2007 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -383,11 +383,12 @@ Per la stima del valore venale del terreno che deve essere ceduto per la costruz
 
 #### Art. 24
 
-**Eccezioni al divieto di cambiare la destinazione dei fondi e all’obbligo di restituire i contributi**
+**Eccezioni al divieto di cambiare destinazione e di frazionamento nonché all’obbligo di restituzione**[^24-1]
 
-Per le eccezioni al divieto di cambiare la destinazione dei fondi e di frazionamento nonché all’obbligo di restituire i contributi si applicano gli articoli 36 lettera d e 37 capoverso 3 dell’ordinanza del 7 dicembre 1998[^24-1] sui miglioramenti strutturali.
+Per le eccezioni al divieto di cambiare la destinazione dei fondi e di frazionamento nonché all’obbligo di restituire i contributi si applicano gli articoli 66 lettera e, 67 capoverso 4, 68 lettera k e 69 capoverso 5 dell’ordinanza del 2 novembre 2022[^24-2] sui miglioramenti strutturali.
 
-[^24-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^24-1]: Nuovo testo giusta l’all. 9 n. 2 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura, in vigore dal 1° gen. 2023 ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
+[^24-2]: RS **9****13.1**
 
 #### Art. 25
 

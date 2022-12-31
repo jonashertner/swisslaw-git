@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2007 sur les routes nationales (ORN)
 short: ORN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20221001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/fr"
 
 (ORN)
 
-du 7 novembre 2007 (État le 1<sup>er</sup> octobre 2022)
+du 7 novembre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -381,11 +381,12 @@ Dans leurs dispositions d’exécution, les cantons peuvent prescrire l’applic
 
 #### Art. 24
 
-**Exceptions à l’interdiction de désaffecter et à l’obligation de rembourser**
+**Exceptions à l’interdiction de désaffecter et à l’obligation de rembourser**[^24-1]
 
-Les art. 36, let. d, et 37, al. 3, de l’ordonnance du 7 décembre 1998 sur les améliorations structurelles[^24-1] s’appliquent aux exceptions à l’interdiction de désaffecter et de morceler ainsi qu’à l’obligation de rembourser.
+Les art. 66, let. e, 67, al. 4, 68, let. k, et 69, al. 5, de l’ordonnance du 2 novembre 2022 sur les améliorations structurelles[^24-2] s’appliquent aux exceptions à l’interdiction de désaffecter et de morceler ainsi qu’à l’obligation de rembourser.
 
-[^24-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^24-1]: Nouvelle teneur selon l’annexe 9 ch. 2 de l’O du 2 nov. 2022 sur les améliorations structurelles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
+[^24-2]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
 
 #### Art. 25
 
@@ -397,7 +398,7 @@ Si la procédure de remembrement ne permet manifestement pas de contenter le pro
 
 **Mise à l’enquête publique complémentaire[^26-1]**
 
-<sup>1</sup> et <sup>2</sup> ...[^26-2]
+<sup>1</sup> et <sup>2</sup> …[^26-2]
 
 <sup>3</sup> Si, après dépôt des plans, il est nécessaire de disposer, à titre définitif ou temporaire, de terrains ou de parties de terrains supplémentaires pour la construction de routes, pour des installations, des décharges de matériaux ou des travaux d’adaptation, il ne doit être procédé à un dépôt des plans complémentaire que si l’extension touche les droits de tiers et si les intéressés ne peuvent pas s’entendre à l’amiable.[^26-3]
 

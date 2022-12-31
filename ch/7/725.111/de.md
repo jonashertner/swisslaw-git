@@ -4,11 +4,11 @@ title: Nationalstrassenverordnung vom 7. November 2007 (NSV)
 short: NSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20221001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20221001/de"
 
 (NSV)
 
-vom 7. November 2007 (Stand am 1. Oktober 2022)
+vom 7. November 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -381,11 +381,12 @@ Die Kantone können in ihren Ausführungsbestimmungen für die Schätzung des Ve
 
 #### Art. 24
 
-**Ausnahmen vom Zweckentfremdungsverbot und von der Rückerstattungspflicht**
+**Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot und von der Rückerstattungspflicht**[^24-1]
 
-Für Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot und von der Rückerstattungspflicht gelten die Artikel 36 Buchstabe d und 37 Absatz 3 der Strukturverbesserungsverordnung vom 7. Dezember 1998[^24-1].
+Für Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot und von der Rückerstattungspflicht gelten die Artikel 66 Buchstabe e, 67 Absatz 4, 68 Buchstabe k und 69 Absatz 5 der Strukturverbesserungsverordnung vom 2. November 2022[^24-2].
 
-[^24-1]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^24-1]: Fassung gemäss Anhang 9 Ziff. 2 der Strukturverbesserungsverordnung vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
+[^24-2]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
 
 #### Art. 25
 
