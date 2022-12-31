@@ -4,13 +4,13 @@ number: "162.200"
 title: Verordnung zur Arbeitszeit der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: "Arbeitszeitverordnung, AZV"
 language: de
-version: 2017-01-01
-valid_until: 2022-12-31
-version_adopted: 2016-12-20
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-06
 adopted: 2004-07-06
 in_force: 2005-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/162.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4765/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Arbeitszeitverordnung | Dienstverhältnis
 
 (Arbeitszeitverordnung, AZV)
 
-Vom 6. Juli 2004 (Stand 1. Januar 2017)
+Vom 6. Juli 2004 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -37,7 +37,7 @@ beschliesst:
 
 <sup>3</sup> Inhalt und Umfang der Mitsprache gemäss Abs. 2 richten sich nach Art. 48 des Bundesgesetzes über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz) vom 13. März 1964 in der Fassung vom 20. März 1998.
 
-[^1-1]: § 1 Abs. 1: Vgl. hiezu 1. RRB vom 24. 8. 2004 i.S. Lenkzeitgutschrift für BVB-Tramführerinnen und -führer sowie Bus- und Trolleybuschchauffeusen und -chauffeure; 2. RRB vom 20. 3. 2012 i.S. Arbeitszeitreglement Schichtdienst Berufsfeuerwehr (mit Änderungen gemäss RRB vom 28. 6. 2016 und 10. 12. 2019); 3. RBB vom 10. 9. 2019 i.S. Arbeitszeitreglement Schichtdienst Justiz- und Sicherheitsdepartement.
+[^1-1]: § 1 Abs. 1: Vgl. hiezu 1. RRB vom 24.8.2004 i. S. Lenkzeitgutschrift für BVB-Tramführerinnen und -führer sowie Bus- und Trolleybuschauffeusen und -chauffeure; 2. RRB vom 20.3.2012 i. S. Arbeitszeitreglement Schichtdienst Berufsfeuerwehr (mit Änderungen gemäss RRB vom 28.6.2016, in Kraft seit 1.8.2016 (KB 2.7.2016) und RRB vom 10.12.2019 in Kraft seit 1.1.2020 (KB 14.12.2019); 3. RBB vom 10.9.2019 i.S. Arbeitszeitreglement Schichtdienst Justiz- und Sicherheitsdepartement, in Kraft seit 15.9.2019 (KB 18.9.2019); 4. RRB vom 8.11.2022 i. S. Arbeitszeitreglement Schichtdienst Sanität (AZRS) in Kraft seit 1.12.2022 (KB 14.1.2023); 5. RRB vom 4.7.2023 i. S. Arbeitszeitreglement in der Abteilung «LIV - Leben in Vielfalt» (Arbeitszeitreglement LIV) in Kraft seit 1.7.2023 (KB 22. 7.2023)
 
 ## II. Sollarbeitszeit
 
@@ -268,9 +268,9 @@ beschliesst:
 
 #### § 24
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter die Nachtarbeit leisten, erhalten eine Nachtarbeitszulage von CHF 6.95 pro Stunde.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter die Nachtarbeit leisten, erhalten eine Nachtarbeitszulage von CHF 7.35 pro Stunde.
 
-<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die Nachtbereitschaft leisten, erhalten eine Nachtbereitschaftszulage von CHF 5.00 pro Stunde, Mitarbeiterinnen und Mitarbeiter der Berufsfeuerwehr eine solche von CHF 6.05 pro Stunde.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die Nachtbereitschaft leisten, erhalten eine Nachtbereitschaftszulage von Fr. 5.30 pro Stunde, Mitarbeiterinnen und Mitarbeiter der Berufsfeuerwehr eine solche von Fr. 6.40 pro Stunde.
 
 #### § 25
 
@@ -290,9 +290,9 @@ beschliesst:
 
 <sup>1</sup> Die Vergütungen betragen:
 
-– an Sonntagen CHF 6.95 pro Stunde
+– an Sonntagen Fr. 7.35 pro Stunde
 
-– an Feiertagen CHF13.90 pro Stunde
+– an Feiertagen Fr. 14.70 pro Stunde
 
 #### § 29
 
@@ -321,9 +321,9 @@ beschliesst:
 
 <sup>1</sup> Wird Pikett geleistet, betragen die Vergütungen:
 
-– für Pikett an Werktagen CHF 2.90 pro Stunde
+– für Pikett an Werktagen Fr. 3.05 pro Stunde
 
-– für Pikett an geplanten Ruhetagen sowie an Sonn- und Feiertagen CHF 4.30 pro Stunde.
+– für Pikett an geplanten Ruhetagen sowie an Sonn- und Feiertagen Fr. 4.55 pro Stunde.
 
 <sup>2</sup> Mitarbeitende in den Lohnklassen 18–28 haben keinen Anspruch auf eine Pikettdienstzulage.
 
