@@ -1,22 +1,22 @@
 ---
 canton: NW
 number: "742.144"
-title: Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2022 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
+title: Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2023 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-15
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-31
 adopted: 2025-12-02
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.144"
-pdf: "https://gesetze.nw.ch/api/de/versions/1003/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1105/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2022 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
+# Regierungsratsbeschluss über die Festlegung der Referenztarife für das Jahr 2023 für stationäre Behandlungen im Rahmen der obligatorischen Krankenpflegeversicherung
 
-vom 15.02.2022 (Stand 01.01.2022)
+vom 31.01.2023 (Stand 01.01.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -35,7 +35,7 @@ beschliesst:
 
 #### Ziff. 2
 
-<sup>1</sup> Für den Bereich der erweiterten Grundversorgung Akutsomatik gilt eine Referenzbaserate in der Höhe von 9‘590 Franken (SwissDRG, CW 1.0).
+<sup>1</sup> Für den Bereich der erweiterten Grundversorgung Akutsomatik gilt eine Referenzbaserate in der Höhe von 9‘690 Franken (SwissDRG, CW 1.0).
 
 <sup>2</sup> Für den Bereich der spezialisierten Zentrumsleistungen Akutsomatik gilt eine Referenzbaserate in der Höhe von 9‘800 Franken (SwissDRG, CW 1.0).
 
@@ -45,11 +45,11 @@ beschliesst:
 
 <sup>5</sup> Für den Bereich der Kinder- und Jugendpsychiatrie gilt eine Referenzbaserate in der Höhe von 683 Franken (TARPSY, CW 1.0).
 
-<sup>6</sup> Für den Bereich der Rehabilitation gilt eine Referenzbaserate in der Höhe von 674 Franken (ST Reha, CW 1.0).
+<sup>6</sup> Für den Bereich der Rehabilitation gilt eine Referenzbaserate in der Höhe von 593 Franken (ST Reha, CW 1.0).
 
 #### Ziff. 3
 
-<sup>1</sup> Die Referenztarife gelten rückwirkend ab 1. Januar 2022.
+<sup>1</sup> Die Referenztarife gelten rückwirkend ab 1. Januar 2023.
 
 #### Ziff. 4
 
@@ -65,4 +65,4 @@ beschliesst:
 
 [^Ziff5-1]: NG 742.1
 
-2022-010
+2023-005
