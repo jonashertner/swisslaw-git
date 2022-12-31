@@ -3,10 +3,10 @@ canton: ZH
 number: "414.253.335"
 title: Studienordnung für den Masterstudiengang Environment and Natural Resources an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "96"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2016-11-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_335-2016_11_16-2017_04_01-096.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_335-2016_11_16-2017_04_01-119.html"
 text: pdf
 ---
 
@@ -14,21 +14,26 @@ text: pdf
 
 # Studienordnung für den Masterstudiengang Environment and Natural Resources an der Zürcher Hochschule für Angewandte Wissenschaften
 
-(vom 16. November 2016)<sup>1</sup>
+(vom 16. November 2016)[^t-1]
 
 Die Hochschulleitung,
 
-gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008<sup>2</sup>,
+gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW) vom 29. Januar 2008[^t-2],
 
 beschliesst:
 
+[^t-1]: OS 72, 105; Begründung siehe ABl 2017-02-03. Vom Fachhochschulrat genehmigt am 13. Dezember 2016.
+[^t-2]: LS 414.252.3.
+
 ### A. Allgemeine Bestimmungen
+
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
 **Gegenstand**
 
-Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO)<sup>2</sup> den Masterstudiengang Environment and Natural Resources des Departements Life Sciences und Facility Management.
+Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO)[^hAAllgemeineBestim-1] den Masterstudiengang Environment and Natural Resources des Departements Life Sciences und Facility Management.
 
 #### § 2
 
@@ -68,7 +73,7 @@ Die Belegung von Wahlpflicht- und Wahlmodulen kann mengenmässig beschränkt wer
 
 **Nachbesserung**
 
-- 1\. 4. 17 - 96 § 7. <sup>1</sup> Die Module werden in deutscher oder englischer Sprache durchgeführt.
+- 1\. 1. 23 - 119 § 7. <sup>1</sup> Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 **Modulsprache und Moduldurchführung**
 
@@ -154,15 +159,13 @@ Für einzelne Leistungsnachweise können Nachprüfungen in nicht bestandenen Mod
 
 ### D. Studienabschluss und Masterdiplom
 
-#### § 16
-
 **Abschluss**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Environment and Natural Resources» abgeschlossen.
+§ 16.[^hDStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Environment and Natural Resources» abgeschlossen.
 
 **3**
 
-- 1\. 4. 17 - 96 § 17. Das Masterstudium ist erfolgreich abgeschlossen, wenn
+- 1\. 1. 23 - 119 § 17. Das Masterstudium ist erfolgreich abgeschlossen, wenn
 
 **Abschlussvoraussetzungen**
 
@@ -171,6 +174,8 @@ Das Masterstudium wird mit dem Titel «Master of Science ZFH in Environment and 
 - b. die Masterarbeit mindestens mit der Note 4,0 bewertet ist und
 
 - c. 90 Credits erreicht sind.
+
+[^hDStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 501; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 #### § 18
 
@@ -194,21 +199,18 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 <sup>1</sup> Studierende, die ihr Studium im Masterstudiengang Life Sciences mit der Vertiefung «Natural Resource Sciences» begonnen haben, können bis zum Ende des Herbstsemesters 2017/2018 wählen, ob sie in den Masterstudiengang Environment and Natural Resources wechseln wollen. Die Studienleitung entscheidet, welche Leistungen aus dem Masterstudiengang Life Sciences mit der Vertiefung «Natural Resource Sciences» angerechnet werden.
 
-<sup>2</sup> Studierende, die weiterhin im Masterstudiengang Life Sciences mit der Vertiefung «Natural Resource Sciences» studieren und ihr Studium bis zum Ende des Frühlingssemesters 2021 nicht abgeschlossen haben, werden dieser Studienordnung unterstellt und schliessen ihr Studium mit dem Titel «Master of Science ZFH in Environment and Natural Resources» ab. Die Studienleitung entscheidet, welche Leistungen aus dem Studiengang Life Sciences mit der Vertiefung «Natural Resource Sciences» angerechnet werden.
+<sup>2</sup> Studierende, die weiterhin im Masterstudiengang Life Sciences mit der Vertiefung «Natural Resource Sciences» studieren und ihr Studium bis zum Ende des Frühlingssemesters 2021 nicht abgeschlossen haben, werden dieser Studienordnung unterstellt und schliessen ihr Studium mit dem Titel «Master of Science ZHAW in Environment and Natural Resources» ab. Die Studienleitung entscheidet, welche Leistungen aus dem Studiengang Life Sciences mit der Vertiefung «Natural Resource Sciences» angerechnet werden.[^20-1]
+
+[^20-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 501; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### Anhang zur Studienordnung für den Masterstudiengang Environment and Natural Resources an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für den Masterstudiengang Environment and Natural Resources an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 4. 17 - 96
-
-## Weitere Fussnoten
-
-- [1] OS 72, 105; Begründung siehe ABl 2017-02-03. Vom Fachhochschulrat genehmigt am 13. Dezember 2016.
-- [2] LS 414.252.3.
+- 1\. 1. 23 - 119
