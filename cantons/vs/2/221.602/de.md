@@ -3,20 +3,20 @@ canton: VS
 number: "221.602"
 title: Beschluss betreffend den Erlass eines Normalarbeitsvertrags für hauswirtschaftliche Arbeitnehmer
 language: de
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-14
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-08
 adopted: 2021-04-14
 in_force: 2021-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/221.602"
-pdf: "https://lex.vs.ch/api/de/versions/2878/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3193/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss betreffend den Erlass eines Normalarbeitsvertrags für hauswirtschaftliche Arbeitnehmer
 
-vom 14.04.2021 (Stand 01.05.2021)
+vom 14.04.2021 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -212,10 +212,10 @@ beschliesst:
 
 <sup>4</sup> Die minimalen brutto Stundenlöhne, ohne Zuschläge, sind folgendermassen festgelegt:
 
-- a) unqualifizierter Arbeitnehmer — Fr. 19.20
-- b) unqualifizierter Arbeitnehmer mit mindestens 4 Jahren Berufserfahrung in der Hauswirtschaft — Fr. 21.10
-- c) qualifizierter Arbeitnehmer mit EBA — Fr. 21.10
-- d) qualifizierter Arbeitnehmer mit EFZ — Fr. 23.20
+- a) unqualifizierter Arbeitnehmer — Fr. 19.50
+- b) unqualifizierter Arbeitnehmer mit mindestens 4 Jahren Berufserfahrung in der Hauswirtschaft — Fr. 21.40
+- c) qualifizierter Arbeitnehmer mit EBA — Fr. 21.40
+- d) qualifizierter Arbeitnehmer mit EFZ — Fr. 23.55
 
 <sup>5</sup> Als gelernte gelten Arbeitnehmer:
 
