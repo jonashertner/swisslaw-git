@@ -4,22 +4,22 @@ title: "Verordnung vom 3. Juli 2001 über die Prämienverbilligung in der Kranke
 short: VPVKEU
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2002-164-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-164-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Prämienverbilligung in der Krankenversicherung für Rentner und Rentnerinnen, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen
+# Verordnung über die Prämienverbilligung in der Krankenversicherung für Rentner und Rentnerinnen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen
 
 (VPVKEU)[^t-1]
 
-vom 3. Juli 2001 (Stand am 1. Januar 2022)
+vom 3. Juli 2001 (Stand am 1. Januar 2023)
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^t-1]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 Der Schweizerische Bundesrat,
 
@@ -35,11 +35,10 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a.[^1-1] die Prämienverbilligung in der obligatorischen Krankenpflegeversicherung für Versicherte in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union[^1-2], in Island oder Norwegen wohnen und eine schweizerische Rente beziehen sowie für ihre versicherten Familienangehörigen;
+- a.[^1-1] die Prämienverbilligung in der obligatorischen Krankenpflegeversicherung für Versicherte in bescheidenen wirtschaftlichen Verhältnissen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und eine schweizerische Rente beziehen sowie für ihre versicherten Familienangehörigen;
 - b. die Auszahlung der Bundesbeiträge für die Finanzierung der Prämienverbilligung nach Buchstabe a.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
-[^1-2]: Ausdruck gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-1]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 2
 
@@ -106,17 +105,17 @@ Das Reinvermögen gemäss Artikel 3 Absatz 3 und das anrechenbare Einkommen gem�
 
 <sup>1</sup> Für die Festsetzung des massgebenden Einkommens wird das anrechenbare Einkommen nach Artikel 4 im Verhältnis des Kaufkraftunterschiedes zwischen der Schweiz und dem Wohnland des Rentners oder der Rentnerin auf die Kaufkraft im Wohnland umgerechnet.
 
-<sup>2</sup> Das Eidgenössische Departement des Innern (Departement) bestimmt jährlich den Umrechnungsfaktor pro Mitgliedstaat der Europäischen Union sowie für Island und Norwegen gestützt auf die entsprechenden Statistiken von internationalen Organisationen.[^6-1]
+<sup>2</sup> Das Eidgenössische Departement des Innern (EDI) bestimmt jährlich den Umrechnungsfaktor pro Mitgliedstaat der Europäischen Union sowie für Island, Norwegen und das Vereinigte Königreich gestützt auf die entsprechenden Statistiken von internationalen Organisationen.[^6-1]
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^6-1]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7
 
 **Durchschnittsprämien**[^7-1]
 
-Massgebend für die Ermittlung des Anspruchs auf Prämienverbilligungen sind die vom Departement jährlich festgelegten Durchschnittsprämien für die obligatorische Krankenpflegeversicherung, welche für Rentner und Rentnerinnen sowie für ihre versicherten Familienangehörigen pro Mitgliedstaat der Europäischen Union sowie in Bezug auf Island und Norwegen gelten.
+Massgebend für die Ermittlung des Anspruchs auf Prämienverbilligungen sind die vom EDI jährlich festgelegten Durchschnittsprämien für die obligatorische Krankenpflegeversicherung, welche für Rentner und Rentnerinnen sowie für ihre versicherten Familienangehörigen pro Mitgliedstaat der Europäischen Union sowie in Bezug auf Island, Norwegen und das Vereinigte Königreich gelten.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^7-1]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 8
 
@@ -210,17 +209,19 @@ Erlöscht der Anspruch auf Prämienverbilligungen, so erhebt der Versicherer den
 
 <sup>1</sup> Artikel 5 Absätze 1 und 2 sowie Artikel 6 der Verordnung vom 7. November 2007[^17-1] über den Beitrag des Bundes zur Prämienverbilligung in der Krankenversicherung (VPVK) sind in Bezug auf die Abrechnung und Kontrolle der Verwendung der Bundesbeiträge sinngemäss anwendbar.[^17-2]
 
-<sup>2</sup> Die Angaben auf dem Formular, welches für die Abrechnung benötigt wird, sind nach den Mitgliedstaaten der Europäischen Union, nach Island und Norwegen und nach den Versicherern zu differenzieren.[^17-3]
+<sup>2</sup> Die Angaben auf dem Formular, das für die Abrechnung benötigt wird, sind nach den Mitgliedstaaten der Europäischen Union, nach Island, nach Norwegen, nach dem Vereinigten Königreich und nach den Versicherern zu differenzieren.[^17-3]
 
 [^17-1]: [SR 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
 [^17-2]: Fassung gemäss Art. 9 Abs. 2 der V vom 7. Nov. 2007 über den Bundesbeitrag zur Prämienverbilligung in der Krankenversicherung, in Kraft seit 1. Jan. 2008 ([AS 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
-[^17-3]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^17-3]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 18
 
-**Vollzug**
+**Vollzug**[^18-1]
 
-Das Departement kann zum Vollzug dieser Verordnung nähere Bestimmungen erlassen.
+Das EDI kann zum Vollzug dieser Verordnung nähere Bestimmungen erlassen.
+
+[^18-1]: Fassung gemäss Ziff. I 5 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 19
 

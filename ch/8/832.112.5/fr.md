@@ -4,22 +4,22 @@ title: "Ordonnance du 3 juillet 2001 concernant la réduction des primes dans l�
 short: ORPMUE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-164-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège
+# Ordonnance concernant la réduction des primes dans l’assurance-maladie en faveur des rentiers qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni
 
 (ORPMUE)[^t-1]
 
-du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2022)
+du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2023)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 Le Conseil fédéral suisse,
 
@@ -35,11 +35,10 @@ arrête:
 
 La présente ordonnance règle:
 
-- a.[^1-1] la réduction des primes dans l’assurance obligatoire des soins en faveur des assurés de condition économique modeste qui résident dans un État membre de l’Union européenne[^1-2], en Islande ou en Norvège, et qui perçoivent une rente suisse ainsi qu’en faveur des membres assurés de leur famille;
+- a.[^1-1] la réduction des primes dans l’assurance obligatoire des soins en faveur des assurés de condition économique modeste qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni et qui perçoivent une rente suisse, ainsi qu’en faveur des membres assurés de leur famille;
 - b. le versement des subsides fédéraux pour le financement de la réduction des primes selon la let. a.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
-[^1-2]: Nouvelle expression selon le ch. I de l’O du 20 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 2
 
@@ -106,17 +105,17 @@ La fortune nette selon l’art. 3, al. 3, et le revenu pris en compte selon l’
 
 <sup>1</sup> Pour la fixation du revenu déterminant, le revenu pris en compte visé à l’art. 4 est corrigé en fonction de la différence du pouvoir d’achat entre la Suisse et le pays de résidence du rentier sur la base du pouvoir d’achat dans le pays de résidence.
 
-<sup>2</sup> Le Département fédéral de l’intérieur (département) définit chaque année le facteur de correction pour chaque État membre de l’Union européenne ainsi que pour l’Islande et la Norvège, en se fondant sur les statistiques des organisations internationales.[^6-1]
+<sup>2</sup> Le Département fédéral de l’intérieur (DFI) définit chaque année le facteur de correction pour chaque État membre de l’Union européenne ainsi que pour l’Islande, la Norvège et le Royaume-Uni, en se fondant sur les statistiques des organisations internationales.[^6-1]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^6-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7
 
 **Primes moyennes**[^7-1]
 
-Sont déterminantes pour le calcul du droit aux réductions de primes les primes moyennes de l’assurance obligatoire des soins fixées chaque année par le département qui s’appliquent aux rentiers et aux membres assurés de leur famille, par État membre de l’Union européenne ainsi que pour l’Islande et la Norvège.
+Sont déterminantes pour le calcul du droit aux réductions de primes les primes moyennes de l’assurance obligatoire des soins fixées chaque année par le DFI qui s’appliquent aux rentiers et aux membres assurés de leur famille, par État membre de l’Union européenne ainsi que pour l’Islande, la Norvège et le Royaume-Uni.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^7-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 8
 
@@ -210,17 +209,19 @@ En cas d’extinction du droit aux réductions de primes, l’assureur demande �
 
 <sup>1</sup> L’art. 5, al. 1 et 2, et l’art. 6 de l’ordonnance du 7 novembre 2007 sur les subsides fédéraux destinés à la réduction de primes dans l’assurance-maladie[^17-1] sont applicables par analogie en ce qui concerne le décompte et le contrôle de l’utilisation de ces subsides.[^17-2]
 
-<sup>2</sup> Les données contenues dans la formule nécessaire pour le décompte doivent être différenciées selon les États membres de l’Union européenne, l’Islande et la Norvège, et selon les assureurs.[^17-3]
+<sup>2</sup> Les données contenues dans la formule nécessaire pour le décompte doivent être différenciées selon les États membres de l’Union européenne, l’Islande, la Norvège et le Royaume-Uni et selon les assureurs.[^17-3]
 
 [^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
 [^17-2]: Nouvelle teneur selon l’art. 9 al. 2 de l’O du 7 nov. 2007 sur les subsides fédéraux destinés à la réduction des primes dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
-[^17-3]: Nouvelle teneur selon le ch. I de l’O du 22 mai 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^17-3]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 18
 
-**Exécution**
+**Exécution**[^18-1]
 
-Le département peut édicter des prescriptions plus détaillées pour l’exécution de la présente ordonnance.
+Le DFI peut édicter des prescriptions plus détaillés pour l’exécution de la présente ordonnance.
+
+[^18-1]: Nouvelle teneur selon le ch. I 5 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 19
 

@@ -4,22 +4,22 @@ title: "Ordinanza del 3 luglio 2001 sulla riduzione dei premi nell’assicurazio
 short: ORPMUE
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/164"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2001-07-03
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/164/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-164-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/164/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia
+# Ordinanza sulla riduzione dei premi nell’assicurazione malattie per beneficiari di rendite residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito
 
 (ORPMUE)[^t-1]
 
-del 3 luglio 2001 (Stato 1° gennaio 2022)
+del 3 luglio 2001 (Stato 1° gennaio 2023)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^t-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 Il Consiglio federale svizzero,
 
@@ -35,11 +35,10 @@ ordina:
 
 La presente ordinanza regola:
 
-- a.[^1-1] la riduzione dei premi nell’assicurazione obbligatoria delle cure medico-sanitarie per assicurati di modeste condizioni economiche residenti in uno Stato membro dell’Unione europea**[^1-2]**, in Islanda o in Norvegia e beneficiari di una rendita svizzera nonché per i loro familiari assicurati;
+- a.[^1-1] la riduzione dei premi nell’assicurazione obbligatoria delle cure medico-sanitarie per assicurati di modeste condizioni economiche residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e beneficiari di una rendita svizzera nonché per i loro familiari assicurati;
 - b. il versamento dei sussidi federali previsti per il finanziamento della riduzione dei premi giusta la lettera a.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
-[^1-2]: Nuova espr. giusta il n. I dell’O del 20 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3901](https://fedlex.data.admin.ch/eli/oc/2019/704)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 2
 
@@ -106,17 +105,17 @@ La sostanza netta ai sensi dell’articolo 3 capoverso 3 e il reddito computabil
 
 <sup>1</sup> Il reddito determinante si ottiene convertendo il reddito computabile giusta l’articolo 4 secondo il potere d’acquisto nel Paese di residenza del beneficiario in funzione della differenza tra potere d’acquisto in Svizzera e potere d’acquisto nel Paese di residenza.
 
-<sup>2</sup> Il Dipartimento federale dell’interno (Dipartimento) fissa ogni anno il fattore di conversione per ciascuno degli Stati membri dell’Unione europea nonché per l’Islanda e la Norvegia basandosi sulle statistiche fornite da organizzazioni internazionali.[^6-1]
+<sup>2</sup> Il Dipartimento federale dell’interno (DFI) fissa ogni anno il fattore di conversione per ciascuno degli Stati membri dell’Unione europea nonché per l’Islanda, la Norvegia e il Regno Unito basandosi sulle statistiche fornite da organizzazioni internazionali.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^6-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7
 
 **Premi medi**[^7-1]
 
-Al fine di stabilire il diritto a una riduzione dei premi, sono determinanti i premi medi dell’assicurazione obbligatoria delle cure medico-sanitarie fissati ogni anno dal Dipartimento per ogni Stato membro dell’Unione europea, per l’Islanda e la Norvegia applicabili ai beneficiari di rendite ed i loro familiari assicurati.
+Al fine di stabilire il diritto a una riduzione dei premi, sono determinanti i premi medi dell’assicurazione obbligatoria delle cure medico-sanitarie fissati ogni anno dal DFI per ogni Stato membro dell’Unione europea, per l’Islanda, la Norvegia e il Regno Unito applicabili ai beneficiari di rendite e ai i loro familiari assicurati.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^7-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 8
 
@@ -210,17 +209,19 @@ In caso di estinzione del diritto a una riduzione dei premi, l’assicuratore ch
 
 <sup>1</sup> Gli articoli 5 capoversi 1 e 2 e 6 dell’ordinanza del 7 novembre 2007[^17-1] concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie (ORPM) si applicano per analogia al conteggio e al controllo dell’impiego dei sussidi federali.[^17-2]
 
-<sup>2</sup> L’apposito modulo va compilato distinguendo i dati dei singoli Stati membri dell’Unione europea, dell’Islanda e della Norvegia e dei singoli assicuratori.[^17-3]
+<sup>2</sup> L’apposito modulo va compilato distinguendo i dati dei singoli Stati membri dell’Unione europea, dell’Islanda, della Norvegia e del Regno Unito e dei singoli assicuratori.[^17-3]
 
 [^17-1]: [RS 832.112.4](https://fedlex.data.admin.ch/eli/cc/2007/805)
 [^17-2]: Nuovo testo giusta l’art. 9 cpv. 2 dell’O del 7 nov. 2007 concernente il sussidio della Confederazione per la riduzione dei premi nell’assicurazione malattie, in vigore dal 1° gen. 2008 ([RU 2007 6071](https://fedlex.data.admin.ch/eli/oc/2007/805)).
-[^17-3]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1641](https://fedlex.data.admin.ch/eli/oc/2002/253)).
+[^17-3]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 18
 
-**Esecuzione**
+**Esecuzione**[^18-1]
 
-Il Dipartimento ha la facoltà di emanare disposizioni più dettagliate in merito all’esecuzione della presente ordinanza.
+Il DFI ha la facoltà di emanare disposizioni più dettagliate in merito all’esecuzione della presente ordinanza.
+
+[^18-1]: Nuovo testo giusta il n. I 5 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 19
 
@@ -260,4 +261,4 @@ v = u \* r(a) / r(p)
 
 [^annexu1-lvlu1-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^annexu1-lvlu1-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^annexu1-lvlu1-3]: Il documento può essere consultato all’indirizzo www.ufsp.admin.ch/rif.
+[^annexu1-lvlu1-3]: Il documento può essere consultato all’indirizzo www.ufsp.admin.ch/rif
