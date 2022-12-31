@@ -3,30 +3,31 @@ sr: "512.313"
 title: "Ordinanza del DDPS dell' 11 dicembre 2003 sugli ufficiali federali di tiro e sulle commissioni cantonali di tiro (Ordinanza sugli ufficiali di tiro)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/3"
 language: it
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2003-12-11
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/3/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2004-3-20160101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/3/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/3/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-3-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/3/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DDPS sugli ufficiali federali di tiro e sulle commissioni cantonali di tiro
 
-(Ordinanza sugli ufficiali di tiro)**[^t-1]**
+(Ordinanza sugli ufficiali di tiro)[^t-1]
 
-dell’11 dicembre 2003 (Stato 1° gennaio 2016) (Stato 1° gennaio 2016)
+dell’11 dicembre 2003 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport, d’intesa con il Dipartimento federale delle finanze,
 
-visti gli articoli 30, 32 capoverso 4, 40 capoverso 1 lettera b e 55 dell’ordinanza del 5 dicembre 2003[^ingress-1] sul tiro fuori del servizio,
+visti gli articoli 30, 32 capoverso 2, 40 capoverso 1 lettera b e 55 dell’ordinanza del 5 dicembre 2003[^ingress-1] sul tiro,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -47,7 +48,7 @@ La presente ordinanza è applicabile:
 
 I circondari di tiro federali sono stabiliti nell’allegato.
 
-## Capitolo 2: Ufficiali federali di tiro****
+## Capitolo 2: Ufficiali federali di tiro
 
 [^chap2-1]
 
@@ -57,11 +58,12 @@ I circondari di tiro federali sono stabiliti nell’allegato.
 
 **Durata del mandato e durata d’esercizio della funzione**[^3-1]
 
-<sup>1</sup> La durata del mandato degli UFT è di quattro anni e la durata d’esercizio della funzione è limitata a 12 anni. In casi giustificati, il capo dell’esercito può prorogare la durata d’esercizio della funzione fino a 16 anni al massimo.
+<sup>1</sup> La durata del mandato degli UFT è di quattro anni.[^3-2]
 
 <sup>2</sup> Gli UFT possono esercitare la loro attività fino alla fine dell’anno in cui compiono 70 anni.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 4
 
@@ -75,18 +77,23 @@ I circondari di tiro federali sono stabiliti nell’allegato.
 
 #### Art. 5
 
-**Rappresentanza in commissioni statali e civili**
+**Rappresentanza in organi specializzati[^5-1]**
 
 <sup>1</sup>
 
 A richiesta, l’UFT rappresenta gli interessi della Confederazione per quanto attiene al tiro fuori del servizio, segnatamente negli organi specializzati seguenti:
 
 - a. nelle commissioni cantonali e comunali nonché negli organi di vigilanza;
-- b. all’assemblea dei delegati della FST;
-- c. all’assemblea dei delegati dell’Assicurazione infortuni delle società svizzere di tiro;
+- b.[^5-2] all’assemblea dei delegati della Federazione sportiva svizzera di tiro (FST);
+- c.[^5-3] all’assemblea dei delegati dell’USS Assicurazioni[^5-4];
 - d. all’assemblea dei delegati delle sotto-organizzazioni della FST attive nel suo circondario.
 
 <sup>2</sup> Per le attività di cui al capoverso 1 sono corrisposte annualmente indennità per dieci mezze giornate al massimo.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-4]: Originaria: Assicurazione infortuni delle società svizzere di tiro (AIST)
 
 #### Art. 6
 
@@ -142,15 +149,18 @@ I compiti dell’UFT concernenti i corsi di tiro fuori del servizio sono discipl
 
 #### Art. 11
 
-**Conferenze degli UFT**[^11-1]
+**Conferenza federale di tiro[^11-2]**[^11-1]
 
-<sup>1</sup> Una volta all’anno, prima dell’inizio degli esercizi di tiro, gli UFT sono convocati alla conferenza federale di tiro. Il comandante delle Forze terrestri nomina il presidente. Le deliberazioni sono registrate in un verbale. Il verbale è trasmesso agli UFT e alle commissioni cantonali di tiro.
+<sup>1</sup> Una volta all’anno, prima dell’inizio degli esercizi di tiro, gli UFT sono convocati alla conferenza federale di tiro. Il capo Comando Istruzione nomina il presidente. Le deliberazioni sono registrate in un verbale. Il verbale è trasmesso in forma elettronica agli UFT e alle commissioni cantonali di tiro.[^11-3]
 
-<sup>2</sup> Se necessario, alle conferenze degli UFT possono essere convocati specialisti militari o civili e rappresentanti di servizi ufficiali e della Federazione sportiva svizzera di tiro (FST); essi hanno voto consultivo.
+<sup>2</sup> Se necessario, alla conferenza federale di tiro possono essere convocati specialisti militari o civili e rappresentanti di servizi ufficiali, della FST e dell’USS Assicurazioni; essi hanno voto consultivo.[^11-4]
 
 <sup>3</sup> Dopo la fine degli esercizi di tiro, l’Aggruppamento Difesa può convocare una volta all’anno gli UFT a una conferenza su questioni tecniche inerenti al tiro fuori del servizio. Essa è preparata e organizzata dal perito federale degli impianti di tiro.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^11-4]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## Capitolo 3: Commissioni cantonali di tiro
 
@@ -168,11 +178,11 @@ I compiti dell’UFT concernenti i corsi di tiro fuori del servizio sono discipl
 
 #### Art. 13
 
-**Durata del mandato, durata d’esercizio della funzione e limite d’età**
+**Durata del mandato, durata d’esercizio della funzione e limite d’età**[^13-1]
 
-<sup>1</sup> La durata del mandato dei presidenti e dei membri delle commissioni cantonali di tiro è di almeno tre anni.
+Per quanto riguarda la durata del mandato, la durata d’esercizio della funzione e il limite d’età dei presidenti e dei membri delle commissioni cantonali di tiro si applicano le regolamentazioni cantonali.
 
-<sup>2</sup> Del rimanente, per quanto riguarda la durata d’esercizio della funzione e l’età massima, sono applicabili le pertinenti regolamentazioni cantonali.
+[^13-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 14
 
@@ -222,11 +232,11 @@ Il presidente della commissione cantonale di tiro può essere incaricato dall’
 
 **Controllo dei rapporti di tiro**[^19-1]
 
-<sup>1</sup> Il presidente della commissione cantonale di tiro verifica i rapporti di tiro vidimati dai membri della sua commissione nel sistema Amministrazione della federazione e delle società (AFS) e, se necessario, richiede i fogli di stand per un controllo supplementare.
+<sup>1</sup> Il presidente della commissione cantonale di tiro verifica i rapporti di tiro vidimati dai membri della sua commissione nel sistema d’informazione Tiro e attività fuori del servizio (SAT-Admin) e, se necessario, richiede i fogli di stand per un controllo supplementare.
 
-<sup>2</sup> I rapporti di tiro, le ordinazioni di munizioni e gli elenchi dei tiratori «rimasti» sono vidimati dal presidente della commissione nel sistema AFS all’attenzione dell’Aggruppamento Difesa e delle autorità militari cantonali competenti.
+<sup>2</sup> I rapporti di tiro, le ordinazioni di munizioni e gli elenchi dei tiratori «rimasti» sono vidimati dal presidente della commissione nel sistema SAT-Admin all’attenzione dell’Aggruppamento Difesa e delle autorità militari cantonali competenti.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^19-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 20
 
@@ -254,13 +264,17 @@ Il presidente della commissione cantonale di tiro può assistere, una volta l’
 
 #### Art. 23
 
-**Rapporto d’istruzione e assistenza agli organi delle società di tiro**
+**Rapporto d’istruzione e assistenza ai rappresentanti delle società[^23-1]**
 
 <sup>1</sup> Ogni anno, prima dell’inizio degli esercizi di tiro, il membro della commissione cantonale di tiro organizza, con le società di tiro poste sotto il suo controllo, un rapporto d’istruzione.
 
-<sup>2</sup> In tale occasione, occorre introdurre segnatamente gli organi di nuova nomina delle società di tiro nei loro compiti. Il membro della commissione cantonale di tiro assiste ogni società di tiro anche durante l’anno.
+<sup>2</sup> In tale occasione, occorre introdurre segnatamente i rappresentanti delle società di nuova nomina nei loro compiti. Il membro della commissione cantonale di tiro assiste ogni società di tiro anche durante l’anno.[^23-2]
 
-<sup>3</sup> Alla fine degli esercizi di tiro, egli può convocare gli organi delle società incaricati dell’allestimento dei rapporti di tiro a un rapporto d’istruzione speciale. Per questa attività, egli può conteggiare una mezza indennità giornaliera al massimo.
+<sup>3</sup> Alla fine degli esercizi di tiro, egli può convocare i rappresentanti delle società incaricati dell’allestimento dei rapporti di tiro a un rapporto d’istruzione speciale. Per questa attività, egli può conteggiare una mezza indennità giornaliera al massimo.[^23-3]
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 24
 
@@ -291,11 +305,11 @@ Per ogni esercizio di tiro controllato, occorre allestire un rapporto di control
 
 #### Art. 27
 
-**Verifica dei rapporti di tiro**[^27-1]
+**Verifica dei fogli di stand e dei rapporti di tiro**[^27-1]
 
-Il membro della commissione cantonale di tiro verifica e corregge i fogli di stand e i rapporti di tiro delle società poste sotto il suo controllo. Egli provvede a vidimare i rapporti di tiro nel sistema AFS all’attenzione del presidente della commissione cantonale di tiro.
+Il membro della commissione cantonale di tiro verifica e corregge i fogli di stand e i rapporti di tiro delle società poste sotto il suo controllo. Egli provvede a vidimare i rapporti di tiro nel sistema SAT-Admin all’attenzione del presidente della commissione cantonale di tiro.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^27-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## Capitolo 4: Disposizioni comuni
 
@@ -335,11 +349,11 @@ Gli UFT e i membri delle commissioni cantonali di tiro possono pubblicare atti e
 
 **Indennità**[^32-1]
 
-<sup>1</sup> Le indennità per gli UFT e le commissioni cantonali di tiro sono stabilite nell’allegato 2. Per ottenere dette indennità è necessario allestire un rendiconto delle spese nel sistema AFS.
+<sup>1</sup> Le indennità per gli UFT e le commissioni cantonali di tiro sono stabilite nell’allegato 2. Per ottenere dette indennità è necessario allestire un rendiconto delle spese nel sistema SAT-Admin.
 
-<sup>2</sup> Gli originali dei giustificativi contabili e delle ricevute devono essere indirizzati, per la via di servizio, all’Aggruppamento Difesa.
+<sup>2</sup> I giustificativi contabili e le ricevute devono essere indirizzati elettronicamente mediante il sistema SAT-Admin, per la via di servizio, all’Aggruppamento Difesa.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del DDPS del 16 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^32-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 33
 
@@ -385,13 +399,13 @@ L’ordinanza del DMF del 2 dicembre 1974[^36-1] concernente le attribuzioni e l
 
 La presente ordinanza entra in vigore il 1° gennaio 2004.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 2)
 
 ## Circondari di tiro federali
 
-[^t-2]: Aggiornato dal n. III dell’O del DDPS del 14 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 <table>
 <tr><th>Circondario</th><th>Cantoni</th><th>Regioni, distretti</th></tr>
@@ -400,32 +414,32 @@ Allegato 1*[^t-2]*
 <tr><td>3</td><td>VS</td><td>Bas-Valais</td></tr>
 <tr><td>4</td><td>VS</td><td>Oberwallis</td></tr>
 <tr><td>5</td><td>FR</td><td></td></tr>
-<tr><td>6</td><td>BE</td><td>Moutier, Courtelary e La Neuveville</td></tr>
-<tr><td>7</td><td>BE</td><td>Seeland e Mittelland</td></tr>
-<tr><td>8</td><td>BE</td><td>Oberaargau e Emmental</td></tr>
+<tr><td>6</td><td>BE</td><td>Berner Jura</td></tr>
+<tr><td>7</td><td>BE</td><td>Bern-Mittelland e Seeland</td></tr>
+<tr><td>8</td><td>BE</td><td>Emmental e Oberaargau</td></tr>
 <tr><td>9</td><td>BE</td><td>Oberland</td></tr>
 <tr><td>10</td><td>BS, BL</td><td></td></tr>
 <tr><td>11</td><td>SO</td><td></td></tr>
 <tr><td>12</td><td>LU</td><td></td></tr>
-<tr><td>13</td><td>AG</td><td>Aarau, Lenzburg, Kulm, Laufenburg, Rheinfelden e Zofingen</td></tr>
+<tr><td>13</td><td>AG</td><td></td></tr>
 <tr><td>14</td><td>ZH</td><td>Zürich, Affoltern, Horgen, Meilen, Hinwil, Uster e Dietikon</td></tr>
 <tr><td>15</td><td>SH, ZH</td><td>ZH: Pfäffikon, Winterthur, Andelfingen, Bülach e Dielsdorf</td></tr>
 <tr><td>16</td><td>UR, SZ, OW, NW, ZG</td><td></td></tr>
 <tr><td>17</td><td>TI, GR</td><td>GR: Moesa</td></tr>
-<tr><td>18</td><td>TG, SG</td><td>SG: Alttoggenburg, Gossau, Untertoggenburg, Wil, Rorschach, St. Gallen, Unter- Rheintal e Ober-Rheintal</td></tr>
+<tr><td>18</td><td>TG, SG</td><td>SG: Alttoggenburg, Gossau, Untertoggenburg, Wil, Rorschach, St. Gallen, Unter- e Ober-Rheintal</td></tr>
 <tr><td>19</td><td>GL, AR, AI, SG</td><td>SG: Gaster, See, Sargans, Werdenberg, Neutoggenburg e Obertoggenburg</td></tr>
 <tr><td>20</td><td>GR</td><td>senza Moesa</td></tr>
 <tr><td>21</td><td>NE</td><td></td></tr>
 <tr><td>22</td><td>JU</td><td></td></tr>
 </table>
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 32)
 
 ## Indennità degli UFT e delle commissioni cantonali di tiro
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del DDPS del 16 dic. 2011 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)). Aggiornato dal n. III dell’O del DDPS del 14 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del DDPS del 16 dic. 2011 ([RU 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)). Aggiornato dal n. III dell’O del DDPS del 14 dic. ([RU 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) e dal n. II cpv. 2 dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ### 1 Indennità giornaliere
 
@@ -437,8 +451,8 @@ Allegato 2*[^t-3]*
   - b. 170 franchi ai presidenti delle commissioni cantonali di tiro;
   - c. 140 franchi ai membri delle commissioni cantonali di tiro.
 
-- 1\.2 Se l’attività di servizio dei presidenti e dei membri delle commissioni cantonali di tiro si limita a una mattina (fino alle ore 12.00), a un pomeriggio (fino alle ore 18.00) oppure a una sera, l’indennità giornaliera è ridotta della metà. Il diritto all’indennità giornaliera completa sussiste se l’attività di servizio si estende a differenti parti del giorno e dura (compreso il viaggio) più di 6 ore.
-- 1\.3 Se l’attività di servizio (compreso il viaggio) degli UFT è limitata a meno di 3 ore al giorno, l’indennità giornaliera è ridotta della metà.
+- 1\.2 Se l’attività di servizio degli UFT, dei presidenti e dei membri delle commissioni cantonali di tiro si limita a 5 ore o meno (compreso il viaggio), l’indennità giornaliera è ridotta della metà. Il diritto all’indennità giornaliera completa sussiste se l’attività di servizio supera le 5 ore (compreso il viaggio).
+- 1\.3 ...
 - 1\.4 Per il calcolo della durata dell’attività di servizio è considerato il tempo compreso tra la partenza dal luogo di lavoro o dal domicilio e il ritorno allo stesso.
 - 1\.5
 
@@ -448,9 +462,12 @@ Allegato 2*[^t-3]*
   - b. 5 indennità giornaliere ai presidenti delle commissioni cantonali di tiro;
   - c. 2 indennità giornaliere ai membri delle commissioni cantonali di tiro.
 
-- 1\.6 Per i lavori di preparazione e di chiusura dei corsi concernenti i corsi per monitori di tiro e i corsi di ripetizione per monitori dei giovani tiratori può essere corrisposta per ogni corso al massimo una mezza indennità giornaliera.
+- 1\.6 Per il corso preparatorio dei quadri, i lavori di preparazione e di chiusura dei corsi concernenti i corsi per monitori di tiro e i corsi di ripetizione per capi dei giovani tiratori può essere corrisposta per ogni corso al massimo un’indennità giornaliera.
 - 1\.7 Agli UFT attivi nei circondari di tiro nei quali sono parlate due lingue nazionali l’Aggruppamento Difesa può inoltre concedere annualmente il versamento di un’indennità giornaliera al massimo in caso di ricorso a traduttori esterni.
 - 1\.8 Le indennità giornaliere di cui al numero 1.5 possono essere ridotte o stralciate (art. 53 dell’ordinanza del 5 dicembre 2003 sul tiro) in caso di disbrigo lacunoso dei lavori amministrativi oppure di mancato rispetto dei termini.
+- 1\.9 Per la rappresentanza negli organi specializzati secondo l’articolo 5 capoverso 1 gli UFT possono far valere 10 mezze giornate all’anno al massimo.
+- 1\.10 Nelle riunioni con le società di tiro o nelle ispezioni degli impianti di tiro gli UFT possono far valere per il lavoro amministrativo una mezza indennità giornaliera al massimo per ciascun caso.
+- 1\.11 Per un rapporto d’istruzione speciale alla fine degli esercizi di tiro secondo l’articolo 23 capoverso 3 i membri delle commissioni cantonali di tiro possono far valere una mezza indennità giornaliera al massimo all’anno.
 
 ### 2 Indennità per il controllo dei fogli di stand
 
@@ -468,14 +485,14 @@ Allegato 2*[^t-3]*
 
 - 3\.1
 
-  L’indennità per le spese supplementari per i pasti che devono essere presi fuori del luogo di servizio o di domicilio è coperta mediante il versamento di un’indennità forfettaria che ammonta a:
+  L’indennità per i pasti che devono essere presi fuori del luogo di servizio o di domicilio è coperta mediante il versamento di un’indennità forfettaria che ammonta a:
 
   - a. 14 franchi per la colazione, in caso di partenza prima delle ore 06.30;
   - b. 27.50 franchi per il pranzo;
   - c. 27.50 franchi per la cena.
 
-- Se l’attività di servizio degli ufficiali federali di tiro, dei presidenti e dei membri delle commissioni cantonali di tiro si limita a una mattina (fino alle ore 12.00), a un pomeriggio (fino alle ore 18.00) oppure a una sera, non sussiste alcun diritto a un pranzo o a una cena. È possibile conteggiare un pranzo o una cena se l’attività di servizio si estende a due differenti parti del giorno e dura (compreso il viaggio) più di 6 ore.
-- 3\.2 Per i pernottamenti per ragioni di servizio, dietro presentazione della ricevuta sono rimborsate le spese di pernottamento effettive secondo le tariffe locali usuali, ma al massimo 150 franchi (compresa la colazione). Le tariffe degli alberghi di media categoria valgono come norma indicativa. Per il pernottamento in un alloggio privato sono versati al massimo 50 franchi (compresa la colazione) per notte.
+- Se l’attività di servizio degli ufficiali federali di tiro, dei presidenti e dei membri delle commissioni cantonali di tiro si limita a 5 ore (compreso il viaggio), non sussiste alcun diritto a un pranzo o a una cena. È possibile conteggiare un pranzo o una cena se l’attività di servizio supera le 5 ore (compreso il viaggio).
+- 3\.2 Per i pernottamenti per ragioni di servizio, dietro presentazione della ricevuta sono rimborsate le spese di pernottamento effettive secondo le tariffe locali usuali, ma al massimo 180 franchi (compresa la colazione). Per il pernottamento in un alloggio privato sono versati al massimo 50 franchi (compresa la colazione) per notte.
 - 3\.3
 
   Di principio, per i viaggi di servizio devono essere utilizzati i mezzi di trasporto pubblici. È rimborsato il prezzo del biglietto di 1<sup>a</sup> classe. A condizione che ne risulti un considerevole risparmio di spesa o di tempo, vi è la possibilità di utilizzare un autoveicolo privato per i viaggi di servizio. In tal caso, l’indennità si fonda sull’articolo 46 dell’ordinanza del DFF del 6 dicembre 2001[^annex2-lvlu1-lvl3-1] concernente l’ordinanza sul personale federale e, per la tratta più veloce tra il luogo di partenza e il luogo d’impiego, ammonta a:
@@ -485,11 +502,10 @@ Allegato 2*[^t-3]*
 
 [^annex2-lvlu1-lvl3-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-### 4 Indennità per lavori di segretariato e per gli aiuto istruttori provenienti dalle società di tiro
+### 4 Indennità per funzionari
 
-- 4\.1 I segretari e gli aiuto istruttori provenienti dalle società di tiro assunti al posto dei membri ordinari delle commissioni cantonali di tiro hanno diritto a un’indennità giornaliera pari all’ammontare di quella corrisposta a un membro della commissione cantonale di tiro per una prestazione giornaliera (compreso il viaggio) di almeno 6 ore e a una mezza indennità giornaliera per una prestazione (compreso il viaggio) di durata inferiore alle 6 ore.
+- 4\.1 I funzionari assunti al posto dei membri ordinari delle commissioni cantonali di tiro hanno diritto a un’indennità giornaliera pari all’ammontare di quella corrisposta a un membro della commissione cantonale di tiro per una prestazione giornaliera (compreso il viaggio) di almeno 5 ore e a una mezza indennità giornaliera per una prestazione (compreso il viaggio) di durata inferiore alle 5 ore.
 - 4\.2 Le altre indennità sono corrisposte conformemente alle disposizioni applicabili ai membri delle commissioni cantonali di tiro.
-- 4\.3 Per i lavori di segretariato è corrisposta al massimo un’indennità giornaliera, anche nel caso di corsi che durano più giorni.
 
 ### 5 Funzionari in servizio militare o al servizio della Confederazione
 

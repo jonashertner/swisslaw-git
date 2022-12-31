@@ -3,30 +3,31 @@ sr: "512.313"
 title: Ordonnance du DDPS du 11 décembre 2003 sur les officiers fédéraux de tir et les commissions cantonales de tir (Ordonnance sur les officiers de tir)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/3"
 language: fr
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2003-12-11
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/3/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-3-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/3/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/3/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-3-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/3/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DDPS sur les officiers fédéraux de tir et les commissions cantonales de tir
 
-(Ordonnance sur les officiers de tir) **[^t-1]**
+(Ordonnance sur les officiers de tir) [^t-1]
 
-du 11 décembre 2003 (Etat le 1<sup>er</sup> janvier 2016)
+du 11 décembre 2003 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), en accord avec le Département fédéral des finances,
 
-vu les art. 30, 32, al. 4, 40, al. 1, let. b, et 55 de l’ordonnance du 5 décembre 2003 sur le tir[^ingress-1],
+vu les art. 30, 32, al. 2, 40, al. 1, let. b, et 55 de l’ordonnance du 5 décembre 2003 sur le tir[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -47,7 +48,7 @@ La présente ordonnance s’applique:
 
 Les arrondissements fédéraux de tir sont fixés dans l’annexe.
 
-## Chapitre 2 Officiers fédéraux de tir****
+## Chapitre 2 Officiers fédéraux de tir
 
 [^chap2-1]
 
@@ -57,11 +58,12 @@ Les arrondissements fédéraux de tir sont fixés dans l’annexe.
 
 **Période administrative et durée du mandat**[^3-1]
 
-<sup>1</sup> Les OFT sont nommés pour une période administrative de quatre ans et la durée de leur mandat se limite à 12 ans. Dans des cas dûment motivés, le chef de l’armée peut prolonger la durée du mandat à 16 ans.
+<sup>1</sup> Les OFT sont nommés pour une période administrative de quatre ans.[^3-2]
 
 <sup>2</sup> Les OFT peuvent exercer leur activité jusqu’à la fin de l’année au cours de laquelle ils atteignent l’âge de 70 ans.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 4
 
@@ -75,24 +77,29 @@ Les arrondissements fédéraux de tir sont fixés dans l’annexe.
 
 #### Art. 5
 
-**Participation dans des commissions de l’État et dans des commissions civiles**
+**Engagement et représentation au sein d’organes spécialisés[^5-1]**
 
 <sup>1</sup>
 
 Sur demande, l’OFT défend les intérêts de la Confédération dans le domaine du tir hors du service, notamment dans les organismes spécialisés suivants:
 
 - a. dans les commissions cantonales et communales ainsi que dans les organes de surveillance;
-- b. dans l’assemblée des délégués de la FST;
-- c. dans l’assemblée des délégués de l’Assurance-accidents des sociétés suisses de tir;
+- b.[^5-2] dans l’assemblée des délégués de la Fédération sportive suisse de tir (FST);
+- c.[^5-3] dans l’assemblée des délégués de l’USS Assurances[^5-4];
 - d. dans l’assemblée des délégués des sous-organisations de la FST en activité dans son arrondissement.
 
 <sup>2</sup> Les activités exercées selon l’al. 1 du présent article sont indemnisées annuellement pendant dix demi-jours au maximum.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-4]: Anciennement: Assurance-accidents des sociétés suisses de tir.
 
 #### Art. 6
 
 **Rapport d’instruction**
 
-<sup>1</sup> L’OFT organise un rapport d’instruction chaque année, avant le début des exercices de tir, avec les présidents des commissions cantonales placées sous sa surveillance. A l’occasion de ce rapport, il fixe notamment pour l’année les accents en matière de contrôle.
+<sup>1</sup> L’OFT organise un rapport d’instruction chaque année, avant le début des exercices de tir, avec les présidents des commissions cantonales placées sous sa surveillance. À l’occasion de ce rapport, il fixe notamment pour l’année les accents en matière de contrôle.
 
 <sup>2</sup> l’OFT peut organiser périodiquement un rapport d’instruction avec tous les présidents des commissions cantonales de tir placées sous sa surveillance ainsi qu’avec les membres desdites commissions. Le cas échéant, les rapports figurant à l’al. 1 et à l’art. 16, al. 1, sont annulés.[^6-1]
 
@@ -142,15 +149,18 @@ Les tâches de l’OFT relatives aux cours du tir hors du service sont réglées
 
 #### Art. 11
 
-**Conférences des OFT**[^11-1]
+**Conférence fédérale de tir[^11-2]**[^11-1]
 
-<sup>1</sup> Les OFT sont convoqués une fois par année en Conférence fédérale de tir avant le début des exercices de tir. C’est le commandant des Forces terrestres qui nomme le président. Les délibérations sont consignées dans un procès-verbal. Ce document doit être envoyé aux OFT et aux commissions cantonales de tir.
+<sup>1</sup> Les OFT sont convoqués une fois par année en Conférence fédérale de tir avant le début des exercices de tir. Le chef du commandement de l’Instruction nomme le président. Les délibérations sont consignées dans un procès-verbal. Ce document doit être remis aux OFT et aux commissions cantonales de tir sous forme informatisée.[^11-3]
 
-<sup>2</sup> Des spécialistes militaires ou civils ainsi que des représentants de l’administration et de la Fédération sportive suisse de tir (FST) peuvent être convoqués, au besoin, aux conférences des OFT; ils ont voix consultative.
+<sup>2</sup> Des spécialistes militaires ou civils ainsi que des représentants de l’administration, de la FST et de l’USS Assurances peuvent, au besoin, être convoqués à la conférence fédérale de tir; ils ont voix consultative.[^11-4]
 
-<sup>3</sup> A l’issue des exercices de tir, le Groupement Défense peut convoquer annuellement les OFT à une conférence sur les exigences techniques dans le domaine du tir hors du service. Le cas échéant, cette conférence est préparée et dirigée par l’expert fédéral des installations de tir.
+<sup>3</sup> À l’issue des exercices de tir, le Groupement Défense peut convoquer annuellement les OFT à une conférence sur les exigences techniques dans le domaine du tir hors du service. Le cas échéant, cette conférence est préparée et dirigée par l’expert fédéral des installations de tir.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^11-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## Chapitre 3 Commissions cantonales de tir
 
@@ -168,15 +178,15 @@ Les tâches de l’OFT relatives aux cours du tir hors du service sont réglées
 
 #### Art. 13
 
-**Période administrative, mandat et limitation du mandat**
+**Période administrative, mandat et limites du mandat**[^13-1]
 
-<sup>1</sup> Le président et les membres des commissions cantonales de tir sont nommés pour une période de trois ans au moins.
+Les cantons réglementent la période administrative, le mandat et les limites du mandat du président et des membres de la commission cantonale de tir.
 
-<sup>2</sup> Par ailleurs le mandat et l’âge limite sont régis par la réglementation des cantons respectifs.
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 14
 
-**Eligibilité**
+**Éligibilité**
 
 Peut être nommé membre d’une commission cantonale de tir tout citoyen suisse qui est membre d’une société de tir reconnue.
 
@@ -202,7 +212,7 @@ Peut être nommé membre d’une commission cantonale de tir tout citoyen suisse
 
 <sup>3</sup> Ils peuvent assister, à titre de conseiller, aux rapports d’instruction des membres de leur commission.
 
-<sup>4</sup> A la fin des exercices de tir, ils peuvent inviter les membres de leur commission à un rapport de fin d’année.
+<sup>4</sup> À la fin des exercices de tir, ils peuvent inviter les membres de leur commission à un rapport de fin d’année.
 
 #### Art. 17
 
@@ -222,11 +232,11 @@ L’OFT peut charger le président d’une commission cantonale de tir de prépa
 
 **Contrôle des rapports de tir**[^19-1]
 
-<sup>1</sup> Le président d’une commission contrôle, dans le système de l’Administration de la Fédération et des sociétés (AFS), les rapports de tir qui lui sont adressés par les membres de sa commission et demande, au besoin, les feuilles de stand pour un contrôle complémentaire.
+<sup>1</sup> Le président de la commission cantonale de tir contrôle dans le système d’information Tir et activités hors du service (SAT-Admin) les rapports de tir signés par les membres de sa commission et demande, au besoin, les feuilles de stand pour un contrôle complémentaire.
 
-<sup>2</sup> Le président de la commission doit contresigner, dans le système de l’AFS, les rapports de tir, les commandes de munitions et les listes des restés, ceci à l’attention du Groupement Défense et des autorités militaires cantonales compétentes.
+<sup>2</sup> Toujours dans SAT-Admin, le président contresigne les rapports de tir, les commandes de munitions et les listes de restés à l’intention du Groupement Défense et des autorités militaires cantonales compétentes.
 
-[^19-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 20
 
@@ -254,13 +264,17 @@ Les présidents de commission cantonale peuvent représenter une fois par année
 
 #### Art. 23
 
-**Rapport d’instruction et encadrement des organes de société**
+**Rapport d’instruction et encadrement des représentants des sociétés[^23-1]**
 
 <sup>1</sup> Le membre d’une commission tient chaque année avant le début des exercices de tir un rapport d’instruction avec les sociétés de tir placées sous sa surveillance.
 
-<sup>2</sup> Ce rapport est destiné particulièrement à préparer à leurs tâches les nouveaux organes de sociétés. Le membre d’une commission conseille toutes les sociétés de tir pendant toute l’année également.
+<sup>2</sup> Ce rapport est principalement destiné à préparer à leurs tâches les nouveaux représentants des sociétés. Le membre d’une commission conseille également les sociétés de tir durant l’année.[^23-2]
 
-<sup>3</sup> A la fin des exercices de tir, le membre d’une commission peut réunir en une séance d’instruction spéciale les organes de sociétés chargés d’établir les rapports de tir. Le membre de la commission peut porter en compte pour cette activité une demi-indemnité journalière au plus.
+<sup>3</sup> À la fin des exercices de tir, le membre d’une commission peut réunir pour une séance d’instruction spéciale les représentants des sociétés chargés d’établir les rapports de tir. Il peut facturer tout au plus une demi-indemnité journalière pour cette activité.[^23-3]
+
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^23-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 24
 
@@ -291,11 +305,11 @@ Le membre d’une commission dresse, pour chaque tir qu’il a surveillé, un ra
 
 #### Art. 27
 
-**Vérification des rapports de tir**[^27-1]
+**Vérification des feuilles de stand et des rapports de tir**[^27-1]
 
-Le membre d’une commission vérifie et corrige les feuilles de stand et les rapports de tir des sociétés de tir placées sous sa surveillance. Il contresigne les rapports de tir dans le système de l’AFS et les transmet au président de sa commission.
+Le membre d’une commission vérifie et corrige les feuilles de stand et les rapports de tir des sociétés de tir placées sous sa surveillance. Il contresigne les rapports de tir dans SAT-Admin avant de les transmettre au président de sa commission.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## Chapitre 4 Dispositions générales
 
@@ -335,11 +349,11 @@ Les OFT et les membres des commissions cantonales de tir ne peuvent publier des 
 
 **Indemnités**[^32-1]
 
-<sup>1</sup> Les indemnités versées aux ESO et aux commissions cantonales de tir sont fixées dans l’annexe 2. Elles doivent être validées dans le système de l’AFS au moyen d’un décompte des indemnités.
+<sup>1</sup> Les indemnités des OFT et des commissions cantonales de tir sont calculées selon les règles définies dans l’annexe 2. Il y a lieu de les faire valoir au moyen d’une attestation d’indemnités dans SAT-Admin.
 
-<sup>2</sup> Les originaux des pièces justificatives et des quittances doivent être adressés par la voie hiérarchique au Groupement Défense.
+<sup>2</sup> Les pièces justificatives et les quittances doivent être adressées par la voie hiérarchique au Groupement Défense, par voie informatique (SAT-Admin).
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 33
 
@@ -359,7 +373,7 @@ Les OFT et les membres des commissions cantonales de tir ne peuvent publier des 
 
 <sup>1</sup> La Confédération procure gratuitement aux OFT et aux membres des commissions cantonales de tir la documentation et le matériel nécessaire à l’instruction.
 
-<sup>2</sup> Le Groupement Défense indemnise les OFT, contre quittance, pour leurs frais d’envoi. A cet effet, les membres des commissions cantonales de tir s’adressent aux autorités militaires cantonales compétentes.
+<sup>2</sup> Le Groupement Défense indemnise les OFT, contre quittance, pour leurs frais d’envoi. À cet effet, les membres des commissions cantonales de tir s’adressent aux autorités militaires cantonales compétentes.
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
 
@@ -385,24 +399,24 @@ L’ordonnance du DDPS du 2 décembre 1974 sur les attributions et les indemnit�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2004.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 2)
 
 ## Arrondissements fédéraux de tir
 
-[^t-2]: Mise à jour selon le ch. III de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 <table>
-<tr><td>Arrondissements</td><td>Cantons</td><td>Régions, districts</td></tr>
-<tr><td>1</td><td>GE, VD</td><td>VD: Nyon, Morges, Ouest Lausannois</td></tr>
+<tr><th>Arrondissements</th><th>Cantons</th><th>Régions, districts</th></tr>
+<tr><td>1</td><td>GE, VD</td><td>VD: Nyon, Morges, Ouest lausannois</td></tr>
 <tr><td>2</td><td>VD</td><td>Lausanne, Aigle, Broye-Vully, Gros-de Vaud, Jura-Nord vaudois, Lavaux-Oron, Riviera-Pays-d’Enhaut</td></tr>
 <tr><td>3</td><td>VS</td><td>Bas-Valais</td></tr>
-<tr><td>4</td><td>VS</td><td>Oberwallis</td></tr>
+<tr><td>4</td><td>VS</td><td>Haut-Valais</td></tr>
 <tr><td>5</td><td>FR</td><td></td></tr>
-<tr><td>6</td><td>BE</td><td>Moutier, Courtelary et La Neuveville</td></tr>
-<tr><td>7</td><td>BE</td><td>Seeland et Mittelland</td></tr>
-<tr><td>8</td><td>BE</td><td>Oberaargau et Emmental</td></tr>
+<tr><td>6</td><td>BE</td><td>Jura bernois</td></tr>
+<tr><td>7</td><td>BE</td><td>Berne-Mittelland et Seeland</td></tr>
+<tr><td>8</td><td>BE</td><td>Emmental et Haute-Argovie</td></tr>
 <tr><td>9</td><td>BE</td><td>Oberland</td></tr>
 <tr><td>10</td><td>BS, BL</td><td></td></tr>
 <tr><td>11</td><td>SO</td><td></td></tr>
@@ -419,13 +433,13 @@ Annexe 1*[^t-2]*
 <tr><td>22</td><td>JU</td><td></td></tr>
 </table>
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 32)
 
 ## Indemnités des OFT et des commissions cantonales de tir
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 16 déc. 2011 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)). Mise à jour selon le ch. III de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 16 déc. 2011 ([RO 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)). Mise à jour par le ch. III de l’O du DDPS du 14 déc. 2015 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) et le ch. II al. 2 de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ### 1 Indemnités journalières
 
@@ -437,8 +451,8 @@ Annexe 2*[^t-3]*
   - b. 170 francs aux présidents des commissions cantonales de tir;
   - c. 140 francs aux membres des commissions cantonales de tir.
 
-- 1\.2 L’indemnité est réduite de moitié lorsque l’activité des présidents et des membres des commissions cantonales de tir est limitée à une matinée (jusqu’à 12 h.), un après-midi (jusqu’à 18 h.) ou un soir. L’activité s’étendant à différentes phases du jour et durant plus de six heures (voyage compris) donne droit à une indemnité entière.
-- 1\.3 L’indemnité est réduite de moitié lorsque l’activité des OFT dure moins de trois heures par jour (voyage compris).
+- 1\.2 L’indemnité est réduite de moitié lorsque l’activité de l’OFT, du président ou du membre de la commission cantonale de tir dure cinq heures ou moins (déplacement compris). Une activité de plus de cinq heures (déplacement compris) donne droit à une indemnité journalière intégrale.
+- 1\.3 …
 - 1\.4 Le temps consacré à l’activité est calculé du départ du lieu de travail ou de domicile jusqu’au retour.
 - 1\.5
 
@@ -448,9 +462,12 @@ Annexe 2*[^t-3]*
   - b. pour les présidents des commissions cantonales de tir: 5 indemnités journalières;
   - c. pour les membres des commissions cantonales de tir: 2 indemnités journalières.
 
-- 1\.6 Pour la préparation et la clôture des cours pour moniteurs et des cours de répétition pour moniteurs de tir et moniteurs de tir de jeunes tireurs, il est possible de faire valoir une demi-indemnité journalière au maximum par cours.
+- 1\.6 Pour les cours de cadres et pour la préparation et la clôture des cours pour moniteurs et des cours de répétition pour moniteurs de tir et directeurs de jeunes tireurs, il est possible de faire valoir une indemnité journalière au maximum par cours.
 - 1\.7 Le Groupement Défense peut autoriser le versement supplémentaire d’une indemnité journalière par an au maximum aux OFT en charge d’arrondissements de tir dans lesquels sont parlées deux langues nationales, pour faire réaliser des traductions externes.
 - 1\.8 Les indemnités journalières prévues au ch. 1.5 peuvent être réduites ou supprimées lorsque les travaux administratifs sont mal effectués ou les délais ne sont pas respectés (art. 53 de l’ordonnance du 5 décembre 2003 sur le tir).
+- 1\.9 Les OFT peuvent faire valoir dix demi-journées au maximum par année pour siéger au sein des organes spécialisés visés à l’art. 5, al. 1.
+- 1\.10 Pour leurs travaux administratifs, les OFT peuvent faire valoir une demi-indemnité journalière au maximum par cas pour les séances avec des sociétés de tir ou pour les visites d’installation de tir.
+- 1\.11 Les membres de la commission cantonale de tir peuvent faire valoir une demi-indemnité journalière au maximum par année pour une séance d’instruction spéciale organisée à la fin des exercices de tir selon l’art. 23, al. 3.
 
 ### 2 Indemnité pour le contrôle des feuilles de stand
 
@@ -468,14 +485,14 @@ Annexe 2*[^t-3]*
 
 - 3\.1
 
-  Les frais supplémentaires pour les repas qui doivent être pris en dehors du lieu de travail ou de domicile sont indemnisés sous une forme forfaitaire, à savoir:
+  Les indemnités forfaitaires versées pour les repas qui doivent être pris en dehors du lieu de travail ou du domicile sont les suivantes:
 
-  - a. pour le petit-déjeuner: 14 francs si le départ a lieu avant 6 heures;
-  - b. 27 fr. 50 par jour pour le repas de midi;
-  - c. 27 fr. 50 par jour pour le souper.
+  - a. pour le déjeuner: 14 francs si le départ a lieu avant 6 h 30;
+  - b. 27 francs 50 pour le dîner;
+  - c. 27 francs 50 pour le souper.
 
-- Si l’activité des présidents et des membres des commissions cantonales de tir est limitée à une matinée (jusqu’à 12 h.), un après-midi (jusqu’à 18 h.) ou un soir, aucun indemnité n’est versée pour le repas de midi ou le souper. L’activité s’étendant à deux phases du jour et durant plus de six heures (voyage compris) donne droit à une indemnité pour le repas de midi ou le souper.
-- 3\.2 Les frais de logement locaux effectifs, mais au maximum 150 francs (petit-déjeuner inclus), sont remboursés (contre présentation d’une facture) pour les nuits passées hors du domicile pour raisons de service. Est considérée comme norme indicative le prix des hôtels de catégorie moyenne. Pour les nuitées chez l’habitant (petit-déjeuner inclus), un montant de 50 francs au maximum est accordé.
+- Si l’activité de l’OFT, du président ou du membre de la commission cantonale de tir ne dépasse pas cinq heures (déplacement compris), aucune indemnité n’est due pour le dîner ou pour le souper. Une activité de plus de cinq heures (déplacement compris) donne droit à une indemnité pour le dîner ou pour le souper.
+- 3\.2 Les frais effectifs, au maximum 180 francs (déjeuner compris) par nuitée passée hors du domicile pour des raisons de service, sont remboursés contre facture. Pour les nuitées chez l’habitant (déjeuner compris), un montant de 50 francs au maximum est accordé.
 - 3\.3
 
   Pour les voyages de service, il faut en principe utiliser les transports publics. Les billets de 1<sup>re</sup> classe sont remboursés. Il est permis d’utiliser un véhicule privé pour des voyages de service si cela permet d’économiser beaucoup de frais ou de temps. L’indemnité kilométrique se fonde sur l’art. 46 de l’ordonnance du DFF du 6 décembre 2001 concernant l’ordonnance sur le personnel de la Confédération[^annex2-lvlu1-lvl3-1] et s’élève, pour le trajet le plus direct entre le lieu de départ et le lieu d’engagement, à:
@@ -485,11 +502,10 @@ Annexe 2*[^t-3]*
 
 [^annex2-lvlu1-lvl3-1]: [RS 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-### 4 Indemnités pour les travaux de secrétariat et pour l’aide à l’instruction provenant des sociétés de tir
+### 4 Indemnités de suppléance
 
-- 4\.1 Les secrétaires ou les aides-instructeurs provenant des sociétés de tir qui sont engagés au lieu des membres à part entière des commissions cantonales de tir reçoivent une indemnité journalière équivalant à celle touchée par un membre d’une commission cantonale de tir pour toute activité durant six heures au moins (voyage compris). L’indemnité est réduite de moitié si la durée de leur activité (voyage compris) est inférieure à six heures.
+- 4\.1 Les fonctionnaires engagés en lieu et place des membres ordinaires de la commission cantonale de tir reçoivent une indemnité journalière équivalente à celle que perçoivent lesdits membres, si la journée de travail dépasse cinq heures (déplacement compris). Un engagement de moins de cinq heures (déplacement compris) donne seulement droit à une demi-indemnité journalière.
 - 4\.2 Ils ont droit également aux autres indemnités fixées dans les dispositions applicables aux membres des commissions cantonales de tir.
-- 4\.3 Une indemnité journalière au plus est payée pour les travaux de secrétariat même si le cours dure plusieurs jours.
 
 ### 5 Commissaires en service militaire ou en service de la Confédération
 

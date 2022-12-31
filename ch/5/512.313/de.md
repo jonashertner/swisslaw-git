@@ -3,30 +3,31 @@ sr: "512.313"
 title: Verordnung des VBS vom 11. Dezember 2003 über die eidgenössischen Schiessoffiziere und die kantonalen Schiesskommissionen (Schiessoffiziersverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/3"
 language: de
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2003-12-11
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/3/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2004-3-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/3/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/3/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-3-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/3/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des VBS über die eidgenössischen Schiessoffiziere und die kantonalen Schiesskommissionen
 
-(Schiessoffiziersverordnung)**[^t-1]**
+(Schiessoffiziersverordnung)[^t-1]
 
-vom 11. Dezember 2003 (Stand am 1. Januar 2016)
+vom 11. Dezember 2003 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport, im Einvernehmen mit dem Eidgenössischen Finanzdepartement,
 
-gestützt auf die Artikel 30, 32 Absatz 4, 40 Absatz 1 Buchstabe b und 55 der Schiessverordnung vom 5. Dezember 2003[^ingress-1],
+gestützt auf die Artikel 30, 32 Absatz 2, 40 Absatz 1 Buchstabe b und 55 der Schiessverordnung vom 5. Dezember 2003[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^ingress-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -47,7 +48,7 @@ Diese Verordnung gilt für die:
 
 Die eidgenössischen Schiesskreise sind im Anhang festgelegt.
 
-## 2. Kapitel: Eidgenössische Schiessoffiziere****
+## 2. Kapitel: Eidgenössische Schiessoffiziere
 
 [^chap2-1]
 
@@ -57,11 +58,12 @@ Die eidgenössischen Schiesskreise sind im Anhang festgelegt.
 
 **Amtsdauer und Amtszeit**[^3-1]
 
-<sup>1</sup> Die Amtsdauer der ESO beträgt vier Jahre und die Amtszeit ist auf 12 Jahre beschränkt. Der Chef der Armee kann in begründeten Fällen die Amtszeit auf höchstens 16 Jahre verlängern.
+<sup>1</sup> Die Amtsdauer der ESO beträgt vier Jahre.[^3-2]
 
 <sup>2</sup> Die ESO können ihre Tätigkeit bis zum Ende des Jahres ausüben, in dem sie 70 Jahre alt werden.
 
 [^3-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^3-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 4
 
@@ -75,18 +77,23 @@ Die eidgenössischen Schiesskreise sind im Anhang festgelegt.
 
 #### Art. 5
 
-**Einsitznahmein staatlichen und zivilen Kommissionen**
+**Einsitznahme und Vertretungin Fachgremien[^5-1]**
 
 <sup>1</sup>
 
 Auf Anfrage vertritt der ESO die Interessen des Bundes betreffend das Schiesswesen ausser Dienst insbesondere in den folgenden Fachgremien:
 
 - a. den kantonalen und kommunalen Kommissionen sowie Aufsichtsorganen;
-- b. der Delegiertenversammlung des SSV;
-- c. der Delegiertenversammlung der Unfallversicherung Schweizerischer Schützenvereine;
+- b.[^5-2] der Delegiertenversammlung des Schweizer Schiesssportverbandes (SSV);
+- c.[^5-3] der Delegiertenversammlung der USS-Versicherungen[^5-4];
 - d. der Delegiertenversammlung der in seinem Kreis tätigen Unterorganisationen des SSV.
 
 <sup>2</sup> Tätigkeiten nach Absatz 1 werden jährlich im Umfang von maximal zehn halben Tagen entschädigt.
+
+[^5-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^5-4]: Ursprünglich: Unfallversicherung Schweizerischer Schützenvereine.
 
 #### Art. 6
 
@@ -142,15 +149,18 @@ Die Aufgaben der ESO betreffend die Schiesskurse des ausserdienstlichen Schiessw
 
 #### Art. 11
 
-**Konferenzen der ESO**[^11-1]
+**Eidgenössische Schiesskonferenz[^11-2]**[^11-1]
 
-<sup>1</sup> Die ESO werden einmal jährlich vor Beginn der Schiessübungen zur eidgenössischen Schiesskonferenz einberufen. Der Kommandant Heer ernennt die Vorsitzende oder den Vorsitzenden. Über die Verhandlungen ist Protokoll zu führen. Dieses ist den ESO sowie den kantonalen Schiesskommissionen zuzustellen.
+<sup>1</sup> Die ESO werden einmal jährlich vor Beginn der Schiessübungen zur eidgenössischen Schiesskonferenz einberufen. Der Chef oder die Chefin Kommando Ausbildung ernennt die Vorsitzende oder den Vorsitzenden. Über die Verhandlungen ist Protokoll zu führen. Dieses ist den ESO sowie den kantonalen Schiesskommissionen elektronisch zur Verfügung zu stellen.[^11-3]
 
-<sup>2</sup> Zu den Konferenzen der ESO können bei Bedarf militärische oder zivile Fachleute sowie Vertreterinnen und Vertreter von Amtsstellen und des Schweizer Schiesssportverbandes (SSV) mit beratender Stimme beigezogen werden.
+<sup>2</sup> Zur eidgenössischen Schiesskonferenz können bei Bedarf militärische oder zivile Fachleute sowie Vertreterinnen und Vertreter von Amtsstellen, des SSV und der USS-Versicherungen mit beratender Stimme beigezogen werden.[^11-4]
 
 <sup>3</sup> Die Gruppe Verteidigung kann die ESO nach Abschluss der Schiessübungen jährlich zu einer Konferenz über die technischen Belange im Schiesswesen ausser Dienst aufbieten. Diese wird durch die eidgenössische Schiessanlagenexpertin oder den eidgenössischen Schiessanlagenexperten vorbereitet und durchgeführt.
 
 [^11-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^11-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^11-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^11-4]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## 3. Kapitel: Kantonale Schiesskommissionen
 
@@ -168,11 +178,11 @@ Die Aufgaben der ESO betreffend die Schiesskurse des ausserdienstlichen Schiessw
 
 #### Art. 13
 
-**Amtsdauer, Amtszeit und Amtsbeschränkung**
+**Amtsdauer, Amtszeit und Amtsbeschränkung**[^13-1]
 
-<sup>1</sup> Die Amtsdauer der Präsidentinnen, der Präsidenten und der Mitglieder der kantonalen Schiesskommissionen beträgt mindestens drei Jahre.
+Bezüglich Amtsdauer, Amtszeit und Amtsbeschränkung der Präsidentinnen, der Präsidenten und der Mitglieder der kantonalen Schiesskommissionen gelten die kantonalen Regelungen.
 
-<sup>2</sup> Im Übrigen gelten bezüglich Amtszeit und Höchstalter die jeweiligen kantonalen Regelungen.
+[^13-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 14
 
@@ -222,11 +232,11 @@ Die Präsidentin oder der Präsident der kantonalen Schiesskommission kann vom E
 
 **Kontrolle der Schiessberichte**[^19-1]
 
-<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident überprüft die von seinen Kommissionsmitgliedern visierten Schiessberichte im System der Vereins- und Verbandsadministration (VVAdmin) und fordert allenfalls die Standblätter zu einer Nachkontrolle ein.
+<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident überprüft die von seinen Kommissionsmitgliedern visierten Schiessberichte im Informationssystem Schiesswesen und Ausserdienstliche Tätigkeiten (SAT-Admin) und fordert allenfalls die Standblätter zu einer Nachkontrolle ein.
 
-<sup>2</sup> Die Schiessberichte, Munitionsbestellungen und Verbliebenenverzeichnisse sind von der Kommissionspräsidentin oder vom Kommissionspräsidenten im System der VVAdmin zuhanden der Gruppe Verteidigung und der zuständigen kantonalen Militärbehörde zu visieren.
+<sup>2</sup> Die Schiessberichte, Munitionsbestellungen und Verbliebenenverzeichnisse sind von der Kommissionspräsidentin oder vom Kommissionspräsidenten im SAT-Admin zuhanden der Gruppe Verteidigung und der zuständigen kantonalen Militärbehörde zu visieren.
 
-[^19-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^19-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 20
 
@@ -254,13 +264,17 @@ Die Präsidentin oder der Präsident der kantonalen Schiesskommission kann jähr
 
 #### Art. 23
 
-**Instruktionsrapport und Betreuung der Vereinsorgane**
+**Instruktionsrapport und Betreuung der Vereinsvertreterinnen und Vereinsvertreter[^23-1]**
 
 <sup>1</sup> Das Kommissionsmitglied führt jährlich vor Beginn der Schiessübungen mit den ihm unterstellten Schiessvereinen einen Instruktionsrapport durch.
 
-<sup>2</sup> Dabei sind insbesondere die neu ernannten Vereinsorgane mit ihren Aufgaben vertraut zu machen. Das Kommissionsmitglied steht allen Schiessvereinen auch während des Jahres beratend zur Seite.
+<sup>2</sup> Dabei sind insbesondere die neu ernannten Vereinsvertreterinnen und Vereinsvertreter mit ihren Aufgaben vertraut zu machen. Das Kommissionsmitglied steht allen Schiessvereinen auch während des Jahres beratend zur Seite.[^23-2]
 
-<sup>3</sup> Nach Abschluss der Schiessübungen kann es die mit der Ausfertigung der Schiessberichte beauftragten Vereinsorgane zu einer besonderen Instruktionssitzung einberufen. Für diese Tätigkeit kann das Kommissionsmitglied höchstens ein halbes Taggeld in Rechnung stellen.
+<sup>3</sup> Nach Abschluss der Schiessübungen kann es die mit der Ausfertigung der Schiessberichte beauftragten Vereinsvertreterinnen und Vereinsvertreter zu einer besonderen Instruktionssitzung einberufen. Für diese Tätigkeit kann das Kommissionsmitglied höchstens ein halbes Taggeld in Rechnung stellen.[^23-3]
+
+[^23-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^23-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
+[^23-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 24
 
@@ -291,11 +305,11 @@ Für jede kontrollierte Schiessübung ist ein standardisierter Kontrollbericht z
 
 #### Art. 27
 
-**Prüfung der Schiessberichte**[^27-1]
+**Prüfung der Standblätter und Schiessberichte**[^27-1]
 
-Das Kommissionsmitglied prüft und korrigiert die Standblätter und Schiessberichte der ihm unterstellten Schiessvereine. Es visiert die Schiessberichte im System der VVAdmin zuhanden der Kommissionspräsidentin oder des Kommissionspräsidenten.
+Das Kommissionsmitglied prüft und korrigiert die Standblätter und Schiessberichte der ihm unterstellten Schiessvereine. Es visiert die Schiessberichte im SAT-Admin zuhanden der Kommissionspräsidentin oder Kommissionspräsidenten.
 
-[^27-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^27-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ## 4. Kapitel: Gemeinsame Bestimmungen
 
@@ -335,11 +349,11 @@ Die ESO sowie die Angehörigen der kantonalen Schiesskommissionen dürfen Akten 
 
 **Entschädigungen**[^32-1]
 
-<sup>1</sup> Die Entschädigungen der ESO und der kantonalen Schiesskommissionen erfolgen nach den Ansätzen in Anhang 2. Sie sind mittels eines Entschädigungsausweises im System der VVAdmin geltend zu machen.
+<sup>1</sup> Die Entschädigungen der ESO und der kantonalen Schiesskommissionen erfolgen nach den Ansätzen in Anhang 2. Sie sind mittels eines Entschädigungsausweises im SAT-Admin geltend zu machen.
 
-<sup>2</sup> Belege und Quittungen sind im Original auf dem Dienstweg an die Gruppe Verteidigung zu richten.
+<sup>2</sup> Belege und Quittungen sind elektronisch mittels SAT-Admin auf dem Dienstweg an die Gruppe Verteidigung zu richten.
 
-[^32-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)).
+[^32-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 #### Art. 33
 
@@ -385,24 +399,24 @@ Die Verordnung des EMD vom 2. Dezember 1974[^36-1] über die Obliegenheiten, Ent
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 2)
 
 ## Eidgenössische Schiesskreise
 
-[^t-2]: Bereinigt gemäss Ziff. III der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 <table>
-<tr><td>Kreis</td><td>Kantone</td><td>Landesteile, Bezirke, Ämter</td></tr>
+<tr><th>Kreis</th><th>Kantone</th><th>Landesteile, Bezirke, Ämter</th></tr>
 <tr><td>1</td><td>GE, VD</td><td>VD: Nyon, Morges, Ouest Lausannois</td></tr>
 <tr><td>2</td><td>VD</td><td>Lausanne, Aigle, Broye-Vully, Gros-de-Vaud, Jura-Nord vaudois, Lavaux-Oron, Riviera-Pays-d’Enhaut</td></tr>
 <tr><td>3</td><td>VS</td><td>Unterwallis</td></tr>
 <tr><td>4</td><td>VS</td><td>Oberwallis</td></tr>
 <tr><td>5</td><td>FR</td><td></td></tr>
-<tr><td>6</td><td>BE</td><td>Moutier, Courtelary und La Neuveville</td></tr>
-<tr><td>7</td><td>BE</td><td>Seeland und Mittelland</td></tr>
-<tr><td>8</td><td>BE</td><td>Oberaargau und Emmental</td></tr>
+<tr><td>6</td><td>BE</td><td>Berner Jura</td></tr>
+<tr><td>7</td><td>BE</td><td>Bern-Mittelland und Seeland</td></tr>
+<tr><td>8</td><td>BE</td><td>Emmental und Oberaargau</td></tr>
 <tr><td>9</td><td>BE</td><td>Oberland</td></tr>
 <tr><td>10</td><td>BS, BL</td><td></td></tr>
 <tr><td>11</td><td>SO</td><td></td></tr>
@@ -419,13 +433,13 @@ Anhang 1*[^t-2]*
 <tr><td>22</td><td>JU</td><td></td></tr>
 </table>
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 32)
 
 ## Entschädigungen der ESO und der kantonalen Schiesskommissionen
 
-[^t-3]: Fassung gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)). Bereinigt gemäss Ziff. III der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-3]: Fassung gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6479](https://fedlex.data.admin.ch/eli/oc/2011/898)). Bereinigt gemäss Ziff. III der V des VBS vom 14. Dez. 2015 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) und Ziff. II Abs. 2 der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 770](https://fedlex.data.admin.ch/eli/oc/2022/770)).
 
 ### 1 Taggeldentschädigungen
 
@@ -437,8 +451,8 @@ Anhang 2*[^t-3]*
   - b. 170 Franken für das Präsidium der kantonalen Schiesskommission;
   - c. 140 Franken für Mitglieder der kantonalen Schiesskommissionen.
 
-- 1\.2 Beschränkt sich die dienstliche Beanspruchung der Präsidentinnen und Präsidenten sowie der Mitglieder der kantonalen Schiesskommissionen auf einen Vormittag (bis 12.00 Uhr), einen Nachmittag (bis 18.00 Uhr) oder einen Abend, so besteht nur Anspruch auf ein halbes Taggeld. Findet eine Überschneidung der drei Tageszeiten mit einer dienstlichen Beanspruchung (inkl. Reisezeit) von über 6 Stunden statt, so kann ein ganzes Taggeld verrechnet werden.
-- 1\.3 Beschränkt sich die dienstliche Beanspruchung (inkl. Reisezeit) der ESO auf weniger als 3 Stunden pro Tag, so besteht nur Anspruch auf ein halbes Taggeld.
+- 1\.2 Beschränkt sich die dienstliche Beanspruchung der ESO, der Präsidentinnen und Präsidenten sowie der Mitglieder der kantonalen Schiesskommissionen auf 5 Stunden oder weniger (inkl. Reisezeit), so besteht nur Anspruch auf ein halbes Taggeld. Überschreitet die dienstliche Beanspruchung 5 Stunden (inkl. Reisezeit), so kann ein ganzes Taggeld verrechnet werden.
+- 1\.3 …
 - 1\.4 Die Zeit der dienstlichen Beanspruchung ist vom Verlassen des Arbeits- bzw. Wohnorts bis zur Rückkehr dorthin zu berechnen.
 - 1\.5
 
@@ -448,9 +462,12 @@ Anhang 2*[^t-3]*
   - b. für Präsidentinnen und Präsidenten der kantonalen Schiesskommissionen: 5 Taggelder;
   - c. für Mitglieder der kantonalen Schiesskommissionen: 2 Taggelder.
 
-- 1\.6 Für Vorbereitungs- und Abschlussarbeiten für Schützenmeisterkurse und Schützenmeister- bzw. Jungschützenleiterwiederholungskurse kann pro Kurs maximal ein halbes Taggeld abgerechnet werden.
+- 1\.6 Für den Kadervorkurs, die Vorbereitungs- und Abschlussarbeiten für Schützenmeisterkurse und Schützenmeister- bzw. Jungschützenleiterwiederholungskurse kann pro Kurs maximal ein Taggeld abgerechnet werden.
 - 1\.7 Die Gruppe Verteidigung kann ESO mit Schiesskreisen, in denen zwei Landessprachen gesprochen werden, jährlich zusätzlich die Ausrichtung von höchstens einem Taggeld für den Beizug einer externen Übersetzung bewilligen.
 - 1\.8 Bei mangelhafter Erledigung administrativer Arbeiten oder der Missachtung von Fristen können die Taggelder nach Ziffer 1.5 gekürzt oder gestrichen werden (Art. 53 Schiessverordnung vom 5. Dezember 2003).
+- 1\.9 Für die Einsitznahme in Fachgremien nach Artikel 5 Absatz 1 können die ESO maximal 10 Halbtage pro Jahr geltend machen
+- 1\.10 Bei Besprechungen mit Schiessvereinen oder Begehungen von Schiessanlagen können die ESO für die administrative Arbeit pro Fall maximal ein halbes Taggeld geltend machen.
+- 1\.11 Für einen besonderen Instruktionsrapport nach Abschluss der Schiessübungen gemäss Artikel 23 Absatz 3 können die Mitglieder der kantonalen Schiesskommission pro Jahr maximal ein halbes Taggeld geltend machen.
 
 ### 2 Vergütung für Standblattkontrolle
 
@@ -468,14 +485,14 @@ Anhang 2*[^t-3]*
 
 - 3\.1
 
-  Die Entschädigung von Mehrauslagen für Mahlzeiten, die ausserhalb des Arbeits- oder Wohnorts eingenommen werden müssen, wird in Form einer Pauschalentschädigung ausgerichtet und beträgt:
+  Die Entschädigung für Mahlzeiten, die ausserhalb des Arbeits- oder Wohnorts eingenommen werden müssen, wird in Form einer Pauschalentschädigung ausgerichtet und beträgt:
 
   - a. für das Frühstück: 14 Franken bei Abreise vor 06.30 Uhr;
   - b. für das Mittagessen: 27.50 Franken;
   - c. für das Abendessen: 27.50 Franken.
 
-- Beschränkt sich die dienstliche Beanspruchung der ESO, der Präsidentinnen, Präsidenten und Mitglieder der Schiesskommissionen auf einen Vormittag (bis 12.00 Uhr), einen Nachmittag (bis 18.00 Uhr) oder einen Abend, so besteht kein Anspruch auf ein Mittag- oder ein Abendessen. Findet eine Überschneidung von zwei Tageszeiten mit einer dienstlichen Beanspruchung (inkl. Reisezeit) von über 6 Stunden statt, so kann ein Mittag- oder Abendessen verrechnet werden.
-- 3\.2 Bei dienstlich bedingten Übernachtungen werden die effektiven ortsüblichen Kosten, höchstens aber 150 Franken (inkl. Frühstück), gegen Quittung vergütet. Als Richtnorm gelten Mittelklassehotels. Übernachtungen in einer Privatunterkunft werden zu höchstens 50 Franken (inkl. Frühstück) pro Nacht vergütet.
+- Beschränkt sich die dienstliche Beanspruchung der ESO, der Präsidentinnen, Präsidenten und Mitglieder der Schiesskommissionen auf 5 Stunden (inkl. Reisezeit), so besteht kein Anspruch auf ein Mittag- oder ein Abendessen. Überschreitet die dienstliche Beanspruchung 5 Stunden (inkl. Reisezeit), so kann ein Mittag- oder Abendessen verrechnet werden.
+- 3\.2 Bei dienstlich bedingten Übernachtungen werden die effektiven ortsüblichen Kosten, höchstens aber 180 Franken (inkl. Frühstück), gegen Quittung vergütet. Übernachtungen in einer Privatunterkunft werden zu höchstens 50 Franken (inkl. Frühstück) pro Nacht vergütet.
 - 3\.3
 
   Für Dienstreisen sind grundsätzlich die öffentlichen Verkehrsmittel zu benützen. Es werden die Kosten für einen Fahrausweis der 1. Klasse vergütet. Werden erheblich Kosten oder Zeit gespart, so kann für die Dienstreise ein privates Motorfahrzeug benutzt werden. Die Entschädigung richtet sich in diesem Fall nach Artikel 46 der Verordnung des EFD vom 6. Dezember 2001[^annex2-lvlu1-lvl3-1] zur Bundespersonalverordnung und beträgt für die jeweils schnellste Strecke zwischen Ausgangs- und Einsatzort:
@@ -485,11 +502,10 @@ Anhang 2*[^t-3]*
 
 [^annex2-lvlu1-lvl3-1]: [SR 172.220.111.31](https://fedlex.data.admin.ch/eli/cc/2001/485)
 
-### 4 Entschädigung für Sekretariatsarbeiten und Hilfe bei der Instruktion aus den Schiessvereinen
+### 4 Entschädigung für Funktionärinnen und Funktionäre
 
-- 4\.1 Sekretärinnen und Sekretäre sowie Instruktionsgehilfinnen und -gehilfen aus Schiessvereinen, die anstelle von ordentlichen Mitgliedern der kantonalen Schiesskommissionen beigezogen werden, erhalten bei einer täglichen Beanspruchung (inkl. Reisezeit) von mindestens 6 Stunden eine Entschädigung in der Höhe des Taggelds eines Mitglieds einer kantonalen Schiesskommission. Eine Beanspruchung (inkl. Reisezeit) von weniger als 6 Stunden gibt nur Anspruch auf ein halbes Taggeld.
+- 4\.1 Funktionärinnen und Funktionäre, die anstelle von ordentlichen Mitgliedern der kantonalen Schiesskommissionen beigezogen werden, erhalten bei einer täglichen Beanspruchung von mindestens 5 Stunden (inkl. Reisezeit) eine Entschädigung in der Höhe des Taggelds eines Mitglieds einer kantonalen Schiesskommission. Eine Beanspruchung von weniger als 5 Stunden (inkl. Reisezeit) gibt nur Anspruch auf ein halbes Taggeld.
 - 4\.2 Weitere Entschädigungen sind nach den Bestimmungen und Ansätzen für Mitglieder der kantonalen Schiesskommission auszurichten.
-- 4\.3 Für Sekretariatsarbeiten wird auch bei mehrtägigen Kursen höchstens ein Taggeld ausgerichtet.
 
 ### 5 Im Militär bzw. Bundesdienst stehende Funktionärinnen und Funktionäre
 
