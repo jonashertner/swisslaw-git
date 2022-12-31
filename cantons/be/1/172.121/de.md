@@ -3,20 +3,20 @@ canton: BE
 number: "172.121"
 title: Beschluss des Regierungsrates betreffend die amtliche Schreibweise der Gemeindenamen
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 1956-02-07
 in_force: 1956-02-07
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/172.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2417/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2761/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss des Regierungsrates betreffend die amtliche Schreibweise der Gemeindenamen
 
-vom 07.02.1956 (Stand 01.01.2022)
+vom 07.02.1956 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -56,7 +56,7 @@ beschliesst:
 - f Amtsbezirk Burgdorf: Aefligen, Alchenstorf, Bäriswil, Burgdorf, Ersigen, Hasle bei Burgdorf, Heimiswil, Hellsau, Hindelbank, Höchstetten, Kernenried, Kirchberg (BE), Koppigen, Krauchthal, Lyssach, Oberburg, Rüdtligen-Alchenflüh, Rumendingen, Rüti bei Lyssach, Willadingen, Wynigen.
 - g Amtsbezirk Courtelary: Corgémont f., Cormoret f., Cortébert f., Courtelary f., La Ferrière f., Mont-Tramelan f., Orvin f., Péry-La Heutte f., Renan (BE) f., Romont (BE) f., Saint-Imier f., Sauge f., Sonceboz-Sombeval f., Sonvilier f., Tramelan f., Villeret f.
 - h Amtsbezirk Erlach: Brüttelen, Erlach, Finsterhennen, Gals, Gampelen, Ins, Lüscherz, Müntschemier, Siselen [Siselen (BE)], Treiten, Tschugg, Vinelz.
-- i Amtsbezirk Fraubrunnen: Bätterkinden, Deisswil bei Münchenbuchsee, Diemerswil, Fraubrunnen, Jegenstorf, Iffwil, Mattstetten, Moosseedorf, Münchenbuchsee, Urtenen-Schönbühl, Utzenstorf , Wiggiswil, Wiler bei Utzenstorf, Zielebach, ZuzwiI (BE).
+- i Amtsbezirk Fraubrunnen: Bätterkinden, Deisswil bei Münchenbuchsee, Fraubrunnen, Jegenstorf, Iffwil, Mattstetten, Moosseedorf, Münchenbuchsee, Urtenen-Schönbühl, Utzenstorf , Wiggiswil, Wiler bei Utzenstorf, Zielebach, ZuzwiI (BE).
 - k Amtsbezirk Frutigen: Adelboden, Aeschi bei Spiez, Frutigen, Kandergrund, Kandersteg, Krattigen, Reichenbach im Kandertal.
 - l Amtsbezirk Interlaken: Beatenberg, Bönigen [Bönigen bei Interlaken], Brienz (BE), Brienzwiler, Därligen, Grindelwald, Gsteigwiler, Gündlischwand, Habkern, Hofstetten bei Brienz, Interlaken, Iseltwald, Lauterbrunnen, Leissigen, Lütschental, Matten bei Interlaken, Niederried bei Interlaken, Oberried am Brienzersee, Ringgenberg (BE), Saxeten, Schwanden bei Brienz, Unterseen, Wilderswil.
 - m Amtsbezirk Konolfingen: Allmendingen, Arni (BE) [Arni bei Biglen], Biglen, Bowil, Brenzikofen, Freimettigen, Grosshöchstetten, Häutligen, Herbligen, Kiesen, Konolfingen, Landiswil, Linden [Linden bei Oberdiessbach], Mirchel, Münsingen, Niederhünigen, Oberdiessbach, Oberthal, Oberhünigen, Oppligen, Rubigen, Walkringen, Wichtrach, Worb, Zäziwil.
