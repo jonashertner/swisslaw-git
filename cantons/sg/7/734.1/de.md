@@ -4,13 +4,12 @@ number: "734.1"
 title: Wasserbaugesetz
 short: WBG
 language: de
-version: 2022-10-01
-valid_until: 2022-12-31
-version_adopted: 2022-08-09
+version: 2023-01-01
+version_adopted: 2023-01-24
 adopted: 2009-05-17
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/734.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3397/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3397/pdf_file"
 
 (WBG)
 
-vom 17.05.2009 (Stand 01.10.2022)
+vom 17.05.2009 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -720,11 +719,17 @@ als Gesetz:[^ingress-7]
 
 <sup>1</sup> Ist ein Notentlastungsraum ausgeschieden, besteht
 
-- a) der Versicherungsschutz nach den Bestimmungen des Gesetzes über die Gebäudeversicherung[^59-1], wenn die verhältnismässigen und zumutbaren Massnahmen getroffen worden sind;
-- b) ein Anspruch auf Entschädigung nach dem Gesetz über die Kantonshilfskasse für nichtversicherbare Schäden bei Elementarereignissen.[^59-2]
+- a) für Schäden an Gebäuden der Versicherungsschutz nach den Bestimmungen des Gesetzes über die Gebäudeversicherung[^59-1], wenn die verhältnismässigen und zumutbaren Massnahmen getroffen worden sind;
+- b) für übrige Schäden, soweit sie nicht durch Dritte gedeckt werden, ein Anspruch auf Entschädigung durch den Kanton bei Hochwasser eines kantonalen Gewässers und durch die politischen Gemeinden bei Hochwasser eines Gemeindegewässers insbesondere für:
+  - 1\. die Schadenbehebung;
+  - 2\. die Instandstellung und Rekultivierung der beanspruchten Flächen;
+  - 3\. aus dem Schadenfall resultierende Nutzungseinschränkungen.
+
+<sup>2</sup> Die Schätzungskommission nach dem Enteignungsgesetz vom 31. Mai 1984[^59-2] entscheidet über Entschädigungen nach Abs. 1 Bst. b dieser Bestimmung, wenn sich die Wasserbaupflichtigen mit dem Geschädigten nicht einigen können. Die Bestimmungen des Enteignungsgesetzes vom 31. Mai 1984[^59-3] werden sachgemäss angewendet.
 
 [^59-1]: sGS [873.1](https://www.gesetzessammlung.sg.ch/data/873.1/de).
-[^59-2]: sGS [383.1](https://www.gesetzessammlung.sg.ch/data/383.1/de).
+[^59-2]: sGS [735.1](https://www.gesetzessammlung.sg.ch/data/735.1/de).
+[^59-3]: sGS [735.1](https://www.gesetzessammlung.sg.ch/data/735.1/de).
 
 #### Art. 59a
 
