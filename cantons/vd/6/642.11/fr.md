@@ -4,7 +4,7 @@ number: "642.11"
 title: LOI du 04.07.2000 sur les impôts directs cantonaux (LI)
 short: LI
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004"
 ---
 
@@ -479,7 +479,9 @@ décrète
 
 <sup>7</sup> Si, lors de la vente de droits de participation à une société de capitaux ou une société coopérative qui est cotée dans une bourse suisse et qui les a émis, le remboursement des réserves issues d'apports de capital ne correspond pas au moins à la moitié de l'excédent de liquidation obtenu, la part de cet excédent de liquidation imposable est réduite d'un montant correspondant à la moitié de la différence entre cette part et le remboursement, mais au plus du montant des réserves qui sont imputables à ces droits de participation et qui sont disponibles dans la société.
 
-[^sectionSectionIV-1]: Modif. 12 du 12.12.2007: Modification Al. 1 e; entrée en vigueur au 01.01.2008 · Modif. 15 du 09.09.2008: Modification Al. 1 c; entrée en vigueur au 01.01.2009; Introduction Al. 1bis,3; entrée en vigueur au 01.01.2009 · Modif. 38 du 11.12.2019: Modification Al. 3; entrée en vigueur au 01.01.2020; Introduction Al. 4-7; entrée en vigueur au 01.01.2020 · Modif. 42 du 20.12.2022: Introduction Al. 8; entrée en vigueur au 01.01.2023; Introduction Art. 120, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 121, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 277l; entrée en vigueur au 01.01.2023
+<sup>8</sup> L'alinéa 3 ne s'applique aux apports et aux agios qui sont versés pendant la durée d'une marge de fluctuation du capital au sens des articles 653s ss du Code des obligations (CO) que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.
+
+[^sectionSectionIV-1]: Modif. 12 du 12.12.2007: Modification Al. 1 e; entrée en vigueur au 01.01.2008 · Modif. 15 du 09.09.2008: Modification Al. 1 c; entrée en vigueur au 01.01.2009; Introduction Al. 1bis,3; entrée en vigueur au 01.01.2009 · Modif. 38 du 11.12.2019: Modification Al. 3; entrée en vigueur au 01.01.2020; Introduction Al. 4-7; entrée en vigueur au 01.01.2020 · Modif. 42 du 20.12.2022: Introduction Al. 8; entrée en vigueur au 01.01.2023
 [^23-1]: Loi fédérale du 13.10.1965 sur l'impôt anticipé (RS 642.21)
 
 #### Art. 23a
@@ -652,14 +654,13 @@ décrète
 
 **Amortissements [^31a-1]**
 
-<sup>1</sup> Les amortissements des actifs, justifiés par l'usage commercial sont autorisés, à condition qu'ils soient comptabilisés ou, en cas de tenue d'une comptabilité simplifiée en vertu de l'article 957, alinéa 2 du code des obligations (CO)[^32-1], qu'ils apparaissent dans un plan spécial d'amortissements.
+<sup>1</sup> Les amortissements des actifs, justifiés par l'usage commercial sont autorisés, à condition qu'ils soient comptabilisés ou, en cas de tenue d'une comptabilité simplifiée en vertu de l'article 957, alinéa 2 CO, qu'ils apparaissent dans un plan spécial d'amortissements.
 
 <sup>2</sup> En général, les amortissements sont calculés sur la base de la valeur effective des différents éléments de fortune ou doivent être répartis en fonction de la durée probable d'utilisation de chacun de ces éléments.
 
 <sup>3</sup> Les amortissements opérés sur des actifs qui ont été réévalués afin de compenser des pertes ne sont admis que si les réévaluations étaient autorisées par le droit commercial et que les pertes pouvaient être déduites conformément à l'article 35, alinéa 1, au moment de l'amortissement.
 
-[^31a-1]: Modif. 31 du 29.09.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 42 du 20.12.2022: Introduction Art. 23, Al. 8; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 120, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 121, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 277l; entrée en vigueur au 01.01.2023
-[^32-1]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
+[^31a-1]: Modif. 31 du 29.09.2015: Modification Al. 1; entrée en vigueur au 01.01.2016 · Modif. 42 du 20.12.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 33
 
@@ -734,7 +735,7 @@ décrète
 - d. les primes, cotisations et montants légaux, statutaires ou réglementaires versés en vue de l'acquisition des droits aux prestations de l'assurance-vieillesse et survivants[^37-1] , de l'assurance-invalidité et dans le cadre d'institutions de la prévoyance professionnelle au sens de la législation fédérale sur la prévoyance professionnelle, vieillesse et survivants, dont les prestations sont imposables selon l'article 26, alinéa 1 ;
 - e. les primes, cotisations et montants versés en vue de l'acquisition de droits contractuels dans des formes reconnues de la prévoyance individuelle liée, dont les prestations sont imposables selon l'article 26, alinéa 1, dans les limites autorisées par la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP) ;
 - f. les primes et cotisations versées en vertu de la réglementation sur les allocations pour perte de gain[^37-2] , des dispositions sur l'assurance-chômage[^37-3] et l'assurance-accidents[^37-4] obligatoire ;
-- g. les versements, cotisations et primes d'assurances-vie, d'assurances-maladie et d'assurances-accidents qui ne tombent pas sous le coup de la lettre f, ainsi que les intérêts sur capitaux d'épargne du contribuable et des personnes à l'entretien desquelles il pourvoit, jusqu'à concurrence d'un montant total maximal de : - 4'800 francs par année pour le contribuable célibataire, veuf, divorcé ou imposé séparément selon l'article 10 ; - 9'600 francs par année pour les époux vivant en ménage commun. Les versements, cotisations et primes d'assurances-vie, d'assurances-maladie et ceux d'assurances-accidents, sous déduction des subsides aux primes de l'assurance-maladie obligatoire, ne sont déductibles à l'intérieur de la limite maximale que jusqu'à concurrence de : - 3'200 francs par année pour le contribuable célibataire, veuf, divorcé ou imposé séparément selon l'article 10 ; - 6'400 francs par année pour les époux vivant en ménage commun. La déduction est augmentée de 1'300 francs pour chaque enfant ou personne nécessiteuse pour lesquels le contribuable a droit à une part de 0,5 (art.43, al.2, let. d) ou à une déduction pour personne à charge (art.40). L'article 45 est réservé. Les intérêts de capitaux d'épargne ne sont déductibles à l'intérieur de la limite maximale que jusqu'à concurrence de : - 1'600 francs par année pour le contribuable célibataire, veuf, divorcé ou imposé séparément selon l'article 10 ; - 3'200 francs par année pour les époux vivant en ménage commun. La déduction est augmentée de 300 francs pour chaque enfant à charge du contribuable dont il assure l'entretien complet. Le Conseil d'Etat arrête les dispositions d'application du présent article ; les données des services sociaux peuvent être requises.
+- g. les versements, cotisations et primes d'assurances-vie, d'assurances-maladie et d'assurances-accidents qui ne tombent pas sous le coup de la lettre f, ainsi que les intérêts sur capitaux d'épargne du contribuable et des personnes à l'entretien desquelles il pourvoit, jusqu'à concurrence d'un montant total maximal de : - 6'400 francs par année pour le contribuable célibataire, veuf, divorcé ou imposé séparément selon l'article 10 ; - 12'800 francs par année pour les époux vivant en ménage commun. Les versements, cotisations et primes d'assurances-vie, d'assurances-maladie et ceux d'assurances-accidents, sous déduction des subsides aux primes de l'assurance-maladie obligatoire, ne sont déductibles à l'intérieur de la limite maximale que jusqu'à concurrence de : - 4'800 francs par année pour le contribuable célibataire, veuf, divorcé ou imposé séparément selon l'article 10 ; - 9'600 francs par année pour les époux vivant en ménage commun. La déduction est augmentée de 1'300 francs pour chaque enfant ou personne nécessiteuse pour lesquels le contribuable a droit à une part de 0,5 (art.43, al.2, let. d) ou à une déduction pour personne à charge (art.40). L'article 45 est réservé. Les intérêts de capitaux d'épargne ne sont déductibles à l'intérieur de la limite maximale que jusqu'à concurrence de : - 1'600 francs par année pour le contribuable célibataire, veuf, divorcé ou imposé séparément selon l'article 10 ; - 3'200 francs par année pour les époux vivant en ménage commun. La déduction est augmentée de 300 francs pour chaque enfant à charge du contribuable dont il assure l'entretien complet. Le Conseil d'Etat arrête les dispositions d'application du présent article ; les données des services sociaux peuvent être requises.
 - h. les frais provoqués par la maladie et les accidents du contribuable ou d'une personne à l'entretien de laquelle il subvient, lorsque le contribuable supporte lui-même ces frais et que ceux-ci excèdent 5% du revenu net diminué des déductions prévues aux articles 37, alinéa 1, lettre k, 39, 40 et 42 ;
 - hbis. les frais liés au handicap du contribuable ou d'une personne à l'entretien de laquelle il subvient lorsque le contribuable ou cette personne est handicapée au sens de la Loi fédérale du 13 décembre 2002 sur l'égalité pour les handicapés et que le contribuable supporte lui-même les frais ;
 - i. les dons en espèce et sous forme d'autres valeurs patrimoniales à des personnes morales qui ont leur siège en Suisse et sont exonérées de l'impôt en raison de leur but de service public ou de pure utilité publique (art.90, al.1, let. g), jusqu'à concurrence de 20% du revenu net diminué des déductions prévues aux articles 37, alinéa 1, lettre k, 39, 40 et 42 à condition que ces dons s'élèvent au moins à 100 francs par année fiscale. Les dons en faveur de la Confédération, des cantons, des communes et de leurs établissements (art.90, al.1, let. a à c) sont déductibles dans la même mesure ;
@@ -751,7 +752,7 @@ décrète
 
 <sup>3</sup> Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt selon l'article 28, lettres jbis à k, 5% à titre de mise, mais au plus 5000 francs. Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casino visés à l'article 28, lettre jbis, les mises prélevées du compte en ligne du joueur au cours de l'année fiscale, mais au plus 25 000 francs.
 
-[^sectionSectionV-1]: Modif. 4 du 21.12.2004: Modification Al. 1 h; entrée en vigueur au 01.01.2005; Introduction Al. 1 hbis; entrée en vigueur au 01.01.2005 · Modif. 8 du 14.12.2005: Modification Al. 1, i; entrée en vigueur au 01.01.2006 · Modif. 15 du 09.09.2008: Modification Al. 1 a; entrée en vigueur au 01.01.2009 · Modif. 21 du 14.12.2010: Modification Al. 1 h,i; entrée en vigueur au 01.01.2011; Introduction Al. 1 j,k; entrée en vigueur au 01.01.2011 · Modif. 29 du 08.10.2013: Introduction Al. 3; entrée en vigueur au 01.01.2014 · Modif. 30 du 07.10.2014: Introduction Al. 1, l; entrée en vigueur au 01.01.2016 · Modif. 33 du 14.12.2016: Modification Al. 1, l; entrée en vigueur au 01.01.2017; Modification Al. 1, l, 1-2; entrée en vigueur au 01.01.2017 · Modif. 36 du 12.12.2018: Modification Al. 1, k; entrée en vigueur au 01.01.2020; Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 37 du 05.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Modification Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 41 du 14.12.2021: Modification Al. 1, k; entrée en vigueur au 01.01.2022 · Modif. 42 du 20.12.2022: Introduction Art. 23, Al. 8; entrée en vigueur au 01.01.2023; Modification Al. 1, g; entrée en vigueur au 01.01.2023; Modification Al. 1, k; entrée en vigueur au 01.01.2024; Introduction Art. 120, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 121, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 277l; entrée en vigueur au 01.01.2023 · Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 1, b; entrée en vigueur au 01.01.2025
+[^sectionSectionV-1]: Modif. 4 du 21.12.2004: Modification Al. 1 h; entrée en vigueur au 01.01.2005; Introduction Al. 1 hbis; entrée en vigueur au 01.01.2005 · Modif. 8 du 14.12.2005: Modification Al. 1, i; entrée en vigueur au 01.01.2006 · Modif. 15 du 09.09.2008: Modification Al. 1 a; entrée en vigueur au 01.01.2009 · Modif. 21 du 14.12.2010: Modification Al. 1 h,i; entrée en vigueur au 01.01.2011; Introduction Al. 1 j,k; entrée en vigueur au 01.01.2011 · Modif. 29 du 08.10.2013: Introduction Al. 3; entrée en vigueur au 01.01.2014 · Modif. 30 du 07.10.2014: Introduction Al. 1, l; entrée en vigueur au 01.01.2016 · Modif. 33 du 14.12.2016: Modification Al. 1, l; entrée en vigueur au 01.01.2017; Modification Al. 1, l, 1-2; entrée en vigueur au 01.01.2017 · Modif. 36 du 12.12.2018: Modification Al. 1, k; entrée en vigueur au 01.01.2020; Modification Al. 3; entrée en vigueur au 01.01.2019 · Modif. 37 du 05.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Modification Al. 1, g; entrée en vigueur au 01.01.2020 · Modif. 41 du 14.12.2021: Modification Al. 1, k; entrée en vigueur au 01.01.2022 · Modif. 42 du 20.12.2022: Modification Al. 1, g; entrée en vigueur au 01.01.2023 · Modif. 42 du 20.12.2022: Modification Al. 1, k; entrée en vigueur au 01.01.2024 · Modif. 45 du 11.12.2024: Introduction Art. 26, Al. 3, a-c; entrée en vigueur au 01.01.2025; Modification Al. 1, b; entrée en vigueur au 01.01.2025
 [^37-1]: Loi fédérale du 25.06.1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (RS 831.40)
 [^37-2]: Règlement du 24.11.2004 sur les allocations pour perte de gain (RS 834.11)
 [^37-3]: Loi fédérale du 25.06.1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (RS 837.0)
@@ -989,11 +990,11 @@ Pour chaque tranche de revenu net de 2'000 francs dépassant 116'000 francs et j
 
 **Objets mobiliers [^53-2]**
 
-<sup>1</sup> Les objets mobiliers imposables sont estimés, en règle générale, au 50% de la valeur totale de l'assurance incendie.
+<sup>1</sup> Les objets mobiliers imposables sont estimés, en règle générale, au 30 % de la valeur totale de l'assurance-incendie.
 
 <sup>2</sup> De ce montant réduit, une déduction de 50'000 francs est accordée pour les contribuables imposés séparément, au titre de valeur de mobilier de ménage et des objets personnels d'usage courant; cette déduction est doublée pour les époux vivant en ménage commun.
 
-[^53-2]: Modif. 42 du 20.12.2022: Introduction Art. 23, Al. 8; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 120, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 121, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 277l; entrée en vigueur au 01.01.2023
+[^53-2]: Modif. 42 du 20.12.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 55
 
@@ -2028,9 +2029,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>1</sup> L'impôt sur le bénéfice net est calculé sur la base du bénéfice net réalisé pendant la période fiscale.
 
+<sup>1bis</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le bénéfice net imposable doit être converti en francs. Le taux de change moyen (vente) de la période fiscale est déterminant.
+
 <sup>2</sup> Lors de la liquidation d'une personne morale ou du transfert à l'étranger de son siège, de son administration, d'une entreprise ou d'un établissement stable, les réserves latentes constituées au moyen de bénéfices non soumis à l'impôt sont imposées avec le bénéfice net du dernier exercice.
 
-[^119-1]: Modif. 42 du 20.12.2022: Introduction Art. 23, Al. 8; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 121, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 277l; entrée en vigueur au 01.01.2023
+[^119-1]: Modif. 42 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
 
 #### Art. 121
 
@@ -2038,9 +2041,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>1</sup> Le capital propre imposable est fixé sur la base de son état à la fin de la période fiscale.
 
+<sup>1bis</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le capital propre imposable doit être converti en francs suisses. Le taux de change (vente) à la fin de la période fiscale est déterminant.
+
 <sup>2</sup> Si la durée de la période fiscale est inférieure ou supérieure à douze mois, l'impôt sur le capital fait l'objet d'une réduction ou d'une augmentation proportionnelle au rapport existant entre la période fiscale et l'année.
 
-[^120-1]: Modif. 42 du 20.12.2022: Introduction Art. 23, Al. 8; entrée en vigueur au 01.01.2023; Introduction Art. 120, Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Al. 1bis; entrée en vigueur au 01.01.2023; Introduction Art. 277l; entrée en vigueur au 01.01.2023
+[^120-1]: Modif. 42 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
 
 #### Art. 122
 
@@ -4222,13 +4227,21 @@ Le Conseil d'Etat arrête les dispositions d'application du présent article ; l
 
 [^277i-1]: Modif. 36 du 12.12.2018: Introduction Art. 277k; entrée en vigueur au 01.07.2019 · Modif. 43 du 03.10.2023: Introduction Art. 105, Al. 3; entrée en vigueur au 01.01.2025; Introduction Art. 111, Al. 3; entrée en vigueur au 01.01.2025; Modification Al. 1-2; entrée en vigueur au 01.07.2023; Introduction Al. 3-4; entrée en vigueur au 01.07.2023
 
+#### Art. 277l
+
+**Déduction pour frais de garde [^277k-1]**
+
+<sup>1</sup> Pour la période fiscale 2023, l'article 37, alinéa 1, lettre k a la teneur suivante. Sont déduits du revenu : un montant de 13'000 francs au maximum pour chaque enfant dont la garde est assurée par un tiers, si l'enfant a moins de 14 ans et vit dans le même ménage que le contribuable assurant son entretien et si les frais de garde, documentés, ont un lien de causalité direct avec l'activité lucrative, la formation ou l'incapacité de gain du contribuable.
+
+[^277k-1]: Modif. 42 du 20.12.2022: Introduction Art. 277l; entrée en vigueur au 01.01.2023
+
 #### Art. 278
 
-**Abrogation de loi [^277k-1]**
+**Abrogation de loi [^277l-1]**
 
 <sup>1</sup> La loi du 26 novembre 1956 sur les impôts directs cantonaux est abrogée.
 
-[^277k-1]: Modif. 1 du 04.12.2001: Introduction Art. 278; entrée en vigueur au 01.01.2003
+[^277l-1]: Modif. 1 du 04.12.2001: Introduction Art. 278; entrée en vigueur au 01.01.2003
 
 #### Art. 279
 
