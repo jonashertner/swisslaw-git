@@ -4,11 +4,11 @@ title: "Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassen
 short: BVV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/de"
 
 (BVV 2)
 
-vom 18. April 1984 (Stand am 1. Januar 2022)
+vom 18. April 1984 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-## 1. Kapitel:**** Grundsätze der beruflichen Vorsorge
+## 1. Kapitel: Grundsätze der beruflichen Vorsorge
 
 [^chap1-1]
 
@@ -176,7 +176,7 @@ Frühere Altersrücktritte als nach Absatz 1 sind zulässig:
 
 [^1i-1]: Siehe auch Bst. d SchlB Änd. 10.6.2005 vor dem Anhang.
 
-## 1*a*. Kapitel:**** Obligatorische Versicherung der Arbeitnehmer
+## 1*a*. Kapitel: Obligatorische Versicherung der Arbeitnehmer
 
 [^chap1a-1]
 
@@ -265,12 +265,12 @@ Die Vorsorgeeinrichtung kann in ihrem Reglement vom massgebenden Lohn der AHV ab
 
 ### (Art. 8 BVG)
 
-<sup>1</sup> Für Personen, die gemäss Artikel 2 BVG obligatorisch zu versichern sind und die bei einem Arbeitgeber einen massgebenden AHV-Lohn von mehr als 21 510 Franken beziehen, muss ein Betrag in der Höhe von mindestens 3585 Franken versichert werden.[^3a-2]
+<sup>1</sup> Für Personen, die gemäss Artikel 2 BVG obligatorisch zu versichern sind und die bei einem Arbeitgeber einen massgebenden AHV-Lohn von mehr als 22 050 Franken beziehen, muss ein Betrag in der Höhe von mindestens 3675 Franken versichert werden.[^3a-2]
 
 <sup>2</sup> Der versicherte Mindestlohn nach Absatz 1 gilt auch für die obligatorische Versicherung von Personen, bei denen die Grenzbeträge nach Artikel 4 gekürzt werden.
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^3a-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 4
 
@@ -287,17 +287,19 @@ Für Personen, die im Sinne des Bundesgesetzes vom 19. Juni 1959[^4-2] über die
 
 **Anpassung an die AHV**[^5-1]
 
+### (Art. 9 BVG)
+
 Die Grenzbeträge nach den Artikeln 2, 7, 8 und 46 BVG werden wie folgt erhöht:
 
 <table>
-<tr><td>Bisherige Beträge Franken</td><td>Neue Beträge Franken</td></tr>
-<tr><td>21 330</td><td>21 510</td></tr>
-<tr><td>24 885</td><td>25 095</td></tr>
-<tr><td>85 320</td><td>86 040</td></tr>
-<tr><td>3 555</td><td>3 585</td></tr>
+<tr><th>Bisherige Beträge Franken</th><th>Neue Beträge Franken</th></tr>
+<tr><td>21 510</td><td>22 050</td></tr>
+<tr><td>25 095</td><td>25 725</td></tr>
+<tr><td>86 040</td><td>88 200</td></tr>
+<tr><td>3 585</td><td>3 675</td></tr>
 </table>
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 6
 
@@ -519,7 +521,7 @@ Die Vorsorge- oder Freizügigkeitseinrichtung muss festhalten, wie hoch der Ante
 [^16-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^16-2]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
-### 3*a*. Abschnitt:**** Auflösung von Verträgen
+### 3*a*. Abschnitt: Auflösung von Verträgen
 
 [^chap1a-sec3a-1]
 
@@ -632,7 +634,7 @@ Unter die von der versicherten Person einbezahlten Beiträge nach Artikel 20*a* 
 
 [^2123-1]: Aufgehoben durch Ziff. I der V vom 18. Aug. 2004, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### 6. Abschnitt: Koordination mit anderen Leistungen und Einkünften****
+### 6. Abschnitt: Koordination mit anderen Leistungen und Einkünften
 
 [^chap1a-sec6-1]
 
@@ -773,7 +775,7 @@ Ist die gekürzte Invalidenrente tiefer als der dem berechtigten Ehegatten zuges
 
 [^26b-1]: Ursprünglich: Art. 25*b*. Eingefügt durch Ziff. I der V vom 10. Juni 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-### 7. Abschnitt:**** Rückgriff
+### 7. Abschnitt: Rückgriff
 
 [^chap1a-sec7-1]
 
@@ -869,7 +871,7 @@ Gegenüber dem nicht haftpflichtversicherten Haftpflichtigen einigen sich mehrer
 - c. durch die Krankenversicherung;
 - d. durch die AHV/IV.
 
-### 8. Abschnitt:**** Verfahren bei Teil- oder Gesamtliquidation
+### 8. Abschnitt: Verfahren bei Teil- oder Gesamtliquidation
 
 [^chap1a-sec8-1]
 
@@ -916,7 +918,7 @@ Gegenüber dem nicht haftpflichtversicherten Haftpflichtigen einigen sich mehrer
 [^27h-1]: Fassung gemäss Ziff. I der V vom 1. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 [^27h-2]: Fassung gemäss Ziff. I der V vom 1. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
-### 9. Abschnitt:**** Aufbewahrung von Vorsorgeunterlagen
+### 9. Abschnitt: Aufbewahrung von Vorsorgeunterlagen
 
 [^chap1a-sec9-1]
 
@@ -1031,7 +1033,7 @@ Die Vorsorgeeinrichtung übergibt dem Versicherten am Ende des Kalenderjahres ei
 
 ## 3. Kapitel: Organisation
 
-### 1. Abschnitt: Oberstes Organ****
+### 1. Abschnitt: Oberstes Organ
 
 [^chap3-sec1-1]
 
@@ -1043,7 +1045,7 @@ Die Vorsorgeeinrichtung übergibt dem Versicherten am Ende des Kalenderjahres ei
 
 Das oberste Organ einer Vorsorgeeinrichtung muss aus mindestens vier Mitgliedern bestehen. In begründeten Einzelfällen, insbesondere während einer Liquidation, kann die Aufsichtsbehörde ausnahmsweise weniger Mitglieder bewilligen.
 
-### 2. Abschnitt: Revisionsstelle****
+### 2. Abschnitt: Revisionsstelle
 
 [^chap3-sec2-1]
 
@@ -1133,7 +1135,7 @@ Die Revisionsstelle muss die Aufsichtsbehörde unverzüglich benachrichtigen, we
 [^36-1]: Fassung gemäss Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^36-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-### 3. Abschnitt: Experte für berufliche Vorsorge****
+### 3. Abschnitt: Experte für berufliche Vorsorge
 
 [^chap3-sec3-1]
 
@@ -1326,7 +1328,7 @@ Sammel- und Gemeinschaftseinrichtungen, die dem FZG unterstellt sind, dürfen be
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-### 2. Abschnitt: Rechnungswesen und Rechnungslegung****
+### 2. Abschnitt: Rechnungswesen und Rechnungslegung
 
 [^chap4-sec2-1]
 
@@ -1394,7 +1396,7 @@ Als Verwaltungskosten sind in der Betriebsrechnung auszuweisen:
 [^48a-4]: Eingefügt durch Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^48a-5]: Eingefügt durch Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-### 2*a*. Abschnitt:**** Transparenz
+### 2*a*. Abschnitt: Transparenz
 
 [^chap4-sec2a-1]
 
@@ -1451,7 +1453,7 @@ Die Vorsorgeeinrichtung legt in einem Reglement Regeln zur Bildung von Rückstel
 
 [^48e-1]: Eingefügt durch Ziff. I der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### 2*b*. Abschnitt:**** Integrität und Loyalität der Verantwortlichen
+### 2*b*. Abschnitt: Integrität und Loyalität der Verantwortlichen
 
 [^chap4-sec2b-1]
 
@@ -1934,7 +1936,7 @@ Die Bestimmungen dieses Abschnitts gelten sinngemäss auch für:
 
 [^60-1]: Aufgehoben durch Ziff. I der V vom 1. April 2009, mit Wirkung seit 1. Juni 2009 [AS 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
-## 5. Kapitel:**** Einkauf, versicherbarer Lohn und versicherbares Einkommen
+## 5. Kapitel: Einkauf, versicherbarer Lohn und versicherbares Einkommen
 
 [^chap5-1]
 
@@ -1992,7 +1994,7 @@ Lässt die versicherte Person im Ausland erworbene Vorsorgeansprüche oder ‑gu
 
 In den Fällen, in denen eine Rückzahlung des Vorbezugs für die Wohneigentumsförderung nach Artikel 30*d* Absatz 3 Buchstabe a BVG nicht mehr zulässig ist, darf das Reglement der Vorsorgeeinrichtung freiwillige Einkäufe zulassen, soweit sie zusammen mit den Vorbezügen die reglementarisch maximal zulässigen Vorsorgeansprüche nicht überschreiten.
 
-## 6. Kapitel:**** Besondere Bestimmungen
+## 6. Kapitel: Besondere Bestimmungen
 
 [^chap6-1]
 
@@ -2020,13 +2022,13 @@ Das BSV ist berechtigt, gegen Entscheide der kantonalen Gerichte und des Bundesv
 
 [^60ebis-1]: Eingefügt durch Ziff. I der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-## 7. Kapitel:**** Schlussbestimmungen
+## 7. Kapitel: Schlussbestimmungen
 
 [^chap7-1]
 
 [^chap7-1]: Ursprünglich 5. Kap. vor Art. 61.
 
-### 1. Abschnitt: Aufhebung und Änderung bisherigen Rechts****
+### 1. Abschnitt: Aufhebung und Änderung bisherigen Rechts
 
 [^chap7-sec1-1]
 
@@ -2062,7 +2064,7 @@ Die Verordnung vom 31. Oktober 1947[^61-1] über die Alters- und Hinterlassenenv
 
 [^62-1]: Aufgehoben durch Ziff. IV 50 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-### 1*a*. Abschnitt:**** Ausführungsbestimmungen zu Buchstabe e der Übergangsbestimmungen der 1. BVG-Revision
+### 1*a*. Abschnitt: Ausführungsbestimmungen zu Buchstabe e der Übergangsbestimmungen der 1. BVG-Revision
 
 [^chap7-sec1a-1]
 
@@ -2080,7 +2082,7 @@ Dieses Rentenalter ist ebenfalls massgebend für:
 - b. die Berechnung der Altersgutschriften in der Höhe von 18 Prozent (Artikel 16 BVG und Buchstabe c der Übergangsbestimmungen zur Änderung vom 3. Okt. 2003 der 1. BVG-Revision);
 - c. den anwendbaren Umwandlungssatz bei der Berechnung der Invalidenrente nach Artikel 24 Absatz 2 BVG.
 
-### 1*b*. Abschnitt:**** Übergangsbestimmungen der Ausführungsbestimmungen von Buchstabe e der Übergangsbestimmungen der 1. BVG-Revision
+### 1*b*. Abschnitt: Übergangsbestimmungen der Ausführungsbestimmungen von Buchstabe e der Übergangsbestimmungen der 1. BVG-Revision
 
 [^chap7-sec1b-1]
 
@@ -2122,13 +2124,13 @@ Für die nachfolgend aufgeführten Jahrgänge und deren ordentliches Rentenalter
 
 Diese Verordnung tritt am 1. Januar 1985 in Kraft.
 
-## Schlussbestimmung der Änderung vom 23. Oktober 2002****
+## Schlussbestimmung der Änderung vom 23. Oktober 2002
 
 [^u1-1]
 
 [^u1-1]: [AS 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603). Aufgehoben durch Ziff. IV 50 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 24. März 2004****
+## Schlussbestimmungen der Änderung vom 24. März 2004
 
 [^u2-1]
 
@@ -2138,7 +2140,7 @@ Diese Verordnung tritt am 1. Januar 1985 in Kraft.
 
 <sup>2</sup> Für beim Inkrafttreten dieser Änderung bestehende Anlagen und Beteiligungen beim Arbeitgeber sowie für Grundpfänder nach Artikel 58 Absatz 2 Buchstabe b gelten die neuen Begrenzungen ab 1. Januar 2006.
 
-## Schlussbestimmungen der Änderung vom 18. August 2004****
+## Schlussbestimmungen der Änderung vom 18. August 2004
 
 [^u3-1]
 
@@ -2185,7 +2187,7 @@ Entsteht der Anspruch auf eine Hinterlassenen- oder Invalidenleistung nach dem 3
 
 Die Anpassung der Reglemente und Verträge muss spätestens drei Jahre nach Inkrafttreten dieser Verordnungsänderung abgeschlossen sein.
 
-## Schlussbestimmungen der Änderung vom 10. Juni 2005****
+## Schlussbestimmungen der Änderung vom 10. Juni 2005
 
 [^u4-1]
 
@@ -2207,7 +2209,7 @@ Guthaben in Vorsorgeeinrichtungen, welche bei Inkrafttreten dieser Änderung ber
 
 Vorsorgeeinrichtungen können bisherige reglementarische Bestimmungen, die ein tieferes Rentenalter als 58 Jahre vorsahen, während fünf Jahren ab Inkrafttreten dieser Änderung für jene Versicherten beibehalten, die am 31. Dezember 2005 bei ihnen versichert waren.
 
-## Schlussbestimmung der Änderung vom 19. September 2008****
+## Schlussbestimmung der Änderung vom 19. September 2008
 
 [^u5-1]
 
@@ -2215,7 +2217,7 @@ Vorsorgeeinrichtungen können bisherige reglementarische Bestimmungen, die ein t
 
 Die Vorsorgeeinrichtungen und die Einrichtungen nach Artikel 59 müssen bis zum 1. Januar 2011 die Anlage des Vermögens an die Bestimmungen dieser Änderung anpassen.
 
-## Übergangsbestimmung zur Änderung vom 10. und 22. Juni 2011****
+## Übergangsbestimmung zur Änderung vom 10. und 22. Juni 2011
 
 [^u6-1]
 
@@ -2223,7 +2225,7 @@ Die Vorsorgeeinrichtungen und die Einrichtungen nach Artikel 59 müssen bis zum 
 
 Die Vorsorgeeinrichtungen müssen ihre Reglemente und Verträge sowie ihre Organisation bis zum 31. Dezember 2012 den Artikeln 48*f* Absätze 1 und 2, 48*g*–48*l* und 49*a* Absatz 2 in der Fassung der Änderung vom 10. und 22. Juni 2011 anpassen. Die erstmalige Prüfung nach den neuen Bestimmungen erfolgt für das Rechnungsjahr 2012.
 
-## Übergangsbestimmungen zur Änderung vom 6. Juni 2014****
+## Übergangsbestimmungen zur Änderung vom 6. Juni 2014
 
 [^u7-1]
 
@@ -2233,7 +2235,7 @@ Die Vorsorgeeinrichtungen müssen ihre Reglemente und Verträge sowie ihre Organ
 
 <sup>2</sup> Die erstmalige Prüfung nach den neuen Bestimmungen erfolgt für das Rechnungsjahr 2015.
 
-## Übergangsbestimmung zur Änderung vom 10. Juni 2016****
+## Übergangsbestimmung zur Änderung vom 10. Juni 2016
 
 [^u8-1]
 
@@ -2241,7 +2243,7 @@ Die Vorsorgeeinrichtungen müssen ihre Reglemente und Verträge sowie ihre Organ
 
 Geschiedene Ehegatten sowie ehemalige Partner und Partnerinnen einer eingetragenen Partnerschaft, denen vor Inkrafttreten der Änderung vom 10. Juni 2016 eine Rente oder eine Kapitalabfindung für eine lebenslängliche Rente zugesprochen wurde, haben Anspruch auf Hinterlassenenleistungen nach bisherigem Recht.
 
-## Übergangsbestimmung zur Änderung vom 30. August 2017****
+## Übergangsbestimmung zur Änderung vom 30. August 2017
 
 [^u9-1]
 
@@ -2251,7 +2253,7 @@ Geschiedene Ehegatten sowie ehemalige Partner und Partnerinnen einer eingetragen
 
 <sup>2</sup> Solange diese Vorsorgeeinrichtungen ihren Versicherten keine Strategie mit risikoarmen Anlagen (Art. 53*a*) anbieten, dürfen sie bei einem Austritt einer versicherten Person aus der Vorsorgeeinrichtung nicht von den Artikeln 15 und 17 FZG abweichen.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 44 Abs. 1)
 
@@ -2261,7 +2263,7 @@ Anhang*[^t-1]*
 
 <sup>1</sup> Der Deckungsgrad der Vorsorgeeinrichtung wird wie folgt ermittelt:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/de/xml/image/image1.png)
 
 Wobei für Vv gilt: Die gesamten Aktiven per Bilanzstichtag zu Marktwerten bilanziert, vermindert um Verbindlichkeiten, passive Rechnungsabgrenzung und Arbeitgeberbeitragsreserven, soweit keine Vereinbarung über einen Verwendungsverzicht des Arbeitgebers vorliegt. Es ist das effektive Vorsorgevermögen massgebend, wie es aus der tatsächlichen finanziellen Lage nach Artikel 47 Absatz 2 hervorgeht. Eine Arbeitgeberbeitragsreserve mit Verwendungsverzicht (AGBR mit Verwendungsverzicht), die Wertschwankungsreserven und die Umlageschwankungsreserven sind dem verfügbaren Vorsorgevermögen zuzurechnen.
 

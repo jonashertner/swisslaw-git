@@ -4,11 +4,11 @@ title: "Ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieilless
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/fr"
 
 (OPP 2)
 
-du 18 avril 1984 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 avril 1984 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-## Chapitre 1**** Principes de la prévoyance professionnelle
+## Chapitre 1 Principes de la prévoyance professionnelle
 
 [^chap1-1]
 
@@ -176,7 +176,7 @@ Des âges de retraite inférieurs à celui déterminé à l’al. 1 sont admis:
 
 [^1i-1]: Voir aussi la let. d des disp. fin. de la mod du 10 juin 2005 à la fin du texte.
 
-## Chapitre 1*a***** Assurance obligatoire des salariés
+## Chapitre 1*a* Assurance obligatoire des salariés
 
 [^chap1a-1]
 
@@ -265,12 +265,12 @@ L’institution de prévoyance peut, dans son règlement, s’écarter comme il 
 
 ### (art. 8 LPP)
 
-<sup>1</sup> Pour les personnes qui sont assurées obligatoirement selon l’art. 2 LPP et qui perçoivent d’un même employeur un salaire AVS supérieur à 21 510 francs, un montant de 3585 francs au moins doit être assuré.[^3a-2]
+<sup>1</sup> Pour les personnes qui sont assurées obligatoirement selon l’art. 2 LPP et qui perçoivent d’un même employeur un salaire AVS supérieur à 22 050 francs, un montant de 3675 francs au moins doit être assuré.[^3a-2]
 
 <sup>2</sup> Le salaire assuré minimal prévu à l’al. 1 est aussi valable pour l’assurance obligatoire des personnes pour lesquelles les montants-limites ont été réduits conformément à l’art. 4.
 
 [^3a-1]: Introduit parle ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 4
 
@@ -292,14 +292,14 @@ Pour les personnes partiellement invalides au sens de la loi fédérale du 19 ju
 Les montants-limites fixés aux art. 2, 7, 8 et 46 LPP sont adaptés comme suit:
 
 <table>
-<tr><td>Anciens montants Francs</td><td>Nouveaux montants Francs</td></tr>
-<tr><td>21 330</td><td>21 510</td></tr>
-<tr><td>24 885</td><td>25 095</td></tr>
-<tr><td>85 320</td><td>86 040</td></tr>
-<tr><td>3 555</td><td>3 585</td></tr>
+<tr><th>Anciens montants Francs</th><th>Nouveaux montants Francs</th></tr>
+<tr><td>21 510</td><td>22 050</td></tr>
+<tr><td>25 095</td><td>25 725</td></tr>
+<tr><td>86 040</td><td>88 200</td></tr>
+<tr><td>3 585</td><td>3 675</td></tr>
 </table>
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 6
 
@@ -413,7 +413,7 @@ L’avoir de vieillesse sera crédité d’un intérêt:
 - c.[^12-3] pour la période à partir du 1<sup>er</sup> janvier 2004 jusqu’au 31 décembre 2004: d’au moins 2,25 %;
 - d.[^12-4] pour la période à partir du 1<sup>er</sup> janvier 2005 jusqu’au 31 décembre 2007: d’au moins 2,5 %;
 - e.[^12-5] pour la période à partir du 1<sup>er</sup> janvier 2008 jusqu’au 31 décembre 2008: d’au moins 2,75 %;
-- f.[^12-6] pour la période à partir du 1<sup>er</sup> janvier 2009 jusqu’au 31 décembre 2011: d’au moins 2 %;
+- f.[^12-6] pour la période à partir du 1er janvier 2009 jusqu’au 31 décembre 2011: d’au moins 2 %;
 - g.[^12-7] pour la période à partir du 1<sup>er</sup> janvier 2012 jusqu’au 31 décembre 2013: d’au moins 1,5 %;
 - h.[^12-8] pour la période à partir du 1<sup>er</sup> janvier 2014 jusqu’au 31 décembre 2015: d’au moins 1,75 %;
 - i.[^12-9] pour la période à partir du 1<sup>er</sup> janvier 2016 jusqu’au 31 décembre 2016: d’au moins 1,25 %;
@@ -519,7 +519,7 @@ L’institution de prévoyance ou de libre passage doit consigner la part de l�
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^16-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
-### Section 3*a***** Résiliation des contrats
+### Section 3*a* Résiliation des contrats
 
 [^chap1a-sec3a-1]
 
@@ -632,7 +632,7 @@ Les cotisations payées par l’assuré au sens de l’art. 20*a*, al. 1, let. c
 
 [^2123-1]: Abrogés par le ch. I de l’O du 18 août 2004, avec effet au 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### Section 6 Coordination avec d’autres prestations et d’autres revenus****
+### Section 6 Coordination avec d’autres prestations et d’autres revenus
 
 [^chap1a-sec6-1]
 
@@ -770,7 +770,7 @@ Si le montant de la rente d’invalidité réduite est inférieur à celui de la
 
 [^26b-1]: Anciennement art. 25*b*. Introduit par le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-### Section 7**** Recours
+### Section 7 Recours
 
 [^chap1a-sec7-1]
 
@@ -866,7 +866,7 @@ Les assureurs participant au recours désignent parmi eux celui qui les représe
 - c. par l’assurance-maladie;
 - d. par l’AVS/AI.
 
-### Section 8**** Procédure en cas de liquidation partielle ou totale
+### Section 8 Procédure en cas de liquidation partielle ou totale
 
 [^chap1a-sec8-1]
 
@@ -882,7 +882,7 @@ Les assureurs participant au recours désignent parmi eux celui qui les représe
 
 <sup>1</sup> Lors d’une liquidation partielle ou totale, il existe un droit individuel à une part des fonds libres en cas de sortie individuelle; en cas de sortie collective, ce droit peut être individuel ou collectif.[^27g-3]
 
-<sup>1bis</sup> Les institutions de prévoyance qui satisfont aux exigences en matière de capitalisation complète constituent fonds libres lorsque leurs réserves de fluctuation de valeur ont atteint leur valeur cible. Pour les calculer, elles se fondent sur un bilan commercial et technique assorti de commentaires décrivant clairement leur situation financière effective.[^27g-4]
+<sup>1bis</sup> Les institutions de prévoyance qui satisfont aux exigences en matière de capitalisation complète constituent des fonds libres lorsque leurs réserves de fluctuation de valeur ont atteint leur valeur cible. Pour les calculer, elles se fondent sur un bilan commercial et technique assorti de commentaires décrivant clairement leur situation financière effective.[^27g-4]
 
 <sup>2</sup> En cas de modifications importantes des actifs ou des passifs entre le jour déterminant pour la liquidation partielle ou totale et celui du transfert des fonds, les fonds libres à transférer sont adaptés en conséquence.[^27g-5]
 
@@ -913,7 +913,7 @@ Les assureurs participant au recours désignent parmi eux celui qui les représe
 [^27h-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 [^27h-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
-### Section 9**** Conservation des pièces
+### Section 9 Conservation des pièces
 
 [^chap1a-sec9-1]
 
@@ -1027,7 +1027,7 @@ L’institution de prévoyance remet à l’assuré, à la fin de l’année civ
 
 ## Chapitre 3 Organisation
 
-### Section 1**** Organe suprême
+### Section 1 Organe suprême
 
 [^chap3-sec1-1]
 
@@ -1039,7 +1039,7 @@ L’institution de prévoyance remet à l’assuré, à la fin de l’année civ
 
 L’organe suprême d’une institution de prévoyance comprend au moins quatre membres. L’autorité de surveillance peut, dans des cas dûment motivés, notamment lors d’une liquidation, autoriser exceptionnellement un nombre de membres inférieur.
 
-### Section 2 Organe de révision****
+### Section 2 Organe de révision
 
 [^chap3-sec2-1]
 
@@ -1128,7 +1128,7 @@ L’organe de révision informe immédiatement l’autorité de surveillance:
 [^36-1]: Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^36-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-### Section 3 Expert en matière de prévoyance professionnelle****
+### Section 3 Expert en matière de prévoyance professionnelle
 
 [^chap3-sec3-1]
 
@@ -1308,7 +1308,7 @@ Toute institution de prévoyance gérée selon le système de la capitalisation 
 
 <sup>1</sup>
 
-Les institutions collectives ou communes soumises à la loi du LFLP peuvent accorder une amélioration des prestations lorsque leurs réserves de fluctuation de valeur n’ont pas été entièrement constituées si:
+Les institutions collectives ou communes soumises à la LFLP peuvent accorder une amélioration des prestations lorsque leurs réserves de fluctuation de valeur n’ont pas été entièrement constituées si:
 
 - a. 50 % au plus de l’excédent des produits avant constitution des réserves de fluctuation de valeur y est affecté, et que
 - b. les réserves de fluctuation de valeur atteignent au moins 75 % de la valeur cible du moment.
@@ -1319,7 +1319,7 @@ Les institutions collectives ou communes soumises à la loi du LFLP peuvent acco
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O des 10 et 22 juin 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-### Section 2 Comptabilité et établissement des comptes****
+### Section 2 Comptabilité et établissement des comptes
 
 [^chap4-sec2-1]
 
@@ -1387,7 +1387,7 @@ Les frais d’administration suivants doivent être indiqués dans le compte d�
 [^48a-4]: Introduite par le ch. I de l’O des 10 et 22 juin 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^48a-5]: Introduit par le ch. I de l’O des 10 et 22 juin 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-### Section 2*a***** Transparence
+### Section 2*a* Transparence
 
 [^chap4-sec2a-1]
 
@@ -1444,7 +1444,7 @@ L’institution de prévoyance fixe dans un règlement les règles pour la const
 
 [^48e-1]: Introduit par le ch. I de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644)[4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### Section 2*b***** Intégrité et loyauté des responsables
+### Section 2*b* Intégrité et loyauté des responsables
 
 [^chap4-sec2b-1]
 
@@ -1922,7 +1922,7 @@ Les dispositions de la présente section s’appliquent par analogie:
 
 [^60-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> avr. 2009, avec effet au 1<sup>er</sup> juin 2009 ([RO 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
-## Chapitre 5**** Rachat, salaire assurable et revenu assurable
+## Chapitre 5 Rachat, salaire assurable et revenu assurable
 
 [^chap5-1]
 
@@ -1980,7 +1980,7 @@ Lorsque l’assuré fait transférer des droits ou des avoirs de prévoyance acq
 
 Dans les cas où le remboursement d’un versement anticipé pour l’encouragement à la propriété du logement n’est plus admis en vertu de l’art. 30*d*, al. 3, let. a, LPP, le règlement de l’institution de prévoyance peut permettre des rachats volontaires pour autant que ces rachats, ajoutés aux versements anticipés, ne dépassent pas les prétentions de prévoyance maximales admises par le règlement.
 
-## Chapitre 6**** Dispositions spéciales
+## Chapitre 6 Dispositions spéciales
 
 [^chap6-1]
 
@@ -2008,13 +2008,13 @@ L’OFAS est autorisé à former un recours devant le Tribunal fédéral contre 
 
 [^60ebis-1]: Introduit par le ch. I de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-## Chapitre 7**** Dispositions finales
+## Chapitre 7 Dispositions finales
 
 [^chap7-1]
 
 [^chap7-1]: Anciennement chap. 5, avant l’art. 61.
 
-### Section 1 Abrogation et modification du droit en vigueur****
+### Section 1 Abrogation et modification du droit en vigueur
 
 [^chap7-sec1-1]
 
@@ -2050,7 +2050,7 @@ Le règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants[^61-
 
 [^62-1]: Abrogé par le ch. IV 50 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-### Section 1*a***** Dispositions en application de la let. e des dispositions transitoires de la 1<sup>re</sup> révision de la LPP
+### Section 1*a* Dispositions en application de la let. e des dispositions transitoires de la 1<sup>re</sup> révision de la LPP
 
 [^chap7-sec1a-1]
 
@@ -2070,7 +2070,7 @@ Cet âge de la retraite est également déterminant:
 
 [^62a-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### Section 1*b***** Disposition transitoire concernant les dispositions en application de la let. e des dispositions transitoires de la 1<sup>re</sup> révision de la LPP
+### Section 1*b* Disposition transitoire concernant les dispositions en application de la let. e des dispositions transitoires de la 1<sup>re</sup> révision de la LPP
 
 [^chap7-sec1b-1]
 
@@ -2112,13 +2112,13 @@ Pour les classes d’âge et les âges ordinaires de la retraite mentionnés ci-
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1985.
 
-## Dispositions finales de la modification du 23 octobre 2002****
+## Dispositions finales de la modification du 23 octobre 2002
 
 [^u1-1]
 
 [^u1-1]: [RO 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603). Abrogées par le ch. IV 50 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 24 mars 2004****
+## Dispositions finales de la modification du 24 mars 2004
 
 [^u2-1]
 
@@ -2128,7 +2128,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1985.
 
 <sup>2</sup> Pour les placements et les participations chez l’employeur, ainsi que pour les gages immobiliers au sens de l’art. 58, al. 2, let. b, déjà existants au moment de l’entrée en vigueur de la présente modification, les nouvelles limitations s’appliquent à partir du 1<sup>er</sup> janvier 2006.
 
-## Dispositions finales de la modification du 18 août 2004****
+## Dispositions finales de la modification du 18 août 2004
 
 [^u3-1]
 
@@ -2175,7 +2175,7 @@ Lorsque le droit à une prestation de survivants ou d’invalidité prend naissa
 
 Les règlements et les contrats doivent être adaptés dans un délai de trois ans au plus après l’entrée en vigueur de la présente modification.
 
-## Dispositions finales de la modification du 10 juin 2005****
+## Dispositions finales de la modification du 10 juin 2005
 
 [^u4-1]
 
@@ -2197,7 +2197,7 @@ Les avoirs qui se trouvent dans des institutions de prévoyance au moment de l�
 
 Les institutions de prévoyance peuvent maintenir les dispositions réglementaires qui prévoyaient un âge de la retraite inférieur à 58 ans pendant cinq ans à compter de la date de l’entrée en vigueur de la présente modification, pour les assurés qui étaient présents dans leurs effectifs au 31 décembre 2005.
 
-## Disposition finale de la modification du 19 septembre 2008****
+## Disposition finale de la modification du 19 septembre 2008
 
 [^u5-1]
 
@@ -2205,7 +2205,7 @@ Les institutions de prévoyance peuvent maintenir les dispositions réglementair
 
 Les institutions de prévoyance et les institutions au sens de l’art. 59 doivent adapter le placement de leur fortune aux dispositions de la présente modification avant le 1<sup>er</sup> janvier 2011.
 
-## Dispositions transitoires de la modification des 10 et 22 juin 2011****
+## Dispositions transitoires de la modification des 10 et 22 juin 2011
 
 [^u6-1]
 
@@ -2213,7 +2213,7 @@ Les institutions de prévoyance et les institutions au sens de l’art. 59 doive
 
 Les institutions de prévoyance adaptent leurs règlements et contrats et leur organisation d’ici au 31 décembre 2012 à la teneur des art. 48*f*, al. 1 et 2, 48*g* à 48*l* et 49*a*, al. 2, de la modification des 10 et 22 juin 2011. Le premier contrôle selon les nouvelles dispositions porte sur l’exercice comptable 2012.
 
-## Disposition transitoire de la modification du 6 juin 2014****
+## Disposition transitoire de la modification du 6 juin 2014
 
 [^u7-1]
 
@@ -2223,7 +2223,7 @@ Les institutions de prévoyance adaptent leurs règlements et contrats et leur o
 
 <sup>2</sup> Le premier contrôle selon les nouvelles dispositions porte sur l’exercice comptable 2015.
 
-## Disposition transitoire de la modification du 10 juin 2016****
+## Disposition transitoire de la modification du 10 juin 2016
 
 [^u8-1]
 
@@ -2231,7 +2231,7 @@ Les institutions de prévoyance adaptent leurs règlements et contrats et leur o
 
 Les conjoints divorcés et les ex-partenaires enregistrés qui ont bénéficié d’une rente ou d’une indemnité en capital en lieu et place d’une rente viagère avant l’entrée en vigueur de la modification du 10 juin 2016 ont droit aux prestations pour survivants en vertu de l’ancien droit.
 
-## Disposition transitoire de la modification du 30 août 2017****
+## Disposition transitoire de la modification du 30 août 2017
 
 [^u9-1]
 
@@ -2241,7 +2241,7 @@ Les conjoints divorcés et les ex-partenaires enregistrés qui ont bénéficié 
 
 <sup>2</sup> Tant qu’elles n’offrent pas à leurs assurés la possibilité de choisir une stratégie de placement à faible risque (art. 53*a*), elles ne peuvent déroger aux art. 15 et 17 LFLP lors de la sortie d’un assuré de l’institution de prévoyance.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 44, al. 1)
 
@@ -2251,7 +2251,7 @@ Annexe*[^t-1]*
 
 <sup>1</sup> Le taux de couverture de l’institution de prévoyance est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/fr/xml/image/image1.png)
 
 - où Fp: est égal à l’ensemble des actifs à la date du bilan et à la valeur du marché, diminués des engagements, des passifs de régularisation et des réserves de cotisations de l’employeur, pour autant qu’aucun accord sur une renonciation à leur utilisation par l’employeur n’ait été conclu, la fortune de prévoyance effective, telle qu’elle ressort de la situation financière réelle au sens de l’art. 47, al. 2, étant déterminante; une réserve de cotisations de l’employeur incluant une déclaration de renonciation à leur utilisation, les réserves de fluctuation de valeur et les réserves de fluctuation dans la répartition ne sont pas déduites de la fortune de prévoyance disponible, et
 - où Cp: est égal au capital de prévoyance actuariel nécessaire à la date du bilan (capital d’épargne et capital de couverture), y compris les renforcements nécessaires (au vu par ex. de l’augmentation de l’espérance de vie).

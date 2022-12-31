@@ -4,11 +4,11 @@ title: "Ordinanza del 18 aprile 1984 sulla previdenza professionale per la vecch
 short: OPP 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/543_543_543"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1984-04-18
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1984-543_543_543-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/543_543_543/20220101/it"
 
 (OPP 2)
 
-del 18 aprile 1984 (Stato 1° gennaio 2022)
+del 18 aprile 1984 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-4]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-## Capitolo 1:**** Principi della previdenza professionale
+## Capitolo 1: Principi della previdenza professionale
 
 [^chap1-1]
 
@@ -176,7 +176,7 @@ Sono ammesse età di pensionamento inferiori a quella menzionata al capoverso 1:
 
 [^1i-1]: Vedi anche la lett. d delle disp. fin della mod. del 10 giu. 2005 alla fine del presente testo.
 
-## Capitolo 1*a*: Assicurazione obbligatoria dei salariati****
+## Capitolo 1*a*: Assicurazione obbligatoria dei salariati
 
 [^chap1a-1]
 
@@ -265,12 +265,12 @@ Nel suo regolamento l’istituto di previdenza può derogare al salario determin
 
 ### (art. 8 LPP)
 
-<sup>1</sup> Per le persone che sottostanno all’assicurazione obbligatoria ai sensi dell’articolo 2 LPP e che percepiscono da un datore di lavoro un salario determinante AVS superiore a 21 510 franchi, deve essere assicurato un importo di almeno 3585 franchi.[^3a-2]
+<sup>1</sup> Per le persone che sottostanno all’assicurazione obbligatoria ai sensi dell’articolo 2 LPP e che percepiscono da un datore di lavoro un salario determinante AVS superiore a 22 050 franchi, deve essere assicurato un importo di almeno 3675 franchi.[^3a-2]
 
 <sup>2</sup> Il salario minimo assicurato secondo il capoverso 1 vale anche per l’assicurazione obbligatoria di persone per le quali gli importi limite sono ridotti conformemente all’articolo 4.
 
 [^3a-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
-[^3a-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^3a-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 4
 
@@ -290,14 +290,14 @@ Per le persone parzialmente invalide ai sensi della legge federale del 19 giugno
 Gli importi limite di cui agli articoli 2, 7, 8 e 46 LPP sono aumentati come segue:
 
 <table>
-<tr><td>Importi precedenti in fr.</td><td>Nuovi importi in fr.</td></tr>
-<tr><td>21 330</td><td>21 510</td></tr>
-<tr><td>24 885</td><td>25 095</td></tr>
-<tr><td>85 320</td><td>86 040</td></tr>
-<tr><td>3 555</td><td>3 585</td></tr>
+<tr><th>Importi precedenti in fr.</th><th>Nuovi importi in fr.</th></tr>
+<tr><td>21 510</td><td>22 050</td></tr>
+<tr><td>25 095</td><td>25 725</td></tr>
+<tr><td>86 040</td><td>88 200</td></tr>
+<tr><td>3 585</td><td>3675</td></tr>
 </table>
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4621](https://fedlex.data.admin.ch/eli/oc/2020/824)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 609](https://fedlex.data.admin.ch/eli/oc/2022/609)).
 
 #### Art. 6
 
@@ -517,7 +517,7 @@ L’istituto di previdenza o di libero passaggio determina la quota dell’avere
 [^16-1]: Nuovo testo giusta il n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 [^16-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
 
-### Sezione 3*a*:**** Scioglimento dei contratti
+### Sezione 3*a*: Scioglimento dei contratti
 
 [^chap1a-sec3a-1]
 
@@ -630,7 +630,7 @@ I contributi versati dall’assicurato secondo l’articolo 20*a* capoverso 1 le
 
 [^2123-1]: Abrogati dal n. I dell’O del 18 ago. 2004, con effetto dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### Sezione 6: Coordinamento con altre prestazioni e altri redditi****
+### Sezione 6: Coordinamento con altre prestazioni e altri redditi
 
 [^chap1a-sec6-1]
 
@@ -768,7 +768,7 @@ Se la rendita d’invalidità ridotta è inferiore alla parte di rendita assegna
 
 [^26b-1]: Originario art. 25*b*. Introdotto dal n. I dell’O del 10 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2347](https://fedlex.data.admin.ch/eli/oc/2016/381)).
 
-### Sezione 7:**** Regresso
+### Sezione 7: Regresso
 
 [^chap1a-sec7-1]
 
@@ -866,7 +866,7 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 
 [^27f-1]: Nuovo testo giusta l’all. n. 2 dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5149](https://fedlex.data.admin.ch/eli/oc/2020/893)).
 
-### Sezione 8:**** Procedura in caso di liquidazione parziale o totale
+### Sezione 8: Procedura in caso di liquidazione parziale o totale
 
 [^chap1a-sec8-1]
 
@@ -913,7 +913,7 @@ Se al regresso partecipano più assicuratori, essi designano un unico rappresent
 [^27h-1]: Nuovo testo giusta il n. I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 [^27h-2]: Nuovo testo giusta il n. I dell’O del 1° apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
-### Sezione 9:**** Conservazione di documenti relativi alla previdenza
+### Sezione 9: Conservazione di documenti relativi alla previdenza
 
 [^chap1a-sec9-1]
 
@@ -1028,7 +1028,7 @@ Alla fine dell’anno civile, l’istituto di previdenza consegna all’assicura
 
 ## Capitolo 3: Organizzazione
 
-### Sezione 1:**** Organo supremo
+### Sezione 1: Organo supremo
 
 [^chap3-sec1-1]
 
@@ -1040,7 +1040,7 @@ Alla fine dell’anno civile, l’istituto di previdenza consegna all’assicura
 
 L’organo supremo di un istituto di previdenza deve contare almeno quattro membri. In casi motivati, in particolare durante una liquidazione, l’autorità di vigilanza può ammettere eccezionalmente un numero inferiore di membri.
 
-### Sezione 2: Ufficio di revisione****
+### Sezione 2: Ufficio di revisione
 
 [^chap3-sec2-1]
 
@@ -1130,7 +1130,7 @@ L’ufficio di revisione è tenuto a informare senza indugio l’autorità di vi
 [^36-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^36-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-### Sezione 3: Perito in materia di previdenza professionale****
+### Sezione 3: Perito in materia di previdenza professionale
 
 [^chap3-sec3-1]
 
@@ -1323,7 +1323,7 @@ Nel caso in cui le riserve di fluttuazione non siano state interamente alimentat
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-### Sezione 2: Contabilità e rendiconto****
+### Sezione 2: Contabilità e rendiconto
 
 [^chap4-sec2-1]
 
@@ -1391,7 +1391,7 @@ Nel conto d’esercizio sono indicate le spese di amministrazione seguenti:
 [^48a-4]: Introdotta dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 [^48a-5]: Introdotto dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-### Sezione 2*a*:**** Trasparenza
+### Sezione 2*a*: Trasparenza
 
 [^chap4-sec2a-1]
 
@@ -1448,7 +1448,7 @@ L’istituto di previdenza stabilisce in un regolamento le norme per costituire 
 
 [^48e-1]: Introdotto dal n. I dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 
-### Sezione 2*b*:**** Integrità e lealtà dei responsabili
+### Sezione 2*b*: Integrità e lealtà dei responsabili
 
 [^chap4-sec2b-1]
 
@@ -1687,7 +1687,7 @@ Il patrimonio di un istituto di previdenza può essere investito in:
 I crediti non elencati al capoverso 1 lettera b, d<sup>bis</sup> o d<sup>ter</sup> sono considerati investimenti alternativi, in particolare:[^53-7]
 
 - a. i crediti non espressi in importi fissi o il cui rimborso totale o parziale è soggetto a condizioni;
-- b. i crediti cartolarizzati, quali i titoli garantiti da attività (*asset backed secur**i**ties*), e altri crediti derivanti da un trasferimento di rischi, quali i crediti nei confronti di una società veicolo o quelli basati su derivati creditizi;
+- b. i crediti cartolarizzati, quali i titoli garantiti da attività (*asset backed securities*), e altri crediti derivanti da un trasferimento di rischi, quali i crediti nei confronti di una società veicolo o quelli basati su derivati creditizi;
 - c. i prestiti garantiti senior (*senior secured loan*).
 
 <sup>4</sup> Gli investimenti alternativi possono essere effettuati soltanto mediante investimenti collettivi diversificati, certificati diversificati o prodotti strutturati diversificati.
@@ -1929,7 +1929,7 @@ Le disposizioni della presente sezione si applicano per analogia anche:
 
 [^60-1]: Abrogato dal n. I dell’O del 1° apr. 2009, con effetto dal 1° giu. 2009 ([RU 2009 1667](https://fedlex.data.admin.ch/eli/oc/2009/245)).
 
-## Capitolo 5:**** Acquisto, salario assicurabile e reddito assicurabile
+## Capitolo 5: Acquisto, salario assicurabile e reddito assicurabile
 
 [^chap5-1]
 
@@ -1987,7 +1987,7 @@ Il limite di riscatto giusta il capoverso 1 primo periodo non è applicabile se 
 
 Nei casi in cui il rimborso di un prelievo anticipato per la promozione della proprietà d’abitazioni giusta l’articolo 30*d* capoverso 3 lettera a LPP non è più consentito, il regolamento dell’istituto di previdenza può permettere acquisti volontari, a condizione che questi, aggiunti ai prelievi anticipati, non superino le prestazioni previdenziali massime previste dal medesimo.
 
-## Capitolo 6:**** Disposizioni speciali
+## Capitolo 6: Disposizioni speciali
 
 [^chap6-1]
 
@@ -2015,13 +2015,13 @@ L’UFAS è legittimato a interporre ricorso al Tribunale federale contro le dec
 
 [^60ebis-1]: Introdotto dal n. I dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
 
-## Capitolo 7:**** Disposizioni finali
+## Capitolo 7: Disposizioni finali
 
 [^chap7-1]
 
 [^chap7-1]: Originario Cap. 5, avanti l’art. 61.
 
-### Sezione 1: Abrogazione e modifica del diritto vigente****
+### Sezione 1: Abrogazione e modifica del diritto vigente
 
 [^chap7-sec1-1]
 
@@ -2057,7 +2057,7 @@ L’ordinanza del 31 ottobre 1947[^61-1] sull’assicurazione per la vecchiaia e
 
 [^62-1]: Abrogato dal n. IV 50 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-### Sezione 1*a*:**** Disposizioni d’esecuzione relative alla lettera e delle disposizioni transitorie della 1<sup>a</sup> revisione della LPP
+### Sezione 1*a*: Disposizioni d’esecuzione relative alla lettera e delle disposizioni transitorie della 1<sup>a</sup> revisione della LPP
 
 [^chap7-sec1a-1]
 
@@ -2077,7 +2077,7 @@ Questa età di pensionamento è parimenti determinante per:
 
 [^62a-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### Sezione 1*b*:**** Disposizioni transitorie relative alle disposizioni d’esecuzione della lettera e delle disposizioni transitorie della 1<sup>a</sup> revisione della LPP
+### Sezione 1*b*: Disposizioni transitorie relative alle disposizioni d’esecuzione della lettera e delle disposizioni transitorie della 1<sup>a</sup> revisione della LPP
 
 [^chap7-sec1b-1]
 
@@ -2119,13 +2119,13 @@ Alle classi di età e alle rispettive età ordinarie di pensionamento sottoelenc
 
 La presente ordinanza entra in vigore il 1° gennaio 1985.
 
-## Disposizioni finali della modifica del 23 ottobre 2002****
+## Disposizioni finali della modifica del 23 ottobre 2002
 
 [^u1-1]
 
 [^u1-1]: [RU 2002 3904](https://fedlex.data.admin.ch/eli/oc/2002/603). Abrogate dal n. IV 50 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 24 marzo 2004****
+## Disposizioni finali della modifica del 24 marzo 2004
 
 [^u2-1]
 
@@ -2135,7 +2135,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1985.
 
 <sup>2</sup> Per gli investimenti e le partecipazioni presso il datore di lavoro e per i pegni immobiliari ai sensi dell’articolo 58 capoverso 2 lettera b già esistenti al momento dell’entrata in vigore della presente modifica, le nuove limitazioni si applicano a partire dal 1<sup>°</sup> gennaio 2006.
 
-## Disposizioni finali della modifica del 18 agosto 2004****
+## Disposizioni finali della modifica del 18 agosto 2004
 
 [^u3-1]
 
@@ -2182,7 +2182,7 @@ Se il diritto a una prestazione per superstiti o d’invalidità nasce dopo il 3
 
 I regolamenti e gli accordi devono essere adeguati al più tardi entro tre anni dall’entrata in vigore della presente modifica.
 
-## Disposizioni finali della modifica del 10 giugno 2005****
+## Disposizioni finali della modifica del 10 giugno 2005
 
 [^u4-1]
 
@@ -2204,7 +2204,7 @@ Gli averi che si trovano negli istituti di previdenza al momento dell’entrata 
 
 Per le persone già assicurate presso di loro al 31 dicembre 2005, gli istituti di previdenza possono mantenere le disposizioni regolamentari che prevedevano un’età di pensionamento inferiore a 58 anni durante cinque anni a contare dalla data dell’entrata in vigore della presente modifica.
 
-## Disposizione finale della modifica del 19 settembre 2008****
+## Disposizione finale della modifica del 19 settembre 2008
 
 [^u5-1]
 
@@ -2212,7 +2212,7 @@ Per le persone già assicurate presso di loro al 31 dicembre 2005, gli istituti 
 
 Gli istituti di previdenza e le istituzioni ai sensi dell’articolo 59 devono adeguare l’investimento del loro patrimonio alle disposizioni della presente modifica entro il 1° gennaio 2011.
 
-## Disposizione transitoria della modifica del 10 e 22 giugno 2011****
+## Disposizione transitoria della modifica del 10 e 22 giugno 2011
 
 [^u6-1]
 
@@ -2220,7 +2220,7 @@ Gli istituti di previdenza e le istituzioni ai sensi dell’articolo 59 devono a
 
 Gli istituti di previdenza devono adeguare entro il 31 dicembre 2012 i propri regolamenti e contratti, come pure la loro organizzazione, agli articoli 48*f* capoversi 1 e 2, 48*g*‒48*l* e 49*a* capoverso 2 introdotti dalla modifica del 10 e 22 giugno 2011. La prima verifica secondo le nuove disposizioni si svolge per l’esercizio 2012.
 
-## Disposizioni transitorie della modifica del 6 giugno 2014****
+## Disposizioni transitorie della modifica del 6 giugno 2014
 
 [^u7-1]
 
@@ -2230,7 +2230,7 @@ Gli istituti di previdenza devono adeguare entro il 31 dicembre 2012 i propri re
 
 <sup>2</sup> La prima verifica secondo le nuove disposizioni è effettuata per l’esercizio 2015.
 
-## Disposizione transitoria della modifica del 10 giugno 2016****
+## Disposizione transitoria della modifica del 10 giugno 2016
 
 [^u8-1]
 
@@ -2238,7 +2238,7 @@ Gli istituti di previdenza devono adeguare entro il 31 dicembre 2012 i propri re
 
 I coniugi divorziati e gli ex partner di un’unione registrata cui è stata assegnata una rendita o una liquidazione in capitale invece di una rendita vitalizia prima dell’entrata in vigore della modifica del 10 giugno 2016 hanno diritto a prestazioni per i superstiti secondo il diritto previgente.
 
-## Disposizione transitoria della modifica del 30 agosto 2017****
+## Disposizione transitoria della modifica del 30 agosto 2017
 
 [^u9-1]
 
@@ -2248,7 +2248,7 @@ I coniugi divorziati e gli ex partner di un’unione registrata cui è stata ass
 
 <sup>2</sup> Fintantoché non propongono ai loro assicurati una strategia con investimenti a basso rischio (art. 53*a*), questi istituti non possono derogare agli articoli 15 e 17 LFLP in caso di uscita di un assicurato.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 44 cpv. 1)
 
@@ -2258,7 +2258,7 @@ Allegato*[^t-1]*
 
 <sup>1</sup> Il grado di copertura dell’istituto di previdenza è determinato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/543_543_543/20230101/it/xml/image/image1.png)
 
 - Pp corrisponde a: Tutti gli attivi alla data di chiusura del bilancio a valori di mercato, al netto degli obblighi, del conto terzi e delle riserve di contributi del datore di lavoro per le quali non vi è un accordo di rinuncia all’utilizzazione. È determinante il patrimonio di previdenza effettivo risultante dalla situazione finanziaria reale conformemente all’articolo 47 capoverso 2. La riserva di contributi dei datori di lavoro con rinuncia all’utilizzazione (RCDL con rinuncia all’utilizzazione), le riserve di fluttuazione e le riserve di fluttuazione nella ripartizione devono essere aggiunte al patrimonio di previdenza disponibile.
 - Cp corrisponde a: Capitale di previdenza attuariale necessario nel giorno di chiusura del bilancio (capitali a risparmio e capitali di copertura), compresi i necessari consolidamenti (p. es. in ragione dell’aumento della speranza di vita).
