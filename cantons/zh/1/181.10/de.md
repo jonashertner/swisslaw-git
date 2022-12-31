@@ -3,11 +3,11 @@ canton: ZH
 number: "181.10"
 title: Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2023-03-01
 adopted: 2009-03-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_10-2009_03_17-2010_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_10-2009_03_17-2010_01_01-119.html"
 text: pdf
 ---
 
@@ -59,7 +59,7 @@ Zürich besteht aufgrund des Wortes Gottes, das im Evangelium von Jesus Christus
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 3
 
@@ -181,7 +181,7 @@ geliums in Wort und Tat als Auftrag im weltweiten Bezug.
 
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 14
 
@@ -312,7 +312,7 @@ Arbeitsgruppen sowie Pfarrerinnen, Pfarrer, Angestellte und Freiwillige sind üb
 
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Kirchenrat ist in allen Fällen für die Entbindung vom Amtsgeheimnis zuständig.
 
@@ -406,7 +406,7 @@ Der Kirchenrat fördert Bestrebungen zur Gewinnung von Mitgliedern der Landeskir
 
 **7**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 [^28-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -526,7 +526,7 @@ oder eines Pfarrers. Ausnahmen bedürfen der Zustimmung der Kirchenpflege und de
 
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 37
 
@@ -658,7 +658,7 @@ Jesus Christus mit seiner Gemeinde geschlossen hat. Es ist Bekenntnis des Glaube
 
 **11**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 50
 
@@ -764,7 +764,7 @@ eine Pfarrerin oder einen Pfarrer der Landeskirche trauen zu lassen.
 
 **13**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 59
 
@@ -872,7 +872,7 @@ deln dazu bei, persönlicher und sozialer Not vorzubeugen, diese zu lindern oder
 
 **15**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 67
 
@@ -974,7 +974,7 @@ menarbeit zwischen Kirche und Schule.
 
 **17**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - c. Kirchliche Religionspädagogik
 
@@ -1094,7 +1094,7 @@ tung der Zürcher Bibel und von Publikationen insbesondere aus den Bereichen The
 
 **19**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Sie beteiligt sich zu diesem Zweck am Theologischen Verlag Zürich TVZ.
 
@@ -1210,7 +1210,7 @@ Kirchgemeinden und Landeskirche fördern im Rahmen ihres Auftrages kulturelle Vo
 
 **21**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Kirchenrat regelt die Führung der Archive und kirchlichen Register in einer Verordnung.
 
@@ -1330,7 +1330,7 @@ lichkeiten für die Angestellten der Kirchgemeinden und der Landeskirche.
 
 **23**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Landeskirche trägt anerkannte Ausbildungsgänge für kirchliche Berufe mit.
 
@@ -1441,7 +1441,7 @@ Aufgaben und Pflichten:
 
 **25**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - c. Seelsorge,
 
@@ -1526,7 +1526,7 @@ Art. 120[^119-1] <sup>1</sup> Jede Kirchgemeinde teilt die ihr gemäss Art. 117 
 
 **27**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Kirchgemeinden berücksichtigen bei der Aufteilung gemäss Abs. 1 insbesondere:
 
@@ -1622,7 +1622,7 @@ Art. 128[^124-3] Die Wahlfähigkeit für das Pfarramt besitzt, wer a. gemäss de
 
 **29**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - b. vom Kirchenrat nach bestandenem Kolloquium und der Erfüllung der weiteren vom Kirchenrat bestimmten Voraussetzungen unbeschränkt für alle landeskirchlichen oder beschränkt für besonders umschriebene Pfarrämter oder Aufgaben gemäss Art. 113 Abs. 1 als wahlfähig bezeichnet worden ist.
 
@@ -1722,7 +1722,7 @@ Sekretariatsangestellte übernehmen administrative Aufgaben in der Kirchgemeinde
 
 **31**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 139
 
@@ -1828,7 +1828,7 @@ Pflichten im Rahmen ihrer Zuständigkeit und der gesetzlichen Bestimmungen aus. 
 
 **33**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 148
 
@@ -1957,7 +1957,7 @@ Art. 153[^152-1] <sup>1</sup> Die Kirchgemeinden regeln ihre Organisation und di
 
 **35**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Kirchgemeindeordnung unterliegt der Genehmigung des Kirchenrates. Diese wird erteilt, wenn die Kirchgemeindeordnung dem übergeordneten Recht entspricht. Die Genehmigung ist Voraussetzung für das Inkrafttreten der Kirchgemeindeordnung.
 
@@ -2085,7 +2085,7 @@ meindeversammlung ein Kirchgemeindeparlament einführen.
 
 **37**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 [^158a-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -2212,7 +2212,7 @@ Art. 160[^159-1] <sup>1</sup> Die Stimmberechtigten der Kirchgemeinde wählen di
 
 **39**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 [^159-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 [^159-2]: LS 161.
@@ -2322,7 +2322,7 @@ die Kontrolle des Finanzhaushaltes der Kirchgemeinde.
 
 **41**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Sie besteht aus fünf Mitgliedern, einschliesslich der Präsidentin oder des Präsidenten. In Kirchgemeinden mit einem Kirchgemeindeparlament kann die Kirchgemeindeordnung mehr als fünf Mitglieder vorsehen.[^166-1]
 
@@ -2408,7 +2408,7 @@ Art. 172[^hGhF1681Pfarrwahl-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellt
 
 **43**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 [^hGhF1681Pfarrwahl-1]: Fassung gemäss B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -2532,7 +2532,7 @@ kirchliche Leben im Bezirk.
 
 **45**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Mitgliedschaft in der Bezirkskirchenpflege ist innerhalb des Bezirkes unvereinbar mit[^182-1] a. der Mitgliedschaft in Behörden und Organen einer Kirchgemeinde sowie in Kommissionen gemäss Art. 170 und 171 Abs. 1,
 
@@ -2621,7 +2621,7 @@ glieder des Ministeriums mit Wohnsitz im Bezirk.
 
 **47**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 188
 
@@ -2741,7 +2741,7 @@ Art. 196[^195-1] <sup>1</sup> Das Diakonatskapitel versammelt sich auf Einladung
 
 **49**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Mitglieder, die mit einem Stellenpensum von insgesamt mindestens 30% im Dienst einer Kirchgemeinde, eines Kirchgemeindeverbandes, der Landeskirche oder einer mit dieser verbundenen Institution stehen, sind zur Teilnahme an den Kapitelsversammlungen verpflichtet.
 
@@ -2844,7 +2844,7 @@ Synodalwahlkreisen die Mitglieder der Kirchensynode und entscheidet über die ih
 
 **51**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Sie setzt sich aus den stimmberechtigten Mitgliedern der Landeskirche zusammen.
 
@@ -2961,7 +2961,7 @@ an die Erwahrung der Wahl das Amtsgelübde mit den Worten:
 
 **53**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 #### Art. 212
 
@@ -3062,7 +3062,7 @@ Art. 217[^hCKirchenrat-1] <sup>1</sup> Der Kirchenrat ist die oberste leitende u
 
 **55**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - d. der Mitgliedschaft in der Kirchensynode und der Rekurskommission,
 
@@ -3158,7 +3158,7 @@ Art. 221[^220-2] <sup>1</sup> Der Kirchenrat beschliesst in eigener Zuständigke
 
 **57**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Kirchenrat kann nach Massgabe der Finanzverordnung Darlehen aufnehmen und gewähren sowie Liegenschaften kaufen und verkaufen.
 
@@ -3272,7 +3272,7 @@ nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^229-1] über das Besc
 
 **59**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 [^229-1]: LS 175.2.
 [^229-2]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
@@ -3418,7 +3418,7 @@ berechnen sich aufgrund a. der Kirchensteuereinnahmen,
 
 **61**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - d. die Behörden und Organe der Landeskirche und der kirchlichen Bezirke,
 
@@ -3522,7 +3522,7 @@ Anordnungen der Kirchgemeinden, Kirchgemeindeverbände und Kirchgemeinschaften b
 
 **63**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Kirchgemeinden, Kirchgemeindeverbände und Kirchgemeinschaften passen ihre Kirchgemeindeordnungen, Statuten, Erlasse und Anordnungen binnen dreier Jahre nach Inkrafttreten dieser Kirchenordnung an.
 
@@ -3605,7 +3605,7 @@ VIII. Auf die im Zeitpunkt des Inkrafttretens dieser Änderung der Kirchenordnun
 
 **65**
 
-- 1\. 7. 22 - 117 IX. Art. 170 Abs. 2 ist auf Pfarrwahlkommissionen anwendbar, die nach dem Inkrafttreten dieser Änderung der Kirchenordnung eingesetzt werden.
+- 1\. 1. 23 - 119 IX. Art. 170 Abs. 2 ist auf Pfarrwahlkommissionen anwendbar, die nach dem Inkrafttreten dieser Änderung der Kirchenordnung eingesetzt werden.
 
 X. Die Bezirkskirchenpflegen erlassen binnen eines Jahres nach Inkrafttreten dieser Änderung der Kirchenordnung die Geschäftsordnung gemäss Art. 184 Abs. 4.
 
@@ -3646,9 +3646,9 @@ Kappel a. A.
 
 **Richterswil Schönenberg-Hütten20 Rüschlikon Thalwil Sihltal Wädenswil**
 
-### Bezirk Meilen Erlenbach Herrliberg Küsnacht Männedorf
+### Bezirk Meilen Erlenbach Herrliberg Küsnacht
 
-**Meilen Zollikon Oetwil a. S. Zumikon Stäfa-Hombrechtikon30 Uetikon a. S.**
+**Männedorf Stäfa-Hombrechtikon30 Meilen Uetikon a. S. Oetwil a. S. Zollikon-Zumikon32**
 
 ### Bezirk Hinwil Bäretswil Bubikon Dürnten Fischenthal
 
@@ -3669,12 +3669,13 @@ Kappel a. A.
 **Illnau-Effretikon31 Weisslingen Pfäffikon Wildberg Russikon**
 
 [^hBezirkPfäffikonBau-1]: Fassung gemäss B vom 26. März 2019 (OS 74, 482; ABl 2019-03-29). In Kraft seit 1. Januar 2020.
+[^hBezirkPfäffikonBau-2]: Fassung gemäss B vom 27. September 2022 (OS 77, 555; ABl 2022-09-30). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 67
 
-### Bezirk Winterthur Dägerlen Dättlikon Eulachtal Hettlingen Neftenbach Pfungen
+### Bezirk Winterthur Dägerlen Dättlikon-Pfungen Eulachtal Hettlingen Neftenbach Seuzach-Thurtal
 
-[^hBezirkPfäffikonBau-1]
+[^hBezirkPfäffikonBau-1][^hBezirkPfäffikonBau-2]
 
-**Seuzach-Thurtal Oberwinterthur Sitzberg Winterthur Seen Turbenthal-Wila23 Winterthur Töss Wiesendangen Winterthur Veltheim Winterthur Stadt Winterthur Wülflingen Winterthur Mattenbach Zell**
+**Sitzberg Winterthur Seen Turbenthal-Wila23 Winterthur Töss Wiesendangen Winterthur Veltheim Winterthur Stadt Winterthur Wülflingen Winterthur Mattenbach Zell Oberwinterthur**
 
 [^hBezirkWinterthurh-1]: Fassung gemäss B vom 26. März 2019 (OS 74, 482; ABl 2019-03-29). In Kraft seit 1. Januar 2020.
 
@@ -3707,7 +3708,7 @@ Kappel a. A.
 
 **69**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 [^hBezirkDielsdorfDie-1]: Fassung gemäss B vom 16. Januar 2018 (OS 73, 447; ABl 2018-01-26). In Kraft seit 1. Januar 2019.
 
@@ -3727,4 +3728,4 @@ Kappel a. A.
 - [19] Fassung gemäss B vom 24. November 2015 (OS 71, 107; ABl 2015-11-27). In Kraft seit 1. April 2016.
 - [23] Fassung gemäss B vom 8. Mai 2018 (OS 73, 327; ABl 2018-05-18). In Kraft seit 1. Januar 2019.
 - [30] Fassung gemäss B vom 28. September 2021 (OS 76, 546; ABl 2021-11-19). In Kraft seit 1. Januar 2022.
-- [31] Fassung gemäss B vom 29. März 2022 (OS 77, 261; ABl 2022-04-01). In Kraft seit 1. Juli 2022. 1. 7. 22 - 117 67
+- [31] Fassung gemäss B vom 29. März 2022 (OS 77, 261; ABl 2022-04-01). In Kraft seit 1. Juli 2022.
