@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> septembre 2022)
+du 11 août 1999 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1331,15 +1331,15 @@ Annexe 3[^t-3]
 
 ## Clé d’attribution proportionnelle à la population
 
-[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 29 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 676](https://fedlex.data.admin.ch/eli/oc/2021/676)).
+[^t-3]: Introduite par le ch. II de l’O du 8 juin 2018 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nouvelle teneur selon le ch. I de l’O du DFJP du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 655](https://fedlex.data.admin.ch/eli/oc/2022/655)).
 
 <table>
-<tr><td></td><td>En pourcentage</td><td></td><td>En pourcentage</td></tr>
-<tr><td>Argovie</td><td>8,0</td><td>Nidwalden</td><td>0,5</td></tr>
+<tr><th></th><th>En pourcentage</th><th></th><th>En pourcentage</th></tr>
+<tr><td>Argovie</td><td>8,1</td><td>Nidwald</td><td>0,5</td></tr>
 <tr><td>Appenzell Rhodes-Extérieures</td><td>0,6</td><td>Obwald</td><td>0,4</td></tr>
 <tr><td>Appenzell Rhodes-Intérieures</td><td>0,2</td><td>Schaffhouse</td><td>1,0</td></tr>
 <tr><td>Bâle-Campagne</td><td>3,4</td><td>Schwyz</td><td>1,9</td></tr>
-<tr><td>Bâle-Ville</td><td>2,3</td><td>Soleure</td><td>3,2</td></tr>
+<tr><td>Bâle-Ville</td><td>2,2</td><td>Soleure</td><td>3,2</td></tr>
 <tr><td>Berne</td><td>12,0</td><td>Saint-Gall</td><td>5,9</td></tr>
 <tr><td>Fribourg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
 <tr><td>Genève</td><td>5,8</td><td>Thurgovie</td><td>3,3</td></tr>

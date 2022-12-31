@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° settembre 2022) (Stato 1° settembre 2022)
+dell’11 agosto 1999 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1345,15 +1345,15 @@ Allegato 3[^t-3]
 
 ## Chiave di riparto per l’attribuzione proporzionale alla popolazione
 
-[^t-3]: Introdotto dal n. II dell’O dell’8 giu. 2018 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nuovo testo giusta il n. I dell’O del DFGP del 29 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 676](https://fedlex.data.admin.ch/eli/oc/2021/676)).
+[^t-3]: Introdotto dal n. II dell’O dell’8 giu. 2018 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Nuovo testo giusta il n. I dell’O del DFGP del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 655](https://fedlex.data.admin.ch/eli/oc/2022/655)).
 
 <table>
-<tr><td></td><td>percentuale</td><td></td><td>percentuale</td></tr>
-<tr><td>Argovia</td><td>8,0</td><td>Nidvaldo</td><td>0,5</td></tr>
+<tr><th></th><th>percentuale</th><th></th><th>percentuale</th></tr>
+<tr><td>Argovia</td><td>8,1</td><td>Nidvaldo</td><td>0,5</td></tr>
 <tr><td>Appenzello Esterno</td><td>0,6</td><td>Obvaldo</td><td>0,4</td></tr>
 <tr><td>Appenzello Interno</td><td>0,2</td><td>Sciaffusa</td><td>1,0</td></tr>
 <tr><td>Basilea Campagna</td><td>3,4</td><td>Svitto</td><td>1,9</td></tr>
-<tr><td>Basilea Città</td><td>2,3</td><td>Soletta</td><td>3,2</td></tr>
+<tr><td>Basilea Città</td><td>2,2</td><td>Soletta</td><td>3,2</td></tr>
 <tr><td>Berna</td><td>12,0</td><td>San Gallo</td><td>5,9</td></tr>
 <tr><td>Friburgo</td><td>3,8</td><td>Ticino</td><td>4,0</td></tr>
 <tr><td>Ginevra</td><td>5,8</td><td>Turgovia</td><td>3,3</td></tr>

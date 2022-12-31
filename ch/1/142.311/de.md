@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20220901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20220901/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. September 2022)
+vom 11. August 1999 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1330,15 +1330,15 @@ Anhang 3[^t-3]
 
 ## Schlüssel zur bevölkerungsproportionalen Zuweisung
 
-[^t-3]: Eingefügt durch Ziff. II der V vom 8. Juni 2018 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Fassung gemäss Ziff. I der V des EJPD vom 29. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 676](https://fedlex.data.admin.ch/eli/oc/2021/676)).
+[^t-3]: Eingefügt durch Ziff. II der V vom 8. Juni 2018 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)). Fassung gemäss Ziff. I der V des EJPD vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 655](https://fedlex.data.admin.ch/eli/oc/2022/655)).
 
 <table>
-<tr><td></td><td>in Prozent</td><td></td><td>in Prozent</td></tr>
-<tr><td>Aargau</td><td>8,0</td><td>Nidwalden</td><td>0,5</td></tr>
+<tr><th></th><th>in Prozent</th><th></th><th>in Prozent</th></tr>
+<tr><td>Aargau</td><td>8,1</td><td>Nidwalden</td><td>0,5</td></tr>
 <tr><td>Appenzell AR</td><td>0,6</td><td>Obwalden</td><td>0,4</td></tr>
 <tr><td>Appenzell IR</td><td>0,2</td><td>Schaffhausen</td><td>1,0</td></tr>
 <tr><td>Basel-Landschaft</td><td>3,4</td><td>Schwyz</td><td>1,9</td></tr>
-<tr><td>Basel-Stadt</td><td>2,3</td><td>Solothurn</td><td>3,2</td></tr>
+<tr><td>Basel-Stadt</td><td>2,2</td><td>Solothurn</td><td>3,2</td></tr>
 <tr><td>Bern</td><td>12,0</td><td>St. Gallen</td><td>5,9</td></tr>
 <tr><td>Freiburg</td><td>3,8</td><td>Tessin</td><td>4,0</td></tr>
 <tr><td>Genf</td><td>5,8</td><td>Thurgau</td><td>3,3</td></tr>
