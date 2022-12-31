@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 12. Juni 2009 über die Mehrwertsteuer (Mehrwertsteuerg
 short: MWSTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/de"
 
 (Mehrwertsteuergesetz, MWSTG)
 
-vom 12. Juni 2009 (Stand am 1. Januar 2022)
+vom 12. Juni 2009 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -220,17 +220,18 @@ Von der Steuerpflicht ist befreit, wer:
   - 2\. Dienstleistungen, deren Ort sich nach Artikel 8 Absatz 1 im Inland befindet; nicht von der Steuerpflicht befreit ist jedoch, wer Telekommunikations- oder elektronische Dienstleistungen an nicht steuerpflichtige Empfänger und Empfängerinnen erbringt,
   - 3\. Lieferung von Elektrizität in Leitungen, Gas über das Erdgasverteilnetz und Fernwärme an steuerpflichtige Personen im Inland;
 
-- c. als nicht gewinnstrebiger, ehrenamtlich geführter Sport- oder Kulturverein oder als gemeinnützige Institution innerhalb eines Jahres im In- und Ausland weniger als 150 000 Franken Umsatz aus Leistungen erzielt, die nicht nach Artikel 21 Absatz 2 von der Steuer ausgenommen sind.[^10-4]
+- c.[^10-4] als nicht gewinnstrebiger, ehrenamtlich geführter Sport- oder Kulturverein oder als gemeinnützige Institution innerhalb eines Jahres im In- und Ausland weniger als 250 000 Franken Umsatz aus Leistungen erzielt, die nicht nach Artikel 21 Absatz 2 von der Steuer ausgenommen sind.[^10-5]
 
-<sup>2bis</sup> Der Umsatz berechnet sich nach den vereinbarten Entgelten ohne die Steuer.[^10-5]
+<sup>2bis</sup> Der Umsatz berechnet sich nach den vereinbarten Entgelten ohne die Steuer.[^10-6]
 
 <sup>3</sup> Der Sitz im Inland sowie alle inländischen Betriebsstätten bilden zusammen ein Steuersubjekt.
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-5]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 228](https://fedlex.data.admin.ch/eli/oc/2022/228); [BBl 2021 1100](https://fedlex.data.admin.ch/eli/fga/2021/1100), [1944](https://fedlex.data.admin.ch/eli/fga/2021/1944)).
+[^10-5]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-6]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 11
 
@@ -1455,7 +1456,7 @@ Auskunftspflichtige Drittperson ist, wer:
 
 ### 4. Kapitel: Rechte und Pflichten der Behörden
 
-### 1. Abschnitt: Geheimhaltung und Amtshilfe****
+### 1. Abschnitt: Geheimhaltung und Amtshilfe
 
 [^tit5-chap4-sec1-1]
 
@@ -1507,7 +1508,7 @@ Keine Geheimhaltungspflicht besteht:
 [^75a-1]: Eingefügt durch Anhang Ziff. 3 des Steueramtshilfegesetzes vom 28. Sept. 2012, in Kraft seit 1. Febr. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^75a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-### 2. Abschnitt: Datenschutz****
+### 2. Abschnitt: Datenschutz
 
 [^tit5-chap4-sec2-1]
 
@@ -1601,7 +1602,7 @@ Der Bundesrat erlässt Ausführungsbestimmungen über:
 
 [^76d-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
-### 3. Abschnitt: Sicherstellung der korrekten Steuerentrichtung****
+### 3. Abschnitt: Sicherstellung der korrekten Steuerentrichtung
 
 [^tit5-chap4-sec3-1]
 
@@ -2211,7 +2212,7 @@ Auf Sammlerstücken wie Kunstgegenständen, Antiquitäten und dergleichen, für 
 [^116-1]: Die Referendumsfrist für dieses Gesetz ist am 1. Oktober 2009 unbenützt abgelaufen ([BBl 2009 4407](https://fedlex.data.admin.ch/eli/fga/2009/784)).
 [^116-2]: Art. 78 Abs. 4 tritt am 1. Jan. 2012 in Kraft ([AS 2011 4737](https://fedlex.data.admin.ch/eli/oc/2011/670)).
 
-## Übergangsbestimmung zur Änderung vom 19. März 2010****
+## Übergangsbestimmung zur Änderung vom 19. März 2010
 
 [^u1-1]
 

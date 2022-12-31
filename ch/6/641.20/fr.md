@@ -4,20 +4,20 @@ title: "Loi fédérale du 12 juin 2009 régissant la taxe sur la valeur ajoutée
 short: LTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale régissant la taxe sur la valeur ajoutée**<sup>∗</sup>**
+# Loi fédérale régissant la taxe sur la valeur ajoutée<sup></sup>
 
 (Loi sur la TVA, LTVA)[^t-1]
 
-du 12 juin 2009 (Etat le 1<sup>er</sup> janvier 2022)
+du 12 juin 2009 (Etat le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -222,17 +222,18 @@ Est libéré de l’assujettissement quiconque:
   - 2\. prestations de services dont le lieu se situe sur le territoire suisse en vertu de l’art. 8, al. 1; n’est toutefois pas libéré de l’assujettissement quiconque fournit des prestations de services en matière de télécommunications ou d’informatique à des destinataires qui ne sont pas assujettis à l’impôt,
   - 3\. livraison d’électricité transportée par lignes, de gaz transporté par le réseau de distribution de gaz naturel ou de chaleur produite à distance à des assujettis sur le territoire suisse;
 
-- c. réalise en l’espace d’un an, sur le territoire suisse et à l’étranger, au titre de société sportive ou culturelle sans but lucratif et gérée de façon bénévole ou d’institution d’utilité publique, un chiffre d’affaires total inférieur à 150 000 francs à partir de prestations qui ne sont pas exclues du champ de l’impôt en vertu de l’art. 21, al. 2.[^10-4]
+- c.[^10-4] réalise en l’espace d’un an, sur le territoire suisse et à l’étranger, au titre d’association sportive ou culturelle sans but lucratif et gérée de façon bénévole ou d’institution d’utilité publique, un chiffre d’affaires total inférieur à 250 000 francs à partir de prestations qui ne sont pas exclues du champ de l’impôt en vertu de l’art. 21, al. 2.[^10-5]
 
-<sup>2bis</sup> Le chiffre d’affaires se calcule sur la base des contre-prestations convenues (hors impôt).[^10-5]
+<sup>2bis</sup> Le chiffre d’affaires se calcule sur la base des contre-prestations convenues (hors impôt).[^10-6]
 
 <sup>3</sup> L’entreprise ayant son siège sur le territoire suisse et tous ses établissements stables qui se trouvent sur le territoire suisse forment ensemble un sujet fiscal.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^10-2]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 [^10-3]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^10-4]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
-[^10-5]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^10-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 228](https://fedlex.data.admin.ch/eli/oc/2022/228); [FF 2021 1100](https://fedlex.data.admin.ch/eli/fga/2021/1100), [1944](https://fedlex.data.admin.ch/eli/fga/2021/1944)).
+[^10-5]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
+[^10-6]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
 #### Art. 11
 
@@ -1462,7 +1463,7 @@ Sont astreints à fournir des renseignements les tiers:
 
 ### Chapitre 4 Droits et obligations des autorités
 
-### Section 1 Obligation de garder le secret et entraide administrative****
+### Section 1 Obligation de garder le secret et entraide administrative
 
 [^tit5-chap4-sec1-1]
 
@@ -1514,7 +1515,7 @@ L’obligation de garder le secret ne s’applique pas:
 [^75a-1]: Introduit par l’annexe ch. 3 de la LF du 28 sept. 2012 sur l’assistance administrative fiscale, en vigueur depuis le 1<sup>er</sup> fév. 2013 ([RO 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5771](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^75a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-### Section 2 Protection des données****
+### Section 2 Protection des données
 
 [^tit5-chap4-sec2-1]
 
@@ -1608,7 +1609,7 @@ Le Conseil fédéral édicte des dispositions d’exécution portant sur:
 
 [^76d-1]: Introduit par le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2467](https://fedlex.data.admin.ch/eli/fga/2015/541)).
 
-### Section 3 Garantie de l’acquittement correct de l’impôt****
+### Section 3 Garantie de l’acquittement correct de l’impôt
 
 [^tit5-chap4-sec3-1]
 
@@ -2223,7 +2224,7 @@ La déduction de l’impôt préalable ne doit pas être annulée en ce qui conc
 [^116-1]: Le délai référendaire s’appliquant à la loi a expiré le 1<sup>er</sup> oct. 2009 sans avoir été utilisé ([FF 2009 3929](https://fedlex.data.admin.ch/eli/fga/2009/784)).
 [^116-2]: Art. 78, al. 4, entre en vigueur le 1<sup>er</sup> janv. 2012 ([RO 2011 4737](https://fedlex.data.admin.ch/eli/oc/2011/670)).
 
-## Disposition transitoire de la modification du 19 mars 2010****
+## Disposition transitoire de la modification du 19 mars 2010
 
 [^u1-1]
 

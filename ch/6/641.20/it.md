@@ -4,11 +4,11 @@ title: "Legge federale del 12 giugno 2009 concernente l'imposta sul valore aggiu
 short: LIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/it"
 
 (Legge sull’IVA, LIVA)
 
-del 12 giugno 2009 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 12 giugno 2009 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -187,7 +187,7 @@ In caso di fornitura di un bene dall’estero in territorio svizzero, il luogo d
 
 Per evitare le distorsioni della concorrenza causate da doppie imposizioni o lacune di imposizione nell’ambito delle prestazioni transfrontaliere, il Consiglio federale può disciplinare la delimitazione tra fornitura e prestazione di servizi in deroga all’articolo 3 nonché definire il luogo della prestazione in deroga agli articoli 7 e 8.
 
-## Titolo secondo: Imposta sulle prestazioni eseguite sul territorio svizzero****
+## Titolo secondo: Imposta sulle prestazioni eseguite sul territorio svizzero
 
 [^tit2-1]
 
@@ -210,7 +210,7 @@ Per evitare le distorsioni della concorrenza causate da doppie imposizioni o lac
 
 Esercita un’impresa chiunque:
 
-- a. svolge un’attività indipendente, professionale o commerciale, diretta al conseguimento, mediante prestazioni, di entrate aventi carattere di stabilità, indipendentemente dall’importo dell’afflusso di mezzi che non sono considerati controprestazione secondo l’articolo 18 capoverso 2; e
+- a. svolge un’attività indipendente, professionale o commerciale, diretta al conseguimento, mediante prestazioni, di entrate aventi carattere di stabilità, indipendentemente dall’importo dell’afflusso di mezzi che non sono considerati controprestazione secondo l’articolo 18 capoverso 2, e
 - b. agisce in nome proprio nei confronti di terzi.[^10-2]
 
 <sup>1ter</sup> L’acquisto, la detenzione e l’alienazione di partecipazioni secondo l’articolo 29 capoversi 2 e 3 costituiscono un’attività imprenditoriale.[^10-3]
@@ -228,17 +228,18 @@ Esercita un’impresa chiunque:
   - 2\. prestazioni di servizi che vengono rese, secondo l’articolo 8 capoverso 1, sul territorio svizzero; non è tuttavia esentato dall’assoggettamento chi rende prestazioni di servizi in materia d’informatica o di telecomunicazioni a destinatari non contribuenti,
   - 3\. fornitura di energia elettrica in condotte, di gas mediante la rete di distribuzione del gas naturale e di teleriscaldamento a contribuenti in territorio svizzero;
 
-- c. quale associazione sportiva o culturale senza scopo lucrativo e gestita a titolo onorifico o istituzione di utilità pubblica, realizza sul territorio svizzero e all’estero una cifra d’affari inferiore a 150 000 franchi annui proveniente da prestazioni che non sono escluse dall’imposta secondo l’articolo 21 capoverso 2.[^10-4]
+- c.[^10-4] quale associazione sportiva o culturale senza scopo lucrativo e gestita a titolo onorifico o istituzione di utilità pubblica, realizza sul territorio svizzero e all’estero una cifra d’affari inferiore a 250 000 franchi annui proveniente da prestazioni che non sono escluse dall’imposta secondo l’articolo 21 capoverso 2.[^10-5]
 
-<sup>2bis</sup> La cifra d’affari è calcolata secondo le controprestazioni convenute, esclusa l’imposta.[^10-5]
+<sup>2bis</sup> La cifra d’affari è calcolata secondo le controprestazioni convenute, esclusa l’imposta.[^10-6]
 
 <sup>3</sup> La sede in territorio svizzero nonché tutti gli stabilimenti d’impresa in territorio svizzero costituiscono insieme un soggetto fiscale.
 
 [^10-1]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-2]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-3]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-4]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-5]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2022 228](https://fedlex.data.admin.ch/eli/oc/2022/228); [FF 2021 1100](https://fedlex.data.admin.ch/eli/fga/2021/1100), [1944](https://fedlex.data.admin.ch/eli/fga/2021/1944)).
+[^10-5]: Nuovo testo giusta il n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-6]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 11
 
@@ -1357,7 +1358,7 @@ Il termine per la presentazione di una domanda è:
 
 [^64-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-## Titolo quinto: Procedura applicabile all’imposta sulle operazioni eseguite sul territorio svizzero e all’imposta sull’acquisto****
+## Titolo quinto: Procedura applicabile all’imposta sulle operazioni eseguite sul territorio svizzero e all’imposta sull’acquisto
 
 [^tit5-1]
 
@@ -1491,7 +1492,7 @@ Sono terzi tenuti a fornire informazioni coloro che:
 
 ### Capitolo 4: Diritti e doveri delle autorità
 
-### Sezione 1: Segreto e assistenza amministrativa****
+### Sezione 1: Segreto e assistenza amministrativa
 
 [^tit5-chap4-sec1-1]
 
@@ -1543,7 +1544,7 @@ L’obbligo del segreto non è dato:
 [^75a-1]: Introdotto dall’all. n. 3 della L del 28 set. 2012 sull’assistenza amministrativa fiscale, in vigore dal 1° feb. 2013 ([RU 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [FF 2011 5587](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^75a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-### Sezione 2: Protezione dei dati****
+### Sezione 2: Protezione dei dati
 
 [^tit5-chap4-sec2-1]
 
@@ -1637,7 +1638,7 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti:
 
 [^76d-1]: Introdotto dal n. I della L del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
-### Sezione 3: Garanzia della corretta riscossione delle imposte****
+### Sezione 3: Garanzia della corretta riscossione delle imposte
 
 [^tit5-chap4-sec3-1]
 
@@ -2257,7 +2258,7 @@ Su pezzi da collezione quali oggetti d’arte, antichità e simili per i quali a
 [^116-1]: Il termine di referendum per la presente L è scaduto inutilizzato il 1° ott. 2009 ([FF 2009 3789](https://fedlex.data.admin.ch/eli/fga/2009/784)).
 [^116-2]: L’art. 78 cpv. 4 è in vigore dal 1° gen. 2012 ([RU 2011 4737](https://fedlex.data.admin.ch/eli/oc/2011/670)).
 
-## Disposizione transitoria della modifica del 19 marzo 2010****
+## Disposizione transitoria della modifica del 19 marzo 2010
 
 [^u1-1]
 

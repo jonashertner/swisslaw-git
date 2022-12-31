@@ -4,11 +4,11 @@ title: "Federal Act of 12 June 2009 on Value Added Tax (Value Added Tax Act, VAT
 short: VAT Act
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/615"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2009-06-12
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/615/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2009-615-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/615/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Act, VAT Act)
 
-of 12 June 2009 (Status as of 1 January 2022)
+of 12 June 2009 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -222,17 +222,18 @@ Exempt from tax liability under paragraph 1 is any person who:
   - 2\. services whose place of supply in terms of Article 8 paragraph 1 is located on Swiss territory; not exempt from tax liability is, however, any person who supplies telecommunication or electronic services to recipients who are not liable to the tax,
   - 3\. supplies of electricity in cables, gas via the natural gas distribution network and district heating to persons liable to the tax on Swiss territory;
 
-- c. as a non-profit, voluntarily-run sporting or cultural association or as a charitable organisation generates on Swiss territory and abroad within one year a turnover from supplies of less than 150,000 francs that are not exempt from the tax without credit under Article 21 paragraph 2.[^10-4]
+- [tab] c.[^10-4] as a non-profit, voluntarily-run sporting or cultural association or as a charitable organisation generates on Swiss territory and abroad within one year a turnover from supplies of less than 250,000 francs that are not exempt from the tax without credit under Article 21 paragraph 2.[^10-5]
 
-<sup>2bis</sup> The turnover is calculated on the basis of the agreed considerations without the tax.[^10-5]
+<sup>2bis</sup> The turnover is calculated on the basis of the agreed considerations without the tax.[^10-6]
 
 <sup>3</sup> The place of business on Swiss territory and all domestic permanent establishments together represent a single taxable person.
 
 [^10-1]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-2]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 [^10-3]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-4]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
-[^10-5]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-4]: Amended by No I of the FA of 17 Dec. 2021, in force since 1 Jan. 2023 ([AS 2022 228](https://fedlex.data.admin.ch/eli/oc/2022/228); [BBl 2021 1100](https://fedlex.data.admin.ch/eli/fga/2021/1100), [1944](https://fedlex.data.admin.ch/eli/fga/2021/1944)).
+[^10-5]: Amended by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
+[^10-6]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
 #### Art. 11
 
@@ -1457,7 +1458,7 @@ A third party obliged to provide information is a person who:
 
 ### Chapter 4 Rights and Obligations of the Authorities
 
-### Section 1 Confidentiality and Administrative Assistance****
+### Section 1 Confidentiality and Administrative Assistance
 
 [^tit5-chap4-sec1-1]
 
@@ -1509,7 +1510,7 @@ There is no duty of confidentiality:
 [^75a-1]: Inserted by Annex No 3 of the Tax Administrative Assistance Act of 28 Sept. 2012, in force since 1 Feb. 2013 ([AS 2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31); [BBl 2011 6193](https://fedlex.data.admin.ch/eli/fga/2011/914)).
 [^75a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
-### Section 2 Data Protection****
+### Section 2 Data Protection
 
 [^tit5-chap4-sec2-1]
 
@@ -1603,7 +1604,7 @@ The Federal Council shall issue implementing provisions on:
 
 [^76d-1]: Inserted by No I of the FA of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [BBl 2015 2615](https://fedlex.data.admin.ch/eli/fga/2015/540)).
 
-### Section 3 Securing the Correct Tax Payment****
+### Section 3 Securing the Correct Tax Payment
 
 [^tit5-chap4-sec3-1]
 
@@ -1669,7 +1670,7 @@ If the exact establishment of individual facts important to the assessment of th
 
 <sup>1</sup> The provisions of the APA[^81-1] apply. Article 2 paragraph 1 APA does not apply to the VAT procedure.
 
-<sup>2</sup> The authorities shall establish the legally relevant circumstances *ex off**i**cio*.
+<sup>2</sup> The authorities shall establish the legally relevant circumstances *ex officio*.
 
 <sup>3</sup> The principle of the free consideration of evidence applies. It is not permissible to make proof dependent on the production of specific evidence.
 
@@ -2217,7 +2218,7 @@ The input tax deduction may not be retrospectively cancelled on collectors’ it
 [^116-1]: The deadline for a referendum for this Act expired on 1 Oct. 2009 (BBI **2009** 4407).
 [^116-2]: Art. 78 para. 4 comes into force on 1 Jan. 2012 ([AS 2011 4737](https://fedlex.data.admin.ch/eli/oc/2011/670)).
 
-## Transitional Provision to the Amendment of 19 March 2010****
+## Transitional Provision to the Amendment of 19 March 2010
 
 [^u1-1]
 
