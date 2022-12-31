@@ -3,11 +3,11 @@ sr: "172.222.1"
 title: Federal Act of 20 December 2006 on the Federal Pension Fund (Publica Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: en
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20120101/en/xml/fedlex-data-admin-ch-eli-cc-2007-313-20120101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20120101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PUBLICA Act)
 
-of 20 December 2006 (Status as of 1 January 2012)
+of 20 December 2006 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -26,7 +26,7 @@ based on Articles 113 paragraph 1 and 173 paragraph 2 of the Federal Constitutio
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)
 
 ## Section 1 General Provisions
@@ -53,8 +53,8 @@ This Act governs the organisation of the Swiss Federal Pension Fund (PUBLICA) an
 
 <sup>2</sup> The Federal Council may assign additional tasks to PUBLICA provided that these bear a direct relation to the remit defined under this Act. The Confederation bears the expenses thereby incurred.
 
-[^3-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 4
 
@@ -66,7 +66,7 @@ This Act governs the organisation of the Swiss Federal Pension Fund (PUBLICA) an
 
 <sup>3</sup> An employer is affiliated to PUBLICA by means of a contract of affiliation. The pension plan regulations and the setting of administrative costs form an integral part of contracts of affiliation.
 
-[^4-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^4-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 5
 
@@ -74,7 +74,7 @@ This Act governs the organisation of the Swiss Federal Pension Fund (PUBLICA) an
 
 PUBLICA is subrogated to the rights of the insured and their survivors against any liable third party up to the amount of the benefits under the regulations. The settlement and scope of this subrogation are governed by Articles 72 to 75 of the Federal Act of 6 October 2000[^5-1] on General Aspects of Social Security Law.
 
-[^5-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 6
 
@@ -150,7 +150,7 @@ The governing bodies of PUBLICA are:
 - c. the Management;
 - d. the Auditors as defined under Article 53 paragraph 1 of the Occupational Pensions Act [^10-1].
 
-[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 11
 
@@ -184,7 +184,7 @@ In particular, the Fund Commission adopts:
 - g. the model pension plan regulations;
 - h. the model contract of affiliation.
 
-[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^11-2]: Amended in accordance with No I 2 of the FA of 17 June 2011, in force since 1 Jan. 2012 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
 
 #### Art. 12
@@ -203,7 +203,7 @@ In particular, the Fund Commission adopts:
 
 <sup>6</sup> The Fund Commission is self-appointed. It may call upon expert consultants and set up committees, whose members need not be on the Fund Commission.
 
-[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
@@ -227,7 +227,7 @@ In particular, the Fund Commission adopts:
 
 <sup>2</sup> The Management and other personnel of PUBLICA are subject to the provisions of the Federal Personnel Act[^14-1]. Their occupational pension insurance is with PUBLICA.
 
-[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Section 4 Asset Management and Annual Accounts
 
@@ -283,7 +283,7 @@ The Fund Commission shall determine a separate investment strategy for:
 
 <sup>4</sup> Insured persons whose rights are governed by Article 71 paragraph 1 of the Ordinance of 24 August 1994[^18-2] on the Federal Pension Fund (Federal Pension Fund Statutes) maintain these rights even after the new law becomes effective. The shortfall in the policy deficit for financing the benefits due at the time of retirement is payable to PUBLICA by the employers in question. These may, in this case, use employers' contribution reserves.
 
-[^18-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^18-1]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^18-2]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
 #### Art. 19
@@ -298,7 +298,7 @@ The Fund Commission shall determine a separate investment strategy for:
 
 <sup>4</sup> Employers that left the Federal Pension Fund prior to 1 June 2003 for which no frozen part of the deficit was set during the applicability of the Federal Pension Fund Statutes do not owe any additional deficit apart from that which was calculated at the time of exit and became payable in accordance with Article 59 paragraph 3 of the Federal Pension Fund Statutes. The above is subject to the special standards whereby the shortfall in the policy reserve is assumed by the employer.
 
-[^19-1]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)[3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705), **1999** 2451. [AS 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)Art. 1]
+[^19-1]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533), [3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705); **1999** 2451. [AS 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)Art. 1]
 
 #### Art. 20
 
@@ -328,7 +328,7 @@ Subject to the provisions of paragraph 2, all guarantees in accordance with PUBL
 
 <sup>2</sup> The guarantee provided by the Confederation within the meaning of paragraph 1, letter c remains applicable in the case of legal proceedings of particular financial consequence. These are rulings that, due to their nature of precedence, require the adaptation of additional insurance conditions and which, by virtue of the amount of the shortfall in policy reserves or the administrative effort generated for PUBLICA in adapting the insurance conditions, entail extraordinarily high costs.
 
-[^21-1]: [SR 172.222.034.1](https://fedlex.data.admin.ch/eli/cc/2001/340)
+[^21-1]: [SR 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
 
 #### Art. 22
 
@@ -352,7 +352,7 @@ The Confederation pays PUBLICA a lump sum of 10 million Swiss francs to finance 
 
 <sup>6</sup> With this lump-sum payment, the Confederation does not assume any employer obligations in relation to the portfolio of pensioners within the meaning of paragraph 2, and specifically also in relation to the closed portfolio of pensioners. Its employer obligations to its own pensioners (Art. 32*b* para. 1 of the Federal Personnel Act[^23-1] remain reserved).
 
-[^23-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^23-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 24
 
@@ -362,9 +362,22 @@ The Confederation pays PUBLICA a lump sum of 10 million Swiss francs to finance 
 
 <sup>2</sup> The dissolution of an employee pension fund of a closed portfolio of pensioners is governed by the same principles applying to total liquidation. Any surplus of assets is distributed among the remaining employee pension funds *pro rata* to their policy reserves*.*
 
-<sup>3</sup> If the last remaining employee pension fund of closed portfolios of pensioners no longer has any pensioners, and funds remain available after its dissolution, these are allocated to the Confederation’s employee pension fund.
+<sup>3</sup> If the last remaining employee pension fund of closed portfolios of pensioners no longer has any pensioners, and funds remain available after its dissolution, these are allocated to the Confederation’s employee pension fund. If the Confederation has already paid restructuring contributions in accordance with Article 24*a*, the remaining funds shall be reallocated to the federal budget.[^24-1]
 
 <sup>4</sup> The Federal Council may have the closed portfolios of pensions dissolved prematurely and transfer the remaining pensioners and their pension assets available to its own employee pension fund. Even in this case, the former employers remain responsible for financing any extraordinary cost-of-living adjustments.
+
+[^24-1]: Second sentence inserted by No I of the FA of 18 March 2022 (Restructuring of the Employee Pension Funds of Closed Portfolios of Pensioners), in force since 1 Jan. 2023 ([AS 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [BBl 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+
+#### Art. 24a
+
+**Restructuring of the employee pension funds of closed portfolios of pensioners**[^24a-1]
+
+<sup>1</sup> If the actuarial review of an employee pension fund of a closed portfolio of pensioners (closed employee pension fund) discloses a shortfall as defined in the OPA[^24a-2] of 5 or more per cent, the Confederation shall pay restructuring contributions into the employee pension fund sufficient to eliminate the shortfall.
+
+<sup>2</sup> The restructuring contributions shall be requested as part of the subsequent federal budget process following presentation of the annual financial statements for the individual closed employee pension funds.
+
+[^24a-1]: Inserted by No I of the FA of 18 March 2022 (Restructuring of the Employee Pension Funds of Closed Portfolios of Pensioners), in force since 1 Jan. 2023 ([AS 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [BBl 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+[^24a-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 25
 
@@ -411,7 +424,7 @@ The amendments to current legislation are set forth in the Annex.
 Date of commencement: 1 July 2008[^29-1] Article 26 and Annex (Art. 32*e* (3) and Art. 41*a* para. 1 Federal Personnel Act): 1 May 2007[^29-2].
 
 [^29-1]: O of 7 Dec. 2007 ([AS 2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)).
-[^29-2]: FCD of 2 May 2007 (AS **2007** 2249).
+[^29-2]: FCD of 2 May 2007.
 
 Annex
 

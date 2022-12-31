@@ -3,11 +3,11 @@ sr: "172.222.1"
 title: Legge federale del 20 dicembre 2006 sulla Cassa pensioni della Confederazione (Legge su Publica)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: it
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2007-313-20120101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20120101/it"
 
 (Legge su PUBLICA)
 
-del 20 dicembre 2006 (Stato 1° gennaio 2012) (Stato 1° gennaio 2012)
+del 20 dicembre 2006 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -51,8 +51,8 @@ La presente legge regola l’organizzazione della Cassa pensioni della Confedera
 
 <sup>2</sup> Il Consiglio federale può conferire a PUBLICA altri compiti, nella misura in cui sussista un nesso materiale con l’ambito dei compiti previsto dalla presente legge. La Confederazione assume le spese che ne derivano.
 
-[^3-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 4
 
@@ -60,11 +60,11 @@ La presente legge regola l’organizzazione della Cassa pensioni della Confedera
 
 <sup>1</sup> Sono affiliati a PUBLICA i datori di lavoro di cui all’articolo 32*b* della legge del 24 marzo 2000[^4-1] sul personale federale (LPers).
 
-- [tab] <sup>2</sup> Possono inoltre affiliarsi a PUBLICA i datori di lavoro vicini alla Confederazione o che espletano compiti pubblici della Confederazione, di un Cantone o di un Comune. PUBLICA decide sull’affiliazione.
+<sup>2</sup> Possono inoltre affiliarsi a PUBLICA i datori di lavoro vicini alla Confederazione o che espletano compiti pubblici della Confederazione, di un Cantone o di un Comune. PUBLICA decide sull’affiliazione.
 
 <sup>3</sup> L’affiliazione di un datore di lavoro a PUBLICA si effettua per contratto. I regolamenti della previdenza come pure la fissazione delle spese amministrative costituiscono parte integrante dei contratti.
 
-[^4-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^4-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 5
 
@@ -72,7 +72,7 @@ La presente legge regola l’organizzazione della Cassa pensioni della Confedera
 
 PUBLICA è surrogata nei diritti dell’assicurato e dei suoi superstiti, fino a concorrenza delle prestazioni regolamentari, nei confronti di un terzo che risponde dell’evento assicurato. L’entità e la liquidazione del regresso sono disciplinate dagli articoli 72–75 della legge federale del 6 ottobre 2000[^5-1] sulla parte generale del diritto delle assicurazioni sociali (LPGA).
 
-[^5-1]: RS **830****.****1**
+[^5-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 6
 
@@ -148,7 +148,7 @@ PUBLICA dispone dei seguenti organi:
 - c. la direzione;
 - d. l’ufficio di controllo ai sensi dell’articolo 53 capoverso 1 LPP[^10-1].
 
-[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797). Questo art. è ora abrogato. Dal 1° gen. 2012 vedi art. 52*a* cpv. 1 LPP.
+[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094). Questo art. è ora abrogato. Dal 1° gen. 2012 vedi art. 52*a* cpv. 1 LPP.
 
 #### Art. 11
 
@@ -182,7 +182,7 @@ La Commissione della cassa emana segnatamente:
 - g. il regolamento modello della previdenza;
 - h. il contratto modello di affiliazione.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^11-2]: Nuovo testo giusta il n. I 2 della LF del 17 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6213](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
 
 #### Art. 12
@@ -201,7 +201,7 @@ La Commissione della cassa emana segnatamente:
 
 <sup>6</sup> La Commissione della cassa provvede alla propria costituzione. Può far capo a esperti e istituire comitati i cui membri possono anche non far parte della Commissione medesima.
 
-[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
@@ -225,7 +225,7 @@ La Commissione della cassa emana segnatamente:
 
 <sup>2</sup> La direzione e il rimanente personale di PUBLICA sottostanno alla LPers[^14-1]. Sono assicurati presso PUBLICA per la previdenza professionale.
 
-[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Sezione 4: Investimento del patrimonio e rendiconto
 
@@ -281,7 +281,7 @@ La Commissione della cassa definisce un’apposita strategia d’investimento pe
 
 <sup>4</sup> Gli assicurati i cui diritti sono disciplinati dall’articolo 71 capoverso 1 dell’ordinanza del 24 agosto 1994[^18-2] concernente la Cassa pensioni della Confederazione (Statuti della CPC) conservano questi diritti anche con la nuova legge. I rispettivi datori di lavoro rimborsano a PUBLICA il capitale di copertura che manca per il finanziamento delle prestazioni al momento del pensionamento. A tal fine, possono utilizzare le riserve dei propri contributi.
 
-[^18-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^18-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^18-2]: [[RU 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
 #### Art. 19
@@ -326,7 +326,7 @@ Fatto salvo il capoverso 2, si estinguono con effetto retroattivo tutte le garan
 
 <sup>2</sup> La garanzia della Confederazione ai sensi del capoverso 1 lettera c sussiste per casi giudiziari di particolare importanza finanziaria. Sono casi giudiziari di particolare importanza finanziaria le sentenze che richiedono l’adeguamento di rapporti assicurativi supplementari a causa del loro carattere pregiudiziale e che a causa dell’entità dei capitali di copertura mancanti o a causa del dispendio amministrativo causato a PUBLICA dall’adeguamento dei rapporti assicurativi arrecano a PUBLICA spese straordinariamente elevate.
 
-[^21-1]: [RS 172.222.034.1](https://fedlex.data.admin.ch/eli/cc/2001/340)
+[^21-1]: [RS 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
 
 #### Art. 22
 
@@ -350,7 +350,7 @@ Per finanziare le prime spese aziendali necessarie all’allestimento di PUBLICA
 
 <sup>6</sup> Con il versamento unico la Confederazione non assume obblighi di datore di lavoro nei confronti dell’effettivo di aventi diritto alle rendite secondo il capoverso 2, in particolare nemmeno nei confronti degli effettivi chiusi. Sono fatti salvi i suoi obblighi di datore di lavoro nei confronti dei suoi propri aventi diritto alle rendite (art. 32*b* cpv. 1 LPers[^23-1]).
 
-[^23-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^23-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 24
 
@@ -360,9 +360,22 @@ Per finanziare le prime spese aziendali necessarie all’allestimento di PUBLICA
 
 <sup>2</sup> Lo scioglimento di una cassa di previdenza di un effettivo chiuso di aventi diritto alle rendite si svolge secondo i principi della liquidazione globale. Un’eventuale eccedenza patrimoniale è ripartita fra le restanti casse di previdenza degli effettivi chiusi proporzionalmente ai loro capitali di copertura.
 
-<sup>3</sup> Se l’ultima cassa di previdenza degli effettivi chiusi di aventi diritto alle rendite non ha più aventi diritto alle rendite, gli eventuali fondi liberi rimasti dopo il suo scioglimento sono assegnati alla cassa di previdenza della Confederazione.
+<sup>3</sup> Se l’ultima cassa di previdenza degli effettivi chiusi di aventi diritto alle rendite non ha più aventi diritto alle rendite, gli eventuali fondi liberi rimasti dopo il suo scioglimento sono assegnati alla cassa di previdenza della Confederazione. Se la Confederazione ha precedentemente versato contributi di risanamento secondo l’articolo 24*a*, i fondi rimasti rifluiscono nel bilancio della Confederazione.[^24-1]
 
 <sup>4</sup> Il Consiglio federale può far sciogliere anticipatamente gli effettivi chiusi di aventi diritto alle rendite e trasferire nella sua cassa di previdenza i restanti aventi diritto, insieme con il capitale di copertura esistente. Anche in tal caso, gli ex datori di lavoro rimangono competenti per il finanziamento di un eventuale adeguamento straordinario al rincaro.
+
+[^24-1]: Per. introdotto dal n. I della LF del 18 mar. 2022 (Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite), in vigore dal 1° gen. 2023 ([RU 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+
+#### Art. 24a
+
+**Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite**[^24a-1]
+
+<sup>1</sup> Se dalla verifica attuariale di una cassa di previdenza di un effettivo chiuso di aventi diritto alle rendite risulta una copertura insufficiente ai sensi della LPP[^24a-2] pari al 5 per cento od oltre, la Confederazione versa alla cassa di previdenza contributi di risanamento fino all’eliminazione della copertura insufficiente.
+
+<sup>2</sup> I contributi di risanamento sono chiesti con il preventivo della Confederazione dell’anno successivo alla presentazione dei conti annuali delle singole casse di previdenza degli effettivi chiusi di aventi diritto alle rendite.
+
+[^24a-1]: Introdotto dal n. I della LF del 18 mar. 2022 (Risanamento delle casse di previdenza degli effettivi chiusi di aventi diritto alle rendite), in vigore dal 1° gen. 2023 ([RU 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+[^24a-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 25
 

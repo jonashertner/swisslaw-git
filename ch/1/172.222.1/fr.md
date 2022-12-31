@@ -4,22 +4,22 @@ title: "Loi fédérale du 20 décembre 2006 régissant la Caisse fédérale de p
 short: LPublica
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: fr
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-313-20120101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale régissant la Caisse fédérale de pensions**<sup>∗</sup>**
+# Loi fédérale régissant la Caisse fédérale de pensions\*
 
 (Loi relative à PUBLICA, LPUBLICA)[^t-1]
 
-du 20 décembre 2006 (Etat le 1<sup>er</sup> janvier 2012)
+du 20 décembre 2006 (État le 1<sup>er</sup> janvier 2023)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 113, al. 1, et 173, al. 2, de la Constitution[^ingress-1], vu le mes
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2005 5457](https://fedlex.data.admin.ch/eli/fga/2005/951)
 
 ## Section 1 Dispositions générales
@@ -54,8 +54,8 @@ La présente loi règle l’organisation de la Caisse fédérale de pensions (PU
 
 <sup>2</sup> Le Conseil fédéral peut confier d’autres tâches à PUBLICA dans la mesure où elles ont un rapport objectif avec le champ d’activité défini par la présente loi. La Confédération prend à sa charge les frais qui en résultent.
 
-[^3-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-2]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 4
 
@@ -67,7 +67,7 @@ La présente loi règle l’organisation de la Caisse fédérale de pensions (PU
 
 <sup>3</sup> L’affiliation s’effectue par la conclusion d’un contrat d’affiliation. Les règlements de prévoyance ainsi que la fixation des frais administratifs font partie intégrante de ce contrat.
 
-[^4-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^4-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 5
 
@@ -75,7 +75,7 @@ La présente loi règle l’organisation de la Caisse fédérale de pensions (PU
 
 PUBLICA est subrogée, jusqu’à concurrence des prestations réglementaires, aux droits de l’assuré et de ses survivants contre tout tiers responsable. Le règlement et l’étendue de la subrogation sont régis par les art. 72 à 75 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^5-1].
 
-[^5-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 6
 
@@ -151,7 +151,7 @@ Les organes de PUBLICA sont:
 - c. la direction;
 - d. l’organe de contrôle au sens de l’art. 53, al. 1, LPP[^10-1].
 
-[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797). Cet art. est actuellement abrogé. Depuis le 1<sup>er</sup> janv. 2012 voir art. 52*a*, al. 1, LPP.
+[^10-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094). Cet art. est actuellement abrogé. Depuis le 1<sup>er</sup> janv. 2012 voir art. 52*a*, al. 1, LPP.
 
 #### Art. 11
 
@@ -185,7 +185,7 @@ La commission arrête en particulier:
 - g. le règlement-type de prévoyance;
 - h. le contrat-type d’affiliation.
 
-[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^11-2]: Nouvelle teneur selon le ch. I 2 de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [FF 2010 6433](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
 
 #### Art. 12
@@ -204,7 +204,7 @@ La commission arrête en particulier:
 
 <sup>6</sup> La commission se constitue elle-même. Elle peut faire appel à des spécialistes et créer des comités, dont les membres ne sont pas tenus de siéger dans la commission.
 
-[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
@@ -228,7 +228,7 @@ La commission arrête en particulier:
 
 <sup>2</sup> La direction et le reste du personnel de PUBLICA sont soumis à la LPers[^14-1]. Ils sont assurés auprès de PUBLICA pour leur prévoyance professionnelle.
 
-[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Section 4 Placement de la fortune et présentation des comptes
 
@@ -276,15 +276,15 @@ La commission définit une stratégie de placement distincte pour:
 
 **Transfert des rapports de prévoyance**
 
-<sup>1</sup> A l’entrée en vigueur de la présente loi, la prestation de libre passage selon la LFLP[^18-1] est portée au crédit des assurés sous la forme d’un versement unique.
+<sup>1</sup> À l’entrée en vigueur de la présente loi, la prestation de libre passage selon la LFLP[^18-1] est portée au crédit des assurés sous la forme d’un versement unique.
 
-<sup>2</sup> A l’entrée en vigueur de la présente loi, un bilan d’ouverture est établi pour PUBLICA et pour chacune des caisses de prévoyance. Il indique les avoirs, les engagements, les réserves, les provisions et les fonds libres.
+<sup>2</sup> À l’entrée en vigueur de la présente loi, un bilan d’ouverture est établi pour PUBLICA et pour chacune des caisses de prévoyance. Il indique les avoirs, les engagements, les réserves, les provisions et les fonds libres.
 
 <sup>3</sup> Les rentes d’invalidité qui ont pris naissance sous l’ancien droit, ainsi que les suppléments réglementaires qui y sont liés sont repris tels quels. Si les conditions de prestations changent après le transfert, le droit aux prestations est évalué selon les dispositions en vigueur à ce moment-là.
 
 <sup>4</sup> Les assurés dont les droits sont régis par l’art. 71, al. 1, de l’ordonnance du 24 août 1994 régissant la Caisse fédérale de pensions (statuts de la CFP)[^18-2] conservent ces droits après l’entrée en vigueur du nouveau droit. Si la réserve mathématique ne suffit pas pour financer les prestations dues au moment du départ à la retraite, l’employeur concerné verse à PUBLICA le montant manquant. Il peut utiliser à cet effet ses réserves de cotisations patronales.
 
-[^18-1]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^18-1]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^18-2]: [[RO 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
 #### Art. 19
@@ -329,7 +329,7 @@ Sous réserve de l’al. 2, sont supprimées avec effet rétroactif les garantie
 
 <sup>2</sup> La garantie de la Confédération au sens de l’al. 1, let. c, continue de s’appliquer aux litiges d’une grande portée financière. Sont réputés tels les jugements qui, en raison de leur caractère de précédent, exigent l’adaptation des conditions d’assurance et qui, du fait du montant de la réserve mathématique manquante ou du travail généré au sein de PUBLICA par l’adaptation des conditions d’assurance, entraînent des frais extraordinairement élevés.
 
-[^21-1]: [RS 172.222.034.1](https://fedlex.data.admin.ch/eli/cc/2001/340)
+[^21-1]: [RS 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
 
 #### Art. 22
 
@@ -353,7 +353,7 @@ La Confédération verse à PUBLICA un montant unique de 10 millions de francs s
 
 <sup>6</sup> La Confédération n’assume du fait de ce versement unique aucune obligation d’employeur à l’égard de l’effectif des bénéficiaires de rentes au sens de l’al. 2, en particulier à l’égard des effectifs fermés de bénéficiaires de rentes. Ses obligations d’employeur à l’égard de ses propres bénéficiaires de rentes (art. 32*b*, al. 1, LPers[^23-1]) sont réservées.
 
-[^23-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^23-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 24
 
@@ -363,9 +363,22 @@ La Confédération verse à PUBLICA un montant unique de 10 millions de francs s
 
 <sup>2</sup> La dissolution de la caisse de prévoyance d’un effectif fermé de bénéficiaires de rentes est régie par les principes s’appliquant à la liquidation totale. L’excédent de fortune éventuel est réparti entre les caisses restantes au prorata de leur réserve technique.
 
-<sup>3</sup> Si la dernière caisse de prévoyance des effectifs fermés de bénéficiaires de rentes n’a plus de bénéficiaire de rentes et qu’il reste des fonds libres après sa dissolution, ceux-ci sont attribués à la caisse de prévoyance de la Confédération.
+<sup>3</sup> Si la dernière caisse de prévoyance des effectifs fermés de bénéficiaires de rentes n’a plus de bénéficiaire de rentes et qu’il reste des fonds libres après sa dissolution, ceux-ci sont attribués à la caisse de prévoyance de la Confédération. Si la Confédération a précédemment versé des contributions d’assainissement en vertu de l’art. 24*a*, les moyens restants retournent au budget de la Confédération.[^24-1]
 
 <sup>4</sup> Le Conseil fédéral peut dissoudre prématurément les effectifs fermés de bénéficiaires de rentes et transférer dans sa caisse de prévoyance les personnes restantes ainsi que la fortune de prévoyance disponible. Même dans ce cas, les anciens employeurs restent responsables du financement d’une éventuelle adaptation extraordinaire au renchérissement.
+
+[^24-1]: Phrase introduite par le ch. I de la LF du 18 mars 2022 (Assainissement des caisses de prévoyance des effectifs fermés de bénéficiaires de rentes), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+
+#### Art. 24a
+
+**Assainissement des caisses de prévoyance des effectifs fermés de bénéficiaires de rentes**[^24a-1]
+
+<sup>1</sup> Si les vérifications actuarielles font apparaître qu’une caisse de prévoyance à effectif fermé de bénéficiaires de rentes (caisse de prévoyance fermée) connaît un découvert au sens de la LPP[^24a-2] de 5 % ou plus, la Confédération lui verse des contributions d’assainissement jusqu’à ce que ce découvert ait été comblé.
+
+<sup>2</sup> Les contributions d’assainissement sont demandées dans le cadre du budget de la Confédération de l’année suivant la présentation des comptes annuels de chacune des caisses de prévoyance fermées.
+
+[^24a-1]: Introduit par le ch. I de la LF du 18 mars 2022 (Assainissement des caisses de prévoyance des effectifs fermés de bénéficiaires de rentes), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [FF 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+[^24a-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 25
 

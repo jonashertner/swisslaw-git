@@ -3,11 +3,11 @@ sr: "172.222.1"
 title: Bundesgesetz vom 20. Dezember 2006 über die Pensionskasse des Bundes (Publica-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/313"
 language: de
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-12-20
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2007-313-20120101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/313/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-313-20230101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/313/20120101/de"
 
 (PUBLICA-Gesetz)
 
-vom 20. Dezember 2006 (Stand am 1. Januar 2012)
+vom 20. Dezember 2006 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 113 Absatz 1 und 173 Absatz 2 der Bundesverfassung[^in
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2005 5829](https://fedlex.data.admin.ch/eli/fga/2005/951)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -51,8 +51,8 @@ Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (PUBLICA) und
 
 <sup>2</sup> Der Bundesrat kann PUBLICA weitere Aufgaben übertragen, soweit diese mit dem Aufgabenbereich nach diesem Gesetz in einem sachlichen Zusammenhang stehen. Der Bund trägt die entsprechenden Kosten.
 
-[^3-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^3-2]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^3-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 
 #### Art. 4
 
@@ -64,7 +64,7 @@ Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (PUBLICA) und
 
 <sup>3</sup> Der Anschluss eines Arbeitgebers an PUBLICA erfolgt über einen Anschlussvertrag. Die Vorsorgereglemente sowie die Festlegung der Verwaltungskosten sind Bestandteil der Anschlussverträge.
 
-[^4-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^4-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 5
 
@@ -72,7 +72,7 @@ Dieses Gesetz regelt die Organisation der Pensionskasse des Bundes (PUBLICA) und
 
 Gegenüber einem Dritten, der für den Versicherungsfall haftet, tritt PUBLICA bis auf die Höhe der reglementarischen Leistungen in die Ansprüche der versicherten Person und ihrer Hinterlassenen ein. Abwicklung und Umfang des Rückgriffs richten sich nach den Artikeln 72–75 des Bundesgesetzes vom 6. Oktober 2000[^5-1] über den allgemeinen Teil des Sozialversicherungsrechts (ATSG).
 
-[^5-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^5-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 6
 
@@ -148,7 +148,7 @@ PUBLICA verfügt über folgende Organe:
 - c. Direktion;
 - d. Revisionsstelle nach Artikel 53 Absatz 1 BVG[^10-1].
 
-[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^10-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094). Dieser Art. ist heute aufgehoben. Siehe seit dem 1. Jan. 2012: Art. 52*a* Abs. 1 BVG.
 
 #### Art. 11
 
@@ -182,7 +182,7 @@ Sie erlässt namentlich:
 - g. das Mustervorsorgereglement;
 - h. den Musteranschlussvertrag.
 
-[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^11-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^11-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5583](https://fedlex.data.admin.ch/eli/oc/2011/785); [BBl 2010 7059](https://fedlex.data.admin.ch/eli/fga/2010/1290)).
 
 #### Art. 12
@@ -201,7 +201,7 @@ Sie erlässt namentlich:
 
 <sup>6</sup> Die Kassenkommission konstituiert sich selbst. Sie kann Fachleute beiziehen und Ausschüsse einsetzen, deren Mitglieder nicht der Kassenkommission angehören müssen.
 
-[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^12-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 13
 
@@ -225,7 +225,7 @@ Sie erlässt namentlich:
 
 <sup>2</sup> Die Direktion und das übrige Personal von PUBLICA unterstehen dem BPG[^14-1]. Sie sind für die berufliche Vorsorge bei PUBLICA versichert.
 
-[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^14-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 4. Abschnitt: Vermögensanlage und Rechnungslegung
 
@@ -281,7 +281,7 @@ Die Kassenkommission bestimmt je eine eigene Anlagestrategie für:
 
 <sup>4</sup> Versicherte, deren Rechte durch Artikel 71 Absatz 1 der Verordnung vom 24. August 1994[^18-2] über die Pensionskasse des Bundes (PKB-Statuten) geregelt werden, behalten diese auch unter dem neuen Recht. Das für die Finanzierung der Leistungen im Zeitpunkt der Pensionierung fehlende Deckungskapital ist PUBLICA von den jeweiligen Arbeitgebern zu vergüten. Diese können dafür Arbeitgeberbeitragsreserven verwenden.
 
-[^18-1]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^18-1]: [SR 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
 [^18-2]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)]
 
 #### Art. 19
@@ -296,7 +296,7 @@ Die Kassenkommission bestimmt je eine eigene Anlagestrategie für:
 
 <sup>4</sup> Die vor dem 1. Juni 2003 aus der PKB ausgetretenen Arbeitgeber, bei denen während der Geltungsdauer der PKB-Statuten kein eingefrorener Fehlbetragsanteil festgelegt wurde, schulden über den beim Austritt gestützt auf Artikel 59 Absatz 3 der PKB-Statuten berechneten und fällig gewordenen Fehlbetrag hinaus keinen zusätzlichen Fehlbetrag. Vorbehalten bleiben spezialrechtliche Normen, welche die Übernahme des fehlenden Deckungskapitals durch den Arbeitgeber vorsehen.
 
-[^19-1]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533)[3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705), **1999** 2451. [AS 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)Art. 1]
+[^19-1]: [[AS 1995 533](https://fedlex.data.admin.ch/eli/oc/1995/533_533_533), [3705](https://fedlex.data.admin.ch/eli/oc/1995/3705_3705_3705); **1999** 2451. [AS 2004 301](https://fedlex.data.admin.ch/eli/oc/2004/14)Art. 1]
 
 #### Art. 20
 
@@ -326,7 +326,7 @@ Rückwirkend erlöschen unter Vorbehalt von Absatz 2 alle Garantien gemäss Erö
 
 <sup>2</sup> Die Bundesgarantie nach Absatz 1 Buchstabe c bleibt für Gerichtsfälle von besonderer finanzieller Tragweite bestehen. Als Gerichtsfall mit besonderer finanzieller Tragweite gilt ein Urteil, das auf Grund seines präjudiziellen Charakters die Anpassung zusätzlicher Versicherungsverhältnisse erfordert und das wegen der Höhe der fehlenden Deckungskapitalien oder wegen des für PUBLICA aus der Anpassung der Versicherungsverhältnisse entstehenden Bearbeitungsaufwandes ausserordentlich hohe Kosten verursacht.
 
-[^21-1]: [SR 172.222.034.1](https://fedlex.data.admin.ch/eli/cc/2001/340)
+[^21-1]: [SR 172.222.034.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5514)
 
 #### Art. 22
 
@@ -350,7 +350,7 @@ Zur Finanzierung der betrieblich notwendigen Erstaufwendungen für die Errichtun
 
 <sup>6</sup> Mit der Einmaleinlage übernimmt der Bund gegenüber dem Rentnerbestand nach Absatz 2, insbesondere auch gegenüber den geschlossenen Rentnerbeständen, keine Arbeitgeberpflichten. Vorbehalten bleiben seine Verpflichtungen als Arbeitgeber gegenüber seinen eigenen Rentnerinnen und Rentnern (Art. 32*b* Abs. 1 BPG[^23-1]).
 
-[^23-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^23-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 24
 
@@ -360,9 +360,22 @@ Zur Finanzierung der betrieblich notwendigen Erstaufwendungen für die Errichtun
 
 <sup>2</sup> Die Auflösung eines Vorsorgewerks eines geschlossenen Rentnerbestandes richtet sich nach den Grundsätzen der Gesamtliquidation. Ein allfälliger Vermögensüberschuss wird auf die verbleibenden Vorsorgewerke der geschlossenen Rentnerbestände anteilsmässig zu ihren Deckungskapitalien verteilt*.*
 
-<sup>3</sup> Hat das letzte Vorsorgewerk der geschlossenen Rentnerbestände keine Rentnerinnen und Rentner mehr und verbleiben nach seiner Auflösung freie Mittel, so werden diese dem Vorsorgewerk Bund zugewiesen.
+<sup>3</sup> Hat das letzte Vorsorgewerk der geschlossenen Rentnerbestände keine Rentnerinnen und Rentner mehr und verbleiben nach seiner Auflösung freie Mittel, so werden diese dem Vorsorgewerk Bund zugewiesen. Hat der Bund zuvor Sanierungsbeiträge nach Artikel 24*a* geleistet, so fliessen die verbleibenden Mittel zurück in den Bundeshaushalt.[^24-1]
 
 <sup>4</sup> Der Bundesrat kann die geschlossenen Rentnerbestände vorzeitig auflösen lassen und die verbleibenden Rentnerinnen und Rentner zusammen mit dem vorhandenen Vorsorgevermögen in sein Vorsorgewerk überführen. Die ehemaligen Arbeitgeber bleiben auch in diesem Fall zur Finanzierung einer allfälligen ausserordentlichen Teuerungsanpassung zuständig.
+
+[^24-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 18. März 2022 (Sanierung der Vorsorgewerke der geschlossenen Rentnerbestände), in Kraft seit 1. Jan. 2023 ([AS 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [BBl 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+
+#### Art. 24a
+
+**Sanierung der Vorsorgewerke der geschlossenen Rentnerbestände**[^24a-1]
+
+<sup>1</sup> Ergibt die versicherungstechnische Überprüfung eines Vorsorgewerks mit einem geschlossenen Rentnerbestand (geschlossenes Vorsorgewerk) eine Unterdeckung im Sinne des BVG[^24a-2] von 5 oder mehr Prozent, so richtet der Bund dem Vorsorgewerk Sanierungsbeiträge aus, bis die Unterdeckung beseitigt ist.
+
+<sup>2</sup> Die Sanierungsbeiträge werden nach Vorliegen der Jahresabschlüsse der einzelnen geschlossenen Vorsorgewerke mit dem darauffolgenden Voranschlag des Bundes beantragt.
+
+[^24a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022 (Sanierung der Vorsorgewerke der geschlossenen Rentnerbestände), in Kraft seit 1. Jan. 2023 ([AS 2022 524](https://fedlex.data.admin.ch/eli/oc/2022/524); [BBl 2021 1582](https://fedlex.data.admin.ch/eli/fga/2021/1582)).
+[^24a-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 25
 
@@ -380,7 +393,7 @@ Alle aktiven Versicherten, die im Zeitpunkt des Inkrafttretens dieses Gesetzes d
 
 <sup>3</sup> Die bisherige Kassenkommission nach PKB-Gesetz vom 23. Juni 2000[^26-1] trifft vor dem Inkrafttreten dieses Gesetzes die notwendigen Entscheide. Die Kassenkommission nach diesem Gesetz ist innert eines Jahres nach Inkrafttreten dieses Gesetzes zu bestellen. Bis sie bestellt ist, nimmt die bisherige Kassenkommission die Aufgaben nach Artikel 11 dieses Gesetzes wahr.
 
-[^26-1]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
+[^26-1]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107); [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 13; [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -390,7 +403,7 @@ Alle aktiven Versicherten, die im Zeitpunkt des Inkrafttretens dieses Gesetzes d
 
 Das PKB-Gesetz vom 23. Juni 2000[^27-1] wird aufgehoben.
 
-[^27-1]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 13, [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
+[^27-1]: [[AS 2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107); [2004 5265](https://fedlex.data.admin.ch/eli/oc/2004/809); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 13; [2007 2821](https://fedlex.data.admin.ch/eli/oc/2007/369)]
 
 #### Art. 28
 
