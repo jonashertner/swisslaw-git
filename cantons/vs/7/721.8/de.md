@@ -4,13 +4,13 @@ number: "721.8"
 title: Gesetz über die Nutzbarmachung der Wasserkräfte
 short: kWRG
 language: de
-version: 2018-01-01
-corrected: 2018-09-24
-version_adopted: 2016-11-10
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 1990-03-28
 in_force: 1991-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/721.8"
-pdf: "https://lex.vs.ch/api/de/versions/2116/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3378/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2116/pdf_file"
 
 (kWRG)
 
-vom 28.03.1990 (Stand 01.01.2018)
+vom 28.03.1990 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -747,7 +747,7 @@ beschliesst:
 
 **5. Erweiterungs- und Modernisierungsinvestitionen**
 
-<sup>1</sup> Modernisierungsinvestitionen, welche die Verbesserung der Energiequalität oder der Energieproduktion zum Inhalt haben und innerhalb der zweiten Hälfte der Konzessionsdauer mit der Zustimmung des verfügungsberechtigten GErweiterungs- und Modernisierungsinvestitionen, welche die Verbesserung der Energiequalität oder der Energieproduktion zum Inhalt haben und mit der Zustimmung des verfügungsberechtigten Gemeinwesens verwirklicht wurden, sind dem Konzessionär im Rahmen der Ausübung des Heimfalls zu vergüten.emeinwesens verwirklicht wurden, sind dem Konzessionär im Rahmen der Ausübung des Heimfalls zu vergüten.
+<sup>1</sup> Erweiterungs- und Modernisierungsinvestitionen, welche die Verbesserung der Energiequalität oder der Energieproduktion zum Inhalt haben und mit der Zustimmung des verfügungsberechtigten Gemeinwesens verwirklicht wurden, sind dem Konzessionär im Rahmen der Ausübung des Heimfalls zu vergüten.
 
 <sup>2</sup> Die Vergütung bezieht sich nur auf Anlagen, die unentgeltlich heimfallen, und entspricht höchstens dem Restwert der Investitionen bei einer branchenüblichen Abschreibung unter Berücksichtigung der Veränderung des Geldwerts.
 
@@ -820,6 +820,10 @@ beschliesst:
 
 <sup>3</sup> Für die vom Bund beanspruchten Wasserkräfte ist der Maximalwasserzins derjenige, welcher im Bundesgesetz über die Nutzbarmachung der Wasserkräfte festgelegt ist.
 
+<sup>4</sup> Wenn ein Betrieb des Bundes im Sinne von Artikel 12 WRG der besonderen Wasserkraftsteuer unterworfen ist, entspricht der kommunale Wasserzins 40 Prozent des in Artikel 49 Absatz 1 WRG vorgesehenen maximalen Wasserzinses, um dem Kanton die Erhebung der besonderen Steuer zu ermöglichen.
+
+<sup>5</sup> Falls besagter Betrieb von der besonderen Wasserkraftsteuer befreit ist, bezahlt die verfügungsberechtigte Gemeinde dem Kanton 60 Prozent des maximalen Wasserzinses.
+
 #### Art. 66
 
 **Berechnung der Bruttoleistung**
@@ -882,6 +886,8 @@ beschliesst:
 
 <sup>3</sup> Dieser Fonds kann auch in Form von finanziellen Beiträgen, Beiträgen à fonds perdu, zinslosen oder anderweitig günstigen Darlehen zur Erfüllung der für die WEG in Artikel 2 des Gesetzes über die Walliser Elektrizitätsgesellschaft festgelegten Ziele verwendet werden.
 
+<sup>3<sup>bis</sup></sup> Bis 2035 kann dieser Fonds auch zur Finanzierung der im kantonalen Energiegesetz vorgesehenen Finanzhilfen und Fördermassnahmen verwendet werden, sofern der Saldo des Fonds 150 Millionen Franken beträgt.
+
 <sup>4</sup> Falls die ordentlichen Mittel des Finanzierungsfonds nicht zur Deckung des Bedarfs der WEG ausreichen, kann der Staatsrat dem Fonds Vorschüsse in Form von Darlehen gewähren.
 
 #### Art. 70a
@@ -918,7 +924,7 @@ beschliesst:
 
 **Verteilung der Bundesentschädigung infolge Steuerausfalls**
 
-<sup>1</sup> Die Entschädigung, die der Bund dem Kanton für die Beanspruchung von Wasserkräften als Ausgleich des Ausfalles an kantonalen und kommunalen Steuern zu entrichten hat, fällt zur Hälfte dem Kanton zu. Die andere Hälfte wird unter den Gemeinden, auf deren Gebiet sich die Anlagen befinden, in einem Verhältnis verteilt, nach welchem sie vom Werk Steuern erheben würden, wenn dieses davon nicht befreit wäre.
+<sup>1</sup> Die Entschädigung, die der Bund dem Kanton als Ausgleich für den Ausfall an kantonalen und kommunalen Steuern (Art. 14 WRG) bezahlt, fällt zu 40 Prozent an den Kanton; die verbleibenden 60 Prozent werden aufgeteilt unter den Gemeinden, auf deren Gebiet der Bund Wasserkräfte in Anspruch nimmt. Der Anteil jeder Gemeinde wird im Verhältnis zur nutzbaren Wasserkraft bestimmt.
 
 #### Art. 73
 
