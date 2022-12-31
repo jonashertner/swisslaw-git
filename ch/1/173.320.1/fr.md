@@ -4,11 +4,11 @@ title: Règlement du 17 avril 2008 du Tribunal administratif fédéral (RTAF)
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-320-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/fr"
 
 (RTAF)
 
-du 17 avril 2008 (Etat le 1<sup>er</sup> juillet 2022)
+du 17 avril 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Tribunal administratif fédéral,
 
@@ -230,7 +230,7 @@ La Conférence des présidents est notamment compétente pour:
 
 <sup>4</sup> La Conférence des présidents peut déléguer une affaire à un ou plusieurs de ses membres, ou au secrétariat général.
 
-### Section 4*a***** Présidence de cour
+### Section 4*a* Présidence de cour
 
 [^chap1-sec4a-1]
 
@@ -279,7 +279,7 @@ Le secrétaire général dirige l’administration du tribunal, y compris les se
 [^15-1]: Nouvelle teneur selon le ch. I de la D du TAF du 23 mars 2021, en vigueur depuis le 1<sup>er</sup> jan. 2021 ([RO 2021 629](https://fedlex.data.admin.ch/eli/oc/2021/629)).
 [^15-2]: [RS 173.320.4](https://fedlex.data.admin.ch/eli/cc/2008/323)
 
-### Section 6 Organes de conciliation****
+### Section 6 Organes de conciliation
 
 [^chap1-sec6-1]
 
@@ -486,6 +486,10 @@ Les présidents de chambre sont compétents pour:
 
 <sup>3</sup> L’autorisation ne peut être accordée que si l’activité, compte tenu du temps nécessaire à son exécution, n’empêche pas le juge de se consacrer pleinement à sa fonction. Les règles concernant l’incompatibilité (art. 6 LTAF) doivent dans tous les cas être respectées.
 
+<sup>4</sup> Le juge engagé à plein temps exerçant une activité en dehors du tribunal est tenu de remettre au tribunal les indemnités, y compris les dépens, qui lui sont versées à ce titre dès lors que le montant total dépasse 10 000 francs par année calendaire.[^28-1]
+
+[^28-1]: Introduit par le ch. I de la D du TAF du 30 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 501](https://fedlex.data.admin.ch/eli/oc/2022/501)).
+
 ### Section 4 Greffiers
 
 #### Art. 29
@@ -633,7 +637,7 @@ Il peut être dérogé à la clé de répartition prévue à l’art. 31, al. 3,
 
 Le présent règlement entre en vigueur le 1<sup>er</sup> juin 2008.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 23, al. 6)
 

@@ -4,11 +4,11 @@ title: Regolamento del 17 aprile 2008 del Tribunale amministrativo federale (RTA
 short: RTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/it"
 
 (RTAF)
 
-del 17 aprile 2008 (Stato 1° luglio 2022)
+del 17 aprile 2008 (Stato 1° gennaio 2023)
 
 Il Tribunale amministrativo federale,
 
@@ -230,7 +230,7 @@ La Conferenza dei presidenti è segnatamente competente per:
 
 <sup>4</sup> La Conferenza dei presidenti può delegare singoli affari a uno o più dei suoi membri o al segretariato generale.
 
-### Sezione 4*a*:**** Presidenza di corte
+### Sezione 4*a*: Presidenza di corte
 
 [^chap1-sec4a-1]
 
@@ -279,7 +279,7 @@ Il segretario generale dirige l’amministrazione del Tribunale, ivi inclusi i s
 [^15-1]: Nuovo testo giusta il n. I della Dec. del TAF del 23 mar. 2021, in vigore dal 1° gen. 2021 ([RU 2021 629](https://fedlex.data.admin.ch/eli/oc/2021/629)).
 [^15-2]: [RS 173.320.4](https://fedlex.data.admin.ch/eli/cc/2008/323)
 
-### Sezione 6: Organi di conciliazione****
+### Sezione 6: Organi di conciliazione
 
 [^chap1-sec6-1]
 
@@ -486,6 +486,10 @@ I presidenti di camera sono competenti per:
 
 <sup>3</sup> L’autorizzazione può essere rilasciata soltanto se l’attività, conto tenuto del tempo necessario al suo adempimento, non impedisce al giudice di dedicarsi pienamente ai suoi doveri d’ufficio. In ogni caso, devono essere rispettate le regole sull’incompatibilità (art. 6 LTAF).
 
+<sup>4</sup> Se un giudice a tempo pieno percepisce un’indennità per le attività al di fuori del Tribunale il cui totale, rimborso spese incluso, supera 10 000 franchi per anno civile, deve versare alla cassa del Tribunale l’importo che supera tale soglia.[^28-1]
+
+[^28-1]: Introdotto dal n. I della Dec. del TAF del 30 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 501](https://fedlex.data.admin.ch/eli/oc/2022/501)).
+
 ### Sezione 4: Cancellieri
 
 #### Art. 29
@@ -598,7 +602,7 @@ I giudici, i cancellieri e i rappresentanti delle parti assistono alle udienze p
 
 <sup>1</sup> Il regolamento del Tribunale amministrativo federale dell’11 dicembre 2006[^38-1] è abrogato.
 
-<sup>2</sup> …[^38-2]
+<sup>2</sup> ...[^38-2]
 
 [^38-1]: [[RU 2006 5287](https://fedlex.data.admin.ch/eli/oc/2006/799)]
 [^38-2]: La mod. può essere consultata alla [RU 2008 2189](https://fedlex.data.admin.ch/eli/oc/2008/320).
@@ -633,7 +637,7 @@ L’attribuzione dei giudici alle Corti da parte della Commissione giudiziaria c
 
 Il presente regolamento entra in vigore il 1° giugno 2008.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 23 cpv. 6)
 

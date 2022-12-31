@@ -4,11 +4,11 @@ title: Geschäftsreglement vom 17. April 2008 für das Bundesverwaltungsgericht 
 short: VGR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/320"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2008-04-17
 in_force: 2008-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/320/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-320-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/320/20220701/de"
 
 (VGR)
 
-Vom 17. April 2008 (Stand am 1. Juli 2022)
+Vom 17. April 2008 (Stand am 1. Januar 2023)
 
 Das Bundesverwaltungsgericht (BVGer),
 
@@ -230,7 +230,7 @@ Die Präsidentenkonferenz ist insbesondere zuständig für:
 
 <sup>4</sup> Die Präsidentenkonferenz kann Geschäfte an eines oder mehrere ihrer Mitglieder oder an das Generalsekretariat delegieren.
 
-### 4*a*. Abschnitt:**** Abteilungspräsidium
+### 4*a*. Abschnitt: Abteilungspräsidium
 
 [^chap1-sec4a-1]
 
@@ -279,7 +279,7 @@ Der Generalsekretär oder die Generalsekretärin steht der Gerichtsverwaltung ei
 [^15-1]: Fassung gemäss Ziff. I des Beschlusses des BVGer vom 23. März 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 629](https://fedlex.data.admin.ch/eli/oc/2021/629)).
 [^15-2]: [SR 173.320.4](https://fedlex.data.admin.ch/eli/cc/2008/323)
 
-### 6. Abschnitt: Schlichtungsbehörden****
+### 6. Abschnitt: Schlichtungsbehörden
 
 [^chap1-sec6-1]
 
@@ -486,6 +486,10 @@ Die Kammerpräsidenten und Kammerpräsidentinnen sind zuständig für:
 
 <sup>3</sup> Die Bewilligung kann nur erteilt werden, wenn der Richter oder die Richterin in zeitlicher Hinsicht nicht an der uneingeschränkten Erfüllung der Amtspflicht gehindert wird. Die Regeln über die Unvereinbarkeit (Art. 6 VGG) sind in jedem Fall zu beachten.
 
+<sup>4</sup> Erhält ein Richter oder eine Richterin mit einem Vollpensum für Beschäftigungen ausserhalb des Gerichts Entschädigungen und übersteigt die Gesamtheit dieser Entschädigungen, den Ersatz von Auslagen eingeschlossen, 10 000 Franken pro Kalenderjahr, so ist er oder sie verpflichtet, den überschiessenden Betrag der Gerichtskasse abzuliefern.[^28-1]
+
+[^28-1]: Eingefügt durch Ziff. I des Beschlusses des BVGer vom 30. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 501](https://fedlex.data.admin.ch/eli/oc/2022/501)).
+
 ### 4. Abschnitt: Gerichtsschreiber und Gerichtsschreiberinnen
 
 #### Art. 29
@@ -633,7 +637,7 @@ Bei der Zuteilung der Geschäfte, die das Bundesverwaltungsgericht gemäss Artik
 
 Dieses Reglement tritt am 1. Juni 2008 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 23 Abs. 6)
 
