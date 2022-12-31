@@ -4,11 +4,11 @@ title: "Ordinanza del DEFR del 9 dicembre 2013 concernente l'ordinanza sulla pro
 short: O-LPRI-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/815"
 language: it
-version: 2018-08-01
+version: 2023-01-01
 adopted: 2013-12-09
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/815/20180801/it/xml/fedlex-data-admin-ch-eli-cc-2013-815-20180801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/815/20180801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/815/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-815-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/815/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/815/20180801/it"
 
 (O-LPRI-DEFR)
 
-del 9 dicembre 2013 (Stato 1° agosto 2018) (Stato 1° agosto 2018)
+del 9 dicembre 2013 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
-visti gli articoli 9, 19, 20 capoverso 3, 42 capoverso 3 e 52 capoverso 5 dell’ordinanza del 29 novembre 2013[^ingress-1] sulla promozione della ricerca e dell’innovazione (O-LPRI); visto l’articolo 17 capoverso 2 dell’ordinanza del 12 settembre 2014[^ingress-2] sulle misure per la partecipazione della Svizzera ai programmi quadro dell’Unione europea nel settore della ricerca e dell’innovazione,[^ingress-3]
+visti gli articoli 9, 19, 20 capoverso 3, 42 capoverso 3 e 52 capoverso 5 dell’ordinanza del 29 novembre 2013[^ingress-1] sulla promozione della ricerca e dell’innovazione (O-LPRI); visto l’articolo 17 capoverso 2 dell’ordinanza del 20 gennaio 2021[^ingress-2] sulle misure per la partecipazione della Svizzera ai programmi dell’Unione europea nel settore della ricerca e dell’innovazione,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 420.11](https://fedlex.data.admin.ch/eli/cc/2013/814)
 [^ingress-2]: [RS 420.126](https://fedlex.data.admin.ch/eli/cc/2021/72)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del DEFR del 19 giu. 2018, in vigore dal 1° ago. 2018 ([RU 2018 2561](https://fedlex.data.admin.ch/eli/oc/2018/379)).
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 ## Capitolo 1: Programmi di promozione
 
@@ -41,28 +41,31 @@ ordina:
 
 <sup>2</sup> Gli schizzi illustrano gli scopi principali della proposta tematica e la motivano, segnatamente in riferimento agli obiettivi del PNR.
 
-<sup>3</sup> La SEFRI pubblica su Internet[^1-1] gli altri requisiti al momento della messa a concorso delle proposte per la selezione.[^1-2]
+<sup>3</sup> La SEFRI pubblica su Internet[^1-1] i termini e i requisiti per la presentazione delle proposte.[^1-2]
 
-<sup>4</sup> Informa periodicamente le cerchie interessate sulle selezioni in corso e su quelle future. Pubblica su Internet il termine per la presentazione di nuove proposte per la selezione in corso.[^1-3]
+<sup>4</sup> ...[^1-3]
 
 <sup>5</sup> Una nuova selezione sarà avviata soltanto una volta conclusa quella precedente. Una selezione è considerata conclusa quando il Consiglio federale ha preso una decisione in merito alla realizzazione di nuovi PNR.
 
-[^1-1]: www.sbfi.admin.ch
-[^1-2]: Nuovo testo giusta il n. I dell’O del DEFR del 19 giu. 2018, in vigore dal 1° ago. 2018 ([RU 2018 2561](https://fedlex.data.admin.ch/eli/oc/2018/379)).
-[^1-3]: Nuovo testo giusta il n. I dell’O del DEFR del 19 giu. 2018, in vigore dal 1° ago. 2018 ([RU 2018 2561](https://fedlex.data.admin.ch/eli/oc/2018/379)).
+[^1-1]: [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Ricerca e innovazione &gt; Strumenti di promozione &gt; Programmi nazionali di ricerca
+[^1-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^1-3]: Abrogato dal n. I dell’O del DEFR del 7 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 2
 
 **Selezione delle proposte presentate, proposte di programma della SEFRI**
 
-<sup>1</sup> Per ogni selezione la SEFRI predispone un elenco delle priorità delle proposte tematiche. Su questa base elabora, a titolo indicativo, cinque brevi proposte di programma.
+<sup>1</sup> Per ogni selezione la SEFRI predispone un elenco delle priorità delle proposte tematiche. Su questa base elabora alcune proposte di programma.[^2-1]
 
 <sup>2</sup>
 
 Ogni proposta di programma illustra:
 
-- a. le questioni e le problematiche prioritarie sulle quali ci si aspetta dalla scienza un contributo utile per la pratica (mandato di ricerca);
+- a.[^2-2] le questioni e le problematiche prioritarie sulle quali ci si aspetta dalla scienza un nuovo contributo utile per la pratica (mandato di ricerca);
 - b. gli aspetti principali quali la struttura del programma, la ponderazione delle questioni e delle problematiche da affrontare, il quadro finanziario e il calendario previsti.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 3
 
@@ -73,18 +76,33 @@ Ogni proposta di programma illustra:
 Il Fondo nazionale svizzero (FNS) verifica la fattibilità delle proposte di programma, segnatamente:
 
 - a. se la scienza può fornire un contributo rilevante e orientato alla pratica per la risoluzione delle problematiche;
-- b. qual è il potenziale di ricerca disponibile o attivabile in Svizzera;
+- b.[^3-2] se il potenziale di ricerca necessario è disponibile o attivabile in Svizzera;
 - c. se il tema è già stato studiato nel contesto nazionale o internazionale;
 - d. se lo strumento dei PNR nel suo complesso si presta ad essere elaborato in considerazione del quadro finanziario e del calendario previsti.
 
-<sup>2</sup> ...[^3-2]
+<sup>2</sup> ...[^3-3]
 
 <sup>3</sup> Se dalla verifica della fattibilità emerge che una proposta di programma non è idonea a uno studio scientifico nel quadro di un PNR, il FNS presenta alla SEFRI un breve rapporto in cui illustra la situazione.
 
 <sup>4</sup> In base al rapporto la SEFRI decide se la proposta di programma deve essere respinta o presentata in una forma diversa.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 ott. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3567](https://fedlex.data.admin.ch/eli/oc/2016/599)).
-[^3-2]: Abrogato dal n. I dell’O del DEFR dell’11 ott. 2016, con effetto dal 1° nov. 2016 ([RU 2016 3567](https://fedlex.data.admin.ch/eli/oc/2016/599)).
+[^3-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^3-3]: Abrogato dal n. I dell’O del DEFR dell’11 ott. 2016, con effetto dal 1° nov. 2016 ([RU 2016 3567](https://fedlex.data.admin.ch/eli/oc/2016/599)).
+
+#### Art. 3a
+
+**Elaborazione dei concetti di programma da parte del FNS**[^3a-1]
+
+Sulla base dei risultati dello studio di fattibilità, per le proposte considerate realizzabili il FNS formula nel concetto di programma il mandato di ricerca sotto forma di quesiti e problematiche da elaborare scientificamente. Tiene conto dei seguenti elementi principali dell’eventuale programma:
+
+- a. gli obiettivi e le priorità;
+- b. la durata delle ricerche correlate;
+- c. la ripartizione sommaria dei mezzi finanziari per le singole priorità;
+- d. l’ambiente di ricerca nazionale e internazionale;
+- e. i destinatari e l’utilità pratica.
+
+[^3a-1]: Introdotto dal n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 4
 
@@ -92,9 +110,10 @@ Il Fondo nazionale svizzero (FNS) verifica la fattibilità delle proposte di pro
 
 <sup>1</sup> Nel valutare i concetti di programma i servizi federali rappresentati nel Comitato interdipartimentale di coordinamento della ricerca del settore pubblico considerano segnatamente i progetti di ricerca in base agli ambiti politici e verificano se i programmi proposti possono contribuire ad assolvere compiti della Confederazione.
 
-<sup>2</sup> La SEFRI può chiedere il parere delle cerchie interessate a livello politico e sociale, segnatamente dei Cantoni, delle organizzazioni non governative e delle associazioni di categoria. Il numero degli enti consultati si basa sui requisiti dei concetti di programma.
+<sup>2</sup> La SEFRI può chiedere il parere delle cerchie interessate a livello politico e sociale, segnatamente dei Cantoni, delle organizzazioni non governative e delle associazioni di categoria.[^4-2]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 ott. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3567](https://fedlex.data.admin.ch/eli/oc/2016/599)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 5
 
@@ -102,11 +121,16 @@ Il Fondo nazionale svizzero (FNS) verifica la fattibilità delle proposte di pro
 
 <sup>1</sup> Il FNS allestisce uno studio di fattibilità entro al massimo tre mesi.
 
-<sup>2</sup> Una volta disponibili gli studi di fattibilità, il termine per l’elaborazione dei concetti di programma da parte del FNS è di sei – nove mesi. In singoli casi, la SEFRI stabilisce il termine esatto d’intesa con il FNS.
+<sup>2</sup> Una volta disponibili gli studi di fattibilità, il termine per l’elaborazione dei concetti di programma da parte del FNS è di nove mesi al massimo.[^5-2]
 
-<sup>3</sup> Dopo la decisione del Consiglio federale il FNS sottopone per approvazione alla SEFRI la documentazione del bando di concorso entro quattro mesi.
+<sup>3</sup> Dopo la decisione del Consiglio federale il FNS sottopone per approvazione alla SEFRI la documentazione del bando di concorso entro quattro mesi al massimo.[^5-3]
+
+<sup>4</sup> In singoli casi, la SEFRI stabilisce i termini esatti d’intesa con il FNS.[^5-4]
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 ott. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3567](https://fedlex.data.admin.ch/eli/oc/2016/599)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^5-3]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^5-4]: Introdotto dal n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 6
 
@@ -133,10 +157,13 @@ Quando è bandito un concorso per nuovi poli di ricerca nazionali (PRN) la SEFRI
 - a. le disposizioni generali e specifiche della Confederazione;
 - b. il quadro finanziario generale, la durata e il numero massimo di PRN che possono essere approvati nell’ambito del rispettivo bando;
 - c. la procedura con le relative scadenze e le competenze attribuite nella procedura di selezione e di decisione;
-- d. i requisiti formali e materiali per la presentazione degli schizzi e delle domande di PRN, in particolare la lettera ufficiale che attesta il finanziamento delle istituzioni ospitanti coinvolte; e
+- d. i requisiti formali e materiali per la presentazione degli schizzi e delle domande di PRN, in particolare la lettera ufficiale che attesta il finanziamento delle istituzioni ospitanti coinvolte;
+- d<sup>bis</sup>.[^7-1] il requisito di presentare soltanto schizzi e domande supportati nella pianificazione strategica dell’istituzione ospitante o che vi saranno inclusi in un secondo momento; e
 - e. i criteri di selezione.
 
 <sup>2</sup> I bandi di concorso sono pubblicati periodicamente su mandato della SEFRI.
+
+[^7-1]: Introdotta dal n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 8
 
@@ -149,9 +176,9 @@ Per l’esame scientifico e strutturale dei progetti il FNS applica principalmen
 - a. la rilevanza strategica del tema per il sistema della ricerca svizzero;
 - b. la qualità scientifica dell’insieme del progetto di ricerca e dei sottoprogetti, compreso i potenziale d’incremento dell’interdisciplinarità, di nuovi approcci e metodi scientifici all’interno delle discipline o la collaborazione in nuovi ambiti di ricerca;
 - c. la massa critica e il valore aggiunto del PRN rispetto alla somma dei singoli progetti;
-- d. la plausibilità di obiettivi e misure riguardo al trasferimento di sapere e di tecnologie e alla promozione delle nuove leve e delle donne;
+- d.[^8-1] la plausibilità di obiettivi e misure riguardo al trasferimento di sapere e di tecnologie e alla promozione delle nuove leve e delle pari opportunità;
 - e. l’idoneità scientifica dei partecipanti principali;
-- f. la qualità della gestione del PRN e l’idoneità del responsabile del PRN;
+- f.[^8-2] la qualità della gestione del PRN e l’idoneità del responsabile del PRN e del suo sostituto;
 - g. l’adeguatezza del finanziamento richiesto e la dotazione dei fondi di terzi;
 - h. l’idoneità delle istituzioni ospitanti.
 
@@ -165,21 +192,26 @@ Nell’esame dei progetti sotto il profilo della politica della ricerca e della 
 - d. la conformità con gli obiettivi della politica della Confederazione in materia di ricerca;
 - e. l’inclusione nei progetti di cooperazione internazionali e gli sforzi di cooperazione compiuti dalla Svizzera sul piano istituzionale.
 
+[^8-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+
 #### Art. 9
 
 **Procedura per gli schizzi**
 
-<sup>1</sup> I potenziali responsabili di un PRN devono presentare al FNS gli schizzi di PRN conformemente ai requisiti stabiliti nel bando di concorso.
+<sup>1</sup> I responsabili designati di un PRN devono presentare al FNS gli schizzi di PRN conformemente ai requisiti stabiliti nel bando di concorso.[^9-1]
 
 <sup>2</sup> Il FNS informa la SEFRI degli schizzi presentati entro i termini.
 
 <sup>3</sup> Effettua la valutazione scientifica e strutturale in base ai criteri stabiliti nell’articolo 8 e secondo le procedure previste dal rispettivo bando di concorso.
 
-<sup>4</sup> ...[^9-1]
+<sup>4</sup> ...[^9-2]
 
-<sup>5</sup> Comunica l’esito della valutazione ai potenziali responsabili di un PRN.
+<sup>5</sup> Comunica l’esito della valutazione ai responsabili designati di un PRN.[^9-3]
 
-[^9-1]: Abrogato dal n. I dell’O del DEFR del 19 giu. 2018, con effetto dal 1° ago. 2018 ([RU 2018 2561](https://fedlex.data.admin.ch/eli/oc/2018/379)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+[^9-2]: Abrogato dal n. I dell’O del DEFR del 19 giu. 2018, con effetto dal 1° ago. 2018 ([RU 2018 2561](https://fedlex.data.admin.ch/eli/oc/2018/379)).
+[^9-3]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 #### Art. 10
 
@@ -187,7 +219,7 @@ Nell’esame dei progetti sotto il profilo della politica della ricerca e della 
 
 <sup>1</sup> Per poter presentare la domanda è necessario aver inviato lo schizzo.
 
-<sup>2</sup> Le domande di PRN devono essere presentate al FNS dai potenziali responsabili di un PRN.
+<sup>2</sup> Le domande di PRN devono essere presentate al FNS dai responsabili designati di un PRN.[^10-1]
 
 <sup>3</sup> Il FNS effettua la valutazione scientifica e strutturale in base ai criteri stabiliti nell’articolo 8 e secondo le procedure previste dal rispettivo bando di concorso.
 
@@ -195,15 +227,19 @@ Nell’esame dei progetti sotto il profilo della politica della ricerca e della 
 
 <sup>5</sup> A sua volta, la SEFRI sottopone al DEFR una proposta motivata in cui presenta i PRN di cui raccomanda la realizzazione.
 
+[^10-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
+
 #### Art. 11
 
 **Valutazione**
 
 <sup>1</sup> Se il FNS propone di interrompere un PRN, la SEFRI può incaricare il CSS di valutare il PRN interessato ai fini di una decisione.
 
-<sup>2</sup> La valutazione di singoli PRN in scadenza o già conclusi deve accertare, nell’interesse dello sviluppo del sistema universitario e della ricerca svizzero, se il PRN ha raggiunto l’obiettivo della sostenibilità strutturale nel contesto nazionale.
+<sup>2</sup> La valutazione di singoli PRN in scadenza o già conclusi deve accertare, nell’interesse dello sviluppo del sistema universitario e della ricerca svizzero, se il PRN ha raggiunto l’obiettivo di istituire strutture stabili nel contesto nazionale.[^11-1]
 
 <sup>3</sup> Nell’ambito delle valutazioni la SEFRI può conferire mandati al CSS.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 ## Capitolo 2: Sussidi a strutture di ricerca d’importanza nazionale
 
@@ -242,13 +278,14 @@ Nell’esame dei progetti sotto il profilo della politica della ricerca e della 
 
 **Rapporti**[^14-1]
 
-<sup>1</sup> Le strutture di ricerca d’importanza nazionale presentano annualmente alla SEFRI un rapporto concernente attività, spese e finanziamenti; le prestazioni in natura devono essere quantificate in denaro. In aggiunta al loro rapporto, le strutture di ricerca presentano il rapporto di verifica del proprio organo di revisione.
+<sup>1</sup> Le strutture di ricerca d’importanza nazionale presentano annualmente alla SEFRI un rapporto concernente attività, spese e finanziamenti; le prestazioni in natura devono essere quantificate in denaro. In aggiunta al loro rapporto, le strutture di ricerca presentano il rapporto di verifica dell’organo di revisione esterno.[^14-2]
 
 <sup>2</sup> Sulla base dei rapporti d’attività annuali e dei rapporti annuali degli organi di revisione la SEFRI controlla la partecipazione della Confederazione all’onere complessivo o al finanziamento di base della struttura di ricerca.
 
 <sup>3</sup> I centri di competenza per la tecnologia che nell’ambito della loro attività fondano proprie start-up o partecipano alla fondazione di proprie start-up presentano, in aggiunta al loro rapporto annuale, un elenco di dette start-up e attestano nel rapporto che le condizioni di cui all’articolo 23 O-LPRI sono adempiute. Il rapporto dell’organo di revisione contiene il risultato della valutazione di questi dati.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del DEFR del 19 giu. 2018, in vigore dal 1° ago. 2018 ([RU 2018 2561](https://fedlex.data.admin.ch/eli/oc/2018/379)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 ## Capitolo 3: Cooperazione internazionale
 
@@ -258,23 +295,20 @@ Nell’esame dei progetti sotto il profilo della politica della ricerca e della 
 
 <sup>1</sup> La SEFRI è autorizzata, nell’ambito della cooperazione internazionale nel settore della ricerca e dell’innovazione, a concludere trattati internazionali di portata limitata ai sensi dell’articolo 7*a* capoverso 2 della legge del 21 marzo 1997[^15-1] sull’organizzazione del Governo e dell’Amministrazione. Sono fatte salve le disposizioni di diritto speciale.
 
-<sup>2</sup> La SEFRI è autorizzata, nell’ambito delle competenze secondo il capoverso 1, a concludere dichiarazioni d’intenti per la promozione della cooperazione internazionale nel settore della ricerca e dell’innovazione, segnatamente nell’ambito della cooperazione europea nel campo della ricerca scientifica e tecnica (COST).
+<sup>2</sup> La SEFRI è autorizzata, nell’ambito delle competenze di cui al capoverso 1, a concludere dichiarazioni d’intenti per la promozione della cooperazione internazionale nel settore della ricerca e dell’innovazione.[^15-2]
 
 [^15-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15-2]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 ### Sezione 2: Cooperazione scientifica bilaterale al di fuori di programmi e organizzazioni internazionali
 
 #### Art. 16
 
-**Procedura**
+**Comitato direttivo nazionale**[^16-1]
 
-<sup>1</sup> Un comitato direttivo nazionale può essere competente per diversi Paesi o regioni prioritari.
+La SEFRI stabilisce i rappresentanti all’interno del comitato direttivo nazionale. Il comitato si riunisce a livello operativo almeno una volta all’anno, un’ulteriore riunione a livello strategico ha luogo almeno una volta per ogni periodo ERI. Il rappresentante della SEFRI assume la presidenza.
 
-<sup>2</sup> La SEFRI stabilisce i rappresentanti all’interno dei comitati direttivi. Il rappresentante della SEFRI assume la presidenza.
-
-<sup>3</sup> Nell’ambito della messa a concorso dei progetti di ricerca comuni secondo l’articolo 52 capoverso 3 O-LPRI il FNS rende note le modalità di presentazione della domanda.
-
-<sup>4</sup> Il FNS comunica ai responsabili di progetto le decisioni concernenti l’approvazione o il rifiuto delle domande. La procedura si basa sulle direttive del FNS.
+[^16-1]: Nuovo testo giusta il n. I dell’O del DEFR del 7 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 700](https://fedlex.data.admin.ch/eli/oc/2022/700)).
 
 ## Capitolo 4: Disposizioni finali
 
