@@ -3,20 +3,20 @@ sr: "642.118.1"
 title: "Ordinanza del DFF del 10 febbraio 1993 sulla deduzione delle spese professionali delle persone esercitanti un'attività lucrativa dipendente ai fini dell'imposta federale diretta (Ordinanza sulle spese professionali)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF sulla deduzione delle spese professionali delle persone esercitanti un’attività lucrativa dipendente ai fini dell’imposta federale diretta
 
-(Ordinanza sulle spese professionali)**[^t-1]**
+(Ordinanza sulle spese professionali)[^t-1]
 
-del 10 febbraio 1993 (Stato 1° gennaio 2022)
+del 10 febbraio 1993 (Stato 1° gennaio 2023)
 
 [^t-1]: RU **1993** 1363 Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 (RU **2006** 4887).
 
@@ -63,7 +63,7 @@ Il contribuente che, in luogo di una deduzione forfettaria giusta l’articolo 7
 
 **Spese di trasporto**[^5-1]
 
-<sup>1</sup> A titolo di spese necessarie per il trasporto dal luogo di domicilio a quello di lavoro il contribuente può dedurre un importo massimo di 3000 franchi (art. 26 cpv. 1 lett. a LIFD).
+<sup>1</sup> A titolo di spese necessarie per il trasporto dal luogo di domicilio a quello di lavoro il contribuente può dedurre fino all’importo massimo di cui all’articolo 26 capoverso 1 lettera a LIFD.[^5-2]
 
 <sup>2</sup>
 
@@ -73,6 +73,7 @@ Sono considerati costi deducibili:
 - b. i costi necessari sostenuti per ogni chilometro percorso con l’uso di un veicolo privato, se non è disponibile un mezzo di trasporto pubblico o non è ragionevole pretendere che il contribuente ne faccia uso.
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del DFF del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 #### Art. 5a
 
@@ -117,7 +118,7 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 <sup>2</sup> La deduzione forfettaria va ridotta in modo adeguato se l’attività lucrativa dipendente è esercitata solamente durante una parte dell’anno o a tempo parziale.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 apr. 2014, in vigore dal 1° gen. 3026 ([RU 2014 1109](https://fedlex.data.admin.ch/eli/oc/2014/241)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 apr. 2014, in vigore dal 1° gen. 2016 ([RU 2014 1109](https://fedlex.data.admin.ch/eli/oc/2014/241)).
 
 #### Art. 8
 
@@ -157,7 +158,7 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 [^11-1]: [[RU 1992 1166](https://fedlex.data.admin.ch/eli/oc/1992/1166_1166_1166)]
 
-## Disposizione transitoria della modifica del 3 novembre 2006****
+## Disposizione transitoria della modifica del 3 novembre 2006
 
 [^u1-1]
 
@@ -165,18 +166,18 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 Per i casi eccezionali nei quali il vecchio certificato di salario è utilizzato per l’anno fiscale 2007, il diritto previgente è applicabile fino al 31 dicembre 2007.
 
-Appendice*[^t-2]*
+Appendice[^t-2]
 
 (art. 3)
 
 ## 1. Deduzioni forfettarie a partire dall’anno fiscale 2016
 
-[^t-2]: Introdotta dal n. I dell’O del DFF del 29 giu. 1994 ([RU 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nuovo testo giusta il n. II dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^t-2]: Introdotta dal n. I dell’O del DFF del 29 giu. 1994 ([RU 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nuovo testo giusta il n. II dell’O del DFF del 6 mar. 2015 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Aggiornata dal n. II dell’O del DFF del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 <table>
 <tr><td colspan="2"></td><td colspan="4"></td><td></td><td>Fr.</td><td></td></tr>
 <tr><td colspan="3">Spese supplementari per pasti</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="5">a. Per i pasti presi fuori casa, rispettivamente *in caso di lavoro a turni o notturno* (art. 6 cpv. 1 e 2)</td><td>[tab]</td><td></td><td></td><td></td></tr>
+<tr><td colspan="5">a. *Per i pasti presi fuori casa, rispettivamente* *in caso di lavoro a turni o notturno* (art. 6 cpv. 1 e 2)</td><td>[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>– deduzione intera</td><td colspan="5">per ogni pasto principale rispettivamente al giorno</td><td></td><td>15.—</td><td></td></tr>
 <tr><td></td><td colspan="5">all’anno</td><td></td><td>3200.—</td><td></td></tr>
 <tr><td>– mezza deduzione</td><td colspan="5">per ogni pasto principale rispettivamente al giorno</td><td></td><td>7.50</td><td></td></tr>
@@ -194,14 +195,12 @@ Appendice*[^t-2]*
 
 [^annexu1-lvl1-1]: La deduzione parziale dev’essere applicata se, conformemente all’art. 6 cpv. 2, per uno dei pasti principali è concessa soltanto la mezza deduzione.
 
-## 2. Deduzione per l’uso di un veicolo privato a partire dall’anno fiscale 2016
-
-L’importo massimo della deduzione ammonta a 3000 franchi all‘anno.
+## 2. Deduzione per l’uso di un veicolo privato
 
 <table>
-<tr><th></th><th colspan="3"></th><th></th><th>Fr.</th><th></th></tr>
-<tr><td colspan="3">**Deduzione per l’uso di un veicolo privato** (art. 5 cpv. 2 lett. b)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">– bicicletta, ciclomotore e motocicletta con targa di controllo su fondo giallo</td><td colspan="2">all’anno</td><td></td><td>700.—</td><td></td></tr>
-<tr><td colspan="2">– motocicletta con targa di controllo su fondo bianco</td><td colspan="2">il km</td><td></td><td>–.40</td><td></td></tr>
-<tr><td colspan="2">– automobile</td><td colspan="2">il km</td><td></td><td>–.70</td><td></td></tr>
+<tr><th></th><th colspan="2"></th><th></th><th>Fr.</th><th></th></tr>
+<tr><td colspan="2">**Deduzione per l’uso** **di** **un veicolo privato** (art. 5 cpv. 2 lett. b)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– bicicletta, ciclomotore e motocicletta con targa di controllo su fondo giallo</td><td colspan="2">all’anno</td><td></td><td>700.–</td><td></td></tr>
+<tr><td>– motocicletta con targa di controllo su fondo bianco</td><td colspan="2">il km</td><td></td><td>–.40</td><td></td></tr>
+<tr><td>– automobile</td><td colspan="2">il km</td><td></td><td>–.70</td><td></td></tr>
 </table>

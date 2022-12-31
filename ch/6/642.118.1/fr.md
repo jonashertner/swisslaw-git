@@ -3,11 +3,11 @@ sr: "642.118.1"
 title: "Ordonnance du DFF du 10 février 1993 sur la déduction des frais professionnels des personnes exerçant une activité lucrative dépendante en matière d'impôt fédéral direct (Ordonnance sur les frais professionnels)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/fr"
 
 (Ordonnance sur les frais professionnels)[^t-1]
 
-du 10 février 1993 (Etat le 1<sup>er</sup> janvier 2022)
+du 10 février 1993 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 3 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
 
@@ -63,7 +63,7 @@ Si, au lieu de la déduction forfaitaire mentionnée aux art. 7, al. 1, et 10, l
 
 **Frais de déplacement**[^5-1]
 
-<sup>1</sup> Les frais de déplacement nécessaires entre le lieu de domicile et le lieu de travail peuvent être déduits jusqu’à concurrence d’un montant maximal de 3000 francs (art. 26, al. 1, let. a, LIFD).
+<sup>1</sup> Les frais de déplacement nécessaires entre le lieu de domicile et le lieu de travail sont déductibles à hauteur du montant maximal fixé à l’art. 26, al. 1, let. a, LIFD.[^5-2]
 
 <sup>2</sup>
 
@@ -73,6 +73,7 @@ Sont déductibles:
 - b. les frais nécessaires par kilomètre parcouru au moyen d’un véhicule privé, pour autant qu’il n’existe pas de transports publics ou qu’il ne puisse être exigé du contribuable qu’il les utilise.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 6 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 #### Art. 5a
 
@@ -165,13 +166,13 @@ Une déduction forfaitaire conformément à l’art. 3 est autorisée pour les f
 
 Dans les cas exceptionnels où l’ancien «certificat de salaire» est utilisé pour l’année fiscale 2007, le droit actuel est applicable jusqu’au 31 décembre 2007.
 
-Appendice*[^t-2]*
+Appendice[^t-2]
 
 (art. 3)
 
 ## 1. Déductions forfaitaires à partir de l’année fiscale 2016
 
-[^t-2]: Introduit par le ch. I de l’O du 29 juin 1994 ([RO 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nouvelle teneur selon le ch. I de l’O du DFF du 6 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^t-2]: Introduit par le ch. I de l’O du 29 juin 1994 ([RO 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nouvelle teneur selon le ch. I de l’O du DFF du 6 mars 2015 ([RO 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Mise à jour par le ch. II de l’O du DFF du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 <table>
 <tr><th></th><th colspan="4"></th><th>fr.</th></tr>
@@ -194,14 +195,12 @@ Appendice*[^t-2]*
 
 [^annexu1-lvl1-1]: La déduction partielle doit être appliquée lorsque, d’après l’art. 6, al. 2, seule une demi-déduction est admise pour un des deux repas principaux quotidiens.
 
-## 2. Déduction pour l’utilisation d’un véhicule privé à partir de l’année fiscale 2016:
-
-Le montant maximal de la déduction s’élève à 3000 francs par année.
+## 2. Déduction pour l’utilisation d’un véhicule privé
 
 <table>
-<tr><th></th><th colspan="2"></th><th>Fr.</th></tr>
-<tr><td colspan="2">**Frais de déplacement avec un véhicule privé** (art. 5, al. 2, let. b)</td><td></td><td></td></tr>
-<tr><td>– vélos, cyclomoteurs et motocycles avec plaque d’immatriculation sur fond jaune,</td><td colspan="2">par an</td><td>700.—</td></tr>
-<tr><td>– motocycles avec plaque d’immatriculation sur fond blanc</td><td colspan="2">par kilomètre parcouru</td><td>–.40</td></tr>
-<tr><td>– autos</td><td colspan="2">par kilomètre parcouru</td><td>–.70</td></tr>
+<tr><th></th><th colspan="2"></th><th></th><th>Fr.</th><th></th></tr>
+<tr><td colspan="2">**Déduction pour l’utilisation d’un véhicule privé** (art. 5, al. 2, let. b)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– vélos, cyclomoteurs et motocycles avec plaque d’immatriculation sur fond jaune,</td><td colspan="2">par an</td><td></td><td>700.—</td><td></td></tr>
+<tr><td>– motocycles avec plaque d’immatriculation sur fond blanc</td><td colspan="2">par kilomètre parcouru</td><td></td><td>–.40</td><td></td></tr>
+<tr><td>– autos</td><td colspan="2">par kilomètre parcouru</td><td></td><td>–.70</td><td></td></tr>
 </table>

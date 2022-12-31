@@ -3,20 +3,20 @@ sr: "642.118.1"
 title: Verordnung des EFD vom 10. Februar 1993 über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer (Berufskostenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EFD über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer****
+# Verordnung des EFD über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer
 
 (Berufskostenverordnung)[^t-1]
 
-vom 10. Februar 1993 (Stand am 1. Januar 2022)
+vom 10. Februar 1993 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EFD vom 6. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
 
@@ -63,7 +63,7 @@ Werden anstelle einer Pauschale nach den Artikeln 7 Absatz 1 und 10 höhere Kost
 
 **Fahrkosten**[^5-1]
 
-<sup>1</sup> Die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte können bis zum Maximalbetrag von 3000 Franken geltend gemacht werden (Art. 26 Abs. 1 Bst. a DBG).
+<sup>1</sup> Die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte können bis zum Maximalbetrag nach Artikel 26 Absatz 1 Buchstabe a DBG geltend gemacht werden.[^5-2]
 
 <sup>2</sup>
 
@@ -73,6 +73,7 @@ Als Kosten sind abziehbar:
 - b. die notwendigen Kosten pro gefahrene Kilometer für die Benützung eines privaten Fahrzeugs, sofern kein öffentliches Verkehrsmittel zur Verfügung steht oder dessen Benützung objektiv nicht zumutbar ist.
 
 [^5-1]: Fassung gemäss Ziff. I der V des EFD vom 6. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^5-2]: Fassung gemäss Ziff. I der V des EFD vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 #### Art. 5a
 
@@ -157,7 +158,7 @@ Für die mit einer Nebenerwerbstätigkeit verbundenen Berufskosten ist ein Pausc
 
 [^11-1]: [[AS 1992 1166](https://fedlex.data.admin.ch/eli/oc/1992/1166_1166_1166)]
 
-## Übergangsbestimmung zur Änderung vom 3. November 2006****
+## Übergangsbestimmung zur Änderung vom 3. November 2006
 
 [^u1-1]
 
@@ -165,11 +166,11 @@ Für die mit einer Nebenerwerbstätigkeit verbundenen Berufskosten ist ein Pausc
 
 Für Ausnahmefälle, in welchen für die Steuerperiode 2007 der alte Lohnausweis verwendet wird, gilt das bisherige Recht bis zum 31. Dezember 2007.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 ## 1. Pauschalansätze ab dem Steuerjahr 2016
 
-[^t-2]: Eingefügt durch Ziff. I der V des EFD vom 29. Juni 1994 ([AS 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Fassung gemäss Ziff. II der V des EFD vom 6. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^t-2]: Eingefügt durch Ziff. I der V des EFD vom 29. Juni 1994 ([AS 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Fassung gemäss Ziff. II der V des EFD vom 6. März 2015 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Bereinigt gemäss Ziff. II der V des EFD vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 <table>
 <tr><th></th><th colspan="4"></th><th></th><th>Fr.</th><th></th></tr>
@@ -179,7 +180,7 @@ Anhang*[^t-2]*
 <tr><td></td><td colspan="4">im Jahr</td><td></td><td>3200.—</td><td></td></tr>
 <tr><td>– Halber Abzug</td><td colspan="4">pro Hauptmahlzeit bzw. Tag</td><td></td><td>7.50</td><td></td></tr>
 <tr><td></td><td colspan="4">im Jahr</td><td></td><td>1600.—</td><td></td></tr>
-<tr><td colspan="2">b. *Bei auswärtigem Wochenau**f**enthalt* (Art. 9 Abs. 2)</td><td colspan="3">[tab]</td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">b. *Bei auswärtigem Wochenaufenthalt* (Art. 9 Abs. 2)</td><td colspan="3">[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>– Voller Abzug</td><td colspan="4">im Tag im Jahr</td><td></td><td>30.— 6400.—</td><td></td></tr>
 <tr><td>– Gekürzter Abzug[^annexu1-lvl1-1]</td><td colspan="4">im Tag im Jahr</td><td></td><td>22.50 4800.—</td><td></td></tr>
 <tr><td colspan="2">**Übrige Berufskosten** (Art. 7 Abs. 1)</td><td colspan="3"></td><td></td><td></td><td></td></tr>
@@ -192,14 +193,12 @@ Anhang*[^t-2]*
 
 [^annexu1-lvl1-1]: Der gekürzte Abzug ist anzuwenden, wenn gemäss Art. 6 Abs. 2 für eine der beiden täglichen Hauptmahlzeiten nur ein halber Abzug zulässig ist.
 
-## 2. Abzug für die Benützung eines privaten Fahrzeugs ab dem Steuerjahr 2016
-
-Der Maximalbetrag des Abzugs ist auf 3000 Franken im Jahr begrenzt.
+## 2. Abzug für die Benützung eines privaten Fahrzeugs
 
 <table>
 <tr><th></th><th colspan="2"></th><th></th><th>Fr.</th><th></th></tr>
 <tr><td colspan="2">**Abzug für die Benützung eines privaten Fahrzeugs** (Art. 5 Abs. 2 Bst. b)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Fahrräder, Motorfahrräder und Motorräder mit gelbem Kontrollschild</td><td colspan="2">im Jahr</td><td></td><td>700.—</td><td></td></tr>
 <tr><td>– Motorräder mit weissem Kontrollschild</td><td colspan="2">pro Fahrkilometer</td><td></td><td>–.40</td><td></td></tr>
-<tr><td>– Autos</td><td colspan="2">[tab] pro Fahrkilometer</td><td></td><td>–.70</td><td></td></tr>
+<tr><td>– Autos</td><td colspan="2">pro Fahrkilometer</td><td></td><td>–.70</td><td></td></tr>
 </table>
