@@ -4,20 +4,20 @@ title: Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenve
 short: AHVG
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20220101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20230101/de/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20230101-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Alters- und Hinterlassenenversicherung
 
-(AHVG)**[^t-1]**
+(AHVG)[^t-1]
 
-vom 20. Dezember 1946 (Stand am 1. Januar 2022)
+vom 20. Dezember 1946 (Stand am 1. Januar 2023)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -33,7 +33,7 @@ beschliesst:
 
 ## Erster Teil: Die Versicherung
 
-### Erster Abschnitt:**** Anwendbarkeit des ATSG
+### Erster Abschnitt: Anwendbarkeit des ATSG
 
 [^part1-chap1-1]
 
@@ -48,7 +48,7 @@ beschliesst:
 [^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^1-2]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
-### Erster Abschnitt *a*:**** Die versicherten Personen
+### Erster Abschnitt *a*: Die versicherten Personen
 
 [^part1-chap1a-1]
 
@@ -124,18 +124,18 @@ Der Versicherung können beitreten:
 
 <sup>3</sup> Versicherte, welche die nötigen Auskünfte nicht erteilen oder ihre Beiträge nicht fristgerecht bezahlen, werden aus der freiwilligen Versicherung ausgeschlossen.
 
-<sup>4</sup> Die Beiträge der erwerbstätigen Versicherten betragen 8,7 Prozent des massgebenden Einkommens. Die Versicherten müssen aber in jedem Fall den Mindestbeitrag von 826 Franken[^2-3] im Jahr entrichten.[^2-4]
+<sup>4</sup> Die Beiträge der erwerbstätigen Versicherten betragen 8,7 Prozent des massgebenden Einkommens. Die Versicherten müssen aber in jedem Fall den Mindestbeitrag von 844 Franken[^2-3] im Jahr entrichten.[^2-4]
 
-<sup>5</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag liegt bei 826 Franken[^2-5] pro Jahr. Der Höchstbeitrag entspricht dem 25‑fachen Mindestbeitrag.[^2-6]
+<sup>5</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag liegt bei 844 Franken[^2-5] pro Jahr. Der Höchstbeitrag entspricht dem 25‑fachen Mindestbeitrag.[^2-6]
 
 <sup>6</sup> Der Bundesrat erlässt ergänzende Vorschriften über die freiwillige Versicherung; er bestimmt insbesondere die Frist und die Modalitäten des Beitritts, des Rücktritts und des Ausschlusses. Ferner regelt er die Festsetzung und Erhebung der Beiträge sowie die Gewährung von Leistungen. Er kann die Bestimmungen betreffend die Dauer der Beitragspflicht, die Berechnung der Beiträge sowie den Beitragsbezug den Besonderheiten der freiwilligen Versicherung anpassen.
 
 [^2-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^2-2]: Fassung gemäss Ziff. I 3 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^2-3]: Betrag gemäss Art. 2 Abs. 2 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^2-4]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^2-5]: Betrag gemäss Art. 2 Abs. 2 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^2-6]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^2-3]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^2-4]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^2-5]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^2-6]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Zweiter Abschnitt: Die Beiträge
 
@@ -217,7 +217,7 @@ Als massgebender Lohn für mitarbeitende Familienglieder gilt nur der Barlohn:
 
 <sup>5</sup> …[^5-3]
 
-[^5-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^5-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^5-2]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^5-3]: Eingefügt durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Aufgehoben durch Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, mit Wirkung seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
@@ -229,7 +229,7 @@ Als massgebender Lohn für mitarbeitende Familienglieder gilt nur der Barlohn:
 
 <sup>2</sup> Die Beiträge der Arbeitnehmer, deren Arbeitgeber nicht beitragspflichtig sind, können gemäss Artikel 14 Absatz 1 erhoben werden, wenn der Arbeitgeber dem zustimmt. In diesem Falle beträgt der Beitragssatz für den Arbeitgeber und den Arbeitnehmer je 4,35 Prozent des massgebenden Lohnes.
 
-[^6-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2****018** 2527).
+[^6-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 #### Art. 7
 
@@ -243,15 +243,15 @@ Der Bundesrat kann für mitarbeitende Familienmitglieder in der Landwirtschaft G
 
 **Beiträge von Einkommen aus selbstständiger Erwerbstätigkeit 1. Grundsatz**[^8-1]
 
-<sup>1</sup> Vom Einkommen aus selbstständiger Erwerbstätigkeit wird ein Beitrag von 8,1 Prozent erhoben. Das Einkommen wird für die Berechnung des Beitrages auf die nächsten 100 Franken abgerundet. Beträgt es weniger als 57 400 Franken[^8-2], aber mindestens 9600 Franken[^8-3] im Jahr, so vermindert sich der Beitragssatz nach einer vom Bundesrat aufzustellenden sinkenden Skala bis auf 4,35 Prozent.
+<sup>1</sup> Vom Einkommen aus selbstständiger Erwerbstätigkeit wird ein Beitrag von 8,1 Prozent erhoben. Das Einkommen wird für die Berechnung des Beitrages auf die nächsten 100 Franken abgerundet. Beträgt es weniger als 58 800[^8-2], aber mindestens 9 800 Franken[^8-3] im Jahr, so vermindert sich der Beitragssatz nach einer vom Bundesrat aufzustellenden sinkenden Skala bis auf 4,35 Prozent.
 
-<sup>2</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit 9500 Franken[^8-4] oder weniger im Jahr, so hat der Versicherte den Mindestbeitrag von 413 Franken[^8-5] im Jahr zu entrichten, es sei denn, dieser Betrag sei bereits auf seinem massgebenden Lohn entrichtet worden. In diesem Fall kann er verlangen, dass der Beitrag für die selbstständige Erwerbstätigkeit zum untersten Satz der sinkenden Skala erhoben wird.
+<sup>2</sup> Beträgt das Einkommen aus selbstständiger Erwerbstätigkeit 9 700 Franken[^8-4] oder weniger im Jahr, so hat der Versicherte den Mindestbeitrag von 422 Franken[^8-5] im Jahr zu entrichten, es sei denn, dieser Betrag sei bereits auf seinem massgebenden Lohn entrichtet worden. In diesem Fall kann er verlangen, dass der Beitrag für die selbstständige Erwerbstätigkeit zum untersten Satz der sinkenden Skala erhoben wird.
 
-[^8-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^8-2]: Betrag gemäss Art. 1 Bst. a der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^8-3]: Betrag gemäss Art. 1 Bst. b der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^8-4]: Betrag gemäss Art. 2 Abs. 1 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^8-5]: Betrag gemäss Art. 2 Abs. 2 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^8-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^8-2]: Betrag gemäss Art. 1 Bst. a der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^8-3]: Betrag gemäss Art. 1 Bst. b der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^8-4]: Betrag gemäss Art. 2 Abs. 1 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^8-5]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 
 #### Art. 9
 
@@ -296,7 +296,7 @@ Der Bundesrat kann die Grenzen der sinkenden Beitragsskala nach Artikel 8 sowie 
 
 [^10-1]
 
-<sup>1</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt 413 Franken[^10-2], der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Erwerbstätige, die im Kalenderjahr, gegebenenfalls mit Einschluss des Arbeitgeberbeitrages, weniger als 413 Franken entrichten, gelten als Nichterwerbstätige. Der Bundesrat kann den Grenzbetrag nach den sozialen Verhältnissen des Versicherten erhöhen, wenn dieser nicht dauernd voll erwerbstätig ist.[^10-3]
+<sup>1</sup> Nichterwerbstätige bezahlen einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt 422 Franken[^10-2], der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag. Erwerbstätige, die im Kalenderjahr, gegebenenfalls mit Einschluss des Arbeitgeberbeitrages, weniger als 422 Franken entrichten, gelten als Nichterwerbstätige. Der Bundesrat kann den Grenzbetrag nach den sozialen Verhältnissen des Versicherten erhöhen, wenn dieser nicht dauernd voll erwerbstätig ist.[^10-3]
 
 <sup>2</sup>
 
@@ -306,15 +306,15 @@ Den Mindestbeitrag bezahlen:
 - b. Nichterwerbstätige, die ein Mindesteinkommen oder andere Leistungen der öffentlichen Sozialhilfe erhalten;
 - c. Nichterwerbstätige, die von Drittpersonen finanziell unterstützt werden.[^10-4]
 
-<sup>2b</sup> <sup>is</sup> Der Bundesrat kann den Mindestbeitrag für weitere Nichterwerbstätige vorsehen, denen höhere Beiträge nicht zuzumuten sind.[^10-5]
+<sup>2bis</sup> Der Bundesrat kann den Mindestbeitrag für weitere Nichterwerbstätige vorsehen, denen höhere Beiträge nicht zuzumuten sind.[^10-5]
 
 <sup>3</sup> Der Bundesrat erlässt nähere Vorschriften über den Kreis der Personen, die als Nichterwerbstätige gelten, und über die Bemessung der Beiträge. Er kann bestimmen, dass vom Erwerbseinkommen bezahlte Beiträge auf Verlangen des Versicherten an die Beiträge angerechnet werden, die dieser als Nichterwerbstätiger schuldet.
 
 <sup>4</sup> Der Bundesrat kann Lehranstalten verpflichten, der zuständigen Ausgleichskasse alle Studierenden zu melden, die als Nichterwerbstätige beitragspflichtig sein könnten. Die Ausgleichskasse kann den Bezug der geschuldeten Beiträge der Lehranstalt übertragen, falls diese zustimmt.[^10-6]
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^10-2]: Betrag gemäss Art. 2 Abs. 2 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^10-3]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^10-2]: Betrag gemäss Art. 2 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^10-3]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^10-4]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^10-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^10-6]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
@@ -357,7 +357,7 @@ Vorbehalten bleiben zwischenstaatliche Vereinbarungen und völkerrechtliche Übu
 
 Der Arbeitgeberbeitrag beträgt 4,35 Prozent der Summe der an beitragspflichtige Personen bezahlten massgebenden Löhne.
 
-[^13-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^13-1]: Fassung gemäss Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### C. Der Bezug der Beiträge
 
@@ -399,7 +399,7 @@ Der Bundesrat erlässt Vorschriften über:
 [^14-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^14-5]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^14-6]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^14-7]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1****999** 4523).
+[^14-7]: Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^14-8]: Aufgehoben durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^14-9]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^14-10]: Eingefügt durch Anhang Ziff. 6 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
@@ -569,7 +569,7 @@ In Abweichung von Artikel 20 ATSG[^22bis-3] ist die Zusatzrente dem nicht renten
 [^22ter-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^22ter-3]: Fassung des zweiten und dritten Satzes gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### III.**** Der Anspruch auf Witwen- und Witwerrente
+### III. Der Anspruch auf Witwen- und Witwerrente
 
 [^part1-chap3-lvlA-lvlIII-1]
 
@@ -900,7 +900,7 @@ Muss eine Altersrente neu festgesetzt werden, weil der Ehegatte rentenberechtigt
 [^33bis-4]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^33bis-5]: Eingefügt durch Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^33bis-6]: Eingefügt durch Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^33bis-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); BBl **200****1** 3205).
+[^33bis-7]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^33bis-8]: Eingefügt durch Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 33<sup>ter</sup>
@@ -917,7 +917,7 @@ Muss eine Altersrente neu festgesetzt werden, weil der Ehegatte rentenberechtigt
 
 <sup>5</sup> Der Bundesrat kann ergänzende Vorschriften erlassen, den Rentenindex auf- oder abrunden und das Verfahren der Rentenanpassung regeln.
 
-[^33ter-1]: Eingefügt durch Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); BBl **19****76** III 1).
+[^33ter-1]: Eingefügt durch Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^33ter-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 (SR **2004** 4937) angepasst.
 [^33ter-3]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1991 ([AS 1992 1286](https://fedlex.data.admin.ch/eli/oc/1992/1286_1286_1286); [BBl 1991 I 217](https://fedlex.data.admin.ch/eli/fga/1991/1_217_193_181)).
 
@@ -945,10 +945,10 @@ Es gelten folgende Bestimmungen:
 
 <sup>4</sup> Der Mindestbetrag wird gewährt, wenn das massgebende durchschnittliche Jahreseinkommen höchstens zwölfmal grösser ist, und der Höchstbetrag, wenn das massgebende durchschnittliche Jahreseinkommen wenigstens zweiundsiebzigmal grösser ist als der Mindestbetrag.
 
-<sup>5</sup> Der Mindestbetrag der vollen Altersrente von 1195 Franken entspricht dem Rentenindex von 217,3 Punkten.[^34-2]
+<sup>5</sup> Der Mindestbetrag der vollen Altersrente von 1225 Franken entspricht dem Rentenindex von 222,7 Punkten.[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^34-2]: Betrag und Indexstand gemäss Art. 3 und 4 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^34-2]: Betrag und Indexstand gemäss Art. 3 und 4 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 
 #### Art. 35
 
@@ -1028,7 +1028,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 [^38-2]: Fassung gemäss Ziff. I des BG vom 30. Juni 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^38-3]: Eingefügt durch Ziff. I des BG vom 30. Juni 1972 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
-### IV. Das flexible Rentenalter****
+### IV. Das flexible Rentenalter
 
 [^part1-chap3-lvlB-lvlIV-1]
 
@@ -1061,7 +1061,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 [^40-1]: Aufgehoben durch Ziff. I des BG vom 30. Juni 1972 ([AS 1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [BBl 1971 II 1057](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^40-2]: Siehe auch die SchlB Änd. 7. Okt. 1994 am Ende dieses Textes.
 
-### V. Die Kürzung der ordentlichen Renten****
+### V. Die Kürzung der ordentlichen Renten
 
 [^part1-chap3-lvlB-lvlV-1]
 
@@ -1082,7 +1082,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 [^41-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^41-4]: Fassung gemäss Ziff. I des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1980 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391), [1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)Art. 1; [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
-### C. Die ausserordentlichen Renten****
+### C. Die ausserordentlichen Renten
 
 [^part1-chap3-lvlC-1]
 
@@ -1117,7 +1117,7 @@ Sind für das gleiche Kind sowohl die Voraussetzungen für eine Waisenrente als 
 [^43-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^43-4]: Aufgehoben durch Ziff. I des BG vom 21. Dez. 1956 ([AS 1957 262](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275); [BBl 1956 I 1429](https://fedlex.data.admin.ch/eli/fga/1956/1_1429_1461_)). Fassung gemäss Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### D. Die Hilflosenentschädigung, der Assistenzbeitrag und die Hilfsmittel****
+### D. Die Hilflosenentschädigung, der Assistenzbeitrag und die Hilfsmittel
 
 [^part1-chap3-lvlD-1]
 
@@ -1180,7 +1180,7 @@ Hat eine Person bis zum Erreichen des Rentenalters oder bis zum Rentenvorbezug e
 [^43quater-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^43quater-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
-### E.**** Verschiedene Bestimmungen
+### E. Verschiedene Bestimmungen
 
 [^part1-chap3-lvlE-1]
 
@@ -1584,7 +1584,7 @@ Dem Kassenvorstand können durch das Reglement weitere Aufgaben und Befugnisse �
 
 <sup>3</sup> Der Bundesrat erlässt die näheren Vorschriften über die Liquidation von Verbandsausgleichskassen.
 
-[^60-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); BBl **199****0** II 1).
+[^60-1]: Fassung gemäss Ziff. I des BG vom 7. Okt. 1994 (10. AHV-Revision), in Kraft seit 1. Jan. 1997 ([AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [BBl 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### II. Die kantonalen Ausgleichskassen
 
@@ -1618,7 +1618,7 @@ Der kantonale Erlass bedarf der Genehmigung des Bundes[^61-1] und muss Bestimmun
 
 [^62-1]: Fassung gemäss Ziff. I des BG vom 30. Sept. 1953, in Kraft seit 1. Jan. 1954 ([AS 1954 211](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); [BBl 1953 II 81](https://fedlex.data.admin.ch/eli/fga/1953/2_81_73_449)).
 [^62-2]: Fassung des zweiten Satzes gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^62-3]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 (AS **200****0** 2677; [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^62-3]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 
 ### IV. Gemeinsame Vorschriften
 
@@ -1708,7 +1708,7 @@ Zuständig zur Festsetzung und Auszahlung der Renten von Ehepaaren ist die Ausgl
 
 <sup>2</sup> Der Kassenleiter einer Verbandsausgleichskasse sowie sein Stellvertreter dürfen in keinem Dienstverhältnis zu den Gründerverbänden stehen.
 
-[^66-1]: Aufgehoben durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, **1****994** V 921, **1999** 4523).
+[^66-1]: Aufgehoben durch Anhang Ziff. 7 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 67
 
@@ -1886,7 +1886,7 @@ Für die Haftung gilt Artikel 70 Absätze 1–3 sinngemäss.
 
 [^86-1]: Aufgehoben durch Anhang Ziff. 107 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Siebenter Abschnitt: Strafbestimmungen des ersten Teiles****
+### Siebenter Abschnitt: Strafbestimmungen des ersten Teiles
 
 [^part1-chap7-1]
 
@@ -1998,7 +1998,7 @@ Die Zentrale Ausgleichstelle gleicht die ihr gemeldeten Taggeldbezüge der Arbei
 
 <sup>3</sup> Der Bund zahlt einen Pauschalbeitrag zur anteilsmässigen Abgeltung der Aufwendungen, die der Zentralen Ausgleichstelle und den Ausgleichskassen aus dem Datenabgleich, der Datenübermittlung und der Datenpflege entstanden sind.
 
-[^93bis-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 25. Sept. 2015, in Kraft seit 1. Okt. 2016 (AS **20****16** 3101; [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^93bis-1]: Eingefügt durch Anhang Ziff. 3 des BG vom 25. Sept. 2015, in Kraft seit 1. Okt. 2016 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 94
 
@@ -2177,10 +2177,10 @@ Der Bundesbeitrag nach Absatz 1 wird erhöht. Die Erhöhung entspricht:
 
 [^103-1]: Fassung gemäss Ziff. II 24 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
 [^103-2]: Fassung gemäss Ziff. I 4 des BG vom 22. Juni 2007 über den Übergang zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
-[^103-3]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
-[^103-4]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^103-3]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^103-4]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^103-5]: [AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)
-[^103-6]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); BBL **2018** 2527).
+[^103-6]: Eingefügt durch Ziff. I 5 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 #### Art. 104
 
@@ -2234,9 +2234,9 @@ Die Verwaltung des AHV-Ausgleichsfonds richtet sich nach dem Ausgleichsfondsgese
 
 [^110-1]
 
-[^110-1]: Aufgehoben durch Anhang Ziff. II 4 des Ausgleichsfondsgesetzes vom 16. Juni 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); BBl **201****6** 311).
+[^110-1]: Aufgehoben durch Anhang Ziff. II 4 des Ausgleichsfondsgesetzes vom 16. Juni 2017, mit Wirkung seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 
-### Dritter Abschnitt: Die Rückstellung des Bundes****
+### Dritter Abschnitt: Die Rückstellung des Bundes
 
 [^part2-chap3-1]
 
@@ -2264,7 +2264,7 @@ Die Erträge aus der Belastung des Tabaks und der gebrannten Wasser werden laufe
 
 [^113153-1]: Aufgehoben durch Art. 46 Bst. a des BG vom 21. März 1969 über die Tabakbesteuerung, mit Wirkung seit 1. Jan. 1970 ([AS 1969 645](https://fedlex.data.admin.ch/eli/oc/1969/645_665_663); [BBl 1968 II 345](https://fedlex.data.admin.ch/eli/fga/1968/2_345_345_580)).
 
-## Dritter Teil:**** Verhältnis zum europäischen Recht
+## Dritter Teil: Verhältnis zum europäischen Recht
 
 [^part3-1]
 
@@ -2297,14 +2297,14 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^153a-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)). Siehe auch die UeB am Schluss dieses Textes.
-[^153a-2]: SR **0.142.112.6****81**
+[^153a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^153a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^153a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
 [^153a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
 [^153a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^153a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Vierter Teil:**** Systematische Verwendung der AHV-Nummer ausserhalb der AHV
+## Vierter Teil: Systematische Verwendung der AHV-Nummer ausserhalb der AHV
 
 [^part4-1]
 
@@ -2406,7 +2406,7 @@ Der Bundesrat kann Gebühren vorsehen für die Dienstleistungen, welche die Zent
 
 [^153i-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Fünfter Teil:**** Schlussbestimmungen
+## Fünfter Teil: Schlussbestimmungen
 
 [^part5-1]
 
@@ -2428,19 +2428,19 @@ Der Bundesrat kann Gebühren vorsehen für die Dienstleistungen, welche die Zent
 
 [^155-1]: Eingefügt durch Ziff. I 1 des BG vom 5. Okt. 1984 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)). Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 28. Juni 1974****
+## Schlussbestimmungen der Änderung vom 28. Juni 1974
 
 [^u1-1]
 
 [^u1-1]: [AS 1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589). Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 24. Juni 1977 (9. AHV-Revision)****
+## Schlussbestimmungen der Änderung vom 24. Juni 1977 (9. AHV-Revision)
 
 [^u2-1]
 
 [^u2-1]: [AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)III 1; [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)
 
-### a. Erste Anpassung der Renten durch den Bundesrat****
+### a. Erste Anpassung der Renten durch den Bundesrat
 
 [^u2-lvla-1]
 
@@ -2455,13 +2455,13 @@ Der Bundesrat kann Gebühren vorsehen für die Dienstleistungen, welche die Zent
 [^u2-lvla-2]: Diese Anpassung erfolgte auf 1. Jan. 1980 (Art. 2 der V vom 17. Sept. 1979 über die vollständige Inkraftsetzung der 9. AHV-Revision – [AS 1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)).
 [^u2-lvla-3]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)Ziff. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589); [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)Ziff. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Anhang Ziff. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 5, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Anhang Ziff. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Anhang Ziff. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 8; [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)Ziff. IV. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Siehe heute: das BG vom 6. Okt. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
 
-### b.–d. …****
+### b.–d. …
 
 [^u2-lvlu2-1]
 
 [^u2-lvlu2-1]: Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### e.**** Anwendung des Rückgriffs auf haftpflichtige Dritte
+### e. Anwendung des Rückgriffs auf haftpflichtige Dritte
 
 [^u2-lvle-1]
 
@@ -2477,25 +2477,25 @@ Artikel 30 Absätze 2 und 2<sup>bis</sup> AHVG[^u2-lvlf-1] gilt für die nach se
 
 [^u2-lvlf-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### g. …****
+### g. …
 
 [^u2-lvlg-1]
 
 [^u2-lvlg-1]: Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 20. März 1981****
+## Schlussbestimmungen der Änderung vom 20. März 1981
 
 [^u3-1]
 
-[^u3-1]: [AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 2. Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 (AS **2****008** 3437; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u3-1]: [AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 2. Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmung der Änderung vom 7. Oktober 1983****
+## Schlussbestimmung der Änderung vom 7. Oktober 1983
 
 [^u4-1]
 
 [^u4-1]: [AS 1984 100](https://fedlex.data.admin.ch/eli/oc/1984/100_100_100). Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 7. Oktober 1994 (10. AHV-Revision)****
+## Schlussbestimmungen der Änderung vom 7. Oktober 1994 (10. AHV-Revision)
 
 [^u5-1]
 
@@ -2507,7 +2507,7 @@ Artikel 30 Absätze 2 und 2<sup>bis</sup> AHVG[^u2-lvlf-1] gilt für die nach se
 
 <sup>2</sup> Personen nach Artikel 1 Absatz 3, die weniger als drei Jahre nicht versichert waren, können im Einvernehmen mit dem Arbeitgeber innert eines Jahres seit Inkrafttreten dieser Gesetzesänderung der Versicherung beitreten.
 
-### b. …****
+### b. …
 
 [^u5-lvlb-1]
 
@@ -2571,7 +2571,7 @@ Die Übergangsgutschrift darf jedoch höchstens für die Anzahl der Jahre angere
 
 ### e. Aufhebung der Zusatzrente für die Ehefrau in der AHV
 
-<sup>1</sup> Die untere Altersgrenze der Ehefrau für den Anspruch auf die Zusatzrente gemäss dem bisherigen Artikel 22<sup>bis</sup> Absatz 1 wird wie folgt angepasst: Für jedes Kalenderjahr nach Inkrafttreten des neuen Artikels 22<sup>b</sup><sup>is</sup> Absatz 1 wird die bisherige Grenze von 55 Jahren um ein Jahr erhöht.
+<sup>1</sup> Die untere Altersgrenze der Ehefrau für den Anspruch auf die Zusatzrente gemäss dem bisherigen Artikel 22<sup>bis</sup> Absatz 1 wird wie folgt angepasst: Für jedes Kalenderjahr nach Inkrafttreten des neuen Artikels 22<sup>bis</sup> Absatz 1 wird die bisherige Grenze von 55 Jahren um ein Jahr erhöht.
 
 <sup>2</sup> Hat ein Versicherter, der seine Altersrente vorbezieht, Anspruch auf eine Zusatzrente für seine Ehefrau, so ist die Zusatzrente nach Artikel 40 Absatz 3 zu kürzen.
 
@@ -2595,11 +2595,11 @@ Die Übergangsgutschrift darf jedoch höchstens für die Anzahl der Jahre angere
 
 Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 1997 eingetreten sind, sofern die AHV-Beiträge nicht rückvergütet worden sind. Ein Anspruch auf ordentliche Renten entsteht aber frühestens im Zeitpunkt des Inkrafttretens. Artikel 18 Absatz 3 ist auf Personen anwendbar, denen noch keine AHV-Beiträge rückvergütet worden sind und deren Rückvergütungsanspruch noch nicht verjährt ist.
 
-## Schlussbestimmungen der Änderung vom 19. März 1999****
+## Schlussbestimmungen der Änderung vom 19. März 1999
 
 [^u6-1]
 
-[^u6-1]: [AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)Ziff. I 9, 2385 Abs. 2 Ziff. 2 Bst. d; BBl **199****9** 4
+[^u6-1]: [AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)Ziff. I 9, 2385 Abs. 2 Ziff. 2 Bst. d; BBl **1999** 4
 
 <sup>1</sup> Der Bundesbeschluss vom 4. Oktober 1985[^u6-2] über den Beitrag des Bundes und der Kantone an die Finanzierung der Alters- und Hinterlassenenversicherung wird aufgehoben.
 
@@ -2608,7 +2608,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 [^u6-2]: [[AS 1985 2006](https://fedlex.data.admin.ch/eli/oc/1985/2006_2006_2006); [1996 3441](https://fedlex.data.admin.ch/eli/oc/1996/3441_3441_3441)]
 [^u6-3]: Aufgehoben durch Ziff. I 12 des BG vom 19. Dez. 2003 über das Entlastungsprogramm 2003, mit Wirkung seit 1. Jan. 2005 ([AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [BBl 2003 5615](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
-## Schlussbestimmungen der Änderung vom 23. Juni 2000****
+## Schlussbestimmungen der Änderung vom 23. Juni 2000
 
 [^u7-1]
 
@@ -2623,7 +2623,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 [^u7-2]: In Kraft seit dem 1. April 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439)).
 [^u7-3]: In Kraft seit dem 1. April 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439)).
 
-## Schlussbestimmungen der Änderung vom 14. Dezember 2001****
+## Schlussbestimmungen der Änderung vom 14. Dezember 2001
 
 [^u8-1]
 
@@ -2636,13 +2636,13 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 [^u8-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^u8-3]: In Kraft seit dem 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)).
 
-## Schlussbestimmung der Änderung vom 19. Dezember 2003****
+## Schlussbestimmung der Änderung vom 19. Dezember 2003
 
 [^u9-1]
 
 [^u9-1]: [AS 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200). Aufgehoben durch Ziff. II 39 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 17. Dezember 2004****
+## Schlussbestimmungen der Änderung vom 17. Dezember 2004
 
 [^u10-1]
 
@@ -2654,7 +2654,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 
 [^u10-2]: [AS 2006 995](https://fedlex.data.admin.ch/eli/oc/2006/179)
 
-## Schlussbestimmungen der Änderung vom 23. Juni 2006****
+## Schlussbestimmungen der Änderung vom 23. Juni 2006
 
 [^u11-1]
 
@@ -2666,7 +2666,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 
 <sup>3</sup> Stellen und Institutionen, welche die Voraussetzungen zur systematischen Verwendung der Versichertennummer nach neuem Recht nicht erfüllen, dürfen die Versichertennummer nach bisherigem Recht noch fünf Jahre weiter verwenden.
 
-## Übergangsbestimmung der Änderung vom 6. Oktober 2006****
+## Übergangsbestimmung der Änderung vom 6. Oktober 2006
 
 [^u12-1]
 
@@ -2679,7 +2679,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 [^u12-2]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
 [^u12-3]: Aufgehoben durch Ziff. I 4 des BG vom 22. Juni 2007 über den Übergang zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 
-## Übergangsbestimmungen der Änderung vom 13. Juni 2008****
+## Übergangsbestimmungen der Änderung vom 13. Juni 2008
 
 [^u13-1]
 
@@ -2691,7 +2691,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 
 [^u13-2]: [SR 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
 
-## Übergangsbestimmung der Änderung vom 17. Juni 2011****
+## Übergangsbestimmung der Änderung vom 17. Juni 2011
 
 [^u14-1]
 
@@ -2701,7 +2701,7 @@ Artikel 18 Absatz 2 gilt auch für Versicherungsfälle, die vor dem 1. Januar 19
 
 Artikel 9 Absatz 4 gilt für alle Einkommen aus selbstständiger Erwerbstätigkeit, die nach dem Inkrafttreten dieser Änderung von den Steuerbehörden gemeldet werden.
 
-## Übergangsbestimmungen zur Änderung vom 17. Juni 2016****
+## Übergangsbestimmungen zur Änderung vom 17. Juni 2016
 
 [^u15-1]
 
@@ -2714,7 +2714,7 @@ Artikel 9 Absatz 4 gilt für alle Einkommen aus selbstständiger Erwerbstätigke
 [^u15-2]: [AS 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
 [^u15-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 
-## Schlussbestimmungen zur Änderung vom 18. Dezember 2020****
+## Schlussbestimmungen zur Änderung vom 18. Dezember 2020
 
 [^u16-1]
 
@@ -2724,7 +2724,7 @@ Stellen und Institutionen, welche die AHV-Nummer nach bisherigem Recht verwenden
 
 Anhang
 
-## Tarif der Tabakzölle****
+## Tarif der Tabakzölle
 
 [^annexu1-lvlu1-1]
 
