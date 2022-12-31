@@ -3,10 +3,11 @@ canton: ZH
 number: "414.253.211"
 title: "Studienordnung für die Bachelorstudiengänge Ergotherapie, Gesundheitsförderung und Prävention, Hebamme, Pflege sowie Physiotherapie an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-nachtrag: "108"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2023-04-01
 adopted: 2019-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_211-2019_10_24-2020_04_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_211-2019_10_24-2020_04_01-119.html"
 text: pdf
 ---
 
@@ -24,11 +25,11 @@ beschliesst:
 
 [^t-1]: OS 75, 113; Begründung siehe ABl 2019-12-06. Vom Fachhochschulrat genehmigt am 12. November 2019.
 [^t-2]: Inkrafttreten: 1. April 2020.
-[^t-3]: LS 414.252.3. 1. 4. 20 - 108 5
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 20 - 108 5
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
@@ -216,21 +217,21 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-#### § 22
-
 **Titel**
 
-Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
+§ 22.[^21-1] Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
 
-- a. Bachelor of Science ZFH in Ergotherapie,
+- a. Bachelor of Science ZHAW in Ergotherapie,
 
-- b. Bachelor of Science ZFH in Gesundheitsförderung und Prävention,
+- b. Bachelor of Science ZHAW in Gesundheitsförderung und Prävention,
 
-- c. Bachelor of Science ZFH Hebamme,
+- c. Bachelor of Science ZHAW Hebamme,
 
-- d. Bachelor of Science ZFH in Pflege,
+- d. Bachelor of Science ZHAW in Pflege,
 
-- e. Bachelor of Science ZFH in Physiotherapie.
+- e. Bachelor of Science ZHAW in Physiotherapie.
+
+[^21-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 4. 20 - 108 5
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -248,10 +249,14 @@ Diese Studienordnung ersetzt die Studienordnung für die Bachelorstudiengänge E
 
 <sup>2</sup> Neueintretende in höhere Semester und Studierende, die ihr Studium vor dem Studienjahr 2020/2021 aufgenommen haben und infolge von Verzögerungen in einen anderen Studienjahrgang wechseln, werden für das weitere Studium den Rechtsgrundlagen des neu zugeteilten Studienjahrgangs unterstellt. Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen.
 
+[^24-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 4. 20 - 108 5
+
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Ergotherapie, Gesundheitsförderung und Prävention, Hebamme, Pflege sowie Physiotherapie an der Zürcher Hochschule für Angewandte Wissenschaften
+
+[^24-1]
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Ergotherapie, Gesundheitsförderung und Prävention, Hebamme, Pflege sowie Physiotherapie an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter (www.zhaw.ch) eingesehen werden.
+bezogen oder unter www.zhaw.ch eingesehen werden.
