@@ -3,11 +3,11 @@ sr: "512.31"
 title: Ordinanza del 5 dicembre 2003 sul tiro fuori del servizio (Ordinanza sul tiro)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/754"
 language: it
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2003-12-05
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/754/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2003-754-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/754/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/754/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-754-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/754/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/754/20180101/it"
 
 (Ordinanza sul tiro)
 
-del 5 dicembre 2003 (Stato 1° gennaio 2018)
+del 5 dicembre 2003 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -102,8 +102,8 @@ Sono considerati esercizi di tiro e corsi d’istruzione nell’interesse della 
   i corsi di tiro:
 
   - 1\. corsi per monitori di tiro,
-  - 2\. corsi per monitori dei giovani tiratori,
-  - 3\. corsi di ripetizione per monitori di tiro e per monitori dei giovani tiratori,
+  - 2\. corsi per capi dei giovani tiratori[^4-2],
+  - 3\. corsi di ripetizione per monitori di tiro e per capi dei giovani tiratori,
   - 4\. corsi per giovani tiratori,
   - 5\. corsi di tiro per ritardatari,
   - 6\. corsi di tiro per «rimasti».
@@ -124,22 +124,25 @@ Sono considerate armi d’ordinanza le armi personali e le armi in prestito util
   armi corte da fuoco:
 
   - 1\. la pistola 49 (SIG P 210),
-  - 2\. la pistola 75 (SIGSAUER P 220),
-  - 3\. la pistola 03 (SIG Pro SPC 2009).[^4-2]
+  - 2\.[^4-3] la pistola 75 (SIG P 220),
+  - 3\.[^4-4] la pistola 12/15 (Glock 17 Gen 4).[^4-5]
 
-<sup>3</sup> Sono considerate armi d’ordinanza anche le armi punzonate con una «P», cedute in proprietà ai militari in occasione del proscioglimento dagli obblighi militari.[^4-3]
+<sup>3</sup> Sono considerate armi d’ordinanza anche le armi punzonate con una «P», cedute in proprietà ai militari in occasione del proscioglimento dagli obblighi militari.[^4-6]
 
 <sup>4</sup>
 
 Sono considerate munizioni d’ordinanza:
 
 - a. le cartucce per fucile 11 e 90;
-- b. le cartucce per pistola 14.[^4-4]
+- b. le cartucce per pistola 14.[^4-7]
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^4-2]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^4-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^4-6]: Nuovo testo giusta il n. I dell’O del 21 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)).
+[^4-7]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
 
 #### Art. 5
 
@@ -176,9 +179,11 @@ Il commercio di munizione d’ordinanza nel tiro fuori del servizio è vietato. 
 
 #### Art. 8
 
-**Tiri per i giovani**
+**Manifestazioni di tiro per i giovani**[^8-1]
 
-La Confederazione può sostenere i tiri per i giovani d’importanza nazionale, cantonale o regionale e destinati a partecipanti a partire da dieci anni d’età mediante la consegna di munizione a pagamento e il prestito di fucili d’assalto 90.
+La Confederazione può sostenere le manifestazioni di tiro per i giovani d’importanza nazionale, cantonale o regionale e destinate a partecipanti a partire da dieci anni d’età mediante la consegna di munizione a pagamento e il prestito di fucili d’assalto 90.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## Sezione 2: Tiro obbligatorio e partecipazione volontaria
 
@@ -190,15 +195,18 @@ La Confederazione può sostenere i tiri per i giovani d’importanza nazionale, 
 
 <sup>2</sup> Le autorità militari cantonali pubblicano ogni anno le indicazioni necessarie concernenti l’adempimento del tiro obbligatorio.
 
-<sup>3</sup> Gli ufficiali subalterni, i sottufficiali e i militari di truppa obbligati al tiro adempiono annualmente un esercizio di tiro obbligatorio fino alla fine dell’anno precedente il proscioglimento dagli obblighi militari, ma al più tardi fino alla fine dell’anno in cui compiono 34 anni.
+<sup>3</sup> Gli ufficiali subalterni, i sottufficiali e i militari di truppa obbligati al tiro adempiono annualmente un esercizio di tiro obbligatorio fino alla fine dell’anno precedente il proscioglimento dagli obblighi militari, ma al più tardi fino alla fine dell’anno in cui compiono 35 anni.[^9-1]
 
 <sup>4</sup>
 
 È gratuita la partecipazione:
 
-- a. agli esercizi federali, per i militari e i partecipanti ai corsi per giovani tiratori;
+- a.[^9-2] agli esercizi federali, per i militari e i partecipanti ai corsi per giovani tiratori o ai corsi di tiro con la pistola per giovani;
 - b. ai tiri in campagna, per i partecipanti di nazionalità svizzera;
 - c. ai corsi di tiro.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 10
 
@@ -219,15 +227,16 @@ Sono esentati dal tiro obbligatorio:
 - a. gli ufficiali subalterni del Servizio psicopedagogico dell’esercito;
 - b. gli ufficiali subalterni della Giustizia militare;
 - c. i militari che non sono stati istruiti al fucile d’assalto;
-- d. il personale militare della Sicurezza militare;
-- e.[^10a-2] il personale militare del distaccamento d’esplorazione dell’esercito 10;
-- f.[^10a-3] gli ufficiali subalterni nella funzione di medico;
-- g.[^10a-4] gli ufficiali subalterni dei militari in ferma continuata dopo il proscioglimento dall’esercito.
+- d.[^10a-2] il personale militare del comando della polizia militare;
+- e.[^10a-3] il personale militare del distaccamento d’esplorazione dell’esercito 10;
+- f.[^10a-4] gli ufficiali subalterni nella funzione di medico;
+- g.[^10a-5] gli ufficiali subalterni dei militari in ferma continuata dopo il proscioglimento dall’esercito.
 
 [^10a-1]: Introdotto dal n. I dell’O del 21 nov. 2007 ([RU 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)). Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
-[^10a-2]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^10a-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 [^10a-3]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^10a-4]: Introdotta dal n. II 3 dell’all. 7 all’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^10a-4]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^10a-5]: Introdotta dal n. II 3 dell’all. 7 all’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 11
 
@@ -247,56 +256,61 @@ Può essere dispensato dal tiro obbligatorio chi, nell’anno in questione:
 
 Possono essere ammessi a partecipare agli esercizi federali:
 
-- a. gli Svizzeri che non appartengono all’esercito;
+- a.[^12-1] gli Svizzeri;
 - b. gli stranieri con un permesso di domicilio, sempre che la società di tiro interessata abbia ricevuto un’autorizzazione da parte dell’autorità militare cantonale per la loro partecipazione;
-- c.[^12-1]
+- c.[^12-2]
 
   gli stranieri senza un permesso di domicilio, sempre che:
 
-  - 1\. abbiano presentato all’autorità militare cantonale un’attestazione ufficiale secondo l’articolo 9*a* capoverso 1<sup>bis</sup> della legge del 20 giugno 1997[^12-2] sulle armi,
+  - 1\.[^12-3] abbiano presentato all’autorità militare cantonale un’attestazione ufficiale secondo l’articolo 9*a* capoversi 1 e 1<sup>bis</sup> della legge del 20 giugno 1997[^12-4] sulle armi,
   - 2\. l’autorità competente per la legge sulle armi abbia certificato l’autenticità dell’attestazione di cui al numero 1, e
   - 3\. l’autorità militare cantonale abbia rilasciato alla società di tiro interessata un’autorizzazione per la partecipazione degli stranieri.
 
-<sup>2</sup> I cittadini degli Stati di cui all’articolo 12 capoverso 1 dell’ordinanza del 2 luglio 2008[^12-3] sulle armi necessitano inoltre di un’autorizzazione dell’autorità cantonale competente. [^12-4]
+<sup>2</sup> I cittadini degli Stati di cui all’articolo 12 capoverso 1 dell’ordinanza del 2 luglio 2008[^12-5] sulle armi necessitano inoltre di un’autorizzazione dell’autorità cantonale competente. [^12-6]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^12-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^12-3]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
-[^12-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
+[^12-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^12-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^12-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^12-5]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
+[^12-6]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
 
 ## Sezione 3: Corsi di tiro
 
 #### Art. 13
 
-**Corsi per monitori di tiro e per monitori dei giovani tiratori**
+**Corsi per monitori di tiro e per capi dei giovani tiratori**
 
-<sup>1</sup> Il DDPS emana prescrizioni sull’esecuzione dei corsi per monitori di tiro e per monitori dei giovani tiratori.
+<sup>1</sup> Il DDPS emana prescrizioni sull’esecuzione dei corsi per monitori di tiro e per capi dei giovani tiratori.
 
 <sup>2</sup>
 
-È ammesso a questi corsi chi:
+È ammesso ai corsi per monitori di tiro chi:[^13-1]
 
 - a. è membro di una società di tiro riconosciuta;
 - b. nell’anno in questione ha compiuto vent’anni d’età oppure ha assolto la scuola reclute;
 - c. non è soggetto ad alcuna limitazione in materia di consegna di armi in prestito.
 
-<sup>3</sup>
+<sup>3</sup> È ammesso ai corsi per capi di giovani tiratori chi adempie le condizioni del capoverso 2 e possiede, in aggiunta, uno status attivo di monitore di tiro a 300 m.[^13-2]
+
+<sup>4</sup>
 
 Possono essere ammessi anche stranieri con il permesso di domicilio, sempre che:
 
-- a. soddisfino le condizioni d’ammissione secondo il capoverso 2;
-- b.[^13-1] dispongano di un’autorizzazione dell’autorità militare cantonale per la partecipazione agli esercizi federali secondo l’articolo 12; e
-- c.[^13-2] dispongano di un permesso d’acquisto di armi secondo l’articolo 8 capoverso 1 della legge del 20 giugno 1997[^13-3] sulle armi
+- a. soddisfino le condizioni d’ammissione rispettivamente secondo il capoverso 2 per i corsi per monitore di tiro e secondo i capoversi 2 e 3 per i corsi per capo di giovani tiratori;
+- b. dispongano di un’autorizzazione dell’autorità militare cantonale per la partecipazione agli esercizi federali secondo l’articolo 12;
+- c. dispongano di un permesso d’acquisto di armi secondo l’articolo 8 capoverso 1 della legge del 20 giugno 1997[^13-3] sulle armi.[^13-4]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 [^13-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^13-4]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 14
 
-**Corsi di ripetizione per monitori di tiro e per monitori dei giovani tiratori**
+**Corsi di ripetizione per monitori di tiro e per capi dei giovani tiratori**
 
-Il DDPS emana prescrizioni sull’esecuzione dei corsi di ripetizione per monitori di tiro e per monitori dei giovani tiratori.
+Il DDPS emana prescrizioni sull’esecuzione dei corsi di ripetizione per monitori di tiro e per capi dei giovani tiratori.
 
 #### Art. 15
 
@@ -310,19 +324,21 @@ Il DDPS emana prescrizioni sull’esecuzione dei corsi di ripetizione per monito
 
 #### Art. 16
 
-**Corsi di tiro per ritardatari**
+**Corsi di tiro per ritardatari**[^16-1]
 
-Gli obbligati al tiro che non hanno eseguito il programma obbligatorio, o non lo hanno eseguito conformemente alle prescrizioni in una società di tiro, sono chiamati mediante pubblicazione ufficiale dei Cantoni a un corso di tiro per ritardatari, in abiti civili.
+Gli obbligati al tiro che non hanno eseguito il programma obbligatorio, o non lo hanno eseguito conformemente alle prescrizioni in una società di tiro, adempiono il loro tiro obbligatorio in un corso di tiro per ritardatari.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 17
 
 **Corsi di tiro per «rimasti»**[^17-1]
 
-<sup>1</sup> Gli obbligati al tiro che non adempiono le condizioni del programma obbligatorio e sono soggetti all’obbligo di prestare servizio d’istruzione sono chiamati dall’autorità militare del Cantone di domicilio, mediante ordine di marcia personale, a un corso di tiro per «rimasti» di un giorno, con diritto al soldo.
+<sup>1</sup> Gli obbligati al tiro che non adempiono le condizioni del programma obbligatorio sono chiamati dall’autorità militare del Cantone di domicilio a un corso di tiro per «rimasti» di un giorno.
 
-<sup>2</sup> Il corso di tiro per «rimasti» è compiuto in abiti civili ed è computato sul totale obbligatorio di giorni di servizio d’istruzione.
+<sup>2</sup> Il corso di tiro per «rimasti» è compiuto in abiti civili.
 
-[^17-1]: Nuovo testo giusta il n. II 3 dell’all. 7 all’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^17-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## Sezione 4: Associazioni nazionali di tiratori e società di tiro
 
@@ -373,18 +389,9 @@ Possono essere riconosciute soltanto le società che:
 
 #### Art. 20
 
-**Sezioni di tiro all’estero**
+[^20-1]
 
-<sup>1</sup>
-
-Il DDPS, su richiesta, può riconoscere come società di tiro le sezioni di tiro svizzere all’estero, nella misura in cui:
-
-- a. mantengono e promuovono la destrezza al tiro dei militari;
-- b. la loro attività di tiro sia conforme alle prescrizioni vigenti nello Stato interessato.
-
-<sup>2</sup> Per quanto concerne le armi in prestito e le munizioni, le sezioni di tiro svizzere all’estero godono degli stessi diritti delle società di tiro in Svizzera. Invece dei sussidi, ricevono una quantità supplementare di munizione gratuita del valore corrispondente.
-
-<sup>3</sup> La Confederazione si assume le spese e i premi d’assicurazione per i trasporti di armi e munizioni.
+[^20-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 21
 
@@ -430,9 +437,9 @@ Gli esercizi federali possono essere eseguiti unicamente con armi d’ordinanza 
 
 #### Art. 26
 
-**Monitori di tiro e monitori dei giovani tiratori**
+**Monitori di tiro e capi dei giovani tiratori**
 
-<sup>1</sup> Il DDPS emana le prescrizioni concernenti le attitudini e la funzione dei monitori di tiro e dei monitori dei giovani tiratori. Essi devono partecipare a un corso di ripetizione ogni sei anni.
+<sup>1</sup> Il DDPS emana le prescrizioni concernenti le attitudini e la funzione dei monitori di tiro e dei capi dei giovani tiratori. Essi devono partecipare a un corso di ripetizione ogni sei anni.
 
 <sup>2</sup> Il DDPS stabilisce il numero minimo dei monitori di tiro necessari per gli esercizi di tiro.
 
@@ -450,9 +457,11 @@ Gli esercizi federali possono essere eseguiti unicamente con armi d’ordinanza 
 
 #### Art. 28
 
-**Controllo e rapporto**
+**Controllo e rapporto**[^28-1]
 
-I membri delle commissioni cantonali di tiro verificano la completezza e l’esattezza del rapporto di tiro e dei relativi fogli di stand.
+I membri delle commissioni cantonali di tiro controllano l’esercizio di tiro e verificano la completezza e l’esattezza del rapporto di tiro e dei relativi fogli di stand.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## Sezione 6: Impianti di tiro
 
@@ -460,13 +469,15 @@ I membri delle commissioni cantonali di tiro verificano la completezza e l’esa
 
 <sup>1</sup>
 
-Se in un Comune non può essere costruito un impianto di tiro e non è possibile l’unione con un altro Comune, l’autorità militare cantonale, dopo aver sentito l’ufficiale federale di tiro competente, ordina:
+Se in un Comune un impianto di tiro esistente non può più essere mantenuto in funzione o non può essere costruito un nuovo impianto di tiro e non è possibile l’unione con un altro Comune, l’autorità militare cantonale, dopo aver sentito l’ufficiale federale di tiro competente, ordina:[^29-1]
 
 - a. l’assegnazione di un impianto di tiro di un altro Comune;
 - b. la costituzione di un consorzio intercomunale per la costruzione di un impianto di tiro collettivo;
 - c. la costruzione di un impianto di tiro comunale sul territorio di un altro Comune.
 
 <sup>2</sup> Alle società neocostituite può essere assegnato un impianto di tiro comunale esistente, anche se detto impianto è già utilizzato o è stato ampliato da altre società di tiro.
+
+[^29-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## Sezione 7: Autorità e loro organi
 
@@ -490,13 +501,14 @@ Il DDPS stabilisce i circondari di tiro federali.
 
 **Ufficiali federali di tiro**[^32-1]
 
-<sup>1</sup> Il capo del DDPS, d’intesa con le autorità militari cantonali, nomina per ciascun circondario di tiro federale un ufficiale federale di tiro, che è subordinato al capo dell’esercito.
+<sup>1</sup> Il capo del DDPS, d’intesa con le autorità militari cantonali, nomina per ciascun circondario di tiro federale un ufficiale federale di tiro, che è subordinato al capo del Comando Istruzione.[^32-2]
 
 <sup>2</sup> Gli ufficiali federali di tiro sorvegliano le commissioni cantonali di tiro, periziano gli impianti di tiro e provvedono alla loro sorveglianza. Il DDPS disciplina i compiti, le indennità e il rimborso delle spese degli ufficiali federali di tiro in un’ordinanza.
 
 <sup>3</sup> Gli ufficiali federali di tiro esercitano l’attività su mandato. Se sono impiegati della Confederazione i loro impieghi sono considerati come esercizio di una carica pubblica.
 
 [^32-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
+[^32-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 33
 
@@ -519,15 +531,20 @@ Le autorità militari cantonali:
 - c. puniscono il mancato adempimento del tiro obbligatorio e le violazioni delle prescrizioni sul tiro fuori del servizio;
 - d. concedono le autorizzazioni per la partecipazione di stranieri agli esercizi federali;
 - e. concedono e revocano l’autorizzazione d’esercizio d’impianti di tiro per il tiro fuori del servizio;
-- f. ordinano le misure necessarie conformemente all’articolo 29.
+- f. ordinano le misure necessarie conformemente all’articolo 29;
+- g.[^34-1] dispensano i militari dal tiro obbligatorio.
 
 <sup>2</sup> In caso di gravi violazioni degli obblighi, segnatamente nel caso di mancanze dal punto di vista tecnico, organizzativo o della comunicazione, esse possono rimuovere i presidenti e i membri di una commissione cantonale di tiro. Prima della decisione, alla persona interessata è garantito il diritto di essere sentita.
 
+[^34-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+
 #### Art. 35
 
-**Circondari di tiro cantonali**
+**Circondari di tiro cantonali**[^35-1]
 
-I Cantoni stabiliscono i circondari di tiro cantonali.
+I Cantoni definiscono i circondari di tiro cantonali.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 36
 
@@ -543,9 +560,11 @@ I Cantoni stabiliscono i circondari di tiro cantonali.
 
 #### Art. 37
 
-**Prestazioni a favore dei Cantoni**
+**Prestazioni a favore dei Cantoni**[^37-1]
 
-I membri delle commissioni cantonali di tiro sono indennizzati dalla Confederazione.
+I presidenti e i membri delle commissioni cantonali di tiro sono indennizzati dalla Confederazione.
+
+[^37-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 38
 
@@ -574,30 +593,34 @@ Le associazioni nazionali di tiratori riconosciute ricevono annualmente dalla Co
 Il DDPS, d’intesa con il Dipartimento federale delle finanze, stabilisce:
 
 - a. le aliquote delle indennità a favore delle società di tiro e delle associazioni nazionali di tiratori;
-- b. le aliquote delle indennità e delle retribuzioni per gli ufficiali federali di tiro e per i membri delle commissioni cantonali di tiro;
-- c. le aliquote delle indennità e delle retribuzioni per i partecipanti e i funzionari dei corsi d’istruzione e di ripetizione destinati ai monitori di tiro e ai monitori dei giovani tiratori.
+- b.[^40-1] le aliquote delle indennità e delle retribuzioni per gli ufficiali federali di tiro nonché per i presidenti e i membri delle commissioni cantonali di tiro;
+- c. le aliquote delle indennità e delle retribuzioni per i partecipanti e i funzionari dei corsi d’istruzione e di ripetizione destinati ai monitori di tiro e ai capi dei giovani tiratori.
 
 <sup>2</sup>
 
 Le indennità di cui al capoverso 1 lettera a sono calcolate sulla base del numero:
 
-- a.[^40-1]
+- a.[^40-2]
 
-  dei seguenti partecipanti al programma obbligatorio a 25/50/300 m:
+  dei seguenti partecipanti al programma di tiro a 25/50/300 m:[^40-3]
 
-  - 1\. militari, eccettuate le persone assegnate all’esercito,
+  - 1\.[^40-4] militari,
   - 2\. ufficiali federali di tiro,
-  - 3\. membri delle commissioni cantonali di tiro,
+  - 3\.[^40-5] presidenti e membri delle commissioni cantonali di tiro,
   - 4\. partecipanti ai corsi per giovani tiratori a 300 m,
   - 5\. partecipanti ai corsi di tiro con la pistola per giovani;
 
 - b. dei partecipanti di nazionalità svizzera al tiro in campagna;
 - c. dei partecipanti ai corsi per giovani tiratori.
 
-<sup>3</sup> È considerato partecipante conformemente al capoverso 2 soltanto chi esegue gli esercizi federali con il fucile d’assalto 90, la pistola 75 oppure, se ne è equipaggiato, con il fucile d’assalto 57, la pistola 49 o la pistola 03.[^40-2]
+<sup>3</sup> È considerato partecipante conformemente al capoverso 2 soltanto chi esegue gli esercizi federali con il fucile d’assalto 90, la pistola 75 oppure, se ne è equipaggiato, con il fucile d’assalto 57, la pistola 49 o pistola 12/15.[^40-6]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^40-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
+[^40-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-6]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 41
 
@@ -615,9 +638,10 @@ Le indennità di cui al capoverso 1 lettera a sono calcolate sulla base del nume
 
 <sup>1</sup> I partecipanti agli esercizi federali, ai relativi esercizi preliminari e ai corsi di tiro sono assicurati conformemente alla legge federale del 19 giugno 1992[^42-1] sull’assicurazione militare.
 
-<sup>2</sup> I partecipanti agli esercizi federali, ai relativi esercizi preliminari e ai corsi di tiro (eccettuati i corsi di tiro per ritardatari e i corsi di tiro per «rimasti») sono assicurati contro le conseguenze di danni materiali e le pretese in materia di responsabilità civile presso l’Assicurazione infortuni delle società svizzere di tiro. La Confederazione versa alle società di tiro corrispondenti indennità conformemente agli articoli 38 lettera c e 40 capoverso 2.
+<sup>2</sup> I partecipanti agli esercizi federali, ai relativi esercizi preliminari e ai corsi di tiro sono assicurati dalla società di tiro contro le conseguenze di danni materiali e le pretese in materia di responsabilità civile. La Confederazione versa alle società di tiro corrispondenti indennità conformemente agli articoli 38 lettera c e 40 capoverso 2.[^42-2]
 
 [^42-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^42-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 43
 
@@ -631,11 +655,9 @@ Per le decisioni che concernono il tiro fuori del servizio non è consentito ris
 
 **Contributo per lo sport**[^44-1]
 
-<sup>1</sup> Per l’attività delle associazioni nazionali di tiratori, allo scopo di sostenere l’istruzione al tiro, sulla munizione d’ordinanza venduta può essere riscosso un contributo per lo sport di cinque centesimi al massimo per cartuccia.
+Per l’attività delle associazioni nazionali di tiratori, allo scopo di sostenere l’istruzione al tiro, sulla munizione d’ordinanza venduta può essere riscosso un contributo per lo sport di 10 centesimi al massimo per cartuccia. Le associazioni nazionali di tiratori sono competenti per l’incasso.
 
-<sup>2</sup> Alla fine dell’anno, l’Aggruppamento Difesa provvede a versare alle associazioni nazionali di tiratori gli importi loro destinati, dedotte una tassa d’incasso e le imposte.
-
-[^44-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^44-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 45
 
@@ -643,9 +665,10 @@ Per le decisioni che concernono il tiro fuori del servizio non è consentito ris
 
 <sup>1</sup> La munizione d’ordinanza è consegnata ai tiratori al prezzo stabilito dal DDPS. È possibile domandare una tassa per la cartuccia soltanto se si informa il tiratore sul prezzo della munizione e sull’ammontare della tassa.
 
-<sup>2</sup> L’ammontare massimo della tassa per la cartuccia si fonda sull’ordinanza del DDPS del 12 dicembre 1995[^45-1] concernente l’amministrazione dell’esercito.
+<sup>2</sup> L’ammontare massimo della tassa per la cartuccia si fonda sull’articolo 80 capoverso 3 dell’ordinanza del 21 febbraio 2018[^45-1] concernente l’amministrazione dell’esercito.[^45-2]
 
-[^45-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+[^45-1]: [RS 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^45-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## Sezione 10: Procedure amministrative
 
@@ -682,9 +705,9 @@ L’autorità militare cantonale decide su:
 
 #### Art. 50
 
-**Provvedimenti contro i monitori di tiro e i monitori dei giovani tiratori**[^50-1]
+**Provvedimenti contro i monitori di tiro e i capi dei giovani tiratori**[^50-1]
 
-<sup>1</sup> L’Aggruppamento Difesa revoca il riconoscimento ai monitori di tiro e ai monitori dei giovani tiratori che omettono di frequentare un corso di ripetizione, sono soggetti a una limitazione in materia di consegna di armi in prestito oppure violano in altro modo le prescrizioni concernenti il tiro fuori del servizio.
+<sup>1</sup> L’Aggruppamento Difesa revoca il riconoscimento ai monitori di tiro e ai capi dei giovani tiratori che omettono di frequentare un corso di ripetizione, sono soggetti a una limitazione in materia di consegna di armi in prestito oppure violano in altro modo le prescrizioni concernenti il tiro fuori del servizio.
 
 <sup>2</sup> ...[^50-2]
 
@@ -728,17 +751,19 @@ In caso di disbrigo lacunoso dei lavori amministrativi oppure di mancato rispett
 
 <sup>1</sup> Se vi sono segni o indizi che un detentore di un’arma in prestito possa mettere in pericolo se stesso o terzi con l’arma oppure se vi sono altri segni o indizi di un incombente abuso dell’arma, il comandante di circondario ordina il ritiro cautelativo dell’arma in prestito. Egli può incaricare il corpo di polizia cantonale di ritirare, alla sua attenzione, l’arma.
 
-<sup>2</sup> Le autorità della Confederazione, dei Cantoni e dei Comuni nonché i medici e gli psicologi curanti o incaricati di una perizia che vengono a conoscenza di segni o indizi giusta il capoverso 1, possono informare lo Stato maggiore di condotta dell’esercito o il Servizio medico militare. I tiratori possono comunicare le pertinenti informazioni al comitato della loro società di tiro. In casi giustificati, quest’ultimo avvia immediatamente i provvedimenti necessari.[^53a-2]
+<sup>2</sup> Le autorità della Confederazione, dei Cantoni e dei Comuni nonché i medici e gli psicologi curanti o incaricati di una perizia che vengono a conoscenza di segni o indizi giusta il capoverso 1, possono informare il Comando Istruzione o il Servizio medico dell’esercito. I tiratori possono comunicare le pertinenti informazioni al comitato della loro società di tiro. In casi giustificati, quest’ultimo avvia immediatamente i provvedimenti necessari.[^53a-2]
 
-<sup>3</sup> Se viene a conoscenza di segni o indizi giusta il capoverso 1, lo Stato maggiore di condotta dell’esercito, indicando per scritto i motivi, può incaricare il comandante di circondario del ritiro cautelativo dell’arma in prestito.
+<sup>3</sup> Se viene a conoscenza di segni o indizi giusta il capoverso 1, il Comando Istruzione, indicando per scritto i motivi, può incaricare il comandante di circondario del ritiro cautelativo dell’arma in prestito.[^53a-3]
 
-<sup>4</sup> Indicando i motivi, anche terzi che hanno accesso all’arma in prestito possono, in caso di segni o indizi giusta il capoverso 1, consegnarla a un centro logistico o a un punto di ristabilimento della Base logistica dell’esercito oppure alla polizia in vista del deposito cautelativo.[^53a-3]
+<sup>4</sup> Indicando i motivi, anche terzi che hanno accesso all’arma in prestito possono, in caso di segni o indizi giusta il capoverso 1, consegnarla a un centro logistico o a un punto di ristabilimento della Base logistica dell’esercito oppure alla polizia in vista del deposito cautelativo.[^53a-4]
 
-<sup>5</sup> Lo Stato maggiore di condotta dell’esercito decide se l’arma viene ritirata definitivamente oppure riconsegnata al detentore precedente.
+<sup>5</sup> Il Comando Istruzione decide se l’arma viene ritirata definitivamente oppure riconsegnata al detentore precedente.[^53a-5]
 
 [^53a-1]: Introdotto dal n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6497](https://fedlex.data.admin.ch/eli/oc/2009/793)).
-[^53a-2]: Nuovo testo giusta il n. I 11 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^53a-3]: Nuovo testo giusta il n. I dell’O del 23 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 555](https://fedlex.data.admin.ch/eli/oc/2013/106)).
+[^53a-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^53a-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^53a-4]: Nuovo testo giusta il n. I dell’O del 23 gen. 2013, in vigore dal 1° mar. 2013 ([RU 2013 555](https://fedlex.data.admin.ch/eli/oc/2013/106)).
+[^53a-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 53b
 
@@ -798,7 +823,7 @@ L’ordinanza del 27 febbraio 1991[^56-1] sul tiro fuori del servizio è abrogat
 
 La presente ordinanza entra in vigore il 1° gennaio 2004.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 ...
 

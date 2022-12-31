@@ -3,11 +3,11 @@ sr: "512.31"
 title: Verordnung vom 5. Dezember 2003 über das Schiesswesen ausser Dienst (Schiessverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/754"
 language: de
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2003-12-05
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/754/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2003-754-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/754/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/754/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-754-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/754/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/754/20180101/de"
 
 (Schiessverordnung)
 
-vom 5. Dezember 2003 (Stand am 1. Januar 2018)
+vom 5. Dezember 2003 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -124,22 +124,24 @@ Als Ordonnanzwaffen gelten die folgenden in der Armee verwendeten, unveränderte
   Faustfeuerwaffen:
 
   - 1\. die Pistole 49 (SIG P 210),
-  - 2\. die Pistole 75 (SIGSAUER P 220),
-  - 3\. die Pistole 03 (SIG Pro SPC 2009).[^4-2]
+  - 2\.[^4-2] die Pistole 75 (SIG P 220),
+  - 3\.[^4-3] die Pistole 12/15 (Glock 17 Gen 4).[^4-4]
 
-<sup>3</sup> Als Ordonnanzwaffen gelten auch die entsprechenden P-gestempelten Waffen, welche den Angehörigen der Armee beim Ausscheiden aus der Armee zu Eigentum überlassen werden.[^4-3]
+<sup>3</sup> Als Ordonnanzwaffen gelten auch die entsprechenden P-gestempelten Waffen, welche den Angehörigen der Armee beim Ausscheiden aus der Armee zu Eigentum überlassen werden.[^4-5]
 
 <sup>4</sup>
 
 Als Ordonnanzmunition gelten:
 
 - a. die Gewehrpatronen 11 und 90;
-- b. die Pistolenpatrone 14.[^4-4]
+- b. die Pistolenpatrone 14.[^4-6]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
 
 #### Art. 5
 
@@ -176,9 +178,11 @@ Der Handel mit Ordonnanzmunition im Schiesswesen ausser Dienst ist verboten. Das
 
 #### Art. 8
 
-**Jugendschiessen**
+**Jugendschiessanlässe**[^8-1]
 
-Der Bund kann Jugendschiessen von nationaler, kantonaler oder regionaler Bedeutung für Teilnehmende ab dem 10. Altersjahr durch die Abgabe von Kaufmunition und die Ausleihe von Sturmgewehren 90 unterstützen.
+Der Bund kann Jugendschiessanlässe von nationaler, kantonaler oder regionaler Bedeutung für Teilnehmende ab dem 10. Altersjahr durch die Abgabe von Kaufmunition und die Ausleihe von Sturmgewehren 90 unterstützen.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## 2. Abschnitt: Schiesspflicht und freiwillige Teilnahme
 
@@ -190,15 +194,18 @@ Der Bund kann Jugendschiessen von nationaler, kantonaler oder regionaler Bedeutu
 
 <sup>2</sup> Die kantonalen Militärbehörden veröffentlichen jedes Jahr die notwendigen Angaben über die Erfüllung der Schiesspflicht.
 
-<sup>3</sup> Schiesspflichtige Subalternoffiziere, Unteroffiziere und Angehörige der Mannschaft erfüllen bis zum Ende des Jahres vor der Entlassung aus der Militärdienstpflicht, längstens jedoch bis zum Ende des Jahres, in dem sie das 34. Altersjahr vollenden, jährlich eine obligatorische Schiessübung.
+<sup>3</sup> Schiesspflichtige Subalternoffiziere, Unteroffiziere und Angehörige der Mannschaft erfüllen bis zum Ende des Jahres vor der Entlassung aus der Militärdienstpflicht, längstens jedoch bis zum Ende des Jahres, in dem sie das 35. Altersjahr vollenden, jährlich eine obligatorische Schiessübung.[^9-1]
 
 <sup>4</sup>
 
 Kostenlos ist die Teilnahme an:
 
-- a. Bundesübungen für die Angehörigen der Armee und Absolventinnen und Absolventen von Jungschützenkursen;
+- a.[^9-2] Bundesübungen für die Angehörigen der Armee und Absolventinnen und Absolventen von Jungschützenkursen beziehungsweise Pistolenjuniorenkursen;
 - b. Feldschiessen für die Teilnehmenden schweizerischer Nationalität;
 - c. Schiesskursen.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 10
 
@@ -219,15 +226,16 @@ Ausgenommen von der Schiesspflicht sind:
 - a. Subalternoffiziere des Psychologisch-Pädagogischen Dienstes der Armee;
 - b. Subalternoffiziere der Militärjustiz;
 - c. Angehörige der Armee, die nicht als am Sturmgewehr ausgebildet gelten;
-- d. das militärische Personal der Militärischen Sicherheit;
-- e.[^10a-2] das militärische Personal des Armeeaufklärungsdetachementes 10;
-- f.[^10a-3] Subalternoffiziere in der Funktion Arzt;
-- g.[^10a-4] Subalternoffiziere der Durchdienenden nach der Entlassung aus der Armee.
+- d.[^10a-2] das militärische Personal des Kommandos Militärpolizei;
+- e.[^10a-3] das militärische Personal des Armeeaufklärungsdetachementes 10;
+- f.[^10a-4] Subalternoffiziere in der Funktion Arzt;
+- g.[^10a-5] Subalternoffiziere der Durchdienenden nach der Entlassung aus der Armee.
 
 [^10a-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2007 ([AS 2007 6795](https://fedlex.data.admin.ch/eli/oc/2007/871)). Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
-[^10a-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^10a-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 [^10a-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^10a-4]: Eingefügt durch Anhang 7 Ziff. II 3 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^10a-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^10a-5]: Eingefügt durch Anhang 7 Ziff. II 3 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 11
 
@@ -247,22 +255,24 @@ Von der Schiesspflicht kann dispensiert werden, wer im betreffenden Jahr:
 
 Zur Teilnahme an Bundesübungen können zugelassen werden:
 
-- a. Schweizerinnen und Schweizer, die nicht der Armee angehören;
+- a.[^12-1] Schweizerinnen und Schweizer;
 - b. Ausländerinnen und Ausländer mit Niederlassungsbewilligung, sofern dem betreffenden Schiessverein für deren Teilnahme eine Bewilligung durch die kantonale Militärbehörde erteilt worden ist;
-- c.[^12-1]
+- c.[^12-2]
 
   Ausländerinnen und Ausländer ohne Niederlassungsbewilligung, sofern:
 
-  - 1\. sie der kantonalen Militärbehörde eine amtliche Bestätigung nach Artikel 9*a* Absatz 1<sup>bis</sup> des Waffengesetzes vom 20. Juni 1997[^12-2] vorgelegt haben,
+  - 1\.[^12-3] sie der kantonalen Militärbehörde eine amtliche Bestätigung nach Artikel 9*a* Absatz 1 respektive 1<sup>bis</sup> des Waffengesetzes vom 20. Juni 1997[^12-4] vorgelegt haben,
   - 2\. die für das Waffengesetz zuständige Behörde die Echtheit der Bestätigung nach Ziffer 1 bestätigt hat, und
   - 3\. die kantonale Militärbehörde dem betreffenden Schiessverein eine Bewilligung für die Teilnahme der Ausländerinnen und Ausländer erteilt hat.
 
-<sup>2</sup> Staatsangehörige, deren Heimatstaaten in Artikel 12 Absatz 1 der Waffenverordnung vom 2. Juli 2008[^12-3] aufgeführt sind, benötigen zusätzlich eine Bewilligung der zuständigen kantonalen Behörde.[^12-4]
+<sup>2</sup> Staatsangehörige, deren Heimatstaaten in Artikel 12 Absatz 1 der Waffenverordnung vom 2. Juli 2008[^12-5] aufgeführt sind, benötigen zusätzlich eine Bewilligung der zuständigen kantonalen Behörde.[^12-6]
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^12-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^12-3]: [SR 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
-[^12-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^12-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^12-5]: [SR 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
+[^12-6]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
 
 ## 3. Abschnitt: Schiesskurse
 
@@ -274,23 +284,26 @@ Zur Teilnahme an Bundesübungen können zugelassen werden:
 
 <sup>2</sup>
 
-Zu diesen Kursen wird zugelassen, wer:
+Zu Schützenmeisterkursen wird zugelassen, wer:[^13-1]
 
 - a. Mitglied eines anerkannten Schiessvereins ist;
 - b. im betreffenden Jahr das 20. Altersjahr vollendet oder die Rekrutenschule bestanden hat;
 - c. keinen Bezugseinschränkungen für Leihwaffen unterliegt.
 
-<sup>3</sup>
+<sup>3</sup> Zu Jungschützenleiterkursen wird zugelassen, wer die Anforderungen nach Absatz 2 erfüllt und zusätzlich einen aktiven Status als Schützenmeister 300 m hat.[^13-2]
+
+<sup>4</sup>
 
 Es können auch Ausländerinnen und Ausländer mit Niederlassungsbewilligung zugelassen werden, sofern diese:
 
-- a. die Zulassungsvoraussetzungen nach Absatz 2 erfüllen;
-- b.[^13-1] über eine Bewilligung der kantonalen Militärbehörde zur Teilnahme an Bundesübungen nach Artikel 12 verfügen; und
-- c.[^13-2] über einen Waffenerwerbsschein nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^13-3] verfügen.
+- a. die Zulassungsvoraussetzungen nach Absatz 2 für Schützenmeisterkurse, respektive 2 und 3 für die Jungschützenleiterkurse erfüllen;
+- b. über eine Bewilligung der kantonalen Militärbehörde zur Teilnahme an Bundesübungen nach Artikel 12 verfügen;
+- c. über einen Waffenerwerbsschein nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^13-3] verfügen.[^13-4]
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
-[^13-3]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^13-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^13-3]: [[SR 514.54](https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/de)](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^13-4]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 14
 
@@ -310,19 +323,21 @@ Das VBS erlässt Vorschriften über die Durchführung von Schützenmeister- und 
 
 #### Art. 16
 
-**Nachschiesskurse**
+**Nachschiesskurse**[^16-1]
 
-Schiesspflichtige, welche das obligatorische Programm nicht oder nicht vorschriftsgemäss in einem Schiessverein geschossen haben, werden zur Erfüllung der Schiesspflicht durch amtliche Bekanntmachung der Kantone zu einem Nachschiesskurs in Zivilkleidung aufgeboten.
+Schiesspflichtige, welche das obligatorische Programm nicht oder nicht vorschriftsgemäss in einem Schiessverein geschossen haben, müssen ihre Schiesspflicht in einem Nachschiesskurs erfüllen.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 17
 
 **Verbliebenenkurse**[^17-1]
 
-<sup>1</sup> Schiesspflichtige, welche die Bedingungen des obligatorischen Programms nicht erfüllen und ausbildungsdienstpflichtig sind, werden von der kantonalen Militärbehörde des Wohnortkantons mit persönlichem Marschbefehl zu einem besoldeten eintägigen Kurs für Verbliebene aufgeboten.
+<sup>1</sup> Schiesspflichtige, welche die Bedingungen des obligatorischen Programms nicht erfüllen, werden von der kantonalen Militärbehörde des Wohnortkantons zu einem eintägigen Kurs für Verbliebene aufgeboten.
 
-<sup>2</sup> Der Verbliebenenkurs wird in Zivil bestanden und an die Ausbildungsdienstpflicht angerechnet.
+<sup>2</sup> Der Verbliebenenkurs wird in zivil absolviert.
 
-[^17-1]: Fassung gemäss Anhang 7 Ziff. II 3 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^17-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## 4. Abschnitt: Landesschützenverbände und Schiessvereine
 
@@ -373,18 +388,9 @@ Es können nur Vereine anerkannt werden, die:
 
 #### Art. 20
 
-**Schiesssektionen im Ausland**
+[^20-1]
 
-<sup>1</sup>
-
-Das VBS kann Schweizer Schiesssektionen im Ausland auf Gesuch hin als Schiessvereine anerkennen, wenn:
-
-- a. sie die Schiessfertigkeit von Angehörigen der Armee erhalten und fördern;
-- b. ihre Schiesstätigkeit den Vorschriften des betreffenden Staates entspricht.
-
-<sup>2</sup> Schweizer Schiesssektionen im Ausland geniessen bezüglich Leihwaffen und Munition dieselben Rechte wie die Schiessvereine im Inland. Sie erhalten anstelle von Barbeiträgen zusätzliche Gratismunition im entsprechenden Gegenwert.
-
-<sup>3</sup> Der Bund trägt die Kosten und die Versicherungsprämien für die Waffen- und Munitionstransporte.
+[^20-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 21
 
@@ -450,9 +456,11 @@ Die Bundesübungen dürfen nur mit Ordonnanzwaffen und den weiteren vom VBS zuge
 
 #### Art. 28
 
-**Kontrolle und Berichterstattung**
+**Kontrolle und Berichterstattung**[^28-1]
 
-Die Mitglieder der kantonalen Schiesskommissionen prüfen den Schiessbericht und die dazugehörenden Standblätter auf Vollständigkeit und Richtigkeit.
+Die Mitglieder der kantonalen Schiesskommissionen kontrollieren den Schiessbetrieb und prüfen den Schiessbericht mit den dazugehörenden Standblättern auf Vollständigkeit und Richtigkeit.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## 6. Abschnitt: Schiessanlagen
 
@@ -460,13 +468,15 @@ Die Mitglieder der kantonalen Schiesskommissionen prüfen den Schiessbericht und
 
 <sup>1</sup>
 
-Kann in einer Gemeinde keine Schiessanlage gebaut werden und ist ein Zusammenschluss mit einer anderen Gemeinde nicht möglich, so verordnet die kantonale Militärbehörde, nach Anhören des zuständigen eidgenössischen Schiessoffiziers:
+Kann in einer Gemeinde eine bestehende Schiesslange nicht weiter betrieben oder keine neue Schiessanlage gebaut werden, und ist ein Zusammenschluss mit einer anderen Gemeinde nicht möglich, so verordnet die kantonale Militärbehörde, nach Anhören des zuständigen eidgenössischen Schiessoffiziers:[^29-1]
 
 - a. die Zuweisung einer fremden Gemeindeschiessanlage;
 - b. den Zusammenschluss mehrerer Gemeinden zu einem Zweckverband für die Errichtung einer Gemeinschaftsschiessanlage;
 - c. die Errichtung einer Gemeindeschiessanlage auf dem Gebiet einer anderen Gemeinde.
 
 <sup>2</sup> Neugegründeten Vereinen kann eine bisherige Gemeindeschiessanlage zugewiesen werden, auch wenn bereits andere Schiessvereine die Schiessanlage benützen oder ausgebaut haben.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## 7. Abschnitt: Behörden und ihre Organe
 
@@ -490,21 +500,24 @@ Das VBS legt eidgenössische Schiesskreise fest.
 
 **Eidgenössische Schiessoffiziere**[^32-1]
 
-<sup>1</sup> Die Departementschefin oder der Departementschef des VBS ernennt im Einvernehmen mit den kantonalen Militärbehörden für jeden Schiesskreis einen eidgenössischen Schiessoffizier, der dem Chef der Armee unterstellt ist.
+<sup>1</sup> Die Departementschefin oder der Departementschef des VBS ernennt im Einvernehmen mit den kantonalen Militärbehörden für jeden eidgenössischen Schiesskreis einen eidgenössischen Schiessoffizier, der dem Chef Kommando Ausbildung unterstellt ist.[^32-2]
 
 <sup>2</sup> Die eidgenössischen Schiessoffiziere beaufsichtigen die kantonalen Schiesskommissionen, begutachten die Schiessanlagen und sorgen für deren Überwachung. Das VBS regelt die Aufgaben, Entschädigungen und Spesen der eidgenössischen Schiessoffiziere in einer Verordnung.
 
 <sup>3</sup> Die eidgenössischen Schiessoffiziere sind im Auftragsverhältnis tätig. Bei Angestellten des Bundes gelten die Einsätze als Ausübung eines öffentlichen Amtes.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 33
 
-**Eidgenössischer Schiessanlagenexperte**
+**Eidgenössische Schiessanlagenexpertin oder eidgenössischer Schiessanlagenexperte**[^33-1]
 
-<sup>1</sup> Das VBS ernennt einen eidgenössischen Schiessanlagenexperten als Berater des Departementes und der eidgenössischen Schiessoffiziere in allen technischen Fragen der Schiessanlagen für das Schiesswesen ausser Dienst.
+<sup>1</sup> Das VBS ernennt eine eidgenössische Schiessanlagenexpertin als Beraterin oder einen eidgenössischen Schiessanlagenexperten als Berater des Departementes und der eidgenössischen Schiessoffiziere in allen technischen Fragen der Schiessanlagen für das Schiesswesen ausser Dienst.
 
-<sup>2</sup> Es erlässt Vorschriften über die Unterstellung und Zuständigkeit des eidgenössischen Schiessanlagenexperten.
+<sup>2</sup> Es erlässt Vorschriften über die Unterstellung und Zuständigkeit der eidgenössischen Schiessanlagenexpertin oder des eidgenössischen Schiessanlagenexperten.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 34
 
@@ -519,15 +532,20 @@ Die kantonalen Militärbehörden:
 - c. ahnden die Nichterfüllung der Schiesspflicht und die Zuwiderhandlungen gegen die Vorschriften des Schiesswesens ausser Dienst;
 - d. erteilen Bewilligungen für die Teilnahme von Ausländerinnen und Ausländern an Bundesübungen;
 - e. erteilen und widerrufen die Betriebsbewilligung von Schiessanlagen für das Schiesswesen ausser Dienst;
-- f. treffen die Anordnung nach Artikel 29.
+- f. treffen die Anordnung nach Artikel 29;
+- g.[^34-1] dispensieren Angehörige der Armee von der Schiesspflicht.
 
 <sup>2</sup> Sie können bei schweren Pflichtverletzungen, insbesondere bei fachlichen, organisatorischen oder kommunikativen Mängeln, Präsidentinnen, Präsidenten und Mitglieder einer kantonalen Schiesskommission abberufen. Vor dem Entscheid ist der betroffenen Person das rechtliche Gehör zu gewähren.
 
+[^34-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+
 #### Art. 35
 
-**Kantonale Schiesskreise**
+**Kantonale Schiesskreise**[^35-1]
 
-Die Kantone bilden die kantonalen Schiesskreise.
+Die Kantone legen die kantonalen Schiesskreise fest.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 36
 
@@ -543,9 +561,11 @@ Die Kantone bilden die kantonalen Schiesskreise.
 
 #### Art. 37
 
-**Leistungen an die Kantone**
+**Leistungen an die Kantone**[^37-1]
 
-Die Mitglieder der kantonalen Schiesskommissionen erhalten vom Bund Entschädigungen.
+Die Präsidentinnen, die Präsidenten und die Mitglieder der kantonalen Schiesskommissionen erhalten vom Bund Entschädigungen.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 38
 
@@ -574,30 +594,33 @@ Die anerkannten Landesschützenverbände erhalten vom Bund jährlich Entschädig
 Das VBS bestimmt im Einvernehmen mit dem Eidgenössischen Finanzdepartement:
 
 - a. die Ansätze für die Entschädigungen an die Vereine und Landesschützenverbände;
-- b. die Ansätze für die Entschädigungen und Vergütungen an die eidgenössischen Schiessoffiziere und an die Mitglieder der kantonalen Schiesskommissionen;
+- b.[^40-1] die Ansätze für die Entschädigungen und Vergütungen an die eidgenössischen Schiessoffiziere sowie an die Präsidentinnen, Präsidenten und Mitglieder der kantonalen Schiesskommissionen;
 - c. die Ansätze für die Entschädigungen und Vergütungen an die Teilnehmerinnen und Teilnehmer sowie Funktionärinnen und Funktionäre von Ausbildungs- und Wiederholungskursen für Schützenmeisterinnen und Schützenmeister sowie Jungschützenleiterinnen und Jungschützenleiter.
 
 <sup>2</sup>
 
 Die Entschädigungen nach Absatz 1 Buchstabe a bemessen sich nach der Zahl:
 
-- a.[^40-1]
+- a.[^40-2]
 
   der am obligatorischen Programm 25/50/300 m teilnehmenden:
 
-  - 1\. Angehörigen der Armee, ohne die der Armee zugewiesenen Personen,
+  - 1\.[^40-3] Angehörigen der Armee,
   - 2\. eidgenössischen Schiessoffiziere,
-  - 3\. Mitglieder der kantonalen Schiesskommissionen,
+  - 3\.[^40-4] Präsidentinnen, Präsidenten und Mitglieder der kantonalen Schiesskommissionen,
   - 4\. Absolventinnen und Absolventen von Jungschützenkursen 300 m,
   - 5\. Absolventinnen und Absolventen von Pistolenkursen für Juniorinnen und Junioren;
 
 - b. der Teilnehmenden schweizerischer Nationalität am Feldschiessen;
 - c. der Teilnehmenden an Jungschützenkursen.
 
-<sup>3</sup> Als Teilnehmerin oder Teilnehmer nach Absatz 2 gilt nur, wer die Bundesübungen mit dem Sturmgewehr 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Sturmgewehr 57, der Pistole 49 oder der Pistole 03 absolviert.[^40-2]
+<sup>3</sup> Als Teilnehmerin oder Teilnehmer nach Absatz 2 gilt nur, wer die Bundesübungen mit dem Sturmgewehr 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Sturmgewehr 57, der Pistole 49 oder der Pistole 12/15 absolviert.[^40-5]
 
-[^40-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
-[^40-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^40-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
+[^40-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^40-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 41
 
@@ -615,9 +638,10 @@ Die Entschädigungen nach Absatz 1 Buchstabe a bemessen sich nach der Zahl:
 
 <sup>1</sup> Die Teilnehmerinnen und Teilnehmer an Bundesübungen und Vorübungen dazu sowie an Schiesskursen sind nach dem Bundesgesetz vom 19. Juni 1992[^42-1] über die Militärversicherung versichert.
 
-<sup>2</sup> Die Teilnehmerinnen und Teilnehmer an Bundesübungen und Vorübungen dazu sowie an Schiesskursen (mit Ausnahme der Nachschiess- und Verbliebenenkurse) sind gegen die Folgen von Sachschäden und die Haftpflicht bei der Unfallversicherung Schweizerischer Schützenvereine versichert. Der Bund richtet den Schiessvereinen entsprechende Entschädigungen nach den Artikeln 38 Buchstabe c und 40 Absatz 2 aus.
+<sup>2</sup> Die Teilnehmerinnen und Teilnehmer an Bundesübungen und Vorübungen dazu sowie an Schiesskursen sind durch den Schiessverein gegen die Folgen von Sachschäden und die Haftpflicht zu versichern. Der Bund richtet den Schiessvereinen entsprechende Entschädigungen nach den Artikeln 38 Buchstabe c und 40 Absatz 2 aus.[^42-2]
 
 [^42-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^42-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 43
 
@@ -631,11 +655,9 @@ Für Verfügungen, die das Schiesswesen ausser Dienst betreffen, dürfen keine G
 
 **Sportbeitrag**[^44-1]
 
-<sup>1</sup> Für die Tätigkeit der Landesschützenverbände kann auf der verkauften Ordonnanzmunition zur Unterstützung der Schiessausbildung ein Sportbeitrag von höchstens fünf Rappen pro Schuss erhoben werden.
+Für die Tätigkeit der Landeschützenverbände kann auf der verkauften Ordonnanzmunition zur Unterstützung der Schiessausbildung ein Sportbeitrag von höchstens 10 Rappen pro Schuss erhoben werden. Für das Inkasso sind die Landeschützenverbände zuständig.
 
-<sup>2</sup> Die für die Landesschützenverbände bestimmten Beträge abzüglich einer Inkassogebühr und Steuern werden durch die Gruppe Verteidigung auf Ende des Jahres überwiesen.
-
-[^44-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 45
 
@@ -643,9 +665,10 @@ Für Verfügungen, die das Schiesswesen ausser Dienst betreffen, dürfen keine G
 
 <sup>1</sup> Die Ordonnanzmunition muss den Schützinnen und Schützen zu dem vom VBS festgelegten Preis abgegeben werden. Die Berechnung eines Schussgeldes ist nur dann gestattet, wenn Munitionspreis und Schussgeld einzeln zur Kenntnis gebracht werden.
 
-<sup>2</sup> Die maximale Höhe des Schussgeldes richtet sich nach der Verordnung des VBS vom 12. Dezember 1995[^45-1] über die Verwaltung der Armee.
+<sup>2</sup> Die maximale Höhe des Schussgeldes richtet sich nach Artikel 80 Absatz 3 der Verordnung vom 21. Februar 2018[^45-1] über die Verwaltung der Armee.[^45-2]
 
-[^45-1]: [SR 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+[^45-1]: [SR 510.301](https://fedlex.data.admin.ch/eli/cc/2018/161)
+[^45-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 ## 10. Abschnitt: Verwaltungsverfahren
 
@@ -724,22 +747,19 @@ Bei mangelhafter Erledigung administrativer Arbeiten oder bei der Missachtung vo
 
 #### Art. 53a
 
-**Massnahmen gegen Besitzer einer Leihwaffe**[^53a-1]
+**Massnahmen gegen Besitzerinnen und Besitzer einer Leihwaffe**[^53a-1]
 
-<sup>1</sup> Bestehen Anzeichen oder Hinweise, dass ein Besitzer einer Leihwaffe sich selbst oder Dritte mit der Leihwaffe gefährden könnte, oder bestehen andere Anzeichen für oder Hinweise auf einen drohenden Missbrauch der Leihwaffe, so ordnet der Kreiskommandant die vorsorgliche Abnahme der Leihwaffe an. Er kann das kantonale Polizeikorps beauftragen, die Leihwaffe zu seinen Handen einzuziehen.[^53a-2]
+<sup>1</sup> Bestehen Anzeichen oder Hinweise, dass eine Besitzerin oder ein Besitzer einer Leihwaffe sich selbst oder Dritte mit der Leihwaffe gefährden könnte, oder bestehen andere Anzeichen für oder Hinweise auf einen drohenden Missbrauch der Leihwaffe, so ordnet der Kreiskommandant die vorsorgliche Abnahme der Leihwaffe an. Er kann das kantonale Polizeikorps beauftragen, die Leihwaffe zu seinen Handen einzuziehen.
 
-<sup>2</sup> Behörden des Bundes, der Kantone und der Gemeinden, behandelnde oder begutachtende Ärztinnen, Ärzte, Psychologinnen und Psychologen, denen in Absatz 1 genannte Anzeichen oder Hinweise bekannt werden, können diese dem Führungsstab der Armee oder dem Militärärztlichen Dienst melden. Schützen und Schützinnen können entsprechende Kenntnisse dem Vorstand ihres Schützenvereins melden. Dieser leitet in begründeten Fällen umgehend die erforderlichen Massnahmen ein.[^53a-3]
+<sup>2</sup> Behörden des Bundes, der Kantone und der Gemeinden, behandelnde oder begutachtende Ärztinnen, Ärzte, Psychologinnen und Psychologen, denen in Absatz 1 genannte Anzeichen oder Hinweise bekannt werden, können diese dem Kommando Ausbildung oder dem Militärärztlichen Dienst melden. Schützinnen und Schützen können entsprechende Kenntnisse dem Vorstand ihres Schützenvereins melden. Dieser leitet in begründeten Fällen umgehend die erforderlichen Massnahmen ein.
 
-<sup>3</sup> Der Führungsstab der Armee kann, wenn er Kenntnis von Anzeichen oder Hinweisen gemäss Absatz 1 erhält, den Kreiskommandanten schriftlich begründet mit der vorsorglichen Abnahme der Leihwaffe beauftragen.
+<sup>3</sup> Das Kommando Ausbildung kann, wenn es Kenntnis von Anzeichen oder Hinweisen gemäss Absatz 1 erhält, den Kreiskommandanten schriftlich begründet mit der vorsorglichen Abnahme der Leihwaffe beauftragen.
 
-<sup>4</sup> Unter Angabe der Gründe können auch Dritte, die Zugang zur Leihwaffe haben, diese bei Anzeichen oder Hinweisen gemäss Absatz 1 bei einem Armeelogistikcenter oder einer Retablierungsstelle der Logistikbasis der Armee oder der Polizei zur vorsorglichen Hinterlegung abliefern.[^53a-4]
+<sup>4</sup> Unter Angabe der Gründe können auch Dritte, die Zugang zur Leihwaffe haben, diese bei Anzeichen oder Hinweisen gemäss Absatz 1 bei einem Armeelogistikcenter oder einer Retablierungsstelle der Logistikbasis der Armee oder der Polizei zur vorsorglichen Hinterlegung abliefern.
 
-<sup>5</sup> Der Führungsstab der Armee entscheidet, ob die Leihwaffe definitiv zurückgenommen oder dem vorherigen Besitzer wieder ausgehändigt wird.
+<sup>5</sup> Das Kommando Ausbildung entscheidet, ob die Leihwaffe definitiv zurückgenommen oder der vorherigen Besitzerin respektive dem vorherigen Besitzer wieder ausgehändigt wird.
 
-[^53a-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6497](https://fedlex.data.admin.ch/eli/oc/2009/793)).
-[^53a-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)).
-[^53a-3]: Fassung gemäss Ziff. I 11 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^53a-4]: Fassung gemäss Ziff. I der V vom 23. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 555](https://fedlex.data.admin.ch/eli/oc/2013/106)).
+[^53a-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2009 ([AS 2009 6497](https://fedlex.data.admin.ch/eli/oc/2009/793)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 53b
 
@@ -783,7 +803,7 @@ Das VBS vollzieht diese Verordnung und erlässt die notwendigen Ausführungsbest
 
 Die Verordnung vom 27. Februar 1991[^56-1] über das Schiesswesen ausser Dienst wird aufgehoben.
 
-[^56-1]: [[AS 1991 662](https://fedlex.data.admin.ch/eli/oc/1991/662_662_662), [1996 759](https://fedlex.data.admin.ch/eli/oc/1996/759_759_759), [1997 2624](https://fedlex.data.admin.ch/eli/oc/1997/2624_2624_2624)]
+[^56-1]: [[AS 1991 662](https://fedlex.data.admin.ch/eli/oc/1991/662_662_662); [1996 759](https://fedlex.data.admin.ch/eli/oc/1996/759_759_759); [1997 2624](https://fedlex.data.admin.ch/eli/oc/1997/2624_2624_2624)]
 
 #### Art. 57
 
@@ -799,6 +819,6 @@ Die Verordnung vom 27. Februar 1991[^56-1] über das Schiesswesen ausser Dienst 
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 [^t-1]: Eingefügt durch Ziff. II der V vom 16. Nov. 2011 ([AS 2011 6191](https://fedlex.data.admin.ch/eli/oc/2011/865)). Aufgehoben durch Ziff. II der V vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
