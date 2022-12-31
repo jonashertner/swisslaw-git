@@ -4,13 +4,13 @@ number: "741.1"
 title: Kantonales Energiegesetz
 short: KEnG
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-09
 adopted: 2011-05-15
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2167/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2713/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,21 +19,21 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2167/pdf_file"
 
 (KEnG)
 
-vom 15.05.2011 (Stand 01.04.2021)
+vom 15.05.2011 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
-in Ausführung von Artikel 89 Absatz 1 und 4 der Bundesverfassung (BV)[^ingress-1] und Artikel 35 Absatz 2 und 3 der Kantonsverfassung[^ingress-2], gestützt auf Artikel 19 des eidgenössischen Energiegesetzes vom 26. Juni 1998 (EnG)[^ingress-3], Artikel 30 Absatz 1 des Bundesgesetzes vom 23. März 2007 über die Stromversorgung (Stromversorgungsgesetz, StromVG)[^ingress-4] und Artikel 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzgesetz, USG)[^ingress-5],
+in Ausführung von Artikel 89 Absatz 1 und 4 der Bundesverfassung (BV)[^ingress-1] und Artikel 35 Absatz 2 und 3 der Kantonsverfassung[^ingress-2], gestützt auf Artikel 60 Absatz 2 des eidgenössischen Energiegesetzes vom 30. September 2016 (EnG)[^ingress-3], Artikel 30 Absatz 1 des Bundesgesetzes vom 23. März 2007 über die Stromversorgung (Stromversorgungsgesetz, StromVG)[^ingress-4] und Artikel 36 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz (Umweltschutzgesetz, USG)[^ingress-5],
 
 auf Antrag des Regierungsrates,
 
 beschliesst:
 
-[^ingress-1]: SR 101
-[^ingress-2]: BSG 101.1
-[^ingress-3]: SR 730.0
-[^ingress-4]: SR 734.7
-[^ingress-5]: SR 814.01
+[^ingress-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
+[^ingress-2]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
+[^ingress-3]: SR [730.0](https://db.clex.ch/link/Bund/730.0/de)
+[^ingress-4]: SR [734.7](https://db.clex.ch/link/Bund/734.7/de)
+[^ingress-5]: SR [814.01](https://db.clex.ch/link/Bund/814.01/de)
 
 ## 1 Allgemeines
 
@@ -178,10 +178,18 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden können für das ganze Gemeindegebiet oder für Teile davon in der baurechtlichen Grundordnung oder in Überbauungsordnungen die Verpflichtung einführen,
 
-- a bei Gebäuden, die neu erstellt oder so umgebaut oder umgenutzt werden, dass die Energienutzung beeinflusst wird, einen bestimmten erneuerbaren Energieträger einzusetzen oder das Gebäude an ein Fernwärme- oder Fernkälteverteilnetz anzuschliessen,
-- b bei Gebäuden, die neu erstellt oder erweitert werden, den Höchstanteil nicht erneuerbarer Energien am zulässigen Wärmebedarf weiter zu begrenzen.
+- a bei Gebäuden, die neu erstellt werden oder deren Heizungen oder zentrale Anlagen zur Warmwasseraufbereitung zu wesentlichen Teilen ersetzt werden, einen bestimmten, erneuerbaren Energieträger einzusetzen oder das Gebäude an ein Fernwärme- oder Fernkälteverteilnetz anzuschliessen,
+- b bei Gebäuden, die neu erstellt oder erweitert werden, die gewichtete Gesamtenergieeffizienz weiter zu begrenzen.
 
-<sup>2</sup> Wo die Gemeinde eine Anschlusspflicht an ein Fernwärme- oder Fernkältenetz vorsieht, ist das zuständige Energieversorgungsunternehmen nach Massgabe der verfügbaren Energiemenge verpflichtet, den Haushalten und Betrieben des Gebiets die benötigte Fernwärme oder Fernkälte zu liefern.
+<sup>2</sup> Wo die Gemeinde eine Anschlusspflicht an ein Fernwärme- oder Fernkälteverteilnetz vorsieht, ist das zuständige Energieversorgungsunternehmen nach Massgabe der verfügbaren Energiemenge verpflichtet, den Haushalten und Betrieben des Gebiets die benötigte Fernwärme oder Fernkälte zu liefern.
+
+<sup>3</sup> Die Gemeinden können für Gesamtüberbauungen eine gemeinsame gewichtete Gesamtenergieeffizienz vorschreiben.
+
+<sup>4</sup> Sie bestimmen die gewichtete Gesamtenergieeffizienz so, dass im Ergebnis die Anforderungen von Artikel 42 eingehalten werden.
+
+<sup>5</sup> Der Kanton stellt den Gemeinden für die Vorschriften gemäss Absatz 1 und 3 Musterregelungen zur Verfügung.
+
+<sup>6</sup> Der Regierungsrat kann für die weitere Begrenzung der Gesamtenergieeffizienz gemäss Artikel 13 Absatz 1 Buchstabe b eine Bandbreite vorsehen.
 
 #### Art. 14
 
@@ -196,7 +204,7 @@ beschliesst:
 
 #### Art. 15
 
-**3. Vorschriften zu gemeinsamen Heiz- und Heizkraftwerken**
+**3. Vorschriften zu gemeinsamen Heizwerken und Heizkraftwerken**
 
 <sup>1</sup> Die Gemeinden können in der baurechtlichen Grundordnung oder in Überbauungsordnungen für Gesamtüberbauungen und Neubaugebiete vorschreiben, dass ein gemeinsames Heizwerk oder Heizkraftwerk erstellt wird.
 
@@ -206,11 +214,11 @@ beschliesst:
 
 #### Art. 16
 
-**4. Vorbehalt der Nutzung eigener erneuerbarer Energien**
+**4. Ausnahme von der Anschlusspflicht und Vorbehalt der Nutzung eigener erneuerbarer Energien**
 
-<sup>1</sup> Wer höchstens 25 Prozent des zulässigen Wärmebedarfs für Heizung und Warmwasser mit nicht erneuerbaren Energien deckt, kann nicht zum Anschluss an ein Fernwärmeverteilnetz oder an ein gemeinsames Heiz- oder Heizkraftwerk verpflichtet werden.
+<sup>1</sup> Keine Anschlusspflicht nach Artikel 13 und 15 besteht für Gebäude, die bei der gewichteten Gesamtenergieeffizienz in der höchsten Klasse sind.
 
-<sup>2</sup> Die Gemeinden dürfen den Grundeigentümerinnen und Grundeigentümern, die zum Anschluss an ein Fernwärmeverteilnetz oder an ein gemeinsames Heiz- oder Heizkraftwerk verpflichtet sind, die Nutzung eigener erneuerbarer Energien nicht untersagen.
+<sup>2</sup> Die Gemeinden dürfen den Grundeigentümerinnen und Grundeigentümern, die zum Anschluss an ein Fernwärmeverteilnetz oder an ein gemeinsames Heizwerk oder Heizkraftwerk verpflichtet sind, die Nutzung eigener erneuerbarer Energien nicht untersagen.
 
 #### Art. 17
 
@@ -424,7 +432,7 @@ beschliesst:
 
 #### Art. 40
 
-**Anforderungen an haustechnische Anlagen 1. Heizung, Warmwasser**
+**Anforderungen an gebäudetechnische Anlagen 1. Heizung, Warmwasser**
 
 <sup>1</sup> Heizungen und Anlagen zur Warmwasseraufbereitung sind so auszulegen, zu betreiben und zu unterhalten, dass Energieverbrauch und Umweltbelastung möglichst gering bleiben.
 
@@ -432,6 +440,21 @@ beschliesst:
 
 - a die Installation neuer ortsfester elektrischer Widerstandsheizungen zur Gebäudebeheizung,
 - b der Ersatz von ortsfesten elektrischen Widerstandsheizungen mit Wasserverteilsystem durch ortsfeste elektrische Widerstandsheizungen.
+
+<sup>3</sup> In Wohnbauten sind zentrale Wassererwärmer nicht gestattet, die ausschliesslich direkt elektrisch beheizt werden.
+
+#### Art. 40a
+
+**1a. Ersatz von Wärmeerzeugern**
+
+<sup>1</sup> Der Ersatz eines Wärmeerzeugers zur Gebäudebeheizung ist meldepflichtig.
+
+<sup>2</sup> Wird bei einem Gebäude, das älter als 20 Jahre ist, der Wärmeerzeuger ersetzt, sind die Anforderungen erfüllt, wenn
+
+- a eine Standardlösung fachgerecht umgesetzt wird oder
+- b die gewichtete Gesamtenergieeffizienz des Gebäudes den kantonalen Anforderungen entspricht.
+
+<sup>3</sup> Der Regierungsrat legt die betroffenen Gebäudekategorien, die Standardlösungen und die Anforderungen an die gewichtete Gesamtenergieeffizienz sowie die Berücksichtigung von erneuerbarem Gas durch Verordnung fest.
 
 #### Art. 41
 
@@ -443,13 +466,13 @@ beschliesst:
 
 #### Art. 42
 
-**Wärmebedarf, Höchstanteil nicht erneuerbarer Energie**
+**Gewichtete Gesamtenergieeffizienz**
 
-<sup>1</sup> Der Regierungsrat kann für neue Gebäude und für Erweiterungen von bestehenden Gebäuden den zulässigen Wärmebedarf für Heizung und Warmwasser festlegen.
+<sup>1</sup> Neue Gebäude und Erweiterungen von Gebäuden müssen so gebaut und ausgerüstet werden, dass die gewichtete Gesamtenergieeffizienz für Heizung, Warmwasser, Lüftung, Klimatisierung, Beleuchtung und Geräte abzüglich Eigenenergieproduktion möglichst nahe bei Null ist.
 
-<sup>2</sup> Bei neuen Gebäuden und bei der Erweiterung von Gebäuden dürfen höchstens 80 Prozent des zulässigen Wärmebedarfs mit nicht erneuerbarer Energie gedeckt werden.
+<sup>2</sup> Der Regierungsrat legt in Abstimmung mit den anderen Kantonen die Grenzwerte der gewichteten Gesamtenergieeffizienz für Heizung, Warmwasser, Lüftung, Klimatisierung, Beleuchtung und Geräte abzüglich Eigenenergieproduktion durch Verordnung fest.
 
-<sup>3</sup> Der Regierungsrat kann diesen Höchstanteil in Abstimmung mit den andern Kantonen senken.
+<sup>3</sup> …
 
 #### Art. 43
 
@@ -523,7 +546,7 @@ beschliesst:
 
 **Beleuchtung**
 
-<sup>1</sup> Beleuchtungen sind energieeffizient und umweltschonend zu betreiben. Die Lichtstärke und die Dauer der Beleuchtung sind auf das Mass zu beschränken, das aus Sicherheitsgründen erforderlich und für den Verwendungszweck geboten ist.
+<sup>1</sup> Neue und bestehende Beleuchtungen sind energieeffizient und umweltschonend zu betreiben. Die Lichtstärke und die Dauer der Beleuchtung sind auf das Mass zu beschränken, das aus Sicherheitsgründen erforderlich und für den Verwendungszweck geboten ist.
 
 <sup>2</sup> Der Regierungsrat kann für Nichtwohnbauten den zulässigen Elektrizitätsbedarf für Beleuchtung festlegen.
 
@@ -599,13 +622,13 @@ beschliesst:
 - a von maximal 50 Prozent der anrechenbaren Kosten von Voruntersuchungen zur Errichtung von Energieerzeugungsanlagen oder Verteilnetzen für erneuerbare Energien oder Abwärme,
 - b von maximal 35 Prozent der Anlagekosten für die Erstellung oder den Ersatz von Anlagen zur Gewinnung, Verteilung und Nutzung von erneuerbaren Energien oder Abwärme und für die Erhöhung der Energieeffizienz.
 
-<sup>2</sup> Er kann Finanzhilfen von maximal 250 Franken pro Quadratmeter Energiebezugsfläche leisten für besonders energieeffiziente Gebäude.
+<sup>2</sup> …
 
 #### Art. 59
 
 **Gebäudeanpassungen sowie Abbruch und Neubau**
 
-<sup>1</sup> Der Kanton kann Finanzhilfen an Gebäudeanpassungen gewähren, wenn eine Verbesserung um mindestens zwei Effizienzklassen des Gebäudeenergieausweises der Kantone erzielt wird.
+<sup>1</sup> Der Kanton kann Finanzhilfen an Gebäudeanpassungen gewähren, wenn eine Verbesserung der gewichteten Gesamtenergieeffizienz erzielt wird.
 
 <sup>2</sup> Der Beitrag nach Absatz 1 beträgt zwischen 5000 und 250 000 Franken pro Gebäude. Innerhalb dieses Rahmens sind für die Höhe des Beitrags massgebend
 
@@ -614,6 +637,8 @@ beschliesst:
 - c die Höhe eines allfälligen Bundesbeitrags.
 
 <sup>3</sup> Gleiche Finanzhilfen können gewährt werden, wenn ein Gebäude nicht angepasst, sondern abgebrochen und durch ein neues Gebäude mit gleicher Zweckbestimmung ersetzt wird. Massgebliche Energiebezugsfläche nach Absatz 2 ist diejenige des abgebrochenen Gebäudes, ausser die Energiebezugsfläche des neuen Gebäudes sei kleiner.
+
+<sup>4</sup> Der Kanton kann für besonders energieeffiziente Gebäude Finanzhilfen von maximal 250 Franken pro Quadratmeter Energiebezugsfläche leisten.
 
 #### Art. 60
 
@@ -642,7 +667,7 @@ beschliesst:
 - e die Energieberatungsstellen,
 - f die Staatsbeiträge nach Kapitel 5.
 
-<sup>2</sup> Sobald der Gebäudeenergieausweis der Kantone mit den Anforderungen zur Einhaltung der Effizienzklassen durch interkantonalen Vertrag eingeführt ist, kann der Regierungsrat durch Verordnung festlegen, dass bei Gebäuden anstelle der Minimalanforderungen an die Energienutzung eine bestimmte Effizienzklasse des Gebäudeenergieausweises der Kantone einzuhalten ist.
+<sup>2</sup> …
 
 #### Art. 62
 
@@ -765,6 +790,33 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmungen der Änderung vom 09.03.2022
+
+#### Art. T1-1
+
+**Bestehende zentrale Elektro-Wassererwärmer**
+
+<sup>1</sup> Bestehende Wassererwärmer im Sinne von Artikel 40 Absatz 3 sind innert 20 Jahren ab Inkrafttreten dieser Änderung durch Anlagen zu ersetzen, die den gesetzlichen Anforderungen entsprechen.
+
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung die Befreiung von der Ersatzpflicht für bestehende Wassererwärmer,
+
+- a die für die Energienutzung von geringer Bedeutung sind oder
+- b bei denen die Warmwasseraufbereitung überwiegend mit Strom aus erneuerbarer Eigenproduktion erfolgt.
+
+#### Art. T1-2
+
+**Leuchtreklamen und Schaufensterbeleuchtungen**
+
+<sup>1</sup> Leuchtreklamen und Schaufensterbeleuchtungen sind innert fünf Jahren ab Inkrafttreten dieser Änderung an die gesetzlichen Vorschriften anzupassen.
+
+#### Art. T1-3
+
+**Kommunale Vorschriften zur Energienutzung**
+
+<sup>1</sup> Die bisherigen Vorschriften der Gemeinden gestützt auf Artikel 13 Absatz 1 Buchstabe b gelten nach dem Inkrafttreten dieser Änderung weiter.
+
+<sup>2</sup> Der Kanton stellt den Gemeinden die notwendigen Angaben zur Umrechnung von der bisherigen auf die Berechnungsweise gemäss dieser Änderung zur Verfügung.
 
 Bern, 17. März 2010
 

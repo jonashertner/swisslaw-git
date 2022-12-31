@@ -4,13 +4,13 @@ number: "741.1"
 title: "Loi cantonale sur l'énergie"
 short: LCEn
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-03-09
 adopted: 2011-05-15
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/741.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2167/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2713/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,21 +19,21 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2167/pdf_file"
 
 (LCEn)
 
-du 15.05.2011 (état au 01.04.2021)
+du 15.05.2011 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
-en application de l’article 89, alinéas 1 et 4 de la Constitution fédérale (Cst.)[^ingress-1] et de l’article 35, alinéas 2 et 3 de la Constitution cantonale (ConstC)[^ingress-2], vu l’article 19 de la loi fédérale du 26 juin 1998 sur l’énergie (loi sur l’énergie, LEne)[^ingress-3], l’article 30, alinéa 1 de la loi fédérale du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^ingress-4] et l’article 36 de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement (loi sur la protection de l’environnement, LPE)[^ingress-5],
+en application de l’article 89, alinéas 1 et 4 de la Constitution fédérale (Cst.)[^ingress-1] et de l’article 35, alinéas 2 et 3 de la Constitution cantonale (ConstC)[^ingress-2], vu l’article 60, alinéa 2 de la loi fédérale du 30 septembre 2016 sur l’énergie (LEne)[^ingress-3], l’article 30, alinéa 1 de la loi fédérale du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^ingress-4] et l’article 36 de la loi fédérale du 7 octobre 1983 sur la protection de l’environnement (loi sur la protection de l’environnement, LPE)[^ingress-5],
 
 sur proposition du Conseil-exécutif,
 
 arrête:
 
-[^ingress-1]: RS 101
-[^ingress-2]: RSB 101.1
-[^ingress-3]: RS 730.0
-[^ingress-4]: RS 734.7
-[^ingress-5]: RS 814.01
+[^ingress-1]: RS [101](https://db.clex.ch/link/Bund/101/fr)
+[^ingress-2]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+[^ingress-3]: RS [730.0](https://db.clex.ch/link/Bund/730.0/fr)
+[^ingress-4]: RS [734.7](https://db.clex.ch/link/Bund/734.7/fr)
+[^ingress-5]: RS [814.01](https://db.clex.ch/link/Bund/814.01/fr)
 
 ## 1 Dispositions générales
 
@@ -176,12 +176,20 @@ arrête:
 
 **Plans d’affectation communaux 1. Prescriptions en matière d’utilisation de l’énergie**
 
-<sup>1</sup> Les communes peuvent introduire dans leur réglementation fondamentale en matière de construction ou dans leurs plans de quartier, pour tout leur territoire ou une partie de celui-ci, les obligations suivantes:
+<sup>1</sup> Les communes peuvent introduire dans leur réglementation fondamentale en matière de construction ou dans leurs plans de quartier, pour tout leur territoire ou une partie de celui-ci, l’obligation
 
-- a en cas de construction d’un bâtiment, ou en cas de transformation ou de changement d’affectation d’un bâtiment qui permette d’avoir une influence sur l’utilisation de l'énergie, utiliser un agent énergétique renouvelable déterminé, ou raccorder le bâtiment à un réseau de distribution de chaleur ou de froid à distance;
-- b en cas de construction ou d’agrandissement d’un bâtiment, réduire davantage la part des énergies non renouvelables admissibles pour les besoins en chaleur.
+- a en cas de construction d’un bâtiment ou de remplacement de l’essentiel d’un chauffage ou de l’installation centrale de production d’eau chaude, d’utiliser un agent énergétique renouvelable déterminé ou de raccorder le bâtiment à un réseau de distribution de chaleur ou de froid à distance;
+- b d'améliorer davantage, en cas de construction ou d’agrandissement d’un bâtiment, l'efficacité énergétique globale pondérée.
 
 <sup>2</sup> Dans les cas où la commune prévoit une obligation de raccordement à un réseau de distribution de chaleur ou de froid à distance, l’entreprise d’approvisionnement en énergie compétente a l’obligation, en fonction de la quantité d’énergie disponible, de livrer la chaleur ou le froid à distance nécessaires aux ménages et aux entreprises situés dans le secteur.
+
+<sup>3</sup> Les communes peuvent prescrire pour les grands ensembles immobiliers une efficacité énergétique globale pondérée commune.
+
+<sup>4</sup> Elles déterminent l'efficacité énergétique globale pondérée de sorte qu'au final les exigences mentionnées à l'article 42 soient respectées.
+
+<sup>5</sup> Le canton met des modèles de règlement à la disposition des communes pour rédiger les prescriptions visées aux alinéas 1 et 3.
+
+<sup>6</sup> Le Conseil-exécutif peut définir une fourchette pour l’amélioration supplémentaire de l’efficacité énergétique globale visée à l’article 13, alinéa 1, lettre b.
 
 #### Art. 14
 
@@ -206,9 +214,9 @@ arrête:
 
 #### Art. 16
 
-**4. Réserves quant à l’utilisation d’énergies renouvelables autoproduites**
+**4. Dérogation à l'obligation de raccordement et réserves quant à l’utilisation d’énergies renouvelables autoproduites**
 
-<sup>1</sup> Quiconque couvre au plus 25 pour cent du besoin en chaleur autorisé en matière de chauffage et d’eau chaude par des énergies non renouvelables ne peut pas être obligé à se raccorder à un réseau de distribution de chaleur à distance, à une centrale de chauffage ou à une centrale thermique communes.
+<sup>1</sup> L'obligation de raccordement au sens des articles 13 et 15 n'est pas applicable aux bâtiments qui, de par leur efficacité énergétique globale pondérée, appartiennent à la classe la plus élevée.
 
 <sup>2</sup> Les communes ne peuvent pas interdire aux propriétaires fonciers d’utiliser de l’énergie renouvelable autoproduite s’ils ont l’obligation de se raccorder à un réseau de distribution de chaleur à distance, à une centrale de chauffage ou à une centrale thermique communes.
 
@@ -390,6 +398,8 @@ arrête:
 
 #### Art. 36
 
+**Dérogations**
+
 <sup>1</sup> Des dérogations aux dispositions sur l’utilisation de l’énergie peuvent être accordées si les conditions de dérogation de la loi du 9 juin 1985 sur les constructions (LC)[^36-1] sont remplies.
 
 <sup>2</sup> L’article 38 est réservé.
@@ -431,6 +441,21 @@ arrête:
 - a l’installation de nouveaux chauffages électriques fixes à résistances pour le chauffage des bâtiments,
 - b le remplacement, par des chauffages électriques fixes à résistances, des chauffages électriques fixes à résistances dotés d’un système de distribution de chaleur par eau.
 
+<sup>3</sup> Dans les bâtiments d’habitation, les chauffe-eau centralisés chauffés exclusivement électriquement ne sont pas autorisés.
+
+#### Art. 40a
+
+**1a. Remplacement de générateurs de chaleur**
+
+<sup>1</sup> Le remplacement d'un générateur de chaleur destiné au chauffage d'un bâtiment doit obligatoirement être annoncé.
+
+<sup>2</sup> En cas de remplacement du générateur de chaleur dans un bâtiment âgé de plus de 20 ans, les exigences sont considérées comme remplies
+
+- a si une solution standard est mise en œuvre dans les règles de l'art ou
+- b si l'efficacité énergétique globale pondérée du bâtiment répond aux exigences cantonales.
+
+<sup>3</sup> Le Conseil-exécutif définit par voie d'ordonnance les catégories de bâtiments concernés, les solutions standard, les exigences en matière d'efficacité énergétique globale pondérée ainsi que la prise en compte du gaz renouvelable.
+
 #### Art. 41
 
 **2. Installations de ventilation, de refroidissement et de climatisation**
@@ -441,13 +466,13 @@ arrête:
 
 #### Art. 42
 
-**Besoins en chaleur, part maximale des énergies non renouvelables**
+**Efficacité énergétique globale pondérée**
 
-<sup>1</sup> Le Conseil-exécutif peut fixer les besoins en chaleur admissibles pour le chauffage et la production d’eau chaude pour les nouveaux bâtiments et pour l’agrandissement de bâtiments existants.
+<sup>1</sup> Les constructions nouvelles ou agrandies doivent être réalisées et équipées de sorte que, déduction faite de l'énergie autoproduite, la valeur de leur efficacité énergétique globale pondérée en termes de chauffage, de production d'eau chaude, de ventilation, de climatisation, d'éclairage et d'appareils soit quasi nulle.
 
-<sup>2</sup> S’agissant des bâtiments nouveaux ou agrandis, 80 pour cent au plus des besoins en chaleur admissibles peuvent être couverts par de l’énergie non renouvelable.
+<sup>2</sup> Le Conseil-exécutif définit par voie d’ordonnance, en concertation avec les autres cantons, des valeurs d'efficacité énergétique globale pondérée pour le chauffage, la production d’eau chaude, la ventilation, la climatisation, l'éclairage et les appareils, déduction faite de l'énergie autoproduite.
 
-<sup>3</sup> Le Conseil-exécutif peut réduire cette part maximale en concertation avec les autres cantons.
+<sup>3</sup> …
 
 #### Art. 43
 
@@ -521,7 +546,7 @@ arrête:
 
 **Eclairage**
 
-<sup>1</sup> L’exploitation des éclairages doit être efficace énergétiquement et respectueuse de l’environnement. La puissance et la durée de l’éclairage doivent être réduites au niveau nécessaire pour la sécurité et au niveau exigé pour son usage spécifique.
+<sup>1</sup> L’exploitation des éclairages nouveaux et existants doit être efficace énergétiquement et respectueuse de l’environnement. La puissance et la durée de l’éclairage doivent être réduites au niveau nécessaire pour la sécurité et au niveau exigé pour son usage spécifique.
 
 <sup>2</sup> Le Conseil-exécutif peut fixer les besoins en électricité admissibles pour l’éclairage des bâtiments qui ne sont pas des bâtiments d’habitation.
 
@@ -533,7 +558,7 @@ arrête:
 
 #### Art. 52
 
-<sup>1</sup> Les bâtiments et installations du canton et des communes doivent être construits et utilisés de manière qu’ils servent d’exemples à la réalisation des objectifs de la présente loi.
+<sup>1</sup> Les bâtiments et installations du canton et des communes doivent être construits et utilisés de manière à servir d’exemple pour la réalisation des objectifs de la présente loi.
 
 <sup>2</sup> Dans la mesure où elles s’y prêtent, les enveloppes des bâtiments cantonaux nouveaux ou existants doivent, lors de leur construction ou de leur rénovation, être équipées d’installations d’utilisation de l’énergie solaire, en particulier pour la production d’eau chaude, à condition que la technique solaire choisie ait fait la preuve de sa rentabilité.
 
@@ -597,13 +622,13 @@ arrête:
 - a au maximum 50 pour cent des coûts imputables pour les examens préalables portant sur la réalisation d’installations de production d’énergie ou sur la réalisation de réseaux de distribution d’énergies renouvelables ou de rejets de chaleur;
 - b au maximum 35 pour cent des coûts d’investissements pour la réalisation ou le remplacement d’installations destinées à produire, distribuer ou utiliser des énergies renouvelables ou des rejets de chaleur, ou pour l’amélioration de l’efficacité énergétique.
 
-<sup>2</sup> Il peut allouer des aides financières s'élevant au maximum à 250 francs par mètre carré de surface de référence énergétique pour les bâtiments particulièrement efficaces sur le plan énergétique.
+<sup>2</sup> …
 
 #### Art. 59
 
 **Adaptation des bâtiments ainsi que démolition et construction d’un nouveau bâtiment**
 
-<sup>1</sup> Le canton peut allouer des aides financières pour l’adaptation des bâtiments s’il en résulte une amélioration d’au moins deux classes d’efficacité selon le certificat énergétique cantonal des bâtiments.
+<sup>1</sup> Le canton peut allouer des aides financières pour l’adaptation des bâtiments s’il en résulte une amélioration de l'efficacité énergétique globale pondérée.
 
 <sup>2</sup> La subvention au sens de l’alinéa 1 se chiffre entre 5000 et 250 000 francs par bâtiment. Dans cette fourchette, sont déterminants pour la fixation du montant
 
@@ -612,6 +637,8 @@ arrête:
 - c le montant de l’éventuelle subvention fédérale.
 
 <sup>3</sup> Les mêmes aides financières peuvent être allouées si un bâtiment, au lieu d’être adapté, est démoli et remplacé par un nouveau bâtiment destiné au même usage. La surface de référence énergétique déterminante au sens de l’alinéa 2 est celle du bâtiment démoli, sauf si celle du nouveau bâtiment est plus petite.
+
+<sup>4</sup> Le canton peut allouer des aides financières s'élevant au maximum à 250 francs par mètre carré de surface de référence énergétique pour les bâtiments particulièrement efficaces sur le plan énergétique.
 
 #### Art. 60
 
@@ -640,7 +667,7 @@ arrête:
 - e les centres de conseil en énergie;
 - f les subventions cantonales visées au chapitre 5.
 
-<sup>2</sup> Dès qu’un traité intercantonal introduit le certificat énergétique cantonal des bâtiments ainsi que les exigences en matière de respect des classes d’efficacité, le Conseil-exécutif peut fixer par voie d’ordonnance que les bâtiments doivent respecter une certaine classe d’efficacité du certificat énergétique cantonal des bâtiments au lieu des exigences minimales en matière d’utilisation de l’énergie.
+<sup>2</sup> …
 
 #### Art. 62
 
@@ -763,6 +790,33 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d’entrée en vigueur de la présente loi.
+
+## T1 Dispositions transitoires de la modification du 09.03.2022
+
+#### Art. T1-1
+
+**Chauffe-eau électriques centralisés existants**
+
+<sup>1</sup> Les chauffe-eau au sens de l’article 40, alinéa 3 doivent être remplacés, dans les 20 ans à compter de l’entrée en vigueur de la présente modification, par des installations conformes aux exigences légales.
+
+<sup>2</sup> Le Conseil-exécutif règle par voie d’ordonnance l'exemption de l'obligation de remplacement des chauffe-eau
+
+- a qui sont de moindre importance quant à l'utilisation de l'énergie ou
+- b dont l'eau est principalement chauffée avec de l'électricité autoproduite à partir d'énergie renouvelable.
+
+#### Art. T1-2
+
+**Réclames lumineuses et luminaires des vitrines**
+
+<sup>1</sup> Les réclames lumineuses et les luminaires des vitrines doivent être adaptés aux prescriptions légales dans les cinq ans à compter de l'entrée en vigueur de la présente modification.
+
+#### Art. T1-3
+
+**Prescriptions communales sur l'utilisation de l'énergie**
+
+<sup>1</sup> Les prescriptions des communes fondées sur l'article 13, alinéa 1, lettre b selon l'ancien droit restent valables après l'entrée en vigueur de la présente modification.
+
+<sup>2</sup> Le canton met à la disposition des communes les indications de conversion nécessaires pour le passage du mode de calcul selon les anciennes prescriptions à celui fixé par la présente modification.
 
 Berne, le 17 mars 2010
 
