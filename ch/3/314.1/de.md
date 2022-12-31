@@ -4,11 +4,11 @@ title: Ordnungsbussengesetz vom 18. März 2016 (OBG)
 short: OBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-725-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/de"
 
 (OBG)
 
-vom 18. März 2016 (Stand am 1. Januar 2022)
+vom 18. März 2016 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -52,18 +52,18 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
   - 10\. Betäubungsmittelgesetz vom 3. Oktober 1951[^1-10] (BetmG),
   - 11\. Umweltschutzgesetz vom 7. Oktober 1983[^1-11],
   - 12\.[^1-12] Lebensmittelgesetz vom 20. Juni 2014[^1-13],
-  - 12*a*.[^1-14] Epidemiengesetz vom 28. September 2012[^1-15],
-  - 13\. Bundesgesetz vom 3. Oktober 2008[^1-16] zum Schutz vor Passivrauchen,
-  - 14\. Waldgesetz vom 4. Oktober 1991[^1-17],
-  - 15\. Jagdgesetz vom 20. Juni 1986[^1-18],
-  - 16\. Bundesgesetz vom 21. Juni 1991[^1-19] über die Fischerei,
-  - 17\. Bundesgesetz vom 23. März 2001[^1-20] über das Gewerbe der Reisenden; oder
+  - 12*a*.[^1-14] …
+  - 13\. Bundesgesetz vom 3. Oktober 2008[^1-15] zum Schutz vor Passivrauchen,
+  - 14\. Waldgesetz vom 4. Oktober 1991[^1-16],
+  - 15\. Jagdgesetz vom 20. Juni 1986[^1-17],
+  - 16\. Bundesgesetz vom 21. Juni 1991[^1-18] über die Fischerei,
+  - 17\. Bundesgesetz vom 23. März 2001[^1-19] über das Gewerbe der Reisenden; oder
 
-- b. in einer Verordnung aufgeführt ist, die sich auf ein Gesetz nach Buchstabe a Ziffern 1–9 und 11–17 stützt; ….[^1-21]
+- b. in einer Verordnung aufgeführt ist, die sich auf ein Gesetz nach Buchstabe a Ziffern 1–9 und 11–17 stützt; ….[^1-20]
 
 <sup>2</sup> Das Ordnungsbussenverfahren ist nur anwendbar, wenn der betreffende Übertretungstatbestand in den Listen nach Artikel 15 aufgeführt ist.
 
-<sup>3</sup> Es ist nicht anwendbar bei Übertretungen, die nach dem Bundesgesetz vom 22. März 1974[^1-22] über das Verwaltungsstrafrecht verfolgt und beurteilt werden.
+<sup>3</sup> Es ist nicht anwendbar bei Übertretungen, die nach dem Bundesgesetz vom 22. März 1974[^1-21] über das Verwaltungsstrafrecht verfolgt und beurteilt werden.
 
 <sup>4</sup> Die Ordnungsbusse beträgt höchstens 300 Franken.
 
@@ -83,14 +83,13 @@ Mit Ordnungsbusse wird in einem vereinfachten Verfahren (Ordnungsbussenverfahren
 [^1-12]: Fassung gemäss Art. 17.
 [^1-13]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^1-14]: Eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2022 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 2; [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^1-15]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-16]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^1-17]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^1-18]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^1-19]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^1-20]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-21]: Zweiter Teilsatz eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-22]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-15]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^1-16]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^1-17]: [SR 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^1-18]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^1-19]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^1-20]: Zweiter Teilsatz eingefügt durch Ziff. II 1 des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-21]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
@@ -272,14 +271,9 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 
 **Koordinationsbestimmung**
 
-Mit Inkrafttreten des Lebensmittelgesetzes vom 20. Juni 2014[^17-1] lautet die nachfolgende Bestimmung wie folgt:
+…[^17-1]
 
-Art. 1 Abs. 1 Bst. a Ziff. 12
-
-…[^17-2]
-
-[^17-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62); [BBl 2014 5079](https://fedlex.data.admin.ch/eli/fga/2014/1085)
-[^17-2]: Text eingefügt hiervor.
+[^17-1]: Text eingefügt hiervor.
 
 #### Art. 18
 

@@ -4,11 +4,11 @@ title: "Loi du 18 mars 2016 sur les amendes d'ordre (LAO)"
 short: LAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-725-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/fr"
 
 (LAO)[^t-1]
 
-du 18 mars 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 mars 2016 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -54,18 +54,18 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
   - 10\. loi fédérale du 3 octobre 1951 sur les stupéfiants (LStup)[^1-10],
   - 11\. loi du 7 octobre 1983 sur la protection de l’environnement[^1-11],
   - 12\. loi du 20 juin 2014 sur les denrées alimentaires[^1-12],
-  - 12*a*.[^1-13] loi du 28 septembre 2012 sur les épidémies[^1-14],
-  - 13\. loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif[^1-15],
-  - 14\. loi du 4 octobre 1991 sur les forêts[^1-16],
-  - 15\. loi du 20 juin 1986 sur la chasse[^1-17],
-  - 16\. loi fédérale du 21 juin 1991 sur la pêche[^1-18],
-  - 17\. loi fédérale du 23 mars 2001 sur le commerce itinérant[^1-19], ou
+  - 12*a*.[^1-13] …
+  - 13\. loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif[^1-14],
+  - 14\. loi du 4 octobre 1991 sur les forêts[^1-15],
+  - 15\. loi du 20 juin 1986 sur la chasse[^1-16],
+  - 16\. loi fédérale du 21 juin 1991 sur la pêche[^1-17],
+  - 17\. loi fédérale du 23 mars 2001 sur le commerce itinérant[^1-18], ou
 
-- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. ...[^1-20]
+- b. prévue dans une ordonnance d’exécution des lois citées à la let. a, ch. 1 à 9 et 11 à 17. ...[^1-19]
 
 <sup>2</sup> La procédure de l’amende d’ordre n’est applicable qu’aux contraventions figurant dans les listes établies en vertu de l’art. 15.
 
-<sup>3</sup> Elle n’est pas applicable aux contraventions qui sont poursuivies et jugées en vertu de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^1-21].
+<sup>3</sup> Elle n’est pas applicable aux contraventions qui sont poursuivies et jugées en vertu de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^1-20].
 
 <sup>4</sup> Le montant maximal de l’amende d’ordre est de 300 francs.
 
@@ -84,14 +84,13 @@ Est sanctionné par une amende d’ordre dans une procédure simplifiée (procé
 [^1-11]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^1-12]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^1-13]: Introduit par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2022 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 2; [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
-[^1-14]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-15]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
-[^1-16]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^1-17]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
-[^1-18]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
-[^1-19]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^1-20]: Phrase introduite par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
-[^1-21]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^1-14]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^1-15]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^1-16]: [RS 922.0](https://fedlex.data.admin.ch/eli/cc/1988/506_506_506)
+[^1-17]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
+[^1-18]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^1-19]: Phrase introduite par le ch. II 1 de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^1-20]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
 #### Art. 2
 
@@ -277,7 +276,7 @@ L’abrogation et la modification d’autres actes sont réglées en annexe.
 
 Art. 1, al. 1, let. a, ch. 12
 
-...*[^17-2]*
+...[^17-2]
 
 [^17-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
 [^17-2]: Texte inséré.

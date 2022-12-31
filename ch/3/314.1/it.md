@@ -4,11 +4,11 @@ title: Legge del 18 marzo 2016 sulle multe disciplinari (LMD)
 short: LMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/725"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/725/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-725-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/725/20220101/it"
 
 (LMD)
 
-del 18 marzo 2016 (Stato 1° gennaio 2022)
+del 18 marzo 2016 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -52,7 +52,7 @@ decreta:
   - 10\. legge del 3 ottobre 1951[^1-10] sugli stupefacenti (LStup),
   - 11\. legge del 7 ottobre 1983[^1-11] sulla protezione dell’ambiente,
   - 12\. legge del 20 giugno 2014[^1-12] sulle derrate alimentari,
-  - 12*a*.[^1-13] legge del 28 settembre 2012[<sup>16</sup>](https://www.fedlex.admin.ch/eli/cc/2017/725/it) sulle epidemie,
+  - 12*a*.[^1-13] ...
   - 13\. legge federale del 3 ottobre 2008[^1-14] concernente la protezione contro il fumo passivo,
   - 14\. legge forestale del 4 ottobre 1991[^1-15],
   - 15\. legge del 20 giugno 1986[^1-16] sulla caccia,
