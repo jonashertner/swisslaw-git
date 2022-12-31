@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220601/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 1. Juni 2022)
+vom 11. August 1999 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -33,31 +33,31 @@ verordnet:
 
 Diese Verordnung regelt die Festsetzung, Ausrichtung, Abrechnung und Rückerstattung von Leistungen des Bundes, der Kantone und Dritter im Asylbereich.
 
-## 2. Titel: Sozialhilfe und Nothilfe****
+## 2. Titel: Sozialhilfe und Nothilfe
 
 [^tit2-1]
 
 [^tit2-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
-### 1. Kapitel: Ausrichtung der Sozialhilfeleistungen und der Nothilfe****
+### 1. Kapitel: Festsetzung und Ausrichtung der Sozialhilfe, der Nothilfe und der entsprechenden Bundesbeiträge
 
 [^tit2-chap1-1]
 
-[^tit2-chap1-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit2-chap1-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Art. 2
 
-**Definition der vergütbaren Sozialhilfe- und Nothilfeleistungen**[^2-1]
+**Definition der durch Bundesbeiträge vergütbaren Sozialhilfe- und Nothilfeleistungen**[^2-1]
 
 ### (Art. 88 AsylG)
 
-Vergütbare Sozialhilfe- und Nothilfeleistungen nach Artikel 88 des AsylG sind Unterstützungen im Sinne von Artikel 82 des AsylG und Artikel 3 des Zuständigkeitsgesetzes vom 24. Juni 1977[^2-2]. Ausgenommen davon sind Leistungen, welche nach Artikel 18 der Verordnung vom 24. Oktober 2007[^2-3] über die Integration von Ausländerinnen und Ausländern abgegolten werden.
+Vergütbare Sozialhilfe- und Nothilfeleistungen nach Artikel 88 des AsylG sind Unterstützungen im Sinne von Artikel 82 des AsylG und Artikel 3 des Zuständigkeitsgesetzes vom 24. Juni 1977[^2-2]. Ausgenommen davon sind Leistungen, welche nach Artikel 15 der Verordnung vom 15. August 2018[^2-3] über die Integration von Ausländerinnen und Ausländern abgegolten werden.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^2-2]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^2-3]: [[AS 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762); [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854); [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720); [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95). [AS 2018 3189](https://fedlex.data.admin.ch/eli/oc/2018/511)Art. 30]. Siehe heute: die V vom 15. Aug. 2018 ([SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)).
+[^2-3]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
 
 #### Art. 3
 
@@ -65,19 +65,21 @@ Vergütbare Sozialhilfe- und Nothilfeleistungen nach Artikel 88 des AsylG sind U
 
 <sup>1</sup> Bei Flüchtlingen, Staatenlosen und Schutzbedürftigen mit Aufenthaltsbewilligung richten sich die Festsetzung, die Ausrichtung und die Einschränkung der Sozialhilfeleistungen nach kantonalem Recht. Dabei ist die Gleichbehandlung mit der einheimischen Bevölkerung zu gewährleisten.[^3-2]
 
-<sup>2</sup> Bei Asylsuchenden, Schutzbedürftigen ohne Aufenthaltsbewilligung und vorläufig Aufgenommenen richten sich die Festsetzung, die Ausrichtung und die Einschränkung der Sozialhilfeleistungen nach kantonalem Recht. Vorbehalten bleiben die Artikel 82 Absatz 3 und 83 Absatz 1 des AsylG sowie abweichende Bestimmungen dieser Verordnung.
+<sup>2</sup> Bei Asylsuchenden, Schutzbedürftigen ohne Aufenthaltsbewilligung und vorläufig Aufgenommenen richten sich die Festsetzung, die Ausrichtung und die Einschränkung der Sozialhilfeleistungen nach kantonalem Recht. Vorbehalten bleiben die Artikel 82 Absätze 3 und 3<sup>bis</sup> sowie 83 Absatz 1 des AsylG.[^3-3]
 
 <sup>3</sup>
 
-Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG sowie abweichender Bestimmungen dieser Verordnung richten sich die Festsetzung und die Ausrichtung der Nothilfeleistungen für folgende Personen nach kantonalem Recht:
+Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG richten sich die Festsetzung und die Ausrichtung der Nothilfeleistungen für folgende Personen nach kantonalem Recht:[^3-4]
 
 - a. Personen mit einem rechtskräftigen Nichteintretensentscheid oder einem rechtskräftig abgewiesenen Asylgesuch, denen eine Ausreisefrist angesetzt worden ist;
 - b. Personen in einem Verfahren nach Artikel 111*b* oder 111*c* AsylG;
-- c. Personen, deren vorläufige Aufnahme rechtskräftig aufgehoben wurde.[^3-3]
+- c. Personen, deren vorläufige Aufnahme rechtskräftig aufgehoben wurde.[^3-5]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^3-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^3-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^3-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 
 #### Art. 4
 
@@ -95,7 +97,7 @@ Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG sowie abweich
 
 ### (Art. 88, 91 Abs. 2<sup>bis</sup> AsylG; Art. 87 AIG)
 
-<sup>1</sup> Der Bund vergütet den Kantonen die Leistungen nach Artikel 88 und Artikel 91 Absatz 2<sup>bis</sup> des AsylG sowie nach Artikel 87 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^5-2] (AIG)[^5-3] quartalsweise gestützt auf die im Datensystem des Staatssekretariates für Migration (SEM)[^5-4] erfassten Daten.
+<sup>1</sup> Der Bund vergütet den Kantonen die Leistungen nach Artikel 88 und Artikel 91 Absatz 2<sup>bis</sup> des AsylG sowie nach Artikel 87 des Ausländer- und Integrations- gesetzes vom 16. Dezember 2005[^5-2] (AIG)[^5-3] quartalsweise gestützt auf die im Datensystem des Staatssekretariates für Migration (SEM)[^5-4] erfassten Daten.
 
 <sup>2</sup> Die quartalsweisen Auszahlungen erfolgen binnen 60 Tagen gestützt auf das Datum der Erfassung im Datensystem des SEM.
 
@@ -164,7 +166,7 @@ Zurückbehaltene Kinderzulagen werden einer asylsuchenden Person ausbezahlt, wen
 [^7-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^7-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-### 2. Kapitel:**** Sonderabgabe auf Vermögenswerten****
+### 2. Kapitel: Sonderabgabe auf Vermögenswerten
 
 [^tit2-chap2-1][^tit2-chap2-2]
 
@@ -190,7 +192,7 @@ Der Sonderabgabe auf Vermögenswerten unterstehen:
 - a. Asylsuchende: ab Einreichung des Asylgesuchs;
 - b. Schutzbedürftige ohne Aufenthaltsbewilligung: ab Einreichung des Gesuchs um vorübergehende Schutzgewährung;
 - c. vorläufig Aufgenommene: ab Entscheid über die vorläufige Aufnahme;
-- d. weggewiesene Personen: ab Rechtskraft des Wegweisungsentscheides nach negativem Ausgang des Asylverfahrens oder nach Aufhebung der vorläufigen Aufnahme; und
+- d.[^10-2] weggewiesene Personen: ab Rechtskraft des Wegweisungsentscheides nach negativem Ausgang des Asylverfahrens oder ab Rechtskraft der Aufhebung der vorläufigen Aufnahme; und
 - e. Personen mit einer rechtskräftigen Landesverweisung: nach negativem Ausgang des Asylverfahrens oder nach Erlöschen der vorläufigen Aufnahme.
 
 <sup>2</sup>
@@ -204,6 +206,7 @@ Die Unterstellung unter die Sonderabgabe auf Vermögenswerten endet:
 <sup>3</sup> Die Sonderabgabepflicht beginnt mit jedem Asylverfahren hinsichtlich des Betrages neu zu laufen.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^10-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 11
 
@@ -291,7 +294,7 @@ Aufgehoben
 
 ## 3. Titel: Bundesbeiträge
 
-### 1. Kapitel:**** Sozial- und Nothilfe
+### 1. Kapitel: Sozial- und Nothilfe
 
 [^tit3-chap1-1]
 
@@ -305,19 +308,23 @@ Aufgehoben
 
 ### (Art. 88 und 89 AsylG; Art. 87 Abs. 1 Bst. a und 87 Abs. 3 AIG)
 
-Der Bund vergütet den Kantonen Globalpauschalen für Personen während der Dauer des Asylverfahrens, der vorläufigen Aufnahme und der vorübergehenden Schutzgewährung. Ausgenommen davon sind die Vergütungen für Personen während der Dauer eines Verfahrens nach Artikel 111*c* AsylG. Er vergütet diese Pauschalen ab Beginn des Monats, welcher der Zuweisung an einen Kanton, dem Entscheid über die vorläufige Aufnahme oder der Gewährung des vorübergehenden Schutzes folgt, bis und mit dem Ende des Monats, in dem:[^20-2]
+Der Bund vergütet den Kantonen Globalpauschalen für Personen während der Dauer des Asylverfahrens, der vorläufigen Aufnahme und der vorübergehenden Schutzgewährung. Ausgenommen davon sind Personen während der Dauer eines Verfahrens nach Artikel 111*c* AsylG.[^20-2] Er vergütet diese Pauschalen ab Beginn des Monats, welcher der Zuweisung an einen Kanton, dem Entscheid über die vorläufige Aufnahme oder der Gewährung des vorübergehenden Schutzes folgt, bis und mit dem Ende des Monats, in dem:[^20-3]
 
 - a. der Nichteintretens- oder der negative Asyl- und Wegweisungsentscheid rechtskräftig wird;
 - b. das Asylgesuch abgeschrieben wird;
 - c. eine Person die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist;
-- d. die vorläufige Aufnahme erlischt oder rechtskräftig aufgehoben wird, längstens aber sieben Jahre seit der Einreise;
+- d.[^20-4] die vorläufige Aufnahme erlischt oder rechtskräftig aufgehoben wird, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist;
 - e. der vorübergehende Schutz erlischt oder rechtskräftig aufgehoben wird, längstens aber bis zum Zeitpunkt, in dem eine Aufenthaltsbewilligung nach Artikel 74 Absatz 2 des AsylG zu erteilen ist;
-- f.[^20-3] eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erteilt wird oder nach Artikel 42 Absatz 1 oder Artikel 43 Absatz 1 oder 3 AIG[^20-4] ein Anspruch darauf besteht. Entsteht ein Anspruch auf Erteilung einer Bewilligung, wird während der Dauer des Bewilligungsverfahrens die Globalpauschale nicht vergütet. Liegt ein rechtskräftiger kantonaler Entscheid bezüglich der Verweigerung der Aufenthalts- oder Niederlassungsbewilligung vor, so vergütet der Bund dem Kanton auf Gesuch hin die Globalpauschale rückwirkend bis längstens zum Wegfall des Verweigerungsgrundes.
+- f.[^20-5] eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erteilt wird oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG[^20-6] oder nach Artikel 3 des Anhangs I des Abkommens zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA)[^20-7] oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^20-8] ein Anspruch darauf besteht; entsteht ein Anspruch auf Erteilung einer Bewilligung, wird während der Dauer des Bewilligungsverfahrens die Globalpauschale nicht vergütet; liegt ein rechtskräftiger kantonaler Entscheid bezüglich der Verweigerung der Aufenthalts- oder Niederlassungsbewilligung vor, so vergütet der Bund dem Kanton auf Gesuch hin die Globalpauschale rückwirkend bis längstens zum Wegfall des Verweigerungsgrundes.
 
-[^20-1]: Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
-[^20-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^20-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)). Die Berichtigung vom 2. Okt. 2018 betrifft nur den italienischen Text ([AS 2018 3311](https://fedlex.data.admin.ch/eli/oc/2018/533)).
-[^20-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^20-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
+[^20-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^20-4]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-5]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^20-7]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^20-8]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 21
 
@@ -325,19 +332,19 @@ Der Bund vergütet den Kantonen Globalpauschalen für Personen während der Daue
 
 Mit der Globalpauschale nach Artikel 22 sind sämtliche vergütbaren Aufwendungen der Kantone für die Sozialhilfe bei kostengünstigen Lösungen abgegolten.
 
-[^21-1]: Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
+[^21-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
 
 #### Art. 22
 
 **Höhe und Anpassung der Globalpauschale**[^22-1]
 
-<sup>1</sup> Der Bund vergütet den Kantonen für jede Sozialhilfe beziehende Person eine Globalpauschale. Sie beträgt im schweizerischen Durchschnitt pro Monat 1573.39 Franken und basiert auf dem Landesindex der Konsumentenpreise und dem Anteil der unbegleiteten Minderjährigen am Gesamtbestand an Asylsuchenden, vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung (Stand: 31. Okt. 2017).[^22-2] [^22-3]
+<sup>1</sup> Der Bund vergütet den Kantonen für jede Sozialhilfe beziehende Person eine Globalpauschale. Sie beträgt im schweizerischen Durchschnitt für Asylsuchende pro Monat 1573.39 Franken und für vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung pro Monat 1424.28 Franken. Sie basiert auf dem Stand des Landesindexes der Konsumentenpreise von 100,9 Punkten (Indexstand: 31. Okt. 2017) und dem Anteil der unbegleiteten Minderjährigen am Gesamtbestand an Asylsuchenden, vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung (Stand: 31. Okt. 2017).[^22-2]
 
 <sup>2</sup> Die Globalpauschale setzt sich zusammen aus einem Anteil für die Mietkosten, einem Anteil für die Sozialhilfe- und Betreuungskosten und einem Anteil für die Krankenversicherungsprämien, Selbstbehalte und Franchisen.
 
 <sup>3</sup> Der Anteil für die Mietkosten wird unter Berücksichtigung einer Bandbreite zwischen 80 und 120 Prozent wie folgt kantonal abgestuft:
 
-Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kantonale Abstufung gestützt auf die vom Bundesamt für Statistik (BfS) veröffentlichten Mietpreiserhebungen (durchschnittlicher Mietpreis in Franken nach Zimmerzahl und Kanton) anpassen.[^22-4]
+Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kantonale Abstufung gestützt auf die vom Bundesamt für Statistik (BfS) veröffentlichten Mietpreiserhebungen (durchschnittlicher Mietpreis in Franken nach Zimmerzahl und Kanton) anpassen.[^22-3]
 
 <table>
 <tr><th>Kanton</th><th>in Prozent</th><th>Kanton</th><th>in Prozent</th></tr>
@@ -356,26 +363,35 @@ Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kant
 <tr><td>Neuenburg</td><td>80,0</td><td>Zürich</td><td>117,5</td></tr>
 </table>
 
-<sup>4</sup> Der Anteil für die Krankenversicherungsprämien, Selbstbehalte und Franchisen wird aufgrund der vom Bundesamt für Gesundheit publizierten Durchschnittsprämien[^22-5], der vollen Beträge der ordentlichen Franchise und des Selbstbehaltes nach Artikel 64 KVG[^22-6] sowie der Anzahl Kinder, junger Erwachsener und Erwachsener kantonal abgestuft. Die Anpassung erfolgt jeweils Ende Jahr für das nachfolgende Kalenderjahr.[^22-7]
+<sup>4</sup> Der Anteil für die Krankenversicherungsprämien, Selbstbehalte und Franchisen wird aufgrund der vom Bundesamt für Gesundheit publizierten Durchschnittsprämien[^22-4], der vollen Beträge der ordentlichen Franchise und des Selbstbehaltes nach Artikel 64 KVG[^22-5] sowie der Anzahl Kinder, junger Erwachsener und Erwachsener kantonal abgestuft. Die Anpassung erfolgt jeweils Ende Jahr für das nachfolgende Kalenderjahr.[^22-6]
 
-<sup>5</sup> Der Anteil für die Mietkosten beträgt 215.66 Franken, der Anteil für die übrigen Sozialhilfekosten 617.34 Franken, der Anteil für die Betreuungskosten 273.90 Franken und der Anteil für die zusätzlichen Unterbringungs- und Betreuungskosten von unbegleiteten Minderjährigen 56.09 Franken. Die Anteile basieren auf dem Stand des Landesindexes der Konsumentenpreise von 100,9 Punkten (Indexstand: 31. Okt. 2017). Das SEM passt diese Anteile jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.[^22-8]
+<sup>5</sup> Die folgenden Anteile basieren auf dem Stand des Landesindexes der Konsumentenpreise von 100,9 Punkten (Indexstand: 31. Okt. 2017). Das SEM passt diese Anteile jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.
+
+Der Anteil für die Kosten beträgt:
+
+<table>
+<tr><td></td><td>Asylsuchende</td><td>Vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung</td></tr>
+<tr><td>Mietkosten</td><td>216.66 CHF</td><td>184.03 CHF</td></tr>
+<tr><td>Übrige Sozialhilfekosten</td><td>617.34 CHF</td><td>526.78 CHF</td></tr>
+<tr><td>Betreuungskosten</td><td>273.90 CHF</td><td>246.98 CHF</td></tr>
+<tr><td>Zusätzliche Unterbringungs- und Betreuungskosten von unbegleiteten Minderjährigen</td><td>56.09 CHF</td><td>56.09 CHF.[^22-7]</td></tr>
+</table>
 
 <sup>6</sup> Der Anteil für die zusätzlichen Unterbringungs- und Betreuungskosten von unbegleiteten Minderjährigen basiert auf dem Gesamtbestand an Asylsuchenden, vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung von 44 383 Personen sowie dem Bestand davon an unbegleiteten Minderjährigen von 2283 Personen (ausmachend 5,1 %; Stand: 31. Okt. 2017). Das SEM passt den Anteil jeweils Ende des Jahres für das folgende Kalenderjahr mit folgender Formel der Entwicklung der Bestände an:
 
 <table>
 <tr><td>56.09 Franken ×</td><td>Anteil unbegleitete Minderjährige am Gesamtbestand</td><td></td></tr>
-<tr><td></td><td>5,1 %</td><td>.[^22-9]</td></tr>
+<tr><td></td><td>5,1 %</td><td>.[^22-8]</td></tr>
 </table>
 
-[^22-1]: Siehe auch die UeB Änd. 24.10.2007, 12.12.2008, 7.12.2012, 8.6.2018 und 10.4.2019 am Ende dieses Textes.
-[^22-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^22-1]: Siehe auch die UeB Änd. 24.10.2007, 12.12.2008, 7.12.2012, 8.6.2018, 10.4.2019 und 30.3.2022 am Ende dieses Textes.
+[^22-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^22-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-5]: V des EDI vom 28. Okt. 2016 über die Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen ([SR 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659))
-[^22-6]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^22-7]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-8]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^22-9]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^22-4]: V des EDI vom 28. Okt. 2016 über die Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen ([SR 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659))
+[^22-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^22-6]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-7]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-8]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
 
 #### Art. 23
 
@@ -383,35 +399,59 @@ Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kant
 
 <sup>1</sup>
 
-Der vom Bund pro Kanton und Monat geschuldete Gesamtbetrag (B) in Franken basiert auf den in den Datensystemen des SEM erfassten Daten. Er berechnet sich nach der folgenden Formel:
+Der vom Bund pro Kanton und Monat für die Ausrichtung von Sozialhilfe an Asylsuchende geschuldete Gesamtbetrag (B<sub>AS</sub>) in Franken basiert auf den in den Datensystemen des SEM erfassten Daten. Er berechnet sich nach der folgenden Formel:
 
-- B = Anzahl am ersten Tag des Monats Sozialhilfe beziehende Personen × kantonal abgestufte Globalpauschale + Sockelbeitrag an Betreuungskosten.
+- B<sub>AS</sub> = Anzahl am ersten Tag des Monats Sozialhilfe beziehende Personen × kantonal abgestufte Globalpauschale + Sockelbeitrag an Betreuungskosten.[^23-2]
 
-<sup>2</sup> Die bereinigte Anzahl berechnet sich nach der Formel:
+<sup>2</sup>
 
-BET<sub>VA</sub> = EA<sub>VA</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>)
+Die Anzahl Sozialhilfe beziehender Personen (SP<sub>AS</sub>) berechnet sich nach der Formel:
 
-Die Anzahl Sozialhilfe beziehender Personen (SP) berechnet sich nach der Formel:
-
-- SP = P – ET<sub>AS</sub> – BET<sub>VA</sub>
+- SP<sub>AS</sub> = P<sub>AS</sub> – ET<sub>AS</sub>
 
 In der Formel bedeuten:
 
-- P = Am ersten Tag des Monats anwesende Asylsuchende, vorläufig Aufgenommene und schutzbedürftige Personen ohne Aufenthaltsbewilligung.
-- ET<sub>AS</sub> = Am ersten Tag des Monats erwerbstätige Asylsuchende (18- bis 60-Jährige).
-- BET<sub>VA</sub> = Bereinigte Anzahl der erwerbstätigen vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung (18- bis 60-Jährige).
+- P<sub>AS</sub> = Am ersten Tag des Monats anwesende Asylsuchende.
+- ET<sub>AS</sub> = Am ersten Tag des Monats erwerbstätige Asylsuchende (18- bis 60-Jährige).[^23-3]
+
+<sup>3</sup> Für die Aufrechterhaltung einer minimalen Betreuungsstruktur vergütet der Bund jedem Kanton pro Monat eine Pauschale von 27 433 Franken als Sockelbeitrag. Sie basiert auf dem Stand des Landesindexes der Konsumentenpreise von 100,3 Punkten (Indexstand: 31. Okt. 2016). Das SEM passt diese Pauschale jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.[^23-4]
+
+<sup>4</sup>
+
+Der vom Bund pro Kanton und Monat für die Ausrichtung von Sozialhilfe an vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung geschuldete Gesamtbetrag (B<sub>VA</sub>) in Franken basiert auf den in den Datensystemen des SEM erfassten Daten. Er berechnet sich nach der folgenden Formel:
+
+- B<sub>VA</sub> = Anzahl am ersten Tag des Monats Sozialhilfe beziehende Personen × kantonal abgestufte Globalpauschale.[^23-5]
+
+<sup>5</sup>
+
+Die Anzahl Sozialhilfe beziehender Personen (SP<sub>VA</sub>) berechnet sich nach der Formel:
+
+- SP<sub>VA</sub> = P<sub>VA</sub> – BET<sub>VA</sub>
 
 In der Formel bedeuten:
 
-- EA<sub>VA</sub> = Am ersten Tag des Monats im Erwerbsalter stehende vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung (18- bis 60-Jährige).
-- EQ<sub>CH</sub> = Schweizerische Quote der am ersten Tag des Monats erwerbstätigen vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung (18- bis 60-Jährige).
+- P<sub>VA</sub> = Am ersten Tag des Monats anwesende vorläufig Aufgenommene und schutzbedürftige Personen ohne Aufenthaltsbewilligung.
+- BET<sub>VA</sub> = Bereinigte Anzahl der erwerbstätigen vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung (25- bis 60-Jährige).
+
+Die bereinigte Anzahl berechnet sich nach der Formel:
+
+- BET<sub>VA</sub> = EA<sub>VA</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>) × (1 – NLQ<sub>KT</sub>)
+
+In der Formel bedeuten:
+
+- EA<sub>VA</sub> = Am ersten Tag des Monats im Erwerbsalter stehende vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung (25- bis 60-Jährige).
+- EQ<sub>CH</sub> = Schweizerische Quote der am ersten Tag des Monats erwerbstätigen vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung (25- bis 60-Jährige).
 - ALQ<sub>CH</sub> = Schweizerische Arbeitslosenquote des Vormonats der in der Schweiz lebenden Ausländer gemäss Staatssekretariat für Wirtschaft (SECO).
 - ALQ<sub>KT</sub> = Kantonale Arbeitslosenquote des Vormonats der im jeweiligen Kanton lebenden Ausländer gemäss SECO.
+- NLQ<sub>KT</sub> = Kantonale Quote des vorletzten Jahres der im jeweiligen Kanton zu einem Niedriglohn (Bruttomonatslohn ≤ 600 Franken) beschäftigten vorläufig Aufgenommenen und Schutzbedürftigen ohne Aufenthaltsbewilligung gemäss den vom SEM ausgewerteten Meldungen der Zentralen Ausgleichstelle nach Artikel 93<sup>bis</sup> des Bundesgesetzes vom 20. Dezember 1946[^23-6] über die Alters- und Hinterlassenenversicherung (AHVG).[^23-7]
 
-<sup>3</sup> Für die Aufrechterhaltung einer minimalen Betreuungsstruktur vergütet der Bund jedem Kanton pro Monat eine Pauschale von 27 433 Franken als Sockelbeitrag. Sie basiert auf dem Stand des Landesindexes der Konsumentenpreise von 100,3 Punkten (Indexstand: 31. Okt. 2016). Das SEM passt diese Pauschale jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.[^23-2]
-
-[^23-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
-[^23-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^23-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Siehe auch die UeB Änd. 7.12.2012, 8.6.2018 und 30.3.2022 am Ende dieses Textes.
+[^23-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^23-5]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^23-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-7]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 23a
 
@@ -429,36 +469,33 @@ In der Formel bedeuten:
 
 <sup>1</sup>
 
-Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlose. Er vergütet diese Pauschalen ab Beginn des Monats, welcher dem Entscheid über die Asylgewährung, über die Aufnahme als vorläufig aufgenommener Flüchtling oder über die Anerkennung als Staatenloser folgt, bis und mit dem Ende des Monats, in dem:[^24-2]
+Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlose. Er vergütet diese Pauschalen ab Beginn des Monats, welcher dem Entscheid über die Asylgewährung, über die Aufnahme als vorläufig aufgenommener Flüchtling oder über die Anerkennung als staatenlose Person folgt, bis und mit dem Ende des Monats, in dem:
 
-- a.[^24-3] ein Flüchtling eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 3 oder 4 oder Artikel 43 Absatz 2 oder 3 AIG[^24-4] ein Anspruch darauf besteht, längstens aber 5 Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches, welches zur Asylgewährung geführt hat;
-- b.[^24-5] ein vorläufig aufgenommener Flüchtling eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 1 oder Artikel 43 Absatz 1 oder 3 AIG ein Anspruch darauf besteht, längstens aber sieben Jahre seit der Einreise;
-- b<sup>bis</sup>.[^24-6] ein Flüchtling mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^24-7] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^24-8] (MStG) oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches;
-- c.[^24-9] ein Staatenloser eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 3 oder 4 oder Artikel 43 Absatz 2 oder 3 AIG ein Anspruch darauf besteht, längstens aber 5 Jahre seit der Anerkennung der Staatenlosigkeit;
-- d.[^24-10] ein vorläufig aufgenommener Staatenloser eine ausländerrechtliche Aufenthalts‑ oder Niederlassungsbewilligung erhält oder nach Artikel 42 Absatz 1 oder Artikel 43 Absatz 1 oder 3 AIG ein Anspruch darauf besteht, längstens aber sieben Jahre seit der Einreise;
-- d<sup>bis</sup>.[^24-11] ein Staatenloser mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit der Anerkennung der Staatenlosigkeit;
-- e. das Asyl widerrufen wird;
-- f.[^24-12] ein Flüchtling oder ein Staatenloser die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist.
+- a. ein Flüchtling eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absätze 3 und 4 oder 43 Absätze 5 und 6 AIG[^24-2] ein Anspruch darauf besteht, längstens aber 5 Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches, welches zur Asylgewährung geführt hat;
+- b. ein vorläufig aufgenommener Flüchtling eine ausländerrechtliche Aufenthalts- oder Niederlassungsbewilligung erhält oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG oder nach Artikel 3 Anhang I FZA[^24-3] oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA)[^24-4] ein Anspruch darauf besteht, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist;
+- b<sup>bis</sup>.[^24-5] ein Flüchtling mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^24-6] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^24-7] (MStG) oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit dem Zeitpunkt der Einreichung des Asylgesuches;
+- c. eine staatenlose Person eine Niederlassungsbewilligung erhält oder nach Artikel 42 Absätze 3 und 4 oder 43 Absätze 5 und 6 AIG ein Anspruch darauf besteht, längstens aber 5 Jahre seit der Anerkennung der Staatenlosigkeit;
+- d. eine vorläufig aufgenommene staatenlose Person eine ausländerrechtliche Aufenthalts‑ oder Niederlassungsbewilligung erhält oder nach Artikel 42 oder 43 Absätze 1, 5 und 6 AIG oder nach Artikel 3 Anhang I FZA oder nach Artikel 3 Anhang K Anlage 1 des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA) ein Anspruch darauf besteht, längstens aber während sieben Jahren seit derjenigen Einreise, nach welcher die vorläufige Aufnahme erstmals angeordnet worden ist*;*
+- d<sup>bis</sup>.[^24-8] ein Staatenloser mit einer rechtskräftigen Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG oder mit einer rechtskräftigen Ausweisung nach Artikel 68 AIG die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist, längstens aber fünf Jahre seit der Anerkennung der Staatenlosigkeit;
+- e. das Asyl widerrufen und die Flüchtlingseigenschaft aberkannt wird;
+- f. ein Flüchtling oder eine staatenlose Person die Schweiz definitiv verlassen hat oder unkontrolliert abgereist ist.[^24-9]
 
 <sup>2</sup> Entsteht ein Anspruch auf Erteilung einer Aufenthalts- oder Niederlassungsbewilligung, wird während der Dauer des Bewilligungsverfahrens die Globalpauschale nicht vergütet. Liegt ein rechtskräftiger kantonaler Entscheid bezüglich der Verweigerung der Aufenthalts- oder Niederlassungsbewilligung vor, vergütet der Bund dem Kanton auf Gesuch hin die Globalpauschale rückwirkend bis längstens zum Wegfall des Verweigerungsgrundes.
 
 <sup>3</sup> Der Bund zahlt den Kantonen für Schutzbedürftige mit einer Aufenthaltsbewilligung die Hälfte der Globalpauschale nach Artikel 26 vom Tag an, an dem diese nach Artikel 74 Absatz 2 des AsylG einen Anspruch auf die Erteilung einer Aufenthaltsbewilligung haben, bis und mit dem Tag, an dem sie erstmals eine Niederlassungsbewilligung erhalten oder ein Anspruch darauf besteht, längstens aber bis zum Zeitpunkt, in dem eine solche nach Artikel 74 Absatz 3 des AsylG erteilt werden könnte.
 
-<sup>4</sup> und <sup>5</sup> …[^24-13]
+<sup>4</sup> und <sup>5</sup> …[^24-10]
 
-[^24-1]: Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
-[^24-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
-[^24-3]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^24-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-6]: Eingefügt durch Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-8]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^24-9]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-10]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-11]: Eingefügt durch Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-12]: Eingefügt durch Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-13]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
+[^24-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^24-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^24-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-5]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^24-8]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-9]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^24-10]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 24a
 
@@ -470,7 +507,7 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 
 <sup>2</sup> Die über fünf Jahre hinausgehende Vergütung nach Absatz 1 beinhaltet Beiträge an die Kosten für unbegleitete Minderjährige und Personen, die 5 Jahre nach ihrer Einreise aufgrund einer schweren körperlichen oder geistigen Beeinträchtigung oder wegen Betagtheit nicht wirtschaftlich selbständig sind.
 
-[^24a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Siehe auch die UeB dieser Änd. am Ende dieses Textes.
+[^24a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Siehe auch die UeB Änd. 8.6.2018 und 30.3.2022 am Ende dieses Textes.
 
 #### Art. 25
 
@@ -478,19 +515,19 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 
 Mit der Globalpauschale nach Artikel 26 sind sämtliche vergütbaren Aufwendungen der Kantone für die Sozialhilfe bei kostengünstigen Lösungen abgegolten.
 
-[^25-1]: Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
+[^25-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
 
 #### Art. 26
 
 **Höhe und Anpassung der Globalpauschale**[^26-1]
 
-<sup>1</sup> Der Bund vergütet den Kantonen für jede Sozialhilfe beziehende Person und für jeden Flüchtling, der einer Flüchtlingsgruppe nach Artikel 56 AsylG angehört eine Globalpauschale. Sie beträgt im schweizerischen Durchschnitt pro Monat 1480.44 Franken und basiert auf dem Landesindex der Konsumentenpreise und dem Anteil der unbegleiteten Minderjährigen am Gesamtbestand an Flüchtlingen, Staatenlosen und Schutzbedürftigen mit Aufenthaltsbewilligung (Stand: 31. Okt. 2017).[^26-2] [^26-3]
+<sup>1</sup> Der Bund vergütet den Kantonen für jede Sozialhilfe beziehende Person und für jeden Flüchtling, der einer Flüchtlingsgruppe nach Artikel 56 AsylG angehört eine Globalpauschale. Sie beträgt im schweizerischen Durchschnitt pro Monat 1411.06 Franken und basiert auf dem Stand des Landesindexes der Konsumentenpreise von 100,9 Punkten (Indexstand: 31. Okt. 2017) und dem Anteil der unbegleiteten Minderjährigen am Gesamtbestand an Flüchtlingen, Staatenlosen und Schutzbedürftigen mit Aufenthaltsbewilligung (Stand: 31. Okt. 2017).[^26-2]
 
-<sup>2</sup> Die Globalpauschale setzt sich zusammen aus einem Anteil für die Mietkosten, einem Anteil für die Sozialhilfe- Betreuungs- und Verwaltungskosten und einem Anteil für die Selbstbehalte und Franchisen.[^26-4]
+<sup>2</sup> Die Globalpauschale setzt sich zusammen aus einem Anteil für die Mietkosten, einem Anteil für die Sozialhilfe- Betreuungs- und Verwaltungskosten und einem Anteil für die Selbstbehalte und Franchisen.[^26-3]
 
 <sup>3</sup> Der Anteil für die Mietkosten wird unter Berücksichtigung einer Bandbreite zwischen 80 und 120 Prozent wie folgt kantonal abgestuft:
 
-Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kantonale Abstufung gestützt auf die vom BfS veröffentlichten Mietpreiserhebungen (durchschnittlicher Mietpreis in Franken nach Zimmerzahl und Kanton) anpassen.[^26-5]
+Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kantonale Abstufung gestützt auf die vom BfS veröffentlichten Mietpreiserhebungen (durchschnittlicher Mietpreis in Franken nach Zimmerzahl und Kanton) anpassen.[^26-4]
 
 <table>
 <tr><th>Kanton</th><th colspan="3">in Prozent</th><th>Kanton</th><th>in Prozent</th></tr>
@@ -509,26 +546,25 @@ Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kant
 <tr><td>Neuenburg</td><td colspan="3">80,0</td><td>Zürich</td><td>117,5</td></tr>
 </table>
 
-<sup>4</sup> Die Festsetzung der vollen Beträge der ordentlichen Franchise und des Selbstbehaltes erfolgt nach Artikel 64 KVG[^26-6] sowie der Anzahl Kinder und Erwachsenen. Die Anpassung erfolgt jeweils Ende Jahr für das nachfolgende Kalenderjahr.[^26-7]
+<sup>4</sup> Die Festsetzung der vollen Beträge der ordentlichen Franchise und des Selbstbehaltes erfolgt nach Artikel 64 KVG[^26-5] sowie der Anzahl Kinder und Erwachsenen. Die Anpassung erfolgt jeweils Ende Jahr für das nachfolgende Kalenderjahr.[^26-6]
 
-<sup>5</sup> Der Anteil für die Mietkosten beträgt 314.00 Franken, der Anteil für die übrigen Sozialhilfekosten 827.80 Franken, der Anteil für die Betreuungs- und Verwaltungskosten 269.37 Franken und der Anteil für die zusätzlichen Unterbringungs- und Betreuungskosten von unbegleiteten Minderjährigen 5.60 Franken. Die Anteile basieren auf dem Stand des Landesindexes der Konsumentenpreise von 100,9 Punkten (Indexstand: 31. Okt. 2017). Das SEM passt diese Anteile jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.[^26-8]
+<sup>5</sup> Der Anteil für die Mietkosten beträgt 298.40 Franken, der Anteil für die übrigen Sozialhilfekosten 786.69 Franken, der Anteil für die Betreuungs- und Verwaltungskosten 256.70 Franken und der Anteil für die zusätzlichen Unterbringungs- und Betreuungskosten von unbegleiteten Minderjährigen 5.60 Franken. Die Anteile basieren auf dem Stand des Landesindexes der Konsumentenpreise von 100,9 Punkten (Indexstand: 31. Okt. 2017). Das SEM passt diese Anteile jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.[^26-7]
 
 <sup>6</sup> Der Anteil für die zusätzlichen Unterbringungs- und Betreuungskosten von unbegleiteten Minderjährigen basiert auf dem Gesamtbestand an Flüchtlingen, Staatenlosen und Schutzbedürftigen mit Aufenthaltsbewilligung von 27 891 Personen sowie dem Bestand davon an unbegleiteten Minderjährigen von 138 Personen (ausmachend 0,5 %; Stand: 31. Okt. 2017). Das SEM passt den Anteil jeweils Ende des Jahres für das folgende Kalenderjahr mit folgender Formel der Entwicklung der Bestände an:
 
 <table>
 <tr><td>5.60 Franken ×</td><td>Anteil unbegleitete Minderjährige am Gesamtbestand</td><td></td></tr>
-<tr><td></td><td>0,5 %</td><td>.[^26-9]</td></tr>
+<tr><td></td><td>0,5 %</td><td>.[^26-8]</td></tr>
 </table>
 
-[^26-1]: Siehe auch die UeB Änd. 24.10.2007, 7.12.2012, 8.6.2018 und 10.4.2019 am Ende dieses Textes.
-[^26-2]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^26-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-4]: Die Berichtigung vom 13. Febr. 2018 betrifft nur den italienischen Text ([AS 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
-[^26-5]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-6]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-7]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-8]: Fassung gemäss Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^26-9]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^26-1]: Siehe auch die UeB Änd. 24.10.2007, 7.12.2012, 8.6.2018, 10.4.2019 und 30.3.2022 am Ende dieses Textes.
+[^26-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^26-3]: Die Berichtigung vom 13. Febr. 2018 betrifft nur den italienischen Text ([AS 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
+[^26-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^26-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-6]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^26-7]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^26-8]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
 
 #### Art. 27
 
@@ -536,33 +572,35 @@ Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kant
 
 <sup>1</sup>
 
-Der vom Bund pro Kanton und Monat geschuldete Gesamtbetrag (B) in Franken basiert auf den in den Datensystemen des SEM erfassten Daten. Er berechnet sich nach der folgenden Formel:
+Der vom Bund pro Kanton und Monat geschuldete Gesamtbetrag (B<sub>F</sub>) in Franken basiert auf den in den Datensystemen des SEM erfassten Daten. Er berechnet sich nach der folgenden Formel:
 
-- B = Anzahl am ersten Tag des Monats Sozialhilfe beziehende Personen × kantonal abgestufte Globalpauschale.
+- B<sub>F</sub> = Anzahl am ersten Tag des Monats Sozialhilfe beziehende Personen × kantonal abgestufte Globalpauschale.
 
 <sup>2</sup>
 
-Die Anzahl Sozialhilfe beziehender Personen (SP) berechnet sich nach der Formel:
+Die Anzahl Sozialhilfe beziehender Personen (SP<sub>F</sub>) berechnet sich nach der Formel:
 
-- SP = P – BET<sub>F</sub>
+- SP<sub>F</sub> = P<sub>F</sub> – BET<sub>F</sub>
 
 In der Formel bedeuten:
 
-- P = Am ersten Tag des Monats anwesende Flüchtlinge, Staatenlose und schutzbedürftige Personen mit einer Aufenthaltsbewilligung.
-- BET<sub>F</sub> = Bereinigte Anzahl der erwerbstätigen Flüchtlinge, Staatenlosen und schutzbedürftigen Personen mit einer Aufenthaltsbewilligung (18- bis 60-Jährige).
+- P<sub>F</sub> = Am ersten Tag des Monats anwesende Flüchtlinge, Staatenlose und schutzbedürftige Personen mit einer Aufenthaltsbewilligung.
+- BET<sub>F</sub> = Bereinigte Anzahl der erwerbstätigen Flüchtlinge, Staatenlosen und schutzbedürftigen Personen mit einer Aufenthaltsbewilligung (25- bis 60-Jährige).
 
 Die bereinigte Anzahl berechnet sich nach der Formel:
 
-- BET<sub>F</sub> = EA<sub>F</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>)
+- BET<sub>F</sub> = EA<sub>F</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>) × (1 – NLQ<sub>KT</sub>)
 
 In der Formel bedeuten:
 
-- EA<sub>F</sub> = Am ersten Tag des Monats im Erwerbsalter stehende Flüchtlinge, Staatenlose und schutzbedürftige Personen mit einer Aufenthaltsbewilligung (18- bis 60-Jährige).
-- EQ<sub>CH</sub> = Schweizerische Quote der am ersten Tag des Monats erwerbstätigen Flüchtlinge, Staatenlosen und schutzbedürftigen Personen mit einer Aufenthaltsbewilligung (18- bis 60-Jährige).
+- EA<sub>F</sub> = Am ersten Tag des Monats im Erwerbsalter stehende Flüchtlinge, Staatenlose und schutzbedürftige Personen mit einer Aufenthaltsbewilligung (25- bis 60-Jährige).
+- EQ<sub>CH</sub> = Schweizerische Quote der am ersten Tag des Monats erwerbstätigen Flüchtlinge, Staatenlosen und schutzbedürftigen Personen mit einer Aufenthaltsbewilligung (25- bis 60-Jährige).
 - ALQ<sub>CH</sub> = Schweizerische Arbeitslosenquote des Vormonats der in der Schweiz lebenden Ausländer gemäss SECO.
 - ALQ<sub>KT</sub> = Kantonale Arbeitslosenquote des Vormonats der im jeweiligen Kanton lebenden Ausländer gemäss SECO.
+- NLQ<sub>KT</sub> = Kantonale Quote des vorletzten Jahres der im jeweiligen Kanton zu einem Niedriglohn (Bruttomonatslohn &lt; = 600 Franken) beschäftigten Flüchtlinge, Staatenlosen und schutzbedürftigen Personen mit einer Aufenthaltsbewilligung gemäss den vom SEM ausgewerteten Meldungen der Zentralen Ausgleichstelle nach Artikel 93<sup>bis</sup> AHVG[^27-2].
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Siehe auch die UeB Änd. 7.12.2012 am Ende dieses Textes.
+[^27-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)). Siehe auch die UeB Änd. 30.3.2022 am Ende dieses Textes.
+[^27-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 27a
 
@@ -572,7 +610,7 @@ Der vom Bund pro Kanton und Monat geschuldete Gesamtbetrag (B) in Franken basier
 
 - B = Anzahl am ersten Tag des Monats anwesende Flüchtlinge einer Flüchtlingsgruppe x kantonal abgestufte Globalpauschale nach Artikel 26.
 
-[^27a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^27a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Siehe auch die UeB Änd. 30.3.2022 am Ende dieses Textes.
 
 ### 3. Abschnitt: Nothilfe
 
@@ -631,7 +669,7 @@ Das SEM führt ein Informationssystem Monitoring Sozialhilfestopp. Dieses enthä
 
 <sup>4</sup> Die Kantone teilen dem SEM die für die Durchführung des Monitorings notwendigen Daten nach Absatz 3 mit.
 
-<sup>5</sup> Zugriff auf die Daten des Monitoring-Systems Sozialhilfstopp haben die Mitarbeiterinnen und Mitarbeiter des SEM und der Kantone, die mit dem Monitoring befasst sind.
+<sup>5</sup> Zugriff auf die Daten des Monitoring-Systems Sozialhilfestopp haben die Mitarbeiterinnen und Mitarbeiter des SEM und der Kantone, die mit dem Monitoring befasst sind.
 
 [^30-1]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -655,7 +693,7 @@ Das SEM führt ein Informationssystem Monitoring Sozialhilfestopp. Dieses enthä
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
-### 2. Kapitel: Verwaltungskosten****
+### 2. Kapitel: Verwaltungskosten
 
 [^tit3-chap2-1]
 
@@ -790,7 +828,7 @@ Ist kein Miet-, Pacht- oder Baurechtsverhältnis möglich, kann das SEM die Gest
 
 ### 4. Kapitel: Weitere Beiträge
 
-### 1. Abschnitt: Sicherheitskosten****
+### 1. Abschnitt: Sicherheitskosten
 
 [^tit3-chap4-sec1-1]
 
@@ -841,7 +879,7 @@ In der Formel bedeuten:
 
 [^4243-1]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
-### 1*a*. Abschnitt: Einrichtungen für traumatisierte Personen****
+### 1*a*. Abschnitt: Einrichtungen für traumatisierte Personen
 
 [^tit3-chap4-sec1a-1]
 
@@ -863,7 +901,7 @@ In der Formel bedeuten:
 
 [^45-1]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
-### 2. Abschnitt: Entscheidvorbereitung durch die Kantone****
+### 2. Abschnitt: Entscheidvorbereitung durch die Kantone
 
 [^tit3-chap4-sec2-1]
 
@@ -939,7 +977,7 @@ Für den Abschluss eines Vertrages reichen die Kantone dem SEM folgende Unterlag
 
 <sup>2</sup> Das SEM gewährt quartalsweise Teilzahlungen in der Höhe von 80 Prozent der vorgesehenen Kosten.
 
-### 3. Abschnitt: Internationale Zusammenarbeit: Grundsätze****
+### 3. Abschnitt: Internationale Zusammenarbeit: Grundsätze
 
 [^tit3-chap4-sec3-1]
 
@@ -990,7 +1028,7 @@ Das SEM behandelt das Gesuch nach den Grundsätzen der Notwendigkeit und Zweckm�
 
 [^52-1]: Fassung gemäss Ziff. I der V vom 18. Sept 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### 4. Abschnitt:**** Internationale Zusammenarbeit: Besondere Bestimmungen für Verpflichtungskredite Migration
+### 4. Abschnitt: Internationale Zusammenarbeit: Besondere Bestimmungen für Verpflichtungskredite Migration
 
 [^tit3-chap4-sec4-1]
 
@@ -1375,7 +1413,7 @@ Von finanzieller Rückkehrhilfe ausgeschlossen sind Personen:[^64-1]
 [^64-5]: Aufgehoben durch Ziff. I der V vom 1. März 2006, mit Wirkung seit 1. April 2006 ([AS 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
 [^64-6]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
-### 2. Abschnitt:**** Rückkehrberatung
+### 2. Abschnitt: Rückkehrberatung
 
 [^tit3-chap6-sec2-1]
 
@@ -1469,7 +1507,7 @@ Rückkehrberatungsstellen in den Kantonen, in den Zentren des Bundes[^66-1] und 
 
 Aufgehoben
 
-### 3. Abschnitt:**** Programme im Ausland
+### 3. Abschnitt: Programme im Ausland
 
 [^tit3-chap6-sec3-1]
 
@@ -1516,7 +1554,7 @@ Als Programme im Ausland gelten ebenfalls Massnahmen, die in Herkunfts- und Tran
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 18. Sept 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### 4. Abschnitt:**** Individuelle Rückkehrhilfe
+### 4. Abschnitt: Individuelle Rückkehrhilfe
 
 [^tit3-chap6-sec4-1]
 
@@ -1675,7 +1713,7 @@ Die Asylverordnung 2 vom 22. Mai 1991[^81-1] wird aufgehoben.
 [^83-2]: [AS 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)
 [^83-3]: Eingefügt durch Ziff. I der V vom 5. Juni 2015, in Kraft seit 29. Sept. 2015 ([AS 2015 2053](https://fedlex.data.admin.ch/eli/oc/2015/382)).
 
-## Schlussbestimmungen zur Änderung vom 24. März 2004****
+## Schlussbestimmungen zur Änderung vom 24. März 2004
 
 [^u1-1]
 
@@ -1685,7 +1723,7 @@ Für Personen, deren Nichteintretensentscheid nach den Artikeln 32–34 und dere
 
 [^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
-## Schlussbestimmung zur Änderung vom 3. Dezember 2004****
+## Schlussbestimmung zur Änderung vom 3. Dezember 2004
 
 [^u2-1]
 
@@ -1693,7 +1731,7 @@ Für Personen, deren Nichteintretensentscheid nach den Artikeln 32–34 und dere
 
 Die Pauschale nach Artikel 30 Absatz 3 wird für das Jahr 2005 der Teuerung nach dem Stand des Landesindexes der Konsumentenpreise vom 31. Oktober 2004 angepasst.
 
-## Übergangsbestimmung zur Änderung vom 24. Oktober 2007****
+## Übergangsbestimmung zur Änderung vom 24. Oktober 2007
 
 [^u3-1]
 
@@ -1719,7 +1757,7 @@ Die Pauschale nach Artikel 30 Absatz 3 wird für das Jahr 2005 der Teuerung nach
 [^u3-3]: [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 [^u3-4]: [AS 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 
-## Übergangsbestimmung zur Änderung vom 12. Dezember 2008****
+## Übergangsbestimmung zur Änderung vom 12. Dezember 2008
 
 [^u4-1]
 
@@ -1727,7 +1765,7 @@ Die Pauschale nach Artikel 30 Absatz 3 wird für das Jahr 2005 der Teuerung nach
 
 Die Pauschalen nach den Artikeln 22 und 23*a* werden rückwirkend ab dem 1. Juli 2008 dem Stand der Teuerung per 31. Oktober 2007 angepasst.
 
-## Übergangsbestimmungen zur Änderung vom 7. Dezember 2012****
+## Übergangsbestimmungen zur Änderung vom 7. Dezember 2012
 
 [^u5-1]
 
@@ -1737,7 +1775,7 @@ Die Pauschalen nach den Artikeln 22 und 23*a* werden rückwirkend ab dem 1. Juli
 
 <sup>2</sup> Die Berechnung, die Ausrichtung sowie die Nach- und Rückzahlungen der Pauschalen nach den Artikeln 20‒27 für die Zeit vor Inkrafttreten dieser Verordnungsänderung richten sich nach dem alten Recht.
 
-## Übergansbestimmungen zur Änderung vom 4. September 2013****
+## Übergansbestimmungen zur Änderung vom 4. September 2013
 
 [^u6-1]
 
@@ -1749,7 +1787,7 @@ Die Pauschalen nach den Artikeln 22 und 23*a* werden rückwirkend ab dem 1. Juli
 
 [^u6-2]: [AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)
 
-## Übergangsbestimmung zur Änderung vom 15. November 2017****
+## Übergangsbestimmung zur Änderung vom 15. November 2017
 
 [^u7-1]
 
@@ -1757,7 +1795,7 @@ Die Pauschalen nach den Artikeln 22 und 23*a* werden rückwirkend ab dem 1. Juli
 
 Bis zum Zeitpunkt des Inkrafttretens dieser Verordnungsänderung geleistete oder fällige Sonderabgaben aus Erwerbseinkommen und abgenommene Vermögenswerte werden vollumfänglich an den maximalen Betrag nach Artikel 10 Absatz 2 Buchstabe a angerechnet.
 
-## Übergangsbestimmungen zur Änderung vom 8. Juni 2018****
+## Übergangsbestimmungen zur Änderung vom 8. Juni 2018
 
 [^u8-1]
 
@@ -1769,7 +1807,7 @@ Bis zum Zeitpunkt des Inkrafttretens dieser Verordnungsänderung geleistete oder
 
 <sup>3</sup> Der Umfang und die Höhe der Nothilfepauschale für Personen, die vor Inkrafttreten dieser Änderung ein Asylgesuch eingereicht haben, richten sich nach altem Recht.
 
-## Übergangsbestimmung zur Änderung vom 10. April 2019****
+## Übergangsbestimmung zur Änderung vom 10. April 2019
 
 [^u9-1]
 
@@ -1777,10 +1815,20 @@ Bis zum Zeitpunkt des Inkrafttretens dieser Verordnungsänderung geleistete oder
 
 Im Zeitpunkt des Inkrafttretens dieser Änderung passt das SEM die in den folgenden Bestimmungen enthaltenen Beträge dem Stand des Landesindexes der Konsumentenpreise und dem Anteil unbegleiteter Minderjähriger am Gesamtbestand (Stand: 31. Okt. 2018) an: Artikel 22 Absätze 1, 5 und 6, Artikel 26 Absätze 1, 5 und 6.
 
-## Übergangsbestimmungen zur Änderung vom 18. November 2020****
+## Übergangsbestimmungen zur Änderung vom 18. November 2020
 
 [^u10-1]
 
 [^u10-1]: [AS 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)
 
 Für die im Jahre 2019 vorübergehend stillgelegten Zentren des Bundes und besonderen Zentren des Bundes wird der volle Pauschalbeitrag nach Artikel 41 Absätze 1 und 2 für die Dauer der Stilllegung bis längstens am 31. Dezember 2020 vergütet. Für Zentren des Bundes und besondere Zentren des Bundes, die im Jahre 2020 vorübergehend stillgelegt wurden, gilt Artikel 41 Absatz 5.
+
+## Übergangsbestimmung zur Änderung vom 30.März 2022
+
+[^u11-1]
+
+[^u11-1]: [AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)
+
+<sup>1</sup> Die Berechnung, die Ausrichtung sowie die Nach- und Rückzahlungen der Pauschalen nach den Artikeln 20‒27*a* für die Zeit vor dem Inkrafttreten dieser Verordnungsänderung richten sich nach altem Recht.
+
+<sup>2</sup> Auf den Zeitpunkt des Inkrafttretens dieser Änderung passt das SEM die in den folgenden Bestimmungen enthaltenen Beträge dem Stand des Landesindexes der Konsumentenpreise vom 31. Oktober 2022 an: Artikel 22 Absätze 1 und 5 und Artikel 26 Absätze 1 und 5.

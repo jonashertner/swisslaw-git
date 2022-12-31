@@ -4,18 +4,18 @@ title: "Ordinanza 2 dell' 11 agosto 1999 sull'asilo relativa alle questioni fina
 short: OAsi 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: it
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-360-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza 2 sull’asilo relativa alle questioni finanziarie (Ordinanza 2 sull’asilo, OAsi 2)
 
-dell’11 agosto 1999 (Stato 1° giugno 2022)
+dell’11 agosto 1999 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -31,31 +31,29 @@ ordina:
 
 La presente ordinanza disciplina la determinazione, la concessione, il conteggio e il rimborso delle prestazioni della Confederazione, dei Cantoni e di terzi nel settore dell’asilo.
 
-## Titolo 2: Aiuto sociale e soccorso d’emergenza****
+## Titolo 2: Aiuto sociale e soccorso d’emergenza
 
 [^tit2-1]
 
 [^tit2-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
-### Capitolo 1: Concessione delle prestazioni d’aiuto sociale e del soccorso d’emergenza****
+### Capitolo 1: Determinazione e concessione dell’aiuto sociale, del soccorso d’emergenza e dei sussidi federali corrispondenti
 
 [^tit2-chap1-1]
 
-[^tit2-chap1-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
+[^tit2-chap1-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 ### Sezione 1: Disposizioni generali
 
 #### Art. 2
 
-**Definizione delle prestazioni d’aiuto sociale e di soccorso d’emergenza rimborsabili**[^2-1]
+**Definizione delle prestazioni d’aiuto sociale e di soccorso d’emergenza rimborsabili mediante sussidi federali**[^2-1]
 
-### (art. 88 LAsi)
+Sono prestazioni d’aiuto sociale e di soccorso d’emergenza rimborsabili giusta l’articolo 88 LAsi le prestazioni assistenziali ai sensi dell’articolo 82 LAsi e dell’articolo 3 della legge federale del 24 giugno 1977[^2-2] sull’assistenza. Sono escluse le prestazioni indennizzate conformemente all’articolo 15 dell’ordinanza del 15 agosto 2018[^2-3] sull’integrazione degli stranieri.
 
-Sono prestazioni d’aiuto sociale e di soccorso d’emergenza rimborsabili giusta l’articolo 88 LAsi le prestazioni assistenziali ai sensi dell’articolo 82 LAsi e dell’articolo 3 della legge federale del 24 giugno 1977[^2-2] sull’assistenza. Sono escluse le prestazioni rimborsate conformemente all’articolo 18 dell’ordinanza del 24 ottobre 2007[^2-3] sull’integrazione degli stranieri.
-
-[^2-1]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^2-2]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^2-3]: [[RU 2007 5551](https://fedlex.data.admin.ch/eli/oc/2007/762), [2013 5351](https://fedlex.data.admin.ch/eli/oc/2013/854), [2017 6543](https://fedlex.data.admin.ch/eli/oc/2017/720), [2018 745](https://fedlex.data.admin.ch/eli/oc/2018/95). [RU 2018 3189](https://fedlex.data.admin.ch/eli/oc/2018/511)art. 30]. Vedi ora l’art. 15 dell’O del 15 ago. 2018 ([RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511))
+[^2-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
 
 #### Art. 3
 
@@ -63,19 +61,21 @@ Sono prestazioni d’aiuto sociale e di soccorso d’emergenza rimborsabili gius
 
 <sup>1</sup> Nel caso di rifugiati, di apolidi e di persone bisognose di protezione titolari di un permesso di dimora, la determinazione, la concessione e la limitazione delle prestazioni assistenziali sono rette dal diritto cantonale. A queste persone dev’essere assicurata la parità di trattamento con le persone residenti in Svizzera.[^3-2]
 
-<sup>2</sup> Nel caso di richiedenti l’asilo, di persone bisognose di protezione non titolari di un permesso di dimora e di persone ammesse provvisoriamente, la determinazione, la concessione e la limitazione delle prestazioni d’aiuto sociale sono rette dal diritto cantonale. Sono fatti salvi gli articoli 82 capoverso 3 e 83 capoverso 1 LAsi nonché le disposizioni divergenti della presente ordinanza.
+<sup>2</sup> Nel caso di richiedenti l’asilo, di persone bisognose di protezione non titolari di un permesso di dimora e di persone ammesse provvisoriamente, la determinazione, la concessione e la limitazione delle prestazioni d’aiuto sociale sono rette dal diritto cantonale. Sono fatti salvi gli articoli 82 capoversi 3 e 3<sup>bis</sup> nonché 83 capoverso 1 LAsi.[^3-3]
 
 <sup>3</sup>
 
-Fatti salvi gli articoli 82 capoverso 4 e 83*a* LAsi nonché le disposizioni divergenti della presente ordinanza, la determinazione e la concessione delle prestazioni di soccorso d’emergenza per le seguenti persone sono rette dal diritto cantonale:
+Fatti salvi gli articoli 82 capoverso 4 e 83*a* LAsi, la determinazione e la concessione delle prestazioni di soccorso d’emergenza per le seguenti persone sono rette dal diritto cantonale:[^3-4]
 
 - a. persone la cui domanda è stata respinta con una decisione di non entrata nel merito passata in giudicato o con una decisione negativa passata in giudicato alle quali è stato fissato un termine di partenza;
 - b. persone oggetto di una procedura secondo l’articolo 111*b* o 111*c* LAsi;
-- c. persone la cui ammissione provvisoria è stata sospesa mediante decisione passata in giudicato.[^3-3]
+- c. persone la cui ammissione provvisoria è stata sospesa mediante decisione passata in giudicato.[^3-5]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^3-3]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^3-3]: Nuovo testo del per. giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^3-5]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
 
 #### Art. 4
 
@@ -160,7 +160,7 @@ Gli assegni per figli che sono stati trattenuti sono versati al richiedente l’
 [^7-1]: Nuovo testo giusta il n. I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^7-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
-### Capitolo 2:**** Contributo speciale prelevato sui valori patrimoniali****
+### Capitolo 2: Contributo speciale prelevato sui valori patrimoniali
 
 [^tit2-chap2-1][^tit2-chap2-2]
 
@@ -186,7 +186,7 @@ Sono assoggettati al contributo speciale prelevato sui valori patrimoniali:
 - a. i richiedenti l’asilo, a partire dalla presentazione della domanda d’asilo;
 - b. le persone bisognose di protezione non titolari di un permesso di dimora, a partire dalla presentazione della domanda di concessione della protezione provvisoria;
 - c. le persone ammesse provvisoriamente, a partire dalla decisione di ammissione provvisoria;
-- d. le persone allontanate, a partire dal passaggio in giudicato della decisione di allontanamento dopo l’esito negativo della procedura d’asilo o dopo la revoca dell’ammissione provvisoria; e
+- d.[^10-2] le persone allontanate, a partire dal passaggio in giudicato della decisione di allontanamento dopo l’esito negativo della procedura d’asilo o a partire dal passaggio in giudicato della revoca dell’ammissione provvisoria; e
 - e. le persone oggetto di una decisione di espulsione passata in giudicato, dopo l’esito negativo della procedura d’asilo o al termine dell’ammissione provvisoria.
 
 <sup>2</sup>
@@ -200,6 +200,7 @@ L’assoggettamento al contributo speciale prelevato sui valori patrimoniali ces
 <sup>3</sup> L’obbligo di pagare il contributo speciale inizia nuovamente a decorrere, per quanto concerne l’ammontare, con ogni procedura d’asilo.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^10-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 11
 
@@ -287,7 +288,7 @@ Abrogato
 
 ## Titolo 3: Sussidi federali
 
-### Capitolo 1:**** Aiuto sociale e soccorso d’emergenza
+### Capitolo 1: Aiuto sociale e soccorso d’emergenza
 
 [^tit3-chap1-1]
 
@@ -301,18 +302,23 @@ Abrogato
 
 ### (art. 88 e 89 LAsi; art. 87 cpv. 1 lett. a e 87 cpv. 3 LStrI)
 
-La Confederazione versa ai Cantoni somme forfettarie globali per la durata della procedura d’asilo, dell’ammissione provvisoria e della concessione della protezione provvisoria. Sono escluse le indennità versate per la durata della procedura secondo l’articolo 111*c* LAsi. Versa tali somme forfettarie a contare dal mese seguente l’attribuzione al Cantone, la data della decisione concernente l’ammissione provvisoria o la concessione della protezione provvisoria, fino alla fine del mese in cui: [^20-2]
+La Confederazione versa ai Cantoni somme forfettarie globali per la durata della procedura d’asilo, dell’ammissione provvisoria e della concessione della protezione provvisoria. Sono escluse le persone per la durata di una procedura di cui all’articolo 111*c* LAsi. La Confederazione versa tali somme forfettarie a contare dal mese seguente l’attribuzione al Cantone, la data della decisione concernente l’ammissione provvisoria o la concessione della protezione provvisoria, fino alla fine del mese in cui:[^20-2] [^20-3]
 
 - a. la decisione di non entrata nel merito o la decisione d’asilo negativa e di allontanamento passa in giudicato;
 - b. la domanda d’asilo è stralciata;
 - c. la persona ha lasciato definitivamente la Svizzera o è partita senza essere controllata;
-- d. l’ammissione provvisoria ha termine o è revocata con decisione passata in giudicato, ma al massimo sette anni dopo l’entrata;
+- d.[^20-4] l’ammissione provvisoria ha termine o è revocata con decisione passata in giudicato, ma al massimo per sette anni dall’entrata dopo la quale è stata disposta per la prima volta l’ammissione provvisoria;
 - e. la protezione provvisoria ha termine o è revocata con decisione passata in giudicato, ma al più tardi fino al momento in cui va rilasciato un permesso di dimora giusta l’articolo 74 capoverso 2 LAsi;
-- f.[^20-3] è rilasciato un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 1 oppure 43 capoverso 1 o 3 LStr per la pretesa al rilascio di un permesso. Se sussiste la pretesa al rilascio di un permesso, la somma forfettaria non è versata per la durata della procedura di rilascio del permesso. In presenza di una decisione cantonale passata in giudicato di rifiuto a rilasciare un permesso di dimora o di domicilio, la Confederazione versa al Cantone su richiesta la somma forfettaria globale retroattivamente fino al massimo al venir meno del motivo di rifiuto.
+- f.[^20-5] è rilasciato un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI[^20-6], di cui all’articolo 3 dell’allegato I dell’Accordo tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (ALC)[^20-7] oppure di cui all’articolo 3 dell’allegato K appendice 1 della Convenzione istitutiva dell’Associazione europea di libero scambio (AELS)[^20-8] per la pretesa al rilascio di un permesso; se sussiste la pretesa al rilascio di un permesso, la somma forfettaria non è versata per la durata della procedura di rilascio del permesso; in presenza di una decisione cantonale passata in giudicato di rifiuto a rilasciare un permesso di dimora o di domicilio, la Confederazione versa al Cantone su richiesta la somma forfettaria globale retroattivamente fino al massimo al venir meno del motivo di rifiuto.
 
-[^20-1]: Vedi anche le disp. trans. della mod. del 7 dic. 2012 alla fine del presente testo.
-[^20-2]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^20-3]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)). Correzione del 2 ott. 2018 ([RU 2018 3311](https://fedlex.data.admin.ch/eli/oc/2018/533)).
+[^20-1]: Vedi anche le disp. trans. delle mod. del 7 dic. 2012 e del 30 mar. 2022 alla fine del presente testo.
+[^20-2]: Nuovo testo del secondo e del terzo per. giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-3]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
+[^20-4]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-5]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^20-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^20-7]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^20-8]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 21
 
@@ -326,13 +332,13 @@ Le somme forfettarie di cui all’articolo 22 coprono tutte le spese di aiuto so
 
 **Importo e adeguamento della somma forfettaria globale**[^22-1]
 
-<sup>1</sup> La Confederazione versa ai Cantoni una somma forfettaria globale per ogni beneficiario dell’aiuto sociale. L’indennità globale media svizzera ammonta a 1573,39 franchi al mese e si basa sull’indice nazionale dei prezzi al consumo, nonché sulla quota parte di minorenni non accompagnati rispetto al numero complessivo di richiedenti l’asilo, persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora (stato: 31 ott. 2017).[^22-2] [^22-3]
+<sup>1</sup> La Confederazione versa ai Cantoni una somma forfettaria globale per ogni beneficiario dell’aiuto sociale. La somma forfettaria globale media per tutta la Svizzera ammonta per i richiedenti l’asilo a 1573,39 franchi al mese e per le persone ammesse provvisoriamente e le persone bisognose di protezione non titolari di un permesso di dimora a 1424,28 franchi al mese. La somma si basa sull’indice nazionale dei prezzi al consumo di 100,9 punti (stato dell’indice: 31 ott. 2017) e sulla quota parte di minorenni non accompagnati rispetto al numero complessivo di richiedenti l’asilo, persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora (stato: 31 ott. 2017).[^22-2]
 
 <sup>2</sup> La somma forfettaria globale comprende una quota parte per le spese di locazione, una per le spese di aiuto sociale e assistenza e una per i premi delle casse malati, le aliquote percentuali e le franchigie.
 
 <sup>3</sup> La quota parte per le spese di locazione è calcolata come segue, entro una fascia compresa tra l’80 e il 120 per cento:
 
-In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare la ripartizione tra i Cantoni in base alle rilevazioni degli affitti (affitto medio in franchi secondo il numero di stanze e il Cantone) pubblicati dall’Ufficio federale di statistica (UST).[^22-4]
+In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare la ripartizione tra i Cantoni in base alle rilevazioni degli affitti (affitto medio in franchi secondo il numero di stanze e il Cantone) pubblicati dall’Ufficio federale di statistica (UST).[^22-3]
 
 <table>
 <tr><th>Cantone</th><th>percentuale</th><th>Cantone</th><th>percentuale</th></tr>
@@ -348,69 +354,99 @@ In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare
 <tr><td>Grigioni</td><td>92,5</td><td>Vaud</td><td>99,8</td></tr>
 <tr><td>Giura</td><td>80,0</td><td>Vallese</td><td>81,8</td></tr>
 <tr><td>Lucerna</td><td>100,2</td><td>Zugo</td><td>120,0</td></tr>
-<tr><td>Neuchâtel</td><td>80,0</td><td>Zurigo</td><td>117,5. [^22-5]</td></tr>
+<tr><td>Neuchâtel</td><td>80,0</td><td>Zurigo</td><td>117,5. [^22-4]</td></tr>
 </table>
 
-<sup>4</sup> La quota parte dei Cantoni per i premi delle casse malati, le aliquote percentuali e le franchigie è stabilita in base ai premi medi pubblicati dall’Ufficio federale della sanità pubblica[^22-6], agli importi integrali della franchigia ordinaria e delle aliquote percentuali giusta l’articolo 64 LAMal[^22-7], nonché in funzione del numero di bambini, giovani adulti e adulti. L’adeguamento è effettuato alla fine di ogni anno per l’anno civile seguente.[^22-8]
+<sup>4</sup> La quota parte dei Cantoni per i premi delle casse malati, le aliquote percentuali e le franchigie è stabilita in base ai premi medi pubblicati dall’Ufficio federale della sanità pubblica[^22-5], agli importi integrali della franchigia ordinaria e delle aliquote percentuali giusta l’articolo 64 LAMal[^22-6], nonché in funzione del numero di bambini, giovani adulti e adulti. L’adeguamento è effettuato alla fine di ogni anno per l’anno civile seguente.[^22-7]
 
-<sup>5</sup> La quota parte per le spese di locazione è di 215,66 franchi, quella per le altre spese di aiuto sociale è di 617,34 franchi, quella per le spese di assistenza è di 273,90 franchi e quella per le spese supplementari di alloggio e assistenza per i minorenni non accompagnati è di 56,09 franchi. Le quote si basano sull’indice nazionale dei prezzi al consumo di 100,9 punti (stato dell’indice: 31 ott. 2017). La SEM adegua queste quote parte all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^22-9]
+<sup>5</sup> Le seguenti quote si basano sullo stato dell’indice nazionale dei prezzi al consumo di 100,9 punti (stato dell’indice: 31 ott. 2017). La SEM adegua queste quote parte all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.
+
+La quota parte per le spese ammonta a:
+
+<table>
+<tr><th></th><th>Richiedenti l’asilo</th><th>Persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora</th></tr>
+<tr><td>Spese di locazione</td><td>216,66 CHF</td><td>184,03 CHF</td></tr>
+<tr><td>Altre spese di aiuto sociale</td><td>617,34 CHF</td><td>526,78 CHF</td></tr>
+<tr><td>Spese di assistenza</td><td>273,90 CHF</td><td>246,98 CHF</td></tr>
+<tr><td>Spese supplementari di alloggio e assistenza per i minorenni non accompagnati</td><td>56,09 CHF</td><td>56,09 CHF. [^22-8]</td></tr>
+</table>
 
 <sup>6</sup> La quota parte per le spese supplementari di alloggio e assistenza per i minorenni non accompagnati si basa sul numero complessivo di richiedenti l’asilo, persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, ossia 44 383 persone, e sul numero di minorenni non accompagnati tra queste persone, ossia 2283 persone (pari al 5,1 %; stato: 31 ott. 2017). La SEM adegua la quota parte all’evoluzione degli effettivi in base alla formula qui appresso alla fine di ogni anno per l’anno civile seguente:
 
+**Art. 23**[^22-9][^22-10] Calcolo dell’importo totale[^22-11]
+
 <table>
 <tr><td>56,09 franchi ×</td><td>quota parte di minorenni non accompagnati sul numero complessivo</td></tr>
-<tr><td></td><td>5,1 % .[^22-10]</td></tr>
+<tr><td></td><td>5,1 % .[^22-12]</td></tr>
 </table>
 
-[^22-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 12 dic. 2008, del 7 dic. 2012, del 8 giug. 2018 e del 10 apr. 2019 alla fine del presente testo.
-[^22-2]: Nuovo testo del per. giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^22-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-5]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-6]: O del DFI del 28 ott. 2016 sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari ([RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)).
-[^22-7]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^22-8]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-9]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^22-10]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+<sup>1</sup>
 
-#### Art. 23
+L’importo totale (B<sub>AS</sub>) in franchi per la concessione dell’aiuto sociale ai richiedenti l’asilo dovuto dalla Confederazione per Cantone e mese si basa sui dati registrati nella banca dati della SEM. È calcolato secondo la formula:
 
-**Calcolo della somma forfettaria**[^23-1]
+- B<sub>AS</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone + contributo di base alle spese di assistenza.[^22-13]
 
-<sup>1</sup> L’importo totale (B) in franchi dovuto dalla Confederazione in base ai dati registrati nella banca dati della SEM è calcolato per Cantone e mese secondo la formula seguente:
+<sup>2</sup>
 
-B = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma
+Il numero di beneficiali dell’aiuto sociale (SP<sub>AS</sub>) è calcolato secondo la formula:
 
-<sup>2</sup> Il numero di beneficiari dell’aiuto sociale (SP) è calcolato secondo la formula:
-
-SP = P – ET<sub>AS</sub> – BET<sub>VA</sub>
+- SP<sub>AS</sub> = P<sub>AS</sub> – ET<sub>AS</sub>
 
 Nella formula s’intende per:
 
-P = numero di richiedenti l’asilo, persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, residenti nel Cantone il primo giorno del mese.
+- P<sub>AS</sub> = numero di richiedenti l’asilo residenti nel Cantone il primo giorno del mese.
 
-ET<sub>AS</sub> = numero di richiedenti l’asilo esercitanti attività lucrativa il primo giorno del mese (18–60 anni).
+[^22-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 12 dic. 2008, del 7 dic. 2012, dell’8 giu. 2018, del 10 apr. 2019 e del 30 mar. 2022 alla fine del presente testo.
+[^22-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-5]: O del DFI del 28 ott. 2016 sui premi medi dell’assicurazione delle cure medico-sanitarie per il calcolo delle prestazioni complementari ([RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659)).
+[^22-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^22-7]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^22-8]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-9]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
+[^22-10]: Vedi anche le disp. trans. delle mod. del 7 dic. 2012, dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
+[^22-11]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^22-12]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^22-13]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
-BET<sub>VA</sub> = numero riveduto di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, esercitanti attività lucrativa (18–60 anni).
+### ET<sub>AS</sub>=numero di richiedenti l’asilo esercitanti attività lucrativa il primo giorno del mese (18–60 anni).
+
+[^tit3-chap1-sec1-lvlu4-1]
+
+[^tit3-chap1-sec1-lvlu4-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+
+<sup>3</sup> La Confederazione versa a ogni Cantone un contributo di base di 27 433 franchi al mese, destinato al mantenimento di una struttura assistenziale minima. Tale contributo si basa sull’indice nazionale dei prezzi al consumo di 100,3 punti (stato dell’indice: 31 ott. 2016). La SEM lo adegua all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^tit3-chap1-sec1-lvlu4-2]
+
+<sup>4</sup> L’importo totale (B<sub>VA</sub>) in franchi per la concessione dell’aiuto sociale alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora dovuto dalla Confederazione per Cantone e mese si basa sui dati registrati nella banca dati della SEM. È calcolato secondo la formula seguente:
+
+- B<sub>VA</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone.[^tit3-chap1-sec1-lvlu4-3]
+
+<sup>5</sup> Il numero di beneficiari dell’aiuto sociale (SP<sub>VA</sub>) è calcolato secondo la formula:
+
+- SP<sub>VA</sub> = P<sub>VA</sub> – BET<sub>VA</sub>
+
+Nella formula s’intende per:
+
+- P<sub>VA</sub> = numero di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, residenti nel Cantone il primo giorno del mese.
+- BET<sub>VA</sub> = numero riveduto di persone ammesse provvisoriamente e di persone bisognose di protezione non titolari di un permesso di dimora, esercitanti attività lucrativa (25–60 anni).
 
 Il numero riveduto è calcolato secondo la formula:
 
-BET<sub>VA</sub> = EA<sub>VA</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>)
+- BET<sub>VA</sub> = EA<sub>VA</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>) × (1 – NLQ<sub>KT</sub>)
 
 Nella formula s’intende per:
 
-EA<sub>VA</sub> = numero di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora in età di esercitare un’attività lucrativa il primo giorno del mese (18–60 anni).
+- EA<sub>VA</sub> = numero di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora in età di esercitare un’attività lucrativa il primo giorno del mese (25–60 anni).
+- EQ<sub>CH</sub> = quota svizzera di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, esercitanti attività lucrativa il primo giorno del mese (25–60 anni).
+- ALQ<sub>CH</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti in Svizzera secondo la Segreteria di Stato dell’economia (SECO).
+- ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la SECO.
+- NLQ<sub>KT</sub> = quota cantonale del penultimo anno relativa alle persone ammesse provvisoriamente e alle persone bisognose di protezione non titolari di un permesso di dimora, esercitanti un’attività lucrativa nel Cantone retribuita con un salario basso (salario mensile lordo ≤ fr. 600) secondo le informazioni, esaminate dalla SEM, dell’Ufficio centrale di compensazione conformemente all’articolo 93<sup>bis</sup> della legge federale del 20 dicembre 1946[^tit3-chap1-sec1-lvlu4-4] su l’assicurazione per la vecchiaia e per i superstiti (LAVS).[^tit3-chap1-sec1-lvlu4-5]
 
-EQ<sub>CH</sub> = quota svizzera di persone ammesse provvisoriamente e persone bisognose di protezione non titolari di un permesso di dimora, esercitanti attività lucrativa il primo giorno del mese (18–60 anni).
-
-ALQ<sub>CH</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti in Svizzera secondo la Segreteria di Stato dell’economia (SECO).
-
-ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la Segreteria di Stato dell’economia (SECO).
-
-<sup>3</sup> La Confederazione versa a ogni Cantone un contributo di base di 27 433 franchi al mese, destinato al mantenimento di una struttura assistenziale minima. Tale contributo si basa sull’indice nazionale dei prezzi al consumo di 100,3 punti (stato dell’indice: 31 ott. 2016). La SEM lo adegua all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^23-2]
-
-[^23-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Vedi anche le disp. trans. della mod. del 7 dic. 2012 alla fine del presente testo.
-[^23-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^tit3-chap1-sec1-lvlu4-2]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^tit3-chap1-sec1-lvlu4-3]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^tit3-chap1-sec1-lvlu4-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^tit3-chap1-sec1-lvlu4-5]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 23a
 
@@ -428,41 +464,37 @@ ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri r
 
 <sup>1</sup>
 
-La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apolidi. Versa tali somme forfettarie a contare dall’inizio del mese seguente la decisione concernente il riconoscimento della qualità di rifugiato, l’ammissione provvisoria del rifugiato o il riconoscimento dello statuto di apolide, fino alla fine del mese in cui:[^24-2] [^24-3]
+La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apolidi. Versa tali somme forfettarie a contare dall’inizio del mese seguente la decisione concernente il riconoscimento della qualità di rifugiato, l’ammissione provvisoria del rifugiato o il riconoscimento dello statuto di apolide, fino alla fine del mese in cui:
 
-- a.[^24-4] il rifugiato ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 3 o 4 oppure 43 capoverso 2 o 3 LStrI[^24-5] per la pretesa al rilascio di un permesso di domicilio, ma al massimo durante cinque anni a contare dalla presentazione della domanda d’asilo in seguito alla quale è stato concesso l’asilo;
-- b.[^24-6] il rifugiato ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 1 oppure 43 capoverso 1 o 3 LStrI per la pretesa al rilascio di un permesso di dimora, ma al massimo durante sette anni a contare dall’entrata;
-- b<sup>bis</sup>.[^24-7] il rifugiato contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^24-8] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^24-9] (CPM) o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al più tardi cinque anni dopo la presentazione della domanda d’asilo;
-- c.[^24-10] l’apolide ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 3 o 4 oppure 43 capoverso 2 o 3 LStrI per la pretesa al rilascio di un permesso di domicilio, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
-- d.[^24-11] l’apolide ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui agli articoli 42 capoverso 1 oppure 43 capoverso 1 o 3 LStrI per la pretesa al rilascio di un permesso di dimora, ma al massimo durante sette anni a contare dall’entrata;
-- d<sup>bis</sup>.[^24-12] l’apolide contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
-- e. è revocato l’asilo;
-- f.[^24-13] un rifugiato o un apolide ha lasciato definitivamente la Svizzera o è partito senza essere controllato.
+- a. il rifugiato ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui all’articolo 42 capoversi 3 e 4 oppure 43 capoversi 5 e 6 LStrI[^24-2] per la pretesa al rilascio di un permesso di domicilio, ma al massimo per cinque anni a contare dalla presentazione della domanda d’asilo in seguito alla quale è stato concesso l’asilo;
+- b. il rifugiato ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI o di cui all’articolo 3 allegato I ALC[^24-3] o di cui all’articolo 3 allegato K appendice 1 della Convenzione istitutiva dell’AELS[^24-4] per la pretesa al rilascio di un permesso di dimora, ma al massimo per sette anni dopo l’entrata dalla quale è stata disposta per la prima volta l’ammissione provvisoria;
+- b<sup>bis</sup>.[^24-5] il rifugiato contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^24-6] o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^24-7] (CPM) o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al più tardi cinque anni dopo la presentazione della domanda d’asilo;
+- c. l’apolide ottiene un permesso di domicilio o sono soddisfatte le condizioni di cui all’articolo 42 capoversi 3 e 4 oppure 43 capoversi 5 e 6 LStrI per la pretesa al rilascio di un permesso di domicilio, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
+- d. l’apolide ammesso provvisoriamente ottiene un permesso di dimora o di domicilio in virtù del diritto in materia di stranieri o sono soddisfatte le condizioni di cui all’articolo 42 o 43 capoversi 1, 5 e 6 LStrI o di cui all’articolo 3 allegato I ALC o di cui all’articolo 3 appendice 1 allegato K della Convenzione istitutiva dell’AELS, ma al massimo per sette anni dopo l’entrata dalla quale è stata disposta per la prima volta l’ammissione provvisoria;
+- d<sup>bis</sup>.[^24-8] l’apolide contro cui è stata pronunciata, con sentenza passata in giudicato, un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM o, con decisione passata in giudicato, dell’articolo 68 LStrI ha lasciato definitivamente la Svizzera o è partito senza essere controllato, ma al massimo durante cinque anni a contare dal riconoscimento dello statuto di apolide;
+- e. l’asilo è revocato e la qualità di rifugiato è disconosciuta;
+- f. un rifugiato o un apolide ha lasciato definitivamente la Svizzera o è partito senza essere controllato.[^24-9]
 
 <sup>2</sup> Se sussiste il diritto al rilascio di un permesso di dimora o di domicilio, la somma forfettaria non è versata per la durata della procedura di rilascio del permesso. In presenza di una decisione cantonale passata in giudicato di rifiuto a rilasciare un permesso di dimora o di domicilio, la Confederazione versa al Cantone su richiesta la somma forfettaria globale retroattivamente al massimo fino al venir meno del motivo di rifiuto.
 
 <sup>3</sup> Per le persone bisognose di protezione titolari di un permesso di dimora, la Confederazione versa ai Cantoni la metà della somma forfettaria globale giusta l’articolo 26 a contare dalla data in cui tali persone hanno diritto, in virtù dell’articolo 74 capoverso 2 LAsi, al rilascio di un permesso di dimora, fino al giorno in cui ottengono un permesso iniziale di domicilio o vi hanno diritto, ma al più tardi fino alla data in cui un tale permesso potrebbe essere rilasciato in virtù dell’articolo 74 capoverso 3 LAsi.
 
-<sup>4</sup> e <sup>5</sup> ...[^24-14]
+<sup>4</sup> e <sup>5</sup> ...[^24-10]
 
-[^24-1]: Vedi anche le disp. fin. della mod. del 7 dic. 2012 alla fine del presente testo.
-[^24-2]: Nuovo testo del per. giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-3]: Nuovo testo giusta il n. I dell’O del 13 dic. 2013, in vigore dal 1° ott. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-4]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^24-6]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-7]: Introdotta dal n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-8]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-9]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^24-10]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-11]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6173](https://fedlex.data.admin.ch/eli/oc/2017/686)).
-[^24-12]: Introdotta dal n. I 5 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-13]: Introdotta dal n. I dell’O del 13 dic. 2013, in vigore dal 1° feb. 2014 ([RU 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
-[^24-14]: Abrogati dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24-1]: Vedi anche le disp. fin. delle mod. del 7 dic. 2012 e del 30 mar. 2022 alla fine del presente testo.
+[^24-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^24-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^24-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-5]: Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^24-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^24-8]: Nuovo testo giusta il n. I 3 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^24-9]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^24-10]: Abrogati dal n. I dell’O dell’8 giu. 2018, con effetto dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
 #### Art. 24a
 
-**Durata dell’obbligo di rimborsare le spese per gruppi di rifugiati**[^24a-1]
+**Durata dell’obbligo di rimborsare le spese per gruppi di rifugiati**[^24a-1][^24a-2]
 
 ### (art. 56 e 88 cpv. 3 e 3<sup>bis</sup> LAsi)
 
@@ -470,7 +502,8 @@ La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apo
 
 <sup>2</sup> L’indennizzo di cui al capoverso 1 che si protrae oltre i cinque anni comprende contributi alle spese per minorenni non accompagnati e persone che, a causa di un grave problema fisico o psichico oppure dell’età avanzata, non sono economicamente autonomi cinque anni dopo la loro entrata in Svizzera.
 
-[^24a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^24a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^24a-2]: Vedi anche le disp. trans. delle mod. dell’8 giu. 2018 e del 30 mar. 2022 alla fine del presente testo.
 
 #### Art. 25
 
@@ -478,19 +511,19 @@ La Confederazione versa ai Cantoni somme forfettarie globali per rifugiati e apo
 
 Le somme forfettarie di cui all’articolo 26 coprono tutte le spese di aiuto sociale sostenute dai Cantoni che possono essere rimborsate con soluzioni economiche.
 
-[^25-1]: Vedi anche le disp. trans. della mod. del 7 dic. 2012 alla fine del presente testo.
+[^25-1]: Vedi anche le disp. trans. delle mod. del 7 dic. 2012 e del 30 mar. 2022 alla fine del presente testo.
 
 #### Art. 26
 
 **Importo e adeguamento della somma forfettaria globale**[^26-1]
 
-<sup>1</sup> La Confederazione versa ai Cantoni una somma forfettaria globale per ogni beneficiario dell’aiuto sociale e per ogni rifugiato che fa parte di un gruppo ai sensi dell’articolo 56 LAsi. La somma forfettaria globale media per tutta la Svizzera ammonta a 1480,44 franchi mensili e si basa sull’indice nazionale dei prezzi al consumo, nonché sulla quota parte di minorenni non accompagnati rispetto al numero complessivo di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora (stato: 31 ott. 2017).[^26-2] [^26-3]
+<sup>1</sup> La Confederazione versa ai Cantoni una somma forfettaria globale per ogni beneficiario dell’aiuto sociale e per ogni rifugiato che fa parte di un gruppo ai sensi dell’articolo 56 LStrI. La somma forfettaria globale media per tutta la Svizzera ammonta a 1411,06 franchi al mese e si basa sullo stato dell’indice nazionale dei prezzi al consumo di 100,9 punti (stato dell’indice: 31. ott. 2017), nonché sulla quota parte di minorenni non accompagnati rispetto al numero complessivo di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora (stato: 31 ott. 2017).[^26-2]
 
-<sup>2</sup> La somma forfettaria globale comprende una quota parte per le spese di locazione, una per le spese di aiuto sociale, assistenza e amministrazione e una per le aliquote percentuali e le franchigie.[^26-4]
+<sup>2</sup> La somma forfettaria globale comprende una quota parte per le spese di locazione, una per le spese di aiuto sociale, assistenza e amministrazione e una per le aliquote percentuali e le franchigie.[^26-3]
 
 <sup>3</sup> La quota parte per le spese di locazione è calcolata come segue, entro una fascia compresa tra l’80 e il 120 per cento:
 
-In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare la ripartizione tra i Cantoni in base alle rilevazioni degli affitti (affitto medio in franchi secondo il numero di stanze e il Cantone) pubblicati dall’UST.[^26-5]
+In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare la ripartizione tra i Cantoni in base alle rilevazioni degli affitti (affitto medio in franchi secondo il numero di stanze e il Cantone) pubblicati dall’UST.[^26-4]
 
 <table>
 <tr><th>Cantone</th><th colspan="3">percentuale</th><th>Cantone</th><th>percentuale</th></tr>
@@ -509,60 +542,61 @@ In caso di cambiamenti sostanziali del mercato immobiliare, la SEM può adeguare
 <tr><td>Neuchâtel</td><td colspan="3">80,0</td><td>Zurigo</td><td>117,5</td></tr>
 </table>
 
-<sup>4</sup> Gli importi integrali della franchigia ordinaria e delle aliquote percentuali sono stabiliti giusta l’articolo 64 LAMal[^26-6] nonché in funzione del numero di bambini e adulti. L’adeguamento è effettuato alla fine di ogni anno per l’anno civile seguente.[^26-7]
+<sup>4</sup> Gli importi integrali della franchigia ordinaria e delle aliquote percentuali sono stabiliti giusta l’articolo 64 LAMal[^26-5] nonché in funzione del numero di bambini e adulti. L’adeguamento è effettuato alla fine di ogni anno per l’anno civile seguente.[^26-6]
 
-<sup>5</sup> La quota parte per le spese di locazione è di 314,00 franchi, quella per le altre spese di aiuto sociale è di 827,80 franchi, quella per le spese di assistenza e amministrative è di 269,37 franchi e quella per le spese supplementari di alloggio e assistenza per i minorenni non accompagnati è di 5,60 franchi. Le quote si basano sull’indice nazionale dei prezzi al consumo di 100,9 punti (stato dell’indice: 31 ott. 2017). La SEM adegua queste quote parte all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^26-8]
+<sup>5</sup> La quota parte per le spese di locazione è di 298,40 franchi, quella per le altre spese di aiuto sociale è di 786,69 franchi, quella per le spese di assistenza e amministrative è di 256,70 franchi e quella per le spese supplementari di alloggio e assistenza per i minorenni non accompagnati è di 5,60 franchi. Le quote parte si basano sullo stato dell’indice nazionale dei prezzi al consumo di 100,9 punti (stato dell’indice: 31 ott. 2017). La SEM adegua queste quote parte all’evoluzione di tale indice alla fine di ogni anno per l’anno civile seguente.[^26-7]
 
 <sup>6</sup> La quota parte per le spese supplementari di alloggio e assistenza per i minorenni non accompagnati si basa sul numero complessivo di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora, ossia 27 891 persone, e sul numero di minorenni non accompagnati tra queste persone, ossia 138 persone (pari allo 0,5 %; stato: 31 ott. 2017). La SEM adegua la quota parte all’evoluzione degli effettivi in base alla formula qui appresso alla fine di ogni anno per l’anno civile seguente:
 
 <table>
 <tr><td>5,60 franchi ×</td><td>quota parte di minorenni non accompagnati sul numero complessivo</td></tr>
-<tr><td></td><td>0,5 % .[^26-9]</td></tr>
+<tr><td></td><td>0,5 % .[^26-8]</td></tr>
 </table>
 
-[^26-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 7 dic. 2012, dell’8 giu. 2018 e del 10 apr. 2019 alla fine del presente testo.
-[^26-2]: Nuovo testo del per. giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^26-3]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-4]: Correzione del 13 feb. 2018 ([RU 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
-[^26-5]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-6]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-7]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-8]: Nuovo testo giusta il n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
-[^26-9]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
+[^26-1]: Vedi anche le disp. fin. delle mod. del 24 ott. 2007, del 7 dic. 2012, dell’8 giu. 2018, del 10 apr. 2019 e del 30 mar. 2022 alla fine del presente testo.
+[^26-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^26-3]: Correzione del 13 feb. 2018 ([RU 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
+[^26-4]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^26-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-6]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^26-7]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
+[^26-8]: Introdotto dal n. I dell’O del 10 apr. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
 
 #### Art. 27
 
-**Calcolo della somma forfettaria**[^27-1]
+**Calcolo dell’importo totale**[^27-1]
 
-<sup>1</sup> L’importo totale (B) in franchi dovuto dalla Confederazione in base ai dati registrati nella banca dati della SEM è calcolato per Cantone e mese secondo la formula seguente:
+<sup>1</sup>
 
-B = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone.
+L’importo totale (B<sub>F</sub>) in franchi dovuto dalla Confederazione per Cantone e mese si basa sui dati registrati nella banca dati della SEM. È calcolato secondo la formula seguente:
 
-<sup>2</sup> Il numero di beneficiari dell’aiuto sociale (SP) è calcolato secondo la formula:
+- B<sub>F</sub> = numero di beneficiari dell’aiuto sociale il primo giorno del mese × somma forfettaria globale per Cantone.
 
-SP = P – BET<sub>F</sub>
+<sup>2</sup>
+
+Il numero di beneficiari dell’aiuto sociale (SP<sub>F</sub>) è calcolato secondo la formula:
+
+- SP<sub>F</sub> = P<sub>F</sub> – BET<sub>F</sub>
 
 Nella formula s’intende per:
 
-P = numero di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora residenti nel Cantone il primo giorno del mese.
-
-BET<sub>F</sub> = numero riveduto di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora, esercitanti attività lucrativa (18–60 anni).
+- P<sub>F</sub> = numero di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora residenti nel Cantone il primo giorno del mese.
+- BET<sub>F</sub> = numero riveduto di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora, esercitanti attività lucrativa (25–60 anni).
 
 Il numero riveduto è calcolato secondo la formula:
 
-BET<sub>F</sub> = EA<sub>F</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>)
+- BET<sub>F</sub> = EA<sub>F</sub> × (EQ<sub>CH</sub> + ALQ<sub>CH</sub> – ALQ<sub>KT</sub>) × (1 – NLQ<sub>KT</sub>)
 
 Nella formula s’intende per:
 
-EA<sub>F</sub> = numero di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora in età di esercitare un’attività lucrativa il primo giorno del mese (18–60 anni).
+- EA<sub>F</sub> = numero di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora in età di esercitare un’attività lucrativa il primo giorno del mese (25–60 anni).
+- EQ<sub>CH</sub> = quota svizzera di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora, esercitanti attività lucrativa il primo giorno del mese (25–60 anni).
+- ALQ<sub>CH</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti in Svizzera secondo la SECO.
+- ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la SECO.
+- NLQ<sub>KT</sub> = quota cantonale del penultimo anno relativa ai rifugiati, agli apolidi e alle persone bisognose di protezione titolari di un permesso di dimora, esercitanti un’attività lucrativa nel Cantone retribuita con un salario basso (salario mensile lordo &lt; = fr. 600) secondo le informazioni, esaminate dalla SEM, dell’Ufficio centrale di compensazione conformemente all’articolo 93<sup>bis</sup> LAVS[^27-2].
 
-EQ<sub>CH</sub> = quota svizzera di rifugiati, apolidi e persone bisognose di protezione titolari di un permesso di dimora, esercitanti attività lucrativa il primo giorno del mese (18–60 anni).
-
-ALQ<sub>CH</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti in Svizzera secondo la Segreteria di Stato dell’economia (SECO).
-
-ALQ<sub>KT</sub> = tasso di disoccupazione del mese precedente degli stranieri residenti nel Cantone secondo la Segreteria di Stato dell’economia (SECO).
-
-[^27-1]: Nuovo testo giusta il n. I dell’O del 7 dic. 2012, in vigore dal 1° apr. 2013 ([RU 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Vedi anche le disp. fin. della mod. del 7 dic. 2012 alla fine del presente testo.
+[^27-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)). Vedi anche le disp. fin. della mod. del 30 mar. 2022 alla fine del presente testo.
+[^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 27a
 
@@ -572,7 +606,7 @@ L'importo totale (B) in franchi dovuto dalla Confederazione in base ai dati regi
 
 - B = numero di rifugiati di un gruppo presenti il primo giorno del mese x somma forfettaria globale per Cantone secondo l’articolo 26.
 
-[^27a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
+[^27a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. fin. della mod. del 30 mar. 2022 alla fine del presente testo.
 
 ### Sezione 3: Soccorso d’emergenza
 
@@ -655,7 +689,7 @@ La SEM gestisce un sistema d’informazione per il monitoraggio del blocco dell�
 
 [^30a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
-### Capitolo 2: Spese amministrative****
+### Capitolo 2: Spese amministrative
 
 [^tit3-chap2-1]
 
@@ -790,7 +824,7 @@ Se non è possibile ottenere un rapporto di locazione o d’affitto o un diritto
 
 ### Capitolo 4: Altri sussidi
 
-### Sezione 1: Spese per la sicurezza****
+### Sezione 1: Spese per la sicurezza
 
 [^tit3-chap4-sec1-1]
 
@@ -800,7 +834,7 @@ Se non è possibile ottenere un rapporto di locazione o d’affitto o un diritto
 
 #### Art. 41
 
-[^41-1]
+[^41-1][^41-2]
 
 <sup>1</sup> Il contributo forfettario della Confederazione alle spese per la sicurezza è definito in funzione delle dimensioni dei centri della Confederazione. L’aliquota annua di riferimento è di 107 981,65 franchi per 100 posti in un centro della Confederazione o per 25 posti in un centro speciale della Confederazione secondo l’articolo 24*a* LAsi.
 
@@ -820,18 +854,19 @@ Il contributo forfettario per Cantone è versato alla fine di ogni anno ed è ca
 - JA = aliquota annua di riferimento conformemente al capoverso 1
 - JT = numero di giorni civili all’anno.
 
-<sup>3</sup> L’aliquota annua di riferimento conformemente al capoverso 1 si basa sull’indice nazionale dei prezzi al consumo di 100,3 punti (stato dell’indice: 31 ott. 2016). La SEM adegua l’aliquota a tale indice alla fine di ogni anno per l’anno civile seguente.[^41-2]
+<sup>3</sup> L’aliquota annua di riferimento conformemente al capoverso 1 si basa sull’indice nazionale dei prezzi al consumo di 100,3 punti (stato dell’indice: 31 ott. 2016). La SEM adegua l’aliquota a tale indice alla fine di ogni anno per l’anno civile seguente.[^41-3]
 
 <sup>4</sup> Il contributo forfettario versato conformemente al capoverso 2 compensa tutte le spese per la sicurezza dei Cantoni d’ubicazione rimborsabili secondo l’articolo 91 capoverso 2<sup>ter</sup> LAsi.
 
-<sup>5</sup> Durante la chiusura temporanea di un centro della Confederazione o di un centro speciale della Confederazione, nel primo semestre è versata la totalità e nel secondo semestre la metà del contributo forfettario di cui ai capoversi 1 e 2.[^41-3]
+<sup>5</sup> Durante la chiusura temporanea di un centro della Confederazione o di un centro speciale della Confederazione, nel primo semestre è versata la totalità e nel secondo semestre la metà del contributo forfettario di cui ai capoversi 1 e 2.[^41-4]
 
-<sup>6</sup> Per gli immobili utilizzati solo temporaneamente come centri della Confederazione o come centri speciali della Confederazione per insufficienza delle strutture d’alloggio, il contributo forfettario alle spese per la sicurezza di cui ai capoversi 1 e 2 è versato esclusivamente per la durata d’esercizio.[^41-4]
+<sup>6</sup> Per gli immobili utilizzati solo temporaneamente come centri della Confederazione o come centri speciali della Confederazione per insufficienza delle strutture d’alloggio, il contributo forfettario alle spese per la sicurezza di cui ai capoversi 1 e 2 è versato esclusivamente per la durata d’esercizio.[^41-5]
 
 [^41-1]: Nuovo testo giusta il n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^41-2]: Correzione del 21 lug. 2020 ([RU 2020 3343](https://fedlex.data.admin.ch/eli/oc/2020/570)).
-[^41-3]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^41-4]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^41-2]: Vedi anche le disp. trans. delle mod. dell’8 giu. 2018 e del 18 nov. 2020 alla fine del presente testo.
+[^41-3]: Correzione del 21 lug. 2020 ([RU 2020 3343](https://fedlex.data.admin.ch/eli/oc/2020/570)).
+[^41-4]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)).
+[^41-5]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021([RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)).
 
 #### Art. 42 e 43
 
@@ -839,7 +874,7 @@ Il contributo forfettario per Cantone è versato alla fine di ogni anno ed è ca
 
 [^4243-1]: Abrogati dal n. I dell’O del 24 ott. 2007, con effetto dal 1° gen. 2008 ([RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 
-### Sezione 1*a*: Istituzioni destinate a persone traumatizzate****
+### Sezione 1*a*: Istituzioni destinate a persone traumatizzate
 
 [^tit3-chap4-sec1a-1]
 
@@ -936,7 +971,7 @@ In vista della conclusione del contratto, i Cantoni inviano alla SEM i documenti
 
 <sup>2</sup> La SEM garantisce ogni trimestre pagamenti parziali di un importo minimo pari all’80 per cento delle spese previste.
 
-### Sezione 3: Collaborazione internazionale: principi****
+### Sezione 3: Collaborazione internazionale: principi
 
 [^tit3-chap4-sec3-1]
 
@@ -986,7 +1021,7 @@ La SEM esamina la domanda sotto il profilo della necessità, dell’opportunità
 
 [^52-1]: Introdotto dal n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### Sezione 4:**** Collaborazione internazionale: disposizioni speciali per i crediti d’impegno nel settore della migrazione
+### Sezione 4: Collaborazione internazionale: disposizioni speciali per i crediti d’impegno nel settore della migrazione
 
 [^tit3-chap4-sec4-1]
 
@@ -1371,7 +1406,7 @@ Sono escluse dall’aiuto finanziario al ritorno le persone:[^64-1]
 [^64-5]: Abrogato dal n. I dell’O del 1° mar. 2006, con effetto dal 1° apr. 2006 ([RU 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
 [^64-6]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
-### Sezione 2:**** Consulenza per il ritorno
+### Sezione 2: Consulenza per il ritorno
 
 [^tit3-chap6-sec2-1]
 
@@ -1465,7 +1500,7 @@ I consultori per il ritorno situati nei Cantoni, nei centri della Confederazione
 
 Abrogati
 
-### Sezione 3:**** Programmi all’estero
+### Sezione 3: Programmi all’estero
 
 [^tit3-chap6-sec3-1]
 
@@ -1508,11 +1543,11 @@ Sono considerati programmi all’estero anche i provvedimenti adottati nei Paesi
 
 <sup>1</sup> La SEM stabilisce la cerchia dei beneficiari e definisce gli obiettivi dei programmi di cui all’articolo 71.
 
-<sup>2</sup> La competenza per la pianificazione e l’attuazione dei programmi di cui all’articolo 71 spetta alla SEM. Può affidare l’esecuzione di questi compiti alla DSC o a terzi. [^72-1]
+<sup>2</sup> La competenza per la pianificazione e l’attuazione dei programmi di cui all’articolo 71 spetta alla SEM. Può affidare l’esecuzione di questi compiti alla DSC o a terzi.[^72-1]
 
 [^72-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3991](https://fedlex.data.admin.ch/eli/oc/2020/743)).
 
-### Sezione 4:**** Aiuto individuale al ritorno
+### Sezione 4: Aiuto individuale al ritorno
 
 [^tit3-chap6-sec4-1]
 
@@ -1671,7 +1706,7 @@ L’ordinanza 2 del 22 maggio 1991[^81-1] sull’asilo è abrogata.
 [^83-2]: [RU 2013 3065](https://fedlex.data.admin.ch/eli/oc/2013/595)
 [^83-3]: Introdotto dal n. I dell’O del 5 giu. 2015, in vigore dal 29 set. 2015 ([RU 2015 2053](https://fedlex.data.admin.ch/eli/oc/2015/382)).
 
-## Disposizioni finali della modifica del 24 marzo 2004****
+## Disposizioni finali della modifica del 24 marzo 2004
 
 [^u1-1]
 
@@ -1679,9 +1714,9 @@ L’ordinanza 2 del 22 maggio 1991[^81-1] sull’asilo è abrogata.
 
 La Confederazione versa ai Cantoni le somme forfettarie per le spese d’aiuto sociale secondo l’articolo 88 capoverso 1 lettera a della LAsi per le persone oggetto di una decisione di non entrata nel merito ai sensi degli articoli 32–34 e di una decisione d’allontanamento ai sensi dell’articolo 44 della LAsi, passate in giudicato prima dell’entrata in vigore della presente modifica d’ordinanza, fino al massimo alla scadenza del termine di partenza. Se la Confederazione ha garantito ai Cantoni un ulteriore rimborso delle spese d’aiuto sociale nel quadro del sostegno all’esecuzione ai sensi dell’articolo 22*a* della legge federale del 26 marzo 1931[^u1-2] concernente la dimora e il domicilio degli stranieri (LDDS), versa loro le somme forfettarie secondo l’articolo 88 capoverso 1 lettera a della LAsi per nove mesi al massimo dall’entrata in vigore della presente modifica di ordinanza. Questo a condizione che i Cantoni abbiano inoltrato la domanda di sostegno all’esecuzione, compresa l’assunzione delle spese, entro la fine del mese dall’entrata in vigore della presente ordinanza.
 
-[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); **1987** 166; **1988** 33; [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1; [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 
-## Disposizioni finali della modifica del 3 dicembre 2004****
+## Disposizioni finali della modifica del 3 dicembre 2004
 
 [^u2-1]
 
@@ -1689,7 +1724,7 @@ La Confederazione versa ai Cantoni le somme forfettarie per le spese d’aiuto s
 
 Ai sensi dell’articolo 30 capoverso 3 l’importo forfetario per il 2005 è adeguato al rincaro sulla base dell’indice nazionale dei prezzi al consumo del 31 ottobre 2004.
 
-## Disposizioni finali della modifica del 24 ottobre 2007****
+## Disposizioni finali della modifica del 24 ottobre 2007
 
 [^u3-1]
 
@@ -1715,7 +1750,7 @@ Ai sensi dell’articolo 30 capoverso 3 l’importo forfetario per il 2005 è ad
 [^u3-3]: [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 [^u3-4]: [RU 1999 2262](https://fedlex.data.admin.ch/eli/oc/1999/358)
 
-## Disposizione transitoria della modifica del 12 dicembre 2008****
+## Disposizione transitoria della modifica del 12 dicembre 2008
 
 [^u4-1]
 
@@ -1723,7 +1758,7 @@ Ai sensi dell’articolo 30 capoverso 3 l’importo forfetario per il 2005 è ad
 
 Le somme forfettarie previste agli articoli 22 e 23*a* sono adeguate retroattivamente al rincaro (stato: 31 ott. 2007) a partire dal 1° luglio 2008.
 
-## Disposizioni transitorie relative alla modifica del 7 dicembre 2012****
+## Disposizioni transitorie relative alla modifica del 7 dicembre 2012
 
 [^u5-1]
 
@@ -1733,7 +1768,7 @@ Le somme forfettarie previste agli articoli 22 e 23*a* sono adeguate retroattiva
 
 <sup>2</sup> Il calcolo, la concessione nonché il versamento e il rimborso degli importi forfettari secondo gli articoli 20–27 prima dell’entrata in vigore della presente modifica d’ordinanza sono retti dal diritto anteriore.
 
-## Disposizioni transitorie della modifica del 4 settembre 2013****
+## Disposizioni transitorie della modifica del 4 settembre 2013
 
 [^u6-1]
 
@@ -1745,7 +1780,7 @@ Le somme forfettarie previste agli articoli 22 e 23*a* sono adeguate retroattiva
 
 [^u6-2]: [RU 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)
 
-## Disposizione transitoria della modifica del 15 novembre 2017****
+## Disposizione transitoria della modifica del 15 novembre 2017
 
 [^u7-1]
 
@@ -1753,7 +1788,7 @@ Le somme forfettarie previste agli articoli 22 e 23*a* sono adeguate retroattiva
 
 Fino all’entrata in vigore della presente modifica di ordinanza, i contributi speciali dedotti dal reddito del lavoro versati o dovuti e i valori patrimoniali prelevati sono integralmente computati sull’importo massimo di cui all’articolo 10 capoverso 2 lettera a.
 
-## Disposizioni transitorie della modifica dell’8 giugno 2018****
+## Disposizioni transitorie della modifica dell’8 giugno 2018
 
 [^u8-1]
 
@@ -1765,7 +1800,7 @@ Fino all’entrata in vigore della presente modifica di ordinanza, i contributi 
 
 <sup>3</sup> La portata e l’ammontare della somma forfettaria per il soccorso d’emergenza di persone che hanno depositato una domanda d’asilo prima dell’entrata in vigore della presente modifica sono retti dal diritto previgente.
 
-## Disposizione transitoria della modifica del 10 aprile 2019****
+## Disposizione transitoria della modifica del 10 aprile 2019
 
 [^u9-1]
 
@@ -1773,10 +1808,20 @@ Fino all’entrata in vigore della presente modifica di ordinanza, i contributi 
 
 All’entrata in vigore della presente modifica, la SEM adegua gli importi contenuti nelle seguenti disposizioni allo stato dell’indice nazionale dei prezzi al consumo e alla quota parte di minorenni non accompagnati rispetto al numero complessivo (stato: 31 ott. 2018): articolo 22 capoversi 1, 5 e 6 e articolo 26 capoversi 1, 5 e 6.
 
-## Disposizione transitoria della modifica del 18 novembre 2020****
+## Disposizione transitoria della modifica del 18 novembre 2020
 
 [^u10-1]
 
 [^u10-1]: [RU 2020 5869](https://fedlex.data.admin.ch/eli/oc/2020/987)
 
 Per i centri della Confederazione e i centri speciali della Confederazione temporaneamente chiusi nel 2019, il contributo forfettario di cui all’articolo 41 capoversi 1 e 2 è interamente versato per la durata della chiusura ma al massimo fino al 31 dicembre 2020. Per i centri della Confederazione e i centri speciali della Confederazione temporaneamente chiusi nel 2020 si applica l’articolo 41 capoverso 5.
+
+## Disposizione transitoria relativa alla modifica del 30 marzo 2022
+
+[^u11-1]
+
+[^u11-1]: [RU 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)
+
+<sup>1</sup> Il calcolo, la concessione nonché il versamento e il rimborso degli importi forfettarie secondo gli articoli 20–27a prima dell’entrata in vigore della presente modifica d’ordinanza sono retti dal vecchio diritto.
+
+<sup>2</sup> All’entrata in vigore della presente modifica, la SEM adegua gli importi contenuti nelle seguenti disposizioni allo stato dell’indice nazionale dei prezzi al consumo del 31 ottobre 2022: articoli 22 capoversi 1 e 5 nonché 26 capoversi 1 e 5.
