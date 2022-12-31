@@ -3,18 +3,18 @@ sr: "672.203"
 title: Ordonnance du 22 décembre 2004 sur le dégrèvement des dividendes suisses payés dans les cas de participations importantes détenues par des sociétés étrangères
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2004-12-22
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-6-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-6-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le dégrèvement des dividendes suisses payés dans les cas de participations importantes détenues par des sociétés étrangères
 
-du 22 décembre 2004 (Etat le 1<sup>er</sup> janvier 2022)
+du 22 décembre 2004 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -31,9 +31,10 @@ arrête:
 
 <sup>1</sup> La présente ordonnance règle, pour les cas de participations importantes, la procédure de déclaration par laquelle le dégrèvement de l’impôt sur les dividendes, prévu par une convention de double imposition ou par un autre traité international, est opéré à la source.
 
-<sup>2</sup> Elle s’applique aux sociétés suisses qui perçoivent un impôt à la source sur les dividendes conformément à la loi fédérale du 13 octobre 1965 sur l’impôt anticipé[^1-1] et dans lesquelles une société de capitaux, qui est un résident d’un Etat avec lequel la Suisse a conclu une convention de double imposition (société étrangère), détient une participation importante.
+<sup>2</sup> Elle s*’*applique aux sociétés suisses qui perçoivent un impôt à la source sur les dividendes conformément à la loi fédérale du 13 octobre 1965 sur l*’*impôt anticipé[^1-1] et dans lesquelles une société au sens de la convention de double imposition ou du traité international applicable, qui est sise dans un État avec lequel la Suisse a conclu une convention de double imposition ou un autre traité international (société étrangère), détient une participation importante.[^1-2]
 
 [^1-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^1-2]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 2
 
@@ -41,7 +42,9 @@ arrête:
 
 <sup>1</sup> Une société étrangère détient une participation importante dans la société suisse qui verse les dividendes lorsqu’elle dispose au minimum d’une participation donnant droit, selon la convention de double imposition déterminante ou un autre traité international, à un dégrèvement supplémentaire ou total de l’impôt anticipé.
 
-<sup>2</sup> Si la convention de double imposition ou le traité international déterminant ne contient pas de disposition spéciale concernant un dégrèvement supplémentaire en cas de participation importante, la société étrangère doit détenir directement ’au moins 20 % du capital de la société suisse.
+<sup>2</sup> Si la convention de double imposition ou le traité international déterminant ne contient pas de disposition spéciale concernant un dégrèvement supplémentaire en cas de participation importante, la société étrangère doit détenir directement au moins 10 % du capital de la société suisse.[^2-1]
+
+[^2-1]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 3
 
@@ -53,9 +56,11 @@ arrête:
 
 <sup>3</sup> L’AFC vérifie si la société étrangère a droit au dégrèvement conformément à la convention de double imposition applicable ou à un traité international applicable.
 
-<sup>4</sup> L’autorisation est délivrée par écrit; elle est valable trois ans.
+<sup>4</sup> L’autorisation est délivrée par écrit; elle est valable cinq ans.[^3-1]
 
 <sup>5</sup> Si la demande est rejetée en tout ou en partie, la société suisse peut requérir une décision de l’AFC.
+
+[^3-1]: Nouvelle teneur selon le ch. I 2 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 4
 
@@ -83,7 +88,7 @@ La société suisse qui verse les dividendes avise immédiatement l’AFC dès q
 
 #### Art. 7
 
-**Echange de renseignements**
+**Échange de renseignements**
 
 L’AFC peut transmettre aux autorités fiscales étrangères compétentes un duplicata des formules 108.
 
@@ -91,9 +96,19 @@ L’AFC peut transmettre aux autorités fiscales étrangères compétentes un du
 
 **Réciprocité**
 
-<sup>1</sup> L’AFC décide dans quelle mesure la procédure de déclaration ne s’applique qu’aux Etats garantissant la réciprocité.
+<sup>1</sup> L’AFC décide dans quelle mesure la procédure de déclaration ne s’applique qu’aux États garantissant la réciprocité.
 
-<sup>2</sup> Les Etats auxquels la procédure de déclaration ne s’applique pas sont énumérés dans une annexe à la présente ordonnance. L’AFC tient cette liste à jour.
+<sup>2</sup> Les États auxquels la procédure de déclaration ne s’applique pas sont énumérés dans une annexe à la présente ordonnance. L’AFC tient cette liste à jour.
+
+#### Art. 8a
+
+**Dispositions transitoires de la modification du 4 mai 2022**[^8a-1]
+
+<sup>1</sup> L’art. 2, al. 2, de l’ancien droit s’applique aux demandes qui sont pendantes à l’entrée en vigueur de la modification du 4 mai 2022.
+
+<sup>2</sup> L’art. 1, al. 2, et l’art. 3, al. 4, de l’ancien droit s’appliquent aux demandes d’autorisation qui sont pendantes à l’entrée en vigueur de ladite modification.
+
+[^8a-1]: Introduit par le ch. I 2 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 9
 

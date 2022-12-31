@@ -3,18 +3,18 @@ sr: "672.203"
 title: Ordinanza del 22 dicembre 2004 concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2004-12-22
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2005-6-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-6-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente lo sgravio fiscale dei dividendi svizzeri da partecipazioni determinanti di società straniere
 
-del 22 dicembre 2004 (Stato 1° gennaio 2022)
+del 22 dicembre 2004 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -31,9 +31,10 @@ ordina:
 
 <sup>1</sup> La presente ordinanza disciplina la procedura di dichiarazione per il tramite della quale è effettuato alla fonte lo sgravio fiscale dei dividendi da partecipazioni determinanti previsto dalle convenzioni di doppia imposizione e da altri trattati internazionali.
 
-<sup>2</sup> Essa si applica alle società svizzere che devono riscuotere l’imposta alla fonte sui dividendi conformemente alla legge federale del 13 ottobre 1965[^1-1] su l’imposta preventiva e nelle quali detiene una partecipazione determinante una società di capitali residente di uno Stato con il quale la Svizzera ha concluso una convenzione di doppia imposizione o un altro trattato internazionale (società straniera).
+<sup>2</sup> Essa si applica alle società svizzere che devono riscuotere l’imposta alla fonte sui dividendi conformemente alla legge federale del 13 ottobre 1965[^1-1] sull’imposta preventiva e nelle quali detiene una partecipazione determinante una società ai sensi della convenzione di doppia imposizione applicabile o di un altro trattato internazionale, residente di uno Stato con il quale la Svizzera ha concluso una convenzione di doppia imposizione o un altro trattato internazionale (società straniera).[^1-2]
 
 [^1-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^1-2]: Nuovo testo giusta il n. I 2 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 2
 
@@ -41,7 +42,9 @@ ordina:
 
 <sup>1</sup> Una società straniera detiene una partecipazione determinante in una società svizzera se dispone almeno di una partecipazione che, conformemente alla pertinente convenzione di doppia imposizione o a un altro trattato internazionale, dà diritto a uno sgravio supplementare o totale dell’imposta preventiva.
 
-<sup>2</sup> La società straniera deve detenere direttamente almeno il 20 per cento del capitale della società svizzera se la pertinente convenzione di doppia imposizione o il trattato internazionale non contiene alcuna disposizione concernente lo sgravio supplementare o totale in caso di partecipazione determinante.
+<sup>2</sup> La società straniera deve detenere direttamente almeno il 10 per cento del capitale della società svizzera se la pertinente convenzione di doppia imposizione o l’altro trattato internazionale non contiene alcuna disposizione concernente lo sgravio supplementare o totale in caso di partecipazione determinante.[^2-1]
+
+[^2-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 3
 
@@ -53,9 +56,11 @@ ordina:
 
 <sup>3</sup> L’AFC verifica se la società straniera ha diritto allo sgravio conformemente alla pertinente convenzione di doppia imposizione o a un altro trattato internazionale.
 
-<sup>4</sup> L’autorizzazione è comunicata per scritto ed è valida tre anni.
+<sup>4</sup> L’autorizzazione è comunicata per scritto ed è valida cinque anni.[^3-1]
 
 <sup>5</sup> La società svizzera può esigere una decisione dell’AFC se la richiesta è respinta integralmente o parzialmente.
+
+[^3-1]: Nuovo testo giusta il n. I 2 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 4
 
@@ -94,6 +99,16 @@ L’AFC può trasmettere un duplicato dei moduli 108 alle autorità fiscali stra
 <sup>1</sup> L’AFC decide in quale misura la procedura di dichiarazione si applica unicamente agli Stati che garantiscono la reciprocità.
 
 <sup>2</sup> Gli Stati ai quali la procedura di dichiarazione non si applica sono enumerati in un allegato alla presente ordinanza. L’AFC aggiorna se del caso tale elenco.
+
+#### Art. 8a
+
+**Disposizioni transitorie della modifica del 4 maggio 2022**[^8a-1]
+
+<sup>1</sup> Alle richieste pendenti al momento dell’entrata in vigore della modifica del 4 maggio 2022 è applicabile l’articolo 2 capoverso 2 del diritto anteriore.
+
+<sup>2</sup> Alle richieste di autorizzazione pendenti al momento dell’entrata in vigore della presente modifica sono applicabili gli articoli 1 capoverso 2 e 3 capoverso 4 del diritto anteriore.
+
+[^8a-1]: Introdotto dal n. I 2 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 9
 

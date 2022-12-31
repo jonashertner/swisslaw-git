@@ -3,18 +3,18 @@ sr: "672.203"
 title: Verordnung vom 22. Dezember 2004 über die Steuerentlastung schweizerischer Dividenden aus wesentlichen Beteiligungen ausländischer Gesellschaften
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/6"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2004-12-22
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2005-6-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/6/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-6-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/6/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Steuerentlastung schweizerischer Dividenden aus wesentlichen Beteiligungen ausländischer Gesellschaften
 
-vom 22. Dezember 2004 (Stand am 1. Januar 2022)
+vom 22. Dezember 2004 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -31,9 +31,10 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung regelt das Meldeverfahren, mit dem die in einem Doppelbesteuerungsabkommen oder in einem anderen Staatsvertrag für wesentliche Beteiligungen vorgesehene Steuerentlastung von Dividenden an der Quelle erfolgt.
 
-<sup>2</sup> Sie gilt für schweizerische Gesellschaften, die nach dem Bundesgesetz vom 13. Oktober 1965[^1-1] über die Verrechnungssteuer Steuern auf Dividenden zu erheben haben und an denen eine Kapitalgesellschaft wesentlich beteiligt ist, die in einem Staat ansässig ist, mit dem die Schweiz ein Doppelbesteuerungsabkommen oder einen anderen Staatsvertrag abgeschlossen hat (ausländische Gesellschaft).
+<sup>2</sup> Sie gilt für schweizerische Gesellschaften, die nach dem Verrechnungssteuergesetz vom 13. Oktober 1965[^1-1] Steuern auf Dividenden zu erheben haben und an denen eine Gesellschaft im Sinne des anwendbaren Doppelbesteuerungsabkommens oder anderen Staatsvertrags wesentlich beteiligt ist, die in einem Staat ansässig ist, mit dem die Schweiz ein Doppelbesteuerungsabkommen oder einen anderen Staatsvertrag abgeschlossen hat (ausländische Gesellschaft).[^1-2]
 
 [^1-1]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^1-2]: Fassung gemäss Ziff. I 2 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 2
 
@@ -41,7 +42,9 @@ verordnet:
 
 <sup>1</sup> Eine ausländische Gesellschaft ist dann wesentlich an der schweizerischen Gesellschaft beteiligt, wenn sie mindestens über die Beteiligung verfügt, die sie nach dem massgebenden Doppelbesteuerungsabkommen oder einem anderen Staatsvertrag zur Beanspruchung einer zusätzlichen oder vollständigen Entlastung von der Verrechnungssteuer berechtigt.
 
-<sup>2</sup> Enthält das massgebende Doppelbesteuerungsabkommen oder der andere Staatsvertrag keine Bestimmung über die zusätzliche oder vollständige Entlastung bei wesentlichen Beteiligungen, so muss die ausländische Gesellschaft unmittelbar über mindestens 20 Prozent des Kapitals der schweizerischen Gesellschaft verfügen.
+<sup>2</sup> Enthält das massgebende Doppelbesteuerungsabkommen oder der andere Staatsvertrag keine Bestimmung über die zusätzliche oder vollständige Entlastung bei wesentlichen Beteiligungen, so muss die ausländische Gesellschaft unmittelbar über mindestens 10 Prozent des Kapitals der schweizerischen Gesellschaft verfügen.[^2-1]
+
+[^2-1]: Fassung gemäss Ziff. I 2 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 3
 
@@ -53,9 +56,11 @@ verordnet:
 
 <sup>3</sup> Die ESTV prüft, ob die ausländische Gesellschaft nach dem massgebenden Doppelbesteuerungsabkommen oder dem anderen Staatsvertrag Anspruch auf die Entlastung hat.
 
-<sup>4</sup> Die Bewilligung wird schriftlich mitgeteilt und gilt drei Jahre.
+<sup>4</sup> Die Bewilligung wird schriftlich mitgeteilt und gilt fünf Jahre.[^3-1]
 
 <sup>5</sup> Wird das Gesuch ganz oder teilweise abgelehnt, so kann die schweizerische Gesellschaft von der ESTV einen Entscheid verlangen.
+
+[^3-1]: Fassung gemäss Ziff. I 2 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 4
 
@@ -94,6 +99,16 @@ Die ESTV kann den zuständigen ausländischen Steuerbehörden Doppel der Formula
 <sup>1</sup> Die ESTV entscheidet darüber, inwieweit das Meldeverfahren nur auf Staaten angewendet wird, die Gegenseitigkeit gewähren.
 
 <sup>2</sup> Staaten, auf die das Meldeverfahren nicht angewendet wird, werden in einem Anhang dieser Verordnung aufgeführt. Die ESTV passt diese Liste nach Bedarf dem neuesten Stand der Entwicklung an.
+
+#### Art. 8a
+
+**Übergangsbestimmungen zur Änderung vom 4. Mai 2022**[^8a-1]
+
+<sup>1</sup> Auf Gesuche, die beim Inkrafttreten der Änderung vom 4. Mai 2022 hängig sind, ist Artikel 2 Absatz 2 bisherigen Rechts anwendbar.
+
+<sup>2</sup> Auf Bewilligungsgesuche, die beim Inkrafttreten dieser Änderung hängig sind, sind Artikel 1 Absatz 2 und Artikel 3 Absatz 4 bisherigen Rechts anwendbar.
+
+[^8a-1]: Eingefügt durch Ziff. I 2 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 9
 
