@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur les mesures d'accompagnement social d
 short: OMAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/720"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-720-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-720-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20210101/fr"
 
 (OMAS)
 
-du 26 novembre 2003 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -52,52 +52,57 @@ Les cantons peuvent accorder aux exploitants d’une entreprise paysanne des pr�
 
 #### Art. 2
 
-**Taille de l’exploitation**[^2-1]
+**Taille minimale de l’exploitation**[^2-1]
 
-<sup>1</sup> Des prêts au titre de l’aide aux exploitations ne sont versés que si la taille de l’exploitation correspond au minimum à une unité de main-d’œuvre standard (UMOS).
-
-<sup>2</sup> En complément à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^2-2], l’Office fédéral de l’agriculture (OFAG) peut fixer des facteurs supplémentaires pour le calcul des UMOS dans des branches de production spéciales.
-
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
-[^2-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-
-#### Art. 3
-
-**Taille de l’exploitation dans les régions menacées**[^3-1]
-
-<sup>1</sup> Dans les régions de montagne et des collines où l’exploitation agricole du sol ou l’occupation suffisante du territoire sont menacées, la taille de l’exploitation doit correspondre au minimum à 0,60 UMOS.
-
-<sup>2</sup> L’OFAG fixe les critères permettant de décider si une exploitation est située dans une région menacée.
-
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
-
-#### Art. 4
-
-**Conditions relatives à la personne**
-
-<sup>1</sup> Des prêts au titre de l’aide aux exploitations ne sont accordés que si l’exploitant respecte les dispositions mentionnées aux art. 3, 4, et 12 à 34 de l’ordonnance du 23 octobre 2013 sur les paiements directs dans l’agriculture[^4-1].[^4-2]
+<sup>1</sup> Des prêts au titre de l’aide aux exploitations ne sont versés que si la charge en travail de l’exploitation représente au moins une unité de main-d’œuvre standard (UMOS).
 
 <sup>2</sup>
 
-L’octroi d’un prêt au titre de l’aide aux exploitations conformément à l’art. 1, al. 1, let. b présuppose en outre que le requérant dispose d’une des qualifications suivantes:
+Une taille d’exploitation d’au moins 0,60 UMOS est suffisante dans les cas suivants:
 
-- a. une formation professionnelle initiale d’agriculteur sanctionnée par un certificat fédéral de capacité au sens de l’art. 38 de la loi du 13 décembre 2002 sur la formation professionnelle (LFPr)[^4-3];
-- b. une formation de paysanne sanctionnée par un brevet au sens de l’art. 42 LFPr, ou
-- c. une formation équivalente dans une profession agricole spécialisée.[^4-4]
+- a. pour les prêts au titre de l’aide aux exploitations dans les zones de montagne III et IV, afin d’assurer l’exploitation du sol;
+- b. pour les prêts au titre de l’aide aux exploitations dans les régions de montagne et des collines, afin d’assurer une occupation suffisante du territoire.
 
-<sup>3</sup> S’agissant des requérants mariés ou liés par un partenariat enregistré, l’une des deux personnes doit remplir les conditions mentionnées à l’al. 2.[^4-5]
+<sup>3</sup> Les critères permettant d’évaluer si l’occupation du territoire visée à l’al. 2, let. b, est menacée sont fixés en annexe.
 
-<sup>4</sup> La gestion d’une exploitation avec succès pendant au moins trois ans, preuve à l’appui, est assimilée aux qualifications visées à l’al. 2.[^4-6]
+<sup>4</sup> En complément des facteurs UMOS fixés à l’art. 3 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^2-2], les facteurs UMOS fixés à l’art. 2*a* de l’ordonnance du 4 octobre 1993 sur le droit foncier rural[^2-3] s’appliquent également pour déterminer la taille de l’exploitation.
 
-<sup>5</sup> S’agissant des exploitants d’une exploitation située dans une région visée à l’art. 3, al. 1, une formation professionnelle initiale dans une autre profession sanctionnée par une attestation fédérale de formation professionnelle selon l’art. 37 LFPr ou par un certificat fédéral de capacité selon l’art. 38 LFPr est assimilée à la formation initiale mentionnée à l’al. 2, let. a.[^4-7]
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^2-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^2-3]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
-[^4-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
-[^4-3]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avril 2006 ([RO 2006 887](https://fedlex.data.admin.ch/eli/oc/2006/155)).
-[^4-5]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avril 2006 ([RO 2006 887](https://fedlex.data.admin.ch/eli/oc/2006/155)).
-[^4-7]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avril 2006 ([RO 2006 887](https://fedlex.data.admin.ch/eli/oc/2006/155)).
+#### Art. 3
+
+[^3-1]
+
+[^3-1]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+
+#### Art. 4
+
+**Conditions relatives à la personne**[^4-1]
+
+<sup>1</sup> Des prêts au titre de l’aide aux exploitations sont octroyés aux personnes physiques qui gèrent elles-mêmes l’exploitation.
+
+<sup>2</sup> Si le requérant est marié ou lié par un partenariat enregistré, des prêts au titre de l’aide aux exploitations sont également octroyées lorsque l’exploitation est gérée par le partenaire.
+
+<sup>3</sup> Des prêts au titre de l’aide aux exploitations sont octroyés aux personnes morales qui sont détenues aux deux tiers par des personnes physiques pouvant bénéficier de prêts au titre de l’aide aux exploitations en vertu de la présente ordonnance et disposant d’au moins deux tiers des droits de vote ainsi que, dans le cas des sociétés de capitaux, de deux tiers du capital.
+
+<sup>4</sup>
+
+Pour obtenir un prêt au titre de l’aide aux exploitations conformément à l’art. 1, al. 1, let. a et b, l’exploitant d’une entreprise agricole doit disposer de l’une des qualifications suivantes:
+
+- a. une formation professionnelle initiale d’agriculteur sanctionnée par le certificat fédéral de capacité visé à l’art. 38 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^4-2];
+- b. une formation de paysanne / responsable de ménage agricole sanctionnée par un brevet visé à l’art. 43 LFPr, ou
+- c. une qualification équivalente dans une profession agricole spécialisée.
+
+<sup>5</sup> S’agissant des requérants mariés ou liés par un partenariat enregistré, l’une des deux personnes doit remplir les conditions visées à l’al. 4.
+
+<sup>6</sup> La gestion performante d’une exploitation pendant au moins trois ans, preuve à l’appui, est assimilée aux qualifications visées à l’al. 4.
+
+<sup>7</sup> L’OFAG fixe les contenus et les critères d’évaluation pour une gestion performante de l’exploitation.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^4-2]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 5
 
@@ -105,9 +110,10 @@ L’octroi d’un prêt au titre de l’aide aux exploitations conformément à 
 
 <sup>1</sup> Si la fortune imposable taxée du requérant dépasse 600 000 francs, aucun prêt au titre de l’aide aux exploitations n’est accordé en vertu de l’art. 1, al. 1, let. a et b.
 
-<sup>2</sup> Les terrains à bâtir doivent être pris en compte à la valeur vénale usuelle dans la localité, à l’exception des parcelles de dégagement affectées à l’exploitation agricole.
+<sup>2</sup> Dans le cas des personnes morales, des sociétés de personnes et des requérants mariés ou liés par un partenariat enregistré, la moyenne arithmétique de la fortune imposable taxée des personnes physiques impliquées est déterminante.[^5-2]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 6
 
@@ -119,11 +125,12 @@ L’octroi d’un prêt au titre de l’aide aux exploitations conformément à 
 
 <sup>3</sup> ...[^6-3]
 
-<sup>4</sup> La dernière conversion de dettes doit remonter à au moins dix ans.
+<sup>4</sup> La dernière conversion de dettes doit remonter à au moins trois ans.[^6-4]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6353](https://fedlex.data.admin.ch/eli/oc/2009/772)).
 [^6-2]: Abrogé par le ch. I de l’O du 23 oct. 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 [^6-3]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 6a
 
@@ -193,11 +200,11 @@ La charge est considérée comme supportable si le requérant est à même:
 
 #### Art. 11
 
-**Obligation de tenir une comptabilité**
+**Obligation de tenir une comptabilité**[^11-1]
 
-<sup>1</sup> Pendant la durée du prêt, la comptabilité d’exploitation doit être remise au canton à sa demande.
+Pendant la durée du prêt, la comptabilité doit être remise au canton à sa demande.
 
-<sup>2</sup> Exceptionnellement, pour des prêts inférieurs au montant limite mentionné à l’art. 10, al. 2, des notes spécifiques à l’exploitation peuvent être remises.
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 12
 
@@ -232,27 +239,25 @@ Sont considérés comme motifs importants justifiant la révocation d’un prêt
 
 <sup>2</sup> Lorsque le prêt a été accordé au titre de la cessation d’exploitation, seuls sont applicables les motifs importants énoncés à l’al. 1, let. e, h et i.[^13-2]
 
-<sup>3</sup> En lieu et place d’une révocation visée à l’al. 1, let. a ou c, en cas d’affermage hors de la famille ou de vente de l’exploitation, le canton peut reporter le prêt au titre d’aide aux exploitations aux mêmes conditions sur le successeur pour autant que celui-ci remplisse les critères d’entrée en matière mentionnés aux art. 2 à 7 et qu’il garantisse la sécurité requise. L’art. 15 est réservé.[^13-3]
+<sup>3</sup> En lieu et place d’une révocation visée à l’al. 1, let. a ou c, en cas d’affermage hors de la famille ou de vente de l’exploitation, le canton peut reporter le prêt au titre d’aide aux exploitations aux mêmes conditions sur le successeur pour autant que celui-ci remplisse les conditions visées à l’art. 7, al. 2, et assure la sécurité requise et qu’il ne s’agisse pas d’une aliénation avec profit.[^13-3]
 
 [^13-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
 [^13-2]: Introduit par le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
-[^13-3]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^13-3]: Introduit par le ch. I de l’O du 23 oct. 2013 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)). Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 14
 
-**Remboursement**
+**Remboursement**[^14-1]
 
-<sup>1</sup> L’autorité qui rend la décision fixe le délai pour le remboursement du prêt. Ce délai ne doit pas dépasser 20 ans; le délai applicable aux prêts accordés pour cessation d’exploitation, est de 10 ans au plus.[^14-1]
+<sup>1</sup> Les prêts sont remboursés au plus tard 20 ans et les prêts accordés pour cessation d’exploitation au plus tard 10 ans après le versement final. Le délai commence au plus tard deux ans après le premier versement partiel.
 
-<sup>2</sup> Le délai de remboursement des prêts doit être fixé en fonction des possibilités économiques de l’emprunteur.
+<sup>2</sup> Le canton fixe le délai de remboursement dans le cadre des délais prévus à l’al. 1. Ce faisant, il tient compte des possibilités économiques de l’emprunteur.
 
-<sup>3</sup> Dans les limites du délai fixé en vertu de l’al. 1, le canton peut différer de trois ans au plus le remboursement des prêts visés à l’art. 1, al. 1, let. a.
+<sup>3</sup> En cas de difficultés financières, l’emprunteur peut demander au canton d’ajourner le premier remboursement ou de reporter le remboursement. Le délai maximal de remboursement prévu à l’al. 1 doit être respecté.
 
-<sup>4</sup> Il peut accorder un sursis d’un an dans les limites du délai fixé à l’al. 1 si les conditions économiques de l’emprunteur se détériorent pour des raisons qui ne lui sont pas imputables.
+<sup>4</sup> Si la situation financière de l’emprunteur s’améliore nettement, le canton peut augmenter de manière appropriée les tranches d’amortissement pendant la durée du contrat ou exiger le remboursement anticipé du solde du prêt.
 
-<sup>5</sup> Si la situation financière de l’emprunteur s’améliore nettement, le canton peut augmenter de manière appropriée les tranches d’amortissement pendant la durée du contrat ou exiger le remboursement anticipé du solde du prêt.
-
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 15
 
@@ -332,7 +337,7 @@ Le délai de résiliation pour les fonds fédéraux à restituer est fixé à tr
 
 [^18a-1]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
-## Section 2 Aides à la reconversion professionnelle****
+## Section 2 Aides à la reconversion professionnelle
 
 [^sec2-1]
 
@@ -402,3 +407,39 @@ L’ordonnance du 7 décembre 1998 sur l’aide aux exploitations accordée à t
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
 [^33-2]: Introduit par le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+
+Annexe[^t-1]
+
+(art. 2, al. 3)
+
+## Mise en péril de l’occupation du territoire
+
+[^t-1]: Introduite par le ch. II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+
+L’occupation du territoire est menacée dans une zone de la région de montagne et des collines, si le maintien des structures sociales et d’une communauté villageoise n’est plus assuré à long terme. La mise en péril de l’occupation du territoire est évaluée à l’aide de la matrice suivante:
+
+### Matrice servant à évaluer la mise en péril de l’occupation du territoire
+
+<table>
+<tr><th>Critère</th><th>Unité</th><th>Difficulté mineure</th><th>Difficulté moyenne</th><th>Difficulté majeure</th><th>Pondération</th><th>Points</th></tr>
+<tr><td>Capacité financière de la commune</td><td>Cote par habitant de l’impôt fédéral direct en % de la CH-∅</td><td>&gt; 70</td><td>60–70</td><td>&lt; 60</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Régression du nombre d’habitants de la commune</td><td>Pourcentage des 10 dernières années</td><td>&lt; 2</td><td>2–5</td><td>&gt; 5</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Grandeur de la localité à laquelle l’exploitation est attribuée</td><td>Nombre d’habitants</td><td>&gt; 1 000</td><td>500–1 000</td><td>&lt; 500</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Voies de communication, transports publics</td><td>Fréquence des liaisons par jour</td><td>&gt; 12</td><td>6–12</td><td>&lt; 6</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Voies de communication, trafic privé</td><td>Qualité des routes (toute l’année): accès avec voitures de tourisme et poids-lourds</td><td>sans problème</td><td>possible</td><td>restreint</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Distance par la route de l’école primaire</td><td>km</td><td>&lt; 3</td><td>3–6</td><td>&gt; 6</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Distance par la route des magasins vendant des biens de consommation courants</td><td>km</td><td>&lt; 5</td><td>5–10</td><td>&gt; 10</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Distance par la route du centre le plus proche</td><td>km</td><td>&lt; 15</td><td>15–20</td><td>&gt; 20</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Caractéristique spéciale de la région: .................</td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td colspan="6">Total des points (maximum = 39)</td><td></td></tr>
+<tr><td colspan="6">Nombre de points minimal requis pour l’octroi d’une aide à une exploitation en vertu de l’art. 80, al. 2, LAgr</td><td>26</td></tr>
+</table>

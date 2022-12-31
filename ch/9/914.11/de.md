@@ -4,11 +4,11 @@ title: Verordnung vom 26. November 2003 über die sozialen Begleitmassnahmen in 
 short: SBMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/720"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2003-720-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/720/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-720-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/720/20210101/de"
 
 (SBMV)
 
-vom 26. November 2003 (Stand am 1. Januar 2021)
+vom 26. November 2003 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -44,7 +44,7 @@ Die Kantone können Bewirtschafterinnen und Bewirtschaftern eines bäuerlichen B
 
 <sup>2</sup> Eine finanzielle Bedrängnis liegt vor, wenn die Gesuchstellerin oder der Gesuchsteller vorübergehend ausser Stande ist, den finanziellen Verpflichtungen nachzukommen. Es muss eine verzinsliche Ausgangsverschuldung von mehr als 50 Prozent des Ertragswertes vorliegen.[^1-2]
 
-<sup>3</sup> ...[^1-3]
+<sup>3</sup> …[^1-3]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
@@ -52,52 +52,57 @@ Die Kantone können Bewirtschafterinnen und Bewirtschaftern eines bäuerlichen B
 
 #### Art. 2
 
-**Erforderliche Betriebsgrösse**[^2-1]
+**Minimale Betriebsgrösse**[^2-1]
 
-<sup>1</sup> Betriebshilfedarlehen werden nur ausgerichtet, wenn die Betriebsgrösse mindestens einer Standarbeitskraft (SAK) entspricht.
-
-<sup>2</sup> Das Bundesamt für Landwirtschaft (BLW) kann ergänzend zu Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^2-2] für spezielle Betriebszweige für die Berechnung der SAK zusätzliche Faktoren festlegen.
-
-[^2-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
-[^2-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-
-#### Art. 3
-
-**Erforderliche Betriebsgrösse in gefährdeten Gebieten**[^3-1]
-
-<sup>1</sup> In Gebieten des Berg- und Hügelgebiets, in denen die Bewirtschaftung oder eine genügende Besiedelungsdichte gefährdet ist, beträgt die erforderliche Betriebsgrösse mindestens 0,60 SAK.
-
-<sup>2</sup> Das BLW legt die Kriterien für den Entscheid fest, ob ein Betrieb in einem gefährdeten Gebiet liegt.
-
-[^3-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
-
-#### Art. 4
-
-**Persönliche Voraussetzungen**
-
-<sup>1</sup> Betriebshilfedarlehen werden nur ausgerichtet, wenn die Bewirtschafterin oder der Bewirtschafter die Voraussetzungen nach den Artikeln 3 und 4 sowie 12–34 der Direktzahlungsverordnung vom 23. Oktober 2013[^4-1] erfüllt.[^4-2]
+<sup>1</sup> Betriebshilfedarlehen werden nur ausgerichtet, wenn auf dem Betrieb ein Arbeitsbedarf von mindestens einer Standarbeitskraft (SAK) besteht.
 
 <sup>2</sup>
 
-Die Gewährung eines Betriebshilfedarlehens nach Artikel 1 Absatz 1 Buchstabe b setzt zudem voraus, dass die Gesuchstellerin oder der Gesuchsteller über eine der folgenden Qualifikationen verfügt:
+In den folgenden Fällen genügt eine Betriebsgrösse von mindestens 0,60 SAK:
 
-- a. eine berufliche Grundbildung als Landwirtin/Landwirt mit einem Eidgenössischen Fähigkeitszeugnis nach Artikel 38 des Berufsbildungsgesetzes vom 13. Dezember 2002[^4-3] (BBG);
-- b. eine Berufsbildung als Bäuerin mit Fachausweis nach Artikel 42 BBG; oder
-- c. eine gleichwertige Qualifikation in einem landwirtschaftlichen Spezialberuf.[^4-4]
+- a. für Betriebshilfedarlehen in den Bergzonen III und IV zur Sicherung der Bewirtschaftung;
+- b. für Betriebshilfedarlehen in Gebieten des Berg- und Hügelgebiets zur Sicherung einer genügenden Besiedelungsdichte.
 
-<sup>3</sup> Bei verheirateten oder in eingetragener Partnerschaft lebenden Gesuchstellerinnen und Gesuchstellern muss eine der beiden Personen die Voraussetzungen nach Absatz 2 erfüllen.[^4-5]
+<sup>3</sup> Die Kriterien zur Beurteilung, ob die Besiedelungsdichte nach Absatz 2 Buchstabe b gefährdet ist, sind im Anhang festgelegt.
 
-<sup>4</sup> Eine während mindestens drei Jahren ausgewiesene, erfolgreiche Betriebsführung ist den Qualifikationen nach Absatz 2 gleichgestellt.[^4-6]
+<sup>4</sup> Für die Bestimmung der Betriebsgrösse gelten zusätzlich zu den SAK-Faktoren nach Artikel 3 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^2-2] auch die SAK-Faktoren nach Artikel 2*a* der der Verordnung vom 4. Oktober 1993[^2-3] über das bäuerliche Bodenrecht.
 
-<sup>5</sup> Für Bewirtschafterinnen oder Bewirtschafter von Betrieben in Gebieten nach Artikel 3 Absatz 1 ist der beruflichen Grundbildung nach Absatz 2 Buchstabe a eine andere berufliche Grundbildung mit einem Eidgenössischen Berufsattest nach Artikel 37 BBG oder einem Eidgenössischen Fähigkeitszeugnis nach Artikel 38 BBG gleichgestellt.[^4-7]
+[^2-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^2-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^2-3]: [SR 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
 
-[^4-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^4-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
-[^4-3]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^4-4]: Fassung gemäss Ziff. I der V vom 1. März 2006, in Kraft seit 1. April 2006 ([AS 2006 887](https://fedlex.data.admin.ch/eli/oc/2006/155)).
-[^4-5]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
-[^4-6]: Fassung gemäss Ziff. I der V vom 1. März 2006, in Kraft seit 1. April 2006 ([AS 2006 887](https://fedlex.data.admin.ch/eli/oc/2006/155)).
-[^4-7]: Fassung gemäss Ziff. I der V vom 1. März 2006, in Kraft seit 1. April 2006 ([AS 2006 887](https://fedlex.data.admin.ch/eli/oc/2006/155)).
+#### Art. 3
+
+[^3-1]
+
+[^3-1]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+
+#### Art. 4
+
+**Persönliche Voraussetzungen**[^4-1]
+
+<sup>1</sup> Betriebshilfedarlehen werden natürlichen Personen gewährt, die den Betrieb selber bewirtschaften.
+
+<sup>2</sup> Ist die Gesuchstellerin oder der Gesuchstellerin verheiratet oder lebt sie oder er in eingetragener Partnerschaft, so werden Betriebshilfedarlehen auch gewährt, wenn der Betrieb durch die Partnerin oder den Partner bewirtschaftet wird.
+
+<sup>3</sup> Juristischen Personen werden Betriebshilfedarlehen gewährt, wenn sie zu zwei Dritteln im Eigentum natürlicher Personen sind, die nach dieser Verordnung Betriebshilfedarlehen erhalten können, und wenn diese natürlichen Personen mindestens über zwei Drittel der Stimmrechte und bei Kapitalgesellschaften zusätzlich über zwei Drittel des Kapitals verfügen.
+
+<sup>4</sup>
+
+Für Betriebshilfedarlehen nach Artikel 1 Absatz 1 Buchstaben a und b muss die Bewirtschafterin oder der Bewirtschafter des landwirtschaftlichen Betriebes über eine der folgenden Qualifikationen verfügen:
+
+- a. eine berufliche Grundbildung als Landwirtin/Landwirt mit einem eidgenössischen Fähigkeitszeugnis nach Artikel 38 des Berufsbildungsgesetzes vom 13. Dezember 2002[^4-2] (BBG);
+- b. eine Berufsbildung als Bäuerin/bäuerlicher Haushaltleiter mit einem Fachausweis nach Artikel 43 BBG; oder
+- c. eine gleichwertige Qualifikation in einem landwirtschaftlichen Spezialberuf.
+
+<sup>5</sup> Bei verheirateten oder in eingetragener Partnerschaft lebenden Gesuchstellerinnen und Gesuchstellern muss eine der beiden Personen die Voraussetzungen nach Absatz 4 erfüllen.
+
+<sup>6</sup> Eine während mindestens drei Jahren ausgewiesene erfolgreiche Betriebsführung ist den Qualifikationen nach Absatz 4 gleichgestellt.
+
+<sup>7</sup> Das BLW legt Inhalte und Beurteilungskriterien für die erfolgreiche Betriebsführung fest.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^4-2]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 
 #### Art. 5
 
@@ -105,9 +110,10 @@ Die Gewährung eines Betriebshilfedarlehens nach Artikel 1 Absatz 1 Buchstabe b 
 
 <sup>1</sup> Übersteigt das veranlagte steuerbare Vermögen der Gesuchstellerin oder des Gesuchstellers 600 000 Franken, so wird kein Betriebshilfedarlehen nach Artikel 1 Absatz 1 Buchstaben a und b gewährt.
 
-<sup>2</sup> Bauland ist zum ortsüblichen Verkehrswert anzurechnen, ausgenommen landwirtschaftlich genutzte Hofparzellen.
+<sup>2</sup> Bei juristischen Personen, bei Personengesellschaften und bei verheirateten oder in eingetragener Partnerschaft lebenden Gesuchstellerinnen und Gesuchstellern ist das arithmetische Mittel des veranlagten steuerbaren Vermögens der beteiligten natürlichen Personen massgebend.[^5-2]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 6
 
@@ -115,15 +121,16 @@ Die Gewährung eines Betriebshilfedarlehens nach Artikel 1 Absatz 1 Buchstabe b 
 
 <sup>1</sup> Nach Abschluss einer grösseren Investition kann ein Darlehen nach Artikel 1 Absatz 1 Buchstabe b erst nach einer Wartefrist von drei Jahren gewährt werden.
 
-<sup>2</sup> ...[^6-2]
+<sup>2</sup> …[^6-2]
 
-<sup>3</sup> ...[^6-3]
+<sup>3</sup> …[^6-3]
 
-<sup>4</sup> Die letzte Umschuldung muss mindestens zehn Jahre zurückliegen.
+<sup>4</sup> Die letzte Umschuldung muss mindestens drei Jahre zurückliegen.[^6-4]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6353](https://fedlex.data.admin.ch/eli/oc/2009/772)).
 [^6-2]: Aufgehoben durch Ziff. I der V vom 23. Okt. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
 [^6-3]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 6a
 
@@ -153,7 +160,7 @@ Die Belastung ist tragbar, wenn die Gesuchstellerin oder der Gesuchsteller in de
 - d. die künftig notwendigen Investitionen zu tätigen; und
 - e. zahlungsfähig zu bleiben.
 
-<sup>3</sup> Die Kantone können für Betriebshilfedarlehen eine Obergrenze je Betrieb festlegen. Die Obergrenze darf nicht unter 200 000 Franken liegen.*[^7-1]*
+<sup>3</sup> Die Kantone können für Betriebshilfedarlehen eine Obergrenze je Betrieb festlegen. Die Obergrenze darf nicht unter 200 000 Franken liegen.[^7-1]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 6103](https://fedlex.data.admin.ch/eli/oc/2017/671)).
 
@@ -193,11 +200,11 @@ Die Belastung ist tragbar, wenn die Gesuchstellerin oder der Gesuchsteller in de
 
 #### Art. 11
 
-**Buchhaltungspflicht**
+**Buchhaltungspflicht**[^11-1]
 
-<sup>1</sup> Während der Laufzeit der Darlehen sind dem Kanton auf Verlangen betriebswirtschaftliche Buchhaltungen einzureichen.
+Während der Laufzeit der Darlehen ist dem Kanton auf Verlangen die Buchhaltung einzureichen.
 
-<sup>2</sup> In Ausnahmefällen können für Darlehen unter dem Grenzbetrag nach Artikel 10 Absatz 2 Aufzeichnungen eingereicht werden.
+[^11-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 12
 
@@ -232,27 +239,25 @@ Als wichtige Gründe für den Widerruf eines Darlehens gelten insbesondere:
 
 <sup>2</sup> Für Darlehen bei Betriebsaufgabe gelten nur diejenigen nach Absatz 1 Buchstaben e, h und i als wichtige Gründe.[^13-2]
 
-<sup>3</sup> Anstelle eines Widerrufs gestützt auf Absatz 1 Buchstabe a oder c kann der Kanton bei einer Verpachtung ausserhalb der Familie oder bei einem Verkauf des Betriebes das Betriebshilfedarlehen zu gleichen Bedingungen an die Nachfolgerin oder den Nachfolger übertragen, sofern diese oder dieser die Eintretensbedingungen nach den Artikeln 2–7 erfüllt und die verlangte Sicherheit gewährleistet. Artikel 15 bleibt vorbehalten.[^13-3]
+<sup>3</sup> Anstelle eines Widerrufs gestützt auf Absatz 1 Buchstabe a oder c kann der Kanton bei einer Verpachtung ausserhalb der Familie oder bei einem Verkauf des Betriebs das Betriebshilfedarlehen zu gleichen Bedingungen an die Nachfolgerin oder den Nachfolger übertragen, sofern diese oder dieser die Bedingungen nach Artikel 7 Absatz 2 erfüllt und die verlangte Sicherheit erbringt und sofern es sich um keine gewinnbringende Veräusserung hand.[^13-3]
 
 [^13-1]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
 [^13-2]: Eingefügt durch Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
-[^13-3]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+[^13-3]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)). Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 14
 
-**Rückzahlung**
+**Rückzahlung**[^14-1]
 
-<sup>1</sup> Die verfügende Behörde bestimmt die Frist für die Rückzahlung des Darlehens. Sie beträgt höchstens 20 Jahre, für Darlehen bei Betriebsaufgabe höchstens 10 Jahre.[^14-1]
+<sup>1</sup> Darlehen sind spätestens 20 Jahre, Darlehen bei Betriebsaufgabe spätestens 10 Jahre nach der Schlusszahlung zurückzuzahlen. Die Frist beginnt spätestens zwei Jahre nach der ersten Teilzahlung.
 
-- [tab] <sup>2</sup> Die Rückzahlungsfristen der Darlehen sind nach den wirtschaftlichen Möglichkeiten der Darlehensnehmerin oder des Darlehensnehmers festzusetzen.
+<sup>2</sup> Der Kanton bestimmt die Frist für die Rückzahlung innerhalb der Fristen nach Absatz 1. Er berücksichtigt dabei die wirtschaftlichen Möglichkeiten der Darlehensnehmerin oder des Darlehensnehmers.
 
-<sup>3</sup> Der Kanton kann die Rückzahlung der Darlehen nach Artikel 1 Absatz 1 Buchstabe a innerhalb der Frist nach Absatz 1 um höchstens drei Jahre aufschieben.
+<sup>3</sup> Bei finanziellen Schwierigkeiten kann die Darlehensnehmerin oder der Darlehensnehmer beim Kanton einen Aufschub der ersten Rückzahlung oder eine Stundung der Rückzahlung beantragen. Die maximale Rückzahlungsfrist nach Absatz 1 ist einzuhalten.
 
-<sup>4</sup> Er kann die Rückzahlung des Darlehens innerhalb der Frist nach Absatz 1 um ein Jahr stunden, falls sich die wirtschaftlichen Verhältnisse der Darlehensnehmerin oder des Darlehensnehmers unverschuldet verschlechtern.
+<sup>4</sup> Haben sich die wirtschaftlichen Verhältnisse der Darlehensnehmerin oder des Darlehensnehmers wesentlich verbessert, so kann der Kanton die Tilgungsrate während der Vertragsdauer angemessen erhöhen oder das Restdarlehen vorzeitig zurückfordern.
 
-<sup>5</sup> Haben sich die wirtschaftlichen Verhältnisse der Darlehensnehmerin oder des Darlehensnehmers wesentlich verbessert, kann der Kanton die Tilgungsrate während der Vertragsdauer angemessen erhöhen oder das Restdarlehen vorzeitig zurückfordern.
-
-[^14-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
 
 #### Art. 15
 
@@ -332,7 +337,7 @@ Die Kündigungsfrist für rückzufordernde Bundesmittel beträgt drei Monate.
 
 [^18a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5517](https://fedlex.data.admin.ch/eli/oc/2020/958)).
 
-## 2. Abschnitt: Umschulungsbeihilfen****
+## 2. Abschnitt: Umschulungsbeihilfen
 
 [^sec2-1]
 
@@ -402,3 +407,39 @@ Die Verordnung vom 7. Dezember 1998[^31-1] über die Betriebshilfe als soziale B
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6211](https://fedlex.data.admin.ch/eli/oc/2007/826)).
 [^33-2]: Eingefügt durch Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3927](https://fedlex.data.admin.ch/eli/oc/2013/718)).
+
+Anhang[^t-1]
+
+(Art. 2 Abs. 3)
+
+## Gefährdung der Besiedelungsdichte
+
+[^t-1]: Eingefügt durch Ziff. II der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+
+Die Besiedelungsdichte in einem Gebiet des Berg- und Hügelgebiets ist gefährdet, wenn die Aufrechterhaltung eines sozialen Gefüges und einer dörflichen Gemeinschaft längerfristig nicht mehr sichergestellt ist. Die Beurteilung der Gefährdung erfolgt nach der folgenden Matrix:
+
+### Matrix zur Beurteilung der Gefährdung der Besiedelung
+
+<table>
+<tr><th>Kriterium</th><th>Einheit</th><th>Kleine Erschwernis</th><th>Mittlere Erschwernis</th><th>Hohe Erschwernis</th><th>Gewicht</th><th>Punkte</th></tr>
+<tr><td>Finanzkraft der Gemeinde</td><td>Kopfquote der direkten Bundessteuer in % des CH-∅</td><td>&gt; 70</td><td>60–70</td><td>&lt; 60</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Rückläufige Bevölkerungszahl der Gemeinde</td><td>Prozent der letzten 10 Jahre</td><td>&lt; 2</td><td>2–5</td><td>&gt; 5</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Grösse des Ortes, dem der Betrieb zugeordnet wird</td><td>Anzahl Einwohner/innen</td><td>&gt; 1000</td><td>500–1000</td><td>&lt; 500</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Verkehrserschliessung öffentlicher Verkehr</td><td>Häufigkeit der Verbindungen pro Tag</td><td>&gt;12</td><td>6–12</td><td>&lt; 6</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Verkehrserschliessung Privatverkehr</td><td>Strassenqualität (ganzjährig): Zufahrt PW und LKW</td><td>problem-los</td><td>möglich</td><td>eingeschränkt</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Fahrdistanz zur Primarschule</td><td>km</td><td>&lt; 3</td><td>3–6</td><td>&gt; 6</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Fahrdistanz zu Läden des täglichen Bedarfs</td><td>km</td><td>&lt; 5</td><td>5–10</td><td>&gt; 10</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Fahrdistanz zum nächsten Zentrum</td><td>km</td><td>&lt; 15</td><td>15–20</td><td>&gt; 20</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Spezielles Merkmal der Region: ........................</td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td colspan="6">Total Punkte (max. Punktzahl = 39)</td><td></td></tr>
+<tr><td colspan="6">Mindestens notwendige Punktzahl für die Unterstützung eines Betriebs nach Artikel 80 Absatz 2 LwG</td><td>26</td></tr>
+</table>
