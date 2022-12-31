@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 1998 über landwirtschaftliche Begriffe und d
 short: LBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: de
-version: 2019-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20190101/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/de"
 
 (Landwirtschaftliche Begriffsverordnung, LBV)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2019) (Stand am 1. Januar 2019)
+vom 7. Dezember 1998 (Stand am 1. Januar 2023) (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -55,12 +55,12 @@ Die Verordnung regelt zudem das Verfahren für:
 
 <sup>2</sup> Führt ein Bewirtschafter oder eine Bewirtschafterin mehrere Produktionsstätten, so gelten diese zusammen als ein Betrieb.
 
-<sup>3</sup> Führen ungetrennt lebende Ehe- und Konkubinatspartner oder Personen in eingetragener Partnerschaft mehrere Produktionsstätten, so gelten diese zusammen als ein Betrieb. Davon ausgenommen sind Betriebe, die in die Partnerschaft eingebracht werden und die weiterhin als selbstständige und unabhängige Betriebe nach Artikel 6 bewirtschaftet werden.[^2-2]
+<sup>3</sup> …[^2-2]
 
 <sup>4</sup> Werden auf einem Betrieb Produkte nach dem 2. Titel des LwG hergestellt, so gilt der Produzent als Bewirtschafter.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^2-2]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 3
 
@@ -252,7 +252,7 @@ Eine Betriebszweiggemeinschaft besteht, wenn:
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
 
-### 2*a*. Abschnitt:**** Leistungen für die landwirtschaftliche Produktion und landwirtschaftsnahe Tätigkeiten
+### 2*a*. Abschnitt: Leistungen für die landwirtschaftliche Produktion und landwirtschaftsnahe Tätigkeiten
 
 [^chap2-sec2a-1]
 
@@ -357,11 +357,15 @@ Flächen nach Absatz 1 Buchstaben d und e zählen zur landwirtschaftlichen Nutzf
 - c.[^16-3] für die Flächen nach Absatz 1 Buchstabe e der Pachtvertrag gemäss den massgebenden Bestimmungen des LPG[^16-4] schriftlich abgeschlossen ist; und
 - d. die vom Bewirtschafter oder von der Bewirtschafterin zusammenhängend bewirtschaftete Fläche mindestens 25 Aren misst.[^16-5]
 
+<sup>4</sup> Flächen oder Teilflächen mit einem hohen Besatz an Erdmandelgras zählen in Abweichung von Absatz 1 Buchstabe b zur landwirtschaftlichen Nutzfläche, wenn die zuständige kantonale Stelle eine Bewilligung zur Sanierung der Fläche mittels Schwarzbrache erteilt. Die Fläche ist gemäss dem Merkblatt der Konferenz der kantonalen Pflanzenschutzdienste vom 24. Januar 2022[^16-6] «Die Schwarzbrache als Instrument zur Erdmandelgrasbekämpfung» zu bewirtschaften.[^16-7]
+
 [^16-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-4]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
 [^16-5]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
+[^16-6]: Das Merkblatt ist abrufbar unter: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instrumente &gt; Direktzahlungen &gt; Voraussetzungen/Begriffe &gt; Dokumentation.
+[^16-7]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 17
 
@@ -395,6 +399,17 @@ Im Ausland gelegene Flächen gelten als landwirtschaftliche Nutzfläche eines Be
 <sup>3</sup> Als Kunstwiese gilt die als Wiese angesäte Fläche, die innerhalb einer Fruchtfolge während mindestens einer Vegetationsperiode bewirtschaftet wird.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+
+#### Art. 18a
+
+**Hauptkultur**[^18a-1]
+
+<sup>1</sup> Die Hauptkultur ist die Kultur, die den Boden während der Vegetationsperiode am längsten beansprucht und spätestens am 1. Juni angelegt ist.
+
+<sup>2</sup> Kann die angebaute Hauptkultur aufgrund von Schäden durch höhere Gewalt nach Artikel 106 Absätze 2 Buchstaben f und g sowie 3 DZV[^18a-2] nicht geerntet werden und wird sie nach dem 1. Juni umgebrochen, so gilt die anschliessend bis spätestens Ende Juni angelegte Kultur als Hauptkultur, sofern diese ordentlich geerntet werden kann.
+
+[^18a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^18a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 19
 
@@ -464,12 +479,13 @@ Als Dauerkulturen gelten:
 
 Als Obstanlagen gelten geschlossene Anlagen mit folgenden Pflanzendichten:
 
-- a. mindestens 300 Bäume je Hektare bei Äpfeln, Birnen, Zwetschgen, Pflaumen, Quitten, Kiwis und Holunder;
+- a. mindestens 300 Bäume je Hektare bei Äpfeln, Birnen, Zwetschgen, Pflaumen, Quitten, Kiwis, Holunder, Kaki, Feigen, Haselnuss, Mandeln und Oliven;
 - b. mindestens 200 Bäume je Hektare bei Aprikosen und Pfirsichen;
-- c. mindestens 100 Bäume je Hektare bei Kirschen und Nussbäumen.
+- c. mindestens 100 Bäume je Hektare bei Kirschen, Nussbäumen und Edelkastanien ausserhalb von Selven.[^22-3]
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^22-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^22-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 23
 
@@ -533,21 +549,35 @@ Als Sömmerungsweiden gelten die Flächen mit ausschliesslicher Weidenutzung, di
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 
-### 5. Abschnitt: …
+### 5. Abschnitt: Futtermittel
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Fassung gemäss Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 28
 
-[^28-1]
+**Grundfutter**
 
-[^28-1]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4183](https://fedlex.data.admin.ch/eli/oc/2018/675)).
+Als Grundfutter gelten:
+
+- a. Futter von Grünflächen und Streueflächen: frisch, siliert oder getrocknet sowie Stroh;
+- b. als Futtermittel angebaute Ackerkulturen, bei denen die ganze Pflanze geerntet wird: frisch, siliert oder getrocknet, ohne Maiskolbenschrot;
+- c. Chicorée-Wurzeln;
+- d. Rübenblätter und frische Rübennass- und Rübenpressschnitzel;
+- e. frisches Obst;
+- f. unverarbeitete Kartoffeln, einschliesslich Sortierabgang;
+- g. Abgänge und nicht getrocknete oder konzentrierte Nebenprodukte aus der Kartoffel-, Obst- und Gemüseverarbeitung.
 
 #### Art. 29
 
-[^29-1]
+**Kraftfutter**
 
-[^29-1]: Aufgehoben durch Art. 14 der Berg- und Alp-Verordnung vom 8. Nov. 2006, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747)).
+Als Kraftfutter gelten alle Futtermittel nach Artikel 3 Absatz l der Futtermittel-Verordnung vom 26. Oktober 2011[^29-1], die nicht unter Artikel 28 fallen.
 
-## 3. Kapitel: Anerkennung der Betriebs- und Gemeinschaftsformen, Flächenüberprüfung****
+[^29-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+
+## 3. Kapitel: Anerkennung der Betriebs- und Gemeinschaftsformen, Flächenüberprüfung
 
 [^chap3-1]
 
@@ -681,7 +711,7 @@ Die bis am 31. Dezember 2003 anerkannten Tierhaltungsgemeinschaften sind den Bet
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 27 Abs. 1)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 1998 sur la terminologie agricole et la reconn
 short: OTerm
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: fr
-version: 2019-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-13-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-13-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/fr"
 
 (Ordonnance sur la terminologie agricole, OTerm)
 
-du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 2019)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -55,12 +55,12 @@ L’ordonnance règle en outre la procédure à suivre en matière de:
 
 <sup>2</sup> Lorsqu’un exploitant gère plusieurs unités de production, celles-ci sont considérées comme une exploitation.
 
-<sup>3</sup> Lorsque des époux non séparés, des concubins non séparés ou des personnes liées par un partenariat enregistré non séparées gèrent plusieurs unités de production, ces dernières forment une seule exploitation. Sont exceptées les entreprises agricoles qui constituent un bien propre de l’un des deux membres de la communauté et qui continuent à être exploitées de manière autonome et indépendante d’autres exploitations selon l’art. 6.[^2-2]
+<sup>3</sup> …[^2-2]
 
 <sup>4</sup> Le producteur de denrées visées au titre 2 de la LAgr, est réputé exploitant.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^2-2]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 3
 
@@ -113,7 +113,7 @@ Par exploitation, on entend une entreprise agricole qui:
 - a. se consacre à la production végétale ou à la garde d’animaux ou aux deux activités à la fois;
 - b. comprend une ou plusieurs unités de production;
 - c.[^6-1] est autonome sur les plans juridique, économique, organisationnel et financier et est indépendante d’autres exploitations;[^6-2]
-- d. dispose de son propre résultat d’exploitation; et
+- d. dispose de son propre résultat d’exploitation, et
 - e. est exploitée toute l’année.
 
 <sup>2</sup>
@@ -121,7 +121,7 @@ Par exploitation, on entend une entreprise agricole qui:
 Par unité de production, on entend un ensemble de terres, de bâtiments et d’installations:
 
 - a. que les limites désignent visiblement comme tel et qui est séparé d’autres unités de production;
-- b. dans lequel sont occupées une ou plusieurs personnes; et
+- b. dans lequel sont occupées une ou plusieurs personnes, et
 - c. qui comprend une ou plusieurs unités d’élevage au sens de l’art. 11.[^6-3]
 
 <sup>2bis</sup>
@@ -129,7 +129,7 @@ Par unité de production, on entend un ensemble de terres, de bâtiments et d’
 En dérogation à l’al. 2, est considéré comme unité de production le local de stabulation que l’exploitant d’une entreprise agricole reconnue prend à bail ou loue auprès d’un tiers:
 
 - a. si le bailleur ou le loueur ne détient plus d’animaux de la catégorie pour laquelle le local de stabulation est utilisé;
-- b.[^6-4] si les prestations écologiques requises visées aux art. 11 à 25 de l’ordonnance du 23 octobre 2013 sur les paiements directs versés dans l’agriculture (OPD)[^6-5] sont fournies; et
+- b.[^6-4] si les prestations écologiques requises visées aux art. 11 à 25 de l’ordonnance du 23 octobre 2013 sur les paiements directs versés dans l’agriculture (OPD)[^6-5] sont fournies, et
 - c.[^6-6] si les dispositions de l’ordonnance du 23 octobre 2013 sur les effectifs maximums[^6-7], de l’OPD, de l’ordonnance du 22 septembre 1997 sur l’agriculture biologique[^6-8] et d’autres actes dans le domaine agricole sont respectées.[^6-9]
 
 <sup>3</sup> On considère comme centre d’exploitation d’une entreprise comprenant plus d’une unité de production le lieu où se trouve le bâtiment principal ou celui où s’exercent les activités économiques principales.
@@ -139,7 +139,7 @@ En dérogation à l’al. 2, est considéré comme unité de production le local
 La condition stipulée à l’al. 1, let. c, n’est notamment pas remplie lorsque:
 
 - a. l’exploitant ne peut prendre de décisions concernant la gestion de son exploitation, indépendamment des exploitants d’autres entreprises agricoles au sens de l’al. 1;
-- b.[^6-10] l’exploitant d’une autre entreprise agricole au sens de l’al. 1, ou ses associés, sociétaires, actionnaires ou représentants, détiennent une part de 25 % ou plus du capital propre ou du capital total de l’exploitation; ou
+- b.[^6-10] l’exploitant d’une autre entreprise agricole au sens de l’al. 1, ou ses associés, sociétaires, actionnaires ou représentants, détiennent une part de 25 % ou plus du capital propre ou du capital total de l’exploitation, ou
 - c. les travaux à effectuer dans l’exploitation sont exécutés en majeure partie par d’autres exploitations sans qu’une communauté au sens des art. 10 ou 12 soit reconnue.[^6-11]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
@@ -168,7 +168,7 @@ Par exploitation de pâturages communautaires, on entend une entreprise agricole
 
 - a. sert au pacage d’animaux en commun;
 - b. comprend des pâturages communautaires (art. 25);
-- c. comprend des bâtiments ou des installations se prêtant au pacage; et
+- c. comprend des bâtiments ou des installations se prêtant au pacage, et
 - d.[^8-1] est gérée par une collectivité de droit public, une collectivité exploitant les terrains de la commune ou une société de personnes*.*
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
@@ -185,7 +185,7 @@ Par exploitation d’estivage, on entend une entreprise agricole qui:
 - b. est séparée des exploitations des propriétaires du bétail estivé;
 - c. comprend des pâturages d’estivage (art. 26);
 - d. comprend des bâtiments ou des installations nécessaires à l’estivage;
-- e.[^9-1] est exploitée durant l’estivage; et
+- e.[^9-1] est exploitée durant l’estivage, et
 - f. ne dépend pas d’autres exploitations d’estivage.
 
 <sup>2</sup> Une exploitation d’estivage comprenant plusieurs échelons d’exploitation est considérée comme une seule unité.
@@ -253,7 +253,7 @@ Une communauté partielle d’exploitation existe lorsque les conditions suivant
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
 
-### Section 2*a***** Prestations pour la production agricole et activités proches de l’agriculture
+### Section 2*a* Prestations pour la production agricole et activités proches de l’agriculture
 
 [^chap2-sec2a-1]
 
@@ -346,7 +346,7 @@ Ne sont pas reconnues comme surfaces agricoles utiles:
 L’affectation principale d’une surface n’est pas l’exploitation agricole lorsque:
 
 - a. celle-ci est fortement entravée;
-- b. le rendement de l’utilisation agricole est plus faible que celui d’une utilisation non agricole; ou
+- b. le rendement de l’utilisation agricole est plus faible que celui d’une utilisation non agricole, ou
 - c. la fonction d’entretien est prédominante.
 
 <sup>3</sup>
@@ -355,14 +355,18 @@ Les surfaces au sens de l’al. 1, let. d et e, sont considérées comme surface
 
 - a. que les surfaces sont situées en dehors du périmètre à usage non agricole et que leur affectation principale est l’exploitation agricole;
 - b. qu’il s’agit de surfaces au sens de l’art. 14, al. 1, let. a, b, d ou e, dont il est propriétaire ou pour lesquelles il a conclu un bail à ferme par écrit;
-- c.[^16-3] que le bail à ferme pour les surfaces visées à l’al. 1, let. e, a été conclu par écrit conformément aux dispositions y relatives de la LBFA[^16-4]; et
+- c.[^16-3] que le bail à ferme pour les surfaces visées à l’al. 1, let. e, a été conclu par écrit conformément aux dispositions y relatives de la LBFA[^16-4], et
 - d. que la surface utilisée d’un seul tenant par l’exploitant a une superficie de 25 ares au moins.[^16-5]
+
+<sup>4</sup> Les surfaces ou parties de surfaces fortement envahies par le souchet comestible sont comptabilisées dans la surface agricole utile, en dérogation à l’al. 1, let. b, si le service cantonal compétent octroie une autorisation d’assainissement de la surface au moyen d’une jachère nue. La surface doit être exploitée conformément à la feuille d’information du 24 janvier 2022 de la Conférence des services phytosanitaires cantonaux «La jachère noire en tant qu’instrument de lutte contre le souchet comestible»[^16-6].[^16-7]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-4]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
 [^16-5]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
+[^16-6]: La feuille d’information peut être consultée à l’adresse suivante: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Instruments &gt; Paiements directs &gt; Conditions/Termes &gt; Documentation.
+[^16-7]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 17
 
@@ -373,7 +377,7 @@ Les surfaces au sens de l’al. 1, let. d et e, sont considérées comme surface
 Les surfaces exploitées à l’étranger sont comptées dans la surface agricole utile de l’exploitation:
 
 - a. si elles sont situées dans la zone frontière étrangère définie à l’art. 43 de la loi du 18 mars 2005 sur les douanes[^17-2];
-- b. si les conditions requises pour l’importation en franchise des denrées produites sur ces surfaces sont remplies; et
+- b. si les conditions requises pour l’importation en franchise des denrées produites sur ces surfaces sont remplies, et
 - c. si le centre de l’exploitation est situé dans la zone frontière suisse.
 
 <sup>2</sup> Par surfaces cultivées par tradition, on entend les surfaces exploitées sans interruption au moins depuis le 1<sup>er</sup> mai 1984 par des producteurs domiciliés dans la zone frontière suisse.
@@ -382,20 +386,32 @@ Les surfaces exploitées à l’étranger sont comptées dans la surface agricol
 
 <sup>4</sup> Les cantons tiennent un registre des surfaces exploitées par tradition à l’étranger.
 
-[^17-1]: Nouvelle teneur selon le ch. 50 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^17-1]: Nouvelle teneur selon l’annexe 4 ch. 50 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 18
 
 **Terres assolées**
 
-<sup>1</sup> Par terres assolées, on entend les terres soumises à la rotation culturale (assolement). Elles se composent des terres ouvertes et des prairies artificielles.
+<sup>1</sup> Par terres assolées, on entend les terres soumises à la rotation culturale (assolement). Elles se composent des terres ouvertes et des prairies temporaires[^18-1].
 
-<sup>2</sup> Par terres ouvertes, on entend les surfaces affectées à des cultures annuelles des champs, à la culture de légumes et de baies annuels ou à celle de plantes aromatiques et médicinales annuelles. Les jachères florales, les jachères tournantes et les ourlets sur terres assolées font partie des terres ouvertes.[^18-1]
+<sup>2</sup> Par terres ouvertes, on entend les surfaces affectées à des cultures annuelles des champs, à la culture de légumes et de baies annuels ou à celle de plantes aromatiques et médicinales annuelles. Les jachères florales, les jachères tournantes et les ourlets sur terres assolées font partie des terres ouvertes.[^18-2]
 
-<sup>3</sup> Par prairies artificielles, on entend les prairies ensemencées qui sont exploitées pendant un cycle de végétation au moins dans le cadre de l’assolement.
+<sup>3</sup> Par prairies temporaires, on entend les prairies ensemencées qui sont exploitées pendant un cycle de végétation au moins dans le cadre de l’assolement.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+[^18-1]: Nouvelle expression selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)). Il a été tenu compte de cette mod. dans tout le texte.
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+
+#### Art. 18a
+
+**Culture principale**[^18a-1]
+
+<sup>1</sup> La culture principale est la culture qui occupe le plus longtemps le sol pendant la période de végétation et qui est mise en place au plus tard le 1<sup>er</sup> juin.
+
+<sup>2</sup> Si la culture principale ne peut être récoltée en raison de dégâts dus à un cas de force majeure au sens de l’art. 106, al. 2, let. f et g, et 3, OPD[^18a-2] et qu’elle est labourée après le 1<sup>er</sup> juin, la culture plantée ultérieurement, au plus tard à la fin du mois de juin, est considérée comme la culture principale, à condition que celle-ci puisse être récoltée de manière usuelle.
+
+[^18a-1]: Introduit par l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 19
 
@@ -413,7 +429,7 @@ Les surfaces exploitées à l’étranger sont comptées dans la surface agricol
 
 Les prairies de fauche situées dans la région d’estivage font partie des surfaces herbagères permanentes si:
 
-- a.[^19-3] elles sont fauchées chaque année et que ce mode d’utilisation répond à une longue tradition ininterrompue; et
+- a.[^19-3] elles sont fauchées chaque année et que ce mode d’utilisation répond à une longue tradition ininterrompue, et
 - b. le fourrage grossier récolté est utilisé dans l’exploitation pour l’affouragement d’hiver.
 
 <sup>6</sup>
@@ -421,7 +437,7 @@ Les prairies de fauche situées dans la région d’estivage font partie des sur
 Les surfaces qui ne sont pas fauchées chaque année, mais qui remplissent les conditions définies à l’al. 5 pour les prairies de fauche situées dans la région d’estivage, font également partie des surfaces herbagères permanentes, pour autant qu’elles soient effectivement utilisées et si:
 
 - a. elles forment un ensemble de 20 ares au moins;
-- b. leur utilisation n’est pas dangereuse; et
+- b. leur utilisation n’est pas dangereuse, et
 - c. elles sont détenues en propriété ou en affermage.
 
 <sup>7</sup> Par surfaces herbagères permanentes, on entend aussi une châtaigneraie entretenue dont la couverture herbeuse est intégrale et qui compte au maximum 50 arbres par hectare.[^19-4]
@@ -435,7 +451,7 @@ Les surfaces qui ne sont pas fauchées chaque année, mais qui remplissent les c
 
 **Surfaces herbagères**
 
-Par surfaces herbagères, on entend les prairies artificielles (art. 18, al. 3) et les surfaces herbagères permanentes (art. 19).
+Par surfaces herbagères, on entend les prairies temporaires (art. 18, al. 3) et les surfaces herbagères permanentes (art. 19).
 
 #### Art. 21
 
@@ -465,12 +481,13 @@ Par cultures pérennes, on entend:
 
 Par cultures fruitières, on entend les vergers de forme compacte comprenant:
 
-- a. 300 arbres par hectare au moins s’il s’agit de pommiers, de poiriers, de pruniers, de cognassiers, de kiwis et de sureaux;
+- a. 300 arbres par hectare au moins s’il s’agit de pommiers, de poiriers, de pruniers, de cognassiers, d’arbres à kiwis, de sureaux, d’arbres à kakis, de figuiers, de noisetiers, d’amandiers et d’oliviers;
 - b. 200 arbres par hectare au moins s’il s’agit d’abricotiers et de pêchers;
-- c. 100 arbres par hectare au moins s’il s’agit de cerisiers et de noyers.
+- c. 100 arbres par hectare au moins s’il s’agit de cerisiers, de noyers et de châtaigniers isolés hors des châtaigneraies (selves).[^22-3]
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 23
 
@@ -534,21 +551,35 @@ Par pâturages d’estivage, on entend les surfaces utilisées exclusivement pou
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 
-### Section 5 …
+### Section 5 Aliments pour animaux
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 28
 
-[^28-1]
+**Fourrage de base**
 
-[^28-1]: Abrogé par le ch. I de l’O du 31 oct. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4183](https://fedlex.data.admin.ch/eli/oc/2018/675)).
+Sont considérés comme du fourrage de base:
+
+- a. le fourrage issu de surfaces herbagères et de surfaces à litière: frais, ensilé ou séché, ainsi que la paille;
+- b. les grandes cultures destinées à l’alimentation animale dans lesquelles la plante entière est récoltée: frais, ensilé ou séché (sans le maïs-épi);
+- c. les racines de chicorée;
+- d. les feuilles de betteraves et cossettes de betteraves fraîches, humides et pressées;
+- e. les fruits frais;
+- f. les pommes de terre non transformées, y compris les résidus de triage;
+- g. les résidus et les sous-produits non séchés ou concentrés issus de la transformation des pommes de terre, des fruits et des légumes.
 
 #### Art. 29
 
-[^29-1]
+**Aliments concentrés**
 
-[^29-1]: Abrogé par l’art. 14 de l’O du 8 nov. 2006 sur les désignations «montagne» et «alpage», avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747)).
+Sont considérés comme des aliments concentrés tous les aliments pour animaux visés à l’art. 3, al. 1, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^29-1] qui ne sont pas couverts par l’art. 28.
 
-## Chapitre 3**** Reconnaissance des formes d’exploitations et de communautés, vérification des surfaces
+[^29-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+
+## Chapitre 3 Reconnaissance des formes d’exploitations et de communautés, vérification des surfaces
 
 [^chap3-1]
 
@@ -610,12 +641,12 @@ Les exploitations issues du partage d’une entreprise existante peuvent être r
 
 Les cantons vérifient la reconnaissance des communautés d’exploitation, notamment en cas de changement des exploitants impliqués ou si, pour les unités de production concernées, une modification des rapports de propriété est intervenue depuis la reconnaissance ou si les contrats de bail à ferme agricole existant au moment de la reconnaissance sont modifiés. La reconnaissance est révoquée en particulier:
 
-- a. si une ou plusieurs exploitations membres de la communauté ne remplissent plus les conditions fixées à l’art. 6, al. 1, let. b; ou
+- a. si une ou plusieurs exploitations membres de la communauté ne remplissent plus les conditions fixées à l’art. 6, al. 1, let. b, ou
 - b.
 
   si les unités de production sont essentiellement:
 
-  - 1\. détenues en copropriété par les exploitants; ou
+  - 1\. détenues en copropriété par les exploitants, ou
   - 2\. prises à bail par ces derniers en commun.
 
 <sup>3</sup> L’évaluation quant aux conditions fixées à l’al. 2, let. b, se fonde sur les rapports de propriété, d’affermage et d’utilisation des surfaces et des bâtiments, ainsi que sur les parts à la valeur de rendement des terres et des unités de production, habitations non comprises. Les valeurs de rendement des bâtiments construits, achetés ou pris à bail en commun sont réparties entre les exploitants au prorata de leur participation.[^30a-2]
@@ -631,7 +662,7 @@ Les cantons vérifient la reconnaissance des communautés d’exploitation, nota
 
 <sup>2</sup> Lorsque les données de la mensuration officielle ne sont pas à jour, le canton délimite les surfaces en fonction de leur utilisation effective.
 
-<sup>3</sup> A défaut de données d’une mensuration officielle, le canton procède à des relevés.
+<sup>3</sup> À défaut de données d’une mensuration officielle, le canton procède à des relevés.
 
 #### Art. 32
 
@@ -676,7 +707,7 @@ Les communautés d’élevage reconnues jusqu’au 31 décembre 2003 sont assimi
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1999.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 27, al. 1)
 
@@ -695,7 +726,7 @@ Annexe*[^t-1]*
 <tr><td>1.2.2 de plus de 365 jours à 730 jours</td><td>0,40</td></tr>
 <tr><td>1.2.3 de plus de 160 jours à 365 jours</td><td>0,33</td></tr>
 <tr><td>1.2.4 jusqu’à 160 jours</td><td>0,13</td></tr>
-<tr><td>2. Equidés</td><td></td></tr>
+<tr><td>2. Équidés</td><td></td></tr>
 <tr><td>**2.1** **Hauteur au garrot 148 cm ou plus**</td><td></td></tr>
 <tr><td>2.1.1 de plus de 900 jours</td><td>0,70</td></tr>
 <tr><td>2.1.2 de plus de 180 à 900 jours</td><td>0,50</td></tr>

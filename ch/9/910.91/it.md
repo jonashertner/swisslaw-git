@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 1998 sulla terminologia agricola e sul riconosc
 short: OTerm
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: it
-version: 2019-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20190101/it/xml/fedlex-data-admin-ch-eli-cc-1999-13-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-13-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20190101/it"
 
 (Ordinanza sulla terminologia agricola, OTerm)
 
-del 7 dicembre 1998 (Stato 1° gennaio 2019)
+del 7 dicembre 1998 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -55,12 +55,12 @@ L’ordinanza disciplina inoltre la procedura in materia di:
 
 <sup>2</sup> Se un gestore gestisce più unità di produzione, queste sono considerate come un’azienda.
 
-<sup>3</sup> Se coniugi o conviventi non separati oppure persone in unione domestica registrata non separate gestiscono più unità di produzione, queste sono considerate insieme come un’azienda. Fanno eccezione le aziende portate nella convivenza e che continuano a essere gestite come aziende autonome e indipendenti secondo l’articolo 6.[^2-2]
+<sup>3</sup> ...[^2-2]
 
 <sup>4</sup> Se un’azienda produce prodotti conformemente al titolo secondo della legge sull’agricoltura, il produttore è considerato gestore.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
+[^2-2]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 3
 
@@ -253,7 +253,7 @@ Vi è una comunità aziendale settoriale se:
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
 
-### Sezione 2*a*:**** Prestazioni per la produzione agricola e attività affini all’agricoltura
+### Sezione 2*a*: Prestazioni per la produzione agricola e attività affini all’agricoltura
 
 [^chap2-sec2a-1]
 
@@ -358,11 +358,15 @@ Le superfici ai sensi del capoverso 1 lettere d ed e sono considerate superficie
 - c.[^16-3] per le superfici ai sensi del capoverso 1 lettera e il contratto di affitto è stato concluso per scritto conformemente alle disposizioni determinanti della LAAgr[^16-4]; e
 - d. la particella gestita ha una superficie di almeno 25 are.[^16-5]
 
+<sup>4</sup> In deroga al capoverso 1 lettera b, le superfici o parti di superfici caratterizzate da un’elevata presenza di zigolo dolce sono considerate superficie agricola utile se il servizio cantonale competente rilascia un’autorizzazione per il risanamento della superficie mediante maggese nero. La superficie va gestita conformemente al promemoria della Conferenza dei servizi fitosanitari cantonali del 24 gennaio 2022[^16-6] concernente il maggese nero quale strumento di lotta contro lo zigolo dolce.[^16-7]
+
 [^16-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-4]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
 [^16-5]: Nuovo testo giusta il n. I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
+[^16-6]: Il promemoria può essere consultato su: [www.blw.admin.ch](http://www.blw.admin.ch) &gt; Strumenti &gt; Pagamenti diretti &gt; Condizioni/Termini &gt; Documentazione.
+[^16-7]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 17
 
@@ -382,20 +386,32 @@ Le superfici ubicate all’estero sono considerate superficie agricola utile di 
 
 <sup>4</sup> I Cantoni tengono un registro delle superfici all’estero coltivate per tradizione famigliare.
 
-[^17-1]: Nuovo testo giusta il n. 50 dell’all. 4 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^17-1]: Nuovo testo giusta l’all. 4 n. 50 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 18
 
 **Superficie coltiva**
 
-<sup>1</sup> Per superficie coltiva s’intende la superficie sottoposta a rotazione. È composta dalla superficie coltiva aperta e dai prati artificiali.
+<sup>1</sup> Per superficie coltiva s’intende la superficie sottoposta a rotazione. È composta dalla superficie coltiva aperta e dai prati temporanei[^18-1].
 
-<sup>2</sup> Per superficie coltiva aperta s’intende la superficie destinata alle colture campicole annuali, alle colture di ortaggi e di bacche annuali nonché a quelle delle piante aromatiche e medicinali annuali. Il maggese fiorito, il maggese da rotazione e le strisce su superficie coltiva fanno parte della superficie coltiva aperta.[^18-1]
+<sup>2</sup> Per superficie coltiva aperta s’intende la superficie destinata alle colture campicole annuali, alle colture di ortaggi e di bacche annuali nonché a quelle delle piante aromatiche e medicinali annuali. Il maggese fiorito, il maggese da rotazione e le strisce su superficie coltiva fanno parte della superficie coltiva aperta.[^18-2]
 
-<sup>3</sup> Per prato artificiale s’intende la superficie seminata a prato che nell’ambito di una rotazione viene sfruttata durante almeno un ciclo vegetativo.
+<sup>3</sup> Per prato temporaneo s’intende la superficie seminata a prato che nell’ambito di una rotazione viene sfruttata durante almeno un ciclo vegetativo.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+[^18-1]: Nuova espr. giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^18-2]: Nuovo testo giusta il n. I dell’O del 25 giu. 2008, in vigore dal 1° gen. 2009 ([RU 2008 3813](https://fedlex.data.admin.ch/eli/oc/2008/514)).
+
+#### Art. 18a
+
+**Coltura principale**[^18a-1]
+
+<sup>1</sup> La coltura principale è la coltura che occupa il terreno per più tempo nel corso del periodo di vegetazione e che è piantata al più tardi il 1° giugno.
+
+<sup>2</sup> Se a seguito di danni per cause di forza maggiore ai sensi dell’articolo 106 capoversi 2 lettere f e g nonché 3 OPD[^18a-2] la coltura principale piantata non può essere raccolta e viene arata dopo il 1° giugno, la coltura piantata successivamente entro fine giugno è considerata una coltura principale se può essere raccolta regolarmente.
+
+[^18a-1]: Introdotto dall’all. n. 3 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 19
 
@@ -435,7 +451,7 @@ Le superfici che non vengono falciate ogni anno, ma che soddisfano le condizioni
 
 **Superficie inerbita**
 
-Per superficie inerbita s’intende il prato artificiale (art. 18 cpv. 3) e la superficie permanentemente inerbita (art. 19).
+Per superficie inerbita s’intende il prato temporaneo (art. 18 cpv. 3) e la superficie permanentemente inerbita (art. 19).
 
 #### Art. 21
 
@@ -465,12 +481,13 @@ Per colture perenni s’intendono:
 
 Per frutteti s’intendono le colture compatte con una densità di:
 
-- a. almeno 300 alberi per ettaro in caso di meli, peri, prugni, susini, cotogni, kiwi e sambuchi;
+- a. almeno 300 alberi per ettaro in caso di meli, peri, prugni, susini, cotogni, kiwi, sambuchi, cachi, fichi, noccioli, mandorli e ulivi;
 - b. almeno 200 alberi per ettaro in caso di albicocchi e peschi;
-- c. almeno 100 alberi per ettaro in caso di ciliegi e noci.
+- c. almeno 100 alberi per ettaro in caso di ciliegi, noci e castagni al di fuori delle selve.[^22-3]
 
 [^22-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^22-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
+[^22-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
 
 #### Art. 23
 
@@ -534,21 +551,35 @@ Per pascoli d’estivazione s’intendono le superfici destinate esclusivamente 
 
 [^27-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 
-### Sezione 5: ...
+### Sezione 5: Foraggio
+
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Nuovo testo giusta l’all. n. 3 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 28
 
-[^28-1]
+**Foraggio di base**
 
-[^28-1]: Abrogato dal n. I dell’O del 31 ott. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4183](https://fedlex.data.admin.ch/eli/oc/2018/675)).
+Per foraggio di base s’intendono:
+
+- a. il foraggio ottenuto da superfici inerbite e terreni da strame: fresco, insilato o essiccato nonché la paglia;
+- b. le colture campicole coltivate a scopo foraggero nelle quali si raccoglie la pianta intera: fresche, insilate o essiccate, senza tritello di pannocchie di mais;
+- c. le radici di cicoria;
+- d. le foglie di barbabietola, la polpa di barbabietola fresca e la polpa a di barbabietola pressata;
+- e. la frutta fresca;
+- f. le patate non trasformate, compresi i cascami della cernita;
+- g. i cascami e i sottoprodotti non essiccati o concentrati della valorizzazione delle patate, della frutta e della verdura.
 
 #### Art. 29
 
-[^29-1]
+**Foraggio concentrato**
 
-[^29-1]: Abrogato dall’art. 14 dell’O del 8 nov. 2006 sulle designazioni «montagna» e «alpe», con effetto dal 1° gen. 2007 ([RU 2006 4833](https://fedlex.data.admin.ch/eli/oc/2006/747)).
+Per foraggio concentrato s’intendono tutti i foraggi di cui all’articolo 3 capoverso 1 dell’ordinanza del 26 ottobre 2011[^29-1] sugli alimenti per animali non contemplati dall’articolo 28.
 
-## Capitolo 3: Riconoscimento delle forme di azienda e di comunità aziendali, verifica delle superfici****
+[^29-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+
+## Capitolo 3: Riconoscimento delle forme di azienda e di comunità aziendali, verifica delle superfici
 
 [^chap3-1]
 
@@ -682,7 +713,7 @@ Le comunità per la tenuta di animali riconosciute fino al 31 dicembre 2003 sono
 
 La presente ordinanza entra in vigore il 1° gennaio 1999.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 27 cpv. 1)
 
