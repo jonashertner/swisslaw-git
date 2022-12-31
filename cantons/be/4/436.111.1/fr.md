@@ -4,13 +4,13 @@ number: "436.111.1"
 title: Ordonnance sur l’Université
 short: OUni
 language: fr
-version: 2020-10-12
-valid_until: 2022-12-31
-version_adopted: 2020-10-07
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-11-16
 adopted: 2012-09-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2031/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2743/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2031/pdf_file"
 
 (OUni)
 
-du 12.09.2012 (état au 12.10.2020)
+du 12.09.2012 (état au 01.01.2023)
 
-vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b, 67, 68, 78a et 81 de la loi du 5 septembre 1996 sur l’Université (LUni)[^ingress-1],
+Le Conseil-exécutif du canton de Berne,
 
-[^ingress-1]: RSB 436.11
+vu les articles 9, alinéa 4, 18, alinéa 2, 18a, alinéas 1 et 2, 22, alinéa 3, 25, 29, alinéa 5, 29f, alinéa 2, 64a, alinéa 2, 65, alinéa 5, 65a, alinéa 3, 65b, alinéa 3, 67, alinéa 4, 68, alinéa 3, 78a, 80 et 81 de la loi du 5 septembre 1996 sur l’Université (LUni)[^ingress-1],
+
+sur proposition de la Direction de l’instruction publique et de la culture,
+
+arrête:
+
+[^ingress-1]: RSB [436.11](https://www.belex.sites.be.ch/data/436.11/fr)
 
 ## 1 Dispositions générales
 
@@ -54,9 +60,9 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 **Assurance et développement de la qualité**
 
-<sup>1</sup> L’Université contrôle, garantit et développe régulièrement la qualité de la conduite, de l’enseignement, de la recherche et des services.
+<sup>1</sup> À l’aide d’un système d’assurance qualité, l’Université contrôle, garantit et développe régulièrement la qualité dans tous les domaines, notamment la conduite, l’enseignement, la recherche et les services.
 
-<sup>2</sup> Elle est compétente pour le développement et le choix des méthodes, des instruments et des processus d’assurance et de développement de la qualité, pour le suivi et l’évaluation des mesures prises dans ce domaine, ainsi que pour la mise en œuvre du programme correspondant.
+<sup>2</sup> En matière d’assurance et de développement de la qualité, elle tient compte des exigences de l’accréditation institutionnelle.
 
 <sup>3</sup> Les facultés et les autres unités administratives sont compétentes pour l’assurance et le développement de la qualité à leur niveau.
 
@@ -160,7 +166,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> La direction de l’Université édicte un règlement sur les diplômes étran-gers reconnus ou partiellement reconnus, dans lequel elle répertorie également les universités étrangères reconnues.
 
-<sup>3</sup> S’agissant de l’admission des personnes possédant un diplôme étranger aux filières d’études auxquelles l’accès est limité, l’annexe 2 est applicable.
+<sup>3</sup> …
 
 <sup>4</sup> L’Université peut exiger que les candidats et les candidates aux études universitaires prouvent qu’ils possèdent des connaissances suffisantes dans la langue d’enseignement.
 
@@ -204,23 +210,23 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 #### Art. 16
 
-**Capacité d’accueil**
-
-<sup>1</sup> Le Conseil-exécutif fixe, sur proposition de la direction de l’Université et après avoir consulté l’Association des étudiants et des étudiantes, la capacité d’accueil maximale pour la première année d’études de bachelor en médecine humaine, dentaire et vétérinaire, ainsi qu’en sciences sportives.
-
-<sup>2</sup> Ce faisant, il épuise les moyens financiers et les ressources en personnel, en locaux et en infrastructure disponibles dans la faculté concernée. Il tient également compte du nombre de places d’études cliniques.
-
-<sup>3</sup> La direction de l’Université fixe, pour chaque année d’études, le nombre de places d’études sur la base de la capacité d’accueil dans les filières menant au bachelor.
+**…**
 
 #### Art. 17
 
 **Fixation des restrictions d’admission**
 
-<sup>1</sup> Dans les conditions fixées à l’article 29c LUni, le Conseil-exécutif peut arrêter des restrictions d’admission pour les filières d’études menant au bachelor et décider de soumettre les candidats et les candidates à un test d’aptitude.
+<sup>1</sup> Dans les conditions fixées à l’article 29c LUni, le Conseil-exécutif définit chaque année, pour les filières d’études de bachelor en médecine humaine, dentaire et vétérinaire, ainsi qu’en sciences sportives, la capacité d’accueil et le pourcentage pertinent de dépassement du nombre d’inscriptions pour le test d’aptitude.
 
-<sup>2</sup> Pour qu’un test d’aptitude soit pratiqué dans les filières d’études médicales, il faut qu’en dépit de transferts vers d’autres universités, le nombre de candidats et de candidates dépasse la capacité d’accueil d’un certain pourcentage fixé par le Conseil-exécutif.
+<sup>2</sup> Si le nombre d’inscriptions dépasse le pourcentage fixé, un test d’aptitude est organisé.
 
-<sup>3</sup> Pour qu’un test d’aptitude soit pratiqué dans les filières d’études en sciences sportives, il faut que le nombre de candidats et de candidates dépasse la capacité d’accueil d’un certain pourcentage fixé par le Conseil-exécutif.
+<sup>3</sup> …
+
+#### Art. 17a
+
+**Candidats et candidates de nationalité étrangère**
+
+<sup>1</sup> Pour l’admission de candidats et de candidates de nationalité étrangère aux études de médecine, l’annexe 2 s’applique en outre.
 
 #### Art. 18
 
@@ -248,7 +254,10 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 **Participation aux frais**
 
-<sup>1</sup> Les candidats et les candidates doivent s’acquitter d’une participation de 200 francs aux frais engagés pour l’organisation et la mise en œuvre du test d’aptitude.
+<sup>1</sup> Le montant dont les candidats et les candidates doivent s’acquitter pour participer aux frais engagés pour l’organisation et la mise en œuvre du test d’aptitude s’élève à
+
+- a 300 francs pour les filières d’études médicales et
+- b 200 francs pour les filières d’études en sciences sportives.
 
 <sup>2</sup> Cette participation doit être versée à l’organe compétent au moins 45 jours avant le passage du test ou à la date fixée par l’autorité chargée des convocations. Toute personne ne l’ayant pas acquittée dans le délai imparti n’est pas admise à passer le test. Son inscription est considérée comme retirée.
 
@@ -262,7 +271,11 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> Pour les filières d’études médicales, les candidats et les candidates sont répartis dans les universités pratiquant également un test d’aptitude.
 
-<sup>3</sup> Lors de l’affectation aux différents lieux d’études conformément à l’alinéa 2, les préférences des candidats et des candidates sont satisfaites dans la mesure du possible. Les critères pris en compte sont d’abord les résultats au test, puis le lieu de domicile et, dans des cas exceptionnels, la situation personnelle du candidat ou de la candidate.
+<sup>3</sup> Lors de l’affectation aux différents lieux d’études conformément à l’alinéa 2, les préférences des candidats et des candidates sont satisfaites dans la mesure du possible. Les critères pris en compte sont les résultats au test, le lieu de domicile et, dans des cas exceptionnels, la situation personnelle du candidat ou de la candidate.
+
+<sup>3a</sup> Après le premier tour d’affectation, les places d’études restantes sont attribuées en coordination avec l’organe désigné par la Conférence suisse des hautes écoles.
+
+<sup>3b</sup> La procédure d’affectation prend fin dix jours avant le début des cours.
 
 <sup>4</sup> Les dispositions relatives à l’immatriculation à l’Université de Berne sont réservées.
 
@@ -278,7 +291,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 **2. Sans répétition du test**
 
-<sup>1</sup> Les candidats et les candidates qui se réinscrivent à une filière d’études médicales l’année suivant celle où ils ont passé le test peuvent renoncer à le repasser. C’est alors le résultat obtenu au test de l’année précédente qui compte.
+<sup>1</sup> Les candidats et les candidates qui se réinscrivent à une filière d’études l’année suivant celle où ils ont passé le test peuvent renoncer à le repasser. C’est alors le résultat obtenu au test de l’année précédente qui compte.
 
 <sup>2</sup> Le résultat au test est converti sur une échelle équivalente à celle du test de l’année en cours. Le résultat de cette conversion est déterminant.
 
@@ -286,7 +299,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 **Irrégularités pendant le test**
 
-<sup>1</sup> Quiconque perturbe le bon déroulement du test peut se voir renvoyer avant la fin du test par la personne chargée de la surveillance. Le résultat au test pris en compte est celui atteint au moment de l’exclusion.
+<sup>1</sup> Quiconque perturbe le bon déroulement du test peut se voir renvoyé avant la fin du test par la personne chargée de la surveillance. Le résultat au test pris en compte est celui atteint au moment de l’exclusion.
 
 <sup>2</sup> Quiconque essaie d’influer sur le résultat au test en usant de procédés frauduleux peut se voir renvoyer avant la fin du test par la personne chargée de la surveillance. Sont réputés frauduleux notamment l’usage de matériel non autorisé ou l’accomplissement d’une partie du test en dehors du temps imparti.
 
@@ -312,9 +325,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>3</sup> A défaut de confirmation, la décision d’admission est considérée comme annulée, et la place d’études est disponible.
 
-<sup>4</sup> Les places d’études ainsi libérées sont attribuées selon la procédure décrite à l’article 21 à des candidats et des candidates ayant passé le test lors de la même session mais n’ayant pas encore obtenu de place d’études.
-
-<sup>5</sup> Un candidat ou une candidate ayant obtenu une place dans une filière d’études en sciences sportives peut également faire valoir son droit pour l’année universitaire suivante.
+<sup>4–5</sup> …
 
 #### Art. 27
 
@@ -365,9 +376,9 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 **Admission**
 
-<sup>1</sup> Toute personne souhaitant être admise en tant que doctorant ou doctorante doit posséder un master universitaire ou un titre équivalent.
+<sup>1</sup> Toute personne souhaitant être admise en tant que doctorant ou doctorante doit posséder un master universitaire ou un titre équivalent ou doit pouvoir justifier de qualifications exceptionnelles.
 
-<sup>1a</sup> La direction de l’Université règle par voie de règlement les modalités d'application concernant l’équivalence des titres.
+<sup>1a</sup> La direction de l’Université règle par voie de règlement les modalités d’application concernant l’équivalence des titres et les qualifications exceptionnelles.
 
 <sup>2</sup> Les règlements de promotion fixent les modalités concernant les conditions d’admission.
 
@@ -390,11 +401,11 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 - c le conseil aux études,
 - d les examens,
 - e la reconnaissance de résultats obtenus dans d’autres parcours d’études,
-- f les exigences pour l’octroi des diplômes de bachelor et master et du doctorat.
+- f les exigences pour l’octroi des titres de bachelor, de master et de doctorat.
 
 <sup>3</sup> La Direction de l’instruction publique et de la culture approuve ces règlements.
 
-<sup>4</sup> La direction de l'Université décide des dérogations aux dispositions des règlements d'études et de promotion qui sont nécessaires en raison des mesures selon la législation sur les épidémies. Les mesures doivent être de durée limitée et soumises à l'approbation de la Direction de l'instruction publique et de la culture. La direction de l'Université s'adresse au sénat si ces mesures doivent être prolongées.
+<sup>4</sup> Après avoir consulté les facultés, l’Association des étudiants et des étudiantes ainsi que l’association d’intérêts des enseignants et des enseignantes et celle des assistants et des assistantes selon les articles 26 et 28 LUni, la direction de l’Université décide des dérogations aux dispositions des règlements d’études et de promotion qui sont nécessaires en raison des mesures selon la législation sur les épidémies. Les dérogations doivent être de durée limitée et soumises à l’approbation de la Direction de l’instruction publique et de la culture.
 
 ### 2.7 Durée des études, prolongation et congé
 
@@ -472,9 +483,11 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> Celle-ci comprend
 
-- a l'assurance contre les accidents à l'Université: 8 francs
-- b le sport universitaire: 13 francs
-- c les institutions sociales et culturelles: 13 francs
+- a l’assurance contre les accidents à l’Université: 3 francs
+- b le sport universitaire: 17 francs
+- c les institutions sociales et culturelles: 14 francs
+
+<sup>2a</sup> La direction de l’Université fixe les modalités de détail par voie de règlement.
 
 <sup>3</sup> Les étudiants et les étudiantes membres de l’Association des étudiants et des étudiantes (AEB) paient 21 francs supplémentaires.
 
@@ -536,15 +549,11 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> Il y a infraction au règlement disciplinaire lorsque des étudiants ou des étudiantes contreviennent au règlement interne ou au règlement des études, ou enfreignent, pendant leurs études, les interdictions ou les prescriptions légales.
 
-<sup>2</sup> Il y a infraction au principe d’intégrité de la science lorsque des étudiants ou des étudiantes
+<sup>2</sup> Il y a infraction à l’intégrité scientifique lorsque des étudiants ou des étudiantes contreviennent aux règles relatives à l’intégrité scientifique et aux bonnes pratiques scientifiques qui sont fixées dans le règlement correspondant de l’Université.
 
-- a utilisent les résultats de recherche de tiers sans en citer la source et les font passer ainsi pour les leurs;
-- b falsifient des résultats de recherche en présentant intentionnellement de manière erronée le processus de recherche ou
-- c contreviennent d’une autre manière aux règles de bonne pratique scientifique.
+<sup>3</sup> En cas d’infraction mineure au règlement disciplinaire ou aux règles relatives à l’intégrité scientifique, le doyen ou la doyenne de la faculté concernée peut donner un avertissement à la personne fautive.
 
-<sup>3</sup> En cas d’infraction mineure au règlement disciplinaire ou contre le principe d’intégrité de la science, le doyen ou la doyenne de la faculté concernée peut donner un avertissement à la personne fautive.
-
-<sup>4</sup> En cas d’infractions graves ou répétées au règlement disciplinaire ou contre le principe d’intégrité de la science, les sanctions suivantes peuvent être prononcées:
+<sup>4</sup> En cas d’infractions graves ou répétées au règlement disciplinaire ou aux règles relatives à l’intégrité scientifique, les sanctions suivantes peuvent être prononcées:
 
 - a avertissement par le recteur ou la rectrice;
 - b exclusion par la direction de l’Université de certains cours ou des prestations de certaines institutions universitaires pour un ou plusieurs semestres, ces deux mesures pouvant être cumulées;
@@ -566,8 +575,10 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 - a des membres du corps enseignant,
 - b des assistants et des assistantes,
-- c des doctorants et des doctorantes engagés,
+- c …
 - d des autres collaborateurs et collaboratrices.
+
+<sup>2</sup> Le personnel financé par des fonds de tiers au sens de l’article 9, alinéa 3 LUni fait partie, selon ses qualifications et son statut, de l’une des catégories visées à l’alinéa 1.
 
 #### Art. 49
 
@@ -597,6 +608,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 - e médecins assistants et médecins assistantes de la médecine humaine/dentaire,
 - e1 médecins assistants et médecins assistantes de la médecine vétérinaire,
 - e2 assistants et assistantes scientifiques,
+- e3 doctorants et doctorantes engagés,
 - f assistants et assistantes auxiliaires.
 
 <sup>2</sup> Les chefs et les cheffes de clinique ainsi que les médecins assistants et les médecins assistantes de la médecine humaine/dentaire entrent dans le champ d’application de la présente ordonnance pour autant qu’ils ne soient pas soumis à la législation sur les soins hospitaliers.
@@ -609,29 +621,30 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> La direction de l’Université engage le personnel universitaire sur proposition de l’institut compétent, de la faculté compétente ou d’une autre unité administrative compétente.
 
-<sup>2</sup> L’engagement, à durée déterminée ou indéterminée, est régi par un contrat de droit public.
+<sup>2</sup> …
 
-<sup>3</sup> La direction de l’Université définit les modalités d’engagement par voie de règlement.
+<sup>3</sup> La direction de l’Université
 
-<sup>4</sup> La législation cantonale sur le personnel est applicable si la présente ordonnance ne fixe pas de dispositions particulières en la matière.
+- a définit les modalités d’engagement par voie de règlement;
+- b peut déléguer sa compétence d’engagement à certains membres de la direction par voie de règlement.
+
+<sup>4</sup> …
 
 #### Art. 51a
 
-**Rapports de travail relevant de la recherche et de l’enseignement**
+**Durée du contrat**
 
-<sup>1</sup> L’article 16a, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^51a-1] n’est pas applicable aux rapports de travail relevant de la recherche et de l’enseignement.
+<sup>1</sup> L’article 16a, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^51a-1] n’est pas applicable
 
-<sup>2</sup> Les personnes engagées pour une durée déterminée à l’Université depuis plus de cinq ans sans interruption ont droit aux rentes particulières prévues à l’article 33 LPers en cas de résiliation non fautive de leurs rapports de travail. Les professeurs assistants et les professeures assistantes avec ou sans prétitularisation conditionnelle, les enseignants assistants et les enseignantes assistantes avec prétitularisation conditionnelle, les chargés et les chargées de cours, les assistants et les assistantes ainsi que les doctorants et les doctorantes ne sont pas concernés. Les articles 33 à 35 LPers s’appliquent par analogie.
+- a aux professeurs assistants et aux professeures assistantes avec ou sans prétitularisation conditionnelle,
+- b aux enseignants assistants et aux enseignantes assistantes avec prétitularisation conditionnelle,
+- c aux assistants et aux assistantes au sens de l’article 50,
+- d aux chargés et aux chargées de cours,
+- e au personnel financé par des fonds de tiers.
 
-<sup>3</sup> La durée des engagements en tant que professeur assistant ou professeure assistante avec ou sans prétitularisation conditionnelle, enseignant assistant ou enseignante assistante avec prétitularisation conditionnelle, chargé ou chargée de cours, assistant ou assistante ou doctorant ou doctorante n’entre pas dans le calcul de la durée d’engagement visée à l’alinéa 2.
+<sup>2–6</sup> …
 
-<sup>4</sup> La fin de rapports de travail à durée déterminée causée par l’expiration du contrat est assimilée à une résiliation non fautive des rapports de travail au sens de l’alinéa 2.
-
-<sup>5</sup> Si aucun nouveau contrat de travail n’est conclu après la fin de rapports de travail à durée déterminée au sens de l’alinéa 2, le supérieur ou la supérieure hiérarchique doit en informer le collaborateur ou la collaboratrice concernée au moins trois mois avant la fin du contrat. Si l’annonce intervient plus tard, les rapports de travail s'achèvent à la fin du troisième mois suivant cette annonce mais au plus tard trois mois après la date de fin d’engagement convenue initialement.
-
-<sup>6</sup> L’Université indemnise l’institution de prévoyance compétente pour les prestations et la charge administrative supplémentaires ainsi que les pertes de recettes résultant des droits à des rentes particulières visés à l’alinéa 2.
-
-[^51a-1]: RSB 153.01
+[^51a-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
 
 #### Art. 52
 
@@ -645,17 +658,123 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>4</sup> …
 
+#### Art. 52a
+
+**Entretien d’évaluation périodique**
+
+<sup>1</sup> Les supérieurs et les supérieures ont périodiquement, mais au moins une fois par an, avec chacun de leurs collaborateurs et chacune de leurs collaboratrices un entretien d’évaluation périodique au cours duquel est dressé un bilan.
+
+<sup>2</sup> L'entretien d'évaluation périodique porte essentiellement sur la détermination des objectifs à atteindre, les conditions et l’ambiance de travail, l’évolution et les perspectives professionnelles ainsi que sur l’évaluation des performances et du comportement du collaborateur ou de la collaboratrice concernée.
+
+<sup>3</sup> L’évaluation des performances et du comportement influence le traitement du collaborateur ou de la collaboratrice concernée.
+
+<sup>4</sup> Sont exemptés de cet entretien
+
+- a le recteur ou la rectrice,
+- b les vice-recteurs et les vice-rectrices,
+- c le directeur administratif ou la directrice administrative,
+- d les professeurs et les professeures ordinaires et extraordinaires,
+- e les professeurs assistants et les professeures assistantes avec prétitularisation conditionnelle,
+- f les professeurs assistants et les professeures assistantes,
+- g les enseignants assistants et les enseignantes assistantes avec prétitularisation conditionnelle,
+- h les chargés et les chargées de cours,
+- i les enseignants et les enseignantes invités.
+
+#### Art. 52b
+
+**Révision de l’appréciation résultant de l’entretien d’évaluation périodique**
+
+<sup>1</sup> S’il ou elle estime que l’appréciation de ses performances et de son comportement est incorrecte ou contraire à la réalité, un collaborateur ou une collaboratrice peut s’adresser au supérieur ou à la supérieure de son supérieur ou de sa supérieure hiérarchique directe dans un délai de dix jours suivant la réception des résultats écrits de l’entretien d’évaluation périodique afin d’en demander la révision.
+
+<sup>2</sup> La révision au sens de l’alinéa 1 est réalisée dans le cadre d’un entretien dont le résultat est consigné par écrit.
+
+<sup>3</sup> S’il ou elle n’est pas d’accord avec le résultat de la révision, le collaborateur ou la collaboratrice peut remettre une déclaration écrite en ce sens pour son dossier personnel.
+
+#### Art. 52c
+
+**Financement de la progression du traitement**
+
+<sup>1</sup> La part de la masse salariale que le Conseil-exécutif alloue chaque année à la progression générale et à la progression individuelle des traitements s’applique par analogie à l’Université.
+
+#### Art. 52d
+
+**Progression individuelle du traitement sans évaluation des performances et du comportement**
+
+<sup>1</sup> Pour le directeur administratif ou la directrice administrative ainsi que pour les professeurs et les professeures ordinaires et extraordinaires, des échelons de traitement sont octroyés sans évaluation des performances et du comportement.
+
+<sup>2</sup> La direction de l’Université fixe chaque année le nombre d’échelons de traitement qui est octroyé aux collaborateurs et aux collaboratrices visés à l’alinéa 1. Elle tient compte à cet effet de l’évolution du traitement des collaborateurs et des collaboratrices soumis à l’évaluation des performances et du comportement.
+
+#### Art. 52e
+
+**Organisation de l’entretien d’évaluation périodique, de l’évaluation des performances et du comportement ainsi que de la progression individuelle du traitement**
+
+<sup>1</sup> Au surplus, la direction de l’Université définit, par voie de règlement, les modalités relatives à l’entretien d’évaluation périodique, à l’évaluation des performances et du comportement ainsi qu’à la progression individuelle du traitement.
+
 #### Art. 53
 
-**Vacances et solde horaire**
+**Modèle de temps de travail**
 
-<sup>1</sup> Le corps enseignant prend en principe ses vacances en dehors des périodes de cours.
+<sup>1</sup> La direction de l’Université édicte, par voie de règlement, les dispositions dérogeant à la législation sur le personnel dans les domaines suivants pour les collaborateurs et les collaboratrices concernés par des rapports de travail spécifiques à l’Université:
 
-<sup>2</sup> Le recteur ou la rectrice statue sur les demandes exceptionnelles des membres du corps enseignant sur proposition de la faculté.
+- a l’indemnisation des soldes de vacances et des soldes horaires,
+- b les comptes épargne-temps,
+- c le droit à des indemnités supplémentaires pour le travail effectué dans des conditions spéciales et leur montant,
+- d la saisie du temps de travail et les vacances,
+- e les congés de courte durée,
+- f la prime de fidélité.
 
-<sup>3</sup> La réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire contenue dans les articles 129a et 129b de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^53-1] ainsi que celle relative au compte épargne-temps contenue dans les articles 160a ss OPers ne s’appliquent pas au corps enseignant.
+<sup>2</sup> La direction de l’Université informe en temps utile les associations de personnel de toutes les dispositions dérogeant à la législation sur le personnel dans les domaines énumérés à l’alinéa 1.
 
-[^53-1]: RSB 153.011.1
+<sup>3</sup> Elle consulte les associations de personnel avant d’édicter des dérogations importantes et entretient, en fonction des besoins, un dialogue avec elles.
+
+#### Art. 53a
+
+**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps des enseignants et enseignantes**
+
+<sup>1</sup> Les enseignants et les enseignantes ne sont ni concernés par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire et n’ont pas de compte épargne-temps.
+
+#### Art. 53b
+
+**Travail de nuit et de fin de semaine**
+
+<sup>1</sup> Pour fixer le cadre de l’horaire de travail de nuit et de fin de semaine, les normes minimales suivantes s’appliquent:
+
+- a Est considéré comme travail de nuit le travail accompli entre 23 heures et 6 heures.
+- b Est considéré comme travail de fin de semaine le travail accompli le dimanche et les jours fériés officiels entre 6 heures et 23 heures.
+
+#### Art. 53c
+
+**Saisie du temps de travail pour les fonctions particulières**
+
+<sup>1</sup> Concernant la saisie du temps de travail, le directeur administratif ou la directrice administrative ainsi que le secrétaire général ou la secrétaire générale sont considérés comme ayant des fonctions analogues conformément à l’article 57a, alinéa 1 LPers.
+
+#### Art. 53d
+
+**Activités annexes**
+
+<sup>1</sup> Les activités annexes sont autorisées pour autant qu’elles n’entravent ni l’accomplissement des tâches des collaborateurs et des collaboratrices, ni le fonctionnement de l’Université. Il y a entrave en particulier lorsque l’activité annexe est incompatible avec la fonction, qu’il y a un conflit d’intérêts ou que la capacité de travail du collaborateur ou de la collaboratrice est mise à contribution durablement et considérablement.
+
+<sup>2</sup> La direction de l’Université fixe les modalités de détail par voie de règlement, en particulier concernant l’obligation d’autoriser, de déclarer et de publier, ainsi que l’indemnisation. Le règlement est porté à la connaissance de la Direction de l’instruction publique et de la culture.
+
+<sup>3</sup> Les activités annexes soumises à autorisation qui sont exercées par des membres de la direction de l’Université sont autorisées par la Direction de l’instruction publique et de la culture.
+
+<sup>4</sup> La direction de l’Université vérifie les déclarations annuelles concernant les activités annexes des professeurs et des professeures ordinaires et extraordinaires.
+
+<sup>5</sup> Le recteur ou la rectrice rédige chaque année un rapport sur les activités annexes des professeurs et des professeures ordinaires et extraordinaires ainsi que sur les éventuelles mesures prises et le porte à la connaissance de l’Office de l’enseignement supérieur.
+
+#### Art. 53e
+
+**Publication des mandats exercés dans des conseils d’administration ou des conseils de fondation**
+
+<sup>1</sup> Les mandats exercés dans des conseils d’administration ou dans des conseils de fondation par des membres de la direction de l’Université, par le secrétaire général ou la secrétaire générale ainsi que par des professeurs ou des professeures ordinaires ou extraordinaires sont publiés chaque année sur le site Internet de l’Université.
+
+#### Art. 53f
+
+**Congé de recherche ou de formation pour les enseignants et enseignantes**
+
+<sup>1</sup> La direction de l’Université peut, en accord avec la faculté compétente, octroyer un congé aux enseignants et enseignantes afin de leur permettre de se consacrer à leurs recherches en étant déchargés de toute activité d’enseignement.
+
+<sup>2</sup> Elle fixe, par voie de règlement, les modalités de détail concernant l’octroi de congés de recherche ou de formation ainsi que les droits et les obligations qui y sont liés.
 
 #### Art. 54
 
@@ -675,19 +794,9 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 [^54-1]: RS 831.40
 
-#### Art. 55
+#### Art. 55–56
 
-**Assurance d’indemnités journalières en cas de maladie**
-
-<sup>1</sup> L’Université peut conclure une assurance collective d’indemnités journalières en cas de maladie pour les collaborateurs et les collaboratrices dont le traitement est financé par des contributions de tiers.
-
-<sup>2</sup> La participation à la prime est la même pour les collaborateurs et les collaboratrices dont le traitement est financé par des contributions de tiers que pour les autres collaborateurs et collaboratrices.
-
-#### Art. 56
-
-**Résiliation en cas de suppression des contributions de tiers**
-
-<sup>1</sup> S’agissant des engagements relevant de la recherche et de l’enseignement conclus pour une durée déterminée et financés par des contributions de tiers, la suppression de ces fonds constitue un motif pertinent de résiliation des rapports de travail au sens de la législation sur le personnel.
+**…**
 
 #### Art. 57
 
@@ -700,6 +809,36 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 <sup>3</sup> Pour de justes motifs, le supérieur ou la supérieure hiérarchique ou un organe supérieur peut approuver un délai de résiliation plus court ou un autre terme de départ.
 
 <sup>4</sup> Le délai et les termes de résiliation des rapports de travail durant la période probatoire sont régis par la législation sur le personnel.
+
+#### Art. 57a
+
+**Libération des fonctions d’un collaborateur ou d’une collaboratrice engagée pour une durée déterminée**
+
+<sup>1</sup> La direction de l’Université peut libérer de ses fonctions avant la ​fin de ses rapports de travail​ un collaborateur ou une collaboratrice engagée pour une durée déterminée lorsque cette libération est dans l’intérêt public.
+
+<sup>2</sup> Un collaborateur ou une collaboratrice peut être libérée de ses fonctions au plus tôt trois mois avant la fin des rapports de travail par expiration du contrat.
+
+<sup>3</sup> Au surplus, les dispositions de la législation sur le personnel concernant la libération des fonctions s’appliquent par analogie.
+
+#### Art. 57b
+
+**Convention de départ**
+
+<sup>1</sup> Dans le cadre d’une convention de départ (art. 27a LPers), la durée de résiliation ordinaire de six mois pour les collaborateurs et les collaboratrices peut être prolongée du double au maximum.
+
+<sup>2</sup> Au surplus, les dispositions de la législation sur le personnel concernant la convention de départ s’appliquent.
+
+#### Art. 57c
+
+**Conséquences de la fin des rapports de travail**
+
+<sup>1</sup> A la résiliation des rapports de travail, les personnes suivantes n’ont pas droit aux indemnités et rentes prévues aux articles 32 et 33 LPers:
+
+- a les professeurs assistants et les professeures assistantes avec ou sans prétitularisation conditionnelle,
+- b les enseignants assistants et les enseignantes assistantes avec prétitularisation conditionnelle,
+- c les assistants et les assistantes au sens de l’article 50,
+- d les chargés et les chargées de cours,
+- e le personnel financé par des fonds de tiers.
 
 #### Art. 58
 
@@ -716,6 +855,14 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 **Redevance annuelle obligatoire pour le personnel de l’Université**
 
 <sup>1</sup> Le personnel de l’Université, à l’exception des assistants et des assistantes auxiliaires immatriculés en tant qu’étudiants et étudiantes, verse une redevance annuelle correspondant à un pour mille de son traitement annuel (13<sup>e</sup> mois compris, mais allocations pour enfants et allocations d’entretien exclues) afin de contribuer au financement des institutions sociales et culturelles et du sport universitaire visés à l’article 4.
+
+#### Art. 59a
+
+**Remboursement des frais**
+
+<sup>1</sup> Les frais occasionnés aux collaborateurs et aux collaboratrices par l’accomplissement de leurs tâches leur sont remboursés.
+
+<sup>2</sup> La direction de l’Université fixe les modalités de détail par voie de règlement. Celui-ci est porté à la connaissance de la Direction de l’instruction publique et de la culture.
 
 ### 3.3 Tâches des différentes catégories de personnel et prescriptions particulières
 
@@ -737,13 +884,13 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> La faculté concernée élabore en règle générale un rapport structurel sur lequel se fonde la direction de l’Université pour arrêter la création, la modification, la suppression et l’attribution de charges de professorat ordinaire et extraordinaire.
 
-<sup>3</sup> Si, exceptionnellement, aucun rapport structurel n’est élaboré, le représentant ou la représentante des étudiants et des étudiantes ainsi que celui ou celle des assistants et des assistantes sont entendus.
+<sup>3</sup> Si, exceptionnellement, aucun rapport structurel n’est élaboré, l’Association des étudiants et des étudiantes ainsi que l’association d’intérêts des enseignants et des enseignantes et celle des assistants et des assistantes selon les articles 26 et 28 LUni sont entendues.
 
 <sup>4</sup> La direction de l’Université prend ses décisions en accord avec la faculté concernée.
 
 <sup>5</sup> Elle fixe les modalités de détail par voie de règlement.
 
-<sup>6</sup> Les règlements des facultés régissent la composition des commissions compétentes pour élaborer les propositions correspondantes. Une représentation des étudiants et des étudiantes ainsi que des assistants et des assistantes doit être garantie.
+<sup>6</sup> Les règlements des facultés régissent la composition des commissions compétentes pour élaborer les propositions correspondantes. Une représentation de l’Association des étudiants et des étudiantes ainsi que de l’association d’intérêts des enseignants et des enseignantes et de celle des assistants et des assistantes selon les articles 26 et 28 LUni doit être garantie.
 
 #### Art. 62
 
@@ -756,8 +903,8 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 <sup>3</sup> Il est possible de renoncer à la mise au concours
 
 - a …
-- b si un professeur assistant ou associé ou une professeure assistante ou associée est promue en interne professeur ou professeure extraordinaire ou si un professeur ou une professeure extraordinaire est promue en interne professeur ou professeure ordinaire;
-- c si le temps presse compte tenu de l’intérêt particulièrement marqué de l’Université à recruter une personne donnée au poste concerné.
+- b si une personne est promue en interne professeur ou professeure ordinaire ou extraordinaire;
+- c s’il existe un intérêt marqué à recruter une personne disposant de qualifications exceptionnelles au poste concerné.
 
 #### Art. 63
 
@@ -857,7 +1004,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> La création d’une charge de professorat assistant avec prétitularisation conditionnelle requiert en règle générale que la faculté concernée adresse à la direction de l’Université un rapport structurel faisant état de la charge de professorat extraordinaire ou ordinaire envisagée pour l’avenir, et contenant une proposition.
 
-<sup>2</sup> La direction de l’Université définit la procédure d’engagement. La participation des étudiants et des étudiantes ainsi que des assistants et assistantes doit être garantie.
+<sup>2</sup> La direction de l’Université définit la procédure d’engagement. La participation de l’Association des étudiants et des étudiantes ainsi que de l’association d’intérêts des enseignants et des enseignantes et de celle des assistants et des assistantes selon les articles 26 et 28 LUni doit être garantie.
 
 #### Art. 72
 
@@ -938,7 +1085,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> Les professeurs assistants et les professeures assistantes sont engagés pour une durée maximale de quatre ans, quel que soit leur degré d’occupation.
 
-<sup>2</sup> Dans des cas motivés, l’engagement peut être prolongé de deux ans au plus après la réalisation d’une évaluation par la faculté concernée.
+<sup>2</sup> Dans des cas motivés, l’engagement peut être prolongé de deux ans au plus après la réalisation d’une évaluation par la faculté concernée, notamment en cas de maladie, d’accident, de grossesse, de service militaire, de service civil ou de charges familiales.
 
 <sup>3</sup> Les congés non payés ne sont pas comptabilisés dans les années de service.
 
@@ -1030,7 +1177,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> La durée de l’engagement des assistants et des assistantes se fonde sur les articles 83b, 86, 87, alinéa 2, 89, alinéa 2 et 90, alinéa 2.
 
-<sup>2</sup> A titre exceptionnel, la direction de l’Université peut prolonger la durée des engagements d’assistants et d’assistantes. La prolongation dure deux années au plus pour l’ensemble de la durée de l’assistanat. Sont réservées les situations dans lesquelles ce délai paraît inéquitable au vu des circonstances ou serait contraire aux prescriptions du Fonds national suisse de la recherche scientifique (FNS) ou d’autres instances de soutien.
+<sup>2</sup> A titre exceptionnel, la direction de l’Université peut prolonger la durée des engagements d’assistants et d’assistantes, notamment en cas de maladie, d’accident, de grossesse, de service militaire, de service civil ou de charges familiales. La prolongation dure deux années au plus pour l’ensemble de la durée de l’assistanat. Sont réservées les situations dans lesquelles ce délai paraît inéquitable au vu des circonstances ou serait contraire aux prescriptions du Fonds national suisse de la recherche scientifique (FNS) ou d’autres instances de soutien.
 
 <sup>3</sup> Sont pris en compte dans la durée de l’assistanat tous les engagements dans une catégorie d’assistanat à l’exception de l’engagement en tant qu’assistant ou assistante auxiliaire.
 
@@ -1066,9 +1213,9 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> …
 
-<sup>2</sup> L’engagement comme chef ou cheffe de clinique II requiert un diplôme fédéral en médecine, un diplôme d’une faculté ou un titre équivalent et, en règle générale, un titre de spécialiste en médecine.
+<sup>2</sup> L’engagement comme chef ou cheffe de clinique II requiert un diplôme fédéral en médecine, un diplôme de master de la faculté correspondante ou un titre équivalent et, en règle générale, un titre de spécialiste en médecine.
 
-<sup>3</sup> L’engagement comme médecin assistant ou médecin assistante de la médecine humaine/dentaire ou comme médecin assistant ou médecin assistante de la médecine vétérinaire requiert un diplôme fédéral en médecine, un diplôme d’une faculté ou un titre équivalent.
+<sup>3</sup> L’engagement comme médecin assistant ou médecin assistante de la médecine humaine/dentaire ou comme médecin assistant ou médecin assistante de la médecine vétérinaire requiert un diplôme fédéral en médecine, un diplôme de master de la faculté correspondante ou un titre équivalent.
 
 #### Art. 85
 
@@ -1110,13 +1257,13 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> Exceptionnellement, ils peuvent rédiger une thèse. Au moins un tiers du temps de travail peut être utilisé à cet effet. La direction de l’Université fixe les modalités de détail par voie de règlement.
 
-### 3.3.7.4 Doctorants et doctorantes
+### 3.3.7.4 Doctorants et doctorantes engagés
 
 #### Art. 89
 
 <sup>1</sup> Les doctorants et les doctorantes sont autorisés, dans le cadre de leur engagement, à participer aux tâches d’enseignement et de recherche de leur institut ou d’une autre unité administrative à un degré d’occupation maximal de dix pour cent.
 
-<sup>2</sup> La durée de l’engagement en tant que doctorant ou doctorante est limitée à quatre ans.
+<sup>2</sup> La durée de l’engagement des doctorants et des doctorantes est limitée à quatre ans.
 
 <sup>3</sup> La direction de l’Université détermine la grille des traitements sur la base des prescriptions du FNS.
 
@@ -1130,198 +1277,70 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> Les assistants et assistantes auxiliaires sont engagés pour une durée maximale de quatre ans, quel que soit leur degré d’occupation.
 
-### 3.4 Activités annexes
+### 3.3.8 Personnel financé par des fonds de tiers
 
-#### Art. 91
+#### Art. 90a
 
-**Droit applicable**
+**Assurance d’indemnités journalières en cas de maladie**
 
-<sup>1</sup> Les activités annexes du corps enseignant ainsi que des assistants et des assistantes ressortissant à leur spécialité sont régies par la présente ordonnance.
+<sup>1</sup> L’Université peut conclure une assurance collective d’indemnités journalières en cas de maladie pour les collaborateurs et les collaboratrices financés par des fonds de tiers.
 
-<sup>2</sup> Les autres activités annexes du corps enseignant ainsi que des assistants et des assistantes, toutes celles des autres collaborateurs et collaboratrices ainsi que l’exercice d’une charge publique sont régis par la législation sur le personnel. L’alinéa 4 est réservé.
+<sup>2</sup> La participation à la prime est la même pour les collaborateurs et les collaboratrices financés par des fonds de tiers que pour les autres collaborateurs et collaboratrices.
 
-<sup>3</sup> L’activité médicale privée exercée par les professeurs et les professeures ordinaires et extraordinaires dans les hôpitaux universitaires est régie par les dispositions de la législation sur les hôpitaux.
+#### Art. 90b
 
-<sup>4</sup> L’ensemble des mandats d’administrateur ou d’administratrice et des mandats dans les conseils de fondation des membres du corps enseignant ainsi que des assistants et des assistantes nécessitent une autorisation de la direction de l’Université et doivent être déclarés conformément à l’article 94.
+**Fin des rapports de travail**
 
-#### Art. 92
+<sup>1</sup> Le supérieur ou la supérieure hiérarchique doit informer le collaborateur ou la collaboratrice financée par des fonds de tiers de la fin des rapports de travail au moins trois mois avant l'échéance du contrat si
 
-**Définition**
+- a aucun nouveau contrat de travail n’est conclu et si
+- b le collaborateur ou la collaboratrice financée par des fonds de tiers est engagée à durée déterminée et a travaillé plus de cinq ans sans interruption à l’Université.
 
-<sup>1</sup> Sont considérées comme activités annexes ressortissant à la spécialité au sens de la présente ordonnance les activités
+<sup>2</sup> Si la fin de l’engagement est communiquée plus tard, les rapports de travail s’achèvent à la fin du troisième mois suivant cette annonce mais au plus tard trois mois après la date de fin d’engagement convenue initialement.
 
-- a qui ne sont pas directement liées à l’accomplissement du mandat d’enseignement, de recherche ou de prestations de services et
-- b que la personne accomplit en grande partie personnellement.
+#### Art. 90c
 
-<sup>2</sup> Il peut notamment s’agir
+**Droits en cas de fin des rapports de travail**
 
-- a de mandats d’enseignement dans le domaine de la formation ou de la formation continue dans d’autres hautes écoles ou institutions,
-- b de services tels que des activités de conseil, des mandats d’administrateur ou d’administratrice, des mandats dans les conseils de fondation ou des arbitrages.
+<sup>1</sup> Un collaborateur ou une collaboratrice financée par des fonds de tiers a droit à une indemnité de départ si
 
-#### Art. 93
+- a les rapports de travail ont pris fin dans le délai fixé par le contrat ou en raison de l’épuisement des fonds de tiers;
+- b il ou elle a travaillé pendant au moins dix ans sans interruption à l’Université et si
+- c l’Université ne peut lui proposer aucun poste acceptable.
 
-**Conditions et étendue de l’activité**
+<sup>2</sup> Le calcul de l’indemnité de départ est régi par l’article 123, alinéas 2 et 3 de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^90c-1]. L’indemnité ne doit pas dépasser le montant correspondant à 18 mois de traitement de la personne concernée.
 
-<sup>1</sup> Les activités annexes ne doivent pas entraver ni concurrencer le mandat de base du collaborateur ou de la collaboratrice, ni le fonctionnement et les intérêts de l’Université.
+<sup>3</sup> La durée d’exercice d’une fonction selon l’article 51a, alinéa 1, lettres a à d n’est pas prise en compte pour l’octroi du droit à une indemnité de départ. Cette durée est considérée comme une interruption de l’engagement.
 
-<sup>2</sup> La dispense de cours prime l’exercice d’activités annexes et ne peut être confiée à un remplaçant ou une remplaçante pour l’exercice d’activités annexes.
+[^90c-1]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
 
-<sup>3</sup> Si l’activité annexe mobilise durablement et substantiellement la personne intéressée, il y a lieu en principe de réduire en conséquence son degré d’occupation.
+#### Art. 90d
 
-<sup>4</sup> Les activités annexes ne peuvent pas être exercées au nom de l’Université.
+**Versement de l’indemnité de départ**
 
-#### Art. 94
+<sup>1</sup> En cas d’octroi d’une indemnité de départ, celle-ci est versée en mensualités. Une mensualité correspond au traitement mensuel brut calculé selon l’article 90c, alinéa 2, déduction faite des cotisations aux assurances sociales.
 
-**Déclaration personnelle**
+<sup>2</sup> La personne concernée doit déclarer par écrit à l’Université, au plus tard le 10 du mois, qu’elle n’est engagée nulle part ailleurs à un poste acceptable ou qu’elle ne perçoit aucun revenu de remplacement comparable.
 
-<sup>1</sup> Les activités annexes exercées durant l’année concernée, le temps qui leur a été consacré, les revenus qui en ont été tirés ainsi que l’infrastructure utilisée dans ce cadre doivent être déclarés au recteur ou à la rectrice.
+<sup>3</sup> Si la personne concernée trouve, dans les 18 mois suivant la résiliation de ses rapports de travail, un poste acceptable au sein de l’Université ou chez un autre employeur, ou qu’elle perçoit un revenu de remplacement comparable, l’indemnité de départ est réduite ou supprimée.
 
-<sup>2</sup> Les professeurs et les professeures ordinaires et extraordinaires sont tenus de compléter chaque année le formulaire correspondant, les autres membres du corps enseignant ainsi que les assistants et les assistantes seulement s’ils ont exercé une activité annexe au cours de l’année visée.
+<sup>4</sup> Si le nouvel engagement à un poste acceptable est résilié durant la période probatoire ou que l’engagement auprès de l’Université ou d’un autre employeur s’avère ne pas être acceptable, l’ancien collaborateur ou l’ancienne collaboratrice a de nouveau droit à l’indemnité de départ comme s’il ou elle n’avait pas encore trouvé de nouveau poste acceptable.
 
-<sup>3</sup> Le recteur ou la rectrice établit chaque année un rapport sur l’ensemble des activités annexes des professeurs et des professeures ordinaires et extraordinaires. Ce rapport est approuvé par la direction de l’Université qui prend des mesures le cas échéant. Celle-ci adresse une copie du rapport à la Direction de l’instruction publique et de la culture pour information.
+<sup>5</sup> L’article 31 LPers ainsi que les dispositions de l’ordonnance du 16 septembre 2020 sur le placement de personnel (OPlac)[^90d-1] sont déterminants pour juger de l’acceptabilité d’un autre poste.
 
-#### Art. 95
+[^90d-1]: RSB [153.011.2](https://www.belex.sites.be.ch/data/153.011.2/fr)
 
-**Autorisation**
+### 3.4
 
-<sup>1</sup> Les activités annexes suivantes ne nécessitent pas d’autorisation:
+#### Art. 91–97
 
-- a les mandats d’enseignement dans d’autres hautes écoles suisses, s’ils comprennent deux leçons au maximum par semaine, ou quatre leçons au maximum par semaine pour la durée d’une année d’études au plus, dans le cadre d’accords de coopération de l’Université;
-- b les mandats d’enseignement dans d’autres écoles suisses, s’ils comprennent deux leçons au maximum par semaine, dans le cadre d’accords de coopération de l’Université;
-- c les activités d’expert ou d’experte lors d’examens cantonaux ou fédéraux et
-- d les activités d’expert ou d’experte au sein d’agences nationales de promotion de la recherche.
+**…**
 
-<sup>2</sup> Les autres activités annexes, notamment des mandats dans le domaine du conseil et de la formation continue ou dans des conseils d’administration ou de fondation, sont soumises à l’autorisation de la direction de l’Université.
+### 3.5
 
-<sup>3</sup> Les membres du corps enseignant ainsi que les assistants et les assistantes qui exercent leur activité à temps partiel n’ont besoin d’une autorisation que si la durée totale des activités annexes et de l’activité ordinaire dépassent le temps de travail normal. Les mandats d’administrateur ou d’administratrice et les mandats dans les conseils de fondation nécessitent une autorisation dans tous les cas.
+#### Art. 98–109
 
-<sup>4</sup> La participation de collaborateurs et collaboratrices à la création de fondations, sociétés ou associations en rapport avec l’Université ou ses membres requiert l’autorisation de la direction de l’Université.
-
-#### Art. 96
-
-**Indemnité pour l’utilisation de l’infrastructure**
-
-<sup>1</sup> Si l’infrastructure de l’Université est utilisée pour l’accomplissement d’activités annexes, il y a lieu de verser une indemnité couvrant les coûts.
-
-<sup>2</sup> Il y a utilisation de l’infrastructure de l’Université notamment lorsque
-
-- a des membres du personnel universitaire collaborent à des activités annexes ou effectuent des travaux supplémentaires découlant de ces activités;
-- b des appareils ou du matériel sont utilisés ou que
-- c des locaux de l’Université sont occupés.
-
-<sup>3</sup> Si l’exercice d’une activité annexe nécessite une utilisation de l’infrastructure de longue durée, le montant de l’indemnité doit être fixé dans un contrat conclu entre l’Université, représentée par sa direction, et l’enseignant ou l’enseignante concernée ou l’assistant ou l’assistante concernée.
-
-<sup>4</sup> Le montant de l’indemnité peut être fixé forfaitairement sur la base de valeurs indicatives déterminées par la direction de l’Université.
-
-#### Art. 97
-
-**Assurance**
-
-<sup>1</sup> Il incombe à l’enseignant ou l’enseignante et à l’assistant ou l’assistante de s’assurer contre les risques encourus lors d’une activité annexe.
-
-### 3.5 Congés de recherche et de formation
-
-#### Art. 98
-
-**Principe**
-
-<sup>1</sup> La direction de l’Université peut, en accord avec la faculté compétente, octroyer un congé aux membres du corps enseignant afin de leur permettre de se consacrer à leurs recherches en étant déchargés de toute activité d’enseignement.
-
-#### Art. 99
-
-**Congé à l’expiration du mandat**
-
-<sup>1</sup> La Direction de l’instruction publique et de la culture peut octroyer sur demande au recteur ou à la rectrice ou au vice-recteur ou à la vice-rectrice un congé exceptionnel à l’expiration de son mandat.
-
-<sup>2</sup> La direction de l’Université peut octroyer aux doyens et aux doyennes un congé exceptionnel à l’expiration de leur mandat.
-
-#### Art. 100
-
-**Durée du congé**
-
-<sup>1</sup> Un congé dure six mois au maximum.
-
-<sup>2</sup> La direction de l’Université peut, exceptionnellement et en accord avec la faculté compétente, octroyer un congé plus long aux professeurs et aux professeures ordinaires et extraordinaires.
-
-#### Art. 101
-
-**Coordination et procédure**
-
-<sup>1</sup> Chaque faculté coordonne les demandes de congé des membres de son corps enseignant et veille à ce que les activités d’enseignement et de recherche ainsi que les services et les tâches administratives continuent d’être assurés.
-
-<sup>2</sup> Le membre du corps enseignant doit faire parvenir sa demande de congé à la direction de l’Université par la voie de service au moins six mois avant le début du congé.
-
-<sup>3</sup> La demande est motivée et contient des indications sur le projet poursuivi.
-
-<sup>4</sup> Une fois le congé terminé, celui-ci doit faire l’objet d’un rapport présenté à la direction de l’Université.
-
-<sup>5</sup> Lorsque la demande concerne des membres du corps enseignant employés par un hôpital universitaire, la direction de l’Université entend la direction de l’hôpital concerné avant d’approuver cette demande.
-
-#### Art. 102
-
-**Conditions et date du dernier congé**
-
-<sup>1</sup> Les conditions d’octroi d’un congé sont les suivantes:
-
-- a un degré d’occupation de 50 pour cent au moins,
-- b un engagement à durée indéterminée et
-- c l’accomplissement de six années de service au moins préalablement à chaque congé.
-
-<sup>2</sup> Pour de justes motifs, il est possible de déroger aux conditions visées à l’alinéa 1 si le congé concerne des professeurs ou des professeures ordinaires ou extraordinaires.
-
-<sup>3</sup> Le congé n’est pas comptabilisé dans les années de service prises en compte pour déterminer la période entre deux congés.
-
-<sup>4</sup> Le dernier congé commence en principe au plus tard trois années avant la retraite. Pour de justes motifs, la direction de l’Université peut autoriser un début plus tardif.
-
-#### Art. 103
-
-**Réduction du traitement**
-
-<sup>1</sup> Pendant leur congé, le traitement mensuel des membres du corps enseignant, y compris le 13e mois, est réduit de dix pour cent. Les allocations pour enfants et d’entretien ne sont pas réduites.
-
-#### Art. 104
-
-**Remplacement**
-
-<sup>1</sup> Le membre du corps enseignant doit, d’entente avec l’institut ou une autre unité administrative et la faculté concernée, veiller à ce que son remplacement soit assuré.
-
-<sup>2</sup> Les remplacements sont financés par la réduction salariale visée à l’article 103 et par d’autres fonds de l’institut, d’une autre unité administrative ou de la faculté concernée.
-
-#### Art. 105
-
-**Décalage**
-
-<sup>1</sup> Si le congé d’un professeur ou d’une professeure ordinaire ou extraordinaire doit, pour de justes motifs, être décalé, la période le séparant du congé suivant peut être raccourcie ou rallongée en conséquence.
-
-#### Art. 106
-
-**Obligation de rembourser 1. Principe**
-
-<sup>1</sup> Le membre du corps enseignant s’engage par écrit avant le début du congé à rembourser la totalité ou une partie du traitement perçu pendant le congé (hors allocations pour enfants et allocations d’entretien) en cas de rupture des rapports de travail pendant le congé ou dans les deux années qui suivent le congé. La date du départ détermine l’étendue du remboursement.
-
-<sup>2</sup> L’obligation de rembourser ne s’applique pas lors de congés exceptionnels, ni en cas de décès ou d’invalidité du membre du corps enseignant.
-
-#### Art. 107
-
-**2. Etendue**
-
-<sup>1</sup> Le montant à rembourser conformément à l’article 106 est le suivant:
-
-- a 100 pour cent en cas de départ pendant le congé;
-- b 50 pour cent en cas de départ dans l’année qui suit le congé;
-- c 25 pour cent en cas de départ au cours de la deuxième année qui suit le congé.
-
-#### Art. 108
-
-**3. Dispense de rembourser**
-
-<sup>1</sup> Si l’obligation de rembourser constitue pour le membre du corps enseignant concerné une situation de rigueur particulière, la direction de l’Université peut renoncer totalement ou partiellement au remboursement.
-
-#### Art. 109
-
-**Validation des activités de recherche et d’enseignement effectuées**
-
-<sup>1</sup> Lors de l’engagement de professeurs ou de professeures ordinaires ou extraordinaires, les activités de recherche et d’enseignement que ces personnes ont effectuées antérieurement peuvent être prises en compte de manière appropriée dans le calcul des années de service nécessaires à l’octroi du premier congé. Cette validation est limitée à trois années de service.
+**…**
 
 ## 4 Services permanents
 
@@ -1332,14 +1351,14 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 <sup>1</sup> Les unités administratives suivantes fournissent des services permanents:
 
 - a Institut d’hygiène et de microbiologie médicale,
-- b Institut de pathologie,
+- b Institut de médecine tissulaire et de pathologie,
 - c Institut de médecine légale,
 - d Cliniques de médecine dentaire,
 - e Département de médecine vétérinaire clinique,
 - f Institut de parasitologie,
 - g Institut de pathologie animale,
 - h Institut de bactériologie vétérinaire,
-- i Centre de médecine pour poissons et animaux sauvages.
+- i Institut pour la santé des poissons et de la faune sauvage.
 
 <sup>2</sup> La nature et le volume des services sont fixés par la direction de l’Université dans la convention de prestations ou d’objectifs assignée à l’unité administrative sur la base du mandat de prestations confié par le Conseil-exécutif.
 
@@ -1389,17 +1408,17 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>1</sup> Si la personne désignée au poste de recteur ou de rectrice est déjà engagée à l’Université, elle est, pendant toute la durée de son mandat, totalement dégagée des obligations liées à la charge qu’elle occupait jusqu’à sa désignation.
 
-<sup>2</sup> Durant son mandat de recteur ou de rectrice, elle perçoit une indemnité de fonction de 40 000 francs par an qui vient s’ajouter à son traitement ordinaire.
+<sup>2</sup> Durant son mandat de recteur ou de rectrice, elle perçoit une indemnité de fonction de 40'000 francs par an qui vient s’ajouter à son traitement ordinaire.
 
 <sup>3</sup> Si la personne désignée au poste de recteur ou de rectrice n’est pas engagée à l’Université au moment de sa désignation, le Conseil-exécutif détermine les conditions d’engagement applicables.
 
 #### Art. 116
 
-**Vice-recteurs ou vice-rectrices**
+**Vice-recteurs et vice-rectrices**
 
 <sup>1</sup> Si la personne désignée au poste de vice-recteur ou de vice-rectrice est déjà engagée à l’Université, elle est, pendant toute la durée de son mandat, dégagée à hauteur de 50 pour cent des obligations liées à la charge qu’elle occupait jusqu’à sa désignation.
 
-<sup>2</sup> Durant son mandat de vice-recteur ou de vice-rectrice, elle perçoit une indemnité de fonction de 12 500 francs par an.
+<sup>2</sup> Durant leur mandat, les vice-recteurs et les vice-rectrices perçoivent une indemnité de fonction de 12'500 francs par an.
 
 <sup>3</sup> Pour de justes motifs, le recteur ou la rectrice peut déterminer un autre pourcentage pour la fonction exercée au sein de la direction de l’Université. L’indemnité de fonction visée à l’alinéa 2 est adaptée en conséquence.
 
@@ -1418,6 +1437,14 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 <sup>1</sup> Si la Direction de l’instruction publique et de la culture et le sénat envisagent conjointement de ne pas reconduire à son poste ou de révoquer un membre de la direction de l’Université ou de licencier le directeur administratif ou la directrice administrative, ils doivent en faire la demande commune au Conseil-exécutif.
 
 <sup>2</sup> En cas de désaccord, la Direction de l’instruction publique et de la culture décide si une demande doit ou non être déposée auprès du Conseil-exécutif.
+
+### 5.2a Congé de recherche ou de formation après la fin du mandat
+
+#### Art. 118a
+
+<sup>1</sup> La Direction de l’instruction publique et de la culture peut octroyer sur demande, au recteur ou à la rectrice ou aux vice-recteurs et aux vice-rectrices, un congé de recherche ou de formation exceptionnel après la fin de leur mandat.
+
+<sup>2</sup> Les droits et les obligations liés au congé sont fixés dans le règlement édicté par la direction de l’Université conformément à l’article 53f.
 
 ### 5.3 Contrats
 
@@ -1596,11 +1623,13 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 #### Art. 134
 
-**Administration des traitements**
+**Assurances sociales et administration des traitements**
 
-<sup>1</sup> Le canton assure le versement des traitements et l’affiliation de l’Université aux assurances sociales.
+<sup>1</sup> Le canton assure le décompte des traitements et l’affiliation de l’Université aux assurances sociales.
 
-<sup>2</sup> L’administration des traitements s’effectue au moyen du système d’information sur le personnel du canton de Berne via l’Office du personnel.
+<sup>2</sup> L’Université assure l’administration des traitements par le biais du système d’information sur le personnel du canton.
+
+<sup>2a</sup> Elle se charge du versement des traitements.
 
 <sup>3</sup> Les parties concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
 
@@ -1633,7 +1662,7 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 <sup>4</sup> Comme autres membres sont élus
 
 - a deux professeurs ou professeures ordinaires ou extraordinaires de l'Université de Berne,
-- b un enseignant ou une enseignante au sens de l'article 21, alinéa 1, lettres c à e LUni ou un assistant ou une assistante au sens de l'article 50, alinéa 1, lettres a à d et
+- b un enseignant ou une enseignante au sens de l'article 21, alinéa 1, lettres c à e LUni ou un assistant ou une assistante au sens de l'article 50, alinéa 1, lettres a à e3 et
 - c un étudiant ou une étudiante de l'Université de Berne.
 
 #### Art. 137
@@ -1690,8 +1719,6 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 #### Art. T1-3
 
-<sup>1</sup> La durée des engagements conclus selon l’ancien droit entre dans le calcul de la durée d’engagement visée à l’article 51a, alinéa 2 OUni.
-
 #### Art. T1-4
 
 <sup>1</sup> Les nouvelles conditions d'admission aux études de médecine en Suisse figurant dans l'annexe 2 à l'article 11 OUni s'appliquent pour la première fois pour les admissions au semestre d'automne 2017.
@@ -1714,41 +1741,68 @@ vu les articles 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b,
 
 <sup>2</sup> La durée de l’engagement en tant que maître assistant ou maître assistante, qu’assistant ou assistante scientifique ayant effectué une thèse ou que postdoctorant ou postdoctorante ne peut dépasser dix ans au total.
 
+## T4 Dispositions transitoires de la modification du 16.11.2022
+
+#### Art. T4-1
+
+<sup>1</sup> Un candidat ou une candidate ayant obtenu une place dans une filière d’études en sciences sportives l’année précédente peut faire valoir son droit pour la dernière fois au semestre d’automne de l’année académique 2023-2024.
+
+#### Art. T4-2
+
+<sup>1</sup> La nouvelle composition de la taxe semestrielle selon l’article 40, alinéa 2 s’applique pour la première fois au semestre de printemps 2023.
+
+#### Art. T4-3
+
+<sup>1</sup> Les collaborateurs et les collaboratrices dont les rapports de travail ont été résiliés ou n’ont pas été prolongés avant le 1<sup>er</sup> janvier 2023 et qui, au moment de la résiliation des rapports de travail, remplissent les conditions requises pour avoir droit aux rentes particulières selon l’ancien droit (art. 51a, al. 2 à 4) conservent ce droit après l’entrée en vigueur de la présente modification.
+
+#### Art. T4-4
+
+<sup>1</sup> La durée des engagements conclus selon l’ancien droit entre dans le calcul de la durée d’engagement visée à l’article 90c, alinéa 1, lettre b.
+
+#### Art. T4-5
+
+<sup>1</sup> La direction de l’Université fixe, par voie de règlement, les adaptations nécessaires des rapports de travail existants au nouveau droit.
+
 ## A1
 
 #### Art. A1-1–A1-2
 
 **…**
 
-## A2 Annexe 2 à l’article 11: Admission de candidats et de candidates de nationalité étrangère aux études de médecine
+## A2 Annexe 2 à l’article 17a
 
 #### Art. A2-1
 
-<sup>1</sup> S’agissant de l’admission aux études de médecine, les personnes suivantes sont assimilées aux ressortissants et ressortissantes suisses:
+**Accès des candidats et des candidates de nationalité étrangère aux études de médecine**
 
-- a les ressortissants et les ressortissantes du Liechtenstein;
-- b les étrangers et les étrangères établis en Suisse ou au Liechtenstein;
-- c les ressortissants et les ressortissantes d’un Etat membre de l’Union européenne, d’Islande ou de Norvège en possession d’une autorisation de séjour en Suisse UE/AELE permettant l’exercice d’une activité lucrative et en mesure de prouver l'exercice d'une activité professionnelle en lien étroit avec les études de médecine envisagées;
-- d les enfants de ressortissants et de ressortissantes d’un Etat membre de l’Union européenne, d’Islande, de Norvège ou du Liechtenstein, quelle que soit leur nationalité, pour autant qu’ils possèdent une autorisation de séjour en Suisse en tant que membre de la famille d’un citoyen ou d’une citoyenne de l’UE ou de l’AELE;
-- e les étrangers et les étrangères domiciliés en Suisse dont les parents sont établis en Suisse;
-- f les étrangers et les étrangères domiciliés en Suisse mariés avec un ressortissant ou une ressortissante suisse ou dont le conjoint ou la conjointe est soit établie en Suisse depuis au moins cinq ans, soit en possession d’un permis de travail suisse depuis au moins cinq ans;
-- g les étrangers et les étrangères domiciliés en Suisse en possession d’un permis de travail suisse depuis au moins cinq ans ou dont les parents sont en possession d’un permis de travail suisse depuis au moins cinq ans;
-- h les étrangers et les étrangères domiciliés en Suisse en possession d’un certificat de maturité suisse. Sont assimilés à un certificat de maturité suisse les certificats de maturité cantonaux reconnus (conformément à l’ordonnance du Conseil fédéral du 15 février 1995 sur la reconnaissance des certificats de maturité gymnasiale[^A21-1]) et les certificats fédéraux de maturité professionnelle assortis d’un certificat attestant la réussite aux examens complémentaires (conformément à l’ordonnance du Conseil fédéral du 2 février 2011 relative à l’examen complémentaire permettant aux titulaires d’un certificat fédéral de maturité professionnelle d’être admis aux hautes écoles universitaires[^A21-2]);
-- i les étrangers et les étrangères dont les parents jouissent du statut de diplomate en Suisse;
-- j les réfugiés et les réfugiées reconnus par la Suisse.
-- 1\.–5. …
+<sup>1</sup> S’agissant de l’accès aux études de médecine, les personnes suivantes sont assimilées aux ressortissants et ressortissantes suisses:
 
-<sup>2</sup> Les étrangers et les étrangères sont traités sur un pied d'égalité avec les ressortissants et les ressortissantes suisses pour autant que les conditions suivantes soient satisfaites:
+- a les ressortissants et les ressortissantes de la Principauté du Liechtenstein;
+- b les étrangers et les étrangères établis en Suisse ou dans la Principauté du Liechtenstein;
+- c les ressortissants et les ressortissantes d’un Etat membre de l’Union européenne, d’Islande, de Norvège ou du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord en possession d’une autorisation de séjour en Suisse permettant l’exercice d’une activité lucrative et en mesure de prouver l’exercice en Suisse d’une activité professionnelle d’une année au moins en lien étroit avec les études de médecine envisagées;
+- d les enfants de ressortissants et de ressortissantes d’un Etat membre de l’Union européenne, d’Islande, de Norvège, de la Principauté du Liechtenstein ou du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, quelle que soit leur nationalité, pour autant qu’ils possèdent une autorisation de séjour en Suisse avec la mention «regroupement familial»;
+- e les étrangers et les étrangères domiciliés en Suisse
+  - 1\. qui disposent depuis au moins cinq ans sans interruption d’une autorisation de séjour en Suisse mentionnant comme objectif principal de séjour l’exercice d’une activité lucrative;
+  - 2\. qui sont titulaires d’un certificat de maturité suisse ou cantonal reconnu sur le plan suisse;
+  - 3\. qui sont titulaires d’un certificat fédéral de maturité professionnelle ou d’un certificat de maturité professionnelle liechtensteinois reconnu ou d’un certificat de maturité spécialisée reconnu à l’échelle suisse associé à un certificat d'examen complémentaire délivré par la Commission suisse de maturité;
+  - 4\. qui sont mariés ou en partenariat enregistré avec un ressortissant ou une ressortissante suisse;
+  - 5\. dont le conjoint ou la conjointe ou le partenaire enregistré ou la partenaire enregistrée est établie en Suisse;
+  - 6\. dont le conjoint ou la conjointe ou le partenaire enregistré ou la partenaire enregistrée est domiciliée en Suisse depuis au moins cinq ans et dispose de manière ininterrompue d’une autorisation de séjour mentionnant comme objectif principal de séjour l’exercice d’une activité lucrative;
+- f les étrangers et les étrangères domiciliés en Suisse depuis au moins deux ans
+  - 1\. dont les parents sont établis en Suisse;
+  - 2\. dont les parents sont domiciliés en Suisse depuis au moins cinq ans et disposent de manière ininterrompue d’une autorisation de séjour mentionnant comme objectif principal de séjour l’exercice d’une activité lucrative;
+- g les enfants dont les parents jouissent du statut de diplomate en Suisse (carte de légitimation établie par le Département fédéral des affaires étrangères de type «B», «C» et «D à bande bleue»;
+- h les réfugiés et les réfugiées reconnus par la Suisse.
+- i–5. …
 
-- a Les étrangers et les étrangères visés à l’alinéa 1, lettres a à i doivent être en possession des documents sur lesquels repose leur autorisation d’admission aux études de médecine en Suisse au plus tard le jour fixé par swissuniversities pour l’inscription aux études de médecine. Le titre justifiant la formation préparatoire n'est pas concerné.
-- b Les réfugiés et les réfugiées visés à l’alinéa 1, lettre j doivent avoir déposé leur demande d’asile au plus tard le jour fixé par swissuniversities pour l’inscription aux études de médecine. La demande doit avoir été admise au plus tard le dernier jour du délai d’immatriculation prévu par l’Université au sein de laquelle une place d’études leur a été attribuée.
+<sup>2</sup> Les conditions suivantes s’appliquent:
+
+- a La date de référence pour apporter la preuve que les conditions d'accès selon la présente annexe sont remplies est le dernier jour fixé par swissuniversities pour l’inscription à la filière choisie.
+- b Le titre justifiant la formation préalable selon l’alinéa 1, lettre e, chiffres 2 et 3 peut être transmis ultérieurement.
 
 <sup>3</sup> …
 
 <sup>4</sup> Les conditions générales d'admission de l'Université de Berne sont réservées.
-
-[^A21-1]: RS 413.11
-[^A21-2]: RS 413.14
 
 Berne, le 12 septembre 2012
 

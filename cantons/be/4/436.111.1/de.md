@@ -4,13 +4,13 @@ number: "436.111.1"
 title: Verordnung über die Universität
 short: UniV
 language: de
-version: 2020-10-12
-valid_until: 2022-12-31
-version_adopted: 2020-10-07
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-11-16
 adopted: 2012-09-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2031/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2743/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2031/pdf_file"
 
 (UniV)
 
-vom 12.09.2012 (Stand 12.10.2020)
+vom 12.09.2012 (Stand 01.01.2023)
 
-gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65, 65a, 65b, 67, 68, 78a und 81 des Gesetzes vom 5. September 1996 über die Universität (UniG)[^ingress-1],
+Der Regierungsrat des Kantons Bern,
 
-[^ingress-1]: BSG 436.11
+gestützt auf die Artikel 9 Absatz 4, 18 Absatz 2, 18a Absätze 1 und 2, 22 Absatz 3, 25, 29 Absatz 5, 29f Absatz 2, 64a Absatz 2, 65 Absatz 5, 65a Absatz 3, 65b Absatz 3, 67 Absatz 4, 68 Absatz 3, 78a, 80 und 81 des Gesetzes vom 5. September 1996 über die Universität (UniG)[^ingress-1],
+
+auf Antrag der Bildungs- und Kulturdirektion,
+
+beschliesst:
+
+[^ingress-1]: BSG [436.11](https://www.belex.sites.be.ch/data/436.11/de)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -54,9 +60,9 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 **Qualitätssicherung und -entwicklung**
 
-<sup>1</sup> Die Universität überprüft, sichert und entwickelt regelmässig die Qualität von Führung, Lehre, Forschung und Dienstleistung.
+<sup>1</sup> Die Universität überprüft, sichert und entwickelt anhand eines Qualitätssicherungssystems regelmässig die Qualität in allen Bereichen, namentlich in Führung, Lehre, Forschung und Dienstleistung.
 
-<sup>2</sup> Sie ist zuständig für die Entwicklung und Auswahl der Methoden, Instrumente und Prozesse der Qualitätssicherung und -entwicklung, für die Begleitung und Auswertung der hierzu notwendigen Massnahmen sowie für die Umsetzung des entsprechenden Konzepts.
+<sup>2</sup> Bei der Qualitätssicherung und -entwicklung berücksichtigt sie die Anforderungen der institutionellen Akkreditierung.
 
 <sup>3</sup> Die Fakultäten oder weiteren Organisationseinheiten sind zuständig für die Qualitätssicherung und -entwicklung auf ihrer Ebene.
 
@@ -160,7 +166,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>2</sup> Die Universitätsleitung erlässt ein Reglement über die anerkannten und teilanerkannten ausländischen Vorbildungs- und Studienausweise und bezeichnet darin die anerkannten ausländischen Universitäten.
 
-<sup>3</sup> Für die Zulassung von Personen mit ausländischen Vorbildungs- und Studienausweisen zu den Studiengängen mit Zulassungsbeschränkung gilt Anhang 2.
+<sup>3</sup> …
 
 <sup>4</sup> Die Universität kann den Nachweis genügender Sprachkenntnisse in der Unterrichtssprache verlangen.
 
@@ -204,23 +210,23 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 #### Art. 16
 
-**Aufnahmekapazität**
-
-<sup>1</sup> Der Regierungsrat legt auf Antrag der Universitätsleitung und nach Anhörung der Vereinigung der Studierenden die maximale Aufnahmekapazität für das erste Jahr der Bachelorstudiengänge der Human-, Zahn- und Veterinärmedizin sowie der Sportwissenschaft fest.
-
-<sup>2</sup> Er schöpft dabei die Lehrkapazität der betroffenen Fakultät hinsichtlich Personal, Räumlichkeiten, Finanzmittel und Infrastruktur aus und trägt den Klinikkapazitäten Rechnung.
-
-<sup>3</sup> Aufgrund der Aufnahmekapazität im Bachelorstudiengang legt die Universitätsleitung die konkrete Anzahl der Studienplätze für jedes Studienjahr fest.
+**…**
 
 #### Art. 17
 
 **Beschluss über die Zulassungsbeschränkung**
 
-<sup>1</sup> Der Regierungsrat kann unter den Voraussetzungen von Artikel 29c UniG beschliessen, dass die Zulassung für die Bachelorstudiengänge beschränkt ist und ein Eignungstest absolviert werden muss.
+<sup>1</sup> Der Regierungsrat legt für die Bachelorstudiengänge der Human-, Zahn-, und Veterinärmedizin sowie der Sportwissenschaft unter den Voraussetzungen von Artikel 29c UniG jährlich die Aufnahmekapazität sowie den für den Eignungstest relevanten Prozentsatz der Überschreitung der Anmeldezahlen fest.
 
-<sup>2</sup> Der Eignungstest wird bei den medizinischen Studiengängen erst durchgeführt, wenn nach erfolgten Umleitungen an andere Universitäten die Anzahl Anmeldungen die Aufnahmekapazität um einen vom Regierungsrat festzulegenden Prozentsatz überschreitet.
+<sup>2</sup> Überschreiten die Anmeldezahlen den festgelegten Prozentsatz, wird ein Eignungstest durchgeführt.
 
-<sup>3</sup> Er wird bei den Studiengängen der Sportwissenschaft erst durchgeführt, wenn die Anzahl Anmeldungen die Aufnahmekapazität um einen vom Regierungsrat festzulegenden Prozentsatz überschreitet.
+<sup>3</sup> …
+
+#### Art. 17a
+
+**Ausländische Studienanwärterinnen und Studienanwärter**
+
+<sup>1</sup> Für die Zulassung ausländischer Studienanwärterinnen und Studienanwärter zu den Studiengängen der Medizin gilt zusätzlich Anhang 2.
 
 #### Art. 18
 
@@ -248,7 +254,10 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 **Beitrag an die Kosten**
 
-<sup>1</sup> Studienanwärterinnen und -anwärter haben sich mit 200 Franken an den Kosten der Durchführung des Eignungstests zu beteiligen.
+<sup>1</sup> Der Beitrag der Studienanwärterinnen und Studienanwärter an die Kosten der Durchführung des Eignungstests beträgt
+
+- a 300 Franken für den Eignungstest zu den medizinischen Studiengängen,
+- b 200 Franken für den Eignungstest zu den sportwissenschaftlichen Studiengängen.
 
 <sup>2</sup> Dieser Beitrag ist spätestens 45 Tage vor dem Testtermin oder bis zum von der aufbietenden Stelle festgelegten späteren Termin an die zuständige Stelle zu entrichten. Wer den Beitrag nicht innert dieser Frist bezahlt, wird nicht zum Test zugelassen. Die entsprechende Anmeldung gilt als zurückgezogen.
 
@@ -260,25 +269,29 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Die Studienplätze werden gestützt auf die Testergebnisse zugeteilt.
 
-<sup>2</sup> Bei den medizinischen Studiengängen werden die Studienanwärterinnen und -anwärter auf diejenigen Universitäten verteilt, die auch einen Eignungstest durchführen.
+<sup>2</sup> Bei den medizinischen Studiengängen werden die Studienanwärterinnen und Studienanwärter auf diejenigen Universitäten verteilt, die auch einen Eignungstest durchführen.
 
-<sup>3</sup> Bei der Zuteilung zu den Studienorten gemäss Absatz 2 wird nach Möglichkeit den Wünschen der Studienanwärterinnen und -anwärter entsprochen. Es werden dabei vorab das Testergebnis, ferner der Wohnsitz und in Ausnahmefällen die persönlichen Verhältnisse berücksichtigt.
+<sup>3</sup> Bei der Zuteilung zu den Studienorten gemäss Absatz 2 wird nach Möglichkeit den Wünschen der Studienanwärterinnen und Studienanwärter entsprochen. Es werden dabei das Testergebnis, der Wohnsitz und in Ausnahmefällen die persönlichen Verhältnisse berücksichtigt.
+
+<sup>3a</sup> Nach der ersten Zuteilungsrunde werden freigebliebene Studienplätze in Koordination mit der von der Schweizerischen Hochschulkonferenz bestimmten Stelle vergeben.
+
+<sup>3b</sup> Das Zuteilungsverfahren wird zehn Tage vor Vorlesungsbeginn abgeschlossen.
 
 <sup>4</sup> Die Vorschriften über die Immatrikulation an der Universität Bern bleiben vorbehalten.
 
 #### Art. 22
 
-**Abgewiesene Studienanwärterinnen und –anwärter 1. Testwiederholung**
+**Abgewiesene Studienanwärterinnen und Studienanwärter 1. Testwiederholung**
 
-<sup>1</sup> Studienanwärterinnen und -anwärter, die aufgrund des Testergebnisses keinen Studienplatz erhalten haben, können sich wieder für das Studium anmelden und den Test wiederholen.
+<sup>1</sup> Studienanwärterinnen und Studienanwärter, die aufgrund des Testergebnisses keinen Studienplatz erhalten haben, können sich wieder für das Studium anmelden und den Test wiederholen.
 
-<sup>2</sup> Sie werden gleich behandelt wie erstmals angemeldete Studienanwärterinnen und -anwärter. Nur das letzterzielte Testergebnis zählt.
+<sup>2</sup> Sie werden gleich behandelt wie erstmals angemeldete Studienanwärterinnen und Studienanwärter. Nur das letzterzielte Testergebnis zählt.
 
 #### Art. 23
 
 **2. Ohne Testwiederholung**
 
-<sup>1</sup> Studienanwärterinnen und -anwärter für einen medizinischen Studiengang, die sich im Jahr, das ihrer Testabsolvierung folgt, erneut für das Studium anmelden, können auf eine Testwiederholung verzichten. Das im Vorjahr erzielte Testergebnis wird angerechnet.
+<sup>1</sup> Studienanwärterinnen und Studienanwärter, die sich im Jahr, das ihrer Testabsolvierung folgt, erneut für das Studium anmelden, können auf eine Testwiederholung verzichten. Das im Vorjahr erzielte Testergebnis wird angerechnet.
 
 <sup>2</sup> Das im Vorjahr erzielte Testergebnis wird auf eine Skala umgerechnet, die jener des Tests des laufenden Jahres gleichwertig ist. Massgebend ist der auf diese Weise berechnete Wert.
 
@@ -288,11 +301,11 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Wer den ordnungsgemässen Testablauf stört, kann durch die Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Als Testergebnis der Studienanwärterin oder des Studienanwärters zählt das bis zum Ausschluss erzielte Testergebnis.
 
-<sup>2</sup> Wer das Testergebnis durch Unredlichkeiten zu beeinflussen versucht, kann durch die Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Unredlichkeiten sind namentlich das Verwenden unerlaubter Hilfsmittel sowie das Bearbeiten eines Testabschnittes ausserhalb der dafür zugestandenen Zeit.
+<sup>2</sup> Wer das Testergebnis durch Unredlichkeiten zu beeinflussen versucht, kann durch die Aufsichtsperson von der weiteren Teilnahme am Test ausgeschlossen werden. Unredlichkeiten sind namentlich das Verwenden unerlaubter Hilfsmittel sowie das Bearbeiten eines Testabschnitts ausserhalb der dafür zugestandenen Zeit.
 
 <sup>3</sup> Wird eine Studienanwärterin oder ein Studienanwärter wegen Unredlichkeit von der weiteren Teilnahme am Test ausgeschlossen oder werden Unredlichkeiten nach Abschluss des Tests festgestellt, gilt ein Testergebnis von null Punkten.
 
-<sup>4</sup> Diese Bestimmungen sind beim Eignungstest für medizinische Studiengänge unabhängig vom jeweiligen Testort auf alle Studienanwärterinnen und -anwärter anwendbar, die als Studienort erster Wahl die Universität Bern angegeben haben.
+<sup>4</sup> Diese Bestimmungen sind beim Eignungstest für medizinische Studiengänge unabhängig vom jeweiligen Testort auf alle Studienanwärterinnen und Studienanwärter anwendbar, die als Studienort erster Wahl die Universität Bern angegeben haben.
 
 #### Art. 25
 
@@ -312,9 +325,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>3</sup> Bleibt die Bestätigung aus, gilt die Zulassungsverfügung als aufgehoben, und der Studienplatz ist frei verfügbar.
 
-<sup>4</sup> Frei gewordene Studienplätze werden nach dem Verfahren gemäss Artikel 21 Studienanwärterinnen und -anwärtern der gleichen Testkohorte zugeteilt, die noch keinen Studienplatz erhalten haben.
-
-<sup>5</sup> Der Anspruch auf den erteilten Studienplatz in Sportwissenschaft kann auch für das darauffolgende Studienjahr geltend gemacht werden.
+<sup>4–5</sup> …
 
 #### Art. 27
 
@@ -365,9 +376,9 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 **Zulassung**
 
-<sup>1</sup> Die Zulassung als Doktorandin oder Doktorand setzt einen universitären Masterabschluss oder einen gleichwertigen Studienabschluss voraus.
+<sup>1</sup> Die Zulassung als Doktorandin oder Doktorand setzt einen universitären Masterabschluss, einen gleichwertigen Studienabschluss oder ausgewiesene herausragende Qualifikationen voraus.
 
-<sup>1a</sup> Die Universitätsleitung regelt das Nähere zur Gleichwertigkeit durch Reglement.
+<sup>1a</sup> Die Universitätsleitung regelt das Nähere zur Gleichwertigkeit und zu den herausragenden Qualifikationen durch Reglement.
 
 <sup>2</sup> Einzelheiten zu den Zulassungsvoraussetzungen regeln die Promotionsreglemente.
 
@@ -390,11 +401,11 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 - c die Studienberatung,
 - d die Prüfungen,
 - e die Anerkennung anderer Studienleistungen,
-- f die Anforderungen für die Verleihung von Bachelor- und Masterdiplomen sowie Doktoraten.
+- f die Anforderungen für die Verleihung von Bachelor- und Mastertiteln sowie Doktoraten.
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion genehmigt die Reglemente.
 
-<sup>4</sup> Die Universitätsleitung beschliesst über Abweichungen von den Bestimmungen der Studien- und Promotionsreglemente, die aufgrund von Massnahmen nach der Epidemiengesetzgebung nötig sind. Die Massnahmen sind zeitlich zu befristen und unterliegen der Genehmigung der Bildungs- und Kulturdirektion. Die Universitätsleitung befasst den Senat, wenn die Massnahmen verlängert werden müssen.
+<sup>4</sup> Die Universitätsleitung beschliesst nach Anhörung der Fakultäten, der Vereinigung der Studierenden sowie der Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG über Abweichungen von den Bestimmungen der Studien- und Promotionsreglemente, die aufgrund von Massnahmen nach der Epidemiengesetzgebung nötig sind. Die Abweichungen sind zeitlich zu befristen und unterliegen der Genehmigung der Bildungs- und Kulturdirektion.
 
 ### 2.7 Studiendauer, Verlängerung und Beurlaubung
 
@@ -472,9 +483,11 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>2</sup> Diese setzt sich wie folgt zusammen:
 
-- a Betriebsunfallversicherung: 8 Franken
-- b Universitätssport: 13 Franken
-- c soziale und kulturelle Einrichtungen: 13 Franken
+- a Betriebsunfallversicherung: 3 Franken
+- b Universitätssport: 17 Franken
+- c soziale und kulturelle Einrichtungen: 14 Franken
+
+<sup>2a</sup> Die Universitätsleitung regelt die Einzelheiten durch Reglement.
 
 <sup>3</sup> Studierende, die der Vereinigung der Studierenden (SUB) angehören, bezahlen zusätzlich 21 Franken.
 
@@ -536,15 +549,11 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Ein Verstoss gegen die Disziplinarordnung liegt vor, wenn Studierende gegen die Haus- oder Studienordnung oder während ihres Studiums gegen Verbote oder Gebote der Rechtsordnung verstossen.
 
-<sup>2</sup> Ein Verstoss gegen den Grundsatz der Lauterkeit der Wissenschaft liegt vor, wenn Studierende
+<sup>2</sup> Ein Verstoss gegen die wissenschaftliche Integrität liegt vor, wenn Studierende gegen die im entsprechenden Reglement der Universität festgelegten Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis verstossen.
 
-- a Forschungsergebnisse Dritter ohne Angabe der Quellen verwenden und damit als eigene ausgeben,
-- b Forschungsergebnisse durch bewusst tatsachenwidrige Darstellung der Forschungsabläufe fälschen oder
-- c wenn in anderer Weise gegen die Regeln guter wissenschaftlicher Praxis verstossen wird.
+<sup>3</sup> Bei einem leichten Verstoss gegen die Disziplinarordnung oder gegen die wissenschaftliche Integrität kann die Dekanin oder der Dekan der zuständigen Fakultät der fehlbaren Person einen Verweis erteilen.
 
-<sup>3</sup> Bei einem leichten Verstoss gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft kann die Dekanin oder der Dekan der zuständigen Fakultät der fehlbaren Person einen Verweis erteilen.
-
-<sup>4</sup> Bei einem schweren oder wiederholten Verstoss gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft sind folgende Sanktionen möglich:
+<sup>4</sup> Bei einem schweren oder wiederholten Verstoss gegen die Disziplinarordnung oder gegen die wissenschaftliche Integrität sind folgende Sanktionen möglich:
 
 - a Die Rektorin oder der Rektor kann der fehlbaren Person einen Verweis erteilen.
 - b Die Universitätsleitung kann einen Ausschluss von einzelnen Lehrveranstaltungen oder von der Benützung einzelner Universitätseinrichtungen für die Dauer von einem oder mehreren Semestern verfügen, wobei diese Massnahmen miteinander verbunden werden können.
@@ -566,8 +575,10 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 - a die Dozentinnen und Dozenten,
 - b die Assistentinnen und Assistenten,
-- c die angestellten Doktorandinnen und Doktoranden,
+- c …
 - d die weiteren Mitarbeiterinnen und Mitarbeiter.
+
+<sup>2</sup> Drittmittelangestellte gemäss Artikel 9 Absatz 3 UniG gehören ihrer Qualifikation und Stellung entsprechend einer der Kategorien gemäss Absatz 1 an.
 
 #### Art. 49
 
@@ -597,6 +608,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 - e die Assistenzärztinnen und die Assistenzärzte Human-/Zahnmedizin,
 - e1 die Assistenzärztinnen und die Assistenzärzte Veterinärmedizin,
 - e2 die wissenschaftlichen Assistentinnen und Assistenten,
+- e3 die angestellten Doktorandinnen und Doktoranden,
 - f die Hilfsassistentinnen und Hilfsassistenten.
 
 <sup>2</sup> Oberärztinnen und Oberärzte sowie Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin fallen unter den Geltungsbereich dieser Verordnung, soweit sie nicht der Spitalgesetzgebung unterstehen.
@@ -609,29 +621,30 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Die Universitätsleitung stellt die Mitarbeiterinnen und Mitarbeiter auf Antrag des zuständigen Instituts, der zuständigen Fakultät oder einer anderen zuständigen Organisationseinheit an.
 
-<sup>2</sup> Die Anstellung erfolgt befristet oder unbefristet durch öffentlich-rechtlichen Vertrag.
+<sup>2</sup> …
 
-<sup>3</sup> Die Universitätsleitung regelt die Einzelheiten der Anstellung durch Reglement.
+<sup>3</sup> Die Universitätsleitung
 
-<sup>4</sup> Soweit diese Verordnung keine besonderen personalrechtlichen Bestimmungen enthält, gilt die kantonale Personalgesetzgebung.
+- a regelt die Einzelheiten der Anstellung durch Reglement,
+- b kann die Anstellungsbefugnis durch Reglement an einzelne Universitätsleitungsmitglieder delegieren.
+
+<sup>4</sup> …
 
 #### Art. 51a
 
-**Arbeitsverhältnisse in Forschung und Lehre**
+**Vertragsdauer**
 
-<sup>1</sup> Bei Arbeitsverhältnissen in Forschung und Lehre ist Artikel 16a Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^51a-1] nicht anwendbar.
+<sup>1</sup> Artikel 16a Absatz 2 des Personalgesetzes vom 16. September 2004 (PG)[^51a-1] gilt nicht für
 
-<sup>2</sup> Befristet angestellte Personen, die länger als fünf Jahre ohne Unterbruch an der Universität angestellt sind, haben bei einer unverschuldeten Auflösung des Arbeitsverhältnisses Anspruch auf besondere Renten gemäss Artikel 33 PG. Davon ausgenommen sind Assistenzprofessorinnen und Assistenzprofessoren mit und ohne Tenure Track, Assistenzdozentinnen und Assistenzdozenten mit Tenure Track, Lehrbeauftragte, Assistentinnen und Assistenten sowie Doktorandinnen und Doktoranden. Die Artikel 33 bis 35 PG sind sinngemäss anwendbar.
+- a Assistenzprofessorinnen und Assistenzprofessoren mit oder ohne Tenure Track,
+- b Assistenzdozentinnen und Assistenzdozenten mit Tenure Track,
+- c Assistentinnen und Assistenten gemäss Artikel 50,
+- d Lehrbeauftragte,
+- e Drittmittelangestellte.
 
-<sup>3</sup> Die Dauer der Anstellung als Assistenzprofessorin oder Assistenzprofessor mit und ohne Tenure Track, Assistenzdozentin oder Assistenzdozent mit Tenure Track, Lehrbeauftragte oder Lehrbeauftragter, Assistentin oder Assistent sowie Doktorandin oder Doktorand wird nicht an die Anstellungsdauer gemäss Absatz 2 angerechnet.
+<sup>2–6</sup> …
 
-<sup>4</sup> Einer unverschuldeten Auflösung des Arbeitsverhältnisses gemäss Absatz 2 ist die Beendigung des befristeten Arbeitsverhältnisses durch Zeitablauf gleichgestellt.
-
-<sup>5</sup> Wird nach Beendigung eines befristeten Arbeitsverhältnisses gemäss Absatz 2 kein neuer Arbeitsvertrag begründet, hat die vorgesetzte Person die betreffende Mitarbeiterin oder den betreffenden Mitarbeiter mindestens drei Monate vor Vertragsende darüber zu informieren. Bei späterer Mitteilung endet das Arbeitsverhältnis am Monatsende des dritten Monats nach dieser Mitteilung, spätestens drei Monate nach dem ursprünglichen Vertragsende.
-
-<sup>6</sup> Die Universität vergütet der zuständigen Vorsorgeeinrichtung die aus den besonderen Rentenansprüchen nach Absatz 2 anfallenden Mehrleistungen und Mindereinnahmen sowie den damit verbundenen administrativen Aufwand.
-
-[^51a-1]: BSG 153.01
+[^51a-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
 
 #### Art. 52
 
@@ -645,17 +658,123 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>4</sup> …
 
+#### Art. 52a
+
+**Durchführung des Mitarbeitergesprächs**
+
+<sup>1</sup> Die Vorgesetzten führen periodisch, aber mindestens jährlich, mit jeder Mitarbeiterin und jedem Mitarbeiter ein Mitarbeitergespräch im Sinne einer Standortbestimmung durch.
+
+<sup>2</sup> Kernpunkte des Mitarbeitergesprächs sind die Zielvereinbarung, die Arbeitsbedingungen, das Arbeitsklima, die berufliche Entwicklung und die beruflichen Perspektiven sowie die Leistungs- und Verhaltensbeurteilung.
+
+<sup>3</sup> Die Leistungs- und Verhaltensbeurteilung beeinflusst das Gehalt der betroffenen Mitarbeiterin oder des betroffenen Mitarbeiters.
+
+<sup>4</sup> Ausgenommen von einem Mitarbeitergespräch sind
+
+- a die Rektorin oder der Rektor,
+- b die Vizerektorinnen und Vizerektoren,
+- c die Verwaltungsdirektorin oder der Verwaltungsdirektor,
+- d die ordentlichen und ausserordentlichen Professorinnen und Professoren,
+- e die Assistenzprofessorinnen und Assistenzprofessoren mit Tenure Track,
+- f die Assistenzprofessorinnen und Assistenzprofessoren,
+- g die Assistenzdozentinnen und Assistenzdozenten mit Tenure Track,
+- h die Lehrbeauftragten,
+- i die Gastdozentinnen und Gastdozenten.
+
+#### Art. 52b
+
+**Überprüfung des Mitarbeitergesprächs**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, welche die Leistungs- und Verhaltensbeurteilung als unzutreffend oder unkorrekt erachten, können innert zehn Tagen nach Erhalt der schriftlich festgehaltenen Ergebnisse des Mitarbeitergesprächs eine Überprüfung der Beurteilung bei der oder beim nächsthöheren Vorgesetzten verlangen.
+
+<sup>2</sup> Die Überprüfung gemäss Absatz 1 erfolgt im Rahmen einer Aussprache, deren Ergebnis schriftlich festzuhalten ist.
+
+<sup>3</sup> Ist die beurteilte Person mit dem Ergebnis der Überprüfung nicht einverstanden, kann sie zuhanden des Personaldossiers eine schriftliche Erklärung abgeben.
+
+#### Art. 52c
+
+**Finanzierung des Gehaltsaufstiegs**
+
+<sup>1</sup> Der durch den Regierungsrat jährlich festgelegte Anteil der Gehaltssumme, der für den generellen und individuellen Gehaltsaufstieg zur Verfügung steht, gilt für die Universität analog.
+
+#### Art. 52d
+
+**Individueller Gehaltsaufstieg ohne Leistungs- und Verhaltensbeurteilung**
+
+<sup>1</sup> Der Verwaltungsdirektorin oder dem Verwaltungsdirektor sowie den ordentlichen und ausserordentlichen Professorinnen und Professoren werden Gehaltsstufen ohne Leistungs- und Verhaltensbeurteilung angerechnet.
+
+<sup>2</sup> Die Universitätsleitung legt für die Mitarbeiterinnen und Mitarbeiter gemäss Absatz 1 die Anzahl Gehaltsstufen jährlich fest. Sie berücksichtigt dabei die Gehaltsentwicklung der Mitarbeiterinnen und Mitarbeiter mit Leistungs- und Verhaltensbeurteilung.
+
+#### Art. 52e
+
+**Ausgestaltung Mitarbeitergespräch, Leistungs- und Verhaltensbeurteilung sowie individueller Gehaltsaufstieg**
+
+<sup>1</sup> Im Übrigen regelt die Universitätsleitung das Mitarbeitergespräch, die Leistungs- und Verhaltensbeurteilung sowie den individuellen Gehaltsaufstieg durch Reglement.
+
 #### Art. 53
 
-**Ferien und Zeitguthaben**
+**Arbeitszeitmodell**
 
-<sup>1</sup> Die Dozentinnen und Dozenten beziehen ihre Ferien grundsätzlich während der vorlesungsfreien Zeit.
+<sup>1</sup> Die Universitätsleitung erlässt für Mitarbeiterinnen und Mitarbeiter bei Vorliegen hochschulspezifischer Verhältnisse für folgende Bereiche von der Personalgesetzgebung abweichende Bestimmungen durch Reglement:
 
-<sup>2</sup> Über Ausnahmegesuche von Dozentinnen und Dozenten entscheidet die Rektorin oder der Rektor auf Antrag der Fakultät.
+- a finanzielle Abgeltung von Ferien- und Zeitguthaben,
+- b Langzeitkonti,
+- c Anspruch und Höhe einer zusätzlichen Entschädigung oder Abgeltung für Arbeit unter besonderen Verhältnissen,
+- d Arbeitszeiterfassung und Ferienbezug,
+- e Bezug von Kurzurlaub,
+- f Bezug der Treueprämie.
 
-<sup>3</sup> Die Dozentinnen und Dozenten sind von der Regelung betreffend finanzieller Abgeltung von Ferien- und Zeitguthaben gemäss Artikel 129a und 129b sowie betreffend Langzeitkonti gemäss Artikel 160a ff. der Personalverordnung vom 18. Mai 2005 (PV)[^53-1] ausgenommen.
+<sup>2</sup> Die Universitätsleitung informiert die Personalverbände rechtzeitig über alle abweichenden Bestimmungen in den aufgeführten Bereichen.
 
-[^53-1]: BSG 153.011.1
+<sup>3</sup> Sie hört die Personalverbände an, bevor sie wesentliche Abweichungen erlässt und führt mit diesen nach Bedarf Gespräche.
+
+#### Art. 53a
+
+**Arbeitszeiterfassung, Ferien- und Zeitguthaben sowie Langzeitkonto von Dozentinnen und Dozenten**
+
+<sup>1</sup> Dozentinnen und Dozenten sind von der Arbeitszeiterfassung sowie den Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben ausgenommen und führen kein Langzeitkonto.
+
+#### Art. 53b
+
+**Nacht- und Wochenendarbeit**
+
+<sup>1</sup> Bei der Festlegung des zeitlichen Rahmens der Nacht- und Wochenendarbeit gilt folgender Minimalstandard:
+
+- a Die Arbeit zwischen 23.00 Uhr und 06.00 Uhr gilt als Nachtarbeit.
+- b Die Arbeit am Sonntag und an öffentlichen Feiertagen zwischen 06.00 Uhr und 23.00 Uhr gilt als Wochenendarbeit.
+
+#### Art. 53c
+
+**Arbeitszeiterfassung bei besonderen Funktionen**
+
+<sup>1</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor sowie die Generalsekretärin oder der Generalsekretär gelten betreffend Zeiterfassung als Personen mit vergleichbaren Funktionen gemäss Artikel 57a Absatz 1 PG.
+
+#### Art. 53d
+
+**Nebenbeschäftigungen**
+
+<sup>1</sup> Nebenbeschäftigungen sind zulässig, sofern sie die dienstliche Tätigkeit und den Universitätsbetrieb nicht beeinträchtigen. Eine Beeinträchtigung liegt insbesondere vor, wenn die Nebenbeschäftigung mit der dienstlichen Stellung unvereinbar ist, ein Interessenkonflikt besteht oder die Arbeitskraft dauernd und erheblich beansprucht wird.
+
+<sup>2</sup> Die Universitätsleitung regelt die Einzelheiten, insbesondere zur Bewilligungs-, Deklarations-, und Publikationspflicht, sowie die Abgeltung durch Reglement. Dieses wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
+
+<sup>3</sup> Bewilligungspflichtige Nebenbeschäftigungen der Mitglieder der Universitätsleitung werden von der Bildungs- und Kulturdirektion bewilligt.
+
+<sup>4</sup> Die Universitätsleitung prüft die jährliche Selbstdeklaration der Nebenbeschäftigungen der ordentlichen und ausserordentlichen Professorinnen und Professoren.
+
+<sup>5</sup> Die Rektorin oder der Rektor erstellt jährlich einen Bericht über die Nebenbeschäftigungen der ordentlichen und ausserordentlichen Professorinnen und Professoren sowie über allfällige Massnahmen und bringt diesen dem Amt für Hochschulen zur Kenntnis.
+
+#### Art. 53e
+
+**Publikation von Verwaltungsrats- und Stiftungsratsmandaten**
+
+<sup>1</sup> Verwaltungsrats- und Stiftungsratsmandate der Mitglieder der Universitätsleitung, der Generalsekretärin oder des Generalsekretärs sowie der ordentlichen und ausserordentlichen Professorinnen und Professoren werden jährlich auf der Internetseite der Universität publiziert.
+
+#### Art. 53f
+
+**Forschungs- und Bildungsurlaub von Dozentinnen und Dozenten**
+
+<sup>1</sup> Die Universitätsleitung kann Dozentinnen und Dozenten im Einvernehmen mit der zuständigen Fakultät einen Urlaub gewähren, damit sie frei von Lehrverpflichtungen wissenschaftlich arbeiten können.
+
+<sup>2</sup> Sie regelt die Einzelheiten zur Gewährung von Forschungs- und Bildungsurlauben sowie die damit zusammenhängenden Rechte und Pflichten durch Reglement.
 
 #### Art. 54
 
@@ -675,19 +794,9 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 [^54-1]: SR 831.40
 
-#### Art. 55
+#### Art. 55–56
 
-**Krankentaggeldversicherung**
-
-<sup>1</sup> Die Universität kann für durch Drittmittel finanzierte Mitarbeiterinnen und Mitarbeiter eine Krankentaggeldversicherung abschliessen.
-
-<sup>2</sup> Durch Drittmittel finanzierte Mitarbeiterinnen und Mitarbeiter beteiligen sich an der Prämie zu gleichen Teilen wie die übrigen Mitarbeiterinnen und Mitarbeiter.
-
-#### Art. 56
-
-**Kündigung bei Auslaufen der Drittmittel**
-
-<sup>1</sup> Bei der Kündigung von befristeten Arbeitsverhältnissen in Forschung und Lehre, die durch Drittmittel finanziert werden, gilt das Auslaufen der Drittmittel als triftiger Grund im Sinne der Personalgesetzgebung.
+**…**
 
 #### Art. 57
 
@@ -701,6 +810,36 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>4</sup> Die Kündigungsfristen und -termine während der Probezeit richten sich nach der Personalgesetzgebung.
 
+#### Art. 57a
+
+**Freistellung von befristet angestellten Mitarbeiterinnen und Mitarbeitern**
+
+<sup>1</sup> Die Universitätsleitung kann eine befristet angestellte Mitarbeiterin oder einen befristet angestellten Mitarbeiter bis zur Beendigung des Arbeitsverhältnisses freistellen, wenn es im öffentlichen Interesse liegt.
+
+<sup>2</sup> Eine Freistellung kann längstens für die letzten drei Monate vor Beendigung des Arbeitsverhältnisses infolge Zeitablauf erfolgen.
+
+<sup>3</sup> Im Übrigen gelten die Bestimmungen der Personalgesetzgebung zur Freistellung analog.
+
+#### Art. 57b
+
+**Austrittsvereinbarung**
+
+<sup>1</sup> Im Rahmen einer Austrittsvereinbarung (Art. 27a PG) kann die Kündigungsfrist von Mitarbeiterinnen und Mitarbeitern mit einer ordentlichen Kündigungsfrist von sechs Monaten um höchstens das Doppelte verlängert werden.
+
+<sup>2</sup> Im Übrigen gelten die Bestimmungen der Personalgesetzgebung zur Austrittsvereinbarung.
+
+#### Art. 57c
+
+**Folgen der Beendigung des Arbeitsverhältnisses**
+
+<sup>1</sup> Bei der Beendigung des Arbeitsverhältnisses entstehen keine Ansprüche gemäss Artikel 32 und 33 PG für
+
+- a Assistenzprofessorinnen und Assistenzprofessoren mit oder ohne Tenure Track,
+- b Assistenzdozentinnen und Assistenzdozenten mit Tenure Track,
+- c Assistentinnen und Assistenten gemäss Artikel 50,
+- d Lehrbeauftragte,
+- e Drittmittelangestellte.
+
 #### Art. 58
 
 **Geheimhaltungspflicht über Forschungsergebnisse**
@@ -713,9 +852,17 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 #### Art. 59
 
-**Gebührenpflicht der Mitarbeiterinnen und Mitarbeiter**
+**Abgabepflicht der Mitarbeiterinnen und Mitarbeiter**
 
 <sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter, mit Ausnahme der als Studierende immatrikulierten Hilfsassistentinnen und Hilfsassistenten, entrichten zur Unterstützung der sozialen und kulturellen Einrichtungen sowie des Universitätssports gemäss Artikel 4 jährlich eine Abgabe in der Höhe von einem Promille ihres Jahresgehalts (13 Monatsgehälter, ohne Familien- und Betreuungszulagen).
+
+#### Art. 59a
+
+**Auslagenersatz**
+
+<sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern werden Auslagen ersetzt, die bei der Aufgabenerfüllung entstanden sind.
+
+<sup>2</sup> Die Universitätsleitung regelt die Einzelheiten durch Reglement. Dieses wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
 
 ### 3.3 Aufgaben und besondere Vorschriften nach Kategorie
 
@@ -737,13 +884,13 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>2</sup> Als Grundlage für den Beschluss der Universitätsleitung über die Schaffung, Veränderung, Aufhebung oder Besetzung einer ordentlichen oder ausserordentlichen Professur erarbeitet die Fakultät in der Regel einen Strukturbericht.
 
-<sup>3</sup> Wird ausnahmsweise kein Strukturbericht erarbeitet, muss die Vertretung der Studentinnen und Studenten sowie der Assistentinnen und Assistenten angehört werden.
+<sup>3</sup> Wird ausnahmsweise kein Strukturbericht erarbeitet, muss die Vereinigung der Studierenden sowie die Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG angehört werden.
 
 <sup>4</sup> Die Entscheidfindung der Universitätsleitung erfolgt in Abstimmung mit der Fakultät.
 
 <sup>5</sup> Die Universitätsleitung regelt die Einzelheiten durch Reglement.
 
-<sup>6</sup> Die Zusammensetzung der für die Erarbeitung der entsprechenden Anträge zuständigen Kommissionen wird in den Fakultätsreglementen geregelt. Die Vertretung der Studentinnen und Studenten sowie der Assistentinnen und Assistenten ist zu gewährleisten.
+<sup>6</sup> Die Zusammensetzung der für die Erarbeitung der entsprechenden Anträge zuständigen Kommissionen wird in den Fakultätsreglementen geregelt. Die Vertretung der Vereinigung der Studierenden sowie der Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG ist zu gewährleisten.
 
 #### Art. 62
 
@@ -756,8 +903,8 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 <sup>3</sup> Eine Ausschreibung kann unterbleiben,
 
 - a …
-- b wenn eine Person intern von einer Assistenz- oder assoziierten Professur zu einer ausserordentlichen Professur oder von einer ausserordentlichen Professur zu einer ordentlichen Professur befördert werden soll;
-- c wenn aufgrund eines besonders hohen Interesses der Universität an der Gewinnung einer bestimmten Person für die Professur die Zeit drängt.
+- b wenn eine Person intern auf eine ordentliche oder ausserordentliche Professur befördert werden soll oder
+- c wenn ein hohes Interesse an der Gewinnung einer ausserordentlich qualifizierten Person für die Professur besteht.
 
 #### Art. 63
 
@@ -857,7 +1004,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Eine Assistenzprofessur mit Tenure Track setzt in der Regel einen Strukturbericht der Fakultät mit Antrag an die Universitätsleitung hinsichtlich der Position einer ausserordentlichen oder ordentlichen Professur voraus.
 
-<sup>2</sup> Die Universitätsleitung regelt das Anstellungsverfahren. Die Mitwirkung der Studentinnen und Studenten sowie der Assistentinnen und Assistenten ist zu gewährleisten.
+<sup>2</sup> Die Universitätsleitung regelt das Anstellungsverfahren. Die Mitwirkung der Vereinigung der Studierenden sowie der Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG ist zu gewährleisten.
 
 #### Art. 72
 
@@ -938,7 +1085,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Die Dauer der Anstellung als Assistenzprofessorin oder Assistenzprofessor ist unabhängig vom Beschäftigungsgrad auf vier Jahre befristet.
 
-<sup>2</sup> Sie kann nach einer Evaluation durch die Fakultät in begründeten Fällen um höchstens zwei weitere Jahre verlängert werden.
+<sup>2</sup> Sie kann nach einer Evaluation durch die Fakultät in begründeten Fällen um höchstens zwei weitere Jahre verlängert werden, namentlich bei Krankheit, Unfall, Schwangerschaft, Militärdienst, Zivildienst oder familiären Betreuungspflichten.
 
 <sup>3</sup> Unbezahlte Urlaube werden nicht an die Dienstjahre angerechnet.
 
@@ -1030,7 +1177,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Die Befristung der Assistenz richtet sich nach den Artikeln 83b, 86, 87 Absatz 2, 89 Absatz 2 und 90 Absatz 2.
 
-<sup>2</sup> Die Universitätsleitung kann die Anstellungsdauer von Assistentinnen und Assistenten ausnahmsweise verlängern. Die Dauer der Verlängerung beträgt für die gesamte Assistenzzeit höchstens zwei Jahre. Vorbehalten bleiben Konstellationen, in denen diese Frist in Anbetracht der Umstände unbillig erscheint oder nicht im Einklang mit Vorgaben des Schweizerischen Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF) oder anderer Förderagenturen stehen würde.
+<sup>2</sup> Die Universitätsleitung kann die Anstellungsdauer von Assistentinnen und Assistenten ausnahmsweise verlängern, namentlich bei Krankheit, Unfall, Schwangerschaft, Militärdienst, Zivildienst oder familiären Betreuungspflichten. Die Dauer der Verlängerung beträgt für die gesamte Assistenzzeit höchstens zwei Jahre. Vorbehalten bleiben Konstellationen, in denen diese Frist in Anbetracht der Umstände unbillig erscheint oder nicht im Einklang mit Vorgaben des Schweizerischen Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF) oder anderer Förderagenturen stehen würde.
 
 <sup>3</sup> An die Assistenzzeit angerechnet werden alle Anstellungen in einer Assistenzkategorie mit Ausnahme der Anstellung als Hilfsassistentin oder Hilfsassistent.
 
@@ -1066,9 +1213,9 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> …
 
-<sup>2</sup> Die Anstellung als Oberärztin II oder Oberarzt II setzt ein Eidgenössisches Ärztediplom, ein Fakultätsdiplom oder einen gleichwertigen Studienabschluss und in der Regel einen Abschluss als Fachärztin oder Facharzt voraus.
+<sup>2</sup> Die Anstellung als Oberärztin II oder Oberarzt II setzt ein Eidgenössisches Ärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss und in der Regel einen Abschluss als Fachärztin oder Facharzt voraus.
 
-<sup>3</sup> Die Anstellung als Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin sowie Assistenzärztin oder Assistenzarzt Veterinärmedizin setzt ein Eidgenössisches Ärztediplom, ein Fakultätsdiplom oder einen gleichwertigen Studienabschluss voraus.
+<sup>3</sup> Die Anstellung als Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin sowie Assistenzärztin oder Assistenzarzt Veterinärmedizin setzt ein Eidgenössisches Ärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss voraus.
 
 #### Art. 85
 
@@ -1110,7 +1257,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>2</sup> Ausnahmsweise können sie eine Dissertation verfassen. Für diese Arbeit kann mindestens ein Drittel der Arbeitszeit verwendet werden. Die Universitätsleitung regelt die Einzelheiten durch Reglement.
 
-### 3.3.7.4 Doktorandinnen und Doktoranden
+### 3.3.7.4 Angestellte Doktorandinnen und Doktoranden
 
 #### Art. 89
 
@@ -1130,198 +1277,70 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>2</sup> Die Dauer der Anstellung als Hilfsassistentin oder Hilfsassistent ist, unabhängig vom Beschäftigungsgrad, auf höchstens vier Jahre befristet.
 
-### 3.4 Nebenbeschäftigungen
+### 3.3.8 Drittmittelangestellte
 
-#### Art. 91
+#### Art. 90a
 
-**Anwendbares Recht**
+**Krankentaggeldversicherung**
 
-<sup>1</sup> Die Nebenbeschäftigungen innerhalb des Fachgebiets von Dozentinnen und Dozenten sowie von Assistentinnen und Assistenten richten sich nach dieser Verordnung.
+<sup>1</sup> Die Universität kann für Drittmittelangestellte eine Krankentaggeldversicherung abschliessen.
 
-<sup>2</sup> Die übrigen Nebenbeschäftigungen von Dozentinnen und Dozenten sowie von Assistentinnen und Assistenten, sämtliche Nebenbeschäftigungen der weiteren Mitarbeiterinnen und Mitarbeiter sowie die Ausübung öffentlicher Ämter richten sich nach der Personalgesetzgebung. Vorbehalten bleibt Absatz 4.
+<sup>2</sup> Drittmittelangestellte beteiligen sich an der Prämie zu gleichen Teilen wie die übrigen Mitarbeiterinnen und Mitarbeiter.
 
-<sup>3</sup> Die privatärztliche Tätigkeit der in den Universitätsspitälern tätigen ordentlichen und ausserordentlichen Professorinnen und Professoren richtet sich nach den Bestimmungen der Spitalgesetzgebung.
+#### Art. 90b
 
-<sup>4</sup> Sämtliche Verwaltungs- und Stiftungsratsmandate von Dozentinnen und Dozenten sowie von Assistentinnen und Assistenten bedürfen einer Bewilligung durch die Universitätsleitung und sind gemäss Artikel 94 zu deklarieren.
+**Beendigung des Arbeitsverhältnisses**
 
-#### Art. 92
+<sup>1</sup> Die vorgesetzte Person hat eine Drittmittelangestellte oder einen Drittmittelangestellten mindestens drei Monate vor Ende der Vertragsdauer über das Ende der Anstellung zu informieren, wenn
 
-**Begriff**
+- a kein neuer Arbeitsvertrag begründet wird, und
+- b die oder der Drittmittelangestellte befristet angestellt und während über fünf Jahren ununterbrochen an der Universität angestellt gewesen ist.
 
-<sup>1</sup> Als Nebenbeschäftigungen innerhalb des Fachgebiets im Sinn dieser Verordnung gelten Tätigkeiten, die
+<sup>2</sup> Bei späterer Mitteilung endet das Arbeitsverhältnis am Ende des dritten Monats nach dieser Mitteilung, spätestens drei Monate nach dem ursprünglichen Vertragsende.
 
-- a nicht unmittelbar mit der Erfüllung des Auftrags in Lehre, Forschung oder Dienstleistung zusammenhängen und
-- b zu wesentlichen Teilen persönlich ausgeführt werden.
+#### Art. 90c
 
-<sup>2</sup> Als solche Nebenbeschäftigungen gelten namentlich
+**Ansprüche bei der Beendigung des Arbeitsverhältnisses**
 
-- a Lehraufträge in der Aus-, Weiter- und Fortbildung an anderen Hochschulen oder Institutionen,
-- b Tätigkeiten im Dienstleistungsbereich wie Beratungen, Verwaltungsrats- und Stiftungsratsmandate oder Schiedsgerichtstätigkeit.
+<sup>1</sup> Ein Anspruch auf eine Abgangsentschädigung besteht für eine Drittmittelangestellte oder einen Drittmittelangestellten, wenn
 
-#### Art. 93
+- a das Arbeitsverhältnis gemäss der vertraglichen Befristung oder infolge Auslaufens der Drittmittel beendet wurde,
+- b sie oder er mindestens zehn Jahre ununterbrochen an der Universität angestellt gewesen ist, und
+- c keine zumutbare Stelle an der Universität angeboten werden kann.
 
-**Zulässigkeit und Umfang**
+<sup>2</sup> Die Berechnung der Abgangsentschädigung richtet sich nach Artikel 123 Absätze 2 bis 3 der Personalverordnung vom 18. Mai 2005 (PV)[^90c-1]. Die Entschädigung darf den Betrag nicht übersteigen, der dem Gehalt der betroffenen Person für 18 Monate entspricht.
 
-<sup>1</sup> Nebenbeschäftigungen dürfen den Grundauftrag der Mitarbeiterin oder des Mitarbeiters, den Universitätsbetrieb und die Interessen der Universität nicht beeinträchtigen oder konkurrenzieren.
+<sup>3</sup> Anstellungen gemäss Artikel 51a Absatz 1 Buchstaben a bis d werden für die Begründung des Anspruchs auf Abgangsentschädigung nicht angerechnet. Die entsprechenden Anstellungen gelten als Unterbruch der Anstellung.
 
-<sup>2</sup> Die Durchführung von Lehrveranstaltungen geht der Ausübung von Nebenbeschäftigungen vor. Lehrveranstaltungen dürfen wegen der Ausübung einer Nebenbeschäftigung nicht einer Stellvertreterin oder einem Stellvertreter übertragen werden.
+[^90c-1]: BSG [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/de)
 
-<sup>3</sup> Bei dauernder, erheblicher Belastung durch Nebenbeschäftigungen ist grundsätzlich der Beschäftigungsgrad entsprechend herabzusetzen.
+#### Art. 90d
 
-<sup>4</sup> Nebenbeschäftigungen dürfen nicht im Namen der Universität ausgeübt werden.
+**Ausrichtung der Abgangsentschädigung**
 
-#### Art. 94
+<sup>1</sup> Bei Anspruch auf eine Abgangsentschädigung wird diese in monatlichen Raten ausgerichtet. Eine Rate entspricht einem gemäss Artikel 90c Absatz 2 berechneten Monatsbruttolohn abzüglich Sozialversicherungsbeiträge.
 
-**Selbstdeklaration**
+<sup>2</sup> Die betroffene Person hat gegenüber der Universität jeweils am 10. des jeweiligen Monats schriftlich zu erklären, nicht anderswo zumutbar angestellt zu sein oder ein vergleichbares Ersatzeinkommen zu erzielen.
 
-<sup>1</sup> Die im Berichtsjahr ausgeführten Nebenbeschäftigungen, die dafür aufgewendete Zeit, die Erträge daraus sowie die dafür beanspruchte Infrastruktur sind der Rektorin oder dem Rektor zu melden.
+<sup>3</sup> Tritt die betroffene Person innert 18 Monaten seit der Auflösung des Arbeitsverhältnisses eine zumutbare Stelle an der Universität oder bei einem anderen Arbeitgeber an oder erhält sie ein vergleichbares Ersatzeinkommen, wird die Abgangsentschädigung ganz oder teilweise gekürzt.
 
-<sup>2</sup> Die ordentlichen und ausserordentlichen Professorinnen und Professoren haben das entsprechende Formular jährlich auszufüllen, die übrigen Dozentinnen und Dozenten sowie die Assistentinnen und Assistenten nur, sofern sie im Berichtsjahr eine Nebenbeschäftigung ausgeübt haben.
+<sup>4</sup> Wird die neue zumutbare Anstellung in der Probezeit aufgelöst oder erweist sich die Anstellung bei der Universität oder bei einem anderen Arbeitgeber als nicht zumutbar, wird der Anspruch auf Abgangsentschädigung wieder fällig, wie wenn die ehemalige Mitarbeiterin oder der ehemalige Mitarbeiter noch keine neue zumutbare Anstellung gefunden hätte.
 
-<sup>3</sup> Die Rektorin oder der Rektor erstellt jährlich einen Bericht über sämtliche Nebenbeschäftigungen der ordentlichen und ausserordentlichen Professorinnen und Professoren. Die Universitätsleitung genehmigt den Bericht und leitet allfällige Massnahmen ein. Sie stellt der Bildungs- und Kulturdirektion eine Kopie des Berichts zur Kenntnisnahme zu.
+<sup>5</sup> Für die Beurteilung der Zumutbarkeit einer anderen Stelle sind Artikel 31 PG sowie die Bestimmungen der Stellenvermittlungsverordnung vom 16. September 2020 (StvV)[^90d-1] massgeblich.
 
-#### Art. 95
+[^90d-1]: BSG [153.011.2](https://www.belex.sites.be.ch/data/153.011.2/de)
 
-**Bewilligung**
+### 3.4
 
-<sup>1</sup> Folgende Nebenbeschäftigungen bedürfen keiner Bewilligung:
+#### Art. 91–97
 
-- a Lehraufträge an anderen schweizerischen Hochschulen bis zu zwei Lektionen pro Woche bzw. bis zu vier Lektionen pro Woche höchstens für ein Studienjahr im Rahmen von Kooperationsabkommen der Universität,
-- b Lehraufträge an weiteren schweizerischen Schulen bis zu zwei Lektionen pro Woche im Rahmen von Kooperationsabkommen der Universität,
-- c Expertentätigkeit bei kantonalen oder eidgenössischen Prüfungen und
-- d Expertentätigkeit bei nationalen Forschungsförderungsagenturen.
+**…**
 
-<sup>2</sup> Die anderen Nebenbeschäftigungen, namentlich Mandate in der Beratung oder in der Weiter- und Fortbildung, Verwaltungsrats- und Stiftungsratsmandate, bedürfen einer Bewilligung der Universitätsleitung.
+### 3.5
 
-<sup>3</sup> Teilzeitlich tätige Dozentinnen und Dozenten oder Assistentinnen und Assistenten benötigen nur dann eine Bewilligung, wenn die zeitliche Beanspruchung der Nebenbeschäftigungen und der dienstlichen Tätigkeit zusammen die Normalarbeitszeit überschreitet. Verwaltungs- und Stiftungsratsmandate bedürfen in jedem Fall einer Bewilligung.
+#### Art. 98–109
 
-<sup>4</sup> Mitarbeiterinnen und Mitarbeiter, die sich an der Gründung von Stiftungen, Gesellschaften oder Vereinen mit Bezug zur Universität oder deren Angehörigen beteiligen, bedürfen einer Bewilligung der Universitätsleitung.
-
-#### Art. 96
-
-**Entschädigung für Infrastruktur**
-
-<sup>1</sup> Wird für die Ausführung von Nebenbeschäftigungen die Infrastruktur der Universität benützt, ist dafür eine kostendeckende Entschädigung zu leisten.
-
-<sup>2</sup> Eine Benützung der Infrastruktur der Universität liegt namentlich vor, wenn
-
-- a Mitarbeiterinnen und Mitarbeiter bei Nebenbeschäftigungen mitarbeiten oder infolge der Nebenbeschäftigungen zusätzliche Arbeiten übernehmen,
-- b Geräte und Material verwendet werden oder
-- c Diensträume beansprucht werden.
-
-<sup>3</sup> Wird für die Ausübung von Nebenbeschäftigungen eine länger dauernde Benützung der Infrastruktur erwartet, ist die Entschädigung durch Vertrag zwischen der Universität, handelnd durch die Universitätsleitung, und der betreffenden Person zu regeln.
-
-<sup>4</sup> Eine Pauschalierung der Entschädigung aufgrund von Richtwerten ist zulässig. Die Universitätsleitung legt die Richtwerte fest.
-
-#### Art. 97
-
-**Versicherung**
-
-<sup>1</sup> Die Versicherung von Risiken aus Nebenbeschäftigungen ist Sache der Dozentin oder des Dozenten bzw. der Assistentin oder des Assistenten.
-
-### 3.5 Forschungs- und Bildungsurlaub
-
-#### Art. 98
-
-**Grundsatz**
-
-<sup>1</sup> Die Universitätsleitung kann Dozentinnen und Dozenten im Einvernehmen mit der zuständigen Fakultät einen Urlaub gewähren, damit sie frei von Lehrverpflichtungen wissenschaftlich arbeiten können.
-
-#### Art. 99
-
-**Urlaub nach Ablauf der Amtstätigkeit**
-
-<sup>1</sup> Die Bildungs- und Kulturdirektion kann der Rektorin oder dem Rektor bzw. den Vizerektorinnen oder Vizerektoren auf Antrag nach Ablauf ihrer Amtstätigkeit einen ausserordentlichen Urlaub gewähren.
-
-<sup>2</sup> Die Universitätsleitung kann den Dekaninnen oder Dekanen nach Ablauf ihrer Amtstätigkeit einen ausserordentlichen Urlaub gewähren.
-
-#### Art. 100
-
-**Dauer des Urlaubs**
-
-<sup>1</sup> Die Dauer des Urlaubs beträgt höchstens sechs Monate.
-
-<sup>2</sup> Die Universitätsleitung kann ordentlichen und ausserordentlichen Professorinnen und Professoren im Einvernehmen mit der zuständigen Fakultät ausnahmsweise einen längeren Urlaub gewähren.
-
-#### Art. 101
-
-**Koordination und Verfahren**
-
-<sup>1</sup> Die Fakultät koordiniert die Urlaubsgesuche ihrer Dozentinnen und Dozenten und sorgt dafür, dass die Erfüllung der Aufgaben in Lehre, Forschung, Dienstleistung und Administration gewährleistet bleibt.
-
-<sup>2</sup> Die Dozentin oder der Dozent hat das Urlaubsgesuch der Universitätsleitung auf dem Dienstweg mindestens sechs Monate vor Beginn des Urlaubs einzureichen.
-
-<sup>3</sup> Das Gesuch ist zu begründen und gibt insbesondere Auskunft über die geplanten Vorhaben.
-
-<sup>4</sup> Nach Beendigung des Urlaubs ist zuhanden der Universitätsleitung ein Bericht zu erstatten.
-
-<sup>5</sup> Bei Urlaubsgesuchen von Dozentinnen und Dozenten, die an einem Universitätsspital tätig sind, hört die Universitätsleitung vor der Genehmigung die betroffene Spitalleitung an.
-
-#### Art. 102
-
-**Voraussetzungen und spätester Bezug**
-
-<sup>1</sup> Die Voraussetzungen für die Gewährung eines Urlaubs sind:
-
-- a ein Beschäftigungsgrad von 50 Prozent und höher,
-- b eine unbefristete Anstellung und
-- c jeweils mindestens sechs absolvierte Dienstjahre.
-
-<sup>2</sup> Aus wichtigen Gründen kann bei ordentlichen und ausserordentlichen Professorinnen und Professoren von den Voraussetzungen gemäss Absatz 1 abgewichen werden.
-
-<sup>3</sup> Der Urlaub wird bei der Bestimmung der Zeitdauer bis zum nächsten Urlaub nicht als Dienstzeit angerechnet.
-
-<sup>4</sup> Der letzte Urlaub ist grundsätzlich spätestens drei Jahre vor der Pensionierung anzutreten. Aus wichtigen Gründen kann die Universitätsleitung einen späteren Antritt genehmigen.
-
-#### Art. 103
-
-**Gehaltskürzung**
-
-<sup>1</sup> Während des Urlaubs wird das Monatsgehalt einer Dozentin oder eines Dozenten, einschliesslich des 13. Monatsgehalts, um zehn Prozent gekürzt. Die Familien- und Betreuungszulagen werden nicht gekürzt.
-
-#### Art. 104
-
-**Stellvertretung**
-
-<sup>1</sup> Die Dozentin oder der Dozent hat im Einvernehmen mit dem Institut oder einer anderen Organisationseinheit und der Fakultät dafür zu sorgen, dass die Stellvertretung sichergestellt ist.
-
-<sup>2</sup> Stellvertretungen sind aus der Gehaltskürzung gemäss Artikel 103 und aus sonstigen Mitteln des Instituts bzw. einer anderen Organisationseinheit oder der Fakultät zu finanzieren.
-
-#### Art. 105
-
-**Verschiebung**
-
-<sup>1</sup> Muss der Urlaub von ordentlichen und ausserordentlichen Professorinnen oder Professoren aus einem wichtigen Grund verschoben werden, kann die Zeitdauer bis zum nächsten Urlaub entsprechend verkürzt oder verlängert werden.
-
-#### Art. 106
-
-**Rückzahlungsverpflichtung 1. Grundsatz**
-
-<sup>1</sup> Die Dozentin oder der Dozent hat sich vor Beginn des Urlaubs schriftlich zu verpflichten, bei Beendigung des Arbeitsverhältnisses während des Urlaubs oder innerhalb von zwei Jahren nach Bezug des Urlaubs das während des Urlaubs bezogene Gehalt (ohne Familien- und Betreuungszulagen) je nach Zeitpunkt des Austritts ganz oder teilweise zurückzuzahlen.
-
-<sup>2</sup> Die Rückzahlungsverpflichtung entfällt bei Bezug eines ausserordentlichen Urlaubs sowie bei Tod oder Invalidität der Dozentin oder des Dozenten.
-
-#### Art. 107
-
-**2. Umfang**
-
-<sup>1</sup> Die rückzahlungspflichtige Betrag gemäss Artikel 106 ist wie folgt zu entrichten:
-
-- a bei Austritt während des Urlaubs: 100 Prozent,
-- b bei Austritt im ersten Jahr nach dem Urlaub: 50 Prozent,
-- c bei Austritt im zweiten Jahr nach dem Urlaub: 25 Prozent.
-
-#### Art. 108
-
-**3. Befreiung von der Rückzahlungspflicht**
-
-<sup>1</sup> Bedeutet die Rückzahlungsverpflichtung eine besondere Härte für die Dozentin oder den Dozenten, kann die Universitätsleitung ganz oder teilweise auf die Rückforderung verzichten.
-
-#### Art. 109
-
-**Anrechnung bisheriger Lehr- und Forschungstätigkeit**
-
-<sup>1</sup> Bei der Anstellung von ordentlichen und ausserordentlichen Professorinnen und Professoren kann die bisherige Lehr- und Forschungstätigkeit angemessen an die erforderliche Dienstzeit für den ersten Urlaub angerechnet werden, jedoch bis zu höchstens drei Dienstjahren.
+**…**
 
 ## 4 Ständige Dienstleistungen
 
@@ -1332,14 +1351,14 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 <sup>1</sup> Folgende Organisationseinheiten erbringen ständige Dienstleistungen:
 
 - a Institut für Infektionskrankheiten,
-- b Institut für Pathologie,
+- b Institut für Gewebemedizin und Pathologie,
 - c Institut für Rechtsmedizin,
 - d Zahnmedizinische Kliniken,
 - e Departement für klinische Veterinärmedizin,
 - f Institut für Parasitologie,
 - g Institut für Tierpathologie,
 - h Institut für Veterinär-Bakteriologie,
-- i Zentrum für Fisch- und Wildtiermedizin.
+- i Institut für Fisch- und Wildtiergesundheit.
 
 <sup>2</sup> Art und Umfang der Dienstleistungen werden durch die Universitätsleitung gestützt auf den Leistungsauftrag des Regierungsrates in der Leistungs- bzw. Zielvereinbarung mit der Organisationseinheit festgelegt.
 
@@ -1389,17 +1408,17 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>1</sup> Ist die Person, die zur Rektorin oder zum Rektor gewählt wird, bereits an der Universität angestellt, so ist sie während der Amtsperiode vollumfänglich von den Verpflichtungen aus dieser Anstellung entbunden.
 
-<sup>2</sup> Die Rektorin oder der Rektor erhält während der Amtsperiode zusätzlich zum ordentlichen Gehalt aus der Anstellung eine Funktionszulage von 40 000 Franken pro Jahr.
+<sup>2</sup> Die Rektorin oder der Rektor erhält während der Amtsperiode zusätzlich zum ordentlichen Gehalt aus der Anstellung eine Funktionszulage von 40'000 Franken pro Jahr.
 
 <sup>3</sup> Ist die Person, die zur Rektorin oder zum Rektor gewählt wird, zum Zeitpunkt der Wahl nicht an der Universität angestellt, so beschliesst der Regierungsrat die Anstellungsbedingungen.
 
 #### Art. 116
 
-**Vizerektorinnen oder Vizerektoren**
+**Vizerektorinnen und Vizerektoren**
 
 <sup>1</sup> Ist die Person, die zur Vizerektorin oder zum Vizerektor gewählt wird, bereits an der Universität angestellt, so ist sie während der Amtsperiode zu 50 Prozent von den Verpflichtungen aus dieser Anstellung entbunden.
 
-<sup>2</sup> Die Vizerektorin oder der Vizerektor erhält während der Amtsperiode eine Funktionszulage von 12 500 Franken pro Jahr.
+<sup>2</sup> Vizerektorinnen und Vizerektoren erhalten während der Amtsperiode eine Funktionszulage von 12'500 Franken pro Jahr.
 
 <sup>3</sup> Aus wichtigen Gründen kann die Rektorin oder der Rektor einen anderen Umfang für die Tätigkeit in der Universitätsleitung festlegen. Die Funktionszulage gemäss Absatz 2 wird angepasst.
 
@@ -1418,6 +1437,14 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 <sup>1</sup> Beabsichtigt die Bildungs- und Kulturdirektion gemeinsam mit dem Senat die Nichtwiederwahl eines Mitglieds der Universitätsleitung, seine Abberufung während der Amtsperiode oder die Kündigung der Verwaltungsdirektorin oder des Verwaltungsdirektors, so ist dem Regierungsrat ein entsprechender gemeinsamer Antrag zu stellen.
 
 <sup>2</sup> Bei Uneinigkeit entscheidet die Bildungs- und Kulturdirektion, ob dem Regierungsrat Antrag gestellt wird.
+
+### 5.2a Forschungs- und Bildungsurlaub nach Beendigung der Amtstätigkeit
+
+#### Art. 118a
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion kann der Rektorin oder dem Rektor bzw. den Vizerektorinnen und Vizerektoren nach Beendigung ihrer Amtstätigkeit auf Antrag einen ausserordentlichen Forschungs- und Bildungsurlaub gewähren.
+
+<sup>2</sup> Die mit dem Urlaub zusammenhängenden Rechte und Pflichten richten sich nach dem Reglement der Universitätsleitung gemäss Artikel 53f.
 
 ### 5.3 Verträge
 
@@ -1596,11 +1623,13 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 #### Art. 134
 
-**Gehaltsadministration**
+**Sozialversicherungen und Gehaltsadministration**
 
-<sup>1</sup> Der Kanton stellt die Gehaltsauszahlung und den Anschluss an die Sozialversicherungen der Universität sicher.
+<sup>1</sup> Der Kanton stellt die Gehaltsabrechnung und den Anschluss an die Sozialversicherungen der Universität sicher.
 
-<sup>2</sup> Die Gehaltsadministration der Universität erfolgt mittels Personal- und Informationssystem des Kantons durch das Personalamt.
+<sup>2</sup> Die Gehaltsadministration der Universität erfolgt über das Personal- und Informationssystem des Kantons durch die Universität.
+
+<sup>2a</sup> Die Gehaltsauszahlung erfolgt durch die Universität.
 
 <sup>3</sup> Die Parteien schliessen einen Vertrag über die zu erbringenden Leistungen sowie über ihre Rechte und Pflichten ab.
 
@@ -1633,7 +1662,7 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 <sup>4</sup> Als weitere Mitglieder werden gewählt:
 
 - a zwei ordentliche oder ausserordentliche Professorinnen und Professoren der Universität Bern,
-- b eine Dozentin oder ein Dozent gemäss Artikel 21 Absatz 1 Buchstaben c bis e UniG oder eine Assistentin oder ein Assistent gemäss Artikel 50 Absatz 1 Buchstaben a bis d und
+- b eine Dozentin oder ein Dozent gemäss Artikel 21 Absatz 1 Buchstaben c bis e UniG oder eine Assistentin oder ein Assistent gemäss Artikel 50 Absatz 1 Buchstaben a bis e3 und
 - c eine Studentin oder ein Student der Universität Bern.
 
 #### Art. 137
@@ -1690,8 +1719,6 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 #### Art. T1-3
 
-<sup>1</sup> Die Dauer der nach bisherigem Recht abgeschlossenen Arbeitsverhältnisse ist an die Anstellungsdauer gemäss Artikel 51a Absatz 2 UniV anrechenbar.
-
 #### Art. T1-4
 
 <sup>1</sup> Die geänderten Zulassungsbedingungen zum Medizinstudium in der Schweiz in Anhang 2 zu Artikel 11 gelten erstmalig für die Zulassung für das Herbstsemester 2017.
@@ -1714,41 +1741,68 @@ gestützt auf die Artikel 5, 18, 21, 22, 24, 27, 29, 29d, 29f, 62a, 63, 64a, 65,
 
 <sup>2</sup> Die Gesamtdauer der Anstellung als Oberassistentin oder Oberassistent oder als wissenschaftliche Assistentin oder wissenschaftlicher Assistent mit Dissertation sowie als Postdoktorandin oder Postdoktorand beträgt zusammen höchstens zehn Jahre.
 
+## T4 Übergangsbestimmungen der Änderung vom 16.11.2022
+
+#### Art. T4-1
+
+<sup>1</sup> Die Geltendmachung eines im Vorjahr erteilten Studienplatzes in Sportwissenschaft ist letztmals im Herbstsemester des Studienjahrs 2023/2024 möglich.
+
+#### Art. T4-2
+
+<sup>1</sup> Die geänderte Zusammensetzung der Semestergebühr gemäss Artikel 40 Absatz 2 gelangt erstmals für das Frühjahrssemester 2023 zur Anwendung.
+
+#### Art. T4-3
+
+<sup>1</sup> Für Mitarbeiterinnen und Mitarbeiter, deren Arbeitsverhältnis vor dem 1. Januar 2023 gekündigt oder nicht verlängert wurde und die zum Zeitpunkt der Beendigung des Arbeitsverhältnisses die Voraussetzungen für einen Anspruch auf besondere Renten nach bisherigem Recht (Art. 51a Abs. 2 bis 4) erfüllen, besteht dieser Anspruch auch nach Inkrafttreten der Änderung.
+
+#### Art. T4-4
+
+<sup>1</sup> Die Dauer der nach bisherigem Recht abgeschlossenen Arbeitsverhältnisse ist an die Anstellungsdauer gemäss Artikel 90c Absatz 1 Buchstabe b anrechenbar.
+
+#### Art. T4-5
+
+<sup>1</sup> Die Universitätsleitung regelt die erforderlichen Anpassungen der bestehenden Arbeitsverhältnisse an das neue Recht durch Reglement.
+
 ## A1
 
 #### Art. A1-1–A1-2
 
 **…**
 
-## A2 zu Artikel 11 Zulassung ausländischer Studienanwärterinnen und Studienanwärter zum Medizinstudium
+## A2 zu Artikel 17a
 
 #### Art. A2-1
 
-<sup>1</sup> Bei der Zulassung zum Medizinstudium sind Schweizerinnen und Schweizern gleichgestellt:
+**Zugang ausländischer Studienanwärterinnen und Studienanwärter zum Medizinstudium**
 
-- a Staatsangehörige aus Liechtenstein;
-- b in der Schweiz oder in Liechtenstein niedergelassene Ausländerinnen und Ausländer;
-- c Staatsangehörige eines Mitgliedstaats der Europäischen Union sowie von Island und Norwegen, die in der Schweiz eine Aufenthaltsbewilligung EU/EFTA mit dem Vermerk „Erwerbstätigkeit“ besitzen und eine berufliche Tätigkeit nachweisen können, die in engem Zusammenhang mit dem Medizinstudium steht;
-- d Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaats der Europäischen Union sowie von Island, Norwegen und Liechtenstein, wenn sie in der Schweiz eine Aufenthaltsbewilligung als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA besitzen;
-- e Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, deren Eltern in der Schweiz niedergelassen sind;
-- f Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, die mit einer Schweizerin oder einem Schweizer verheiratet sind oder deren Ehegatten seit mindestens fünf Jahren in der Schweiz niedergelassen oder seit mindestens fünf Jahren im Besitz einer schweizerischen Arbeitsbewilligung sind;
-- g Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, die seit mindestens fünf Jahren im Besitze einer schweizerischen Arbeitsbewilligung sind sowie Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, deren Eltern seit mindestens fünf Jahren im Besitze einer schweizerischen Arbeitsbewilligung sind;
-- h Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, die über einen schweizerischen Maturitätsausweis verfügen. Dem schweizerischen Maturitätsausweis gleichgestellt sind anerkannte kantonale Maturitätsausweise (gemäss Verordnung des Bundesrates vom 15. Februar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen)[^A21-1] sowie eidgenössische Berufsmaturitätsausweise mit dem Ausweis über bestandene Ergänzungsprüfungen (gemäss Verordnung des Bundesrates vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses zu den universitären Hochschulen[^A21-2]);
-- i Kinder, deren Eltern in der Schweiz Diplomatenstatus geniessen;
-- j in der Schweiz anerkannte Flüchtlinge.
-- 1\.–5. …
+<sup>1</sup> Beim Zugang zum Medizinstudium sind Schweizerinnen und Schweizern gleichgestellt:
 
-<sup>2</sup> Es gelten folgende Voraussetzungen für die Gleichbehandlung von Ausländerinnen und Ausländern mit Schweizerinnen und Schweizern:
+- a Staatsangehörige des Fürstentums Liechtenstein,
+- b in der Schweiz oder im Fürstentum Liechtenstein niedergelassene Ausländerinnen und Ausländer,
+- c Staatsangehörige eines Mitgliedstaats der Europäischen Union, von Island, Norwegen oder des Vereinigten Königreichs Grossbritannien und Nordirland, die über eine Aufenthaltsbewilligung in der Schweiz mit dem Vermerk „Erwerbstätigkeit“ verfügen und eine mindestens einjährige berufliche Tätigkeit in der Schweiz in engem Zusammenhang mit dem Medizinstudium nachweisen können,
+- d Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaats der Europäischen Union, von Island, Norwegen, des Fürstentums Liechtenstein oder des Königreichs Grossbritannien und Nordirland, die über eine Aufenthaltsbewilligung in der Schweiz mit dem Vermerk "Familiennachzug" verfügen,
+- e Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz,
+  - 1\. die seit mindestens fünf Jahren ununterbrochen über eine Aufenthaltsbewilligung in der Schweiz mit dem Hauptaufenthaltszweck "Erwerbstätigkeit" verfügen,
+  - 2\. die über einen schweizerischen oder kantonalen, schweizerisch anerkannten Maturitätsausweis verfügen,
+  - 3\. die über ein eidgenössisches oder anerkanntes liechtensteinisches Berufsmaturitätszeugnis oder ein gesamtschweizerisch anerkanntes Fachmaturitätszeugnis in Verbindung mit dem Ausweis über bestandene Ergänzungsprüfungen der Schweizerischen Maturitätskommission verfügen,
+  - 4\. die mit einer Schweizerin oder einem Schweizer verheiratet oder eine eingetragene Partnerschaft eingegangen sind,
+  - 5\. deren Ehegattin oder Ehegatte oder deren eingetragene Partnerin oder Partner in der Schweiz niedergelassen ist,
+  - 6\. deren Ehegattin oder Ehegatte oder deren eingetragene Partnerin oder eingetragener Partner seit mindestens fünf Jahren Wohnsitz in der Schweiz hat und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck "Erwerbstätigkeit" verfügt,
+- f Ausländerinnen und Ausländer, die seit mindestens zwei Jahren Wohnsitz in der Schweiz haben,
+  - 1\. deren Eltern in der Schweiz niedergelassen sind,
+  - 2\. deren Eltern seit mindestens fünf Jahren Wohnsitz in der Schweiz haben und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck "Erwerbstätigkeit" verfügen,
+- g Kinder, deren Eltern in der Schweiz über einen Diplomatenstatus verfügen (Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten Typ "B", "C" und "D blau"),
+- h von der Schweiz anerkannte Flüchtlinge.
+- i–5. …
 
-- a Ausländerinnen und Ausländer nach Absatz 1 Buchstabe a bis i müssen spätestens am Tag der von swissuniversities festgelegten Anmeldefrist für das Medizinstudium in der Schweiz im Besitze der Dokumente sein, auf denen ihre Zugangsberechtigung zum Medizinstudium beruht. Davon ausgenommen ist der Vorbildungsausweis.
-- b Flüchtlinge nach Absatz 1 Buchstabe j müssen spätestens am Tag der von swissuniversities festgelegten Anmeldefrist für das Medizinstudium in der Schweiz ein Asylgesuch gestellt haben. Das Gesuch muss spätestens am letzten Tag der Immatrikulationsfrist der Universität, an der sie einen Studienplatz erhalten, gutgeheissen worden sein.
+<sup>2</sup> Es gelten folgende Voraussetzungen:
+
+- a Als Stichdatum für den Nachweis der Zugangsvoraussetzungen gemäss diesem Anhang gilt der letzte Tag der von swissuniversities festgelegten Anmeldefrist für den entsprechenden Studiengang.
+- b Der Vorbildungsausweis gemäss Absatz 1 Buchstabe e Ziffern 2 und 3 kann nachgereicht werden.
 
 <sup>3</sup> …
 
 <sup>4</sup> Die allgemeinen Zulassungsbedingungen der Universität Bern bleiben vorbehalten.
-
-[^A21-1]: SR 413.11
-[^A21-2]: SR 413.14
 
 Bern, 12. September 2012
 
