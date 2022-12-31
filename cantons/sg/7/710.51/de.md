@@ -4,13 +4,13 @@ number: "710.51"
 title: Verordnung über den öffentlichen Verkehr
 short: VöV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-16
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2015-12-08
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/710.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3300/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3433/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3300/pdf_file"
 
 (VöV)
 
-vom 08.12.2015 (Stand 01.01.2022)
+vom 08.12.2015 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -168,8 +168,13 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Erfüllt eine Linie die Zielvorgaben nicht, können für Angebotsausbauten ausnahmsweise ordentliche Abgeltungen geleistet werden, wenn die Angebotsausbauten:
 
-- a) aufgrund einer Fahrplanänderung des Fernverkehrs erfolgen und
-- b) notwendig sind, um eine deutliche Verschlechterung der Umsteigezeiten zu verhindern.
+- a) aufgrund einer Fahrplanänderung des Fernverkehrs erfolgen und notwendig sind, um eine deutliche Verschlechterung der Umsteigezeiten zu verhindern;
+- b) …
+- c) nicht federführend durch den Kanton bestellt werden;
+- d) anlässlich der Automatisierung des Betriebs erfolgen und insgesamt nur zu geringfügigen Mehrkosten führen;
+- e) eine Linie betreffen, die:
+  - 1\. wenigstens die Mindestvorgaben erfüllt und
+  - 2\. Teil eines Gesamtsystems nach Anhang 1 dieses Erlasses ist und das Gesamtsystem als Ganzes die Zielvorgaben derjenigen Linie des Gesamtsystems mit der höchsten Angebotsstufe erfüllt.
 
 ## IV. Beteiligung der politischen Gemeinden an den Beiträgen
 
@@ -189,9 +194,13 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Erschliessung der politischen Gemeinde bemisst sich nach der Zahl aller gewichteten, fahrplanmässigen Abfahrten ab Haltestellen auf dem Gemeindegebiet. Vorbehalten ist Art. 18 dieses Erlasses.
 
-<sup>2</sup> Massgebend sind die Abfahrten gemäss dem offiziellen Kursbuch während eines Fahrplanjahrs. Ist eine Linie nicht im Kursbuch enthalten, richtet sich die Zahl der Abfahrten nach dem Fahrplan des Transportunternehmens.
+<sup>2</sup> Massgebend sind die Abfahrten gemäss dem elektronisch publizierten Fahrplan.
 
-<sup>3</sup> Die Zahl der Abfahrten wird für eine zweijährige Fahrplanperiode erhoben. Massgebend sind die Abfahrten im ersten Jahr der Fahrplanperiode. Die Zahl der Abfahrten wird für das zweite Jahr neu erhoben, wenn sich das Angebot erheblich verändert hat und wenigstens 15 politische Gemeinden bis spätestens 1. März des zweiten Jahres die Neuerhebung verlangen.
+<sup>2<sup>bis</sup></sup> Bei Busangeboten werden nur jene Linien berücksichtigt, die der Kanton bestellt.
+
+<sup>3</sup> Die Zahl der Abfahrten wird zu Beginn jedes Fahrplanjahres erhoben.
+
+<sup>3<sup>bis</sup></sup> Bei Bedarfsangeboten ist die durch das Transportunternehmen erhobene Anzahl Halte für Ein- und Ausstiege des Vorjahres massgebend.
 
 <sup>4</sup> Beim Verteilschlüssel für die ordentlichen Abgeltungen wird die Zahl der fahrplanmässigen Abfahrten aus Versuchsbetrieben nicht berücksichtigt.
 
