@@ -4,13 +4,13 @@ number: "178.101"
 title: Règlement concernant la loi sur le notariat
 short: RLN
 language: fr
-version: 2022-01-01
-corrected: 2021-12-03
-version_adopted: 2021-12-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-21
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2967/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3142/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2967/pdf_file"
 
 (RLN)
 
-du 07.09.2005 (état 01.01.2022)
+du 07.09.2005 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -44,7 +44,7 @@ arrête:
 <sup>2</sup> Il s'effectue:
 
 - a) pendant six mois au moins en l'étude d'un ou, successivement, de plusieurs notaires du canton;
-- b) sans rémunération, pendant un mois au plus dans un office du registre du commerce et deux mois au plus dans un office du registre foncier.
+- b) sans rémunération, pendant 2 semaines au moins et 1 mois au plus dans un office du registre du commerce et 2 semaines au moins et 2 mois au plus dans un office du registre foncier.
 
 <sup>3</sup> Le stage s'effectue en principe à plein temps. Le département dont relèvent les notaires (département) peut autoriser une réduction du temps de travail pour de justes motifs. Cette réduction ne doit pas excéder 20 pour cent. En cas de réduction du temps de travail, la durée minimum du stage est prolongée en proportion.
 
@@ -57,6 +57,8 @@ arrête:
 **Formation durant le stage a) En général**
 
 <sup>1</sup> Les maîtres de stage du service public et les notaires maîtres de stage se concertent entre eux afin de coordonner au mieux l'engagement et la formation des stagiaires.
+
+<sup>1<sup>bis</sup></sup> Sont habilités à former des stagiaires les notaires autorisés à exercer depuis 2 années consécutives.
 
 <sup>2</sup> Le notaire maître de stage ne peut se charger, simultanément, que de la formation de deux stagiaires au maximum.
 
@@ -138,6 +140,8 @@ arrête:
 
 <sup>1<sup>bis</sup></sup> Elle comprend un président et 14 membres.
 
+<sup>1<sup>ter</sup></sup> Une fois nommés, les membres de la commission sont tenus de siéger pendant la période pour laquelle ils ont été nommés, sous réserve de démission pour justes motifs.
+
 <sup>2</sup> Les deux langues officielles doivent être représentées. Les membres de la commission qui font passer et qui corrigent les examens doivent parler la même langue officielle que le candidat.
 
 <sup>3</sup> Ne peuvent fonctionner comme membres de la commission:
@@ -171,8 +175,8 @@ arrête:
 
 <sup>1</sup> Les membres de la commission perçoivent les indemnités suivantes:
 
-- a) 300 francs pour la préparation des thèmes;
-- b) 150 francs par candidat, pour la correction des épreuves écrites;
+- a) 600 francs pour la préparation des thèmes;
+- b) 300 francs par candidat, pour la correction des épreuves écrites;
 - c) 300 francs par candidat, pour les épreuves orales;
 - d) 150 francs pour la surveillance des épreuves écrites.
 
@@ -267,7 +271,7 @@ arrête:
 
 **Délivrance du brevet**
 
-<sup>1</sup> La délivrance du brevet donne droit à la perception d'un émolument de 160 francs.
+<sup>1</sup> L’émolument d’examen au sens de l’article 8 alinéa 3 comprend la délivrance du brevet.
 
 ## 2 De la Chambre de surveillance
 
@@ -576,5 +580,11 @@ Le notaire dit au déclarant: "Vous jurez (ou vous promettez) que la déclaratio
 #### Art. T1-1
 
 <sup>1</sup> Le présent acte législatif produit ses effets la première fois pour tous les candidats inscrits à la session d'examen du printemps 2020.
+
+## T2 Disposition transitoire de la modification du 1<sup>er</sup> décembre 2021
+
+#### Art. T2-1
+
+<sup>1</sup> Les notaires qui, au 1<sup>er</sup> janvier 2022, forment des stagiaires, peuvent en achever la formation même s’ils ne remplissent pas la condition prévue par l'article 2 alinéa 1<sup>bis</sup> relative à la durée de pratique.
 
 RCV BO/Abl. 46/2005

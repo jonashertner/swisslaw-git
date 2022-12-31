@@ -4,13 +4,13 @@ number: "178.101"
 title: Reglement betreffend das Notariatsgesetz
 short: RNG
 language: de
-version: 2022-01-01
-corrected: 2021-12-03
-version_adopted: 2021-12-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-21
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/de/versions/2967/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2967/pdf_file"
 
 (RNG)
 
-vom 07.09.2005 (Stand 01.01.2022)
+vom 07.09.2005 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -44,7 +44,7 @@ beschliesst:
 <sup>2</sup> Es erfolgt:
 
 - a) während mindestens sechs Monaten in einer Kanzlei eines oder nacheinander mehrerer Notare des Kantons;
-- b) ohne Entlöhnung während höchstens einem Monat in einem Handelsregisteramt, oder während höchstens zwei Monaten in einem Grundbuchamt.
+- b) ohne Entlöhnung, während mindestens 2 Wochen und höchstens 1 Monat in einem Handelsregisteramt, und während mindestens 2 Wochen und höchstens 2 Monaten in einem Grundbuchamt.
 
 <sup>3</sup> Das Praktikum hat in der Regel vollzeitlich zu erfolgen. Das Departement, dem die Notare unterstellt sind (Departement), kann aus wichtigen Gründen eine Verkürzung der Arbeitszeit bewilligen. Die Verkürzung darf jedoch 20 Prozent nicht überschreiten. Bei Verkürzung der Arbeitszeit verlängert sich die Mindestdauer des Praktikums verhältnismässig.
 
@@ -57,6 +57,8 @@ beschliesst:
 **Ausbildung während des Praktikums a) Im Allgemeinen**
 
 <sup>1</sup> Damit die Anstellung und die Ausbildung der Praktikanten möglichst gut aufeinander abgestimmt werden können, verständigen sich die Praktikumsmeister des öffentlichen Dienstes sowie des Notariats untereinander.
+
+<sup>1<sup>bis</sup></sup> Notare, die seit 2 Jahren ununterbrochen zur Ausübung ihres Berufes zugelassen sind, sind berechtigt, Praktikanten auszubilden.
 
 <sup>2</sup> Ein Praktikumsmeister darf gleichzeitig höchstens zwei Praktikanten ausbilden.
 
@@ -138,6 +140,8 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Sie besteht aus einem Präsidenten und 14 Mitgliedern.
 
+<sup>1<sup>ter</sup></sup> Die ernannten Kommissionsmitglieder müssen während des Zeitraums, für den sie ernannt wurden, ihr Mandat ausführen; Rücktritte aus berechtigten Gründen bleiben vorbehalten.
+
 <sup>2</sup> Beide Landessprachen sind darin vertreten. Die Kommissionsmitglieder, welche die Prüfungen abnehmen und korrigieren, müssen die gleiche Landessprache wie der Kandidat sprechen.
 
 <sup>3</sup> Als Mitglieder dieser Kommission können nicht amten:
@@ -171,8 +175,8 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder der Prüfungskommission werden wie folgt entschädigt:
 
-- a) 300 Franken für die Vorbereitung der Themen;
-- b) 150 Franken pro Kandidat, für die Korrektur der schriftlichen Prüfungsarbeiten;
+- a) 600 Franken für die Vorbereitung der Themen;
+- b) 300 Franken pro Kandidat, für die Korrektur der schriftlichen Prüfungsarbeiten;
 - c) 300 Franken pro Kandidat, für die mündlichen Prüfungen;
 - d) 150 Franken für die Aufsicht anlässlich der schriftlichen Prüfungen.
 
@@ -267,7 +271,7 @@ beschliesst:
 
 **Erteilung des Diploms**
 
-<sup>1</sup> Die Erteilung des Diploms berechtigt zur Erhebung einer Gebühr von 160 Franken.
+<sup>1</sup> Für die Erteilung des Diploms wird keine zusätzliche Gebühr erhoben, diese ist in der Prüfungsgebühr gemäss Artikel 8 Absatz 3 enthalten.
 
 ## 2 Aufsichtskammer
 
@@ -576,5 +580,11 @@ Der Notar sagt dem Erklärenden: "Schwören Sie (Versprechen Sie), dass die von 
 #### Art. T1-1
 
 <sup>1</sup> Der vorliegende Rechtserlass gilt erstmals für alle Kandidaten, die für die Prüfungssession im Frühling 2020 eingeschrieben sind.
+
+## T2 Übergangsbestimmung der Änderung vom 1. Dezember 2021
+
+#### Art. T2-1
+
+<sup>1</sup> Notare, die am 1. Januar 2022 Praktikanten ausbilden, können dies bis zu deren Abschluss des Praktikums tun, auch wenn sie die in Artikel 2 Absatz 1<sup>bis</sup> genannte Voraussetzung der Berufserfahrung nicht erfüllen.
 
 CSW BO/Abl. 46/2005
