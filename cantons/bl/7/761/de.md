@@ -4,13 +4,12 @@ number: "761"
 title: Gesetz über die Prävention vor Schäden durch Brand- und gravitative Naturgefahren
 short: "Brand- und Naturgefahrenpräventionsgesetz, BNPG"
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-01-12
+version: 2023-01-01
+version_adopted: 2022-03-24
 adopted: 2017-01-12
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/761"
-pdf: "https://bl.clex.ch/api/de/versions/1891/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/1891/pdf_file"
 
 (Brand- und Naturgefahrenpräventionsgesetz, BNPG)
 
-Vom 12.01.2017 (Stand 01.01.2018)
+Vom 12.01.2017 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -184,9 +183,9 @@ beschliesst:[^ingress-2]
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug angeordneter, nicht umgesetzter Schutzmassnahmen richtet sich nach der Gesetzgebung über das Verwaltungsverfahren. Die Direktion der BGV bzw. der Gemeinderat gelten als sachlich zuständige Direktion.
+<sup>1</sup> Der Vollzug angeordneter, nicht umgesetzter Schutzmassnahmen richtet sich nach der Gesetzgebung über das Verwaltungsverfahren. Die Geschäftsleitung der BGV bzw. der Gemeinderat gelten als sachlich zuständige Direktion.
 
-<sup>2</sup> Die Direktion der BGV kann auf den Vollzug angeordneter, nicht umgesetzter Schutzmassnahmen verzichten und die Baute oder Anlage von deren Versicherung ausschliessen. Die Einzelheiten richten sich nach der Sachversicherungsgesetzgebung.
+<sup>2</sup> Die Geschäftsleitung der BGV kann auf den Vollzug angeordneter, nicht umgesetzter Schutzmassnahmen verzichten und die Baute oder Anlage von deren Versicherung ausschliessen. Die Einzelheiten richten sich nach der Gebäudeversicherungsgesetzgebung.
 
 #### § 18
 
@@ -196,7 +195,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Sie kann auch Beiträge an Schutzmassnahmen gegen Schäden durch andere als gravitative Naturgefahren leisten.
 
-<sup>3</sup> Die Verwaltungskommission der BGV (Verwaltungskommission) regelt die Beiträge im Reglement.
+<sup>3</sup> Der Verwaltungsrat der BGV («Verwaltungsrat») regelt die Beiträge.
 
 ## 3 Schlussbestimmungen
 
@@ -208,7 +207,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Gegen Schutzmassnahmeverfügungen der BGV kann innert 10 Tagen beim Regierungsrat Beschwerde erhoben werden. Die Beschwerde ist innert weiteren 30 Tagen zu begründen.
 
-<sup>3</sup> Gegen Beitragsverfügungen der BGV kann innert 10 Tagen bei der Verwaltungskommission Beschwerde erhoben werden. Gegen ihre Beschwerdeentscheide kann innert 10 Tagen beim Kantonsgericht (Abteilung Verfassungs- und Verwaltungsrecht) Beschwerde erhoben werden.
+<sup>3</sup> Gegen Beitragsverfügungen der BGV kann innert 10 Tagen beim Verwaltungsrat Beschwerde erhoben werden. Gegen seine Beschwerdeentscheide kann innert 10 Tagen beim Kantonsgericht (Abteilung Verfassungs- und Verwaltungsrecht) Beschwerde erhoben werden.
 
 #### § 20
 
