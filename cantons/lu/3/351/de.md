@@ -4,13 +4,13 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2022-06-01
-valid_until: 2022-12-31
-version_adopted: 2022-07-05
+version: 2023-01-01
+valid_until: 2023-06-30
+version_adopted: 2022-12-06
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/3928/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3928/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.06.2022)
+vom 06.04.2004 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1 Absatz 3, 2 Absatz 3, 13b Absatz 5, 24, 27 Absatz 2, 29 und 30 Absatz 2 des Gesetzes über die Luzerner Polizei vom 27. Januar 1998[^ingress-1], auf § 81 des Personalgesetzes vom 26. Juni 2001[^ingress-2] und auf Artikel 7 des Polizeikonkordats Zentralschweiz vom 6. November 2009[^ingress-3],
+gestützt auf die §§ 1 Absatz 3, 2 Absatz 3, 4<sup>sexies</sup> Absatz 3, 4<sup>septies</sup> Absatz 4, 4<sup>octies</sup> Absatz 3, 4<sup>novies</sup> Absatz 3, 13b Absatz 5, 24, 27 Absatz 2, 29 und 30 Absatz 2 des Gesetzes über die Luzerner Polizei vom 27. Januar 1998[^ingress-1], auf § 81 des Personalgesetzes vom 26. Juni 2001[^ingress-2] und auf Artikel 7 des Polizeikonkordats Zentralschweiz vom 6. November 2009[^ingress-3],
 
 auf Antrag des Justiz- und Sicherheitsdepartementes,
 
@@ -94,6 +94,96 @@ beschliesst:
 <sup>1</sup> Das Departementssekretariat des Justiz- und Sicherheitsdepartementes koordiniert die Zusammenarbeit zwischen der Luzerner Polizei, anderen Behörden sowie Dritten bei Gefährdungsmeldungen nach § 13b des Gesetzes über die Luzerner Polizei.
 
 <sup>2</sup> Innerhalb des Departementssekretariates sind einzig die Mitarbeitenden der Anlaufstelle Kantonales Bedrohungsmanagement berechtigt, die Personendaten gemäss § 13b des Gesetzes über die Luzerner Polizei einzusehen und zu bearbeiten.
+
+#### § 3b
+
+**Betrieb von Analysesystemen im Bereich der seriellen Kriminalität**
+
+<sup>1</sup> Analysesysteme zur seriellen Kriminalität unterstützen die Luzerner Polizei dabei, Deliktserien oder Tendenzen zu solchen Serien sowie Wiederholungstäterinnen und -täter zu erkennen und in der Folge polizeiliche Massnahmen darauf abzustimmen. Die Ergebnisse der Analyse dürfen in Echtzeit auf verschiedenen elektronischen Geräten angezeigt werden.
+
+<sup>2</sup> In den Analysesystemen können folgende Kategorien von Daten bearbeitet werden:
+
+- a. Angaben zum Ereignis und zum Ereignisort,
+- b. Angaben zum Tatvorgehen und zu den Tatmitteln, bei Cyberdelikten insbesondere zur Hard-, Soft- und Malware,
+- c. Angaben zur bekannten und unbekannten Täterschaft und zu verdächtigen Personen, insbesondere:
+  - 1\. Namen sowie Vor-, Alias- und Elternnamen,
+  - 2\. Geburtsdatum,
+  - 3 Identifikationsnummer in Ausweispapieren,
+  - 4\. Heimat- und Geburtsort sowie Nationalität,
+  - 5\. Wohnadressen und elektronische Adressen,
+  - 6\. Angaben zu Kommunikationsmitteln,
+  - 7\. Geschlecht,
+  - 8\. Fotos,
+  - 9\. biometrische Daten, wie Fingerabdrücke und Gesichtserkennungsdaten,
+  - 10\. Haar-, Augen- und Hautfarbe sowie weitere Erkennungsmerkmale,
+- d. Angaben zu analogen und digitalen Spuren,
+- e. Prozesskontrollnummern gemäss Artikel 8 Absatz 3 des Bundesgesetzes über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz) vom 20. Juni 2003[^3b-1],
+- f. Angaben zu geschädigten natürlichen und juristischen Personen, wie:
+  - 1\. Namen und Vornamen,
+  - 2\. Geburtsdatum,
+  - 3\. Geschlecht,
+  - 4\. Angaben zu Kommunikationsmitteln,
+  - 5\. bei juristischen Personen: Firma und Sitz,
+- g. Angaben zum Deliktsgut,
+- h. Angaben zu Fahrzeugen, die in einem Zusammenhang mit dem Ereignis stehen könnten,
+- i. Angaben zu Fallverbindungen zwischen Ereignissen,
+- j. Angaben zu Informationsquellen,
+- k. Ereignisbilder,
+- l. Informationen zu Zahlungsmitteln und zum Geldfluss,
+- m. Zugangsdaten zu Datenbearbeitungssystemen,
+- n. Verfahrensdaten.
+
+<sup>3</sup> Ausschliesslich Angehörige der Luzerner Polizei mit spezialisierter Ausbildung sind berechtigt, in den Analysesystemen Daten zu bearbeiten. Die übrigen Angehörigen der Luzerner Polizei dürfen lediglich von den Analyseergebnissen Kenntnis nehmen.
+
+[^3b-1]: SR [363](https://db.clex.ch/link/Bund/363/de)
+
+#### § 3c
+
+**Gemeinsamer Betrieb von Einsatzleitzentralen**
+
+<sup>1</sup> Zum gemeinsamen Betrieb von Einsatzleitzentralen dürfen Personendaten aus den folgenden Datenbearbeitungssystemen mit den Polizeikorps anderer Kantone ausgetauscht und bearbeitet werden:
+
+- a. Einsatzleitsystem,
+- b. Geografisches Informationssystem (GIS) mit markierten Standorten der Einsatzmittel in Echtzeit,
+- c. Systeme zur Darstellung von Lagebildern,
+- d. Systeme der Verkehrs- und Videoüberwachung,
+- e. Notruftelefonie,
+- f. Datensammlungen zur Abschätzung der Gefährlichkeit von Personen,
+- g. Dienstpläne der Polizeikorps.
+
+#### § 3d
+
+**Polizeilicher Informationssystem-Verbund des Bundes und der Kantone**
+
+<sup>1</sup> Der Datenaustausch im Rahmen des polizeilichen Informationssystem-Verbundes des Bundes und der Kantone erfolgt in den folgenden Systemen:
+
+- a. polizeiliche Abfrageplattform des Bundes und der Kantone als Informationsdrehscheibe für das Abrufen von kantonalen, nationalen und internationalen Daten über Personen, Fahrzeuge, Sachen und deren Vorgänge,
+- b. Ermittlungssystem des Bundes für den Austausch von Daten über Vorermittlungen und Ermittlungen innerhalb von Strafverfahren sowie für die Koordination von interkantonalen oder internationalen Ermittlungsmassnahmen.
+
+<sup>2</sup> Von den kantonalen Datenbanken über Personen, Fahrzeuge, Sachen und deren Vorgänge können diejenigen Kategorien von Daten ausgetauscht werden, welche die Polizeien zur Erfüllung ihrer Aufgaben benötigen. Von den kantonalen Datenbanken über Vorermittlungen und Ermittlungen innerhalb von Strafverfahren können die Datenkategorien nach § 3b Absatz 2 dieser Verordnung ausgetauscht werden. Im Übrigen richtet sich der Inhalt der Datenbanken, deren Daten ausgetauscht werden können, nach dem Bundesrecht.
+
+<sup>3</sup> Die Angehörigen der Luzerner Polizei haben Zugriff auf die polizeiliche Abfrageplattform nach Absatz 1a, soweit sie Zugriffsberechtigung zu den einzelnen Systemen haben. Die Zugriffsberechtigungen auf das Ermittlungssystem des Bundes sind im Bundesrecht geregelt.
+
+#### § 3e
+
+**Systeme zur Darstellung von Lagebildern**
+
+<sup>1</sup> In einem System zur Darstellung von Lagebildern wird die Gesamtheit der Zustände sowie deren mögliche Entwicklungen in den Bereichen Umwelt, Gefahren, Bedrohung, polizeiliche Mittel und Mittel der Blaulichtorganisationen von anderen Kantonen dargestellt. Das Lagebild darf in Echtzeit auf verschiedenen elektronischen Geräten angezeigt werden.
+
+<sup>2</sup> In den Systemen zur Darstellung von Lagebildern können folgende Kategorien von Daten bearbeitet werden:
+
+- a. Informationen zu Ereignissen, stationären Objekten und Veranstaltungen, einschliesslich Bewilligungen der Polizei oder von Dritten,
+- b. Verkehrslage und Baustellenmanagement,
+- c. Informationen zum Einsatz und zur Verfügbarkeit der polizeilichen Mittel,
+- d. aktuelle Brennpunkte der Polizeiarbeit,
+- e. statistische Zahlen, Analyseergebnisse und Handlungsempfehlungen zu Seriendelikten oder zum Eigenschutz,
+- f. Lageberichte von Partnerorganisationen,
+- g. Fahndungen und Angaben zu vermissten Personen,
+- h. Wegweisungen,
+- i. Bewachungsaufträge,
+- j. Lagerapport für die strategische Polizeiführung.
+
+<sup>3</sup> Die Luzerner Polizei legt die Zugriffsberechtigungen auf Inhalte des Lagebildes für die einzelnen Benutzerrollen in einem Informationssicherheits- und Datenschutzkonzept fest. Als intern klassifizierte Inhalte können von allen Angehörigen der Luzerner Polizei eingesehen werden, die Zugriff auf die Stammdatenbank der Luzerner Polizei haben. Die Einsicht in sensible Daten, namentlich in besonders schützenswerte Personendaten, sowie weiter gehende Datenbearbeitungsrechte sind speziell bezeichneten Angehörigen der Luzerner Polizei vorbehalten.
 
 ## 2 Dienstrechtliche Vorschriften
 
