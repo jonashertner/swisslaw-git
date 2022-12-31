@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° aprile 2022)
+del 1° novembre 2017 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -119,13 +119,24 @@ Per impianti fotovoltaici di piccole dimensioni s’intendono:
 
 #### Art. 9
 
-**Deroghe al limite inferiore nel caso degli impianti idroelettrici**
+**Deroghe al limite inferiore nel caso degli impianti idroelettrici**[^9-1]
 
-Oltre agli impianti idroelettrici collegati con impianti di approvvigionamento di acqua potabile e di smaltimento delle acque di scarico, gli impianti idroelettrici seguenti sono esclusi dal limite inferiore di cui agli articoli 19 capoverso 4 lettera a e 24 capoverso 1 lettera b numero 2 LEne:
+<sup>1</sup>
+
+Oltre agli impianti idroelettrici collegati con impianti di approvvigionamento di acqua potabile e di smaltimento delle acque di scarico, gli impianti idroelettrici seguenti sono esclusi dal limite inferiore di cui all’articolo 19 capoverso 4 lettera a LEne:
 
 - a. centrali con utilizzo di acqua di dotazione;
 - b. impianti presso scolatori di piena creati in modo artificiale, canali industriali e canali di derivazione e di restituzione esistenti, sempre che non vengano provocati nuovi interventi nelle acque naturali o preziose sul piano ecologico;
 - c. impianti accessori come impianti ad acqua irrigua, centrali che utilizzano l’infrastruttura per l’innevamento artificiale o acqua di galleria.
+
+<sup>2</sup>
+
+Oltre agli impianti accessori secondo l’articolo 26 capoverso 4 LEne, gli impianti idroelettrici seguenti sono esclusi dal limite inferiore di cui all’articolo 26 capoverso 1 LEne:
+
+- a. centrali con utilizzo di acqua di dotazione;
+- b. impianti presso scolatori di piena creati in modo artificiale, canali industriali e canali di derivazione e di restituzione esistenti, sempre che non vengano provocati nuovi interventi nelle acque naturali o preziose sul piano ecologico.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 10
 
@@ -276,7 +287,7 @@ Gli impianti nella lista d’attesa per le altre tecnologie di produzione sono p
 
 <sup>2</sup> Gli stati di avanzamento del progetto e la messa in esercizio nonché i relativi termini sono determinati negli allegati 1.1–1.5.
 
-<sup>2bis</sup> I termini per gli stati di avanzamento del progetto e la messa in esercizio sono sospesi per la durata delle procedure di ricorso concernenti la progettazione, concessione o costruzione.[^23-1]
+<sup>2bis</sup> I termini per gli stati di avanzamento del progetto e la messa in esercizio sono sospesi per la durata delle procedure di ricorso concernenti la pianificazione, concessione o costruzione.[^23-1]
 
 <sup>3</sup> Se il richiedente non è in grado di rispettare i termini per gli stati di avanzamento del progetto e la messa in esercizio per ragioni a lui non imputabili, su richiesta l’organo d’esecuzione può prorogarli al massimo della durata equivalente al termine previsto. La domanda va presentata per scritto entro la scadenza di questo termine.[^23-2]
 
@@ -284,7 +295,7 @@ Gli impianti nella lista d’attesa per le altre tecnologie di produzione sono p
 
 <sup>5</sup> Egli è tenuto a presentare la notifica completa di messa in esercizio al più tardi un mese dalla messa in esercizio. Se non rispetta tale termine, fino al momento in cui la notifica viene presentata non ha diritto all’erogazione del premio per l’immissione di elettricità.
 
-[^23-1]: Introdotto il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^23-1]: Introdotto il n. I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^23-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 
 #### Art. 24
@@ -373,11 +384,13 @@ I produttori nella commercializzazione diretta ricevono trimestralmente dall’o
 
 <sup>3</sup> Negli impianti fotovoltaici il tasso di rimunerazione originario viene ridotto dalla messa in esercizio dell’ampliamento o del rinnovamento. Il nuovo tasso di rimunerazione si calcola sulla base del valore medio ponderato secondo la potenza tra il tasso di rimunerazione determinante al momento della prima messa in esercizio e il tasso di rimunerazione di 0 ct./kWh per l’ampliamento o il rinnovamento.
 
-<sup>4</sup> Un impianto fotovoltaico è escluso da tale riduzione se è garantito che l’elettricità prodotta dall’elemento dell’impianto ampliato o rinnovato non confluisce nel conteggio dell’elettricità prodotta dall’impianto originario inserito nel sistema di rimunerazione per l’immissione di elettricità.
+<sup>4</sup> ...[^28-1]
 
 <sup>5</sup> Nel caso delle piccole centrali idroelettriche e degli impianti a biomassa il tasso di rimunerazione originario viene ridotto proporzionalmente dalla messa in esercizio dell’ampliamento o del rinnovamento. Il calcolo del nuovo tasso di rimunerazione è retto dagli allegati 1.1 e 1.5.
 
 <sup>6</sup> In caso di mancata notifica o se la notifica di cui al capoverso 1 non avviene entro il termine stabilito, il gestore è tenuto a restituire all’organo d’esecuzione, senza interessi, la differenza tra la rimunerazione ottenuta e la rimunerazione calcolata secondo i tassi di rimunerazione contemplati nel capoverso 3 o 5.
+
+[^28-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 29
 
@@ -416,28 +429,34 @@ L’organo d’esecuzione dispone l’esclusione di un gestore dal sistema di ri
 
 <sup>1</sup> Fintantoché un gestore ottiene per un impianto un finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne o una rimunerazione per l’immissione in rete di elettricità non è possibile accordargli né una rimunerazione unica né un contributo d’investimento.
 
-<sup>2</sup> Sono esenti da tale esclusione gli ampliamenti considerevoli di impianti fotovoltaici, se sono stati messi in servizio dopo il 31 dicembre 2017 e se sono adempiuti i requisiti di cui all’articolo 28 capoverso 4.[^31-1]
+<sup>2</sup> ...[^31-1]
 
-[^31-1]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^31-1]: Introdotto dal n. I dell’O del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 32
 
-**Autorizzazione di inizio anticipato dei lavori**
+**Autorizzazione di inizio anticipato dei lavori**[^32-1]
 
-L’UFE può autorizzare l’inizio anticipato dei lavori negli impianti idroelettrici e a biomassa, se l’attendere la garanzia di principio comporterebbe gravi inconvenienti. L’autorizzazione non dà alcun diritto a un contributo d’investimento.
+L’UFE può autorizzare l’inizio anticipato dei lavori negli impianti idroelettrici, a biomassa e geotermici, se attendere la garanzia di principio comporterebbe gravi inconvenienti. L’autorizzazione non dà alcun diritto a un contributo d’investimento.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 33
 
-**Requisiti relativi all’esercizio e al funzionamento degli impianti**
+**Requisiti relativi all’esercizio e al funzionamento degli impianti**[^33-1]
 
 <sup>1</sup>
 
 Un impianto per il quale sono stati versati una rimunerazione unica o un contributo d’investimento deve essere sottoposto, a partire dalla sua messa in esercizio, dall’ampliamento o dal rinnovamento, a una manutenzione per almeno la durata seguente, in modo che sia garantito un esercizio regolare:
 
-- a. 15 anni nel caso di impianti fotovoltaici, IIR e impianti idroelettrici;
-- b. 10 anni nel caso di impianti a gas di depurazione e di impianti a combustione a legna d’importanza regionale.
+- a. 15 anni nel caso di impianti fotovoltaici, IIR, forni per l’incenerimento di fanghi, impianti eolici e idroelettrici;
+- b. 10 anni nel caso di impianti di produzione di biogas, centrali elettriche a legna, impianti a gas di depurazione e impianti a gas di discarica.
 
 <sup>2</sup> Durante almeno 15 anni gli impianti fotovoltaici devono inoltre essere in esercizio in modo tale da non scendere al di sotto della produzione minima attesa in base all’ubicazione e all’orientamento.
+
+<sup>3</sup> I gestori di impianti fotovoltaici ai quali è stata accordata una rimunerazione unica ai sensi dell’articolo 25 capoverso 3 LEne (rimunerazione unica elevata), non possono fare uso del consumo proprio secondo l’articolo 16 LEne per almeno 15 anni dalla messa in esercizio dell’impianto.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 34
 
@@ -451,16 +470,29 @@ Un impianto per il quale sono stati versati una rimunerazione unica o un contrib
 
 [^34-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
+#### Art. 34a
+
+**Restituzione dei contributi d’investimento per progetti di prospezione o sfruttamento di serbatoi geotermici**[^34a-1]
+
+<sup>1</sup> Qualora un progetto di prospezione o sfruttamento di un serbatoio geotermico sia utilizzato per altri scopi e permetta di conseguire un utile, l’UFE può disporre la restituzione parziale o totale dei contributi d’investimento versati.
+
+<sup>2</sup>
+
+Prima di un utilizzo per altri scopi o di un’alienazione l’UFE deve essere informato in merito a:
+
+- a. il tipo di utilizzazione previsto;
+- b. i rapporti di proprietà e i responsabili;
+- c. eventuali utili e il relativo ammontare.
+
+[^34a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
 #### Art. 35
 
 **Termine di attesa**[^35-1]
 
-La durata minima durante la quale il gestore non può chiedere un’altra rimunerazione unica o altri contributi d’investimento è di:
+Se per la costruzione di un nuovo impianto fotovoltaico o per l’ampliamento considerevole di un impianto fotovoltaico è stata accordata una rimunerazione unica elevata, deve trascorrere almeno un anno dalla messa in esercizio di questo impianto o ampliamento per mettere in esercizio sullo stesso fondo un altro impianto fotovoltaico senza consumo proprio o un ampliamento considerevole di un tale impianto e poter chiedere una rimunerazione unica elevata.
 
-- a. 15 anni nel caso di IIR;
-- b. 10 anni nel caso di impianti a gas di depurazione e di centrali elettriche a legna di importanza regionale.
-
-[^35-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^35-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ## Capitolo 4: Rimunerazione unica per impianti fotovoltaici
 
@@ -468,9 +500,11 @@ La durata minima durante la quale il gestore non può chiedere un’altra rimune
 
 #### Art. 36
 
-**Dimensione minima e limite superiore di potenza per il versamento di una rimunerazione unica**
+**Dimensione minima per il versamento di una rimunerazione unica**[^36-1]
 
-Una rimunerazione unica viene versata per gli impianti fotovoltaici con una potenza di almeno 2 kW fino al massimo 50 MW.
+Una rimunerazione unica viene versata per gli impianti fotovoltaici con una potenza di almeno 2 kW.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 37
 
@@ -480,11 +514,15 @@ Un impianto è considerato ampliato o rinnovato in misura considerevole se la po
 
 #### Art. 38
 
-**Calcolo della rimunerazione unica e adeguamento degli importi**
+**Calcolo della rimunerazione unica e degli importi[^38-1]**
 
 <sup>1</sup> La rimunerazione unica è composta di un contributo di base e di un contributo legato alla potenza.
 
-<sup>1bis</sup> Per gli impianti integrati con un angolo di inclinazione di almeno 75 gradi che sono stati messi in esercizio a partire dal 1° gennaio 2022, il contributo legato alla potenza viene aumentato con un bonus.[^38-1]
+<sup>1</sup> <sup>bis</sup> Per gli impianti integrati con un angolo di inclinazione di almeno 75 gradi che sono stati messi in esercizio a partire dal 1° gennaio 2022, il contributo legato alla potenza viene aumentato con un bonus.[^38-2]
+
+<sup>1ter</sup> Per gli impianti annessi o isolati con un angolo di inclinazione di almeno 75 gradi che sono stati messi in esercizio a partire dal 1° gennaio 2023, il contributo legato alla potenza viene aumentato con un bonus.[^38-3]
+
+<sup>1quater</sup> Per gli impianti fotovoltaici ubicati al di fuori delle zone edificabili, non annessi a un edificio né integrati al suo interno, il contributo legato alla potenza viene aumentato con un bonus purché essi abbiano una potenza minima di 150 kW e siano stati installati a un’altitudine di almeno 1500 m sul livello del mare.[^38-4]
 
 <sup>2</sup> Gli importi sono determinati nell’allegato 2.1. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) li verifica annualmente. In caso di mutamento considerevole delle circostanze esso presenta al Consiglio federale una proposta di adeguamento degli importi.
 
@@ -492,12 +530,31 @@ Un impianto è considerato ampliato o rinnovato in misura considerevole se la po
 
 <sup>4</sup> Per gli ampliamenti o i rinnovamenti considerevoli viene versato soltanto un contributo legato alla potenza equivalente all’aumento della potenza raggiunta con l’ampliamento o il rinnovamento. Non viene versato alcun contributo di base.
 
-<sup>5</sup> Se un impianto viene ampliato già prima dell’ottenimento della rimunerazione unica, il contributo di base viene versato per l’elemento dell’impianto messo in esercizio per primo e il contributo legato alla potenza in funzione della data di messa in esercizio dei singoli elementi dell’impianto.[^38-2]
+<sup>5</sup> Se un impianto viene ampliato già prima dell’ottenimento della rimunerazione unica, il contributo di base viene versato per l’elemento dell’impianto messo in esercizio per primo e il contributo legato alla potenza in funzione della data di messa in esercizio dei singoli elementi dell’impianto.[^38-5]
 
 <sup>6</sup> Nel caso di un impianto costituito da più campi fotovoltaici che rientrano in diverse categorie di impianti secondo l’articolo 6, il contributo di base è calcolato sulla scorta del valore medio degli importi ponderato in base alla potenza e il contributo legato alla potenza in funzione degli elementi della potenza per categoria.
 
-[^38-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+[^38-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^38-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^38-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^38-4]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^38-5]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+
+#### Art. 38a
+
+**Determinazione della rimunerazione unica tramite aste**[^38a-1]
+
+<sup>1</sup> Per i progetti di costruzione di nuovi impianti fotovoltaici senza consumo proprio a partire da una potenza di 150 kW l’ammontare della rimunerazione unica è fissata tramite aste.
+
+<sup>2</sup> Per gli impianti fotovoltaici da realizzare al di fuori di zone edificabili e che soddisfano determinati ulteriori criteri è possibile effettuare aste speciali separate.
+
+<sup>3</sup> La rimunerazione unica fissata tramite aste è costituita da un contributo legato alla potenza per ogni kW di potenza installata.
+
+<sup>4</sup> Se un impianto ha un angolo d’inclinazione di almeno 75 gradi, in aggiunta all’importo indicato nell’offerta è accordato il bonus per l’angolo d’inclinazione di cui all’articolo 38 capoversi 1<sup>bis</sup> o 1<sup>ter</sup>.
+
+<sup>5</sup> Se un impianto soddisfa i presupposti di cui all’articolo 38 capoverso 1<sup>quater</sup>, oltre all’importo indicato nell’offerta viene accordato il bonus per l’altitudine.
+
+[^38a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 2: Ordine di presa in considerazione e lista d’attesa
 
@@ -505,9 +562,11 @@ Un impianto è considerato ampliato o rinnovato in misura considerevole se la po
 
 **Ordine di presa in considerazione**
 
-<sup>1</sup> Determinante ai fini della presa in considerazione di un progetto è la data di presentazione della domanda.
+<sup>1</sup> Determinante ai fini della presa in considerazione di una domanda è la data di presentazione.[^39-1]
 
 <sup>2</sup> Se non tutte le domande presentate lo stesso giorno possono essere prese in considerazione, si prendono dapprima in considerazione i progetti degli impianti con la maggiore potenza supplementare.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 40
 
@@ -597,9 +656,119 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 44 e respinge
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 
-## Capitolo 5: Contributo d’investimento per gli impianti idroelettrici
+### Sezione 5**:** **Aste per la rimunerazione unica**
 
-### Sezione 1: Disposizioni generali
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+#### Art. 46a
+
+**Competenze**
+
+<sup>1</sup> L’UFE stabilisce per ogni tornata d’asta il volume dell’asta e il valore massimo ammissibile dell’offerta.
+
+<sup>2</sup> In caso di aste speciali (art. 38*a* cpv. 2) stabilisce inoltre quali ulteriori criteri deve soddisfare un impianto per poter partecipare a tale asta.
+
+<sup>3</sup> L’organo d’esecuzione esegue la procedura d’asta.
+
+#### Art. 46b
+
+**Condizioni di partecipazione**
+
+<sup>1</sup> La costruzione dell’impianto non può iniziare prima dell’aggiudicazione.
+
+<sup>2</sup> Per ogni fondo e tornata d’asta si può presentare una sola offerta.
+
+#### Art. 46c
+
+**Procedura d’asta**
+
+<sup>1</sup> L’organo d’esecuzione rende note nel bando le condizioni d’asta nonché le indicazioni e i documenti da presentare unitamente all’offerta.
+
+<sup>2</sup>
+
+Esso rilascia un’aggiudicazione per le offerte:
+
+- a. che soddisfano le condizioni di partecipazione;
+- b. che presentano il tasso più conveniente per kW di potenza;
+- c. che rientrano nel volume d’asta stabilito dal bando; e
+- d. per le quali entro il termine fissato dall’organo d’esecuzione è depositata una cauzione pari al 10 per cento dell’importo della rimunerazione unica previsto per l’intera potenza offerta.
+
+<sup>3</sup> Se la potenza totale delle offerte che soddisfano le condizioni di partecipazione è inferiore al volume d’asta stabilito dal bando, il volume d’asta viene automaticamente ridotto a posteriori al 90 per cento di tale potenza offerta.
+
+#### Art. 46d
+
+**Termine e notifica di messa in esercizio**
+
+<sup>1</sup> L’impianto deve essere messo in esercizio al più tardi 18 mesi dopo che il rilascio dell’aggiudicazione è passato in giudicato.
+
+<sup>2</sup> La messa in esercizio deve essere notificata all’organo d’esecuzione al più tardi tre mesi dalla messa in esercizio.
+
+<sup>3</sup> La notifica di messa in esercizio deve contenere le indicazioni e i documenti di cui all’allegato 2.1 numero 4.2.
+
+<sup>4</sup> Se per ragioni non imputabili al richiedente il termine per la messa in esercizio non può essere rispettato, l’organo d’esecuzione può prorogarlo su richiesta. La richiesta deve essere presentata prima della scadenza del termine.
+
+#### Art. 46e
+
+**Ammontare definitivo della rimunerazione unica**
+
+<sup>1</sup> L’ammontare definitivo della rimunerazione unica è calcolato sulla base dei dati autenticati dell’impianto nell’ambito delle garanzie di origine e dell’offerta presentata.
+
+<sup>2</sup> Se la potenza dell’impianto è superiore a quanto indicato nell’offerta, la rimunerazione unica è versata solamente per la potenza indicata nell’offerta.
+
+<sup>3</sup>
+
+Se la potenza dell’impianto è inferiore a quanto indicato nell’offerta:
+
+- a. la rimunerazione unica è versata solamente per la potenza effettivamente installata;
+- b. la cauzione depositata è trattenuta in misura proporzionale alla differenza rispetto all’offerta, se la potenza effettivamente installata è inferiore al 90 per cento della potenza offerta.
+
+#### Art. 46f
+
+**Revoca dell’aggiudicazione e sanzione**
+
+<sup>1</sup>
+
+L’organo d’esecuzione revoca l’aggiudicazione e trattiene la cauzione depositata a titolo di sanzione a beneficio del Fondo per il supplemento rete se:
+
+- a. dopo la messa in esercizio non sono soddisfatti tutti i requisiti per il diritto;
+- b. la messa in esercizio non avviene entro il termine stabilito;
+- c. l’ubicazione dell’impianto non corrisponde all’ubicazione indicata nell’offerta.
+
+<sup>2</sup> L’organo d’esecuzione può trattenere, interamente o parzialmente, la cauzione depositata, a titolo di sanzione a beneficio del Fondo per il supplemento rete se entro tre mesi dalla messa in esercizio non è trasmessa la notifica di messa in esercizio.
+
+#### Art. 46g
+
+**Versamento della rimunerazione unica e rimborso della cauzione**
+
+<sup>1</sup> La rimunerazione unica viene versata al più tardi tre mesi dalla ricezione della notifica completa di messa in esercizio.
+
+<sup>2</sup> Se non è trattenuta interamente o parzialmente ai sensi degli articoli 46*e* o 46*f* la cauzione depositata è rimborsata unitamente al versamento della rimunerazione unica.
+
+#### Art. 46h
+
+**Pubblicazione relativa alle aste**
+
+In merito alle aste per la rimunerazione unica l’organo d’esecuzione pubblica i seguenti dati:
+
+- a. il termine di presentazione delle offerte;
+- b. il meccanismo dei prezzi;
+- c. il numero di offerte pervenute;
+- d. il quantitativo offerto in kW pervenuto;
+- e. il numero delle aggiudicazioni;
+- f. il numero di offerte escluse;
+- g. il quantitativo offerto in kW delle offerte escluse;
+- h. il valore massimo ammissibile dell’offerta in franchi per kW;
+- i. il valore dell’offerta più bassa in franchi per kW;
+- j. il valore dell’offerta più alta in franchi per kW;
+- k. il valore di aggiudicazione medio ponderato in rapporto al quantitativo in franchi per kW;
+- l. il valore più basso dell’offerta per la quale è stata rilasciata un’aggiudicazione in franchi per kW;
+- m. il valore più alto dell’offerta per la quale è stata rilasciata un’aggiudicazione in franchi per kW.
+
+### Capitolo 5**:** **Contributo d’investimento per gli impianti idroelettrici**
+
+### Sezione 1**:** **Disposizioni generali**
 
 #### Art. 47
 
@@ -620,37 +789,39 @@ L’ampliamento di un impianto è considerato considerevole, se mediante misure 
 Il rinnovamento di un impianto è considerato considerevole se:
 
 - a. almeno una componente principale, quali la presa d’acqua, le pompe d’alimentazione, le opere di sbarramento, i serbatoi di accumulo, le condotte in pressione, le macchine o l’equipaggiamento elettromeccanico dell’impianto, è sostituita o interamente risanata; e
-- b. l’investimento ammonta ad almeno 7 ct./kWh rispetto alla produzione netta media raggiunta in uno degli ultimi cinque anni d’esercizio completi.
+- b.[^47-3] l’investimento ammonta ad almeno 14 ct./kWh rispetto alla produzione netta raggiunta mediamente in un anno negli ultimi cinque anni d’esercizio completi.
 
 [^47-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 [^47-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^47-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 48
 
-**Aliquote**
+**Aliquote**[^48-1]
 
-<sup>1</sup> L’UFE determina il contributo d’investimento per ciascun impianto individualmente secondo l’articolo 29 capoverso 2 LEne.
+<sup>1</sup> Per i nuovi impianti e gli ampliamenti considerevoli il contributo d’investimento ammonta al 50 per cento dei costi d’investimento computabili.
 
 <sup>2</sup>
 
-Negli impianti con una potenza massima di 10 MW il contributo d’investimento ammonta al massimo:
+Nei seguenti casi il contributo d’investimento è pari al 60 per cento dei costi d’investimento computabili:
 
-- a. al 60 per cento dei costi d’investimento computabili per gli ampliamenti considerevoli;
-- b. al 40 per cento dei costi d’investimento computabili per i rinnovamenti considerevoli.
+- a. nuovi impianti e ampliamenti considerevoli che soddisfano uno dei criteri di rilevanza di cui all’articolo 47 capoverso 1 lettere a–c ed e, purché almeno il 50 per cento dell’ulteriore produzione sia generato nel semestre invernale e tale produzione invernale sia pari ad almeno 5 GWh;
+- b. ampliamenti considerevoli che soddisfano il criterio di rilevanza dell’articolo 47 capoverso 1 lettera d.
 
 <sup>3</sup>
 
-Negli impianti con una potenza superiore ai 10 MW il contributo d’investimento ammonta al massimo:
+Per i rinnovamenti considerevoli il contributo d’investimento ammonta:
 
-- a. al 35 per cento dei costi d’investimento computabili per gli impianti nuovi e gli ampliamenti considerevoli;
-- b. al 20 per cento dei costi d’investimento computabili per i rinnovamenti considerevoli;
-- c.[^48-1] al 40 per cento dei costi d’investimento computabili per gli impianti nuovi e gli ampliamenti considerevoli che, a seguito di misure costruttive, possono permettere di accumulare una quantità di energia aggiuntiva pari ad almeno 10 GWh.
+- a. al 40 per cento dei costi d’investimento computabili per gli impianti con potenza inferiore a 1 MW;
+- b. al 20 per cento dei costi d’investimento computabili per gli impianti con potenza superiore a 10 MW.
 
-<sup>4</sup> Il DATEC verifica le aliquote almeno ogni cinque anni. In caso di mutamento considerevole delle circostanze, esso presenta al Consiglio federale una proposta di adeguamento delle aliquote.
+<sup>4</sup> Per gli impianti con una potenza da 1 a 10 MW le aliquote di cui al capoverso 3 sono ridotte in chiave lineare.
 
-<sup>5</sup> Negli impianti idroelettrici sul confine il contributo d’investimento calcolato viene ridotto della quota non appartenente alla sovranità svizzera.
+<sup>5</sup> Per gli ampliamenti e i rinnovamenti considerevoli è determinante la potenza dopo l’ampliamento o il rinnovamento.
 
-[^48-1]: Introdotta dal n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+<sup>6</sup> Negli impianti idroelettrici sul confine il contributo d’investimento calcolato viene ridotto della quota non appartenente alla sovranità svizzera
+
+[^48-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 2: Ordine di presa in considerazione degli impianti idroelettrici con una potenza massima di 10 MW e lista d’attesa
 
@@ -658,9 +829,11 @@ Negli impianti con una potenza superiore ai 10 MW il contributo d’investimento
 
 **Ordine di presa in considerazione**
 
-<sup>1</sup> Determinante ai fini della presa in considerazione di un progetto con il quale s’intende ampliare o rinnovare in misura considerevole un impianto idroelettrico con una potenza massima di 10 MW è la data di presentazione della domanda.
+<sup>1</sup> Determinante ai fini della presa in considerazione di un progetto con il quale s’intende costruire, ampliare o rinnovare in misura considerevole un impianto idroelettrico con una potenza massima di 10 MW è la data di presentazione della domanda.[^49-1]
 
 <sup>2</sup> Se non tutte le domande presentate lo stesso giorno possono essere prese in considerazione, vengono dapprima presi in considerazione i progetti degli impianti con la maggiore produzione supplementare di elettricità rapportata al contributo d’investimento.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 50
 
@@ -725,11 +898,13 @@ Negli impianti con una potenza superiore ai 10 MW il contributo d’investimento
 
 Se dall’esame della domanda risulta che sussistono i requisiti per il diritto e sono disponibili sufficienti risorse per la presa in considerazione della domanda, l’UFE accorda il contributo d’investimento con garanzia di principio e determina quanto segue:
 
-- a. l’ammontare del contributo d’investimento in per cento dei costi d’investimento computabili considerando i maggiori costi non ammortizzabili previsti;
+- a.[^54-1] l’ammontare del contributo d’investimento in per cento dei costi d’investimento;
 - b. l’importo massimo che il contributo d’investimento non deve eccedere;
 - c. entro quando al più tardi occorre avviare i lavori;
 - d. il piano di pagamento secondo l’articolo 60;
 - e. il termine entro il quale l’impianto deve essere messo in esercizio.
+
+[^54-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 55
 
@@ -775,15 +950,11 @@ Dopo il quinto anno d’esercizio intero occorre notificare all’UFE la produzi
 
 #### Art. 59
 
-**Determinazione definitiva del contributo d’investimento**
+**Determinazione definitiva del contributo d’investimento**[^59-1]
 
-<sup>1</sup> Non appena sono disponibili la notifica della conclusione dei lavori e la notifica della produzione netta, l’UFE verifica se anche in tale momento sussistono ancora tutti i requisiti per il diritto.
+Se al momento della notifica della produzione netta sussistono ancora tutti i requisiti per il diritto, l’UFE determina l’ammontare definitivo del contributo d’investimento sulla base dei costi d’investimento effettivamente sostenuti.
 
-<sup>2</sup> I maggiori costi non ammortizzabili vengono ricalcolati sulla base dei costi d’investimento definitivi computabili, degli attuali costi per i canoni per i diritti d’acqua e della produzione netta media annua notificata.
-
-<sup>3</sup> Sulla base dell’esito della verifica di cui al capoverso 1 e del calcolo di cui al capoverso 2 viene determinato l’ammontare definitivo del contributo d’investimento.
-
-<sup>4</sup> Se la produzione netta annuale media è inferiore rispetto alla produzione indicata nella domanda o alla produzione supplementare, il contributo d’investimento può essere ridotto adeguatamente.
+[^59-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 60
 
@@ -816,6 +987,10 @@ Per il calcolo del contributo d’investimento sono computabili in particolare i
 
 <sup>3</sup> I costi delle prestazioni proprie del gestore come le prestazioni di pianificazione o di direzione dei lavori sono computabili soltanto se sono usuali e possono essere comprovati mediante un rapporto di lavoro dettagliato.
 
+<sup>4</sup> Se durante il periodo di concessione vengono effettuati investimenti per il rinnovamento, l’ampliamento o la sostituzione di un impianto esistente e il periodo di concessione restante dell’impianto è inferiore al periodo di utilizzazione medio ponderato in base all’investimento delle parti dell’impianto determinanti, si considerano i costi d’investimento computabili nel rapporto tra il periodo di concessione restante e il periodo di utilizzazione ponderato in base all’investimento a un tasso di sconto annuo pari al tasso d’interesse calcolatorio. Ciò non vale in caso di accordo per un indennizzo sul valore residuo che tenga adeguatamente conto di un eventuale contributo d’investimento.[^61-1]
+
+[^61-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
 #### Art. 62
 
 **Costi non computabili**[^62-1]
@@ -835,60 +1010,19 @@ Non sono computabili in particolare i costi:
 
 #### Art. 63
 
-**Maggiori costi non ammortizzabili**
+**Calcolo dei costi scoperti e del contributo d’investimento nel singolo caso**[^63-1]
 
-<sup>1</sup> I maggiori costi non ammortizzabili secondo l’articolo 29 capoverso 2 LEne corrispondono al valore netto di tutti i deflussi di denaro computabili e di tutti gli afflussi di denaro da computare.
+<sup>1</sup> Se vi sono indizi secondo cui per un impianto non vi sono costi scoperti (art. 29 cpv. 3 lett. b<sup>bis</sup> LEne), conformemente all’allegato 4 occorre calcolare se vi sono costi scoperti.
 
-<sup>2</sup> I deflussi di denaro computabili e gli afflussi di denaro da computare vanno scontati con il tasso d’interesse calcolatorio di cui all’articolo 66.
+<sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto di conseguenza.
 
-<sup>3</sup> Nel caso di ampliamenti sono determinanti gli afflussi di denaro risultanti dall’ampliamento che possono essere conseguiti all’interno e all’esterno dell’impianto.[^63-1]
+[^63-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-<sup>4</sup> Nel caso di rinnovamenti sono determinanti gli afflussi di denaro conseguibili a partire dall’intera produzione netta dell’impianto rinnovato nonché gli altri afflussi di denaro che possono essere conseguiti a seguito del rinnovamento fuori dall’impianto.[^63-2]
+#### Art. 64 a 66
 
-<sup>4bis</sup> Nel caso di impianti con una quota di pompaggio-turbinaggio, i deflussi e gli afflussi di denaro derivanti dal pompaggio-turbinaggio non vanno considerati.[^63-3]
+[^6466-1]
 
-<sup>5</sup> L’UFE mette a disposizione le basi e i formulari necessari per il calcolo dei maggiori costi non ammortizzabili. Tra questi figura in particolare uno scenario dei prezzi allestito su base oraria e aggiornato annualmente.
-
-[^63-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-[^63-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-[^63-3]: Introdotto il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-
-#### Art. 64
-
-**Deflussi di denaro computabili**
-
-<sup>1</sup>
-
-I deflussi di denaro computabili si compongono:
-
-- a. dei costi d’investimento computabili;
-- b. dei costi per l’esercizio dell’impianto e la manutenzione nonché altri costi d’esercizio;
-- c. degli investimenti di sostituzione;
-- d. degli altri costi, in particolare i costi per l’energia che le eventuali pompe d’alimentazione necessitano, ai prezzi di mercato, e i costi legati alla sostituzione dell’accumulo di acqua;
-- e. dei costi per i canoni per i diritti d’acqua conformemente alle pertinenti norme legali;
-- f. delle imposte dirette.
-
-<sup>2</sup> Essi vanno considerati per il periodo di concessione restante.
-
-<sup>3</sup> I costi di cui al capoverso 1 lettera b vengono computati considerando al massimo, ogni anno, il 2 per cento dei costi d’investimento.[^64-1]
-
-[^64-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
-
-#### Art. 65
-
-**Afflussi di denaro da computare**
-
-<sup>1</sup> Gli afflussi di denaro da computare si calcolano sulla scorta del profilo orario ottimizzato sul piano economico per la produzione netta per il periodo di concessione restante e dello scenario dei prezzi allestito dall’UFE. Gli investimenti sono ammortizzati in chiave lineare per i periodi di utilizzazione di cui all’allegato 2.2 e gli eventuali valori residui sono considerati in qualità di afflussi di denaro alla fine del periodo di concessione.
-
-<sup>2</sup> Per gli impianti con una potenza massima di 10 MW possono essere utilizzati profili di produzione standard.
-
-#### Art. 66
-
-**Tasso d’interesse calcolatorio**
-
-Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del capitale. Il calcolo e la comunicazione si determinano, fatte salve le deroghe menzionate nell’allegato 3, sulla scorta dell’articolo 13 capoversi 3 lettera b e 3<sup>bis</sup> in combinato disposto con l’allegato 1 dell’ordinanza del 14 marzo 2008[^66-1] sull’approvvigionamento elettrico (OAEl).
-
-[^66-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^6466-1]: Abrogati dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ## Capitolo 6: Contributi d’investimento per gli impianti a biomassa
 
@@ -896,16 +1030,22 @@ Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del cap
 
 #### Art. 67
 
-**Definizioni**
+**Categorie**[^67-1]
 
-<sup>1</sup> Per IIR secondo l’articolo 24 capoverso 1 lettera c LEne s’intendono gli impianti per il trattamento termico dei rifiuti urbani di cui agli articoli 31 e 32 dell’ordinanza del 4 dicembre 2015[^67-1] sui rifiuti.[^67-2]
+<sup>1</sup> Per impianti di produzione di biogas s’intendono gli impianti per la produzione di elettricità e calore a partire da gas biogeno prodotto attraverso la fermentazione di biomassa presso il luogo di ubicazione del modulo di cogenerazione o un sito servito da un gasdotto proprio.
 
-<sup>2</sup> Per impianti a gas di depurazione secondo l’articolo 24 capoverso 1 lettera c LEne s’intendono gli impianti per lo sfruttamento dei gas di depurazione prodotti dagli impianti comunali di depurazione delle acque reflue, indipendentemente dal fatto che in tali impianti vengano fatti fermentare anche cosubstrati.
+<sup>2</sup> Per centrali elettriche a legna s’intendono gli impianti per la produzione di elettricità e calore a legna.
 
-<sup>3</sup> Per centrali elettriche a legna di importanza regionale secondo l’articolo 24 capoverso 1 lettera c LEne s’intendono gli impianti per la produzione di elettricità a legna che non eccedono il fabbisogno energetico regionale di elettricità e calore.
+<sup>3</sup> Per IIR s’intendono gli impianti per il trattamento termico dei rifiuti urbani di cui agli articoli 31 e 32 dell’ordinanza del 4 dicembre 2015[^67-2] sui rifiuti (OPSR).
 
-[^67-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
-[^67-2]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+<sup>4</sup> Per forni per l’incenerimento di fanghi s’intendono gli impianti per il trattamento termico di rifiuti da biomassa, in particolare fanghi di depurazione, di cartiera e dell’industria alimentare secondo gli articoli 31 e 32 OPSR.
+
+<sup>5</sup> Per impianti a gas di depurazione s’intendono gli impianti per lo sfruttamento dei gas di depurazione prodotti dagli impianti di depurazione delle acque reflue dell’ente pubblico per la produzione di elettricità e calore, indipendentemente dal fatto che in tali impianti vengano fatti fermentare anche cosubstrati.
+
+<sup>6</sup> Per impianti a gas di discarica s’intendono gli impianti per lo sfruttamento del gas delle discariche di cui agli articoli 35–43 OPSR per la produzione di elettricità.
+
+[^67-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^67-2]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
 #### Art. 68
 
@@ -917,10 +1057,12 @@ Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del cap
 
 Il rinnovamento di un impianto è considerato considerevole quando i costi d’investimento computabili del rinnovamento raggiungono almeno i seguenti importi:
 
-- a. 15 milioni di franchi negli IIR;
-- b. 250 000 franchi negli impianti a gas di depurazione a partire da 50 000 abitanti-equivalenti;
-- c. 100 000 franchi negli impianti a gas di depurazione fino a 50 000 abitanti-equivalenti;
-- d. 600 000 franchi nelle centrali elettriche a legna di importanza regionale.
+- a. 100 000 franchi negli impianti di produzione di biogas e nelle centrali elettriche a legna;
+- b. 15 milioni di franchi negli IIR e nei forni per l’incenerimento di fanghi;
+- c. 250 000 franchi negli impianti a gas di depurazione a partire da 50 000 abitanti-equivalenti;
+- d. 100 000 franchi negli impianti a gas di depurazione fino a 50 000 abitanti-equivalenti e negli impianti a gas di discarica.[^68-1]
+
+[^68-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 69
 
@@ -930,17 +1072,21 @@ Il rinnovamento di un impianto è considerato considerevole quando i costi d’i
 
 <sup>2</sup> In caso di rinnovamenti considerevoli, dopo il rinnovamento l’impianto deve produrre almeno la stessa quantità di elettricità di prima del rinnovamento.
 
-### Sezione 2: Aliquote
+### Sezione 2: Contributo d’investimento
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 70
 
-**Aliquote per i contributi d’investimento**
+**Aliquote**
 
-<sup>1</sup> L’UFE determina il contributo d’investimento per ciascun impianto individualmente secondo l’articolo 29 capoverso 2 LEne.
+Il contributo d’investimento ammonta:
 
-<sup>2</sup> Il contributo d’investimento ammonta al massimo al 20 per cento dei costi d’investimento computabili.
-
-<sup>3</sup> Il DATEC verifica tale aliquota almeno ogni cinque anni. In caso di mutamenti considerevoli delle circostanze esso presenta al Consiglio federale una proposta di adeguamento dell’aliquota.
+- a. al 50 per cento dei costi d’investimento computabili per gli impianti di produzione di biogas;
+- b. al 40 per cento dei costi d’investimento computabili per le centrali elettriche a legna;
+- c. al 20 per cento dei costi d’investimento computabili per gli IIR, i forni per l’incenerimento di fanghi, gli impianti a gas di depurazione e gli impianti a gas di discarica.
 
 #### Art. 71
 
@@ -948,9 +1094,9 @@ Il rinnovamento di un impianto è considerato considerevole quando i costi d’i
 
 Il contributo d’investimento non deve eccedere i seguenti importi:
 
-- a. 6 milioni di franchi per gli IIR;
-- b. 1,5 milioni di franchi per gli impianti a gas di depurazione;
-- c. 3,75 milioni di franchi per le centrali elettriche a legna di importanza regionale.
+- a. 12 milioni di franchi per le centrali elettriche a legna;
+- b. 6 milioni di franchi per gli IIR e i forni per l’incenerimento di fanghi;
+- c. 1 milione di franchi per gli impianti a gas di depurazione e gli impianti a gas di discarica..
 
 ### Sezione 3: Ordine di presa in considerazione e lista d’attesa
 
@@ -990,11 +1136,13 @@ Il contributo d’investimento non deve eccedere i seguenti importi:
 
 Se dall’esame della domanda risulta che sussistono i requisiti per il diritto e sono disponibili sufficienti risorse per la presa in considerazione della domanda, l’UFE accorda il contributo d’investimento con garanzia di principio e determina quanto segue:
 
-- a. l’ammontare del contributo d’investimento in per cento dei costi d’investimento computabili considerando i maggiori costi non ammortizzabili previsti;
+- a.[^75-1] l’ammontare del contributo d’investimento in per cento dei costi d’investimento computabili;
 - b. l’importo massimo che il contributo d’investimento non deve eccedere;
 - c. entro quando al più tardi occorre avviare i lavori;
 - d. il piano di pagamento secondo l’articolo 80;
 - e. il termine entro il quale l’impianto deve essere messo in esercizio.
+
+[^75-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 76
 
@@ -1024,15 +1172,11 @@ La notifica deve contenere le indicazioni e i documenti seguenti:
 
 #### Art. 79
 
-**Determinazione definitiva del contributo d’investimento**
+**Determinazione definitiva del contributo d’investimento**[^79-1]
 
-<sup>1</sup> Non appena sono disponibili la notifica della conclusione dei lavori e la notifica della produzione netta, l’UFE verifica se anche in tale momento sussistono ancora tutti i requisiti per il diritto.
+Se al momento della notifica della conclusione dei lavori sussistono ancora tutti i requisiti per il diritto, l’UFE determina l’ammontare definitivo del contributo d’investimento sulla base dei costi d’investimento effettivamente sostenuti.
 
-<sup>2</sup> I maggiori costi non ammortizzabili vengono ricalcolati sulla base dei costi d’investimento computabili definitivi e della produzione netta notificata.
-
-<sup>3</sup> Sulla base dell’esito della verifica di cui al capoverso 1 e del calcolo di cui al capoverso 2 viene determinato l’ammontare definitivo del contributo d’investimento.
-
-<sup>4</sup> Se la produzione netta annuale è inferiore rispetto alla produzione indicata nella domanda o alla produzione supplementare, il contributo d’investimento può essere ridotto adeguatamente.
+[^79-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 80
 
@@ -1050,9 +1194,11 @@ La notifica deve contenere le indicazioni e i documenti seguenti:
 
 #### Art. 81
 
-**Costi d’investimento computabili**
+**Costi d’investimento computabili**[^81-1]
 
-Sono computabili per analogia i costi d’investimento di cui all’articolo 61.
+Sono computabili i costi d’investimento di cui all’articolo 61.
+
+[^81-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 82
 
@@ -1069,47 +1215,309 @@ Non sono computabili in particolare i costi:
 
 #### Art. 83
 
-**Maggiori costi non ammortizzabili**
+**Calcolo dei costi scoperti e del contributo d’investimento nel singolo caso**[^83-1]
 
-Il calcolo dei maggiori costi non ammortizzabili secondo l’articolo 29 capoverso 2 LEne è retto per analogia dall’articolo 63.
+<sup>1</sup> Se vi sono indizi secondo cui per un impianto non vi sono costi scoperti (art. 29 cpv. 3 lett. b<sup>bis</sup> LEne), conformemente all’allegato 4 occorre calcolare se vi sono costi scoperti.
 
-#### Art. 84
+<sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto di conseguenza.
 
-**Deflussi di denaro computabili**
+[^83-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-<sup>1</sup>
+#### Art. 84 a 87
 
-I deflussi di denaro computabili si compongono:
+[^8487-1]
 
-- a. dei costi d’investimento computabili;
-- b. dei costi per l’esercizio dell’impianto e la manutenzione nonché gli altri costi d’esercizio;
-- c. degli investimenti di sostituzione.
+[^8487-1]: Abrogati dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-<sup>2</sup> Essi vanno considerati per il periodo di utilizzazione restante di cui all’articolo 87.
+## Capitolo 6*a*: Contributo d’investimento per gli impianti eolici
 
-<sup>3</sup> I costi di cui al capoverso 1 lettera b vengono computati con complessivamente il due per cento dei costi d’investimento all’anno.
+[^chap6-1]
 
-<sup>4</sup> Nel caso delle centrali elettriche a legna di importanza regionale vengono inoltre presi in considerazione in qualità di costi ricorrenti le imposte dirette nonché i costi d’energia dedotti i ricavi risultanti dalla vendita di calore.
+[^chap6-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-#### Art. 85
+### Sezione 1: Aliquota
 
-**Afflussi di denaro da computare**
+#### Art. 87a
 
-<sup>1</sup> Gli afflussi di denaro da computare si calcolano sulla scorta della produzione netta media per il periodo di utilizzazione restante di cui all’articolo 87 e dello scenario dei prezzi allestito dall’UFE.
+Il contributo d’investimento ammonta al 60 per cento dei costi d’investimento computabili.
 
-<sup>2</sup> Gli investimenti sono ammortizzati in chiave lineare per i periodi di utilizzazione di cui all’allegato 2.3 e, alla fine del periodo di utilizzazione restante di cui all’articolo 87, gli eventuali valori residui sono considerati in qualità di afflussi di denaro.
+### Sezione 2: Ordine di presa in considerazione e lista d’attesa
 
-#### Art. 86
+#### Art. 87b
 
-**Tasso d’interesse calcolatorio**
+**Ordine di presa in considerazione**
 
-Per il calcolo e la comunicazione del tasso d’interesse calcolatorio si applica per analogia l’articolo 66.
+<sup>1</sup> Determinante ai fini della presa in considerazione di una domanda è la data di presentazione.
 
-#### Art. 87
+<sup>2</sup> Se non tutte le domande presentate lo stesso giorno possono essere prese in considerazione, si prendono dapprima in considerazione i progetti degli impianti con la maggiore produzione supplementare di elettricità rapportata al contributo d’investimento.
 
-**Periodo di utilizzazione restante**
+#### Art. 87c
 
-Per determinare il periodo di utilizzazione restante si fa riferimento al periodo di utilizzazione dell’elemento costituente appena incorporato che presenta il periodo di utilizzazione più lungo secondo la tabella del periodo di utilizzazione di cui all’allegato 2.3.
+**Lista d’attesa**
+
+<sup>1</sup> Se le risorse disponibili non sono sufficienti per una presa in considerazione immediata, i progetti sono inseriti in una lista d’attesa, salvo il caso in cui sia manifesto che essi non soddisfano i requisiti per il diritto.
+
+<sup>2</sup> L’UFE comunica al richiedente che il suo progetto è stato inserito in una lista d’attesa.
+
+<sup>3</sup> Se vi sono nuovamente risorse disponibili, i progetti sono presi in considerazione secondo la data di presentazione della domanda.
+
+### Sezione 3: Procedura di domanda
+
+#### Art. 87d
+
+**Domanda**
+
+<sup>1</sup> La domanda per l’ottenimento di un contributo d’investimento deve essere presentata all’UFE.
+
+<sup>2</sup> Essa può essere presentata soltanto quando sono disponibili i risultati di misurazioni del vento per l’ubicazione di un nuovo impianto o i dati d’esercizio di impianti eolici esistenti e una perizia sul rendimento energetico nell’ubicazione dell’impianto eolico. Le misurazioni e la perizia sul rendimento devono soddisfare i requisiti minimi di cui all’allegato 2.4.
+
+<sup>3</sup> La domanda deve contenere tutte le indicazioni e i documenti di cui all’allegato 2.4.
+
+#### Art. 87e
+
+**Garanzia di principio**
+
+Se dall’esame della domanda risulta che sussistono i requisiti per il diritto e sono disponibili sufficienti risorse per la presa in considerazione della domanda, l’UFE accorda il contributo d’investimento con garanzia di principio e determina quanto segue:
+
+- a. l’ammontare del contributo d’investimento in per cento dei costi d’investimento computabili;
+- b. l’importo massimo che il contributo d’investimento non deve eccedere;
+- c. entro quando al più tardi occorre avviare i lavori;
+- d. il piano di pagamento secondo l’articolo 87*j*;
+- e. il termine entro il quale l’impianto deve essere messo in esercizio.
+
+#### Art. 87f
+
+**Notifica di messa in esercizio**
+
+L’obbligo di presentare una notifica di messa in esercizio è retto per analogia dall’articolo 55.
+
+#### Art. 87g
+
+**Notifica della conclusione dei lavori**
+
+<sup>1</sup> Al più tardi due anni dopo la messa in esercizio occorre presentare all’UFE una notifica di conclusione dei lavori.
+
+<sup>2</sup>
+
+La notifica deve contenere le indicazioni e i documenti seguenti:
+
+- a. un conteggio dettagliato dei costi di costruzione;
+- b. un elenco dei costi d’investimento computabili e non computabili.
+
+#### Art. 87h
+
+**Proroga dei termini**
+
+Su richiesta del richiedente, l’UFE può prorogare i termini per la messa in esercizio e per la presentazione della notifica di conclusione dei lavori, se:
+
+- a. il termine non può essere rispettato per ragioni non imputabili al richiedente; e;
+- b. la richiesta viene presentata prima della scadenza del termine.
+
+#### Art. 87i
+
+**Determinazione definitiva del contributo d’investimento**
+
+Se al momento della notifica della conclusione dei lavori sussistono ancora tutti i requisiti per il diritto, l’UFE determina l’ammontare definitivo del contributo d’investimento sulla base dei costi d’investimento effettivamente sostenuti.
+
+#### Art. 87j
+
+**Versamento scaglionato del contributo d’investimento**
+
+<sup>1</sup> Il contributo d’investimento è versato in più tranche.
+
+<sup>2</sup> L’UFE stabilisce nel singolo caso la data per il versamento delle singole tranche e l’ammontare dei contributi da versare per tranche nella garanzia di principio di cui all’articolo 87*e* (piano di pagamento).
+
+<sup>3</sup> La prima tranche non può essere versata prima dell’inizio dei lavori.
+
+<sup>4</sup> L’ultima tranche può essere versata soltanto dopo la determinazione definitiva del contributo d’investimento. Fino a quel momento può essere versato al massimo l’80 per cento dell’importo massimo determinato nella garanzia di principio di cui all’articolo 87*e*.
+
+### Sezione 4: Criteri di calcolo
+
+#### Art. 87k
+
+**Costi d’investimento computabili**
+
+Sono computabili i costi d’investimento di cui all’articolo 61.
+
+#### Art. 87l
+
+**Costi non computabili**
+
+Non sono computabili in particolare i costi per:
+
+- a. l’acquisto di una proprietà fondiaria;
+- b. la procedura e la rappresentanza legale in relazione a opposizioni e ricorsi.
+
+#### Art. 87m
+
+**Calcolo dei costi scoperti e del contributo d’investimento nel singolo caso**
+
+<sup>1</sup> Se vi sono indizi secondo cui per un impianto non vi sono costi scoperti (art. 29 cpv. 3 lett. b<sup>bis</sup> LEne), conformemente all’allegato 4 occorre calcolare se vi sono costi scoperti.
+
+<sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto di conseguenza.
+
+## Capitolo 6*b*: Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici e per nuovi impianti geotermici
+
+[^chap6a-1]
+
+[^chap6a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### Sezione 1: Requisiti per il diritto e aliquote
+
+#### Art. 87n
+
+**Requisiti per il diritto**
+
+<sup>1</sup> Un contributo d’investimento per lo sfruttamento di un serbatoio geotermico può essere accordato soltanto se nell’area in questione è stata effettuata una prospezione ed è disponibile un rapporto sulla prospezione relativo alla probabilità di individuare un presunto serbatoio geotermico.
+
+<sup>2</sup> Un contributo d’investimento per la costruzione di un impianto geotermico può essere accordato soltanto se nell’area in questione è stato effettuato uno sfruttamento ed è disponibile un rapporto sullo sfruttamento relativo alla produzione prevista del serbatoio geotermico.
+
+#### Art. 87o
+
+**Aliquote**
+
+<sup>1</sup> Il contributo d’investimento per la prospezione, lo sfruttamento e la costruzione di un impianto ammonta al 60 per cento dei costi d’investimento computabili.
+
+<sup>2</sup> Il contributo d’investimento per una prospezione o uno sfruttamento può essere ridotto in particolare se i rischi geologici sono bassi oppure se il tenore tecnico, qualitativo o innovativo della domanda è basso.
+
+### Sezione 2: Ordine di presa in considerazione e lista d’attesa
+
+#### Art. 87p
+
+**Ordine di presa in considerazione**
+
+<sup>1</sup> Determinante ai fini della presa in considerazione di una domanda è la data di presentazione.
+
+<sup>2</sup> Se non tutte le domande presentate lo stesso giorno possono essere prese in considerazione, si prendono dapprima in considerazione i progetti degli impianti con la maggiore produzione supplementare di elettricità rapportata al contributo d’investimento.
+
+#### Art. 87q
+
+**Lista d’attesa**
+
+<sup>1</sup> Se le risorse disponibili non sono sufficienti per una presa in considerazione immediata, i progetti sono inseriti in una lista d’attesa, salvo il caso in cui sia manifesto che essi non soddisfano i requisiti per il diritto.
+
+<sup>2</sup> L’UFE comunica al richiedente che il suo progetto è stato inserito in una lista d’attesa.
+
+<sup>3</sup> Se vi sono nuovamente risorse disponibili, l’UFE considera i progetti più avanzati. Se più progetti hanno lo stesso livello d’avanzamento, viene considerato il progetto la cui domanda completa è stata presentata per prima in ordine cronologico.
+
+### Sezione 3: Procedura di domanda
+
+#### Art. 87r
+
+**Domanda**
+
+<sup>1</sup> La domanda per l’ottenimento di un contributo d’investimento deve essere presentata all’UFE.
+
+<sup>2</sup> La domanda per l’ottenimento di un contributo d’investimento per la prospezione o lo sfruttamento può essere presentata soltanto se le domande di rilascio delle autorizzazioni e delle concessioni necessarie al progetto sono state integralmente presentate alle autorità competenti e il finanziamento del progetto è garantito.
+
+<sup>3</sup> La domanda di un contributo d’investimento per un impianto geotermico può essere presentata soltanto quando sussiste una licenza di costruzione o una concessione passata in giudicato.
+
+<sup>4</sup> Una domanda di cui al capoverso 2 o 3 deve contenere tutte le indicazioni e i documenti di cui all’allegato 2.5 o 2.6.
+
+#### Art. 87s
+
+**Gruppo di esperti per i progetti di prospezione e sfruttamento**
+
+<sup>1</sup> Per l’esame delle domande di contributi d’investimento per una prospezione o uno sfruttamento l’UFE incarica un gruppo indipendente dal progetto composto di un massimo di sei esperti. Parallelamente il Cantone di ubicazione può inviare un proprio rappresentante nel gruppo di esperti.
+
+<sup>2</sup> Il gruppo di esperti esamina le domande e trasmette all’UFE una raccomandazione per la valutazione del progetto. Il rappresentante del Cantone non ha voce in capitolo nella raccomandazione. Nell’adempimento del proprio compito il gruppo di esperti può coinvolgere altri specialisti.
+
+#### Art. 87t
+
+**Contratto e garanzia di principio**
+
+<sup>1</sup> Se sono soddisfatti i requisiti per il diritto secondo l’allegato 2.5 per un contributo d’investimento per una prospezione o uno sfruttamento e sono disponibili sufficienti risorse per la presa in considerazione della domanda, la Confederazione conclude con il richiedente un contratto di diritto amministrativo.
+
+<sup>2</sup>
+
+Se sono soddisfatti i requisiti per il diritto secondo l’allegato 2.6 per la costruzione di un impianto geotermico e sono disponibili sufficienti risorse per la presa in considerazione della domanda, l’UFE accorda il contributo d’investimento con garanzia di principio e determina quanto segue:
+
+- a. l’ammontare del contributo d’investimento in per cento dei costi d’investimento computabili;
+- b. l’importo massimo che il contributo d’investimento non deve eccedere;
+- c. entro quando al più tardi occorre avviare i lavori;
+- d. il piano di pagamento secondo l’articolo 87*z*;
+- e. il termine entro il quale l’impianto deve essere messo in esercizio;
+- f. i parametri dei dati rilevanti ai fini della produzione oggetto della notifica di cui all’articolo 87*w* lettera d.
+
+#### Art. 87u
+
+**Rapporto finale della prospezione o dello sfruttamento**
+
+Dopo la conclusione di una prospezione o di uno sfruttamento deve essere presentato all’UFE un rapporto finale. Il contenuto del rapporto è disciplinato nel contratto di cui all’articolo 87*t* capoverso 1.
+
+#### Art. 87v
+
+**Notifica di messa in esercizio per gli impianti geotermici**
+
+<sup>1</sup> Dopo la messa in esercizio dell’impianto geotermico occorre presentare all’UFE una notifica di messa in esercizio.
+
+<sup>2</sup>
+
+La notifica deve contenere almeno le indicazioni e i documenti seguenti:
+
+- a. la data di messa in esercizio;
+- b. il verbale di collaudo;
+- c. eventuali modifiche rispetto alle indicazioni fornite nella domanda.
+
+#### Art. 87w
+
+**Notifica di conclusione dei lavori per gli impianti geotermici**
+
+<sup>1</sup> Al più tardi sei anni dalla messa in esercizio dell’impianto geotermico occorre presentare all’UFE una notifica di conclusione dei lavori.
+
+<sup>2</sup>
+
+La notifica deve contenere almeno le indicazioni e i documenti seguenti:
+
+- a. un conteggio dettagliato dei costi di costruzione;
+- b. un elenco dei costi d’investimento computabili e non computabili;
+- c. l’indicazione della produzione netta dei primi cinque anni d’esercizio;
+- d. tutti i dati rilevanti ai fini della produzione a partire dalla messa in esercizio.
+
+#### Art. 87x
+
+**Proroga dei termini**
+
+Su richiesta del richiedente, l’UFE può prorogare i termini per la messa in esercizio e per la presentazione del rapporto finale o della notifica di conclusione dei lavori, se:
+
+- a. il termine non può essere rispettato per ragioni non imputabili al richiedente; e
+- b. la richiesta viene presentata prima della scadenza del termine.
+
+#### Art. 87y
+
+**Determinazione definitiva del contributo d’investimento per gli impianti geotermici**
+
+Se al momento della notifica della conclusione dei lavori sussistono ancora tutti i requisiti per il diritto, l’UFE determina l’ammontare definitivo del contributo d’investimento sulla base dei costi d’investimento effettivamente sostenuti.
+
+#### Art. 87z
+
+**Versamento scaglionato del contributo d’investimento**
+
+<sup>1</sup> Il contributo d’investimento è versato in più tranche.
+
+<sup>2</sup> L’UFE stabilisce nel singolo caso la data per il versamento delle singole tranche e l’ammontare dei contributi da versare per tranche nel contratto (art. 87*t* cpv. 1) o nella garanzia di principio (art. 87*t* cpv. 2).
+
+<sup>3</sup> La prima tranche non può essere versata prima dell’inizio dei lavori. Se in virtù dell’articolo 32 è stato autorizzato un inizio anticipato dei lavori, il primo versamento deve essere effettuato non prima che sussista una garanzia di principio secondo l’articolo 87*t* capoverso 2.
+
+<sup>4</sup> L’ultima tranche può essere versata soltanto dopo la determinazione definitiva del contributo d’investimento. Fino a quel momento può essere versato al massimo l’80 per cento dell’importo massimo determinato nella garanzia di principio di cui all’articolo 87*t* capoverso 2.
+
+### Sezione 4: Criteri di calcolo
+
+#### Art. 87z<sup>bis</sup>
+
+**Costi d’investimento computabili**
+
+<sup>1</sup> Per il calcolo dei contributi d’investimento per la prospezione e lo sfruttamento sono computabili solamente i costi d’investimento effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata del progetto. Si applica altresì per analogia l’articolo 61.
+
+<sup>2</sup> Per i costi computabili degli impianti geotermici si applica l’articolo 61.
+
+#### Art. 87z<sup>ter</sup>
+
+**Calcolo dei costi scoperti e del contributo d’investimento nel singolo caso**
+
+<sup>1</sup> Se vi sono indizi secondo cui per un impianto non vi sono costi scoperti (art. 29 cpv. 3 lett. b<sup>bis</sup> LEne), conformemente all’allegato 4 occorre calcolare se vi sono costi scoperti.
+
+<sup>2</sup> Se il contributo d’investimento supera i costi scoperti, esso è ridotto proporzionalmente.
 
 ## Capitolo 7: Premio di mercato per l’elettricità proveniente dagli impianti idroelettrici di grandi dimensioni
 
@@ -1142,9 +1550,11 @@ Gli impianti idroelettrici di grandi dimensioni con una potenza superiore ai 10 
 
 <sup>3</sup> Per prezzo di mercato s’intende, anche per l’elettricità negoziata fuori borsa, il prezzo spot orario per la regione di prezzo svizzera convertito a un tasso mensile medio.
 
-<sup>4</sup> Se, oltre al premio di mercato, per un impianto viene versato anche un contributo d’investimento, quest’ultimo, nel premio di mercato, va computato pro rata sul piano temporale come ricavo.
+<sup>4</sup> ...[^89-1]
 
 <sup>5</sup> Se a un’unione di impianti che dà diritto al premio di mercato appartiene un impianto singolo inserito nel sistema di rimunerazione per l’immissione di elettricità, come suo ricavo è determinante la sua rimunerazione per l’immissione di elettricità (art. 21 cpv. 3 LEne).
+
+[^89-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 90
 
@@ -1158,9 +1568,11 @@ In qualità di costi di produzione vengono presi in considerazione i costi d’e
 - b. i ricavi minimi sulla base dell’elettricità da fornire all’ente pubblico a titolo gratuito o a un canone ridotto;
 - c. le imposte dirette; le imposte sull’utile, tuttavia, soltanto se corrispondono a un utile effettivo ma non se sono dovute all’ente pubblico locale sulla scorta di un accordo e non vincolate all’utile.
 
-<sup>2</sup> In qualità di costi di produzione sono altresì presi in considerazione i costi del capitale calcolatori. È determinante il tasso d’interesse calcolatorio secondo l’articolo 66. Gli ammortamenti vanno effettuati in genere rispettando l’attuale prassi per l’impianto pertinente.
+<sup>2</sup> In qualità di costi di produzione sono altresì presi in considerazione i costi del capitale calcolatori. È determinante il tasso d’interesse calcolatorio secondo l’allegato 3. Gli ammortamenti vanno effettuati in linea di principio rispettando l’attuale prassi per l’impianto pertinente.[^90-1]
 
 <sup>3</sup> L’UFE determina in una direttiva i costi d’esercizio e del capitale computabili.
+
+[^90-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Sezione 2: Premio di mercato e servizio universale
 
@@ -1255,11 +1667,125 @@ Se da una verifica o da un controllo risulta che qualcuno, in particolare a caus
 
 [^96-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## Capitolo 8: Valutazione, pubblicazione, informazioni, trasmissione di dati all’Ufficio federale della dogana e della sicurezza dei confini (UDSC)****, controllo e provvedimenti
+## Capitolo 7*a*: Contributi alle spese d’esercizio per gli impianti a biomassa
 
-[^chap8-1]
+[^chap7-1]
 
-[^chap8-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap7-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### Sezione 1: Motivo di esclusione e importi del contributo
+
+#### Art. 96a
+
+**Motivo di esclusione**
+
+Fintantoché un gestore ottiene per un impianto un finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne o una rimunerazione per l’immissione in rete di elettricità non è possibile accordare per questo impianto un contributo alle spese d’esercizio.
+
+#### Art. 96b
+
+**Importi del contributo**
+
+<sup>1</sup> Gli importi del contributo per categoria e classe di potenza sono fissati nell’allegato 5.
+
+<sup>2</sup> L’importo del contributo per impianti ibridi si calcola come specificato all’articolo 16 capoverso 2.
+
+<sup>3</sup> Gli importi del contributo vengono verificati periodicamente e adeguati in caso di modifica importante delle circostanze.
+
+<sup>4</sup> Il contributo alle spese d’esercizio si riduce del 7,1495 per cento per i gestori di impianti che sono assoggettati all’imposta secondo gli articoli 10–13 LIVA[^96b-1].
+
+[^96b-1]: [RS 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+
+### Sezione 2: Ordine di presa in considerazione e lista d’attesa
+
+#### Art. 96c
+
+**Ordine di presa in considerazione**
+
+<sup>1</sup> Determinante ai fini della presa in considerazione di una domanda per l’ottenimento di un contributo alle spese d’esercizio è la data di presentazione.
+
+<sup>2</sup> Se non tutte le domande presentate lo stesso giorno possono essere prese in considerazione, si prendono dapprima in considerazione i progetti degli impianti che hanno ottenuto un finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne o che hanno partecipato al sistema di rimunerazione per l’immissione di elettricità e la cui durata della rimunerazione è terminata.
+
+#### Art. 96d
+
+**Lista d’attesa**
+
+<sup>1</sup> Se le risorse disponibili non sono sufficienti per una presa in considerazione immediata, i progetti sono inseriti in una lista d’attesa secondo la data di presentazione della domanda, salvo il caso in cui sia manifesto che essi non soddisfano i requisiti per il diritto.
+
+<sup>2</sup> L’organo d’esecuzione comunica al richiedente che il progetto è stato inserito in una lista d’attesa.
+
+<sup>3</sup> Se vi sono nuovamente risorse disponibili, si prendono dapprima in considerazione gli impianti che hanno ottenuto un finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne o che hanno partecipato al sistema di rimunerazione per l’immissione di elettricità.
+
+### Sezione 3: Procedura di domanda
+
+#### Art. 96e
+
+**Domanda**
+
+<sup>1</sup> La domanda per l’ottenimento di un contributo alle spese d’esercizio va presentata all’organo d’esecuzione.
+
+<sup>2</sup> Essa può essere presentata non prima di un anno dalla fine della durata della rimunerazione del finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne o della rimunerazione per l’immissione di elettricità.
+
+<sup>3</sup>
+
+È possibile presentare una domanda solamente per gli impianti:
+
+- a. già in esercizio; o
+- b. pronti alla realizzazione.
+
+<sup>4</sup> Essa deve contenere tutte le indicazioni e i documenti di cui all’allegato 5.
+
+#### Art. 96f
+
+**Decisione**
+
+Se i requisiti per il diritto sono presumibilmente soddisfatti e sono disponibili sufficienti risorse per la presa in considerazione della domanda, l’organo d’esecuzione decide la concessione di un contributo alle spese d’esercizio e la data d’inizio della concessione del contributo.
+
+### Sezione 4: Esercizio in corso, esclusione e rinuncia
+
+#### Art. 96g
+
+**Versamento del contributo alle spese d’esercizio**
+
+<sup>1</sup> L’organo d’esecuzione versa trimestralmente il contributo alle spese d’esercizio.
+
+<sup>2</sup> Se per i versamenti di cui al capoverso 1 le risorse finanziarie non sono sufficienti, l’organo d’esecuzione versa la rimunerazione pro rata nel corso dell’anno. Il saldo lo versa nel corso dell’anno successivo.
+
+<sup>3</sup> Esso esige dal gestore la restituzione, senza interessi, degli importi versati in eccesso in rapporto all’effettiva produzione. Esso può anche computare tali importi nel periodo di pagamento successivo.
+
+<sup>4</sup> Se il prezzo di mercato di riferimento è superiore all’importo del contributo, esso fattura ai gestori trimestralmente la parte eccedente.
+
+#### Art. 96h
+
+**Requisiti minimi**
+
+I requisiti minimi sono determinati nell’allegato 5.
+
+#### Art. 96i
+
+**Mancato rispetto dei requisiti per il diritto o dei requisiti minimi**
+
+Se i requisiti per il diritto o i requisiti minimi non sono o non sono più rispettati, si applica per analogia l’articolo 29.
+
+#### Art. 96j
+
+**Esclusione, rinuncia e nuova domanda**
+
+<sup>1</sup>
+
+L’organo d’esecuzione dispone l’esclusione di un impianto dalla concessione del contributo alle spese d’esercizio, se i requisiti per il diritto o i requisiti minimi:
+
+- a. non sono rispettati ripetutamente e per tale ragione il contributo alle spese d’esercizio non è stato versato nel corso di tre anni civili consecutivi (art. 29 cpv. 1);
+- b. non sono rispettati nel corso di un intero anno civile dopo la scadenza del termine di cui all’articolo 29 capoverso 3.
+
+<sup>2</sup> La rinuncia al contributo alle spese d’esercizio è comunicata all’organo d’esecuzione rispettando un termine di disdetta di tre mesi per la fine di un trimestre.
+
+<sup>3</sup> Una nuova domanda per l’ottenimento di un contributo alle spese d’esercizio può essere presentata in qualsiasi momento. Tuttavia il contributo alle spese d’esercizio è nuovamente concesso non prima di un anno dall’ultima esclusione o rinuncia.
+
+## Capitolo 8: Valutazione, pubblicazione, informazioni, trasmissione di dati all’Ufficio federale della dogana e della sicurezza dei confini (UDSC), controllo e provvedimenti
+
+[^chap7a-1]
+
+[^chap7a-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 97
 
@@ -1312,7 +1838,20 @@ Riguardo al premio di mercato per gli impianti idroelettrici di grandi dimension
 - c. il numero di impianti e l’intera quantità d’elettricità per la quale viene erogato il premio di mercato;
 - d. l’intera quantità e il prezzo medio dell’elettricità proveniente dalle grandi centrali idroelettriche venduta a titolo di servizio universale in relazione con il premio di mercato.
 
+<sup>5</sup>
+
+In merito ai contributi alle spese d’esercizio esso pubblica i seguenti dati:
+
+- a. il nome o la ditta del gestore e l’ubicazione dell’impianto;
+- b. la categoria e la tipologia degli impianti;
+- c. l’ammontare del contributo alle spese d’esercizio;
+- d. la quantità di energia rimunerata.[^98-2]
+
+<sup>6</sup> Nel caso di impianti con una potenza inferiore ai 30 kW, la pubblicazione concernente i contributi alle spese d’esercizio secondo il capoverso 5 viene effettuata in chiave anonima.[^98-3]
+
 [^98-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^98-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^98-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 99
 
@@ -1419,11 +1958,9 @@ I progetti e gli impianti che erano già notificati per la rimunerazione per l�
 
 #### Art. 108
 
-**Disposizione transitoria relativa al premio di mercato nel caso di impianti idroelettrici di grandi dimensioni**
+[^108-1]
 
-<sup>1</sup> Il premio di mercato può essere versato per la prima volta nel 2018 per le domande relative al 2017 e per l’ultima volta nel 2022 per le domande relative al 2021.
-
-<sup>2</sup> Del diritto di vendere effettivamente in tale settore e ai costi di produzione l’elettricità da smerciare nell’ambito del servizio universale (art. 31 cpv. 3 LEne), gli aventi diritto possono fare uso la prima volta per il 2018 e l’ultima volta per il 2022.
+[^108-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 108a
 
@@ -1439,13 +1976,13 @@ Gli impianti esistenti che sono stati o saranno sostituiti completamente e che p
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato 1.1*[^t-1]*
+Allegato 1.1[^t-1]
 
-(art. 16, 17, 21, 22 e 23)
+(art. 16, 17, 21, 23 e 28)
 
 ## Impianti idroelettrici nel sistema di rimunerazione per l’immissione di elettricità
 
-[^t-1]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-1]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Definizione degli impianti
 
@@ -1490,7 +2027,7 @@ Allegato 1.1*[^t-1]*
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/it/xml/image/image1.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -1590,21 +2127,22 @@ Il tasso di rimunerazione per gli impianti che sono stati ampliati o rinnovati s
 
 - 6\.4 Nel caso di un impianto che, in virtù dell’articolo 3*a* dell’ordinanza del 7 dicembre 1998[^annex11-lvlu1-lvl6-2] sull’energia, beneficia di una rimunerazione per l’immissione di elettricità a copertura dei costi o ha ottenuto una decisione positiva, una limitazione della produzione dovuta a un’eventuale condizione posta dalle autorità non comporta l’esclusione dal sistema di rimunerazione per l’immissione di elettricità.
 - 6\.5 Nel caso di impianti che, in virtù dell’articolo 3*a* dell’ordinanza del 7 dicembre 1998 sull’energia, beneficiano di una rimunerazione per l’immissione di elettricità a copertura dei costi o hanno ottenuto una decisione positiva e che non rispettano i requisiti minimi per ragioni non imputabili al produttore, la rimunerazione continua a essere versata per un periodo pari al massimo a un terzo della durata della rimunerazione, qualora non sia possibile adottare delle contromisure. Se in seguito non rispettano nuovamente i requisiti minimi, questi impianti vengono esclusi dal sistema di rimunerazione per l’immissione di elettricità. Questa norma vale anche per l’anno 2018.
+- 6\.6 Non sono considerati nel calcolo del terzo della durata della rimunerazione gli anni in cui la ragione non imputabile al produttore di cui al numero 6.5 risiede in una siccità superiore alla media.
 
 [^annex11-lvlu1-lvl6-1]: [RU 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^annex11-lvlu1-lvl6-2]: [RU 2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [2015 4781](https://fedlex.data.admin.ch/eli/oc/2015/784)
 
-Allegato 1.2*[^t-2]*
+Allegato 1.2[^t-2]
 
-(art. 16, 17, 21, 22 e 23)
+(art. 16, 17, 21 e 23)
 
 ## Impianti fotovoltaici nel sistema di rimunerazione per l’immissione di elettricità
 
-[^t-2]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) e del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-2]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Definizione degli impianti
 
-- Un impianto fotovoltaico è composto di uno o più campi fotovoltaici e di uno o più convertitori. Se diverse unità costituite da campi fotovoltaici con i relativi convertitori che utilizzano lo stesso punto di allacciamento alla rete sono distribuite su diversi fondi, ciascuna di queste unità può essere considerata un impianto, in modo particolare quando le unità stesse sono realizzate indipendentemente l’una dall’altra e l’elettricità da loro prodotta è misurata separatamente.
+- Un impianto fotovoltaico è composto di uno o più campi fotovoltaici e di uno o più convertitori e da un punto di misurazione.
 
 ### 2 Tasso di rimunerazione
 
@@ -1675,7 +2213,11 @@ Allegato 1.2*[^t-2]*
 
 [^annex12-lvlu1-lvl5-1]: [RU 2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127)[6125](https://fedlex.data.admin.ch/eli/oc/2010/875), [2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575), [2012 607](https://fedlex.data.admin.ch/eli/oc/2012/88)[4555](https://fedlex.data.admin.ch/eli/oc/2012/545), [2013 3631](https://fedlex.data.admin.ch/eli/oc/2013/681), [2014 611](https://fedlex.data.admin.ch/eli/oc/2014/135)[3683](https://fedlex.data.admin.ch/eli/oc/2014/637), [2015 4781](https://fedlex.data.admin.ch/eli/oc/2015/784), [2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 
-Allegato 1.3*[^t-3]*
+### 6 Disposizione transitoria della modifica del 23 novembre 2022
+
+- Nel caso di impianti fotovoltaici messi in esercizio prima del 1° gennaio 2023, per la definizione di impianto è applicabile il diritto anteriore.
+
+Allegato 1.3[^t-3]
 
 (art. 16, 17, 21, 22 e 23)
 
@@ -1825,7 +2367,7 @@ Allegato 1.3*[^t-3]*
 
 [^annex13-lvlu1-lvl6-1]: [RU 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 
-Allegato 1.4*[^t-4]*
+Allegato 1.4[^t-4]
 
 (art. 16, 17, 21, 22 e 23)
 
@@ -1848,7 +2390,7 @@ Allegato 1.4*[^t-4]*
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/it/xml/image/image2.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -1929,7 +2471,7 @@ Allegato 1.4*[^t-4]*
 
 [^annex14-lvlu1-lvl7-1]: [RU 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)n. I e II
 
-Allegato 1.5*[^t-5]*
+Allegato 1.5[^t-5]
 
 (art. 16, 17, 21, 22 e 23)
 
@@ -1972,7 +2514,7 @@ Allegato 1.5*[^t-5]*
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/it/xml/image/image3.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -1984,7 +2526,7 @@ Allegato 1.5*[^t-5]*
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/it/xml/image/image4.png)
 
 - b.
 
@@ -2026,7 +2568,7 @@ Allegato 1.5*[^t-5]*
 - In caso di messa in esercizio dopo il 1° gennaio 2013, il tasso per il bonus per le centrali elettriche a legna secondo le classi di potenza ammonta a:
 
 <table>
-<tr><td>Classe di potenza</td><td>Bonus per legna (ct./kWh)</td></tr>
+<tr><th>Classe di potenza</th><th>Bonus per legna (ct./kWh)</th></tr>
 <tr><td>≤ 50 kW</td><td>8</td></tr>
 <tr><td>≤100 kW</td><td>7</td></tr>
 <tr><td>≤500 kW</td><td>6</td></tr>
@@ -2147,13 +2689,13 @@ Allegato 1.5*[^t-5]*
 
 [^annex15-lvlu1-lvl9-1]: [RU 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 
-Allegato 2.1*[^t-6]*
+Allegato 2.1[^t-6]
 
-(art. 36, 38 e 41–45)
+(art. 7, 38, 41–43, 45 e 46*d*)
 
 ## Rimunerazione unica per gli impianti fotovoltaici
 
-[^t-6]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) e del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-6]: Aggiornato dal n. II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Definizione degli impianti
 
@@ -2206,7 +2748,32 @@ Allegato 2.1*[^t-6]*
 
 - 2\.5 Il contributo legato alla potenza per gli impianti con potenza nominale ≥30 kW è calcolato pro rata rispetto alle classi di potenza. Agli impianti integrati con potenza nominale ≥100 kW che sono stati messi in esercizio dopo il 1° gennaio 2013 per tutte le classi di potenza si applicano esclusivamente i tassi di rimunerazione previsti per gli impianti annessi e isolati.
 - 2\.6 Gli impianti di cui all’articolo 7 capoverso 3 ottengono i contributi per gli impianti integrati se appartengono alla categoria degli impianti integrati.
-- 2\.7 Il bonus per gli impianti integrati con un angolo d’inclinazione di almeno 75 gradi ammonta a 250 franchi per kW.
+- 2\.7 Bonus per l’angolo di inclinazione e l’altitudine
+- 2\.7.1 Il bonus per gli impianti integrati con un angolo d’inclinazione di almeno 75 gradi ammonta a 250 franchi per kW.
+- 2\.7.2 Il bonus per gli impianti annessi o isolati con un angolo d’inclinazione di almeno 75 gradi ammonta a 100 franchi per kW.
+- 2\.7.3 Il bonus per gli impianti installati a partire da un’altitudine di 1500 m sul livello del mare ammonta a 250 franchi per kW. La prova che l’impianto non sia annesso a un edificio né integrato al suo interno dev’essere documentata mediante foto.
+- 2\.8 Per gli impianti integrati che sono stati messi in esercizio a partire dal 1° gennaio 2023, valgono i seguenti importi:
+
+<table>
+<tr><th></th><th>Classe di potenza</th><th></th></tr>
+<tr><td>Contributo di base (fr.)</td><td>2–5 kW</td><td>200</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
+<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>440</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>330</td></tr>
+</table>
+
+- 2\.9 Per gli impianti annessi e isolati che sono stati messi in esercizio a partire dal 1° gennaio 2023, valgono i seguenti importi:
+
+<table>
+<tr><th></th><th>Classe di potenza</th><th></th></tr>
+<tr><td>Contributo di base (fr.)</td><td>2–5 kW</td><td>200</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
+<tr><td>Contributo legato alla potenza (fr./kW)</td><td>&lt;30 kW</td><td>400</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>270</td></tr>
+</table>
+
+- 2\.10 Per gli impianti nuovi senza consumo proprio con una potenza inferiore a 150 kW e per gli impianti che vengono ampliati in misura considerevole con un aumento di potenza inferiore a 150 kW, il contributo legato alla potenza ammonta a 450 franchi per kW se l’impianto nuovo o ampliato è stato messo in esercizio a partire dal 1° gennaio 2023. Per questi impianti non è versato un contributo di base.
 
 ### 3 Domanda per gli impianti di piccole dimensioni
 
@@ -2226,6 +2793,7 @@ Allegato 2.1*[^t-6]*
   - j. certificazione dei dati dell’impianto secondo l’articolo 2 capoverso 2 OGOE[^annex21-lvlu1-lvl3-2];
   - k. per impianti integrati: fotografie che mostrano il generatore solare durante la costruzione e dopo il completamento e dalle quali si può evincere che si tratta di un impianto integrato ai sensi dell’articolo 6.
   - l. per impianti di cui all’articolo 7 capoverso 3: la dichiarazione che il gestore rinuncia alla rimunerazione del contributo legato alla potenza per la potenza a partire da 100 kW.
+  - m. la dichiarazione che l’impianto immette in rete tutta l’elettricità prodotta oppure che si fa uso del consumo proprio secondo l’articolo 16 LEne.
 
 [^annex21-lvlu1-lvl3-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^annex21-lvlu1-lvl3-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
@@ -2243,6 +2811,7 @@ Allegato 2.1*[^t-6]*
   - e. produzione annua prevista;
   - f. consenso dei proprietari fondiari;
   - g. categoria del produttore;
+  - h. la dichiarazione che l’impianto immette in rete tutta l’elettricità prodotta oppure che si fa uso del consumo proprio secondo l’articolo 16 LEne.
 
 - 4\.2 Notifica di messa in esercizio
 -
@@ -2257,15 +2826,18 @@ Allegato 2.1*[^t-6]*
 
 [^annex21-lvlu1-lvl4-1]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
 
-Allegato 2.2
+Allegato 2.2[^t-7]
 
-(art. 47, 53 e 65)
+(art. 53 e 61)
 
 ## Contributi d’investimento per gli impianti idroelettrici
 
+[^t-7]: Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
 ### 1 Definizione degli impianti
 
-- La definizione di impianto idroelettrico si basa sull’allegato 1.1 numero 1.
+- 1\.1 Per impianto idroelettrico s’intende un impianto tecnico autonomo per la produzione di elettricità a partire dalla forza idrica.
+- 1\.2 Gli impianti menzionati nell’articolo 9 sono considerati impianti autonomi.
 
 ### 2 Contenuto della domanda
 
@@ -2275,20 +2847,20 @@ Allegato 2.2
 
   - a. indicazioni relative all’impianto, in particolare il nome dell’avente diritto e l’ubicazione della centrale, delle prese, dei serbatoi e delle restituzioni d’acqua;
   - b. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
-  - c. la prova della validità del diritto di sfruttamento delle acque;
-  - d. potenza meccanica lorda media dell’acqua;
-  - e. potenza installata prima e dopo l’investimento;
-  - f. produzione elettrica prevista in kWh per anno civile prima e dopo l’investimento;
-  - g. profilo di produzione previsto di un anno medio relativo alla durata di utilizzo dell’impianto;
-  - h. dislivello lordo medio in m prima e dopo l’investimento;
-  - i. dislivello netto medio in m prima e dopo l’investimento;
-  - j. portata massima normale prima e dopo l’investimento;
-  - k. volume utile utilizzabile prima e dopo l’investimento;
-  - l. data di messa in esercizio prevista;
-  - m. in caso di ampliamenti e i rinnovamenti: documenti che illustrano che l’ampliamento o il rinnovamento è di misura considerevole;
-  - n. descrizione tecnica dell’impianto;
+  - c. descrizione tecnica dell’impianto;
+  - d. in caso di ampliamenti e i rinnovamenti: documenti che illustrano che l’ampliamento o il rinnovamento è di misura considerevole;
+  - e. potenza meccanica lorda media dell’acqua prima e dopo l’investimento;
+  - f. potenza installata prima e dopo l’investimento;
+  - g. portata utile d’acqua in m<sup>3</sup> calcolando la media dei cinque anni civili completi prima e dopo l’investimento;
+  - h. produzione elettrica in kWh per anno civile prima e dopo l’investimento;
+  - i. dislivello lordo medio in m prima e dopo l’investimento;
+  - j. dislivello netto medio in m prima e dopo l’investimento;
+  - k. portata massima normale prima e dopo l’investimento;
+  - l. volume utile utilizzabile prima e dopo l’investimento;
+  - m. data di inizio dei lavori e di messa in esercizio prevista;
+  - n. prova della validità del diritto di sfruttamento delle acque e la licenza di costruzione passata in giudicato;
   - o. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili;
-  - p. calcolo dei maggiori costi non ammortizzabili.
+  - p. indicazione di altri aiuti finanziari.
 
 ### 3 Tabella del periodo di utilizzazione
 
@@ -2318,19 +2890,57 @@ Allegato 2.2
 <tr><td>Stabili amministrativi</td><td>50</td></tr>
 </table>
 
-Allegato 2.3[^t-7]
+Allegato 2.3[^t-8]
 
-(art. 69, 74 e 87)
+(art. 69, 74 e 83)
 
 ## Contributi d’investimento per gli impianti a biomassa
 
-[^t-7]: Aggiornato dal n. II dell’O del 24 nov. 2021, in vigore dal 1° gen 2022, il n. 1.1 il 1° apr. 2022 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-8]: Nuovo testo giusta il n. II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-### 1 Impianti di incenerimento dei rifiuti (IIR)
+### 1 Definizione degli impianti
 
-- 1\.1 Requisiti energetici minimi
-- Un contributo d’investimento viene accordato soltanto se il nuovo impianto o l’ampliamento considerevole presentano un’efficienza energetica netta (EEN) equivalente almeno allo 0,9; nel caso di rinnovamenti considerevoli la EEN deve essere pari almeno allo 0,85.
-- 1\.2 Contenuto della domanda
+- La definizione di impianto a biomassa si basa sull**’**allegato 1.5 numero 1.
+
+### 2 Impianti di produzione di biogas
+
+- 2\.1 Requisiti generali
+- I requisiti generali si determinano sulla scorta dell’allegato 1.5 numeri 2.1.1 e 2.1.2.
+- 2\.2 Requisiti energetici minimi
+- Il fabbisogno di calore dell’impianto di produzione di energia è coperto utilizzando il calore dell’impianto di cogenerazione o altre energie rinnovabili.
+- 2\.3 Contenuto della domanda
+-
+
+  La domanda deve contenere almeno le indicazioni e i documenti seguenti:
+
+  - a. indicazioni relative all’impianto, in particolare il nome dell’avente diritto e l’ubicazione;
+  - b. licenza di costruzione o, se per un progetto non occorre una licenza di costruzione, prova che il progetto è pronto alla realizzazione;
+  - c. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
+  - d. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili;
+  - e. potenza elettrica installata (kWel) prima e dopo l’investimento;
+  - f. produzione lorda di elettricità e calore (kWh) per anno civile prima e dopo l’investimento;
+  - g. produzione netta di elettricità nonché calore sfruttato esternamente per anno civile prima e dopo l’investimento;
+  - h. data di messa in esercizio prevista.
+
+- 2\.4 Elementi costituenti dell’impianto
+- I costi dei seguenti elementi costituenti dell’impianto sono considerati costi d’investimento computabili:
+
+<table>
+<tr><th>Elemento costituente dell’impianto</th><th>Periodo di utilizzazione in anni</th></tr>
+<tr><td>Parti dello stabile vasca, stoccaggio intermedio, serbatoio di stoccaggio, stoccaggio dei residui di fermentazione, fermentatore, stoccaggio di gas, elemento dello stabile per le centrali termo-elettriche a blocco, tubazioni, gasdotti propri fino a 300m, isolamento, raccordi</td><td>25</td></tr>
+<tr><td>Trituratore, flaker a flusso incrociato, sistema di vagliatura, igienizzazione, dispositivo di miscelazione, separazione</td><td>15</td></tr>
+<tr><td>Generazione di gas, estrazione di calore, sistema di scarico gas, sistema ad aria compressa, sistema di ventilazione</td><td>10</td></tr>
+<tr><td>Centrale termo-elettrica a blocco incl. raffreddamento d’emergenza, microturbina a gas, regolazione della pressione, generatore, trasformatore, sistema di condensatori, fiaccola d’emergenza</td><td>10</td></tr>
+<tr><td>Tecnica di gestione (tecnica di misurazione, comando e regolazione elettrica, EMSR)</td><td>15</td></tr>
+</table>
+
+### 3 Centrali elettriche a legna
+
+- 3\.1 Requisiti generali
+- I requisiti generali si determinano sulla scorta dell’allegato 1.5 numeri 2.1.1 e 2.1.2.
+- 3\.2 Requisiti energetici minimi
+- Un contributo d’investimento viene accordato soltanto se l’impianto nuovo o ampliato in misura considerevole soddisfa i requisiti energetici minimi di cui all’allegato 1.5 numero 2.2.3. Se contemporaneamente alla costruzione o all’ampliamento dell’impianto viene realizzata o ampliata una rete di teleriscaldamento o un altro sistema per lo sfruttamento termico, i requisiti energetici minimi non devono necessariamente essere soddisfatti al momento della definizione definitiva del contributo d’investimento; devono però essere soddisfatti entro un termine adeguato.
+- 3\.3 Contenuto della domanda
 -
 
   La domanda deve contenere almeno le indicazioni e i documenti seguenti:
@@ -2341,95 +2951,358 @@ Allegato 2.3[^t-7]
   - d. potenza elettrica installata (kWel) prima e dopo l’investimento;
   - e. produzione lorda di elettricità e calore (kWh) per anno civile prima e dopo l’investimento;
   - f. produzione netta di elettricità nonché calore sfruttato esternamente per anno civile prima e dopo l’investimento;
-  - g. calcolo dei maggiori costi non ammortizzabili;
-  - h. data di messa in esercizio prevista;
-  - i. consenso dei proprietari fondiari.
+  - g. data di messa in esercizio prevista.
 
-- 1\.3 Tabella del periodo di utilizzazione
-- Il calcolo dei maggiori costi non ammortizzabili si basa sul seguente periodo di utilizzazione dei singoli elementi costituenti dell’impianto:
+- 3\.4 Elementi costituenti dell’impianto
+- I costi dei seguenti elementi costituenti dell’impianto sono considerati costi d’investimento computabili:
 
 <table>
-<tr><th>Elemento costituente dell’impianto</th><th>anni</th></tr>
+<tr><th>Elemento costituente dell’impianto</th><th>Periodo di utilizzazione in anni</th></tr>
+<tr><td>Parti dello stabile, silo, gru</td><td>25</td></tr>
+<tr><td>Impianto a combustione, trasporto di combustibile, smaltimento delle ceneri, ventilatori ad aria, canali dell’aria, ventilatore per gas di combustione, movimento della cenere, correnti di radiazione, tamburo della caldaia, vaporizzatore, eco, trattamento dei fumi, Organic Ranking Cycle, impianto a gassificazione di legna</td><td>15</td></tr>
+<tr><td>Surriscaldatore</td><td>10</td></tr>
+<tr><td>Turbine, generatore, impianto idraulico, trasformatore, circuito di raffreddamento (turbine, generatore), pompe per l’acqua di alimento, contenitori per l’acqua di alimento, condensatore dell’aria, impianti di trasporto in condotta e rubinetteria, stazione di riduzione della pressione, sistema di condensatori, preriscaldamento dell’acqua di alimento, allacciamento a corrente forte</td><td>25</td></tr>
+<tr><td>Tecnica di gestione (EMSR)</td><td>15</td></tr>
+</table>
+
+### 4 Impianti di incenerimento dei rifiuti
+
+- 4\.1 Requisiti energetici minimi
+- Un contributo d’investimento viene accordato soltanto se l’efficienza energetica netta (EEN) equivalente è pari almeno allo 0,9 per gli impianti nuovi e almeno allo 0,85 per gli impianti ampliati in misura considerevole.
+- 4\.2 Contenuto della domanda
+-
+
+  La domanda deve contenere almeno le indicazioni e i documenti seguenti:
+
+  - a. indicazioni relative all’impianto, in particolare il nome dell’avente diritto e l’ubicazione;
+  - b. licenza di costruzione o, se per un progetto non occorre una licenza di costruzione, prova che il progetto è pronto alla realizzazione;
+  - c. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
+  - d. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili;
+  - e. potenza elettrica installata (kWel) prima e dopo l’investimento;
+  - f. produzione lorda di elettricità e calore (kWh) per anno civile prima e dopo l’investimento;
+  - g. produzione netta di elettricità nonché calore sfruttato esternamente per anno civile prima e dopo l’investimento;
+  - h. data di messa in esercizio prevista.
+
+- 4\.3 Elementi costituenti dell’impianto
+- I costi dei seguenti elementi costituenti dell’impianto sono considerati costi d’investimento computabili:
+
+<table>
+<tr><th>Elemento costituente dell’impianto</th><th>Periodo di utilizzazione in anni</th></tr>
 <tr><td>Correnti di radiazione, tamburo della caldaia, vaporizzatore, eco, zona di convezione</td><td>15</td></tr>
 <tr><td>Surriscaldatore</td><td>10</td></tr>
 <tr><td>Turbine, generatore, impianto idraulico, trasformatore, circuito di raffreddamento (turbine, generatore), pompe per l’acqua di alimento (2 elettriche, 1 a vapore), contenitori per l’acqua di alimento, condensatore dell’aria, eiettori, vaso di espansione di purga della caldaia, impianti di trasporto in condotta e rubinetteria, riduzione della pressione, sistema di condensatori e preriscaldamento dell’acqua di alimento, gru del locale dedicato alle turbine, allacciamento a corrente forte, generatore d’emergenza</td><td>25</td></tr>
 <tr><td>Tecnica di gestione (EMSR)</td><td>15</td></tr>
 </table>
 
-### 2 Impianti a gas di depurazione
+### 5 Forni per l’incenerimento di fanghi
 
-- 2\.1 Requisiti energetici minimi
-- La torre di fermentazione deve essere riscaldata mediante calore residuo e il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al diagramma nell’allegato 1.5 numero 2.2.4 lettera a.
-- 2\.2 Contenuto della domanda
+- 5\.1 Requisiti relativi ai fanghi e all’incenerimento
+- Si possono impiegare soltanto fanghi disidratati oppure rifiuti biogeni essiccati mediante energie rinnovabili. Come combustibili aggiuntivi si possono impiegare soltanto combustibili rinnovabili.
+- 5\.2 Per quanto riguarda i requisiti energetici minimi, il contenuto della domanda e la tabella del periodo di utilizzazione valgono gli stessi requisiti degli IIR.
+
+### 6 Impianti a gas di depurazione e impianti a gas di discarica
+
+- 6\.1 Requisiti energetici minimi
+- La torre di fermentazione deve essere riscaldata mediante calore residuo.
+- 6\.2 Contenuto della domanda
 -
 
   La domanda deve contenere almeno le indicazioni e i documenti seguenti:
 
   - a. indicazioni relative all’impianto, in particolare il nome dell’avente diritto e l’ubicazione;
-  - b. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
-  - c. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili;
-  - d. potenza elettrica installata (kWel) prima e dopo l’investimento;
-  - e. produzione elettrica prevista per anno civile prima e dopo l’investimento;
-  - f. calcolo dei maggiori costi non ammortizzabili;
+  - b. licenza di costruzione o, se per un progetto non occorre una licenza di costruzione, prova che il progetto è pronto alla realizzazione;
+  - c. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
+  - d. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili;
+  - e. potenza elettrica installata (kWel) prima e dopo l’investimento;
+  - f. produzione elettrica prevista per anno civile prima e dopo l’investimento;
   - g. data di messa in esercizio prevista;
-  - h. numero di abitanti-equivalenti dell’impianto di depurazione;
-  - i. consenso dei proprietari fondiari.
+  - h. numero di abitanti-equivalenti dell’impianto di depurazione.
 
-- 2\.3 Tabella del periodo di utilizzazione
-- Il calcolo dei maggiori costi non ammortizzabili si basa sul seguente periodo di utilizzazione dei singoli elementi costituenti dell’impianto:
+- 6\.3 Elementi costituenti dell’impianto
+- I costi dei seguenti elementi costituenti dell’impianto sono considerati costi d’investimento computabili:
 
 <table>
-<tr><td>Elemento costituente dell’impianto</td><td>anni</td></tr>
+<tr><th>Elemento costituente dell’impianto</th><th>Periodo di utilizzazione in anni</th></tr>
 <tr><td>Stabile gasometro, elemento dello stabile per le centrali termoelettriche a blocco, locale per la misurazione del gas, condotte</td><td>25</td></tr>
 <tr><td>Centrali termoelettriche a blocco, incl. raffreddamento d’emergenza</td><td>10</td></tr>
 <tr><td>Gasometro, rubinetteria, filtro a sabbia, ventilatore per l’aumento della pressione del gas, raffreddamento del gas, depurazione dei fumi, rimozione di silossano</td><td>15</td></tr>
 <tr><td>Tecnica di gestione (EMSR)</td><td>15</td></tr>
 </table>
 
-### 3 Centrali elettriche a legna di importanza regionale
+Allegato 2.4[^t-9]
 
-- 3\.1 Requisiti energetici minimi
-- Per le centrali termo-elettriche a blocco valgono i requisiti energetici minimi di cui all’allegato 1.5 numero 2.2.4 e per i cicli di vapore quelle di cui all’allegato 1.5 numero 2.2.3. Se contemporaneamente alla costruzione o all’ampliamento dell’impianto viene realizzata o ampliata una rete di teleriscaldamento o un altro sistema per lo sfruttamento termico, i requisiti energetici minimi non devono necessariamente essere soddisfatti al momento della definizione definitiva del contributo d’investimento; devono però essere prevedibilmente soddisfatti entro un termine adeguato.
-- 3\.2 Contenuto della domanda
+(art. 87*d*)
+
+## Contributo d’investimento per gli impianti eolici
+
+[^t-9]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Definizione degli impianti
+
+- La definizione di impianto eolico si basa sull’allegato 1.3 numero 1.
+
+### 2 Contenuto della domanda
+
 -
 
   La domanda deve contenere almeno le indicazioni e i documenti seguenti:
 
-  - a. indicazioni relative all’impianto, in particolare il nome dell’avente diritto e l’ubicazione;
-  - b. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
-  - c. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili;
-  - d. potenza elettrica installata (kWel) prima e dopo l’investimento;
-  - e. produzione lorda di elettricità e calore (kWh) per anno civile prima e dopo l’investimento;
-  - f. produzione netta di elettricità nonché calore sfruttato esternamente per anno civile prima e dopo l’investimento;
-  - g. un calcolo dei maggiori costi non ammortizzabili;
-  - h. data di messa in esercizio prevista;
-  - i. consenso dei proprietari fondiari.
+  - a. indicazioni relative all’impianto, in particolare il perimetro del progetto, l’ubicazione dell’impianto eolico previsto e il nome dell’avente diritto;
+  - b. descrizione del progetto, comprensivo di piano delle scadenze, che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
+  - c. descrizione tecnica dell’impianto: in particolare indicazioni relative al tipo di impianto eolico previsto e all’allacciamento alla rete previsto (gestore di rete, livello di rete, piantina);
+  - d. perizia sul rendimento che soddisfi i requisiti di cui al numero 3.3;
+  - e. elenco dettagliato dei costi d’investimento suddivisi in costi computabili e non computabili.
 
-- 3\.3 Tabella del periodo di utilizzazione
-- Il calcolo dei maggiori costi non ammortizzabili si basa sul seguente periodo d’utilizzazione dei singoli elementi costituenti dell’impianto:
+### 3 Requisiti minimi delle misurazioni del vento, dei dati di misurazione del vento e delle perizie sul rendimento
 
-<table>
-<tr><td>Elemento costituente dell’impianto</td><td>anni</td></tr>
-<tr><td>Parti dello stabile, silo, gru</td><td>25</td></tr>
-<tr><td>Impianto a combustione, trasporto di combustibile, smaltimento delle ceneri, ventilatori ad aria, canali dell’aria, ventilatore per gas di combustione, movimento della cenere, correnti di radiazione, tamburo della caldaia, vaporizzatore, eco, trattamento dei fumi, ORC, caldaie a gassificazione di legna</td><td>15</td></tr>
-<tr><td>Surriscaldatore</td><td>10</td></tr>
-<tr><td>Turbine, generatore, impianto idraulico, trasformatore, circuito di raffreddamento (turbine, generatore), pompe per l’acqua di alimento, contenitori per l’acqua di alimento, condensatore dell’aria, impianti di trasporto in condotta e rubinetteria, stazione di riduzione della pressione, sistema di condensatori, preriscaldamento dell’acqua di alimento, allacciamento a corrente forte</td><td>25</td></tr>
-<tr><td>Tecnica di gestione (EMSR)</td><td>15</td></tr>
-</table>
+- 3\.1 Requisiti minimi delle misurazioni del vento per l’ubicazione di un nuovo impianto
+-
 
-Allegato 3
+  Nel caso delle misurazioni del vento vanno rispettati almeno i seguenti requisiti:
 
-(art. 66)
+  - a il pilone per la misurazione del vento deve essere eretto entro il perimetro del parco;
+  - b. l’altezza del pilone per la misurazione del vento deve essere pari ad almeno 2/3 dell’altezza del mozzo dell’impianto eolico o ad almeno 100 m. Se il pilone per la misurazione del vento è più piccolo, nel perimetro del parco devono essere effettuate misurazioni LIDAR o SODAR integrative;
+  - c. la misurazione deve essere eseguita con sensori di direzione del vento e sensori di velocità del vento calibrati ad almeno due altezze; il punto di misurazione superiore è posto al massimo 2 m al di sotto della sommità del pilone;
+  - d. la misurazione del vento deve essere effettuata per almeno 12 mesi senza interruzioni;
+  - e. i dati di misurazione del vento devono essere disponibili per almeno l’80 per cento del tempo.
+
+- 3\.2 Requisiti minimi delle misurazioni del vento per impianti eolici esistenti (dati d’esercizio)
+-
+
+  Nel caso dei dati di misurazione del vento per impianti eolici esistenti vanno rispettati i seguenti requisiti:
+
+  - a. l’impianto eolico deve trovarsi all’interno del perimetro del parco;
+  - b. i dati devono essere misurati all’altezza del mozzo della turbina eolica;
+  - c. i dati di misurazione del vento devono essere disponibili ininterrottamente per un periodo di almeno 12 mesi;
+  - d. i dati di misurazione del vento devono essere disponibili per almeno l’80 per cento del tempo.
+
+- 3\.3 Requisiti minimi delle perizie sul rendimento
+-
+
+  Le perizie sul rendimento devono contenere perlomeno le informazioni seguenti:
+
+  - a. documentazione della misurazione del vento o dei dati d’esercizio;
+  - b. numero di impianti eolici previsti, con relative dimensioni e potenza nominale;
+  - c. previsioni sul rendimento per tutte le ubicazioni degli impianti previste con il tipo di impianto eolico più idoneo.
+
+Allegato 2.5[^t-10]
+
+(art. 87*r e* 87*t*)
+
+## Contributi d’investimento per la prospezione e lo sfruttamento di serbatoi geotermici
+
+[^t-10]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Definizioni
+
+- 1\.1 Esplorazione
+- L’esplorazione del sottosuolo avviene mediante la prospezione e lo sfruttamento e serve a provare l’esistenza di un serbatoio geotermico da sfruttare.
+- 1\.2 Prospezione
+- La prospezione comprende analisi volte alla caratterizzazione del sottosuolo di un presunto serbatoio geotermico e alla determinazione dell’ubicazione in superficie nonché del punto di arrivo sotterraneo di una perforazione di sondaggio.
+- 1\.3 Sfruttamento
+- Lo sfruttamento comprende il sondaggio mediante perforazioni per l’estrazione dell’acqua calda e per un’eventuale riconduzione nel serbatoio geotermico dell’acqua prelevata.
+
+### 2 Costi d’investimento computabili
+
+- 2\.1
+
+  Nell’ambito della prospezione sono computabili in particolare i costi per le seguenti attività:
+
+  - a. l’acquisizione di nuovi geodati nell’area di prospezione;
+  - b. le attività per l’acquisizione di nuovi geodati;
+  - c. l’analisi e l’interpretazione di geodati.
+
+- 2\.2
+
+  Nell’ambito dello sfruttamento sono computabili in particolare i costi per le seguenti attività:
+
+  - a. la preparazione, la costruzione e lo smantellamento del cantiere di perforazione;
+  - b. le perforazioni, comprese tubazioni, cementazione e completamento dell’insieme delle perforazioni di produzione, di iniezione e di monitoraggio previste;
+  - c. le stimolazioni del foro di trivellazione e del serbatoio;
+  - d. le prove di pozzo;
+  - e. le misurazioni del foro di trivellazione, strumentazione compresa;
+  - f. le prove di circolazione;
+  - g. l’analisi delle sostanze rinvenute;
+  - h. l’assistenza geologica, l’analisi dei dati e l’interpretazione.
+
+- 2\.3 Non sono computabili i costi insorti nell’ambito di procedure ufficiali.
+
+### 3 Procedura per l’ottenimento di un contributo per la prospezione
+
+- 3\.1 Domanda
+-
+
+  La domanda deve fornire informazioni su aspetti del progetto tecnici, economici, legali, organizzativi e rilevanti per la sicurezza e la protezione dell’ambiente, in particolare in merito a:
+
+  - a. lo stato delle attuali conoscenze nell’area oggetto dell’esplorazione mediante l’elaborazione dell’insieme di geodati, analisi e interpretazioni disponibili;
+  - b. le prospezioni geologiche previste che servono alla determinazione dell’ubicazione e del punto di arrivo della perforazione di sondaggio nonché all’individuazione e alla caratterizzazione del serbatoio geotermico e che informano in merito alle probabilità di individuare tale serbatoio;
+  - c. i possibili piani di utilizzazione in caso di esito positivo della prospezione nonché i calcoli della redditività provvisori;
+  - d. i piani dettagliati delle scadenze e le stime dei costi con uno scarto massimo del 20 per cento;
+  - e. le misure previste per individuare i pericoli e i rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché per l’ambiente, in particolare per le riserve di acqua potabile, e volte a ridurre tali rischi al livello minimo e ragionevolmente praticabile.
+
+- 3\.2 Esame della domanda
+- 3\.2.1 L’UFE nomina all’interno del gruppo di esperti indipendente un rappresentante dell’Ufficio federale di topografia (swisstopo), in particolare per la valutazione delle componenti geologiche del progetto e del plusvalore per l’esplorazione in Svizzera.
+- 3\.2.2
+
+  Il gruppo di esperti esamina e valuta la domanda sulla base delle informazioni di cui al numero 3.1 e in particolare in merito ai seguenti aspetti:
+
+  - a. le attività di prospezione previste e la gestione del progetto;
+  - b. il livello tecnico e qualitativo dei lavori programmati e il tenore innovativo;
+  - c. in che misura le attività di prospezione accrescono le probabilità di individuare un serbatoio geotermico mediante una perforazione di sondaggio;
+  - d. il plusvalore per l’esplorazione di serbatoi geotermici nel sottosuolo svizzero;
+  - e. la gestione dei rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché l’ambiente.
+
+- 3\.2.3
+
+  Se valuta positivamente il progetto, il gruppo di esperti trasmette all’UFE in particolare una raccomandazione su:
+
+  - a. l’aumento atteso delle probabilità di individuare un serbatoio geotermico;
+  - b. le scadenze delle tappe del progetto;
+  - c. l’ammontare del contributo per la prospezione da concedere;
+  - d. l’impiego di un rappresentante di swisstopo con funzione di accompagnamento al progetto.
+
+- 3\.3 Contratto
+-
+
+  Se sussistono i requisiti per la concessione del contributo per la prospezione, nel contratto vengono disciplinati secondo l’articolo 87*t* capoverso 1 in particolare i seguenti punti:
+
+  - a. le tappe principali che il richiedente deve raggiungere e le scadenze da rispettare;
+  - b. l’obbligo di informazione del richiedente nei confronti dell’UFE, segnatamente in relazione a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
+  - c. l’entità, le condizioni e la scadenza del contributo per la prospezione;
+  - d. il trasferimento a titolo gratuito dell’impianto alla Confederazione e la concessione a quest’ultima di un diritto di compera del fondo, se un progetto non viene portato avanti e nemmeno utilizzato per altri scopi; sono fatti salvi i monopoli cantonali;
+  - e. la pubblicazione di tutti i dati finanziari necessari al calcolo di eventuali perdite o utili secondo gli articoli 34 e 34*a*;
+  - f. i motivi che conducono allo scioglimento del contratto;
+  - g. ulteriori condizioni.
+
+- 3\.4 Svolgimento e conclusione del progetto
+- 3\.4.1 Il responsabile del progetto svolge i lavori di prospezione programmati.
+- 3\.4.2 L’accompagnatore del progetto segue il progetto durante i lavori di prospezione e valuta i risultati di tali lavori. Per adempiere i suoi compiti, può coinvolgere il gruppo di esperti. Redige rapporti periodici per l’UFE e il gruppo di esperti.
+- 3\.4.3 Se non vengono rispettate le tappe o le scadenze di cui al numero 3.3 lettera a, l’UFE può sciogliere il contratto con effetto immediato.
+- 3\.4.4 Al termine delle attività, il gruppo di esperti valuta a beneficio dell’UFE i risultati dei lavori di prospezione e valuta i risultati in quanto all’aumento atteso delle probabilità di individuare un presunto serbatoio geotermico.
+
+### 4 Procedura per l’ottenimento di un contributo allo sfruttamento
+
+- 4\.1 Domanda
+-
+
+  La domanda deve fornire informazioni su aspetti del progetto tecnici, economici, legali, organizzativi e rilevanti per la sicurezza nonché per la protezione dell’ambiente, in particolare in merito a:
+
+  - a. il programma dettagliato delle perforazioni, del completamento, delle misurazioni e delle prove di tutte le perforazioni previste;
+  - b. i piani dettagliati delle scadenze e le stime dei costi con uno scarto massimo del 20 per cento;
+  - c. le caratteristiche attese del presunto serbatoio geotermico, in particolare la temperatura nel foro di trivellazione all’altezza del serbatoio e le caratteristiche relative al trasporto del serbatoio;
+  - d. l’utilizzazione prevista delle perforazioni e del serbatoio geotermico qualora i risultati non corrispondessero alle aspettative;
+  - e. le misure previste volte a individuare i pericoli e i rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché per l’ambiente, in particolare per le risorse di acqua potabile, e le misure previste volte a ridurre tali rischi a un livello minimo e ragionevolmente praticabile;
+  - f. le innovazioni previste al fine di rendere promettente e affidabile lo sfruttamento di serbatoi geotermici in Svizzera;
+  - g. il valore delle attività di sfruttamento in riferimento all’esplorazione di serbatoi geotermici nel sottosuolo svizzero;
+  - h. la forma giuridica prevista e il nome o la ragione sociale della società responsabile della gestione;
+  - i. il finanziamento e i costi amministrativi delle fasi di sfruttamento, costruzione, ampliamento, esercizio e smantellamento;
+  - j. lo sfruttamento del serbatoio geotermico sulla base di un piano di utilizzazione, i previsti acquirenti di elettricità e calore nonché il loro coinvolgimento nel progetto e la prevista riduzione delle emissioni di CO<sub>2</sub>.
+
+- 4\.2 Esame della domanda
+- 4\.2.1 L’UFE nomina all’interno del gruppo di esperti indipendente un rappresentante di swisstopo, in particolare per la valutazione delle componenti geologiche del progetto e del plusvalore per l’esplorazione in Svizzera.
+- 4\.2.2
+
+  Il gruppo di esperti esamina e valuta la domanda sulla base delle informazioni fornite al numero 4.1 in particolare in merito a:
+
+  - a. le caratteristiche attese del presunto serbatoio geotermico, in particolare la temperatura nel foro di trivellazione all’altezza del serbatoio e le caratteristiche relative al trasporto del serbatoio;
+  - b. il livello tecnico e qualitativo dei lavori programmati e il tenore innovativo;
+  - c. il plusvalore per l’esplorazione di serbatoi geotermici nel sottosuolo svizzero;
+  - d. la gestione dei rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché per l’ambiente.
+
+- 4\.2.3
+
+  In caso di valutazione positiva della domanda il gruppo di esperti trasmette all’UFE in particolare una raccomandazione su:
+
+  - a. la temperatura attesa del serbatoio nel foro di trivellazione all’altezza del serbatoio e le caratteristiche relative al trasporto del serbatoio;
+  - b. le scadenze delle tappe del progetto;
+  - c. l’ammontare del contributo allo sfruttamento da concedere;
+  - d. l’impiego di un esperto indipendente in qualità di accompagnatore del progetto.
+
+- 4\.3 Contratto
+-
+
+  Se vi sono i presupposti per la concessione del contributo allo sfruttamento, nel contratto vengono regolamentati secondo l’articolo 87*t* capoverso 1 in particolare i seguenti punti:
+
+  - a. le tappe principali che il richiedente deve raggiungere e le scadenze da rispettare;
+  - b. l’obbligo di informazione del richiedente nei confronti dell’UFE, segnatamente relativo a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
+  - c. l’entità, le condizioni e la scadenza del contributo allo sfruttamento;
+  - d. fatti salvi monopoli cantonali, il trasferimento a titolo gratuito dell’impianto alla Confederazione e la concessione a quest’ultima di un diritto di compera del fondo, se un progetto non viene portato avanti e nemmeno utilizzato per altri scopi;
+  - e. la pubblicazione di tutti i dati finanziari necessari al calcolo di eventuali perdite o utili secondo gli articoli 34 e 34*a*;
+  - f. i motivi che conducono allo scioglimento del contratto;
+  - g. ulteriori condizioni.
+
+- 4\.4 Svolgimento e conclusione del progetto
+- 4\.4.1 Il responsabile del progetto svolge i lavori di sfruttamento programmati.
+- 4\.4.2 L’accompagnatore del progetto segue il progetto durante i lavori di sfruttamento e valuta i risultati di tali lavori, in particolare per quanto riguarda la temperatura e le caratteristiche del serbatoio relative al trasporto. Per adempiere i suoi compiti, può coinvolgere il gruppo di esperti. Redige rapporti periodici per il gruppo di esperti.
+- 4\.4.3 Se non vengono rispettate le tappe o le scadenze di cui al numero 4.3 lettera a, l’UFE può sciogliere il contratto con effetto immediato.
+- 4\.4.4 Al più tardi sei mesi dopo la conclusione dei lavori di sfruttamento, il gruppo di esperti valuta i risultati dell’attività di sfruttamento.
+- 4\.4.5 L’UFE comunica al responsabile del progetto il risultato dell’esame, in particolare quello relativo al serbatoio geotermico.
+
+### 5 Accesso ai geodati e loro utilizzo
+
+- 5\.1 Il richiedente fornisce a titolo gratuito a swisstopo e al Cantone di ubicazione, entro al massimo sei mesi dopo il rilevamento effettuato secondo le disposizioni tecniche di swisstopo, i rispettivi geodati.
+- 5\.2
+
+  I geodati possono essere utilizzati:
+
+  - a. da swisstopo nel quadro degli obiettivi della legge del 5 ottobre 2007[^annex25-lvlu1-lvl5-1] sulla geoinformazione e dell’ordinanza del 21 maggio 2008[^annex25-lvlu1-lvl5-2] sulla geologia nazionale;
+  - b. dai Cantoni di ubicazione secondo le rispettive regolamentazioni cantonali.
+
+- 5\.3 swisstopo mette a disposizione del pubblico i geodati primari e i geodati primari processati al più tardi entro 24 mesi dalla fine della prospezione ed entro 12 mesi dalla fine dello sfruttamento.
+
+[^annex25-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^annex25-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+
+Allegato 2.6[^t-11]
+
+(art. 87*r* e 87*t*)
+
+## Contributi d’investimento per gli impianti geotermici
+
+[^t-11]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Definizione degli impianti
+
+- La definizione di impianto geotermico si basa sull’allegato 1.4 numero 1.
+
+### 2 Requisiti minimi
+
+- I requisiti minimi si basano sull’allegato 1.4 numero 3.
+
+### 3 Contenuto della domanda
+
+-
+
+  La domanda deve contenere almeno le indicazioni e i documenti seguenti:
+
+  - a. indicazioni relative all’impianto, in particolare il nome del gestore e l’ubicazione dell’impianto;
+  - b. consenso dei proprietari fondiari;
+  - c. potenza nominale elettrica e termica;
+  - d. produzione lorda e netta annua progettata di elettricità e calore;
+  - e. sfruttamento di calore progettato e consenso dei presumibili acquirenti del calore;
+  - f. fluido del sistema di raffreddamento a circuito chiuso;
+  - g. pianta dell’impianto;
+  - h. monitoraggio e piano di reporting, riguardanti in particolare la sismicità, lo stato del serbatoio e la produttività;
+  - i. descrizione del progetto che illustra che tutti i requisiti per il versamento di un contributo d’investimento sono soddisfatti;
+  - j. piani dettagliati delle scadenze e stime dei costi con uno scarto massimo del 20 per cento.
+
+Allegato 3[^t-12]
+
+(art. 90)
 
 ## Determinazione del costo medio ponderato del capitale
 
-### 1 Deroga al numero 1.1 allegato 1 OAEl****
+[^t-12]: Aggiornato dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-[^annex3-lvlu1-lvl1-1]
+### 1 Tasso d’interesse calcolatorio
+
+- Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del capitale. Il calcolo e la comunicazione si determinano, fatte salve le deroghe menzionate al numero 3, sulla scorta dell’articolo 13 capoversi 3 lettera b e 3<sup>bis</sup> in combinato disposto con l’allegato 1 dell’ordinanza del 14 marzo 2008[^annex3-lvlu1-lvl1-1] sull’approvvigionamento elettrico (OAEl).
 
 [^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-- Il costo del capitale proprio e il costo del capitale di terzi sono ponderati ciascuno nella misura del 50 per cento.
+### 1*a* Deroga al numero 1.1 allegato 1 OAEl
+
+- Il costo del capitale proprio e il costo del capitale di terzi sono ponderati nella misura del 50 per cento ciascuno.
 
 ### 2 Deroga al numero 2.4 allegato 1 OAEl
 
@@ -2477,3 +3350,168 @@ Allegato 3
 </table>
 
 - 4\.2 I valori limite il cui superamento, in senso positivo o negativo, deve essere preso in considerazione sono 0,625, 0,875, 1,125, 1,375, 1,625, 1,875, 2,125, 2,375 e 2,625 per cento.
+
+Allegato 4[^t-13]
+
+(art. 63, 83, 87*m* e 87*z*<sup>ter</sup>)
+
+## Calcolo dei costi scoperti
+
+[^t-13]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Basi di calcolo generali
+
+- 1\.1 Principi
+- 1\.1.1 I costi scoperti di cui all’articolo 29 capoverso 3 lettera b<sup>bis</sup> LEne corrispondono al valore netto di tutti i deflussi di denaro computabili e di tutti gli afflussi di denaro da computare.
+- 1\.1.2 I deflussi di denaro computabili e i deflussi di denaro da computare vanno scontati con il tasso d’interesse calcolatorio di cui all’allegato 3.
+- 1\.2. Deflussi di denaro computabili
+- 1\.2.1
+
+  I deflussi di denaro computabili si compongono:
+
+  - a. dei costi d’investimento computabili;
+  - b. dei costi per l’esercizio dell’impianto e la manutenzione nonché altri costi d’esercizio (al massimo il 2 per cento all’anno dei costi d’investimento computabili);
+  - c. degli investimenti di sostituzione.
+
+- 1\.2.2 I deflussi di denaro computabili vanno considerati per il periodo di utilizzazione restante dell’elemento costituente dell’impianto con la durata di vita più lunga.
+- 1\.3 Afflussi di denaro computabili
+- Per afflussi di denaro computabili si intendono tutti gli afflussi di denaro che possono essere conseguiti attraverso l’investimento.
+
+### 2 Calcolo per gli impianti idroelettrici
+
+- 2\.1
+
+  Per gli impianti idroelettrici, in aggiunta al numero 1.2 sono computabili i deflussi di denaro seguenti:
+
+  - a. i costi per l’energia che le eventuali pompe d’alimentazione necessitano, ai prezzi di mercato;
+  - b. i costi legati alla sostituzione dell’accumulo di acqua;
+  - c. i canoni per i diritti d’acqua;
+  - d. le imposte dirette.
+
+- 2\.2 Se l’impianto idroelettrico necessita di una concessione, i deflussi di denaro computabili in deroga al numero 1.2.2 vanno considerati per il periodo di concessione restante.
+- 2\.3 Gli afflussi di denaro da computare si calcolano sulla scorta del profilo orario ottimizzato sul piano economico o sulla scorta di profili di produzione standard per la produzione netta per il periodo di concessione restante.
+- 2\.4 Gli investimenti sono ammortizzati in chiave lineare sull’arco del loro periodo di utilizzazione e gli eventuali valori residui sono considerati in qualità di afflussi di denaro alla fine del periodo di concessione.
+
+Allegato 5[^t-14]
+
+(art. 96*b,* 96*e* e 96*h*)
+
+## Contributi alle spese d’esercizio per gli impianti a biomassa
+
+[^t-14]: Introdotto dal n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Definizione degli impianti
+
+- La definizione di impianto a biomassa si basa sull’allegato 1.5 numero 1.
+
+### 2 Requisiti minimi
+
+- I requisiti minimi si basano sull’allegato 1.5 numero 2.
+
+### 3 Importo del contributo
+
+- 3\.1 Calcolo dell’importo del contributo
+- 3\.1.1 L’importo del contributo è composto da un contributo di base e, nel caso in cui siano adempiuti i requisiti, di un bonus secondo il numero 3.3, 3.4 o 3.5. L’importo del contributo viene ricalcolato ogni anno.
+- 3\.1.2 Per il calcolo degli importi del contributo di base e dei bonus è determinante la potenza equivalente di un impianto. La potenza equivalente corrisponde al quoziente fra la produzione netta di energia elettrica in kWh nell’anno civile in questione e la somma delle ore del medesimo anno civile. Per l’anno in cui l’impianto è messo in esercizio o disattivato, nel determinare la potenza equivalente si detraggono le ore piene prima della messa in esercizio dell’impianto e dopo la sua disattivazione.
+- 3\.1.3 Gli importi del contributo di base e dei bonus vengono calcolati pro rata rispetto alle classi di potenza di cui ai numeri 3.2–3.5.
+- 3\.1.4 Se in una centrale elettrica a legna vengono impiegati anche rifiuti di legname problematici che secondo l’articolo 2 capoverso 2 lettera a dell’ordinanza del 22 giugno 2005[^annex5-lvlu1-lvl3-1] sul traffico di rifiuti sono designati quali rifiuti speciali, la quota di elettricità prodotta impiegando questi rifiuti di legname problematici viene rimunerata con la metà dell’importo del contributo. La quota si calcola sulla base dei contenuti energetici impiegati.
+- 3\.2 Importo del contributo di base
+- L’importo del contributo di base secondo le classi di potenza ammonta a:
+
+<table>
+<tr><th>Classe di potenza</th><th>Contributo di base (ct./kWh)</th></tr>
+<tr><td>&lt; 50 kW</td><td>13</td></tr>
+<tr><td>≤100 kW</td><td>12</td></tr>
+<tr><td>≤500 kW</td><td>11</td></tr>
+<tr><td>≤ 5 MW</td><td>10</td></tr>
+<tr><td>&gt; 5 MW</td><td>8</td></tr>
+</table>
+
+- 3\.3 Bonus per le centrali elettriche a legna
+- 3\.3.1 Il bonus per le centrali elettriche a legna è accordato se in un impianto si utilizza la legna quale unico vettore energetico.
+- 3\.3.2 L’importo del bonus per le centrali elettriche a legna secondo le classi di potenza ammonta a:
+
+<table>
+<tr><th>Classe di potenza</th><th>Bonus per legna (ct./kWh)</th></tr>
+<tr><td>&lt; 50 kW</td><td>3</td></tr>
+<tr><td>≤100 kW</td><td>2</td></tr>
+<tr><td>≤500 kW</td><td>2</td></tr>
+<tr><td>≤ 5 MW</td><td>1</td></tr>
+<tr><td>&gt; 5 MW</td><td>1</td></tr>
+</table>
+
+- 3\.4 Bonus per biomassa agricola con al massimo il 20 per cento di cosubstrati
+- 3\.4.1
+
+  Il bonus per biomassa agricola con al massimo il 20 per cento di cosubstrati viene accordato se:
+
+  - a. viene impiegato concime di fattoria, in particolare letame e colaticcio provenienti dall’allevamento o concime di fattoria insieme a resti del raccolto, sostanze residue della produzione agricola o prodotti agricoli declassati;
+  - b. la quota di cosubstrati non agricoli non supera il 20 per cento rispetto alla massa fresca; e
+  - c. non vengono utilizzate piante energetiche.
+
+- 3\.4.2 I coadiuvanti organici utilizzati per stabilizzare i processi non vengono computati come cosubstrati agricoli fino a una percentuale annua dello 0,2 per cento della massa fresca totale utilizzata. Il loro impiego dev’essere documentato e motivato.
+- 3\.4.3 L’importo del bonus per biomassa agricola con al massimo il 20 per cento di cosubstrati secondo le classi di potenza ammonta a:
+
+<table>
+<tr><th>Classe di potenza</th><th>Bonus max. 20 % cosubstrati (ct./kWh)</th></tr>
+<tr><td>&lt; 50 kW</td><td>8</td></tr>
+<tr><td>≤100 kW</td><td>7</td></tr>
+<tr><td>≤500 kW</td><td>6</td></tr>
+<tr><td>≤ 5 MW</td><td>2</td></tr>
+<tr><td>&gt; 5 MW</td><td>0</td></tr>
+</table>
+
+- 3\.5 Bonus per biomassa agricola senza cosubstrati
+- 3\.5.1
+
+  Il bonus per biomassa agricola senza cosubstrati viene accordato se:
+
+  - a. viene impiegato concime di fattoria, in particolare letame e colaticcio provenienti dall’allevamento o concime di fattoria insieme a resti del raccolto, sostanze residue della produzione agricola o prodotti agricoli declassati; e
+  - b. non vengono impiegati cosubstrati non agricoli e piante energetiche.
+
+- 3\.5.2 I coadiuvanti organici utilizzati per stabilizzare i processi possono essere impiegati fino una percentuale annua dello 0,2 per cento della massa fresca totale utilizzata. Il loro impiego dev’essere documentato e motivato.
+- 3\.5.3 L’importo del bonus per biomassa agricola senza cosubstrati secondo le classi di potenza ammonta a:
+
+<table>
+<tr><th>Classe di potenza</th><th>Bonus 0 % cosubstrati (ct./kWh)</th></tr>
+<tr><td>&lt; 50 kW</td><td>16</td></tr>
+<tr><td>≤100 kW</td><td>16</td></tr>
+<tr><td>≤500 kW</td><td>8</td></tr>
+<tr><td>≤ 5 MW</td><td>0</td></tr>
+<tr><td>&gt; 5 MW</td><td>0</td></tr>
+</table>
+
+[^annex5-lvlu1-lvl3-1]: [RS 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+
+### 4 Pagamenti parziali e conteggio
+
+- La rimunerazione è conteggiata per la fine dell’anno civile sulla base del tasso di rimunerazione valido per l’anno in questione e dell’elettricità rilevata. Vengono effettuati pagamenti parziali preliminari sulla base dell’importo del contributo dell’anno precedente in caso di impianti che non sono ancora in esercizio da un intero anno civile secondo i valori di progettazione di cui al numero 5.1.
+
+### 5 Procedura di presentazione delle domande
+
+- 5\.1 Domanda
+-
+
+  La domanda deve contenere almeno le seguenti indicazioni:
+
+  - a. indicazioni relative all’impianto, in particolare il nome del gestore e l’ubicazione dell’impianto;
+  - b. descrizione del progetto che illustra se sono soddisfatte tutte le condizioni;
+  - c. potenza nominale elettrica e termica;
+  - d. produzione lorda di elettricità e calore (kWh) prevista, produzione netta di elettricità prevista e calore sfruttato esternamente (kWh) previsto, per anno civile;
+  - e. tipo e quantità delle biomasse utilizzate a scopo energetico;
+  - f. tipo, quantità e potere calorifico inferiore medio del prodotto intermedio;
+  - g. notifica di messa in esercizio o prova che il progetto è pronto alla realizzazione e data di messa in esercizio prevista;
+  - h. indicazioni relative a promozioni in corso o precedenti ai sensi dell’OPEn.
+
+- 5\.2 Notifica di messa in esercizio
+-
+
+  La notifica di messa in esercizio deve contenere almeno le indicazioni seguenti:
+
+  - a. data di messa in esercizio;
+  - b. eventuali modifiche rispetto al numero 5.1, se al momento della presentazione della domanda l’impianto non era ancora in esercizio;
+  - c. verbale di collaudo con descrizione dettagliata o rapporto di sicurezza conformemente all’articolo 37 OIBT[^annex5-lvlu1-lvl5-1], inclusi verbali di misurazione e di verifica;
+  - d. certificazione dei dati dell’impianto secondo l’articolo 2 capoverso 2 OGOE[^annex5-lvlu1-lvl5-2].
+
+[^annex5-lvlu1-lvl5-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annex5-lvlu1-lvl5-2]: [RS 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)

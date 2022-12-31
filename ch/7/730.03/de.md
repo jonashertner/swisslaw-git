@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20220401/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. April 2022)
+vom 1. November 2017 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -119,13 +119,24 @@ Als kleine Photovoltaikanlagen gelten:
 
 #### Art. 9
 
-**Ausnahmen von derUntergrenze bei Wasserkraftanlagen**
+**Ausnahmen von der Untergrenze bei Wasserkraftanlagen**[^9-1]
 
-Nebst den Wasserkraftanlagen, die mit Trinkwasserversorgungs- oder Abwasseranlagen verbunden sind, sind folgende Wasserkraftanlagen von der Untergrenze nach den Artikeln 19 Absatz 4 Buchstabe a und 24 Absatz 1 Buchstabe b Ziffer 2 EnG ausgenommen:
+<sup>1</sup>
+
+Nebst den Wasserkraftanlagen, die mit Trinkwasserversorgungs- oder Abwasseranlagen verbunden sind, sind folgende Wasserkraftanlagen von der Untergrenze nach Artikel 19 Absatz 4 Buchstabe a EnG ausgenommen:
 
 - a. Dotierkraftwerke;
 - b. Anlagen an künstlich geschaffenen Hochwasserentlastungskanälen, Industriekanälen und bestehenden Ausleit- und Unterwasserkanälen, sofern keine neuen Eingriffe in natürliche oder ökologisch wertvolle Gewässer bewirkt werden;
 - c. Nebennutzungsanlagen wie Wässerwasserkraftanlagen, Kraftwerke im Zusammenhang mit Beschneiungsanlagen oder der Nutzung von Tunnelwasser.
+
+<sup>2</sup>
+
+Nebst den Nebennutzungsanlagen nach Artikel 26 Absatz 4 EnG sind folgende Wasserkraftanlagen von der Untergrenze nach Artikel 26 Absatz 1 EnG ausgenommen:
+
+- a. Dotierkraftwerke;
+- b. Anlagen an künstlich geschaffenen Hochwasserentlastungskanälen, Industriekanälen und bestehenden Ausleit- und Unterwasserkanälen, sofern keine neuen Eingriffe in natürliche oder ökologisch wertvolle Gewässer bewirkt werden.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 10
 
@@ -373,11 +384,13 @@ Produzenten in der Direktvermarktung erhalten von der Vollzugsstelle pro kWh vie
 
 <sup>3</sup> Bei Photovoltaikanlagen wird der ursprüngliche Vergütungssatz ab der Inbetriebnahme der Erweiterung oder Erneuerung gekürzt. Der neue Vergütungssatz berechnet sich nach dem nach Leistung gewichteten Mittelwert des bei der ersten Inbetriebnahme massgeblichen Vergütungssatzes und eines Vergütungssatzes von 0 Rp./kWh für die Erweiterung oder Erneuerung.
 
-<sup>4</sup> Eine Photovoltaikanlage ist von dieser Kürzung ausgenommen, wenn sichergestellt wird, dass die vom erweiterten oder erneuerten Anlagenteil produzierte Elektrizität nicht in die Abrechnung der von der ursprünglichen Anlage produzierten Elektrizität im Einspeisevergütungssystem einfliesst.
+<sup>4</sup> …[^28-1]
 
 <sup>5</sup> Bei Kleinwasserkraft- und Biomasseanlagen wird der ursprüngliche Vergütungssatz ab der Inbetriebnahme der Erweiterung oder Erneuerung anteilsmässig gekürzt. Die Berechnung des neuen Vergütungssatzes richtet sich nach den Anhängen 1.1 und 1.5.
 
 <sup>6</sup> Erfolgt die Meldung nach Absatz 1 nicht oder nicht fristgerecht, so hat der Betreiber die Differenz zwischen der erhaltenen Vergütung und der mit den Vergütungssätzen nach den Absätzen 3 oder 5 berechneten Vergütung der Vollzugsstelle ohne Zins zurückzuerstatten.
+
+[^28-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 29
 
@@ -416,28 +429,34 @@ Die Vollzugsstelle verfügt den Ausschluss eines Betreibers aus dem Einspeisever
 
 <sup>1</sup> Solange der Betreiber für eine Anlage eine Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG oder eine Einspeisevergütung erhält, kann ihm weder eine Einmalvergütung noch ein Investitionsbeitrag zugesprochen werden.
 
-<sup>2</sup> Von diesem Ausschluss ausgenommen sind erhebliche Erweiterungen von Photovoltaikanlagen, wenn sie nach dem 31. Dezember 2017 in Betrieb genommen wurden und die Voraussetzungen nach Artikel 28 Absatz 4 erfüllt sind.[^31-1]
+<sup>2</sup> …[^31-1]
 
-[^31-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^31-1]: Eingefügt durch Ziff. I der V vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 32
 
-**Bewilligung des früheren Baubeginns**
+**Bewilligung des früheren Baubeginns**[^32-1]
 
-Das BFE kann den früheren Baubeginn bei Wasserkraft- und Biomasseanlagen bewilligen, wenn es mit schwerwiegenden Nachteilen verbunden wäre, die Zusicherung dem Grundsatz nach abzuwarten. Die Bewilligung gibt keinen Anspruch auf einen Investitionsbeitrag.
+Das BFE kann den früheren Baubeginn bei Wasserkraft-, Biomasse- und Geothermieanlagen bewilligen, wenn es mit schwerwiegenden Nachteilen verbunden wäre, die Zusicherung dem Grundsatz nach abzuwarten. Die Bewilligung gibt keinen Anspruch auf einen Investitionsbeitrag.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 33
 
-**Anforderungen an den Betrieb und die Betriebstüchtigkeit der Anlage**
+**Anforderungen an den Betrieb und die Betriebstüchtigkeit der Anlage**[^33-1]
 
 <sup>1</sup>
 
 Eine Anlage, für die eine Einmalvergütung oder ein Investitionsbeitrag ausbezahlt wurde, muss ab Inbetriebnahme der Anlage, der Erweiterung oder der Erneuerung während mindestens der folgenden Dauer so gewartet werden, dass ein regulärer Betrieb sichergestellt ist:
 
-- a. 15 Jahre bei Photovoltaikanlagen, KVA und Wasserkraftanlagen;
-- b. 10 Jahre bei Klärgasanlagen und Holzkraftwerken von regionaler Bedeutung.
+- a. 15 Jahre bei Photovoltaikanlagen, KVA, Schlammverbrennungs-, Windenergie- und Wasserkraftanlagen;
+- b. 10 Jahre bei Biogasanlagen, Holzkraftwerken, Klärgas- und Deponiegasanlagen.
 
 <sup>2</sup> Photovoltaikanlagen sind zudem während mindestens 15 Jahren so zu betreiben, dass eine Mindestproduktion, wie sie aufgrund des Standorts und der Ausrichtung zu erwarten ist, nicht unterschritten wird.
+
+<sup>3</sup> Die Betreiber von Photovoltaikanlagen, für die eine Einmalvergütung gemäss Artikel 25 Absatz 3 EnG (hohe Einmalvergütung) gewährt wurde, dürfen während mindestens 15 Jahren ab der Inbetriebnahme der Anlage nicht vom Eigenverbrauch gemäss Artikel 16 EnG Gebrauch machen.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 34
 
@@ -451,16 +470,29 @@ Eine Anlage, für die eine Einmalvergütung oder ein Investitionsbeitrag ausbeza
 
 [^34-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
+#### Art. 34a
+
+**Rückforderung der Investitionsbeiträge für Prospektions- oder Erschliessungsprojekte von Geothermiereservoiren**[^34a-1]
+
+<sup>1</sup> Wird ein Prospektions- oder Erschliessungsprojekt für ein Geothermiereservoir anderweitig genutzt und damit ein Gewinn erzielt, so kann das BFE die anteilsmässige oder vollständige Rückzahlung der ausbezahlten Investitionsbeiträge verfügen.
+
+<sup>2</sup>
+
+Das BFE ist vor einer anderweitigen Nutzung oder einer Veräusserung zu informieren über:
+
+- a. die geplante Art der Nutzung;
+- b. die Eigentumsverhältnisse und die Trägerschaft;
+- c. allfällige Gewinne und deren Umfang.
+
+[^34a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
 #### Art. 35
 
 **Karenzfrist**[^35-1]
 
-Die Mindestdauer, während der ein Betreiber für eine Anlage nicht erneut eine Einmalvergütung oder einen Investitionsbeitrag in Anspruch nehmen kann, beträgt:
+Wurde für die Erstellung einer neuen Photovoltaikanlage oder für die erhebliche Erweiterung einer Photovoltaikanlage eine hohe Einmalvergütung gewährt, so kann frühestens ein Jahr nach Inbetriebnahme dieser Anlage oder Erweiterung eine weitere Photovoltaikanlage ohne Eigenverbrauch oder eine erhebliche Erweiterung einer solchen Anlage auf demselben Grundstück in Betrieb genommen werden und für diese eine hohe Einmalvergütung beantragt werden.
 
-- a. 15 Jahre bei KVA;
-- b. 10 Jahre bei Klärgasanlagen und Holzkraftwerken von regionaler Bedeutung.
-
-[^35-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^35-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ## 4. Kapitel: Einmalvergütung für Photovoltaikanlagen
 
@@ -468,9 +500,11 @@ Die Mindestdauer, während der ein Betreiber für eine Anlage nicht erneut eine 
 
 #### Art. 36
 
-**Mindestgrösse und Leistungsobergrenze für die Ausrichtung einer Einmalvergütung**
+**Mindestgrösse für die Ausrichtung einer Einmalvergütung**[^36-1]
 
-Eine Einmalvergütung wird für Photovoltaikanlagen mit einer Leistung von mindestens 2 kW bis höchstens 50 MW ausgerichtet.
+Eine Einmalvergütung wird für Photovoltaikanlagen mit einer Leistung von mindestens 2 kW ausgerichtet.
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 37
 
@@ -480,11 +514,15 @@ Die Erweiterung oder Erneuerung einer Anlage ist erheblich, wenn die Leistung de
 
 #### Art. 38
 
-**Berechnung der Einmalvergütung und Anpassung der Ansätze**
+**Berechnung der Einmalvergütung und Ansätze [^38-1]**
 
 <sup>1</sup> Die Einmalvergütung setzt sich aus einem Grund- und einem Leistungsbeitrag zusammen.
 
-<sup>1bis</sup> Für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad, die ab dem 1. Januar 2022 in Betrieb genommen wurden, wird der Leistungsbeitrag um einen Bonus erhöht.[^38-1]
+<sup>1bis</sup> Für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad, die ab dem 1. Januar 2022 in Betrieb genommen wurden, wird der Leistungsbeitrag um einen Bonus erhöht.[^38-2]
+
+<sup>1ter</sup> Für angebaute oder freistehende Anlagen mit einem Neigungswinkel von mindestens 75 Grad, die ab dem 1. Januar 2023 in Betrieb genommen wurden, wird der Leistungsbeitrag um einen Bonus erhöht.[^38-3]
+
+<sup>1quater</sup> Für Photovoltaikanlagen ausserhalb der Bauzonen, die nicht an ein Gebäude angebaut oder in ein Gebäude integriert wurden, wird der Leistungsbeitrag um einen Bonus erhöht, sofern sie eine Leistung von mindestens 150 kW aufweisen und auf einer Höhe von mindestens 1500 m ü. M. installiert wurden.[^38-4]
 
 <sup>2</sup> Die Ansätze sind im Anhang 2.1 festgelegt. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) überprüft sie jährlich. Bei einer wesentlichen Veränderung der Verhältnisse stellt es dem Bundesrat Antrag auf deren Anpassung.
 
@@ -496,7 +534,26 @@ Die Erweiterung oder Erneuerung einer Anlage ist erheblich, wenn die Leistung de
 
 <sup>6</sup> Besteht eine Anlage aus mehreren Modulfeldern, die verschiedenen Kategorien nach Artikel 6 angehören, so berechnet sich der Grundbeitrag nach dem nach Leistung gewichteten Mittelwert der Ansätze und der Leistungsbeitrag entsprechend den Anteilen der Leistung pro Kategorie.
 
-[^38-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^38-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^38-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^38-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^38-4]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+#### Art. 38a
+
+**Festsetzung der Einmalvergütung durch Auktionen**[^38a-1]
+
+<sup>1</sup> Für Projekte zur Erstellung neuer Photovoltaikanlagen ohne Eigenverbrauch ab einer Leistung von 150 kW wird die Höhe der Einmalvergütung durch Auktionen bestimmt.
+
+<sup>2</sup> Für Photovoltaikanlagen, die ausserhalb von Bauzonen erstellt werden sollen und die gewisse zusätzliche Kriterien erfüllen, können separate Spezialauktionen durchgeführt werden.
+
+<sup>3</sup> Die mittels Auktionen bestimmte Einmalvergütung besteht aus einem Leistungsbeitrag pro Kilowatt installierte Leistung.
+
+<sup>4</sup> Weist eine Anlage einen Neigungswinkel von mindestens 75 Grad auf, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Neigungswinkelbonus gemäss Artikel 38 Absatz 1<sup>bis</sup> oder 1<sup>ter</sup> gewährt.
+
+<sup>5</sup> Erfüllt eine Anlage die Voraussetzungen gemäss Artikel 38 Absatz 1<sup>quater</sup>, so wird zusätzlich zum Ansatz, der im Gebot angegeben wurde, der Höhenbonus gewährt.
+
+[^38a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
@@ -504,9 +561,11 @@ Die Erweiterung oder Erneuerung einer Anlage ist erheblich, wenn die Leistung de
 
 **Reihenfolge der Berücksichtigung**
 
-<sup>1</sup> Massgebend für die Berücksichtigung eines Projekts ist das Einreichedatum des Gesuchs.
+<sup>1</sup> Massgebend für die Berücksichtigung eines Gesuchs ist das Einreichedatum.[^39-1]
 
 <sup>2</sup> Können nicht alle am gleichen Tag eingereichten Gesuche berücksichtigt werden, so werden die Projekte mit der grössten zusätzlichen Leistung zuerst berücksichtigt.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 40
 
@@ -599,6 +658,116 @@ Die Vollzugsstelle widerruft die Zusicherung nach Artikel 44 und weist das Gesuc
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 
+### 5. Abschnitt: Auktionen für die Einmalvergütung
+
+[^chap4-sec5-1]
+
+[^chap4-sec5-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+#### Art. 46a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Das BFE legt je Auktionsrunde die Höhe des Auktionsvolumens und den zulässigen Gebotshöchstwert fest.
+
+<sup>2</sup> Es legt zudem fest, welche zusätzlichen Kriterien eine Anlage erfüllen muss, um an einer Spezialauktion (Art. 38*a* Abs. 2) teilnehmen zu können.
+
+<sup>3</sup> Die Vollzugsstelle führt die Auktionsverfahren durch.
+
+#### Art. 46b
+
+**Teilnahmevoraussetzungen**
+
+<sup>1</sup> Mit dem Bau der Anlage darf nicht vor dem Zuschlag begonnen werden.
+
+<sup>2</sup> Pro Grundstück und Auktionsrunde darf nur ein Gebot abgegeben werden.
+
+#### Art. 46c
+
+**Auktionsverfahren**
+
+<sup>1</sup> Die Vollzugsstelle gibt die Auktionsbedingungen sowie die mit dem Gebot einzureichenden Angaben und Unterlagen in der Ausschreibung bekannt.
+
+<sup>2</sup>
+
+Sie erteilt für diejenigen Gebote einen Zuschlag:
+
+- a. die die Teilnahmevoraussetzungen erfüllen;
+- b. die den günstigsten Ansatz pro Kilowatt Leistung aufweisen;
+- c. die innerhalb des ausgeschriebenen Auktionsvolumens Platz finden; und
+- d. für die innerhalb der von der Vollzugsstelle vorgegebenen Frist eine Sicherheit in der Höhe von 10 Prozent dessen, was die Einmalvergütung für die gesamte gebotene Leistung betragen würde, hinterlegt wird.
+
+<sup>3</sup> Unterschreitet die gesamte Leistung der Gebote, die die Teilnahmevoraussetzungen erfüllen, das ausgeschriebene Auktionsvolumen, so wird das Auktionsvolumen nachträglich automatisch auf 90 Prozent dieser angebotenen Leistung gekürzt.
+
+#### Art. 46d
+
+**Inbetriebnahmefrist und Inbetriebnahmemeldung**
+
+<sup>1</sup> Die Anlage ist spätestens 18 Monate, nachdem die Zuschlagserteilung in Rechtskraft erwächst, in Betrieb zu nehmen.
+
+<sup>2</sup> Die Inbetriebnahme ist der Vollzugsstelle spätestens drei Monate ab der Inbetriebnahme zu melden.
+
+<sup>3</sup> Die Inbetriebnahmemeldung hat die Angaben und Unterlagen nach Anhang 2.1 Ziffer 4.2 zu enthalten.
+
+<sup>4</sup> Kann die Frist für die Inbetriebnahme aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden, so kann die Vollzugsstelle diese auf Gesuch hin erstrecken. Das Gesuch ist vor Ablauf der Frist einzureichen.
+
+#### Art. 46e
+
+**Definitive Höhe der Einmalvergütung**
+
+<sup>1</sup> Die definitive Höhe der Einmalvergütung berechnet sich anhand der im Rahmen des Herkunftsnachweiswesens beglaubigten Anlagedaten und des abgegebenen Gebots.
+
+<sup>2</sup> Ist die Leistung der Anlage grösser als im Gebot angegeben, so wird die Einmalvergütung nur für die im Gebot angegebene Leistung entrichtet.
+
+<sup>3</sup>
+
+Ist die Leistung der Anlage kleiner als im Gebot angegeben, so wird:
+
+- a. die Einmalvergütung nur für die tatsächlich installierte Leistung entrichtet;
+- b. die hinterlegte Sicherheit entsprechend der Abweichung vom Gebot anteilsmässig einbehalten, wenn die tatsächlich installierte Leistung weniger als 90 Prozent der angebotenen Leistung beträgt.
+
+#### Art. 46f
+
+**Widerruf des Zuschlags und Sanktion**
+
+<sup>1</sup>
+
+Die Vollzugsstelle widerruft den Zuschlag und behält die hinterlegte Sicherheitsleistung als Sanktion zugunsten des Netzzuschlagsfonds ein, wenn:
+
+- a. nach der Inbetriebnahme nicht alle Anspruchsvoraussetzungen erfüllt sind;
+- b. die Inbetriebnahme nicht fristgerecht erfolgt;
+- c. der Standort der Anlage nicht dem im Gebot angegebenen Standort entspricht.
+
+<sup>2</sup> Die Vollzugsstelle kann die hinterlegte Sicherheitsleistung als Sanktion ganz oder teilweise zugunsten des Netzzuschlagsfonds einbehalten, wenn die Inbetriebnahmemeldung nicht spätestens drei Monate ab der Inbetriebnahme erfolgt.
+
+#### Art. 46g
+
+**Auszahlung der Einmalvergütung und Rückzahlung der Sicherheitsleistung**
+
+<sup>1</sup> Die Einmalvergütung wird spätestens drei Monate nach Erhalt der vollständigen Inbetriebnahmemeldung ausbezahlt.
+
+<sup>2</sup> Die hinterlegte Sicherheit wird zusammen mit der Einmalvergütung zurückbezahlt, soweit sie nicht gestützt auf Art. 46*e* oder 46*f* ganz oder teilweise einbehalten wird.
+
+#### Art. 46h
+
+**Publikation zu den Auktionen**
+
+Zu den Auktionen für die Einmalvergütung publiziert die Vollzugsstelle folgende Angaben:
+
+- a. den Gebotstermin;
+- b. den Preismechanismus;
+- c. die Anzahl der eingereichten Gebote;
+- d. die eingereichte Gebotsmenge in kW;
+- e. die Anzahl der Zuschläge;
+- f. die Anzahl der ausgeschlossenen Gebote;
+- g. die Gebotsmenge der ausgeschlossenen Gebote in kW;
+- h. den zulässigen Gebotshöchstwert in Franken pro kW;
+- i. den niedrigsten Gebotswert in Franken pro kW;
+- j. den höchsten Gebotswert in Franken pro kW;
+- k. den durchschnittlichen, mengengewichteten Zuschlagswert in Franken pro kW;
+- l. den niedrigsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW;
+- m. den höchsten Gebotswert, für den ein Zuschlag erteilt wurde, in Franken pro kW.
+
 ## 5. Kapitel: Investitionsbeitrag für Wasserkraftanlagen
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
@@ -622,37 +791,39 @@ Die Erweiterung einer Anlage ist erheblich, wenn durch bauliche Massnahmen:
 Die Erneuerung einer Anlage ist erheblich, wenn:
 
 - a. mindestens eine Hauptkomponente wie Wasserfassung, Zubringerpumpen, Wehr, Speicher, Druckleitung, Maschinen oder elektromechanische Ausrüstung der Anlage ersetzt oder totalsaniert wird; und
-- b. die Investition im Verhältnis zur durchschnittlich in einem Jahr der letzten fünf vollen Betriebsjahre erzielten Nettoproduktion mindestens 7 Rp./kWh beträgt.
+- b.[^47-3] die Investition im Verhältnis zur Nettoproduktion, die innerhalb der letzten fünf vollen Betriebsjahre durchschnittlich in einem Jahr erzielt wurde, mindestens 14 Rp./kWh beträgt.
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 [^47-2]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^47-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 48
 
-**Ansätze**
+**Ansätze**[^48-1]
 
-<sup>1</sup> Das BFE setzt den Investitionsbeitrag für jede Anlage individuell nach Artikel 29 Absatz 2 EnG fest.
+<sup>1</sup> Für Neuanlagen und erhebliche Erweiterungen beträgt der Investitionsbeitrag 50 Prozent der anrechenbaren Investitionskosten.
 
 <sup>2</sup>
 
-Bei Anlagen mit einer Leistung von höchstens 10 MW beträgt der Investitionsbeitrag höchstens:
+In den folgenden Fällen beträgt der Investitionsbeitrag 60 Prozent der anrechenbaren Investitionskosten:
 
-- a. 60 Prozent der anrechenbaren Investitionskosten für erhebliche Erweiterungen;
-- b. 40 Prozent der anrechenbaren Investitionskosten für erhebliche Erneuerungen.
+- a. für Neuanlagen und erhebliche Erweiterungen die unter ein Erheblichkeitskriterium gemäss Artikel 47 Absatz 1 Buchstaben a–c und e fallen, sofern mindestens 50 Prozent der zusätzlichen Produktion im Winterhalbjahr anfallen und diese Winterproduktion mindestens 5 GWh beträgt;
+- b. für erhebliche Erweiterungen, die unter das Erheblichkeitskriterium von Artikel 47 Absatz 1 Buchstabe d fallen.
 
 <sup>3</sup>
 
-Bei Anlagen mit einer Leistung von mehr als 10 MW beträgt der Investitionsbeitrag höchstens:
+Für erhebliche Erneuerungen beträgt der Investitionsbeitrag:
 
-- a. 35 Prozent der anrechenbaren Investitionskosten für Neuanlagen und erhebliche Erweiterungen;
-- b. 20 Prozent der anrechenbaren Investitionskosten für erhebliche Erneuerungen;
-- c.[^48-1] 40 Prozent der anrechenbaren Investitionskosten für Neuanlagen und erhebliche Erweiterungen, die aufgrund baulicher Massnahmen zur Speicherung einer zusätzlichen Energiemenge von mindestens 10 GWh führen können.
+- a. 40 Prozent der anrechenbaren Investitionskosten: für Anlagen, deren Leistung weniger als 1 MW beträgt;
+- b. 20 Prozent der anrechenbaren Investitionskosten: für Anlagen, deren Leistung mehr als 10 MW beträgt.
 
-<sup>4</sup> Das UVEK überprüft die Ansätze mindestens alle fünf Jahre. Bei einer wesentlichen Veränderung der Verhältnisse stellt es dem Bundesrat Antrag auf Anpassung der Ansätze.
+<sup>4</sup> Die Ansätze nach Absatz 3 werden bei Anlagen mit einer Leistung ab 1 MW und bis 10 MW linear gekürzt.
 
-<sup>5</sup> Bei Grenzwasserkraftanlagen wird der berechnete Investitionsbeitrag um den nicht-schweizerischen Hoheitsanteil gekürzt.
+<sup>5</sup> Bei erheblichen Erweiterungen und Erneuerungen ist die Leistung nach der Erweiterung oder Erneuerung massgebend.
 
-[^48-1]: Eingefügt durch Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+<sup>6</sup> Bei Grenzwasserkraftanlagen wird der berechnete Investitionsbeitrag um den nicht-schweizerischen Hoheitsanteil gekürzt.
+
+[^48-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 2. Abschnitt: Reihenfolge der Berücksichtigung von Wasserkraftanlagen mit einer Leistung von höchstens 10 MW und Warteliste
 
@@ -660,9 +831,11 @@ Bei Anlagen mit einer Leistung von mehr als 10 MW beträgt der Investitionsbeitr
 
 **Reihenfolge der Berücksichtigung**
 
-<sup>1</sup> Massgebend für die Berücksichtigung eines Projekts, mit dem eine Wasserkraftanlage mit einer Leistung von höchstens 10 MW erheblich erweitert oder erneuert werden soll, ist das Einreichedatum des Gesuchs.
+<sup>1</sup> Massgebend für die Berücksichtigung eines Projekts, mit dem eine Wasserkraftanlage mit einer Leistung von höchstens 10 MW erstellt, erheblich erweitert oder erneuert werden soll, ist das Einreichedatum des Gesuchs.[^49-1]
 
 <sup>2</sup> Können nicht alle am gleichen Tag eingereichten Gesuche berücksichtigt werden, so werden die Projekte zuerst berücksichtigt, die die grösste Mehrproduktion im Verhältnis zum Investitionsbeitrag aufweisen.
+
+[^49-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 50
 
@@ -727,11 +900,13 @@ Bei Anlagen mit einer Leistung von mehr als 10 MW beträgt der Investitionsbeitr
 
 Ergibt die Prüfung des Gesuchs, dass die Anspruchsvoraussetzungen erfüllt sind, und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so sichert das BFE den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
 
-- a. die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten unter Berücksichtigung der zu erwartenden nicht amortisierbaren Mehrkosten;
+- a.[^54-1] die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten;
 - b. den Höchstbetrag, den der Investitionsbeitrag nicht überschreiten darf;
 - c. bis wann spätestens mit dem Bau zu beginnen ist;
 - d. den Zahlungsplan gemäss Artikel 60;
 - e. die Frist, innerhalb der die Anlage in Betrieb zu nehmen ist.
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 55
 
@@ -777,15 +952,11 @@ Nach dem fünften vollen Betriebsjahr ist dem BFE die jährliche Nettoproduktion
 
 #### Art. 59
 
-**Definitive Festsetzung des Investitionsbeitrags**
+**Definitive Festsetzung des Investitionsbeitrags**[^59-1]
 
-<sup>1</sup> Sobald die Bauabschlussmeldung und die Meldung der Nettoproduktion vorliegen, prüft das BFE, ob auch zu diesem Zeitpunkt noch sämtliche Anspruchsvoraussetzungen erfüllt sind.
+Sind die Anspruchsvoraussetzungen zum Zeitpunkt der Meldung der Nettoproduktion noch erfüllt, so setzt das BFE den Investitionsbeitrag anhand der tatsächlich angefallenen Investitionskosten definitiv fest.
 
-<sup>2</sup> Die nicht amortisierbaren Mehrkosten werden aufgrund der definitiven anrechenbaren Investitionskosten, der aktuellen Kosten für Wasserzinsen und der gemeldeten durchschnittlichen jährlichen Nettoproduktion neu berechnet.
-
-<sup>3</sup> Gestützt auf das Ergebnis der Prüfung nach Absatz 1 und die Berechnung nach Absatz 2 wird die definitive Höhe des Investitionsbeitrags festgesetzt.
-
-<sup>4</sup> Ist die durchschnittliche jährliche Nettoproduktion kleiner als die im Gesuch ausgewiesene Produktion beziehungsweise Mehrproduktion, so kann der Investitionsbeitrag angemessen gekürzt werden.
+[^59-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 60
 
@@ -818,6 +989,10 @@ Für die Berechnung des Investitionsbeitrags sind insbesondere die Erstellungs-,
 
 <sup>3</sup> Eigenleistungen des Betreibers wie eigene Planungs- oder Bauleistungen sind nur anrechenbar, wenn sie üblich sind und mittels detailliertem Arbeitsrapport nachgewiesen werden können.
 
+<sup>4</sup> Werden während der Konzessionsdauer Investitionen in die Erneuerung, die Erweiterung oder den Ersatz einer bestehenden Anlage getätigt und ist die verbleibende Konzessionsrestdauer der Anlage kleiner als die mittlere, investitionsgewichtete Nutzungsdauer der massgebenden Anlageteile, so sind die anrechenbaren Investitionskosten im Verhältnis der Konzessionsrestdauer zur investitionsgewichteten Nutzungsdauer mit einem jährlichen Diskontierungssatz in der Höhe des kalkulatorischen Zinssatzes zu berücksichtigen. Dies gilt nicht, wenn eine Vereinbarung über eine Restwertentschädigung vorliegt, die einen allfälligen Investitionsbeitrag angemessen berücksichtigt.[^61-1]
+
+[^61-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
 #### Art. 62
 
 **Nicht anrechenbare Kosten**[^62-1]
@@ -837,60 +1012,19 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 #### Art. 63
 
-**Nicht amortisierbare Mehrkosten**
+**Berechnung der ungedeckten Kosten und des Investitionsbeitrags im Einzelfall**[^63-1]
 
-<sup>1</sup> Die nicht amortisierbaren Mehrkosten gemäss Artikel 29 Absatz 2 EnG entsprechen dem Nettobarwert aller anrechenbaren Geldabflüsse und aller anzurechnenden Geldzuflüsse.
+<sup>1</sup> Gibt es Anhaltspunkte, dass bei einer Anlage keine ungedeckten Kosten (Art. 29 Abs. 3 Bst. b<sup>bis</sup> EnG) vorliegen, so ist gemäss Anhang 4 zu berechnen, ob ungedeckte Kosten vorliegen.
 
-<sup>2</sup> Die anrechenbaren Geldabflüsse und anzurechnenden Geldzuflüsse sind mit dem kalkulatorischen Zinssatz gemäss Artikel 66 zu diskontieren.
+<sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
 
-<sup>3</sup> Bei Erweiterungen sind die aus der Erweiterung resultierenden Geldzuflüsse massgebend, die in- und ausserhalb der Anlage erzielt werden können.[^63-1]
+[^63-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-<sup>4</sup> Bei Erneuerungen sind die Geldzuflüsse aus der gesamten Nettoproduktion der erneuerten Anlage sowie die weiteren Geldzuflüsse, die aufgrund der Erneuerung ausserhalb der Anlage erzielt werden können, massgebend.[^63-2]
+#### Art. 64–66
 
-<sup>4bis</sup> Bei Anlagen mit einem Anteil Umwälzbetrieb sind die Geldab- und die Geldzuflüsse aus dem Umwälzbetrieb nicht zu berücksichtigen.[^63-3]
+[^6466-1]
 
-<sup>5</sup> Das BFE stellt die nötigen Grundlagen und Formulare für die Berechnung der nicht amortisierbaren Mehrkosten zur Verfügung. Darunter insbesondere ein auf stündlicher Basis erstelltes und jährlich aktualisiertes Preisszenario.
-
-[^63-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-[^63-2]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-[^63-3]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
-
-#### Art. 64
-
-**Anrechenbare Geldabflüsse**
-
-<sup>1</sup>
-
-Die anrechenbaren Geldabflüsse setzen sich zusammen aus den:
-
-- a. anrechenbaren Investitionskosten;
-- b. Kosten für den Anlagenbetrieb, den Unterhalt sowie den übrigen Betriebskosten;
-- c. Ersatzinvestitionen;
-- d. weiteren Kosten, insbesondere den Kosten für die Energie, die allfällige Zubringerpumpen benötigen, zu Marktpreisen und den Kosten für den Einstauersatz;
-- e. Kosten für Wasserzinsen entsprechend den jeweils geltenden gesetzlichen Regelungen;
-- f. direkten Steuern.
-
-<sup>2</sup> Sie sind über die verbleibende Konzessionsdauer zu berücksichtigen.
-
-<sup>3</sup> Die Kosten nach Absatz 1 Buchstabe b werden maximal mit jährlich 2 Prozent der Investitionskosten angerechnet.[^64-1]
-
-[^64-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
-
-#### Art. 65
-
-**Anzurechnende Geldzuflüsse**
-
-<sup>1</sup> Die anzurechnenden Geldzuflüsse berechnen sich gestützt auf ein wirtschaftlich optimiertes stündliches Profil für die Nettoproduktion über die verbleibende Konzessionsdauer und das vom BFE erstellte Preisszenario. Investitionen werden über die Nutzungsdauern gemäss Anhang 2.2 linear abgeschrieben und allfällige Restwerte werden am Ende der Konzessionsdauer als Geldzuflüsse berücksichtigt.
-
-<sup>2</sup> Für Anlagen mit einer Leistung von höchstens 10 MW können Standardproduktionsprofile verwendet werden.
-
-#### Art. 66
-
-**Kalkulatorischer Zinssatz**
-
-Der kalkulatorische Zinssatz entspricht dem durchschnittlichen Kapitalkostensatz. Die Berechnung und die Bekanntgabe richten sich unter Vorbehalt der in Anhang 3 genannten Abweichungen nach Artikel 13 Absätze 3 Buchstabe b und 3<sup>bis</sup> in Verbindung mit Anhang 1 der Stromversorgungsverordnung vom 14. März 2008[^66-1] (StromVV).
-
-[^66-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^6466-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ## 6. Kapitel: Investitionsbeitrag für Biomasseanlagen
 
@@ -898,16 +1032,22 @@ Der kalkulatorische Zinssatz entspricht dem durchschnittlichen Kapitalkostensatz
 
 #### Art. 67
 
-**Begriffe**
+**Kategorien**[^67-1]
 
-<sup>1</sup> Als KVA gemäss Artikel 24 Absatz 1 Buchstabe c EnG gelten Anlagen zur thermischen Behandlung von Siedlungsabfällen nach den Artikeln 31 und 32 der Abfallverordnung vom 4. Dezember 2015[^67-1].[^67-2]
+<sup>1</sup> Als Biogasanlagen gelten Anlagen zur Erzeugung von Elektrizität und Wärme aus biogenem Gas, das entweder am Standort des WKK-Moduls oder an einem mit einer betriebseigenen Gasleitung erschlossenen Standort durch die Vergärung von Biomasse erzeugt wird.
 
-<sup>2</sup> Als Klärgasanlagen gemäss Artikel 24 Absatz 1 Buchstabe c EnG gelten Anlagen zur Nutzung von Klärgas aus kommunalen Abwasserreinigungsanlagen, unabhängig davon, ob in diesen Anlagen auch angelieferte Co-Substrate vergärt werden.
+<sup>2</sup> Als Holzkraftwerke gelten Anlagen zur Erzeugung von Elektrizität und Wärme aus Holz.
 
-<sup>3</sup> Als Holzkraftwerke von regionaler Bedeutung gemäss Artikel 24 Absatz 1 Buchstabe c EnG gelten Anlagen zur Produktion von Elektrizität aus Holz, die den regionalen Energiebedarf an Elektrizität und Wärme nicht übersteigen.
+<sup>3</sup> Als KVA gelten Anlagen zur thermischen Behandlung von Siedlungsabfällen nach den Artikeln 31 und 32 der Abfallverordnung vom 4. Dezember 2015[^67-2] (VVEA).
 
-[^67-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
-[^67-2]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+<sup>4</sup> Als Schlammverbrennungsanlagen gelten Anlagen zur thermischen Behandlung von Abfällen aus Biomasse insbesondere Klärschlämme, Papierschlämme und Schlämme aus der Lebensmittelindustrie nach den Artikeln 31 und 32 VVEA.
+
+<sup>5</sup> Als Klärgasanlagen gelten Anlagen zur Nutzung von Klärgas aus Abwasserreinigungsanlagen des Gemeinwesens zur Erzeugung von Elektrizität und Wärme, unabhängig davon, ob in diesen Anlagen auch angelieferte Co-Substrate vergärt werden.
+
+<sup>6</sup> Als Deponiegasanlagen gelten Anlagen zur Nutzung des Gases aus Deponien nach den Artikeln 35–43 VVEA zur Erzeugung von Elektrizität.
+
+[^67-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^67-2]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
 #### Art. 68
 
@@ -919,10 +1059,12 @@ Der kalkulatorische Zinssatz entspricht dem durchschnittlichen Kapitalkostensatz
 
 Die Erneuerung einer Anlage ist erheblich, wenn die anrechenbaren Investitionskosten der Erneuerung mindestens folgende Beträge erreichen:
 
-- a. 15 Millionen Franken bei KVA;
-- b. 250 000 Franken bei Klärgasanlagen mit einem Einwohnerwert ab 50 000;
-- c. 100 000 Franken bei Klärgasanlagen mit einem Einwohnerwert von weniger als 50 000;
-- d. 600 000 Franken bei Holzkraftwerken von regionaler Bedeutung.
+- a. 100 000 Franken bei Biogasanlagen und Holzkraftwerken;
+- b. 15 Millionen Franken bei KVA und Schlammverbrennungsanlagen;
+- c. 250 000 Franken bei Klärgasanlagen mit einem Einwohnerwert ab 50 000;
+- d. 100 000 Franken bei Klärgasanlagen mit einem Einwohnerwert von weniger als 50 000 und bei Deponiegasanlagen.[^68-1]
+
+[^68-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 69
 
@@ -932,17 +1074,21 @@ Die Erneuerung einer Anlage ist erheblich, wenn die anrechenbaren Investitionsko
 
 <sup>2</sup> Bei erheblichen Erneuerungen muss die Anlage nach der Erneuerung mindestens gleich viel Elektrizität produzieren wie vorher.
 
-### 2. Abschnitt: Ansätze
+### 2. Abschnitt: Investitionsbeitrag
+
+[^chap6-sec2-1]
+
+[^chap6-sec2-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 70
 
-**Ansätze für die Investitionsbeiträge**
+**Ansätze**
 
-<sup>1</sup> Das BFE setzt den Investitionsbeitrag für jede Anlage individuell nach Artikel 29 Absatz 2 EnG fest.
+Der Investitionsbeitrag beträgt:
 
-<sup>2</sup> Der Investitionsbeitrag beträgt höchstens 20 Prozent der anrechenbaren Investitionskosten.
-
-<sup>3</sup> Das UVEK überprüft diesen Ansatz mindestens alle fünf Jahre. Bei einer wesentlichen Veränderung der Verhältnisse stellt es dem Bundesrat Antrag auf Anpassung.
+- a. 50 Prozent der anrechenbaren Investitionskosten für Biogasanlagen
+- b. 40 Prozent der anrechenbaren Investitionskosten für Holzkraftwerke;
+- c. 20 Prozent der anrechenbaren Investitionskosten für KVA, Schlammverbrennungs-, Klärgas- und Deponiegasanlagen.
 
 #### Art. 71
 
@@ -950,9 +1096,9 @@ Die Erneuerung einer Anlage ist erheblich, wenn die anrechenbaren Investitionsko
 
 Der Investitionsbeitrag darf die folgenden Beträge nicht überschreiten:
 
-- a. 6 Millionen Franken bei KVA;
-- b. 1,5 Millionen Franken bei Klärgasanlagen;
-- c. 3,75 Millionen Franken bei Holzkraftwerken von regionaler Bedeutung.
+- a. 12 Millionen Franken für Holzkraftwerke;
+- b. 6 Millionen Franken für KVA und Schlammverbrennungsanlagen;
+- c. 1 Million Franken für Klärgas- und Deponiegasanlagen.
 
 ### 3. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
@@ -992,11 +1138,13 @@ Der Investitionsbeitrag darf die folgenden Beträge nicht überschreiten:
 
 Ergibt die Prüfung des Gesuchs, dass die Anspruchsvoraussetzungen erfüllt sind, und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so sichert das BFE den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
 
-- a. die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten unter Berücksichtigung der zu erwartenden nicht amortisierbaren Mehrkosten;
+- a.[^75-1] die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten;
 - b. den Höchstbetrag, den der Investitionsbeitrag nicht überschreiten darf;
 - c. bis wann spätestens mit dem Bau zu beginnen ist;
 - d. den Zahlungsplan gemäss Artikel 80;
 - e. die Frist, innerhalb der die Anlage in Betrieb zu nehmen ist.
+
+[^75-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 76
 
@@ -1026,15 +1174,11 @@ Die Erstreckung der Fristen für die Inbetriebnahme und das Einreichen der Bauab
 
 #### Art. 79
 
-**Definitive Festsetzung des Investitionsbeitrags**
+**Definitive Festsetzung des Investitionsbeitrags**[^79-1]
 
-<sup>1</sup> Sobald die Bauabschlussmeldung vorliegt, prüft das BFE, ob auch zu diesem Zeitpunkt noch sämtliche Anspruchsvoraussetzungen erfüllt sind.
+Sind die Anspruchsvoraussetzungen zum Zeitpunkt der Bauabschlussmeldung noch erfüllt, so setzt das BFE den Investitionsbeitrag anhand der tatsächlich angefallenen Investitionskosten definitiv fest.
 
-<sup>2</sup> Die nicht amortisierbaren Mehrkosten werden aufgrund der definitiven anrechenbaren Investitionskosten und der gemeldeten Nettoproduktion neu berechnet.
-
-<sup>3</sup> Gestützt auf das Ergebnis der Prüfung nach Absatz 1 und die Berechnung nach Absatz 2 wird die definitive Höhe des Investitionsbeitrags festgesetzt.
-
-<sup>4</sup> Ist die Nettoproduktion kleiner als die im Gesuch ausgewiesene Produktion beziehungsweise Mehrproduktion, so kann der Investitionsbeitrag angemessen gekürzt werden.
+[^79-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 80
 
@@ -1052,9 +1196,11 @@ Die Erstreckung der Fristen für die Inbetriebnahme und das Einreichen der Bauab
 
 #### Art. 81
 
-**Anrechenbare Investitionskosten**
+**Anrechenbare Investitionskosten**[^81-1]
 
-Anrechenbar sind sinngemäss die Investitionskosten nach Artikel 61.
+Anrechenbar sind die Investitionskosten nach Artikel 61.
+
+[^81-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 82
 
@@ -1071,47 +1217,309 @@ Nicht anrechenbar sind insbesondere Kosten:
 
 #### Art. 83
 
-**Nicht amortisierbare Mehrkosten**
+**Berechnung der ungedeckten Kosten und des Investitionsbeitrags im Einzelfall**[^83-1]
 
-Die Berechnung der nicht amortisierbaren Mehrkosten gemäss Artikel 29 Absatz 2 EnG richtet sich sinngemäss nach Artikel 63.
+<sup>1</sup> Gibt es Anhaltspunkte, dass bei einer Anlage keine ungedeckten Kosten (Art. 29 Abs. 3 Bst. b<sup>bis</sup> EnG) vorliegen, so ist gemäss Anhang 4 zu berechnen, ob ungedeckte Kosten vorliegen.
 
-#### Art. 84
+<sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
 
-**Anrechenbare Geldabflüsse**
+[^83-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-<sup>1</sup>
+#### Art. 84–87
 
-Die anrechenbaren Geldabflüsse setzen sich zusammen aus den:
+[^8487-1]
 
-- a. anrechenbaren Investitionskosten;
-- b. Kosten für den Anlagenbetrieb, den Unterhalt sowie den übrigen Betriebskosten;
-- c. Ersatzinvestitionen.
+[^8487-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-<sup>2</sup> Sie sind über die verbleibende Nutzungsdauer gemäss Artikel 87 zu berücksichtigen.
+## 6*a*. Kapitel: Investitionsbeitrag für Windenergieanlagen
 
-<sup>3</sup> Die Kosten nach Absatz 1 Buchstabe b werden mit insgesamt jährlich 2 Prozent der Investitionskosten angerechnet.
+[^chap6a-1]
 
-<sup>4</sup> Bei Holzkraftwerken von regionaler Bedeutung werden zudem die direkten Steuern sowie die Energiekosten abzüglich der Erlöse aus dem Wärmeverkauf als wiederkehrende Kosten berücksichtigt.
+[^chap6a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-#### Art. 85
+### 1. Abschnitt: Ansatz
 
-**Anzurechnende Geldzuflüsse**
+#### Art. 87a
 
-<sup>1</sup> Die anzurechnenden Geldzuflüsse berechnen sich gestützt auf die durchschnittliche Nettoproduktion über die verbleibende Nutzungsdauer gemäss Artikel 87 und auf das vom BFE erstellte Preisszenario.
+Der Investitionsbeitrag beträgt 60 Prozent der anrechenbaren Investitionskosten.
 
-<sup>2</sup> Investitionen werden über die Nutzungsdauern gemäss Anhang 2.3 linear abgeschrieben, und allfällige Restwerte werden am Ende der verbleibenden Nutzungsdauer gemäss Artikel 87 als Geldzuflüsse berücksichtigt.
+### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
 
-#### Art. 86
+#### Art. 87b
 
-**Kalkulatorischer Zinssatz**
+**Reihenfolge der Berücksichtigung**
 
-Für die Berechnung und Bekanntgabe des kalkulatorischen Zinssatzes ist Artikel 66 sinngemäss anwendbar.
+<sup>1</sup> Massgebend für die Berücksichtigung eines Gesuchs ist das Einreichedatum.
 
-#### Art. 87
+<sup>2</sup> Können nicht alle am gleichen Tag eingereichten Gesuche berücksichtigt werden, so werden die Projekte zuerst berücksichtigt, die die grösste Mehrproduktion an Elektrizität im Verhältnis zum Investitionsbeitrag aufweisen.
 
-**Verbleibende Nutzungsdauer**
+#### Art. 87c
 
-Zur Bestimmung der verbleibenden Nutzungsdauer wird auf die Nutzungsdauer des neu eingebauten Bestandteils abgestellt, der die längste Nutzungsdauer gemäss der Nutzungsdauertabelle in Anhang 2.3 aufweist.
+**Warteliste**
+
+<sup>1</sup> Reichen die Mittel nicht für eine sofortige Berücksichtigung aus, so werden die Projekte in eine Warteliste aufgenommen, es sei denn, sie erfüllen die Anspruchsvoraussetzungen offensichtlich nicht.
+
+<sup>2</sup> Das BFE teilt der gesuchstellenden Person mit, dass ihr Projekt in die Warteliste aufgenommen wurde.
+
+<sup>3</sup> Stehen wieder Mittel zur Verfügung, so werden die Projekte entsprechend dem Einreichedatum des Gesuchs berücksichtigt.
+
+### 3. Abschnitt: Gesuchsverfahren
+
+#### Art. 87d
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um einen Investitionsbeitrag ist beim BFE einzureichen.
+
+<sup>2</sup> Es kann erst gestellt werden, wenn die Resultate von Windmessungen für den Standort einer neuen Anlage oder die Betriebsdaten bestehender Windenergieanlagen und ein Gutachten zum Energieertrag am Standort der Windenergieanlage vorliegen. Die Messungen und das Ertragsgutachten müssen die Mindestanforderungen nach Anhang 2.4 erfüllen.
+
+<sup>3</sup> Das Gesuch hat sämtliche Angaben und Unterlagen nach Anhang 2.4 zu enthalten.
+
+#### Art. 87e
+
+**Zusicherung dem Grundsatz nach**
+
+Ergibt die Prüfung des Gesuchs, dass die Anspruchsvoraussetzungen erfüllt sind, und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so sichert das BFE den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
+
+- a. die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten;
+- b. den Höchstbetrag, den der Investitionsbeitrag nicht überschreiten darf;
+- c. bis wann spätestens mit dem Bau zu beginnen ist;
+- d. den Zahlungsplan gemäss Artikel 87*j*;
+- e. die Frist, innerhalb der die Anlage in Betrieb zu nehmen ist.
+
+#### Art. 87f
+
+**Inbetriebnahmemeldung**
+
+Die Pflicht zur Einreichung der Inbetriebnahmemeldung richtet sich sinngemäss nach Artikel 55.
+
+#### Art. 87g
+
+**Bauabschlussmeldung**
+
+<sup>1</sup> Spätestens zwei Jahre nach der Inbetriebnahme ist dem BFE eine Bauabschlussmeldung einzureichen.
+
+<sup>2</sup>
+
+Die Meldung muss folgende Angaben und Unterlagen enthalten:
+
+- a. eine detaillierte Baukostenabrechnung;
+- b. eine Auflistung der anrechenbaren und der nicht anrechenbaren Investitionskosten.
+
+#### Art. 87h
+
+**Erstrecken von Fristen**
+
+Das BFE kann die Fristen für die Inbetriebnahme und für das Einreichen der Bauabschlussmeldung auf Gesuch des Antragstellers erstrecken, wenn:
+
+- a. die Frist aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden kann; und
+- b. das Gesuch vor Ablauf der Frist eingereicht wird.
+
+#### Art. 87i
+
+**Definitive Festsetzung des Investitionsbeitrags**
+
+Sind die Anspruchsvoraussetzungen zum Zeitpunkt der Bauabschlussmeldung noch erfüllt, so setzt das BFE den Investitionsbeitrag anhand der tatsächlich angefallenen Investitionskosten definitiv fest.
+
+#### Art. 87j
+
+**Gestaffelte Auszahlung des Investitionsbeitrags**
+
+<sup>1</sup> Der Investitionsbeitrag wird in mehreren Tranchen ausbezahlt.
+
+<sup>2</sup> Das BFE setzt den Zeitpunkt für die Auszahlung der einzelnen Tranchen und die Höhe der pro Tranche auszuzahlenden Beträge einzelfallweise in der Zusicherung nach Artikel 87*e* fest (Zahlungsplan).
+
+<sup>3</sup> Die erste Tranche darf frühestens bei Baubeginn ausbezahlt werden.
+
+<sup>4</sup> Die letzte Tranche darf erst nach der definitiven Festsetzung des Investitionsbeitrags ausbezahlt werden. Bis dahin dürfen maximal 80 Prozent des in der Zusicherung nach Artikel 87*e* festgesetzten Höchstbetrags ausbezahlt werden.
+
+### 4. Abschnitt: Bemessungskriterien
+
+#### Art. 87k
+
+**Anrechenbare Investitionskosten**
+
+Anrechenbar sind die Investitionskosten nach Artikel 61.
+
+#### Art. 87l
+
+**Nicht anrechenbare Kosten**
+
+Nicht anrechenbar sind insbesondere Kosten:
+
+- a. für den Erwerb von Grundeigentum;
+- b. für Verfahren und die anwaltliche Vertretung im Zusammenhang mit Einsprachen und Beschwerden.
+
+#### Art. 87m
+
+**Berechnung der ungedeckten Kosten und des Investitionsbeitrags im Einzelfall**
+
+<sup>1</sup> Gibt es Anhaltspunkte, dass bei einer Anlage keine ungedeckten Kosten (Art. 29 Abs. 3 Bst. b<sup>bis</sup> EnG) vorliegen, so ist gemäss Anhang 4 zu berechnen, ob ungedeckte Kosten vorliegen.
+
+<sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
+
+## 6*b*. Kapitel: Investitionsbeiträge für die Prospektion und die Erschliessung von Geothermiereservoiren und für neue Geothermieanlagen
+
+[^chap6b-1]
+
+[^chap6b-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1. Abschnitt: Anspruchsvoraussetzungen und Ansätze
+
+#### Art. 87n
+
+**Anspruchsvoraussetzungen**
+
+<sup>1</sup> Ein Investitionsbeitrag für die Erschliessung eines Geothermiereservoirs kann nur gewährt werden, wenn im betreffenden Gebiet vorgängig eine Prospektion durchgeführt wurde und ein Prospektionsbericht über die Wahrscheinlichkeit eines vermuteten Geothermiereservoirs vorliegt.
+
+<sup>2</sup> Ein Investitionsbeitrag für die Erstellung einer Geothermieanlage kann nur zugesprochen werden, wenn im betreffenden Gebiet vorgängig eine Erschliessung durchgeführt wurde und ein Erschliessungsbericht über die erwartete Produktion des Geothermiereservoirs vorliegt.
+
+#### Art. 87o
+
+**Ansätze**
+
+<sup>1</sup> Der Investitionsbeitrag beträgt für die Prospektion, die Erschliessung und die Erstellung einer Anlage je 60 Prozent der anrechenbaren Investitionskosten.
+
+<sup>2</sup> Der Investitionsbeitrag für eine Prospektion oder eine Erschliessung kann insbesondere dann gesenkt werden, wenn die geologischen Risiken tief sind oder wenn der technische, qualitative oder innovative Gehalt des Gesuchs klein ist.
+
+### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
+
+#### Art. 87p
+
+**Reihenfolge der Berücksichtigung**
+
+<sup>1</sup> Massgebend für die Berücksichtigung eines Gesuchs ist das Einreichedatum.
+
+<sup>2</sup> Können nicht alle am gleichen Tag eingereichten Gesuche berücksichtigt werden, so werden die Projekte zuerst berücksichtigt, die die grösste Mehrproduktion an Elektrizität im Verhältnis zum Investitionsbeitrag aufweisen.
+
+#### Art. 87q
+
+**Warteliste**
+
+<sup>1</sup> Reichen die Mittel nicht für eine sofortige Berücksichtigung aus, so werden die Projekte in eine Warteliste aufgenommen, es sei denn, sie erfüllen die Anspruchsvoraussetzungen offensichtlich nicht.
+
+<sup>2</sup> Das BFE teilt der Gesuchstellerin oder dem Gesuchsteller mit, dass das Projekt in die Warteliste aufgenommen wurde.
+
+<sup>3</sup> Stehen wieder Mittel zur Verfügung, so berücksichtigt das BFE die am weitesten fortgeschrittenen Projekte. Sind mehrere Projekte gleich weit fortgeschritten, so wird das Projekt berücksichtigt, für das das vollständige Gesuch am frühesten eingereicht wurde.
+
+### 3. Abschnitt: Gesuchsverfahren
+
+#### Art. 87r
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um einen Investitionsbeitrag ist beim BFE einzureichen.
+
+<sup>2</sup> Das Gesuch um einen Investitionsbeitrag für die Prospektion oder die Erschliessung kann erst gestellt werden, wenn die Gesuche für die notwendigen Bewilligungen und Konzessionen bei den zuständigen Behörden vollständig eingereicht wurden und die Finanzierung des Projekts gesichertist.
+
+<sup>3</sup> Das Gesuch um einen Investitionsbeitrag für eine Geothermieanlage kann erst gestellt werden, wenn eine rechtskräftige Baubewilligung oder Konzession vorliegt.
+
+<sup>4</sup> Ein Gesuch nach Absatz 2 oder 3 hat sämtliche Angaben und Unterlagen nach Anhang 2.5 oder 2.6 zu enthalten.
+
+#### Art. 87s
+
+**Expertengremium für Prospektions- und Erschliessungsprojekte**
+
+<sup>1</sup> Das BFE zieht zur Prüfung der Gesuche um einen Investitionsbeitrag für eine Prospektion oder eine Erschliessung ein vom Projekt unabhängiges Expertengremium aus bis zu sechs Fachleuten bei. Daneben kann der Standortkanton eine Vertreterin oder einen Vertreter in das Expertengremium entsenden.
+
+<sup>2</sup> Das Expertengremium begutachtet die Gesuche und gibt zuhanden des BFE eine Empfehlung für die Beurteilung des Projekts ab. Bei der Empfehlung zuhanden des BFE hat die Kantonsvertreterin oder der Kantonsvertreter keine Stimme. Das Expertengremium kann zur Erfüllung seiner Aufgaben weitere Fachleute beiziehen.
+
+#### Art. 87t
+
+**Vertrag und Zusicherung dem Grundsatz nach**
+
+<sup>1</sup> Sind die Anspruchsvoraussetzungen gemäss Anhang 2.5 für einen Investitionsbeitrag für eine Prospektion oder eine Erschliessung erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so schliesst der Bund mit der Gesuchstellerin oder dem Gesuchsteller einen verwaltungsrechtlichen Vertrag ab.
+
+<sup>2</sup>
+
+Sind die Anspruchsvoraussetzungen gemäss Anhang 2.6 für die Erstellung einer Geothermieanlage erfüllt und stehen Mittel zur Berücksichtigung des Gesuchs zur Verfügung, so sichert das BFE den Investitionsbeitrag dem Grundsatz nach zu und setzt Folgendes fest:
+
+- a. die Höhe des Investitionsbeitrags in Prozent der anrechenbaren Investitionskosten;
+- b. den Höchstbetrag, den der Investitionsbeitrag nicht überschreiten darf;
+- c. bis wann spätestens mit dem Bau zu beginnen ist;
+- d. den Zahlungsplan gemäss Artikel 87*z*;
+- e. die Frist, innerhalb der die Anlage in Betrieb zu nehmen ist;
+- f. die zu rapportierenden produktionsrelevanten Daten gemäss Artikel 87*w* Buchstabe d.
+
+#### Art. 87u
+
+**Abschlussbericht bei Prospektion oder Erschliessung**
+
+Nach Abschluss einer Prospektion oder einer Erschliessung ist dem BFE ein Abschlussbericht einzureichen. Der Inhalt des Berichts wird im Vertrag gemäss Artikel 87*t* Absatz 1 geregelt.
+
+#### Art. 87v
+
+**Inbetriebnahmemeldung für Geothermieanlagen**
+
+<sup>1</sup> Nach Inbetriebnahme der Geothermieanlage ist dem BFE eine Inbetriebnahmemeldung einzureichen.
+
+<sup>2</sup>
+
+Die Meldung muss mindestens folgende Angaben und Unterlagen enthalten:
+
+- a. das Inbetriebnahmedatum;
+- b. das Abnahmeprotokoll;
+- c. allfällige Änderungen gegenüber den im Gesuch gemachten Angaben.
+
+#### Art. 87w
+
+**Bauabschlussmeldung bei Geothermieanlagen**
+
+<sup>1</sup> Spätestens sechs Jahre nach der Inbetriebnahme der Geothermieanlage ist dem BFE eine Bauabschlussmeldung einzureichen.
+
+<sup>2</sup>
+
+Die Meldung muss mindestens folgende Angaben und Unterlagen enthalten:
+
+- a. eine detaillierte Baukostenabrechnung;
+- b. eine Auflistung der anrechenbaren und der nicht anrechenbaren Investitionskosten;
+- c. die Angabe der Nettoproduktion der ersten fünf Betriebsjahre;
+- d. alle produktionsrelevanten Daten seit der Inbetriebnahme.
+
+#### Art. 87x
+
+**Erstrecken von Fristen**
+
+Das BFE kann die Fristen für die Inbetriebnahme und für das Einreichen des Abschlussberichts oder der Bauabschlussmeldung auf Gesuch des Antragstellers erstrecken, wenn:
+
+- a. die Frist aus Gründen, für die der Antragsteller nicht einzustehen hat, nicht eingehalten werden kann; und
+- b. das Gesuch vor Ablauf der Frist eingereicht wird.
+
+#### Art. 87y
+
+**Definitive Festsetzung des Investitionsbeitrags für Geothermieanlagen**
+
+Sind die Anspruchsvoraussetzungen im Zeitpunkt der Bauabschlussmeldung noch erfüllt, so setzt das BFE den Investitionsbeitrag anhand der tatsächlich angefallenen Investitionskosten definitiv fest.
+
+#### Art. 87z
+
+**Gestaffelte Auszahlung des Investitionsbeitrags**
+
+<sup>1</sup> Der Investitionsbeitrag wird in mehreren Tranchen ausbezahlt.
+
+<sup>2</sup> Das BFE setzt den Zeitpunkt für die Auszahlung der einzelnen Tranchen und die Höhe der pro Tranche auszuzahlenden Beträge einzelfallweise im Vertrag (Art. 87*t* Abs. 1) oder in der Zusicherung dem Grundsatz nach (Art. 87*t* Abs. 2) fest.
+
+<sup>3</sup> Die erste Tranche darf frühestens bei Baubeginn ausbezahlt werden. Wurde nach Artikel 32 ein früherer Baubeginn bewilligt, so erfolgt die erste Auszahlung frühestens, wenn eine Zusicherung nach Artikel 87*t* Absatz 2 vorliegt.
+
+<sup>4</sup> Die letzte Tranche darf erst nach der definitiven Festsetzung des Investitionsbeitrags ausbezahlt werden. Bis dahin dürfen maximal 80 Prozent des in der Zusicherung nach Artikel 87*t* Absatz 2 festgesetzten Höchstbetrags ausbezahlt werden.
+
+### 4. Abschnitt: Bemessungskriterien
+
+#### Art. 87z<sup>bis</sup>
+
+**Anrechenbare Investitionskosten**
+
+<sup>1</sup> Für die Berechnung der Investitionsbeiträge für die Prospektion und die Erschliessung sind nur die Investitionskosten anrechenbar, die tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung des Projekts erforderlich sind. Artikel 61 gilt zudem sinngemäss.
+
+<sup>2</sup> Für die anrechenbaren Investitionskosten für Geothermieanlagen gilt Artikel 61.
+
+#### Art. 87z<sup>ter</sup>
+
+**Berechnung der ungedeckten Kosten und des Investitionsbeitrags im Einzelfall**
+
+<sup>1</sup> Gibt es Anhaltspunkte, dass bei einer Anlage keine ungedeckten Kosten (Art. 29 Abs. 3 Bst. b<sup>bis</sup> EnG) vorliegen, so ist gemäss Anhang 4 zu berechnen, ob ungedeckte Kosten vorliegen.
+
+<sup>2</sup> Übersteigt der Investitionsbeitrag die ungedeckten Kosten, so wird er entsprechend gekürzt.
 
 ## 7. Kapitel: Marktprämie für Elektrizität aus Grosswasserkraftanlagen
 
@@ -1144,9 +1552,11 @@ Grosswasserkraftanlagen von mehr als 10 MW berechtigen nicht nur zur Marktprämi
 
 <sup>3</sup> Als Marktpreis gilt, auch für ausserbörsliche gehandelte Elektrizität, der stündliche Spotpreis für die Preiszone Schweiz, zu einem durchschnittlichen Monatskurs.
 
-<sup>4</sup> Wird für eine Anlage nebst der Marktprämie auch ein Investitionsbeitrag ausgerichtet, so ist dieser für die Marktprämie zeitlich anteilmässig als Erlös anzurechnen.
+<sup>4</sup> …[^89-1]
 
 <sup>5</sup> Gehört zu einem Anlageverbund eine Einzelanlage im Einspeisevergütungssystem, so ist als deren Erlös die Einspeisevergütung massgebend.
+
+[^89-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 90
 
@@ -1160,9 +1570,11 @@ Als Gestehungskosten werden die für eine effiziente Produktion unmittelbar nöt
 - b. Mindererlöse aufgrund von Elektrizität, die dem Gemeinwesen kostenlos oder vergünstigt abzugeben ist;
 - c. die direkten Steuern, die Gewinnsteuer jedoch nur, wenn sie einem tatsächlichen Gewinn entspricht, nicht aber, soweit sie zugunsten des lokalen Gemeinwesens, aufgrund einer Abmachung und gewinnunabhängig geschuldet ist.
 
-<sup>2</sup> Als Gestehungskosten ebenfalls berücksichtigt werden die kalkulatorischen Kapitalkosten. Massgebend ist der Zinssatz nach Artikel 66. Abschreibungen sind grundsätzlich gemäss der bisherigen Praxis für die jeweilige Anlage vorzunehmen.
+<sup>2</sup> Als Gestehungskosten ebenfalls berücksichtigt werden die kalkulatorischen Kapitalkosten. Massgebend ist der Zinssatz nach Anhang 3. Abschreibungen sind grundsätzlich gemäss der bisherigen Praxis für die jeweilige Anlage vorzunehmen.[^90-1]
 
 <sup>3</sup> Das BFE legt in einer Richtlinie die anrechenbaren Betriebs- und Kapitalkosten fest.
+
+[^90-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 2. Abschnitt: Marktprämie und Grundversorgung
 
@@ -1256,7 +1668,121 @@ Ergibt sich aus einer Überprüfung oder Kontrolle, dass jemand insbesondere weg
 
 [^96-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-## 8. Kapitel: Auswertung, Publikation, Auskünfte, Weitergabe von Daten an das Bundesamt für Zoll und Grenzsicherheit (BAZG)****, Kontrolle und Massnahmen
+## 7*a*. Kapitel: Betriebskostenbeitrag für Biomasseanlagen
+
+[^chap7a-1]
+
+[^chap7a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1. Abschnitt: Ausschlussgrund und Beitragssätze
+
+#### Art. 96a
+
+**Ausschlussgrund**
+
+Solange der Betreiber für eine Anlage eine Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG oder eine Einspeisevergütung erhält, kann für diese Anlage kein Betriebskostenbeitrag gewährt werden.
+
+#### Art. 96b
+
+**Beitragssätze**
+
+<sup>1</sup> Die Beitragssätze je Kategorie und Leistungsklasse sind in Anhang 5 festgelegt.
+
+<sup>2</sup> Der Beitragssatz für Hybridanlagen berechnet sich nach Artikel 16 Absatz 2.
+
+<sup>3</sup> Die Beitragssätze werden regelmässig überprüft und bei einer wesentlichen Veränderung der Verhältnisse angepasst.
+
+<sup>4</sup> Der Betriebskostenbeitrag reduziert sich bei Betreibern, die nach den Artikeln 10–13 MWSTG[^96b-1] steuerpflichtig sind, um 7,1495 Prozent.
+
+[^96b-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+
+### 2. Abschnitt: Reihenfolge der Berücksichtigung und Warteliste
+
+#### Art. 96c
+
+**Reihenfolge der Berücksichtigung**
+
+<sup>1</sup> Massgebend für die Berücksichtigung eines Gesuchs um einen Betriebskostenbeitrag ist das Einreichedatum.
+
+<sup>2</sup> Können nicht alle am gleichen Tag eingereichten Gesuche berücksichtigt werden, so werden die Projekte, die eine Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG erhalten oder am Einspeisevergütungssystem teilgenommen hatten und deren Vergütungsdauer abgelaufen ist, zuerst berücksichtigt.
+
+#### Art. 96d
+
+**Warteliste**
+
+<sup>1</sup> Reichen die Mittel nicht für eine sofortige Berücksichtigung aus, so werden die Projekte entsprechend dem Einreichedatum des Gesuchs in eine Warteliste aufgenommen, es sei denn, sie erfüllen die Anspruchsvoraussetzungen offensichtlich nicht.
+
+<sup>2</sup> Die Vollzugsstelle teilt der Gesuchstellerin oder dem Gesuchsteller mit, dass das Projekt in die Warteliste aufgenommen wurde.
+
+<sup>3</sup> Stehen wieder Mittel zur Verfügung, so werden zuerst diejenigen Anlagen berücksichtigt, die eine Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG erhalten oder am Einspeisevergütungssystem teilgenommen hatten.
+
+### 3. Abschnitt: Gesuchsverfahren
+
+#### Art. 96e
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um einen Betriebskostenbeitrag ist bei der Vollzugsstelle einzureichen.
+
+<sup>2</sup> Es kann frühestens ein Jahr vor Ende der Vergütungsdauer der Mehrkostenfinanzierung nach Artikel 73 Absatz 4 EnG oder der Einspeisevergütung eingereicht werden.
+
+<sup>3</sup>
+
+Ein Gesuch kann nur für Anlagen gestellt werden:
+
+- a. die bereits in Betrieb sind; oder
+- b. die baureif sind.
+
+<sup>4</sup> Es hat sämtliche Angaben und Unterlagen nach Anhang 5 zu enthalten.
+
+#### Art. 96f
+
+**Verfügung**
+
+Sind die Anspruchsvoraussetzungen voraussichtlich erfüllt und stehen genügend Mittel zur Berücksichtigung zur Verfügung, so verfügt die Vollzugsstelle die Gewährung eines Betriebskostenbeitrags und den Beginn der Beitragsgewährung.
+
+### 4. Abschnitt: Laufender Betrieb, Ausschluss und Verzicht
+
+#### Art. 96g
+
+**Auszahlung des Betriebskostenbeitrags**
+
+<sup>1</sup> Die Vollzugsstelle zahlt den Betriebskostenbeitrag vierteljährlich aus.
+
+<sup>2</sup> Stehen für die Zahlungen nach Absatz 1 nicht genügend Mittel zur Verfügung, so nimmt sie die Auszahlungen im laufenden Jahr anteilsmässig vor. Den Differenzbetrag bezahlt sie im folgenden Jahr aus.
+
+<sup>3</sup> Sie fordert vom Betreiber Beträge, die im Verhältnis zur effektiven Produktion zu viel ausbezahlt wurden, ohne Zins zurück. Sie kann sie auch in der folgenden Zahlungsperiode verrechnen.
+
+<sup>4</sup> Übersteigt der Referenz-Marktpreis den Beitragssatz, so stellt sie den Betreibern den übersteigenden Teil vierteljährlich in Rechnung.
+
+#### Art. 96h
+
+**Mindestanforderungen**
+
+Die Mindestanforderungen sind in Anhang 5 festgelegt.
+
+#### Art. 96i
+
+**Nichteinhalten von Anspruchsvoraussetzungen oder Mindestanforderungen**
+
+Werden Anspruchsvoraussetzungen oder Mindestanforderungen nicht oder nicht mehr eingehalten, so gilt Artikel 29 sinngemäss.
+
+#### Art. 96j
+
+**Ausschluss, Verzicht und neues Gesuch**
+
+<sup>1</sup>
+
+Die Vollzugsstelle verfügt den Ausschluss einer Anlage von der Gewährung des Betriebskostenbeitrags, wenn Anspruchsvoraussetzungen oder Mindestanforderungen:
+
+- a. wiederholt nicht eingehalten werden und der Betriebskostenbeitrag deswegen in drei Kalenderjahren in Folge nicht ausbezahlt wurde (Art. 29 Abs. 1);
+- b. nach Ablauf der Frist nach Artikel 29 Absatz 3 nicht während eines ganzen Kalenderjahres eingehalten worden sind.
+
+<sup>2</sup> Ein Verzicht auf den Betriebskostenbeitrag ist der Vollzugsstelle unter Einhaltung einer Frist von drei Monaten auf ein Quartalsende mitzuteilen.
+
+<sup>3</sup> Ein neues Gesuch um einen Betriebskostenbeitrag kann jederzeit gestellt werden. Der Betriebskostenbeitrag wird jedoch frühestens ein Jahr nach dem letztmaligen Ausschluss oder Verzicht erneut gewährt.
+
+## 8. Kapitel: Auswertung, Publikation, Auskünfte, Weitergabe von Daten an das Bundesamt für Zoll und Grenzsicherheit (BAZG), Kontrolle und Massnahmen
 
 [^chap8-1]
 
@@ -1313,7 +1839,20 @@ Zur Marktprämie für Grosswasserkraftanlagen publiziert es:
 - c. die Anzahl der Anlagen und die gesamte Elektrizitätsmenge, für die die Marktprämie entrichtet wird;
 - d. die gesamte Menge und den Durchschnittspreis der im Zusammenhang mit der Marktprämie in der Grundversorgung verkauften Elektrizität aus Grosswasserkraftanlagen.
 
+<sup>5</sup>
+
+Zu den Betriebskostenbeiträgen publiziert es folgende Angaben:
+
+- a. den Namen oder die Firma des Betreibers sowie den Standort der Anlage;
+- b. die Anlagenkategorie und den Anlagentyp;
+- c. die Höhe des Betriebskostenbeitrags;
+- d. die Menge der vergüteten Elektrizität.[^98-2]
+
+<sup>6</sup> Bei Anlagen von weniger als 30 kW erfolgt die Publikation zu den Betriebskostenbeiträgen nach Absatz 5 anonymisiert.[^98-3]
+
 [^98-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^98-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^98-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 99
 
@@ -1420,11 +1959,9 @@ Projekte und Anlagen, die bereits für die kostendeckende Einspeisevergütung na
 
 #### Art. 108
 
-**Übergangsbestimmungen zur Marktprämie bei Grosswasserkraftanlagen**
+[^108-1]
 
-<sup>1</sup> Die Marktprämie kann erstmals im Jahr 2018 für Gesuche für das Jahr 2017 und letztmals im Jahr 2022 für Gesuche für das Jahr 2021 ausgerichtet werden.
-
-<sup>2</sup> Vom Recht, die in der Grundversorgung absetzbare Elektrizität auch effektiv dort und zu Gestehungskosten zu verkaufen (Art. 31 Abs. 3 EnG), dürfen die Berechtigten erstmals für das Jahr 2018 und letztmals für das Jahr 2022 Gebrauch machen.
+[^108-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 #### Art. 108a
 
@@ -1440,13 +1977,13 @@ Bestehende Anlagen, die komplett ersetzt wurden oder werden und die vor dem 1. J
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1.1*[^t-1]*
+Anhang 1.1[^t-1]
 
-(Art. 16, 17, 21, 22 und 23)
+(Art. 16, 17, 21, 23 und 28)
 
 ## Wasserkraftanlagen im Einspeisevergütungssystem
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Anlagendefinition
 
@@ -1491,7 +2028,7 @@ Anhang 1.1*[^t-1]*
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image1.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -1583,22 +2120,24 @@ Anhang 1.1*[^t-1]*
   - b. spätestens bis zum 31. Dezember 2019, sofern der Betreiber den positiven Bescheid zwischen dem 1. Januar 2016 und dem 1. Januar 2017 erhalten hat.
 
 - 6\.4 Eine Produktionseinschränkung aufgrund einer allfälligen behördlichen Auflage führt bei einer Anlage, die aufgrund von Artikel 3*a* der Energieverordnung vom 7. Dezember 1998[^annex11-lvlu1-lvl6-2] eine kostendeckende Einspeisevergütung zugesprochen oder einen positiven Bescheid erhalten hat, nicht zum Ausschluss aus dem Einspeisevergütungssystem.
-- 6\.5 Bei Anlagen, aufgrund von Artikel 3*a* der Energieverordnung vom 7. Dezember 1998 eine kostendeckende Einspeisevergütung zugesprochen oder einen positiven Bescheid erhalten haben und die die Mindestanforderungen aus Gründen, für die sie nicht einzustehen haben, nicht einhalten können, wird die Vergütung für eine Dauer von höchstens einem Drittel der Vergütungsdauer weiterhin ausbezahlt, wenn keine Massnahmen zur Behebung möglich sind. Halten sie die Mindestanforderungen danach erneut nicht ein, so werden sie aus dem Einspeisevergütungssystem ausgeschlossen. Diese Regelung gilt auch für das Jahr 2018.
+- 6\.5 Bei Anlagen, die aufgrund von Artikel 3*a* der Energieverordnung vom 7. Dezember 1998 eine kostendeckende Einspeisevergütung zugesprochen oder einen positiven Bescheid erhalten haben und die die Mindestanforderungen aus Gründen, für die sie nicht einzustehen haben, nicht einhalten können, wird die Vergütung für eine Dauer von höchstens einem Drittel der Vergütungsdauer weiterhin ausbezahlt, wenn keine Massnahmen zur Behebung möglich sind. Halten sie die Mindestanforderungen danach erneut nicht ein, so werden sie aus dem Einspeisevergütungssystem ausgeschlossen. Diese Regelung gilt auch für das Jahr 2018.
+- 6\.6 Die Jahre, in denen der Grund gemäss Ziffer 6.5 in der überdurchschnittlichen Trockenheit liegt, werden bei der Berechnung des Drittels der Vergütungsdauer nicht berücksichtigt.
+- [tab]
 
 [^annex11-lvlu1-lvl6-1]: [AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^annex11-lvlu1-lvl6-2]: [AS 2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575); [2015 4781](https://fedlex.data.admin.ch/eli/oc/2015/784)
 
-Anhang 1.2*[^t-2]*
+Anhang 1.2[^t-2]
 
-(Art. 16, 17, 21, 22 und 23)
+(Art. 16, 17, 21 und 23)
 
 ## Photovoltaikanlagen im Einspeisevergütungssystem
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Anlagendefinition
 
-- Eine Photovoltaikanlage besteht aus einem oder mehreren Modulfeldern und einem oder mehreren Wechselrichtern. Befinden sich vor einem Netzanschlusspunkt mehrere Einheiten von Modulfeldern und den dazugehörigen Wechselrichtern auf verschiedenen Grundstücken, so kann jede dieser Einheiten als eine Anlage gelten, insbesondere wenn sie unabhängig voneinander erstellt werden und die von ihnen produzierte Elektrizität je separat gemessen wird.
+- Eine Photovoltaikanlage besteht aus einem oder mehreren Modulfeldern, einem oder mehreren Wechselrichtern und einem Messpunkt.
 
 ### 2 Vergütungssatz
 
@@ -1670,13 +2209,17 @@ Anhang 1.2*[^t-2]*
 
 [^annex12-lvlu1-lvl5-1]: [[AS 2010 809](https://fedlex.data.admin.ch/eli/oc/2010/127), [6125](https://fedlex.data.admin.ch/eli/oc/2010/875)Ziff. II;[2011 4067](https://fedlex.data.admin.ch/eli/oc/2011/575)Ziff. I und II; **2012** 607, 4555; **2013** 3631 Ziff. I und II; **2014** 611 Ziff. I und II, 3683 Ziff. I und II; **2015** 4781 Ziff. I und II; **2016** 4617 Ziff. I und II]
 
-Anhang 1.3*[^t-3]*
+### 6 Übergangsbestimmung zur Änderung vom 23. November 2022
+
+- Bei Photovoltaikanlagen, die vor dem 1. Januar 2023 in Betrieb genommen wurden, gilt die Anlagendefinition nach bisherigem Recht.
+
+Anhang 1.3[^t-3]
 
 (Art. 16, 17, 21, 22 und 23)
 
 ## Windenergieanlagen im Einspeisevergütungssystem
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)) und vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 
 ### 1 Anlagendefinition
 
@@ -1820,13 +2363,13 @@ Anhang 1.3*[^t-3]*
 
 [^annex13-lvlu1-lvl6-1]: [[AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)Ziff. I und II]
 
-Anhang 1.4*[^t-4]*
+Anhang 1.4[^t-4]
 
 (Art. 16, 17, 21, 22 und 23)
 
 ## Geothermieanlagen im Einspeisevergütungssystem
 
-[^t-4]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)) und vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+[^t-4]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 23. Okt. 2019 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Anlagendefinition
 
@@ -1834,16 +2377,16 @@ Anhang 1.4*[^t-4]*
 
 ### 2 Kategorien
 
-- 2\.1 Hydrothermale Geothermie
-- Hydrothermale Geothermieanlagen nutzen für die Produktion von Elektrizität und Wärme hauptsächlich natürlich vorkommendes Heisswasser aus Geothermie-Reservoiren.
+- 2\.1 Hydrothermale Geothermieanlagen
+- Hydrothermale Geothermieanlagen nutzen für die Produktion von Elektrizität und Wärme hauptsächlich natürlich vorkommendes Heisswasser aus Geothermiereservoiren.
 - 2\.2 Petrothermale Geothermieanlagen
-- Petrothermale Geothermieanlagen müssen für die Produktion von Elektrizität und Wärme das Geothermie-Reservoir vorgängig hydraulisch stimulieren.
+- Petrothermale Geothermieanlagen müssen für die Produktion von Elektrizität und Wärme das Geothermiereservoir vorgängig hydraulisch stimulieren.
 
 ### 3 Mindestanforderungen
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image2.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -1925,7 +2468,7 @@ Anhang 1.4*[^t-4]*
 
 [^annex14-lvlu1-lvl7-1]: [AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)Ziff. I und II
 
-Anhang 1.5*[^t-5]*
+Anhang 1.5[^t-5]
 
 (Art. 16, 17, 21, 22 und 23)
 
@@ -1968,7 +2511,7 @@ Anhang 1.5*[^t-5]*
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image3.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -1981,7 +2524,7 @@ Anhang 1.5*[^t-5]*
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20220401/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20230101/de/xml/image/image4.png)
 
 - b.
 
@@ -2143,13 +2686,13 @@ Anhang 1.5*[^t-5]*
 
 [^annex15-lvlu1-lvl9-1]: [[AS 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)Ziff. I und II]
 
-Anhang 2.1*[^t-6]*
+Anhang 2.1[^t-6]
 
-(Art. 36, 38 und 41–45)
+(Art. 7, 38, 41–43, 45 und 46*d*)
 
 ## Einmalvergütung für Photovoltaikanlagen
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)) und Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), vom 25. Nov. 2020 ([AS 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), Ziff. II der V vom 24. Nov. 2021 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Anlagendefinition
 
@@ -2202,7 +2745,32 @@ Anhang 2.1*[^t-6]*
 
 - 2\.5 Für Anlagen mit einer Leistung von ≥30 kW wird der Leistungsbeitrag anteilsmässig über die Leistungsklassen berechnet. Für integrierte Anlagen mit einer Leistung von ≥100 kW, die ab dem 1. Januar 2013 in Betrieb genommen wurden, wird in allen Leistungsklassen ausschliesslich auf die Ansätze für angebaute und freistehende Anlagen abgestellt.
 - 2\.6 Anlagen nach Artikel 7 Absatz 3 erhalten die Ansätze für integrierte Anlagen, sofern sie der Kategorie der integrierten Anlagen angehören.
-- 2\.7 Der Bonus für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad beträgt 250 Franken pro kW.
+- 2\.7 Neigungswinkel- und Höhenbonus
+- 2\.7.1 Der Bonus für integrierte Anlagen mit einem Neigungswinkel von mindestens 75 Grad beträgt 250 Franken pro kW.
+- 2\.7.2 Der Bonus für angebaute oder freistehende Anlagen mit einem Neigungswinkel von mindestens 75 Grad beträgt 100 Franken pro kW.
+- 2\.7.3 Der Bonus für Anlagen, die ab einer Höhe von 1500 m ü. M installiert werden, beträgt 250 Franken pro kW. Der Nachweis, dass die Anlage nicht an ein Gebäude angebaut oder in ein Gebäude integriert wurde, ist mittels Fotos zu erbringen.
+- 2\.8 Für integrierte Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen wurden, gelten die folgenden Ansätze:
+
+<table>
+<tr><th></th><th>Leistungsklasse</th><th></th></tr>
+<tr><td>Grundbeitrag (Fr.)</td><td>2–5 kW</td><td>200</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
+<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>440</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>330</td></tr>
+</table>
+
+- 2\.9 Für angebaute und freistehende Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen wurden, gelten die folgenden Ansätze:
+
+<table>
+<tr><th></th><th>Leistungsklasse</th><th></th></tr>
+<tr><td>Grundbeitrag (Fr.)</td><td>2–5 kW</td><td>200</td></tr>
+<tr><td></td><td>&gt;5 kW</td><td>0</td></tr>
+<tr><td>Leistungsbeitrag (Fr./kW)</td><td>&lt;30 kW</td><td>400</td></tr>
+<tr><td></td><td>30–&lt;100 kW</td><td>300</td></tr>
+<tr><td></td><td>≥100 kW</td><td>270</td></tr>
+</table>
+
+- 2\.10 Für neue Anlagen ohne Eigenverbrauch mit einer Leistung von weniger als 150 kW und für erhebliche Erweiterungen solcher Anlagen um weniger als 150 kW Leistung beträgt der Leistungsbeitrag 450 Franken pro kW, sofern die Anlage oder die Erweiterung ab dem 1. Januar 2023 in Betrieb genommen wurde. Ein Grundbeitrag wird für diese Anlagen nicht ausgerichtet.
 
 ### 3 Gesuch für kleine Anlagen
 
@@ -2221,7 +2789,8 @@ Anhang 2.1*[^t-6]*
   - i. das Abnahmeprotokoll mit detaillierter Beschreibung oder der Sicherheitsnachweis nach Artikel 37 NIV[^annex21-lvlu1-lvl3-1] inklusive Mess- und Prüfprotokolle;
   - j. die Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV[^annex21-lvlu1-lvl3-2];
   - k. für integrierte Anlagen: Fotos, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage nach Artikel 6 vorliegt;
-  - l. für Anlagen nach Artikel 7 Absatz 3: die Erklärung, dass der Betreiber auf die Vergütung des Leistungsbeitrags für die Leistung ab 100 kW verzichtet.
+  - l. für Anlagen nach Artikel 7 Absatz 3: die Erklärung, dass der Betreiber auf die Vergütung des Leistungsbeitrags für die Leistung ab 100 kW verzichtet;
+  - m. die Erklärung, ob die Anlage die gesamte produzierte Elektrizität einspeist oder ob vom Eigenverbrauch gemäss Artikel 16 EnG Gebrauch gemacht wird.
 
 [^annex21-lvlu1-lvl3-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
 [^annex21-lvlu1-lvl3-2]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
@@ -2238,7 +2807,8 @@ Anhang 2.1*[^t-6]*
   - d. geplante Leistung;
   - e. erwartete jährliche Produktion;
   - f. Zustimmung der Grundeigentümerinnen und Grundeigentümer;
-  - g. Produzentenkategorie.
+  - g. Produzentenkategorie;
+  - h. die Erklärung, ob die Anlage die gesamte produzierte Elektrizität einspeist oder ob vom Eigenverbrauch gemäss Artikel 16 EnG Gebrauch gemacht wird.
 
 - 4\.2 Inbetriebnahmemeldung
 -
@@ -2251,15 +2821,18 @@ Anhang 2.1*[^t-6]*
   - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV;
   - e. für integrierte Anlagen, die bis zum 31. Dezember 2012 in Betrieb genommen wurden: Fotos, die den Solarstromgenerator während des Baus und nach der Fertigstellung zeigen und aus denen ersichtlich wird, dass eine integrierte Anlage nach Artikel 6 vorliegt.
 
-Anhang 2.2
+Anhang 2.2[^t-7]
 
-(Art. 47, 53 und 65)
+(Art. 53 und 61)
 
 ## Investitionsbeitrag für Wasserkraftanlagen
 
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
 ### 1 Anlagendefinition
 
-- Die Definition einer Wasserkraftanlage richtet sich nach Anhang 1.1 Ziffer 1.
+- 1\.1 Eine Wasserkraftanlage ist eine selbstständig betreibbare technische Einrichtung zur Produktion von Elektrizität aus Wasserkraft.
+- 1\.2 Die in Artikel 9 genannten Anlagen gelten als selbständig betreibbar.
 
 ### 2 Inhalt des Gesuchs
 
@@ -2269,20 +2842,20 @@ Anhang 2.2
 
   - a. Angaben zur Anlage, insbesondere den Namen der berechtigten Person und den Standort der Zentrale, der Wasserfassungen, der Reservoire und der Wasserrückgabe;
   - b. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
-  - c. den Nachweis über die Gültigkeit des Wassernutzungsrechts;
-  - d. mittlere mechanische Bruttoleistung des Wassers;
-  - e. installierte Leistung vor und nach der Investition;
-  - f. erwartete Elektrizitätsproduktion in kWh pro Kalenderjahr vor und nach der Investition;
-  - g. erwartetes stündliches Produktionsprofil eines über die Nutzungsdauer der Anlage durchschnittlichen Jahres;
-  - h. mittlere Brutto-Fallhöhe in m vor und nach der Investition;
-  - i. mittlere Netto-Fallhöhe in m vor und nach der Investition;
-  - j. Ausbauwassermenge vor und nach der Investition;
-  - k. nutzbares Speichervolumen vor und nach der Investition;
-  - l. geplantes Inbetriebnahmedatum;
-  - m. für Erweiterungen oder Erneuerungen: Unterlagen, die aufzeigen, dass die Erweiterung oder Erneuerung erheblich ist;
-  - n. technische Beschreibung der Anlage;
+  - c. technische Beschreibung der Anlage;
+  - d. für Erweiterungen oder Erneuerungen: Unterlagen, die aufzeigen, dass die Erweiterung oder Erneuerung erheblich ist;
+  - e. mittlere mechanische Bruttoleistung des Wassers vor und nach der Investition;
+  - f. installierte Leistung vor und nach der Investition;
+  - g. Nutzwassermenge in m<sup>3</sup> gemittelt über je fünf volle Kalenderjahre vor und nach der Investition;
+  - h. Elektrizitätsproduktion in kWh pro Kalenderjahr vor und nach der Investition;
+  - i. mittlere Brutto-Fallhöhe in m vor und nach der Investition;
+  - j. mittlere Netto-Fallhöhe in m vor und nach der Investition;
+  - k. Ausbauwassermenge vor und nach der Investition;
+  - l. nutzbares Speichervolumen vor und nach der Investition;
+  - m. geplantes Baubeginn- und Inbetriebnahmedatum;
+  - n. Nachweis über die Gültigkeit des Wassernutzungsrechts und die rechtskräftige Baubewilligung;
   - o. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
-  - p. eine Berechnung der nicht amortisierbaren Mehrkosten.
+  - p. Angaben über anderweitige Finanzhilfen.
 
 ### 3 Nutzungsdauertabelle
 
@@ -2312,80 +2885,57 @@ Anhang 2.2
 <tr><td>Verwaltungsgebäude</td><td>50</td></tr>
 </table>
 
-Anhang 2.3*[^t-7]*
+Anhang 2.3[^t-8]
 
-(Art. 69, 74 und 87)
+(Art. 69, 74 und 83)
 
 ## Investitionsbeitrag für Biomasseanlagen
 
-[^t-7]: Bereinigt gemäss Ziff. II der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022, Ziff. 1.1 in Kraft seit 1. April 2022 ([AS 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-### 1 Kehrichtverbrennungsanlagen (KVA)
+### 1 Anlagendefinition
 
-- 1\.1 Energetische Mindestanforderung
-- Ein Investitionsbeitrag wird nur gewährt, wenn die neue Anlage oder die erhebliche Erweiterung eine energetische Nettoeffizienz (ENE) von mindestens 0,9 und die erhebliche Erneuerung eine ENE von mindestens 0,85 aufweist.
-- 1\.2 Inhalt des Gesuchs
+- Die Definition der Biomasseanlage richtet sich nach Anhang 1.5 Ziffer 1.
+
+### 2 Biogasanlagen
+
+- 2\.1 Allgemeine Anforderungen
+- Die allgemeinen Anforderungen richten sich nach Anhang 1.5 Ziffern 2.1.1 und 2.1.2.
+- 2\.2 Energetische Mindestanforderungen
+- Der Wärmebedarf der Energieanlage muss mit der Wärme der WKK-Anlage oder durch den Einsatz von erneuerbaren Energien gedeckt werden.
+- 2\.3 Inhalt des Gesuchs
 -
 
   Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
 
   - a. Angaben zur Anlage, insbesondere den Namen der berechtigten Person und den Standort;
-  - b Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
-  - c. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
-  - d. installierte elektrische Leistung (kWel) vor und nach der Investition;
-  - e. Brutto-Elektrizitäts- und Wärmeproduktion (kWh) pro Kalenderjahr vor und nach der Investition,
-  - f. Netto-Elektrizitätsproduktion sowie extern genutzte Wärme pro Kalenderjahr vor und nach der Investition;
-  - g. Berechnung der nicht amortisierbaren Mehrkosten;
-  - h. geplantes Inbetriebnahmedatum;
-  - i. Zustimmung der Grundeigentümerinnen und Grundeigentümer.
+  - b. Baubewilligung oder Nachweis der Baureife des Projekts, sofern keine Baubewilligung erforderlich ist;
+  - c. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
+  - d. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
+  - e. installierte elektrische Leistung (kWel) vor und nach der Investition;
+  - f. Brutto-Elektrizitäts- und Wärmeproduktion (kWh) pro Kalenderjahr vor und nach der Investition;
+  - g. Netto-Elektrizitätsproduktion sowie extern genutzte Wärme pro Kalenderjahr vor und nach der Investition;
+  - h. geplantes Inbetriebnahmedatum.
 
-1.3 Nutzungsdauertabelle
-
-- Für die Berechnung der nicht amortisierbaren Mehrkosten wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
+- 2\.4 Anlagenbestandteile
+- Die Kosten der folgenden Anlagenbestandteile gelten als anrechenbare Investitionskosten:
 
 <table>
-<tr><th>Anlagenbestandteil</th><th>Jahre</th></tr>
-<tr><td>Strahlungszüge, Kesseltrommel, Verdampfer, Eco, Konvektionsteil</td><td>15</td></tr>
-<tr><td>Überhitzer</td><td>10</td></tr>
-<tr><td>Turbine, Generator, Hydraulikanlage, Transformator, Kühlkreislauf (Turbine, Generator), Speisewasserpumpen (2 elektrisch, 1 Dampf), Speisewasserbehälter, Luftkondensator, Ejektoren, Kesselablassentspanner, Rohrleitungen und Armaturen, Druckreduzierstation, Kondensatsystem und Speisewasservorwärmung, Turbinenhauskran, Starkstromanschluss, Notstromaggregrat</td><td>25</td></tr>
-<tr><td>Leittechnik (EMSR)</td><td>15</td></tr>
+<tr><th>Anlagenbestandteil</th><th>Nutzungsdauer in Jahren</th></tr>
+<tr><td>Gebäudeteile Vorgrube, Zwischenlager, Lagerbehälter, Gärrestlager, Fermenter, Gasspeicher, Gebäudeanteil Blockheizkraftwerk (BHKW), Rohrleitungen, betriebseigene Gasleitungen bis 300 m, Isolationen, Armaturen</td><td>25</td></tr>
+<tr><td>Zerkleinerer, Querstromzerspaner, Siebe, Hygienisierung, Mischeinrichtung, Separation</td><td>15</td></tr>
+<tr><td>Gasaufbereitung, Wärmeauskopplung, Abgassystem, Druckluftsystem, Lüftungssystem</td><td>10</td></tr>
+<tr><td>BHKW inkl. Notkühlung, Mikrogasturbine, Druckanpassung, Generator, Transformator, Kondensatsystem, Notfackel</td><td>10</td></tr>
+<tr><td>Leittechnik (Elektrische Mess-, Steuerungs- und Regeltechnik, EMSR)</td><td>15</td></tr>
 </table>
 
-### 2 Klärgasanlagen
+### 3 Holzkraftwerke
 
-- 2\.1 Energetische Mindestanforderungen
-- Der Faulturm muss mit Abwärme geheizt werden und das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss dem Diagramm in Anhang 1.5 Ziffer 2.2.4 Buchstabe a erreichen.
-- 2\.2 Inhalt des Gesuchs
--
-
-  Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
-
-  - a. Angaben zur Anlage, insbesondere den Namen der berechtigten Person und den Standort);
-  - b. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
-  - c. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
-  - d. installierte elektrische Leistung (kWel) vor und nach der Investition;
-  - e. erwartete Elektrizitätsproduktion pro Kalenderjahr vor und nach der Investition;
-  - f. eine Berechnung der nicht amortisierbaren Mehrkosten;
-  - g. geplantes Inbetriebnahmedatum;
-  - h. Einwohnerwerte der Kläranlage;
-  - i. Zustimmung der Grundeigentümerinnen und Grundeigentümer.
-
-- 2\.3 Nutzungsdauertabelle
-- Für die Berechnung der nicht amortisierbaren Mehrkosten wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
-
-<table>
-<tr><td>Anlagenbestandteil</td><td>Jahre</td></tr>
-<tr><td>Gebäude Gasometer, Gebäudeanteil für BHKW, Gasmessraum, Leitungen</td><td>25</td></tr>
-<tr><td>BHKW inkl. Notkühlung</td><td>10</td></tr>
-<tr><td>Gasometer, Armaturen, Kiesfilter, Gasdruckerhöhungsgebläse, Gaskühlung, Gasreinigung, Siloxanentfernung</td><td>15</td></tr>
-<tr><td>Leittechnik (EMSR)</td><td>15</td></tr>
-</table>
-
-### 3 Holzkraftwerke von regionaler Bedeutung
-
-- 3\.1 Energetische Mindestanforderungen
-- Für Blockheizkraftwerks-Anlagen gelten die energetischen Mindestanforderungen nach Anhang 1.5 Ziffer 2.2.4 und für Dampfprozesse diejenigen nach Anhang 1.5 Ziffer 2.2.3. Wenn gleichzeitig mit dem Bau oder der Erweiterung der Anlage ein Fernwärmenetz oder eine andere Einrichtung für die Nutzung der Wärme errichtet oder erweitert wird, müssen die energetischen Mindestanforderungen im Zeitpunkt der definitiven Festsetzung des Investitionsbeitrags nicht erfüllt sein; die energetischen Mindestanforderungen müssen aber voraussichtlich innerhalb einer angemessenen Frist erfüllt werden.
-- 3\.2 Inhalt des Gesuchs
+- 3\.1 Allgemeine Anforderungen
+- Die allgemeinen Anforderungen richten sich nach Anhang 1.5 Ziffern 2.1.1 und 2.1.2.
+- 3\.2 Energetische Mindestanforderungen
+- Ein Investitionsbeitrag wird nur gewährt, wenn die neue Anlage oder die erhebliche Erweiterung die energetischen Mindestanforderungen nach Anhang 1.5 Ziffer 2.2.3 erfüllt. Wenn gleichzeitig mit dem Bau oder der Erweiterung der Anlage ein Fernwärmenetz oder eine andere Einrichtung für die Nutzung der Wärme errichtet oder erweitert wird, müssen die energetischen Mindestanforderungen im Zeitpunkt der definitiven Festsetzung des Investitionsbeitrags nicht erfüllt sein; die energetischen Mindestanforderungen müssen aber innerhalb einer angemessenen Frist erfüllt werden.
+- 3\.3 Inhalt des Gesuchs
 -
 
   Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
@@ -2396,33 +2946,356 @@ Anhang 2.3*[^t-7]*
   - d. installierte elektrische Leistung (kWel) vor und nach der Investition;
   - e. Brutto-Elektrizitäts- und Wärmeproduktion (kWh) pro Kalenderjahr vor und nach der Investition;
   - f. Netto-Elektrizitätsproduktion sowie extern genutzte Wärme pro Kalenderjahr vor und nach der Investition;
-  - g. eine Berechnung der nicht amortisierbaren Mehrkosten;
-  - h. geplantes Inbetriebnahmedatum;
-  - i. Zustimmung der Grundeigentümerinnen und Grundeigentümer.
+  - g. geplantes Inbetriebnahmedatum.
 
-- 3\.3 Nutzungsdauertabelle
-- Für die Berechnung der nicht amortisierbaren Mehrkosten wird von der folgenden Nutzungsdauer der einzelnen Anlagenbestandteile ausgegangen:
+- 3\.4 Anlagenbestandteile
+- Die Kosten der folgenden Anlagenbestandteile gelten als anrechenbare Investitionskosten:
 
 <table>
-<tr><td>Anlagenbestandteil</td><td>Jahre</td></tr>
+<tr><th>Anlagenbestandteil</th><th>Nutzungsdauer in Jahren</th></tr>
 <tr><td>Gebäudeteile, Silo, Krananlagen</td><td>25</td></tr>
-<tr><td>Feuerung, Brennstofftransport, Entaschung, Luftventilatoren, Luftkanäle, Rauchgasventilator, Ascheförderung, Strahlungszüge, Kesseltrommel, Verdampfer, Eco, Rauchgasreinigung, ORC, Holzvergaser</td><td>15</td></tr>
+<tr><td>Feuerung, Brennstofftransport, Entaschung, Luftventilatoren, Luftkanäle, Rauchgasventilator, Ascheförderung, Strahlungszüge, Kesseltrommel, Verdampfer, Eco, Rauchgasreinigung, Organic Ranking Cycle, Holzvergaseranlage</td><td>15</td></tr>
 <tr><td>Überhitzer</td><td>10</td></tr>
 <tr><td>Turbine, Generator, Hydraulikanlage, Transformator, Kühlkreislauf (Turbine, Generator), Speisewasserpumpen, Speisewasserbehälter, Luftkondensator, Rohrleitungen und Armaturen, Druckreduzierstation, Kondensatsystem, Speisewasservorwärmung, Starkstromanschluss</td><td>25</td></tr>
 <tr><td>Leittechnik (EMSR)</td><td>15</td></tr>
 </table>
 
-Anhang 3
+### 4 Kehrichtverbrennungsanlagen
 
-(Art. 66)
+- 4\.1 Energetische Mindestanforderung
+- Ein Investitionsbeitrag wird nur gewährt, wenn die neue Anlage oder die erhebliche Erweiterung eine energetische Nettoeffizienz (ENE) von mindestens 0,9 und die erhebliche Erneuerung eine ENE von mindestens 0,85 aufweist.
+- 4\.2 Inhalt des Gesuchs
+-
+
+  Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
+
+  - a. Angaben zur Anlage, insbesondere den Namen der berechtigten Person und den Standort;
+  - b. Baubewilligung oder Nachweis der Baureife des Projekts, sofern keine Baubewilligung erforderlich ist;
+  - c. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
+  - d. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
+  - e. installierte elektrische Leistung (kWel) vor und nach der Investition;
+  - f. Brutto-Elektrizitäts- und Wärmeproduktion (kWh) pro Kalenderjahr vor und nach der Investition;
+  - g. Netto-Elektrizitätsproduktion sowie extern genutzte Wärme pro Kalenderjahr vor und nach der Investition;
+  - h. geplantes Inbetriebnahmedatum.
+
+- 4\.3 Anlagenbestandteile
+- Die Kosten der folgenden Anlagenbestandteile gelten als anrechenbare Investitionskosten:
+
+<table>
+<tr><th>Anlagenbestandteil</th><th>Nutzungsdauer in Jahren</th></tr>
+<tr><td>Strahlungszüge, Kesseltrommel, Verdampfer, Eco, Konvektionsteil</td><td>15</td></tr>
+<tr><td>Überhitzer</td><td>10</td></tr>
+<tr><td>Turbine, Generator, Hydraulikanlage, Transformator, Kühlkreislauf (Turbine, Generator), Speisewasserpumpen (2 elektrisch, 1 Dampf), Speisewasserbehälter, Luftkondensator, Ejektoren, Kesselablassentspanner, Rohrleitungen und Armaturen, Druckreduzierstation, Kondensatsystem und Speisewasservorwärmung, Turbinenhauskran, Starkstromanschluss, Notstromaggregrat</td><td>25</td></tr>
+<tr><td>Leittechnik (EMSR)</td><td>15</td></tr>
+</table>
+
+### 5 Schlammverbrennungsanlagen
+
+- 5\.1 Anforderungen an den Schlamm und die Verbrennung
+- Es darf nur entwässerter Schlamm oder biogener Abfall, der mit erneuerbarer Energie getrocknet wurde, eingesetzt werden. Als Zusatzbrennstoffe dürfen nur erneuerbare Energieträger eingesetzt werden.
+- 5\.2 Für die energetischen Mindestanforderungen, Inhalt des Gesuchs und Nutzungsdauertabelle gelten dieselben Anforderungen wie für KVA.
+
+### 6 Klärgas- und Deponiegasanlagen
+
+- 6\.1 Energetische Mindestanforderungen
+- Der Faulturm muss mit Abwärme geheizt werden.
+- 6\.2 Inhalt des Gesuchs
+-
+
+  Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
+
+  - a. Angaben zur Anlage, insbesondere den Namen der berechtigten Person und den Standort;
+  - b. Baubewilligung oder Nachweis der Baureife des Projekts, sofern keine Baubewilligung erforderlich ist;
+  - c. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
+  - d. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten;
+  - e. installierte elektrische Leistung (kWel) vor und nach der Investition;
+  - f. erwartete Elektrizitätsproduktion pro Kalenderjahr vor und nach der Investition;
+  - g. geplantes Inbetriebnahmedatum;
+  - h. Einwohnerwerte der Kläranlage.
+
+- 6\.3 Anlagenbestandteile
+- Die Kosten der folgenden Anlagenbestandteile gelten als anrechenbare Investitionskosten:
+
+<table>
+<tr><th>Anlagenbestandteil</th><th>Nutzungsdauer in Jahren</th></tr>
+<tr><td>Gebäude Gasometer, Gebäudeanteil für BHKW, Gasmessraum, Leitungen</td><td>25</td></tr>
+<tr><td>BHKW inkl. Notkühlung</td><td>10</td></tr>
+<tr><td>Gasometer, Armaturen, Kiesfilter, Gasdruckerhöhungsgebläse, Gaskühlung, Gasreinigung, Siloxanentfernung, Notfackel</td><td>15</td></tr>
+<tr><td>Leittechnik (EMSR)</td><td>15</td></tr>
+</table>
+
+Anhang 2.4[^t-9]
+
+(Art. 87*d*)
+
+## Investitionsbeitrag für Windenergieanlagen
+
+[^t-9]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Anlagendefinition
+
+- Die Definition der Windenergieanlage richtet sich nach Anhang 1.3 Ziffer 1.
+
+### 2 Inhalt des Gesuchs
+
+-
+
+  Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
+
+  - a. Angaben zur Anlage, insbesondere Angaben über den Perimeter des Projekts, den Standort der geplanten Windenergieanlage und den Namen der berechtigten Person;
+  - b. Projektbeschrieb mit Zeitplan der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
+  - c. technische Beschreibung der Anlage, insbesondere Angaben zum geplanten Windenergieanlagentyp und zum geplanten Netzanschluss (Netzbetreiber, Netzebene, Planskizze);
+  - d. Ertragsgutachten, das die Anforderungen nach Ziffer 3.3 erfüllt;
+  - e. detaillierte Auflistung der Investitionskosten, aufgeteilt in anrechenbare und nicht anrechenbare Kosten.
+
+### 3 Mindestanforderungen an Windmessungen, Windmessdaten und Ertragsgutachten
+
+- 3\.1 Mindestanforderungen an Windmessungen für den Standort einer neuen Anlage
+-
+
+  Bei Windmessungen sind mindestens folgende Anforderungen einzuhalten:
+
+  - a. Der Windmessmast ist innerhalb des Parkperimeters zu errichten.
+  - b. Die Höhe des Windmessmastes muss mindestens 2/3 der Nabenhöhe der Windenergieanlage oder mindestens 100 m betragen. Ist der Windmessmast kleiner, so müssen ergänzende LiDAR- oder SODAR-Messungen im Parkperimeter durchgeführt werden.
+  - c. Die Messung ist mit Windrichtungssensoren und kalibrierten Windgeschwindigkeitssensoren auf mindestens zwei Höhen vorzunehmen, wobei der oberste Messpunkt höchstens 2 m unter der Mastspitze liegen darf.
+  - d. Die Windmessung muss während mindestens 12 Monaten ohne Unterbruch durchgeführt werden.
+  - e. Die Windmessdaten müssen über mindestens 80 Prozent der Zeit verfügbar sein.
+
+- 3\.2 Mindestanforderungen an Windmessungen von bestehenden Windenergieanlagen (Betriebsdaten)
+-
+
+  Bei Windmessdaten von bestehenden Windenergieanlagen sind folgende Anforderungen einzuhalten:
+
+  - a. Die Windenergieanlage muss sich im Parkperimeter befinden.
+  - b. Die Windmessdaten müssen auf Nabenhöhe der Windturbine gemessen werden.
+  - c. Die Windmessdaten müssen für einen Zeitraum von mindestens 12 Monate ohne Unterbruch vorliegen.
+  - d. Die Windmessdaten müssen über mindestens 80 Prozent der Zeit verfügbar sein.
+
+- 3\.3 Mindestanforderungen an Ertragsgutachten
+-
+
+  Ertragsgutachten haben mindestens folgende Informationen zu enthalten:
+
+  - a. Dokumentation der Windmessung oder der Betriebsdaten;
+  - b. Anzahl der geplanten Windenergieanlagen sowie deren Dimensionen und Nennleistung;
+  - c. Ertragsprognosen für alle geplanten Anlagenstandorte mit dem geeignetsten Windenergieanlagentyp.
+
+Anhang 2.5[^t-10]
+
+(Art. 87*r* und 87*t*)
+
+## Investitionsbeiträge für die Prospektion und die Erschliessung eines Geothermiereservoirs
+
+[^t-10]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Definitionen
+
+- 1\.1 Erkundung
+- Die Erkundung des Untergrunds erfolgt mittels Prospektion und Erschliessung und dient dem Nachweis eines Geothermiereservoirs, das genutzt werden soll.
+- 1\.2 Prospektion
+- Die Prospektion umfasst Untersuchungen, die der Charakterisierung des Untergrunds eines vermuteten Geothermiereservoirs und der Bestimmung des obertägigen Standortes sowie des unterirdischen Landepunktes einer Explorationsbohrung dienen.
+- 1\.3 Erschliessung
+- Die Erschliessung umfasst die Exploration mittels Bohrungen für das Zutage-fördern von Heisswasser sowie für eine allfällige Rückführung des entnommenen Wassers in das Geothermiereservoir.
+
+### 2 Anrechenbare Investitionskosten
+
+- 2\.1
+
+  Im Rahmen der Prospektion sind insbesondere Kosten anrechenbar für:
+
+  - a. die Akquisition neuer Geodaten im Prospektionsgebiet;
+  - b. Arbeiten, die für die Akquisition neuer Geodaten anfallen;
+  - c. die Analyse und Interpretation der Geodaten.
+
+- 2\.2
+
+  Im Rahmen der Erschliessung sind insbesondere Kosten anrechenbar für:
+
+  - a. die Vorbereitung, die Erstellung und den Abbau des Bohrplatzes;
+  - b. Bohrungen einschliesslich Verrohrung, Zementation und Komplettierung für die geplanten Produktions-, Injektions- und Horchbohrungen;
+  - c. Bohrloch- und Reservoirstimulationen;
+  - d. Bohrlochtests;
+  - e. Bohrlochmessungen inklusive Instrumentierung;
+  - f. Zirkulationstests;
+  - g. Analysen vorgefundener Substanzen;
+  - h. die geologische Begleitung, Datenanalyse und Interpretation.
+
+- 2\.3 Nicht anrechenbar sind die Kosten, die im Rahmen von behördlichen Abläufen anfallen.
+
+### 3 Verfahren für einen Prospektionsbeitrag
+
+- 3\.1 Gesuch
+-
+
+  Das Gesuch muss Auskunft geben über die technischen, ökonomischen, rechtlichen, sicherheits- und umweltschutzrelevanten sowie die organisatorischen Belange des Projekts, insbesondere über:
+
+  - a. den Stand des heutigen Wissens im Erkundungsgebiet mittels einer Aufarbeitung aller bestehenden Geodaten, Analysen und Interpretationen;
+  - b. die erdwissenschaftlichen Prospektionen, die für die Bestimmung des Standorts und des Landungspunkts der Explorationsbohrung geplant sind, die der Auffindung und Charakterisierung des Geothermiereservoirs dienen und die darüber informieren, wie hoch die Wahrscheinlichkeit ist, ein solches Reservoir zu finden;
+  - c. mögliche Nutzungskonzepte bei erfolgreicher Prospektion sowie vorläufige Wirtschaftlichkeitsberechnungen;
+  - d. die detaillierten Terminpläne und Kostenschätzungen mit Abweichungen von höchstens 20 Prozent;
+  - e. die Massnahmen, die geplant sind zur Erfassung von Gefahren und Risiken für Gesundheit, Arbeits- und Betriebssicherheit und Umwelt, insbesondere Trinkwasserressourcen, und zur Minderung der Risiken auf ein Niveau, das möglichst gering und vernünftigerweise praktikabel ist.
+
+- 3\.2 Prüfung des Gesuchs
+- 3\.2.1 Das BFE ernennt eine Vertreterin oder einen Vertreter des Bundesamtes für Landestopografie (swisstopo) insbesondere für die Beurteilung der erdwissenschaftlichen Projektkomponenten und des Mehrwerts für die Erkundung der Schweiz in das unabhängige Expertengremium.
+- 3\.2.2
+
+  Das Expertengremium prüft und beurteilt das Gesuch anhand der Auskünfte nach Ziffer 3.1 und insbesondere hinsichtlich:
+
+  - a. der geplanten Prospektionsarbeiten und des Projektmanagements;
+  - b. des technischen und qualitativen Standes der geplanten Arbeiten und des Innovationsgehalts;
+  - c. der Frage, um wie viel die Prospektionsarbeiten die Wahrscheinlichkeit erhöhen, ein Geothermiereservoir mittels einer Explorationsbohrung vorzufinden;
+  - d. des Mehrwerts für die Erkundung des Untergrunds der Schweiz nach Geothermiereservoiren;
+  - e. des Managements der Risiken für die Gesundheit, die Arbeits- und Betriebssicherheit und die Umwelt.
+
+- 3\.2.3
+
+  Beurteilt das Expertengremium das Projekt positiv, so gibt es dem BFE insbesondere eine Empfehlung ab über:
+
+  - a. die zu erwartende Erhöhung der Wahrscheinlichkeit, ein Geothermiereservoir vorzufinden;
+  - b. die Fristen für die Projektetappen;
+  - c. die Höhe des zu gewährenden Prospektionsbeitrags;
+  - d. die Einsetzung einer Vertreterin oder eines Vertreters des swisstopo als Projektbegleiterin oder als Projektbegleiter.
+
+- 3\.3 Vertrag
+-
+
+  Kann der Prospektionsbeitrag gewährt werden, so werden im Vertrag nach Artikel 87*t* Absatz 1 insbesondere folgende Punkte geregelt:
+
+  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
+  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
+  - c. Umfang, Bedingungen und Fälligkeiten des Prospektionsbeitrags;
+  - d. die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird; vorbehalten bleiben kantonale Monopole;
+  - e. die Offenlegung aller finanzieller Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach den Artikeln 34 und 34*a* notwendig sind;
+  - f. Gründe, die zur Vertragsauflösung führen;
+  - g. weitere Auflagen.
+
+- 3\.4 Projektdurchführung und Projektabschluss
+- 3\.4.1 Die Projektantin oder der Projektant führt die geplanten Prospektionsarbeiten durch.
+- 3\.4.2 Die Projektbegleiterin oder der Projektbegleiter begleitet das Projekt während der Prospektionsarbeiten und evaluiert die Ergebnisse der Arbeiten der Prospektion. Sie oder er kann zur Erfüllung ihrer oder seiner Aufgaben das Expertengremium beiziehen. Sie oder er erstattet dem BFE und dem Expertengremium regelmässig Bericht.
+- 3\.4.3 Werden die Meilensteine oder die Termine nach Ziffer 3.3 Buchstabe a nicht eingehalten, so kann das BFE den Vertrag unverzüglich auflösen.
+- 3\.4.4 Nach Abschluss der Arbeiten evaluiert das Expertengremium zuhanden des BFE die Ergebnisse der Prospektionsarbeiten und beurteilt die Ergebnisse hinsichtlich der erwarteten Erhöhung der Wahrscheinlichkeit, ein vermutetes Geothermiereservoir vorzufinden.
+
+### 4 Verfahren für eine Unterstützung der Erschliessung
+
+- 4\.1 Gesuch
+-
+
+  Das Gesuch muss Auskunft geben über die technischen, ökonomischen, rechtlichen, sicherheits- und umweltschutzrelevanten sowie organisatorischen Belange des Projekts, insbesondere über:
+
+  - a. das detaillierte Bohr-, Komplettierungs-, Mess- und Testprogramm aller geplanten Bohrungen;
+  - b. die detaillierten Terminpläne und Kostenschätzungen mit Abweichungen von höchstens 20 Prozent;
+  - c. die erwarteten Eigenschaften des vermuteten Geothermiereservoirs, insbesondere die Temperatur im Bohrloch auf Höhe des Reservoirs und die Transporteigenschaften des Reservoirs;
+  - d. die geplante Verwendung der Bohrungen und des Geothermiereservoirs, falls die Ergebnisse nicht den Erwartungen entsprechen;
+  - e. die geplanten Massnahmen zur Erfassung der Gefahren und der Risiken für Gesundheit, Arbeits- und Betriebssicherheit und Umwelt, insbesondere für Trinkwasserressourcen, und die geplanten Massnahmen für die Minderung dieser Risiken auf ein Niveau, das möglichst gering und vernünftigerweise praktikabel ist;
+  - f. die Innovationen, die geplant sind, um die Geothermiereservoire in der Schweiz erfolgversprechend und zuverlässig zu erschliessen;
+  - g. den Stellenwert der Erschliessungsarbeiten in Bezug auf die Erkundung des Untergrunds der Schweiz nach Geothermiereservoiren;
+  - h. die vorgesehene juristische Form sowie den Namen oder die Firma der Betreibergesellschaft;
+  - i. die Finanzierung und die Verwaltungskosten der Erschliessungs-, Errichtungs-, Ausbau-, Betriebs- und Rückbauphasen;
+  - j. die Inwertsetzung des Geothermiereservoirs anhand eines Nutzungskonzepts, die voraussichtlichen Strom- und Wärmeabnehmerinnen und -abnehmer sowie deren Einbindung in das Projekt und die erwarteten Minderungen der CO<sub>2</sub>-Emissionen.
+
+- 4\.2 Prüfung des Gesuchs
+- 4\.2.1 Das BFE ernennt in das unabhängige Expertengremium eine Vertreterin oder einen Vertreter des swisstopo insbesondere für die Beurteilung der erdwissenschaftlichen Projektkomponenten und des Mehrwerts für die Erkundung der Schweiz.
+- 4\.2.2
+
+  Das Expertengremium prüft und beurteilt das Gesuch anhand der Auskünfte nach Ziffer 4.1 und insbesondere hinsichtlich:
+
+  - a. der erwarteten Eigenschaften des vermuteten Geothermiereservoirs, insbesondere der Temperatur im Bohrloch auf Höhe des Reservoirs und der Transporteigenschaften des Reservoirs;
+  - b. des technischen und qualitativen Standes der geplanten Arbeiten und des Innovationsgehalts;
+  - c. des Mehrwerts für die Erkundung des Untergrunds der Schweiz nach Geothermiereservoiren;
+  - d. des Managements der Risiken für Gesundheit, Arbeits- und Betriebssicherheit sowie Umwelt.
+
+- 4\.2.3
+
+  Beurteilt das Expertengremium das Gesuch positiv, so gibt es dem BFE insbesondere eine Empfehlung ab über:
+
+  - a. die erwartete Temperatur des Reservoirs im Bohrloch auf Höhe des Reservoirs und die Transporteigenschaften des Reservoirs;
+  - b. die Fristen für die Projektetappen;
+  - c. die Höhe des zu gewährenden Erschliessungsbeitrags;
+  - d. die Einsetzung einer unabhängigen Fachperson als Projektbegleiterin oder Projektbegleiter.
+
+- 4\.3 Vertrag
+-
+
+  Kann der Erschliessungsbeitrag gewährt werden, so werden im Vertrag nach Artikel 87*t* Absatz 1 insbesondere folgende Punkte geregelt:
+
+  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
+  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
+  - c. Umfang, Bedingungen und Fälligkeiten des Erschliessungsbeitrags;
+  - d. die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird; vorbehalten bleiben kantonale Monopole;
+  - e. die Offenlegung aller finanziellen Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach den Artikeln 34 und 34*a* notwendig sind;
+  - f. Gründe, die zur Vertragsauflösung führen;
+  - g. weitere Auflagen.
+
+- 4\.4 Projektdurchführung und Projektabschluss
+- 4\.4.1 Die Projektantin oder der Projektant führt die geplanten Erschliessungsarbeiten durch.
+- 4\.4.2 Die Projektbegleiterin oder der Projektbegleiter begleitet das Projekt während der Erschliessungsarbeiten und evaluiert die Ergebnisse der Erschliessungsarbeiten, insbesondere hinsichtlich Temperatur und Transporteigenschaften des Reservoirs. Sie oder er kann zur Erfüllung ihrer oder seiner Aufgaben das Expertengremium beiziehen. Sie oder er erstattet dem BFE und dem Expertengremium regelmässig Bericht.
+- 4\.4.3 Werden die Meilensteine oder die Termine nach Ziffer 4.3 Buchstabe a nicht eingehalten, so kann das BFE den Vertrag unverzüglich auflösen.
+- 4\.4.4 Spätestens sechs Monate nach Abschluss der Erschliessungsarbeiten evaluiert das Expertengremium die Ergebnisse der Erschliessungsarbeiten.
+- 4\.4.5 Das BFE teilt der Projektantin oder dem Projektanten das Resultat der Prüfung, insbesondere dasjenige hinsichtlich des Geothermiereservoirs mit.
+
+### 5 Zugang zu den und Nutzung der Geodaten
+
+- 5\.1 Die Gesuchstellerin oder der Gesuchsteller stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
+- 5\.2
+
+  Die Geodaten dürfen genutzt werden:
+
+  - a. vom swisstopo gemäss den Zielsetzungen des Geoinformationsgesetzes vom 5. Oktober 2007[^annex25-lvlu1-lvl5-1] und der Landesgeologieverordnung vom 21. Mai 2008[^annex25-lvlu1-lvl5-2];
+  - b. von den Standortkantonen gemäss den jeweiligen kantonalen Regelungen.
+
+- 5\.3 swisstopo stellt die primären und die prozessierten primären Geodaten innert 24 Monaten nach Abschluss der Prospektion und innert 12 Monaten nach Abschluss der Erschliessung der Öffentlichkeit zur Verfügung.
+
+[^annex25-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^annex25-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+
+Anhang 2.6[^t-11]
+
+(Art. 87*r* und 87*t*)
+
+## Investitionsbeitrag für Geothermieanlagen
+
+[^t-11]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Anlagendefinition
+
+- Die Definition einer Geothermieanlagen richtet sich nach Anhang 1.4 Ziffer 1.
+
+### 2 Mindestanforderungen
+
+- Die Mindestanforderungen richten sich nach Anhang 1.4 Ziffer 3.
+
+### 3 Inhalt des Gesuchs
+
+-
+
+  Das Gesuch hat mindestens folgende Angaben und Unterlagen zu enthalten:
+
+  - a. Angaben zur Anlage, insbesondere den Namen des Betreibers und den Standort der Anlage;
+  - b. Zustimmung der Grundeigentümerinnen und Grundeigentümer;
+  - c. elektrische und thermische Nennleistung;
+  - d. projektierte jährliche Brutto- und Nettoproduktion von Elektrizität und Wärme;
+  - e. projektierte Wärmenutzung und Zustimmung der voraussichtlichen Wärmeabnehmerinnen und Wärmeabnehmer;
+  - f. Rückkühlmedium;
+  - g. Anlagenplan;
+  - h. Monitoring und Reporting-Plan, insbesondere betreffend Seismizität, Reservoirzustand und Produktivität;
+  - i. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen für die Ausrichtung eines Investitionsbeitrags erfüllt werden;
+  - j. detaillierte Terminpläne und Kostenschätzungen mit Abweichungen von höchstens 20 Prozent.
+
+Anhang 3[^t-12]
+
+(Art. 90)
 
 ## Bestimmung des durchschnittlichen Kapitalkostensatzes
 
-### 1 Abweichung von Ziffer 1.1 Anhang 1 StromVV****
+[^t-12]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-[^annex3-lvlu1-lvl1-1]
+### 1 Kalkulatorischer Zinssatz
+
+- Der kalkulatorische Zinssatz entspricht dem durchschnittlichen Kapitalkostensatz. Die Berechnung und die Bekanntgabe richten sich unter Vorbehalt der in Ziffer 3 genannten Abweichungen nach Artikel 13 Absätze 3 Buchstabe b und 3<sup>bis</sup> in Verbindung mit Anhang 1 der Stromversorgungsverordnung vom 14. März 2008[^annex3-lvlu1-lvl1-1] (StromVV).
 
 [^annex3-lvlu1-lvl1-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+
+### [1*a*](https://www.fedlex.admin.ch/eli/cc/2017/766/de) [Abweichung von Ziffer 1.1 Anhang 1 StromVV](https://www.fedlex.admin.ch/eli/cc/2017/766/de)
 
 - Der Eigenkapitalkostensatz und der Fremdkapitalkostensatz werden je mit 50 Prozent gewichtet.
 
@@ -2471,3 +3344,168 @@ Anhang 3
   - j. 2.625 Prozent oder mehr 2,75 Prozent
 
 - 4\.2 Die Grenzwerte, deren Über- oder Unterschreitung zu berücksichtigen ist, liegen bei 0,625, 0,875, 1,125, 1,375, 1,625, 1,875, 2,125, 2,375 und 2,625 Prozent.
+
+Anhang 4[^t-13]
+
+(Art. 63, 83, 87*m*, 87*z*<sup>ter</sup>)
+
+## Berechnung der ungedeckten Kosten
+
+[^t-13]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Allgemeine Berechnungsgrundlagen
+
+- 1\.1 Grundsätze
+- 1\.1.1 Die ungedeckten Kosten gemäss Artikel 29 Absatz 3 Buchstabe b<sup>bis</sup> EnG entsprechen dem Nettobarwert aller anrechenbaren Geldabflüsse und aller anzurechnenden Geldzuflüsse.
+- 1\.1.2 Die anrechenbaren Geldabflüsse und anzurechnenden Geldzuflüsse sind mit dem kalkulatorischen Zinssatz gemäss Anhang 3 zu diskontieren.
+- 1\.2. Anrechenbare Geldabflüsse
+- 1\.2.1
+
+  Die anrechenbaren Geldabflüsse setzen sich zusammen aus:
+
+  - a. den anrechenbaren Investitionskosten;
+  - b. den Kosten für den Anlagenbetrieb und den Unterhalt sowie den übrigen Betriebskosten (jährlich maximal 2 Prozent der anrechenbaren Investitionskosten);
+  - c. den Ersatzinvestitionen.
+
+- 1\.2.2 Die anrechenbaren Geldabflüsse sind über die verbleibende Nutzungsdauer des langlebigsten Anlagenbestandteils zu berücksichtigen.
+- 1\.3 Anzurechnende Geldzuflüsse
+- Als anzurechnende Geldzuflüsse gelten sämtliche Geldzuflüsse, die aufgrund der Investition erzielt werden können.
+
+### 2 Berechnung bei Wasserkraftanlagen
+
+- 2\.1
+
+  Bei Wasserkraftanlagen sind zusätzlich zu Ziffer 1.2 folgende Geldabflüsse anrechenbar:
+
+  - a. Kosten für die Energie, die allfällige Zubringerpumpen benötigen, zu Marktpreisen;
+  - b. Kosten für den Einstauersatz;
+  - c. Wasserzinsen;
+  - d. direkte Steuern.
+
+- 2\.2 Benötigt eine Wasserkraftanlage eine Konzession, so sind die anrechenbaren Geldabflüsse in Abweichung von Ziffer 1.2.2 über die verbleibende Konzessionsdauer zu berücksichtigen.
+- 2\.3 Die anzurechnenden Geldzuflüsse berechnen sich gestützt auf ein wirtschaftlich optimiertes stündliches Profil oder gestützt auf Standardproduktionsprofile für die Nettoproduktion über die verbleibende Konzessionsdauer.
+- 2\.4 Investitionen werden über ihre Nutzungsdauer linear abgeschrieben, und allfällige Restwerte werden am Ende der Konzessionsdauer als Geldzuflüsse berücksichtigt.
+
+Anhang 5[^t-14]
+
+(Art. 96*b,* 96*e* und 96*h*)
+
+## Betriebskostenbeitrag für Biomasseanlagen
+
+[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+
+### 1 Anlagendefinition
+
+- Die Definition der Biomasseanlage richtet sich nach Anhang 1.5 Ziffer 1.
+
+### 2 Mindestanforderungen
+
+- Die Mindestanforderungen richten sich nach Anhang 1.5 Ziffer 2.
+
+### 3 Beitragssatz
+
+- 3\.1 Berechnung des Beitragssatzes
+- 3\.1.1 Der Beitragssatz setzt sich aus einem Grundbeitrag und, sofern die Voraussetzungen erfüllt sind, aus einem Bonus nach Ziffer 3.3, 3.4 oder 3.5 zusammen. Der Beitragssatz wird jährlich neu berechnet.
+- 3\.1.2 Für die Berechnung der Sätze für den Grundbeitrag und die Boni ist die äquivalente Leistung der Anlage massgebend. Diese entspricht dem Quotienten aus der Nettoproduktion in kWh und der Stundensumme des jeweiligen Kalenderjahres. Für das Jahr, in dem die Anlage in Betrieb genommen oder stillgelegt wird, werden bei der Bestimmung der äquivalenten Leistung die vollen Stunden vor der Inbetriebnahme oder nach der Stilllegung der Anlage abgezogen.
+- 3\.1.3 Die Sätze des Grundbeitrags und der Boni werden anteilsmässig nach den Leistungsklassen gemäss den Ziffern 3.2–3.5 berechnet.
+- 3\.1.4 Werden in einem Holzkraftwerk auch problematische Holzabfälle verwendet, die gemäss Artikel 2 Absatz 2 Buchstabe a der Verordnung vom 22. Juni 2005[^annex5-lvlu1-lvl3-1] über den Verkehr mit Abfällen als Sonderabfälle bezeichnet sind, so wird der Anteil der Elektrizität, der aufgrund der Verwendung dieser problematischen Holzabfälle erzielt wurde, mit dem halben Beitragssatz vergütet. Der Anteil berechnet sich aufgrund der verwendeten Energieinhalte.
+- 3\.2 Grundbeitragssatz
+- Der Satz für den Grundbeitrag beträgt je Leistungsklasse:
+
+<table>
+<tr><th>Leistungsklasse</th><th>Grundbeitrag (Rp./kWh)</th></tr>
+<tr><td>≤ 50 kW</td><td>13</td></tr>
+<tr><td>≤100 kW</td><td>12</td></tr>
+<tr><td>≤500 kW</td><td>11</td></tr>
+<tr><td>≤ 5 MW</td><td>10</td></tr>
+<tr><td>&gt; 5 MW</td><td>8</td></tr>
+</table>
+
+- 3\.3 Bonus für Holzkraftwerke
+- 3\.3.1 Der Bonus für Holzkraftwerke wird gewährt, wenn in einer Anlage Holz als einziger Energieträger eingesetzt wird.
+- 3\.3.2 Der Satz für den Bonus für Holzkraftwerke beträgt je Leistungsklasse:
+
+<table>
+<tr><th>Leistungsklasse</th><th>Holzbonus (Rp./kWh)</th></tr>
+<tr><td>≤ 50 kW</td><td>3</td></tr>
+<tr><td>≤100 kW</td><td>2</td></tr>
+<tr><td>≤500 kW</td><td>2</td></tr>
+<tr><td>≤ 5 MW</td><td>1</td></tr>
+<tr><td>&gt; 5 MW</td><td>1</td></tr>
+</table>
+
+- 3\.4 Bonus für landwirtschaftliche Biomasse mit maximal 20 Prozent Co-Substraten
+- 3\.4.1
+
+  Der Bonus für landwirtschaftliche Biomasse mit maximal 20 Prozent Co-Substraten wird gewährt, wenn:
+
+  - a. Hofdünger, insbesondere Gülle und Mist aus der Tierhaltung, oder Hofdünger zusammen mit Ernterückständen, Reststoffen aus der landwirtschaftlichen Produktion oder deklassierten landwirtschaftlichen Produkten eingesetzt werden;
+  - b. der Anteil nicht landwirtschaftlicher Co-Substrate ≤ 20 Prozent, bezogen auf Frischmasse, beträgt; und
+  - c. keine Energiepflanzen eingesetzt werden.
+
+- 3\.4.2 Organische Hilfsstoffe, die zur Behebung von Prozessstörungen eingesetzt werden, werden bis zu einem Anteil von 0,2 Prozent der gesamten eingesetzten Frischmasse pro Jahr nicht als nicht landwirtschaftliche Co-Substrate angerechnet. Ihr Einsatz muss dokumentiert und begründet werden.
+- 3\.4.3 Der Satz für den Bonus für landwirtschaftliche Biomasse mit maximal 20 Prozent Co-Substraten beträgt je Leistungsklasse:
+
+<table>
+<tr><th>Leistungsklasse</th><th>Bonus max. 20 Prozent Co-Substrate (Rp./kWh)</th></tr>
+<tr><td>≤ 50 kW</td><td>8</td></tr>
+<tr><td>≤100 kW</td><td>7</td></tr>
+<tr><td>≤500 kW</td><td>6</td></tr>
+<tr><td>≤ 5 MW</td><td>2</td></tr>
+<tr><td>&gt; 5 MW</td><td>0</td></tr>
+</table>
+
+- 3\.5 Bonus für landwirtschaftliche Biomasse ohne Co-Substrate
+- 3\.5.1
+
+  Der Bonus für landwirtschaftliche Biomasse ohne Co-Substrate wird gewährt, wenn:
+
+  - a. Hofdünger, insbesondere Gülle und Mist aus der Tierhaltung, oder Hofdünger zusammen mit Ernterückständen, Reststoffen aus der landwirtschaftlichen Produktion oder deklassierten landwirtschaftlichen Produkten eingesetzt werden; und
+  - b. keine nicht landwirtschaftlichen Co-Substrate und Energiepflanzen eingesetzt werden.
+
+- 3\.5.2 Organische Hilfsstoffe, die zur Behebung von Prozessstörungen eingesetzt werden, dürfen bis zu einem Anteil von 0,2 Prozent der gesamten eingesetzten Frischmasse pro Jahr verwendet werden. Ihr Einsatz muss dokumentiert und begründet werden.
+- 3\.5.3 Der Satz für den Bonus für landwirtschaftliche Biomasse ohne Co-Substrate beträgt je Leistungsklasse:
+
+<table>
+<tr><td>Leistungsklasse</td><td>Bonus 0 Prozent Co-Substrate (Rp./kWh)</td></tr>
+<tr><td>≤ 50 kW</td><td>16</td></tr>
+<tr><td>≤100 kW</td><td>16</td></tr>
+<tr><td>≤500 kW</td><td>8</td></tr>
+<tr><td>≤ 5 MW</td><td>0</td></tr>
+<tr><td>&gt; 5 MW</td><td>0</td></tr>
+</table>
+
+[^annex5-lvlu1-lvl3-1]: [SR 814.610](https://fedlex.data.admin.ch/eli/cc/2005/551)
+
+### 4 Teilzahlungen und Abrechnung
+
+- Die Vergütung wird per Ende des Kalenderjahres aufgrund des Vergütungssatzes für das betreffende Jahr und der erfassten Elektrizität abgerechnet. Vorherige Teilzahlungen werden aufgrund des Beitragssatzes des Vorjahres geleistet, bei Anlagen, die noch nicht ein volles Kalenderjahr in Betrieb sind, aufgrund der Planungswerte nach Ziffer 5.1.
+
+### 5 Gesuchsverfahren
+
+- 5\.1 Gesuch
+-
+
+  Das Gesuch hat mindestens folgende Angaben zu enthalten:
+
+  - a. Angaben zur Anlage, insbesondere den Namen des Betreibers und den Standort der Anlage;
+  - b. Projektbeschrieb, der aufzeigt, dass sämtliche Voraussetzungen erfüllt werden;
+  - c. Nennleistung elektrisch und thermisch;
+  - d. erwartete Brutto-Elektrizitäts- und Wärmeproduktion (kWh), erwartete Netto-Elektrizitätsproduktion und erwartete extern genutzte Wärme (kWh) pro Kalenderjahr;
+  - e. Art und Menge der energetisch eingesetzten Biomassen;
+  - f. Art, Menge und durchschnittlicher unterer Heizwert des Zwischenproduktes;
+  - g. Inbetriebnahmemeldung oder Nachweis der Baureife und geplantes Inbetriebnahmedatum;
+  - h. Angabe über laufende oder frühere Förderungen gemäss EnFV.
+
+- 5\.2 Inbetriebnahmemeldung
+-
+
+  Die Inbetriebnahmemeldung hat mindestens folgende Angaben zu enthalten:
+
+  - a. Inbetriebnahmedatum;
+  - b. allfällige Änderungen gegenüber Ziffer 5.1, sofern die Anlage bei Gesuchseinreichung noch nicht in Betrieb war;
+  - c. Abnahmeprotokoll mit detaillierter Beschreibung oder Sicherheitsnachweis nach Artikel 37 NIV[^annex5-lvlu1-lvl5-1] inklusive Mess- und Prüfprotokollen;
+  - d. Beglaubigung der Anlagedaten gemäss Artikel 2 Absatz 2 HKSV[^annex5-lvlu1-lvl5-2].
+
+[^annex5-lvlu1-lvl5-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annex5-lvlu1-lvl5-2]: [SR 730.010.1](https://fedlex.data.admin.ch/eli/cc/2017/764)
