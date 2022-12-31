@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 1985 sur la protection de l'air (OPair)"
 short: OPair
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20230101-fr-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/fr"
 
 (OPair)
 
-du 16 décembre 1985 (État le 1<sup>er</sup> octobre 2022)
+du 16 décembre 1985 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -40,7 +40,7 @@ arrête:
 Elle régit:
 
 - a. la limitation préventive des émissions dues aux installations qui causent des pollutions atmosphériques, au sens de l’art. 7 de la loi;
-- [tab] a<sup>bis</sup>.[^1-1] l’incinération de déchets en plein air;
+- a<sup>bis</sup>.[^1-1] l’incinération de déchets en plein air;
 - b. les normes applicables aux combustibles et aux carburants;
 - c. la charge polluante admissible de l’air (valeurs limites d’immission);
 - d. la procédure à suivre lorsque les immissions sont excessives.
@@ -290,11 +290,16 @@ Dans le cas de mesures permanentes des émissions, les valeurs limites sont cons
 
 #### Art. 16
 
-**Conduites d’évitement et pannes d’exploitation**
+**Conduites d’évitement, pannes d’exploitation et indisponibilité des produits chimiques destinés à l’épuration des effluents gazeux[^16-1]**
 
 <sup>1</sup> Une conduite d’évitement servant à la protection des installations d’épuration des effluents gazeux ne peut être utilisée qu’avec l’assentiment de l’autorité.
 
 <sup>2</sup> Si l’utilisation d’une conduite d’évitement ou une panne d’exploitation entraîne des émissions importantes, l’autorité décide des mesures à prendre.
+
+<sup>3</sup> Pour les installations stationnaires, elle peut fixer des limitations des émissions moins sévères, si l’indisponibilité des produits chimiques nécessaires à l’exploitation des installations d’épuration des effluents gazeux est prouvée. Toute limitation moins sévère des émissions est exclue pour les substances hautement toxiques et cancérigènes.[^16-2]
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
+[^16-2]: Introduit par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
 
 ### Section 4 Émissions dues aux véhicules et aux infrastructures destinées aux transports
 
@@ -753,7 +758,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 1986.
 
 <sup>1</sup> En dérogation à l’art. 10, l’autorité accorde des délais d’assainissement de six à dix ans pour les installations qui doivent être assainies conformément à la modification du 23 juin 2004, mais qui satisfont déjà aux limitations préventives des émissions au sens des anciennes dispositions de l’ordonnance. Les dispositions de l’art. 10, al. 2, let. a et c, sont réservées.
 
-<sup>2</sup> ...[^u5-2]
+<sup>2</sup> …[^u5-2]
 
 <sup>3</sup> L’essence pour moteurs et l’huile diesel, qui répondent aux anciennes exigences selon l’annexe 5 de la présente ordonnance[^u5-3], peuvent être mises dans le commerce à partir d’entrepôts agréés, de réserves obligatoires ou d’entrepôts de l’armée jusqu’au 31 décembre 2008.
 
@@ -864,7 +869,9 @@ Annexe 1[^t-1]
 
 - a. aux installations spécifiques au sens de l’annexe 2;
 - b. aux installations de combustion au sens de l’annexe 3;
-- c. à l’expertise-type d’installations de combustion selon l’annexe 4.
+- c.[^annex1-lvlu1-lvl1-1] à l’expertise-type d’installations de combustion selon l’annexe 4.
+
+[^annex1-lvlu1-lvl1-1]: Suite à la mod. de l’annexe 4 cette let. est devenue sans objet (voir [RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 2 Définitions
 
@@ -1280,7 +1287,7 @@ Annexe 2[^t-2]
 
 ## Limitation complémentaire et dérogatoire des émissions pour certaines installations spéciales
 
-[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
+[^t-2]: Mise à jour par le ch. II des O du 20 nov. 1991 ([RO 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), du 15 déc. 1997 ([RO 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), l’annexe 2 ch. 5 de l’O du 23 juin 1999 sur les produits phytosanitaires ([RO 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), le ch. II de l’O du 30 avr. 2003 ([RO 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), l’annexe 3 ch. II 5 de l’O du 22 juin 2005 sur les mouvements de déchets ([RO 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), l’annexe 6 ch. 7 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), le ch. I de l’O du 3 mars 2017 ([RO 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), l’erratum du 24 avr. 2018 ([RO 2018 1651](https://fedlex.data.admin.ch/eli/oc/2018/242)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II de l’O du 20 oct. 2021 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) et le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)). Voir aussi la disp. trans de la mod. du 12 fév. 2020 ci-devant.
 
 ### Table des matières
 
@@ -1294,7 +1301,7 @@ Annexe 2[^t-2]
 - 22 Installations Claus
 - 23 Installations pour la production de chlore
 - 24 Installations pour la production de 1,2-dichloréthane et de chlorure de vinyle
-- 25 ...
+- 25 …
 - 26 Fabrication et préparation de produits phytosanitaires
 - 27 Installations pour la fabrication de noir de fumée
 - 28 Installations pour la fabrication de carbone (carbone cuit) ou d’électrographite
@@ -1330,7 +1337,7 @@ Annexe 2[^t-2]
 - 81 Installations dans lesquelles des produits sont directement traités au moyen des effluents gazeux de la combustion
 - 82 Moteurs à combustion stationnaires
 - 83 Turbines à gaz
-- 84 Installations pour la fabrication de panneaux d’aggloméré
+- 84 Installations pour la fabrication de panneaux d’aggloméré et de panneaux en fibres de bois
 - 85 Nettoyage chimique des vêtements
 - 86 Fours crématoires
 - 87 Installations de traitement de surfaces
@@ -1344,7 +1351,7 @@ Annexe 2[^t-2]
 
 <sup>1</sup> Le ch. 81 n’est pas applicable aux fours à ciment.
 
-<sup>2</sup> Les déchets ne peuvent être valorisés dans des fours à ciment que s’ils s’y prêtent selon l’art. 24 de l’ordonnance du 4 décembre 2015 sur les déchets[^annex2-lvlu1-lvl1-lvl11-lvl111-1].
+<sup>2</sup> Les déchets ne peuvent être valorisés dans des fours à ciment que s’ils s’y prêtent selon l’art. 24 de l’ordonnance du 4 décembre 2015 sur les déchets (OLED)[^annex2-lvlu1-lvl1-lvl11-lvl111-1].
 
 [^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
@@ -1455,7 +1462,7 @@ Les valeurs limites d’émission se rapportent aux teneurs suivantes en oxygèn
 - a. verre creux: 2,5 kg par tonne de verre produit
 - b. autres verres: 6,5 kg par tonne de verre produit
 
-### 134 ...
+### 134 …
 
 ### 135 Oxydes de soufre
 
@@ -1556,7 +1563,7 @@ Dans le cas de l’électrolyse à l’alcali et au chlore selon le procédé pa
 
 <sup>2</sup> Les limitations des émissions de 1,2-dichloréthane et de chlorure de vinyle au sens de l’annexe 1 sont valables indépendamment des débits massiques qui y sont fixes.
 
-### 25 ...
+### 25 …
 
 ### 26 Fabrication et préparation de produits phytosanitaires
 
@@ -1787,7 +1794,7 @@ Les valeurs limites d’émission se rapportent à une teneur en oxygène des ef
 
 Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront pas les valeurs qui ressortent du diagramme ci-après.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image1.png)
 
 ### 474 Mesures
 
@@ -1904,7 +1911,7 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 
 Les dispositifs pour l’entreposage de lisier et de produits méthanisés liquides doivent être équipés d’une couverture durablement efficace afin de limiter les émissions d’ammoniac et d’odeurs. L’OFEV et l’Office fédéral de l’agriculture établissent ensemble des recommandations en la matière.
 
-### 552 ...
+### 552 …
 
 [^annex2-lvlu1-lvl5-lvl55-lvl552-1]
 
@@ -2026,7 +2033,7 @@ Lorsqu’il s’agit d’une installation dans laquelle des produits sont trait�
 
 [^annex2-lvlu1-lvl7-lvl71-lvl714-1]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 
-### 715 ...
+### 715 …
 
 ### 716 Surveillance
 
@@ -2060,7 +2067,7 @@ On entreposera dans des locaux fermés ou des conteneurs, les déchets dégagean
 
 <sup>1</sup> Le présent chiffre s’applique aux installations pour l’incinération ou pour la décomposition thermique de bois usagé et de déchets des matières suivantes, mélangés ou non à du bois de chauffage au sens de l’annexe 5:
 
-- a. bois usagé selon l’annexe 5, ch. 31, al. 2, let. a;
+- a. bois usagé selon l’annexe 5, ch. 31, al. 2, let. a, s’il remplit les exigences de l’art. 14*a*, al. 2, OLED;
 - b. papier et carton;
 - c. autres déchets dont l’incinération produit des émissions similaires à celles des déchets mentionnés aux let. a et b.
 
@@ -2261,30 +2268,60 @@ Les émissions d’oxydes de soufre, exprimées en anhydride sulfureux, ne dépa
 
 <sup>2</sup> Pour les turbines à gaz de groupes électrogènes de secours qui sont utilisés tout au plus pendant 50 heures par année, l’autorité fixe la limitation préventive des émissions conformément à l’art. 4; l’annexe 1 et l’annexe 2, ch. 833, 834 et 836, ne sont pas applicables.
 
-### 84 Installations pour la fabrication de panneaux d’aggloméré
+### 84 Installations pour la fabrication de panneaux d’aggloméré et de panneaux en fibres de bois
 
 ### 841 Champ d’application
 
-Le présent chiffre s’applique aux installations pour la fabrication à sec de panneaux d’aggloméré.
+Le présent chiffre s’applique aux installations pour la fabrication à sec de panneaux d’aggloméré et de panneaux en fibres de bois.
 
-### 842 Poussières
+### 842 Applicabilité du ch. 81
 
-Les émissions sous forme de poussières ne dépasseront pas les valeurs suivantes:
+<sup>1</sup> Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
 
-- a. dans les effluents gazeux des séchoirs à copeaux: 50 mg/m<sup>3</sup>
-- b. dans les effluents gazeux des ponceuses: 10 mg/m<sup>3</sup>
+<sup>2</sup> En dérogation à l’al. 1, le bois usagé au sens de l’annexe 5, ch. 31, al. 2, let. a, peut être valorisé s’il se prête à la valorisation thermique visée à l’art. 14*a*, al. 2, OLED.
 
-### 843 Substances organiques
+### 843 Grandeur de référence
+
+Les valeurs limites d’émission se rapportent aux teneurs en oxygène suivantes dans les effluents gazeux:
+
+- a. séchoirs directs à copeaux: 18 % (% vol)
+- b. séchoirs directs à copeaux dont les effluents gazeux sont traités en commun avec ceux des presses: 18 % (% vol)
+
+### 844 Poussières
+
+Les émissions sous forme de poussières ne doivent pas dépasser les valeurs suivantes:
+
+- a. séchoirs à copeaux ou à fibres: 10 mg/m<sup>3</sup>
+- b. presses: 10 mg/m<sup>3</sup>
+- c. traitement mécanique des panneaux de bois: 5 mg/m<sup>3</sup>
+
+### 845 Substances organiques
 
 <sup>1</sup> Les limitations des émissions au sens de l’annexe 1, ch. 7, ne sont pas applicables.
 
-<sup>2</sup> Les émissions de substances organiques sous forme de gaz ou de vapeurs, mesurées à une température de 150 °C, sont exprimées en carbone total.
+<sup>2</sup> Les émissions de substances organiques sous forme de gaz ou de vapeur sont exprimées en carbone total et ne doivent pas dépasser les valeurs suivantes:
 
-<sup>3</sup> Elles doivent être limitées dans la mesure où le permettent la technique et l’exploitation et où cela est économiquement supportable, mais elles ne dépasseront en aucun cas 350 g par tonne de bois utilisé (absolument sec).
+- a. séchoirs à copeaux: 120 mg/m<sup>3</sup>
+- b. presses: 70 mg/m<sup>3</sup>
+- [tab] <sup>3</sup> S’agissant des séchoirs à fibres, les émissions de substances organiques sous forme de gaz ou de vapeur, exprimées en carbone total, doivent être limitées dans la mesure où le permettent la technique et l’exploitation, et où cela est économiquement supportable; elles ne dépasseront en aucun cas 100 mg/m<sup>3</sup>.
 
-### 844 Applicabilité du ch. 81
+### 846 Formaldéhyde
 
-Lorsqu’il s’agit d’une installation dans laquelle des produits sont traités directement au moyen des effluents gazeux de la combustion, on appliquera en outre le ch. 81.
+Les émissions de formaldéhyde ne doivent pas dépasser 10 mg/m<sup>3</sup>.
+
+### 847 Oxydes d’azote
+
+Les émissions d’oxydes d’azote (monoxyde d’azote et dioxyde d’azote), exprimées en dioxyde d’azote, ne doivent pas dépasser les valeurs suivantes:
+
+- a. séchoirs directs à copeaux: 150 mg/m<sup>3</sup>
+- b. séchoirs directs à fibres: 50 mg/m<sup>3</sup>
+
+### 848 Surveillance
+
+Il convient de mesurer et de relever en permanence la teneur des effluents gazeux:
+
+- a. en composés organiques sous forme de gaz;
+- b. en oxydes d’azote.
 
 ### 85 Nettoyage des textiles
 
@@ -2362,7 +2399,7 @@ En dérogation à l’art. 13, al. 3, les installations de combustion suivantes 
 
 - a. les installations de combustion fonctionnant moins de 100 heures pendant une année civile;
 - b. les installations de combustion dont la puissance calorifique ne dépasse pas 12 kW et qui servent uniquement à chauffer des locaux individuels;
-- [tab] c. et d ...
+- [tab] c. et d …
 - e. les chauffages de locaux individuels alimentés au charbon;
 - f. les chauffages de locaux individuels alimentés aux combustibles solides, pour autant qu’ils soient alimentés exclusivement au bois de chauffage au sens de l’annexe 5, ch. 31, al. 1, let. a, b ou d, ch. 1.
 
@@ -2409,7 +2446,7 @@ En dérogation à l’art. 13, al. 3, les installations de combustion suivantes 
 
 Lorsqu’il n’est pas possible, sur le plan technique et sur le plan de l’exploitation, ni économiquement supportable, que des installations de combustion dans lesquelles la température du fluide caloporteur est supérieure à 150 °C respectent les valeurs limites d’émission des oxydes d’azote (150 mg/m<sup>3</sup> selon le ch. 411), l’autorité peut fixer des limites moins sévères. Les émissions d’oxydes d’azote, exprimées en dioxyde d’azote, ne dépasseront cependant pas 250 mg/m<sup>3</sup>.
 
-### 413 ...
+### 413 …
 
 ### 414 Normes énergétiques
 
@@ -2660,14 +2697,14 @@ Si une même installation de combustion est alimentée alternativement avec diff
 
 <sup>2</sup> La valeur limite du mélange se calcule selon la formule suivante:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image3.png)</sub> + ... + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image4.png)</sub>
 
 Signification:
 
 - G<sub>m</sub> = valeur limite pondérée du mélange de combustibles, rapportée à une teneur en oxygène B<sub>1</sub>
 - G<sub>1</sub>, G<sub>2</sub> ... G<sub>n</sub> = valeur limite d’émission des différents combustibles[^annex3-lvlu1-lvl8-lvl82-1]
 - E<sub>1</sub>, E<sub>2</sub> ... E<sub>n</sub> = énergie fournie par combustible et par heure
-- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + .... E<sub>n</sub>
+- E<sub>tot</sub> = E<sub>1</sub> + E<sub>2</sub> + ... E<sub>n</sub>
 - B<sub>1</sub>, B<sub>2</sub> ... B<sub>n</sub> = grandeur de référence (teneur en oxygène à laquelle sont rapportées les valeurs limites d’émission pour le premier, le deuxième et les autres combustibles)
 
 <sup>3</sup> On procédera par analogie à l’al. 2 pour calculer le taux d’émission déterminant du soufre.
@@ -2678,7 +2715,7 @@ Annexe 4[^t-4]
 
 (art. 3, al. 2, let. c)
 
-## Exigences relatives aux installations de combustion, aux machines de chantier et à leurs systèmes de filtres à particules ainsi qu’aux machines et appareils équipés d’un moteur à combustion
+## Exigences relatives aux machines de chantier et à leurs systèmes de filtres à particules ainsi qu’aux machines et appareils équipés d’un moteur à combustion
 
 [^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 juin 2004 ([RO 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)). Mise à jour par le ch. II des O du 4 juil. 2007 ([RO 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), du 19 sept. 2008 ([RO 2008 4639](https://fedlex.data.admin.ch/eli/oc/2008/648)), du 22 oct. 2008 ([RO 2008 5163](https://fedlex.data.admin.ch/eli/oc/2008/721)), du 18 juin 2010 ([RO 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), les ch. I et II de l’O du 14 oct. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), le ch. III 1 de l’O du 22 juin 2016 ([RO 2016 2479](https://fedlex.data.admin.ch/eli/oc/2016/395)), le ch. II de l’O du 11 avr. 2018 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)) et le ch. I de l’O du 12 fév. 2020 ([RO 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)) et le ch. II de l’O du 20 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Voir aussi les disp. trans. des mod. du 4 juil. 2007 et du 19 sept. 2008, ci-devant.
 
@@ -3084,13 +3121,13 @@ Si les circonstances le justifient, l’autorité exigera des cheminées plus é
 
 Diagramme 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image5.png)
 
 ### Détermination du facteur de correction g pour les zones de construction et de végétation
 
 Diagramme 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/fr/xml/image/image6.png)
 
 I = hauteur des obstacles déterminants les plus élevés (ch. 5)
 

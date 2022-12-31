@@ -4,11 +4,11 @@ title: Ordinance of 16 December 1985 on Air Pollution Control (OAPC)
 short: OAPC
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: en
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20230101-en-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAPC)
 
-of 16 December 1985 (Status as of 1 October 2022)
+of 16 December 1985 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -292,11 +292,16 @@ In the case of continuous measurements, emission limit values shall be regarded 
 
 #### Art. 16
 
-**Bypass lines and malfunctions**
+**Bypass lines and malfunctions and lack of availability of chemicals for flue gas cleaning[^16-1]**
 
 <sup>1</sup> A bypass line may only be used to protect flue gas cleaning systems with the approval of the authorities.
 
 <sup>2</sup> If significant emissions could occur as a result of the use of bypass lines or during malfunctions, the authorities shall specify what measures are to be taken.
+
+<sup>3</sup> The authorities may specify lower emission limits for fixed installations if it is proven that the chemicals required to operate the flue gas cleaning systems are not available. Lower emission limits are not permitted for highly toxic or carcinogenic substances.[^16-2]
+
+[^16-1]: Amended by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2023 ([AS 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
+[^16-2]: Inserted by No I of the O of 16 Dec. 2022, in force since 1 Jan. 2023 ([AS 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
 
 ### Section 4 Emissions from Vehicles and Transport Infrastructure
 
@@ -865,7 +870,9 @@ Annex 1[^t-1]
 
 - a. particular installations, as specified in Annex 2;
 - b. combustion installations, as specified in Annex 3;
-- c. type-approval of combustion installations, as specified in Annex 4.
+- c.[^annex1-lvlu1-lvl1-1] type-approval of combustion installations, as specified in Annex 4.
+
+[^annex1-lvlu1-lvl1-1]: As a result of the amendment to Annex 4 this let. is obsolete ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 2 Definitions
 
@@ -1277,7 +1284,7 @@ Annex 2[^t-2]
 
 ## Additional or different emission limitation requirements for particular installations
 
-[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018, ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) and No II of the O of 20 Oct. 2021, in force since 1 Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). See also the transitional provision to the Amendment of 12.2.2020 above.
+[^t-2]: Revised by No II of the O of 20 Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), of 15 Dec. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Annex 2 No 5 of the O of 23 June 1999 on Plant Protection Products ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), No II of the O of 30 Apr. 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Annex 3 No II 5 of the O of 22 June 2005 on Movements of Waste ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), No II of the O of July 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), of the O of 18 June 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), of 14 Oct. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Annex 6 No 7 of the Waste Ordinance of 4 Dec. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), No I of the O of 3 March 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), No II of the O of 11 April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), No I of the O of 12 Feb. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), No II of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) and No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)). See also the transitional provision to the Amendment of 12.2.2020 above.
 
 ### Contents
 
@@ -1373,7 +1380,7 @@ Annex 2[^t-2]
 
 83 Gas turbines
 
-84 Installations for the production of particle board
+84 Installations for the production of wood particle board and wood fibre board
 
 85 Dry cleaning (clothes)
 
@@ -1391,7 +1398,7 @@ Annex 2[^t-2]
 
 <sup>1</sup> Number 81 does not apply to cement kilns.
 
-<sup>2</sup> Waste may only be used in cement kilns if it is suitable for this purpose in accordance with Article 24 of the Waste Ordinance of 4 December 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1].
+<sup>2</sup> Waste may only be used in cement kilns if it is suitable for this purpose in accordance with Article 24 of the Waste Ordinance of 4 December 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] (ADWO).
 
 [^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
@@ -1836,7 +1843,7 @@ Emissions of nitrogen oxides, expressed as nitrogen dioxide, must not exceed the
 
 **Diagram:**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image1.png)
 
 ### 474 Measurements
 
@@ -2109,7 +2116,7 @@ Strong-smelling waste and waste which emits dangerous vapours shall be stored in
 
 <sup>1</sup> The provisions of this Number apply to installations in which waste made up of the following types of substances is incinerated or thermally decomposed alone or together with wood fuels as specified in Annex 5:
 
-- a. waste wood as specified in Annex 5 Number 31 paragraph 2 letter a;
+- a. waste wood as specified in Annex 5 Number 31 paragraph 2 letter a provided it meets the requirements of Article 14*a* paragraph 2 ADWO;
 - b. paper and cardboard;
 - c. other waste which, when incinerated, gives off emissions similar to those produced by the waste listed under letters a and b.
 
@@ -2310,30 +2317,61 @@ Emissions of sulphur oxides, expressed as sulphur dioxide, must not exceed 120 m
 
 <sup>2</sup> For gas turbines of emergency generators which are operated for no more than 50 hours per year, the authorities shall specify preventive emission limitation requirements in accordance with Article 4; Annex 1 and Annex 2 Numbers 833, 834 and 836 do not apply.
 
-### 84 Installations for the production of particle board
+### 84 Installations for the production of wood particle board and wood fibre board
 
 ### 841 Scope
 
-The provisions of this Number apply to installations in which particle board is produced using a dry process.
+The provisions of this Number apply to installations in which wood particle board and wood fibre board are produced using a dry process.
 
-### 842 Dust
+### 842 Relation to Number 81
+
+<sup>1</sup> The provisions of Number 81 also apply in the case of installations in which products are treated by direct contact with furnace flue gases.
+
+<sup>2</sup> In derogation from paragraph 1, waste wood in accordance with Annex 5 Number 31 paragraph 2 letter a may be recycled if it is suitable for thermal recycling in accordance with Article 14*a* paragraph 2 der ADWO.
+
+### 843 Reference value
+
+Emission limit values are based on the following flue gas oxygen contents:
+
+- a. in the case of directly heated wood chip dryers 18 per cent (% vol)
+- b. in the case of directly heated wood chip dryers whose flue gases are treated together with the flue gases from the presses 18 per cent (% vol)
+
+### 844 Dust
 
 Dust emissions must not exceed the following limit values:
 
-- a. in the flue gas of chip dryers: 50 mg/m<sup>3</sup>
-- b. in flue gases of grinding machines: 10 mg/m<sup>3</sup>
+- a. in the case of wood chip and fibre dryers 10 mg/m<sup>3</sup>
+- b. in the case of presses 10 mg/m<sup>3</sup>
+- c. in the mechanical processing of wooden boards 5 mg/m<sup>3</sup>
 
-### 843 Organic substances
+### 845 Organic substances
 
 <sup>1</sup> The emission limitation requirements specified in Annex 1 Number 7 do not apply.
 
-<sup>2</sup> Emissions of gaseous and vaporous organic substances, measured at a temperature of 150 °C, shall be expressed as total carbon.
+<sup>2</sup> Emissions of gaseous and vaporous organic substances expressed as total carbon may not exceed the following values:
 
-<sup>3</sup> These emissions shall be limited as far as is technically and operationally feasible and economically acceptable, but at least to 350 g per tonne of wood used (absolutely dry).
+- a. in the case of wood chip dryers 120 mg/m<sup>3</sup>
+- b. in the case of presses 70 mg/m<sup>3</sup>
 
-### 844 Relation to Number 81
+<sup>3</sup> In the case of fibre dryers, emissions of gaseous and vaporous organic substances, expressed as total carbon, shall be limited as far as is technically and operationally feasible and economically acceptable, but at least to 100 mg/m<sup>3</sup>.
 
-The provisions of Number 81 also apply to installations in which products are treated by direct contact with furnace flue gases.
+### 846 Formaldehyde
+
+Emissions of formaldehyde may not exceed 10 mg/m<sup>3</sup>.
+
+### 847 Nitrogen oxides
+
+Emissions of nitrogen oxides (nitrogen monoxide and nitrogen dioxide), expressed as nitrogen dioxide, may not exceed the following values:
+
+- a. in the case of directly heated wood chip dryers 150 mg/m<sup>3</sup>
+- b. in the case of directly heated wood fibre dryers 50 mg/m<sup>3</sup>
+
+### 848 Monitoring
+
+The flue gas content of the following shall be continuously measured and recorded:
+
+- a. gaseous organic substances;
+- b. nitrogen oxides.
 
 ### 85 Dry cleaning (clothes)
 
@@ -2721,7 +2759,7 @@ If a single installation operates alternately on different kinds of fuel, the em
 
 <sup>2</sup> The composite limit value is calculated according to the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image2.png)
 
 where:
 
@@ -2978,6 +3016,10 @@ The sulphur content of gases as specified in Number 41 letters a and b must not 
 <tr><td>– *tert*-Butyl alcohol</td><td>% *(V/V)*</td><td>–</td><td>15.0</td><td></td></tr>
 <tr><td>– Isobutyl alcohol</td><td>% *(V/V)*</td><td>–</td><td>15.0</td><td></td></tr>
 <tr><td>– Ethers (containing 5 or more carbon atoms)</td><td>% *(V/V)*</td><td>–</td><td>22.0</td><td></td></tr>
+</table>
+
+<table>
+<tr><th>Property</th><th>Unit</th><th>Minimum value<sup>a</sup></th><th>Maximum value<sup>a</sup></th><th>Test method<sup>b</sup></th></tr>
 <tr><td>– Other oxygenates<sup>e</sup></td><td>% *(V/V)*</td><td>–</td><td>15.0</td><td></td></tr>
 <tr><td>– Sulphur content</td><td>mg/kg</td><td>–</td><td>10.0</td><td>EN ISO 20846, EN ISO 20884</td></tr>
 <tr><td>– Lead content</td><td>mg/l</td><td>–</td><td>5.0</td><td>EN 237</td></tr>
@@ -3156,15 +3198,15 @@ g (–) = Correction factor for buildings and vegetation
 
 Diagram 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image3.png)
 
 ### Determination of the correction factor for buildings and vegetation
 
 Diagram 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image4.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/en/xml/image/image5.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/en/xml/image/image5.png)</sub>
 
 - I = Height of the highest significant obstacle area (Number 5)
 - H<sub>1</sub> = Minimum stack height for flat, obstacle-free terrain (Number 4)

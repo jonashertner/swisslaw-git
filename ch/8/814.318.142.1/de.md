@@ -4,11 +4,11 @@ title: Luftreinhalte-Verordnung vom 16. Dezember 1985 (LRV)
 short: LRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20230101-de-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/de"
 
 (LRV)
 
-vom 16. Dezember 1985 (Stand am 1. Oktober 2022)
+vom 16. Dezember 1985 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -290,11 +290,16 @@ Bei kontinuierlicher Messung der Emissionen gelten die Emissionsgrenzwerte als e
 
 #### Art. 16
 
-**Umgehungsleitungen und Betriebsstörungen**
+**Umgehungsleitungen, Betriebsstörungen und fehlende Verfügbarkeit von Chemikalien zur Abgasreinigung[^16-1]**
 
 <sup>1</sup> Eine Umgehungsleitung zum Schutze von Abgasreinigungsanlagen darf nur mit Zustimmung der Behörde verwendet werden.
 
 <sup>2</sup> Können durch die Verwendung von Umgehungsleitungen oder bei Betriebsstörungen erhebliche Emissionen auftreten, so legt die Behörde fest, welche Massnahmen zu treffen sind.
+
+<sup>3</sup> Die Behörde kann für stationäre Anlagen mildere Emissionsbegrenzungen festlegen, wenn nachgewiesen ist, dass die für den Betrieb der Abgasreinigungsanlagen notwendigen Chemikalien nicht verfügbar sind. Mildere Emissionsbegrenzungen sind ausgeschlossen für hochtoxische oder krebserzeugende Stoffe.[^16-2]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
 
 ### 4. Abschnitt: Emissionen von Fahrzeugen und Verkehrsanlagen
 
@@ -863,7 +868,9 @@ Anhang 1[^t-1]
 
 - a. für die besonderen Anlagen nach Anhang 2;
 - b. für die Feuerungsanlagen nach Anhang 3;
-- c. für die Typenprüfung von Feuerungsanlagen nach Anhang 4.
+- c.[^annex1-lvlu1-lvl1-1] für die Typenprüfung von Feuerungsanlagen nach Anhang 4.
+
+[^annex1-lvlu1-lvl1-1]: Dieser Bst. ist infolge der Änd. von Anhang 4 gegenstandslos (siehe [AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 2 Begriffe
 
@@ -1278,7 +1285,7 @@ Anhang 2[^t-2]
 
 ## Ergänzende und abweichende Emissionsbegrenzungen für besondere Anlagen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) und Ziff. II der V vom 20. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Siehe auch die UeB Änd. 12.2.2020 hiervor.
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 1991 ([AS 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), vom 15. Dez. 1997 ([AS 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), Anhang 2 Ziff. 5 der Pflanzenschutzmittel-V vom 23. Juni 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), Ziff. II der V vom 30. April 2003 ([AS 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), Anhang 3 Ziff. II 5 der V vom 22. Juni 2005 über den Verkehr mit Abfällen ([AS 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), Ziff. II der V vom 4. Juli 2007 ([AS 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), der V vom 18. Juni 2010 ([AS 2010 2965](https://fedlex.data.admin.ch/eli/oc/2010/395)), vom 14. Okt. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), Anhang 6 Ziff. 7 der Abfallverordnung vom 4. Dez. 2015 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), Ziff. I der V vom 3. März 2017 ([AS 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), Ziff. II der V vom 11. April 2018 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), Ziff. I der V vom 12. Febr. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II der V vom 20. Okt. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) und Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)). Siehe auch die UeB Änd. 12.2.2020 hiervor.
 
 ### Inhaltsübersicht
 
@@ -1376,7 +1383,7 @@ schaft
 
 83 Gasturbinen
 
-84 Anlagen zur Herstellung von Spanplatten
+84 Anlagen zur Herstellung von Holzspan- und Holzfaserplatten
 
 85 Textilreinigung
 
@@ -1394,7 +1401,7 @@ schaft
 
 <sup>1</sup> Ziffer 81 gilt nicht für Zementöfen.
 
-<sup>2</sup> Abfälle dürfen in Zementöfen nur verwertet werden, wenn sie nach Artikel 24 der Abfallverordnung vom 4. Dezember 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] dazu geeignet sind.
+<sup>2</sup> Abfälle dürfen in Zementöfen nur verwertet werden, wenn sie nach Artikel 24 der Abfallverordnung vom 4. Dezember 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] (VVEA) dazu geeignet sind.
 
 [^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
@@ -1839,7 +1846,7 @@ Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen die Wert
 
 Diagramm:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image1.png)
 
 ### 474 Messungen
 
@@ -2109,7 +2116,7 @@ Geruchsintensive Abfälle und Abfälle, die gefährliche Dämpfe entwickeln, sin
 
 <sup>1</sup> Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Abfälle aus folgenden Arten von Stoffen allein oder zusammen mit Holzbrennstoffen nach Anhang 5 verbrannt oder thermisch zersetzt werden:
 
-- a. Altholz nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe a;
+- a. Altholz nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe a, wenn es die Anforderungen nach Artikel 14*a* Absatz 2 VVEA erfüllt;
 - b. Papier und Karton;
 - c. andere Abfälle, bei deren Verbrennung ähnliche Emissionen auftreten wie bei Abfällen nach Buchstaben a und b.
 
@@ -2310,30 +2317,61 @@ Die Emissionen von Schwefeloxiden, angegeben als Schwefeldioxid, dürfen bei ein
 
 <sup>2</sup> Für Gasturbinen von Notstromgruppen, die während höchstens 50 Stunden pro Jahr betrieben werden, legt die Behörde die vorsorglichen Emissionsbegrenzungen nach Artikel 4 fest; Anhang 1 und Anhang 2 Ziffern 833, 834 und 836 gelten nicht.
 
-### 84 Anlagen zur Herstellung von Spanplatten
+### 84 Anlagen zur Herstellung von Holzspan- und Holzfaserplatten
 
 ### 841 Geltungsbereich
 
-Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Spanplatten im Trockenprozess hergestellt werden.
+Die Bestimmungen dieser Ziffer gelten für Anlagen, in denen Holzspan- und Holzfaserplatten im Trockenprozess hergestellt werden.
 
-### 842 Staub
+### 842 Verhältnis zu Ziffer 81
+
+<sup>1</sup> Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+
+<sup>2</sup> Abweichend von Absatz 1 darf Altholz nach Anhang 5 Ziffer 31 Absatz 2 Buchstabe a verwertet werden, wenn es nach Artikel 14*a* Absatz 2 der VVEA für die thermische Verwertung geeignet ist.
+
+### 843 Bezugsgrösse
+
+Die Emissionsgrenzwerte beziehen sich auf folgende Sauerstoffgehalte im Abgas:
+
+- a. bei direkt beheizten Spänetrocknern 18 Prozent (% vol)
+- b. bei direkt beheizten Spänetrocknern, deren Abgase gemeinsam mit den Abgasen der Pressen behandelt werden 18 Prozent (% vol)
+
+### 844 Staub
 
 Die staubförmigen Emissionen dürfen folgende Werte nicht überschreiten:
 
-- a. im Abgas von Spänetrocknern 50 mg/m<sup>3</sup>
-- b. in Abgasen von Schleifmaschinen 10 mg/m<sup>3</sup>
+- a. bei Späne- und Fasertrocknern 10 mg/m<sup>3</sup>
+- b. bei Pressen 10 mg/m<sup>3</sup>
+- c. bei mechanischer Bearbeitung der Holzplatten 5 mg/m<sup>3</sup>
 
-### 843 Organische Stoffe
+### 845 Organische Stoffe
 
 <sup>1</sup> Die Emissionsbegrenzungen nach Anhang 1 Ziffer 7 gelten nicht.
 
-<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen werden, gemessen bei einer Temperatur von 150 °C, als Gesamtkohlenstoff angegeben.
+<sup>2</sup> Die Emissionen von gas- und dampfförmigen organischen Stoffen werden als Gesamtkohlenstoff angegeben und dürfen folgende Werte nicht überschreiten:
 
-<sup>3</sup> Diese Emissionen sind so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 350 g pro Tonne Holzeinsatz (absolut trocken).
+- a. bei Spänetrocknern 120 mg/m<sup>3</sup>
+- b. bei Pressen 70 mg/m<sup>3</sup>
 
-### 844 Verhältnis zu Ziffer 81
+<sup>3</sup> Bei Fasertrocknern sind die Emissionen von gas- und dampfförmigen organischen Stoffen, angegeben als Gesamtkohlenstoff, so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist, mindestens aber auf 100 mg/m<sup>3</sup>.
 
-Für Anlagen, in denen Güter durch unmittelbare Berührung mit Feuerungsabgasen behandelt werden, gelten zusätzlich die Bestimmungen von Ziffer 81.
+### 846 Formaldehyd
+
+Die Emissionen von Formaldehyd dürfen 10 mg/m<sup>3</sup> nicht überschreiten.
+
+### 847 Stickoxide
+
+Die Emissionen von Stickoxiden (Stickstoffmonoxid und Stickstoffdioxid), angegeben als Stickstoffdioxid, dürfen folgende Werte nicht überschreiten:
+
+- a. bei direkt beheizten Spänetrocknern 150 mg/m<sup>3</sup>
+- b. bei direkt beheizten Fasertrocknern 50 mg/m<sup>3</sup>
+
+### 848 Überwachung
+
+Kontinuierlich zu messen und aufzuzeichnen ist der Gehalt im Abgas von:
+
+- a. gasförmigen organischen Stoffen;
+- b. Stickoxiden.
 
 ### 85 Textilreinigung
 
@@ -2711,7 +2749,7 @@ Wird eine Einzelfeuerung abwechselnd mit verschiedenen Brennstoffen betrieben, s
 
 <sup>2</sup> Der Mischgrenzwert wird nach der folgenden Formel berechnet:
 
-G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image4.png)</sub>
+G<sub>M</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image3.png)</sub> + …. + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image4.png)</sub>
 
 Dabei bedeuten:
 
@@ -3155,15 +3193,15 @@ S (µg/m<sup>3</sup>) = S-Wert (vgl. Ziff. 3 und 9)
 
 Diagramm 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image5.png)
 
 ### Bestimmung des Korrekturfaktors g für Bebauung und Bewuchs
 
 Diagramm 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image6.png)
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/de/xml/image/image7.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/de/xml/image/image7.png)</sub>
 
 I = Höhe des höchsten massgeblichen Hindernisbereiches (Ziff. 5)
 
@@ -3198,5 +3236,5 @@ Anhang 7[^t-7]
 <tr><td>Cadmium (Cd) im Staubniederschlag</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
 <tr><td>Zink (Zn) im Staubniederschlag</td><td>400 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
 <tr><td>Thallium (Tl) im Staubniederschlag</td><td>2 µg/(m<sup>2</sup> × d)</td><td>Jahresmittelwert (arithmetischer Mittelwert)</td></tr>
-<tr><td colspan="3">Hinweis: mg = Milligramm: 1 mg = 0,001 g mg = Milligramm: 1 mg = 0,001 g µg = Mikrogramm: 1 µg = 0,001 mg ng = Nanogramm: 1 ng = 0,001 µg d = Tag Das Zeichen «≤» bedeutet «kleiner oder gleich». <sup>a</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 10 µm. <sup>b</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 2.5 µm.</td></tr>
+<tr><td colspan="3">Hinweis: mg = Milligramm: 1 mg = 0,001 g µg = Mikrogramm: 1 µg = 0,001 mg ng = Nanogramm: 1 ng = 0,001 µg d = Tag Das Zeichen «≤» bedeutet «kleiner oder gleich». <sup>a</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 10 µm. <sup>b</sup> Feindisperse Schwebestoffe mit einem aerodynamischen Durchmesser von weniger als 2.5 µm.</td></tr>
 </table>

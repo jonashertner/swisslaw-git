@@ -4,11 +4,11 @@ title: "Ordinanza del 16 dicembre 1985 contro l'inquinamento atmosferico (OIAt)"
 short: OIAt
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/208_208_208"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 1985-12-16
 in_force: 1986-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20221001-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1986-208_208_208-20230101-it-xml-20.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/208_208_208/20221001/it"
 
 (OIAt)[^t-1]
 
-del 16 dicembre 1985 (Stato 1° ottobre 2022) (Stato 1° ottobre 2022)
+del 16 dicembre 1985 (Stato 1° gennaio 2023)
 
-[^t-1]: [RU 1986 835](https://fedlex.data.admin.ch/eli/oc/1986/835_835_835)
+[^t-1]: RU **1986** 208 RU **1986** 835
 
 Il Consiglio federale svizzero,
 
@@ -294,11 +294,16 @@ In caso di misurazione continua delle emissioni, i valori limite sono considerat
 
 #### Art. 16
 
-**Condotte di aggiramento e disturbi d’esercizio**
+**Condotte di aggiramento, disturbi d’esercizio e mancata disponibilità di prodotti chimici per la depurazione dei gas di scarico[^16-1]**
 
 <sup>1</sup> Una condotta di aggiramento per la protezione degli impianti di depurazione dei gas di scarico può essere utilizzata solo con il consenso dell’autorità.
 
 <sup>2</sup> Se l’impiego di condotte di aggiramento o disturbi d’esercizio possono provocare emissioni considerevoli, l’autorità stabilisce le misure da prendere.
+
+<sup>3</sup> L’autorità può stabilire limitazioni meno severe delle emissioni per gli impianti stazionari se è provato che non sono disponibili i prodotti chimici necessari per l’esercizio degli impianti di depurazione dei gas di scarico. Limitazioni meno severe delle emissioni sono escluse per le sostanze altamente tossiche o cancerogene.[^16-2]
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
+[^16-2]: Introdotto dal n. I dell’O del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 832](https://fedlex.data.admin.ch/eli/oc/2022/832)).
 
 ### Sezione 4: Emissioni da veicoli e da infrastrutture per i trasporti
 
@@ -859,7 +864,7 @@ Allegato 1[^t-2]
 
 ## Limitazione preventiva generale delle emissioni
 
-[^t-2]: Aggiornato dai n. II delle O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), dal n. II 10 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)) e del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) e dalla correzione del 30 nov. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
+[^t-2]: Aggiornato dal n. II delle O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), del 23 giu. 2004 ([RU 2004 3561](https://fedlex.data.admin.ch/eli/oc/2004/484)), dal n. II 10 dell’O del 18 mag. 2005 sull’abrogazione e la modifica di ordinanze in relazione con l’entrata in vigore della legge sui prodotti chimici ([RU 2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)), dal n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)) e dalla correzione del 30 nov. 2021 ([RU 2021 789](https://fedlex.data.admin.ch/eli/oc/2021/789)).
 
 ### 1 Campo d’applicazione
 
@@ -869,7 +874,9 @@ Allegato 1[^t-2]
 
 - a. per gli impianti speciali secondo l’allegato 2;
 - b. per gli impianti a combustione secondo l’allegato 3;
-- c. per la prova di omologazione degli impianti a combustione secondo l’allegato 4.
+- c.[^annex1-lvlu1-lvl1-1] per la prova di omologazione degli impianti a combustione secondo l’allegato 4.
+
+[^annex1-lvlu1-lvl1-1]: In seguito alla modifica dell’allegato 4 questa let. è divenuta priva d'oggetto (vedi [RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)).
 
 ### 2 Definizioni
 
@@ -1285,7 +1292,7 @@ Allegato 2[^t-3]
 
 ## Limitazioni completive o derogatorie delle emissioni degli impianti speciali
 
-[^t-3]: Aggiornato dal n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dal n. II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 n. II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 (RU 2010 2965), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) e dal n. II dell’O del 20 ott. 2021, in vigore dal 1° gen. 2022([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
+[^t-3]: Aggiornato dal n. II dell’O del 20 nov. 1991 ([RU 1992 124](https://fedlex.data.admin.ch/eli/oc/1992/124_124_124)), dal n. II dell’O del 15 dic. 1997 ([RU 1998 223](https://fedlex.data.admin.ch/eli/oc/1998/223_223_223)), dall’all. n. 5 dell’O del 23 giu. 1999 ([RU 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)), dal n. II dell’O del 30 apr. 2003 ([RU 2003 1345](https://fedlex.data.admin.ch/eli/oc/2003/230)), dell’all. 3 n. II 5 dell’O del 22 giu. 2005 sul traffico di rifiuti ([RU 2005 4199](https://fedlex.data.admin.ch/eli/oc/2005/551)), dai n. II delle O del 4 lug. 2007 ([RU 2007 3875](https://fedlex.data.admin.ch/eli/oc/2007/508)), del 18 giu. 2010 (RU 2010 2965), del 14 ott. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)), dall’all. 6 n. 7 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dal n. I dell’O del 3 mar. 2017 ([RU 2017 715](https://fedlex.data.admin.ch/eli/oc/2017/136)), dal n. II dell’O dell’11 apr. 2018 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)), dal n. I dell’O del 12 feb. 2020 ([RU 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146); [2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), dal n. II dell’O del 20 ott. 2021 ([RU 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) e dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 777](https://fedlex.data.admin.ch/eli/oc/2022/777)). Vedi anche la disp. trans. della mod del 12 feb. 2020 qui avanti.
 
 ### Sommario
 
@@ -1299,7 +1306,7 @@ Allegato 2[^t-3]
 - 22 Impianti di Claus
 - 23 Impianti per la produzione di cloro
 - 24 Impianti per la produzione di 1, 2-dicloroetano e di cloruro di vinile
-- 25 …
+- 25 ...
 - 26 Fabbricazione e confezione di prodotti fitosanitari
 - 27 Impianti per la produzione di nerofumo
 - 28 Impianti per la produzione di carbonio (carbone artificiale) o elettrografite mediante combustione
@@ -1335,7 +1342,7 @@ Allegato 2[^t-3]
 - 81 Impianti nei quali il trattamento del prodotto avviene per contatto immediato con i gas di combustione
 - 82 Motori a combustione stazionari
 - 83 Turbine a gas
-- 84 Impianti per la produzione di truciolati
+- 84 Impianti per la produzione di pannelli di truciolato e di fibre di legno
 - 85 Pulitura di prodotti tessili
 - 86 Forni crematori
 - 87 Impianti per il trattamento della superficie
@@ -1351,7 +1358,7 @@ Allegato 2[^t-3]
 
 <sup>1</sup> La cifra 81 non è applicabile per i forni per cemento.
 
-<sup>2</sup> I rifiuti possono essere riciclati o trattati nei forni per cemento se vi si prestano secondo l’articolo 24 dell’ordinanza del 4 dicembre 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] sui rifiuti.
+<sup>2</sup> I rifiuti possono essere riciclati nei forni per cemento soltanto se vi si prestano secondo l’articolo 24 dell’ordinanza del 4 dicembre 2015[^annex2-lvlu1-lvl1-lvl11-lvl111-1] sui rifiuti (OPSR).
 
 [^annex2-lvlu1-lvl1-lvl11-lvl111-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
 
@@ -1794,7 +1801,7 @@ I valori limite d’emissione si riferiscono ad un tenore di ossigeno nei gas di
 
 Le emissioni di ossidi d’azoto, indicati come diossido d’azoto, non devono superare i valori secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/image/image1.png)
 
 ### 474 Misurazioni
 
@@ -2067,7 +2074,7 @@ I rifiuti maleodoranti e i rifiuti che producono vapori pericolosi devono essere
 
 <sup>1</sup> Le disposizioni della presente cifra valgono per gli impianti nei quali vengono bruciati o sottoposti a decomposizione termica rifiuti composti dalle seguenti sostanze, frammisti o meno a legna da ardere ai sensi dell’allegato 5:
 
-- a. legname di scarto ai sensi dell’allegato 5 cifra 31 capoverso 2 lettera a;
+- a. legname di scarto ai sensi dell’allegato 5 cifra 31 capoverso 2 lettera a, se soddisfa i requisiti ai sensi dell’articolo 14*a* capoverso 2 OPSR;
 - b. carta e cartone:
 - c. altri rifiuti della combustione dei quali si producono emissioni simili a quelle prodotte dai rifiuti secondo le lettere a e b.
 
@@ -2268,30 +2275,61 @@ Per un flusso di massa pari o superiore a 2,5 kg/h le emissioni di ossidi di zol
 
 <sup>2</sup> Per le turbine a gas dei gruppi elettrogeni d’emergenza che vengono fatte funzionare al massimo per 50 ore all’anno, l’autorità fissa la limitazione preventiva delle emissioni secondo l’articolo 4; l’allegato 1 e l’allegato 2 cifre 833, 834 e 836 non sono applicabili.
 
-### 84 Impianti per la produzione di truciolati
+### 84 Impianti per la produzione di pannelli di truciolato e di fibre di legno
 
 ### 841 Campo d’applicazione
 
-Le disposizioni della presente cifra valgono per gli impianti nei quali i truciolati vengono prodotti con un procedimento a secco.
+Le disposizioni della presente cifra valgono per gli impianti nei quali i pannelli di truciolato e di fibre di legno vengono prodotti con un procedimento a secco.
 
-### 842 Polvere
+### 842 Applicabilità della cifra 81
+
+<sup>1</sup> Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in contatto con i gas di combustione valgono inoltre le disposizioni della cifra 81.
+
+<sup>2</sup> In deroga al capoverso 1, il legname di scarto di cui all’allegato 5 cifra 31 capoverso 2 lettera a può essere riciclato se è idoneo per la valorizzazione termica secondo l’articolo 14*a* capoverso 2 OPSR.
+
+### 843 Grandezze di riferimento
+
+I valori limite d’emissione si riferiscono ai seguenti tenori di ossigeno nei gas di scarico:
+
+- a. negli essiccatori di trucioli riscaldati direttamente 18 per cento (% vol.)
+- b. negli essiccatori di trucioli riscaldati direttamente, i cui gas di scarico sono trattati insieme ai gas di scarico delle presse 18 per cento (% vol.)
+
+### 844 Polvere
 
 Le emissioni sotto forma di polvere non devono superare i valori seguenti:
 
-- a. nel gas di scarico di essiccatori di trucioli 50 mg/m<sup>3</sup>
-- b. nei gas di scarico di levigatrici 10 mg/m<sup>3</sup>
+- a. negli essiccatori di trucioli e fibre 10 mg/m<sup>3</sup>
+- b. nelle presse 10 mg/m<sup>3</sup>
+- c. nella lavorazione meccanica dei pannelli di legno 5 mg/m<sup>3</sup>
 
-### 843 Sostanze organiche
+### 845 Sostanze organiche
 
-<sup>1</sup> Le limitazioni d’emissione secondo l’allegato 1 cifra 7 non sono applicabili.
+<sup>1</sup> Le limitazioni delle emissioni secondo l’allegato 1 cifra 7 non sono applicabili.
 
-<sup>2</sup> Le emissioni di sostanze organiche sotto forma di gas o di vapore, misurate a una temperatura di 150 °C, vanno indicate come carbonio totale.
+<sup>2</sup> Le emissioni di sostanze organiche sotto forma di gas o vapore sono indicate come carbonio totale e non devono superare i valori seguenti:
 
-<sup>3</sup> Dette emissioni devono essere limitate nella maggior misura possibile dal punto di vista tecnico e dell’esercizio e sopportabile sotto il profilo economico; esse non devono comunque superare 350 g per tonnellata di legno impiegato (assolutamente secco).
+- a. negli essiccatori di trucioli 120 mg/m<sup>3</sup>
+- b. nelle presse 70 mg/m<sup>3</sup>
 
-### 844 Applicabilità della cifra 81
+<sup>3</sup> Per gli essiccatori di fibre le emissioni di sostanze organiche sotto forma di gas o vapore, indicate come carbonio totale, devono essere limitate per quanto possibile dal punto di vista tecnico e dell’esercizio e sopportabile sotto il profilo economico, ma ad almeno 100 mg/m<sup>3</sup>.
 
-Per gli impianti nei quali si lavorano prodotti mettendoli direttamente in contatto con i gas di combustione valgono inoltre le disposizioni della cifra 81.
+### 846 Formaldeide
+
+Le emissioni di formaldeide non devono superare 10 mg/m<sup>3</sup>.
+
+### 847 Ossidi di azoto
+
+Le emissioni di ossidi di azoto (monossido e biossido), indicati come diossido di azoto, non devono superare i valori seguenti:
+
+- a. negli essiccatori di trucioli riscaldati direttamente 150 mg/m<sup>3</sup>
+- b. negli essiccatori di fibre riscaldati direttamente 50 mg/m<sup>3</sup>
+
+### 848 Sorveglianza
+
+Nei gas di scarico deve essere continuamente misurato e registrato il tenore di:
+
+- a. sostanze organiche gassose;
+- b. ossidi di azoto.
 
 ### 85 Pulitura di prodotti tessili
 
@@ -2669,7 +2707,7 @@ Per gli impianti a combustione che possono essere alimentati alternativamente co
 
 <sup>2</sup> Il valore limite di miscela per combustibili misti è calcolato mediante la formula seguente:
 
-G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image4.png)</sub>
+G<sub>m</sub> = G<sub>1</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/image/image2.png)</sub> + G<sub>2</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/image/image3.png)</sub> + … + G<sub>n</sub> × <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/image/image4.png)</sub>
 
 dove:
 
@@ -3116,13 +3154,13 @@ S (µg/m<sup>3</sup>) = valore S (cfr. cifre 3 e 9)
 
 Diagramma 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/image/image5.png)
 
 ### Determinazione del fattore di correzione g in zone edificate e boschive
 
 Diagramma 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20221001/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/208_208_208/20230101/it/xml/image/image6.png)
 
 I = altezza del più alto fattore d’ostacolo determinante (cifra 5)
 
