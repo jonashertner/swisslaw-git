@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "411.114"
-title: Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Volksschulen
+title: Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen
 short: RSV VS
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-13
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.114"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2103/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2616/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Volksschulen
+# Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen
 
 RSV VS
 
 (RSV VS)
 
-vom 25.01.2005 (Stand 01.01.2022)
+vom 25.01.2005 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -221,7 +221,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 **Folgen einer ungerechtfertigten oder diskriminierenden Kündigung**
 
-<sup>1</sup> Bei missbräuchlichen oder ohne sachlichen Grund ausgesprochenen Kündigungen gelten für die Folgen und die Verwirkung der Ansprüche die Bestimmungen des Schweizerischen Obligationenrechts[^19-1] über die missbräuchliche Kündigung sinngemäss.
+<sup>1</sup> Bei missbräuchlichen oder ohne sachlichen Grund ausgesprochenen Kündigungen gelten für die Folgen und die Verwirkung der Ansprüche die Bestimmungen des Schweizerischen Obligationenrechts (OR)[^19-1] über die missbräuchliche Kündigung sinngemäss.
 
 <sup>2</sup> Die Folgen einer diskriminierenden Kündigung aufgrund des Geschlechts richten sich nach den Bestimmungen des Gleichstellungsgesetzes[^19-2], wobei auch eine Entschädigung geltend gemacht werden kann.
 
@@ -286,7 +286,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 **Sonderleistungen anstelle einer Abgangsentschädigung bei vorzeitiger Pensionierung**
 
-<sup>1</sup> Bei einvernehmlicher Versetzung in den Ruhestand kann unter der Voraussetzung, dass die Lehrperson bei Beendigung des Arbeitsverhältnisses das 60. Altersjahr vollendet hat, an Stelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau[^22a-1] gewährt werden.
+<sup>1</sup> Bei einvernehmlicher Versetzung in den Ruhestand kann unter der Voraussetzung, dass die Lehrperson bei Beendigung des Arbeitsverhältnisses das 60. Altersjahr vollendet hat, an Stelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau (R-PKTG)[^22a-1] gewährt werden.
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Abs. 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
 
@@ -330,7 +330,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 <sup>3</sup> Die Einsicht kann verweigert oder eingeschränkt werden, wenn wichtige öffentliche Interessen oder offensichtlich schutzwürdige private Interessen Dritter es verlangen. Eine Verweigerung oder Einschränkung ist zu begründen.
 
-<sup>4</sup> Im Übrigen gilt das kantonale Gesetz über den Datenschutz[^26-1] und die zugehörige Verordnung[^26-2].
+<sup>4</sup> Im Übrigen gilt das kantonale Gesetz über den Datenschutz (TG DSG)[^26-1] und die zugehörige Verordnung (TG DSV)[^26-2].
 
 [^26-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
 [^26-2]: RB [170.71](https://www.rechtsbuch.tg.ch/data/170.71/de)
@@ -345,7 +345,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 **Unfallversicherung**
 
-<sup>1</sup> Die Lehrpersonen sind gemäss den Bestimmungen des Bundesgesetzes über die Unfallversicherung[^28-1] gegen Berufs- und Nichtberufsunfall sowie gegen Berufskrankheit versichert.
+<sup>1</sup> Die Lehrpersonen sind gemäss den Bestimmungen des Bundesgesetzes über die Unfallversicherung (UVG)[^28-1] gegen Berufs- und Nichtberufsunfall sowie gegen Berufskrankheit versichert.
 
 <sup>2</sup> Für die Versicherung gegen Nichtberufsunfälle leisten sie den gleichen Prämienanteil wie das Staatspersonal.
 
@@ -474,7 +474,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 <sup>3</sup> Unterrichtsfreie Zeit, Ausfälle wegen Krankheit oder Unfall, Urlaube sowie Feier- und Ruhetage führen nicht zu einer Unterbrechung des Schwangerschafts- und Mutterschaftsurlaubs und geben keinen Anspruch auf Abgeltung oder Nachgewährung.
 
-<sup>4</sup> Im Übrigen richten sich Schwangerschafts- und Mutterschaftsurlaub nach der Besoldungsverordnung des Grossen Rates[^37a-1] und der Verordnung des Regierungsrates zur Besoldungsverordnung[^37a-2].
+<sup>4</sup> Im Übrigen richten sich Schwangerschafts- und Mutterschaftsurlaub nach der Besoldungsverordnung des Grossen Rates (BesVO)[^37a-1] und der Verordnung des Regierungsrates zur Besoldungsverordnung (RRV BesVO)[^37a-2].
 
 [^37a-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
 [^37a-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
@@ -507,7 +507,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 <sup>2</sup> Das Departement erlässt Richtlinien zur Festlegung des Anspruchs und zur Anrechnung verschiedener Tätigkeiten.
 
-<sup>3</sup> Ab Einräumung einer Altersentlastung dürfen Zusatzlektionen, die nicht kompensiert werden können, nicht mehr erteilt werden.
+<sup>3</sup> …
 
 #### § 39
 
@@ -539,7 +539,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 **Einreihung**
 
-<sup>1</sup> Die Einreihung der Lehrpersonen richtet sich nach der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen[^42-1] und dem Anhang. Der Anhang unterscheidet nach Stufenlehrdiplom, Fachlehrdiplom und Diplom in Schulischer Heilpädagogik. Als Stufenlehrdiplom gilt ein ordentlicher, EDK-anerkannter Abschluss für die Vorschulstufe, Primarstufe, Sekundarstufe I oder II. Als Stufenlehrdiplom gilt auch das Lehrdiplom Textilarbeit/Werken oder Hauswirtschaft. Als Fachlehrdiplom gilt ein Lehrdiplom in einem Fach. Für Personen mit nicht aufgeführten Abschlüssen sowie für Personen in Ausbildung zu EDK-anerkannten Stufendiplomen regelt das Departement die Besoldung durch Richtlinie.
+<sup>1</sup> Die Einreihung der Lehrpersonen richtet sich nach der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen (LBV)[^42-1] und dem Anhang. Der Anhang unterscheidet nach Stufenlehrdiplom, Fachlehrdiplom und Diplom in Schulischer Heilpädagogik. Als Stufenlehrdiplom gilt ein ordentlicher, EDK-anerkannter Abschluss für die Vorschulstufe, Primarstufe, Sekundarstufe I oder II. Als Stufenlehrdiplom gilt auch das Lehrdiplom Textilarbeit/Werken oder Hauswirtschaft. Als Fachlehrdiplom gilt ein Lehrdiplom in einem Fach. Für Personen mit nicht aufgeführten Abschlüssen sowie für Personen in Ausbildung zu EDK-anerkannten Stufendiplomen regelt das Departement die Besoldung durch Richtlinie.
 
 <sup>2</sup> Lehrpersonen mit Abschlüssen, welche zum Unterricht auf einer höheren Stufe berechtigen, werden nach der für den Einsatzbereich erforderlichen Ausbildung eingereiht.
 
@@ -593,11 +593,11 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 #### § 45a
 
-**Besoldung bei befristeter Anstellung**
+**Besoldung bei Arbeitsverhinderung bei befristeter Anstellung**
 
-<sup>1</sup> Befristet angestellte Lehrpersonen erhalten bei einer Anstellungsdauer bis und mit acht Unterrichtswochen 85 %, darüber hinaus 100 % der ordentlichen Besoldung.
+<sup>1</sup> …
 
-<sup>2</sup> Der Lohnanspruch bei Verhinderung der Arbeitsleistung richtet sich nach jenem von Personen, die beim Kanton befristet angestellt sind.
+<sup>2</sup> Bei einer befristeten Anstellung richtet sich der Lohnanspruch bei Verhinderung der Arbeitsleistung wegen Krankheit, Unfall, schweizerischem obligatorischen Militär-, Schutz- oder Zivildienst nach jenem von Personen, die beim Kanton befristet angestellt sind.
 
 #### § 46
 
@@ -609,7 +609,7 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 <sup>3</sup> Bei Beginn oder Ende des Arbeitsverhältnisses während des Semesters bemisst sich der Besoldungsanspruch nach den bis zum Beginn oder Ende tatsächlich erteilten beziehungsweise noch zu erteilenden Unterrichtswochen. Eine Unterrichtswoche entspricht dem Jahreslohn dividiert durch 39.2.
 
-<sup>4</sup> Für unbezahlte Urlaube sowie für Pensenwechsel während des Semesters gilt die Regelung gemäss Abs. 3 analog. Bei unbezahlten Urlauben bis und mit acht Unterrichtswochen erfolgt der Abzug nur zu 85 %.
+<sup>4</sup> Für unbezahlte Urlaube sowie für Pensenwechsel während des Semesters gilt die Regelung gemäss Abs. 3 analog.
 
 #### § 46a
 
@@ -622,12 +622,12 @@ vom 25.01.2005 (Stand 01.01.2022)
 - 3\. Dritter Abschnitt: Lohnposition 09 bis 18
 - 4\. Vierter Abschnitt: Lohnposition 19 und höher
 
-<sup>2</sup> Mitarbeiterbeurteilungen erfolgen gemäss § 8 der Verordnung des Regierungsrates über die Volksschule[^46a-1]. Eine Mitarbeiterbeurteilung ist in jedem Fall in der letzten Lohnposition des ersten, zweiten und dritten Abschnitts durchzuführen.
+<sup>2</sup> Mitarbeiterbeurteilungen erfolgen gemäss § 8 der Volksschulverordnung (VSV)[^46a-1]. Eine Mitarbeiterbeurteilung ist in jedem Fall in der letzten Lohnposition des ersten, zweiten und dritten Abschnitts durchzuführen.
 
 <sup>3</sup> Es gibt zwei Beurteilungsstufen:
 
-- 1\. Prädikat „gut“: Wesentliche Leistungs- und Verhaltensanforderungen wurden erfüllt
-- 2\. Prädikat „ungenügend“: Wesentliche Leistungs- und Verhaltensanforderungen wurden nicht oder ungenügend erfüllt
+- 1\. Prädikat «gut»: Wesentliche Leistungs- und Verhaltensanforderungen wurden erfüllt
+- 2\. Prädikat «ungenügend»: Wesentliche Leistungs- und Verhaltensanforderungen wurden nicht oder ungenügend erfüllt
 
 [^46a-1]: RB [411.111](https://www.rechtsbuch.tg.ch/data/411.111/de)
 
@@ -635,9 +635,9 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 **Anstieg auf nächste Lohnposition**
 
-<sup>1</sup> Nach der letzten Lohnposition des ersten, zweiten und dritten Abschnitts wird die nächste Lohnposition mit einer Beurteilung „gut“ erreicht. Fällt die Beurteilung „ungenügend“ aus, wird der Anstieg auf die nächste Lohnposition ausgesetzt.
+<sup>1</sup> Nach der letzten Lohnposition des ersten, zweiten und dritten Abschnitts wird die nächste Lohnposition mit einer Beurteilung «gut» erreicht. Fällt die Beurteilung «ungenügend» aus, wird der Anstieg auf die nächste Lohnposition ausgesetzt.
 
-<sup>2</sup> Frühestens ein Jahr nach Aussetzung des Anstiegs auf die nächste Lohnposition wird auf Begehren der Lehrperson erneut eine Mitarbeiterbeurteilung durchgeführt. Bei der Beurteilung „gut“ wird im folgenden Jahr die übernächste Lohnposition erreicht. Ohne neue Mitarbeiterbeurteilung und bei der Beurteilung „ungenügend“ bleibt der Anstieg auf die übernächste Lohnposition ausgesetzt.
+<sup>2</sup> Frühestens ein Jahr nach Aussetzung des Anstiegs auf die nächste Lohnposition wird auf Begehren der Lehrperson erneut eine Mitarbeiterbeurteilung durchgeführt. Bei der Beurteilung «gut» wird im folgenden Jahr die übernächste Lohnposition erreicht. Ohne neue Mitarbeiterbeurteilung und bei der Beurteilung «ungenügend» bleibt der Anstieg auf die übernächste Lohnposition ausgesetzt.
 
 <sup>3</sup> In den Jahren, welche nicht die letzte Lohnposition eines Abschnitts betreffen, erfolgt der Anstieg in die nächste Lohnposition in der Regel automatisch.
 
@@ -799,11 +799,22 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 #### § 60
 
-**Geschenkannahmeverbot**
+**Verbot zur Annahme von Geschenken, Einladungen und anderen Vorteilen**
 
-<sup>1</sup> Lehrpersonen ist es untersagt, für sich oder andere Personen im Zusammenhang mit ihrer beruflichen Stellung Geschenke oder andere unentgeltliche Vorteile zu beanspruchen, anzunehmen oder sich versprechen zu lassen.
+<sup>1</sup> Lehrpersonen ist es untersagt, Geschenke, Einladungen oder andere Vorteile, die im Zusammenhang mit ihrer Diensterfüllung stehen oder stehen könnten, für sich oder andere Personen zu beanspruchen, anzunehmen oder sich versprechen zu lassen.
 
-<sup>2</sup> Von diesem Verbot ausgenommen ist die Annahme von Höflichkeitsgeschenken von geringem Wert nach erbrachter Dienstleistung.
+<sup>2</sup> Von diesem Verbot ausgenommen sind:
+
+- 1 die Annahme von Höflichkeitsgeschenken bis zu einem Wert von Fr. 100 nach erbrachter Dienstleistung
+- 2 die Annahme von Einladungen, wenn sie im dienstlichen Interesse sind und Informations-, Weiterbildungs- oder Vernetzungszwecken dienen
+
+<sup>3</sup> Lehrpersonen, die an einem Vergabeverfahren mitwirken, ist die Annahme von Einladungen untersagt, wenn
+
+- 1\. sie von einer effektiven oder potenziellen Anbieterin oder einem effektiven oder potenziellen Anbieter offeriert werden,
+- 2\. sie von einer Person, die am Verfahren beteiligt oder davon betroffen ist, offeriert werden, oder
+- 3\. ein Zusammenhang zwischen der Einladung einerseits und dem Vergabeverfahren andererseits nicht ausgeschlossen werden kann.
+
+<sup>4</sup> Im Zweifelsfall entscheidet das Präsidium über die Zulässigkeit der Annahme von Geschenken, Einladungen oder anderen Vorteilen.
 
 #### § 61
 
@@ -831,37 +842,23 @@ vom 25.01.2005 (Stand 01.01.2022)
 
 #### § 64
 
-**Übergangsrecht**
-
-<sup>1</sup> Lehrpersonen, die im ersten Semester des Schuljahres 2018/19 das 58. Altersjahr vollenden, haben bis zum 31. Januar 2020 Anspruch auf Altersentlastung gemäss bisheriger Regelung.
-
-<sup>2</sup> Der Besitzstand gemäss Abs. 1 gilt nur bei unverändertem Beschäftigungsgrad und ununterbrochener Anstellung im Thurgauer Schuldienst.
+**…**
 
 #### § 65
 
 **Übergangsbestimmung Einreihung, Einstufung und Pflichtlektionenzahl**
 
-<sup>1</sup> Führen die Anwendung der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen[^65-1] sowie die Änderung dieser Verordnung zu einer tieferen Besoldung als im Vormonat, wird in diejenige Lohnposition des massgebenden Lohnbandes eingestuft, welche mindestens der bisherigen Besoldung entspricht. Der Stufenanstieg wird solange ausgesetzt, bis die ordentliche Anrechnung der Berufserfahrung erreicht ist. Liegt die bisherige Einstufung über dem Maximum des Lohnbandes, wird die bisherige Besoldung als eine separate, nicht veränderbare Lohnposition weitergeführt.
+<sup>1</sup> Führen die Anwendung der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen (LBV)[^65-1] sowie die Änderung dieser Verordnung zu einer tieferen Besoldung als im Vormonat, wird in diejenige Lohnposition des massgebenden Lohnbandes eingestuft, welche mindestens der bisherigen Besoldung entspricht. Der Stufenanstieg wird solange ausgesetzt, bis die ordentliche Anrechnung der Berufserfahrung erreicht ist. Liegt die bisherige Einstufung über dem Maximum des Lohnbandes, wird die bisherige Besoldung als eine separate, nicht veränderbare Lohnposition weitergeführt.
 
 <sup>2</sup> Die Besitzstandswahrung nach Abs. 1 gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst.
 
-<sup>3</sup> Die Anhebung der Pflichtlektionenzahl für Lehrpersonen für Textilarbeit/Werken und Hauswirtschaft gemäss § 52 gilt ab 1. August 2015.
+<sup>3</sup> …
 
 [^65-1]: RB [177.250](https://www.rechtsbuch.tg.ch/data/177.250/de)
 
 #### § 66
 
 **Übergangsrecht**
-
-<sup>1</sup> Unter Vorbehalt nachstehender Bestimmungen gilt nach Inkrafttreten dieser Verordnung für alle bisherigen Arbeitsverhältnisse neues Recht.
-
-<sup>2</sup> Unbefristete Anstellungen bleiben unbefristet.
-
-<sup>3–6</sup> …
-
-<sup>7</sup> Bestehende Jobsharingverträge mit der Absprache der Auflösung der Arbeitsverhältnisse bei Kündigung von oder gegenüber einer Lehrperson gelten als Vereinbarungen im Sinne von § 18.
-
-<sup>8</sup> …
 
 #### § 66a–67
 
