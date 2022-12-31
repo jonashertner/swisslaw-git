@@ -3,20 +3,20 @@ canton: GL
 number: VIII E/21/6
 title: Verordnung über die Erteilung von Betriebsbewilligungen für stationäre Einrichtungen und deren Haftung
 language: de
-version: 2015-07-01
-valid_until: 2022-12-31
-version_adopted: 2015-07-02
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-11-29
 adopted: 2002-05-07
 in_force: 2002-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-E.21.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/1795/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2383/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Erteilung von Betriebsbewilligungen für stationäre Einrichtungen und deren Haftung
 
-Vom 07.05.2002 (Stand 01.07.2015)
+Vom 07.05.2002 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -34,7 +34,7 @@ verordnet:
 
 <sup>1</sup> …
 
-<sup>2</sup> Die Voraussetzungen für die Erteilung von Betriebsbewilligungen, namentlich für Behinderten-, Alters- und Pflege- sowie Kinderheime werden vom zuständigen Departement in Richtlinien festgelegt.
+<sup>2</sup> Die Voraussetzungen für die Erteilung von Betriebsbewilligungen, namentlich für Behinderten- sowie Kinderheime werden vom zuständigen Departement in Richtlinien festgelegt.
 
 #### Art. 2
 
@@ -54,7 +54,7 @@ verordnet:
 
 **Rechenschaftsbericht**
 
-<sup>1</sup> Die Einrichtungen haben der Hauptabteilung Soziales jährlich innerhalb von fünf Monaten nach Ablauf des Geschäftsjahrs den Jahresbericht mit revidierter Rechnung, die Personalliste und die Belegungsstatistik einzureichen.
+<sup>1</sup> Die Einrichtungen haben der Hauptabteilung Soziales jährlich bis Ende April des Folgejahres den Jahresbericht mit revidierter Rechnung, die Personalliste und die Belegungsstatistik einzureichen.
 
 #### Art. 5
 
@@ -105,9 +105,13 @@ verordnet:
 
 **Haftungsbegehren gegen privatrechtliche Organisationen**
 
-<sup>1</sup> Haftungsbegehren gegen Organisationen des Privatrechts, die mit stationärer Betagten- oder Behindertenhilfe beauftragt sind, werden beim Departement geltend gemacht. Dieses entscheidet durch Verfügung.
+<sup>1</sup> Die Geltendmachung von Haftungsbegehren im Sinne von Artikel 11 Absatz 1 des Staatshaftungsgesetzes[^8a-1] gegen öffentlich beauftragte Organisationen des Privatrechts erfolgt bei dessen leitendem Organ.
 
-<sup>2</sup> Den privatrechtlichen Organisationen steht das Beschwerderecht an das Verwaltungsgericht zu.
+<sup>1a</sup> Das leitende Organ entscheidet binnen sechs Monaten durch Verfügung über die Begehren der geschädigten Person. Diese Frist kann im Einverständnis mit der geschädigten Person verlängert werden.
+
+<sup>2</sup> Die geschädigte Person kann innert 30 Tagen beim Departement Beschwerde führen, namentlich wenn das leitende Organ seinen Anspruch ganz oder teilweise bestritten oder nicht innert Frist entschieden hat.
+
+[^8a-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
 
 #### Art. 9
 
