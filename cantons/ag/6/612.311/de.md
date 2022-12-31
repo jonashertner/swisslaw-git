@@ -4,13 +4,13 @@ number: "612.311"
 title: Verordnung über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: VAF
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-16
 adopted: 2012-12-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3187/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3270/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3187/pdf_file"
 
 (VAF)
 
-Vom 05.12.2012 (Stand 01.05.2022)
+Vom 05.12.2012 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -438,7 +438,7 @@ beschliesst:
 
 <sup>2</sup> Bei Geschäften betreffend die Kompetenzsumme des Regierungsrats ist das Mitberichtsverfahren mit der Staatskanzlei durchzuführen.
 
-<sup>3</sup> Bei Geschäften, mit denen Beiträge aus dem Swisslos-Fonds von insgesamt über Fr. 20'000.– beantragt werden, wird das Mitberichtsverfahren mit dem DFR durchgeführt.
+<sup>3</sup> …
 
 <sup>4</sup> Bei Geschäften von strategischer Bedeutung ist das Mitberichtsverfahren auch mit der Staatskanzlei durchzuführen; diese überprüft die Übereinstimmung des Geschäfts mit den verabschiedeten Planungsgrundlagen (Entwicklungsleitbild, Aufgaben- und Finanzplan sowie Planungsberichte).
 
