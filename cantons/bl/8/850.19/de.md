@@ -4,13 +4,13 @@ number: "850.19"
 title: Kantonale Asylverordnung
 short: kAV
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-14
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-11-29
 adopted: 2007-10-16
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850.19"
-pdf: "https://bl.clex.ch/api/de/versions/3347/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3459/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3347/pdf_file"
 
 (kAV)
 
-Vom 16.10.2007 (Stand 01.07.2022)
+Vom 16.10.2007 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -84,12 +84,14 @@ beschliesst:
 
 **Eingliederung**
 
-<sup>1</sup> Die Gemeinden vollziehen die Eingliederungsmassnahmen gemäss den §§ 16–19 des Sozialhilfegesetzes wie folgt:
+<sup>1</sup> Die Gemeinden vollziehen gegenüber den Personen gemäss § 1 Bst. b und c die Integrationsmassnahmen gemäss § 16 des Sozialhilfegesetzes.
 
-- a. die Förderungsprogramme und die Anreizbeiträge gegenüber den Personen gemäss § 1 Bst. b und c,
-- b. die Beschäftigungen gegenüber allen Personen gemäss § 1.
+- a. …
+- b. …
 
-<sup>2</sup> Die Entschädigungen des Kantons an die Gemeinden richten sich in Abweichung von § 34 des Sozialhilfegesetzes nach § 18 Abs. 3 Bst. a und a<sup>bis</sup>.
+<sup>2</sup> Die Gemeinden vollziehen gegenüber den Personen gemäss § 1 Bst. a, d und e die Beschäftigungsprogramme gemäss § 16 Abs. 2 Bst. d des Sozialhilfegesetzes.
+
+<sup>3</sup> Die Entschädigungen des Kantons an die Gemeinden richten sich in Abweichung von § 34 SHG nach § 18 Abs. 3 Bst. a und a<sup>bis</sup>.
 
 #### § 4a
 
@@ -135,18 +137,18 @@ beschliesst:
 
 <sup>1</sup> Die Unterstützungen an bedürftige Personen gemäss § 1 Bst. a, b und c in Individualunterkünften betragen pro Haushalt und Monat bei:
 
-- a. 1 Person CHF 589.–;
-- b. 2 Personen CHF 961.–;
-- c. 3 Personen CHF 1'364.–;
-- d. 4 Personen CHF 1'733.–;
-- e. 5 Personen CHF 2'060.–;
-- f. 6 Personen CHF 2'322.–;
-- g. 7 Personen CHF 2'512.–;
-- h. 8 Personen CHF 2'676.–;
-- i. 9 Personen CHF 2'846.–;
-- k. 10 Personen CHF 2'949.–;
-- l. 11 Personen CHF 3'144.–;
-- m. 12 Personen CHF 3'357.–.
+- a. 1 Person CHF 609.–;
+- b. 2 Personen CHF 993.–;
+- c. 3 Personen CHF 1'410.–;
+- d. 4 Personen CHF 1'791.–;
+- e. 5 Personen CHF 2'129.–;
+- f. 6 Personen CHF 2'400.–;
+- g. 7 Personen CHF 2'596.–;
+- h. 8 Personen CHF 2'766.–;
+- i. 9 Personen CHF 2'942.–;
+- k. 10 Personen CHF 3'048.–;
+- l. 11 Personen CHF 3'250.–;
+- m. 12 Personen CHF 3'470.–.
 
 <sup>2</sup> Sie decken pauschal alle Aufwendungen ab, so insbesondere für Nahrung, Kleidung, persönliche Auslagen, Haushaltsverbrauchsmaterial, Post, Telefon, Radio- und Fernsehgebühren, Elektrizität, Gas, Kehrichtgebühren, Transportkosten sowie Prämien für Hausrat- und Haftpflichtversicherung.
 
@@ -154,7 +156,7 @@ beschliesst:
 
 **Mass des Grundbedarfs in einer Kollektivunterkunft**
 
-<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Bst. a, b und c in Kollektivunterkünften beträgt pro Person und Monat CHF 412.–, jedoch höchstens die Beträge gemäss § 8 Abs. 1.
+<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Bst. a, b und c in Kollektivunterkünften beträgt pro Person und Monat CHF 426.–, jedoch höchstens die Beträge gemäss § 8 Abs. 1.
 
 <sup>2</sup> Sie deckt pauschal alle Aufwendungen ab, so insbesondere für Nahrung, Kleidung, persönliche Auslagen, Post, Telefon und Transportkosten.
 
@@ -168,7 +170,7 @@ beschliesst:
 
 **Mass des Grundbedarfs für Personen gemäss § 1 Bst. d und e**
 
-<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Bst. d und e beträgt pro Person und Tag CHF 8.–.
+<sup>1</sup> Die Unterstützung an bedürftige Personen gemäss § 1 Bst. d und e beträgt pro Person und Tag CHF 8.30.
 
 <sup>2</sup> Sie deckt pauschal alle Aufwendungen für den Lebensunterhalt ab und ist nach Möglichkeit in Form von Sachleistungen abzugeben.
 
@@ -180,7 +182,7 @@ beschliesst:
 
 <sup>1</sup> Bei Personen in einer Pflegefamilie, in einem Heim, in einer Klinik oder in einer ähnlichen Einrichtung richtet sich das Mass der Unterstützung an die Aufwendungen für den Grundbedarf nach den aktuellen Bedürfnissen.
 
-<sup>2</sup> Das Mass der Unterstützung beträgt monatlich höchstens CHF 200.– für Personen gemäss § 1 Bst. a, b und c und monatlich höchstens CHF 80.– für Personen gemäss § 1 Bst. d und e.
+<sup>2</sup> Das Mass der Unterstützung beträgt monatlich höchstens CHF 207.– für Personen gemäss § 1 Bst. a, b und c und monatlich höchstens CHF 83.– für Personen gemäss § 1 Bst. d und e.
 
 <sup>3</sup> Das Mass der Unterstützung deckt pauschal alle Aufwendungen ab, so insbesondere für Kleidung, persönliche Auslagen, Post, Telefon und Transportkosten.
 
@@ -270,13 +272,13 @@ beschliesst:
 <sup>1 <sup>bis</sup></sup> Er entschädigt die Gemeinden für die Kosten der obligatorischen Kranken- und Unfallversicherung der bedürftigen Personen gemäss § 1
 
 - a. für die Prämien pauschal in der Höhe von 90 % der regionalen Durchschnittsprämie für Erwachsene, junge Erwachsene und Kinder pro Person und Tag gemäss dem Eidgenössischen Departement des Innern;
-- b. für die Franchisen und Selbstbehalte pauschal nach Massgabe von Art. 103 Abs. 1 bzw. 2 der Verordnung vom 27. Juni 1995[^18-1] über die Krankenversicherung (KVV) für die Altersguppe pro Person und Tag.
+- b. für die Franchisen und Selbstbehalte pauschal nach Massgabe von Art. 103 Abs. 1 bzw. 2 der Verordnung vom 27. Juni 1995[^18-1] über die Krankenversicherung (KVV) für die Altersgruppe pro Person und Tag.
 
 <sup>2</sup> Von den Beträgen gemäss Abs. 1 werden die an die Unterstützung angerechneten Einkünfte abgezogen.
 
 <sup>3</sup> Der Kanton entschädigt die Gemeinden zudem für die Kosten, die diesen entstanden sind:
 
-- a. durch die Förderungsprogramme und Beschäftigungen, in der doppelten Höhe gemäss § 25b Abs. 2 Bst. a bzw. b der Sozialhilfeverordnung;
+- a. durch die Integrationsmassnahmen gemäss § 21 Abs. 1<sup>septies</sup> SHV sowie für die Zuschüsse gemäss § 15a SHV;
 - a<sup>bis</sup>. durch die Anreizbeiträge;
 - b. durch die Unterstützungen an die Aufwendungen für Zahnbehandlungen gemäss § 14 Abs. 1 und 2;
 - c. durch die Überprüfung von Arztzeugnissen gemäss § 17 Abs. 2;
@@ -284,7 +286,7 @@ beschliesst:
 
 <sup>4</sup> Der Kanton entrichtet den Gemeinden die Aufwendungen quartalsweise. Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inklusiv aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt. Bei nicht fristgemässer Einreichung verwirkt der Anspruch.
 
-<sup>5</sup> Die Entschädiung gemäss Abs. 3 Bst. a und a<sup>bis</sup> erfolgt unter Vorbehalt einer möglichen Rückerstattungspflicht gegenüber dem Bund.
+<sup>5</sup> Die Entschädigung gemäss Abs. 3 Bst. a und a<sup>bis</sup> erfolgt unter Vorbehalt einer möglichen Rückerstattungspflicht gegenüber dem Bund.
 
 [^18-1]: [SR 832.102](https://db.clex.ch/link/Bund/832.102/de)
 
