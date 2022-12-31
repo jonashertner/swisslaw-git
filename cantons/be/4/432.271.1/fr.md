@@ -4,13 +4,13 @@ number: "432.271.1"
 title: "Ordonnance régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l'offre ordinaire de l'école obligatoire *"
 short: OMO
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-10
+version: 2023-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-11-16
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2515/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2730/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2515/pdf_file"
 
 (OMO)
 
-du 19.09.2007 (état au 01.01.2022)
+du 19.09.2007 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 

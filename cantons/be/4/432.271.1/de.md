@@ -4,13 +4,13 @@ number: "432.271.1"
 title: Verordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
 short: VMR
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-10
+version: 2023-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-11-16
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2515/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2730/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2515/pdf_file"
 
 (VMR)
 
-vom 19.09.2007 (Stand 01.01.2022)
+vom 19.09.2007 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -256,7 +256,7 @@ beschliesst:
 
 **Verteilung der finanziellen Mittel**
 
-<sup>1</sup> Die im Voranschlag zur Verfügung gestellten finanziellen Mittel für die einfachen sonderpädagogischen und unterstützenden Massnahmen werden den Gemeinden zugeteilt. Vorbehalten bleiben Mittel, die notwendig sind, um einen besonderen Bedarf situativ zu decken.
+<sup>1</sup> Die im Budget zur Verfügung gestellten finanziellen Mittel für die einfachen sonderpädagogischen und unterstützenden Massnahmen werden den Gemeinden zugeteilt. Vorbehalten bleiben Mittel, die notwendig sind, um einen besonderen Bedarf situativ zu decken.
 
 <sup>2</sup> Die Bildungs- und Kulturdirektion regelt das Nähere durch Verordnung.
 
@@ -281,7 +281,7 @@ beschliesst:
 
 <sup>1</sup> Massgebend für die Berechnung des Lektionenpools für die Begabtenförderung (Art. 14 Abs. 1 Bst. a) sind
 
-- a die im Voranschlag zur Verfügung gestellten Mittel,
+- a die im Budget zur Verfügung gestellten Mittel,
 - b die Anzahl aller Kinder und aller Schülerinnen und Schüler, die den öffentlichen Kindergarten oder die öffentliche Schule besuchen.
 
 <sup>2</sup> Die Berechnung erfolgt nach der Formel B in Anhang 2.
@@ -292,7 +292,7 @@ beschliesst:
 
 <sup>1</sup> Massgebend für die Berechnung des Lektionenpools für die einfachen sonderpädagogischen Massnahmen und die Integration Fremdsprachiger (Art. 14 Abs. 1 Bst. b) sind
 
-- a die im Voranschlag zur Verfügung gestellten Mittel,
+- a die im Budget zur Verfügung gestellten Mittel,
 - b die Anzahl aller Kinder und Schülerinnen und Schüler, die den öffentlichen Kindergarten oder die öffentliche Schule besuchen,
 - c der die soziale Struktur wiedergebende Schulsozialindex,
 - d der Faktor Klassengrösse.
