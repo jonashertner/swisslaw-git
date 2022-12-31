@@ -4,13 +4,13 @@ number: "411.211"
 title: Verordnung über die Anstellung und Löhne der Lehrpersonen
 short: VALL
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-07
+version: 2023-01-01
+valid_until: 2024-11-30
+version_adopted: 2022-11-23
 adopted: 2004-10-13
 in_force: 2005-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3066/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3675/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3066/pdf_file"
 
 (VALL)
 
-Vom 13.10.2004 (Stand 01.01.2022)
+Vom 13.10.2004 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -421,7 +421,7 @@ beschliesst:
 - j) Schülerinnen- und schülerbezogene Zusammenarbeit mit Fachpersonen,
 - k) Reflektieren und Weiterentwickeln der eigenen Tätigkeit.
 
-<sup>2</sup> Die Schulleitung teilt die zu erteilenden Lektionen im Rahmen der verfügbaren Ressourcen der Schule und des vertraglich festgelegten Beschäftigungsgrads individuell zu und berücksichtigt dabei die konkrete Belastungssituation der einzelnen Lehrperson im Berufsfeld "Unterricht und Klasse" sowie deren Einsatz in den übrigen Berufsfeldern. Die im Pensenplan gemäss Anhang 1 verankerten Lektionen gelten dabei als Richtwerte.
+<sup>2</sup> Die Schulleitung teilt die zu erteilenden Lektionen im Rahmen der verfügbaren Ressourcen der Schule und des vertraglich festgelegten Beschäftigungsgrads individuell zu und berücksichtigt dabei die konkrete Belastungssituation der einzelnen Lehrperson im Berufsfeld "Unterricht" sowie deren Einsatz im Berufsfeld "Schule". Die im Pensenplan gemäss Anhang 1 verankerten Lektionen gelten dabei als Richtwerte.
 
 <sup>3</sup> …
 
@@ -467,7 +467,7 @@ beschliesst:
 
 **Klassenlehrpersonen**
 
-<sup>1</sup> Der zusätzlichen Aufgabe der Klassenlehrperson an der Volksschule und am Kindergarten im Berufsfeld "Schülerinnen und Schüler" ist mit einer entsprechenden zeitlichen Entlastung von 60 Stunden pro Schuljahr in einem oder verteilt auf mehrere der übrigen Berufsfelder Rechnung zu tragen.
+<sup>1</sup> Der zusätzlichen Aufgabe der Klassenlehrperson an der Volksschule und am Kindergarten ist mit einer entsprechenden zeitlichen Entlastung von 60 Stunden pro Schuljahr Rechnung zu tragen.
 
 #### § 38c
 
@@ -568,11 +568,17 @@ beschliesst:
 
 <sup>1</sup> Der Anfangslohn der Lehrpersonen wird nach den Vorgaben des Dekrets über die Löhne der Lehrpersonen (Lohndekret Lehrpersonen, LDLP) vom 24. August 2004[^44-1] und nach den Weisungen des Departements Bildung, Kultur und Sport (BKS) durch Entscheid der Anstellungsbehörde festgelegt. Das BKS kann im Rahmen von personalrechtlichen Verfahren anstelle der Anstellungsbehörde entscheiden.
 
-<sup>2</sup> Die für die jeweilige Funktion relevanten, gerundeten Erfahrungsjahre werden mit einem Gewichtungsfaktor gemäss Anhang 2 multipliziert und bestimmen die individuelle Zuordnung zu einer Erfahrungsstufe des Normverlaufs gemäss § 6 Abs. 2 LDLP. Die Unterrichtserfahrung, die funktionsspezifische schulische und für die Lehrtätigkeit relevante berufliche Erfahrung sowie die Schulleitungserfahrung müssen schriftlich belegt sein.
+<sup>2</sup> Die für die jeweilige Funktion relevanten Erfahrungsjahre werden je mit einem Gewichtungsfaktor gemäss Anhang 2 multipliziert und die Ergebnisse werden addiert. Die Summe der gewichteten Erfahrungsjahre wird auf eine ganze Zahl kaufmännisch gerundet und bestimmt die individuelle Zuordnung zu einer Erfahrungsstufe des Normverlaufs gemäss § 6 Abs. 2 LDLP. Die Unterrichtserfahrung, die funktionsspezifische schulische und für die Lehrtätigkeit relevante berufliche Erfahrung sowie die Schulleitungserfahrung müssen schriftlich belegt sein.
 
-<sup>3</sup> Unterrichtserfahrungen werden nur angerechnet, wenn sie im Rahmen eines Beschäftigungsgrads von mindestens 30 % an einer öffentlichen Schule oder an einer staatlich anerkannten Privatschule in der Schweiz oder im Ausland gemacht wurden. Das Unterrichten an Volkshochschulen oder im Erwachsenenbereich wird nicht angerechnet.
+<sup>3</sup> Unterrichts-, Berufs- und Schulleitungserfahrungen werden nur angerechnet, wenn sie im Rahmen einer Anstellung gemacht wurden, die
 
-<sup>4</sup> Berufs- und Schulleitungserfahrungen werden nur angerechnet, wenn sie im Rahmen eines Beschäftigungsgrads von mindestens 30 % gemacht wurden.
+- a) einen Mindestbeschäftigungsgrad von 30 % umfasste,
+- b) eine ununterbrochene Anstellungsdauer von mindestens 180 Tagen einschloss und
+- c) eine öffentliche oder staatlich anerkannte Schule betraf.
+
+<sup>4</sup> Die Tätigkeit an einer Volkshochschule, im Erwachsenenbereich oder im Verhältnis mit einer privaten Schulung wird im Rahmen der übrigen Erfahrung gemäss Anhang 2 angerechnet.
+
+<sup>5</sup> Das BKS kann bei Funktionswechseln und bei Wiedereinstiegen nach Anstellungsunterbrüchen vereinfachte Einstufungen bezüglich der Anrechnung von Erfahrungsjahren vornehmen. Zudem kann es in besonderen Fällen von einzelnen Vorgaben zur anrechenbaren Erfahrung abweichen und nach pflichtgemässem Ermessen einstufen.
 
 [^44-1]: SAR [411.210](https://gesetzessammlungen.ag.ch/data/411.210/de)
 
