@@ -3,20 +3,19 @@ canton: GL
 number: VIII D/12/1
 title: Einführungsgesetz zum Bundesgesetz über die Invalidenversicherung
 language: de
-version: 2012-01-01
-valid_until: 2022-12-31
-version_adopted: 2011-05-01
+version: 2023-01-01
+version_adopted: 2022-05-01
 adopted: 2011-05-01
 in_force: 2012-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.12.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/637/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2321/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über die Invalidenversicherung
 
-Vom 01.05.2011 (Stand 01.01.2012)
+Vom 01.05.2011 (Stand 01.01.2023)
 
 ## 1. Invalidenversicherungs-Stelle (IV-Stelle)
 
@@ -46,7 +45,7 @@ Vom 01.05.2011 (Stand 01.01.2012)
 
 <sup>2</sup> Die kantonale Aufsicht obliegt der Aufsichtskommission, die Oberaufsicht dem Regierungsrat.
 
-<sup>3</sup> Die IV-Stelle Glarus ist nach Massgabe von Artikel 2 Absatz 3 des Gesetzes über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden von dessen Geltungsbereich ausgenommen.
+<sup>3</sup> Die Rechnungslegung richtet sich nach den Bundesvorschriften. Die Bestimmungen des Finanzhaushaltsrechts sind nicht anwendbar.
 
 #### Art. 4
 
