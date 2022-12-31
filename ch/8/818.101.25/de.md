@@ -3,18 +3,18 @@ sr: "818.101.25"
 title: Verordnung vom 30. März 2022 über die Einstellung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2 und des Systems zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/207"
 language: de
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2022-03-30
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2022-207-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-207-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Einstellung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2 und des Systems zur Benachrichtigung über eine mögliche Ansteckung mit dem Coronavirus Sars-CoV-2 an Veranstaltungen
 
-vom 30. März 2022 (Stand am 1. April 2022)
+vom 30. März 2022 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -103,3 +103,7 @@ Die folgenden Erlasse werden aufgehoben:
 <sup>1</sup> Diese Verordnung tritt am 1. April 2022 um 00.00 Uhr in Kraft und gilt unter Vorbehalt von Absatz 2 bis zum 31. Dezember 2022.
 
 <sup>2</sup> Die Artikel 5 und 6 gelten unbefristet.
+
+<sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 30. Juni 2024 verlängert.[^7-1]
+
+[^7-1]: Eingefügt durch Ziff. I der V vom 21. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 839](https://fedlex.data.admin.ch/eli/oc/2022/839)).

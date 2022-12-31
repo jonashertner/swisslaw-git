@@ -3,18 +3,18 @@ sr: "818.101.25"
 title: Ordinanza del 30 marzo 2022 sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS CoV-2 durante una manifestazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/207"
 language: it
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2022-03-30
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2022-207-20220401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-207-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla sospensione del sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 e del sistema di segnalazione di un possibile contagio da coronavirus SARS‑CoV-2 durante una manifestazione
 
-del 30 marzo 2022 (Stato 1° aprile 2022)
+del 30 marzo 2022 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -103,3 +103,7 @@ Sono abrogate:
 <sup>1</sup> La presente ordinanza entra in vigore il 1° aprile 2022 alle ore 00.00 e, fatto salvo il capoverso 2, ha effetto sino al 31 dicembre 2022.
 
 <sup>2</sup> Gli articoli 5 e 6 restano in vigore a tempo indeterminato.
+
+<sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 30 giugno 2024.[^7-1]
+
+[^7-1]: Introdotto dal n. I dell’O del 21 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 839](https://fedlex.data.admin.ch/eli/oc/2022/839)).

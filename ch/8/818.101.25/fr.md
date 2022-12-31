@@ -3,18 +3,18 @@ sr: "818.101.25"
 title: Ordonnance du 30 mars 2022 sur l’arrêt du système de traçage de proximité pour le coronavirus SARS-CoV-2 et du système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/207"
 language: fr
-version: 2022-04-01
+version: 2023-01-01
 adopted: 2022-03-30
 in_force: 2022-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-207-20220401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/207/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-207-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/207/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’arrêt du système de traçage de proximité pour le coronavirus SARS-CoV-2 et du système visant à informer d’une infection possible au coronavirus SARS-CoV-2 lors de manifestations
 
-du 30 mars 2022 (Etat le 1<sup>er</sup> avril 2022)
+du 30 mars 2022 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -103,3 +103,7 @@ Sont abrogées:
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2022 à 0 h 00 et a effet jusqu’au 31 décembre 2022, sous réserve de l’al. 2.
 
 <sup>2</sup> La durée de validité des art. 5 et 6 est illimitée.
+
+<sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 30 juin 2024.[^7-1]
+
+[^7-1]: Introduit par le ch. I de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 839](https://fedlex.data.admin.ch/eli/oc/2022/839)).
