@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.415"
 title: Studienordnung für den Masterstudiengang Language and Communication an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "121"
+valid_until: 2023-04-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_415-2009_06_04-2009_08_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_415-2009_06_04-2009_08_01-121.html"
 text: pdf
 ---
 
@@ -42,17 +42,19 @@ Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung 
 
 Einzelheiten zum Studiengang, insbesondere zu den zu absolvierenden Modulen und zur Gewichtung der Modulnoten, werden in einem Anhang geregelt.
 
+[^2-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 567; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+
+#### § 3
+
 **Vertiefungen**
 
-§ 3.[^2-1] Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:
+Der Masterstudiengang kann in den folgenden Vertiefungen durchgeführt werden:[^2-1] a. Fachübersetzen,
 
-- a. Konferenzdolmetschen,
+- b. Konferenzdolmetschen,
 
-- b. Fachübersetzen,
+- c. Linguistic Diversity Management,
 
-- c. Organisationskommunikation.
-
-[^2-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
+- d. Organisationskommunikation.
 
 #### § 4
 
@@ -62,15 +64,13 @@ Einzelheiten zum Studiengang, insbesondere zu den zu absolvierenden Modulen und 
 
 <sup>2</sup> Ein Wechsel vom Vollzeitstudium ins Teilzeitstudium und umgekehrt ist jeweils auf Semesterbeginn gemäss den im Anhang festgelegten Bedingungen möglich. Über Ausnahmen entscheidet die Studiengangleitung.[^4-1]
 
-**Anrechnung von Credits**
-
-§ 5. <sup>1</sup> An der ZHAW oder andernorts erworbene Credits werden während fünf Jahren ab dem Semester ihres Erwerbs angerechnet.[^4-1]
-
-<sup>2</sup> Die Studiengangleitung entscheidet über Ausnahmen.
-
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119 § 5. <sup>1</sup> An der ZHAW oder andernorts erworbene Credits werden während fünf Jahren ab dem Semester ihres Erwerbs angerechnet.[^4-1]
+
+**Anrechnung von Credits**
+
+<sup>2</sup> Die Studiengangleitung entscheidet über Ausnahmen.
 
 [^4-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
 
@@ -88,29 +88,31 @@ Einzelheiten zum Studiengang, insbesondere zu den zu absolvierenden Modulen und 
 
 <sup>3</sup> Bewerberinnen und Bewerber, die einen anderen Hochschulabschluss als den in Abs. 1 lit. a genannten mitbringen, müssen vor Studienbeginn einen Kompetenznachweis in Angewandter Linguistik sowie in den theoretischen Grundlagen für die angestrebte Vertiefung erbringen.
 
+[^hBZulassungzumStu-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
+[^hBZulassungzumStu-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 567; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+
+#### § 7
+
 **Aufnahmeprüfung fachliche Eignung**
 
-§ 7.[^hBZulassungzumStu-1] <sup>1</sup> Die ZHAW führt für sämtliche Bewerberinnen und Bewerber eine Aufnahmeprüfung fachliche Eignung für die gewählte Vertiefung durch. Die Prüfung besteht aus folgenden Teilen:
+<sup>1</sup> Die ZHAW führt für sämtliche Bewerberinnen und Bewerber eine Aufnahmeprüfung fachliche Eignung für die gewählte Vertiefung durch. Die Prüfung besteht aus folgenden Teilen:[^hBZulassungzumStu-2] a. Fachübersetzen: Prüfung über translatorische Fähigkeiten und Potenzial für Studium und Beruf;
 
-- a. Konferenzdolmetschen: Prüfung über translatorische Fähigkeiten und Potenzial für Studium und Beruf;
+- b. Konferenzdolmetschen: Prüfung über translatorische Fähigkeiten und Potenzial für Studium und Beruf;
 
-- b. Fachübersetzen: Prüfung über translatorische Fähigkeiten und Potenzial für Studium und Beruf;
+- c. Linguistic Diversity Management: Prüfung über Kompetenzen im Bereich der Sprachbildung sowie Potenzial für Studium und Beruf; Nachweis über relevante berufliche Erfahrung sowie über Sprachkenntnisse;
 
-- c. Organisationskommunikation: Prüfung über Kompetenzen im Bereich der Organisationskommunikation sowie Potenzial für Studium und Beruf; Nachweis über relevante berufliche Erfahrung sowie über Sprachkenntnisse.
+- d. Organisationskommunikation: Prüfung über Kompetenzen im Bereich der Organisationskommunikation sowie Potenzial für Studium und Beruf; Nachweis über relevante berufliche Erfahrung sowie über Sprachkenntnisse.
 
 <sup>2</sup> Die Einzelheiten werden im Anhang geregelt.
 
-<sup>3</sup> . . .[^hBZulassungzumStu-2]
+<sup>3</sup> . . .[^7-1] § 7 a.[^7-2] Bewerberinnen und Bewerber, die an einer anderen Hochschule in einem inhaltlich entsprechenden Masterstudiengang endgültig abgewiesen wurden, wird die Zulassung zum Studium in der entsprechenden Vertiefung verweigert. Die Entscheidung liegt bei der Studiengangleitung.
 
-**Endgültige Abweisung an einer anderen Hochschule**
-
-§ 7 a.[^hBZulassungzumStu-3] Bewerberinnen und Bewerber, die an einer anderen Hochschule in einem inhaltlich entsprechenden Masterstudiengang endgültig abgewiesen wurden, wird die Zulassung zum Studium in der entsprechenden Vertiefung verweigert. Die Entscheidung liegt bei der Studiengangleitung.
-
-[^hBZulassungzumStu-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
-[^hBZulassungzumStu-2]: Aufgehoben durch B vom 14. Juni 2018 (OS 73, 372; ABl 2018-07-27). In Kraft seit 1. Januar 2019.
-[^hBZulassungzumStu-3]: Eingefügt durch B vom 21. Januar 2022 (OS 77, 286; ABl 2022-03-25). In Kraft seit 1. Juli 2022.
+[^7-1]: Aufgehoben durch B vom 14. Juni 2018 (OS 73, 372; ABl 2018-07-27). In Kraft seit 1. Januar 2019.
+[^7-2]: Eingefügt durch B vom 21. Januar 2022 (OS 77, 286; ABl 2022-03-25). In Kraft seit 1. Juli 2022.
 
 #### § 8
+
+**Endgültige Abweisung an einer anderen Hochschule**
 
 **Wechsel der Vertiefung**
 
@@ -161,15 +163,13 @@ Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des 
 
 <sup>2</sup> Die Modulnoten werden nach Credits gewichtet.
 
-**Titel**
-
-§ 14.[^13-1] Der Masterstudiengang wird mit dem Titel «Master of Arts ZFH in Angewandter Linguistik mit Vertiefung in [gewählte Vertiefung]» abgeschlossen.
-
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119 § 14.[^13-1] Der Masterstudiengang wird mit dem Titel «Master of Arts ZHAW in Angewandter Linguistik mit Vertiefung in [gewählte Vertiefung]» abgeschlossen.
 
-[^13-1]: Fassung gemäss B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
+**Titel**
+
+[^13-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 505; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### E. Schlussbestimmung
 
@@ -179,7 +179,7 @@ Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des 
 
 Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1. August 2009 in Kraft.
 
-[^15-1]: Eingefügt durch B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
+[^15-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 567; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
 ### Anhang zur Studienordnung für den Masterstudiengang Angewandte Linguistik an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -187,14 +187,15 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 Der Anhang zur Studienordnung für den Masterstudiengang Angewandte Linguistik an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
 - [3] Obsolet.
+- [4] Eingefügt durch B vom 2. Juli 2013 (OS 69, 5; ABl 2013-11-15). In Kraft seit 1. Februar 2014.
