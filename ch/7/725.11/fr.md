@@ -4,20 +4,20 @@ title: Loi fédérale du 8 mars 1960 sur les routes nationales (LRN)
 short: LRN
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/525_569_555"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1960-03-08
 in_force: 1960-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les routes nationales
 
-(LRN**[^t-1]**)
+(LRN[^t-1])
 
-du 8 mars 1960 (Etat le 1<sup>er</sup> janvier 2022)
+du 8 mars 1960 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Abréviation introduite par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 
@@ -89,7 +89,9 @@ Le Conseil fédéral peut, après avoir consulté le canton concerné, modifier 
 
 #### Art. 6
 
-Les routes nationales comprennent outre la chaussée, toutes les installations nécessaires à l’aménagement rationnel des routes, notamment les ouvrages d’art, les jonctions, les places de stationnement, les signaux, les installations pour l’utilisation et l’entretien des routes, les plantations, ainsi que les talus dont l’exploitation ne peut pas être attendue des riverains.
+Les routes nationales comprennent outre la chaussée, toutes les installations nécessaires à l’aménagement rationnel des routes, notamment les ouvrages d’art, les jonctions, les places de stationnement, les signaux, les installations pour l’utilisation et l’entretien des routes, les plantations, ainsi que les talus dont l’exploitation ne peut pas être attendue des riverains. Au niveau des jonctions vers des routes nationales de première ou de deuxième classe ainsi que sur les routes nationales de troisième classe, les surfaces destinées aux piétons et aux cyclistes telles que les bandes cyclables, les trottoirs ou les chemins pour piétons et les pistes cyclables séparés de la route ainsi que les arrêts des transports publics font partie de la chaussée.[^6-1]
+
+[^6-1]: Phrase introduite par l’annexe ch. 2 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 ### 2. Installations annexes
 
@@ -151,7 +153,7 @@ Les routes nationales comprennent outre la chaussée, toutes les installations n
 
 ## Chapitre 2 Construction des routes nationales
 
-### A. Planification, programme de développement stratégique et projets généraux****
+### A. Planification, programme de développement stratégique et projets généraux
 
 [^chap2-lvlA-1]
 
@@ -446,7 +448,7 @@ La demande d’approbation des plans doit être adressée au département avec l
 
 <sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
 
-<sup>3</sup> ...[^27b-2]
+<sup>3</sup> …[^27b-2]
 
 [^27b-1]: Introduit par le ch. I 7 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^27b-2]: Abrogé par l’annexe ch. 9 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
@@ -638,7 +640,7 @@ L’autorité cantonale compétente décide l’envoi en possession anticipé du
 
 <sup>2</sup> Après clôture de la procédure d’approbation des plans, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^39-3].[^39-4]
 
-<sup>3</sup> ...[^39-5]
+<sup>3</sup> …[^39-5]
 
 <sup>4</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
@@ -658,7 +660,7 @@ Lorsque le terrain nécessaire à la construction de la route a été acquis de 
 
 [^40-1]: Nouvelle teneur selon le ch. II 16 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### D. Construction et aménagement des routes nationales****
+### D. Construction et aménagement des routes nationales
 
 [^chap2-lvlD-1]
 
@@ -785,7 +787,7 @@ Les routes nationales ne devront être ouvertes à la circulation qu’au moment
 
 Le Conseil fédéral fixe les principes de la mise en compte des frais de travaux d’adaptation que doivent subir les ouvrages militaires du fait de la construction de routes nationales.
 
-## Chapitre 3 Entretien et exploitation des routes nationales****
+## Chapitre 3 Entretien et exploitation des routes nationales
 
 [^chap3-1]
 

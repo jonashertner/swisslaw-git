@@ -4,20 +4,20 @@ title: Bundesgesetz vom 8. März 1960 über die Nationalstrassen (NSG)
 short: NSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/525_569_555"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1960-03-08
 in_force: 1960-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/525_569_555/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1960-525_569_555-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/525_569_555/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Nationalstrassen
 
-(NSG)**[^t-1]**
+(NSG)[^t-1]
 
-vom 8. März 1960 (Stand am 1. Januar 2022)
+vom 8. März 1960 (Stand am 1. Januar 2023)
 
 [^t-1]: Eingefügt durch Ziff. I 7 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 
@@ -89,7 +89,9 @@ Der Bundesrat kann nach Anhören des betroffenen Kantons die Klassierung einer v
 
 #### Art. 6
 
-Zu den Nationalstrassen gehören neben dem Strassenkörper alle Anlagen, die zur technisch richtigen Ausgestaltung der Strassen erforderlich sind, insbesondere Kunstbauten, Anschlüsse, Rastplätze, Signale, Einrichtungen für den Betrieb und Unterhalt der Strassen, Bepflanzungen sowie Böschungen, deren Bewirtschaftung dem Anstösser nicht zugemutet werden kann.
+Zu den Nationalstrassen gehören neben dem Strassenkörper alle Anlagen, die zur technisch richtigen Ausgestaltung der Strassen erforderlich sind, insbesondere Kunstbauten, Anschlüsse, Rastplätze, Signale, Einrichtungen für den Betrieb und Unterhalt der Strassen, Bepflanzungen sowie Böschungen, deren Bewirtschaftung dem Anstösser nicht zugemutet werden kann. Bei Anschlüssen zu Nationalstrassen erster oder zweiter Klasse sowie bei Nationalstrassen dritter Klasse gehören Flächen für den Fuss- und Veloverkehr, wie Radstreifen, Trottoirs oder separat geführte Fuss- und Radwege, sowie auch Haltestellen des öffentlichen Verkehrs zum Strassenkörper.[^6-1]
+
+[^6-1]: Zweiter Satz eingefügt durch Anhang Ziff. 2 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 ### 2. Nebenanlagen
 
@@ -152,7 +154,7 @@ Zu den Nationalstrassen gehören neben dem Strassenkörper alle Anlagen, die zur
 
 ## Zweiter Abschnitt: Bau der Nationalstrassen
 
-### A. Planung, strategisches Entwicklungsprogramm und generelle Projektierung****
+### A. Planung, strategisches Entwicklungsprogramm und generelle Projektierung
 
 [^chap2-lvlA-1]
 
@@ -306,7 +308,7 @@ Die generelle Projektierung wird vom Bundesamt in Zusammenarbeit mit den interes
 
 <sup>2</sup> Er entscheidet bei der Fertigstellung des beschlossenen Nationalstrassennetzes[^20-1] im Rahmen der Genehmigung der generellen Projekte endgültig über die besondere Linienführung der Nationalstrassen im Gebiet der Städte und über den Übergang der Nationalstrassen ausserhalb von Städten in die städtischen Nationalstrassen.[^20-2]
 
-[^20-1]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenen Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^20-1]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgebenen Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 [^20-2]: Eingefügt durch Ziff. I des BG vom 22. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2259](https://fedlex.data.admin.ch/eli/oc/2015/422); [BBl 2012 745](https://fedlex.data.admin.ch/eli/fga/2012/191)).
 
 ### B. Ausführungsprojekte
@@ -329,7 +331,7 @@ Zuständig für die Ausarbeitung der Ausführungsprojekte sind:
 <sup>3</sup> Der Bundesrat legt die Anforderungen an die Ausführungsprojekte und Pläne fest.
 
 [^21-1]: Fassung gemäss Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^21-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^21-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
 
 ### 2. Freihaltung des Strassenraumes
 
@@ -444,7 +446,7 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen beim Departemen
 [^27b-1]: Eingefügt durch Ziff. I 7 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^27b-2]: Aufgehoben durch Anhang Ziff. 9 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
-### d. ...
+### d. …
 
 #### Art. 27c
 
@@ -652,7 +654,7 @@ Die zuständigen Behörden haben den infolge Durchschneidung und Trennung von Gr
 
 [^40-1]: Fassung gemäss Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### D. Bau und Ausbau der Nationalstrassen****
+### D. Bau und Ausbau der Nationalstrassen
 
 [^chap2-lvlD-1]
 
@@ -670,7 +672,7 @@ Zuständig sind:
 - b. für den Bau neuer und den Ausbau bestehender Nationalstrassen: das Bundesamt.
 
 [^40a-1]: Eingefügt durch Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^40a-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404); AS **2007** 5770)
+[^40a-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404); AS **2007** 5770)
 
 ### II. Bau
 
@@ -766,7 +768,7 @@ Die Nationalstrassen dürfen dem Verkehr erst übergeben werden, wenn der Stand 
 <sup>2</sup> Ist die Kostenverteilung streitig, so erlässt das Bundesamt eine Verfügung.[^47-1] Vorbehalten bleibt die verwaltungsrechtliche Klage nach Art. 116 Buchstabe a oder b des Bundesrechtspflegegesetzes vom 16. Dezember 1943[^47-2] bei Streitigkeiten über das Verhältnis zwischen Bund und Kantonen oder zwischen Kantonen.[^47-3]
 
 [^47-1]: Fassung gemäss Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^47-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86, [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118, [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921), [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b* [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784), [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3 [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2 [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3 [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450), [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42), [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2 [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13, [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1, [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1, [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1 [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II, [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1, [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*, [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1 [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1, [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3 [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)An-hang Ziff. 4, **1996** 508 Art. 36 750 Art. 17 1445 Anhang Ziff. 2 1498 Anhang Ziff. 2, **1997** 1155 Anhang Ziff. 6 2465 Anhang Ziff. 5, **1998** 2847 Anhang Ziff. 3 3033 Anhang Ziff. 2, **1999** 1118 Anhang Ziff. 1 3071 Ziff. I 2, **2000** 273 Anhang Ziff. 6 416 Ziff. I 2 505 Ziff. I 1 2355 Anhang Ziff. 1 2719, **2001** 114 Ziff. I 4 894 Art. 40 Ziff. 3 1029 Art. 11 Abs. 2, **2002** 863 Art. 35 1904 Art. 36 Ziff. 1 2767 Ziff. II 3988 Anhang Ziff. 1, **2003** 2133 An-hang Ziff. 7 3543 Anhang Ziff. II 4 Bst. *a* 4557 Anhang Ziff. II 1, **2004** 1985 Anhang Ziff. II 1 4719 Anhang Ziff. II 1, **2005** 5685 Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
+[^47-2]: [BS **3** 531; [AS 1948 485](https://fedlex.data.admin.ch/eli/oc/1948/485_473_421)Art. 86; [1955 871](https://fedlex.data.admin.ch/eli/oc/1955/871_893_899)Art. 118; [1959 902](https://fedlex.data.admin.ch/eli/oc/1959/902_931_921); [1969 737](https://fedlex.data.admin.ch/eli/oc/1969/737_757_755)Art. 80 Bst. *b*, [767](https://fedlex.data.admin.ch/eli/oc/1969/767_787_784); [1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237)Ziff. II 3, [862](https://fedlex.data.admin.ch/eli/oc/1977/862_862_862)Art. 52 Ziff. 2, [1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323)Ziff. III; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 88 Ziff. 3, [1450](https://fedlex.data.admin.ch/eli/oc/1978/1450_1450_1450); [1979 42](https://fedlex.data.admin.ch/eli/oc/1979/42_42_42); [1980 31](https://fedlex.data.admin.ch/eli/oc/1980/31_31_31)Ziff. IV, [1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718)Art. 52 Ziff. 2, [1819](https://fedlex.data.admin.ch/eli/oc/1980/1819_1819_1819)Art. 12 Abs. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 13; [1983 1886](https://fedlex.data.admin.ch/eli/oc/1983/1886_1886_1886)Art. 36 Ziff. 1; [1986 926](https://fedlex.data.admin.ch/eli/oc/1986/926_926_926)Art. 59 Ziff. 1; [1987 226](https://fedlex.data.admin.ch/eli/oc/1987/226_226_226)Ziff. II 1, [1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665)Ziff. II; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)Anhang Ziff. II 1; [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. *a*; [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938)Ziff. III Abs. 5; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)Art. 75 Ziff. 1, [1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945)Anhang Ziff. 1; [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 3, [4093](https://fedlex.data.admin.ch/eli/oc/1995/4093_4093_4093)Anhang Ziff. 4; [1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508)Art. 36, [750](https://fedlex.data.admin.ch/eli/oc/1996/750_750_750)Art. 17, [1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445)Anhang Ziff. 2, [1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498)Anhang Ziff. 2; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)Anhang Ziff. 6, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 5; [1998 2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)Anhang Ziff. 3, [3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 2; [1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149)Anhang Ziff. 1, [3071](https://fedlex.data.admin.ch/eli/oc/1999/472)Ziff. I 2; [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)Anhang Ziff. 6, [416](https://fedlex.data.admin.ch/eli/oc/2000/92)Ziff. I 2, [505](https://fedlex.data.admin.ch/eli/oc/2000/95)Ziff. I 1, [2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 1, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453); [2001 114](https://fedlex.data.admin.ch/eli/oc/2001/21)Ziff. I 4, [894](https://fedlex.data.admin.ch/eli/oc/2001/123)Art. 40 Ziff. 3, [1029](https://fedlex.data.admin.ch/eli/oc/2001/150)Art. 11 Abs. 2; [2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)Art. 35, [1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 1, [2767](https://fedlex.data.admin.ch/eli/oc/2002/408)Ziff. II, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 1; [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 7, [3543](https://fedlex.data.admin.ch/eli/oc/2003/510)Anhang Ziff. II 4 Bst. *a*, [4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 1; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)Anhang Ziff. II 1, [4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 7. [AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)Art. 131 Abs. 1]. Siehe heute das Bundesgerichtsgesetz vom 17. Juni 2005 ([SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)).
 [^47-3]: Fassung gemäss Anhang Ziff. 8 der V vom 3. Febr. 1993 über Vorinstanzen des Bundesgerichts und des Eidgenössischen Versicherungsgerichts, in Kraft seit 1. Jan 1994 ([AS 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)).
 
 ### V. Verteilung der Kosten von Anpassungen an militärischen Verteidigungsanlagen
@@ -779,7 +781,7 @@ Die Nationalstrassen dürfen dem Verkehr erst übergeben werden, wenn der Stand 
 
 Der Bundesrat bestimmt die Grundsätze für die Anrechnung der Kosten von Anpassungsarbeiten an bestehenden militärischen Verteidigungsanlagen, welche durch die Erstellung von Nationalstrassen bedingt sind.
 
-## Dritter Abschnitt: Unterhalt und Betrieb der Nationalstrassen****
+## Dritter Abschnitt: Unterhalt und Betrieb der Nationalstrassen
 
 [^chap3-1]
 
@@ -868,7 +870,7 @@ Die Bewirtschaftung der Nebenanlagen untersteht insbesondere den Vorschriften ü
 <sup>2</sup> Wo es die Verhältnisse erfordern, sorgt der Bundesrat dafür, dass die beteiligten Kantone die Projektierungs- und Bauarbeiten gemeinsam ausführen.
 
 [^54-1]: Fassung gemäss Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^54-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404); AS **2007** 5770)
+[^54-2]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404); AS **2007** 5770)
 
 ### II. Ersatzvornahme
 
@@ -888,7 +890,7 @@ Durch Verfügung des Bundesrates kann der Bund die Aufgaben eines Kantons nach d
 [^55-1]: Fassung gemäss Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^55-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 
-## Fünfter Abschnitt: ...
+## Fünfter Abschnitt: …
 
 #### Art. 56-58
 
@@ -924,7 +926,7 @@ Durch Verfügung des Bundesrates kann der Bund die Aufgaben eines Kantons nach d
 
 <sup>1</sup> Die Kantone regeln im Rahmen dieses Gesetzes die Zuständigkeiten zur Erfüllung der ihnen zugewiesenen Aufgaben und das dabei anwendbare Verfahren.
 
-<sup>2</sup> Soweit das Gesetz zu seiner Ausführung der Ergänzung durch kantonale Bestimmungen bedarf, sind die Kantone zu ihrem Erlass verpflichtet. ...[^61-1] Sie können auf dem Verordnungswege erlassen werden.
+<sup>2</sup> Soweit das Gesetz zu seiner Ausführung der Ergänzung durch kantonale Bestimmungen bedarf, sind die Kantone zu ihrem Erlass verpflichtet. …[^61-1] Sie können auf dem Verordnungswege erlassen werden.
 
 <sup>3</sup> Hat ein Kanton die zur Anwendung dieses Gesetzes notwendigen Anordnungen nicht rechtzeitig getroffen, so erlässt der Bundesrat vorläufig die erforderlichen Verordnungen an Stelle des Kantons unter Anzeige an die Bundesversammlung.
 
@@ -995,7 +997,7 @@ Das Bundesamt kann Dritten gewerbliche Leistungen erbringen, wenn diese Leistung
 
 [^62a-1]: Eingefügt durch Ziff. II 16 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^62a-2]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
-[^62a-3]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118), [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
+[^62a-3]: Gemäss BB vom 21. Juni 1960 über das Nationalstrassennetz, in den letzten, massgeben-den Fassungen ([AS 1960 872](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900); [1984 1118](https://fedlex.data.admin.ch/eli/oc/1984/1118_1118_1118); [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35), [2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515); [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52); [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562); [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) und Art. 197 Ziff. 3 der BV ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404))
 
 ### Übergangsbestimmung zur Änderung vom 30. September 2016
 
@@ -1012,7 +1014,7 @@ Die Baubewilligungen für die vom Bund übernommenen Projekte «Umfahrung Näfel
 
 #### Art. 64
 
-...[^64-1]
+…[^64-1]
 
 [^64-1]: Die Änderung kann unter [AS 1960 525](https://fedlex.data.admin.ch/eli/oc/1960/525_569_555)konsultiert werden.
 
