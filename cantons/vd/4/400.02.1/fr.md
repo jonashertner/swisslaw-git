@@ -4,7 +4,7 @@ number: "400.02.1"
 title: RÈGLEMENT du 02.07.2012 d’application de la loi du 7 juin 2011 sur l’enseignement obligatoire (RLEO)
 short: RLEO
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02.1?id=8e9502b1-5958-481c-91e9-f2a985e1c49c"
 ---
 
@@ -1177,7 +1177,7 @@ Aux termes de l'article 118, alinéa 2, l'entrée en vigueur de l'alinéa 2 est 
 
 <sup>2</sup> Le conseil de direction apprécie les cas limites et les circonstances particulières.
 
-[^92-1]: Règlement des gymnases du 13.08.2008 [(BLV 412.11.1)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=170e9ba8-b9a6-46c7-8068-6d913ee27226)
+[^92-1]: Règlement du 06.07.2022 des gymnases ([BLV 412.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/412.11.1?id=39748c2b-ab54-481e-9058-5389cd0e6d7e))
 
 #### Art. 93
 
@@ -1287,7 +1287,9 @@ Aux termes de l'article 118, alinéa 2, l'entrée en vigueur de l'alinéa 2 est 
 
 **Alcool, tabac, drogue (LEO art. 115) [^101-1]**
 
-<sup>1</sup> Les élèves ne consomment ni alcool, ni stupéfiants ; ils ne fument pas.
+<sup>1</sup> Les élèves ont l'interdiction de consommer de l'alcool, des stupéfiants, des produits du tabac, ainsi que tout produit nicotinique. Les cigarettes électroniques, les produits à fumer à base de plantes ou tout autre produit comparable aux cigarettes par son contenu, son mode de consommation ou ses effets sont également interdits.
+
+<sup>1bis</sup> Ils ne détiennent ou ne mettent à disposition d'autrui aucune substance ou objet propres à une consommation interdite au sens de l'alinéa premier.
 
 <sup>2</sup> Le conseil de direction prend toute mesure utile pour que ces interdictions soient respectées par les élèves.
 
@@ -1321,14 +1323,14 @@ Aux termes de l'article 118, alinéa 2, l'entrée en vigueur de l'alinéa 2 est 
 - e. tricherie ou plagiat ;
 - f. indiscipline ;
 - g. insolence ;
-- h. consommation de tabac, alcool, stupéfiants ;
+- h. consommation, détention et mise à disposition de tabac, alcool, stupéfiants et autres produits visés à l'article 102 ;
 - i. vandalisme ;
 - j. actes de violence ;
 - k. atteinte à la dignité d'autrui.
 
 <sup>2</sup> Les dispositions du droit pénal sont réservées.
 
-[^103-1]: Modif. 8 du 21.12.2022: Introduction Art. 102, Al. 1bis; entrée en vigueur au 01.01.2023; Modification Al. 1, h; entrée en vigueur au 01.01.2023
+[^103-1]: Modif. 8 du 21.12.2022: Modification Al. 1, h; entrée en vigueur au 01.01.2023
 
 #### Art. 105
 
