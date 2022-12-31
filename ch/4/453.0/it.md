@@ -4,11 +4,11 @@ title: Ordinanza del 4 settembre 2013 sulla circolazione delle specie di fauna e
 short: O-CITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: it
-version: 2022-03-01
+version: 2023-01-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/it"
 
 (O-CITES)
 
-del 4 settembre 2013 (Stato 1° marzo 2022)
+del 4 settembre 2013 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -132,7 +132,7 @@ Chi importa a titolo professionale esemplari delle specie di cui agli allegati I
 
 [^7-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-## Capitolo 2*a*:**** Obblighi relativi all’offerta pubblica di esemplari di specie protette
+## Capitolo 2*a*: Obblighi relativi all’offerta pubblica di esemplari di specie protette
 
 [^chap2a-1]
 
@@ -469,7 +469,7 @@ Se le condizioni di cui allʼarticolo 8 capoverso 2 LF-CITES sono adempiute, il 
 
 [^27-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-## Capitolo 4*a*:**** Divieti di importazione
+## Capitolo 4*a*: Divieti di importazione
 
 [^chap4a-1]
 
@@ -723,7 +723,7 @@ Gli organi di controllo sono:
 
 **Commissione tecnica**[^42-1]
 
-<sup>1</sup> La commissione tecnica di cui all’articolo 19 LF-CITES è la Commissione federale per gli affari riguardanti la Convenzione sulla protezione delle specie.
+<sup>1</sup> La commissione tecnica di cui all’articolo 19 LF-CITES è la Commissione federale per gli affari riguardanti la Convenzione sulla protezione delle specie CITES.[^42-2]
 
 <sup>2</sup>
 
@@ -738,6 +738,7 @@ La Commissione è formata da nove membri al massimo ed è composta da esperti in
 <sup>3</sup> Il Consiglio federale designa il presidente della Commissione.
 
 [^42-1]: Nuovo testo giusta il n. I dell’O del 26 gen.2022, in vigore dal 1° mar. 2022 ([RU 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^42-2]: Nuovo testo giusta il n. I 3 dell’O del 9 dic. 2022 sull’adeguamento di ordinanze in seguito alla verifica del 2022 delle commissioni extraparlamentari, in vigore dal 1° gen. 2023 ([RU 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 ## Capitolo 6: Tasse e costi
 

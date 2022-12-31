@@ -4,11 +4,11 @@ title: Verordnung vom 4. September 2013 über den Verkehr mit Tieren und Pflanze
 short: VCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: de
-version: 2022-03-01
+version: 2023-01-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/de"
 
 (VCITES)
 
-vom 4. September 2013 (Stand am 1. März 2022)
+vom 4. September 2013 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -132,7 +132,7 @@ Wer Exemplare von Arten nach den Anhängen I–III CITES[^7-1] gewerbsmässig ei
 
 [^7-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-## 2*a*. Kapitel:**** Pflichten beim öffentlichen Anbieten von Exemplaren geschützter Arten
+## 2*a*. Kapitel: Pflichten beim öffentlichen Anbieten von Exemplaren geschützter Arten
 
 [^chap2a-1]
 
@@ -469,7 +469,7 @@ Das EDI kann unter den Voraussetzungen von Artikel 8 Absatz 2 BGCITES Ausnahmen 
 
 [^27-1]: [SR 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-## 4*a*. Kapitel:**** Einfuhrverbote
+## 4*a*. Kapitel: Einfuhrverbote
 
 [^chap4a-1]
 
@@ -723,7 +723,7 @@ Kontrollorgane sind:
 
 **Fachgremium**[^42-1]
 
-<sup>1</sup> Fachgremium nach Artikel 19 BGCITES ist die Eidgenössische Kommission für die Belange des Artenschutzübereinkommens.
+<sup>1</sup> Fachgremium nach Artikel 19 BGCITES ist die Eidgenössische Kommission für die Belange des Artenschutzübereinkommens CITES.[^42-2]
 
 <sup>2</sup>
 
@@ -738,6 +738,7 @@ Die Kommission zählt höchstens neun Mitglieder und setzt sich zusammen aus Exp
 <sup>3</sup> Der Bundesrat bestimmt die Präsidentin oder den Präsidenten der Kommission.
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 26. Jan. 2022, in Kraft seit 1. März 2022 ([AS 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^42-2]: Fassung gemäss Ziff. I 3 der V vom 9. Dez. 2022 über die Anpassung von Verordnungen infolge der Überprüfung 2022 der ausserparlamentarischen Kommissionen, in Kraft seit 1. Jan. 2023 ([AS 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 ## 6. Kapitel: Gebühren und Kosten
 

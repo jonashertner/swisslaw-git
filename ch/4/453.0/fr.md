@@ -4,11 +4,11 @@ title: Ordonnance du 4 septembre 2013 sur la circulation des espèces de faune e
 short: OCITES
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/601"
 language: fr
-version: 2022-03-01
+version: 2023-01-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20220301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/601/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-601-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/601/20220301/fr"
 
 (OCITES)
 
-du 4 septembre 2013 (Etat le 1<sup>er</sup> mars 2022)
+du 4 septembre 2013 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -132,7 +132,7 @@ Quiconque importe à titre professionnel des spécimens d’espèces inscrites a
 
 [^7-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-## Chapitre 2*a***** Obligations relatives aux propositions à la vente de spécimens d’espèces protégées auprès du public
+## Chapitre 2*a* Obligations relatives aux propositions à la vente de spécimens d’espèces protégées auprès du public
 
 [^chap2a-1]
 
@@ -167,7 +167,7 @@ Quiconque propose publiquement à la vente des spécimens d’espèces protégé
 
 <sup>2</sup> Les conditions d’octroi des autorisations applicables aux spécimens d’une espèce animale inscrite à l’annexe I CITES qui sont élevés en captivité à des fins commerciales et aux spécimens d’une espèce végétale inscrite à l’annexe I CITES qui sont reproduits artificiellement à des fins commerciales, sont fixées à l’art. IV CITES et s’appliquent en vertu de l’art. VII, al. 4, CITES.
 
-<sup>3</sup> ...[^8-2]
+<sup>3</sup> …[^8-2]
 
 <sup>4</sup> Pour les espèces inscrites aux annexes I à III CITES qui sont particulièrement menacées ou qui font fréquemment l’objet d’un commerce illégal, l’OSAV peut exiger la présentation de documents et d’informations supplémentaires prouvant la légalité de la circulation des spécimens.
 
@@ -373,7 +373,7 @@ La dérogation prévue à l’al. 1 n’est pas applicable:
 
 <sup>5</sup> L’al. 4 n’est pas applicable aux spécimens pré-convention.
 
-<sup>6</sup> ...[^22-2]
+<sup>6</sup> …[^22-2]
 
 [^22-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 [^22-2]: Abrogé par le ch. I de l’O du 26 janv. 2022, avec effet au 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
@@ -469,7 +469,7 @@ Le DFI peut prévoir des dérogations au régime d’autorisation applicable à 
 
 [^27-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
 
-## Chapitre 4*a***** Interdictions d’importer
+## Chapitre 4*a* Interdictions d’importer
 
 [^chap4a-1]
 
@@ -722,7 +722,7 @@ Les organes de contrôle sont:
 
 **Comité d’experts**[^42-1]
 
-<sup>1</sup> Le comité d’experts visé à l’art. 19 LCITES est la Commission fédérale pour les affaires relatives à la convention sur la conservation des espèces.
+<sup>1</sup> Le comité d’experts visé à l’art. 19 LCITES est la Commission fédérale pour les affaires relatives à la Convention sur la conservation des espèces CITES.[^42-2]
 
 <sup>2</sup>
 
@@ -737,6 +737,7 @@ La commission comprend neuf membres au maximum et se compose d’experts dans le
 <sup>3</sup> Le Conseil fédéral désigne le président de la commission.
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 129](https://fedlex.data.admin.ch/eli/oc/2022/129)).
+[^42-2]: Nouvelle teneur selon le ch. I 3 de l’O du 9 déc. 2022 portant adaptation d’ordonnances à la suite du réexamen de 2022 des commissions extraparlementaires, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 842](https://fedlex.data.admin.ch/eli/oc/2022/842)).
 
 ## Chapitre 6 Émoluments et coûts
 
