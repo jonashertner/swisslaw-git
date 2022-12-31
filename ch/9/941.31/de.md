@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 20. Juni 1933 über die Kontrolle des Verkehrs mit Edel
 short: EMKG
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/de/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/de/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Kontrolle des Verkehrs mit Edelmetallen und Edelmetallwaren
 
-(Edelmetallkontrollgesetz, EMKG)**[^t-1]**
+(Edelmetallkontrollgesetz, EMKG)[^t-1]
 
-vom 20. Juni 1933 (Stand am 1. Januar 2022)
+vom 20. Juni 1933 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Art. 75 Ziff. 2 des Markenschutzgesetzes vom 28. Aug. 1992, in Kraft seit 1. April 1993 ([AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -378,11 +378,11 @@ Das Hausieren mit Waren, welche diesem Gesetz unterstellt sind, ist untersagt. D
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-## Vierter Abschnitt: Herstellung von Schmelzprodukten****
+## Vierter Abschnitt: Verkehr mit Schmelzprodukten und Schmelzgut
 
 [^chap4-1]
 
-[^chap4-1]: Fassung gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^chap4-1]: Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Herstellung von Schmelzprodukten
 
@@ -466,6 +466,26 @@ Zur gewerbsmässigen Herstellung von Schmelzprodukten bedarf es einer Schmelzbew
 
 <sup>2</sup> Der Bundesrat setzt die Verpflichtungen des Inhabers der Schmelzbewilligung fest.
 
+### Gewerbsmässiger Ankauf von Schmelzgut
+
+#### Art. 31a
+
+[^31a-1]
+
+<sup>1</sup> Wer gewerbsmässig Schmelzgut im Sinne von Artikel 1 Absatz 3 Buchstabe b oder c ankauft, hat sich über die Herkunft der Ware zu vergewissern und diese zu dokumentieren.
+
+<sup>2</sup> Ist diese Person im schweizerischen Handelsregister eingetragen, so hat sie sich beim Zentralamt registrieren zu lassen.
+
+<sup>3</sup> Ist sie nicht im schweizerischen Handelsregister eingetragen, so benötigt sie eine Ankaufsbewilligung des Zentralamtes. Diese wird erteilt, wenn Gewähr für eine einwandfreie Geschäftstätigkeit besteht.
+
+<sup>4</sup> Für die Erteilung, die Erneuerung und den Entzug der Ankaufsbewilligung gilt Artikel 26 sinngemäss.
+
+<sup>5</sup> Der Bundesrat umschreibt den gewerbsmässigen Ankauf näher; er berücksichtigt dabei namentlich die Risiken, die der Ankauf für Geldwäscherei und Terrorismusfinanzierung darstellt. Er regelt die Einzelheiten der Sorgfalts- und Dokumentationspflichten.
+
+<sup>6</sup> Die Absätze 1–5 gelten nicht für Inhaber einer Schmelzbewilligung nach Artikel 24.
+
+[^31a-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ### Feingehaltsbestimmung von Schmelzprodukten
 
 ### a. Zuständigkeit. Gegenstand
@@ -488,11 +508,12 @@ Zur gewerbsmässigen Herstellung von Schmelzprodukten bedarf es einer Schmelzbew
 
 #### Art. 34
 
-<sup>1</sup> Der Bundesrat regelt im Einzelnen das Verfahren bei Erteilung, Erneuerung und Entzug von Schmelzbewilligungen sowie bei Vornahme von Feingehaltsbestimmungen. Er kann auch Vorschriften über die Anerkennung ausländischer amtlicher Feingehaltsbestimmungen aufstellen.[^34-1]
+<sup>1</sup> Der Bundesrat regelt im Einzelnen das Verfahren bei Erteilung, Erneuerung und Entzug von Schmelz- und Ankaufsbewilligungen sowie bei Vornahme von Feingehaltsbestimmungen.[^34-1] Er kann auch Vorschriften über die Anerkennung ausländischer amtlicher Feingehaltsbestimmungen aufstellen.[^34-2]
 
 <sup>2</sup> Der Bundesrat regelt die Gebühren für die in Absatz 1 genannten Amtshandlungen. Der Artikel 18 Absatz 2 findet sinngemäss Anwendung.
 
-[^34-1]: Fassung gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^34-1]: Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-2]: Fassung gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ## Fünfter Abschnitt: Organisation
 
@@ -512,12 +533,27 @@ Zur gewerbsmässigen Herstellung von Schmelzprodukten bedarf es einer Schmelzbew
 
 #### Art. 36
 
-<sup>1</sup> Das Zentralamt überwacht den Verkehr mit Edelmetallen und Edelmetallwaren.
+[^36-1]
 
-<sup>2</sup> Insbesondere besorgt es die Eintragung der Verantwortlichkeitsmarken und überwacht die amtliche Prüfung und Punzierung der Edelmetallwaren. Ihm obliegt die Erteilung der Schmelzbewilligungen sowie die Überwachung der Feingehaltsbestimmungen von Schmelzprodukten.[^36-1] Es überwacht die Geschäftsführung der Kontrollämter und der Handelsprüfer. Es stellt die Diplome für die beeidigten Edelmetallprüfer[^36-2] und die Berufsausübungsbewilligungen für die Handelsprüfer aus.
+<sup>1</sup> Das Zentralamt überwacht den Verkehr mit Edelmetallen und Edelmetallwaren nach diesem Gesetz und nach dem Geldwäschereigesetz vom 10. Oktober 1997[^36-2] (GwG).
 
-[^36-1]: Fassung des zweiten Satzes gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
-[^36-2]: Ausdruck gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+<sup>2</sup>
+
+Ihm obliegen insbesondere:
+
+- a. die Eintragung der Verantwortlichkeitsmarken;
+- b. die Überwachung der amtlichen Prüfung und der Punzierung der Edelmetallwaren;
+- c. die Erteilung der Schmelz- und der Ankaufsbewilligungen;
+- d. die Führung des Registers über die Personen, die gewerbsmässig Schmelzgut ankaufen;
+- e. die Überwachung des gewerbsmässigen Ankaufs von Schmelzgut;
+- f. die Überwachung der Feingehaltsbestimmungen von Schmelzprodukten;
+- g. die Überwachung der Geschäftsführung der Kontrollämter und der Handelsprüfer;
+- h. die Ausstellung der Diplome für die beeidigten Edelmetallprüfer und der Berufsausübungsbewilligungen für die Handelsprüfer.
+
+<sup>3</sup> Es erhebt Gebühren für seine Überwachungstätigkeit über den Verkehr mit Edelmetallen und Edelmetallwaren sowie eine Aufsichtsabgabe für die Kosten der Tätigkeiten nach Absatz 2 Buchstabe e sowie nach Artikel 42<sup>ter</sup>, die durch die Gebühren nicht gedeckt sind. Die Aufsichtsabgabe für die Tätigkeiten nach Absatz 2 Buchstabe e wird als Pauschalbetrag für einen Zeitraum von vier Jahren erhoben. Für die Bemessung der jährlichen Aufsichtsabgabe für Tätigkeiten nach Artikel 42<sup>ter</sup> sind die Bilanzsumme und der Bruttoertrag massgebend. Der Bundesrat regelt die Gebühren und die Aufsichtsabgabe im Einzelnen.
+
+[^36-1]: Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^36-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 ### Kontrollämter
 
@@ -545,6 +581,10 @@ Zur gewerbsmässigen Herstellung von Schmelzprodukten bedarf es einer Schmelzbew
 
 ### Amtliche beeidigte Edelmetallprüfer
 
+[^chap5-lvlu3-1]
+
+[^chap5-lvlu3-1]: Ausdruck gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+
 ### a. Diplom
 
 #### Art. 39
@@ -569,13 +609,17 @@ Zur gewerbsmässigen Herstellung von Schmelzprodukten bedarf es einer Schmelzbew
 
 ### Handelsprüfer
 
-### a. Berufsbewilligung. Obliegenheiten
+### a. Berufsausübungsbewilligung. Obliegenheiten
+
+[^chap5-lvlu4-lvla-1]
+
+[^chap5-lvlu4-lvla-1]: Ausdruck gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)). Diese Änd. wurde in den in der AS genannten Bestimmungen berücksichtigt.
 
 #### Art. 41
 
-Der Handelsprüfer bedarf einer Berufsbewilligung des Zentralamtes. Voraussetzung ihrer Erteilung ist der Besitz eines eidgenössischen Probiererdiploms, Wohnsitz in der Schweiz und guter Leumund. Die Erwerbung einer Schmelzbewilligung ist den Handelsprüfern gestattet.[^41-1] Die Handelsprüfer leisten vor dem Zentralamt den Eid oder das Gelübde auf getreue Erfüllung ihrer Berufspflichten. Sie sind befugt, die Feingehaltsbestimmung von Schmelzprodukten vorzunehmen und beziehen dafür als Entgelt die in der Vollziehungsverordnung vorgesehenen Gebühren. Die amtliche Prüfung und Punzierung von Edelmetallwaren ist ihnen untersagt.
+Der Handelsprüfer bedarf einer Berufsausübungsbewilligung des Zentralamtes. Voraussetzung ihrer Erteilung ist der Besitz eines eidgenössischen Probiererdiploms, Wohnsitz in der Schweiz und guter Leumund. Die Erwerbung einer Schmelz- oder Ankaufsbewilligung ist den Handelsprüfern gestattet.[^41-1] Die Handelsprüfer leisten vor dem Zentralamt den Eid oder das Gelübde auf getreue Erfüllung ihrer Berufspflichten. Sie sind befugt, die Feingehaltsbestimmung von Schmelzprodukten vorzunehmen und beziehen dafür als Entgelt die in der Vollziehungsverordnung vorgesehenen Gebühren. Die amtliche Prüfung und Punzierung von Edelmetallwaren ist ihnen untersagt.
 
-[^41-1]: Fassung des dritten Satzes gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^41-1]: Fassung des dritten Satzes gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### b. Verpflichtungen. Verantwortlichkeit.
 
@@ -583,22 +627,49 @@ Der Handelsprüfer bedarf einer Berufsbewilligung des Zentralamtes. Voraussetzun
 
 <sup>1</sup> Die Handelsprüfer haben über die Feingehaltsbestimmungen und über die dafür bezogenen Gebühren Buch zu führen. Das Zentralamt sowie die Polizeibehörden können zum Zwecke amtlicher Erhebungen in die Bücher Einsicht nehmen und über die Eintragungen Auskunft verlangen. Die Vorschriften über die Buchführung werden durch den Bundesrat aufgestellt.
 
-<sup>2</sup> Der Artikel 40 findet sinngemäss Anwendung. Mit dem Entzug des Probiererdiploms ist der Entzug der Berufsbewilligung verbunden.
+<sup>2</sup> Der Artikel 40 findet sinngemäss Anwendung. Mit dem Entzug des Probiererdiploms ist der Entzug der Berufsausübungsbewilligung verbunden.
 
-### Zusätzliche Bewilligung für den Handel mit Bankedelmetallen
+### c. Zusätzliche Bewilligung für den Handel mit Bankedelmetallen
 
 #### Art. 42<sup>bis</sup>
 
 [^42bis-1]
 
-<sup>1</sup> Handelsprüfer, die selber oder durch eine Gruppengesellschaft gewerbsmässig Bankedelmetalle handeln, bedürfen einer Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA) nach Artikel 61 Absätze 1, 2 und 4 des Finanzinstitutsgesetzes vom 15. Juni 2018[^42bis-2] (FINIG) und unterstehen deren Aufsicht.
+<sup>1</sup> Handelsprüfer, die selber oder durch eine Gruppengesellschaft gewerbsmässig mit Bankedelmetallen handeln, bedürfen einer Bewilligung des Zentralamts.
 
-<sup>2</sup> Handelt eine Gesellschaft Bankedelmetalle eines Handelsprüfers, zu dessen Gesellschaftsgruppe sie gehört, bedarf sie ebenfalls einer Bewilligung nach Absatz 1.
+<sup>2</sup>
 
-<sup>3</sup> Die Bestimmungen über die Bewilligungsvoraussetzungen für Vermögensverwalter nach Artikel 17 Absatz 1 FINIG finden sinngemäss Anwendung.
+Die Bewilligung wird dem Handelsprüfer erteilt, wenn:
 
-[^42bis-1]: Eingefügt durch Anhang Ziff. II 11 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42bis-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+- a. er als kaufmännische Firma im Handelsregister eingetragen ist;
+- b. er durch seine internen Vorschriften und seine Betriebsorganisation die Erfüllung der Pflichten nach dem GwG[^42bis-2] sicherstellt;
+- c. er einen guten Ruf geniesst und Gewähr für die Erfüllung der Pflichten nach dem GwG bietet;
+- d. die mit seiner Verwaltung und Geschäftsführung betrauten Personen die Voraussetzungen nach Buchstabe c auch erfüllen; und
+- e. die an ihm qualifiziert Beteiligten einen guten Ruf geniessen und gewährleisten, dass sich ihr Einfluss nicht zum Schaden einer umsichtigen und soliden Geschäftstätigkeit auswirkt.
+
+<sup>3</sup> Handelt eine Gesellschaft gewerbsmässig mit Bankedelmetallen eines Handelsprüfers, zu dessen Gesellschaftsgruppe sie gehört, so bedarf sie ebenfalls einer solchen Bewilligung. Die Voraussetzungen nach Absatz 2 müssen erfüllt werden.
+
+[^42bis-1]: Eingefügt durch Anhang Ziff. II 11 des Finanzinstitutsgesetzes vom 15. Juni 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42bis-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### d. Aufsicht über den Handel mit Bankedelmetallen
+
+#### Art. 42<sup>ter</sup>
+
+[^42ter-1]
+
+<sup>1</sup> Bewilligungsinhaber nach Artikel 42<sup>bis</sup> unterstehen der Aufsicht des Zentralamts nach Artikel 12 Buchstabe b<sup>ter</sup> GwG[^42ter-2].
+
+<sup>2</sup> Das Zentralamt führt die Prüfungen der Bewilligungsinhaber selbst durch oder lässt sie durch eine unabhängige und fachkundige Person durchführen (Prüfbeauftragte oder Prüfbeauftragter).
+
+<sup>3</sup> Die Artikel 24*a* Absätze 2 und 3, 25 Absatz 1, 29–33, 34, 36–38, 39 Absatz 1, 40, 41, 42 und 42*a* des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^42ter-3] (FINMAG) sind sinngemäss anwendbar. Die Prüfbeauftragten und die Untersuchungsbeauftragten unterstehen dem Amtsgeheimnis.
+
+<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit[^42ter-4] regelt die Einzelheiten der Aufsicht und der Prüfungen.
+
+[^42ter-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42ter-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42ter-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^42ter-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
 
 ## Sechster Abschnitt: Beschwerden
 
@@ -613,7 +684,7 @@ Der Handelsprüfer bedarf einer Berufsbewilligung des Zentralamtes. Voraussetzun
 [^43-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Aufgehoben durch Anhang Ziff. 135 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Siebenter Abschnitt: Strafbestimmungen****
+## Siebenter Abschnitt: Strafbestimmungen
 
 [^chap7-1]
 
@@ -695,15 +766,19 @@ wird, wenn er vorsätzlich handelt, mit Gefängnis oder mit Busse bis zu 100 000
 
 [^47-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 1994, in Kraft seit 1. Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-### e. Handlungen ohne Bewilligung
+### e. Handlungen ohne Bewilligung, Nichteinhaltung der Sorgfalts- und Dokumentationspflichten sowie der Registrierungspflicht
 
 #### Art. 48
 
 [^48-1]
 
-Wer, ohne im Besitz einer Schmelzbewilligung oder einer Berufsausübungsbewilligung als Handelsprüfer zu sein, Handlungen vornimmt, zu deren Vornahme einer der genannten Ausweise vorgeschrieben ist, wird mit Busse bestraft.
+Wer ohne Schmelzbewilligung, Ankaufsbewilligung oder Berufsausübungsbewilligung als Handelsprüfer Handlungen vornimmt, für die eine der genannten Bewilligungen vorgeschrieben ist,
 
-[^48-1]: Fassung gemäss Ziff. I 5 des BG vom 21. Dez. 2007 über die Aufhebung und die Vereinfachung von Bewilligungsverfahren, in Kraft seit 1. Juni 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+wer die Sorgfalts- und Dokumentationspflichten nach Artikel 31*a* Absatz 1 oder die Registrierungspflicht nach Artikel 31*a* Absatz 2 nicht einhält,
+
+wird mit Busse bestraft.
+
+[^48-1]: Fassung gemäss Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### f. Widerhandlungen beim Hausieren und beim Erwerb von Schmelzgut
 
@@ -792,6 +867,117 @@ Wer vorsätzlich oder fahrlässig einer Vorschrift dieses Gesetzes oder einer Au
 [^56-1]: Fassung gemäss Ziff. 20 des Anhangs zum VStrR, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^56-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
+### 7. Widerhandlungen im Handel mit Bankedelmetallen
+
+### a. Tätigkeit ohne Bewilligung
+
+#### Art. 56a
+
+[^56a-1]
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich ohne Bewilligung eine Tätigkeit nach Artikel 42<sup>bis</sup> Absatz 1 oder 3 ausübt.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+[^56a-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### b. Erteilen falscher Auskünfte
+
+#### Art. 56b
+
+[^56b-1]
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich dem Zentralamt, einer oder einem Prüf- oder Untersuchungsbeauftragten falsche Auskünfte erteilt.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+[^56b-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### c. Pflichtverletzungen der Beauftragten
+
+#### Art. 56c
+
+[^56c-1]
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich als Prüf- oder Untersuchungsbeauftragte oder Prüf- oder Untersuchungsbeauftragter ihre oder seine Pflichten grob verletzt, indem sie oder er in der Berichterstattung an das Zentralamt wesentliche falsche Angaben macht oder wesentliche Tatsachen verschweigt.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+[^56c-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### d. Prüfung und Untersuchung
+
+#### Art. 56d
+
+[^56d-1]
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich eine vom Zentralamt angeordnete Prüfung nicht vornehmen lässt oder die Pflichten, die ihr oder ihm gegenüber der oder dem Prüf- oder Untersuchungsbeauftragten obliegen, nicht erfüllt.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
+
+[^56d-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### e. Missachten von Verfügungen des Zentralamtes
+
+#### Art. 56e
+
+[^56e-1]
+
+Mit Busse bis zu 100 000 Franken wird bestraft, wer einer vom Zentralamt unter Hinweis auf die Strafdrohung dieses Artikels ergangenen rechtskräftigen Verfügung oder einem Entscheid der Rechtsmittelinstanzen vorsätzlich nicht Folge leistet.
+
+[^56e-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### f. Widerhandlungen in Geschäftsbetrieben
+
+#### Art. 56f
+
+[^56f-1]
+
+Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Stelle der Geschäftsbetrieb zur Bezahlung der Busse verurteilt werden (Art. 7 des BG vom 22. März 1974[^56f-2] über das Verwaltungsstrafrecht), wenn:
+
+- a. die Ermittlung der Personen, die nach Artikel 6 des Bundesgesetzes über das Verwaltungsstrafrecht strafbar sind, Untersuchungsmassnahmen bedingt, welche im Hinblick auf die verwirkte Strafe unverhältnismässig wären; und
+- b. für die Widerhandlungen gegen die Strafbestimmungen nach den Artikeln 56*a*–56*e* eine Busse von höchstens 50 000 Franken in Betracht fällt.
+
+[^56f-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56f-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### g. Zuständigkeit
+
+#### Art. 56g
+
+[^56g-1]
+
+<sup>1</sup> Für die Widerhandlungen gegen die Strafbestimmungen nach den Artikeln 56*a*–56*e* ist das Bundesgesetz vom 22. März 1974[^56g-2] über das Verwaltungsstrafrecht anwendbar. Verfolgende und urteilende Behörde ist das Eidgenössische Finanzdepartement.
+
+<sup>2</sup> Ist die gerichtliche Beurteilung verlangt worden oder hält das Eidgenössische Finanzdepartement die Voraussetzungen für eine Freiheitsstrafe oder eine freiheitsentziehende Massnahme für gegeben, so untersteht die strafbare Handlung der Bundesgerichtsbarkeit. In diesem Fall überweist das Eidgenössische Finanzdepartement die Akten der Bundesanwaltschaft zuhanden des Bundesstrafgerichts. Die Überweisung gilt als Anklage. Die Artikel 73–83 des Bundesgesetzes über das Verwaltungsstrafrecht gelten sinngemäss.
+
+<sup>3</sup> Die Vertreterin oder der Vertreter der Bundesanwaltschaft und des Eidgenössischen Finanzdepartements müssen zur Hauptverhandlung nicht persönlich erscheinen.
+
+[^56g-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56g-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### h. Vereinigung der Strafverfolgung
+
+#### Art. 56h
+
+[^56h-1]
+
+<sup>1</sup> Sind in einer Strafsache sowohl die Zuständigkeit des Eidgenössischen Finanzdepartements als auch der Bundesgerichtsbarkeit oder der kantonalen Gerichtsbarkeit gegeben, so kann das Eidgenössische Finanzdepartement die Vereinigung der Strafverfolgung in der Hand der bereits mit der Sache befassten Strafverfolgungsbehörde anordnen, sofern ein enger Sachzusammenhang besteht, die Sache noch nicht beim urteilenden Gericht hängig ist und die Vereinigung das laufende Verfahren nicht in unvertretbarem Masse verzögert.
+
+<sup>2</sup> Über Anstände zwischen dem Eidgenössischen Finanzdepartement und der Bundesanwaltschaft oder den kantonalen Behörden entscheidet die Beschwerdekammer des Bundesstrafgerichts.
+
+[^56h-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### i. Verjährung
+
+#### Art. 56i
+
+[^56i-1]
+
+Die Verfolgung von Übertretungen nach Artikeln 56*a*–56*e* verjährt nach sieben Jahren.
+
+[^56i-1]: Eingefügt durch Anhang 1 Ziff. 3 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ## Achter Abschnitt: Übergangs- und Schlussbestimmungen
 
 ### Übergangsbestimmungen
@@ -828,7 +1014,7 @@ Datum des Inkrafttretens: 1. Juli 1934[^59-1]
 
 [^59-1]: BRB vom 8. Mai 1934 ([AS 50 345](https://fedlex.data.admin.ch/eli/oc/50/345_357_401))
 
-## Schlussbestimmung der Änderung vom 17. Juni 1994****
+## Schlussbestimmung der Änderung vom 17. Juni 1994
 
 [^u1-1]
 
@@ -836,7 +1022,7 @@ Datum des Inkrafttretens: 1. Juli 1934[^59-1]
 
 Waren, die vor Inkrafttreten der Änderung vom 17. Juni 1994 hergestellt wurden und den bisherigen, nicht aber den neuen Vorschriften entsprechen, dürfen gewerbsmässig längstens bis zu einem Jahr nach Inkrafttreten dieser Änderung in Verkehr gebracht werden.
 
-## Schlussbestimmung zur Änderung vom 15. Juni 2018****
+## Schlussbestimmung zur Änderung vom 15. Juni 2018
 
 [^u2-1]
 
@@ -851,7 +1037,19 @@ Waren, die vor Inkrafttreten der Änderung vom 17. Juni 1994 hergestellt wurden 
 [^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-Anhang 1*[^t-2]*
+## Schlussbestimmungen zur Änderung vom 19. März 2021
+
+[^u3-1]
+
+[^u3-1]: [AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)
+
+<sup>1</sup> Zum gewerbsmässigen Ankauf von Schmelzgut im Sinne von Artikel 1 Absatz 3 Buchstabe b oder c bedarf es während der ersten zwölf Monate nach Inkrafttreten der Änderung vom 19. März 2021 noch keiner Ankaufsbewilligung oder Registrierung.
+
+<sup>2</sup> Handelsprüfer und Gruppengesellschaften, die bei Inkrafttreten dieser Änderung neu einer Bewilligungspflicht nach Artikel 42<sup>bis</sup> unterstehen, müssen innerhalb von drei Monaten ab Inkrafttreten dieser Änderung den Anforderungen dieses Gesetzes genügen und ein Bewilligungsgesuch beim Zentralamt stellen. Mit ihrem Gesuch müssen sie insbesondere die Prüfberichte der letzten Jahre über die Einhaltung der Pflichten nach dem 2. Kapitel des GwG[^u3-2] einreichen. Sie können ihre Tätigkeit bis zum Entscheid über die Bewilligung fortführen.
+
+[^u3-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+Anhang 1[^t-2]
 
 (Art. 2 Abs. 2
 
@@ -874,7 +1072,7 @@ Dicke:
 - – Palladium: 500 Tausendstel
 - – Silber: 800 Tausendstel
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 3 Abs. 2
 

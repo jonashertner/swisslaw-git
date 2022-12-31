@@ -4,20 +4,20 @@ title: "Federal Act of 20 June 1933 on the Control of the Trade in Precious Meta
 short: PMCA
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/en/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/en/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Federal Act on the Control of the Trade in Precious Metals and Precious Metal Articles (Precious Metals Control Act, PMCA)****
+# Federal Act on the Control of the Trade in Precious Metals and Precious Metal Articles (Precious Metals Control Act, PMCA)
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
-of 20 June 1933 (Status as of 1 January 2022)
+of 20 June 1933 (Status as of 1 January 2023)
 
 [^t-1]: Amended by Art. 75 No 2 of the Trademark Protection Act of 28 Aug. 1992, in force since 1 April 1993 ([AS 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [BBl 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -376,11 +376,11 @@ The hawking of articles subject to this Act is prohibited. This ban also applies
 
 [^23-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-## Section 4 Manufacture of Melt Products****
+## Section 4 Trade in Melt Products and Melt Material
 
 [^chap4-1]
 
-[^chap4-1]: Amended by No I 5 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, in force since 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^chap4-1]: Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Manufacture of melt products
 
@@ -462,6 +462,26 @@ Authorisation is required for the commercial manufacture of melt products.
 
 <sup>2</sup> The Federal Council shall specify the obligations of the holder of a melter’s licence.
 
+### Commercial purchase of melt material
+
+#### Art. 31a
+
+[^31a-1]
+
+<sup>1</sup> Any person who commercially purchases melt material within the meaning of Article 1 paragraph 3 letter b or c must ascertain the origin of the goods and document this.
+
+<sup>2</sup> If this person is entered in the Swiss commercial register, he or she must register with the Central Office.
+
+<sup>3</sup> If this person is not entered in the Swiss commercial register, he or she must obtain a purchase licence from the Central Office. This shall be granted if there is a guarantee of irreproachable business conduct.
+
+<sup>4</sup> Article 26 applies by analogy to the granting, renewal and withdrawal of the purchase licence.
+
+<sup>5</sup> The Federal Council shall define commercial purchases in more detail; in doing so, it shall in particular take account of the money laundering and terrorist financing risks posed by such purchases. It shall regulate the details of the due diligence and documentation duties.
+
+<sup>6</sup> Paragraphs 1 to 5 do not apply to holders of a melter's licence in accordance with Article 24.
+
+[^31a-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ### Determination of the fineness of melt products
 
 ### a. Competence. Purpose
@@ -484,11 +504,12 @@ Authorisation is required for the commercial manufacture of melt products.
 
 #### Art. 34
 
-<sup>1</sup> The Federal Council shall regulate the details of the procedure for granting, renewing and withdrawing melter’s licences and for fineness determinations. It may also issue regulations on the recognition of foreign official fineness determinations.[^34-1]
+<sup>1</sup> The Federal Council shall regulate the details of the procedure for granting, renewing and withdrawing melter's and purchase licences and for fineness determinations.[^34-1] It may also issue regulations on the recognition of foreign official fineness determinations.[^34-2]
 
 <sup>2</sup> The Federal Council shall regulate the fees to be paid for the official duties set out in paragraph 1. Article 18 paragraph 2 applies correspondingly.
 
-[^34-1]: Amended by No I 5 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, in force since 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^34-1]: Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-2]: Amended by No I 5 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, in force since 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ## Section 5 Organisation
 
@@ -508,12 +529,27 @@ Authorisation is required for the commercial manufacture of melt products.
 
 #### Art. 36
 
-<sup>1</sup> The Central Office shall supervise the trade in precious metals and precious metal articles.
+[^36-1]
 
-<sup>2</sup> In particular, it shall deal with the registration of responsibility marks and supervise the official controlling and hallmarking of precious metal articles. It is responsible for granting melter’s licences and for supervising the determination of the fineness of melt products.[^36-1] It shall supervise the administration of the Assay Offices and the trade assayers. It shall issue the diplomas for sworn assayers[^36-2] and the assayer licence as trade assayers.
+<sup>1</sup> The Central Office shall supervise the trade in precious metals and precious metal articles in accordance with this Act and the Anti-Money Laundering Act of 10 October 1997[^36-2] (AMLA).
 
-[^36-1]: Version of second sentence in accordance with No I 5 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, with effect from 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
-[^36-2]: Expression in accordance with No II of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). This amendment has been made throughout the text.
+<sup>2</sup>
+
+Specifically, its duties are to:
+
+- a. register the responsibility marks;
+- b. supervise the official controlling and hallmarking of precious metal articles;
+- c. grant melter's and purchase licences;
+- d. keep the register of people who purchase melt material on a commercial basis;
+- e. supervise the commercial purchase of melt material;
+- f. supervise the determination of the fineness of melt products;
+- g. supervise the administration of the Assay Offices and the trade assayers;
+- h. issue the diplomas for sworn assayers and the assayer licences for trade assayers.
+
+<sup>3</sup> It shall collect fees for its supervisory activities concerning the trade in precious metals and precious metal articles, as well as a supervisory levy for the costs of the activities under paragraph 2 letter e and under Article 42<sup>ter</sup> that are not covered by the fees. The supervisory levy for the activities under paragraph 2 letter e shall be collected as a lump sum for a period of four years. The total assets and gross revenue shall be used as the basis for assessing the annual supervisory levy for activities under Article 42<sup>ter</sup>. The Federal Council shall regulate the details of the fees and the supervisory levy.
+
+[^36-1]: Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^36-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 ### Assay Offices
 
@@ -541,6 +577,10 @@ Authorisation is required for the commercial manufacture of melt products.
 
 ### Official sworn assayers
 
+[^chap5-lvlu3-1]
+
+[^chap5-lvlu3-1]: Term in accordance with No II of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). This change has been made throughout the text.
+
 ### a. Diploma
 
 #### Art. 39
@@ -565,13 +605,17 @@ Authorisation is required for the commercial manufacture of melt products.
 
 ### Trade assayers
 
-### a. Operating licence. Duties
+### a. Assayer licence. Duties
+
+[^chap5-lvlu4-lvla-1]
+
+[^chap5-lvlu4-lvla-1]: Term in accordance with Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)). This change has been made in the provisions specified in the AS.
 
 #### Art. 41
 
-Trade assayers must hold an assayer licence as trade assayer issued by the Central Office. This licence shall only be granted to assayers who hold a federal assayer’s diploma, are resident in Switzerland and are of good character. Trade assayers are permitted to acquire a melter’s licence.[^41-1] Trade assayers shall swear an oath or make a solemn promise before the Central Office to faithfully discharge the official duties of their profession. They are authorised to ascertain the fineness of melt products and receive by way of remuneration the fees provided for in the Implementing Ordinance. They are not authorised to perform the official assaying and hallmarking of precious metal articles.
+Trade assayers must hold an assayer licence as trade assayer issued by the Central Office. This licence shall only be granted to assayers who hold a federal assayer’s diploma, are resident in Switzerland and are of good character. Trade assayers are permitted to acquire a melter's licence or purchase licence.[^41-1] Trade assayers shall swear an oath or make a solemn promise before the Central Office to faithfully discharge the official duties of their profession. They are authorised to ascertain the fineness of melt products and receive by way of remuneration the fees provided for in the Implementing Ordinance. They are not authorised to perform the official assaying and hallmarking of precious metal articles.
 
-[^41-1]: Version of the third sentence in accordance with No I 5 of the FA of 21 Dec. 2007 on the removal and simplification of licensing procedures, in force since 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^41-1]: Third sentence amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### b. Obligations. Responsibility
 
@@ -581,20 +625,47 @@ Trade assayers must hold an assayer licence as trade assayer issued by the Centr
 
 <sup>2</sup> Article 40 applies correspondingly. The withdrawal of an assayer’s diploma means the withdrawal of the assayer licence as trade assayer.
 
-### Additional authorisation for trading in banking precious metals
+### c. Additional licence for trading in banking precious metals
 
 #### Art. 42<sup>bis</sup>
 
 [^42bis-1]
 
-<sup>1</sup> Trade assayers who themselves or through a group company trade on a commercial basis in banking precious metals require authorisation from and are subject to supervision of a financial market supervisory authority in accordance with Article 61 paragraphs 1, 2 and 4 of the Financial Institutions Act of 15 June 2018[^42bis-2] (FinIA).
+<sup>1</sup> Trade assayers who themselves or through a group company trade on a commercial basis in banking precious metals require a licence from the Central Office.
 
-<sup>2</sup> If a company trades in banking precious metals of a trade assayer belonging to its group company, it also requires authorisation in accordance with paragraph 1.
+<sup>2</sup>
 
-<sup>3</sup> The provisions on the authorisation conditions for portfolio managers as defined in Article 17 paragraph 1 of the FinIA apply by analogy.
+The licence shall be granted to trade assayers if:
 
-[^42bis-1]: Inserted by Annex No II 11 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42bis-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+- a. they are entered in the commercial register as a commercial company;
+- b. they ensure compliance with their duties in accordance with the AMLA[^42bis-2] by means of their internal regulations and organisation;
+- c. they enjoy a good reputation and guarantee compliance with their duties in accordance with the AMLA;
+- d. the persons responsible for their administration and management also fulfil the requirements set out under letter c; and
+- e. their qualified participants enjoy a good reputation and guarantee that their influence is not detrimental to prudent and sound business operations.
+
+<sup>3</sup> If a company trades commercially in banking precious metals of a trade assayer that belongs to its group of companies, it also requires a licence. The requirements under paragraph 2 must be met.
+
+[^42bis-1]: Inserted by Annex No II 11 of the Financial Institutions Act of 15 June 2018 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42bis-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### d. Supervision of trading in banking precious metals
+
+#### Art. 42<sup>ter</sup>
+
+[^42ter-1]
+
+<sup>1</sup> Licence holders in accordance with Article 42<sup>bis</sup> are subject to supervision by the Central Office in accordance with Article 12 letter b<sup>ter</sup> of the AMLA[^42ter-2].
+
+<sup>2</sup> The Central Office shall carry out the audits of licence holders itself or have them carried out by an independent and suitably qualified person (audit agent).
+
+<sup>3</sup> Article 24*a* paragraphs 2 and 3, Article 25 paragraph 1, Articles 29 to 33, 34, 36 to 38, 39 paragraph 1, Articles 40, 41, 42 and 42*a* of the Financial Market Supervision Act of 22 June 2007[^42ter-3] (FINMASA) apply by analogy. The audit agents and investigating agents are bound by official secrecy.
+
+<sup>4</sup> The Federal Office for Customs and Border Security[^42ter-4] shall regulate the details of the supervision and audits.
+
+[^42ter-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42ter-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42ter-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^42ter-4]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 ## Section 6 Appeals
 
@@ -609,7 +680,7 @@ Trade assayers must hold an assayer licence as trade assayer issued by the Centr
 [^43-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Repealed by Annex No 135 of the Administrative Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Section 7 Criminal Provisions****
+## Section 7 Criminal Provisions
 
 [^chap7-1]
 
@@ -693,21 +764,25 @@ shall, if acting with intent, be liable to a term of imprisonment or to a fine n
 
 [^47-1]: Amended by No I of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-### e. Acts without a licence
+### e. Acts without a licence, failure to comply with the due diligence and documentation duties and the registration duty
 
 #### Art. 48
 
 [^48-1]
 
-Any person who performs acts requiring one of the aforementioned permits without holding a melter’s licence or an assayer licence as trade assayer shall be liable to a fine.
+Any person who carries out acts requiring a melter's licence, purchase licence or assayer licence as trade assayer without holding one of the aforementioned licences,
 
-[^48-1]: Amended by No I 5 of the FA of 21 Dec. 2007 on the Abolition and Simplification of Licensing Procedures, in force since 1 June 2008 ([AS 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [BBl 2007 315](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+who fails to comply with the due diligence and documentation duties under Article 31*a* paragraph 1 or the registration duty under Article 31*a* paragraph 2,
+
+shall be liable to a fine.
+
+[^48-1]: Amended by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### f. Offences in hawking and in the acquisition of melt material
 
 [^chap7-lvl1-lvlf-1]
 
-[^chap7-lvl1-lvlf-1]: Expression in accordance with No II of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). This amendment has been made throughout the text.
+[^chap7-lvl1-lvlf-1]: Term in accordance with No II of the FA of 17 June 1994, in force since 1 Aug. 1995 ([AS 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [BBl 1993 II 1033](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)). This amendment has been made throughout the text.
 
 #### Art. 49
 
@@ -790,6 +865,117 @@ Any person who, with intent or negligence, contravenes a provision of this Act o
 [^56-1]: Amended by No 20 of the Annex to Administrative Criminal Law Act, in force since 1 Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^56-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
+### a. Activity without a licence
+
+#### Art. 56a
+
+[^56a-1]
+
+<sup>7.</sup> Offences committed when trading in banking precious metals
+
+<sup>1</sup> Any person who wilfully carries out an activity under Article 42<sup>bis</sup> paragraph 1 or 3 without a licence shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+
+<sup>2</sup> Any person who acts through negligence shall be liable to a fine not exceeding CHF 250,000.
+
+[^56a-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### b. Provision of false information
+
+#### Art. 56b
+
+[^56b-1]
+
+<sup>1</sup> Any person who wilfully provides false information to the Central Office or to an audit agent or investigating agent shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+
+<sup>2</sup> Any person who acts through negligence shall be liable to a fine not exceeding CHF 250,000.
+
+[^56b-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### c. Violations of duties by agents
+
+#### Art. 56c
+
+[^56c-1]
+
+<sup>1</sup> Any person who, as an audit agent or investigating agent, wilfully commits a gross violation of his or her duties by making material misrepresentations or concealing material facts in reporting to the Central Office shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+
+<sup>2</sup> Any person who acts through negligence shall be liable to a fine not exceeding CHF 250,000.
+
+[^56c-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### d. Audit and investigation
+
+#### Art. 56d
+
+[^56d-1]
+
+<sup>1</sup> Any person who wilfully fails to have an audit ordered by the Central Office carried out or fails to fulfil the duties incumbent on him or her towards the audit agent or investigating agent shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+
+<sup>2</sup> Any person who acts through negligence shall be liable to a fine not exceeding CHF 250,000.
+
+[^56d-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### e. Failure to comply with Central Office orders
+
+#### Art. 56e
+
+[^56e-1]
+
+Any person who wilfully fails to comply with a legally enforceable ruling issued by the Central Office containing notice of the penalties under this Article or with a decision of the appeal court shall be liable to a fine not exceeding CHF 100,000.
+
+[^56e-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### f. Offences in business operations
+
+#### Art. 56f
+
+[^56f-1]
+
+The identification of the persons responsible may be dispensed with and the business operation may instead be ordered to pay the fine (Art. 7 of the Federal Act of 22 March 1974[^56f-2] on Administrative Criminal Law) where:
+
+- a. the identification of the persons responsible under Article 6 of the Federal Act on Administrative Criminal Law requires investigative measures that are disproportionate relative to the penalty incurred; and
+- b. a fine not exceeding CHF 50,000 is under consideration for the violations of the criminal provisions under Articles 56*a* to 56*e*.
+
+[^56f-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56f-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### g. Jurisdiction
+
+#### Art. 56g
+
+[^56g-1]
+
+<sup>1</sup> The Federal Act of 22 March 1974[^56g-2] on Administrative Criminal Law applies to the offences under Articles 56*a* to 56*e*. The prosecuting and adjudicating authority is the Federal Department of Finance.
+
+<sup>2</sup> Where a court judgment has been requested, or where the Federal Department of Finance considers that the requirements for a custodial sentence or a custodial measure are met, the offence is subject to federal jurisdiction. In such a case, the Federal Department of Finance shall refer the files to the Office of the Attorney General of Switzerland for proceedings before the Federal Criminal Court. The referral is deemed to be the bringing of charges. Articles 73 to 83 of the Federal Act on Administrative Criminal Law apply by analogy.
+
+<sup>3</sup> The representatives of the Office of the Attorney General of Switzerland and of the Federal Department of Finance are not required to appear in person at the main hearing.
+
+[^56g-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56g-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### h. Unification of prosecution
+
+#### Art. 56h
+
+[^56h-1]
+
+<sup>1</sup> Where a criminal case is subject to the jurisdiction of both the Federal Department of Finance and the federal or cantonal courts, the Federal Department of Finance may order the prosecution to be unified under the prosecuting authority already dealing with the case, provided there is a close factual connection, the case is not yet pending before the competent court and the unification does not unreasonably delay the ongoing proceedings.
+
+<sup>2</sup> The Appeals Chamber of the Federal Criminal Court shall decide on any disputes between the Federal Department of Finance and the Office of the Attorney General of Switzerland or the cantonal authorities.
+
+[^56h-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### i. Limitation period
+
+#### Art. 56i
+
+[^56i-1]
+
+The prosecution of contraventions under Articles 56*a* to 56*e* is subject to a limitation period of seven years.
+
+[^56i-1]: Inserted by Annex 1 No 3 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ## Section 8 Transitional and Final Provisions
 
 ### Transitional provisions
@@ -826,7 +1012,7 @@ Commencement date: 1 July 1934[^59-1]
 
 [^59-1]: FCD of 8 May 1934 ([AS 50 345](https://fedlex.data.admin.ch/eli/oc/50/345_357_401)).
 
-## Final provision to the amendment of 17 June 1994****
+## Final provision to the amendment of 17 June 1994
 
 [^u1-1]
 
@@ -834,7 +1020,7 @@ Commencement date: 1 July 1934[^59-1]
 
 Articles that were manufactured before the commencement of the Amendment of 17 June 1994 and which satisfy the previous but not the new provisions may be placed on the market on a commercial basis for a maximum of one year after commencement of this Amendment.
 
-## Final provision to the amendment of 15 June 2018****
+## Final provision to the amendment of 15 June 2018
 
 [^u2-1]
 
@@ -849,7 +1035,19 @@ Articles that were manufactured before the commencement of the Amendment of 17 J
 [^u2-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^u2-5]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-Annex 1*[^t-2]*
+## Final provisions to the amendment of 19 March 2021
+
+[^u3-1]
+
+[^u3-1]: [AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)
+
+<sup>1</sup> No purchase licence or registration is required for the commercial purchase of melt material within the meaning of Article 1 paragraph 3 letter b or c for the first twelve months after the amendment of 19 March 2021 enters into force.
+
+<sup>2</sup> Trade assayers and group companies that are newly subject to a licence requirement in accordance with Article 42<sup>bis</sup> when this amendment enters into force must comply with the requirements of this Act and submit a licence application to the Central Office within three months of this amendment coming into force. Together with their application, they must in particular submit the last few years' audit reports on compliance with the duties under Chapter 2 of the AMLA[^u3-2]. They may continue their activity until a decision has been made concerning the licence
+
+[^u3-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+Annex 1[^t-2]
 
 (Art. 2 para. 2)
 
@@ -865,16 +1063,14 @@ Thickness:
 - – Platings of silver: 10 micrometers
 - – Gold-capped («coiffe or») watch-cases and additional parts: 200 micrometers
 
-### 2.
-
-Fineness:
+### 2. Fineness
 
 - – Gold: 585 parts per thousand
 - – Platinum: 850 parts per thousand
 - – Palladium: 500 parts per thousand
 - – Silver: 800 parts per thousand
 
-Annex 2*[^t-3]*
+Annex 2[^t-3]
 
 (Art. 3 para. 2)
 

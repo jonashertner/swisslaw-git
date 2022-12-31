@@ -4,20 +4,20 @@ title: "Loi fédérale du 20 juin 1933 sur le contrôle du commerce des métaux 
 short: LCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur le contrôle du commerce des métaux précieux et des ouvrages en métaux précieux
 
-(Loi sur le contrôle des métaux précieux, LCMP)**[^t-1]**
+(Loi sur le contrôle des métaux précieux, LCMP)[^t-1]
 
-du 20 juin 1933 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 juin 1933 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon l’art. 75 ch. 2 de la L du 28 août 1992 sur la protection des marques, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -376,11 +376,11 @@ Le colportage d’ouvrages soumis à la présente loi[^23-2] est interdit. Cette
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^23-2]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
-## Chapitre IV Fabrication de produits de la fonte****
+## Chapitre IV Commerce des produits de la fonte et des matières pour la fonte
 
 [^chap4-1]
 
-[^chap4-1]: Nouvelle teneur selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^chap4-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Fabrication de produits de la fonte
 
@@ -463,6 +463,26 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 <sup>2</sup> Le Conseil fédéral fixera les obligations du titulaire de la patente de fondeur.
 
+### Achat par métier de matières pour la fonte
+
+#### Art. 31a
+
+[^31a-1]
+
+<sup>1</sup> Celui qui fait métier d’acheter des matières pour la fonte au sens de l’art. 1, al. 3, let. b ou c, doit s’assurer de la provenance de la marchandise et la documenter.
+
+<sup>2</sup> S’il est inscrit au registre suisse du commerce, il doit s’enregistrer auprès du bureau central.
+
+<sup>3</sup> S’il n’est pas inscrit au registre suisse du commerce, il doit obtenir une patente d’acheteur du bureau central. Celle-ci lui est octroyée s’il offre toute garantie d’une activité commerciale irréprochable.
+
+<sup>4</sup> L’art. 26 est applicable par analogie à l’octroi, au renouvellement et au retrait de la patente d’acheteur.
+
+<sup>5</sup> Le Conseil fédéral définit l’achat par métier; il tient notamment compte des risques de blanchiment d’argent et de financement du terrorisme que présente une telle activité. Il règle les modalités des obligations de diligence et de documentation.
+
+<sup>6</sup> Les al. 1 à 5 ne s’appliquent pas aux titulaires d’une patente de fondeur selon l’art. 24.
+
+[^31a-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ### Titrage des produits de la fonte
 
 ### a. Compétence et objet
@@ -485,11 +505,12 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 #### Art. 34
 
-<sup>1</sup> Le Conseil fédéral édictera les prescriptions de détail concernant la procédure à suivre pour l’octroi, le renouvellement et le retrait des patentes de fondeur, ainsi que pour la détermination du titre. Il pourra aussi régler la reconnaissance des déterminations officielles de titre effectuées à l’étranger.[^34-1]
+<sup>1</sup> Le Conseil fédéral règle les modalités concernant la procédure à suivre pour l’octroi, le renouvellement et le retrait des patentes de fondeur et d’acheteur, ainsi que pour la détermination du titre.[^34-1] Il pourra aussi régler la reconnaissance des déterminations officielles de titre effectuées à l’étranger.[^34-2]
 
 <sup>2</sup> Il fixera le montant des droits à percevoir pour les opérations mentionnées à l’alinéa précédent. L’art. 18, al. 2, est applicable par analogie.
 
-[^34-1]: Nouvelle teneur selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^34-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-2]: Nouvelle teneur selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ## Chapitre V Organisation
 
@@ -505,15 +526,31 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 [^35-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié). Il a été tenu compte de cette mod. dans tout le texte.
 
-### b. Attribution
+### b. Attributions
 
 #### Art. 36
 
-<sup>1</sup> Le bureau central surveille le commerce des métaux précieux et des ouvrages en métaux précieux.
+[^36-1]
 
-<sup>2</sup> En particulier, il enregistre les poinçons de maître et surveille le contrôle et le poinçonnement officiels des ouvrages en métaux précieux. L’octroi des patentes de fondeur, ainsi que la surveillance du titrage des produits de la fonte sont de son ressort.[^36-1] Il surveille la gestion des bureaux de contrôle, ainsi que celle des essayeurs du commerce. Il délivre les diplômes d’essayeur-juré et les patentes d’essayeur du commerce.
+<sup>1</sup> Le bureau central surveille le commerce des métaux précieux et des ouvrages en métaux précieux selon la présente loi et la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^36-2].
 
-[^36-1]: Nouvelle teneur de la phrase selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+<sup>2</sup>
+
+Il a en particulier les tâches suivantes:
+
+- a. enregistrer les poinçons de maître;
+- b. surveiller le contrôle et le poinçonnement officiels des ouvrages en métaux précieux;
+- c. octroyer les patentes de fondeur et d’acheteur;
+- d. tenir le registre des personnes qui font le métier d’acheter des matières pour la fonte;
+- e. surveiller l’achat par métier de matières pour la fonte;
+- f. surveiller le titrage des produits de la fonte;
+- g. surveiller la gestion des bureaux de contrôle et des essayeurs du commerce;
+- h. délivrer les diplômes d’essayeur-juré et les autorisations d’exercer la profession d’essayeur du commerce.
+
+<sup>3</sup> Il perçoit des émoluments pour son activité de surveillance du commerce des métaux précieux et des ouvrages en métaux précieux et une taxe de surveillance pour financer les coûts des activités prévues à l’al. 2, let. e, et à l’art. 42<sup>ter</sup> qui ne sont pas couverts par les émoluments. La taxe de surveillance pour les activités prévues à l’al. 2, let. e, est prélevée sous forme de montant forfaitaire pour une période de quatre ans. Le total du bilan et le produit brut sont déterminants pour fixer la taxe annuelle de surveillance pour les activités prévues à l’art. 42<sup>ter</sup>. Le Conseil fédéral règle les modalités applicables aux émoluments et à la taxe de surveillance.
+
+[^36-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^36-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 ### Bureau de contrôle
 
@@ -569,9 +606,9 @@ Seul le titulaire d’une patente de fondeur peut faire métier de fabriquer des
 
 #### Art. 41
 
-L’exercice de la profession d’essayeur du commerce est subordonné à une autorisation du bureau central. Pour obtenir cette autorisation, il faut être titulaire d’un diplôme fédéral d’essayeur-juré, avoir domicile en Suisse et jouir d’une bonne réputation. Outre l’autorisation précitée, les essayeurs du commerce peuvent acquérir une patente de fondeur.[^41-1] Les essayeurs du commerce jurent ou promettent devant le bureau central de remplir fidèlement les devoirs de leur profession. Ils sont compétents pour déterminer le titre des produits de la fonte, mais ne sont pas autorisés à contrôler ni à poinçonner officiellement des ouvrages en métaux précieux. Ils touchent comme indemnité le produit des droits prévus par le Conseil fédéral.
+L’exercice de la profession d’essayeur du commerce est subordonné à une autorisation du bureau central. Pour obtenir cette autorisation, il faut être titulaire d’un diplôme fédéral d’essayeur-juré, avoir domicile en Suisse et jouir d’une bonne réputation. Outre l’autorisation précitée, les essayeurs du commerce peuvent acquérir une patente de fondeur ou d’acheteur.[^41-1] Les essayeurs du commerce jurent ou promettent devant le bureau central de remplir fidèlement les devoirs de leur profession. Ils sont compétents pour déterminer le titre des produits de la fonte, mais ne sont pas autorisés à contrôler ni à poinçonner officiellement des ouvrages en métaux précieux. Ils touchent comme indemnité le produit des droits prévus par le Conseil fédéral.
 
-[^41-1]: Nouvelle teneur de la phrase selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^41-1]: Nouvelle teneur de la phrase selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### b. Obligations. Responsabilité
 
@@ -581,20 +618,47 @@ L’exercice de la profession d’essayeur du commerce est subordonné à une au
 
 <sup>2</sup> L’art. 40 est applicable par analogie. Le retrait du diplôme d’essayeur-juré entraîne celui de l’autorisation d’exercer.
 
-### Autorisation supplémentaire pour le négoce de métaux précieux bancaires
+### c. Autorisation supplémentaire en matière de négoce de métaux précieux bancaires
 
 #### Art. 42<sup>bis</sup>
 
 [^42bis-1]
 
-<sup>1</sup> Les essayeurs du commerce qui effectuent eux-mêmes ou par l’intermédiaire d’une société du groupe le négoce de métaux précieux bancaires à titre professionnel doivent obtenir une autorisation de l’Autorité fédérale de surveillance des marchés financiers (FINMA) et être placés sous sa surveillance au sens de l’art. 61, al. 1, 2 et 4 de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^42bis-2].
+<sup>1</sup> Les essayeurs du commerce qui effectuent eux-mêmes ou par l’intermédiaire d’une société du groupe le négoce de métaux précieux bancaires à titre professionnel doivent obtenir une autorisation du bureau central.
 
-<sup>2</sup> Si une société négocie les métaux précieux bancaires d’un essayeur du commerce faisant partie du même groupe de sociétés, elle a également besoin d’une autorisation selon l’al. 1.
+<sup>2</sup>
 
-<sup>3</sup> Les dispositions concernant les conditions d’autorisation pour les gestionnaires de fortune au sens de l’art. 17, al. 1, LEFin s’appliquent par analogie.
+L’autorisation est accordée à l’essayeur du commerce s’il remplit les conditions suivantes:
 
-[^42bis-1]: Introduit par l’annexe ch. II 11 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42bis-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+- a. il est inscrit au registre du commerce sous une raison commerciale;
+- b. il dispose de prescriptions internes et d’une organisation propres à garantir le respect des obligations découlant de la LBA[^42bis-2];
+- c. il jouit d’une bonne réputation et présente toutes les garanties de respecter les obligations découlant de la LBA;
+- d. les personnes chargées de l’administration et de la direction de ses affaires satisfont aux conditions énoncées à la let. c;
+- e. les personnes détenant une participation qualifiée dans cet essayeur du commerce jouissent d’une bonne réputation et garantissent que leur influence ne soit pas exercée au détriment d’une gestion saine et prudente de ce dernier.
+
+<sup>3</sup> Si une société négocie à titre professionnel les métaux précieux bancaires d’un essayeur du commerce faisant partie du même groupe de sociétés, elle doit également obtenir une telle autorisation. Les conditions prévues à l’al. 2 doivent être remplies.
+
+[^42bis-1]: Introduit par l’annexe ch. II 11 de la LF du 15 juin 2018 sur les établissements financiers ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42bis-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### d. Surveillance en matière de négoce de métaux précieux bancaires
+
+#### Art. 42<sup>ter</sup>
+
+[^42ter-1]
+
+<sup>1</sup> Les titulaires d’autorisation visés à l’art. 42<sup>bis</sup> sont soumis à la surveillance du bureau central visée à l’art. 12, let. b<sup>ter</sup>, LBA[^42ter-2].
+
+<sup>2</sup> Le bureau central effectue lui-même l’audit des titulaires d’autorisation ou le fait effectuer par une personne qualifiée et indépendante (chargé d’audit).
+
+<sup>3</sup> Les art. 24*a*, al. 2 et 3, 25, al. 1, 29 à 33, 34, 36 à 38, 39, al. 1, 40, 41, 42 et 42*a* de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^42ter-3] sont applicables par analogie. Les chargés d’audit et les chargés d’enquête sont soumis au secret de fonction.
+
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières[^42ter-4] règle les modalités de la surveillance et des audits.
+
+[^42ter-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42ter-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42ter-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^42ter-4]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 ## Chapitre VI Recours
 
@@ -609,7 +673,7 @@ L’exercice de la profession d’essayeur du commerce est subordonné à une au
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Abrogés par l’annexe ch. 135 de la L du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Chapitre VII Dispositions pénales****
+## Chapitre VII Dispositions pénales
 
 [^chap7-1]
 
@@ -687,15 +751,19 @@ sera puni, s’il a agi intentionnellement, de l’emprisonnement ou de l’amen
 
 [^47-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 1994, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 997](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-### e. Commerce illicite
+### e. Commerce illicite et non-respect des obligations de diligence, de documentation et d’enregistrement
 
 #### Art. 48
 
 [^48-1]
 
-Celui qui, sans être titulaire d’une patente de fondeur ou d’une autorisation d’exercer la profession d’essayeur du commerce, se sera livré à des opérations pour lesquelles l’un des documents précités est exigé sera puni d’une amende.
+Quiconque, sans être titulaire d’une patente de fondeur ou d’acheteur ou d’une autorisation d’exercer la profession d’essayeur du commerce, se livre à des opérations pour lesquelles l’un des documents précités est exigé,
 
-[^48-1]: Nouvelle teneur selon le ch. I 5 de la LF du 21 déc. 2007 sur la suppression et la simplification de procédures d’autorisation, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 311](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+quiconque ne respecte pas les obligations de diligence et de documentation prévues à l’art. 31*a*, al. 1, ou l’obligation de s’enregistrer prévue à l’art. 31*a*, al. 2,
+
+est puni d’une amende.
+
+[^48-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### f. Infractions à l’interdiction de colportage et aux prescriptions sur l’achat direct
 
@@ -780,6 +848,117 @@ Celui qui, intentionnellement ou par négligence, contrevient à une disposition
 [^56-1]: Nouvelle teneur selon l’annexe ch. 20 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^56-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
+### 7. Infractions dans le négoce de métaux précieux bancaires
+
+### a. Exercice de l’activité sans autorisation
+
+#### Art. 56a
+
+[^56a-1]
+
+<sup>1</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, exerce une activité visée à l’art. 42<sup>bis</sup>, al. 1 ou 3, sans avoir obtenu d’autorisation.
+
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
+
+[^56a-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### b. Fausses informations
+
+#### Art. 56b
+
+[^56b-1]
+
+<sup>1</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, donne de fausses informations au bureau central ou à un chargé d’audit ou d’enquête.
+
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
+
+[^56b-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### c. Violation des obligations des chargés d’audit ou d’enquête
+
+#### Art. 56c
+
+[^56c-1]
+
+<sup>1</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, en tant que chargé d’audit ou d’enquête viole gravement ses obligations en fournissant d’importantes fausses informations ou en passant sous silence des faits importants dans le rapport au bureau central.
+
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
+
+[^56c-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### d. Audit et enquête
+
+#### Art. 56d
+
+[^56d-1]
+
+<sup>1</sup> Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement, omet de faire procéder à l’audit exigé par le bureau central ou ne remplit pas les obligations qui lui incombent envers le chargé d’audit ou d’enquête.
+
+<sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
+
+[^56d-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### e. Non-respect des décisions du bureau central
+
+#### Art. 56e
+
+[^56e-1]
+
+Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement, ne se conforme pas à une décision entrée en force que le bureau central lui a signifiée sous la menace de la peine prévue par le présent article ou à une décision des instances de recours.
+
+[^56e-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### f. Infractions commises au sein d’une entreprise
+
+#### Art. 56f
+
+[^56f-1]
+
+Il est loisible de renoncer à poursuivre les personnes punissables et de condamner à leur place l’entreprise au paiement de l’amende (art. 7 de la LF du 22 mars 1974 sur le droit pénal administratif[^56f-2]) aux conditions suivantes:
+
+- a. l’enquête rendrait nécessaires à l’égard des personnes punissables en vertu de l’art. 6 de la loi fédérale sur le droit pénal administratif des mesures d’instruction hors de proportion par rapport à la peine encourue;
+- b. l’amende entrant en ligne de compte pour les infractions aux dispositions pénales prévues aux art. 56*a* à 56*e* ne dépasse pas 50 000 francs.
+
+[^56f-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56f-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### g. Compétence
+
+#### Art. 56g
+
+[^56g-1]
+
+<sup>1</sup> La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^56g-2] est applicable aux infractions aux dispositions pénales prévues aux art. 56*a* à 56*e*. Le Département fédéral des finances est l’autorité de poursuite et de jugement.
+
+<sup>2</sup> Si le jugement par le tribunal a été demandé ou si le Département fédéral des finances estime que les conditions requises pour infliger une peine ou une mesure privative de liberté sont remplies, le jugement relève de la juridiction fédérale. Dans ce cas, le Département fédéral des finances dépose le dossier auprès du Ministère public de la Confédération, qui le transmet au Tribunal pénal fédéral. Le renvoi pour jugement tient lieu d’accusation. Les art. 73 à 83 de la loi fédérale sur le droit pénal administratif sont applicables par analogie.
+
+<sup>3</sup> Le représentant du Ministère public de la Confédération et le représentant du Département fédéral des finances ne sont pas tenus de comparaître en personne aux débats.
+
+[^56g-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56g-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### h. Jonction des procédures
+
+#### Art. 56h
+
+[^56h-1]
+
+<sup>1</sup> Lorsqu’une affaire pénale relève à la fois de la compétence du Département fédéral des finances et de la juridiction fédérale ou cantonale, le Département fédéral des finances peut ordonner la jonction des procédures devant l’autorité de poursuite pénale déjà saisie de l’affaire, pour autant qu’il existe un rapport étroit entre les deux procédures, que l’affaire ne soit pas pendante auprès du tribunal appelé à juger et que la jonction ne retarde pas indûment la procédure pendante.
+
+<sup>2</sup> La Cour des plaintes du Tribunal pénal fédéral tranche les contestations entre le Département fédéral des finances et le Ministère public de la Confédération ou les autorités cantonales.
+
+[^56h-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### i. Prescription
+
+#### Art. 56i
+
+[^56i-1]
+
+La poursuite des contraventions prévues aux art. 56*a* à 56*e* se prescrit par sept ans.
+
+[^56i-1]: Introduit par l’annexe 1 ch. 3 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ## Chapitre VIII Dispositions transitoires et finales
 
 ### Disposition transitoire
@@ -816,7 +995,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> juillet 1934[^59-1]
 
 [^59-1]: ACF du 8 mai 1934 ([RO 50 357](https://fedlex.data.admin.ch/eli/oc/50/345_357_401))
 
-## Disposition finale de la modification du 17 juin 1994****
+## Disposition finale de la modification du 17 juin 1994
 
 [^u1-1]
 
@@ -824,7 +1003,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> juillet 1934[^59-1]
 
 Les ouvrages fabriqués avant l’entrée en vigueur de la modification du 17 juin 1994 et qui sont conformes aux anciennes prescriptions, mais non aux nouvelles, peuvent être mis professionnellement dans le commerce dans un délai d’une année au plus après l’entrée en vigueur de cette modification.
 
-## Dispositions finales de la modification du 15 juin 2018****
+## Dispositions finales de la modification du 15 juin 2018
 
 [^u2-1]
 
@@ -839,7 +1018,19 @@ Les ouvrages fabriqués avant l’entrée en vigueur de la modification du 17 ju
 [^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-Annexe 1*[^t-2]*
+## Dispositions finales de la modification du 19 mars 2021
+
+[^u3-1]
+
+[^u3-1]: [RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)
+
+<sup>1</sup> La patente ou l’enregistrement nécessaire pour l’achat par métier de matières pour la fonte au sens de l’art. 1, al. 3, let. b ou c, n’est pas exigée durant les douze premiers mois suivant l’entrée en vigueur de la modification du 19 mars 2021.
+
+<sup>2</sup> Les essayeurs du commerce et les sociétés de groupe qui, à l’entrée en vigueur de cette modification, sont soumis à l’obligation d’obtenir une autorisation en vertu de l’art. 42<sup>bis</sup> doivent, dans les trois mois suivant l’entrée en vigueur de cette modification, satisfaire aux exigences de la présente loi et demander une autorisation au bureau central. Ils remettent avec leur demande d’autorisation notamment les rapports d’audit des dernières années portant sur le respect des obligations définies au chap. 2 LBA[^u3-2]. Ils peuvent poursuivre leur activité jusqu’à ce qu’il soit statué sur l’autorisation.
+
+[^u3-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+Annexe 1[^t-2]
 
 (art. 2, al. 2)
 
@@ -860,7 +1051,7 @@ Annexe 1*[^t-2]*
 - – Palladium: 500 millièmes
 - – Argent: 800 millièmes
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 3, al. 2)
 

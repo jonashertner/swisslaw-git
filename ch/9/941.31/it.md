@@ -4,20 +4,20 @@ title: "Legge federale del 20 giugno 1933 sul controllo del commercio in metalli
 short: LCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/345_357_401"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1933-06-20
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20220101/it/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/345_357_401/20230101/it/xml/fedlex-data-admin-ch-eli-cc-50-345_357_401-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/345_357_401/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sul controllo del commercio in metalli preziosi e in lavori di metalli preziosi
 
-(Legge sul controllo dei metalli preziosi, LCMP)**[^t-1]**
+(Legge sul controllo dei metalli preziosi, LCMP)[^t-1]
 
-del 20 giugno 1933 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 20 giugno 1933 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta l’art. 75 n. 2 della LF del 28 ago. 1992 sulla protezione dei marchi e delle indicazioni di provenienza, in vigore dal 1° apr. 1993 ([RU 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274); [FF 1991 I 1](https://fedlex.data.admin.ch/eli/fga/1991/1_1_1_1)).
 
@@ -324,7 +324,7 @@ Il Consiglio federale stabilisce le norme più particolareggiate circa la proced
 [^20-2]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-3]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^20-4]: Nuovo testo giusta l’all. n. 19 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^20-5]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639)**,** **1959** 1400 art. 11 n. III, [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644),[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7, [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1,[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III, [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3, [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816), [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2, [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13, [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92 [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6, [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249))
+[^20-5]: [CS **6** 475; [RU 1956 639](https://fedlex.data.admin.ch/eli/oc/1956/587_635_639);**1959** 1400 art. 11 n. III; [1973 644](https://fedlex.data.admin.ch/eli/oc/1973/644_644_644);[1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 7; [1980 1793](https://fedlex.data.admin.ch/eli/oc/1980/1793_1793_1793)n. I 1;[1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)n. III; [1994 1634](https://fedlex.data.admin.ch/eli/oc/1994/1634_1634_1634)n. I 3; [1995 1816](https://fedlex.data.admin.ch/eli/oc/1995/1816_1816_1816); [1996 3371](https://fedlex.data.admin.ch/eli/oc/1996/3371_3371_3371)all. 2 n. 2; [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 13; [2000 1300](https://fedlex.data.admin.ch/eli/oc/2000/212)art. 92, [1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. VI 6; [2002 248](https://fedlex.data.admin.ch/eli/oc/2002/53)n. I 1 art. 41; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 1; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 50. [RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249)art. 131 cpv. 1]. Vedi ora la L del 18 mar. 2005 sulle dogane ([RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249))
 
 ### Esportazione
 
@@ -375,11 +375,11 @@ Se ha il sospetto che un marchio d’artefice o un marchio di fusione o verifica
 
 [^23-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-## Capo quarto: Fabbricazione di prodotti della fusione****
+## Capo quarto: Commercio di prodotti della fusione e di materie da fondere
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^chap4-1]: Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### Fabbricazione di prodotti della fusione
 
@@ -463,6 +463,26 @@ Solo il titolare di una patente di fonditore può fabbricare industrialmente pro
 
 <sup>2</sup> Il Consiglio federale stabilirà gli obblighi da imporre al titolare della patente di fonditore.
 
+### Acquisto a titolo professionale di materie da fondere
+
+#### Art. 31a
+
+[^31a-1]
+
+<sup>1</sup> Chiunque acquista a titolo professionale materie da fondere ai sensi dell’articolo 1 capoverso 3 lettera b o c deve accertare la provenienza della merce e documentarla.
+
+<sup>2</sup> Se è iscritto nel registro svizzero di commercio, deve registrarsi all’Ufficio centrale.
+
+<sup>3</sup> Se non è iscritto nel registro svizzero di commercio, necessita di una patente di acquirente dell’Ufficio centrale. La patente è rilasciata se vi è la garanzia di un’attività commerciale ineccepibile.
+
+<sup>4</sup> Per il rilascio, il rinnovamento e la revoca della patente di acquirente si applica per analogia l’articolo 26.
+
+<sup>5</sup> Il Consiglio federale definisce nel dettaglio l’acquisto a titolo professionale; a tal fine considera segnatamente i rischi associati al riciclaggio di denaro e al finanziamento del terrorismo rappresentati da tale attività. Disciplina nel dettaglio gli obblighi di diligenza e di documentazione.
+
+<sup>6</sup> I capoversi 1–5 non si applicano ai titolari di una patente di fonditore secondo l’articolo 24.
+
+[^31a-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ### Titolo dei prodotti della fusione
 
 ### a. Competenza e oggetto
@@ -485,11 +505,12 @@ Solo il titolare di una patente di fonditore può fabbricare industrialmente pro
 
 #### Art. 34
 
-<sup>1</sup> Il Consiglio federale stabilisce le norme più particolareggiate sulla procedura da seguire per il rilascio, il rinnovamento e la revoca delle patenti di fonditore, come pure per la determinazione del titolo. Esso può emanare norme per il riconoscimento delle determinazioni ufficiali di titoli compiute all’estero.[^34-1]
+<sup>1</sup> Il Consiglio federale stabilisce le norme più particolareggiate sulla procedura da seguire per il rilascio, il rinnovamento e la revoca delle patenti di fonditore e di acquirente, come pure per la determinazione del titolo.[^34-1] Esso può emanare norme per il riconoscimento delle determinazioni ufficiali di titoli compiute all’estero.[^34-2]
 
 <sup>2</sup> Il Consiglio federale fisserà l’ammontare delle tasse da riscuotere per le operazioni menzionate nel capoverso 1. L’articolo 18 capoverso 2 è applicabile per analogia.
 
-[^34-1]: Nuovo testo giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^34-1]: Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^34-2]: Nuovo testo giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
 
 ## Capo quinto: Organizzazione
 
@@ -509,11 +530,27 @@ Solo il titolare di una patente di fonditore può fabbricare industrialmente pro
 
 #### Art. 36
 
-<sup>1</sup> L’Ufficio centrale sorveglia il commercio dei metalli preziosi e dei lavori di metalli preziosi.
+[^36-1]
 
-<sup>2</sup> In particolare, esso registra i marchi d’artefice e vigila la verificazione e marchiatura ufficiale dei lavori di metalli preziosi. Spetta pure ad esso rilasciare le patenti di fonditore nonché vigilare sulla determinazione del titolo dei prodotti della fusione.[^36-1] Esso invigila la gestione degli uffici di controllo e dei saggiatori del commercio. Rilascia i diplomi pei saggiatori giurati e i certificati d’abilitazione professionale pei saggiatori del commercio.
+<sup>1</sup> L’Ufficio centrale sorveglia il commercio dei metalli preziosi e dei lavori di metalli preziosi secondo la presente legge e la legge del 10 ottobre 1997[^36-2] sul riciclaggio di denaro (LRD).
 
-[^36-1]: Nuovo testo del per. giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+<sup>2</sup>
+
+Ha in particolare i seguenti compiti:
+
+- a. registrare i marchi d’artefice;
+- b. sorvegliare la verificazione e marchiatura ufficiale dei lavori di metalli preziosi;
+- c. rilasciare le patenti di fonditore e di acquirente;
+- d. tenere il registro delle persone che acquistano a titolo professionale materie da fondere;
+- e. sorvegliare l’acquisto a titolo professionale di materie da fondere;
+- f. sorvegliare la determinazione del titolo dei prodotti della fusione;
+- g. sorvegliare la gestione degli uffici di controllo e dei saggiatori del commercio;
+- h. rilasciare i diplomi per i saggiatori del controllo e le autorizzazioni di esercitare la professione per i saggiatori del commercio.
+
+<sup>3</sup> L’Ufficio centrale riscuote emolumenti per la sua attività di sorveglianza del commercio dei metalli preziosi e dei lavori di metalli preziosi e una tassa di vigilanza per i costi delle attività di cui al capoverso 2 lettera e nonché all’articolo 42<sup>ter</sup> non coperti dagli emolumenti. La tassa di vigilanza per le attività di cui al capoverso 2 lettera e è riscossa come importo forfettario per un periodo di quattro anni. Per il calcolo della tassa annua di vigilanza per le attività di cui all’articolo 42<sup>ter</sup> sono determinanti la somma di bilancio e il reddito lordo. Il Consiglio federale disciplina nel dettaglio gli emolumenti e la tassa di vigilanza.
+
+[^36-1]: Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^36-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 ### Uffici di controllo
 
@@ -565,13 +602,18 @@ Solo il titolare di una patente di fonditore può fabbricare industrialmente pro
 
 ### Saggiatori del commercio
 
-### a. Permesso di esercitarne la professione. Mansioni
+### a. Autorizzazione di esercitare la professione. Mansioni
+
+[^chap5-lvlu4-lvla-1]
+
+[^chap5-lvlu4-lvla-1]: Nuovo testo del per. giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 #### Art. 41
 
-Per esercitare la professione di saggiatore del commercio occorre il permesso dell’Ufficio centrale. Questo permesso non sarà accordato se non a chi possieda il diploma federale di saggiatore, abbia domicilio in Isvizzera e goda di buona riputazione. Ai saggiatori del commercio è lecito ottenere in pari tempo la patente di fonditore.[^41-1] I saggiatori del commercio prestano giuramento o promessa all’Ufficio centrale di adempiere fedelmente i doveri della loro professione. Essi possono determinare il titolo dei prodotti della fusione riscotendo in compenso le tasse previste dal Consiglio federale. Non sono invece autorizzati a eseguire verificazioni e marchiature ufficiali di lavori di metalli preziosi.
+Per esercitare la professione di saggiatore del commercio occorre l’autorizzazione[^41-1] dell’Ufficio centrale. Questo permesso non sarà accordato se non a chi possieda il diploma federale di saggiatore, abbia domicilio in Isvizzera e goda di buona riputazione. Ai saggiatori del commercio è lecito ottenere in pari tempo la patente di fonditore o di acquirente.[^41-2] I saggiatori del commercio prestano giuramento o promessa all’Ufficio centrale di adempiere fedelmente i doveri della loro professione. Essi possono determinare il titolo dei prodotti della fusione riscotendo in compenso le tasse previste dal Consiglio federale. Non sono invece autorizzati a eseguire verificazioni e marchiature ufficiali di lavori di metalli preziosi.
 
-[^41-1]: Nuovo testo del per. giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+[^41-1]: Nuova espr. giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^41-2]: Nuovo testo del per. giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### b. Obblighi. Responsabilità
 
@@ -579,22 +621,51 @@ Per esercitare la professione di saggiatore del commercio occorre il permesso de
 
 <sup>1</sup> I saggiatori del commercio devono tenere un registro delle determinazioni di titolo eseguite e delle tasse per ciò riscosse. L’Ufficio centrale, come pure le autorità di polizia, possono consultare, a scopo d’inchieste ufficiali, i registri tenuti ed esigere schiarimenti circa le registrazioni fatte. Le disposizioni sul modo di tenere i registri saranno stabilite dal Consiglio federale.
 
-<sup>2</sup> È applicabile per analogia l’articolo 40. Insieme col diploma di saggiatore sarà ritirato anche il permesso di libero esercizio della professione.
+<sup>2</sup> È applicabile per analogia l’articolo 40. Insieme col diploma di saggiatore sarà ritirato anche l’autorizzazione di esercitare la professione[^42-1].
 
-### Autorizzazione complementare per il commercio di metalli preziosi bancari
+[^42-1]: Nuova espr. giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### c. Autorizzazione complementare per il commercio di metalli preziosi bancari
 
 #### Art. 42<sup>bis</sup>
 
 [^42bis-1]
 
-<sup>1</sup> I saggiatori del commercio che, a titolo professionale, commerciano direttamente o attraverso una società del gruppo metalli preziosi bancari necessitano dell’autorizzazione dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) e sottostanno alla vigilanza della stessa conformemente all’articolo 61 capoversi 1, 2 e 4 della legge del 15 giugno 2018[^42bis-2] sugli istituti finanziari (LIsFi).
+<sup>1</sup> I saggiatori del commercio che, a titolo professionale, commerciano direttamente o attraverso una società del gruppo metalli preziosi bancari necessitano dell’autorizzazione dell’Ufficio centrale.
 
-<sup>2</sup> La società che commercia metalli preziosi bancari di un saggiatore del commercio appartenente allo stesso gruppo necessita parimenti dell’autorizzazione di cui al capoverso 1.
+<sup>2</sup>
 
-<sup>3</sup> Sono applicabili per analogia le disposizioni sulle condizioni di autorizzazione per i gestori patrimoniali ai sensi dell’articolo 17 capoverso 1 LIsFi.
+L’autorizzazione è rilasciata al saggiatore del commercio se:
 
-[^42bis-1]: Nuovo testo giusta l’all. n. II 11 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^42bis-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+- a. è iscritto come ditta commerciale nel registro di commercio;
+- b. dispone di prescrizioni interne e di un’organizzazione che garantiscono l’osservanza degli obblighi derivanti dalla LRD[^42bis-2];
+- c. gode di buona reputazione e offre la garanzia dell’osservanza degli obblighi derivanti dalla LRD;
+- d. le persone incaricate della sua amministrazione e gestione adempiono parimenti le condizioni di cui alla lettera c; e
+- e. le persone che vi detengono una partecipazione qualificata godono di buona reputazione e garantiscono che l’influenza da loro esercitata non pregiudichi un’attività prudente e solida.
+
+<sup>3</sup> La società che, a titolo professionale, commercia metalli preziosi bancari di un saggiatore del commercio appartenente allo stesso gruppo necessita parimenti di una tale autorizzazione. Le condizioni di cui al capoverso 2 devono essere soddisfatte.
+
+[^42bis-1]: Introdotto dall’all. n. II 11 della LF del 15 giu. 2018 sugli istituti finanziari ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42bis-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### d. Vigilanza sul commercio di metalli preziosi bancari
+
+#### Art. 42<sup>ter</sup>
+
+[^42ter-1]
+
+<sup>1</sup> I titolari dell’autorizzazione di cui all’articolo 42<sup>bis</sup> sottostanno alla vigilanza dell’Ufficio centrale secondo l’articolo 12 lettera b<sup>ter</sup> LRD[^42ter-2].
+
+<sup>2</sup> L’Ufficio centrale effettua esso stesso le verifiche dei titolari dell’autorizzazione o incarica a tale scopo uno specialista indipendente (incaricato della verifica).
+
+<sup>3</sup> Gli articoli 24*a* capoversi 2 e 3, 25 capoverso 1, 29–33, 34, 36–38, 39 capoverso 1, 40, 41, 42 e 42*a* della legge del 22 giugno 2007[^42ter-3] sulla vigilanza dei mercati finanziari (LFINMA) si applicano per analogia. Gli incaricati di verifiche e gli incaricati di inchieste sottostanno al segreto d’ufficio.
+
+<sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^42ter-4] disciplina i dettagli della vigilanza e delle verifiche.
+
+[^42ter-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^42ter-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^42ter-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^42ter-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 ## Capo sesto: Ricorsi
 
@@ -609,7 +680,7 @@ Per esercitare la professione di saggiatore del commercio occorre il permesso de
 [^43-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 [^43-2]: Abrogati dall’all. n. 135 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-## Capo settimo: Disposizioni penali****
+## Capo settimo: Disposizioni penali
 
 [^chap7-1]
 
@@ -687,15 +758,19 @@ chiunque mette in circolazione lavori di metalli preziosi o prodotti di fusione 
 
 [^47-1]: Nuovo testo giusta il n. I della LF del 17 giu. 1994, in vigore dal 1° ago. 1995 ([RU 1995 3102](https://fedlex.data.admin.ch/eli/oc/1995/3102_3102_3102); [FF 1993 II 929](https://fedlex.data.admin.ch/eli/fga/1993/2_1033_997_929)).
 
-### e. Commercio senza patente o permesso
+### e. Commercio senza patente o autorizzazione, inosservanza degli obblighi di diligenza e di documentazione nonché dell’obbligo di registrazione
 
 #### Art. 48
 
 [^48-1]
 
-Chiunque, senza possedere una patente di fonditore o un permesso d’esercitare la professione di saggiatore del commercio, compie operazioni per le quali è necessario uno dei detti documenti, è punito con la multa.
+Chiunque, senza possedere una patente di fonditore o di acquirente o un’autorizzazione di esercitare la professione di saggiatore del commercio, compie operazioni per le quali è necessario uno dei detti documenti,
 
-[^48-1]: Nuovo testo giusta il n. I 5 della LF del 21 dic. 2007 sulla soppressione e la semplificazione delle procedure d’autorizzazione, in vigore dal 1° giu. 2008 ([RU 2008 2265](https://fedlex.data.admin.ch/eli/oc/2008/327); [FF 2007 309](https://fedlex.data.admin.ch/eli/fga/2007/50)).
+chiunque non rispetta gli obblighi di diligenza e di documentazione secondo l’articolo 31*a* capoverso 1 o l’obbligo di registrazione secondo l’articolo 31*a* capoverso 2,
+
+è punito con la multa.
+
+[^48-1]: Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### f. Reati contro il divieto del commercio ambulante e contro le norme sull’acquisto diretto
 
@@ -778,6 +853,117 @@ Chiunque, intenzionalmente o per negligenza, disattende una norma della presente
 [^56-1]: Nuovo testo giusta l’all. n. 20 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^56-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
 
+### a. Attività senza autorizzazione
+
+#### Art. 56a
+
+[^56a-1]
+
+<sup>7.</sup> Infrazioni nel commercio di metalli preziosi bancari
+
+<sup>1</sup> Chiunque, intenzionalmente, esercita senza autorizzazione un’attività di cui all’articolo 42<sup>bis</sup> capoverso 1 o 3, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
+
+[^56a-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### b. Comunicazione di informazioni false
+
+#### Art. 56b
+
+[^56b-1]
+
+<sup>1</sup> Chiunque, intenzionalmente, fornisce informazioni false all’Ufficio centrale, a un incaricato della verifica o a un incaricato dell’inchiesta, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
+
+[^56b-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### c. Violazione di obblighi da parte delle persone incaricate
+
+#### Art. 56c
+
+[^56c-1]
+
+<sup>1</sup> Chiunque, intenzionalmente, in qualità di incaricato della verifica o incaricato dell’inchiesta viola gravemente i propri obblighi, fornendo informazioni false o sottacendo fatti essenziali nel rendiconto all’Ufficio centrale, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
+
+[^56c-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### d. Verifica e inchiesta
+
+#### Art. 56d
+
+[^56d-1]
+
+<sup>1</sup> Chiunque, intenzionalmente, omette di fare effettuare una verifica ordinata dall’Ufficio centrale o non adempie gli obblighi che gli incombono nei confronti dell’incaricato della verifica o dell’incaricato dell’inchiesta, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+<sup>2</sup> Chi ha agito per negligenza è punito con la multa sino a 250 000 franchi.
+
+[^56d-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### e. Inosservanza di decisioni dell’Ufficio centrale
+
+#### Art. 56e
+
+[^56e-1]
+
+Chiunque, intenzionalmente, non ottempera a una decisione passata in giudicato intimatagli dall’Ufficio centrale con la comminatoria della pena prevista dal presente articolo o a una decisione delle autorità di ricorso, è punito con la multa sino a 100 000 franchi.
+
+[^56e-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### f. Infrazioni commesse nell’azienda
+
+#### Art. 56f
+
+[^56f-1]
+
+Si può prescindere dalla determinazione delle persone punibili e condannare in loro vece l’azienda al pagamento della multa (art. 7 della legge federale del 22 marzo 1974[^56f-2] sul diritto penale amministrativo) se:
+
+- a. la determinazione delle persone punibili ai sensi dell’articolo 6 della legge federale sul diritto penale amministrativo esige provvedimenti d’inchiesta sproporzionati rispetto all’entità della pena; e
+- b. per le infrazioni alle disposizioni penali di cui agli articoli 56*a*–56*e* è prevista una multa massima di 50 000 franchi.
+
+[^56f-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56f-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### g. Competenza
+
+#### Art. 56g
+
+[^56g-1]
+
+<sup>1</sup> La legge federale del 22 marzo 1974[^56g-2] sul diritto penale amministrativo è applicabile alle infrazioni alle disposizioni penali di cui agli articoli 56*a*–56*e*. Il Dipartimento federale delle finanze è l’autorità di perseguimento e di giudizio.
+
+<sup>2</sup> Se è stato chiesto il giudizio di un tribunale o se il Dipartimento federale delle finanze ritiene adempiute le condizioni per una pena detentiva o una misura privativa della libertà, il giudizio del reato compete alla giurisdizione federale. In tal caso il Dipartimento federale delle finanze trasmette gli atti al Ministero pubblico della Confederazione all’attenzione del Tribunale penale federale. La trasmissione degli atti funge da accusa. Gli articoli 73–83 della legge federale sul diritto penale amministrativo sono applicabili per analogia.
+
+<sup>3</sup> Il rappresentante del Ministero pubblico della Confederazione e il rappresentante del Dipartimento federale delle finanze non sono tenuti a comparire personalmente al dibattimento.
+
+[^56g-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^56g-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+
+### h. Riunione del perseguimento penale
+
+#### Art. 56h
+
+[^56h-1]
+
+<sup>1</sup> Se nell’ambito di una causa penale è data sia la competenza del Dipartimento federale delle finanze, sia quella della giurisdizione federale o cantonale, il Dipartimento federale delle finanze può ordinare la riunione del perseguimento penale dinanzi all’autorità di perseguimento che già se ne occupa, sempreché vi sia stretta connessione materiale, la causa non sia ancora pendente presso l’autorità giudicante e la riunione non ritardi in misura insostenibile la procedura in corso.
+
+<sup>2</sup> Le contestazioni tra il Dipartimento federale delle finanze e il Ministero pubblico della Confederazione o le autorità cantonali sono decise dalla Corte dei reclami penali del Tribunale penale federale.
+
+[^56h-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### i. Prescrizione
+
+#### Art. 56i
+
+[^56i-1]
+
+Il perseguimento delle contravvenzioni di cui agli articoli 56*a*–56*e* si prescrive in sette anni.
+
+[^56i-1]: Introdotto dall’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ## Capo ottavo: Disposizioni finali e transitorie
 
 ### Disposizioni transitorie
@@ -814,7 +1000,7 @@ Data dell’entrata in vigore: 1° luglio 1934[^59-1]
 
 [^59-1]: DCF dell’8 mag. 1934 (RU **50** 419).
 
-## Disposizione finale della modifica del 17 giugno 1994****
+## Disposizione finale della modifica del 17 giugno 1994
 
 [^u1-1]
 
@@ -822,11 +1008,11 @@ Data dell’entrata in vigore: 1° luglio 1934[^59-1]
 
 Gli oggetti fabbricati prima dell’entrata in vigore della modificazione del 17 giugno 1994, conformi alle precedenti prescrizioni ma non alle nuove, possono essere messi in commercio a titolo professionale per un periodo massimo di un anno a decorrere dall’entrata in vigore della presente modificazione.
 
-## Disposizione finale della modifica del 15 giugno 2018****
+## Disposizione finale della modifica del 15 giugno 2018
 
 [^u2-1]
 
-[^u2-1]: [RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762), ; [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141). Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^u2-1]: [RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141). Nuovo testo giusta l’all. 1 n. 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 <sup>1</sup> I saggiatori del commercio e le società del gruppo che all’entrata in vigore della modifica del 15 giugno 2018 dispongono di un’autorizzazione della FINMA secondo l’articolo 14 LRD[^u2-2] nella versione del 1° gennaio 2009[^u2-3] devono incaricare una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori conformemente all’articolo 9*a* della legge del 16 dicembre 2005[^u2-4] sui revisori di effettuare una verifica conformemente all’articolo 24 LFINMA[^u2-5].
 
@@ -837,7 +1023,19 @@ Gli oggetti fabbricati prima dell’entrata in vigore della modificazione del 17
 [^u2-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^u2-5]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-Allegato 1*[^t-2]*
+## Disposizioni finali della modifica del 19 marzo 2021
+
+[^u3-1]
+
+[^u3-1]: [RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)
+
+<sup>1</sup> Durante i primi dodici mesi dall’entrata in vigore della modifica del 19 marzo 2021 non occorre ancora essere in possesso di una patente di acquirente o essere registrati per acquistare a titolo professionale materie da fondere ai sensi dell’articolo 1 capoverso 3 lettera b o c.
+
+<sup>2</sup> I saggiatori del commercio e le società del gruppo che all’entrata in vigore della presente modifica sono sottoposti all’obbligo di autorizzazione secondo l’articolo 42<sup>bis</sup> devono, entro tre mesi dall’entrata in vigore della presente modifica, adempiere i requisiti previsti dalla presente legge e presentare una domanda di autorizzazione all’Ufficio centrale. Unitamente alla domanda, devono inoltrare in particolare i rapporti di verifica degli ultimi anni concernenti l’osservanza degli obblighi di cui al capitolo 2 LRD[^u3-2]. Possono proseguire la loro attività fino alla decisione concernente l’autorizzazione.
+
+[^u3-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+Allegato 1[^t-2]
 
 (art. 2 cpv. 2)
 
@@ -858,7 +1056,7 @@ Allegato 1*[^t-2]*
 - – palladio: 500 millesimi
 - – argento: 800 millesimi
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 3 cpv. 2)
 
