@@ -4,11 +4,10 @@ number: "922.11"
 title: Kantonale Jagdverordnung (JV)
 short: JV
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2023-01-01
+nachtrag: "119"
+valid_until: 2025-09-01
 adopted: 2022-10-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-922_11-1975_11_05-1976_04_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-922_11-2022_10_05-2023_01_01-119.html"
 text: pdf
 ---
 
@@ -16,487 +15,868 @@ text: pdf
 
 # Kantonale Jagdverordnung (JV)
 
-(vom 5. November 1975)[^t-2],[^t-3][^t-1]
+(vom 5. Oktober 2022)[^t-1],[^t-2]
 
-Der Regierungsrat beschliesst:
+Der Regierungsrat,
 
-[^t-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^t-2]: OS 46, 11 und GS VII, 244.
-[^t-3]: In Kraft seit 1. April 1976.
+gestützt auf §§ 3 Abs. 2, 9 Abs. 1, 10 Abs. 2, 12 Abs. 2, 17 Abs. 3, 23 Abs. 3, 24 Abs. 2, 26 Abs. 1 und 38 Abs. 2 des Kantonalen Jagdgesetzes vom 1. Februar 2021 (JG)[^t-3],
 
-### I. Jagdrecht und Verpachtung
+beschliesst:
 
-**Jagdberechtigung**
+[^t-1]: OS 77, 613; Begründung siehe ABl 2022-11-04. Vom Bund am 28. November 2022 genehmigt.
+[^t-2]: Inkrafttreten: 1. Januar 2023.
+[^t-3]: LS 922.1.
 
-§ 1.[^hIJagdrechtundVer-1] <sup>1</sup> Zur Ausübung der Jagd ist berechtigt, wer:
+### A. Zuständigkeit
 
-- a. Inhaber eines Zürcher oder eines vom Kanton Zürich anerkannten ausserkantonalen Jagdpasses ist und
+#### § 1
 
-- b. den jährlichen jagdlichen Treffsicherheitsnachweis erbracht hat.
+<sup>1</sup> Das Amt für Landschaft und Natur (ALN) vollzieht die Jagdgesetzgebung und diese Verordnung, soweit nicht Dritte zuständig sind.
 
-<sup>2</sup> Die Baudirektion legt die Anforderungen an den Treffsicherheitsnachweis fest.
+<sup>2</sup> Mitarbeitende der Fischerei- und Jagdverwaltung sind jederzeit zur Durchführung von Kontrollen berechtigt.
 
-**Zürcher Jagdpass**
-
-§ 1 a.[^hIJagdrechtundVer-2] <sup>1</sup> Einen Zürcher Jagdpass lösen muss, wer:
-
-- a. seinen Wohnsitz im Kanton Zürich hat und
-
-- b. die Jagd im Kanton Zürich ausüben will.
-
-<sup>2</sup> Davon ausgenommen ist, wer Jagdpächter ist in einem Kanton, mit dem eine Gegenrechtserklärung gemäss § 14<sup>bis</sup> des Gesetzes über Jagd und Vogelschutz vom 12. Mai 1929 (Kantonales Jagdgesetz)[^hIJagdrechtundVer-3] und das Gegenrecht betreffend die Anerkennung der Jagdpässe vereinbart wurde.
-
-[^hIJagdrechtundVer-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^hIJagdrechtundVer-2]: Eingefügt durch RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^hIJagdrechtundVer-3]: LS 922.1.
+### B. Jagdreviere und Reviervergabe
 
 #### § 2
 
-**Erfordernisse der Ausgabe**
+**Revierbewertung a. Grundsatz**
 
-Der Jagdpass darf erst nach dem Vorliegen aller gesetzlichen und vertraglichen Erfordernisse ausgehändigt werden.
+<sup>1</sup> Das ALN bewertet die Reviere in der ersten Hälfte des letzten Pachtjahres und legt die Pachtzinse fest.
 
-§§ 3–5.[^2-1]
+<sup>2</sup> Es berücksichtigt bei der Bewertung die Reviergrösse, die Reviergrenzen, die Verteilung von Wald und Feld, die geografische und topografische Lage sowie weitere wertvermehrende oder wertvermindernde Faktoren.
 
-**Besondere Erfordernisse a. Revierpächterpass**
+<sup>3</sup> Es erlässt Richtlinien zur Bewertung der Reviere.
 
-§ 6. Der Revierpächterpass wird nur Bewerbern ausgehändigt, die Pächter eines zürcherischen Revieres sind und die bis zur Ausgabe des Passes fällig gewordenen Verpflichtungen aus der Wildschadenverhütungs- und Wildschadenersatzpflicht erfüllt haben.
+#### § 3
 
-**b. Jagdaufseherpass**
+**b. Revierschätzungskommission**
 
-§ 7.[^2-2] Der Jagdaufseherpass wird nur vertrauenswürdigen Schweizer Bürgern ausgehändigt, welche das Handgelübde abgelegt haben und entweder Revierpächter sind oder von einem solchen als Jagdaufseher angestellt werden.
+<sup>1</sup> Das ALN wählt eine Revierschätzungskommission. Diese berät es bei der Bewertung.
 
-**Revierpächter-, Jagdaufseherpass**
+<sup>2</sup> Die Kommission setzt sich zusammen aus Vertreterinnen und Vertretern a. des ALN,
 
-§ 8.[^2-2] Der Revierpächter- und der Jagdaufseherpass berechtigen den Inhaber, als Jagdgast an der Jagd in anderen Revieren des Kantons teilzunehmen.
+- b. der Gemeinden,
+
+- c. der Jägerschaft.
+
+<sup>3</sup> Das ALN führt den Vorsitz und das Sekretariat.
 
 **1**
 
-- 1\. 1. 18 - 99 § 9.[^2-3] Zuständig für den Entzug des Jagdpasses ist das Amt für Landschaft und Natur (ALN).
+- 1\. 1. 23 - 119 § 4. Gemeinden und Jagdgesellschaften können dem ALN Änderungen der Reviergrenzen bis spätestens ein Jahr vor Beginn der neuen Pachtperiode beantragen.
 
-**Entzug des Jagdpasses**
+#### § 5
 
-**Annahme finanzieller Leistungen**
+**Änderung der Reviergrenzen**
 
-§ 10.[^2-4] . . .[^2-5]
+**Öffentliche Ausschreibung**
 
-<sup>2</sup> Die Annahme von finanziellen Leistungen für die Ausübung der Jagd von dazu im Jagdpachtvertrag nicht verpflichteten Personen ist untersagt.
+<sup>1</sup> Die Ausschreibung der Jagdreviere enthält Angaben insbesondere über a. Reviergemeinden und die für die Vergabe zuständige Reviergemeinde,
 
-§§ 11 und 12.[^2-1]
+- b. Reviergrösse,
 
-**Jagdrevier a. Revierbewertung**
+- c. Pachtzins und Zahlungsmodalitäten,
 
-§ 13. <sup>1</sup> Die Revierbewertungen für die nächste Pachtperiode erfolgen in der ersten Hälfte des letzten Pachtjahres nach einheitlichen Richtlinien des ALN[^2-3] und berücksichtigen insbesondere die Reviergrösse, die Reviergrenzen, die Verteilung von Wald und Feld, den Wildbestand und die Wildarten, die geografische und topografische Lage, die Lärmeinwirkungen sowie andere wertvermehrende oder wertvermindernde Faktoren und den kantonalen Durchschnitt der bisherigen Pachtzinse sowie die seit der letzten Pachtperiode erfolgte Teuerung.
+- d. Mindestpächterzahl,
 
-<sup>2</sup> Wird ein Jagdrevier aus Teilgebieten mehrerer Gemeinden gebildet, so sind die entsprechenden Gemeindeanteile unter Berücksichtigung der verbesserten Jagdgrenzen zu bewerten.
+- e. Bewerbungsmodalitäten,
 
-<sup>3</sup> Über die von den Gemeinden zur Einschätzung der Jagdreviere einzuholenden Angaben erlässt das ALN[^2-3] die erforderlichen Weisungen.
+- f. Mindestanforderungen an den Gesellschaftsvertrag der Bewerbergruppe,
 
-[^2-1]: Aufgehoben durch RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^2-2]: Fassung gemäss RRB vom 22. Juni 2005 (OS 60, 260). In Kraft seit 1. August 2005.
-[^2-3]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^2-4]: OS 46, 11 und GS VII, 244.
-[^2-5]: Aufgehoben durch RRB vom 22. Juni 2005 (OS 60, 260). In Kraft seit 1. August 2005.
+- g. Pachtbestimmungen und Verfahren,
+
+- h. besondere Bestimmungen über den Jagdbetrieb und betreffend Anliegen der Wald- und Landwirtschaft sowie des Naturschutzes.
+
+<sup>2</sup> Bei gemeindeübergreifenden Revieren bestimmen die Gemeinden, wer für die Vergabe zuständig ist. Bei Uneinigkeit ist die Gemeinde mit dem grössten Anteil jagdbarer Fläche zuständig.
+
+#### § 6
+
+**Bewerbergruppe**
+
+Mitglieder der Bewerbergruppe sind jagdberechtigte Personen gemäss § 8 JG.
+
+#### § 7
+
+**Vergabe**
+
+<sup>1</sup> Die Pacht beginnt am 1. April und endet am 31. März des achten Jahres.
+
+<sup>2</sup> Die zuständige Reviergemeinde vergibt das Revier bis spätestens Ende Februar des letzten Jahres der laufenden Periode.
+
+<sup>3</sup> Sie vergibt das Revier der Bewerbergruppe, welche die beste Gewähr für die Erfüllung der jagdlichen Aufgaben bietet. Massgebend für die Beurteilung der Bewerbergruppen sind insbesondere die Qualität der bisherigen Jagdausübung, die örtliche Nähe zum Jagdrevier und der ökologische Leistungsnachweis der Bewerberinnen und Bewerber.
+
+<sup>4</sup> Als ökologischer Leistungsnachweis gelten Tätigkeiten der Mitglieder der Bewerbergruppe in den Bereichen Schutz und Förderung von Arten und Lebensräumen von Wildtieren.
+
+#### § 8
+
+**Freihändige Vergabe**
+
+<sup>1</sup> Ein Revier kann durch die Gemeinden freihändig vergeben werden, wenn a. für ein Jagdrevier keine Bewerbungen eingehen,
+
+- b. der Pachtvertrag während der Pachtperiode aufgelöst wird für die verbleibende Dauer der Pachtperiode.
+
+<sup>2</sup> Die Gemeinden holen vorgängig die Zustimmung des ALN ein.
+
+#### § 9
+
+**Vorläufige Pachtübernahme**
+
+<sup>1</sup> Wird gegen die Vergabe ein Rechtsmittel erhoben, übernimmt die Bewerbergruppe, die den Zuschlag erhalten hat, die Pflichten gemäss §§ 13 und 15 JG bis zum Abschluss des Verfahrens.
+
+<sup>2</sup> Die Kosten für die Vergütung von Wildschäden tragen während dieser Zeit das ALN zu drei Vierteln und die Reviergemeinden zu einem Viertel.
+
+#### § 10
+
+**Jagdbezirke**
+
+<sup>1</sup> Das ALN teilt die Jagdreviere in regionale Jagdbezirke ein.
+
+<sup>2</sup> Für jeden Jagdbezirk wird ein Ausschuss ernannt, der aus Vertreterinnen und Vertretern des Jagdbezirks sowie der Forst- und Landwirtschaft besteht.
+
+<sup>3</sup> Das ALN regelt die Zusammensetzung und die Aufgaben der Jagdbezirksausschüsse in einem Reglement.
+
+### C. Jagdgesellschaft
+
+#### § 11
+
+**Vertretung der Gesellschaft**
+
+<sup>1</sup> Die Jagdgesellschaft bevollmächtigt ein Mitglied mit ihrer Vertretung.
+
+<sup>2</sup> Die bevollmächtigte Person stellt dem ALN und den Reviergemeinden eine Mitgliederliste zu und meldet Ein- und Austritte sowie Adressänderungen umgehend.
+
+<sup>3</sup> Sie vertritt ihre Jagdgesellschaft im regionalen Jagdbezirk.
+
+#### § 12
+
+**Mindestpächterzahl**
+
+<sup>1</sup> Das ALN kann die Mindestpächterzahl bei Eintritt besonderer Verhältnisse während der Pachtperiode ändern.
+
+<sup>2</sup> Wer Mitglied bei mehreren Jagdgesellschaften ist, zählt nur bei einer Gesellschaft zur Mindestpächterzahl.
+
+#### § 13
+
+**Mitgliederwechsel**
+
+<sup>1</sup> Scheidet ein Mitglied aus der Jagdgesellschaft aus oder verliert es die Jagdberechtigung, setzen die übrigen Mitglieder das Pachtverhältnis fort.
+
+<sup>2</sup> Wird die Mindestpächterzahl unterschritten, nimmt die Gesellschaft innert sechs Monaten für den Rest der Pachtdauer neue Mitglieder auf.
+
+<sup>3</sup> Die Aufnahme neuer Mitglieder bedarf der Zustimmung der Gemeinde.
 
 #### § 14
 
-**b. Grenzbereinigungen**
+**Haftpflichtversicherung**
 
-Vereinbarungen über die Grenzbereinigungen zwischen Gemeinden benachbarter Reviere gelten jeweils für die ganze Pachtperiode. Sofern bis zum 1. April des letzten Pachtjahres keine Änderungen vorgenommen werden, gelten sie auch für die folgende Periode.
-
-[^14-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-
-#### § 15
-
-**c. Steigerungsberechtigung**
-
-<sup>1</sup> Steigerungsberechtigt sind nur Personen, die aufgrund von § 11 des Kantonalen Jagdgesetzes[^14-1] von der Pacht eines Jagdreviers und vom Besitz eines Jagdpasses nicht ausgeschlossen sind.
-
-<sup>2</sup> Bewerber für ein Jagdrevier müssen sich spätestens eine Woche vor der Versteigerung mit dem vorgeschriebenen Formular bei der verpachtenden Gemeinde anmelden. Das Formular kann bei den Gemeinden oder bei der Fischerei- und Jagdverwaltung bezogen werden.
-
-#### § 16
-
-**d. Zahl der Pächter in zusammengelegten Jagdrevieren**
-
-Beim Zusammenschluss mehrerer benachbarter Jagdreviere ergibt die Addition der minimalen und der maximalen Pächterzahlen der einzelnen Reviere je die entsprechende Gesamtpächterzahl für das zusammengelegte Jagdrevier. Dies gilt sinngemäss auch für die Zahl der Jagdaufseher.
-
-[^16-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-
-#### § 17
-
-**e. Änderungen der Grenzen**
-
-<sup>1</sup> Die Gemeinden geben dem ALN[^16-1] und dem Statthalteramt von allen Änderungen der Grenzen der Jagdreviere mit Angabe der Fläche und Bewirtschaftung (Wald, landwirtschaftlich genutzte Fläche und jagdlich ertraglose Fläche) Kenntnis.
-
-<sup>2</sup> Sie teilen ferner dem ALN[^17-1] und dem Statthalteramt die Bildung oder Aufhebung von Wildschonrevieren und Vogelschutzgehölzen unter Angabe der Grenzen mit.
-
-<sup>3</sup> Die Gemeinden geben dem ALN[^17-1] von den Gebietsabtretungen Kenntnis, welche die Jagdpächter mit Zustimmung des Gemeindevorstands[^17-2] vorgenommen haben.
-
-[^17-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^17-2]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
-
-#### § 18
-
-**f. Änderungen der Gesellschaft und der Bevollmächtigten**
-
-<sup>1</sup> Die Jagdpächter sind verpflichtet, der Gemeinde von jedem Wechsel im Bestand der Gesellschaft und der Person des Bevollmächtigten unverzüglich Kenntnis zu geben. Die Gemeinde teilt diese Änderungen sofort dem ALN[^17-1] mit.
-
-<sup>2</sup> Das gleiche gilt bei Adressänderungen von Pächtern und Jagdaufsehern.
-
-### II. Jagdbetrieb
-
-**Jagdzeiten**
-
-§ 19.[^hIIJagdbetrieb-1] <sup>1</sup> Gemäss Art. 5 Abs. 4 des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel[^hIIJagdbetrieb-2] gelten folgende eingeschränkte Jagdzeiten:
-
-- a. für Rehböcke, Schmalrehe und Galtgeissen vom 2. Mai bis 31. Dezember,
-
-- b. für Rehgeissen und Rehkitze vom 1. September bis 31. Dezember.
-
-<sup>2</sup> Gemeinschaftsjagden auf Rehwild, an denen der Schrotschuss zulässig ist, können vom 1. Oktober bis 15. Dezember durchgeführt werden.
-
-<sup>3</sup> In Ausnahmefällen kann das ALN die Jagdzeiten ändern.
-
-**Geschützte Tiere**
-
-§ 19 a.[^hIIJagdbetrieb-3] In Ergänzung zu § 27 Abs. 1 lit. b des Kantonalen Jagdgesetzes sind folgende Tiere geschützt:
-
-- a. Haubentaucher und Blässhühner,
-
-- b. laktierende, führende Muttertiere von Wildschweinen.
-
-**Zulässige Jagdwaffen und Munition**
-
-§ 20.[^hIIJagdbetrieb-1] <sup>1</sup> Jagdwaffen und Munition müssen auf die eingesetzte Distanz tödlich wirken. Kombinierte Waffen bis zum Drilling sind zulässig.
-
-<sup>2</sup> Schrot- und Flintenlaufgeschosse sind für eine Höchstdistanz von 30 m zulässig, Flintenlaufgeschosse jedoch nur für die Jagd auf Wildschweine.
+Jedes Mitglied der Jagdgesellschaft schliesst eine Haftpflichtversicherung ab. Diese muss auch Schäden abdecken, welche die Jagdgäste, die Jagdaufsicht oder Hilfspersonen verursachen, soweit das Mitglied dafür haftbar ist.
 
 **3**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 23 - 119 § 15. Hegegemeinschaften sind spätestens drei Monate nach Beginn des neuen Pachtjahres schriftlich beim ALN zu beantragen. Die Vereinbarung regelt insbesondere
 
-<sup>3</sup> Für Schrotflinten gelten folgende Anforderungen:
+**Hegegemeinschaften**
 
-- a. die Patronen müssen Schrotgrössen von mindestens 1,75 mm und höchstens 4,50 mm aufweisen und
+- a. die Teile der Jagdausübung, auf die sich die Vereinbarung bezieht,
 
-- b. die Schrotläufe müssen ein Kaliber von mindestens 20 (15,7 mm) aufweisen.
+- b. die Organisation der Hegegemeinschaft,
 
-<sup>4</sup> Jagdkugelpatronen sind für eine Distanz von höchstens 200 m zulässig. Es gelten folgende Anforderungen:
+- c. die Abgangsplanung und die Realisierung der Abschüsse sowie die Kommunikation über revierübergreifende Abschüsse,
 
-- a. das Kaliber muss mindestens 6,0 mm betragen,
+- d. die revierübergreifende Haftung der einzelnen Mitglieder,
 
-- b. für Hirsche und Wildschweine ist eine Auftreffenergie von wenigstens 2000 Joule auf 200 m erforderlich,
+- e. die Vertretung der Hegegemeinschaft gegenüber dem Kanton,
 
-- c. für Gämsen ist eine Auftreffenergie von wenigstens 1500 Joule auf 150 m erforderlich,
+- f. die Verteilung von Aufwendungen und Erträgen.
 
-- d. für Rehe ist eine Auftreffenergie von wenigstens 1000 Joule auf 100 m erforderlich,
+#### § 16
 
-- e. bei Schalenwild ist die Verwendung von Vollmantelgeschossen verboten.
+**Annahme finanzieller Leistungen**
 
-<sup>5</sup> Jagdpächter und Jagdaufsichtsorgane dürfen für den Abschuss von verletztem oder krankem Wild sowie von jagdbaren Vögeln und Kleinraubwild Jagdkugelpatronen mit einem Kaliber unter 6 mm verwenden, wenn die Auftreffenergie bei einer Distanz von 100 m mindestens 90 Joule beträgt.
+Die Jagdgesellschaft darf für die Ausübung der Jagd keine finanziellen Leistungen entgegennehmen.
 
-<sup>6</sup> Das ALN kann Ausnahmebewilligungen für den Einsatz von Waffen, Munition und Waffenzubehör erteilen.
+### D. Jagdberechtigung und Jagdpässe
 
-<sup>7</sup> Die Verwendung von Narkosegewehren in der freien Wildbahn ist ohne Bewilligung des ALN[^hIIJagdbetrieb-4] verboten.
+#### § 17
 
-<sup>8</sup> Grundeigentümer, Pächter und Verwalter von Gutsbetrieben sind berechtigt, zum Schutz des Grundeigentums nach § 41 des Kantonalen Jagdgesetzes diejenigen Waffen und Geräte zu verwenden, die bei der Jagd von Revierpächtern und Jagdaufsichtsorganen verwendet werden dürfen.
+**Jagdberechtigung**
 
-**Abschusspläne für Rehwild**
+<sup>1</sup> Ohne Jagdpass jagdberechtigt ist, wer a. in einem Kanton oder Land wohnhaft ist, der oder das die kantonalen jagdlichen Prüfungen anerkennt, und b. einen anerkannten ausserkantonalen Jagdpass sowie ein anerkanntes ausserkantonales Jagdfähigkeitszeugnis besitzt.
 
-§ 21.[^hIIJagdbetrieb-4] <sup>1</sup> Der Rehwildabschuss muss im Rahmen eines vom ALN genehmigten jährlichen Abschussplanes vorgenommen werden. Der Abschussplan hat sowohl den Interessen der Land- und Forstwirtschaft für den Schutz gegen untragbaren Wildschaden als auch der Öffentlichkeit für die Erhaltung eines gesunden Rehwildbestandes Rechnung zu tragen. Die Pächter sind dafür verantwortlich, dass der Abschussplan eingehalten wird.
+<sup>2</sup> In begründeten Fällen kann das ALN die Jagdberechtigung ohne anerkannten ausserkantonalen Jagdpass erteilen.
 
-<sup>2</sup> Der Abschussplan ist vom Einzelpächter oder vom Bevollmächtigten einer Jagdgesellschaft bis spätestens 15. Mai jedes Jahres der Fischerei- und Jagdverwaltung einzureichen.
+<sup>3</sup> Der Jagdpass wird während der Jagd mitgeführt und den Aufsichtsorganen auf Verlangen vorgewiesen.
 
-<sup>3</sup> Das ALN erlässt die Richtlinien über die Erstellung der Abschusspläne. Es ist ermächtigt, die eingereichten Pläne unter Berücksichtigung der verschiedenen Interessen abzuändern.
+<sup>4</sup> Wird ein Jagdpass nicht oder nur teilweise genutzt, werden die Gebühren nicht zurückerstattet.
 
-**Abschuss verletzter oder kranker Tiere**
+#### § 18
 
-§ 22.[^hIIJagdbetrieb-1] <sup>1</sup> Jagdpächter und Jagdaufsichtsorgane sind verpflichtet, verletzte, anomale oder kranke Wildtiere während des ganzen Jahres, falls notwendig auch zur Nachtzeit sowie an Sonn- und öffentlichen Ruhetagen, nachzusuchen und zu erlegen.
+**Revierpächterpass, Pass für die Revieraufsicht**
 
-<sup>2</sup> Sie sind verpflichtet, bei einem Aufgebot der Polizei oder Dritter unverzüglich an Unfälle mit Wildtieren auszurücken, das Tier zu versorgen und das Meldeformular für den Fahrzeuglenker zuhanden der Versicherung auszufüllen.
+<sup>1</sup> Das ALN stellt den Mitgliedern der Jagdgesellschaft einen Revierpächterpass und der Person, welche die Jagdaufsicht ausübt, einen Pass für die Revieraufsicht aus. Diese Pässe sind für die Dauer der Pachtperiode gültig.
 
-<sup>3</sup> Stellen sie an erlegtem Wild oder an Fallwild ungewöhnliche Krankheitserscheinungen fest, informieren sie umgehend die Fischerei- und Jagdverwaltung und sprechen mit dieser das weitere Vorgehen ab. Die Jagdpächter vermerken die Krankheitserscheinung im Wildbuch.
+<sup>2</sup> Der Revierpächterpass und der Pass für die Revieraufsicht berechtigen die Inhaberinnen und Inhaber, die Jagd in ihrem Revier und als Jagdgast in anderen Revieren auszuüben.
 
-**Nachsuche und Wildfolge a. Allgemeines**
+#### § 19
 
-§ 23.[^hIIJagdbetrieb-1] <sup>1</sup> Jede Jagdgesellschaft bezeichnet für ihr Revier ein Nachsuchegespann und meldet dieses der Fischerei- und Jagdverwaltung.
+**Gästejagdpass, Jagdkarten**
 
-<sup>2</sup> Flieht ein beschossenes, verletztes oder krankes Tier, besteht die Pflicht zur Nachsuche mit einem auf Schweiss geprüften Hund.
+<sup>1</sup> Das ALN stellt Personen, die auf Einladung einer Jagdgesellschaft die Jagd in deren Revier ausüben, einen Gästejagdpass aus. Diese Gästejagdpässe können für eine Dauer von bis zu zwei Jahren ausgestellt werden.
 
-<sup>3</sup> Nachsuchen sind unabhängig vom Erfolg gemäss Weisung der Fischerei- und Jagdverwaltung zu dokumentieren.
+<sup>2</sup> Jagen Gäste ohne Begleitung eines Mitglieds der Jagdgesellschaft, führen sie neben dem Gästejagdpass eine Jagdkarte der Jagdgesellschaft, in deren Revier sie jagen, mit.
 
-**b. In Nachbarrevieren**
+<sup>3</sup> Die Jagdgesellschaften können Jagdkarten beim ALN kostenlos beziehen.
 
-§ 23 a.[^hIIJagdbetrieb-3] <sup>1</sup> Die Pflicht zur Nachsuche besteht auch, wenn das Tier das Revier verlässt.
+<sup>4</sup> Das ALN stellt Personen mit Jagdfähigkeitszeugnis, die in einem Kanton oder Land wohnen, der oder das die kantonalen jagdlichen Prüfungen nicht anerkennt, Gästejagdpässe aus, soweit der Kanton oder das Land Inhaberinnen und Inhabern des kantonalen Jagdfähigkeitsausweises Jagdberechtigungen erteilt.
 
-<sup>2</sup> Solche Nachsuchen müssen unabhängig vom Erfolg innerhalb eines Tages einem zuständigen Revierpächter oder Jagdaufseher des betroffenen Nachbarreviers gemeldet werden. Für die Nachsuche in Wildschonrevieren, in anderen Kantonen oder im Ausland sind die dort zuständigen Organe beizuziehen.
+#### § 20
 
-<sup>3</sup> Zur Strecke gebrachte Wildtiere werden in das Wildbuch desjenigen Reviers eingetragen, in dem sie verletzt bzw. festgestellt worden sind.
+**Nachweis der Treffsicherheit**
 
-<sup>4</sup> Die Pächter benachbarter Reviere können Wildfolgeabkommen abschliessen.
+<sup>1</sup> Das ALN legt die Anforderungen für den Nachweis der Treffsicherheit fest.
 
-**Wildbuch**
+<sup>2</sup> Es kann auf begründetes Gesuch hin erleichterte Stellungs- oder Anschlagsarten bewilligen.
 
-§ 24.[^hIIJagdbetrieb-1] <sup>1</sup> Die Pächter führen für ihr Revier das elektronische Wildbuch gemäss Vorgabe des ALN. Sie tragen sämtliche Wildabgänge innert 24 Stunden nach Feststellung ein.
+<sup>3</sup> Der Nachweis der Treffsicherheit wird bei der Ausübung der Jagd mitgeführt.
+
+### E. Jagdliche Prüfungen
+
+#### § 21
+
+**Allgemeine Anforderung**
+
+Zu den jagdlichen Prüfungen wird zugelassen, wer im Kanton Wohnsitz hat. In begründeten Ausnahmefällen kann das ALN Ausnahmen gewähren.
+
+#### § 22
+
+**Arten a. Zulassung als Anwärterin oder Anwärter**
+
+<sup>1</sup> Als Anwärterin oder Anwärter wird zugelassen, wer die Theorieprüfung und die Schiessprüfung bestanden hat.
+
+<sup>2</sup> Zur Theorieprüfung wird zugelassen, wer nachweist, dass keine Ausschlussgründe gemäss § 10 JG vorliegen.
+
+<sup>3</sup> Zur Schiessprüfung wird zugelassen, wer vor längstens zwei Jahren die Theorieprüfung bestanden und innert vier Wochen vor dem Prüfungstermin in einem Jagdschiessstand das Schiessprogramm bereits einmal erfüllt hat.
+
+<sup>4</sup> Wer in einem anderen Kanton eine als gleichwertig anerkannte Schiessprüfung bestanden hat, kann auf Gesuch hin von der Schiessprüfung befreit werden.
+
+<sup>5</sup> Wer als Anwärterin oder Anwärter zugelassen wird, ist berechtigt, während der folgenden sechs Jahre als Jagdgast im Kanton Zürich zu jagen und Gästejagdpässe zu beziehen.
 
 **5**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 23 - 119 § 23. <sup>1</sup> Mit der Jagdprüfung wird die Jagdfähigkeit gemäss § 8 Abs.1 lit. b JG nachgewiesen.
 
-<sup>2</sup> Die Aufsichtsorgane der Fischerei- und Jagdverwaltung sind berechtigt, in die Wildbücher jederzeit Einsicht zu nehmen. Sie können auch die Vorlage der entsprechenden Trophäen verlangen, welche zu diesem Zweck während eines Jahres aufzubewahren sind.
+**b. Jagdprüfung**
 
-[^hIIJagdbetrieb-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^hIIJagdbetrieb-2]: SR 922.0.
-[^hIIJagdbetrieb-3]: Eingefügt durch RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^hIIJagdbetrieb-4]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
+<sup>2</sup> Wer seit mindestens zwei und längstens sechs Jahren Anwärterin oder Anwärter ist, wird zur Jagdprüfung zugelassen.
+
+<sup>3</sup> Die Jagdprüfung besteht aus einer Theorieprüfung und einer praktischen Prüfung, die auf die Aufgaben einer Jagdpächterin oder eines Jagdpächters ausgerichtet ist. Die Kenntnis des Stoffes für die Theorieprüfung und die Schiessprüfung wird vorausgesetzt.
+
+#### § 24
+
+**c. Jagdaufsichtsprüfung**
+
+<sup>1</sup> Die Jagdaufsichtsprüfung besteht aus einer Theorieprüfung und einer praktischen Prüfung, die auf die Aufgaben der Jagdaufsicht ausgerichtet ist. Die Kenntnis des Stoffes für die Jagdprüfung wird vorausgesetzt.
+
+<sup>2</sup> Zur Prüfung wird zugelassen, wer die Jagdprüfung vor mindestens zwei Jahren bestanden hat. Wer ein vom Kanton Zürich anerkanntes, ausserkantonales Jagdfähigkeitszeugnis besitzt, legt zusätzlich eine Prüfung im Fach Jagdrecht ab.
 
 #### § 25
 
-**Jagdergebnisse, Wildbestände, Meldepflicht**
+**Durchführung der Prüfungen**
 
-<sup>1</sup> Pächter und Bevollmächtigte der Jagdgesellschaften nehmen für ihr Revier den Wildbestand jährlich auf und tragen ihn bis zum 15. Mai ins Wildbuch ein. Einzutragen sind insbesondere: Reh-, Gäms- und Hirschwild (Rot-, Dam- und Sikawild), Wildschweine, Hasen, Füchse und Dachse.[^hIIJagdbetrieb-1]
+<sup>1</sup> Die Prüfungen werden von einer Prüfungskommission abgenommen.
 
-<sup>2</sup> Die Gemeinden sind berechtigt, bei der Aufnahme der Schalenwildbestände mitzuwirken.
+<sup>2</sup> Das ALN bestellt die Prüfungskommission und regelt die Durchführung der Prüfungen.
 
-[^25-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
+<sup>3</sup> Es legt die Prüfungsgebühren fest.
 
 #### § 26
 
-**Fallwild, Abwurfstangen**
+**Rechtsschutz**
 
-Das Recht zur Aneignung von Fallwild sowie von Abwurfstangen von Reh- und Hirschwild steht dem Jagdpächter zu, in Schongebieten dem Kanton[^25-1] oder der Gemeinde, die das Schongebiet geschaffen hat.
+Entscheide der Prüfungskommission können mit Rekurs bei der Baudirektion angefochten werden.
 
-**Fehlabschüsse**
+### F. Jagdplanung und Jagdbetrieb
 
-§ 27.[^26-1] Das ALN ist ermächtigt, bei Fehlabschüssen einen angemessenen Betrag in den Wildschadenfonds zu erheben.
+#### § 27
 
-§ 28.[^26-2]
+**Jagdbare Arten und Jagdzeiten**
 
-**Jagdhunde**
+<sup>1</sup> Als jagdbare Arten während folgender Jagdzeiten gelten:
 
-§ 29. <sup>1</sup> Zur Jagd sind nur von Jagdhunderassen abstammende Hunde zugelassen.
+- a. Rehböcke, Schmalrehe und Galtgeissen: 2. Mai – 31. Dezember,
 
-<sup>2</sup> Als Jagdhunde dürfen eingesetzt werden:[^26-1] a. für die Jagd auf Rehwild vom 1. Oktober bis 31. Dezember: Deutsche Wachtelhunde, Spaniels und laut jagende Hunde (Laufhunde/ Bracken, Stöber-, Bau- und Erdhunde sowie andere Jagdhunde mit einer Risthöhe bis 36 cm),
+- b. Rehgeissen und Rehkitze: 1. September – 31. Dezember,
 
-- b. für die Jagd auf Schwarzwild vom 1. Juli bis Ende Februar: die Hunde gemäss lit. a und andere gemäss den vom ALN festgelegten Prüfungsanforderungen geprüfte Jagdhunde,
+- c. Wildschweine: 1. Juli – Ende Februar, vorbehältlich der Regelung von Abs. 2,
 
-- c. das ganze Jahr: für die Vorsteh- und Apportierarbeit ausgebildete Hunde,
+- d. Rothirsch: 2. August – 31. Dezember gemäss Weisung des ALN,
 
-- d. für die Baujagd vom 1. Oktober bis 31. Januar: geprüfte Bau- oder Erdhunde.
+- e. Dam- und Sikahirsch: 2. August – 31. Januar,
 
-<sup>3</sup> Das ALN kann Ausnahmen bewilligen.
+- f. Gämse: 2. August – 31. Dezember gemäss Weisung des ALN,
 
-<sup>4</sup> Das ALN legt die Prüfungsanforderungen für Schweisshunde fest. Die Fischerei- und Jagdverwaltung stellt einen Prüfungsnachweis aus. Dieser ist vier Jahre gültig. Geprüfte Schweisshunde, die nachweislich mindestens zwölf Nachsuchen pro Jahr ausgeführt haben, können von der Wiederholungsprüfung befreit werden. Die Fischerei- und Jagdverwaltung stellt eine entsprechende Bestätigung aus.
+- g. Fuchs: 16. Juni – Ende Februar,
 
-[^26-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^26-2]: Aufgehoben durch RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^26-3]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
+- h. Dachs: 16. Juni – 15. Januar,
 
-#### § 30
+- i. Steinmarder: 1. September – 15. Februar
 
-**Wildernde Hunde und verwilderte Hauskatzen**
+- j. Stockente und Kormoran: 1. September – 31. Januar,
 
-<sup>1</sup> Zur Bewilligung des Abschusses wildernder Hunde, deren Eigentümer nicht bekannt sind, ist der Gemeindevorstand[^26-3] derjenigen Gemeinde zuständig, in deren Gebiet der Hund gewildert hat.
+- k. Rabenkrähe, Saat- und Nebelkrähe, Ringel-, Türkentaube, Elster und Eichelhäher: 2. August – 15. Februar,
 
-<sup>2</sup> Verwilderte Hauskatzen dürfen nur vom Jagdpächter oder Jagdaufseher und nur in Waldungen, mindestens 300 m ausserhalb des nächsten Wohn- oder Wirtschaftsgebäudes, erlegt werden.
+- l. andere nicht einheimische Wildtiere gemäss Anhang 1 und 2 der Jagdverordnung vom 29. Februar 1988[^27-1], verwilderte Hauskatze und verwilderte Haustaube: ganzjährig.
 
-§ 31.[^30-1]
+<sup>2</sup> Laktierende, führende Bachen sind geschützt. Das ALN entscheidet über den ganzjährigen Abschuss von Wildschweinen, die jünger als zweijährig sind und sich ausserhalb des Waldes aufhalten.
 
-**Markierungen**
+<sup>3</sup> Für Rabenkrähen, die in Schwärmen auftreten, gilt auf schadengefährdeten landwirtschaftlichen Kulturen keine Schonzeit.
 
-§ 32. Markierungen von Wild sind nur mit Bewilligung des ALN[^30-2] erlaubt.
+<sup>4</sup> In Fällen gemäss § 12 Abs. 4 lit. e JG kann das ALN die Jagdzeiten ändern.
 
-[^30-1]: Aufgehoben durch RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^30-2]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
+[^27-1]: SR 922.01. 1. 1. 23 - 119 19
 
-### III. Wildschaden
+#### § 28
 
-**Begriff**
+**Zeitliche Einschränkungen**
 
-§ 33.[^hIIIWildschaden-1] Als Wildschaden gilt der Schaden, den das Wild an Wald, landwirtschaftlichen Kulturen und Nutztieren anrichtet.
+<sup>1</sup> Die Schussabgabe ist von einer Stunde vor dem kalendarischen Sonnenaufgang bis einer Stunde nach dem kalendarischen Sonnenuntergang gestattet. Massnahmen gemäss § 12 Abs. 4 lit. e JG sowie § 40 bleiben vorbehalten.
 
-§§ 34 und 35.[^hIIIWildschaden-2]
+<sup>2</sup> Die Ausübung der Jagd zur Nachtzeit ist nur auf Sikahirsch, Wildschwein, Fuchs, Dachs, Steinmarder und nicht einheimische Wildtiere gestattet.
 
-§ 36.[^hIIIWildschaden-3]
+<sup>3</sup> An Sonntagen ist nur die Einzeljagd gestattet. Sie ist innerhalb der Vorgaben von Abs. 1 und 2 bis zwei Stunden nach dem kalendarischen Sonnenaufgang am Morgen und ab zwei Stunden vor dem kalendarischen Sonnenuntergang am Abend erlaubt.
 
-**Sonderbeiträge für den Wildschadenfonds**
+<sup>4</sup> An öffentlichen Ruhetagen und hohen Feiertagen gemäss § 1 Abs.1 lit. b und Abs. 2 des Ruhetags- und Ladenöffnungsgesetzes vom 26. Juni 2000[^28-1] ist die Jagd untersagt.
 
-§ 37.[^hIIIWildschaden-4] Die gemäss § 16 Abs. 4 des Kantonalen Jagdgesetzes[^hIIIWildschaden-5] für den Wildschadenfonds bestimmten Sonderbeiträge der Jagdgäste betragen:
+[^28-1]: LS 822.4.
 
-**Fr. 150 Fr. 60 Fr. 30**
+#### § 29
 
-für das Jahr für sechs Tage für zwei Tage
+**Jagdmethoden a. Allgemeines**
 
-**Verbesserung der Lebensräume**
+<sup>1</sup> Es ist verboten, Wildtiere in Nachbarrevieren aufzujagen, anzulocken oder zu verfolgen.
 
-§ 38.[^hIIIWildschaden-1] Beiträge für die ökologische Verbesserung der Lebensräume werden dem Wildschadenfonds belastet.
+<sup>2</sup> Die Wahl des Standortes fester Reviereinrichtungen, insbesondere von Ansitzkanzeln, erfolgt in Absprache mit der Besitzerin oder dem Besitzer. Reviereinrichtungen in der Kernzone von überkommunalen Naturschutzgebieten sind bewilligungspflichtig.
 
-§ 39.[^hIIIWildschaden-2]
+<sup>3</sup> Das ALN kann die Ausübung der Jagd im Bereich von Wildtierüber- oder -unterführungen und den vorgelagerten Leitstrukturen verbieten.
 
-**Abschussprämien**
-
-§ 40.[^hIIIWildschaden-5] Das ALN zahlt den Gemeinden aus dem Wildschadenfonds jährlich die Hälfte der Prämien zurück, die diese den Jagdgesellschaften für die Erlegung von Rabenkrähen, Elstern und Eichelhähern leisten, wenn die Prämien wenigstens Fr. 200 betragen.
-
-[^hIIIWildschaden-1]: Fassung gemäss RRB vom 24. November 1999 (OS 55, 533). In Kraft seit 1. Januar 2000.
-[^hIIIWildschaden-2]: Aufgehoben durch RRB vom 24. November 1999 (OS 55, 533). In Kraft seit 1. Januar 2000.
-[^hIIIWildschaden-3]: Aufgehoben durch RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^hIIIWildschaden-4]: Fassung gemäss RRB vom 22. Juni 2005 (OS 60, 260). In Kraft seit 1. August 2005.
-[^hIIIWildschaden-5]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^hIIIWildschaden-6]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
-
-#### § 41
-
-**Dachsabschuss; Befugnisse des Gemeindevorstands15**
-
-<sup>1</sup> Bei starken Wildschäden kann der Gemeindevorstand[^hIIIWildschaden-6] zum Schutze von wertvollen Kulturen den Abschuss von Dachsen während der offenen Jagdzeit auch zur Nachtzeit bewilligen.
-
-<sup>2</sup> Der Gemeindevorstand[^41-1] gibt die von ihm erteilten Bewilligungen dem ALN[^41-2] und dem Statthalteramt bekannt.
+<sup>4</sup> Die Verwendung von Drohnen zu jagdlichen Zwecken, insbesondere zum Aufsuchen oder Aufjagen von Wildtieren, ist verboten. Ausgenommen ist der Einsatz von Drohnen zur Rehkitzrettung. Die Jagdgesellschaft des Reviers wird über die Rehkitzrettung mit Drohnen vorgängig informiert.
 
 **7**
 
-- 1\. 1. 18 - 99 § 42.[^41-3] Treten schadenstiftende Rabenvögel in Überzahl auf, kann das ALN für den Lebendfang von jagdbaren Rabenvögeln mit Spezialfallen befristete Bewilligungen erteilen.
+- 1\. 1. 23 - 119 § 30. <sup>1</sup> Treib- und Drückjagden (Bewegungsjagden) sind von 1.Oktober bis 31. Dezember erlaubt. Für die Jagd auf Wildschweine sind sie bis Ende Februar erlaubt.
 
-**Fallen**
+**b. Bewegungsjagd**
 
-§ 43.[^41-4]
+<sup>2</sup> Ein Mitglied der Jagdgesellschaft leitet die Bewegungsjagd (Jagdleitung) und ist für die Organisation und die sichere Durchführung verantwortlich. Die Jagdleitung ist gegenüber den Beteiligten weisungsberechtigt.
 
-[^41-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
-[^41-2]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^41-3]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^41-4]: Aufgehoben durch RRB vom 24. November 1999 (OS 55, 533). In Kraft seit 1. Januar 2000.
+<sup>3</sup> Die Jagdgesellschaft meldet Bewegungsjagden mit mehr als sechs Schützinnen und Schützen dem ALN vor der Durchführung.
 
-### IV. Jagdaufsicht
+<sup>4</sup> Das ALN kann die Zahl der Bewegungsjagden und der eingesetzten Schützinnen und Schützen sowie Treiberinnen und Treiber beschränken.
 
-#### § 44
+#### § 31
 
-**Jagdaufseher**
+**c. Fallenjagd**
 
-<sup>1</sup> Die Jagdpächter und Jagdgesellschaften sind – nach Rücksprache mit der Gemeinde – berechtigt, zur Mithilfe bei der Jagd, der Hege des Wildes und zur Ausübung der Jagdpolizei für ihr Revier Jagdaufseher anzustellen.
+<sup>1</sup> Auf Haarraubwild ist die Fallenjagd mit Kastenfallen zum Lebendfang gestattet.
 
-<sup>2</sup> Die jagdpolizeilichen Befugnisse stehen den Jagdaufsehern nur in den im Jagdaufseherpass eingetragenen Revieren zu.
+<sup>2</sup> Die Fallenjagd ist im Siedlungsgebiet sowie ausserhalb des Siedlungsgebiets in und um Wohn- und Wirtschaftsgebäude gestattet.
 
-<sup>3</sup> Jagdpächter mit bestandener Jagdaufseherprüfung können das Amt des Jagdaufsehers selbst ausüben.[^44-1]
+<sup>3</sup> Einsam gelegene Gebäude gelten als Wohn- und Wirtschaftsgebäude, wenn sie a. dauernd bewohnt sind,
 
-**Beschränkung der Zahl der Jagdaufseher**
+- b. mit Haustieren belegt sind und diese täglich betreut werden.
 
-§ 45. Für je 500 ha Pachtgebiet kann ein Jagdaufseher angestellt werden. Pro Revier sind jedoch höchstens drei Jagdaufseher zulässig, wobei die Jagdpächter selbst nicht mitgezählt werden. Auf begründetes Gesuch hin kann das ALN[^44-2] zusätzliche Jagdaufseher bewilligen.
+<sup>4</sup> Die Fallen werden halbtäglich, bei Einsatz in der Nacht spätestens am nächsten Morgen kontrolliert.
 
-[^44-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^44-2]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
+<sup>5</sup> Das ALN kann betroffenen Bewirtschafterinnen und Bewirtschaftern sowie Jagdgesellschaften Bewilligungen für den Lebendfang von jagdbaren Rabenvögeln erteilen, wenn sie a. in Überzahl auftreten und b. schadenstiftend sind.
 
-#### § 46
+#### § 32
 
-**Meldepflicht**
+**d. Falknerei**
 
-Die Pächter haben die Personalien und Adressen der Jagdaufseher den zuständigen Gemeindebehörden und dem ALN[^44-2] mitzuteilen.
+Die Falknerei darf ausüben, wer a. im Kanton Zürich jagdberechtigt ist,
 
-[^46-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^46-2]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
+- b. eine vom ALN anerkannte Falknereiprüfung abgelegt hat,
 
-#### § 47
+- c. über eine gültige Haltebewilligung für die verwendeten Greifvögel verfügt und
 
-**Wildhüter**
+- d. eine Jagdkarte für das betretene Revier hat.
 
-<sup>1</sup> Mit dem Amt des Wildhüters in Schonrevieren des Kantons[^46-1] und der Gemeinden dürfen nur vertrauenswürdige Schweizer Bürger betraut werden, bei denen keine Ausschlussgründe gemäss § 11 des Kantonalen Jagdgesetzes[^46-2] vorliegen, welche die Jägerprüfung abgelegt haben und vom Statthalter ins Handgelübde genommen worden sind.
+#### § 33
 
-<sup>2</sup> Die Fischerei- und Jagdverwaltung stellt dem Wildhüter einen Jagdpass und einen Ausweis aus.[^47-1]
+**Jagdwaffen und Munition a. Grundsatz**
 
-<sup>3</sup> Wildhüter, die sich als unwürdig oder als ungeeignet erwiesen haben, können vom ALN[^47-2] ihres Amtes enthoben werden.[^47-3]
+<sup>1</sup> Jagdwaffen und Munition müssen auf die Distanz, für die sie verwendet werden, tödlich sein.
 
-**Kontrollen**
+<sup>2</sup> Zulässig sind Waffen mit bis zu drei Läufen.
 
-§ 48.[^47-1] Mitarbeitende der Fischerei- und Jagdverwaltung sind jederzeit zur Durchführung von Kontrollen berechtigt.
+<sup>3</sup> Schalenwild muss mit der Kugel erlegt werden. Die Jagd auf Rehwild ist mit Schrotschuss zulässig. Für die Jagd auf Wildschweine sind Flintenlaufgeschosse zulässig.
 
-[^47-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
-[^47-2]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^47-3]: Fassung gemäss RRB vom 4. Dezember 1985 (OS 49, 499).
+#### § 34
 
-#### § 49
+**b. Anforderungen an Flintenmunition**
 
-**Fortbildungskurse**
+<sup>1</sup> Schrotpatronen und Flintenlaufgeschosse sind für eine Distanz von höchstens 30 m zulässig. Es gelten folgende Anforderungen:
 
-Jagdaufseher und Wildhüter sind verpflichtet, auf Einladung der Fischerei- und Jagdverwaltung an Fortbildungskursen teilzunehmen.
+- a. die Patronen müssen Schrotgrössen von mindestens 1,75 mm und höchstens 4,5 mm aufweisen und
 
-### V. Schongebiete
+- b. die Schrotläufe müssen ein Kaliber von mindestens 20 (15,7 mm) aufweisen.
 
-#### § 50
+<sup>2</sup> Für die Jagd auf Rehwild muss die Schrotgrösse mindestens 3,75 mm betragen.
 
-**Allgemeines**
+#### § 35
 
-<sup>1</sup> In Wildschongebieten ist jede jagdliche Tätigkeit verboten; unter dieses Verbot fallen insbesondere das Erlegen von jagdbaren und geschützten Tieren, das Tragen von Jagdwaffen und das Jagenlassen von Hunden.
+**c. Anforderungen an Büchsenmunition**
 
-<sup>2</sup> In Vogelschutzgebieten und Naturschutzreservaten ist mit Ausnahme der Raben-, Nebel- und Saatkrähen sowie Elstern und Eichelhäher auch das Erlegen von jagdbaren Vögeln untersagt.
+<sup>1</sup> Jagdkugelpatronen sind für eine Distanz von höchstens 200 m zulässig. Es gelten folgende Anforderungen:
 
-<sup>3</sup> Zur Verhinderung von Wildschäden und zur Erhaltung einer natürlichen Population kann das ALN[^50-1] den Abschuss einer bestimmten Anzahl Tiere der betreffenden Wildart anordnen.
+- a. für die Jagd auf Schalenwild muss das Kaliber mindestens 6,0 mm betragen,
 
-[^50-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^50-2]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
+- b. für Hirsche und Wildschweine ist eine Auftreffenergie von mindestens 2000 Joule auf 200 m erforderlich,
 
-#### § 51
+- c. für Gämsen ist eine Auftreffenergie von mindestens 1500 Joule auf 150 m erforderlich,
 
-**Befugnisse der Grundeigentümer**
+- d. für Rehe ist eine Auftreffenergie von mindestens 1000 Joule auf 100 m erforderlich.
 
-<sup>1</sup> In den kantonalen[^50-1] Wildschongebieten, Vogelschutzgebieten und Naturschutzreservaten behalten die Grundeigentümer, Pächter und Verwalter von Gutsbetrieben die Abwehrbefugnisse gemäss §§ 41 und 42 des Kantonalen Jagdgesetzes[^50-2].
+<sup>2</sup> Die Verwendung von Vollmantelgeschossen ist für die Jagd auf Schalenwild untersagt.
 
-<sup>2</sup> Die gleiche Regelung gilt für die Wildschongebiete, Vogelschutzgebiete und Naturschutzreservate der Gemeinden, sofern diese nicht ausdrücklich etwas anderes anordnen.
+<sup>3</sup> Der Abschuss von verletzten oder kranken Wildtieren sowie von jagdbaren Vögeln und Kleinraubwild ist mit Jagdkugelpatronen mit einem Kaliber von weniger als 6,0 mm zulässig, wenn die Auftreffenergie bei einer Distanz von 100 m mindestens 90 Joule beträgt.
 
-[^51-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
+<sup>4</sup> Der Fangschuss oder das Erlegen von Wild in der Kastenfalle ist mit Kurzwaffen mit geringerer Auftreffenergie zulässig, sofern die unmittelbare Tötungswirkung gewährleistet ist.
 
-#### § 52
+#### § 36
 
-**Veröffentlichung**
+**Jagdhunde**
 
-Das ALN[^51-1] gibt den Jagdpächtern, deren Revier an ein kantonales[^51-1] Wildschongebiet, Vogelschutzgebiet oder Naturschutzreservat grenzt, zu Beginn jeder Pachtperiode die Grenzen dieses Gebietes bekannt.
+<sup>1</sup> Zur Jagd sind Hunde zugelassen, die von Jagdhunderassen abstammen und folgende Voraussetzungen erfüllen:
 
-### VI. Schluss- und Übergangsbestimmungen
+- a. Jagdhunde für das Stöbern, Apportieren, Vorstehen und die Feldsuche: Nachweis einer entsprechenden Ausbildung,
 
-[^hVISchlussundÜbe-1]: Fassung gemäss RRB vom 3. Juni 2015 (OS 71, 220; ABl 2015-06-12). In Kraft seit 1. August 2016 (ABl 2016-05-20).
+- b. Jagdhunde für das Stöbern und Brackieren vom 1. Oktober bis 31. Dezember: spur- und sichtlautes Jagen sowie ein mindestens einmaliger, bestätigter Besuch in einem Schwarzwildgewöhnungsgatter, wobei die Welpenprägung nicht angerechnet wird,
 
-#### § 53
+- c. Jagdhunde für die Jagd auf Schwarzwild in den Monaten Juli–September und Januar–Februar: bestandener Nachweis in einem Schwarzwildgewöhnungsgatter,
 
-**Zuwiderhandlungen**
-
-Zuwiderhandlungen gegen diese Vollziehungsverordnung werden gemäss § 56 des Kantonalen Jagdgesetzes[^hVISchlussundÜbe-1] geahndet.
-
-[^53-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-
-#### § 54
-
-**Vergütung für gefreveltes Wild**
-
-Das ALN[^53-1] erlässt die Richtlinien für die Bemessung des Wertes von gefreveltem Wild.
-
-[^54-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 639; ABl 2011, 2320). In Kraft seit 1. November 2011.
-
-#### § 55
-
-**Ausstopfen von Tieren**
-
-Die Präparatoren sind verpflichtet, über die Herkunft der Tiere Auskunft zu geben. Das Ausstopfen von unerlaubt erlegten Tieren ist nur mit Bewilligung des ALN[^54-1] zulässig.
-
-#### § 56
-
-**Beringte Vögel**
-
-Die Jagdberechtigten sind verpflichtet, die an erlegten Vögeln aufgefundenen Ringe unter Angabe von Ort und Zeit des Fundes sofort der Schweizerischen Vogelwarte in Sempach einzusenden.
-
-**Vollzug**
-
-§ 57.[^56-1] Soweit nichts anderes bestimmt ist, obliegt der Vollzug der Jagdgesetzgebung dem ALN.
+- d. Nachsuchegespanne für die Nachsuchearbeit: erfolgreich absolvierte 500-m-Schweissprüfung.
 
 **9**
 
-- 1\. 1. 18 - 99 § 58. <sup>1</sup> Diese Verordnung tritt nach der Genehmigung durch den Bundesrat gleichzeitig mit dem Gesetz über die Änderung des Gesetzes über Jagd und Vogelschutz vom 8. Juni 1975 in Kraft[^56-2].
+- 1\. 1. 23 - 119
 
-**Inkrafttreten, Aufhebung bisherigen Rechts**
+<sup>2</sup> Die 500-m-Schweissprüfung muss zwischen dem vierten und sechsten Lebensjahr des Hundes durch das Nachsuchegespann einmal wiederholt und bestanden werden. Für Nachsuchen auf Schwarzwild muss zudem ein Nachweis in einem Schwarzwildgewöhnungsgatter bestanden werden.
 
-<sup>2</sup> Die Vollziehungsverordnung zum Gesetz über Jagd und Vogelschutz vom 4. November 1965 wird auf den gleichen Zeitpunkt aufgehoben.
+<sup>3</sup> Das ALN stellt für Gespanne gemäss Abs. 1 lit. d den Nachweis zur Befreiung der Abgabe gemäss § 25 lit. c des Hundegesetzes vom 14. April 2008[^36-1] aus. Es kann bei begründetem Zweifel an der Einsatztauglichkeit eines Nachsuchegespanns eine Wiederholungsprüfung anordnen.
 
-[^56-1]: Eingefügt durch RRB vom 11. Juli 2012 (OS 67, 394; ABl 2012-07-20). In Kraft seit 1. November 2012.
-[^56-2]: In Kraft seit 1. April 1976.
+<sup>4</sup> Es entscheidet über die Anerkennung von Ausbildungen und Prüfungen gemäss Abs. 1.
 
-### Übergangsbestimmung zur Änderung vom 3. Juni 2015 (OS 71, 220;
+<sup>5</sup> Die Jagdleitung entscheidet, welche Hunde auf der jeweiligen Jagd eingesetzt werden dürfen.
 
-ABl 2016-05-20)
+[^36-1]: LS 554.5.
 
-Jagdhunde, die am 1. März 2017 das dritte Altersjahr vollendet haben, dürfen für die Baujagd ohne Prüfungsnachweis eingesetzt werden.
+#### § 37
+
+**Wildbuch**
+
+<sup>1</sup> Alle erlegten und als Fallwild aufgefundenen Wildtiere sind innert 24 Stunden gemäss Vorgabe des ALN im elektronischen Wildbuch zu erfassen.
+
+<sup>2</sup> Die Jagdgesellschaft bezeichnet das für die Führung des Wildbuchs verantwortliche Mitglied.
+
+<sup>3</sup> Die Jagdgesellschaft hält erlegtes Rot-, Gams- und Schwarzwild sowie weibliches Rehwild von Mai bis Ende August nach der Erfassung im Wildbuch in aufgebrochenem Zustand in der Decke oder in der Schwarte, mit Haupt und allfälligem Gesäuge, bis um 18 Uhr am nächsten Arbeitstag für Kontrollen bereit. Das ALN kann in begründeten Fällen die Freigabe vorzeitig bewilligen.
+
+#### § 38
+
+**Bestandesaufnahme**
+
+<sup>1</sup> Die Jagdgesellschaften oder die Hegegemeinschaften nehmen jährlich den Bestand der jagdbaren Säugetiere ihrer Reviere auf und erfassen ihn bis zum 15. April im Wildbuch.
+
+<sup>2</sup> Das ALN kann Jagdgesellschaften zur Mitwirkung bei der Aufnahme und Beobachtung des Bestandes weiterer Wildtierarten verpflichten.
+
+#### § 39
+
+**Abgangspläne für Schalenwild**
+
+<sup>1</sup> Das ALN erlässt Richtlinien über die Erstellung der Abgangspläne. Die Abgangspläne berücksichtigen insbesondere die Erhaltung eines gesunden Wildtierbestandes und die Interessen der Land- und Forstwirtschaft.
+
+<sup>2</sup> Die Jagdgesellschaft erstellt auf der Grundlage der Bestandesaufnahme jährlich einen Abgangsplan. Die bevollmächtigte Person reicht den Abgangsplan dem Jagdbezirksausschuss sowie der zuständigen Gemeinde bis spätestens 10. Mai zur freigestellten Stellungnahme ein.
+
+<sup>3</sup> Ist die Gemeinde mit dem Abgangsplan nicht einverstanden, reicht sie dem Jagdbezirksausschuss und dem ALN bis spätestens 10. Juni einen begründeten Änderungsantrag ein.
+
+<sup>4</sup> Der Jagdbezirksausschuss prüft den Abgangsplan aufgrund der regionalen Bestandesentwicklung und der Wildschadensituation sowie weiterer wildbiologischer Kriterien und reicht ihn dem ALN ein. Er kann Anpassungen vornehmen.
+
+<sup>5</sup> Das ALN kann die Abgangspläne unter Berücksichtigung der verschiedenen Interessen anpassen.
+
+<sup>6</sup> Die Jagdgesellschaft ist dafür verantwortlich, dass der vorgegebene Mindestabgang bis Ende des Kalenderjahres erfüllt wird.
+
+#### § 40
+
+**Umgang mit verletzten oder kranken Wildtieren**
+
+<sup>1</sup> Die Mitglieder der Jagdgesellschaft, die Revieraufsicht und die Wildhüterinnen und Wildhüter dürfen auch ausserhalb der Jagdzeiten das Revier mit Jagdwaffen und Jagdhund betreten und verletzte oder kranke Tiere erlegen.
+
+<sup>2</sup> Bei Unfällen mit Wildtieren sind sie verpflichtet, das Tier zu versorgen und das Meldeformular für die Fahrzeuglenkerin oder den Fahrzeuglenker zuhanden der Versicherung auszufüllen.
+
+<sup>3</sup> Die Jagdgesellschaft und die Wildhüterinnen und Wildhüter stellen ihre Erreichbarkeit sicher und melden den Einsatzplan dem ALN.
+
+<sup>4</sup> Stellen Jagdberechtigte an erlegten Wildtieren oder an Fallwild ungewöhnliche Krankheitserscheinungen fest, informieren sie umgehend die Fischerei- und Jagdverwaltung und sprechen mit dieser das weitere Vorgehen ab. Sie vermerken die Krankheitserscheinung im Wildbuch.
+
+<sup>5</sup> Das ALN kann Jagdgesellschaften zur Mitwirkung bei veterinärmedizinischen Untersuchungen verpflichten.
+
+#### § 41
+
+**Nachsuche**
+
+<sup>1</sup> Die Jagdgesellschaft bezeichnet für ihr Revier ein geprüftes Nachsuchegespann und meldet dieses dem ALN.
+
+<sup>2</sup> Bei Bewegungsjagden muss ein geprüftes Nachsuchegespann auf Abruf zur Verfügung stehen.
+
+<sup>3</sup> Nachsuchen über die Reviergrenzen hinaus müssen unabhängig vom Erfolg innerhalb eines Tages der betreffenden Jagdgesellschaft gemeldet werden. Für die Nachsuche in Wildschonrevieren, in anderen Kantonen oder im Ausland sind die dort zuständigen Organe beizuziehen.
+
+<sup>4</sup> Nachsuchen sind unabhängig vom Erfolg gemäss Weisung des ALN zu dokumentieren.
+
+**11**
+
+- 1\. 1. 23 - 119 § 42. <sup>1</sup> Für die Bergung von Wildtieren bei Unfällen und Hunderissen können folgende Gebühren erhoben werden:
+
+**Entschädigung bei Unfällen mit Wildtieren**
+
+- a. für Schalenwild: höchstens Fr. 200,
+
+- b. für Fuchs, Dachs und Biber: höchstens Fr. 50.
+
+<sup>2</sup> Für die Bergung anderer Wildtiere wird keine Gebühr erhoben.
+
+#### § 43
+
+**Eigentum an Wildtieren**
+
+<sup>1</sup> Wildtiere, die im Revier erlegt, verendet oder verletzt aufgefunden werden, sind Eigentum der Jagdgesellschaft. Vorbehalten bleiben anderslautende Vereinbarungen über die Wildfolge bei benachbarten Revieren.
+
+<sup>2</sup> Wildtiere, die in Wildschongebieten oder in nicht verpachteten Gebieten erlegt, verendet oder verletzt aufgefunden werden, sind Eigentum des zuständigen Gemeinwesens.
+
+<sup>3</sup> Wildtiere, die in Verletzung der gesetzlichen Vorschriften oder in Abweichung von den vom ALN genehmigten Abgangsplänen erlegt werden, sowie geschützte Wildtiere von wissenschaftlichem Interesse sind Eigentum des Kantons.
+
+#### § 44
+
+**Fütterung von Wildtieren**
+
+<sup>1</sup> Kirrungen sind ausschliesslich im Wald und für Schwarzwild erlaubt. Es darf höchstens 500 g Mais pro Tag auf zwei Kirrungen pro 100 ha Wald ausgebracht werden. Tierische Nebenprodukte dürfen nicht verwendet werden.
+
+<sup>2</sup> Kirrungen und Luderplätze dürfen nur an Örtlichkeiten angelegt werden, die mindestens 300 m vom Siedlungsgebiet sowie von Wohn- und Wirtschaftsgebäuden ausserhalb des Siedlungsgebiets entfernt sind. Für einsam gelegene Gebäude gilt § 31 Abs. 3.
+
+<sup>3</sup> In Naturschutzobjekten des lichten Waldes dürfen keine Kirrungen angelegt werden.
+
+<sup>4</sup> Ablenkfütterungen sind verboten.
+
+#### § 45
+
+**Entsorgung von Tierkörpern**
+
+<sup>1</sup> Tierkörper oder Teile davon, bei denen ein Verdacht auf Vorliegen einer auf Mensch oder Tier übertragbaren Krankheit besteht, werden den Sammelstellen abgegeben.
+
+<sup>2</sup> Nicht für den Verzehr bestimmte Teile von Schwarzwild werden den Sammelstellen abgegeben.
+
+<sup>3</sup> Der Aufbruch anderer Tiere darf vor Ort an nicht leicht zugänglicher Stelle entsorgt werden.
+
+#### § 46
+
+**Beringte Vögel**
+
+Die Jagdberechtigten senden an Vögeln aufgefundene Ringe unter Angabe von Ort und Zeit des Fundes umgehend der Schweizerischen Vogelwarte Sempach ein.
+
+#### § 47
+
+**Präparieren von Tieren**
+
+Das Präparieren von Wildtieren geschützter Arten ist bewilligungspflichtig.
+
+### G. Arten- und Lebensraumschutz
+
+#### § 48
+
+**Massnahmen zum Artenschutz**
+
+Subventionen gemäss § 17 JG werden ausgerichtet für Massnahmen zur Erhaltung und Förderung bedrohter Wildtierarten, insbesondere durch die Anlage von Vogelschutzgebieten, Massnahmen zum Habitatschutz und das Anbringen von Nisthilfen.
+
+#### § 49
+
+**Schutz vor Gefährdungen durch Zäune a. Allgemeines**
+
+<sup>1</sup> Zäune sind so zu gestalten und zu unterhalten, dass sie für Wildtiere keine erhöhte Verletzungsgefahr darstellen.
+
+<sup>2</sup> Abgeräumte Zäune müssen so gelagert werden, dass von ihnen keine Verletzungsgefahr für Wildtiere ausgeht.
+
+<sup>3</sup> Die Verwendung von Stacheldrahtzäunen im Wald, am Waldrand und in der offenen Flur ist verboten.
+
+#### § 50
+
+**b. temporäre Zäune**
+
+<sup>1</sup> Temporäre Zäune müssen korrekt aufgebaut werden. Sofern sie nur unter Verwendung von Strom korrekt betrieben werden können, müssen sie dauernd unter angemessener elektrischer Spannung stehen.
+
+<sup>2</sup> Sie dürfen nur so lange stehen bleiben, wie dies für ihre Funktion notwendig ist, oder so lange, wie Tiere darin gehalten werden.
+
+#### § 51
+
+**c. Zäune als Bewegungshindernisse**
+
+<sup>1</sup> Für feste Zäune in Wildtierkorridoren und dazugehörigen Leitstrukturen ist eine jagdrechtliche Bewilligung des ALN einzuholen.
+
+<sup>2</sup> Das ALN trifft Massnahmen zur Sicherung der Durchgängigkeit, insbesondere durch die Beschränkung der Dauer der Einzäunung oder die Schaffung von Durchgängen. Es kann eine alternative Zaunführung verlangen.
+
+<sup>3</sup> Das ALN trifft bei temporären Zäunen und Zäunen zur Verhütung von Wildschäden Massnahmen gemäss Abs. 2, wenn diese Zäune die Durchgängigkeit von Wildtierkorridoren beeinträchtigen können.
+
+#### § 52
+
+**Schutz vor Gefährdung durch Infrastrukturanlagen**
+
+<sup>1</sup> Infrastrukturanlagen, insbesondere Bahnlinien, Strassen sowie Strommasten und Windkraftanlagen, sind so zu planen, zu konstruieren und zu unterhalten, dass von ihnen soweit möglich keine Verletzungsgefahr für Wildtiere ausgeht und die Durchgängigkeit gewahrt bleibt.
+
+<sup>2</sup> Das zuständige Gemeinwesen trifft Massnahmen, um bei bestehenden Infrastrukturanlagen die Verletzungsgefahr für Wildtiere soweit möglich zu minimieren und die Durchgängigkeit wiederherzustellen oder zu verbessern.
+
+<sup>3</sup> Von Installationen zur Vogelabwehr darf keine Verletzungsgefahr ausgehen.
+
+**13**
+
+- 1\. 1. 23 - 119 § 53. Das ALN kann Tätigkeiten, die zu einer Störung von Wildtieren gemäss § 20 Abs. 1 JG führen, bewilligen, insbesondere solche zu wissenschaftlichen Zwecken oder im Rahmen von Arten- und Lebensraumschutzmassnahmen. Es hört die betroffenen Jagdgesellschaften an.
+
+#### § 54
+
+**Störung von Wildtieren**
+
+**Lebensraumschutz**
+
+Wer Nistgelegenheiten und Habitatstrukturen geschützter Wildtiere beeinträchtigt, ist zu deren Wiederherstellung oder Ersatz verpflichtet.
+
+#### § 55
+
+**Schongebiete a. Allgemeines**
+
+<sup>1</sup> In Wildschongebieten ist jede jagdliche Tätigkeit verboten.
+
+<sup>2</sup> In Vogelschutzgebieten ist das Erlegen von Vögeln untersagt. Ausgenommen sind Massnahmen gemäss § 12 Abs. 4 lit. e JG.
+
+<sup>3</sup> Zur Verhinderung von Wildschäden und zur Erhaltung einer dem Lebensraum angepassten Population kann das ALN den Abschuss einer bestimmten Anzahl Tiere der betreffenden Wildtierart anordnen.
+
+<sup>4</sup> Das ALN kann bestimmen, dass Hunde in kantonalen Wildschongebieten an der Leine zu führen sind. Dieselbe Befugnis steht den Gemeinden für die kommunalen Schongebiete zu.
+
+#### § 56
+
+**b. kantonale Wildschongebiete**
+
+<sup>1</sup> Das Tössstockgebiet, das Neeracherried sowie der Zürichsee, der Greifensee und der Pfäffikersee sind kantonale Wildschongebiete.
+
+<sup>2</sup> Das ALN kann weitere kantonale Wildschongebiete bezeichnen.
+
+#### § 57
+
+**Entwichene Wildtiere**
+
+<sup>1</sup> Die Halterin oder der Halter meldet dem ALN umgehend aus privater oder gewerbsmässiger Haltung entwichene Wildtiere.
+
+<sup>2</sup> Das ALN trifft auf Kosten der Verursacherin oder des Verursachers Massnahmen, damit diese Wildtiere wieder aus der freien Wildbahn entfernt werden können.
+
+### H. Wildschaden
+
+#### § 58
+
+**Verhütung von Wildschaden bei landwirtschaftlichen Kulturen a. Grundsätze**
+
+<sup>1</sup> Sind landwirtschaftliche Kulturen durch Wildschaden gefährdet, können für Schutzmassnahmen Beiträge aus dem Wildschadenfonds ausgerichtet werden, wenn a. die Kosten der Massnahmen tiefer sind als der zu erwartende Wildschaden,
+
+- b. die Massnahmen eine gute Wirkung versprechen und ordnungsgemäss unterhalten werden,
+
+- c. die forst- und raumplanungsrechtlichen Abstandsvorschriften zum Waldrand eingehalten sind und
+
+- d. der Waldabstand mindestens 5 m beträgt.
+
+<sup>2</sup> Die Bewirtschafterin oder der Bewirtschafter erstellt die Wildschadenverhütungsmassnahmen.
+
+<sup>3</sup> Wird eine Schutzmassnahme vor Ablauf von vier Jahren seit der Erstellung für andere Zwecke verwendet, muss der Beitrag anteilmässig zurückerstattet werden.
+
+<sup>4</sup> Das ALN erlässt ein Reglement zu den geeigneten Schutzmassnahmen und der Höhe der Beiträge.
+
+#### § 59
+
+**b. Verfahren**
+
+Bewirtschafterinnen und Bewirtschafter reichen dem ALN nach Rücksprache mit der Jagdgesellschaft das Gesuch um Beiträge ein.
+
+#### § 60
+
+**c. Beiträge**
+
+<sup>1</sup> Beiträge für Schutzmassnahmen und deren Unterhalt werden ab einer Fläche von mindestens 10 Aren ausgerichtet für a. Reben, Obst- und Beerenkulturen,
+
+- b. Gemüse ohne Konservengemüse, Kartoffeln und andere Kulturen mit hohem Deckungsbeitrag,
+
+- c. besonders wildschadengefährdete Wiesen,
+
+- d. Mais, Konservengemüse, Getreide und andere Kulturen mit tiefem Deckungsbeitrag, sofern durch die Abwehrmassnahmen grosse Schäden verhindert und diese nicht in andere Gebiete verlagert werden.
+
+<sup>2</sup> Für Wiesen gemäss Abs. 1 lit. c kann ein pauschaler Flächenbeitrag ausgerichtet werden. Damit entfällt der Anspruch auf die Vergütung von Schäden.
+
+<sup>3</sup> Zusätzlich können weitere Vergütungen ausbezahlt werden, insbesondere für a. Nachsaaten und die Instandstellung von Feldkulturen,
+
+- b. das Ergreifen weiterer Kulturmassnahmen zur Vermeidung wildschadenbedingter Ertragsausfälle in Folgekulturen.
+
+#### § 61
+
+**d. Beseitigung von Schutzeinrichtungen**
+
+Die Jagdgesellschaft kann den Abbruch verbotener und mangelhaft erstellter oder unterhaltener Anlagen verlangen. Das ALN kann auf ihren Antrag den Abbruch auf Kosten der Verursacherin oder des Verursachers verfügen.
+
+#### § 62
+
+**e. Schutzmassnahmen gegen Wildschaden an Nutztieren**
+
+Sind Nutztiere durch Grossraubtiere gefährdet, können für Schutzmassnahmen Beiträge aus dem Wildschadenfonds ausgerichtet werden.
+
+**15**
+
+- 1\. 1. 23 - 119 § 63. <sup>1</sup> Grundeigentümerinnen und Grundeigentümern sowie Bewirtschafterinnen und Bewirtschaftern von landwirtschaftlichen Betrieben ist ohne Jagdberechtigung gestattet,
+
+**Selbsthilfemassnahmen**
+
+- a. Haarraubwild mit der Kastenfalle im Innern von Gebäuden sowie unter Vordächern ihrer Wohn- und Ökonomiegebäude zu fangen und zu erlegen,
+
+- b. in Schwärmen auftretende jagdbare Rabenvögel und Tauben auf den von ihnen bewirtschafteten schadengefährdeten Parzellen auf offener Flur zu erlegen.
+
+<sup>2</sup> Die jagdlichen Bestimmungen, insbesondere die Bestimmungen über die Nachsuche, die Schonzeiten und den Nachweis der Treffsicherheit, sind einzuhalten.
+
+<sup>3</sup> Im Rahmen von Selbsthilfemassnahmen erlegte Tiere müssen der Jagdgesellschaft innert 24 Stunden gemeldet werden. Die Jagdgesellschaft erfasst die erlegten Tiere im Wildbuch.
+
+#### § 64
+
+**Entschädigung von Wildschaden a. Meldung**
+
+<sup>1</sup> Die Jagdgesellschaft meldet dem ALN die für Wildschäden in ihrem Revier verantwortliche Stelle.
+
+<sup>2</sup> Geschädigte melden einen Wildschaden sofort nach der Feststellung der von der Jagdgesellschaft bezeichneten Stelle.
+
+<sup>3</sup> Sie vereinbaren umgehend mit dieser die zu ergreifenden Sofortmassnahmen, um weitere Schäden zu verhindern.
+
+#### § 65
+
+**b. Ermittlung des Schadens**
+
+<sup>1</sup> Übersteigt der Schaden voraussichtlich Fr. 300, bietet die oder der Geschädigte eine vom ALN bezeichnete Fachperson auf, welche die Höhe des Schadens ermittelt.
+
+<sup>2</sup> Für geringere Schäden erfolgt die Schätzung gemäss Weisung des ALN.
+
+#### § 66
+
+**c. Ausschluss- und Herabsetzungsgründe**
+
+<sup>1</sup> Der Anspruch auf Schadenersatz entfällt, insbesondere wenn die Geschädigten a. die Meldung oder Festlegung des Schadens grundlos verzögert haben,
+
+- b. nicht standortgerechte Baumarten angepflanzt und nicht geschützt haben,
+
+- c. den Unterhalt üblicher Einrichtungen zur Haltung von Nutztieren und deren Obhut vernachlässigt haben.
+
+<sup>2</sup> Der Schadenersatz entfällt oder wird herabgesetzt, wenn die Geschädigten a. beitragsberechtigte Wildschadenverhütungsmassnahmen gemäss § 58 und gemäss § 13 a der Kantonalen Waldverordnung vom 28. Oktober 1998[^66-1] trotz einer vorhersehbaren Gefährdung der geschädigten Fläche nicht ausgeführt haben,
+
+- b. Wildschadenverhütungsmassnahmen, an die Beiträge ausgerichtet wurden, nicht ordnungsgemäss kontrolliert und unterhalten haben,
+
+- c. zumutbare Massnahmen der Jagdgesellschaft nicht zugelassen haben,
+
+- d. nach Feststellung eines Schadens die Jagdgesellschaft nicht sofort darauf aufmerksam gemacht oder selbst zumutbare Vorkehrungen zur künftigen Verhütung getroffen haben, wenn der Schaden dadurch eine wesentliche Vergrösserung erfahren hat.
+
+[^66-1]: LS 921.11.
+
+#### § 67
+
+**d. Festlegung des Schadenersatzes**
+
+<sup>1</sup> Die Fachperson gemäss § 65 teilt den Geschädigten, der Jagdgesellschaft und dem ALN die Höhe des Schadens mit.
+
+<sup>2</sup> Die Geschädigten und die Jagdgesellschaft können innert 20 Tagen ab Mitteilung dem ALN die Anpassung der Schätzung beantragen. Die Anträge sind zu begründen.
+
+<sup>3</sup> Das ALN legt den voraussichtlichen Schadenersatz fest. Nach Anhörung der Parteien entscheidet es über die Höhe des Schadenersatzes.
+
+#### § 68
+
+**e. Auszahlung des Schadenersatzes**
+
+<sup>1</sup> Eine Entschädigung wird ausgerichtet, soweit die Summe aller Wildschäden Fr. 300 pro Betrieb und Jahr übersteigt.
+
+<sup>2</sup> Das ALN zahlt den Geschädigten die Summe der Schadenersatzansprüche in der Regel einmal jährlich aus.
+
+#### § 69
+
+**f. Höhe der Beteiligung der Jagdgesellschaft**
+
+<sup>1</sup> Die Jagdgesellschaft beteiligt sich mit 25% an der Abgeltung der Schäden, die Rehe, Rotwild und Wildschweine in ihrem Revier verursachen, höchstens jedoch mit 50% der Pachtzinssumme pro Jahr.
+
+<sup>2</sup> Die Abrechnung erfolgt jeweils am Ende des Kalenderjahres.
+
+### I. Strafbestimmungen
+
+#### § 70
+
+**Fehlabschüsse**
+
+<sup>1</sup> Einen Fehlabschuss gemäss § 38 Abs. 1 JG tätigt, wer unter Einhaltung der bundesrechtlichen Vorschriften über die Jagdzeiten bei einem Abschuss versehentlich gegen § 27 Abs. 1 lit. b oder c verstösst oder versehentlich gegen Vorschriften der Abgangspläne über Gams und Rothirsch verstösst.
+
+<sup>2</sup> Der Fehlabschuss muss dem ALN umgehend gemeldet und das Tier gemäss § 37 Abs. 3 zur Kontrolle bereit gehalten werden.
+
+<sup>3</sup> Bei einem Fehlabschuss werden ein Betrag von Fr. 100, der Wertersatz gemäss § 38 Abs. 2 JG und die Trophäen eingezogen. Bei Rothirsch und Gams wird ein Betrag von Fr. 200 eingezogen.
+
+**17**
+
+- 1\. 1. 23 - 119
+
+<sup>4</sup> Das ALN stellt Strafantrag bei nicht gemeldeten Fehlabschüssen und bei Personen, die mehr als zwei Fehlabschüsse innerhalb eines Jagdjahres begehen.
+
+[^70-1]: SR 741.01.
+
+#### § 71
+
+**Widerhandlungen**
+
+<sup>1</sup> Wer vorsätzlich a. mit einer qualifizierten Atemalkohol- und Blutalkoholkonzentration oder unter Drogen oder Arzneimitteleinfluss gemäss Strassenverkehrsgesetz vom 19. Dezember 1958[^70-1] die Jagd ausübt, wird mit Busse bis Fr. 2000 bestraft,
+
+- b. ohne Einwilligung der Besitzerin oder des Besitzers in den in § 14 Abs. 2 JG bezeichneten Gebieten die Jagd ausübt, wird mit Busse bis Fr. 2000 bestraft,
+
+- c. gegen die Pflicht zur Nachsuche gemäss § 15 JG verstösst, wird mit Busse bis Fr. 10 000 bestraft,
+
+- d. gegen Anordnungen zum Verhalten in Wildschongebieten gemäss § 19 Abs. 1 und 2 JG verstösst, wird mit Busse bis Fr. 1000 bestraft,
+
+- e. gemäss § 20 JG Wildtiere stört, wird mit Busse bis Fr. 1000 bestraft,
+
+- f. zeitliche Einschränkungen der Jagd gemäss § 28 missachtet, wird mit Busse bis Fr. 1000 bestraft,
+
+- g. gegen die allgemeinen Bestimmungen über die Ausübung der Jagd, der Bestimmungen über die Bewegungsjagd, die Falknerei, die Fallenjagd sowie gegen das Baujagdverbot gemäss §§ 29 ff. und § 12 Abs. 3 JG verstösst, wird mit Busse bis Fr. 1000 bestraft,
+
+- h. Zäune aufstellt, die eine erhöhte Gefährdung für Wildtiere gemäss §§ 49 und 50 darstellen oder temporäre Zaunanlagen nach Gebrauch nicht abräumt, wird mit Busse bis Fr. 5000 bestraft,
+
+- i. als Halterin oder Halter entwichene Wildtiere gemäss § 57 nicht meldet, wird mit Busse bis Fr. 1000 bestraft,
+
+- j. ohne Bewilligung gemäss § 47 Wildtiere geschützter Arten präpariert, wird mit Busse bis Fr. 1000 bestraft, k einen Fehlabschuss gemäss § 70 nicht meldet oder innerhalb eines Jahres mehr als zwei Fehlabschüsse tätigt, wird mit Busse bis Fr. 2000 bestraft,
+
+- l. in anderer Weise gegen Bestimmungen des Jagdgesetzes oder der Jagdverordnung verstösst, wird mit Busse bis Fr. 2000 bestraft.
+
+<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zur Hälfte der für die vorsätzliche Tatbegehung vorgesehenen höchsten Bussen bestraft.
+
+### J. Übergangsbestimmungen
+
+#### § 72
+
+**Entsorgung von Stacheldrahtzäunen**
+
+<sup>1</sup> Bewirtschafterinnen und Bewirtschafter von Parzellen mit Stacheldrahtzäunen gemäss § 49 Abs. 3 entsorgen diese innert dreier Jahre ab Inkrafttreten dieser Verordnung fachgerecht.
+
+<sup>2</sup> Ist eine neue Einzäunung notwendig, entschädigt das ALN die Bewirtschafterinnen und Bewirtschafter auf Gesuch hin mit einem angemessenen Beitrag aus dem Wildschadenfonds.
+
+**Zur Mindestzahl zählende Mitglieder der Jagdgesellschaft**
+
+§ 73.[^72-1] § 12 Abs. 2 ist ab Beginn der neuen Pachtperiode anwendbar.
+
+<sup>2</sup> Die Bewerbergruppen gemäss § 6 stellen sicher, dass kein Mitglied sich für mehr als ein Revier als zur Mindestzahl zählende Pächterin oder Pächter bewirbt.
+
+[^72-1]: OS 77, 613; Begründung siehe ABl 2022-11-04. Vom Bund am 28. November 2022 genehmigt.
+
+#### § 74
+
+**Ausbildungen für Jagdhunde**
+
+<sup>1</sup> Die Regelung gemäss § 36 Abs. 1 lit. c gilt für Hunde, die nach dem 1. April 2020 geboren wurden. Ältere, auf Schwarzwild geführte Hunde sind mindestens einmal für eine Übung in ein Schwarzwildgewöhnungsgatter zu führen. Dieser Besuch ist bestätigen zu lassen.
+
+<sup>2</sup> Die Regelung zur Wiederholung der Schweissprüfung gemäss § 36 Abs. 2 gilt für Hunde, die nach dem 1. April 2018 geboren wurden. Für Hunde, die vor dem 1. April 2018 geboren wurden, steht es den Hundeführerinnen und Hundeführern frei, altrechtlich den Nachweis von mindestens zwölf Nachsuchen pro Jahr oder einmalig die Wiederholungsprüfung zu erbringen.
