@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2022-09-01
+version: 2023-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/fr"
 
 (OOIT)
 
-du 26 mai 2016 (Etat le 1<sup>er</sup> septembre 2022)
+du 26 mai 2016 (État le 1<sup>er</sup> janvier 2023)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -225,7 +225,7 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), le ch. II de l’O de l’OFCOM du 5 juil. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), le ch. I des O de l’OFCOM du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), du 21 mars 2022 ([RO 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)) et le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour selon le ch. I de l’O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), le ch. II de l’O de l’OFCOM du 5 juil. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), le ch. I des O de l’OFCOM du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), du 21 mars 2022 ([RO 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)), le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)) et le ch. I de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)).
 [^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: www.ofcom.ch &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
@@ -237,9 +237,9 @@ Annexe 2[^t-2]
 <tr><td>RIR0104</td><td>Systèmes de détresse aéronautique</td><td>4</td></tr>
 <tr><td>RIR0105</td><td>Télémétrie/télécommandes aéronautiques</td><td>3</td></tr>
 <tr><td>RIR0201</td><td>Émetteurs de radiodiffusion terrestre</td><td>16</td></tr>
-<tr><td>RIR0203</td><td>Services pour réalisation de programmes et d’événements spéciaux (PMSE)</td><td>21</td></tr>
-<tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>29</td></tr>
+<tr><td>RIR0203</td><td>Services pour la réalisation de programmes et d’événements spéciaux (PMSE)</td><td>22</td></tr>
+<tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>12</td></tr>
+<tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>30</td></tr>
 <tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Téléphones sans fil</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Équipements radio pour services d’urgence</td><td>11</td></tr>
@@ -252,25 +252,26 @@ Annexe 2[^t-2]
 <tr><td>RIR0702</td><td>Sondes météorologiques</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Radars météorologiques</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
-<tr><td>RIR0806</td><td>Stations terriennes fixes de communication par satellite (FSS)</td><td>17</td></tr>
-<tr><td>RIR0808</td><td>Stations terriennes mobiles de communication par satellite (MSS)</td><td>18</td></tr>
+<tr><td>RIR0805</td><td>Liaisons d’alimentation (Feeder Links)</td><td>1</td></tr>
+<tr><td>RIR0806</td><td>Stations terriennes fixes de communication par satellite (FSS)</td><td>18</td></tr>
+<tr><td>RIR0808</td><td>Stations terriennes mobiles de communication par satellite (MSS)</td><td>19</td></tr>
 <tr><td>RIR0809</td><td>Systèmes de radionavigation par satellite (RNSS)</td><td>4</td></tr>
 <tr><td>RIR1001</td><td>Systèmes d’alarme</td><td>12</td></tr>
 <tr><td>RIR1002</td><td>Applications ferroviaires</td><td>11</td></tr>
 <tr><td>RIR1003</td><td>Recherche, suivi et acquisition de données</td><td>17</td></tr>
-<tr><td>RIR1004</td><td>Radiorepérage</td><td>16</td></tr>
+<tr><td>RIR1004</td><td>Radiorepérage</td><td>17</td></tr>
 <tr><td>RIR1005</td><td>Applications inductives</td><td>13</td></tr>
-<tr><td>RIR1006</td><td>Applications sans fil dans le domaine de la santé</td><td>18</td></tr>
+<tr><td>RIR1006</td><td>Applications sans fil dans le domaine de la santé</td><td>19</td></tr>
 <tr><td>RIR1007</td><td>Télécommandes de modèles réduits</td><td>9</td></tr>
 <tr><td>RIR1008</td><td>Applications à courte portée non spécifiques</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Microphones sans fil</td><td>25</td></tr>
-<tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>18</td></tr>
+<tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>19</td></tr>
 <tr><td>RIR1011</td><td>Identification par fréquence radio (RFID)</td><td>12</td></tr>
 <tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>16</td></tr>
 <tr><td>RIR1013</td><td>Applications audio sans fil</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Télécommande, transmission de données et télémétrie à puissance élevée</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applications à bande ultra large (UWB)</td><td>11</td></tr>
-<tr><td>RIR1101</td><td>Équipements radioamateurs</td><td>13</td></tr>
+<tr><td>RIR1101</td><td>Équipements radioamateurs</td><td>14</td></tr>
 <tr><td>RIR1102</td><td>Équipements radio CB</td><td>9</td></tr>
 <tr><td>RIR1108</td><td>Radiolocalisation (civil)</td><td>9</td></tr>
 </table>
@@ -368,7 +369,7 @@ Annexe 6[^t-5]
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -386,13 +387,13 @@ Annexe 6[^t-5]
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.

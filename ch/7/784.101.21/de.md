@@ -4,11 +4,11 @@ title: Verordnung des BAKOM vom 26. Mai 2016 über Fernmeldeanlagen (VFAV)
 short: VFAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: de
-version: 2022-09-01
+version: 2023-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20220901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-307-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20220901/de"
 
 (VFAV)
 
-vom 26. Mai 2016 (Stand am 1. September 2022)
+vom 26. Mai 2016 (Stand am 1. Januar 2023)
 
 Das Bundesamt für Kommunikation (BAKOM),
 
@@ -225,7 +225,7 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. II der V des BAKOM vom 5. Juli 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), vom 21. März 2022 ([AS 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)) und Ziff. II Abs. 2 der V des BAKOM vom 21. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)).
+[^t-2]: Fassung gemäss Ziff. II der V des BAKOM vom 18. Nov. 2020 ([AS 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Bereinigt gemäss Ziff. I der V des BAKOM vom 23. März 2021 ([AS 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), Ziff. II der V des BAKOM vom 5. Juli 2021 ([AS 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)), Ziff. I der V des BAKOM vom 11. Nov. 2021 ([AS 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), vom 21. März 2022 ([AS 2022 203](https://fedlex.data.admin.ch/eli/oc/2022/203)), Ziff. II Abs. 2 der V des BAKOM vom 21. Juli 2022 ([AS 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)) und Ziff. I der V des BAKOM vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)).
 [^annex2-lvlu1-1]: Die anwendbaren Vorschriften für Schnittstellen können beim Bundesamt für Kommunikation, Zukunftstrasse 44, Postfach, 2501 Biel, bezogen werden und sind im Internet unter folgender Adresse abrufbar: www.bakom.ch &gt; Das BAKOM &gt; Rechtliche Grundlagen &gt; Vollzugspraxis &gt; Geräte und Anlagen &gt; Technische Schnittstellenanforderungen (RIR).
 
 <table>
@@ -237,9 +237,9 @@ Anhang 2[^t-2]
 <tr><td>RIR0104</td><td>Alarmsysteme Luftverkehr</td><td>4</td></tr>
 <tr><td>RIR0105</td><td>Flugtelemetrie/Flugfernwirken</td><td>3</td></tr>
 <tr><td>RIR0201</td><td>Terrestrische Rundfunksender</td><td>16</td></tr>
-<tr><td>RIR0203</td><td>Funkanwendungen für Programmerstellung und bei Veranstaltungen (PMSE)</td><td>21</td></tr>
-<tr><td>RIR0301</td><td>Punkt-zu-Multipunkt-Richtfunkanlagen</td><td>11</td></tr>
-<tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>29</td></tr>
+<tr><td>RIR0203</td><td>Funkanwendungen für Programmerstellung und bei Veranstaltungen (PMSE)</td><td>22</td></tr>
+<tr><td>RIR0301</td><td>Punkt-zu-Multipunkt-Richtfunkanlagen</td><td>12</td></tr>
+<tr><td>RIR0302</td><td>Punkt-zu-Punkt-Richtfunkanlagen</td><td>30</td></tr>
 <tr><td>RIR0501</td><td>Digitale zellulare Telefonie</td><td>18</td></tr>
 <tr><td>RIR0503</td><td>Drahtlose Telefone</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Funkanlagen für Notfalldienste</td><td>11</td></tr>
@@ -252,25 +252,26 @@ Anhang 2[^t-2]
 <tr><td>RIR0702</td><td>Wettersonden</td><td>7</td></tr>
 <tr><td>RIR0703</td><td>Wetterradar</td><td>8</td></tr>
 <tr><td>RIR0705</td><td>Wind-Profiler</td><td>6</td></tr>
-<tr><td>RIR0806</td><td>Terrestrische stationäre Satellitenfunkanlagen (FSS)</td><td>17</td></tr>
-<tr><td>RIR0808</td><td>Terrestrische bewegliche Satellitenfunkanlagen (MSS)</td><td>18</td></tr>
+<tr><td>RIR0805</td><td>Speiseverbindungen (Feeder Links)</td><td>1</td></tr>
+<tr><td>RIR0806</td><td>Terrestrische stationäre Satellitenfunkanlagen (FSS)</td><td>18</td></tr>
+<tr><td>RIR0808</td><td>Terrestrische bewegliche Satellitenfunkanlagen (MSS)</td><td>19</td></tr>
 <tr><td>RIR0809</td><td>Satellitennavigationssysteme (RNSS)</td><td>4</td></tr>
 <tr><td>RIR1001</td><td>Alarmanlagen</td><td>12</td></tr>
 <tr><td>RIR1002</td><td>Eisenbahnanwendungen</td><td>11</td></tr>
 <tr><td>RIR1003</td><td>Suchen, Verfolgen und Erfassen von Daten</td><td>17</td></tr>
-<tr><td>RIR1004</td><td>Funkortung</td><td>16</td></tr>
+<tr><td>RIR1004</td><td>Funkortung</td><td>17</td></tr>
 <tr><td>RIR1005</td><td>Induktive Anwendungen</td><td>13</td></tr>
-<tr><td>RIR1006</td><td>Drahtlose Anwendungen im Gesundheitswesen</td><td>18</td></tr>
+<tr><td>RIR1006</td><td>Drahtlose Anwendungen im Gesundheitswesen</td><td>19</td></tr>
 <tr><td>RIR1007</td><td>Modell-Fernsteuerungen</td><td>9</td></tr>
 <tr><td>RIR1008</td><td>Allgemeiner Kurzstreckenfunk</td><td>22</td></tr>
 <tr><td>RIR1009</td><td>Drahtlose Mikrofonanlagen</td><td>25</td></tr>
-<tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>18</td></tr>
+<tr><td>RIR1010</td><td>Breitband-Datenübertragungssysteme</td><td>19</td></tr>
 <tr><td>RIR1011</td><td>Hochfrequenz-Identifikationsanlagen (RFID)</td><td>12</td></tr>
 <tr><td>RIR1012</td><td>Transport- und Verkehrstelematik (TTT)</td><td>16</td></tr>
 <tr><td>RIR1013</td><td>Drahtlose Audioanlagen</td><td>16</td></tr>
 <tr><td>RIR1021</td><td>Fernsteuern, Fernmessen und Datenübertragung mit höheren Leistungen</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Ultra-Breitband-Anwendungen (UWB)</td><td>11</td></tr>
-<tr><td>RIR1101</td><td>Amateurfunkanlagen</td><td>13</td></tr>
+<tr><td>RIR1101</td><td>Amateurfunkanlagen</td><td>14</td></tr>
 <tr><td>RIR1102</td><td>CB-Funkanlagen</td><td>9</td></tr>
 <tr><td>RIR1108</td><td>Funkortung (zivil)</td><td>9</td></tr>
 </table>
@@ -368,7 +369,7 @@ Anhang 6[^t-5]
 
 <sup>2</sup> Es enthält das folgende Symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/de/xml/image/image1.png)
 
 <sup>3</sup> Für eine Funkanlage, die das schweizerische Konformitätskennzeichen gemäss Anhang 1 Ziffer 1 FAV trägt, enthält es neben oder unter dem Symbol gemäss Absatz 2 die Abkürzung der Schweiz (CH).
 
@@ -386,13 +387,13 @@ Anhang 6[^t-5]
 <sup>7</sup> Beispiel mit informativem Charakter:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/de/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20220901/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20230101/de/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Durchführungsverordnung (EU) 2017/1354 der Kommission vom 20. Juli 2017 zur Festlegung der Aufmachung von Informationen gemäss Artikel 10 Absatz 10 der Richtlinie 2014/53/EU des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 190 vom 21.7.2017, S. 7.
