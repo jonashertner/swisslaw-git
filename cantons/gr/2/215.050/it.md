@@ -3,20 +3,20 @@ canton: GR
 number: "215.050"
 title: "Ordinanza sull'anticipo di contributi per il mantenimento di figli aventi diritto al mantenimento *"
 language: it
-version: 2013-01-01
-corrected: 2016-12-20
-version_adopted: 2013-01-01
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-20
 adopted: 1986-05-31
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/215.050"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2465/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3294/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza sull'anticipo di contributi per il mantenimento di figli aventi diritto al mantenimento
 
-del 31.05.1986 (stato 01.01.2013)
+del 31.05.1986 (stato 01.01.2023)
 
 emanata dal Gran Consiglio il 31 maggio 1986[^ingress-1]
 
@@ -24,7 +24,7 @@ ai sensi dell'art. 293 cpv. 2 del codice civile svizzero (CC)[^ingress-2] e dell
 
 [^ingress-1]: M del 17 feb. 1986, 88; PGC 1986/78, 98
 [^ingress-2]: RS [210](https://db.clex.ch/link/Bund/210/it)
-[^ingress-3]: Ora art. 40
+[^ingress-3]: Ora art. 37
 [^ingress-4]: CSC [210.100](https://db.clex.ch/link/GL/210.100/it)
 
 #### Art. 1
@@ -49,7 +49,7 @@ ai sensi dell'art. 293 cpv. 2 del codice civile svizzero (CC)[^ingress-2] e dell
 
 **Limite a) Prestazioni**
 
-<sup>1</sup> I contributi al mantenimento vengono anticipati al massimo fino a un importo di 737 franchi al mese per ogni figlio.
+<sup>1</sup> I contributi al mantenimento vengono anticipati al massimo fino a un importo di 764 franchi al mese per ogni figlio.
 
 #### Art. 4
 
@@ -57,13 +57,13 @@ ai sensi dell'art. 293 cpv. 2 del codice civile svizzero (CC)[^ingress-2] e dell
 
 <sup>1</sup> Il diritto all'anticipo di contributi al mantenimento sussiste soltanto nella misura in cui con i contributi anticipati non vengano superati i seguenti limiti di reddito:
 
-- a) per il genitore solo e non soggetto all'obbligo di contributo un reddito annuo di 44 211 franchi più 7368 franchi per ogni altro figlio avente diritto al mantenimento;
-- b) per il genitore non soggetto all'obbligo di contributo, coniugato o vivente in un rapporto simile al matrimonio, un reddito annuo netto composto dal reddito proprio e da quello del partner di 58 947 franchi più 7368 franchi per ogni altro figlio avente diritto al mantenimento;
-- c) per l'orfano di un genitore un reddito annuo netto di 14 737 franchi.
+- a) per il genitore solo e non soggetto all'obbligo di contributo un reddito annuo di 45 817 franchi più 7636 franchi per ogni altro figlio avente diritto al mantenimento;
+- b) per il genitore non soggetto all'obbligo di contributo, coniugato o vivente in un rapporto simile al matrimonio, un reddito annuo netto composto dal reddito proprio e da quello del partner di 61 090 franchi più 7636 franchi per ogni altro figlio avente diritto al mantenimento;
+- c) per l'orfano di un genitore un reddito annuo netto di 15 272 franchi.
 
 <sup>2</sup> Se il genitore non soggetto all'obbligo di contributo o il suo partner deve provvedere al mantenimento di figli, di cui non ha la custodia, il limite di reddito viene aumentato dell'importo degli alimenti effettivi.
 
-<sup>3</sup> Un decimo di quella parte della sostanza netta complessiva che supera la franchigia di 73 684 franchi viene aggiunto al reddito.
+<sup>3</sup> Un decimo di quella parte della sostanza netta complessiva che supera la franchigia di 76 362 franchi viene aggiunto al reddito.
 
 #### Art. 5
 

@@ -3,27 +3,27 @@ canton: GR
 number: "215.050"
 title: "Ordinaziun davart il pajament anticipà da contribuziuns al mantegniment per uffants cun dretg da mantegniment *"
 language: rm
-version: 2013-01-01
-corrected: 2016-12-20
-version_adopted: 2013-01-01
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-20
 adopted: 1986-05-31
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/215.050"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2465/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3294/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart il pajament anticipà da contribuziuns al mantegniment per uffants cun dretg da mantegniment
 
-dals 31-05-1986 (versiun dals 01-01-2013)
+dals 31-05-1986 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 293 al. 2 dal cudesch civil svizzer (CCS)[^ingress-1] e sin l'art. 51b[^ingress-2] da la lescha introductiva chantunala tar il CCS[^ingress-3]
 
 relaschada dal cussegl grond ils 31 da matg 1986[^ingress-4]
 
 [^ingress-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
-[^ingress-2]: ussa art. 40
+[^ingress-2]: ussa art. 37
 [^ingress-3]: DG [210.100](https://www.gr-lex.gr.ch/data/210.100/rm)
 [^ingress-4]: M dals 17 da favrer 1986, 88; PCG 1986/87, 98
 
@@ -49,7 +49,7 @@ relaschada dal cussegl grond ils 31 da matg 1986[^ingress-4]
 
 **Limitaziun 1. prestaziuns**
 
-<sup>1</sup> Las contribuziuns al mantegniment vegnan anticipadas sin il pli fin a la summa da 737 francs per uffant e per mais.
+<sup>1</sup> Las contribuziuns al mantegniment vegnan anticipadas sin il pli fin a la summa da 764 francs per uffant e per mais.
 
 #### Art. 4
 
@@ -57,13 +57,13 @@ relaschada dal cussegl grond ils 31 da matg 1986[^ingress-4]
 
 <sup>1</sup> Il dretg sin il pajament anticipà da contribuziuns al mantegniment exista mo, uschenavant ch'ils suandants limits d'entrada na vegnan betg surpassads ensemen cun las contribuziuns al mantegniment anticipadas:
 
-- a) tar il genitur senza obligaziun che viva sulet in'entrada annuala da 44 211 francs plus 7368 francs per mintga uffant supplementar cun dretg da mantegniment;
-- b) tar il genitur senza obligaziun ch'è maridà u che viva en ina relaziun sumeglianta a la lètg in'entrada annuala netta da 58 947 francs inclusiv l'entrada da la partenaria u dal partenari plus 7368 francs per mintga uffant supplementar cun dretg da mantegniment;
-- c) tar la mesa orfna u tar il mez orfen in'entrada annuala netta da 14 737 francs.
+- a) tar il genitur senza obligaziun che viva sulet in'entrada annuala da 45 817 francs plus 7636 francs per mintga uffant supplementar cun dretg da mantegniment;
+- b) tar il genitur senza obligaziun ch'è maridà u che viva en ina relaziun sumeglianta a la lètg in'entrada annuala netta da 61 090 francs inclusiv l'entrada da la partenaria u dal partenari plus 7636 francs per mintga uffant supplementar cun dretg da mantegniment;
+- c) tar la mesa orfna u tar il mez orfen in'entrada annuala netta da 15 272 francs.
 
 <sup>2</sup> Sch'il genitur senza obligaziun ubain sche sia partenaria u sche ses partenari sto procurar per il mantegniment d'uffants che n'èn betg affidads a sia tgira, s'augmenta il limit d'entrada per l'import dals pajaments da mantegniment effectivs.
 
-<sup>3</sup> La part da tut la facultad netta che surpassa l'import liber da 73 684 francs vegn quintada per in 10avel tar l'entrada.
+<sup>3</sup> La part da tut la facultad netta che surpassa l'import liber da 76 362 francs vegn quintada per in 10avel tar l'entrada.
 
 #### Art. 5
 
