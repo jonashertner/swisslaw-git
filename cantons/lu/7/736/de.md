@@ -4,13 +4,13 @@ number: "736"
 title: Planungs- und Bauverordnung
 short: PBV
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-10-13
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-18
 adopted: 2013-10-29
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/736"
-pdf: "https://srl.lu.ch/api/de/versions/3662/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4273/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/3662/pdf_file"
 
 (PBV)
 
-vom 29.10.2013 (Stand 01.01.2021)
+vom 29.10.2013 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf Artikel 52 Absatz 3 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-1], Artikel 28 Absatz 1 der Rohrleitungsverordnung vom 2. Februar 2000[^ingress-2] sowie die §§ 3 Absatz 2, 10a, 29, 35 Absatz 2, 38 Absatz 6, 54 Absatz 4, 61 Absatz 2, 65 Absatz 5, 77 Absatz 4, 100, 105h Absatz 1, 112a Absatz 3, 117b Absatz 3, 133 Absatz 4, 136 Absätze 3 und 4, 139 Absätze 2 und 4, 145 Absätze 1 und 6, 146 Absatz 3, 149, 157 Absatz 5, 174 Absatz 3, 182 Absatz 1, 184 Absatz 3, 188 Absätze 1 und 3, 192a Absatz 4, 193 Absatz 1, 198, 198a und 212 Absatz 3 des Planungs- und Baugesetzes vom 7. März 1989[^ingress-3],
+gestützt auf Artikel 52 Absatz 3 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-1], Artikel 28 Absatz 1 der Rohrleitungsverordnung vom 2. Februar 2000[^ingress-2] sowie die §§ 3 Absatz 2, 10a, 29, 35 Absatz 2, 38 Absatz 6, 39c Absatz 7, 39d Absatz 4, 54 Absatz 4, 61 Absätze 1 und 2, 65 Absatz 5, 77 Absatz 4, 100, 105h Absatz 1, 112a Absatz 3, 117b Absatz 3, 133 Absatz 4, 136 Absätze 3 und 4, 139 Absätze 2 und 4, 145 Absätze 1 und 6, 146 Absatz 3, 149, 157 Absatz 5, 174 Absatz 3, 182 Absatz 1, 184 Absatz 3, 188 Absätze 1 und 3, 192a Absatz 4, 193 Absatz 1, 198, 198a und 212 Absatz 3 des Planungs- und Baugesetzes vom 7. März 1989[^ingress-3],
 
 auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
 
@@ -41,9 +41,11 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die genehmigten Richt- und Nutzungspläne sind nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates der Dienststelle Raum und Wirtschaft in Papierform und digital einzureichen. Diese legt in Richtlinien die Modalitäten fest.
+<sup>1</sup> Die Richt- und Nutzungspläne (bestehend aus Plan und Vorschriften) sind der Dienststelle Raum und Wirtschaft zur Vorprüfung, beim Beginn der öffentlichen Auflage, zur Genehmigung und nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates in elektronischer Form als Datei einzureichen. Die Richtplantexte und die Vorschriften sind so aufzubereiten, dass die Verbindung und Verlinkung der Textinhalte mit den Plandaten gewährleistet ist. Die Dienststelle Raum und Wirtschaft legt die Modalitäten sowie die zu nutzenden Datenmodelle, Transferformate und Standards fest.
 
-<sup>2</sup> Werden Richt- und Nutzungspläne oder Bau- und Zonenreglemente geändert, gilt Absatz 1 sinngemäss.
+<sup>1<sup>bis</sup></sup> Die genehmigten Richt- und Nutzungspläne sind der Dienststelle Raum und Wirtschaft nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates zusätzlich in Papierform einzureichen. Diese legt in Richtlinien die Modalitäten fest.
+
+<sup>2</sup> Werden Richt- und Nutzungspläne oder Bau- und Zonenreglemente geändert, gelten die Absätze 1 und 1<sup>bis</sup> sinngemäss.
 
 #### § 2
 
@@ -55,23 +57,28 @@ beschliesst:
 
 **Fruchtfolgeflächen**
 
-<sup>1</sup> Fruchtfolgeflächen sind zu erhalten.
+<sup>1</sup> Der Dienststelle Umwelt und Energie obliegt die Kartierung der Fruchtfolgeflächen. Sie kann dafür andere Dienststellen sowie verwaltungsexterne Fachpersonen beiziehen und diesen Aufgaben übertragen.
 
-<sup>2</sup> Sollen sie einer anderen als der Landwirtschaftszone zugewiesen werden, muss dies durch überwiegende Interessen gerechtfertigt sein. Im Weiteren gilt, dass solche Zonenfestlegungen
+<sup>2</sup> Die Dienststelle Raum und Wirtschaft stellt sicher, dass beanspruchte Fruchtfolgeflächen vollständig kompensiert werden. Sie kann dafür andere Dienststellen sowie verwaltungsexterne Fachpersonen beiziehen und diesen Aufgaben übertragen.
 
-- a. den Vorgaben im kantonalen Richtplan zu entsprechen haben; insbesondere ist die Konzentration der Besiedlung auf die Hauptentwicklungsachsen und Zentren, die Begrenzung des Siedlungsflächenwachstums und die optimale Nutzung der Bauzonen zu beachten,
-- b. im Einklang mit einer geordneten Siedlungsentwicklung, abgestimmt auf ein kommunales Siedlungsleitbild, zu stehen haben; hinzuwirken ist auf eine Konzentration der Besiedlung und auf eine Entwicklung von innen nach aussen; Siedlungslücken sind zu füllen, bestehende Siedlungsteile zu arrondieren sowie neue Siedlungsansätze und -fortsätze zu vermeiden,
-- c. nur bei Nachweis des konkreten Bedarfs zulässig sind; dabei sind die inneren Reserven, wie Baulücken, unternutzte Parzellen, Umnutzungsgebiete, Erneuerungsgebiete, Möglichkeiten zur Erhöhung der baulichen Dichte, zu berücksichtigen.
-
-<sup>3</sup> Ist die Zuweisung von Fruchtfolgeflächen zu einer anderen als der Landwirtschaftszone auch nach der Prüfung von Varianten und Alternativen und allenfalls unter Inkaufnahme von vertretbaren qualitativen Einbussen bezüglich Orts- und Landschaftsbild oder Wohngebieten unausweichlich, sind flächengleiche Ersatzmassnahmen zu leisten.
-
-<sup>4</sup> Ist für Fruchtfolgeflächen Ersatz zu leisten, sind folgende Massnahmen möglich:
-
-- a. Rückzonung von nicht überbautem Land mit der Qualität von Fruchtfolgeflächen in die Landwirtschaftszone,
-- b. Schaffung neuer Fruchtfolgeflächen durch Verbesserung von degradierten Böden, namentlich durch die Wiederverwertung des Bodenmaterials aus den beanspruchten Fruchtfolgeflächen,
+- a. …
+- b. …
 - c. …
 
-<sup>5</sup> Die gewählten Ersatzmassnahmen sind nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes auszuarbeiten und dem Kanton im Vorprüfungsverfahren zusammen mit den übrigen Unterlagen zur Ortsplanungsrevision einzureichen.
+<sup>3</sup> Die Sicherstellung der vollständigen Kompensation erfolgt insbesondere durch
+
+- a. die Bilanzierung und ein Monitoring sämtlicher Fruchtfolgeflächen,
+- b. die Begleitung der Kompensationsprojekte während ihrer gesamten Dauer einschliesslich der Folgebewirtschaftung,
+- c. die Schlussabnahme von Kompensationsprojekten und
+- d. ein Monitoring der laufenden Kompensationsprojekte und der gehandelten Kompensationsflächen.
+
+<sup>4</sup> Die gewählten Kompensationsmassnahmen sind nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes auszuarbeiten und dem Kanton im Vorprüfungsverfahren zusammen mit den übrigen Unterlagen einzureichen.
+
+- a. …
+- b. …
+- c. …
+
+<sup>5</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement kann Richtlinien erlassen.
 
 #### § 4
 
@@ -118,6 +125,12 @@ beschliesst:
 
 <sup>2</sup> Die Gemeinde kann auf die Zustellung verzichten, wenn sie die Unterlagen gemäss Absatz 1 im Internet zur Einsicht bereitstellt. Die betroffenen Grundeigentümerinnen und -eigentümer und Haushaltungen sind darüber mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist zu orientieren. Die Gemeinde ist verpflichtet, diesen auf Verlangen ein Exemplar der Unterlagen zuzustellen.
 
+<sup>3</sup> Namentlich folgende öffentliche Auflagen sind im Kantonsblatt zu publizieren:
+
+- a. Gesamtrevisionen der Ortsplanung,
+- b. Teilrevisionen der Ortsplanung im Anwendungsbereich des Verbandsbeschwerderechts,
+- c. Bebauungspläne im Anwendungsbereich des Verbandsbeschwerderechts.
+
 #### § 6a
 
 **Kaufrecht der Gemeinde**
@@ -133,6 +146,16 @@ beschliesst:
 <sup>5</sup> Die Gemeinde lässt im Grundbuch die Anmerkung der Frist zur Überbauung und ihres befristeten Kaufrechts löschen, wenn die Voraussetzungen dahingefallen sind.
 
 [^6a-1]: SRL Nr. [730](https://srl.lu.ch/data/730/de)
+
+#### § 6b
+
+**Aufhebung privatrechtlicher Baubeschränkungen**
+
+<sup>1</sup> Die Gemeinde leitet das Verfahren nach § 39 Absatz 5 PBG von sich aus oder auf Gesuch eines interessierten Grundeigentümers oder einer interessierten Grundeigentümerin ein. Letztere haben der Gemeinde die zur Beurteilung der Aufhebung der privatrechtlichen Baubeschränkung erforderlichen Unterlagen zur Verfügung zu stellen.
+
+<sup>2</sup> Kann keine gütliche Einigung erzielt werden, ersucht die Gemeinde das Bau-, Umwelt- und Wirtschaftsdepartement um Vorprüfung der Rechtmässigkeit der beabsichtigen Enteignung. Sie hat dabei darzulegen, ob die Enteignung aus ihrer Sicht, insbesondere bezüglich der von der Gemeinde geplanten räumlichen Entwicklung, im öffentlichen Interessen liegt.
+
+<sup>3</sup> Nach der Vorprüfung kann die Gemeinde oder der interessierte Grundeigentümer oder die interessierte Grundeigentümerin das Gesuch um Enteignung gemäss den §§ 26 ff. des Enteignungsgesetzes stellen.
 
 ### 1.2 Sondernutzungspläne
 
@@ -157,6 +180,10 @@ beschliesst:
 - l. Massnahmen zum Schutz vor Lärm, Naturgefahren und Störfallrisiken,
 
 <sup>2</sup> Die Gemeinde kann verlangen, dass mehrere Entwürfe vorgelegt werden und insbesondere die zweckmässige Dimensionierung und Anordnung der Aussengeschoss- und Umgebungsflächen nachgewiesen wird.
+
+<sup>3</sup> Der Bebauungsplan (bestehend aus Plan und Vorschriften) ist der Dienststelle Raum und Wirtschaft zur Vorprüfung, beim Beginn der öffentlichen Auflage, zur Genehmigung und nach seiner Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates in elektronischer Form als Datei einzureichen. Die Vorschriften sind so aufzubereiten, dass die Verbindung und Verlinkung der Textinhalte mit den Plandaten gewährleistet ist. Die Dienststelle Raum und Wirtschaft legt die Modalitäten sowie die zu nutzenden Datenmodelle, Transferformate und Standards fest.
+
+<sup>4</sup> Werden Bebauungspläne geändert, gilt Absatz 3 sinngemäss.
 
 #### § 8
 
@@ -741,9 +768,11 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 #### § 51
 
-**Zuständige Behörde**
+**Zuständige Behörden**
 
 <sup>1</sup> Die Dienststelle Raum und Wirtschaft entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung gemäss den §§ 180 oder 181 PBG erteilt werden kann. Vorbehalten bleibt § 192a Absätze 3 und 4 PBG.
+
+<sup>2</sup> Die Dienststelle Landwirtschaft und Wald ist zuständig für die Umsetzung der Vorgaben zur Biodiversität. Vorbehalten bleiben abweichende Zuständigkeiten nach der jeweils massgebenden Spezialgesetzgebung.
 
 #### § 52
 
@@ -753,9 +782,11 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 - a. sie im kantonalen Denkmalverzeichnis eingetragen sind,
 - b. sie im Zonenplan, im Bau- und Zonenreglement oder in einem Bebauungsplan als schützenswerte Kulturobjekte angeführt sind,
-- c. dies die Gemeinde auf Gesuch hin gestützt auf einen zustimmenden Entscheid der Dienststelle Raum und Wirtschaft im Einzelfall so verfügt; die Dienststelle Raum und Wirtschaft holt dazu die Stellungnahme der Dienststelle Hochschulbildung und Kultur ein.
+- c. dies die Gemeinde auf Gesuch hin gestützt auf einen zustimmenden Entscheid der Dienststelle Raum und Wirtschaft im Einzelfall so verfügt; die Dienststelle Raum und Wirtschaft holt dazu die Stellungnahme der Dienststelle Kultur[^52-1] ein.
 
 <sup>2</sup> Über das Gesuch nach Absatz 1c entscheiden die Gemeinde und die Dienststelle Raum und Wirtschaft im Baubewilligungsverfahren. Sie können vorweg auch nur über das Gesuch befinden.
+
+[^52-1]: Gemäss Änderung vom 15. November 2022, in Kraft seit dem 1. November 2023 (G 2022 254), wurde die Bezeichnung «Dienststelle Hochschulbildung und Kultur» durch «Dienststelle Kultur» ersetzt.
 
 ## 5 Baubewilligungspflicht und Baubewilligungsverfahren
 
@@ -823,7 +854,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 **Baugesuch und Beilagen**
 
-<sup>1</sup> Das Baugesuch ist mit dem kantonalen Formular dreifach einzureichen. Die Gemeinde kann weitere Exemplare verlangen, soweit dies für die Beurteilung des Bauvorhabens erforderlich ist. Das Baugesuch kann zusätzlich elektronisch eingereicht werden, sofern die Gemeinde über die nötige Infrastruktur verfügt.
+<sup>1</sup> Das Baugesuch ist unter Verwendung des kantonalen elektronischen Formulars digital einzureichen. Zusätzlich ist ein Exemplar in Papierform einzureichen. Die Gemeinde kann weitere Exemplare verlangen.
 
 <sup>2</sup> Mit dem Baugesuch sind die für eine umfassende und abschliessende Prüfung und Beurteilung des Bauvorhabens notwendigen Unterlagen einzureichen, mindestens jedoch
 
@@ -843,7 +874,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 <sup>4</sup> Bei Um-, An- und Ausbauten oder anderen Änderungen sind bestehende Bauteile schwarz oder grau, neue rot und abzubrechende gelb zu kennzeichnen.
 
-<sup>5</sup> Die Beilagen sind zu datieren und die Pläne mit einer Nummer zu versehen. Beilagen und Pläne sind von der Bauherrschaft, den Verfasserinnen und Verfassern sowie den Grundeigentümerinnen und -eigentümern zu unterzeichnen.
+<sup>5</sup> Die Pläne und Beilagen sind mit einer Nummer und dem Datum der Version zu versehen. Sie sind im Beilagenverzeichnis aufzuführen.
 
 [^55-1]: SRL Nr. [773](https://srl.lu.ch/data/773/de)
 [^55-2]: SR [814.600](https://db.clex.ch/link/Bund/814.600/de)
@@ -852,7 +883,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 **Unterzeichnung des Baugesuchs**
 
-<sup>1</sup> Das Baugesuch ist eigenhändig zu unterzeichnen. Das allenfalls zusätzlich elektronisch eingereichte Baugesuch ist mit elektronischer Unterschrift nach Artikel 14 Absatz 2<sup>bis</sup> des Schweizerischen Obligationenrechts vom 30. März 1911[^56-1] zu versehen.
+<sup>1</sup> Das elektronische Baugesuch ist mit einem eigenhändig unterzeichneten Unterschriftenblatt zum Baugesuch im PDF-Format digital einzureichen. Alternativ kann das Baugesuch mit einer elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> des Schweizerischen Obligationenrechts vom 30. März 1911[^56-1] versehen digital eingereicht werden.
 
 <sup>2</sup> Bei gemeinschaftlichem Eigentum ist die nach Massgabe des Zivilrechts erforderliche Zustimmung der Gesamt-, Mit- oder Stockwerkeigentümerschaft nachzuweisen.
 
@@ -876,7 +907,13 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 <sup>1</sup> Die Gemeinde hat Baugesuche gleichzeitig ortsüblich, im Internet und – falls erforderlich – in anderer Form, insbesondere im Kantonsblatt, öffentlich bekannt zu machen.
 
-<sup>2</sup> Wird das Baugesuch zusätzlich elektronisch eingereicht, hat die Gemeinde das Gesuchsformular mit sämtlichen Beilagen während der öffentlichen Auflage im Internet zur Einsicht bereitzustellen, sofern sie über die nötige Infrastruktur verfügt.
+<sup>1<sup>bis</sup></sup> Im Kantonsblatt sind namentlich Baugesuche zu publizieren:
+
+- a. im Anwendungsbereich des Verbandsbeschwerderechts,
+- b. für Bauvorhaben ausserhalb der Bauzonen mit Ausnahme derjenigen nach § 53 Abs. 2 PBV,
+- c. für Bauvorhaben mit unmittelbar gemeindeübergreifenden Auswirkungen.
+
+<sup>2</sup> Das Baugesuchsformular ist mit sämtlichen Plänen und Beilagen während der öffentlichen Auflage passwortgeschützt im Internet zur Einsicht bereitzustellen. Die Gemeinde hat das Passwort auf individuelle Anfrage hin bekannt zu geben.
 
 <sup>3</sup> In der Bekanntmachung ist auf die Einsprachemöglichkeit während der Auflagefrist hinzuweisen.
 
@@ -919,7 +956,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 **Entscheid**
 
-<sup>1</sup> Der Entscheid über das Baugesuch und die Einsprachen oder, wenn in der gleichen Sache weitere Bewilligungen und Verfügungen erforderlich sind, alle Entscheide gleichzeitig und gemeinsam sind der Dienststelle Raum und Wirtschaft in der jeweils verlangten Anzahl, mindestens aber dreifach zuzustellen.
+<sup>1</sup> Der Entscheid über das Baugesuch und die Einsprachen sowie allenfalls weitere in der gleichen Sache erforderliche Bewilligungen und Verfügungen sind der Dienststelle Raum und Wirtschaft gleichzeitig und gemeinsam digital zuzustellen.
 
 <sup>2</sup> Die Gemeinde verweist die Einsprecherinnen und Einsprecher mit privatrechtlichen Einsprachen an den Zivilrichter.
 
@@ -960,6 +997,18 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 <sup>2</sup> Für Vorprüfungen von Änderungen der Bau- und Zonenordnungen sowie von Bebauungsplänen, die der Realisierung bestimmter, vorwiegend im privaten Interesse liegender Vorhaben dienen, und für weitere, nicht durch Entscheid abzuschliessende Aufgaben im Bereich der Verfahrenskoordination und des Projektmanagements erheben die kantonalen Behörden Gebühren nach Zeitaufwand. Diese betragen pro Stunde 55 bis 275 Franken.
 
 [^65-1]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+
+#### § 65a
+
+**Gebühren im koordinierten Baubewilligungsverfahren**
+
+<sup>1</sup> Die Dienststelle Raum und Wirtschaft stellt der Gemeinde im koordinierten Baubewilligungsverfahren 180 Tage nach Zustellung des kantonalen Entscheids an die Gemeinde ihre Gebühren in Rechnung, sofern die Gemeinde das Verfahren nicht mit Entscheid unter Miteröffnung des kantonalen Entscheids abgeschlossen hat.
+
+<sup>2</sup> Auf begründeten Antrag der Gemeinde kann die Rechnungsstellung aufgeschoben werden.
+
+<sup>3</sup> Die Gemeinde stellt dem Gesuchsteller oder der Gesuchstellerin die Gebühren für den kantonalen Entscheid im Rahmen des kommunalen Entscheids zum Abschluss des Baubewilligungsverfahrens in Rechnung.
+
+<sup>4</sup> Entsteht der Gemeinde aus der Rechnungstellung für Gebühren des kantonalen Entscheids infolge eines Gerichtsurteils oder der Nichteinbringlichkeit der Kosten ein Ausfall, hat sie gegenüber der Dienststelle Raum und Wirtschaft Anspruch auf Rückerstattung.
 
 ## 7 Schlussbestimmungen
 
@@ -1010,6 +1059,12 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 - b. bei Umbauten
   - 1\. der Neubaugrenzwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
   - 2\. eine Zertifizierung des Labels Minergie erreicht wird.
+
+#### § 68a
+
+**Übergangsbestimmung der Änderung vom 18. Oktober 2022**
+
+<sup>1</sup> Die Gemeinden haben sicherzustellen, dass die Baugesuche bis spätestens 1. Januar 2024 nach den Vorgaben der §§ 55 Absätze 1 und 5 und 56 Absatz 1 elektronisch eingereicht und gemäss den Vorgaben von § 58 Absatz 2 öffentlich aufgelegt werden können. Bis dahin gelten für die Einreichung und die öffentliche Auflage die Vorgaben gemäss den bisherigen Bestimmungen.
 
 #### § 69
 
