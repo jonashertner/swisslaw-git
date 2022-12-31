@@ -4,13 +4,13 @@ number: III B/1/1
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches im Kanton Glarus
 short: Einführungsgesetz zum Zivilgesetzbuch; EG ZGB
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-06-30
 version_adopted: 2021-09-05
 adopted: 1911-05-07
 in_force: 1912-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2281/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2281/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch; EG ZGB)
 
-Vom 07.05.1911 (Stand 01.07.2022)
+Vom 07.05.1911 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1911)
 
@@ -285,6 +285,10 @@ Vom 07.05.1911 (Stand 01.07.2022)
 
 <sup>1</sup> Soweit nicht Spezialgesetze oder die Statuten einer Korporation etwas anderes vorschreiben, wird angenommen, dass für Forderungen an die Korporation bloss ihr Vermögen, nicht aber dasjenige der einzelnen Mitglieder hafte und dass diese nicht berechtigt seien, Teilung des Korporationsgutes und Ausscheidung ihres Anteils zu verlangen.
 
+<sup>2</sup> Die Rechnungslegung für Korporationen richtet sich nach Artikel 957 Absätze 2 und 3 Obligationenrecht[^37-1].
+
+[^37-1]: SR 220
+
 #### Art. 38
 
 <sup>1</sup> Beschlüsse einer Korporation, welche über den Bereich ihres Zweckes hinausgehen oder in statutenwidriger Form geschehen oder in wohlerworbene Rechte einzelner Mitglieder eingreifen, können von der Minderheit bestritten werden.
@@ -317,7 +321,7 @@ Vom 07.05.1911 (Stand 01.07.2022)
 
 <sup>1</sup> Den Sozialhilfestellen bleiben die ihnen durch das Gesetz über die öffentliche Sozialhilfe eingeräumten Befugnisse der Sozialhilfe für Kinder, die selbst unterstützt werden, oder deren Eltern Unterstützungen beziehen, auch in den Fällen vorbehalten, in denen Eltern die elterliche Gewalt nicht entzogen worden ist.
 
-<sup>2</sup> Dies gilt auch dann, wenn die Eltern auf die Unterstützung der Kinder verzichten wollen, bevor deren Erziehung und richtige Ausbildung zum selbst ständigen Lebenserwerb beendigt ist.
+<sup>2</sup> Dies gilt auch dann, wenn die Eltern auf die Unterstützung der Kinder verzichten wollen, bevor deren Erziehung und richtige Ausbildung zum selbstständigen Lebenserwerb beendigt ist.
 
 <sup>3</sup> Den Eltern bleibt das Beschwerderecht an das zuständige Departement und gegen dessen Entscheid an das Verwaltungsgericht gewahrt.
 
@@ -533,6 +537,10 @@ Vom 07.05.1911 (Stand 01.07.2022)
 #### Art. 68
 
 <sup>1</sup> Das Verfahren vor der Kindes- und Erwachsenenschutzbehörde richtet sich unter Vorbehalt der folgenden Abweichungen nach dem Verwaltungsrechtspflegegesetz soweit es nicht durch das Bundesrecht geregelt wird. Subsidiär gelangt die ZPO zur Anwendung.
+
+<sup>2</sup> Die Bestimmungen über den informationsrechtlichen Zugang zu amtlichen Dokumenten nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^68-1] finden im Bereich des Kindes- und Erwachsenenschutzes keine Anwendung.
+
+[^68-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 69
 
@@ -1068,7 +1076,7 @@ Vom 07.05.1911 (Stand 01.07.2022)
 
 <sup>1</sup> Alle Streitigkeiten, die sich aus dem Unternehmen unter den Beteiligten ergeben, werden auf dem Verwaltungswege in erster Instanz durch das für den betreffenden Fachbereich zuständige Departement entschieden. Der Rechtsschutz gegen die Departementsentscheide richtet sich nach dem Verwaltungsrechtspflegegesetz.
 
-<sup>2</sup> Über die Verpflichtungen aus dem Unternehmen der Mitglieder von Korporationen gemäss Artikel 163 entscheidet das zuständige Korporationsorgan durch Verfügung. Diese Verfügungen können nach Massgabe des Verwaltungsrechtspflegegesetzes beim für den betreffenden Fachbereich zuständigen Departement angefochten werden. Die Beschwerdenentscheide des Departements unterliegen nach Massgabe des Verwaltungsrechtspflegegesetzes der Beschwerde an das Verwaltungsgericht.
+<sup>2</sup> Über die Verpflichtungen aus dem Unternehmen der Mitglieder von Korporationen gemäss Artikel 163 entscheidet das zuständige Korporationsorgan durch Verfügung. Diese Verfügungen können nach Massgabe des Verwaltungsrechtspflegegesetzes beim für den betreffenden Fachbereich zuständigen Departement angefochten werden. Die Beschwerdeentscheide des Departements unterliegen nach Massgabe des Verwaltungsrechtspflegegesetzes der Beschwerde an das Verwaltungsgericht.
 
 #### Art. 165
 
@@ -1151,7 +1159,7 @@ Vom 07.05.1911 (Stand 01.07.2022)
 
 #### Art. 178
 
-<sup>1</sup> Die Befugnis, die in Artikel 177 Buchstabe bezeichnete Enteignung zu verlangen, die dadurch erworbenen Rechte zu benützen oder weiter zu begeben, steht zunächst dem Kanton zu.
+<sup>1</sup> Die Befugnis, die in Artikel 177 Buchstabe a bezeichnete Enteignung zu verlangen, die dadurch erworbenen Rechte zu benützen oder weiter zu begeben, steht zunächst dem Kanton zu.
 
 <sup>2</sup> Will der Kanton von seinem Vorrecht keinen Gebrauch machen, so können die Gemeinden, und wenn auch die Gemeinden darauf verzichten, Gesellschaften und Private die Enteignung nachsuchen.
 
@@ -1326,9 +1334,7 @@ Vom 07.05.1911 (Stand 01.07.2022)
 
 #### Art. 203
 
-<sup>1</sup> An die Kosten der in den Artikeln 189, 196 und 197 dieses Gesetzes geforderten Sicherungsarbeiten, sofern sie das Mass des gewöhnlichen Unterhaltes erheblich übersteigen, kann die gemäss dem Finanzhaushaltgesetz[^203-1] zuständige Behörde einen den Verhältnissen entsprechenden Beitrag leisten.
-
-[^203-1]: GS [VI A/1/2](https://gesetze.gl.ch/data/VI-A.1.2/de)
+<sup>1</sup> An die Kosten der in den Artikeln 189, 196 und 197 dieses Gesetzes geforderten Sicherungsarbeiten, sofern sie das Mass des gewöhnlichen Unterhaltes erheblich übersteigen, kann der Regierungsrat einen den Verhältnissen entsprechenden Beitrag leisten.
 
 #### Art. 204
 
