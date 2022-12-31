@@ -4,20 +4,20 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les allocations pour perte de gain
 
-(LAPG)**[^t-1]**
+(LAPG)[^t-1]
 
-du 25 septembre 1952 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -31,7 +31,7 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon le ch. I 8 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^ingress-3]: [FF 1951 III 305](https://fedlex.data.admin.ch/eli/fga/1951/3_297_305_)
 
-## Chapitre 1**** Applicabilité de la LPGA
+## Chapitre 1 Applicabilité de la LPGA
 
 [^chap1-1]
 
@@ -43,13 +43,13 @@ Les dispositions de la loi fédérale du 6 octobre 2000 sur la partie générale
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Chapitre 1*a* Les allocations****
+## Chapitre 1*a* Les allocations
 
 [^chap1a-1]
 
 [^chap1a-1]: Introduit par l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-### I. L’allocation en cas de service****
+### I. L’allocation en cas de service
 
 [^chap1a-lvlI-1]
 
@@ -273,15 +273,15 @@ Durant les périodes de service restantes, l’allocation journalière totale ne
 
 **Montant maximum de l’allocation totale**[^16a-1]
 
-<sup>1</sup> Le montant maximum de l’allocation totale s’élève à 245 francs[^16a-2] par jour.[^16a-3]
+<sup>1</sup> Le montant maximum de l’allocation totale s’élève à 275 francs[^16a-2] par jour.[^16a-3]
 
 <sup>2</sup> Le Conseil fédéral peut adapter le montant maximum à l’évolution des salaires, à des intervalles d’au moins deux ans, dès le début d’une année et à condition que le niveau des salaires qui a déterminé la dernière adaptation ait subi, pendant ce temps, une modification d’au moins 12 %.
 
 [^16a-1]: Introduit par le ch. I de la LF du 3 oct. 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [FF 1975 I 1209](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O 21 du 14 oct. 2020 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^16a-2]: Montant adapté selon l’art. 7 al. 1 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^16a-3]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
-### III*a*.**** L’allocation de maternité
+### III*a*. L’allocation de maternité
 
 [^chap1a-lvlIIIa-1]
 
@@ -364,11 +364,11 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 
 **Montant maximal**
 
-<sup>1</sup> Le montant maximal s’élève à 196 francs[^16f-1] par jour. L’art. 16*a*, al. 2, est applicable par analogie.
+<sup>1</sup> Le montant maximal s’élève à 220 francs[^16f-1] par jour. L’art. 16*a*, al. 2, est applicable par analogie.
 
 <sup>2</sup> L’allocation est réduite si elle dépasse le montant maximal prévu à l’al. 1.
 
-[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O 21 du 14 oct. 2020 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^16f-1]: Montant adapté selon l’art. 7 al. 2 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 
 #### Art. 16g
 
@@ -400,11 +400,13 @@ L’allocation de maternité exclut le versement des indemnités journalières:
 
 #### Art. 16h
 
-**Rapport avec les réglementations cantonales**
+**Rapport avec les réglementations cantonales**[^16h-1]
 
-En complément au chap. III*a*, les cantons peuvent prévoir l’octroi d’une allocation de maternité plus élevée ou de plus longue durée et l’instauration d’une allocation d’adoption et prélever, pour le financement de ces prestations, des cotisations particulières.
+En complément à la section III*a*, les cantons peuvent prévoir l’octroi d’une allocation de maternité plus élevée ou de plus longue durée et prélever, pour le financement de cette prestation, des cotisations particulières.
 
-### III*b* *.***** L’allocation de paternité
+[^16h-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+
+### III*b* *.* L’allocation de paternité
 
 [^chap1a-lvlIIIb-1]
 
@@ -511,7 +513,7 @@ Si le droit à une indemnité journalière existait jusqu’au début du droit �
 [^16m-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16m-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
-### III*c*.**** L’allocation pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+### III*c*. L’allocation pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
 
 [^chap1a-lvlIIIc-1]
 
@@ -626,6 +628,94 @@ Si, avant la naissance du droit à l’allocation de prise en charge, le bénéf
 [^16s-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16s-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
+### III*d*. L’allocation d’adoption
+
+[^chap1a-lvlIIId-1]
+
+[^chap1a-lvlIIId-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+
+#### Art. 16t
+
+**Ayants droit**
+
+<sup>1</sup>
+
+Ont droit à l’allocation les personnes qui:
+
+- a. accueillent un enfant de moins de 4 ans en vue de son adoption;
+- b. ont été assurées obligatoirement au sens de la LAVS[^16t-1] durant les neuf mois qui précèdent l’accueil de l’enfant et ont exercé, au cours de cette période, une activité lucrative pendant au moins cinq mois, et
+- c.
+
+  à la date de l’accueil de l’enfant:
+
+  - 1\. sont salariées au sens de l’art. 10 LPGA[^16t-2],
+  - 2\. exercent une activité indépendante au sens de l’art. 12 LPGA, ou
+  - 3\. travaillent dans l’entreprise de leur conjoint contre un salaire en espèces.
+
+<sup>2</sup>
+
+En cas d’adoption conjointe:
+
+- a. les conditions prévues à l’al. 1 doivent être remplies par les deux parents;
+- b. il n’existe qu’un seul droit à l’allocation.
+
+<sup>3</sup> Si les parents se partagent le congé d’adoption, chacun des parents a droit à l’allocation pendant sa part du congé.
+
+<sup>4</sup> L’accueil simultané de plusieurs enfants fait naître le droit à une seule allocation.
+
+<sup>5</sup> L’adoption de l’enfant du conjoint ou du partenaire au sens de l’art. 264*c*, al. 1, du code civil[^16t-3] ne donne pas droit à une allocation.
+
+[^16t-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16t-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16t-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 16u
+
+**Délai-cadre, début et extinction du droit**
+
+<sup>1</sup> L’allocation d’adoption peut être perçue dans un délai-cadre d’une année.
+
+<sup>2</sup> Le délai-cadre commence à courir et le droit à l’allocation prend effet le jour de l’accueil de l’enfant.
+
+<sup>3</sup>
+
+Le droit à l’allocation s’éteint:
+
+- a. au terme du délai-cadre;
+- b. après perception du nombre maximal d’indemnités journalières;
+- c. si l’ayant droit décède, ou
+- d. si l’enfant décède.
+
+#### Art. 16v
+
+**Forme de l’allocation et nombre d’indemnités journalières**
+
+<sup>1</sup> L’allocation est versée sous la forme d’indemnités journalières pour les jours de congé pris.
+
+<sup>2</sup> L’ayant droit a droit à un maximum de quatorze indemnités journalières.
+
+<sup>3</sup> Si le congé est pris sous la forme de semaines, l’ayant droit touche sept indemnités journalières par semaine.
+
+<sup>4</sup> Si le congé est pris sous la forme de journées, l’ayant droit touche deux indemnités journalières supplémentaires pour cinq jours indemnisés.
+
+#### Art. 16w
+
+**Montant et calcul de l’allocation**
+
+<sup>1</sup> L’indemnité journalière est égale à 80 % du revenu moyen de l’activité lucrative obtenu avant le début du droit à l’allocation.
+
+<sup>2</sup> Pour déterminer le montant du revenu, l’art. 11, al. 1, est applicable par analogie.
+
+<sup>3</sup> Pour le montant maximal, l’art. 16*f* est applicable par analogie.
+
+<sup>4</sup> Si les parents se partagent le congé d’adoption, l’allocation est calculée séparément pour chaque parent.
+
+#### Art. 16x
+
+**Rapport avec les réglementations cantonales**
+
+En complément à la section III*d*, les cantons peuvent prévoir l’octroi d’une allocation d’adoption plus élevée ou de plus longue durée et prélever, pour le financement de cette prestation, des cotisations particulières.
+
 ### IV. Dispositions diverses
 
 #### Art. 17
@@ -705,15 +795,17 @@ En dérogation à l’art. 24 LPGA[^20-2], le droit aux allocations non versées
 - a. en cas de service, cinq ans après la fin du service donnant droit aux allocations;
 - b. en cas de maternité, cinq ans après la fin du droit visé à l’art. 16*d*;
 - c. en cas de paternité, cinq ans après la fin du délai-cadre visé à l’art. 16*j*;
-- d. en cas de congé pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, cinq ans après le dernier jour du congé de prise en charge.[^20-3]
+- d. en cas de congé pour les parents qui prennent en charge un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, cinq ans après le dernier jour du congé de prise en charge;
+- e.[^20-3] en cas d’adoption, cinq ans après la fin du droit visé à l’art. 16*u*, al 3.[^20-4]
 
-<sup>2</sup> Les créances découlant de la présente loi, de la LAVS[^20-4] et de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^20-5] peuvent être compensées avec des allocations dues.
+<sup>2</sup> Les créances découlant de la présente loi, de la LAVS[^20-5] et de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^20-6] peuvent être compensées avec des allocations dues.
 
 [^20-1]: Nouvelle teneur selon le ch. 1 de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6998](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1032](https://fedlex.data.admin.ch/eli/fga/2003/169)[2595](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^20-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-5]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-3]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 6723](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6909](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^20-4]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^20-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
 #### Art. 20a
 
@@ -832,7 +924,7 @@ Les prestations prévues par la présente loi sont couvertes par:
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 6 mars 1959 en vigueur depuis le 1<sup>er</sup> janv. 1960 ([RO 1959 589](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [FF 1958 II 1349](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^27-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Montant adapté selon l’art. 9 de l’O 21 du 14 oct. 2020 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, dans la teneur de la mod. du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4683](https://fedlex.data.admin.ch/eli/oc/2020/842)).
+[^27-4]: Montant adapté selon l’art. 9 de l’O 23 du 12 oct. 2022 sur les adaptations à l’évolution des salaires et des prix dans le régime de l’AVS, de l’AI et des APG, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^27-5]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-7]: Introduit par le ch. VII de la LF du 4 oct. 1968 modifiant la loi sur l’AVS ([RO 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 627](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nouvelle teneur de la phrase selon l’annexe ch. 14 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -850,7 +942,7 @@ Les prestations prévues par la présente loi sont couvertes par:
 [^28-1]: Nouvelle teneur selon l’annexe ch. II 6 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^28-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
-## Chapitre 5**** Relation avec le droit européen
+## Chapitre 5 Relation avec le droit européen
 
 [^chap5-1]
 
@@ -890,7 +982,7 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 [^28a-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
 [^28a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Chapitre 6**** Dispositions finales et transitoires
+## Chapitre 6 Dispositions finales et transitoires
 
 [^chap6-1]
 
@@ -954,13 +1046,13 @@ Les décrets cantonaux concernant la création des caisses cantonales de compens
 
 [^34-1]: Abrogé par le ch. I de la LF du 18 déc. 1968, avec effet au 1<sup>er</sup> janv. 1969 ([RO 1969 318](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 81](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
 
-## Dispositions finales de la modification du 20 mars 1981****
+## Dispositions finales de la modification du 20 mars 1981
 
 [^u1-1]
 
 [^u1-1]: [RO 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)annexe ch. 3; [FF 1976 III 143](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogées par le ch. II 45 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Dispositions finales de la modification du 3 octobre 2003****
+## Dispositions finales de la modification du 3 octobre 2003
 
 [^u2-1]
 

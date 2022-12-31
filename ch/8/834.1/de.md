@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über den Erwerbsersatz
 
-(Erwerbsersatzgesetz, EOG)**[^t-1]**
+(Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Januar 2022)
+vom 25. September 1952 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -31,7 +31,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. I 8 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^ingress-3]: [BBl 1951 III 297](https://fedlex.data.admin.ch/eli/fga/1951/3_297_305_)
 
-## Erster Abschnitt:**** Anwendbarkeit des ATSG
+## Erster Abschnitt: Anwendbarkeit des ATSG
 
 [^chap1-1]
 
@@ -43,13 +43,13 @@ Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemei
 
 [^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Erster Abschnitt *a*: Die Erwerbsausfallentschädigung****
+## Erster Abschnitt *a*: Die Erwerbsausfallentschädigung
 
 [^chap1a-1]
 
 [^chap1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### I. Der Entschädigungsanspruch für Dienstleistende****
+### I. Der Entschädigungsanspruch für Dienstleistende
 
 [^chap1a-lvlI-1]
 
@@ -57,7 +57,7 @@ Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemei
 
 #### Art. 1a
 
-**...[^1a-2]**[^1a-1]
+**…[^1a-2]**[^1a-1]
 
 <sup>1</sup>
 
@@ -219,7 +219,7 @@ Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. 
 
 Die Kinderzulage beträgt für jedes Kind 8 Prozent des Höchstbetrages der Gesamtentschädigung.
 
-[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 (AS **200****5** 1429; [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^13-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 14
 
@@ -275,15 +275,15 @@ Während der anderen Dienste darf die tägliche Gesamtentschädigung folgende Pr
 
 **Höchstbetrag der Gesamtentschädigung**[^16a-1]
 
-<sup>1</sup> Der Höchstbetrag der Gesamtentschädigung beträgt 245 Franken[^16a-2] im Tag.[^16a-3]
+<sup>1</sup> Der Höchstbetrag der Gesamtentschädigung beträgt 275 Franken[^16a-2] im Tag.[^16a-3]
 
 <sup>2</sup> Der Bundesrat kann frühestens nach je zwei Jahren den Höchstbetrag der Gesamtentschädigung auf Jahresbeginn der Lohnentwicklung anpassen, wenn sich das Lohnniveau, das für die letzte Festsetzung massgebend war, in dieser Zeit um mindestens 12 Prozent geändert hat.
 
 [^16a-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); [BBl 1975 I 1193](https://fedlex.data.admin.ch/eli/fga/1975/1_1193_1209_1185)).
-[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^16a-2]: Entschädigung gemäss Art. 7 Abs. 1 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^16a-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
-### III*a*.**** Die Mutterschaftsentschädigung
+### III*a*. Die Mutterschaftsentschädigung
 
 [^chap1a-lvlIIIa-1]
 
@@ -365,11 +365,11 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 
 **Höchstbetrag**
 
-<sup>1</sup> Die Mutterschaftsentschädigung beträgt höchstens 196 Franken[^16f-1] im Tag. Artikel 16*a* Absatz 2 gilt sinngemäss.
+<sup>1</sup> Die Mutterschaftsentschädigung beträgt höchstens 220 Franken[^16f-1] im Tag. Artikel 16*a* Absatz 2 gilt sinngemäss.
 
 <sup>2</sup> Die Mutterschaftsentschädigung wird gekürzt, soweit sie den Höchstbetrag nach Absatz 1 übersteigt.
 
-[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^16f-1]: Entschädigung gemäss Art. 7 Abs. 2 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 
 #### Art. 16g
 
@@ -405,15 +405,17 @@ Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf
 
 #### Art. 16h
 
-**Verhältnis zu kantonalen Regelungen**
+**Verhältnis zu kantonalen Regelungen**[^16h-1]
 
-In Ergänzung zu Kapitel IIIa können die Kantone eine höhere oder länger dauernde Mutterschafts- oder eine Adoptionsentschädigung vorsehen und zu deren Finanzierung besondere Beiträge erheben.
+In Ergänzung zu Kapitel III*a* können die Kantone eine höhere oder länger dauernde Mutterschaftsentschädigung vorsehen und zu deren Finanzierung besondere Beiträge erheben.
 
-### III*b*.**** Die Vaterschaftsentschädigung
+[^16h-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+
+### III*b*. Die Vaterschaftsentschädigung
 
 [^chap1a-lvlIIIb-1]
 
-[^chap1a-lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); BBl **20****19** 4103).
+[^chap1a-lvlIIIb-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2019 ([AS 2020 4689](https://fedlex.data.admin.ch/eli/oc/2020/844); [BBl 2019 3405](https://fedlex.data.admin.ch/eli/fga/2019/1215)[3851](https://fedlex.data.admin.ch/eli/fga/2019/1398)). Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 #### Art. 16i
 
@@ -516,7 +518,7 @@ Bestand bis zum Beginn des Anspruchs auf die Vaterschaftsentschädigung Anspruch
 [^16m-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16m-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
-### III*c*.**** Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen
+### III*c*. Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen
 
 [^chap1a-lvlIIIc-1]
 
@@ -631,6 +633,94 @@ Das Taggeld entspricht mindestens dem bisher bezogenen Taggeld, wenn bis zum Beg
 [^16s-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16s-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
+### III*d*. Die Adoptionsentschädigung
+
+[^chap1a-lvlIIId-1]
+
+[^chap1a-lvlIIId-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+
+#### Art. 16t
+
+**Anspruchsberechtigte**
+
+<sup>1</sup>
+
+Anspruchsberechtigt sind Personen, die:
+
+- a. ein weniger als vier Jahre altes Kind zur Adoption aufnehmen;
+- b. während der neun Monate unmittelbar vor der Aufnahme des Kindes im Sinne des AHVG[^16t-1] obligatorisch versichert waren und mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt haben; und
+- c.
+
+  im Zeitpunkt der Aufnahme des Kindes:
+
+  - 1\. Arbeitnehmende im Sinne von Artikel 10 ATSG[^16t-2] sind,
+  - 2\. Selbstständigerwerbende im Sinne von Artikel 12 ATSG sind, oder
+  - 3\. im Betrieb des Ehemannes oder der Ehefrau mitarbeiten und einen Barlohn beziehen.
+
+<sup>2</sup>
+
+Bei einer gemeinschaftlichen Adoption:
+
+- a. müssen beide Elternteile die Voraussetzungen nach Absatz 1 erfüllen;
+- b. entsteht nur ein Anspruch auf Entschädigung.
+
+<sup>3</sup> Teilen die Eltern den Adoptionsurlaub auf, so hat jeder Elternteil Anspruch auf die Entschädigung während seines Urlaubs.
+
+<sup>4</sup> Werden gleichzeitig mehrere Kinder aufgenommen, so entsteht nur ein Anspruch.
+
+<sup>5</sup> Kein Anspruch entsteht bei einer Stiefkindadoption nach Artikel 264*c* Absatz 1 des Zivilgesetzbuchs[^16t-3].
+
+[^16t-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16t-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16t-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 16u
+
+**Rahmenfrist, Beginn und Ende des Anspruchs**
+
+<sup>1</sup> Für den Bezug der Adoptionsentschädigung gilt eine Rahmenfrist von einem Jahr.
+
+<sup>2</sup> Die Rahmenfrist und der Anspruch beginnen am Tag der Aufnahme des Kindes.
+
+<sup>3</sup>
+
+Der Anspruch endet:
+
+- a. nach Ablauf der Rahmenfrist;
+- b. nach Ausschöpfung der Taggelder;
+- c. wenn die anspruchsberechtigte Person stirbt; oder
+- d. wenn das Kind stirbt.
+
+#### Art. 16v
+
+**Form der Entschädigung und Anzahl der Taggelder**
+
+<sup>1</sup> Die Entschädigung für den bezogenen Adoptionsurlaub wird als Taggeld ausgerichtet.
+
+<sup>2</sup> Es besteht Anspruch auf höchstens 14 Taggelder.
+
+<sup>3</sup> Wird der Urlaub wochenweise bezogen, so werden pro Woche 7 Taggelder ausgerichtet.
+
+<sup>4</sup> Wird der Urlaub tageweise bezogen, so werden pro 5 entschädigte Tage zusätzlich 2 Taggelder ausgerichtet.
+
+#### Art. 16w
+
+**Höhe und Bemessung der Entschädigung**
+
+<sup>1</sup> Das Taggeld beträgt 80 Prozent des durchschnittlichen Erwerbseinkommens, das vor dem Beginn des Anspruchs auf die Adoptionsentschädigung erzielt wurde.
+
+<sup>2</sup> Für die Ermittlung des Einkommens ist Artikel 11 Absatz 1 sinngemäss anwendbar.
+
+<sup>3</sup> Für den Höchstbetrag gilt Artikel 16*f* sinngemäss.
+
+<sup>4</sup> Teilen die Eltern den Adoptionsurlaub auf, so wird die Entschädigung für jeden Elternteil gesondert berechnet.
+
+#### Art. 16x
+
+**Verhältnis zu kantonalen Regelungen**
+
+In Ergänzung zu Kapitel III*d* können die Kantone eine höhere oder länger dauernde Adoptionsentschädigung vorsehen und zu deren Finanzierung besondere Beiträge erheben.
+
 ### IV. Verschiedene Bestimmungen
 
 #### Art. 17
@@ -676,7 +766,7 @@ Die Entschädigung wird den Leistungsberechtigten ausbezahlt; es gelten jedoch f
 
 <sup>3</sup> Die Entschädigung wird nur ausbezahlt, wenn sie vorschriftsgemäss geltend gemacht wird und der Nachweis erbracht wird, dass die Leistungsvoraussetzungen erfüllt sind.
 
-[^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); BBl **2****002** 7522, **2003** 1112 2923).
+[^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^19-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 19a
@@ -712,16 +802,18 @@ In Abweichung von Artikel 24 ATSG[^20-2] erlischt der Anspruch auf nicht bezogen
 - a. für Dienstleistende fünf Jahre nach Ende des Dienstes, der den Leistungsanspruch ausgelöst hat;
 - b. bei Mutterschaft fünf Jahre nach Ablauf der Entschädigungsdauer nach Artikel 16*d*;
 - c. bei Vaterschaft fünf Jahre nach Ablauf der Rahmenfrist nach Artikel 16*j*;
-- d. für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen, fünf Jahre nach dem letzten Tag des Betreuungsurlaubs.[^20-3]
+- d. für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen, fünf Jahre nach dem letzten Tag des Betreuungsurlaubs;
+- e.[^20-3] bei Adoption fünf Jahre nach Ende des Anspruchs nach Artikel 16*u* Absatz 3.[^20-4]
 
-<sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-4] und dem Bundesgesetz vom 20. Juni 1952[^20-5] über die Familienzulagen in der Landwirtschaft[^20-6] können mit fälligen Entschädigungen verrechnet werden.
+<sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-5] und dem Bundesgesetz vom 20. Juni 1952[^20-6] über die Familienzulagen in der Landwirtschaft[^20-7] können mit fälligen Entschädigungen verrechnet werden.
 
-[^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); BBl **200****2** 7522, **2003** 1112 2923).
+[^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^20-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-5]: SR **836****.****1**
+[^20-3]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^20-4]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^20-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-6]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-7]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
 #### Art. 20a
 
@@ -780,14 +872,14 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 
 <sup>1</sup> Artikel 72 AHVG[^23-4] findet sinngemäss Anwendung.[^23-5]
 
-<sup>2</sup> Die Eidgenössische Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung[^23-6] bestellt aus ihrer Mitte einen Ausschuss für die Erwerbsersatzordnung. ...[^23-7] Dem Ausschuss obliegt die Begutachtung von Fragen über die Durchführung und Weiterentwicklung der Erwerbsersatzordnung zuhanden des Bundesrates. Er hat das Recht, dem Bundesrat von sich aus Anregungen zu unterbreiten.
+<sup>2</sup> Die Eidgenössische Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung[^23-6] bestellt aus ihrer Mitte einen Ausschuss für die Erwerbsersatzordnung. …[^23-7] Dem Ausschuss obliegt die Begutachtung von Fragen über die Durchführung und Weiterentwicklung der Erwerbsersatzordnung zuhanden des Bundesrates. Er hat das Recht, dem Bundesrat von sich aus Anregungen zu unterbreiten.
 
 [^23-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^23-3]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^23-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^23-5]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^23-6]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
-[^23-7]: Satz aufgehoben durch Ziff. I des BG vom 18. Dez. 1998, mit Wirkung seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **19****98** 3418).
+[^23-7]: Satz aufgehoben durch Ziff. I des BG vom 18. Dez. 1998, mit Wirkung seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418).
 
 ## Dritter Abschnitt: Rechtspflege und Strafbestimmungen
 
@@ -824,7 +916,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 - b. Mittel des Ausgleichsfonds der Erwerbsersatzordnung.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^26-2]: SR **8****31.10**
+[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 27
 
@@ -839,7 +931,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 [^27-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
 [^27-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^27-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Beitrag gemäss Art. 9 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in der Fassung der Änd. vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4683](https://fedlex.data.admin.ch/eli/oc/2020/842)).
+[^27-4]: Beitrag gemäss Art. 9 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^27-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-7]: Fassung des zweiten Satzes gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -858,7 +950,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 [^28-1]: Fassung gemäss Ziff. II 6 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^28-2]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
-## Fünfter Abschnitt:**** Verhältnis zum europäischen Recht
+## Fünfter Abschnitt: Verhältnis zum europäischen Recht
 
 [^chap5-1]
 
@@ -898,7 +990,7 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^28a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^28a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Sechster Abschnitt:**** Schluss- und Übergangsbestimmungen
+## Sechster Abschnitt: Schluss- und Übergangsbestimmungen
 
 [^chap6-1]
 
@@ -956,19 +1048,19 @@ In die kantonalen Erlasse betreffend die Errichtung der kantonalen Ausgleichskas
 
 <sup>1</sup> Dieses Gesetz tritt am 1. Januar 1953 in Kraft.
 
-<sup>2</sup> ...[^34-1]
+<sup>2</sup> …[^34-1]
 
 <sup>3</sup> Der Bundesrat ist mit dem Vollzug beauftragt und erlässt die hiefür erforderlichen Vorschriften.
 
 [^34-1]: Aufgehoben durch Ziff. I des BG vom 18. Dez. 1968, mit Wirkung am 1. Jan. 1969 ([AS 1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [BBl 1968 II 85](https://fedlex.data.admin.ch/eli/fga/1968/2_85_81_109)).
 
-## Schlussbestimmung der Änderung vom 20. März 1981****
+## Schlussbestimmung der Änderung vom 20. März 1981
 
 [^u1-1]
 
 [^u1-1]: [AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676); [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Aufgehoben durch Ziff. II 45 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 3. Oktober 2003****
+## Schlussbestimmungen der Änderung vom 3. Oktober 2003
 
 [^u2-1]
 

@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20220101/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° gennaio 2022)
+del 25 settembre 1952 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -32,7 +32,7 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: Nuovo testo giusta il n. I 8 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
-## Capo primo:**** Applicabilità della LPGA
+## Capo primo: Applicabilità della LPGA
 
 [^chap1-1]
 
@@ -44,13 +44,13 @@ Le disposizioni della legge federale del 6 ottobre 2000[^1-1] sulla parte genera
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Capo primo *a*: Indennità****
+## Capo primo *a*: Indennità
 
 [^chap1a-1]
 
 [^chap1a-1]: Introdotto dall’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### I. Diritto all’indennità per chi presta servizio****
+### I. Diritto all’indennità per chi presta servizio
 
 [^chap1a-lvlI-1]
 
@@ -274,15 +274,15 @@ Durante gli altri servizi l’indennità giornaliera totale corrisponde almeno a
 
 **Indennità totale massima**[^16a-1]
 
-<sup>1</sup> L’indennità totale massima ammonta a 245 franchi[^16a-2] al giorno.[^16a-3]
+<sup>1</sup> L’indennità totale massima ammonta a 275 franchi[^16a-2] al giorno.[^16a-3]
 
 <sup>2</sup> Ad intervalli di almeno due anni, il Consiglio federale può adeguare l’indennità totale massima all’evoluzione dei salari per l’inizio dell’anno, se il livello salariale determinante per l’ultimo adeguamento si è nel frattempo modificato di almeno il 12 per cento.
 
 [^16a-1]: Introdotto dal n. I della LF del 3 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1976 57](https://fedlex.data.admin.ch/eli/oc/1976/57_57_57); FF **1975** I 1195).
-[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O 21 del 14 ott. 2020 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2021 ([RU 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^16a-2]: Indennità giusta l’art. 7 cpv. 1 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^16a-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
-### III*a*.**** Indennità in caso di maternità
+### III*a*. Indennità in caso di maternità
 
 [^chap1a-lvlIIIa-1]
 
@@ -363,11 +363,11 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 **Importo massimo**
 
-<sup>1</sup> L’indennità di maternità ammonta al massimo a 196 franchi[^16f-1] al giorno. L’articolo 16*a* capoverso 2 è applicabile per analogia.
+<sup>1</sup> L’indennità di maternità ammonta al massimo a 220 franchi[^16f-1] al giorno. L’articolo 16*a* capoverso 2 è applicabile per analogia.
 
 <sup>2</sup> L’indennità di maternità è ridotta nella misura in cui supera l’importo massimo secondo il capoverso 1.
 
-[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O 21 del 14 ott. 2020 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2021 ([RU 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^16f-1]: Indennità giusta l’art. 7 cpv. 2 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 
 #### Art. 16g
 
@@ -403,11 +403,13 @@ Se fino all’inizio del diritto all’indennità di maternità vi era un diritt
 
 #### Art. 16h
 
-**Rapporto con il diritto cantonale**
+**Rapporto con il diritto cantonale**[^16h-1]
 
-A complemento del capo III*a* i Cantoni possono prevedere un’indennità di maternità più elevata o di durata maggiore nonché un’indennità di adozione e prelevare contributi specifici per il loro finanziamento.
+A complemento del capo III*a* i Cantoni possono prevedere un’indennità di maternità più elevata o di durata maggiore e prelevare contributi specifici per il suo finanziamento.
 
-## III*b*.**** Indennità in caso di paternità
+[^16h-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+
+## III*b*. Indennità in caso di paternità
 
 [^chap2-1]
 
@@ -514,7 +516,7 @@ Se fino all’inizio del diritto all’indennità di paternità vi era un diritt
 [^16m-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16m-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
-### III*c*.**** Indennità per genitori che assistono un figlio con gravi problemi di salute dovuti a malattia o infortunio
+### III*c*. Indennità per genitori che assistono un figlio con gravi problemi di salute dovuti a malattia o infortunio
 
 [^chap2-lvlIIIc-1]
 
@@ -629,6 +631,94 @@ Se fino all’inizio del diritto all’indennità di assistenza vi era un diritt
 [^16s-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^16s-5]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
+### III*d*. Indennità in caso di adozione
+
+[^chap2-lvlIIId-1]
+
+[^chap2-lvlIIId-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+
+#### Art. 16t
+
+**Aventi diritto**
+
+<sup>1</sup>
+
+Hanno diritto all’indennità le persone che:
+
+- a. accolgono un adottando d’età inferiore ai quattro anni;
+- b. durante i nove mesi immediatamente precedenti l’accoglimento dell’adottando erano assicurate obbligatoriamente ai sensi della LAVS[^16t-1] e hanno esercitato un’attività lucrativa per almeno cinque mesi; e
+- c.
+
+  al momento dell’accoglimento dell’adottando:
+
+  - 1\. sono salariati ai sensi dell’articolo 10 LPGA[^16t-2],
+  - 2\. sono indipendenti ai sensi dell’articolo 12 LPGA, o
+  - 3\. collaborano nell’azienda del coniuge percependo un salario in contanti.
+
+<sup>2</sup>
+
+In caso di adozione congiunta:
+
+- a. entrambi i genitori devono adempiere le condizioni di cui al capoverso 1;
+- b. sussiste il diritto a una sola indennità.
+
+<sup>3</sup> Se i genitori si dividono il congedo di adozione, ciascun genitore ha diritto all’indennità durante il proprio congedo.
+
+<sup>4</sup> In caso di accoglimento contemporaneo di più adottandi, sussiste il diritto a una sola indennità.
+
+<sup>5</sup> Non sussiste alcun diritto a un’indennità in caso di adozione del figliastro secondo l’articolo 264*c* capoverso 1 del Codice civile[^16t-3].
+
+[^16t-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16t-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16t-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+#### Art. 16u
+
+**Termine quadro, inizio ed estinzione del diritto**
+
+<sup>1</sup> L’indennità di adozione può essere riscossa entro un termine quadro di un anno.
+
+<sup>2</sup> Il termine quadro decorre dal giorno dell’accoglimento dell’adottando; il diritto all’indennità inizia tale giorno.
+
+<sup>3</sup>
+
+Il diritto all’indennità si estingue:
+
+- a. alla scadenza del termine quadro;
+- b. dopo la riscossione del numero massimo di indennità giornaliere;
+- c. se l’avente diritto muore; o
+- d. se l’adottando muore.
+
+#### Art. 16v
+
+**Forma dell’indennità e numero di indennità giornaliere**
+
+<sup>1</sup> L’indennità di adozione è versata sotto forma di indennità giornaliere per i giorni di congedo presi.
+
+<sup>2</sup> Sussiste un diritto a 14 indennità giornaliere al massimo.
+
+<sup>3</sup> Se il congedo è preso in settimane, sono versate sette indennità giornaliere per settimana.
+
+<sup>4</sup> Se il congedo è preso in giorni, sono versate due indennità giornaliere supplementari ogni cinque giorni indennizzati.
+
+#### Art. 16w
+
+**Importo e calcolo dell’indennità**
+
+<sup>1</sup> L’indennità giornaliera ammonta all’80 per cento del reddito medio conseguito prima dell’inizio del diritto all’indennità di adozione.
+
+<sup>2</sup> All’accertamento del reddito di cui al capoverso 1 è applicabile per analogia l’arti-colo 11 capoverso 1.
+
+<sup>3</sup> All’importo massimo è applicabile per analogia l’articolo 16*f*.
+
+<sup>4</sup> Se i genitori si dividono il congedo di adozione, l’indennità è calcolata separatamente per ciascun genitore.
+
+#### Art. 16x
+
+**Rapporto con il diritto cantonale**
+
+A complemento del capo III*d* i Cantoni possono prevedere un’indennità di adozione più elevata o di durata maggiore e prelevare contributi specifici per il suo finanziamento.
+
 ### IV. Disposizioni varie
 
 #### Art. 17
@@ -710,15 +800,17 @@ In deroga all’articolo 24 LPGA[^20-2] il diritto alle indennità non ricevute 
 - a. per chi presta servizio, cinque anni dopo la fine del servizio che fonda il diritto alle indennità;
 - b. in caso di maternità, cinque anni dopo l’estinzione del diritto all’indennità di cui all’articolo 16*d*;
 - c. in caso di paternità, cinque anni dopo la scadenza del termine quadro di cui all’articolo 16*j*;
-- d. per i genitori che assistono figli con gravi problemi di salute dovuti a malattia o infortunio, cinque anni dopo l’ultimo giorno del congedo di assistenza.[^20-3]
+- d. per i genitori che assistono figli con gravi problemi di salute dovuti a malattia o infortunio, cinque anni dopo l’ultimo giorno del congedo di assistenza;
+- e.[^20-3] in caso di adozione, cinque anni dopo la scadenza del diritto di cui all’articolo 16*u* capoverso 3.[^20-4]
 
-<sup>2</sup> I crediti derivanti dalla presente legge, dalla LAVS[^20-4] e dalla legge federale del 20 giugno 1952[^20-5] sugli assegni familiari nell’agricoltura possono essere compensati con le indennità esigibili in virtù della presente legge.
+<sup>2</sup> I crediti derivanti dalla presente legge, dalla LAVS[^20-5] e dalla legge federale del 20 giugno 1952[^20-6] sugli assegni familiari nell’agricoltura possono essere compensati con le indennità esigibili in virtù della presente legge.
 
 [^20-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003, in vigore dal 1° lug. 2005 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^20-3]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^20-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-5]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-3]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^20-4]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^20-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^20-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
 
 #### Art. 20a
 
@@ -837,7 +929,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 [^27-1]: Nuovo testo giusta il n. I della LF del 6 mar. 1959, in vigore dal 1° gen. 1960 ([RU 1959 565](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); FF **1958** 975).
 [^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^27-3]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-4]: Contributo giusta l’art. 9 dell’O 21 del 14 ott. 2020 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, nel testo della mod. del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4683](https://fedlex.data.admin.ch/eli/oc/2020/842)).
+[^27-4]: Contributo giusta l’art. 9 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^27-5]: Nuovo testo giusta l’all. n. 6 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^27-7]: Introdotto dal n. VII della LF del 4 ott. 1968 che modifica quella sull’AVS ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo del per. giusta l’all. n. 14 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
@@ -855,7 +947,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 [^28-1]: Nuovo testo giusta l’all. n. II 6 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^28-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
-## Capo quinto:**** Rapporto con il diritto europeo
+## Capo quinto: Rapporto con il diritto europeo
 
 [^chap6-1]
 
@@ -895,7 +987,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^28a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^28a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Capo sesto: Disposizioni finali e transitorie****
+## Capo sesto: Disposizioni finali e transitorie
 
 [^chap6-2]
 
@@ -959,13 +1051,13 @@ I decreti cantonali concernenti l’istituzione delle casse cantonali di compens
 
 [^34-1]: Abrogato dal n. I della LF del 18 dic. 1968, con effetto dal 1° gen. 1969 ([RU 1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
 
-## Disposizione finale della modifica del 20 marzo 1981****
+## Disposizione finale della modifica del 20 marzo 1981
 
 [^u1-1]
 
 [^u1-1]: [RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 3; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155). Abrogate dal n. II 45 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Disposizioni finali della modifica del 3 ottobre 2003****
+## Disposizioni finali della modifica del 3 ottobre 2003
 
 [^u2-1]
 
