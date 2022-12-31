@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 settembre 1996 sul servizio civile (OSCi)"
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20210101/it"
 
 (OSCi)
 
-dell’11 settembre 1996 (Stato 1° gennaio 2021)
+dell’11 settembre 1996 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -162,17 +162,18 @@ Possono influire sull’impiego:
 
 ### (art. 4 cpv. 2 LSC)
 
-<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti (OPD), aiuti agli investimenti secondo l’ordinanza del 7 dicembre 1998[^5-3] sui miglioramenti strutturali (OMSt) o contributi del Cantone secondo gli articoli 63 e 64 OPD.
+<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti (OPD), aiuti finanziari secondo l’ordinanza del 2 novembre 2022[^5-3] sui miglioramenti strutturali (OMSt) o contributi del Cantone secondo gli articoli 63 e 64 OPD.[^5-4]
 
-<sup>2</sup> Le comunità aziendali devono essere riconosciute secondo l’articolo 29*a* dell’ordinanza del 7 dicembre 1998[^5-4] sulla terminologia agricola (OTerm) e tutti i membri devono adempiere le condizioni di cui al capoverso 1.
+<sup>2</sup> Le comunità aziendali devono essere riconosciute secondo l’articolo 29*a* dell’ordinanza del 7 dicembre 1998[^5-5] sulla terminologia agricola (OTerm) e tutti i membri devono adempiere le condizioni di cui al capoverso 1.
 
-<sup>3</sup> Le aziende con pascoli comunitari e le aziende d’estivazione devono essere riconosciute secondo l’articolo 29*a* OTerm e avere una dimensione minima di dieci carichi normali. Questa dimensione minima non è richiesta per i progetti di cui all’articolo 6 capoverso 1 lettera c.[^5-5]
+<sup>3</sup> Le aziende con pascoli comunitari e le aziende d’estivazione devono essere riconosciute secondo l’articolo 29*a* OTerm e avere una dimensione minima di dieci carichi normali. Questa dimensione minima non è richiesta per i progetti di cui all’articolo 6 capoverso 1 lettera c.[^5-6]
 
 [^5-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^5-3]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^5-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^5-4]: Nuovo testo giusta l’all. 9 n. 3 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura, in vigore dal 1° gen. 2023 ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
+[^5-5]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
 
@@ -195,7 +196,7 @@ Il CIVI impiega le persone soggette al servizio civile:
   - 5\. per lavori legati a progetti per il mantenimento, la promozione e lo sviluppo di paesaggi rurali variati di cui all’articolo 63 OPD;
 
 - b. in aziende agricole che realizzano progetti o programmi di cui alla lettera a per lavori nell’ambito d’attività «protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste»;
-- c.[^6-3] in aziende agricole che ricevono aiuti agli investimenti per miglioramenti strutturali nel quadro di progetti di cui agli articoli 14 e 18 OMSt[^6-4], indipendentemente dal fatto che ricevano o no crediti di investimento secondo l’OMSt.
+- c.[^6-3] in aziende agricole che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b OMSt[^6-4].
 
 <sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-5]
 
@@ -203,7 +204,7 @@ Il CIVI impiega le persone soggette al servizio civile:
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Nuovo testo giusta il n. II dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5495](https://fedlex.data.admin.ch/eli/oc/2020/956)).
+[^6-3]: Nuovo testo giusta l’all. 9 n. 3 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura, in vigore dal 1° gen. 2023 ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
 [^6-4]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
 [^6-5]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^6-6]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
@@ -245,7 +246,7 @@ Nella produzione agricola la collaborazione da parte delle persone che prestano 
 
 [^7a-1]: Introdotto dal n. I dell’O del 6 mar. 2009, in vigore dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
-### Sezione 3:**** Programmi prioritari, impieghi speciali nonché impieghi in relazione a catastrofi e a situazioni d’emergenza****
+### Sezione 3: Programmi prioritari, impieghi speciali nonché impieghi in relazione a catastrofi e a situazioni d’emergenza
 
 [^chap2-sec3-1][^chap2-sec3-2]
 
@@ -541,7 +542,7 @@ Il periodo d’impiego all’estero prende fine con il rientro in Svizzera di ch
 
 Il CIVI computa i periodi d’impiego effettuati all’estero sulla durata del servizio civile ordinario nello stesso modo con cui computa i periodi d’impiego effettuati in Svizzera.
 
-## Capitolo 3: Prolungamento e fine del servizio civile****
+## Capitolo 3: Prolungamento e fine del servizio civile
 
 [^chap3-1]
 
@@ -680,9 +681,9 @@ Il CIVI applica gli articoli 25–31 dell’ordinanza del 22 novembre 2017[^20-2
 
 ### (art. 13 LSC)
 
-Le persone menzionate nell’articolo 18 capoverso 1 lettere c–j LM[^21-2] sono esonerate dal servizio civile dopo aver prestato servizio civile per una durata corrispondente a 1,5 volte la durata della scuola reclute. È preso in considerazione l’adempimento parziale della scuola reclute.
+Le persone menzionate nell’articolo 18 capoverso 1 lettera c LM[^21-2] sono esonerate dal servizio civile dopo aver prestato servizio civile per una durata corrispondente a 1,5 volte la durata della scuola reclute. È preso in considerazione l’adempimento parziale della scuola reclute.
 
-[^21-1]: Nuovo testo giusta l’all. 7 n. II 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^21-1]: Nuovo testo giusta l’all. 7 n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 22
@@ -697,7 +698,7 @@ Le persone menzionate nell’articolo 18 capoverso 1 lettere c–j LM[^21-2] son
 
 [^22-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
-## Capitolo 5:**** Ammissione al servizio civile
+## Capitolo 5: Ammissione al servizio civile
 
 [^chap5-1]
 
@@ -826,7 +827,7 @@ Il CIVI può firmare le proprie decisioni con firme apposte da macchine.
 
 ## Capitolo 6: Prestazione del servizio civile
 
-### Sezione 1:**** Nozioni
+### Sezione 1: Nozioni
 
 [^chap6-sec1-1]
 
@@ -1927,7 +1928,7 @@ La persona soggetta al servizio civile collabora ai rilevamenti statistici del C
 
 [^77-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
-### Sezione 4:**** Introduzione e formazione
+### Sezione 4: Introduzione e formazione
 
 [^chap7-sec4-1]
 
@@ -2129,7 +2130,7 @@ Durante il periodo d’impiego, chi presta servizio civile viaggia a tariffa rid
 
 [^86-1]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
-### Sezione 6:**** Equipaggiamento a scopo d’identificazione
+### Sezione 6: Equipaggiamento a scopo d’identificazione
 
 [^chap7-sec6-1]
 
@@ -2161,7 +2162,7 @@ Durante il periodo d’impiego, chi presta servizio civile viaggia a tariffa rid
 
 <sup>2</sup> Il CIVI provvede affinché gli impieghi di gruppo possano essere identificati quali impieghi di servizio civile.
 
-## Capitolo 8:**** Procedura per il riconoscimento quale istituto d’impiego
+## Capitolo 8: Procedura per il riconoscimento quale istituto d’impiego
 
 [^chap8-1]
 
@@ -2869,7 +2870,7 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 
 <sup>2</sup> L’Appendice 3 numero 5 entra in vigore il 1° gennaio 1997 e si applica la prima volta all’anno d’esenzione 1997.
 
-Appendice 1*[^t-1]*
+Appendice 1[^t-1]
 
 (art. 9 cpv. 1 e 3)
 
@@ -2935,7 +2936,7 @@ Negli istituti d’impiego con più di 60 posti a tempo pieno, il numero massimo
 
 Il numero massimo di impieghi di gruppo speciali in aziende con pascoli comunitari e aziende d’estivazione è calcolato come segue: numero di giorni di servizio consentiti secondo l’articolo 6 capoverso 2 diviso per 26 (arrotondato verso l’alto).
 
-Appendice 2*[^t-2]*
+Appendice 2[^t-2]
 
 (art. 53 cpv. 3 e 54 cpv. 2)
 
@@ -2981,7 +2982,7 @@ Appendice 2*[^t-2]*
 <tr><td></td><td>22–29</td><td>5</td></tr>
 </table>
 
-Appendice 2a*[^t-3]*
+Appendice 2a[^t-3]
 
 (art. 95 cpv. 1)
 
@@ -3023,13 +3024,13 @@ Appendice 3
 
 ## Abrogazione e modifica del diritto vigente
 
-### 1. L’ordinanza del 1° luglio 1992**** concernente la prestazione di lavoro degli obiettori di coscienza (OPL) è abrogata.
+### 1. L’ordinanza del 1° luglio 1992 concernente la prestazione di lavoro degli obiettori di coscienza (OPL) è abrogata.
 
 [^annex3-lvlu1-lvl1-1]
 
 [^annex3-lvlu1-lvl1-1]: [[RU 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516), [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094), [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
 
-### 2. a 9.****
+### 2. a 9.
 
 [^annex3-lvlu1-lvl2-1]
 

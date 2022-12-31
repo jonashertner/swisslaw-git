@@ -4,20 +4,20 @@ title: Ordonnance du 11 septembre 1996 sur le service civil (OSCi)
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le service civil
 
-(OSCi**[^t-1]**)
+(OSCi[^t-1])
 
-du 11 septembre 1996 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: [RO 1996 2974](https://fedlex.data.admin.ch/eli/oc/1996/2974_2974_2974)
 
@@ -44,7 +44,7 @@ arrête:
 
 <sup>1</sup> L’organe d’exécution de la Confédération pour le service civil est l’Office fédéral du service civil (CIVI)[^1-1], rattaché au Département fédéral de l’économie, de la formation et de la recherche (DEFR).[^1-2]
 
-<sup>2</sup> ...[^1-3]
+<sup>2</sup> …[^1-3]
 
 [^1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3083](https://fedlex.data.admin.ch/eli/oc/2000/557)).
@@ -121,7 +121,7 @@ La limitation de la part du travail administratif n’est pas applicable:
 
 - a. lorsque l’état de santé de la personne astreinte le requiert;
 - b.[^4-3] lors d’affectations spéciales, lors d’affectations à la prévention ou à la maîtrise de catastrophes ou de situations d’urgence ou lors d’affectations au rétablissement après de tels événements;
-- b<sup>bis</sup>.[^4-4] ...
+- b<sup>bis</sup>.[^4-4] …
 - c. lors d’affectations auprès du CIVI.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
@@ -164,17 +164,18 @@ Peuvent exercer une influence sur l’affectation:
 
 ### (art. 4, al. 2, LSC)
 
-<sup>1</sup> Les exploitations agricoles peuvent être reconnues en qualité d’établissement d’affectation lorsque l’exploitant reçoit des paiements directs en vertu des art. 43, 44, 47 ou 55 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^5-2], des aides à l’investissement en vertu de l’ordonnance du 7 décembre 1998 sur les améliorations structurelles (OAS)[^5-3] ou des contributions cantonales visées aux art. 63 et 64 OPD.
+<sup>1</sup> Les exploitations agricoles peuvent être reconnues en qualité d’établissement d’affectation lorsque l’exploitant reçoit des paiements directs en vertu des art. 43, 44, 47 ou 55 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^5-2], des aides à l’investissement en vertu de l’ordonnance du 2 novembre 2022 sur les améliorations structurelles (OAS)[^5-3] ou des contributions cantonales visées aux art. 63 et 64 OPD.[^5-4]
 
-<sup>2</sup> Les communautés d’exploitation doivent être reconnues selon les règles fixées à l’art. 29*a* de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^5-4] et tous leurs membres doivent remplir les critères énoncés à l’al. 1.
+<sup>2</sup> Les communautés d’exploitation doivent être reconnues selon les règles fixées à l’art. 29*a* de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^5-5] et tous leurs membres doivent remplir les critères énoncés à l’al. 1.
 
-<sup>3</sup> Les exploitations de pâturages communautaires et les exploitations d’estivage doivent être reconnues selon les règles fixées à l’art. 29*a* OTerm et compter dix pâquiers normaux au moins. Cette taille ne doit pas nécessairement être atteinte pour les projets visés à l’art. 6, al. 1, let. c.[^5-5]
+<sup>3</sup> Les exploitations de pâturages communautaires et les exploitations d’estivage doivent être reconnues selon les règles fixées à l’art. 29*a* OTerm et compter dix pâquiers normaux au moins. Cette taille ne doit pas nécessairement être atteinte pour les projets visés à l’art. 6, al. 1, let. c.[^5-6]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^5-3]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^5-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^5-4]: Nouvelle teneur selon l’annexe 9 ch. 3 de l’O du 2 nov. 2022 sur les améliorations structurelles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
+[^5-5]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
 
@@ -197,7 +198,7 @@ Le CIVI affecte les personnes astreintes:
   - 5\. pour l’exécution de projets de préservation, de promotion et de développement de paysages cultivés diversifiés au sens de l’art. 63 OPD;
 
 - b. dans des exploitations agricoles qui mènent à bien des projets ou programmes visés à la let. a, pour des travaux dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt»;
-- c.[^6-3] dans des exploitations agricoles qui reçoivent des aides à l’investissement, pour des améliorations structurelles dans le cadre de projets visés aux art. 14 et 18 OAS[^6-4], que l’exploitation reçoive ou non les crédits d’investissements visés dans l’OAS.
+- c.[^6-3] dans des exploitations agricoles qui reçoivent des aides à l’investissement, pour des améliorations structurelles dans le cadre de projets visés à l’art. 1, al. 1, let. a et b, OAS[^6-4].
 
 <sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-5]
 
@@ -205,7 +206,7 @@ Le CIVI affecte les personnes astreintes:
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Nouvelle teneur selon le ch. II de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5495](https://fedlex.data.admin.ch/eli/oc/2020/956)).
+[^6-3]: Nouvelle teneur selon l’annexe 9 ch. 3 de l’O du 2 nov. 2022 sur les améliorations structurelles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
 [^6-4]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
 [^6-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^6-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
@@ -231,7 +232,7 @@ La collaboration de la personne en service à la production agricole est admise:
 <sup>2</sup> La collaboration de la personne en service à la production sylvicole est admise lorsque ladite personne a été convoquée d’office selon l’art. 31*a,* al. 4.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2009, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
-[^7-2]: Nouvelle teneur selon le ch. 8 de l’annexe 9 à l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
+[^7-2]: Nouvelle teneur selon l’annexe 9 ch. 8 de l’O du 23 oct. 2013 sur les paiements directs, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4145](https://fedlex.data.admin.ch/eli/oc/2013/765)).
 
 #### Art. 7a
 
@@ -248,7 +249,7 @@ La collaboration de la personne en service à la production agricole est admise:
 [^7a-1]: Introduit par le ch. I de l’O du 6 mars 2009, en vigueur depuis le 1<sup>er</sup> avr. 2009 ([RO 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 [^7a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
-### Section 3**** Programmes prioritaires, affectations spéciales et affectations en cas de catastrophe et de situation d’urgence****
+### Section 3 Programmes prioritaires, affectations spéciales et affectations en cas de catastrophe et de situation d’urgence
 
 [^chap2-sec3-1][^chap2-sec3-2]
 
@@ -383,7 +384,7 @@ Il peut déroger à l’annexe 1:[^9-2]
 - a. en cas de programmes prioritaires;
 - b. en cas d’affectations spéciales;
 - c.[^9-3] en cas d’affectations à la prévention ou à la maîtrise de catastrophes ou de situations d’urgence ou en cas d’affectations au rétablissement;
-- d.[^9-4] ...
+- d.[^9-4] …
 - e.[^9-5] dans le cadre de cours de formation ou de convocations d’office, s’il est l’établissement l’affectation.[^9-6]
 
 <sup>4</sup> L’effectif maximal de personnes en service, indiqué à l’annexe 1, peut être dépassé d’une personne lorsque cette personne est convoquée d’office selon l’art. 31*a,* al. 4, et que l’établissement d’affectation garantit l’encadrement de toutes les personnes en service.[^9-7]
@@ -440,7 +441,7 @@ Les affectations à l’étranger dans les domaines d’activité visés à l’
 - b. participation à la protection de l’environnement transfrontalière;
 - c. brefs séjours à l’étranger dans le cadre de projets.
 
-<sup>4</sup> ...[^11-2]
+<sup>4</sup> …[^11-2]
 
 <sup>5</sup> Aucune institution liée en tant que partenaire de programme à des structures présentant un volet militaire ne peut être reconnue.
 
@@ -544,7 +545,7 @@ La période d’affectation accomplie à l’étranger prend fin avec le retour 
 
 Le CIVI prend en compte les périodes d’affectation effectuées à l’étranger au titre de l’accomplissement du service civil ordinaire de la même manière que celles qui sont accomplies en Suisse.
 
-## Chapitre 3 Prolongation et fin du service civil****
+## Chapitre 3 Prolongation et fin du service civil
 
 [^chap3-1]
 
@@ -569,8 +570,8 @@ Le CIVI prend en compte les périodes d’affectation effectuées à l’étrang
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^15-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^15-4]: Introduit par le ch. I de l’O du 10 déc. 2010 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations militaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^15-5]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^15-4]: Introduit par le ch. I de l’O du 10 déc. 2010 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations militaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^15-5]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 16
 
@@ -596,7 +597,7 @@ Pour décider de l’exclusion du service civil ou de l’interdiction d’accom
 - f. l’image du service civil auprès du public.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^16-2]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^16-2]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 17
 
@@ -659,8 +660,8 @@ La personne astreinte peut être réincorporée dans l’armée:
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
-[^19-3]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^19-4]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^19-3]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^19-4]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^19-5]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
 ## Chapitre 4 Exemption du service
@@ -676,7 +677,7 @@ Le CIVI applique les art. 25 à 31 de l’ordonnance du 22 novembre 2017 sur les
 - a. les compétences du cdmt Instr prévues à l’art. 26 OMi sont assumées par le CIVI en ce qui concerne l’exemption du service civil;
 - b. dans les cas prévus par l’art. 27, let. d, ch. 1, OMi, le CIVI tient compte du nombre de personnes déjà exemptées du service militaire.
 
-[^20-1]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^20-1]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^20-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 #### Art. 21
@@ -685,9 +686,9 @@ Le CIVI applique les art. 25 à 31 de l’ordonnance du 22 novembre 2017 sur les
 
 ### (art. 13 LSC)
 
-Les personnes mentionnées à l’art. 18, al. 1, let. c à j, LAAM[^21-2], sont exemptées du service civil après avoir accompli du service civil pour une durée équivalant à 1,5 fois celle de l’école de recrues qu’elles auraient dû effectuer. L’accomplissement partiel de l’école de recrues est pris en compte.
+Les personnes mentionnées à l’art. 18, al. 1, let. c, LAAM[^21-2], sont exemptées du service civil après avoir accompli du service civil pour une durée équivalant à 1,5 fois celle de l’école de recrues. L’accomplissement partiel de l’école de recrues est pris en compte.
 
-[^21-1]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^21-1]: Nouvelle teneur selon l’annexe 7 ch. 3 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 22
@@ -702,7 +703,7 @@ Les personnes mentionnées à l’art. 18, al. 1, let. c à j, LAAM[^21-2], sont
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
-## Chapitre 5**** Admission au service civil
+## Chapitre 5 Admission au service civil
 
 [^chap5-1]
 
@@ -741,9 +742,9 @@ Le requérant qui dépose une demande d’admission au service civil au plus tar
 - a. tant que sa demande n’a pas fait l’objet d’une décision entrée en force, et
 - b. dans la mesure où il a été recruté moins de quatre mois avant l’école de recrues.[^24-3]
 
-[^24-1]: Introduite par le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Nouvelle teneur selon le ch. III de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
+[^24-1]: Introduite par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)). Nouvelle teneur selon le ch. III de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4925](https://fedlex.data.admin.ch/eli/oc/2018/773)).
 [^24-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
-[^24-3]: Introduit par le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^24-3]: Introduit par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 25
 
@@ -801,7 +802,7 @@ Le requérant qui dépose une demande d’admission au service civil au plus tar
 
 <sup>1</sup> Pour calculer la durée du service civil ordinaire, le CIVI reprend les données du système d’information du personnel de l’armée sur la durée totale des services d’instruction non effectués au sens de la législation militaire.
 
-<sup>2</sup> ...[^27-1]
+<sup>2</sup> …[^27-1]
 
 <sup>3</sup> Il tient compte des modifications de la durée totale des services d’instruction prévue par la législation militaire.
 
@@ -831,7 +832,7 @@ Le CIVI peut signer ses décisions par signature électronique.
 
 ## Chapitre 6 Accomplissement du service civil
 
-### Section 1**** Définitions
+### Section 1 Définitions
 
 [^chap6-sec1-1]
 
@@ -906,11 +907,11 @@ Le CIVI peut recueillir auprès de la personne astreinte des données supplémen
 
 <sup>2</sup> Le CIVI lui fournit les informations dont elle a besoin pour cette recherche et l’assiste à sa demande.[^31a-3]
 
-<sup>3</sup> ...[^31a-4]
+<sup>3</sup> …[^31a-4]
 
 <sup>4</sup> Si les résultats de la recherche ne permettent pas d’établir une convocation, le CIVI fixe lui-même dans une convocation où et quand auront lieu des périodes d’affectation (convocation d’office). Il prend alors en considération l’aptitude de la personne astreinte et les intérêts d’un bon déroulement de l’exécution du service civil. Il convient des périodes d’affectation avec les établissements d’affectation envisagés. Il peut déroger aux art. 38, al. 3, et 39*a* si aucun établissement d’affectation n’est disponible.[^31a-5]
 
-<sup>5</sup> ...[^31a-6]
+<sup>5</sup> …[^31a-6]
 
 [^31a-1]: Introduit par le ch. I de l’O du 28 sept. 1998, en vigueur depuis le 1<sup>er</sup> nov. 1998 ([RO 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
 [^31a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
@@ -1037,15 +1038,15 @@ L’école de recrues est réputée accomplie lorsque la personne astreinte au s
 
 <sup>5</sup> La personne astreinte accomplit son affectation longue de préférence dans le cadre d’un programme prioritaire, à l’étranger ou auprès du CIVI.[^37-6]
 
-<sup>5bis</sup> ...[^37-7]
+<sup>5bis</sup> …[^37-7]
 
 <sup>6</sup> Si elle accomplit son affectation longue dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt» ou «agriculture», le CIVI peut autoriser un changement d’établissement d’affectation pour autant que l’affectation soit saisonnière ou le volume de travail limité.[^37-8]
 
-<sup>7</sup> ...[^37-9]
+<sup>7</sup> …[^37-9]
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^37-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^37-3]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^37-3]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^37-4]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 [^37-5]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 [^37-6]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
@@ -1068,7 +1069,7 @@ Les affectations suivantes peuvent être plus courtes:
 - a. les cours de formation;
 - b. les affectations à l’essai
 - c.[^38-2] les affectations à la prévention ou à la maîtrise de catastrophes ou de situations d’urgence ou les affectations au rétablissement;
-- d.[^38-3] ...
+- d.[^38-3] …
 - e. les affectations à des services de piquet;
 - f. les affectations spéciales;
 - g. les affectations d’encadrement dans des camps;
@@ -1102,7 +1103,7 @@ La personne astreinte qui a accompli l’école de recrues commence au plus tard
 
 La personne astreinte commence sa première période d’affectation après le délai fixé à l’art. 21 LSC si le CIVI:
 
-- a.[^39-2] ...
+- a.[^39-2] …
 - b. a accepté une demande de report correspondante (art. 44 à 47 OSCi);
 - c. ne peut l’affecter à un établissement d’affectation approprié.
 
@@ -1129,9 +1130,9 @@ Elle effectue dans l’année qui suit son retour d’un congé à l’étranger
 
 <sup>4</sup> Elle peut anticiper d’une année l’obligation annuelle d’accomplir des affectations définie à l’al. 1 ou rattraper l’affectation manquée dans un délai d’un an si elle a passé une convention d’affectation d’une durée appropriée avec un établissement idoine. Le rattrapage de l’affectation durant l’année de libération du service civil n’est pas possible.
 
-[^39a-1]: Introduit par le ch. I de l’O du 28 sept. 1998 ([RO 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^39a-1]: Introduit par le ch. I de l’O du 28 sept. 1998 ([RO 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)). Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
-### Section 4 Convocation et carte de légitimation du service civil****
+### Section 4 Convocation et carte de légitimation du service civil
 
 [^chap6-sec4-1]
 
@@ -1306,7 +1307,7 @@ Il peut accepter la demande de report présentée par une personne astreinte lor
 - a. doit passer un examen important pendant la période d’affectation ou dans les trois mois qui suivent;
 - b. suit une formation scolaire ou professionnelle dont l’interruption entraînerait des inconvénients insupportables;
 - c. perdrait son emploi en cas de rejet de la demande;
-- c<sup>bis</sup>.[^46-3] ...
+- c<sup>bis</sup>.[^46-3] …
 - d. n’est provisoirement pas en mesure d’accomplir la période d’affectation prévue pour des raisons de santé; le CIVI peut en l’occurrence ordonner un examen par un médecin-conseil;
 - e.[^46-4] rend crédible que le rejet de la demande la mettrait elle-même, ses proches ou son employeur dans une situation extrêmement difficile.
 
@@ -1318,11 +1319,11 @@ Le CIVI refuse de reporter le service:
 - b. si la demande de la personne astreinte peut être satisfaite dans une large mesure par l’octroi d’un congé, ou
 - c.[^46-5] si le report ne permet pas de garantir que la personne astreinte accomplira la totalité de ses jours de service civil ordinaire avant d’être libérée du service civil, à moins qu’elle ait conclu une convention au sens de l’art. 15, al. 3<sup>bis</sup>.[^46-6]
 
-<sup>5</sup> ...[^46-7]
+<sup>5</sup> …[^46-7]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^46-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
-[^46-3]: Introduite par le ch. I de l’O du 10 déc. 2010 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogée par le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^46-3]: Introduite par le ch. I de l’O du 10 déc. 2010 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)). Abrogée par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^46-4]: Introduite par le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^46-5]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^46-6]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2010, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
@@ -1362,7 +1363,7 @@ La personne astreinte qui souhaite obtenir un report de service adresse au CIVI 
 <sup>4</sup> La personne astreinte, l’établissement d’affectation et des tiers ne peuvent faire valoir aucun droit à des dommages-intérêts du fait de l’admission d’une demande de report.
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
-[^47-2]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^47-2]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 ### Section 7 Congés à l’étranger
 
@@ -1385,7 +1386,7 @@ La personne astreinte qui souhaite obtenir un report de service adresse au CIVI 
 <sup>5</sup> La personne astreinte qui s’est rendue à l’étranger sans congé et veut y rester plus de douze mois dépose auprès du CIVI une demande en vue de l’approbation rétroactive du congé à l’étranger. Jusqu’à la notification de l’autorisation, le congé demandé rétroactivement n’est pas considéré comme accordé.
 
 [^48-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^48-2]: Introduit par le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^48-2]: Introduit par l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 [^48-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^48-4]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
@@ -1426,7 +1427,7 @@ La personne astreinte qui souhaite obtenir un report de service adresse au CIVI 
 
 [^50-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^50-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^50-3]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^50-3]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 51
 
@@ -1471,7 +1472,7 @@ Sont toutefois tenues d’accomplir leur service civil ordinaire les personnes a
 
 Sont pris en compte au titre de l’accomplissement du service civil ordinaire:
 
-- a.[^53-1] ...
+- a.[^53-1] …
 - b.[^53-2] les jours des cours de formation et les jours chômés ordinairement accordés par l’organisateur du cours;
 - c. les périodes d’affectation à l’essai;
 - d.[^53-3] les jours de travail et les jours chômés ordinairement accordés par l’établissement d’affectation;
@@ -1537,11 +1538,11 @@ Sont pris en compte au titre de l’accomplissement du service civil ordinaire:
 
 Ne sont pas pris en compte au titre de l’accomplissement du service civil:
 
-- a.[^56-1] ...
+- a.[^56-1] …
 - b.[^56-2] les entretiens individuels auprès d’établissements d’affectation potentiels;
 - c. les entretiens auprès du CIVI;
 - d.[^56-3] les jours de travail et les jours de cours d’introduction pendant lesquels la personne en service a congé;
-- e.[^56-4] ...
+- e.[^56-4] …
 - f.[^56-5] les jours de travail et les jours d’introduction pendant lesquels la personne en service est absente sans justification;
 - g. les jours pendant lesquels la période d’affectation est interrompue en raison d’une procédure disciplinaire qui aboutit au prononcé d’une mesure disciplinaire;
 - h. les jours pendant lesquels la personne astreinte a continué de travailler dans l’établissement d’affectation malgré l’entrée en force d’une interruption (art. 43);
@@ -1579,7 +1580,7 @@ Les jours de travail qui tombent pendant les vacances annuelles de l’établiss
 
 Le CIVI communique à la personne en service et à l’établissement d’affectation les jours qu’il n’a pas pris en compte. Dans les trente jours, la personne en service peut exiger une décision susceptible de recours.
 
-### Section 10 ...
+### Section 10 …
 
 #### Art. 58
 
@@ -1603,7 +1604,7 @@ Le CIVI communique à la personne en service et à l’établissement d’affect
 
 <sup>2</sup> À sa demande, il conseille la personne astreinte pour les questions juridiques qui se posent en relation avec l’exécution du service civil.
 
-<sup>3</sup> ...[^59-3]
+<sup>3</sup> …[^59-3]
 
 <sup>4</sup> Les autorités d’aide sociale du canton de séjour sont compétentes pour le conseil et l’assistance sociale d’une personne en service qui accomplit son affectation hors de son canton de domicile, lorsque la visite à l’autorité d’aide sociale impliquerait que la personne en service soit absente plus d’un jour de travail de l’établissement d’affectation.[^59-4]
 
@@ -1759,7 +1760,7 @@ Dans le cadre des affectations à l’étranger, l’établissement d’affectat
 
 <sup>2</sup> La personne en service dépose sa demande de congé par écrit et y joint les moyens de preuve éventuels.
 
-<sup>3</sup> ...[^70-2]
+<sup>3</sup> …[^70-2]
 
 <sup>4</sup> Elle n’est pas autorisée à prendre un congé accordé ou à le continuer si le motif de ce congé disparaît.[^70-3]
 
@@ -1791,7 +1792,7 @@ L’établissement d’affectation accorde à la personne en service trois jours
 
 Il lui accorde en outre un jour de congé au plus pour:
 
-- a.[^71-3] ...
+- a.[^71-3] …
 - b. s’inscrire dans une école ou y recevoir une information préalable lorsque la présence de la personne en service est absolument nécessaire;
 - c. participer aux séances d’autorités lorsque la personne en service est investie d’un mandat.
 
@@ -1822,7 +1823,7 @@ L’établissement d’affectation peut, lorsque son exploitation le permet, acc
 
 <sup>1</sup> Lors d’une période d’affectation ininterrompue de 180 jours au moins, la personne en service a droit à 8 jours de vacances pour les 180 premiers jours, puis à 2 jours par période de 30 jours d’affectation supplémentaires.[^72-2]
 
-<sup>2</sup> ...[^72-3]
+<sup>2</sup> …[^72-3]
 
 <sup>3</sup> Les jours de vacances qui ne sont pas pris sont perdus sans indemnité.
 
@@ -1844,7 +1845,7 @@ L’établissement d’affectation peut, lorsque son exploitation le permet, acc
 
 <sup>1</sup> La personne en service prend si possible ses jours de vacances pendant les vacances annuelles de l’établissement d’affectation.
 
-<sup>2</sup> et <sup>3</sup> ...[^73-1]
+<sup>2</sup> et <sup>3</sup> …[^73-1]
 
 [^73-1]: Abrogés par le ch. I de l’O du 10 déc. 2010, avec effet au 1<sup>er</sup> fév. 2011 ([RO 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
@@ -1869,9 +1870,9 @@ La personne astreinte communique sans délai au CIVI, notamment:
 - a. tout changement d’adresse du domicile et du lieu de résidence;
 - b. les modifications concernant ses données personnelles;
 - c. sa profession et ses changements d’activité professionnelle;
-- d.[^75-3] ....
+- d.[^75-3] ….
 
-<sup>2</sup> ...[^75-4]
+<sup>2</sup> …[^75-4]
 
 <sup>3</sup> Les personnes astreintes qui ne sont pas atteignables à l’adresse annoncée pendant plus de six mois communiquent au CIVI une adresse en Suisse à laquelle seront envoyées les notifications.
 
@@ -1885,8 +1886,8 @@ La personne astreinte communique sans délai au CIVI, notamment:
 [^75-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^75-3]: Abrogée par le ch. I de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
 [^75-4]: Abrogé par le ch. I de l’O du 15 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)).
-[^75-5]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
-[^75-6]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^75-5]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^75-6]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 76
 
@@ -1947,7 +1948,7 @@ La personne astreinte collabore à l’établissement des statistiques par le CI
 
 [^77-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
-### Section 4**** Initiation et formation****
+### Section 4 Initiation et formation
 
 [^chap7-sec4-1][^chap7-sec4-2]
 
@@ -2105,7 +2106,7 @@ Le CIVI peut autoriser les personnes en service à suivre la formation d’auxil
 
 <sup>1</sup> Au début et à la fin de la période d’affectation, la personne astreinte voyage gratuitement du lieu de son domicile ou de résidence au lieu d’affectation et retour si elle emprunte les transports publics.[^83-1]
 
-<sup>2</sup> ...[^83-2]
+<sup>2</sup> …[^83-2]
 
 <sup>3</sup> La personne en service qui n’utilise pas son logement privé durant la période d’affectation a en outre droit à un voyage hebdomadaire gratuit avec les transports publics du lieu de son affectation au lieu de son domicile ou de résidence et retour.[^83-3]
 
@@ -2153,7 +2154,7 @@ Pendant son affectation, la personne en service munie de sa carte de légitimati
 
 [^86-1]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
-### Section 6**** Équipement à titre d’identification
+### Section 6 Équipement à titre d’identification
 
 [^chap7-sec6-1]
 
@@ -2185,7 +2186,7 @@ Pendant son affectation, la personne en service munie de sa carte de légitimati
 
 <sup>2</sup> Il veille à ce que les affectations de groupe puissent être identifiées en tant qu’affectations de service civil.
 
-## Chapitre 8 Procédure de reconnaissance des établissements d’affectation****
+## Chapitre 8 Procédure de reconnaissance des établissements d’affectation
 
 [^chap8-1]
 
@@ -2592,7 +2593,7 @@ Il communique sa décision:
 - a. à l’établissement d’affectation;
 - b. aux institutions intéressées;
 - c.[^100-4] aux institutions visées à l’al. 1<sup>bis</sup> lorsqu’elles ont donné leur avis;
-- d.[^100-5] ...
+- d.[^100-5] …
 
 <sup>4</sup> L’approbation par le CIVI ne constitue pas une reconnaissance des institutions bénéficiaires.
 
@@ -2629,7 +2630,7 @@ Quiconque fait valoir un dommage au sens des dispositions de la LSC sur la respo
 [^102-1]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 [^102-2]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)).
 
-## Chapitre 11 ...
+## Chapitre 11 …
 
 #### Art. 103 à 108
 
@@ -2741,7 +2742,7 @@ Le DEFR peut, sans que la présente ordonnance soit modifiée au préalable, don
 - d.[^111-3] possibilité de partager différemment l’affectation longue (art. 37);
 - e.[^111-4] extension du catalogue des motifs de congé et de la durée du congé (art. 71);
 - f.[^111-5] expérimentation d’autres possibilités de gérer le contrôle des données prévues par l’art. 75.
-- g.[^111-6] ...
+- g.[^111-6] …
 
 <sup>2</sup> Il limite la durée de validité des essais.
 
@@ -2859,7 +2860,7 @@ Les personnes admises au service civil avant l’entrée en vigueur de la modifi
 - e. la personne astreinte âgée de 26 ans révolus effectue, dans l’année qui suit son retour d’un congé à l’étranger ou la fin de son exemption du service, au moins un nombre de jours de service civil tel qu’il ne lui reste, au cours des années suivantes, en moyenne que 26 jours de service au plus à accomplir jusqu’à ce qu’elle atteigne la limite d’âge ordinaire fixée à l’art. 11 LSC dans sa version antérieure au 1<sup>er</sup> janvier 2018;
 - f. la personne astreinte peut anticiper d’une année l’obligation annuelle d’accomplir des affectations définie à la let. a ou rattraper l’affectation manquée dans un délai d’un an si elle a passé une convention d’affectation d’une durée appropriée avec un établissement idoine; il n’est pas possible de rattraper une affectation durant l’année de libération du service civil.
 
-[^118-1]: Nouvelle teneur selon le ch. II 7 de l’annexe 7 à l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^118-1]: Nouvelle teneur selon l’annexe 7 ch. II 7 de l’O du 22 nov. 2017 sur les obligations miltaires, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
 #### Art. 118a
 
@@ -2905,7 +2906,7 @@ Les personnes admises au service civil avant l’entrée en vigueur de la modifi
 
 <sup>2</sup> L’appendice 3, ch. 5, entre en vigueur le 1<sup>er</sup> janvier 1997 et s’applique pour la première fois à l’année d’exemption de 1997.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 9, al. 1 et 3)
 
@@ -2971,7 +2972,7 @@ Pour les établissements comptant plus de 60 postes à plein temps, l’effectif
 
 Le nombre maximal d’affectations en groupe particulières dans des exploitations de pâturages communautaires ou d’estivage se calcule comme suit: nombre de jours de service autorisés en vertu de l’art. 6, al. 2, divisé par 26 jours de service (arrondi au chiffre entier le plus proche).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 53, al. 3, et 54, al. 2)
 
@@ -3017,7 +3018,7 @@ Annexe 2*[^t-3]*
 <tr><td></td><td>22 à 29</td><td>5</td></tr>
 </table>
 
-Annexe 2a*[^t-4]*
+Annexe 2a[^t-4]
 
 (art. 95, al. 1)
 
@@ -3055,13 +3056,13 @@ Les montants suivants s’ajoutent à la contribution journalière par jour de s
 - b. 8 fr. 20 lorsqu’il ne fournit que la nourriture;
 - c. 3 fr. 90 lorsqu’il ne fournit que le logement.
 
-Annexe 3*[^t-5]*
+Annexe 3[^t-5]
 
 ## Abrogation et modification du droit en vigueur
 
 [^t-5]: Anciennement appendice.
 
-### 1. L’ordonnance du 1<sup>er</sup> juillet 1992 sur l’astreinte au travail pour les objecteurs de conscience (OAST)**** est abrogée.
+### 1. L’ordonnance du 1<sup>er</sup> juillet 1992 sur l’astreinte au travail pour les objecteurs de conscience (OAST) est abrogée.
 
 [^annex3-lvlu1-lvl1-1]
 
@@ -3069,6 +3070,6 @@ Annexe 3*[^t-5]*
 
 ### 2. à 9. Les ordonnances ci-dessous sont modifiées comme il suit:
 
-...[^annex3-lvlu1-lvl2-1]
+…[^annex3-lvlu1-lvl2-1]
 
 [^annex3-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685).

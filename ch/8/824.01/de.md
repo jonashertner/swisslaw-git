@@ -4,11 +4,11 @@ title: "Verordnung vom 11. September 1996 über den zivilen Ersatzdienst (Zivild
 short: ZDV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20210101/de"
 
 (Zivildienstverordnung, ZDV)
 
-vom 11. September 1996 (Stand am 1. Januar 2021)
+vom 11. September 1996 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -42,7 +42,7 @@ verordnet:
 
 <sup>1</sup> Vollzugsstelle des Bundes für den Zivildienst ist das Bundesamt für Zivildienst (ZIVI)[^1-1] im Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF).[^1-2]
 
-<sup>2</sup> ...[^1-3]
+<sup>2</sup> …[^1-3]
 
 [^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^1-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
@@ -119,7 +119,7 @@ Die Begrenzung des Anteils administrativer Unterstützungsarbeiten gilt nicht:
 
 - a. wenn der Gesundheitszustand der zivildienstleistenden Person es nahe legt;
 - b.[^4-3] im Rahmen von Spezialeinsätzen und bei Einsätzen zur Vorbeugung oder Bewältigung von Katastrophen oder Notlagen oder zur Regeneration nach solchen Ereignissen;
-- b<sup>bis</sup>.[^4-4] ...
+- b<sup>bis</sup>.[^4-4] …
 - c. im Rahmen von Einsätzen beim ZIVI.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
@@ -162,17 +162,18 @@ Auf den Einsatz Einfluss nehmen können:
 
 ### (Art. 4 Abs. 2 ZDG)
 
-<sup>1</sup> Landwirtschaftliche Betriebe können als Einsatzbetriebe anerkannt werden, wenn die Bewirtschafterin oder der Bewirtschafter Direktzahlungen nach Artikel 43, 44, 47 oder 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] (DZV), Investitionshilfen nach der Strukturverbesserungsverordnung vom 7. Dezember 1998[^5-3] (SVV) oder Beiträge der Kantone nach den Artikeln 63 und 64 DZV erhält.
+<sup>1</sup> Landwirtschaftliche Betriebe können als Einsatzbetriebe anerkannt werden, wenn die Bewirtschafterin oder der Bewirtschafter Direktzahlungen nach Artikel 43, 44, 47 oder 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] (DZV), Finanzhilfen nach der Strukturverbesserungsverordnung vom 2. November 2022[^5-3] (SVV) oder Beiträge der Kantone nach den Artikeln 63 und 64 DZV erhält.[^5-4]
 
-<sup>2</sup> Handelt es sich um eine Betriebsgemeinschaft, so muss diese über die Anerkennung nach Artikel 29*a* der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^5-4] (LBV) verfügen, wobei alle Mitglieder die Voraussetzungen nach Absatz 1 erfüllen müssen.
+<sup>2</sup> Handelt es sich um eine Betriebsgemeinschaft, so muss diese über die Anerkennung nach Artikel 29*a* der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^5-5] (LBV) verfügen, wobei alle Mitglieder die Voraussetzungen nach Absatz 1 erfüllen müssen.
 
-<sup>3</sup> Handelt es sich um einen Gemeinschaftsweide- oder Sömmerungsbetrieb, so muss dieser über die Anerkennung nach Artikel 29*a* LBV verfügen und eine Mindestgrösse von zehn Normalstössen aufweisen. Diese Mindestgrösse ist nicht erforderlich im Rahmen von Projekten nach Artikel 6 Absatz 1 Buchstabe c.[^5-5]
+<sup>3</sup> Handelt es sich um einen Gemeinschaftsweide- oder Sömmerungsbetrieb, so muss dieser über die Anerkennung nach Artikel 29*a* LBV verfügen und eine Mindestgrösse von zehn Normalstössen aufweisen. Diese Mindestgrösse ist nicht erforderlich im Rahmen von Projekten nach Artikel 6 Absatz 1 Buchstabe c.[^5-6]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^5-3]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^5-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^5-4]: Fassung gemäss Anhang 9 Ziff. 3 der Strukturverbesserungsverordnung vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
+[^5-5]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^5-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 6
 
@@ -195,7 +196,7 @@ Das ZIVI setzt zivildienstpflichtige Personen ein:
   - 5\. für Projektarbeiten zur Erhaltung, Förderung und Weiterentwicklung vielfältiger Kulturlandschaften nach Artikel 63 DZV;
 
 - b. in landwirtschaftlichen Betrieben, die Projekte oder Programme nach Buchstabe a durchführen, für Arbeiten im Tätigkeitsbereich «Umwelt- und Naturschutz, Landschaftspflege und Wald»;
-- c.[^6-3] in landwirtschaftlichen Betrieben, die Investitionshilfen erhalten, zur Strukturverbesserung im Rahmen von Projekten nach den Artikeln 14 und 18 SVV[^6-4], unabhängig davon, ob der Betrieb Investitionskredite nach der SVV erhält oder nicht.
+- c.[^6-3] in landwirtschaftlichen Betrieben, die Finanzhilfen erhalten, zur Strukturverbesserung im Rahmen von Projekten nach dem Artikel 1 Absatz 1 Buchstaben a und b SVV[^6-4].
 
 <sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-5]
 
@@ -203,7 +204,7 @@ Das ZIVI setzt zivildienstpflichtige Personen ein:
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Fassung gemäss Ziff. II der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5495](https://fedlex.data.admin.ch/eli/oc/2020/956)).
+[^6-3]: Fassung gemäss Anhang 9 Ziff. 3 der Strukturverbesserungsverordnung vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
 [^6-4]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
 [^6-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 [^6-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
@@ -245,7 +246,7 @@ In der landwirtschaftlichen Produktion ist die Mitarbeit von zivildienstleistend
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 6. März 2009, in Kraft seit 1. April 2009 ([AS 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
-### 3. Abschnitt:**** Schwerpunktprogramme, Spezialeinsätze sowie Einsätze im Zusammenhang mit Katastrophen und Notlagen****
+### 3. Abschnitt: Schwerpunktprogramme, Spezialeinsätze sowie Einsätze im Zusammenhang mit Katastrophen und Notlagen
 
 [^chap2-sec3-1][^chap2-sec3-2]
 
@@ -381,7 +382,7 @@ Es kann von Anhang 1 abweichen:[^9-2]
 - a. bei Schwerpunktprogrammen;
 - b. bei Spezialeinsätzen;
 - c.[^9-3] bei Einsätzen zur Vorbeugung oder Bewältigung von Katastrophen oder Notlagen oder zur Regeneration;
-- d.[^9-4] ...
+- d.[^9-4] …
 - e.[^9-5] wenn es im Rahmen von Ausbildungskursen oder Aufgeboten von Amtes wegen selber Einsatzbetrieb ist.[^9-6]
 
 <sup>4</sup> Die maximale Anzahl zivildienstleistender Personen nach Anhang 1 darf um eine Person überschritten werden, wenn diese Person nach Artikel 31*a* Absatz 4 von Amtes wegen aufgeboten wird und die Betreuung aller zivildienstleistenden Personen durch den Einsatzbetrieb gewährleistet ist.[^9-7]
@@ -438,7 +439,7 @@ Auslandeinsätze sind in Tätigkeitsbereichen nach Artikel 4 Absatz 1 ZDG auch i
 - b. Mitarbeit im grenzüberschreitenden Umweltschutz;
 - c. Kurzaufenthalte im Ausland im Rahmen von Projekten.
 
-<sup>4</sup> ...[^11-2]
+<sup>4</sup> …[^11-2]
 
 <sup>5</sup> Die Anerkennung von Institutionen, die Programmpartnerinnen in Strukturen sind, die eine militärische Komponente aufweisen, ist nicht möglich.
 
@@ -542,7 +543,7 @@ Der Einsatz im Ausland endet mit der Rückkehr der zivildienstleistenden Person 
 
 Das ZIVI rechnet Einsätze im Ausland nach den gleichen Regeln an die Erfüllung der ordentlichen Zivildienstleistungen an wie Einsätze im Inland.
 
-## 3. Kapitel: Längere Dienstleistungen, Ende der Zivildienstpflicht****
+## 3. Kapitel: Längere Dienstleistungen, Ende der Zivildienstpflicht
 
 [^chap3-1]
 
@@ -682,9 +683,9 @@ Das ZIVI wendet die Artikel 25–31 der Verordnung vom 22. November 2017[^20-2] 
 
 ### (Art. 13 ZDG)
 
-Die in Artikel 18 Absatz 1 Buchstaben c–j MG[^21-2] aufgeführten Personen werden vom Zivildienst befreit, wenn sie Zivildienstleistungen erbracht haben, deren Dauer 1,5-mal so lange ist wie diejenige der Rekrutenschule. Die teilweise Absolvierung der Rekrutenschule wird berücksichtigt.
+Die in Artikel 18 Absatz 1 Buchstabe c MG[^21-2] aufgeführten Personen werden vom Zivildienst befreit, wenn sie Zivildienstleistungen erbracht haben, deren Dauer 1,5‑mal so lange ist wie diejenige der Rekrutenschule. Die teilweise Absolvierung der Rekrutenschule wird berücksichtigt.
 
-[^21-1]: Fassung gemäss Anhang 7 Ziff. II 7 der V vom 22. Nov. 2017 über die Militärdienstpflicht, in Kraft seit 1. Jan. 2018 ([AS 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
+[^21-1]: Fassung gemäss Anhang 7 Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^21-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
 #### Art. 22
@@ -699,7 +700,7 @@ Die in Artikel 18 Absatz 1 Buchstaben c–j MG[^21-2] aufgeführten Personen wer
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
-## 5. Kapitel:**** Zulassung zum Zivildienst
+## 5. Kapitel: Zulassung zum Zivildienst
 
 [^chap5-1]
 
@@ -798,7 +799,7 @@ Eine Person, die ein Gesuch um Zulassung zum Zivildienst spätestens zwei Monate
 
 <sup>1</sup> Das ZIVI übernimmt für die Berechnung der Dauer der ordentlichen Zivildienstleistungen die Angaben des Personalinformationssystems der Armee über die Gesamtdauer der noch nicht geleisteten Ausbildungsdienste nach der Militärgesetzgebung.
 
-<sup>2</sup> ...[^27-1]
+<sup>2</sup> …[^27-1]
 
 <sup>3</sup> Es berücksichtigt Änderungen der Gesamtdauer der Ausbildungsdienste nach der Militärgesetzgebung.
 
@@ -828,7 +829,7 @@ Das ZIVI kann seine Entscheide mit maschinengefertigten Unterschriften unterzeic
 
 ## 6. Kapitel: Leistung des Zivildienstes
 
-### 1. Abschnitt:**** Begriffe
+### 1. Abschnitt: Begriffe
 
 [^chap6-sec1-1]
 
@@ -903,11 +904,11 @@ Das ZIVI kann von der zivildienstpflichtigen Person zusätzliche Angaben erheben
 
 <sup>2</sup> Das ZIVI stellt ihr die für die Suche erforderlichen Informationen zur Verfügung und unterstützt sie auf Anfrage.[^31a-3]
 
-<sup>3</sup> ...[^31a-4]
+<sup>3</sup> …[^31a-4]
 
 <sup>4</sup> Erlauben die Ergebnisse der Suche den Erlass eines Aufgebotes nicht, so legt das ZIVI in einem Aufgebot selbst fest, wann und wo der Einsatz geleistet wird (Aufgebot von Amtes wegen). Es berücksichtigt dabei die Eignung der zivildienstpflichtigen Person und die Interessen eines geordneten Vollzugs. Es spricht die Einsätze mit den vorgesehenen Einsatzbetrieben ab. Es kann von Artikel 38 Absatz 3 und Artikel 39*a* abweichen, wenn sonst keine Einsatzbetriebe zur Verfügung stehen.[^31a-5]
 
-<sup>5</sup> ...[^31a-6]
+<sup>5</sup> …[^31a-6]
 
 [^31a-1]: Eingefügt durch Ziff. I der V vom 28. Sept. 1998, in Kraft seit 1. Nov. 1998 ([AS 1998 2519](https://fedlex.data.admin.ch/eli/oc/1998/2519_2519_2519)).
 [^31a-2]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
@@ -1034,11 +1035,11 @@ Die Rekrutenschule gilt als bestanden, wenn die zivildienstpflichtige Person:
 
 <sup>5</sup> Die zivildienstpflichtige Person leistet den langen Einsatz vorrangig in einem Schwerpunktprogramm, im Ausland oder beim ZIVI.[^37-6]
 
-<sup>5bis</sup> ...[^37-7]
+<sup>5bis</sup> …[^37-7]
 
 <sup>6</sup> Leistet sie den langen Einsatz im Tätigkeitsbereich «Umwelt- und Naturschutz, Landschaftspflege und Wald» oder «Landwirtschaft», so kann das ZIVI einen Wechsel des Einsatzbetriebs bewilligen, wenn die Einsatzdauer saisonal oder vom Arbeitsvolumen her begrenzt ist.[^37-8]
 
-<sup>7</sup> ...[^37-9]
+<sup>7</sup> …[^37-9]
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 [^37-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
@@ -1065,7 +1066,7 @@ Folgende Einsätze können kürzer sein:
 - a. Ausbildungskurse;
 - b. Probeeinsätze;
 - c.[^38-2] Einsätze zur Vorbeugung oder Bewältigung von Katastrophen oder Notlagen oder zur Regeneration;
-- d.[^38-3] ...
+- d.[^38-3] …
 - e. Piketteinsätze;
 - f. Spezialeinsätze;
 - g. Betreuungseinsätze in Lagern;
@@ -1099,7 +1100,7 @@ Die zivildienstpflichtige Person, die eine Rekrutenschule bestanden hat, beginnt
 
 Die zivildienstpflichtige Person beginnt ihren ersten Einsatz nach Ablauf der in Artikel 21 ZDG festgesetzten Frist, wenn das ZIVI:
 
-- a.[^39-2] ...
+- a.[^39-2] …
 - b. ein entsprechendes Verschiebungsgesuch gutgeheissen hat (Art. 44–47);
 - c. sie nicht in einem geeigneten Einsatzbetrieb einsetzen kann.
 
@@ -1297,7 +1298,7 @@ Es kann das Gesuch einer zivildienstpflichtigen Person um Dienstverschiebung dan
 - a. während des Einsatzes oder der diesem folgenden drei Monate eine wichtige Prüfung ablegen muss;
 - b. eine schulische oder berufliche Ausbildung absolviert, deren Unterbrechung mit unzumutbaren Nachteilen verbunden ist;
 - c. andernfalls ihren Arbeitsplatz verlieren würde;
-- [tab] c<sup>bis</sup>.[^46-3] ...
+- [tab] c<sup>bis</sup>.[^46-3] …
 - d. vorübergehend aus gesundheitlichen Gründen nicht in der Lage ist, den vorgesehenen Einsatz zu absolvieren; das ZIVI kann eine vertrauensärztliche Untersuchung anordnen;
 - e.[^46-4] glaubwürdig darlegt, dass die Ablehnung des Gesuchs für sie, ihre engsten Angehörigen oder ihren Arbeitgeber eine ausserordentliche Härte bedeuten würde.
 
@@ -1309,7 +1310,7 @@ Das ZIVI lehnt Gesuche ab, wenn:
 - b. den Anliegen der zivildienstpflichtigen Person durch die Gewährung von Urlaub weitgehend entsprochen werden kann; oder
 - c. nicht gewährleistet ist, dass die zivildienstpflichtige Person vor ihrer Entlassung aus der Zivildienstpflicht die Gesamtdauer der ordentlichen Zivildienstleistungen absolviert, es sei denn, die zivildienstpflichtige Person schliesst eine Vereinbarung nach Artikel 15 Absatz 3<sup>bis</sup> ab.[^46-5]
 
-<sup>5</sup> ...[^46-6]
+<sup>5</sup> …[^46-6]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^46-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2010, in Kraft seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
@@ -1461,7 +1462,7 @@ Ihre ordentlichen Zivildienstleistungen erbringen jedoch zivildienstpflichtige P
 
 An die Erfüllung der ordentlichen Zivildienstleistungen werden angerechnet:
 
-- a.[^53-1] ...
+- a.[^53-1] …
 - b.[^53-2] die Ausbildungskurstage sowie die arbeitsfreien Tage, wie sie vom Kursveranstalter üblicherweise gewährt werden;
 - c. Probeeinsätze;
 - d.[^53-3] die Arbeitstage und die arbeitsfreien Tage, wie sie im Einsatzbetrieb üblicherweise gewährt werden;
@@ -1526,11 +1527,11 @@ An die Erfüllung der ordentlichen Zivildienstleistungen werden angerechnet:
 
 Nicht an die Erfüllung der ordentlichen Zivildienstleistungen angerechnet werden:
 
-- a.[^56-1] ...
+- a.[^56-1] …
 - b. Vorstellungsgespräche bei möglichen Einsatzbetrieben;
 - c. Vorsprachen beim ZIVI;
 - d.[^56-2] Arbeitstage, an denen die zivildienstleistende Person Urlaub hat;
-- e.[^56-3] ...
+- e.[^56-3] …
 - f.[^56-4] Arbeitstage, an denen die zivildienstleistende Person ohne Rechtfertigung dem Einsatzbetrieb fernbleibt;
 - g. Tage, an denen ein Einsatz wegen der Durchführung eines Disziplinarverfahrens unterbrochen ist, das mit der Verhängung einer Disziplinarmassnahme abgeschlossen wird;
 - h. Tage, an denen die zivildienstpflichtige Person trotz der Wirksamkeit eines Abbruchs (Art. 43) im Einsatzbetrieb weitergearbeitet hat;
@@ -1567,7 +1568,7 @@ Arbeitstage, die in die Betriebsferien des Einsatzbetriebes fallen, werden nicht
 
 Das ZIVI teilt der zivildienstleistenden Person und dem Einsatzbetrieb mit, welche Tage sie nicht angerechnet hat. Die zivildienstleistende Person kann innert 30 Tagen eine beschwerdefähige Verfügung verlangen.
 
-### 10. Abschnitt: ...
+### 10. Abschnitt: …
 
 #### Art. 58
 
@@ -1591,7 +1592,7 @@ Das ZIVI teilt der zivildienstleistenden Person und dem Einsatzbetrieb mit, welc
 
 <sup>2</sup> Es berät auf Verlangen die zivildienstpflichtigen Personen in Rechtsfragen, die sich im Zusammenhang mit dem Vollzug des Zivildienstes stellen.
 
-<sup>3</sup> ...[^59-3]
+<sup>3</sup> …[^59-3]
 
 <sup>4</sup> Für die soziale Beratung und Unterstützung einer zivildienstleistenden Person, die ihren Einsatz ausserhalb ihres Wohnsitzkantons erbringt, sind dann die Sozialhilfebehörden des Aufenthaltskantons zuständig, wenn die zivildienstleistende Person für einen Besuch bei der Sozialhilfebehörde voraussichtlich mehr als einen Arbeitstag vom Einsatzbetrieb abwesend wäre.[^59-4]
 
@@ -1747,7 +1748,7 @@ Der Einsatzbetrieb übernimmt bei Einsätzen im Ausland diejenigen Kosten, die b
 
 <sup>2</sup> Die zivildienstleistende Person stellt das Urlaubsgesuch schriftlich und legt allfällige Beweismittel bei.
 
-<sup>3</sup> ...[^70-2]
+<sup>3</sup> …[^70-2]
 
 <sup>4</sup> Sie darf einen bewilligten Urlaub nicht antreten oder weiterführen, wenn der Urlaubsgrund wegfällt.[^70-3]
 
@@ -1777,7 +1778,7 @@ Der Einsatzbetrieb gewährt der zivildienstleistenden Person in folgenden Fälle
 
 Er gewährt ferner Urlaub von längstens einem Tag Dauer für:
 
-- a.[^71-2] ...
+- a.[^71-2] …
 - b. das Einschreiben und die Einführung an einer Lehranstalt, sofern die persönliche Anwesenheit der zivildienstleistenden Person dort zwingend erforderlich ist;
 - c. die Teilnahme an Sitzungen von Behörden, wenn die zivildienstleistende Person ein entsprechendes Mandat innehat.
 
@@ -1807,7 +1808,7 @@ Er kann, wenn es die Verhältnisse seines Betriebs gestatten, in folgenden Fäll
 
 <sup>1</sup> In einem ununterbrochenen Einsatz von mindestens 180 Tagen hat die zivildienstleistende Person für die ersten 180 Tage Anspruch auf acht Ferientage, für jeweils 30 weitere Einsatztage auf zwei Ferientage.[^72-2]
 
-<sup>2</sup> ...[^72-3]
+<sup>2</sup> …[^72-3]
 
 <sup>3</sup> Nicht bezogene Ferientage verfallen entschädigungslos.
 
@@ -1829,7 +1830,7 @@ Er kann, wenn es die Verhältnisse seines Betriebs gestatten, in folgenden Fäll
 
 <sup>1</sup> Die zivildienstleistende Person bezieht ihre Ferientage wenn möglich während den Betriebsferien des Einsatzbetriebes.
 
-<sup>2</sup> und <sup>3</sup> ...[^73-1]
+<sup>2</sup> und <sup>3</sup> …[^73-1]
 
 [^73-1]: Aufgehoben durch Ziff. I der V vom 10. Dez. 2010, mit Wirkung seit 1. Febr. 2011 ([AS 2011 151](https://fedlex.data.admin.ch/eli/oc/2011/21)).
 
@@ -1854,9 +1855,9 @@ Die zivildienstpflichtige Person meldet dem ZIVI unverzüglich insbesondere:
 - a. die Änderung der Adressen des Wohnsitzes und des Aufenthaltsortes;
 - b. die Änderung der Personalien;
 - c. den Beruf und dessen Änderung;
-- d.[^75-2] ...
+- d.[^75-2] …
 
-<sup>2</sup> ...[^75-3]
+<sup>2</sup> …[^75-3]
 
 <sup>3</sup> Zivildienstpflichtige Personen, die während mehr als sechs Monaten an den gemeldeten Adressen nicht erreichbar sind, bezeichnen dem ZIVI eine Zustelladresse in der Schweiz.
 
@@ -1930,7 +1931,7 @@ Die zivildienstpflichtige Person wirkt bei statistischen Erhebungen des ZIVI sow
 
 [^77-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 
-### 4. Abschnitt:**** Einführung und Ausbildung
+### 4. Abschnitt: Einführung und Ausbildung
 
 [^chap7-sec4-1]
 
@@ -2084,7 +2085,7 @@ Das ZIVI kann den Besuch des Lehrgangs «Pflegehelferin, Pflegehelfer» des Schw
 
 <sup>1</sup> Anlässlich des Einrückens und der Entlassung reist die zivildienstpflichtige Person kostenlos mit den öffentlichen Verkehrsmitteln von ihrem Wohnsitz oder Aufenthaltsort an den Einsatzort und zurück.[^83-1]
 
-<sup>2</sup> ...[^83-2]
+<sup>2</sup> …[^83-2]
 
 <sup>3</sup> Die zivildienstleistende Person, die während ihres Einsatzes nicht ihre Privatunterkunft benützt, hat zudem Anspruch auf eine wöchentliche kostenlose Reise mit den öffentlichen Verkehrsmitteln vom Einsatzort an ihren Wohnsitz oder Aufenthaltsort und zurück.[^83-3]
 
@@ -2132,7 +2133,7 @@ Die zivildienstleistende Person reist mit ihrem Zivildienstausweis während ihre
 
 [^86-1]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)).
 
-### 6. Abschnitt:**** Ausrüstung zur Kennzeichnung
+### 6. Abschnitt: Ausrüstung zur Kennzeichnung
 
 [^chap7-sec6-1]
 
@@ -2164,7 +2165,7 @@ Die zivildienstleistende Person reist mit ihrem Zivildienstausweis während ihre
 
 <sup>2</sup> Das ZIVI sorgt dafür, dass Gruppeneinsätze als Zivildiensteinsätze gekennzeichnet werden können.
 
-## 8. Kapitel:**** Verfahren der Anerkennung als Einsatzbetrieb
+## 8. Kapitel: Verfahren der Anerkennung als Einsatzbetrieb
 
 [^chap8-1]
 
@@ -2561,7 +2562,7 @@ Es eröffnet ihren Entscheid:
 - a. dem Einsatzbetrieb;
 - b. den betroffenen Institutionen;
 - c.[^100-4] den Institutionen nach Absatz 1<sup>bis</sup>, wenn sie eine Stellungnahme abgaben.
-- d.[^100-5] ...
+- d.[^100-5] …
 
 <sup>4</sup> Durch die Zustimmung des ZIVI werden die begünstigten Institutionen nicht zu anerkannten Einsatzbetrieben.
 
@@ -2597,7 +2598,7 @@ Wer gestützt auf die Haftungsbestimmungen des ZDG einen Schaden geltend macht, 
 
 [^102-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-## 11. Kapitel: ...
+## 11. Kapitel: …
 
 #### Art. 103–108
 
@@ -2709,7 +2710,7 @@ Das WBF kann, ohne dass diese Verordnung vorgängig angepasst wird, das ZIVI erm
 - d.[^111-3] Ermöglichung einer weiteren Aufteilung des langen Einsatzes (Art. 37);
 - e.[^111-4] Ausdehnung des Katalogs der Urlaubsgründe sowie der Urlaubsdauer (Art. 71);
 - f.[^111-5] Erproben alternativer Möglichkeiten zur Führung der Kontrolldaten nach Artikel 75.
-- g.[^111-6] ...
+- g.[^111-6] …
 
 <sup>2</sup> Es begrenzt die Geltungsdauer der Versuche.
 
@@ -2874,7 +2875,7 @@ Für Personen, die vor dem Inkrafttreten der Änderung vom 22. November 2017 zum
 
 <sup>2</sup> Anhang 3 Ziffer 5 tritt am 1. Januar 1997 in Kraft und ist erstmals auf das Ersatzjahr 1997 anwendbar.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 9 Abs. 1 und 3)
 
@@ -2940,7 +2941,7 @@ Bei Einsatzbetrieben mit mehr als 60 Vollzeitstellen wird die maximale Anzahl gl
 
 Das Maximum von speziellen Gruppeneinsätzen in Gemeinschaftsweide- und Sömmerungsbetrieben errechnet sich wie folgt: Anzahl nach Artikel 6 Absatz 2 erlaubter Diensttage geteilt durch 26 Diensttage (auf die nächste ganze Zahl abgerundet).
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 53 Abs. und 54 Abs. 2)
 
@@ -2986,7 +2987,7 @@ Anhang 2*[^t-2]*
 <tr><td></td><td>22–29</td><td>5</td></tr>
 </table>
 
-Anhang 2a*[^t-3]*
+Anhang 2a[^t-3]
 
 (Art. 95 Abs. 1)
 
@@ -3027,13 +3028,13 @@ Anhang 3
 
 ## Aufhebung und Änderung bisherigen Rechts
 
-### 1. Die Verordnung vom 1. Juli 1992**** über die Arbeitsleistung infolge Militärdienstverweigerung (VAL) wird aufgehoben.
+### 1. Die Verordnung vom 1. Juli 1992 über die Arbeitsleistung infolge Militärdienstverweigerung (VAL) wird aufgehoben.
 
 [^annex3-lvlu1-lvl1-1]
 
-[^annex3-lvlu1-lvl1-1]: [[AS 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516), [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094), [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
+[^annex3-lvlu1-lvl1-1]: [[AS 1992 1516](https://fedlex.data.admin.ch/eli/oc/1992/1516_1516_1516); [1994 3094](https://fedlex.data.admin.ch/eli/oc/1994/3094_3094_3094); [1996 1477](https://fedlex.data.admin.ch/eli/oc/1996/1477_1477_1477)]
 
-### 2.–9. ...****
+### 2.–9. …
 
 [^annex3-lvlu1-lvl2-1]
 
