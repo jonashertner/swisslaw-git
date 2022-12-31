@@ -4,13 +4,12 @@ number: "161.221"
 title: Verordnung über die Vergütung von Inkonvenienzen
 short: Inkonvenienzverordnung
 language: de
-version: 2018-11-01
-valid_until: 2022-12-31
-version_adopted: 2018-09-12
+version: 2023-01-01
+version_adopted: 2022-11-23
 adopted: 2002-02-27
 in_force: 2002-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/161.221"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2652/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3271/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2652/pdf_file"
 
 (Inkonvenienzverordnung)
 
-Vom 27.02.2002 (Stand 01.11.2018)
+Vom 27.02.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -79,15 +78,11 @@ beschliesst:
 
 **b) Entschädigung**
 
-<sup>1</sup> Die Entschädigung für Pikettdienst beträgt Fr. 3.– pro geleistete Stunde.
+<sup>1</sup> …
 
-<table>
-<tr><th>Dauer des Pikettdienstes in Stunden</th><th>Entschädigung in Fr.</th></tr>
-<tr><td>2 bis 4</td><td>…</td></tr>
-<tr><td>bis 12</td><td>…</td></tr>
-<tr><td>bis 18</td><td>…</td></tr>
-<tr><td>bis 24</td><td>…</td></tr>
-</table>
+<sup>1<sup>bis</sup></sup> Die Entschädigung für Pikettdienst beträgt Fr. 4.– pro geleistete Stunde.
+
+<sup>1<sup>ter</sup></sup> Absatz 1<sup>bis</sup> gilt auch für Mitarbeitende, die vertraglich verpflichtet sind, unbezahlte Arbeitspausen zu unterbrechen, um dienstliche Aufgaben zu erledigen.
 
 <sup>2</sup> Für einzelne Berufsgruppen oder Organisationseinheiten kann der Regierungsrat in begründeten Fällen (namentlich aufgrund der Absehbarkeit der Piketteinsätze oder aufgrund der Arbeitsmarktsituation) abweichende Regelungen erlassen.
 
@@ -96,7 +91,7 @@ beschliesst:
 - a) mit einer Zeitkompensation von 150 % der Einsatzzeit oder
 - b) mit einer Zeitkompensation von 100 % und einem Geldzuschlag auf der Grundlage des individuellen Jahreslohns ohne Zulagen von 50 % der Einsatzzeit.
 
-<sup>4</sup> Die Anstellungsbehörde entscheidet über die Entschädigungsart. Bei einem Einsatz wird mindestens eine Stunde entschädigt.
+<sup>4</sup> Die Anstellungsbehörde entscheidet über die Entschädigungsart. Bei einem Einsatz wird mindestens eine halbe Stunde entschädigt.
 
 <sup>5</sup> Der Arbeitsweg gilt als Einsatzzeit.
 
@@ -118,7 +113,7 @@ beschliesst:
 
 **b) Entschädigung**
 
-<sup>1</sup> Jeder geleistete Bereitschaftsdienst wird mit einem Geldzuschlag von Fr. 40.– sowie mit einer Zeitgutschrift von einem Drittel der Bereitschaftsdienstzeit entschädigt.
+<sup>1</sup> Jeder geleistete Bereitschaftsdienst wird mit einem Geldzuschlag von Fr. 100.– sowie mit einer Zeitgutschrift von einem Drittel der Bereitschaftsdienstzeit entschädigt.
 
 <sup>2</sup> Geleistete Einsätze im Rahmen des Bereitschaftsdienstes werden nicht zusätzlich entschädigt.
 
@@ -134,17 +129,19 @@ beschliesst:
 
 **Pauschale Entschädigungen für Pikettdienst**
 
-<sup>1</sup> An Stelle von Entschädigungen gemäss § 6 erhalten eine jährliche Pauschalentschädigung für Pikettdienst:
+<sup>1</sup> An Stelle von Entschädigungen gemäss § 6 Abs. 1<sup>bis</sup> erhalten eine jährliche Pauschalentschädigung für Pikettdienst:
 
 - a) Polizeioffiziere — Fr. 4'000.–
 - b) Oberstaatsanwältinnen/Oberstaatsanwälte, Staatsanwältinnen/ Staatsanwälte, Assistenz-Staatsanwältinnen/Assistenz-Staatsanwälte und Jugendanwältinnen/Jugendanwälte — Fr. 4'000.–
 - c) …
 - d) …
-- e) Mitglieder der Anstaltsleitungen Jugendheim Aarburg und Justizvollzugsanstalt Lenzburg — Fr. 4'000.–
-- f) Mitarbeitende Vollzugsdienste und Bewährungshilfe — Fr. 3'000.–
+- e) In die Pikettorganisationen eingebundene Mitarbeitende des Amts für Justizvollzug sowie des Jugendheims Aarburg und der Justizvollzugsanstalt Lenzburg bis maximal — Fr. 4'000.–
+- f) …
 - g) Mitglieder sowie Fachrichterinnen und Fachrichter von Gerichten, welche Pikettdienst leisten, durch Beschluss der Justizleitung bis maximal — Fr. 4'000.–
 
 <sup>2</sup> Die Anstellungsbehörde kann an Stelle einer Barauszahlung Freizeit in gleichem Umfang gewähren.
+
+<sup>3</sup> Die pauschale Entschädigung gilt in der Regel für ein Vollpensum. Die Anstellungsbehörde kann den Pauschalbetrag bei tieferen Pensen entsprechend anpassen.
 
 #### § 11
 
@@ -156,19 +153,25 @@ beschliesst:
 
 **Pikettdienst im Strassenunterhalt**
 
-<sup>1</sup> Für Pikettdienst im Strassenunterhalt werden an Stelle von Entschädigungen gemäss § 6 folgende jährliche Pauschalentschädigungen ausgerichtet:
+<sup>1</sup> Strassenmeister, die gemäss Sommereinsatzplan des Strassenunterhalts die Telefonbereitschaft sicherstellen, erhalten von April bis Oktober eine monatliche Entschädigung von Fr. 40.–.
 
-- a) Für den Unterhalt an Kantonsstrassen während des Winterdienstes: — Fr. 2'300.–
+- a) …
 - b) …
 - c) …
-- d) für den ganzjährigen Unterhalt von Kantonsstrassen als Strassenmeisterin/Strassenmeister und Leitung Elektrodienst: — Fr. 3'000.–
-- e) für den ganzjährigen Elektrodienst an Kantonsstrassen: — Fr. 1'900.–
+- d) …
+- e) …
 
 #### § 13
 
 **Überwachung des Strassenzustandes ab Wohnort**
 
 <sup>1</sup> Für die Überwachung des Strassenzustandes ab Wohnort wird Mitarbeitenden, die mehr als 3 Kilometer vom Dienstort entfernt wohnen, eine jährliche Pauschalentschädigung ausgerichtet. Die Entschädigung richtet sich nach Anhang I dieser Verordnung.
+
+#### § 13a
+
+**Nachtarbeit im baulichen und betrieblichen Unterhalt der Strasseninfrastruktur**
+
+<sup>1</sup> Mitarbeitende, die Nachtarbeiten im Zusammenhang mit dem baulichen und betrieblichen Unterhalt verrichten, werden mit einer Zeitkompensation von 150 % der Einsatzzeit sowie einem Geldzuschlag gemäss § 3 Abs. 1 entschädigt.
 
 #### § 14
 
@@ -178,9 +181,7 @@ beschliesst:
 
 #### § 15
 
-**Arbeiten mit Sandstrahlen**
-
-<sup>1</sup> Für das regelmässige Arbeiten mit Sandstrahlen erhalten Mitarbeitende eine Entschädigung von Fr. 1'000.– pro Jahr.
+**…**
 
 #### § 16
 
