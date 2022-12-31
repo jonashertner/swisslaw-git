@@ -3,20 +3,20 @@ canton: GR
 number: "500.100"
 title: Verordnung über die Gebühren im Gesundheitsbereich
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-10-31
+version_adopted: 2022-12-13
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3215/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren im Gesundheitsbereich
 
-Vom 12.04.2011 (Stand 01.01.2022)
+Vom 12.04.2011 (Stand 01.01.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 75 Abs. 3 des Verwaltungsrechtspflegegesetzes[^ingress-2]
 
@@ -29,7 +29,7 @@ von der Regierung erlassen am 12. April 2011
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Bewilligungs-, Inspektions- und Kanzleigebühren, welche das Gesundheitsamt erhebt.
+<sup>1</sup> Diese Verordnung regelt die Gebühren, welche das Gesundheitsamt in Erfüllung der ihm übertragenen Aufgaben erhebt.
 
 #### Art. 2
 
@@ -51,7 +51,7 @@ von der Regierung erlassen am 12. April 2011
 
 **Anerkennung für Pflegefachpersonen**
 
-<sup>1</sup> Die Gebühr für die Anerkennung von selbstständig erwerbenden Pflegefachpersonen als beitragsberechtigte Leistungserbringer beträgt 400 Franken.
+<sup>1</sup> Die Gebühr für die Anerkennung von selbstständig erwerbenden Pflegefachpersonen als beitragsberechtigte Leistungserbringer beträgt 250 bis 500 Franken.
 
 #### Art. 3
 
@@ -95,6 +95,12 @@ von der Regierung erlassen am 12. April 2011
 - a) für ordentliche Inspektionen eine Pauschale von 150 Franken;
 - b) für ausserordentliche Inspektionen die effektiven Kosten.
 
+#### Art. 3c
+
+**Anerkennung zusätzlicher Kosten bei ausserordentlich pflege- und betreuungsaufwendigen Bewohnerinnen und Bewohnern**
+
+<sup>1</sup> Die Gebühr für die Prüfung eines Gesuchs um Anerkennung zusätzlicher Kosten bei ausserordentlich pflege- und betreuungsaufwendigen Bewohnerinnen und Bewohnern beträgt für die Institution je nach Aufwand 200 bis 1000 Franken.
+
 #### Art. 4
 
 **Heilmittelgesetzgebung**
@@ -130,9 +136,17 @@ von der Regierung erlassen am 12. April 2011
 - b) 15 Franken ab dem zweiten Block pro Zustellung;
 - c) 25 Franken bei Wiederholung der Zustellung eines Blocks.
 
+<sup>4</sup> Für die Entsorgung von kontrollierten Substanzen werden die effektiven Kosten der Verbrennungsanstalt verrechnet. Zusätzlich wird für die Überwachung der korrekten Entsorgung eine Gebühr nach Zeitaufwand von 220 Franken pro Stunde verrechnet.
+
 #### Art. 6
 
 **…**
+
+#### Art. 6a
+
+**Schutz vor nichtionisierender Strahlung**
+
+<sup>1</sup> Für die durch das Gesundheitsamt in den Solarien und bei der Verwendung von Produkten zu kosmetischen Zwecken durchgeführten Kontrollen und angeordneten Massnahmen werden Gebühren nach Zeitaufwand erhoben. Der Stundenansatz beträgt je nach der erforderlichen Sachkenntnis und Funktionsstufe des ausführenden Personals 70 bis 200 Franken.
 
 #### Art. 7
 
@@ -148,17 +162,18 @@ von der Regierung erlassen am 12. April 2011
 
 #### Art. 8
 
-**Anpassung von Bewilligungen**
+**Anpassung von Bewilligungen und Zulassungen zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung**
 
-<sup>1</sup> Für die Anpassung bestehender Bewilligungen wird in folgenden Fällen eine Gebühr von 80 bis 300 Franken erhoben:
+<sup>1</sup> Für die Anpassung bestehender Bewilligungen und Zulassungen wird in folgenden Fällen eine Gebühr von 80 bis 500 Franken erhoben:
 
 - a) Übernahme durch eine neue Trägerschaft oder Institution;
 - b) Namensänderung der Trägerschaft oder Institution;
 - c) Änderung der Trägerschaft oder Institution;
 - d) neue Inhaberin beziehungsweise neuer Inhaber;
-- e) Namensänderung der Bewilligungsinhaberin beziehungsweise des Bewilligungsinhabers;
+- e) Namensänderung der Inhaberin beziehungsweise des Inhabers der Bewilligung oder der Zulassung;
 - f) Wechsel der verantwortlichen oder leitenden Person oder der Konsiliarapothekerin beziehungsweise des Konsiliarapothekers;
-- g) neuer Standort oder Adressänderung.
+- g) neuer Standort oder Adressänderung;
+- h) Neueintritt von Personen in einer zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung zugelassenen Organisation.
 
 #### Art. 9
 

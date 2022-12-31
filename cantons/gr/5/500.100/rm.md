@@ -3,20 +3,20 @@ canton: GR
 number: "500.100"
 title: Ordinaziun davart las taxas per il sectur da sanadad
 language: rm
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-10-31
+version_adopted: 2022-12-13
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3215/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3290/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart las taxas per il sectur da sanadad
 
-dals 12-04-2011 (versiun dals 01-01-2022)
+dals 12-04-2011 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 75 al. 3 da la lescha davart la giurisdicziun administrativa[^ingress-2],
 
@@ -29,7 +29,7 @@ relaschada da la regenza ils 12 d'avrigl 2011
 
 **Champ d'applicaziun**
 
-<sup>1</sup> Questa ordinaziun regla las taxas da permissiun, d'inspecziun e da chanzlia che l'uffizi da sanadad incassescha.
+<sup>1</sup> Questa ordinaziun regla las taxas che l'Uffizi da sanadad incassescha per ademplir las incumbensas delegadas ad el.
 
 #### Art. 2
 
@@ -51,7 +51,7 @@ relaschada da la regenza ils 12 d'avrigl 2011
 
 **Renconuschientscha per tgirunzas e tgirunzs**
 
-<sup>1</sup> La taxa per la reconuschientscha da tgirunzas e da tgirunzs cun activitad da gudogn independenta sco furnituras e furniturs da prestaziuns che han il dretg da survegnir contribuziuns importa 400 francs.
+<sup>1</sup> La taxa per la reconuschientscha da tgirunzas e da tgirunzs cun activitad da gudogn independenta sco furnituras e furniturs da prestaziuns che han il dretg da survegnir contribuziuns importa 250 fin 500 francs.
 
 #### Art. 3
 
@@ -95,6 +95,12 @@ relaschada da la regenza ils 12 d'avrigl 2011
 - a) per inspecziuns ordinarias: ina pauschala da 150 francs;
 - b) per inspecziuns extraordinarias: ils custs effectivs.
 
+#### Art. 3c
+
+**Renconuschientscha da custs supplementars per abitantas ed abitants che dovran extraordinariamain blera tgira ed assistenza**
+
+<sup>1</sup> La taxa per examinar ina dumonda per la renconuschientscha da custs supplementars per abitantas ed abitants che dovran extraordinariamain blera tgira ed assistenza importa per l'instituziun – tut tenor la lavur impundida – 200 fin 1000 francs.
+
 #### Art. 4
 
 **Legislaziun davart ils products terapeutics**
@@ -130,9 +136,17 @@ relaschada da la regenza ils 12 d'avrigl 2011
 - b) 15 francs davent dal segund bloc per consegna;
 - c) 25 francs per repeter la consegna d'in bloc.
 
+<sup>4</sup> Per la dismessa da substanzas controlladas vegnan mess a quint ils custs effectivs da l'ardera. Ultra da quai vegn messa a quint ina taxa da 220 francs per ura tenor il temp impundì per survegliar la dismessa correcta.
+
 #### Art. 6
 
 **…**
+
+#### Art. 6a
+
+**Protecziun cunter radiaziun nunionisanta**
+
+<sup>1</sup> Per las controllas realisadas e per las mesiras ordinadas tras l'Uffizi da sanadad en ils solariums ed en cas d'utilisaziuns da products per intents cosmetics vegnan incassadas taxas tenor il temp impundì. La tariffa importa 70 fin 200 francs per ura, tut tenor las cumpetenzas necessarias ed il stgalim da funcziun necessari dal persunal che exequescha las lavurs.
 
 #### Art. 7
 
@@ -148,17 +162,18 @@ relaschada da la regenza ils 12 d'avrigl 2011
 
 #### Art. 8
 
-**Adattaziun da permissiuns**
+**Adattaziun da permissiuns ed admissiuns a l'activitad a quint da l'assicuranza obligatorica per la tgira da malsauns**
 
-<sup>1</sup> Per far adattaziuns da permissiuns existentas vegn incassada ina taxa dad 80 fin 300 francs en ils suandants cas:
+<sup>1</sup> Per far adattaziuns da permissiuns e d'admissiuns existentas vegn incassada ina taxa dad 80 fin 500 francs en ils suandants cas:
 
 - a) surpigliada tras in nov purtader u tras ina nova instituziun;
 - b) midada dal num dal purtader u da l'instituziun;
 - c) midada dal purtader u da l'instituziun;
 - d) nova possessura respectivamain nov possessur;
-- e) midada dal num da la titulara respectivamain dal titular da la permissiun;
+- e) midada dal num da la titulara u dal titular da la permissiun u da l'admissiun;
 - f) midada da la persuna responsabla u directiva u da l'apotecra conciliara respectivamain da l'apotecher conciliar;
-- g) nov lieu u midada da l'adressa.
+- g) nov lieu u midada da l'adressa;
+- h) entrada da novas persunas en in'organisaziun ch'è admessa a l'activitad a quint da l'assicuranza obligatorica per la tgira da persunas malsaunas.
 
 #### Art. 9
 

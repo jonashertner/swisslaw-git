@@ -3,20 +3,20 @@ canton: GR
 number: "500.100"
 title: Ordinanza sulle tasse in campo sanitario
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-10-31
+version_adopted: 2022-12-13
 adopted: 2011-04-12
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3215/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3290/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Ordinanza sulle tasse in campo sanitario
 
-del 12.04.2011 (stato 01.01.2022)
+del 12.04.2011 (stato 01.01.2023)
 
 emanata dal Governo il 12 aprile 2011
 
@@ -29,7 +29,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 
 **Campo d'applicazione**
 
-<sup>1</sup> La presente ordinanza disciplina le tasse di autorizzazione, ispezione e cancelleria riscosse dall'Ufficio dell'igiene pubblica.
+<sup>1</sup> La presente ordinanza disciplina le tasse riscosse dall'Ufficio dell'igiene pubblica nell'adempimento dei compiti a esso delegati.
 
 #### Art. 2
 
@@ -51,7 +51,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 
 **Riconoscimento per infermieri diplomati**
 
-<sup>1</sup> La tassa per il riconoscimento di infermieri diplomati indipendenti quali fornitori di prestazioni aventi diritto a sussidi ammonta a 400 franchi.
+<sup>1</sup> La tassa per il riconoscimento di infermieri diplomati indipendenti quali fornitori di prestazioni aventi diritto a sussidi ammonta a un importo tra i 250 e i 500 franchi.
 
 #### Art. 3
 
@@ -95,6 +95,12 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 - a) per ispezioni ordinarie una forfetaria di 150 franchi;
 - b) per ispezioni straordinarie le spese effettive.
 
+#### Art. 3c
+
+**Riconoscimento di spese supplementari in caso di ospiti straordinariamente bisognosi di cure e di assistenza**
+
+<sup>1</sup> La tassa per l'esame di una domanda di riconoscimento di spese supplementari in caso di ospiti straordinariamente bisognosi di cure e di assistenza ammonta per l'istituzione a un importo tra i 200 e i 1000 franchi, a seconda dell'onere.
+
 #### Art. 4
 
 **Legislazione sugli agenti terapeutici**
@@ -130,9 +136,17 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 - b) 15 franchi a partire dal secondo blocco per invio;
 - c) 25 franchi in caso di ripetizione dell'invio di un blocco.
 
+<sup>4</sup> Per lo smaltimento di sostanze controllate vengono fatturate le spese effettive dell'inceneritore. In aggiunta, per la vigilanza sul corretto smaltimento viene fatturata una tassa di 220 franchi all'ora, in funzione del tempo impiegato.
+
 #### Art. 6
 
 **…**
+
+#### Art. 6a
+
+**Protezione dalle radiazioni non ionizzanti**
+
+<sup>1</sup> Per i controlli svolti dall'Ufficio dell'igiene pubblica nei solarium e in caso di utilizzo di prodotti per scopi estetici nonché per le misure disposte vengono riscosse tasse in funzione del tempo impiegato. La tariffa oraria ammonta a un importo tra i 70 e i 200 franchi a seconda delle conoscenze tecniche necessarie e della classe di funzione del personale esecutivo.
 
 #### Art. 7
 
@@ -148,9 +162,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 
 #### Art. 8
 
-**Adeguamento di autorizzazioni**
+**Adeguamento di autorizzazioni e di autorizzazioni a esercitare a carico dell'assicurazione obbligatoria delle cure medico-sanitarie**
 
-<sup>1</sup> Per l'adeguamento di autorizzazioni esistenti, nei seguenti casi viene riscossa una tassa da 80 a 300 franchi:
+<sup>1</sup> Per l'adeguamento di autorizzazioni esistenti, nei seguenti casi viene riscossa una tassa da 80 a 500 franchi:
 
 - a) rilevamento da parte di un nuovo ente responsabile o di una nuova istituzione;
 - b) cambiamento del nome dell'ente responsabile o dell'istituzione;
@@ -158,7 +172,8 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 75 cpv.
 - d) nuovo proprietario;
 - e) cambiamento del nome del titolare dell'autorizzazione;
 - f) cambiamento della persona responsabile o del direttore oppure del farmacista consulente;
-- g) nuova sede o cambiamento di indirizzo.
+- g) nuova sede o cambiamento di indirizzo;
+- h) nuova assunzione di persone in seno a un'organizzazione autorizzata a esercitare a carico dell'assicurazione obbligatoria delle cure medico-sanitarie.
 
 #### Art. 9
 
