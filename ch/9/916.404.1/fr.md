@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (Etat le 1<sup>er</sup> juin 2022)
+du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -378,15 +378,19 @@ Identitas SA vérifie l’exhaustivité et la plausibilité des données visées
 
 **Rectification des données**
 
-<sup>1</sup> Les personnes soumises au devoir de notification et les mandataires peuvent effacer en ligne, dans un délai de dix jours, les données qu’elles ont transmises, à l’exception de la notification du changement de l’utilisation prévue chez les équidés, conformément à l’annexe 1, ch. 4, let. f.
+<sup>1</sup> Les personnes soumises au devoir de notification et les mandataires peuvent effacer ou modifier en ligne, dans un délai de dix jours, les données qu’elles ont transmises, à l’exception de la notification du changement de l’utilisation prévue chez les équidés conformément à l’annexe 1, ch. 4, let. f.[^25-1]
 
 <sup>2</sup> L’abattoir peut modifier en ligne le numéro BDTA du requérant visé à l’annexe 1, ch. 1, let. e, ch. 7, ch. 2, let. e, ch. 7 et ch. 4, let. j, ch. 5, jusqu’à 30 jours après l’abattage.
 
 <sup>3</sup> Les personnes soumises au devoir de notification et les mandataires peuvent, jusqu’à une année après la mort d’un animal, demander, par écrit ou par téléphone, à Identitas SA la rectification des données qu’elles ont transmises.
 
-<sup>4</sup> Les documents d’accompagnement prévus à l’art. 12 OFE[^25-1] sont joints aux demandes de rectification des données, conformément à l’annexe 1, ch. 1, let. c à e, ch. 2, let. c à e, et ch. 3, let. b et c.
+<sup>4</sup> Les documents d’accompagnement prévus à l’art. 12 OFE[^25-2] sont joints aux demandes de rectification des données, conformément à l’annexe 1, ch. 1, let. c à e, ch. 2, let. c à e, et ch. 3, let. b et c.
 
-[^25-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+<sup>5</sup> Les services cantonaux compétents pour l’exécution de la législation sur les épizooties peuvent demander, par écrit ou par téléphone, à Identitas SA la rectification des données visées à l’annexe 1.[^25-3]
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^25-3]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -416,12 +420,13 @@ Elle transmet à l’Organisation du monde du travail Métiers liés au cheval l
 - a. le numéro BDTA de l’unité d’élevage;
 - b. le nom, l’adresse, l’adresse de courrier électronique et le numéro de téléphone du détenteur de l’animal;
 - c. le nombre d’équidés qui séjournent dans l’unité d’élevage;
-- d. le nombre d’équidés âgés de plus de 195 jours qui séjournent dans l’unité d’élevage;
+- d.[^27-4] le nombre d’équidés âgés de plus de 3 ans qui séjournent dans l’unité d’élevage;
 - e. le nombre d’équidés dont le changement d’unité d’élevage n’a pas été notifié par le propriétaire.
 
 [^27-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^27-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^27-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -490,7 +495,7 @@ Toute personne peut consulter et utiliser les données suivantes:
 
   - 1\. concernant les unités d’élevage agricoles au sens de l’art. 11 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^33-1]: la région d’appartenance,
   - 2\. concernant des unités d’élevage comprenant des bovins, des buffles ou des bisons: le statut BVD,
-  - 3\.[^33-2] …
+  - 3\.[^33-2] concernant les unités d’élevage comprenant des ovins: le statut piétin;
 
 - c.
 
@@ -505,7 +510,7 @@ Toute personne peut consulter et utiliser les données suivantes:
 <sup>2</sup> Le numéro d’identification de l’animal ou le numéro de la puce électronique servent de code d’accès pour la consultation des données visées à l’al. 1, let. b. Le numéro d’identification de l’animal ou le numéro de la puce électronique servent de code d’accès pour la consultation des données visées à l’al. 1, let. c. L’utilisateur se procure lui-même ces codes d’accès.
 
 [^33-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^33-2]: Entre en vigueur le 1<sup>er</sup> janv. 2023 (art. 69, al. 3).
+[^33-2]: En vigueur depuis le 1<sup>er</sup> janv. 2023 (art. 69, al. 3).
 [^33-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
 #### Art. 34
@@ -569,11 +574,13 @@ Les personnes mandatées visées à l’art. 23 peuvent consulter et utiliser le
 
 #### Art. 39
 
-**Tiers**
+**Tiers**[^39-1]
 
-<sup>1</sup> Sur demande, l’OFAG peut autoriser des tiers à consulter et à utiliser des données, à des fins zootechniques ou de recherches scientifiques, pour autant qu’ils s’engagent par écrit à respecter les dispositions relatives à la protection des données.
+<sup>1</sup> Sur demande, Identitas SA peut autoriser des tiers à consulter et à utiliser des données à des fins zootechniques ou de recherches scientifiques. Elle prend sa décision en accord avec l’OFAG.
 
-<sup>2</sup> Identitas SA doit conclure un contrat avec les tiers qui souhaitent consulter et utiliser des données non anonymisées. Avant la signature le contrat est soumis à l’approbation de l’OFAG.
+<sup>2</sup> Si la demande comporte des données non anonymisées ou si l’ensemble des données disponibles permet de tirer des conclusions sur les personnes concernées, Identitas SA conclut un contrat avec les tiers. Avant la signature, le contrat est soumis à l’approbation de l’OFAG.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 40
 
@@ -735,13 +742,17 @@ Le système e-Transit peut tirer les données suivantes d’autres systèmes d�
 
 <sup>2</sup> Les détenteurs d’animaux, les transporteurs et les entreprises de commerce d’animaux peuvent consulter les documents d’accompagnement électroniques valables, les utiliser et, pendant la durée de validité du document d’accompagnement visé à l’art. 12*a* OFE[^54-1], les compléter.
 
-<sup>3</sup> Pour accomplir leurs tâches, l’OFAG, l’OSAV et les services cantonaux compétents en matière des législations sur les épizooties, sur l’agriculture, sur la protection des animaux et sur les denrées alimentaires peuvent consulter et utiliser les documents d’accompagnement électroniques d’e-Transit.
+<sup>3</sup> …[^54-2]
 
 <sup>4</sup> Les organes de police et les organes de contrôle qui contrôlent les transports d’animaux sur mandat de tiers peuvent demander à l’OFAG l’accès à e-Transit. Après l’approbation de la demande, ils peuvent consulter et utiliser les documents d’accompagnement électroniques d’E-Transit.
 
 <sup>5</sup> Le numéro d’identification visé à l’art. 51 sert de code d’accès pour consulter le document d’accompagnement électronique dans e-Transit. L’utilisateur se procure lui-même ce code d’accès.
 
+<sup>6</sup> Pour accomplir leurs tâches, l’OFAG, l’OSAV et les services cantonaux compétents pour l’exécution de la législation sur les épizooties, sur l’agriculture, sur la protection des animaux, sur les denrées alimentaires et sur les produits thérapeutiques peuvent consulter les documents d’accompagnement électroniques, les utiliser et, pendant leur durée de validité respective au sens de l’art. 12*a* OFE, les compléter.[^54-3]
+
 [^54-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^54-2]: Abrogé par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^54-3]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 55
 
@@ -911,11 +922,13 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 <sup>3</sup> L’art. 33, al. 1, let. b, ch. 3, entre en vigueur le 1<sup>er</sup> janvier 2023.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 11, al. 1, let. e et f, 16 à 19, 21, 23, al. 1, 25, al. 1, 2 et 4, 27, al. 2, let. b, 35, al. 1, let. f et g, 45, let. b, 46 et 68, al. 2)
 
 ## Données à notifier à la BDTA
+
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 ### 1. Données relatives aux bovins, aux buffles et aux bisons
 
@@ -1038,7 +1051,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
   - 1\. le numéro BDTA de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal, ainsi que ceux de la mère et, s’il est connu, du père,
   - 3\. la date de naissance de l’animal,
-  - 4\. la race, la couleur et le sexe de l’animal,
+  - 4\. la race, le sexe de l’animal et, dans le cas des ovins, la robe,
   - 5\. les naissances multiples,
   - 6\. la date de la notification;
 
@@ -1050,7 +1063,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
   - 2\. le numéro BDTA de l’unité d’élevage,
   - 3\. le numéro d’identification de l’animal,
   - 4\. la date de naissance de l’animal,
-  - 5\. la race, la couleur et le sexe de l’animal,
+  - 5\. la race, le sexe de l’animal et, dans le cas des ovins, la robe,
   - 6\.
 
     pour les animaux mères, le type d’utilisation:
@@ -1388,53 +1401,55 @@ Pour ce qui est des volailles domestiques, les données suivantes doivent être 
 - e. l’âge exprimé en semaines de vie au moment de la mise au poulailler;
 - f. la date de la notification.
 
-Annexe 2
+Annexe 2[^t-2]
 
 (art. 62, al. 2 et 3)
 
 ## Émoluments
 
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+
 <table>
 <tr><th></th><th>Francs</th></tr>
 <tr><td>1 Livraison de marques auriculaires</td><td></td></tr>
 <tr><td>1.1 Marques auriculaires, le délai de livraison étant de trois semaines, par pièce:</td><td></td></tr>
-<tr><td>1.1.1 pour les animaux de l’espèce bovine, les buffles et les bisons (double marque auriculaire)</td><td>3.60</td></tr>
+<tr><td>1.1.1 pour les animaux de l’espèce bovine, les buffles et les bisons (double marque auriculaire)</td><td>5.40</td></tr>
 <tr><td>1.1.2 pour les animaux des espèces ovine et caprine</td><td></td></tr>
-<tr><td>1.1.2.1 double marque auriculaire sans puce électronique</td><td>–.75</td></tr>
-<tr><td>1.1.2.2 double marque auriculaire avec puce électronique</td><td>1.75</td></tr>
-<tr><td>1.1.2.3 marque auriculaire simple pour identification complémentaire, sans puce électronique</td><td>–.25</td></tr>
-<tr><td>1.1.2.4 marque auriculaire simple pour identification complémentaire, avec puce électronique</td><td>1.25</td></tr>
-<tr><td>1.1.2.5 double marque auriculaire sans puce électronique pour races de petite taille</td><td>2.10</td></tr>
-<tr><td>1.1.2.6 double marque auriculaire avec puce électronique pour races de petite taille</td><td>3.10</td></tr>
-<tr><td>1.1.3 pour les animaux de l’espèce porcine</td><td>–.25</td></tr>
-<tr><td>1.1.4 pour le gibier de l’ordre des artiodactyles détenu en enclos</td><td>–.25</td></tr>
-<tr><td>1.2 remplacement de marques auriculaires, le délai de livraison étant de cinq jours ouvrables, par pièce:</td><td></td></tr>
-<tr><td>1.2.1 marque auriculaire sans puce électronique pour les animaux des espèces bovine, ovine et caprine, les buffles et les bisons</td><td>1.80</td></tr>
-<tr><td>1.2.2 marque auriculaire avec puce électronique pour les animaux des espèces ovine et caprine</td><td>2.80</td></tr>
-<tr><td>1.3 frais de port, par envoi</td><td></td></tr>
+<tr><td>1.1.2.1 double marque auriculaire sans puce électronique</td><td>1.50</td></tr>
+<tr><td>1.1.2.2 double marque auriculaire avec puce électronique</td><td>2.50</td></tr>
+<tr><td>1.1.2.3 marque auriculaire simple pour identification complémentaire, sans puce électronique</td><td>–.50</td></tr>
+<tr><td>1.1.2.4 marque auriculaire simple pour identification complémentaire, avec puce électronique</td><td>1.50</td></tr>
+<tr><td>1.1.2.5 double marque auriculaire sans puce électronique pour races de petite taille</td><td>3.50</td></tr>
+<tr><td>1.1.2.6 double marque auriculaire avec puce électronique pour races de petite taille</td><td>4.50</td></tr>
+<tr><td>1.1.3 pour les animaux de l’espèce porcine</td><td>–.35</td></tr>
+<tr><td>1.1.4 pour le gibier de l’ordre des artiodactyles détenu en enclos</td><td>–.35</td></tr>
+<tr><td>1.2 Remplacement de marques auriculaires, le délai de livraison étant de cinq jours ouvrables, par pièce:</td><td></td></tr>
+<tr><td>1.2.1 marques auriculaires sans puce électronique pour les animaux de l’espèce bovine, les buffles et les bisons, ainsi que les animaux des espèces ovine et caprine</td><td>2.80</td></tr>
+<tr><td>1.2.2 marques auriculaires avec puce électronique pour les animaux des espèces ovine et caprine</td><td>3.80</td></tr>
+<tr><td>1.3 Frais de port, par envoi:</td><td></td></tr>
 <tr><td>1.3.1 forfait</td><td>1.50</td></tr>
 <tr><td>1.3.2 port</td><td>selon le tarif postal</td></tr>
 <tr><td>1.3.3 supplément pour l’expédition dans un délai de 24 heures</td><td>7.50</td></tr>
 <tr><td>2 Enregistrement d’équidés</td><td></td></tr>
-<tr><td>2.1 Enregistrement d’un équidé</td><td>28.50</td></tr>
-<tr><td>2.2 Enregistrement ultérieur d’un équidé né ou importé une première fois avant le 1<sup>er</sup> janvier 2011</td><td>43.–</td></tr>
+<tr><td>2.1 Enregistrement d’un équidé</td><td>42.50</td></tr>
+<tr><td>2.2 Enregistrement ultérieur d’un équidé né ou importé une première fois avant le 1<sup>er</sup> janvier 2011</td><td>65.–</td></tr>
 <tr><td>3 Notification d’animaux abattus</td><td></td></tr>
 <tr><td>Notification d’un animal abattu:</td><td></td></tr>
-<tr><td>3.1 de l’espèce bovine, buffles et bisons</td><td>3.60</td></tr>
-<tr><td>3.2 des espères ovine et caprine</td><td>–.40</td></tr>
-<tr><td>3.3 de l’espèce porcine</td><td>–.07</td></tr>
-<tr><td>3.4 appartenant à la famille des équidés</td><td>3.60</td></tr>
-<tr><td>4 Notifications manquantes ou indications insuffisantes</td><td></td></tr>
-<tr><td>4.1 Concernant les animaux de l’espèce bovine, les buffles et les bisons: notification manquante selon l’art. 16</td><td>5.–</td></tr>
-<tr><td>4.2 Concernant les animaux des espèces ovine et caprine: notification manquante selon l’art. 17</td><td>2.–</td></tr>
-<tr><td>4.3 Concernant les animaux de l’espèce porcine: notification manquante selon l’art. 18</td><td>5.–</td></tr>
-<tr><td>4.4 Concernant les équidés:</td><td></td></tr>
-<tr><td>4.4.1 notification manquante selon l’art. 19, al. 1, 2, 4 et 5</td><td>5.–</td></tr>
-<tr><td>4.4.2 notification manquante au sujet de la naissance ou de la première importation d’équidés nés ou importés pour la première fois après le 1<sup>er</sup> janvier 2011</td><td>10.–</td></tr>
+<tr><td>3.1 de l’espèce bovine, buffles et bisons</td><td>5.40</td></tr>
+<tr><td>3.2 des espèces ovine et caprine</td><td>–.60</td></tr>
+<tr><td>3.3 de l’espèce porcine</td><td>–.12</td></tr>
+<tr><td>3.4 appartenant à la famille des équidés</td><td>5.40</td></tr>
+<tr><td>4 Notifications manquantes</td><td></td></tr>
+<tr><td>4.1 Concernant les animaux de l’espèce bovine, les buffles et les bisons: notification manquante selon l’art. 16</td><td>7.50</td></tr>
+<tr><td>4.2 Concernant les animaux des espèces ovine et caprine: notification manquante selon l’art. 17</td><td>3.–</td></tr>
+<tr><td>4.3 Concernant les animaux de l’espèce porcine: notification manquante selon l’art. 18</td><td>7.50</td></tr>
+<tr><td>4.4 Concernant les équidés: notification manquante selon l’art. 19</td><td>15.–</td></tr>
 <tr><td>5 Remise de données</td><td></td></tr>
-<tr><td>5.1 Liste des numéros d’identification des animaux d’une unité; forfait par année civile, unité d’élevage et genre animal; les émoluments inférieurs à 20 francs par année civile ne sont pas facturés.</td><td>2.–</td></tr>
-<tr><td>6 Frais de rappel</td><td></td></tr>
-<tr><td>Frais de rappel par paiement dû</td><td>20.–</td></tr>
+<tr><td>Liste des numéros d’identification des animaux d’un effectif: forfait par année civile, unité d’élevage et genre animal; les émoluments inférieurs à 20 francs par année civile ne sont pas facturés</td><td>3.–</td></tr>
+<tr><td>6 Saisie de nouvelles organisations</td><td></td></tr>
+<tr><td>Saisie d’une nouvelle organisation d’élevage, de producteurs ou de production sous label, ou d’un nouveau service sanitaire</td><td>250.–</td></tr>
+<tr><td>7 Frais de rappel</td><td></td></tr>
+<tr><td>Frais de rappel par paiement dû</td><td>30.–</td></tr>
 </table>
 
 Annexe 3

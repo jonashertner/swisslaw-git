@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Juni 2022)
+vom 3. November 2021 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -380,15 +380,19 @@ Die Identitas AG prüft die Daten nach den Artikeln 16–21 auf ihre Vollständi
 
 **Berichtigung von Daten**
 
-<sup>1</sup> Die meldepflichtigen Personen und die beauftragten Personen können die von ihnen übermittelten Daten innerhalb von 10 Tagen online löschen, mit Ausnahme der Änderung des Verwendungszwecks bei Equiden nach Anhang 1 Ziffer 4 Buchstabe f.
+<sup>1</sup> Die meldepflichtigen Personen und die beauftragten Personen können die von ihnen übermittelten Daten innerhalb von 10 Tagen online ändern oder löschen, mit Ausnahme der Änderung des Verwendungszwecks bei Equiden nach Anhang 1 Ziffer 4 Buchstabe f.[^25-1]
 
 <sup>2</sup> Schlachtbetriebe können die TVD-Nummer der Gesuchstellerin oder des Gesuchstellers nach Anhang 1 Ziffer 1 Buchstabe e Ziffer 7, Ziffer 2 Buchstabe e Ziffer 7 sowie Ziffer 4 Buchstabe j Ziffer 5 bis 30 Tage nach der Schlachtung online ändern.
 
 <sup>3</sup> Die meldepflichtigen Personen und die beauftragten Personen können bei der Identitas AG bis 1 Jahr nach dem Tod eines Tiers telefonisch oder schriftlich eine Berichtigung der von ihnen übermittelten Daten beantragen.
 
-<sup>4</sup> Für die Berichtigung von Daten nach Anhang 1 Ziffer 1 Buchstaben c–e, Ziffer 2 Buchstaben c–e sowie Ziffer 3 Buchstaben b und c sind die Begleitdokumente nach Artikel 12 TSV[^25-1] einzureichen.
+<sup>4</sup> Für die Berichtigung von Daten nach Anhang 1 Ziffer 1 Buchstaben c–e, Ziffer 2 Buchstaben c–e sowie Ziffer 3 Buchstaben b und c sind die Begleitdokumente nach Artikel 12 TSV[^25-2] einzureichen.
 
-[^25-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+<sup>5</sup> Die kantonalen Stellen, die für den Vollzug der Tierseuchengesetzgebung zuständig sind, können bei der Identitas AG telefonisch oder schriftlich eine Berichtigung von Daten nach Anhang 1 beantragen.[^25-3]
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^25-3]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -418,12 +422,13 @@ Sie übermittelt der Organisation der Arbeitswelt Pferdeberufe für die Erhebung
 - a. die TVD-Nummer der Tierhaltung;
 - b. Name, Adresse, E-Mail-Adresse und Telefonnummer der Tierhalterin oder des Tierhalters;
 - c. die Anzahl Equiden, die in der Tierhaltung stehen;
-- d. die Anzahl Equiden mit einem Alter über 195 Tage, die in der Tierhaltung stehen;
+- d.[^27-4] die Anzahl Equiden mit einem Alter von über 3 Jahren, die in der Tierhaltung stehen;
 - e. die Anzahl Equiden, bei denen die Eigentümerin oder der Eigentümer den Wechsel der Tierhaltung nicht gemeldet hat.
 
 [^27-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^27-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^27-3]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^27-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -492,7 +497,7 @@ Jede Person kann in folgende Daten Einsicht nehmen und sie verwenden:
 
   - 1\. bei landwirtschaftlichen Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^33-1] (LBV): die Gebietszugehörigkeit,
   - 2\. bei Tierhaltungen mit Tieren der Rindergattung, Büffeln oder Bisons: den BVD-Status,
-  - 3\.[^33-2] …;
+  - 3\.[^33-2] bei Tierhaltungen mit Tieren der Schafgattung: den Moderhinkestatus;
 
 - c.
 
@@ -507,7 +512,7 @@ Jede Person kann in folgende Daten Einsicht nehmen und sie verwenden:
 <sup>2</sup> Die TVD-Nummer der Tierhaltung dient als Schlüssel für die Einsichtnahme in die Daten nach Absatz 1 Buchstabe b. Die Identifikationsnummer des Tiers oder die Mikrochipnummer des Tiers dienen als Schlüssel für die Einsichtnahme in die Daten nach Absatz 1 Buchstabe c. Die Benutzerin oder der Benutzer beschafft die Schlüssel selber.
 
 [^33-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^33-2]: Tritt am 1. Januar 2023 in Kraft (Art. 69 Abs. 3).
+[^33-2]: In Kraft seit 1. Jan. 2023 in Kraft (Art. 69 Abs. 3).
 [^33-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 
 #### Art. 34
@@ -571,11 +576,13 @@ Die beauftragten Personen nach Artikel 23 können in die gleichen Daten der TVD 
 
 #### Art. 39
 
-**Dritte**
+**Dritte**[^39-1]
 
-<sup>1</sup> Das BLW kann auf Gesuch hin Dritten erlauben, für Zuchtzwecke oder wissenschaftliche Untersuchungszwecke in Daten Einsicht zu nehmen und sie zu verwenden, sofern die Abnehmerin oder der Abnehmer sich schriftlich zur Einhaltung der Datenschutzbestimmungen verpflichtet.
+<sup>1</sup> Die Identitas AG kann auf Gesuch hin Dritten erlauben, für Zuchtzwecke oder wissenschaftliche Untersuchungszwecke in Daten Einsicht zu nehmen und sie zu verwenden. Sie entscheidet im Einvernehmen mit dem BLW.
 
-<sup>2</sup> Für die Einsicht in nicht anonymisierte Daten und deren Verwendung muss die Identitas AG einen Vertrag mit der Drittperson schliessen. Der Vertrag ist vor der Unterzeichnung dem BLW zur Genehmigung vorzulegen.
+<sup>2</sup> Beinhaltet das Gesuch nicht anonymisierte Daten oder sind durch die Gesamtheit der verfügbaren Daten Rückschlüsse auf betroffene Personen möglich, so muss die Identitas AG einen Vertrag mit der Drittperson schliessen. Der Vertrag ist vor der Unterzeichnung dem BLW zur Genehmigung vorzulegen.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 40
 
@@ -736,13 +743,17 @@ Das E-Transit kann folgende Daten aus anderen Informationssystemen beziehen:
 
 <sup>2</sup> Tierhalterinnen und Tierhalter, Transporteure und Tierhandelsunternehmen können elektronische Begleitdokumente einsehen, verwenden und während der Gültigkeitsdauer des Begleitdokuments nach Artikel 12*a* TSV[^54-1] ergänzen.
 
-<sup>3</sup> Zur Erfüllung ihrer Aufgaben können das BLW, das BLV und die zuständigen kantonalen Stellen der Tierseuchen-, der Landwirtschafts-, der Tierschutz- und der Lebensmittelgesetzgebung die elektronischen Begleitdokumente einsehen und sie verwenden.
+<sup>3</sup> …[^54-2]
 
 <sup>4</sup> Polizeiorgane sowie Kontrollorgane, die im Auftrag von Dritten Tiertransporte kontrollieren, können beim BLW einen Zugriff auf das E-Transit beantragen. Nach Bewilligung des Gesuchs können sie die elektronischen Begleitdokumente einsehen und diese verwenden.
 
 <sup>5</sup> Die Identifikationsnummer nach Artikel 51 dient als Schlüssel für die Einsichtnahme in das elektronische Begleitdokument. Die Benutzerin oder der Benutzer beschafft die Schlüssel selber.
 
+<sup>6</sup> Das BLW, das BLV und die kantonalen Stellen, die für den Vollzug der Tierseuchen-, der Landwirtschafts-, der Tierschutz-, der Lebensmittel- und der Heilmittelgesetzgebung zuständig sind, können zur Erfüllung ihrer Aufgaben die elektronischen Begleitdokumente einsehen, verwenden und während der Gültigkeitsdauer des Begleitdokuments nach Artikel 12*a* TSV ergänzen.[^54-3]
+
 [^54-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^54-2]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^54-3]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 55
 
@@ -912,11 +923,13 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 3 geregelt.
 
 <sup>3</sup> Artikel 33 Absatz 1 Buchstabe b Ziffer 3 tritt am 1. Januar 2023 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
-(Art. 11 Abs. 1 Bst. e und f, 16–19, 21, 23 Abs. 1, 25 Abs. 1, 2 und 4, 27 Abs. 2 Bst. b, 35 Abs. 1 Bst. f und g, 45 Bst. b, 46 und 68 Abs. 2)
+(Art. 11 Abs. 1 Bst. e und f, 16–19, 21, 23 Abs. 1, 25 Abs. 1, 2 und 4, 27 Abs. 2 Bst. b, 35 Abs. 1 Bst. f und g, 45 Bst. b, 46 sowie 68 Abs. 2)
 
 ## An die TVD zu übermittelnde Daten
+
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 ### 1. Daten zu Tieren der Rindergattung, Büffeln und Bisons
 
@@ -1039,7 +1052,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
   - 1\. die TVD-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers sowie des Mutter- und, falls vorhanden, des Vatertiers,
   - 3\. das Geburtsdatum des Tiers,
-  - 4\. die Rasse, die Farbe und das Geschlecht des Tiers,
+  - 4\. die Rasse und das Geschlecht des Tiers sowie bei Tieren der Schafgattung die Farbe,
   - 5\. Mehrlingsgeburten,
   - 6\. das Datum der Meldung;
 
@@ -1051,7 +1064,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
   - 2\. die TVD-Nummer der Tierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\. das Geburtsdatum des Tiers,
-  - 5\. die Rasse, die Farbe und das Geschlecht des Tiers,
+  - 5\. die Rasse und das Geschlecht des Tiers sowie bei Tieren der Schafgattung die Farbe,
   - 6\.
 
     bei Muttertieren: die Nutzungsart:
@@ -1389,53 +1402,55 @@ Zu Hausgeflügel sind folgende Daten zu übermitteln:
 - e. das Alter in Lebenswochen bei der Einstallung;
 - f. das Datum der Meldung.
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 62 Abs. 2 und 3)
 
 ## Gebühren
 
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+
 <table>
 <tr><th></th><th>Franken</th></tr>
 <tr><td>1 Lieferung von Ohrmarken</td><td></td></tr>
 <tr><td>1.1 Ohrmarken mit einer Lieferfrist von drei Wochen, pro Stück:</td><td></td></tr>
-<tr><td>1.1.1 für Tiere der Rindergattung, Büffel und Bisons: Doppelohrmarke</td><td>3.60</td></tr>
+<tr><td>1.1.1 für Tiere der Rindergattung, Büffel und Bisons: Doppelohrmarke</td><td>5.40</td></tr>
 <tr><td>1.1.2 für Tiere der Schaf- und der Ziegengattung:</td><td></td></tr>
-<tr><td>1.1.2.1 Doppelohrmarke ohne Mikrochip</td><td>–.75</td></tr>
-<tr><td>1.1.2.2 Doppelohrmarke mit Mikrochip</td><td>1.75</td></tr>
-<tr><td>1.1.2.3 Einzelohrmarke zur Nachkennzeichnung ohne Mikrochip</td><td>–.25</td></tr>
-<tr><td>1.1.2.4 Einzelohrmarke zur Nachkennzeichnung mit Mikrochip</td><td>1.25</td></tr>
-<tr><td>1.1.2.5 Doppelohrmarke für Kleinrassen ohne Mikrochip</td><td>2.10</td></tr>
-<tr><td>1.1.2.6 Doppelohrmarke für Kleinrassen mit Mikrochip</td><td>3.10</td></tr>
-<tr><td>1.1.3 für Tiere der Schweinegattung</td><td>–.25</td></tr>
-<tr><td>1.1.4 für in Gehege gehaltenes Wild der Ordnung Paarhufer</td><td>–.25</td></tr>
+<tr><td>1.1.2.1 Doppelohrmarke ohne Mikrochip</td><td>1.50</td></tr>
+<tr><td>1.1.2.2 Doppelohrmarke mit Mikrochip</td><td>2.50</td></tr>
+<tr><td>1.1.2.3 Einzelohrmarke zur Nachkennzeichnung ohne Mikrochip</td><td>–.50</td></tr>
+<tr><td>1.1.2.4 Einzelohrmarke zur Nachkennzeichnung mit Mikrochip</td><td>1.50</td></tr>
+<tr><td>1.1.2.5 Doppelohrmarke für Kleinrassen ohne Mikrochip</td><td>3.50</td></tr>
+<tr><td>1.1.2.6 Doppelohrmarke für Kleinrassen mit Mikrochip</td><td>4.50</td></tr>
+<tr><td>1.1.3 für Tiere der Schweinegattung</td><td>–.35</td></tr>
+<tr><td>1.1.4 für in Gehege gehaltenes Wild der Ordnung Paarhufer</td><td>–.35</td></tr>
 <tr><td>1.2 Ersatz von Ohrmarken mit einer Lieferfrist von fünf Arbeitstagen, pro Stück:</td><td></td></tr>
-<tr><td>1.2.1 Ohrmarken ohne Mikrochip für Tiere der Rindergattung, Büffel, Bisons sowie Tiere der Schaf- und der Ziegengattung</td><td>1.80</td></tr>
-<tr><td>1.2.2 Ohrmarken mit einem Mikrochip für Tiere der Schaf- und der Ziegengattung</td><td>2.80</td></tr>
+<tr><td>1.2.1 Ohrmarken ohne Mikrochip für Tiere der Rindergattung, Büffel, Bisons sowie Tiere der Schaf- und der Ziegengattung</td><td>2.80</td></tr>
+<tr><td>1.2.2 Ohrmarken mit Mikrochip für Tiere der Schaf- und der Ziegengattung</td><td>3.80</td></tr>
 <tr><td>1.3 Kosten für den Versand, pro Sendung:</td><td></td></tr>
 <tr><td>1.3.1 Pauschale</td><td>1.50</td></tr>
 <tr><td>1.3.2 Porto</td><td>nach Posttarif</td></tr>
 <tr><td>1.3.3 Zuschlag für die Zustellung innerhalb von 24 Stunden</td><td>7.50</td></tr>
 <tr><td>2 Registrierung von Equiden</td><td></td></tr>
-<tr><td>2.1 Registrierung eines Equiden</td><td>28.50</td></tr>
-<tr><td>2.2 Nachregistrierung eines Equiden, der vor dem 1. Januar 2011 geboren oder erstmalig eingeführt worden ist</td><td>43.–</td></tr>
+<tr><td>2.1 Registrierung eines Equiden</td><td>42.50</td></tr>
+<tr><td>2.2 Nachregistrierung eines Equiden, der vor dem 1. Januar 2011 geboren oder erstmalig eingeführt worden ist</td><td>65.–</td></tr>
 <tr><td>3 Meldung geschlachteter Tiere</td><td></td></tr>
 <tr><td>Meldung eines geschlachteten Tiers:</td><td></td></tr>
-<tr><td>3.1 bei Tieren der Rindergattung, Büffeln und Bisons</td><td>3.60</td></tr>
-<tr><td>3.2 bei Tieren der Schaf- und der Ziegengattung</td><td>–.40</td></tr>
-<tr><td>3.3 bei Tieren der Schweinegattung</td><td>–.07</td></tr>
-<tr><td>3.4 bei Equiden</td><td>3.60</td></tr>
-<tr><td>4 Fehlende Meldungen oder mangelhafte Angaben</td><td></td></tr>
-<tr><td>4.1 Bei Tieren der Rindergattung, Büffeln und Bisons: fehlende Meldung nach Artikel 16</td><td>5.–</td></tr>
-<tr><td>4.2 Bei Tieren der Schaf- und der Ziegengattung: fehlende Meldung nach Artikel 17</td><td>2.–</td></tr>
-<tr><td>4.3 Bei Tieren der Schweinegattung: fehlende Meldung nach Artikel 18</td><td>5.–</td></tr>
-<tr><td>4.4 Bei Equiden:</td><td></td></tr>
-<tr><td>4.4.1 fehlende Meldung nach Artikel 19 Absätze 1, 2, 4 und 5</td><td>5.–</td></tr>
-<tr><td>4.4.2 fehlende Meldung über die Geburt oder die erstmalige Einfuhr von Equiden, die ab dem 1. Januar 2011 geboren oder erstmalig eingeführt worden sind</td><td>10.–</td></tr>
+<tr><td>3.1 bei Tieren der Rindergattung, Büffeln und Bisons</td><td>5.40</td></tr>
+<tr><td>3.2 bei Tieren der Schaf- und der Ziegengattung</td><td>–.60</td></tr>
+<tr><td>3.3 bei Tieren der Schweinegattung</td><td>–.12</td></tr>
+<tr><td>3.4 bei Equiden</td><td>5.40</td></tr>
+<tr><td>4 Fehlende Meldungen</td><td></td></tr>
+<tr><td>4.1 Bei Tieren der Rindergattung, Büffeln und Bisons: fehlende Meldung nach Artikel 16</td><td>7.50</td></tr>
+<tr><td>4.2 Bei Tieren der Schaf- und der Ziegengattung: fehlende Meldung nach Artikel 17</td><td>3.–</td></tr>
+<tr><td>4.3 Bei Tieren der Schweinegattung: fehlende Meldung nach Artikel 18</td><td>7.50</td></tr>
+<tr><td>4.4 Bei Equiden: fehlende Meldung nach Artikel 19</td><td>15.–</td></tr>
 <tr><td>5 Datenabgabe</td><td></td></tr>
-<tr><td>5.1 Auflistung der Identifikationsnummern der Tiere eines Tierbestands: Pauschale pro Kalenderjahr, Tierhaltung und Tiergattung; die Gebühren werden bis zu einem Gesamtbetrag von weniger als 20 Franken pro Kalenderjahr nicht in Rechnung gestellt</td><td>2.–</td></tr>
-<tr><td>6 Mahngebühren</td><td></td></tr>
-<tr><td>Mahngebühr pro ausstehende Zahlung</td><td>20.–</td></tr>
+<tr><td>Auflistung der Identifikationsnummern der Tiere eines Tierbestands: Pauschale pro Kalenderjahr, Tierhaltung und Tiergattung; die Gebühren werden bis zu einem Gesamtbetrag von weniger als 20 Franken pro Kalenderjahr nicht in Rechnung gestellt</td><td>3.–</td></tr>
+<tr><td>6 Erfassung neuer Organisationen</td><td></td></tr>
+<tr><td>Erfassung einer neuen Zucht-, Produzenten- oder Labelorganisation oder eines neuen Tiergesundheitsdienstes</td><td>250.–</td></tr>
+<tr><td>7 Mahngebühren</td><td></td></tr>
+<tr><td>Mahngebühr pro ausstehende Zahlung</td><td>30.–</td></tr>
 </table>
 
 Anhang 3
@@ -1455,11 +1470,8 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-### 1.–12.
+…[^annex3-lvlu1-3]
 
 [^annex3-lvlu1-1]: [[AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)Anhang Ziff. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)Art. 20 Ziff. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)Anhang Ziff. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)Ziff. I; [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)Anhang 4 Ziff. 9; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)Anhang Ziff. 1]
 [^annex3-lvlu1-2]: [[AS 2015 4577](https://fedlex.data.admin.ch/eli/oc/2015/771); [2017 6153](https://fedlex.data.admin.ch/eli/oc/2017/681); [2018 2091](https://fedlex.data.admin.ch/eli/oc/2018/294), [4697](https://fedlex.data.admin.ch/eli/oc/2018/744); [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)Ziff. II; [2020 5757](https://fedlex.data.admin.ch/eli/oc/2020/966)]
-
-…[^annex3-lvlu1-lvlu1-1]
-
-[^annex3-lvlu1-lvlu1-1]: Die Änderungen können unter [AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)konsultiert werden.
+[^annex3-lvlu1-3]: Die Änderungen können unter [AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)konsultiert werden.

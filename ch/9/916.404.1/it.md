@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20220601/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° giugno 2022)
+del 3 novembre 2021 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -380,15 +380,19 @@ Identitas AG verifica la completezza e la plausibilità dei dati di cui agli art
 
 **Rettifica dei dati**
 
-<sup>1</sup> Le persone soggette all’obbligo di notifica e i terzi incaricati possono cancellare online entro 10 giorni i dati che hanno trasmesso, fatta eccezione per il cambiamento dello scopo d’utilizzo degli equidi di cui all’allegato 1 numero 4 lettera f.
+<sup>1</sup> Le persone soggette all’obbligo di notifica e i terzi incaricati possono modificare o cancellare online entro 10 giorni i dati che hanno trasmesso, fatta eccezione per il cambiamento dello scopo d’utilizzo degli equidi di cui all’allegato 1 numero 4 lettera f.[^25-1]
 
 <sup>2</sup> I macelli possono modificare online entro 30 giorni dalla macellazione il numero BDTA del richiedente di cui all’allegato 1 numeri 1 lettera e numero 7, 2 lettera e numero 7 nonché 4 lettera j numero 5.
 
 <sup>3</sup> Le persone soggette all’obbligo di notifica e i terzi incaricati possono chiedere telefonicamente o per scritto a Identitas AG, entro un anno dalla morte dell’animale, la rettifica dei dati che hanno trasmesso.
 
-<sup>4</sup> Le domande di rettifica dei dati di cui all’allegato 1 numeri 1 lettere c–e, 2 lettere c–e nonché 3 lettere b e c devono essere corredate dei certificati d’accompagnamento di cui all’articolo 12 OFE[^25-1].
+<sup>4</sup> Le domande di rettifica dei dati di cui all’allegato 1 numeri 1 lettere c–e, 2 lettere c–e nonché 3 lettere b e c devono essere corredate dei certificati d’accompagnamento di cui all’articolo 12 OFE[^25-2].
 
-[^25-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+<sup>5</sup> I servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie possono chiedere telefonicamente o per scritto a Identitas AG una rettifica dei dati di cui all’allegato 1.[^25-3]
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^25-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 26
 
@@ -418,12 +422,13 @@ Identitas AG trasmette all’organizzazione del mondo del lavoro «Mestieri lega
 - a. il numero BDTA dell’azienda detentrice di animali;
 - b. il nome, l’indirizzo, l’indirizzo e-mail e il numero di telefono del detentore di animali;
 - c. il numero di equidi che si trovano nell’azienda detentrice di animali;
-- d. il numero di equidi di età superiore a 195 giorni che si trovano nell’azienda detentrice di animali;
+- d.[^27-4] il numero di equidi di età superiore a 3 anni che si trovano nell’azienda detentrice di animali;
 - e. il numero di equidi per i quali il proprietario non ha notificato un cambiamento dell’azienda detentrice di animali.
 
 [^27-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^27-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^27-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -492,7 +497,7 @@ Chiunque può consultare e utilizzare i seguenti dati:
 
   - 1\. per le aziende agricole detentrici di animali di cui all’articolo 11 dell’ordinanza del 7 dicembre 1998[^33-1] sulla terminologia agricola (OTerm): l’appartenenza territoriale,
   - 2\. per le aziende detentrici di animali della specie bovina, di bufali o di bisonti: lo stato BVD,
-  - 3\.[^33-2] ...
+  - 3\.[^33-2] per le aziende detentrici di animali della specie ovina: lo stato riguardo alla zoppina;
 
 - c.
 
@@ -571,11 +576,13 @@ I terzi incaricati di cui all’articolo 23 possono consultare e utilizzare gli 
 
 #### Art. 39
 
-**Terzi**
+**Terzi**[^39-1]
 
-<sup>1</sup> Su richiesta, l’UFAG può autorizzare terzi a consultare e utilizzare dati a fini zootecnici o di ricerca scientifica, sempre che gli stessi si impegnino per scritto a osservare le disposizioni sulla protezione dei dati.
+<sup>1</sup> Su richiesta, Identitas AG può autorizzare terzi a consultare e utilizzare dati a fini zootecnici o di ricerca scientifica. Decide d’intesa con l’UFAG.
 
-<sup>2</sup> Se la consultazione e l’utilizzo vertono su dati non anonimizzati, Identitas AG deve concludere un contratto con il terzo. Il contratto va sottoposto per approvazione all’UFAG prima della firma.
+<sup>2</sup> Se la domanda comprende dati non anonimizzati o se attraverso tutti i dati disponibili è possibile risalire a persone interessate, Identitas AG deve concludere un contratto con il terzo. Il contratto va sottoposto per approvazione all’UFAG prima della firma.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 40
 
@@ -736,13 +743,17 @@ eTransit può acquisire i seguenti dati dai sistemi d’informazione indicati qu
 
 <sup>2</sup> I detentori di animali, i trasportatori e le imprese del commercio di animali possono consultare e utilizzare i certificati d’accompagnamento elettronici; durante la loro durata di validità secondo l’articolo 12*a* OFE[^54-1] possono completarli.
 
-<sup>3</sup> Per svolgere i loro compiti, l’UFAG, l’USAV e i servizi cantonali competenti secondo la legislazione in materia di epizoozie, di agricoltura, di protezione degli animali e di derrate alimentari possono consultare e utilizzare i certificati d’accompagnamento elettronici.
+<sup>3</sup> ...[^54-2]
 
 <sup>4</sup> Gli organi di polizia, come pure gli organi di controllo che controllano il trasporto di animali su incarico di terzi, possono chiedere all’UFAG l’accesso a eTransit. Dopo l’approvazione della domanda, possono consultare e utilizzare i certificati d’accompagnamento elettronici.
 
 <sup>5</sup> Il numero d’identificazione di cui all’articolo 51 funge da codice per la consultazione del certificato d’accompagnamento elettronico. L’utente deve procurarsi autonomamente tale codice.
 
+<sup>6</sup> Per svolgere i loro compiti, l’UFAG, l’USAV e i servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie, di agricoltura, di protezione degli animali, di derrate alimentari e di agenti terapeutici possono consultare e utilizzare i certificati d’accompagnamento elettronici nonché completarli durante la loro durata di validità secondo l’articolo 12*a* OFE.[^54-3]
+
 [^54-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^54-2]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^54-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 55
 
@@ -912,11 +923,13 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>3</sup> L’articolo 33 capoverso 1 lettera b numero 3 entra in vigore il 1° gennaio 2023.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 11 cpv. 1 lett. e ed f, 16–19, 21, 23 cpv. 1, 25 cpv. 1, 2 e 4, 27 cpv. 2 lett. b, 35 cpv. 1 lett. f e g, 45 lett. b, 46 e 68 cpv. 2)
 
 ## Dati da trasmettere alla BDTA
+
+[^t-1]: Aggiornato dal n. II 1 dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 ### 1. Dati concernenti gli animali della specie bovina, i bufali e i bisonti
 
@@ -1039,7 +1052,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
   - 1\. numero BDTA dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale, nonché della madre e, se disponibile, del padre,
   - 3\. data di nascita dell’animale,
-  - 4\. razza e sesso dell’animale,
+  - 4\. razza e sesso dell’animale nonché colore per animali della specie ovina,
   - 5\. parti gemellari,
   - 6\. data della notifica;
 
@@ -1051,7 +1064,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
   - 2\. numero BDTA dell’azienda detentrice di animali,
   - 3\. numero d’identificazione dell’animale,
   - 4\. data di nascita dell’animale,
-  - 5\. razza, colore e sesso dell’animale,
+  - 5\. razza e sesso dell’animale nonché colore per animali della specie ovina,
   - 6\.
 
     per una madre, il tipo di utilizzazione:
@@ -1389,53 +1402,54 @@ Per il pollame da cortile devono essere trasmessi i seguenti dati:
 - e. età in settimane di vita all’inizio della stabulazione;
 - f. data della notifica.
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 62 cpv. 2 e 3)
 
 ## Emolumenti
 
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+
 <table>
 <tr><th></th><th>Franchi</th></tr>
 <tr><td>1 Fornitura di marche auricolari</td><td></td></tr>
 <tr><td>1.1 Marche auricolari con un termine di consegna di tre settimane, per esemplare:</td><td></td></tr>
-<tr><td>1.1.1 per animali della specie bovina, bufali e bisonti: marca auricolare doppia</td><td>3.60</td></tr>
+<tr><td>1.1.1 per animali della specie bovina, bufali e bisonti: marca auricolare doppia</td><td>5.40</td></tr>
 <tr><td>1.1.2 per animali delle specie ovina e caprina:</td><td></td></tr>
-<tr><td>1.1.2.1 marca auricolare doppia senza microchip</td><td>–.75</td></tr>
-<tr><td>1.1.2.2 marca auricolare doppia con microchip</td><td>1.75</td></tr>
-<tr><td>1.1.2.3 marca auricolare singola per marchiatura complementare senza microchip</td><td>–.25</td></tr>
-<tr><td>1.1.2.4 marca auricolare singola per marchiatura complementare con microchip</td><td>1.25</td></tr>
-<tr><td>1.1.2.5 marca auricolare doppia per razze di piccola taglia senza microchip</td><td>2.10</td></tr>
-<tr><td>1.1.2.6 marca auricolare doppia per razze di piccola taglia con microchip</td><td>3.10</td></tr>
-<tr><td>1.1.3 per animali della specie suina</td><td>–.25</td></tr>
-<tr><td>1.1.4 per la selvaggina dell’ordine degli artiodattili tenuta in parchi</td><td>–.25</td></tr>
+<tr><td>1.1.2.1 marca auricolare doppia senza microchip</td><td>1.50</td></tr>
+<tr><td>1.1.2.2 marca auricolare doppia con microchip</td><td>2. 50</td></tr>
+<tr><td>1.1.2.3 marca auricolare singola per marchiatura complementare senza microchip</td><td>0.50</td></tr>
+<tr><td>1.1.2.4 marca auricolare singola per marchiatura complementare con microchip</td><td>1.50</td></tr>
+<tr><td>1.1.2.5 marca auricolare doppia per razze di piccola taglia senza microchip</td><td>3.50</td></tr>
+<tr><td>1.1.2.6 marca auricolare doppia per razze di piccola taglia con microchip</td><td>4.50</td></tr>
+<tr><td>1.1.3 per animali della specie suina</td><td>0.35</td></tr>
+<tr><td>1.1.4 per la selvaggina dell’ordine degli artiodattili tenuta in parchi</td><td>0.35</td></tr>
 <tr><td>1.2 Sostituzione di marche auricolari, con un termine di consegna di cinque giorni feriali, per esemplare:</td><td></td></tr>
-<tr><td>1.2.1 marche auricolari senza microchip per animali delle specie bovina, bufali e bisonti nonché per animali delle specie ovina e caprina</td><td>1.80</td></tr>
-<tr><td>1.2.2 marche auricolari con microchip per animali delle specie ovina e caprina</td><td>2.80</td></tr>
+<tr><td>1.2.1 marche auricolari senza microchip per animali delle specie bovina, bufali, bisonti nonché delle specie ovina e caprina</td><td>2.80</td></tr>
+<tr><td>1.2.2 marche auricolari con microchip per animali delle specie ovina e caprina</td><td>3.80</td></tr>
 <tr><td>1.3 Spese di spedizione, per invio:</td><td></td></tr>
 <tr><td>1.3.1 costi forfettari</td><td>1.50</td></tr>
 <tr><td>1.3.2 spese di spedizione</td><td>secondo la tariffa postale</td></tr>
 <tr><td>1.3.3 supplemento per la spedizione entro 24 ore</td><td>7.50</td></tr>
 <tr><td>2 Registrazione di equidi</td><td></td></tr>
-<tr><td>2.1 Registrazione di un equide</td><td>28.50</td></tr>
-<tr><td>2.2 Registrazione a posteriori di un equide nato o importato per la prima volta prima del 1° gennaio 2011</td><td>43.–</td></tr>
+<tr><td>2.1 Registrazione di un equide</td><td>42.50</td></tr>
+<tr><td>2.2 Registrazione a posteriori di un equide nato o importato per la prima volta prima del 1° gennaio 2011</td><td>65.00</td></tr>
 <tr><td>3 Notifica di animali macellati</td><td></td></tr>
 <tr><td>Notifica della macellazione di un animale:</td><td></td></tr>
-<tr><td>3.1 animali della specie bovina, bufali e bisonti</td><td>3.60</td></tr>
-<tr><td>3.2 animali delle specie ovina e caprina</td><td>–.40</td></tr>
-<tr><td>3.3 animali della specie suina</td><td>–.07</td></tr>
-<tr><td>3.4 equidi</td><td>3.60</td></tr>
-<tr><td>4 Mancate notifiche o indicazioni lacunose</td><td></td></tr>
-<tr><td>4.1 Animali della specie bovina, bufali e bisonti: mancata notifica dei dati di cui all’articolo 16</td><td>5.–</td></tr>
-<tr><td>4.2 Animali delle specie ovina e caprina: mancata notifica dei dati di cui all’articolo 17</td><td>2.–</td></tr>
-<tr><td>4.3 Animali della specie suina: mancata notifica dei dati di cui all’articolo 18</td><td>5.–</td></tr>
-<tr><td>4.4 Equidi:</td><td></td></tr>
-<tr><td>4.4.1 mancata notifica dei dati di cui all’articolo 19 capoversi 1, 2, 4 e 5</td><td>5.–</td></tr>
-<tr><td>4.4.2 mancata notifica della nascita o della prima importazione di equidi nati o importati per la prima volta dopo il 1° gennaio 2011</td><td>10.–</td></tr>
+<tr><td>3.1 animali della specie bovina, bufali e bisonti</td><td>5.40</td></tr>
+<tr><td>3.2 animali delle specie ovina e caprina</td><td>0.60</td></tr>
+<tr><td>3.3 animali della specie suina</td><td>0.12</td></tr>
+<tr><td>3.4 equidi</td><td>5.40</td></tr>
+<tr><td>4 Mancate notifiche</td><td></td></tr>
+<tr><td>4.1 Animali della specie bovina, bufali e bisonti: mancata notifica dei dati di cui all’articolo 16</td><td>7.50</td></tr>
+<tr><td>4.2 Animali delle specie ovina e caprina: mancata notifica dei dati di cui all’articolo 17</td><td>3.00</td></tr>
+<tr><td>4.3 Animali della specie suina: mancata notifica dei dati di cui all’articolo 18</td><td>7.50</td></tr>
+<tr><td>4.4 Equidi: mancata notifica dei dati di cui all’articolo 19</td><td>15.00</td></tr>
 <tr><td>5 Consegna di dati</td><td></td></tr>
-<tr><td>5.1 Elenco dei numeri d’identificazione degli animali di un effettivo; costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile</td><td>2.–</td></tr>
-<tr><td>6 Emolumenti per solleciti</td><td></td></tr>
-<tr><td>Sollecito per ogni mancato pagamento</td><td>20.–</td></tr>
+<tr><td>Elenco dei numeri d’identificazione degli animali di un effettivo: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile</td><td>3.00</td></tr>
+<tr><td>6 Registrazione di nuove organizzazioni Registrazione di una nuova organizzazione di allevamento, di produttori o di produzione con label oppure di un servizio di sanità animale</td><td>250.00</td></tr>
+<tr><td>7 Emolumenti per solleciti</td><td></td></tr>
+<tr><td>Sollecito per ogni mancato pagamento</td><td>30.00</td></tr>
 </table>
 
 Allegato 3
