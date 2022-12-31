@@ -3,24 +3,24 @@ canton: BL
 number: "834.400"
 title: Ordnung über die berufliche Vorsorge
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-10-25
+version: 2023-01-01
+valid_until: 2025-06-30
+version_adopted: 2022-08-29
 adopted: 2012-01-23
 in_force: 2012-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/834.400"
-pdf: "https://bl.clex.ch/api/de/versions/2881/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung über die berufliche Vorsorge
 
-Vom 23.01.2012 (Stand 01.01.2018)
+Vom 23.01.2012 (Stand 01.01.2023)
 
 Der Verwaltungsrat der BSABB (BVG- und Stiftungsaufsicht beider Basel),
 
-gestützt auf § 6 lit. j und k des BVG- und Stiftungsaufsichtsvertrags von 8./14. Juni 2011[^ingress-1] i.V.m. Art. 97 Abs. 2 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^ingress-2],
+gestützt auf § 6 Abs. 1 Bst. j und k des BVG- und Stiftungsaufsichtsvertrags von 8./14. Juni 2011[^ingress-1] i. V. m. Art. 97 Abs. 2 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^ingress-2],
 
 beschliesst:
 
@@ -54,12 +54,12 @@ beschliesst:
 
 **Aufgaben der BSABB**
 
-<sup>1</sup> Die BSABB wacht darüber, dass die beaufsichtigten Einrichtungen die gesetzlichen Vorschriften einhalten. Sie erfüllt die ihr durch das Bundesrecht übertragenen Aufgaben (BVG und dessen Ausführungsbestimmungen sowie ZGB). Sie nimmt Einsicht in die jährliche Berichterstattung der Vorsorgeeinrichtung, die Berichte der Revisionsstelle und die Berichte der Expertin oder des Experten für berufliche Vorsorge. Sie prüft insbesondere
+<sup>1</sup> Die BSABB wacht darüber, dass die beaufsichtigten Einrichtungen die gesetzlichen Vorschriften einhalten. Sie erfüllt die ihr durch das Bundesrecht übertragenen Aufgaben (BVG und dessen Ausführungsbestimmungen sowie ZGB). Sie nimmt Einsicht in die jährliche Berichterstattung der Vorsorgeeinrichtung, die Berichte der Revisionsstelle und die Berichte der Expertin oder des Experten für berufliche Vorsorge. Sie prüft insbesondere:
 
-- a) die Organisation der Vorsorgeeinrichtung (Art. 51 BVG und Art. 89a Abs. 6 ZGB)
-- b) die zweckmässige Vermögensverwendung (Art. 84 Abs. 2 ZGB)
-- c) die Anlage des Vorsorgevermögens (Art. 71 BVG und dessen Ausführungsbestimmungen
-- d) die Übereinstimmung von Reglementen und anderen erlassen der Vorsorgeeinrichtung mit der Urkunde und dem Gesetz.
+- a) die Organisation der Vorsorgeeinrichtung (Art. 51 BVG und Art. 89a Abs. 6 ZGB);
+- b) die zweckmässige Vermögensverwendung (Art. 84 Abs. 2 ZGB);
+- c) die Anlage des Vorsorgevermögens (Art. 71 BVG und dessen Ausführungsbestimmungen;
+- d) die Übereinstimmung von Reglementen und anderen Erlassen der Vorsorgeeinrichtung mit der Urkunde und dem Gesetz.
 
 <sup>2</sup> Die BSABB führt auch Register über die berufliche Vorsorge, sowie die übrigen vom Bundesrecht vorgesehenen Verzeichnisse.
 
@@ -67,7 +67,7 @@ beschliesst:
 
 <sup>4</sup> Beschlüsse über die Liquidation oder Fusion sowie von damit zusammenhängenden Vermögensübertragungen und -aufteilungen von beaufsichtigten Einrichtungen bedürfen vor deren Vollzug der Genehmigung durch die BSABB.
 
-<sup>5</sup> Die BSABB hebt beaufsichtigte Einrichtungen auf Antrag oder von Amtes wegen auf, wenn diese ihren Zweck nachweislich nicht mehr erfüllen können.
+<sup>5</sup> Die BSABB hebt beaufsichtigte Einrichtungen auf Antrag oder von Amts wegen auf, wenn diese ihren Zweck nachweislich nicht mehr erfüllen können.
 
 #### § 4
 
@@ -95,14 +95,14 @@ beschliesst:
 
 **Rechnungsablage**
 
-<sup>1</sup> Das oberste Organ der beaufsichtigten Einrichtungen reicht der BSABB jährlich innert längstens sechs Monaten nach Abschluss des Rechnungsjahres die Berichterstattung ein. Allfällige Fristerstreckungsgesuche sind rechtzeitig, schriftlich und mit einer kurzen Begründung versehen einzureichen.
+<sup>1</sup> Das oberste Organ der beaufsichtigten Einrichtungen reicht der BSABB jährlich innert längstens 6 Monaten nach Abschluss des Rechnungsjahres die Berichterstattung ein. Allfällige Fristerstreckungsgesuche sind rechtzeitig, schriftlich und mit einer kurzen Begründung versehen einzureichen.
 
 <sup>2</sup> Die Berichterstattung umfasst folgende Unterlagen:
 
-- a) die vom obersten Organ genehmigte, rechtsgültig unterzeichnete Jahresrechnung bestehend aus Bilanz und die Betriebsrechnung mit den Vorjahreszahlen und Anhang
-- b) das Protokoll betreffend die Genehmigung der Jahresrechnung
-- c) den Bericht der Revisionsstelle
-- d) den periodischen Bericht der versicherungstechnischen Expertin oder des versicherungstechnischen Experten
+- a) die vom obersten Organ genehmigte, rechtsgültig unterzeichnete Jahresrechnung bestehend aus Bilanz und die Betriebsrechnung mit den Vorjahreszahlen und Anhang;
+- b) das Protokoll betreffend die Genehmigung der Jahresrechnung;
+- c) den Bericht der Revisionsstelle;
+- d) den periodischen Bericht der versicherungstechnischen Expertin oder des versicherungstechnischen Experten;
 - e) allfällige weitere von der BSABB einverlangte Unterlagen.
 
 <sup>3</sup> Es gelten für die Rechnungslegung die besonderen Vorschriften des BVG und seiner Ausführungserlasse.
@@ -117,14 +117,14 @@ beschliesst:
 
 <sup>1</sup> Die Urkundenänderung ist der BSABB mit einem entsprechenden Gesuch zur Genehmigung einzureichen.
 
-<sup>2</sup> Das Gesuch umfasst
+<sup>2</sup> Das Gesuch umfasst:
 
-- a) die geltende Urkunde
-- b) die Begründung der Änderung
-- c) den Beschluss des obersten Organs der beaufsichtigten Einrichtung betreffend die Änderung
+- a) die geltende Urkunde;
+- b) die Begründung der Änderung;
+- c) den Beschluss des obersten Organs der beaufsichtigten Einrichtung betreffend die Änderung;
 - d) gegebenenfalls die beurkundete Änderung der Urkunde.
 
-<sup>3</sup> Die Unterlagen gemäss Abs. 2 lit. a–c sind der BSABB umgehend einzureichen. Die beurkundete Änderung gemäss Abs. 2 lit. d ist direkt dem zuständigen Handelsregister des Kantons Basel-Stadt bzw. Basel-Landschaft einzureichen. Die BSABB teilt dem Handelsregister die Genehmigung der Urkundenänderung mit.
+<sup>3</sup> Die Unterlagen gemäss Abs. 2 Bst. a–c sind der BSABB umgehend einzureichen. Die beurkundete Änderung gemäss Abs. 2 Bst. d ist direkt dem zuständigen Handelsregister des Kantons Basel-Stadt bzw. Basel-Landschaft einzureichen. Die BSABB teilt dem Handelsregister die Genehmigung der Urkundenänderung mit.
 
 <sup>4</sup> Die Unterlagen können im Entwurf zur Vorprüfung bei der BSABB eingereicht werden.
 
@@ -132,7 +132,7 @@ beschliesst:
 
 **Mitteilungspflichten**
 
-<sup>1</sup> Vom obersten Organ der beaufsichtigten Einrichtung erlassene Reglemente und deren allfällige Änderung sind der BSABB umgehend zur Kenntnis zu bringen. Die Unterlagen sind der BSABB in Papierform zuzustellen. Vorbehältlich anderer Abmachung mit der BSABB löst die Einreichung der Unterlagen in elektronischer Form Gebühren zu Lasten der beaufsichtigten Einrichtung aus.
+<sup>1</sup> Vom obersten Organ der beaufsichtigten Einrichtung erlassene Reglemente und deren allfälligen Änderungen sind der BSABB umgehend zur Kenntnis zu bringen. Die Unterlagen sind der BSABB in Papierform oder über deren Portal elektronisch zuzustellen.
 
 <sup>2</sup> Änderungen der Organe von beaufsichtigten Einrichtungen und ihrer Zusammensetzung sind, soweit sie im Handelsregister einzutragen sind, dem zuständigen Handelsregister zur Eintragung zu melden. Diese Änderungen sind unabhängig von der Eintragungspflicht im Handelsregister umgehend der BSABB mitzuteilen.
 
