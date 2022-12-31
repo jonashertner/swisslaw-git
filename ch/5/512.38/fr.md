@@ -4,30 +4,30 @@ title: Ordonnance du 29 octobre 2003 concernant le sport militaire
 short: OAHST
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
 language: fr
-version: 2020-02-01
+version: 2023-01-01
 adopted: 2003-10-29
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-584-20200201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-584-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance concernant le sport militaire****
+# Ordonnance concernant le sport militaire
 
-du 29 octobre 2003 (Etat le 1<sup>er</sup> février 2020)[^t-1]
+du 29 octobre 2003 (État le 1<sup>er</sup> janvier 2023)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2013, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 Le Conseil fédéral suisse,
 
-vu les art. 16, al. 2, let. c, et 30, al. 1, de la loi du 17 juin 2011 sur l’encouragement du sport[^ingress-1], vu les art. 41, al. 3, 51, al. 4, 62, al. 3, et 150, al. 1, de la loi du 3 février 1995 sur l’armée[^ingress-2],[^ingress-3]
+vu les art. 16, al. 2, let. c, et 30, al. 1, de la loi du 17 juin 2011 sur l’encouragement du sport[^ingress-1], vu les art. 41, al. 3, 48*a*, al. 3, 51, al 4, 62, al 3, et 150, al 1, de la loi du 3 février 1995 sur l’armée[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^ingress-3]: Nouvelle teneur selon l’annexe 7 ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -37,7 +37,7 @@ arrête:
 
 <sup>1</sup> Le sport militaire vise à encourager les qualités physiques et militaires ainsi que l’esprit de camaraderie des militaires.
 
-<sup>2</sup> A cet effet, la troupe organise ou participe à des cours et à des concours.
+<sup>2</sup> À cet effet, la troupe organise ou participe à des cours et à des concours.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2013, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
@@ -98,7 +98,7 @@ Le service militaire doit offrir aux sportifs d’élite la possibilité d’am�
 
 Le décompte des frais d’organisation doit être établi dans le cadre des crédits budgétisés et accordés.
 
-### Section 2 Conseil International du Sport Militaire****
+### Section 2 Conseil International du Sport Militaire
 
 [^chap2-sec2-1]
 
@@ -110,14 +110,15 @@ Le décompte des frais d’organisation doit être établi dans le cadre des cr�
 
 <sup>1</sup> La Suisse, en sa qualité de membre du Conseil International du Sport Militaire (CISM), participe aux concours de cette organisation.[^7-1]
 
-<sup>2</sup> Des cours d’entraînement peuvent être organisés pour préparer les concours du CISM.
+<sup>2</sup> Des camps d’entraînement[^7-2] peuvent être organisés pour préparer les concours du CISM.
 
 <sup>3</sup> Le Groupement Défense désigne le chef de délégation et nomme les délégués suisses ainsi que les représentants dans les différents comités et commissions.
 
-<sup>4</sup> …[^7-2]
+<sup>4</sup> …[^7-3]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 21 août 2013, en vigueur depuis le 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^7-2]: Abrogé par le ch. I de l’O du 21 août 2013, avec effet au 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-2]: Nouvelle expression selon l’annexe 7 ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^7-3]: Abrogé par le ch. I de l’O du 21 août 2013, avec effet au 1<sup>er</sup> oct. 2013 ([RO 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 8
 
@@ -283,7 +284,7 @@ La Confédération verse, dans le cadre des crédits autorisés, une subvention 
 
 <sup>2</sup> Lorsque des unités de troupe entières, des corps de troupe ou des écoles sont engagés pour l’organisation de concours, la subsistance des militaires concernés doit être assurée par la cuisine de troupe.
 
-### Section 8 Solde, imputation, matériel et assurance****
+### Section 8 Solde, imputation, matériel et assurance
 
 [^chap2-sec8-1]
 
@@ -338,7 +339,7 @@ Quiconque en tant que militaire ou ancien militaire participe ou prend part aux 
 
 Le Groupement Défense, en accord avec l’Administration fédérale des finances, conclut une assurance-accidents pour les personnes qui ne sont pas assurées par l’assurance militaire et qui ont la permission de participer à des activités hors du service au sens de la présente ordonnance.
 
-## Chapitre 2*a***** Sport d’élite au service militaire
+## Chapitre 2*a* Sport d’élite au service militaire
 
 [^chap2a-1]
 
@@ -365,15 +366,30 @@ Les soldats de sport et les soldats CISM, ainsi que les militaires engagés comm
 - a. consacrer au plus 30 jours de service militaire soldés et imputés sur les services d’instruction obligatoires à la pratique du sport d’élite dans le cadre de services de perfectionnement de la troupe;
 - b. accomplir en outre un maximum de 100 jours de service militaire soldés mais non imputés sur les services d’instruction obligatoires.
 
-<sup>3</sup> Les al. 1 et 2 ne s’appliquent pas aux soldats de sport ni aux soldats CISM engagés comme militaires contractuels.
+<sup>3</sup> Les al. 1 et 2, let. b, ne s’appliquent pas aux soldats de sport ni aux soldats CISM engagés comme militaires contractuels.[^27b-2]
 
-<sup>4</sup> Les militaires incorporés dans l’état-major du Centre de compétences du sport dans l’armée ou dans l’état-major spécialisé Sport peuvent être convoqués pour accomplir leurs cours de répétition à la journée.[^27b-2]
+<sup>4</sup> Les militaires incorporés dans l’état-major du Centre de compétences du sport dans l’armée ou dans l’état-major spécialisé Sport peuvent être convoqués pour accomplir leurs cours de répétition à la journée.[^27b-3]
 
-<sup>5</sup> Le service militaire est accompli sans arme.[^27b-3]
+<sup>5</sup> Le service militaire est accompli sans arme.[^27b-4]
+
+<sup>6</sup>
+
+Les dispositions ci-après s’appliquent aux services militaires à l’étranger qui ne sont pas accomplis dans le cadre de l’art. 7:
+
+- a. les personnes accomplissant du service militaire portent des tenues civiles;
+- b. elles reçoivent une solde et des allocations pour perte de gain;
+- c. elles sont couvertes par l’assurance militaire;
+- d. elles organisent et financent elles-mêmes leur subsistance, leur logement et leur transport; le soutien de tiers est réservé;
+- e. elles se procurent et financent elles-mêmes l’équipement nécessaire; le soutien de tiers est réservé;
+- f. elles peuvent conduire des véhicules privés en se conformant aux dispositions légales en vigueur sur place;
+- g. elles règlent les modalités des services militaires visés au présent alinéa en passant une convention avec le commandement de l’Instruction;
+- h. sous réserve des prestations légales de l’assurance militaire, la Confédération ne répond d’aucun dommage en rapport avec des services militaires visés au présent alinéa.[^27b-5]
 
 [^27b-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-3]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-2]: Nouvelle teneur selon l’annexe 7 ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^27b-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-4]: Introduit par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-5]: Introduit par l’annexe 7 ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 27c
 
@@ -382,7 +398,7 @@ Les soldats de sport et les soldats CISM, ainsi que les militaires engagés comm
 Dans le cadre des services militaires visés à l’art. 27*b* ou de l’engagement en qualité de militaire contractuel, il est possible:
 
 - a. pour les soldats de sport, d’effectuer des jours de préparation en vue de concours internationaux (par ex. Jeux olympiques, championnats du monde et d’Europe) et de participer à ces concours;
-- b. pour les soldats CISM, d’effectuer des cours d’entraînement en vue de concours CISM et de participer à ces concours.
+- b. pour les soldats CISM, d’effectuer des camps d’entraînement en vue de concours CISM et de participer à ces concours.
 
 #### Art. 27d
 
@@ -423,7 +439,7 @@ Les personnes attribuées ou affectées conformément à l’al. 1:
 
 Le Groupement Défense est chargé de l’exécution de la présente ordonnance et d’émettre les prescriptions nécessaires. Il fixe notamment les détails concernant:
 
-- a. l’activité des cours d’entraînement et des concours des cadres et des concurrents dans les diverses disciplines du CISM;
+- a. l’activité des camps d’entraînement et des concours des cadres et des concurrents dans les diverses disciplines du CISM;
 - b. l’invitation de délégations d’armées étrangères et le décompte des coûts imputables;
 - c. la participation à des concours d’armées étrangères, la sélection, la délégation et le décompte des coûts imputables;
 - d. l’organisation et la participation à des concours militaires lors de fêtes cantonales de tir;

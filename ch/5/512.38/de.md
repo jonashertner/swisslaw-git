@@ -4,30 +4,30 @@ title: Verordnung vom 29. Oktober 2003 über den Militärsport
 short: VATT
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
 language: de
-version: 2020-02-01
+version: 2023-01-01
 adopted: 2003-10-29
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2003-584-20200201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-584-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über den Militärsport****
+# Verordnung über den Militärsport
 
-vom 29. Oktober 2003 (Stand am 1. Februar 2020)[^t-1]
+vom 29. Oktober 2003 (Stand am 1. Januar 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 16 Absatz 2 Buchstabe c und 30 Absatz 1 des Sportförderungsgesetzes vom 17. Juni 2011[^ingress-1] und auf die Artikel 41 Absatz 3, 51 Absatz 4, 62 Absatz 3 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 16 Absatz 2 Buchstabe c und 30 Absatz 1 des Sportförderungsgesetzes vom 17. Juni 2011[^ingress-1] und auf die Artikel 41 Absatz 3, 48*a* Absatz 3, 51 Absatz 4, 62 Absatz 3 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^ingress-3]: Fassung gemäss Anhang 7 Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -98,7 +98,7 @@ Spitzensportlerinnen und Spitzensportlern soll der Militärdienst die Möglichke
 
 Die Organisationskosten sind im Rahmen der budgetierten und bewilligten Kredite abzurechnen.
 
-### 2. Abschnitt: Conseil International du Sport Militaire****
+### 2. Abschnitt: Conseil International du Sport Militaire
 
 [^chap2-sec2-1]
 
@@ -110,14 +110,15 @@ Die Organisationskosten sind im Rahmen der budgetierten und bewilligten Kredite 
 
 <sup>1</sup> Die Schweiz nimmt als Mitglied des Conseil International du Sport Militaire (CISM) an dessen Wettkämpfen teil.[^7-1]
 
-<sup>2</sup> Zur Vorbereitung auf CISM-Wettkämpfe können Trainingskurse durchgeführt werden.
+<sup>2</sup> Zur Vorbereitung auf CISM-Wettkämpfe können Trainingslager[^7-2] durchgeführt werden.
 
 <sup>3</sup> Die Gruppe Verteidigung bezeichnet den Delegationschef und wählt die schweizerischen Delegierten sowie die Vertreterinnen und Vertreter in den verschiedenen Komitees und Kommissionen.
 
-<sup>4</sup> …[^7-2]
+<sup>4</sup> …[^7-3]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2013, in Kraft seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^7-2]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-2]: Ausdruck gemäss Anhang 7 Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^7-3]: Aufgehoben durch Ziff. I der V vom 21. Aug. 2013, mit Wirkung seit 1. Okt. 2013 ([AS 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 8
 
@@ -285,7 +286,7 @@ Der Bund richtet im Rahmen der bewilligten Kredite pro teilnehmenden Angehörige
 
 <sup>2</sup> Werden für die Organisation ganze Truppeneinheiten, Truppenkörper oder Schulen eingesetzt, so sind die betreffenden Angehörigen der Armee von der truppeneigenen Küche zu verpflegen.
 
-### 8. Abschnitt: Sold, Anrechnung, Material und Versicherung****
+### 8. Abschnitt: Sold, Anrechnung, Material und Versicherung
 
 [^chap2-sec8-1]
 
@@ -340,7 +341,7 @@ Wer als Angehöriger der Armee oder als ehemaliger Angehöriger der Armee an den
 
 Die Gruppe Verteidigung schliesst im Einvernehmen mit der Eidgenössischen Finanzverwaltung eine Unfallversicherung ab für nicht militärversicherte Personen, die an ausserdienstlichen Tätigkeiten nach dieser Verordnung teilnehmen dürfen.
 
-## 2*a*. Kapitel:**** Spitzensport im Militärdienst
+## 2*a*. Kapitel: Spitzensport im Militärdienst
 
 [^chap2a-1]
 
@@ -367,15 +368,30 @@ Sportsoldaten und CISM-Soldaten sowie Angehörige der Armee, die als deren Train
 - a. höchstens 30 Tage besoldeten Militärdienst im Rahmen von Fortbildungsdiensten der Truppe mit Anrechnung an die Ausbildungsdienstpflicht für den Spitzensport nutzen;
 - b. zusätzlich höchstens 100 Tage besoldeten Militärdienst ohne Anrechnung an die Ausbildungsdienstpflicht leisten.
 
-<sup>3</sup> Auf Sportsoldaten und CISM-Soldaten, die als Zeitmilitär angestellt sind, sind die Absätze 1 und 2 nicht anwendbar.
+<sup>3</sup> Auf Sportsoldaten und CISM-Soldaten, die als Zeitmilitär angestellt sind, sind die Absätze 1 und 2 Buchstabe b nicht anwendbar.[^27b-2]
 
-<sup>4</sup> Angehörige der Armee, die im Stab Kompetenzzentrum Sport der Armee oder im Fachstab Sport eingeteilt sind, können zur tageweisen Leistung der Wiederholungskurse aufgeboten werden.[^27b-2]
+<sup>4</sup> Angehörige der Armee, die im Stab Kompetenzzentrum Sport der Armee oder im Fachstab Sport eingeteilt sind, können zur tageweisen Leistung der Wiederholungskurse aufgeboten werden.[^27b-3]
 
-<sup>5</sup> Der Militärdienst wird waffenlos geleistet.[^27b-3]
+<sup>5</sup> Der Militärdienst wird waffenlos geleistet.[^27b-4]
+
+<sup>6</sup>
+
+Für Militärdienste im Ausland, die nicht im Rahmen von Artikel 7 geleistet werden, gelten die folgenden Bestimmungen:
+
+- a. Die Militärdienstleistenden tragen zivile Kleidung.
+- b. Sie erhalten Sold und Erwerbsersatz.
+- c. Sie sind militärversichert.
+- d. Sie organisieren und finanzieren Verpflegung, Unterkunft und Transporte selber; vorbehalten bleibt die Unterstützung durch Dritte.
+- e. Sie besorgen und finanzieren die benötigte Ausrüstung selber; vorbehalten bleibt die Unterstützung durch Dritte.
+- f. Sie dürfen gemäss den vor Ort geltenden gesetzlichen Bestimmungen Privatfahrzeuge führen.
+- g. Sie regeln in einer Vereinbarung mit dem Kommando Ausbildung die Einzelheiten für Militärdienste nach diesem Absatz.
+- h. Vorbehältlich der gesetzlichen Leistungen der Militärversicherung haftet der Bund für keine Schäden im Zusammenhang mit Militärdiensten nach diesem Absatz.[^27b-5]
 
 [^27b-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-3]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-2]: Fassung gemäss Anhang 7 Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^27b-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-4]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-5]: Eingefügt durch Anhang 7 Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 27c
 
@@ -384,7 +400,7 @@ Sportsoldaten und CISM-Soldaten sowie Angehörige der Armee, die als deren Train
 Im Rahmen der Militärdienste nach Artikel 27*b* oder der Anstellung als Zeitmilitär können:
 
 - a. Sportsoldaten die Vorbereitungstage für internationale Wettkämpfe (wie Olympische Spiele, Welt- und Europameisterschaften) sowie die Wettkämpfe absolvieren;
-- b. CISM-Soldaten Trainingskurse für CISM-Wettkämpfe sowie die CISM-Wettkämpfe absolvieren.
+- b. CISM-Soldaten Trainingslager für CISM-Wettkämpfe sowie die CISM-Wettkämpfe absolvieren.
 
 #### Art. 27d
 
@@ -425,7 +441,7 @@ Nach Absatz 1 zugeteilte und zugewiesene Personen:
 
 Die Gruppe Verteidigung vollzieht diese Verordnung und erlässt die nötigen Weisungen. Sie legt insbesondere die Einzelheiten fest über:
 
-- a. die Trainingskurs- und Wettkampftätigkeit von Kadern sowie Wettkämpferinnen und Wettkämpfern in den verschiedenen Disziplinen des CISM;
+- a. die Trainingslager- und Wettkampftätigkeit von Kadern sowie Wettkämpferinnen und Wettkämpfern in den verschiedenen Disziplinen des CISM;
 - b. die Einladung von ausländischen Armeedelegationen und die Abrechnung der anrechenbaren Kosten;
 - c. die Teilnahme an Meisterschaften ausländischer Armeen, die Selektion, Abkommandierung und die Abrechnung der anrechenbaren Kosten;
 - d. die Organisation und Teilnahme an Militärwettkämpfen an kantonalen Schützenfesten;
@@ -450,7 +466,7 @@ Sie bezeichnet eine zentrale Stelle, die verantwortlich ist für:
 
 Die Verordnung vom 28. Februar 1996[^30-1] über die ausserdienstliche Tätigkeit der Truppe wird aufgehoben.
 
-[^30-1]: [[AS 1996 1026](https://fedlex.data.admin.ch/eli/oc/1996/1026_1026_1026), [1999 1295](https://fedlex.data.admin.ch/eli/oc/1999/174)]
+[^30-1]: [[AS 1996 1026](https://fedlex.data.admin.ch/eli/oc/1996/1026_1026_1026); [1999 1295](https://fedlex.data.admin.ch/eli/oc/1999/174)]
 
 #### Art. 31
 

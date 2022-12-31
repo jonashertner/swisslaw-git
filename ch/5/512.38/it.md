@@ -4,30 +4,30 @@ title: Ordinanza del 29 ottobre 2003 sullo sport militare
 short: OATFS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/584"
 language: it
-version: 2020-02-01
+version: 2023-01-01
 adopted: 2003-10-29
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2003-584-20200201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/584/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-584-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/584/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sullo sport militare****
+# Ordinanza sullo sport militare
 
-del 29 ottobre 2003 (Stato 1° febbraio 2020)[^t-1]
+del 29 ottobre 2003 (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 16 capoverso 2 lettera c e 30 capoverso 1 della legge del 17 giugno 2011[^ingress-1] sulla promozione dello sport; visti gli articoli 41 capoverso 3, 51 capoverso 4, 62 capoverso 3 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2],[^ingress-3]
+visti gli articoli 16 capoverso 2 lettera c e 30 capoverso 1 della legge del 17 giugno 2011[^ingress-1] sulla promozione dello sport; visti gli articoli 41 capoverso 3, 48*a* capoverso 3, 51 capoverso 4, 62 capoverso 3 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-2],[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^ingress-3]: Nuovo testo giusta l’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -98,7 +98,7 @@ Il servizio militare offre agli sportivi di punta la possibilità di sviluppare 
 
 Il conteggio delle spese d’organizzazione avviene nell’ambito dei crediti preventivati e concessi.
 
-### Sezione 2: Consiglio Internazionale dello Sport Militare****
+### Sezione 2: Consiglio Internazionale dello Sport Militare
 
 [^chap2-sec2-1]
 
@@ -110,14 +110,15 @@ Il conteggio delle spese d’organizzazione avviene nell’ambito dei crediti pr
 
 <sup>1</sup> La Svizzera, in quanto membro del Consiglio Internazionale dello Sport Militare (CISM), partecipa alle sue gare.[^7-1]
 
-<sup>2</sup> Per la preparazione alle gare del CISM possono essere organizzati corsi d’allenamento.
+<sup>2</sup> Per la preparazione alle gare del CISM possono essere organizzati campi d’allenamento[^7-2].
 
 <sup>3</sup> L’Aggruppamento Difesa designa il capo della delegazione e nomina i delegati svizzeri nonché i rappresentanti nei differenti comitati e nelle commissioni.
 
-<sup>4</sup> ...[^7-2]
+<sup>4</sup> ...[^7-3]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2013, in vigore dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
-[^7-2]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
+[^7-2]: Nuova espr. giusta l’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^7-3]: Abrogato dal n. I dell’O del 21 ago. 2013, con effetto dal 1° ott. 2013 ([RU 2013 2761](https://fedlex.data.admin.ch/eli/oc/2013/567)).
 
 #### Art. 8
 
@@ -283,7 +284,7 @@ Nell’ambito dei crediti concessi, la Confederazione versa un contributo di die
 
 <sup>2</sup> Se per l’organizzazione di gare sono impiegati unità di truppa, corpi di truppa o scuole interi, i militari interessati ricevono la sussistenza dalla cucina della propria truppa.
 
-### Sezione 8: Soldo, computo, materiale e assicurazione****
+### Sezione 8: Soldo, computo, materiale e assicurazione
 
 [^chap2-sec8-1]
 
@@ -338,7 +339,7 @@ I militari e gli ex militari che partecipano o collaborano alle attività fuori 
 
 L’Aggruppamento Difesa, d’intesa con l’Amministrazione federale delle finanze, conclude un’assicurazione contro gli infortuni per le persone non assicurate presso l’assicurazione militare che sono autorizzate a partecipare ad attività fuori del servizio secondo la presente ordinanza.
 
-## Capitolo 2*a*:**** Sport di punta in servizio militare
+## Capitolo 2*a*: Sport di punta in servizio militare
 
 [^chap2a-1]
 
@@ -365,15 +366,30 @@ I soldati sport e i soldati CISM, nonché i militari impiegati come loro allenat
 - a. utilizzare per lo sport di punta, nel quadro di servizi di perfezionamento della truppa e con computo sul totale obbligatorio di giorni di servizio d’istruzione, al massimo 30 giorni di servizio militare con diritto al soldo;
 - b. in via supplementare, prestare, senza computo sul totale obbligatorio di giorni di servizio d’istruzione, al massimo 100 giorni l’anno di servizio militare con diritto al soldo.
 
-<sup>3</sup> I capoversi 1 e 2 non sono applicabili ai soldati sport e ai soldati CISM assunti come militari a contratto temporaneo.
+<sup>3</sup> I capoversi 1 e 2 lettera b non sono applicabili ai soldati sport e ai soldati CISM assunti come militari a contratto temporaneo.[^27b-2]
 
-<sup>4</sup> I militari incorporati nello stato maggiore del Centro di competenza sport dell’esercito o nello stato maggiore speciale sport possono essere chiamati a prestare singoli giorni di servizio per i corsi di ripetizione.[^27b-2]
+<sup>4</sup> I militari incorporati nello stato maggiore del Centro di competenza sport dell’esercito o nello stato maggiore speciale sport possono essere chiamati a prestare singoli giorni di servizio per i corsi di ripetizione.[^27b-3]
 
-<sup>5</sup> Il servizio militare è prestato senz’arma.[^27b-3]
+<sup>5</sup> Il servizio militare è prestato senz’arma.[^27b-4]
+
+<sup>6</sup>
+
+Per i servizi militari all’estero che non vengono prestati nell’ambito dell’articolo 7 valgono le seguenti disposizioni:
+
+- a. le persone che prestano servizio militare indossano abiti civili;
+- b. ricevono il soldo e l’indennità per perdita di guadagno;
+- c. sono coperte dall’assicurazione militare;
+- d. organizzano e finanziano autonomamente la sussistenza, l’alloggio e i trasporti; resta riservato il sostegno da parte di terzi;
+- e. si procurano e finanziano autonomamente l’equipaggiamento necessario; resta riservato il sostegno da parte di terzi;
+- f. hanno il permesso di guidare veicoli privati nel rispetto delle disposizioni legali vigenti sul posto;
+- g. nel quadro di un accordo con il Comando Istruzione definiscono i dettagli per i servizi militari secondo il presente capoverso;
+- h. con riserva delle prestazioni dell’assicurazione militare stabilite per legge, la Confederazione non risponde di alcun danno in relazione a servizi militari secondo il presente capoverso.[^27b-5]
 
 [^27b-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
-[^27b-3]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-2]: Nuovo testo giusta l’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^27b-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-4]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7493](https://fedlex.data.admin.ch/eli/oc/2017/811)).
+[^27b-5]: Introdotto dall’all. 7 n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 27c
 
@@ -382,7 +398,7 @@ I soldati sport e i soldati CISM, nonché i militari impiegati come loro allenat
 Nel quadro dei servizi militari secondo l’articolo 27*b* o dell’assunzione come militare a contratto temporaneo:
 
 - a. i soldati sport possono svolgere le giornate di preparazione a gare sportive internazionali (quali Giochi olimpici, campionati mondiali e campionati europei) nonché le gare;
-- b. i soldati CISM possono svolgere corsi d’allenamento per la preparazione alle gare CISM nonché le gare CISM.
+- b. i soldati CISM possono svolgere campi d’allenamento per la preparazione alle gare CISM nonché le gare CISM.
 
 #### Art. 27d
 
@@ -423,7 +439,7 @@ Le persone attribuite o assegnate secondo il capoverso 1:
 
 L’Aggruppamento Difesa è incaricato dell’esecuzione della presente ordinanza ed emana le istruzioni necessarie. Esso disciplina segnatamente i dettagli concernenti:
 
-- a. l’attività dei quadri e dei concorrenti nei corsi d’allenamento e nelle gare delle differenti discipline del CISM;
+- a. l’attività dei quadri e dei concorrenti nei campi d’allenamento e nelle gare delle differenti discipline del CISM;
 - b. l’invito di delegazioni di eserciti stranieri e il conteggio delle spese imputabili;
 - c. la partecipazione a campionati di eserciti stranieri, la selezione, l’invio comandato e il conteggio delle spese imputabili;
 - d. l’organizzazione e la partecipazione a gare militari nelle feste cantonali di tiro;
