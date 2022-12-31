@@ -4,7 +4,7 @@ number: "850.01"
 title: "LOI du 24.11.2003 sur l'organisation et le financement de la politique sociale (LOF)"
 short: LOF
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.01?id=f297eb49-bbd1-467c-8406-c7b66e735f61"
 ---
 
@@ -186,7 +186,7 @@ décrète
 
 <sup>2</sup> Dans tous les cas énumérés aux lettres a, b, c, c<sup>bis</sup> et i de l'alinéa 1<sup>er</sup>, l'autorité compétente, à l'exception du Grand Conseil, fait mention de l'avis du Conseil dans sa décision. Si elle s'en écarte, elle la motive brièvement.
 
-[^9-1]: Modif. 13 du 08.12.2020: Modification Al. 1, b; entrée en vigueur au 01.01.2021; Introduction Al. 1, cbis; entrée en vigueur au 01.01.2021; Modification Al. 2; entrée en vigueur au 01.01.2021 · Modif. 13 du 08.12.2020: Introduction Art. 17b, Al. 2, c; entrée en vigueur au 01.01.2023
+[^9-1]: Modif. 13 du 08.12.2020: Modification Al. 1, b; entrée en vigueur au 01.01.2021; Introduction Al. 1, cbis; entrée en vigueur au 01.01.2021; Modification Al. 2; entrée en vigueur au 01.01.2021
 [^10-1]: Loi du 02.12.2003 sur l'action sociale vaudoise ([BLV 850.051](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73))
 
 #### Art. 11
@@ -253,7 +253,7 @@ décrète
 
 <sup>2</sup> Un règlement précise la nature des dépenses afférentes aux différentes lois énumérées à l'article 2.
 
-[^14-1]: Modif. 4 du 21.02.2006: Modification Al. 1j; entrée en vigueur au 01.09.2006 · Modif. 6 du 02.06.2009: Modification Al. 1 i; entrée en vigueur au 01.01.2010 · Modif. 7 du 15.06.2010: Abrogation Al. 1 i,j; entrée en vigueur au 01.01.2011 · Modif. 13 du 08.12.2020: Abrogation Al. 1, g,h,k; entrée en vigueur au 01.01.2022 · Modif. 13 du 08.12.2020: Introduction Art. 17b, Al. 2, c; entrée en vigueur au 01.01.2023
+[^14-1]: Modif. 4 du 21.02.2006: Modification Al. 1j; entrée en vigueur au 01.09.2006 · Modif. 6 du 02.06.2009: Modification Al. 1 i; entrée en vigueur au 01.01.2010 · Modif. 7 du 15.06.2010: Abrogation Al. 1 i,j; entrée en vigueur au 01.01.2011 · Modif. 13 du 08.12.2020: Abrogation Al. 1, g,h,k; entrée en vigueur au 01.01.2022
 [^15-1]: Loi fédérale du 25.06.1982 sur l’assurance-chômage obligatoire et l’indemnité en cas d’insolvabilité (RS 837.0)
 
 #### Art. 16
@@ -280,7 +280,7 @@ décrète
 
 <sup>2</sup> Un règlement fixe les modalités de la facturation aux communes et celles du versement de la contribution financière de celles-ci.
 
-[^16-1]: Modif. 13 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021 · Modif. 13 du 08.12.2020: Introduction Art. 17b, Al. 2, c; entrée en vigueur au 01.01.2023
+[^16-1]: Modif. 13 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021
 
 #### Art. 17a
 
@@ -296,7 +296,7 @@ décrète
 
 <sup>5</sup> ...
 
-[^17-1]: Modif. 6 du 02.06.2009: Introduction Art. 17a; entrée en vigueur au 01.01.2010 · Modif. 10 du 05.11.2013: Modification Al. 1; entrée en vigueur au 01.01.2014; Introduction Al. 2-5; entrée en vigueur au 01.01.2014 · Modif. 13 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Abrogation Al. 2-5; entrée en vigueur au 01.01.2021 · Modif. 13 du 08.12.2020: Introduction Art. 17b, Al. 2, c; entrée en vigueur au 01.01.2023 · Modif. 14 du 04.06.2024: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 1bis; entrée en vigueur au 01.01.2025; Introduction Art. 17b, Al. 2, d; entrée en vigueur au 01.01.2025
+[^17-1]: Modif. 6 du 02.06.2009: Introduction Art. 17a; entrée en vigueur au 01.01.2010 · Modif. 10 du 05.11.2013: Modification Al. 1; entrée en vigueur au 01.01.2014; Introduction Al. 2-5; entrée en vigueur au 01.01.2014 · Modif. 13 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Abrogation Al. 2-5; entrée en vigueur au 01.01.2021 · Modif. 14 du 04.06.2024: Modification Al. 1; entrée en vigueur au 01.01.2025; Introduction Al. 1bis; entrée en vigueur au 01.01.2025; Introduction Art. 17b, Al. 2, d; entrée en vigueur au 01.01.2025
 
 #### Art. 17b
 
@@ -311,10 +311,11 @@ décrète
 - 2\. des diverses dépenses visées à l'article 15, alinéa 1, lettres g et h, dans sa teneur en vigueur jusqu'au 31 décembre 2020 ;
 - 3\. en dérogation à l'article 15, alinéa 1, lettre e, de la totalité de la subvention à l'association Appartenances.
 - b. le financement complet par l'Etat des charges de fonctionnement des agences d'assurances sociales, dans la mesure où ces charges se rapportent à l'exécution des missions sociales cantonales (hors activités spécifiquement communales) ;
+- c. les effets pour les communes de la révision du mode de calcul des coûts pour l'exercice des missions générales de police, conformément à l'article 45, alinéa 1<sup>er</sup> de la loi sur l'organisation policière vaudoise.
 
 <sup>3</sup> Compte tenu de ces diverses mesures, la participation des communes à la cohésion sociale au sens des articles 17 et 17a de la présente loi sera réduite de manière à ce que le rééquilibrage global atteigne le montant mentionné à l'alinéa 1<sup>er</sup>.
 
-[^17a-1]: Modif. 13 du 08.12.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 2; entrée en vigueur au 01.01.2022; Introduction Al. 3; entrée en vigueur au 01.01.2021; Introduction Art. 17b; entrée en vigueur au 01.01.2021 · Modif. 13 du 08.12.2020: Introduction Al. 2, c; entrée en vigueur au 01.01.2023 · Modif. 14 du 04.06.2024: Introduction Art. 17a, Al. 1bis; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Abrogation Al. 2, c; entrée en vigueur au 01.01.2025; Introduction Al. 2, d; entrée en vigueur au 01.01.2025
+[^17a-1]: Modif. 13 du 08.12.2020: Introduction tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 2; entrée en vigueur au 01.01.2022; Introduction Al. 2, a-b; entrée en vigueur au 01.01.2022; Introduction Al. 2, c; entrée en vigueur au 01.01.2023; Introduction Al. 3; entrée en vigueur au 01.01.2021; Introduction Art. 17b; entrée en vigueur au 01.01.2021 · Modif. 14 du 04.06.2024: Introduction Art. 17a, Al. 1bis; entrée en vigueur au 01.01.2025; Modification Al. 1; entrée en vigueur au 01.01.2025; Abrogation Al. 2, c; entrée en vigueur au 01.01.2025; Introduction Al. 2, d; entrée en vigueur au 01.01.2025
 
 #### Art. 18
 
@@ -347,7 +348,7 @@ Année 2021 2022 2023 2024 2025 2026 2027 2028 Montant du rééquilibrage 25 mio
 
 <sup>4</sup> Dans tous les cas, si les comptes de l'Etat présentent un déficit qui contraint celui-ci à prendre des mesures d'assainissement au sens de l'article 165 de la Constitution cantonale, le Conseil d'Etat pourra proposer des dérogations au mécanisme de rééquilibrage financier prévu à l'article 17b.
 
-[^chapterChapitreV-1]: Modif. 13 du 08.12.2020: Introduction Art. 19a; entrée en vigueur au 01.01.2021 · Modif. 13 du 08.12.2020: Introduction Art. 17b, Al. 2, c; entrée en vigueur au 01.01.2023 · Modif. 14 du 04.06.2024: Introduction Art. 17a, Al. 1bis; entrée en vigueur au 01.01.2025; Introduction Art. 17b, Al. 2, d; entrée en vigueur au 01.01.2025; Abrogation tArt; entrée en vigueur au 01.01.2025; Abrogation Al. 1-4; entrée en vigueur au 01.01.2025
+[^chapterChapitreV-1]: Modif. 13 du 08.12.2020: Introduction Art. 19a; entrée en vigueur au 01.01.2021 · Modif. 14 du 04.06.2024: Introduction Art. 17a, Al. 1bis; entrée en vigueur au 01.01.2025; Introduction Art. 17b, Al. 2, d; entrée en vigueur au 01.01.2025; Abrogation tArt; entrée en vigueur au 01.01.2025; Abrogation Al. 1-4; entrée en vigueur au 01.01.2025
 
 #### Art. 20
 
