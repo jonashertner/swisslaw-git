@@ -4,13 +4,13 @@ number: "152.221.171"
 title: Verordnung über die Organisation und die Aufgaben der Finanzdirektion
 short: Organisationsverordnung FIN; OrV FIN
 language: de
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-10
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-16
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2455/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2455/pdf_file"
 
 (Organisationsverordnung FIN; OrV FIN)
 
-vom 18.10.1995 (Stand 01.05.2021)
+vom 18.10.1995 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -41,8 +41,8 @@ beschliesst:
 - b erarbeitet zuhanden des Regierungsrates die Grundsätze für die Finanzpolitik, die Steuerpolitik, die Personalpolitik, die Organisationsentwicklung, den Informatik- und Telekommunikationseinsatz und das Staatsbeitragswesen;
 - c bereitet die Gesetzgebung im gesamten Gebiet ihrer Aufgaben vor;
 - d berät und unterstützt die Fachdienste der Direktionen und der Staatskanzlei in Finanz-, Personal-, Organisations-, Informatik-, Telekommunikations- und Statistikfragen sowie im Staatsbeitragswesen, erarbeitet direktionsübergreifende Massnahmen und leitet entsprechende direktionsübergreifende Koordinationsgremien;
-- e gibt zu den Geschäften des Regierungsrates, die den Finanzhaushalt betreffen, vorgängig den Mitbericht nach Massgabe der Gesetzgebung über die Steuerung von Finanzen und Leistungen ab;
-- f erarbeitet den Voranschlag sowie den Aufgaben- und Finanzplan;
+- e gibt zu den Geschäften des Regierungsrates, die den Finanzhaushalt betreffen, vorgängig den Mitbericht nach Massgabe der Finanzhaushaltsgesetzgebung ab;
+- f erarbeitet das Budget sowie den Aufgaben- und Finanzplan;
 - g ist verantwortlich für die fachliche und systemtechnische Haushaltsführung und erarbeitet den Geschäftsbericht, die Konzernrechnung sowie die entsprechende Hochrechnung;
 - h vollzieht den Finanzausgleich und berechnet und koordiniert den Lastenausgleich;
 - i führt die Tresorerie und das Versicherungsmanagement des Kantons;
@@ -148,7 +148,7 @@ beschliesst:
 - m instruiert Beschwerden gegen Verfügungen der Ämter und vertritt die Finanzdirektion sowie den Regierungsrat im Geschäftskreis der Finanzdirektion vor kantonalen und eidgenössischen Verwaltungsjustizbehörden und Gerichten, soweit diese Aufgabe nicht einem Amt übertragen ist;
 - n koordiniert und unterstützt die Planung, den Vollzug und das Berichtswesen der Ämter bezüglich Aufgaben und Mittel;
 - o betreut die kantonalen Beteiligungen an privatrechtlich organisierten Unternehmen und Institutionen, soweit diese Betreuung nicht durch Regierungsbeschluss einer anderen Direktion übertragen wird oder an ein Amt delegiert wird;
-- p erarbeitet den Voranschlag, den Aufgaben- und Finanzplan sowie die finanzpolitischen Abschnitte der Richtlinien der Regierungspolitik;
+- p erarbeitet das Budget, den Aufgaben- und Finanzplan sowie die finanzpolitischen Abschnitte der Richtlinien der Regierungspolitik;
 - q nimmt für die Ämter und sich die Rolle der Leistungsbezügerin für die Leistungen der Informations- und Telekommunikationstechnik (ICT) des KAIO ein;
 - r besorgt in seinem Geschäftskreis die Planung, den Vollzug und das Berichtswesen bezüglich Aufgaben und Mittel sowie das Risikomanagement.
 
@@ -159,7 +159,7 @@ beschliesst:
 <sup>1</sup> Die Finanzverwaltung
 
 - a ist das Dienstleistungs- und Kompetenzzentrum für alle fachlichen und systemtechnischen Fragen der Haushaltsführung;
-- b unterstützt das Generalsekretariat bei der Vorbereitung der Gesetzgebung in den Bereichen der Steuerung von Finanzen und Leistungen und des Finanzausgleichs und erlässt die notwendigen fachlichen und organisatorischen Weisungen;
+- b unterstützt das Generalsekretariat bei der Vorbereitung der Gesetzgebung in den Bereichen des Finanzhaushalts und des Finanzausgleichs und erlässt die notwendigen fachlichen und organisatorischen Weisungen;
 - c erarbeitet und koordiniert direktionsübergreifende Massnahmen im Bereich der fachlichen und systemtechnischen Haushaltsführung;
 - d leitet direktionsübergreifende und direktionsinterne Koordinationsgremien im Konzernrechnungswesen;
 - e bearbeitet finanzpolitische Grundsatzfragen oder wirkt bei deren Bearbeitung mit;

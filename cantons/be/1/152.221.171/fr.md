@@ -4,13 +4,13 @@ number: "152.221.171"
 title: "Ordonnance sur l'organisation et les tâches de la Direction des finances"
 short: "Ordonnance d'organisation FIN, OO FIN"
 language: fr
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-10
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-16
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2455/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2725/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2455/pdf_file"
 
 (Ordonnance d'organisation FIN, OO FIN)
 
-du 18.10.1995 (état au 01.05.2021)
+du 18.10.1995 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -41,7 +41,7 @@ arrête:
 - b élabore, à l’intention du Conseil-exécutif, les principes régissant la politique financière, la politique fiscale, la politique du personnel, le développement de l'organisation, l'informatique et les télécommunications ainsi que les subventions cantonales;
 - c prépare la législation qui concerne l'ensemble de son champ d'activité;
 - d conseille et seconde les services spécialisés des Directions et de la Chancellerie d’Etat pour les questions de finances, de personnel, d’organisation, d’informatique, de télécommunications et de statistique ainsi que de subventions cantonales, élabore des mesures interdirectionnelles et dirige les organes de coordination interdirectionnels correspondants;
-- e donne, en tenant compte de la législation sur le pilotage des finances et des prestations, son préavis en procédure de corapport sur les affaires du Conseil-exécutif qui concernent les finances;
+- e donne, en tenant compte de la législation sur les finances, son préavis en procédure de corapport sur les affaires du Conseil-exécutif qui concernent les finances;
 - f élabore le budget et le plan intégré «mission-financement»;
 - g est responsable des aspects matériels et techniques de la gestion financière, et établit le rapport de gestion, les comptes du groupe ainsi que l’extrapolation correspondante;
 - h assure l’exécution de la péréquation financière ainsi que le calcul et la coordination de la compensation des charges;
@@ -159,7 +159,7 @@ arrête:
 <sup>1</sup> L'Administration des finances
 
 - a est le centre de services et de compétences pour toutes les questions matérielles et techniques concernant la gestion financière;
-- b assiste le Secrétariat général dans la préparation de la législation dans les domaines du pilotage des finances et des prestations ainsi que de la péréquation financière, et édicte les instructions techniques et d’organisation nécessaires;
+- b assiste le Secrétariat général dans la préparation de la législation dans les domaines des finances ainsi que de la péréquation financière, et édicte les instructions techniques et d’organisation nécessaires;
 - c élabore et coordonne les mesures interdirectionnelles concernant les aspects matériels et techniques de la gestion financière;
 - d dirige les organes de coordination interdirectionnels et intradirectionnels dans la comptabilité du groupe;
 - e traite les questions fondamentales de politique financière ou contribue à leur traitement;
