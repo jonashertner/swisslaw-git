@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordonnance du 26 novembre 2008 concernant les examens fédéraux des professions médicales universitaires (Ordonnance concernant les examens LPMéd)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: fr
-version: 2021-11-01
+version: 2023-01-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20211101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/fr"
 
 (Ordonnance concernant les examens LPMéd)
 
-du 26 novembre 2008 (Etat le 1<sup>er</sup> novembre 2021)
+du 26 novembre 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -440,10 +440,11 @@ La banque de données contient en outre:
 **Communication des données**[^25-1]
 
 - [tab] <sup>1</sup> La section «formation universitaire» de la MEBEKO transmet au fur et à mesure à l’Office fédéral de la santé publique (OFSP) toutes les données visées à l’art. 24, al. 1, let. a à g, concernant les candidats ayant réussi l’examen fédéral pour le registre des professions médicales.
-- [tab] <sup>2</sup> Elle communique sur demande au secrétariat du mandataire du Conseil fédéral pour le Service sanitaire coordonné les nom, prénom, adresse et date de naissance des candidats ayant réussi l’examen fédéral de médecine humaine, de médecine dentaire, de chiropratique ou de pharmacie.
+- [tab] <sup>2</sup> Elle communique au Service sanitaire coordonné, à la demande de l’Office fédéral de la protection de la population, les nom, prénom, adresse et date de naissance des candidats ayant réussi l’examen fédéral de médecine humaine, de médecine dentaire, de chiropratique ou de pharmacie.[^25-2]
 - [tab] <sup>3</sup> Elle communique sur demande à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires, à l’attention du Service vétérinaire coordonné, les nom, prénom, adresse et date de naissance des candidats ayant réussi l’examen fédéral de médecine vétérinaire.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^25-2]: Nouvelle teneur selon le ch. II 2 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 26
 

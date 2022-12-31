@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Verordnung vom 26. November 2008 über die eidgenössischen Prüfungen der universitären Medizinalberufe (Prüfungsverordnung MedBG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: de
-version: 2021-11-01
+version: 2023-01-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20211101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/de"
 
 (Prüfungsverordnung MedBG)
 
-vom 26. November 2008 (Stand am 1. November 2021)
+vom 26. November 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -103,7 +103,7 @@ Grundlage für den Inhalt der eidgenössischen Prüfung sind die allgemeinen und
 
 <sup>4</sup> Innerhalb einer Einzelprüfung können die Leistungen in Teilprüfungen gegenseitig kompensiert werden.[^5-1]
 
-<sup>5</sup> ...[^5-2]
+<sup>5</sup> …[^5-2]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 [^5-2]: Aufgehoben durch Ziff. I der V vom 5. April 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
@@ -156,7 +156,7 @@ Die Prüfungskommissionen haben folgende Aufgaben:
 - d.[^7-2] Sie schlagen der MEBEKO, Ressort Ausbildung, Anpassungsmassnahmen im Sinne von Artikel 12*a* Absatz 2 vor.
 - e. Sie schlagen der MEBEKO, Ressort Ausbildung, Richtlinien zur Durchführung der eidgenössischen Prüfungen vor.
 - f. Sie schlagen der MEBEKO, Ressort Ausbildung, Examinatorinnen und Examinatoren zur Wahl vor.
-- g.[^7-3] ...
+- g.[^7-3] …
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
@@ -174,7 +174,7 @@ Die Präsidentinnen und Präsidenten der Prüfungskommissionen haben folgende Au
 - b. Sie legen der MEBEKO, Ressort Ausbildung, die Vorschläge der Prüfungskommissionen gemäss dieser Verordnung rechtzeitig vor.
 - c. Sie kontrollieren die Vorbereitungsarbeiten für die eidgenössischen Prüfungen in Zusammenarbeit mit dem Sekretariat der MEBEKO, Ressort Ausbildung.
 - d. Sie instruieren die Standortverantwortlichen über ihre Aufgaben.
-- [tab] e. und f.[^8-1] ...
+- [tab] e. und f.[^8-1] …
 - g. Sie geben die Resultate der eidgenössischen Prüfungen bekannt.
 
 <sup>2</sup> Die Präsidentin oder der Präsident der Prüfungskommission bestimmt ihre Stellvertreterin oder seinen Stellvertreter.
@@ -235,7 +235,7 @@ Berechtigte Examinatorinnen und Examinatoren können sein:
 
 <sup>2</sup> Die MEBEKO, Ressort Ausbildung, veröffentlicht jährlich vor Beginn des Universitätsjahres den Anmeldetermin im Internet.[^12-1]
 
-<sup>3</sup> ...[^12-2]
+<sup>3</sup> …[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
 [^12-2]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
@@ -352,7 +352,7 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>3</sup> Eine nicht bestandene eidgenössische Prüfung kann zweimal wiederholt werden.
 
-<sup>4</sup> und <sup>5</sup> ...[^18-1]
+<sup>4</sup> und <sup>5</sup> …[^18-1]
 
 [^18-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -362,7 +362,7 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>1</sup> Wer die eidgenössische Prüfung dreimal nicht bestanden hat, wird von jeder weiteren eidgenössischen Prüfung des gleichen universitären Medizinalberufs ausgeschlossen.
 
-<sup>2</sup> ...[^19-1]
+<sup>2</sup> …[^19-1]
 
 [^19-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -374,7 +374,7 @@ Das Sekretariat des Ressorts Ausbildung der MEBEKO erstellt zuhanden der Standor
 
 <sup>2</sup> Die Namen derjenigen Kandidatinnen und Kandidaten, welche die eidgenössische Prüfung bestanden haben, werden im Internet und in anderer geeigneter Form veröffentlicht.
 
-<sup>3</sup> ...[^20-1]
+<sup>3</sup> …[^20-1]
 
 [^20-1]: Eingefügt durch Ziff. I 2 der Covid-19-Verordnung eidgenössische Prüfung in Humanmedizin vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 31. Okt. 2021 ([AS 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
@@ -441,11 +441,12 @@ Die Datenbank enthält zusätzlich:
 
 <sup>1</sup> Die MEBEKO, Ressort Ausbildung, leitet laufend alle Daten nach Artikel 24 Absatz 1 Buchstaben a–g zu den Personen, die die eidgenössische Prüfung bestanden haben, zuhanden des Medizinalberuferegisters an das Bundesamt für Gesundheit (BAG) weiter.
 
-<sup>2</sup> Sie meldet auf Anfrage dem Sekretariat der oder des Beauftragten des Bundesrates für den Koordinierten Sanitätsdienst Name, Vorname, Adresse, Geburtsdatum der Personen, die die eidgenössische Prüfung der Human-, Zahnmedizin, Chiropraktik oder Pharmazie bestanden haben.
+<sup>2</sup> Sie meldet auf Anfrage dem Bundesamt für Bevölkerungsschutz zuhanden des Koordinierten Sanitätsdiensts Name, Vorname, Adresse, Geburtsdatum der Personen, die die eidgenössische Prüfung der Human-, Zahnmedizin, Chiropraktik oder Pharmazie bestanden haben.[^25-2]
 
 <sup>3</sup> Sie meldet auf Anfrage dem Bundesamt für Lebensmittelsicherheit und Veterinärwesen zuhanden des Koordinierten Veterinärdienstes Name, Vorname, Adresse, Geburtsdatum der Personen, die die eidgenössische Prüfung der Veterinärmedizin bestanden haben.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 5. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^25-2]: Fassung gemäss Ziff. II 2 der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 26
 
@@ -646,38 +647,38 @@ Folgende Erlasse werden aufgehoben:
 - 31\. Verordnung des EDI vom 3. September 2003[^annex1-lvlu1-31] über die Erprobung eines besonderen Ausbildungs- und Prüfungsmodells für den ersten Studienabschnitt der Pharmazeutischen Wissenschaften der Universität Neuenburg;
 - 32\. Geschäftsreglement vom 26. März 2002[^annex1-lvlu1-32] für den Weiterbildungsausschuss für medizinische Berufe.
 
-[^annex1-lvlu1-1]: [[AS 1982 563](https://fedlex.data.admin.ch/eli/oc/1982/563_563_563), [1995 4367](https://fedlex.data.admin.ch/eli/oc/1995/4367_4367_4367), [1999 2643](https://fedlex.data.admin.ch/eli/oc/1999/416)]
+[^annex1-lvlu1-1]: [[AS 1982 563](https://fedlex.data.admin.ch/eli/oc/1982/563_563_563); [1995 4367](https://fedlex.data.admin.ch/eli/oc/1995/4367_4367_4367); [1999 2643](https://fedlex.data.admin.ch/eli/oc/1999/416)]
 [^annex1-lvlu1-2]: [[AS 1976 51](https://fedlex.data.admin.ch/eli/oc/1976/51_51_51)]
-[^annex1-lvlu1-3]: [[AS 1986 817](https://fedlex.data.admin.ch/eli/oc/1986/817_817_817)[1564](https://fedlex.data.admin.ch/eli/oc/1986/1564__), [2005 5255](https://fedlex.data.admin.ch/eli/oc/2005/728)]
+[^annex1-lvlu1-3]: [[AS 1986 817](https://fedlex.data.admin.ch/eli/oc/1986/817_817_817), [1564](https://fedlex.data.admin.ch/eli/oc/1986/1564__); [2005 5255](https://fedlex.data.admin.ch/eli/oc/2005/728)]
 [^annex1-lvlu1-4]: [[AS 1970 975](https://fedlex.data.admin.ch/eli/oc/1970/975_975_975)]
-[^annex1-lvlu1-5]: [BS **4** 333; [AS 1952 813](https://fedlex.data.admin.ch/eli/oc/1952/813_834_829), [1960 941](https://fedlex.data.admin.ch/eli/oc/1960/941_981_975), [1979 1184](https://fedlex.data.admin.ch/eli/oc/1979/1184_1184_1184)]
+[^annex1-lvlu1-5]: [BS **4** 333; [AS 1952 813](https://fedlex.data.admin.ch/eli/oc/1952/813_834_829); [1960 941](https://fedlex.data.admin.ch/eli/oc/1960/941_981_975); [1979 1184](https://fedlex.data.admin.ch/eli/oc/1979/1184_1184_1184)]
 [^annex1-lvlu1-6]: [BS **4** 341]
-[^annex1-lvlu1-7]: [[AS 1975 2331](https://fedlex.data.admin.ch/eli/oc/1975/2331_2331_2331), [1980 911](https://fedlex.data.admin.ch/eli/oc/1980/911_911_911)]
+[^annex1-lvlu1-7]: [[AS 1975 2331](https://fedlex.data.admin.ch/eli/oc/1975/2331_2331_2331); [1980 911](https://fedlex.data.admin.ch/eli/oc/1980/911_911_911)]
 [^annex1-lvlu1-8]: [BS **4** 342]
 [^annex1-lvlu1-9]: [[AS 1979 1298](https://fedlex.data.admin.ch/eli/oc/1979/1298_1298_1298)]
 [^annex1-lvlu1-10]: [[AS 1983 1313](https://fedlex.data.admin.ch/eli/oc/1983/1313_1313_1313)]
 [^annex1-lvlu1-11]: [[AS 1984 1302](https://fedlex.data.admin.ch/eli/oc/1984/1302_1302_1302)]
-[^annex1-lvlu1-12]: [[AS 1982 575](https://fedlex.data.admin.ch/eli/oc/1982/575_575_575), [1999 2643](https://fedlex.data.admin.ch/eli/oc/1999/416)Ziff. II]
+[^annex1-lvlu1-12]: [[AS 1982 575](https://fedlex.data.admin.ch/eli/oc/1982/575_575_575); [1999 2643](https://fedlex.data.admin.ch/eli/oc/1999/416)Ziff. II]
 [^annex1-lvlu1-13]: [[AS 1983 228](https://fedlex.data.admin.ch/eli/oc/1983/228_228_228)]
 [^annex1-lvlu1-14]: [[AS 1985 785](https://fedlex.data.admin.ch/eli/oc/1985/785_785_785)]
-[^annex1-lvlu1-15]: [[AS 1999 3590](https://fedlex.data.admin.ch/eli/oc/1999/513), [2002 3652](https://fedlex.data.admin.ch/eli/oc/2002/558)Anhang Ziff. 1, [2007 4313](https://fedlex.data.admin.ch/eli/oc/2007/576)]
+[^annex1-lvlu1-15]: [[AS 1999 3590](https://fedlex.data.admin.ch/eli/oc/1999/513); [2002 3652](https://fedlex.data.admin.ch/eli/oc/2002/558)Anhang Ziff. 1; [2007 4313](https://fedlex.data.admin.ch/eli/oc/2007/576)]
 [^annex1-lvlu1-16]: [[AS 2007 4315](https://fedlex.data.admin.ch/eli/oc/2007/577)]
-[^annex1-lvlu1-17]: [[AS 2005 4817](https://fedlex.data.admin.ch/eli/oc/2005/649), [2007 4323](https://fedlex.data.admin.ch/eli/oc/2007/578)]
-[^annex1-lvlu1-18]: [[AS 2004 4489](https://fedlex.data.admin.ch/eli/oc/2004/680), [2005 4825](https://fedlex.data.admin.ch/eli/oc/2005/650), [2007 4325](https://fedlex.data.admin.ch/eli/oc/2007/579)]
-[^annex1-lvlu1-19]: [[AS 2004 4497](https://fedlex.data.admin.ch/eli/oc/2004/681), [2007 4327](https://fedlex.data.admin.ch/eli/oc/2007/580)]
-[^annex1-lvlu1-20]: [[AS 2005 4827](https://fedlex.data.admin.ch/eli/oc/2005/651), [2007 4329](https://fedlex.data.admin.ch/eli/oc/2007/581)]
+[^annex1-lvlu1-17]: [[AS 2005 4817](https://fedlex.data.admin.ch/eli/oc/2005/649); [2007 4323](https://fedlex.data.admin.ch/eli/oc/2007/578)]
+[^annex1-lvlu1-18]: [[AS 2004 4489](https://fedlex.data.admin.ch/eli/oc/2004/680); [2005 4825](https://fedlex.data.admin.ch/eli/oc/2005/650); [2007 4325](https://fedlex.data.admin.ch/eli/oc/2007/579)]
+[^annex1-lvlu1-19]: [[AS 2004 4497](https://fedlex.data.admin.ch/eli/oc/2004/681); [2007 4327](https://fedlex.data.admin.ch/eli/oc/2007/580)]
+[^annex1-lvlu1-20]: [[AS 2005 4827](https://fedlex.data.admin.ch/eli/oc/2005/651); [2007 4329](https://fedlex.data.admin.ch/eli/oc/2007/581)]
 [^annex1-lvlu1-21]: [[AS 1982 584](https://fedlex.data.admin.ch/eli/oc/1982/584_584_584)]
 [^annex1-lvlu1-22]: [[AS 2007 4331](https://fedlex.data.admin.ch/eli/oc/2007/582)]
 [^annex1-lvlu1-23]: [[AS 1982 591](https://fedlex.data.admin.ch/eli/oc/1982/591_591_591)]
-[^annex1-lvlu1-24]: [[AS 2004 4505](https://fedlex.data.admin.ch/eli/oc/2004/682), [2007 4337](https://fedlex.data.admin.ch/eli/oc/2007/583)]
+[^annex1-lvlu1-24]: [[AS 2004 4505](https://fedlex.data.admin.ch/eli/oc/2004/682); [2007 4337](https://fedlex.data.admin.ch/eli/oc/2007/583)]
 [^annex1-lvlu1-25]: [[AS 1980 781](https://fedlex.data.admin.ch/eli/oc/1980/781_781_781)]
 [^annex1-lvlu1-26]: [[AS 1982 321](https://fedlex.data.admin.ch/eli/oc/1982/321_321_321)]
-[^annex1-lvlu1-27]: [[AS 2004 4513](https://fedlex.data.admin.ch/eli/oc/2004/683), [2007 4339](https://fedlex.data.admin.ch/eli/oc/2007/584)]
+[^annex1-lvlu1-27]: [[AS 2004 4513](https://fedlex.data.admin.ch/eli/oc/2004/683); [2007 4339](https://fedlex.data.admin.ch/eli/oc/2007/584)]
 [^annex1-lvlu1-28]: [[AS 2003 3398](https://fedlex.data.admin.ch/eli/oc/2003/477)]
-[^annex1-lvlu1-29]: [[AS 2001 2569](https://fedlex.data.admin.ch/eli/oc/2001/385), [2003 3403](https://fedlex.data.admin.ch/eli/oc/2003/478)Anhang Ziff. 2]
-[^annex1-lvlu1-30]: [[AS 2001 2574](https://fedlex.data.admin.ch/eli/oc/2001/386), [2003 3403](https://fedlex.data.admin.ch/eli/oc/2003/478)Anhang Ziff. 3]
+[^annex1-lvlu1-29]: [[AS 2001 2569](https://fedlex.data.admin.ch/eli/oc/2001/385); [2003 3403](https://fedlex.data.admin.ch/eli/oc/2003/478)Anhang Ziff. 2]
+[^annex1-lvlu1-30]: [[AS 2001 2574](https://fedlex.data.admin.ch/eli/oc/2001/386); [2003 3403](https://fedlex.data.admin.ch/eli/oc/2003/478)Anhang Ziff. 3]
 [^annex1-lvlu1-31]: [[AS 2003 3413](https://fedlex.data.admin.ch/eli/oc/2003/479)]
-[^annex1-lvlu1-32]: [[AS 2002 3892](https://fedlex.data.admin.ch/eli/oc/2002/599), [2003 4791](https://fedlex.data.admin.ch/eli/oc/2003/702)]
+[^annex1-lvlu1-32]: [[AS 2002 3892](https://fedlex.data.admin.ch/eli/oc/2002/599); [2003 4791](https://fedlex.data.admin.ch/eli/oc/2003/702)]
 
 Anhang 2
 
@@ -685,6 +686,6 @@ Anhang 2
 
 ## Änderung bisherigen Rechts
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2008 6007](https://fedlex.data.admin.ch/eli/oc/2008/832)konsultiert werden.

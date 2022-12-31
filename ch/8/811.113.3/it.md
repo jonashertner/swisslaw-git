@@ -3,11 +3,11 @@ sr: "811.113.3"
 title: Ordinanza del 26 novembre 2008 concernente gli esami federali per le professioni mediche (Ordinanza sugli esami LPMed)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/832"
 language: it
-version: 2021-11-01
+version: 2023-01-01
 adopted: 2008-11-26
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20211101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/832/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-832-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/832/20211101/it"
 
 (Ordinanza sugli esami LPMed)
 
-del 26 novembre 2008 (Stato 1° novembre 2021)
+del 26 novembre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -89,7 +89,7 @@ Il contenuto dell’esame federale si fonda sugli obiettivi formativi generali e
 
 [^4a4b-1]
 
-[^4a4b-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^4a4b-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 5
 
@@ -238,7 +238,7 @@ Possono essere autorizzati quali esaminatori:
 <sup>3</sup> ...[^12-2]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
-[^12-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^12-2]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 12a
 
@@ -354,7 +354,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>4</sup> e <sup>5</sup> ...[^18-1]
 
-[^18-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^18-1]: Introdotti dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 19
 
@@ -364,7 +364,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>2</sup> ...[^19-1]
 
-[^19-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^19-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 20
 
@@ -376,7 +376,7 @@ Il segretariato della sezione «Formazione» della MEBEKO stila, all’attenzion
 
 <sup>3</sup> ...[^20-1]
 
-[^20-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^20-1]: Introdotto dal n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 21
 
@@ -441,11 +441,12 @@ La banca dati contiene inoltre:
 
 <sup>1</sup> La MEBEKO, sezione «Formazione», trasmette regolarmente all’Ufficio federale della sanità pubblica (UFSP) tutti i dati riguardanti i candidati che hanno superato l’esame federale conformemente all’articolo 24 capoverso 1 lettere a–g, affinché siano riportati nel registro delle professioni mediche.
 
-<sup>2</sup> Su richiesta, essa comunica al segretariato dell’incaricato del Consiglio federale per il Servizio sanitario coordinato il cognome, il nome, l’indirizzo e la data di nascita dei candidati che hanno superato l’esame federale di medicina umana, odontoiatria, chiropratica o farmacia.
+<sup>2</sup> Su richiesta, essa comunica all’Ufficio federale della protezione della popolazione, all’attenzione del Servizio sanitario coordinato, il cognome, il nome, l’indirizzo e la data di nascita dei candidati che hanno superato l’esame federale di medicina umana, odontoiatria, chiropratica o farmacia.[^25-2]
 
 <sup>3</sup> Su richiesta, essa comunica all’Ufficio federale della sicurezza alimentare e di veterinaria, all’attenzione del Servizio veterinario coordinato, il cognome, il nome, l’indirizzo e la data di nascita dei candidati che hanno superato l’esame federale di medicina veterinaria.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2017, in vigore dal 1° gen. 2018 ([RU 2017 2717](https://fedlex.data.admin.ch/eli/oc/2017/277)).
+[^25-2]: Nuovo testo giusta il n. II 2 dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 26
 
@@ -486,7 +487,7 @@ La banca dati contiene inoltre:
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 fino al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
+[^28-1]: Abrogato dal n. I dell’O del 17 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5425](https://fedlex.data.admin.ch/eli/oc/2010/769)). Nuovo testo giusta il n. I 2 dell’O COVID-19 esame federale di medicina umana del 27 mag. 2020, in vigore dal 28 mag. 2020 al 31 ott. 2021 ([RU 2020 1811](https://fedlex.data.admin.ch/eli/oc/2020/365)).
 
 #### Art. 29
 
