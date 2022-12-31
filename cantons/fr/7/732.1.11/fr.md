@@ -4,13 +4,12 @@ number: "732.1.11"
 title: "Règlement sur l'assurance immobilière, la prévention et les secours en matière de feu et d'éléments naturels"
 short: RECAB
 language: fr
-version: 2022-03-18
-valid_until: 2022-12-31
-version_adopted: 2022-03-18
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2018-06-18
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7437/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7668/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Assurance immobilière, prévention et secours en matière de feu – R
 
 (RECAB)
 
-du 18.06.2018 (version entrée en vigueur le 18.03.2022)
+du 18.06.2018 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -110,9 +109,22 @@ Arrête:
 
 **Fonds des routes nationales et autres contributions de tiers**
 
-<sup>1</sup> L'Etablissement assure la gestion et dispose, le cas échéant avec les services compétents de l'Etat, des moyens mis à sa disposition par la Confédération ou des tiers pour les secours portés sur les routes nationales.
+<sup>1</sup> L'Etablissement assure la gestion et dispose d'un compte spécial destiné à couvrir les frais occasionnés par les services de défense incendie et de lutte contre la pollution et les hydrocarbures sur les routes nationales.
 
-<sup>2</sup> Il en va de même d'autres contributions de la Confédération ou de tiers pour des prestations régulières de l'Etablissement.
+<sup>2</sup> Ce compte est alimenté:
+
+- a) par les contributions fédérales destinées au service de défense incendie et de lutte contre la pollution et les hydrocarbures sur les routes nationales, selon les instructions de l'Office fédéral des routes;
+- b) par des contributions de l'Etat, dans la mesure où les montants versés par la Confédération ne suffisent pas à couvrir les frais.
+
+<sup>3</sup> Selon les répartitions financières arrêtées par la législation sur la défense incendie et les secours et par la législation sur les eaux, l'ECAB participe au moyen de ce compte aux frais suivants:
+
+- a) les frais d'intervention;
+- b) les frais de formation cantonale;
+- c) les frais d'acquisition des véhicules et des engins;
+- d) les frais de fonctionnement de la lutte contre la pollution et les hydrocarbures;
+- e) d'autres participations en lien avec les missions des sapeurs-pompiers sur les routes nationales.
+
+<sup>4</sup> L'Etablissement remet chaque année au Conseil d'Etat un rapport sur la gestion du compte spécial.
 
 #### Art. 12
 
@@ -178,7 +190,7 @@ Arrête:
 
 - a) un centre de compétence et de conseils dans le domaine de la sécurité des bâtiments liée au feu et aux éléments naturels;
 - b) des formations dans ces domaines;
-- c) un centre de compétence dans le domaine de la prévention des risques liés au feu et pour les autres tâches des sapeurs-pompiers.
+- c) un centre de compétence en matière de défense incendie et de secours.
 
 #### Art. 20
 
@@ -192,13 +204,13 @@ Arrête:
 
 #### Art. 21
 
-**Indemnités aux collectivités publiques**
+**Financement de la défense incendie et des secours**
 
-<sup>1</sup> L'Etablissement assume les coûts ou subventionne la formation des sapeurs-pompiers au niveau cantonal.
+<sup>1</sup> La participation de l'Etablissement au financement de la défense incendie et des secours est réglée dans la législation spéciale.
 
-<sup>2</sup> Il verse des indemnités aux communes en rapport avec les tâches qu'elles assument dans le domaine de la prévention des risques liés au feu et aux éléments naturels.
+<sup>2</sup> …
 
-<sup>3</sup> En lieu et place d'indemnités, il peut décider de fournir directement les engins et équipements nécessaires.
+<sup>3</sup> …
 
 #### Art. 22
 
@@ -613,267 +625,164 @@ Arrête:
 
 <sup>4</sup> L'Etablissement fixe la procédure et les documents à fournir.
 
-## 4 Défense contre le feu et les éléments naturels
+## 4 Défense incendie et secours
 
 #### Art. 59
 
-**Organisation**
+**Rôles et compétences – Etablissement cantonal d'assurance des bâtiments**
 
-<sup>1</sup> Chaque commune a l'obligation d'organiser, d'instruire et d'entretenir, à ses frais, un service de défense contre l'incendie.
+<sup>1</sup> L'Etablissement assume notamment les attributions suivantes:
 
-<sup>2</sup> Le corps de sapeurs-pompiers doit intervenir, aux frais de la commune, en cas d'incendie et de dommages causés par les éléments naturels, en particulier en cas d'inondations et autres catastrophes.
+- a) déterminer les règles d'engagement des sapeurs-pompiers et les normes techniques;
+- b) nommer l'inspecteur ou l'inspectrice cantonal-e des sapeurs-pompiers;
+- c) former les commissions spécialisées nécessaires à l'accomplissement de ses tâches, en veillant à la représentation des régions et des bataillons;
+- d) fixer les standards de dotation en matériel, engins et véhicules des sapeur-pompiers;
+- e) participer au financement de la défense incendie et des secours conformément à la législation spéciale;
+- f) assurer la coordination sur les plans cantonal et intercantonal.
+
+<sup>2</sup> …
 
 #### Art. 60
 
-**Alarmes – Centre cantonal**
+**Rôles et compétences – Centre de compétence en matière de défense incendie et secours (actuellement: Centre de compétence Intervention)**
 
-<sup>1</sup> La réception des alarmes et la mobilisation des sapeurs-pompiers sont assurées par le Centre d'engagement et d'alarmes de la Police cantonale.
+<sup>1</sup> Les activités du centre de compétence en matière de défense incendie et secours s'étendent notamment:
 
-<sup>2</sup> Une convention conclue entre l'Etablissement et la Police cantonale précise les tâches que doit accomplir le Centre d'engagement et d'alarmes et en fixe la rémunération.
+- a) à la formation cantonale des sapeurs-pompiers;
+- b) à la gestion de l'acquisition de matériel, d'engins et de véhicules sapeurs-pompiers;
+- c) à la gestion de l'acquisition d'équipement personnel sapeurs-pompiers;
+- d) au conseil et à l'expertise;
+- e) à la centrale d'engagement et d'alarme.
+
+<sup>2</sup> Il s'appuie sur une Commission cantonale des sapeurs-pompiers et sur un état-major cantonal des sapeurs-pompiers.
 
 #### Art. 61
 
-**Alarmes – Mobilisation individuelle**
+**Rôles et compétences – Commission cantonale des sapeurs-pompiers**
 
-<sup>1</sup> Chaque sapeur-pompier doit disposer d'un moyen de télécommunication lui permettant d'être mobilisé par le Centre d'engagement et d'alarmes.
+<sup>1</sup> La Commission cantonale des sapeurs-pompiers est notamment composée:
 
-<sup>2</sup> Le commandant ou la commandante, ou l'officier ou l'officière désigné‑e par lui ou par elle, doit être joignable en tout temps.
+- a) de l'inspecteur ou de l'inspectrice cantonal-e des sapeurs-pompiers;
+- b) d'un commandant ou d'une commandante de bataillon par zone de secours;
+- c) de représentants de l'ECAB;
+- d) d'éventuels spécialistes.
+
+<sup>2</sup> Elle est chargée de:
+
+- a) traduire en termes opérationnels les concepts, principes et décisions en matière de défense incendie et de secours selon la législation et les préceptes des instances supérieures;
+- b) proposer la répartition entre les bataillons des missions cantonales ou spéciales ainsi que l'affectation des moyens y relatifs;
+- c) accompagner et surveiller les bataillons dans leurs missions, notamment en matière de formation et d'intervention.
+
+<sup>3</sup> Elle assume les tâches suivantes:
+
+- a) proposer la nomination des officiers ou officières d'appui et des autres membres de l'état-major cantonal des sapeurs-pompiers;
+- b) exercer la surveillance générale en matière de défense incendie et de secours, notamment en procédant aux inspections nécessaires.
 
 #### Art. 62
 
-**Organisation du corps des sapeurs-pompiers**
+**Rôles et compétences – Etat-major cantonal des sapeurs-pompiers**
 
-<sup>1</sup> Le corps de sapeurs-pompiers est composé:
+<sup>1</sup> En sus des attributions prévues dans la législation sur la défense incendie et secours, l'état-major cantonal des sapeurs-pompiers est chargé de:
 
-- a) d'un commandant ou d'une commandante;
-- b) d'un remplaçant ou d'une remplaçante;
-- c) d'un nombre suffisant, compte tenu des besoins, d'officiers ou officières, de sous-officiers ou sous-officières et de sapeurs ou sapeuses.
+- a) appuyer et conseiller lors de sinistre;
+- b) assurer le premier lien entre le ou la propriétaire sinistré-e et l'assurance;
+- c) ordonner les mesures conservatoires urgentes;
+- d) assurer la coordination lors de sinistres importants ou compliqués et décider de l'engagement de moyens spéciaux et d'aide intercantonale;
+- e) exécuter les tâches qui lui sont confiées par l'Etablissement.
 
-<sup>2</sup> L'effectif minimal du corps de sapeurs-pompiers d'une commune doit être de 25 personnes.
+<sup>2</sup> …
 
 #### Art. 63
 
-**Examen médical d'aptitude**
-
-<sup>1</sup> Avant son entrée en fonction, le sapeur-pompier répond à un questionnaire médical portant sur son aptitude au service. Il peut être soumis à un examen médical.
-
-<sup>2</sup> Les porteurs ou porteuses d'appareil de protection respiratoire sont soumis à un examen médical préalable ainsi que, périodiquement, à un nouvel examen. Ils peuvent être soumis à des tests de performance.
-
-<sup>3</sup> L'Etablissement précise dans des directives les modalités de ces examens, dans le cadre des recommandations émises par la Coordination suisse des sapeurs-pompiers.
+**…**
 
 #### Art. 64
 
-**Double incorporation**
-
-<sup>1</sup> En plus de son incorporation dans le corps de sa commune de domicile, le sapeur-pompier peut être incorporé, en tant que volontaire, dans celui de son lieu de travail.
-
-<sup>2</sup> Cette seconde incorporation nécessite l'accord du conseil communal de la commune de domicile.
-
-<sup>3</sup> Les commandants ou commandantes des corps concernés règlent les modalités, dans le cadre de directives émises par l'Etablissement.
+**…**
 
 #### Art. 65
 
-**Conditions de nomination des cadres**
-
-<sup>1</sup> Pour la promotion aux différents grades, il faut remplir les conditions suivantes:
-
-- a) sous-officier ou sous-officière: avoir suivi des cours de cadres;
-- b) officier ou officière: avoir suivi des cours de cadres pour sous-officiers ou sous-officières et avoir suivi avec succès un cours cantonal pour officiers ou officières;
-- c) commandant ou commandante: avoir suivi avec succès les cours prévus aux lettres a et b ci-dessus et un cours cantonal pour commandants ou commandantes.
-
-<sup>2</sup> Un commandant ou une commandante ne pourra être promu‑e au grade de capitaine que s'il ou si elle a suivi avec succès un cours pour commandants ou commandantes.
-
-<sup>3</sup> Un commandant ou une commandante ne pourra être promu‑e au grade de major‑e qu'après avoir suivi avec succès le cours fédéral d'instructeurs ou instructrices et que s'il ou si elle a sous ses ordres un corps exerçant la fonction de centre de renfort.
+**…**
 
 #### Art. 66
 
-**Nomination du commandant ou de la commandante**
-
-<sup>1</sup> Le commandant ou la commandante est nommé‑e par le conseil communal. Cette nomination ne peut se faire qu'avec l'assentiment préalable du préfet et de l'Etablissement. Le commandant ou la commandante est assermenté‑e par le préfet.
+**…**
 
 #### Art. 67
 
-**Nomination des cadres**
-
-<sup>1</sup> Les officiers et officières subalternes sont nommés par le conseil communal, sur présentation de l'Etat-Major et sur le préavis de la commission locale du feu.
-
-<sup>2</sup> Les sous-officiers et sous-officières sont nommés par l'Etat-Major.
+**…**
 
 #### Art. 68
 
-**Responsabilité du commandant ou de la commandante**
-
-<sup>1</sup> Le commandant ou la commandante est responsable de l'instruction de son corps et de l'organisation de l'alarme dans sa commune. Il ou elle doit en établir le plan de défense.
-
-<sup>2</sup> Il ou elle doit annoncer immédiatement tout sinistre à la préfecture.
-
-<sup>3</sup> Pour les demandes de secours en dehors de la commune, les prescriptions d'alarme établies par l'Etablissement font règle. Elles sont affichées près des appareils téléphoniques prévus.
-
-<sup>4</sup> En cas d'incendie nécessitant l'intervention de sapeurs-pompiers des localités voisines, c'est le commandant ou la commandante de la localité où sévit l'incendie qui exerce le commandement général du service de défense.
-
-<sup>5</sup> Il ou elle peut s'adjoindre le commandant ou la commandante d'un autre corps présent pour diriger l'intervention.
-
-<sup>6</sup> Sont réservés les contrats ou conventions de commune à commune pour l'intervention d'un service de premier secours.
-
-<sup>7</sup> Le commandant ou la commandante veille à ce que les cotisations d'assurance à la caisse de secours de la Société suisse des sapeurs-pompiers soient payées dans les délais.
-
-<sup>8</sup> Il ou elle doit annoncer dans les délais au président ou à la présidente de ladite caisse, ou à l'Etablissement lorsqu'il s'agit d'un ou d'une civil‑e intervenant bénévolement ou sur réquisition, les cas d'accident ou de maladie survenus ou contractés en service commandé.
+**…**
 
 #### Art. 69
 
-**Service de police**
-
-<sup>1</sup> Le service de police prend les premières mesures propres à régler la circulation jusqu'à l'arrivée de la police communale ou cantonale.
-
-<sup>2</sup> Il a en outre la mission de maintenir l'ordre sur le lieu du sinistre et d'y interdire l'accès à toute personne étrangère au service du feu.
+**…**
 
 #### Art. 70
 
-**Organisation de l'instruction – En général**
-
-<sup>1</sup> L'instruction des sapeurs-pompiers incombe:
-
-- a) aux commandants ou commandantes et aux cadres des corps de sapeurs-pompiers;
-- b) à l'Etablissement, par l'Inspection cantonale des sapeurs-pompiers, laquelle dispose à cet effet des instructeurs ou instructrices sapeurs-pompiers.
+**…**
 
 #### Art. 71
 
-**Organisation de l'instruction – Tâches de l'Inspection cantonale**
-
-<sup>1</sup> L'Inspection cantonale des sapeurs-pompiers dirige l'instruction sur le plan cantonal et en assure le contrôle.
-
-<sup>2</sup> Elle est secondée, dans l'accomplissement de ses tâches, par une commission cantonale et des commissions de district, rattachées administrativement à l'Etablissement.
+**…**
 
 #### Art. 72
 
-**Organisation de l'instruction – Commission cantonale**
-
-<sup>1</sup> La Commission cantonale de l'instruction conseille l'Inspection cantonale des sapeurs-pompiers dans le domaine de l'instruction et donne son avis sur les projets qui s'y rapportent. Elle coopère, par sa sous-commission technique, à l'élaboration et à la mise en œuvre des concepts, directives et programmes dans ce domaine.
-
-<sup>2</sup> La Commission cantonale de l'instruction se compose:
-
-- a) de l'inspecteur ou de l'inspectrice cantonal‑e des sapeurs-pompiers, président ou présidente;
-- b) de l'inspecteur ou de l'inspectrice cantonal‑e adjoint‑e, vice-président ou vice-présidente;
-- c) des présidents ou présidentes des commissions de district;
-- d) de deux commandants ou commandantes de corps de sapeurs-pompiers, désignés par leurs pairs;
-- e) de deux commandants ou commandantes de centres de renfort, désignés par leurs pairs;
-- f) d'une personne représentant la Fédération fribourgeoise des sapeurs-pompiers, désignée par celle-ci.
-
-<sup>3</sup> La Commission cantonale d'instruction dispose d'une sous-commission technique, formée de l'inspecteur ou de l'inspectrice cantonal‑e adjoint‑e, qui la préside, et de quatre spécialistes de l'instruction désignés par la Commission.
-
-<sup>4</sup> Les personnes qui sont désignées comme membres de la Commission cantonale d'instruction ou de sa sous-commission technique le sont pour une période de quatre ans.
+**…**
 
 #### Art. 73
 
-**Organisation de l'instruction – Commissions de district**
-
-<sup>1</sup> Dans chaque district, une commission de l'instruction collabore à l'accomplissement des tâches de l'Inspection cantonale des sapeurs-pompiers. Elle assure le contrôle de l'instruction dans les corps de sapeurs-pompiers et organise les cours régionaux.
-
-<sup>2</sup> La commission de district est formée des instructeurs ou instructrices qui sont incorporés dans le district. Elle est présidée par l'un de ses membres, qui est désigné pour une période de quatre ans par l'inspecteur ou l'inspectrice cantonal‑e des sapeurs-pompiers, sur la proposition de la commission et sur le préavis du préfet.
-
-<sup>3</sup> La commission de district fait rapport à l'Inspection cantonale des sapeurs-pompiers. Elle informe le préfet de son activité et de ses constats.
+**…**
 
 #### Art. 74
 
-**Exercices obligatoires**
-
-<sup>1</sup> Dans chaque corps, il est organisé chaque année trois exercices au minimum.
-
-<sup>2</sup> De plus, des exercices spéciaux sont organisés pour les cadres, les porteurs ou porteuses d'appareil respiratoire et les spécialistes.
-
-<sup>3</sup> Il s'ajoute, à ces exercices ordonnés par le commandant ou la commandante, un exercice annuel d'intervention sans avis préalable, ordonné par la commission de district. Celle-ci peut renoncer à soumettre à cet exercice un corps qui est déjà intervenu pour un sinistre en cours d'année.
+**…**
 
 #### Art. 75
 
-**Obligation de participer aux cours et aux exercices**
-
-<sup>1</sup> Les membres des corps de sapeurs-pompiers sont tenus de participer aux cours et exercices auxquels ils sont convoqués.
+**…**
 
 #### Art. 76
 
-**Corps de sapeurs-pompiers des établissements privés**
-
-<sup>1</sup> Les cadres des corps de sapeurs-pompiers des établissements privés sont astreints à suivre les cours cantonaux d'instruction.
-
-<sup>2</sup> Les corps de sapeurs-pompiers des établissements privés sont tenus d'organiser au moins un exercice par année avec le corps local.
+**…**
 
 #### Art. 77
 
-**Groupement de communes**
-
-<sup>1</sup> Les communes qui organisent en commun un service de défense contre l'incendie doivent établir une convention conforme à l'article 108 de la loi du 25 septembre 1980 sur les communes. Elles établissent en outre un règlement soumis à l'approbation du préfet qui demande le préavis de l'Etablissement.
+**…**
 
 #### Art. 78
 
-**Centres de renfort**
-
-<sup>1</sup> L'organisation, l'équipement, l'instruction, l'intervention et la répartition des frais des centres de renfort font l'objet d'un règlement spécial.
+**…**
 
 #### Art. 79
 
-**Equipement des sapeurs-pompiers**
-
-<sup>1</sup> Chaque sapeur-pompier doit être équipé d'une tenue de protection, apte à assurer sa sécurité et un confort suffisant.
-
-<sup>2</sup> L'Etablissement fixe, dans des directives, les exigences y relatives.
+**…**
 
 #### Art. 80
 
-**Matériel**
-
-<sup>1</sup> Chaque corps doit être pourvu de véhicules, d'engins et de matériel reconnus suffisants par l'Etablissement.
-
-<sup>2</sup> Les moyens doivent être en rapport avec les risques de sinistres et l'importance de la commune.
-
-<sup>3</sup> Tout le matériel du corps de sapeurs-pompiers doit être régulièrement contrôlé et entretenu par une personne responsable, désignée par le commandant ou la commandante.
-
-<sup>4</sup> Un exemplaire de l'inventaire du matériel, tenu à jour, doit être affiché dans le local.
+**…**
 
 #### Art. 81
 
-**Locaux**
-
-<sup>1</sup> Les locaux ou hangars sont réservés uniquement au matériel de défense contre l'incendie.
-
-<sup>2</sup> L'emplacement et l'aménagement de ces locaux doivent répondre aux exigences de l'Etablissement.
+**…**
 
 #### Art. 82
 
-**Réserves d'eau**
-
-<sup>1</sup> Dans chaque commune, des réserves et des prises d'eau suffisantes doivent être constituées, en rapport avec les risques d'incendie et l'importance de la commune.
-
-<sup>2</sup> Le conseil communal est responsable du maintien de ces réserves ainsi que du bon fonctionnement des installations. Dans les cas où les réserves d'eau sont jugées insuffisantes, l'Etablissement, d'entente avec le préfet, ordonne les mesures nécessaires.
+**…**
 
 #### Art. 83
 
-**Contrôles**
-
-<sup>1</sup> Le matériel, les locaux, les réserves et les prises d'eau peuvent être contrôlés et inspectés en tout temps par l'Etablissement.
+**…**
 
 #### Art. 84
 
-**Inspection des corps de sapeurs-pompiers**
-
-<sup>1</sup> L'inspection a pour but de vérifier l'aptitude du corps de sapeurs-pompiers à remplir ses missions.
-
-<sup>2</sup> Elle porte sur l'organisation et la gestion du corps, sur le niveau d'instruction de ses membres ainsi que sur l'état de l'équipement personnel, du matériel, des engins et des locaux. Elle comprend un exercice d'intervention.
-
-<sup>3</sup> Elle est effectuée par des instructeurs ou instructrices, sous la direction du préfet et en présence d'une personne représentant l'autorité communale.
-
-<sup>4</sup> Le rapport d'inspection est adressé au préfet. Celui-ci en prend acte et le communique, le cas échéant avec ses instructions, à l'autorité communale, avec copie à l'Etablissement.
-
-<sup>5</sup> L'Etablissement détermine la périodicité des inspections et peut en préciser les modalités.
+**…**
 
 #### Art. 85
 
-**Directives de l'Etablissement**
-
-<sup>1</sup> L'Etablissement peut prescrire l'application des normes, directives et recommandations qui sont édictées, dans les domaines opérationnel et technique, par la Coordination suisse des sapeurs-pompiers.
-
-<sup>2</sup> Il peut émettre des directives dans les cas prévus par la loi ou par le présent règlement.
-
-<sup>3</sup> Il consulte préalablement les communes et les préfets.
+**…**
 
 ## 5 Assurance immobilière
 

@@ -4,13 +4,12 @@ number: "732.1.11"
 title: "Reglement über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden"
 short: KGVR
 language: de
-version: 2022-03-18
-valid_until: 2022-12-31
-version_adopted: 2022-03-18
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2018-06-18
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7437/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Gebäudeversicherung, Prävention und Hilfeleistungen bei Brand – R
 
 (KGVR)
 
-vom 18.06.2018 (Fassung in Kraft getreten am 18.03.2022)
+vom 18.06.2018 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -110,9 +109,22 @@ beschliesst:
 
 **Nationalstrassenfonds und andere Beiträge Dritter**
 
-<sup>1</sup> Die KGV bestimmt und verfügt – gegebenenfalls zusammen mit den zuständigen Stellen des Staats – über die Mittel, die der Bund oder Dritte für Hilfeleistungen auf den Nationalstrassen bereitstellen.
+<sup>1</sup> Die KGV bestimmt und verwaltet ein Spezialkonto, mit dem die Kosten gedeckt werden, die durch den Brandbekämpfungsdienst sowie durch den Umweltschutz- und Ölwehrdienst auf den Nationalstrassen entstehen.
 
-<sup>2</sup> Gleiches gilt für andere Beiträge des Bundes oder Dritter für regelmässige Leistungen der KGV.
+<sup>2</sup> Dieses Konto wird gespeist:
+
+- a) durch die für den Brandbekämpfungsdienst sowie für den Umweltschutz- und Ölwehrdienst auf den Nationalstrassen bestimmten Bundesbeiträge, gemäss den Weisungen des Bundesamtes für Strassen;
+- b) durch Beiträge des Staates, sofern die vom Bund ausgerichteten Beiträge die Kosten nicht decken.
+
+<sup>3</sup> Über dieses Konto beteiligt sich die KGV gemäss der in der Gesetzgebung über die Brandbekämpfung und die Hilfeleistungen und in der Gewässergesetzgebung festgelegten Kostenaufteilung an folgenden Kosten:
+
+- a) Einsatzkosten;
+- b) Kosten der kantonalen Ausbildung;
+- c) Kosten für die Anschaffung von Fahrzeugen und Geräten;
+- d) Betriebskosten für den Umweltschutz und die Ölwehr;
+- e) andere Kosten in Zusammenhang mit den Aufgaben der Feuerwehr auf den Nationalstrassen.
+
+<sup>4</sup> Die KGV unterbreitet dem Staatsrat jedes Jahr einen Bericht über die Verwaltung des Spezialkontos.
 
 #### Art. 12
 
@@ -178,7 +190,7 @@ beschliesst:
 
 - a) eine Kompetenz- und Beratungsstelle für Gebäudesicherheit bei Brand und Naturgefahren;
 - b) Ausbildungen in diesen Bereichen;
-- c) ein Kompetenzzentrum im Bereich der Prävention gegen Brand und für weitere Aufgaben der Feuerwehr.
+- c) ein Kompetenzzentrum für Brandbekämpfung und Hilfeleistungen.
 
 #### Art. 20
 
@@ -192,13 +204,13 @@ beschliesst:
 
 #### Art. 21
 
-**Entschädigungen an die öffentlichen Körperschaften**
+**Finanzierung der Brandbekämpfung und der Hilfeleistungen**
 
-<sup>1</sup> Die KGV trägt oder subventioniert die Kosten der Feuerwehrausbildung auf kantonaler Ebene.
+<sup>1</sup> Die Beteiligung der KGV an der Finanzierung der Brandbekämpfung und der Hilfeleistungen wird in der Spezialgesetzgebung geregelt.
 
-<sup>2</sup> Sie zahlt den Gemeinden Entschädigungen für die Aufgaben, die sie im Zusammenhang mit der Prävention gegen Brand und Naturgefahren übernehmen.
+<sup>2</sup> …
 
-<sup>3</sup> Anstatt Entschädigungen zu zahlen, kann sie direkt die notwendigen Geräte und Ausrüstungen bereitstellen.
+<sup>3</sup> …
 
 #### Art. 22
 
@@ -613,267 +625,164 @@ beschliesst:
 
 <sup>4</sup> Die KGV legt das Verfahren und die erforderlichen Dokumente fest.
 
-## 4 Bekämpfung von Brand und Elementarschäden
+## 4 Brandbekämpfung und Hilfeleistungen
 
 #### Art. 59
 
-**Organisation**
+**Rollen und Zuständigkeiten – Kantonale Gebäudeversicherung**
 
-<sup>1</sup> Jede Gemeinde ist verpflichtet, auf ihre Kosten einen Brandbekämpfungsdienst zu organisieren, auszubilden und zu unterhalten.
+<sup>1</sup> Die Gebäudeversicherung hat namentlich folgende Befugnisse:
 
-<sup>2</sup> Im Brand- und Elementarschadenfall hat das Feuerwehrkorps zulasten der Gemeinde einzugreifen, insbesondere bei Überschwemmungen und anderen Katastrophen.
+- a) Sie legt die Feuerwehr-Einsatzregeln und die technischen Normen fest.
+- b) Sie ernennt die kantonale Feuerwehrinspektorin oder den kantonalen Feuerwehrinspektor.
+- c) Sie bildet die für ihre Aufgaben erforderlichen Fachkommissionen und achtet dabei auf die Vertretung der Regionen und Bataillone.
+- d) Sie legt die Standards für die Ausstattung der Feuerwehr mit Material, Geräten und Fahrzeugen fest.
+- e) Sie beteiligt sich gemäss der Spezialgesetzgebung an der Finanzierung der Brandbekämpfung und der Hilfeleistungen.
+- f) Sie stellt die Koordination auf kantonaler und interkantonaler Ebene sicher.
+
+<sup>2</sup> …
 
 #### Art. 60
 
-**Alarme – Kantonale Zentrale**
+**Rollen und Zuständigkeiten – Kompetenzzentrum für Brandbekämpfung und Hilfeleistungen (Heute: Kompetenzzentrum Intervention)**
 
-<sup>1</sup> Die Einsatz- und Alarmzentrale der Kantonspolizei nimmt die Alarme entgegen und mobilisiert die Angehörigen der Feuerwehr.
+<sup>1</sup> Die Tätigkeit des Kompetenzzentrums für Brandbekämpfung und Hilfeleistungen umfasst namentlich:
 
-<sup>2</sup> Die Aufgaben der Einsatz- und Alarmzentrale und ihre Vergütung werden in einer Vereinbarung zwischen der KGV und der Kantonspolizei festgelegt.
+- a) die kantonale Feuerwehrausbildung;
+- b) das Beschaffungsmanagement für Feuerwehrmaterial, ‑geräte und ‑fahrzeuge;
+- c) das Beschaffungsmanagement für die persönliche Ausrüstung der Feuerwehrleute;
+- d) Beratung und Expertise;
+- e) die Einsatz- und Alarmzentrale.
+
+<sup>2</sup> Es stützt sich bei seiner Arbeit auf eine kantonale Feuerwehrkommission und einen kantonalen Feuerwehrstab.
 
 #### Art. 61
 
-**Alarme – Individuelle Mobilisierung**
+**Rollen und Zuständigkeiten – Kantonale Feuerwehrkommission**
 
-<sup>1</sup> Jede und jeder Angehörige der Feuerwehr muss über ein Telekommunikationsmittel verfügen, über das sie oder er von der Einsatz- und Alarmzentrale mobilisiert werden kann.
+<sup>1</sup> Der kantonalen Feuerwehrkommission gehören namentlich an:
 
-<sup>2</sup> Die Kommandantin oder der Kommandant oder die von ihr oder ihm bezeichnete Offiziersperson muss jederzeit erreichbar sein.
+- a) die kantonale Feuerwehrinspektorin oder der kantonale Feuerwehrinspektor;
+- b) eine Bataillonskommandantin oder ein Bataillonskommandant pro Einsatzgebiet;
+- c) Vertreterinnen und Vertreter der KGV;
+- d) allfällige Fachpersonen.
+
+<sup>2</sup> Sie verfügt über folgende Zuständigkeiten:
+
+- a) Sie übersetzt die Konzepte, Grundsätze und Entscheide im Bereich der Brandbekämpfung und der Hilfeleistungen gemäss der Gesetzgebung und den Anweisungen der höheren Instanzen in Einsatzregeln.
+- b) Sie macht Vorschläge zur Aufteilung der kantonalen und besonderen Aufgaben unter den Bataillonen und zur Zuteilung der entsprechenden Einsatzmittel.
+- c) Sie begleitet und beaufsichtigt die Bataillone bei ihren Aufgaben, namentlich in den Bereichen Ausbildung und Einsätze.
+
+<sup>3</sup> Sie nimmt folgende Aufgaben wahr:
+
+- a) Sie schlägt die Unterstützungsoffizierinnen und ‑offiziere und die übrigen Mitglieder des kantonalen Feuerwehrstabs für die Ernennung vor.
+- b) Sie übt die allgemeine Aufsicht über die Brandbekämpfung und die Hilfeleistungen aus, namentlich indem sie die nötigen Inspektionen durchführt.
 
 #### Art. 62
 
-**Organisation des Feuerwehrkorps**
+**Rollen und Zuständigkeiten – Kantonaler Feuerwehrstab**
 
-<sup>1</sup> Das Feuerwehrkorps setzt sich zusammen:
+<sup>1</sup> Zusätzlich zu den Befugnissen, die in der Gesetzgebung über die Brandbekämpfung und die Hilfeleistungen vorgesehen sind, ist der kantonale Feuerwehrstab zuständig für:
 
-- a) aus einer Kommandantin oder einem Kommandanten;
-- b) aus einer Vizekommandantin oder einem Vizekommandanten;
-- c) aus der je nach Bedarf erforderlichen Anzahl Offiziers- oder Unteroffiziersleute und Angehörigen der Feuerwehr.
+- a) die Unterstützung und Beratung im Schadenfall;
+- b) die Gewährleistung des Erstkontakts zwischen der geschädigten Eigentümerschaft und der Versicherung;
+- c) die Anordnung von dringenden erhaltenden Massnahmen;
+- d) die Gewährleistung der Koordination bei grossen oder komplizierten Schadenfällen und für Entscheide über den Einsatz besonderer Mittel oder interkantonaler Hilfe;
+- e) die Erfüllung der Aufgaben, die ihm von der KGV übertragen werden.
 
-<sup>2</sup> Der Mindestbestand eines kommunalen Feuerwehrkorps umfasst 25 Feuerwehrleute.
+<sup>2</sup> …
 
 #### Art. 63
 
-**Tauglichkeitsuntersuchung**
-
-<sup>1</sup> Vor dem Dienstantritt füllt jede und jeder Angehörige der Feuerwehr einen medizinischen Fragebogen zu ihrer oder seiner Diensttauglichkeit aus. Sie oder er kann einer ärztlichen Untersuchung unterzogen werden.
-
-<sup>2</sup> Die Atemschutzgeräteträgerinnen und ‑träger werden vorgängig ärztlich untersucht. Diese Untersuchungen werden periodisch wiederholt und können Leistungstests umfassen.
-
-<sup>3</sup> Die KGV bestimmt das Nähere in Richtlinien, die im Rahmen der Empfehlungen der Feuerwehr Koordination Schweiz erlassen werden.
+**…**
 
 #### Art. 64
 
-**Doppelte Einteilung**
-
-<sup>1</sup> Neben der Einteilung in das Feuerwehrkorps ihrer oder seiner Wohngemeinde kann die oder der Angehörige der Feuerwehr als Freiwillige oder Freiwilliger in dasjenige ihrer oder seines Arbeitsorts eingeteilt werden.
-
-<sup>2</sup> Diese zweite Einteilung bedarf der Zustimmung des Gemeinderats der Wohngemeinde.
-
-<sup>3</sup> Die betreffenden Feuerwehrkommandanten regeln die Einzelheiten im Rahmen von Richtlinien der KGV.
+**…**
 
 #### Art. 65
 
-**Kaderbeförderungsbedingungen**
-
-<sup>1</sup> Die Beförderung zu den verschiedenen Graden erfolgt unter folgenden Bedingungen:
-
-- a) Unteroffiziersperson: Besuch von Kaderkursen;
-- b) Offiziersperson: Besuch von Kursen für Unteroffiziere und erfolgreiche Absolvierung eines kantonalen Offizierskurses;
-- c) Kommandantin oder Kommandant: erfolgreicher Besuch der unter den Buchstaben a und b erwähnten Kurse und Absolvierung eines kantonalen Kommandantenkurses.
-
-<sup>2</sup> Eine Kommandantin oder ein Kommandant kann erst dann zur Hauptfrau oder zum Hauptmann befördert werden, wenn sie oder er mit Erfolg einen kantonalen Kommandantenkurs besucht hat.
-
-<sup>3</sup> Eine Kommandantin oder ein Kommandant kann erst dann zum Major befördert werden, wenn sie oder er mit Erfolg den Schweizerischen Instruktorenkurs besucht hat und wenn sie oder er ein Korps führt, das die Funktion eines Stützpunktes wahrnimmt.
+**…**
 
 #### Art. 66
 
-**Ernennung der Kommandantin oder des Kommandanten**
-
-<sup>1</sup> Die Kommandantin oder der Kommandant wird vom Gemeinderat ernannt. Diese Ernennung kann nur im Einvernehmen mit der Oberamtsperson und der KGV erfolgen. Die Kommandantin oder der Kommandant wird von der Oberamtsperson vereidigt.
+**…**
 
 #### Art. 67
 
-**Ernennung des Kaders**
-
-<sup>1</sup> Die Subalternoffiziersleute werden auf Vorschlag des Stabes und nach Stellungnahme der Feuerkommission vom Gemeinderat ernannt.
-
-<sup>2</sup> Die Unteroffiziersleute werden vom Stab ernannt.
+**…**
 
 #### Art. 68
 
-**Verantwortung der Kommandantin oder des Kommandanten**
-
-<sup>1</sup> Die Kommandantin oder der Kommandant ist verantwortlich für die Instruktion des Korps und die Alarmorganisation in ihrer oder seiner Gemeinde. Sie oder er muss einen Brandbekämpfungsplan erstellen.
-
-<sup>2</sup> Jeder Brandfall ist unverzüglich dem Oberamt zu melden.
-
-<sup>3</sup> Für Hilfegesuche ausserhalb der Gemeinde finden die von der KGV aufgestellten Alarmvorschriften Anwendung. Diese Vorschriften sind bei den vorgesehenen Telefonapparaten anzuschlagen.
-
-<sup>4</sup> Erfordert ein Brandfall den Einsatz der benachbarten Orte, so wird das Kommando des ganzen Einsatzes von der Kommandantin oder vom Kommandanten des Ortes, in dem sich der Brand befindet, geführt.
-
-<sup>5</sup> Sie oder er kann eine andere Kommandantin oder einen anderen Kommandanten eines anwesenden Korps zur Führung des Einsatzes beiziehen.
-
-<sup>6</sup> Verträge und Abmachungen zwischen Gemeinden für die erste Hilfe bleiben vorbehalten.
-
-<sup>7</sup> Die Kommandantin oder der Kommandant sorgt dafür, dass die Beiträge an die Hilfskasse des Schweizerischen Feuerwehrvereins fristgemäss bezahlt werden.
-
-<sup>8</sup> Sie oder er meldet fristgerecht Krankheiten und Unfälle, die sich während des befohlenen Dienstes ereigneten, der Präsidentin oder dem Präsidenten der erwähnten Kasse, bzw. der KGV, wenn es sich um Zivilpersonen handelt, die freiwillig oder nach Aufgebot Hilfe leisteten.
+**…**
 
 #### Art. 69
 
-**Polizeidienst**
-
-<sup>1</sup> Der Polizeidienst trifft die ersten Massnahmen zur Regelung des Verkehrs bis zum Eintreffen der Gemeinde- oder Kantonspolizei.
-
-<sup>2</sup> Er besorgt den Ordnungsdienst auf dem Brandplatz und verwehrt allen Fremden den Zutritt.
+**…**
 
 #### Art. 70
 
-**Organisation der Ausbildung – Im Allgemeinen**
-
-<sup>1</sup> Für die Ausbildung der Angehörigen der Feuerwehr sind zuständig:
-
-- a) die Kommandantinnen oder Kommandanten und die Kader der Feuerwehrkorps;
-- b) die KGV, über das kantonale Feuerwehrinspektorat, das für diese Aufgabe über Feuerwehrinstruktorinnen und ‑instruktoren verfügt.
+**…**
 
 #### Art. 71
 
-**Organisation der Ausbildung – Aufgaben des kantonalen Feuerwehrinspektorats**
-
-<sup>1</sup> Das kantonale Feuerwehrinspektorat leitet die Ausbildung auf kantonaler Ebene und kontrolliert sie.
-
-<sup>2</sup> Es wird für die Erfüllung seiner Aufgaben von einer kantonalen Kommission und von Bezirkskommissionen, die der KGV administrativ zugewiesen sind, unterstützt.
+**…**
 
 #### Art. 72
 
-**Organisation der Ausbildung – Kantonale Kommission**
-
-<sup>1</sup> Die Kantonale Ausbildungskommission berät das kantonale Feuerwehrinspektorat im Bereich der Ausbildung und nimmt Stellung zu Projekten, die mit der Ausbildung zusammenhängen. Sie beteiligt sich durch ihre Fachkommission an der Erarbeitung und Umsetzung von Konzepten, Weisungen und Programmen im Bereich der Ausbildung.
-
-<sup>2</sup> Der Kantonalen Ausbildungskommission gehören an:
-
-- a) die kantonale Feuerwehrinspektorin oder der kantonale Feuerinspektor als Präsidentin oder Präsident;
-- b) die stellvertretende kantonale Feuerwehrinspektorin oder der stellvertretende kantonale Feuerwehrinspektor als Vizepräsidentin oder Vizepräsident;
-- c) die Präsidentinnen oder Präsidenten der Bezirkskommissionen;
-- d) zwei Kommandantinnen oder Kommandanten von Feuerwehrkorps, die von den Feuerwehrkommandantinnen oder ‑kommandanten bezeichnet werden;
-- e) zwei Kommandantinnen oder Kommandanten von Stützpunkten, die von den Stützpunktkommandantinnen oder ‑kommandanten bezeichnet werden;
-- f) eine Vertreterin oder ein Vertreter des Freiburger Feuerwehrverbandes, die oder der von diesem Verband bezeichnet wird.
-
-<sup>3</sup> Die Kantonale Ausbildungskommission verfügt über eine Fachkommission, der folgende Personen angehören: die stellvertretende kantonale Feuerwehrinspektorin oder der stellvertretende kantonale Feuerwehrinspektor als Präsidentin oder Präsident und vier Ausbildungsspezialistinnen oder ‑spezialisten, die von der Kommission bezeichnet werden.
-
-<sup>4</sup> Die Amtsdauer der Mitglieder der Kantonalen Ausbildungskommission und der Fachkommission beträgt vier Jahre.
+**…**
 
 #### Art. 73
 
-**Organisation der Ausbildung – Bezirkskommissionen**
-
-<sup>1</sup> In jedem Bezirk besteht eine Ausbildungskommission, die bei der Umsetzung der Aufgaben des kantonalen Feuerwehrinspektorates mitwirkt. Sie kontrolliert die Ausbildung in den Feuerwehrkorps und organisiert die regionalen Kurse.
-
-<sup>2</sup> Die Bezirkskommission setzt sich aus den Feuerwehrinstruktorinnen und ‑instruktoren zusammen, die im Bezirk tätig sind. Das Präsidium wird von einem ihrer Mitglieder wahrgenommen, das auf Antrag der Kommission und nach Stellungnahme der Oberamtsperson für 4 Jahre von der kantonalen Feuerwehrinspektorin oder vom kantonalen Feuerwehrinspektor bezeichnet wird.
-
-<sup>3</sup> Die Bezirkskommission erstattet dem kantonalen Feuerwehrinspektorat Bericht. Sie unterrichtet die Oberamtsperson über ihre Tätigkeit und ihre Feststellungen.
+**…**
 
 #### Art. 74
 
-**Obligatorische Übungen**
-
-<sup>1</sup> In jedem Korps werden jährlich mindestens drei Übungen durchgeführt.
-
-<sup>2</sup> Zudem werden besondere Übungen für die Kader, die Atemgeräteträgerinnen und ‑träger und die Spezialistinnen und Spezialisten organisiert.
-
-<sup>3</sup> Zu diesen von der Kommandantin oder vom Kommandanten angeordneten Übungen kommt eine jährliche Einsatzübung ohne Vorankündigung, die von der Bezirkskommission angeordnet wird. Auf die Anordnung einer solchen Übung kann verzichtet werden, wenn ein Korps im Verlauf des Jahres bereits für einen Schadenfall zum Einsatz gekommen ist.
+**…**
 
 #### Art. 75
 
-**Obligatorische Kurse und Übungen**
-
-<sup>1</sup> Die Mitglieder der Feuerwehrkorps müssen an den Kursen und Übungen teilnehmen, zu denen sie aufgeboten werden.
+**…**
 
 #### Art. 76
 
-**Feuerwehrkorps von privaten Unternehmen**
-
-<sup>1</sup> Die Kader der privaten Betriebsfeuerwehren müssen an kantonalen Kursen teilnehmen.
-
-<sup>2</sup> Die Feuerwehrkorps von privaten Unternehmen sind verpflichtet, jährlich mindestens eine Übung mit der Ortsfeuerwehr durchzuführen.
+**…**
 
 #### Art. 77
 
-**Gemeindeverbände**
-
-<sup>1</sup> Die Gemeinden, die einen gemeinsamen Brandbekämpfungsdienst organisieren, müssen eine Vereinbarung gemäss Artikel 108 des Gesetzes vom 25. September 1980 über die Gemeinden treffen. Sie erstellen im Übrigen ein Reglement, das der Oberamtsperson zur Genehmigung zu unterbreiten ist; diese holt die Stellungnahme der KGV ein.
+**…**
 
 #### Art. 78
 
-**Stützpunkte**
-
-<sup>1</sup> Organisation, Ausrüstung, Ausbildung, Einsatz und Kostenverteilung der Stützpunkte werden in einem speziellen Reglement festgelegt.
+**…**
 
 #### Art. 79
 
-**Ausrüstung der Angehörigen der Feuerwehr**
-
-<sup>1</sup> Jede oder jeder Angehörige der Feuerwehr wird mit einem Schutzanzug ausgerüstet, der ihre oder seine Sicherheit und einen ausreichenden Komfort gewährleistet.
-
-<sup>2</sup> Die KGV legt in Richtlinien die entsprechenden Anforderungen fest.
+**…**
 
 #### Art. 80
 
-**Material**
-
-<sup>1</sup> Jedes Korps muss mit Fahrzeugen, Geräten und Material ausgerüstet sein, die von der KGV als genügend erachtet werden.
-
-<sup>2</sup> Die Feuerbekämpfungsmittel einer Gemeinde sollen der Grösse und den vorhandenen Brandrisiken entsprechen.
-
-<sup>3</sup> Das gesamte Korpsmaterial wird regelmässig kontrolliert und instand gehalten; die Kommandantin oder der Kommandant bezeichnet die dafür verantwortliche Person.
-
-<sup>4</sup> Ein nachgeführtes Materialverzeichnis wird im Lokal angeschlagen.
+**…**
 
 #### Art. 81
 
-**Räume**
-
-<sup>1</sup> Räume und Schuppen dürfen nur zum Einstellen des Feuerwehrmaterials verwendet werden.
-
-<sup>2</sup> Standort und Ausbau der Räume müssen den Vorschriften der KGV entsprechen.
+**…**
 
 #### Art. 82
 
-**Wasserreserven**
-
-<sup>1</sup> In jeder Gemeinde müssen genügend Wasserreserven und Wasserbezugsorte bereitgestellt werden, die der Grösse der Gemeinde und den Brandrisiken entsprechen.
-
-<sup>2</sup> Der Gemeinderat ist hierfür und für das richtige Funktionieren der Einrichtungen verantwortlich. Werden die Wasserreserven als ungenügend befunden, so ordnet die KGV im Einvernehmen mit der Oberamtsperson die notwendigen Massnahmen an.
+**…**
 
 #### Art. 83
 
-**Kontrollen**
-
-<sup>1</sup> Das Material, die Räume, die Wasserreserven und die Wasserbezugsorte können von der KGV jederzeit kontrolliert und inspiziert werden.
+**…**
 
 #### Art. 84
 
-**Inspektion der Feuerwehrkorps**
-
-<sup>1</sup> Die Inspektion hat zum Zweck zu überprüfen, ob das Feuerwehrkorps imstande ist, seine Aufgaben zu erfüllen.
-
-<sup>2</sup> Sie erstreckt sich auf die Organisation und die Führung des Korps, auf das Ausbildungsniveau seiner Mitglieder sowie auf den Zustand der persönlichen Ausrüstung, des Materials, der Geräte und der Räume. Sie umfasst eine Einsatzübung.
-
-<sup>3</sup> Sie wird unter der Leitung der Oberamtsperson und im Beisein einer Vertreterin oder eines Vertreters der Gemeindebehörde von Instruktorinnen oder Instruktoren durchgeführt.
-
-<sup>4</sup> Der Inspektionsbericht wird an die Oberamtsperson gerichtet. Diese nimmt davon Kenntnis und übermittelt ihn, gegebenenfalls mit ihren Weisungen, der Gemeindebehörde; die KGV erhält eine Kopie.
-
-<sup>5</sup> Die KGV bestimmt die Häufigkeit der Inspektionen und kann sie eingehender regeln.
+**…**
 
 #### Art. 85
 
-**Richtlinien der KGV**
-
-<sup>1</sup> Die KGV kann die Anwendung von Normen, Richtlinien und Empfehlungen der Feuerwehr Koordination Schweiz zu operativen und technischen Fragen vorschreiben.
-
-<sup>2</sup> Sie kann in den Fällen nach Gesetz oder nach diesem Reglement Richtlinien erlassen.
-
-<sup>3</sup> Sie hört vorgängig die Gemeinden und die Oberamtspersonen an.
+**…**
 
 ## 5 Gebäudeversicherung
 
