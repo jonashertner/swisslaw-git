@@ -4,11 +4,11 @@ number: "412.311"
 title: Lehrpersonalverordnung (LPVO)
 short: LPVO
 language: de
-version: "2022-10-01"
-nachtrag: "119"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "120"
+valid_until: 2023-01-26
 adopted: 2000-07-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_311-2000_07_19-2000_10_01-120.html"
 text: pdf
 ---
 
@@ -345,25 +345,27 @@ Schülerzahl × Sozialindex × Korrekturfaktor Basiswert × 100
 
 **Einreihung und Lohnkategorien21**
 
-§ 14.<sup>43</sup> <sup>1</sup> Die Lehrpersonen werden aufgrund ihrer Unterrichtstätigkeit in folgende Lohnkategorien gemäss Anhang eingereiht: Kategorie I: . . .<sup>44</sup> Kategorie II: a. Lehrpersonen in Regelklassen auf der Kindergartenstufe;
+§ 14.<sup>43</sup> <sup>1</sup> Die Lehrpersonen werden aufgrund ihrer Unterrichtstätigkeit in folgende Lohnkategorien gemäss Anhang eingereiht:<sup>58</sup> Kategorie I: . . .<sup>44</sup> Kategorie II: . . .<sup>59</sup> Kategorie III: a. Lehrpersonen in Regelklassen auf der Kindergartenstufe,
 
-- b. Förderlehrpersonen auf der Kindergartenstufe ohne Lehrdiplom in Schulischer Heilpädagogik;
+- b. Förderlehrpersonen auf der Kindergartenstufe ohne Lehrdiplom in Schulischer Heilpädagogik,
 
-Kategorie III: a. Lehrpersonen in Regel- und Aufnahmeklassen auf der Primarstufe,
+- c. Lehrpersonen in Regel- und Aufnahmeklassen auf der Primarstufe,
 
-- b. Fachlehrpersonen auf der Primarstufe,
+- d. Fachlehrpersonen auf der Primarstufe,
 
-- c. Förderlehrpersonen und Lehrpersonen in Einschulungs- und Kleinklassen auf der Primarstufe ohne Lehrdiplom in Schulischer Heilpädagogik,
+- e. Förderlehrpersonen und Lehrpersonen in Einschulungs- und Kleinklassen auf der Primarstufe ohne Lehrdiplom in Schulischer Heilpädagogik;
 
-- d. Förderlehrpersonen auf der Kindergartenstufe mit Lehrdiplom in Schulischer Heilpädagogik;[^hIIILohn-1] Kategorie IV: a. Lehrpersonen an Regel- und Aufnahmeklassen der Sekundarstufe,
+Kategorie IV: a. Lehrpersonen in Regel- und Aufnahmeklassen auf der Sekundarstufe,
 
 - b. Fachlehrpersonen auf der Sekundarstufe,
 
-- c. Förderlehrpersonen und Lehrpersonen an Einschulungs- und Kleinklassen auf der Primarstufe mit Lehrdiplom in Schulischer Heilpädagogik,
+- c. Förderlehrpersonen auf der Kindergartenstufe sowie Förderlehrpersonen und Lehrpersonen in Einschulungs- und Kleinklassen auf der Primarstufe mit Lehr-
 
-- d. Förderlehrpersonen und Lehrpersonen an Kleinklassen auf der Sekundarstufe ohne Lehrdiplom in Schulischer Heilpädagogik;
+diplom in Schulischer Heilpädagogik,
 
-Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarstufe mit Lehrdiplom in Schulischer Heilpädagogik.
+- d. Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekundarstufe ohne Lehrdiplom in Schulischer Heilpädagogik;
+
+Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen auf der Sekundarstufe mit Lehrdiplom in Schulischer Heilpädagogik.
 
 <sup>2</sup> Mit dem Lohn wird die Erfüllung aller Berufspflichten abgegolten.
 
@@ -371,19 +373,17 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>4</sup> Ein Wechsel in der Lohnkategorie erfolgt auf Beginn des Schuljahres oder des Monats nach Erhalt des Fähigkeitszeugnisses oder Diploms.
 
-**Unterrichtstätigkeit in verschiedenen Kategorien**
+**Unterrichtstätigkeit in verschiedenen Kategorien Einstufung**
 
 § 15.<sup>26</sup> <sup>1</sup> Üben Lehrpersonen Unterrichtstätigkeiten verschiedener Lohnkategorien aus, erhalten sie den Lohn in der Regel anteilmässig.
 
-<sup>2</sup> Unterrichtet eine Förderlehrperson der Primarstufe gleichzeitig auf der Kindergartenstufe, erhält sie den Lohn der Primarstufe, wenn das Pensum auf der Kindergartenstufe weniger als ein Drittel des gesamten Unterrichtspensums als Förderlehrperson beträgt.
-
-**Einstufung**
+<sup>2</sup> . . .<sup>59</sup>
 
 § 16.<sup>22</sup> <sup>1</sup> Neu in den Schuldienst eintretende Lehrpersonen werden in Stufe 1 eingestuft, sofern nicht die Anrechnung von Unterrichts- und Berufstätigkeiten zu einer höheren Einstufung führt.
 
-<sup>2</sup> Unterrichts-, Schulleitungs- und andere Berufstätigkeiten werden ab dem vollendeten 22. (Kindergartenstufe), dem vollendeten 23. (Primarstufe) oder dem vollendeten 24. Altersjahr (Sekundarstufe) gegen schriftlichen Nachweis wie folgt angerechnet:
+<sup>2</sup> Unterrichts-, Schulleitungs- und andere Berufstätigkeiten werden ab dem vollendeten 23. (Kindergarten- und Primarstufe) oder dem vollendeten 24. Altersjahr (Sekundarstufe) gegen schriftlichen Nachweis wie folgt angerechnet<sup>58</sup>:
 
-- a. zu 100%: Unterrichtstätigkeiten in Klassen und als Förderlehrpersonen sowie Schulleitungstätigkeit an der Volksschule, an Privatschulen gemäss § 68 VSG[^hIIILohn-2], an Sonderschulen oder in Sonderschulheimen,
+- a. zu 100%: Unterrichtstätigkeiten in Klassen und als Förderlehrpersonen sowie Schulleitungstätigkeit an der Volksschule, an Privatschulen gemäss § 68 VSG[^hIIILohn-1], an Sonderschulen oder in Sonderschulheimen,
 
 **9**
 
@@ -395,13 +395,11 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>4</sup> Beim Wechsel der Gemeinde oder beim Wiedereintritt in den Zürcher Schuldienst innert einer Frist von drei Jahren zuzüglich eines Tages wird die bisherige Einstufung der kantonalen Anstellung übernommen. Bei einem späteren Wiedereintritt wird mindestens die bisherige Einstufung der kantonalen Anstellung gewährt.<sup>54</sup>
 
-<sup>5</sup> Eine Anrechnung von Tätigkeiten gemäss Abs. 2 erfolgt höchstens bis zur Stufe, in der die Lehrperson eingestuft wäre, wenn sie während der anrechenbaren Zeit unterrichtet hätte. Fachlehrpersonen und nach Massgabe des Gesetzes über den Beitritt des Kantons Zürich zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 22. September 1996[^hIIILohn-3] nicht stufengerecht ausgebildete Lehrpersonen werden tiefer eingestuft. Die Bildungsdirektion legt die Einstufungen in einer Tabelle fest.<sup>50</sup>
+<sup>5</sup> Eine Anrechnung von Tätigkeiten gemäss Abs. 2 erfolgt höchstens bis zur Stufe, in der die Lehrperson eingestuft wäre, wenn sie während der anrechenbaren Zeit unterrichtet hätte. Fachlehrpersonen und nach Massgabe des Gesetzes über den Beitritt des Kantons Zürich zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 22. September 1996[^hIIILohn-2] nicht stufengerecht ausgebildete Lehrpersonen werden tiefer eingestuft. Die Bildungsdirektion legt die Einstufungen in einer Tabelle fest.<sup>50</sup>
 
-**Lohnanspruch bei Anstellungen gestützt auf § 7 Abs. 4 LPG**
+**Lohnanspruch bei Anstellungen ohne Lehrdiplom für die Volksschule**
 
-§ 16 a.<sup>37</sup> Lehrpersonen ohne Lehrdiplom für die Volksschule erhalten den monatlichen Lohn a. zu 100% mit Lehrdiplom für die Sekundarstufe II,
-
-- b. zu 90% nach Abschluss des Basisstudiums als Volksschullehrperson oder in besonderen Ausbildungen gemäss § 18 des Gesetzes über die Pädagogische Hochschule vom 25. Oktober 1999[^hIIILohn-4],
+§ 16 a. Lehrpersonen ohne Lehrdiplom für die Volksschule erhalten den monatlichen Lohn a. zu 100% mit Lehrdiplom für die Sekundarstufe II, b.<sup>58</sup> zu 90% nach erfolgreichem Abschluss des Basisstudiums als Volksschullehrperson und positiver Beurteilung der Eignung,
 
 - c. zu 80% in den übrigen Fällen.
 
@@ -415,7 +413,7 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 **Einmalzulage**
 
-§ 19.<sup>35</sup> <sup>1</sup> Die Schulpflege gewährt Lehrpersonen, Schulleiterinnen und Schulleitern auf der Grundlage von § 26 Abs. 3 der Personalverordnung vom 16. Dezember 1998[^hIIILohn-5] eine Einmalzulage in Form eines Geldbetrags. Sie berücksichtigt zusätzlich zu den in § 44 Abs. 2 VVO[^hIIILohn-6] erwähnten Voraussetzungen insbesondere die Tätigkeit an mehrklassigen Klassen und an überdurchschnittlich grossen Klassen.
+§ 19.<sup>35</sup> <sup>1</sup> Die Schulpflege gewährt Lehrpersonen, Schulleiterinnen und Schulleitern auf der Grundlage von § 26 Abs. 3 der Personalverordnung vom 16. Dezember 1998[^hIIILohn-3] eine Einmalzulage in Form eines Geldbetrags. Sie berücksichtigt zusätzlich zu den in § 44 Abs. 2 VVO[^hIIILohn-4] erwähnten Voraussetzungen insbesondere die Tätigkeit an mehrklassigen Klassen und an überdurchschnittlich grossen Klassen.
 
 <sup>2</sup> Das Volksschulamt legt für jede Gemeinde den Betrag für die Einmalzulagen fest. Dieser setzt sich zusammen aus a. 0,35% des Lohnes der Stufe 1 der Lohnkategorie III für jede Lehrerstelle in Vollzeiteinheiten und b. dem auf die Gemeinde entfallenden Anteil der budgetierten Einmalzulagen.
 
@@ -429,12 +427,10 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>2</sup> Vikarinnen und Vikare erhalten die Zulage anteilmässig.
 
-[^hIIILohn-1]: Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 1. Januar 2008. 1. 1. 23 - 119 21
-[^hIIILohn-2]: LS 412.100.
-[^hIIILohn-3]: LS 410.4.
-[^hIIILohn-4]: LS 414.41.
-[^hIIILohn-5]: LS 177.11.
-[^hIIILohn-6]: LS 177.111.
+[^hIIILohn-1]: LS 412.100.
+[^hIIILohn-2]: LS 410.4.
+[^hIIILohn-3]: LS 177.11.
+[^hIIILohn-4]: LS 177.111.
 
 #### § 20
 
@@ -569,11 +565,11 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>2</sup> Ist eine Schulleiterin oder ein Schulleiter bisher als Lehrperson angestellt, erfolgt der Wechsel in die Lohnkategorie V bzw. IV unter Beibehaltung der bisherigen Einstufung.
 
-<sup>3</sup> Tritt eine Schulleiterin oder ein Schulleiter neu in den Schuldienst ein, wird sie oder er gemäss Abs. 1 eingereiht und nach § 16 eingestuft. Verfügt sie oder er nicht über ein Lehrdiplom, wird die Berufstätigkeit ab dem vollendeten 22. Altersjahr angerechnet.
+<sup>3</sup> Tritt eine Schulleiterin oder ein Schulleiter neu in den Schuldienst ein, wird sie oder er gemäss Abs. 1 eingereiht und nach § 16 eingestuft. Verfügt sie oder er nicht über ein Lehrdiplom, wird die Berufstätigkeit ab dem vollendeten 23. Altersjahr angerechnet.<sup>58</sup>
 
 <sup>4</sup> Ausserschulische Führungserfahrung wird bei der Einstufung gemäss Abs. 2 und 3 angerechnet.
 
-<sup>5</sup> Die gemäss Abs. 2–4 festgelegte Einstufung wird erhöht, wenn die Schulleiterin oder der Schulleiter über a. ein Lehrdiplom für die Primarstufe verfügt: um eine Lohnstufe,
+<sup>5</sup> Die gemäss Abs. 2–4 festgelegte Einstufung wird erhöht, wenn die Schulleiterin oder der Schulleiter über a.<sup>58</sup> ein Lehrdiplom für die Kindergarten- oder für die Primarstufe verfügt: um eine Lohnstufe,
 
 - b. ein Lehrdiplom für die Sekundarstufe verfügt: um zwei Lohnstufen.
 
@@ -624,9 +620,9 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 <sup>3</sup> Die Lektionenansätze gemäss Anhang umfassen die Vergütung für sämtliche Tätigkeitsbereiche gemäss §§ 10 a, 10 b, 10 c und 10 f. Die Vikarin oder der Vikar mit Entlöhnung auf der Basis des Lektionenansatzes erbringt keinen Arbeitszeitnachweis.<sup>42</sup>
 
-<sup>4</sup> Wird ein Vikariat während insgesamt 16 Schulwochen an der gleichen Stelle geleistet, richtet das Volksschulamt auf Antrag der Vikarin oder des Vikars oder der Gemeinde den monatlichen Lohn gemäss §§ 14–19 aus. Der Antrag ist spätestens innert sechs Monaten nach Abschluss des Vikariats zu stellen. Das Volksschulamt kann den monatlichen Lohn für kürzere Einsätze bewilligen. Vikarinnen und Vikare ohne Lehrdiplom für die Volksschule erhalten den monatlichen Lohn<sup>31</sup> a. zu 100% mit Lehrdiplom für die Sekundarstufe II,
+<sup>4</sup> Wird ein Vikariat während insgesamt 16 Schulwochen ununterbrochen an der gleichen Stelle geleistet, richtet das Volksschulamt auf Antrag der Vikarin oder des Vikars oder der Gemeinde den monatlichen Lohn gemäss §§ 14–18 und 19 a aus. Der Antrag ist spätestens innert sechs Monaten nach Abschluss des Vikariats zu stellen. Das Volksschulamt kann den monatlichen Lohn für kürzere Einsätze bewilligen. Vikarinnen und Vikare ohne Lehrdiplom für die Volksschule erhalten den monatlichen Lohn<sup>58</sup> a. zu 100% mit Lehrdiplom für die Sekundarstufe II,
 
-- b. zu 90% nach Abschluss des Basisstudiums als Volksschullehrperson oder in besonderen Ausbildungen gemäss § 18 des Gesetzes über die Pädagogische Hochschule[^31-1],
+- b. zu 90% nach erfolgreichem Abschluss des Basisstudiums als Volksschullehrperson und positiver Beurteilung der Eignung,
 
 - c. zu 80% in den übrigen Fällen.
 
@@ -634,12 +630,11 @@ Kategorie V: Förderlehrpersonen und Lehrpersonen in Kleinklassen der Sekundarst
 
 § 31 a.<sup>27</sup>
 
-[^31-1]: LS 414.41.
-[^31-2]: Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 16. August 2007.
+[^31-1]: Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 16. August 2007.
 
 ### VIII. Schlussbestimmungen
 
-[^31-2]
+[^31-1]
 
 [^hVIIISchlussbestimm-1]: Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 16. August 2007.
 
@@ -833,27 +828,37 @@ Auf Rückstufungen, die vor Inkrafttreten der Änderung eingeleitet wurden, blei
 
 <sup>57</sup> Fassung gemäss RRB vom 31. August 2022 (OS 77, 466; ABl 2022-09-09). In Kraft seit 1. Juli 2022.
 
+<sup>58</sup> Fassung gemäss RRB vom 2. Februar 2022 (OS 77, 558; ABl 2022-03-04). In Kraft seit 1. Januar 2023.
+
+<sup>59</sup> Aufgehoben durch RRB vom 2. Februar 2022 (OS 77, 558; ABl 2022-03-04). In Kraft seit 1. Januar 2023.
+
 **23**
 
 - 1\. 1. 23 - 119
 
-### Anhang zur Lehrpersonalverordnung<sup>55</sup>
+### Anhang zur Lehrpersonalverordnung<sup>58</sup>
 
 A. Lohnskala (§§ 14–29 d)<sup>43</sup>
 
-**Kategorie IV Kategorie V in Franken in Franken**
+**Kategorie V**
 
-Stufe Kategorie II Kategorie III in Franken in Franken 27 139 840 149 410 26 138 461 147 933 25 137 083 146 459 24 135 703 144 985 23 134 325 143 509 22 132 944 142 035 21 131 565 140 563 20 130 184 139 087 19 128 803 137 611 18 127 424 136 139 17 126 046 134 662 16 124 663 133 189 15 123 284 131 712 14 121 905 130 242 13 120 522 128 766 12 119 144 127 292 11 117 763 125 817 10 115 359 122 376 9 112 137 118 935 8 108 919 115 494 7 105 696 112 870 6 102 476 109 430 5 99 258 105 988 4 96 850 102 550 3 93 630 99 109 2 90 408 96 483 1 87 191 93 042
+Stufe Kategorie III Kategorie IV
 
-### B.<sup>36</sup>
+**in Franken in Franken**
 
-### C. Vikariate, Lektionenansatz<sup>29</sup>
+in Franken
 
 **2. Lohnmaximum**
 
 **159 810 171 098 158 234 169 410 156 658 167 720 155 081 166 032**
 
-<sup>1</sup> Vikarinnen und Vikare mit Lehrdiplom erhalten bei einem Ferienanspruch ab Beginn des Schuljahres, in dem sie das 21. Altersjahr vollenden, folgenden Lohn:<sup>49,</sup> <sup>55</sup>
+27 149 410 26 147 933 25 146 459 24 144 985 23 143 509 22 142 035 21 140 563 20 139 087 19 137 611 18 136 139 17 134 662 16 133 189 15 131 712 14 130 242 13 128 766 12 127 292 11 125 817 10 122 376 9 118 935 8 115 494 7 112 870 6 109 430 5 105 988 4 102 550 3 99 109 2 96 483 1 93 042
+
+### B.<sup>36</sup>
+
+### C. Vikariate, Lektionenansatz<sup>29</sup>
+
+<sup>1</sup> Vikarinnen und Vikare mit Lehrdiplom erhalten bei einem Ferienanspruch ab Beginn des Schuljahres, in dem sie das 21. Altersjahr vollenden, folgenden Lohn:<sup>49,</sup> <sup>58</sup>
 
 **1. Lohnmaximum**
 
@@ -861,50 +866,49 @@ Stufe Kategorie II Kategorie III in Franken in Franken 27 139 840 149 410 26 138
 
 **Lohn pro Unterrichtslektion**
 
-Anstellung in Franken a. Lehrperson an Regelklassen auf der Kindergartenstufe b. Förderlehrperson auf der Kindergartenstufe ohne Lehrdiplom in Schulischer Heilpädagogik c. Förderlehrperson auf der Kindergartenstufe mit Lehrdiplom in Schulischer Heilpädagogik d. . . .<sup>44</sup> e. Lehrperson und Fachlehrperson an Regelklassen der Primarstufe f. Lehrperson und Fachlehrperson an Aufnahmeklassen der Primarstufe g. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie
+Anstellung in Franken a. Lehrperson in Regelklassen auf der Kindergartenstufe b. Förderlehrperson auf der Kindergartenstufe ohne Lehrdiplom in Schulischer Heilpädagogik c. Förderlehrperson auf der Kindergartenstufe mit Lehrdiplom in Schulischer Heilpädagogik d. . . .<sup>44</sup> e. Lehrperson und Fachlehrperson in Regelklassen auf der Primarstufe f. Lehrperson und Fachlehrperson in Aufnahmeklassen auf der Primarstufe g. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie
 
-**88.05**
+**93.12**
 
-**86.01**
+**90.97**
 
-**91.79**
+**96.39**
 
-**91.79**
+**90.97**
 
-**91.79**
+**90.97**
 
-### Fachlehrperson an Einschulungs- und Klein-
+### Fachlehrpersonen in Einschulungs- und Klein-
 
-**91.79**
+**90.97**
 
-klassen der Primarstufe h. Förderlehrperson und Lehrperson an Einschulungs- und Kleinklassen der Primarstufe mit Lehrdiplom in Schulischer Heilpädagogik i. Lehrperson und Fachlehrperson an Regelklassen der Sekundarstufe j. Lehrperson und Fachlehrperson an Aufnahmeklassen der Sekundarstufe k. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie Fachlehrperson an Kleinklassen der Sekundarstufe l. Förderlehrperson und Lehrperson an Kleinklassen der Sekundarstufe mit Lehrdiplom in Schulischer Heilpädagogik
+klassen auf der Primarstufe h. Förderlehrperson und Lehrperson in Einschulungs- und Kleinklassen auf der Primarstufe mit Lehrdiplom in Schulischer Heilpädagogik i. Lehrperson und Fachlehrperson in Regelklassen auf der Sekundarstufe j. Lehrperson und Fachlehrperson in Aufnahmeklassen auf der Sekundarstufe k. Förderlehrperson und Lehrperson ohne Lehrdiplom in Schulischer Heilpädagogik sowie Fachlehrperson in Kleinklassen auf der Sekundarstufe 96.39 l. Förderlehrperson und Lehrperson in Kleinklassen auf der Sekundarstufe mit Lehrdiplom in Schulischer Heilpädagogik
 
 **Anlaufstufen**
 
 **102 273 109 440 98 592 105 499**
 
-**97.26**
+**96.39**
 
-**97.26**
+**96.39**
 
-**97.26**
+**96.39**
 
-**97.26**
-
-**104.08**
+**103.15**
 
 **25**
 
 - 1\. 1. 23 - 119
 
-<sup>2</sup> Vikarinnen und Vikare ohne Lehrdiplom für die Volksschule erhalten den Lektionenansatz gemäss Abs. 1<sup>26</sup> a. zu 100% mit Lehrdiplom für die Sekundarstufe II,
-
-- b. zu 90% nach Abschluss des Basisstudiums als Volksschullehrperson oder in besonderen Ausbildungen gemäss § 18 des Gesetzes über die Pädagogische Hochschule[^hFachlehrpersonanEi-1],
+<sup>2</sup> Vikarinnen und Vikare ohne Lehrdiplom für die Volksschule erhalten den Lektionenansatz gemäss Abs. 1<sup>26</sup> a. zu 100% mit Lehrdiplom für die Sekundarstufe II, b.<sup>58</sup> zu 90% nach erfolgreichem Abschluss des Basisstudiums als Volksschullehrperson und positiver Beurteilung der Eignung,
 
 - c. zu 80% in den übrigen Fällen.
 
 <sup>3</sup> Ein zusätzlicher Ferienanspruch gemäss § 13 Abs. 3 wird anteilmässig berücksichtigt.<sup>43</sup>
 
-[^hFachlehrpersonanEi-1]: LS 414.41.
-
 ### D.<sup>27</sup>
+
+## Weitere Fussnoten
+
+- [9] LS 414.41.
+- [16] Fassung gemäss RRB vom 28. Juni 2006 (OS 61, 245; ABl 2006, 808). In Kraft seit 1. Januar 2008. 1. 1. 23 - 119 21
