@@ -4,20 +4,20 @@ number: "172.316"
 title: Reglement über Spesen und weitere Vergütungen
 short: Spesenreglement
 language: de
-version: 2021-08-16
-valid_until: 2022-12-31
-version_adopted: 2021-08-16
+version: 2023-01-01
+valid_until: 2024-03-31
+version_adopted: 2022-12-06
 adopted: 2017-11-21
 in_force: 2018-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.316"
-pdf: "https://ai.clex.ch/api/de/versions/1939/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2199/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über Spesen und weitere Vergütungen
 
-vom 21.11.2017 (Stand 16.08.2021)
+vom 21.11.2017 (Stand 01.01.2023)
 
 Das Finanzdepartement des Kantons Appenzell I. Rh.,
 
@@ -105,11 +105,11 @@ beschliesst:
 
 **Abrechnung von Spesen**
 
-<sup>1</sup> Die Spesenabrechnung erfolgt monatlich auf dem vorgegebenen Formular. Die Originalbelege sind beizulegen.
+<sup>1</sup> Die Spesenabrechnung ist dem Personalamt innert eines Monats seit dem Eintritt des Spesengrundes oder der Ausgabe einzureichen.
 
-<sup>2</sup> Sie ist vom oder von der Vorgesetzten und vom Departementsvorsteher oder von der Departementsvorsteherin zu visieren.
+<sup>2</sup> Die Spesenabrechnung samt allen erforderlichen Belegen ist elektronisch einzureichen. Das Personalamt kann ausnahmsweise die physische Einreichung bewilligen.
 
-<sup>3</sup> Spesenabrechnungen sind dem Personalamt einzureichen.
+<sup>3</sup> Spesenabrechnungen sind von der vorgesetzten Person und zusätzlich vom Departementssekretär oder der Departementssekretärin, in der Ratskanzlei vom Ratschreiber oder von der Ratschreiberin, zu visieren.
 
 #### Art. 11
 
