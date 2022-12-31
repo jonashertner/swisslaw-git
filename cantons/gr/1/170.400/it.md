@@ -4,13 +4,13 @@ number: "170.400"
 title: Legge sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni
 short: "Legge sul personale, LCPers"
 language: it
-version: 2022-01-01
-corrected: 2022-01-01
-version_adopted: 2021-08-26
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-01
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3209/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3283/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3209/pdf_file"
 
 (Legge sul personale, LCPers)
 
-del 14.06.2006 (stato 01.01.2022)
+del 14.06.2006 (stato 01.01.2023)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -39,7 +39,7 @@ decide:
 
 **Politica del personale**
 
-<sup>1</sup> Il Cantone e gli istituti soggetti alla legge configurano la loro politica del personale in modo tale che i loro compiti possano essere adempiuti in ogni momento in modo economico, tempestivo e con la qualità necessaria.
+<sup>1</sup> Il Cantone e gli istituti soggetti alla legge configurano la loro politica del personale in modo tale che i loro compiti possano essere adempiuti in qualsiasi momento in modo economico, tempestivo e con la qualità necessaria nonché nel rispetto delle loro responsabilità per quanto riguarda la famiglia e la società nonché delle pari opportunità.
 
 <sup>2</sup> A questo scopo i collaboratori vengono impiegati in modo adeguato ed economicamente e socialmente sostenibile, nonché vengono adottate le relative misure necessarie e opportune.
 
@@ -84,33 +84,41 @@ decide:
 
 #### Art. 6
 
-**Natura giuridica e tipo di assunzione**
+**Contratto di lavoro e limitazione temporale**
 
-<sup>1</sup> I rapporti di lavoro vengono costituiti con contratti di diritto pubblico.
+<sup>1</sup> I rapporti di lavoro vengono costituiti con un contratto di lavoro scritto di diritto pubblico.
+
+<sup>2</sup> In presenza di motivi materialmente giustificati, segnatamente in caso di un progetto a tempo determinato, possono essere concordati rapporti di lavoro a tempo determinato.
 
 #### Art. 7
 
 **Periodo di prova**
 
-<sup>1</sup> Il periodo di prova dura di regola sei mesi. A seconda delle esigenze esso può essere ridotto fino a tre mesi o aumentato fino a dodici mesi.
+<sup>1</sup> Il periodo di prova dura tre mesi. Per determinate funzioni il Governo può fissare periodi di prova fino a sei mesi.
 
-<sup>2</sup> Se le prestazioni o il comportamento non soddisfano, il periodo di prova può essere prolungato fino al massimo a dodici mesi.
+<sup>2</sup> Specialmente nei casi in cui le prestazioni o il comportamento non convincono, è possibile concordare un prolungamento una tantum del periodo di prova fino al doppio della sua durata.
 
-<sup>3</sup> Se per esercitare una determinata attività è necessaria una formazione, il periodo di prova può essere prolungato fino alla conclusione della stessa.
+<sup>3</sup> …
 
-<sup>4</sup> Per rapporti di lavoro temporanei o con un volume di lavoro modesto possono essere stabiliti periodi di prova più brevi.
+<sup>4</sup> Per rapporti di lavoro di durata inferiore a un anno è possibile concordare un periodo di prova più breve o vi si può rinunciare del tutto.
 
 #### Art. 8
 
-**Termini di disdetta**
+**Termini e scadenza di disdetta**
 
-<sup>1</sup> Il termine per la disdetta del rapporto di lavoro dopo il periodo di prova è di regola di quattro mesi per entrambe le parti contraenti.
+<sup>1</sup> Il rapporto di lavoro può essere disdetto per la fine di un mese nel rispetto dei seguenti termini di disdetta:
 
-<sup>2</sup> Durante il periodo di prova il termine di disdetta è di regola di un mese.
+- a) tre mesi, dopo il periodo di prova;
+- b) quattro mesi, a partire del 10° anno di servizio;
+- c) sei mesi, per i quadri superiori.
 
-<sup>3</sup> Per quadri o rapporti di lavoro temporanei o con un volume di lavoro modesto possono essere stabiliti termini di disdetta diversi.
+<sup>2</sup> Durante il periodo di prova il rapporto di lavoro può essere disdetto in qualsiasi momento rispettando un termine di disdetta di sette giorni.
 
-<sup>4</sup> Con il consenso di entrambe le parti si può derogare ai termini di disdetta stabiliti contrattualmente.
+<sup>2<sup>bis</sup></sup> Nelle disposizioni esecutive possono essere stabiliti altri termini e scadenze di disdetta per gli insegnanti di scuole cantonali e per gli ispettori scolastici.
+
+<sup>3</sup> Per rapporti di lavoro di durata inferiore a un anno può essere stabilito un termine di disdetta più breve.
+
+<sup>4</sup> L'altra parte contraente può accettare una disdetta che non rispetta il termine o la scadenza.
 
 #### Art. 9
 
@@ -129,7 +137,7 @@ decide:
 
 **Disdetta immediata**
 
-<sup>1</sup> Per motivi gravi entrambe le parti contraenti possono disdire in ogni momento il rapporto di lavoro senza osservare i termini.
+<sup>1</sup> Per motivi gravi entrambe le parti contraenti possono disdire in qualsiasi momento il rapporto di lavoro senza osservare i termini.
 
 <sup>2</sup> È considerato grave ogni motivo che non permette di esigere la continuazione del rapporto di lavoro da chi dà la disdetta.
 
@@ -151,7 +159,7 @@ decide:
 
 **Contratto d'annullamento**
 
-<sup>1</sup> Di comune intesa le parti contraenti possono annullare in ogni momento il rapporto di lavoro.
+<sup>1</sup> I rapporti di lavoro possono essere annullati in qualsiasi momento con un contratto d'annullamento scritto.
 
 #### Art. 14
 
@@ -161,23 +169,28 @@ decide:
 
 #### Art. 15
 
-**Raggiungimento dei limiti di età, pensionamento amministrativo**
+**Pensionamento**
 
-<sup>1</sup> Il rapporto di lavoro termina con il compimento del 65° anno di età.
+<sup>1</sup> Il rapporto di lavoro cessa l'ultimo giorno del mese nel quale il collaboratore compie i 65 anni. I rapporti di lavoro di insegnanti di scuole cantonali e di ispettori scolastici cessano l'ultimo giorno dell'ultimo mese del semestre scolastico in cui compiono i 65 anni.
 
 <sup>2</sup> Il Governo può disporre il pensionamento anticipato se la rioccupazione del posto è di interesse pubblico. Esso fissa la liquidazione in base alle disposizioni dell'articolo 17.
 
 <sup>3</sup> I collaboratori possono andare in pensione anticipata integrale o parziale non prima della fine del mese in cui compiono i 60 anni. Un pensionamento anticipato a partire da 62 anni può essere sostenuto finanziariamente con un contributo a favore di una rendita transitoria AVS. Il Governo disciplina i dettagli, in particolare un eventuale diritto al riguardo e l'ammontare del contributo. La regolamentazione transitoria viene determinata secondo l'articolo 72a della presente legge.
 
-<sup>4</sup> Una continuazione del rapporto di lavoro dopo il compimento del 65° anno di età è possibile soltanto in casi eccezionali e nella misura in cui sia di particolare interesse del Cantone
+<sup>4</sup> Dopo il momento stabilito nel capoverso 1 il rapporto di lavoro può essere proseguito a tempo determinato.
 
 #### Art. 16
 
-**Pensionamento anticipato per motivi di salute**
+**Adeguamento o scioglimento per motivi di salute**
 
-<sup>1</sup> Il collaboratore oppure il servizio può richiedere il pensionamento anticipato per motivi di salute.
+<sup>1</sup> Su richiesta del collaboratore, secondo l'inabilità al lavoro accertata nel quadro di una procedura svolta dall'ufficio AI competente, il volume di impiego o le mansioni vengono adeguati oppure il rapporto di lavoro viene sciolto del tutto o in parte.
 
-<sup>2</sup> Il Governo decide dopo aver preso atto della decisione dell'Ufficio AI cantonale.
+<sup>2</sup> Nel caso di collaboratori che per motivi di salute sono impossibilitati del tutto o in parte a svolgere la prestazione lavorativa per almeno dodici mesi e che presumibilmente saranno inabili al lavoro per almeno altri sei mesi, il volume di impiego o le mansioni possono essere adeguati di conseguenza o il rapporto di lavoro può essere disdetto.
+
+<sup>3</sup> Il Governo disciplina i dettagli, in particolare:
+
+- a) il momento a partire dal quale il volume di impiego o le mansioni vengono adeguati o il rapporto di lavoro viene sciolto secondo il capoverso 1;
+- b) le competenze, la forma e la procedura per adeguamenti e disdette secondo il capoverso 1 e il capoverso 2.
 
 #### Art. 17
 
@@ -313,6 +326,16 @@ decide:
 
 <sup>1</sup> L'assegno per i figli si conforma alla legge cantonale sugli assegni familiari.
 
+#### Art. 28a
+
+**Sostegno per l'assistenza ai bambini da parte di terzi**
+
+<sup>1</sup> Ai collaboratori che in qualità di titolari dell'autorità parentale affidano l'assistenza dei propri figli a terzi può essere versato un contributo fino a un terzo dei costi di assistenza. Il Governo disciplina i dettagli, in particolare:
+
+- a) il diritto al contributo;
+- b) l'ammontare del contributo;
+- c) la competenza e la procedura.
+
 #### Art. 29
 
 **Indennità sociale speciale**
@@ -333,9 +356,15 @@ decide:
 
 <sup>1</sup> Il Cantone tiene un fondo di previdenza per il personale.
 
-<sup>2</sup> In caso di necessità i collaboratori possono essere sostenuti finanziariamente a carico del fondo. In casi motivati possono anche essere concessi mutui con o senza interessi.
+<sup>2</sup> In caso di necessità i collaboratori possono essere sostenuti finanziariamente a carico del fondo.
 
-<sup>3</sup> Eccedenze di premio ed eventuali rimborsi dell'assicurazione contro gli infortuni del personale confluiscono nel fondo di previdenza per il personale.
+<sup>3</sup> Rimborsi dell'assicurazione contro gli infortuni del personale confluiscono nel fondo di previdenza per il personale.
+
+<sup>4</sup> Il Governo disciplina i dettagli, in particolare:
+
+- a) le modalità di calcolo degli interessi e le modalità di rimborso;
+- b) la gestione del fondo;
+- c) la competenza e la procedura.
 
 ### 3.3. Indennità speciali e spese
 
@@ -410,6 +439,12 @@ decide:
 
 <sup>2</sup> …
 
+#### Art. 38a
+
+**Versamento dello stipendio in caso di rinuncia alla prestazione lavorativa**
+
+<sup>1</sup> Il servizio può rinunciare in qualsiasi momento, del tutto o in parte, alla prestazione lavorativa, con versamento dell'intero stipendio.
+
 #### Art. 39
 
 **Previdenza professionale**
@@ -430,19 +465,19 @@ decide:
 
 **Vacanze**
 
-<sup>1</sup> Il diritto a vacanze ammonta annualmente a
+<sup>1</sup> Il diritto annuale a vacanze ammonta, fino e compreso l'anno civile nel quale i collaboratori:
 
-- a) fino al 49° anno di età: quattro settimane
-- b) dal 50° al 59° anno di età: cinque settimane
-- c) a partire dal 60° anno di età: sei settimane
+- a) compiono 49 anni: cinque settimane;
+- b) compiono 59 anni: cinque settimane e mezzo;
+- c) vanno in pensione per ragioni di età: sei settimane.
 
-<sup>2</sup> È determinante l'anno civile nel quale si compiono gli anni.
+<sup>2</sup> Ogni anno i collaboratori possono acquistare fino a due settimane di vacanza supplementari, se non vi si oppongono motivi aziendali.
 
-<sup>3</sup> Il diritto a vacanze degli insegnanti nelle scuole che sottostanno a questo diritto si conforma alla durata dell'anno scolastico e alle esigenze di lavoro.
+<sup>3</sup> …
 
-<sup>4</sup> I giovani collaboratori hanno diritto a cinque settimane di vacanza all'anno fino all'anno civile compreso nel quale essi compiono 20 anni.
+<sup>4</sup> …
 
-<sup>5</sup> Gli apprendisti hanno diritto a cinque settimane di vacanza all'anno fino alla fine del periodo di formazione.
+<sup>5</sup> …
 
 #### Art. 42
 
@@ -460,7 +495,7 @@ decide:
 
 <sup>1</sup> I Dipartimenti hanno la facoltà di concedere, su proposta del servizio e dopo aver sentito l'Ufficio del personale, congedi pagati fino a una settimana. Per congedi pagati più lunghi è competente il Governo.
 
-<sup>2</sup> Per eventi come la nascita di figli propri, adozioni, feste in famiglia, decessi, cambiamenti di abitazione, manifestazioni sportive e culturali vengono concessi brevi congedi pagati.
+<sup>2</sup> I servizi concedono brevi congedi pagati per eventi come paternità, adozioni, feste di famiglia, assistenza a familiari, decessi, cambiamenti di abitazione, manifestazioni sportive e culturali.
 
 <sup>3</sup> I servizi decidono sulla concessione di congedi non pagati in considerazione delle esigenze aziendali e individuali.
 
@@ -469,6 +504,8 @@ decide:
 **Congedo maternità**
 
 <sup>1</sup> Dopo il parto, alla collaboratrice viene concesso un congedo pagato della durata di 16 settimane.
+
+<sup>2</sup> In caso di ospedalizzazione del neonato la durata del congedo di maternità diventa pari alla durata prolungata del versamento dell'indennità di maternità.
 
 #### Art. 44
 
@@ -506,6 +543,25 @@ decide:
 
 <sup>2</sup> Il Governo disciplina l'assunzione delle spese risultanti.
 
+#### Art. 47a
+
+**Segnalazione di irregolarità**
+
+<sup>1</sup> In buona fede i collaboratori possono segnalare in modo anonimo irregolarità a un servizio di segnalazione.
+
+<sup>2</sup> I collaboratori che presentano una segnalazione secondo il capoverso 1 non violano i loro obblighi di servizio e non possono subire svantaggi a seguito di questa segnalazione.
+
+<sup>3</sup> Il Governo designa un servizio di segnalazione esterno all'organizzazione dell'Amministrazione il quale adempie i compiti previsti da questa disposizione in modo competente, autonomo, indipendente e non vincolato a direttive nonché nel rispetto della protezione dei dati e della segretezza.
+
+<sup>4</sup> Il servizio di segnalazione:
+
+- a) registra la fattispecie;
+- b) adotta misure idonee per proteggere l'anonimato e la personalità dei collaboratori che procedono a una segnalazione e di eventuali altre persone;
+- c) informa il Governo, il Dipartimento, la Cancelleria dello Stato, il Controllo delle finanze, il tribunale o l'istituto cantonale autonomo, se ritiene urgente l'adozione di una misura;
+- d) informa i collaboratori che procedono a una segnalazione in merito alla procedura, ai loro diritti e ai loro doveri nonché, se non vi si oppongono interessi privati o pubblici preponderanti, in merito all'evasione del procedimento;
+- e) presenta rapporto ogni anno al Governo in merito alla sua attività e alle misure raccomandate;
+- f) sostiene il Governo, il Dipartimento, la Cancelleria dello Stato, il Controllo delle finanze, il tribunale o l'istituto cantonale autonomo nel chiarimento delle fattispecie e nell'attuazione delle misure.
+
 ## 4. Obblighi dei collaboratori
 
 #### Art. 48
@@ -529,6 +585,8 @@ decide:
 <sup>4</sup> L'orario di lavoro e il numero di lezioni nelle scuole cantonali vengono fissati nei relativi atti normativi.
 
 <sup>5</sup> Il Governo disciplina le modalità dell'orario di lavoro e fissa i giorni festivi, nonché i giorni non lavorativi.
+
+<sup>6</sup> Dopo la nascita di figli propri o dopo un'adozione possono essere concessi una riduzione e un successivo nuovo aumento del volume di impiego. Il Governo disciplina i dettagli, in particolare un eventuale diritto al riguardo.
 
 #### Art. 50
 
@@ -562,9 +620,11 @@ decide:
 
 **Divieto di accettare regali**
 
-<sup>1</sup> I collaboratori non possono chiedere, accettare o farsi promettere per sé o per altri regali o altri vantaggi in relazione all'esercizio delle proprie attività di servizio. È fatta salva l'accettazione di regali di poco valore.
+<sup>1</sup> I collaboratori non possono chiedere, accettare o farsi promettere per sé o per altri regali o altri vantaggi in relazione all'esercizio delle proprie attività di servizio. Il Governo disciplina i dettagli e può prevedere deroghe, in particolare per regali di poco valore.
 
 <sup>2</sup> Le condizioni privilegiate che le organizzazioni professionali concordano a favore dei propri soci non sono considerati regali o altri vantaggi ai sensi del capoverso 1.
+
+<sup>3</sup> I collaboratori devono notificare al servizio se vengono loro offerti dei regali o dei vantaggi che secondo il capoverso 1 non possono accettare.
 
 #### Art. 53
 
@@ -686,14 +746,14 @@ decide:
 
 #### Art. 63
 
-**Competenze in materia di assunzione e di disdetta**
+**Contratti di lavoro e di annullamento nonché disdette**
 
-<sup>1</sup> Fatte salve altre disposizioni sono competenti per le assunzioni e le disdette:
+<sup>1</sup> Se la legge o gli atti normativi esecutivi non stabiliscono diversamente, per i contratti di lavoro e di annullamento nonché per le disdette sono competenti:
 
-- a) il Governo per i capi servizio, i loro supplenti e i segretari di concetto;
-- b) i Dipartimenti e la Cancelleria dello Stato per gli altri collaboratori a partire dalla classe di stipendio 16;
-- c) i servizi per i loro collaboratori nelle classi di stipendio da 1 a 15;
-- d) il presidente della direzione scolastica per gli insegnanti delle scuole cantonali.
+- a) il Governo per i capi servizio, i loro supplenti e i segretari generali;
+- b) i Dipartimenti e la Cancelleria dello Stato per gli altri collaboratori a partire dalla classe di funzione 20;
+- c) i servizi per i collaboratori nelle classi di funzione da 1 a 19.
+- d) …
 
 <sup>2</sup> Gli istituti cantonali autonomi possono stabilire le competenze in materia di assunzione e di disdetta in base ad altri criteri.
 
@@ -703,13 +763,18 @@ decide:
 
 <sup>1</sup> Se la presente legge o i relativi atti normativi esecutivi non stabiliscono diversamente, per tutte le decisioni in materia di diritto del personale sono considerate autorità competenti i Dipartimenti, la Cancelleria dello Stato o il Controllo delle finanze.
 
+<sup>1<sup>bis</sup></sup> Se secondo la legge o gli atti normativi esecutivi la competenza spetta al servizio, per decisioni in materia di diritto del personale sono competenti:
+
+- a) il presidente del Governo per il cancelliere;
+- b) i Dipartimenti per i capiservizio.
+
 <sup>2</sup> Se l'autorità competente e l'Ufficio del personale non giungono ad un accordo, il Governo decide in via definitiva.
 
 #### Art. 65
 
 **2. Per gli istituti cantonali autonomi, nonché i tribunali e le autorità di conciliazione**
 
-<sup>1</sup> Gli istituti cantonali autonomi, nonché il Tribunale cantonale e il Tribunale amministrativo hanno le stesse competenze del Governo. Fanno eccezione le disposizioni dell'articolo 20, dell'articolo 29 capoverso 2, dell'articolo 35 capoverso 4, dell'articolo 36 capoverso 2, dell'articolo 37 capoverso 2 e dell'articolo 73 capoverso 2.
+<sup>1</sup> Gli istituti cantonali autonomi, nonché il Tribunale cantonale e il Tribunale amministrativo hanno le stesse competenze del Governo. Fanno eccezione le disposizioni dell'articolo 20, dell'articolo 29 capoverso 2, dell'articolo 35 capoverso 4, dell'articolo 36 capoverso 2, dell'articolo 37 capoverso 2, dell'articolo 47a capoverso 3 e capoverso 4 nonché dell'articolo 73 capoverso 2.
 
 <sup>2</sup> Gli istituti cantonali autonomi, nonché il Tribunale cantonale e il Tribunale amministrativo stabiliscono le autorità competenti. Sono fatte salve disposizioni particolari contenute nelle leggi sull'organizzazione.
 
@@ -811,15 +876,17 @@ decide:
 
 <sup>1</sup> La presente legge è valida anche per procedure pendenti. Nel caso in cui l'autorità o il servizio stia già trattando un affare, la loro competenza permane.
 
-<sup>2</sup> I mezzi per la compensazione del rincaro nonché per gli sviluppi degli stipendi individuali e per la gestione degli impieghi vengono determinati per la prima volta tramite i preventivi per il 2018 conformemente all'articolo 19.
+<sup>2</sup> …
 
-<sup>3</sup> I collaboratori che sono stati nominati in un'autorità prima dell'entrata in vigore della presente legge, il cui mandato non è compatibile con l'assunzione presso il Cantone secondo l'articolo 58, possono esercitare il mandato fino allo scadere del periodo di carica.
+<sup>3</sup> …
 
 #### Art. 72a
 
 **Disposizione transitoria dell'articolo 15 capoverso 3**
 
 <sup>1</sup> I collaboratori che il 1° gennaio 2022 hanno già compiuto 60 anni possono chiedere un pensionamento anticipato a partire dal 63° anno d'età secondo il Regolamento sul pensionamento anticipato del 19 marzo 2013 (stato 1° aprile 2013).
+
+<sup>2</sup> Il Governo disciplina in particolare le competenze e la procedura nonché le modalità e l'ammontare dei contributi in modo tale che sia garantito un passaggio graduale e praticabile alla nuova regolamentazione secondo l'articolo 15 capoverso 3 e siano rispettati i mezzi di preventivo autorizzati. A tale scopo prevede contributi adeguatamente ridotti e decide in generale in merito a domande per l'anno successivo.
 
 #### Art. 73
 
@@ -829,10 +896,9 @@ decide:
 
 <sup>2</sup> Il Governo stabilisce l'entrata in vigore[^73-2] della presente legge.
 
-<sup>3</sup> L'articolo 65 capoverso 5 entra in vigore soltanto se viene approvata la revisione parziale dell'articolo 50 della Costituzione cantonale[^73-3].
+<sup>3</sup> …
 
 [^73-1]: Il termine di referendum è scaduto inutilizzato il 27 dic. 2006
 [^73-2]: Posta in vigore il 1° gen. 2007 con DG del 12 dic. 2006
-[^73-3]: La revisione parziale è stata accettata dal Popolo il 24 sett. 2006
 
 -

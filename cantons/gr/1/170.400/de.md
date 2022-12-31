@@ -4,13 +4,13 @@ number: "170.400"
 title: Gesetz über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden
 short: "Personalgesetz, PG"
 language: de
-version: 2022-01-01
-corrected: 2022-01-01
-version_adopted: 2021-08-26
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-01
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3209/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3283/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3209/pdf_file"
 
 (Personalgesetz, PG)
 
-Vom 14.06.2006 (Stand 01.01.2022)
+Vom 14.06.2006 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -39,7 +39,7 @@ beschliesst:
 
 **Personalpolitik**
 
-<sup>1</sup> Der Kanton und die dem Gesetz unterstellten Anstalten gestalten ihre Personalpolitik so, dass ihre Aufgaben jederzeit wirtschaftlich, zeitgerecht und in der erforderlichen Qualität erfüllt werden können.
+<sup>1</sup> Der Kanton und die dem Gesetz unterstellten Anstalten gestalten ihre Personalpolitik so, dass ihre Aufgaben jederzeit wirtschaftlich, zeitgerecht und in der erforderlichen Qualität sowie unter Berücksichtigung der Verantwortung in Familie und Gesellschaft und der Chancengleichheit erfüllt werden können.
 
 <sup>2</sup> Zu diesem Zweck werden die Mitarbeitenden auf sachgerechte, wirtschaftlich und sozial verantwortbare Weise eingesetzt und die dazu nötigen und geeigneten Massnahmen getroffen.
 
@@ -84,33 +84,41 @@ beschliesst:
 
 #### Art. 6
 
-**Rechtsnatur und Anstellungsart**
+**Arbeitsvertrag und Befristung**
 
-<sup>1</sup> Die Arbeitsverhältnisse werden mit öffentlich-rechtlichem Vertrag begründet.
+<sup>1</sup> Arbeitsverhältnisse werden mit einem schriftlichen öffentlich-rechtlichen Arbeitsvertrag begründet.
+
+<sup>2</sup> Bei Vorliegen sachlich zureichender Gründe, insbesondere für ein zeitlich begrenztes Projekt, können befristete Arbeitsverhältnisse vereinbart werden.
 
 #### Art. 7
 
 **Probezeit**
 
-<sup>1</sup> Die Probezeit beträgt in der Regel sechs Monate. Sie kann je nach Anforderungen auf drei Monate herab- oder auf zwölf Monate hinaufgesetzt werden.
+<sup>1</sup> Die Probezeit dauert drei Monate. Die Regierung kann für bestimmte Funktionen Probezeiten von bis zu sechs Monaten festlegen.
 
-<sup>2</sup> Überzeugen die Leistungen oder das Verhalten nicht, kann die Probezeit bis auf höchstens zwölf Monate verlängert werden.
+<sup>2</sup> Insbesondere wenn die Leistungen oder das Verhalten nicht überzeugen, kann eine einmalige Verlängerung der Probezeit bis zur doppelten Dauer vereinbart werden.
 
-<sup>3</sup> Ist für die Ausübung einer bestimmten Tätigkeit eine Ausbildung erforderlich, kann die Probezeit bis zu deren Abschluss verlängert werden.
+<sup>3</sup> …
 
-<sup>4</sup> Bei Arbeitsverhältnissen, die nicht auf Dauer ausgerichtet sind oder einen kleinen Arbeitsumfang aufweisen, können kürzere Probezeiten festgelegt werden.
+<sup>4</sup> Für Arbeitsverhältnisse, die auf weniger als ein Jahr befristet sind, kann eine kürzere Probezeit vereinbart oder auf eine solche verzichtet werden.
 
 #### Art. 8
 
-**Kündigungsfristen**
+**Kündigungsfristen und -termin**
 
-<sup>1</sup> Die Frist für die Kündigung des Arbeitsverhältnisses nach der Probezeit beträgt für beide Vertragsparteien in der Regel vier Monate.
+<sup>1</sup> Das Arbeitsverhältnis kann mit folgenden Fristen auf das Ende eines Monats gekündigt werden:
 
-<sup>2</sup> Während der Probezeit beträgt die Kündigungsfrist in der Regel einen Monat.
+- a) drei Monate, nach der Probezeit;
+- b) vier Monate, ab dem 10. Dienstjahr;
+- c) sechs Monate, bei oberen Kadern.
 
-<sup>3</sup> Bei Kaderpositionen oder bei Arbeitsverhältnissen, die nicht auf Dauer ausgerichtet sind oder einen kleinen Arbeitsumfang aufweisen, können andere Kündigungsfristen festgelegt werden.
+<sup>2</sup> Während der Probezeit kann das Arbeitsverhältnis mit einer Frist von sieben Tagen jederzeit gekündigt werden.
 
-<sup>4</sup> Von der vertraglich festgelegten Kündigungsfrist kann in beidseitigem Einvernehmen abgewichen werden.
+<sup>2<sup>bis</sup></sup> Für Lehrpersonen an kantonalen Schulen und für Schulinspektorinnen und -inspektoren können in den Ausführungsbestimmungen andere Kündigungsfristen und -termine festgelegt werden.
+
+<sup>3</sup> Für Arbeitsverhältnisse, die auf weniger als ein Jahr befristet sind, kann eine kürzere Kündigungsfrist vereinbart werden.
+
+<sup>4</sup> Die andere Vertragspartei kann eine Kündigung, welche die Frist oder den Termin nicht einhält, akzeptieren.
 
 #### Art. 9
 
@@ -129,7 +137,7 @@ beschliesst:
 
 **Fristlose Kündigung**
 
-<sup>1</sup> Aus wichtigem Grund kann das Arbeitsverhältnis jederzeit von beiden Vertragsparteien fristlos aufgelöst werden.
+<sup>1</sup> Aus wichtigem Grund kann das Arbeitsverhältnis jederzeit von beiden Vertragsparteien fristlos gekündigt werden.
 
 <sup>2</sup> Wichtig ist jeder Grund, der die Fortsetzung des Arbeitsverhältnisses für die kündigende Vertragspartei unzumutbar macht.
 
@@ -151,7 +159,7 @@ beschliesst:
 
 **Aufhebungsvertrag**
 
-<sup>1</sup> Die Vertragsparteien können das Arbeitsverhältnis im beidseitigen Einverständnis jederzeit aufheben.
+<sup>1</sup> Arbeitsverhältnisse können mit einem schriftlichen Aufhebungsvertrag jederzeit aufgehoben werden.
 
 #### Art. 14
 
@@ -161,23 +169,28 @@ beschliesst:
 
 #### Art. 15
 
-**Erreichen der Altersgrenze, administrative Alterspensionierung**
+**Alterspensionierung**
 
-<sup>1</sup> Das Arbeitsverhältnis endet mit Erreichen des 65. Altersjahres.
+<sup>1</sup> Das Arbeitsverhältnis endet am letzten Tag des Monats, in dem die Mitarbeiterin oder der Mitarbeiter 65 Jahre alt wird. Arbeitsverhältnisse von Lehrpersonen an kantonalen Schulen und von Schulinspektorinnen und -inspektoren enden am letzten Tag des letzten Monats des Schulsemesters, in dem sie 65 Jahre alt werden.
 
 <sup>2</sup> Die Regierung kann eine vorverschobene Pensionierung anordnen, wenn die Neubesetzung einer Stelle im öffentlichen Interesse liegt. Sie legt die Abfindung nach den Bestimmungen von Artikel 17 fest.
 
 <sup>3</sup> Mitarbeitende können sich frühestens auf Ende des Monats, in dem sie 60 Jahre alt werden, ganz oder teilweise vorzeitig pensionieren lassen. Eine vorzeitige Pensionierung ab Alter 62 kann mit einem Beitrag an eine AHV-Überbrückungsrente finanziell unterstützt werden. Die Regierung regelt die Einzelheiten, insbesondere eine allfällige Anspruchsberechtigung und die Höhe des Beitrags. Die Übergangsregelung bestimmt sich nach Artikel 72a dieses Gesetzes.
 
-<sup>4</sup> Eine Weiterbeschäftigung nach Vollendung des 65. Altersjahres ist nur in Ausnahmefällen möglich und sofern eine solche im besonderen Interesse des Kantons liegt.
+<sup>4</sup> Das Arbeitsverhältnis kann nach dem Zeitpunkt gemäss Absatz 1 befristet fortgeführt werden.
 
 #### Art. 16
 
-**Vorzeitige Versetzung in den Ruhestand aus gesundheitlichen Gründen**
+**Anpassung oder Beendigung aus gesundheitlichen Gründen**
 
-<sup>1</sup> Die Mitarbeiterin, der Mitarbeiter oder die Dienststelle können die Versetzung in den Ruhestand aus gesundheitlichen Gründen beantragen.
+<sup>1</sup> Auf Antrag der Mitarbeiterin oder des Mitarbeiters wird nach Massgabe der Arbeitsunfähigkeit, die in einem Verfahren der zuständigen IV-Stelle festgestellt wurde, der Umfang oder der Inhalt der Arbeit angepasst oder das Arbeitsverhältnis ganz oder teilweise beendet.
 
-<sup>2</sup> Die Regierung entscheidet nach Kenntnisnahme vom Entscheid der kantonalen IV-Stelle.
+<sup>2</sup> Bei Mitarbeitenden, die aus gesundheitlichen Gründen während mindestens zwölf Monaten ganz oder teilweise an der Arbeitsleistung verhindert sind und voraussichtlich während mindestens sechs weiteren Monaten arbeitsunfähig sind, kann der Umfang oder der Inhalt der Arbeit entsprechend angepasst oder das Arbeitsverhältnis gekündigt werden.
+
+<sup>3</sup> Die Regierung regelt die Einzelheiten, insbesondere:
+
+- a) den Zeitpunkt, auf den der Umfang oder der Inhalt der Arbeit angepasst oder das Arbeitsverhältnis nach Absatz 1 beendet wird;
+- b) die Zuständigkeiten, die Form und das Verfahren für Anpassungen und Kündigungen nach Absatz 1 und Absatz 2.
 
 #### Art. 17
 
@@ -313,6 +326,16 @@ beschliesst:
 
 <sup>1</sup> Die Kinderzulage richtet sich nach dem kantonalen Gesetz über die Familienzulagen.
 
+#### Art. 28a
+
+**Unterstützung für Drittbetreuung von Kindern**
+
+<sup>1</sup> Mitarbeitenden, die als Erziehungsberechtigte Kinder durch Dritte betreuen lassen, kann ein Beitrag von bis zu einem Drittel der Betreuungskosten ausgerichtet werden. Die Regierung regelt die Einzelheiten, insbesondere:
+
+- a) die Anspruchsberechtigung;
+- b) die Höhe des Beitrags;
+- c) die Zuständigkeit und das Verfahren.
+
 #### Art. 29
 
 **Besondere Sozialzulage**
@@ -333,9 +356,15 @@ beschliesst:
 
 <sup>1</sup> Der Kanton führt einen Personalfürsorgefonds.
 
-<sup>2</sup> In Notfällen können Mitarbeitende zu Lasten des Fonds finanziell unterstützt werden. In begründeten Fällen können auch verzinsliche oder unverzinsliche Darlehen gewährt werden.
+<sup>2</sup> In Notfällen können Mitarbeitende zu Lasten des Fonds finanziell unterstützt werden.
 
-<sup>3</sup> Prämienüberschüsse und allfällige Rückvergütungen der Unfallversicherung des Personals fliessen in den Personalfürsorgefonds.
+<sup>3</sup> Rückvergütungen der Unfallversicherung des Personals fliessen in den Personalfürsorgefonds.
+
+<sup>4</sup> Die Regierung regelt die Einzelheiten, insbesondere:
+
+- a) die Zins- und Rückzahlungsmodalitäten;
+- b) die Verwaltung des Fonds;
+- c) die Zuständigkeit und das Verfahren.
 
 ### 3.3. Besondere Zulagen und Spesen
 
@@ -410,6 +439,12 @@ beschliesst:
 
 <sup>2</sup> …
 
+#### Art. 38a
+
+**Lohnzahlung während eines Verzichts auf die Arbeitsleistung**
+
+<sup>1</sup> Die Dienststelle kann bei voller Lohnzahlung jederzeit vollständig oder teilweise auf die Arbeitsleistung verzichten.
+
 #### Art. 39
 
 **Berufliche Vorsorge**
@@ -430,19 +465,19 @@ beschliesst:
 
 **Ferien**
 
-<sup>1</sup> Der Ferienanspruch beträgt jährlich
+<sup>1</sup> Der jährliche Ferienanspruch beträgt bis und mit dem Kalenderjahr, in dem die Mitarbeitenden:
 
-- a) bis zum 49. Altersjahr: vier Wochen
-- b) vom 50. bis zum 59. Altersjahr: fünf Wochen
-- c) ab dem 60. Altersjahr: sechs Wochen
+- a) 49 Jahre alt werden: fünf Wochen;
+- b) 59 Jahre alt werden: fünfeinhalb Wochen;
+- c) altershalber pensioniert werden: sechs Wochen.
 
-<sup>2</sup> Massgebend ist das Kalenderjahr, in dem das Altersjahr erfüllt wird.
+<sup>2</sup> Die Mitarbeitenden können jährlich bis zu zwei Wochen zusätzliche Ferien erwerben, sofern keine betrieblichen Gründe dagegensprechen.
 
-<sup>3</sup> Der Ferienanspruch der Lehrpersonen an den Schulen, welche diesem Recht unterstellt sind, richtet sich nach der Schulzeit und den betrieblichen Bedürfnissen.
+<sup>3</sup> …
 
-<sup>4</sup> Die jugendlichen Mitarbeitenden haben einen jährlichen Ferienanspruch von fünf Wochen bis und mit dem Kalenderjahr, in welchem das 20. Altersjahr vollendet wird.
+<sup>4</sup> …
 
-<sup>5</sup> Das Lernpersonal hat einen jährlichen Ferienanspruch von fünf Wochen bis zur Beendigung der Ausbildungszeit.
+<sup>5</sup> …
 
 #### Art. 42
 
@@ -460,7 +495,7 @@ beschliesst:
 
 <sup>1</sup> Die Departemente können auf Antrag der Dienststelle und nach Anhören des Personalamtes bezahlte Urlaube bis zu einer Woche gewähren. Für längere bezahlte Urlaube ist die Regierung zuständig.
 
-<sup>2</sup> Für Ereignisse wie Geburten eigener Kinder, Adoptionen, Familienfeste, Todesfälle, Wohnungswechsel, sportliche und kulturelle Anlässe werden bezahlte Kurzurlaube gewährt.
+<sup>2</sup> Die Dienststellen gewähren bezahlte Kurzurlaube für Ereignisse wie Vaterschaft, Adoptionen, Familienfeste, Betreuung von Angehörigen, Todesfälle, Wohnungswechsel, sportliche und kulturelle Anlässe.
 
 <sup>3</sup> Über die Gewährung von unbezahlten Urlauben entscheiden die Dienststellen unter Berücksichtigung der betrieblichen und individuellen Bedürfnisse.
 
@@ -469,6 +504,8 @@ beschliesst:
 **Mutterschaftsurlaub**
 
 <sup>1</sup> Nach der Niederkunft wird der Mitarbeiterin während 16 Wochen ein bezahlter Urlaub gewährt.
+
+<sup>2</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub auf die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.
 
 #### Art. 44
 
@@ -506,6 +543,25 @@ beschliesst:
 
 <sup>2</sup> Die Regierung regelt die Übernahme der daraus erwachsenden Kosten.
 
+#### Art. 47a
+
+**Meldung von Missständen**
+
+<sup>1</sup> Die Mitarbeitenden können in gutem Glauben und guten Treuen Missstände anonym einer Meldestelle melden.
+
+<sup>2</sup> Mitarbeitende, die nach Absatz 1 Meldung erstatten, verstossen damit nicht gegen ihre dienstlichen Pflichten und dürfen deshalb nicht benachteiligt werden.
+
+<sup>3</sup> Die Regierung bezeichnet eine Meldestelle ausserhalb der Verwaltungsorganisation, welche die Aufgaben nach dieser Bestimmung fachlich kompetent, selbständig, unabhängig und weisungsungebunden sowie unter Wahrung des Datenschutzes und der Geheimhaltung erfüllt.
+
+<sup>4</sup> Die Meldestelle:
+
+- a) nimmt den Sachverhalt auf;
+- b) trifft geeignete Massnahmen zum Schutz der Anonymität und der Persönlichkeit der meldenden Mitarbeitenden und allfälliger weiterer Personen;
+- c) informiert die Regierung, das Departement, die Standeskanzlei, die Finanzkontrolle, das Gericht oder die selbständige kantonale Anstalt, wenn sie eine Massnahme als dringlich geboten erachtet;
+- d) informiert die meldenden Mitarbeitenden über das Verfahren, ihre Rechte und Pflichten sowie, wenn keine überwiegenden privaten oder öffentlichen Interessen entgegenstehen, über die Erledigung des Verfahrens;
+- e) erstattet der Regierung jährlich Bericht über ihre Tätigkeit und die empfohlenen Massnahmen;
+- f) unterstützt die Regierung, das Departement, die Standeskanzlei, die Finanzkontrolle, das Gericht oder die selbständige kantonale Anstalt bei der Abklärung der Sachverhalte und der Umsetzung von Massnahmen.
+
 ## 4. Pflichten der Mitarbeitenden
 
 #### Art. 48
@@ -529,6 +585,8 @@ beschliesst:
 <sup>4</sup> Die Arbeitszeit und Lektionenzahl in den kantonalen Schulen wird in den entsprechenden Erlassen festgelegt.
 
 <sup>5</sup> Die Regierung regelt die Formen der Arbeitszeit und setzt die Feiertage sowie die arbeitsfreien Tage fest.
+
+<sup>6</sup> Nach der Geburt eigener Kinder oder nach einer Adoption kann eine Reduktion und spätere Wiedererhöhung des Arbeitsumfangs gewährt werden. Die Regierung regelt die Einzelheiten, insbesondere eine allfällige Anspruchsberechtigung.
 
 #### Art. 50
 
@@ -562,9 +620,11 @@ beschliesst:
 
 **Verbot der Annahme von Geschenken**
 
-<sup>1</sup> Die Mitarbeitenden dürfen keine Geschenke oder andere Vorteile für sich oder andere fordern, annehmen oder sich versprechen lassen, wenn dies im Zusammenhang mit ihrer dienstlichen Tätigkeit geschieht. Ausgenommen ist die Annahme von Geschenken von geringem Wert.
+<sup>1</sup> Die Mitarbeitenden dürfen keine Geschenke oder andere Vorteile für sich oder andere fordern, annehmen oder sich versprechen lassen, wenn dies im Zusammenhang mit ihrer dienstlichen Tätigkeit geschieht. Die Regierung regelt die Einzelheiten und kann Ausnahmen vorsehen, insbesondere für Geschenke von geringem Wert.
 
 <sup>2</sup> Vorzugsbedingungen, welche Berufsorganisationen für ihre Mitglieder vereinbaren, gelten nicht als Geschenke oder andere Vorteile im Sinne von Absatz 1.
+
+<sup>3</sup> Die Mitarbeitenden müssen der Dienststelle melden, wenn ihnen Geschenke oder Vorteile angeboten werden, die sie gemäss Absatz 1 nicht annehmen dürfen.
 
 #### Art. 53
 
@@ -686,14 +746,14 @@ beschliesst:
 
 #### Art. 63
 
-**Anstellungs- und Kündigungskompetenzen**
+**Arbeits- und Aufhebungsverträge sowie Kündigungen**
 
-<sup>1</sup> Unter Vorbehalt anderer Bestimmungen sind für die Anstellungen und die Kündigungen zuständig
+<sup>1</sup> Ist im Gesetz oder in den Ausführungserlassen nichts anderes festgelegt, sind für die Arbeits- und Aufhebungsverträge sowie für die Kündigungen zuständig:
 
-- a) die Regierung für die Dienststellenleitenden, deren Stellvertretende und die Departementssekretärinnen und -sekretäre;
-- b) die Departemente und die Standeskanzlei für die übrigen Mitarbeitenden ab der Gehaltsklasse 16;
-- c) die Dienststellen für ihre Mitarbeitenden in den Gehaltsklassen 1 bis 15;
-- d) die oder der Vorsitzende der Schulleitung für die Lehrpersonen der kantonalen Schulen.
+- a) die Regierung für die Dienststellenleitenden, deren Stellvertretende und die Generalsekretärinnen und -sekretäre;
+- b) die Departemente und die Standeskanzlei für die übrigen Mitarbeitenden ab der Funktionsklasse 20;
+- c) die Dienststellen für ihre Mitarbeitenden in den Funktionsklassen 1 bis 19.
+- d) …
 
 <sup>2</sup> Die selbstständigen kantonalen Anstalten können die Anstellungs- und Kündigungskompetenzen nach anderen Kriterien festlegen.
 
@@ -703,13 +763,18 @@ beschliesst:
 
 <sup>1</sup> Ist in diesem Gesetz oder in den zugehörigen Ausführungserlassen nichts anderes festgelegt, gelten für alle personalrechtlichen Entscheide die Departemente, die Standeskanzlei oder die Finanzkontrolle als zuständige Instanz.
 
+<sup>1<sup>bis</sup></sup> Liegt die Zuständigkeit nach dem Gesetz oder den Ausführungserlassen bei der Dienststelle, sind für personalrechtliche Entscheide zuständig:
+
+- a) die Regierungspräsidentin oder der Regierungspräsident für die Kanzleidirektorin oder den Kanzleidirektor;
+- b) die Departemente für die Dienststellenleitenden.
+
 <sup>2</sup> Wird zwischen der zuständigen Instanz und dem Personalamt keine Einigung erzielt, entscheidet abschliessend die Regierung.
 
 #### Art. 65
 
 **2. Für die selbstständigen kantonalen Anstalten sowie Gerichte und Schlichtungsbehörden**
 
-<sup>1</sup> Die selbstständigen kantonalen Anstalten sowie das Kantons- und das Verwaltungsgericht haben die gleichen Befugnisse wie die Regierung. Davon ausgenommen sind die Bestimmungen von Artikel 20, Artikel 29 Absatz 2, Artikel 35 Absatz 4, Artikel 36 Absatz 2, Artikel 37 Absatz 2 und Artikel 73 Absatz 2.
+<sup>1</sup> Die selbstständigen kantonalen Anstalten sowie das Kantons- und das Verwaltungsgericht haben die gleichen Befugnisse wie die Regierung. Davon ausgenommen sind die Bestimmungen von Artikel 20, Artikel 29 Absatz 2, Artikel 35 Absatz 4, Artikel 36 Absatz 2, Artikel 37 Absatz 2, Artikel 47a Absatz 3 und Absatz 4 und Artikel 73 Absatz 2.
 
 <sup>2</sup> Die selbstständigen kantonalen Anstalten sowie das Kantons- und das Verwaltungsgericht bestimmen die zuständigen Instanzen. Vorbehalten bleiben besondere Bestimmungen in den Organisationsgesetzen.
 
@@ -811,15 +876,17 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz gilt auch für hängige Verfahren. Soweit die Behörde oder Dienststelle mit einer Angelegenheit bereits befasst ist, bleibt ihre Zuständigkeit bestehen.
 
-<sup>2</sup> Die Mittel für den Teuerungsausgleich sowie für die individuellen Lohnentwicklungen und für die Stellenbewirtschaftung werden erstmals mit den Budgets für das Jahr 2018 nach Artikel 19 festgelegt.
+<sup>2</sup> …
 
-<sup>3</sup> Mitarbeitende, die vor dem In-Kraft-Treten dieses Gesetzes in eine Behörde gewählt worden sind, deren Mandat mit der Anstellung beim Kanton gemäss Artikel 58 unvereinbar ist, dürfen das Mandat bis zum Ablauf der Amtsperiode ausüben.
+<sup>3</sup> …
 
 #### Art. 72a
 
 **Übergangsbestimmung zu Artikel 15 Absatz 3**
 
 <sup>1</sup> Mitarbeitende, die am 1. Januar 2022 60 Jahre alt oder älter sind, können eine vorzeitige Pensionierung ab dem 63. Altersjahr nach dem Reglement über die vorzeitige Alterspensionierung vom 19. März 2013 (Stand 1. April 2013) beantragen.
+
+<sup>2</sup> Die Regierung regelt insbesondere die Zuständigkeiten und das Verfahren sowie die Modalitäten und die Höhe der Beitragszahlungen so, dass ein abgestufter und praktikabler Übergang zur neuen Regelung gemäss Artikel 15 Absatz 3 gewährleistet ist und die bewilligten Budgetmittel eingehalten werden. Sie sieht dazu angemessen reduzierte Beiträge vor und entscheidet jeweils gesamthaft über Gesuche für das Folgejahr.
 
 #### Art. 73
 
@@ -829,10 +896,9 @@ beschliesst:
 
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des In-Kraft-Tretens[^73-2] dieses Gesetzes.
 
-<sup>3</sup> Artikel 65 Absatz 5 tritt nur in Kraft, wenn die Teilrevision von Artikel 50 der Kantonsverfassung angenommen wird[^73-3].
+<sup>3</sup> …
 
 [^73-1]: Die Referendumsfrist ist am 27. Dezember 2006 unbenutzt abgelaufen.
 [^73-2]: Mit RB vom 12. Dezember 2006 auf den 1. Januar 2007 in Kraft gesetzt.
-[^73-3]: Die Teilrevision wurde am 24. September 2006 vom Volke angenommen.
 
 -

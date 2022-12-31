@@ -4,13 +4,13 @@ number: "170.400"
 title: Lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun
 short: "lescha dal persunal, LP"
 language: rm
-version: 2022-01-01
-corrected: 2022-01-01
-version_adopted: 2021-08-26
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-01
 adopted: 2006-06-14
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3209/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3283/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3209/pdf_file"
 
 (lescha dal persunal, LP)
 
-dals 14-06-2006 (versiun dals 01-01-2022)
+dals 14-06-2006 (versiun dals 01-01-2023)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -39,7 +39,7 @@ concluda:
 
 **Politica da persunal**
 
-<sup>1</sup> Il chantun ed ils instituts ch'èn suttamess a questa lescha concepeschan lur politica da persunal uschia, che lur incumbensas pon vegnir ademplidas da tut temp en moda economica, confurm al temp e cun la qualitad necessaria.
+<sup>1</sup> Il chantun ed ils instituts ch'èn suttamess a questa lescha concepeschan lur politica da persunal uschia, che lur incumbensas pon adina vegnir ademplidas en moda economica, a temp e cun la qualitad necessaria sco er tegnend quint da la responsabladad en la famiglia ed en la societad e resguardond l'egualitad da las schanzas.
 
 <sup>2</sup> Per quest intent vegnan las collavuraturas ed ils collavuraturs engaschads tant en moda adequata sco er en moda economicamain e socialmain responsabla; i vegnan prendidas las mesiras necessarias ed adattadas per quest intent.
 
@@ -86,33 +86,41 @@ concluda:
 
 #### Art. 6
 
-**Natira giuridica e spezia d'engaschament**
+**Contract da lavur e durada limitada**
 
-<sup>1</sup> Las relaziuns da lavur vegnan cumenzadas cun in contract da dretg public.
+<sup>1</sup> Las relaziuns da lavur vegnan constituidas cun in contract da lavur da dretg public en scrit.
+
+<sup>2</sup> Sch'i èn avant maun motivs objectivs suffizients, en spezial per in project da durada limitada, pon vegnir fixadas relaziuns da lavur da durada limitada.
 
 #### Art. 7
 
 **Temp d'emprova**
 
-<sup>1</sup> Il temp d'emprova importa per regla sis mais. Tut tenor las pretensiuns po el vegnir reducì a trais mais u auzà a dudesch mais.
+<sup>1</sup> Il temp d'emprova dura 3 mais. Per tschertas funcziuns po la Regenza fixar temps d'emprova fin 6 mais.
 
-<sup>2</sup> Sche las prestaziuns u sch'il cumportament na persvadan betg, po il temp d'emprova vegnir prolungà a maximalmain dudesch mais.
+<sup>2</sup> Cunzunt sche las prestaziuns u il cumportament na persvadan betg, po vegnir concludida ina prolungaziun unica dal temp d'emprova fin al dubel da la durada.
 
-<sup>3</sup> Sch'i fa da basegn ina scolaziun per exequir ina tscherta lavur, po il temp d'emprova vegnir prolungà fin a la fin da questa scolaziun.
+<sup>3</sup> …
 
-<sup>4</sup> Per relaziuns da lavur che n'èn betg concepidas per pli ditg u che han in pitschen grad d'occupaziun pon vegnir fixads temps d'emprova pli curts.
+<sup>4</sup> Per relaziuns da lavur ch'èn limitadas a main che 1 onn poi vegnir fixà in temp d'emprova pli curt u vegnir desistì dal temp d'emprova.
 
 #### Art. 8
 
-**Termins da desditga**
+**Termins e datas da disditga**
 
-<sup>1</sup> Il termin per desdir la relaziun da lavur suenter il temp d'emprova importa per regla per omaduas parts contrahentas quatter mais.
+<sup>1</sup> La relaziun da lavur po vegnir disditga per la fin d'in mais, observond ils suandants termins:
 
-<sup>2</sup> Durant il temp d'emprova importa il termin da desditga per regla in mais.
+- a) 3 mais, suenter il temp d'emprova;
+- b) 4 mais, a partir dal 10. onn da servetsch;
+- c) 6 mais, per ils caders superiurs.
 
-<sup>3</sup> Tar posiziuns da cader u tar relaziuns da lavur che n'èn betg concepidas per pli ditg u che han in pitschen grad d'occupaziun pon vegnir fixads auters termins da desditga.
+<sup>2</sup> Durant il temp d'emprova po la relaziun da lavur vegnir disditga da tut temp observond in termin da 7 dis.
 
-<sup>4</sup> En enclegientscha vicendaivla po vegnir divergià dal termin da desditga ch'è fixà en il contract.
+<sup>2<sup>bis</sup></sup> Per las persunas d'instrucziun da las scolas chantunalas sco er per las inspecturas ed ils inspecturs da scola pon vegnir fixads auters termins ed autras datas da disditga en las disposiziuns executivas.
+
+<sup>3</sup> Per relaziuns da lavur ch'èn limitadas a main che 1 onn poi vegnir fixà in termin da disditga pli curt.
+
+<sup>4</sup> L'autra part contrahenta po acceptar ina disditga che n'observa betg il termin u la data.
 
 #### Art. 9
 
@@ -131,7 +139,7 @@ concluda:
 
 **Desditga immediata**
 
-<sup>1</sup> Per in motiv impurtant po la relaziun da lavur vegnir schliada immediatamain da tut temp dad omaduas parts contrahentas.
+<sup>1</sup> Per in motiv impurtant po la relaziun da lavur vegnir disditga immediatamain da tut temp dad omaduas parts contrahentas.
 
 <sup>2</sup> Relevant è mintga motiv che renda insupportabel per la part contrahenta desdenta da cuntinuar cun la relaziun da lavur.
 
@@ -153,7 +161,7 @@ concluda:
 
 **Contract d'annullaziun**
 
-<sup>1</sup> Cun il consentiment dad omaduas varts pon las parts contrahentas annullar da tut temp la relaziun da lavur.
+<sup>1</sup> Cun in contract d'annullaziun en scrit pon relaziuns da lavur vegnir annulladas da tut temp.
 
 #### Art. 14
 
@@ -163,23 +171,28 @@ concluda:
 
 #### Art. 15
 
-**Cuntanscher la limita da vegliadetgna, pensiunament administrativ**
+**Pensiunament**
 
-<sup>1</sup> La relaziun da lavur finescha, cur ch'il 65avel onn da vegliadetgna vegn cumplenì.
+<sup>1</sup> La relaziun da lavur finescha l'ultim di dal mais che la collavuratura u il collavuratur cumplenescha 65 onns. Las relaziuns da lavur da las persunas d'instrucziun da las scolas chantunalas sco er da las inspecturas e dals inspecturs da scola fineschan l'ultim di da l'ultim mais dal semester da scola ch'ellas ed els cumpleneschan 65 onns.
 
 <sup>2</sup> La regenza po ordinar in pensiunament anticipà, sch'igl exista in interess public d'occupar ina plazza da nov. Ella fixescha l'indemnisaziun tenor las disposiziuns da l'artitgel 17.
 
 <sup>3</sup> Las collavuraturas ed ils collavuraturs pon sa laschar pensiunar cumplainamain u parzialmain il pli baud per la fin dal mais ch'ellas ed els cumpleneschan 60 onns. In pensiunament anticipà a partir da 62 onns po vegnir sustegnì finanzialmain cun ina contribuziun ad ina renta transitorica da la AVS. La Regenza regla ils detagls, en spezial in eventual dretg da prestaziun e l'autezza da la contribuziun. La regulaziun transitorica sa drizza tenor l'artitgel 72a da questa lescha.
 
-<sup>4</sup> Ina cuntinuaziun da l'engaschament suenter la cumplenida dal 65avel onn da vegliadetgna è pussaivla mo en cas excepziunals e sche la cuntinuaziun è en l'interess spezial dal chantun.
+<sup>4</sup> Suenter la data tenor l'alinea 1 po la relaziun da lavur vegnir cuntinuada durant in temp limità.
 
 #### Art. 16
 
-**Pensiunament anticipà per motivs da sanadad**
+**Adattaziun u terminaziun per motivs da sanadad**
 
-<sup>1</sup> La collavuratura, il collavuratur u il post da servetsch po dumandar il pensiunament per motivs da sanadad.
+<sup>1</sup> Sin dumonda da la collavuratura u dal collavuratur ed a norma da l'incapacitad da lavurar ch'è vegnida constatada en ina procedura da l'uffizi da la AI cumpetent, vegn adattada la dimensiun u il cuntegn da la lavur u vegn la relaziun da lavur terminada cumplainamain u parzialmain.
 
-<sup>2</sup> La regenza concluda suenter avair prendì enconuschientscha da la decisiun da l'uffizi chantunal da la AI.
+<sup>2</sup> En cas da collavuraturas e collavuraturs ch'èn impedids cumplainamain u parzialmain da lavurar per motivs da sanadad durant almain 12 mais e ch'èn previsiblamain inabels da lavurar durant almain 6 ulteriurs mais, po la dimensiun u il cuntegn da la lavur vegnir adattà correspundentamain u po la relaziun da lavur vegnir disditga.
+
+<sup>3</sup> La Regenza regla ils detagls, en spezial:
+
+- a) la data, per la quala la dimensiun u il cuntegn da la lavur vegn adattà u la relaziun da lavur vegn terminada tenor l'alinea 1;
+- b) las cumpetenzas, la furma e la procedura per adattaziuns e per disditgas tenor l'alinea 1 e l'alinea 2.
 
 #### Art. 17
 
@@ -317,6 +330,16 @@ concluda:
 
 [^28-1]: DG [548.100](https://www.gr-lex.gr.ch/data/548.100/rm)
 
+#### Art. 28a
+
+**Sustegn per la tgira d'uffants tras terzas persunas**
+
+<sup>1</sup> A collavuraturas ed a collavuraturs che laschan tgirar lur uffants tras terzas persunas po vegnir pajada ina contribuziun da fin in terz dals custs da tgira. La Regenza regla ils detagls, en spezial:
+
+- a) il dretg d'ina contribuziun;
+- b) l'autezza da la contribuziun;
+- c) la cumpetenza e la procedura.
+
 #### Art. 29
 
 **Supplement social spezial**
@@ -337,9 +360,15 @@ concluda:
 
 <sup>1</sup> Il chantun maina in fond d'assistenza per il persunal.
 
-<sup>2</sup> En cas d'urgenza pon las collavuraturas ed ils collavuraturs vegnir sustegnids finanzialmain a quint dal fond. En cas motivads pon er vegnir concedids emprests da daners cun u senza tschains.
+<sup>2</sup> En cas d'urgenza pon las collavuraturas ed ils collavuraturs vegnir sustegnids finanzialmain a quint dal fond.
 
-<sup>3</sup> Surplis da las premias ed eventualas restituziuns da l'assicuranza dal persunal cunter accidents van en il fond d'assistenza per il persunal.
+<sup>3</sup> Restituziuns da l'assicuranza dal persunal cunter accidents van en il fond d'assistenza per il persunal.
+
+<sup>4</sup> La Regenza regla ils detagls, en spezial:
+
+- a) las modalitads da tschains e da restituziun;
+- b) l'administraziun dal fond;
+- c) la cumpetenza e la procedura.
 
 ### 3.3. Supplements spezials e spesas
 
@@ -414,6 +443,12 @@ concluda:
 
 <sup>2</sup> …
 
+#### Art. 38a
+
+**Pajament dal salari durant ina renunzia a la prestaziun da la lavur**
+
+<sup>1</sup> Pajond il salari cumplet po il post da servetsch renunziar da tut temp cumplainamain u parzialmain a la prestaziun da la lavur.
+
 #### Art. 39
 
 **Prevenziun professiunala**
@@ -436,19 +471,19 @@ concluda:
 
 **Vacanzas**
 
-<sup>1</sup> Il dretg da vacanzas importa annualmain:
+<sup>1</sup> Il dretg annual da vacanzas importa, fin e cun l'onn chalendar che las collavuraturas ed ils collavuraturs:
 
-- a) fin al 49avel onn da vegliadetgna: 4 emnas;
-- b) dal 50avel fin al 59avel onn da vegliadetgna: 5 emnas;
-- c) a partir dal 60avel onn da vegliadetgna: 6 emnas.
+- a) cumpleneschan 49 onns: 5 emnas;
+- b) cumpleneschan 59 onns: 5 ½ emnas;
+- c) vegnan pensiunads causa vegliadetgna: 6 emnas.
 
-<sup>2</sup> Decisiv è l'onn chalendar che l'onn da vegliadetgna vegn cumplenì.
+<sup>2</sup> Premess che nagins motivs da manaschi na s'opponian a quai, pon las collavuraturas ed ils collavuraturs acquistar mintga onn fin 2 emnas vacanzas supplementaras.
 
-<sup>3</sup> Il dretg da vacanzas da las persunas d'instrucziun a las scolas ch'èn suttamessas a quest dretg sa drizza tenor il temp da scola e tenor ils basegns dal manaschi.
+<sup>3</sup> …
 
-<sup>4</sup> Las collavuraturas giuvnas ed ils collavuraturs giuvens han in dretg da tschintg emnas vacanzas per onn fin e cun l'onn chalendar ch'ellas e ch'els cumpleneschan il 20avel onn da vegliadetgna.
+<sup>4</sup> …
 
-<sup>5</sup> Il persunal en emprendissadi ha in dretg da tschintg emnas vacanzas per onn, fin ch'il temp da scolaziun è terminà.
+<sup>5</sup> …
 
 #### Art. 42
 
@@ -466,7 +501,7 @@ concluda:
 
 <sup>1</sup> Sin proposta dal post da servetsch e suenter avair tadlà l'uffizi da persunal pon ils departaments conceder congedis pajads da fin in'emna. Per congedis pajads pli lungs è cumpetenta la regenza.
 
-<sup>2</sup> Per eveniments sco naschientschas d'agens uffants, adopziuns, festas da famiglia, mortoris, midadas d'abitaziun, occurrenzas da sport e da cultura vegnan concedids congedis curts pajads.
+<sup>2</sup> Ils posts da servetsch concedan congedis curts pajads per eveniments sco paternitad, adopziuns, festas da famiglia, assistenza da confamigliaras e confamigliars, mortoris, midada d'abitaziun, occurrenzas sportivas e culturalas.
 
 <sup>3</sup> Davart la concessiun da congedis betg pajads decidan ils posts da servetsch resguardond ils basegns dal manaschi ed ils basegns individuals.
 
@@ -475,6 +510,8 @@ concluda:
 **Congedi da maternitad**
 
 <sup>1</sup> Suenter la pagliola vegn concedì a la collavuratura durant 16 emnas in congedi pajà.
+
+<sup>2</sup> Sche l'uffant novnaschì vegn ospitalisà, sa prolunghescha il congedi da maternitad per la durada prolungada dal pajament da l'indemnisaziun da maternitad.
 
 #### Art. 44
 
@@ -512,6 +549,25 @@ concluda:
 
 <sup>2</sup> La regenza regla la surpigliada dals custs che resultan tras quai.
 
+#### Art. 47a
+
+**Annunzia d'incunvegnientschas**
+
+<sup>1</sup> Las collavuraturas ed ils collavuraturs pon annunziar en buna fai ed onestamain incunvegnientschas en moda anonima ad in post d'annunzia.
+
+<sup>2</sup> Las collavuraturas ed ils collavuraturs na violeschan betg lur obligaziuns da servetsch e na dastgan betg vegnir dischavantagiads, sch'ellas ed els fan in'annunzia tenor l'alinea 1.
+
+<sup>3</sup> La Regenza designescha in post d'annunzia ordaifer l'organisaziun administrativa che ademplescha las incumbensas tenor questa disposiziun en moda professiunalmain cumpetenta, da maniera autonoma ed independenta, senza stuair observar instrucziuns sco er resguardond la protecziun da datas e la secretezza.
+
+<sup>4</sup> Il post d'annunzia:
+
+- a) recepescha ils fatgs;
+- b) prenda mesiras adequatas per proteger l'anonimitad e la persunalitad da las collavuraturas e dals collavuraturs che fan l'annunzia sco er d'eventualas ulteriuras persunas;
+- c) infurmescha la Regenza, il departament, la Chanzlia chantunala, la Controlla da finanzas, la dretgira u l'institut chantunal autonom, sch'el è da l'avis ch'ina mesira saja urgenta;
+- d) infurmescha las collavuraturas ed ils collavuraturs che fan l'annunzia davart la procedura, davart lur dretgs e davart lur obligaziuns sco er – sche nagins interess predominants publics u privats na s'opponan a quai – davart la liquidaziun da la procedura;
+- e) suttametta a la Regenza mintga onn in rapport davart sia activitad e davart las mesiras recumandadas;
+- f) sustegna la Regenza, il departament, la Chanzlia chantunala, la Controlla da finanzas, la dretgira u l'institut chantunal autonom tar il scleriment dals fatgs e tar la realisaziun da mesiras.
+
 ## 4. Obligaziuns da las collavuraturas e dals collavuraturs
 
 #### Art. 48
@@ -535,6 +591,8 @@ concluda:
 <sup>4</sup> Il temp da lavur ed il dumber da lecziuns en las scolas chantunalas vegn fixà en ils relaschs correspundents.
 
 <sup>5</sup> La regenza regla las furmas dal temp da lavur e fixescha ils firads ed ils dis libers da lavur.
+
+<sup>6</sup> Suenter la naschientscha d'agens uffants u suenter in'adopziun poi vegnir concedì ina reducziun e pli tard puspè in augment dal grad d'occupaziun. La Regenza regla ils detagls, en spezial in eventual dretg d'ina tala concessiun.
 
 #### Art. 50
 
@@ -568,9 +626,11 @@ concluda:
 
 **Scumond d'acceptar regals**
 
-<sup>1</sup> Las collavuraturas ed ils collavuraturs na dastgan pretender, acceptar u sa laschar empermetter nagins regals u auters avantatgs per sasezs u per autras persunas, sche quai succeda en connex cun lur activitad uffiziala. Exceptà da quai è l'acceptaziun da regals da pauca valur.
+<sup>1</sup> Las collavuraturas ed ils collavuraturs na dastgan pretender, acceptar u sa laschar empermetter nagins regals u auters avantatgs per sasezs u per autras persunas, sche quai succeda en connex cun lur activitad uffiziala. La Regenza regla ils detagls e po prevair excepziuns, en spezial per regals da pauca valur.
 
 <sup>2</sup> Cundiziuns da preferenza che vegnan fixadas d'organisaziuns professiunalas per lur commembras e per lur commembers na valan betg sco regals u sco auters avantatgs en il senn da l'alinea 1.
+
+<sup>3</sup> Las collavuraturas ed ils collavuraturs ston annunziar al post da servetsch, sch'i vegnan offrids ad ellas ed els regals u avantatgs ch'ellas ed els na dastgan betg acceptar tenor l'alinea 1.
 
 #### Art. 53
 
@@ -692,14 +752,14 @@ concluda:
 
 #### Art. 63
 
-**Cumpetenzas d'engaschament e da desditga**
+**Contracts da lavur, contracts d'annullaziun e disditgas**
 
-<sup>1</sup> Cun resalva d'autras disposiziuns èn cumpetents per ils engaschaments e per las desditgas:
+<sup>1</sup> Sch'i n'è fixà nagut auter en la lescha u en ils relaschs executivs, èn cumpetents per ils contracts da lavur, per ils contracts d'annullaziun e per las disditgas:
 
-- a) la regenza per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias e per ils secretaris dals departaments;
-- b) ils departaments e la chanzlia chantunala per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs a partir da la classa da salari 16;
-- c) ils posts da servetsch per lur collavuraturas e per lur collavuraturs en las classas da salari 1 fin 15;
-- d) la parsura u il parsura da la direcziun da la scola per las persunas d'instrucziun da las scolas chantunalas.
+- a) la regenza per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias generalas e per ils secretaris generals;
+- b) ils departaments e la Chanzlia chantunala per las ulteriuras collavuraturas ed ils ulteriurs collavuraturs a partir da la classa da funcziun 20;
+- c) ils posts da servetsch per lur collavuraturas e collavuraturs en las classas da funcziun 1 fin 19.
+- d) …
 
 <sup>2</sup> Ils instituts chantunals autonoms pon fixar las cumpetenzas d'engaschament e da desditga tenor auters criteris.
 
@@ -709,13 +769,18 @@ concluda:
 
 <sup>1</sup> Sch'i n'è fixà nagut auter en questa lescha u en ils relaschs executivs respectivs, valan ils departaments, la chanzlia chantunala u la controlla da finanzas sco instanzas cumpetentas per tut las decisiuns concernent il dretg da persunal.
 
+<sup>1<sup>bis</sup></sup> Sche la lescha u ils relaschs executivs surdattan la cumpetenza al post da servetsch, èn cumpetents per decisiuns dal dretg da persunal:
+
+- a) la presidenta u il president da la Regenza per la chanceliera u il chancelier;
+- b) ils departaments per las manadras ed ils manaders dals posts da servetsch.
+
 <sup>2</sup> Sch'i na vegn betg chattada ina cunvegna tranter l'instanza cumpetenta e l'uffizi da persunal, decida la regenza definitivamain.
 
 #### Art. 65
 
 **2. per ils instituts chantunals autonoms sco er per las dretgiras e per las autoritads da mediaziun**
 
-<sup>1</sup> Ils instituts chantunals autonoms sco er la dretgira chantunala e la dretgira administrativa han las medemas cumpetenzas sco la regenza. Exceptadas da quai èn las disposiziuns da l'artitgel 20, da l'artitgel 29 alinea 2, da l'artitgel 35 alinea 4, da l'artitgel 36 alinea 2, da l'artitgel 37 alinea 2 e da l'artitgel 73 alinea 2.
+<sup>1</sup> Ils instituts chantunals autonoms sco er la Dretgira chantunala e la Dretgira administrativa han las medemas cumpetenzas sco la Regenza. Exceptadas da quai èn las disposiziuns da l'artitgel 20, da l'artitgel 29 alinea 2, da l'artitgel 35 alinea 4, da l'artitgel 36 alinea 2, da l'artitgel 37 alinea 2, da l'artitgel 47a alinea 3 ed alinea 4 e da l'artitgel 73 alinea 2.
 
 <sup>2</sup> Ils instituts chantunals autonoms sco er la dretgira chantunala e la dretgira administrativa fixeschan las instanzas cumpetentas. Resalvadas restan disposiziuns spezialas en las leschas d'organisaziun.
 
@@ -817,15 +882,17 @@ concluda:
 
 <sup>1</sup> Questa lescha vala er per proceduras pendentas. Sche l'autoritad u sch'il post da servetsch s'occupa gia d'in cas, mantegna ella u el sia cumpetenza.
 
-<sup>2</sup> Ils meds finanzials per la cumpensaziun da la chareschia sco er per ils svilups individuals dals salaris e per l'administraziun da las plazzas vegnan fixads per l'emprima giada tenor l'artitgel 19 cun ils preventivs da l'onn 2018.
+<sup>2</sup> …
 
-<sup>3</sup> Sche collavuraturas e sche collavuraturs èn vegnids elegids – avant che questa lescha entria en vigur – en in'autoritad, da la quala il mandat n'è betg cumpatibel cun l'engaschament tar il chantun tenor l'artitgel 58, dastgan ellas ed els exequir il mandat fin a la fin da la perioda d'uffizi.
+<sup>3</sup> …
 
 #### Art. 72a
 
 **Disposiziun transitorica tar l'artitgel 15 alinea 3**
 
 <sup>1</sup> Collavuraturas e collavuraturs che han 60 onns u dapli il 1. da schaner 2022 pon dumandar in pensiunament anticipà a partir dal 63. onn da vegliadetgna tenor il Reglament davart il pensiunament anticipà dals 19 da mars 2013 (versiun dal 1. d'avrigl 2013).
+
+<sup>2</sup> La Regenza regla en spezial las cumpetenzas e la procedura sco er las modalitads e l'autezza dals pajaments da las contribuziuns uschia, ch'ina midada graduada e pratitgabla a la nova regulaziun tenor l'artitgel 15 alinea 3 è garantida e ch'ils meds finanzials dal preventiv approvads vegnan respectads. Per quest intent prevesa ella contribuziuns reducidas adequatamain e decida mintgamai globalmain davart las dumondas per l'onn suandant.
 
 #### Art. 73
 
@@ -835,11 +902,9 @@ concluda:
 
 <sup>2</sup> La regenza fixescha il termin da l'entrada en vigur[^73-2] da questa lescha.
 
-<sup>3</sup> L'artitgel 65 alinea 5 entra mo en vigur, sche la revisiun parziala da l'artitgel 50 da la constituziun chantunala[^73-3] vegn acceptada[^73-4].
+<sup>3</sup> …
 
 [^73-1]: Il termin da referendum è scadì ils 27 da december 2006. Entaifer quest termin n'èn vegnids inoltrads nagins referendums.
 [^73-2]: messa en vigur cun CR dals 12 da december 2006 per il 1. da schaner 2007
-[^73-3]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
-[^73-4]: questa revisiun parziala è vegnida acceptada dal pievel ils 24 da settember 2006
 
 -
