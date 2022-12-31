@@ -4,13 +4,13 @@ number: "410.111"
 title: Ordonnance sur les Eglises nationales bernoises
 short: OEgN
 language: fr
-version: 2021-03-01
-valid_until: 2022-12-31
-version_adopted: 2021-01-20
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-23
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2554/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2762/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2554/pdf_file"
 
 (OEgN)
 
-du 24.04.2019 (état au 01.03.2021)
+du 24.04.2019 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -609,7 +609,7 @@ arrête:
 - 7 Bolligen
 - 8 Frauenkappelen
 - 9 Gerzensee
-- 10 Grafenried
+- 10 Grafenried-Limpach
 - 11 Grosshöchstetten
 - 12 Guggisberg
 - 13 Jegenstorf-Urtenen
@@ -620,7 +620,7 @@ arrête:
 - 18 Köniz
 - 19 Konolfingen
 - 20 Laupen
-- 21 Limpach
+- 21 …
 - 22 Linden
 - 23 Meikirch
 - 24 Mühleberg
@@ -760,7 +760,7 @@ arrête:
 
 <sup>1</sup> L'arrondissement administratif de Berne-Mittelland comprend les paroisses suivantes:
 
-- 1 Paroisse générale de Berne et environs, composée de douze paroisses: Dreifaltigkeit, Bern; Sankt Marien, Bern; Sankt Antonius, Bern; Sankt Mauritius, Bern; Bruderklaus, Bern; Heiligkreuz, Bern; Guthirt, Ostermundigen; Sankt Martin, Worb; Sankt Franziskus, Zollikofen; Sankt Josef, Köniz; Sankt Michael, Wabern; paroisse de langue française de Berne et environs
+- 1 Paroisse générale de Berne et environs, composée de douze paroisses: Dreifaltigkeit, Bern; Sankt Marien, Bern; Bern-West, Bern; Bruderklaus, Bern; Heiligkreuz, Bern; Guthirt, Ostermundigen; Sankt Martin, Worb; Sankt Franziskus, Zollikofen; Sankt Josef, Köniz; Sankt Michael, Wabern; paroisse de langue française de Berne et environs
 - 2 Konolfingen
 - 3 Münsingen
 - 4–11 …

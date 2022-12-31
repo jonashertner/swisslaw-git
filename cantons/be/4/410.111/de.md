@@ -4,13 +4,13 @@ number: "410.111"
 title: Verordnung über die bernischen Landeskirchen
 short: LKV
 language: de
-version: 2021-03-01
-valid_until: 2022-12-31
-version_adopted: 2021-01-20
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-23
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2554/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2762/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2554/pdf_file"
 
 (LKV)
 
-vom 24.04.2019 (Stand 01.03.2021)
+vom 24.04.2019 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -609,7 +609,7 @@ beschliesst:
 - 7 Bolligen
 - 8 Frauenkappelen
 - 9 Gerzensee
-- 10 Grafenried
+- 10 Grafenried-Limpach
 - 11 Grosshöchstetten
 - 12 Guggisberg
 - 13 Jegenstorf-Urtenen
@@ -620,7 +620,7 @@ beschliesst:
 - 18 Köniz
 - 19 Konolfingen
 - 20 Laupen
-- 21 Limpach
+- 21 …
 - 22 Linden
 - 23 Meikirch
 - 24 Mühleberg
@@ -760,7 +760,7 @@ beschliesst:
 
 <sup>1</sup> Der Verwaltungskreis Bern-Mittelland umfasst die folgenden Kirchgemeinden:
 
-- 1 Gesamtkirchgemeinde Bern und Umgebung, umfassend die zwölf Kirchgemeinden Dreifaltigkeit, Bern; Sankt Marien, Bern; Sankt Antonius, Bern; Sankt Mauritius, Bern; Bruderklaus, Bern; Heiligkreuz, Bern; Guthirt, Ostermundigen; Sankt Martin, Worb; Sankt Franziskus, Zollikofen; Sankt Josef, Köniz; Sankt Michael, Wabern; Paroisse de langue française de Berne et environs
+- 1 Gesamtkirchgemeinde Bern und Umgebung, umfassend die zwölf Kirchgemeinden Dreifaltigkeit, Bern; Sankt Marien, Bern; Bern-West, Bern; Bruderklaus, Bern; Heiligkreuz, Bern; Guthirt, Ostermundigen; Sankt Martin, Worb; Sankt Franziskus, Zollikofen; Sankt Josef, Köniz; Sankt Michael, Wabern; Paroisse de langue française de Berne et environs
 - 2 Konolfingen
 - 3 Münsingen
 - 4–11 …
