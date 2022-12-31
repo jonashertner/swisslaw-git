@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Mai 2006 über das Öffentlichkeitsprinzip der Verwal
 short: VBGÖ
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: de
-version: 2014-09-01
+version: 2023-01-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20140901/de/xml/fedlex-data-admin-ch-eli-cc-2006-356-20140901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/de"
 
 (Öffentlichkeitsverordnung, VBGÖ)
 
-vom 24. Mai 2006 (Stand am 1. September 2014)
+vom 24. Mai 2006 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -42,6 +42,21 @@ Als fertig gestellt gilt ein Dokument:
 - a. das von der Behörde, die es erstellt hat, unterzeichnet ist; oder
 - b. das von der Erstellerin oder dem Ersteller der Adressatin oder dem Adressaten definitiv übergeben wurde, namentlich zur Kenntnis- oder Stellungnahme oder als Entscheidgrundlage.
 - [tab] <sup>3</sup> Als zum persönlichen Gebrauch bestimmtes Dokument gilt jede Information, die dienstlichen Zwecken dient, deren Benutzung aber ausschliesslich der Autorin, dem Autoren oder einem eng begrenzten Personenkreis als Arbeitshilfsmittel vorbehalten ist, wie Notizen oder Arbeitskopien von Dokumenten.
+
+## 1*a*. Abschnitt: Geltungsbereich des BGÖ
+
+[^sec1a-1]
+
+[^sec1a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### (Art. 2 BGÖ)
+
+#### Art. 1a
+
+Das Zentralamt für Edelmetallkontrolle ist als Aufsichtsbehörde im Sinne von Artikel 12 Buchstabe b<sup>ter</sup> des Geldwäschereigesetzes vom 10. Oktober 1997[^1a-1] in Verbindung mit Artikel 42<sup>ter</sup> des Edelmetallkontrollgesetzes vom 20. Juni 1933**[^1a-2]** (EMKG) und von Artikel 36 Absatz 2 Buchstabe g EMKG vom Geltungsbereich des Öffentlichkeitsgesetzes ausgenommen.
+
+[^1a-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^1a-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 
 ## 2. Abschnitt: Recht auf Zugang zu amtlichen Dokumenten
 
@@ -148,13 +163,13 @@ Die Behörde nimmt bei der Bearbeitung von Gesuchen, die von Medienschaffenden g
 
 #### Art. 10
 
-**Gesuche, die eine besonders aufwändige Bearbeitung erfordern**
+**Gesuche, die eine besonders aufwendige Bearbeitung erfordern**
 
 ### (Art. 10 Abs. 4 Bst. c BGÖ)
 
-<sup>1</sup> Ein Gesuch erfordert eine besonders aufwändige Bearbeitung, wenn die Behörde das Gesuch mit ihren verfügbaren Ressourcen nicht behandeln kann, ohne dass die Erfüllung anderer Aufgaben wesentlich beeinträchtigt wird.
+<sup>1</sup> Ein Gesuch erfordert eine besonders aufwendige Bearbeitung, wenn die Behörde das Gesuch mit ihren verfügbaren Ressourcen nicht behandeln kann, ohne dass die Erfüllung anderer Aufgaben wesentlich beeinträchtigt wird.
 
-<sup>2</sup> Gesuche, die eine besonders aufwändige Bearbeitung erfordern, werden innert einer angemessenen Frist behandelt.
+<sup>2</sup> Gesuche, die eine besonders aufwendige Bearbeitung erfordern, werden innert einer angemessenen Frist behandelt.
 
 #### Art. 11
 
@@ -188,18 +203,18 @@ Die Behörde nimmt bei der Bearbeitung von Gesuchen, die von Medienschaffenden g
 
 #### Art. 12a
 
-**Schlichtungsanträge, die eine besonders aufwändige Bearbeitung erfordern**[^12a-1]
+**Schlichtungsanträge, die eine besonders aufwendige Bearbeitung erfordern**[^12a-1]
 
 ### (Art. 10 Abs. 4 Bst. c sowie 13 und 14 BGÖ)
 
 <sup>1</sup>
 
-Ein Schlichtungsantrag erfordert namentlich eine besonders aufwändige Bearbeitung durch die Beauftragte oder den Beauftragten, wenn er:
+Ein Schlichtungsantrag erfordert namentlich eine besonders aufwendige Bearbeitung durch die Beauftragte oder den Beauftragten, wenn er:
 
 - a. besonders viele oder besonders komplexe Dokumente betrifft;
 - b. besonders schwierige juristische, technische oder politische Fragen aufwirft.
 
-<sup>2</sup> Erfordert ein Schlichtungsantrag eine besonders aufwändige Bearbeitung durch die Beauftragte oder den Beauftragten, so kann diese oder dieser die Frist für das Schlichtungsverfahren oder den Erlass einer Empfehlung angemessen verlängern.
+<sup>2</sup> Erfordert ein Schlichtungsantrag eine besonders aufwendige Bearbeitung durch die Beauftragte oder den Beauftragten, so kann diese oder dieser die Frist für das Schlichtungsverfahren oder den Erlass einer Empfehlung angemessen verlängern.
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 20. April 2011, in Kraft seit 1. Juli 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
@@ -277,7 +292,7 @@ Soweit die vorliegende Verordnung keine besondere Regelung enthält, gelten die 
 
 <sup>3</sup> Die Behörde kann auf die Gebührenerhebung verzichten oder die Gebühr reduzieren, wenn sie das Zugangsgesuch ablehnt oder den Zugang nur teilweise gewährt.
 
-<sup>4</sup> Erhebt die Behörde bei einem Zugangsgesuch von Medienschaffenden eine Gebühr, so reduziert sie diese um mindestens 50 Prozent. Sie kann auf die Reduktion verzichten, wenn das Zugangsgesuch eine besonders aufwändige Bearbeitung erfordert.[^15-1]
+<sup>4</sup> Erhebt die Behörde bei einem Zugangsgesuch von Medienschaffenden eine Gebühr, so reduziert sie diese um mindestens 50 Prozent. Sie kann auf die Reduktion verzichten, wenn das Zugangsgesuch eine besonders aufwendige Bearbeitung erfordert.[^15-1]
 
 [^15-1]: Eingefügt durch Ziff. I der V vom 25. Juni 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
 
@@ -378,7 +393,7 @@ Anhang 1
 ### 1. Reproduktionen
 
 <table>
-<tr><td></td><td>*Fra**n**ken*</td></tr>
+<tr><td></td><td>*Franken*</td></tr>
 <tr><td>Fotokopie im Format A4 oder A3</td><td></td></tr>
 <tr><td>– ab normaler Einzelblattvorlage bis A3, pro Seite</td><td>[tab] –.20</td></tr>
 <tr><td>– ab besonderen Vorlagenformaten, ab gebundenen Vorlagen oder ab schlechter Vorlagenqualität, pro Seite</td><td>[tab] 2.—</td></tr>
@@ -409,6 +424,6 @@ Anhang 2
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)konsultiert werden.

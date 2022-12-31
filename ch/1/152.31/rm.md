@@ -4,11 +4,11 @@ title: "Ordinaziun dals 24 da matg 2006 davart il princip da la transparenza da 
 short: OTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: rm
-version: 2014-09-01
+version: 2023-01-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20140901/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20140901-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da transparenza, OTrans)
 
-dals 24 da matg 2006 (versiun dal 1. da settember 2014)
+dals 24 da matg 2006 (versiun dal 1. da schaner 2023)
 
 Il Cussegl federal svizzer,
 
@@ -44,6 +44,21 @@ In document è considerà sco terminà, cur che:
 - a. el è vegnì suttascrit da l’autoritad che l’ha fatg; u
 - b. el è vegnì surdà definitivamain a l’adressat tras la persuna che l’ha fatg, particularmain per prender enconuschientscha u posiziun ubain sco basa da decisiun.
 - [tab] <sup>3</sup> In document destinà al diever persunal è mintga infurmaziun che serva ad intents da servetsch, duvrada exclusivamain da ses autur u d’in circul restrenschì da persunas sco med auxiliar, sco notizias u sco copias da lavur da documents.
+
+## 1*a*. secziun Champ d’applicaziun da la LTrans
+
+[^sec1a-1]
+
+[^sec1a-1]: Integrà tras la cifra 1 da l’agiunta da l’O dals 31 d’avust 2022, en vigur dapi il 1. da schan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### (art. 2 LTrans)
+
+#### Art. 1a
+
+L’Uffizi central per la controlla dals metals prezius è – sco autoritad da surveglianza en il senn da artitgel 12 litera b<sup>ter</sup> da la Lescha dals 10 d’october 1997[^1a-1] davart la lavada da daners suspectus en cumbinaziun cun l’artitgel 42<sup>ter</sup> da la Lescha dals 20 da zercladur 1933[^1a-2] davart la controlla dals metals prezius (LCMP) e da l’artitgel 36 alinea 2 litera g LCMP – exceptà dal champ d’applicaziun da la Lescha da transparenza.
+
+[^1a-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^1a-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 
 ## 2. secziun Dretg d’access als documents uffizials
 
@@ -164,9 +179,9 @@ Cun tractar las dumondas che vegnan fatgas dals collavuraturs dals meds da massa
 
 ### (art. 12 LTrans)
 
-<sup>1</sup> Sch’in document è vegnì elavurà cuminaivlamain da pliras autoritads, vegn la posiziun relaschada da l’autoritad responsabla.
+<sup>1</sup> Sch’in document è vegnì elavurà cuminaivlamain da pliras autoritads, vegn la posiziun decretada da l’autoritad responsabla.
 
-<sup>2</sup> Sche la dumonda d’access resguarda plirs documents che concernan la medema fatschenta e ch’èn vegnids fatgs u retschavids da diversas autoritads suttamessas a la Lescha da transparenza, vegn la posiziun relaschada da l’autoritad responsabla.
+<sup>2</sup> Sche la dumonda d’access resguarda plirs documents che concernan la medema fatschenta e ch’èn vegnids fatgs u retschavids da diversas autoritads suttamessas a la Lescha da transparenza, vegn la posiziun decretada da l’autoritad responsabla.
 
 <sup>3</sup> Sche la responsabladad n’è betg vegnida designada ad in’autoritad, fixeschan las autoritads participadas tranter ellas l’autoritad ch’è responsabla per prender posiziun. Quella prenda posiziun en enclegientscha cun las ulteriuras autoritads participadas.
 
@@ -201,7 +216,7 @@ Ina dumonda da mediaziun, che chaschuna spezialmain blera lavur cun la tractar t
 - a. reguarda documents spezialmain numerus u spezialmain cumplexs;
 - b. tschenta dumondas giuridicas, tecnicas u politicas spezialmain difficilas.
 
-<sup>2</sup> Sch’ina dumonda da mediaziun che chaschuna spezialmain blera lavur cun la tractar tras l’incumbensà, po quel prolungar adequatamain il termin per terminar la procedura da mediaziun u per relaschar ina recumandaziun.
+<sup>2</sup> Sch’ina dumonda da mediaziun che chaschuna spezialmain blera lavur cun la tractar tras l’incumbensà, po quel prolungar adequatamain il termin per terminar la procedura da mediaziun u per decretar ina recumandaziun.
 
 [^12a-1]: Integrà tras la cifra I da l’O dals 20 d’avr. 2011, en vigur dapi il 1. da fan. 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
@@ -239,7 +254,7 @@ Las partidas èn obligadas:
 
 ### (art. 14 LTrans)
 
-<sup>1</sup> En la recumandaziun menziunescha l’incumbensà particularmain il dretg da las persunas participadas a la procedura da mediaziun da pretender che l’autoritad cumpetenta relaschia ina disposiziun tenor l’artitgel 15 LTrans e las communitgescha tge termin che las stat a disposiziun.
+<sup>1</sup> En la recumandaziun menziunescha l’incumbensà particularmain il dretg da las persunas participadas a la procedura da mediaziun da pretender che l’autoritad cumpetenta decreteschia ina disposiziun tenor l’artitgel 15 LTrans e las communitgescha tge termin che las stat a disposiziun.
 
 <sup>2</sup> La recumandaziun na dastga betg cuntegnair infurmaziuns che pudessan donnegiar in dals interess protegids tenor l’artitgel 7 alinea 1 LTrans.
 
@@ -281,7 +296,7 @@ I vegnan applitgadas las disposiziuns da l’Ordinaziun generala da taxas dals 8
 
 <sup>4</sup> Sche l’autoritad incassescha ina taxa per ina dumonda d’access fatga da collavuraturs dals meds da massa, reducescha ella questa taxa per almain 50 pertschient. Ella po desister da la reducziun, sche la dumonda d’access dovra spezialmain blera lavur per vegnir tractada.[^15-1]
 
-[^15-1]: Integrà tras la cifra I da l’O dals 25 da zercl. 2014, en vigur dapi il 1. da sett. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Integrà tras la cifra I da l’O dals 25 da zer. 2014, en vigur dapi il 1. da sett. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
 
 #### Art. 16
 
@@ -301,7 +316,7 @@ I vegnan applitgadas las disposiziuns da l’Ordinaziun generala da taxas dals 8
 
 ### (art. 21 lit. a LTrans)
 
-La gestiun dals documents uffizials, particularmain lur registraziun, sa drizza tenor l’artitgel 22 da l’ordinaziun dals 25 da november 1998[^17-1] davart l’organisaziun da la Regenza e da l’administraziun sco er tenor las disposiziuns ch’il Departament cumpetent ha relaschà applitgond la legislaziun davart l’archivaziun.
+La gestiun dals documents uffizials, particularmain lur registraziun, sa drizza tenor l’artitgel 22 da l’Ordinaziun dals 25 da november 1998[^17-1] davart l’organisaziun da la regenza e da l’administraziun sco er tenor las disposiziuns ch’il departament cumpetent ha decretà applitgond la legislaziun davart l’archivaziun.
 
 [^17-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
@@ -359,7 +374,7 @@ La midada dal dretg vertent vegn reglada en l’agiunta 2.
 
 #### Art. 22a
 
-**Disposiziun transitorica tar la midada dals 20 d’avrigl 2011**[^22a-1]
+**Disposiziun transitorica da la midada dals 20 d’avrigl 2011**[^22a-1]
 
 Per dumondas da mediaziun ch’èn vegnidas inoltradas avant l’entrada en vigur da la midada dals 20 d’avrigl 2011 vala il dretg vertent.
 
@@ -413,4 +428,4 @@ Las ordinaziuns qua sutvart vegnan midadas sco suonda:
 
 …[^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: Las midadas pon vegnir consultadas sut [AS 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356).
+[^annex2-lvlu1-1]: Las midadas pon vegnir consultadas en la [AS 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356).

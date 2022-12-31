@@ -4,11 +4,11 @@ title: "Ordinance of 24 May 2006 on Freedom of Information in the Administration
 short: FoIO
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: en
-version: 2014-09-01
+version: 2023-01-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20140901/en/xml/fedlex-data-admin-ch-eli-cc-2006-356-20140901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Freedom of Information Ordinance, FoIO)
 
-of 24 May 2006 (Status as of 1 September 2014)
+of 24 May 2006 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -45,6 +45,21 @@ A document shall be deemed to have been definitively issued, where:
 - b. its creator has provided a final copy thereof to the recipient for information purposes or so that the latter may take a position or a decision.
 
 <sup>3</sup> A document shall be deemed to be for personal use, where it comprises information reserved for work-related purposes, provided that same shall solely be used by its creator or by a limited group of persons as work-supporting documentation, such as notes or working copies of documents.
+
+## Section 1*a* Scope of Application of the FoIA
+
+[^sec1a-1]
+
+[^sec1a-1]: Inserted by Annex No 1 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### (Art. 2 FoIA)
+
+#### Art. 1a
+
+As a supervisory authority in accordance with Article 12 letter b<sup>ter</sup> of the Anti-Money Laundering Act of 10 October 1997[^1a-1], in conjunction with Article 42<sup>ter</sup> of the Precious Metals Control Act of 20 June 1933[^1a-2] (PMCA) and Article 36 paragraph 2 letter g of the PMCA, the Central Office for Precious Metals Control does not fall within the scope of the Freedom of Information Act.
+
+[^1a-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^1a-2]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 
 ## Section 2 Right of Access to Official Documents
 
@@ -145,7 +160,7 @@ It must be sufficiently detailed in order to allow the authority to identify the
 
 **Special needs of the media**
 
-### (Art. 10 para. 4 lett. a FoIA)
+### (Art. 10 para. 4 let. a FoIA)
 
 When processing applications filed by journalists, the authority shall, as far as possible, take account of the journalist's reporting deadline.
 
@@ -153,7 +168,7 @@ When processing applications filed by journalists, the authority shall, as far a
 
 **Applications requiring particularly extensive processing**
 
-### (Art. 10 para. 4 lett. c FoIA)
+### (Art. 10 para. 4 let. c FoIA)
 
 <sup>1</sup> An application is deemed to require processing where the authority is not in a position to process the application with the human and infrastructure resources at its disposal without seriously compromising the fulfilment of its other duties.
 
@@ -193,7 +208,7 @@ When processing applications filed by journalists, the authority shall, as far a
 
 **Requests for mediation that require particularly extensive processing**[^12a-1]
 
-### (Art. 10 para. 4 lett. c, 13 and 14 FoIA)
+### (Art. 10 para. 4 let. c, 13 and 14 FoIA)
 
 <sup>1</sup>
 
@@ -204,7 +219,7 @@ A request for mediation requires particularly extensive processing by the Commis
 
 <sup>2</sup> If a request for mediation requires particularly extensive processing by the Commissioner, he may extend the deadline for the mediation proceedings or for the issue of a recommendation by an appropriate period.
 
-[^12a-1]: Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12a-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
 #### Art. 12b
 
@@ -232,7 +247,7 @@ The parties are obliged:
 
 <sup>4</sup> If the parties refuse to cooperate in seeking a settlement or if they improperly delay the mediation proceedings, the Commissioner may rule that the mediation has failed.
 
-[^12b-1]: Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^12b-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
 #### Art. 13
 
@@ -256,7 +271,7 @@ The parties are obliged:
 
 The administrative units of the Central Federal Administration shall provide the Commissioner with a copy of their ruling and any decisions made by the appeal instances.
 
-[^13a-1]: Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^13a-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
 ## Section 5 Fees
 
@@ -282,7 +297,7 @@ Insofar as this Ordinance does not contain specific rules, the provisions of the
 
 <sup>4</sup> If the authority charges a fee for an application for access made by a journalist, it shall reduce this fee by at least 50 per cent. It need not make any reduction if the application for access requires particularly extensive processing.[^15-1]
 
-[^15-1]: Inserted by No. I of the Ordinance of 25 June 2014, in force since 1 Sept. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
+[^15-1]: Inserted by No I of the O of 25 June 2014, in force since 1 Sept. 2014 ([AS 2014 2169](https://fedlex.data.admin.ch/eli/oc/2014/366)).
 
 #### Art. 16
 
@@ -300,7 +315,7 @@ Insofar as this Ordinance does not contain specific rules, the provisions of the
 
 **Processing of official documents**
 
-### (Art. 21 lett. a FoIA)
+### (Art. 21 let. a FoIA)
 
 The processing of official documents, and in particular their registration, is governed by Article 22 of the Government and the Administration Organisation Ordinance of 25 November 1998[^17-1], as well as by the provisions enacted by the competent department in application of the federal legislation governing the archiving of documents.
 
@@ -310,7 +325,7 @@ The processing of official documents, and in particular their registration, is g
 
 **Information concerning official documents**
 
-### (Art. 21 lett. b FoIA)
+### (Art. 21 let. b FoIA)
 
 In the absence of any legislative provisions to the contrary, the authorities shall inform the public about official documents in the following way:
 
@@ -321,7 +336,7 @@ In the absence of any legislative provisions to the contrary, the authorities sh
 
 **Publication of Official Documents**
 
-### (Art. 21 lett. c FoIA)
+### (Art. 21 let. c FoIA)
 
 The competent authority shall publish important official documents on the Internet as soon as possible, where:
 
@@ -364,7 +379,7 @@ Amendments to existing legislation are regulated in Annex 2.
 
 Requests for mediation that were submitted before the Amendment of 20 April 2011 comes into force are governed by the previous law.
 
-[^22a-1]: Inserted by No. I of the Ordinance of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
+[^22a-1]: Inserted by No I of the O of 20 April 2011, in force since 1 July 2011 ([AS 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
 #### Art. 23
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 24 maggio 2006 sul principio di trasparenza dell'amministr
 short: OTras
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: it
-version: 2014-09-01
+version: 2023-01-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20140901/it/xml/fedlex-data-admin-ch-eli-cc-2006-356-20140901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/it"
 
 (Ordinanza sulla trasparenza, OTras)
 
-del 24 maggio 2006 (Stato 1° settembre 2014)
+del 24 maggio 2006 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -43,6 +43,21 @@ Un documento è considerato elaborato quando:
 - b. è stato trasmesso definitivamente al destinatario da chi lo ha allestito, segnatamente a titolo di informazione o per presa di posizione o decisione.
 
 <sup>3</sup> Per documento destinato all’uso personale si intende ogni informazione a scopo di servizio, utilizzata esclusivamente dal suo autore o da un numero ristretto di persone quale mezzo ausiliario, come appunti o copie di lavoro di documenti.
+
+## Sezione 1*a*: Campo d’applicazione della LTras
+
+[^sec1a-1]
+
+[^sec1a-1]: Introdotta dall’all. n. 1 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### (art. 2 LTras)
+
+#### Art. 1a
+
+L’Ufficio centrale di controllo dei metalli preziosi in quanto autorità di vigilanza ai sensi dell’articolo 12 lettera b<sup>ter</sup> della legge del 10 ottobre 1997[^1a-1] sul riciclaggio di denaro in combinato disposto con l’articolo 42<sup>ter</sup> della legge del 20 giugno 1933[^1a-2] sul controllo dei metalli preziosi (LCMP) e dell’articolo 36 capoverso 2 lettera g LCMP è escluso dal campo d’applicazione della LTras.
+
+[^1a-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^1a-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 
 ## Sezione 2: Diritto di accesso ai documenti ufficiali
 
@@ -410,6 +425,6 @@ Allegato 2
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356).

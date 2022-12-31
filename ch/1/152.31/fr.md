@@ -4,11 +4,11 @@ title: "Ordonnance du 24 mai 2006 sur le principe de la transparence dans l'admi
 short: OTrans
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/356"
 language: fr
-version: 2014-09-01
+version: 2023-01-01
 adopted: 2006-05-24
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20140901/fr/xml/fedlex-data-admin-ch-eli-cc-2006-356-20140901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/356/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-356-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/356/20140901/fr"
 
 (Ordonnance sur la transparence, OTrans)
 
-du 24 mai 2006 (Etat le 1<sup>er</sup> septembre 2014)
+du 24 mai 2006 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -44,11 +44,26 @@ Un document a atteint son stade définitif d’élaboration:
 
 <sup>3</sup> On entend par document destiné à l’usage personnel, toute information établie à des fins professionnelles mais qui est utilisée exclusivement par son auteur ou par un cercle restreint de personnes comme moyen auxiliaire, tel que des notes ou des copies de travail.
 
+## Section 1*a* Champ d’application de la LTrans
+
+[^sec1a-1]
+
+[^sec1a-1]: Introduite par l’annexe ch. 1 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### (art. 2 LTrans)
+
+#### Art. 1a
+
+Le Bureau central du contrôle des métaux précieux, en sa qualité d’autorité de surveillance au sens de l’art. 12, let. b<sup>ter</sup>, de la loi du 10 octobre 1997 sur le blanchiment d’argent[^1a-1] en relation avec l’art. 42<sup>ter</sup> de la loi du 20 juin 1933 sur le contrôle des métaux précieux (LCMP)[^1a-2] et de l’art. 36, al. 2, let. g, LCMP, est exclu du champ d’application de la loi sur la transparence.
+
+[^1a-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^1a-2]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+
 ## Section 2 Droit d’accès aux documents officiels
 
 #### Art. 2
 
-**Egalité en matière d’accès**
+**Égalité en matière d’accès**
 
 ### (art. 6, al. 1, LTrans)
 
@@ -86,7 +101,7 @@ L’accès accordé à une personne doit être accordé dans la même mesure à 
 
 ### (art. 6, al. 2, LTrans)
 
-<sup>1</sup> A la requête du demandeur, l’autorité lui remet une copie du document officiel, sous réserve des restrictions liées à sa conservation.
+<sup>1</sup> À la requête du demandeur, l’autorité lui remet une copie du document officiel, sous réserve des restrictions liées à sa conservation.
 
 <sup>2</sup> Si le document est protégé par le droit d’auteur, l’autorité rend le demandeur attentif aux restrictions d’utilisation.
 
@@ -256,7 +271,7 @@ Les unités de l’administration fédérale centrale communiquent au préposé 
 
 [^13a-1]: Introduit par le ch. I de l’O du 20 avril 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 1741](https://fedlex.data.admin.ch/eli/oc/2011/262)).
 
-## Section 5 Emoluments
+## Section 5 Émoluments
 
 #### Art. 14
 
@@ -310,7 +325,7 @@ La gestion et notamment l’enregistrement des documents officiels sont régis p
 
 ### (art. 21, let. b, LTrans)
 
-A moins qu’une disposition légale ne s’y oppose, les autorités informent le public de la manière suivante:
+À moins qu’une disposition légale ne s’y oppose, les autorités informent le public de la manière suivante:
 
 - a. elles publient sur internet des informations sur les domaines et les affaires importantes qui relèvent de leur compétence;
 - b. elles mettent à la disposition des intéressés d’autres informations susceptibles de faciliter la recherche de documents officiels, pour autant que cela n’occasionne pas des frais disproportionnés.
@@ -323,7 +338,7 @@ A moins qu’une disposition légale ne s’y oppose, les autorités informent l
 
 L’autorité compétente publie aussitôt que possible sur internet les documents officiels importants:
 
-- a. si cela n’occasionne pas des frais disproportionnés; et
+- a. si cela n’occasionne pas des frais disproportionnés, et
 - b. si la publication sur internet ne contrevient à aucune disposition légale.
 
 ## Section 7 Conseiller à la transparence
@@ -336,7 +351,7 @@ La Chancellerie fédérale et chaque département désignent au minimum un conse
 - b. de promouvoir l’information et la formation des collaborateurs;
 - c. de concourir à l’application de la législation sur la transparence.
 
-## Section 8 Evaluation
+## Section 8 Évaluation
 
 ### (art. 19 LTrans)
 
