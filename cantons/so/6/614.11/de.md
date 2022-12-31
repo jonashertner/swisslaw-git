@@ -4,13 +4,13 @@ number: "614.11"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2021-07-06
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-05-15
 adopted: 1985-12-01
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.11"
-pdf: "https://bgs.so.ch/api/de/versions/5229/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5260/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5229/pdf_file"
 
 (Steuergesetz)
 
-Vom 01.12.1985 (Stand 01.07.2022)
+Vom 01.12.1985 (Stand 01.01.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -454,8 +454,11 @@ beschliesst:
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>8</sup> Absatz 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach Artikel 653s bis Artikel 653v des Obligationenrechts (OR) vom 30. März 1911[^26-3] geleistet werden, nur, soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbandes übersteigen.
+
 [^26-1]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de).
 [^26-2]: SR [951.31](https://db.clex.ch/link/Bund/951.31/de).
+[^26-3]: SR [220](https://db.clex.ch/link/Bund/220/de).
 
 #### § 26bis
 
@@ -556,7 +559,7 @@ beschliesst:
 
 <sup>1</sup> Als Berufskosten werden abgezogen
 
-- a) die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte;
+- a) die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Maximalbetrag von 7'000 Franken;
 - b) die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit;
 - c) die übrigen für die Ausübung des Berufes erforderlichen Kosten; § 41 Absatz 1 Buchstabe p bleibt vorbehalten.
 - d) …
@@ -691,7 +694,7 @@ beschliesst:
 - a) die privaten Schuldzinsen im Umfang der nach den §§ 26 bis 27 steuerbaren Vermögenserträge und weiterer 50'000 Franken; davon ausgenommen sind die Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonst nahestehenden natürlichen Person zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen;
 - b) die dauernden Lasten sowie 40% der bezahlten Leibrenten;
 - c) 1000 Franken vom niedrigeren Erwerbseinkommen bei in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, wenn beide Ehegatten unabhängig voneinander ein Erwerbseinkommen erzielen; ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten;
-- d) die nachgewiesenen Kosten für die Drittbetreuung von Kindern, die das 14. Altersjahr noch nicht vollendet haben und die mit der steuerpflichtigen Person, die für ihren Unterhalt sorgt, im gleichen Haushalt leben, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen, höchstens jedoch 12'000 Franken je Kind;
+- d) die nachgewiesenen Kosten für die Drittbetreuung von Kindern, die das 14. Altersjahr noch nicht vollendet haben und die mit der steuerpflichtigen Person, die für ihren Unterhalt sorgt, im gleichen Haushalt leben, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen, höchstens jedoch 25'000 Franken je Kind;
 - e) …
 - f) die laufenden Unterhaltsbeiträge an den geschiedenen oder den unter den Voraussetzungen von § 14 Absatz 1 getrennten Ehegatten sowie die Unterhaltsbeiträge an den andern Elternteil für die unter dessen elterlicher Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - g) die gesetzlichen Beiträge an die eidgenössische Alters- und Hinterlassenenversicherung, Invalidenversicherung, Arbeitslosenversicherung, obligatorische Unfallversicherung und Erwerbsersatzordnung;
@@ -744,7 +747,7 @@ beschliesst:
 
 <sup>1</sup> Vom Reineinkommen werden abgezogen
 
-- a) 6'000 Franken für jedes minderjährige oder in beruflicher Ausbildung stehende Kind, für dessen Unterhalt der Steuerpflichtige sorgen muss. Der Abzug kann nicht beansprucht werden für Kinder, für die der Steuerpflichtige Unterhaltsbeiträge nach § 41 Absatz 1 Buchstabe f leistet. Bei getrennt besteuerten Eltern steht der Abzug dem Elternteil zu, der die elterliche Sorge innehat. Üben sie die elterliche Sorge gemeinsam aus und werden keine Unterhaltsbeiträge nach § 41 Absatz 1 Buchstabe f für das Kind geltend gemacht, wird der Abzug hälftig auf die beiden Eltern aufgeteilt. Ist das Kind volljährig, hat derjenige Elternteil Anspruch auf den Abzug, der für den Unterhalt des Kindes überwiegend aufkommt.
+- a) 9'000 Franken für jedes minderjährige oder in beruflicher Ausbildung stehende Kind, für dessen Unterhalt der Steuerpflichtige sorgen muss. Der Abzug kann nicht beansprucht werden für Kinder, für die der Steuerpflichtige Unterhaltsbeiträge nach § 41 Absatz 1 Buchstabe f leistet. Bei getrennt besteuerten Eltern steht der Abzug dem Elternteil zu, der die elterliche Sorge innehat. Üben sie die elterliche Sorge gemeinsam aus und werden keine Unterhaltsbeiträge nach § 41 Absatz 1 Buchstabe f für das Kind geltend gemacht, wird der Abzug hälftig auf die beiden Eltern aufgeteilt. Ist das Kind volljährig, hat derjenige Elternteil Anspruch auf den Abzug, der für den Unterhalt des Kindes überwiegend aufkommt.
 - b) …
 - c) …
 - d) 2'000 Franken für jede erwerbsunfähige oder beschränkt erwerbsfähige und unterstützungsbedürftige Person, an deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt. Der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Buchstabe a oder nach § 41 Absatz 1 Buchstabe f gewährt wird, sowie für Personen mit Wohnsitz im Ausland, für die keine Unterstützungspflicht im Sinne von Artikel 328 ZGB[^43-1] besteht.
@@ -767,14 +770,14 @@ beschliesst:
 <table>
 <tr><th>Steuer</th><th>Einkommen</th></tr>
 <tr><td>0.00%</td><td>von den ersten 12'000 Franken</td></tr>
-<tr><td>5.00%</td><td>von den nächsten 2'000 Franken</td></tr>
-<tr><td>6.00%</td><td>von den nächsten 3'000 Franken</td></tr>
-<tr><td>7.00%</td><td>von den nächsten 3'000 Franken</td></tr>
-<tr><td>8.00%</td><td>von den nächsten 5'000 Franken</td></tr>
-<tr><td>9.00%</td><td>von den nächsten 7'000 Franken</td></tr>
-<tr><td>9.50%</td><td>von den nächsten 18'000 Franken</td></tr>
-<tr><td>10.00%</td><td>von den nächsten 20'000 Franken</td></tr>
-<tr><td>10.50%</td><td>von den nächsten 28'000 Franken</td></tr>
+<tr><td>4.50%</td><td>von den nächsten 4'000 Franken</td></tr>
+<tr><td>5.00%</td><td>von den nächsten 4'000 Franken</td></tr>
+<tr><td>6.50%</td><td>von den nächsten 3'000 Franken</td></tr>
+<tr><td>8.00%</td><td>von den nächsten 2'000 Franken</td></tr>
+<tr><td>9.00%</td><td>von den nächsten 3'000 Franken</td></tr>
+<tr><td>9.50%</td><td>von den nächsten 11'000 Franken</td></tr>
+<tr><td>10.00%</td><td>von den nächsten 15'000 Franken</td></tr>
+<tr><td>10.50%</td><td>von den nächsten 44'000 Franken</td></tr>
 <tr><td>11.50%</td><td>von den nächsten 212'000 Franken</td></tr>
 </table>
 
@@ -794,7 +797,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat passt bei jedem Anstieg der Teuerung um 5% seit Inkrafttreten dieses Gesetzes oder seit der letzten Anpassung die Tarifstufen in § 44, die allgemeinen Abzüge in § 41 und die Sozialabzüge in § 43 sowie den Mindestbetrag in § 20 Absatz 4 dem Stand des Landesindexes der Konsumentenpreise an.
 
-<sup>2</sup> Massgebend ist der Indexstand ein Jahr vor Beginn der Steuerperiode, erstmals am 31. Dezember 2008; die Anpassung erfolgt frühestens auf die Steuerperiode 2010.
+<sup>2</sup> Massgebend ist der Indexstand ein Jahr vor Beginn der Steuerperiode, erstmals am 31. Dezember 2023; die Anpassung erfolgt frühestens auf die Steuerperiode 2025.
 
 #### § 46
 
@@ -1740,6 +1743,8 @@ beschliesst:
 
 <sup>3</sup> Am Ende der Steuerpflicht gemäss § 94<sup>ter</sup> werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
 
+<sup>4</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 #### § 112
 
 **…**
@@ -1751,6 +1756,8 @@ beschliesst:
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
 
 <sup>2</sup> Umfasst ein Geschäftsjahr mehr oder weniger als 12 Monate, richtet sich die Höhe der Kapitalsteuer nach der Dauer des Geschäftsjahres.
+
+<sup>3</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### § 113bis
 
@@ -3456,9 +3463,9 @@ wird mit Busse bestraft.
 
 **V. Berechnung**
 
-<sup>1</sup> Für die Steuerberechnung gelten die §§ 229-232. Massgebend ist der Steuersatz, der sich für jede Zuwendung allein ergibt.
+<sup>1</sup> Für die Steuerberechnung gelten die §§ 229-232. Hat der Empfänger innert fünf Jahren mehrere Zuwendungen vom gleichen Schenker erhalten, bestimmt sich der Steuersatz nach dem Gesamtbetrag aller Zuwendungen.
 
-<sup>2</sup> Von jeder Zuwendung werden 14100 Franken abgezogen. Macht ein Schenker während des Kalenderjahres mehrere Zuwendungen an den gleichen Empfänger, so wird dieser Abzug nur einmal gewährt.
+<sup>2</sup> Von jeder Zuwendung werden 14'100 Franken abgezogen. Macht ein Schenker mehrere Zuwendungen an den gleichen Empfänger, so wird dieser Abzug innert fünf Jahren insgesamt nur einmal gewährt.
 
 #### § 240
 
