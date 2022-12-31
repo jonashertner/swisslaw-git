@@ -4,13 +4,12 @@ number: "436.11"
 title: Gesetz über die Universität
 short: UniG
 language: de
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-03-08
 adopted: 1996-09-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1855/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2666/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1855/pdf_file"
 
 (UniG)
 
-vom 05.09.1996 (Stand 01.07.2020)
+vom 05.09.1996 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -60,7 +59,7 @@ beschliesst:
 
 <sup>4</sup> Sie erbringt Dienstleistungen, die im Zusammenhang mit ihrer Bildungs- und Forschungsaufgabe stehen.
 
-<sup>5</sup> Sie fördert den Wissens- und Innovationstransfer und leistet einen wirkungsvollen Beitrag zur Nachhaltigen Entwicklung.
+<sup>5</sup> Sie fördert den Wissens- und Innovationstransfer und leistet in ihren Kernaufgaben in Lehre, Forschung und Entwicklung sowie Dienstleistungen einen wirkungsvollen Beitrag zur Nachhaltigen Entwicklung.
 
 <sup>6</sup> Sie führt eine wissenschaftliche Bibliothek, die ihren Angehörigen und der Öffentlichkeit zugänglich ist.
 
@@ -78,17 +77,9 @@ beschliesst:
 
 **Titel, Bescheinigungen**
 
-<sup>1</sup> Die Universität verleiht
+<sup>1</sup> Die Universität verleiht Bachelor- und Mastertitel sowie Doktortitel gemäss den schweizerischen Koordinationsvorschriften und stellt Bescheinigungen aus.
 
-- a Bachelor- und Mastertitel sowie Lizenziate und Diplome,
-- b Doktorate,
-- c die Habilitation.
-
-<sup>2</sup> Sie kann verleihen
-
-- a das Ehrendoktorat für hervorragende Leistungen in Wissenschaft oder Beruf,
-- b …
-- c die Honorarprofessur für Persönlichkeiten in wissenschaftlichem Beruf oder öffentlicher Stellung.
+<sup>2</sup> Sie erteilt die Lehrbefugnis und verleiht damit den Titel Privatdozentin oder Privatdozent.
 
 <sup>3</sup> Sie kann im Universitätsstatut weitere Titel schaffen.
 
@@ -97,7 +88,7 @@ beschliesst:
 - a bei Erwerb durch Täuschung oder Irrtum,
 - b bei Begehung einer schweren Straftat in Ausübung der wissenschaftlichen Tätigkeit.
 
-<sup>5</sup> Sie stellt für erbrachte Studienleistungen Bescheinigungen aus.
+<sup>5</sup> …
 
 #### Art. 5
 
@@ -155,6 +146,13 @@ beschliesst:
 - a die Dozentinnen und Dozenten,
 - b die Assistentinnen und Assistenten,
 - c die weiteren Mitarbeiterinnen und Mitarbeiter.
+
+<sup>3</sup> Drittmittelangestellte sind Mitarbeiterinnen und Mitarbeiter,
+
+- a deren Gehalt weder aus dem jährlichen Kantonsbeitrag, noch aus Grund- und Investitionsbeiträgen des Bundes, noch aus Studiengebühren oder Beiträgen für Studierende gemäss interkantonalen Vereinbarungen finanziert wird und
+- b deren Arbeitsvertrag diese Anstellungsart ausdrücklich festhält.
+
+<sup>4</sup> Der Regierungsrat kann weitere Kategorien von Mitarbeiterinnen und Mitarbeitern festlegen.
 
 #### Art. 10
 
@@ -230,34 +228,54 @@ beschliesst:
 
 #### Art. 18
 
-**Personalrecht, Gehalt, Anstellung**
+**Personalrecht, Allgemeines**
 
 <sup>1</sup> Soweit dieses Gesetz und seine Ausführungsbestimmungen keine besonderen Vorschriften über die Anstellung der Mitarbeiterinnen und Mitarbeiter enthalten, gilt die Personalgesetzgebung.
 
 <sup>2</sup> …
 
-<sup>3</sup> Der Regierungsrat regelt das Nähere zum Gehalt und zur Anstellung sowie die Zuständigkeiten durch Verordnung. Er kann für die in Forschung und Lehre tätigen Mitarbeiterinnen und Mitarbeiter Regelungen vorsehen, die von der Personalgesetzgebung abweichen; dies gilt für
+<sup>3</sup> Der Regierungsrat kann durch Verordnung von der Personalgesetzgebung abweichende Bestimmungen für folgende Bereiche erlassen, um den spezifischen Rahmenbedingungen von Arbeitsverhältnissen an der Universität oder um bestimmten Kategorien von Mitarbeiterinnen und Mitarbeitern Rechnung zu tragen:
 
-- a die Befristung des Angestelltenverhältnisses,
-- b die Bemessung des Gehalts innerhalb der gesetzlichen Höchstbeträge,
-- c die Fristen und Termine für die Beendigung des Angestelltenverhältnisses,
-- d die Folgen der Beendigung des Angestelltenverhältnisses,
-- e die Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben,
-- f die Regelungen betreffend Langzeitkonti.
+- a Vertragsdauer,
+- b Fristen, Termine und Folgen der Beendigung von Arbeitsverhältnissen,
+- c Beschäftigungsgrad als feste Zahl oder Bandbreite,
+- d Festlegung des Gehalts bei Stellenantritt und des individuellen Gehaltsaufstiegs,
+- e Arbeitszeitmodell,
+- f Auslagenersatz.
+
+<sup>4</sup> Er kann die Befugnisse gemäss Absatz 3 ganz oder teilweise der Universitätsleitung übertragen.
+
+#### Art. 18a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Der Regierungsrat bezeichnet die zuständigen Anstellungsbehörden und regelt die weiteren Zuständigkeiten durch Verordnung, soweit dieses Gesetz nichts anderes bestimmt.
+
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Universitätsleitung übertragen.
+
+#### Art. 18b
+
+**Ausnahmen von Einvernehmen oder Zustimmung**
+
+<sup>1</sup> Wird in der Personalgesetzgebung das Einvernehmen mit einer kantonalen Stelle oder deren Zustimmung vorausgesetzt, so ist die Universität davon ausgenommen.
 
 #### Art. 19
 
 **Nebenbeschäftigung**
 
-<sup>1</sup> Nebenbeschäftigungen sind bewilligungspflichtig. Sie dürfen die dienstliche Tätigkeit und den Universitätsbetrieb nicht beeinträchtigen.
+<sup>1</sup> Nebenbeschäftigungen von Mitarbeiterinnen und Mitarbeitern dürfen die dienstliche Tätigkeit und den Universitätsbetrieb nicht beeinträchtigen.
 
-<sup>2</sup> Als Nebenbeschäftigung gilt eine Tätigkeit, die nicht zum Grundauftrag der Mitarbeiterin oder des Mitarbeiters gehört und zu wesentlichen Teilen persönlich ausgeführt wird.
+<sup>2</sup> Sie sind bewilligungspflichtig.
 
-<sup>3</sup> Die Nebenbeschäftigungen, die zeitliche Belastung und die Erträge sind jährlich in Form einer Selbstdeklaration zu melden.
+<sup>3</sup> Bei dauernder erheblicher Belastung wird die Bewilligung an die Bedingung geknüpft, den Beschäftigungsgrad herabzusetzen.
 
-<sup>4</sup> Wird bei einer Nebenbeschäftigung die Infrastruktur der Universität beansprucht, so sind die Kosten abzugelten.
+<sup>4</sup> Wird bei einer Nebenbeschäftigung die Infrastruktur oder das Personal der Universität beansprucht, so sind die Kosten abzugelten. Die Abgeltung kann pauschaliert werden.
 
-<sup>5</sup> Bei dauernder erheblicher Belastung wird die Bewilligung grundsätzlich an die Bedingung geknüpft, den Beschäftigungsgrad herabzusetzen.
+<sup>5</sup> In der Regel sind die Nebenbeschäftigungen, die zeitliche Belastung und die Erträge jährlich in Form einer Selbstdeklaration zu melden.
+
+<sup>6</sup> Der Regierungsrat kann Ausnahmen von der Bewilligungs- und Deklarationspflicht vorsehen. Er kann diese Befugnis ganz oder teilweise der Universitätsleitung übertragen.
+
+<sup>7</sup> Er regelt die Einzelheiten zu den zulässigen Nebenbeschäftigungen, die Zuständigkeiten und die Einzelheiten des Bewilligungs- und Deklarationsverfahrens sowie die Abgeltung durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion oder der Universitätsleitung übertragen.
 
 #### Art. 20
 
@@ -277,16 +295,17 @@ beschliesst:
 
 **Kategorien**
 
-<sup>1</sup> Dozentinnen und Dozenten sind
+<sup>1</sup> Dozentinnen und Dozenten sind insbesondere
 
 - a die ordentlichen Professorinnen und Professoren,
 - b die ausserordentlichen Professorinnen und Professoren,
 - c die hauptamtlichen Dozentinnen und Dozenten,
 - d die Assistenzprofessorinnen und Assistenzprofessoren,
+- d1 die Assistenzdozentinnen und Assistenzdozenten mit Tenure Track,
 - e die Lehrbeauftragten,
 - f die Gastdozentinnen und Gastdozenten.
 
-<sup>2</sup> Der Regierungsrat kann, soweit erforderlich, die Kategorien weiter unterscheiden, bestehende Kategorien aufheben oder neue schaffen.
+<sup>2</sup> …
 
 #### Art. 22
 
@@ -294,9 +313,9 @@ beschliesst:
 
 <sup>1</sup> Die Universität kann Dozentinnen und Dozenten Forschungs- oder Bildungsurlaube gewähren.
 
-<sup>2</sup> Über den Forschungs- oder Bildungsurlaub ist Rechenschaft abzulegen.
+<sup>2</sup> …
 
-<sup>3</sup> Der Regierungsrat regelt das Nähere, insbesondere die Einzelheiten zur Gewährung von Forschungs- und Bildungsurlauben sowie den Umfang der Gehaltskürzung und der Rückzahlungspflicht, durch Verordnung.
+<sup>3</sup> Der Regierungsrat regelt die Gewährung von Forschungs- und Bildungsurlauben sowie die damit zusammenhängenden Rechte und Pflichten durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Universitätsleitung übertragen.
 
 #### Art. 23
 
@@ -322,15 +341,17 @@ beschliesst:
 
 #### Art. 25
 
-**Assistenzprofessorinnen und Assistenzprofessoren**
+**Befristete Anstellung**
 
-<sup>1</sup> Die Dauer der Anstellung von Assistenzprofessorinnen und Assistenzprofessoren ist befristet.
+<sup>1</sup> Die Dauer der Anstellung von Assistenzprofessorinnen und Assistenzprofessoren sowie Assistenzdozentinnen und Assistenzdozenten mit Tenure Track ist auf höchstens sechs Jahre befristet. Der Regierungsrat kann Ausnahmen von der Höchstdauer der Befristung durch Verordnung vorsehen.
 
 #### Art. 26
 
 **Interessenvertretung**
 
 <sup>1</sup> Die Dozentinnen und Dozenten gemäss Artikel 21 Absatz 1 Buchstaben c bis f können sich zur Wahrung ihrer Interessen in einem Verein zusammenschliessen. Dieser nimmt ihre Mitwirkungs- und Mitbestimmungsrechte wahr.
+
+<sup>2</sup> Die Interessenvertretung kann gemeinsam mit den Assistentinnen und Assistenten wahrgenommen werden.
 
 ### 2.2.3 Assistentinnen und Assistenten
 
@@ -344,13 +365,34 @@ beschliesst:
 
 <sup>3</sup> Die Dauer der Anstellung von Assistentinnen und Assistenten ist befristet.
 
-<sup>4</sup> Der Regierungsrat legt die Kategorien der Assistentinnen und Assistenten fest.
+<sup>4</sup> …
 
 #### Art. 28
 
 **Interessenvertretung**
 
 <sup>1</sup> Die Assistentinnen und Assistenten können sich zur Wahrung ihrer Interessen in einem Verein zusammenschliessen. Dieser nimmt ihre Mitwirkungs- und Mitbestimmungsrechte wahr.
+
+<sup>2</sup> Die Interessenvertretung kann gemeinsam mit den Dozentinnen und Dozenten gemäss Artikel 21 Absatz 1 Buchstabe c bis f wahrgenommen werden.
+
+### 2.2.4 Drittmittelangestellte
+
+#### Art. 28a
+
+**Kündigungsgrund**
+
+<sup>1</sup> Bei Drittmittelangestellten gilt das Auslaufen der Drittmittel als Kündigungsgrund.
+
+#### Art. 28b
+
+**Privatrechtliche Anstellungen**
+
+<sup>1</sup> Drittmittelangestellte können privatrechtlich angestellt werden, wenn die Universität durch das Drittmittelprojekt
+
+- a im Wettbewerb mit privaten Anbieterinnen und Anbietern steht und
+- b keinen gesetzlichen Auftrag erfüllt.
+
+<sup>2</sup> Die personalrechtlichen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen sowie die Personalgesetzgebung finden auf die privatrechtlichen Anstellungen keine Anwendung.
 
 ### 2.3 Studierende
 
@@ -364,6 +406,7 @@ beschliesst:
 - b Inhaberin oder Inhaber eines Bachelortitels einer schweizerischen universitären Hochschule, Fachhochschule oder pädagogischen Hochschule ist,
 - c sich über eine als gleichwertig anerkannte Vorbildung ausweist,
 - d einen Berufsmaturitätsausweis zusammen mit dem Ausweis über bestandene Ergänzungsprüfungen der Schweizerischen Maturitätskommission besitzt,
+- d1 einen Fachmaturitätsausweis zusammen mit dem Ausweis über bestandene Ergänzungsprüfungen der Schweizerischen Maturitätskommission besitzt,
 - e sich über eine teilweise anerkannte Vorbildung ausweist und die Aufnahmeprüfung bestanden hat oder,
 - f das 30. Lebensjahr vollendet hat und in einem Aufnahmeverfahren nachweist, über die Hochschulreife für den gewählten Studiengang zu verfügen.
 
@@ -420,7 +463,10 @@ beschliesst:
 
 **3 Anordnung**
 
-<sup>1</sup> Der Regierungsrat beschliesst die Zulassungsbeschränkungen auf Antrag der Universitätsleitung jeweils für ein Jahr.
+<sup>1</sup> Der Regierungsrat beschliesst jeweils für ein Jahr die Zulassungsbeschränkungen
+
+- a zum Medizinstudium aufgrund der Koordination durch den Hochschulrat der Schweizerischen Hochschulkonferenz,
+- b zum Studium der Sportwissenschaften auf Antrag der Universitätsleitung.
 
 <sup>2</sup> Die Vereinigung der Studierenden ist anzuhören.
 
@@ -544,9 +590,8 @@ beschliesst:
 - m wählt die Mitglieder der ständigen Kommissionen und genehmigt deren Geschäftsordnungen,
 - n wählt die Delegierten in wissenschafts- und hochschulpolitische Gremien,
 - o genehmigt die Statuten der Vereinigung der Studierenden,
-- p verleiht die Honorarprofessur,
-- q schafft weitere Titel,
-- r entzieht Titel.
+- p–q …
+- r entzieht Titel, mit Ausnahme des Titels Privatdozentin oder Privatdozent.
 
 <sup>2</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Universitätsgesetzgebung übertragen sind.
 
@@ -591,16 +636,19 @@ beschliesst:
 - e beschliesst den Geschäftsbericht,
 - f beschliesst die weiteren Berichte gemäss Artikel 60,
 - g führt den Finanzhaushalt der Universität,
-- h stellt die Mitarbeiterinnen und Mitarbeiter an,
+- h …
 - i beschliesst über die Schaffung, Veränderung und Aufhebung von Stellen,
 - k beschliesst über die Organisation, soweit dieses Gesetz nicht andere Zuständigkeiten vorsieht,
 - l genehmigt die Studienpläne,
 - m stellt ein fächerübergreifendes Lehrangebot sicher,
-- n erteilt die Lehrbefugnis und verleiht Titel, soweit die Universitätsgesetzgebung dies vorsieht,
+- n erteilt und entzieht die Lehrbefugnis und damit den Titel Privatdozentin oder Privatdozent,
+- n1 verleiht Titel, soweit die Universitätsgesetzgebung dies vorsieht,
 - o schliesst mit den Fakultäten Leistungsvereinbarungen gestützt auf den Leistungsauftrag des Regierungsrates ab,
 - p beschliesst über die Zulassung zum Studium.
 
 <sup>2</sup> Sie erfüllt die weiteren Aufgaben, die ihr durch die Universitätsgesetzgebung übertragen sind.
+
+<sup>3</sup> Sie kann die Befugnisse gemäss Absatz 1 Buchstaben i und p durch Reglement ganz oder teilweise an einzelne Mitglieder der Universitätsleitung übertragen.
 
 #### Art. 40
 
@@ -650,11 +698,14 @@ beschliesst:
 - b erlässt das Fakultätsreglement,
 - c erlässt die Studienreglemente,
 - d erlässt die Weiterbildungsreglemente,
-- e verleiht Bachelor- und Mastertitel sowie Lizenziate, Diplome und Doktorate,
-- f stellt Antrag für die Lehrbefugnis und die Verleihung weiterer Titel,
+- e verleiht Bachelor- und Mastertitel sowie Doktortitel,
+- f stellt Antrag für die Erteilung der Lehrbefugnis und damit die Verleihung des Titels Privatdozentin oder Privatdozent,
+- f1 stellt Antrag für die Verleihung weiterer Titel,
 - g ist verantwortlich für die Umsetzung der Leistungsvereinbarung mit der Universitätsleitung.
 
 <sup>2</sup> Es erfüllt die weiteren Aufgaben, die ihm durch die Universitätsgesetzgebung übertragen sind.
+
+<sup>3</sup> Es legt die Zuständigkeiten für die Ausstellung von Bescheinigungen, einschliesslich der Entscheide über die Ergebnisse von Prüfungen, durch Reglement fest.
 
 #### Art. 45
 
@@ -690,7 +741,7 @@ beschliesst:
 
 <sup>1</sup> Die interfakultäre oder gesamtuniversitäre Einheit erfüllt ihre Aufgaben in Zusammenarbeit mit dem Organ oder der Kommission, dem oder der sie zugeordnet ist.
 
-<sup>2</sup> Das Universitätsstatut bestimmt die Zuordnung. Es regelt die Zuständigkeiten des Organs oder der Kommission, insbesondere ob es oder sie Reglemente erlassen oder Titel verleihen kann.
+<sup>2</sup> Das Universitätsstatut bestimmt die Zuordnung. Es regelt die Zuständigkeiten des Organs oder der Kommission, insbesondere ob es oder sie Reglemente erlassen oder Bachelor- und Mastertitel sowie Doktortitel verleihen kann.
 
 <sup>3</sup> Die wissenschaftlich tätige interfakultäre oder gesamtuniversitäre Einheit ist dem Institut gleichgestellt.
 
@@ -737,7 +788,7 @@ beschliesst:
 
 <sup>1</sup> Die Universität schliesst mit den bernischen Universitätsspitälern oder mit andern Leistungserbringern unter den Voraussetzungen der Spitalversorgungsgesetzgebung Verträge über die Übertragung von Aufgaben in Lehre und Forschung ab.
 
-<sup>2</sup> Die Verträge bedürfen zu ihrer Gültigkeit der Genehmigung durch den Regierungsrat.
+<sup>2</sup> Die Verträge mit den bernischen Universitätsspitälern bedürfen zu ihrer Gültigkeit der Genehmigung durch den Regierungsrat.
 
 <sup>3</sup> Können sich die Universität und die Universitätsspitäler nicht einigen, entscheidet der Regierungsrat.
 
@@ -918,7 +969,7 @@ beschliesst:
 
 <sup>1</sup> Die Doktoratsgebühren betragen 100 bis 500 Franken pro Semester.
 
-<sup>2</sup> Die Gebühren für Auskultantinnen und Auskultanten betragen höchstens 150 Franken pro Semesterwochenstunde und höchstens 1200 Franken pro Semester.
+<sup>2</sup> Die Gebühren für Auskultantinnen und Auskultanten betragen höchstens 1200 Franken pro Semester.
 
 <sup>3</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
 
@@ -994,9 +1045,11 @@ beschliesst:
 
 <sup>1</sup> Immaterielle Arbeitsergebnisse, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, gelten ohne Weiteres als der Universität abgetreten.
 
-<sup>2</sup> Ist das Urheber- oder Patentrecht im Rahmen einer Nebenbeschäftigung entstanden, so werden die Erträge aus der Verwertung wie Erträge aus Nebenbeschäftigungen behandelt.
+<sup>1a</sup> Bei Computerprogrammen, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, liegen die ausschliesslichen Verwendungsbefugnisse bei der Universität.
 
-<sup>3</sup> Bei einer dienstrechtlichen Verpflichtung für verschiedene Arbeitgeberinnen oder Arbeitgeber wird das Recht an den immateriellen Arbeitsergebnissen vertraglich geregelt.
+<sup>2</sup> Sind immaterielle Arbeitsergebnisse im Rahmen einer Nebenbeschäftigung entstanden, so werden die Erträge aus der Verwertung wie Erträge aus Nebenbeschäftigungen behandelt.
+
+<sup>3</sup> Bei einer dienstrechtlichen Verpflichtung für verschiedene Arbeitgeberinnen und Arbeitgeber wird das Recht an den immateriellen Arbeitsergebnissen vertraglich geregelt.
 
 #### Art. 71
 
@@ -1042,7 +1095,7 @@ beschliesst:
 
 <sup>4</sup> Sie ist für alle Angelegenheiten zuständig, die nicht der Universität oder einer anderen kantonalen oder eidgenössischen Behörde übertragen sind.
 
-## 7 Verfahren, Rechtspflege, Straf- und Disziplinarrecht
+## 7 Verfahren, Rechtspflege, wissenschaftliche Integrität, Straf- und Disziplinarrecht
 
 #### Art. 75
 
@@ -1056,13 +1109,15 @@ beschliesst:
 
 **Rechtsweg**
 
-<sup>1</sup> Gegen Verfügungen der Organe der Fakultäten und der weiteren Organisationseinheiten kann Beschwerde bei einer Rekurskommission erhoben werden.
+<sup>1</sup> Gegen Verfügungen des Senats, der Universitätsleitung oder ihrer Mitglieder sowie gegen Verfügungen der Rektorin oder des Rektors kann Beschwerde bei der Bildungs- und Kulturdirektion geführt werden. Vorbehalten bleibt Absatz 5.
 
-<sup>2</sup> Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
+<sup>2</sup> Gegen andere Verfügungen, die in Anwendung dieses Gesetzes ergehen, kann Beschwerde bei der Rekurskommission erhoben werden. Vorbehalten bleibt Absatz 5.
 
-<sup>3</sup> Gegen Verfügungen des Senats, der Universitätsleitung und der Rektorin oder des Rektors kann Beschwerde bei der Bildungs- und Kulturdirektion geführt werden.
+<sup>3</sup> Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
 
 <sup>4</sup> Bei Beschwerden gegen Ergebnisse von Prüfungen ist die Rüge der Unangemessenheit unzulässig.
+
+<sup>5</sup> Die Rechtsmittel gegen Verfügungen in personalrechtlichen Angelegenheiten richten sich nach der Personalgesetzgebung.
 
 #### Art. 77
 
@@ -1070,11 +1125,28 @@ beschliesst:
 
 <sup>1</sup> Das Verwaltungsgericht beurteilt auf Klage hin als einzige Instanz Streitigkeiten aus öffentlichrechtlichen Verträgen der Universität.
 
+#### Art. 77a
+
+**Wissenschaftliche Integrität**
+
+<sup>1</sup> Die Angehörigen der Universität sowie alle weiteren an der Universität wissenschaftlich tätigen Personen sind verpflichtet, die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis zu beachten.
+
+<sup>2</sup> Die Universität konkretisiert diese Regeln durch Reglement.
+
+<sup>3</sup> Sie kann zur Gewährleistung der Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis in- und ausländischen Hochschulen sowie Forschungs- und Forschungsförderungsinstitutionen im Einzelfall Auskünfte darüber erteilen,
+
+- a ob eine Verletzung oder der begründete Verdacht einer Verletzung dieser Regeln durch ihre Verpflichteten vorliegt,
+- b welche Sanktionen gegen die entsprechenden Verpflichteten verhängt worden sind.
+
+<sup>4</sup> Sie kann ihrerseits bei Institutionen gemäss Absatz 3 über ihre Verpflichteten sowie über Verpflichtete anderer Institutionen, mit denen sie Forschungspartnerschaften unterhalten hat, unterhält oder eingehen will, die gleichen Auskünfte einholen.
+
+<sup>5</sup> Die Befugnis zum Erteilen oder Einholen von Auskünften verjährt fünf Jahre, nachdem die Universität vom Verdacht auf einen Regelverstoss Kenntnis erlangt hat. Diese Frist wird durch jede Untersuchungshandlung unterbrochen. Die absolute Verjährung beträgt zehn Jahre.
+
 #### Art. 78
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer unbefugt eine Einrichtung als Universität bezeichnet oder einen Titel gemäss Artikel 4 führt, wird mit Busse bestraft.
+<sup>1</sup> Wer unbefugt behauptet, Inhaberin oder Inhaber eines Titels oder einer Bescheinigung gemäss Artikel 4 zu sein, wird mit Busse bestraft. Die strafrechtlichen Bestimmungen des Bundesrechts sowie des interkantonalen Rechts bleiben vorbehalten.
 
 #### Art. 78a
 
@@ -1082,7 +1154,7 @@ beschliesst:
 
 <sup>1</sup> Zur Gewährleistung eines geordneten Hochschulbetriebs regelt der Regierungsrat das Disziplinarrecht der Universität durch Verordnung.
 
-<sup>2</sup> Die Universitätsleitung kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft verstossen, folgende Sanktionen ergreifen:
+<sup>2</sup> Die Universitätsleitung kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen die Regeln der wissenschaftlichen Integrität verstossen, folgende Sanktionen ergreifen:
 
 - a Ausschluss von einzelnen Lehrveranstaltungen sowie von der Benützung einzelner Universitätseinrichtungen für die Dauer von einem oder mehreren Semestern,
 - b vorübergehender oder dauerhafter Ausschluss vom Studium an der Universität.
@@ -1110,7 +1182,7 @@ beschliesst:
 <sup>2</sup> Er erlässt insbesondere Bestimmungen über
 
 - a die Grundzüge der Qualitätssicherung und -entwicklung,
-- b die Anstellung und die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
+- b die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
 - c die Nebenbeschäftigungen,
 - d das Verfahren für die Anstellung der ordentlichen und ausserordentlichen Professorinnen und Professoren,
 - e die Planung, Steuerung und Finanzierung,
@@ -1182,6 +1254,16 @@ beschliesst:
 <sup>2</sup> Der Zeitpunkt des Übergangs zur neuen Finanzierung gemäss Ziffer 4 der Übergangsbestimmungen wird für die Universität auf den 1. Januar 2013 festgelegt.
 
 <sup>3</sup> Die Eröffnungsbilanz der Universität gemäss Ziffer 5 der Übergangsbestimmungen wird vom Regierungsrat im Frühjahr/Sommer 2013 beschlossen.
+
+## T3 Übergangsbestimmungen der Änderung vom 08.03.2022
+
+#### Art. T3-1
+
+**Anpassung bestehender Arbeitsverhältnisse**
+
+<sup>1</sup> Der Regierungsrat regelt die Anpassung der bestehenden Arbeitsverhältnisse an das neue Recht.
+
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion oder der Universitätsleitung übertragen.
 
 Bern, 5. September 1996
 

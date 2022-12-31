@@ -4,13 +4,12 @@ number: "436.11"
 title: "Loi sur l'Université"
 short: LUni
 language: fr
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-03-08
 adopted: 1996-09-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1855/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2666/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1855/pdf_file"
 
 (LUni)
 
-du 05.09.1996 (état au 01.07.2020)
+du 05.09.1996 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -60,7 +59,7 @@ arrête:
 
 <sup>4</sup> Elle fournit des services dans les domaines qui participent de ses mandats de recherche et de formation.
 
-<sup>5</sup> Elle encourage le transfert de connaissances et d’innovation et apporte une contribution efficace au développement durable.
+<sup>5</sup> Elle encourage le transfert de connaissances et d’innovation et apporte une contribution efficace au développement durable grâce à ses tâches fondamentales dans les domaines de l’enseignement, de la recherche et développement ainsi que des services.
 
 <sup>6</sup> Elle gère une bibliothèque scientifique accessible à la communauté universitaire et au public.
 
@@ -76,28 +75,20 @@ arrête:
 
 #### Art. 4
 
-**Grades, titres, attestations**
+**Titres, attestations**
 
-<sup>1</sup> L'Université délivre les grades suivants:
+<sup>1</sup> L'Université délivre les titres de bachelor et de master ainsi que le titre de doctorat conformément aux règles de coordination nationales ainsi que des attestations.
 
-- a bachelor et master ainsi que licence et diplôme,
-- b doctorat,
-- c habilitation.
+<sup>2</sup> Elle délivre l'autorisation d'enseigner et, partant, le titre de privat-docent ou de privat-docente.
 
-<sup>2</sup> Elle peut conférer les titres suivants:
+<sup>3</sup> Elle peut créer d’autres titres dans ses statuts.
 
-- a docteur(e) honoris causa à des personnalités ayant rendu des services exceptionnels à la science ou à la profession;
-- b …
-- c professeur(e) honoraire à des personnalités exerçant une profession scientifique ou une fonction publique.
-
-<sup>3</sup> Elle peut créer d’autres grades et titres dans ses statuts.
-
-<sup>4</sup> Elle retire un grade ou un titre à toute personne
+<sup>4</sup> Elle retire un titre à toute personne
 
 - a à qui ce titre a été conféré par erreur ou qui l'a acquis frauduleusement;
 - b qui a commis une infraction grave dans l'exercice de son activité scientifique;
 
-<sup>5</sup> Elle délivre des attestations des études accomplies.
+<sup>5</sup> …
 
 #### Art. 5
 
@@ -154,7 +145,14 @@ arrête:
 
 - a des membres du corps enseignant,
 - b des assistants et des assistantes,
-- c des autres collaborateurs et collaboratrices de l'Université.
+- c des autres collaborateurs et collaboratrices.
+
+<sup>3</sup> Il est entendu par personnel financé par des fonds de tiers les collaborateurs et collaboratrices
+
+- a dont le salaire n'est financé ni par la subvention annuelle allouée par le canton, ni par les subventions de base ou les subventions aux investissements allouées par la Confédération, ni par les taxes d’études ou les contributions qui sont versées par étudiant ou étudiante en vertu de conventions intercantonales et
+- b dont le contrat de travail stipule expressément ces conditions d'emploi.
+
+<sup>4</sup> Le Conseil-exécutif peut définir d’autres catégories de collaborateurs et collaboratrices.
 
 #### Art. 10
 
@@ -230,34 +228,54 @@ arrête:
 
 #### Art. 18
 
-**Législation sur le personnel, traitements, engagement**
+**Législation sur le personnel, généralités**
 
 <sup>1</sup> Le statut du personnel universitaire est régi par la législation sur le personnel si la présente loi ou ses textes d'application ne fixent pas de dispositions particulières en la matière.
 
 <sup>2</sup> …
 
-<sup>3</sup> Le Conseil-exécutif règle par voie d’ordonnance les modalités de détail concernant les traitements et l’engagement ainsi que les compétences. Pour le personnel exerçant des activités de recherche et d’enseignement, il peut prévoir des réglementations dérogeant à la législation sur le personnel; cela vaut pour
+<sup>3</sup> Le Conseil-exécutif peut édicter par voie d'ordonnance des dispositions dérogeant à la législation sur le personnel afin de tenir compte des conditions spécifiques aux rapports de travail à l'Université ou de certaines catégories de collaborateurs et collaboratrices. Ces prescriptions régissent les domaines suivants
 
-- a la durée des rapports de travail,
-- b le montant du traitement dans le cadre des plafonds légaux,
-- c les termes et les délais de résiliation des rapports de travail,
-- d les conséquences de la résiliation des rapports de travail,
-- e les règles applicables à l’indemnisation des soldes de vacances et soldes horaires,
-- f les règles applicables aux comptes épargne-temps.
+- a la durée du contrat,
+- b les délais, les termes et les conséquences de la fin des rapports de travail,
+- c le degré d'occupation défini par un pourcentage ou par une fourchette,
+- d la fixation du traitement à l'entrée en fonction et la progression individuelle du traitement,
+- e le modèle de temps de travail,
+- f le remboursement des frais.
+
+<sup>4</sup> Il peut déléguer partiellement ou totalement les compétences définies à l'alinéa 3 à la direction de l'Université.
+
+#### Art. 18a
+
+**Compétences**
+
+<sup>1</sup> Le Conseil-exécutif désigne les autorités d'engagement compétentes et définit les autres compétences par voie d'ordonnance, pour autant que la présente loi n'en dispose pas autrement.
+
+<sup>2</sup> Il peut déléguer partiellement ou totalement cette compétence à la direction de l'Université.
+
+#### Art. 18b
+
+**Dérogation à l’obligation d'accord ou d’approbation**
+
+<sup>1</sup> Si l'accord ou l'approbation d'un service cantonal est requise dans la législation sur le personnel, l'Université en est exemptée.
 
 #### Art. 19
 
 **Activité annexe**
 
-<sup>1</sup> Le personnel universitaire ne peut exercer d'activité annexe sans autorisation. Cette activité ne doit pas nuire à l'exercice de ses fonctions ni entraver le fonctionnement de l'Université.
+<sup>1</sup> Les activités annexes exercées par les collaborateurs et collaboratrices ne doivent pas nuire à l'exercice de leurs fonctions ni entraver le fonctionnement de l'Université.
 
-<sup>2</sup> Est considérée comme annexe une activité que le collaborateur ou la collaboratrice accomplit en grande partie personnellement et qui ne fait pas partie de son mandat de base.
+<sup>2</sup> Elles sont soumises à autorisation.
 
-<sup>3</sup> Les activités annexes, la durée d'occupation et les revenus qui en découlent doivent être déclarés personnellement chaque année.
+<sup>3</sup> Si l'activité annexe mobilise durablement et substantiellement la personne intéressée, l'autorisation est liée à la condition que la personne réduise son degré d'occupation.
 
-<sup>4</sup> Si l'infrastructure de l'Université est utilisée pour les besoins de l'activité annexe, les frais encourus doivent être remboursés.
+<sup>4</sup> S'il est recouru à l'infrastructure ou au personnel de l'Université pour les besoins de l'activité annexe, les frais qui en découlent doivent être remboursés. Le remboursement peut être réalisé sur une base forfaitaire.
 
-<sup>5</sup> Si l'activité annexe mobilise durablement et substantiellement la personne intéressée, l'autorisation est généralement liée à la condition que la personne réduise son degré d'occupation.
+<sup>5</sup> En règle générale, les activités annexes, le temps qui y a été consacré et les revenus qui en ont découlé doivent faire l'objet d'une déclaration personnelle chaque année.
+
+<sup>6</sup> Le Conseil-exécutif peut prévoir des dérogations à l'obligation d'autorisation et de déclaration. Il peut déléguer partiellement ou totalement cette compétence à la direction de l'Université.
+
+<sup>7</sup> Il règle par voie d'ordonnance les modalités de détail relatives aux activités annexes autorisées, les compétences, les modalités de détail relatives à la procédure d'autorisation et de déclaration ainsi que l'indemnisation. Il peut déléguer partiellement ou totalement cette compétence à la Direction de l'instruction publique et de la culture ou à la direction de l'Université.
 
 #### Art. 20
 
@@ -277,16 +295,17 @@ arrête:
 
 **Catégories**
 
-<sup>1</sup> Le corps enseignant comprend
+<sup>1</sup> Le corps enseignant comprend notamment
 
 - a les professeurs et professeures ordinaires,
 - b les professeurs et professeures extraordinaires,
 - c les enseignants et enseignantes à titre principal,
 - d les professeurs assistants et professeures assistantes,
+- d1 les enseignants assistants et enseignantes assistantes avec prétitularisation conditionnelle,
 - e les chargés et chargées de cours,
 - f les enseignants et enseignantes invités.
 
-<sup>2</sup> Le Conseil-exécutif peut, si nécessaire, spécifier davantage les catégories du corps enseignant, supprimer des catégories existantes ou en créer de nouvelles.
+<sup>2</sup> …
 
 #### Art. 22
 
@@ -294,9 +313,9 @@ arrête:
 
 <sup>1</sup> L'Université peut accorder un congé aux membres du corps enseignant qui souhaitent se consacrer à une activité de recherche ou de formation.
 
-<sup>2</sup> Le congé doit faire l'objet d'un compte rendu.
+<sup>2</sup> …
 
-<sup>3</sup> Le Conseil-exécutif règle par voie d’ordonnance les modalités d’application, notamment concernant l’octroi d’un congé de recherche ou de formation ainsi que l’étendue de la réduction salariale et de l’obligation de rembourser.
+<sup>3</sup> Le Conseil-exécutif règle par voie d'ordonnance l'octroi des congés de recherche ou de formation ainsi que les droits et les obligations qui y sont liés. Il peut déléguer partiellement ou totalement cette compétence à la direction de l'Université.
 
 #### Art. 23
 
@@ -322,15 +341,17 @@ arrête:
 
 #### Art. 25
 
-**Professeurs assistants et professeures assistantes**
+**Engagement à durée déterminée**
 
-<sup>1</sup> Les professeurs assistants et les professeures assistantes sont engagés pour une durée déterminée.
+<sup>1</sup> Les professeurs assistants et les professeures assistantes ainsi que les enseignants assistants et les enseignantes assistantes avec prétitularisation conditionnelle sont engagés pour une durée limitée à six ans au maximum. Le Conseil-exécutif peut prévoir par voie d’ordonnance des dérogations à la durée déterminée.
 
 #### Art. 26
 
 **Association d'intérêts**
 
 <sup>1</sup> Les enseignants et les enseignantes visés à l'article 21, alinéa 1, lettres c à f peuvent constituer une association pour défendre leurs intérêts. L'association exerce leurs droits de participation et de codécision.
+
+<sup>2</sup> Les assistants et les assistantes peuvent participer à la défense des intérêts de l’association.
 
 ### 2.2.3 Assistants et assistantes
 
@@ -344,13 +365,34 @@ arrête:
 
 <sup>3</sup> Les assistants et les assistantes sont engagés pour une durée déterminée.
 
-<sup>4</sup> Le Conseil-exécutif définit les catégories d'assistants et d'assistantes.
+<sup>4</sup> …
 
 #### Art. 28
 
 **Association d'intérêts**
 
 <sup>1</sup> Les assistants et les assistantes peuvent constituer une association pour défendre leurs intérêts. Celle-ci exerce leurs droits de participation et de codécision.
+
+<sup>2</sup> Les enseignants et les enseignantes visés à l'article 21, alinéa 1, lettres c à f peuvent participer à la défense des intérêts de l’association.
+
+### 2.2.4 Personnel financé par des fonds de tiers
+
+#### Art. 28a
+
+**Motif de résiliation des rapports de travail**
+
+<sup>1</sup> L'épuisement des fonds de tiers constitue un motif de résiliation des rapports de travail du personnel financé par des fonds de tiers.
+
+#### Art. 28b
+
+**Engagements de droit privé**
+
+<sup>1</sup> Le personnel financé par des fonds de tiers peut faire l'objet d'un contrat de droit privé si, dans le cadre du projet financé par des fonds de tiers, l'Université
+
+- a est en concurrence avec des prestataires privés et
+- b ne remplit aucun mandat légal.
+
+<sup>2</sup> Les dispositions et les dispositions d'exécution de la présente loi qui relèvent du droit du personnel ne s'appliquent pas aux engagements de droit privé.
 
 ### 2.3 Etudiants et étudiantes
 
@@ -364,6 +406,7 @@ arrête:
 - b qui possèdent un titre de bachelor d’une université, d’une haute école spécialisée ou d’une haute école pédagogique suisse,
 - c qui possèdent un titre de fin d’études équivalent reconnu,
 - d qui possèdent un certificat de maturité professionnelle complété d’un certificat d’examen complémentaire, délivré par la Commission suisse de maturité,
+- d1 qui possèdent un certificat de maturité spécialisée complété d’un certificat d’examen complémentaire, délivré par la Commission suisse de maturité,
 - e qui possèdent un titre de fin d’études partiellement reconnu et ont réussi l’examen d’admission ou
 - f qui ont 30 ans révolus et prouvent, lors d’une procédure d’admission, qu’elles remplissent les conditions minimales requises pour entreprendre les études universitaires souhaitées.
 
@@ -420,7 +463,10 @@ arrête:
 
 **3 Institution**
 
-<sup>1</sup> Sur proposition de la direction de l’Université, le Conseil-exécutif arrête les restrictions d’admission pour une année.
+<sup>1</sup> Le Conseil-exécutif arrête pour une année les restrictions d'admission
+
+- a aux études de médecine conformément aux mesures de coordination prises par le Conseil des hautes écoles de la Conférence suisse des hautes écoles;
+- b aux études en sciences sportives sur proposition de la direction de l'Université.
 
 <sup>2</sup> L’Association des étudiants et des étudiantes est préalablement consultée.
 
@@ -544,9 +590,8 @@ arrête:
 - m désigne les membres des commissions permanentes et approuve les règlements internes desdites commissions;
 - n désigne les personnes qui représentent l’Université au sein des organismes chargés de la politique scientifique et de la politique universitaire;
 - o approuve les statuts de l’Association des étudiants et des étudiantes;
-- p confère le titre de professeur ou de professeure honoraire;
-- q créé d’autres grades ou titres;
-- r retire un grade ou un titre.
+- p–q …
+- r retire un titre, à l'exception du titre de privat-docent ou de privat-docente.
 
 <sup>2</sup> Il remplit les autres tâches qui lui sont assignées par la législation sur l'Université.
 
@@ -591,16 +636,19 @@ arrête:
 - e arrête le rapport de gestion;
 - f arrête les autres rapports visés à l’article 60;
 - g gère les finances de l’Université;
-- h engage les collaborateurs et les collaboratrices;
+- h …
 - i statue sur la création, la transformation et la suppression des postes;
 - k statue sur l’organisation de l’Université, pour autant que la présente loi n’en dispose pas autrement;
 - l approuve les programmes d’études;
 - m garantit un enseignement interdisciplinaire;
-- n délivre l’autorisation d’enseigner et les grades et les titres dans la mesure où la législation sur l’Université le prévoit;
+- n délivre et retire l’autorisation d’enseigner et partant, le titre de privat-docent ou de privat-docente;
+- n1 délivre des titres dans la mesure où la législation sur l’Université le prévoit;
 - o conclut avec les facultés des conventions de prestations basées sur le mandat de prestations du Conseil-exécutif;
 - p statue sur l’admission aux études.
 
 <sup>2</sup> Elle remplit les autres tâches qui lui sont assignées par la législation sur l'Université.
+
+<sup>3</sup> Elle peut déléguer partiellement ou totalement les compétences définies à l'alinéa 1, lettres i et p par voie de règlement à certains membres de la direction de l'Université.
 
 #### Art. 40
 
@@ -650,11 +698,14 @@ arrête:
 - b édicte le règlement d'organisation de la faculté;
 - c édicte les règlements d'études;
 - d édicte les règlements de formation continue;
-- e délivre les grades de bachelor et de master, les licences, les diplômes et les doctorats;
-- f propose à l’organe compétent de délivrer l’autorisation d’enseigner et d’autres grades ou titres;
+- e délivre les titres de bachelor et de master ainsi que le titre de doctorat;
+- f propose à l'organe compétent de délivrer l'autorisation d'enseigner et partant, le titre de privat-docent ou de privat-docente;
+- f1 propose de délivrer d'autres titres;
 - g est chargé de la mise en œuvre de la convention de prestations conclue avec la direction de l’Université.
 
 <sup>2</sup> Il remplit les autres tâches qui lui sont assignées par la législation sur l'Université.
+
+<sup>3</sup> Il fixe par voie de règlement les compétences liées à la délivrance d'attestations, y compris les compétences liées aux décisions concernant les résultats d'examen.
 
 #### Art. 45
 
@@ -690,11 +741,11 @@ arrête:
 
 <sup>1</sup> Les unités interfacultaires et les unités universitaires centrales remplissent les tâches qui leur sont assignées en collaboration avec l'organe ou la commission dont elles dépendent.
 
-<sup>2</sup> Les statuts de l'Université déterminent l'organe ou la commission dont dépend l'unité considérée. Ils définissent les attributions de cet organe ou de cette commission et précisent si ceux-ci peuvent adopter des règlements et conférer des titres et des grades.
+<sup>2</sup> Les statuts de l'Université déterminent l'organe ou la commission dont dépend l'unité considérée. Ils définissent les compétences de cet organe ou de cette commission et précisent en particulier si ceux-ci peuvent adopter des règlements et délivrer les titres de bachelor et de master ou les titres de doctorat.
 
 <sup>3</sup> Les unités interfacultaires et les unités universitaires centrales qui pratiquent une activité scientifique sont assimilées aux instituts.
 
-<sup>4</sup> Le sénat peut réunir au sein d'une conférence les unités interfacultaires, les unités universitaires centrales et les organes ou commissions dont elles dépendent. Il définit les attributions de cette conférence.
+<sup>4</sup> Le sénat peut réunir au sein d'une conférence les unités interfacultaires, les unités universitaires centrales et les organes ou commissions dont elles dépendent. Il définit les compétences de cette conférence.
 
 #### Art. 49
 
@@ -737,7 +788,7 @@ arrête:
 
 <sup>1</sup> L’Université conclut avec les hôpitaux universitaires bernois ou d’autres prestataires des conventions portant sur la délégation de tâches relevant de l’enseignement et de la recherche aux conditions prévues par la législation sur les soins hospitaliers.
 
-<sup>2</sup> Les conventions requièrent l’approbation du Conseil-exécutif.
+<sup>2</sup> Les conventions conclues avec les hôpitaux universitaires bernois requièrent l’approbation du Conseil-exécutif.
 
 <sup>3</sup> Si l’Université et les hôpitaux universitaires ne parviennent pas à s’entendre, il appartient au Conseil-exécutif de trancher.
 
@@ -918,7 +969,7 @@ arrête:
 
 <sup>1</sup> La taxe de doctorat est comprise entre 100 et 500 francs par semestre.
 
-<sup>2</sup> Les taxes prélevées auprès des auditeurs et des auditrices s’élèvent au maximum à 150 francs par heure de cours hebdomadaire sur un semestre et à 1200 francs au maximum par semestre.
+<sup>2</sup> Les taxes prélevées auprès des auditeurs et des auditrices s’élèvent au maximum à 1200 francs par semestre.
 
 <sup>3</sup> Le Conseil-exécutif règle les taxes par voie d’ordonnance. Il peut déléguer partiellement ou totalement cette compétence à la Direction de l’instruction publique et de la culture.
 
@@ -994,7 +1045,9 @@ arrête:
 
 <sup>1</sup> Les résultats immatériels du travail que les collaborateurs et les collaboratrices créent dans l’exécution de leurs obligations de service et dans l’exercice de leur fonction sont considérés comme ayant été cédés à l’Université sans autre formalité.
 
-<sup>2</sup> Si les droits d'auteur ou le brevet ont été acquis dans le cadre d'une activité annexe, les recettes dégagées par leur exploitation sont gérées comme des recettes d'activités annexes.
+<sup>1a</sup> L’Université est titulaire des droits d’utilisation exclusifs des logiciels que les collaborateurs et collaboratrices créent dans l’exécution de leurs obligations de service et dans l’exercice de leur fonction.
+
+<sup>2</sup> Si les résultats immatériels du travail ont été créés dans le cadre d'une activité annexe, les recettes dégagées par leur exploitation sont gérées comme des recettes d'activités annexes.
 
 <sup>3</sup> Dans le cas d’obligations de service envers plusieurs employeurs, les droits concernant les résultats immatériels du travail sont réglés contractuellement.
 
@@ -1042,7 +1095,7 @@ arrête:
 
 <sup>4</sup> Elle traite toutes les affaires qui ne sont du ressort ni de l'Université, ni d'une autre autorité cantonale ou fédérale.
 
-## 7 Procédure, voies de droit, disposition pénale et droit disciplinaire
+## 7 Procédure, voies de droit, intégrité scientifique, disposition pénale et droit disciplinaire
 
 #### Art. 75
 
@@ -1056,13 +1109,15 @@ arrête:
 
 **Recours**
 
-<sup>1</sup> Recours peut être formé auprès d'une commission de recours contre les décisions émanant des organes des facultés ou d'autres unités administratives.
+<sup>1</sup> Recours peut être formé auprès de la Direction de l'instruction publique et de la culture contre les décisions émanant du sénat, de la direction de l'Université ou de ses membres ainsi que contre les décisions émanant du recteur ou de la rectrice. L'alinéa 5 est réservé.
 
-<sup>2</sup> Recours peut être formé auprès du Tribunal administratif contre les décisions sur recours émanant de la commission de recours.
+<sup>2</sup> Recours peut être formé auprès de la commission de recours contre les autres décisions rendues en vertu de la présente loi. L'alinéa 5 est réservé.
 
-<sup>3</sup> Recours peut être formé auprès de la Direction de l'instruction publique et de la culture contre les décisions émanant du sénat, de la direction de l’Université ou du recteur ou de la rectrice.
+<sup>3</sup> Recours peut être formé auprès du Tribunal administratif contre les décisions sur recours émanant de la commission de recours.
 
 <sup>4</sup> Le grief d'inopportunité n'est pas recevable dans les recours formés contre des résultats d'examen.
+
+<sup>5</sup> Les voies de recours contre les décisions concernant des questions de droit du personnel sont régies par la législation sur le personnel.
 
 #### Art. 77
 
@@ -1070,11 +1125,28 @@ arrête:
 
 <sup>1</sup> Le Tribunal administratif connaît en instance unique des actions portant sur les litiges découlant de contrats de droit public conclus par l'Université.
 
+#### Art. 77a
+
+**Intégrité scientifique**
+
+<sup>1</sup> Les membres de l'Université ainsi que toute autre personne exerçant une activité scientifique à l'Université doivent respecter les règles relatives à l’intégrité scientifique et aux bonnes pratiques scientifiques.
+
+<sup>2</sup> L'Université précise ces règles par voie de règlement.
+
+<sup>3</sup> Afin de garantir le respect des règles relatives à l'intégrité scientifique et aux bonnes pratiques scientifiques, elle peut fournir des renseignements, dans des cas particuliers, aux hautes écoles suisses ou étrangères ainsi qu'aux institutions de recherche ou d’encouragement de la recherche
+
+- a sur la violation ou les soupçons fondés de violation de ces règles par les personnes soumises aux principes d'intégrité scientifique à l'Université;
+- b sur les sanctions prononcées à l'encontre des personnes concernées.
+
+<sup>4</sup> Elle peut elle-même demander aux institutions visées à l'alinéa 3 les mêmes renseignements sur les personnes soumises aux principes d'intégrité scientifique à l'Université ou dans d'autres institutions avec lesquelles elle a entretenu, entretient ou entend conclure des partenariats de recherche.
+
+<sup>5</sup> La compétence de donner ou de demander des renseignements se prescrit cinq ans après que l'Université a pris connaissance du soupçon de violation des règles. Ce délai est interrompu par chaque activité d'instruction qui est entreprise. Le délai de prescription absolue est de dix ans.
+
 #### Art. 78
 
 **Disposition pénale**
 
-<sup>1</sup> Toute personne qui confère sans autorisation le titre d'université à une institution ou s'arroge un titre relevant de l'article 4 est punie de l'amende.
+<sup>1</sup> Toute personne qui prétend, sans y être autorisée, être titulaire d’un titre ou d’une attestation au sens de l’article 4 sera punie d’une amende. Les dispositions pénales du droit fédéral et du droit intercantonal sont réservées.
 
 #### Art. 78a
 
@@ -1082,7 +1154,7 @@ arrête:
 
 <sup>1</sup> Afin d’assurer le bon fonctionnement de l’Université, le Conseil-exécutif règle le droit disciplinaire de l’Université par voie d’ordonnance.
 
-<sup>2</sup> La direction de l’Université peut prendre à l’encontre des étudiants et des étudiantes qui commettent des infractions graves ou répétées au règlement disciplinaire ou qui violent le principe d’intégrité de la science les sanctions suivantes:
+<sup>2</sup> La direction de l’Université peut prendre à l’encontre des étudiants et des étudiantes qui commettent des infractions graves ou répétées au règlement disciplinaire ou qui violent les règles de l'intégrité scientifique les sanctions suivantes:
 
 - a exclusion de certains cours et interdiction d’utiliser certaines installations de l’Université pour une durée d’un ou plusieurs semestres,
 - b exclusion temporaire ou définitive de l’Université.
@@ -1110,7 +1182,7 @@ arrête:
 <sup>2</sup> Il édicte en particulier les dispositions concernant
 
 - a les principes applicables à l'assurance et au développement de la qualité,
-- b le statut et la prévoyance professionnelle du personnel universitaire,
+- b la prévoyance professionnelle des collaborateurs et collaboratrices,
 - c les activités annexes,
 - d la procédure d'engagement des professeurs et professeures ordinaires et extraordinaires,
 - e le plan de développement, le pilotage et le financement,
@@ -1182,6 +1254,16 @@ arrête:
 <sup>2</sup> La date du passage de l'Université au nouveau mode de financement tel qu'il est prévu au chiffre 4 des dispositions transitoires est fixée au 1<sup>er</sup> janvier 2013.
 
 <sup>3</sup> Le bilan d'ouverture de l'Université visé au chiffre 5 des dispositions transitoires sera arrêté par le Conseil-exécutif au printemps ou à l'été 2013.
+
+## T3 Dispositions transitoires de la modification du 08.03.2022
+
+#### Art. T3-1
+
+**Mise en conformité des rapports de travail existants**
+
+<sup>1</sup> Le Conseil-exécutif règle la mise en conformité des rapports de travail existants avec le nouveau droit.
+
+<sup>2</sup> Il peut déléguer partiellement ou totalement cette compétence à la Direction de l'instruction publique et de la culture ou à la direction de l'Université.
 
 Berne, le 5 septembre 1996
 
