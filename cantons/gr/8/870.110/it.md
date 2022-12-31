@@ -4,13 +4,13 @@ number: "870.110"
 title: "Ordinanza della legge d'applicazione della legge federale sulla circolazione stradale"
 short: OLALCStr
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-22
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3212/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3275/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3212/pdf_file"
 
 (OLALCStr)
 
-del 08.12.2008 (stato 01.01.2022)
+del 08.12.2008 (stato 01.01.2023)
 
 emanata dal Governo l'8 dicembre 2008
 
@@ -120,11 +120,17 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> La Polizia cantonale e gli organi di polizia autorizzati sono competenti per il ritiro immediato di licenze di circolazione e di condurre ai sensi della legislazione federale.
 
+#### Art. 8a
+
+**Ufficio tecnico**
+
+<sup>1</sup> L'Ufficio tecnico può fornire informazioni a persone che desiderano ricevere un permesso speciale per veicoli speciali o per veicoli le cui dimensioni, il cui peso, le cui misure o le cui condizioni del percorso circolare divergono da quelli previsti dalla legge o segnalati, se a questo scopo è presumibilmente necessaria una verifica statica di manufatti.
+
 #### Art. 9
 
 **Dipartimento delle finanze e dei comuni**
 
-<sup>1</sup> Il Dipartimento delle finanze e dei comuni stipula un'assicurazione collettiva di responsabilità civile per i veicoli per i quali sono state rilasciate licenze temporanee, nonché per biciclette e ciclomotori.
+<sup>1</sup> Il Dipartimento delle finanze e dei comuni stipula un'assicurazione collettiva di responsabilità civile per i veicoli e i ciclomotori per i quali sono state rilasciate licenze temporanee.
 
 ## 2. Viaggi di servizio
 
@@ -186,9 +192,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'imposta di circolazione viene ridotta:
 
-- a) del 60 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 105 g/km (secondo il NEDC[^15-1]) o di 125 g/km (secondo la WLTP[^15-2]);
-- b) dell'80 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 90 g/km (secondo il NEDC) o di 110 g/km (secondo la WLTP);
-- c) dell'80 percento per veicoli a motore pesanti della classe EURO con i limiti più severi ottenibile sul mercato svizzero.
+- a) del 60 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 95 g/km (secondo il NEDC[^15-1]) o di 110 g/km (secondo la WLTP[^15-2]);
+- b) dell'80 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 80 g/km (secondo il NEDC) o di 100 g/km (secondo la WLTP);
+- c) dell'80 per cento per veicoli a motore pesanti del codice emissioni più recente della classe EURO con i limiti più severi ottenibile sul mercato svizzero.
 
 <sup>2</sup> Veicoli a motore leggeri conformemente al capoverso 1 con motori diesel non possono inoltre superare emissioni di polveri fini di 0,01 g/km.
 
@@ -220,17 +226,53 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Le targhe di controllo sono trasferibili a terzi.
 
-## 5. Biciclette e ciclomotori
+## 5. Targhe di controllo per ciclomotori
 
 #### Art. 18
 
-**Servizi emittenti per vignette e targhe di controllo**
+**Servizio emittente per targhe di controllo**
 
-<sup>1</sup> L'Ufficio della circolazione è il servizio emittente per le vignette delle biciclette per l'assicurazione collettiva cantonale di responsabilità civile. Esso può delegare questo compito a terzi.
+<sup>1</sup> …
 
-<sup>2</sup> I comuni sono i servizi emittenti per le targhe di controllo dei ciclomotori. L'Ufficio della circolazione mette loro a disposizione le targhe di controllo.
+<sup>2</sup> L'Ufficio della circolazione è il servizio emittente per le targhe di controllo dei ciclomotori.
 
-<sup>3</sup> I comuni devono fatturare entro il 15 novembre le tasse e i premi riscossi. Essi tengono degli elenchi delle targhe di controllo distribuite e dei cambiamenti e li tengono a disposizione dell'Ufficio della circolazione.
+<sup>3</sup> …
+
+## 5a. Acquisto mediante contratto di targhe di controllo
+
+#### Art. 18a
+
+**Disposizioni generali**
+
+<sup>1</sup> I detentori di veicoli possono acquistare il diritto d'opzione e il diritto di utilizzare determinate targhe di controllo a un prezzo convenuto mediante un contratto di diritto pubblico.
+
+<sup>2</sup> L'Ufficio della circolazione stabilisce quali targhe di controllo possono essere acquistate mediante un contratto di diritto pubblico.
+
+<sup>3</sup> Esso disciplina i diritti e i doveri delle parti contrattuali in condizioni generali di contratto.
+
+#### Art. 18b
+
+**Incanto pubblico**
+
+<sup>1</sup> L'Ufficio della circolazione può mettere in vendita targhe di controllo tramite una piattaforma online accessibile al pubblico.
+
+<sup>2</sup> A tale incanto pubblico può prendere parte chi soddisfa i presupposti di diritto in materia di circolazione stradale per una messa in circolazione ordinaria di un veicolo a motore nel Cantone dei Grigioni.
+
+<sup>3</sup> L'aggiudicazione va a chi offre la somma più alta entro il termine dell'incanto.
+
+#### Art. 18c
+
+**Acquisto diretto**
+
+<sup>1</sup> L'Ufficio della circolazione può mettere in vendita a un prezzo fisso le targhe di controllo messe in circolazione le quali sono state restituite e non sono destinate all'incanto pubblico.
+
+#### Art. 18d
+
+**Targhe di controllo desiderate**
+
+<sup>1</sup> Un detentore di veicolo può chiedere all'Ufficio della circolazione di acquistare il diritto d'opzione e il diritto di utilizzare una targa di controllo non ancora messa in circolazione.
+
+<sup>2</sup> L'Ufficio della circolazione accoglie tale richiesta se la targa di controllo desiderata non è destinata all'incanto pubblico e se il detentore di veicolo che presenta la domanda è disposto a pagare il prezzo richiesto dall'Ufficio della circolazione.
 
 ## 6. Disposizioni di procedura e organizzative
 

@@ -4,13 +4,13 @@ number: "870.110"
 title: Ordinaziun tar la lescha introductiva tar la lescha federala davart il traffic sin via
 short: ORtLItLTV
 language: rm
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-22
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3212/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3212/pdf_file"
 
 (ORtLItLTV)
 
-dals 08-12-2008 (versiun dals 01-01-2022)
+dals 08-12-2008 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -120,11 +120,17 @@ relaschada da la regenza ils 8 da december 2008
 
 <sup>1</sup> La polizia chantunala ed ils organs da polizia ch'èn autorisads per quai èn cumpetents da retrair immediatamain ils documents da l'auto ed ils permiss da manischar en il senn da la legislaziun federala.
 
+#### Art. 8a
+
+**Uffizi da construcziun bassa**
+
+<sup>1</sup> L'Uffizi da construcziun bassa po dar scleriments a persunas che giavischan ina permissiun speziala per vehichels excepziunals u per vehichels che divergeschan da las prescripziuns legalas concernent la massa, concernent il pais, concernent las dimensiuns u concernent il radius, sch'i dovra per quest intent previsiblamain ina controlla posteriura da la statica da las construcziuns artifizialas.
+
 #### Art. 9
 
 **Departament da finanzas e vischnancas**
 
-<sup>1</sup> Il departament da finanzas e vischnancas fa in'assicuranza da responsabladad collectiva per ils vehichels cun attests d'in di sco er per velos e per velos a motor.
+<sup>1</sup> Il Departament da finanzas e vischnancas fa in'assicuranza da responsabladad collectiva per ils vehichels e per ils velos a motor cun attests d'in di.
 
 ## 2. Viadis uffizials
 
@@ -186,9 +192,9 @@ relaschada da la regenza ils 8 da december 2008
 
 <sup>1</sup> La taglia da traffic vegn reducida:
 
-- a) per 60 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 105 g/km (tenor NEDC[^15-1]) respectivamain 125 g/km (tenor WLTP[^15-2]);
-- b) per 80 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 90 g/km (tenor NEDC) respectivamain 110 g/km (tenor WLTP);
-- c) per 80 pertschient per vehichels a motor grevs da la classa EURO la pli severa ch'è mintgamai da survegnir sin il martgà svizzer.
+- a) per 60 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 95 g/km (tenor NEDC[^15-1]) respectivamain 110 g/km (tenor WLTP[^15-2]);
+- b) per 80 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 dad 80 g/km (tenor NEDC) respectivamain 100 g/km (tenor WLTP);
+- c) per 80 pertschient per vehichels a motor grevs cun il code d'emissiun mintgamai il pli actual ch'è da survegnir sin il martgà svizzer e che ademplescha la classa EURO la pli severa.
 
 <sup>2</sup> Ultra da quai na dastga la svapur da pulvra fina betg surpassar 0,01 g/km tar vehichels a motor levs tenor l'alinea 1 cun motors da diesel.
 
@@ -220,17 +226,53 @@ relaschada da la regenza ils 8 da december 2008
 
 <sup>1</sup> Ils numers d'immatriculaziun pon vegnir transferids a terzas persunas.
 
-## 5. Velos e velos a motor
+## 5. Numers d'immatriculaziun per velos a motor
 
 #### Art. 18
 
-**Posts d'emissiun per vignettas e per numers d'immatriculaziun**
+**Post d'emissiun per numers d'immatriculaziun**
 
-<sup>1</sup> Il post d'emissiun per vignettas da velo da l'assicuranza da responsabladad collectiva chantunala è l'uffizi per il traffic sin via. El po delegar questa incumbensa a terzas persunas.
+<sup>1</sup> …
 
-<sup>2</sup> Ils posts d'emissiun per numers d'immatriculaziun da velos a motor èn las vischnancas. L'uffizi per il traffic sin via las metta a disposiziun ils numers d'immatriculaziun.
+<sup>2</sup> Il post d'emissiun per numers d'immatriculaziun da velos a motor è l'Uffizi per il traffic sin via.
 
-<sup>3</sup> Las vischnancas ston far giu quint mintgamai fin ils 15 da november cun las taxas e cun las premias ch'ellas han incassà. Ellas registreschan ils numers d'immatriculaziun ch'ellas han distribuì e las mutaziuns inoltradas e mettan a disposiziun quests registers a l'uffizi per il traffic sin via.
+<sup>3</sup> …
+
+## 5a. Acquist da numers d'immatriculaziun tras contract
+
+#### Art. 18a
+
+**Disposiziuns generalas**
+
+<sup>1</sup> Las possessuras ed ils possessurs da vehichels pon acquistar il dretg da retrair e d'utilisar tscherts numers d'immatriculaziun tras in contract da dretg public per il pretsch fixà.
+
+<sup>2</sup> L'Uffizi per il traffic sin via designescha ils numers d'immatriculaziun che pon vegnir acquistads tras in contract da dretg public.
+
+<sup>3</sup> El regla ils dretgs e las obligaziuns da las parts contractantas en las cundiziuns generalas da fatschenta.
+
+#### Art. 18b
+
+**Ingiant public**
+
+<sup>1</sup> L'Uffizi per il traffic sin via po offrir numers d'immatriculaziun per l'acquist sur ina plattafurma online generalmain accessibla.
+
+<sup>2</sup> Sa participar a quest ingiant public pon tut las persunas che adempleschan las premissas dal dretg davart il traffic sin via per metter en circulaziun in vehichel a motor en il chantun Grischun confurm a l'urden.
+
+<sup>3</sup> La persuna che fa l'offerta la pli auta durant l'ingiant survegn l'agiudicaziun.
+
+#### Art. 18c
+
+**Aquist direct**
+
+<sup>1</sup> Ils numers d'immatriculaziun mess en circulaziun, ch'èn vegnids returnads e che n'èn betg previs per l'ingiant public, po l'Uffizi per il traffic sin via offrir publicamain per l'acquist per in pretsch fix.
+
+#### Art. 18d
+
+**Numers d'immatriculaziun tenor giavisch**
+
+<sup>1</sup> La possessura u il possessur d'in vehichel po dumandar l'Uffizi per il traffic sin via da survegnir il dretg da retrair e d'utilisar in numer d'immatriculaziun che n'è anc mai vegnì mess en circulaziun.
+
+<sup>2</sup> L'Uffizi per il traffic sin via accepta questa dumonda, sch'il numer d'immatriculaziun giavischà n'è betg previs per l'ingiant public e sche la possessura petenta u il possessur petent dal vehichel è pront da pajar il pretsch pretendì da l'Uffizi per il traffic sin via.
 
 ## 6. Disposiziuns da procedura e d'organisaziun
 
