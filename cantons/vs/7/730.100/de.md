@@ -4,13 +4,13 @@ number: "730.100"
 title: Verordnung betreffend die rationelle Energienutzung in Bauten und Anlagen
 short: VREN
 language: de
-version: 2011-06-01
-valid_until: 2022-12-31
-version_adopted: 2011-02-09
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-14
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/730.100"
-pdf: "https://lex.vs.ch/api/de/versions/2340/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3105/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,17 @@ pdf: "https://lex.vs.ch/api/de/versions/2340/pdf_file"
 
 (VREN)
 
-vom 09.02.2011 (Stand 01.06.2011)
+vom 09.02.2011 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen das Energiegesetz vom 15. Januar 2004;
+eingesehen das Energiegesetz vom 15. Januar 2004 (kEnG);
 
-eingesehen das Baugesetz vom 8. Februar 1996, insbesondere Artikel 29;
+eingesehen das Baugesetz vom 15. Dezember 2016 (BauG), insbesondere Artikel 4 Absatz 2;
 
-auf Antrag des Departements für Volkswirtschaft, Energie und Raumentwicklung,
+auf Antrag des für die Energie zuständigen Departements,
 
-beschliesst:
+verordnet:
 
 ## 1 Allgemeines
 
@@ -420,6 +420,16 @@ beschliesst:
 <sup>3</sup> Lüftung: Wird der Nachweis erbracht, dass der Grenzwert der spezifischen Leistung für die Lüftung pV eingehalten wird, kann auf den Nachweis der Einhaltung des Grenzwerts für den jährlichen Elektrizitätsbedarfs Lüftung verzichtet werden. Auf den Nachweis Lüftung kann verzichtet werden, wenn die mechanisch belüftete Nettofläche weniger als 500 Quadratmeter beträgt.
 
 <sup>4</sup> Lüftung/Klimatisierung: Wird der Nachweis erbracht, dass der elektrische Leistungsbedarf für Lüftung/Klimatisierung für eine neue Anlage 7W/m² oder für eine bestehende und sanierte Anlage 12W/m² oder kleiner ist (vgl. Art. 27), kann auf den Nachweis der Einhaltung des Grenzwerts für den jährlichen Elektrizitätsbedarf Lüftung/Kimatisierung verzichtet werden.
+
+#### Art. 28a
+
+**Pflicht zur Nutzung der Sonnenenergie bei neuen Gebäuden**
+
+<sup>1</sup> Beim Bau neuer Gebäude mit einer anrechenbaren Gebäudefläche von mehr als 300 m² ist auf den Dächern oder an den Fassaden eine Solaranlage, zu erstellen. Als anrechenbare Gebäudefläche gilt die Fläche innerhalb der projizierten Fassadenlinie.
+
+<sup>2</sup> Die Fläche der Solarpanels oder der Sonnenkollektoren muss mindestens 40 Prozent der anrechenbaren Gebäudefläche betragen.
+
+<sup>3</sup> Die Anträge auf Ausnahmen sind in Artikel 7 dieser Verordnung geregelt. Nicht als wirtschaftlich unverhältnismässig gilt eine Solaranlage, deren Gestehungskosten bei Berechnung mit einer Amortisationszeit von 25 Jahren unter 20 Rp/kWh liegen.
 
 ## 5 Beheizte Schwimmbäder
 

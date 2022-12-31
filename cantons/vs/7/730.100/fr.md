@@ -4,13 +4,13 @@ number: "730.100"
 title: "Ordonnance sur l'utilisation rationnelle de l'énergie dans les constructions et les installations"
 short: OURE
 language: fr
-version: 2011-06-01
-valid_until: 2022-12-31
-version_adopted: 2011-02-09
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-14
 adopted: 2024-03-20
 in_force: 2025-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/730.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2340/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3105/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,17 +19,17 @@ pdf: "https://lex.vs.ch/api/fr/versions/2340/pdf_file"
 
 (OURE)
 
-du 09.02.2011 (état 01.06.2011)
+du 09.02.2011 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi sur l'énergie du 15 janvier 2004;
+vu la loi sur l’énergie du 15 janvier 2004 (LcEne);
 
-vu la loi sur les constructions du 8 février 1996, et en particulier son article 29;
+vu la loi sur les constructions du 15 décembre 2016 (LC), en particulier son article 4 alinéa 2;
 
-sur la proposition du Département de l'économie, de l'énergie et du territoire,
+sur la proposition du département en charge de l’énergie,
 
-arrête:
+ordonne:
 
 ## 1 Généralités
 
@@ -420,6 +420,16 @@ arrête:
 <sup>3</sup> Ventilation: s'il est démontré que la valeur limite de la puissance spécifique pour la ventilation pV est respectée, on peut renoncer à justifier le respect de la valeur limite de la consommation annuelle d'électricité pour la ventilation. On peut également renoncer à la justification pour la ventilation si la surface nette ventilée est inférieure à 500 mètres carrés.
 
 <sup>4</sup> Ventilation et climatisation: s'il est démontré que la puissance électrique nécessaire à la ventilation et à la climatisation est inférieure à 7W/m² pour une nouvelle installation, ou inférieure à 12W/m² pour une installation existante ou assainie (selon art. 27), on peut renoncer à justifier le respect de la valeur limite de la consommation annuelle d'électricité pour la ventilation et la climatisation.
+
+#### Art. 28a
+
+**Exigences relatives à l'utilisation de l'énergie solaire pour les nouveaux bâtiments**
+
+<sup>1</sup> Lors de la construction de nouveaux bâtiments d'une surface déterminante de construction supérieure à 300 m², une installation solaire doit être mise en place sur les toits ou les façades. Par surface déterminante de construction, on entend la surface située à l’intérieur de la projection du pied de façade.
+
+<sup>2</sup> La surface des panneaux ou des capteurs solaires doit correspondre au minimum à 40 pour cent de la surface déterminante de construction.
+
+<sup>3</sup> Les demandes de dérogations sont régies par l’article 7 de la présente ordonnance. N’est pas considérée comme économiquement disproportionnée une installation solaire dont le prix de revient est inférieur à 20 cts/kWh en calculant avec une durée d’amortissement de 25 ans.
 
 ## 5 Piscines chauffées
 
