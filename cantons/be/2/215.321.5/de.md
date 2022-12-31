@@ -4,13 +4,13 @@ number: "215.321.5"
 title: Verordnung über das Grundstückdateninformationssystem
 short: GRUDIS-Verordnung
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-10-23
+version: 2023-01-01
+valid_until: 2026-08-31
+version_adopted: 2022-11-16
 adopted: 2002-12-18
 in_force: 2003-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.321.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1788/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2729/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1788/pdf_file"
 
 (GRUDIS-Verordnung)
 
-vom 18.12.2002 (Stand 01.01.2020)
+vom 18.12.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -156,7 +156,7 @@ beschliesst:
 - t für die Festsetzung und Ausrichtung von Leistungen gemäss dem Einführungsgesetz vom 27. November 2008 zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (EG ELG)[^12-6],
 - u für die Errichtung von Urkunden über bernische Grundstücke durch Notarinnen und Notare, die im Notariatsregister des Kantons Bern eingetragen sind,
 - v für die Erfüllung der Aufgaben der Vermögensverwaltung im Kindes- und Erwachsenenschutzrecht gemäss dem Schweizerischen Zivilgesetzbuch (ZGB)[^12-7], dem Gesetz vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG)[^12-8] und der Verordnung des Bundesrates vom 4. Juli 2012 über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft (VBVV)[^12-9],
-- w für die Erfüllung des Prüf- und Beratungsauftrages der Finanzkontrolle gemäss Artikel 15 bis 17 des Gesetzes vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^12-10].
+- w für die Erfüllung der Aufgaben der Finanzkontrolle gemäss Artikel 13 bis 17 des Kantonalen Finanzkontrollgesetzes vom 7. März 2022 (KFKG)[^12-10],
 - x für den Vollzug des eidgenössischen Wohnbau- und Eigentumsförderungsgesetzes vom 4. Oktober 1974 (WEG)[^12-11] und des Gesetzes vom 7. Februar 1978 über die Verbesserung des Wohnungsangebotes[^12-12].
 
 <sup>2</sup> Behörden des Kantons und der Gemeinden, deren Tätigkeit nicht in Absatz 1 umschrieben ist, können das Benutzerprofil 11 (Anhang 1) beantragen.
@@ -170,7 +170,7 @@ beschliesst:
 [^12-7]: SR 210
 [^12-8]: BSG 213.316
 [^12-9]: SR 211.223.11
-[^12-10]: BSG 622.1
+[^12-10]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 [^12-11]: SR 843
 [^12-12]: BSG 854.1
 

@@ -4,13 +4,13 @@ number: "215.321.5"
 title: "Ordonnance concernant le système d'information sur les données relatives aux immeubles"
 short: Ordonnance GRUDIS
 language: fr
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-10-23
+version: 2023-01-01
+valid_until: 2026-08-31
+version_adopted: 2022-11-16
 adopted: 2002-12-18
 in_force: 2003-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.321.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1788/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2729/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1788/pdf_file"
 
 (Ordonnance GRUDIS)
 
-du 18.12.2002 (état au 01.01.2020)
+du 18.12.2002 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -156,7 +156,7 @@ arrête:
 - t la fixation et le versement de prestations au sens de la loi du 27 novembre 2008 portant introduction de la loi fédérale sur les prestations complémentaires à l’AVS et à l’AI (LiLPC)[^12-6],
 - u la réception d’actes concernant des immeubles bernois par des notaires inscrits au registre des notaires du canton de Berne,
 - v l’accomplissement des tâches de gestion du patrimoine prévues par le droit de la protection de l’enfant et de l’adulte, conformément au Code civil suisse (CCS)[^12-7], à la loi du 1<sup>er</sup> février 2012 sur la protection de l’enfant et de l’adulte (LPEA)[^12-8] et à l’ordonnance du Conseil fédéral du 4 juillet 2012 sur la gestion du patrimoine dans le cadre d’une curatelle ou d’une tutelle (OGPCT)[^12-9],
-- w l’accomplissement du mandat d’examen et de conseil du Contrôle des finances défini aux articles 15 à 17 de la loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^12-10].
+- w l’accomplissement des tâches du Contrôle des finances définies aux articles 13 à 17 de la loi cantonale du 7 mars 2022 sur le Contrôle des finances (LCCF)[^12-10],
 - x l’exécution de la loi fédérale du 4 octobre 1974 encourageant la construction et l’accession à la propriété de logements (LCAP)[^12-11] et de la loi du 7 février 1978 concernant l’amélioration de l’offre de logements[^12-12].
 
 <sup>2</sup> Les autorités du canton et des communes dont l’activité n’est pas mentionnée à l’alinéa 1 peuvent demander l’attribution du profil d’utilisateur 11 (annexe 1).
@@ -170,7 +170,7 @@ arrête:
 [^12-7]: RS 210
 [^12-8]: RSB 213.316
 [^12-9]: RS 211.223.11
-[^12-10]: RSB 622.1
+[^12-10]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 [^12-11]: RS 843
 [^12-12]: RSB 854.1
 
