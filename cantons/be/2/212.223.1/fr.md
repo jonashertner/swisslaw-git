@@ -4,13 +4,12 @@ number: "212.223.1"
 title: Ordonnance sur la surveillance des fondations et des institutions de prévoyance
 short: OSFI
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2009-10-21
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/212.223.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1961/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2693/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1961/pdf_file"
 
 (OSFI)
 
-du 21.10.2009 (état au 01.11.2020)
+du 21.10.2009 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -155,7 +154,7 @@ arrête:
 <sup>1</sup> Dans la procédure de dissolution et de liquidation, l’autorité compétente pour modifier le but de la fondation
 
 - a approuve la demande de dissolution d’une fondation en vue de sa liquidation;
-- b procède à l’examen préalable d’un éventuel plan de répartition, le fait publier dans la feuille officielle d’avis et dans la feuille officielle cantonale et l’approuve;
+- b procède à l’examen préalable d’un éventuel plan de répartition, le fait publier dans la Feuille officielle cantonale et dans l'organe de publication officiel de la commune et l’approuve;
 - c constate que la liquidation de la fondation est terminée.
 
 ## 3 Institutions de prévoyance
@@ -203,8 +202,8 @@ arrête:
 - d d’examiner les règlements et leurs modifications;
 - e d’examiner et d’approuver les règlements de liquidation partielle et leurs modifications;
 - f d’examiner et d’approuver la demande de dissolution d’une institution de prévoyance;
-- g de faire publier la dissolution et la répartition de la fortune proposée dans la feuille officielle d’avis et dans la feuille officielle cantonale;
-- h de faire publier la répartition proposée d’une partie importante de la fortune dans la feuille officielle d’avis et dans la feuille officielle cantonale, pour autant qu’elle ne concerne pas une procédure de liquidation partielle;
+- g de faire publier la dissolution et la répartition de la fortune proposée dans la Feuille officielle cantonale et dans l'organe de publication officiel de la commune;
+- h de faire publier la répartition proposée d’une partie importante de la fortune dans la Feuille officielle cantonale et dans l'organe de publication officiel de la commune, pour autant qu’elle ne concerne pas une procédure de liquidation partielle;
 - i d’examiner et d’approuver les plans de répartition, à l’exception de ceux qui concernent une procédure de répartition partielle;
 - k de constater que la liquidation de l’institution de prévoyance est terminée.
 

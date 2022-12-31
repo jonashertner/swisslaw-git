@@ -4,13 +4,12 @@ number: "212.223.1"
 title: Verordnung über die Aufsicht über die Stiftungen und die Vorsorgeeinrichtungen
 short: ASVV
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2009-10-21
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/212.223.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1961/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2693/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1961/pdf_file"
 
 (ASVV)
 
-vom 21.10.2009 (Stand 01.11.2020)
+vom 21.10.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -155,7 +154,7 @@ beschliesst:
 <sup>1</sup> Im Aufhebungs- und Liquidationsverfahren obliegen der Umwandlungsbehörde
 
 - a die Genehmigung des Antrags auf Aufhebung einer Stiftung zum Zweck der Liquidation,
-- b die Vorprüfung eines allfälligen Verteilungsplans, dessen Veröffentlichung im amtlichen Anzeiger und jeweiligen Amtsblatt sowie dessen Genehmigung,
+- b die Vorprüfung eines allfälligen Verteilungsplans, dessen Veröffentlichung im jeweiligen Amtsblatt und im amtlichen Publikationsorgan der Gemeinde sowie dessen Genehmigung,
 - c die Feststellung des Abschlusses der Liquidation einer Stiftung.
 
 ## 3 Vorsorgeeinrichtungen
@@ -203,8 +202,8 @@ beschliesst:
 - d die Prüfung von Reglementen und deren Änderungen,
 - e die Prüfung und Genehmigung von Teilliquidationsreglementen und deren Änderungen,
 - f die Prüfung und Genehmigung des Antrags auf Aufhebung einer Vorsorgeeinrichtung,
-- g die Veröffentlichung der Aufhebung und beantragten Verteilung von Mitteln im amtlichen Anzeiger und jeweiligen Amtsblatt,
-- h die Veröffentlichung der beantragten Verteilung eines erheblichen Anteils von Mitteln im amtlichen Anzeiger und jeweiligen Amtsblatt sofern es sich nicht um ein Verfahren zur Teilliquidation handelt,
+- g die Veröffentlichung der Aufhebung und beantragten Verteilung von Mitteln im jeweiligen Amtsblatt und im amtlichen Publikationsorgan der Gemeinde,
+- h die Veröffentlichung der beantragten Verteilung eines erheblichen Anteils von Mitteln im jeweiligen Amtsblatt und im amtlichen Publikationsorgan der Gemeinde, sofern es sich nicht um ein Verfahren zur Teilliquidation handelt,
 - i die Prüfung und Genehmigung von Verteilungsplänen, mit Ausnahme jener im Verfahren zur Teilliquidation,
 - k die Feststellung des Abschlusses der Liquidation einer Vorsorgeeinrichtung.
 
