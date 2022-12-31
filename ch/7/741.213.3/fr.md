@@ -3,18 +3,18 @@ sr: "741.213.3"
 title: Ordonnance du DETEC du 28 septembre 2001 sur les zones 30 et les zones de rencontre
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/23"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2001-09-28
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-23-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-23-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DETEC sur les zones 30 et les zones de rencontre****
+# Ordonnance du DETEC sur les zones 30 et les zones de rencontre
 
-du 28 septembre 2001 (Etat le 1<sup>er</sup> janvier 2021)[^t-1]
+du 28 septembre 2001 (État le 1<sup>er</sup> janvier 2023)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
 
@@ -43,19 +43,9 @@ Pour toutes les mesures nécessaires aux fins de faire respecter les limitations
 
 #### Art. 3
 
-**Expertise**
+[^3-1]
 
-L’expertise requise selon l’art. 32, al. 4,[^3-1] LCR et décrite plus précisément dans l’art. 108, al. 4, OSR, consiste en un rapport sommaire comprenant notamment:
-
-- a. la description des objectifs que l’instauration de la zone doit permettre d’atteindre;
-- b. un plan d’ensemble montrant la hiérarchie des routes d’une localité ou de parties de celle-ci, hiérarchie définie en vertu du droit de l’aménagement du territoire;
-- c. une évaluation des déficits existants ou prévisibles en termes de sécurité ainsi que des propositions de mesures permettant de les supprimer;
-- d. des indications sur le niveau actuel des vitesses (vitesse 50 % V<sub>50</sub> et vitesse 85 % V<sub>85</sub>);
-- e. des indications sur les qualités actuelles et les qualités souhaitées du lieu en tant qu’habitat, cadre de vie et site économique, y compris les attentes en termes d’affectation;
-- f. des considérations sur les effets possibles de la mesure projetée sur l’ensemble de la localité ou sur certains de ses quartiers, ainsi que des propositions visant à éviter d’éventuels effets négatifs;
-- g. une liste et une description des mesures nécessaires pour atteindre les objectifs visés.
-
-[^3-1]: Actuellement «selon l’art. 32, al. 3,».
+[^3-1]: Abrogé par le ch. I de l’O du DETEC du 24 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
 
 ## Section 2 Mesures relevant du droit de la circulation routière et aménagement de l’espace routier
 
@@ -84,15 +74,13 @@ Il est admis de déroger à la règle de la priorité de droite, par l’emploi 
 
 <sup>3</sup> Au besoin, d’autres mesures doivent être prises pour que la vitesse maximale prescrite soit respectée, telles que la mise en place d’éléments d’aménagement ou de modération du trafic.
 
-## Section 3 Contrôle des mesures réalisées
+## Section 3 ...
 
 #### Art. 6
 
-<sup>1</sup> L’efficacité des mesures réalisées doit être vérifiée après une année au plus tard. Si les objectifs visés n’ont pas été atteints, il y a lieu de prendre des mesures supplémentaires.
+[^6-1]
 
-<sup>2</sup> Aucune vérification de l’efficacité n’est requise en cas de retrait de la priorité de droite conformément à l’art. 4, al. 1, let. b.[^6-1]
-
-[^6-1]: Introduit par le ch. I de l’O du DETEC du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
+[^6-1]: Abrogé par le ch. I de l’O du DETEC du 24 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
 
 ## Section 4 Dispositions finales
 

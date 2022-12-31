@@ -3,18 +3,18 @@ sr: "741.213.3"
 title: Verordnung des UVEK vom 28. September 2001 über die Tempo-30-Zonen und die Begegnungszonen
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/23"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2001-09-28
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2002-23-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/23/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-23-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/23/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des UVEK über die Tempo-30-Zonen und die Begegnungszonen****
+# Verordnung des UVEK über die Tempo-30-Zonen und die Begegnungszonen
 
-vom 28. September 2001 (Stand am 1. Januar 2021)[^t-1]
+vom 28. September 2001 (Stand am 1. Januar 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
 
@@ -43,19 +43,9 @@ Bei allen Massnahmen, die zur Einhaltung der angeordneten Höchstgeschwindigkeit
 
 #### Art. 3
 
-**Gutachten**
+[^3-1]
 
-Das Gutachten nach Artikel 32 Absatz 4[^3-1] SVG, welches in Artikel 108 Absatz 4 SSV näher umschrieben wird, ist ein Kurzbericht und umfasst namentlich:
-
-- a. die Umschreibung der Ziele, die mit der Anordnung der Zone erreicht werden sollen;
-- b. einen Übersichtsplan mit der auf Grund des Raumplanungsrechts festgelegten Hierarchie der Strassen einer Ortschaft oder von Teilen einer Ortschaft;
-- c. eine Beurteilung bestehender und absehbarer Sicherheitsdefizite sowie Vorschläge für Massnahmen zu deren Behebung;
-- d. Angaben zum vorhandenen Geschwindigkeitsniveau (50-Prozent-Geschwindigkeit V<sub>50</sub> und 85-Prozent-Geschwindigkeit V<sub>85</sub>);
-- e. Angaben zur bestehenden und angestrebten Qualität als Wohn‑, Lebens- und Wirtschaftsraum, einschliesslich der Nutzungsansprüche;
-- f. Überlegungen zu möglichen Auswirkungen der geplanten Massnahme auf die ganze Ortschaft oder auf Teile der Ortschaft sowie Vorschläge zur Vermeidung allfälliger negativer Folgen;
-- g. eine Aufzählung und Umschreibung der Massnahmen, die erforderlich sind, um die angestrebten Ziele zu erreichen.
-
-[^3-1]: Heute: nach Art. 32 Abs. 3.
+[^3-1]: Aufgehoben durch Ziff. I der V des UVEK vom 24. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
 
 ## 2. Abschnitt: Verkehrsrechtliche Massnahmen und Gestaltung des Strassenraums
 
@@ -84,15 +74,13 @@ Eine vom Rechtsvortritt abweichende Regelung durch Signale ist nur zulässig, we
 
 <sup>3</sup> Zur Einhaltung der angeordneten Höchstgeschwindigkeit sind nötigenfalls weitere Massnahmen zu ergreifen, wie das Anbringen von Gestaltungs- oder Verkehrsberuhigungselementen.
 
-## 3. Abschnitt: Kontrolle der realisierten Massnahmen
+## 3. Abschnitt: …
 
 #### Art. 6
 
-<sup>1</sup> Die realisierten Massnahmen sind spätestens nach einem Jahr auf ihre Wirkung zu überprüfen. Wurden die angestrebten Ziele nicht erreicht, so sind zusätzliche Massnahmen zu ergreifen.
+[^6-1]
 
-<sup>2</sup> Keine Wirkungsüberprüfung ist nötig beim Entzug des Rechtsvortritts nach Artikel 4 Absatz 1 Buchstabe b.[^6-1]
-
-[^6-1]: Eingefügt durch Ziff. I der V des UVEK vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2163](https://fedlex.data.admin.ch/eli/oc/2020/426)).
+[^6-1]: Aufgehoben durch Ziff. I der V des UVEK vom 24. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 499](https://fedlex.data.admin.ch/eli/oc/2022/499)).
 
 ## 4. Abschnitt: Schlussbestimmungen
 
