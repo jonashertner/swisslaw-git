@@ -4,24 +4,23 @@ number: BaB 162.100
 title: Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel
 short: "Anstellungsordnung, AO"
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-22
+version: 2023-01-01
+version_adopted: 2022-09-27
 adopted: 1998-04-28
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5310/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel
 
-Gemeindepersonal: Anstellungsordnung | Basel: Bürgergemeinde
+Gemeindepersonal
 
 (Anstellungsordnung, AO[^ingress-1])
 
-Vom 28. April 1998 (Stand 1. Juli 2021)
+Vom 28. April 1998 (Stand 1. Januar 2023)
 
 Der Bürgergemeinderat der Stadt Basel erlässt,
 
@@ -242,21 +241,19 @@ gestützt auf § 9 Abs. 1 Ziff. 6 des Gemeindegesetzes vom 17. Oktober 1984[^ing
 
 #### § 23
 
-**Nebenbeschäftigungen**
+**Nebenbeschäftigung**
 
-<sup>1</sup> Die Personalverantwortlichen sind über eine Nebenbeschäftigung zu informieren. Ab einem Beschäftigungsgrad von 80 Prozent in der Bürgergemeinde bedarf das Ausüben von Nebenbeschäftigungen der ausdrücklichen Zustimmung der Personalstelle der jeweiligen Institution.
+<sup>1</sup> Als Nebenbeschäftigung gilt jede neben dem Anstellungsverhältnis ausgeübte entgeltliche oder unentgeltliche Tätigkeit und die Ausübung eines öffentlichen Amtes.
 
-<sup>2</sup> Diese wird erteilt, unter der Voraussetzung, dass keine Nebenbeschäftigungen ausgeübt werden, die sich entweder nachteilig auf die unmittelbare Aufgabenerfüllung auswirken, eine Konkurrenzierung der Unternehmen der Bürgergemeinde bedeuten oder sonstwie deren Interessen zuwiderlaufen können.
+<sup>2</sup> Neben dem Anstellungsverhältnis ausgeübte Tätigkeiten und öffentliche Ämter können von einer Melde- und Bewilligungspflicht abhängig gemacht werden.
+
+<sup>3</sup> Für die Ausübung öffentlicher Ämter wird grundsätzlich der erforderliche Urlaub gewährt; bei starker Inanspruchnahme von Arbeitszeit kann eine angemessene Reduktion des Lohnes verlangt werden.
+
+<sup>4</sup> Das Nähere wird in den Ausführungsbestimmungen geregelt.
 
 #### § 24
 
-**Öffentliche Ämter**
-
-<sup>1</sup> Die Übernahme öffentlicher Ämter bedarf der Einwilligung der Institutionsleitung und ist dem Bürgerrat zur Kenntnis zu bringen.
-
-<sup>2</sup> Die Bewilligung kann aus wichtigem Grund verweigert werden, insbesondere wenn im Einzelfall betrieblich unzumutbare Verhältnisse drohen.
-
-<sup>3</sup> Für die Ausübung öffentlicher Ämter wird grundsätzlich der erforderliche Urlaub gewährt; bei starker Inanspruchnahme von Arbeitszeit kann eine angemessene Reduktion des Lohnes verlangt werden.
+**…**
 
 #### § 25
 
