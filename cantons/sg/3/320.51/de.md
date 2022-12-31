@@ -1,33 +1,32 @@
 ---
 canton: SG
 number: "320.51"
-title: Taxordnung der Psychiatrieverbunde des Kantons St.Gallen
+title: Taxordnung des Psychiatrieverbundes
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-10
+version: 2023-01-01
+version_adopted: 2023-02-14
 adopted: 2023-02-14
 in_force: 2023-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3071/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Taxordnung der Psychiatrieverbunde des Kantons St.Gallen
+# Taxordnung des Psychiatrieverbundes
 
-vom 20.05.2016 (Stand 01.01.2021)
+vom 14.02.2023 (Stand 01.01.2023)
 
-Der Verwaltungsrat der Psychiatrieverbunde
+Der Verwaltungsrat des Psychiatrieverbundes
 
 erlässt
 
-in Ausführung von Art. 7 Bst. d des Gesetzes über die Psychiatrieverbunde vom 25. Januar 2011[^ingress-1]
+in Anwendung von [Art. 7](https://www.gesetzessammlung.sg.ch/data/320.5%20/de/art7) Abs. 1 Bst. d des Gesetzes über den Psychiatrieverbund vom 25. Januar 2011[^ingress-1]
 
 als Taxordnung:[^ingress-2]
 
 [^ingress-1]: sGS [320.5](https://www.gesetzessammlung.sg.ch/data/320.5/de).
-[^ingress-2]: In Vollzug ab 1. Juni 2016.
+[^ingress-2]: Rückwirkend in Vollzug ab 1. Januar 2023.
 
 ## I. Allgemeine Bestimmungen
 
@@ -35,13 +34,13 @@ als Taxordnung:[^ingress-2]
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Erlass gilt für die Psychiatrieverbunde.
+<sup>1</sup> Dieser Erlass gilt für den Psychiatrieverbund «Psychiatrie St.Gallen».
 
 #### Art. 2
 
 **Taxtarif**
 
-<sup>1</sup> Der Verwaltungsrat erlässt gestützt auf diesen Erlass Taxtarife für die Psychiatrieverbunde und die weiteren Leistungserbringer, der die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthält.
+<sup>1</sup> Der Verwaltungsrat erlässt gestützt auf diesen Erlass Taxtarife für den Psychiatrieverbund und die weiteren Leistungserbringer, der die jeweils gültigen betragsmässigen Preise und Abrechnungsregeln enthält.
 
 #### Art. 3
 
@@ -49,8 +48,8 @@ als Taxordnung:[^ingress-2]
 
 <sup>1</sup> Die Taxen für stationäre Patientinnen und Patienten der Allgemeinen Abteilung, für tagesklinische und für ambulante Patientinnen und Patienten, die bei folgenden Versicherern versichert sind, werden durch Vereinbarung geregelt:
 
-- a) Krankenversicherer nach Art. 11 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^3-1];
-- b) Unfallversicherer nach Art. 58 und 61 ff. des Bundesgesetzes über die Unfallversicherung vom 20. März 1981[^3-2];
+- a) Krankenversicherer nach [Art. 11](https://db.clex.ch/link/Bund/832.10/de) des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^3-1];
+- b) Unfallversicherer nach [Art. 58](https://db.clex.ch/link/Bund/832.20/de) und [Art. 61](https://db.clex.ch/link/Bund/832.20/de) ff. des Bundesgesetzes über die Unfallversicherung vom 20. März 1981[^3-2];
 - c) eidgenössische Militärversicherung nach dem Bundesgesetz über die Militärversicherung vom 19. Juni 1992[^3-3];
 - d) eidgenössische Invalidenversicherung nach dem Bundesgesetz über die Invalidenversicherung vom 19. Juni 1959[^3-4].
 
@@ -76,8 +75,8 @@ als Taxordnung:[^ingress-2]
 - c) Personen mit steuerlichem Wohnsitz im Fürstentum Liechtenstein[^5-2];
 - d) Personen mit steuerlichem Wohnsitz im weiteren Ausland.
 
-[^5-1]: Vgl. Art. [13](https://www.gesetzessammlung.sg.ch/data/811.1/de/art13.) des Steuergesetzes, sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
-[^5-2]: Vgl. Art. [2](https://www.gesetzessammlung.sg.ch/data/322.51/de/art2.) Abs. 2 der Vereinbarung über die Aufnahme von Patienten aus dem Fürstentum Liechtenstein in den st.gallischen Heil- und Pflegeanstalten St.Pirminsberg und Wil, sGS [322.51](https://www.gesetzessammlung.sg.ch/data/322.51/de).
+[^5-1]: Vgl. [Art. 13](https://www.gesetzessammlung.sg.ch/data/811.1/de/art13) des Steuergesetzes, sGS [811.1](https://www.gesetzessammlung.sg.ch/data/811.1/de).
+[^5-2]: Vgl. [Art. 2](https://www.gesetzessammlung.sg.ch/data/322.51/de/art2) Abs. 2 der Vereinbarung über die Aufnahme von Patienten aus dem Fürstentum Liechtenstein in den st.gallischen Heil- und Pflegeanstalten St.Pirminsberg und Wil, sGS [322.51](https://www.gesetzessammlung.sg.ch/data/322.51/de).
 
 #### Art. 6
 
@@ -87,9 +86,9 @@ als Taxordnung:[^ingress-2]
 
 #### Art. 7
 
-**b) Stationäre, tagesklinische und ambulante Patientinnen und Patienten**
+**b) stationäre, tagesklinische und ambulante Patientinnen und Patienten**
 
-<sup>1</sup> Als stationäre Behandlung[^7-1] gelten Aufenthalte in einem Psychiatrieverbund zur Untersuchung, Behandlung und Pflege:
+<sup>1</sup> Als stationäre Behandlung[^7-1] gelten Aufenthalte im Psychiatrieverbund zur Untersuchung, Behandlung und Pflege:
 
 - a) von mindestens 24 Stunden;
 - b) von weniger als 24 Stunden, bei denen während einer Nacht ein Bett belegt wird;
@@ -100,7 +99,7 @@ als Taxordnung:[^ingress-2]
 
 <sup>3</sup> Die übrigen Patientinnen und Patienten gelten als ambulante Patientinnen und Patienten.
 
-[^7-1]: Vgl. Art. [3](https://db.clex.ch/link/Bund/832.104/de)der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung vom 3. Juli 2002, SR [832.104](https://db.clex.ch/link/Bund/832.104/de).
+[^7-1]: Vgl. [Art. 3](https://db.clex.ch/link/Bund/832.104/de) der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung vom 3. Juli 2002, SR [832.104](https://db.clex.ch/link/Bund/832.104/de).
 
 #### Art. 8
 
@@ -130,19 +129,19 @@ als Taxordnung:[^ingress-2]
 
 **Stationäre und tagesklinische Patientinnen und Patienten a) Kostengutsprache**
 
-<sup>1</sup> Die Psychiatrieverbunde melden dem Krankenversicherer umgehend den Eintritt von stationären und tagesklinischen Patientinnen und Patienten auf der Allgemeinen Abteilung. Besteht aus Sicht des Krankenversicherers kein Leistungsanspruch, meldet er dies umgehend dem Psychiatrieverbund.
+<sup>1</sup> Der Psychiatrieverbund meldet dem Krankenversicherer umgehend den Eintritt von stationären und tagesklinischen Patientinnen und Patienten auf der Allgemeinen Abteilung. Besteht aus Sicht des Krankenversicherers kein Leistungsanspruch, meldet er dies umgehend dem Psychiatrieverbund.
 
 <sup>2</sup> Stationäre und tagesklinische Patientinnen und Patienten, für deren Kosten ein anderer Garant aufkommt, bringen beim Eintritt, spätestens aber bis zum fünften Aufenthaltstag, eine Kostengutsprache bei.
 
 <sup>3</sup> Wird die Kostengutsprache nicht rechtzeitig beigebracht oder lehnt der Kostenträger nachträglich eine Übernahme der Kosten ab, wird die Patientin oder der Patient als Selbstzahler betrachtet.
 
-<sup>4</sup> Die Psychiatrieverbunde teilen dem Krankenversicherer vor Ablauf von 40 Tagen Aufenthalt unaufgefordert und begründet mit, ob und wie lange die Spitalbedürftigkeit einer Patientin oder eines Patienten voraussichtlich andauern wird.
+<sup>4</sup> Der Psychiatrieverbund teilt dem Krankenversicherer vor Ablauf von 40 Tagen Aufenthalt unaufgefordert und begründet mit, ob und wie lange die Spitalbedürftigkeit einer Patientin oder eines Patienten voraussichtlich andauern wird.
 
 #### Art. 11
 
 **b) Vorschuss**
 
-<sup>1</sup> Selbstzahlerinnen und Selbstzahler leisten den von den Psychiatrieverbunden festgesetzten Kostenvorschuss, der die voraussichtlichen Kosten deckt.
+<sup>1</sup> Selbstzahlerinnen und Selbstzahler leisten den vom Psychiatrieverbund festgesetzten Kostenvorschuss, der die voraussichtlichen Kosten deckt.
 
 <sup>2</sup> Bei Wahleintritt wird der Kostenvorschuss spätestens am Eintrittstag geleistet.
 
@@ -150,7 +149,7 @@ als Taxordnung:[^ingress-2]
 
 **Ambulante Patientinnen und Patienten**
 
-<sup>1</sup> Ambulante Patientinnen und Patienten bringen auf Verlangen der Psychiatrieverbunde eine Kostengutsprache bei.
+<sup>1</sup> Ambulante Patientinnen und Patienten bringen auf Verlangen des Psychiatrieverbundes eine Kostengutsprache bei.
 
 ## III. Preise
 
@@ -160,9 +159,9 @@ als Taxordnung:[^ingress-2]
 
 **Grundsatz**
 
-<sup>1</sup> Für stationäre Patientinnen und Patienten erheben die Psychiatrieverbunde Tagestaxen und Taxen für besondere Leistungen.
+<sup>1</sup> Für stationäre Patientinnen und Patienten erhebt der Psychiatrieverbund Tagestaxen und Taxen für besondere Leistungen.
 
-<sup>2</sup> Die Taxen werden nach den in den entsprechenden Taxtarifen der Psychiatrieverbunde festgesetzten Ansätzen erhoben.
+<sup>2</sup> Die Taxen werden nach den in den entsprechenden Taxtarifen des Psychiatrieverbundes festgesetzten Ansätzen erhoben.
 
 <sup>3</sup> Für Personen im Straf- oder Massnahmenvollzug ohne Wohnsitz im Kanton St.Gallen werden der einweisenden Behörde diejenigen Kosten in Rechnung gestellt, die nach Art. 41 Abs. 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^13-1] nicht von einem Versicherer übernommen werden.
 
@@ -199,9 +198,9 @@ als Taxordnung:[^ingress-2]
 <sup>1</sup> Der Patientin oder dem Patienten werden insbesondere in Rechnung gestellt:
 
 - a) Leistungen, die nicht der Leistungspflicht nach dem Bundesgesetz über die Krankenversicherung vom 18. März 1994[^17-1] unterliegen;
-- b) Kosten für auf Wunsch der Patientin oder des Patienten bzw. von Angehörigen oder der gesetzlichen Vertretung zugezogenen externen Ärztinnen oder Ärzten;
+- b) Kosten für auf Wunsch der Patientin oder des Patienten bzw. von Angehörigen oder der gesetzlichen Vertretung zugezogene externe Ärztinnen oder Ärzte;
 - c) Anschaffungen, Reparaturen und Reinigung von Kleidern, Wäsche, Schuhen, Toilettengegenständen und dergleichen;
-- d) Aufwendungen der Psychiatrieverbunde bei Urlaub oder Flucht;
+- d) Aufwendungen des Psychiatrieverbundes bei Urlaub oder Flucht;
 - e) Kosten für Begleitungen;
 - f) Kosten für Coiffeur, Telefon und private Porti, Zulagen zur ordentlichen Verpflegung auf persönlichen Wunsch sowie weitere private Aufwendungen oder durch besondere Wünsche der Patientin oder des Patienten bedingte Mehrleistungen;
 - g) Kosten für Einweisungs- und Entlassungstransporte, vorbehältlich medizinisch notwendiger Verlegungstransporte in andere Spitäler und Kliniken;
@@ -211,7 +210,7 @@ als Taxordnung:[^ingress-2]
 - k) besondere Leistungen im Todesfall.
 
 [^17-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^17-2]: Art. [20a](https://db.clex.ch/link/Bund/832.112.31/de) der Verordnung des EDI über Leistungen in der obligatorischen Krankenversicherung, SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de).
+[^17-2]: [Art. 20a](https://db.clex.ch/link/Bund/832.112.31/de) der Verordnung des EDI über Leistungen in der obligatorischen Krankenversicherung, SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de).
 
 ### 2. Tagesklinische Patientinnen und Patienten
 
@@ -219,9 +218,9 @@ als Taxordnung:[^ingress-2]
 
 **Grundsatz**
 
-<sup>1</sup> Für tagesklinische Patientinnen und Patienten erheben die Psychiatrieverbunde Tagestaxen.
+<sup>1</sup> Für tagesklinische Patientinnen und Patienten erhebt der Psychiatrieverbund Tagestaxen.
 
-<sup>2</sup> Die Taxen werden nach den in den entsprechenden Taxtarifen der Psychiatrieverbunde festgesetzten Ansätzen erhoben.
+<sup>2</sup> Die Taxen werden nach den in den entsprechenden Taxtarifen des Psychiatrieverbundes festgesetzten Ansätzen erhoben.
 
 ### 3. Ambulante Patientinnen und Patienten
 
@@ -237,12 +236,12 @@ als Taxordnung:[^ingress-2]
 
 **Publikation**
 
-<sup>1</sup> Dieser Erlass wird in der Gesetzessammlung des Kantons St.Gallen sowie auf den Internetseiten der beiden Psychiatrieverbunde[^20-1] publiziert.[^20-2]
+<sup>1</sup> Dieser Erlass wird in der Gesetzessammlung des Kantons St.Gallen sowie auf der Internetseite des Psychiatrieverbundes[^20-1] publiziert.[^20-2]
 
-<sup>2</sup> Der Taxtarif der Psychiatrieverbunde wird auf den Internetseiten der beiden Psychiatrieverbunde publiziert.[^20-3]
+<sup>2</sup> Die Taxtarife des Psychiatrieverbundes werden auf den Internetseiten des Psychiatrieverbundes[^20-3] publiziert.
 
-[^20-1]: PV Nord: www.psychiatrie-nord.sg.ch; PV Süd: www.psych.ch.
-[^20-2]: Art. [23](https://www.gesetzessammlung.sg.ch/data/320.50/de/art23.) Bst. b des Statuts der Psychiatrieverbunde des Kantons St.Gallen, sGS [320.50](https://www.gesetzessammlung.sg.ch/data/320.50/de).
-[^20-3]: PV Nord: www.psychiatrie-nord.sg.ch; PV Süd: www.psych.ch.
+[^20-1]: www.psychiatrie-sg.ch.
+[^20-2]: [Art. 18](https://www.gesetzessammlung.sg.ch/data/320.50/de/art18) Bst. b des Statuts des Psychiatrieverbundes, sGS [320.50](https://www.gesetzessammlung.sg.ch/data/320.50/de).
+[^20-3]: www.psychiatrie-sg.ch.
 
-nGS 2016-061
+nGS 2023-025
