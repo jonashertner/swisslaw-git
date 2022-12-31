@@ -4,11 +4,11 @@ number: "415.11"
 title: Universitätsgesetz (UniG)
 short: UniG
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-01
 adopted: 1998-03-15
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_11-1998_03_15-1998_10_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_11-1998_03_15-1998_10_01-119.html"
 text: pdf
 ---
 
@@ -73,7 +73,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **1**
 
-- 1\. 4. 20 - 108 § 5 a.<sup>34</sup>
+- 1\. 1. 23 - 119 § 5 a.<sup>34</sup>
 
 **Zusammenarbeit im Gesundheitsbereich**
 
@@ -169,7 +169,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **3**
 
-- 1\. 4. 20 - 108 § 8 a.<sup>32</sup> <sup>1</sup> Die Professorenschaft setzt sich zusammen aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren mit und ohne Anspruch auf Prüfung einer unbefristeten Anstellung (Tenure Track) sowie den Förderungsprofessorinnen und -professoren.
+- 1\. 1. 23 - 119 § 8 a.<sup>32</sup> <sup>1</sup> Die Professorenschaft setzt sich zusammen aus den ordentlichen und ausserordentlichen Professorinnen und Professoren, den Assistenzprofessorinnen und -professoren mit und ohne Anspruch auf Prüfung einer unbefristeten Anstellung (Tenure Track) sowie den Förderungsprofessorinnen und -professoren.
 
 **Professorenschaft**
 
@@ -235,7 +235,7 @@ Die Universität trifft Vorkehrungen zur Sicherung der Qualität von Forschung, 
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 [^12-1]: Aufgehoben durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
 [^12-2]: Eingefügt durch G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
@@ -268,7 +268,7 @@ und -professoren<sup>32</sup>
 
 - c. Entschädigung für Lehrveranstaltungen ausserhalb von Studienprogrammen.
 
-[^hBPrivatdozentinnen-1]: LS 415.24. 1. 4. 20 - 108 19
+[^hBPrivatdozentinnen-1]: LS 415.24. 1. 1. 23 - 119 19
 
 ### C. Externe Lehrpersonen<sup>32</sup>
 
@@ -320,7 +320,7 @@ und -professoren<sup>32</sup>
 
 **7**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Studiengänge sind so auszugestalten, dass die Studierenden ihr Studium grundsätzlich in der Normalstudiendauer abschliessen können.
 
@@ -405,7 +405,7 @@ und -professoren<sup>32</sup>
 
 **9**
 
-- 1\. 4. 20 - 108 § 24.<sup>33</sup> <sup>1</sup> Die Fakultäten und Institute sind verantwortlich für Forschung, Lehre und Dienstleistungen.
+- 1\. 1. 23 - 119 § 24.<sup>33</sup> <sup>1</sup> Die Fakultäten und Institute sind verantwortlich für Forschung, Lehre und Dienstleistungen.
 
 **Aufgaben der Fakultäten und Institute**
 
@@ -425,7 +425,7 @@ und -professoren<sup>32</sup>
 
 - 1\. Beschluss über das Globalbudget sowie Bewilligung der weiteren Staatsleistungen, 2.[^25-1] Genehmigung des Rechenschaftsberichts,
 
-- 3\. Genehmigung der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate.
+- 3\. Genehmigung der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate, 4.<sup>36</sup> Genehmigung der Wahl der Präsidentin oder des Präsidenten und der einzelnen Mitglieder des Universitätsrates.
 
 [^25-1]: Fassung gemäss G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
 
@@ -439,21 +439,18 @@ und -professoren<sup>32</sup>
 
 - 1\. Verabschiedung des Globalbudgets sowie Antragstellung zu den weiteren Staatsleistungen, 2.[^26-1] Verabschiedung des Rechenschaftsberichts,
 
-- 3\. Abschluss der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate.
+- 3\. Abschluss der Vereinbarungen über Hochschulbeiträge und weiterer Konkordate, 4.<sup>36</sup> Wahl der Präsidentin oder des Präsidenten und der weiteren Mitglieder des Universitätsrates sowie Festlegung der Entschädigung.
 
-<sup>3</sup> Er ist in eigener Kompetenz zuständig für:[^26-2] 1. Erlass der Verordnung über die Zusammenarbeit im Gesundheitsbereich,
+<sup>3</sup> Er ist in eigener Kompetenz zuständig für:<sup>37</sup> 1. Erlass der Verordnung über die Zusammenarbeit im Gesundheitsbereich,
 
 - 2\. Genehmigung der Personalverordnung und des Finanzreglements,
 
-- 3\. Wahl des Universitätsrates,
+- 3\. Anordnung von Zulassungsbeschränkungen.
 
-- 4\. Anordnung von Zulassungsbeschränkungen.
-
-§ 27.[^26-3]
+§ 27.[^26-2]
 
 [^26-1]: Fassung gemäss G vom 24. März 2003 (OS 58, 161; ABl 2002, 1100). In Kraft seit 1. September 2003 (OS 58, 192).
-[^26-2]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
-[^26-3]: Aufgehoben durch Bildungsgesetz vom 1. Juli 2002 (OS 58, 3; ABl 2001, 885). In Kraft seit 1. Juli 2003 (OS 58, 153).
+[^26-2]: Aufgehoben durch Bildungsgesetz vom 1. Juli 2002 (OS 58, 3; ABl 2001, 885). In Kraft seit 1. Juli 2003 (OS 58, 153).
 
 ### 5. Teil: Die Organe der Universität
 
@@ -501,7 +498,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **11**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 <sup>5</sup> Er ist in eigener Kompetenz zuständig für:[^28-2], <sup>33</sup> 1. Erlass der Universitätsordnung und weiterer Verordnungen im gesamtuniversitären Bereich, insbesondere der Rahmenverordnungen über die Habilitation[^28-3] und die Weiterbildung sowie der Rahmeninstitutsverordnung,
 
@@ -587,7 +584,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **13**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 <sup>4</sup> Sie hat insbesondere folgende Aufgaben:<sup>33</sup> 1. Verabschiedung des Leitbilds der Universität unter Vorbehalt der Genehmigung durch den Universitätsrat,
 
@@ -671,7 +668,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **15**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 ### 6. Teil: Planung und Finanzen
 
@@ -755,7 +752,7 @@ Persönlichkeiten aus Wissenschaft, Kultur, Wirtschaft und Politik.
 
 **17**
 
-- 1\. 4. 20 - 108 § 43. <sup>1</sup> Die Universitätsleitung setzt angemessene Gebühren für die Benutzung von Einrichtungen und Räumlichkeiten der Universität fest.
+- 1\. 1. 23 - 119 § 43. <sup>1</sup> Die Universitätsleitung setzt angemessene Gebühren für die Benutzung von Einrichtungen und Räumlichkeiten der Universität fest.
 
 **Benutzungsgebühren**
 
@@ -863,9 +860,13 @@ Bis zum Inkrafttreten des Gesetzes über Controlling und Rechnungslegung vom 9. 
 
 <sup>35</sup> Nummerierung gemäss G vom 2. September 2019 (OS 75, 122; ABl 2018-06- 15). In Kraft seit 1. April 2020.
 
+<sup>36</sup> Eingefügt durch G vom 13. Juni 2022 (OS 77, 547; ABl 2021-09-24). In Kraft seit 1. Januar 2023.
+
+<sup>37</sup> Fassung gemäss G vom 13. Juni 2022 (OS 77, 547; ABl 2021-09-24). In Kraft seit 1. Januar 2023.
+
 **21**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
