@@ -1,107 +1,177 @@
 ---
 canton: GR
 number: "877.120"
-title: Ordinaziun per incassar taxas e custs per la navigaziun en il chantun Grischun
+title: Ordinaziun davart las taxas per la navigaziun interna
 short: OTNI
 language: rm
-version: 2003-04-01
-corrected: 2015-03-24
-version_adopted: 2003-02-25
+version: 2023-01-01
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/877.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2213/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3277/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun per incassar taxas e custs per la navigaziun en il chantun Grischun
+# Ordinaziun davart las taxas per la navigaziun interna
 
-dals 20-08-1984 (versiun dals 01-04-2003)
+(OTNI)
 
-sa basond sin l'art. 20 da la lescha introductiva tar la lescha federala davart la navigaziun interna (LI tar LNI)[^ingress-1]
+dals 22-11-2022 (versiun dals 01-01-2023)
 
-relaschada da la regenza ils 20 d'avust 1984
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1] e sin l'art. 20 da la Lescha introductiva tar la Lescha federala davart la navigaziun interna[^ingress-2]
 
-[^ingress-1]: CS 742.201
+relaschada da la Regenza ils 22 da november 2022
+
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-2]: DG [877.100](https://www.gr-lex.gr.ch/data/877.100/rm)
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**Permiss**
+**Object**
 
-<sup>1</sup> Per permiss u midaments da quels vegnan incassadas per manischunza u per manischunz ubain per bartga las suandantas taxas, sch'i na vegn betg fixà insatge auter qua sutvart.
-
-- a) permiss nov u duplicat: 60.–
-- b) remplazzament da permiss illegibels, midada en in auter chantun, midaments d'insaquala maniera e.u.v.: 20.–
-- c) permiss da manischar internaziunal: 60.–
-- d) permissiuns per bartgas cun staziun a l'exteriur: 30.–
+<sup>1</sup> Questa ordinaziun regla las taxas per ils acts uffizials e per las prestaziuns da l'Uffizi per il traffic sin via en il sectur da l'admissiun da persunas e da bartgas per la navigaziun interna.
 
 #### Art. 2
 
-**Examinaziun da la manischunza u dal manischunz**
+**Calculaziun da las taxas**
 
-<sup>1</sup> Per examinar la manischunza u il manischunz vegnan incassadas las suandantas taxas:
+<sup>1</sup> Las taxas vegnan incassadas pauschalmain, tenor il temp impundì u a norma da l'infrastructura messa a disposiziun sco er dal material mess a disposiziun.
 
-- a) examen da teoria: 35.–
-- b) examen da manischar categorias A, B e D: 140.–
+<sup>2</sup> Sche las taxas vegnan calculadas tenor il temp impundì, importa la tariffa per ura 140 francs. Per mintga quart d'ura cumenzà vegnan mess a quint 35 francs a la persuna ch'è obligada da pajar la taxa.
 
-<sup>2</sup> Tar absenzas da l'examen da teoria u da manischar nunmotivadas e stgisadas memia tard vegn messa a quint la taxa cumplaina.
+<sup>3</sup> Per acts uffizials urgents u per prestaziuns urgentas vegn incassà in supplement. Quest supplement importa almain 20 francs, maximalmain la taxa per l'act uffizial correspundent u per la prestaziun correspundenta.
 
-<sup>3</sup> Controllas medicalas, psicologicas, psicotecnicas ed er autras van a cust da la candidata u dal candidat ubain da la possessura u dal possessur dal permiss.
+<sup>4</sup> Ils custs per controllas medicalas e psicologicas sco er per controllas d'auter gener vegnan surpigliads da la persuna petenta. Els ston vegnir pajads supplementarmain a las taxas fixadas.
 
 #### Art. 3
 
-**Examinaziun da bartgas**
+**Taxas senza posiziun da taxas**
 
-<sup>1</sup> Per examinar las bartgas vegnan incassadas las suandants taxas:
+<sup>1</sup> Sche questa ordinaziun na prevesa nagina taxa per la giurisdicziun gratuita e per l'indemnisaziun da la partida en proceduras administrativas, sa drizza la taxa tenor l'Ordinaziun davart ils custs en proceduras administrativas[^3-1].
 
-<table>
-<tr><th></th><th>senza examinaziun dal tip</th><th>cun examinaziun dal tip</th><th>examen supplementar</th></tr>
-<tr><td>bartgas cun rembels</td><td>140.–</td><td>70.–</td><td>40.–</td></tr>
-<tr><td>bartgas a tenda</td><td>280.–</td><td>140.–</td><td>70.–</td></tr>
-<tr><td>bartgas a motor enfin 6 KW</td><td>210.–</td><td>140.–</td><td>70.–</td></tr>
-<tr><td>bartgas a motor sur 6 KW</td><td>320.–</td><td>210.–</td><td>140.–</td></tr>
-</table>
+<sup>2</sup> Sche questa ordinaziun na prevesa nagina taxa per auters acts uffizials u per autras prestaziuns, vegn la taxa calculada tenor ils custs chaschunads sco er tenor l'impurtanza da la prestaziun e tenor l'interess vi da sia realisaziun.
 
-<sup>2</sup> Temp extraordinari vegn mess a quint cun in supplement da 70 francs per mintga mes'ura cumenzada.
+<sup>3</sup> Ils princips da calculaziun tenor l'alinea 2 ston er vegnir observads, sche questa ordinaziun prevesa in rom da taxas.
 
-<sup>3</sup> Tar mancanzas d'ina examinaziun da bartgas nunmotivadas u stgisadas memia tard vegn messa a quint la taxa cumplaina.
+[^3-1]: DG [370.120](https://www.gr-lex.gr.ch/data/370.120/rm)
 
 #### Art. 4
 
-**Funcziuns uffizialas e permissiuns spezialas**
+**Renunzia a l'incassament da taxas**
 
-<sup>1</sup> Per funcziuns uffizialas e permissiuns spezialas vegnan incassadas las suandantas taxas:
+<sup>1</sup> Per las bartgas dal chantun na vegnan incassadas naginas taxas.
 
-- a) incassament da la polizia da numers d'immatriculaziun: 200.–
-- b) certificats da tutta spezia: 10.– fin 100.–
-- c) metter puspè en circulaziun, incl. taxa da deposit: 40.–
-- d) taxa da transcripziun per rembursaments betg retratgs: 5.–
-- e) inspecziun da la scola da manischar: 330.–
-- f) custs supplementars per engaschaments da lavur ordaifer ils lieus d'examinaziun usitads vegnan mess a quint tenor ils princips da la regenza per la scuntrada dals custs da producziun;
-- g) permissiuns spezialas per occurrenzas nauticas: 120.–
-- h) permissiuns spezialas per viadis sin auas currentas organisads en moda professiunala: 120.–
-- i) permissiun per far l'examen da manischar en in auter chantun: 30.–
-- k) permissiun per scolas da surf e da tenda: 120.–
-- l) per ulteriuras funcziuns uffizialas spezialas, sco p.ex. inspecziuns ocularas, temp impundì per expertisas e.u.v. vegnan mess a quint 70 francs per mintga mes'ura cumenzada;
-- m) supplement d'urgenza per funcziuns uffizialas ordaifer ils termins d'elavuraziun usitads u las cunvegnas da termins usitadas.: 20.– fin a la taxa fundamentala cumplaina;
-- n) …
+<sup>2</sup> En il cas singul po ina taxa vegnir relaschada cumplainamain u parzialmain, sch'il pajament è ina direzza incommensurada per la debitura u il debitur u sch'ina dumonda vegn refusada.
 
 #### Art. 5
 
-**Marcas e schablonas**
+**Cumpetenza**
 
-<sup>1</sup> Per marcas u schablonas vegnan incassadas las suandantas taxas:
+<sup>1</sup> L'Uffizi per il traffic sin via fixescha las taxas per ils acts uffizials e per las prestaziuns en il sectur da l'admissiun da persunas e da bartgas per la navigaziun interna.
 
-- a) marcas (mintga pèr): 50.–
-- b) numer singul: 25.–
+<sup>2</sup> El decida, sch'ina taxa duai vegnir relaschada cumplainamain u parzialmain.
+
+## 2. Taxas d'admissiun
 
 #### Art. 6
 
-**Entrada en vigur**
+**Permiss da manischar**
 
-<sup>1</sup> Quest'ordinaziun entra en vigur il 1. da schaner 1985. Per quest termin vegn abolida l'ordinaziun per incassar taxas e custs per la navigaziun en il chantun Grischun dals 29 da november 1980[^6-1].
+<sup>1</sup> La taxa per emetter in nov permiss da manischar u in duplicat importa 40 francs.
 
-[^6-1]: CUL 1980, 737
+<sup>2</sup> La taxa per midar il permiss da manischar importa 20 francs. Per midadas d'adressa na vegnan incassadas naginas taxas.
 
--
+#### Art. 7
+
+**Document da la bartga**
+
+<sup>1</sup> La taxa per midar il document da la bartga importa 20 francs. Per midadas d'adressa na vegnan incassadas naginas taxas.
+
+<sup>2</sup> La taxa per emetter in nov document da la bartga u in duplicat importa 40 francs.
+
+<sup>3</sup> Per la retratga dal document da la bartga sto vegnir pajada ina taxa da 200 francs.
+
+#### Art. 8
+
+**Taxas per ils numers**
+
+<sup>1</sup> Las taxas per emetter numers d'immatriculaziun importan:
+
+- a) per mintga pèr: — fr. 40.–
+- b) per in singul numer: — fr. 20.–
+
+## 3. Taxas d'examen
+
+#### Art. 9
+
+**Examen da manischar**
+
+<sup>1</sup> La taxa per l'examen da teoria importa 35 francs.
+
+<sup>2</sup> La taxa per l'examen da manischar pratic per las categorias A, B e D importa 140 francs.
+
+<sup>3</sup> Per elavurar la dumonda da pudair far l'examen da manischar en in auter chantun sto vegnir pajada ina taxa da 30 francs.
+
+#### Art. 10
+
+**Examen da las bartgas**
+
+<sup>1</sup> Las taxas per examinar bartgas da remblar importan:
+
+- a) per controllas posteriuras: — fr. 35.–
+- b) per admissiuns omologadas: — fr. 70.–
+- c) per admissiuns betg omologadas: — fr. 140.–
+
+<sup>2</sup> Las taxas per examinar bartgas a vela importan:
+
+- a) per controllas posteriuras: — fr. 70.–
+- b) per admissiuns omologadas: — fr. 140.–
+- c) per admissiuns betg omologadas: — fr. 280.–
+
+<sup>3</sup> Las taxas per examinar bartgas a motor fin 6 kilowatts importan:
+
+- a) per controllas posteriuras: — fr. 70.–
+- b) per admissiuns omologadas: — fr. 140.–
+- c) per admissiuns betg omologadas: — fr. 280.–
+
+<sup>4</sup> Las taxas per examinar bartgas a motor da passa 6 kilowatts importan:
+
+- a) per controllas posteriuras: — fr. 140.–
+- b) per admissiuns omologadas: — fr. 210.–
+- c) per admissiuns betg omologadas: — fr. 320.–
+
+<sup>5</sup> Per lavurs d'examen extraordinarias vegn incassà in supplement tenor il temp impundì.
+
+#### Art. 11
+
+**Examen betg absolvì**
+
+<sup>1</sup> Tgi che na vegn betg ad in examen u tgi che sa perstgisa memia tard per in examen, e quai senza buns motivs u per atgna culpa, sto pajar la taxa d'examen cumplaina.
+
+<sup>2</sup> Ina perstgisa vala sco retardada, sch'ella n'è betg arrivada il pli tard 5 dis da lavur avant il termin d'examen tar l'Uffizi per il traffic sin via.
+
+## 4. Ulteriuras taxas
+
+#### Art. 12
+
+**Taxas per permissiuns**
+
+<sup>1</sup> Per elavurar la dumonda da pudair manar ina scola da navigar a vela u ina scola da windsurfing sto vegnir pajada ina taxa da 140 francs.
+
+<sup>2</sup> Per elavurar ina dumonda da pudair realisar in'occurrenza nautica sto vegnir pajada ina taxa da 140 francs.
+
+<sup>3</sup> Per elavurar ina dumonda da pudair far viadis a titel professiunal sin auas currentas sto vegnir pajada ina taxa da 140 francs.
+
+#### Art. 13
+
+**Ulteriuras taxas**
+
+<sup>1</sup> Per attestaziuns sto vegnir pajada ina taxa da 10 fin 100 francs, nun ch'igl existia ina regulaziun da taxas speziala.
+
+<sup>2</sup> Per l'inspecziun da scolas da navigaziun, da scolas da navigar a vela e da scolas da windsurfing sto vegnir pajada ina taxa da 330 francs.
+
+2022-037

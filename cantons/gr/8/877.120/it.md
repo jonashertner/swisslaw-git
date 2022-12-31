@@ -1,108 +1,177 @@
 ---
 canton: GR
 number: "877.120"
-title: Ordinanza sulla riscossione di tasse e spese per la navigazione nel Cantone dei Grigioni
+title: Ordinanza concernente le tasse per la navigazione interna
 short: OTNI
 language: it
-version: 2003-04-01
-corrected: 2015-03-24
-version_adopted: 2003-02-25
+version: 2023-01-01
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/877.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2213/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3277/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sulla riscossione di tasse e spese per la navigazione nel Cantone dei Grigioni
+# Ordinanza concernente le tasse per la navigazione interna
 
-del 20.08.1984 (stato 01.04.2003)
+(OTNI)
 
-emanata dal Governo il 20 agosto 1984
+del 22.11.2022 (stato 01.01.2023)
 
-in base all'art. 20 della legge d'introduzione alla legge federale sulla navigazione interna (LI alla LNI)[^ingress-1]
+emanata dal Governo il 22 novembre 2022
 
-[^ingress-1]: RS [747.201](https://db.clex.ch/link/Bund/747.201/it)
+visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 20 della legge d'introduzione alla legge federale sulla navigazione interna[^ingress-2]
+
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-2]: CSC [877.100](https://www.gr-lex.gr.ch/data/877.100/it)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Patenti / licenze di navigazione**
+**Oggetto**
 
-<sup>1</sup> Per le licenze/patenti o la loro modifica, per quanto di seguito non sia disposto diversamente, vengono riscosse le seguenti tasse per conducente o natante:
-
-- a) nuova licenza/patente o duplicato: 60.–
-- b) sostituzione di licenze/patenti illeggibili, cambio di Cantone, modifiche di qualsiasi tipo, ecc.: 20.–
-- c) patente di guida internazionale: 60.–
-- d) permesso per natanti con stazionamento all'estero: 30.–
+<sup>1</sup> La presente ordinanza disciplina le tasse per atti d'ufficio e servizi dell'Ufficio della circolazione nel settore dell'ammissione alla circolazione di persone e natanti per la navigazione interna.
 
 #### Art. 2
 
-**Esami di guida**
+**Calcolo delle tasse**
 
-<sup>1</sup> Per gli esami di guida vengono riscosse le seguenti tasse:
+<sup>1</sup> Le tasse vengono riscosse forfetariamente, in funzione del tempo impiegato oppure a seconda delle infrastrutture nonché del materiale messi a disposizione.
 
-- a) esami di teoria: 35.–
-- b) esami di guida categorie A, B e D: 140.–
+<sup>2</sup> Se le tasse vengono calcolate in funzione del tempo impiegato, la tariffa oraria ammonta a 140 franchi. Per ogni quarto d'ora iniziato alla persona assoggettata vengono addebitati 35 franchi.
 
-<sup>2</sup> A chi non si presenta all'esame di teoria o di guida senza motivo o scu-sandosi in ritardo, viene conteggiata l'intera tassa.
+<sup>3</sup> Per atti d'ufficio o servizi urgenti viene riscosso un supplemento. Questo ammonta ad almeno 20 franchi, al massimo alla tassa per l'atto d'ufficio o il servizio corrispondente.
 
-<sup>3</sup> Le visite mediche nonché gli esami psicologici, psicotecnici e simili sono a carico di chi chiede il rilascio di una licenza/patente risp. del titolare.
+<sup>4</sup> Le spese per esami medici, psicologici e di altro tipo sono a carico del richiedente. Esse sono dovute in aggiunta alle tasse stabilite.
 
 #### Art. 3
 
-**Esame dei battelli**
+**Tasse senza voce di tassa**
 
-<sup>1</sup> Per l'esame dei battelli vengono riscosse le seguenti tasse:
+<sup>1</sup> Se la presente ordinanza non prevede alcuna tassa per le spese, per il gratuito patrocinio e per le spese ripetibili nella procedura amministrativa la tassa si conforma all'ordinanza sulle spese nelle procedure amministrative[^3-1].
 
-<table>
-<tr><th></th><th>di tipo non ancora omologato</th><th>di tipo già omologato</th><th>esame successivo</th></tr>
-<tr><td>barche a remi</td><td>140.–</td><td>70.–</td><td>40.–</td></tr>
-<tr><td>barche a vela</td><td>280.–</td><td>140.–</td><td>70.–</td></tr>
-<tr><td>battelli a motore fino a 6 kW</td><td>210.–</td><td>140.–</td><td>70.–</td></tr>
-<tr><td>battelli a motore oltre 6 kW</td><td>320.–</td><td>210.–</td><td>140.–</td></tr>
-</table>
+<sup>2</sup> Se la presente ordinanza non prevede alcuna tassa per altri atti d'ufficio o servizi, la tassa viene calcolata in base alle spese generate nonché all'importanza della prestazione e all'interesse alla sua esecuzione.
 
-<sup>2</sup> Se l'esame richiede un tempo straordinario, viene conteggiato un supplemento di 70 franchi per ogni 1/2 ora iniziata.
+<sup>3</sup> Occorre tenere conto dei principi di calcolo conformemente al capoverso 2 anche quando la presente ordinanza prevede un quadro tariffario.
 
-<sup>3</sup> A chi non si presenta ad un esame di battello senza motivo o scusandosi in ritardo, viene conteggiata l'intera tassa d'esame.
+[^3-1]: CSC [370.120](https://www.gr-lex.gr.ch/data/370.120/it)
 
 #### Art. 4
 
-**Speciali atti d'ufficio e permessi**
+**Rinuncia alla riscossione di tasse**
 
-<sup>1</sup> Per speciali atti d'ufficio e permessi vengono riscosse le seguenti tasse:
+<sup>1</sup> Per i natanti del Cantone non vengono riscosse tasse.
 
-- a) sequestro da parte della polizia di targhe di controllo: 200.–
-- b) attestati di ogni tipo: da 10.– a 100.–
-- c) nuova rimessa in circolazione incl. le tasse di deposito: 40.–
-- d) tassa di registrazione di storno per spedizioni contro rimborso non riscosse: 5.–
-- e) ispezione della scuola guida: 330.–
-- f) spese supplementari per lavoro straordinario al di fuori delle usuali sedi d'esame vengono conteggiate secondo i principi del Governo per la fatturazione dei costi complessivi
-- g) permessi speciali per manifestazioni nautiche: 120.–
-- h) permessi speciali per gite professionalmente organizzate su corsi d'acqua: 120.–
-- i) permesso di sostenere l'esame di guida in un altro Cantone: 30.–
-- k) permesso per scuole di surf e di vela: 120.–
-- l) per altri atti d'ufficio speciali, quali per es. sopralluoghi, tempo impiegato per perizie ecc. viene conteggiato un supplemento di 70 franchi per ogni 1/2 ora iniziata.
-- m) supplemento d’urgenza per atti d’ufficio al di fuori degli usuali termini di evasione o delle scadenze concordate: da 30.– fino all’intera tassa di base
-- n) …
+<sup>2</sup> Nel singolo caso, una tassa può essere condonata del tutto o in parte se per il debitore il pagamento rappresenta un rigore sproporzionato o se una domanda viene respinta.
 
 #### Art. 5
 
-**Contrassegni, caratteri e numeri**
+**Competenza**
 
-<sup>1</sup> Per il rilascio di contrassegni nonché di caratteri e numeri vengono riscosse le seguenti tasse:
+<sup>1</sup> L'Ufficio della circolazione stabilisce le tasse per atti d'ufficio e servizi nel settore dell'ammissione di persone e natanti alla navigazione interna.
 
-- a) per contrassegni (al paio): 50.–
-- b) per una singola targa: 25.–
+<sup>2</sup> Esso decide in merito al condono integrale o parziale di una tassa.
+
+## 2. Tasse di ammissione
 
 #### Art. 6
 
-**Entrata in vigore**
+**Licenza di condurre**
 
-<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 1985[^6-1]. A tal data viene abrogata l'ordinanza del 29 novembre 1980 sulla riscossione di tasse e spese per la navigazione nel Cantone dei Grigioni[^6-2].
+<sup>1</sup> La tassa per il rilascio di una nuova licenza di condurre o di un duplicato ammonta a 40 franchi.
 
-[^6-1]: La revisione parziale del 2 ott. 1989 è entrata in vigore il 1o gen. 1990; quella del 9 nov. 1993 il 1o gen. 1994 e quella del 25 feb. 2003 il 1° apr. 2003
-[^6-2]: AGS 1980, 737
+<sup>2</sup> La tassa per la modifica della licenza di condurre ammonta a 20 franchi. Per i cambiamenti di indirizzo non vengono riscosse tasse.
 
--
+#### Art. 7
+
+**Licenza di navigazione**
+
+<sup>1</sup> La tassa per la modifica della licenza di navigazione ammonta a 20 franchi. Per i cambiamenti di indirizzo non vengono riscosse tasse.
+
+<sup>2</sup> La tassa per il rilascio di una nuova licenza di navigazione o di un duplicato ammonta a 40 franchi.
+
+<sup>3</sup> Per la revoca di licenze di navigazione è dovuta una tassa di 200 franchi.
+
+#### Art. 8
+
+**Tasse per le targhe**
+
+<sup>1</sup> Le tasse per il rilascio di targhe ammontano a:
+
+- a) per coppia di targhe: — fr. 40.–
+- b) per targa singola: — fr. 20.–
+
+## 3. Tasse d'esame
+
+#### Art. 9
+
+**Esame di conducente**
+
+<sup>1</sup> La tassa per l'esame teorico ammonta a 35 franchi.
+
+<sup>2</sup> La tassa per l'esame di conducente pratico per le categorie A, B e D ammonta a 140 franchi.
+
+<sup>3</sup> Per l'elaborazione della domanda di sostenere l'esame di conducente in un altro Cantone è dovuta una tassa di 30 franchi.
+
+#### Art. 10
+
+**Esame del natante**
+
+<sup>1</sup> Le tasse per il collaudo di battelli a remi ammontano a:
+
+- a) per esami successivi: — fr. 35.–
+- b) per ammissioni di natanti con omologazione del tipo: — fr. 70.–
+- c) per ammissioni di natanti senza omologazione del tipo: — fr. 140.–
+
+<sup>2</sup> Le tasse per il collaudo di battelli a vela ammontano a:
+
+- a) per esami successivi: — fr. 70.–
+- b) per ammissioni di natanti con omologazione del tipo: — fr. 140.–
+- c) per ammissioni di natanti senza omologazione del tipo: — fr. 280.–
+
+<sup>3</sup> Le tasse per il collaudo di battelli a motore fino a 6 kilowatt ammontano a:
+
+- a) per esami successivi: — fr. 70.–
+- b) per ammissioni di natanti con omologazione del tipo: — fr. 140.–
+- c) per ammissioni di natanti senza omologazione del tipo: — fr. 280.–
+
+<sup>4</sup> Le tasse per il collaudo di battelli a motore oltre 6 kilowatt ammontano a:
+
+- a) per esami successivi: — fr. 140.–
+- b) per ammissioni di natanti con omologazione del tipo: — fr. 210.–
+- c) per ammissioni di natanti senza omologazione del tipo: — fr. 320.–
+
+<sup>5</sup> Per un onere legato all'esame straordinario viene riscosso un supplemento in funzione del tempo impiegato.
+
+#### Art. 11
+
+**Assenza da un esame**
+
+<sup>1</sup> Chi non si presenta a un esame senza un valido motivo, disdice in ritardo la propria iscrizione senza un valido motivo oppure chi non sostiene l'esame per un altro motivo ad egli imputabile è tenuto a versare l'intera tassa di esame.
+
+<sup>2</sup> Una disdetta è considerata tardiva se non perviene all'Ufficio della circolazione almeno cinque giorni lavorativi prima della data dell'esame.
+
+## 4. Altre tasse
+
+#### Art. 12
+
+**Tasse per permessi**
+
+<sup>1</sup> Per l'elaborazione della domanda di gestire una scuola di vela e di windsurf è dovuta una tassa di 140 franchi.
+
+<sup>2</sup> Per l'elaborazione di una domanda per lo svolgimento di una manifestazione nautica è dovuta una tassa di 140 franchi.
+
+<sup>3</sup> Per l'elaborazione di una domanda di permesso per la navigazione a titolo professionale su corsi d'acqua è dovuta una tassa di 140 franchi.
+
+#### Art. 13
+
+**Altre tasse**
+
+<sup>1</sup> Per le attestazioni è dovuta una tassa da 10 a 100 franchi, in assenza di una specifica regolamentazione relativa alle tasse.
+
+<sup>2</sup> Per l'ispezione di scuole di navigazione, di vela e di windsurf è dovuta una tassa di 330 franchi.
+
+2022-037
