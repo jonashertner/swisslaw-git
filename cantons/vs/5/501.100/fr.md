@@ -4,21 +4,21 @@ number: "501.100"
 title: Ordonnance sur la protection de la population et la gestion des situations particulières et extraordinaires
 short: OPPEx
 language: fr
-version: 2015-05-22
-corrected: 2017-09-08
-version_adopted: 2015-05-13
+version: 2023-01-01
+version_adopted: 2022-12-21
 adopted: 2013-12-18
 in_force: 2014-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/501.100"
-pdf: "https://lex.vs.ch/api/fr/versions/408/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3140/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur la protection de la population et la gestion des situations particulières et extraordinaires (OPPEx)
+# Ordonnance sur la protection de la population et la gestion des situations particulières et extraordinaires
 
-du 18 décembre 2013
+(OPPEx)
+
+du 18.12.2013 (état 01.01.2023)
 
 Le Conseil d'Etat du Canton du Valais
 
@@ -32,25 +32,25 @@ sur la proposition du Département de la formation et de la sécurité,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **But**
 
-La présente ordonnance a pour but de préciser et compléter les dispositions de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires (ci-après: la loi).
+<sup>1</sup> La présente ordonnance a pour but de préciser et compléter les dispositions de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires (ci-après: la loi).
 
 #### Art. 2
 
 **Glossaire**
 
-Le glossaire, figurant en annexe, définit les notions propres au domaine de la protection de la population et de la gestion des situations particulières et extraordinaires.
+<sup>1</sup> Le glossaire, figurant en annexe 1, définit les notions propres au domaine de la protection de la population et de la gestion des situations particulières et extraordinaires.
 
 #### Art. 3
 
 **Principes d'intervention**
 
-La préparation et la mise en oeuvre des mesures à prendre en situations particulières et extraordinaires s'effectuent selon les principes de subsidiarité, de solidarité et de proportionnalité.
+<sup>1</sup> La préparation et la mise en oeuvre des mesures à prendre en situations particulières et extraordinaires s'effectuent selon les principes de subsidiarité, de solidarité et de proportionnalité.
 
 #### Art. 4
 
@@ -62,7 +62,7 @@ La préparation et la mise en oeuvre des mesures à prendre en situations partic
 
 <sup>3</sup> Elles collaborent à la préparation et la mise en oeuvre de ces activités.
 
-### Chapitre 2: Autorités compétentes
+## 2 Autorités compétentes
 
 #### Art. 5
 
@@ -88,16 +88,15 @@ La préparation et la mise en oeuvre des mesures à prendre en situations partic
 
 <sup>2</sup> Il exerce ses attributions par l'intermédiaire du service de l'industrie, du commerce et du travail.
 
-### Chapitre 3: Mesures préventives contraignantes
+## 3 Mesures préventives contraignantes
 
 #### Art. 8
 
 **Autorités compétentes**
 
-Sont habilités à ordonner des mesures préventives contraignantes:
+<sup>1</sup> Sont habilités à ordonner des mesures préventives contraignantes:
 
 - a) l'OCC;
-
 - b) les conseils municipaux, sous réserve d'une délégation expresse de ces derniers à leur organe de conduite.
 
 #### Art. 9
@@ -106,13 +105,13 @@ Sont habilités à ordonner des mesures préventives contraignantes:
 
 <sup>1</sup> L'autorité compétente notifie la décision aux intéressés lors de l'exécution de la mesure préventive contraignante.
 
-<sup>2</sup> En situation d'urgence, si la décision n'est pas en possession de l'organe d'exécution, il est donné connaissance aux intéressés du motif et de l'objet de la mesure préventive contraignante. Celle-ci, comme par exemple un ordre d'évacuation, peut être diffusée au moyen des canaux d'information usuels (procédure «Information Catastrophe Alarme Radio Organisation», ci-après: ICARO).
+<sup>2</sup> En situation d'urgence, si la décision n'est pas en possession de l'organe d'exécution, il est donné connaissance aux intéressés du motif et de l'objet de la mesure préventive contraignante. Celle-ci, comme par exemple un ordre d'évacuation, peut être diffusée au moyen des canaux d'information usuels (procédure "Information Catastrophe Alarme Radio Organisation", ci-après: ICARO).
 
-<sup>3</sup> L'ordonnance de la loi sur la police cantonale du 1er octobre 1986 est applicable pour le surplus aux interventions de la police cantonale.
+<sup>3</sup> L'ordonnance de la loi sur la police cantonale est applicable pour le surplus aux interventions de la police cantonale.
 
-### Chapitre 4: Organe cantonal de conduite (OCC)
+## 4 Organe cantonal de conduite (OCC)
 
-### Section 1: Organisation
+### 4.1 Organisation
 
 #### Art. 10
 
@@ -129,19 +128,12 @@ Sont habilités à ordonner des mesures préventives contraignantes:
 <sup>5</sup> L'OCC est composé des domaines de base suivants, comprenant des cellules spécialisées:
 
 - a) adjudance (organe administratif permanent);
-
 - b) affaires juridiques, financières et gestion du personnel;
-
 - c) conduite de l'information et de la communication;
-
 - d) conduite du renseignement;
-
 - e) conduite des opérations (cellules: police, sauvetage assistance, santé publique);
-
 - f) conduite de la logistique (cellules: logistique et approvisionnement économique, services techniques);
-
 - g) coordination territoriale;
-
 - h) aide au commandement (cellules: transmissions, nucléaire biologique et chimique, scientifique de crise pour les dangers naturels (ci-après: CERISE));
 
 <sup>6</sup> Le chef de l'OCC peut adapter l'organisation de son état-major en fonction de la situation.
@@ -154,26 +146,20 @@ Sont habilités à ordonner des mesures préventives contraignantes:
 
 <sup>2</sup> Le chef du département dont dépend la sécurité (ci-après: le chef de département) approuve les dispositions organisationnelles et techniques prises par l'OCC pour veiller à être atteignable en tout temps.
 
-### Section 2: Tâches
+### 4.2 Tâches
 
 #### Art. 12
 
 **Préparation et conduite**
 
-L'OCC:
+<sup>1</sup> L'OCC:
 
 - a) établit les planifications d'urgence nécessaires sur la base des risques reconnus;
-
 - b) assure la conduite de niveau cantonal et engage, sur l'ensemble du territoire cantonal, les moyens disponibles dans le canton, y compris les moyens privés garantis contractuellement, ainsi que les moyens supplémentaires de la Confédération et des cantons;
-
 - c) ordonne les mesures d'urgences adéquates;
-
 - d) reprend la conduite de niveau communal si celle-ci est déficiente;
-
 - e) assure une liaison avec les communes sinistrées;
-
 - f) propose au Conseil d'Etat, ou au chef du département en cas de délégation, le recours à l'aide intercantonale, fédérale ou transfrontalière;
-
 - g) veille à l'approvisionnement en énergie de secours des infrastructures critiques.
 
 #### Art. 13
@@ -183,13 +169,9 @@ L'OCC:
 <sup>1</sup> L'OCC:
 
 - a) assure la coordination et la diffusion de l'information à la population en collaboration avec la Confédération, les cantons, les départements concernés et les communes;
-
 - b) ordonne l'alarme en vue de la diffusion de consignes de comportement à la population pour les événements dont la gestion lui incombe;
-
 - c) communique après chaque alarme et chaque diffusion de consignes de comportement, en collaboration avec la centrale cantonale, la fin du danger, l'allègement ou la levée de celui-ci;
-
 - d) conduit la communication avec les services compétents de l'Etat;
-
 - e) informe régulièrement le Conseil d'Etat, ou le chef du département en cas de délégation, de l'évolution de la situation et des mesures prises.
 
 <sup>2</sup> Demeurent réservées les dispositions du code de procédure pénale (CPP) relatives à l'information du public et des autorités.
@@ -198,9 +180,9 @@ L'OCC:
 
 **Rapport au Conseil d'Etat**
 
-L'OCC établit, suite à une situation particulière ou extraordinaire, un rapport écrit au Conseil d'Etat sur ses activités et sur les mesures correctives éventuelles à entreprendre.
+<sup>1</sup> L'OCC établit, suite à une situation particulière ou extraordinaire, un rapport écrit au Conseil d'Etat sur ses activités et sur les mesures correctives éventuelles à entreprendre.
 
-### Chapitre 5: Etat-major de conduite communal et régional (ci-après EMC et EMCR)
+## 5 Etat-major de conduite communal et régional (ci-après: EMC et EMCR)
 
 #### Art. 15
 
@@ -209,23 +191,14 @@ L'OCC établit, suite à une situation particulière ou extraordinaire, un rappo
 <sup>1</sup> L'EMC ou l'EMCR comporte au moins les cellules suivantes:
 
 - a) renseignements (suivi de la situation);
-
 - b) adjudance et chancellerie;
-
 - c) information;
-
 - d) chef d'engagement;
-
 - e) ordre et sécurité;
-
 - f) sauvetage et assistance;
-
 - g) santé publique et secours;
-
 - h) services techniques;
-
 - i) logistique;
-
 - j) dangers naturels.
 
 <sup>2</sup> L'EMC ou l'EMCR est conduit et dirigé par un chef d'état-major.
@@ -234,16 +207,12 @@ L'OCC établit, suite à une situation particulière ou extraordinaire, un rappo
 
 **Préparation et conduite**
 
-L'EMC ou l'EMCR:
+<sup>1</sup> L'EMC ou l'EMCR:
 
 - a) établit, avec le soutien de l'OCPP, les planifications d'urgence nécessaires en fonction des risques reconnus sur son territoire, notamment la planification de la mise en oeuvre des moyens d'alarme mobiles. Une copie des planifications est transmise à l'OCPP;
-
 - b) assure la conduite de niveau communal, engage ses moyens et les moyens garantis conventionnellement. Les moyens sanitaires cantonaux peuvent être sollicités auprès de la centrale sanitaire 144;
-
 - c) demande des moyens supplémentaires aux communes voisines;
-
 - d) demande à l'OCC des moyens supplémentaires et l'appui de ce dernier;
-
 - e) réalise un état de la situation et prend les mesures nécessaires pour permettre à la population de disposer des besoins de première nécessité et des bases d'existence adéquates.
 
 #### Art. 17
@@ -253,9 +222,7 @@ L'EMC ou l'EMCR:
 <sup>1</sup> L'EMC ou l'EMCR:
 
 - a) assure la diffusion de l'information à la population et peut demander l'appui auprès de la police cantonale;
-
 - b) ordonne l'alarme en vue de la diffusion de consignes de comportement (ICARO) pour les événements qui lui incombent;
-
 - c) informe régulièrement l'OCC de l'évolution de la situation et des mesures prises.
 
 <sup>2</sup> Demeurent réservées les dispositions du CPP relatives à l'information du public et des autorités.
@@ -280,25 +247,21 @@ L'EMC ou l'EMCR:
 
 **Règlement communal**
 
-Le règlement communal arrête notamment:
+<sup>1</sup> Le règlement communal arrête notamment:
 
 - a) l'organisation de détail et précise les tâches de l'EMC ou de l'EMCR, sur la base des principes définis ci-avant;
-
 - b) les tâches du chef d'état-major et ses compétences financières;
-
 - c) les tâches du chef engagement;
-
 - d) l'indemnisation et la couverture d'assurance des membres;
-
 - e) l'organe de surveillance.
 
-### Chapitre 6: Moyens
+## 6 Moyens
 
 #### Art. 20
 
 **Requête**
 
-L'aide des communes voisines, du canton ou de la Confédération n'intervient que sur requête de la collectivité sinistrée et s'il apparaît que les moyens communaux ne suffisent pas ou ne sont pas adéquats.
+<sup>1</sup> L'aide des communes voisines, du canton ou de la Confédération n'intervient que sur requête de la collectivité sinistrée et s'il apparaît que les moyens communaux ne suffisent pas ou ne sont pas adéquats.
 
 #### Art. 21
 
@@ -326,7 +289,11 @@ L'aide des communes voisines, du canton ou de la Confédération n'intervient qu
 
 <sup>1</sup> La police cantonale est chargée de l'exploitation, de la surveillance et de la maintenance du réseau de communication hertzien Polycom.
 
-<sup>2</sup> Moyennant les modalités fixées conventionnellement par le Conseil d'Etat et les parties intéressées, l'Etat met à la disposition des organes de conduite et d'alarme ainsi que des organisations partenaires, son système de télécommunication disponible.
+<sup>2</sup> Moyennant les modalités fixées conventionnellement par le Conseil d'Etat et les parties intéressées, l'Etat met le réseau Polycom à la disposition des organes de conduite et d'alarme ainsi que des organisations partenaires.
+
+<sup>3</sup> Les coûts d'exploitation du réseau Polycom sont pris en charge à 70 pour cent par les partenaires cantonaux et à 30 pour cent par les communes.
+
+<sup>4</sup> Ils sont répartis entre les communes au prorata de la population résidante et facturés sur la base du compte d'exploitation de l'année précédente.
 
 #### Art. 24
 
@@ -342,13 +309,13 @@ L'aide des communes voisines, du canton ou de la Confédération n'intervient qu
 
 <sup>5</sup> Sous réserve du droit fédéral, les constructions de la protection civile sont mises à la disposition des EMC et des EMCR.
 
-### Chapitre 7: Organisme cantonal d'alerte et d'alarme
+## 7 Organisme cantonal d'alerte et d'alarme
 
 #### Art. 25
 
 **Organisme cantonal d'alerte et d'alarme**
 
-L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 et 118 ainsi que le déclenchement de l'alerte et de l'alarme, la centrale cantonale d'alerte et d'alarme (ci-après: la centrale cantonale) et, pour la réception des appels d'urgence 144, une centrale sanitaire.
+<sup>1</sup> L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 et 118 ainsi que le déclenchement de l'alerte et de l'alarme, la centrale cantonale d'alerte et d'alarme (ci-après: la centrale cantonale) et, pour la réception des appels d'urgence 144, une centrale sanitaire.
 
 #### Art. 26
 
@@ -369,19 +336,12 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 <sup>1</sup> La centrale cantonale a notamment pour missions:
 
 - a) d'assurer la permanence des liaisons, des formations de première intervention, de l'organe de conduite cantonal et des appels d'urgence 112-117-118;
-
 - b) d'alerter l'OCC, les EMC et les EMCR, de manière modulaire, en fonction de la nature et de l'importance de l'événement et des procédures de mise en oeuvre prédéfinies;
-
 - c) de déclencher les dispositifs d'alarme;
-
 - d) de garantir la transmission des consignes de comportement au moyen du dispositif ICARO;
-
 - e) de garantir le suivi des alertes et des alarmes ordonnées par les organes de conduite;
-
 - f) d'assurer le suivi et la transmission des informations à l'OCC lors des situations particulières et extraordinaires;
-
 - g) de surveiller le réseau routier par des moyens techniques adéquats;
-
 - h) de transmettre aux organes de conduites du canton les avis et alertes diffusés par la centrale nationale d'alarme (ci-après: CENAL) et par les organes responsables des phénomènes liés aux dangers naturels.
 
 <sup>2</sup> La centrale cantonale collabore avec la CENAL, les centrales intercantonales et transfrontalières, publiques ou privées, conformément à la législation fédérale en vigueur.
@@ -394,7 +354,7 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 
 <sup>2</sup> L'organisation, les tâches et la gestion de la centrale sanitaire 144 sont régies par la loi sur l'organisation des secours (LOS) et ne relèvent pas de la présente ordonnance.
 
-### Chapitre 8: Alerte et alarme
+## 8 Alerte et alarme
 
 #### Art. 29
 
@@ -403,11 +363,8 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 <sup>1</sup> La préparation de l'alarme comprend:
 
 - a) la préparation de la mise en service des moyens d'alarme;
-
 - b) la garantie de la réception de l'ordre d'alarme transmis par ondes hertziennes aux postes d'alarme;
-
 - c) la préparation de l'engagement du personnel d'alarme;
-
 - d) l'élaboration et la préparation des consignes de comportement.
 
 <sup>2</sup> L'OCPP fixe dans une directive les principes qui régissent l'élaboration des consignes de comportement.
@@ -420,11 +377,10 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 
 <sup>2</sup> Celui-ci transmet immédiatement l'annonce de l'alerte ou de l'alarme:
 
-- à la CENAL,
+- a) à la CENAL;
+- b) à la centrale cantonale.
 
-- à la centrale cantonale.
-
-<sup>3</sup> La loi fédérale sur les ouvrages d'accumulation du 1er octobre 2010 (LOA) est applicable pour le surplus.
+<sup>3</sup> La loi fédérale sur les ouvrages d'accumulation du 1<sup>er</sup> octobre 2010 (LOA) est applicable pour le surplus.
 
 <sup>4</sup> Les autorités communales sont responsables, sur leur territoire, avec l'appui de l'OCPP, de réaliser et d'actualiser le plan d'évacuation en cas d'alarme-eau et d'en informer sa population.
 
@@ -436,7 +392,7 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 
 <sup>2</sup> Le service veille à ce que les communes s'acquittent de leurs obligations.
 
-### Chapitre 9: Formation
+## 9 Formation
 
 #### Art. 32
 
@@ -478,7 +434,7 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 
 <sup>3</sup> Le service fixe un délai raisonnable aux états-majors concernés pour exécuter les mesures préconisées. A l'échéance du délai imparti, il peut imposer, aux frais des communes défaillantes, les mesures correctrices nécessaires.
 
-### Chapitre 10: Droit de réquisition
+## 10 Droit de réquisition
 
 #### Art. 36
 
@@ -489,7 +445,6 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 <sup>2</sup> L'organe de réquisition est:
 
 - a) le chef de l'OCC en cas de décision du Conseil d'Etat;
-
 - b) le chef de l'EMC ou de l'EMCR en cas de décision du président de la commune concernée.
 
 #### Art. 37
@@ -506,12 +461,10 @@ L'organisme cantonal comprend, pour la réception des appels d'urgence 112, 117 
 
 **Exceptions**
 
-Ne peuvent être réquisitionnés:
+<sup>1</sup> Ne peuvent être réquisitionnés:
 
 - a) les biens en possession de missions diplomatiques, de postes consulaires ou d'organisations internationales, de représentants diplomatiques ou de personnes au statut analoque;
-
 - b) les biens de grande valeur, lorsque d'autres, convenant au but visé, sont disponibles;
-
 - c) les biens culturels, au sens de la Convention de La Haye pour la protection des biens culturels en cas de conflit armé, du 14 mai 1954.
 
 #### Art. 39
@@ -538,7 +491,7 @@ Ne peuvent être réquisitionnés:
 
 **Devoirs du bénéficiaire**
 
-Le canton, respectivement la commune bénéficiaire, assure l'entretien et la réparation des biens réquisitionnés, de même que le logement, l'affouragement et le traitement vétérinaire des animaux.
+<sup>1</sup> Le canton, respectivement la commune bénéficiaire, assure l'entretien et la réparation des biens réquisitionnés, de même que le logement, l'affouragement et le traitement vétérinaire des animaux.
 
 #### Art. 42
 
@@ -562,34 +515,26 @@ Le canton, respectivement la commune bénéficiaire, assure l'entretien et la r�
 
 **Suspension des procédures d'autorisation**
 
-L'indemnisation éventuelle due en raison d'une suspension de procédure d'autorisation s'effectue conformément aux normes valables pour la réquisition.
+<sup>1</sup> L'indemnisation éventuelle due en raison d'une suspension de procédure d'autorisation s'effectue conformément aux normes valables pour la réquisition.
 
-### Chapitre 11: Commission de gestion du fonds de secours
+## 11 Commission de gestion du fonds de secours
 
 #### Art. 45
 
-<sup>1</sup> Composition
+**Composition**
 
 <sup>1</sup> Le Conseil d'Etat, sur proposition du Département dont relève la Sécurité, nomme, pour une période administrative, la CoGefoS.
 
 <sup>2</sup> La commission est composée de 9 à 11 membres, dont notamment:
 
 - a) le secrétaire général du Département en charge de la sécurité, qui la préside;
-
 - b) un représentant de la direction du Service des routes, transports et cours d'eau;
-
 - c) un représentant de la direction du Service des forêts et paysage;
-
 - d) un représentant de la direction du Service de l'Agriculture;
-
 - e) un représentant de la direction du Service de la sécurité civile et militaire;
-
 - f) un représentant de la direction du Service administratif et juridique du Département des transports, de l'équipement et de l'environnement;
-
 - g) un représentant de la direction du Service des affaires intérieures et communales;
-
 - h) un représentant de la direction de l'Administration cantonale des finances;
-
 - i) le responsable de la cellule finances de l'OCC.
 
 <sup>3</sup> Le soutien administratif de la commission est assuré par le Département dont dépend la Sécurité.
@@ -608,13 +553,11 @@ L'indemnisation éventuelle due en raison d'une suspension de procédure d'autor
 
 **Indemnisation des consultants externes**
 
-Les consultants externes à l'Administration cantonale sont indemnisés pour leur présence et leurs frais de déplacements conformément aux dispositions du Conseil d'Etat fixant les indemnités à verser aux membres des commissions administratives et consultatives ainsi que la rétribution des travaux d'experts.
+<sup>1</sup> Les consultants externes à l'Administration cantonale sont indemnisés pour leur présence et leurs frais de déplacements conformément aux dispositions du Conseil d'Etat fixant les indemnités à verser aux membres des commissions administratives et consultatives ainsi que la rétribution des travaux d'experts.
 
-### Chapitre 12: Indemnisation des membres des organes de
+## 12 Indemnisation des membres des organes de conduite
 
-conduite
-
-### Section 1: Indemnisation de l'OCC
+### 12.1 Indemnisation de l'OCC
 
 #### Art. 48
 
@@ -652,7 +595,7 @@ conduite
 
 <sup>3</sup> Pour les membres de l'OCC, faisant partie de l'Administration cantonale, les heures de travail mise à la disposition de l'OCC lors d'engagement, qui ne peuvent être compensées dans le cadre de leur fonction de base, sont rémunérées au taux correspondant à leur traitement. Les dispositions sur les heures supplémentaires ne sont pas applicables.
 
-### Section 2: Indemnisation des organes de conduite communaux
+### 12.2 Indemnisation des organes de conduite communaux
 
 #### Art. 52
 
@@ -662,52 +605,24 @@ conduite
 
 <sup>2</sup> Les personnes astreintes à servir dans la protection civile, qui sont mises à la disposition des EMC et des EMCR, sont soldées, nourries et logées conformément aux prescriptions fédérales et cantonales y relatives.
 
-### Chapitre 13: Dispositions finales
+## 13 Dispositions finales
 
 #### Art. 53
 
 **Modification du droit en vigueur**
 
-L'arrêté concernant l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs du 2 juin 1992 (RS/VS 814.101) est modifié comme il suit:
-
-#### Art. 1
-
-**ch. 4**
-
-- 4\. l'organe de conduite cantonal (OCC).
-
-#### Art. 5
-
-<sup>1</sup> L'organisme cantonal d'alerte et d'alarme exerce les tâches prévues aux articles 12 et 13 OPAM;
-
-<sup>2</sup> Les organes de conduite assurent la coordination générale, l'intervention et les mesures d'urgence au sens de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires du 15 février 2013.
+<sup>1</sup> L'arrêté concernant l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs du 2 juin 1992 est modifié.
 
 #### Art. 54
 
 **Abrogations**
 
-Sont abrogées toutes les dispositions contraires à la présente ordonnance, en particulier le règlement d'exécution de la loi sur l'organisation en cas de catastrophes et de situations extraordinaires du 4 novembre 1992.
+<sup>1</sup> Sont abrogées toutes les dispositions contraires à la présente ordonnance, en particulier le règlement d'exécution de la loi sur l'organisation en cas de catastrophes et de situations extraordinaires du 4 novembre 1992.
 
 #### Art. 55
 
 **Entrée en vigueur**
 
-La présente ordonnance entre en vigueur avec la publication au Bulletin officiel en même temps que la loi sur la protection de la population et la gestion des situations particulières et extraordinaires du 15 février 2013.
+<sup>1</sup> La présente ordonnance entre en vigueur avec la publication au Bulletin officiel en même temps que la loi sur la protection de la population et la gestion des situations particulières et extraordinaires du 15 février 2013.
 
-Ainsi adopté en séance du Conseil d'Etat à Sion, le 18 décembre 2013.
-
-Le président du Conseil d'Etat: Maurice Tornay Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**01.01.14**
-
-**No 52/2013**
-
-vigueur Ordonnance sur la protection de la BO No 9/2013, BO population et la gestion des situations particulières et extraordinaires du 18 décembre 2013
-
-## Autres notes
-
-- [1] Modification du 13 mai 2015 BO No 21/2015 22.05.2015
+RCV BO/Abl. 52/2013

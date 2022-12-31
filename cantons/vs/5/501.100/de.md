@@ -4,51 +4,53 @@ number: "501.100"
 title: Verordnung über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen
 short: VBBAL
 language: de
-version: 2015-05-22
-corrected: 2017-09-08
-version_adopted: 2015-05-13
+version: 2023-01-01
+version_adopted: 2022-12-21
 adopted: 2013-12-18
 in_force: 2014-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/501.100"
-pdf: "https://lex.vs.ch/api/de/versions/408/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3140/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen (VBBAL)
+# Verordnung über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen
 
-vom 18. Dezember 2013
+(VBBAL)
+
+vom 18.12.2013 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen den Artikel 57 der Kantonsverfassung;
 
-eingesehen den Artikel 89 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28 März 1996 (GORBG); eingesehen das Gesetz über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen vom 15. Februar 2013;
+eingesehen den Artikel 89 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28 März 1996 (GORBG);
+
+eingesehen das Gesetz über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen vom 15. Februar 2013;
 
 auf Antrag des Departements für Bildung und Sicherheit,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-In dieser Verordnung sollen die Bestimmungen des Gesetzes über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen ausgeführt und ergänzt werden (nachstehend: das Gesetz).
+<sup>1</sup> In dieser Verordnung sollen die Bestimmungen des Gesetzes über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen ausgeführt und ergänzt werden (nachstehend: das Gesetz).
 
 #### Art. 2
 
 **Glossar**
 
-Im Glossar im Anhang werden die spezifischen Begriffe des Bereichs des Bevölkerungsschutzes und der Bewältigung von besonderen und ausserordentlichen Lagen erläutert.
+<sup>1</sup> Im Glossar im Anhang 1 werden die spezifischen Begriffe des Bereichs des Bevölkerungsschutzes und der Bewältigung von besonderen und ausserordentlichen Lagen erläutert.
 
 #### Art. 3
 
 **Einsatzgrundsätze**
 
-Die Massnahmen, die in einer besonderen und in einer ausserordentlichen Lage ergriffen werden müssen, werden nach den Grundsätzen der Subsidiarität, der Solidarität und der Verhältnismässigkeit vorbereitet und durchgeführt.
+<sup>1</sup> Die Massnahmen, die in einer besonderen und in einer ausserordentlichen Lage ergriffen werden müssen, werden nach den Grundsätzen der Subsidiarität, der Solidarität und der Verhältnismässigkeit vorbereitet und durchgeführt.
 
 #### Art. 4
 
@@ -60,7 +62,7 @@ Die Massnahmen, die in einer besonderen und in einer ausserordentlichen Lage erg
 
 <sup>3</sup> Sie wirken an der Vorbereitung und an der Durchführung dieser Tätigkeiten mit.
 
-### 2. Kapitel: Zuständige Behörden
+## 2 Zuständige Behörden
 
 #### Art. 5
 
@@ -86,16 +88,15 @@ Die Massnahmen, die in einer besonderen und in einer ausserordentlichen Lage erg
 
 <sup>2</sup> Es übt seine Zuständigkeiten über die Dienststelle für Industrie, Handel und Arbeit aus.
 
-### 3. Kapitel: Zwingende Präventionsmassnahmen
+## 3 Zwingende Präventionsmassnahmen
 
 #### Art. 8
 
 **Zuständige Behörden**
 
-Ermächtigt, zwingende Präventionsmassnahmen anzuordnen, sind:
+<sup>1</sup> Ermächtigt, zwingende Präventionsmassnahmen anzuordnen, sind:
 
 - a) das KFO;
-
 - b) die Gemeinderäte, es sei denn, diese hätten ihrem Führungsorgan für diese Aufgabe eine ausdrückliche Delegation erteilt.
 
 #### Art. 9
@@ -106,11 +107,11 @@ Ermächtigt, zwingende Präventionsmassnahmen anzuordnen, sind:
 
 <sup>2</sup> Im Notfall, wenn die Verfügung nicht im Besitz des Ausführungsorgans ist, werden die Betroffenen über den Grund und den Zweck der zwingenden Präventionsmassnahme in Kenntnis gesetzt. Diese, die beispielsweise in einem Evakuationsbefehl bestehen kann, kann über die üblichen Informationskanäle verbreitet werden (Verfahren "Information Catastrophe Alarme Radio Organisation", nachstehend: ICARO).
 
-<sup>3</sup> Die Verordnung zum Gesetz über die Kantonspolizei vom 1. Oktober 1986 gilt ausserdem für die Einsätze der Kantonspolizei.
+<sup>3</sup> Die Verordnung zum Gesetz über die Kantonspolizei gilt ausserdem für die Einsätze der Kantonspolizei.
 
-### 4. Kapitel: Kantonales Führungsorgan (KFO)
+## 4 Kantonales Führungsorgan (KFO)
 
-### 1. Abschnitt: Organisation
+### 4.1 Organisation
 
 #### Art. 10
 
@@ -127,20 +128,13 @@ Ermächtigt, zwingende Präventionsmassnahmen anzuordnen, sind:
 <sup>5</sup> Das KFO setzt sich aus folgenden Grundbereichen zusammen, denen folgende Fachzellen angehören:
 
 - a) Adjutantur (ständiges Verwaltungsorgan);
-
 - b) rechtliche und finanzielle Angelegenheiten und Personalverwaltung;
-
 - c) Leitung der Information und der Kommunikation;
-
 - d) Leitung des Nachrichtendienstes;
-
 - e) Leitung der Operationen (Zellen: Polizei, Rettung und Unterstützung, Gesundheitswesen);
-
 - f) Leitung der Logistik (Zellen: Logistik und wirtschaftliche Versorgung, technische Dienste);
-
 - g) territoriale Koordination;
-
-- h) Führungshilfe (Zellen: Übermittlung, nukleare, biologische und chemische Bedrohung, wissenschaftliche Krisenzelle für Naturgefahren (nachstehend CERISE));
+- h) Führungshilfe (Zellen: Übermittlung, nukleare, biologische und chemische Bedrohung, wissenschaftliche Krisenzelle für Naturgefahren (nachstehend CERISE)).
 
 <sup>6</sup> Der Chef des KFO kann die Organisation des Stabs der Lage anpassen.
 
@@ -152,26 +146,20 @@ Ermächtigt, zwingende Präventionsmassnahmen anzuordnen, sind:
 
 <sup>2</sup> Der Vorsteher des Departements, dem die Sicherheit unterstellt ist, (nachstehend: der Departementsvorsteher) genehmigt die organisatorischen und technischen Bestimmungen, die das KFO ergreift, um dafür zu sorgen, dass es jederzeit erreichbar ist.
 
-### 2. Abschnitt: Aufgaben
+### 4.2 Aufgaben
 
 #### Art. 12
 
 **Vorbereitung und Führung**
 
-Das KFO:
+<sup>1</sup> Das KFO:
 
 - a) erstellt die nötigen Notfallplanungen auf der Grundlage der bekannten Gefahren;
-
 - b) stellt die Führung auf Kantonsebene sicher und setzt die im Kanton verfügbaren Mittel, einschliesslich der vertraglich garantierten privaten Mittel, und die zusätzlichen Mittel des Bundes und der Kantone auf dem ganzen Kantonsgebiet ein;
-
 - c) ordnet die angemessenen Notfallmassnahmen an;
-
 - d) übernimmt die Führung auf Gemeindeebene, wenn diese schwach ist;
-
 - e) stellt eine Verbindung mit den geschädigten Gemeinden sicher;
-
 - f) beantragt dem Staatsrat oder im Fall einer Delegation dem Departementsvorsteher, interkantonale, eidgenössische oder grenzüberschreitende Hilfe in Anspruch zu nehmen;
-
 - g) sorgt für die Versorgung der kritischen Infrastrukturen mit Hilfsenergie.
 
 #### Art. 13
@@ -181,13 +169,9 @@ Das KFO:
 <sup>1</sup> Das KFO:
 
 - a) stellt in Zusammenarbeit mit dem Bund, den Kantonen, den betreffenden Departementen und der Gemeinden die Koordination und die Verbreitung der Information der Bevölkerung sicher;
-
 - b) es ordnet für die Ereignisse, für deren Bewältigung es zuständig ist, den Alarm an, um der Bevölkerung Verhaltensanweisungen zu geben;
-
 - c) teilt nach jeder Alarmierung und jeder Verbreitung von Verhaltensanweisungen in Zusammenarbeit mit der kantonalen Zentrale das Ende, die Verringerung oder die Aufhebung der Gefahr mit;
-
 - d) leitet die Kommunikation mit den zuständigen Dienststellen des Staates;
-
 - e) informiert regelmässig den Staatsrat oder im Fall einer Delegation den Departementsvorsteher über die Entwicklung der Lage und die getroffenen Massnahmen.
 
 <sup>2</sup> Die Bestimmungen der Strafprozessordnung (StPO) über die Information der Öffentlichkeit und der Behörden bleiben vorbehalten.
@@ -196,9 +180,9 @@ Das KFO:
 
 **Bericht an den Staatsrat**
 
-Das KFO erstellt nach einer besonderen oder ausserordentlichen Lage einen schriftlichen Bericht an den Staatsrat über seine Tätigkeiten und über die zu treffenden Korrekturmassnahmen.
+<sup>1</sup> Das KFO erstellt nach einer besonderen oder ausserordentlichen Lage einen schriftlichen Bericht an den Staatsrat über seine Tätigkeiten und über die zu treffenden Korrekturmassnahmen.
 
-### 5. Kapitel: Gemeindeführungsstab und Regionaler Führungsstab (nachstehend GFS und RFS)
+## 5 Gemeindeführungsstab und Regionaler Führungsstab (nachstehend: GFS und RFS)
 
 #### Art. 15
 
@@ -207,23 +191,14 @@ Das KFO erstellt nach einer besonderen oder ausserordentlichen Lage einen schrif
 <sup>1</sup> Der GFS und der RFS umfassen vor allem folgende Zellen:
 
 - a) Auskünfte (Verfolgen der Lage);
-
 - b) Adjutantur und Kanzlei;
-
 - c) Information;
-
 - d) Chef Einsatz;
-
 - e) Ordnung und Sicherheit;
-
 - f) Rettung und Unterstützung;
-
 - g) Gesundheitswesen und Hilfe;
-
 - h) technische Dienste;
-
 - i) Logistik;
-
 - j) Naturgefahren.
 
 <sup>2</sup> Der GFS oder der RFS wird von einem Stabschef geführt.
@@ -232,16 +207,12 @@ Das KFO erstellt nach einer besonderen oder ausserordentlichen Lage einen schrif
 
 **Vorbereitung und Führung**
 
-Der GFS oder der RFS:
+<sup>1</sup> Der GFS oder der RFS:
 
 - a) erstellt mit der Unterstützung des KABS die nötigen Notfallplanungen je nach den bekannten Gefahren auf seinem Gebiet, namentlich die Planung des Einsatzes der mobilen Alarmmittel. Eine Kopie der Planungen wird dem KABS übermittelt;
-
 - b) stellt die Führung auf Gemeindeebene sicher, setzt seine Mittel und die vertraglich garantierten Mittel ein. Die kantonalen Sanitätsmittel können bei der Sanitätsalarm- und -einsatzzentrale 144 angefordert werden;
-
 - c) fordert bei den Nachbargemeinden zusätzliche Mittel an;
-
 - d) fordert beim KFO zusätzliche Mittel und dessen Unterstützung an;
-
 - e) erstellt den Stand der Lage und ergreift die nötigen Massnahmen, damit die Bevölkerung die dringend nötigen Bedürfnisse decken kann und über angemessene Lebensgrundlagen verfügt.
 
 #### Art. 17
@@ -251,16 +222,14 @@ Der GFS oder der RFS:
 <sup>1</sup> Der GFS oder der RFS:
 
 - a) stellt die Verbreitung der Information an die Öffentlichkeit sicher und kann sich von der Kantonspolizei unterstützen lassen;
-
 - b) ordnet für die Ereignisse, für die er zuständig ist, den Alarm für die Verbreitung von Verhaltensanweisungen (ICARO) an;
-
 - c) informiert das KFO regelmässig über die Entwicklung der Lage und die ergriffenen Massnahmen.
 
 <sup>2</sup> Die Bestimmungen der Strafprozessordnung (StPO) über die Information der Öffentlichkeit und der Behörden bleiben vorbehalten.
 
 #### Art. 18
 
-**18 Einsatzleiter**
+**Einsatzleiter**
 
 <sup>1</sup> Der Einsatzleiter ist im GFS oder RFS integriert, sobald diese aufgeboten werden.
 
@@ -278,25 +247,21 @@ Der GFS oder der RFS:
 
 **Gemeindereglement**
 
-Das Gemeindereglement legt namentlich folgende Punkte fest:
+<sup>1</sup> Das Gemeindereglement legt namentlich folgende Punkte fest:
 
 - a) die Detailorganisation und regelt auf der Grundlage der oben festgehaltenen Grundsätze die Aufgaben des GFS oder des RFS genau;
-
 - b) die Aufgaben des Stabschefs und dessen finanziellen Kompetenzen;
-
 - c) die Aufgaben des Einsatzleiters;
-
 - d) die Entschädigung und die Versicherungsdeckung der Mitglieder;
-
 - e) das Aufsichtsorgan.
 
-### 6. Kapitel: Mittel
+## 6 Mittel
 
 #### Art. 20
 
 **Anforderung**
 
-Die Nachbargemeinden, der Kanton und der Bund helfen nur auf Ersuchen des vom Ereignis betroffenen Gemeinwesens und wenn es sich abzeichnet, dass die Gemeindemittel nicht ausreichen oder nicht angemessen sind.
+<sup>1</sup> Die Nachbargemeinden, der Kanton und der Bund helfen nur auf Ersuchen des vom Ereignis betroffenen Gemeinwesens und wenn es sich abzeichnet, dass die Gemeindemittel nicht ausreichen oder nicht angemessen sind.
 
 #### Art. 21
 
@@ -324,11 +289,13 @@ Die Nachbargemeinden, der Kanton und der Bund helfen nur auf Ersuchen des vom Er
 
 <sup>1</sup> Die Kantonspolizei wird mit dem Betrieb, der Überwachung und dem Unterhalt der Funkkommunikationsnetze (Polycom) beauftragt.
 
-<sup>2</sup> Gemäss den Modalitäten, die vom Staatsrat und den interessierten Parteien vertraglich vereinbart wurden, stellt der Staat den Führungs- und Alarmorganen sowie den Partnerorganisationen Telekommunikationssystem zur Verfügung.
+<sup>2</sup> Gemäss den Modalitäten, die vom Staatsrat und den interessierten Parteien vertraglich vereinbart wurden, stellt der Staat den Führungs- und Alarmorganen sowie den Partnerorganisationen sein Polycom-Netz zur Verfügung.
+
+<sup>3</sup> Die Betriebskosten des Polycom-Netzes werden zu 70 Prozent von den kantonalen Partnern und zu 30 Prozent von den Gemeinden getragen.
+
+<sup>4</sup> Sie werden im Verhältnis zur Wohnbevölkerung auf die Gemeinden verteilt und auf Basis der Betriebsrechnung des Vorjahres in Rechnung gestellt.
 
 #### Art. 24
-
-**sein**
 
 **Führungseinrichtungen**
 
@@ -342,13 +309,13 @@ Die Nachbargemeinden, der Kanton und der Bund helfen nur auf Ersuchen des vom Er
 
 <sup>5</sup> Die Zivilschutzbauten werden den GFS und den RFS zur Verfügung gestellt, Bundesrecht bleibt vorbehalten.
 
-### 7. Kapitel: Warnungs- und Alarmorgan
+## 7 Warnungs- und Alarmorgan
 
 #### Art. 25
 
 **Kantonales Warnungs- und Alarmorgan**
 
-Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118 sowie für die Auslösung der Warnung und des Alarms die kantonale Warnungs- und Alarmzentrale (nachstehend: die kantonale Zentrale) und für die Entgegennahme der Notrufe 144 eine Einsatz- und Alarmzentrale.
+<sup>1</sup> Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118 sowie für die Auslösung der Warnung und des Alarms die kantonale Warnungs- und Alarmzentrale (nachstehend: die kantonale Zentrale) und für die Entgegennahme der Notrufe 144 eine Einsatz- und Alarmzentrale.
 
 #### Art. 26
 
@@ -369,19 +336,12 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 <sup>1</sup> Die kantonale Zentrale hat namentlich folgende Aufgaben:
 
 - a) Sie gewährleistet die Beständigkeit der Verbindungen, der Formationen für den Ersteinsatz, des Kantonalen Führungsorgans und der Notfallrufe 112-117-118;
-
 - b) Sie alarmiert modular das KFO, die GFS und die RFS, je nach Art und Umfang des Ereignisses und gemäss den vorher festgelegten Ausführungsverfahren;
-
 - c) Sie löst die Alarmeinrichtungen aus;
-
 - d) Sie stellt die Übertragung der Verhaltensanweisungen über das ICARO-System sicher;
-
 - e) Sie stellt die Kontrolle der Warnungen und Alarme, die von den Führungsorganen angeordnet wurden, sicher;
-
 - f) Sie gewährleistet, dass bei besonderen und aussergewöhnlichen Lagen die Informationen an das KFO übertragen werden, und stellt die Kontrolle sicher;
-
 - g) Sie überwacht das Strassennetz mit angemessenen technischen Mitteln;
-
 - h) Sie übermittelt den Führungsorganen des Kantons die Warnungen und Alarme, die von der nationalen Alarmzentrale (nachstehend: NAZ) und von den Organen, die für Phänomene im Zusammenhang mit Naturgefahren verantwortlich sind, verbreitet werden.
 
 <sup>2</sup> Die kantonale Zentrale arbeitet gemäss der geltenden Bundesgesetzgebung mit der NAZ, den öffentlichen oder privaten interkantonalen und grenzüberschreitenden Zentralen zusammen.
@@ -394,7 +354,7 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 
 <sup>2</sup> Die Organisation, die Aufgaben und die Verwaltung der Sanitätsalarm- und -einsatzzentrale werden im Gesetz über die Organisation des Rettungswesens (GOR) geregelt und gehören nicht zu dieser Verordnung.
 
-### 8. Kapitel: Warnung und Alarm
+## 8 Warnung und Alarm
 
 #### Art. 29
 
@@ -403,11 +363,8 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 <sup>1</sup> Die Vorbereitung des Alarms umfasst:
 
 - a) die Vorbereitung und die Inbetriebnahme der Alarmierungsmittel;
-
 - b) die Garantie, dass der über Funk an die Alarmierungsposten übermittelte Alarmbefehl empfangen wurde;
-
 - c) die Vorbereitung des Einsatzes des Alarmierungspersonals;
-
 - d) die Ausarbeitung und die Vorbereitung von Verhaltensanweisungen.
 
 <sup>2</sup> Das KABS legt in einer Richtlinie die Grundsätze fest, die die Ausarbeitung der Verhaltensanweisungen regeln.
@@ -420,11 +377,10 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 
 <sup>2</sup> Dieser übermittelt die Ankündigung der Warnung oder des Alarms unmittelbar der:
 
-- NAZ;
+- a) NAZ;
+- b) kantonalen Zentrale.
 
-- kantonalen Zentrale.
-
-<sup>3</sup> Ausserdem gilt das Bundesgesetz vom 1. Oktober 2010 über die Stauanlagen (StAG).
+<sup>3</sup> Ausserdem gilt das Bundesgesetz über die Stauanlagen vom 1. Oktober 2010 (StAG).
 
 <sup>4</sup> Die Gemeindebehörden sind auf ihrem Gebiet mit der Unterstützung des KABS verantwortlich, den Evakuationsplan bei Wasseralarm zu erstellen und nachzuführen und die Bevölkerung darüber zu informieren.
 
@@ -436,7 +392,7 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 
 <sup>2</sup> Die Dienststelle achtet darauf, dass die Gemeinden ihren Verpflichtungen nachkommen.
 
-### 9. Kapitel: Ausbildung
+## 9 Ausbildung
 
 #### Art. 32
 
@@ -470,7 +426,7 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 
 #### Art. 35
 
-Überwachung und Kontrolle des Standes der Vorbereitung und der Planung
+**Überwachung und Kontrolle des Standes der Vorbereitung und der Planung**
 
 <sup>1</sup> Das KABS wird beauftragt, periodisch zuhanden der Gemeinderäte die Qualität und den Vorbereitungsstand der Gemeindeführungsstäbe und der regionalen Führungsstäbe zu überprüfen.
 
@@ -478,7 +434,7 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 
 <sup>3</sup> Die Dienststelle gibt den betreffenden Stäben eine vernünftige Frist, um die geforderten Massnahmen zu ergreifen. Nach Ablauf der Frist kann sie auf Kosten der säumigen Gemeinden die nötigen Korrekturmassnahmen anordnen.
 
-### 10. Kapitel: Requistionsanspruch
+## 10 Requistionsanspruch
 
 #### Art. 36
 
@@ -489,7 +445,6 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 <sup>2</sup> Requisitionsorgan ist:
 
 - a) der Vorsteher des KFO bei einer Verfügung des Staatsrates;
-
 - b) der Vorsteher des GFS oder des RFS bei einer Verfügung des Präsidenten der betreffenden Gemeinde.
 
 #### Art. 37
@@ -506,12 +461,10 @@ Das Kantonale Organ umfasst, für die Entgegennahme der Notrufe 112, 117 und 118
 
 **Ausnahmen**
 
-Nicht requiriert werden können:
+<sup>1</sup> Nicht requiriert werden können:
 
 - a) Güter im Besitz von diplomatischen Missionen, konsularischen Stellen und internationalen Organisationen, von diplomatischen Vertretern und ihnen gleichgestellten Personen;
-
 - b) sehr wertvolle Güter, wenn andere für den angestrebten Zweck verfügbar sind;
-
 - c) Kulturgüter im Sinn des Haager Abkommens über den Schutz von Kulturgütern bei bewaffneten Konflikten vom 14. Mai 1954.
 
 #### Art. 39
@@ -538,7 +491,7 @@ Nicht requiriert werden können:
 
 **Pflichten des Anspruchsberechtigten**
 
-Der Kanton oder die anspruchsberechtigte Gemeinde stellen den Unterhalt und die Reparatur der requirierten Güter sowie die Unterbringung, die Fütterung und die veterinärmedizinische Behandlung der Tiere sicher.
+<sup>1</sup> Der Kanton oder die anspruchsberechtigte Gemeinde stellen den Unterhalt und die Reparatur der requirierten Güter sowie die Unterbringung, die Fütterung und die veterinärmedizinische Behandlung der Tiere sicher.
 
 #### Art. 42
 
@@ -562,34 +515,26 @@ Der Kanton oder die anspruchsberechtigte Gemeinde stellen den Unterhalt und die 
 
 **Aussetzung der Bewilligungsverfahren**
 
-Die Entschädigung, die allenfalls aufgrund einer Aussetzung der Bewilligungsverfahren geschuldet wird, erfolgt gemäss den geltenden Vorschriften für die Requisition.
+<sup>1</sup> Die Entschädigung, die allenfalls aufgrund einer Aussetzung der Bewilligungsverfahren geschuldet wird, erfolgt gemäss den geltenden Vorschriften für die Requisition.
 
-### 11. Kapitel: Kommission zur Verwaltung des Hilfsfonds
+## 11 Kommission zur Verwaltung des Hilfsfonds
 
 #### Art. 45
 
-<sup>1</sup> Zusammensetzung
+**Zusammensetzung**
 
 <sup>1</sup> Auf Vorschlag des für die Sicherheit zuständigen Departements ernennt der Staatsrat für eine Amtsperiode die KVH.
 
 <sup>2</sup> Der Kommission gehören 9 bis 11 Mitgliedern an, namentlich:
 
 - a) der Generalsekretär des für die Sicherheit zuständigen Departements, der den Vorsitz hat;
-
 - b) ein Vertreter der Direktion der Dienststelle für Strassen, Verkehr und Flussbau;
-
 - c) ein Vertreter der Direktion der Dienststelle für Wald und Landschaft;
-
 - d) ein Vertreter der Direktion der Dienststelle für Landwirtschaft;
-
 - e) ein Vertreter der Direktion der Dienststelle für zivile Sicherheit und Militär;
-
 - f) ein Vertreter des Verwaltungs- und Rechtsdienstes des Departements für Verkehr, Bau und Umwelt;
-
 - g) ein Vertreter der Direktion der Dienststelle für innere und kommunale Angelegenheiten;
-
 - h) ein Vertreter der Direktion der kantonalen Finanzverwaltung;
-
 - i) der Verantwortliche der Zelle Finanzen des KFO.
 
 <sup>3</sup> Die administrative Unterstützung der Kommission übernimmt das für die Sicherheit zuständige Departement.
@@ -608,11 +553,11 @@ Die Entschädigung, die allenfalls aufgrund einer Aussetzung der Bewilligungsver
 
 **Entschädigung der externen Berater**
 
-Die Berater von ausserhalb der Kantonsverwaltung werden für ihre Anwesenheit und ihre Fahrtkosten gemäss den Bestimmungen des Staatsrates über die den dazu ernannten Mitgliedern der Verwaltungs- und beratenden Kommissionen auszurichtenden Entschädigungen sowie die Vergütung von Expertenarbeiten entschädigt.
+<sup>1</sup> Die Berater von ausserhalb der Kantonsverwaltung werden für ihre Anwesenheit und ihre Fahrtkosten gemäss den Bestimmungen des Staatsrates über die den dazu ernannten Mitgliedern der Verwaltungs- und beratenden Kommissionen auszurichtenden Entschädigungen sowie die Vergütung von Expertenarbeiten entschädigt.
 
-### 12. Kapitel: Entschädigung der Mitglieder des Führungsorgans
+## 12 Entschädigung der Mitglieder des Führungsorgans
 
-### 1. Abschnitt: Entschädigung des KFO
+### 12.1 Entschädigung des KFO
 
 #### Art. 48
 
@@ -650,7 +595,7 @@ Die Berater von ausserhalb der Kantonsverwaltung werden für ihre Anwesenheit un
 
 <sup>3</sup> Für die Mitglieder des KFO, die der Kantonsverwaltung angehören, werden die Arbeitsstunden, die sie im Einsatz beim KFO geleistet haben und die sie bei ihrer eigentlichen Funktion nicht kompensieren können, zu einem Satz, der ihrem Gehalt entspricht vergütet. Die Bestimmungen über die Überstunden gelten nicht.
 
-### 2. Abschnitt: Entschädigung der Führungsorgane der Gemeinden
+### 12.2 Entschädigung der Führungsorgane der Gemeinden
 
 #### Art. 52
 
@@ -660,50 +605,24 @@ Die Berater von ausserhalb der Kantonsverwaltung werden für ihre Anwesenheit un
 
 <sup>2</sup> Die Zivilschutzangehörigen, die den GFS und RFS zur Verfügung gestellt werden, erhalten Sold, Essen und Unterkunft gemäss den einschlägigen Vorschriften des Bundes und des Kantons.
 
-### 13. Kapitel: Schlussbestimmungen
+## 13 Schlussbestimmungen
 
 #### Art. 53
 
 **Änderung bisherigen Rechts**
 
-Der Beschluss betreffend die Anwendung der Bundesverordnung über den Schutz vor Störfällen vom 2. Juni 1992 (SR/VS 814.101) wird wie folgt geändert:
-
-#### Art. 1
-
-**Ziff. 4**
-
-- 4\. das kantonale Führungsorgan (KFO).
-
-#### Art. 5
-
-<sup>1</sup> Das kantonale Warnungs- und Alarmorgan wird mit den in den Artikeln 12 und 13 StFV vorgesehenen Aufgaben betraut.
-
-<sup>2</sup> Die Führungsorgane stellen die allgemeine Koordination, den Einsatz und die dringenden Massnahmen im Sinn des Gesetzes über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen vom 15. Februar 2013 sicher.
+<sup>1</sup> Der Beschluss betreffend die Anwendung der Bundesverordnung über den Schutz vor Störfällen vom 2. Juni 1992 wird geändert.
 
 #### Art. 54
 
 **Aufhebung bisherigen Rechts**
 
-Aufgehoben werden alle Bestimmungen, die dieser Verordnung widersprechen, namentlich das Ausführungsreglement zum Gesetz über die Organisation im Falle von Katastrophen und ausserordentlichen Lagen vom 4. November 1992.
+<sup>1</sup> Aufgehoben werden alle Bestimmungen, die dieser Verordnung widersprechen, namentlich das Ausführungsreglement zum Gesetz über die Organisation im Falle von Katastrophen und ausserordentlichen Lagen vom 4. November 1992.
 
 #### Art. 55
 
 **Inkrafttreten**
 
-Diese Verordnung tritt mit der Veröffentlichung im Amtsblatt gleichzeitig mit dem Gesetz über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen vom 15. Februar 2013 in Kraft.
+<sup>1</sup> Diese Verordnung tritt mit der Veröffentlichung im Amtsblatt gleichzeitig mit dem Gesetz über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen vom 15. Februar 2013 in Kraft.
 
-So verordnet im Staatsrat zu Sitten, den 18. Dezember 2013.
-
-Der Präsident des Staatsrates: Maurice Tornay Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**01.01.14**
-
-Verordnung über den Bevölkerungsschutz Abl. Nr. 9/2013, und die Bewältigung von besonderen und Abl. Nr. 52/2013 ausserordentlichen Lagen (VBBAL) vom 18.
-
-### Dezember 2013
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 13. Mai 2015 Abl. Nr. 21/2015 22.05.2015
+CSW BO/Abl. 52/2013
