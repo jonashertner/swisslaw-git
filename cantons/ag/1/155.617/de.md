@@ -3,20 +3,19 @@ canton: AG
 number: "155.617"
 title: Reglement der Justizleitung über Akteneinsicht und Archivierung
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-18
+version: 2023-01-01
+version_adopted: 2022-12-12
 adopted: 2017-04-28
 in_force: 2017-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/155.617"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3218/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3278/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Justizleitung über Akteneinsicht und Archivierung
 
-Vom 28.04.2017 (Stand 01.07.2022)
+Vom 28.04.2017 (Stand 01.01.2023)
 
 Die Justizleitung des Kantons Aargau,
 
@@ -185,9 +184,7 @@ beschliesst:
 
 #### § 17
 
-**Justizgericht**
-
-<sup>1</sup> Die Akten des Justizgerichts werden im Archiv des Generalsekretariats aufbewahrt.
+**…**
 
 #### § 18
 
@@ -327,7 +324,7 @@ beschliesst:
 - b) Prozessakten der summarischen Verfahren, ausgenommen im Kindes- und Erwachsenenschutzrecht,
 - c) Rechtsöffnungs- und Konkurseröffnungsakten,
 - d) Akten aus dem Betreibungswesen,
-- e) Prozessakten der ordentlichen oder der vereinfachten Zivilverfahren, mit Ausnahme der Verfahren mit Auswirkungen auf den Personenstand wie Ehescheidungen und -trennungen, Vaterschaftsklagen und -anfechtungen,
+- e) Prozessakten der ordentlichen oder der vereinfachten Zivilverfahren einschliesslich arbeitsgerichtlicher Schlichtungsverfahren und Schlichtungsverfahren betreffend Kinderbelange, mit Ausnahme der Verfahren mit Auswirkungen auf den Personenstand wie Ehescheidungen und -trennungen, Vaterschaftsklagen und -anfechtungen,
 - f) Prozessakten von Strafverfahren, sofern keine Geldstrafe, keine Freiheitsstrafe oder keine sichernde Massnahme ausgefällt wurde,
 - g) Rechtshilfeverfahren,
 - h) Akten aus Aufsichtsverfahren, mit Ausnahme der Disziplinarverfahren,
@@ -338,7 +335,7 @@ beschliesst:
 - n) vor Einführung der Informatik geführte Kassabücher, Gebührenkontrollen und Rechnungen,
 - o) nach Einführung der Informatik vorhandene geschäfts- und verwaltungsrelevante Belege,
 - p) Akten der Anwaltskommission; nach Ablauf der Aufbewahrungsdauer werden die Prüfungsarbeiten vernichtet (es erfolgt keine Aushändigung an die Absolventinnen und Absolventen),
-- q) Akten der Schlichtungsbehörden für Miete und Pacht,
+- q) Akten der Schlichtungsbehörden für Miete und Pacht und der Friedenrichterinnen und Friedensrichter,
 - r) Akten der Abteilung Steuern des Spezialverwaltungsgerichts,
 - s) Akten der Abteilung Kausalabgaben und Enteignung des Spezialverwaltungsgerichts,
 - t) Akten der Schlichtungsstelle für Gleichstellungsfragen,
