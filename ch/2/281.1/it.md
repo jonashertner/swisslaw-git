@@ -4,20 +4,20 @@ title: "Legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento (LE
 short: LEF
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: it
-version: 2021-08-01
+version: 2023-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla esecuzione e sul fallimento
 
-(LEF)**[^t-1]**
+(LEF)[^t-1]
 
-dell’11 aprile 1889 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
+dell’11 aprile 1889 (Stato 1° gennaio 2023)
 
 [^t-1]: Abbreviazione introdotta dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -836,7 +836,7 @@ Contro un debitore in fuga il fallimento si dichiara nel luogo dell’ultimo suo
 
 Il fallimento di uno stesso debitore non può essere aperto contemporaneamente, nella Svizzera, in più di un luogo. Si reputa aperto dove venne prima dichiarato.
 
-### III. Dei periodi preclusi, delle ferie e delle sospensioni****
+### III. Dei periodi preclusi, delle ferie e delle sospensioni
 
 [^tit2-lvlIII-1]
 
@@ -1099,7 +1099,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 
 <sup>2</sup> Il creditore ha diritto di prelevare sui pagamenti del debitore le spese d’esecuzione.
 
-### VI. Dell’esecuzione contro un coniuge vivente in comunione di beni****
+### VI. Dell’esecuzione contro un coniuge vivente in comunione di beni
 
 [^tit2-lvlVI-1]
 
@@ -1141,7 +1141,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 [^68b-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^68b-4]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
-### VII.**** Dell’esecuzione in caso di rappresentanza legale o curatela
+### VII. Dell’esecuzione in caso di rappresentanza legale o curatela
 
 [^tit2-lvlVII-1]
 
@@ -1179,7 +1179,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 
 Nella procedura di rivendicazione (art. 106 a 109), se il debitore risponde soltanto con i beni liberi, si può far valere l’estraneità del bene pignorato a questi beni.
 
-### VIII.**** Del precetto esecutivo e della opposizione
+### VIII. Del precetto esecutivo e della opposizione
 
 [^tit2-lvlVIII-1]
 
@@ -1467,7 +1467,7 @@ Se, dopo aver sentito le parti ed esaminato i documenti prodotti, il tribunale r
 
 Pel precetto nella esecuzione in via di realizzazione del pegno, valgono le speciali disposizioni degli articoli 151 a 153; pel precetto e per l’opposizione nella esecuzione cambiaria, quelle degli articoli 178 a 189.
 
-### IX. Continuazione dell’esecuzione****
+### IX. Continuazione dell’esecuzione
 
 [^tit2-lvlIX-1]
 
@@ -1487,13 +1487,13 @@ Pel precetto nella esecuzione in via di realizzazione del pegno, valgono le spec
 
 [^88-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-## Titolo terzo:**** Della esecuzione in via di pignoramento
+## Titolo terzo: Della esecuzione in via di pignoramento
 
 [^tit3-1]
 
 [^tit3-1]: Originario Tit. avanti l’art. 88.
 
-### I.**** Del pignoramento
+### I. Del pignoramento
 
 [^tit3-lvlI-1]
 
@@ -1586,7 +1586,7 @@ Sono impignorabili:
 [^92-12]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-13]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^92-14]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^92-15]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2649_2703_2483)n. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)n. II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Ora: giusta l’art. 20 della LF del 6. ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^92-15]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2649_2703_2483)n. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)n. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Ora: giusta l’art. 20 della LF del 6. ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
 [^92-16]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-17]: Introdotto dall’art. 3 della LF del 28 set. 1949 (R **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-18]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -1938,7 +1938,7 @@ Trascorso il termine di partecipazione di trenta giorni, l’ufficio d’esecuzi
 
 [^115-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### II. Della realizzazione****
+### II. Della realizzazione
 
 [^tit3-lvlII-1]
 
@@ -2777,13 +2777,14 @@ Il giudice rigetta la domanda di fallimento:
 
 <sup>1</sup> Se il debitore o il creditore hanno presentato una domanda di moratoria concordataria o di moratoria straordinaria, il giudice può differire la decisione sul fallimento.[^173a-2]
 
-<sup>2</sup> Il giudice può inoltre differire d’ufficio la decisione sul fallimento qualora appaia possibile la conclusione di un concordato; in tal caso trasmette gli atti al giudice del concordato.
+<sup>2</sup> Il giudice può inoltre differire d’ufficio la decisione sul fallimento qualora appaia possibile il risanamento immediato o la conclusione di un concordato; in tal caso trasmette gli atti al giudice del concordato.[^173a-3]
 
-<sup>3</sup> ...[^173a-3]
+<sup>3</sup> ...[^173a-4]
 
 [^173a-1]: Introdotto dall’art. 12 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^173a-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^173a-3]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^173a-3]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^173a-4]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 3<sup>bis</sup>. Competenza dell’Autorità federale di vigilanza sui mercati finanziari
 
@@ -2791,10 +2792,13 @@ Il giudice rigetta la domanda di fallimento:
 
 [^173b-1]
 
-Se la domanda di fallimento concerne un debitore che, secondo le leggi sui mercati finanziari di cui all’articolo 1 della legge del 22 giugno 2007[^173b-2] sulla vigilanza dei mercati finanziari, è soggetto alla competenza in materia di fallimento dell’Autorità federale di vigilanza sui mercati finanziari (FINMA), il giudice del fallimento trasmette gli atti alla FINMA. La stessa procede conformemente alle norme delle leggi speciali.
+<sup>1</sup> Se la domanda di fallimento concerne un debitore che, secondo le leggi sui mercati finanziari di cui all’articolo 1 della legge del 22 giugno 2007[^173b-2] sulla vigilanza dei mercati finanziari, è soggetto alla competenza in materia di fallimento dell’Autorità federale di vigilanza sui mercati finanziari (FINMA), il giudice del fallimento trasmette gli atti alla FINMA. La stessa procede conformemente alle norme delle leggi speciali.
+
+<sup>2</sup> Sottostanno alla competenza della FINMA in materia di fallimento unicamente i debitori che dispongono della necessaria autorizzazione della FINMA.[^173b-3]
 
 [^173b-1]: Introdotto dal n. II 1 della LF del 3 ott. 2003 ([RU 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nuovo testo giusta l’all. n. II 5 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^173b-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-3]: Introdotto dall’all. n. 3 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Impugnazione
 
@@ -3058,7 +3062,7 @@ L’autorità competente informa il giudice qualora:
 
 [^194-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### IV. Della revoca**** del fallimento
+### IV. Della revoca del fallimento
 
 [^tit5-lvlIV-1]
 
@@ -3379,7 +3383,7 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 [^219-subdivu2-5]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^219-subdivu2-6]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
-### Seconda classe**
+### Seconda classe
 
 [^219-subdivu3-1]
 
@@ -3426,7 +3430,7 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 
 ## Titolo settimo: Della liquidazione del fallimento
 
-### I. Della determinazione dell’attivo e della definizione della procedura****
+### I. Della determinazione dell’attivo e della definizione della procedura
 
 [^tit7-lvlI-1]
 
@@ -3590,7 +3594,7 @@ La liquidazione sommaria ha luogo secondo le regole della procedura ordinaria, f
 
 [^231-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### II. Della grida e della convocazione dei creditori****
+### II. Della grida e della convocazione dei creditori
 
 [^tit7-lvlII-1]
 
@@ -4328,7 +4332,7 @@ Ove tali oggetti siano stati asportati clandestinamente o con violenza, potranno
 
 [^284-1]: Nuovo testo del per. giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-## Titolo nono<sup>bis</sup>:**** Disposizioni speciali relative ai rapporti di trust
+## Titolo nono<sup>bis</sup>: Disposizioni speciali relative ai rapporti di trust
 
 [^tit9bis-1]
 
@@ -4352,7 +4356,7 @@ Ove tali oggetti siano stati asportati clandestinamente o con violenza, potranno
 
 In caso di fallimento di un trustee, i beni in trust vengono separati dalla massa del fallimento, previa deduzione delle pretese del trustee su di essi.
 
-## Titolo decimo: Della revocazione****
+## Titolo decimo: Della revocazione
 
 [^tit10-1]
 
@@ -4377,9 +4381,12 @@ Possono domandare la revocazione:
 
 <sup>3</sup> Non sono revocabili gli atti compiuti durante una moratoria concordataria, per quanto siano stati autorizzati da un giudice del concordato o da una delegazione dei creditori (art. 295*a*).[^285-3]
 
+<sup>4</sup> Non sono inoltre revocabili gli altri debiti contratti durante la moratoria con il consenso del commissario.[^285-4]
+
 [^285-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^285-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^285-3]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^285-4]: Introdotto dall’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Atti revocabili
 
@@ -4508,7 +4515,7 @@ L’azione revocatoria si prescrive in:
 [^292-1]: Nuovo testo giusta il n. III della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^292-2]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 
-## Titolo undecimo:**** Della procedura concordataria
+## Titolo undecimo: Della procedura concordataria
 
 [^tit11-1]
 
@@ -4545,7 +4552,7 @@ La procedura concordataria è promossa mediante:
 <sup>3</sup> Se manifestamente non vi sono possibilità di risanamento o di omologazione di un concordato, il giudice del concordato dichiara d’ufficio il fallimento.
 
 [^293a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^293a-2]: Nuovo testo giusta il n. 4 dell’all. della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 20 ott. 2020 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)[4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^293a-2]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 20 ott. 2020 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Commissario provvisorio
 
@@ -4623,7 +4630,10 @@ Il commissario ha segnatamente i compiti seguenti:
 
 <sup>3</sup> Il giudice del concordato può attribuire altri compiti al commissario.
 
+<sup>4</sup> Gli articoli 8, 8*a*, 10, 11, 14, 17–19, 34 e 35 si applicano per analogia alla gestione del commissario.[^295-2]
+
 [^295-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295-2]: Introdotto dall’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Delegazione dei creditori
 
@@ -5054,13 +5064,15 @@ Il concordato contiene disposizioni circa:
 
 #### Art. 319
 
-<sup>1</sup> Quando l’omologazione del concordato con abbandono dell’attivo è divenuta definitiva, il debitore non ha più diritto di disporre dei suoi beni ed i precedenti aventi diritto non sono più autorizzati a firmare.
+<sup>1</sup> Quando l’omologazione del concordato con abbandono dell’attivo è divenuta esecutiva, il debitore non ha più diritto di disporre dei suoi beni e i precedenti aventi diritto non sono più autorizzati a firmare.[^319-1]
 
 <sup>2</sup> Se il debitore è iscritto nel registro di commercio, alla sua ragione sociale devono essere aggiunte le parole: «in liquidazione concordataria». Sotto questa ragione la massa può essere escussa per i debiti non compresi nel concordato.
 
 <sup>3</sup> I liquidatori provvedono a tutti gli atti necessari alla conservazione e alla realizzazione della massa o, all’occorrenza, al trasferimento dei beni.
 
 <sup>4</sup> Essi rappresentano la massa in giustizia. L’articolo 242 è applicabile per analogia.
+
+[^319-1]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Situazione dei liquidatori
 
@@ -5198,9 +5210,9 @@ Con lo stato di riparto definitivo, i liquidatori devono depositare il conto fin
 
 <sup>3</sup> Durante la moratoria non si può promuovere né proseguire alcuna esecuzione contro il debitore, fatta eccezione per i contributi periodici di mantenimento o d’esistenza in virtù del diritto di famiglia. I termini previsti dagli articoli 88, 93 capoverso 2, 116 e 154 sono sospesi.
 
-<sup>4</sup> La decisione del giudice del concordato è comunicata ai creditori. L’articolo 294 capoversi 3 e 4[^334-1] è applicabile per analogia.
+<sup>4</sup> La decisione del giudice del concordato è comunicata ai creditori; l’articolo 295*c* si applica per analogia.[^334-1]
 
-[^334-1]: Ora: l’art. 295*c*.
+[^334-1]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Compiti del commissario
 
@@ -5218,7 +5230,7 @@ Con lo stato di riparto definitivo, i liquidatori devono depositare il conto fin
 
 In caso di successiva procedura concordataria, la durata della moratoria secondo gli articoli 333 segg. è computata sulla durata della moratoria concordataria.
 
-## Titolo dodicesimo:**** Della moratoria straordinaria
+## Titolo dodicesimo: Della moratoria straordinaria
 
 [^tit12-1]
 
@@ -5384,7 +5396,7 @@ Su proposta di un creditore o del commissario, il giudice del concordato deve re
 
 [^350-1]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-## Titolo tredicesimo:**** Disposizioni finali
+## Titolo tredicesimo: Disposizioni finali
 
 [^tit13-1]
 
@@ -5408,7 +5420,7 @@ Il Consiglio federale è incaricato di pubblicare la presente legge, conformemen
 
 [^352-1]: [CS **1** 168; [RU 1962 848](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 cpv. 3. [RU 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 lett. b]
 
-## Disposizioni finali della modifica del 16 dicembre 1994****
+## Disposizioni finali della modifica del 16 dicembre 1994
 
 [^u1-1]
 
@@ -5452,7 +5464,7 @@ La presente legge sottostà al referendum facoltativo.
 
 Il Consiglio federale ne determina l’entrata in vigore.
 
-## Disposizione finale della modifica del 24 marzo 2000****
+## Disposizione finale della modifica del 24 marzo 2000
 
 [^u2-1]
 
@@ -5460,7 +5472,7 @@ Il Consiglio federale ne determina l’entrata in vigore.
 
 I privilegi previsti dal diritto anteriore (art. 146 e 219) si applicano ai fallimenti dichiarati, ai pignoramenti eseguiti e alle moratorie concordatarie concesse prima dell’entrata in vigore della presente legge.
 
-## Disposizione finale della modifica del 19 dicembre 2003****
+## Disposizione finale della modifica del 19 dicembre 2003
 
 [^u3-1]
 
@@ -5468,7 +5480,7 @@ I privilegi previsti dal diritto anteriore (art. 146 e 219) si applicano ai fall
 
 I privilegi previsti nel diritto previgente si applicano ai fallimenti dichiarati, ai pignoramenti eseguiti e alle moratorie concesse prima dell’entrata in vigore della presente modifica.
 
-## Disposizione finale della modifica del 17 giugno 2005**** ****
+## Disposizione finale della modifica del 17 giugno 2005
 
 [^u4-1][^u4-2]
 
@@ -5477,7 +5489,7 @@ I privilegi previsti nel diritto previgente si applicano ai fallimenti dichiarat
 
 Le ordinanze di esecuzione del Tribunale federale che non derogano materialmente al nuovo diritto rimangono in vigore sino a quando il Consiglio federale non disponga altrimenti.
 
-## Disposizione transitoria della modifica del 18 giugno 2010****
+## Disposizione transitoria della modifica del 18 giugno 2010
 
 [^u5-1]
 
@@ -5485,10 +5497,18 @@ Le ordinanze di esecuzione del Tribunale federale che non derogano materialmente
 
 I privilegi previsti dal diritto anteriore si applicano ai fallimenti dichiarati, ai pignoramenti eseguiti e alle moratorie concordatarie concesse prima dell’entrata in vigore della presente modifica.
 
-## Disposizione transitoria della modifica del 21 giugno 2013****
+## Disposizione transitoria della modifica del 21 giugno 2013
 
 [^u6-1]
 
 [^u6-1]: [RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)
 
 La procedura concordataria è retta dal diritto anteriore se la domanda di moratoria è stata presentata prima dell’entrata in vigore della modifica del 21 giugno 2013.
+
+## Disposizione transitoria della modifica del 19 giugno 2020
+
+[^u7-1]
+
+[^u7-1]: [RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)
+
+Le moratorie concordatarie concesse prima dell’entrata in vigore della modifica del 19 giugno 2020 sono rette dal diritto anteriore.

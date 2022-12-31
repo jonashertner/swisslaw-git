@@ -4,20 +4,20 @@ title: Bundesgesetz vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG
 short: SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/de/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Schuldbetreibung und Konkurs
 
-(SchKG)**[^t-1]**
+(SchKG)[^t-1]
 
-vom 11. April 1889 (Stand am 1. August 2021)
+vom 11. April 1889 (Stand am 1. Januar 2023)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -271,7 +271,7 @@ Gegen einen Beamten oder Angestellten können folgende Disziplinarmassnahmen get
 
 <sup>3</sup> Er kann an die kantonalen Aufsichtsbehörden Weisungen erlassen und von denselben jährliche Berichte verlangen.
 
-<sup>4</sup> ...[^15-2]
+<sup>4</sup> …[^15-2]
 
 <sup>5</sup> Er koordiniert die elektronische Kommunikation zwischen den Betreibungs- und Konkursämtern, den Grundbuch- und Handelsregisterämtern, den Gerichten und dem Publikum.[^15-3]
 
@@ -343,7 +343,7 @@ Bei der Wechselbetreibung betragen die Fristen für Anhebung der Beschwerde und 
 
 [^20a-1]
 
-<sup>1</sup> ...[^20a-2]
+<sup>1</sup> …[^20a-2]
 
 <sup>2</sup>
 
@@ -399,7 +399,7 @@ Die Kantone bezeichnen die richterlichen Behörden, welche für die in diesem Ge
 
 Die Kantone bezeichnen die Anstalten, welche gehalten sind, in den in diesem Gesetze vorgesehenen Fällen Depositen anzunehmen (Depositenanstalten). Sie haften für die von diesen Anstalten verwahrten Depositen.
 
-### 3. ...
+### 3. …
 
 #### Art. 25
 
@@ -422,7 +422,7 @@ Die Kantone bezeichnen die Anstalten, welche gehalten sind, in den in diesem Ges
 [^26-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^26-2]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
-### 5. Vertretung im Zwangsvoll-streckungsverfahren
+### 5. Vertretung im Zwangsvollstreckungsverfahren
 
 #### Art. 27
 
@@ -446,7 +446,7 @@ Die Kantone bezeichnen die Anstalten, welche gehalten sind, in den in diesem Ges
 
 [^28-1]: Fassung gemäss Ziff. I 6 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
-### Q. ...
+### Q. …
 
 #### Art. 29
 
@@ -498,11 +498,11 @@ Für die Berechnung, die Einhaltung und den Lauf der Fristen gelten die Bestimmu
 
 [^32-1]
 
-<sup>1</sup> ...[^32-2]
+<sup>1</sup> …[^32-2]
 
 <sup>2</sup> Eine Frist ist auch dann gewahrt, wenn vor ihrem Ablauf ein unzuständiges Betreibungs- oder Konkursamt angerufen wird; dieses überweist die Eingabe unverzüglich dem zuständigen Amt.[^32-3]
 
-<sup>3</sup> ...[^32-4]
+<sup>3</sup> …[^32-4]
 
 <sup>4</sup> Bei schriftlichen Eingaben, die an verbesserlichen Fehlern leiden, ist Gelegenheit zur Verbesserung zu geben.
 
@@ -632,7 +632,7 @@ Die Betreibung wird auf dem Weg des Konkurses, und zwar als «Ordentliche Konkur
 - 2\. als Mitglied einer Kollektivgesellschaft (Art. 554 OR);
 - 3\. als unbeschränkt haftendes Mitglied einer Kommanditgesellschaft (Art. 596 OR);
 - 4\. als Mitglied der Verwaltung einer Kommanditaktiengesellschaft (Art. 765 OR);
-- 5\.[^39-2] ...
+- 5\.[^39-2] …
 - 6\. als Kollektivgesellschaft (Art. 552 OR);
 - 7\. als Kommanditgesellschaft (Art. 594 OR);
 - 8\. als Aktien- oder Kommanditaktiengesellschaft (Art. 620 und 764 OR);
@@ -643,7 +643,7 @@ Die Betreibung wird auf dem Weg des Konkurses, und zwar als «Ordentliche Konkur
 - 13\.[^39-4] Investmentgesellschaft mit variablem Kapital (Art. 36 Kollektivanlagengesetz vom 23. Juni 2006[^39-5], KAG);
 - 14\.[^39-6] Kommanditgesellschaft für kollektive Kapitalanlagen (Art. 98 KAG).[^39-7]
 
-<sup>2</sup> ...[^39-8]
+<sup>2</sup> …[^39-8]
 
 <sup>3</sup> Die Eintragung äussert ihre Wirkung erst mit dem auf die Bekanntmachung im Schweizerischen Handelsamtsblatt folgenden Tage.
 
@@ -821,7 +821,7 @@ Gegen einen flüchtigen Schuldner wird der Konkurs an dessen letztem Wohnsitze e
 
 Der Konkurs kann in der Schweiz gegen den nämlichen Schuldner gleichzeitig nur an einem Orte eröffnet sein. Er gilt dort als eröffnet, wo er zuerst erkannt wird.
 
-### III. Geschlossene Zeiten, Betreibungsferien und Rechtsstillstand****
+### III. Geschlossene Zeiten, Betreibungsferien und Rechtsstillstand
 
 [^tit2-lvlIII-1]
 
@@ -880,7 +880,7 @@ Ausser im Arrestverfahren oder wenn es sich um unaufschiebbare Massnahmen zur Er
 
 <sup>2</sup> Die zuständige Kommandostelle gibt dem Betreibungsamt auf Anfrage die Entlassung oder Beurlaubung des Schuldners bekannt.
 
-<sup>3</sup> ...[^57a-5]
+<sup>3</sup> …[^57a-5]
 
 [^57a-1]: Eingefügt durch Art. 2 des BG vom 28. Sept. 1949, in Kraft seit 1. Febr. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^57a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -1048,7 +1048,7 @@ Die Zustellung wird durch öffentliche Bekanntmachung ersetzt, wenn:
 - 2\. der Schuldner sich beharrlich der Zustellung entzieht;
 - 3\. der Schuldner im Ausland wohnt und die Zustellung nach Absatz 3 nicht innert angemessener Frist möglich ist.[^66-2]
 
-<sup>5</sup> ...[^66-3]
+<sup>5</sup> …[^66-3]
 
 [^66-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^66-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -1083,7 +1083,7 @@ Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu 
 
 <sup>2</sup> Der Gläubiger ist berechtigt, von den Zahlungen des Schuldners die Betreibungskosten vorab zu erheben.
 
-### VI. Betreibung eines in Gütergemeinschaft lebenden Ehegatten****
+### VI. Betreibung eines in Gütergemeinschaft lebenden Ehegatten
 
 [^tit2-lvlVI-1]
 
@@ -1099,7 +1099,7 @@ Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu 
 
 <sup>2</sup> Jeder Ehegatte kann Rechtsvorschlag erheben.
 
-<sup>3</sup> ...[^68a-2]
+<sup>3</sup> …[^68a-2]
 
 [^68a-1]: Ursprünglich Art. 68<sup>bis</sup>. Eingefügt durch Art. 15 Ziff. 3 Schl- und UeB zu den Tit. XXIV–XXXIII OR ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Fassung gemäss Ziff. II 3 des BG vom 5. Okt. 1984 über die Änderung des ZGB, in Kraft seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^68a-2]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -1123,7 +1123,7 @@ Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu 
 [^68b-1]: Eingefügt durch Ziff. II 3 des BG vom 5. Okt. 1984 über die Änderung des ZGB, in Kraft seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^68b-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### VII.**** Betreibung bei gesetzlicher Vertretung oder Beistandschaft
+### VII. Betreibung bei gesetzlicher Vertretung oder Beistandschaft
 
 [^tit2-lvlVII-1]
 
@@ -1160,7 +1160,7 @@ Das Betreibungsbegehren ist schriftlich oder mündlich an das Betreibungsamt zu 
 
 Haftet der Schuldner nur mit dem freien Vermögen, so kann im Widerspruchsverfahren (Art. 106–109) geltend gemacht werden, ein gepfändeter Wert gehöre nicht dazu.
 
-### VIII.**** Zahlungsbefehl und Rechtsvorschlag
+### VIII. Zahlungsbefehl und Rechtsvorschlag
 
 [^tit2-lvlVIII-1]
 
@@ -1320,7 +1320,7 @@ Gerichtlichen Entscheiden gleichgestellt sind:[^80-3]
 - 1\. gerichtliche Vergleiche und gerichtliche Schuldanerkennungen;
 - [tab] 1<sup>bis</sup>.[^80-4] vollstreckbare öffentliche Urkunden nach den Artikeln 347–352 ZPO[^80-5];
 - 2\.[^80-6] Verfügungen schweizerischer Verwaltungsbehörden;
-- 3\.[^80-7] ...
+- 3\.[^80-7] …
 - 4\.[^80-8] die endgültigen Entscheide der Kontrollorgane, die in Anwendung von Artikel 16 Absatz 1 des Bundesgesetzes vom 17. Juni 2005[^80-9] gegen die Schwarzarbeit getroffen werden und die Kontrollkosten zum Inhalt haben;
 - 5\.[^80-10] im Bereich der Mehrwertsteuer: Steuerabrechnungen und Einschätzungsmitteilungen, die durch Eintritt der Festsetzungsverjährung rechtskräftig wurden, sowie Einschätzungsmitteilungen, die durch schriftliche Anerkennung der steuerpflichtigen Person rechtskräftig wurden.
 
@@ -1422,7 +1422,7 @@ Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweis
 
 <sup>3</sup> Heisst das Gericht die Klage gut, so hebt es die Betreibung auf oder stellt sie ein.
 
-<sup>4</sup> ...[^85a-3]
+<sup>4</sup> …[^85a-3]
 
 [^85a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^85a-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016, in Kraft seit 1. Jan. 2019 ([AS 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [BBl 2015 3209](https://fedlex.data.admin.ch/eli/fga/2015/692)[5785](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
@@ -1448,7 +1448,7 @@ Nach Eingang der Klage hört das Gericht die Parteien an und würdigt die Beweis
 
 Für den Zahlungsbefehl in der Betreibung auf Pfandverwertung gelten die besondern Bestimmungen der Artikel 151–153, für den Zahlungsbefehl und den Rechtsvorschlag in der Wechselbetreibung diejenigen der Artikel 178–189.
 
-### IX. Fortsetzung der Betreibung****
+### IX. Fortsetzung der Betreibung
 
 [^tit2-lvlIX-1]
 
@@ -1468,13 +1468,13 @@ Für den Zahlungsbefehl in der Betreibung auf Pfandverwertung gelten die besonde
 
 [^88-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-## Dritter Titel: Betreibung auf Pfändung****
+## Dritter Titel: Betreibung auf Pfändung
 
 [^tit3-1]
 
 [^tit3-1]: Ursprünglich vor Art. 88.
 
-### I. Pfändung****
+### I. Pfändung
 
 [^tit3-lvlI-1]
 
@@ -1828,7 +1828,7 @@ Beim Gericht des Betreibungsortes sind einzureichen:
 
 <sup>3</sup> Bezieht sich der Anspruch auf ein Grundstück, so ist die Klage in jedem Fall beim Gericht des Ortes einzureichen, wo das Grundstück oder sein wertvollster Teil liegt.
 
-<sup>4</sup> Das Gericht zeigt dem Betreibungsamt den Eingang und die Erledigung der Klage an. ...[^109-2]
+<sup>4</sup> Das Gericht zeigt dem Betreibungsamt den Eingang und die Erledigung der Klage an. …[^109-2]
 
 <sup>5</sup> Bis zur Erledigung der Klage bleibt die Betreibung in Bezug auf die streitigen Gegenstände eingestellt, und die Fristen für Verwertungsbegehren (Art. 116) stehen still.
 
@@ -1872,7 +1872,7 @@ An der Pfändung können ohne vorgängige Betreibung innert 40 Tagen nach ihrem 
 
 <sup>4</sup> Das Betreibungsamt gibt dem Schuldner und den Gläubigern von einem solchen Anspruch Kenntnis und setzt ihnen eine Frist von zehn Tagen zur Bestreitung.
 
-<sup>5</sup> Wird der Anspruch bestritten, so findet die Teilnahme nur mit dem Recht einer provisorischen Pfändung statt, und der Ansprecher muss innert 20 Tagen beim Gericht des Betreibungsortes klagen; nutzt er die Frist nicht, so fällt seine Teilnahme dahin. ...[^111-8]
+<sup>5</sup> Wird der Anspruch bestritten, so findet die Teilnahme nur mit dem Recht einer provisorischen Pfändung statt, und der Ansprecher muss innert 20 Tagen beim Gericht des Betreibungsortes klagen; nutzt er die Frist nicht, so fällt seine Teilnahme dahin. …[^111-8]
 
 [^111-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -2382,7 +2382,7 @@ Der Kollokationsplan und die Verteilungsliste werden beim Betreibungsamt aufgele
 
 <sup>1</sup> Will ein Gläubiger die Forderung oder den Rang eines andern Gläubigers bestreiten, so muss er gegen diesen innert 20 Tagen nach Empfang des Auszuges beim Gericht des Betreibungsortes Kollokationsklage erheben.[^148-1]
 
-<sup>2</sup> ...[^148-2]
+<sup>2</sup> …[^148-2]
 
 <sup>3</sup> Heisst das Gericht die Klage gut, so weist es den nach der Verteilungsliste auf den Beklagten entfallenden Anteil am Verwertungserlös dem Kläger zu, soweit dies zur Deckung seines in der Verteilungsliste ausgewiesenen Verlustes und der Prozesskosten nötig ist. Ein allfälliger Überschuss verbleibt dem Beklagten.[^148-3]
 
@@ -2406,7 +2406,7 @@ Der Kollokationsplan und die Verteilungsliste werden beim Betreibungsamt aufgele
 
 <sup>4</sup> Der Schuldner hat für die durch den Verlustschein verurkundete Forderung keine Zinsen zu zahlen. Mitschuldner, Bürgen und sonstige Rückgriffsberechtigte, welche an Schuldners Statt Zinsen bezahlen müssen, können ihn nicht zum Ersatze derselben anhalten.
 
-<sup>5</sup> ...[^149-3]
+<sup>5</sup> …[^149-3]
 
 [^149-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^149-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -2628,7 +2628,7 @@ Die Konkursandrohung enthält:
 
 <sup>2</sup> Ein Doppel derselben wird dem Gläubiger zugestellt, sobald die Zustellung an den Schuldner erfolgt ist.
 
-<sup>3</sup> ...[^161-2]
+<sup>3</sup> …[^161-2]
 
 [^161-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^161-2]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -2763,25 +2763,28 @@ Das Gericht weist das Konkursbegehren ab:
 
 <sup>1</sup> Hat der Schuldner oder ein Gläubiger ein Gesuch um Nachlassstundung oder um Notstundung eingereicht, so kann das Gericht den Entscheid über den Konkurs aussetzen.[^173a-2]
 
-<sup>2</sup> Das Gericht kann den Entscheid über den Konkurs auch von Amtes wegen aussetzen, wenn Anhaltspunkte für das Zustandekommen eines Nachlassvertrages bestehen; es überweist die Akten dem Nachlassgericht[^173a-3].
+<sup>2</sup> Das Gericht kann den Entscheid über den Konkurs auch von Amtes wegen aussetzen, wenn Anhaltspunkte für eine unmittelbare Sanierung oder für das Zustandekommen eines Nachlassvertrags bestehen; es überweist die Akten dem Nachlassgericht.[^173a-3]
 
-<sup>3</sup> ...[^173a-4]
+<sup>3</sup> …[^173a-4]
 
 [^173a-1]: Eingefügt durch Art. 12 des BG vom 28. Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^173a-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^173a-3]: Ausdruck gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Die Änd. wurde im ganzen Erlass berücksichtigt.
+[^173a-3]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^173a-4]: Aufgehoben durch Ziff. I des BG vom 21. Juni 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-### 3<sup>bis</sup>. Zuständigkeit der Eidgenössischen Finanzaufsicht
+### 3<sup>bis</sup>. Zuständigkeit der Eidgenössischen Finanzmarktaufsicht
 
 #### Art. 173b
 
 [^173b-1]
 
-Betrifft das Konkursbegehren einen Schuldner, der nach den Finanzmarktgesetzen nach Artikel 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^173b-2] der Konkurszuständigkeit der Eidgenössischen Finanzmarktaufsicht (FINMA) untersteht, so überweist das Konkursgericht die Akten an die FINMA. Diese verfährt nach den spezialgesetzlichen Regeln.
+<sup>1</sup> Betrifft das Konkursbegehren einen Schuldner, der nach den Finanzmarktgesetzen nach Artikel 1 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^173b-2] der Konkurszuständigkeit der Eidgenössischen Finanzmarktaufsicht (FINMA) untersteht, so überweist das Konkursgericht die Akten an die FINMA. Diese verfährt nach den spezialgesetzlichen Regeln.
+
+<sup>2</sup> Der Konkurszuständigkeit der FINMA unterstehen nur Schuldner, die über die erforderliche Bewilligung der FINMA verfügen.[^173b-3]
 
 [^173b-1]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2003 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Fassung gemäss Anhang Ziff. II 5 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^173b-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Weiterziehung
 
@@ -2987,7 +2990,7 @@ Ein Gläubiger kann ohne vorgängige Betreibung beim Gerichte die Konkurseröffn
 
 - 1\. gegen jeden Schuldner, dessen Aufenthaltsort unbekannt ist oder der die Flucht ergriffen hat, um sich seinen Verbindlichkeiten zu entziehen, oder der betrügerische Handlungen zum Nachteile der Gläubiger begangen oder zu begehen versucht oder bei einer Betreibung auf Pfändung Bestandteile seines Vermögens verheimlicht hat;
 - 2\. gegen einen der Konkursbetreibung unterliegenden Schuldner, der seine Zahlungen eingestellt hat;
-- 3\.[^190-1] ...
+- 3\.[^190-1] …
 
 <sup>2</sup> Der Schuldner wird, wenn er in der Schweiz wohnt oder in der Schweiz einen Vertreter hat, mit Ansetzung einer kurzen Frist vor Gericht geladen und einvernommen.
 
@@ -3271,7 +3274,7 @@ Die Verrechnung ist jedoch ausgeschlossen:
 
 - 1\.[^213-1] wenn ein Schuldner des Konkursiten erst nach der Konkurseröffnung dessen Gläubiger wird, es sei denn, er habe eine vorher eingegangene Verpflichtung erfüllt oder eine für die Schuld des Schuldners als Pfand haftende Sache eingelöst, an der ihm das Eigentum oder ein beschränktes dingliches Recht zusteht (Art. 110 Ziff. 1 OR[^213-2]);
 - 2\. wenn ein Gläubiger des Schuldners erst nach der Konkurseröffnung Schuldner desselben oder der Konkursmasse wird.
-- 3\.[^213-3] ...
+- 3\.[^213-3] …
 
 <sup>3</sup> Die Verrechnung mit Forderungen aus Inhaberpapieren ist zulässig, wenn und soweit der Gläubiger nachweist, dass er sie in gutem Glauben vor der Konkurseröffnung erworben hat.[^213-4]
 
@@ -3366,7 +3369,7 @@ Die Verrechnung ist anfechtbar, wenn ein Schuldner des Konkursiten[^214-1] vor d
 [^219-subdivu2-5]: Fassung gemäss Anhang Ziff. 16 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
-### Zweite Klasse**
+### Zweite Klasse
 
 [^219-subdivu3-1]
 
@@ -3376,7 +3379,7 @@ Die Verrechnung ist anfechtbar, wenn ein Schuldner des Konkursiten[^214-1] vor d
 - b. Die Beitragsforderungen nach dem Bundesgesetz vom 20. Dezember 1946[^219-subdivu3-2] über die Alters- und Hinterlassenenversicherung, dem Bundesgesetz vom 19. Juni 1959[^219-subdivu3-3] über die Invalidenversicherung, dem Bundesgesetz vom 20. März 1981 über die Unfallversicherung, dem Erwerbsersatzgesetz vom 25. September 1952[^219-subdivu3-4] und dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^219-subdivu3-5].
 - c. Die Prämien- und Kostenbeteiligungsforderungen der sozialen Krankenversicherung.
 - d. Die Beiträge an die Familienausgleichskasse.
-- e.[^219-subdivu3-6] ...
+- e.[^219-subdivu3-6] …
 - f.[^219-subdivu3-7] Die Einlagen nach Artikel 37*a* des Bankengesetzes vom 8. November 1934[^219-subdivu3-8].
 
 [^219-subdivu3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
@@ -3412,7 +3415,7 @@ Bei den in der ersten und zweiten Klasse gesetzten Fristen werden nicht mitberec
 
 ## Siebenter Titel: Konkursverfahren
 
-### I. Feststellung der Konkursmasse und Bestimmung des Verfahrens****
+### I. Feststellung der Konkursmasse und Bestimmung des Verfahrens
 
 [^tit7-lvlI-1]
 
@@ -3424,7 +3427,7 @@ Bei den in der ersten und zweiten Klasse gesetzten Fristen werden nicht mitberec
 
 <sup>1</sup> Sofort nach Empfang des Konkurserkenntnisses schreitet das Konkursamt zur Aufnahme des Inventars über das zur Konkursmasse gehörende Vermögen und trifft die zur Sicherung desselben erforderlichen Massnahmen.
 
-<sup>2</sup> ...[^221-1]
+<sup>2</sup> …[^221-1]
 
 [^221-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3574,7 +3577,7 @@ Das summarische Konkursverfahren wird nach den Vorschriften über das ordentlich
 
 [^231-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### II. Schuldenruf****
+### II. Schuldenruf
 
 [^tit7-lvlII-1]
 
@@ -3846,7 +3849,7 @@ Im Kollokationsplan werden auch die abgewiesenen Forderungen, mit Angabe des Abw
 
 <sup>2</sup> Will er die Zulassung eines anderen Gläubigers oder dessen Rang bestreiten, so muss er die Klage gegen den Gläubiger richten. Heisst der Richter die Klage gut, so dient der Betrag, um den der Anteil des Beklagten an der Konkursmasse herabgesetzt wird, zur Befriedigung des Klägers bis zur vollen Deckung seiner Forderung einschliesslich der Prozesskosten. Ein Überschuss wird nach dem berichtigten Kollokationsplan verteilt.
 
-<sup>3</sup> ...[^250-2]
+<sup>3</sup> …[^250-2]
 
 [^250-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^250-2]: Aufgehoben durch Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
@@ -4032,7 +4035,7 @@ Nach Eingang des Erlöses der ganzen Konkursmasse und nachdem der Kollokationspl
 
 <sup>2</sup> Der Verlustschein berechtigt zum Arrest und hat die in den Artikeln 149 Absatz 4 und 149*a* bezeichneten Rechtswirkungen. Jedoch kann gestützt auf ihn eine neue Betreibung nur eingeleitet werden, wenn der Schuldner zu neuem Vermögen gekommen ist. Als neues Vermögen gelten auch Werte, über die der Schuldner wirtschaftlich verfügt.[^265-1]
 
-<sup>3</sup> ...[^265-2]
+<sup>3</sup> …[^265-2]
 
 [^265-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^265-2]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4208,7 +4211,7 @@ Die Artikel 91–109 über die Pfändung gelten sinngemäss für den Arrestvollz
 
 #### Art. 276
 
-<sup>1</sup> Der mit dem Vollzug betraute Beamte oder Angestellte verfasst die Arresturkunde, indem er auf dem Arrestbefehl die Vornahme des Arrestes mit Angabe der Arrestgegenstände und ihrer Schätzung bescheinigt, und übermittelt dieselbe sofort dem Betreibungsamte.
+<sup>1</sup> Der mit dem Vollzug betraute Beamte oder Angestellte verfasst die Arresturkunde, indem er auf dem Arrestbefehl die Vornahme des Arrestes mit Angabe der Arrestgegenstände und ihrer Schätzung bescheinigt, und übermittelt dieselbe sofort dem Betreibungsamt.
 
 <sup>2</sup> Das Betreibungsamt stellt dem Gläubiger und dem Schuldner sofort eine Abschrift der Arresturkunde zu und benachrichtigt Dritte, die durch den Arrest in ihren Rechten betroffen werden.[^276-1]
 
@@ -4320,7 +4323,7 @@ Wurden Gegenstände heimlich oder gewaltsam fortgeschafft, so können dieselben 
 
 [^284-1]: Fassung des dritten Satzes gemäss Anhang 1 Ziff. II 17 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-## Neunter Titel<sup>bis</sup>:**** Besondere Bestimmungen bei Trustverhältnissen
+## Neunter Titel<sup>bis</sup>: Besondere Bestimmungen bei Trustverhältnissen
 
 [^tit9bis-1]
 
@@ -4344,7 +4347,7 @@ Wurden Gegenstände heimlich oder gewaltsam fortgeschafft, so können dieselben 
 
 Im Konkurs eines Trustees wird nach Abzug seiner Ansprüche gegen das Trustvermögen dieses aus der Konkursmasse ausgeschieden.
 
-## Zehnter Titel: Anfechtung****
+## Zehnter Titel: Anfechtung
 
 [^tit10-1]
 
@@ -4367,12 +4370,16 @@ Zur Anfechtung sind berechtigt:[^285-2]
 - 1\.[^285-3] jeder Gläubiger, der einen provisorischen oder definitiven Pfändungsverlustschein erhalten hat;
 - 2\. die Konkursverwaltung oder, nach Massgabe der Artikel 260 und 269 Absatz 3, jeder einzelne Konkursgläubiger.
 
-<sup>3</sup> Nicht anfechtbar sind Rechtshandlungen, die während einer Nachlassstundung stattgefunden haben, sofern sie von einem Nachlassgericht oder von einem Gläubigerausschuss (Art. 295*a*) genehmigt worden sind.[^285-4]
+<sup>3</sup> Nicht anfechtbar sind Rechtshandlungen, die während einer Nachlassstundung stattgefunden haben, sofern sie von einem Nachlassgericht[^285-4] oder von einem Gläubigerausschuss (Art. 295*a*) genehmigt worden sind.[^285-5]
+
+<sup>4</sup> Nicht anfechtbar sind ferner andere Verbindlichkeiten, die mit Zustimmung des Sachwalters während der Stundung eingegangen wurden.[^285-6]
 
 [^285-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^285-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^285-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^285-4]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^285-4]: Ausdruck gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Die Änd. wurde im ganzen Erlass berücksichtigt.
+[^285-5]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^285-6]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Arten
 
@@ -4499,7 +4506,7 @@ Das Anfechtungsrecht verjährt:
 [^292-1]: Fassung gemäss Ziff. III des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^292-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 
-## Elfter Titel:**** Nachlassverfahren
+## Elfter Titel: Nachlassverfahren
 
 [^tit11-1]
 
@@ -4536,7 +4543,7 @@ Das Nachlassverfahren wird eingeleitet durch:
 <sup>3</sup> Besteht offensichtlich keine Aussicht auf Sanierung oder Bestätigung eines Nachlassvertrages, so eröffnet das Nachlassgericht von Amtes wegen den Konkurs.
 
 [^293a-1]: Eingefügt durch Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^293a-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 20. Okt. 2020 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)[4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^293a-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 20. Okt. 2020 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Provisorischer Sachwalter
 
@@ -4614,7 +4621,10 @@ Dem Sachwalter stehen insbesondere folgende Aufgaben zu:
 
 <sup>3</sup> Das Nachlassgericht kann dem Sachwalter weitere Aufgaben zuweisen.
 
+<sup>4</sup> Auf die Geschäftsführung des Sachwalters sind die Artikel 8, 8*a*, 10, 11, 14, 17–19, 34 und 35 sinngemäss anwendbar.[^295-2]
+
 [^295-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295-2]: Eingefügt durch Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Gläubigerausschuss
 
@@ -5043,13 +5053,15 @@ Der Nachlassvertrag enthält Bestimmungen über:
 
 #### Art. 319
 
-<sup>1</sup> Mit der rechtskräftigen Bestätigung des Nachlassvertrages mit Vermögensabtretung erlöschen das Verfügungsrecht des Schuldners und die Zeichnungsbefugnis der bisher Berechtigten.
+<sup>1</sup> Mit der Vollstreckbarkeit der Bestätigung des Nachlassvertrags mit Vermögensabtretung erlöschen das Verfügungsrecht des Schuldners und die Zeichnungsbefugnis der bisher Berechtigten.[^319-1]
 
 <sup>2</sup> Ist der Schuldner im Handelsregister eingetragen, so ist seiner Firma der Zusatz «in Nachlassliquidation» beizufügen. Die Masse kann unter dieser Firma für nicht vom Nachlassvertrag betroffene Verbindlichkeiten betrieben werden.
 
 <sup>3</sup> Die Liquidatoren haben alle zur Erhaltung und Verwertung der Masse sowie zur allfälligen Übertragung des abgetretenen Vermögens gehörenden Geschäfte vorzunehmen.
 
 <sup>4</sup> Die Liquidatoren vertreten die Masse vor Gericht. Artikel 242 gilt sinngemäss.
+
+[^319-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Stellung der Liquidatoren
 
@@ -5185,9 +5197,9 @@ Gleichzeitig mit der endgültigen Verteilungsliste ist auch eine Schlussrechnung
 
 <sup>3</sup> Während der Stundung kann der Schuldner nur für periodische familienrechtliche Unterhalts- und Unterstützungsbeiträge betrieben werden. Die Fristen nach den Artikeln 88, 93 Absatz 2, 116 und 154 stehen still.
 
-<sup>4</sup> Der Entscheid des Nachlassgerichts wird den Gläubigern mitgeteilt; Artikel 294 Absätze 3 und 4[^334-1] gilt sinngemäss.
+<sup>4</sup> Der Entscheid des Nachlassgerichts wird den Gläubigern mitgeteilt; Artikel 295*c* gilt sinngemäss.[^334-1]
 
-[^334-1]: Heute: Art. 295*c*.
+[^334-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Aufgaben des Sachwalters
 
@@ -5205,7 +5217,7 @@ Gleichzeitig mit der endgültigen Verteilungsliste ist auch eine Schlussrechnung
 
 In einem nachfolgenden Nachlassverfahren wird die Dauer der Stundung nach den Artikeln 333 ff. auf die Dauer der Nachlassstundung angerechnet.
 
-## Zwölfter Titel:**** Notstundung
+## Zwölfter Titel: Notstundung
 
 [^tit12-1]
 
@@ -5359,7 +5371,7 @@ Die Stundung ist auf Antrag eines Gläubigers oder des Sachwalters vom Nachlassg
 
 [^350-1]: Aufgehoben durch Ziff. I des BG vom 21. Juni 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-## Dreizehnter Titel:******** Schlussbestimmungen
+## Dreizehnter Titel: Schlussbestimmungen
 
 [^tit13-1][^tit13-2]
 
@@ -5384,7 +5396,7 @@ Der Bundesrat wird beauftragt, gemäss den Bestimmungen des Bundesgesetzes vom 1
 
 [^352-1]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 Abs. 3. [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 89 Bst. b]
 
-## Schlussbestimmungen der Änderung vom 16. Dezember 1994****
+## Schlussbestimmungen der Änderung vom 16. Dezember 1994
 
 [^u1-1]
 
@@ -5427,7 +5439,7 @@ Dieses Gesetz untersteht dem fakultativen Referendum.
 
 Der Bundesrat bestimmt das Inkrafttreten.
 
-## Schlussbestimmung zur Änderung vom 24. März 2000****
+## Schlussbestimmung zur Änderung vom 24. März 2000
 
 [^u2-1]
 
@@ -5435,7 +5447,7 @@ Der Bundesrat bestimmt das Inkrafttreten.
 
 Die im bisherigen Recht enthaltenen Privilegien (Art. 146 und 219) gelten weiter, wenn vor dem Inkrafttreten dieses Gesetzes der Konkurs eröffnet, die Pfändung vollzogen oder die Nachlassstundung bewilligt worden ist.
 
-## Schlussbestimmung der Änderung vom 19. Dezember 2003****
+## Schlussbestimmung der Änderung vom 19. Dezember 2003
 
 [^u3-1]
 
@@ -5443,7 +5455,7 @@ Die im bisherigen Recht enthaltenen Privilegien (Art. 146 und 219) gelten weiter
 
 Die Privilegien des bisherigen Rechts gelten weiter, wenn vor dem Inkrafttreten dieser Änderung der Konkurs eröffnet, die Pfändung vollzogen oder die Nachlassstundung bewilligt worden ist.
 
-## Schlussbestimmung zur Änderung vom 17. Juni 2005**** ****
+## Schlussbestimmung zur Änderung vom 17. Juni 2005
 
 [^u4-1][^u4-2]
 
@@ -5452,7 +5464,7 @@ Die Privilegien des bisherigen Rechts gelten weiter, wenn vor dem Inkrafttreten 
 
 Die Ausführungsverordnungen des Bundesgerichts bleiben in Kraft, soweit sie dem neuen Recht inhaltlich nicht widersprechen und solange der Bundesrat nichts anderes bestimmt.
 
-## Übergangsbestimmung der Änderung vom 18. Juni 2010****
+## Übergangsbestimmung der Änderung vom 18. Juni 2010
 
 [^u5-1]
 
@@ -5460,10 +5472,18 @@ Die Ausführungsverordnungen des Bundesgerichts bleiben in Kraft, soweit sie dem
 
 Die Privilegien des bisherigen Rechts gelten weiter, wenn vor dem Inkrafttreten dieser Änderung der Konkurs eröffnet, die Pfändung vollzogen oder die Nachlassstundung bewilligt worden ist.
 
-## Übergangsbestimmung zur Änderung vom 21. Juni 2013****
+## Übergangsbestimmung zur Änderung vom 21. Juni 2013
 
 [^u6-1]
 
 [^u6-1]: [AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)
 
 Wurde das Gesuch um Nachlassstundung vor dem Inkrafttreten der Änderung vom 21. Juni 2013 eingereicht, so gilt für das Nachlassverfahren das bisherige Recht.
+
+## Übergangsbestimmung zur Änderung vom 19. Juni 2020
+
+[^u7-1]
+
+[^u7-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+
+Nachlassstundungen, die vor dem Inkrafttreten der Änderung vom 19. Juni 2020 bewilligt wurden, unterstehen dem bisherigen Recht.

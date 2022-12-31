@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 d'avrigl 1889 dadavart la scussiun ed il concurs
 short: LSC
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: rm
-version: 2021-08-01
+version: 2023-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20210801/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20210801-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20230101-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20210801/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-(LSC)**[^t-1]**
+(LSC)[^t-1]
 
-dals 11 d’avrigl 1889 (versiun dal 1. d’avust 2021)
+dals 11 d’avrigl 1889 (versiun dal 1. da schaner 2023)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -823,7 +823,7 @@ Il concurs cunter in debitur en fugia vegn declerà a ses ultim lieu da domicil.
 
 Il concurs cunter in debitur na po betg vegnir declerà il medem mument en dapli ch’in lieu en Svizra. El vala sco declerà en quel lieu, nua ch’el è vegnì constatà sco emprim.
 
-### III. Uras serradas, vacanzas da scussiun e suspensiun****
+### III. Uras serradas, vacanzas da scussiun e suspensiun
 
 [^tit2-lvlIII-1]
 
@@ -1085,7 +1085,7 @@ La dumonda da scussiun sto vegnir drizzada en scrit u a bucca a l’uffizi da sc
 
 <sup>2</sup> Il creditur è autorisà da prelevar ils custs da scussiun dals emprims pajaments dal debitur.
 
-### VI. Scussiun d’in conjugal che ha ina cuminanza dals bains****
+### VI. Scussiun d’in conjugal che ha ina cuminanza dals bains
 
 [^tit2-lvlVI-1]
 
@@ -1125,7 +1125,7 @@ La dumonda da scussiun sto vegnir drizzada en scrit u a bucca a l’uffizi da sc
 [^68b-1]: Integrà tras la cifra II 3 da la LF dals 5 d’oct. 1984 davart la midada dal CCS, en vigur dapi il 1. da schan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^68b-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### VII.**** Scussiun en cas da represchentanza legala u da curatella
+### VII. Scussiun en cas da represchentanza legala u da curatella
 
 [^tit2-lvlVII-1]
 
@@ -1162,7 +1162,7 @@ La dumonda da scussiun sto vegnir drizzada en scrit u a bucca a l’uffizi da sc
 
 Sch’in debitur è responsabel mo cun la facultad libra, poi vegnir fatg valair en la procedura da revendicaziun (art. 106–109) ch’in bain impegnà na tutga betg latiers.
 
-### VIII.**** Avis da pajament ed opposiziun
+### VIII. Avis da pajament ed opposiziun
 
 [^tit2-lvlVIII-1]
 
@@ -1450,7 +1450,7 @@ Suenter l’entrada dal plant taidla la dretgira las partidas ed examinescha ils
 
 Per l’avis da pajament en cas da la scussiun sin liquidaziun dal pegn valan las disposiziuns spezialas dals artitgels 151–153, per l’avis da pajament e per l’opposiziun en cas da la scussiun sin cambialas, quellas dals artitgels 178–189.
 
-### IX. Cuntinuaziun da la scussiun****
+### IX. Cuntinuaziun da la scussiun
 
 [^tit2-lvlIX-1]
 
@@ -1470,13 +1470,13 @@ Per l’avis da pajament en cas da la scussiun sin liquidaziun dal pegn valan la
 
 [^88-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-## Terz titel: Scussiun sin impegnaziun****
+## Terz titel: Scussiun sin impegnaziun
 
 [^tit3-1]
 
 [^tit3-1]: Oriundamain avant l’art. 88.
 
-### I. Impegnaziun****
+### I. Impegnaziun
 
 [^tit3-lvlI-1]
 
@@ -1569,7 +1569,7 @@ Nunimpegnabels èn:
 [^92-12]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-13]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^92-14]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II, [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Oz: tenor l’art. 20 da la LF dals 6 d’oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
+[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Oz: tenor l’art. 20 da la LF dals 6 d’oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)).
 [^92-16]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-17]: Integrà tras l’art. 3 da la LF dals 28 da sett. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-18]: Integrà tras la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -2082,7 +2082,7 @@ Ils objects da metal prezius na dastgan betg vegnir agiuditgads per in pretsch s
 
 #### Art. 129
 
-<sup>1</sup> Il pajament sto vegnir fatg immediatamain suenter l’agiudicaziun. Il funcziunari da scussiun po dentant conceder in termin da pajament da maximalmain 20 dis. L’object vegn surdà pir, cur che l’uffizi da scussiun po disponer irrevocablamain dals daners.[^129-1]
+<sup>1</sup> Il pajament sto vegnir fatg immediatamain suenter l’agiudicaziun. Il funcziunari da scussiun po dentant conceder in termin da pajament da maximalmain 20 dis. L’object vegn surdà pir, cura che l’uffizi da scussiun po disponer irrevocablamain dals daners.[^129-1]
 
 <sup>2</sup> Fin a l’import da 100 000 francs po il pajament vegnir fatg en daner blut. Sch’il pretsch è pli aut, sto quella part che surpassa quest import vegnir reglada sur in intermediari finanzial tenor la Lescha dals 10 d’october 1997[^129-2] davart la lavada da daners suspectus. Dal rest fixescha il funcziunari da scussiun la moda da pajament.[^129-3]
 
@@ -2647,7 +2647,7 @@ Sin dumonda dal creditur sto la dretgira ch’è responsabla per la decleraziun 
 
 #### Art. 163
 
-<sup>1</sup> L’uffizi da scussiun fa il register dals bains. El dastga cumenzar cun la registraziun pir, cur che la smanatscha da concurs è consegnada; exceptads èn ils cas tenor ils artitgels 83 alinea 1 e 183.[^163-1]
+<sup>1</sup> L’uffizi da scussiun fa il register dals bains. El dastga cumenzar cun la registraziun pir, cura che la smanatscha da concurs è consegnada; exceptads èn ils cas tenor ils artitgels 83 alinea 1 e 183.[^163-1]
 
 <sup>2</sup> Ils artitgels 90–92 vegnan applitgads correspundentamain.
 
@@ -2700,7 +2700,7 @@ Sch’il creditur retira sia dumonda da concurs, na po el betg renovar la dumond
 
 #### Art. 168
 
-Cur che la dumonda da concurs è fatga, vegn la tractativa giudiziala communitgada a las partidas almain 3 dis ordavant. Ellas pon cumparair persunalmain davant dretgira u sa laschar represchentar.
+Cura che la dumonda da concurs è fatga, vegn la tractativa giudiziala communitgada a las partidas almain 3 dis ordavant. Ellas pon cumparair persunalmain davant dretgira u sa laschar represchentar.
 
 ### 4. Responsabladad per ils custs dal concurs
 
@@ -2765,13 +2765,13 @@ La dretgira refusa la dumonda da concurs:
 
 <sup>1</sup> Sch’il debitur u in creditur ha inoltrà ina dumonda da moratori d’accumodament u da moratori extraordinari, po la dretgira sistir la decisiun davart il concurs.[^173a-2]
 
-<sup>2</sup> La dretgira po er sistir d’uffizi la decisiun davart il concurs, sch’i dat indizis per la conclusiun d’in contract d’accumodament; ella surdat las actas a la dretgira d’accumodament[^173a-3].
+<sup>2</sup> La dretgira po er sistir d’uffizi la decisiun davart il concurs, sch’i dat indizis per ina sanaziun immediata u per la conclusiun d’in contract d’accumodament; ella surdat las actas a la dretgira d’accumodament.[^173a-3]
 
 <sup>3</sup> ...[^173a-4]
 
 [^173a-1]: Integrà tras l’art. 12 da la LF dals 28 da sett. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^173a-2]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^173a-3]: Expressiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Questa midada è vegnida resguardada en l’entir decret.
+[^173a-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^173a-4]: Abolì tras la cifra I da la LF dals 21 da zer. 2013, cun effect dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 3<sup>bis</sup>. Cumpetenza da l’Autoritad federala per la surveglianza dals martgads da finanzas
@@ -2780,10 +2780,13 @@ La dretgira refusa la dumonda da concurs:
 
 [^173b-1]
 
-Sche la dumonda da concurs pertutga in debitur ch’è suttamess a l’Autoritad federala per la surveglianza dals martgads da finanzas (FINMA) tenor las leschas davart ils martgads da finanzas che figureschan en l’artitgel 1 da la Lescha dals 22 da zercladur 2007[^173b-2] davart la surveglianza dals martgads da finanzas, surdat la dretgira da concurs las actas a la FINMA. Quella proceda tenor las reglas da las leschas spezialas.
+<sup>1</sup> Sche la dumonda da concurs pertutga in debitur ch’è suttamess a l’Autoritad federala per la surveglianza dals martgads da finanzas (FINMA) tenor las leschas davart ils martgads da finanzas che figureschan en l’artitgel 1 da la Lescha dals 22 da zercladur 2007[^173b-2] davart la surveglianza dals martgads da finanzas, surdat la dretgira da concurs las actas a la FINMA. Quella proceda tenor las reglas da las leschas spezialas.
+
+<sup>2</sup> A la cumpetenza da concurs da la FINMA èn suttamess mo debiturs che han la permissiun necessaria da la FINMA.[^173b-3]
 
 [^173b-1]: Integrà tras la cifra II 1 da la LF dals 3 d’oct. 2003 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Versiun tenor la cifra II 5 da l’agiunta da la LF dals 15 da zer. 2018 davart ils instituts da finanzas, en vigur dapi il 1. da schan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^173b-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^173b-3]: Integrà tras la cifra 3 da l’agiunta da la LF dals 17 da dec. 2021 (insolvenza e garanzia dals deposits), en vigur dapi il 1. da schan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 4. Recurs
 
@@ -3368,7 +3371,7 @@ La scuntrada è contestabla, sch’in debitur dal concursit[^214-1] ha acquistà
 [^219-subdivu2-5]: Versiun tenor la cifra 16 da l’agiunta da la LF da partenadi dals 18 da zer. 2004, en vigur dapi il 1. da schan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
 
-### Segunda classa**
+### Segunda classa
 
 [^219-subdivu3-1]
 
@@ -3414,7 +3417,7 @@ Per ils termins fixads en l’emprima ed en la segunda classa na vegn il suandan
 
 ## Settavel titel: Procedura da concurs
 
-### I. Constataziun da la massa da concurs e determinaziun da la procedura****
+### I. Constataziun da la massa da concurs e determinaziun da la procedura
 
 [^tit7-lvlI-1]
 
@@ -3570,13 +3573,13 @@ L’uffizi da concurs dumonda la dretgira da concurs da realisar la procedura su
 La procedura da concurs summarica vegn realisada tenor las prescripziuns davart la procedura ordinaria, cun resalva da las suandantas excepziuns:
 
 - 1\. Radunanzas dals crediturs na vegnan per regla betg convocadas. Sch’ina audiziun dals crediturs para dentant giavischabla pervia da circumstanzas spezialas, po l’uffizi da concurs envidar ils crediturs ad ina radunanza u procurar per in conclus dals crediturs sin via circulara.
-- 2\. Suenter la scadenza dal termin d’inoltraziun (art. 232 al. 2 cifra 2) exequescha l’uffizi da concurs la liquidaziun, e quai cun resguardar l’artitgel 256 alineas 2–4 e cun tegnair quint uschè bain sco pussaivel dals interess dals crediturs. Bains immobigliars dastga el liquidar pir, cur che la glista da las chargias è fatga.
+- 2\. Suenter la scadenza dal termin d’inoltraziun (art. 232 al. 2 cifra 2) exequescha l’uffizi da concurs la liquidaziun, e quai cun resguardar l’artitgel 256 alineas 2–4 e cun tegnair quint uschè bain sco pussaivel dals interess dals crediturs. Bains immobigliars dastga el liquidar pir, cura che la glista da las chargias è fatga.
 - 3\. L’uffizi da concurs designescha ils bains necessaris en l’inventari ed expona quel ensemen cun il plan da collocaziun.
 - 4\. La glista da repartiziun na sto betg vegnir exponida.
 
 [^231-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
-### II. Clom da quints****
+### II. Clom da quints
 
 [^tit7-lvlII-1]
 
@@ -4251,7 +4254,7 @@ Ils objects sequestrads vegnan laschads a la disposiziun dal debitur, sch’el p
 
 <sup>2</sup> Sch’il debitur fa opposiziun, sto il creditur pretender l’avertura da dretg u inoltrar in plant sin renconuschientscha da sia pretensiun, e quai entaifer 10 dis, suenter ch’el ha survegnì la copia da l’avis da pajament dal debitur. Sch’il creditur vegn refusà en la procedura d’avertura da dretg, sto el inoltrar il plant entaifer 10 dis suenter la communicaziun da la decisiun[^279-2].[^279-3]
 
-<sup>3</sup> Sch’il debitur n’ha betg fatg opposiziun, sto il creditur far la dumonda da cuntinuaziun, e quai entaifer 20 dis, suenter ch’el ha survegnì la copia da l’avis da pajament dal debitur. Sche l’opposiziun vegn annullada posteriuramain, cumenza il termin a currer cur che l’opposiziun vegn annullada cun vigur legala. Tut tenor la persuna dal debitur vegn la scussiun cuntinuada sin via da l’impegnaziun u dal concurs.[^279-4]
+<sup>3</sup> Sch’il debitur n’ha betg fatg opposiziun, sto il creditur far la dumonda da cuntinuaziun, e quai entaifer 20 dis, suenter ch’el ha survegnì la copia da l’avis da pajament dal debitur. Sche l’opposiziun vegn annullada posteriuramain, cumenza il termin a currer cura che l’opposiziun vegn annullada cun vigur legala. Tut tenor la persuna dal debitur vegn la scussiun cuntinuada sin via da l’impegnaziun u dal concurs.[^279-4]
 
 <sup>4</sup> Sch’il creditur ha purtà plant davant dretgira per sia pretensiun senza scussiun precedenta, sto el introducir la scussiun entaifer 10 dis suenter la communicaziun da la decisiun.
 
@@ -4322,7 +4325,7 @@ Objects ch’èn vegnids manads davent dascusamain u cun forza pon vegnir purtad
 
 [^284-1]: Versiun da la terza frasa tenor la cifra II 17 da l’agiunta 1 dal Cudesch da procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-## Novavel titel<sup>bis</sup>:**** Disposiziuns spezialas en cas da relaziuns da trust
+## Novavel titel<sup>bis</sup>: Disposiziuns spezialas en cas da relaziuns da trust
 
 [^tit9bis-1]
 
@@ -4346,7 +4349,7 @@ Objects ch’èn vegnids manads davent dascusamain u cun forza pon vegnir purtad
 
 En cas d’in concurs d’in trustee vegn la facultad dal trust separada da la massa da concurs, suenter che las pretensiuns dal trustee envers la facultad dal trust èn vegnidas deducidas.
 
-## Dieschavel titel: Contestaziun****
+## Dieschavel titel: Contestaziun
 
 [^tit10-1]
 
@@ -4369,12 +4372,16 @@ Il dretg da far la contestaziun ha:[^285-2]
 - 1\.[^285-3] mintga creditur che ha survegnì in attest da perdita provisoric u definitiv suenter l’impegnaziun;
 - 2\. l’administraziun da concurs u, a norma dals artitgels 260 e 269 alinea 3, mintga singul creditur da concurs.
 
-<sup>3</sup> Ils acts giuridics che han gì lieu durant in moratori d’accumodament na pon betg vegnir contestads, premess ch’els sajan vegnids approvads d’ina dretgira d’accumodament u d’ina cumissiun dals crediturs (art. 295*a*).[^285-4]
+<sup>3</sup> Ils acts giuridics che han gì lieu durant in moratori d’accumodament na pon betg vegnir contestads, premess ch’els sajan vegnids approvads d’ina dretgira d’accumodament[^285-4] u d’ina cumissiun dals crediturs (art. 295*a*).[^285-5]
+
+<sup>4</sup> Betg contestablas n’èn plinavant autras obligaziuns ch’èn vegnidas surpigliadas durant il moratori cun il consentiment dal cumissari.[^285-6]
 
 [^285-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^285-2]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^285-3]: Versiun tenor la cifra I da la LF dals 16 da dec. 1994, en vigur dapi il 1. da schan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^285-4]: Integrà tras la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^285-4]: Expressiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Questa midada è vegnida resguardada en l’entir decret.
+[^285-5]: Integrà tras la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^285-6]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Differents cas
 
@@ -4501,7 +4508,7 @@ Il dretg da contestar surannescha:
 [^292-1]: Versiun tenor la cifra III da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^292-2]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 
-## Indeschavel titel:**** Procedura d’accumodament
+## Indeschavel titel: Procedura d’accumodament
 
 [^tit11-1]
 
@@ -4538,7 +4545,7 @@ La procedura d’accumodament vegn introducida tras:
 <sup>3</sup> Sch’i n’exista apparentamain nagina perspectiva sin sanaziun u sin conferma d’in concordat, declera la dretgira d’accumodament d’uffizi il concurs.
 
 [^293a-1]: Integrà tras la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^293a-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi ils 20 d’oct. 2020 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)[4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^293a-2]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi ils 20 d’oct. 2020 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Cumissari provisoric
 
@@ -4616,7 +4623,10 @@ Il cumissari ha en spezial las suandantas incumbensas:
 
 <sup>3</sup> La dretgira d’accumodament po attribuir ulteriuras incumbensas al cumissari.
 
+<sup>4</sup> Per la gestiun dal cumissari èn ils artitgels 8, 8*a*, 10, 11, 14, 17–19, 34 e 35 applitgabels tenor il senn.[^295-2]
+
 [^295-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295-2]: Integrà tras la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Cumissiun dals crediturs
 
@@ -5045,13 +5055,15 @@ Il contract d’accumodament cuntegna disposiziuns davart:
 
 #### Art. 319
 
-<sup>1</sup> Cun confermar cun vigur legala il contract d’accumodament cun cessiun da facultad extinguan il dretg da disponer dal debitur ed il dretg da suttascriver da las persunas che han gì quest dretg fin ussa.
+<sup>1</sup> Cura che la conferma dal contract d’accumodament cun cessiun da facultad è executabla, extinguan il dretg dal debitur da disponer da ses bains sco er il dretg da suttascripziun da las persunas che han gì quest dretg fin lura.[^319-1]
 
 <sup>2</sup> Sch’il debitur è inscrit en il register da commerzi, sto vegnir agiuntada a sia firma la remartga «en liquidaziun d’accumodament». La massa po vegnir stumada sut questa firma per obligaziuns che n’èn betg pertutgadas dal contract d’accumodament.
 
 <sup>3</sup> Ils liquidaturs ston exequir tut las fatschentas ch’èn necessarias per mantegnair e per liquidar la massa sco er per transferir eventualmain la facultad cedida.
 
 <sup>4</sup> Ils liquidaturs represchentan la massa davant dretgira. L’artitgel 242 vala tenor il senn.
+
+[^319-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Posiziun dals liquidaturs
 
@@ -5117,7 +5129,7 @@ Avant mintga pajament a quint, er sch’el è mo provisoric, ston ils liquidatur
 
 <sup>1</sup> Ils crediturs da pegn, dals quals ils pegns èn gia vegnids liquidads il mument che la glista da repartiziun provisorica vegn exponida, sa participeschan ad ina repartiziun provisorica per l’import da la sperdita da pegn effectiva. L’autezza da questa repartiziun provisorica vegn fixada dals liquidaturs. Lur disposiziun po vegnir contestada mo cun in recurs tenor l’artitgel 326.
 
-<sup>2</sup> Sch’il pegn n’è betg anc liquidà cur che la glista da repartiziun provisorica vegn exponida, sto il creditur da pegn vegnir resguardà cun la pretensiun da sperdita presumtiva ch’il cumissari ha constatà en sia stimaziun. Sch’il creditur da pegn cumprova ch’il retgav dal pegn è pli pitschen che la stimaziun, ha el il dretg da survegnir ina dividenda correspundenta ed in pajament a quint.
+<sup>2</sup> Sch’il pegn n’è betg anc liquidà cura che la glista da repartiziun provisorica vegn exponida, sto il creditur da pegn vegnir resguardà cun la pretensiun da sperdita presumtiva ch’il cumissari ha constatà en sia stimaziun. Sch’il creditur da pegn cumprova ch’il retgav dal pegn è pli pitschen che la stimaziun, ha el il dretg da survegnir ina dividenda correspundenta ed in pajament a quint.
 
 <sup>3</sup> Uschenavant ch’il retgav dal pegn ed ils pajaments a quint gia retratgs per la sperdita stimada chaschunan ina surcuvrida, è il creditur da pegn obligà da restituir quai ch’el ha survegnì da memia.
 
@@ -5187,9 +5199,9 @@ Il medem mument cun la glista da repartiziun definitiva sto er vegnir exponì in
 
 <sup>3</sup> Durant il moratori po il debitur vegnir stumà mo per contribuziuns periodicas da mantegniment e da sustegn sin basa dal dretg da famiglia. Ils termins tenor ils artitgels 88, 93 alinea 2, 116 e 154 vegnan suspendids.
 
-<sup>4</sup> La decisiun da la dretgira d’accumodament vegn communitgada als crediturs; l’artitgel 294 alineas 3 e 4[^334-1] valan tenor il senn.
+<sup>4</sup> La decisiun da la dretgira d’accumodament vegn communitgada als crediturs; l’artitgel 295*c* vala tenor il senn.[^334-1]
 
-[^334-1]: Oz: Art. 295*c*.
+[^334-1]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Incumbensas dal cumissari
 
@@ -5207,7 +5219,7 @@ Il medem mument cun la glista da repartiziun definitiva sto er vegnir exponì in
 
 En ina procedura d’accumodament suandanta vegn la durada dal moratori tenor ils artitgels 333 ss. quintada tar la durada dal moratori d’accumodament.
 
-## Dudeschavel titel:**** Moratori extraordinari
+## Dudeschavel titel: Moratori extraordinari
 
 [^tit12-1]
 
@@ -5361,7 +5373,7 @@ Il moratori sto vegnir revocà da la dretgira d’accumodament sin dumonda d’i
 
 [^350-1]: Abolì tras la cifra I da la LF dals 21 da zer. 2013, cun effect dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-## Tredeschavel titel:******** Disposiziuns finalas
+## Tredeschavel titel: Disposiziuns finalas
 
 [^tit13-1][^tit13-2]
 
@@ -5386,7 +5398,7 @@ Il Cussegl federal vegn incumbensà da publitgar questa lescha sin basa da las d
 
 [^352-1]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3. [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 lit. b]
 
-## Disposiziuns finalas da la midada dals 16 da december 1994****
+## Disposiziuns finalas da la midada dals 16 da december 1994
 
 [^u1-1]
 
@@ -5429,7 +5441,7 @@ Questa lescha è suttamessa al referendum facultativ.
 
 Il Cussegl federal fixescha l’entrada en vigur.
 
-## Disposiziun finala da la midada dals 24 da mars 2000****
+## Disposiziun finala da la midada dals 24 da mars 2000
 
 [^u2-1]
 
@@ -5437,7 +5449,7 @@ Il Cussegl federal fixescha l’entrada en vigur.
 
 Ils privilegis ch’il dretg vertent cuntegna (art. 146 e 219) valan vinavant, sch’il concurs è vegnì declerà, sche l’impegnaziun è vegnida exequida u sch’il moratori d’accumodament è vegnì concedì avant l’entrada en vigur da questa lescha.
 
-## Disposiziun finala da la midada dals 19 da december 2003****
+## Disposiziun finala da la midada dals 19 da december 2003
 
 [^u3-1]
 
@@ -5445,7 +5457,7 @@ Ils privilegis ch’il dretg vertent cuntegna (art. 146 e 219) valan vinavant, s
 
 Ils privilegis dal dretg vertent valan vinavant, sch’il concurs è vegnì declerà, sche l’impegnaziun è vegnida exequida u sch’il moratori d’accumodament è vegnì concedì avant l’entrada en vigur da questa midada.
 
-## Disposiziun finala da la midada dals 17 da zercladur 2005**** ****
+## Disposiziun finala da la midada dals 17 da zercladur 2005
 
 [^u4-1][^u4-2]
 
@@ -5454,7 +5466,7 @@ Ils privilegis dal dretg vertent valan vinavant, sch’il concurs è vegnì decl
 
 Las ordinaziuns executivas dal Tribunal federal restan en vigur, uschenavant che lur cuntegn na cuntradi betg al dretg nov ed uscheditg ch’il Cussegl federal na dispona betg autramain.
 
-## Disposiziun transitorica da la midada dals 18 da zercladur 2010****
+## Disposiziun transitorica da la midada dals 18 da zercladur 2010
 
 [^u5-1]
 
@@ -5462,7 +5474,7 @@ Las ordinaziuns executivas dal Tribunal federal restan en vigur, uschenavant che
 
 Ils privilegis dal dretg vertent valan vinavant, sch’il concurs è vegnì declerà, sche l’impegnaziun è vegnida exequida u sch’il moratori d’accumodament è vegnì concedì avant l’entrada en vigur da questa midada.
 
-## Disposiziun transitorica da la midada dals 21 da zercladur 2013****
+## Disposiziun transitorica da la midada dals 21 da zercladur 2013
 
 [^u6-1]
 
@@ -5470,12 +5482,10 @@ Ils privilegis dal dretg vertent valan vinavant, sch’il concurs è vegnì decl
 
 Sche la dumonda per in moratori d’accumodament è vegnida inoltrada avant l’entrada en vigur da la midada dals 21 da zercladur 2013, vala il dretg vertent per la procedura d’accumodament.
 
-Disposiziun finala da la midada dals 24 da mars 2000
+## Disposiziun transitorica da la midada dals 19 da zercladur 2020
 
-Disposiziun finala da la midada dals 19 da december 2003
+[^u7-1]
 
-Disposiziun finala da la midada dals 17 da zercladur 2005
+[^u7-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-Disposiziun transitorica da la midada dals 18 da zercladur 2010
-
-Disposiziun transitorica da la midada dals 21 da zercladur 2013
+Moratoris d’accumodament ch’èn vegnids permess avant l’entrada en vigur da la midada dals 19 da zercladur 2020, èn suttamess al dretg anteriur.
