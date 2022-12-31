@@ -3,13 +3,12 @@ canton: FR
 number: "631.33"
 title: Beschluss über die Besteuerung der nichtlandwirtschaftlichen Liegenschaften
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+version_adopted: 2023-01-10
 adopted: 1992-04-09
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.33"
-pdf: "https://bdlf.fr.ch/api/de/versions/7451/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7451/pdf_file"
 
 Besteuerung der nichtlandwirtschaftlichen Liegenschaften – B
 
-vom 09.04.1992 (Fassung in Kraft getreten am 01.01.2022)
+vom 09.04.1992 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 

@@ -3,13 +3,12 @@ canton: FR
 number: "631.33"
 title: "Arrêté concernant l'imposition des immeubles non agricoles"
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+version_adopted: 2023-01-10
 adopted: 1992-04-09
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.33"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7451/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8434/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7451/pdf_file"
 
 Imposition des immeubles non agricoles – A
 
-du 09.04.1992 (version entrée en vigueur le 01.01.2022)
+du 09.04.1992 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
