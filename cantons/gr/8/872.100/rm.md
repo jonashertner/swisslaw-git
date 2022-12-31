@@ -2,447 +2,474 @@
 canton: GR
 number: "872.100"
 title: Lescha davart il traffic public en il chantun Grischun
-short: LTP
+short: LTrP
 language: rm
-version: 2012-12-01
-corrected: 2014-10-26
-version_adopted: 2011-10-19
+version: 2023-01-01
+version_adopted: 2022-09-02
 adopted: 2022-09-02
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/872.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1569/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3291/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart il traffic public en il chantun Grischun (LTP)
+# Lescha davart il traffic public en il chantun Grischun
 
-sa basond sin l'art. 42bis da la constituziun chantunala[^t-1]
+(LTrP)
 
-acceptada dal pievel ils 7 da mars 1993[^t-2]
+dals 02-09-2022 (versiun dals 01-01-2023)
 
-I. Champ d'applicaziun ed intent
+Il Cussegl grond dal chantun Grischun[^ingress-1],
 
-[^t-1]: en la nova CC art. 82 al. 3; DG 110.100
-[^t-2]: M dals 10 da zercladur 1992, 191; PCG 1992/93, 311
+sa basond sin l'art. 82 al. 1 ed al. 3 da la Constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la Regenza dals 3 da matg 2022[^ingress-3],
+
+concluda:
+
+[^ingress-1]: PCG 2022/2023, 49
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 103
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**Champ d'applicaziun**
+**Object e champ d'applicaziun**
 
-A questa lescha èn suttamessas las interpresas da transport ch'èn activas en il chantun Grischun sin il champ dal traffic public, e quai independentamain da lur furma giuridica.
+<sup>1</sup> Questa lescha regla il traffic public en il chantun Grischun areguard l'avertura, areguard la purschida, areguard las contribuziuns, areguard las cumpetenzas ed areguard la procedura.
+
+<sup>2</sup> Ultra da quai regla ella l'empustaziun e la finanziaziun dal transport da rauba cun la viafier en il chantun Grischun.
+
+<sup>3</sup> A questa lescha èn suttamessas las interpresas da transport ch'èn activas en il chantun Grischun, las vischnancas, las regiuns, las corporaziuns da vischnancas ed organisaziuns sumegliantas che adempleschan incumbensas en il sectur dal traffic public en il chantun.
 
 #### Art. 2
 
 **Intent**
 
-<sup>1</sup> Il chantun e las vischnancas garanteschan l'avertura areguard il traffic dal chantun cun meds da transport publics e creeschan impuls per che quels vegnian utilisads pli savens.
+<sup>1</sup> Resguardond ina politica persistenta d'abitadi, d'economia, d'energia, d'ambient e sociala promovan il chantun e las vischnancas il traffic public cun la finamira:
 
-<sup>2</sup> Els promovan il traffic public da persunas ed il traffic da rauba sin la viafier cun la finamira da proteger l'uman e ses ambient, d'utilisar l'energia en moda spargnusa ed economica e da coordinar il traffic public e privat.
+- a) da garantir in'avertura commensurada da tut ils lieus coordinond tut il traffic;
+- b) da garantir l'utilisaziun effizienta dals meds finanzials dal maun public en il rom da las prescripziuns finanzialas;
+- c) d'utilisar l'energia en moda spargnusa ed economica sco er da schanegiar l'ambient;
+- d) da stgaffir stimuls per midar al traffic public;
+- e) da resguardar e d'integrar novas tecnologias e furmas da mobilitad en la concepziun da traffic.
 
-### II. Viafiers federalas svizras ed interpresas da viafier
-
-concessiunadas
+<sup>2</sup> Il chantun coordinescha il traffic public cun il traffic a gronda distanza e cun il transport da rauba cun la viafier.
 
 #### Art. 3
 
-**Princip**
+**Coordinaziun e collavuraziun**
 
-Las Viafiers federalas svizras e las interpresas da viafier concessiunadas garanteschan l'avertura areguard il traffic dal chantun cun meds da transport publics en il traffic regiunal e surregiunal.
+<sup>1</sup> En collavuraziun cun la Confederaziun, cun las vischnancas, cun las regiuns, cun las corporaziuns da vischnancas sco er cun organisaziuns sumegliantas coordinescha il chantun las mesiras per il traffic public e per il transport da rauba cun la viafier. El coordinescha las mesiras cun il traffic individual motorisà e cun il traffic da peduns e da velos.
+
+<sup>2</sup> Il chantun collavura cun la Confederaziun, cun ils chantuns vischins, cun l'exteriur vischin, cun las vischnancas, cun las regiuns, cun las corporaziuns da vischnancas, cun organisaziuns sumegliantas sco er cun las interpresas da transport.
 
 #### Art. 4
 
-**Interpresas da viafier concessiunadas**
+**Noziuns**
 
-<sup>1</sup> Il chantun surpiglia la part chantunala da las contribuziuns che la confederaziun conceda a las interpresas da viafier concessiunadas tenor las disposiziuns da la lescha federala da viafier[^4-1].
+<sup>1</sup> En il senn da questa lescha chapeschan ins:
 
-<sup>2</sup> La furma, las pretensiuns e las cundiziuns da las contribuziuns chantunalas sa drizzan en general tenor ils conclus da la confederaziun.
+- a) traffic public: purschidas da traffic per avrir lieus cun meds da transport ch'èn accessibels per tut las persunas e che circuleschan per regla tenor in urari publitgà;
+- b) transport da rauba cun la viafier: transport da rauba cun la viafier sco er transtgargiada da rauba en il rom dal traffic cumbinà;
+- c) interpresas da transport: interpresas dal traffic public che furneschan ina prestaziun da transport per incumbensa publica;
+- d) tips d'avertura: attribuziun da l'avertura en il territori chantunal cun il traffic public en il rom da l'avertura da basa (traffic regiunal da persunas ed avertura fundamentala), da l'avertura supplementara u dal traffic local;
+- e) purschida: lingia dal traffic public cun in tschert dumber da pèrs da curs ch'èn dividids en differents stgalims da purschida;
+- f) contribuziuns da gestiun: contribuziuns che vegnan pajadas – sin basa d'ina cunvegna davart la purschida – per regla sco indemnisaziun dals custs planisads betg cuvrids en il rom da la procedura d'empustaziun;
+- g) contribuziuns d'investiziun u da promoziun: avantatgs finanzials che vegnan concedids a la petenta u al petent, sch'ella u el impunda en moda adequata agens meds finanzials;
+- h) novas furmas da mobilitad: purschidas dal traffic public e dal transport da rauba cun la viafier che na circuleschan betg stringentamain tenor in urari publitgà.
 
-<sup>3</sup> Il chantun po colliar sias contribuziuns cun cundiziuns e cun pretensiuns supplementaras u conceder sias contribuziuns a meglras cundiziuns.
+## 2. Purschida
 
-[^4-1]: CS 742.101 1-12-2012 1
+### 2.1. Planisaziun
 
 #### Art. 5
 
-**Construcziun da novas lingias**
+**Concept chantunal dal traffic public**
 
-Il chantun po sa participar a la construcziun da novas lingias da viafier cun contribuziuns.
+<sup>1</sup> Il concept chantunal dal traffic public serva a planisar a media vista ed a diriger a lunga vista la purschida. El vegn repassà ed approvà periodicamain tras il chantun en il senn d'ina planisaziun successiva.
 
-[^5-1]: abolì tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1629, entrà en vigur il 1. da schaner 2008 2 1-12-2012
+<sup>2</sup> Tar l'elavuraziun dal concept chantunal dal traffic public accepta il chantun ils interess da las vischnancas, da las corporaziuns da vischnancas e da las regiuns sur las presidentas ed ils presidents d'urari. El po consultar las interpresas da transport ch'èn activas en il traffic public sin il territori chantunal.
+
+### 2.2. Avertura
 
 #### Art. 6
 
-[^5-1]
+**Stgalims da purschida en il traffic public**
 
-### III. Servetschs publics da transport sin via
-
-- 1\. DISPOSIZIUNS GENERALAS
+<sup>1</sup> Per avrir il territori chantunal cun il traffic public vegnan definids stgalims da purschida. Il chantun fixescha las valurs directivas.
 
 #### Art. 7
 
-**Princip**
+**Tips d'avertura en il traffic public**
 
-Ils servetschs publics da transport sin via garanteschan l'avertura areguard il traffic dal chantun cun meds da transport publics en il traffic local, en il traffic regiunal ed en cas da basegn en il traffic surregiunal. Sche pussaivel pon els vegnir favurisads visavi il traffic privat tras mesiras adattadas.
+<sup>1</sup> Las vischnancas han il dretg d'ina avertura da basa commensurada che correspunda a la dumonda. La purschida vegn adattada tenor ils basegns durant il di e durant la stagiun.
+
+<sup>2</sup> Las vischnancas che n'adempleschan betg las premissas tenor l'alinea 1 areguard la dumonda per in'avertura da basa, han il dretg d'ina avertura fundamentala. Sco criteri s'orientescha ella al dumber d'abitantas ed abitants. Davart il dretg d'avertura da fracziuns communalas decida il chantun.
+
+<sup>3</sup> L'avertura supplementara cumpiglia la purschida che surpassa l'avertura da basa. Ella tegna quint da finamiras da la politica dals abitadis e da la regiun sco er da finamiras economicas e turisticas.
+
+<sup>4</sup> Il traffic local cumpiglia l'avertura entaifer in lieu.
+
+### 2.3. Empustaziun
+
+### 2.3.1. Traffic public
 
 #### Art. 8
 
-**Servetschs publics da transport sin via**
+**Avertura da basa e supplementara**
 
-Ils servetschs publics da transport sin via cumpiglian a) il servetsch d'autos da posta e b) las interpresas concessiunadas da transport sin via.
+<sup>1</sup> En il rom da l'avertura da basa emposta il chantun ensemen cun la Confederaziun l'avertura cun il traffic regiunal da persunas e supplementarmain in'avertura fundamentala.
+
+<sup>2</sup> En collavuraziun cun las vischnancas, cun las regiuns, cun las corporaziuns da vischnancas u cun organisaziuns sumegliantas po il chantun empustar in'avertura che surpassa quella tenor l'alinea 1 (avertura supplementara), e quai resguardond la dumonda sco er la rentabilitad.
+
+<sup>3</sup> La procedura d'empustaziun sa drizza tenor las disposiziuns respectivas da l'Ordinaziun davart l'indemnisaziun dal transport regiunal da persunas[^8-1] concernent empustaziuns cuminaivlas da la Confederaziun e dals chantuns, uschenavant ch'il chantun na relascha betg disposiziuns divergentas per l'avertura fundamentala e supplementara. Empè da la Confederaziun (Uffizi federal da traffic) agescha il chantun. Per regla è il chantun cumpetent per l'empustaziun tenor l'alinea 2.
+
+<sup>4</sup> Durant l'onn tranteren da la procedura d'empustaziun da la Confederaziun che dura 2 onns po il chantun adattar l'empustaziun da l'avertura da basa u da l'avertura supplementara.
+
+[^8-1]: CS [745.16](https://db.clex.ch/link/Bund/745.16/rm)
 
 #### Art. 9
 
 **Traffic local**
 
-Sco traffic local valan – cun resalva da l'artitgel 11 alinea 3 – lingias entaifer ina vischnanca.
+<sup>1</sup> Per empustar il traffic local èn cumpetentas las vischnancas.
 
-- 2\. TRAFFIC REGIUNAL E SURREGIUNAL
+<sup>2</sup> L'empustaziun sto vegnir coordinada cun las chadainas da transport da la purschida surordinada dal traffic public.
+
+### 2.3.2. Transport da rauba cun la viafier
 
 #### Art. 10
 
-**Concentraziun da la purschida da traffic sin lingias existentas**
+**Rolla dal chantun**
 
-<sup>1</sup> La concentraziun da la purschida da traffic sin lingias existentas sa drizza tenor il potenzial da dumonda en l'intschess d'ina lingia. En quest connex vegnan differenziads territoris pauc populads, territoris rurals e territoris fitg populads.
+<sup>1</sup> Il chantun emposta il transport da rauba cun la viafier da las interpresas da transport ch'èn activas en il chantun Grischun.
 
-<sup>2</sup> Sch'ina lingia mussa in potenzial da dumonda different sin singuls trajects, sto quai vegnir resguardà tar la calculaziun da la densitad dal servetsch.
+## 3. Contribuziuns
 
 #### Art. 11
 
-**Furmas d'avertura 1. differenziaziun**
+**Finanziaziun**
 
-<sup>1</sup> En mintga intschess d'ina lingia vegn differenzià tranter l'avertura da basa, l'avertura supplementara e l'avertura detagliada.
+<sup>1</sup> Las contribuziuns chantunalas vegnan finanziadas sur las finanzas generalas dal chantun.
 
-<sup>2</sup> Las vischnancas han il dretg d'ina avertura da basa e d'ina avertura supplementara.
-
-<sup>3</sup> Davart il dretg d'avertura da fracziuns communalas decida la regenza.
+### 3.1. Contribuziuns da gestiun
 
 #### Art. 12
 
-**2. avertura da basa e supplementara**
+**Traffic public**
 
-<sup>1</sup> L'avertura da basa garantescha la mobilitad minimala.
+<sup>1</sup> Il chantun paja sia part als custs betg cuvrids dal traffic regiunal da persunas.
 
-<sup>2</sup> L'avertura supplementara cuvra il basegn che surpassa la mobilitad minimala. En quest connex resguarda ella er finamiras da la politica dals abitadis e da la regiun sco er finamiras economicas e turisticas.
+<sup>2</sup> Il chantun finanziescha ils custs betg cuvrids da l'avertura fundamentala.
 
-<sup>3</sup> La fin d'emna e durant firads vegn la purschida adattada als basegns spezials dals intschess correspundents.
+<sup>3</sup> Il chantun paja ina contribuziun da 50 fin 80 pertschient als custs betg cuvrids da l'avertura supplementara. En cas da pliras vischnancas vegn la part dals custs vi dals custs betg cuvrids da l'avertura supplementara calculada per mintga vischnanca tenor il dumber d'abitantas e d'abitants, nun che las vischnancas fixeschian in'autra clav da repartiziun.
+
+<sup>4</sup> Las vischnancas finanzieschan ils custs dal traffic local.
+
+<sup>5</sup> Ils custs d'amortisaziun e da finanziaziun d'investiziuns novas e d'investiziuns substitutivas valan per regla sco custs indemnisabels, uschenavant che quels èn vegnids approvads ordavant dals empustaders.
 
 #### Art. 13
 
-**3. avertura detagliada**
+**Transport da rauba cun la viafier**
 
-L'avertura detagliada cumpiglia la purschida da meds da transport publics che surpassa l'avertura supplementara concedida.
+<sup>1</sup> Il chantun paja sia part als custs betg cuvrids dal transport da rauba cun la viafier.
 
 #### Art. 14
 
-**Furmas spezialas d'utilisaziun**
+**Cunvegnas davart la purschida**
 
-Per furmas spezialas d'utilisaziun sco bus tenor necessitad, bus sin dumonda, taxis collectivs e.u.v. valan ils princips dals artitgels 9 – 13 confurm al senn.
+<sup>1</sup> Il chantun fa cunvegnas davart la purschida cun las interpresas da transport per la purschida ch'el ha empustà en atgna cumpetenza.
 
-- 3\. FINANZIAZIUN
+<sup>2</sup> Dal rest vegn la cunvegna davart la purschida concludida tenor las disposiziuns respectivas da l'Ordinaziun davart l'indemnisaziun dal transport da persunas regiunal[^14-1].
+
+[^14-1]: CS [745.16](https://db.clex.ch/link/Bund/745.16/rm)
 
 #### Art. 15
 
-**Contribuziuns dal chantun**
+**Transport d'autos**
 
-<sup>1</sup> En il traffic regiunal e surregiunal surpiglia il chantun la part restanta dals custs betg cuvrids per l'avertura da basa e supplementara sco er per las furmas spezialas d'utilisaziun.
+<sup>1</sup> A favur dal transport d'autos cun la viafier na vegnan concedidas naginas contribuziuns.
 
-<sup>2</sup>[^15-1]Sche la confederaziun na confinanziescha betg prestaziuns tenor l'alinea 1, po il chantun sa participar als custs betg cuvrids, sche l'interess public dad ina u da pliras vischnancas pretenda quai.
-
-<sup>3</sup> Las contribuziuns dal chantun tenor l'alinea 2 importan 20 pertschient fin 55 pertschient e vegnan calculadas tenor il dumber d'abitantas e d'abitants e tenor la forza finanziala da las vischnancas cumpigliadas. Quai vala er per la part da las vischnancas, sche quellas na fixeschan betg in'autra clav da repartiziun.
-
-[^15-1]: versiun tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1629; entrà en vigur il 1. da schaner 2008 1-12-2012 3
+<sup>2</sup> Per singulas colliaziuns po il chantun pajar excepziunalmain per motivs da la politica regiunala u per auters motivs impurtants contribuziuns als custs betg cuvrids, sch'il manaschi da talas colliaziuns n'è betg supportabel per motivs economics.
 
 #### Art. 16
 
-**Contribuziuns da las vischnancas**
+**Purschidas transcunfinalas**
 
-Las vischnancas surpiglian ils custs betg cuvrids dal traffic local sco er – en il traffic regiunal e surregiunal – ils deficits da gestiun da l'avertura da basa e supplementara tenor l'artitgel 15 alinea 3 ed ils custs da l'avertura detagliada.
+<sup>1</sup> Il chantun po sa participar a l'empustaziun da purschidas transcunfinalas en il traffic da lingia, sche las parts interessadas ordaifer il chantun sa participeschan en moda adequata a la finanziaziun dals custs betg cuvrids.
+
+<sup>2</sup> Per trajects curts ordaifer il territori chantunal po il chantun excepziunalmain desister da la participaziun finanziala da terzas varts.
+
+### 3.2. Contribuziuns da promoziun
 
 #### Art. 17
 
-**Exclusiun da contribuziuns chantunalas**
+**Mesiras per promover il traffic public**
 
-Per prestaziuns da l'economia dal martgà na vegnan pajadas naginas contribuziuns. Ellas crodan en il champ da responsabladad dals servetschs publics da transport sin via. A quels appartegnan particularmain bus per skiunzas e skiunzs e prestaziuns che servan primarmain al traffic turistic.
+<sup>1</sup> Per promover il traffic public po il chantun conceder contribuziuns. Las suandantas mesiras pon vegnir sustegnidas:
+
+- a) lingias turisticas dal traffic public;
+- b) manaschis d'emprova;
+- c) mesiras transcunfinalas;
+- d) novas furmas da mobilitad;
+- e) mesiras en connex cun il traffic public, che eviteschan u che reduceschan essenzialmain l'emissiun da CO₂;
+- f) ulteriuras mesiras che faciliteschan l'utilisaziun dals meds da traffic public u che promovan la midada a quels;
+- g) consorzis tariffars.
+
+<sup>2</sup> Las contribuziuns importan fin 50 pertschient dals custs betg cuvrids. Las contribuziuns vegnan fixadas tenor l'interess chantunal per la mesira ord vista dal traffic public.
+
+<sup>3</sup> Sche l'interess dal chantun per la mesira predominescha, po il chantun augmentar las contribuziuns tenor l'alinea 2.
+
+<sup>4</sup> Exclusa è la promoziun, sche las mesiras èn d'attribuir exclusivamain al traffic local. In'excepziun è l'artitgel 22 da questa lescha.
 
 #### Art. 18
 
-**Far cunvegnas**
+**Lingias turisticas dal traffic public**
 
-Il chantun e las vischnancas pon reglar la moda e la dimensiun da meglieraziuns da purschida sco er l'indemnisaziun en cunvegnas cun ils servetschs publics da transport sin via.
+<sup>1</sup> Il chantun po conceder contribuziuns a favur da lingias turisticas dal traffic public.
 
-### IV. Promover il traffic public
+<sup>2</sup> Las lingias turisticas na dastgan betg avair in caracter d'avertura direct e betg concurrenzar purschidas dal traffic regiunal e local da persunas, mabain ston cuntanscher in effect da midada al traffic public.
 
 #### Art. 19
 
-**Mesiras**
+**Manaschis d'emprova**
 
-Las suandantas mesiras per promover il traffic public da persunas e da rauba pon vegnir sustegnidas:
+<sup>1</sup> Durant il manaschi d'emprova po il chantun conceder contribuziuns.
 
-- a) prolungaziun da lingias existentas ed introducziun da novas lingias dals servetschs publics da transport sin via u da furmas spezialas d'utilisaziun en il traffic regiunal e surregiunal;
+<sup>2</sup> Suenter la terminaziun dal manaschi d'emprova sto il project vegnir finanzià tenor l'artitgel 12 u tenor l'artitgel 21 da questa lescha.
 
-- b) mesiras tariffaras;
-
-- c) consorzis tariffars;
-
-- d) construcziun da plazzas da parcar tar las staziuns da meds da traffic publics;
-
-- e) construcziun da binaris da colliaziun;
-
-- f) edifizis, implants ed indrizs da traffic per ils servetschs publics da transport sin via;
-
-- g) participaziun a contribuziuns federalas;
-
-- h) mesiras transcunfinalas;
-
-- i) ulteriuras mesiras che faciliteschan l'utilisaziun dals meds da traffic publics u che promovan la midada sin quels.
-
-**4**
-
-1-12-2012
+<sup>3</sup> Il manaschi d'emprova vegn renconuschì per ina durada da fin 5 onns.
 
 #### Art. 20
 
-**Prolungaziun da lingias existentas ed introducziun da novas lingias: furmas spezialas d'utilisaziun**
+**Mesiras transcunfinalas**
 
-<sup>1</sup> Durant il manaschi d'emprova per prolungar lingias existentas u per introducir novas lingias u furmas spezialas d'utilisaziun dals servetschs da transport sin via surpiglia il chantun ina part da 20 pertschient fin 55 pertschient dals deficits da gestiun. La calculaziun da las contribuziuns dal chantun e da las vischnancas sa drizza tenor l'artitgel 15 alinea 3.
+<sup>1</sup> Il chantun po conceder contribuziuns a favur da mesiras transcunfinalas, sche quellas cuntanschan in effect da midada al traffic public e sche las parts interessadas ordaifer il chantun sa participeschan adequatamain a la finanziaziun.
 
-<sup>2</sup> En cas da furmas spezialas d'utilisaziun tenor l'artitgel 14 po il chantun surpigliar l'entir deficit da gestiun per il manaschi d'emprova.
-
-<sup>3</sup> Suenter la finiziun dal manaschi d'emprova succeda la finanziaziun tenor l'artitgel 15 e l'artitgel 16.
+<sup>2</sup> Sche la mesira pertutga ina purschida cun in curt traject ordaifer il territori chantunal, po il chantun excepziunalmain desister da la participaziun finanziala da terzas varts.
 
 #### Art. 21
 
-**Mesiras tariffaras 1. contribuziuns**
+**Novas furmas da mobilitad**
 
-<sup>1</sup> Cun las interpresas da transport publicas po il chantun fixar facilitaziuns tariffaras.
-
-<sup>2</sup> Per promover regiuns cun ina nauscha avertura areguard il traffic pon il chantun e las vischnancas medemamain fixar facilitaziuns tariffaras.
-
-<sup>3</sup> Facilitaziuns tariffaras ston vegnir indemnisadas cumplainamain a las interpresas da transport. A mesiras tenor l'alinea 2 da questa disposiziun paja il chantun ina contribuziun da maximalmain 25 pertschient.
+<sup>1</sup> Il chantun po conceder contribuziuns a favur da novas furmas da mobilitad per in'avertura cunvegnenta ed effizienta da lieus.
 
 #### Art. 22
 
-**2. exclusiun da contribuziuns chantunalas**
+**Mesiras per evitar u per reducir considerablamain l'emissiun da CO₂**
 
-La contribuziun chantunala tenor l'artitgel 21 alinea 3 croda, sche la vischnanca pertutgada è gia integrada en in consorzi tariffar.
+<sup>1</sup> Il chantun po conceder contribuziuns a favur da mesiras en connex cun il traffic public, che eviteschan u che reduceschan essenzialmain l'emissiun da CO₂.
 
 #### Art. 23
 
-**Consorzis tariffars 1. princip e noziuns**
+**Ulteriuras mesiras**
 
-<sup>1</sup> Il chantun promova la collavuraziun tranter las interpresas dal traffic public e furma las premissas per introducir consorzis tariffars.
+<sup>1</sup> Il chantun po conceder contribuziuns a favur d'ulteriuras mesiras che faciliteschan l'utilisaziun dals meds da traffic public u che promovan la midada a quels. Quai èn en spezial:
 
-<sup>2</sup> Consorzis tariffars èn cunvegnas tranter interpresas da traffic. Els pussibiliteschan l'utilisaziun d'in singul bigliet per ina tariffa independenta dal med da traffic e dal lieu da midada.
+- a) mesiras d'infurmaziun, da commerzialisaziun e da promoziun da la vendita;
+- b) ulteriuras purschidas per garantir las chadainas da transport e talas che daventan necessarias en cas d'eveniments extraordinaris;
+- c) occurrenzas, per las qualas vegn messa a disposiziun ina purschida supplementara per las persunas participadas e per ils giasts per meglierar la colliaziun cun il traffic public;
+- d) facilitaziuns tariffaras tenor la Lescha federala davart il transport da persunas[^23-1].
+
+[^23-1]: CS [745.1](https://db.clex.ch/link/Bund/745.1/rm)
 
 #### Art. 24
 
-**2. custs imputabels**
+**Premissas e relaziun tranter las differentas contribuziuns**
 
-Custs imputabels tar consorzis tariffars èn ils custs administrativs e la cuvrida nunsuffizienta dals custs che resulta tras il consorzi tariffar tar las interpresas da transport cumpigliadas.
+<sup>1</sup> Contribuziuns a mesiras per promover il traffic public or da meds finanzials da la Confederaziun vegnan concedidas tenor lur premissas da contribuziun. Ellas ston vegnir resguardadas per calcular la contribuziun chantunala.
+
+<sup>2</sup> Il dretg da survegnir contribuziuns or da programs da promoziun tenor l'alinea 1 n'ha betg in effect liant per la promoziun chantunala.
+
+<sup>3</sup> Contribuziuns da promoziun tenor questa lescha pon vegnir cumuladas. Ensemen cun autras contribuziuns da la Confederaziun e dal chantun na dastgan ellas per regla betg surpassar 80 pertschient dals custs betg cuvrids per la singula mesira.
+
+<sup>4</sup> Las premissas envers l'atgna prestaziun, envers la perdita, envers divergenzas dal project u envers l'utilisaziun per in auter intent resultan confurm al senn dals artitgels 31 ss. da questa lescha.
 
 #### Art. 25
 
-**3. contribuziuns chantunalas**
+**Consorzis tariffars**
 
-<sup>1</sup> En il rom d'in concept chantunal surpiglia il chantun maximalmain 50 pertschient dals custs imputabels per consorzis tariffars tenor l'artitgel 24.
+<sup>1</sup> Il chantun sustegna la collavuraziun tranter las interpresas dal traffic public e stgaffescha las premissas per introducir consorzis tariffars. El po conceder contribuziuns a consorzis tariffars che permettan l'utilisaziun d'in unic bigliet per ina tariffa ch'è independenta dal med da transport e dal lieu da midada.
 
-<sup>2</sup> Per la calculaziun da las contribuziuns communalas èn decisivs spezialmain il dumber d'abitantas e d'abitants e la forza finanziala, uschenavant che las vischnancas na fixeschan betg in'autra clav da repartiziun.
+<sup>2</sup> Las contribuziuns vegnan pajadas a l'instituziun purtadra.
 
-**5**
+<sup>3</sup> Il chantun ed ils ulteriurs empustaders reglan l'indemnisaziun en ina cunvegna da collavuraziun cun las interpresas da transport.
 
-1-12-2012
+<sup>4</sup> Tut las interpresas da transport dal traffic public che survegnan prestaziuns dal chantun e da las vischnancas sin basa da questa lescha pon vegnir obligadas da collavurar en in consorzi tariffar.
 
-<sup>3</sup> Il chantun e las vischnancas reglan l'indemnisaziun en cunvegnas cun las interpresas da transport publicas.
+### 3.3. Contribuziuns d'investiziun
 
 #### Art. 26
 
-**4. participaziun a consorzis tariffars ed ordinaziuns**
+**Infrastructuras da la viafier**
 
-<sup>1</sup> Tut las interpresas da transport dal traffic public che survegnan prestaziuns dal chantun e da las vischnancas sin basa da questa lescha pon vegnir obligadas da collavurar en in consorzi tariffar.
+<sup>1</sup> Il chantun po conceder contribuziuns per construir e per engrondir las infrastructuras da viafier che na vegnan betg finanziadas sur il fond per l'infrastructura da viafier da la Confederaziun.
 
-<sup>2</sup> Sche las vischnancas na vegnan betg da sa cunvegnir davart mesiras da promoziun u davart indemnisaziuns en il rom d'in sistem da consorzi, decida la regenza.
+<sup>2</sup> Las contribuziuns vegnan pajadas da princip a la construidra u al construider da l'infrastructura.
 
-[^26-1]: versiun tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1629; entrà en vigur il 1. da schaner 2008 6 1-12-2012
+<sup>3</sup> Las contribuziuns vegnan fixadas tenor l'interess chantunal. La contribuziun importa fin 50 pertschient dals custs imputabels. En cas da projects d'in interess chantunal spezial po il chantun augmentar las contribuziuns.
+
+<sup>4</sup> Il chantun po prefinanziar contribuziuns da la Confederaziun per infrastructuras da viafier, sch'il project serva al traffic public dal chantun.
 
 #### Art. 27
 
-**Implants da parkand-ride**[^26-1]
+**Edifizis, stabiliments ed indrizs da traffic d'interpresas da transport sin via dal traffic public**
 
-<sup>1</sup> Implants da park-and-ride èn implants da parcar en staziuns u en lur conturns. Els han l'intent da facilitar la midada dal traffic privat al traffic public.
+<sup>1</sup> Il chantun po conceder contribuziuns per construir e per renovar edifizis, stabiliments ed indrizs da traffic d'interpresas da transport sin via dal traffic public.
 
-<sup>2</sup> Per construir implants correspundents paja il chantun contribuziuns da maximalmain 30 pertschient dals custs imputabels. La basa da valitaziun sa cumpona da l'impurtanza da la staziun per il traffic e da la grondezza da l'intschess.
+<sup>2</sup> Las contribuziuns vegnan pajadas a la construidra u al construider.
+
+<sup>3</sup> Las contribuziuns vegnan fixadas tenor l'interess chantunal. La contribuziun importa fin 50 pertschient dals custs imputabels. Sche l'interess dal chantun per ina mesira predominescha, po il chantun augmentar las contribuziuns.
+
+<sup>4</sup> Per construir e per renovar projects che servan exclusivamain al traffic local na vegnan betg pajadas contribuziuns.
 
 #### Art. 28
 
-**Binaris da colliaziun**
+**Stabiliments da park and ride e da bike and ride**
 
-<sup>1</sup> La noziun, las premissas, ils custs imputabels sco er las pretensiuns e las cundiziuns sa drizzan tenor il dretg federal, uschenavant ch'il chantun na relascha naginas disposiziuns divergentas.
+<sup>1</sup> Il chantun po conceder contribuziuns per construir stabiliments da park and ride e da bike and ride.
 
-<sup>2</sup> A la construcziun da binaris da colliaziun paja il chantun maximalmain 30 pertschient dals custs imputabels.
+<sup>2</sup> Las contribuziuns vegnan fixadas tenor l'interess chantunal. La contribuziun importa fin 30 pertschient dals custs imputabels.
 
 #### Art. 29
 
-**Edifizis, implants ed indrizs da traffic per ils servetschs publics da transport sin via**
+**Binaris da colliaziun**
 
-Edifizis, implants ed indrizs da traffic per ils servetschs publics da transport sin via pon vegnir promovids, sche:
+<sup>1</sup> Il chantun po conceder contribuziuns per construir e per renovar binaris da colliaziun.
 
-- a) il servetsch da transport vegn meglierà considerablamain tras novas mesiras e
+<sup>2</sup> La definiziun, las premissas, ils custs imputabels sco er las pretensiuns e las cundiziuns per promover binaris da colliaziun sa drizzan tenor las disposiziuns respectivas da la Lescha federala davart il transport da rauba tras las interpresas da viafier e da navigaziun[^29-1], uschenavant ch'il chantun na relascha betg disposiziuns divergentas.
 
-- b) las retschavidras u ils retschaviders da las contribuziuns ed ulteriuras persunas interessadas a la mesira prestan in'atgna contribuziun adequata.
+<sup>3</sup> Las contribuziuns vegnan fixadas tenor l'interess chantunal. La contribuziun importa fin 30 pertschient dals custs imputabels.
 
-[^29-1]: versiun tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1629; entrà en vigur il 1. da schaner 2008
+[^29-1]: CS [742.41](https://db.clex.ch/link/Bund/742.41/rm)
 
 #### Art. 30
 
-**Participaziun a contribuziuns federalas**[^29-1]
+**Transport da rauba cumbinà cun la viafier**
 
-Sche la confederaziun paja contribuziuns per promover il traffic public u per meglierar l'infrastructura da traffic en citads ed en aglomeraziuns, po il chantun sa participar als custs, premess ch'il dretg federal premettia prestaziuns dal chantun u da las vischnancas.
+<sup>1</sup> Il chantun po conceder contribuziuns per construir, per acquistar e per renovar stabiliments che servan a transferir rauba sin la viafier en il transport da rauba cumbinà cun la viafier.
+
+<sup>2</sup> La definiziun, las premissas, ils custs imputabels sco er las pretensiuns e las cundiziuns per promover il transport da rauba cumbinà cun la viafier sa drizzan tenor las disposiziuns respectivas da la Lescha federala davart il transport da rauba tras las interpresas da viafier e da navigaziun[^30-1], uschenavant ch'il chantun na relascha betg disposiziuns divergentas.
+
+<sup>3</sup> Las contribuziuns vegnan fixadas tenor l'interess chantunal. La contribuziun importa fin 50 pertschient dals custs imputabels.
+
+[^30-1]: CS [742.41](https://db.clex.ch/link/Bund/742.41/rm)
 
 #### Art. 31
 
-**Mesiras transcunfinalas**
+**Atgnas prestaziuns**
 
-<sup>1</sup> Mesiras transcunfinalas vegnan promovidas, sche las persunas interessadas ordaifer il chantun sa participeschan finanzialmain.
+<sup>1</sup> La petenta u il petent ubain ulteriuras parts interessadas vi da las mesiras, sco vischnancas u terzas varts, ston furnir in'atgna prestaziun adequata.
 
-<sup>2</sup> Per trajects curts ordaifer il chantun po excepziunalmain vegnir desistì da la participaziun da terzas persunas.
-
-### V. Dretg da cogestiun, finanziaziun e liberaziun da taglia
+<sup>2</sup> Vischnancas vischinas betg involvidas ston sa participar a la finanziaziun da projects ch'èn d'in interess spezial per ellas.
 
 #### Art. 32
 
-**Dretg da cogestiun e cooperaziun**
+**Perdita**
 
-<sup>1</sup> Cun il pajament da contribuziuns sa segirescha il chantun in dretg da cogestiun commensurà en ils organs da controlla da las interpresas da transport sustegnidas u ina controlla correspundenta da l'utilisaziun da las contribuziuns concedidas.
+<sup>1</sup> Sche la petenta u il petent cumenza cun la realisaziun dal project u sch'i vegnan fatgas acquisiziuns respectivamain empustaziuns gia avant la garanzia da contribuziuns, na vegnan concedidas naginas contribuziuns.
 
-<sup>2</sup> Vischnancas ed organisaziuns da planisaziun regiunalas coopereschan tar l'elavuraziun da concepts e tar la preparaziun da mesiras per promover il traffic regiunal e surregiunal.
+<sup>2</sup> Il chantun po permetter a la petenta u al petent da cumenzar anticipadamain cun las lavurs da construcziun u da far anticipadamain l'acquisiziun respectivamain l'empustaziun.
+
+<sup>3</sup> Questa permissiun anticipada na dat nagin dretg da survegnir contribuziuns.
 
 #### Art. 33
 
-**Finanziaziun**
+**Divergenzas dal project**
 
-Las contribuziuns chantunalas vegnan finanziadas tras las finanzas generalas dal chantun.
+<sup>1</sup> Sche l'edifizi, il stabiliment u l'empustaziun divergescha da la dumonda che furma la basa per la disposiziun da contribuziun u per la decisiun da contribuziun, po il chantun reducir, stritgar u pretender enavos las contribuziuns per il project.
+
+<sup>2</sup> La petenta u il petent dastga far midadas essenzialas dal project u talas che chaschunan custs supplementars mo cun l'approvaziun precedenta dal chantun.
 
 #### Art. 34
 
-**Liberaziun da taglia**
+**Utilisaziun per in auter intent**
 
-<sup>1</sup> ...[^34-1]
+<sup>1</sup> Sche projects tenor ils artitgels 26 ss. da questa lescha, che vegnan sustegnids dal chantun, vegnan utilisads per in auter intent u cuntrari a l'intent, ston las contribuziuns vegnir restituidas proporziunalmain ed immediatamain al chantun.
 
-<sup>2</sup> La Viafier retica e la Viafier Matterhorn-Gottard èn liberadas da tut las taglias chantunalas e communalas.
+<sup>2</sup> En cas excepziunals po la Regenza desister sin dumonda d'ina restituziun.
 
-<sup>3</sup> La liberaziun da taglia da las ulteriuras interpresas publicas da transport sin via sa drizza tenor la lescha chantunala da taglia[^34-2].
-
-[^34-1]: abolì tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1629, entrà en vigur il 1. da schaner 2008
-[^34-2]: DG 720.000 1-12-2012 7
-
-### VI. Organisaziun
-
-- 1\. AUTORITADS
+### 3.4. Ulteriuras contribuziuns
 
 #### Art. 35
 
-**Cussegl grond**
+**Patrimoni istoric e cultural**
 
-<sup>1</sup>[^35-1]Cun il budget fixescha il cussegl grond la contribuziun per promover il traffic public.
+<sup>1</sup> Il chantun po conceder contribuziuns a favur da mesiras per mantegnair e per intermediar il patrimoni istoric e cultural dal traffic public.
 
-<sup>2</sup> Il referendum da finanzas facultativ u obligatoric tenor la constituziun chantunala[^35-2] resta resalvà per:
+<sup>2</sup> La promoziun ha lieu sin basa d'ina cunvegna da prestaziun cun il chantun.
 
-- a) la construcziun da novas lingias da viafier (art. 5);
-
-- b) mesiras tenor l'artitgel 19 litera i;
-
-- c) edifizis, implants ed indrizs da traffic dals servetschs publics da transport sin via (art. 29);
-
-- d) la participaziun a contribuziuns federalas (art. 30).
-
-[^35-1]: versiun tenor l'agiunta da la lescha da finanzas dal chantun Grischun, DG 710.100; entrà en vigur il 1. da december 2012
-[^35-2]: DG 110.100
+## 4. Urari
 
 #### Art. 36
 
-**Regenza**
+**Regiuns d'urari e procedura d'urari**
 
-<sup>1</sup> L'execuziun da questa lescha è chaussa da la regenza. Per quest intent po ella relaschar prescripziuns en spezial davart:
+<sup>1</sup> Il chantun fixescha las regiuns d'urari ed ils princips da la procedura d'urari, sch'ellas na vegnan betg prescrittas da la Confederaziun.
 
-- a) la concentraziun da la purschida da traffic e la cunfinaziun dals intschess (art. 10 – 12);
+<sup>2</sup> Las regiuns d'urari coordineschan ils giavischs e las dumondas da la regiun respectiva en connex cun il traffic public. Ellas suttamettan al chantun en spezial propostas per concepir la purschida dal traffic public en la regiun e dumondas per giavischs areguard l'urari.
 
-- b) la concessiun da contribuziuns per binaris da colliaziun (art 28 al. 1).
+<sup>3</sup> Las regiuns d'urari èn libras da concepir la procedura d'urari per la regiun respectiva e pon delegar las incumbensas tenor l'alinea 2 a corporaziuns da vischnancas u ad organisaziuns sumegliantas.
 
-<sup>2</sup> Sche las vischnancas participadas na vegnan betg da sa cunvegnir davart l'introducziun e davart la finanziaziun da prestaziuns che na vegnan betg confinanziadas da la confederaziun (art. 15 al. 2 e 3) u da manaschis d'emprova dals servetschs da transport sin via (art. 20 al. 1), po la regenza prender las disposiziuns necessarias.
+<sup>4</sup> La Regenza elegia la presidenta u il president d'urari per mintga regiun d'urari.
 
-<sup>3</sup> La regenza segirescha il dretg da cogestiun tar interpresas da traffic sustegnidas e s'exprima davart concessiuns da las interpresas da viafier.
+## 5. Controlla tenor il dretg da subvenziun
 
 #### Art. 37
 
-**Departament**
+**Contribuziuns da gestiun dal chantun**
 
-<sup>1</sup> Il departament cumpetent elavura tut las dumondas specificas en connex cun il traffic public. Per quest intent designescha el in post spezialisà[^37-1].
+<sup>1</sup> Ils quints e las bilantschas da las interpresas da transport che survegnan contribuziuns da gestiun dal chantun, ma che n'èn betg suttamessas a la controlla tenor il dretg da subvenziun confurm a las disposiziuns respectivas da la Lescha federala davart il transport da persunas[^37-1], pon vegnir pretendids dal chantun. Il chantun po pretender documents supplementars ed ulteriuras cumprovas da las interpresas da transport.
 
-<sup>2</sup> Il departament s'exprima davart la concessiun da dretgs da traffic dals servetschs da transport sin via, davart projects da construcziun da las interpresas da viafier e fa cunvegnas cun terzas persunas.
+<sup>2</sup> Il chantun po controllar periodicamain u tenor basegn, sche las contribuziuns ch'el ha concedì a las interpresas da transport sin basa d'ina cunvegna davart la purschida, sajan vegnidas duvradas confurm a l'intent.
 
-<sup>3</sup> Resalvada resta la cumpetenza da la regenza en il rom da l'urden da finanzas chantunal.
+[^37-1]: CS [745.1](https://db.clex.ch/link/Bund/745.1/rm)
 
-[^37-1]: a partir dal 1. da schaner 2008 uffizi d'energia e da traffic, cf. CR nr. 630 dals 22 da matg 2007 8 1-12-2012
-[^37-2]: integrà tenor l'agiunta da la lescha davart la giurisdicziun administrativa (LGA); CUL 2006, FUC 3327; entrà en vigur il 1. da schaner 2007
-
-#### Art. 37a
-
-**Meds legals**[^37-2]
-
-<sup>1</sup> Cunter decisiuns dal departament davart la garanzia u davart la refusa da contribuziuns po vegnir fatg recurs administrativ tar la regenza.
-
-<sup>2</sup> Davart la garanzia u davart la refusa da contribuziuns, per las qualas i n'exista nagin dretg legal, decida la regenza definitivamain.
-
-- 2\. CUMISSIUN DA TRAFFIC E PROCEDURA D'URARI
-
-[^37a-1]: abolì tenor CCG dals 18 d'avrigl 2007, PCG 2006/2007, 981, M pertutgant la realisaziun da la NGF-GR dals 9 da schaner 2007, 1937, CUL 2007, FUC 2007, 1629, entrà en vigur il 1. da schaner 2008
+## 6. Cumpetenzas e giurisdicziun
 
 #### Art. 38
 
-[^37a-1]
+**Cussegl grond**
+
+<sup>1</sup> Il Cussegl grond fixescha cun il preventiv ils meds finanzials per il traffic public, quai resguardond il concept chantunal dal traffic public.
+
+<sup>2</sup> El po – en cumpetenza finala e cun resalva dals conclus ch'èn necessaris tenor il dretg d'aczias – transfurmar en agen chapital ils emprests restituibels e tals ch'èn restituibels sut tschertas cundiziuns dal chantun per finanziar l'infrastructura dal traffic public, en spezial per participar il chantun a sanaziuns necessarias da la bilantscha.
 
 #### Art. 39
 
-**Procedura d'urari**
+**Regenza**
 
-La regenza elegia las autoritads per far la procedura d'urari, fixescha las regiuns d'urari e regla la procedura chantunala.
+<sup>1</sup> Sche la Confederaziun ed ils chantuns participads fan medemamain quai, po la Regenza en cumpetenza finala:
 
-### VII. Disposiziun transitorica, aboliziun dal dretg vertent ed
-
-entrada en vigur
-
-[^hVIIDisposiziuntra-1]: versiun tenor CCG dals 15 da zercladur 2011; quint dal chantun 2010, 65, PCG 2010/2011, 855; mess en vigur retroactivamain cun CR dals 13 da favrer 2012 per ils 31 d'october 2011
+- a) desister da la restituziun dals emprests restituibels e da tals ch'èn restituibels sut tschertas cundiziuns dal chantun per finanziar l'infrastructura dal traffic public confurm a sia part da l'emprest;
+- b) transfurmar en reservas ils emprests ch'èn restituibels sut tschertas cundiziuns dal chantun per finanziar l'infrastructura dal traffic public confurm a sia part da l'emprest, en spezial per sa participar a sanaziuns da la bilantscha necessarias;
+- c) transfurmar en chapital d'aczias ils emprests ch'èn restituibels sut tschertas cundiziuns dal chantun, cun resalva dals conclus necessaris tenor il dretg d'aczias e senza midar las relaziuns acziunarias, en spezial per sa participar a sanaziuns da la bilantscha necessarias.
 
 #### Art. 40
 
-**Reserva per il tunnel da l'Alvra**[^hVIIDisposiziuntra-1]
+**Meds legals**
 
-Per finanziar la part chantunala vi dals custs per renovar il tunnel da l'Alvra da la Viafier retica vegn furmada ina reserva en la dimensiun da 40 milliuns francs.
+<sup>1</sup> Cunter decisiuns dal departament davart la garanzia u davart la refusa da contribuziuns poi vegnir fatg in recurs administrativ tar la Regenza.
+
+<sup>2</sup> Las pretensiuns envers il recurs administrativ tenor l'alinea 1 resultan da la Lescha davart la giurisdicziun administrativa[^40-1].
+
+<sup>3</sup> Davart la garanzia u davart la refusa da contribuziuns, per las qualas i n'exista nagin dretg legal, decida la Regenza definitivamain.
+
+[^40-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
+## 7. Disposiziuns finalas
 
 #### Art. 41
 
-**Aboliziun dal dretg vertent**
+**Disposiziuns transitoricas**
 
-Tut ils relaschs e conclus che cuntrafan a questa lescha vegnan abolids il mument da l'entrada en vigur, spezialmain:
+<sup>1</sup> Questa lescha vegn applitgada er per proceduras ch'èn gia pendentas il mument da sia entrada en vigur. Exceptadas da quai èn las contribuziuns chantunalas a sanaziuns da projects dal traffic public tenor la Lescha federala davart l'eliminaziun dals dischavantatgs envers persunas cun impediments[^41-1].
 
-- a) la lescha introductiva tar la lescha federala da viafier dals 3 d'avrigl 1960[^41-1];
+<sup>2</sup> Per las contribuziuns gia garantidas valan las disposiziuns vertentas.
 
-- b) la lescha concernent la participaziun dal chantun a la cumplettaziun da la rait da viafier a binari stretg dal Grischun dals 20 da zercladur 1897[^41-2];
+[^41-1]: CS [151.3](https://db.clex.ch/link/Bund/151.3/rm)
 
-- c) las disposiziuns executivas dal cussegl grond tar la lescha da viafier dal chantun Grischun dals 22 da matg 1902[^41-3];
-
-- d) la lescha davart l'imposiziun da taglia per las viafiers en il chantun Grischun dals 3 da november 1895[^41-4].
-
-[^41-1]: DG 873.100; CUL 1960, 124; CUL 1977, 242 1-12-2012 9
-[^41-2]: DG 873.200; vDG 1314
-[^41-3]: DG 873.210; vDG 1317
-[^41-4]: DG 873.300; vDG 1321
-
-#### Art. 42
-
-**Entrada en vigur**
-
-Suenter ch'il pievel ha acceptà questa lescha, fixescha la regenza la data da l'entrada en vigur[^42-1].
-
-[^42-1]: messa en vigur cun CR dals 17 da matg 1993 per il 1. da schaner 1994 10 1-12-2012
+2022-048

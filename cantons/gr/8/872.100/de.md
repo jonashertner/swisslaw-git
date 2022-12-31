@@ -4,446 +4,472 @@ number: "872.100"
 title: Gesetz über den öffentlichen Verkehr im Kanton Graubünden
 short: GöV
 language: de
-version: 2012-12-01
-corrected: 2014-10-26
-version_adopted: 2011-10-19
+version: 2023-01-01
+version_adopted: 2022-09-02
 adopted: 2022-09-02
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/872.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1569/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3291/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den öffentlichen Verkehr im Kanton Graubünden (GöV)
+# Gesetz über den öffentlichen Verkehr im Kanton Graubünden
 
-Gestützt auf Art. 42bis der Kantonsverfassung[^t-1]
+(GöV)
 
-vom Volke angenommen am 7. März 1993[^t-2]
+Vom 02.09.2022 (Stand 01.01.2023)
 
-I. Geltungsbereich und Zweck
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
-[^t-1]: In der neuen KV Art. 82 Abs. 3; BR 110.100
-[^t-2]: B vom 10. Juni 1992, 191; GRP 1992/93, 311
+gestützt auf Art. 82 Abs. 1 und Abs. 3 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 3. Mai 2022[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: GRP 2022/2023, 49
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 103
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**
+**Gegenstand und Geltungsbereich**
 
-Diesem Gesetz unterstehen die im Kanton Graubünden unabhängig von ihrer Rechtsform auf dem Gebiete des öffentlichen Verkehrs tätigen Transportunternehmen.
+<sup>1</sup> Dieses Gesetz regelt den öffentlichen Verkehr im Kanton Graubünden in Bezug auf die Erschliessung, das Angebot, die Beiträge, die Zuständigkeiten und das Verfahren.
+
+<sup>2</sup> Es regelt überdies die Bestellung und die Finanzierung des Schienengüterverkehrs im Kanton Graubünden.
+
+<sup>3</sup> Diesem Gesetz unterstehen die im Kanton Graubünden tätigen Transportunternehmen, Gemeinden, Regionen, Gemeindeverbände und ähnliche Organisationen, die Aufgaben im Bereich des öffentlichen Verkehrs im Kanton wahrnehmen.
 
 #### Art. 2
 
 **Zweck**
 
-<sup>1</sup> Kanton und Gemeinden sichern die verkehrsmässige Erschliessung des Kantons mit öffentlichen Verkehrsmitteln und schaffen Anreize zu deren vermehrter Benützung.
+<sup>1</sup> Kanton und Gemeinden fördern den öffentlichen Verkehr unter Berücksichtigung einer nachhaltigen Siedlungs-, Wirtschafts-, Energie-, Umwelt- und Sozialpolitik mit dem Ziel:
 
-<sup>2</sup> Sie fördern den öffentlichen Personen- und schienengebundenen Güterverkehr mit dem Ziel, den Menschen und seine Umwelt zu schützen, Energie sparsam und wirtschaftlich zu verwenden und den öffentlichen und privaten Verkehr zu koordinieren.
+- a) eine bedarfsgerechte Erschliessung aller Ortschaften unter Koordination des gesamten Verkehrs zu gewährleisten;
+- b) eine effiziente Verwendung der Mittel der öffentlichen Hand im Rahmen der finanziellen Vorgaben sicherzustellen;
+- c) Energie sparsam und wirtschaftlich zu verwenden sowie die Umwelt zu schonen;
+- d) Anreize zum Umstieg auf den öffentlichen Verkehr zu schaffen;
+- e) neue Technologien und Mobilitätsformen in der Verkehrskonzeption zu berücksichtigen und zu integrieren.
 
-### II. Schweizerische Bundesbahnen und konzessionierte Eisenbahnunternehmen
+<sup>2</sup> Der Kanton stimmt den öffentlichen Verkehr auf den Fern- und Schienengüterverkehr ab.
 
 #### Art. 3
 
-**Grundsatz**
+**Koordination und Zusammenarbeit**
 
-Die Schweizerischen Bundesbahnen und die konzessionierten Eisenbahnunternehmen gewährleisten die verkehrsmässige Erschliessung des Kantons mit öffentlichen Verkehrsmitteln im regionalen und überregionalen Verkehr.
+<sup>1</sup> Der Kanton koordiniert in Zusammenarbeit mit dem Bund, den Gemeinden, den Regionen, den Gemeindeverbänden sowie ähnlichen Organisationen die Massnahmen für den öffentlichen Verkehr und den Schienengüterverkehr. Er stimmt sie mit dem motorisierten Individualverkehr und dem Fuss- und Veloverkehr ab.
+
+<sup>2</sup> Der Kanton arbeitet mit dem Bund, den Nachbarkantonen, dem angrenzenden Ausland, den Gemeinden, den Regionen, den Gemeindeverbänden, mit ähnlichen Organisationen sowie mit den Transportunternehmen zusammen.
 
 #### Art. 4
 
-**Konzessionierte Eisenbahnunternehmen**
+**Begriffe**
 
-<sup>1</sup> Der Kanton übernimmt den auf ihn entfallenden Anteil der Beiträge, die der Bund konzessionierten Eisenbahnunternehmen gemäss den Bestimmungen des eidgenössischen Eisenbahngesetzes[^4-1] gewährt.
+<sup>1</sup> In diesem Gesetz gelten als:
 
-<sup>2</sup> Form, Auflagen und Bedingungen der kantonalen Beiträge richten sich grundsätzlich nach den Beschlüssen des Bundes.
+- a) öffentlicher Verkehr: verkehrliche Angebote zur Erschliessung von Ortschaften mit Verkehrsmitteln, die allen Personen zugänglich sind und in der Regel nach einem publizierten Fahrplan verkehren;
+- b) Schienengüterverkehr: Transport von Gütern mit der Bahn sowie Güterumschlag im Rahmen des kombinierten Verkehrs;
+- c) Transportunternehmen: Unternehmen des öffentlichen Verkehrs, die eine Transportleistung im öffentlichen Auftrag erbringen;
+- d) Arten der Erschliessung: Zuweisung der Erschliessung im Kantonsgebiet mittels öffentlichem Verkehr im Rahmen der Basiserschliessung (regionaler Personenverkehr und Grunderschliessung), der Zusatzerschliessung oder des Ortsverkehrs;
+- e) Angebot: Linie des öffentlichen Verkehrs mit einer bestimmten Anzahl Kurspaaren, eingeteilt in verschiedene Angebotsstufen;
+- f) Betriebsbeiträge: Beiträge, die gestützt auf eine Angebotsvereinbarung in der Regel als Abgeltung der geplanten ungedeckten Kosten im Rahmen des Bestellverfahrens ausgerichtet werden;
+- g) Investitions- oder Förderbeiträge: geldwerte Vorteile, die der Gesuchstellerin oder dem Gesuchsteller gewährt werden, sofern sie oder er eigene Mittel in angemessener Weise einsetzt;
+- h) neue Mobilitätsformen: Angebote im öffentlichen Verkehr und im Schienengüterverkehr, die nicht zwingend gemäss einem publizierten Fahrplan verkehren.
 
-<sup>3</sup> Der Kanton kann seine Beiträge an zusätzliche Bedingungen und Auflagen knüpfen oder zu günstigeren Bedingungen gewähren.
+## 2. Angebot
 
-[^4-1]: SR 742.101 01.12.2012 1
+### 2.1. Planung
 
 #### Art. 5
 
-**Bau neuer Linien**
+**Kantonales Konzept des öffentlichen Verkehrs**
 
-Der Kanton kann sich mit Beiträgen am Bau neuer Eisenbahnlinien beteiligen.
+<sup>1</sup> Das kantonale Konzept des öffentlichen Verkehrs dient der mittelfristigen Planung und langfristigen Steuerung des Angebots. Es wird periodisch im Sinne einer rollenden Planung durch den Kanton überarbeitet und genehmigt.
 
-[^5-1]: Aufgehoben gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. Januar 2008 in Kraft getreten. 2 01.12.2012
+<sup>2</sup> Der Kanton nimmt bei der Erarbeitung des kantonalen Konzepts des öffentlichen Verkehrs die Interessen der Gemeinden, Gemeindeverbände und Regionen über die Fahrplanpräsidentinnen oder Fahrplanpräsidenten entgegen. Er kann die im Kanton im öffentlichen Verkehr tätigen Transportunternehmen beiziehen.
+
+### 2.2. Erschliessung
 
 #### Art. 6
 
-[^5-1]
+**Angebotsstufen im öffentlichen Verkehr**
 
-### III. Öffentliche Strassentransportdienste
-
-- 1\. ALLGEMEINE BESTIMMUNGEN
+<sup>1</sup> Zur Erschliessung des Kantonsgebiets mittels öffentlichem Verkehr werden Angebotsstufen definiert. Der Kanton legt die Richtwerte fest.
 
 #### Art. 7
 
-**Grundsatz**
+**Arten der Erschliessung im öffentlichen Verkehr**
 
-Die öffentlichen Strassentransportdienste gewährleisten die verkehrsmässige Erschliessung des Kantons mit öffentlichen Verkehrsmitteln im Ortsverkehr, im regionalen Verkehr und bei Bedarf im überregionalen Verkehr. Sie können gegenüber dem privaten Verkehr wenn möglich durch geeignete Massnahmen bevorzugt werden.
+<sup>1</sup> Die Gemeinden haben Anspruch auf eine bedarfsgerechte Basiserschliessung, die sich an der Nachfrage orientiert. Das Angebot wird den tageszeitlichen und saisonalen Bedürfnissen angepasst.
+
+<sup>2</sup> Gemeinden, welche die Voraussetzungen gemäss Absatz 1 für eine Basiserschliessung aufgrund der Nachfrage nicht erfüllen, haben Anspruch auf eine Grunderschliessung. Sie orientiert sich an der Einwohnerzahl als Kriterium. Über den Erschliessungsanspruch von Gemeindefraktionen entscheidet der Kanton.
+
+<sup>3</sup> Die Zusatzerschliessung umfasst das über die Basiserschliessung hinausgehende Angebot. Sie trägt siedlungs-, wirtschafts-, regionalpolitischen und touristischen Zielen Rechnung.
+
+<sup>4</sup> Der Ortsverkehr umfasst die Erschliessung innerhalb einer Ortschaft.
+
+### 2.3. Bestellung
+
+### 2.3.1. Öffentlicher Verkehr
 
 #### Art. 8
 
-**Öffentliche Strassentransportdienste**
+**Basis- und Zusatzerschliessung**
 
-Die öffentlichen Strassentransportdienste umfassen a) den Postautodienst und b) die konzessionierten Strassentransportunternehmen.
+<sup>1</sup> Der Kanton bestellt im Rahmen der Basiserschliessung gemeinsam mit dem Bund die Erschliessung mit dem regionalen Personenverkehr und zusätzlich eine Grunderschliessung.
+
+<sup>2</sup> Der Kanton kann in Zusammenarbeit mit den Gemeinden, Regionen, Gemeindeverbänden oder ähnlichen Organisationen unter Berücksichtigung der Nachfrage sowie der Wirtschaftlichkeit eine über Absatz 1 hinausgehende Erschliessung (Zusatzerschliessung) bestellen.
+
+<sup>3</sup> Das Bestellverfahren richtet sich gemäss den einschlägigen Bestimmungen der Verordnung über die Abgeltung des regionalen Personenverkehrs[^8-1] betreffend gemeinsame Bestellungen von Bund und Kantonen, soweit der Kanton für die Grund- und Zusatzerschliessung keine abweichenden Bestimmungen erlässt. Anstelle des Bundes (Bundesamt für Verkehr) handelt der Kanton. Der Kanton ist bei der Bestellung gemäss Absatz 2 in der Regel federführend.
+
+<sup>4</sup> Der Kanton kann im dazwischenliegenden Jahr des zweijährigen Bestellverfahrens des Bundes die Bestellung der Basis- oder Zusatzerschliessung anpassen.
+
+[^8-1]: SR [745.16](https://db.clex.ch/link/Bund/745.16/de)
 
 #### Art. 9
 
 **Ortsverkehr**
 
-Als Ortsverkehr gelten unter Vorbehalt von Artikel 11 Absatz 3 Linien innerhalb einer Gemeinde.
+<sup>1</sup> Für die Bestellung des Ortsverkehrs sind die Gemeinden zuständig.
 
-- 2\. REGIONALER UND ÜBERREGIONALER VERKEHR
+<sup>2</sup> Diese ist auf die Transportketten des übergeordneten Angebots des öffentlichen Verkehrs abzustimmen.
+
+### 2.3.2. Schienengüterverkehr
 
 #### Art. 10
 
-**Verdichtung des Verkehrsangebotes auf bestehenden Linien**
+**Rolle des Kantons**
 
-<sup>1</sup> Die Verdichtung des Verkehrsangebotes auf bestehenden Linien richtet sich nach dem Nachfragepotential im Einzugsgebiet einer Linie. Dabei wird zwischen dünnbesiedelten, ländlichen und dichtbesiedelten Gebieten unterschieden.
+<sup>1</sup> Der Kanton bestellt den Schienengüterverkehr der im Kanton Graubünden tätigen Transportunternehmen.
 
-<sup>2</sup> Weist eine Linie auf einzelnen Teilstücken ein unterschiedliches Nachfragepotential auf, ist dies bei der Bemessung der Bedienungsdichte zu berücksichtigen.
+## 3. Beiträge
 
 #### Art. 11
 
-**Erschliessungsformen: 1. Unterscheidung**
+**Finanzierung**
 
-<sup>1</sup> In jedem Einzugsgebiet einer Linie wird zwischen Basis-, Zusatz- und Feinerschliessung unterschieden.
+<sup>1</sup> Die Kantonsbeiträge werden über den allgemeinen Staatshaushalt finanziert.
 
-<sup>2</sup> Die Gemeinden haben Anspruch auf eine angemessene Basis- und Zusatzerschliessung.
-
-<sup>3</sup> Über den Erschliessungsanspruch von Gemeindefraktionen entscheidet die Regierung.
+### 3.1. Betriebsbeiträge
 
 #### Art. 12
 
-**2. Basis- und Zusatzerschliessung**
+**Öffentlicher Verkehr**
 
-<sup>1</sup> Die Basiserschliessung sichert die minimale Mobilitätsvorsorge.
+<sup>1</sup> Der Kanton leistet seinen Anteil an die ungedeckten Kosten im regionalen Personenverkehr.
 
-<sup>2</sup> Die Zusatzerschliessung deckt den über die minimale Mobilitätsvorsorge hinausgehenden Bedarf. Dabei trägt sie auch siedlungs-, wirtschafts-, regionalpolitischen und touristischen Zielen Rechnung.
+<sup>2</sup> Der Kanton finanziert die ungedeckten Kosten der Grunderschliessung.
 
-<sup>3</sup> Am Wochenende und an Feiertagen wird das Angebot den besonderen Bedürfnissen der entsprechenden Einzugsgebiete angemessen angepasst.
+<sup>3</sup> Der Kanton leistet einen Beitrag von 50 bis 80 Prozent an die ungedeckten Kosten der Zusatzerschliessung. Bei mehreren Gemeinden bemisst sich der Kostenanteil pro Gemeinde an den ungedeckten Kosten der Zusatzerschliessung nach der Einwohnerzahl, sofern die Gemeinden keinen anderen Verteilschlüssel vereinbaren.
+
+<sup>4</sup> Die Gemeinden finanzieren die Kosten des Ortsverkehrs.
+
+<sup>5</sup> Die Abschreibungs- und Finanzierungskosten von Neu- und Ersatzinvestitionen gelten in der Regel als abgeltungsberechtigte Kosten, sofern diese von den Bestellern vorgängig genehmigt worden sind.
 
 #### Art. 13
 
-**3. Feinerschliessung**
+**Schienengüterverkehr**
 
-Die Feinerschliessung umfasst das über die zugestandene Zusatzerschliessung hinausgehende Angebot an öffentlichen Verkehrsmitteln.
+<sup>1</sup> Der Kanton leistet seinen Anteil an die ungedeckten Kosten des Schienengüterverkehrs.
 
 #### Art. 14
 
-**Besondere Betriebsformen**
+**Angebotsvereinbarungen**
 
-Für besondere Betriebsformen wie Bedarfsbusse, Rufbusse, Sammeltaxis usw. gelten die Grundsätze der Artikel 9-l3 sinngemäss.
+<sup>1</sup> Der Kanton schliesst mit den Transportunternehmen für das von ihm federführend bestellte Angebot Angebotsvereinbarungen ab.
 
-- 3\. FINANZIERUNG
+<sup>2</sup> Der Abschluss der Angebotsvereinbarung richtet sich im Übrigen nach den einschlägigen Bestimmungen der Verordnung über die Abgeltung des regionalen Personenverkehrs[^14-1].
+
+[^14-1]: SR [745.16](https://db.clex.ch/link/Bund/745.16/de)
 
 #### Art. 15
 
-**Beiträge des Kantons**
+**Autoverlad**
 
-<sup>1</sup> Der Kanton trägt im regionalen und überregionalen Verkehr den verbleibenden Teil der ungedeckten Kosten der Basis- und Zusatzerschliessung sowie der besonderen Betriebsformen.
+<sup>1</sup> An den schienengebundenen Autoverlad werden keine Beiträge gewährt.
 
-<sup>2</sup>[^15-1]Werden Leistungen gemäss Absatz 1 durch den Bund nicht mitfinanziert, kann sich der Kanton, wenn es das öffentliche Interesse einer oder mehrerer Gemeinden erfordert, an den ungedeckten Kosten beteiligen.
-
-<sup>3</sup> Die Beiträge des Kantons gemäss Absatz 2 betragen 20 Prozent-55 Prozent und bemessen sich nach der Einwohnerzahl und der Finanzkraft der beteiligten Gemeinden. Dies gilt auch für den Anteil der Gemeinden, sofern diese keinen anderen Verteilungsschlüssel vereinbaren.
-
-[^15-1]: Fassung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. 01.12.2012 3
+<sup>2</sup> Für einzelne Verbindungen kann der Kanton aus regionalpolitischen oder anderen wichtigen Gründen ausnahmsweise Beiträge an deren ungedeckten Kosten leisten, wenn deren Betrieb aus wirtschaftlichen Gründen für das Transportunternehmen nicht zumutbar ist.
 
 #### Art. 16
 
-**Beiträge der Gemeinden**
+**Grenzüberschreitende Angebote**
 
-Die Gemeinden tragen die ungedeckten Kosten des Ortsverkehrs sowie im regionalen und überregionalen Verkehr die Betriebsfehlbeträge der Basis- und Zusatzerschliessung gemäss Artikel 15 Absatz 3 und die Kosten der Feinerschliessung.
+<sup>1</sup> Grenzüberschreitende Angebote im Linienverkehr können durch den Kanton mitbestellt werden, wenn sich die Interessierten ausserhalb des Kantons finanziell an den ungedeckten Kosten angemessen beteiligen.
+
+<sup>2</sup> Für kurze Strecken ausserhalb des Kantonsgebiets kann der Kanton ausnahmsweise auf die finanzielle Beteiligung Dritter verzichten.
+
+### 3.2. Förderbeiträge
 
 #### Art. 17
 
-**Ausschluss von kantonalen Beiträgen**
+**Massnahmen zur Förderung des öffentlichen Verkehrs**
 
-Für marktwirtschaftliche Leistungen werden keine Beiträge ausgerichtet. Sie fallen in den Verantwortungsbereich der öffentlichen Strassentransportdienste. Dazu gehören namentlich Skibusse und Leistungen, die vorwiegend dem Tourismusverkehr dienen.
+<sup>1</sup> Der Kanton kann zur Förderung des öffentlichen Verkehrs Beiträge gewähren. Folgende Massnahmen können unterstützt werden:
+
+- a) touristische Linien des öffentlichen Verkehrs;
+- b) Versuchsbetriebe;
+- c) grenzüberschreitende Massnahmen;
+- d) neue Mobilitätsformen;
+- e) Massnahmen im Zusammenhang mit dem öffentlichen Verkehr, die den CO₂-Ausstoss vermeiden oder wesentlich reduzieren;
+- f) weitere Massnahmen, welche die Benützung der öffentlichen Verkehrsmittel erleichtern oder das Umsteigen darauf fördern;
+- g) Tarifverbünde.
+
+<sup>2</sup> Die Beiträge betragen bis zu 50 Prozent der ungedeckten Kosten. Die Bemessung der Beiträge richtet sich nach dem kantonalen Interesse an der Massnahme aus der Sicht des öffentlichen Verkehrs.
+
+<sup>3</sup> Überwiegt das Interesse des Kantons an einer Massnahme, kann der Kanton die Beiträge gemäss Absatz 2 erhöhen.
+
+<sup>4</sup> Eine Förderung ist ausgeschlossen, wenn Massnahmen ausschliesslich dem Ortsverkehr zuzurechnen sind. Ausnahme bildet Artikel 22 dieses Gesetzes.
 
 #### Art. 18
 
-**Abschluss von Vereinbarungen**
+**Touristische Linien des öffentlichen Verkehrs**
 
-Kanton und Gemeinden können Art und Umfang von Angebotsverbesserungen sowie die Entschädigung in Vereinbarungen mit den öffentlichen Strassentransportdiensten regeln.
+<sup>1</sup> Der Kanton kann an touristische Linien des öffentlichen Verkehrs Beiträge gewähren.
 
-### IV. Förderung des öffentlichen Verkehrs
+<sup>2</sup> Die touristischen Linien dürfen keinen unmittelbaren Erschliessungscharakter haben, keine Angebote des regionalen Personen- und Ortsverkehrs konkurrenzieren und müssen einen Umsteigeeffekt bewirken.
 
 #### Art. 19
 
-**Massnahmen**
+**Versuchsbetriebe**
 
-Folgende Massnahmen zur Förderung des öffentlichen Personen- und Güterverkehrs können unterstützt werden:
+<sup>1</sup> Der Kanton kann während des Versuchsbetriebs Beiträge gewähren.
 
-- a) Verlängerung bestehender und Einführung neuer Linien der Strassentransportdienste oder besonderer Betriebsformen im regionalen und überregionalen Verkehr;
+<sup>2</sup> Nach Abschluss des Versuchsbetriebs hat die Finanzierung des Vorhabens gemäss Artikel 12 oder gemäss Artikel 21 dieses Gesetzes zu erfolgen.
 
-- b) Tarifmassnahmen;
-
-- c) Tarifverbunde;
-
-- d) Bau von Parkplätzen bei Bahnhöfen von öffentlichen Verkehrsmitteln;
-
-- e) Bau von Anschlussgleisen;
-
-- f) Bauten, Anlagen und Verkehrseinrichtungen für die öffentlichen Strassentransportdienste;
-
-- g) Beteiligung an Bundesbeiträgen;
-
-- h) grenzüberschreitende Massnahmen;
-
-- i) weitere Massnahmen, welche die Benützung der öffentlichen Verkehrsmittel erleichtern oder das Umsteigen darauf fördern.
-
-**4**
-
-01.12.2012
+<sup>3</sup> Ein Versuchsbetrieb wird auf eine Dauer von bis zu fünf Jahren anerkannt.
 
 #### Art. 20
 
-**Verlängerung bestehender und Einführung neuer Linien: besondere Betriebsformen**
+**Grenzüberschreitende Massnahmen**
 
-<sup>1</sup> Während des Versuchsbetriebs zur Verlängerung bestehender und Einführung neuer Linien oder besonderer Betriebsformen der Strassentransportdienste übernimmt der Kanton einen Anteil von 20 Prozent-55 Prozent an den Betriebsfehlbeträgen. Die Bemessung der Beiträge des Kantons und der Gemeinden richtet sich nach Artikel 15 Absatz 3.
+<sup>1</sup> Der Kanton kann an grenzüberschreitende Massnahmen Beiträge gewähren, wenn diese einen Umsteigeeffekt bewirken und sich die Interessierten ausserhalb des Kantons finanziell angemessen beteiligen.
 
-<sup>2</sup> Bei besonderen Betriebsformen nach Artikel 14 kann der Kanton für den Versuchsbetrieb den gesamten Fehlbetrag übernehmen.
-
-<sup>3</sup> Nach Abschluss des Versuchsbetriebes erfolgt die Finanzierung gemäss Artikel l5 und Artikel 16.
+<sup>2</sup> Betrifft die Massnahme ein Angebot mit einer kurzen Strecke ausserhalb des Kantonsgebiets, kann der Kanton ausnahmsweise auf die finanzielle Beteiligung Dritter verzichten.
 
 #### Art. 21
 
-**Tarifmassnahmen 1. Beiträge**
+**Neue Mobilitätsformen**
 
-<sup>1</sup> Der Kanton kann mit den öffentlichen Transportunternehmen Tariferleichterungen vereinbaren.
-
-<sup>2</sup> Zur Förderung von verkehrsmässig schlecht erschlossenen Regionen können Kanton und Gemeinden ebenfalls Tariferleichterungen vereinbaren.
-
-<sup>3</sup> Tariferleichterungen sind den Transportunternehmen in vollem Umfange zu entschädigen. An Massnahmen gemäss Absatz 2 dieser Bestimmung entrichtet der Kanton einen Beitrag von höchstens 25 Prozent.
+<sup>1</sup> Der Kanton kann an neue Mobilitätsformen zur zweckmässigen, effizienten Erschliessung von Ortschaften Beiträge gewähren.
 
 #### Art. 22
 
-**2. Ausschluss von kantonalen Beiträgen**
+**Massnahmen zur Vermeidung oder zur wesentlichen Reduktion des CO₂-Ausstosses**
 
-Der Kantonsbeitrag gemäss Artikel 21 Absatz 3 entfällt, wenn die betreffende Gemeinde bereits in einem Tarifverbund integriert ist.
+<sup>1</sup> Der Kanton kann an Massnahmen im Zusammenhang mit dem öffentlichen Verkehr, die den CO₂-Ausstoss vermeiden oder wesentlich reduzieren, Beiträge gewähren.
 
 #### Art. 23
 
-**Tarifverbunde: 1. Grundsatz und Begriff**
+**Weitere Massnahmen**
 
-<sup>1</sup> Der Kanton fördert die Zusammenarbeit zwischen den Unternehmen des öffentlichen Verkehrs und schafft die Voraussetzungen für die Einführung von Tarifverbunden.
+<sup>1</sup> Der Kanton kann an weitere Massnahmen, welche die Benützung der öffentlichen Verkehrsmittel erleichtern oder das Umsteigen darauf fördern, Beiträge gewähren. Dies sind insbesondere:
 
-<sup>2</sup> Tarifverbunde sind Absprachen zwischen Verkehrsunternehmen. Sie ermöglichen die Verwendung eines einzigen Fahrausweises zu einem von Verkehrsmittel und Umsteigeort unabhängigen Tarif.
+- a) Informations-, Vermarktungs- und Verkaufsförderungsmassnahmen;
+- b) weitere Angebote zur Gewährleistung der Transportketten und solche, die bei aussergewöhnlichen Ereignissen notwendig werden;
+- c) Veranstaltungen, bei denen für Teilnehmende und Gäste ein zusätzliches Angebot für die verbesserte Anbindung an den öffentlichen Verkehr bereitgestellt wird;
+- d) Tariferleichterungen gemäss Bundesgesetz über die Personenbeförderung[^23-1].
+
+[^23-1]: SR [745.1](https://db.clex.ch/link/Bund/745.1/de)
 
 #### Art. 24
 
-**2. Anrechenbare Kosten**
+**Voraussetzungen und Verhältnis unter den verschiedenen Beiträgen**
 
-Anrechenbare Kosten bei Tarifverbunden sind die Verwaltungskosten und die durch den Tarifverbund entstehende Kostenunterdeckung bei den beteiligten Transportunternehmen.
+<sup>1</sup> Beiträge an Massnahmen zur Förderung des öffentlichen Verkehrs aus Finanzmitteln des Bundes werden nach dessen Beitragsvoraussetzungen gewährt. Sie sind bei der Bemessung des Kantonsbeitrags zu berücksichtigen.
+
+<sup>2</sup> Die Beitragsberechtigung aus Förderprogrammen nach Absatz 1 hat für die kantonale Förderung keine bindende Wirkung.
+
+<sup>3</sup> Förderbeiträge nach diesem Gesetz können kumuliert werden. Sie dürfen in der Regel zusammen mit anderen Beiträgen von Bund und Kanton 80 Prozent der ungedeckten Kosten für die einzelne Massnahme nicht übersteigen.
+
+<sup>4</sup> Die Voraussetzungen an die Eigenleistung, Verwirkung, Projektabweichungen oder Zweckentfremdung ergeben sich sinngemäss aus Artikel 31 ff. dieses Gesetzes.
 
 #### Art. 25
 
-**3. Kantonsbeiträge**
+**Tarifverbünde**
 
-<sup>1</sup> Der Kanton übernimmt im Rahmen eines kantonalen Konzeptes höchstens 50 Prozent der anrechenbaren Kosten für Tarifverbunde nach Artikel 24.
+<sup>1</sup> Der Kanton unterstützt die Zusammenarbeit zwischen den Unternehmen des öffentlichen Verkehrs und schafft die Voraussetzungen für die Einführung von Tarifverbünden. Er kann an Tarifverbünde Beiträge gewähren, welche die Verwendung eines einzigen Fahrausweises zu einem von Verkehrsmittel und Umsteigeort unabhängigen Tarif ermöglichen.
 
-**5**
+<sup>2</sup> Die Beiträge werden an die Trägerschaft ausgerichtet.
 
-01.12.2012
+<sup>3</sup> Der Kanton und die weiteren Besteller regeln die Entschädigung in einer Verbundvereinbarung mit den Transportunternehmen.
 
-<sup>2</sup> Für die Bemessung der Gemeindebeiträge sind insbesondere die Einwohnerzahl und die Finanzkraft massgebend, sofern die Gemeinden keinen anderen Verteilungsschlüssel vereinbaren.
+<sup>4</sup> Alle Transportunternehmen des öffentlichen Verkehrs, die aufgrund dieses Gesetzes Leistungen von Kanton und Gemeinden erhalten, können zur Zusammenarbeit in einem Tarifverbund verpflichtet werden.
 
-<sup>3</sup> Kanton und Gemeinden regeln die Entschädigung in Vereinbarungen mit den öffentlichen Transportunternehmen.
+### 3.3. Investitionsbeiträge
 
 #### Art. 26
 
-**4. Beteiligung an Tarifverbunden und Anordnungen**
+**Bahninfrastrukturen**
 
-<sup>1</sup> Alle Transportunternehmen des öffentlichen Verkehrs, die auf Grund dieses Gesetzes Leistungen von Kanton und von Gemeinden erhalten, können zur Zusammenarbeit in einem Tarifverbund verpflichtet werden.
+<sup>1</sup> Der Kanton kann an den Bau und Ausbau von Bahninfrastrukturen, die nicht über den Bahninfrastrukturfonds des Bundes finanziert werden, Beiträge gewähren.
 
-<sup>2</sup> Können sich die Gemeinden über Förderungsmassnahmen oder Entschädigungen im Rahmen eines Verbundsystems nicht einigen, so entscheidet die Regierung.
+<sup>2</sup> Die Beiträge werden grundsätzlich an die Erstellerin oder den Ersteller der Infrastruktur ausgerichtet.
 
-[^26-1]: Fassung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. 6 01.12.2012
+<sup>3</sup> Die Bemessung der Beiträge richtet sich nach dem kantonalen Interesse. Der Beitrag beträgt bis zu 50 Prozent der anrechenbaren Kosten. Bei Projekten mit besonderem kantonalem Interesse kann der Kanton die Beiträge erhöhen.
+
+<sup>4</sup> Der Kanton kann Beiträge des Bundes für Bahninfrastrukturen vorfinanzieren, wenn das Vorhaben dem öffentlichen Verkehr des Kantons dient.
 
 #### Art. 27
 
-**Park-and-ride-Anlagen**[^26-1]
+**Bauten, Anlagen und Verkehrseinrichtungen von Strassentransportunternehmen des öffentlichen Verkehrs**
 
-<sup>1</sup> Park-and-ride-Anlagen sind Parkierungsanlagen in Bahnhöfen oder deren Bereich, die geeignet sind, das Umsteigen vom privaten auf den öffentlichen Verkehr zu erleichtern.
+<sup>1</sup> Der Kanton kann für den Bau und die Erneuerung von Bauten, Anlagen und Verkehrseinrichtungen von Strassentransportunternehmen des öffentlichen Verkehrs Beiträge gewähren.
 
-<sup>2</sup> An den Bau entsprechender Anlagen entrichtet der Kanton Beiträge von höchstens 30 Prozent der anrechenbaren Kosten. Bemessungsgrundlagen sind die Verkehrsbedeutung des Bahnhofes und die Grösse des Einzugsgebietes.
+<sup>2</sup> Die Beiträge werden an die Erstellerin oder den Ersteller ausgerichtet.
+
+<sup>3</sup> Die Bemessung der Beiträge richtet sich nach dem kantonalen Interesse. Der Beitrag beträgt bis zu 50 Prozent der anrechenbaren Kosten. Überwiegt das Interesse des Kantons an einer Massnahme, kann der Kanton die Beiträge erhöhen.
+
+<sup>4</sup> An den Bau und die Erneuerung von Vorhaben, die ausschliesslich dem Ortsverkehr dienen, werden keine Beiträge gewährt.
 
 #### Art. 28
 
-**Anschlussgleise**
+**Park-and-ride-Anlagen und Bike-and-ride-Anlagen**
 
-<sup>1</sup> Begriff, Voraussetzungen, anrechenbare Kosten sowie Auflagen und Bedingungen richten sich nach dem Bundesrecht, soweit der Kanton keine abweichenden Bestimmungen erlässt.
+<sup>1</sup> Der Kanton kann an die Erstellung von Park-and-ride- sowie Bike-and-ride-Anlagen Beiträge gewähren.
 
-<sup>2</sup> An den Bau von Anschlussgleisen entrichtet der Kanton höchstens 30 Prozent der anrechenbaren Kosten.
+<sup>2</sup> Die Bemessung der Beiträge richtet sich nach dem kantonalen Interesse. Der Beitrag beträgt bis zu 30 Prozent der anrechenbaren Kosten.
 
 #### Art. 29
 
-**Bauten, Anlagen und Verkehrseinrichtungen für die öffentlichen Strassentransportdienste**
+**Anschlussgleise**
 
-Bauten, Anlagen und Verkehrseinrichtungen für die öffentlichen Strassentransportdienste können gefördert werden, sofern:
+<sup>1</sup> Der Kanton kann an die Erstellung und Erneuerung von Anschlussgleisen Beiträge gewähren.
 
-- a) durch neue Massnahmen die Verkehrsbedienung erheblich verbessert wird und
+<sup>2</sup> Begriff, Voraussetzungen, anrechenbare Kosten sowie Auflagen und Bedingungen zur Förderung von Anschlussgleisen richten sich nach den einschlägigen Bestimmungen des Bundesgesetzes über den Gütertransport durch Bahn- und Schifffahrtsunternehmen[^29-1], soweit der Kanton keine abweichenden Bestimmungen erlässt.
 
-- b) die Betragsempfänger und weitere an der Massnahme Interessierte eine angemessene Eigenleistung erbringen.
+<sup>3</sup> Die Bemessung der Beiträge richtet sich nach dem kantonalen Interesse. Der Beitrag beträgt bis zu 30 Prozent der anrechenbaren Kosten.
 
-[^29-1]: Fassung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. Januar 2008 in Kraft getreten.
+[^29-1]: SR [742.41](https://db.clex.ch/link/Bund/742.41/de)
 
 #### Art. 30
 
-**Beteiligung an Bundesbeiträgen**[^29-1]
+**Kombinierter Schienengüterverkehr**
 
-Entrichtet der Bund Beiträge zur Förderung des öffentlichen Verkehrs oder zur Verbesserung der Verkehrsinfrastruktur in Städten und Agglomerationen, kann sich der Kanton an den Kosten beteiligen, sofern das Bundesrecht Leistungen des Kantons oder der Gemeinden voraussetzt.
+<sup>1</sup> Der Kanton kann für den Bau, die Anschaffung oder die Erneuerung von Anlagen, die der Verlagerung von Gütern auf die Schiene im kombinierten Schienengüterverkehr dienen, Beiträge gewähren.
+
+<sup>2</sup> Begriff, Voraussetzungen, anrechenbare Kosten sowie Auflagen und Bedingungen zur Förderung des kombinierten Schienengüterverkehrs richten sich nach den einschlägigen Bestimmungen des Bundesgesetzes über den Gütertransport durch Bahn- und Schifffahrtsunternehmen[^30-1], soweit der Kanton keine abweichenden Bestimmungen erlässt.
+
+<sup>3</sup> Die Bemessung der Beiträge richtet sich nach dem kantonalen Interesse. Der Beitrag beträgt bis zu 50 Prozent der anrechenbaren Kosten.
+
+[^30-1]: SR [742.41](https://db.clex.ch/link/Bund/742.41/de)
 
 #### Art. 31
 
-**Grenzüberschreitende Massnahmen**
+**Eigenleistung**
 
-<sup>1</sup> Grenzüberschreitende Massnahmen werden gefördert, wenn sich die Interessierten ausserhalb des Kantons finanziell beteiligen.
+<sup>1</sup> Die Gesuchstellerin, der Gesuchsteller oder weitere an der Massnahme Interessierte wie Gemeinden oder Dritte haben eine angemessene Eigenleistung zu erbringen.
 
-<sup>2</sup> Für kurze Strecken ausserhalb des Kantons kann ausnahmsweise auf die Beteiligung Dritter verzichtet werden.
-
-### V. Mitspracherecht, Finanzierung und Steuerbefreiung
+<sup>2</sup> An Vorhaben, die für nicht involvierte Nachbargemeinden von einem bedeutenden Interesse sind, haben sich diese finanziell zu beteiligen.
 
 #### Art. 32
 
-**Mitspracherecht und Mitwirkung**
+**Verwirkung**
 
-<sup>1</sup> Der Kanton sichert sich bei der Gewährung von Beiträgen ein angemessenes Mitspracherecht in den Aufsichtsorganen der unterstützten Transportunternehmen oder eine entsprechende Kontrolle über die Verwendung der gewährten Beiträge.
+<sup>1</sup> Beginnt eine Gesuchstellerin oder ein Gesuchsteller mit der Ausführung des Vorhabens bereits vor der Beitragszusicherung oder werden Anschaffungen beziehungsweise Bestellungen bereits davor getätigt, werden keine Beiträge gewährt.
 
-<sup>2</sup> Gemeinden und Regionalplanungsorganisationen wirken bei der Ausarbeitung von Konzepten und bei der Vorbereitung von Massnahmen zur Förderung des regionalen und überregionalen Verkehrs mit.
+<sup>2</sup> Der Gesuchstellerin oder dem Gesuchsteller kann der vorzeitige Baubeginn oder die vorzeitige Anschaffung beziehungsweise Bestellung durch den Kanton bewilligt werden.
+
+<sup>3</sup> Die vorzeitige Bewilligung verleiht keinen Anspruch auf eine Beitragsgewährung.
 
 #### Art. 33
 
-**Finanzierung**
+**Projektabweichungen**
 
-Die Kantonsbeiträge werden über den allgemeinen Staatshaushalt finanziert.
+<sup>1</sup> Weicht die realisierte Baute, Anlage oder Bestellung vom Gesuch ab, das der Beitragsverfügung oder dem Beitragsbeschluss zugrunde liegt, kann der Kanton die Beiträge an das Vorhaben kürzen, streichen oder zurückfordern.
+
+<sup>2</sup> Die Gesuchstellerin oder der Gesuchsteller darf wesentliche oder zu Mehrkosten führende Projektänderungen nur mit vorheriger Genehmigung des Kantons vornehmen.
 
 #### Art. 34
 
-**Steuerbefreiung**
+**Zweckentfremdung**
 
-<sup>1</sup> ...[^34-1]
+<sup>1</sup> Werden Vorhaben gemäss Artikel 26 ff. dieses Gesetzes durch den Kanton unterstützt und ihrem Zweck entfremdet oder zweckwidrig genutzt, sind die Beiträge dem Kanton unverzüglich anteilsmässig zu erstatten.
 
-<sup>2</sup>[^34-2]Die Rhätische Bahn und die Matterhorn Gotthard Bahn sind von jeglicher kantonaler und kommunaler Steuer befreit.
+<sup>2</sup> In Ausnahmefällen kann der Kanton auf Gesuch hin von einer Rückforderung absehen.
 
-<sup>3</sup> Die Steuerbefreiung der übrigen öffentlichen Strassentransportunternehmen richtet sich nach dem kantonalen Steuergesetz.[^34-3]
-
-[^34-1]: Aufgehoben gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. Januar 2008 in Kraft getreten.
-[^34-2]: Fassung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. 01.12.2012 7
-[^34-3]: BR 720.000
-
-### VI. Organisation
-
-- 1\. BEHÖRDEN
+### 3.4. Weitere Beiträge
 
 #### Art. 35
 
-**Grosser Rat**
+**Geschichtliches und kulturelles Erbe**
 
-<sup>1</sup>[^35-1]Der Grosse Rat legt mit dem Budget den Beitrag zur Förderung des öffentlichen Verkehrs fest.
+<sup>1</sup> Der Kanton kann an Massnahmen zum Erhalt und zur Vermittlung des geschichtlichen und kulturellen Erbes des öffentlichen Verkehrs Beiträge gewähren.
 
-<sup>2</sup> Das fakultative oder obligatorische Finanzreferendum gemäss Kantonsverfassung[^35-2] bleibt vorbehalten für:
+<sup>2</sup> Die Förderung erfolgt gestützt auf eine Leistungsvereinbarung mit dem Kanton.
 
-- a) den Bau neuer Eisenbahnlinien (Art. 5);
-
-- b) Massnahmen gemäss Artikel 19 litera i;
-
-- c) Bauten, Anlagen und Verkehrseinrichtungen der öffentlichen Strassentransportdienste (Art. 29);
-
-- d) die Beteiligung an Bundesbeiträgen (Art. 30).
-
-[^35-1]: Fassung gemäss Anhang zum Gesetz über den Finanzhaushalt des Kantons Graubünden, BR 710.100; am 1. Dezember 2012 in Kraft getreten.
-[^35-2]: BR 110.100
+## 4. Fahrplan
 
 #### Art. 36
 
-**Regierung**
+**Fahrplanregionen und Fahrplanverfahren**
 
-<sup>1</sup> Der Vollzug dieses Gesetzes obliegt der Regierung. Sie kann hiezu insbesondere Vorschriften erlassen über:
+<sup>1</sup> Der Kanton legt die Fahrplanregionen und die Grundsätze des Fahrplanverfahrens fest, soweit sie nicht vom Bund vorgegeben sind.
 
-- a) die Verdichtung des Verkehrsangebotes und die Abgrenzung der Einzugsgebiete (Art. 10-12);
+<sup>2</sup> Die Fahrplanregionen koordinieren im Zusammenhang mit dem öffentlichen Verkehr die Anliegen und Anträge der jeweiligen Region. Sie unterbreiten dem Kanton insbesondere Vorschläge zur Gestaltung des Angebots im öffentlichen Verkehr in der Region und Anträge für Fahrplanbegehren.
 
-- b) die Beitragsgewährung für Anschlussgleise (Art. 28 Abs. 1).
+<sup>3</sup> Die Fahrplanregionen sind in der Ausgestaltung des Fahrplanverfahrens für die jeweilige Region frei und können die Aufgaben gemäss Absatz 2 auf Gemeindeverbände oder ähnliche Organisationen übertragen.
 
-<sup>2</sup>[^36-1]Können sich die beteiligten Gemeinden über die Einführung und Finanzierung von Leistungen, die durch den Bund nicht mitfinanziert werden (Art. 15 Abs. 2 und 3), oder von Versuchsbetrieben der Strassentransportdienste (Art. 20 Abs. 1) nicht einigen, kann die Regierung die notwendigen Anordnungen treffen.
+<sup>4</sup> Die Regierung wählt für jede Fahrplanregion deren Fahrplanpräsidentin oder Fahrplanpräsidenten.
 
-<sup>3</sup> Die Regierung sichert das Mitspracherecht bei unterstützten Verkehrsunternehmen und äussert sich zu Konzessionen der Eisenbahnunternehmen.
-
-[^36-1]: Fassung gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. 8 01.12.2012
+## 5. Subventionsrechtliche Prüfung
 
 #### Art. 37
 
-**Departement**
+**Betriebsbeiträge des Kantons**
 
-<sup>1</sup> Das zuständige Departement bearbeitet alle Sachfragen im Zusammenhang mit dem öffentlichen Verkehr. Es bezeichnet hiefür eine Fachstelle[^37-1].
+<sup>1</sup> Die Rechnungen und Bilanzen der Transportunternehmen, die Betriebsbeiträge des Kantons erhalten, aber nicht einer subventionsrechtlichen Prüfung gemäss den einschlägigen Bestimmungen des Bundesgesetzes über die Personenbeförderung[^37-1] unterliegen, können vom Kanton eingefordert werden. Der Kanton kann von den Transportunternehmen zusätzliche Unterlagen und Nachweise verlangen.
 
-<sup>2</sup> Das Departement äussert sich zur Erteilung von Verkehrsrechten der Strassentransportdienste, zu Bauvorhaben der Eisenbahnunternehmen und trifft Vereinbarungen mit Dritten.
+<sup>2</sup> Der Kanton kann periodisch oder nach Bedarf prüfen, ob die von ihm aufgrund einer Angebotsvereinbarung an die Transportunternehmen gewährten Beiträge zweckkonform verwendet wurden.
 
-<sup>3</sup> Vorbehalten bleibt die Zuständigkeit der Regierung im Rahmen der kantonalen Finanzordnung.
+[^37-1]: SR [745.1](https://db.clex.ch/link/Bund/745.1/de)
 
-[^37-1]: Ab 1. Januar 2008 Amt für Energie und Verkehr, vgl. RB-Nr. 630 vom 22. Mai 2007
-[^37-2]: Einfügung gemäss Anhang zum Gesetz über die Verwaltungsrechtspflege (VRG), AGS 2006, KA 3327, am 1. Januar 2007 in Kraft getreten.
-
-#### Art. 37a
-
-**Rechtsmittel**[^37-2]
-
-<sup>1</sup> Entscheide des Departements über die Zusicherung oder Verweigerung von Beiträgen können mit Verwaltungsbeschwerde an die Regierung weitergezogen werden.
-
-<sup>2</sup> Über die Zusicherung oder Verweigerung von Beiträgen, auf die kein gesetzlicher Anspruch besteht, entscheidet die Regierung endgültig.
-
-- 2\. VERKEHRSKOMMISSION UND FAHRPLANVERFAHREN
-
-[^37a-1]: Aufgehoben gemäss GRB vom 18. April 2007; GRP 2006/2007, 981; B zur Umsetzung des NFA-GR vom 9. Januar 2007, 1937; AGS 2007, KA 2007, 1629; am 1. Januar 2008 in Kraft getreten. 01.12.2012 9
+## 6. Zuständigkeiten und Rechtspflege
 
 #### Art. 38
 
-[^37a-1]
+**Grosser Rat**
+
+<sup>1</sup> Der Grosse Rat legt die finanziellen Mittel für den öffentlichen Verkehr unter Berücksichtigung des kantonalen Konzepts des öffentlichen Verkehrs mit dem Budget fest.
+
+<sup>2</sup> Er kann in abschliessender Kompetenz die rückzahlbaren und bedingt rückzahlbaren Darlehen des Kantons zur Finanzierung der Infrastruktur des öffentlichen Verkehrs unter Vorbehalt der notwendigen aktienrechtlichen Beschlüsse in Eigenkapital umwandeln, insbesondere um den Kanton an notwendigen Bilanzsanierungen zu beteiligen.
 
 #### Art. 39
 
-**Fahrplanverfahren**
+**Regierung**
 
-Die Regierung wählt die Behörden für die Durchführung des Fahrplanverfahrens, bestimmt die Fahrplanregionen und regelt das kantonale Verfahren.
+<sup>1</sup> Sofern der Bund und die beteiligten Kantone dies ebenfalls tun, kann die Regierung in abschliessender Kompetenz:
 
-### VII. Übergangsbestimmung, Aufhebung bisherigen Rechts
-
-und Inkraftsetzung
-
-[^hVIIÜbergangsbestim-1]: Fassung gemäss GRB vom 15. Juni 2011; Staatsrechnung 2010, 65, GRP 2010/2011, 855, mit RB vom 13. Februar 2012 rückwirkend auf den 31. Oktober 2011 in Kraft gesetzt.
+- a) auf die Rückzahlung von rückzahlbaren und bedingt rückzahlbaren Darlehen des Kantons zur Finanzierung der Infrastruktur des öffentlichen Verkehrs entsprechend seinem Darlehensanteil verzichten;
+- b) die bedingt rückzahlbaren Darlehen des Kantons zur Finanzierung der Infrastruktur des öffentlichen Verkehrs entsprechend seinem Darlehensanteil in Reserven umwandeln, insbesondere um sich an notwendigen Bilanzsanierungen zu beteiligen;
+- c) die bedingt rückzahlbaren Darlehen des Kantons unter Vorbehalt der notwendigen aktienrechtlichen Beschlüsse und ohne Änderung der Aktionärsverhältnisse in Aktienkapital umwandeln, insbesondere um sich an notwendigen Bilanzsanierungen zu beteiligen.
 
 #### Art. 40
 
-**Reserve für Albulatunnel**[^hVIIÜbergangsbestim-1]
+**Rechtsmittel**
 
-Zur Finanzierung des kantonalen Anteils an den Kosten zur Erneuerung des Albulatunnels der Rhätischen Bahn wird eine Reserve im Umfang von 40 Millionen Franken gebildet.
+<sup>1</sup> Entscheide des Departements über die Zusicherung oder Verweigerung von Beiträgen können mit Verwaltungsbeschwerde an die Regierung weitergezogen werden.
+
+<sup>2</sup> Die Anforderungen an die Verwaltungsbeschwerde gemäss Absatz 1 ergeben sich aus dem Gesetz über die Verwaltungsrechtspflege[^40-1].
+
+<sup>3</sup> Über die Zusicherung oder Verweigerung von Beiträgen, auf die kein gesetzlicher Anspruch besteht, entscheidet die Regierung endgültig.
+
+[^40-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+
+## 7. Schlussbestimmungen
 
 #### Art. 41
 
-**Aufhebung bisherigen Rechts**
+**Übergangsbestimmungen**
 
-Sämtliche diesem Gesetz widersprechende Erlasse und Beschlüsse werden mit der Inkraftsetzung aufgehoben, namentlich:
+<sup>1</sup> Dieses Gesetz findet auch auf Verfahren Anwendung, die bei Inkrafttreten dieses Gesetzes bereits hängig sind. Davon ausgenommen sind kantonale Beiträge an Sanierungen von Vorhaben des öffentlichen Verkehrs gemäss Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen[^41-1].
 
-- a) das Einführungsgesetz zum eidgenössischen Eisenbahngesetz vom 3. April 1960[^41-1];
+<sup>2</sup> Für die bereits zugesicherten Beiträge gelten die bisherigen Bestimmungen.
 
-- b) das Gesetz betreffend die Beteiligung des Kantons am Ausbau des bündnerischen Schmalspurbahnnetzes vom 20. Juni 1897[^41-2];
+[^41-1]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
 
-- c) die Ausführungsbestimmungen des Grossen Rates zum kantonalen Eisenbahngesetz vom 22. Mai 1902[^41-3];
-
-- d) das Gesetz über die Besteuerung der Eisenbahnen im Kanton Graubünden vom 3. November 1895[^41-4].
-
-[^41-1]: BR 873.100; AGS 1960, 124; AGS 1977, 242
-[^41-2]: BR 873.200; aRB 1314
-[^41-3]: BR 873.210; aRB 1317
-[^41-4]: BR 873.300; aRB 1321
-
-#### Art. 42
-
-**Inkraftsetzung**
-
-Nach Annahme dieses Gesetzes durch das Volk bestimmt die Regierung den Zeitpunkt der Inkraftsetzung.[^42-1]
-
-[^42-1]: Mit RB vom 17. Mai l993 auf den 1. Januar 1994 in Kraft gesetzt 10 01.12.2012
+2022-048

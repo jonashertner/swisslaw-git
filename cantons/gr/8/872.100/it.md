@@ -2,449 +2,474 @@
 canton: GR
 number: "872.100"
 title: Legge sui trasporti pubblici nel Cantone dei Grigioni
-short: LTP
+short: LTPubb
 language: it
-version: 2012-12-01
-corrected: 2014-10-26
-version_adopted: 2011-10-19
+version: 2023-01-01
+version_adopted: 2022-09-02
 adopted: 2022-09-02
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/872.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1569/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3291/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sui trasporti pubblici nel Cantone dei Grigioni (LTP)
+# Legge sui trasporti pubblici nel Cantone dei Grigioni
 
-accettata dal Popolo il 7 marzo 1993[^t-1]
+(LTPubb)
 
-in base all'art 42bis della Costituzione cantonale[^t-2]
+del 02.09.2022 (stato 01.01.2023)
 
-I. Campo di validità e scopo
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-[^t-1]: M 10 giu. 1992, 191; PGC 1992/93, 311
-[^t-2]: Nella nuova Cost. cant. art. 82 cpv. 3; CSC 110.100
+visto l'art. 82 cpv. 1 e cpv. 3 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 3 maggio 2022[^ingress-3],
+
+decide:
+
+[^ingress-1]: PGC 2022/2023, 49
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: Pagina 103
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Campo di validità**
+**Oggetto e campo d'applicazione**
 
-Sono soggette alla presente legge le imprese di trasporto nel Cantone dei Grigioni nel campo dei trasporti pubblici indipendentemente dalla loro forma giuridica.
+<sup>1</sup> La presente legge disciplina i trasporti pubblici nel Cantone dei Grigioni per quanto concerne i collegamenti, l'offerta, i contributi, le competenze e la procedura.
+
+<sup>2</sup> Essa disciplina inoltre l'ordinazione e il finanziamento del trasporto ferroviario di merci nel Cantone dei Grigioni.
+
+<sup>3</sup> Sono soggetti alla presente legge le imprese di trasporto attive nel Cantone dei Grigioni, i comuni, le regioni, le corporazioni di comuni e le organizzazioni simili che svolgono compiti nel settore dei trasporti pubblici nel Cantone.
 
 #### Art. 2
 
 **Scopo**
 
-<sup>1</sup> Il Cantone e i comuni assicurano i collegamenti del traffico del Cantone con i mezzi pubblici di trasporto e stimolano ad usarli maggiormente.
+<sup>1</sup> Il Cantone e i comuni promuovono i trasporti pubblici tenendo conto di una politica degli insediamenti, economica, energetica, ambientale e sociale sostenibile con l'obiettivo di:
 
-<sup>2</sup> Essi promuovono il trasporto pubblico di persone e quello merci su rotaia allo scopo di proteggere l'uomo e il suo ambiente, di usare in modo parsimonioso ed economico l'energia nonché di coordinare i trasporti pubblici e privati.
+- a) garantire un collegamento adeguato alle esigenze di tutte le località coordinando tutto il traffico;
+- b) assicurare un utilizzo efficiente dei fondi dell'ente pubblico nel quadro delle direttive finanziarie;
+- c) utilizzare l'energia in maniera parsimoniosa ed economica nonché di salvaguardare l'ambiente;
+- d) creare incentivi per il passaggio al trasporto pubblico;
+- e) prendere in considerazione e integrare nuove tecnologie e forme di mobilità nella concezione dei trasporti.
 
-### II. Ferrovie Federali Svizzere e imprese ferroviarie
-
-concessionarie
+<sup>2</sup> Il Cantone coordina i trasporti pubblici con il trasporto a lunga percorrenza e il trasporto ferroviario di merci.
 
 #### Art. 3
 
-**Principio**
+**Coordinamento e collaborazione**
 
-Le Ferrovie Federali Svizzere e le imprese ferroviarie concessionarie garantiscono i collegamenti del traffico del Cantone con mezzi pubblici di trasporto nei trasporti regionali e interregionali.
+<sup>1</sup> In collaborazione con la Confederazione, i comuni, le regioni, le corporazioni di comuni nonché organizzazioni simili il Cantone coordina le misure a favore dei trasporti pubblici e del trasporto ferroviario di merci. Esso le coordina con il traffico individuale motorizzato nonché con il traffico pedonale e ciclistico.
+
+<sup>2</sup> Il Cantone collabora con la Confederazione, i Cantoni confinanti, le regioni estere confinanti, i comuni, le regioni, le corporazioni di comuni, le organizzazioni simili nonché le imprese di trasporto.
 
 #### Art. 4
 
-**Imprese ferroviarie concessionarie**
+**Definizioni**
 
-<sup>1</sup> Il Cantone si assume la quota dei sussidi che gli spetta, i quali vengono concessi dalla Confederazione alle imprese ferroviarie concessionarie ai sensi delle disposizioni della legge federale sulle ferrovie.[^4-1]
+<sup>1</sup> Nella presente legge si intende per:
 
-<sup>2</sup> La forma, gli oneri e le condizioni dei sussidi cantonali si conformano in linea di massima ai decreti della Confederazione.
+- a) trasporti pubblici: offerte di trasporto volte a collegare località con mezzi di trasporto accessibili a tutti e che di norma circolano secondo un orario pubblicato;
+- b) trasporto ferroviario di merci: trasporto di merci su rotaia nonché trasbordo di merci nel quadro del trasporto combinato;
+- c) imprese di trasporto: imprese dei trasporti pubblici che offrono una prestazione di trasporto su mandato pubblico;
+- d) tipologie di collegamento: attribuzione del collegamento mediante il trasporto pubblico sul territorio cantonale nel quadro dei collegamenti di base (traffico regionale viaggiatori e collegamenti elementari), dei collegamenti complementari o del trasporto locale;
+- e) offerta: linea dei trasporti pubblici con un determinato numero di coppie di corse, suddivisa in diversi livelli di offerta;
+- f) contributi d'esercizio: contributi che vengono erogati in base a una convenzione sull'offerta di norma sotto forma di indennità per i costi non coperti nel quadro della procedura di ordinazione;
+- g) contributi agli investimenti o di promozione: prestazioni valutabili in denaro concesse al richiedente, a condizione che quest'ultimo impieghi fondi propri in modo adeguato;
+- h) nuove forme di mobilità: offerte nel trasporto pubblico e nel trasporto ferroviario di merci che non necessariamente circolano secondo un orario pubblicato.
 
-<sup>3</sup> Il Cantone può vincolare i suoi sussidi ad ulteriori condizioni e oneri oppure accordarli a condizioni più vantaggiose.
+## 2. Offerta
 
-[^4-1]: RS 742.101 31.10.2011 1
+### 2.1. Pianificazione
 
 #### Art. 5
 
-**Costruzione di nuove linee**
+**Piano cantonale dei trasporti pubblici**
 
-Il Cantone può partecipare con sussidi alla costruzione di nuove linee ferroviarie.
+<sup>1</sup> Il piano cantonale dei trasporti pubblici serve alla pianificazione a medio termine e alla gestione a lungo termine dell'offerta. Esso viene rielaborato e approvato periodicamente dal Cantone nell'ambito di una pianificazione continua.
 
-[^5-1]: Abrogazione giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1656; entrata in vigore il 1° gen. 2008 2 31.10.2011
+<sup>2</sup> In sede di elaborazione del piano cantonale dei trasporti pubblici, il Cantone prende atto degli interessi dei comuni, delle corporazioni di comuni e delle regioni tramite i presidenti dell'orario. Esso può coinvolgere le imprese di trasporto attive nel Cantone nel settore dei trasporti pubblici.
+
+### 2.2. Collegamenti
 
 #### Art. 6
 
-[^5-1]
+**Livelli di offerta nei trasporti pubblici**
 
-### III. Servizi pubblici di trasporto su strada
-
-- 1\. DISPOSIZIONI GENERALI
+<sup>1</sup> Riguardo al collegamento del territorio cantonale mediante il trasporto pubblico vengono definiti livelli di offerta. Il Cantone definisce i valori indicativi.
 
 #### Art. 7
 
-**Principio**
+**Tipologie di collegamento nei trasporti pubblici**
 
-I servizi pubblici di trasporto su strada garantiscono i collegamenti del Cantone con mezzi pubblici di trasporto nei trasporti locali, in quelli regionali e all'occorrenza in quelli interregionali. Essi possono essere privilegiati rispetto al traffico privato possibilmente mediante misure adeguate.
+<sup>1</sup> I comuni hanno diritto a un collegamento di base adeguato alle esigenze che si conforma alla domanda. L'offerta viene adeguata alle esigenze dipendenti dall'ora del giorno e dalla stagione.
+
+<sup>2</sup> I comuni nei quali la domanda non è sufficiente a soddisfare i presupposti di cui al capoverso 1 per un collegamento di base hanno diritto a un collegamento elementare. Esso si basa sul criterio del numero di abitanti. Il Cantone decide in merito al diritto al collegamento di frazioni di comuni.
+
+<sup>3</sup> I collegamenti complementari comprendono l'offerta che va oltre i collegamenti di base. Essi tengono conto degli obiettivi della politica degli insediamenti, economica, regionale e degli obiettivi turistici.
+
+<sup>4</sup> Il trasporto locale comprende i collegamenti all'interno di una località.
+
+### 2.3. Ordinazione
+
+### 2.3.1. Trasporti pubblici
 
 #### Art. 8
 
-**Servizi pubblici di trasporto su strada**
+**Collegamenti di base e complementari**
 
-I servizi pubblici di trasporto su strada comprendono a) il servizio autopostale e b) le imprese concessionarie di trasporto su strada.
+<sup>1</sup> Nel quadro dei collegamenti di base, il Cantone ordina insieme alla Confederazione collegamenti con il traffico regionale viaggiatori e in aggiunta collegamenti elementari.
+
+<sup>2</sup> In collaborazione con i comuni, le regioni, le corporazioni di comuni od organizzazioni simili il Cantone può ordinare collegamenti che vadano oltre quanto previsto dal capoverso 1 (collegamenti complementari), tenendo conto della domanda e dell'economicità.
+
+<sup>3</sup> La procedura di ordinazione si conforma alle disposizioni in materia previste dall'ordinanza sulle indennità per il traffico regionale viaggiatori[^8-1] concernenti le ordinazioni congiunte tra Confederazione e Cantoni, se il Cantone non emana disposizioni divergenti per i collegamenti elementari e complementari. Il Cantone agisce in vece della Confederazione (Ufficio federale dei trasporti). Di norma nel quadro dell'ordinazione conformemente al capoverso 2 la gestione viene assunta dal Cantone.
+
+<sup>4</sup> Nell'anno intermedio della procedura di ordinazione della Confederazione che viene svolta su base biennale il Cantone può adeguare l'ordinazione dei collegamenti di base o dei collegamenti complementari.
+
+[^8-1]: RS [745.16](https://db.clex.ch/link/Bund/745.16/it)
 
 #### Art. 9
 
 **Trasporto locale**
 
-Quale trasporto locale s'intendono su riserva dell'articolo 11 capoverso 3 le linee all'interno di un comune.
+<sup>1</sup> L'ordinazione del trasporto locale è di competenza dei comuni.
 
-- 2\. TRASPORTI REGIONALI E INTERREGIONALI
+<sup>2</sup> Tale ordinazione deve essere coordinata con le catene di trasporto dell'offerta sovraordinata del trasporto pubblico.
+
+### 2.3.2. Trasporto ferroviario di merci
 
 #### Art. 10
 
-**Intensificazione dell'offerta dei trasporti sulle linee esistenti**
+**Ruolo del Cantone**
 
-<sup>1</sup> L'intensificazione dell'offerta dei trasporti sulle linee esistenti si conforma al potenziale della domanda nel comprensorio di una linea. Al riguardo si fa la distinzione tra regioni densamente popolate, regioni rurali e regioni scarsamente popolate.
+<sup>1</sup> Il Cantone ordina il trasporto ferroviario di merci delle imprese di trasporto attive nel Cantone dei Grigioni.
 
-<sup>2</sup> Se una linea presenta su singoli tronchi un potenziale differente della domanda, si deve tenerne conto nel computo della concentrazione dei servizi.
+## 3. Contributi
 
 #### Art. 11
 
-**Forme di infrastruttura: 1. Distinzione**
+**Finanziamento**
 
-<sup>1</sup> In ogni comprensorio di una linea si fa la distinzione tra infrastruttura di base, infrastruttura complementare e infrastruttura dettagliata.
+<sup>1</sup> I contributi cantonali vengono finanziati attraverso il bilancio generale dello Stato.
 
-<sup>2</sup> I comuni hanno diritto a un'adeguata infrastruttura di base e complementare.
-
-<sup>3</sup> Il Governo decide in merito al diritto d'urbanizzazione di frazioni di comuni.
+### 3.1. Contributi d'esercizio
 
 #### Art. 12
 
-**Infrastruttura di base e complementare**
+**Trasporti pubblici**
 
-<sup>1</sup> L'infrastruttura di base provvede a un minimo di mobilità.
+<sup>1</sup> Il Cantone si fa carico della sua quota di costi non coperti nel traffico regionale viaggiatori.
 
-<sup>2</sup> L'infrastruttura complementare copre il fabbisogno che va oltre il minimo di mobilità dato. Al riguardo essa tiene conto degli obiettivi della politica degli insediamenti, economica, regionale e di quelli turistici.
+<sup>2</sup> Il Cantone finanzia i costi non coperti dei collegamenti elementari.
 
-<sup>3</sup> Durante i fine settimana e nei giorni festivi l'offerta viene opportunamente adeguata alle particolari esigenze dei relativi comprensori.
+<sup>3</sup> Il Cantone versa un contributo compreso tra il 50 e l'80 per cento dei costi non coperti dei collegamenti complementari. Se è interessata una pluralità di comuni, la quota dei costi per ciascun comune viene determinata in base ai costi non coperti dei collegamenti complementari secondo il numero di abitanti, se i comuni non stabiliscono un'altra chiave di ripartizione.
+
+<sup>4</sup> I comuni finanziano i costi del trasporto locale.
+
+<sup>5</sup> Di norma i costi di ammortamento e di finanziamento di investimenti nuovi e sostitutivi sono considerati costi che danno diritto a un'indennità a condizione che in precedenza siano stati approvati dai committenti.
 
 #### Art. 13
 
-**Infrastruttura dettagliata**
+**Trasporto ferroviario di merci**
 
-L'infrastruttura dettagliata comprende l'offerta di mezzi pubblici di trasporto che va al di là dell'infrastruttura complementare accordata.
+<sup>1</sup> Il Cantone si fa carico della sua quota di costi non coperti del trasporto ferroviario di merci.
 
 #### Art. 14
 
-**Forme speciali d'esercizio**
+**Convenzioni sull'offerta**
 
-Per forme speciali d'esercizio come autobus secondo necessità, autobus su richiesta, tassì collettivi ecc. fanno stato per analogia i principi degli articoli da 9 a 13.
+<sup>1</sup> Il Cantone stipula convenzioni sull'offerta con le imprese di trasporto per l'offerta di trasporto ordinata sotto la sua gestione.
 
-- 3\. FINANZIAMENTO
+<sup>2</sup> La stipula della convenzione sull'offerta si conforma inoltre alle disposizioni in materia previste dall'ordinanza sulle indennità per il traffico regionale viaggiatori[^14-1].
+
+[^14-1]: RS [745.16](https://db.clex.ch/link/Bund/745.16/it)
 
 #### Art. 15
 
-**Sussidi del Cantone**
+**Carico di autoveicoli**
 
-<sup>1</sup> Il Cantone si assume nei trasporti regionali e interregionali la parte rimanente dei costi non coperti dell'infrastruttura di base e complementare nonché delle forme speciali d'esercizio.
+<sup>1</sup> Non vengono concessi contributi al carico di autoveicoli su rotaia.
 
-<sup>2</sup>[^15-1]Se le prestazioni giusta il capoverso 1 non vengono cofinanziate dalla Confederazione, il Cantone, se l'interesse pubblico di uno o più comuni lo richiede, può compartecipare ai costi scoperti.
-
-<sup>3</sup> Giusta il capoverso 2 i sussidi del Cantone ammontano dal 20 percento al 55 percento e vengono commisurati al numero degli abitanti e alla capacità finanziaria dei comuni interessati. Ciò vale anche per la quota dei comuni, ove questi non accordino alcun'altra chiave di ripartizione.
-
-[^15-1]: Testo giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 31.10.2011 3
+<sup>2</sup> Per motivi di politica regionale o per altri motivi importanti, a titolo eccezionale il Cantone può farsi carico di costi non coperti per singoli collegamenti, se per ragioni economiche il loro esercizio non è esigibile per l'impresa di trasporto.
 
 #### Art. 16
 
-**Sussidi dei comuni**
+**Offerte transfrontaliere**
 
-I comuni si assumono i costi non coperti del trasporto locale nonché i disavanzi d'esercizio dell'infrastruttura di base e complementare nei trasporti regionali e interregionali giusta l'articolo 15 capoverso 3 e i costi dell'infrastruttura dettagliata.
+<sup>1</sup> Il Cantone può partecipare all'ordinazione di offerte transfrontaliere nel servizio di linea, se le parti interessate fuori Cantone partecipano in maniera adeguata al finanziamento dei costi non coperti.
+
+<sup>2</sup> A titolo eccezionale il Cantone può rinunciare alla partecipazione finanziaria di terzi per tratti brevi situati al di fuori del territorio cantonale.
+
+### 3.2. Contributi di promozione
 
 #### Art. 17
 
-**Esclusione di sussidi cantonali**
+**Misure per la promozione dei trasporti pubblici**
 
-Non vengono versati sussidi per prestazioni economiche di mercato. Essi rientrano nella sfera di competenza dei servizi pubblici di trasporto su strada. Ne fanno parte soprattutto gli autobus per sciatori e i servizi, che servono prevalentemente al traffico turistico.
+<sup>1</sup> Il Cantone può concedere contributi per la promozione dei trasporti pubblici. Le seguenti misure possono beneficiare di sostegno:
+
+- a) linee turistiche dei trasporti pubblici;
+- b) esercizi sperimentali;
+- c) misure transfrontaliere;
+- d) nuove forme di mobilità;
+- e) misure correlate ai trasporti pubblici che permettono di evitare o di ridurre in maniera sostanziale le emissioni di CO₂;
+- f) altre misure che agevolano l'uso dei mezzi pubblici di trasporto o che promuovono il passaggio a questo genere di mezzi;
+- g) comunità tariffarie.
+
+<sup>2</sup> I contributi ammontano al massimo al 50 per cento dei costi non coperti. Il calcolo dei contributi si conforma all'interesse cantonale nei confronti della misura dal punto di vista dei trasporti pubblici.
+
+<sup>3</sup> Se prevale l'interesse del Cantone nei confronti di una misura, il Cantone può aumentare i contributi conformemente al capoverso 2.
+
+<sup>4</sup> Una promozione è esclusa se le misure sono attribuibili esclusivamente al trasporto locale. Fa eccezione l'articolo 22 della presente legge.
 
 #### Art. 18
 
-**Stipulazione di convenzioni**
+**Linee turistiche dei trasporti pubblici**
 
-Il Cantone e i comuni possono regolare il genere e il volume dei miglioramenti dell'offerta nonché l'indennizzo in convenzioni con i servizi pubblici di trasporto su strada.
+<sup>1</sup> Il Cantone può concedere contributi per linee turistiche dei trasporti pubblici.
 
-### IV. Incremento dei trasporti pubblici
+<sup>2</sup> Le linee turistiche non possono avere una funzione diretta di collegamento, non devono porsi in concorrenza con offerte del trasporto regionale viaggiatori e del trasporto locale e devono indurre un passaggio a questi mezzi.
 
 #### Art. 19
 
-**Misure**
+**Esercizi sperimentali**
 
-Possono essere sostenute le seguenti misure per l'incremento dei trasporti pubblici di persone e merci:
+<sup>1</sup> Il Cantone può concedere contributi durante l'esercizio sperimentale.
 
-- a) prolungamento di linee esistenti e introduzione di nuove linee dei servizi di trasporto su strada oppure di particolari forme d'esercizio nei trasporti regionali e interregionali;
+<sup>2</sup> Una volta concluso l'esercizio sperimentale, il progetto deve essere finanziato in conformità all'articolo 12 o all'articolo 21 della presente legge.
 
-- b) misure tariffarie;
-
-- c) unioni tariffarie;
-
-- d) costruzione di posteggi presso stazioni di mezzi pubblici di trasporto;
-
-- e) costruzione di binari di raccordo;
-
-- f) costruzioni, impianti e attrezzature del traffico per i servizi di trasporto su strada;
-
-- g) partecipazione ai sussidi federali;
-
-- h) misure che oltrepassano i confini;
-
-- i) altre misure che agevolano l'uso dei mezzi pubblici di trasporto o che promuovono la scelta di questo genere di mezzi.
-
-**4**
-
-31.10.2011
+<sup>3</sup> Un esercizio sperimentale viene riconosciuto per una durata di fino a cinque anni.
 
 #### Art. 20
 
-**Prolungamento di linee esistenti e introduzione di nuove linee; particolari forme d'esercizio**
+**Misure transfrontaliere**
 
-<sup>1</sup> Durante l'esercizio sperimentale del prolungamento di linee esistenti e l'introduzione di nuove linee oppure di particolari forme d'esercizio il Cantone si assume una quota parte del 20 -55 percento dei disavanzi d'esercizio. La commisurazione dei sussidi del Cantone e dei comuni si conforma all'articolo 15 capoverso 3.
+<sup>1</sup> Il Cantone può concedere contributi per misure transfrontaliere se esse inducono un passaggio a questi mezzi e se le parti interessate fuori Cantone partecipano in maniera adeguata al finanziamento.
 
-<sup>2</sup> In caso di particolari forme d'esercizio secondo l'articolo 14, il Cantone può assumersi per l'esercizio sperimentale l'intero disavanzo.
-
-<sup>3</sup> Al termine dell'esercizio sperimentale il finanziamento avviene giusta gli articoli 15 e 16.
+<sup>2</sup> Se la misura riguarda un'offerta con un tratto breve situato al di fuori del territorio cantonale, a titolo eccezionale il Cantone può rinunciare alla partecipazione finanziaria di terzi.
 
 #### Art. 21
 
-**Misure tariffarie: 1. Sussidi**
+**Nuove forme di mobilità**
 
-<sup>1</sup> Il Cantone può concordare con le imprese pubbliche di trasporto agevolazioni tariffarie.
-
-<sup>2</sup> Per promuovere le regioni malstrutturate dal profilo dei trasporti, il Cantone e i comuni possono a loro volta concordare agevolazioni tariffarie.
-
-<sup>3</sup> Le agevolazioni tariffarie devono essere rimborsate interamente alle imprese di trasporto. Il Cantone versa alle misure di cui al capoverso 2 della presente disposizione un sussidio del 25 percento al massimo.
+<sup>1</sup> Il Cantone può concedere contributi per nuove forme di mobilità allo scopo di collegare località in modo opportuno ed efficiente.
 
 #### Art. 22
 
-**2. Esclusione di sussidi cantonali**
+**Misure volte a evitare o a ridurre in maniera sostanziale le emissioni di CO₂**
 
-Il sussidio cantonale ai sensi dell'articolo 21 capoverso 3 non viene versato, se il relativo comune è già integrato in un'unione tariffaria.
+<sup>1</sup> Il Cantone può concedere contributi per misure correlate con i trasporti pubblici che permettono di evitare o di ridurre in maniera sostanziale le emissioni di CO₂.
 
 #### Art. 23
 
-**Unioni tariffarie: 1. Principio e concetto**
+**Ulteriori misure**
 
-<sup>1</sup> Il Cantone promuove la collaborazione tra le imprese dei trasporti pubblici e crea i presupposti per l'introduzione di unioni tariffarie.
+<sup>1</sup> Il Cantone può concedere contributi per altre misure che agevolano l'uso dei mezzi pubblici di trasporto o che promuovono il passaggio a questo genere di mezzi. Si tratta in particolare di:
 
-<sup>2</sup> Le unioni tariffarie sono accordi presi tra le imprese di trasporto. Esse consentono l'uso di un solo biglietto ad una tariffa indipendente dal mezzo di trasporto e dal luogo dove si sale o scende.
+- a) misure informative, di commercializzazione e di promozione delle vendite;
+- b) ulteriori offerte volte a garantire le catene di trasporto e di offerte necessarie in caso di eventi straordinari;
+- c) manifestazioni per le quali viene messo a disposizione un allacciamento migliore con i trasporti pubblici a favore dei partecipanti e degli ospiti;
+- d) agevolazioni tariffarie conformemente alla legge federale sul trasporto di viaggiatori[^23-1].
+
+[^23-1]: RS [745.1](https://db.clex.ch/link/Bund/745.1/it)
 
 #### Art. 24
 
-**2. Costi computabili**
+**Condizioni e rapporto tra i diversi contributi**
 
-Sono considerati costi computabili nel caso di unioni tariffarie le spese amministrative e il conto scoperto causati alle imprese affiliate dall'adesione all'unione tariffaria.
+<sup>1</sup> I contributi per misure volte a promuovere i trasporti pubblici attingendo a mezzi finanziari della Confederazione vengono concessi in base alle condizioni poste da quest'ultima. Essi devono essere considerati in sede di determinazione del contributo cantonale.
+
+<sup>2</sup> Il diritto a contributi da programmi di promozione secondo il capoverso 1 non è vincolante per la promozione cantonale.
+
+<sup>3</sup> I contributi di promozione secondo la presente legge possono essere cumulati. Di norma, aggiunti ad altri contributi di Confederazione e Cantone non possono superare l'80 per cento dei costi non coperti per la singola misura.
+
+<sup>4</sup> Le condizioni poste alle prestazioni proprie, alla perenzione, agli scostamenti dai progetti o al cambiamento di destinazione risultano per analogia dall'articolo 31 segg. della presente legge.
 
 #### Art. 25
 
-**3. Sussidi Cantonali**
+**Comunità tariffarie**
 
-<sup>1</sup> Nel quadro del concetto cantonale il Cantone si assume il 50 percento dei costi computabili per unioni tariffarie in virtù dell'articolo 24.
+<sup>1</sup> Il Cantone sostiene la collaborazione tra le imprese dei trasporti pubblici e crea le condizioni per l'introduzione di comunità tariffarie. Esso può concedere contributi a comunità tariffarie che consentono l'uso di un solo titolo di trasporto ad una tariffa indipendente dal mezzo di trasporto e dal luogo dove si cambia mezzo.
 
-<sup>2</sup> Per la commisurazione dei sussidi comunali sono particolarmente determinanti il numero degli abitanti e la capacità finanziaria, per quanto i comuni non concordino un'altra chiave di ripartizione.
+<sup>2</sup> I contributi vengono erogati all'ente responsabile.
 
-**5**
+<sup>3</sup> Il Cantone e gli altri committenti disciplinano l'indennità all'interno di una relativa convenzione con le imprese di trasporto.
 
-31.10.2011
+<sup>4</sup> Tutte le imprese dei trasporti pubblici che in base alla presente legge ricevono delle prestazioni dal Cantone e dai comuni possono essere obbligate a collaborare in una comunità tariffaria.
 
-<sup>3</sup> Il Cantone e i comuni regolano l'indennizzo in convenzioni con le imprese pubbliche di trasporto.
+### 3.3. Contributi agli investimenti
 
 #### Art. 26
 
-**4. Partecipazione a unioni tariffarie e ordinamenti tariffari**
+**Infrastrutture ferroviarie**
 
-<sup>1</sup> Tutte le imprese dei trasporti pubblici che in base alle presente legge ricevono delle prestazioni dal Cantone e dai comuni, possono essere obbligate a collaborare in un'unione tariffaria.
+<sup>1</sup> Il Cantone può concedere contributi per la costruzione e il potenziamento di infrastrutture ferroviarie che non sono finanziate tramite il Fondo per l'infrastruttura ferroviaria della Confederazione.
 
-<sup>2</sup> Se i comuni non riescono a mettersi d'accordo sulle misure promozionali o sugli indennizzi nel quadro di un sistema tariffario, la decisione spetta in tal caso al Governo.
+<sup>2</sup> In linea di principio i contributi vengono versati a chi realizza l'infrastruttura.
 
-[^26-1]: Testo giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 6 31.10.2011
+<sup>3</sup> Il calcolo dei contributi si conforma all'interesse cantonale. Il contributo ammonta al massimo al 50 per cento dei costi computabili. In caso di progetti di particolare interesse cantonale il Cantone può versare contributi superiori.
+
+<sup>4</sup> Il Cantone può prefinanziare contributi della Confederazione per infrastrutture ferroviarie se il progetto serve ai trasporti pubblici del Cantone.
 
 #### Art. 27
 
-**Impianti park and ride**[^26-1]
+**Costruzioni, impianti e strutture per il traffico di imprese di trasporto su strada dei trasporti pubblici**
 
-<sup>1</sup> Gli impianti park and ride sono impianti di parcheggio situati nelle o presso le stazioni, atti a facilitare il passaggio dai mezzi privati a quelli pubblici.
+<sup>1</sup> Il Cantone può concedere contributi per la costruzione e il rinnovo di costruzioni, impianti e strutture per il traffico di imprese di trasporto su strada dei trasporti pubblici.
 
-<sup>2</sup> Per la costruzione dei relativi impianti il Cantone versa sussidi pari al massimo al 30 percento dei costi computabili. La base di calcolo è costituita dall'importanza della stazione per il traffico e dall'estensione del bacino di utenza.
+<sup>2</sup> I contributi vengono versati a chi si occupa della realizzazione.
+
+<sup>3</sup> Il calcolo dei contributi si conforma all'interesse cantonale. Il contributo ammonta al massimo al 50 per cento dei costi computabili. Se prevale l'interesse del Cantone nei confronti di una misura, il Cantone può versare contributi superiori.
+
+<sup>4</sup> Non vengono versati contributi per la costruzione e il rinnovo di progetti utili esclusivamente al trasporto locale.
 
 #### Art. 28
 
-**Binari di raccordo**
+**Impianti park-and-ride e bike-and-ride**
 
-<sup>1</sup> Il concetto, i presupposti, i costi computabili nonché gli oneri e le condizioni si conformano al diritto federale, per quanto il Cantone non emani disposizioni divergenti.
+<sup>1</sup> Il Cantone può concedere contributi per la realizzazione di impianti park-and-ride e bike-and-ride.
 
-<sup>2</sup> Il Cantone versa alla costruzione di binari di raccordo il 30 percento al massimo dei costi computabili.
+<sup>2</sup> Il calcolo dei contributi si conforma all'interesse cantonale. Il contributo ammonta al massimo al 30 per cento dei costi computabili.
 
 #### Art. 29
 
-**Edifici, impianti e attrezzature per i servizi pubblici di trasporto su strada**
+**Binari di raccordo**
 
-Gli edifici, gli impianti e le attrezzature per i servizi pubblici di trasporto su strada possono essere incrementati, se:
+<sup>1</sup> Il Cantone può concedere contributi per la realizzazione e il rinnovo di binari di raccordo.
 
-- a) mediante nuove misure viene migliorato notevolmente l'uso dei trasporti e
+<sup>2</sup> La definizione, i presupposti, i costi computabili nonché gli oneri e le condizioni per la promozione di binari di raccordo si conformano alle disposizioni in materia della legge federale sul trasporto di merci da parte di imprese ferroviarie e di navigazione[^29-1] nella misura in cui il Cantone non emani disposizioni divergenti.
 
-- b) i beneficiari dei sussidi e altri interessati alle misure apportano un'adeguata prestazione propria.
+<sup>3</sup> Il calcolo dei contributi si conforma all'interesse cantonale. Il contributo ammonta al massimo al 30 per cento dei costi computabili.
 
-[^29-1]: Testo giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1656; entrato in vigore il 1° gen. 2008
+[^29-1]: RS [742.41](https://db.clex.ch/link/Bund/742.41/it)
 
 #### Art. 30
 
-**Partecipazione ai sussidi federali**[^29-1]
+**Trasporto ferroviario combinato di merci**
 
-Se la Confederazione versa sussidi per l'incremento dei trasporti pubblici o per il miglioramento dell'infrastruttura di trasporto nelle città e negli agglomerati, il Cantone può partecipare ai costi, per quanto il diritto federale presupponga prestazioni del Cantone o dei comuni.
+<sup>1</sup> Il Cantone può concedere contributi per la costruzione, l'acquisto o il rinnovo di impianti utili al trasferimento di merci su ferrovia nel trasporto ferroviario combinato di merci.
+
+<sup>2</sup> La definizione, i presupposti, i costi computabili nonché gli oneri e le condizioni per la promozione del trasporto ferroviario combinato di merci si conformano alle disposizioni in materia della legge federale sul trasporto di merci da parte di imprese ferroviarie e di navigazione[^30-1] nella misura in cui il Cantone non emani disposizioni divergenti.
+
+<sup>3</sup> Il calcolo dei contributi si conforma all'interesse cantonale. Il contributo ammonta al massimo al 50 per cento dei costi computabili.
+
+[^30-1]: RS [742.41](https://db.clex.ch/link/Bund/742.41/it)
 
 #### Art. 31
 
-**Misure oltrepassanti i confini**
+**Prestazioni proprie**
 
-<sup>1</sup> Vengono promosse misure che oltrepassano i confini, se gli interessati al di fuori del Cantone partecipano finanziariamente.
+<sup>1</sup> Il richiedente o altre parti interessate alla misura come comuni o terzi sono tenuti ad apportare adeguate prestazioni proprie.
 
-<sup>2</sup> Per brevi tronchi al di fuori del Cantone si può rinunciare in via eccezionale alla partecipazione di terzi.
-
-### V. Diritto di essere consultato, finanziamento ed esenzione
-
-da imposta
+<sup>2</sup> I comuni confinanti non coinvolti che nutrono un interesse importante nei confronti dei progetti sono tenuti a partecipare finanziariamente a questi ultimi.
 
 #### Art. 32
 
-**Diritto di essere consultato e cooperazione**
+**Perenzione**
 
-<sup>1</sup> Il Cantone si assicura all'atto di concedere sussidi un adeguato diritto di essere consultato in seno agli organi di sorveglianza delle imprese di trasporto sussidiate o un relativo controllo sull'impiego dei sussidi erogati.
+<sup>1</sup> Non vengono concessi contributi se un richiedente inizia con l'esecuzione del progetto o se vengono effettuati acquisti od ordinazioni già prima che venga garantito il contributo.
 
-<sup>2</sup> I comuni e le organizzazioni per la pianificazione regionale cooperano nell'elaborazione del concetto e nella preparazione di misure per l'incremento dei trasporti regionali e interregionali.
+<sup>2</sup> Il Cantone può autorizzare il richiedente a iniziare i lavori in anticipo o a procedere in anticipo ad acquisti od ordinazioni.
+
+<sup>3</sup> L'autorizzazione anticipata non garantisce un diritto alla concessione di contributi.
 
 #### Art. 33
 
-**Finanziamento**
+**Scostamenti dai progetti**
 
-I sussidi cantonali vengono finanziati attraverso il bilancio generale dello Stato.
+<sup>1</sup> Se l'edificio, l'impianto o l'ordinazione realizzati si scostano dalla domanda su cui si fonda la decisione o il decreto di contributo, il Cantone può ridurre, revocare o pretendere il rimborso dei contributi per il progetto.
+
+<sup>2</sup> Il richiedente può apportare modifiche al progetto sostanziali o che comportano costi supplementari solo previa approvazione da parte del Cantone.
 
 #### Art. 34
 
-**Esenzione da imposta**
+**Cambiamento di destinazione**
 
-<sup>1</sup> ...[^34-1]
+<sup>1</sup> Se progetti che beneficiano di sostegno conformemente all'articolo 26 segg. della presente legge vengono sottratti alla loro destinazione o utilizzati in modo contrario al loro scopo, i contributi devono immediatamente essere restituiti pro quota al Cantone.
 
-<sup>2</sup>[^34-2]La Ferrovia Retica e la Ferrovia Matterhorn Gotthard sono esenti da qualsiasi genere di imposta cantonale e comunale.
+<sup>2</sup> In casi eccezionali, su richiesta il Cantone può prescindere da un rimborso.
 
-<sup>3</sup> L'esenzione delle altre imprese di trasporto su strada si conforma alla legge cantonale sulle imposte.[^34-3]
-
-[^34-1]: Abrogazione giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1656; entrata in vigore il 1° gen. 2008
-[^34-2]: Testo giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 31.10.2011 7
-[^34-3]: CSC 720.000
-
-### VI. Organizzazione
-
-- 1\. AUTORITÀ
+### 3.4. Altri contributi
 
 #### Art. 35
 
-**Gran Consiglio**
+**Patrimonio storico e culturale**
 
-<sup>1</sup> Il Gran Consiglio stabilisce con il preventivo il sussidio per l'incremento dei trasporti pubblici.
+<sup>1</sup> Il Cantone può concedere contributi per misure volte a salvaguardare e a divulgare il patrimonio storico e culturale dei trasporti pubblici.
 
-<sup>2</sup> Il referendum finanziario facoltativo o obbligatorio giusta la Costituzione cantonale[^35-1] resta riservato per:
+<sup>2</sup> La promozione avviene in base a un accordo di prestazioni con il Cantone.
 
-- a) la costruzione di nuove linee ferroviarie (art. 5);
-
-- b) misure giusta l'articolo 19 lettera i;
-
-- c) edifici, impianti e attrezzature per i servizi pubblici di trasporto su strada (art. 29);
-
-- d) la partecipazione ai sussidi federali (art. 30).
-
-[^35-1]: CSC 110.100
+## 4. Orario
 
 #### Art. 36
 
-**Governo**
+**Regioni dell'orario e procedura di definizione dell'orario**
 
-<sup>1</sup> L'esecuzione della presente legge spetta al Governo. Esso può emanare al riguardo specialmente prescrizioni su:
+<sup>1</sup> Il Cantone stabilisce le regioni dell'orario e i principi della procedura per l'allestimento dell'orario, per quanto non siano prescritti diversamente dalla Confederazione.
 
-- a) l'intensificazione dell'offerta dei trasporti e la delimitazione dei comprensori (art. 10-12)
+<sup>2</sup> Per quanto riguarda i trasporti pubblici, le regioni dell'orario coordinano le esigenze e le richieste della rispettiva regione. Esse sottopongono al Cantone in particolare proposte in merito all'organizzazione dell'offerta nei trasporti pubblici nella regione e richieste relative all'orario.
 
-- b) la concessione di sussidi per binari di raccordo (art. 28 cpv. 1).
+<sup>3</sup> Le regioni dell'orario sono libere di organizzare la procedura per l'allestimento dell'orario per la rispettiva regione e possono trasferire i compiti di cui al capoverso 2 a corporazioni di comuni o a organizzazioni simili.
 
-<sup>2</sup>[^36-1]Se i comuni interessati non riescono a mettersi d'accordo sull'introduzione e il finanziamento di prestazioni che non vengono cofinanziate dalla Confederazione (art. 15 cpv. 2 e 3) o da esercizi sperimentali di servizi di trasporto su strada (art. 20 cpv. 1), il Governo può adottare le disposizioni necessarie.
+<sup>4</sup> Il Governo nomina il presidente dell'orario per ciascuna regione dell'orario.
 
-<sup>3</sup> Il Governo assicura il diritto di essere consultato nel caso di imprese di trasporto sussidiate e si pronuncia in merito alle concessioni delle imprese ferroviarie.
-
-[^36-1]: Testo giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 8 31.10.2011
+## 5. Verifica nell'ottica del diritto dei sussidi
 
 #### Art. 37
 
-**Dipartimento**
+**Contributi d'esercizio del Cantone**
 
-<sup>1</sup> Il Dipartimento competente tratta tutte le questioni settoriali relative ai trasporti pubblici. Esso designa a tal riguardo un apposito ufficio.[^37-1]
+<sup>1</sup> Il Cantone può richiedere i conti e i bilanci delle imprese di trasporto che ricevono contributi d'esercizio del Cantone, ma che non sono soggette a verifica dei conti nell'ottica del diritto dei sussidi conformemente alle disposizioni in materia della legge federale sul trasporto di viaggiatori[^37-1]. Il Cantone può richiedere alle imprese di trasporto documentazione e comprove supplementari.
 
-<sup>2</sup> Il Dipartimento si pronuncia in merito al conferimento di diritti di trasporto dei servizi di trasporto su strada, su progetti di costruzione di imprese ferroviarie e stipula convenzioni con terzi.
+<sup>2</sup> Il Cantone può verificare, periodicamente o all'occorrenza, se i contributi concessi alle imprese di trasporto sulla base di una convenzione sull'offerta sono stati utilizzati in maniera conforme allo scopo.
 
-<sup>3</sup> Resta riservata la competenza del Governo nell'ambito dell'ordinamento finanziario cantonale.
+[^37-1]: RS [745.1](https://db.clex.ch/link/Bund/745.1/it)
 
-[^37-1]: Dal 1° gen. 2008 Ufficio dell'energia e dei trasporti, cfr. DG n. 630 del 22 mag. 2007
-[^37-2]: Introduzione giusta l'appendice alla legge sulla giustizia amministrativa (LGA); AGS 2006, FUC 3419; entrata in vigore il 1° gen. 2007
-
-#### Art. 37a
-
-**Rimedi giuridici**[^37-2]
-
-<sup>1</sup> Le decisioni del Dipartimento sulla garanzia o sul rifiuto di sussidi possono essere impugnate con ricorso amministrativo dinanzi al Governo.
-
-<sup>2</sup> Il Governo decide in via definitiva sulla garanzia o sul rifiuto di sussidi ai quali non esiste un diritto legale.
-
-- 2\. COMMISSIONE PER IL TRAFFICO E PROCEDURA PER L'ALLESTIMENTO DEGLI ORARI
-
-[^37a-1]: Abrogazione giusta DGC del 18 apr. 2007; PGC 2006/2007, 981; M relativo all'attuazione della NPC-GR del 9 gen. 2007, 1937; AGS 2007, FUC 2007, 1656; entrata in vigore il 1° gen. 2008
+## 6. Competenze e rimedi legali
 
 #### Art. 38
 
-[^37a-1]
+**Gran Consiglio**
+
+<sup>1</sup> Il Gran Consiglio stabilisce i mezzi finanziari per i trasporti pubblici all'interno del preventivo, tenendo conto del piano cantonale dei trasporti pubblici.
+
+<sup>2</sup> Fatte salve le decisioni necessarie a tal fine secondo il diritto della società anonima e in competenza esclusiva, esso può convertire in capitale proprio i mutui rimborsabili e condizionalmente rimborsabili del Cantone per il finanziamento dell'infrastruttura dei trasporti pubblici, segnatamente per consentire la partecipazione del Cantone a misure di risanamento finanziarie necessarie.
 
 #### Art. 39
 
-**Procedura per l'allestimento degli orari**
+**Governo**
 
-Il Governo nomina l'autorità per l'esecuzione della procedura per l'allestimento degli orari, stabilisce le regioni per le quali viene allestito un determinato orario e ne disciplina la rispettiva procedura cantonale.
+<sup>1</sup> A condizione che la Confederazione e i Cantoni partecipanti lo facciano a loro volta, il Governo può in competenza esclusiva:
 
-### VII. Disposizione transitoria, abrogazioni e messa in vigore
-
-[^hVIIDisposizionetr-1]: Testo giusta DGC del 15 giugno 2011; consuntivo 2010, 65, PGC 2010/2011, 855, posto in vigore con DG del 13 febbraio 2012 con effetto retroattivo al 31 ottobre 2011 31.10.2011 9
+- a) rinunciare al rimborso di mutui rimborsabili e condizionalmente rimborsabili del Cantone per il finanziamento dell'infrastruttura dei trasporti pubblici in misura della sua quota di mutui;
+- b) convertire in riserve i mutui condizionalmente rimborsabili del Cantone per il finanziamento dell'infrastruttura dei trasporti pubblici in misura della sua quota di mutui, segnatamente per partecipare a misure di risanamento finanziarie necessarie;
+- c) convertire in capitale azionario i mutui condizionalmente rimborsabili del Cantone per il finanziamento dell'infrastruttura dei trasporti pubblici fatte salve le decisioni necessarie a tal fine secondo il diritto della società anonima e senza modifica dei rapporti azionari, segnatamente per partecipare a misure di risanamento finanziarie necessarie.
 
 #### Art. 40
 
-**Riserva per la galleria dell'Albula**[^hVIIDisposizionetr-1]
+**Rimedi giuridici**
 
-Per il finanziamento della quota cantonale ai costi per il rinnovo della galleria dell'Albula della Ferrovia Retica viene creata una riserva di 40 milioni di franchi.
+<sup>1</sup> Le decisioni del Dipartimento in merito alla garanzia o al diniego di contributi possono essere impugnate con ricorso amministrativo dinanzi al Governo.
+
+<sup>2</sup> I requisiti per il ricorso amministrativo conformemente al capoverso 1 risultano dalla legge sulla giustizia amministrativa[^40-1].
+
+<sup>3</sup> Il Governo decide in via definitiva in merito alla garanzia o al diniego di contributi ai quali non esiste un diritto garantito dalla legge.
+
+[^40-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
+
+## 7. Disposizioni finali
 
 #### Art. 41
 
-**Abrogazioni**
+**Disposizioni transitorie**
 
-Tutti gli atti legislativi e i decreti in contraddizione con la presente legge vengono abrogati con la sua messa in vigore, segnatamente:
+<sup>1</sup> La presente legge si applica anche a procedure già pendenti al momento della sua entrata in vigore. Fanno eccezione i contributi cantonali a favore di risanamenti di progetti dei trasporti pubblici conformemente alla legge federale sull'eliminazione di svantaggi nei confronti dei disabili[^41-1].
 
-- a) la legge d'introduzione della legge federale sulle ferrovie del 3 aprile 1960[^41-1];
+<sup>2</sup> Per i contributi già garantiti fanno stato le disposizioni finora in vigore.
 
-- b) la legge concernente la partecipazione del Cantone al compimento della rete delle ferrovie grigioni a scartamento ridotto del 20 giugno 1897[^41-2];
+[^41-1]: RS [151.3](https://db.clex.ch/link/Bund/151.3/it)
 
-- c) le disposizioni per l'applicazione della legge sulle strade ferrate grigioni del 22 maggio 1902[^41-3];
-
-- d) la legge sull'imposizione delle ferrovie del Cantone Grigione del 3 novembre 1895[^41-4].
-
-[^41-1]: CSC 873.100; RC 1960, 124
-[^41-2]: CSC 873.200; PDG 491
-[^41-3]: CSC 873.210; RC, 290
-[^41-4]: CSC 873.300; PDG 494
-
-#### Art. 42
-
-**Messa in vigore**
-
-Dopo l'accettazione della presente legge da parte del Popolo il Governo fissa la data della messa in vigore.[^42-1]
-
-[^42-1]: Dichiarata in vigore per il 1o gen. 1994 con DG 17 mag. 1993 10 31.10.2011
+2022-048
