@@ -1,0 +1,130 @@
+---
+canton: VS
+number: "211.255"
+title: "Règlement fixant les frais perçus par les autorités de protection de l'enfant et de l'adulte"
+short: ReFA
+language: fr
+version: 2023-01-01
+valid_until: 2023-04-30
+version_adopted: 2022-09-28
+adopted: 2022-09-28
+in_force: 2023-01-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/211.255"
+pdf: "https://lex.vs.ch/api/fr/versions/3074/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
+
+# Règlement fixant les frais perçus par les autorités de protection de l'enfant et de l'adulte
+
+(ReFA)
+
+du 28.09.2022 (état 01.01.2023)
+
+Le Conseil d'Etat du canton du Valais
+
+vu l'article 57 alinéa 1 de la Constitution cantonale;
+
+vu l'article 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
+
+vu les articles 1 alinéa 2 lettre b, 18 alinéa 1 et 35 de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009 (LTar);
+
+vu l'article 31 alinéa 4 de la loi d'application du code civil suisse du 24 mai 1998 (LACC);
+
+vu l'article 36 de l'ordonnance sur la protection de l'enfant et de l'adulte du 28 septembre 2022 (OPEA);
+
+sur proposition du département en charge de la sécurité,
+
+ordonne:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> L'autorité de protection de l'enfant et de l'adulte (ci-après: l'APEA) perçoit les frais qui sont composés des débours et des émoluments.
+
+<sup>2</sup> Pour le surplus, les dispositions de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives (LTar) s'appliquent.
+
+#### Art. 2
+
+**Débours**
+
+<sup>1</sup> Les débours comportent notamment les honoraires alloués aux experts, interprètes et traducteurs et leurs frais de déplacements nécessaires à l'accomplissement des tâches de l'APEA.
+
+<sup>2</sup> Sous réserve de l'alinéa 3, les débours sont mis à la charge de la personne concernée.
+
+<sup>3</sup> Lorsque la personne concernée est indigente, les débours sont supportés par le canton.
+
+#### Art. 3
+
+**Emolument**
+
+<sup>1</sup> L'émolument est la taxe perçue en contrepartie de l'intervention de l'APEA, couvrant en outre, forfaitairement, les frais de chancellerie et autres frais analogues.
+
+<sup>2</sup> Le droit de timbre est perçu en sus de l'émolument.
+
+<sup>3</sup> Sous réserve de l'alinéa 4, l'émolument et le droit de timbre sont mis à la charge de la personne concernée.
+
+<sup>4</sup> Lorsque la personne concernée est indigente, l'émolument est supporté par le canton.
+
+<sup>5</sup> Si une décision entraîne plusieurs actes soumis chacun à un émolument, il y a cumul des différents émoluments.
+
+## 2 Emoluments
+
+#### Art. 4
+
+**Montant des émoluments**
+
+<sup>1</sup> L'APEA perçoit les émoluments suivants:
+
+- a) de 100 à 250 francs, en cas d'existence d'un mandat pour cause d'inaptitude:
+  - 1\. pour l'examen des questions y relatives et les indications au mandataire (art. 363 al. 2 et 3 CC),
+  - 2\. pour compléter et interpréter le mandat (art. 364 CC),
+  - 3\. pour le règlement d'affaires non couvertes par le mandat ou en cas de conflit d'intérêts entre le mandant et le mandataire (art. 365 al. 2 CC),
+  - 4\. pour fixer l'indemnisation du mandataire (art. 366 al. 1 CC),
+  - 5\. pour prendre les mesures nécessaires ou donner des instructions au mandataire, si les intérêts du mandant sont en danger (art. 368 CC);
+- b) de 100 à 250 francs, en cas d'existence de directives anticipées du patient:
+  - 1\. pour l'examen des questions relatives aux directives anticipées (art. 373 CC),
+  - 2\. pour prendre les mesures nécessaires ou donner des instructions, si les directives anticipées ne sont pas respectées, si les intérêts du patient sont en danger ou si les directives anticipées ne sont pas l'expression de la libre volonté du patient;
+- c) de 100 à 250 francs, en cas de représentation par le conjoint ou le partenaire enregistré:
+  - 1\. pour le consentement à des actes relevant de l'administration extraordinaire des biens (art. 374 al. 3 CC),
+  - 2\. pour l'examen des conditions permettant la représentation et la décision et les indications y relatives (art. 376 al. 1 CC),
+  - 3\. pour le retrait partiel ou total du pouvoir de représentation (art. 376 al. 2 CC);
+- d) de 100 à 250 francs, en cas de représentation dans le domaine médical, pour la désignation d'un représentant (art. 381 al. 2 CC);
+- e) de 100 à 350 francs, pour la prise, la modification et la levée de mesures superprovisionnelles ou provisionnelles (art. 445 CC);
+- f) de 100 à 500 francs, pour l'institution d'une tutelle ou d'une curatelle, y compris la nomination du tuteur ou du curateur, ainsi que pour la levée d'une telle mesure, avec les démarches y relatives;
+- g) de 100 à 300 francs, pour la nomination d'un tuteur ou d'un curateur reprenant l'exécution d'une mesure en cours; sauf contestation, aucun émolument n'est perçu en cas de reconduction dans ses fonctions de la même personne à la fin de sa période de fonction;
+- h) de 100 à 500 francs, pour accomplir certains actes, donner mandat à un tiers ou désigner une personne ou un office qualifié (art. 392 CC);
+- i) de 100 à 250 francs, pour le relevé des éléments d'un inventaire, par demi-journée;
+- j) de 100 à 500 francs, pour la collaboration à l'établissement de l’inventaire d’entrée en fonction du curateur (art. 405 al. 2 CC);
+- k) de 100 à 500 francs, pour l'inventaire de la fortune de l'enfant et l'autorisation de prélèvements sur les biens de l'enfant (art. 318 al. 2 et 320 al. 2 CC);
+- l) de 150 à 500 francs, pour l'examen des comptes et des rapports de tutelle ou de curatelle et leur approbation;
+- m) de 100 à 250 francs, pour les consentements relatifs à des actes juridiques (notamment art. 416 et 417 CC);
+- n) de 100 à 500 francs, pour autoriser le curateur à accomplir certains actes matériels (notamment art. 391 al. 3 CC);
+- o) de 100 à 500 francs, pour l'examen et le jugement de recours contre des mesures limitant la liberté de mouvement (art. 385 CC);
+- p) de 100 à 500 francs, pour l'examen et le jugement de recours formés contre le tuteur ou le curateur;
+- q) de 100 à 250 francs, pour dispenser partiellement ou totalement les proches assumant une curatelle de l'obligation de remettre un inventaire, d'établir des rapports et des comptes périodiques et de requérir le consentement pour certains actes;
+- r) de 100 à 250 francs, pour libérer le tuteur ou le curateur de ses fonctions, à l'exclusion d'une non-reconduction à la fin de la période de fonction;
+- s) 100 francs, pour informer les tiers sur l'existence d'une mesure de protection et sur ses effets (art. 451 al. 2 CC);
+- t) de 100 à 200 francs pour le consentement à l'adoption et la décision de renoncer au consentement des parents (art. 265 al. 2, 265a al. 2 et 265d al. 1 CC);
+- u) de 100 à 800 francs, pour les mesures prises et les ordonnances rendues en droit de la filiation (art. 270 à 327 CC);
+- v) de 100 à 150 francs, pour la désignation d’un curateur pour représenter l’enfant en justice, sous réserve de dispositions légales spéciales;
+- x) de 100 à 200 francs, pour l’établissement d’une déclaration sur l’autorité parentale conjointe ou d’une convention d’attribution des bonifications pour tâches éducatives;
+- y) de 100 à 800 francs, pour la décision relative à l’approbation d’une convention sur les effets de la filiation;
+- z) de 100 à 800 francs, pour une décision attribuant ou modifiant l’autorité parentale ou transférant l’autorité parentale;
+- aa) de 100 à 800 francs, pour la modification de jugements relevant du droit du mariage (art. 134 CC);
+- bb) de 100 à 500 francs, pour les décisions relatives aux placements à des fins d’assistance, le suivi post-institutionnel et le traitement ambulatoire;
+- cc) de 100 à 500 francs, pour les décisions en matière de transfert de for.
+
+#### Art. 5
+
+**Autres frais**
+
+<sup>1</sup> Un émolument est perçu:
+
+- a) 50 francs, pour l'établissement d'un duplicata ou d'une attestation;
+- b) 50 centimes la page, pour des photocopies.
+
+RCV RO/AGS 2022-072
