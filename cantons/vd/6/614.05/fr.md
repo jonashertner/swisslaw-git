@@ -4,7 +4,7 @@ number: "614.05"
 title: LOI du 12.03.2013 sur la Cour des comptes (LCComptes)
 short: LCComptes
 language: fr
-version: 2021-03-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.05?id=7edc09c1-d0c8-42c9-bd55-b891b29a58af"
 ---
 
@@ -45,6 +45,7 @@ décrète
 - a. le Grand Conseil et son Secrétariat général ;
 - b. le Conseil d'Etat et son administration ainsi que les entités qui lui sont rattachées ;
 - c. le Tribunal cantonal ainsi que les tribunaux et autres offices qui lui sont rattachés ;
+- cbis. le Ministère public et les entités qui lui sont rattachées ;
 - d. les communes, ainsi que les ententes, associations, fédérations et agglomérations de communes ;
 - e. les personnes morales de droit public ;
 - f. les personnes physiques et morales auxquelles l'Etat ou une commune délègue l'exécution d'une tâche publique ou accorde, directement ou indirectement, une subvention au sens des articles 7 et 12 de la loi sur les subventions[^3-1] ou une autre contribution au sens de l'article 8, alinée 1, lettres a, c, d, f, g de la loi sur les subventions.
@@ -110,9 +111,9 @@ décrète
 
 **Incompatibilités en fonction de parentés ou d'alliances [^9-1]**
 
-<sup>1</sup> Les conjoints, les partenaires enregistrés, les personnes qui font durablement ménage commun, les conjoints et les partenaires enregistrés de frères et soeurs ainsi que les personnes qui font durablement ménage commun avec un frère ou une soeur, les parents en ligne directe et jusqu'au troisième degré inclus, en ligne collatérale, ainsi que les alliés en ligne directe et jusqu'au troisième degré inclus, en ligne collatérale, ne peuvent siéger ensemble à la Cour des comptes, ou en même temps l'un au Conseil d'Etat ou au Tribunal cantonal, l'autre à la Cour des comptes.
+<sup>1</sup> Les conjoints, les partenaires enregistrés, les personnes qui font durablement ménage commun, les conjoints et les partenaires enregistrés de frères et soeurs ainsi que les personnes qui font durablement ménage commun avec un frère ou une soeur, les parents en ligne directe et jusqu'au troisième degré inclus, en ligne collatérale, ainsi que les alliés en ligne directe et jusqu'au troisième degré inclus, en ligne collatérale, ne peuvent siéger ensemble à la Cour des comptes, ou en même temps l'un au Conseil d'Etat, au Conseil de la magistrature, au Tribunal cantonal ou au Collège des procureurs, l'autre à la Cour des comptes.
 
-[^9-1]: Modif. 3 du 24.05.2022: Introduction Art. 3, Al. 1, cbis; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023
+[^9-1]: Modif. 3 du 24.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 11
 
@@ -218,11 +219,11 @@ décrète
 
 <sup>1</sup> La Cour des comptes exerce sa mission dans le respect des principes énoncés par la présente loi ainsi que selon les principes et normes professionnelles en matière d'audit.
 
-<sup>2</sup> La Cour des comptes élabore annuellement son programme de travail qu'elle transmet au Conseil d'Etat, aux Commissions de surveillance, à la Commission de haute surveillance sur le Tribunal cantonal ainsi qu'au Contrôle cantonal des finances.
+<sup>2</sup> La Cour des comptes élabore annuellement son programme de travail qu'elle transmet au Conseil d'Etat, aux Commissions de surveillance, à la Commission chargée de la haute surveillance sur la justice ainsi qu'au Contrôle cantonal des finances.
 
 <sup>3</sup> Deux fois par an au moins, les membres de la Cour des comptes se réunissent avec la direction du Contrôle cantonal des finances, afin de coordonner leurs travaux respectifs.
 
-[^sectionSectionI-1]: Modif. 3 du 24.05.2022: Introduction Art. 3, Al. 1, cbis; entrée en vigueur au 01.01.2023; Modification Al. 2; entrée en vigueur au 01.01.2023
+[^sectionSectionI-1]: Modif. 3 du 24.05.2022: Modification Al. 2; entrée en vigueur au 01.01.2023
 
 #### Art. 21
 
@@ -238,15 +239,15 @@ décrète
 
 **Particularités d'un mandat spécial du Grand Conseil [^21-1]**
 
-<sup>1</sup> Les mandats confiés par le Grand Conseil font l'objet d'une décision de ce dernier, sur requête soit de vingt députés, soit de l'une de ses Commissions de surveillance, soit de sa Commission de haute surveillance sur le Tribunal cantonal. Cette décision nécessite la majorité des membres du Grand Conseil.
+<sup>1</sup> Les mandats confiés par le Grand Conseil font l'objet d'une décision de ce dernier, sur requête soit de vingt députés, soit de l'une de ses Commissions de surveillance soit de la Commission chargée de la haute surveillance sur la justice. Cette décision nécessite la majorité des membres du Grand Conseil.
 
 <sup>2</sup> Le Grand Conseil définit le mandat donné à la Cour des comptes, après que le Conseil d'Etat et la Cour des comptes ont été entendus.
 
 <sup>3</sup> Le Grand Conseil ne peut confier simultanément et sur le même objet un mandat à la Cour des comptes et à une commission d'enquête parlementaire.
 
-<sup>4</sup> Dès l'attribution du mandat, les Commissions de surveillance et la Commission de haute surveillance sur le Tribunal cantonal cessent de s'occuper des faits et responsabilités que la Cour des comptes est chargée d'établir.
+<sup>4</sup> Dès l'attribution du mandat, les Commissions de surveillance et la Commission chargée de la haute surveillance sur la justice cessent de s'occuper des faits et responsabilités que la Cour des comptes est chargée d'établir.
 
-[^21-1]: Modif. 3 du 24.05.2022: Introduction Art. 3, Al. 1, cbis; entrée en vigueur au 01.01.2023; Modification Al. 1,4; entrée en vigueur au 01.01.2023
+[^21-1]: Modif. 3 du 24.05.2022: Modification Al. 1,4; entrée en vigueur au 01.01.2023
 
 #### Art. 23
 
@@ -276,9 +277,9 @@ décrète
 
 <sup>3</sup> Le Conseil d'Etat est l'autorité compétente pour lever le secret fiscal.
 
-<sup>4</sup> La Chancellerie communique à la Cour des comptes toutes les décisions du Grand Conseil et du Conseil d'Etat relatives à leur gestion financière. Il en est de même du Tribunal cantonal.
+<sup>4</sup> La Chancellerie communique à la Cour des comptes toutes les décisions du Grand Conseil et du Conseil d'Etat relatives à leur gestion financière. Il en est de même du Tribunal cantonal et du Ministère public.
 
-[^25-1]: Modif. 3 du 24.05.2022: Introduction Art. 3, Al. 1, cbis; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023
+[^25-1]: Modif. 3 du 24.05.2022: Modification Al. 4; entrée en vigueur au 01.01.2023
 
 #### Art. 27
 
@@ -306,9 +307,9 @@ décrète
 
 <sup>2</sup> Les rapports de la Cour des comptes peuvent exposer les avis minoritaires.
 
-<sup>3</sup> Si la Cour des comptes découvre ou soupçonne une irrégularité à caractère pénal, elle en informe immédiatement, cumulativement ou alternativement, l'organe dirigeant de l'entité contrôlée et l'autorité de surveillance de l'entité, ainsi que le président du Tribunal cantonal lorsque ce dernier est concerné, afin que toutes mesures utiles soient prises. Lorsqu'elle en décide à l'unanimité, la Cour des comptes peut en outre saisir le Ministère public.
+<sup>3</sup> Si la Cour des comptes découvre ou soupçonne une irrégularité à caractère pénal, elle en informe immédiatement, cumulativement ou alternativement, l'organe dirigeant de l'entité contrôlée et l'autorité de surveillance de l'entité, ainsi que le président du Tribunal cantonal ou le Procureur général lorsque ce dernier est concerné, afin que toutes mesures utiles soient prises. Lorsqu'elle en décide à l'unanimité, la Cour des comptes peut en outre saisir le Ministère public.
 
-[^sectionSectionII-2]: Modif. 3 du 24.05.2022: Introduction Art. 3, Al. 1, cbis; entrée en vigueur au 01.01.2023; Modification Al. 3; entrée en vigueur au 01.01.2023
+[^sectionSectionII-2]: Modif. 3 du 24.05.2022: Modification Al. 3; entrée en vigueur au 01.01.2023
 
 #### Art. 30
 
@@ -326,9 +327,9 @@ décrète
 
 <sup>1</sup> Avant de le publier, la Cour des comptes transmet son rapport final au responsable de l'entité contrôlée, aux Commissions de surveillance du Grand Conseil, au Conseil d'Etat ainsi qu'au Contrôle cantonal des finances.
 
-<sup>2</sup> Si le rapport concerne le Tribunal cantonal ou les tribunaux et autres offices qui lui sont rattachés, la Cour des comptes le transmet également à la Commission de haute surveillance sur le Tribunal cantonal ainsi qu'au président du Tribunal cantonal.
+<sup>2</sup> Si le rapport concerne le Tribunal cantonal, les tribunaux et autres offices qui lui sont rattachés ou le Ministère public et les entités qui lui sont rattachées, la Cour des comptes le transmet également à la Commission chargée de la haute surveillance sur la justice, ainsi qu'au président du Tribunal cantonal et au Procureur général.
 
-[^30-1]: Modif. 3 du 24.05.2022: Introduction Art. 3, Al. 1, cbis; entrée en vigueur au 01.01.2023; Modification Al. 2; entrée en vigueur au 01.01.2023
+[^30-1]: Modif. 3 du 24.05.2022: Modification Al. 2; entrée en vigueur au 01.01.2023
 
 #### Art. 32
 
