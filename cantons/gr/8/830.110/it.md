@@ -4,13 +4,13 @@ number: "830.110"
 title: "Ordinanza relativa alla legge concernente l'Assicurazione fabbricati nel Cantone dei Grigioni"
 short: "O relativa alla legge sull'Assicurazione fabbricati, OLAFab"
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-22
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-13
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3171/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3289/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3171/pdf_file"
 
 (O relativa alla legge sull'Assicurazione fabbricati, OLAFab)
 
-del 26.10.2010 (stato 01.01.2022)
+del 26.10.2010 (stato 01.01.2023)
 
 emanata dal Governo il 26 ottobre 2010
 
@@ -215,11 +215,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Contributi per misure di prevenzione facoltative**
 
-<sup>1</sup> Sono computabili le spese che corrispondono a quanto previsto dalle opere specialistiche "Wegleitung Objektschutz gegen gravitative Naturgefahren" e "Wegleitung Objektschutz gegen meteorologische Naturgefahren" dell'associazione delle Assicurazioni fabbricati cantonali nonché alle regole riconosciute dell'arte edilizia e che sono economiche.
+<sup>1</sup> Sono computabili le spese che corrispondono a quanto previsto dalle raccomandazioni pubblicate sulla piattaforma online "Schutz vor Naturgefahren" dell'Associazione degli istituti cantonali di assicurazione antincendio (AICAA) nonché dalle regole riconosciute dell'arte edilizia, e che sono economiche.
 
-<sup>2</sup> Sono economiche le misure i cui costi ammontano al massimo al 75 per cento dei costi legati al danno che si può verificare nell'ubicazione del fabbricato. La verifica dell'economicità di una misura viene effettuata in base al metodo "prevent building" dell'associazione delle Assicurazioni fabbricati cantonali.
+<sup>2</sup> Sono economiche le misure i cui costi ammontano al massimo al 75 per cento dei costi legati al danno che si può verificare nell'ubicazione del fabbricato. L'esame dell'economicità di una misura può essere effettuato mediante un'analisi costi-benefici qualificata.
 
-<sup>3</sup> L'aliquota di contributo ammonta al 25 per cento dei costi computabili.
+<sup>3</sup> L'aliquota di contributo ammonta al 40 per cento dei costi computabili.
 
 ## 5. Finanziamento
 
@@ -337,7 +337,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Se almeno la metà di un fabbricato è danneggiata, il danno viene accertato sulla base dei resti ancora utilizzabili. Nella valutazione dei resti utilizzabili è determinante la misura in cui questi potrebbero essere utilizzati per la ricostruzione di un fabbricato dello stesso genere.
 
-<sup>2</sup> L'Ufficio per le valutazioni immobiliari sostiene l'Assicurazione fabbricati in caso di sinistri medi e gravi. Esso accetta notifiche dall'Assicurazione fabbricati per danni assicurati, le verifica ed elabora i sinistri. L'indennizzo si conforma alle aliquote di compensazione per prestazioni dell'Amministrazione cantonale a favore di terzi. L'indennizzo per il primo giorno di formazione o di perfezionamento professionale organizzato o autorizzato dall'Assicurazione fabbricati per i collaboratori dell'Ufficio per le valutazioni immobiliari ammonta a 350 franchi. Ogni ulteriore giorno di formazione o di perfezionamento professionale viene indennizzato secondo le aliquote di compensazione per servizi dell'Amministrazione cantonale a favore di terzi.
+<sup>2</sup> L'Ufficio per le valutazioni immobiliari sostiene l'Assicurazione fabbricati in caso di sinistri medi e gravi. Esso accetta notifiche dall'Assicurazione fabbricati per danni assicurati, le verifica ed elabora i sinistri. L'indennizzo viene stabilito in un accordo di prestazioni tra l'Ufficio per le valutazioni immobiliari e l'Assicurazione fabbricati.
 
 #### Art. 31
 
@@ -357,7 +357,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Interessi sul risarcimento danni**
 
-<sup>1</sup> Vengono corrisposti interessi per danni che superano i 100 000 franchi. Gli interessi vengono versati in base al valore attuale.
+<sup>1</sup> Vengono corrisposti interessi per danni che superano i 100 000 franchi. Gli interessi vengono versati in base al valore attuale. Per le prestazioni accessorie di cui all'articolo 39 della legge non vengono corrisposti interessi.
 
 <sup>2</sup> Gli interessi vengono corrisposti dal giorno della notifica del danno da parte del proprietario fino al versamento del risarcimento, al massimo tuttavia per tre anni.
 
@@ -373,9 +373,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 34a
 
-**Regolamentazione transitoria relativa alla revisione parziale del 25 novembre 2014**
-
-<sup>1</sup> Tutte le fatture dei premi allestite a partire dal 1° gennaio 2015, incluse quelle per l'assicurazione per fabbricati in costruzione, vengono calcolate secondo il nuovo regolamento tariffario.
+**…**
 
 #### Art. 34b
 
@@ -386,8 +384,16 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>2</sup> Fabbricati che precedentemente all'entrata in vigore della presente revisione parziale non erano assicurati obbligatoriamente nonché parti di fabbricati che a titolo di novità sono inclusi nell'assicurazione, sono assicurati a partire:
 
 - a) dalla presentazione della domanda all'Assicurazione fabbricati;
-- b) dalla presentazione della domanda all'Ufficio delle stime;
-- c) dalla prossima stima di revisione.
+- b) dalla presentazione della domanda all'Ufficio per le valutazioni immobiliari;
+- c) dalla prossima valutazione di revisione.
+
+#### Art. 34c
+
+**Disposizione transitoria relativa alla revisione parziale del 13 dicembre 2022**
+
+<sup>1</sup> A procedimenti concernenti contributi per misure di prevenzione facoltative pendenti al momento dell'entrata in vigore della presente revisione parziale si applica il diritto previgente.
+
+<sup>2</sup> A sinistri verificatisi precedentemente all'entrata in vigore della presente revisione parziale si applica il diritto previgente.
 
 #### Art. 35
 

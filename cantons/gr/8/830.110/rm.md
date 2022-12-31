@@ -4,13 +4,13 @@ number: "830.110"
 title: "Ordinaziun tar la lescha davart l'assicuranza d'edifizis dal chantun Grischun"
 short: "ordinaziun tar la lescha davart l'assicuranza d'edifizis, OAE"
 language: rm
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-22
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-13
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3171/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3171/pdf_file"
 
 (ordinaziun tar la lescha davart l'assicuranza d'edifizis, OAE)
 
-dals 26-10-2010 (versiun dals 01-01-2022)
+dals 26-10-2010 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -215,11 +215,11 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Contribuziuns a mesiras da prevenziun facultativas**
 
-<sup>1</sup> Imputabels èn ils custs che correspundan als mussavias "Protecziun d'objects cunter privels gravitativs da la natira" e "Protecziun d'objects cunter privels meteorologics da la natira" da l'uniun d'assicuranzas chantunalas d'edifizis sco er a las reglas renconuschidas da la scienza da construcziun e ch'èn economics.
+<sup>1</sup> Imputabels èn ils custs ch'èn economics e che correspundan a las recumandaziuns da l'Uniun da las assicuranzas chantunalas cunter fieu (UAF) ch'èn publitgadas sin la plattafurma online "Protecziun cunter privels da la natira" sco er a las reglas renconuschidas da la scienza da construcziun.
 
-<sup>2</sup> Las mesiras èn economicas, sch'ils custs importan maximalmain 75 pertschient dals custs dal donn che po capitar al lieu da l'edifizi. La rentabilitad d'ina mesira vegn examinada cun la metoda da prevent-building da l'uniun d'assicuranzas chantunalas d'edifizis.
+<sup>2</sup> Las mesiras èn economicas, sche lur custs importan maximalmain 75 pertschient dals custs dal donn che po capitar al lieu da l'edifizi. La rentabilitad d'ina mesira po vegnir examinada cun agid d'ina analisa qualifitgada dals custs e dal niz.
 
-<sup>3</sup> La tariffa da contribuziun importa 25 pertschient dals custs imputabels.
+<sup>3</sup> La tariffa da contribuziun importa 40 pertschient dals custs imputabels.
 
 ## 5. Finanziaziun
 
@@ -337,7 +337,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> Sche almain la mesadad d'in edifizi è donnegià, vegn il donn stimà a maun da las restanzas duvrablas. Per valitar las restanzas duvrablas èsi decisiv, quant enavant che las restanzas pudessan vegnir utilisadas per reconstruir in edifizi da medem gener.
 
-<sup>2</sup> L'uffizi per la valitaziun d'immobiglias sustegna l'assicuranza d'edifizis en cas da donns mesauns e gronds. El prenda encunter annunzias da donns assicurads da l'assicuranza d'edifizis, eruescha quels ed elavurescha ils cas da donns. L'indemnisaziun vegn calculada tenor las tariffas da cumpensaziun per servetschs da l'administraziun chantunala a terzas persunas. L'indemnisaziun per l'emprim di da scolaziun e da furmaziun supplementara permess u organisà da l'assicuranza d'edifizis per las collavuraturas ed ils collavuraturs da l'uffizi per la valitaziun d'immobiglias importa 350 francs. Mintga ulteriur di da scolaziun u da furmaziun supplementara vegn indemnisà tenor las tariffas da scuntrada per servetschs da l'administraziun chantunala a terzas persunas.
+<sup>2</sup> L'Uffizi per la valitaziun d'immobiglias sustegna l'assicuranza d'edifizis en cas da donns mesauns e gronds. El prenda encunter annunzias da donns assicurads da l'assicuranza d'edifizis, eruescha quels ed elavura ils cas da donns. L'indemnisaziun vegn fixada en ina cunvegna da prestaziun tranter l'Uffizi per la valitaziun d'immobiglias e l'assicuranza d'edifizis.
 
 #### Art. 31
 
@@ -357,7 +357,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Tschains da l'indemnisaziun per il donn**
 
-<sup>1</sup> Donns da passa 100 000 francs vegnan tschainsids. Ils tschains vegnan pajads per la valur actuala.
+<sup>1</sup> Donns da passa 100 000 francs vegnan tschainsids. Ils tschains vegnan pajads per la valur actuala. Prestaziuns supplementaras tenor l'artitgel 39 da la lescha na vegnan betg tschainsidas.
 
 <sup>2</sup> L'indemnisaziun per il donn vegn tschainsida a partir dal di che la proprietaria u il proprietari annunzia il donn fin che l'indemnisaziun vegn pajada, maximalmain dentant per 3 onns.
 
@@ -373,9 +373,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 #### Art. 34a
 
-**Disposiziuns transitoricas tar la revisiun parziala dals 25 da november 2014**
-
-<sup>1</sup> Tut ils quints da premias ch'èn vegnids fatgs a partir dal 1. da schaner 2015 inclusiv ils quints da premias per las assicuranzas per il temp da construcziun vegnan calculads tenor il nov reglament da tariffas.
+**…**
 
 #### Art. 34b
 
@@ -386,8 +384,16 @@ relaschada da la regenza ils 26 d'october 2010
 <sup>2</sup> Edifizis che n'eran betg assicurads obligatoricamain avant che questa revisiun parziala è entrada en vigur e ch'èn integrads da nov en l'assicuranza, èn assicurads a partir da:
 
 - a) la dumonda a l'assicuranza d'edifizis;
-- b) la dumonda a l'uffizi da stimaziun;
-- c) la proxima stimaziun da revisiun.
+- b) la dumonda a l'Uffizi per la valitaziun d'immobiglias;
+- c) la proxima valitaziun da revisiun.
+
+#### Art. 34c
+
+**Disposiziun transitorica tar la revisiun parziala dals 13 da december 2022**
+
+<sup>1</sup> Per proceduras concernent contribuziuns a mesiras da prevenziun facultativas ch'èn pendentas, cur che questa revisiun parziala entra en vigur, vegn applitgà il dretg vegl.
+
+<sup>2</sup> Per donns ch'èn capitads avant che questa revisiun parziala è entrada en vigur, vegn applitgà il dretg vegl.
 
 #### Art. 35
 

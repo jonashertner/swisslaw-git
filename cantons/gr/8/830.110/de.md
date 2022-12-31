@@ -4,13 +4,13 @@ number: "830.110"
 title: Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Graubünden
 short: "Verordnung zum Gebäudeversicherungsgesetz, VOzGebVG"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-22
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-13
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3171/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3289/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3171/pdf_file"
 
 (Verordnung zum Gebäudeversicherungsgesetz, VOzGebVG)
 
-Vom 26.10.2010 (Stand 01.01.2022)
+Vom 26.10.2010 (Stand 01.01.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -44,7 +44,7 @@ von der Regierung erlassen am 26. Oktober 2010
 <sup>1</sup> Keine Elementarschäden sind insbesondere Schäden, die zurückzuführen sind auf:
 
 - a) Bergdruck, Feuchtigkeitseinwirkung, schlechten Baugrund, permanente Rutschung, Bodensetzung, Kriechschnee;
-- b) ungenügend dimensionierte Kanalisationsleitungen, Rückstau in der Kanalisation in und ausserhalb des Gebäudes; Leitungsbruch in und ausserhalb des Gebäudes, Wasserinfiltration durch Dächer und Umfassungswände, Grundwasser, Rückschwallwasser, Frostschäden, Eisbildung auf Dächern;
+- b) ungenügend dimensionierte Kanalisationsleitungen, Rückstau in der Kanalisation in und ausserhalb des Gebäudes, Leitungsbruch in und ausserhalb des Gebäudes, Wasserinfiltration durch Dächer und Umfassungswände, Grundwasser, Rückschwellwasser, Frostschäden, Eisbildung auf Dächern;
 - c) künstliche Erdbewegungen oder andere direkte oder indirekte menschliche Einwirkungen, fehlerhafte Arbeit oder Konstruktion, ungeeignete Fundamente, mangelhaften Gebäudeunterhalt, Abrutschen von Schnee und Eis von Dächern ohne geeignete Rückhaltevorrichtungen.
 
 #### Art. 2a
@@ -215,11 +215,11 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Beiträge an freiwillige Präventionsmassnahmen**
 
-<sup>1</sup> Anrechenbar sind Aufwendungen, die den Fachwerken "Wegleitung Objektschutz gegen gravitative Naturgefahren" und "Wegleitung Objektschutz gegen meteorologische Naturgefahren" der Vereinigung kantonaler Gebäudeversicherungen sowie den anerkannten Regeln der Baukunde entsprechen und wirtschaftlich sind.
+<sup>1</sup> Anrechenbar sind Aufwendungen, die den auf der Online-Plattform "Schutz vor Naturgefahren" publizierten Empfehlungen der Vereinigung Kantonaler Feuerversicherungen (VKF) sowie den anerkannten Regeln der Baukunde entsprechen und wirtschaftlich sind.
 
-<sup>2</sup> Wirtschaftlich sind Massnahmen, deren Kosten maximal 75 Prozent der Kosten des Schadens betragen, der sich am Gebäudestandort ereignen kann. Die Prüfung der Wirtschaftlichkeit einer Massnahme erfolgt mit der Prevent-Building-Methode der Vereinigung kantonaler Gebäudeversicherungen.
+<sup>2</sup> Wirtschaftlich sind Massnahmen, deren Kosten maximal 75 Prozent der Kosten des Schadens betragen, der sich am Gebäudestandort ereignen kann. Die Prüfung der Wirtschaftlichkeit einer Massnahme kann mit einer qualifizierten Kosten-Nutzen-Analyse erfolgen.
 
-<sup>3</sup> Der Beitragssatz beträgt 25 Prozent der anrechenbaren Kosten.
+<sup>3</sup> Der Beitragssatz beträgt 40 Prozent der anrechenbaren Kosten.
 
 ## 5. Finanzierung
 
@@ -337,7 +337,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Ist ein Gebäude zu mindestens der Hälfte beschädigt, wird der Schaden anhand der brauchbaren Überreste ermittelt. Bei der Bewertung der brauchbaren Überreste ist massgebend, inwieweit die Überreste für den Wiederaufbau eines gleichartigen Gebäudes verwendet werden könnten.
 
-<sup>2</sup> Das Amt für Immobilienbewertung unterstützt die Gebäudeversicherung bei mittleren und grossen Schadenereignissen. Es nimmt Meldungen von versicherten Schäden von der Gebäudeversicherung entgegen, ermittelt diese und bearbeitet die Schadenfälle. Die Entschädigung richtet sich nach den Verrechnungsansätzen für Dienstleistungen der kantonalen Verwaltung an Dritte. Die Entschädigung für den von der Gebäudeversicherung organisierten oder bewilligten ersten Aus- oder Weiterbildungstag der Mitarbeitenden des Amts für Immobilienbewertung beträgt 350 Franken. Jeder weitere Aus- oder Weiterbildungstag wird nach den Verrechnungsansätzen für Dienstleistungen der kantonalen Verwaltung an Dritte entschädigt.
+<sup>2</sup> Das Amt für Immobilienbewertung unterstützt die Gebäudeversicherung bei mittleren und grossen Schadenereignissen. Es nimmt Meldungen von versicherten Schäden von der Gebäudeversicherung entgegen, ermittelt diese und bearbeitet die Schadenfälle. Die Entschädigung wird in einer Leistungsvereinbarung zwischen dem Amt für Immobilienbewertung und der Gebäudeversicherung festgehalten.
 
 #### Art. 31
 
@@ -357,7 +357,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Verzinsung der Schadenentschädigung**
 
-<sup>1</sup> Verzinst werden Schäden von über 100 000 Franken. Zinszahlungen werden auf den Zeitwert geleistet.
+<sup>1</sup> Verzinst werden Schäden von über 100 000 Franken. Zinszahlungen werden auf den Zeitwert geleistet. Nebenleistungen gemäss Artikel 39 des Gesetzes werden nicht verzinst.
 
 <sup>2</sup> Die Verzinsung wird vom Tage der Schadenmeldung der Eigentümerin oder des Eigentümers an bis zur Auszahlung der Entschädigung maximal jedoch für drei Jahre geleistet.
 
@@ -373,9 +373,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 #### Art. 34a
 
-**Übergangsbestimmung zur Teilrevision vom 25. November 2014**
-
-<sup>1</sup> Alle ab 1. Januar 2015 erstellten Prämienrechnungen einschliesslich der Prämienrechnungen für die Bauzeitversicherungen werden nach der neuen Tarifordnung berechnet.
+**…**
 
 #### Art. 34b
 
@@ -386,8 +384,16 @@ von der Regierung erlassen am 26. Oktober 2010
 <sup>2</sup> Gebäude, die vor Inkrafttreten dieser Teilrevision nicht obligatorisch versichert waren sowie Gebäudebestandteile, die neu in die Versicherung eingeschlossen sind, sind versichert ab:
 
 - a) Antragstellung an die Gebäudeversicherung;
-- b) Antragstellung an das Amt für Schätzungswesen;
-- c) der nächsten Revisionsschätzung.
+- b) Antragstellung an das Amt für Immobilienbewertung;
+- c) der nächsten Revisionsbewertung.
+
+#### Art. 34c
+
+**Übergangsbestimmung zur Teilrevision vom 13. Dezember 2022**
+
+<sup>1</sup> Auf Verfahren betreffend Beiträge an freiwillige Präventionsmassnahmen, die bei Inkrafttreten dieser Teilrevision hängig sind, findet das bisherige Recht Anwendung.
+
+<sup>2</sup> Auf Schadenfälle, die vor Inkrafttreten dieser Teilrevision eingetreten sind, findet das bisherige Recht Anwendung.
 
 #### Art. 35
 
