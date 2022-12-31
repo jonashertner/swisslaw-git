@@ -4,13 +4,13 @@ number: V D/1/1
 title: Gesetz über die Kantonale Sachversicherung Glarus
 short: "Sachversicherungsgesetz, SachVG"
 language: de
-version: 2014-09-01
-valid_until: 2022-12-31
-version_adopted: 2014-05-04
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-09-05
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-D.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1653/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1653/pdf_file"
 
 (Sachversicherungsgesetz, SachVG)
 
-Vom 02.05.2010 (Stand 01.09.2014)
+Vom 02.05.2010 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -146,11 +146,13 @@ beschliesst:
 [^10-1]: GS [II A/6/1](https://gesetze.gl.ch/data/II-A.6.1/de)
 [^10-2]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 
-### 2.4. Revision
+### 2.4. Rechnungslegung und Revision
 
 #### Art. 11
 
 <sup>1</sup> Die Glarnersach stellt im Geschäftsbericht ihre Vermögens-, Finanz- und Ertragslage getrennt nach den Aufgabenbereichen gemäss Artikel 2 Absatz 1 dar.
+
+<sup>1a</sup> Die Rechnungslegung erfolgt nach anerkannten Standards und Regeln. Die Bestimmungen des Finanzhaushaltsrechts sind nicht anwendbar.
 
 <sup>2</sup> Der Regierungsrat beauftragt auf Vorschlag des Verwaltungsrats jeweils für ein Jahr eine befähigte externe Revisionsstelle mit der Prüfung, ob die Geschäftstätigkeit (Buchführung, Geschäftsbericht usw.) den gesetzlichen Vorgaben, den anerkannten Standards sowie den versicherungstechnischen Grundsätzen entspricht. Die Revisionsstelle erstattet Bericht an den Verwaltungsrat zuhanden des Regierungsrates.
 
@@ -215,6 +217,12 @@ beschliesst:
 <sup>1</sup> Die Auskunftspflicht der kantonalen Verwaltungsstellen und Behörden entspricht derjenigen der Gemeinden, insbesondere haben Kantonspolizei, Staatsanwaltschaft und Gerichte im Rahmen der prozessrechtlichen Bestimmungen die erforderlichen Auskünfte zu erteilen und der Glarnersach die entsprechenden Unterlagen zur Verfügung zu stellen, soweit das zur Erledigung von Schadenfällen nötig ist.
 
 <sup>2</sup> Die gegenseitige Abgeltung von Leistungen zwischen der Glarnersach und anderen Verwaltungsstellen bestimmt der Regierungsrat nach Rücksprache mit dem Verwaltungsrat.
+
+#### Art. 17a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Glarnersach ist befugt, die zur Erfüllung ihrer Aufgaben geeigneten und erforderlichen Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten und Profiling zu betreiben. Sie darf Personendaten, einschliesslich besonders schützenswerter Personendaten, an Dritte bekanntgeben, sofern dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 ## 6. Gebäudeversicherung im Monopol
 
