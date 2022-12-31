@@ -4,13 +4,13 @@ number: "131.1"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-07-01
+version: 2023-01-01
+valid_until: 2023-04-30
+version_adopted: 2022-06-28
 adopted: 1992-02-16
 in_force: 1992-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.1"
-pdf: "https://bgs.so.ch/api/de/versions/5168/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5168/pdf_file"
 
 (GG)
 
-Vom 16.02.1992 (Stand 01.01.2022)
+Vom 16.02.1992 (Stand 01.01.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -39,7 +39,7 @@ beschliesst:
 - b) die Grundzüge der Organisation;
 - c) den Finanzhaushalt;
 - d) die Zusammenarbeit der Gemeinden und die Veränderung im Gemeindebestand;
-- e) das Beschwerderecht und die Staatsaufsicht.
+- e) den Rechtsschutz und die Staatsaufsicht.
 
 #### § 2
 
@@ -1926,7 +1926,7 @@ beschliesst:
 
 <sup>1</sup> Im übrigen ist der Zweckverband sinngemäss nach den Vorschriften über die ordentliche oder ausserordentliche Gemeindeorganisation auszugestalten und zu führen.
 
-<sup>2</sup> Die Bestimmungen über die politischen Rechte der Stimmberechtigten, die Gemeindeorganisation, die Dienstverhältnisse, den Finanzhaushalt, das Gemeindearchiv, das Beschwerderecht und die Staatsaufsicht sind auf den Zweckverband sinngemäss anwendbar.
+<sup>2</sup> Die Bestimmungen über die politischen Rechte der Stimmberechtigten, die Gemeindeorganisation, die Dienstverhältnisse, den Finanzhaushalt, das Gemeindearchiv, den Rechtsschutz und die Staatsaufsicht sind auf den Zweckverband sinngemäss anwendbar.
 
 ### 8.3. Anerkennung von Einwohnergemeindebehörden durch Bürger- und Kirchgemeinden
 
@@ -2026,15 +2026,15 @@ beschliesst:
 
 <sup>2</sup> Das Trennungsverfahren ist vom Regierungsrat anzuordnen, wenn die Stimmberechtigten der Einwohnergemeinde oder der Bürgergemeinde es in einer Urnenabstimmung verlangen und dafür wichtige Gründe vorliegen.
 
-## 10. Beschwerderecht
+## 10. Rechtsschutz
 
-### 10.1. Gemeindeinternes Beschwerderecht
+### 10.1. Gemeindeinterner Rechtsschutz
 
 #### § 197
 
 **I. Beschwerdeorgan**
 
-<sup>1</sup> Gegen Verfügungen und Beschlüsse von Angestellten, Beamten oder Beamtinnen, Kommissionen, gemeindeeigenen Unternehmung oder Anstalt kann beim Gemeinderat Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen und Beschlüsse von Angestellten, Beamten oder Beamtinnen, Kommissionen, gemeindeeigenen Unternehmungen oder Anstalten kann beim Gemeinderat Beschwerde erhoben werden.
 
 <sup>2</sup> In der Gemeindeordnung kann anstelle des Gemeinderates die Gemeinderatskommission oder eine besondere Kommission als letzte Beschwerdeinstanz der Gemeinde eingesetzt werden.
 
@@ -2042,47 +2042,65 @@ beschliesst:
 
 #### § 198
 
-**II. Legitimation**
+**II. Beschwerderecht**
 
-<sup>1</sup> Zur Beschwerde berechtigt ist, wer von einer Verfügung oder einem Beschluss berührt wird und ein schutzwürdiges eigenes Interesse nachweist.
+<sup>1</sup> Zur Beschwerde ist berechtigt, wer durch eine Verfügung oder einen Beschluss besonders berührt wird und ein schutzwürdiges Interesse an deren oder dessen Aufhebung oder Änderung hat.
 
 <sup>2</sup> Die Beschwerde ist auch zulässig wegen Rechtsverzögerung und Rechtsverweigerung.
 
-### 10.2. Beschwerden an den Regierungsrat und an das Departement
+### 10.2. Beschwerden an das Departement
 
 #### § 199
 
-**I. Beschwerden gegen Beschlüsse**
+**I. Grundsatz**
 
-<sup>1</sup> Wer stimmberechtigt ist, oder wer von einem Beschluss besonders berührt wird und ein schutzwürdiges eigenes Interesse hat, kann beim Regierungsrat Beschwerde erheben gegen die von den Stimmberechtigten an der Gemeindeversammlung oder an der Urne gefassten Beschlüsse.
+<sup>1</sup> Das Departement beurteilt Beschwerden gegen Beschlüsse, welche:
 
-<sup>2</sup> Gegen letztinstanzliche Beschlüsse der Gemeindebehörden kann nur Beschwerde erheben, wer von einem Beschluss besonders berührt wird und ein schutzwürdiges eigenes Interesse hat.
+- a) von den Stimmberechtigten an der Gemeindeversammlung oder an der Urne gefasst wurden;
+- b) letztinstanzlich von Gemeindebehörden gefasst wurden;
+- c) die politischen Rechte der Stimmberechtigten verletzen können.
+
+<sup>2</sup> …
 
 <sup>3</sup> Die Beschwerde ist auch zulässig wegen Rechtsverzögerung und Rechtsverweigerung.
 
 <sup>4</sup> Der Gemeinderat kann Beschlüsse der Gesamtheit der Stimmberechtigten anfechten. In diesem Falle vertritt ein Stimmberechtigter oder eine Stimmberechtigte die Gemeinde.
 
+#### § 199bis
+
+**II. Ausnahmen**
+
+<sup>1</sup> Die Beschwerde ist unzulässig:
+
+- a) gegen kommunale Erlasse;
+- b) gegen kommunale Volkswahlen oder -abstimmungen an der Urne, soweit die Verletzung der politischen Rechte der Stimmberechtigten geltend gemacht wird;
+- c) bei rein vermögensrechtlichen Streitigkeiten öffentlich-rechtlicher Natur.
+
+<sup>2</sup> Der Rechtsschutz der Lehrkräfte an den Volksschulen richtet sich nach der Gesetzgebung über das Staatspersonal.
+
+#### § 199ter
+
+**III. Beschwerderecht**
+
+<sup>1</sup> Zur Beschwerde ist berechtigt, wer durch einen Beschluss besonders berührt wird und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
+
+<sup>2</sup> Bei Beschlüssen, die von den Stimmberechtigten an der Gemeindeversammlung oder an der Urne gefasst wurden (§ 199 Abs. 1 Bst. a) oder welche die politischen Rechte der Stimmberechtigten verletzen können (§ 199 Abs. 1 Bst. c) steht das Beschwerderecht ausserdem jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist.
+
 #### § 200
 
-**II. Beschwerden in besonderen Fällen**
+**IV. Verwaltungsgerichtsbeschwerde**
 
-<sup>1</sup> Beim Departement kann Beschwerde geführt werden gegen
+<sup>1</sup> …
 
-- a) Beschlüsse über Nichtwiederwahlen, die nicht von der Gemeindeversammlung, vom Gemeindeparlament oder an der Urne gefasst werden;
-- b) gegen die Kündigung definitiver Anstellungsverhältnisse und die Entlassung aus wichtigen Gründen;
-- c) gegen Beschlüsse über Rechtsansprüche aus dem Bundesgesetz über die Gleichstellung von Frau und Mann vom 24. März 1995;
-- d) gegen Beschlüsse über Einreihung und Beförderung in Besoldungsklassen und -stufen;
-- e) gegen Disziplinarmassnahmen;
-- f) Beschlüsse, welche im Einzelfall gestützt auf öffentliches Recht Rechte oder Pflichten einer Person hoheitlich, einseitig und verbindlich festlegen;
-- g) Beschlüsse, welche die politischen Rechte der Stimmberechtigten verletzen können.
+<sup>2</sup> Gegen den Beschwerdeentscheid des Departements ist die Verwaltungsgerichtsbeschwerde zulässig.
 
-<sup>2</sup> Gegen die Verfügung des Departementes ist die Verwaltungsgerichtsbeschwerde zulässig.
+<sup>3</sup> Zur Beschwerde ist berechtigt, wer durch einen Beschwerdeentscheid des Departements besonders berührt wird und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
 
-<sup>3</sup> Der Rechtsschutz der Lehrkräfte an den Volksschulen richtet sich nach der Gesetzgebung über das Staatspersonal.
+<sup>4</sup> Bei Beschwerdeentscheiden des Departements über Beschlüsse, welche die politischen Rechte der Stimmberechtigten verletzen können (§ 199 Abs. 1 Bst. c), steht das Beschwerderecht ausserdem jeder Person zu, die in der betreffenden Angelegenheit stimmberechtigt ist.
 
 #### § 201
 
-**III. Beschwerden gegen interkommunale Organisationen**
+**V. Beschwerden gegen interkommunale Organisationen**
 
 <sup>1</sup> Die Beschlüsse der Zweckverbände und der übrigen der Zusammenarbeit der Gemeinden dienenden öffentlich-rechtlichen Organisationen sind nach den Vorschriften dieses Abschnittes anfechtbar und überprüfbar.
 
@@ -2090,9 +2108,9 @@ beschliesst:
 
 #### § 202
 
-**1. Beschwerdefrist**
+**I. Beschwerdefrist**
 
-<sup>1</sup> Beschwerden sind innert 10 Tagen, seit der anzufechtende Beschluss öffentlich bekanntgemacht oder schriftlich mitgeteilt wurde, einzureichen.
+<sup>1</sup> Beschwerden sind innert 10 Tagen, seit die anzufechtende Verfügung oder der anzufechtende Beschluss öffentlich bekanntgemacht oder schriftlich mitgeteilt wurde, einzureichen.
 
 <sup>2</sup> Will ein Stimmberechtigter oder eine Stimmberechtigte, der Gemeinderat oder der Vorstand des Zweckverbandes gegen einen Beschluss der Gesamtheit der Stimmberechtigten Beschwerde erheben, beginnt die Beschwerdefrist an dem der Gemeindeversammlung, Zweckverbandsversammlung oder Urnenabstimmung folgenden Tag.
 
@@ -2100,9 +2118,9 @@ beschliesst:
 
 #### § 203
 
-**II. Beschwerdegründe und Verfahren**
+**II. Verfahren**
 
-<sup>1</sup> Die Beschwerdegründe und das Verfahren richten sich nach dem Verwaltungsrechtspflegegesetz[^203-1].
+<sup>1</sup> Soweit nichts anderes bestimmt ist, finden auf das Verfahren die Bestimmungen des Verwaltungsrechtspflegegesetzes[^203-1] Anwendung.
 
 [^203-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
@@ -2110,16 +2128,18 @@ beschliesst:
 
 **III. Entscheid**
 
-<sup>1</sup> Ist die Beschwerde begründet, so hebt die Beschwerdeinstanz den angefochtenen Beschluss auf und weist die Sache zurück oder entscheidet selbst.
+<sup>1</sup> Ist die Beschwerde begründet, so hebt die Beschwerdeinstanz die angefochtene Verfügung oder den angefochtenen Beschluss auf und weist die Sache zurück oder entscheidet selbst.
 
 <sup>2</sup> Wurden nur Vorschriften formeller Art verletzt, wird der angefochtene Beschluss nur aufgehoben, wenn:
 
 - a) die verletzten Vorschriften eingehalten werden müssen, damit gesetzlich gültig beschlossen werden kann;
 - b) mit der Verletzung der Vorschriften die Beschlussfassung wesentlich beeinflusst wurde oder im betreffenden Fall wesentlich hätte beeinflusst werden können.
 
+### 10.4. Spezialgesetzgebung
+
 #### § 205
 
-**IV. Vorbehaltenes Recht**
+**Vorbehaltenes Recht**
 
 <sup>1</sup> Die Vorschriften der Spezialgesetzgebung bleiben vorbehalten.
 
@@ -2303,6 +2323,14 @@ beschliesst:
 <sup>2</sup> Der Regierungsrat bestimmt den Zeitpunkt, ab welchem die neuen Bestimmungen des sechsten Titels dieses Gesetzes auch für die Bürger- und Kirchgemeinden gelten.[^217septies-1]
 
 [^217septies-1]: Gemäss RRB Nr. 2021/679 vom 18. Mai 2021, Ziffer 2.1 gelten die neuen Bestimmungen des sechsten Titels des Gemeindegesetzes (KRB Nr. RG 084/2024 vom 5. November 2014) ab 1. Januar 2022 auch für die Bürger- und Kirchgemeinden.
+
+### 12.3.<sup>bis</sup> Übergangsbestimmungen zur Teilrevision vom 28. Juni 2022
+
+#### § 217octies
+
+**Zuständigkeit für die Beschwerdebeurteilung**
+
+<sup>1</sup> Die Zuständigkeit für die Beurteilung von Beschwerden, welche vor dem Inkrafttreten der Teilrevision vom 28. Juni 2022 erhoben wurden, aber erst nach dem Inkrafttreten der Teilrevision vom 28. Juni 2022 beurteilt werden, richtet sich nach dem bisherigen Recht.
 
 ### 12.4. Vollzug
 
