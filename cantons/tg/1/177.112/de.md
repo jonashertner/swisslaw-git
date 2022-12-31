@@ -4,13 +4,13 @@ number: "177.112"
 title: Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals
 short: RSV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-06
 adopted: 2003-12-09
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.112"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2416/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RSV
 
 (RSV)
 
-vom 09.12.2003 (Stand 01.01.2022)
+vom 09.12.2003 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -558,10 +558,10 @@ vom 09.12.2003 (Stand 01.01.2022)
 <sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern steht pro Kalenderjahr folgender Ferienanspruch zu:
 
 - 1\. 30 Arbeitstage während der Ausbildungszeit, längstens jedoch bis zum vollendeten 25. Altersjahr. Vorbehalten bleibt die Verwendung von fünf Ferientagen innerhalb der Ausbildungszeit für das obligatorische Lehrlingslager oder für gleichwertige Veranstaltungen gemäss den Richtlinien des Personalamtes
-- 2\. 27 Arbeitstage bis und mit dem Kalenderjahr, in welchem das 20. Altersjahr vollendet wird
-- 3\. 23 Arbeitstage bis zum Kalenderjahr, in welchem das 49. Altersjahr vollendet wird
-- 4\. 27 Arbeitstage bis zum Kalenderjahr, in welchem das 59. Altersjahr vollendet wird
-- 5\. 30 Arbeitstage ab dem Kalenderjahr, in welchem das 60. Altersjahr vollendet wird
+- 2\. 27 Arbeitstage bis und mit dem Kalenderjahr, in dem das 20. Altersjahr vollendet wird
+- 3\. 25 Arbeitstage bis zum Kalenderjahr, in dem das 49. Altersjahr vollendet wird
+- 4\. 27 Arbeitstage bis zum Kalenderjahr, in dem das 59. Altersjahr vollendet wird
+- 5\. 30 Arbeitstage ab dem Kalenderjahr, in dem das 60. Altersjahr vollendet wird
 
 #### § 43
 
@@ -1053,11 +1053,22 @@ vom 09.12.2003 (Stand 01.01.2022)
 
 #### § 78
 
-**Verbot zur Annahme von Geschenken und anderen Vorteilen**
+**Verbot zur Annahme von Geschenken, Einladungen und anderen Vorteilen**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeitern ist es untersagt, Geschenke oder andere Vorteile, die im Zusammenhang mit ihrer Diensterfüllung stehen oder stehen könnten, für sich oder andere Personen zu beanspruchen, anzunehmen oder sich versprechen zu lassen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern ist es untersagt, Geschenke, Einladungen oder andere Vorteile, die im Zusammenhang mit ihrer Diensterfüllung stehen oder stehen könnten, für sich oder andere Personen zu beanspruchen, anzunehmen oder sich versprechen zu lassen.
 
-<sup>2</sup> Von diesem Verbot ausgenommen ist die Annahme von Höflichkeitsgeschenken von geringem Wert nach erbrachter Dienstleistung.
+<sup>2</sup> Von diesem Verbot ausgenommen sind:
+
+- 1\. die Annahme von Höflichkeitsgeschenken bis zu einem Wert von Fr. 100 nach erbrachter Dienstleistung
+- 2\. die Annahme von Einladungen, wenn sie im dienstlichen Interesse sind und Informations-, Weiterbildungs- oder Vernetzungszwecken dienen
+
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die an einem Vergabeverfahren mitwirken, ist die Annahme von Einladungen untersagt, wenn
+
+- 1\. sie von einer effektiven oder potenziellen Anbieterin oder einem effektiven oder potenziellen Anbieter offeriert werden,
+- 2\. sie von einer Person, die am Verfahren beteiligt oder davon betroffen ist, offeriert werden, oder
+- 3\. ein Zusammenhang zwischen der Einladung einerseits und dem Vergabeverfahren andererseits nicht ausgeschlossen werden kann.
+
+<sup>4</sup> Im Zweifelsfall entscheidet die Amts- oder Betriebsleitung, ob die Geschenke, Einladungen oder anderen Vorteile angenommen werden dürfen.
 
 #### § 79
 
@@ -1111,43 +1122,9 @@ vom 09.12.2003 (Stand 01.01.2022)
 
 [^85-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
 
-## 9. Schlussbestimmungen
+## 9.
 
-#### § 86
-
-**...[^86-1]**
-
-[^86-1]: Änderung und Aufhebung bisherigen Rechtes, ABl. 2003, Seite 2738 ff.; ABl. 2006, Seite 128 ff.; ABl. 2007, Seite 2636 f.
-
-#### § 87
-
-**Übergangsrecht**
-
-<sup>1</sup> Hängige Gesuche um Abgangsentschädigungen werden nach bisherigem Recht beurteilt.
-
-#### § 88
-
-**Übergangsrecht**
-
-<sup>1</sup> Unter Vorbehalt der nachstehenden Bestimmungen gilt nach Inkrafttreten dieser Verordnung für alle bisherigen Dienstverhältnisse neues Recht.
-
-<sup>2</sup> Für Dienstverhältnisse, die beim Inkrafttreten der vorliegenden Verordnung bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
-
-<sup>3</sup> Alle bei Inkrafttreten dieser Verordnung bestehenden Dienstverhältnisse von Beamtinnen und Beamten, ausgenommen die auch nach Inkrafttreten des Gesetzes betreffend die Abschaffung des Beamtenstatus weiterhin vom Volk, vom Grossen Rat oder vom Regierungsrat gewählten Personen, werden auf den Zeitpunkt des Inkrafttretens in unbefristete Dienstverhältnisse nach der vorliegenden Verordnung überführt. Die betroffenen Dienstverhältnisse und die Zuständigkeitsvorschriften richten sich ab diesem Zeitpunkt nach den für die Angestellten geltenden Vorschriften. Für die erwähnten Dienstverhältnisse ist nach der Überführung von Seiten des Kantons und der Mitarbeiterinnen und Mitarbeiter eine Kündigungsfrist von drei Monaten zu beachten.
-
-<sup>4</sup> Alle bei Inkrafttreten dieser Verordnung bestehenden Dienstverhältnisse von Aushilfen werden auf den Zeitpunkt des Inkrafttretens in befristete oder unbefristete Dienstverhältnisse nach der vorliegenden Verordnung überführt. Die betroffenen Dienstverhältnisse richten sich ab diesem Zeitpunkt nach den für die Angestellten geltenden Vorschriften. Für die erwähnten Dienstverhältnisse ist nach der Überführung von Seiten des Kantons und der Mitarbeiterinnen und Mitarbeiter eine Kündigungsfrist nach Massgabe von § 19 zu beachten.
-
-<sup>5</sup> Bestehende privatrechtliche Arbeitsverhältnisse werden auch nach Inkrafttreten dieser Verordnung als solche weiter geführt.
-
-#### § 88a
-
-**Übergangsrecht**
-
-<sup>1</sup> Für Dienstverhältnisse, die beim Inkrafttreten der vorliegenden Verordnung bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
-
-<sup>2</sup> Kündigungen, welche nach Inkrafttreten der vorliegenden Verordnung und vor dem 1. Juli 2014 ausgesprochen werden, richten sich nach bisherigem Recht.
-
-#### § 89
+#### § 86–89
 
 **…**
 
