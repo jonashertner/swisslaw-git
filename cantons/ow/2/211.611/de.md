@@ -4,13 +4,12 @@ number: "211.611"
 title: Ausführungsbestimmungen zur Verordnung betreffend die Einführung des Kindes- und Erwachsenenschutzrechts
 short: AB KESR
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-07
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2012-06-12
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/211.611"
-pdf: "http://gdb.ow.ch/api/de/versions/1670/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1761/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1670/pdf_file"
 
 (AB KESR)
 
-vom 12.06.2012 (Stand 01.01.2021)
+vom 12.06.2012 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -101,6 +100,12 @@ beschliesst:
 
 - a. die Abgeltung für die kantonale Behördenorganisation (Art. 23 EV KESR) durch das Finanzdepartement;
 - b. die Kosten der Massnahmen, die vom Kanton vorfinanziert wurden und nicht aus dem Vermögen der betroffenen Person bezahlt werden können (Art. 24 EV KESR), durch die Kindes- und Erwachsenenschutzbehörde.
+
+#### Art. 3a
+
+**Staatshaftung**
+
+<sup>1</sup> Über Forderungen auf Schadenersatz und Genugtuung bis zu 10 000 Franken, die von Beiständinnen und Beiständen zu verantworten sind und im Zusammenhang mit einer laufenden Massnahme stehen, entscheidet anstelle des Regierungsrats die Kindes- und Erwachsenenschutzbehörde.
 
 ## 3. Entschädigungen und Spesenersatz
 
@@ -198,6 +203,8 @@ geändert durch:
 
 \- Nachtrag vom 2. Februar 2016, in Kraft seit 15. März 2016 (OGS 2016, 11),
 
-\- Nachtrag vom 7. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 58)
+\- Nachtrag vom 7. Dezember 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 58),
+
+\- Nachtrag vom 20. Dezember 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 36)
 
 OGS 2012, 48
