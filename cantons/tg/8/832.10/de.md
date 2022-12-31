@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "832.10"
-title: Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung
+title: Verordnung zum Gesetz über die Krankenversicherung
 short: TG KVV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-07
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2280/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung
+# Verordnung zum Gesetz über die Krankenversicherung
 
 TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.01.2022)
+vom 20.12.2011 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -40,11 +40,11 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 <sup>1</sup> Das Departement für Finanzen und Soziales leitet und beaufsichtigt den Vollzug.
 
-<sup>2</sup> Soweit nichts anderes bestimmt ist, obliegt der Vollzug dem Amt für Gesundheit. Dieses erteilt den beauftragten Stellen die erforderlichen Weisungen.
+<sup>2</sup> Soweit nicht anders bestimmt, obliegt der Vollzug dem Amt für Gesundheit. Es erteilt den beauftragten Stellen die erforderlichen Weisungen und amtet als Ausstandsmeldestelle der Leistungserbringer.
 
-<sup>3</sup> Für den Vollzug der Bestimmungen über die Versicherungspflicht sind die Krankenkassen-Kontrollstellen der Gemeinden zuständig.
+<sup>3</sup> Für die Durchführung der Bestimmungen über die Versicherungspflicht sind die Politischen Gemeinden (nachfolgend: Gemeinde) zuständig.
 
-<sup>4</sup> Das Departement beauftragt die kantonale Ausgleichskasse auf der Grundlage von Leistungsvereinbarungen mit Vollzugsaufgaben in den Bereichen Prämienverbilligung, Pflegefinanzierung und Versicherungspflicht.
+<sup>4</sup> Das Departement beauftragt die kantonale Ausgleichskasse als kantonale Durchführungsstelle auf der Grundlage von Leistungsvereinbarungen mit Vollzugsaufgaben in den Bereichen Prämienverbilligung, Pflegefinanzierung und Versicherungspflicht.
 
 <sup>5</sup> Das Departement beauftragt die kantonale Dienststelle für Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer gemäss Art. 59a KVG.
 
@@ -58,17 +58,15 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 #### § 4
 
-**Zuständige kantonale Behörde**
-
-<sup>1</sup> Das Departement bestimmt die zuständige kantonale Behörde sowie die Revisionsstelle gemäss Art. 64a KVG.
+**…**
 
 #### § 5
 
 **Verlustscheine und gleichwertige Rechtstitel**
 
-<sup>1</sup> Als Verlustscheine und einem Verlustschein gleichwertige Rechtstitel im Sinne von Art. 64a KVG gelten:
+<sup>1</sup> Als Verlustscheine und einem Verlustschein gleichwertige Rechtstitel gelten:
 
-- 1\. definitiver Verlustschein nach Art. 149 beziehungsweise Art. 265 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^5-1]
+- 1\. definitiver Verlustschein nach Art. 149 oder Art. 265 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^5-1]
 - 2\. Pfändungsurkunde nach Art. 115 Abs. 1 SchKG, wenn kein pfändbares Vermögen vorhanden ist, und nach Art. 115 Abs. 2 SchKG (provisorischer Verlustschein)
 - 3\. SchKG-Urkunde oder Auszug des Schweizerischen Handelsamtsblattes nach der Durchführung einer konkursamtlichen Liquidation einer Erbschaft gemäss Art. 193 SchKG
 - 4\. behördliche Insolvenzbestätigung aus Ländern der Europäischen Union, Island und Norwegen
@@ -81,17 +79,17 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 **Beiträge an Verlustscheine und gleichwertige Rechtstitel**
 
-<sup>1</sup> Die Wohnsitz- oder Aufenthaltsgemeinde des Versicherten übernimmt nach Massgabe des KVG die in der Schlussabrechnung des Versicherers ausgewiesenen Forderungen aus der obligatorischen Krankenpflegeversicherung, die zur Ausstellung eines Verlustscheins geführt haben.
+<sup>1</sup> Die Gemeinde übernimmt nach Massgabe des KVG die in der Schlussabrechnung des Versicherers ausgewiesenen Forderungen aus der obligatorischen Krankenpflegeversicherung, die zur Ausstellung eines Verlustscheins geführt haben.
 
-<sup>2</sup> Rückvergütungen gemäss Art. 64a Abs. 5 KVG werden Gemeinden erstattet, die Forderungen gemäss Abs. 1 übernommen haben.
+<sup>2</sup> Rückvergütungen nach KVG werden den Gemeinden erstattet, die Forderungen gemäss Abs. 1 übernommen haben.
 
-<sup>3</sup> Die Wohnsitz- oder Aufenthaltsgemeinde, die Forderungen gemäss Abs. 1 übernommen hat, hat gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht anteilmässig für dort entstandene Forderungen, die in den Verlustscheinen und gleichwertigen Rechtstiteln zusammengefasst wurden. Rückvergütungen gemäss Abs. 2 sind anteilmässig zurückzuerstatten.
+<sup>3</sup> Die Gemeinde, die Forderungen gemäss Abs. 1 übernommen hat, hat gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht anteilmässig für dort entstandene Forderungen, die in den Verlustscheinen und gleichwertigen Rechtstiteln zusammengefasst wurden. Rückvergütungen gemäss Abs. 2 sind anteilmässig zurückzuerstatten.
 
 #### § 7
 
 **Rückgriffsrecht, Rückerstattung von übernommenen Ausständen**
 
-<sup>1</sup> Übernimmt die Wohnsitz- oder Aufenthaltsgemeinde die gesamten ausstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Abs. 2.
+<sup>1</sup> Übernimmt die Gemeinde die gesamten ausstehenden Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Abs. 2.
 
 <sup>2</sup> Von der Gemeinde übernommene Ausstände sind vom Versicherten zurückzuerstatten.
 
@@ -109,9 +107,9 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 **Liste der säumigen Prämienzahler**
 
-<sup>1</sup> Der Kanton führt eine Liste gemäss Art. 64a Abs. 7 KVG von volljährigen Personen, die ihrer Prämienpflicht nicht nachkommen. Er betreibt dafür eine elektronische Applikation und macht die Liste den Berechtigten zugänglich.
+<sup>1</sup> Die kantonale Durchführungsstelle führt eine Liste von volljährigen Personen, die ihrer Prämienpflicht nicht nachkommen. Sie betreibt dafür eine elektronische Applikation und macht die Liste den Berechtigten zugänglich.
 
-<sup>2</sup> Zum Zugriff auf die elektronische Applikation berechtigt sind die kantonale Behörde gemäss § 4, die Politischen Gemeinden des Kantons sowie das Amt für Gesundheit und der Datenschutzbeauftragte.
+<sup>2</sup> Zum Zugriff auf die elektronische Applikation berechtigt sind die kantonale Durchführungsstelle, die Gemeinden des Kantons sowie das Amt für Gesundheit.
 
 <sup>3</sup> Zur Einsicht in die Liste der säumigen Prämienzahler berechtigt sind die Stellen gemäss Abs. 2 und die zur obligatorischen Krankenpflegeversicherung zugelassenen Leistungserbringer, sofern sie über eine Zahlstellennummer der Versicherer verfügen.
 
@@ -119,15 +117,15 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 **Datenerfassung**
 
-<sup>1</sup> Der Versicherer meldet der kantonalen Behörde Schuldner und Schuldnerinnen von Forderungen aus der obligatorischen Krankenpflegeversicherung spätestens bei Anhebung der Betreibung.
+<sup>1</sup> …
 
-<sup>2</sup> Die kantonale Behörde erfasst die Betroffenen in der elektronischen Applikation und erstattet dem Versicherer Meldung. Sie setzt die zuständige Gemeinde über die Erfassung sowie den Leistungsaufschub des Versicherers in Kenntnis.
+<sup>2</sup> Die kantonale Durchführungsstelle erfasst Personen mit offenen Forderungen aus der obligatorischen Krankenpflegeversicherung in der elektronischen Applikation und erstattet dem Versicherer Meldung. Sie setzt die zuständige Gemeinde über die Erfassung sowie den Leistungsaufschub des Versicherers in Kenntnis.
 
-<sup>3</sup> Die kantonale Behörde übermittelt der Gemeinde elektronisch die Meldung des Versicherers über die Aufhebung des Leistungsaufschubs und löscht den Listeneintrag auf Meldung der Gemeinde.
+<sup>3</sup> Sie übermittelt der Gemeinde elektronisch die Meldung des Versicherers über die Aufhebung des Leistungsaufschubs und löscht den Listeneintrag auf Meldung der Gemeinde.
 
-<sup>4</sup> Die Wohn- oder Aufenthaltsgemeinde ist für die vollständige Erfassung und die Bereinigung der Daten verantwortlich.
+<sup>4</sup> Die Gemeinde ist für die vollständige Erfassung und die Bereinigung der Daten verantwortlich.
 
-<sup>5</sup> Die kantonale Behörde entscheidet auf Antrag der betroffenen Person über die Rechtmässigkeit des Listeneintrages.
+<sup>5</sup> Die kantonale Durchführungsstelle entscheidet auf Antrag der betroffenen Person über die Rechtmässigkeit des Listeneintrages.
 
 #### § 11
 
@@ -135,7 +133,7 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 <sup>1</sup> Die Gemeinden setzen Versicherte mit Leistungsaufschub über die Eintragung auf der Liste der säumigen Prämienzahler und die damit verbundenen Folgen in Kenntnis.
 
-<sup>2</sup> Sie betreiben ein Case Management mit dem Ziel, den Versicherungsschutz wiederherzustellen und die Entstehung von Verlustscheinen zu vermeiden.
+<sup>2</sup> Sie betreiben ein Case Management mit dem Ziel, den Versicherungsschutz wieder vollumfänglich herzustellen und die Entstehung von Verlustscheinen zu vermeiden.
 
 <sup>3</sup> Versicherte mit Leistungsaufschub sind zur Mitwirkung im Case Management verpflichtet.
 
@@ -143,15 +141,13 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 **Verlustscheine**
 
-<sup>1</sup> Die kantonale Behörde erfasst die Verlustscheinmeldungen der Versicherer in der elektronischen Applikation.
+<sup>1</sup> Die kantonale Durchführungsstelle erfasst die Verlustscheinmeldungen der Versicherer in der elektronischen Applikation.
 
-<sup>2</sup> Sie erstellt die Schlussabrechnung über die im Vorjahr angefallenen Verlustscheine und gleichwertigen Rechtstitel zur Weiterverrechnung an die Gemeinden jeweils bis zum 31. August.
+<sup>2</sup> Sie erstellt die Schlussabrechnung über die im Vorjahr angefallenen Verlustscheine und gleichwertigen Rechtstitel zur Weiterverrechnung an die Gemeinden bis zum 31. August.
 
 #### § 13
 
-**Ausstand**
-
-<sup>1</sup> Leistungserbringer, die es im Sinne von Art. 44 Abs. 2 KVG ablehnen, gesetzliche Leistungen zu erbringen, haben dies dem Amt für Gesundheit zu melden.
+**…**
 
 ## 3. Prämienverbilligung
 
@@ -161,21 +157,28 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 <sup>1</sup> Die Prämienverbilligungen betragen:
 
-- 1\. Fr. 2'496 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 2\. Fr. 1'872 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 3\. Fr. 1'248 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 1\. Fr. 2'868 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 2\. Fr. 2'148 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 3\. Fr. 1'428 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
 - 4\. …
-- 5\. Fr. 1'008 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
-- 6\. Fr. 4'488 für erwachsene Sozialhilfeempfänger
-- 7\. Fr. 1'008 für Sozialhilfeempfänger bis zum 18. Altersjahr
+- 5\. Fr. 1'080 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
+- 6\. Fr. 5'160 für erwachsene Sozialhilfeempfänger
+- 7\. Fr. 1'080 für Sozialhilfeempfänger bis zum 18. Altersjahr
 
 #### § 15
 
-**Bemessung für Niedergelassene und Jahresaufenthalter**
+**Bemessung**
 
-<sup>1</sup> Solange keine definitive Einschätzung vorliegt, wird die Prämienverbilligung aufgrund der vorjährigen provisorischen Steuerrechnung bemessen.
+<sup>1</sup> Die Bezugsberechtigten werden per 1. Januar aufgrund der Steuerdaten des Vorjahres ermittelt.
 
-<sup>2</sup> Lassen sich gestützt auf die definitive Steuerveranlagung, im Falle der Jahresaufenthalter gestützt auf die Tarifkorrektur, verschlechterte wirtschaftliche Verhältnisse nachweisen, kann die versicherte Person spätestens innert 30 Tagen seit Rechtskraft der Schlussrechnung respektive der Tarifkorrektur eine Neubemessung der Prämienverbilligung verlangen. Differenzbeträge von weniger als Fr. 30 werden weder ausbezahlt noch zurückgefordert.
+<sup>2</sup> Können nachträglich veränderte wirtschaftliche Verhältnisse nachgewiesen werden, kann die versicherte Person innerhalb von 30 Tagen ab rechtskräftiger Feststellung der veränderten Verhältnisse eine Neubemessung der Prämienverbilligung beantragen, insbesondere gestützt auf:
+
+- 1\. die definitive Steuerschlussrechnung
+- 2\. die EL-Rückforderungsverfügung
+- 3\. den Entscheid zum Bezug von Sozialhilfe
+- 4\. den Entscheid über die Neuberechnung der Quellensteuer
+
+<sup>2<sup>bis</sup></sup> Differenzbeträge von weniger als Fr. 30 werden weder ausbezahlt noch zurückgefordert.
 
 <sup>3</sup> Eine Neubemessung ist ausgeschlossen, wenn der Anspruch gemäss § 9 Abs. 2 des Gesetzes verfallen ist.
 
@@ -183,21 +186,21 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 **Bemessung für Kurzaufenthalter und Grenzgänger**
 
-<sup>1</sup> Bemessungsgrundlage für Kurzaufenthalter und Grenzgänger mit Wohnsitz in einem Mitgliedstaat der EU oder EFTA und Kurzaufenthalter mit Wohnsitz in einem Drittstaat, welche für sich allein eine Prämienverbilligung beanspruchen, ist das in der Schweiz erzielte und nach der Kaufkraft bereinigte quellensteuerpflichtige Einkommen.
+<sup>1</sup> Bemessungsgrundlage für Kurzaufenthalter und Grenzgänger, die eine Prämienverbilligung beantragen, bildet das gesamte Einkommen und Vermögen der antragstellenden Person und ihrer Familienmitglieder.
 
-<sup>2</sup> Wird die Prämienverbilligung von EU- oder EFTA-Bürgern und -Bürgerinnen mit Aufenthalt in der Schweiz auch für die in einem EU- oder EFTA-Staat wohnhaften nicht erwerbstätigen Familienangehörigen beantragt, ist auf das gesamte im In- und Ausland erzielte und nach der Kaufkraft bereinigte Einkommen und Vermögen abzustellen.
+<sup>2</sup> Das quellensteuerpflichtige Einkommen wird nach der Kaufkraft bereinigt.
 
-<sup>3</sup> Für das erzielte Einkommen und Vermögen sind die neuesten Daten wie Steuerveranlagung, Liegenschaftenbewertung, Bankbelege usw. heranzuziehen.
+<sup>3</sup> Unterliegen Quellenbesteuerte der nachträglichen ordentlichen Veranlagung, gelten für sie die Bestimmungen für nicht quellenbesteuerte Personen.
 
-<sup>4</sup> Die antragstellende Person trägt für die Feststellung des erzielten Einkommens und Vermögens die volle Mitwirkungs- und Beweispflicht.
+<sup>4</sup> Die antragstellende Person trägt für die Feststellung des erzielten Einkommens und Vermögens die volle Mitwirkungs- und Beweispflicht. Werden die erforderlichen Unterlagen nicht fristgerecht eingereicht, verfällt der Anspruch.
 
 #### § 17
 
 **Prämienverbilligung bei Zahlungsausständen**
 
-<sup>1</sup> Die Wohnsitz- oder Aufenthaltsgemeinde kann die Prämienverbilligung von Anspruchsberechtigten mit ausstehenden Prämien direkt beantragen und durch die kantonale Ausgleichskasse dem Versicherer zur Deckung der Ausstände überweisen lassen.
+<sup>1</sup> Die Gemeinde kann die Prämienverbilligung von Anspruchsberechtigten mit ausstehenden Prämien direkt beantragen und durch die kantonale Durchführungsstelle dem Versicherer zur Deckung der Ausstände überweisen lassen.
 
-<sup>2</sup> Reicht eine berechtigte Person mit ausstehenden Prämien ihren Antrag nicht oder unvollständig ein, kann die Wohnsitz- oder Aufenthaltsgemeinde die Prämienverbilligung beantragen und durch die kantonale Ausgleichskasse direkt dem Versicherer zur Deckung der Ausstände überweisen lassen.
+<sup>2</sup> Reicht eine berechtigte Person mit ausstehenden Prämien ihren Antrag nicht oder unvollständig ein, kann die Gemeinde die Prämienverbilligung beantragen und durch die kantonale Durchführungsstelle direkt dem Versicherer zur Deckung der Ausstände überweisen lassen.
 
 #### § 18
 
@@ -209,57 +212,39 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 #### § 19
 
-**Sozialhilfeempfänger**
-
-<sup>1</sup> Die Prämien der obligatorischen Krankenversicherung für Sozialhilfeempfänger werden von der Sozialhilfe der zuständigen Gemeinde oder von einem Hilfswerk übernommen. Die Prämienverbilligung ist anzurechnen.
+**…**
 
 #### § 20
 
 **Empfänger von Ergänzungsleistungen**
 
-<sup>1</sup> Die kantonale Ausgleichskasse stellt den Gemeinden zu Beginn des Jahres die Daten der Empfänger und Empfängerinnen von Ergänzungsleistungen zur AHV und IV zu. Die Gemeinden schliessen diese Personen von der Prämienverbilligung nach § 4 und § 5 des Gesetzes aus.
+<sup>1</sup> Personen, die Ergänzungsleistungen zur AHV/IV erhalten, werden die Ansätze gemäss Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie deren Ausführungsbestimmungen ausgerichtet.
 
-<sup>2</sup> Die kantonale Ausgleichskasse meldet den Versicherern zu Gunsten der Empfänger und Empfängerinnen den Anspruch auf die individuell berechnete Prämienpauschale monatlich gemäss dem Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^20-1].
-
-[^20-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
+<sup>2</sup> …
 
 #### § 21
 
-**Anspruch von Niedergelassenen und Jahresaufenthaltern**
-
-<sup>1</sup> Die Ansprüche von Personen, die Sozialhilfe oder Ergänzungsleistungen zur AHV/IV erhalten, bestehen unabhängig von der Bezugsfrist und der Verwirkungsfrist nach § 9 Abs. 2 des Gesetzes.
-
-<sup>2</sup> Trotz Ablauf der Bezugsfrist und Verwirkungsfrist nach § 9 Abs. 2 des Gesetzes lebt der Anspruch einer versicherten Person unter den Voraussetzungen gemäss § 15 Abs. 2 wieder auf.
-
-<sup>3</sup> Der Anspruch erlischt für die Zeit der Sistierung der Versicherungspflicht gemäss Art. 3 Abs. 4 KVG. Die Rückforderung richtet sich nach § 12 des Gesetzes.
+**…**
 
 #### § 22
 
-**Anspruch von Kurzaufenthaltern und Grenzgängern**
+**Grenzgänger**
 
-<sup>1</sup> Für EU- oder EFTA-Bürger und -Bürgerinnen, die aufgrund der Bilateralen Abkommen bei einem Schweizer Krankenversicherer gemäss KVG obligatorisch grundversichert sind und Leistungen aus der schweizerischen Sozialhilfe oder Ergänzungsleistungen zur AHV/IV erhalten, verfällt der Anspruch auf Prämienverbilligung nach erfolgter Abreise aus der Schweiz.
+<sup>1</sup> Grenzgänger, die am 1. Januar des Jahres, in dem die Prämienverbilligung ausgerichtet wird, im Kanton Thurgau einer Erwerbstätigkeit nachgehen und der obligatorischen Krankenversicherung unterstehen, haben den Antrag auf Prämienverbilligung bis am 31. Dezember des Jahres, für das die Prämienverbilligung geltend gemacht wird, zu stellen. Ansonsten verfällt der Anspruch.
 
-<sup>2</sup> Für EU- oder EFTA-Bürger und -Bürgerinnen, die aufgrund der Bilateralen Abkommen bei einem Schweizer Krankenversicherer gemäss KVG obligatorisch grundversichert sind und Leistungen aus der schweizerischen Arbeitslosenversicherung erhalten, verfällt der Anspruch auf Prämienverbilligung mit dem Erlöschen der Versicherungspflicht.
+<sup>2–4</sup> …
 
-<sup>3</sup> Kurzaufenthalter haben den Antrag auf die Prämienverbilligung bis spätestens 30 Tage vor Ablauf der Aufenthaltsbewilligung beziehungsweise bis spätestens 30 Tage vor ihrer Abreise ins Ausland zu stellen, ansonsten der Anspruch auf die Prämienverbilligung verfällt.
+#### § 22a
 
-<sup>4</sup> Grenzgänger haben den Antrag auf die Prämienverbilligung bis zum 31. Dezember des Jahres zu stellen, für das die Prämienverbilligung geltend gemacht wird. Mit Ablauf dieser Frist verfällt der Anspruch auf die Prämienverbilligung.
+**Kurzaufenthalter**
 
-#### § 23
+<sup>1</sup> Kurzaufenthalter mit Aufenthalt im Kanton Thurgau haben den Antrag auf Prämienverbilligung bis am 31. Dezember des Jahres, für das die Prämienverbilligung geltend gemacht wird, zu stellen. Ansonsten verfällt der Anspruch.
 
-**Fehlender Wohnsitz in der Schweiz**
+<sup>2</sup> Für die Berechtigung massgebend sind die persönlichen Verhältnisse zum Zeitpunkt der Rechtsunterstellung unter die Schweizer Versicherungspflicht.
 
-<sup>1</sup> Personen ohne Wohnsitz in der Schweiz, die gemäss KVG bei einem Schweizer Krankenversicherer obligatorisch grundversichert sind, haben Anspruch auf Prämienverbilligung, sofern sie die Anspruchsvoraussetzungen im Sinne dieser Verordnung erfüllen und bei der zuständigen Gemeinde einen Antrag auf Prämienverbilligung stellen.
+#### § 23–24
 
-#### § 24
-
-**Auszahlung und Abrechnung**
-
-<sup>1</sup> Die Prämienverbilligung für 2014 und die nachfolgenden Jahre wird an die Versicherer ausgerichtet. Der Versicherer meldet jährlich bis zum 31. Januar den gesamten aktuellen Versichertenbestand mittels Datenaustauschplattform Sedex an die kantonale Ausgleichskasse.
-
-<sup>2</sup> Der Versicherer legt der kantonalen Ausgleichskasse bis zum 31. Januar des Folgejahres die Jahresrechnung vor. Die Rechnung umfasst sämtliche Zahlungen und Gutschriften des Kalenderjahres.
-
-<sup>3</sup> Der Kanton stellt den Gemeinden Rechnung über den Gemeindeanteil der ausgerichteten Prämienverbilligungen.
+**…**
 
 ## 4. Pflegefinanzierung
 
@@ -348,11 +333,10 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 <sup>1</sup> Für spezialisierte Leistungsangebote können folgende Zuschläge gewährt werden:
 
-- 1\. für eine Demenzstation oder für ausgewiesene Sonderleistungen im Bereich Demenz (Demenzkonzept) bis zu 5 % auf die anrechenbaren Normkosten
-- 2\. für eine Psychiatriestation oder für ausgewiesene Sonderleistungen im Bereich der Psychiatrie (Psychiatriekonzept) bis zu 5 % auf die anrechenbaren Normkosten
+- 1\.–2. …
 - 3\. für Pflegeheime mit zertifiziertem Palliative Care Konzept bis zu 5 % auf die anrechenbaren Normkosten
 
-<sup>2</sup> Mit Ausnahme von Ziff. 3 können die Zuschläge nicht kumuliert werden. Das Departement entscheidet über die Gewährung der Zuschläge aufgrund des Leistungsangebots und den erhöhten Anforderungen an die Pflege.
+<sup>2</sup> Das Departement entscheidet über die Gewährung der Zuschläge aufgrund des Leistungsangebots und den erhöhten Anforderungen an die Pflege.
 
 <sup>3</sup> Die Zuschläge werden halbiert, sobald mehr als 50 % der Leistungsbezüger und Leistungsbezügerinnen im Kanton Thurgau in einem Pflegeheim mit spezialisiertem Leistungsangebot wohnen; die Zuschläge entfallen, sobald ein Anteil von 80 % erreicht ist.
 
@@ -825,13 +809,7 @@ vom 20.12.2011 (Stand 01.01.2022)
 
 #### § 71
 
-**Leistungsaufschübe bis 31. Dezember 2011**
-
-<sup>1</sup> Bei Leistungsaufschüben der Versicherer, die vor dem 31. Dezember 2011 verfügt und der Wohnsitz- oder Aufenthaltsgemeinde angezeigt wurden, übernimmt die Gemeinde die Prämienrückstände, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten oder die Behandlungskosten.
-
-<sup>2</sup> Übernimmt die Gemeinde die Behandlungskosten, so hat der Leistungserbringer Inkassobemühungen bis zum allfälligen Rechtsvorschlag des Versicherten nachzuweisen. Für Behandlungen unter Fr. 500 genügt der Nachweis, dass der Versicherte nach der Rechnungsstellung zweimal erfolglos gemahnt worden ist.
-
-<sup>3</sup> Begleicht die Wohnsitz- bzw. Aufenthaltsgemeinde im Versicherungsfall die Kosten gemäss Abs. 2, hat sie gegenüber früheren Wohnsitz- und Aufenthaltsgemeinden im Kanton das Rückgriffsrecht für dort entstandene Prämienrückstände und Kostenbeteiligungen, abzüglich die bezogenen Entschädigungen gemäss § 8 Abs. 2.
+**…**
 
 #### § 72
 
