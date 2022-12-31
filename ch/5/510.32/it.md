@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 1994 concernente i poteri di polizia dell'eserc
 short: OPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/40_40_40"
 language: it
-version: 2009-01-01
+version: 2023-01-01
 adopted: 1994-10-26
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20090101/it/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20090101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20090101/it"
 
 (OPPE)
 
-del 26 ottobre 1994 (Stato 1° gennaio 2009) (Stato 1° gennaio 2009)
+del 26 ottobre 1994 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 92 capoverso 4 della legge militare[^ingress-1],[^ingress-2]
+visto l’articolo 92 capoverso 4 lettera a della legge militare del 3 febbraio 1995[^ingress-1],[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -34,55 +34,45 @@ ordina:
 
 **Campo d’applicazione**
 
-<sup>1</sup> La presente ordinanza regola i poteri degli organi militari di polizia. Sono fatti salvi ulteriori poteri di organi militari di polizia fondati su altri atti legislativi.
+<sup>1</sup> La presente ordinanza regola i poteri di polizia e l’uso delle armi da parte dei militari. Sono fatti salvi ulteriori poteri fondati su altri atti legislativi.[^1-1]
 
-<sup>2</sup> Essa è applicabile nel servizio d’istruzione e, sempreché non venga ordinato altrimenti, anche in servizio d’appoggio e in servizio attivo.[^1-1]
+<sup>2</sup> Essa è applicabile nel servizio d’istruzione e, sempreché non venga ordinato altrimenti, anche in servizio d’appoggio e in servizio attivo.[^1-2]
 
-<sup>3</sup> Essa è applicabile anche per la chiamata in servizio di truppe cantonali in vista di un servizio d’ordine; il Cantone può emanare disposizioni derogatorie.[^1-2]
+<sup>3</sup> Essa è applicabile anche per la chiamata in servizio di truppe cantonali in vista di un servizio d’ordine; il Cantone può emanare disposizioni derogatorie.[^1-3]
 
 <sup>4</sup>
 
 Non è applicabile:
 
 - a. all’uso della forza militare contro i militari nemici o le formazioni di truppe nemiche;
-- b. alla salvaguardia della sovranità sullo spazio aereo.[^1-3]
+- b. alla salvaguardia della sovranità sullo spazio aereo;
+- c.[^1-4] alle istruzioni della truppa in caso di impieghi di polizia;
+- d.[^1-5] ai militari messi a disposizione delle autorità civili a lungo termine a fini di coordinamento.[^1-6]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
-[^1-3]: Introdotto dal n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-3]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-4]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^1-5]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^1-6]: Introdotto dal n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
 
 #### Art. 2
 
-**Organi militari di polizia**
+[^2-1]
 
-Sono organi militari di polizia:
-
-- a.
-
-  gli organi di polizia della truppa:
-
-  - 1\. la guardia;
-  - 2\. i distaccamenti di truppe e le formazioni con compiti di polizia;
-
-- b. i membri della Sicurezza militare, segnatamente gli organi delle zone della polizia militare;
-- c. il Corpo della guardia delle fortificazioni;
-- d. i civili con compiti di polizia militare.
+[^2-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 3
 
 **Scopo**[^3-1]
 
-<sup>1</sup>
-
-Durante il servizio d’istruzione, il servizio d’appoggio e il servizio attivo possono essere applicate misure coercitive di polizia per:
+La truppa in servizio può applicare misure coercitive di polizia per:
 
 - a. difendere da pericoli la sicurezza dell’esercito;
 - b. eliminare perturbazioni dell’ordine militare;
 - c. prendere, fino all’arrivo degli organi competenti in materia di azione penale, le misure improrogabili in caso di perseguimento di reati contro l’esercito o membri di quest’ultimo.
 
-<sup>2</sup> In servizio d’appoggio e in servizio attivo possono essere applicate misure coercitive di polizia anche per adempire i compiti rispettivi dell’esercito, delle sue formazioni e dei suoi organi, nella misura in cui l’ordine d’impiego lo preveda esplicitamente.
-
-[^3-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 4
 
@@ -118,9 +108,10 @@ In caso di uso di armi è ammesso l’impiego delle munizioni seguenti:
 - b. munizioni ausiliarie;
 - c. proiettili a espansione controllata.
 
-<sup>4</sup> I dispositivi inabilitanti e i proiettili a espansione controllata possono essere utilizzati soltanto dal personale militare, dai membri della Sicurezza militare e dai membri dell’esercito specialmente istruiti.
+<sup>4</sup> Armi e munizioni possono essere utilizzati soltanto da militari specialmente istruiti.[^4-2]
 
-[^4-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 12 nov. 2008 sulla coercizione, in vigore dal 1° gen. 2009 ([RS 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)).
+[^4-1]: Nuovo testo giusta l’all. n. 1 dell’O del 12 nov. 2008 sulla coercizione, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 5
 
@@ -134,22 +125,23 @@ In caso di uso di armi è ammesso l’impiego delle munizioni seguenti:
 
 #### Art. 6
 
-**Collaborazione con organi civili di polizia**
+[^6-1]
 
-<sup>1</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport[^6-1] può ordinare che, per gli organi militari di polizia e le truppe impiegati a sostegno delle autorità civili, siano applicabili, in luogo delle prescrizioni della sezione 2, le prescrizioni civili concernenti le misure coercitive di polizia.
-
-<sup>2</sup> ...[^6-2]
-
-[^6-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997. Di detta mod. è tenuto conto in tutto il presente testo.
-[^6-2]: Abrogato dall’art. 10 dell’O del 14 apr. 1999 concernente l’istruzione della truppa in caso di impieghi di polizia ([RU 1999 1511](https://fedlex.data.admin.ch/eli/oc/1999/225)).
+[^6-1]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Sezione 2: Presupposti per le singole misure coercitive di polizia
 
 #### Art. 7
 
-**Principio**
+**Principio**[^7-1]
 
-Le misure coercitive di polizia possono essere applicate nell’ambito dei poteri secondo l’articolo 3, nella misura necessaria per l’adempimento del compito.
+Le misure coercitive di polizia possono essere applicate nell’ambito degli scopi secondo l’articolo 3, nella misura in cui:
+
+- a. il militare ha ricevuto un compito corrispondente;
+- b. ciò risulta necessario per l’adempimento del compito; e
+- c. il militare è stato istruito all’applicazione di misure coercitive di polizia.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 8
 
@@ -237,7 +229,7 @@ Possono essere sequestrati oggetti se:
 Possono essere arrestate provvisoriamente persone se:
 
 - a. mettono in pericolo la sicurezza dell’esercito, dei militari, del materiale dell’esercito, delle opere dell’esercito o di quelle da esso sorvegliate oppure di informazioni importanti nonché se perturbano l’ordine militare, sempreché l’allontanamento e la tenuta a distanza non siano sufficienti;
-- b. hanno perpetrato o tentato un reato contro l’esercito o i militari e sono perseguite direttamente da un organo militare di polizia o dalla truppa;
+- b.[^14-1] hanno perpetrato o tentato un reato contro l’esercito o i militari e sono perseguite direttamente da questi;
 - c. mettono seriamente in pericolo se stesse o terzi;
 - d. a causa del loro stato o del loro comportamento suscitano pubblico scandalo o perturbano la sicurezza e l’ordine pubblici;
 - e. sono ricercate.
@@ -247,6 +239,8 @@ Possono essere arrestate provvisoriamente persone se:
 <sup>3</sup> Dopo la stesura del verbale, le persone arrestate devono essere consegnate senza indugio agli organi di polizia o inquirenti competenti. I militari possono essere consegnati anche ai loro comandanti di truppa.
 
 <sup>4</sup> Le persone arrestate possono essere ammanettate se oppongono resistenza o se esiste il pericolo che fuggano, aggrediscano altre persone o si feriscano.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 15
 
@@ -264,29 +258,35 @@ La costrizione fisica può essere utilizzata soltanto quando è direttamente nec
 
 Quando altri mezzi disponibili non bastano, occorre far uso dell’arma da fuoco, in modo adeguato alle circostanze, se:
 
-- a. gli organi militari di polizia sono minacciati da un’aggressione pericolosa imminente o sono aggrediti pericolosamente;
-- b. altre persone sono minacciate da un’aggressione pericolosa imminente o sono aggredite pericolosamente;
+- a.[^16-1] militari o altre persone subiscono un’aggressione illegittima o sono minacciati da un’aggressione imminente;
+- b.[^16-2] *...*
 - c.
 
   i compiti di servizio non possono essere eseguiti in altro modo se non mediante l’uso delle armi, segnatamente:
 
-  - 1\. quando persone che hanno commesso un crimine o un delitto grave oppure ne sono fortemente sospettate, cercano di sottrarsi all’arresto o a un arresto già eseguito mediante la fuga;
-  - 2\. quando gli organi militari di polizia, sulla base di informazioni ricevute o di accertamenti personali, possono o devono concludere che persone rappresentano, per altri, un pericolo imminente per la vita e l’integrità personale e che esse cercano di sottrarsi all’arresto o a un arresto già eseguito mediante la fuga;
-  - 3\. per liberare ostaggi;
-  - 4\. per impedire un crimine o un delitto grave imminente a installazioni che servono alla collettività o che rappresentano un pericolo particolare per la collettività a causa della loro vulnerabilità;
-  - 5\. quando dev’essere impedita la sottrazione illecita di materiale che può rappresentare un grave pericolo per la collettività;
-  - 6\. quando un impianto militare, importante per l’adempimento dei compiti dell’esercito o di sue parti essenziali, è direttamente minacciato o attaccato pericolosamente;
+  - 1\. quando persone che hanno commesso un crimine o un delitto grave oppure ne sono fortemente sospettate, cercano di sottrarsi all’arresto o a un arresto già eseguito mediante la fuga,
+  - 2\.[^16-3] quando i militari, sulla base di informazioni ricevute o di accertamenti personali, possono o devono concludere che persone rappresentano, per altri, un pericolo imminente per la vita e l’integrità personale e che esse cercano di sottrarsi all’arresto o a un arresto già eseguito mediante la fuga,
+  - 3\. per liberare ostaggi,
+  - 4\. per impedire un crimine o un delitto grave imminente a installazioni che servono alla collettività o che rappresentano un pericolo particolare per la collettività a causa della loro vulnerabilità,
+  - 5\. quando dev’essere impedita la sottrazione illecita di materiale che può rappresentare un grave pericolo per la collettività,
+  - 6\.[^16-4] quando un impianto militare, importante per l’adempimento dei compiti dell’esercito o di sue parti essenziali, subisce un attacco illegittimo o è minacciato da un attacco imminente,
   - 7\. quando dev’essere impedita una grave violazione del segreto militare.
 
-<sup>3</sup> La facoltà di far uso delle armi da fuoco può essere limitata a singoli casi menzionati al capoverso 2 oppure il suo campo d’applicazione può essere ristretto e precisato. Tali direttive tengono segnatamente conto, oltre che della situazione e del compito, del livello d’istruzione dei membri degli organi militari di polizia interessati.
+<sup>3</sup> La facoltà di far uso delle armi da fuoco può essere limitata a singoli casi menzionati al capoverso 2 oppure il suo campo d’applicazione può essere ristretto e precisato. Tali direttive tengono segnatamente conto, oltre che della situazione e del compito, del livello d’istruzione dei militari interessati.[^16-5]
 
 <sup>4</sup> In servizio attivo, il Dipartimento federale della difesa, della protezione della popolazione e dello sport o il generale può estendere la facoltà di far uso delle armi.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-2]: Abrogata dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 17
 
 **Principi generali concernenti l’uso delle armi**
 
-<sup>1</sup> Ogni membro degli organi militari di polizia è personalmente responsabile dell’uso della sua arma.
+<sup>1</sup> Ogni militare è personalmente responsabile dell’uso della sua arma.[^17-1]
 
 <sup>2</sup> L’uso delle armi da fuoco dev’essere preceduto da una chiara intimazione, se necessario rafforzata da un chiaro segno, sempreché lo scopo e le circostanze lo consentano. Può essere sparato un colpo d’avvertimento soltanto se le circostanze annullano l’effetto di un’intimazione.
 
@@ -296,11 +296,14 @@ Quando altri mezzi disponibili non bastano, occorre far uso dell’arma da fuoco
 
 <sup>5</sup> La persona ferita in seguito all’uso delle armi dev’essere soccorsa.
 
-<sup>6</sup> Il membro dell’organo militare di polizia che ha fatto uso dell’arma dev’essere assistito.
+<sup>6</sup> Il militare che ha fatto uso dell’arma dev’essere assistito.[^17-2]
 
 <sup>7</sup> Ogni caso di uso delle armi dev’essere annunciato senza indugio al superiore.
 
 <sup>8</sup> Per assicurare le prove e per la ricerca di persone fuggite si deve far capo senza indugio alla polizia civile o alla polizia militare. Le armi impiegate devono essere messe al sicuro per l’inchiesta.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^17-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Sezione 3: Disposizioni finali
 

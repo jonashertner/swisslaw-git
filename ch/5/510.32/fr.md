@@ -4,31 +4,31 @@ title: "Ordonnance du 26 octobre 1994 concernant les pouvoirs de police de l'arm
 short: OPoA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/40_40_40"
 language: fr
-version: 2009-01-01
+version: 2023-01-01
 adopted: 1994-10-26
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20090101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant les pouvoirs de police de l’armée
 
-(OPoA)**[^t-1]**
+(OPoA)[^t-1]
 
-du 26 octobre 1994 (Etat le 1<sup>er</sup> janvier 2009)
+du 26 octobre 1994 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur de l’abréviation selon l’art. 2, let. e de l’O du 10 janv. 1996 modifiant les abréviations des titres de divers actes législatifs, en vigueur depuis le 1<sup>er</sup> fév. 1996 ([RO 1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)).
 
 Le Conseil fédéral suisse,
 
-vu l’art. 92, al. 4, de la loi fédérale sur l’armée et l’administration militaire[^ingress-1],[^ingress-2]
+vu l’art. 92, al. 4, let. a, de la loi du 3 février 1995 sur l’armée[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Section 1 Dispositions générales
 
@@ -36,55 +36,45 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance règle les pouvoirs des organes militaires de police. Sont réservés d’autres pouvoirs d’organes militaires particuliers de police sur la base d’autres arrêtés.
+<sup>1</sup> La présente ordonnance règle les pouvoirs de police et l’utilisation des armes par les militaires. Sont réservés d’autres pouvoirs sur la base d’autres arrêtés.[^1-1]
 
-<sup>2</sup> Elle est valable durant le service d’instruction et, pour autant qu’il n’en soit pas disposé autrement, durant le service d’appui et le service actif également.[^1-1]
+<sup>2</sup> Elle est valable durant le service d’instruction et, pour autant qu’il n’en soit pas disposé autrement, durant le service d’appui et le service actif également.[^1-2]
 
-<sup>3</sup> Elle est également valable pour les mises sur pied de troupes cantonales en vue d’un service d’ordre; le canton peut édicter des dispositions dérogatoires.[^1-2]
+<sup>3</sup> Elle est également valable pour les mises sur pied de troupes cantonales en vue d’un service d’ordre; le canton peut édicter des dispositions dérogatoires.[^1-3]
 
 <sup>4</sup>
 
 Elle n’est pas valable pour:
 
 - a. l’application de la force militaire contre des militaires et des formations ennemis;
-- b. la sauvegarde de la souveraineté sur l’espace atmosphérique.[^1-3]
+- b. la sauvegarde de la souveraineté sur l’espace atmosphérique;
+- c.[^1-4] l’instruction de la troupe en cas d’engagements de police;
+- d.[^1-5] les militaires chargés de la coordination mis durablement à la disposition des autorités civiles / les militaires mis durablement à la disposition des autorités civiles à des fins de coordination.[^1-6]
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
-[^1-3]: Introduit par le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-3]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-4]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^1-5]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^1-6]: Introduit par le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
 
 #### Art. 2
 
-**Organes militaires de police**
+[^2-1]
 
-Les organes militaires de police sont:
-
-- a.
-
-  les organes de police de la troupe:
-
-  - 1\. la garde,
-  - 2\. les détachements et les formations auxquels sont confiées des tâches de police;
-
-- b. les membres de la sécurité militaire, notamment les organes des secteurs de la police militaire;
-- c. le corps des garde-fortifications;
-- d. les civils auxquels sont confiées des tâches de police militaire.
+[^2-1]: Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 3
 
 **But**[^3-1]
 
-<sup>1</sup>
-
-Pendant le service d’instruction, le service d’appui et le service actif, des mesures policières de contrainte peuvent être engagées pour:
+La troupe en service peut recourir à des mesures policières de contraintes pour:
 
 - a. écarter des dangers menaçant la sécurité de l’armée;
 - b. éliminer les perturbations visant l’ordre militaire;
 - c. prendre les mesures d’urgence qui s’imposent lors de la poursuite d’actes punissables commis contre l’armée ou ses membres jusqu’à l’arrivée des organes compétents en matière de poursuite pénale.
 
-<sup>2</sup> Pendant le service d’appui et le service actif, les mesures policières de contrainte peuvent être étendues afin de garantir l’accomplissement des missions de l’armée, de ses formations et de ses organes, pour autant que l’ordre d’engagement le prévoie expressément.
-
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 4
 
@@ -120,9 +110,10 @@ En cas de recours aux armes, les projectiles suivants peuvent être utilisés:
 - b. les projectiles d’appoint;
 - c. les projectiles à expansion contrôlée.
 
-<sup>4</sup> Les dispositifs incapacitants et les projectiles à expansion contrôlée ne peuvent être utilisés que par le personnel militaire, les membres du service de sécurité militaire et les membres de l’armée spécialement formés à cet effet.
+<sup>4</sup> Les armes et les munitions ne peuvent être utilisées que par des militaires spécialement formés à cet effet.[^4-2]
 
-[^4-1]: Nouvelle teneur selon le ch. 1 de l’annexe à l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 12 nov. 2008 sur l’usage de la contrainte, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 5
 
@@ -136,26 +127,27 @@ En cas de recours aux armes, les projectiles suivants peuvent être utilisés:
 
 #### Art. 6
 
-**Collaboration avec des organes civils de police**
+[^6-1]
 
-<sup>1</sup> Au lieu des prescriptions selon la section 2, le Département fédéral de la défense, de la protection de la population et des sports[^6-1] peut ordonner l’application des prescriptions civiles concernant les mesures policières de contrainte pour les organes militaires de police et les troupes.
-
-<sup>2</sup> ...[^6-2]
-
-[^6-1]: Nouvelle dénomination selon l’ACF du 19 déc. 1997 (non publié). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-2]: Abrogé par l’art. 10 de l’O du 14 avr. 1999 concernant l’instruction de la troupe en cas d’engagements de police, avec effet 1<sup>er</sup> mai 1999 ([RO 1999 1511](https://fedlex.data.admin.ch/eli/oc/1999/225)).
+[^6-1]: Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Section 2 Conditions régissant les différentes mesures policières de contrainte
 
 #### Art. 7
 
-**Principe**
+**Principe**[^7-1]
 
-Les mesures policières de contrainte peuvent être appliquées selon les pouvoirs prévus à l’art. 3, pour autant que l’exécution de la mission l’exige.
+Les mesures policières de contrainte peuvent être appliquées aux fins visées à l’art. 3 pour autant que:
+
+- a. le militaire se voie confier une mission en ce sens;
+- b. l’exécution de la mission l’exige; et
+- c. le militaire a été formé à l’application de mesures policières de contrainte.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 8
 
-**Eloigner des personnes et les tenir à distance**
+**Éloigner des personnes et les tenir à distance**
 
 Les personnes peuvent être éloignées ou tenues à distance d’endroits déterminés si:
 
@@ -239,7 +231,7 @@ Des objets peuvent être séquestrés si:
 Des personnes peuvent être maintenues provisoirement en état d’arrestation si:
 
 - a. elles menacent la sécurité de l’armée, des militaires, du matériel d’armée, des ouvrages de l’armée ou des ouvrages qu’elle garde, ou la protection d’informations importantes, ou encore si elles troublent l’ordre militaire, dans la mesure où les éloigner ou les tenir à distance ne suffit pas;
-- b. elles ont commis ou tenté de commettre un acte punissable contre l’armée ou les militaires et qu’elles sont poursuivies directement par un organe militaire de police ou par la troupe;
+- b.[^14-1] elles ont commis ou tenté de commettre un acte punissable contre l’armée ou les militaires et que ceux-ci les poursuivent directement;
 - c. elles menacent sérieusement leur propre personne ou d’autres personnes;
 - d. en raison de leur état ou de leur comportement, elles font scandale sur la voie publique ou troublent gravement la sécurité et l’ordre public;
 - e. elles sont recherchées.
@@ -249,6 +241,8 @@ Des personnes peuvent être maintenues provisoirement en état d’arrestation s
 <sup>3</sup> Dès que le procès-verbal a été établi, les personnes en état d’arrestation doivent être remises immédiatement aux organes de police ou d’enquête compétents.
 
 <sup>4</sup> Des personnes en état d’arrestation peuvent être immobilisées au moyen de liens si elles opposent de la résistance ou s’il y a danger qu’elles fuient, attaquent d’autres personnes ou se blessent elles-mêmes.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 15
 
@@ -266,29 +260,35 @@ La contrainte physique ne peut être appliquée que si elle s’impose impérati
 
 Si d’autres moyens à disposition sont insuffisants, l’arme à feu peut être utilisée de manière appropriée, en fonction des circonstances:
 
-- a. si les organes militaires de police sont menacés d’une attaque imminente dangereuse ou sont attaqués de manière dangereuse;
-- b. si d’autres personnes sont menacées d’une attaque imminente dangereuse ou attaquées de manière dangereuse;
+- a.[^16-1] si des militaires ou d’autres personnes, de manière contraire au droit, sont attaqués ou menacés d’une attaque imminente;
+- b.[^16-2] …
 - c.
 
   si les missions de service ne peuvent être exécutées qu’au moyen du recours à l’arme, notamment:
 
   - 1\. si des personnes ayant ou étant fortement soupçonnées d’avoir commis un crime ou un délit grave tentent de se soustraire par la fuite à l’arrestation ou à une détention en cours d’exécution,
-  - 2\. si les organes militaires de police peuvent ou doivent déduire de renseignements obtenus ou de leurs propres constatations que des personnes faisant courir à autrui un danger grave et imminent pour sa santé ou sa vie tentent de se soustraire par la fuite à une arrestation ou à une détention en cours d’exécution,
+  - 2\.[^16-3] si des militaires peuvent ou doivent déduire de renseignements obtenus ou de leurs propres constatations que des personnes faisant courir à autrui un danger grave et imminent pour sa santé ou sa vie tentent de se soustraire par la fuite à une arrestation ou à une détention en cours d’exécution,
   - 3\. pour libérer des otages,
   - 4\. pour empêcher un crime ou un délit imminent grave contre des installations au service de la collectivité ou qui représentent un danger particulier pour la collectivité en raison de leur vulnérabilité,
   - 5\. s’il s’agit d’empêcher que du matériel pouvant représenter un danger grave pour la collectivité soit emporté de manière illégale,
-  - 6\. si un ouvrage militaire essentiel pour l’exécution de la mission de l’armée ou qui représente des éléments importants de celle-ci est menacé d’une façon imminente et dangereuse,
+  - 6\.[^16-4] si un ouvrage militaire essentiel pour l’exécution de la mission de l’armée ou qui représente des éléments importants de celle-ci est, de manière contraire au droit, attaqué ou menacé d’une attaque imminente,
   - 7\. si une violation grave du secret militaire doit être empêchée.
 
-<sup>3</sup> Le droit de recourir à l’usage d’une arme à feu peut être limité à certains cas prévus à l’al. 2 ou son utilisation peut être restreinte et précisée. Outre la situation et la mission, de telles prescriptions tiennent compte notamment du niveau d’instruction des membres des organes militaires de police.
+<sup>3</sup> Le droit de recourir à l’usage d’une arme à feu peut être limité à certains cas prévus à l’al. 2 ou son utilisation peut être restreinte et précisée. Outre la situation et la mission, de telles prescriptions tiennent compte notamment du niveau d’instruction des militaires concernés.[^16-5]
 
 <sup>4</sup> Durant le service actif, le Département fédéral de la défense, de la protection de la population et des sports ou le général peuvent étendre le droit du recours aux armes.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-2]: Abrogée par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 17
 
 **Principes généraux régissant le recours aux armes**
 
-<sup>1</sup> Chaque membre des organes militaires de police est personnellement responsable de l’usage de son arme.
+<sup>1</sup> Chaque militaire est personnellement responsable de l’usage de son arme.[^17-1]
 
 <sup>2</sup> Pour autant que le but et les circonstances le permettent, le recours à l’arme à feu doit être précédé d’une sommation ou d’un signal sans équivoque. Un coup de semonce ne peut être tiré qu’à condition qu’il résulte des circonstances que la sommation pourrait ne pas être entendue.
 
@@ -298,11 +298,14 @@ Si d’autres moyens à disposition sont insuffisants, l’arme à feu peut êtr
 
 <sup>5</sup> La personne blessée par le recours à l’arme doit être secourue.
 
-<sup>6</sup> Le membre de l’organe militaire de police qui a fait usage de son arme doit être assisté.
+<sup>6</sup> Le militaire qui a fait usage de son arme doit être assisté.[^17-2]
 
 <sup>7</sup> Dans tous les cas, le supérieur doit être informé immédiatement du recours à l’arme.
 
 <sup>8</sup> Il faut immédiatement faire appel à la police civile ou à la police militaire pour relever des traces ou rechercher des personnes en fuite. Les armes utilisées doivent être mises en sécurité pour les fins de l’enquête.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^17-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Section 3 Dispositions finales
 
@@ -316,7 +319,7 @@ Le Département fédéral de la défense, de la protection de la population et d
 
 **Modification du droit en vigueur**
 
-...[^19-1]
+…[^19-1]
 
 [^19-1]: La mod. peut être consultée au [RO 1995 40](https://fedlex.data.admin.ch/eli/oc/1995/40_40_40).
 

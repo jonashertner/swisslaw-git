@@ -4,11 +4,11 @@ title: Verordnung vom 26. Oktober 1994 über die Polizeibefugnisse der Armee (VP
 short: VPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/40_40_40"
 language: de
-version: 2009-01-01
+version: 2023-01-01
 adopted: 1994-10-26
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20090101/de/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20090101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/40_40_40/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-40_40_40-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/40_40_40/20090101/de"
 
 (VPA)
 
-vom 26. Oktober 1994 (Stand am 1. Januar 2009) (Stand am 1. Januar 2009)
+vom 26. Oktober 1994 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 92 Absatz 4 des Militärgesetzes (MG)[^ingress-1],[^ingress-2]
+gestützt auf Artikel 92 Absatz 4 Buchstabe a des Militärgesetzes vom 3. Februar 1995[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -34,55 +34,45 @@ verordnet:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Befugnisse der militärischen Polizeiorgane. Vorbehalten bleiben weitere Befugnisse von militärischen Polizeiorganen aufgrund anderer Erlasse.
+<sup>1</sup> Diese Verordnung regelt die Polizeibefugnisse und den Waffengebrauch durch Angehörige der Armee. Vorbehalten bleiben weitere Befugnisse aufgrund anderer Erlasse.[^1-1]
 
-<sup>2</sup> Sie gilt im Ausbildungsdienst und, soweit nichts anderes verordnet ist, auch im Assistenz- und Aktivdienst.[^1-1]
+<sup>2</sup> Sie gilt im Ausbildungsdienst und, soweit nichts anderes verordnet ist, auch im Assistenz- und Aktivdienst.[^1-2]
 
-<sup>3</sup> Sie gilt auch für kantonale Aufgebote zum Ordnungsdienst; der Kanton kann abweichende Bestimmungen erlassen.[^1-2]
+<sup>3</sup> Sie gilt auch für kantonale Aufgebote zum Ordnungsdienst; der Kanton kann abweichende Bestimmungen erlassen.[^1-3]
 
 <sup>4</sup>
 
 Sie gilt nicht für:
 
 - a. die Anwendung militärischer Gewalt gegen feindliche Militärpersonen und Truppenverbände;
-- b. die Wahrung der Lufthoheit.[^1-3]
+- b. die Wahrung der Lufthoheit;
+- c.[^1-4] Ausbildungen der Truppe bei polizeilichen Einsätzen;
+- d.[^1-5] Angehörige der Armee, die auf Dauer zivilen Behörden zur Koordination zur Verfügung gestellt werden.[^1-6]
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 [^1-2]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
-[^1-3]: Eingefügt durch Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-3]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^1-4]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^1-6]: Eingefügt durch Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
 
 #### Art. 2
 
-**Militärische Polizeiorgane**
+[^2-1]
 
-Militärische Polizeiorgane sind:
-
-- a.
-
-  die Polizeiorgane der Truppe:
-
-  - 1\. Wachen,
-  - 2\. Truppendetachemente und Verbände mit polizeilichen Aufgaben;
-
-- b. die Angehörigen der Militärischen Sicherheit, namentlich die Organe der Militärpolizeizonen;
-- c. das Festungswachtkorps;
-- d. Zivilpersonen mit militärischen Polizeiaufgaben.
+[^2-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 3
 
 **Zweck**[^3-1]
 
-<sup>1</sup>
-
-Im Ausbildungs-, Assistenz- und Aktivdienst dürfen polizeiliche Zwangsmassnahmen eingesetzt werden, um:
+Die Truppe im Dienst darf polizeiliche Zwangsmassnahmen einsetzen, um:
 
 - a. Gefahren für die Sicherheit der Armee abzuwehren;
 - b. Störungen der militärischen Ordnung zu beseitigen;
 - c. bei der Verfolgung von Straftaten gegen die Armee oder ihre Angehörigen bis zum Eintreffen der zuständigen Strafverfolgungsorgane die unaufschiebbaren Massnahmen zu treffen.
 
-<sup>2</sup> Im Assistenz- und Aktivdienst dürfen polizeiliche Zwangsmassnahmen auch zur Erfüllung der jeweiligen Aufträge der Armee, ihrer Verbände und Organe eingesetzt werden, soweit der Einsatzbefehl dies ausdrücklich vorsieht.
-
-[^3-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 4141](https://fedlex.data.admin.ch/eli/oc/1995/4141_4141_4141)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 4
 
@@ -118,9 +108,10 @@ Beim Waffengebrauch darf folgende Munition eingesetzt werden:
 - b. Hilfsmunition;
 - c. Munition mit kontrollierter Expansionswirkung.
 
-<sup>4</sup> Destabilisierungsgeräte und Munition mit kontrollierter Expansionswirkung dürfen nur vom militärischen Personal und Angehörigen der militärischen Sicherheit sowie von weiteren Angehörigen der Armee, die speziell dafür ausgebildet sind, eingesetzt werden.
+<sup>4</sup> Waffen und Munition dürfen nur von speziell dafür ausgebildeten Angehörigen der Armee eingesetzt werden.[^4-2]
 
-[^4-1]: Fassung gemäss Anhang Ziff. 1 der Zwangsanwendungsverordnung vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([SR 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)).
+[^4-1]: Fassung gemäss Anhang Ziff. 1 der Zwangsanwendungsverordnung vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 5
 
@@ -134,22 +125,23 @@ Beim Waffengebrauch darf folgende Munition eingesetzt werden:
 
 #### Art. 6
 
-**Zusammenarbeit mit zivilen Polizeiorganen**
+[^6-1]
 
-<sup>1</sup> Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport[^6-1] kann anordnen, dass für militärische Polizeiorgane und Truppen, die zur Unterstützung ziviler Behörden eingesetzt sind, anstelle der Vorschriften des zweiten Abschnittes die zivilen Vorschriften über polizeiliche Zwangsmassnahmen gelten.
-
-<sup>2</sup> ...[^6-2]
-
-[^6-1]: Bezeichnung gemäss nicht veröffentlichtem BRB vom 19. Dez. 1997. Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^6-2]: Aufgehoben durch Art. 10 der V vom 14. April 1999 über die Ausbildung der Truppe bei polizeilichen Einsätzen ([SR 512.26](https://fedlex.data.admin.ch/eli/cc/1999/225)).
+[^6-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## 2. Abschnitt: Die Voraussetzungen der einzelnen polizeilichen Zwangsmassnahmen
 
 #### Art. 7
 
-**Grundsatz**
+**Grundsatz**[^7-1]
 
-Polizeiliche Zwangsmassnahmen können im Rahmen der Befugnisse nach Artikel 3 angewendet werden, soweit es zur Erfüllung des Auftrags notwendig ist.
+Polizeiliche Zwangsmassnahmen können zu den Zwecken nach Artikel 3 angewendet werden, soweit:
+
+- a. der Angehörige der Armee einen entsprechenden Auftrag erhalten hat;
+- b. es zur Erfüllung des Auftrages notwendig ist; und
+- c. der Angehörige der Armee zur Anwendung polizeilicher Zwangsmassnahmen ausgebildet wurde.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 8
 
@@ -237,7 +229,7 @@ Gegenstände können beschlagnahmt werden, wenn:
 Personen können vorläufig festgenommen werden, wenn:
 
 - a. sie die Sicherheit der Armee, ihrer Angehörigen, ihres Materials, ihrer oder von ihr bewachter Objekte oder von wichtigen Informationen gefährden oder die militärische Ordnung stören, sofern eine Wegweisung und Fernhaltung nicht genügt;
-- b. sie eine Straftat gegen die Armee oder ihre Angehörigen begangen oder versucht haben und von einem militärischen Polizeiorgan oder der Truppe unmittelbar verfolgt werden;
+- b.[^14-1] sie eine Straftat gegen die Armee oder ihre Angehörigen begangen oder zu begehen versucht haben und von diesen unmittelbar verfolgt werden;
 - c. sie sich oder andere ernsthaft gefährden;
 - d. sie wegen ihres Zustandes oder Verhaltens in schwerwiegender Weise öffentliches Ärgernis erregen oder die öffentliche Sicherheit und Ordnung ernsthaft stören;
 - e. nach ihnen gefahndet wird.
@@ -247,6 +239,8 @@ Personen können vorläufig festgenommen werden, wenn:
 <sup>3</sup> Festgenommene Personen sind nach Aufnahme des Protokolls unverzüglich den zuständigen Polizei- oder Untersuchungsorganen zu übergeben. Militärpersonen können auch ihren vorgesetzten Truppenkommandanten übergeben werden.
 
 <sup>4</sup> Festgenommene Personen dürfen gefesselt werden, wenn sie Widerstand leisten oder wenn Gefahr besteht, dass sie fliehen, andere Personen angreifen oder sich selber verletzen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 15
 
@@ -264,29 +258,35 @@ Körperlicher Zwang darf nur angewendet werden, wenn er unmittelbar geboten ist 
 
 Wenn andere verfügbare Mittel nicht ausreichen, ist in einer den Umständen angemessenen Weise von der Schusswaffe Gebrauch zu machen:
 
-- a. wenn die militärischen Polizeiorgane mit einem gefährlichen Angriff unmittelbar bedroht oder gefährlich angegriffen werden;
-- b. wenn andere Personen mit einem gefährlichen Angriff unmittelbar bedroht oder gefährlich angegriffen werden;
+- a.[^16-1] Angehörige der Armee oder andere Personen ohne Recht angegriffen oder unmittelbar mit einem Angriff bedroht werden;
+- b.[^16-2] …
 - c.
 
   wenn die dienstlichen Aufgaben nicht anders als durch Schusswaffengebrauch ausgeführt werden können, insbesondere:
 
   - 1\. wenn Personen, welche ein schweres Verbrechen oder ein schweres Vergehen begangen haben oder eines solchen dringend verdächtigt sind, sich der Festnahme oder einer bereits vollzogenen Verhaftung durch Flucht zu entziehen versuchen,
-  - 2\. wenn die militärischen Polizeiorgane aufgrund erhaltener Informationen oder aufgrund persönlicher Feststellungen annehmen dürfen oder müssen, dass Personen für andere eine unmittelbar drohende Gefahr an Leib und Leben darstellen und sich diese der Festnahme oder einer bereits vollzogenen Verhaftung durch Flucht zu entziehen versuchen,
+  - 2\.[^16-3] wenn Angehörige der Armee aufgrund erhaltener Informationen oder aufgrund persönlicher Feststellungen annehmen dürfen oder müssen, dass Personen für andere eine unmittelbar drohende Gefahr an Leib und Leben darstellen und sich der Festnahme oder einer bereits vollzogenen Verhaftung durch Flucht zu entziehen versuchen,
   - 3\. zur Befreiung von Geiseln,
   - 4\. zur Verhinderung eines unmittelbar drohenden schweren Verbrechens oder schweren Vergehens an Einrichtungen, die der Allgemeinheit dienen oder die für die Allgemeinheit wegen ihrer Verletzlichkeit eine besondere Gefahr bilden,
   - 5\. wenn die widerrechtliche Wegnahme von Material, das eine schwere Gefahr für die Allgemeinheit bilden kann, verhindert werden muss,
-  - 6\. wenn eine militärische Anlage, die wichtig für die Auftragserfüllung der Armee oder wesentlicher Teile davon ist, unmittelbar bedroht oder gefährlich angegriffen wird,
+  - 6\.[^16-4] wenn eine militärische Anlage, die wichtig für die Auftragserfüllung der Armee oder wesentlicher Teile davon ist, ohne Recht angegriffen oder unmittelbar mit einem Angriff bedroht wird,
   - 7\. wenn eine schwere Verletzung des militärischen Geheimnisses verhindert werden muss.
 
-<sup>3</sup> Die Befugnis zum Schusswaffengebrauch kann auf einzelne der in Absatz 2 genannten Fälle beschränkt, oder es kann deren Anwendungsbereich eingeschränkt und präzisiert werden. Solche Anordnungen berücksichtigen, neben Lage und Auftrag, insbesondere den Ausbildungsstand der betroffenen Angehörigen der militärischen Polizeiorgane.
+<sup>3</sup> Die Befugnis zum Schusswaffengebrauch kann auf einzelne der in Absatz 2 genannten Fälle beschränkt, oder es kann deren Anwendungsbereich eingeschränkt und präzisiert werden. Solche Anordnungen berücksichtigen, neben Lage und Auftrag, insbesondere den Ausbildungsstand der betroffenen Angehörigen der Armee.[^16-5]
 
 <sup>4</sup> Im Aktivdienst kann das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport oder der General die Befugnis zum Waffengebrauch erweitern.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^16-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 17
 
 **Allgemeine Grundsätze zum Waffengebrauch**
 
-<sup>1</sup> Jeder Angehörige der militärischen Polizeiorgane ist für den Einsatz seiner Waffe persönlich verantwortlich.
+<sup>1</sup> Jeder Angehörige der Armee ist für den Einsatz seiner Waffe persönlich verantwortlich.[^17-1]
 
 <sup>2</sup> Dem Schusswaffengebrauch hat ein deutlicher Warnruf, wenn nötig verstärkt durch ein deutliches Zeichen, vorauszugehen, sofern der Zweck und die Umstände es zulassen. Ein Warnschuss darf nur abgegeben werden, sofern die Umstände die Wirkung eines Warnrufes vereiteln.
 
@@ -296,11 +296,14 @@ Wenn andere verfügbare Mittel nicht ausreichen, ist in einer den Umständen ang
 
 <sup>5</sup> Dem durch Waffengebrauch Verletzten ist der nötige Beistand zu leisten.
 
-<sup>6</sup> Der Angehörige der militärischen Polizeiorgane, der von der Waffe Gebrauch gemacht hat, ist zu betreuen.
+<sup>6</sup> Der Angehörige der Armee, der von der Waffe Gebrauch gemacht hat, ist zu betreuen.[^17-2]
 
 <sup>7</sup> In jedem Fall von Waffengebrauch ist dem Vorgesetzten unverzüglich Meldung zu erstatten.
 
 <sup>8</sup> Zur Spurensicherung und zur Fahndung nach geflüchteten Personen ist unverzüglich die zivile oder die Militärpolizei beizuziehen. Eingesetzte Waffen sind für die Untersuchung sicherzustellen.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
+[^17-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -314,13 +317,9 @@ Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport
 
 **Änderung bisherigen Rechts**
 
-Die Anlageschutzverordnung vom 2. Mai 1990[^19-subdivu1-1] wird wie folgt geändert:
+…[^19-1]
 
-[^19-subdivu1-1]: [SR 510.518.1](https://fedlex.data.admin.ch/eli/cc/1990/854_854_854). Die hiernach aufgeführte Änd. ist eingefügt in der genannten V.
-
-### Art. 7
-
-...
+[^19-1]: Die Änderung kann unter [AS 1995 40](https://fedlex.data.admin.ch/eli/oc/1995/40_40_40)konsultiert werden.
 
 #### Art. 20
 
