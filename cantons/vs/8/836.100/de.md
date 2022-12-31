@@ -1,24 +1,25 @@
 ---
 canton: VS
 number: "836.100"
-title: Kantonale Verordnung Verordnung über die Familienzulagen
+title: Kantonale Verordnung über die Familienzulagen
 short: kFamZV
 language: de
-version: 2013-01-01
-corrected: 2017-10-11
-version_adopted: 2013-01-10
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-07
 adopted: 2009-01-14
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/836.100"
-pdf: "https://lex.vs.ch/api/de/versions/174/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3104/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonale Verordnung Verordnung über die Familienzulagen (kFamZV)
+# Kantonale Verordnung über die Familienzulagen
 
-vom 14. Januar 2009
+(kFamZV)
+
+vom 14.01.2009 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -30,9 +31,9 @@ auf Antrag des Departements für Gesundheit, Sozialwesen und Energie,
 
 beschliesst:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
-### 1. Abschnitt: Anwendungsbereich
+### 1.1 Anwendungsbereich
 
 #### Art. 1
 
@@ -42,19 +43,19 @@ beschliesst:
 
 <sup>2</sup> Die vorliegende Verordnung präzisiert die besonderen kantonalen durch das Ausführungsgesetz eingeführten Bestimmungen.
 
-### 2. Abschnitt: Familienzulagen
+### 1.2 Familienzulagen
 
 #### Art. 2
 
 **Periodische Zulagen**
 
-Die Kinderzulagen, die Ausbildungszulagen und die Zusatzleistungen ab dem dritten Kind werden in der Regel jeden Monat ausbezahlt.
+<sup>1</sup> Die Kinderzulagen, die Ausbildungszulagen und die Zusatzleistungen ab dem dritten Kind werden in der Regel jeden Monat ausbezahlt.
 
 #### Art. 3
 
 **Ausbildungszulage vor dem 16. Altersjahr**
 
-Die Kinderzulage wird auf das Niveau der Ausbildungszulage erhöht, wenn das Kind vor dem 16. Altersjahr eine Ausbildung beginnt, die einer Lehre oder einer Schule der Sekundarstufe II, einer Handelsschule, einer Schule mit Stufe Diplom oder eines Gymnasiums mit Stufe Maturität, entspricht.
+<sup>1</sup> Die Kinderzulage wird auf das Niveau der Ausbildungszulage erhöht, wenn das Kind vor dem 16. Altersjahr eine Ausbildung beginnt, die einer Lehre oder einer Schule der Sekundarstufe II, einer Handelsschule, einer Schule mit Stufe Diplom oder eines Gymnasiums mit Stufe Maturität, entspricht.
 
 #### Art. 4
 
@@ -62,19 +63,17 @@ Die Kinderzulage wird auf das Niveau der Ausbildungszulage erhöht, wenn das Kin
 
 <sup>1</sup> Die Zusatzleistungen ab dem dritten Kind werden den jüngsten Kindern entsprechend der Anzahl anspruchsberechtigter Kinder für den gleichen Bezüger gewährt. Dies gilt für die vorrangigen und Differenzzulagen.
 
-<sup>2</sup> Sobald mindestens drei Kinder im gleichen Haushalt im Wallis leben, ihre Ansprüche auf Familienzulagen gemäss der Walliser Gesetzgebung aber nicht dem gleichen Bezüger zugeordnet sind, können bei der Familienzulagekasse, welche die Zulagen für das jüngste Kind auszahlt, Zusatzleistungen beantragt werden. Damit die Kassen in solchen Fällen entscheiden können, haben die Antragsteller entsprechende Belege am Ende jedes Kalenderjahres einzureichen, die namentlich beweisen, dass die Familie im gleichen Haushalt lebt.[^4-1]
-
-[^4-1]: Änderung vom 10.01.2013 Abl. Nr. 3/2013 1.01.2013
+<sup>2</sup> Sobald mindestens drei Kinder im gleichen Haushalt im Wallis leben, ihre Ansprüche auf Familienzulagen gemäss der Walliser Gesetzgebung aber nicht dem gleichen Bezüger zugeordnet sind, können bei der Familienzulagekasse, welche die Zulagen für das jüngste Kind auszahlt, Zusatzleistungen beantragt werden. Damit die Kassen in solchen Fällen entscheiden können, haben die Antragsteller entsprechende Belege am Ende jedes Kalenderjahres einzureichen, die namentlich beweisen, dass die Familie im gleichen Haushalt lebt.
 
 #### Art. 5
 
 **Anspruchskonkurrenz**
 
-Falls die Bundesbestimmungen es nicht ermöglichen, den erstanspruchsberechtigten Elternteil zu bestimmen, wählen die Eltern, wer die Anmeldung auf Familienzulagen einreicht.
+<sup>1</sup> Falls die Bundesbestimmungen es nicht ermöglichen, den erstanspruchsberechtigten Elternteil zu bestimmen, wählen die Eltern, wer die Anmeldung auf Familienzulagen einreicht.
 
-### 2. Kapitel: Familienzulageordnungen
+## 2 Familienzulageordnungen
 
-### 1. Abschnitt: Arbeitnehmer nichtlandwirtschaftlicher Berufe
+### 2.1 Arbeitnehmer nichtlandwirtschaftlicher Berufe
 
 #### Art. 6
 
@@ -122,7 +121,9 @@ Falls die Bundesbestimmungen es nicht ermöglichen, den erstanspruchsberechtigte
 
 #### Art. 11
 
-Anerkennung der beruflichen oder zwischenberuflichen Familienzulagekassen Jede im Kanton errichtete berufliche oder zwischenberufliche Kasse muss nur dann vom Staatsrat anerkannt werden, wenn sie die Rechtspersönlichkeit besitzt und die gesetzliche Form eines Vereins oder einer Genossenschaft nachweist.
+**Anerkennung der beruflichen oder zwischenberuflichen Familienzulagekassen**
+
+<sup>1</sup> Jede im Kanton errichtete berufliche oder zwischenberufliche Kasse muss nur dann vom Staatsrat anerkannt werden, wenn sie die Rechtspersönlichkeit besitzt und die gesetzliche Form eines Vereins oder einer Genossenschaft nachweist.
 
 #### Art. 12
 
@@ -162,7 +163,9 @@ Anerkennung der beruflichen oder zwischenberuflichen Familienzulagekassen Jede i
 
 #### Art. 16
 
-Bewilligung an die AHV-Kassen zur Führung von Familienzulagekassen Jede AHV-Ausgleichskasse kann für die Führung einer Familienzulagekasse im Kanton Wallis die Bewilligung beantragen, sofern sie die Verwaltung für die der AHV angeschlossenen Mitglieder übernimmt.
+**Bewilligung an die AHV-Kassen zur Führung von Familienzulagekassen**
+
+<sup>1</sup> Jede AHV-Ausgleichskasse kann für die Führung einer Familienzulagekasse im Kanton Wallis die Bewilligung beantragen, sofern sie die Verwaltung für die der AHV angeschlossenen Mitglieder übernimmt.
 
 #### Art. 17
 
@@ -192,7 +195,7 @@ Bewilligung an die AHV-Kassen zur Führung von Familienzulagekassen Jede AHV-Aus
 
 #### Art. 20
 
-<sup>1</sup> Organe der kantonalen Familienzulagekasse
+**Organe der kantonalen Familienzulagekasse**
 
 <sup>1</sup> Die Delegiertenversammlung setzt sich zusammen aus gleichviel Vertretern der Arbeitgeber und Arbeitnehmer gemäss der in den Statuten vorgesehenen Art der Verteilung.
 
@@ -218,15 +221,17 @@ Bewilligung an die AHV-Kassen zur Führung von Familienzulagekassen Jede AHV-Aus
 
 #### Art. 23
 
-<sup>3</sup> Kassenwechsel
+**Kassenwechsel**
 
-Die Kasse informiert die ehemalige Kasse und das kantonale Amt für Familienzulagen bis zum 31. August des laufenden Jahres über die Anfrage des Kassenwechsels für das nächste Jahr.
+<sup>1</sup> Die Kasse informiert die ehemalige Kasse und das kantonale Amt für Familienzulagen bis zum 31. August des laufenden Jahres über die Anfrage des Kassenwechsels für das nächste Jahr.
 
 #### Art. 24
 
 **Beiträge**
 
-Die Familienzulagekassen setzen einen einzigen Beitragssatz für alle im Kanton angeschlossenen Arbeitgeber fest.
+<sup>1</sup> Die Familienzulagekassen setzen einen einzigen Beitragssatz für alle im Kanton angeschlossenen Arbeitgeber fest.
+
+<sup>2</sup> Der Staatsrat legt den Beitragssatz der Arbeitnehmenden fest, indem er insbesondere die Entwicklung des mittleren Finanzierungssatzes der Zulagen für die Arbeitnehmer berücksichtigt, um eine gerechte Verteilung der Finanzierung der Familienzulagen zwischen Arbeitgebern und Arbeitnehmern sicherzustellen.
 
 #### Art. 25
 
@@ -256,21 +261,21 @@ Die Familienzulagekassen setzen einen einzigen Beitragssatz für alle im Kanton 
 
 <sup>3</sup> Das Revisionsorgan schickt eine Kopie seines Berichtes an das kantonale Amt für Familienzulagen.
 
-### 2. Abschnitt: Selbständigerwerbende
-
-nichtlandwirtschaftlicher Berufe
+### 2.2 Selbständigerwerbende nichtlandwirtschaftlicher Berufe
 
 #### Art. 28
 
-<sup>3</sup> Selbständigerwerbende nichtlandwirtschaftlicher Berufe
+**Selbständigerwerbende nichtlandwirtschaftlicher Berufe**
 
 <sup>1</sup> Die im Gesetz vorgesehenen Beitrittsbestimmungen sind analog anwendbar für die Selbständigen.
 
 <sup>2</sup> Die Modalitäten für die Arbeitnehmer, welche eine nicht landwirtschaftliche Tätigkeit ausüben, sind analog anwendbar für die Selbständigerwerbenden ausserhalb der Landwirtschaft.
 
+<sup>3</sup> …
+
 #### Art. 29
 
-<sup>3</sup> Beiträge - Zulagen
+**Beiträge - Zulagen**
 
 <sup>1</sup> Um die Beiträge der Selbständigerwerbenden festlegen zu können, bitten die anerkannten Kassen im Sinne des Artikels 23 Absatz 1 Buchstabe a AGFamZG, bei der zuständigen AHV-Ausgleichskasse, die definitive Verfügung der persönlichen AHV-Beiträge oder eine Liste mit den nötigen Informationen, insbesondere der AHV-Nummer und das AHV-beitragspflichtige Einkommen.
 
@@ -278,15 +283,15 @@ nichtlandwirtschaftlicher Berufe
 
 <sup>3</sup> Die im Artikel 4 Absatz 2 vorgesehene Zusatzleistung ab dem dritten Kind kann einmal pro Kalenderjahr bezahlt sein.
 
-### 3. Abschnitt: Landwirtschaftliche Arbeitnehmer
+### 2.3 Landwirtschaftliche Arbeitnehmer
 
 #### Art. 30
 
 **Verwaltungskosten**
 
-Der Kanton leistet vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
+<sup>1</sup> Der Kanton leistet vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
 
-### 4. Abschnitt: Selbständige Landwirte
+### 2.4 Selbständige Landwirte
 
 #### Art. 31
 
@@ -336,85 +341,106 @@ Der Kanton leistet vierteljährliche Vorauszahlungen, die für die Deckung der v
 
 **Verwandte, die im landwirtschaftlichen Betrieb arbeiten**
 
-Der Beitragssatz für die Verwandten, die im landwirtschaftlichen Betrieb arbeiten, wird auf 0.8 Prozent des beitragspflichtigen AHV-Lohnes festgesetzt.
+<sup>1</sup> Der Beitragssatz für die Familienmitglieder, die im landwirtschaftlichen Betrieb arbeiten, wird auf höchstens 0.8 Prozent des beitragspflichtigen AHV-Lohnes festgesetzt.
+
+<sup>2</sup> Der Staatsrat passt den Beitragssatz in Analogie zum Beitragssatz der selbständigen Landwirte an.
 
 #### Art. 37
 
 **Verfahren zur Erhebung der Beiträge**
 
-Die Bestimmungen der AHV-Bundesgesetzgebung über das Verfahren betreffend Mahnung, Veranlagung, Betreibung, Zahlungsaufschub, Bezug und Erlass nachzufordernder Beiträge, uneinbringliche Beiträge und Haftung der Erben sind sinngemäss anwendbar.
+<sup>1</sup> Die Bestimmungen der AHV-Bundesgesetzgebung über das Verfahren betreffend Mahnung, Veranlagung, Betreibung, Zahlungsaufschub, Bezug und Erlass nachzufordernder Beiträge, uneinbringliche Beiträge und Haftung der Erben sind sinngemäss anwendbar.
 
 #### Art. 38
 
 **Verrechnung**
 
-Laut der vorliegenden Gesetzgebung kann die Kasse die Familienzulagen selbständiger Landwirte mit den geschuldeten Beiträgen und den AHV-Beiträgen verrechnen.
+<sup>1</sup> Laut der vorliegenden Gesetzgebung kann die Kasse die Familienzulagen selbständiger Landwirte mit den geschuldeten Beiträgen und den AHV-Beiträgen verrechnen.
 
 #### Art. 39
 
 **Beziehung mit der Steuerverwaltung**
 
-Die Kasse kann von der kantonalen Steuerverwaltung unentgeltlich alle Auskünfte verlangen, welche für die Kontrolle der Kassenzugehörigkeit und die Veranlagung der selbständigen Landwirte erforderlich sind.
+<sup>1</sup> Die Kasse kann von der kantonalen Steuerverwaltung unentgeltlich alle Auskünfte verlangen, welche für die Kontrolle der Kassenzugehörigkeit und die Veranlagung der selbständigen Landwirte erforderlich sind.
 
 #### Art. 40
 
 **Verwaltungskosten**
 
-Die Familienzulagekasse für die selbständigen Landwirte leistet der Ausgleichskasse des Kantons Wallis vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
+<sup>1</sup> Die Familienzulagekasse für die selbständigen Landwirte leistet der Ausgleichskasse des Kantons Wallis vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
 
 #### Art. 41
 
 **Revisionsorgan**
 
-Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung der Familienzulagekasse für die selbständigen Landwirte. Es stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
+<sup>1</sup> Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung der Familienzulagekasse für die selbständigen Landwirte. Es stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
 
-### 5. Abschnitt: Nichterwerbstätige und Personen mit geringer Erwerbstätigkeit
+### 2.5 Nichterwerbstätige und Personen mit geringer Erwerbstätigkeit
 
 #### Art. 42
 
 **Personen mit geringer Erwerbstätigkeit**
 
-Personen, deren jährliches Erwerbseinkommen niedriger ist als der halbe jährliche Betrag der minimalen vollen Altersrente der AHV, haben Anspruch auf Zulagen mit denselben Bedingungen wie die Nichterwerbstätigen.
+<sup>1</sup> Personen, deren jährliches Erwerbseinkommen niedriger ist als der halbe jährliche Betrag der minimalen vollen Altersrente der AHV, haben Anspruch auf Zulagen mit denselben Bedingungen wie die Nichterwerbstätigen.
 
 #### Art. 43
 
 **Revisionsorgan**
 
-Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung der Familienzulagen an die nichterwerbstätigen Personen. Es stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
+<sup>1</sup> Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung der Familienzulagen an die nichterwerbstätigen Personen. Es stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
 
 #### Art. 44
 
 **Verwaltungskosten**
 
-Der Kanton leistet an die Ausgleichskasse des Kantons Wallis vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
+<sup>1</sup> Der Kanton leistet an die Ausgleichskasse des Kantons Wallis vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
 
-### 3. Kapitel: Kantonaler Familienfonds
+## 3 Kantonaler Familienfonds
 
 #### Art. 45
 
-**Bezügerkreis**
+**Bezüger der Haushaltungszulage**
 
-<sup>1</sup> Anspruch auf Leistungen des Fonds haben die im Kanton wohnhaften Alleinstehenden oder Ehepaare, die in der Schweiz ein oder mehrere Kinder bis zum erfüllten 20. Altersjahr in Obhut und Erziehung haben, sofern das massgebende Einkommen die durch den Staatsrat festgesetzten Einkommensgrenzen nicht übersteigt.
+<sup>1</sup> Anspruch auf die Haushaltungszulage haben die im Kanton wohnhaften Alleinstehenden oder Ehepaare, die in der Schweiz ein oder mehrere Kinder bis zum erfüllten 20. Altersjahr in Obhut und Erziehung haben, sofern das massgebende Einkommen die durch den Staatsrat festgesetzten Einkommensgrenzen nicht übersteigt.
 
 <sup>2</sup> Der Staatsrat bestimmt jährlich die Einkommensgrenzen zur Berechtigung der Haushaltungszulage. Er stützt sich dafür besonders auf:
 
 - a) die zur Verfügung stehenden finanziellen Mittel;
-
 - b) die familiären Verhältnisse der betreffenden Personen.
 
-[^45-1]: Änderung vom 23.05.2012 Abl. Nr. 23/2012 8.06.2012
+#### Art. 45a
 
-#### Art. 46 bis
+**Bezüger der einmaligen Hilfe für kranke oder verletzte Kinder**
 
-**48[^45-1]**
+<sup>1</sup> Anspruch auf die einmalige Hilfe haben die im Kanton wohnhaften Eltern, deren erforderliche Anwesenheit bei einem kranken oder verletzen Kind durch eine deutliche Lohnreduzierung oder zusätzliche Lasten finanzielle Schwierigkeiten für die Familie mit sich bringt.
 
-Aufgehoben
+<sup>2</sup> Der Anspruch auf Hilfe besteht lediglich dann, wenn die Pflege oder die Krankenhausbehandlung mindestens 30 Tage dauern und ein Kind bis zum vollendeten 18. Lebensjahr betrifft; Für Kinder in Ausbildung wird bis zum Abschluss der Ausbildung Hilfe gewährt, aber spätestens bis zum vollendeten 25. Lebensjahr.
+
+<sup>3</sup> Der Staatsrat bestimmt die Einkommensgrenze für den Anspruch auf Hilfe. Er stützt sich insbesondere auf den Medianlohn innerhalb des Kantons.
+
+#### Art. 45b
+
+**Bezüger der Geburts- oder Adoptionszulage für arbeitslose Personen**
+
+<sup>1</sup> Anspruch auf die Geburts- oder Adoptionszulage haben die im Kanton wohnhaften Eltern mit Bezugsberechtigung auf Arbeitslosengeld, von denen keine der Personen das Anrecht auf eine Geburts- oder Adoptionszulage für das Kind geltend machen kann.
+
+#### Art. 46
+
+**…**
+
+#### Art. 47
+
+**…**
+
+#### Art. 48
+
+**…**
 
 #### Art. 49
 
-**Anspruchsbedingungen**
+**Anspruchsbedingung für die Haushaltungszulage**
 
-<sup>1</sup> Die Bestimmungen im Zusammenhang mit dem massgebenden Einkommen, mit dem Vermögen und mit den Abzügen entsprechen denjenigen, die im Bereich der Prämienverbilligungen der obligatorischen Krankenversicherung anwendbar sind.[^49-1]
+<sup>1</sup> Die Bestimmungen im Zusammenhang mit dem massgebenden Einkommen, mit dem Vermögen und mit den Abzügen entsprechen denjenigen, die im Bereich der Prämienverbilligungen der obligatorischen Krankenversicherung anwendbar sind. Für die Konkubinatspartner werden die massgebenden Einkommen, das Vermögen und die Abzüge kumuliert.
 
 <sup>2</sup> Massgebend ist das familiäre Verhältnis am 31. Dezember des vorhergehenden Jahres, für welches die Haushaltungszulage geschuldet ist.
 
@@ -422,29 +448,48 @@ Aufgehoben
 
 <sup>4</sup> Der Anspruch auf die Haushaltungszulage besteht nur noch, wenn die Familie am 30. September im Wallis wohnhaft ist.
 
-[^49-1]: Änderung vom 23.05.2012 Abl. Nr. 23/2012 8.06.2012
+#### Art. 49a
+
+**Anspruchsbestimmung für die einmalige Hilfe für kranke oder verletzte Kinder**
+
+<sup>1</sup> Der Betrag der Hilfe kann zwischen 500 und 7'000 Franken variieren. Er entspricht dem tatsächlichen finanziellen Ungleichgewicht auf eine Dauer von drei Monaten.
+
+<sup>2</sup> Die in der Berechnung für die Hilfe berücksichtigen Kosten betreffen nicht direkt das kranke Kind. Es handelt sich insbesondere um:
+
+- a) Transportkosen;
+- b) Kosten für auswertige Mahlzeiten;
+- c) Unterkunftskosten;
+- d) Kosten für Haushalthilfe oder Kinderhütedienst.
+
+<sup>3</sup> Die Hilfe ist einmalig erneuerbar, wenn die Pflege oder die Krankenhausbehandlung eine Dauer von 3 Monaten übersteigt.
 
 #### Art. 50
 
 **Meldepflicht**
 
-Der Anspruchsberechtigte oder sein gesetzlicher Vertreter hat der Fondsverwaltung jede dauernde Änderung der persönlichen oder wirtschaftlichen Verhältnisse des Bezugsberechtigten mitzuteilen.
+<sup>1</sup> Der Anspruchsberechtigte oder sein gesetzlicher Vertreter hat der Fondsverwaltung jede dauernde Änderung der persönlichen oder wirtschaftlichen Verhältnisse des Bezugsberechtigten mitzuteilen.
 
 #### Art. 51
 
 **Beziehung zur Steuerverwaltung**
 
-Die Kasse kann von der kantonalen Steuerverwaltung unentgeltlich alle Auskünfte verlangen, welche für die Prüfung des Anspruchs auf die Haushaltungszulage notwendig sind.
+<sup>1</sup> Die Kasse kann von der kantonalen Steuerverwaltung unentgeltlich alle Auskünfte verlangen, welche für die Prüfung des Anspruchs auf die Haushaltungszulage notwendig sind.
 
 #### Art. 52
 
-**Durchführung**
+**Durchführung für die Haushaltungszulage**
 
 <sup>1</sup> Der Anspruch auf die Haushaltungszulage wird im Prinzip aufgrund der Steuerangaben automatisch ermittelt.
 
 <sup>2</sup> Der Anspruch der Alleinstehenden oder Ehepaare mit Kinderlasten, die ihren Subventionsausweis für die Prämienverbilligung der Krankenversicherung geltend gemacht haben, wird automatisch überprüft.
 
 <sup>3</sup> Die im Kanton wohnhaften Alleinstehenden oder Ehepaare mit Kinderlasten, die keine Steuerangaben haben, müssen ein Gesuch bis zum 30. September des Jahres, für welches die Leistungen geltend gemacht werden, bei der zuständigen Fondsverwaltung einreichen.
+
+#### Art. 52a
+
+**Durchführung für die einmalige Hilfe für kranke oder verletzte Kinder**
+
+<sup>1</sup> Die Familien müssen bei der Fondsverwaltung ein Gesuch hinterlegen.
 
 #### Art. 53
 
@@ -456,15 +501,15 @@ Die Kasse kann von der kantonalen Steuerverwaltung unentgeltlich alle Auskünfte
 
 #### Art. 54
 
-**Zahlung der Leistungen**
+**Zahlung der Haushaltungszulage**
 
-Sofern der Anspruch auf die Leistung festgesetzt werden konnte, wird die jährliche Haushaltungszulage im Dezember ausbezahlt. Sie wird nur auf ein Post- oder Bankkonto in der Schweiz überwiesen. Wenn die Angaben des Zahlungskontos fehlen, werden die daraus entstehenden Kosten von der Zulage abgezogen.
+<sup>1</sup> Sofern der Anspruch auf die Leistung festgesetzt werden konnte, wird die jährliche Haushaltungszulage im Dezember ausbezahlt. Sie wird nur auf ein Post- oder Bankkonto in der Schweiz überwiesen. Wenn die Angaben des Zahlungskontos fehlen, werden die daraus entstehenden Kosten von der Zulage abgezogen.
 
 #### Art. 55
 
-**Beiträge zur Finanzierung**
+**Beiträge zur Finanzierung und Kostenentschädigung**
 
-<sup>1</sup> Die Beiträge zur Finanzierung des Fonds werden aufgrund der Löhne und der Einkommen des vorangehenden Jahres berechnet.[^55-1]
+<sup>1</sup> Die Beiträge zur Finanzierung des Fonds werden aufgrund der Löhne und der Einkommen des vorangehenden Jahres berechnet.
 
 <sup>2</sup> Der Beitragssatz wird jedes Jahr durch den Staatsrat festgesetzt.
 
@@ -472,20 +517,19 @@ Sofern der Anspruch auf die Leistung festgesetzt werden konnte, wird die jährli
 
 <sup>4</sup> Für Kassen, die sich weigern den Beitrag zu bezahlen, finden die Bestimmungen der Artikel 18 und 20 des Gesetzes Anwendung.
 
-[^55-1]: Änderung vom 10.01.2013 Abl. Nr. 3/2013 1.01.2013
+<sup>5</sup> Die Kostenentschädigung der Familienausgleichskassen ist auf zwei Franken pro angeschlossenes Mitglied festgesetzt, jedoch mindestens auf 0.5 Prozent der für einkassierten Beträge für den Beitrag an den Fonds. Ein Mindestbetrag von 500 Franken ist garantiert, unabhängig der Anzahl Mitglieder.
+
+<sup>6</sup> Die Entschädigungen werden von der Jahresrechnung abgezogen.
 
 #### Art. 56
 
 **Aufgaben des Familienfonds**
 
-Der Familienfonds muss insbesondere:
+<sup>1</sup> Der Familienfonds muss insbesondere:
 
 - a) alle nötigen Arbeiten ausführen, die für die Festsetzung des Leistungsanspruchs sowie für die Zustellung der Mitteilungen und Verfügungen notwendig sind;
-
 - b) die Leistungen auszahlen und die Beiträge einkassieren;
-
 - c) die Buchhaltung führen und die Reserven des Fonds verwalten;
-
 - d) den jährlichen Verwaltungsbericht zuhanden des Aufsichtsrats und des Staatsrates erstellen.
 
 #### Art. 57
@@ -500,45 +544,43 @@ Der Familienfonds muss insbesondere:
 
 **Revisionsorgan**
 
-Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung des Familienfonds. Es stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
+<sup>1</sup> Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung des Familienfonds. Es stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
 
-### 4. Kapitel: Ausgleichsfonds
+## 4 Ausgleichsfonds
 
 #### Art. 59
 
 **Ziel des Ausgleichsfonds**
 
-Der Ausgleichsfonds ist bestimmt für die Zusprechung von Subventionen zugunsten der gemäss dem AGFamZG auszahlenden Familienzulagekassen, deren Finanzierungsstruktur ungünstig ist. Diese Subventionen werden durch Beiträge der Familienzulagekassen, deren Finanzierungsstruktur günstig ist, finanziert.
+<sup>1</sup> Der Ausgleichsfonds ist bestimmt für die Zusprechung von Subventionen zugunsten der gemäss dem AGFamZG auszahlenden Familienzulagekassen, deren Finanzierungsstruktur ungünstig ist. Diese Subventionen werden durch Beiträge der Familienzulagekassen, deren Finanzierungsstruktur günstig ist, finanziert.
 
 #### Art. 60
 
 **Betroffene Familienzulagekassen**
 
-Alle Familienzulagekassen, die im Kanton zugelassen sind, nehmen obligatorisch am Ausgleich teil.
+<sup>1</sup> Alle Familienzulagekassen, die im Kanton zugelassen sind, nehmen obligatorisch am Ausgleich teil.
 
 #### Art. 61
 
 **Notwendige Angaben**
 
-<sup>1</sup> Die Kassen müssen jährlich bis zum 31. Mai des folgenden Jahres die durch ihr Kontrollorgan bescheinigten Angaben vorlegen, welche für die Berechnung des Ausgleichs unbedingt notwendig sind, insbesondere:[^61-1] a) den Betrag der ausbezahlten Familienzulagen, strikt nach dem AGFamZG,
+<sup>1</sup> Die Kassen müssen jährlich bis zum 31. Mai des folgenden Jahres die durch ihr Kontrollorgan bescheinigten Angaben vorlegen, welche für die Berechnung des Ausgleichs unbedingt notwendig sind, insbesondere:
 
-- b) die Summe der AHV-beitragspflichtigen Löhne, beziehungsweise die Summe der AHV-beitragspflichtigen Erwerbseinkommen der Selbständigen,
-
+- a) den Betrag der ausbezahlten Familienzulagen, strikt nach dem AGFamZG;
+- b) die Summe der AHV-beitragspflichtigen Löhne, beziehungsweise die Summe der AHV-beitragspflichtigen Erwerbseinkommen der Selbständigen;
 - c) die bei den Arbeitgebern einkassierten Beiträge.
 
 <sup>2</sup> Der Ausgleichsfonds kann nötigenfalls Bescheinigungen einholen, welche die Richtigkeit der Angaben nachweisen, oder ergänzende Kontrollen auf Kosten der Kassen anfordern.
-
-[^61-1]: Änderung vom 10.01.2013 Abl. Nr. 3/2013 1.01.2013
 
 #### Art. 62
 
 **Ausgleichsprinzipien**
 
-<sup>1</sup> Der Finanzierungssatz jeder Kasse entspricht dem Betrag der während des Jahres aufgrund des Gesetzes ausbezahlten Familienzulagen, dividiert durch die Summe der AHV-beitragspflichtigen Löhne, beziehungsweise der AHV-beitragspflichtigen Erwerbseinkommen der Selbständigen.[^62-1]
+<sup>1</sup> Der Finanzierungssatz jeder Kasse entspricht dem Betrag der während des Jahres aufgrund des Gesetzes ausbezahlten Familienzulagen, dividiert durch die Summe der AHV-beitragspflichtigen Löhne, beziehungsweise der AHV-beitragspflichtigen Erwerbseinkommen der Selbständigen.
 
 <sup>2</sup> Der Beitrag für den Familienfonds ist nicht Bestandteil des Ausgleichs.
 
-<sup>3</sup> Der durchschnittliche Finanzierungssatz entspricht dem Gesamtbetrag der gesetzlich durch alle Kassen ausbezahlten Familienzulagen, dividiert durch den Gesamtbetrag der AHV-Löhne, beziehungsweise durch den Gesamtbetrag der AHV-Erwerbseinkommen, plus maximal 0.01 Prozent für Verwaltungskosten.[^62-1]
+<sup>3</sup> Der durchschnittliche Finanzierungssatz entspricht dem Gesamtbetrag der gesetzlich durch alle Kassen ausbezahlten Familienzulagen, dividiert durch den Gesamtbetrag der AHV-Löhne, beziehungsweise durch den Gesamtbetrag der AHV-Erwerbseinkommen, plus maximal 0.01 Prozent für Verwaltungskosten.
 
 <sup>4</sup> Wenn ihr Finanzierungssatz höher ist als der durchschnittliche Satz, hat die Kasse Anspruch auf Subventionen; andernfalls muss sie einen Beitrag in den Ausgleichsfonds einzahlen.
 
@@ -546,11 +588,15 @@ Alle Familienzulagekassen, die im Kanton zugelassen sind, nehmen obligatorisch a
 
 Beispiele:
 
-Finanzierungssatz der Kasse A: 4% Finanzierungssatz der Kasse B: 3.2% durchschnittlicher Finanzierungssatz: 3.5% =&gt; Subventionen für Kasse A: 80% x (4% - 3.5%) = 0.40% der AHV-Löhne der Kasse A;
+Finanzierungssatz der Kasse A: 4%
 
-=&gt; Beitrag der Kasse B: 80% x (3.5% -3.2%) = 0.24% der AHV-Löhne der Kasse B.
+Finanzierungssatz der Kasse B: 3.2%
 
-[^62-1]: Änderung vom 10.01.2013 Abl. Nr. 3/2013 1.01.2013
+durchschnittlicher Finanzierungssatz: 3.5%
+
+=&gt; Subventionen für Kasse A: 80% x (4% - 3.5%) = 0.40% der AHV-Löhne der Kasse A;
+
+=&gt; Beitrag der Kasse B: 80% x (3.5% - 3.2%) = 0.24% der AHV-Löhne der Kasse B.
 
 #### Art. 63
 
@@ -566,7 +612,7 @@ Finanzierungssatz der Kasse A: 4% Finanzierungssatz der Kasse B: 3.2% durchschni
 
 **Zahlungsverzug der Beiträge**
 
-<sup>1</sup> Die Kassen, die ihre Beiträge nicht innert den festgesetzten Fristen bezahlen, müssen zusätzlich zu den Mahnspesen Verzugszinsen entrichten. Der Satz des Verzugszinses wird um ½ Prozent höher berechnet als derjenige Satz, der von der Walliser Kantonalbank für das dem Ausgleichsfonds entsprechende Darlehen festgesetzt wurde.
+<sup>1</sup> Die Kassen, die ihre Beiträge nicht innert den festgesetzten Fristen bezahlen, müssen zusätzlich zu den Mahnspesen Verzugszinsen entrichten. Der Satz des Verzugszinses wird um 1/2 Prozent höher berechnet als derjenige Satz, der von der Walliser Kantonalbank für das dem Ausgleichsfonds entsprechende Darlehen festgesetzt wurde.
 
 <sup>2</sup> Im Falle von wiederholten Verspätungen oder von Nichtzahlung, sind die Bestimmungen des Artikels 18 und 20 des Gesetzes anwendbar.
 
@@ -574,24 +620,19 @@ Finanzierungssatz der Kasse A: 4% Finanzierungssatz der Kasse B: 3.2% durchschni
 
 **Beschwerde**
 
-Die Kasse, die mit der erstellten Abrechnung nicht einverstanden ist, kann innerhalb von 30 Tagen Einsprache erheben. Der Einspracheentscheid des Ausgleichsfonds kann Gegenstand einer Beschwerde beim Kantonsgericht sein.
+<sup>1</sup> Die Kasse, die mit der erstellten Abrechnung nicht einverstanden ist, kann innerhalb von 30 Tagen Einsprache erheben. Der Einspracheentscheid des Ausgleichsfonds kann Gegenstand einer Beschwerde beim Kantonsgericht sein.
 
 #### Art. 66
 
 **Aufgaben des Ausgleichsfonds**
 
-Der Ausgleichsfonds muss insbesondere:
+<sup>1</sup> Der Ausgleichsfonds muss insbesondere:
 
 - a) die Formulare für die Kassen erstellen, die Angaben einholen und kontrollieren;
-
 - b) die provisorischen Beträge, die dem Ausgleich unterliegen, berechnen;
-
 - c) die Abrechnungen aufgrund der definitiven Beträge des letzten bekannten Jahres erstellen;
-
 - d) die Beiträge einkassieren und die Subventionen wieder den Kassen überweisen;
-
 - e) die Buchhaltung führen und die Reserve des Fonds verwalten;
-
 - f) den jährlichen Verwaltungsbericht zuhanden des Aufsichtsrats und des Staatsrates erstellen.
 
 #### Art. 67
@@ -606,17 +647,17 @@ Der Ausgleichsfonds muss insbesondere:
 
 **Revisionsorgan**
 
-Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung des Ausgleichsfonds und stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
+<sup>1</sup> Das Revisionsorgan der Ausgleichskasse des Kantons Wallis kontrolliert die Verwaltung des Ausgleichsfonds und stellt den Kontrollbericht dem Aufsichtsrat und dem Staatsrat zu.
 
-### 5. Kapitel: Kantonales Amt für Familienzulagen
+## 5 Kantonales Amt für Familienzulagen
 
 #### Art. 69
 
 **Verwaltungskosten**
 
-Der Kanton leistet an die Ausgleichskasse des Kantons Wallis vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
+<sup>1</sup> Der Kanton leistet an die Ausgleichskasse des Kantons Wallis vierteljährliche Vorauszahlungen, die für die Deckung der vorgesehenen Ausgaben bestimmt sind. Die Schlussabrechnung erfolgt auf Ende des Rechnungsjahres aufgrund der von der Ausgleichskasse des Kantons Wallis erstellten Rechnung.
 
-### 6. Kapitel: Verschiedene Bestimmungen
+## 6 Verschiedene Bestimmungen
 
 #### Art. 70
 
@@ -634,19 +675,21 @@ Der Kanton leistet an die Ausgleichskasse des Kantons Wallis vierteljährliche V
 
 <sup>6</sup> Das Sekretariat des Aufsichtrates ist der Ausgleichskasse des Kantons Wallis anvertraut.
 
-### 7. Kapitel: Übergangs- und Schlussbestimmungen
+<sup>7</sup> Er entscheidet über die Einsprachen hinsichtlich der einmaligen Hilfe für kranke oder verletzte Kinder.
+
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 71
 
 **Neue Familienzulagekassen**
 
-Die neuen Familienzulagekassen die sich anerkennen lassen und die neuen von AHV-Kassen geführten Familienzulagekassen die sich anmelden, können nur neue Arbeitgeber oder dem alten Recht nicht unterstellte Selbständigerwerbende während zwei Jahren ab dem Inkrafttreten des AGFamZG anschliessen können.
+<sup>1</sup> Die neuen Familienzulagekassen die sich anerkennen lassen und die neuen von AHV-Kassen geführten Familienzulagekassen die sich anmelden, können nur neue Arbeitgeber oder dem alten Recht nicht unterstellte Selbständigerwerbende während zwei Jahren ab dem Inkrafttreten des AGFamZG anschliessen können.
 
 #### Art. 72
 
 **Übergangsbestimmungen**
 
-Die durch das neue Recht vorgesehenen Fristen sind ab dem 1. Januar 2009 anwendbar. Das alte Recht hat noch Gültigkeit für Situationen vor dem 1. Januar 2009.
+<sup>1</sup> Die durch das neue Recht vorgesehenen Fristen sind ab dem 1. Januar 2009 anwendbar. Das alte Recht hat noch Gültigkeit für Situationen vor dem 1. Januar 2009.
 
 #### Art. 73
 
@@ -656,16 +699,4 @@ Die durch das neue Recht vorgesehenen Fristen sind ab dem 1. Januar 2009 anwendb
 
 <sup>2</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht um am 1. Januar 2009 in Kraft zu treten.
 
-So beschlossen im Staatsrat zu Sitten, am 14. Januar 2009.
-
-Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Henri v. Roten
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.01.2009**
-
-GS/VS 2009, 170
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 23.06.2010 Abl. Nr. 27/2010 1.01.2011
+CSW BO/Abl. 5/2009
