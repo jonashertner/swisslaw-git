@@ -4,20 +4,20 @@ title: Legge federale del 19 giugno 1959 sull’assicurazione per l’invalidit�
 short: LAI
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20230101-it-xml-19.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’assicurazione per l’invalidità
 
-(LAI)**[^t-1]**
+(LAI)[^t-1]
 
-del 19 giugno 1959 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 19 giugno 1959 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
@@ -33,7 +33,7 @@ decreta:
 
 ## Parte 1: L’assicurazione
 
-### Capitolo**** 1:**** Applicabilità della LPGA
+### Capitolo 1: Applicabilità della LPGA
 
 [^part1-chap1-1][^part1-chap1-2]
 
@@ -49,7 +49,7 @@ decreta:
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^1-2]: Nuovo testo giusta il n. 1 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### Capitolo 1*a*:**** Scopo
+### Capitolo 1*a*: Scopo
 
 [^part1-chap1a-1]
 
@@ -63,7 +63,7 @@ Le prestazioni della presente legge si prefiggono di:
 - b. compensare le conseguenze economiche permanenti dell’invalidità mediante un’adeguata copertura del fabbisogno vitale;
 - c. aiutare gli assicurati interessati a condurre una vita autonoma e responsabile.
 
-### Capitolo 1*b*:**** Persone assicurate
+### Capitolo 1*b*: Persone assicurate
 
 [^part1-chap1b-1]
 
@@ -95,28 +95,28 @@ Sono tenuti a pagare i contributi gli assicurati e i datori di lavoro indicati n
 
 <sup>1</sup> La LAVS[^3-2] è applicabile, per analogia, al calcolo dei contributi dell’assicurazione per l’invalidità. Il contributo sul reddito di un’attività lucrativa è dell’1,4 per cento. I contributi delle persone assicurate obbligatoriamente, calcolati secondo la tavola scalare, sono graduati nello stesso modo dei contributi dell’assicurazione vecchiaia e superstiti. In tale ambito, è mantenuto il rapporto tra la percentuale summenzionata e il tasso non ridotto di contribuzione secondo l’articolo 8 capoverso 1 della LAVS. L’articolo 9<sup>bis</sup> della LAVS è applicabile per analogia.[^3-3]
 
-<sup>1bis</sup> Le persone senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 66 franchi[^3-4] all’anno se sono assicurate obbligatoriamente e di 132 franchi[^3-5] all’anno se sono assicurate facoltativamente in virtù dell’articolo 2 LAVS. Il contributo massimo corrisponde a 50 volte il contributo minimo dell’assicurazione obbligatoria.[^3-6]
+<sup>1bis</sup> Le persone senza attività lucrativa pagano un contributo secondo le loro condizioni sociali. Il contributo minimo è di 68 franchi[^3-4] all’anno se sono assicurate obbligatoriamente e di 136 franchi[^3-5] all’anno se sono assicurate facoltativamente in virtù dell’articolo 2 LAVS. Il contributo massimo corrisponde a 50 volte il contributo minimo dell’assicurazione obbligatoria.[^3-6]
 
 <sup>2</sup> I contributi sono riscossi come supplemento ai contributi dell’AVS. Gli articoli 11 e 14–16 LAVS[^3-7] sono applicabili per analogia con le rispettive deroghe alla LPGA[^3-8].[^3-9]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 1° gen. 1968 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29)42; [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)).
 [^3-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: Nuovo testo giusta l’all. n. 1 della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Importo giusta l’art. 6 dell’O 21 del 14 ott. 2020 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2021 ([RU 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^3-5]: Importo giusta l’art. 6 dell’O 21 del 14 ott. 2020 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2021 ([RU 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^3-4]: Importo giusta l’art. 6 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^3-5]: Importo giusta l’art. 6 dell’O 23 del 12 ott. 2022 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG, in vigore dal 1° gen. 2023 ([RU 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^3-6]: Introdotto dall’all. n. 1 della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta l’all. n. 2 della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-8]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^3-9]: Nuovo testo giusta l’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### Capitolo 2*a*:**** Provvedimenti iniziali****
+### Capitolo 2*a*: Provvedimenti iniziali
 
 [^part1-chap2a-1][^part1-chap2a-2]
 
 [^part1-chap2a-1]: Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^part1-chap2a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
-### A. Consulenza finalizzata all’integrazione****
+### A. Consulenza finalizzata all’integrazione
 
 [^part1-chap2a-lvlA-1]
 
@@ -131,7 +131,7 @@ Se l’integrazione professionale dell’assicurato o il mantenimento del suo po
 [^3a-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^3a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### B. Rilevamento tempestivo****
+### B. Rilevamento tempestivo
 
 [^part1-chap2a-lvlB-1]
 
@@ -211,16 +211,17 @@ Sono legittimati a effettuare tale comunicazione:
 
 <sup>3</sup> L’ufficio AI invita l’assicurato ad autorizzare, in generale, il suo datore di lavoro, i fornitori di prestazioni secondo gli articoli 36–40 LAMal[^3c-2], le assicurazioni, nonché i servizi ufficiali a fornire tutte le informazioni e i documenti necessari per l’accertamento effettuato nell’ambito del rilevamento tempestivo.
 
-<sup>4</sup> Se l’assicurato non dà questa autorizzazione, un medico del servizio medico regionale (art. 59 cpv. 2) può chiedere ai medici curanti dell’assicurato di fornirgli le informazioni necessarie. Questi sono svincolati dall’obbligo del segreto. Il medico valuta se sono indicati provvedimenti di intervento tempestivo ai sensi dell’articolo 7*d* e ne informa l’ufficio AI, senza trasmettere informazioni di natura medica e documenti.
+<sup>4</sup> Se l’assicurato non dà questa autorizzazione, un medico del servizio medico regionale (art. 54*a*[^3c-3]) può chiedere ai medici curanti dell’assicurato di fornirgli le informazioni necessarie. Questi sono svincolati dall’obbligo del segreto. Il medico valuta se sono indicati provvedimenti di intervento tempestivo ai sensi dell’articolo 7*d* e ne informa l’ufficio AI, senza trasmettere informazioni di natura medica e documenti.
 
-<sup>5</sup> L’ufficio AI informa l’assicurato o il suo rappresentante legale, l’assicuratore di indennità giornaliera in caso di malattia, l’assicuratore malattie, l’istituto d’assicurazione privato secondo l’articolo 3*b* capoverso 2 lettera f o l’assicuratore infortuni, nonché il datore di lavoro nel caso in cui quest’ultimo abbia comunicato il caso per il rilevamento tempestivo, se sono indicati provvedimenti d’intervento tempestivo ai sensi dell’articolo 7*d*; non trasmette informazioni o documenti di natura medica.[^3c-3]
+<sup>5</sup> L’ufficio AI informa l’assicurato o il suo rappresentante legale, l’assicuratore di indennità giornaliera in caso di malattia, l’assicuratore malattie, l’istituto d’assicurazione privato secondo l’articolo 3*b* capoverso 2 lettera f o l’assicuratore infortuni, nonché il datore di lavoro nel caso in cui quest’ultimo abbia comunicato il caso per il rilevamento tempestivo, se sono indicati provvedimenti d’intervento tempestivo ai sensi dell’articolo 7*d*; non trasmette informazioni o documenti di natura medica.[^3c-4]
 
-<sup>6</sup> Se necessario, ingiunge all’assicurato di annunciarsi all’assicurazione per l’invalidità (art. 29 LPGA[^3c-4]). Lo informa del fatto che le prestazioni possono essere ridotte o rifiutate se non si annuncia senza indugio.
+<sup>6</sup> Se necessario, ingiunge all’assicurato di annunciarsi all’assicurazione per l’invalidità (art. 29 LPGA[^3c-5]). Lo informa del fatto che le prestazioni possono essere ridotte o rifiutate se non si annuncia senza indugio.
 
 [^3c-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^3c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^3c-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^3c-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3c-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022*.*
+[^3c-4]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^3c-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 ### Capitolo 3: Le prestazioni
 
@@ -345,7 +346,7 @@ Il datore di lavoro collabora attivamente con l’ufficio AI. Coopera nella rice
 
 [^7c-1]: Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-### B.**** Provvedimenti d’intervento tempestivo
+### B. Provvedimenti d’intervento tempestivo
 
 [^part1-chap3-lvlB-1]
 
@@ -381,7 +382,7 @@ Gli uffici AI possono ordinare i seguenti provvedimenti:
 [^7d-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^7d-3]: Introdotta dal n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
-### C. Provvedimenti d’integrazione e indennità giornaliere****
+### C. Provvedimenti d’integrazione e indennità giornaliere
 
 [^part1-chap3-lvlC-1]
 
@@ -673,7 +674,7 @@ Può disciplinare il rimborso delle spese per medicamenti:
 [^14ter-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^14ter-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-### II<sup>bis</sup>.**** Consulenza e accompagnamento
+### II<sup>bis</sup>. Consulenza e accompagnamento
 
 [^part1-chap3-lvlC-lvlIIbis-1]
 
@@ -696,7 +697,7 @@ L’assicurato e il suo datore di lavoro hanno diritto alla consulenza e all’a
 
 <sup>5</sup> Il Consiglio federale può stabilire gli importi massimi a disposizione degli uffici AI per la consulenza e l’accompagnamento.
 
-### II<sup>ter</sup>.**** I provvedimenti di reinserimento per preparare all’integrazione professionale
+### II<sup>ter</sup>. I provvedimenti di reinserimento per preparare all’integrazione professionale
 
 [^part1-chap3-lvlC-lvlIIter-1]
 
@@ -876,7 +877,7 @@ Un aiuto in capitale può essere accordato agli assicurati invalidi idonei all�
 
 [^18d-1]: Originario art. 18*b*. Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-### IV. ...****
+### IV. ...
 
 [^part1-chap3-lvlC-lvlIV-1]
 
@@ -1199,7 +1200,19 @@ Sulle indennità giornaliere sono pagati contributi:
 
 <sup>7</sup> Se i fornitori di prestazioni e l’UFAS non si accordano sulla proroga di una convenzione tariffaria esistente, il DFI può prorogarla per un anno. Se entro tale termine non è stipulata una nuova convenzione, il DFI stabilisce le tariffe dopo aver consultato gli interessati.
 
+<sup>8</sup> Su richiesta, i fornitori di prestazioni, le loro federazioni e l’organizzazione di cui all’articolo 47*a* LAMal[^27-2] comunicano gratuitamente al Consiglio federale i dati necessari per adempiere i compiti di cui ai capoversi 3–5. Il Consiglio federale emana disposizioni dettagliate sul trattamento dei dati, nel rispetto del principio di proporzionalità.[^27-3]
+
+<sup>9</sup>
+
+In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 8, il Dipartimento federale dell’interno può prendere sanzioni contro i fornitori di prestazioni interessati, nonché contro le rispettive federazioni e l’organizzazione di cui all’articolo 47*a* LAMal. Le sanzioni consistono:
+
+- a. nell’ammonizione;
+- b. nella multa sino a 20 000 franchi.[^27-4]
+
 [^27-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^27-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27-3]: Introdotto dall’all. n. 3 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^27-4]: Introdotto dall’all. n. 3 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 27<sup>bis</sup>
 
@@ -1256,7 +1269,7 @@ I fornitori di prestazioni devono attenersi alle tariffe e ai prezzi stabiliti d
 
 [^27quinquies-1]: Originario art. 27<sup>bis</sup>. Introdotto dal n. 1 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### D.**** Le rendite
+### D. Le rendite
 
 [^part1-chap3-lvlD-1]
 
@@ -1534,7 +1547,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 
 [^41-1]: Abrogato dall’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### E. L’assegno per grandi invalidi****
+### E. L’assegno per grandi invalidi
 
 [^part1-chap3-lvlE-1]
 
@@ -1596,7 +1609,7 @@ Il primo giorno del mese successivo a quello in cui l’ufficio AI pronuncia la 
 [^42ter-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^42ter-4]: Nuovo testo del per. giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5987](https://fedlex.data.admin.ch/eli/oc/2017/654); [FF 2016 6459](https://fedlex.data.admin.ch/eli/fga/2016/1538)[7323](https://fedlex.data.admin.ch/eli/fga/2016/1879)).
 
-### E<sup>bis</sup>.**** Il contributo per l’assistenza
+### E<sup>bis</sup>. Il contributo per l’assistenza
 
 [^part1-chap3-lvlEbis-1]
 
@@ -1681,7 +1694,7 @@ Il diritto si estingue nel momento in cui l’assicurato:
 
 Il contributo per l’assistenza può essere ridotto o rifiutato all’assicurato che non adempie i propri obblighi legali nei confronti dell’assistente o dell’assicurazione. Prima di ridurre o rifiutare il contributo, l’assicurazione deve inviare all’assicurato una diffida scritta e avvertirlo delle conseguenze giuridiche.
 
-### F.**** Il concorso di prestazioni
+### F. Il concorso di prestazioni
 
 [^part1-chap3-lvlF-1]
 
@@ -1723,7 +1736,7 @@ Il Consiglio federale stabilisce se e in quale misura gli assicurati aventi diri
 
 [^45bis-1]: Introdotto dal n. I della LF del 5 ott. 1967 ([RU 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [FF 1967 I 513](https://fedlex.data.admin.ch/eli/fga/1967/1_864_894_513)). Abrogato dall’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### G.**** Disposizioni diverse
+### G. Disposizioni diverse
 
 [^part1-chap3-lvlG-1]
 
@@ -1846,7 +1859,7 @@ Il Consiglio federale può delegare all’UFAS compiti d’esecuzione nei settor
 [^53-4]: Introdotta dal n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure) ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Abrogata dal n. I della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), con effetto dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^53-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
-### A. Gli uffici AI****
+### A. Gli uffici AI
 
 [^part1-chap4-lvlA-1]
 
@@ -2010,7 +2023,7 @@ La gestione contabile degli uffici AI è verificata, nell’ambito della revisio
 [^59b-1]: Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^59b-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### B.**** Le casse di compensazione
+### B. Le casse di compensazione
 
 [^part1-chap4-lvlB-1]
 
@@ -2056,7 +2069,7 @@ Il Consiglio federale disciplina la collaborazione tra gli uffici AI e gli organ
 
 [^6263-1]: Abrogati dal n. I della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), con effetto dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### C.**** La vigilanza della Confederazione
+### C. La vigilanza della Confederazione
 
 [^part1-chap4-lvlC-1]
 
@@ -2081,13 +2094,15 @@ Il Consiglio federale disciplina la collaborazione tra gli uffici AI e gli organ
 
 L’UFAS esercita la vigilanza materiale sugli uffici AI e sui servizi medici regionali. Esso adempie in particolare i seguenti compiti:
 
-- a. controllare ogni anno l’adempimento da parte degli uffici AI dei compiti di cui all’articolo 57 e l’adempimento da parte dei servizi medici regionali dei compiti secondo l’articolo 59 capoverso 2<sup>bis</sup>;
+- a. controllare ogni anno l’adempimento da parte degli uffici AI dei compiti di cui all’articolo 57 e l’adempimento da parte dei servizi medici regionali dei compiti secondo l’articolo 54*a*[^64a-2];
 - b. impartire agli uffici AI istruzioni generali e istruzioni riguardanti singoli casi;
 - c. impartire ai servizi medici regionali istruzioni generali in materia sanitaria.
 
-<sup>2</sup> L’UFAS esercita la vigilanza amministrativa sugli uffici AI, inclusi i servizi medici regionali. Stabilisce in particolare criteri per garantire l’efficacia, la qualità e l’uniformità dell’adempimento dei compiti di cui agli articoli 57 e 59 capoverso 2<sup>bis</sup> e controlla il rispetto di questi criteri.
+<sup>2</sup> L’UFAS esercita la vigilanza amministrativa sugli uffici AI, inclusi i servizi medici regionali. Stabilisce in particolare criteri per garantire l’efficacia, la qualità e l’uniformità dell’adempimento dei compiti di cui agli articoli 57 e 54*a*[^64a-3] e controlla il rispetto di questi criteri.
 
 [^64a-1]: Introdotto dal n. I della LF del 6 ott. 2006 (<sup>¶</sup>5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^64a-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022*.*
+[^64a-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2022*.*
 
 #### Art. 65
 
@@ -2098,7 +2113,7 @@ La Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l�
 [^65-1]: Nuovo testo giusta il n. I della LF del 9 ott. 1986, in vigore dal 1° gen. 1988 ([RU 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [FF 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
 [^65-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### D. Disposizioni varie****
+### D. Disposizioni varie
 
 [^part1-chap4-lvlD-1]
 
@@ -2462,7 +2477,7 @@ Il Consiglio federale stabilisce i limiti massimi dei sussidi previsti dall’ar
 
 ## Parte 3: Il finanziamento
 
-### Capitolo 1: Cespiti****
+### Capitolo 1: Cespiti
 
 [^part3-chap1-1]
 
@@ -2517,7 +2532,7 @@ I mezzi finanziari occorrenti per le prestazioni a norma della presente legge so
 
 [^78bis-1]: Introdotto dal n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)). Abrogato dal n. II 25 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### Capitolo 2: Fondo di compensazione dell’assicurazione invalidità****
+### Capitolo 2: Fondo di compensazione dell’assicurazione invalidità
 
 [^part3-chap2-1]
 
@@ -2543,7 +2558,7 @@ L’amministrazione del Fondo di compensazione AI è retta dalla legge del 16 gi
 [^79a-1]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 sul risanamento dell’assicurazione invalidità ([RU 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)). Nuovo testo giusta l’all. n. II 5 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^79a-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
-### Capitolo 3: Vigilanza sull’equilibrio finanziario****
+### Capitolo 3: Vigilanza sull’equilibrio finanziario
 
 [^part3-chap3-1]
 
@@ -2559,7 +2574,7 @@ Le disposizioni della LAVS[^80-3] concernenti la vigilanza sull’equilibrio fin
 [^80-2]: Abrogata dall’all. n. 1 della LF del 13 giu. 2008 sul risanamento dell’assicurazione invalidità, con effetto dal 1° gen. 2011 ([RU 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^80-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-## Parte 4:**** Relazione con il diritto europeo
+## Parte 4: Relazione con il diritto europeo
 
 [^part4-1]
 
@@ -2599,7 +2614,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^80a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^80a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Parte 5:**** Disposizioni finali e transitorie
+## Parte 5: Disposizioni finali e transitorie
 
 [^part5-1]
 
@@ -2657,7 +2672,7 @@ Art. 27 cpv. 1 e 2, 53 a 59, 60 cpv. 2, 62, 64, 66,67 cpv. 1, 81, 84: 15 ottobre
 [^86-1]: Per. introdotto dal n. 1 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^86-2]: DCF del 28 set. 1959
 
-## Disposizioni finali della modifica del 24 giugno 1977**** (9<sup>a</sup> revisione dell’AVS)
+## Disposizioni finali della modifica del 24 giugno 1977 (9<sup>a</sup> revisione dell’AVS)
 
 [^u1-1]
 
@@ -2665,7 +2680,7 @@ Art. 27 cpv. 1 e 2, 53 a 59, 60 cpv. 2, 62, 64, 66,67 cpv. 1, 81, 84: 15 ottobre
 
 ### a. ...
 
-### b.****...
+### b....
 
 [^u1-lvlb-1]
 
@@ -2673,7 +2688,7 @@ Art. 27 cpv. 1 e 2, 53 a 59, 60 cpv. 2, 62, 64, 66,67 cpv. 1, 81, 84: 15 ottobre
 
 ### c. ...
 
-### d.**** ...
+### d. ...
 
 [^u1-lvld-1]
 
@@ -2686,13 +2701,13 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 [^u1-lvle-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^u1-lvle-2]: Nuovo testo giusta l’all. n. 8 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### f.****...
+### f....
 
 [^u1-lvlf-1]
 
 [^u1-lvlf-1]: Abrogata dal n. II 40 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Disposizioni finali della modifica del 9 ottobre 1986**** (2<sup>a</sup> revisione dell’AI)
+## Disposizioni finali della modifica del 9 ottobre 1986 (2<sup>a</sup> revisione dell’AI)
 
 [^u2-1]
 
@@ -2706,7 +2721,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 [^u2-2]: Abrogato dal n. II 40 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Disposizioni finali della modifica del 22 marzo 1991**** (3<sup>a</sup> revisione dell’AI)
+## Disposizioni finali della modifica del 22 marzo 1991 (3<sup>a</sup> revisione dell’AI)
 
 [^u3-1]
 
@@ -2716,7 +2731,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 <sup>2</sup> I decreti cantonali e gli accordi intercantonali relativi alla riorganizzazione vanno sottoposti per approvazione alla Confederazione, al più tardi entro due anni dall’entrata in vigore della presente legge.
 
-## Disposizioni finali della modifica del 7 ottobre 1994**** (10<sup>a</sup> revisione dell’AVS)
+## Disposizioni finali della modifica del 7 ottobre 1994 (10<sup>a</sup> revisione dell’AVS)
 
 [^u4-1]
 
@@ -2732,7 +2747,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 [^u4-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-## Disposizioni finali della modifica del 23 giugno 2000****
+## Disposizioni finali della modifica del 23 giugno 2000
 
 [^u5-1]
 
@@ -2751,7 +2766,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 [^u5-2]: In vigore dal 1° apr. 2000.
 [^u5-3]: In vigore dal 1° apr. 2000.
 
-## Disposizioni finali della modifica del 14 dicembre 2001 ****
+## Disposizioni finali della modifica del 14 dicembre 2001
 
 [^u6-1]
 
@@ -2763,7 +2778,7 @@ L’articolo 11 LAI e gli articoli 72–75 LPGA[^u1-lvle-1] si applicano ai casi
 
 [^u6-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Disposizioni finali della modifica del 21 marzo 2003**** (4<sup>a</sup> revisione dell’AI)
+## Disposizioni finali della modifica del 21 marzo 2003 (4<sup>a</sup> revisione dell’AI)
 
 [^u7-1]
 
@@ -2812,7 +2827,7 @@ Le nuove disposizioni sono applicabili anche alle indennità giornaliere per i p
 
 [^u7-lvld-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### e. ...****
+### e. ...
 
 [^u7-lvle-1]
 
@@ -2822,7 +2837,7 @@ Le nuove disposizioni sono applicabili anche alle indennità giornaliere per i p
 
 Le rendite intere correnti versate per un grado d’invalidità del 66<sup>2</sup>/<sub>3</sub> per cento almeno continuano ad essere assegnate anche dopo l’entrata in vigore della 4<sup>a</sup> revisione dell’AI a tutti i beneficiari che in quel momento hanno già compiuto 50 anni. Tutte le altre rendite intere per un grado di invalidità inferiore al 70 per cento devono essere rivedute entro un anno dall’entrata in vigore della 4<sup>a</sup> revisione dell’AI.
 
-## Disposizioni finali della modifica del 16 dicembre 2005 (misure per la semplificazione della procedura)****
+## Disposizioni finali della modifica del 16 dicembre 2005 (misure per la semplificazione della procedura)
 
 [^u8-1]
 
@@ -2834,7 +2849,7 @@ Il diritto previgente si applica:
 - b. alle opposizioni pendenti presso l’Ufficio AI al momento dell’entrata in vigore della modifica del 16 dicembre 2005;
 - c. ai ricorsi pendenti presso il tribunale cantonale o federale delle assicurazioni o la Commissione federale di ricorso in materia di AVS e AI al momento dell’entrata in vigore della modifica del 16 dicembre 2005.
 
-## Disposizione transitoria della modifica del 6 ottobre 2006 (5<sup>a</sup> revisione dell’AI)****
+## Disposizione transitoria della modifica del 6 ottobre 2006 (5<sup>a</sup> revisione dell’AI)
 
 [^u9-1]
 
@@ -2844,7 +2859,7 @@ Il diritto previgente si applica:
 
 Le indennità giornaliere versate secondo il diritto anteriore per i provvedimenti d’integrazione accordati secondo il diritto anteriore continueranno a essere versate sino alla conclusione di tali provvedimenti. Se altri provvedimenti d’integrazione sono accordati immediatamente dopo la conclusione dei provvedimenti d’integrazione accordati secondo il diritto anteriore, le indennità giornaliere versate secondo il diritto anteriore continueranno a essere versate sino alla conclusione di questi provvedimenti supplementari.
 
-## Disposizione transitoria relativa alla modifica del 6 ottobre 2006****
+## Disposizione transitoria relativa alla modifica del 6 ottobre 2006
 
 [^u10-1]
 
@@ -2868,7 +2883,7 @@ Le indennità giornaliere versate secondo il diritto anteriore per i provvedimen
 [^u10-4]: Introdotto dal n. I 5 della LF del 22 giu. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 607](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 [^u10-5]: Nuovo testo giusta il n. I 5 della LF del 22 giu. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 607](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 
-## Disposizioni finali della modifica del 18 marzo 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure)****
+## Disposizioni finali della modifica del 18 marzo 2011 (6<sup>a</sup> revisione AI, primo pacchetto di misure)
 
 [^u11-1]
 
@@ -2897,7 +2912,7 @@ Le indennità giornaliere versate secondo il diritto anteriore per i provvedimen
 
 [^u11-lvlb-1]: [[RU 2005 3529](https://fedlex.data.admin.ch/eli/oc/2005/506), [2008 129](https://fedlex.data.admin.ch/eli/oc/2008/50), [2009 3171](https://fedlex.data.admin.ch/eli/oc/2009/400)]
 
-## Disposizioni transitorie della modifica del 19 giugno 2020 (Ulteriore sviluppo dell’AI)****
+## Disposizioni transitorie della modifica del 19 giugno 2020 (Ulteriore sviluppo dell’AI)
 
 [^u12-1]
 
@@ -2921,7 +2936,7 @@ Le indennità giornaliere che all’entrata in vigore della presente modifica so
 
 Ai beneficiari di rendita il cui diritto alla rendita è nato prima dell’entrata in vigore della presente modifica e che all’entrata in vigore della presente modifica hanno 55 anni compiuti continua ad applicarsi il diritto anteriore.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 ## Ripartizione delle prestazioni dei Cantoni
 

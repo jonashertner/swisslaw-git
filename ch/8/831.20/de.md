@@ -4,20 +4,20 @@ title: Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung (IVG)
 short: IVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/827_857_845"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1959-06-19
 in_force: 1959-10-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/827_857_845/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1959-827_857_845-20230101-de-xml-19.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/827_857_845/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Invalidenversicherung
 
-(IVG)**[^t-1]**
+(IVG)[^t-1]
 
-vom 19. Juni 1959 (Stand am 1. Januar 2022)
+vom 19. Juni 1959 (Stand am 1. Januar 2023)
 
 [^t-1]: Abkürzung beigefügt gemäss Ziff. II 1 des BG vom 24. Juni 1977 (9. AHV-Revision), in Kraft seit 1. Jan. 1979 ([AS 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [BBl 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
@@ -31,15 +31,15 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^ingress-3]: [BBl 1958 II 1137](https://fedlex.data.admin.ch/eli/fga/1958/2_1137_1161_975)
 
-## 1.**** Teil: Die Versicherung
+## 1. Teil: Die Versicherung
 
 [^part1-1]
 
 [^part1-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-### 1. Kapitel****:**** Anwendbarkeit des ATSG
+### 1. Kapitel[^part1-chap1-1]: Anwendbarkeit des ATSG
 
-[^part1-chap1-1][^part1-chap1-2]
+[^part1-chap1-2]
 
 [^part1-chap1-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^part1-chap1-2]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -53,7 +53,7 @@ beschliesst:
 [^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^1-2]: Fassung gemäss Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### 1*a*. Kapitel:**** Zweck
+### 1*a*. Kapitel: Zweck
 
 [^part1-chap1a-1]
 
@@ -67,7 +67,7 @@ Die Leistungen dieses Gesetzes sollen:
 - b. die verbleibenden ökonomischen Folgen der Invalidität im Rahmen einer angemessenen Deckung des Existenzbedarfs ausgleichen;
 - c. zu einer eigenverantwortlichen und selbstbestimmten Lebensführung der betroffenen Versicherten beitragen.
 
-### 1*b*. Kapitel:**** Die versicherten Personen
+### 1*b*. Kapitel: Die versicherten Personen
 
 [^part1-chap1b-1]
 
@@ -96,28 +96,28 @@ Beitragspflichtig sind die in den Artikeln 3 und 12 AHVG[^2-2] genannten Versich
 
 <sup>1</sup> Für die Beitragsbemessung gilt sinngemäss das AHVG[^3-2]. Die Beiträge vom Einkommen aus einer Erwerbstätigkeit betragen 1,4 Prozent. Die Beiträge der obligatorisch versicherten Personen, die in Anwendung der sinkenden Beitragsskala berechnet werden, werden in gleicher Weise abgestuft wie die Beiträge der Alters- und Hinterlassenenversicherung. Dabei wird das Verhältnis gewahrt zwischen dem vorstehend erwähnten Prozentsatz und dem unverminderten Beitragssatz nach Artikel 8 Absatz 1 AHVG. Dessen Artikel 9<sup>bis</sup> gilt sinngemäss.[^3-3]
 
-<sup>1bis</sup> Die Nichterwerbstätigen entrichten einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt pro Jahr 66 Franken[^3-4], wenn sie obligatorisch, und 132 Franken[^3-5], wenn sie freiwillig nach Artikel 2 AHVG versichert sind. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag der obligatorischen Versicherung.[^3-6]
+<sup>1bis</sup> Die Nichterwerbstätigen entrichten einen Beitrag nach ihren sozialen Verhältnissen. Der Mindestbeitrag beträgt pro Jahr 68 Franken[^3-4], wenn sie obligatorisch, und 136 Franken[^3-5], wenn sie freiwillig nach Artikel 2 AHVG versichert sind. Der Höchstbeitrag entspricht dem 50-fachen Mindestbeitrag der obligatorischen Versicherung.[^3-6]
 
 <sup>2</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG[^3-7] sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^3-8].[^3-9]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1967, in Kraft seit 1. Jan. 1968 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)).
 [^3-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^3-4]: Beitrag gemäss Art. 6 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
-[^3-5]: Beitrag gemäss Art. 6 der V 21 vom 14. Okt. 2020 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2021 ([AS 2020 4609](https://fedlex.data.admin.ch/eli/oc/2020/819)).
+[^3-4]: Beitrag gemäss Art. 6 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
+[^3-5]: Beitrag gemäss Art. 6 der V 23 vom 12. Okt. 2022 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO, in Kraft seit 1. Jan. 2023 ([AS 2022 604](https://fedlex.data.admin.ch/eli/oc/2022/604)).
 [^3-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 23. Juni 2000 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Fassung gemäss Anhang Ziff. 2 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^3-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^3-8]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^3-9]: Fassung gemäss Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### 2*a*. Kapitel:**** Erstmassnahmen****
+### 2*a*. Kapitel: Erstmassnahmen
 
 [^part1-chap2a-1][^part1-chap2a-2]
 
 [^part1-chap2a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision) ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^part1-chap2a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
-### A. Eingliederungsorientierte Beratung****
+### A. Eingliederungsorientierte Beratung
 
 [^part1-chap2a-lvlA-1]
 
@@ -132,7 +132,7 @@ Ist die berufliche Eingliederung einer versicherten Person aus gesundheitlichen 
 [^3a-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^3a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### B. Früherfassung****
+### B. Früherfassung
 
 [^part1-chap2a-lvlB-1]
 
@@ -212,16 +212,17 @@ Zur Meldung berechtigt sind:
 
 <sup>3</sup> Sie fordert die versicherte Person auf, den Arbeitgeber, Leistungserbringer nach den Artikeln 36–40 KVG[^3c-2], Versicherungen sowie Amtsstellen generell zu ermächtigen, alle Auskünfte zu erteilen und alle Unterlagen zur Verfügung zu stellen, die für die Abklärung im Rahmen der Früherfassung erforderlich sind.
 
-<sup>4</sup> Gibt die versicherte Person diese Ermächtigung nicht, so kann ein Arzt des regionalen ärztlichen Dienstes (Art. 59 Abs. 2) die erforderlichen Auskünfte bei den behandelnden Ärzten der versicherten Person einholen. Diese sind von ihrer Schweigepflicht entbunden. Der Arzt beurteilt, ob Massnahmen zur Frühintervention nach Artikel 7*d* angezeigt sind, und informiert die IV-Stelle, ohne die medizinischen Auskünfte und die Unterlagen weiterzuleiten.
+<sup>4</sup> Gibt die versicherte Person diese Ermächtigung nicht, so kann ein Arzt des regionalen ärztlichen Dienstes (Art. 54*a*[^3c-3]) die erforderlichen Auskünfte bei den behandelnden Ärzten der versicherten Person einholen. Diese sind von ihrer Schweigepflicht entbunden. Der Arzt beurteilt, ob Massnahmen zur Frühintervention nach Artikel 7*d* angezeigt sind, und informiert die IV-Stelle, ohne die medizinischen Auskünfte und die Unterlagen weiterzuleiten.
 
-<sup>5</sup> Die IV-Stelle informiert die versicherte Person oder deren gesetzliche Vertretung, den Krankentaggeldversicherer, den Krankenversicherer, die private Versicherungseinrichtung nach Artikel 3*b* Absatz 2 Buchstabe f oder den Unfallversicherer sowie den Arbeitgeber, sofern dieser die versicherte Person zur Früherfassung gemeldet hat, ob Massnahmen zur Frühintervention nach Artikel 7*d* angezeigt sind; sie leitet die medizinischen Auskünfte und Unterlagen nicht weiter.[^3c-3]
+<sup>5</sup> Die IV-Stelle informiert die versicherte Person oder deren gesetzliche Vertretung, den Krankentaggeldversicherer, den Krankenversicherer, die private Versicherungseinrichtung nach Artikel 3*b* Absatz 2 Buchstabe f oder den Unfallversicherer sowie den Arbeitgeber, sofern dieser die versicherte Person zur Früherfassung gemeldet hat, ob Massnahmen zur Frühintervention nach Artikel 7*d* angezeigt sind; sie leitet die medizinischen Auskünfte und Unterlagen nicht weiter.[^3c-4]
 
-<sup>6</sup> Bei Bedarf fordert sie die versicherte Person zu einer Anmeldung bei der Invalidenversicherung (Art. 29 ATSG[^3c-4]) auf. Sie macht die versicherte Person darauf aufmerksam, dass die Leistungen gekürzt oder verweigert werden können, wenn die Anmeldung nicht unverzüglich erfolgt.
+<sup>6</sup> Bei Bedarf fordert sie die versicherte Person zu einer Anmeldung bei der Invalidenversicherung (Art. 29 ATSG[^3c-5]) auf. Sie macht die versicherte Person darauf aufmerksam, dass die Leistungen gekürzt oder verweigert werden können, wenn die Anmeldung nicht unverzüglich erfolgt.
 
 [^3c-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^3c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^3c-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
-[^3c-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^3c-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2022 angepasst.
+[^3c-4]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^3c-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 ### 3. Kapitel: Die Leistungen
 
@@ -345,7 +346,7 @@ Der Arbeitgeber arbeitet aktiv mit der IV-Stelle zusammen. Er wirkt bei der Herb
 
 [^7c-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 
-### B.**** Massnahmen der Frühintervention
+### B. Massnahmen der Frühintervention
 
 [^part1-chap3-lvlB-1]
 
@@ -381,7 +382,7 @@ Die IV-Stellen können folgende Massnahmen anordnen:
 [^7d-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^7d-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 
-### C.**** Eingliederungsmassnahmen und Taggelder
+### C. Eingliederungsmassnahmen und Taggelder
 
 [^part1-chap3-lvlC-1]
 
@@ -626,7 +627,7 @@ Die medizinischen Massnahmen umfassen:
 
 **Kostenvergütung für stationäre Behandlungen[^14bis-2]**[^14bis-1]
 
-<sup>1</sup> Die Kostenvergütung für stationäre Behandlungen im Sinne von Artikel 14 Absatz 1, die in einem nach Artikel 39 KVG[^14bis-3] zugelassenen Spital erbracht werden, wird zu 80 Prozent durch die Versicherung und zu 20 Prozent durch den Wohnkanton des Versicherten geleistet. Der Wohnkanton entrichtet seinen Anteil direkt im Spital.[^14bis-4]
+<sup>1</sup> Die Kostenvergütung für stationäre Behandlungen im Sinne von Artikel 14 Absatz 1, die in einem nach Artikel 39 KVG[^14bis-3] zugelassenen Spital erbracht werden, wird zu 80 Prozent durch die Versicherung und zu 20 Prozent durch den Wohnkanton des Versicherten geleistet. Der Wohnkanton entrichtet seinen Anteil direkt dem Spital.[^14bis-4]
 
 <sup>2</sup> Das Rückgriffsrecht nach Artikel 72 ATSG[^14bis-5] gilt sinngemäss für den Wohnkanton für die Beiträge, die dieser nach Absatz 1 geleistet hat.[^14bis-6]
 
@@ -672,7 +673,7 @@ Er kann die Vergütung von Arzneimitteln regeln, die:
 [^14ter-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^14ter-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-### II<sup>bis</sup>.**** Beratung und Begleitung
+### II<sup>bis</sup>. Beratung und Begleitung
 
 [^part1-chap3-lvlC-lvlIIbis-1]
 
@@ -695,7 +696,7 @@ Anspruch auf Beratung und Begleitung hat die versicherte Person und ihr Arbeitge
 
 <sup>5</sup> Der Bundesrat kann Höchstbeträge festlegen, die den IV-Stellen für Beratung und Begleitung zur Verfügung stehen.
 
-### II<sup>ter</sup>.**** Die Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung
+### II<sup>ter</sup>. Die Integrationsmassnahmen zur Vorbereitung auf die berufliche Eingliederung
 
 [^part1-chap3-lvlC-lvlIIter-1]
 
@@ -1141,7 +1142,7 @@ Auf dem Taggeld müssen Beiträge bezahlt werden:
 
 [^25ter-1]: Eingefügt durch Ziff. I des BG vom 9. Okt. 1986 ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)). Aufgehoben durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision), mit Wirkung seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### VII. Wahlrecht der Versicherten, Zusammenarbeit, Tarife und Schiedsgerichte****
+### VII. Wahlrecht der Versicherten, Zusammenarbeit, Tarife und Schiedsgerichte
 
 [^part1-chap3-lvlC-lvlVII-1]
 
@@ -1194,7 +1195,19 @@ Auf dem Taggeld müssen Beiträge bezahlt werden:
 
 <sup>7</sup> Können sich Leistungserbringer und das BSV nicht auf die Erneuerung eines Tarifvertrages einigen, so kann das EDI den bestehenden Vertrag um ein Jahr verlängern. Kommt innerhalb dieser Frist kein Vertrag zustande, so setzt es nach Anhören der Beteiligten den Tarif fest.
 
+<sup>8</sup> Die Leistungserbringer und deren Verbände sowie die Organisation nach Artikel 47*a* KVG[^27-2] sind verpflichtet, dem Bundesrat auf Verlangen kostenlos die Daten bekannt zu geben, die für die Erfüllung der Aufgaben nach den Absätzen 3–5 notwendig sind. Der Bundesrat erlässt nähere Vorschriften zur Bearbeitung der Daten unter Wahrung des Verhältnismässigkeitsprinzips.[^27-3]
+
+<sup>9</sup>
+
+Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 8 kann das EDI gegen die Verbände der Leistungserbringer, gegen die Organisation nach Artikel 47*a* KVG und gegen die betroffenen Leistungserbringer Sanktionen ergreifen. Diese umfassen:
+
+- a. die Verwarnung;
+- b. eine Busse bis zu 20 000 Franken.[^27-4]
+
 [^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), in Kraft seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
+[^27-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27-3]: Eingefügt durch Anhang Ziff. 3 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^27-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 27<sup>bis</sup>
 
@@ -1251,7 +1264,7 @@ Die Leistungserbringer müssen sich an die vertraglich oder behördlich festgele
 
 [^27quinquies-1]: Ursprünglich Art. 27<sup>bis</sup>. Eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### D.**** Die Renten
+### D. Die Renten
 
 [^part1-chap3-lvlD-1]
 
@@ -1524,7 +1537,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 
 [^41-1]: Aufgehoben durch Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### E. Die Hilflosenentschädigung****
+### E. Die Hilflosenentschädigung
 
 [^part1-chap3-lvlE-1]
 
@@ -1585,7 +1598,7 @@ Am ersten Tag des Monats, der dem Entscheid der IV-Stelle über den Invalidität
 [^42ter-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 [^42ter-4]: Fassung des Satzes gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5987](https://fedlex.data.admin.ch/eli/oc/2017/654); [BBl 2016 7193](https://fedlex.data.admin.ch/eli/fga/2016/1538)[8185](https://fedlex.data.admin.ch/eli/fga/2016/1879)).
 
-### E<sup>bis</sup>.**** Der Assistenzbeitrag
+### E<sup>bis</sup>. Der Assistenzbeitrag
 
 [^part1-chap3-lvlEbis-1]
 
@@ -1670,7 +1683,7 @@ Der Anspruch erlischt zum Zeitpunkt:
 
 Der Assistenzbeitrag kann gekürzt oder verweigert werden, wenn die versicherte Person ihren gesetzlichen Verpflichtungen gegenüber den Assistenzpersonen oder gegenüber der Versicherung nicht nachkommt. Die Versicherung muss die versicherte Person vorher schriftlich mahnen und auf die Rechtsfolgen hinweisen.
 
-### F.**** Das Zusammenfallen von Leistungen
+### F. Das Zusammenfallen von Leistungen
 
 [^part1-chap3-lvlF-1]
 
@@ -1712,7 +1725,7 @@ Der Bundesrat bestimmt, ob und in welcher Höhe Versicherten, die Anspruch auf e
 
 [^45bis-1]: Eingefügt durch Ziff. I des BG vom 5. Okt. 1967 ([AS 1968 29](https://fedlex.data.admin.ch/eli/oc/1968/29_29_29); [BBl 1967 I 653](https://fedlex.data.admin.ch/eli/fga/1967/1_653_677_513)). Aufgehoben durch Anhang Ziff. 8 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### G.**** Verschiedene Bestimmungen
+### G. Verschiedene Bestimmungen
 
 [^part1-chap3-lvlG-1]
 
@@ -1810,7 +1823,7 @@ Der Entscheid über die Durchführung von Eingliederungsmassnahmen (Art. 28 Abs.
 
 [^52-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision), mit Wirkung seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 
-### 4. Kapitel: Organisation****
+### 4. Kapitel: Organisation
 
 [^part1-chap4-1]
 
@@ -1839,7 +1852,7 @@ Der Bundesrat kann dem BSV Aufgaben der Durchführung übertragen in den Bereich
 [^53-4]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket) ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Weiterentwicklung der IV), mit Wirkung seit 1. Jan. 2022 ([AS 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [BBl 2017 2535](https://fedlex.data.admin.ch/eli/fga/2017/544)).
 [^53-5]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket), in Kraft seit 1. Jan. 2012 ([AS 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [BBl 2010 1817](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
-### A.**** Die IV-Stellen
+### A. Die IV-Stellen
 
 [^part1-chap4-lvlA-1]
 
@@ -1997,7 +2010,7 @@ Die Rechnungsführung der IV-Stellen wird im Rahmen der Revision der für die IV
 [^59b-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^59b-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### B.**** Die Ausgleichskassen
+### B. Die Ausgleichskassen
 
 [^part1-chap4-lvlB-1]
 
@@ -2037,7 +2050,7 @@ Der Bundesrat regelt die Zusammenarbeit zwischen den IV-Stellen und den Organen 
 
 [^6263-1]: Aufgehoben durch Ziff. I des BG vom 22. März 1991 (3. IV-Revision), mit Wirkung seit 1. Jan. 1992 ([AS 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)). Dies gilt auch für den ursprünglichen Bst. C.
 
-### C.**** Die Aufsicht des Bundes
+### C. Die Aufsicht des Bundes
 
 [^part1-chap4-lvlC-1]
 
@@ -2062,13 +2075,15 @@ Der Bundesrat regelt die Zusammenarbeit zwischen den IV-Stellen und den Organen 
 
 Das BSV übt die fachliche Aufsicht über die IV-Stellen und über die regionalen ärztlichen Dienste aus. Insbesondere erfüllt es folgende Aufgaben:
 
-- a. Es überprüft jährlich die Erfüllung der Aufgaben nach Artikel 57 durch die IV-Stellen und der Aufgaben nach Artikel 59 Absatz 2<sup>bis</sup> durch die regionalen ärztlichen Dienste.
+- a. Es überprüft jährlich die Erfüllung der Aufgaben nach Artikel 57 durch die IV-Stellen und der Aufgaben nach Artikel 54*a*[^64a-2]durch die regionalen ärztlichen Dienste.
 - b. Es erteilt den IV-Stellen allgemeine Weisungen sowie Weisungen im Einzelfall.
 - c. Es erteilt den regionalen ärztlichen Diensten im medizinischen Fachbereich allgemeine Weisungen.
 
-<sup>2</sup> Das BSV übt die administrative Aufsicht über die IV-Stellen einschliesslich der regionalen ärztlichen Dienste aus. Es gibt insbesondere Kriterien vor, um die Wirksamkeit, Qualität und Einheitlichkeit der Erfüllung der Aufgaben nach den Artikeln 57 und 59 Absatz 2<sup>bis</sup> zu gewährleisten, und überprüft die Einhaltung dieser Kriterien.
+<sup>2</sup> Das BSV übt die administrative Aufsicht über die IV-Stellen einschliesslich der regionalen ärztlichen Dienste aus. Es gibt insbesondere Kriterien vor, um die Wirksamkeit, Qualität und Einheitlichkeit der Erfüllung der Aufgaben nach den Artikeln 57 und 54*a*[^64a-3] zu gewährleisten, und überprüft die Einhaltung dieser Kriterien.
 
 [^64a-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2006 (5. IV-Revision), in Kraft seit 1. Jan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^64a-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2022 angepasst.
+[^64a-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2022 angepasst.
 
 #### Art. 65
 
@@ -2079,7 +2094,7 @@ Die Eidgenössische Kommission für die Alters‑, Hinterlassenen- und Invaliden
 [^65-1]: Fassung gemäss Ziff. I des BG vom 9. Okt. 1986, in Kraft seit 1. Jan. 1988 ([AS 1987 447](https://fedlex.data.admin.ch/eli/oc/1987/447_447_447); [BBl 1985 I 17](https://fedlex.data.admin.ch/eli/fga/1985/1_17_21_17)).
 [^65-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-### D.**** Verschiedene Bestimmungen
+### D. Verschiedene Bestimmungen
 
 [^part1-chap4-lvlD-1]
 
@@ -2445,7 +2460,7 @@ Der Bundesrat setzt die Höchstgrenzen der Beiträge nach Artikel 74 fest. Er le
 
 ## 3. Teil: Die Finanzierung
 
-### 1. Kapitel: Die Aufbringung der Mittel****
+### 1. Kapitel: Die Aufbringung der Mittel
 
 [^part3-chap1-1]
 
@@ -2501,7 +2516,7 @@ Die aufgrund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch:
 
 [^78bis-1]: Eingefügt durch Ziff. I 2 des BG vom 5. Okt. 1984 ([AS 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [BBl 1981 III 737](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)). Aufgehoben durch Ziff. II 25 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
-### 2. Kapitel: Der Ausgleichsfonds der Invalidenversicherung****
+### 2. Kapitel: Der Ausgleichsfonds der Invalidenversicherung
 
 [^part3-chap2-1]
 
@@ -2527,7 +2542,7 @@ Die Verwaltung des IV-Ausgleichsfonds richtet sich nach dem Ausgleichsfondsgeset
 [^79a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 über die Sanierung der Invalidenversicherung ([AS 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721)). Fassung gemäss Anhang Ziff. II 5 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 [^79a-2]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
-### 3. Kapitel: Die Überwachung des finanziellen Gleichgewichts****
+### 3. Kapitel: Die Überwachung des finanziellen Gleichgewichts
 
 [^part3-chap3-1]
 
@@ -2543,7 +2558,7 @@ Die Bestimmungen des AHVG[^80-3] betreffend die Überwachung des finanziellen Gl
 [^80-2]: Aufgehoben durch Anhang Ziff. 1 des BG vom 13. Juni 2008 über die Sanierung der Invalidenversicherung, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3835](https://fedlex.data.admin.ch/eli/oc/2010/548); [BBl 2005 4623](https://fedlex.data.admin.ch/eli/fga/2005/721)).
 [^80-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-## 4. Teil:**** Verhältnis zum europäischen Recht
+## 4. Teil: Verhältnis zum europäischen Recht
 
 [^part4-1]
 
@@ -2583,7 +2598,7 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^80a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^80a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## 5. Teil:**** Schluss- und Übergangsbestimmungen
+## 5. Teil: Schluss- und Übergangsbestimmungen
 
 [^part5-1]
 
@@ -2641,7 +2656,7 @@ Art. 27 Abs. 1 und 2, 53–59, 60 Abs. 2, 62, 64, 66, 67 Abs. 1, 81, 84: 15. Okt
 [^86-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^86-2]: BRB vom 28. Sept. 1959
 
-## Schlussbestimmungen der Änderung vom 24. Juni 1977**** (9. AHV-Revision)
+## Schlussbestimmungen der Änderung vom 24. Juni 1977 (9. AHV-Revision)
 
 [^u1-1]
 
@@ -2649,7 +2664,7 @@ Art. 27 Abs. 1 und 2, 53–59, 60 Abs. 2, 62, 64, 66, 67 Abs. 1, 81, 84: 15. Okt
 
 ### a. …
 
-### b. …****
+### b. …
 
 [^u1-lvlb-1]
 
@@ -2657,13 +2672,13 @@ Art. 27 Abs. 1 und 2, 53–59, 60 Abs. 2, 62, 64, 66, 67 Abs. 1, 81, 84: 15. Okt
 
 ### c. …
 
-### d. …****
+### d. …
 
 [^u1-lvld-1]
 
 [^u1-lvld-1]: Aufgehoben durch Ziff. II 40 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3452; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### e.**** Haftung der Versicherung und Anwendung des Rückgriffs auf haftpflichtige Dritte
+### e. Haftung der Versicherung und Anwendung des Rückgriffs auf haftpflichtige Dritte
 
 [^u1-lvle-1]
 
@@ -2673,13 +2688,13 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 [^u1-lvle-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### f. …****
+### f. …
 
 [^u1-lvlf-1]
 
 [^u1-lvlf-1]: Aufgehoben durch Ziff. II 40 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3452; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 9. Oktober 1986**** (2. IV-Revision)
+## Schlussbestimmungen der Änderung vom 9. Oktober 1986 (2. IV-Revision)
 
 [^u2-1]
 
@@ -2693,7 +2708,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 [^u2-2]: Aufgehoben durch Ziff. II 40 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)3452; [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Schlussbestimmungen der Änderung vom 22. März 1991**** (3. IV-Revision)
+## Schlussbestimmungen der Änderung vom 22. März 1991 (3. IV-Revision)
 
 [^u3-1]
 
@@ -2703,7 +2718,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 <sup>2</sup> Sie unterbreiten ihre Erlasse und Vereinbarungen über die neue Organisation dem Bund spätestens zwei Jahre nach Inkrafttreten dieses Gesetzes zur Genehmigung.
 
-## Schlussbestimmungen der Änderung vom 7. Oktober 1994**** (10. AHV-Revision)
+## Schlussbestimmungen der Änderung vom 7. Oktober 1994 (10. AHV-Revision)
 
 [^u4-1]
 
@@ -2719,7 +2734,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 [^u4-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-## Schlussbestimmungen der Änderung vom 23. Juni 2000****
+## Schlussbestimmungen der Änderung vom 23. Juni 2000
 
 [^u5-1]
 
@@ -2738,7 +2753,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 [^u5-2]: In Kraft seit 1. April 2001.
 [^u5-3]: In Kraft seit 1. April 2001.
 
-## Schlussbestimmungen der Änderung vom 14. Dezember 2001****
+## Schlussbestimmungen der Änderung vom 14. Dezember 2001
 
 [^u6-1]
 
@@ -2750,7 +2765,7 @@ Artikel 11 IVG und die Artikel 72–75 ATSG[^u1-lvle-2] gelten für Fälle, in d
 
 [^u6-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## Schlussbestimmungen der Änderung vom 21. März 2003 (4. IV-Revision)****
+## Schlussbestimmungen der Änderung vom 21. März 2003 (4. IV-Revision)
 
 [^u7-1]
 
@@ -2798,7 +2813,7 @@ Die neuen Bestimmungen sind auch anwendbar auf die Taggelder für Eingliederungs
 
 [^u7-lvld-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-### e. *…*****
+### e. *…*
 
 [^u7-lvle-1]
 
@@ -2808,7 +2823,7 @@ Die neuen Bestimmungen sind auch anwendbar auf die Taggelder für Eingliederungs
 
 Laufende ganze Renten bei einem Invaliditätsgrad von mindestens 66<sup>2</sup>/3 Prozent werden nach dem Inkrafttreten dieser Gesetzesänderung für alle jene Rentenbezügerinnen und Rentenbezüger weitergeführt, welche zu diesem Zeitpunkt das 50. Altersjahr zurückgelegt haben. Alle anderen ganzen Renten bei einem Invaliditätsgrad unter 70 Prozent werden innerhalb eines Jahres nach dem Inkrafttreten dieser Gesetzesänderung einer Revision unterzogen.
 
-## Schlussbestimmungen der Änderung vom 16. Dezember 2005 (Massnahmen zur Verfahrensstraffung)****
+## Schlussbestimmungen der Änderung vom 16. Dezember 2005 (Massnahmen zur Verfahrensstraffung)
 
 [^u8-1]
 
@@ -2820,17 +2835,17 @@ Bisheriges Recht gilt für die im Zeitpunkt des Inkrafttretens der Änderung vom
 - b. bei der IV-Stelle hängigen Einsprachen;
 - c. beim kantonalen oder Eidgenössischen Versicherungsgericht oder bei der Eidgenössischen Rekurskommission für AHV- und IV-Angelegenheiten hängigen Beschwerden.
 
-## Schlussbestimmung der Änderung vom 6. Oktober 2006 (5. IV-Revision)****
+## Schlussbestimmung der Änderung vom 6. Oktober 2006 (5. IV-Revision)
 
 [^u9-1]
 
 [^u9-1]: [AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)
 
-*Besitzstandswahrung bei Taggeldern für laufende Eingliederungsmassna**h**men*
+*Besitzstandswahrung bei Taggeldern für laufende Eingliederungsmassnahmen*
 
 Das nach bisherigem Recht entrichtete Taggeld wird bis zum Abschluss der Eingliederungsmassnahmen, die nach bisherigem Recht gewährt wurden, weiter entrichtet. Werden unmittelbar im Anschluss an eine nach bisherigem Recht gewährte Eingliederungsmassnahme weitere Eingliederungsmassnahmen verfügt, so wird das nach bisherigem Recht entrichtete Taggeld bis zum Abschluss dieser zusätzlichen Massnahmen weiter entrichtet.
 
-## Übergangsbestimmungen zur Änderung vom 6. Oktober 2006****
+## Übergangsbestimmungen zur Änderung vom 6. Oktober 2006
 
 [^u10-1]
 
@@ -2854,7 +2869,7 @@ Das nach bisherigem Recht entrichtete Taggeld wird bis zum Abschluss der Einglie
 [^u10-4]: Eingefügt durch Ziff. I 5 des BG vom 22. Juni 2007 über die Änd. von Erlassen im Rahmen des Übergangs zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 [^u10-5]: Fassung gemäss Ziff. I 5 des BG vom 22. Juni 2007 über die Änd. von Erlassen im Rahmen des Übergangs zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [BBl 2007 645](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 
-## Schlussbestimmungen der Änderung vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket)****
+## Schlussbestimmungen der Änderung vom 18. März 2011 (6. IV-Revision, erstes Massnahmenpaket)
 
 [^u11-1]
 
@@ -2883,7 +2898,7 @@ Das nach bisherigem Recht entrichtete Taggeld wird bis zum Abschluss der Einglie
 
 [^u11-lvlb-1]: [[AS 2005 3529](https://fedlex.data.admin.ch/eli/oc/2005/506); [2008 129](https://fedlex.data.admin.ch/eli/oc/2008/50); [2009 3171](https://fedlex.data.admin.ch/eli/oc/2009/400)]
 
-## Übergangsbestimmungen zur Änderung vom 19. Juni 2020 (Weiterentwicklung der IV)****
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020 (Weiterentwicklung der IV)
 
 [^u12-1]
 
@@ -2907,7 +2922,7 @@ Für Rentenbezügerinnen und -bezüger, deren Rentenanspruch vor Inkrafttreten d
 
 [^u12-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Ziff. II)
 
