@@ -4,13 +4,13 @@ number: "164.410"
 title: Verordnung betreffend Zulagen gemäss § 15a Lohngesetz
 short: Zulagenverordnung
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-12-03
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2013-12-03
 in_force: 2014-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.410"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4796/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zulagenverordnung | Staatspersonal: Lohn und Entschädigungen
 
 (Zulagenverordnung)
 
-Vom 3. Dezember 2013 (Stand 1. Januar 2014)
+Vom 3. Dezember 2013 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
