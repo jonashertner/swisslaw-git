@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Mobilmachung zu bestimmten Ass
 short: VMob
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/815"
 language: de
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-815-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-815-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/de"
 
 (VMob)
 
-vom 22. November 2017 (Stand am 1. Januar 2018)
+vom 22. November 2017 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 79 Absatz 1 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1] (MG),
+gestützt auf die Artikel 72, 79 Absatz 1 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1] (MG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 1
 
@@ -81,9 +82,11 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 Bei Angehörigen von Formationen mit ständigen Bereitschaftsauflagen enthält das Dienstbüchlein Angaben über:
 
-- a. die Verbandsnummer im Rahmen einer Mobilmachung;
+- a.[^6-1] die Verbandsbezeichnung im Rahmen einer Mobilmachung;
 - b. den Einrückungsort;
 - c. das Verhalten beim Einrücken.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 7
 
@@ -153,9 +156,9 @@ Das Kommando Operationen kann die Dispensation vom Assistenz- oder vom Aktivdien
 
 #### Art. 12
 
-**Mobilmachung zum Aktivdienst: Allgemeine Vollzugs- und Duldungspflichten der Kantone, der Gemeinden und von Privatpersonen**
+**Mobilmachung zum Assistenz- und Aktivdienst: Allgemeine Vollzugs- und Duldungspflichten der Kantone, der Gemeinden und von Privatpersonen[^12-1]**
 
-<sup>1</sup> Die Kantone und die Gemeinden sowie alle natürlichen und juristischen Privatpersonen vollziehen die ihnen im Zusammenhang mit der Vorbereitung und Durchführung einer Mobilmachung zum Aktivdienst übertragenen Aufgaben und dulden den Vollzug solcher Aufgaben.
+<sup>1</sup> Die Kantone und die Gemeinden sowie alle natürlichen und juristischen Privatpersonen vollziehen die ihnen im Zusammenhang mit der Vorbereitung und Durchführung einer Mobilmachung zum Assistenz- und Aktivdienst übertragenen Aufgaben und dulden den Vollzug solcher Aufgaben.[^12-2]
 
 <sup>2</sup>
 
@@ -165,35 +168,47 @@ Diese Aufgaben umfassen insbesondere:
 - b. die Unterstützung bei einer allfälligen Requisition;
 - c. die Kontrollen der Vorbereitungen für ein Aufgebot.
 
+[^12-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+
 #### Art. 13
 
-**Mobilmachung zum Aktivdienst: Spezifische Pflichten der Kantone**
+**Mobilmachung zum Assistenz- und Aktivdienst: Spezifische Pflichten der Kantone[^13-1]**
 
-<sup>1</sup> Im Fall einer Mobilmachung zum Aktivdienst betreiben die Kantone innerhalb von sechs Stunden nach dem Entscheid zu einem Aufgebot eine Auskunftsstelle für die aufgebotenen Angehörigen der Armee.
+<sup>1</sup> Im Fall einer Mobilmachung zum Assistenz- und Aktivdienst betreiben die Kantone innerhalb von sechs Stunden nach dem Entscheid zu einem Aufgebot eine Auskunftsstelle für die aufgebotenen Angehörigen der Armee.[^13-2]
 
 <sup>2</sup> Die Stelle gibt Auskunft über den Einrückungsort, den Einrückungszeitpunkt und mögliche Transportmittel für das Einrücken.
 
+[^13-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+
 #### Art. 14
 
-**Mobilmachung zum Aktivdienst: Spezifische Pflichten der Gemeinden**
+**Mobilmachung zum Assistenz- und Aktivdienst: Spezifische Pflichten der Gemeinden[^14-1]**
 
-<sup>1</sup> Die Gemeinden verbreiten bei einer Mobilmachung zum Aktivdienst bei Bedarf das Aufgebot mittels Plakatanschlag.
+<sup>1</sup> Die Gemeinden verbreiten bei einer Mobilmachung zum Assistenz- und Aktivdienst bei Bedarf das Aufgebot mittels Plakatanschlag.[^14-2]
 
 <sup>2</sup> Gemeinden mit einem Einrückungsort oder einem Logistikcenter der Armee halten im Fall einer Mobilmachung zum Aktivdienst die Zufahrtstrassen und -wege zum Einrückungsort und zum Logistikcenter der Armee frei. Sie leiten die zivilen Verkehrsteilnehmerinnen und -teilnehmer nötigenfalls um. Sie stellen den Winterdienst auf diesen Strassen und Wegen sicher.
 
-<sup>3</sup> Die Gemeinden überlassen der Armee im Fall einer Mobilmachung zum Aktivdienst auf erste Aufforderung hin alle notwendigen, geeigneten und verfügbaren Räumlichkeiten und Plätze zur Benutzung mit den erforderlichen Einrichtungen und Gerätschaften für die Unterkunft der Truppe, einschliesslich der Armeetiere, der Fahrzeuge und des mitgeführten Materials.
+<sup>3</sup> Die Gemeinden überlassen der Armee im Fall einer Mobilmachung zum Assistenz- und Aktivdienst auf erste Aufforderung hin alle notwendigen, geeigneten und verfügbaren Räumlichkeiten und Plätze zur Benutzung mit den erforderlichen Einrichtungen und Gerätschaften für die Unterkunft der Truppe, einschliesslich der Armeetiere, der Fahrzeuge und des mitgeführten Materials.[^14-3]
 
 <sup>4</sup> Die Pflicht nach Absatz 3 gilt auch im Fall einer Mobilmachung zum Assistenzdienst.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^14-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 15
 
 **Pflichten der konzessionierten Transportunternehmen**
 
-<sup>1</sup> Konzessionierte Transportunternehmen sind bei einer Mobilmachung zum Aktivdienst verpflichtet, Angehörige der Armee in Uniform bei Vorweisen des Dienstbüchleins oder des persönlichen Aufgebots an den Einrückungsort zu transportieren.
+<sup>1</sup> Konzessionierte Transportunternehmen sind bei einer Mobilmachung zum Assistenz- und Aktivdienst verpflichtet, Angehörige der Armee in Uniform bei Vorweisen des Dienstbüchleins oder des persönlichen Aufgebots an den Einrückungsort zu transportieren.[^15-1]
 
 <sup>2</sup> Die Kosten für den Transport werden vom Bund übernommen.
 
 <sup>3</sup> Um den permanenten Kontakt zur Armee sicherzustellen, haben die Schweizerischen Bundesbahnen für sich und für den Kontakt zu den anderen konzessionierten Transportunternehmen eine Verbindungsstelle zu definieren und der Armee zu melden.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 16
 

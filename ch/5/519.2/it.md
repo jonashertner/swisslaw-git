@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 sulla mobilitazione per determinati servi
 short: OMob
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/815"
 language: it
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-815-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-815-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/it"
 
 (OMob)
 
-del 22 novembre 2017 (Stato 1° gennaio 2018)
+del 22 novembre 2017 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 79 capoverso 1 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-1] (LM),
+visti gli articoli 72, 79 capoverso 1 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-1] (LM),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 1
 
@@ -81,9 +82,11 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 Per i militari di formazioni con obblighi permanenti di prontezza, il libretto di servizio contiene indicazioni concernenti:
 
-- a. il numero della formazione nell’ambito di una mobilitazione;
+- a.[^6-1] la designazione della formazione nell’ambito di una mobilitazione;
 - b. il luogo d’entrata in servizio;
 - c. il comportamento in occasione dell’entrata in servizio.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 7
 
@@ -153,9 +156,9 @@ Il Comando Operazioni può annullare la dispensa dal servizio d’appoggio o dal
 
 #### Art. 12
 
-**Mobilitazione per il servizio attivo: obblighi generali d’esecuzione e di tolleranza dei Cantoni, dei Comuni e dei privati**
+**Mobilitazione per il servizio d’appoggio e il servizio attivo: obblighi generali d’esecuzione e di tolleranza dei Cantoni, dei Comuni e dei privati[^12-1]**
 
-<sup>1</sup> I Cantoni e i Comuni nonché tutte le persone fisiche e giuridiche eseguono i compiti loro affidati in relazione alla preparazione e all’esecuzione di una mobilitazione per il servizio attivo e tollerano l’esecuzione di tali compiti.
+<sup>1</sup> I Cantoni e i Comuni nonché tutte le persone fisiche e giuridiche eseguono i compiti loro affidati in relazione alla preparazione e all’esecuzione di una mobilitazione per il servizio d’appoggio e il servizio attivo e tollerano l’esecuzione di tali compiti.[^12-2]
 
 <sup>2</sup>
 
@@ -165,35 +168,47 @@ Detti compiti comprendono in particolare:
 - b. l’assistenza in caso di un’eventuale requisizione;
 - c. i controlli dei preparativi per una chiamata in servizio.
 
+[^12-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+
 #### Art. 13
 
-**Mobilitazione per il servizio attivo: obblighi specifici dei Cantoni**
+**Mobilitazione per il servizio d’appoggio e il servizio attivo: obblighi specifici dei Cantoni[^13-1]**
 
-<sup>1</sup> In caso di mobilitazione per il servizio attivo, i Cantoni attivano entro sei ore dalla decisione di chiamata in servizio un organo d’informazione per i militari chiamati in servizio.
+<sup>1</sup> In caso di mobilitazione per il servizio d’appoggio e il servizio attivo, i Cantoni attivano entro sei ore dalla decisione di chiamata in servizio un organo d’informazione per i militari chiamati in servizio.[^13-2]
 
 <sup>2</sup> L’organo fornisce informazioni sul luogo e sul momento dell’entrata in servizio e sui possibili mezzi di trasporto per l’entrata in servizio.
 
+[^13-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+
 #### Art. 14
 
-**Mobilitazione per il servizio attivo: obblighi specifici dei Comuni**
+**Mobilitazione per il servizio d’appoggio e il servizio attivo: obblighi specifici dei Comuni[^14-1]**
 
-<sup>1</sup> In caso di mobilitazione per il servizio attivo, i Comuni diffondo se necessario la chiamata in servizio esponendo gli appositi affissi.
+<sup>1</sup> In caso di mobilitazione per il servizio d’appoggio e il servizio attivo, i Comuni diffondono se necessario la chiamata in servizio esponendo gli appositi affissi.[^14-2]
 
 <sup>2</sup> In caso di mobilitazione per il servizio attivo, i Comuni sul cui territorio è ubicato un luogo d’entrata in servizio o con un centro logistico dell’esercito tengono libere le strade e le vie di accesso al luogo dell’entrata in servizio e al centro logistico dell’esercito. Se del caso, deviano gli utenti civili della strada. Garantiscono il servizio invernale su queste strade e vie.
 
-<sup>3</sup> In caso di mobilitazione per il servizio attivo, i Comuni concedono all’esercito, su richiesta, l’uso di tutti i locali e le piazze indispensabili, adatti e disponibili unitamente alle installazioni e alle attrezzature necessarie per l’alloggio della truppa, compreso il ricovero degli animali dell’esercito, dei veicoli e del materiale.
+<sup>3</sup> In caso di mobilitazione per il servizio d’appoggio e il servizio attivo, i Comuni concedono all’esercito, su richiesta, l’uso di tutti i locali e le piazze indispensabili, adatti e disponibili unitamente alle installazioni e alle attrezzature necessarie per l’alloggio della truppa, compreso il ricovero degli animali dell’esercito, dei veicoli e del materiale.[^14-3]
 
 <sup>4</sup> L’obbligo secondo il capoverso 3 si applica anche in caso di mobilitazione per il servizio d’appoggio.
+
+[^14-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^14-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^14-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 15
 
 **Obblighi delle imprese di trasporto titolari di una concessione**
 
-<sup>1</sup> Nel caso di una mobilitazione per il servizio attivo, le imprese di trasporto titolari di una concessione sono tenute a trasportare al luogo d’entrata in servizio i militari in uniforme che presentano il libretto di servizio o la chiamata in servizio personale.
+<sup>1</sup> Nel caso di una mobilitazione per il servizio d’appoggio e il servizio attivo, le imprese di trasporto titolari di una concessione sono tenute a trasportare al luogo d’entrata in servizio i militari in uniforme che presentano il libretto di servizio o la chiamata in servizio personale.[^15-1]
 
 <sup>2</sup> I costi di trasporto sono a carico della Confederazione.
 
 <sup>3</sup> Per garantire il contatto permanente con l’esercito, le Ferrovie federali svizzere devono designare un organo di collegamento per se stesse e per i contatti con le altre imprese di trasporto titolari di una concessione e devono annunciarlo all’esercito.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 16
 

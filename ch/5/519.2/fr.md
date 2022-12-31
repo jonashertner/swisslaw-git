@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2017 sur la mobilisation de l'armée pour des 
 short: OMob
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/815"
 language: fr
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-815-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-815-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20180101/fr"
 
 (OMob)
 
-du 22 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 79, al. 1, et 150, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1],
+vu les art. 72, 79, al. 1, et 150, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 1
 
@@ -69,7 +70,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 <sup>2</sup> Le commandement des Opérations fixe leur lieu d’entrée au service, leur équipement et leur engagement.
 
-<sup>3</sup> Ne sont pas convoqués les Suisses de l’étranger s’ils ont la nationalité de l’Etat où ils résident et si cet Etat empêche l’entrée au service. Les accords interétatiques sont réservés.
+<sup>3</sup> Ne sont pas convoqués les Suisses de l’étranger s’ils ont la nationalité de l’État où ils résident et si cet État empêche l’entrée au service. Les accords interétatiques sont réservés.
 
 #### Art. 6
 
@@ -81,9 +82,11 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 Pour les militaires des formations soumises à des obligations de disponibilité permanente, le livret de service indique:
 
-- a. le numéro de la formation dans le cadre d’une mobilisation;
+- a.[^6-1] la désignation de la formation dans le cadre d’une mobilisation;
 - b. le lieu d’entrée en service;
 - c. le comportement à adopter lors de l’entrée au service.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 7
 
@@ -153,9 +156,9 @@ Le commandement des Opérations peut annuler la dispense du service d’appui ou
 
 #### Art. 12
 
-**Mobilisation pour le service actif: obligation générale d’exécution et de tolérance des cantons, des communes et des particuliers**
+**Mobilisation pour le service d’appui ou le service actif: obligation générale d’exécution et de tolérance des cantons, des communes et des personnes privées[^12-1]**
 
-<sup>1</sup> Les cantons et les communes ainsi que les personnes physiques et morales exécutent les tâches qui leur sont confiées en rapport avec la préparation et la concrétisation de la mobilisation pour le service actif, et acceptent leur exécution.
+<sup>1</sup> Les cantons et les communes ainsi que les personnes physiques et morales privées exécutent les tâches qui leur sont confiées en rapport avec la préparation et la concrétisation de la mobilisation pour le service d’appui ou le service actif, et acceptent leur exécution.[^12-2]
 
 <sup>2</sup>
 
@@ -165,35 +168,47 @@ Ces tâches comprennent notamment:
 - b. l’appui lors d’une réquisition;
 - c. les contrôles des préparatifs en vue d’une mise sur pied.
 
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+
 #### Art. 13
 
-**Mobilisation pour le service actif: obligations spécifiques des cantons**
+**Mobilisation pour le service d’appui ou le service actif: obligations spécifiques des cantons[^13-1]**
 
-<sup>1</sup> En cas de mobilisation pour le service actif, les cantons mettent à disposition des militaires convoqués un service d’information dans les six heures qui suivent la décision de la mise sur pied.
+<sup>1</sup> En cas de mobilisation pour le service d’appui ou le service actif, les cantons mettent à disposition des militaires convoqués un service d’information dans les six heures qui suivent la décision de la mise sur pied.[^13-2]
 
 <sup>2</sup> Le service d’information renseigne sur l’heure et le lieu d’entrée au service ainsi que sur les moyens de transport disponibles.
 
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+
 #### Art. 14
 
-**Mobilisation pour le service actif: obligations spécifiques des communes**
+**Mobilisation pour le service d’appui ou le service actif: obligations spécifiques des communes[^14-1]**
 
-<sup>1</sup> En cas de mobilisation pour le service actif, les communes placardent au besoin les affiches relatives à la mise sur pied.
+<sup>1</sup> En cas de mobilisation pour le service d’appui ou le service actif, les communes placardent au besoin les affiches relatives à la mise sur pied.[^14-2]
 
 <sup>2</sup> En outre, les communes disposant d’un lieu d’entrée au service ou d’un centre logistique de l’armée garantissent leur libre accès en cas de mobilisation pour le service actif. Elles détournent la circulation civile au besoin. Elles assurent le service d’hiver sur les voies d’accès.
 
-<sup>3</sup> En cas de mobilisation pour le service actif, les communes fournissent à l’armée, sur réquisition, les locaux et emplacements nécessaires, appropriés et disponibles avec les installations et appareils indispensables pour abriter la troupe, les animaux de l’armée, les véhicules et le matériel d’accompagnement.
+<sup>3</sup> En cas de mobilisation pour le service d’appui ou le service actif, les communes fournissent à l’armée, sur réquisition, les locaux et emplacements nécessaires, appropriés et disponibles avec les installations et appareils indispensables pour abriter la troupe, les animaux de l’armée, les véhicules et le matériel d’accompagnement.[^14-3]
 
 <sup>4</sup> Les obligations visées à l’al. 3 s’appliquent également en cas de mobilisation pour le service d’appui.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^14-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 15
 
 **Obligations des entreprises de transport titulaires d’une concession**
 
-<sup>1</sup> En cas de mobilisation pour le service actif, les entreprises de transport titulaires d’une concession ont l’obligation de transporter tout militaire en uniforme jusqu’au lieu de son entrée au service, sur présentation d’une convocation personnelle ou du livret de service.
+<sup>1</sup> En cas de mobilisation pour le service d’appui ou le service actif, les entreprises de transport titulaires d’une concession ont l’obligation de transporter tout militaire en uniforme jusqu’au lieu de son entrée en service, sur présentation d’une convocation personnelle ou du livret de service.[^15-1]
 
 <sup>2</sup> Les frais de transport sont pris en charge par la Confédération.
 
 <sup>3</sup> Pour assurer un contact permanent avec l’armée, les Chemins de fer fédéraux doivent définir un organe de liaison pour eux-mêmes et pour les contacts avec les autres entreprises de transport titulaires d’une concession, et l’annoncer à l’armée.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 16
 
