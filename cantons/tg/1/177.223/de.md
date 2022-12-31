@@ -4,13 +4,13 @@ number: "177.223"
 title: Verordnung des Regierungsrates zur Besoldungsverordnung
 short: RRV BesVO
 language: de
-version: 2022-04-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-12
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 1999-09-21
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.223"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2539/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2615/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RRV BesVO
 
 (RRV BesVO)
 
-vom 21.09.1999 (Stand 01.04.2022)
+vom 21.09.1999 (Stand 01.01.2023)
 
 ## 1. Vollzug der Allgemeinen Bestimmungen der Besoldungsverordnung
 
@@ -132,7 +132,7 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 **Lohnerhöhungen**
 
-<sup>1</sup> Lohnerhöhungen setzen sehr gut erfüllte oder gut erfüllte Leistungen voraus.
+<sup>1</sup> Lohnerhöhungen setzen erfüllte Leistungen voraus.
 
 <sup>2</sup> …
 
@@ -192,13 +192,13 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 #### § 13
 
-**Leistungs- und Anerkennungsprämien**
+**Leistungsprämien**
 
-<sup>1</sup> Einmalige Leistungsprämien für besondere Einzel- oder Teamleistungen können insbesondere ausgerichtet werden für besonders anforderungs- und erfolgreiche Projektarbeiten, für Tätigkeiten, die einen überdurchschnittlichen Aufwand oder ein besonderes Engagement bedingen oder für Tätigkeiten oder Anforderungen, die weit über das Aufgabengebiet gemäss Stellenbeschreibung hinausgehen.
+<sup>1</sup> Einmalige Leistungsprämien für besondere Einzel- oder Teamleistungen können insbesondere ausgerichtet werden für besonders anforderungs- und erfolgreiche Projektarbeiten, für innovative Sonderleistungen, für Tätigkeiten, die einen überdurchschnittlichen Aufwand oder ein besonderes Engagement bedingen, oder für Tätigkeiten oder Anforderungen, die vorübergehend über das Aufgabengebiet gemäss Stellenbeschreibung hinausgehen.
 
 <sup>2</sup> Die Prämien werden im Rahmen der vom Regierungsrat erlassenen Richtlinien von der für die Besoldungsanpassung zuständigen Stelle gesprochen.
 
-<sup>3</sup> Für besonders innovative Ideen von Mitarbeiterinnen und Mitarbeitern, die der Verbesserung der betrieblichen Leistungsfähigkeit dienen, können im Rahmen der vom Regierungsrat zum Ideenmanagement erlassenen Richtlinien Anerkennungsprämien ausgerichtet werden.
+<sup>3</sup> …
 
 ### 1.2.3. Dienstaltersgeschenk
 
@@ -420,9 +420,9 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 **Meldepflichten bei Krankheit oder Unfall**
 
-<sup>1</sup> Die vorgesetzte Stelle meldet Beginn und Ende jeder länger als einen Monat dauernden Abwesenheit infolge von Krankheit oder Unfall dem zuständigen Lohnbüro.
+<sup>1</sup> Die vorgesetzte Stelle meldet jede länger als einen Monat ununterbrochen dauernde oder kumuliert wiederkehrende Abwesenheit infolge von Krankheit oder Unfall dem zuständigen Lohnbüro.
 
-<sup>2</sup> Dauert eine Arbeitsunfähigkeit wegen Krankheit oder Unfall länger als sechs Monate und ist der Zeitpunkt der Arbeitsaufnahme ungewiss, ist die Mitarbeiterin oder der Mitarbeiter durch die Leitung der Verwaltungseinheit auf die IV-Anmeldung aufmerksam zu machen und der Pensionskasse Meldung zu erstatten.
+<sup>2</sup> Dauert eine Arbeitsunfähigkeit wegen Krankheit oder Unfall länger als sechs Monate und ist der Zeitpunkt der Arbeitsaufnahme ungewiss, ist die Mitarbeiterin oder der Mitarbeiter durch die Leitung der Verwaltungseinheit schriftlich auf die IV-Anmeldung aufmerksam zu machen.
 
 #### § 35
 
@@ -468,7 +468,11 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 <sup>3</sup> Bei Niederkunft vor dem errechneten Termin oder bei Verschiebung des Urlaubs Richtung Niederkunft entfällt der Schwangerschaftsurlaub ganz oder teilweise. Am Anspruch auf 16 Wochen besoldeten Urlaub ändert nichts.
 
+<sup>3<sup>bis</sup></sup> Bei Spitalaufenthalt des Neugeborenen unmittelbar nach der Geburt verlängert sich der Urlaub um die Dauer der Hospitalisierung, höchstens jedoch um 56 Tage, wenn die Voraussetzungen gemäss Art. 16c Abs. 3 des Bundesgesetzes über den Erwerbsersatz (EOG)[^39-1] erfüllt sind.
+
 <sup>4</sup> Bei Niederkunft nach dem errechneten Termin oder bei Vorverschiebung des Urlaubs besteht gleichwohl Anspruch auf 14 Wochen Mutterschaftsurlaub ab der Niederkunft, doch wird die Dauer, die den 16 wöchigen, bezahlten Urlaub übersteigt, unbezahlter Urlaub gewährt.
+
+[^39-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
 #### § 39a
 
@@ -558,7 +562,7 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 <sup>1</sup> Ausgehend von einer Normalarbeitszeit von 42 Stunden pro Woche betragen die Sollstunden zu 100 % beziehungsweise der Stundenteiler:
 
-- 1\. bei 23 Arbeitstagen Ferien: 1'910 Stunden
+- 1\. bei 25 Arbeitstagen Ferien: 1'894 Stunden
 - 2\. bei 27 Arbeitstagen Ferien: 1'877 Stunden
 - 3\. bei 30 Arbeitstagen Ferien: 1'852 Stunden
 
@@ -574,7 +578,7 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 <sup>1</sup> Die Vorschriften der Besoldungsverordnung des Grossen Rates[^48-1] gelten auch für die Kommissionsmitglieder, Expertinnen, Experten, Inhaberinnen und Inhaber einzelner Nebenämter, soweit die folgenden Bestimmungen keine Abweichungen vorsehen.
 
-<sup>2</sup> Es besteht kein Anspruch auf Familienzulage, Dienstaltersgeschenke sowie Besoldung bei Arbeitsverhinderung infolge von Krankheit, Nichtberufsunfällen, Schwangerschaft und Niederkunft, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes.
+<sup>2</sup> Es besteht kein Anspruch auf Familienzulage, Dienstaltersgeschenke, Vaterschaftsurlaub und Betreuungsurlaub sowie Besoldung bei Arbeitsverhinderung infolge von Krankheit, Nichtberufsunfällen, Schwangerschaft und Niederkunft, Erfüllung gesetzlicher Pflichten oder Ausübung eines öffentlichen Amtes.
 
 <sup>3</sup> Die voll- oder hauptamtlich vom Kanton beschäftigten Magistratspersonen, Mitarbeiterinnen und Mitarbeiter haben grundsätzlich keinen Anspruch auf zusätzliche Entschädigung für derartige Einsätze. Soweit ihr Einsatz zu Mehrstunden führt, können diese durch Freizeit kompensiert werden. In begründeten Fällen kann eine Entschädigung zugesprochen werden. Die Begrenzung des Beschäftigungsgrades auf 110 % bei Mehrfachanstellungen ist einzuhalten.
 
@@ -736,7 +740,7 @@ vom 21.09.1999 (Stand 01.04.2022)
 - 2\. Motorrad: Fr. 0.50/km
 - 3\. Kleinmotorrad: Fr. 0.30/km
 
-[^64-1]: Erhöhung von Fr. 0.65 auf Fr. 0.70 mit RRB Nr. 251 vom 12. April 2022 befristet vom 1. April 2022 bis zum 31. Dezember 2022.
+[^64-1]: Erhöhung von Fr. 0.65 auf Fr. 0.70 mit RRB Nr. 251 vom 12. April 2022 befristet vom 1. April 2022 bis zum 31. Dezember 2022. Mit RRB Nr. 714 vom 6. Dezember 2022 verlängert bis zum 31. Dezember 2023.
 
 #### § 65
 
@@ -844,7 +848,7 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 <sup>1</sup> Friedensrichterinnen und Friedensrichter werden vom Departement für Justiz und Sicherheit im Rahmen der Richtpositionskette «Fachexperte» eingereiht.
 
-<sup>2</sup> Die Geschäftslast der Friedensrichterinnen und Friedensrichter richtet sich nach der Anzahl der Schlichtungsverfahren. Grundlage bildet der Jahresdurchschnitt der letzten Legislaturperiode. 475 Schlichtungsverfahren entsprechen 100 Stellenprozenten. Das Ergebnis wird auf 5 % auf- oder abgerundet. Die Geschäftslast wird alle vier Jahre zu Beginn einer neuen Legislaturperiode aufgrund der Durchschnittszahlen der letzten Legislaturperiode neu festgelegt.
+<sup>2</sup> Die Geschäftslast der Friedensrichterinnen und Friedensrichter richtet sich nach der Anzahl der Schlichtungsverfahren. Grundlage bildet der Jahresdurchschnitt der letzten Legislaturperiode. 340 Schlichtungsverfahren entsprechen 100 Stellenprozenten. Das Ergebnis wird auf 5 % auf- oder abgerundet. Die Geschäftslast wird alle vier Jahre zu Beginn einer neuen Legislaturperiode aufgrund der Durchschnittszahlen der letzten Legislaturperiode neu festgelegt.
 
 <sup>3</sup> …
 
@@ -862,27 +866,9 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 ## 3. Übergangs- und Schlussbestimmungen
 
-#### § 87–88
+#### § 87–90a
 
 **…**
-
-#### § 89
-
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates zur Besoldungsverordnung vom 4. Dezember 1990 wird aufgehoben.
-
-#### § 90
-
-**Übergangsrecht**
-
-<sup>1</sup> Allfällige in Anstellungsentscheiden und Arbeitsverträgen zugesicherte Ansprüche im Zusammenhang mit Entschädigungen für Auslagen zu dienstlichen Zwecken werden unter Wahrung der entsprechenden Kündigungsfristen den ab 1. Dezember 2006 geltenden Entschädigungsregelungen angepasst.
-
-#### § 90a
-
-**Übergangsrecht**
-
-<sup>1</sup> Für Mitarbeiterinnen, welche den Urlaub bei Schwangerschaft und Niederkunft vor dem 1. Juli 2005 antreten, richtet sich der Anspruch während der ganzen Dauer des Urlaubes nach bisherigem Recht.
 
 #### § 90b
 
@@ -900,7 +886,7 @@ vom 21.09.1999 (Stand 01.04.2022)
 
 **Übergangsrecht Friedensrichter- und Betreibungsämter**
 
-<sup>1</sup> Für die Betreibungsbeamtinnen und -beamten sowie die Friedensrichterinnen und -richter, die vor dem 1. Juni 2016 ein Betreibungsamt oder ein Friedensrichter- und Betreibungsamt geleitet haben, wird die bisherige Besoldung bis zum 31. Dezember 2021 als Besitzstand per 1. Januar 2016 gewährleistet, sofern sie ab dem 1. Juni 2016 keine Leitung eines Betreibungsamtes oder die Funktion als Friedensrichterin oder -richter übernehmen.
+<sup>1</sup> Für die Betreibungsbeamtinnen und -beamten sowie die Friedensrichterinnen und ‑richter, die vor dem 1. Juni 2016 ein Betreibungsamt oder ein Friedensrichter- und Betreibungsamt geleitet haben, wird die bisherige Besoldung bis zum 31. Dezember 2021 als Besitzstand per 1. Januar 2016 gewährleistet, sofern sie ab dem 1. Juni 2016 keine Leitung eines Betreibungsamtes oder die Funktion als Friedensrichterin oder -richter übernehmen.
 
 <sup>2</sup> Bisherige Amtsinhaberinnen oder Amtsinhaber, die ab 1. Juni 2016 eine leitende Funktion übernehmen, werden für die Zeit vom 1. Januar 2017 bis zum 31. Dezember 2021 maximal in die Lohnklasse 22 bei 148 % eingereiht.
 
