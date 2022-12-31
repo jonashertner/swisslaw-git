@@ -3,20 +3,20 @@ canton: GL
 number: I C/21/3
 title: Verordnung zum Betrieb einer kantonalen Datenplattform gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-16
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 2014-08-12
 in_force: 2014-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-C.21.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2258/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Betrieb einer kantonalen Datenplattform gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz
 
-Vom 12.08.2014 (Stand 01.01.2022)
+Vom 12.08.2014 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
