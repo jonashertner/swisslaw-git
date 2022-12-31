@@ -4,13 +4,13 @@ number: VI A/1/2
 title: Gesetz über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden
 short: "Finanzhaushaltgesetz, FHG"
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-12-31
 version_adopted: 2022-05-01
 adopted: 2009-05-03
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-A.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2313/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2313/pdf_file"
 
 (Finanzhaushaltgesetz, FHG)
 
-Vom 03.05.2009 (Stand 01.07.2022)
+Vom 03.05.2009 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -37,7 +37,7 @@ erlässt:
 
 **Ziele und Zwecke**
 
-<sup>1</sup> Mit diesem Gesetz sollen die Organe von Kanton, Gemeinden und weiteren Organisationen des kantonalen und kommunalen öffentlichen Rechts
+<sup>1</sup> Mit diesem Gesetz sollen die Organe von Kanton, Gemeinden und allenfalls weiteren Organisationen des kantonalen und kommunalen öffentlichen Rechts:
 
 - a. die verfassungsmässige und gesetzmässige Finanzordnung wirksam ausüben können und
 - b. die für die finanzielle Führung erforderlichen Instrumente in die Hand erhalten.
@@ -50,29 +50,21 @@ erlässt:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz gilt für den Kanton, die Gemeinden und die Zweckverbände.
+<sup>1</sup> Dieses Gesetz gilt für den Kanton und die Gemeinden.
 
 <sup>2</sup> Die Haushaltführung der Kirchgemeinden muss den Grundsätzen der Kantonsverfassung (Art. 52-54)[^2-1] und dieses Gesetzes (Art. 8) entsprechen; soweit die Landeskirchen keine abweichenden Vorschriften über die Haushaltführung erlassen, gilt dieses Gesetz.
 
-<sup>3</sup> Des Weiteren gilt das Gesetz unter Vorbehalt abweichender gesetzlicher Bestimmungen für juristische Personen des öffentlichen Rechts. Vorbehalten bleiben namentlich das Gesetz über die Glarner Kantonalbank[^2-2], das Sachversicherungsgesetz[^2-3] und die Bestimmungen über die Stiftung Pensionskasse des Kantons Glarus[^2-4].
+<sup>3</sup> Des Weiteren gilt das Gesetz unter Vorbehalt abweichender gesetzlicher Bestimmungen für juristische Personen des öffentlichen Rechts.
 
-<sup>4</sup> Die Elektrizitäts-, Gas- und Wasserwerke und dergleichen sowie Alters- und Pflegeheime sind nicht verpflichtet, ihre Rechnungen nach dem Harmonisierten Rechnungsmodell 2 zu führen. Für Zweckverbände kann der Regierungsrat fallweise Ausnahmen gewähren, sofern
+<sup>4</sup> Die Buchführung und Rechnungslegung der selbständigen öffentlich-rechtlichen Anstalten des kommunalen Rechts richtet sich nach Artikel 957 Absatz 1 Obligationenrecht[^2-2]. Die Bestimmungen des Finanzhaushaltsrechts sind nicht anwendbar.
 
-- a. ihnen durch Bundesrecht oder interkantonale Vereinbarungen abweichende Kontenpläne vorgegeben sind, oder
-- b. anderweitige sachliche Gründe dafür bestehen.
+<sup>5–6</sup> …
 
-<sup>5</sup> Das Gesetz ist anwendbar auf die Tätigkeit:
-
-- a. des Landrates, des Regierungsrates, der gerichtlichen Behörden, der kantonalen Kommissionen, der kantonalen Verwaltung und der unselbstständigen Anstalten des Kantons sowie der Gerichtsverwaltung;
-- b. der Gemeindeversammlungen, der Gemeindeparlamente, der Gemeinderäte, der Gemeindekommissionen, der Gemeindeverwaltungen, der unselbstständigen Anstalten der Gemeinden sowie der Vorsteherschaften und der Delegiertenversammlungen von Zweckverbänden und
-- c. der Organe der in Absatz 3 aufgeführten Organisationen.
-
-<sup>6</sup> Regelungen dieses Gesetzes betreffend den Gemeinderat bzw. die Stimmberechtigten oder das allfällige Parlament der Gemeinde gelten sinngemäss auch für die Vorsteherschaft bzw. die Delegiertenversammlung eines Zweckverbandes, soweit sich aus der Gemeindegesetzgebung und dem Zweckverbandsstatut nichts anders ergibt. Dasselbe gilt für Regelungen betreffend die Gemeindeordnung in Bezug auf das Statut des Zweckverbandes.
+<sup>7</sup> In diesem Gesetz dem Regierungsrat übertragene Aufgaben und Kompetenzen gelten auch für die Verwaltungskommission der Gerichte bzw. in ihrem Zuständigkeitsbereich für das Obergericht und das Verwaltungsgericht. Vorbehalten bleibt das Gerichtsorganisationsgesetz[^2-3].
 
 [^2-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
-[^2-2]: GS [IX B/31/1](https://gesetze.gl.ch/data/IX-B.31.1/de)
-[^2-3]: GS [V D/1/1](https://gesetze.gl.ch/data/V-D.1.1/de)
-[^2-4]: GS [II D/2](https://gesetze.gl.ch/data/II-D.2/de)
+[^2-2]: SR 220
+[^2-3]: GS [III A/2](https://gesetze.gl.ch/data/III-A.2/de)
 
 ### 1.2. Begriffe
 
@@ -108,27 +100,7 @@ erlässt:
 
 <sup>1</sup> Die Erfolgsrechnung weist für die Rechnungsperiode die Vermehrungen (Ertrag) und Verminderungen (Aufwand) des staatlichen Vermögens aus.
 
-<sup>2</sup> Die Erfolgsrechnung umfasst:
-
-- a. den Personalaufwand;
-- b. den Sach- und übrigen Betriebsaufwand;
-- c. die Abschreibungen des Verwaltungsvermögens;
-- d. den Finanzaufwand;
-- e. die Einlagen in Fonds und Spezialfinanzierungen,
-- f. den Transferaufwand;
-- g. die durchlaufenden Beiträge;
-- h. den ausserordentlichen Aufwand;
-- i. den Aufwand aufgrund der internen Verrechnungen;
-- k. den Fiskalertrag;
-- l. die Erträge aus Regalien und Konzessionen;
-- m. die Entgelte;
-- n. die verschiedenen Erträge;
-- o. den Finanzertrag;
-- p. die Entnahmen aus Fonds und Spezialfinanzierungen;
-- q. den Transferertrag;
-- r. die durchlaufenden Beiträge;
-- s. den ausserordentlichen Ertrag;
-- t. den Ertrag aufgrund der internen Verrechnungen.
+<sup>2</sup> …
 
 <sup>3</sup> Der Saldo der Erfolgsrechnung verändert den Bilanzüberschuss/-fehlbetrag.
 
@@ -138,25 +110,7 @@ erlässt:
 
 <sup>1</sup> Die Investitionsrechnung enthält Posten mit einer mehrjährigen Nutzungsdauer, die aktiviert werden sowie die damit zusammenhängenden Einnahmen und Erträge.
 
-<sup>2</sup> Die Investitionsrechnung umfasst:
-
-- a. Ausgaben für Sachanlagen;
-- b. Investitionen auf Rechnung Dritter;
-- c. immaterielle Anlagen;
-- d. Darlehen;
-- e. Beteiligungen und Grundkapitalien;
-- f. eigene Investitionsbeiträge;
-- g. durchlaufende Investitionsbeiträge;
-- h. ausserordentliche Investitionen;
-- i. Übertragung von Sachanlagen in das Finanzvermögen;
-- k. Rückerstattungen;
-- l. Abgang immaterieller Sachgüter;
-- m. Investitionsbeiträge für eigene Rechnung;
-- n. Rückzahlungen von Darlehen;
-- o. Übertragungen von Beteiligungen;
-- p. Rückzahlungen eigener Investitionsbeiträge;
-- q. durchlaufende Investitionsbeiträge;
-- r. ausserordentliche Investitionseinnahmen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Investitionsrechnung bildet die Basis für die Ermittlung des Geldflusses aus Investitionen und Desinvestitionen in der Geldflussrechnung.
 
@@ -217,7 +171,7 @@ erlässt:
 
 **Zweck**
 
-<sup>1</sup> Der Finanz- und Aufgabenplan dient der mittelfristigen Planung und Steuerung von Finanzen und Leistungen.
+<sup>1</sup> Der Integrierte Aufgaben- und Finanzplan dient der mittelfristigen Planung und Steuerung von Finanzen und Leistungen.
 
 #### Art. 13
 
@@ -328,9 +282,9 @@ erlässt:
 - d. Geldflussrechnung;
 - e. Anhang.
 
-<sup>2</sup> Die Bilanz gliedert sich nach dem Kontenrahmen des Harmonisierten Rechnungsmodells 2.
+<sup>2</sup> …
 
-<sup>3</sup> Die Erfolgsrechnung und die Investitionsrechnung sind gleich darzustellen wie im Budget. Grundlage bildet der Kontenrahmen des Harmonisierten Rechnungsmodells 2.
+<sup>3</sup> Die Erfolgsrechnung und die Investitionsrechnung sind gleich darzustellen wie im Budget.
 
 <sup>4</sup> Zum Vergleich sind der Budgetbehörde auch die Zahlen der Bilanz, der Erfolgsrechnung, der Investitionsrechnung des Vorjahres sowie die Zahlen des zur Jahresrechnung gehörenden Budgets aufzuzeigen.
 
@@ -350,7 +304,7 @@ erlässt:
 
 <sup>1</sup> Die Erfolgsrechnung weist auf der ersten Stufe das operative und auf der zweiten Stufe das ausserordentliche Ergebnis je mit dem Aufwand- bzw. dem Ertragsüberschuss aus, ferner das Gesamtergebnis, das das Eigenkapital verändert.
 
-<sup>2</sup> Aufwand und Ertrag gelten als ausserordentlich, wenn mit ihnen in keiner Art und Weise gerechnet werden konnte und sie sich der Einflussnahme und Kontrolle entziehen oder sie nicht zum operativen Bereich gehören. Als ausserordentlicher Aufwand resp. ausserordentlicher Ertrag gelten auch zusätzliche Abschreibungen, die Abtragung des Bilanzfehlbetrags sowie Einlagen in und Entnahmen aus Eigenkapital.
+<sup>2</sup> Aufwand und Ertrag gelten als ausserordentlich, wenn mit ihnen in keiner Art und Weise gerechnet werden konnte, sie sich der Einflussnahme und Kontrolle entziehen, sie nicht zum operativen Bereich gehören und der Betrag wesentlich ist. Als ausserordentlicher Aufwand bzw. ausserordentlicher Ertrag gelten auch die Abtragung des Bilanzfehlbetrags sowie Einlagen in und Entnahmen aus Eigenkapital.
 
 #### Art. 26
 
@@ -358,15 +312,15 @@ erlässt:
 
 <sup>1</sup> Die Investitionsrechnung stellt einander die Investitionsausgaben und die Investitionseinnahmen gegenüber.
 
-<sup>2</sup> Investitionsausgaben und Investitionseinnahmen gelten als ausserordentlich, wenn mit ihnen in keiner Art und Weise gerechnet werden konnte und sie sich der Einflussnahme und Kontrolle entziehen oder sie nicht zum operativen Bereich gehören.
+<sup>2</sup> Investitionsausgaben und Investitionseinnahmen gelten als ausserordentlich, wenn mit ihnen in keiner Art und Weise gerechnet werden konnte, sie sich der Einflussnahme und Kontrolle entziehen, sie nicht zum operativen Bereich gehören und der Betrag wesentlich ist.
 
 #### Art. 27
 
 **Geldflussrechnung**
 
-<sup>1</sup> Die Geldflussrechnung gibt Auskunft über die Herkunft und die Verwendung der Geldmittel.
+<sup>1</sup> Die Geldflussrechnung gibt Auskunft über die Herkunft und die Verwendung der Liquidität.
 
-<sup>2</sup> Die Geldflussrechnung stellt den Geldfluss aus betrieblicher Tätigkeit (Erfolgsrechnung), den Geldfluss aus Investitionstätigkeit (Investitionsrechnung) und den Geldfluss aus Finanzierungstätigkeit gestuft dar.
+<sup>2</sup> Die Geldflussrechnung ist in drei Stufen gegliedert. Die erste Stufe zeigt den Geldfluss aus operativer Tätigkeit auf. Die zweite Stufe zeigt den Geldfluss aus Investitions- und Anlagentätigkeit auf. Die dritte Stufe zeigt den Geldfluss aus Finanzierungstätigkeit auf.
 
 #### Art. 28
 
@@ -415,14 +369,10 @@ erlässt:
 <sup>2</sup> Der Beteiligungsspiegel enthält pro Organisation:
 
 - a. Name und Rechtsform der Organisation;
-- b. Tätigkeiten und zu erfüllende öffentliche Aufgaben;
+- b. Gesellschaftszweck;
 - c. Gesamtkapital der Organisation und Anteil des Gemeinwesens;
-- d. Anschaffungswert und Buchwert der Beteiligung;
-- e. wesentliche weitere Beteiligte;
-- f. eigene Beteiligungen der Organisation;
-- g. Zahlungsströme im Berichtsjahr zwischen Gemeinwesen und Organisation und Angaben zu den erbrachten Leistungen der Organisation;
-- h. Aussagen zu den spezifischen Risiken, einschliesslich Eventual- und Gewährleistungsverpflichtungen der Organisation;
-- i. konsolidierte Bilanz sowie konsolidierte Erfolgsrechnung der letzten Jahresrechnung der Organisation mit Angaben zu den angewendeten Rechnungslegungsstandards.
+- d. Anschaffungswert und Buchwert der Beteiligung.
+- e.–i. …
 
 #### Art. 32
 
@@ -433,14 +383,7 @@ erlässt:
 - a. Eventualverbindlichkeiten, bei denen das Gemeinwesen zugunsten Dritter eine Verpflichtung eingeht, insbesondere Bürgschaften, Garantieverpflichtungen, Defizitgarantien usw.;
 - b. sonstige Sachverhalte mit Eventualcharakter, falls diese noch nicht als Rückstellungen verbucht wurden, wie Konventionalstrafen, Reuegelder usw.
 
-<sup>2</sup> Der Gewährleistungsspiegel enthält pro Verbindlichkeit:
-
-- a. Namen der empfangenden Einheit bzw. des Vertragspartners;
-- b. Eigentümerinnen und Eigentümer oder wesentliche Miteigentümerinnen und -eigentümer der empfangenden Einheit;
-- c. Typologie der Rechtsbeziehung;
-- d. Zahlungsströme im Berichtsjahr zwischen Gemeinwesen und empfangender Einheit;
-- e. Angaben zu den mit der Gewährleistung gesicherten Leistungen;
-- f. je nach Art und Umfang der Gewährleistung spezifische zusätzliche Angaben über die empfangende Einheit oder den Vertragspartner.
+<sup>2</sup> …
 
 #### Art. 33
 
@@ -457,7 +400,7 @@ erlässt:
 - e. Wechselkursdifferenzen;
 - f. andere Bewegungen.
 
-### 2.5. Haushaltgleichgewicht, Schuldenbegrenzung und Beurteilung der Finanzlage
+### 2.5. Finanzpolitische Ziele und Steuerung
 
 #### Art. 34
 
@@ -466,6 +409,18 @@ erlässt:
 <sup>1</sup> Das kumulierte Ergebnis der Erfolgsrechnung soll mittelfristig, in der Regel innert fünf Jahren, ausgeglichen sein.
 
 <sup>2</sup> Weist die Bilanz einen Bilanzfehlbetrag aus, ist dieser jährlich um mindestens 20 Prozent des Restbuchwertes abzutragen; die entsprechenden Beträge sind im Budget zu berücksichtigen.
+
+#### Art. 34a
+
+**Finanzpolitische Reserve**
+
+<sup>1</sup> Die finanzpolitische Reserve wird gebildet bzw. aufgelöst, um das Budget und die Jahresrechnung zu beeinflussen.
+
+<sup>2</sup> Eine Einlage ist höchstens im Umfang eines Ertragsüberschusses zulässig.
+
+<sup>3</sup> Eine Entnahme ist höchstens im Umfang der bestehenden finanzpolitischen Reserve zulässig.
+
+<sup>4</sup> Die Budgetbehörde entscheidet mit der Genehmigung des Budgets bzw. der Jahresrechnung über Einlagen oder Entnahmen. Diese sind über den ausserordentlichen Aufwand bzw. Ertrag zu verbuchen.
 
 #### Art. 35
 
@@ -522,7 +477,7 @@ erlässt:
 <sup>1</sup> Jede Ausgabe bedarf:
 
 - a. einer gesetzlichen Grundlage (Art. 39) und
-- b. soweit sie nicht gesetzlich gebunden (Art. 40) oder speziell geregelt (Art. 41) ist, der Erteilung eines Verpflichtungskredits (Art. 42) oder eines Zusatzkredits (Art. 48) und
+- b. soweit sie nicht gebunden (Art. 40) ist, der Erteilung eines Verpflichtungskredits (Art. 42) oder eines Zusatzkredits (Art. 48) und
 - c. eines Budgetkredits (Art. 49) oder eines Nachtragskredits (Art. 51).
 
 #### Art. 39
@@ -535,33 +490,22 @@ erlässt:
 
 #### Art. 40
 
-**Gesetzlich gebundene Ausgabe**
+**Gebundene Ausgabe**
 
-<sup>1</sup> Eine Ausgabe ist gesetzlich gebunden, wenn sie
+<sup>1</sup> Eine Ausgabe ist gebunden, wenn sie:
 
 - a. durch Rechtssatz, Vertrag oder Gerichtsurteil bezüglich ihrer Höhe, des Zeitpunkts der Vornahme und anderer wesentlicher Umstände in der Weise vorgeschrieben ist, dass der Recht anwendenden Behörde diesbezüglich keine erhebliche Handlungsfreiheit mehr zukommt, oder
 - b. zur Erfüllung einer gesetzlich oder vertraglich geordneten Verwaltungsaufgabe notwendig ist.
 
-<sup>2</sup> Ersatzanschaffungen für technische Anlagen und Apparaturen (Informatikanlagen, medizinische Geräte, Spezialmaschinen, Fahrzeuge und dergleichen) sind gesetzlich gebundene Ausgaben, solange sie
+<sup>1a</sup> Gebunden sind zudem werterhaltende Investitionen und Unterhaltsausgaben.
 
-- a. für eine zweckmässige Aufgabenerfüllung notwendig sind und
-- b. im Rahmen des bisherigen Verwendungszwecks eingesetzt werden und
-- c. weder mehr Bedienungspersonal, mehr Wartung noch einen Ausbau der Infrastruktur erfordern.
+<sup>2–3</sup> …
 
-<sup>3</sup> Gesetzlich gebunden sind die Ausgaben für folgende Gebäudearbeiten:
-
-- a. reiner Unterhalt, umfassend die Wartung und die laufende Behebung oder Ausbesserung von Mängeln und Schäden;
-- b. Instandsetzung, Restaurierung, Erneuerung und Sanierung, wenn diese Arbeiten mit keiner Zweckänderung des Gebäudes verbunden sind und wenn bezüglich ihrer Höhe, des Zeitpunkts der Vornahme und anderer wesentlicher Umstände keine erhebliche Handlungsfreiheit besteht.
-
-<sup>4</sup> Gesetzlich gebundene Ausgaben beschliesst der Regierungsrat bzw. der Gemeinderat.
+<sup>4</sup> Gebundene Ausgaben beschliesst der Regierungsrat bzw. der Gemeinderat.
 
 #### Art. 41
 
-**Entscheidungskompetenzen von kantonalen Verwaltungsbehörden**
-
-<sup>1</sup> Über die Gewährung von finanziellen Leistungen des Kantons an Gemeinden, andere öffentlich-rechtliche Körperschaften und Private, wie Abgeltungen, Beiträge, Bürgschaften und dergleichen, die durch Rechtssatz vorgesehen sind, entscheidet bis zum Betrag von 25'000 Franken das für den betreffenden Fachbereich zuständige Departement und bei grösseren Beträgen der Regierungsrat. Für Rückforderungen gelten die gleichen Kompetenzen.
-
-<sup>2</sup> Vorbehalten bleiben abweichende Kompetenzregelungen in den anwendbaren Spezialerlassen.
+**…**
 
 ### 3.2. Verpflichtungs- und Zusatzkredit
 
@@ -603,17 +547,17 @@ erlässt:
 
 #### Art. 46
 
-**Verfall und Abrechnung**
+**Abrechnung**
 
-<sup>1</sup> Ein Verpflichtungskredit muss der zuständigen Instanz zur Abrechnung unterbreitet werden, wenn der Zweck erreicht ist, wenn er abgelaufen ist, wenn das Vorhaben aufgegeben wird oder wenn er nicht bis zum Ablauf der bewilligten Zeitdauer mindestens zur Hälfte umgesetzt ist.
+<sup>1</sup> Die Abrechnung eines Verpflichtungskredits muss der zuständigen Instanz zur Kenntnis unterbreitet werden, wenn der Zweck erreicht ist, wenn er abgelaufen ist oder wenn das Vorhaben aufgegeben wird.
 
 <sup>2</sup> Zuständige Instanz ist im Kanton der Landrat. Bei den Gemeinden regelt die Gemeindeordnung die Zuständigkeit.
 
 #### Art. 47
 
-**Verpflichtungskontrolle**
+**Verpflichtungskreditkontrolle**
 
-<sup>1</sup> Die Verpflichtungskredite müssen im Buchhaltungssystem der zuständigen Verwaltungseinheit erfasst werden.
+<sup>1</sup> …
 
 <sup>2</sup> Jede Verwaltungseinheit, die über Verpflichtungskredite verfügt, führt Kontrollen über die eingegangenen Verpflichtungen, die Beanspruchung der Kredite, die erfolgten Zahlungen sowie die Aufteilung von Rahmenkrediten in die Einzelvorhaben.
 
@@ -625,7 +569,7 @@ erlässt:
 
 <sup>2</sup> Über den Zusatzkredit entscheidet im Kanton diejenige Instanz, die auf Grund der Kantonsverfassung (Art. 69, 90, 100 KV) für freie Ausgaben zuständig ist. Bei den Gemeinden regelt die Gemeindeordnung die Zuständigkeit.
 
-<sup>3</sup> Erträgt die Ausführung eines Vorhabens keinen Aufschub, so kann der Regierungsrat bzw. der Gemeinderat die Ermächtigung zur Inangriffnahme und Fortsetzung des Vorhabens schon vor der Bewilligung des erforderlichen Zusatzkredites erteilen. Die Erteilung einer solchen Bewilligung bedarf der Zustimmung der für das Finanzwesen zuständigen landrätlichen Kommission bzw. der Geschäftsprüfungskommission der Gemeinde.
+<sup>3</sup> Erträgt die Ausführung eines Vorhabens keinen Aufschub, so kann der Regierungsrat bzw. der Gemeinderat die Ermächtigung zur Inangriffnahme und Fortsetzung des Vorhabens schon vor der Bewilligung des erforderlichen Zusatzkredites erteilen.
 
 ### 3.3. Budget- und Nachtragskredit
 
@@ -651,9 +595,15 @@ erlässt:
 
 <sup>2</sup> Zeigt sich vor oder während der Beanspruchung des Budgetkredits, dass dieser nicht ausreicht, muss der Regierungsrat bzw. der Gemeinderat vor dem Eingehen neuer Verpflichtungen ohne Verzug einen Nachtragskredit anfordern. Vorbehalten bleibt die Kreditüberschreitung nach Artikel 52.
 
-<sup>3</sup> Beim Kanton entscheidet über Nachtragskredite bis 5'000 Franken das in der Sache zuständige Departement. Der Regierungsrat ist zuständig für alle Nachtragskredite bis 25'000 Franken sowie für Nachtragskredite, die 10 Prozent des ursprünglichen Budgetkreditbetrages, maximal aber 75'000 Franken, nicht übersteigen. Die übrigen Nachtragskredite fallen in die Zuständigkeit des Landrates. Sämtliche vom zuständigen Departement oder vom Regierungsrat gewährten Nachtragskredite sind dem Präsidenten oder der Präsidentin der für das Finanzwesen zuständigen landrätlichen Kommission zur Kenntnis zu bringen.
+<sup>3</sup> Beim Kanton entscheidet über Nachtragskredite:
+
+- a. bis 10'000 Franken: das zuständige Departement bzw. das Obergericht oder das Verwaltungsgericht;
+- b. bis 200'000 Franken: der Regierungsrat bzw. die Verwaltungskommission der Gerichte;
+- c. über 200'000 Franken: der Landrat.
 
 <sup>4</sup> Bei den Gemeinden regelt die Gemeindeordnung das Nachtragskreditverfahren.
+
+<sup>5</sup> Der Regierungsrat bzw. der Gemeinderat erstattet der Budgetbehörde über wesentliche Nachtragskredite anlässlich der Genehmigung der Jahresrechnung Bericht.
 
 #### Art. 52
 
@@ -683,11 +633,13 @@ erlässt:
 
 <sup>1</sup> Zuständige Behörde zum Abschluss von Programmvereinbarungen mit dem Bund im Sinne von Artikel 20a des eidgenössischen Subventionsgesetzes ist der Regierungsrat. Er kann diese Kompetenz für bestimmte Aufgabenbereiche durch Verordnung an das zuständige Departement delegieren.
 
-<sup>2</sup> Vorbehalten bleiben die verfassungsmässigen Ausgabenkompetenzen für frei bestimmbare Ausgaben.
+<sup>2</sup> …
 
-### 3.5. Spezialfinanzierungen
+### 3.5. Spezialfinanzierungen und Fonds
 
 #### Art. 55
+
+**Spezialfinanzierungen**
 
 <sup>1</sup> Spezialfinanzierungen liegen vor, wenn Mittel zur Erfüllung bestimmter öffentlicher Aufgaben zweckgebunden sind. Die Errichtung einer Spezialfinanzierung bedarf einer gesetzlichen Grundlage.
 
@@ -696,6 +648,14 @@ erlässt:
 <sup>3</sup> Der Spezialfinanzierung sind in der Regel im Sinne einer Vollkostenrechnung aller direkter und kalkulatorischer Aufwand und Ausgaben bzw. Ertrag und Einnahmen zu belasten bzw. gutzuschreiben.
 
 <sup>4</sup> Verpflichtungen und Guthaben für Spezialfinanzierungen sind zu verzinsen, sofern ein Gesetz nichts anderes bestimmt. Die landrätliche Verordnung regelt die Einzelheiten.
+
+#### Art. 55a
+
+**Fonds**
+
+<sup>1</sup> Fonds liegen vor, wenn Mittel zur Erfüllung bestimmter Aufgaben zweckgebunden sind. Die Errichtung eines Fonds bedarf einer gesetzlichen Grundlage oder zweckgebundener Zahlungen Dritter.
+
+<sup>2</sup> Fonds sind zu verzinsen, sofern die gesetzliche Grundlage nichts anderes bestimmt. Die landrätliche Verordnung regelt die Einzelheiten.
 
 ## 4. Rechnungslegung
 
@@ -714,6 +674,8 @@ erlässt:
 <sup>1</sup> Die Rechnungslegung richtet sich nach allgemein anerkannten Standards und den Vorschriften des Harmonisierten Rechnungslegungsmodells 2.
 
 <sup>2</sup> Es kann in einzelnen Punkten und in begründeten Ausnahmefällen vom Regelwerk abgewichen werden. Jede Abweichung ist im Anhang zur Jahresrechnung zu begründen.
+
+<sup>3</sup> Der Regierungsrat erlässt gestützt auf die gesetzlichen Grundlagen das Handbuch «Harmonisiertes Rechnungslegungsmodell 2». Es enthält ergänzende Ausführungsbestimmungen und den Musterkontoplan.
 
 #### Art. 58
 
@@ -750,7 +712,7 @@ erlässt:
 
 <sup>1</sup> Das Fremdkapital und das Finanzvermögen werden zum Nominalwert bewertet.
 
-<sup>2</sup> Anlagen im Finanzvermögen werden bei erstmaliger Bilanzierung zu Anschaffungskosten bilanziert. Entsteht kein Aufwand, wird zu Verkehrswerten zum Zeitpunkt des Zugangs bilanziert. Folgebewertungen erfolgen zum Verkehrswert am Bilanzierungsstichtag, wobei eine systematische Neubewertung der Finanzanlagen jährlich, der übrigen Anlagen periodisch, d. h. alle drei bis fünf Jahre stattfindet.
+<sup>2</sup> Anlagen im Finanzvermögen werden bei erstmaliger Bilanzierung zu Anschaffungskosten bilanziert. Entsteht kein Aufwand, wird zu Verkehrswerten zum Zeitpunkt des Zugangs bilanziert. Folgebewertungen erfolgen zum Verkehrswert am Bilanzierungsstichtag, wobei eine systematische Neubewertung der Finanzanlagen jährlich, der übrigen Anlagen periodisch, d. h. alle fünf bis acht Jahre stattfindet.
 
 <sup>3</sup> Ist bei einer Position des Finanzvermögens eine dauerhafte Wertminderung absehbar, wird deren bilanzierter Wert berichtigt.
 
@@ -760,9 +722,9 @@ erlässt:
 
 <sup>1</sup> Anlagen im Verwaltungsvermögen werden zu Anschaffungs- bzw. Herstellkosten bilanziert. Entstehen keine Kosten bzw. wurde kein Preis bezahlt, wird der Verkehrswert als Anschaffungskosten bilanziert.
 
-<sup>2</sup> Anlagen des Verwaltungsvermögens, die durch Nutzung einem Wertverzehr unterliegen, werden planmässig je Anlagekategorie nach der angenommenen Nutzungsdauer degressiv abgeschrieben. Es ist eine Anlagebuchhaltung zu führen. Die landrätliche Verordnung regelt das Nähere, insbesondere die Höhe der Abschreibungssätze.
+<sup>2</sup> Anlagen des Verwaltungsvermögens, die durch Nutzung einem Wertverzehr unterliegen, werden planmässig je Anlagekategorie nach der angenommenen Nutzungsdauer linear abgeschrieben. Es ist eine Anlagebuchhaltung zu führen. Die landrätliche Verordnung regelt das Nähere, insbesondere die Höhe der Abschreibungssätze.
 
-<sup>3</sup> Zusätzliche Abschreibungen sind zulässig. Die landrätliche Verordnung regelt die Voraussetzungen. Sie müssen als ausserordentlicher Aufwand gebucht werden. Voneinander abweichende finanzbuchhalterische und betriebswirtschaftliche Werte des Verwaltungsvermögens sind auszuweisen.
+<sup>3</sup> …
 
 <sup>4</sup> Ist bei einer Position des Verwaltungsvermögens eine dauerhafte Wertminderung absehbar, wird deren bilanzierter Wert berichtigt.
 
@@ -772,7 +734,10 @@ erlässt:
 
 **Konsolidierungskreis**
 
-<sup>1</sup> Zum Konsolidierungskreis gehören die Institutionen nach Artikel 2 Absatz 5 Buchstaben a und b.
+<sup>1</sup> Zum Konsolidierungskreis gehören die folgenden Institutionen:
+
+- a. beim Kanton: Landsgemeinde, Landrat, Regierungsrat, gerichtliche Behörden, kantonale Kommissionen, kantonale Verwaltung und unselbstständige Anstalten des Kantons sowie Verwaltung der Rechtspflege;
+- b. bei den Gemeinden: Gemeindeversammlung, Gemeindeparlamente, Gemeinderat, Gemeindekommissionen, Gemeindeverwaltungen und unselbstständige Anstalten der Gemeinden.
 
 <sup>2</sup> Juristische Personen des öffentlichen Rechts sowie weitere Behörden und Organisationen, die mindestens eines der folgenden Merkmale aufweisen, werden konsolidiert oder im Beteiligungs- und Gewährleistungsspiegel im Anhang der Jahresrechnung aufgeführt:
 
@@ -788,9 +753,9 @@ erlässt:
 
 **Konsolidierungsmethode**
 
-<sup>1</sup> Die in Artikel 2 Absatz 5 genannten Institutionen werden nach der Methode der Vollkonsolidierung in die Jahresrechnung integriert.
+<sup>1</sup> Die in Artikel 62 Absatz 1 genannten Institutionen werden nach der Methode der Vollkonsolidierung in die Jahresrechnung integriert.
 
-<sup>2</sup> Die in Artikel 62 Absatz 2 genannten Institutionen werden nach der Methode der Vollkonsolidierung in die Jahresrechnung integriert, falls eine Konsolidierung vorgenommen wird.
+<sup>2</sup> Die in Artikel 62 Absatz 2 genannten Institutionen werden nach einer anerkannten Methode in die Jahresrechnung konsolidiert, falls eine Konsolidierung vorgenommen wird.
 
 ## 5. Finanzielle Führung auf Verwaltungsebene
 
@@ -878,11 +843,11 @@ erlässt:
 
 **Kosten- und Leistungsrechnung**
 
-<sup>1</sup> Die Verwaltungseinheiten führen eine auf ihre Bedürfnisse ausgerichtete Kosten- und Leistungsrechnung. Für Verwaltungseinheiten mit Leistungsauftrag und Globalbudget ist die Führung einer Kosten- und Leistungsrechnung nach Produktgruppen obligatorisch.
+<sup>1</sup> Die Verwaltungseinheiten können eine auf ihre Bedürfnisse ausgerichtete Kosten- und Leistungsrechnung führen. Für Verwaltungseinheiten mit Leistungsauftrag und Globalbudget ist die Führung einer Kosten- und Leistungsrechnung nach Produktgruppen obligatorisch.
 
 <sup>2</sup> Die Kosten- und Leistungsrechnung unterstützt die Verwaltungseinheiten bei der Betriebsführung und liefert Grundlagen für die Erarbeitung und die Beurteilung von Budget und Rechnungslegung.
 
-<sup>3</sup> Der Regierungsrat bzw. der Gemeinderat regelt das Nähere.
+<sup>3</sup> Der Regierungsrat bzw. der Gemeinderat regelt bei Bedarf das Nähere.
 
 #### Art. 73
 
@@ -940,13 +905,13 @@ erlässt:
 
 **Regierungsrat und Gemeinderat**
 
-<sup>1</sup> Dem Regierungsrat bzw. dem Gemeinderat obliegt die Aufsicht über das Haushaltwesen. Die Aufsichtsbehörde ist insbesondere zuständig für
+<sup>1</sup> Dem Regierungsrat bzw. dem Gemeinderat obliegt die Aufsicht über das Haushaltwesen. Die Aufsichtsbehörde ist insbesondere zuständig für:
 
 - a. grundsätzliche Vorgaben über die Anlage des Finanzvermögens; vorbehalten bleiben abweichende verfassungsmässige oder gesetzliche Bestimmungen;
 - b. die Zweckänderung von Verwaltungsvermögen, sofern diese keine Ausgabe zur Folge hat;
 - c. die Umwandlung von nicht mehr benötigtem Verwaltungsvermögen in Finanzvermögen; vorbehalten bleibt die Entwidmung durch Aufhebung eines Erlasses im Kompetenzbereich einer gesetzgebenden Behörde;
 - d. den Entwurf des Budgets, der Verpflichtungskredite, der Nachtrags- und Zusatzkredite sowie der Jahresrechnung;
-- e. den Entwurf des Finanz- und Aufgabenplans;
+- e. den Integrierten Aufgaben- und Finanzplan;
 - f. die Bewilligung von Kreditüberschreitungen;
 - g. die Bewilligung von Kreditübertragungen;
 - h. die Bewilligung separater Buchführung für bedeutende Verwaltungseinheiten;
@@ -975,7 +940,7 @@ erlässt:
 
 **Verwaltungseinheiten**
 
-<sup>1</sup> Die Einheiten der kantonalen Verwaltung, der Gerichtsverwaltung und der kommunalen Verwaltung sind verantwortlich für die sorgfältige, wirtschaftliche und sparsame Verwendung der ihnen anvertrauten Kredite und Vermögenswerte, für die Genauigkeit und Vollständigkeit ihres Finanz- und Aufgabenplans, ihres Budgets sowie ihrer Abrechnungen sowie für die Geltendmachung finanzieller Ansprüche gegenüber Dritten.
+<sup>1</sup> Die Einheiten der kantonalen Verwaltung, der Verwaltung der Rechtspflege und der kommunalen Verwaltung sind verantwortlich für die sorgfältige, wirtschaftliche und sparsame Verwendung der ihnen anvertrauten Kredite und Vermögenswerte, für die Genauigkeit und Vollständigkeit ihres Integrierten Aufgaben- und Finanzplans, ihres Budgets sowie ihrer Abrechnungen sowie für die Geltendmachung finanzieller Ansprüche gegenüber Dritten.
 
 <sup>2</sup> Sie dürfen nur im Rahmen bewilligter Kredite Verpflichtungen eingehen und Zahlungen leisten. Sie führen dazu die notwendigen Kontrollen und stellen Antrag über Nachtrags- und Zusatzkredite, Kreditübertragungen und Kreditüberschreitungen.
 
@@ -1140,6 +1105,18 @@ erlässt:
 <sup>1</sup> Mit dem Inkrafttreten des Finanzhaushaltgesetzes wird eine Neubewertung des Finanzvermögens, der Rückstellungen und der Rechnungsabgrenzungsposten vorgenommen.
 
 <sup>2</sup> Aufwertungsgewinne werden in der Neubewertungsreserve Finanzvermögen des Eigenkapitals passiviert. Diese ist in der Regel zweckgebunden für den Ausgleich allfälliger zukünftiger Wertberichtigungen auf Positionen des Finanzvermögens.
+
+#### Art. 98a
+
+**Übergangsbestimmung zur Änderung vom 1. Mai 2022**
+
+<sup>1</sup> Die Aufwertungsreserve Verwaltungsvermögen, die Neubewertungsreserve Finanzvermögen und die Steuerreserven werden per 1. Januar 2023 zugunsten der finanzpolitischen Reserve aufgelöst.
+
+<sup>2</sup> Die kumulierten zusätzlichen Abschreibungen werden per 1. Januar 2023 mit dem Buchwert der Anlagen des Verwaltungsvermögens verrechnet.
+
+<sup>3</sup> Die Anlagen des Verwaltungsvermögens werden mit Inkrafttreten der Änderung von Artikel 61 Absatz 2 auf ihrem Buchwert über die restliche Nutzungsdauer linear abgeschrieben.
+
+<sup>4</sup> Lässt sich bei Anlagen im Verwaltungsvermögen die restliche Nutzungsdauer nicht mit vertretbarem Aufwand ermitteln, werden diese auf ihrem Buchwert über acht bis sechzehn Jahre linear abgeschrieben. Gilt für eine Anlagekategorie eine kürzere Nutzungsdauer, gilt diese als Höchstwert.
 
 #### Art. 99
 
