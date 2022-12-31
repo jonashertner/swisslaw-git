@@ -4,13 +4,13 @@ number: "341.11"
 title: "Ordonnance sur l'exécution judiciaire"
 short: OEJ
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-24
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-07
 adopted: 2018-08-22
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2221/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2771/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2221/pdf_file"
 
 (OEJ)
 
-du 22.08.2018 (état au 01.04.2021)
+du 22.08.2018 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -571,7 +571,12 @@ arrête:
 
 **Principes**
 
-<sup>1</sup> L'établissement d'exécution gère un compte libre, un compte d'affectation et un compte bloqué au nom de chaque personne détenue.
+<sup>1</sup> L'établissement d'exécution gère au nom de chaque personne détenue
+
+- a un compte libre,
+- b un compte d'affectation (compte bloqué 1),
+- c un compte bloqué (compte bloqué 2),
+- d au besoin, un compte de réparation (compte bloqué 3).
 
 <sup>2</sup> Il établit en règle générale un budget conjointement avec la personne détenue en tenant compte des exigences de la législation sur l'aide sociale.
 
@@ -596,7 +601,7 @@ arrête:
 
 #### Art. 46
 
-**Compte d'affectation**
+**Compte d'affectation (compte bloqué 1)**
 
 <sup>1</sup> Le compte d'affectation sert à couvrir les dépenses personnelles.
 
@@ -610,9 +615,14 @@ arrête:
 
 #### Art. 47
 
-**Compte bloqué**
+**Compte bloqué (compte bloqué 2)**
 
 <sup>1</sup> Le compte bloqué sert à la constitution d'une réserve pour la période qui suit la libération.
+
+<sup>2</sup> La direction de l'établissement d'exécution peut autoriser des prélèvements sur le compte bloqué à la demande de la personne détenue, si les soldes du compte libre et du compte d'affectation sont insuffisants et
+
+- a que les prélèvements ont un lien direct avec la préparation à la libération ou
+- b qu'au moment de sa demande, la personne détenue n'a pas de perspective réaliste d'allégement dans l'exécution et que le solde du compte bloqué après prélèvement correspond au moins à la franchise sur la fortune selon les prescriptions de la législation sur l'aide sociale.
 
 #### Art. 48
 
@@ -688,7 +698,11 @@ arrête:
 
 <sup>2</sup> Le montant de la rémunération du travail dans les établissements d'exécution est déterminé sur la base du tarif moyen fixé périodiquement par la conférence du Concordat de la Suisse du Nord-Ouest et de la Suisse centrale sur l'exécution des peines et mesures.
 
-<sup>3</sup> Par mois d'exécution, 50 francs sont prélevés sur la rémunération et versés sur le compte bloqué; le reste est versé sur le compte d'affectation et sur le compte libre, à hauteur d'au moins 20 pour cent sur le compte d'affectation et d'au moins 60 pour cent sur le compte libre.
+<sup>3</sup> Par mois d'exécution, la rémunération est répartie comme suit:
+
+- a au moins 50 et au plus 75 pour cent sur le compte libre,
+- b au moins 15 et au plus 40 pour cent sur le compte d'affectation,
+- c au moins 10 pour cent sur le compte bloqué.
 
 #### Art. 55
 
@@ -704,7 +718,7 @@ arrête:
 
 <sup>1</sup> Pendant les heures de travail ordinaires, la personne détenue a droit à l'intégralité de la rémunération en cas de visite officielle, de comparution devant un tribunal, de séance de thérapie, de visite médicale, de formation ou de perfectionnement et de visite d'un avocat ou d'une avocate inscrite au registre.
 
-<sup>2</sup> Elle a droit à une partie de la rémunération correspondant au moins à la moitié du tarif moyen en cas de maladie, d'accident, d'incapacité de travail non fautive ou de manque de possibilités de travailler.
+<sup>2</sup> Elle a droit à une partie de la rémunération correspondant au moins à la moitié du tarif moyen en cas de maladie (à partir du troisième jour), d'accident, d'incapacité de travail non fautive ou de manque de possibilités de travailler.
 
 <sup>3</sup> Elle n'a pas droit à la rémunération en cas de refus de travailler, d'arrêts, de sortie et de congé, de visite privée, d'évasion ou d'incapacité de travail fautive, ni pendant les jours fériés officiels.
 
@@ -1779,6 +1793,8 @@ arrête:
 
 <sup>3</sup> Elle peut, sur demande de la personne détenue et compte tenu de sa situation financière, la dispenser totalement ou partiellement de participer aux frais.
 
+<sup>4</sup> Les alinéas 1 à 3 s'appliquent par analogie à l'occupation externe pendant la phase d'exécution ordinaire, pour autant qu'un revenu comparable soit réalisé.
+
 #### Art. 148
 
 **Semi-détention**
@@ -1828,6 +1844,17 @@ arrête:
 - a le service compétent en vertu de la législation sur les étrangers et l'asile ou de la législation sur l'aide sociale, pour les personnes du domaine de l'asile,
 - b l'Office de l'exécution judiciaire, pour toutes les autres personnes.
 
+#### Art. 151a
+
+**Exécution par substitution et cession de droits au remboursement**
+
+<sup>1</sup> L'établissement d'exécution peut déposer une demande en vue du versement de prestations de soutien auprès d'un organisme de prise en charge subsidiaire, même sans l'accord de la personne détenue,
+
+- a si un droit à des prestations de soutien est présumé et
+- b si la personne détenue refuse de collaborer.
+
+<sup>2</sup> La personne détenue peut être tenue de céder ses droits au remboursement de prestations médicales par la caisse-maladie à l'organisme de prise en charge compétent.
+
 #### Art. 152
 
 **Prise en charge subsidiaire des frais médicaux**
@@ -1835,6 +1862,12 @@ arrête:
 <sup>1</sup> Les frais de médecin, d'hôpital ou de clinique sont pris en charge à titre subsidiaire par l'Office de l'exécution judiciaire.
 
 <sup>2</sup> En cas de placement par une autorité d'un autre canton ou de la Confédération, l'Office de l'exécution judiciaire lui refacture les frais.
+
+#### Art. 152a
+
+**Participation de l'établissement d'exécution aux contributions à l'AVS**
+
+<sup>1</sup> L'établissement d'exécution participe à hauteur de 50 pour cent au moins aux contributions minimales dues à l'AVS par des personnes détenues exécutant une peine ou une mesure.
 
 ## 8 Dispositions finales
 

@@ -4,13 +4,13 @@ number: "341.11"
 title: Verordnung über den Justizvollzug
 short: "Justizvollzugsverordnung, JVV"
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-24
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-07
 adopted: 2018-08-22
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2221/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2771/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2221/pdf_file"
 
 (Justizvollzugsverordnung, JVV)
 
-vom 22.08.2018 (Stand 01.04.2021)
+vom 22.08.2018 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -571,7 +571,12 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Vollzugseinrichtung führt für jede eingewiesene Person ein Freikonto, ein Zweckkonto und ein Sperrkonto.
+<sup>1</sup> Die Vollzugseinrichtung führt für jede eingewiesene Person
+
+- a ein Freikonto,
+- b ein Zweckkonto (Sperrkonto 1),
+- c ein Sperrkonto (Sperrkonto 2),
+- d bei Bedarf ein Wiedergutmachungskonto (Sperrkonto 3).
 
 <sup>2</sup> Sie erstellt in der Regel zusammen mit der eingewiesenen Person ein Budget, wobei sie sich an den Vorgaben der Sozialhilfegesetzgebung orientiert.
 
@@ -596,7 +601,7 @@ beschliesst:
 
 #### Art. 46
 
-**Zweckkonto**
+**Zweckkonto (Sperrkonto 1)**
 
 <sup>1</sup> Das Zweckkonto dient der Deckung der persönlichen Auslagen.
 
@@ -610,9 +615,14 @@ beschliesst:
 
 #### Art. 47
 
-**Sperrkonto**
+**Sperrkonto (Sperrkonto 2)**
 
 <sup>1</sup> Das Sperrkonto dient der Bildung einer Rücklage für die Zeit nach der Entlassung.
+
+<sup>2</sup> Die Leitung der Vollzugseinrichtung kann Belastungen des Sperrkontos bei nicht ausreichenden Guthaben auf dem Freikonto und dem Zweckkonto auf Antrag der eingewiesenen Person bewilligen, wenn
+
+- a ein direkter Zusammenhang zur Entlassungsvorbereitung besteht oder
+- b im Zeitpunkt des Antrags keine realistische Vollzugsöffnungsperspektive besteht und auf dem Sperrkonto ein Restbetrag mindestens in der Höhe des Vermögensfreibetrags nach den Vorgaben der Sozialhilfegesetzgebung verbleibt.
 
 #### Art. 48
 
@@ -688,7 +698,11 @@ beschliesst:
 
 <sup>2</sup> Die Höhe des Arbeitsentgelts in den Vollzugseinrichtungen bestimmt sich nach dem von der Konferenz des Strafvollzugskonkordats der Nordwest- und Innerschweiz periodisch festgelegten mittleren Ansatz.
 
-<sup>3</sup> Vom Arbeitsentgelt werden 50 Franken pro Vollzugsmonat auf dem Sperrkonto und der restliche Teil auf dem Zweckkonto und dem Freikonto gutgeschrieben, wobei mindestens 20 Prozent auf dem Zweckkonto und mindestens 60 Prozent auf dem Freikonto gutzuschreiben sind.
+<sup>3</sup> Vom Arbeitsentgelt werden pro Vollzugsmonat gutgeschrieben:
+
+- a mindestens 50 und höchstens 75 Prozent auf dem Freikonto,
+- b mindestens 15 und höchstens 40 Prozent auf dem Zweckkonto,
+- c mindestens 10 Prozent auf dem Sperrkonto.
 
 #### Art. 55
 
@@ -704,7 +718,7 @@ beschliesst:
 
 <sup>1</sup> Die eingewiesene Person hat vollen Anspruch auf das Arbeitsentgelt bei amtlichen Besuchen, Gerichtsterminen, Therapiesitzungen, Arztbesuchen, Aus- und Weiterbildungen sowie Besuchen von im Anwaltsregister registrierten Anwältinnen und Anwälten, die während den ordentlichen Arbeitszeiten stattfinden.
 
-<sup>2</sup> Sie hat Anspruch auf ein reduziertes Arbeitsentgelt, das mindestens der Hälfte des mittleren Ansatzes entspricht, bei Krankheit, Unfall, unverschuldeter Arbeitsunfähigkeit und fehlender Arbeitsmöglichkeit.
+<sup>2</sup> Sie hat Anspruch auf ein reduziertes Arbeitsentgelt, das mindestens der Hälfte des mittleren Ansatzes entspricht, bei Krankheit ab dem dritten Tag, Unfall, unverschuldeter Arbeitsunfähigkeit und fehlender Arbeitsmöglichkeit.
 
 <sup>3</sup> Sie hat keinen Anspruch auf Arbeitsentgelt bei Arbeitsverweigerung, Arrest, Ausgang und Urlaub, privaten Besuchen, einer Entweichung, verschuldeter Arbeitsunfähigkeit und an gesetzlichen Feiertagen.
 
@@ -1779,6 +1793,8 @@ beschliesst:
 
 <sup>3</sup> Sie können auf Antrag der eingewiesenen Person und unter Berücksichtigung der finanziellen Verhältnisse die Kostenbeteiligung an den Vollzugskosten ganz oder teilweise erlassen.
 
+<sup>4</sup> Die Absätze 1 bis 3 sind sinngemäss auf die externe Beschäftigung im Normalvollzug anwendbar, sofern ein vergleichbares Einkommen erzielt wird.
+
 #### Art. 148
 
 **Halbgefangenschaft**
@@ -1828,6 +1844,17 @@ beschliesst:
 - a von der gemäss Ausländer- und Asylgesetzgebung oder gemäss Sozialhilfegesetzgebung zuständigen Stelle bei Personen des Asylbereichs,
 - b vom AJV bei anderen Personen.
 
+#### Art. 151a
+
+**Ersatzvornahme und Abtretung von Rückforderungsansprüchen**
+
+<sup>1</sup> Die Vollzugseinrichtung kann einen Antrag auf Ausrichtung von Unterstützungsleistungen eines subsidiären Kostenträgers auch ohne Zustimmung der eingewiesenen Person stellen, wenn
+
+- a ein Anspruch auf Unterstützungsleistungen vermutet wird und
+- b die eingewiesene Person die Mitwirkung verweigert.
+
+<sup>2</sup> Die eingewiesene Person kann verpflichtet werden, ihre Rückforderungsansprüche für medizinische Leistungen durch die Krankenkasse an den zuständigen Kostenträger abzutreten.
+
 #### Art. 152
 
 **Subsidiäre Kostenträger der Behandlungskosten**
@@ -1835,6 +1862,12 @@ beschliesst:
 <sup>1</sup> Die Behandlungskosten von Ärztinnen und Ärzten, Spitälern oder Kliniken werden subsidiär vom AJV getragen.
 
 <sup>2</sup> Bei Einweisungen durch eine Behörde eines anderen Kantons oder des Bundes verrechnet das AJV die Kosten an diese weiter.
+
+#### Art. 152a
+
+**Beteiligung der Vollzugseinrichtung an den Beiträgen für die AHV**
+
+<sup>1</sup> Die Vollzugseinrichtung beteiligt sich mit mindestens 50 Prozent an den geschuldeten AHV-Mindestbeiträgen von eingewiesenen Personen im Straf- und Massnahmenvollzug.
 
 ## 8 Schlussbestimmungen
 
