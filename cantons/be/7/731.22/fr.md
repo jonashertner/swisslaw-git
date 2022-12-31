@@ -4,13 +4,13 @@ number: "731.22"
 title: Ordonnance sur l’organisation des marchés publics
 short: OOMP
 language: fr
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-21
+version: 2023-01-01
+valid_until: 2024-08-31
+version_adopted: 2022-11-16
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2676/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2737/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2676/pdf_file"
 
 (OOMP)
 
-du 05.11.2014 (état au 01.11.2022)
+du 05.11.2014 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -191,7 +191,7 @@ arrête:
 <sup>1</sup> Les compétences suivantes s'appliquent pour les achats centralisés, à moins que la CAC, avec le concours de la CCA, ou le Conseil-exécutif n'en dispose autrement:
 
 - a La CAC mène la procédure d'achat, conclut des contrats-cadres et fixe d'autres conditions générales de la commande de prestations.
-- b Les services demandeurs inscrivent les ressources financières dans leur budget et leur planification financière.
+- b Les services demandeurs inscrivent les ressources financières dans le budget et le plan intégré mission-financement.
 - c Les services demandeurs ou, selon les prescriptions relatives aux compétences en matière d'autorisation de dépenses, les services qui leur sont supérieurs autorisent les dépenses et commandent les différentes prestations. Ils supportent les risques correspondants.
 
 <sup>2</sup> Dans la mesure où elle est compétente, la CAC peut, avec le concours de la CCA, réimputer les coûts externes aux services demandeurs ou leur déléguer la planification et l'utilisation des ressources financières dans certains domaines partiels.

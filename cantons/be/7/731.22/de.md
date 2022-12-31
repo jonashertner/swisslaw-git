@@ -4,13 +4,13 @@ number: "731.22"
 title: Verordnung über die Organisation des öffentlichen Beschaffungswesens
 short: OÖBV
 language: de
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-21
+version: 2023-01-01
+valid_until: 2024-08-31
+version_adopted: 2022-11-16
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2676/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2737/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2676/pdf_file"
 
 (OÖBV)
 
-vom 05.11.2014 (Stand 01.11.2022)
+vom 05.11.2014 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -191,7 +191,7 @@ beschliesst:
 <sup>1</sup> Bei zentralen Beschaffungen gelten folgende Zuständigkeiten, soweit die ZBS unter Mitwirkung der KBK oder der Regierungsrat nichts anderes festlegt:
 
 - a Die ZBS führt das Beschaffungsverfahren durch, schliesst Rahmenverträge ab und legt weitere Rahmenbedingungen des Leistungsabrufs fest.
-- b Die Bedarfsstellen stellen die finanziellen Mittel im Voranschlag und Finanzplan ein.
+- b Die Bedarfsstellen stellen die finanziellen Mittel im Budget und im Aufgaben- und Finanzplan ein.
 - c Die Bedarfsstellen oder, gemäss den Vorschriften über die Ausgabenbefugnisse, ihre vorgesetzten Stellen bewilligen die Ausgaben und rufen die einzelnen Leistungen ab. Sie tragen die damit verbundenen Risiken.
 
 <sup>2</sup> Soweit die ZBS zuständig ist, kann sie unter Mitwirkung der KBK den Bedarfsstellen die externen Kosten weiter verrechnen oder ihnen die Planung und den Einsatz der finanziellen Mittel in Teilbereichen delegieren.
