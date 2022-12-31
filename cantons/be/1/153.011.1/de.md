@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Personalverordnung
 short: PV
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-23
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2586/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2754/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2586/pdf_file"
 
 (PV)
 
-vom 18.05.2005 (Stand 01.05.2022)
+vom 18.05.2005 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -82,7 +82,7 @@ beschliesst:
 
 <sup>1</sup> Die Grundsätze für die Beschäftigung und Integration werden durch den Regierungsrat festgelegt.
 
-<sup>2</sup> Für die Beschäftigung und Integration von Menschen mit einer Behinderung beantragt der Regierungsrat jeweils mit dem Voranschlag einen Kredit.
+<sup>2</sup> Für die Beschäftigung und Integration von Menschen mit einer Behinderung beantragt der Regierungsrat jeweils mit dem Budget einen Kredit.
 
 #### Art. 5
 
@@ -136,7 +136,7 @@ beschliesst:
 
 <sup>2</sup> Im Übrigen legen die Direktionen, die Staatskanzlei oder die von ihnen ermächtigten Organisationseinheiten den Ort, an dem die Arbeit tatsächlich geleistet wird, nach Bedarf fest.
 
-<sup>3</sup> Das Personalamt erlässt Richtlinien für die Telearbeit. Im Rahmen dieser Richtlinien regeln die Mitarbeiterinnen und Mitarbeiter und ihre Vorgesetzten die Einzelheiten der Arbeitsleistung in Telearbeit in einer schriftlichen Vereinbarung.
+<sup>3</sup> Das Personalamt erlässt Richtlinien für Homeoffice und mobiles Arbeiten. Im Rahmen dieser Richtlinien vereinbaren die Mitarbeiterinnen und Mitarbeiter und ihre Vorgesetzten die Einzelheiten der ortsunabhängigen Arbeitsleistung.
 
 #### Art. 8a
 
@@ -210,7 +210,7 @@ beschliesst:
 
 **Festlegung Stellenbestand**
 
-<sup>1</sup> Der Regierungsrat legt im Voranschlag die maximale Anzahl der Vollzeitstellen der Direktionen und der Staatskanzlei fest (maximaler Stellenbestand).
+<sup>1</sup> Der Regierungsrat legt im Budget die maximale Anzahl der Vollzeitstellen der Direktionen und der Staatskanzlei fest (maximaler Stellenbestand).
 
 <sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizleitung über die maximale Anzahl Vollzeitstellen.
 
@@ -255,7 +255,7 @@ beschliesst:
 
 <sup>4</sup> Verkürzt sich die Probezeit infolge Abwesenheit vom Arbeitsplatz, kann die Anstellungsbehörde die Probezeit entsprechend verlängern, höchstens jedoch um zwei Monate.
 
-<sup>5</sup> Wird die Probezeit verlängert oder das Arbeitsverhältnis während der Probezeit aufgelöst, ist dies dem Personalamt mitzuteilen.
+<sup>5</sup> …
 
 #### Art. 14
 
@@ -274,9 +274,9 @@ beschliesst:
 
 **Arbeitsvertrag**
 
-<sup>1</sup> Der Arbeitsvertrag bedarf zu seiner Gültigkeit der schriftlichen Form.
+<sup>1</sup> Der Arbeitsvertrag wird in schriftlicher oder in digitaler Form abgeschlossen.
 
-<sup>2</sup> Der Vertrag regelt mindestens die folgenden Punkte:
+<sup>2</sup> Er regelt mindestens die folgenden Punkte:
 
 - a Anstellungsbehörde,
 - b Art des Arbeitsverhältnisses,
@@ -288,6 +288,8 @@ beschliesst:
 - h Arbeitsort,
 - i …
 - k allfällige Einschränkungen der Niederlassungsfreiheit (z. B. Dienstwohnung).
+
+<sup>3</sup> Die Direktionen oder die Staatskanzlei können die Unterschriftsberechtigung für die Begründung oder Änderung der Arbeitsverhältnisse durch Verordnung an eine zentrale Organisationseinheit übertragen. Rechte und Pflichten aus dem Arbeitsverhältnis sowie Zuständigkeiten nach Artikel 209 bleiben von der Delegation unberührt.
 
 #### Art. 16
 
@@ -399,7 +401,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörde kann eine Mitarbeiterin oder einen Mitarbeiter bis zur Beendigung des Arbeitsverhältnisses freistellen, sobald
 
-- a die betroffene Person formell Kenntnis von der bevorstehenden Kündigung hat,
+- a die Kündigung der betroffenen Person eröffnet worden ist,
 - b eine Austrittsvereinbarung abgeschlossen ist oder
 - c die betroffene Person selbst gekündigt hat.
 
@@ -411,7 +413,7 @@ beschliesst:
 
 <sup>1</sup> Die freigestellte Mitarbeiterin oder der freigestellte Mitarbeiter ist befugt, eine neue Erwerbstätigkeit vor Ablauf der Freistellungsdauer aufzunehmen.
 
-<sup>2</sup> Ein während der Freistellung anderweitig erzieltes Erwerbseinkommen wird angerechnet. Die Anstellungsbehörde kann in Ausnahmefällen auf die Anrechnung verzichten.
+<sup>2</sup> Ein während der Freistellung anderweitig erzieltes Erwerbseinkommen wird angerechnet.
 
 ### 3.6 Einvernehmliche Auflösung des Arbeitsverhältnisses
 
@@ -440,10 +442,10 @@ beschliesst:
 
 <sup>1</sup> Die Austrittsvereinbarung regelt insbesondere
 
-- a die allfällige Verlängerung der ordentlichen Kündigungsfrist gemäss Artikel 25 Absatz 1 PG bis zu maximal einem Jahr sowie
+- a die allfällige Verlängerung der ordentlichen Kündigungsfrist gemäss Artikel 25 Absatz 1 PG bis zu maximal neun Monaten sowie
 - b den allfälligen Beitrag an die nachgewiesenen Kosten für die externe Unterstützung bei der beruflichen Neuorientierung im Umfang von maximal zwei Monatsgehältern.
 
-<sup>2</sup> Die Abgangsentschädigung im Rahmen von Austrittsvereinbarungen beträgt maximal 13 Monatsgehälter.
+<sup>2</sup> Die Abgangsentschädigung im Rahmen von Austrittsvereinbarungen beträgt maximal sechs Monatsgehälter.
 
 ### 3.6.2 Auflösung ohne Zusicherung von Leistungen nach Artikel 27a des PG
 
@@ -459,11 +461,15 @@ beschliesst:
 
 #### Art. 31
 
-**Gehaltsanspruch, Berechnungsregel**
+**Gehaltsanspruch, Berechnungsregeln**
 
 <sup>1</sup> Der Anspruch auf ein Gehalt entsteht mit dem Tag des Beginns des Arbeitsverhältnisses und erlischt mit dem Tag der Beendigung desselben. Vorbehalten bleiben die Bestimmungen über die Gehaltsfortzahlung für Familienangehörige (Art. 67 PG[^31-1]).
 
-<sup>2</sup> Der Teilwert des Monatsgehalts wird auf der Grundlage von 30 Kalendertagen, ein Tagesansatz auf der Grundlage von 22 Arbeitstagen ermittelt. Ein Stundenansatz wird auf der Grundlage von monatlich 182 Arbeitstunden berechnet.
+<sup>2</sup> Es gelten die folgenden Berechnungsregeln:
+
+- a Der Teilwert eines Monatsgehalts wird auf der Grundlage der effektiven Anzahl Kalendertage des jeweiligen Monats ermittelt.
+- b Ein Tagesansatz wird auf der Grundlage von 22 Arbeitstagen ermittelt.
+- c Ein Stundenansatz wird auf der Grundlage von monatlich 182 Arbeitsstunden berechnet.
 
 [^31-1]: BSG 153.01
 
@@ -556,7 +562,7 @@ beschliesst:
 
 <sup>4</sup> Das Anfangsgehalt der oder des Beauftragten für Datenschutz wird von der Direktion für Inneres und Justiz nach Rücksprache mit dem Präsidium der Geschäftsprüfungskommission nach den Grundsätzen von Artikel 39, 40 und 40a festgelegt. Bei Abweichung von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich.
 
-<sup>5</sup> Die Zuständigkeit zur Festlegung des Anfangsgehalts der Mitarbeiterinnen und Mitarbeiter der Universität, der Berner Fachhochschule und der Pädagogischen Hochschule richtet sich nach der besonderen Gesetzgebung. Bei Abweichung des Anfangsgehalts von den in Anhang 2 festgelegten Werten ist die Zustimmung des Personalamts erforderlich.
+<sup>5</sup> Die Zuständigkeit zur Festlegung des Anfangsgehalts der Mitarbeiterinnen und Mitarbeiter der Universität, der Berner Fachhochschule und der Pädagogischen Hochschule richtet sich nach der besonderen Gesetzgebung.
 
 <sup>6</sup> Das Anfangsgehalt von Reinigungspersonal gemäss Artikel 49 wird nach den Werten von Anhang 4 festgelegt. Bei Abweichung von diesen Werten ist die Zustimmung des Personalamts erforderlich.
 
@@ -578,9 +584,9 @@ beschliesst:
 
 <sup>2</sup> Bei der Einstufung von neu anzustellendem Personal ist auf die Einstufung der Mitarbeiterinnen und Mitarbeiter, die eine vergleichbare Funktion unter ähnlichen beruflichen und persönlichen Voraussetzungen erfüllen, Rücksicht zu nehmen.
 
-<sup>3</sup> Direkt dienliche Praxisjahre können mit bis zu vier Gehaltsstufen angerechnet werden. Dabei sind der Beschäftigungsgrad in früheren Stellen und die Vergleichbarkeit früherer Tätigkeiten mit der neuen Stelle sowie die Arbeitsmarktlage angemessen zu berücksichtigen. Eine weiter gehende Anrechnung von Gehaltsstufen ist im Einvernehmen mit dem Personalamt zulässig.
+<sup>3</sup> Berufserfahrung kann mit bis zu vier Gehaltsstufen für ein volles Jahr angerechnet werden. Dabei sind der Beschäftigungsgrad in früheren Stellen, die Vergleichbarkeit früherer Tätigkeiten mit der neuen Stelle und die Arbeitsmarktlage angemessen zu berücksichtigen. Berufserfahrung in früheren Stellen ab einem Beschäftigungsgrad von 50 Prozent wird vollumfänglich zu 100 Prozent angerechnet. Eine weitergehende Anrechnung von Gehaltsstufen ist im Einvernehmen mit dem Personalamt zulässig.
 
-<sup>4</sup> Berufliche oder ausserberufliche Tätigkeiten wie die Betreuungsarbeit oder die Ausübung eines öffentlichen Amts, die für die Ausübung der Funktion indirekt dienlich sind, können mit einer Gehaltsstufe für ein volles Jahr, höchstens aber mit 15 Gehaltsstufen, angerechnet werden.
+<sup>4</sup> Ausserberufliche Tätigkeiten wie die Ausübung eines öffentlichen Amts können mit einer Gehaltsstufe für ein volles Jahr angerechnet werden. Für Betreuungsarbeit wird eine Gehaltsstufe für ein volles Jahr angerechnet.
 
 <sup>5</sup> Für das gleiche Jahr dürfen Gehaltsstufen nicht mehrfach angerechnet werden.
 
@@ -592,7 +598,7 @@ beschliesst:
 
 **Anfangsgehalt in einer Einstiegsstufe**
 
-<sup>1</sup> Für Stellen im Sinn der nachfolgenden Absätze kommen Einstiegsstufen zur Anwendung. Es wird unter Vorbehalt von Artikel 41 jeweils festgelegt, welche Einstiegsstufe als Anfangsgehalt gilt.
+<sup>1</sup> Für Mitarbeiterinnen und Mitarbeiter, die direkt nach einer beruflichen Grundbildung in den Kantonsdienst eintreten, sowie für Mitarbeiterinnen und Mitarbeiter mit bis zu drei Jahren Berufserfahrung kommen Einstiegsstufen zur Anwendung.
 
 <sup>2</sup> Bei Stellen, für die keine Berufsausbildung, eine Kurzlehre oder eine Anlehre von weniger als drei Jahren erforderlich ist, wird das Anfangsgehalt in die 6. Einstiegsstufe der jeweiligen Gehaltsklasse festgelegt. Das Grundgehalt der Gehaltsklasse 1 darf nicht unterschritten werden.
 
@@ -618,7 +624,7 @@ beschliesst:
 <tr><td>23</td><td>6. Einstiegsstufe</td></tr>
 </table>
 
-<sup>6</sup> Die zur Ausübung der Stelle direkt oder indirekt dienlichen Praxisjahre werden ab dem jeweiligen Anfangsgehalt nach den Grundsätzen von Artikel 40 berücksichtigt.
+<sup>6</sup> Die zur Ausübung der Stelle dienliche Berufserfahrung wird ab dem jeweiligen Anfangsgehalt nach den Grundsätzen von Artikel 40 berücksichtigt. Artikel 41 bleibt vorbehalten.
 
 <sup>7</sup> Für alle Stellen mit Einreihungen in die Gehaltsklasse 24 oder höher sowie für alle Stellen mit direkter Verantwortung in der Personalführung gilt mindestens das Grundgehalt der zutreffenden Gehaltsklasse als Anfangsgehalt.
 
@@ -682,7 +688,7 @@ beschliesst:
 
 **Bemessungskriterien**
 
-<sup>1</sup> Die zu gewährenden Gehaltsstufen werden gestützt auf die Leistungs- und Verhaltensbeurteilung sowie unter Berücksichtigung der für den Gehaltsaufstieg verfügbaren Mittel festgesetzt.
+<sup>1</sup> Bei der Gewährung von Gehaltsstufen kann die Einstufung der Mitarbeiterin oder des Mitarbeiters im Vergleich zu den Einstufungen von Mitarbeiterinnen und Mitarbeitern mit ähnlichen Voraussetzungen berücksichtigt werden.
 
 <sup>2</sup> Die Bemessung von Gehaltsstufen darf nicht von der Gehaltsklasse, dem Beschäftigungsgrad, der Hierarchiestufe, dem Arbeitsort oder dem Geschlecht abhängig gemacht werden.
 
@@ -708,9 +714,7 @@ beschliesst:
 
 - a Staatsschreiberin oder Staatsschreiber,
 - b Vorsteherin oder Vorsteher der Finanzkontrolle,
-- c Verwaltungsdirektorin oder Verwaltungsdirektor der Universität,
-- d …
-- e Dozentinnen und Dozenten der Universität, der Berner Fachhochschule, der Pädagogischen Hochschule sowie der Technikerschulen Höhere Fachschule Holz Biel,
+- c–e …
 - f Mitglieder des Obergerichts und des Verwaltungsgerichts,
 - g hauptamtliche Richterinnen und Richter der Steuerrekurskommission,
 - h Generalstaatsanwältin oder Generalstaatsanwalt und deren Stellvertreterinnen und Stellvertreter,
@@ -735,13 +739,9 @@ beschliesst:
 
 **Reinigungspersonal**
 
-<sup>1</sup> Von der Leistungs- und Verhaltensbeurteilung ausgenommen ist das Reinigungspersonal, wenn
+<sup>1</sup> Von der Leistungs- und Verhaltensbeurteilung nach Artikel 163 ausgenommen ist das Reinigungspersonal.
 
-- a die Beschäftigung zeitlich auf weniger als ein Jahr befristet ist,
-- b monatlich in der Regel weniger als 50 Stunden gearbeitet wird,
-- c–d …
-
-<sup>2</sup> Für diese Personalkategorie können bis zu drei Gehaltsstufen pro Jahr bis zur Gehaltsstufe 34 angerechnet werden. Artikel 47 Absätze 2 und 3 gilt sinngemäss.
+<sup>2</sup> Für diese Personalkategorie können bis zu drei Gehaltsstufen pro Jahr bis zur Gehaltsstufe 45 angerechnet werden. Artikel 47 Absätze 2 und 3 gilt sinngemäss.
 
 #### Art. 50
 
@@ -861,13 +861,15 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Anlässlich einer Geburt wird dem weiblichen Personal ein Urlaub von 16 Wochen gewährt. Das Gehalt wird zu 100 Prozent des durchschnittlichen Beschäftigungsgrads der fünf Monate vor Beginn des Anspruchs ausgerichtet.
+<sup>1</sup> Anlässlich einer Geburt wird dem weiblichen Personal ein bezahlter Mutterschaftsurlaub von 16 Wochen gewährt. Das Gehalt wird zu 100 Prozent des durchschnittlichen Beschäftigungsgrads der fünf Monate vor Beginn des Anspruchs ausgerichtet.
+
+<sup>1a</sup> Verlängert sich der Anspruch auf Mutterschaftsentschädigung nach Artikel 16c des Bundesgesetzes vom 25. September 1952 über den Erwerbsersatz (Erwerbsersatzgesetz, EOG)[^60-1] aufgrund eines Spitalaufenthalts des Neugeborenen, verlängert sich der Anspruch auf bezahlten Mutterschaftsurlaub nach Absatz 1 entsprechend.
 
 <sup>2</sup> Der Anspruch nach Absatz 1 entsteht auch, wenn das Kind nicht lebensfähig geboren wird, die Schwangerschaft aber mindestens 23 Wochen gedauert hat.
 
-<sup>3</sup> Der Mutterschaftsurlaub beginnt spätestens am Tag der Geburt und frühestens zwei Wochen vor dem mutmasslichen Geburtstermin. Krankheit und Unfall unterbrechen den Mutterschaftsurlaub nicht.
+<sup>3</sup> Der Mutterschaftsurlaub beginnt spätestens am Tag der Geburt und frühestens zwei Wochen vor dem mutmasslichen Geburtstermin. Krankheit, Unfall und unbezahlter Urlaub unterbrechen den Mutterschaftsurlaub nicht.
 
-<sup>4</sup> Muss ein Neugeborenes aus gesundheitlichen Gründen nach der Geburt im Spital bleiben oder muss es wieder ins Spital gebracht werden, so kann die Mutter den Beginn des Mutterschaftsurlaubs bis zur Spitalentlassung des Kindes aufschieben. Der Aufschub kann nur erfolgen, wenn ein Neugeborenes mindestens drei Wochen im Spital bleiben muss.
+<sup>4</sup> …
 
 <sup>5</sup> Wird die Arbeit während der Urlaubsdauer wieder aufgenommen, verfällt der Mutterschaftsurlaub, soweit er noch nicht bezogen ist.
 
@@ -875,15 +877,21 @@ beschliesst:
 
 <sup>7</sup> Die bundesrechtliche Mutterschaftsentschädigung fällt an den Kanton. Wird das entsprechende Formular nicht abgegeben, wird das Gehalt um die dem Kanton entgehende Mutterschaftsentschädigung gekürzt.
 
+[^60-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
+
 #### Art. 60a
 
 **Vaterschafts- und Adoptionsurlaub**
 
 <sup>1</sup> Männliches Personal hat anlässlich der Geburt eines eigenen Kindes Anspruch auf bezahlten Vaterschaftsurlaub von zehn Arbeitstagen.
 
+<sup>1a</sup> Der Anspruch nach Absatz 1 entsteht auch, wenn das Kind nicht lebensfähig geboren wird, die Schwangerschaft aber mindestens 23 Wochen gedauert hat.
+
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter haben Anspruch auf einen bezahlten Urlaub von zehn Arbeitstagen, wenn sie ein Kind adoptieren.
 
 <sup>3</sup> Der Vaterschafts- und Adoptionsurlaub ist zusammenhängend oder gestaffelt innert sechs Monaten nach erfolgter Geburt oder bewilligter Aufnahme des Kindes zur späteren Adoption zu beziehen. Nicht bezogener Vaterschafts- oder Adoptionsurlaub verfällt entschädigungslos.
+
+<sup>4</sup> Die bundesrechtliche Vaterschaftsentschädigung fällt an den Kanton. Wird das entsprechende Formular nicht abgegeben, wird das Gehalt um die dem Kanton entgehende Vaterschaftsentschädigung gekürzt.
 
 #### Art. 60b
 
@@ -1347,7 +1355,7 @@ beschliesst:
 
 <sup>2–3</sup> …
 
-<sup>4</sup> Fallen durch Gesetz öffentliche Aufgaben an den Kanton, ist die in der entsprechenden Funktion geleistete Dienstzeit ebenfalls anzurechnen.
+<sup>4</sup> Fallen öffentliche Aufgaben an den Kanton, entscheiden die Direktionen und die Staatskanzlei über die Anrechnung der in der entsprechenden Funktion geleisteten Dienstzeit.
 
 <sup>5</sup> …
 
@@ -1457,9 +1465,9 @@ beschliesst:
 
 #### Art. 110
 
-**Berechnungsregel**
+**Berechnungsregeln**
 
-<sup>1</sup> Entschädigungen werden für die Fahrkosten vom Arbeitsort nach dem Ziel der Dienstreise ausgerichtet. Fällt das Ziel einer Dienstreise mit dem Wohnort der Mitarbeiterinnen und Mitarbeiter zusammen oder liegt es näher am Wohnort als der Arbeitsort, werden nur zusätzlich entstandene Fahrkosten erstattet.
+<sup>1</sup> Für die Fahrt vom Arbeitsort zum Zielort der Dienstreise (Einsatzort) werden Entschädigungen ausgerichtet. Ist die Strecke zwischen Wohnort und Einsatzort kürzer als die Strecke zwischen Arbeitsort und Einsatzort, wird nur die kürzere entschädigt. Befindet sich der Einsatzort auf der Strecke zwischen Wohnort und Arbeitsort, werden nur zusätzliche Fahrkosten erstattet.
 
 #### Art. 111
 
@@ -1499,15 +1507,17 @@ beschliesst:
 
 <sup>4</sup> Anträge auf ganze oder teilweise Übernahme des Schadens sind dem Personalamt auf dem Dienstweg einzureichen.
 
-### 5.3.4 Infrastrukturkosten
+### 5.3.4 Infrastruktur
 
 #### Art. 114a
 
-<sup>1</sup> Benutzen Mitarbeiterinnen und Mitarbeiter aufgrund zwingender dienstlicher Bedürfnisse ihre private Infrastruktur, namentlich eigene Büroräumlichkeiten oder Informatik- und Telekommunikationsmittel, kann ihnen dafür eine Entschädigung ausgerichtet werden.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter nutzen für die Erfüllung ihrer Aufgaben nur die Informatik- und Telekommunikationsmittel, die ihnen vom Kanton zur Verfügung gestellt werden oder von den zuständigen Fachbehörden gemäss der Verordnung vom 24. Januar 2018 über die Informations- und Telekommunikationstechnik der Kantonsverwaltung (ICTV)[^114a-1] für die dienstliche Nutzung zugelassen sind.
 
-<sup>2</sup> Für die Benutzung von kantonaler Infrastruktur für private Zwecke ist eine kostendeckende Benutzungsgebühr zu leisten (Art. 53 Abs. 3 PG[^114a-1]).
+<sup>2</sup> Benutzen sie aufgrund zwingender dienstlicher Bedürfnisse ihre private Infrastruktur, namentlich eigene Büroräumlichkeiten oder Informatik- und Telekommunikationsmittel, kann ihnen dafür eine Entschädigung ausgerichtet werden.
 
-[^114a-1]: BSG 153.01
+<sup>3</sup> Für die Benutzung von kantonaler Infrastruktur für private Zwecke ist eine kostendeckende Benutzungsgebühr zu leisten (Art. 53 Abs. 3 PG).
+
+[^114a-1]: BSG [152.042](https://www.belex.sites.be.ch/data/152.042/de)
 
 ### 5.3.5 Besondere Spesenregelungen
 
@@ -1541,16 +1551,17 @@ beschliesst:
 
 **Vergütung**
 
-<sup>1</sup> Die Zeitgutschrift für Nachtarbeit wird für tatsächlich geleistete Arbeitseinsätze zwischen 20.00 und 06.00 Uhr im Umfang von 20 Prozent gewährt. Sie gilt für folgende Personalkategorien in den Gehaltsklassen 1 bis 18:
+<sup>1</sup> Die Zeitgutschrift für Nachtarbeit wird für angeordnete, tatsächlich geleistete Arbeitseinsätze zwischen 20.00 und 06.00 Uhr im Umfang von 20 Prozent gewährt. Sie gilt für folgende Personalkategorien in den Gehaltsklassen 1 bis 23:
 
 - a Pflegepersonal im Amt für Justizvollzug,
-- b Betreuungspersonal und Mitarbeiterinnen und Mitarbeiter im Sicherheitsdienst im Amt für Justizvollzug,
-- c Mitarbeiterinnen und Mitarbeiter im Strassenunterhalt im Tiefbauamt,
+- b Betreuungspersonal sowie Mitarbeiterinnen und Mitarbeiter im Sicherheitsdienst im Amt für Justizvollzug,
+- c Mitarbeiterinnen und Mitarbeiter im betrieblichen Strassenunterhalt im Tiefbauamt,
 - d Hauswartinnen und Hauswarte,
 - e Mitarbeiterinnen und Mitarbeiter der Wildhut,
-- f Betreuungspersonal sowie Mitarbeiterinnen und Mitarbeiter der kantonalen pädagogischen und sozialpädagogischen Institutionen.
+- f Betreuungspersonal sowie Mitarbeiterinnen und Mitarbeiter der kantonalen besonderen Volksschulen und Einrichtungen für Kinder mit besonderem Förder- und Schutzbedarf,
+- g Mitarbeiterinnen und Mitarbeiter der Kantonspolizei ohne Polizeistatus, aber mit operativen polizeilichen Aufgaben.
 
-<sup>2</sup> Mitarbeiterinnen und Mitarbeiter mit Polizeistatus in den Gehaltsklassen 1 bis 18 erhalten eine Zeitgutschrift von 16 Prozent für Einsätze zwischen 20.00 und 06.00 Uhr.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter der Kantonspolizei mit Polizeistatus in den Gehaltsklassen 1 bis 23 erhalten eine Zeitgutschrift von 16 Prozent für Einsätze zwischen 20.00 und 06.00 Uhr.
 
 <sup>3</sup> Die Barabgeltung von Zeitgutschriften ist unzulässig.
 
@@ -1572,7 +1583,7 @@ beschliesst:
 
 **Kostenersatz**
 
-<sup>1</sup> Gesuche um Bevorschussung oder Ersatz von Gerichts- und Anwaltskosten gemäss Artikel 51 PG sind bei der zuständigen Direktion oder der Staatskanzlei einzureichen. Diese entscheidet nach Einholen einer Stellungnahme des Personalamts über das Gesuch und richtet allfällige Leistungen aus.
+<sup>1</sup> Gesuche um Bevorschussung oder Ersatz von Gerichts- und Anwaltskosten gemäss Artikel 51 PG sind bei der zuständigen Direktion, der Staatskanzlei oder den von ihnen ermächtigten Organisationseinheiten einzureichen. Diese entscheiden über das Gesuch und richten allfällige Leistungen aus.
 
 ### 5.7 Abgangsentschädigung
 
@@ -1678,11 +1689,9 @@ beschliesst:
 
 **Jahresarbeitszeit**
 
-<sup>1</sup> In der Kantonsverwaltung gilt grundsätzlich das Arbeitszeitmodell der Jahresarbeitszeit.
+<sup>1</sup> In der Kantonsverwaltung gilt grundsätzlich das Arbeitszeitmodell der Jahresarbeitszeit. Vorbehalten bleiben die Bestimmungen über die Vertrauensarbeitszeit nach den Artikeln 136d bis 136f.
 
-<sup>2</sup> Wenn der Auftrag der Dienststelle und die Erfüllung der gesetzlichen Aufgaben dies erfordern oder wenn es die betrieblichen Verhältnisse erlauben, können die Direktionen, die Staatskanzlei sowie die von ihnen ermächtigten Organisationseinheiten andere Arbeitszeitmodelle für anwendbar erklären. Die Interessen der Mitarbeiterinnen und Mitarbeiter sind dabei angemessen zu berücksichtigen.
-
-<sup>3</sup> Der Regierungsrat erlässt ein Reglement für das Arbeitszeitmodell der Jahresarbeitszeit.
+<sup>2–3</sup> …
 
 #### Art. 136b
 
@@ -1690,11 +1699,13 @@ beschliesst:
 
 <sup>1</sup> Am Ende einer einjährigen Abrechnungsperiode darf ein Saldo von höchstens 100 Plus- oder Minusstunden auf die neue Abrechnungsperiode übertragen werden.
 
-<sup>2</sup> Wird auf Ende eines Kalenderjahres der festgelegte Höchstsaldo von 100 Plusstunden überschritten, erfolgt eine Kompensation in Geld bis auf einen Restsaldo von 50 Plusstunden, sofern ein Antrag zur Auszahlung durch das Amt gestellt wird und das betreffende Mitglied des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber, die oder der Vorsitzende der Justizleitung, die Generalsekretärin oder der Generalsekretär des Grossen Rates, die oder der Beauftragte für Datenschutz, die Vorsteherin oder der Vorsteher der Finanzkontrolle, die Universitätsleitung, die Rektorin oder der Rektor der Berner Fachhochschule beziehungsweise die Rektorin oder der Rektor der Pädagogischen Hochschule der Auszahlung zustimmt. Wird die Zustimmung verweigert, verfallen die den zulässigen Höchstsaldo übersteigenden Plusstunden entschädigungslos.
+<sup>2</sup> Wird auf Ende eines Kalenderjahres der festgelegte Höchstsaldo von 100 Plusstunden überschritten, erfolgt eine Kompensation in Geld bis auf einen Restsaldo von 50 Plusstunden, sofern ein Antrag zur Auszahlung durch das Amt gestellt wird und das betreffende Mitglied des Regierungsrates, die Staatsschreiberin oder der Staatsschreiber, die oder der Vorsitzende der Justizleitung, die Generalsekretärin oder der Generalsekretär des Grossen Rates, die oder der Beauftragte für Datenschutz, die Vorsteherin oder der Vorsteher der Finanzkontrolle, die Rektorin oder der Rektor der Universität, die Rektorin oder der Rektor der Berner Fachhochschule beziehungsweise die Rektorin oder der Rektor der Pädagogischen Hochschule der Auszahlung zustimmt. Wird die Zustimmung verweigert, verfallen die den zulässigen Höchstsaldo übersteigenden Plusstunden entschädigungslos.
 
 <sup>3</sup> Statt einer Kompensation in Geld kann unter denselben Bedingungen wie in Absatz 2 ein Übertrag des Zeitguthabens auf das Folgejahr erfolgen. Dafür muss zwingend eine Abbauvereinbarung für die den Höchstsaldo überschreitenden Stunden vorliegen.
 
-<sup>4</sup> Überschreitet der Saldo am Ende einer Abrechnungsperiode die festgelegte Höchstzahl an Minusstunden, kann im Einverständnis zwischen Vorgesetzten und Mitarbeiterinnen und Mitarbeitern in Form eines Gehaltsabzugs verrechnet werden.
+<sup>4</sup> Überschreitet der Saldo am Ende einer Abrechnungsperiode die festgelegte Höchstzahl an Minusstunden nach Absatz 1, können die den Saldo überschreitenden Minusstunden im Einverständnis zwischen Vorgesetzten und Mitarbeiterinnen und Mitarbeitern in Form eines Gehaltsabzugs verrechnet werden.
+
+<sup>5</sup> Findet keine Verrechnung der Minusstunden nach Absatz 4 statt, ist zwingend zu vereinbaren, wann die den Saldo überschreitenden Minusstunden im Folgejahr geleistet werden.
 
 #### Art. 136c
 
@@ -1830,7 +1841,7 @@ beschliesst:
 
 <sup>2</sup> Bei Militärdienst, Zivilschutzdienst und Zivildienst wird für die Ermittlung des Umfangs der Ferienkürzung nach Absatz 1 nur auf die Arbeitsabwesenheit abgestellt, deren Dauer einen Monat übersteigt.
 
-<sup>3</sup> Bezahlter Mutterschaftsurlaub, Arbeitsverhinderung wegen eines dienstlich erlittenen Unfalls und Berufskrankheit sind für die Kürzung nicht anzurechnen.
+<sup>3</sup> Bezahlter Mutterschaftsurlaub nach Artikel 60, bezahlter Vaterschafts- und Adoptionsurlaub nach Artikel 60a, bezahlter Betreuungsurlaub nach Artikel 156a, Arbeitsverhinderung wegen eines dienstlich erlittenen Unfalls und Berufskrankheit sind für die Kürzung nicht anzurechnen.
 
 <sup>4</sup> …
 
@@ -1858,9 +1869,12 @@ beschliesst:
 - b Ferienguthaben oder
 - c Langzeitkontoguthaben.
 
-<sup>2</sup> In jedem Kalenderjahr sind mindestens 20 freie Tage zu beziehen.
+<sup>2</sup> In jedem Kalenderjahr sind mindestens 20 freie Tage zu beziehen, wovon
 
-<sup>3</sup> Von diesen 20 freien Tagen sind in jedem Kalenderjahr mindestens 10 Tage zu Lasten des Ferienguthabens zu beziehen.
+- a Ferien- und Langzeitkonto-Guthaben in halben Tagen bezogen werden können,
+- b wenigstens zwei Wochen zusammenhängen müssen.
+
+<sup>3</sup> Von den 20 freien Tagen gemäss Absatz 2 sind in jedem Kalenderjahr mindestens 10 Tage zulasten des Ferienguthabens zu beziehen.
 
 #### Art. 149a
 
@@ -1944,26 +1958,53 @@ beschliesst:
 
 **Bezahlter Kurzurlaub**
 
-<sup>1</sup> Die Amtsvorsteherin oder der Amtsvorsteher bewilligt bezahlte Kurzurlaube im Einzelfall wie folgt:
+<sup>1</sup> Bezahlter Kurzurlaub wird in Anzahl Arbeitstagen gewährt. Ein Arbeitstag entspricht der täglichen Soll-Arbeitszeit gemäss Beschäftigungsgrad. Die Amtsvorsteherin oder der Amtsvorsteher bewilligt bezahlte Kurzurlaube wie folgt:
 
-- a bis zu vier Arbeitstagen wegen plötzlicher Erkrankung oder Todes einer oder eines nahen Familienangehörigen,
-- b bis zu zwei Arbeitstagen wegen eigener Heirat, Eintragung der Partnerschaft gleichgeschlechtlicher Paare oder Wohnungswechsels,
-- c bis zu einem Arbeitstag wegen obligatorischen Orientierungstages für Wehrpflichtige oder Abgabe des persönlichen Materials bei Entlassung aus der Wehrpflicht.
+- a bis drei Arbeitstage pro Ereignis wegen plötzlicher Erkrankung einer oder eines nahen Familienangehörigen, höchstens zehn Tage pro Kalenderjahr,
+- a1 bis vier Arbeitstage pro Ereignis wegen des Todes einer oder eines nahen Familienangehörigen.
+- b ein Arbeitstag pro Kalenderjahr wegen eigener Heirat oder eigenen Wohnungswechsels,
+- c ein Arbeitstag pro Kalenderjahr wegen obligatorischer oder freiwilliger Teilnahme an der militärischen Orientierungsveranstaltung oder Abgabe des persönlichen Materials bei Entlassung aus der Militärdienstpflicht.
 
 <sup>2</sup> Der Regierungsrat kann in besonderen Fällen, insbesondere bei Naturereignissen, einem bestimmten Personenkreis einen bezahlten Kurzurlaub im Rahmen der benötigten Zeit generell bewilligen.
 
-<sup>3</sup> Bezahlte Kurzurlaube dürfen pro Kalenderjahr für gesamthaft nicht mehr als sechs Arbeitstage nach Massgabe des Beschäftigungsgrads bewilligt werden.
+<sup>3</sup> …
 
-<sup>4</sup> Ohne Anrechnung an die Höchstzahl gemäss Absatz 3 gewährt die Amtsvorsteherin oder der Amtsvorsteher pro Kalenderjahr bezahlten Urlaub wie folgt:
+<sup>4</sup> Die Amtsvorsteherin oder der Amtsvorsteher bewilligt bezahlten Urlaub weiter wie folgt:
 
-- a bis zu zehn Arbeitstagen für Leiterausbildungs- und Fortbildungskurse sowie für die Tätigkeit als hauptverantwortliche Leiterin oder Leiter von Kursen und Lagern im Rahmen von «Jugend und Sport»,
-- b bis zu fünf Arbeitstagen für den sozialen Einsatz zur Ferienbetreuung von Menschen mit Behinderung und Betagten,
-- c bis zu fünf Arbeitstagen für Mitarbeiterinnen und Mitarbeiter bis zum vollendeten 30. Altersjahr als Gruppenleiterin oder -leiter von Kursen und Lagern im Rahmen von ausserschulischer Jugendarbeit,
-- d bis zu drei Arbeitstagen für Mitglieder der Geschäftsleitung bzw. des Sektionsvorstands von Verbänden des Kantonspersonals,
-- e bis zu drei Arbeitstagen zur Teilnahme an Delegiertenversammlungen sowie an Versammlungen von Unter- bzw. Teilverbänden oder Sektionen von Verbänden des Personals der Kantonsverwaltung und dessen Vorsorgeeinrichtungen,
+- a bis zehn Arbeitstage für Leiterausbildungs- und Fortbildungskurse sowie für die Tätigkeit als hauptverantwortliche Leiterin oder Leiter von Kursen und Lagern im Rahmen von «Jugend und Sport»,
+- b bis fünf Arbeitstage für den sozialen Einsatz zur Ferienbetreuung von Menschen mit Behinderung und Betagten,
+- c bis fünf Arbeitstage für Mitarbeiterinnen und Mitarbeiter bis zum vollendeten 30. Altersjahr als Gruppenleiterin oder -leiter von Kursen und Lagern im Rahmen von ausserschulischer Jugendarbeit,
+- d bis drei Arbeitstage für Mitglieder der Geschäftsleitung bzw. des Sektionsvorstands von Verbänden des Kantonspersonals,
+- e bis drei Arbeitstage zur Teilnahme an Delegiertenversammlungen sowie an Versammlungen von Unter- bzw. Teilverbänden oder Sektionen von Verbänden des Personals der Kantonsverwaltung und dessen Vorsorgeeinrichtungen,
 - f nach Massgabe von Artikel 160c zum Bezug von Langzeitguthaben.
 
-<sup>5</sup> Ohne Anrechnung an die Höchstzahl gemäss Absatz 3 kann die Amtsvorsteherin oder der Amtsvorsteher Mitarbeiterinnen und Mitarbeitern, deren Arbeitsverhältnis von der Anstellungsbehörde aufgelöst worden ist, bezahlten Urlaub im erforderlichen Umfang für Vorstellungsgespräche gewähren, höchstens jedoch einen halben Arbeitstag pro Woche. Mitarbeiterinnen und Mitarbeitern, die von einer Stellenaufhebung betroffen sind, kann der Urlaub bereits gewährt werden, sobald sie über die geplante Beendigung des Arbeitsverhältnisses informiert worden sind.
+<sup>5</sup> Die Amtsvorsteherin oder der Amtsvorsteher kann Mitarbeiterinnen und Mitarbeitern, deren Arbeitsverhältnis von der Anstellungsbehörde aufgelöst worden ist, bezahlten Urlaub im erforderlichen Umfang für Vorstellungsgespräche gewähren, höchstens jedoch einen halben Arbeitstag pro Woche. Mitarbeiterinnen und Mitarbeitern, die von einer Stellenaufhebung betroffen sind, kann der Urlaub bereits gewährt werden, sobald sie über die geplante Beendigung des Arbeitsverhältnisses informiert worden sind.
+
+#### Art. 156a
+
+**Bezahlter Urlaub für die Betreuung eines wegen Krankheit oder Unfalls gesundheitlich schwer beeinträchtigten Kindes**
+
+<sup>1</sup> Hat eine Mitarbeiterin oder ein Mitarbeiter einen Anspruch auf eine Betreuungsentschädigung nach den Artikeln 16n bis 16s EOG, weil ihr oder sein Kind wegen Krankheit oder Unfalls gesundheitlich schwer beeinträchtigt ist, so hat sie oder er Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen. Das Gehalt wird zu 100 Prozent auf der Basis des aktuellen monatlichen Bruttogehalts ausgerichtet.
+
+<sup>2</sup> Der Betreuungsurlaub ist innerhalb einer Rahmenfrist von 18 Monaten zu beziehen. Die Rahmenfrist beginnt mit dem Tag, für den das erste Taggeld bezogen wird.
+
+<sup>3</sup> Sind beide Elternteile erwerbstätig, hat jeder Elternteil Anspruch auf einen Betreuungsurlaub von höchstens sieben Wochen. Die Eltern können eine abweichende Aufteilung des Urlaubs wählen.
+
+<sup>4</sup> Der Betreuungsurlaub kann zusammenhängend oder gestaffelt bezogen werden.
+
+<sup>5</sup> Die Vorgesetzten sind über die Modalitäten des Urlaubsbezugs sowie über Änderungen unverzüglich zu informieren.
+
+<sup>6</sup> Die bundesrechtliche Betreuungsentschädigung fällt an den Kanton. Wird das entsprechende Formular nicht abgegeben, wird das Gehalt um die dem Kanton entgehende Betreuungsentschädigung gekürzt.
+
+#### Art. 156b
+
+**Bezahlter Urlaub für Absenzen aufgrund von Arzt- und Zahnarztbesuchen sowie ärztlich verordneten therapeutischen Behandlungen**
+
+<sup>1</sup> Für Arzt- oder Zahnarztbesuche wird unabhängig vom Beschäftigungsgrad der betroffenen Mitarbeiterinnen und Mitarbeiter die effektiv benötigte Zeit, höchstens aber eine Stunde pro Besuch und Arbeitstag, an die Arbeitszeit angerechnet.
+
+<sup>2</sup> Für länger dauernde medizinische und ärztlich verordnete therapeutische Behandlungen kann mit Bewilligung der oder des Vorgesetzten die effektiv benötigte Zeit als Arbeitszeit angerechnet werden.
+
+<sup>3</sup> An Arbeitstagen, an welchen Arzt- oder Zahnarztbesuche nach Absatz 1 oder therapeutische Behandlungen nach Absatz 2 an die Arbeitszeit angerechnet werden, darf die tägliche Soll-Arbeitszeit bzw. die vereinbarte Arbeitszeit nicht überschritten werden.
 
 #### Art. 157
 
@@ -2053,7 +2094,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann bei Verschiebungen ganzer Organisationseinheiten in Abweichung von den Artikeln 136c, 150 und 160c die einheitliche Übertragung von bestehenden Jahresarbeitszeit-, Ferien- und Langzeitkontoguthaben von Mitarbeiterinnen und Mitarbeitern mit den entsprechenden Rückstellungen durch Beschluss anordnen.
 
-<sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizleitung über die einheitliche Übertragung von Zeitguthaben gemäss Absatz 1. Im Bereich der Hochschulen entscheidet die Universitätsleitung, die Rektorin oder der Rektor der Berner Fachhochschule bzw. die Rektorin oder der Rektor der Pädagogischen Hochschule.
+<sup>2</sup> Mit Bezug auf die Gerichtsbehörden und die Staatsanwaltschaft beschliesst die Justizleitung über die einheitliche Übertragung von Zeitguthaben gemäss Absatz 1. Im Bereich der Hochschulen entscheidet die Rektorin oder der Rektor der Universität, die Rektorin oder der Rektor der Berner Fachhochschule bzw. die Rektorin oder der Rektor der Pädagogischen Hochschule.
 
 ## 7 Mitarbeiterförderung
 
@@ -2063,11 +2104,11 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Vorgesetzten nehmen mit ihren Mitarbeiterinnen und Mitarbeitern jährlich eine Standortbestimmung in Form eines Mitarbeitergesprächs vor.
+<sup>1</sup> Die Vorgesetzten nehmen mit ihren Mitarbeiterinnen und Mitarbeitern jährlich mindestens eine Standortbestimmung in Form eines Mitarbeitergesprächs vor.
 
-<sup>2</sup> Das Mitarbeitergespräch ist ein Führungs- und Qualitätsentwicklungsinstrument.
+<sup>2</sup> Das Mitarbeitergespräch ist ein Führungs-, Qualitäts- und Personalentwicklungsinstrument.
 
-<sup>3</sup> Kernpunkte des Mitarbeitergesprächs sind die Zielvereinbarung, die Arbeitsbedingungen, das Arbeitsklima und die Führungskultur, die beruflichen Entwicklungsmöglichkeiten und Perspektiven sowie die Leistungs- und Verhaltensbeurteilung.
+<sup>3</sup> …
 
 #### Art. 162
 
@@ -2240,6 +2281,8 @@ beschliesst:
 
 <sup>1</sup> Die Rückzahlungspflicht entsteht, wenn die betroffene Person die Ausbildung aus privaten Gründen abbricht oder während der Ausbildung oder nach deren Abschluss innerhalb einer bestimmten Frist aus dem Kantonsdienst austritt.
 
+<sup>1a</sup> Wird das Arbeitsverhältnis durch Tod beendet, entsteht keine Rückzahlungspflicht.
+
 <sup>2</sup> Artikel 181 bleibt vorbehalten.
 
 #### Art. 178a
@@ -2278,7 +2321,10 @@ beschliesst:
 
 **Befreiung von der Rückzahlungspflicht**
 
-<sup>1</sup> Das Personalamt kann im Einvernehmen mit der Anstellungsbehörde auf eine Rückzahlung ganz oder teilweise verzichten, wenn sie für die Mitarbeiterin oder den Mitarbeiter eine besondere Härte bedeutet oder wenn der Verzicht auf die Rückzahlung im Interesse des Kantons liegt.
+<sup>1</sup> Die Anstellungsbehörde kann auf eine Rückzahlung ganz oder teilweise verzichten, wenn
+
+- a diese für die Mitarbeiterin oder den Mitarbeiter eine besondere Härte darstellt oder
+- b der Verzicht auf die Rückzahlung im Interesse des Kantons liegt.
 
 <sup>2</sup> Als besondere Härte gilt namentlich die Beendigung des Arbeitsverhältnisses auf Grund familiärer Verpflichtungen oder Krankheit sowie eine finanzielle Notlage.
 
@@ -2286,7 +2332,7 @@ beschliesst:
 
 **Berechnung und Rechnungsstellung**
 
-<sup>1</sup> Der rückzahlbare Betrag wird vom Personalamt eingefordert und an die jeweiligen Organisationseinheiten weitergeleitet.
+<sup>1</sup> Der rückzahlbare Betrag wird vom Personalamt berechnet, eingefordert und an die jeweiligen Organisationseinheiten weitergeleitet.
 
 #### Art. 183
 
@@ -2316,7 +2362,7 @@ beschliesst:
 
 <sup>2</sup> Die andere Hälfte der Prämien für die Nichtberufsunfallversicherung und für die UVG-Zusatzversicherung tragen die Mitarbeiterinnen und Mitarbeiter. Dabei wird ein vom Personalamt festgesetzter Einheitssatz angewendet.
 
-<sup>3</sup> Beim Lernpersonal übernimmt der Kanton die ganze Prämie für die Nichtberufsunfallversicherung.
+<sup>3</sup> Bei den Lernenden übernimmt der Kanton die ganze Prämie für die Nichtberufsunfallversicherung und für die UVG-Zusatzversicherung.
 
 #### Art. 186
 
@@ -2365,6 +2411,10 @@ beschliesst:
 #### Art. 191a
 
 <sup>1</sup> Der Regierungsrat kann eine Krankentaggeldversicherung für das Kantonspersonal abschliessen.
+
+<sup>2</sup> Der Kanton als Arbeitgeber beteiligt sich zur Hälfte an der Prämie.
+
+<sup>3</sup> Bei den Lernenden übernimmt der Kanton die ganze Prämie.
 
 ### 8.2 Dienstwohnungen
 
@@ -2422,7 +2472,7 @@ beschliesst:
 
 <sup>2</sup> Die Finanzdirektion stellt zusätzlich das Präsidium.
 
-<sup>3</sup> Die Vorsteherin oder der Vorsteher des Personalamts bzw. ihre oder seine Stellvertreterin oder ihr oder sein Stellvertreter gehört der Bewertungskommission von Amtes wegen an. Sie haben beratende Stimme.
+<sup>3</sup> Eine Vertreterin oder ein Vertreter des Personalamts gehört der Bewertungskommission an. Sie oder er hat beratende Stimme.
 
 <sup>4</sup> Im Übrigen konstituiert sich die Bewertungskommission selbst.
 
@@ -2569,8 +2619,7 @@ beschliesst:
 - b die Betreuungszulagen,
 - c die Anrechnung von Dienstjahren,
 - d die Rückforderungen,
-- e die Reversverpflichtungen,
-- f der Kostenersatz nach Artikel 51 PG sowie
+- e–f …
 - g der Ersatz von Personen- oder Sachschaden nach Artikel 54 PG.
 
 <sup>3</sup> Ist der Anspruch auf Familienzulagen streitig, verfügt die Familienausgleichskasse.
@@ -2581,7 +2630,7 @@ beschliesst:
 
 **Streitigkeiten über den individuellen Gehaltsaufstieg**
 
-<sup>1</sup> Sind Mitarbeiterinnen und Mitarbeiter mit dem Entscheid über die Bemessung von Gehaltsstufen nach Artikel 45 nicht einverstanden, können sie innert dreissig Tagen seit Zustellung der neuen Gehaltsabrechnung ein Begehren um Erlass einer Verfügung bei ihrer Anstellungsbehörde stellen.
+<sup>1</sup> Sind Mitarbeiterinnen und Mitarbeiter mit dem Entscheid über die Bemessung von Gehaltsstufen nach Artikel 45 nicht einverstanden, können sie innert dreissig Tagen seit Bereitstellung der Gehaltsabrechnung auf dem Personalinformationssystem oder postalischer Zustellung ein Begehren um Erlass einer Verfügung bei ihrer Anstellungsbehörde stellen.
 
 <sup>2</sup> Bevor die Betroffenen das Begehren einreichen, ersuchen sie um eine persönliche Aussprache mit der vorgesetzten Person.
 
@@ -2835,6 +2884,14 @@ beschliesst:
 **Anwendbares Recht**
 
 <sup>1</sup> Die Änderungen von Artikel 10 Absatz 4 sind ab dem 1. Januar 2023 anwendbar.
+
+## T9 Übergangsbestimmung der Änderung vom 23.11.2022
+
+#### Art. T9-1
+
+**Einstufung der Funktion «Reinigungsmitarbeiterin/Reinigungsmitarbeiter» über der Gehaltsstufe 45**
+
+<sup>1</sup> Bei Mitarbeiterinnen und Mitarbeiter, welche von der Überführung der Funktion «handwerkliche Mitarbeiterin, handwerklicher Mitarbeiter» in die Funktion «Reinigungsmitarbeiterin/Reinigungsmitarbeiter» per 1. Januar 2023 betroffen und über der Gehaltsstufe 45 eingestuft sind, findet keine Rückstufung statt.
 
 Bern, 18. Mai 2005
 

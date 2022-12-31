@@ -4,13 +4,13 @@ number: "153.011.1"
 title: Ordonnance sur le personnel
 short: OPers
 language: fr
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-23
 adopted: 2005-05-18
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.011.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2586/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2754/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2586/pdf_file"
 
 (OPers)
 
-du 18.05.2005 (état au 01.05.2022)
+du 18.05.2005 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -136,7 +136,7 @@ arrête:
 
 <sup>2</sup> Au surplus, les Directions, la Chancellerie d'Etat ou les unités administratives par elles habilitées définissent le lieu de travail selon les besoins.
 
-<sup>3</sup> L’Office du personnel édicte des directives sur le télétravail. Dans le cadre de ces directives, les agents et agentes concernés et leurs supérieurs hiérarchiques règlent le détail des prestations de télétravail dans une convention écrite.
+<sup>3</sup> L’Office du personnel édicte des directives sur le travail à domicile et le travail mobile. Dans le cadre de ces directives, les agents et agentes concernés et leurs supérieurs hiérarchiques fixent ensemble le détail des prestations à fournir indépendamment du lieu de travail.
 
 #### Art. 8a
 
@@ -255,7 +255,7 @@ arrête:
 
 <sup>4</sup> Si la période probatoire est écourtée en raison d’une absence au poste de travail, l’autorité d'engagement peut la prolonger en conséquence de deux mois au plus.
 
-<sup>5</sup> Toute prolongation de la période probatoire ou toute résiliation des rapports de travail intervenue durant cette période doit être signalée à l’Office du personnel.
+<sup>5</sup> …
 
 #### Art. 14
 
@@ -274,9 +274,9 @@ arrête:
 
 **Contrat de travail**
 
-<sup>1</sup> Pour être valable, le contrat de travail doit revêtir la forme écrite.
+<sup>1</sup> Le contrat de travail est conclu en la forme écrite ou numérique.
 
-<sup>2</sup> Le contrat règle au minimum les points suivants:
+<sup>2</sup> Il règle au minimum les points suivants:
 
 - a l'autorité d’engagement,
 - b la nature des rapports de travail,
@@ -288,6 +288,8 @@ arrête:
 - h le lieu de travail,
 - i …
 - k les éventuelles restrictions à la liberté d’établissement (p. ex. logement de service).
+
+<sup>3</sup> Les Directions et la Chancellerie d'Etat peuvent, par voie d'ordonnance, déléguer à une unité administrative centrale le droit de signature pour la création ou la modification de rapports de travail. Cette délégation n'affecte pas les droits et les obligations découlant des rapports de travail, ni les compétences réglées à l'article 209.
 
 #### Art. 16
 
@@ -399,7 +401,7 @@ arrête:
 
 <sup>1</sup> L’autorité d’engagement peut libérer un agent ou une agente de ses fonctions jusqu’à la fin des rapports de travail dès lors que
 
-- a la personne concernée a formellement connaissance de la résiliation à venir;
+- a la résiliation a été notifiée à la personne concernée;
 - b une convention de départ a été conclue, ou que
 - c la personne concernée a démissionné.
 
@@ -411,7 +413,7 @@ arrête:
 
 <sup>1</sup> L’agent ou l’agente qui a été libérée de ses fonctions peut exercer une nouvelle activité professionnelle avant la fin de la période de libération de ses fonctions.
 
-<sup>2</sup> Les revenus perçus au titre d’une autre activité professionnelle exercée pendant la période de libération des fonctions sont pris en compte. L’autorité d'engagement peut exceptionnellement renoncer à les imputer.
+<sup>2</sup> Les revenus perçus au titre d’une autre activité professionnelle exercée pendant la période de libération des fonctions sont pris en compte.
 
 ### 3.6 Résiliation des rapports de travail d’un commun accord
 
@@ -440,10 +442,10 @@ arrête:
 
 <sup>1</sup> La convention de départ règle en particulier
 
-- a la prolongation éventuelle, jusqu’à une année au maximum, de la durée de résiliation ordinaire prévue à l’article 25, alinéa 1 LPers ainsi que
+- a la prolongation éventuelle, jusqu’à neuf mois au maximum, de la durée de résiliation ordinaire prévue à l’article 25, alinéa 1 LPers ainsi que
 - b la contribution éventuelle aux coûts attestés d’un soutien externe à la réorientation professionnelle, jusqu’à concurrence de deux mois de traitement au maximum.
 
-<sup>2</sup> Le montant de l’indemnité de départ versée dans le cadre d’une convention de départ représente au maximum 13 mois de traitement.
+<sup>2</sup> Le montant de l’indemnité de départ versée dans le cadre d’une convention de départ représente au maximum six mois de traitement.
 
 ### 3.6.2 Résiliation des rapports de travail sans garantie de prestations conformément à l’article 27a de la loi sur le personnel
 
@@ -459,11 +461,15 @@ arrête:
 
 #### Art. 31
 
-**Droit au traitement; règle de calcul**
+**Droit au traitement; règles de calcul**
 
 <sup>1</sup> Le droit au traitement prend naissance le jour où commencent les rapports de travail et s’éteint le jour où ceux-ci prennent fin. Les dispositions relatives à la poursuite du versement du traitement aux membres de la famille (art. 67 LPers) sont réservées.
 
-<sup>2</sup> La valeur du traitement mensuel est calculée sur la base de 30 jours civils, et un tarif journalier sur la base de 22 jours ouvrés. Un tarif horaire est calculé sur la base de 182 heures de travail mensuel.
+<sup>2</sup> Les règles de calcul sont les suivantes:
+
+- a La valeur d'un traitement mensuel est calculée sur la base du nombre effectif de jours civils du mois considéré.
+- b Un tarif journalier est calculé sur la base de 22 jours ouvrés.
+- c Un tarif horaire est calculé sur la base de 182 heures de travail mensuel.
 
 #### Art. 32
 
@@ -554,7 +560,7 @@ arrête:
 
 <sup>4</sup> Le traitement de départ du délégué ou de la déléguée à la protection des données est fixé par la Direction de l’intérieur et de la justice, après consultation de la présidence de la Commission de gestion, en vertu des principes fixés aux articles 39, 40 et 40a. En cas d’écart par rapport aux valeurs déterminées à l’annexe 2, l’accord de l’Office du personnel est nécessaire.
 
-<sup>5</sup> La fixation du traitement de départ des collaborateurs et collaboratrices de l’Université, de la Haute école spécialisée bernoise et de la Haute école pédagogique relève de la législation spéciale. En cas d’écart par rapport aux montants du traitement de départ fixés à l’annexe 2 l’accord de l’Office du personnel est nécessaire.
+<sup>5</sup> La fixation du traitement de départ des collaborateurs et des collaboratrices de l’Université, de la Haute école spécialisée bernoise et de la Haute école pédagogique relève de la législation spéciale.
 
 <sup>6</sup> Le traitement de départ du personnel de nettoyage au sens de l’article 49 est fixé selon les valeurs de l’annexe 4. En cas d’écart par rapport à ces valeurs, l’accord de l’Office du personnel est nécessaire.
 
@@ -576,9 +582,9 @@ arrête:
 
 <sup>2</sup> L'attribution d'échelons de traitement au personnel à l'engagement doit tenir compte du nombre d'échelons dont bénéficient les agents et agentes qui occupent des fonctions comparables et présentent des caractéristiques professionnelles et personnelles semblables.
 
-<sup>3</sup> Les années de pratique ayant une utilité directe peuvent donner lieu à l’attribution de quatre échelons de traitement au maximum. Le degré d’occupation des postes antérieurement occupés, la comparabilité de l’ancienne activité avec le nouveau poste, ainsi que la situation sur le marché du travail sont dûment pris en considération. L’octroi d’échelons de traitement supplémentaires nécessite l’accord de l’Office du personnel.
+<sup>3</sup> Une année complète d'expérience professionnelle peut donner lieu à l’attribution de quatre échelons de traitement au maximum. Le degré d’occupation des postes antérieurement occupés, la comparabilité de l’ancienne activité avec le nouveau poste et la situation sur le marché du travail sont dûment pris en considération. L'expérience professionnelle acquise antérieurement à des postes occupés à au moins 50 pour cent est entièrement prise en compte comme si le degré d'occupation avait été de 100 pour cent. L’octroi d’échelons de traitement supplémentaires nécessite l’accord de l’Office du personnel.
 
-<sup>4</sup> L’exercice, professionnel ou extraprofessionnel, d’activités telles qu’une activité éducative ou une charge publique, qui sont indirectement utiles à la fonction, peuvent donner lieu à l’attribution d’un échelon de traitement par année complète, sans excéder 15 échelons au total.
+<sup>4</sup> L’exercice d’activités extraprofessionnelles telles qu'une charge publique peut donner lieu à l’attribution d’un échelon de traitement par année complète. Un échelon de traitement est attribué par année entière d'exercice d'activités éducatives.
 
 <sup>5</sup> L’octroi d’échelons de traitements ne peut intervenir qu’une seule fois par année considérée.
 
@@ -590,7 +596,7 @@ arrête:
 
 **Traitement de départ dans un échelon de départ**
 
-<sup>1</sup> Des échelons de départ sont applicables aux postes mentionnés dans les alinéas suivants. L’échelon de départ correspondant au traitement initial est fixé sous réserve de l’article 41.
+<sup>1</sup> Des échelons de départ sont applicables pour les agentes et les agents qui entrent au service du canton directement après leur formation professionnelle initiale ou après trois ans d'expérience professionnelle au plus.
 
 <sup>2</sup> Pour les postes qui ne nécessitent aucune formation professionnelle ou qui requièrent un apprentissage accéléré ou une formation élémentaire de moins de trois ans, le traitement de départ est fixé au 6<sup>e</sup> échelon de départ de la classe de traitement correspondante. Il ne peut pas être inférieur au traitement de base de la classe de traitement 1.
 
@@ -616,7 +622,7 @@ arrête:
 <tr><td>23</td><td>6<sup>e</sup> échelon de départ</td></tr>
 </table>
 
-<sup>6</sup> Les années de pratique directement ou indirectement utiles à l'exercice de la fonction sont prises en compte à partir du traitement de départ correspondant, conformément aux principes énoncés à l'article 40.
+<sup>6</sup> L'expérience professionnelle utile à l'exercice de la fonction est prise en compte à partir du traitement de départ correspondant, conformément aux principes énoncés à l'article 40. L'article 41 est réservé.
 
 <sup>7</sup> Pour tous les postes affectés à la classe de traitement 24 ou à une classe de traitement supérieure, ainsi que pour tous les postes impliquant une responsabilité directe dans la conduite de personnel, le traitement de départ correspond au minimum au traitement de base de la classe de traitement correspondante.
 
@@ -680,7 +686,7 @@ arrête:
 
 **Critères de détermination**
 
-<sup>1</sup> Les échelons de traitement octroyés sont déterminés à partir de l’évaluation des performances et du comportement ainsi qu'en tenant compte des moyens disponibles pour la progression des traitements.
+<sup>1</sup> Des échelons de traitement peuvent être attribués en tenant compte du nombre d'échelons dont bénéficie l'agente ou l'agent par rapport à celui dont bénéficient des agentes ou des agents présentant des caractéristiques professionnelles semblables.
 
 <sup>2</sup> La détermination des échelons de traitement ne doit pas être liée à la classe de traitement, au degré d’occupation, au niveau hiérarchique, au lieu de travail ni au sexe de la personne concernée.
 
@@ -706,9 +712,7 @@ arrête:
 
 - a chancelier ou chancelière,
 - b chef ou cheffe du Contrôle des finances,
-- c directeur administratif ou directrice administrative de l'Université,
-- d …
-- e membres du corps enseignant de l’Université, de la Haute école spécialisée bernoise, de la Haute école pédagogique et des Ecoles techniques ES Bois Bienne,
+- c–e …
 - f membres de la Cour suprême et du Tribunal administratif,
 - g juges à titre principal de la Commission des recours en matière fiscale,
 - h procureur général ou procureure générale et ses suppléants et suppléantes,
@@ -733,13 +737,9 @@ arrête:
 
 **Personnel de nettoyage**
 
-<sup>1</sup> Le personnel de nettoyage est exclu de l’évaluation des performances et du comportement
+<sup>1</sup> Le personnel de nettoyage est exclu de l’évaluation des performances et du comportement prévue à l'article 163.
 
-- a lorsqu’il est engagé pour une durée inférieure à un an;
-- b lorsqu’il travaille moins de 50 heures par mois en règle générale;
-- c–d …
-
-<sup>2</sup> Les traitements de cette catégorie de personnel peuvent progresser au maximum de trois échelons par an jusqu’au 34<sup>e</sup> échelon de traitement. L’article 47, alinéas 2 et 3 s’applique par analogie.
+<sup>2</sup> Les traitements de cette catégorie de personnel peuvent progresser au maximum de trois échelons par an jusqu’au 45<sup>e</sup> échelon de traitement. L’article 47, alinéas 2 et 3 s’applique par analogie.
 
 #### Art. 50
 
@@ -859,13 +859,15 @@ arrête:
 
 **Congé de maternité**
 
-<sup>1</sup> Un congé de 16 semaines est accordé aux agentes qui mettent au monde un enfant. Le traitement est versé à 100 pour cent du degré d’occupation moyen des cinq mois précédant le début du droit au congé.
+<sup>1</sup> Un congé payé de maternité de 16 semaines est accordé aux agentes qui mettent au monde un enfant. Le traitement est versé à 100 pour cent du degré d’occupation moyen des cinq mois précédant le début du droit au congé.
+
+<sup>1a</sup> Si le droit à l'allocation de maternité est prolongé pour cause d'hospitalisation de l'enfant nouveau-né conformément à l'article 16c de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain (LAPG)[^60-1], le droit au congé payé de maternité prévu à l'alinéa 1 est prolongé d'autant.
 
 <sup>2</sup> Le droit est aussi accordé conformément à l’alinéa 1 si l’enfant ne naît pas viable mais que la grossesse a duré au moins 23 semaines.
 
-<sup>3</sup> Le congé de maternité débute au plus tard le jour de la naissance et au plus tôt deux semaines avant le terme prévu. Il n’est pas interrompu en cas de maladie ou d’accident.
+<sup>3</sup> Le congé de maternité débute au plus tard le jour de la naissance et au plus tôt deux semaines avant le terme prévu. Il n’est pas interrompu en cas de maladie, d'accident ou de congé non payé.
 
-<sup>4</sup> Si le nouveau-né doit rester à l’hôpital ou être de nouveau hospitalisé pour des raisons de santé après sa naissance, sa mère peut reporter le début du congé de maternité au moment où il quitte l’hôpital. Le report du congé n’est possible que si le nouveau-né doit rester hospitalisé pendant au moins trois semaines.
+<sup>4</sup> …
 
 <sup>5</sup> En cas de reprise du travail pendant la période de congé, le congé de maternité est considéré comme perdu, pour autant qu’il n’ait pas été entièrement pris.
 
@@ -873,15 +875,21 @@ arrête:
 
 <sup>7</sup> L’allocation de maternité prévue par la législation fédérale échoit au canton. En cas d’omission de la remise du formulaire correspondant, le traitement est réduit de l’allocation de maternité ayant échappé au canton.
 
+[^60-1]: RS [834.1](https://db.clex.ch/link/Bund/834.1/fr)
+
 #### Art. 60a
 
 **Congé de paternité et congé d’adoption**
 
 <sup>1</sup> Un congé payé de paternité de dix jours ouvrés est accordé aux membres du personnel masculins lors de la naissance de leur propre enfant.
 
+<sup>1a</sup> Le congé prévu à l'alinéa 1 est également accordé si l'enfant ne naît pas viable mais que la grossesse a duré au moins 23 semaines.
+
 <sup>2</sup> Les agents et les agentes qui adoptent un enfant ont droit à un congé payé de dix jours ouvrés.
 
 <sup>3</sup> Le congé de paternité et le congé d’adoption sont pris en un seul bloc ou de manière échelonnée dans les six mois qui suivent la naissance ou l’accueil autorisé d’un enfant en vue de son adoption. Le droit au congé de paternité ou au congé d’adoption s’éteint sans dédommagement si le congé n’est pas pris.
+
+<sup>4</sup> L'allocation de paternité fédérale revient au canton. Si le formulaire correspondant n'a pas été remis, le traitement est réduit de l'allocation de paternité ayant échappé au canton.
 
 #### Art. 60b
 
@@ -1345,7 +1353,7 @@ arrête:
 
 <sup>2–3</sup> …
 
-<sup>4</sup> Si des tâches publiques sont transférées au canton par la loi, les années de travail accomplies à la fonction correspondante sont également prises en compte.
+<sup>4</sup> Si des tâches publiques sont transférées au canton, les Directions et la Chancellerie d'Etat décident si les années de travail accomplies à la fonction correspondante sont prises en compte.
 
 <sup>5</sup> …
 
@@ -1457,7 +1465,7 @@ arrête:
 
 **Mode de calcul**
 
-<sup>1</sup> Les indemnités sont versées pour les frais entraînés par le déplacement du lieu de travail à la destination du déplacement de service. Lorsque la destination d’un déplacement de service coïncide avec le lieu de résidence de l’agent ou de l’agente ou qu’elle est plus proche de son lieu de résidence que de son lieu de travail, seuls les frais de transport supplémentaires sont indemnisés.
+<sup>1</sup> Le trajet du lieu de travail jusqu'à la destination du déplacement de service (lieu d'intervention) est indemnisé. Lorsque le lieu d'intervention est plus proche du lieu de résidence que du lieu de travail, seul le parcours le plus court est indemnisé. Si le lieu d'intervention se trouve sur le trajet entre la résidence et le lieu de travail, seul les frais de déplacement occasionnés en plus sont indemnisés.
 
 #### Art. 111
 
@@ -1497,13 +1505,17 @@ arrête:
 
 <sup>4</sup> Les demandes portant sur la prise en charge de la totalité ou d’une partie des dommages seront adressées, par la voie de service, à l’Office du personnel.
 
-### 5.3.4 Frais d'infrastructure
+### 5.3.4 Infrastructure
 
 #### Art. 114a
 
-<sup>1</sup> Les agents et agentes qui utilisent pour des besoins de service impératifs leur infrastructure privée, notamment leur bureau ou leurs moyens informatiques et de télécommunication, peuvent recevoir une indemnisation.
+<sup>1</sup> Les agentes et les agents accomplissent leurs tâches en utilisant exclusivement les moyens informatiques et de télécommunication que le canton met à leur disposition ou que les autorités spécialisées qui sont compétentes selon l'ordonnance du 24 janvier 2018 sur les technologies de l’information et de la communication de l’administration cantonale (OTIC)[^114a-1] ont autorisés pour l'utilisation professionnelle.
 
-<sup>2</sup> Quiconque utilise l’infrastructure cantonale à des fins privées verse une indemnité couvrant les frais (art. 53, al. 3 LPers).
+<sup>2</sup> Celles et ceux qui utilisent pour des besoins de service impératifs leur infrastructure privée, notamment leur bureau ou leurs moyens informatiques et de télécommunication, peuvent recevoir une indemnisation.
+
+<sup>3</sup> Quiconque utilise l’infrastructure cantonale à des fins privées verse une indemnité couvrant les frais (art. 53, al. 3 LPers).
+
+[^114a-1]: RSB [152.042](https://www.belex.sites.be.ch/data/%20152.042/fr)
 
 ### 5.3.5 Réglementations spéciales des frais
 
@@ -1537,16 +1549,17 @@ arrête:
 
 **Rémunération**
 
-<sup>1</sup> Le personnel des catégories suivantes qui est affecté aux classes de traitement 1 à 18 reçoit un bonus-temps de 20 pour cent pour les interventions réellement effectuées entre 20 h et 6 h:
+<sup>1</sup> Le personnel des catégories suivantes qui est affecté aux classes de traitement 1 à 23 reçoit un bonus-temps de 20 pour cent pour les interventions ordonnées et réellement effectuées entre 20 h et 6 h:
 
 - a personnel soignant de l’Office de l'exécution judiciaire,
 - b personnel d’encadrement ainsi que collaborateurs et collaboratrices du service de sécurité à l'Office de l'exécution judiciaire,
-- c collaborateurs et collaboratrices de l’entretien des routes à l’Office des ponts et chaussées,
+- c collaborateurs et collaboratrices de l’entretien courant des routes à l’Office des ponts et chaussées,
 - d concierges,
 - e collaborateurs et collaboratrices de la surveillance de la chasse,
-- f personnel d’encadrement ainsi que collaborateurs et collaboratrices des institutions pédagogiques et socio-pédagogiques cantonales.
+- f personnel d’encadrement ainsi que collaborateurs et collaboratrices des établissements particuliers de la scolarité obligatoire et des institutions pour enfants ayant un besoin particulier d'encouragement et de protection,
+- g collaboratrices et collaborateurs de la Police cantonale n'ayant pas le statut de policière ou de policier, mais accomplissant des tâches de police d'ordre opérationnel.
 
-<sup>2</sup> Les collaborateurs et collaboratrices ayant le statut de policier qui sont affectés aux classes de traitement 1 à 18 reçoivent un bonus-temps de 16 pour cent pour les interventions effectuées entre 20 h et 6 h.
+<sup>2</sup> Les collaborateurs et les collaboratrices de la Police cantonale ayant le statut de policier ou de policière qui sont affectés aux classes de traitement 1 à 23 reçoivent un bonus-temps de 16 pour cent pour les interventions effectuées entre 20 h et 6 h.
 
 <sup>3</sup> Il est interdit d’indemniser le bonus-temps en argent liquide.
 
@@ -1566,7 +1579,7 @@ arrête:
 
 **Remboursement de frais**
 
-<sup>1</sup> Les requêtes d’avance ou de remboursement des frais de justice et d’avocat conformément à l’article 51 LPers doivent être adressées à la Direction compétente ou à la Chancellerie d’Etat. Après avoir requis l’avis de l’Office du personnel, celle-ci statue sur la requête et le cas échéant, verse les prestations.
+<sup>1</sup> Les requêtes d’avance ou de remboursement des frais de justice et d’avocat conformément à l’article 51 LPers doivent être adressées à la Direction compétente, à la Chancellerie d’Etat ou à l'unité administrative qu'elles ont habilitée. Celles-ci statuent sur la requête et, le cas échéant, versent les prestations.
 
 ### 5.7 Indemnité de départ
 
@@ -1672,11 +1685,9 @@ arrête:
 
 **Horaire de travail annualisé**
 
-<sup>1</sup> L’horaire de travail annualisé s’applique en principe dans l’administration cantonale.
+<sup>1</sup> L’horaire de travail annualisé s’applique en principe dans l’administration cantonale, sous réserve des dispositions des articles 136d à 136f régissant l'horaire de travail fondé sur la confiance.
 
-<sup>2</sup> Lorsque le mandat de l’unité administrative et l’accomplissement de ses tâches légales l’exigent ou que les besoins du service le permettent, les Directions, la Chancellerie d’Etat et les unités administratives par elles habilitées peuvent déclarer applicables d’autres types d’horaire de travail. Ce faisant, elles tiennent raisonnablement compte des intérêts des agents et des agentes.
-
-<sup>3</sup> Le Conseil-exécutif édicte un règlement concernant l’horaire de travail annualisé.
+<sup>2–3</sup> …
 
 #### Art. 136b
 
@@ -1684,11 +1695,13 @@ arrête:
 
 <sup>1</sup> A la fin de la période annuelle de décompte, un solde maximal de 100 heures en plus ou en moins peut être reporté sur la nouvelle période de décompte.
 
-<sup>2</sup> Si le solde maximal de 100 heures en plus est dépassé à la fin d’une année civile, une compensation financière est versée jusqu’à un solde résiduel de 50 heures en plus, pour autant que l’office dépose une demande de paiement et que ce paiement soit approuvé par le membre concerné du Conseil-exécutif, le chancelier ou la chancelière, le président ou la présidente de la Direction de la magistrature, le secrétaire général ou la secrétaire générale du Grand Conseil, le délégué ou la déléguée à la protection des données, le chef ou la cheffe du Contrôle des finances, la direction de l’Université, le recteur ou la rectrice de la Haute école spécialisée bernoise ou le recteur ou la rectrice de la Haute école pédagogique germanophone. Si ce paiement est refusé, les heures de travail effectuées en plus du solde maximal autorisé sont perdues sans indemnisation.
+<sup>2</sup> Si le solde maximal de 100 heures en plus est dépassé à la fin d’une année civile, une compensation financière est versée jusqu’à un solde résiduel de 50 heures en plus, pour autant que l’office dépose une demande de paiement et que ce paiement soit approuvé par le membre concerné du Conseil-exécutif, le chancelier ou la chancelière, le président ou la présidente de la Direction de la magistrature, le secrétaire général ou la secrétaire générale du Grand Conseil, le délégué ou la déléguée à la protection des données, le chef ou la cheffe du Contrôle des finances, le recteur ou la rectrice de l’Université, le recteur ou la rectrice de la Haute école spécialisée bernoise ou le recteur ou la rectrice de la Haute école pédagogique germanophone. Si ce paiement est refusé, les heures de travail effectuées en plus du solde maximal autorisé sont perdues sans indemnisation.
 
 <sup>3</sup> Au lieu d’une compensation financière, un report du solde horaire positif sur l’année suivante peut être accordé dans les mêmes conditions que celles prévues à l’alinéa 2. Une convention de réduction de solde est impérativement nécessaire pour les heures excédant le solde maximal.
 
-<sup>4</sup> Un solde négatif qui, à la fin de la période de décompte, dépasse le nombre maximal d’heures autorisé peut, d’entente entre l’agent ou l’agente et son supérieur ou sa supérieure hiérarchique, être compensé sous forme de déduction de traitement.
+<sup>4</sup> Si, à la fin de la période de décompte, le solde négatif dépasse le nombre maximal d’heures autorisé fixé à l'alinéa 1, les heures dépassant ce solde maximum peuvent, d’entente entre l’agent ou l’agente et son supérieur ou sa supérieure hiérarchique, être compensées sous forme de déduction de traitement.
+
+<sup>5</sup> À défaut de compensation des heures en moins conformément à l'alinéa 4, un accord fixant la date à laquelle elles seront rattrapées l'année suivante est impérativement signé.
 
 #### Art. 136c
 
@@ -1824,7 +1837,7 @@ arrête:
 
 <sup>2</sup> En cas de service militaire, de service civil ou de service dans la protection civile, la réduction des vacances conformément à l'alinéa 1 est uniquement déterminée en fonction d'une durée de l’interruption du travail excédant un mois.
 
-<sup>3</sup> Le congé payé de maternité, l’empêchement de travailler pour cause d’accident survenu pendant le service et la maladie professionnelle ne sont pas pris en compte pour la réduction des vacances.
+<sup>3</sup> Le congé payé de maternité prévu à l'article 60, le congé payé de paternité et le congé payé d'adoption prévus à l'article 60a, le congé payé pour prise en charge prévu à l'article 156a, l'empêchement de travailler pour cause d’accident survenu pendant le service et la maladie professionnelle ne sont pas pris en compte pour la réduction des vacances.
 
 <sup>4</sup> …
 
@@ -1852,9 +1865,12 @@ arrête:
 - b le solde de vacances, ou
 - c le solde du compte épargne-temps.
 
-<sup>2</sup> Les agents et agentes prennent en une année civile au moins 20 jours de repos.
+<sup>2</sup> Les agents et agentes prennent en une année civile au moins 20 jours de repos, dont
 
-<sup>3</sup> Au moins 10 de ces 20 jours de repos doivent être pris chaque année civile sur le solde de vacances.
+- a des demi-journées pouvant être prises sur le solde de vacances ou sur le compte épargne-temps;
+- b au moins deux semaines consécutives.
+
+<sup>3</sup> Au moins 10 des 20 jours de repos prévus à l'alinéa 2 doivent être pris chaque année civile sur le solde de vacances.
 
 #### Art. 149a
 
@@ -1938,17 +1954,18 @@ arrête:
 
 **Congé payé de courte durée**
 
-<sup>1</sup> Le chef ou la cheffe d’office accorde, de cas en cas, les congés payés de courte durée suivants:
+<sup>1</sup> Tout congé payé de courte durée est fixé en nombre de jours ouvrés. Un jour ouvré est égal au temps de travail quotidien réglementaire correspondant au degré d'occupation. Le chef ou la cheffe d’office accorde les congés payés de courte durée suivants:
 
-- a quatre jours ouvrés au plus en cas de maladie subite ou de décès d’un proche,
-- b deux jours ouvrés au plus pour son propre mariage, en cas d’enregistrement d’un partenariat entre deux personnes de même sexe ou de déménagement,
-- c un jour ouvré au plus pour la journée d’information obligatoire destinée aux personnes astreintes au service militaire ou la restitution du matériel personnel lors de la libération des obligations militaires.
+- a trois jours ouvrés au plus pour chaque cas de maladie subite d'un membre de la famille proche, dans la limite de dix jours par année civile,
+- a1 quatre jours ouvrés au plus pour chaque cas de décès d'un membre de la famille proche,
+- b un jour ouvré par année civile pour son propre mariage ou son propre déménagement,
+- c un jour ouvré par année civile pour la participation, obligatoire ou facultative, à la séance d'information des conscrits ou pour la restitution du matériel personnel lors de la libération des obligations militaires.
 
 <sup>2</sup> Le Conseil-exécutif peut, dans des cas spéciaux, en particulier en cas de catastrophe naturelle, accorder de manière générale à un ensemble de personnes bien défini des congés payés de courte durée à concurrence du temps nécessaire.
 
-<sup>3</sup> Des congés payés de courte durée ne peuvent être accordés au total que jusqu’à concurrence de six jours au plus par année civile en fonction du degré d’occupation.
+<sup>3</sup> …
 
-<sup>4</sup> Le chef ou la cheffe d’office accorde par année civile les congés payés suivants qui ne sont pas pris en compte pour le maximum fixé à l’alinéa 3:
+<sup>4</sup> Le chef ou la cheffe d’office autorise les autres congés payés suivants:
 
 - a dix jours ouvrés au plus pour la participation à des cours de moniteur ou de monitrice ou de perfectionnement ainsi que pour la prise en charge à titre principal de la direction de cours ou de camps dans le cadre de «Jeunesse et Sport»,
 - b cinq jours ouvrés au plus pour l’engagement social dans l’encadrement de personnes âgées ou handicapées en vacances,
@@ -1957,7 +1974,33 @@ arrête:
 - e trois jours ouvrés au plus en cas de participation à lʼassemblée des délégués d’associations du personnel de l’administration cantonale ou de ses institutions de prévoyance, ainsi qu’aux assemblées de leurs associations affiliées ou de leurs subdivisions telles que des sections,
 - f l’utilisation du compte épargne-temps conformément à l’article 160c.
 
-<sup>5</sup> Le chef ou la cheffe d’office peut accorder aux agents et agentes dont les rapports de travail ont été résiliés par l’autorité d’engagement les congés payés nécessaires pour des entretiens d’engagement sans excéder une demi-journée de travail par semaine, et ce dès qu’ils ont été informés de la cessation prévue de leurs rapports de travail. Ces congés ne sont pas pris en compte pour le maximum fixé à l’alinéa 3.
+<sup>5</sup> Le chef ou la cheffe d’office peut accorder aux agents et agentes dont les rapports de travail ont été résiliés par l’autorité d’engagement les congés payés nécessaires pour des entretiens d’engagement sans excéder une demi-journée de travail par semaine, et ce dès qu’ils ont été informés de la cessation prévue de leurs rapports de travail.
+
+#### Art. 156a
+
+**Congé payé pour prendre en charge un enfant gravement atteint dans sa santé en raison d'une maladie ou d'un accident**
+
+<sup>1</sup> L'agente ou l'agent qui a droit à l'allocation de prise en charge prévue aux articles 16n à 16s LAPG du fait que son enfant est gravement atteint dans sa santé en raison d'une maladie ou d'un accident a droit à un congé payé de 14 semaines au plus pour s'occuper de son enfant. Son traitement lui est versé intégralement à hauteur de son montant mensuel brut au moment considéré.
+
+<sup>2</sup> Le congé pour prise en charge est pris dans un délai-cadre de 18 mois. Ce délai commence à courir le jour où la première indemnité journalière est versée.
+
+<sup>3</sup> Si les deux parents travaillent, chacun a droit à un congé pour prise en charge de sept semaines au plus. Ils peuvent choisir de se répartir le congé différemment.
+
+<sup>4</sup> Le congé pour prise en charge peut être pris en une seule ou en plusieurs fois.
+
+<sup>5</sup> Les responsables hiérarchiques doivent être informés sans délai des modalités de prise de ce congé ainsi que de tout changement.
+
+<sup>6</sup> L'allocation fédérale de prise en charge revient au canton. Si le formulaire correspondant n'a pas été remis, le traitement est réduit de l'allocation de prise en charge ayant échappé au canton.
+
+#### Art. 156b
+
+**Congé payé pour se rendre à une consultation médicale ou dentaire ou pour subir un traitement thérapeutique prescrit par une ou un médecin**
+
+<sup>1</sup> Le temps effectivement requis pour une consultation médicale ou dentaire est compté comme temps de travail, quel que soit le degré d'occupation de la personne concernée, dans la limite d'une heure par consultation et par jour ouvré.
+
+<sup>2</sup> Pour tout traitement thérapeutique d'une durée plus longue qui a été prescrit par une ou un médecin, le temps effectivement requis peut, avec l'autorisation de la supérieure ou du supérieur hiérarchique, être compté comme temps travail.
+
+<sup>3</sup> Dès lors qu'une consultation médicale ou dentaire selon l'alinéa 1 ou un traitement thérapeutique selon l'alinéa 2 est compté comme temps de travail, la durée du travail du jour ouvré concerné ne peut pas excéder le temps de travail réglementaire ou convenu.
 
 #### Art. 157
 
@@ -2047,7 +2090,7 @@ arrête:
 
 <sup>1</sup> Lorsque des unités administratives sont transférées dans leur intégralité, le Conseil-exécutif peut ordonner par voie d’arrêté, en dérogation aux articles 136c, 150 et 160c, le report uniforme des soldes de l’horaire de travail annualisé, des soldes de vacances et des soldes du compte épargne-temps des agents et agentes concernés, avec les provisions correspondantes.
 
-<sup>2</sup> En ce qui concerne les autorités judiciaires et le Ministère public, la Direction de la magistrature décide du report uniforme des soldes horaires au sens de l’alinéa 1. Dans le domaine des hautes écoles, cette décision relève, selon le cas, de la direction de l’Université, du recteur ou de la rectrice de la Haute école spécialisée bernoise et du recteur ou de la rectrice de la Haute école pédagogique germanophone.
+<sup>2</sup> En ce qui concerne les autorités judiciaires et le Ministère public, la Direction de la magistrature décide du report uniforme des soldes horaires au sens de l’alinéa 1. Dans le domaine des hautes écoles, cette décision relève, selon le cas, du recteur ou de la rectrice de l’Université, du recteur ou de la rectrice de la Haute école spécialisée bernoise et du recteur ou de la rectrice de la Haute école pédagogique germanophone.
 
 ## 7 Promotion des agents et des agentes
 
@@ -2057,11 +2100,11 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Les supérieurs et supérieures hiérarchiques dressent chaque année un bilan avec leur collaborateurs et collaboratrices sous la forme d’un entretien d’évaluation périodique.
+<sup>1</sup> Les supérieures et supérieurs hiérarchiques dressent chaque année au moins un bilan avec leurs collaboratrices et collaborateurs sous la forme d’un entretien d’évaluation périodique.
 
-<sup>2</sup> L’entretien d’évaluation périodique est un instrument de pilotage et de promotion de la qualité.
+<sup>2</sup> L’entretien d’évaluation périodique est un instrument de pilotage, de promotion de la qualité et de développement du personnel.
 
-<sup>3</sup> Il porte essentiellement sur la détermination des objectifs à atteindre, les conditions de travail, l’ambiance de travail et la culture de gestion, les possibilités d’évolution et les perspectives professionnelles ainsi que l’appréciation des performances et du comportement.
+<sup>3</sup> …
 
 #### Art. 162
 
@@ -2081,7 +2124,7 @@ arrête:
 
 <sup>2</sup> L’évaluation globale récapitulative et non chiffrée est réalisée selon le schéma suivant:
 
-- a A++: les objectifs ou les exigences de prestations sont nettement dépassés dans tous les domaines essentiels (performances exceptionnelles);
+- a A++: les objectifs ou les exigences de prestations sont nettement dépassés dans tous les domaines importants (performances exceptionnelles);
 - b A+: les objectifs ou les exigences de prestations sont dépassés dans des domaines importants (très bonnes performances);
 - c A: les objectifs et les exigences de prestations sont entièrement atteints (bonnes performances);
 - d B: les objectifs ou les exigences de prestations sont partiellement atteints (performances satisfaisantes);
@@ -2091,9 +2134,9 @@ arrête:
 
 **Résultats**
 
-<sup>1</sup> Les principaux résultats de l’entretien d'évaluation périodique sont consignés par écrit. Les participants et participantes à l’entretien doivent les signer ou les entériner dans un document électronique probant pour confirmer qu’ils en ont pris connaissance.
+<sup>1</sup> Les principaux résultats de l’entretien d'évaluation périodique sont consignés par écrit. Pour certifier qu'ils en ont pris connaissance, les participants et participantes à l’entretien les signent ou les entérinent dans un document numérique propre à constituer une preuve fiable.
 
-<sup>1a</sup> Ils sont conservés sous forme physique ou électronique dans le dossier personnel du service du personnel compétent.
+<sup>1a</sup> Ils sont conservés sous forme physique ou électronique dans le dossier personnel tenu par le service du personnel compétent.
 
 <sup>2</sup> Les agents et agentes reçoivent une copie des documents conservés dans le dossier personnel.
 
@@ -2234,6 +2277,8 @@ arrête:
 
 <sup>1</sup> L’obligation de rembourser naît lorsque la personne concernée interrompt sa formation pour des raisons personnelles ou quitte l’administration cantonale au cours de sa formation ou dans un délai déterminé après celle-ci.
 
+<sup>1a</sup> Elle s'éteint si les rapports de travail prennent fin pour cause de décès.
+
 <sup>2</sup> L’article 181 est réservé.
 
 #### Art. 178a
@@ -2272,7 +2317,10 @@ arrête:
 
 **Dispense de l’obligation de rembourser**
 
-<sup>1</sup> L’Office du personnel peut, d’entente avec l’autorité d’engagement, renoncer partiellement ou totalement au remboursement si l’obligation de rembourser constitue pour l’agent ou l’agente concernée une situation de rigueur particulière ou s’il est dans l’intérêt du canton de renoncer au remboursement.
+<sup>1</sup> L’autorité d’engagement peut renoncer partiellement ou totalement au remboursement dans l'une ou l'autre des situations suivantes:
+
+- a celui-ci constitue une situation de rigueur particulière pour l’agente ou l’agent concerné;
+- b il est dans l’intérêt du canton de renoncer au remboursement.
 
 <sup>2</sup> Sont notamment considérées comme des situations de rigueur particulière une résiliation des rapports de travail pour cause d’obligations familiales ou de maladie ainsi qu’une situation de détresse financière.
 
@@ -2280,7 +2328,7 @@ arrête:
 
 **Calcul et facturation**
 
-<sup>1</sup> Le montant à rembourser est exigé par l’Office du personnel et transmis à l’unité administrative concernée.
+<sup>1</sup> Le montant à rembourser est calculé, exigé et transmis à l'unité administrative concernée par l’Office du personnel.
 
 #### Art. 183
 
@@ -2310,7 +2358,7 @@ arrête:
 
 <sup>2</sup> Les agents et agentes cantonaux prennent en charge l’autre moitié des primes de l’assurance-accidents non professionnels et de l’assurance complémentaire LAA. L’Office du personnel fixe à cet effet un tarif unique.
 
-<sup>3</sup> Il prend en charge la totalité de la prime de l’assurance-accidents non professionnels des apprentis et apprenties.
+<sup>3</sup> Le canton prend en charge la totalité de la prime de l’assurance-accidents non professionnels et de l'assurance complémentaire LAA des apprenties et des apprentis.
 
 #### Art. 186
 
@@ -2359,6 +2407,10 @@ arrête:
 #### Art. 191a
 
 <sup>1</sup> Le Conseil-exécutif peut conclure une assurance collective pour indemnités journalières en cas de maladie pour le personnel cantonal.
+
+<sup>2</sup> En sa qualité d'employeur, le canton prend la moitié de la prime à sa charge.
+
+<sup>3</sup> Dans le cas des apprenties et des apprentis, il prend la totalité de la prime à sa charge.
 
 ### 8.2 Logements de service
 
@@ -2416,7 +2468,7 @@ arrête:
 
 <sup>2</sup> La Direction des finances fournit en outre le président ou la présidente.
 
-<sup>3</sup> Le chef ou la cheffe de l’Office du personnel ou son suppléant ou sa suppléante fait d’office partie de la commission d’évaluation. Ils ont voix consultative.
+<sup>3</sup> Une représentante ou un représentant de l’Office du personnel fait partie de la commission d’évaluation. Sa voix est consultative.
 
 <sup>4</sup> Au surplus, la commission d’évaluation se constitue elle-même.
 
@@ -2563,8 +2615,7 @@ arrête:
 - b l’allocation d’entretien,
 - c l’imputation d’années de service,
 - d les restitutions,
-- e les obligations découlant de déclarations de garantie,
-- f le remboursement de frais prévu à l’article 51 LPers et
+- e–f …
 - g l’indemnisation de dommages personnels ou matériels conformément à l’article 54 LPers.
 
 <sup>3</sup> En cas de litige concernant le droit aux allocations familiales, la caisse de compensation familiale rend une décision.
@@ -2575,7 +2626,7 @@ arrête:
 
 **Litiges concernant la progression individuelle du traitement**
 
-<sup>1</sup> S'il ou elle n’est pas d’accord avec la décision concernant la détermination des échelons de traitement qui lui sont octroyés conformément à l’article 45, un agent ou une agente peut demander, dans les 30 jours suivant l’établissement du nouveau décompte de traitement, que l’autorité d'engagement rende une décision.
+<sup>1</sup> S'il ou elle n’est pas d’accord avec la décision concernant la détermination des échelons de traitement qui lui sont octroyés conformément à l’article 45, un agent ou une agente peut demander, dans les 30 jours suivant la notification du décompte de traitement par voie postale ou sa mise à disposition dans le système d'information sur le personnel, que l’autorité d'engagement rende une décision.
 
 <sup>2</sup> Avant d’adresser cette demande, la personne concernée sollicite un entretien personnel avec le supérieur ou la supérieure hiérarchique.
 
@@ -2829,6 +2880,14 @@ arrête:
 **Droit applicable**
 
 <sup>1</sup> La modification de l'article 10, alinéa 4 s'appliquent à partir du 1<sup>er</sup> janvier 2023.
+
+## T9 Dispositions transitoires de la modification du 23.11.2022
+
+#### Art. T9-1
+
+**Échelons de traitement de la fonction de «collaboratrice/collaborateur du service de nettoyage» au-delà du 45<sup>e</sup> échelon de traitement**
+
+<sup>1</sup> Les personnes concernées par le transfert, au 1<sup>er</sup> janvier 2023, de la fonction de «collaboratrice artisane/collaborateur artisan» dans la fonction de «collaboratrice/collaborateur du service de nettoyage» et qui ont dépassé l'échelon de traitement 45 ne sont pas rétrogradées.
 
 Berne, le 18 mai 2005
 
