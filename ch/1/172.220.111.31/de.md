@@ -4,11 +4,11 @@ title: Verordnung des EFD vom 6. Dezember 2001 zur Bundespersonalverordnung (VBP
 short: VBPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: de
-version: 2022-08-01
+version: 2023-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2001-485-20230101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/de"
 
 (VBPV)
 
-vom 6. Dezember 2001 (Stand am 1. August 2022)
+vom 6. Dezember 2001 (Stand am 1. Januar 2023)
 
-Das Eidgenössische Finanzdepartement (EFD),*[^ingress-1]*
+Das Eidgenössische Finanzdepartement (EFD),[^ingress-1]
 
 gestützt auf Artikel 116 Absatz 1 der Bundespersonalverordnung vom 3. Juli 2001[^ingress-2] (BPV),
 
@@ -141,7 +141,7 @@ Die Mitarbeiterinnen und Mitarbeiter und die direkten Vorgesetzten bestätigen m
 
 [^7-1]: Aufgehoben durch Ziff. I der V des EFD vom 11. Dez. 2009, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## 3. Kapitel: Vorzeitiger Altersrücktritt****
+## 3. Kapitel: Vorzeitiger Altersrücktritt
 
 [^chap3-1]
 
@@ -251,28 +251,28 @@ Der Jahreslohn für Hochschulpraktikanten und -praktikantinnen beträgt für:
 
 <sup>2</sup> Als vergütungsberechtigte Feiertage gelten die Feiertage nach Artikel 66 Absatz 2 BPV.[^12-1]
 
-<sup>3</sup> Für jede angeordnete Stunde Nachtarbeit zwischen 20 und 6 Uhr beziehungsweise am Samstag ab 18 Uhr werden 6.59 Franken vergütet.[^12-2]
+<sup>3</sup> Für jede angeordnete Stunde Nachtarbeit zwischen 20 und 6 Uhr beziehungsweise am Samstag ab 18 Uhr werden 6.76 Franken vergütet.[^12-2]
 
 <sup>4</sup> Für die Angestellten der industriellen Betriebe richten sich die Vergütungen gemäss den Absätzen 1 und 3 grundsätzlich nach dem Arbeitsgesetz vom 13. März 1964[^12-3]. Die Bezeichnung der industriellen Betriebe und die Festsetzung der Höhe der Vergütungen erfolgt im Einvernehmen mit dem EPA.
 
 [^12-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^12-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^12-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^12-3]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 #### Art. 13
 
 **Pikettdienst**
 
-<sup>1</sup> Die Vergütung für Pikettdienst beträgt für Angestellte, die in der 20. Lohnklasse oder tiefer eingereiht sind, 6.59 Franken pro Stunde. Für Angestellte ab der 21. Lohnklasse beträgt die Vergütung 7.68 Franken.[^13-1]
+<sup>1</sup> Die Vergütung für Pikettdienst beträgt für Angestellte, die in der 20. Lohnklasse oder tiefer eingereiht sind, 6.76 Franken pro Stunde. Für Angestellte ab der 21. Lohnklasse beträgt die Vergütung 7.90 Franken.[^13-1]
 
-<sup>2</sup> Anstelle der Vergütung nach Absatz 1 kann die zuständige Stelle pro Stunde eine Zeitgutschrift von 10 Prozent und eine Vergütung von 1.30 Franken ausrichten.[^13-2]
+<sup>2</sup> Anstelle der Vergütung nach Absatz 1 kann die zuständige Stelle pro Stunde eine Zeitgutschrift von 10 Prozent und eine Vergütung von 1.34 Franken ausrichten.[^13-2]
 
 <sup>2bis</sup> Für Angestellte, deren Mobilität durch den Pikettdienst nicht eingeschränkt wird, kann die zuständige Stelle eine um höchstens 70 Prozent tiefere Vergütung als diejenige nach Absatz 1 festlegen.[^13-3]
 
 <sup>3</sup> Für den Pikettdienst sind weiter die Artikel 14 und 15 der Verordnung 1 vom 10. Mai 2000[^13-4] zum Arbeitsgesetz anwendbar.
 
-[^13-1]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^13-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^13-1]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^13-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^13-3]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^13-4]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 
@@ -288,11 +288,12 @@ Der Jahreslohn für Hochschulpraktikanten und -praktikantinnen beträgt für:
 
 ### (Art. 45 Abs. 1 Bst. c BPV)
 
-<sup>1</sup> Für Einsätze im Rahmen von festen Dienstplänen kann je Einsatz eine Zulage von 4.95 Franken ausgerichtet werden.
+<sup>1</sup> Für Einsätze im Rahmen von festen Dienstplänen kann je Einsatz eine Zulage von 5.09 Franken ausgerichtet werden.[^15-2]
 
 <sup>2</sup> Die Departemente bezeichnen die Organisationseinheiten, bei denen eine Zulage für die Einsätze ausgerichtet wird, und legen die entsprechenden Voraussetzungen fest.
 
 [^15-1]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^15-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 16
 
@@ -560,18 +561,19 @@ Die Leistungen des Bundes können vorübergehend oder dauernd gekürzt oder in s
 
 <sup>1bis</sup> Für ein Sabbatical können insgesamt bis zu 100 Stunden Mehrarbeit oder Überzeit pro Jahr auf ein Sabbaticalkonto übertragen werden.[^34-3]
 
-<sup>2</sup> Ein Sabbatical können Angestellte ab der 24. Lohnklasse beziehen. In begründeten Fällen können tiefer eingereihte Angestellte ebenfalls eine Auszeit beziehen.
+<sup>2</sup> Ein Sabbatical können Angestellte ab der 18. Lohnklasse beziehen. In begründeten Fällen können tiefer eingereihte Angestellte ebenfalls eine Auszeit beziehen.[^34-4]
 
 <sup>3</sup> Ein Sabbatical kann einmal innert fünf Jahren bezogen werden. Der Bezug weiterer Auszeiten kann mit der angestellten Person vereinbart werden.
 
 <sup>4</sup> Die Zeitguthaben verfallen fünf Jahre nach ihrem Übertrag auf das Sabbatical-Konto. Aus wichtigen Gründen kann diese Frist verlängert werden.
 
-<sup>5</sup> …[^34-4]
+<sup>5</sup> …[^34-5]
 
 [^34-1]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^34-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^34-3]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^34-4]: Aufgehoben durch Ziff. I der V des EFD vom 31. Mai 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^34-4]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^34-5]: Aufgehoben durch Ziff. I der V des EFD vom 31. Mai 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 35
 
@@ -618,11 +620,16 @@ Der Jahreslohn als Basis für die Berechnung der Barvergütung gemäss Artikel 6
 
 #### Art. 37
 
-**Unterbrechung von Ferien**
+**Unterbrechung von Ferien**[^37-1]
 
 ### (Art. 67 BPV)
 
-Ferien werden durch Rückruf aus betrieblichen Gründen, durch Unfall oder durch Krankheit unterbrochen.
+Ferien werden unterbrochen durch:
+
+- a. Rückruf aus betrieblichen Gründen;
+- b. Unfall oder Krankheit, sofern die angestellte Person dadurch an mindestens drei aufeinanderfolgenden Ferientagen arbeitsunfähig ist.
+
+[^37-1]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 38
 
@@ -688,7 +695,7 @@ Bezahlter Urlaub kann insbesondere für die folgenden Aktivitäten gewährt werd
 
 Für die folgenden Ereignisse wird bezahlter Urlaub gewährt:
 
-- a.[^40-2] bei der eigenen Heirat, einschliesslich ziviler Trauung, oder bei Eintragung der Partnerschaft: 1 Arbeitstag;
+- a.[^40-2] bei der eigenen Heirat, einschliesslich ziviler Trauung: 1 Arbeitstag;
 - b.[^40-3] …
 - c.[^40-4] für die Betreuung eines Familienmitglieds, des Lebenspartners oder der Lebenspartnerin im Fall einer Erkrankung oder eines Unfalls: die erforderliche Zeit, bis 3 Arbeitstage pro Ereignis;
 - d. beim Tod des Ehegatten oder der Ehegattin, des Lebenspartners oder der Lebenspartnerin, eines Elternteils oder Kindes: 3 Arbeitstage;
@@ -711,7 +718,7 @@ Bei der Gewährung von Urlauben, insbesondere bei längeren unbezahlten Urlauben
 <sup>6</sup> Bei einer Änderung des Beschäftigungsgrads wird die Zahl der nicht bezogenen Urlaubstage auf das neue Arbeitsverhältnis übertragen.[^40-7]
 
 [^40-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^40-2]: Fassung gemäss Ziff. I der V des EFD vom 31. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^40-2]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^40-3]: Aufgehoben durch Ziff. I der V des EFD vom 14. Mai 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-4]: Fassung gemäss Ziff. I der V des EFD vom 14. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Fassung gemäss Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
@@ -878,12 +885,13 @@ Die zuständige Stelle kann in begründeten Fällen einen Flug in der Business- 
 
 <sup>1bis</sup> Bei Dienstreisen im Ausland sind die Auslagen mit der Travelcard Bund (Firmenkreditkarte für Bundesangestellte) zu bezahlen.[^48-2]
 
-<sup>2</sup> Vorbehalten bleiben die Kostenregelungen nach den Richtlinien des Bundesrates vom 7. Dezember 2012[^48-3] für die Entsendung von Delegationen an internationale Konferenzen.[^48-4]
+<sup>2</sup> Vorbehalten bleiben die Kostenregelungen nach den Richtlinien des Bundesrates vom 9. Dezember 2022[^48-3] für die Entsendung von Delegationen an internationale Konferenzen[^48-4].[^48-5]
 
 [^48-1]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^48-2]: Eingefügt durch Ziff. I der V des EFD vom 5. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^48-3]: [BBl 2012 9491](https://fedlex.data.admin.ch/eli/fga/2012/1759)
-[^48-4]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^48-3]: [BBl 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078)
+[^48-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 9. Dez. 2022 angepasst.
+[^48-5]: Fassung gemäss Ziff. I der V des EFD vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 49
 
@@ -1139,10 +1147,11 @@ Die Departemente bestimmen den Teilnehmerkreis, die Organisation, die Zuständig
 
 <sup>3</sup> Verunmöglichen Krankheit oder Unfall im Ausland die Rückreise, so hat ein Arzt oder eine Ärztin zu bescheinigen, wie lange die Reiseunfähigkeit dauert.
 
-<sup>4</sup> Wird ein Kur- oder Erholungsaufenthalt verordnet, so reicht die angestellte Person bei der zuständigen Stelle ein schriftliches Gesuch ein. Sie legt dem Gesuch in einem verschlossenen Briefumschlag ein entsprechendes Zeugnis zuhanden des ärztlichen Dienstes bei oder stellt es diesem direkt zu.
+<sup>4</sup> Wird ein Kur- oder Erholungsaufenthalt verordnet, so reicht die angestellte Person bei der zuständigen Stelle ein schriftliches Gesuch ein.[^61-3]
 
 [^61-1]: Eingefügt durch Ziff. I der V des EFD vom 22. Sept. 2009, in Kraft seit 1. Okt. 2009 ([AS 2009 4771](https://fedlex.data.admin.ch/eli/oc/2009/564)).
 [^61-2]: Eingefügt durch Ziff. I der V des EFD vom 31. Mai 2013 ([AS 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Fassung gemäss Ziff. I der V des EFD vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^61-3]: Fassung gemäss Ziff. I der V des EFD vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 62
 
@@ -3686,7 +3695,7 @@ Zuschlag nach Ziffer 4 Absatz 1 Buchstabe c
 
 Der Zuschlag beträgt pro Jahr für Kinder bis zu 12 Jahren 1099 Franken. Für Kinder über 12 Jahre beträgt er 1275 Franken (Indexstand 2001).
 
-Anhang 2*[^t-1]*
+Anhang 2[^t-1]
 
 (Art. 51*b* Abs. 1)
 

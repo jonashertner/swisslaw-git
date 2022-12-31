@@ -4,11 +4,11 @@ title: "Ordinanza del DFF del 6 dicembre 2001 concernente l'ordinanza sul person
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: it
-version: 2022-08-01
+version: 2023-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2001-485-20230101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/it"
 
 (O-OPers)
 
-del 6 dicembre 2001 (Stato 1° agosto 2022)
+del 6 dicembre 2001 (Stato 1° gennaio 2023)
 
-Il Dipartimento federale delle finanze (DFF),*[^ingress-1]*
+Il Dipartimento federale delle finanze (DFF),[^ingress-1]
 
 visto l’articolo 116 capoverso 1 dell’ordinanza del 3 luglio 2001[^ingress-2] sul personale federale (OPers),
 
@@ -142,7 +142,7 @@ I collaboratori e i loro diretti superiori attestano con la propria firma sul mo
 
 [^7-1]: Abrogato dal n. I dell’O del DFF dell’11 dic. 2009, con effetto dal 1° gen. 2010 ([RU 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Capitolo 3:**** Pensionamento anticipato****
+## Capitolo 3: Pensionamento anticipato
 
 [^chap3-1][^chap3-2]
 
@@ -253,28 +253,28 @@ Lo stipendio annuo dei praticanti universitari ammonta a:
 
 <sup>2</sup> Sono ritenuti giorni festivi che danno diritto a indennità quelli menzionati nell’articolo 66 capoverso 2 OPers.[^12-1]
 
-<sup>3</sup> Per ogni ora di lavoro ordinata tra le ore 20 e le ore 6 oppure il sabato dalle ore 18 è versata un’indennità di 6.59 franchi.[^12-2]
+<sup>3</sup> Per ogni ora di lavoro notturno ordinata tra le ore 20 e le ore 6 oppure il sabato dalle ore 18 è versata un’indennità di 6.76 franchi.[^12-2]
 
 <sup>4</sup> Per gli impiegati delle aziende industriali le indennità ai sensi dei capoversi 1 e 3 sono disciplinate di massima dalla legge del 13 marzo 1964[^12-3] sul lavoro. La definizione delle aziende industriali e la fissazione dell’importo delle indennità avviene d’intesa con l’UFPER.
 
 [^12-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^12-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^12-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 #### Art. 13
 
 **Servizio di picchetto**
 
-<sup>1</sup> L’indennità per il servizio di picchetto per gli impiegati assegnati alla 20<sup>a</sup> classe di stipendio o alle classi inferiori ammonta a 6.59 franchi all’ora. L’indennità per gli impiegati dalla 21<sup>a</sup> classe di stipendio in poi ammonta a 7.68 franchi all’ora.[^13-1]
+<sup>1</sup> L’indennità per il servizio di picchetto per gli impiegati assegnati alla 20<sup>a</sup> classe di stipendio o alle classi inferiori ammonta a 6.76 franchi all’ora. L’indennità per gli impiegati dalla 21<sup>a</sup> classe di stipendio in poi ammonta a 7.90 franchi all’ora.[^13-1]
 
-<sup>2</sup> Invece dell’indennità secondo il capoverso 1 il servizio competente può assegnare una compensazione oraria pari al 10 per cento del tempo di lavoro e un’indennità pari a 1.30 franchi.[^13-2]
+<sup>2</sup> Invece dell’indennità secondo il capoverso 1 il servizio competente può assegnare una compensazione oraria pari al 10 per cento del tempo di lavoro e un’indennità pari a 1.34 franchi.[^13-2]
 
 <sup>2bis</sup> Il servizio competente può stabilire un’indennità inferiore del 70 per cento al massimo rispetto a quella prevista nel capoverso 1 per gli impiegati la cui mobilità non è limitata dal servizio di picchetto.[^13-3]
 
 <sup>3</sup> Al servizio di picchetto sono applicabili anche gli articoli 14 e 15 dell’ordinanza 1 del 10 maggio 2000[^13-4] concernente la legge sul lavoro.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^13-3]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^13-4]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 
@@ -290,11 +290,12 @@ Lo stipendio annuo dei praticanti universitari ammonta a:
 
 ### (art. 45 cpv. 1 lett. c OPers)
 
-<sup>1</sup> È possibile versare un’indennità di 4.95 franchi per ogni impiego nel quadro di piani di servizio fissi.
+<sup>1</sup> È possibile versare un’indennità di 5.09 franchi per ogni impiego nel quadro di piani di servizio fissi.[^15-2]
 
 <sup>2</sup> I dipartimenti designano le unità organizzative che versano un’indennità per gli impieghi e stabiliscono le relative condizioni.
 
 [^15-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 16
 
@@ -331,6 +332,7 @@ L’indennità in funzione del mercato del lavoro è verificata almeno una volta
 Il supplemento sostitutivo del diritto alle vacanze ammonta a:
 
 - a. 10,64 per cento per cinque settimane di vacanza;
+
 - b. 13,04 per cento per sei settimane di vacanza;
 - c. 15,56 per cento per sette settimane di vacanza.[^19-4]
 
@@ -556,18 +558,19 @@ Le prestazioni della Confederazione possono essere temporaneamente o durevolment
 
 <sup>1bis</sup> Per un congedo sabbatico possono essere riportate su un conto sabbatico complessivamente un massimo di 100 ore di lavoro aggiuntivo o di lavoro straordinario all’anno.[^34-3]
 
-<sup>2</sup> Il congedo sabbatico può essere concesso agli impiegati a partire dalla 24<sup>a</sup> classe. In casi giustificati il congedo sabbatico può essere concesso a anche impiegati assegnati a una classe inferiore.
+<sup>2</sup> Il congedo sabbatico può essere concesso agli impiegati a partire dalla 18<sup>a</sup> classe. In casi giustificati il congedo sabbatico può essere concesso anche a impiegati assegnati a una classe inferiore.[^34-4]
 
 <sup>3</sup> L’impiegato può prendere un congedo sabbatico una volta ogni cinque anni. Un congedo sabbatico supplementare può essere convenuto con l’impiegato.
 
 <sup>4</sup> Il saldo attivo decade dopo cinque anni dal suo riporto nel conto sabbatico. In casi giustificati il termine può essere prolungato.
 
-<sup>5</sup> ... [^34-4]
+<sup>5</sup> ... [^34-5]
 
 [^34-1]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^34-3]: Abrogato dal n. I dell’O del DFF del 31 mag. 2013, con effetto dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^34-4]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^34-4]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^34-5]: Introdotto dal n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 35
 
@@ -610,15 +613,17 @@ Lo stipendio annuo che funge da base per il calcolo dell’indennità in contant
 
 <sup>2</sup> I giorni festivi di cui all’articolo 66 capoverso 2 OPers che cadono in un periodo di vacanza non contano come giorni di vacanza.[^36-1]
 
+**Art. 37**[^36-2] Interruzione delle vacanze
+
+(art. 67 OPers)
+
+Le vacanze si ritengono interrotte:
+
+- a. se l’impiegato è richiamato per motivi aziendali;
+- b. in caso di infortuno o malattia se l’impiegato è inabile al lavoro per almeno tre giorni di vacanza consecutivi.
+
 [^36-1]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-
-#### Art. 37
-
-**Interruzione delle vacanze**
-
-### (art. 67 OPers)
-
-Le vacanze si ritengono interrotte se l’impiegato è richiamato per motivi aziendali oppure in caso di infortunio o malattia.
+[^36-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 38
 
@@ -684,7 +689,7 @@ Un congedo pagato può essere concesso in particolare per le seguenti attività:
 
 Un congedo pagato viene concesso all’impiegato per i seguenti eventi:
 
-- a.[^40-2] matrimonio, compreso il matrimonio civile, oppure registrazione dell’unione domestica: 1 giorno lavorativo;
+- a.[^40-2] matrimonio, compreso il matrimonio civile: 1 giorno lavorativo;
 - b.[^40-3] ...
 - c.[^40-4] assistenza a un familiare o al partner in caso di malattia o infortunio: il tempo necessario fino a un massimo di tre giorni lavorativi per ogni evento;
 - d. decesso del coniuge, del convivente, di un genitore o di un figlio: tre giorni lavorativi;
@@ -707,7 +712,7 @@ In caso di concessione di congedi, in particolare di quelli di più lunga durata
 <sup>6</sup> In caso di modifica del tasso di occupazione, i restanti giorni di congedo vengono riportati nel nuovo rapporto di lavoro.[^40-7]
 
 [^40-1]: Introdotta dal n. I dell’O del DFF del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^40-2]: Nuovo testo giusta il n. I dell’O del DFF del 31 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^40-2]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^40-3]: Abrogata dal n. I dell’O del DFF del 14 mag. 2021, con effetto dal 1° gen. 2022 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-4]: Nuovo testo giusta il n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Nuovo testo giusta il n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
@@ -874,12 +879,13 @@ In casi giustificati il servizio competente può autorizzare un volo in classe �
 
 <sup>1bis</sup> In caso di viaggi di servizio all’estero le spese devono essere pagate mediante la Travelcard della Confederazione (carta di credito aziendale per gli impiegati della Confederazione).[^48-2]
 
-<sup>2</sup> È fatto salvo il disciplinamento delle spese ai sensi delle Direttive del Consiglio federale del 7 dicembre 2012[^48-3] concernenti l’invio di delegazioni a conferenze internazionali.[^48-4]
+<sup>2</sup> È fatto salvo il disciplinamento delle spese ai sensi delle Direttive del Consiglio federale del 9 dicembre 2022[^48-3] concernenti l’invio di delegazioni a conferenze internazionali[^48-4].[^48-5]
 
 [^48-1]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^48-2]: Introdotto dal n. I dell’O del DFF del 5 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^48-3]: [FF 2012 8341](https://fedlex.data.admin.ch/eli/fga/2012/1759)
-[^48-4]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^48-3]: [FF 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078)
+[^48-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 9 dic. 2022.
+[^48-5]: Nuovo testo giusta il n. I dell’O del DFF del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 49
 
@@ -960,19 +966,22 @@ I dipartimenti possono:
 
 <sup>4</sup> Il rimborso proporzionale per figlio corrisponde alla somma dei tassi di occupazione delle persone che vivono in un’unione domestica ai sensi dell’articolo 75*b* lettera a OPers diminuita del 100 per cento.[^51b-4]
 
-**Art. 51**c*[^51b-5]* Rimborso di spese relative al lavoro mobile
+[^51b-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
+[^51b-2]: Nuovo testo giusta il n. I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
+[^51b-3]: Abrogati dal n. I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
+[^51b-4]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
 
-(art. 72 cpv. 2 lett. f OPers)
+#### Art. 51c
+
+**Rimborso di spese relative al lavoro mobile**[^51c-1]
+
+### (art. 72 cpv. 2 lett. f OPers)
 
 <sup>1</sup> Gli impiegati ai quali non è più messo a disposizione un posto di lavoro nei locali del datore di lavoro per l’intera durata del lavoro convenuta ricevono un importo forfettario annuo. Questo importo include la compensazione della parte della pigione dei locali privati utilizzati come pure la compensazione delle spese per la mobilia, il maggiore consumo di energia elettrica e i mezzi di comunicazione nonché di eventuali altre spese.
 
 <sup>2</sup> Per gli impiegati con un tasso di occupazione del 100 per cento, l’importo forfettario secondo il capoverso 1 ammonta a 200 franchi all’anno per ogni 20 per cento di durata annua del lavoro prestata sotto forma di lavoro mobile. Per gli impiegati occupati a tempo parziale, l’importo forfettario si riduce conformemente alla durata del lavoro prestata.
 
-[^51b-1]: Introdotto dal n. I dell’O del DFF dell’8 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5967](https://fedlex.data.admin.ch/eli/oc/2010/857)).
-[^51b-2]: Nuovo testo giusta il n. I dell’O del DFF del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 844](https://fedlex.data.admin.ch/eli/oc/2021/844)).
-[^51b-3]: Abrogati dal n. I dell’O del DFF del 18 nov. 2020, con effetto dal 1° ago. 2021 ([RU 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^51b-4]: Nuovo testo giusta il n. I dell’O del DFF del 26 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4401](https://fedlex.data.admin.ch/eli/oc/2013/781)).
-[^51b-5]: Introdotto dal n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
+[^51c-1]: Introdotto dal n. I dell’O del DFF del 14 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 
 #### Art. 52
 
@@ -1132,10 +1141,11 @@ I dipartimenti definiscono le categorie dei partecipanti, l’organizzazione, le
 
 <sup>3</sup> Se il ritorno da un viaggio all’estero è reso impossibile da una malattia o da un infortunio un medico deve certificare la durata dell’incapacità di viaggiare.
 
-<sup>4</sup> Se è prescritta una cura o un soggiorno di convalescenza l’impiegato deve presentare una domanda scritta al servizio competente. Esso allega alla richiesta in busta chiusa un corrispondente certificato all’attenzione del servizio medico oppure lo consegna direttamente a quest’ultimo.
+<sup>4</sup> Se è prescritta una cura o un soggiorno di convalescenza l’impiegato deve presentare una domanda scritta al servizio competente.[^61-3]
 
 [^61-1]: Introdotto dal n. I dell’O del DFF del 22 set. 2009, in vigore dal 1° ott. 2009 ([RU 2009 4771](https://fedlex.data.admin.ch/eli/oc/2009/564)).
 [^61-2]: Introdotto n. I dell’O del DFF del 31 mag. 2013 ([RU 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nuovo testo giusta il n. I dell’O del DFF del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^61-3]: Nuovo testo giusta il n. I dell’O del DFF del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 62
 
@@ -3679,7 +3689,7 @@ Supplemento ai sensi del numero 4 capoverso 1 lettera c
 
 Il supplemento ammonta a 1099 franchi all’anno per i figli fino ai 12 anni. Per quelli oltre i 12 anni esso ammonta a 1275 franchi (stato dell’indice del 2001).
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 51*b* cpv. 1)
 

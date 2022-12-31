@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 6 décembre 2001 concernant l'ordonnance sur le per
 short: O-OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/485"
 language: fr
-version: 2022-08-01
+version: 2023-01-01
 adopted: 2001-12-06
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20220801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/485/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-485-20230101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/485/20220801/fr"
 
 (O-OPers)
 
-du 6 décembre 2001 (Etat le 1<sup>er</sup> août 2022)
+du 6 décembre 2001 (État le 1<sup>er</sup> janvier 2023)
 
-Le Département fédéral des finances (DFF),*[^ingress-1]*
+Le Département fédéral des finances (DFF),[^ingress-1]
 
 vu l’art. 116, al. 1, de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPers)[^ingress-2],
 
@@ -142,7 +142,7 @@ En signant le formulaire d’évaluation, les collaborateurs et les supérieurs 
 
 [^7-1]: Abrogé par le ch. I de l’O du DFF du 11 déc. 2009, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6575](https://fedlex.data.admin.ch/eli/oc/2009/812)).
 
-## Chapitre 3 Retraite anticipée****
+## Chapitre 3 Retraite anticipée
 
 [^chap3-1]
 
@@ -252,28 +252,28 @@ Le salaire annuel des stagiaires des hautes écoles est le suivant:
 
 <sup>2</sup> Sont considérés comme des jours fériés donnant droit à une indemnisation les jours fériés mentionnés à l’art. 66, al. 2, OPers.[^12-1]
 
-<sup>3</sup> Une indemnité de 6 fr. 59 est versée pour chaque heure de travail de nuit effectuée sur ordre entre 20 heures et 6 heures et, le samedi, à partir de 18 heures.[^12-2]
+<sup>3</sup> Une indemnité de 6 fr. 76 est versée pour chaque heure de travail de nuit effectuée sur ordre entre 20 heures et 6 heures et, le samedi, à partir de 18 heures.[^12-2]
 
 <sup>4</sup> Pour les employés des entreprises industrielles, les indemnités visées aux al. 1 et 3 sont en principe régies par la loi du 13 mars 1964 sur le travail[^12-3]. La désignation des entreprises industrielles et la fixation du montant de l’indemnité s’effectuent après entente avec l’OFPER.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^12-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 #### Art. 13
 
 **Service de permanence**
 
-<sup>1</sup> Pour les employés rangés dans la 20<sup>e</sup> classe de salaire et en deçà, le montant de l’indemnité pour le service de permanence s’élève à 6 fr. 59 par heure. Pour les employés de la 21<sup>e</sup> classe de salaire et au-delà, il est de 7 fr. 68 par heure.[^13-1]
+<sup>1</sup> Pour les employés rangés dans la 20<sup>e</sup> classe de salaire et en deçà, le montant de l’indemnité pour le service de permanence s’élève à 6 fr. 76 par heure. Pour les employés de la 21<sup>e</sup> classe de salaire et au-delà, il est de 7 fr. 90 par heure.[^13-1]
 
-<sup>2</sup> L’autorité compétente peut allouer une compensation de 10 % sous la forme d’heures de congé et de 1 fr. 30 par heure à la place de l’indemnité prévue à l’al. 1.[^13-2]
+<sup>2</sup> L’autorité compétente peut allouer une compensation de 10 % sous la forme d’heures de congé et de 1 fr. 34 par heure à la place de l’indemnité prévue à l’al. 1.[^13-2]
 
 <sup>2bis</sup> Elle peut fixer une indemnité d’au plus 70 % moins élevée que celle prévue à l’al. 1 pour les employés dont la mobilité n’est pas réduite par le service de permanence.[^13-3]
 
 <sup>3</sup> Les art. 14 et 15 de l’ordonnance 1 du 10 mai 2000 concernant la loi sur le travail[^13-4] sont applicables au service de permanence.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^13-3]: Introduit par le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^13-4]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 
@@ -289,11 +289,12 @@ Le salaire annuel des stagiaires des hautes écoles est le suivant:
 
 ### (art. 45, al. 1, let. c, OPers)
 
-<sup>1</sup> Une allocation de 4 fr. 95 peut être versée pour chaque engagement effectué dans le cadre de plans de service fixes.
+<sup>1</sup> Une allocation de 5 fr. 09 peut être versée pour chaque engagement effectué dans le cadre de plans de service fixes.[^15-2]
 
 <sup>2</sup> Les départements désignent les unités d’organisation qui versent une allocation pour les engagements et fixent les conditions applicables en la matière.
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 16
 
@@ -561,18 +562,19 @@ La Confédération peut réduire temporairement ou durablement ses prestations, 
 
 <sup>1bis</sup> L’employé peut transférer au maximum 100 heures supplémentaires ou heures d’appoint par an sur un compte pour congé sabbatique.[^34-3]
 
-<sup>2</sup> Le congé sabbatique est possible pour les employés rangés dans la 24<sup>e</sup> classe de salaire et au-delà. Dans des cas motivés, les employés rangés dans des classes de salaire inférieures peuvent également prendre un congé sabbatique.
+<sup>2</sup> Le congé sabbatique est possible pour les employés rangés dans la 18<sup>e</sup> classe de salaire et au-delà. Dans des cas motivés, les employés rangés dans des classes de salaire inférieures peuvent également prendre un congé sabbatique.[^34-4]
 
 <sup>3</sup> L’employé peut prendre une fois un congé sabbatique tous les cinq ans. Des congés supplémentaires peuvent être convenus avec l’employé.
 
 <sup>4</sup> Les soldes horaires positifs sont perdus cinq ans après leur mise en compte pour le congé sabbatique. Ce délai peut être prolongé pour des motifs importants.
 
-<sup>5</sup> ...[^34-4]
+<sup>5</sup> ...[^34-5]
 
 [^34-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 [^34-3]: Introduit par le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
-[^34-4]: Abrogé par le ch. I de l’O du DFF du 31 mai 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^34-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
+[^34-5]: Abrogé par le ch. I de l’O du DFF du 31 mai 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
 
 #### Art. 35
 
@@ -619,11 +621,16 @@ Le salaire annuel servant de base au calcul de l’indemnité en espèces selon 
 
 #### Art. 37
 
-**Interruption des vacances**
+**Interruption des vacances**[^37-1]
 
 ### (art. 67 OPers)
 
-Les vacances sont interrompues en cas de rappel pour des raisons de service, ainsi qu’en cas d’accident ou de maladie.
+Les vacances sont interrompues dans les cas suivants:
+
+- a. rappel pour des raisons de service;
+- b. accident ou maladie si l’employé est en incapacité de travail pendant au moins trois jours de vacances consécutifs.
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 38
 
@@ -689,7 +696,7 @@ Un congé payé peut être accordé en particulier pour les activités suivantes
 
 Un congé payé est accordé à l’employé lors des événements suivants:
 
-- a.[^40-2] son mariage (y compris le mariage civil) ou l’enregistrement de son partenariat: 1 jour de travail;
+- a.[^40-2] son mariage, y compris le mariage civil: 1 jour de travail;
 - b.[^40-3] ...
 - c.[^40-4] prise en charge d’un membre de la famille ou du partenaire tombé malade ou victime d’un accident: le temps nécessaire, jusqu’à 3 jours de travail par événement;
 - d. décès de son conjoint, de son partenaire, de l’un de ses parents ou d’un de ses enfants: 3 jours de travail;
@@ -712,7 +719,7 @@ Lorsqu’un congé est accordé, et notamment un congé non payé de longue dur�
 <sup>6</sup> En cas de modification du taux d’occupation, les jours de congé non pris sont transférés dans les nouveaux rapports de travail.[^40-7]
 
 [^40-1]: Introduite par le ch. I de l’O du DFF du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5399](https://fedlex.data.admin.ch/eli/oc/2020/937)).
-[^40-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 31 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)).
+[^40-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 [^40-3]: Abrogée par le ch. I de l’O du DFF du 14 mai 2021, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 14 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 301](https://fedlex.data.admin.ch/eli/oc/2021/301)).
 [^40-5]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
@@ -865,7 +872,7 @@ b. lorsque des motifs l’exigent, comme la conciliation entre vie familiale et 
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 5 juin 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2225](https://fedlex.data.admin.ch/eli/oc/2020/441)).
 [^47-2]: [RS 172.010.331](https://fedlex.data.admin.ch/eli/cc/2009/420)
-[^47-3]: La version actuelle de cette liste peut être consultée sur le site Internet de l’Office fédéral de l’aviation civile :www.bazl.admin.ch &gt; Services &gt; Compagnies interdites en Suisse.
+[^47-3]: La version actuelle de cette liste peut être consultée sur le site Internet de l’Office fédéral de l’aviation civile: www.bazl.admin.ch &gt; Services &gt; Compagnies interdites en Suisse.
 
 #### Art. 48
 
@@ -877,11 +884,11 @@ b. lorsque des motifs l’exigent, comme la conciliation entre vie familiale et 
 
 <sup>1bis</sup> Les frais engendrés par les voyages de service à l’étranger sont payés au moyen de la Travelcard de la Confédération (carte de crédit d’entreprise destinée aux employés de la Confédération).[^48-2]
 
-<sup>2</sup> Sont réservées les réglementations de l’indemnisation des frais régies par les directives du Conseil fédéral du 7 décembre 2012 concernant l’envoi de délégations à des conférences internationales[^48-3].[^48-4]
+<sup>2</sup> Sont réservées les réglementations de l’indemnisation des frais régies par les directives du Conseil fédéral du 9 décembre 2022 concernant l’envoi de délégations à des conférences internationales[^48-3].[^48-4]
 
 [^48-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 [^48-2]: Introduit par le ch. I de l’O du DFF du 5 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4515](https://fedlex.data.admin.ch/eli/oc/2016/735)).
-[^48-3]: [FF 2012 8761](https://fedlex.data.admin.ch/eli/fga/2012/1759)
+[^48-3]: [FF 2022 3078](https://fedlex.data.admin.ch/eli/fga/2022/3078). Le renvoi a été adapté au 9 déc. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 [^48-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2249](https://fedlex.data.admin.ch/eli/oc/2015/418)).
 
 #### Art. 49
@@ -1138,11 +1145,12 @@ Les départements définissent le cercle des participants, l’organisation, les
 
 <sup>3</sup> Au cas où le retour d’un voyage à l’étranger est rendu impossible par une maladie ou par un accident, un médecin doit attester la durée de l’incapacité de voyager.
 
-<sup>4</sup> Lorsqu’une cure ou un séjour de repos est prescrit, l’employé doit adresser une demande à l’autorité compétente. Il la transmet accompagnée d’un certificat correspondant sous enveloppe cachetée à l’intention du service médical ou l’adresse directement à ce dernier.
+<sup>4</sup> Lorsqu’une cure ou un séjour de repos est prescrit, l’employé doit adresser une demande par écrit à l’autorité compétente.[^61-4]
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 22 sept. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4771](https://fedlex.data.admin.ch/eli/oc/2009/564)).
 [^61-2]: Introduit par le ch. I de l’O du DFF du 22 sept. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4771](https://fedlex.data.admin.ch/eli/oc/2009/564)).
 [^61-3]: Introduit par le ch. I de l’O du DFF du 31 mai 2013 ([RO 2013 1605](https://fedlex.data.admin.ch/eli/oc/2013/376)). Nouvelle teneur selon le ch. I de l’O du DFF du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3811](https://fedlex.data.admin.ch/eli/oc/2019/694)).
+[^61-4]: Nouvelle teneur selon le ch. I de l’O du DFF du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 618](https://fedlex.data.admin.ch/eli/oc/2022/618)).
 
 #### Art. 62
 
@@ -3686,7 +3694,7 @@ Supplément en vertu du ch. 4, al. 1, let. c
 
 Le supplément s’élève à 1099 francs par année pour les enfants jusqu’à 12 ans. Pour les enfants de plus de 12 ans, ce montant s’élève à 1275 francs (état 2001)
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-1]
 
 (art. 51*b*, al. 1)
 
