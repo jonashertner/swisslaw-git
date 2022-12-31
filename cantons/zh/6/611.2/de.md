@@ -4,11 +4,10 @@ number: "611.2"
 title: Finanzcontrollingverordnung (FCV)
 short: FCV
 language: de
-version: "2022-06-01"
-nachtrag: "117"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2008-03-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_2-2008_03_05-2008_04_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-611_2-2008_03_05-2008_04_01-119.html"
 text: pdf
 ---
 
@@ -65,7 +64,7 @@ Das Finanzcontrolling erfolgt insbesondere unter den Aspekten a. der Einhaltung 
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 - d. der finanziellen Risiken gemäss § 14 der Verordnung über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 18. Juli 2007 (VOG RR)[^4-1].
 
@@ -179,7 +178,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>5</sup> Reicht ein Budgetkredit der Erfolgsrechnung nicht aus, weil Erträge tiefer als budgetiert ausfallen, ist kein Nachtragskredit erforderlich.
 
@@ -293,7 +292,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Budgetkredit des Folgejahres einer Leistungsgruppe erhöht sich im Umfang der Kreditübertragung.
 
@@ -382,7 +381,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **7**
 
-- 1\. 1. 22 - 115 § 28.[^27-1] Die Verzinsung von Kontokorrenten für Dritte, Fonds im Fremdkapital sowie der liquiden Mittel der Bestandeskonten der Legate und Stiftungen ohne Rechtspersönlichkeit richtet sich nach der Weisung der Finanzdirektion. Diese bezeichnet die zu verzinsenden Konten.
+- 1\. 1. 23 - 119 § 28.[^27-1] Die Verzinsung von Kontokorrenten für Dritte, Fonds im Fremdkapital sowie der liquiden Mittel der Bestandeskonten der Legate und Stiftungen ohne Rechtspersönlichkeit richtet sich nach der Weisung der Finanzdirektion. Diese bezeichnet die zu verzinsenden Konten.
 
 **Andere Zinsen**
 
@@ -487,7 +486,7 @@ Unerlässliche Ausgaben gemäss § 19 Abs. 2 CRG sind insbesondere:
 
 **9**
 
-- 1\. 1. 22 - 115 § 35. Die zuständige Verwaltungseinheit führt für jede Ausgabenbewilligung eine Objektbuchhaltung mit den das Vorhaben betreffenden Ausgaben und Einnahmen.
+- 1\. 1. 23 - 119 § 35. Die zuständige Verwaltungseinheit führt für jede Ausgabenbewilligung eine Objektbuchhaltung mit den das Vorhaben betreffenden Ausgaben und Einnahmen.
 
 [^33-1]: Fassung gemäss RRB vom 30. Juni 2021 (OS 76, 375; ABl 2021-07-09). In Kraft seit 1. Januar 2022.
 
@@ -596,7 +595,7 @@ Die Direktionen und die Staatskanzlei können ihre Kompetenzen gemäss §§ 34, 
 
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Stellungnahme der Finanzdirektion wird den Antragsakten zum Geschäft beigelegt.
 
@@ -679,7 +678,7 @@ Die Direktionen und die Staatskanzlei können ihre Kompetenzen gemäss §§ 34, 
 
 **13**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 ### 6. Abschnitt: Übergangs- und Schlussbestimmungen
 
@@ -734,15 +733,13 @@ LS 410.3 Gesetz über den Beitritt des Kantons Zürich zum Konkordat über die S
 
 **Art. 5 Abs. 3**
 
-LS 412.100 Volksschulgesetz – Staatsbeitrag an die Besoldung der Volksschullehrkräfte – Staatsbeiträge an Schulen mit einem hohen § 62 Abs. 2
+LS 412.100[^hAnhang2hAnhang12-2] Volksschulgesetz – Staatsbeitrag an die Besoldung der Volksschullehrkräfte – Staatsbeiträge an Schulen mit einem hohen § 62 Abs. 2
 
 **§ 61 Abs. 1**
 
 Anteil Fremdsprachiger (i.V. m. § 15 Finanz-
 
-verordnung zum Volksschulgesetz) – Staatsbeiträge an die Schulung von Kindern § 62 Abs. 3 von Asylsuchenden (i.V. m. § 16 Finanz- Satz 1 verordnung zum Volksschulgesetz) – Staatsbeiträge an die Musikschulen (i.V. m. § 3 Musikschulverordnung)
-
-**§ 63**
+verordnung zum Volksschulgesetz) – Staatsbeiträge an die Schulung von Kindern § 62 Abs. 3 von Asylsuchenden (i.V. m. § 16 Finanz- Satz 1 verordnung zum Volksschulgesetz)
 
 LS 413.21 Mittelschulgesetz
 
@@ -756,7 +753,7 @@ anderen Kantonen
 
 **Art. 3**
 
-- 1\. 1. 22 - 115 Nr. Erlass
+- 1\. 1. 23 - 119 Nr. Erlass
 
 **Bestimmungen**
 
@@ -806,7 +803,7 @@ SR 613.2 Bundesgesetz über den Finanz- und Lastenausgleich – Ressourcenausgle
 
 - Härteausgleich (i.V. m. Anhang 18 FiLaV) Art. 19
 
-LS 722.1[^hAnhang2hAnhang12-2] Strassengesetz – Staatsbeiträge an die Städte Zürich und
+LS 722.1[^hAnhang2hAnhang12-3] Strassengesetz – Staatsbeiträge an die Städte Zürich und
 
 **§§ 46 und 47**
 
@@ -820,7 +817,7 @@ SR 742.101 Eisenbahngesetz
 
 (i.V. m. Art. 23 Verordnung über die Konzessionierung, Planung und Finanzierung der Bahninfrastruktur)
 
-LS 832.01[^hAnhang2hAnhang12-3] Einführungsgesetz zum Krankenversicherungsgesetz – Beiträge für die Prämienübernahme der § 14 Abs. 1 Bezügerinnen und Bezüger von Ergänzungsleistungen – Beiträge für Prämienübernahme für Personen unter dem Existenzminimum – Entschädigung für Verlustscheine
+LS 832.01[^hAnhang2hAnhang12-4] Einführungsgesetz zum Krankenversicherungsgesetz – Beiträge für die Prämienübernahme der § 14 Abs. 1 Bezügerinnen und Bezüger von Ergänzungsleistungen – Beiträge für Prämienübernahme für Personen unter dem Existenzminimum – Entschädigung für Verlustscheine
 
 **§ 15 Abs. 1**
 
@@ -838,7 +835,7 @@ in der Landwirtschaft
 
 **19**
 
-- 1\. 1. 22 - 115 Nr. Erlass
+- 1\. 1. 23 - 119 Nr. Erlass
 
 **Bestimmungen**
 
@@ -854,7 +851,7 @@ LS 851.1 Sozialhilfegesetz
 
 hilfeverordnung)
 
-LS 852.2[^hAnhang2hAnhang12-4] Gesetz über die Jugendheime und die Pflegekinderfürsorge – Beiträge für zürcherische Kinder und Jugendliche in ausserkantonalen Heimen (i.V. m. Art. 19 Interkantonale Vereinbarung für soziale Einrichtungen)
+LS 852.2[^hAnhang2hAnhang12-5] Gesetz über die Jugendheime und die Pflegekinderfürsorge – Beiträge für zürcherische Kinder und Jugendliche in ausserkantonalen Heimen (i.V. m. Art. 19 Interkantonale Vereinbarung für soziale Einrichtungen)
 
 LS 855.2 Gesetz über Invalideneinrichtungen für erwachsene Personen und den Transport von mobilitätsbehinderten Personen – Beiträge an die Kosten der bewilligten Leistungen von ausserkantonalen Ein-
 
@@ -865,9 +862,10 @@ richtungen (i.V. m. Art. 19 Interkantonale
 Vereinbarung für soziale Einrichtungen)
 
 [^hAnhang2hAnhang12-1]: Eingefügt durch RRB vom 9. Januar 2018 (OS 73, 144; ABl 2018-01-19). In Kraft seit 1. April 2018.
-[^hAnhang2hAnhang12-2]: Fassung gemäss RRB vom 9. März 2022 (OS 77, 238; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 1. 22 - 115 15
-[^hAnhang2hAnhang12-3]: Fassung gemäss RRB vom 25. März 2020 (OS 75, 224; ABl 2020-04-03). In Kraft seit 1. April 2020.
-[^hAnhang2hAnhang12-4]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 654; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
+[^hAnhang2hAnhang12-2]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 546; ABl 2022-10-14). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 15
+[^hAnhang2hAnhang12-3]: Fassung gemäss RRB vom 9. März 2022 (OS 77, 238; ABl 2022-03-25). In Kraft seit 1. Juni 2022.
+[^hAnhang2hAnhang12-4]: Fassung gemäss RRB vom 25. März 2020 (OS 75, 224; ABl 2020-04-03). In Kraft seit 1. April 2020.
+[^hAnhang2hAnhang12-5]: Fassung gemäss RRB vom 6. Oktober 2021 (OS 76, 654; ABl 2021-10-29). In Kraft seit 1. Januar 2022.
 
 ## Weitere Fussnoten
 
