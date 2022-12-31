@@ -3,20 +3,20 @@ canton: OW
 number: "651.211"
 title: Ausführungsbestimmungen über die Fischerei
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-11-06
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-15
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/651.211"
-pdf: "http://gdb.ow.ch/api/de/versions/1471/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Fischerei
 
-vom 28.10.2008 (Stand 01.01.2019)
+vom 28.10.2008 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -205,6 +205,7 @@ beschliesst:
   - 5\. Die Köderflasche und Köderreuse darf nur während der Tageszeit benützt werden.
   - 6\. Bei der Schleppfischerei mit Ruten, Tiefseeschleike und in der Wirkung vergleichbaren Geräten sind je Boot höchstens sechs Anbissstellen mit einfachen oder mehrendigen Angelhaken erlaubt. Der Einsatz von Seehunden (über und unter Wasser) ist verboten. Als seitliche Ausleger sind Sideplaner und Rutenhunde erlaubt, wobei der seitliche Abstand zum Boot höchstens 20 Meter betragen darf. Das Boot ist gemäss den Vorschriften der Binnenschiffahrtsverordnung[^12-2] mit einem weissen Ball zu kennzeichnen.
   - 7\. Das Verwenden von Angeln mit Widerhaken ist für Anglerinnen und Angler, welche über einen Sachkunde-Nachweis nach Art. 2 dieser Ausführungsbestimmungen verfügen, zugelassen.
+  - 8\. Das Mitführen und Verwenden von Echolotgebern mit Live-Sonar Technologie, die geeignet sind, Bewegungen der Fische in Echtzeit darzustellen, ist verboten.
 - b. Wichelsee:
   - 1\. Im Wichelsee, von der Einmündung der Sarneraa bis zum Stauwehr, dürfen nur Erwachsene mit einem Seepatent fischen.
   - 2\. Die Spinn-, Grund- und Zapfenfischerei ist mit natürlichem oder künstlichem Köder mit einfachen oder mehrendigen Angelhaken erlaubt.
@@ -298,9 +299,7 @@ beschliesst:
 
 <sup>3</sup> Die Schleppfischerei ist nur bei Tageslicht gestattet.
 
-<sup>4</sup> Die Nachtfischerei auf Aale[^17-1] und Trüschen ist vom Ufer aus erlaubt, ausgenommen im Alpnachersee in der Bucht bei der Einmündung der Sarneraa.
-
-[^17-1]: Aale dürfen gemäss der vom Bundesrat am 21. Oktober 2020 beschlossenen Änderung der Verordnung zum Bundesgesetz über die Fischerei (Inkrafttreten 1. Januar 2021) nicht mehr gefangen werden (Art. 2a in Verbindung mit Anhang 1; SR [923.01](https://db.clex.ch/link/Bund/923.01/de); AS 2020, 4825)
+<sup>4</sup> Am Sarnersee ist die Fischerei von öffentlich zugänglichen Ufern aus vom 1. März bis 31. Oktober von 04.00 bis 24.00 Uhr erlaubt.
 
 #### Art. 18
 
@@ -361,6 +360,8 @@ geändert durch:
 
 \- Nachtrag vom 4. November 2014, vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 12. Dezember 2014 (OGS 2014, 60), in Kraft seit 1. Januar 2015 (OGS 2014, 49),
 
-\- Nachtrag vom 6. November 2018 (OGS 2018, 37), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 21. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2019, 1)
+\- Nachtrag vom 6. November 2018 (OGS 2018, 37), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 21. Dezember 2018, in Kraft seit 1. Januar 2019 (OGS 2019, 1),
+
+\- Nachtrag vom 15. November 2022 (OGS 2022, 26), vom Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) genehmigt am 7. Dezember 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 32)
 
 OGS 2008, 85
