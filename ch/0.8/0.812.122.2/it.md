@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Convenzione internazionale del 19 ottobre 2005 contro il doping nello sport (con allegato e appendici)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: it
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2009-95-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2009** 521; FF **2007** 5899
 
 Traduzione
 
-Conclusa a Parigi il 19 ottobre 2005
+Conclusa a Parigi il 19 ottobre 2005 Approvata dall’Assemblea federale il 13 giugno 2008[^t-1] Ratificata dalla Svizzera con strumenti depositati il 23 ottobre 2008 Entrata in vigore per la Svizzera il 1° dicembre 2008
 
-Approvata dall’Assemblea federale il 13 giugno 2008[^t-1]
-
-Ratificata dalla Svizzera con strumenti depositati il 23 ottobre 2008
-
-Entrata in vigore per la Svizzera il 1° dicembre 2008
-
-(Stato 1° gennaio 2020)
+(Stato 1° gennaio 2023)
 
 [^t-1]: [RU 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -124,7 +118,7 @@ Ai fini della presente Convenzione:
 - 24\. per «uso» si intende l’applicazione, l’ingestione, l’iniezione o il consumo con qualunque altro mezzo di una sostanza o di un metodo vietato;
 - 25\. per «Agenzia mondiale antidoping» (AMA) si intende l’omonima fondazione di diritto svizzero, costituita il 10 novembre 1999.
 
-[^2-1]: Le appendici 1 e 3 non sono pubblicate nella RU. Possono essere consultate al sito Internet dell’UNESCO: http://www.unesco.de eingesehen werden. http://portal.unesco.org/fr/ev.php-URL\_ID=31037&URL\_DO=DO\_TOPIC&URL\_SECTION=201.html.
+[^2-1]: Le appendici 1 e 3 non sono pubblicate nella RU. Possono essere consultate al sito Internet dell’UNESCO: [www.unesco.de](https://www.unesco.de/mediathek/dokumente/unesco/unesco-uebereinkommen) &gt; mediathek &gt; dokumente &gt; unesco &gt; unesco-uebereinkommen
 
 #### Art. 3
 
@@ -524,274 +518,25 @@ Non sono ammesse riserve incompatibili con l’oggetto e lo scopo della presente
 
 (Seguono le firme)
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
-## Codice mondiale antidoping
+## Elenco dei divieti del Codice mondiale antidoping
 
-[^t-2]: Non pubblicato nella RU ([RU 2019 5061](https://fedlex.data.admin.ch/eli/oc/2019/801)). La versione attuale dell’Elenco dei divieti del Codice mondiale antidoping, in vigore dal 1° gen. 2020, può essere consultata gratuitamente, in francese e in tedesco, sul sito dell’Antidoping svizzero, autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giu. 2011 ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) sulla promozione dello sport, all’indirizzo www.antidoping.ch.
+[^annexI-lvlu1-1]
 
-Allegato II*[^t-3]*
+[^t-2]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 23 set. 2022, in vigore il 1° gen. 2023 ([RU 2023 522](https://fedlex.data.admin.ch/eli/oc/2023/522)).
+[^annexI-lvlu1-1]: Conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), la versione attuale dello standard può essere consultata gratuitamente nelle tre lingue ufficiali presso l’organo competente per le misure antidoping (Swiss Sport Integrity) all’indirizzo: [www.sportintegrity.ch/sites/default/files/2023\_istue\_it.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_it.pdf)
+
+Allegato II[^t-3]
 
 ## Standard e procedura per la concessione di autorizzazioni d’uso a fini terapeutici (AUT)
 
-[^t-3]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279)).
+[^annexII-lvlu1-1]
 
-Estratto dello «Standard internazionale per l’autorizzazione d’uso a fini terapeutici» dell’Agenzia mondiale antidoping (AMA); in vigore dal 1° gennaio 2016
+[^t-3]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 23 set. 2022, in vigore il 1° gen. 2023 ([RU 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
+[^annexII-lvlu1-1]: Conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), la versione attuale dello standard può essere consultata gratuitamente nelle tre lingue ufficiali presso l’organo competente per le misure antidoping (Swiss Sport Integrity) all’indirizzo: [www.sportintegrity.ch/sites/default/files/2023\_istue\_it.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_it.pdf)
 
-### 4.0 Ottenimento di una AUT
-
-**4.1** A uno *sportivo* si concede una *AUT* se (e solo se) è in grado di dimostrare, con probabilità preponderante, che sono rispettate tutte le condizioni elencate di seguito:
-
-- a. La *sostanza* o il *metodo vietato* in questione è necessario al trattamento di uno stato patologico acuto o cronico tanto che la salute dello sportivo risulterebbe seriamente compromessa se la *sostanza* o il *metodo vietato* non fosse somministrato.
-- b. È altamente inverosimile che l’*uso* terapeutico della *sostanza* o del *metodo vietato* comporti un miglioramento della prestazione sportiva che vada oltre a quello attribuibile al ritrovato stato di salute normale dello *sportivo* a seguito del trattamento della patologia acuta o cronica.
-- c. Non deve esistere alcuna alternativa terapeutica autorizzata che potrebbe sostituire la *sostanza* o il *metodo vietato*.
-- d. La necessità di utilizzare la *sostanza* o il *metodo vietato* non è una conseguenza parziale o totale di un precedente uso (privo di AUT) di una *sostanza* o *metodo vietato* al momento del suo uso.
-
-[Commento in merito all’articolo 4.1: se un CAUT decide di riconoscere o di non riconoscere una AUT accordata da un’altra organizzazione antidoping (v. l’articolo 7 qui di seguito) e se l’AMA esamina una decisione volta ad accordare (o a non accordare) una AUT (v. l’articolo 8 qui di seguito), si dovrà considerare la questione come nel caso in cui un CAUT deve valutare una domanda di AUT in virtù dell’articolo 6 qui di seguito, ossia: lo sportivo ha dimostrato, con probabilità preponderante, che siano rispettate tutte le condizioni previste all’articolo 4.1?
-
-Commento in merito all’articolo 4.1: i documenti pubblicati sul sito dell’AMA intitolati «Informations médicales pour guider les décisions des CAUT» («Informazioni mediche per aiutare i CAUT nel prendere le decisioni»), devono essere utilizzati a sostegno dell’applicazione di questi criteri in presenza di patologie particolari.]
-
-**4.2** Salvo i casi in cui sia applicabile una delle eccezioni previste dall’articolo 4.3, uno sportivo che ha la necessità di usare una *sostanza vietata* o un *metodo vietato* per motivi terapeutici deve ottenere una *AUT* prima di fare uso della sostanza o del metodo in questione o di esserne in possesso.
-
-**4.3** Uno *sportivo* può ottenere un’autorizzazione retroattiva per l’uso di una sostanza vietata o di un metodo vietato a scopi terapeutici (AUT retroattiva) unicamente:
-
-- a. in caso di emergenza medica o di trattamento di una patologia acuta; oppure
-- b. se a causa di altre circostanze eccezionali non vi è stato sufficiente tempo o nessuna possibilità per lo *sportivo* di presentare, o per il CAUT (Comitato per l’autorizzazione d’uso a fini terapeutici) di esaminare, una domanda di AUT prima del controllo antidoping; oppure
-- c. se le regole applicabili esigevano che lo *sportivo* (v. commento in merito all’art. 5.1) o permettevano che lo sportivo (v. l’art. 4.4.5 del *Codice*) presentasse una domanda di *AUT* retroattiva; oppure
-
-[Commento in merito all’articolo 4.3(c): si consiglia vivamente a questi sportivi di allestire una cartella clinica e di essere pronti a dimostrare che rispettano le condizioni dell’AUT previste dall’articolo 4.1, qualora risultasse necessaria la richiesta di una AUT retroattiva a seguito del controllo antidoping.]
-
-- d. se l’*AMA* e l’*organizzazione antidoping* presso la quale la richiesta di *AUT* retroattiva è o sarà presentata considerano che una AUT retroattiva deve essere accordata per questioni di equità.
-
-[Commento in merito all’articolo 4.3(d): se l’AMA e/o l’organizzazione antidoping si rifiutano di applicare l’articolo 4.3(d), tale decisione è incontestabile, sia nel quadro di una procedura per violazione delle regole antidoping sia in un ricorso o in qualsiasi altro contesto.]
-
-### 5.0 Responsabilità delle organizzazioni antidoping in materia di AUT
-
-**5.1** L’articolo 4.4 del *Codice* specifica (a) le *organizzazioni antidoping* che dispongono delle competenze necessarie per prendere decisioni in materia di *AUT*; (b) il modo in cui tali decisioni in materia di *AUT* dovrebbero essere riconosciute e rispettate da altre *organizzazioni antidoping*; e (c) il momento in cui le decisioni in materia di *AUT* possono essere esaminate e/o costituire oggetto di un ricorso.
-
-[Commento in merito all’articolo 5.1: v. allegato 1 per una tabella sinottica delle disposizioni chiave dell’articolo 4.4 del Codice.
-
-L’articolo 4.4.2 del Codice definisce la competenza di un’organizzazione nazionale antidoping in merito alle decisioni in materia di AUT relative a sportivi che non sono sportivi di livello internazionale. In caso di disaccordo in merito a quale organizzazione nazionale antidoping spetti esaminare la domanda di AUT di uno sportivo che non è uno sportivo di livello internazionale, sarà l’AMA a prendere una decisione definitiva e non soggetta a ricorso.
-
-Se le esigenze di politica interna e le priorità nazionali spingono un’organizzazione nazionale antidoping ad assegnare la priorità a determinate discipline sportive anziché ad altre nel corso della pianificazione dei controlli (come previsto dall’articolo 4.4.1 dello Standard internazionale per i controlli e gli esami), l’organizzazione nazionale antidoping può rifiutare di esaminare in anticipo le domande di AUT di sportivi attivi in tutte o in parte delle discipline sportive considerate non prioritarie; in tal caso deve tuttavia permettere a questi sportivi di presentare una domanda di AUT retroattiva qualora fossero sottoposti successivamente a un controllo. L’organizzazione nazionale antidoping è tenuta a informare gli sportivi interessati sul suo sito web.]
-
-**5.2** Ogni *organizzazione nazionale antidoping*, federazione internazionale e *org**a**nizzazione responsabile di grandi manifestazioni* è tenuta a costituire un CAUT per stabilire se le domande di concessione o riconoscimento di una *AUT* rispettano le condizioni previste nell’articolo 4.1.
-
-[Commento in merito all’articolo 5.2: un’organizzazione responsabile di grandi manifestazioni può optare per il riconoscimento automatico delle AUT accordate in precedenza, ma deve allestire un meccanismo affinché gli sportivi che partecipano alla manifestazione possano ottenere una nuova AUT in caso di necessità. A tale scopo, ogni organizzazione responsabile di grandi manifestazioni può decidere se definire il suo proprio CAUT oppure assegnare, tramite un accordo, tale mansione a terzi (come SportAccord). L’obiettivo dovrebbe in ogni caso essere quello di garantire agli sportivi in competizione in queste manifestazioni la possibilità di ottenere rapidamente ed efficacemente una AUT prima di gareggiare.]
-
-- a. I CAUT dovrebbero essere costituiti almeno da tre medici con esperienza nel trattamento e nella cura di sportivi, nonché con solide conoscenze in medicina clinica e sportiva. Nel caso di *sportivi* disabili, almeno un membro del CAUT dovrebbe vantare esperienza generale in materia di trattamenti e cura di questo tipo di *sportivi*, oppure un’esperienza specifica con la/le particolare/i disabilità dello *sportivo*.
-- b. Al fine di garantire l’imparzialità delle decisioni, la maggioranza dei membri del CAUT non dovrebbe assumere responsabilità politiche in seno all’*orga**nizzazione antidoping* che li ha nominati nel CAUT. Tutti i membri del CAUT devono sottoscrivere una dichiarazione di riservatezza e di assenza di conflitti d’interesse. (Il sito web dell’*AMA* mette a disposizione una dichiarazione modello.)
-
-**5.3** Ogni *organizzazione nazionale antidoping*, federazione internazionale e *org**a**nizzazione responsabile di grandi manifestazioni* è tenuta a stabilire e pubblicare una procedura chiara applicabile alle domande di AUT inoltrate al suo CAUT e conforme al presente *standard internazionale*. È inoltre tenuta a diffondere i dettagli inerenti a tale procedura (perlomeno) pubblicandoli in modo facilmente accessibile sul suo sito web e trasmettendoli all’*AMA*. A sua volta, l’*AMA* può pubblicare queste informazioni sul proprio sito web.
-
-**5.4** Ogni *organizzazione nazionale antidoping*, federazione internazionale e *org**a**nizzazione responsabile di grandi manifestazioni* è tenuta a comunicare rapidamente (in inglese o in francese), tramite *ADAMS* o un altro sistema approvato dall’*AMA*, tutte le decisioni prese dal suo CAUT in merito all’accettazione o al rifiuto di una *AUT*, come pure qualsiasi decisione di riconoscere o rifiutare una decisione in materia di AUT presa da un’altra *organizzazione antidoping*. Le informazioni (in inglese o in francese) comunicate in concomitanza alle AUT accordate dovranno includere:
-
-- a. la sostanza o il metodo approvato, come pure la posologia, la frequenza e la via di *somministrazione* ammesse, la durata della *AUT*, e tutte le condizioni imposte relative alla AUT; e
-- b. il modulo per la domanda di *AUT* e le informazioni cliniche pertinenti al caso (tradotte in inglese o in francese), le quali stabiliscono che le condizioni dell’articolo 4.1 sono state rispettate (tali informazioni sono accessibili unicamente all’*AMA*, all’*organizzazione nazionale antidoping* e alla federazione internazionale dello *sportivo*, nonché all’organizzazione responsabile della *manifestazione* alla quale lo *sportivo* desidera partecipare).
-
-[Commento in merito all’articolo 5.4: la procedura di riconoscimento delle AUT è ampiamente facilitata dall’uso di ADAMS.]
-
-**5.5** Quando un’*organizzazione nazionale antidoping* accorda una *AUT* a uno *spor**tivo*, è tenuta ad avvisarlo per iscritto (a) che la *AUT* è valida esclusivamente a livello nazionale, e (b) che se lo *sportivo* diventa uno *sportivo di livello internazi**o**nale* o gareggia a una *manifestazione internazionale*, tale *AUT* non è valida, ad eccezione del caso in cui fosse riconosciuta dalla federazione internazionale o dall’*organizzazione responsabile delle grandi manifestazioni* conformemente all’articolo 7.1. Pertanto, l’*organizzazione nazionale antidoping* dovrebbe aiutare lo *sport**i**vo* a stabilire il momento in cui sottoporre la sua *AUT* a una federazione internazionale o a un’*organizzazione responsabile di grandi manifestazioni* per il riconoscimento, oltre ad assistere e sostenere lo *sportivo* nel corso dell’intera procedura di riconoscimento.
-
-**5.6** Ogni federazione internazionale e *organizzazione responsabile di grandi man**i**festazioni* è tenuta a pubblicare un elenco (perlomeno rendendolo accessibile facilmente sul suo sito web e inviandolo all’*AMA*) indicando in modo inequivocabile (1) gli *sportivi* che dipendono dalla sua competenza e che sono tenuti a indirizzarsi a lei per richiedere una *AUT* e le scadenze per formulare una tale richiesta; (2) le decisioni in materia di *AUT* prese da altre *organizzazioni antidoping* da lei automaticamente riconosciute e che pertanto non necessitano di una tale domanda conformemente all’articolo 7.1(a); e (3) le decisioni in materia di *AUT* prese da altre *org**a**nizzazioni antidoping* che devono esserle sottoposte per il riconoscimento, conformemente all’articolo 7.1(b). L’*AMA* può pubblicare tale elenco sul proprio sito web.
-
-**5.7** Qualsiasi *AUT* che uno *sportivo* ha ottenuto da un’*organizzazione nazionale antidoping* non è più valida se lo *sportivo* diventa uno *sportivo di livello internazi**o**nale* o gareggia in una *manifestazione internazionale*, salvo che la federazione internazionale riconosca tale *AUT* conformemente all’articolo 7. Qualsiasi *AUT* che uno *sportivo* ha ricevuto da una federazione internazionale non è valida se lo *sport**i**vo* gareggia in una *manifestazione internazionale* organizzata da un’*organizzazione responsabile di grandi manifestazioni*, salvo che l’*organizzazione responsabile di grandi manifestazioni* competente riconosca tale *AUT* conformemente all’articolo 7. Di conseguenza, se la federazione internazionale o l’*organizzazione responsabile di grandi manifestazioni* (a seconda del caso) non riconosce tale AUT, questa (con riserva dei diritti dello *sportivo* di inoltrare domanda di riesame da parte dell’AMA o di fare ricorso) non potrà essere invocata per giustificare la presenza, l’*uso*, il *possesso* o l’*amministrazione* della *sostanza vietata* o del *metodo vietato* indicati nella AUT al cospetto della federazione internazionale o dell’*organizzazione responsabile di grandi manifestazioni* in questione.
-
-### 6.0 Procedura di domanda di AUT
-
-**6.1** Lo *sportivo* che necessita di una *AUT* dovrebbe inoltrare la domanda prima possibile. Nel caso di sostanze vietate unicamente in *competizione*, lo *sportivo* dovrebbe inoltrare una domanda di *AUT* almeno 30 giorni prima della successiva *competizione*, salvo in caso d’emergenza o di situazione eccezionale. Lo *sportivo* dovrebbe inoltrare la domanda alla sua *organizzazione nazionale antidoping*, alla sua federazione internazionale e/o a un’*organizzazione responsabile di grandi manifestazioni* (a seconda del caso), avvalendosi del modulo di domanda di *AUT* disponibile. Le *organizzazioni antidoping* devono mettere a disposizione sul loro sito web, da scaricare, il modulo di domanda che desiderano sia utilizzato dai loro *sportivi*. Tale modulo deve basarsi sul modello dell’allegato 2. Il modello può essere modificato dalle *organizzazioni antidoping* per includere esigenze supplementari a scopo informativo, tuttavia non è ammesso sopprimere alcuna sezione e alcun articolo del modulo.
-
-**6.2** Lo *sportivo* deve inoltrare il modulo di domanda di *AUT* all’*organizzazione antidoping* competente tramite il sistema *ADAMS* o nella modalità specificata dall’*organizzazione antidoping*. Tale modulo deve essere accompagnato da:
-
-- a. un’attestazione di un medico qualificato, che conferma la necessità dello *sportivo* di fare *uso* della *sostanza vietata* o del *metodo vietato* in questione per motivi terapeutici; e
-- b. un’anamnesi completa, compresa la documentazione allestita dal/dai medico(i) che ha/hanno eseguito la prima diagnosi (se possibile) nonché i risultati di tutti gli esami, analisi di laboratorio e referti radiologici pertinenti alla domanda.
-
-[Commento in merito all’articolo 6.2(b): le informazioni relative alla diagnosi, al trattamento e alla durata della validità dovrebbero basarsi sul documento «Informations médicales pour guider les décisions des CAUT» («Informazioni mediche per aiutare i CAUT nel prendere le decisioni») dell’AMA.]
-
-**6.3** Lo *sportivo* conserverà una copia completa del modulo di domanda di *AUT* e di tutti i documenti e tutte le informazioni inoltrati a sostegno della domanda in questione.
-
-**6.4** La domanda di *AUT* sarà esaminata dal CAUT unicamente se il CAUT riceve il modulo di domanda debitamente compilato, corredato di tutti i documenti pertinenti. Le domande incomplete saranno rinviate allo *sportivo* affinché le completi e le inoltri nuovamente.
-
-**6.5** Il CAUT può richiedere allo *sportivo* o al suo medico tutte le informazioni, risultati di esami o referti radiologici supplementari, o qualsiasi altra informazione che il CAUT ritenga necessaria alla verifica della domanda dello *sportivo*; e/o il CAUT può ricorrere all’assistenza di esperti medici o scientifici nella misura ritenuta appropriata.
-
-**6.6** Tutte le spese che lo *sportivo* sostiene per sottoporre la domanda di *AUT* e per completarla in base alle esigenze del CAUT sono a carico dello *sportivo*.
-
-**6.7** Il CAUT deciderà se accettare o rifiutare la domanda il più presto possibile, normalmente (ossia in assenza di circostanze eccezionali) entro 21 giorni a partire dalla data di ricezione di una domanda completa. Qualora una domanda di *AUT* venga inoltrata entro un termine ragionevole prima di una *manifestazione*, il CAUT deve fare del suo meglio al fine di comunicare la propria decisione prima dell’inizio della *manifestazione*.
-
-**6.8** La decisione del CAUT deve essere notificata per iscritto allo *sportivo*, e comunicata all’*AMA* e alle altre *organizzazioni antidoping* tramite *ADAMS* o un altro sistema di intermediazione approvato dall’*AMA* conformemente all’articolo 5.5.
-
-- a. Il rilascio di una *AUT* deve specificare la posologia, la frequenza, la via e la durata di *somministrazione* permesse dal CAUT per la *sostanza vietata* o il *metodo vietato* in questione, e rivelare le circostanze cliniche come pure qualsivoglia condizione imposta in rapporto alla AUT.
-- b. Una decisione di rifiuto di una *AUT* deve includere i motivi del rifiuto.
-
-**6.9** Ogni *AUT* deve avere una durata precisa definita dal CAUT, al termine della quale la AUT scade. Lo *sportivo* che deve continuare a fare uso della *sostanza vietata* o del *metodo vietato* successivamente alla data di scadenza, dovrà inoltrare una nuova domanda di *AUT* entro un termine sufficientemente anteriore alla data di scadenza.
-
-[Commento in merito all’articolo 6.9: la durata di validità deve basarsi sui consigli inclusi nel documento «Informations médicales pour guider les décisions des CAUT» («Informazioni mediche per aiutare i CAUT nel prendere le decisioni») dell’AMA.]
-
-**6.10** L’*AUT* sarà annullata prima della data di scadenza qualora lo *sportivo* non rispetti subito qualsiasi richiesta o condizione imposta dall’*organizzazione antid**o**ping* che ha accordato la *AUT*. Inoltre, una *AUT* può anche essere invalidata dall’*AMA* o a seguito di un ricorso.
-
-**6.11** Se un *risultato d’analisi fuori norma* è riscontrato poco dopo la scadenza di una *AUT* per la *sostanza vietata* in questione, o dopo l’annullamento o l’invalidazione della medesima *AUT*, l’*organizzazione antidoping* che esegue l’esame iniziale del *risultato d’analisi fuori norma* (art. 7.2 del *Codice*) deve determinare se tale risultato è compatibile con l’*uso* della *sostanza vietata* prima della data di scadenza, d’annullamento o d’invalidazione della *AUT*. Se ciò dovesse essere il caso, tale uso (e qualsiasi presenza della *sostanza vietata* nel *controllo antidoping* dello *sportivo* che ne risulti) non costituisce una violazione delle regole antidoping.
-
-**6.12** Lo *sportivo* deve inoltrare una nuova domanda di *AUT* se, dopo aver ottenuto una *AUT*, necessita di una posologia, frequenza, via o durata di *somministrazione* della *sostanza vietata* o del *metodo vietato* sensibilmente differente da quanto specificato nella *AUT*. Se la presenza, l’uso, il *possesso* o la *somministrazione* della *sostanza vietata* o del *metodo vietato* non è compatibile con i termini della *AUT* accordata, il fatto che lo *sportivo* possieda una *AUT* non impedirà di giungere alla conclusione che abbia commesso una violazione delle regole antidoping.
-
-### 7.0 Procedura di riconoscimento di una AUT
-
-**7.1** L’articolo 4.4 del *Codice* esige che le *organizzazioni antidoping* riconoscano le *AUT* che soddisfano le condizioni dell’articolo 4.1 accordate da altre *organizzazioni antidoping*. Di conseguenza, lo *sportivo* che viene assoggettato alle esigenze di una federazione internazionale o di un’*organizzazione responsabile di grandi manifest**a**zioni* in materia di *AUT* e che possiede già una AUT, non è tenuto a inoltrare una nuova domanda di *AUT* presso la federazione internazionale o l’*organizzazione responsabile di grandi manifestazioni*. Anziché questo:
-
-- a. La federazione internazionale o l’*organizzazione responsabile di grandi m**a**nifestazioni* può segnalare che riconoscerà automaticamente le decisioni in materia di *AUT* prese in virtù dell’articolo 4.4 del *Codice* (o determinate categorie di decisioni, p. es. quelle di certe *organizzazioni antidoping*, o quelle concernenti determinate *sostanze vietate*), premesso che queste decisioni in materia di AUT siano state rapportate conformemente all’articolo 5.4 e siano quindi disponibili per una verifica da parte dell’*AMA*. Se la *AUT* dello *spo**r**tivo* appartiene a una categoria di *AUT* automaticamente riconosciuta, lo *sportivo* non deve intraprendere ulteriori passi.
-
-[Commento in merito all’articolo 7.1(a): per facilitare le procedure degli sportivi, il riconoscimento automatico delle decisioni in materia di AUT, una volta che sono state rapportate conformemente all’articolo 5.4, è fortemente incoraggiato. Se una federazione internazionale o un’organizzazione responsabile di grandi manifestazioni non vuole riconoscere automaticamente tutte le AUT, dovrebbe riconoscere automaticamente il maggior numero di decisioni possibile, p. es. pubblicando un elenco delle organizzazioni antidoping le cui decisioni in materia di AUT saranno riconosciute automaticamente e/o un elenco delle sostanze vietate per le quali le AUT saranno riconosciute automaticamente. Tale pubblicazione dovrebbe avvenire come illustrato nell’articolo 5.3, ossia l’elenco dovrebbe essere pubblicato sul sito web della federazione internazionale e trasmesso all’AMA e alle organizzazioni antidoping nazionali.]
-
-- b. In assenza di riconoscimento automatico, lo *sportivo* deve inoltrare una domanda di riconoscimento di *AUT* presso la federazione internazionale o l’*organizzazione responsabile di grandi manifestazioni* in questione, tramite *ADAMS* o un altro sistema indicato dalla federazione internazionale o dall’*organizzazione responsabile di grandi manifestazioni*. La domanda deve essere accompagnata da una copia della *AUT*, dal modulo di domanda originale di *AUT* e dai documenti inoltrati a sostegno di suddetta domanda e citati negli articoli 6.1 e 6.2 (salvo che l’*organizzazione antidoping* che ha accordato la *AUT* abbia già trasmesso la *AUT* e i documenti a essa correlati tramite *ADAMS* o un altro sistema d’intermediazione approvato dall’*AMA*, conformemente all’articolo 5.4).
-
-**7.2** Le domande di riconoscimento di *AUT* incomplete saranno rinviate allo *sportivo* affinché le completi e le inoltri nuovamente. Inoltre, il CAUT può richiedere allo *sportivo* o al suo medico tutte le informazioni, i risultati di esami o referti radiologici supplementari, o qualsiasi altra informazione che il CAUT ritenga necessaria alla verifica della domanda di riconoscimento della *AUT* dello *sportivo*; e/o il CAUT può ricorrere all’assistenza di esperti medici o scientifici nella misura ritenuta appropriata.
-
-**7.3** Tutte le spese che lo *sportivo* sostiene per inoltrare la domanda di riconoscimento di *AUT* e per completarla in base alle esigenze del CAUT sono a carico dello sportivo.
-
-**7.4** Il CAUT deciderà se riconoscere o meno la *AUT* il più presto possibile, e normalmente (ossia in assenza di circostanze eccezionali) entro 21 giorni a partire dalla data di ricezione di una domanda di riconoscimento completa. Qualora una domanda venga inoltrata entro un termine ragionevole prima di una *manifestazione*, il CAUT deve fare del suo meglio per comunicare la propria decisione prima dell’inizio della *manifestazione*.
-
-**7.5** La decisione del CAUT deve essere notificata per iscritto allo *sportivo*, e comunicata all’*AMA* e alle altre *organizzazioni antidoping* tramite *ADAMS* o un altro sistema di intermediazione approvato dall’*AMA*. Una decisione di non riconoscimento di una *AUT* deve includere i motivi del rifiuto.
-
-### 8.0 Esame delle decisioni di AUT da parte dell’AMA
-
-**8.1** L’articolo 4.4.6 del *Codice* prevede che l’*AMA*, in determinati casi, debba esaminare le decisioni prese dalle federazioni internazionali in materia di AUT e che possa esaminare qualsiasi altra decisione in materia di *AUT*, al fine di determinarne la conformità alle condizioni previste dall’articolo 4.1. L’*AMA* stabilirà un CAUT che risponda alle esigenze dell’articolo 5.2 al fine di procedere ai suddetti esami.
-
-**8.2** Qualsiasi domanda d’esame sarà inoltrata all’*AMA* per iscritto e accompagnata dal pagamento delle spese di dossier stabilite dall’*AMA*, come pure da una copia di tutte le informazioni previste dall’articolo 6.2 (o, nel caso dell’esame di una *AUT* rifiutata, di tutte le informazioni che lo *sportivo* aveva inoltrato assieme alla domanda originale di *AUT*). Una copia della domanda sarà trasmessa alla parte la cui decisione è soggetta a esame come pure allo *sportivo* (se non è stato lui a inoltrare la domanda d’esame).
-
-**8.3** Se la domanda d’esame concerne una decisione in materia di *AUT* che l’*AMA* non è tenuta a esaminare, l’*AMA* informerà lo *sportivo* appena possibile del rinvio o no della decisione al suo CAUT a scopo d’esame. Se decide di non coinvolgere il suo CAUT, l’*AMA* rimborserà allo *sportivo* le spese di dossier correlate alla domanda. Qualsiasi decisione presa dall’*AMA* di non rinviare il caso al suo CAUT è definitiva e non può costituire oggetto di un ricorso. Per contro, la decisione in materia di *AUT* può costituire oggetto di ricorso, come previsto dall’articolo 4.4.7 del *Codice*.
-
-**8.4** Se la domanda concerne l’esame di una decisione presa da una federazione internazionale in materia di *AUT* che l’*AMA* è tenuta a esaminare, l’*AMA* può malgrado ciò rinviare il caso alla federazione internazionale (a) per eseguire chiarimenti (p. es. se le ragioni non sono indicate inequivocabilmente nella decisione); e/o (b) affinché la federazione internazionale riconsideri il caso (p. es. se la *AUT* è stata rifiutata unicamente perché mancavano i risultati delle analisi mediche o altre informazioni richieste a dimostrazione che erano soddisfatte le condizioni previste dall’articolo 4.1).
-
-**8.5** Quando una domanda d’esame è rinviata al CAUT dell’*AMA*, questo può chiedere all’*organizzazione antidoping* e/o allo *sportivo* informazioni complementari, compresi esami supplementari come quelli descritti nell’articolo 6.5, e/o può ricorrere all’assistenza di altri esperti medici o scientifici, nella misura ritenuta opportuna.
-
-**8.6** Il CAUT dell’*AMA* dichiarerà nulla qualsiasi *AUT* che non soddisfi le condizioni dell’articolo 4.1. Se la *AUT* annullata era prospettiva (e non retroattiva), l’annullamento entrerà in vigore nella data specificata dall’*AMA* (data che non dovrà precedere la data di notifica dello *sportivo* da parte dell’*AMA*). L’annullamento della AUT non avrà effetto retroattivo e non annullerà i risultati dello *sportivo* antecedenti la notifica da parte dell’*AMA*. Tuttavia, se la *AUT* annullata è una *AUT* retroattiva, l’annullamento sarà parimenti retroattivo.
-
-**8.7** Il CAUT dell’*AMA* annullerà qualsiasi rifiuto di *AUT* da parte di un’*organizza**zione antidoping* se la domanda di *AUT* soddisfaceva le condizioni dell’articolo 4.1. In tal caso, il CAUT dell’*AMA* rilascerà quindi la *AUT*.
-
-**8.8** Quando il CAUT dell’*AMA* esamina la decisione di una federazione internazionale assegnatagli in virtù dell’articolo 4.4.3 del *Codice* (esame obbligatorio), può esigere che l’*organizzazione antidoping* non considerata (vale a dire l’*organizza**zione antidoping* di cui non conferma il punto di vista) (a) rimborsi le spese di dossier alla parte che ha portato la decisione davanti all’*AMA* (se il caso lo richiede); e/o (b) rimborsi le spese sostenute dall’*AMA* in concomitanza con tale esame, qualora queste non fossero coperte dalle spese di dossier.
-
-**8.9** Quando il CAUT dell’*AMA* annulla una decisione in materia di *AUT* che l’*AMA* ha deciso di esaminare di sua propria iniziativa, l’*AMA* può esigere che l’*organizza**zione antidoping* che ha preso la decisione rimborsi le spese sostenute dall’*AMA* in relazione a tale esame.
-
-**8.10** L’*AMA* comunicherà rapidamente la decisione motivata del suo CAUT allo *sportivo*, all’*organizzazione nazionale antidoping* e alla federazione internazionale dello sportivo (e, all’occorrenza, all’*organizzazione responsabile di grandi manif**e**stazioni*).
-
-### 9.0 Riservatezza delle informazioni
-
-**9.1** La raccolta, l’archiviazione, il trattamento, la divulgazione e la ritenzione di dati personali durante una procedura di *AUT* da parte delle *organizzazioni antidoping* e da parte dell’*AMA* rispettano lo Standard internazionale per la protezione dei dati personali.
-
-**9.2** Uno *sportivo* che inoltra una domanda di *AUT* o una domanda di riconoscimento di *AUT* deve fornire il consenso scritto:
-
-- a. alla trasmissione di tutte le informazioni concernenti la domanda ai membri di tutti i CAUT aventi competenza in virtù del presente *standard interna**zionale* per esaminare il dossier e, se necessario, ad altri esperti medici e scientifici indipendenti nonché a tutto il personale (compresi i collaboratori dell’*AMA*) che partecipa al trattamento, all’esame o ai ricorsi relativi alle domande di AUT;
-- b. alla trasmissione al CAUT da parte del/dei medico/i dello *sportivo*, su richiesta del CAUT, di qualsiasi informazione relativa alla sua salute che il CAUT reputi necessaria per esaminare la domanda dello *sportivo* e prendere una decisione; e
-- c. alla trasmissione della decisione relativa alla domanda a tutte le *organizz**a**zioni antidoping* che dispongono di competenze sullo *sportivo* in materia di *controlli* e/o di gestione dei risultati.
-
-[Commento in merito all’articolo 9.2: prima di raccogliere dati personali o ottenere il consenso di uno sportivo, l’organizzazione antidoping comunicherà allo sportivo le informazioni concordate nell’articolo 7.1 dello Standard internazionale per la protezione dei dati personali.]
-
-**9.3** La domanda di *AUT* sarà trattata nel rispetto dei più severi principi di riservatezza medica. I membri del CAUT, gli esperti indipendenti e il personale coinvolto dell’*organizzazione antidoping* svolgeranno tutte le loro attività relative alla procedura con la massima riservatezza, sottoscrivendo i relativi accordi. In particolare, devono restare strettamente confidenziali i seguenti dati:
-
-- a. tutti i dati o le informazioni medici forniti dallo *sportivo* e dal/dai medico/i curante/i dello *sportivo*;
-- b. tutti i dettagli inerenti alla domanda, compreso il nome del/dei medico/i coinvolto/i nel processo.
-
-**9.4** Se uno *sportivo* desidera revocare l’autorizzazione data al CAUT di ottenere qualsiasi informazione inerente alla sua salute, lo *sportivo* è tenuto ad avvisare per iscritto il suo medico curante. A seguito della suddetta revoca, la domanda di una *AUT* o di riconoscimento di una *AUT* esistente da parte dello sportivo sarà considerata come ritirata senza il rilascio di un’autorizzazione o di un riconoscimento.
-
-**9.5** Le *organizzazioni antidoping* impiegheranno le informazioni comunicate da uno *sportivo* in relazione a una domanda di *AUT* esclusivamente per valutare tale domanda e nell’ambito di indagini e procedure concernenti potenziali violazioni delle regole antidoping.
-
-Allegato 1
-
-## Schema illustrativo dell’articolo 4.4 del Codice
-
-**1.** Nel momento in cui una AUT si rivela necessaria, lo *sportivo* non è uno *sportivo di livello internazionale*
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/it/xml/image/image1.png)
-
-**2.** Lo *sportivo* si iscrive a una *manifestazione* in cui l’*organizzazione* *responsabile di grandi manifestazioni* ha le sue proprie esigenze riguardo alle *AUT*
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/it/xml/image/image2.png)
-
-**3.** Lo *sportivo* è uno *sportivo di livello internazionale* (quindi assoggettato alle esigenze della federazione internazionale in materia di *AUT*)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/it/xml/image/image3.png)
-
-Allegato 2
-
-## Modello per il modulo di domanda di AUT
-
-Identificazione dell’organizzazione antidoping
-
-(logo o nome della OAD)
-
-Modulo di domanda d’autorizzazione d’uso a fini terapeutici (AUT)
-
-Siete pregati di compilare le sezioni in lettere maiuscole oppure a macchina. Lo sportivo deve completare le sezioni 1, 5, 6 e 7; il medico le sezioni 2, 3 e 4. Le domande illeggibili o incomplete saranno rinviate e dovranno essere nuovamente sottoposte in forma leggibile e completa.
-
-\1. Informazioni concernenti lo sportivo
-
-<table>
-<tr><td>Cognome: Nomi: Sesso Femminile ◻ Maschile ◻ Data di nascita (gg/mm/aaaa) Indirizzo: Località: Paese: Codice postale:: Tel.: e-mail: *(con codice internazionale)* Sport: Disciplina/posizione: Organizzazione sportiva internazionale o nazionale: Gli sportivi con una disabilità sono pregati di specificare quale:</td></tr>
-</table>
-
-\2. Informazioni mediche *(continuare su un foglio separato se necessario)*
-
-<table>
-<tr><td>Diagnosi: Se un farmaco autorizzato può essere somministrato per trattare la patologia, occorre fornire una giustificazione medica per la richiesta d’uso di un farmaco vietato:</td></tr>
-</table>
-
-Osservazione:
-
-Gli elementi che confermano la diagnosi saranno allegati e inoltrati assieme alla presente domanda. Le prove mediche comprendono un’anamnesi completa nonché i risultati di tutti gli esami, analisi di laboratorio e referti radiologici pertinenti al caso. Nel limite del possibile, verrà allegata una copia di tutta la corrispondenza e/o dei rapporti originali. Le prove saranno il più oggettive possibili, considerate le circostanze cliniche. Nel caso di patologie impossibili da dimostrare, un consulto medico indipendente sarà allegato a sostegno della presente domanda.
-
-L’AMA aggiorna una serie di linee direttive volte ad aiutare i medici nella preparazione delle domande di AUT complete e dettagliate. È possibile consultare questi documenti, intitolati «Informations médicales pour éclairer les décisions des CAUT» («Informazioni mediche per aiutare i CAUT nel prendere le decisioni») inserendo il termine di ricerca «Informazioni mediche» sul sito web dell’AMA (https://www.wada-ama.org). Queste linee direttive si basano sulla diagnosi e il trattamento di un numero elevato di affezioni che toccano comunemente gli sportivi e che necessitano di un trattamento con sostanze vietate.
-
-\3. Dettagli riguardo ai farmaci
-
-<table>
-<tr><td>Sostanza(e) vietata(e): Nome generico</td><td>Posologia</td><td>Metodo di somministrazione</td><td>Frequenza</td><td>Durata del trattamento</td></tr>
-<tr><td>1.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.</td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-\4. Attestazione del medico
-
-<table>
-<tr><td>**Io, sottoscritto(a), certifico che le informazioni riportate nelle precedenti sezioni 2 e 3 sono esatte e che il trattamento summenzionato è appropriato dal punto di vista medico.** Cognome: Specializzazione medica: Indirizzo: Tel.: Fax: e-mail: Firma del medico: Data:</td></tr>
-</table>
-
-\5. Domande retroattive
-
-<table>
-<tr><td>La presente domanda è retroattiva? Sì: ◻ No: ◻ In caso affermativo in quale data ha avuto inizio il trattamento?</td><td>Indicare la ragione: Emergenza medica o trattamento di una patologia acuta ◻ A causa di altre circostanze eccezionali non vi è stato sufficiente tempo o possibilità per sottoporre una domanda di AUT prima del prelievo antidoping ◻ Domanda prima dell’uso di una sostanza non obbligatoria in virtù delle regole applicabili ◻ Altra ragione ◻ Spiegazioni:</td></tr>
-</table>
-
-\6. Domande precedenti
-
-<table>
-<tr><td>Avete già inoltrato una/delle domanda(e) di AUT in precedenza? Sì ◻ No ◻ Per quale sostanza o metodo? Presso chi? Quando? Decisione: Approvata ◻ Rifiutata ◻</td></tr>
-</table>
-
-\7. Dichiarazione dello sportivo
-
-Io sottoscritto(a), …………………………, attesto che le informazioni fornite nelle sezioni 1, 5 e 6 sono esatte. Autorizzo la divulgazione delle informazioni mediche personali ai collaboratori autorizzati dell’organizzazione antidoping (OAD) e dell’AMA, al CAUT (Comitato d’autorizzazione d’uso a fini terapeutici) dell’AMA e ad altri CAUT di OAD nonché al personale autorizzato che potrebbe avere il diritto di conoscere tali informazioni in virtù del Codice mondiale antidoping e/o dello Standard internazionale per le autorizzazioni d’uso a fini terapeutici.
-
-Autorizzo il mio/i miei medico(i) a comunicare alle persone summenzionate qualsiasi informazione relativa al mio stato di salute reputata necessaria al fine di esaminare la mia domanda e prendere una decisione.
-
-Prendo nota che tali informazioni saranno impiegate unicamente per valutare la mia domanda di AUT e nel contesto di indagini e procedure relative a potenziali violazioni delle regole antidoping. Prendo nota che se desidero (1) ottenere maggiori informazioni in merito all’impiego dei miei dati; (2) esercitare il mio diritto d’accesso e di correzione; o (3) revocare il diritto di queste organizzazioni a ottenere informazioni sulla mia salute, devo comunicarlo per iscritto al mio medico e alla mia OAD. Prendo nota e accetto la potenziale necessità che le informazioni inerenti alle AUT inoltrate prima del ritiro del mio consenso siano archiviate al solo scopo di stabilire una potenziale violazione delle regole antidoping, conformemente alle esigenze del Codice.
-
-Acconsento che la decisione relativa alla presente domanda sia comunicata a tutte le organizzazioni antidoping e alle altre organizzazione competenti per i controlli e/o la gestione dei risultati.
-
-Prendo nota e accetto che i destinatari delle mie informazioni e della decisione inerente alla presente domanda possano risiedere al di fuori dal mio Paese di domicilio. È possibile che in alcuni di questi Paesi le leggi sulla protezione dei dati personali e sulla tutela della sfera privata non siano equivalenti a quelle in vigore nel mio Paese di residenza.
-
-Prendo nota della possibilità di querelare l’AMA o il TAS qualora reputassi che i miei dati personali non vengano utilizzati nel rispetto del presente consenso e dello Standard internazionale per la protezione dei dati personali.
-
-Firma dello sportivo: Data:
-
-Firma del genitore o del tutore dello sportivo:
-
-Data:
-
-(Se lo sportivo fosse minorenne o affetto da una disabilità che gli impedisca di firmare il presente modulo, un genitore o tutore è tenuto a firmarlo a suo nome.)
-
-**Inoltrare il modulo debitamente compilato a …………… tramite il mezzo indicato di seguito (conservandone una copia personale): …………**
-
-Campo d’applicazione il 13 giugno 2018**[^t-4]**
+Campo d’applicazione il 13 giugno 2018[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -995,4 +740,4 @@ Campo d’applicazione il 13 giugno 2018**[^t-4]**
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): http://portal.unesco.org («Legal Instruments») oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alla Groenlandia e alle Isole Faeröer. <sup>b</sup> La Conv. non si applica a Tokelau</td></tr>
 </table>
 
-[^t-4]: [RU 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95), [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30)[3167](https://fedlex.data.admin.ch/eli/oc/2010/423), [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530), [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286), [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586), [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253), [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279)e [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95); [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30), [3167](https://fedlex.data.admin.ch/eli/oc/2010/423); [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530); [2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286); [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586); [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253); [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279); [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

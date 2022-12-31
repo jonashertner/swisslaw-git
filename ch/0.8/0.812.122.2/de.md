@@ -3,24 +3,24 @@ sr: "0.812.122.2"
 title: Internationales Übereinkommen vom 19. Oktober 2005 gegen Doping im Sport (mit Anhängen und Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: de
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Übereinkommen gegen Doping im Sport
 
-AS **2009** 521; BBl **2007** 6489
+RO **2009** 521; FF **2007** 6133
 
 Übersetzung
 
 Abgeschlossen in Paris am 19. Oktober 2005 Von der Bundesversammlung genehmigt am 13. Juni 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Oktober 2008 In Kraft getreten für die Schweiz am 1. Dezember 2008
 
-(Stand am 1. Januar 2020)
+(Stand am 1. Januar 2023)
 
 [^t-1]: [AS 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -118,7 +118,7 @@ Im Sinne dieses Übereinkommens:
 - 24\. bedeutet «Anwendung» das Auftragen, die Einnahme, die Injektion oder den Gebrauch eines verbotenen Wirkstoffs oder einer verbotenen Methode auf jedwede Art und Weise;
 - 25\. bedeutet «Welt-Anti-Doping-Agentur (WADA)» die so bezeichnete Stiftung, die am 10. November 1999 nach Schweizer Recht gegründet wurde.
 
-[^2-1]: Die Anhänge 1-3 zu diesem Übereink. sind in der AS nicht veröffentlicht. Sie können im Internet unter http://www.unesco.de eingesehen werden.
+[^2-1]: Die Anhänge 1-3 zu diesem Übereink. sind in der AS nicht veröffentlicht. Sie können im Internet unter [www.unesco.de](http://www.unesco.de) eingesehen werden.
 
 #### Art. 3
 
@@ -518,268 +518,25 @@ Vorbehalte, die mit Ziel und Zweck dieses Übereinkommens unvereinbar sind, sind
 
 *(Es folgen die Unterschriften)*
 
-Anlage I*[^t-2]*
+Anlage I[^t-2]
 
-## Der Welt-Anti-Doping-Code
+## Verbotsliste des Welt-Doping-Codes
 
-[^t-2]: Diese Anlage wird in der AS nicht veröffentlicht ([AS 2019 5061](https://fedlex.data.admin.ch/eli/oc/2019/801)). Die aktuelle Verbotsliste des Welt-Anti-Doping-Codes, in Kraft seit 1. Jan. 2020 kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter www.antidoping.ch/ abgerufen werden.
+[^annexI-lvlu1-1]
 
-Anlage II*[^t-3]*
+[^t-2]: Fassung gemäss Beschluss des Exekutivkomitees der Welt-Anti-Doping-Agentur vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 522](https://fedlex.data.admin.ch/eli/oc/2023/522)).
+[^annexI-lvlu1-1]: Die aktuelle Verbotsliste des Welt-Anti-Doping-Codes kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.sportintegrity.ch/anti-doping/recht/dopingliste](https://www.sportintegrity.ch/anti-doping/recht/dopingliste) abgerufen werden.
 
-## Standards und Verfahren für die Erteilung von Ausnahmebewilligungen zu therapeutischen Zwecken (ATZ)
+Anlage II[^t-3]
 
-[^t-3]: Fassung gemäss Beschluss des Exekutivkomitees der Welt-Anti-Doping-Agentur vom 18. Nov. 2015, in Kraft getreten am 1. Jan. 2016 ([AS 2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279)).
+## Internationaler Standard zu Ausnahmebewilligungen zu therapeutischen Zwecken
 
-Auszug aus dem «Internationalen Standard für die Erteilung von Ausnahmebewilligungen zu therapeutischen Zwecken» der Welt-Anti-Doping-Agentur (WADA); Datum des Inkrafttretens: 1. Januar 2016
+[^annexII-lvlu1-1]
 
-### 4.0 Erhalt einer ATZ
+[^t-3]: Fassung gemäss Beschluss des Exekutivkomitees der Welt-Anti-Doping-Agentur vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
+[^annexII-lvlu1-1]: Der aktuelle Standard kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) bei der für Massnahmen gegen Doping zuständigen Stelle (Swiss Sport Integrity) in den drei Amtssprachen kostenlos unter: [www.sportintegrity.ch/sites/default/files/2023\_istue\_de.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_de.pdf) abgerufen werden. Weitere Informationen sowie das ATZ-Antragsformular sind abrufbar unter: [www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz](https://www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz)
 
-**4.1** Ein *Athlet* kann dann (und nur dann) eine *ATZ* erhalten, wenn er nach Abwägung der Wahrscheinlichkeit nachweisen kann, dass jede der folgenden Bedingungen erfüllt ist:
-
-- a. Die betreffende verbotene Substanz oder verbotene Methode ist notwendig, um eine akute oder chronische Krankheit zu behandeln, die für den Athleten eine erhebliche gesundheitliche Beeinträchtigung bedeuten würde, wenn ihm diese verbotene Substanz oder verbotene Methode vorenthalten würde.
-- b. Es ist höchst unwahrscheinlich, dass die therapeutische *Anwendung* der *ve**r**botenen* *Substanz* oder der verbotenen Methode eine zusätzliche Leistungssteigerung bewirkt, ausser der erwarteten Rückkehr des Athleten zum Zustand normaler Gesundheit, wie er nach der Behandlung der akuten oder chronischen Erkrankung zu erwarten ist.
-- c. Es besteht keine angemessene therapeutische Alternative zur Anwendung der verbotenen Substanz oder der verbotenen Methode.
-- d. Die Notwendigkeit der Anwendung der verbotenen Substanz oder der verbotenen Methode ist weder vollständig noch teilweise die Folge einer vorausgegangenen Anwendung einer Substanz oder einer Methode (ohne ATZ), die zum Zeitpunkt ihrer Anwendung verboten war.
-
-[Wenn die ATZK über die Anerkennung oder Nichtanerkennung einer von einer anderen Anti-Doping-Organisation erteilten ATZ entscheidet (siehe Art. 7) oder wenn die WADA einen Entscheid zur Erteilung oder Nichterteilung einer ATZ prüft (siehe Art. 8), stellt sich die gleiche Frage, wie wenn eine ATZK im Sinn von Artikel 6 einen Antrag auf eine ATZ prüfen muss: Hat der Athlet nach Abwägung der Wahrscheinlichkeiten nachgewiesen, dass alle unter Artikel 4.1 aufgeführten Bedingungen erfüllt sind?
-
-Kommentar zu Artikel 4.1: Bei der Anwendung dieser Kriterien auf bestimmte Krankheitsbilder sind die auf der WADA-Website veröffentlichten Dokumente «Medizinische Informationen zur Anleitung der Entscheidungen der Kommission für die Bewilligung von ATZ (ATZK)» als Hilfestellung zu verwenden.]
-
-**4.2** Sofern keine der Ausnahmen gemäss Artikel 4.3 gilt, muss ein *Athlet*, für den die *Anwendung* einer *verbotenen Substanz* oder einer *verbotenen Methode* aus therapeutischen Gründen notwendig ist, eine *ATZ* erhalten, bevor er die betreffende *Substanz* oder die betreffende *Methode anwendet* oder *besitzt*.
-
-**4.3** Ein *Athlet* kann nur dann eine rückwirkende Bewilligung der therapeutischen Anwendung einer verbotenen Substanz oder einer verbotenen Methode (d. h. eine rückwirkende ATZ) erhalten, wenn:
-
-- a. eine Notfallbehandlung oder die Behandlung einer akuten Krankheit erforderlich war; oder
-- b. bedingt durch andere aussergewöhnliche Umstände nicht genügend Zeit oder keine Gelegenheit für die Antragstellung durch den Athleten oder für die Bearbeitung eines Antrags durch die ATZK vor der Probenahme bestand; oder
-- c. der *Athlet* aufgrund geltender Bestimmungen verpflichtet (siehe Kommentar zu Art. 5.1) oder befugt (siehe Art. 4.4.5 des Welt-Anti-Doping-Codes (*Code*) war, eine rückwirkende *ATZ* zu beantragen; oder
-
-[Kommentar zu Artikel 4.3 c): Diesen Athleten wird dringend geraten, eine Krankenakte zu führen und bereitzuhalten, um damit nachweisen zu können, dass sie die Bedingungen von Artikel 4.1 erfüllen, falls nach der Probenahme ein Antrag auf eine rückwirkende ATZ notwendig sein sollte.]
-
-- d. Die WADA und die Anti-Doping-Organisation, die einen Antrag auf eine rückwirkende ATZ erhält oder erhalten würde, stimmen zu, dass aus Gründen der Fairness eine rückwirkende ATZ erteilt werden sollte.
-
-[Kommentar zu Artikel 4.3 d): Stimmen die WADA und/oder die Anti-Doping-Organisation der Anwendung von Artikel 4.3 d) nicht zu, darf dies weder in einem Verfahren wegen eines Verstosses gegen Anti-Doping-Bestimmungen noch auf dem Wege eines Rechtsmittels noch auf andere Weise angefochten werden.]
-
-### 5.0 Pflichten von Anti-Doping-Organisationen im Zusammenhang mit ATZ
-
-**5.1** In Artikel 4.4 des *Codes* ist festgelegt, a) welche *Anti-Doping-Organisationen* Entscheidungen zu *ATZ* treffen können, b) wie diese Entscheidungen zu *ATZ* von anderen *Anti-Doping-Organisationen* anerkannt und befolgt werden sollten und c) wann diese Entscheidungen überprüft und/oder angefochten werden können.
-
-[Kommentar zu Artikel 5.1: In Anhang 1 sind die wichtigsten Bestimmungen des Artikels 4.4 des Codes in einem Diagramm dargestellt.
-
-In Artikel 4.4.2 des Codes ist festgelegt, dass eine nationale Anti-Doping-Organisation Entscheidungen zu ATZ für Athleten treffen kann, die keine internationalen Spitzenathleten sind. Bei Unstimmigkeiten darüber, welche nationale Anti-Doping-Organisation den Antrag auf eine ATZ eines Athleten bearbeiten sollte, der kein internationaler Spitzenathlet ist, entscheidet die WADA. Die Entscheidung der WADA ist endgültig und kann nicht angefochten werden.
-
-Bevorzugt eine nationale Anti-Doping-Organisation aufgrund nationaler politischer Erfordernisse oder Vorgaben bei der Planung von Dopingkontrollen (entsprechend Artikel 4.4.1 des Internationalen Standards für Dopingkontrollen und Ermittlungen) bestimmte Sportarten, kann sie Anträge auf vorgängige ATZ von Athleten aus einigen oder allen nichtprioritären Sportarten ablehnen, muss in diesem Fall jedoch einem solchen Athleten nach einer Probenahme erlauben, eine rückwirkende ATZ zu beantragen. Die nationale Anti-Doping-Organisation informiert die Athleten auf ihrer Website über ein solches Vorgehen.]
-
-**5.2** Jede *nationale Anti-Doping-Organisation*, jeder internationale Sportverband und *jeder Veranstalter von grossen Sportwettkämpfen* muss eine ATZK einsetzen, die prüft, ob Anträge auf Erteilung oder Anerkennung von *ATZ* den Bedingungen von Artikel 4.1. entsprechen.
-
-[Kommentar zu Artikel 5.2: Ein Veranstalter von grossen Sportwettkämpfen kann entscheiden, eine bereits erteilte ATZ automatisch anzuerkennen, muss jedoch einen Mechanismus einrichten, damit die am Wettkampf teilnehmenden Athleten bei Bedarf eine neue ATZ erhalten können. Jeder Veranstalter von grossen Sportwettkämpfen kann entscheiden, dazu entweder eine eigene ATZK einzusetzen oder diese Aufgabe im Wege einer Vereinbarung mit einem Dritten (wie SportAccord) auszulagern. In jedem Fall sollte sichergestellt werden, dass die an diesen Wettkämpfen teilnehmenden Athleten die Möglichkeit haben, vor der Teilnahme rasch und effizient eine ATZ zu erhalten.]
-
-- a. Den ATZK sollten mindestens drei Ärzte mit Erfahrung in der Betreuung und Behandlung von Athleten und mit fundierten klinischen und sportmedizinischen Kenntnissen angehören. Bei Athleten mit Behinderung sollte mindestens ein Mitglied der ATZK über allgemeine Erfahrungen in der Betreuung und Behandlung dieser Athleten oder spezielle Erfahrungen in Bezug auf die konkrete(n) Behinderung(en) des Athleten verfügen.
-- b. Um die Unabhängigkeit der Entscheidungen zu gewährleisten, sollte mindestens die Mehrheit der Mitglieder der ATZK keine offizielle Funktion in der Anti-Doping-Organisation innehaben, die sie in die ATZK berufen hat. Alle Mitglieder der ATZK müssen eine Erklärung zu Vertraulichkeit und Interessenkonflikten unterzeichnen. (Ein Muster dieser Erklärung kann auf der Website der WADA abgerufen werden.)
-
-**5.3** Jede *nationale Anti-Doping-Organisation*, jeder internationale Sportverband und jeder *Veranstalter von grossen Sportwettkämpfen* muss klare Verfahren für die Beantragung von ATZ bei ihrer/seiner ATZK festlegen, die den Anforderungen dieses *internationalen Standards* genügen. Sie müssen diese Verfahren im Detail öffentlich machen, indem sie sie (mindestens) gut sichtbar auf ihrer Website publizieren und sie an die *WADA* übermitteln. Die *WADA* kann diese Informationen auch auf ihrer eigenen Website veröffentlichen.
-
-**5.4** Jede *nationale Anti-Doping-Organisation*, jeder internationale Sportverband und jeder *Veranstalter von grossen Sportwettkämpfen* muss alle Entscheidungen ihrer/seiner ATZK über die Erteilung oder Ablehnung von *ATZ* oder über die Anerkennung oder Nichtanerkennung von Entscheidungen anderer *Anti-Doping-Organi**sationen* zu ATZ umgehend (in englischer oder französischer Sprache) über *ADAMS* oder ein anderes von der *WADA* anerkanntes System bekanntgeben. Die (in englischer oder französischer Sprache) übermittelten Informationen zu erteilten ATZ umfassen:
-
-- a. nicht nur die bewilligte Substanz oder die bewilligte Methode, sondern auch die erlaubte Dosierung, Häufigkeit und Form der *Verabreichung*, die Gültigkeitsdauer der *ATZ* sowie andere Bedingungen im Zusammenhang mit der *ATZ* und
-- b. das Antragsformular für eine *ATZ* und die entsprechenden klinischen Informationen (mit Übersetzung in die englische oder französische Sprache), um nachzuweisen, dass die Bedingungen von Artikel 4.1 erfüllt sind (diese Informationen sind nur der *WADA*, der *nationalen Anti-Doping-Organisation*, dem internationalen Sportverband des *Athleten* und dem Veranstalter des *Sportwettkampfs* zugänglich, an dem der *Athlet* teilzunehmen wünscht).
-
-[Anmerkung zu Artikel 5.4: Durch den Einsatz von ADAMS wird das Verfahren zur Anerkennung von ATZ erheblich erleichtert.]
-
-**5.5** Wenn die *nationale Anti-Doping-Organisation* einem *Athleten* eine *ATZ* erteilt, muss sie ihn schriftlich darüber aufklären, dass a) diese *ATZ* nur auf nationaler Ebene gilt und b) diese ATZ nicht gilt, wenn der *Athlet* ein *internationaler Spitze**n**athlet* wird oder an einem *internationalen Sportwettkampf* teilnimmt, sofern sie nicht von dem zuständigen internationalen Sportverband oder *Veranstalter von grossen Sportwettkämpfen* gemäss Artikel 7.1 anerkannt wird. Daraufhin sollte die *nationale Anti-Doping-Organisation* dem *Athleten* helfen, festzustellen, wann er seine *ATZ* an einen internationalen Sportverband oder *Veranstalter von grossen Sportwettkämpfen* zur Anerkennung übermitteln muss, und den *Athleten* im Anerkennungsverfahren anleiten und unterstützen.
-
-**5.6** Jeder internationale Sportverband und *Veranstalter von grossen Sportwettkäm**p**fen* muss eine Bekanntmachung veröffentlichen (indem er sie mindestens gut sichtbar auf seiner Website publiziert und der *WADA* übermittelt), aus der klar hervorgeht, 1) welche *Athleten* in seinem Zuständigkeitsbereich bei ihm eine *ATZ* beantragen müssen und wann, 2) welche Entscheidungen anderer *Anti-Doping-Organisationen* zu *ATZ* er gemäss Artikel 7.1 a) anstelle eines solchen Antrags automatisch anerkennt und 3) welche Entscheidungen anderer *Anti-Doping-Organi**sationen* zu *ATZ* ihm gemäss Artikel 7.1 b) zur Anerkennung übermittelt werden müssen. Die *WADA* kann diese Bekanntmachung auch auf ihrer eigenen Website veröffentlichen.
-
-**5.7** Eine ATZ, die ein *Athlet* von der *nationalen Anti-Doping-Organisation* erhalten hat, gilt nicht, wenn der *Athlet* ein *internationaler Spitzenathlet* wird oder an einem *internationalen Sportwettkampf* teilnimmt, es sei denn, der zuständige internationale Sportverband erkennt diese *ATZ* gemäss Artikel 7 an. Eine *ATZ*, die ein *Athlet* von einem *internationalen Sportverband* erhalten hat, gilt nicht, wenn der *Athlet* ein *internationaler Spitzenathlet* wird oder an einem *internationalen Sportwettkampf* teilnimmt, der von einem *Veranstalter von grossen Sportwettkämpfen* ausgerichtet wird, es sei denn, der zuständige *Veranstalter von grossen Sportwettkämpfen* erkennt diese *ATZ* gemäss Artikel 7 an. Wenn der internationale Sportverband bzw. der *Veranstalter von grossen Sportwettkämpfen* die ATZ nicht anerkennt, kann diese ATZ (vorbehaltlich des Rechts des *Athleten* auf Überprüfung durch die WADA oder auf Einlegung eines Rechtsmittels) daher nicht verwendet werden, um gegenüber diesem internationalen Sportverband bzw. *Veranstalter von grossen Sportwettkäm**p**fen* das Vorhandensein, die *Anwendung*, den *Besitz* oder die *Verabreichung* der *verbotenen Substanz* oder der *verbotenen Methode* zu rechtfertigen, auf die sich die ATZ bezieht.
-
-### 6.0 Antragsverfahren für eine ATZ
-
-**6.1** Ein *Athlet*, der eine *ATZ* benötigt, sollte diese so früh wie möglich beantragen. Für Substanzen, die nur *im Wettkampf* verboten sind, sollte der *Athlet* die *ATZ* mindestens 30 Tage vor seinem nächsten *Wettkampf* beantragen, es sei denn, es handelt sich um einen Not- oder Ausnahmefall. Der *Athlet* sollte für den Antrag bei seiner *nationalen Anti-Doping-Organisation*, seinem internationalen Sportverband und/oder einem *Veranstalter von grossen Sportwettkämpfen* das jeweils bereitgestellte Antragsformular für *ATZ* verwenden. Die *Anti-Doping-Organisationen* müssen das Antragsformular, das ihre *Athleten* nutzen sollen, auf ihrer Website zum Herunterladen bereitstellen. Für das Formular ist das Muster in Anhang 2 zu verwenden. Die *Anti-Doping-Organisationen* können das Muster abändern, um zusätzliche Informationen anzufordern, jedoch keinen Abschnitt oder Punkt streichen.
-
-**6.2** Der *Athlet* übermittelt der zuständigen *Anti-Doping-Organisation* das Antragsformular für seine *ATZ* über *ADAMS* oder den von der *Anti-Doping-Organisation* vorgegebenen Weg. Dem Formular sind beizufügen:
-
-- a. ein Arztbrief eines entsprechend qualifizierten Arztes, in welchem dem *Athleten* bescheinigt wird, dass die *Anwendung* der betreffenden *verbotenen Substanz* oder der betreffenden *verbotenen Methode* aus therapeutischen Gründen notwendig ist; und
-- b. eine vollständige Krankengeschichte, darunter (wenn möglich) die Unterlagen des/der ursprünglich behandelnden Arztes/Ärzte, ergänzt durch die Ergebnisse aller für den Antrag relevanten Untersuchungen, Laboranalysen und bildgebenden Verfahren.
-
-[Kommentar zu Artikel 6.2 b): Die Angaben zur Diagnose, Behandlung und Gültigkeitsdauer sollten sich an den Empfehlungen in dem Dokument der WADA «Medizinische Informationen zur Anleitung der Entscheidungen der ATZK» orientieren.]
-
-**6.3** Der *Athlet* sollte ein vollständiges Exemplar des Antragsformulars für eine *ATZ* und aller dazugehörigen Unterlagen und Informationen aufbewahren.
-
-**6.4** Ein Antrag auf Erteilung einer *ATZ* wird von der ATZK erst nach Eingang eines ordnungsgemäss ausgefüllten Antragsformulars im Original samt aller relevanten Unterlagen bearbeitet. Unvollständige Anträge werden an den *Athleten* zurückgesandt und müssen vervollständigt und erneut eingereicht werden.
-
-**6.5** Die ATZK kann vom *Athleten* oder seinem Arzt weitere Informationen, Untersuchungen oder bildgebende Verfahren sowie sonstige Informationen verlangen, die sie für die Bearbeitung des Antrags des *Athleten* für erforderlich hält, und/oder sie kann die Unterstützung anderer geeigneter medizinischer oder wissenschaftlicher Sachverständiger einholen.
-
-**6.6** Sämtliche Kosten für den Antrag auf eine *ATZ* und die von der ATZK geforderten Unterlagen trägt der *Athlet*.
-
-**6.7** Die ATZK entscheidet so schnell wie möglich, ob dem Antrag stattgegeben wird, in der Regel (d. h. sofern keine aussergewöhnlichen Umstände vorliegen) innerhalb von 21 Tagen nach Eingang eines vollständigen Antrags. Wird ein Antrag auf Erteilung einer *ATZ* innerhalb einer angemessenen Frist vor einem *Sportwet**t**kampf* eingereicht, bemüht sich die ATZK, ihre Entscheidung vor Beginn des *Spor**t**wettkampfs* zu treffen.
-
-**6.8** Die Entscheidung der ATZK wird dem *Athleten* schriftlich mitgeteilt und im Einklang mit Artikel 5.5 der *WADA* und anderen *Anti-Doping-Organisationen* über *ADAMS* oder ein anderes von der *WADA* anerkanntes System zur Verfügung gestellt.
-
-- a. Eine Bewilligung für eine *ATZ* enthält Angaben zur Dosierung, Häufigkeit, Form und Dauer der *Verabreichung* der betreffenden *verbotenen Substanz* oder der betreffenden *verbotenen Methode*, die die ATZK zulässt, und gibt die klinischen Umstände sowie alle Bedingungen im Zusammenhang mit der *ATZ* wieder.
-- b. Bei einer Entscheidung auf Ablehnung eines Antrags auf eine *ATZ* müssen die Gründe dafür erläutert werden.
-
-**6.9** Jede *ATZ* hat eine bestimmte Gültigkeitsdauer, die von der ATZK festgelegt wird und an deren Ende die *ATZ* automatisch verfällt. Ist es notwendig, dass der *Athlet* die *verbotene Substanz* oder die *verbotene Methode* nach Ablauf der Gültigkeit weiter anwendet, muss er rechtzeitig vor dem Ablaufdatum eine neue *ATZ* beantragen.
-
-[Kommentar zu Artikel 6.9: Die Gültigkeitsdauer sollte sich an den Empfehlungen in den WADA-Dokumenten «Medizinische Informationen zur Anleitung der Entscheidungen der ATZK» orientieren.]
-
-**6.10** Die *ATZ* wird vor Ablauf der Gültigkeitsdauer zurückgezogen, wenn der *Athlet* den Anforderungen oder Bedingungen der *Anti-Doping-Organisation*, die die *ATZ* erteilt hat, nicht unverzüglich Folge leistet. Zudem kann eine *ATZ* durch die *WADA* oder aufgrund eines Rechtsmittels aufgehoben werden.
-
-**6.11** Wird ein *von der Norm abweichendes Analyseergebnis* festgestellt, kurz nachdem die *ATZ* für die betreffende *verbotene Substanz* abgelaufen ist oder zurückgezogen oder aufgehoben wurde, prüft die *Anti-Doping-Organisation*, die die erste Prüfung des *von der Norm abweichenden Analyseergebnisses* durchführt (Artikel 7.2 des Codes), ob das Ergebnis mit einer *Anwendung* der *verbotenen Substanz* vor Ablauf, Rückzug oder Aufhebung der ATZ vereinbar ist. In diesem Fall stellt eine derartige *Anwendung* (und ein dadurch bedingtes Vorhandensein der *verbotenen Substanz* in der *Probe* des *Athleten*) keinen Verstoss gegen Anti-Doping-Bestimmungen dar.
-
-**6.12** Sollte der *Athlet* nach Erteilung einer *ATZ* eine Dosierung, Häufigkeit, Form oder Dauer der Verabreichung der *verbotenen Substanz* oder der *verbotenen Meth**o**de* benötigen, die deutlich von den Angaben in der *ATZ* abweicht, muss er eine neue *ATZ* beantragen. Ist das Vorhandensein, die Anwendung, der Besitz oder die Verabreichung der *verbotenen Substanz* oder der *verbotenen Methode* nicht mit den Bedingungen der erteilten *ATZ* vereinbar, wird trotz der *ATZ* auf einen Verstoss gegen Anti-Doping-Bestimmungen geschlossen.
-
-### 7.0 Verfahren zur Anerkennung einer ATZ
-
-**7.1** Gemäss Artikel 4.4 des *Codes* müssen *Anti-Doping-Organisationen* die von anderen *Anti-Doping-Organisationen* erteilten *ATZ* anerkennen, wenn sie die Bedingungen von Artikel 4.1 erfüllen. Besitzt ein *Athlet*, der den Anforderungen für *ATZ* eines internationalen Sportverbands oder eines *Veranstalters von grossen Sportwet**t**kämpfen* unterliegt, bereits eine *ATZ*, muss er daher keinen neuen Antrag auf eine *ATZ* bei dem internationalen Sportverband oder dem *Veranstalter von grossen Sportwettkämpfen* einreichen. Stattdessen gilt:
-
-- a. Der internationale Sportverband oder der *Veranstalter von grossen Spor**t**wettkämpfen* kann bekanntgeben, dass er Entscheidungen zu *ATZ* gemäss Artikel 4.4 des *Codes* (oder bestimmte Kategorien solcher Entscheidungen, z. B. die Entscheidungen bestimmter *Anti-Doping-Organisationen* oder in Bezug auf bestimmte *verbotene Substanzen*) automatisch anerkennt, sofern ihm derartige Entscheidungen gemäss Artikel 5.4 mitgeteilt wurden und somit von der *WADA* überprüft werden können. Fällt die *ATZ* des *Athleten* unter eine der automatisch anerkannten *ATZ*-Kategorien, muss er keine weiteren Schritte unternehmen.
-
-[Kommentar zu Artikel 7.1 a): Um die Athleten zu entlasten, wird nachdrücklich dazu geraten, Entscheidungen zu ATZ automatisch anzuerkennen, sobald sie gemäss Artikel 5.4 bekanntgegeben wurden. Ist ein internationaler Sportverband oder Veranstalter von grossen Sportwettkämpfen nicht bereit, alle ATZ automatisch anzuerkennen, sollte er doch so viele Entscheidungen wie möglich anerkennen, z. B. durch die Veröffentlichung einer Liste von Anti-Doping-Organisationen, deren Entscheidungen zu ATZ er automatisch anerkennt, und/oder einer Liste der verbotenen Substanzen, für die er ATZ automatisch anerkennt. Die Bekanntmachung sollte auf die in Artikel 5.3 beschriebene Weise erfolgen, d. h. sie sollte auf der Website des internationalen Sportverbands publiziert und der WADA sowie den nationalen Anti-Doping-Organisationen übermittelt werden.]
-
-- b. Wird keine automatische Anerkennung gewährt, ersucht der *Athlet* den betreffenden internationalen Sportverband oder *Veranstalter von grossen Sportwettkämpfen* um Anerkennung der *ATZ*, und zwar über *ADAMS* oder entsprechend den Vorgaben dieses internationalen Sportverbands oder *Ve**r**anstalters von grossen Sportwettkämpfen*. Dem Ersuchen sind eine Kopie der *ATZ*, das Antragsformular für die *ATZ* im Original und weitere Belege gemäss Artikel 6.1 und Artikel 6.2 beizufügen (es sei denn, die *Anti-Doping-Organisation*, welche die *ATZ* erteilt hat, hat die ATZ und weitere Belege bereits im Einklang mit Artikel 5.4 über *ADAMS* oder ein anderes von der *WADA* anerkanntes System zur Verfügung gestellt).
-
-**7.2** Unvollständige Anträge auf Anerkennung einer *ATZ* werden an den *Athleten* zurückgesandt und müssen vervollständigt und erneut eingereicht werden. Zudem kann die ATZK vom *Athleten* oder seinem Arzt weitere Informationen, Untersuchungen oder bildgebende Verfahren sowie sonstige Informationen verlangen, die sie für die Bearbeitung des Antrags des *Athleten* auf Anerkennung einer *ATZ* für erforderlich hält, und/oder sie kann die Unterstützung anderer geeigneter medizinischer oder wissenschaftlicher Sachverständiger einholen.
-
-**7.3** Sämtliche Kosten für den Antrag auf Anerkennung einer *ATZ* und die von der ATZK geforderten Unterlagen trägt der *Athlet*.
-
-**7.4** Die ATZK entscheidet so schnell wie möglich, ob die *ATZ* anerkannt wird, in der Regel (d. h. sofern keine aussergewöhnlichen Umstände vorliegen) innerhalb von 21 Tagen nach Eingang eines vollständigen Antrags auf Anerkennung. Wird ein Antrag innerhalb einer angemessenen Frist vor einem *Sportwettkampf* eingereicht, bemüht sich die ATZK, ihre Entscheidung vor Beginn des *Sportwettkampfs* zu treffen.
-
-**7.5** Die Entscheidung der ATZK wird dem *Athleten* schriftlich mitgeteilt und der *WADA* und anderen *Anti-Doping-Organisationen* über *ADAMS* oder ein anderes von der *WADA* anerkanntes System übermittelt. Bei einer Entscheidung auf Nichtanerkennung einer *ATZ* müssen die Gründe dafür erläutert werden.
-
-### 8.0 Prüfung von Entscheidungen zu ATZ durch die WADA
-
-**8.1** Gemäss Artikel 4.4.6 des *Codes* muss die *WADA* in bestimmten Fällen Entscheidungen internationaler Sportverbände zu *ATZ* prüfen, und sie kann andere Entscheidungen zu *ATZ* prüfen, um festzustellen, ob die Bedingungen von Artikel 4.1 eingehalten wurden. Die *WADA* setzt eine den Anforderungen des Artikels 5.2 entsprechende ATZK ein, die derartige Prüfungen vornimmt.
-
-**8.2** Jeder Antrag auf Prüfung muss der *WADA* schriftlich übermittelt werden und mit der Zahlung der von der *WADA* festgelegten Antragsgebühr einhergehen. Zudem müssen Kopien aller in Artikel 6.2 genannten Informationen beigefügt werden (oder im Fall der Prüfung der Ablehnung einer *ATZ* alle Informationen, die der *Athlet* im Zusammenhang mit dem ursprünglichen Antrag auf eine *ATZ* eingereicht hat). Eine Kopie des Antrags muss an die Partei, deren Entscheidung geprüft werden soll, und an den *Athleten* (wenn er nicht selbst um die Prüfung ersucht) übermittelt werden.
-
-**8.3** Wird die Prüfung einer Entscheidung zu einer *ATZ* beantragt, die die *WADA* nicht prüfen muss, teilt sie dem *Athleten* so bald wie möglich nach Eingang des Antrags mit, ob sie den Antrag zur Prüfung an ihre ATZK weiterleitet. Leitet die *WADA* die Entscheidung nicht an ihre ATZK weiter, erstattet sie dem *Athleten* die Antragsgebühr. Eine Entscheidung der *WADA*, die Entscheidung nicht an ihre ATZK weiterzuleiten, ist endgültig und kann nicht angefochten werden. Die Entscheidung zur *ATZ* kann jedoch gemäss Artikel 4.4.7 des *Codes* angefochten werden.
-
-**8.4** Prüft die *WADA* eine Entscheidung eines internationalen Sportverbands zu einer *ATZ*, zu deren Prüfung sie verpflichtet ist, kann sie die Entscheidung dennoch an den internationalen Sportverband zurückverweisen: a) zur Klärung (z. B. wenn die Entscheidung nicht klar begründet ist) und/oder b) zur erneuten Prüfung durch den internationalen Sportverband (z. B. wenn die *ATZ* nur deshalb abgelehnt wurde, weil medizinische Untersuchungen oder andere Informationen fehlten, welche die Erfüllung der Bedingungen von Artikel 4.1 belegen).
-
-**8.5** Wird ein Antrag auf Prüfung an die ATZK der *WADA* verwiesen, kann die ATZK von der *Anti-Doping-Organisation* und/oder dem *Athleten* weitere Informationen, darunter die in Artikel 6.5 beschriebenen zusätzlichen Untersuchungen, einholen, die sie für die Bearbeitung des Antrags für erforderlich hält, und/oder sie kann die Unterstützung anderer geeigneter medizinischer oder wissenschaftlicher Sachverständiger einholen.
-
-**8.6** Die ATZK der *WADA* hebt die Erteilung einer *ATZ* auf, die nicht die Bedingungen von Artikel 4.1 erfüllt. Wurde die aufgehobene *ATZ* im Voraus erteilt (und nicht rückwirkend), wird die Aufhebung an dem von der *WADA* festgelegten Datum wirksam (welches nicht vor dem Datum der Benachrichtigung des *Athleten* durch die *WADA* liegen darf). Die Aufhebung gilt nicht rückwirkend und hat keine Annullierung der Ergebnisse des *Athleten* vor der Benachrichtigung durch die *WADA* zur Folge. Wurde die aufgehobene *ATZ* jedoch rückwirkend erteilt, gilt auch die Aufhebung rückwirkend.
-
-**8.7** Die ATZK der *WADA* hebt eine Ablehnung einer *ATZ* durch eine *Anti-Doping-Organisation* auf, wenn der Antrag auf eine *ATZ* die Bedingungen von Artikel 4.1 erfüllte, d. h. sie erteilt die *ATZ*.
-
-**8.8** Überprüft die ATZK der *WADA* eine Entscheidung eines internationalen Sportverbands, die gemäss Artikel 4.4.3 des *Codes* an sie verwiesen wurde (obligatorische Prüfung), kann sie von der *Anti-Doping-Organisation*, die die Prüfung «verliert» (d. h. die *Anti-Doping-Organisation*, deren Ansicht sie nicht teilt) fordern, a) die Antragsgebühr an die Partei zurückzuerstatten, die die Entscheidung an die *WADA* verwiesen hat (falls zutreffend), und/oder b) die bei der *WADA* für die Prüfung angefallenen Kosten zu erstatten, die nicht von der Antragsgebühr abgedeckt sind.
-
-**8.9** Hebt die ATZK der *WADA* eine Entscheidung auf, zu deren Prüfung sich die *WADA* nach eigenem Ermessen entschlossen hat, kann die *WADA* die *Anti-Doping-Organisation*, welche die Entscheidung getroffen hat, auffordern, die bei der *WADA* für diese Prüfung anfallenden Kosten zu übernehmen.
-
-**8.10** Die *WADA* teilt dem *Athleten*, seiner *nationalen Anti-Doping-Organisation* und seinem internationalen Sportverband (und ggf. dem *Veranstalter von grossen Sportwettkämpfen*) die Entscheidung der ATZK der *WADA* und die Gründe für die Entscheidung umgehend mit.
-
-### 9.0 Vertraulichkeit von Informationen
-
-**9.1** Die Erhebung, Speicherung, Verarbeitung, Weitergabe und Aufbewahrung von personenbezogenen Datenwährend eines *ATZ*-Verfahrens durch *Anti-Doping-Orga**nisationen* und die *WADA* muss mit dem Internationalen Standard der WADA für den Schutz von *personenbezogenen Daten* übereinstimmen.
-
-**9.2** Ein *Athlet*, der die Erteilung oder Anerkennung einer *ATZ* beantragt, muss seine schriftliche Zustimmung erteilen.
-
-- a. zur Weiterleitung aller den Antrag betreffenden Informationen an die Mitglieder aller ATZK, die nach den Vorgaben dieses *internationalen Sta**n**dards* ermächtigt sind, einen solchen Antrag zu prüfen, und, sofern erforderlich, an andere unabhängige medizinische oder wissenschaftliche Experten sowie an alle Mitarbeiter (darunter die Mitarbeiter der *WADA*), die an der Bearbeitung oder Prüfung von Anträgen auf eine *ATZ* oder einer diesbezüglichen Anfechtung beteiligt sind,
-- b. zur Herausgabe medizinischer Informationen durch den Arzt / die Ärzte des Athleten an die ATZK, sofern diese darum ersucht und die Informationen zur Prüfung und Entscheidung über den Antrag des Athleten für notwendig erachtet; und
-- c. zur Übermittlung der Entscheidung über den Antrag an alle Anti-Doping-Organisationen, die für Dopingkontrollen und/oder das Ergebnismanagement bei dem Athleten zuständig sind.
-
-[Kommentar zu Artikel 9.2: Vor der Erfassung von personenbezogenen Daten oder der Einholung der Zustimmung eines Athleten muss die Anti-Doping-Organisation den Athleten über Art und Umfang der Datenverarbeitung gemäss Artikel 7.1 des Internationalen Standards für den Schutz von Persönlichkeitsrechten und personenbezogenen Daten festgelegten Informationen in Kenntnis setzen.]
-
-**9.3** Der Antrag auf eine *ATZ* wird in Übereinstimmung mit den Grundsätzen der Wahrung der ärztlichen Schweigepflicht behandelt. Die Mitglieder der ATZK, die unabhängigen Experten und die betreffenden Mitarbeiter der *Anti-Doping-Organi**sation* führen alle Aktivitäten unter Einhaltung strenger Vertraulichkeit durch und unterzeichnen entsprechende Geheimhaltungserklärungen. Sie behandeln insbesondere die folgenden Informationen streng vertraulich:
-
-- a. Alle vom *Athleten* und seinem/seinen behandelnden Arzt/Ärzten bereitgestellten medizinischen Informationen und Daten;
-- b. alle Antragsdetails, einschliesslich des Namens des/der an dem Verfahren beteiligten Arztes/Ärzte.
-
-**9.4** Sollte der *Athlet* die Erlaubnis der Weitergabe von Informationen über seinen Gesundheitszustand an die ATZK widerrufen wollen, muss er den behandelnden Arzt schriftlich von diesem Widerruf in Kenntnis setzen. Infolge dieses Widerrufs gilt der Antrag des *Athleten* auf Erteilung oder Anerkennung einer *ATZ* als zurückgenommen, ohne dass eine Bewilligung oder Anerkennung erfolgt.
-
-**9.5** Die *Anti-Doping-Organisationen* verwenden die vom *Athleten* im Zusammenhang mit einem Antrag auf eine *ATZ* übermittelten Informationen ausschliesslich zur Prüfung des Antrags oder im Zusammenhang mit Ermittlungen und Verfahren wegen eines potenziellen Verstosses gegen Anti-Doping-Bestimmungen.
-
-Anhang 1
-
-## Diagramm zu Artikel 4.4 des Codes
-
-**1.** ATZ-Verfahren, wenn Athlet zum Zeitpunkt der Notwendigkeit einer ATZ kein internationaler Spitzenathlet ist
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/de/xml/image/image1.png)
-
-**2.** *Athlet* meldet sich bei *Sportwettkampf* an, für den der *Veranstalter von grossen Sportwettkämpfen* (VGS) eigene Anforderungen an *ATZ* stellt
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/de/xml/image/image2.png)
-
-**3.** ATZ-Verfahren, wenn *Athlet* zum Zeitpunkt der Notwendigkeit einer ATZ ein *internationaler Spitzenathlet* ist (und somit den Anforderungen des internationalen Sportverbands (ISV) an *ATZ* unterliegt)
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20200101/de/xml/image/image3.png)
-
-Anhang 2
-
-## Antragsformular ATZ (Muster)
-
-Identifikation der Anti-Doping-Organisation
-
-(Logo oder Name der ADO)
-
-Antragsformular für eine Ausnahmebewilligung zu therapeutischen Zwecken (ATZ)
-
-Bitte füllen Sie alle Teile des Formulars in Grossbuchstaben oder mit PC/Schreibmaschine aus. Athlet füllt die Teile 1, 5, 6 und 7 aus, Arzt die Teile 2, 3 und 4. Unvollständige oder unleserliche Anträge werden zurückgewiesen und müssen erneut vollständig und leserlich eingereicht werden.
-
-\1. Angaben zum Athleten
-
-<table>
-<tr><td>Nachname: Vorname(n): Geschlecht weiblich ◻ männlich ◻ Geburtsdatum (TT/MM/JJJJ) Adresse: Stadt: Land: Postleitzahl: Tel.: E-Mail: *(mit Landesvorwahl)* Sportart: Disziplin/Position: Internationale Sportorganisation oder nationaler Sportverband: Bei Athleten mit Behinderung Angabe der Behinderung:</td></tr>
-</table>
-
-\2. Medizinische Auskünfte *(bitte bei Bedarf ein Zusatzblatt verwenden)*
-
-<table>
-<tr><td>Diagnose: Falls ein erlaubtes Medikament zur Behandlung der Erkrankung verwendet werden kann, geben Sie bitte medizinische Gründe zur Rechtfertigung der beantragten *Anwendung* des verbotenen Medikaments an:</td></tr>
-</table>
-
-Notiz:
-
-Ein Nachweis zur Bestätigung der Diagnose wird dem vorliegenden Antrag beigefügt und zusammen mit ihm versandt. Der medizinische Nachweis sollte eine umfassende Krankengeschichte und die Ergebnisse sämtlicher relevanten Untersuchungen, Laboranalysen und bildgebenden Verfahren beinhalten. Wenn möglich, sollten Kopien der Originalberichte oder Briefe beigefügt werden. Bei klinischen Gegebenheiten sollte der Nachweis so objektiv wie möglich sein. Im Falle nicht nachweisbarer Bedingungen unterstützt ein zusätzliches unabhängiges ärztliches Gutachten den vorliegenden Antrag.
-
-Die WADA führt eine Reihe von laufend aktualisierten Richtlinien, die den Ärzten helfen sollen, vollständige und detaillierte Anträge auf ATZ vorzubereiten. Diese Dokumente (Medical Information to Support the Decisions of TUECs) können auf der Website der WADA (https://www.wada-ama.org) eingesehen werden nach Eingabe des Suchbegriffs «Medical Information». Die Richtlinien beruhen auf der Diagnose und der Behandlung einer grossen Anzahl von Krankheiten, von denen Athleten häufig betroffen sind und die mit verbotenen Substanzen behandelt werden müssen.
-
-\3. Angewendete(s) Medikament(e)
-
-<table>
-<tr><td>Verbotene Substanz(en): Generischer Name</td><td>Dosierung</td><td>Art der Verabreichung</td><td>Häufigkeit</td><td>Dauer der Behandlung</td></tr>
-<tr><td>1.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>2.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.</td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-\4. Erklärung des Arztes
-
-<table>
-<tr><td>**Ich versichere, dass die in unter 2 und 3 gemachten Angaben richtig sind und dass die oben genannte Behandlung medizinisch angemessen ist.** Name: Fachgebiet: Adresse: Tel.: Fax: E-Mail: Unterschrift des Arztes: Datum:</td></tr>
-</table>
-
-\5. Rückwirkende Anträge
-
-<table>
-<tr><td>Handelt es sich hierbei um einen rückwirkenden Antrag? Ja: ◻ Nein: ◻ Wenn ja, wann wurde die Behandlung begonnen?</td><td>Bitte nennen Sie den Grund: Notfall oder Behandlung einer akuten Erkrankung ◻ Bedingt durch andere aussergewöhnliche Umstände bestand nicht genügend Zeit oder keine Gelegenheit für die Beantragung einer ATZ vor der Probenahme ◻ Gemäss den geltenden Bestimmungen war vor der Anwendung kein Antrag notwendig ◻ Andere Gründe ◻ Bitte erläutern:</td></tr>
-</table>
-
-\6. Frühere Anträge
-
-<table>
-<tr><td>Haben Sie schon jemals vorher eine ATZ beantragt? Ja ◻ Nein ◻ Für welche Substanz oder Methode? Bei welcher Stelle? Wann? Entscheidung: Bewilligt ◻ Nicht bewilligt ◻</td></tr>
-</table>
-
-\7. Erklärung des Athleten:
-
-Ich, …………………………, versichere, dass die unter 1. gemachten Angaben richtig sind und dass ich um Genehmigung zur Anwendung einer in der Verbotsliste der WADA aufgeführten Substanz oder Methode ersuche. Ich erteile meine Zustimmung zur Freigabe personenbezogener medizinischer Daten an befugte Mitarbeiter der Anti-Doping-Organisation (ADO) und der WADA, an die ATZK (Kommission für Ausnahmebewilligungen zu therapeutischen Zwecken) sowie an ATZK anderer ADO und an befugte Mitarbeiter, die gemäss den Bestimmungen des Anti-Doping-Codes möglicherweise Anspruch auf diese Informationen haben.
-
-Mir ist bekannt, dass meine Daten nur zur Beurteilung meines ATZ-Antrages und im Zusammenhang mit möglichen Ermittlungen und Verfahren im Rahmen eines möglichen Verstosses gegen Anti-Doping-Bestimmungen herangezogen werden. Mir ist bekannt, dass ich meinen behandelnden Arzt und meine ADO schriftlich davon in Kenntnis setzen muss, sollte ich jemals den Wunsch haben, 1) mehr Informationen über die Nutzung meiner Daten zu erhalten, 2) mein Recht auf Zugriff und Korrektur auszuüben oder 3) das Recht dieser Organisationen auf Erhalt meiner gesundheitsbezogenen Daten zu widerrufen. Ich verstehe und erkläre mich damit einverstanden, dass es möglicherweise erforderlich ist, ATZ-bezogene Informationen, die vor dem Widerruf meiner Zustimmung eingereicht wurden, zum alleinigen Zweck der Feststellung einer möglichen Verletzung von Anti-Doping-Bestimmungen zu speichern, wenn dies laut Code erforderlich ist.
-
-Mir ist bekannt, dass ich bei der WADA oder dem CAS Beschwerde einreichen kann, wenn ich der Auffassung bin, dass meine personenbezogenen Daten nicht entsprechend meiner Zustimmung und dem internationalen Standard zum Schutz von Persönlichkeitsrechten und personenbezogenen Daten verwendet werden.
-
-Unterschrift des Athleten: Datum:
-
-Unterschrift des Erziehungsberechtigten oder gesetzlichen Vertreters des Athleten:
-
-Datum:
-
-(Falls der Athlet minderjährig ist oder aufgrund einer Behinderung das Formular nicht unterschreiben kann, unterschreibt ein Elternteil oder gesetzlicher Vertreter mit dem Athleten oder in seinem Namen.)
-
-**Bitte senden Sie das ordnungsgemäss ausgefüllte Formular auf folgendem Weg an …………… und behalten Sie ein Exemplar für Ihre Unterlagen: …………**
-
-Geltungsbereich am 13. Juni 2018**[^t-4]**
+Geltungsbereich am 13. Juni 2018[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -983,4 +740,4 @@ Geltungsbereich am 13. Juni 2018**[^t-4]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): http://portal.unesco.org (siehe «Textes normatifs») eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer Inseln. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-4]: [AS 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95), [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30)[3167](https://fedlex.data.admin.ch/eli/oc/2010/423), [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530),[2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286), [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586), [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253), [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279), [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-4]: [AS 2009 521](https://fedlex.data.admin.ch/eli/oc/2009/95), [2010 245](https://fedlex.data.admin.ch/eli/oc/2010/30)[3167](https://fedlex.data.admin.ch/eli/oc/2010/423), [2011 3777](https://fedlex.data.admin.ch/eli/oc/2011/530),[2012 2377](https://fedlex.data.admin.ch/eli/oc/2012/286), [2013 3019](https://fedlex.data.admin.ch/eli/oc/2013/586), [2014 1199](https://fedlex.data.admin.ch/eli/oc/2014/253), [2016 1421](https://fedlex.data.admin.ch/eli/oc/2016/279), [2018 2531](https://fedlex.data.admin.ch/eli/oc/2018/367). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
