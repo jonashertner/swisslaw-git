@@ -3,20 +3,20 @@ canton: BL
 number: "640.221"
 title: Reglement über Aufnahmen und Übertritte
 language: de
-version: 2021-03-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-05
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-02-16
 adopted: 2021-03-05
 in_force: 2021-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.221"
-pdf: "https://bl.clex.ch/api/de/versions/3382/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3533/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über Aufnahmen und Übertritte
 
-Vom 05.03.2021 (Stand 01.03.2021)
+Vom 05.03.2021 (Stand 01.01.2023)
 
 Die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH),
 
@@ -38,7 +38,7 @@ beschliesst:[^ingress-2]
 - a. die Aufnahme aus ausserkantonalen Schulen oder Privatschulen an die Maturitätsabteilung und die Fachmittelschule (FMS) der Gymnasien sowie die Aufnahme an die Berufsmaturitätsschulen (BMS) und Wirtschaftsmittelschulen (WMS);
 - b. die Übertritte zwischen der Maturitätsabteilung und der FMS der Gymnasien sowie der BMS und der WMS.
 
-<sup>2</sup> Zuständig für die Aufnahme an die Maturitätsabteilung und die FMS der Gymnasien ist die Dienststelle BMH, Hauptabteilung Mittelschulen. Zuständig für den Übertritt an die Maturitätsabteilung und an die FMS ist die Schulleitung der aufnehmenden Schule nach Rücksprache mit der Dienststelle BMH, Hauptabteilung Mittelschulen.
+<sup>2</sup> Zuständig für die Aufnahme an die Maturitätsabteilung und die FMS der Gymnasien ist die Dienststelle BMH, Hauptabteilung Berufs- und Mittelschulen. Zuständig für den Übertritt an die Maturitätsabteilung und an die FMS ist die Schulleitung der aufnehmenden Schule nach Rücksprache mit der Dienststelle BMH, Hauptabteilung Berufs- und Mittelschulen.
 
 <sup>3</sup> Zuständig für die Aufnahme und den Übertritt an die BMS und WMS ist die Schulleitung der BMS, an der die lernende Person den Berufsmaturitätsunterricht besucht, bzw. die Schulleitung der WMS.
 
@@ -50,7 +50,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Für die Aufnahme aus staatlichen Schulen anderer Kantone und aus Privatschulen, mit denen eine Vereinbarung besteht, gelten die Bestimmungen der entsprechenden Vereinbarung, wobei gemäss Art. 14 Abs. 3 der Verordnung über die eidgenössische Berufsmaturität (BMV) vom 24. Juni 2009[^2-1] zum Berufsmaturitätsunterricht zugelassen ist, wer im Wohnsitzkanton das Zulassungsverfahren erfolgreich durchlaufen hat. Vorbehalten bleiben abweichende kantonale Freizügigkeitsregelungen.
 
-<sup>2</sup> In den übrigen Fällen entscheidet die Schulleitung nach Rücksprache mit der Dienststelle BMH. Sie kann ihren Entscheid von einer Leistungsabklärung abhängig machen.
+<sup>2</sup> In den übrigen Fällen kann die aufnehmende Stelle ihren Entscheid von einer Leistungsabklärung abhängig machen.
 
 <sup>3</sup> Bei Eintritt ins 1. Schuljahr der Maturitätsabteilung oder der FMS der Gymnasien erfolgt die Aufnahme aus Privatschulen in der Regel provisorisch, aus staatlichen Schulen nach Promotionsentscheid.
 
