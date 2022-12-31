@@ -4,13 +4,13 @@ number: "173.1"
 title: Gesetz über die Rechtspflege
 short: RPflG
 language: de
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2019-12-12
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-03-11
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/de/versions/2908/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2908/pdf_file"
 
 (RPflG)
 
-vom 11.02.2009 (Stand 01.08.2021)
+vom 11.02.2009 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -228,9 +228,9 @@ verordnet:
 
 <sup>1</sup> Das Kantonsgericht übt die oberste Gerichtsbarkeit im Kanton aus.
 
-<sup>2</sup> Der Grosse Rat bestimmt auf dem Beschlussweg die Zahl der Kantonsrichter und jene der Ersatzrichter unter Berücksichtigung der sprachlichen Ausgewogenheit.
+<sup>2</sup> Der Grosse Rat bestimmt auf dem Beschlussweg die Zahl der Kantonsrichter, jene der Ersatzrichter und der Beisitzer unter Berücksichtigung der sprachlichen Ausgewogenheit.
 
-<sup>3</sup> Er wählt und vereidigt die Kantonsrichter und die Ersatzrichter am Kantonsgericht für die Dauer der Amtsperiode.
+<sup>3</sup> Er wählt und vereidigt die Kantonsrichter, die Ersatzrichter und die Beisitzer am Kantonsgericht für die Dauer der Amtsperiode.
 
 <sup>4</sup> Das Kantonsgericht hat seinen Sitz in Sitten.
 
@@ -418,11 +418,13 @@ verordnet:
 
 <sup>2</sup> Inhaber eines Lizentiats, Masters oder Doktorats der Rechte oder eines gleichwertigen akademischen Titels sind wählbar, wenn sie den Nachweis einer hinreichenden praktischen Erfahrung erbringen.
 
+<sup>3</sup> Als Beisitzer der steuerrechtlichen Abteilung des Kantonsgerichts ist nur wählbar, wer über besondere berufliche Fähigkeiten in den Bereichen Steuern, Steuerrecht, Treuhandwesen oder treuhänderische Vermögensverwaltung verfügt. Es ist nicht notwendig, einen akademischen Titel in Rechtswissenschaften zu besitzen.
+
 #### Art. 28
 
 **Wahl der Kantonsrichter und der Mitglieder des Büros der Staatsanwaltschaft**
 
-<sup>1</sup> Die Wahl der Kantonsrichter, der Ersatzrichter am Kantonsgericht und der Mitglieder des Büros der Staatsanwaltschaft ist durch das Reglement des Grossen Rates festgelegt.
+<sup>1</sup> Die Wahl der Kantonsrichter, der Ersatzrichter am Kantonsgericht, der Beisitzer am Kantonsgericht und der Mitglieder des Büros der Staatsanwaltschaft ist durch das Reglement des Grossen Rates festgelegt.
 
 #### Art. 28a
 
@@ -458,7 +460,7 @@ verordnet:
 
 **Allgemeine Pflichten der Richter und Staatsanwälte**
 
-<sup>1</sup> Die Richter und Staatsanwälte:
+<sup>1</sup> Die Richter, Beisitzer und Staatsanwälte:
 
 - a) sind unabhängig und unparteiisch;
 - b) üben ihre Aufgabe mit Gewissenhaftigkeit, Sorgfalt und Strenge aus;
@@ -500,9 +502,9 @@ verordnet:
 
 #### Art. 34
 
-**Beendigung der Tätigkeit als Richter, Staatsanwalt oder Substitut**
+**Beendigung der Tätigkeit als Richter, Staatsanwalt, Substitut oder Beisitzer**
 
-<sup>1</sup> Die Richter, die Ersatzrichter, der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter, die Oberstaatsanwälte, die Staatsanwälte und die Substituten können ihren Rücktritt auf Ende eines Monats unter Einhaltung einer Kündigungsfrist von sechs Monaten bei der Wahl- oder Ernennungsbehörde einreichen. Die Dauer der Kündigungsfrist kann mit Zustimmung der zuständigen Behörde verkürzt werden.
+<sup>1</sup> Die Richter, die Ersatzrichter, die Beisitzer, der Generalstaatsanwalt, der Generalstaatsanwalt-Stellvertreter, die Oberstaatsanwälte, die Staatsanwälte und die Substituten können ihren Rücktritt auf Ende eines Monats unter Einhaltung einer Kündigungsfrist von 6 Monaten bei der Wahl- oder Ernennungsbehörde einreichen. Die Dauer der Kündigungsfrist kann mit Zustimmung der zuständigen Behörde verkürzt werden.
 
 <sup>2</sup> Aus wichtigen Gründen kann die Wahl- oder Ernennungsbehörde die Tätigkeiten eines Magistraten jederzeit beenden. Vorbehalten bleibt das Disziplinarverfahren.
 

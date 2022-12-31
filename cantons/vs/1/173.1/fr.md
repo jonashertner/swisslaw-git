@@ -4,13 +4,13 @@ number: "173.1"
 title: "Loi sur l'organisation de la Justice"
 short: LOJ
 language: fr
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2019-12-12
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-03-11
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2908/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3121/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2908/pdf_file"
 
 (LOJ)
 
-du 11.02.2009 (état 01.08.2021)
+du 11.02.2009 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -228,9 +228,9 @@ ordonne:
 
 <sup>1</sup> Le Tribunal cantonal est la juridiction suprême du canton.
 
-<sup>2</sup> Le Grand Conseil arrête, par voie de décision, le nombre de juges cantonaux et de juges cantonaux suppléants, en tenant compte de l'équilibre linguistique.
+<sup>2</sup> Le Grand Conseil arrête, par voie de décision, le nombre de juges cantonaux, de juges cantonaux suppléants et de juges assesseurs, en tenant compte de l'équilibre linguistique.
 
-<sup>3</sup> Il élit et assermente les juges cantonaux et les juges cantonaux suppléants pour la durée de la législature.
+<sup>3</sup> Il élit et assermente les juges cantonaux, les juges cantonaux suppléants et les juges assesseurs pour la durée de la législature.
 
 <sup>4</sup> Le Tribunal cantonal a son siège à Sion.
 
@@ -418,11 +418,13 @@ ordonne:
 
 <sup>2</sup> Les titulaires d'une licence, master ou doctorat en droit, ou d'un titre universitaire équivalent sont éligibles à condition de justifier d'une formation pratique suffisante.
 
+<sup>3</sup> Pour être nommé juge assesseur auprès de la Cour de droit fiscal du Tribunal cantonal, il faut posséder des compétences professionnelles spécifiques dans les domaines de la fiscalité, du droit fiscal, de la fiducie ou de la gestion fiduciaire de patrimoine. Il n’est pas nécessaire d'être porteur d'un titre universitaire en droit.
+
 #### Art. 28
 
 **Election des juges cantonaux et des membres du bureau du ministère public**
 
-<sup>1</sup> Le mode d'élection des juges cantonaux, des juges cantonaux suppléants et des membres du bureau du ministère public est fixé par le règlement du Grand Conseil.
+<sup>1</sup> Le mode d'élection des juges cantonaux, des juges cantonaux suppléants, des juges assesseurs cantonaux et des membres du Bureau du Ministère public est fixé par le règlement du Grand Conseil.
 
 #### Art. 28a
 
@@ -458,7 +460,7 @@ ordonne:
 
 **Devoirs généraux des juges et des procureurs**
 
-<sup>1</sup> Les juges et les procureurs:
+<sup>1</sup> Les juges, les juges assesseurs et les procureurs:
 
 - a) sont indépendants et impartiaux;
 - b) exercent leur charge avec assiduité, diligence et rigueur;
@@ -500,9 +502,9 @@ ordonne:
 
 #### Art. 34
 
-**Fin des fonctions de juge, procureur ou substitut**
+**Fin des fonctions de juge, procureur, substitut ou juge assesseur**
 
-<sup>1</sup> Les juges, les juges suppléants, le procureur général, le procureur général adjoint, les premiers procureurs, les procureurs et les substituts peuvent présenter leur démission en tout temps auprès de l'autorité d'élection ou de nomination en respectant un préavis de six mois pour la fin d'un mois. La durée du préavis peut être abrégée avec l'accord de l'autorité compétente.
+<sup>1</sup> Les juges, les juges suppléants, les juges assesseurs, le procureur général, le procureur général adjoint, les premiers procureurs, les procureurs et les substituts peuvent présenter leur démission en tout temps auprès de l'autorité d'élection ou de nomination en respectant un préavis de 6 mois pour la fin d'un mois. La durée du préavis peut être abrégée avec l'accord de l'autorité compétente.
 
 <sup>2</sup> L'autorité d'élection ou de nomination peut en tout temps mettre fin aux fonctions d'un magistrat pour de justes motifs. Demeure réservée la procédure disciplinaire.
 
