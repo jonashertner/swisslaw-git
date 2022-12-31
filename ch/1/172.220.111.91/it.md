@@ -4,11 +4,11 @@ title: "Ordinanza del DDPS del 30 novembre 2017 sul personale impiegato per la p
 short: OPers-PRA-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/794"
 language: it
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2017-11-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-794-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-794-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/it"
 
 (OPers-PRA-DDPS)
 
-del 30 novembre 2017 (Stato 1° gennaio 2018)
+del 30 novembre 2017 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -74,7 +74,7 @@ I candidati sono sottoposti nell’ambito:
 
   dell’esame d’idoneità di base a esami, accertamenti e valutazioni riguardanti:
 
-  - 1\. il loro stato di salute,
+  - 1\.[^3-1] il loro stato di salute e il loro stato vaccinale,
   - 2\. le loro attitudini fisiche: resistenza, forza, velocità e capacità di coordinamento,
   - 3\. le loro attitudini intellettuali e la loro personalità: attitudini intellettuali generali, capacità di risolvere problemi, capacità di concentrazione, attenzione, flessibilità, scrupolosità, autoconsapevolezza e inclinazioni personali,
   - 4\. la loro psiche: salute psichica, assenza di disturbi ansiosi, autoconsapevolezza, resistenza allo stress, stabilità emotiva e capacità di socializzare,
@@ -86,10 +86,11 @@ I candidati sono sottoposti nell’ambito:
 
   dell’esame d’idoneità specifico alla funzione a esami e valutazioni riguardanti:
 
-  - 1\. la presenza di circostanze personali particolari secondo l’ordinanza del 22 novembre 2017[^3-1] concernente l’obbligo di prestare servizio militare (OOPSM),
+  - 1\. la presenza di circostanze personali particolari secondo l’ordinanza del 22 novembre 2017[^3-2] concernente l’obbligo di prestare servizio militare (OOPSM),
   - 2\. la loro idoneità all’esercizio di determinate funzioni di truppa o di quadro, nella misura in cui non risultino dal profilo dei requisiti generali secondo la lettera a.
 
-[^3-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^3-1]: Nuovo testo giusta il n. I dell’O del DDPS del 5 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^3-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 #### Art. 4
 
@@ -112,11 +113,9 @@ Il Centro di competenza SWISSINT:
 
 #### Art. 6
 
-**Computabilità**
+[^6-1]
 
-Nella misura in cui il totale obbligatorio di giorni di servizio d’istruzione non è adempiuto, tutti i giorni necessari per l’esame d’idoneità a favore del servizio di promovimento della pace secondo l’OOPSM[^6-1] sono computati sul totale obbligatorio di giorni di servizio d’istruzione.
-
-[^6-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^6-1]: Abrogato dal n. I dell’O del DDPS del 5 dic. 2022, con effetto dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 ## Sezione 3: Istruzione del personale
 
@@ -135,19 +134,20 @@ Dopo l’esame d’idoneità, a seconda della funzione, il personale destinato a
 
 #### Art. 8
 
-**Computabilità**
+[^8-1]
 
-Nella misura in cui il totale obbligatorio di giorni di servizio d’istruzione non è ancora adempiuto, l’istruzione specifica all’impiego secondo l’articolo 43 capoverso 1 della legge militare del 3 febbraio 1995[^8-1] (LM) dà diritto al soldo ed è computata sul totale obbligatorio di giorni di servizio d’istruzione.
-
-[^8-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^8-1]: Abrogato dal n. I dell’O del DDPS del 5 dic. 2022, con effetto dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 #### Art. 9
 
-**Servizi d’istruzione secondo l’OOPSM**
+**Servizi d’istruzione secondo l’OOPSM**[^9-1]
 
-Se un servizio d’istruzione secondo l’OOPSM[^9-1] coincide totalmente o in parte con un impiego, l’organo incaricato ordina un differimento del servizio per motivi militari.
+<sup>1</sup> Se il totale obbligatorio di giorni di servizio d’istruzione secondo l’OOPSM[^9-2] coincide totalmente o in parte con un impiego, il Comando Operazioni ordina un differimento del servizio per motivi militari.
 
-[^9-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+<sup>2</sup> In casi eccezionali motivati il Comando Operazioni può autorizzare servizi d’istruzione secondo l’OOPSM durante il periodo di un impiego.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DDPS del 5 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^9-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 ## Sezione 4: Rapporto di lavoro e competenze
 
@@ -170,13 +170,31 @@ Se un servizio d’istruzione secondo l’OOPSM[^9-1] coincide totalmente o in p
 
 <sup>1</sup> Il contratto di lavoro per l’istruzione è limitato alla durata di detta istruzione.
 
-<sup>2</sup> Il contratto di lavoro per l’impiego concreto è limitato alla durata di detto impiego. Se la durata dell’impiego è indeterminata, il contratto di lavoro è limitato a un anno al massimo.
+<sup>2</sup> Il contratto di lavoro per l’impiego concreto è limitato alla durata di detto impiego. Se la durata dell’impiego è indeterminata, il contratto di lavoro è, di norma, limitato a un anno.[^11-1]
 
-<sup>3</sup> Se l’istruzione o l’impiego sono effettuati in parte come servizio militare computato sul totale obbligatorio dei giorni di servizio d’istruzione, il contratto di lavoro è concluso per il resto del periodo d’istruzione o d’impiego.
+<sup>3</sup> *...*[^11-2]
 
-<sup>4</sup> Il contratto di lavoro per l’impiego può essere prorogato un’unica volta, di comune intesa. In casi particolari motivati il Comando Operazioni dell’Aggruppamento Difesa può autorizzare un’ulteriore proroga.
+<sup>4</sup> Il contratto di lavoro per l’impiego può essere prorogato di comune intesa. Dopo due proroghe dell’impiego, per un’ulteriore proroga è necessaria l’autorizzazione del Comando Operazioni dell’Aggruppamento Difesa.[^11-3]
 
 <sup>5</sup> Un singolo contratto di lavoro o contratti di lavoro successivi senza interruzioni non possono avere complessivamente una durata superiore a dieci anni.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del DDPS del 5 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^11-2]: Abrogato dal n. I dell’O del DDPS del 5 dic. 2022, con effetto dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del DDPS del 5 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+
+#### Art. 11a
+
+**Contratti di lavoro per specialisti**[^11a-1]
+
+<sup>1</sup> Per gli specialisti possono essere allestiti contratti di lavoro con una durata massima di cinque anni. La durata massima e la possibilità di disdetta sono specificate nel contratto di lavoro.
+
+<sup>2</sup> I contratti di lavoro disciplinano sia l’istruzione specifica all’impiego sia l’impiego.
+
+<sup>3</sup> Tra gli impieghi gli specialisti sono impiegati all’interno dell’Aggruppamen-to Difesa sulla base del contratto di lavoro. Il servizio competente mette a disposizione le riserve di posti necessarie.
+
+<sup>4</sup> Il contratto di lavoro per l’impiego può essere prorogato di comune intesa. Dopo una proroga dell’impiego, per un’ulteriore proroga è necessaria l’autorizzazione del Comando Operazioni dell’Aggruppamento Difesa.
+
+[^11a-1]: Introdotto dal n. I dell’O del DDPS del 5 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 #### Art. 12
 

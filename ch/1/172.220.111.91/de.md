@@ -4,11 +4,11 @@ title: "Verordnung des VBS vom 30. November 2017 über das Personal für die Fri
 short: PVFMH-VBS
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/794"
 language: de
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2017-11-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-794-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-794-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/de"
 
 (PVFMH-VBS)
 
-vom 30. November 2017 (Stand am 1. Januar 2018)
+vom 30. November 2017 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -74,7 +74,7 @@ Die Kandidatinnen und Kandidaten werden im Rahmen:
 
   der grundsätzlichen Eignungsabklärung geprüft, untersucht und beurteilt betreffend:
 
-  - 1\. ihren Gesundheitszustand,
+  - 1\.[^3-1] ihren Gesundheitszustand und ihren Impfstatus,
   - 2\. ihre körperliche Leistungsfähigkeit: Ausdauer, Kraft, Schnelligkeit und koordinativen Fähigkeiten,
   - 3\. ihre Intelligenz und ihre Persönlichkeit: allgemeine Intelligenz, Problemlösefähigkeit, Konzentrationsfähigkeit, Aufmerksamkeit, Flexibilität, Gewissenhaftigkeit, Selbstbewusstsein und persönliche Neigungen,
   - 4\. ihre Psyche: psychische Gesundheit, Angstfreiheit, Selbstbewusstsein, Stressresistenz, emotionale Stabilität und Umgänglichkeit,
@@ -86,10 +86,11 @@ Die Kandidatinnen und Kandidaten werden im Rahmen:
 
   der funktionsbezogenen Eignungsabklärung geprüft und beurteilt betreffend:
 
-  - 1\. das Vorliegen von besonderen persönlichen Verhältnissen nach der Verordnung vom 22. November 2017[^3-1] über die Militärdienstpflicht (VMDP),
+  - 1\. das Vorliegen von besonderen persönlichen Verhältnissen nach der Verordnung vom 22. November 2017[^3-2] über die Militärdienstpflicht (VMDP),
   - 2\. ihre Eignung zur Ausübung bestimmter Mannschafts- oder Kaderfunktionen, soweit sich diese nicht aus dem allgemeinen Anforderungsprofil nach Buchstabe a ergeben.
 
-[^3-1]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^3-1]: Fassung gemäss Ziff. I der V des VBS vom 5. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^3-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 #### Art. 4
 
@@ -112,11 +113,9 @@ Das Kompetenzzentrum SWISSINT:
 
 #### Art. 6
 
-**Anrechenbarkeit**
+[^6-1]
 
-Soweit die Ausbildungsdienstpflicht nicht erfüllt ist, werden alle für die Eignungsabklärung zugunsten des Friedensförderungsdienstes erforderlichen Tage gemäss der VMDP[^6-1] an die Ausbildungsdienstpflicht angerechnet.
-
-[^6-1]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^6-1]: Aufgehoben durch Ziff. I der V des VBS vom 5. Dez. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 ## 3. Abschnitt: Ausbildung des Personals
 
@@ -135,19 +134,20 @@ Angehendes Personal für Einsätze in den Bereichen Friedensförderung, Stärkun
 
 #### Art. 8
 
-**Anrechenbarkeit**
+[^8-1]
 
-Soweit die Ausbildungsdienstpflicht noch nicht erfüllt ist, wird die einsatzbezogene Ausbildung nach Artikel 43 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^8-1] (MG) besoldet und an die Ausbildungsdienstpflicht angerechnet.
-
-[^8-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^8-1]: Aufgehoben durch Ziff. I der V des VBS vom 5. Dez. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 #### Art. 9
 
-**Ausbildungsdienste nach VMDP**
+**Ausbildungsdienste nach VMDP**[^9-1]
 
-Fällt ein Ausbildungsdienst gemäss VMDP[^9-1] zeitlich ganz oder teilweise mit einem Einsatz zusammen, so ordnet die zuständige Behörde eine Dienstverschiebung aus militärischen Gründen an.
+<sup>1</sup> Fällt ein Ausbildungsdienst gemäss VMDP[^9-2] ganz oder teilweise mit einem Einsatz zusammen, so ordnet das Kommando Operationen eine Dienstverschiebung aus militärischen Gründen an.
 
-[^9-1]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+<sup>2</sup> In begründeten Ausnahmefällen kann das Kommando Operationen Ausbildungsdienste gemäss VMDP während der Dauer eines Einsatzes bewilligen.
+
+[^9-1]: Fassung gemäss Ziff. I der V des VBS vom 5. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^9-2]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 ## 4. Abschnitt: Arbeitsverhältnis und Zuständigkeiten
 
@@ -170,13 +170,31 @@ Fällt ein Ausbildungsdienst gemäss VMDP[^9-1] zeitlich ganz oder teilweise mit
 
 <sup>1</sup> Der Arbeitsvertrag für die Ausbildung ist auf deren Dauer befristet.
 
-<sup>2</sup> Der Arbeitsvertrag für den konkreten Einsatz ist auf dessen Dauer befristet. Ist die Einsatzdauer unbestimmt, so wird der Arbeitsvertrag auf längstens ein Jahr befristet.
+<sup>2</sup> Der Arbeitsvertrag für den konkreten Einsatz ist auf dessen Dauer befristet. Ist die Einsatzdauer unbestimmt, so wird der Arbeitsvertrag in der Regel auf ein Jahr befristet.[^11-1]
 
-<sup>3</sup> Wird die Ausbildung oder der Einsatz teilweise als Militärdienst mit Anrechnung an die Ausbildungsdienstpflicht geleistet, so wird der Arbeitsvertrag für die übrige Dauer der Ausbildung oder des Einsatzes geschlossen.
+<sup>3</sup> …[^11-2]
 
-<sup>4</sup> Der Arbeitsvertrag für den Einsatz kann im gegenseitigen Einvernehmen einmal verlängert werden. In besonders begründeten Einzelfällen kann das Kommando Operationen der Gruppe Verteidigung eine weitere Verlängerung bewilligen.
+<sup>4</sup> Der Arbeitsvertrag für den Einsatz kann im gegenseitigen Einvernehmen verlängert werden. Nach zwei Einsatzverlängerungen braucht es für eine weitere Verlängerung die Bewilligung des Kommando Operationen der Gruppe Verteidigung.[^11-3]
 
 <sup>5</sup> Ein einzelner Arbeitsvertrag oder ohne Unterbruch aneinandergereihte Arbeitsverträge dürfen gesamthaft die Dauer von zehn Jahren nicht überschreiten.
+
+[^11-1]: Fassung gemäss Ziff. I der V des VBS vom 5. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^11-2]: Aufgehoben durch Ziff. I der V des VBS vom 5. Dez. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^11-3]: Fassung gemäss Ziff. I der V des VBS vom 5. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+
+#### Art. 11a
+
+**Arbeitsverträge für Spezialistinnen und Spezialisten**[^11a-1]
+
+<sup>1</sup> Für Spezialistinnen und Spezialisten können Arbeitsverträge mit Maximaldauer von 5 Jahren ausgestellt werden. Die Maximaldauer und die Kündigungsmöglichkeit sind im Arbeitsvertrag festzuhalten.
+
+<sup>2</sup> Die Arbeitsverträge regeln sowohl die einsatzbezogene Ausbildung als auch den Einsatz.
+
+<sup>3</sup> Zwischen den Einsätzen werden die Spezialistinnen und Spezialisten auf Grundlage des Arbeitsvertrages innerhalb der Gruppe Verteidigung eingesetzt. Die zuständige Stelle stellt die notwendigen Poolstellen bereit.
+
+<sup>4</sup> Der Arbeitsvertrag für den Einsatz kann im gegenseitigen Einvernehmen verlängert werden. Nach einer Einsatzverlängerung braucht es für eine weitere Verlängerung die Bewilligung des Kommando Operationen der Gruppe Verteidigung.
+
+[^11a-1]: Eingefügt durch Ziff. I der V des VBS vom 5. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 #### Art. 12
 
@@ -271,7 +289,7 @@ Das Personal hat für das Ein- und das Auspacken vor Beginn und am Ende des Eins
 
 Die Verordnung des VBS vom 25. August 2009[^19-1] über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe wird aufgehoben.
 
-[^19-1]: [[AS 2009 4773](https://fedlex.data.admin.ch/eli/oc/2009/565), [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)Ziff. I 3]
+[^19-1]: [[AS 2009 4773](https://fedlex.data.admin.ch/eli/oc/2009/565); [2010 6099](https://fedlex.data.admin.ch/eli/oc/2010/871)Ziff. I 3]
 
 #### Art. 20
 

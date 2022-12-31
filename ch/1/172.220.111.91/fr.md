@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 30 novembre 2017 sur le personnel affecté à la p
 short: OPers-PDHH-DDPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/794"
 language: fr
-version: 2018-01-01
+version: 2023-01-01
 adopted: 2017-11-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-794-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/794/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-794-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/794/20180101/fr"
 
 (OPers-PDHH-DDPS)
 
-du 30 novembre 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 30 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -66,13 +66,15 @@ Le centre de compétences SWISSINT peut inviter ou, lorsque les services d’ins
 
 <sup>1</sup> L’examen d’aptitude a pour but de juger le profil des candidats en fonction des exigences et leurs dispositions générales pour un engagement en service de promotion de la paix.
 
-<sup>2</sup> Les candidats sont soumis à deux types d’examens.
+<sup>2</sup>
+
+Les candidats sont soumis à deux types d’examens:
 
 - a.
 
   un examen général d’aptitude dont le but est d’examiner et d’établir:
 
-  - 1\. leur état de santé,
+  - 1\.[^3-1] leur état de santé et leur statut vaccinal,
   - 2\. leurs aptitudes physiques (endurance, force, rapidité et coordination),
   - 3\. leur intelligence et leur personnalité (intellect, aptitude à résoudre des problèmes, capacité de concentration, attention, flexibilité, rigueur, confiance en soi, inclinations naturelles),
   - 4\. leur aptitude psychique (santé psychique, intrépidité, confiance en soi, résistance au stress, stabilité émotionnelle, sociabilité),
@@ -84,10 +86,11 @@ Le centre de compétences SWISSINT peut inviter ou, lorsque les services d’ins
 
   un examen d’aptitude propre à la fonction, dont le but est d’examiner et d’établir:
 
-  - 1\. l’existence de certaines conditions personnelles particulières au sens de l’ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)[^3-1],
+  - 1\. l’existence de certaines conditions personnelles particulières au sens de l’ordonnance du 22 novembre 2017 sur les obligations militaires (OMi)[^3-2],
   - 2\. l’aptitude à exercer certaines fonctions, au sein de la troupe ou en tant que cadre, selon des critères ne correspondant pas à ceux du profil général défini sous let. a.
 
-[^3-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 5 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^3-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 #### Art. 4
 
@@ -110,11 +113,9 @@ Le centre de compétences SWISSINT:
 
 #### Art. 6
 
-**Imputation**
+[^6-1]
 
-Les jours consacrés à des examens d’aptitude pour le service de promotion de la paix sont, conformément à l’OMi[^6-1], imputés sur la durée totale des services d’instruction, pour autant que ces derniers n’aient pas encore été accomplis intégralement.
-
-[^6-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^6-1]: Abrogé par le ch. I de l’O du DDPS du 5 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 ## Section 3 Instruction du personnel
 
@@ -133,19 +134,20 @@ Le futur personnel affecté aux domaines de la promotion de la paix, du renforce
 
 #### Art. 8
 
-**Imputation**
+[^8-1]
 
-L’instruction axée sur l’engagement, conformément à l’art. 43, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^8-1], donne droit à la solde et est imputée sur la durée totale des services d’instruction, pour autant que ces derniers n’aient pas encore été accomplis intégralement.
-
-[^8-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^8-1]: Abrogé par le ch. I de l’O du DDPS du 5 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 #### Art. 9
 
-**Services d’instruction selon l’OMi**
+**Services d’instruction selon l’OMi**[^9-1]
 
-Si un service d’instruction selon l’OMi[^9-1] coïncide totalement ou partiellement avec un engagement, l’autorité compétente ordonne un déplacement de service pour des raisons militaires.
+<sup>1</sup> Si un service d’instruction selon l’OMi[^9-2] coïncide totalement ou partiellement avec un engagement, le commandement des Opérations ordonne un déplacement de service pour des raisons militaires.
 
-[^9-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+<sup>2</sup> Dans des cas exceptionnels dûment motivés, le commandement des Opérations peut autoriser des services d’instruction selon l’OMi pendant la durée d’un engagement.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 5 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^9-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
 
 ## Section 4 Rapports de travail et compétences
 
@@ -168,13 +170,31 @@ Si un service d’instruction selon l’OMi[^9-1] coïncide totalement ou partie
 
 <sup>1</sup> Le contrat de travail pour l’instruction est limité à la durée de celle-ci.
 
-<sup>2</sup> Le contrat de travail pour l’engagement concret est limité à la durée de celui-ci. Si l’engagement est de durée indéterminée, la durée du contrat de travail est d’un an au maximum.
+<sup>2</sup> Le contrat de travail pour l’engagement concret est limité à la durée de celui-ci. Si l’engagement est de durée indéterminée, la durée du contrat de travail est en règle générale d’un an.[^11-1]
 
-<sup>3</sup> Si l’instruction ou l’engagement sont accomplis en partie comme service militaire avec imputation sur la durée totale des services d’instruction, le contrat de travail est conclu pour la durée restante de l’instruction ou de l’engagement.
+<sup>3</sup> …[^11-2]
 
-<sup>4</sup> Le contrat de travail pour l’engagement peut être prolongé une fois d’un commun accord. Le commandement des Opérations du Groupement Défense peut accorder une prolongation supplémentaire dans des cas dûment justifiés.
+<sup>4</sup> Le contrat de travail pour l’engagement peut être prolongé d’un commun accord. Après deux prolongations, une autorisation doit être demandée au commandement des Opérations du Groupement Défense pour obtenir une prolongation supplémentaire.[^11-3]
 
 <sup>5</sup> La durée d’un contrat de travail, ou de contrats de travail qui se succèdent sans interruption, ne doit pas excéder dix ans au total.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 5 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^11-2]: Abrogé par le ch. I de l’O du DDPS du 5 déc. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 5 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
+
+#### Art. 11a
+
+**Contrats de travail pour les spécialistes**[^11a-1]
+
+<sup>1</sup> Pour les spécialistes, des contrats de travail d’une durée maximale de cinq ans peuvent être établis. La durée maximale et la possibilité de résiliation doivent être fixées dans le contrat.
+
+<sup>2</sup> Les contrats de travail règlent tant l’instruction axée sur l’engagement que l’engagement lui-même.
+
+<sup>3</sup> Entre les engagements, les spécialistes sont engagés au sein du Groupement Défense sur la base du contrat de travail. Le service compétent met à disposition les réserves de postes nécessaires.
+
+<sup>4</sup> Le contrat de travail pour l’engagement peut être prolongé d’un commun accord. Après une prolongation, une autorisation doit être demandée au commandement des Opérations du Groupement Défense pour obtenir une prolongation supplémentaire.
+
+[^11a-1]: Introduit par le ch. I de l’O du DDPS du 5 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 795](https://fedlex.data.admin.ch/eli/oc/2022/795)).
 
 #### Art. 12
 
