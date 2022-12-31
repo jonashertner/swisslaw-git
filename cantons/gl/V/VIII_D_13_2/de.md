@@ -2,24 +2,24 @@
 canton: GL
 number: VIII D/13/2
 title: "Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
-short: "Ergänzungsleistungsverordnung, ELV"
+short: "Kantonale Ergänzungsleistungsverordnung, KELV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-09
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-01-03
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.13.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2250/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
 
-(Ergänzungsleistungsverordnung, ELV)
+(Kantonale Ergänzungsleistungsverordnung, KELV)
 
-Vom 27.11.2007 (Stand 01.01.2022)
+Vom 27.11.2007 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -73,18 +73,21 @@ verordnet:
 
 #### Art. 5
 
-**Verhältnis zu Leistungen anderer Versicherungen**
+**Verhältnis zu Leistungen anderer Leistungsträger**
 
-<sup>1</sup> Anspruch auf Vergütung der Kosten nach Artikel 14 des Bundesgesetzes vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) besteht nur, soweit nicht andere Versicherungen für die Kosten aufkommen. Der Bezug folgender Leistungen wird nicht berücksichtigt:
+<sup>1</sup> Anspruch auf Vergütung der Kosten nach Artikel 14 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^5-1] besteht nur, soweit nicht andere bundesrechtliche oder kantonalrechtliche Leistungsträger für die Kosten aufkommen und höchstens bis zu den Beträgen gemäss Absatz 3–5. Der Bezug folgender Leistungen wird nicht berücksichtigt:
 
 - a. Hilflosenentschädigung der AHV, der IV, der Unfall- oder der Militärversicherung;
 - b. Assistenzbeitrag der IV.
 
-<sup>2</sup> Erhöht sich der Betrag der Kostenvergütung nach Artikel 14 Absatz 4 ELG oder nach Artikel 19b der Verordnung vom 15. Januar 1971 über die Ergänzungsleistung zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV), so wird die Hilflosenentschädigung der IV und der Unfallversicherung sowie der Assistenzbeitrag von den ausgewiesenen Pflege- und Betreuungskosten nach den Artikeln 13–16 dieser Verordnung abgezogen. Der Höchstbetrag nach Artikel 14 Absatz 3 Buchstabe a ELG darf jedoch nicht unterschritten werden.
+<sup>2</sup> Erhöht sich die Kostenvergütung nach Artikel 14 Absatz 4 und 5 ELG oder nach Artikel 19b der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^5-2], so wird die Hilflosenentschädigung der IV und der Unfallversicherung sowie der Assistenzbeitrag von den ausgewiesenen Pflege- und Betreuungskosten nach den Artikeln 13–16 abgezogen.
 
 <sup>3</sup> Hat die Krankenversicherung für ihre Vergütung von Pflege- und Betreuungskosten zu Hause die Hilflosenentschädigung der IV oder der Unfallversicherung oder den Assistenzbeitrag der IV angerechnet, so werden diese im Umfang der Anrechnung nicht von den ausgewiesenen Kosten abgezogen.
 
-<sup>4</sup> Bei Anwendung von Artikel 14 Absatz 5 ELG gelten die Absätze 2 und 3 sinngemäss.
+<sup>4</sup> …
+
+[^5-1]: SR 831.30
+[^5-2]: SR 831.301
 
 #### Art. 6
 
@@ -110,9 +113,12 @@ verordnet:
 
 **Kostenbeteiligungen nach KVG**
 
-<sup>1</sup> Die Beteiligung nach Artikel 64 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG) an Kosten für Leistungen, welche die obligatorische Krankenpflegeversicherung nach Artikel 24 KVG übernimmt, wird vergütet.
+<sup>1</sup> Die Beteiligung nach Artikel 64 des Bundesgesetzes über die Krankenversicherung (KVG)[^8-1] an Kosten für Leistungen, welche die obligatorische Krankenpflegeversicherung nach Artikel 24 KVG übernimmt, wird vergütet.
 
-<sup>2</sup> Wird eine Versicherung mit höherer Franchise nach Artikel 93 der Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV) gewählt, so wird höchstens die Franchise gemäss Artikel 103 Absatz 1 KVV vergütet.
+<sup>2</sup> Wird eine Versicherung mit höherer Franchise nach Artikel 93 der Verordnung über die Krankenversicherung (KVV)[^8-2] gewählt, so wird höchstens die Summe der Franchise und des Selbstbehalts gemäss Artikel 103 Absatz 1 und 2 KVV vergütet.
+
+[^8-1]: SR 832.10
+[^8-2]: SR 832.102
 
 #### Art. 9
 
@@ -142,9 +148,7 @@ verordnet:
 
 #### Art. 11
 
-**Kosten bei vorübergehendem Aufenthalt in einem Spital**
-
-<sup>1</sup> Bei vorübergehendem Aufenthalt in einem Spital wird von der Kostenbeteiligung nach Artikel 8 dieser Verordnung ein angemessener Betrag für den Lebensunterhalt abgezogen. Die Kostenbeteiligungen richten sich grundsätzlich nach den Naturallohnansätzen bei der AHV (WEL 2067).
+**…**
 
 #### Art. 12
 
@@ -152,7 +156,7 @@ verordnet:
 
 <sup>1</sup> Kosten für ärztlich verordnete Erholungskuren und ärztlich verordnete Badekuren werden nach Abzug eines angemessenen Betrages für den Lebensunterhalt vergütet, wenn die Kur in einem Heim oder Spital durchgeführt wurde; bei Badekuren, wenn die versicherte Person während des Kuraufenthaltes unter ärztlicher Kontrolle stand.
 
-<sup>2</sup> Die Begrenzung der Heimtaxen gemäss Artikel 1 dieser Verordnung gilt sinngemäss auch für Erholungskuren und bei Aufenthalt in einem Heilbad.
+<sup>2</sup> Die Begrenzung der Heimtaxen gemäss Artikel 1 gilt sinngemäss auch für Erholungskuren und bei Aufenthalt in einem Heilbad.
 
 <sup>3</sup> Die Kostenbeteiligungen für die versicherten Personen gemäss Absatz 1 richten sich in der Regel nach den Naturallohnansätzen bei der AHV (WEL 2067).
 
@@ -162,39 +166,23 @@ verordnet:
 
 **Kosten für Hilfe, Pflege und Betreuung zu Hause**
 
-<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung, die infolge Alter, Invalidität, Unfall oder Krankheit notwendig ist und von anerkannten gemeinnützigen Institutionen (Pro Senectute, Pro Infirmis, Pro Juventute, Spitex) erbracht wird, werden vergütet.
+<sup>1</sup> Kosten für Hilfe zu Hause, die infolge Alter, Invalidität, Unfall oder Krankheit notwendig ist, werden subsidiär und in der Höhe des für den Anspruchsberechtigten verbleibenden Selbstbehalts vergütet:
 
-<sup>2</sup> Pflege- und Betreuungskosten, die in einem öffentlichen oder gemeinnützigen Tagesheim, Tagesspital oder Ambulatorium entstanden sind, werden ebenfalls vergütet.
+- a. nach Massgabe von Artikel 31 der Pflege- und Betreuungsverordnung (PBV)[^13-1], sofern es sich um Pflegeleistungen handelt;
+- b. nach Massgabe von Artikel 32 PBV, sofern es sich um Betreuungs- und hauswirtschaftliche Leistungen handelt, welche von Leistungserbringern mit einer Leistungsvereinbarung mit dem Kanton erbracht werden und 15 Stunden pro Woche nicht übersteigen.
 
-<sup>3</sup> Kosten für Leistungen privater Träger werden vergütet, soweit sie den Kosten öffentlicher oder gemeinnütziger Träger entsprechen.
+<sup>1a</sup> Ein Anspruch auf eine Hilflosenentschädigung leichten, mittleren oder schweren Grades wird wie folgt angerechnet:
 
-<sup>4</sup> Ausgewiesene Kosten für die notwendige Hilfe und Betreuung im Haushalt werden bis höchstens 4800 Franken pro Kalenderjahr vergütet, wenn die Hilfe von einer Person erbracht wird, welche:
+- a. bis zur monatlichen Höhe der ausgerichteten Hilflosenentschädigung; und
+- b. monatlich nach Erbringungsdatum.
 
-- a. nicht im gleichen Haushalt lebt; oder
-- b. nicht über eine anerkannte gemeinnützige Institution eingesetzt wird.
-
-<sup>5</sup> Bei einer Vergütung nach Absatz 4 werden Kosten bis 25 Franken pro Stunde berücksichtigt.
+<sup>2–5</sup> …
 
 <sup>6</sup> Ein Anspruch auf einen Assistenzbeitrag der IV geht diesen Ansprüchen vor.
 
-#### Art. 14
+[^13-1]: GS [VIII A/1/6](https://gesetze.gl.ch/data/VIII-A.1.6/de)
 
-**Kosten für direkt angestelltes Pflegepersonal und von Leistungen Familienangehöriger**
-
-<sup>1</sup> Zu Hause wohnenden Bezügern mit einer Hilflosenentschädigung für schwere oder mittelschwere Hilflosigkeit werden die Kosten nur für den Teil der Pflege und Betreuung vergütet, der nicht durch eine anerkannte Spitexorganisation im Sinne von Artikel 51 KVV erbracht werden kann.
-
-<sup>1a</sup> Erbringen Familienangehörige derartige Pflege- und Betreuungsleistungen, werden diese nur vergütet, wenn die betreffenden Familienangehörigen:
-
-- a. nicht in der EL-Berechnung eingeschlossen sind; und
-- b. durch die Pflege und Betreuung eine länger dauernde, wesentliche Erwerbseinbusse erleiden.
-
-<sup>2</sup> Der Spitex-Kantonalverband Glarus legt den Umfang der Pflege und Betreuung sowie das Anforderungsprofil der Betreuungsperson im konkreten Fall fest. Wird dieser Verband nicht beigezogen oder werden dessen Vorgaben nicht eingehalten, werden die Kosten nicht vergütet.
-
-<sup>2a</sup> Die Kosten werden höchstens im Umfang des Erwerbsausfalls vergütet.
-
-<sup>3</sup> Ein Anspruch auf einen Assistenzbeitrag der IV geht diesen Ansprüchen vor.
-
-#### Art. 15
+#### Art. 14–15
 
 **…**
 
@@ -222,11 +210,11 @@ verordnet:
 
 <sup>1</sup> Ausgewiesene Transportkosten werden vergütet, soweit sie in der Schweiz durch einen Notfalltransport oder durch eine notwendige Verlegung entstanden sind.
 
-<sup>2</sup> Vergütet werden auch ausgewiesene Kosten für Transporte zum nächstgelegenen medizinischen Behandlungsort. Vergütet werden die Kosten, die den Preisen der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen. Ist die versicherte Person wegen ihrer Behinderung auf die Benützung eines andern Transportmittels angewiesen (Rotkreuz-Fahrdienst, Rollstuhltaxi), so werden diese Kosten vergütet.
+<sup>2</sup> Vergütet werden auch ausgewiesene Kosten für Transporte zum nächstgelegenen medizinischen Behandlungsort. Vergütet werden die Kosten, die den Preisen der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen. Ist die versicherte Person wegen ihrer Behinderung auf die Benützung eines anderen Transportmittels angewiesen (Rotkreuz-Fahrdienst, Rollstuhltaxi), so werden diese Kosten vergütet.
 
 <sup>3</sup> Erfolgen die Transporte aus medizinischen Gründen mit Privatfahrzeugen, werden die ausgewiesenen Kosten mit 65 Rappen pro Kilometer vergütet. Die gefahrenen Kilometer sind aufzulisten und die Behandlungstermine von den entsprechenden Stellen bestätigen zu lassen.
 
-<sup>4</sup> Tagesstrukturen nach Artikel 16 dieser Verordnung sind den medizinischen Behandlungsorten im Sinne von Absatz 2 gleichgestellt.
+<sup>4</sup> Tagesstrukturen nach Artikel 16 sind den medizinischen Behandlungsorten im Sinne von Absatz 2 gleichgestellt.
 
 ### 2.3. Hilfsmittel und Hilfsgeräte
 
@@ -234,18 +222,37 @@ verordnet:
 
 **Anspruch**
 
-<sup>1</sup> Bezügerinnen und Bezüger von Ergänzungsleistungen haben im Rahmen von Artikel 14 Absatz 1 Buchstabe f ELG Anspruch auf die Vergütung der Anschaffungskosten oder auf die leihweise Abgabe der im Anhang 2 abschliessend aufgeführten Hilfsmittel oder Hilfsgeräte (Pflegehilfsgeräte und Behandlungsgeräte).
+<sup>1</sup> Bezügerinnen und Bezüger von Ergänzungsleistungen haben im Rahmen von Artikel 14 Absatz 1 Buchstabe f ELG Anspruch auf die Vergütung der Anschaffungskosten oder auf die leihweise Abgabe folgender Hilfsmittel und -geräte, wobei die mit \*\* gekennzeichneten nur leihweise nach Massgabe der Verordnung des EDI über die Abgabe von Hilfsmitteln durch die Invalidenversicherung (HVI)[^18-1] abgegeben werden:
+
+<table>
+<tr><th>Hilfsmittelziffer</th><th>Bezeichnung</th></tr>
+<tr><td>2.03 HVI</td><td>Rumpforthesen</td></tr>
+<tr><td>4.02 HVI</td><td>Orthopädische Änderungen und Schuhzurichtungen an Konfektionsschuhen oder orthopädischen Spezialschuhen</td></tr>
+<tr><td>11.01 HVI</td><td>Weisse Stöcke und Navigationsgeräte \*\*</td></tr>
+<tr><td>11.02 HVI</td><td>Blindenführhunde \*\* inkl. Futter- und Tierarztkosten gemäss HVI</td></tr>
+<tr><td>11.04 HVI</td><td>Abspielgeräte für Tonträger</td></tr>
+<tr><td>14.01 HVI</td><td>WC-Dusch- und WC-Trockenanlagen sowie Zusätze zu bestehenden Sanitäreinrichtungen \*\*</td></tr>
+<tr><td>14.02 HVI</td><td>Krankenheber \*\*</td></tr>
+<tr><td>14.03 HVI</td><td>Elektrobetten \*\*</td></tr>
+<tr><td>15.02 HVI</td><td>elektrische und elektronische Kommunikationsgeräte \*\* inkl. die für die Abgabe notwendigen Dienstleistungen gemäss HVI</td></tr>
+<tr><td>15.04 HVI</td><td>Seitenwendegeräte \*\*</td></tr>
+<tr><td>15.05 HVI</td><td>Umweltkontrollgeräte \*\* inkl. die für die Abgabe notwendigen Dienstleistungen gemäss HVI</td></tr>
+<tr><td></td><td>Hygienemasken, sofern im Kalenderjahr durchgehend oder teilweise infolge behördlicher Anordnungen eine Maskenpflicht besteht. Die Vergütung beträgt je betroffenes Kalenderjahr pauschal 30 Franken und wird auf besonderes Gesuch hin ausgerichtet.</td></tr>
+</table>
 
 <sup>2</sup> Bezügerinnen und Bezüger von Ergänzungsleistungen haben zudem Anspruch auf eine Vergütung in Höhe eines Drittels des Kostenbeitrages der AHV bei Hilfsmitteln:
 
-- a. die im Anhang zur Verordnung vom 28. August 1978 über die Abgabe von Hilfsmitteln durch die Altersversicherung (HVA) aufgeführt sind; und
+- a. die im Anhang zur Verordnung über die Abgabe von Hilfsmitteln durch die Altersversicherung (HVA)[^18-2] aufgeführt sind; und
 - b. an welche die AHV einen Kostenbeitrag geleistet hat.
 
-<sup>3</sup> Ein Anspruch auf Vergütung der Kosten besteht nur, soweit die Hilfsmittel nicht aufgrund der Bestimmungen der AHV, der IV oder der Krankenversicherung abgegeben werden. Die Pflegehilfs- und Behandlungsgeräte nach Abschnitt II des Anhanges 2 werden nur für die Hauspflege leihweise abgegeben.
+<sup>3</sup> Ein Anspruch auf Vergütung der Kosten besteht nur, soweit die Hilfsmittel nicht aufgrund der Bestimmungen der AHV, der IV oder der Krankenversicherung abgegeben werden.
 
 <sup>4</sup> Die Anschaffungs- oder Mietkosten werden vergütet, sofern die Ausführung des Hilfsmittels einfach und zweckmässig ist.
 
 <sup>5</sup> Für die Vergütung der Reparatur-, Anpassungs-, Erneuerungs- und Gebrauchstrainingskosten gelten sinngemäss die Vorschriften der Invalidenversicherung.
+
+[^18-1]: SR 831.232.51
+[^18-2]: SR 831.135.1
 
 #### Art. 19
 
@@ -277,9 +284,11 @@ verordnet:
 
 <sup>1</sup> Die Einwohnerkontrollen der Gemeinden des Kantons Glarus teilen der Ausgleichskasse Glarus zur Erfüllung ihrer Aufgaben die notwendigen Mutationen von Personendaten mit. Die Mitteilungen erfolgen kostenlos, wöchentlich und in Listenform.
 
-<sup>2</sup> Die Ausgleichskasse Glarus übermittelt den Gemeinden des Kantons Glarus auf schriftliche Anfrage jeweils kostenlos eine Abschrift der EL-Verfügungen von Personen mit ungedeckten Heimkosten.
+<sup>2</sup> Die Ausgleichskasse Glarus übermittelt dem Kanton Glarus auf schriftliche Anfrage hin jeweils kostenlos eine Abschrift der EL-Verfügungen von Personen mit ungedeckten Heimkosten.
 
-## 4. Schlussbestimmungen
+<sup>3</sup> Die Fachstelle Pflege und Betreuung teilt der Ausgleichskasse Glarus auf schriftliche Anfrage hin die zur Erfüllung ihrer Aufgaben notwendigen Informationen und Entscheide mit.
+
+## 4. Schluss- und Übergangsbestimmungen
 
 #### Art. 22
 
@@ -293,20 +302,31 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
+#### Art. 24
+
+**Übergangsrecht zur Änderung vom 1. Januar 2023**
+
+<sup>1</sup> Leistungen, welche vor dem 1. Januar 2023 gestützt auf Artikel 13 Absatz 1 nach geltendem Recht erbracht wurden, werden im bisherigen Rahmen während einer Übergangszeit von zwei Jahren seit Inkrafttreten der Änderung vom 1. Januar 2023 auch ohne Leistungsvereinbarung weiterhin übernommen.
+
 ## A1. Anhang 1: Maximale EL-Beiträge
 
 #### Art. A1-1
 
-**Stationäre Betreuung in Alters- und Pflegeheimen**
+**Stationäre Unterbringung in Alters- und Pflegeheimen**
 
 <sup>1</sup> Die maximalen täglichen EL-Beiträge sind:
 
-- a. Pension — 121.60 Franken;
-- b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 29.00 Franken;
+- a. APG — 135.80 Franken;
+- a1. APGN — 134.00 Franken;
+- a2. APH Salem — 132.00 Franken;
+- a3. AH Schwanden, APH Linthal und APH Elm — 131.00 Franken;
+- a4. Pflegeabteilung Schwanden — 140.00 Franken;
+- a5. Wohngruppen Schwanden — 150.00 Franken;
+- b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 36.00 Franken;
 - c. KLV (Pflege)
-  - 1\. Stufe 1 — 8.35 Franken;
-  - 2\. Stufe 2 — 15.15 Franken;
-  - 3\. ab Stufe 3 — 23.04 Franken.
+  - 1\. Stufe 1 — 4.75 Franken;
+  - 2\. Stufe 2 — 22.60 Franken;
+  - 3\. ab Stufe 3 — 23.00 Franken.
   - 4\. …
 
 <sup>2</sup> Dabei gilt:
@@ -317,16 +337,16 @@ verordnet:
 
 #### Art. A1-1a
 
-**Stationäre Betreuung im Hospiz**
+**Stationäre Unterbringung im Hospiz**
 
 <sup>1</sup> Die maximalen täglichen EL-Beiträge bei einem Aufenthalt im Hospiz des Alters- und Pflegeheims Salem sind:
 
 - a. Pension — 130 Franken;
 - b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 60 Franken;
 - c. KLV (Pflege)
-  - 1\. Stufe 1 — 8.35 Franken;
-  - 2\. Stufe 2 — 15.15 Franken;
-  - 3\. ab Stufe 3 — 23.04 Franken.
+  - 1\. Stufe 1 — 4.75 Franken;
+  - 2\. Stufe 2 — 22.60 Franken;
+  - 3\. ab Stufe 3 — 23.00 Franken.
 
 <sup>2</sup> Beiträge an die berechtigten Pflegekosten gemäss Artikel A1-1 Absatz 2 Ziffer 3 werden nur ausgerichtet, soweit die Sozialversicherungsbeiträge diese nicht decken und höchstens bis zur Höhe der maximalen Pflegekostenbeteiligung der Versicherten (Art. 25a Abs. 5 KVG).
 
@@ -352,45 +372,10 @@ verordnet:
 
 <sup>4</sup> Die Wochenpflege wird pro Tag vergütet. Bei regelmässigem Aufenthalt an fünf Tagen pro Woche erfolgt die Vergütung für 20 Tage. Bei Dauerpflege werden pauschal 30 Tage vergütet.
 
-## A2. Anhang 2: Liste der Hilfsmittel, Pflegehilfs- und Behandlungsgeräte
+## A2.
 
-#### Art. A2-1
+#### Art. A2-1–A2-2
 
-**Abschnitt I: Hilfsmittel**
-
-<sup>1</sup> Die mit \*\* gekennzeichneten Hilfsmittel und Hilfsgeräte werden nur leihweise abgegeben.
-
-- 2 Orthesen
-  - 2\.03 Rumpforthesen sofern eine funktionelle Insuffizienz der Wirbelsäule mit erheblichen Rückenbeschwerden sowie klinisch und radiologisch nachweisbare Veränderungen der Wirbelsäule vorliegen, die durch medizinische Massnahmen nicht oder nur ungenügend zu beeinflussen sind.
-- 4 Schuhwerk
-  - 4\.02 Orthopädische Änderungen/Schuhzurichtungen an Konfektionsschuhen oder orthopädischen Spezialschuhen
-- 7 Starbrillen oder Kontaktlinsen nach Staroperationen: Für provisorische Starbrillen direkt nach der Operation wird nur eine Leihgebühr von höchstens 60 Franken vergütet.
-- 11 Hilfsmittel für blinde und hochgradig sehschwache Personen
-  - 11\.01 Weisse Stöcke und Navigationsgeräte für Fussgänger\*\*
-  - 11\.02 Blindenführhunde\*\*, sofern die Eignung der versicherten Person als Führhundehalterin erwiesen ist und sie sich dank dieser Hilfe ausserhalb des Hauses selbständig fortbewegen kann. Die Versicherung übernimmt die Kosten gemäss Tarifvertrag mit den Führhundeschulen. Der monatliche Beitrag an die Futterkosten beträgt 80 Franken und an die Tierarztkosten 30 Franken. Übersteigen die Tierarztkosten 360 Franken pro Jahr, werden die Mehrkosten nur gegen Vorlage der entsprechenden Belege zurückerstattet.
-  - 11\.03 …
-  - 11\.04 Abspielgeräte für Tonträger\*\* zum Abspielen von auf Tonträger gesprochener Literatur.
-- 15 Hilfsmittel für den Kontakt mit der Umwelt
-  - 15\.01 Schreibmaschinen\*\*, sofern eine versicherte Person wegen Lähmung oder anderer Gebrechen der oberen Gliedmassen nicht von Hand schreiben kann.
-  - 15\.02 Elektrische und elektronische Kommunikationsgeräte\*\*, sofern eine versicherte Person zur Pflege des täglichen Kontakts mit der Umwelt auf ein solches Gerät angewiesen ist und über die notwendigen intellektuellen und motorischen Fähigkeiten zur Bedienung eines solchen Geräts verfügt.
-  - 15\.04 Seitenwendegeräte\*\*, sofern eine versicherte Person, die die Voraussetzungen für ein Tonbandgerät erfüllt, dieses Gerät anstelle eines Tonbandes benötigt.
-  - 15\.05 Umweltkontrollgeräte\*\*, sofern eine schwerstgelähmte versicherte Person, die nicht in einem Spital oder einer spezialisierten Institution für Chronischkranke untergebracht ist, nur durch diese Vorrichtung mit der Umwelt in Kontakt treten kann.
-  - 15\.11 Hygienemasken, sofern im Kalenderjahr durchgehend oder teilweise infolge behördlicher Anordnungen eine Maskenpflicht besteht. Die Vergütung beträgt je betroffenes Kalenderjahr pauschal 30 Franken und wird auf besonderes Gesuch hin ausgerichtet.
-- 16 …
-
-#### Art. A2-2
-
-**Abschnitt II: Pflegehilfsgeräte und Behandlungsgeräte**
-
-<sup>1</sup> Die mit \*\* bezeichneten Hilfsmittel und Hilfsgeräte werden nur leihweise abgegeben.
-
-- 20 Atmungsapparate\*\* bei Ateminsuffizienz
-- 21 Inhalationsapparate\*\*
-- 22 Automatische Zusätze zu Sanitäreinrichtungen, sofern eine versicherte Person ohne diesen Behelf allein nicht zur betreffenden Körperhygiene fähig ist.
-- 23 Krankenheber\*\* sofern ärztlich bescheinigt ist, dass ein Krankenheber für die Hauspflege notwendig ist.
-- 24 Elektrobetten\*\* sofern ärztlich bescheinigt ist, dass ein Elektrobett für die Hauspflege eine absolute Notwendigkeit darstellt.
-- 25 Nachtstühle
-- 26 Coxarthrosestühle\*\*
-- 27 Aufzugständer (Bettgalgen)\*\*
+**…**
 
 SBE X/6 414
