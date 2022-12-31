@@ -4,13 +4,13 @@ number: "170.410"
 title: Ordinaziun dal persunal
 short: OP
 language: rm
-version: 2022-01-01
-corrected: 2022-01-01
-version_adopted: 2021-10-26
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-05
 adopted: 2006-12-12
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.410"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3211/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3284/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3211/pdf_file"
 
 (OP)
 
-dals 12-12-2006 (versiun dals 01-01-2022)
+dals 12-12-2006 (versiun dals 01-01-2023)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1] e sin la Lescha dal persunal[^ingress-2]
 
@@ -40,11 +40,15 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>3</sup> Aspectativas che sa refereschan a la prestaziun, al cumportament ed a las finamiras che ston vegnir ademplidas, vegnan communitgadas cleramain.
 
-<sup>4</sup> Il chantun tegna quint da las pretensiuns che sa midan permanentamain. El è conscient da las grondas pretensiuns che vegnan fatgas a las collavuraturas ed als collavuraturs sin basa da questas midadas. La relaziun tar las collavuraturas e tar ils collavuraturs è caracterisada da respect e da responsabladad sociala.
+<sup>4</sup> Il chantun tegna quint da las pretensiuns che sa midan permanentamain. El è conscient da las grondas pretensiuns che vegnan fatgas a las collavuraturas ed als collavuraturs sin basa da questas midadas. La relaziun tar las collavuraturas ed ils collavuraturs è caracterisada da respect, da responsabladad sociala e da l'observanza da l'integritad persunala, tranter auter tras la protecziun cunter mulestas sexualas, cunter mobing e cunter discriminaziun.
 
 <sup>5</sup> In grond pais vegn mess sin la promoziun sistematica. Il princip da l'egualitad da las schanzas è la directiva per l'agir da mintga di.
 
-<sup>6</sup> Il chantun promova l'egualitad da las schlattainas. El porscha cundiziuns generalas che promovan l'egualitad dals salaris e la cumpatibilitad da la lavur cun la vita privata, sco uras da lavur flexiblas u pussaivladads da lavur a temp parzial, da homeoffice e da lavur mobila.
+<sup>6</sup> Il chantun promova l'egualitad da las schlattainas. El porscha cundiziuns generalas che promovan l'egualitad dals salaris e la cumpatibilitad da la lavur cun la vita privata, sco uras da lavur flexiblas, pussaivladads da lavurar a temp parzial, da jobsharing, da homeoffice e da lavur mobila, u sustegn finanzial per laschar tgirar ils uffants tras terzas persunas.
+
+<sup>7</sup> Il chantun fa frunt a las sfidas d'ina administraziun che schanegia las resursas e ch'evitescha tant sco pussaivel las influenzas negativas per l'ambient. En il rom d'in management da mobilitad manaschial vegni procurà ch'ils viadis uffizials ed ils viadis a la lavur vegnan organisads e liquidads en ina moda persistenta che schanegia l'ambient.
+
+<sup>8</sup> Il chantun promova l'egualitad da las linguas uffizialas chantunalas. El porscha cundiziuns generalas che promovan la represchentanza e l'utilisaziun da las linguas uffizialas chantunalas.
 
 ## 2. Cumenzament e finiziun da las relaziuns da lavur
 
@@ -68,21 +72,23 @@ relaschada da la regenza ils 12 da december 2006
 
 **Temp d'emprova**
 
-<sup>1</sup> Il temp d'emprova importa per regla:
+<sup>1</sup> En il contract da lavur pon vegnir fixads temps d'emprova fin sis mais:
 
-- a) dudesch mais per las manadras e per ils manaders dals posts da servetsch, per lur substitutas e per lur substituts sco er per las secretarias e per ils secretaris dals departaments;
-- b) sis mais per las ulteriuras collavuraturas e per ils ulteriurs collavuraturs a partir da la classa da salari 16;
-- c) trais mais per las collavuraturas e per ils collavuraturs en las classas da salari 1 fin 15.
+- a) per las manadras ed ils manaders dals posts da servetsch, per lur substitutas e lur substituts sco er per las secretarias generalas ed ils secretaris generals;
+- b) per funcziuns che premettan ina scolaziun specifica ch'è d'absolver durant la relaziun da lavur;
+- c) per funcziuns che pretendan ina introducziun pli lunga en la lavur pervia da pretensiuns particularas.
 
-<sup>2</sup> Sche l'absenza durant il temp d'emprova importa passa in sisavel, sa prolunghescha il temp d'emprova per la durada da l'absenza.
+<sup>2</sup> En cas d'impediments da lavurar pervia da malsogna, accident, maternitad u adempliment d'ina obligaziun legala, e quai durant totalmain pli ch'in sisavel dal temp d'emprova, sa prolunghescha il temp d'emprova per la durada da las absenzas.
 
 #### Art. 4
 
-**Desditga da la relaziun da lavur tras collavuraturas e tras collavuraturs**
+**Disditga da la relaziun da lavur**
 
-<sup>1</sup> La desditga da la relaziun da lavur sto vegnir inoltrada en scrit al post da servetsch.
+<sup>1</sup> Las collavuraturas ed ils collavuraturs disdeschan la relaziun da lavur cun inoltrar ina communicaziun en scrit al post da servetsch.
 
-<sup>2</sup> Collavuraturas e collavuraturs ch'èn suttamess directamain ad ina commembra u ad in commember da la regenza communitgeschan a quella u a quel la desditga en scrit.
+<sup>2</sup> …
+
+<sup>3</sup> Il chantun disdescha la relaziun da lavur cun relaschar ina disposiziun e cun inditgar ils motivs ed il med legal.
 
 #### Art. 5
 
@@ -101,25 +107,39 @@ relaschada da la regenza ils 12 da december 2006
 
 #### Art. 6
 
-**Indemnisaziun d'extrada tar il contract d'annullaziun**
+**Midada dal grad d'occupaziun**
 
-<sup>1</sup> Sch'i vegn concludì da schliar immediatamain la relaziun da lavur, e quai senza ch'i saja avant maun in motiv per ina desditga immediata, po vegnir fixada ina indemnisaziun d'extrada en il senn d'ina enclegientscha. Questa indemnisaziun na dastga per regla betg surpassar l'autezza dal salari che vegniss debità, sch'i vegnissan observads ils termins da desditga ordinaris.
+<sup>1</sup> Ina midada duraivla dal grad d'occupaziun sto vegnir fixada en il contract da lavur.
+
+<sup>2</sup> En il rom dal contract da lavur pon il post da servetsch e la collavuratura u il collavuratur concluder da tut temp ina midada temporara dal grad d'occupaziun.
 
 #### Art. 7
 
-**Cuntanscher la limita da vegliadetgna**
+**Pensiunament, cuntinuaziun da la relaziun da lavur**
 
-<sup>1</sup> Las collavuraturas ed ils collavuraturs van en pensiun la fin da quel mais ch'ellas e ch'els cuntanschan la limita da vegliadetgna.
+<sup>1</sup> …
 
-<sup>2</sup> Persunas d'instrucziun sco er inspecturas ed inspecturs da scola e da scolina van en pensiun ils 31 d'avust da quel onn ch'ellas e ch'els cuntanschan la limita da vegliadetgna. Sch'ellas e sch'els n'han betg anc cuntanschì la limita da vegliadetgna fin quest termin, po la relaziun da lavur vegnir prolungada – sin dumonda – fin ils 31 da schaner da l'onn suandant.
+<sup>2</sup> …
 
-<sup>3</sup> L'instanza d'engaschament approvescha il pensiunament e po permetter excepziuns da questas regulaziuns en cas motivads.
+<sup>3</sup> …
 
 <sup>4</sup> L'instanza d'engaschament po ordinar il pensiunament anticipà tenor l'artitgel 15 alinea 2 LP[^7-1].
 
-<sup>5</sup> Davart il pensiunament anticipà per motivs da sanadad tenor l'artitgel 16 LP decida l'instanza d'engaschament suenter avair prendì enconuschientscha da la decisiun da l'uffizi chantunal da la AI.
+<sup>5</sup> …
+
+<sup>6</sup> Sche la relaziun da lavur vegn cuntinuada tenor l'artitgel 15 alinea 4 LP, sto la durada limitada vegnir fixada en il contract da lavur.
 
 [^7-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+
+#### Art. 7a
+
+**Adattaziun u terminaziun per motivs da sanadad**
+
+<sup>1</sup> Davart l'adattaziun u davart la terminaziun d'ina relaziun da lavur tenor l'artitgel 16 alinea 1 LP[^7a-1] decida l'instanza cumpetenta tenor l'artitgel 63 LP suenter avair consultà il UP. L'adattaziun u la terminaziun ha lieu a norma dals documents da la procedura da la AI, il pli baud per l'ultim di dal mais che suonda il mais da l'entrada tar il UP.
+
+<sup>2</sup> Davart l'adattaziun d'ina relaziun da lavur en enclegientscha vicendaivla u davart la disditga d'ina relaziun da lavur tenor l'artitgel 16 alinea 2 LP decida l'instanza cumpetenta tenor l'artitgel 63 LP suenter avair consultà il UP. En cas ch'ina incapacitad da lavurar parziala exista vinavant, po la relaziun da lavur vegnir disditga, sch'ina adattaziun n'è betg pussaivla u betg raschunaivla.
+
+[^7a-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 8
 
@@ -294,13 +314,27 @@ relaschada da la regenza ils 12 da december 2006
 
 [^20-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
-### 3.2. Supplements socials
+### 3.2. Supplements socials e supplements da persistenza
 
 #### Art. 21
 
 **Supplements per uffants**
 
 <sup>1</sup> Il dretg sin supplements per uffants sto vegnir fatg valair en scrit tar il UP. La perdita dal dretg sto vegnir communitgada a temp.
+
+#### Art. 21a
+
+**Sustegn per la tgira dals uffants tras terzas persunas**
+
+<sup>1</sup> A las collavuraturas ed als collavuraturs vegn indemnisà in terz dals custs per la tgira dals uffants tras terzas persunas.
+
+<sup>2</sup> Decisivs èn ils custs che resultan per la tgira dals uffants tras terzas persunas e che vegnan deducids da la taglia chantunala sin las entradas tenor la taxaziun definitiva. Per collavuraturas e collavuraturs ch'èn obligads da pajar taglia en in auter chantun u ch'èn suttamess a la taglia a la funtauna, vala in import maximal che correspunda a la deducziun maximala (indexada) per l'onn respectiv tenor l'artitgel 36 alinea 1 litera l da la Lescha da taglia per il chantun Grischun[^21a-1]. Collavuraturas e collavuraturs ch'èn suttamess a la taglia a la funtauna ston cumprovar ils custs respectivs.
+
+<sup>3</sup> Per l'onn chalendar che la relaziun da lavur cumenza u finescha, vegnan las contribuziuns reducidas tenor la durada da l'engaschament.
+
+<sup>4</sup> Contribuziuns tenor questa disposiziun ston vegnir dumandadas tar il UP cun inditgar la deducziun tenor la taxaziun da taglia definitiva. Il UP examinescha las dumondas e paja las contribuziuns. Per quest intent po il UP consultar las autoritads fiscalas cumpetentas e dumandar las indicaziuns respectivas da la taxaziun da taglia definitiva.
+
+[^21a-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
 
 #### Art. 22
 
@@ -331,13 +365,30 @@ relaschada da la regenza ils 12 da december 2006
 
 **Fond d'assistenza per il persunal**
 
-<sup>1</sup> Davart emprests da daners cun u senza tschains or dal fond d'assistenza per il persunal decida il UP fin 5000 francs, il departament da finanzas e vischnancas sur 5000 francs.
+<sup>1</sup> A collavuraturas ed a collavuraturs da l'administraziun chantunala che crodan en ina situaziun finanziala d'urgenza en spezial per motivs da sanadad, famigliars u professiunals, po vegnir concedì in sustegn finanzial a quint dal fond d'assistenza per il persunal. Ina situaziun finanziala d'urgenza è avant maun en spezial, sch'il basegn d'existenza n'è betg segirà.
 
-<sup>2</sup> Il departament da finanzas e vischnancas fixescha las cundiziuns da tschains.
+<sup>2</sup> In sustegn finanzial po vegnir concedì:
 
-<sup>3</sup> Emprests da daners senza tschains vegnan concedids mo en cas da direzza cumprovads.
+- a) en furma d'emprests tschainsibels fin 10 000 francs tras il UP e d'imports pli gronds tras il Departament da finanzas e vischnancas;
+- b) en furma d'emprests nuntschainsibels fin 10 000 francs u da contribuziuns à fonds perdu fin 4000 francs tras il UP e d'imports pli gronds tras il Departament da finanzas e vischnancas, sche quai è necessari per mitigiar la situaziun d'urgenza pervia da circumstanzas spezialas.
 
-<sup>4</sup> Excepziunalmain pon vegnir concedidas contribuziuns à fonds perdu. Fin 2000 francs decida il UP, sur 2000 francs il departament da finanzas e vischnancas.
+<sup>3</sup> Resguardond il basegn d'existenza concludan l'instanza cumpetenta tenor l'alinea 2 e la collavuratura u il collavuratur, che las ratas da restituziun d'in emprest vegnian deducidas mintga mais dal salari e ch'ils tschains vegnian deducids dal salari cun l'ultima rata.
+
+<sup>4</sup> Il fond d'assistenza per il persunal da l'administraziun chantunala vegn administrà dal UP. Las dumondas per in sustegn finanzial ston vegnir drizzadas al UP e ston cuntegnair las indicaziuns necessarias per giuditgar la situaziun finanziala d'urgenza. Sch'il UP na po betg decider sez davart ina dumonda, trametta el vinavant quella al Departament da finanzas e vischnancas, ensemen cun in cunrapport e cun ina proposta concernent ina cunvegna da restituziun.
+
+<sup>5</sup> Ina giada per onn fixescha il Departament da finanzas e vischnancas las cundiziuns da tschains.
+
+#### Art. 24a
+
+**Supplement da persistenza**
+
+<sup>1</sup> Sch'il viadi d'almain 2 kilometers a la lavur vegn fatg regularmain cun il velo privat cun u senza tracziun electrica u cun ils meds da transport publics, vegn pajà annualmain in supplement da persistenza da 300 francs, premess che la relaziun da lavur haja durà dapli che 6 mais. En cas ch'il credit tenor preventiv na basta betg, sa reducescha il supplement da persistenza da mintga collavuratura e collavuratur proporziunalmain.
+
+<sup>2</sup> En cas da lavur a temp parzial sa reducescha il supplement da persistenza tenor il grad d'occupaziun.
+
+<sup>3</sup> Collavuraturas e collavuraturs cun in'autorisaziun da parcar tenor l'Ordinaziun davart il management da las plazzas da parcar da l'administraziun chantunala na survegnan betg in supplement da persistenza.
+
+<sup>4</sup> Supplements da persistenza ston vegnir fatgs valair tar il post da servetsch.
 
 ### 3.3. Spesas
 
@@ -345,15 +396,24 @@ relaschada da la regenza ils 12 da december 2006
 
 **Spesas 1. princips**
 
-<sup>1</sup> Tar l'adempliment d'incumbensas uffizialas vegnan da princip indemnisadas mo spesas che resultan vairamain e necessariamain sco custs supplementars, sco:
+<sup>1</sup> Tar l'adempliment d'incumbensas uffizialas vegnan da princip indemnisadas mo spesas che resultan effectivamain e necessariamain sco custs supplementars tenor las disposiziuns da questa part.
 
-- a) l'alimentaziun e l'alloschi durant il servetsch extern;
-- b) l'alimentaziun durant uras supplementaras ordinadas u renconuschidas;
-- c) durant occurrenzas concedidas da scolaziun e da furmaziun supplementara;
-- d) per l'alimentaziun communabla a dietas ed a sesidas;
-- e) per viadis da servetsch.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Per viadis da servetsch ston vegnir utilisads ils meds da transport publics, sche quai è pussaivel, cunvegnent ed economicamain giustifitgabel.
+<sup>2</sup> Viadis da servetsch ston sche pussaivel vegnir fatgs cun ils meds da transport publics, a pe u cun velos cun u senza tracziun electrica.
+
+<sup>3</sup> Sche quai è pli economic, pli cunvegnent u pli effizient, pon ils viadis da servetsch vegnir fatgs sco suonda:
+
+- a) cun vehichels che vegnan mess a disposiziun u intermediads dal chantun;
+- b) cun vehichels privats;
+- c) cun vehichels prendids en locaziun; u
+- d) cun purschiders da transport privats (taxi, aviun).
+
+<sup>4</sup> En cas da dubi decida la persuna superiura, tge meds da transport che pon vegnir duvrads. Sch'il manaschi pretenda quai, po il post da servetsch permetter da duvrar regularmain tscherts meds da transport.
 
 #### Art. 26
 
@@ -385,43 +445,40 @@ relaschada da la regenza ils 12 da december 2006
 
 #### Art. 28
 
-**4. spesas da viadi per meds da transport publics**
+**4. meds da transport publics**
 
 <sup>1</sup> Per viadis da servetsch e tar discurs da preschentaziun da persunas che s'annunzian per ina plazza vegnan indemnisads viadis cun tren en la 1. classa ed ils custs effectivs d'auters meds da transport publics.
 
-<sup>2</sup> Abunaments da viafier ston vegnir retratgs a quint dal chantun, sche quai è economic.
+<sup>2</sup> Tut tenor il gener ed il dumber dals viadis da servetsch cun ils meds da transport publics vegnan:
 
-<sup>3</sup> L'utilisaziun dals abunaments generals transferibels sa drizza tenor las directivas dal UP.
+- a) mess a disposiziun abunaments da mesa taxa u auters abunaments adattads;
+- b) indemnisads correspundentamain abunaments privats.
+
+<sup>3</sup> …
 
 #### Art. 29
 
-**5. utilisaziun da vehichels privats per viadis da servetsch**
+**5. donns vi da vehichels privats**
 
-<sup>1</sup> Ils posts da servetsch decidan, tge collavuraturas e tge collavuraturs che ston utilisar lur vehichels privats per viadis da servetsch.
+<sup>1</sup> …
 
 <sup>2</sup> Donns vi dal vehichel privat che capitan sin viadis da servetsch vegnan surpigliads tenor las directivas da la regenza per la regulaziun dals donns en cas d'accidents da vehichels a motor, e quai sur il fond per ristgas betg assicuradas dals manaschis d'administraziun e da scola dal chantun. Dumondas ston vegnir fatgas sin la via uffiziala al departament da finanzas e vischnancas.
 
 #### Art. 30
 
-**6. indemnisaziun**
+**6. indemnisaziun per vehichels privats**
 
-<sup>1</sup> L'indemnisaziun per kilometer per viadis da servetsch cun l'auto importa 70 raps, per viadis da servetsch cun la moto u cun il velo a motor 30 raps.
+<sup>1</sup> Per viadis da servetsch cun autos privats vegnan indemnisads 70 raps e per viadis da servetsch cun motos privatas 30 raps per kilometer.
 
 <sup>2</sup> Sin dumonda dal post da servetsch e suenter avair tadlà il UP po il departament permetter en cas excepziunals tariffas pli autas, sch'ils viadis da servetsch isan extraordinariamain fitg il vehichel tras circumstanzas spezialas.
 
-<sup>3</sup> Per l'utilisaziun regulara uffiziala da velos a motor vegn pajada ina pauschala annuala da 150 francs.
+<sup>3</sup> Sch'i vegnan duvrads regularmain velos privats cun u senza tracziun electrica per viadis da servetsch, po vegnir pajada ina pauschala annuala da fin 200 francs.
 
 <sup>4</sup> Taxas da parcar vegnan indemnisadas tenor ils custs.
 
 #### Art. 31
 
-**7. viadis da servetsch cun autos a tschains, utilisaziun d'aviuns e da taxis**
-
-<sup>1</sup> Ils posts da servetsch pon permetter d'utilisar autos a tschains ed aviuns, sche quai è cunvegnent u economic.
-
-<sup>2</sup> Ils custs per autos a tschains e per sgols ston vegnir cumprovads.
-
-<sup>3</sup> Spesas da taxi vegnan indemnisadas, sche circumstanzas spezialas pretendan d'utilisar quest med da transport.
+**…**
 
 #### Art. 32
 
@@ -517,7 +574,7 @@ relaschada da la regenza ils 12 da december 2006
 
 **Obligaziun d'annunziar absenzas pervia da malsogna, attest da la media u dal medi**
 
-<sup>1</sup> Absenzas pervia da malsogna ston vegnir communitgadas immediatamain al post da servetsch. Quai vala er per cas da malsogna durant las vacanzas, sche la collavuratura u sch'il collavuratur vul retrair posteriuramain ils dis da vacanzas pertutgads tenor l'artitgel 47.
+<sup>1</sup> Absenzas pervia da malsogna ston vegnir communitgadas immediatamain al post da servetsch.
 
 <sup>2</sup> Absenzas pervia da malsogna da passa tschintg dis da lavur ston vegnir cumprovadas cun in attest da la media u dal medi. Quel sto cuntegnair il grad e la durada probabla da l'incapacitad da lavurar. En cas motivads po il post da servetsch pretender in attest da la media u dal medi avant la scadenza da tschintg dis.
 
@@ -561,7 +618,10 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>3</sup> Sche l'accident sto vegnir attribuì ad ina greva culpa da la collavuratura u dal collavuratur, decida il departament sin proposta dal UP davart ina reducziun dal salari.
 
+<sup>4</sup> Sche l'assicuranza obligatorica d'accidents, l'assicuranza d'invaliditad u l'assicuranza militara conceda ina renta posteriura pervia da malsogna u pervia d'accident, po il chantun pretender che l'assicuradra paja al chantun la renta fin a l'autezza da ses pajament anticipà, respectivamain fin a la dimensiun dal salari ch'il chantun ha pajà tenor ils artitgels 36 ss. LP[^42-2] durant il temp, per il qual la renta posteriura vegn pajada.
+
 [^42-1]: CS [832.20](https://db.clex.ch/link/Bund/832.20/rm)
+[^42-2]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 43
 
@@ -581,9 +641,9 @@ relaschada da la regenza ils 12 da december 2006
 
 #### Art. 44
 
-**Cassa da pensiun, repartiziun da las contribuziuns**
+**Cassa da pensiun, repartiziun da las contribuziuns da spargn**
 
-<sup>1</sup> Las contribuziuns a la cassa da pensiun vegnan repartidas tut tenor la vegliadetgna sco suonda tranter las collavuraturas ed ils collavuraturs e tranter l'administraziun chantunala:
+<sup>1</sup> Las contribuziuns da spargn vegnan repartidas tut tenor la vegliadetgna sco suonda tranter las collavuraturas ed ils collavuraturs e tranter l'administraziun chantunala:
 
 <table>
 <tr><th>vegliadetgna tenor la LPP (um/dunna)</th><th>contribuziun totala pertschient</th><th>collavuraturas e collavuraturs pertschient</th><th>chantun pertschient</th></tr>
@@ -606,9 +666,7 @@ relaschada da la regenza ils 12 da december 2006
 
 #### Art. 44b
 
-**Chapital en cas da mort**
-
-<sup>1</sup> En cas ch'ina collavuratura assicurada u ch'in collavuratur assicurà mora durant la relaziun da lavur, survegnan las persunas surviventas in chapital unic da 25 000 francs, premess ch'ellas hajan il dretg sin in tal chapital tenor la lescha davart la cassa da pensiun. La premia per questa assicuranza vegn surpigliada dal chantun.
+**…**
 
 #### Art. 45
 
@@ -657,13 +715,21 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>2</sup> L'indemnisaziun da vacanzas vegn fixada en pertschients dal salari brut ed importa tar in dretg da vacanzas da:
 
-- a) 20 dis da lavur — 8,33 pertschient;
-- b) 25 dis da lavur — 10,64 pertschient;
-- c) 30 dis da lavur — 13,04 pertschient.
+- a) tschintg emnas — 10,64 pertschient;
+- b) tschintg emnas e mez — 11,83 pertschient;
+- c) sis emnas — 13,04 pertschient.
 
 <sup>3</sup> Sco salari brut valan tut las retratgas da salari cun excepziun dal 13avel salari mensil e dal supplement per onns da lavur tenor l'artitgel 42 alinea 2 LP[^46-1].
 
 [^46-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+
+#### Art. 46a
+
+**Acquist da vacanzas supplementaras**
+
+<sup>1</sup> Per onn chalendar pon vegnir acquistads fin diesch dis da vacanzas supplementars.
+
+<sup>2</sup> Il post da servetsch communitgescha il dumber da dis da vacanzas supplementars e las modalitads da pajament al UP.
 
 #### Art. 47
 
@@ -716,21 +782,21 @@ relaschada da la regenza ils 12 da december 2006
 
 **Congedi per onns da lavur**
 
-<sup>1</sup> Il dretg sa drizza tenor l'ultima entrada en plazza tar il chantun. En cas spezials resguarda l'instanza d'engaschament onns da lavur entirs precedents tar il chantun. Il temp da scolaziun – sco emprendissadi, scolas dal sectur da la sanadad e praticums – na vegn betg mess a quint.
+<sup>1</sup> Il dretg d'in congedi per onns da lavur resulta il mument che l'onn da lavur respectiv tenor l'artitgel 42 alinea 1 LP[^51-1] vegn cumplenì e sa drizza tenor la media dal grad d'occupaziun dals ultims tschintg onns. En cas d'ina reentrada entaifer quatter onns vegnan mess a quint onns da lavur e grads d'occupaziuns anteriurs.
 
-<sup>2</sup> Il congedi po vegnir repartì sin maximalmain tschintg onns.
+<sup>2</sup> Congedis per onns da lavur ston vegnir retratgs entaifer tschintg onns.
 
-<sup>3</sup> A persunas d'instrucziun po il congedi pajà vegnir concedì er en furma d'ina reducziun dal dumber da lecziuns obligatoricas.
+<sup>3</sup> A persunas d'instrucziun pon congedis per onns da lavur vegnir concedids er en furma d'ina reducziun dal dumber da lecziuns obligatoricas.
+
+[^51-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 52
 
-**Transfurmaziun dal congedi per onns da lavur en in supplement**
+**Congedi per onns da lavur en furma d'in supplement**
 
-<sup>1</sup> Per calcular il supplement tenor l'artitgel 42 alinea 2 LP[^52-1] è per regla decisiv il salari dal mais da pajament.
+<sup>1</sup> Per transfurmar in congedi per onns da lavur tenor l'artitgel 51 en in supplement è decisiv il salari fundamental, inclusiv in eventual supplement da funcziun, il mument dal pajament.
 
-<sup>2</sup> Il supplement a collavuraturas ed a collavuraturs cun in grad d'occupaziun variabel sa drizza per regla tenor la media dal salari ch'è vegnì retratg per mais durant ils dus onns avant il mais da pajament.
-
-[^52-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+<sup>2</sup> A las collavuraturas ed als collavuraturs cun in salari per ura vegnan concedids congedis per onns da lavur en furma d'in supplement; quest supplement correspunda cun 10, 15 e 20 onns da lavur ad in mez salari da basa mensil, a partir dal 25. onn da servetsch ad in entir salari da basa mensil (senza 13avel salari mensil e senza indemnisaziun da vacanzas e da firads). L'artitgel 51 alinea 1 vala confurm al senn; il dretg sa drizza tenor la media dal salari dals ultims tschintg onns, ed en cas d'ina reentrada vegnan mess a quint onns da lavur e salaris anteriurs. Il supplement vegn pajà quel mais che suonda il mais ch'il dretg è resultà.
 
 #### Art. 53
 
@@ -759,7 +825,7 @@ relaschada da la regenza ils 12 da december 2006
 - a) sche l'uffant nascha ed è abel da viver; u
 - b) sche la gravidanza ha durà almain 23 emnas.
 
-<sup>3</sup> Il congedi da maternitad vegn suspendì sin dumonda, sch'i vegn cumprovà cun in attest da la media u dal medi che l'uffant sto star curt suenter la naschientscha almain trais emnas a l'ospital. Il congedi da maternitad cumenza, cur che l'uffant turna tar la mamma u cur ch'el mora. Durant la suspensiun vegn pajà il salari cumplain.
+<sup>3</sup> …
 
 <sup>4</sup> Per calcular il salari en cas d'in grad d'occupaziun che variescha è decisiv il salari retratg en media durant ils dudesch mais avant la naschientscha.
 
@@ -775,7 +841,7 @@ relaschada da la regenza ils 12 da december 2006
 
 <sup>2</sup> Tar congedis betg pajads fin diesch dis da lavur surpiglian las collavuraturas ed ils collavuraturs sco er il chantun las contribuziuns a la cassa da pensiun. Tar in congedi da passa diesch dis da lavur surpiglia la persuna che prenda il congedi las contribuziuns da las patrunas e dals patruns sco er las contribuziuns da las lavurantas e dals lavurants.
 
-<sup>3</sup> Congedis betg pajads da passa sis mais na vegnan betg quintads per fixar il congedi per onns da lavur tenor l'artitgel 42 LP[^55-1].
+<sup>3</sup> Congedis betg pajads da fin sis mais vegnan mess a quint sco onns da lavur per ils congedis per onns da lavur tenor l'artitgel 42 LP[^55-1].
 
 [^55-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
@@ -787,35 +853,53 @@ relaschada da la regenza ils 12 da december 2006
 
 - a) trais dis per lur nozzas;
 - b) in di per las nozzas d'agens uffants, d'agens fragliuns e dals agens geniturs;
-- c) diesch dis entaifer sis mais per la naschientscha d'agens uffants;
-- c)<sup>bis</sup> tschintg dis per l'adopziun;
+- c) 13 dis entaifer sis mais suenter la naschientscha per la paternitad;
+- c)<sup>bis</sup> 13 dis entaifer in onn suenter avair recepì l'uffant per l'adopziun;
 - d) trais dis tar la mort da la conjugala u dal conjugal, d'agens uffants, dals agens geniturs u d'agens fragliuns;
-- e) in di per midar abitaziun tar in grad d'occupaziun da 50 pertschient e dapli, in mez di tar in grad d'occupaziun pli pitschen.
+- e) in di per midar abitaziun tar in grad d'occupaziun da 50 pertschient e dapli, in mez di tar in grad d'occupaziun pli pitschen;
+- f) trais dis per la tgira necessaria d'ina commembra u d'in commember da la famiglia cun ina restricziun da la sanadad, dentant maximalmain diesch dis per onn;
+- g) fin 14 emnas respectivamain, sche tuts dus geniturs lavuran, fin set emnas entaifer 18 mais a partir da l'emprim di da congedi per la tgira necessaria d'agens uffants minorens che han ina greva restricziun da la sanadad pervia d'ina malsogna u d'in accident en il senn da l'artitgel 16o da la Lescha federala davart la cumpensaziun dal gudogn[^56-1]. Il congedi vegn concedì per cas da malsogna u per accident ed en cas d'ina recidiva suenter in temp pli lung senza mals.
 
-<sup>2</sup> Las collavuraturas ed ils collavuraturs survegnan in congedi pajà per ils suandants eveniments, sche quels han lieu inevitablamain durant il temp da lavur e sch'il congedi vegn retratg en in connex direct cun l'eveniment:
+<sup>2</sup> Las collavuraturas ed ils collavuraturs survegnan in congedi pajà per ils suandants eveniments, sche quels han lieu inevitablamain durant il temp da lavur ordinari e sch'il congedi vegn retratg en in connex direct cun l'eveniment:
 
 - a) maximalmain dus dis tar la mort da siras e da sirs, da brits e da schenders, da tattas e da tats, da biadias e da biadis;
 - b) maximalmain in di tar la mort da quinadas e da quinads, d'ondas e d'augs, da nezzas e da nevs. Tar la mort da tattas e da tats, d'ondas e d'augs, da nezzas e da nevs da la conjugala u dal conjugal vegn concedì il medem congedi;
 - c) maximalmain trais dis per midadas da domicil ch'èn vegnidas ordinadas uffizialmain;
-- d) maximalmain dus dis en chaussas publicas cun resalva da l'artitgel 57 LP[^56-1] e da l'artitgel 61. Il dretg dal congedi pajà per visitas e per citaziuns davant autoritads exista mo, sche questas visitas e sche questas citaziuns èn en l'interess public;
+- d) maximalmain dus dis en chaussas publicas cun resalva da l'artitgel 57 LP[^56-2] e da l'artitgel 61. Il dretg dal congedi pajà per visitas e per citaziuns davant autoritads exista mo, sche questas visitas e sche questas citaziuns èn en l'interess public;
 - e) maximalmain tschintg dis per la scolaziun da manadra u da manader da G+S, per la scolaziun tar las tiraduras giuvnas e tar ils tiradurs giuvens sco er per la scolaziun tar autras organisaziuns da giuvenils. Per sa participar sco manadra u sco manader dal curs en questas organisaziuns vegn concedì in congedi pajà per la mesadad dal temp da lavur che croda, per mintga curs dentant maximalmain dus dis e mez;
 - f) maximalmain trais dis per delegaziuns inuffizialas a dis da federaziuns professiunalas, uschenavant che l'occurrenza è en l'interess public e ch'ella promova la furmaziun supplementara professiunala da la collavuratura e dal collavuratur;
 - g) per la durada dal servetsch da pumpiers obligatoric;
 - h) per la durada da la recrutaziun militara e d'inspecziuns militaras;
-- i) maximalmain trais dis pro cas tar malsogna d'agens uffants u tar persunas che basegnan tgira, sche l'agid na po betg vegnir surpiglià d'ina autra persuna;
+- i) …
 - j) totalmain in mez di per tschertgar ina plazza suenter la desditga da la plazza da lavur;
-- k) il temp ch'i dovra per tezzar u per pumpar giu il latg durant l'emprim onn da vita dals agens uffants, maximalmain dentant il temp tenor l'artitgel 60 alinea 2 da l'ordinaziun federala 1 tar la lescha da lavur[^56-2].
+- k) il temp ch'i dovra per tezzar u per pumpar giu il latg durant l'emprim onn da vita dals agens uffants, maximalmain dentant il temp tenor l'artitgel 60 alinea 2 da l'ordinaziun federala 1 tar la lescha da lavur[^56-3].
 
-<sup>3</sup> Las disposiziuns tenor ils alineas 1 e 2 valan confurm al senn er per collavuraturas e per collavuraturs en partenadi registrà sco er per collavuraturas e per collavuraturs che vivan facticamain en ina communitad da vita.
+<sup>3</sup> Las disposiziuns tenor l'alinea 1 e l'alinea 2 valan confurm al senn per collavuraturas e collavuraturs en in partenadi registrà u en ina communitad da vita factica.
 
 <sup>4</sup> …
 
 <sup>5</sup> Sche la collavuratura u sch'il collavuratur sto preparar la sepultura tar mortoris u sch'il viadi a la sepultura dovra in temp pli lung, importa la durada dal congedi maximalmain trais dis.
 
-<sup>6</sup> En cas spezials po il departament conceder congedis pajads pli lungs suenter avair tadlà il UP, sch'igl exista in motiv da congedi tenor ils alineas 1 e 2.
+<sup>6</sup> En cas spezials po il post da servetsch conceder congedis pajads pli lungs suenter avair tadlà il UP, sch'igl exista in motiv da congedi tenor l'alinea 1 u l'alinea 2.
 
-[^56-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
-[^56-2]: CS [822.111](https://db.clex.ch/link/Bund/822.111/rm)
+[^56-1]: CS [834.1](https://db.clex.ch/link/Bund/834.1/rm)
+[^56-2]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+[^56-3]: CS [822.111](https://db.clex.ch/link/Bund/822.111/rm)
+
+#### Art. 56a
+
+**Midada dal grad d'occupaziun suenter ina naschientscha u in'adopziun**
+
+<sup>1</sup> Sch'i na dat nagins motivs da manaschi gravants cunter quai, pon las collavuraturas ed ils collavuraturs reducir il grad d'occupaziun per maximalmain 20 pertschient ad almain 20 pertschient:
+
+- a) suenter la naschientscha d'agens uffants;
+- b) suenter l'adopziun d'in u da plirs uffants.
+
+<sup>2</sup> La reducziun dal grad d'occupaziun sto vegnir fatga valair tar il post da servetsch entaifer sis mais suenter la naschientscha u suenter l'adopziun.
+
+<sup>3</sup> Sch'i na vegn fixà nagut auter en enclegientscha vicendaivla, vegn il grad d'occupaziun reducì en in pass per il cumenzament dal sisavel mais, suenter che la reducziun è vegnida fatga valair.
+
+<sup>4</sup> Las collavuraturas ed ils collavuraturs pon puspè augmentar per maximalmain 20 pertschient il grad d'occupaziun reducì. L'augment sto vegnir fatg valair tar il post da servetsch entaifer trais onns suenter la reducziun. L'alinea 3 vala confurm al senn.
 
 #### Art. 57
 
@@ -838,6 +922,21 @@ relaschada da la regenza ils 12 da december 2006
 <sup>1</sup> Il departament decida davart la surpigliada dals custs per in'assistenza giuridica tenor l'artitgel 47 LP[^57a-1].
 
 [^57a-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
+
+#### Art. 57b
+
+**Annunzia d'incunvegnientschas**
+
+<sup>1</sup> La Regenza dat l'incarica da manar in post d'annunzia tenor l'artitgel 47a LP[^57b-1].
+
+<sup>2</sup> Ina incarica tenor l'alinea 1:
+
+- a) sto vegnir surdada a persunas natiralas u giuridicas cun domicil respectivamain cun sedia en Svizra;
+- b) sto prevair garanzias suffizientas en quai che reguarda la discreziun, la protecziun da datas, la cumpetenza professiunala e metodica, ils chanals d'annunzia adequats e l'independenza;
+- c) dastga vegnir surdada per ina durada da maximalmain sis onns, senza concluder prolungaziuns u contracts da cuntinuaziun;
+- d) dastga puspè vegnir surdada a la medema persuna il pli baud sis onns suenter la scadenza d'ina incarica anteriura tenor l'alinea 1.
+
+[^57b-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 ## 4. Obligaziuns da las collavuraturas e dals collavuraturs
 
@@ -864,6 +963,21 @@ relaschada da la regenza ils 12 da december 2006
 <sup>2</sup> L'ediziun d'actas en proceduras giudizialas ed administrativas sa drizza tenor las disposiziuns da procedura respectivas da la confederaziun e dal chantun. En proceduras da la dretgira civila ed administrativa decida il departament ed en cas da dispita la regenza.
 
 <sup>3</sup> Per cooperar en ina procedura giudiziala sco partida, sco perditga ubain sco experta u sco expert basegni l'autorisaziun dal departament, sch'ina liberaziun dal secret d'uffizi è necessaria. L'obligaziun d'autorisaziun vala er suenter la finiziun da la relaziun da lavur.
+
+#### Art. 60bis
+
+**Scumond d'acceptar regals**
+
+<sup>1</sup> Exceptads dal scumond èn regals ed avantatgs:
+
+- a) che vegnan pajads u concedids a chaschun d'occurrenzas spezialas, sco Nadal, Bumaun u in giubileum;
+- b) cun ina valur da maximalmain 100 francs; regals ed avantatgs che vegnan pajads u concedids entaifer in onn da la medema persuna u instituziun, vegnan però quintads ensemen; e
+- c) che na dattan betg l'impressiun da l'implitgadadad, sch'els vegnan acceptads.
+
+<sup>2</sup> Regals ed avantatgs che na dastgan betg vegnir acceptads, purschidas correspundentas sco er cas da dubi ston vegnir annunziads al post da servetsch. Il post da servetsch decida:
+
+- a) sch'i sa tracta d'ina excepziun tenor l'alinea 1;
+- b) sch'ils regals, ils avantatgs u las purschidas vegnan acceptads u refusads, destruids u utilisads autramain.
 
 ## 5. Differentas disposiziuns
 
@@ -1068,9 +1182,13 @@ relaschada da la regenza ils 12 da december 2006
 
 #### Art. 69
 
+**…**
+
+#### Art. 69a
+
 **Disposiziuns transitoricas**
 
-<sup>1</sup> Per fixar la salarisaziun individuala per l'onn 2007 valan las disposiziuns da las disposiziuns executivas tar l'ordinaziun dal persunal ch'èn vegnidas abolidas tras questa ordinaziun, cunzunt ils artitgels 12 e 17.
+<sup>1</sup> Areguard temps da scolaziun, sco emprendissadis, scolas dals fatgs da sanadad e praticums, ed areguard reentradas durant il temp avant il 1. da schaner 2023 sa drizza la l'imputaziun respectivamain la renconuschientscha d'onns da lavur e da grads d'occupaziun anteriurs tenor l'artitgel 51 alinea 1 en la versiun dals 12 da december 2006.
 
 #### Art. 70
 
