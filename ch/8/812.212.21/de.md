@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2022-01-28
+version: 2023-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20220128/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20220128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 28. Januar 2022)
+vom 21. September 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -177,9 +177,9 @@ Eine Gesuchstellerin kann bei der Swissmedic für ein Humanarzneimittel oder fü
 
 **Zulassung**
 
-<sup>1</sup> Die Swissmedic erteilt die Zulassung, wenn das Arzneimittel die Anforderungen der Heilmittelgesetzgebung und, im Fall von Arzneimitteln mit GVO, die Voraussetzungen der Freisetzungsverordnung vom 10. September 2008[^9-1] erfüllt; Artikel 80 bleibt vorbehalten.
+<sup>1</sup> Die Swissmedic erteilt die Zulassung, wenn das Arzneimittel die Anforderungen der Heilmittelgesetzgebung und, im Fall von Arzneimitteln mit GVO, die Voraussetzungen der Freisetzungsverordnung vom 10. September 2008[^9-1] erfüllt. [^9-2]
 
-<sup>2</sup> Sie erteilt die Zulassung für ein Arzneimittel, dessen Entwicklung auf der Nutzung genetischer Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, zudem erst dann, wenn der Nachweis für die Erfüllung der Meldepflicht gemäss Artikel 4 oder 8 der Nagoya-Verordnung vom 11. Dezember 2015[^9-2] erbracht worden ist.
+<sup>2</sup> Sie erteilt die Zulassung für ein Arzneimittel, dessen Entwicklung auf der Nutzung genetischer Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, zudem erst dann, wenn der Nachweis für die Erfüllung der Meldepflicht gemäss Artikel 4 oder 8 der Nagoya-Verordnung vom 11. Dezember 2015[^9-3] erbracht worden ist.
 
 <sup>3</sup> Sie erteilt für Tierarzneimittel, die zur Behandlung von Nutztieren bestimmt sind, die Zulassung nur, wenn diese Arzneimittel so beschaffen sind, dass die gewonnenen Lebensmittel die Gesundheit nicht gefährden.
 
@@ -188,7 +188,8 @@ Eine Gesuchstellerin kann bei der Swissmedic für ein Humanarzneimittel oder fü
 <sup>5</sup> Sie vermerkt auf Gesuch hin in der Zulassungsverfügung, dass die Arzneimittelinformation die relevanten Ergebnisse der Studien wiedergibt, die in Übereinstimmung mit dem genehmigten pädiatrischen Prüfkonzept nach Artikel 54*a* HMG durchgeführt wurden.
 
 [^9-1]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^9-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^9-2]: Fassung gemäss Anhang Ziff. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^9-3]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 10
 
@@ -321,7 +322,7 @@ Sie führt eine eigene wissenschaftliche Begutachtung durch, wenn:
 
 <sup>2</sup> Bestehen aufgrund der bis zu diesem Zeitpunkt erfolgten eigenen Begutachtung wesentliche Bedenken an den Prüfungsergebnissen der ausländischen Behörde, so setzt die Swissmedic ihre wissenschaftliche Begutachtung fort.
 
-### 3. Abschnitt: Änderungen der Zulassung bei Humanarzneimitteln****
+### 3. Abschnitt: Änderungen der Zulassung bei Humanarzneimitteln
 
 [^chap2-sec3-1]
 
@@ -368,7 +369,7 @@ Sie führt eine eigene wissenschaftliche Begutachtung durch, wenn:
 [^25-1]: Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln, ABl. L 334 vom 12.12.2008, S. 7; zuletzt geändert durch Delegierte Verordnung (EU) 2021/756, ABl. L 162 vom 10.5.2021, S. 1.
 [^25-2]: Fassung gemäss Ziff. I 2 der V vom 12. Jan. 2022 über Anpassungen an das neue Tierarzneimittelrecht der EU, in Kraft seit 28. Jan. 2022 ([AS 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
-### 3*a*. Abschnitt:**** Änderungen der Zulassung bei Tierarzneimitteln
+### 3*a*. Abschnitt: Änderungen der Zulassung bei Tierarzneimitteln
 
 [^chap2-sec3a-1]
 
@@ -1182,12 +1183,9 @@ Die Swissmedic kann technische Anforderungen und Einzelheiten zum Vollzug dieser
 
 #### Art. 80
 
-**Im tierärztlichen Bereich zuständige Behörde**
+[^80-1]
 
-Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen:
-
-- a. vollzieht die Bestimmungen dieser Verordnung über die Zulassung zum Inverkehrbringen immunologischer Arzneimittel für den tierärztlichen Gebrauch;
-- b. erteilt die behördliche Chargenfreigabe für immunologische Arzneimittel für den tierärztlichen Gebrauch nach Artikel 17 HMG.
+[^80-1]: Aufgehoben durch Anhang Ziff. 2 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 81
 
@@ -1268,7 +1266,7 @@ Drogistinnen und Drogisten ohne eidgenössisches Diplom, die am 1. Januar 2019 g
 
 <sup>2</sup> Die Artikel 37 Absätze 2 und 3 sowie 51 treten am 1. Januar 2020 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 37 Abs. 1 Bst. e)
 
@@ -1315,18 +1313,18 @@ Die Präparatedokumentation muss folgende Angaben enthalten:
 - k. Spezifikationen und Prüfungsvorschriften des Fertigprodukts, insbesondere Identität, Reinheit, Gehalt, sowie allgemeine und galenische Prüfungen;
 - l. Begründung für die Spezifikationen des Fertigprodukts.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 45 Abs. 2)
 
-## Indikationen und Arzneimittel nach Artikel 45 Absatz 1 Buchstabe a****
+## Indikationen und Arzneimittel nach Artikel 45 Absatz 1 Buchstabe a
 
 [^annex2-lvlu1-1]
 
 [^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS und in der SR nicht publiziert (Art. 5 des Publikationsgesetzes vom 18. Juni 2004; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann abgerufen werden unter www.bag.admin.ch &gt; Medizin & Forschung &gt; Medikamente & Medizinprodukte &gt; Erleichterte Abgabe von Arzneimitteln.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 60 und 66)
 

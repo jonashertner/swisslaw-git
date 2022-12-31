@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2022-01-28
+version: 2023-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20220128/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20220128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 28 gennaio 2022)
+del 21 settembre 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -177,9 +177,9 @@ Il richiedente può chiedere a Swissmedic lo svolgimento di una procedura di omo
 
 **Omologazione**
 
-<sup>1</sup> Swissmedic rilascia l’omologazione se il medicamento adempie i requisiti della legislazione sugli agenti terapeutici e, in caso di medicamenti contenenti OGM, le condizioni dell’ordinanza del 10 settembre 2008[^9-1] sull’emissione deliberata nell’ambiente; è fatto salvo l’articolo 80.
+<sup>1</sup> Swissmedic rilascia l’omologazione se il medicamento adempie i requisiti della legislazione sugli agenti terapeutici e, in caso di medicamenti contenenti OGM, le condizioni dell’ordinanza del 10 settembre 2008[^9-1] sull’emissione deliberata nell’ambiente.[^9-2]
 
-<sup>2</sup> Rilascia l’omologazione per un medicamento il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, soltanto se è stata fornita la prova dell’adempimento dell’obbligo di notifica di cui all’articolo 4 o 8 dell’ordinanza di Nagoya dell’11 dicembre 2015[^9-2].
+<sup>2</sup> Rilascia l’omologazione per un medicamento il cui sviluppo si basa sull’utilizzazione di risorse genetiche o sulle conoscenze tradizionali a esse associate, soltanto se è stata fornita la prova dell’adempimento dell’obbligo di notifica di cui all’articolo 4 o 8 dell’ordinanza di Nagoya dell’11 dicembre 2015[^9-3].
 
 <sup>3</sup> Rilascia l’omologazione per medicamenti veterinari destinati al trattamento di animali da reddito soltanto se questi medicamenti sono di natura tale che le derrate prodotte con essi non presentano rischi per la salute umana.
 
@@ -188,7 +188,8 @@ Il richiedente può chiedere a Swissmedic lo svolgimento di una procedura di omo
 <sup>5</sup> Su richiesta, annota nella decisione di omologazione che l’informazione relativa al medicamento riporta i risultati rilevanti degli studi eseguiti in conformità con il piano d’indagine pediatrica approvato di cui all’articolo 54*a* LATer.
 
 [^9-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^9-2]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^9-2]: Nuovo testo giusta l’all. n. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^9-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 10
 
@@ -321,7 +322,7 @@ Esegue una propria perizia scientifica se:
 
 <sup>2</sup> Swissmedic prosegue la propria perizia scientifica se, in base ai risultati che ha ottenuto fino a quel momento, vi sono seri dubbi in merito ai risultati degli esami dell’autorità estera.
 
-### Sezione 3: Modifiche dell’omologazione dei medicamenti per uso umano****
+### Sezione 3: Modifiche dell’omologazione dei medicamenti per uso umano
 
 [^chap2-sec3-1]
 
@@ -368,7 +369,7 @@ Le modifiche del medicamento classificate come estensioni dell’omologazione de
 [^25-1]: Regolamento (CE) n.1234/2008 della Commissione, del 24 novembre 2008, concernente lʼesame delle variazioni dei termini delle autorizzazioni allʼimmissione in commercio di medicinali per uso umano e di medicinali veterinari, GU L 334 del 12.12.2008, pag. 7; modificato da ultimo dal regolamento delegato (UE) 2021/756, GU L 162 del 10.5.2021, pag. 1.
 [^25-2]: Nuovo testo giusta il n. I 2 dell’O del 12 gen. 2022 concernente gli adeguamenti al nuovo diritto UE sui medicamenti veterinari, in vigore dal 28 gen. 2022 ([RU 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
-### Sezione 3*a*:**** Modifiche dell’omologazione dei medicamenti veterinari
+### Sezione 3*a*: Modifiche dell’omologazione dei medicamenti veterinari
 
 [^chap2-sec3a-1]
 
@@ -1182,12 +1183,9 @@ Swissmedic può specificare i requisiti tecnici e i dettagli necessari all’ese
 
 #### Art. 80
 
-**Autorità competente in ambito veterinario**
+[^80-1]
 
-L’Ufficio federale della sicurezza alimentare e di veterinaria:
-
-- a. esegue le disposizioni della presente ordinanza relative all’omologazione per l’immissione in commercio di medicamenti immunologici per uso veterinario;
-- b. rilascia la liberazione ufficiale delle partite per medicamenti immunologici per uso veterinario di cui all’articolo 17 LATer.
+[^80-1]: Abrogato dall’all. n. 2 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 81
 
@@ -1268,7 +1266,7 @@ I droghieri senza diploma federale che al 1° gennaio 2019 erano autorizzati sec
 
 <sup>2</sup> Gli articoli 37 capoversi 2 e 3 e 51 entrano in vigore il 1° gennaio 2020.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 37 cpv. 1 lett. e)
 
@@ -1315,18 +1313,18 @@ La documentazione sui preparati deve contenere i seguenti dati:
 - k. specifiche e prescrizioni d’esame del prodotto finito, in particolare identità, purezza, contenuto nonché esami generali e galenici;
 - l. motivazione delle specifiche del prodotto finito.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 45 cpv. 2)
 
-## Indicazioni e medicamenti di cui all’articolo 45 capoverso 1 lettera a****
+## Indicazioni e medicamenti di cui all’articolo 45 capoverso 1 lettera a
 
 [^annex2-lvlu1-1]
 
 [^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dal n. I dell’O del DFI del 7 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Il testo non è pubblicato nella RU (art. 5 della L del 18 giu. 2004 sulle pubblicazioni ufficiali; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultato sul sito Internet dell’UFSP all’indirizzo: www.bag.admin.ch &gt; Medicina & ricerca &gt; Medicamenti e dispositivi medici &gt; Dispensazione di medicamenti semplificata.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 60 e 66)
 

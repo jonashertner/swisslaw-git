@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2022-01-28
+version: 2023-01-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20220128/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20220128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20220128/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (Etat le 28 janvier 2022) janvier 2022)
+du 21 septembre 2018 (État le 1<sup>er</sup> janvier 2023) janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -177,9 +177,9 @@ Le requérant peut déposer auprès de Swissmedic une demande de procédure rapi
 
 **Autorisation de mise sur le marché**
 
-<sup>1</sup> Swissmedic délivre l’autorisation si le médicament satisfait aux exigences de la législation sur les produits thérapeutiques et, dans le cas des médicaments contenant des OGM, si les conditions de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^9-1] sont remplies; l’art. 80 est réservé.
+<sup>1</sup> Swissmedic délivre l’autorisation si le médicament satisfait aux exigences de la législation sur les produits thérapeutiques et, dans le cas de médicaments contenant des OGM, aux conditions de l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^9-1].[^9-2]
 
-<sup>2</sup> Swissmedic ne délivre l’autorisation de mise sur le marché d’un médicament dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci que s’il est prouvé que l’obligation de notifier au sens de l’art. 4 ou 8 de l’ordonnance de Nagoya du 11 décembre 2015[^9-2] est respectée.
+<sup>2</sup> Swissmedic ne délivre l’autorisation de mise sur le marché d’un médicament dont le développement repose sur l’utilisation de ressources génétiques ou de connaissances traditionnelles associées à celles-ci que s’il est prouvé que l’obligation de notifier au sens de l’art. 4 ou 8 de l’ordonnance de Nagoya du 11 décembre 2015[^9-3] est respectée.
 
 <sup>3</sup> S’agissant des médicaments vétérinaires pour les animaux de rente, Swissmedic délivre l’autorisation uniquement dans les cas où ces médicaments sont tels que les aliments obtenus ne présentent pas de risques pour la santé humaine.
 
@@ -188,7 +188,8 @@ Le requérant peut déposer auprès de Swissmedic une demande de procédure rapi
 <sup>5</sup> Sur demande, il précise dans la décision d’autorisation que l’information sur le médicament reproduit les résultats des études pertinentes réalisées conformément au plan d’investigation pédiatrique approuvé selon l’art. 54*a* LPTh.
 
 [^9-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^9-2]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
+[^9-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^9-3]: [RS 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
 
 #### Art. 10
 
@@ -321,7 +322,7 @@ Il procède à un examen scientifique:
 
 <sup>2</sup> Il poursuit son examen scientifique si, compte tenu de ses examens précédents, des réserves sérieuses subsistent quant aux résultats des examens faits par l’autorité étrangère.
 
-### Section 3 Modifications de l’autorisation de mise sur le marché pour les médicaments à usage humain****
+### Section 3 Modifications de l’autorisation de mise sur le marché pour les médicaments à usage humain
 
 [^chap2-sec3-1]
 
@@ -368,7 +369,7 @@ Les modifications d’un médicament qui sont classées comme une extension de l
 [^25-1]: Règlement (CE) n<sup>o</sup> 1234/2008 de la Commission du 24 novembre 2008 concernant l’examen des modifications des termes d’une autorisation de mise sur le marché de médicaments à usage humain et de médicaments vétérinaires, JO L 334 du 12.12.2008, p. 7; modifié en dernier lieu par le règlement délégué (UE) 2021/756, JO L 162 du 10.5.2021, p. 1.
 [^25-2]: Nouvelle teneur selon le ch. I 2 de l’O du 12 janv. 2022 portant adaptation d’ordonnances au nouveau droit européen sur les médicaments vétérinaires, en vigueur depuis le 28 janv. 2022 ([RO 2022 16](https://fedlex.data.admin.ch/eli/oc/2022/16)).
 
-### Section 3*a***** Modifications de l’autorisation de mise sur le marché pour les médicaments vétérinaires
+### Section 3*a* Modifications de l’autorisation de mise sur le marché pour les médicaments vétérinaires
 
 [^chap2-sec3a-1]
 
@@ -1181,12 +1182,9 @@ Swissmedic peut préciser les exigences techniques et les modalités nécessaire
 
 #### Art. 80
 
-**Autorité compétente dans le domaine vétérinaire**
+[^80-1]
 
-L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires:
-
-- a. exécute les dispositions de la présente ordonnance qui concernent l’autorisation de mise sur le marché des médicaments immunologiques à usage vétérinaire;
-- b. procède à la libération officielle des lots pour les médicaments immunologiques à usage vétérinaire conformément à l’art. 17 LPTh.
+[^80-1]: Abrogé par l’annexe ch. 2 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 81
 
@@ -1267,7 +1265,7 @@ Les droguistes non titulaires d’un diplôme fédéral qui, au 1<sup>er</sup> j
 
 <sup>2</sup> Les art. 37, al. 2 et 3, et 51 entrent en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 37, al. 1, let. e)
 
@@ -1314,18 +1312,18 @@ La documentation relative à une préparation doit contenir les informations sui
 - k. spécifications et prescriptions d’analyse du produit fini, en particulier identification, pureté, teneur, analyses générales et analyses galéniques;
 - l. justification des spécifications du produit fini.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 45, al. 2)
 
-## Indications et médicaments visés à l’art. 45, al. 1, let. a****
+## Indications et médicaments visés à l’art. 45, al. 1, let. a
 
 [^annex2-lvlu1-1]
 
 [^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I de l’O du DFI du 7 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)).
 [^annex2-lvlu1-1]: Ce texte n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). ll peut être consulté sur le site Internet de l’OFSP sous: www.bag.admin.ch. La version du 1<sup>er</sup> avril 2020 est applicable.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 60 et 66)
 
@@ -1435,9 +1433,9 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex6-lvlu1-4]
+…[^annex6-lvlu1-4]
 
-[^annex6-lvlu1-1]: [[RO 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516), [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)I 3 [4057](https://fedlex.data.admin.ch/eli/oc/2004/592), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 6, [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280), [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614), [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354), [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187)I [3439](https://fedlex.data.admin.ch/eli/oc/2010/480)[3863](https://fedlex.data.admin.ch/eli/oc/2010/557)[4039](https://fedlex.data.admin.ch/eli/oc/2010/585)I, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)[1171](https://fedlex.data.admin.ch/eli/oc/2016/218)I 4, [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)I II]
-[^annex6-lvlu1-2]: [[RO 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II [79](https://fedlex.data.admin.ch/eli/oc/2006/18), [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312), [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283)I, [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)I 3]
+[^annex6-lvlu1-1]: [[RO 2001 3420](https://fedlex.data.admin.ch/eli/oc/2001/516); [2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591)I 3, [4057](https://fedlex.data.admin.ch/eli/oc/2004/592); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II 6; [2007 1961](https://fedlex.data.admin.ch/eli/oc/2007/280); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614); [2009 2643](https://fedlex.data.admin.ch/eli/oc/2009/354); [2010 1295](https://fedlex.data.admin.ch/eli/oc/2010/187)I [3439](https://fedlex.data.admin.ch/eli/oc/2010/480), [3863](https://fedlex.data.admin.ch/eli/oc/2010/557), [4039](https://fedlex.data.admin.ch/eli/oc/2010/585)I; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39), [1171](https://fedlex.data.admin.ch/eli/oc/2016/218)I 4; [2017 2787](https://fedlex.data.admin.ch/eli/oc/2017/282)I II]
+[^annex6-lvlu1-2]: [[RO 2001 3010](https://fedlex.data.admin.ch/eli/oc/2001/444); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)II [79](https://fedlex.data.admin.ch/eli/oc/2006/18); [2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312); [2008 1919](https://fedlex.data.admin.ch/eli/oc/2008/283)I; [2015 5019](https://fedlex.data.admin.ch/eli/oc/2015/823)I 3]
 [^annex6-lvlu1-3]: [[RO 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)]
 [^annex6-lvlu1-4]: Les mod. peuvent être consultées au [RO 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588).
