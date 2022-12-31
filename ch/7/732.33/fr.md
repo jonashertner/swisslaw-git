@@ -4,11 +4,11 @@ title: "Ordonnance du 14 novembre 2018 sur la protection en cas d'urgence au voi
 short: OPU
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/780"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-780-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-780-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20220101/fr"
 
 (Ordonnance sur la protection d’urgence, OPU)
 
-du 14 novembre 2018 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -355,7 +355,7 @@ Annexe 2
 
 La zone de protection d’urgence 2 est divisée en 6 secteurs de 120° qui se recouvrent partiellement. Si les conditions de vent le permettent sans équivoque, l’alarme peut ainsi être donnée de manière différenciée.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20230101/fr/xml/image/image1.png)
 
 Légende
 
@@ -365,13 +365,19 @@ Légende
 - (übrige Schweiz) (Reste de la Suisse)
 - ca. 20 km env. 20 km
 
-Annexe 3*[^t-1]*
+Annexe 3[^t-1]
 
 (art. 3, al. 2)
 
-## Communes situées dans les zones 1 et 2, avec leurs secteurs de danger
+## Communes et parties de communes attribuées aux zones de protection d’urgence 1 et 2, zones spécifiques de danger de l’IPS/SCSI (zone 1)
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’IFSN du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 723](https://fedlex.data.admin.ch/eli/oc/2021/723)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’IFSN du 21 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 730](https://fedlex.data.admin.ch/eli/oc/2022/730)).
+
+### 1. Communes situées dans les zones de protection d’urgence 1 et 2, avec leurs secteurs de danger
+
+[^annex3-lvlu1-lvl1-1]
+
+[^annex3-lvlu1-lvl1-1]: L’assignation des communes aux zones et aux secteurs peut être consultée à la page [www.ensi.ch/fr/](http://www.ensi.ch/fr/) &gt; Protection en cas d’urgence &gt; Protection d’urgence et plans des zones.
 
 Désignation des centrales nucléaires (CN):
 
@@ -419,11 +425,11 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Bözberg</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Bottenwil</td><td>Zofingen / Zofingue</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Böttstein</td><td>Zurzach</td><td>AG</td><td>B/L</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Böztal[^annex3-lvlu1-lvlu1-1]</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Böztal[^annex3-lvlu1-lvlu1-2]</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Böztal</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Böztal</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Bremgarten bei Bern</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Brittnau</td><td>Zofingen / Zofingue</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Brugg[^annex3-lvlu1-lvlu1-3]</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Brugg[^annex3-lvlu1-lvl1-lvlu1-1]</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Brugg (seulement l’anc. comm. de Schinznach-Bad)</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Brügg</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Brunegg</td><td>Lenzburg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -449,7 +455,6 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Densbüren</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Diegten</td><td>Waldenburg</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Dielsdorf</td><td>Dielsdorf</td><td>ZH</td><td>B/L</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Diemerswil</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Diepflingen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Diessbach bei Büren</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Döttingen</td><td>Zurzach</td><td>AG</td><td>B/L</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -517,8 +522,8 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Hendschiken</td><td>Lenzburg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Hermrigen</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Hersberg</td><td>Liestal</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
-<tr><td>Herznach</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Herznach</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Herznach-Ueken[^annex3-lvlu1-lvl1-lvlu1-2]</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Herznach-Ueken[^annex3-lvlu1-lvl1-lvlu1-3]</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Hirschthal</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Holderbank (AG)</td><td>Lenzburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Holderbank (AG)</td><td>Lenzburg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -548,7 +553,7 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Killwangen</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Kirchleerau</td><td>Zofingen / Zofingue</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Kirchlindach</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
-<tr><td>Kleinbösingen/ Petit-Bassens</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Kleinbösingen/Petit-Bassens</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Klingnau</td><td>Zurzach</td><td>AG</td><td>B/L</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Knutwil</td><td>Sursee</td><td>LU</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Koblenz</td><td>Zurzach</td><td>AG</td><td>B/L</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
@@ -605,7 +610,7 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Mühleberg (au nord de la ligne ferroviaire)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Mühleberg (au sud de la ligne ferroviaire)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Mülligen</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Münchenbuchsee</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Münchenbuchsee[^annex3-lvlu1-lvl1-lvlu1-4]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Münchenwiler</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Münchwilen (AG)</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Münchwilen (AG)</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
@@ -613,7 +618,7 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Müntschemier/ Monsmier</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Murgenthal</td><td>Zofingen / Zofingue</td><td>AG</td><td>G</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Muri bei Bern</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Murten/Morat[^annex3-lvlu1-lvlu1-4]</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Murten/Morat</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Nebikon</td><td>Willisau</td><td>LU</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Neerach</td><td>Dielsdorf</td><td>ZH</td><td>B/L</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Neuendorf</td><td>Gäu</td><td>SO</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
@@ -738,8 +743,6 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Turgi</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Twann-Tüscherz/ Douanne-Daucher</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Ueberstorf</td><td>Sense/Singine</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Ueken</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Ueken</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Uerkheim</td><td>Zofingen / Zofingue</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Ulmiz/Ormey</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Unterentfelden</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
@@ -775,8 +778,8 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Wittinsburg</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td></td><td colspan="2">X</td><td colspan="3">X</td><td colspan="3"></td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
-<tr><td>Wohlen bei Bern (en partie)[^annex3-lvlu1-lvlu1-5]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
-<tr><td>Wohlen bei Bern (en partie)[^annex3-lvlu1-lvlu1-6]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
+<tr><td>Wohlen bei Bern (en partie)[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Wohlen bei Bern (en partie)[^annex3-lvlu1-lvl1-lvlu1-6]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Wohlenschwil</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
@@ -793,38 +796,31 @@ Désignation des centrales nucléaires (CN):
 <tr><td>Zofingen/Zofingue</td><td>Zofingen / Zofingue</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Zollikofen</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 <tr><td>Zunzgen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
-<tr><td>Zurzach[^annex3-lvlu1-lvlu1-7]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X[^annex3-lvlu1-lvlu1-8]</td><td>X[^annex3-lvlu1-lvlu1-9]</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
+<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-7]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Zuzgen</td><td>Rheinfelden</td><td>AG</td><td>G</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">X</td></tr>
 <tr><td>Zuzwil (BE)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">X</td></tr>
 </table>
 
-Note:
+[^annex3-lvlu1-lvl1-lvlu1-1]: L’ancienne commune de Schinznach-Bad n’est assignée qu’aux secteurs 3 et 4.
+[^annex3-lvlu1-lvl1-lvlu1-2]: Fusion des communes d’Herznach et d’Ueken.
+[^annex3-lvlu1-lvl1-lvlu1-3]: Fusion des communes d’Herznach et d’Ueken.
+[^annex3-lvlu1-lvl1-lvlu1-4]: Fusion des communes de Diemerswil et de Münchenbuchsee
+[^annex3-lvlu1-lvl1-lvlu1-5]: Seulement Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-6]: Sans Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-7]: Les anciennes communes de Kaiserstuhl, de Rekingen, de Rümikon et de Wislikofen ne sont assignées qu’aux secteurs 1 et 2.
 
-L’assignation des communes aux zones et aux secteurs peut être consultée sur la page d’accueil de l’IFSN: www.ensi.ch/fr/ &gt; Protection en cas d’urgence &gt; Protection d’urgence et plans des zones.
+### 2. Zone spécifique de danger de l’IPS/SCSI (zone 1)
 
-[^annex3-lvlu1-lvlu1-1]: Fusion des communes de Bözen, Effingen, Elfingen et Hornussen.
-[^annex3-lvlu1-lvlu1-2]: Fusion des communes de Bözen, Effingen, Elfingen et Hornussen.
-[^annex3-lvlu1-lvlu1-3]: L’ancienne commune de Schinznach-Bad n’est assignée qu’aux secteurs 3 et 4.
-[^annex3-lvlu1-lvlu1-4]: Fusion des communes de Clavaleyres, Galmiz, Gempenach et Murten.
-[^annex3-lvlu1-lvlu1-5]: Seulement Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvlu1-6]: Sans Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvlu1-7]: Fusion des communes de Baldingen, Böbikon, Kaiserstuhl, Rekingen, Rietheim, Rümikon, Wislikofen et Bad Zurzach.
-[^annex3-lvlu1-lvlu1-8]: Les anciennes communes de Kaiserstuhl, Rekingen, Rümikon et Wislikofen ne sont assignées qu’aux secteurs 1 et 2.
-[^annex3-lvlu1-lvlu1-9]: Les anciennes communes de Kaiserstuhl, Rekingen, Rümikon et Wislikofen ne sont assignées qu’aux secteurs 1 et 2.
+[^annex3-lvlu1-lvl2-1]
 
-### Zone spécifique de danger de l’IPS/SCSI (zone 1)
+[^annex3-lvlu1-lvl2-1]: La zone spécifique de danger de l’IPS/SCSI peut être consultée sur la page [www.ensi.ch/fr/](http://www.ensi.ch/fr/) &gt; Protection en cas d’urgence &gt; Protection d’urgence et plans des zones.
 
-<sup>1</sup> La zone spécifique de danger de l’IPS/SCSI couvre les communes de Döttingen au sud de la Surb, de Böttstein sans Kleindöttingen et Burlen, l’aire de Siggenthal-Station d’Untersiggenthal, de Villigen et de Würenlingen.
+- 2\.1 La zone spécifique de danger de l’IPS/SCSI couvre les communes de Döttingen au sud de la Surb, de Böttstein sans Kleindöttingen et Burlen, l’aire de Siggenthal-Station d’Untersiggenthal, de Villigen et de Würenlingen.
+- 2\.2 Ces territoires sont recensés, mis à jour et administrés par l’IFSN conformément à l’ordonnance du 21 mai 2008 sur la géoinformation[^annex3-lvlu1-lvl2-2].
 
-<sup>2</sup> Ces territoires sont recensés, mis à jour et administrés par l’IFSN conformément à l’ordonnance du 21 mai 2008 sur la géoinformation[^annex3-lvlu1-lvlu2-1].
+[^annex3-lvlu1-lvl2-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
-Note:
-
-La zone spécifique de danger de l’IPS/SCSI peut être consultée sur la page d’accueil de l’IFSN: www.ensi.ch/fr/ &gt; Protection en cas d’urgence &gt; Protection d’urgence et plans des zones.
-
-[^annex3-lvlu1-lvlu2-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
-
-Annexe 4*[^t-2]*
+Annexe 4[^t-2]
 
 (art. 3, al. 4)
 
@@ -852,7 +848,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex5-lvlu1-2]
+…[^annex5-lvlu1-2]
 
 [^annex5-lvlu1-1]: [[RO 2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748), [2018 4335](https://fedlex.data.admin.ch/eli/oc/2018/701)]
 [^annex5-lvlu1-2]: Les mod. peuvent être consultées au [RO 2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780).
