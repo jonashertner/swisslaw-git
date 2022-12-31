@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 2008 sulla coercizione di polizia e le misure 
 short: OCoe
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/760"
 language: it
-version: 2017-03-01
+version: 2023-01-01
 adopted: 2008-11-12
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/760/20170301/it/xml/fedlex-data-admin-ch-eli-cc-2008-760-20170301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20170301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/760/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-760-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20170301/it"
 
 (Ordinanza sulla coercizione, OCoe)
 
-del 12 novembre 2008 (Stato 1° marzo 2017)
+del 12 novembre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 14, 16, 17 capoverso 1, 26 e 29 della legge del 20 marzo 2008[^ingress-1] sulla coercizione,
+visti gli articoli 14, 16, 17 capoverso 1, 26 e 29 della legge del 20 marzo 2008[^ingress-1] sulla coercizione; visto l’articolo 92 capoverso 4 lettera b della legge militare del 3 febbraio 1995[^ingress-2],[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Nuovo testo giusta il n. II 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -72,6 +74,44 @@ Nei trasporti per via aerea di persone sottoposte a restrizioni della libertà s
 
 - a. mezzi d’immobilizzazione, ad eccezione di quelli in metallo;
 - b. manganelli e bastoni di difesa.
+
+#### Art. 5a
+
+**Armamento di impiegati dell’amministrazione militare della Confederazione**[^5a-1]
+
+<sup>1</sup> Gli impiegati civili dell’Aggruppamento Difesa sono autorizzati al porto di un’arma di servizio, sempreché e finché sono esposti a pericoli particolari nell’ambito dei loro compiti di servizio e nella misura in cui non vi siano motivi d’impedimento per il porto di un’arma di servizio.
+
+<sup>2</sup>
+
+Vi è un pericolo particolare segnatamente quando:
+
+- a. si scorta il trasporto o si procede al trasferimento di materiale dell’esercito con particolari esigenze di protezione;
+- b. si accede a impianti militari della zona di protezione 2 e 3;
+- c. si devono accompagnare le forze d’intervento dopo l’azionamento di allarmi.
+
+<sup>3</sup> Sono considerati motivi d’impedimento segnatamente gli indizi che lasciano supporre una possibile esposizione di se stesso o terzi a pericolo.
+
+<sup>4</sup>
+
+Sono considerate armi di servizio:
+
+- a. sostanze irritanti;
+- b. armi da fuoco.
+
+<sup>5</sup> Il direttore competente all’interno dell’Aggruppamento Difesa decide caso per caso sull’appartenenza al gruppo di persone secondo il capoverso 1.
+
+<sup>6</sup>
+
+Chi è autorizzato al porto di un’arma di servizio deve:
+
+- a. assolvere l’istruzione di base secondo le direttive dell’Aggruppamento Difesa; e
+- b. partecipare ogni anno a vari corsi d’istruzione.
+
+<sup>7</sup> L’Ufficio federale competente provvede alla custodia sicura delle armi di servizio e delle munizioni.
+
+<sup>8</sup> Se riguardo a una persona si constatano motivi d’impedimento per il porto di un’arma di servizio, questa è ritirata immediatamente dall’organo superiore. Il direttore competente, d’intesa con il capo Sicurezza Difesa, decide definitivamente se la persona interessata è ulteriormente autorizzata al porto di un’arma di servizio.
+
+[^5a-1]: Introdotto dal n. II 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ### Sezione 2: Mezzi ausiliari
 
@@ -180,8 +220,6 @@ Gli organi speciali seguenti valutano l’idoneità dei mezzi coercitivi per l�
 #### Art. 16
 
 **Modulo di trasporto**
-
-<sup>1</sup>
 
 Il DFGP prepara un modello di modulo contenente le rubriche seguenti:
 

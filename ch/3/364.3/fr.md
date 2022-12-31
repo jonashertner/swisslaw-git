@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 2008 relative à l'usage de la contrainte et d
 short: OLUsC
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/760"
 language: fr
-version: 2017-03-01
+version: 2023-01-01
 adopted: 2008-11-12
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/760/20170301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-760-20170301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20170301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/760/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-760-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20170301/fr"
 
 (Ordonnance sur l’usage de la contrainte, OLUsC)
 
-du 12 novembre 2008 (Etat le 1<sup>er</sup> mars 2017)
+du 12 novembre 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 14, 16, 17, al. 1, 26 et 29 de la loi du 20 mars 2008 sur l’usage de la contrainte[^ingress-1],
+vu les art. 14, 16, 17, al. 1, 26 et 29 de la loi du 20 mars 2008 sur l’usage de la contrainte[^ingress-1], vu l’art. 92, al. 4, let. b, de la loi fédérale du 3 février 1995 sur l’armée[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Nouvelle teneur selon le ch. II 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## Chapitre 1 Objet et champ d’application
 
@@ -72,6 +74,44 @@ Lors du transport par voie aérienne de personnes soumises à une mesure restrei
 
 - a. les liens, à l’exception des liens métalliques;
 - b. les matraques et les bâtons de défense.
+
+#### Art. 5a
+
+**Armement des employés de l’administration militaire de la Confédération**[^5a-1]
+
+<sup>1</sup> Sont autorisés à porter une arme de service les employés civils du Groupement Défense dans la mesure où et aussi longtemps qu’ils encourent un danger particulier dans l’exercice de leurs tâches, à condition qu’il n’existe aucun motif les empêchant de porter une arme de service.
+
+<sup>2</sup>
+
+Il existe un danger particulier notamment:
+
+- a. lors du transport escorté et du transfert de matériel de l’armée requérant une protection particulière;
+- b. lors de l’accès aux ouvrages militaires des zones de protection 2 ou 3;
+- c. lors de l’escorte des forces d’intervention en cas de déclenchement d’alarmes.
+
+<sup>3</sup> Il y a notamment des motifs empêchant le port d’une arme de service lorsque des indices laissent présumer que l’employé présente une menace pour lui-même ou des tiers.
+
+<sup>4</sup>
+
+Sont réputées armes de service:
+
+- a. les substances irritantes;
+- b. les armes à feu.
+
+<sup>5</sup> Le directeur compétent au sein du Groupement Défense se prononce au cas par cas sur l’appartenance au groupe de personnes visé à l’al. 1.
+
+<sup>6</sup>
+
+Quiconque est autorisé à porter une arme de service doit:
+
+- a. accomplir l’instruction de base conformément aux directives du Groupement Défense, et
+- b. participer chaque année à plusieurs cours d’instruction.
+
+<sup>7</sup> L’office fédéral compétent veille à ce que les armes de service et les munitions soient conservées en lieu sûr.
+
+<sup>8</sup> Si des motifs empêchant le port d’une arme de service sont constatés chez une personne, le supérieur hiérarchique lui retire l’arme immédiatement. Le directeur compétent décide ensuite, en accord avec le chef de la sécurité à la Défense, si la personne concernée peut rester autorisée à porter une arme de service.
+
+[^5a-1]: Introduit par le ch. II 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ### Section 2 Moyens auxiliaires
 
@@ -291,7 +331,7 @@ Le transport peut être effectué sans mandat formel et, si nécessaire, en dér
 
 <sup>3</sup> La police de l’aéroport exécute les préparatifs du transport sur l’aire de l’aéroport.
 
-<sup>4</sup> Le canton informe le Secrétariat d’Etat aux migrations (SEM)[^27-1] du nombre de personnes à rapatrier et d’agents d’escorte qu’il peut fournir.
+<sup>4</sup> Le canton informe le Secrétariat d’État aux migrations (SEM)[^27-1] du nombre de personnes à rapatrier et d’agents d’escorte qu’il peut fournir.
 
 <sup>5</sup> L’assistance à l’exécution fournie par le SEM, en particulier l’organisation des rapatriements par voie aérienne, est régie par l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers[^27-2].[^27-3]
 
@@ -322,7 +362,7 @@ L’autorité ordonne les modalités du rapatriement en fonction du comportement
 
 <sup>2</sup> Si des indices laissent supposer que la personne concernée opposera une résistance physique au rapatriement, les conséquences d’un tel comportement lui sont expliquées, notamment l’usage de moyens de contrainte à son encontre.
 
-<sup>3</sup> A titre exceptionnel, l’organe d’exécution peut renoncer à l’entretien préparatoire, en particulier si un tel entretien a déjà eu lieu mais que le rapatriement a échoué.
+<sup>3</sup> À titre exceptionnel, l’organe d’exécution peut renoncer à l’entretien préparatoire, en particulier si un tel entretien a déjà eu lieu mais que le rapatriement a échoué.
 
 <sup>4</sup> L’entretien préparatoire fait l’objet d’un court procès-verbal.
 
@@ -330,7 +370,7 @@ L’autorité ordonne les modalités du rapatriement en fonction du comportement
 
 **Besoins personnels**
 
-<sup>1</sup> A titre exceptionnel, l’accès aux toilettes peut être remplacé par d’autres moyens. L’utilisation de langes est subordonnée au consentement de la personne concernée.
+<sup>1</sup> À titre exceptionnel, l’accès aux toilettes peut être remplacé par d’autres moyens. L’utilisation de langes est subordonnée au consentement de la personne concernée.
 
 <sup>2</sup> Les organes d’exécution veillent à ce que la personne à transporter dispose de vêtements de rechange si nécessaire.
 

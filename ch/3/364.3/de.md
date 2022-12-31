@@ -4,11 +4,11 @@ title: "Verordnung vom 12. November 2008 über die Anwendung polizeilichen Zwang
 short: ZAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/760"
 language: de
-version: 2017-03-01
+version: 2023-01-01
 adopted: 2008-11-12
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/760/20170301/de/xml/fedlex-data-admin-ch-eli-cc-2008-760-20170301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20170301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/760/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-760-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/760/20170301/de"
 
 (Zwangsanwendungsverordnung, ZAV)
 
-vom 12. November 2008 (Stand am 1. März 2017)
+vom 12. November 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 14, 16, 17 Absatz 1, 26 und 29 des Zwangsanwendungsgesetzes vom 20. März 2008[^ingress-1],
+gestützt auf die Artikel 14, 16, 17 Absatz 1, 26 und 29 des Zwangsanwendungsgesetzes vom 20. März 2008[^ingress-1] und auf Artikel 92 Absatz 4 Buchstabe b des Militärgesetzes vom 3. Februar 1995[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-3]: Fassung gemäss Ziff. II 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
 
@@ -72,6 +74,44 @@ Werden Personen, die Freiheitsbeschränkungen unterstehen, auf dem Luftweg trans
 
 - a. Fesselungsmittel, mit Ausnahme metallischer Fesselungsmittel;
 - b. Schlag- und Abwehrstöcke.
+
+#### Art. 5a
+
+**Bewaffnung von Angestellten der Militärverwaltung des Bundes**[^5a-1]
+
+<sup>1</sup> Zum Tragen einer Dienstwaffe berechtigt sind zivile Angestellte der Gruppe Verteidigung, soweit und solange sie im Rahmen ihrer dienstlichen Aufgaben besonderen Gefährdungen ausgesetzt sind und sofern bei ihnen keine Hinderungsgründe zum Tragen einer Dienstwaffe vorliegen.
+
+<sup>2</sup>
+
+Eine besondere Gefährdung liegt insbesondere vor:
+
+- a. bei der Transportbegleitung oder der Umlagerung von Armeematerial mit besonderem Schutzbedarf;
+- b. wenn militärische Anlagen der Schutzzone 2 oder 3 betreten werden;
+- c. wenn Interventionskräfte bei ausgelösten Alarmen begleitet werden müssen.
+
+<sup>3</sup> Als Hinderungsgründe gelten insbesondere Anhaltspunkte, die auf eine mögliche Selbst- oder Drittgefährdung schliessen lassen.
+
+<sup>4</sup>
+
+Als Dienstwaffen gelten:
+
+- a. Reizstoffe;
+- b. Feuerwaffen.
+
+<sup>5</sup> Über die Zugehörigkeit zur Personengruppe nach Absatz 1 entscheidet im Einzelfall die zuständige Direktorin oder der zuständige Direktor innerhalb der Gruppe Verteidigung.
+
+<sup>6</sup>
+
+Wer zum Tragen einer Dienstwaffe berechtigt ist, muss:
+
+- a. die Grundausbildung gemäss Vorgaben der Gruppe Verteidigung absolvieren; und
+- b. jährlich an mehreren Ausbildungskursen teilnehmen.
+
+<sup>7</sup> Das zuständige Bundesamt sorgt für die sichere Aufbewahrung der Dienstwaffen und der Munition.
+
+<sup>8</sup> Werden bei einer Person Hinderungsgründe zum Tragen einer Dienstwaffe festgestellt, so wird diese durch die vorgesetzte Stelle unverzüglich eingezogen. Die zuständige Direktorin oder der zuständige Direktor entscheidet, nach Rücksprache mit der Chefin oder dem Chef Sicherheit Verteidigung, abschliessend, ob die betreffende Person weiterhin zum Tragen einer Dienstwaffe berechtigt ist.
+
+[^5a-1]: Eingefügt durch Ziff. II 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 ### 2. Abschnitt: Hilfsmittel
 
