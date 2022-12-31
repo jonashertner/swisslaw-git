@@ -4,13 +4,13 @@ number: "941.11"
 title: Altersbetreuungs- und Pflegeverordnung
 short: APV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-24
 adopted: 2018-03-20
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/941.11"
-pdf: "https://bl.clex.ch/api/de/versions/3224/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,16 @@ pdf: "https://bl.clex.ch/api/de/versions/3224/pdf_file"
 
 (APV)
 
-Vom 20.03.2018 (Stand 01.01.2022)
+Vom 20.03.2018 (Stand 01.01.2023)
 
-Der Regierungsrat,
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und §§ 6, 11, 13, 14, 17, 31, 34, 36, 42 und 47 des Altersbetreuungs- und Pflegegesetzes vom 16. November 2017[^ingress-2],
+gestützt auf § 74 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Altersbetreuungs- und Pflegegesetz vom 16. November 2017[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art74)
-[^ingress-2]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de/art6)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 941](https://bl.clex.ch/data/941/de/art6)
 
 ## 1 Bewilligung, Aufsicht und Qualität
 
@@ -52,13 +52,13 @@ beschliesst:
 - l. Bestätigung über den Anschluss an die Ombudsstelle;
 - m. Nachweis der Haftpflichtversicherung.
 
-[^1-1]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de)
+[^1-1]: [SGS 941](https://bl.clex.ch/data/941/de)
 
 #### § 2
 
 **Bewilligungsgesuch für ambulante Einrichtungen**
 
-<sup>1</sup> Das Gesuch um Erteilung einer Betriebsbewilligung für eine Organisation der spitalexternen Krankenpflege (Spitex) oder einer intermediären Einrichtung nach dem Altersbetreuungs-und Pflegegesetz[^2-1] muss folgende Angaben und Unterlagen enthalten:
+<sup>1</sup> Das Gesuch um Erteilung einer Betriebsbewilligung für eine Organisation der spitalexternen Krankenpflege (Spitex) oder einer intermediären Einrichtung nach dem Altersbetreuungs- und Pflegegesetz[^2-1] muss folgende Angaben und Unterlagen enthalten:
 
 - a. Angaben über die Rechtsform der Organisation sowie gegebenenfalls Statuten;
 - b. Betriebskonzept mit Angaben über die Organisations- und Führungsstruktur sowie bei intermediären Einrichtungen über die Anzahl Plätze;
@@ -73,7 +73,7 @@ beschliesst:
 - k. Angaben zur pharmazeutischen Betreuung, wenn eine Hausapotheke geführt wird;
 - l. für intermediären Einrichtungen ein Notfallkonzept.
 
-[^2-1]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de)
+[^2-1]: [SGS 941](https://bl.clex.ch/data/941/de)
 
 #### § 3
 
@@ -81,7 +81,7 @@ beschliesst:
 
 <sup>1</sup> Gesuche werden beurteilt, wenn alle erforderlichen Angaben und Unterlagen vorliegen.
 
-<sup>2</sup> Die Volkswirtschafts- und Gesundheitsdirektion («Direktion») ist berechtigt, weitere Unterlagen einzufordern, eine Inspektion durchzuführen oder externe Fachexpertinnen und -experten beizuziehen.
+<sup>2</sup> Die Volkswirtschafts- und Gesundheitsdirektion («Die Direktion») ist berechtigt, weitere Unterlagen einzufordern, eine Inspektion durchzuführen oder externe Fachexpertinnen und -experten beizuziehen.
 
 <sup>3</sup> Der Betrieb darf erst aufgenommen werden, wenn die Bewilligung vorliegt.
 
@@ -89,7 +89,7 @@ beschliesst:
 
 **Pflegefachverantwortliche Person**
 
-<sup>1</sup> Die für die Pflege fachverantwortliche Person sowie deren Stellvertretung muss die fachlichen Voraussetzungen für eine Berufsausübung in eigener fachlicher Verantwortung als Pflegefachfrau oder Pflegefachmann erfüllen, vertrauenswürdig sein sowie psychisch und physisch Gewähr für eine einwandfreie Berufsausübung bieten.
+<sup>1</sup> Die für die Pflege fachverantwortliche Person sowie deren Stellvertretung müssen die fachlichen Voraussetzungen für eine Berufsausübung in eigener fachlicher Verantwortung als Pflegefachfrau oder Pflegefachmann erfüllen, vertrauenswürdig sein sowie psychisch und physisch Gewähr für eine einwandfreie Berufsausübung bieten.
 
 <sup>2</sup> Die für die Pflege fachverantwortliche Person sowie deren Stellvertretung müssen gesamthaft über so viele Stellenprozente verfügen, dass die fachliche Abdeckung über die gesamthafte Betriebszeit gesichert ist. Bei stationären Einrichtungen sind mindestens 150 Stellenprozente, bei ambulanten und intermediären Einrichtungen mindestens 80 Stellenprozente erforderlich. In begründeten Fällen, insbesondere bei kleineren Institutionen, kann die Direktion Ausnahmen bewilligen.
 
@@ -99,7 +99,7 @@ beschliesst:
 
 <sup>1</sup> Der Stellenplan und die Einsatzplanung für das Pflege- und Betreuungspersonal müssen in Bezug auf die Stellenprozente und die beruflichen Qualifikationen auf das Leistungsangebot der Institution abgestimmt sein. Dabei gelten folgende Mindestvoraussetzungen:
 
-- a. Mindestens 40% des Pflege- und Betreuungspersonals müssen über einen entsprechenden Berufsabschluss mit Eidgenössischem Fähigkeitszeugnis oder höher verfügen (Fachpersonal).
+- a. Mindestens 40 % des Pflege- und Betreuungspersonals müssen über einen entsprechenden Berufsabschluss mit Eidgenössischem Fähigkeitszeugnis oder höher verfügen (Fachpersonal).
 - b. Alle Mitarbeitenden müssen mindestens über einen Grundkurs Pflegehilfe SRK verfügen oder diesen innerhalb 1 Jahres nach Arbeitsaufnahme absolviert haben.
 - c. Ausländische Abschlüsse müssen eidgenössisch anerkannt sein.
 - d. Das Fachpersonal muss über gute mündliche und schriftliche Deutschkenntnisse (Niveau B2) verfügen.
@@ -115,7 +115,7 @@ beschliesst:
 - a. Qualivista beziehungsweise die anwendbaren Teile davon für stationäre und intermediäre Leistungsgerbringer;
 - b. Qualitätsmanual des Spitex-Verbandes für ambulante und intermediäre Leistungserbringer.
 
-[^6-1]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de/art11)
+[^6-1]: [SGS 941](https://bl.clex.ch/data/941/de/art11)
 
 #### § 7
 
@@ -129,9 +129,17 @@ beschliesst:
 
 <sup>1</sup> Änderungen von bewilligungsrelevanten Tatbeständen sind der Direktion unverzüglich und unaufgefordert schriftlich unter Beilage der erforderlichen Unterlagen zu melden.
 
-<sup>2</sup> Als bewilligungsrelevante Tatbestände gelten insbesondere die in $§ 1 und 2 genannten Angaben.
+<sup>2</sup> Als bewilligungsrelevante Tatbestände gelten insbesondere die in § 1 und § 2 genannten Angaben.
 
 <sup>3</sup> Die Direktion nimmt aufgrund der gemeldeten Änderung eine Neubeurteilung der Bewilligung vor oder passt diese, soweit erforderlich, an.
+
+#### § 8a
+
+**Ausbildungsverpflichtung**
+
+<sup>1</sup> Die Umsetzung der Ausbildungsverpflichtung gemäss § 12 des Altersbetreuungs- und Pflegegesetzes vom 16. November 2017[^8a-1] erfolgt für die stationären Leistungserbringer gemäss dem zwischen dem Verband Basellandschaftlicher Gemeinden und CURAVIVA Baselland vereinbarten Reglement Fonds Ausbildungsverpflichtung vom 15. November 2022. Dieses Reglement wird für alle stationären Leistungserbringer mit Betriebsbewilligung verbindlich erklärt. Diese sind verpflichtet, die darin vorgesehenen Kompensationszahlungen zu bezahlen, resp. sind berechtigt, solche zu erhalten.
+
+[^8a-1]: [SGS 941](https://bl.clex.ch/data/941/de/art12)
 
 ## 2 Datenlieferung und Statistiken
 
@@ -156,19 +164,17 @@ beschliesst:
 
 **Kostenrechnung und Leistungsstatistik**
 
-<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der [Erfassungsmethodik der Fachgruppe Monitoring APH vom November 2021](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/alter/pflegefinanzierung/stationaer-alters-und-pflegeheime/dateien-stationaere-pflegefinanzierung/erfassungsmethodik-aktuell.pdf)[^10a-1].
+<sup>1</sup> Die stationären Pflegeeinrichtungen erstellen die Kostenrechnung, die Anlagebuchhaltung und die Leistungsstatistik gemäss der Erfassungsmethodik der Fachgruppe Monitoring APH vom Dezember 2022 (Anhang 1).
 
 <sup>2</sup> Sie lassen sich die Einhaltung der Erfassungsmethodik durch eine akkreditierte Revisionsstelle bestätigen und reichen die Bestätigung der Direktion sowie den Gemeinden und Versorgungsregionen, mit welchen sie eine Leistungsvereinbarung abgeschlossen haben, bis Ende Mai des Folgejahres ein.
-
-[^10a-1]: Linkadresse: https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/alter/pflegefinanzierung/stationaer-alters-und-pflegeheime/dateien-stationaere-pflegefinanzierung/erfassungsmethodik-aktuell.pdf
 
 #### § 11
 
 **Verspätete oder unvollständige Einreichung**
 
-<sup>1</sup> Die Direktion kann für ihren Aufwand aufgrund verspätet oder unvollständig eingereichter Dokumente und Daten eine Gebühr nach dem Ansatz für Kontrollen und Inspektionen gemäss Verordnung vom 15. Dezember 2015[^11-1] über die Gebühren der Volkswirtschafts- und Gesundheitsdirektion im Gesundheitsbereich erheben.
+<sup>1</sup> Die Direktion kann für ihren Aufwand aufgrund verspätet oder unvollständig eingereichter Dokumente und Daten eine Gebühr nach dem Ansatz für Kontrollen und Inspektionen gemäss Verordnung über die Gebühren der Volkswirtschafts- und Gesundheitsdirektion im Gesundheitsbereich vom 15. Dezember 2015[^11-1] erheben.
 
-[^11-1]: GS 2015.088, SGS [143.51](https://bl.clex.ch/data/143.51/de)
+[^11-1]: [SGS 143.51](https://bl.clex.ch/data/143.51/de)
 
 ## 3 Beiträge an Projekte für betreutes Wohnen und integrierte Versorgung
 
@@ -221,7 +227,7 @@ beschliesst:
 
 **Sicherstellung**
 
-<sup>1</sup> Die stationären Pflegeeinrichtungen dürfen von den Bewohnerinnen und Bewohnern eine Sicherstellung in der Höhe von maximal 2 Monatsbetreffnissen der selbst zu tragenden Kosten bis zum Betrag von CHF 12\`000 verlangen.
+<sup>1</sup> Die stationären Pflegeeinrichtungen dürfen von den Bewohnerinnen und Bewohnern eine Sicherstellung in der Höhe von maximal 2 Monatsbetreffnissen der selbst zu tragenden Kosten bis zum Betrag von CHF 12\`000.– verlangen.
 
 #### § 17
 
@@ -244,20 +250,20 @@ beschliesst:
 
 <sup>2</sup> Institutionen, welche ihren Betrieb vor dem Inkrafttreten des Altersbetreuungs- und Pflegegesetzes[^18-2] aufgenommen haben und neu einer Betriebsbewilligung bedürfen, sind verpflichtet, innerhalb 1 Jahres ab diesem Zeitpunkt eine Betriebsbewilligung einzuholen.
 
-[^18-1]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de)
-[^18-2]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de)
+[^18-1]: [SGS 941](https://bl.clex.ch/data/941/de)
+[^18-2]: [SGS 941](https://bl.clex.ch/data/941/de)
 
 #### § 19
 
 **Übergangsbestimmung betreffend Investitionsbeiträge**
 
-<sup>1</sup> Für Gesuche um Investitionsbeiträge sowie für die Verzinsung der Investitionsbeiträge nach §§ 47 und 49 des Altersbetreuungs- und Pflegegesetzes[^19-1] gelten die §§ 3-9 der Verordnung vom 5. Dezember 2006[^19-2] zum Gesetz über die Betreuung und Pflege im Alter in der Fassung vom 1. Januar 2017.
+<sup>1</sup> Für Gesuche um Investitionsbeiträge sowie für die Verzinsung der Investitionsbeiträge nach §§ 47 und 49 des Altersbetreuungs- und Pflegegesetzes[^19-1] gelten die §§ 3–9 der Verordnung zum Gesetz über die Betreuung und Pflege im Alter vom 5. Dezember 2006[^19-2] in der Fassung vom 1. Januar 2017.
 
-<sup>2</sup> Bauliche Veränderungen an Objekten, die mit Investitionsbeiträgen nach §§ 17-21 des Gesetzes vom 20. Oktober 2005[^19-3] über die Betreuung und Pflege im Alter oder § 47 des Altersbetreuungs- und Pflegegesetzes[^19-4] mitfinanziert worden sind, müssen der Direktion vor Baubeginn gemeldet werden.
+<sup>2</sup> Bauliche Veränderungen an Objekten, die mit Investitionsbeiträgen nach §§ 17–21 des Gesetzes über die Betreuung und Pflege im Alter vom 20. Oktober 2005[^19-3] oder § 47 des Altersbetreuungs- und Pflegegesetzes[^19-4] mitfinanziert worden sind, müssen der Direktion vor Baubeginn gemeldet werden.
 
-[^19-1]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de/art47)
-[^19-2]: GS 35.1064, SGS [941.11](https://bl.clex.ch/data/941.11/de)
+[^19-1]: [SGS 941](https://bl.clex.ch/data/941/de/art47)
+[^19-2]: GS 35.1064
 [^19-3]: GS 35.0828
-[^19-4]: GS 2018.005, SGS [941](https://bl.clex.ch/data/941/de/art47)
+[^19-4]: [SGS 941](https://bl.clex.ch/data/941/de/art47)
 
 GS 2018.020
