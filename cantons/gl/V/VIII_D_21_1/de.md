@@ -4,13 +4,13 @@ number: VIII D/21/1
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: EG KVG
 language: de
-version: 2016-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-05-03
+version: 2023-01-01
+valid_until: 2026-12-31
+version_adopted: 2021-09-05
 adopted: 2015-05-03
 in_force: 2016-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.21.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1931/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1931/pdf_file"
 
 (EG KVG)
 
-Vom 03.05.2015 (Stand 01.01.2016)
+Vom 03.05.2015 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -197,7 +197,7 @@ Vom 03.05.2015 (Stand 01.01.2016)
 
 <sup>2</sup> Für quellenbesteuerte Personen mit fremdenpolizeilicher Bewilligung zum Jahresaufenthalt gilt als anrechenbares Einkommen das definitive Bruttoeinkommen des vorletzten Jahres. Liegen diese Angaben nicht vor, kann auf das Bruttoeinkommen des Vorjahres abgestellt werden.
 
-<sup>3</sup> Kinder sowie junge Erwachsene in Ausbildung gemäss Artikel 65 Absatz 1bis KVG haben Anrecht auf die jeweilige halbe Richtprämie, sofern die Berechnung gemäss Artikel 14 Absatz 1 einen tieferen Anspruch auf Prämienverbilligung ergibt und das anrechenbare Einkommen einen vom Landrat festgelegten Grenzbetrag nicht übersteigt. Der Landrat kann den Grenzbetrag abstufen.
+<sup>3</sup> Der Kanton verbilligt die Prämien der Kinder um 80 Prozent und die Prämien der jungen Erwachsenen in Ausbildung um 50 Prozent der jeweiligen Richtprämie, sofern die Berechnung gemäss Artikel 14 Absatz 1 einen tieferen Anspruch auf Prämienverbilligung ergibt und das anrechenbare Einkommen einen vom Landrat festgelegten Grenzbetrag nicht übersteigt. Der Landrat kann den Grenzbetrag abstufen.
 
 ### 5.3. Verfahren
 
@@ -245,9 +245,9 @@ Vom 03.05.2015 (Stand 01.01.2016)
 
 **Kostenbeteiligung der versicherten Person**
 
-<sup>1</sup> Die versicherte Person übernimmt die nicht vom Versicherer gedeckten Pflegekosten, maximal aber 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages. Absatz 2 bleibt vorbehalten.
+<sup>1</sup> Die versicherte Person übernimmt die vom Versicherer nicht gedeckten Pflegekosten, maximal aber 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages. Für Personen bis zum vollendeten 18. Altersjahr wird keine Kostenbeteiligung erhoben.
 
-<sup>2</sup> Die Wohngemeinde kann eine tiefere Kostenbeteiligung festlegen.
+<sup>2</sup> …
 
 <sup>3</sup> Die versicherte Person schuldet die Kostenbeteiligung direkt dem Leistungserbringer.
 
@@ -255,11 +255,11 @@ Vom 03.05.2015 (Stand 01.01.2016)
 
 **Restfinanzierung**
 
-<sup>1</sup> Die Wohngemeinde übernimmt die nicht vom Versicherer und nicht durch die Kostenbeteiligung der versicherten Person gedeckten Pflegekosten.
+<sup>1</sup> Der Kanton übernimmt die vom Versicherer und durch die Kostenbeteiligung der versicherten Person nicht gedeckten Pflegekosten.
 
-<sup>2</sup> Bei stationärer Pflege in einer Einrichtung gemäss Artikel 39 Absatz 3 KVG ausserhalb der Wohngemeinde sind grundsätzlich die Tarif- respektive Finanzierungsvorgaben der Standortgemeinde massgebend. Verbleibt die versicherte Person auf eigenen Wunsch in der Einrichtung, obwohl ihr ein geeigneter Platz in einer Institution in der Wohngemeinde angeboten wurde, kann die Wohngemeinde den Beitrag an die nicht gedeckten Pflegekosten auf den für ihr Gemeindegebiet geltenden Ansatz begrenzen.
+<sup>1a</sup> Der Regierungsrat kann zur Sicherstellung einer angemessenen Vergütung von spezialisierten Pflegeleistungen Zuschläge vorsehen.
 
-<sup>3</sup> Der Kanton übernimmt in Abweichung der Absätze 1 und 2 die nicht vom Versicherer und nicht durch die Kostenbeteiligung der versicherten Person gedeckten Pflegekosten von auf der Pflegeheimliste geführten Einrichtungen für Menschen mit Behinderungen.
+<sup>2–3</sup> …
 
 ### 6.2. Akut- und Übergangspflege
 
@@ -269,11 +269,27 @@ Vom 03.05.2015 (Stand 01.01.2016)
 
 <sup>1</sup> Der kantonale Anteil an die Leistungen der Akut- und Übergangspflege (Art. 25a Abs. 2 KVG) beträgt 55 Prozent.
 
+<sup>1a</sup> Der Kanton übernimmt über die bundesrechtliche Höchstdauer hinaus die Kosten für Leistungen der Akut- und Übergangspflege für maximal sechs Wochen.
+
+<sup>1b</sup> Der Kanton übernimmt in Zusammenhang mit Leistungen der stationären Akut- und Übergangspflege während maximal acht Wochen 50 Prozent der Kosten für Betreuung und Unterkunft.
+
 <sup>2</sup> Der Regierungsrat erteilt bei nachgewiesenem Bedarf Leistungsaufträge für die Akut- und Übergangspflege. Beauftragte Organisationen des Privatrechts haften wie das Gemeinwesen. Für jeden Leistungserbringer ist eine Haftung aus rechtmässigem Verhalten (Art. 7 Staatshaftungsgesetz[^24-1]) bei der medizinischen Untersuchung, Behandlung und Pflege ausgeschlossen.
 
 <sup>3</sup> Der Regierungsrat regelt die Einzelheiten, namentlich die Ermittlung von Kosten und Leistungen, das Vergütungsverfahren und das Verfahren betreffend Haftung von beauftragten Organisationen des Privatrechts.
 
 [^24-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
+
+### 6.3. Rechnungslegung
+
+#### Art. 24a
+
+**Rechnungslegung**
+
+<sup>1</sup> Die Leistungserbringer führen eine Kosten- und Leistungsrechnung. Sie weisen die angebotenen Leistungen separat aus.
+
+<sup>2</sup> Der Regierungsrat kann Vorschriften zur einheitlichen Rechnungslegung erlassen und Verbandsrichtlinien verbindlich erklären.
+
+<sup>3</sup> Er kann für Leistungserbringer, welche den Anforderungen an die Rechnungslegung nicht oder nur ungenügend nachkommen, Normkosten auf Basis der Kosten einer wirtschaftlichen Leistungserbringung festlegen.
 
 ## 7. Spitalplanung und -finanzierung
 
@@ -285,7 +301,7 @@ Vom 03.05.2015 (Stand 01.01.2016)
 
 <sup>2</sup> Ein Leistungserbringer kann für einzelne Leistungen seines stationären Angebotes auf die Spitalliste aufgenommen werden.
 
-<sup>3</sup> Über die Planung sowie Anpassungen der Spital- und Pflegeheimlisten erstattet der Regierungsrat dem Landrat Bericht.
+<sup>3</sup> Über die Spitalplanungen erstattet der Regierungsrat dem Landrat Bericht.
 
 #### Art. 26
 
@@ -319,7 +335,7 @@ Vom 03.05.2015 (Stand 01.01.2016)
 
 **Datenschutz**
 
-<sup>1</sup> Die zuständigen Verwaltungsbehörden sind berechtigt, für die Erfüllung der sich aus diesem Gesetz sowie der Bundesgesetzgebung ergebenden Aufgaben, Personendaten einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder durch beauftragte Dritte bearbeiten zu lassen.
+<sup>1</sup> Die zuständigen Verwaltungsbehörden sind berechtigt, für die Erfüllung der sich aus diesem Gesetz sowie der Bundesgesetzgebung ergebenden Aufgaben Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder durch beauftragte Dritte bearbeiten zu lassen und Profiling zu betreiben.
 
 <sup>2</sup> Sie können dafür insbesondere die notwendigen Personendaten gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz[^29-1] nutzen.
 
