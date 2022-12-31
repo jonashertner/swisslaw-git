@@ -4,13 +4,12 @@ number: "445.11"
 title: Wasserbauverordnung
 short: WBauV
 language: de
-version: 2015-05-01
-valid_until: 2022-12-31
-version_adopted: 2015-04-14
+version: 2023-01-01
+version_adopted: 2022-12-13
 adopted: 2015-04-14
 in_force: 2015-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/445.11"
-pdf: "https://bl.clex.ch/api/de/versions/1259/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/1259/pdf_file"
 
 (WBauV)
 
-Vom 14.04.2015 (Stand 01.05.2015)
+Vom 14.04.2015 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -277,18 +276,20 @@ beschliesst:
 
 **Ausnahmen**
 
-<sup>1</sup> Die Nutzungsgebühren für die Wasserentnahme aus Oberflächengewässern entfallen
+<sup>1</sup> Die Nutzungsgebühr entfällt bei Wasserentnahmen aus Oberflächengewässern:
 
-- a. bei Wasserentnahmen für die Grundwasseranreicherung im Umfang der geförderten Menge angereicherten Grundwassers, wenn dafür eine Grundwassernutzungsgebühr bezahlt wird;
-- b. für Wasserentnahmen zu Löschzwecken;
-- c. für die Speisung von Naturschutzweihern, die der Öffentlichkeit zugänglich sind.
+- a. für die Grundwasseranreicherung im Umfang der geförderten Menge angereicherten Grundwassers, wenn dafür eine Grundwassernutzungsgebühr bezahlt wird;
+- b. zu Löschzwecken;
+- c. bei der Verwendung des entnommenen Wassers zum Erhalt von geschützten Naturobjekten;
+- d. wenn nur diejenige Wassermenge, die nachweislich zur minimalen Speisung von Wassernutzungsanlagen, die im Zusammenhang mit geschützten Kulturobjekten stehen, entnommen wird.
 
 <sup>2</sup> Keine Nutzungsgebühren werden erhoben für die Entnahme von Steinen, Kies und Sand zum Zweck der Reinigung und des Unterhalts.
 
-<sup>3</sup> Keine Bewilligungsgebühren werden erhoben für
+<sup>3</sup> Auf die Erhebung von Bewilligungsgebühren kann ganz oder teilweise verzichtet werden:
 
-- a. den Betrieb von Anlagen des Bundes und der Unternehmungen des öffentlichen Verkehrs;
-- b. Anlagen subventionierter Umlegungsunternehmungen;
-- c. Überdeckungen, die der reinen Erschliessung von Hinterliegerparzellen dienen.
+- a. für den Betrieb von Anlagen des Bundes und der Unternehmungen des öffentlichen Verkehrs;
+- b. für Anlagen subventionierter Umlegungsunternehmungen;
+- c. für Überdeckungen, die der reinen Erschliessung von Hinterliegerparzellen dienen;
+- d. bei der Ablösung eines ehehaften Wassernutzungsrechts durch eine Konzession.
 
 GS 2015.023
