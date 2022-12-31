@@ -4,20 +4,20 @@ number: II E/2
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2018-07-01
-valid_until: 2022-12-31
-version_adopted: 2017-05-07
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2021-09-05
 adopted: 2025-05-04
 in_force: 2026-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-E.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1973/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2351/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gemeindegesetz
 
-Vom 03.05.1992 (Stand 01.07.2018)
+Vom 03.05.1992 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -169,6 +169,10 @@ beschliesst:
 
 <sup>5</sup> Die öffentlich-rechtlichen Korporationen verwalten und nutzen ihre Güter selbstständig und berücksichtigen dabei die allgemeinen Gemeindeinteressen.
 
+<sup>6</sup> Ihre Rechnungslegung richtet sich nach Artikel 957 Absätze 2 und 3 Obligationenrecht[^14-1]. Die Bestimmungen des Finanzhaushaltsrechts sind nicht anwendbar.
+
+[^14-1]: SR 220
+
 ## 2. Gemeindearten
 
 #### Art. 15–19
@@ -209,7 +213,7 @@ beschliesst:
 - b. die Hauptanliegen von antragstellenden Stimmberechtigten;
 - c. die finanziellen Auswirkungen der Geschäfte von erheblicher Tragweite.
 
-<sup>2</sup> Die Vorsteherschaft orientiert die Öffentlichkeit zudem regelmässig oder bei Bedarf über die für die Gemeindeeinwohner wichtigen Beschlüsse und Vorhaben der Behörden sowie über andere, für die Gemeinde wesentliche Vorkommnisse.
+<sup>2</sup> …
 
 #### Art. 27
 
@@ -695,25 +699,21 @@ beschliesst:
 
 #### Art. 76
 
-**Aufbewahrung, Archivierung**
-
-<sup>1</sup> Protokolle und wichtige Akten sind geordnet aufzubewahren und durch angemessene technische und organisatorische Massnahmen vor Zerstörung, Verlust oder unerlaubter Kenntnisnahme zu schützen.
-
-<sup>2</sup> Sie sind längstens nach zehn Jahren, nachdem sie nicht mehr regelmässig benötigt wurden, geordnet und gesichert zu archivieren.
-
-<sup>3</sup> Der Regierungsrat kann Richtlinien über die Aufbewahrung und Archivierung der Gemeindeakten erlassen.
+**…**
 
 #### Art. 77
 
 **Amtsgeheimnis**
 
-<sup>1</sup> Die Behördenmitglieder, die öffentlichen Bediensteten und die mit öffentlichen Aufgaben betrauten privaten Personen sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheimzuhalten sind.
+<sup>1</sup> Die Behördenmitglieder, die öffentlichen Bediensteten und die mit öffentlichen Aufgaben betrauten privaten Personen sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, soweit an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse gemäss Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^77-1] besteht oder wenn eine besondere gesetzliche Bestimmung dies vorsieht.
 
-<sup>2</sup> Ihrer Natur nach geheim zu halten sind insbesondere Angaben über das Privatleben von Personen, über Geschäftsgeheimnisse von Unternehmen, über Angelegenheiten der Sozialhilfe, des Kindes- und Erwachsenenschutzwesens und der Gesundheitspflege sowie über Straf- oder Disziplinarverfahren.
+<sup>2</sup> …
 
 <sup>3</sup> Die Pflicht zur Verschwiegenheit bleibt auch nach dem Ausscheiden aus dem Amt bestehen.
 
-<sup>4</sup> Besondere Bestimmungen dieses Gesetzes, des übrigen kantonalen oder des eidgenössischen Rechts, die ausnahmsweise von der Pflicht zur Amtsverschwiegenheit entbinden und zur Herausgabe von Amtsakten ermächtigen, bleiben vorbehalten.
+<sup>4</sup> Besondere Bestimmungen dieses Gesetzes, des übrigen kantonalen oder des eidgenössischen Rechts, die von der Geheimhaltungspflicht entbinden und zur Herausgabe von amtlichen Dokumenten ermächtigen, bleiben vorbehalten.
+
+[^77-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 78
 
@@ -1015,13 +1015,11 @@ beschliesst:
 
 #### Art. 104
 
-**Publikation der Erlasse und Beschlüsse; Akteneinsicht**
+**Öffentlichkeit**
 
 <sup>1</sup> Die Verhandlungen und Protokolle der Behörden und Kommissionen sind nicht öffentlich.
 
-<sup>2</sup> Behörden und Kommissionen veröffentlichen alle wichtigen Beschlüsse von allgemeinem Interesse, sofern nicht wesentliche öffentliche oder besonders schutzwürdige private Interessen entgegenstehen.
-
-<sup>3</sup> Wer in seinen schutzwürdigen Interessen berührt ist, kann einen Protokollauszug oder eine Aktenkopie verlangen, sofern nicht wesentliche öffentliche oder besonders schutzwürdige private Interessen entgegenstehen.
+<sup>2–3</sup> …
 
 ### 5.6. Organisation der Verwaltung
 
