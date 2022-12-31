@@ -4,13 +4,13 @@ number: "170.11"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-08
 adopted: 1998-03-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2518/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2518/pdf_file"
 
 (GG)
 
-vom 16.03.1998 (Stand 01.11.2020)
+vom 16.03.1998 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -128,7 +128,7 @@ beschliesst:
 - a den Zeitpunkt des Zusammenschlusses,
 - b den Namen und die Grenzen der neuen Gemeinde,
 - c die Grundzüge der Organisation der neuen Gemeinde,
-- d die Beschlussfassung über den ersten Voranschlag für die neue Gemeinde,
+- d die Beschlussfassung über das erste Budget für die neue Gemeinde,
 - e die Beschlussfassung über ein allfälliges Fusionsreglement (Art. 4f).
 
 <sup>3</sup> Er regelt im Fall eines Zusammenschlusses in Form der Kombinationsfusion überdies
@@ -192,9 +192,9 @@ beschliesst:
 
 <sup>2</sup> Die Ausgabenbefugnisse des Volks werden für die Bewilligung eines Sonderbeitrags dem Grossen Rat übertragen.
 
-<sup>3</sup> Ein Sonderbeitrag wird zusätzlich zur Finanzhilfe nach dem Gesetz vom 25. November 2004 zur Förderung von Gemeindezusammenschlüssen (Gemeindefusionsgesetz, GFG[^4l-1]) gewährt und der Laufenden Rechnung belastet.
+<sup>3</sup> Ein Sonderbeitrag wird zusätzlich zur Finanzhilfe nach dem Gesetz vom 25. November 2004 zur Förderung von Gemeindezusammenschlüssen (Gemeindefusionsgesetz, GFG)[^4l-1] gewährt und der Erfolgsrechnung belastet.
 
-[^4l-1]: BSG 170.12
+[^4l-1]: BSG [170.12](https://www.belex.sites.be.ch/data/170.12/de)
 
 ### 1.2 Zusammenarbeit der Gemeinden
 
@@ -686,79 +686,94 @@ beschliesst:
 
 <sup>3</sup> Wer rechtzeitige Rügen pflichtwidrig unterlassen hat, kann gegen Wahlen und Beschlüsse nachträglich nicht mehr Beschwerde führen.
 
-### 1.3a Amtliche Anzeiger
+### 1.3a Amtliche Bekanntmachungen
 
 #### Art. 49b
 
-**Grundsatz**
+**Grundsätze**
 
-<sup>1</sup> Die amtlichen Anzeiger sind die amtlichen Publikationsorgane der Gemeinden.
+<sup>1</sup> Die amtlichen Publikationsorgane für die amtlichen Bekanntmachungen der Gemeinden sind
 
-<sup>2</sup> Die Herausgabe der amtlichen Anzeiger ist Aufgabe der Einwohnergemeinden und der gemischten Gemeinden.
+- a die amtlichen Anzeiger für die gedruckte Form,
+- b die über das Internet zugängliche Publikationsplattform für die elektronische Form.
+
+<sup>2</sup> Die Einwohnergemeinden und die gemischten Gemeinden verwenden ein amtliches Publikationsorgan gemäss Absatz 1, wobei sie den amtlichen Anzeiger (Bst. a) oder die Publikationsplattform (Bst. b) oder auch beide als ihre amtlichen Publikationsorgane bestimmen können.
+
+<sup>3</sup> Erfolgt die Veröffentlichung in beiden amtlichen Publikationsorganen, ist die Bekanntmachung in gedruckter Form massgebend.
+
+<sup>4</sup> Die zusätzliche Veröffentlichung von amtlichen Bekanntmachungen in weiteren Publikationsorganen ist zulässig, aber nicht massgebend.
+
+<sup>5</sup> Die amtlichen Bekanntmachungen der übrigen gemeinderechtlichen Körperschaften gemäss Artikel 2 Absatz 1 erfolgen in dem für die Einwohnergemeinden und die gemischten Gemeinden im betreffenden Gebiet massgebenden amtlichen Publikationsorgan. Die zusätzliche Veröffentlichung im anderen amtlichen Publikationsorgan und in weiteren Publikationsorganen ist zulässig.
 
 #### Art. 49c
 
-**Bezeichnung und Geltungsbereich der amtlichen Anzeiger**
+**Wirkung der Veröffentlichung und Einsichtnahme**
 
-<sup>1</sup> Jede Einwohnergemeinde und jede gemischte Gemeinde bezeichnet einen amtlichen Anzeiger als amtliches Publikationsorgan.
+<sup>1</sup> Der Inhalt der in den amtlichen Publikationsorganen veröffentlichten amtlichen Bekanntmachungen gilt als bekannt.
 
-<sup>2</sup> Die amtlichen Publikationsorgane der Burgergemeinden und der burgerlichen Korporationen sind die von den entsprechenden Einwohnergemeinden und gemischten Gemeinden bezeichneten amtlichen Anzeiger.
+<sup>2</sup> Die Gemeinden sorgen dafür, dass ihre amtlichen Bekanntmachungen des laufenden und des vorausgegangenen Jahres kostenlos eingesehen werden können.
 
-<sup>3</sup> Als amtliche Publikationsorgane der Kirchgemeinden und Gesamtkirchgemeinden der Landeskirchen, der Gemeindeverbände, der Unterabteilungen, der Schwellenkorporationen und der Regionalkonferenzen gelten die von den Einwohnergemeinden und gemischten Gemeinden im betreffenden Gebiet bezeichneten amtlichen Anzeiger.
+<sup>3–4</sup> …
 
-<sup>4</sup> Die Herausgabe eines gemeinsamen amtlichen Anzeigers für mehrere Gemeinden innerhalb derselben Verwaltungsregion ist zulässig.
+### 1.3a.1 Amtliche Anzeiger
 
 #### Art. 49d
 
-**Form**
+**Herausgabe und Vertrieb**
 
-<sup>1</sup> Die amtlichen Anzeiger werden in gedruckter Form herausgegeben.
+<sup>1</sup> Die Herausgabe der amtlichen Anzeiger ist Aufgabe der Einwohnergemeinden und der gemischten Gemeinden.
 
-<sup>2</sup> Sie können zusätzlich in elektronischer Form herausgegeben werden. Massgebend ist die gedruckte Form.
+<sup>2</sup> Die Einwohnergemeinden und die gemischten Gemeinden können gemeinsam einen amtlichen Anzeiger für mehrere Gemeinden derselben Verwaltungsregion herausgeben.
+
+<sup>3</sup> Die amtlichen Anzeiger können zusätzlich zum amtlichen einen nichtamtlichen Teil enthalten.
+
+<sup>4</sup> Sie sind allen Betrieben und Haushaltungen im Verteilgebiet mit Ausnahme von Ferien- und Zweitwohnungen kostenlos zuzustellen, wobei sie auch als lose Beilage zu einer Tages- oder Wochenzeitung vertrieben werden können.
 
 #### Art. 49e
 
 **Amtlicher Teil**
 
-<sup>1</sup> Im amtlichen Teil dürfen ausschliesslich amtliche Bekanntmachungen von Behörden im Sinn von Artikel 2 des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^49e-1], von Behörden der Landeskirchen sowie des Bundes veröffentlicht werden.
+<sup>1</sup> Im amtlichen Teil dürfen ausschliesslich amtliche Bekanntmachungen von Behörden im Sinn von Artikel 2 des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^49e-1] sowie des Bundes veröffentlicht werden.
 
-<sup>2</sup> Der Inhalt der in den amtlichen Anzeigern veröffentlichten amtlichen Bekanntmachungen gilt als bekannt.
+<sup>2</sup> …
 
 <sup>3</sup> Die Anzeigerträgerschaften regeln die Kosten für die Veröffentlichung von amtlichen Bekanntmachungen der Gemeinden.
 
 <sup>4</sup> Die Veröffentlichung von amtlichen Bekanntmachungen der Behörden der Landeskirchen, des Kantons und des Bundes erfolgt entgeltlich. Vorbehalten bleiben abweichende Regelungen der Anzeigerträgerschaften.
 
-[^49e-1]: BSG 155.21
+[^49e-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 49f
 
 **Nichtamtlicher Teil**
 
-<sup>1</sup> Die amtlichen Anzeiger dürfen einen nichtamtlichen Teil enthalten, der vom amtlichen Teil klar zu trennen ist.
+<sup>1</sup> Der nichtamtliche Teil ist vom amtlichen Teil klar zu trennen.
 
-<sup>2</sup> Verboten sind redaktionell aufbereitete meinungsbildende Textbeiträge und Kommentare sowie Inserate und übrige Textbeiträge, welche die öffentliche Ruhe und Ordnung gefährden, diskriminierend oder unsittlich sind.
+<sup>2</sup> Verboten sind meinungsbildende Textbeiträge und Kommentare sowie Inserate und übrige Textbeiträge, welche die öffentliche Ruhe und Ordnung gefährden, diskriminierend oder unsittlich sind.
 
-<sup>3</sup> Zulässig sind Textbeiträge der Gemeindebehörden, welche der Wahrnehmung ihres Informationsauftrages nach Informationsgesetz dienen.
+<sup>3</sup> Zulässig sind Textbeiträge der Gemeindebehörden, die der Wahrnehmung ihres Informationsauftrags gemäss dem Gesetz vom 2. November 1993 über die Information der Bevölkerung (Informationsgesetz; IG)[^49f-1] dienen.
 
 <sup>4</sup> Die Anzeigerträgerschaften legen die Kosten von Veröffentlichungen im nichtamtlichen Teil fest.
 
+[^49f-1]: BSG [107.1](https://www.belex.sites.be.ch/data/107.1/de)
+
 #### Art. 49g
 
-**Zustellungspflicht, Zugänglichkeit, Aufbewahrung**
-
-<sup>1</sup> Die amtlichen Anzeiger sind allen Betrieben und Haushaltungen im Verteilgebiet mit Ausnahme von Ferien- und Zweitwohnungen kostenlos zuzustellen.
-
-<sup>2</sup> Die Gemeinden sorgen dafür, dass ihre in den amtlichen Anzeigern veröffentlichten amtlichen Bekanntmachungen des laufenden und des vorausgegangenen Jahres von jeder Person kostenlos eingesehen werden können.
-
-<sup>3</sup> Die Einwohnergemeinden und gemischten Gemeinden bezeichnen die Stellen, welche die amtlichen Teile der von ihnen bezeichneten amtlichen Anzeiger dauerhaft aufzubewahren haben.
+**…**
 
 #### Art. 49h
 
-**Vertrieb und Beilagen**
+**Beilagen**
 
-<sup>1</sup> Die amtlichen Anzeiger können als lose Beilage zu einer Tages- oder Wochenzeitung vertrieben werden. Artikel 49g Absatz 1 gilt sinngemäss.
+<sup>1</sup> Die amtlichen Anzeiger dürfen lose Beilagen enthalten.
 
-<sup>2</sup> Die amtlichen Anzeiger dürfen lose Beilagen enthalten. Für diese gelten die inhaltlichen Vorschriften wie für den nichtamtlichen Teil gemäss Artikel 49f Absatz 2. Zulässig sind Textbeiträge der Gemeindebehörden, welche der Wahrnehmung ihres Informationsauftrages nach Informationsgesetz dienen, sowie Kulturbeilagen.
+<sup>2</sup> Für diese gelten die inhaltlichen Vorschriften des nichtamtlichen Teils gemäss Artikel 49f Absätze 2 und 3.
+
+### 1.3a.2 Über das Internet zugängliche Publikationsplattform
+
+#### Art. 49i
+
+<sup>1</sup> Amtliche Bekanntmachungen in elektronischer Form erfolgen auf einer über das Internet zugänglichen Publikationsplattform. Die Gemeinden bestimmen die Plattformen und streben eine kantonal einheitliche Lösung an.
 
 ### 1.4 Rechtsetzung
 
@@ -1605,7 +1620,7 @@ beschliesst:
 <sup>1</sup> Die Regionalversammlung ist abschliessend zuständig für
 
 - a die in der besonderen Gesetzgebung bezeichneten Gegenstände,
-- b die Genehmigung des Voranschlags, der Jahresrechnung und der Verpflichtungskredite,
+- b die Genehmigung des Budgets, der Jahresrechnung und der Verpflichtungskredite,
 - c die Wahl der Geschäftsleitung, der Kommissionen und des Kontrollorgans,
 - d die Einsetzung der Geschäftsstelle, sofern das Geschäftsreglement keine abweichende Regelung enthält.
 
@@ -1880,6 +1895,12 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Die Änderung der Artikel 126 Absatz 1 und 2 sowie 129 Absatz 1 sind erst ab dem 1. Januar 2020 anwendbar.
+
+## T2 Übergangsbestimmung der Änderung vom 08.12.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Für Gemeinden, die am 1. Januar 2023 gemeinsam einen amtlichen Anzeiger innerhalb derselben Verwaltungsregion herausgeben, ist diese Änderung frühestens ab dem 1. Januar 2025 anwendbar, ausser das zuständige Organ der gemeinsamen Anzeiger-Organisation beschliesst mit Mehrheitsbeschluss, wie er für die Auflösung der betreffenden Organisation erforderlich wäre, dass dessen Mitgliedsgemeinden diese Änderung bereits vorher anwenden dürfen.
 
 Bern, 16. März 1998
 

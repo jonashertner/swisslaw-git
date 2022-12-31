@@ -4,13 +4,13 @@ number: "170.11"
 title: Loi sur les communes
 short: LCo
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-08
 adopted: 1998-03-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2518/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2634/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2518/pdf_file"
 
 (LCo)
 
-du 16.03.1998 (état au 01.11.2020)
+du 16.03.1998 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -192,9 +192,9 @@ arrête:
 
 <sup>2</sup> Pour l’octroi d’une contribution exceptionnelle, les compétences en matière d’autorisation de dépenses du peuple sont déléguées au Grand Conseil.
 
-<sup>3</sup> L’éventuelle contribution exceptionnelle est octroyée en plus de l’aide financière au sens de la loi du 25 novembre 2004 sur l’encouragement des fusions de communes (loi sur les fusions de communes, LFCo)[^4l-1] et est portée à la charge du compte de fonctionnement.
+<sup>3</sup> L’éventuelle contribution exceptionnelle est octroyée en plus de l’aide financière au sens de la loi du 25 novembre 2004 sur l’encouragement des fusions de communes (loi sur les fusions de communes, LFCo)[^4l-1] et est portée à la charge du compte de résultats.
 
-[^4l-1]: RSB 170.12
+[^4l-1]: RSB [170.12](https://www.belex.sites.be.ch/data/170.12/fr)
 
 ### 1.2 Coopération intercommunale
 
@@ -693,79 +693,94 @@ arrête:
 
 <sup>3</sup> Quiconque contrevient à l’obligation de contester sans délai perd le droit de recourir ultérieurement contre les élections et arrêtés concernés.
 
-### 1.3a Feuilles officielles d'avis
+### 1.3a Communications officielles
 
 #### Art. 49b
 
-**Principe**
+**Principes**
 
-<sup>1</sup> Les feuilles officielles d’avis sont les organes de publication officiels des communes.
+<sup>1</sup> Les organes de publication officiels pour les communications officielles des communes sont​
 
-<sup>2</sup> La publication des feuilles officielles d’avis incombe aux communes municipales et aux communes mixtes.
+- a les feuilles officielles d’avis pour la forme imprimée,
+- b la plateforme de publication accessible par Internet pour la forme électronique.
+
+<sup>2</sup> Les communes municipales et les communes mixtes recourent à un organe de publication officiel, conformément à l’alinéa 1, en désignant leur feuille officielle d’avis (lit. a) ou la plateforme de publication (lit. b) ou encore les deux organes comme organes de publication officiels.
+
+<sup>3</sup> Si la publication a lieu dans les deux organes de publication officiels, la communication sous forme imprimée fait foi.
+
+<sup>4</sup> La publication supplémentaire des communications officielles dans d’autres organes de publication est admissible, mais non déterminante.
+
+<sup>5</sup> Les communications officielles des autres collectivités de droit communal au sens de l’article 2, alinéa 1 ont lieu dans l’organe de publication officiel déterminant pour le périmètre concernant les communes municipales et les communes mixtes. La parution supplémentaire dans l’autre organe de publication officiel et d’autres organes de publication est admise.
 
 #### Art. 49c
 
-**Désignation et périmètre de diffusion des feuilles officielles d’avis**
+**Effet de la publication et consultation**
 
-<sup>1</sup> Chaque commune municipale et chaque commune mixte désigne une feuille officielle d’avis en tant qu’organe de publication officiel.
+<sup>1</sup> Le contenu des communications officielles qui paraît dans les organes de publication officiels est réputé connu.
 
-<sup>2</sup> Les organes de publication officiels des communes bourgeoises et des corporations bourgeoises sont les feuilles officielles d’avis désignées par les communes municipales et les communes mixtes correspondantes.
+<sup>2</sup> Les communes veillent à ce que toute personne puisse consulter gratuitement les communications officielles qu’elles ont publiées pendant l’année en cours et l’année précédente.
 
-<sup>3</sup> Les organes de publication officiels des paroisses et des paroisses générales des Eglises nationales, des syndicats de communes, des sections de communes, des corporations de digues et des conférences régionales sont les feuilles officielles d’avis désignées par les communes municipales et les communes mixtes dans le périmètre concerné.
+<sup>3–4</sup> …
 
-<sup>4</sup> Plusieurs communes sises dans une même région administrative peuvent publier conjointement une seule feuille officielle d’avis.
+### 1.3a.1 Feuilles officielles d'avis
 
 #### Art. 49d
 
-**Forme**
+**Publication et distribution**
 
-<sup>1</sup> Les feuilles officielles d’avis sont publiées sous forme imprimée.
+<sup>1</sup> La publication des feuilles officielles d’avis incombe aux communes municipales et aux communes mixtes.
 
-<sup>2</sup> Elles peuvent en outre être publiées sous forme électronique. La version imprimée fait foi.
+<sup>2</sup> Les communes municipales et les communes mixtes peuvent publier conjointement une seule feuille officielle d’avis pour plusieurs communes d'une même région administrative.
+
+<sup>3</sup> Les feuilles officielles d’avis peuvent contenir, en plus de la partie officielle, une partie non officielle.
+
+<sup>4</sup> Elles sont envoyées gratuitement à toutes les entreprises et à tous les ménages du périmètre de diffusion, exception faite des appartements de vacances ou des résidences secondaires. Elles peuvent aussi être diffusées sous forme d’encarts volants insérés dans des quotidiens ou des hebdomadaires.
 
 #### Art. 49e
 
 **Partie officielle**
 
-<sup>1</sup> La partie officielle ne peut contenir que des communications officielles des autorités au sens de l’article 2 de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^49e-1], des autorités des Eglises nationales ainsi que des autorités fédérales.
+<sup>1</sup> La partie officielle ne peut contenir que des communications officielles des autorités au sens de l’article 2 de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^49e-1] et des autorités fédérales.
 
-<sup>2</sup> Le contenu des communications officielles publiées dans les feuilles officielles d’avis est réputé connu.
+<sup>2</sup> …
 
 <sup>3</sup> Les organismes responsables des feuilles officielles d’avis règlent la question des frais de publication des communications officielles des communes.
 
 <sup>4</sup> Les communications officielles des autorités des Eglises nationales, du canton et de la Confédération sont publiées à titre onéreux. Les réglementations dérogatoires des organismes responsables des feuilles officielles d’avis sont réservées.
 
-[^49e-1]: RSB 155.21
+[^49e-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 #### Art. 49f
 
 **Partie non officielle**
 
-<sup>1</sup> Les feuilles officielles d’avis peuvent contenir une partie non officielle qui doit être clairement séparée de la partie officielle.
+<sup>1</sup> ​La partie non officielle doit être clairement séparée de la partie officielle.
 
-<sup>2</sup> Les contributions rédactionnelles et commentaires formateurs d'opinion ainsi que les annonces et autres contributions qui mettent en danger l’ordre public, sont discriminatoires ou portent atteinte à la morale sont exclus.
+<sup>2</sup> Les contributions et les commentaires formateurs d'opinion ainsi que les annonces et autres contributions qui mettent en danger l’ordre public, sont discriminatoires ou portent atteinte à la morale sont exclus.
 
-<sup>3</sup> Les contributions des communes qui servent à l’accomplissement de leur devoir d’information au sens de la loi sur l’information du public sont admises.
+<sup>3</sup> Les contributions des autorités communales qui servent à l’accomplissement de leur devoir d’information au sens de la loi du 2 novembre 1993 sur l’information du public (loi sur l’information; LIn)[^49f-1] sont admises.
 
 <sup>4</sup> Les organismes responsables des feuilles officielles d’avis déterminent les frais de publication dans la partie non officielle.
 
+[^49f-1]: RSB [107.1](https://www.belex.sites.be.ch/data/107.1/fr)
+
 #### Art. 49g
 
-**Obligation de diffusion, accessibilité, conservation**
-
-<sup>1</sup> Les feuilles officielles d’avis sont envoyées gratuitement à toutes les entreprises et à tous les ménages du périmètre de diffusion, exception faite des appartements de vacances ou des résidences secondaires.
-
-<sup>2</sup> Les communes veillent à ce que toute personne puisse consulter gratuitement les communications officielles qu’elles ont publiées dans les feuilles officielles d’avis pendant l’année en cours et l’année précédente.
-
-<sup>3</sup> Les communes municipales et les communes mixtes désignent les services tenus de conserver durablement les parties officielles des feuilles officielles d’avis les concernant.
+**…**
 
 #### Art. 49h
 
-**Diffusion et encarts**
+**Encarts**
 
-<sup>1</sup> Les feuilles officielles d’avis peuvent être diffusées sous forme d’encarts volants insérés dans des quotidiens ou des hebdomadaires. L’article 49g, alinéa 1 est applicable par analogie.
+<sup>1</sup> Les feuilles officielles d’avis peuvent contenir des encarts volants.
 
-<sup>2</sup> Les feuilles officielles d’avis peuvent contenir des encarts volants. Ces encarts sont régis par les mêmes règles que la partie non officielle des feuilles officielles d’avis conformément à l’article 49f, alinéa 2. Les contributions des communes qui servent à l’accomplissement de leur devoir d’information au sens de la loi sur l’information du public, ainsi que les cahiers consacrés à la culture, sont admis.
+<sup>2</sup> Ces encarts sont régis par les mêmes règles que la partie non officielle des feuilles officielles d’avis conformément à l'article 49f, alinéas 2 et 3.
+
+### 1.3a.2 Plateforme de publication accessible par Internet
+
+#### Art. 49i
+
+<sup>1</sup> Les communications officielles sous forme électronique ont lieu sur une plateforme de publication accessible par Internet. Les communes désignent les plateformes et visent une solution uniforme au niveau cantonal.
 
 ### 1.4 Compétences législatives
 
@@ -1608,7 +1623,7 @@ arrête:
 <sup>1</sup> L'assemblée régionale est seule compétente pour
 
 - a les objets mentionnés dans la législation spéciale,
-- b l'approbation du budget, du compte annuel et des crédits d'engagement,
+- b l'approbation du budget, des comptes annuels et des crédits d'engagement,[^146-1]
 - c l'élection du directoire, des commissions et de l'organe de contrôle,
 - d la constitution du secrétariat, sauf disposition contraire du règlement d'organisation.
 
@@ -1624,6 +1639,8 @@ arrête:
 <sup>4</sup> Elle peut autoriser le directoire et les commissions à édicter des ordonnances.
 
 <sup>5</sup> L'assemblée régionale arrête les décisions pour autant que cette compétence ne soit pas attribuée à un autre organe par des prescriptions de la Confédération, du canton ou de la conférence régionale.
+
+[^146-1]: Rectifiée par la Commission de rédaction le 1<sup>er</sup> juillet 2022 en application de l’article 25 de la loi sur les publications officielles.
 
 #### Art. 147
 
@@ -1879,6 +1896,12 @@ arrête:
 #### Art. T1-1
 
 <sup>1</sup> La modification des articles 126, alinéas 1 et 2 et 129, alinéa 1 ne sont applicables qu'au 1<sup>er</sup> janvier 2020.
+
+## T2 Disposition transitoire de la modification du 08.12.2021
+
+#### Art. T2-1
+
+<sup>1</sup> Pour les communes qui, au 1<sup>er</sup> janvier 2023, publient conjointement une feuille officielle d’avis à l’intérieur de la même région administrative, la présente modification est applicable au plus tôt au 1<sup>er</sup> janvier 2025 à moins que l’organe compétent de l’organisation de la feuille d’avis conjointe ne décide, à la majorité, comme cela serait requis pour la dissolution de l'organisation concernée, que les communes affiliées peuvent déjà mettre en œuvre la présente modification avant cette date.
 
 Berne, 16 mars 1998
 
