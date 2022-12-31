@@ -4,13 +4,12 @@ number: "152.221.181"
 title: "Ordonnance sur l'organisation et les tâches de la Direction de l'instruction publique et de la culture *"
 short: "Ordonnance d'organisation INC, OO INC"
 language: fr
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2585/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2726/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2585/pdf_file"
 
 (Ordonnance d'organisation INC, OO INC)
 
-du 27.11.2002 (état au 01.05.2022)
+du 27.11.2002 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -141,7 +140,9 @@ arrête:
 - c coordonne l'activité des offices, leur assigne les dossiers, désigne l'office responsable des travaux intéressant plusieurs offices et traite les dossiers qui ne relèvent de la compétence d'aucun d'entre eux ou d'aucune autre unité administrative;
 - d surveille la préparation des affaires parlementaires et pourvoit à leur exécution;
 - e assure la liaison avec le Conseil-exécutif, la Chancellerie d'Etat et les Directions et s'occupe de l'établissement des corapports en collaboration avec les offices;
-- f fournit, en collaboration avec les autres unités administratives compétentes pour l'ensemble du canton, un soutien dans les domaines de la communication, de l'égalité, des finances et du controlling, de la gestion des ressources humaines, de la planification et de la coordination des constructions, de la coordination intercantonale ainsi que dans les questions générales de planification et d'organisation de la Direction de l'instruction publique et de la culture;
+- f est responsable, en collaboration avec les autres unités administratives compétentes pour l'ensemble du canton,
+  - 1\. du soutien dans les domaines de la communication, de l'égalité, de la gestion des ressources humaines, de la planification et de la coordination des constructions, de la coordination intercantonale ainsi que dans les questions générales de planification et d'organisation de la Direction de l'instruction publique et de la culture;
+  - 2\. des finances et de la comptabilité de la Direction de l'instruction publique et de la culture, y compris du controlling de la Direction, de la planification, du compte rendu et de la clôture des comptes annuels, pour autant que certaines tâches ne soient pas déléguées à un office;
 - g ...
 - h assure le conseil juridique de la Direction et des offices qui ne disposent pas de leur propre service juridique;
 - i instruit les procédures administratives et de recours à l’intention du Conseil-exécutif et de la Direction et représente ceux-ci dans les affaires relevant de la Direction de l’instruction publique et de la culture devant les autorités de justice;
@@ -192,6 +193,8 @@ arrête:
 
 <sup>3</sup> …
 
+<sup>4</sup> Il est responsable de la tenue des comptes dans son domaine d'activité et de certaines tâches relatives à la tenue des comptes dans le domaine d'activité de l'ensemble de la Direction de l’instruction publique et de la culture, qui lui sont attribuées par le Secrétariat général.
+
 #### Art. 12
 
 **Office de l'enseignement supérieur (OENS)**
@@ -233,8 +236,8 @@ arrête:
 - b est responsable du traitement des salaires versés au corps enseignant des communes ainsi qu'au corps enseignant et au personnel des écoles moyennes et des écoles et institutions de la formation professionnelle, pour autant que cette tâche ne soit pas déléguée à un autre office ou à une autre unité administrative;
 - c est responsable des autres prestations intéressant le personnel, pour autant que cette tâche ne soit pas déléguée à un autre office ou à une autre unité administrative;
 - d est responsable de la répartition des charges pour les traitements du corps enseignant;
-- e gère les finances et la comptabilité des offices et du Secrétariat général, pour autant que cette tâche ne soit pas déléguée à un autre office ou à une autre unité administrative;
-- f coordonne la clôture des comptes annuelle de la Direction et veille à l'établissement correct de la comptabilité;
+- e est responsable de la tenue des comptes de la Direction de l'instruction publique et de la culture, pour autant que cette tâche ne soit pas déléguée à un autre office;
+- f …
 - g est responsable de l'infrastructure et de la logistique, pour autant que cette tâche ne soit pas déléguée à un autre office ou à une autre unité administrative;
 - h fournit des prestations informatiques aux écoles de la scolarité obligatoire.
 

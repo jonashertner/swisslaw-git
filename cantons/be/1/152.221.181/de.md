@@ -4,13 +4,12 @@ number: "152.221.181"
 title: Verordnung über die Organisation und die Aufgaben der Bildungs- und Kulturdirektion
 short: "Organisationsverordnung BKD, OrV BKD"
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 2002-11-27
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.181"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2585/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2726/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2585/pdf_file"
 
 (Organisationsverordnung BKD, OrV BKD)
 
-vom 27.11.2002 (Stand 01.05.2022)
+vom 27.11.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -141,7 +140,9 @@ beschliesst:
 - c koordiniert die Tätigkeit der Ämter, weist die Geschäfte den einzelnen Ämtern zu, legt für solche, die mehrere Ämter betreffen, die Federführung fest und behandelt diejenigen, für die kein Amt oder keine andere Organisationseinheit zuständig ist,
 - d überwacht die Vorbereitung und den Vollzug der parlamentarischen Geschäfte,
 - e vermittelt den Verkehr mit dem Regierungsrat, der Staatskanzlei und den Direktionen und betreut unter Beizug der Ämter das Mitberichtsverfahren,
-- f ist in Zusammenarbeit mit den gesamtkantonal zuständigen Organisationseinheiten verantwortlich für die Unterstützung in den Bereichen Kommunikation, Gleichstellung, Finanzen und Controlling, Personalmanagement, Bauplanung und Koordination, interkantonale Koordination sowie für allgemeine Planungs- und Organisationsfragen der Bildungs- und Kulturdirektion,
+- f ist in Zusammenarbeit mit den gesamtkantonal zuständigen Organisationseinheiten verantwortlich für
+  - 1\. die Unterstützung in den Bereichen Kommunikation, Gleichstellung, Personalmanagement, Bauplanung und Koordination, interkantonale Koordination sowie allgemeine Planungs- und Organisationsfragen der Bildungs- und Kulturdirektion,
+  - 2\. das Finanz- und Rechnungswesen der Bildungs- und Kulturdirektion einschliesslich Direktionscontrolling, Planung, Berichterstattung und Abschluss der Jahresrechnung, soweit einzelne Aufgaben nicht einem Amt übertragen sind,
 - g ...
 - h besorgt die rechtliche Beratung der Direktion und derjenigen Ämter, die über keinen eigenen Rechtsdienst verfügen,
 - i instruiert die Verwaltungs- und Beschwerdeverfahren zuhanden des Regierungsrates und der Direktion und vertritt die Direktion sowie den Regierungsrat im Geschäftsbereich der Bildungs- und Kulturdirektion vor den Justizbehörden,
@@ -192,6 +193,8 @@ beschliesst:
 
 <sup>3</sup> …
 
+<sup>4</sup> Es ist verantwortlich für die Rechnungsführung in seinem Aufgabenbereich und für einzelne, vom Generalsekretariat zugewiesene Teilaufgaben der Rechnungsführung im Aufgabenbereich der gesamten Bildungs- und Kulturdirektion.
+
 #### Art. 12
 
 **Amt für Hochschulen (AH)**
@@ -233,8 +236,8 @@ beschliesst:
 - b ist verantwortlich für die Verarbeitung der Gehälter der kommunalen Lehrkräfte sowie der Lehrkräfte und des Personals der Mittelschulen und der Schulen und Institutionen der Berufsbildung, soweit diese Aufgabe nicht einem Amt oder einer anderen Organisationseinheit übertragen ist,
 - c ist verantwortlich für weitere Personaldienstleistungen, soweit diese Aufgabe nicht einem Amt oder einer anderen Organisationseinheit übertragen ist,
 - d ist verantwortlich für den Lastenausgleich Lehrergehälter,
-- e betreut und unterstützt das Finanz- und Rechnungswesen der Ämter und des Generalsekretariats, soweit diese Aufgabe nicht einem Amt oder einer anderen Organisationseinheit übertragen ist,
-- f koordiniert den Jahresabschluss der Direktion und stellt die fachtechnisch korrekte Rechnungsführung sicher,
+- e ist verantwortlich für die Rechnungsführung der Bildungs- und Kulturdirektion, soweit diese Aufgabe nicht einem anderen Amt übertragen ist,
+- f …
 - g ist verantwortlich für die Infrastruktur und die Logistik, soweit diese Aufgabe nicht einem Amt oder einer anderen Organisationseinheit übertragen ist,
 - h bietet Informatikdienstleistungen für das Volksschulwesen an.
 
