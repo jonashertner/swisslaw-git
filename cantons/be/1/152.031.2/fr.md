@@ -4,13 +4,12 @@ number: "152.031.2"
 title: Loi sur la société anonyme Bedag Informatique
 short: "Loi sur la Bedag, LBI"
 language: fr
-version: 2003-01-01
-valid_until: 2022-12-31
-version_adopted: 2002-06-05
+version: 2023-01-01
+version_adopted: 2022-03-07
 adopted: 2002-06-05
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.031.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/51/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2685/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/51/pdf_file"
 
 (Loi sur la Bedag, LBI)
 
-du 05.06.2002 (état au 01.01.2003)
+du 05.06.2002 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -101,9 +100,9 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif exerce les droits et assume les obligations du canton envers la Bedag Informatique conformément au droit des sociétés anonymes.
 
-<sup>2</sup> La surveillance du Contrôle des finances est régie par les dispositions de la loi cantonale du 1er décembre 1999 sur le Contrôle des finances (LCCF)[^9-1].
+<sup>2</sup> La surveillance du Contrôle des finances est régie par la loi cantonale du 7 mars 2022 sur le Contrôle des finances (LCCF)[^9-1].
 
-[^9-1]: RSB 622.1
+[^9-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 
 #### Art. 10
 

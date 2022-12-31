@@ -4,13 +4,12 @@ number: "152.031.2"
 title: Gesetz über die Aktiengesellschaft Bedag Informatik
 short: "Bedag-Gesetz, BIG"
 language: de
-version: 2003-01-01
-valid_until: 2022-12-31
-version_adopted: 2002-06-05
+version: 2023-01-01
+version_adopted: 2022-03-07
 adopted: 2002-06-05
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.031.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/51/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/51/pdf_file"
 
 (Bedag-Gesetz, BIG)
 
-vom 05.06.2002 (Stand 01.01.2003)
+vom 05.06.2002 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -101,9 +100,9 @@ beschliesst:
 
 <sup>1</sup> Die dem Kanton gegenüber der Bedag Informatik zustehenden Rechte und Pflichten werden im Rahmen des Aktienrechts durch den Regierungsrat wahrgenommen.
 
-<sup>2</sup> Die Aufsicht der Finanzkontrolle richtet sich nach dem Gesetz vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^9-1].
+<sup>2</sup> Die Aufsicht der Finanzkontrolle richtet sich nach dem Kantonalen Finanzkontrollgesetz vom 7. März 2022 (KFKG)[^9-1].
 
-[^9-1]: BSG 622.1
+[^9-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 
 #### Art. 10
 
