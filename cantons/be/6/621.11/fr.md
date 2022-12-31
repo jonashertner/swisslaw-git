@@ -3,30 +3,29 @@ canton: BE
 number: "621.11"
 title: Ordonnance sur le compte spécial du Conseil-exécutif
 language: fr
-version: 2018-07-01
-valid_until: 2022-12-31
-version_adopted: 2018-05-23
+version: 2023-01-01
+version_adopted: 2022-11-16
 adopted: 2004-03-24
 in_force: 2005-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/621.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1463/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2735/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le compte spécial du Conseil-exécutif
 
-du 24.03.2004 (état au 01.07.2018)
+du 24.03.2004 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu l’article 36, alinéa 2 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^ingress-1],
+vu l’article 55, alinéa 2 de la loi du 15 juin 2022 sur les finances (LFin)[^ingress-1],
 
 sur proposition de la Chancellerie d’Etat,
 
 arrête:
 
-[^ingress-1]: RSB 620.0
+[^ingress-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 1
 
@@ -34,7 +33,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif du canton de Berne tient un compte spécial, qui consiste en une comptabilité financière et une comptabilité des immobilisations.
 
-<sup>2</sup> La législation sur le pilotage des finances et des prestations est applicable par analogie, sauf disposition contraire ci-après.
+<sup>2</sup> La législation sur les finances est applicable par analogie, sauf disposition contraire ci-après.
 
 #### Art. 2
 
@@ -69,7 +68,7 @@ arrête:
 
 **Report de crédit**
 
-<sup>1</sup> Le Conseil-exécutif peut reporter une seule fois les crédits budgétaires non utilisés sur l’exercice suivant, selon les critères définis à l’article 56 LFP.
+<sup>1</sup> Le Conseil-exécutif peut reporter une seule fois les crédits budgétaires non utilisés sur l’exercice suivant, selon les critères définis à l’article 12 LFin.
 
 <sup>2</sup> …
 
@@ -77,12 +76,11 @@ arrête:
 
 **Comptabilité des immobilisations**
 
-<sup>1</sup> Le Conseil-exécutif tient une comptabilité des immobilisations au sens de l’article 26 LFP[^7-1].
+<sup>1</sup> Le Conseil-exécutif tient une comptabilité des immobilisations au sens de l’article 67 de l'ordonnance du 16 novembre 2022 sur les finances (OFin)[^7-1].
 
-<sup>2</sup> Les articles 107 à 111 OFP[^7-2] s’appliquent par analogie.
+<sup>2</sup> Les articles 68 et 69 OFin s’appliquent par analogie.
 
-[^7-1]: RSB 620.0
-[^7-2]: RSB 621.1
+[^7-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 #### Art. 8
 
