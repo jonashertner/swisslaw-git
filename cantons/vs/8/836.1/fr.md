@@ -5,12 +5,12 @@ title: "Loi d'application de la loi fédérale sur les allocations familiales"
 short: LALAFam
 language: fr
 version: 2023-01-01
-valid_until: 2024-12-31
+corrected: 2022-12-19
 version_adopted: 2020-03-13
 adopted: 2008-09-11
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/836.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3207/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3108/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -322,11 +322,11 @@ ordonne:[^ingress-1]
 
 <sup>5</sup> Toute augmentation future des contributions due à des adaptations non prévues ou supérieures aux montants minimums fixés au niveau fédéral est prise en charge paritairement entre les employeurs et les salariés.
 
-<sup>6</sup> Les frais d'administration des caisses, compris dans le taux de contribution, ne doivent pas dépasser 0,4 pour cent des salaires.
+<sup>6</sup> Les frais d'administration des caisses, compris dans le taux de contribution, ne doivent pas dépasser 0.4 pour cent des salaires.
 
 <sup>7</sup> La contribution au Fonds pour la famille est prélevée en plus des contributions selon l'alinéa 2.
 
-<sup>8</sup> Les caisses sont habilitées à encaisser en sus la contribution de formation à prélever auprès des employeurs et des employés pour le Fonds cantonal en faveur de la formation professionnelle.
+<sup>8</sup> Les caisses sont habilitées à encaisser en sus la contribution de formation à prélever auprès des employeurs pour le Fonds cantonal en faveur de la formation professionnelle.
 
 <sup>9</sup> Les caisses d'allocations familiales peuvent encaisser d'autres contributions pour leurs associations professionnelles.
 

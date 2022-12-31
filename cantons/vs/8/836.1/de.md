@@ -5,12 +5,12 @@ title: Ausführungsgesetz zum Bundesgesetz über die Familienzulagen
 short: AGFamZG
 language: de
 version: 2023-01-01
-valid_until: 2024-12-31
+corrected: 2022-12-19
 version_adopted: 2020-03-13
 adopted: 2008-09-11
 in_force: 2009-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/836.1"
-pdf: "https://lex.vs.ch/api/de/versions/3207/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3108/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -33,7 +33,7 @@ auf Antrag des Staatsrates,
 
 verordnet:[^ingress-1]
 
-[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
+[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
 ## 1 Allgemeine Bestimmungen
 
@@ -322,11 +322,11 @@ verordnet:[^ingress-1]
 
 <sup>5</sup> Jede Beitragserhöhung aufgrund von Anpassungen, die entweder nicht vorgesehen waren oder über den vom Bund vorgesehenen Minimalbeträgen liegen, wird von Arbeitgebern und -nehmern paritätisch übernommen.
 
-<sup>6</sup> Die Verwaltungskosten der Kassen, welche im Beitragssatz enthalten sind, dürfen 0,4 Prozent der Löhne nicht übersteigen.
+<sup>6</sup> Die Verwaltungskosten der Kassen, welche im Beitragssatz enthalten sind, dürfen 0.4 Prozent der Löhne nicht übersteigen.
 
 <sup>7</sup> Der Beitrag an den Familienfonds wird zusätzlich zu den Beiträgen von Absatz 2 erhoben.
 
-<sup>8</sup> Die Kassen sind befugt, bei den Arbeitgebern und den Arbeitnehmern zusätzlich den Ausbildungsbeitrag für den Kantonalen Berufsbildungsfonds zu erheben.
+<sup>8</sup> Die Kassen sind befugt, bei den Arbeitgebern zusätzlich den Ausbildungsbeitrag für den kantonalen Berufsbildungsfonds zu erheben.
 
 <sup>9</sup> Die Familienzulagekassen können zugunsten ihrer Berufsverbände weitere Beiträge erheben.
 
