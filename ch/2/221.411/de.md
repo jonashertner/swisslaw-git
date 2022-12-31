@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,21 +17,21 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 1. Januar 2022)
+vom 17. Oktober 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 933 Absatz 2, 943 und 950 Absatz 2 des Obligationenrechts (OR)[^ingress-1] sowie auf Artikel 102 Buchstabe a des Fusionsgesetzes vom 3. Oktober 2003[^ingress-2] (FusG),[^ingress-3]
+gestützt auf die Artikel 621 Absatz 2, 933 Absatz 2, 943 und 950 Absatz 2 des Obligationenrechts (OR)[^ingress-1] sowie auf Artikel 102 Buchstabe a des Fusionsgesetzes vom 3. Oktober 2003[^ingress-2] (FusG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^ingress-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ## 1. Titel: Allgemeine Bestimmungen
 
-### 1. Kapitel:**** Gegenstand und Begriffe
+### 1. Kapitel: Gegenstand und Begriffe
 
 [^tit1-chap1-1]
 
@@ -225,7 +225,7 @@ Die Statuten, Stiftungsurkunden, weiteren Belege und Anmeldungen, die im Interne
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
-### 5. Kapitel:**** Beglaubigungen durch das Handelsregisteramt
+### 5. Kapitel: Beglaubigungen durch das Handelsregisteramt
 
 [^tit1-chap5-1]
 
@@ -249,7 +249,7 @@ Das Handelsregisteramt bringt auf beglaubigten Kopien auf Papier den Hinweis an:
 [^12a-1]: Eingefügt durch Anhang Ziff. II 4 der V vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen, in Kraft seit 1. Febr. 2018 ([AS 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^12a-2]: [SR 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
-### 6. Kapitel:**** Elektronischer Geschäftsverkehr
+### 6. Kapitel: Elektronischer Geschäftsverkehr
 
 [^tit1-chap6-1]
 
@@ -293,7 +293,7 @@ Elektronische Eingaben an die Handelsregisterämter können neben den Zustellpla
 
 Die Bestimmungen dieses Kapitels finden entsprechend Anwendung auf die Zustellung von beglaubigten elektronischen Auszügen aus dem Tages- oder Hauptregister.
 
-### 7. Kapitel:**** Zentrale Datenbanken
+### 7. Kapitel: Zentrale Datenbanken
 
 [^tit1-chap7-1]
 
@@ -336,7 +336,7 @@ Das EJPD bestimmt:
 
 ### 1. Kapitel: Anmeldung und Belege
 
-### 1. Abschnitt: Anmeldung****
+### 1. Abschnitt: Anmeldung
 
 [^tit2-chap1-sec1-1]
 
@@ -418,7 +418,7 @@ Folgende Eintragungen können zudem die betroffenen Personen selbst anmelden:
 
 [^19-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### 2. Abschnitt: Belege****
+### 2. Abschnitt: Belege
 
 [^tit2-chap1-sec2-1]
 
@@ -487,7 +487,27 @@ Ins Handelsregister wird als Datum der Stiftungsurkunde der Tag eingetragen, an 
 
 <sup>3</sup> Werden die Statuten oder die Stiftungsurkunde geändert oder angepasst, so muss dem Handelsregisteramt eine vollständige neue Fassung der Statuten oder der Stiftungsurkunde eingereicht werden.
 
-<sup>4</sup> Die Statuten von Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung, Investmentgesellschaften mit festem Kapital und Investmentgesellschaften mit variablem Kapital sowie die Stiftungsurkunde müssen von einer Urkundsperson beglaubigt werden. Die Statuten von Genossenschaften und Vereinen müssen von einem Mitglied der Verwaltung beziehungsweise des Vorstandes unterzeichnet sein.
+<sup>4</sup>
+
+Die folgenden Dokumente müssen von einer Urkundsperson beglaubigt werden:
+
+- a.
+
+  die Statuten von:
+
+  - 1\. Aktiengesellschaften,
+  - 2\. Kommanditaktiengesellschaften,
+  - 3\. Gesellschaften mit beschränkter Haftung,
+  - 4\. Genossenschaften,
+  - 5\. Investmentgesellschaften mit festem Kapital,
+  - 6\. Investmentgesellschaften mit variablem Kapital;
+
+- b. Stiftungsurkunden.[^22-1]
+
+<sup>5</sup> Die Statuten von Vereinen müssen von einem Mitglied des Vorstandes unterzeichnet sein.[^22-2]
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^22-2]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 23
 
@@ -503,7 +523,7 @@ Ins Handelsregister wird als Datum der Stiftungsurkunde der Tag eingetragen, an 
 
 **Bestehen von Rechtseinheiten**
 
-<sup>1</sup> Nimmt eine einzutragende Tatsache auf eine im schweizerischen Handelsregister eingetragene Rechtseinheit Bezug, so muss deren Bestehen nicht belegt werden. Das mit der Eintragung dieser Tatsache betraute Handelsregisteramt überprüft das Beste-hen der Rechtseinheit durch Einsichtnahme in die kantonale Handelsregisterdatenbank.[^24-1]
+<sup>1</sup> Nimmt eine einzutragende Tatsache auf eine im schweizerischen Handelsregister eingetragene Rechtseinheit Bezug, so muss deren Bestehen nicht belegt werden. Das mit der Eintragung dieser Tatsache betraute Handelsregisteramt überprüft das Bestehen der Rechtseinheit durch Einsichtnahme in die kantonale Handelsregisterdatenbank.[^24-1]
 
 <sup>2</sup> Das Bestehen einer Rechtseinheit, die nicht im schweizerischen Handelsregister eingetragen ist, muss durch einen aktuellen beglaubigten Auszug aus dem ausländischen Handelsregister oder durch eine gleichwertige Urkunde belegt werden.
 
@@ -801,32 +821,36 @@ Bei der Auflösung der Gesellschaft müssen ins Handelsregister eingetragen werd
 
 <sup>1</sup>
 
-Mit der Anmeldung der Gründung einer Aktiengesellschaft zur Eintragung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+Mit der Anmeldung zur Eintragung der Gründung einer Aktiengesellschaft müssen dem Handelsregisteramt folgende Belege eingereicht werden:[^43-1]
 
 - a. die öffentliche Urkunde über den Errichtungsakt;
 - b. die Statuten;
 - c. ein Nachweis, dass die Mitglieder des Verwaltungsrates ihre Wahl angenommen haben;
 - d. gegebenenfalls ein Nachweis, dass die gesetzlich vorgeschriebene Revisionsstelle ihre Wahl angenommen hat;
 - e. das Protokoll des Verwaltungsrates über seine Konstituierung, über die Regelung des Vorsitzes und über die Erteilung der Zeichnungsbefugnisse;
-- f. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
+- f.[^43-2] bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welcher Bank die Einlagen hinterlegt sind, sofern die Bank in der öffentlichen Urkunde nicht genannt wird;
 - g. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- h.[^43-1] …
-- i.[^43-2] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des Bucheffektengesetzes vom 3. Oktober 2008[^43-3] (BEG) ausgestaltet sind.
+- h.[^43-3] …
+- i.[^43-4] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des Bucheffektengesetzes vom 3. Oktober 2008[^43-5] (BEG) ausgestaltet sind.
 
 <sup>2</sup> Für Angaben, die bereits im Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
 
 <sup>3</sup>
 
-Bestehen Sacheinlagen, Sachübernahmen, beabsichtigte Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so müssen zusätzlich folgende Belege eingereicht werden:
+Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so müssen zusätzlich folgende Belege eingereicht werden:[^43-6]
 
 - a. die Sacheinlageverträge mit den erforderlichen Beilagen;
-- b. die Sachübernahmeverträge mit den erforderlichen Beilagen;
+- b.[^43-7] …
 - c. der von allen Gründerinnen und Gründern unterzeichnete Gründungsbericht;
 - d. die vorbehaltlose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors.
 
-[^43-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^43-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^43-3]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^43-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^43-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^43-3]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^43-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^43-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^43-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^43-7]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 44
 
@@ -840,19 +864,13 @@ Die öffentliche Urkunde über den Errichtungsakt muss enthalten:
 - d. die Erklärung jeder Gründerin und jedes Gründers über die Zeichnung der Aktien unter Angabe von Anzahl, Nennwert, Art, Kategorie und Ausgabebetrag sowie die bedingungslose Verpflichtung, eine dem Ausgabebetrag entsprechende Einlage zu leisten;
 - e. die Tatsache, dass die Mitglieder des Verwaltungsrates gewählt wurden und die entsprechenden Personenangaben;
 - f. die Tatsache, dass die Revisionsstelle gewählt wurde, beziehungsweise den Verzicht auf eine Revision;
-- g.
-
-  die Feststellung der Gründerinnen und Gründer, dass:
-
-  - 1\. sämtliche Aktien gültig gezeichnet sind,
-  - 2\. die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen,
-  - 3\. die gesetzlichen und statutarischen Anforderungen an die Leistung der Einlagen erfüllt sind,
-  - 4\.[^44-1] keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten;
-
+- g.[^44-1] die Feststellung der Gründerinnen und Gründer nach Artikel 629 Absatz 2 OR;
 - h. die Nennung aller Belege sowie die Bestätigung der Urkundsperson, dass die Belege ihr und den Gründerinnen und Gründern vorgelegen haben;
-- i. die Unterschriften der Gründerinnen und Gründer.
+- i. die Unterschriften der Gründerinnen und Gründer;
+- j.[^44-2] falls das Aktienkapital in ausländischer Währung festgelegt wird oder Einlagen in einer anderen Währung geleistet werden als derjenigen des Aktienkapitals: die angewandten Umrechnungskurse.
 
-[^44-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^44-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^44-2]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 45
 
@@ -869,9 +887,9 @@ Bei Aktiengesellschaften müssen ins Handelsregister eingetragen werden:
 - e. das Datum der Statuten;
 - f. falls sie beschränkt ist: die Dauer der Gesellschaft;
 - g. der Zweck;
-- h. die Höhe des Aktienkapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Aktien;
+- h.[^45-1] die Höhe und die Währung des Aktienkapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Aktien;
 - i. gegebenenfalls die Stimmrechtsaktien;
-- j. falls ein Partizipationskapital ausgegeben wird: dessen Höhe und die darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Partizipationsscheine;
+- j.[^45-2] falls ein Partizipationskapital ausgegeben wird: die Höhe und die Währung dieses Partizipationskapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Partizipationsscheine;
 - k. im Fall von Vorzugsaktien oder Vorzugspartizipationsscheinen: die damit verbundenen Vorrechte;
 - l. bei einer Beschränkung der Übertragbarkeit der Aktien oder der Partizipationsscheine: ein Verweis auf die nähere Umschreibung in den Statuten;
 - m. falls Genussscheine ausgegeben werden: deren Anzahl und die damit verbundenen Rechte;
@@ -880,93 +898,104 @@ Bei Aktiengesellschaften müssen ins Handelsregister eingetragen werden:
 - p. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung des Verwaltungsrates gemäss Artikel 62 Absatz 2;
 - q. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - r. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- s. die in den Statuten vorgesehene Form der Mitteilungen des Verwaltungsrates an die Aktionärinnen und Aktionäre;
-- t.[^45-1] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^45-2] ausgestaltet sind.
+- s.[^45-3] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Aktionärinnen und Aktionäre;
+- t.[^45-4] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^45-5] ausgestaltet sind;
+- u.[^45-6] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
 
 <sup>2</sup>
 
-Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so sind zusätzlich folgende Tatsachen einzutragen:
+Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so sind zusätzlich folgende Tatsachen einzutragen:[^45-7]
 
 - a. die Sacheinlage unter Angabe des Datums des Vertrags, des Gegenstands und der dafür ausgegebenen Aktien;
-- b. die Sachübernahme oder die beabsichtigte Sachübernahme unter Angabe des Datums des Vertrags, des Gegenstands und der Gegenleistung der Gesellschaft;
+- b.[^45-8] …
 - c. die Verrechnung unter Angabe des Betrages der zur Verrechnung gebrachten Forderung sowie die dafür ausgegebenen Aktien;
 - d. der Inhalt und der Wert der besonderen Vorteile gemäss näherer Umschreibung in den Statuten.
 
-<sup>3</sup> Leistet eine Aktionärin oder ein Aktionär eine Sacheinlage, deren anzurechnender Wert die Einlagepflicht übersteigt und für die die Gesellschaft neben den ausgegebenen Aktien eine Gegenleistung gewährt, so ist im Umfang dieser Gegenleistung eine Sachübernahme im Handelsregister einzutragen (gemischte Sacheinlage und Sachübernahme).
+<sup>3</sup> …[^45-9]
 
-[^45-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^45-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-6]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-7]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-8]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-9]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-### 2. Abschnitt: Ordentliche Kapitalerhöhung
+### 2. Abschnitt: Währung des Aktienkapitals
+
+[^tit3-chap3-sec2-1]
+
+[^tit3-chap3-sec2-1]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+#### Art. 45a
+
+**Zulässige ausländische Währungen**
+
+Die zulässigen ausländischen Währungen für das Kapital einer Aktiengesellschaft sind in Anhang 3 aufgeführt.
+
+#### Art. 45b
+
+**Wechsel der Währung**
+
+<sup>1</sup>
+
+Mit der Anmeldung zur Eintragung eines Wechsels der Währung des Aktienkapitals müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+
+- a. die öffentliche Urkunde über den Beschluss der Generalversammlung (Art. 621 Abs. 3 OR);
+- b. die öffentliche Urkunde über den Beschluss des Verwaltungsrates (Art. 621 Abs. 3 OR);
+- c. die angepassten Statuten.
+
+<sup>2</sup>
+
+Ins Handelsregister müssen eingetragen werden:
+
+- a. das Datum der Änderung der Statuten;
+- b. die Höhe und die Währung des Aktienkapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Aktien.
+
+### 3. Abschnitt: Ordentliche Kapitalerhöhung
+
+[^tit3-chap3-sec3-1]
+
+[^tit3-chap3-sec3-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 46
 
-**Anmeldung und Belege**
+**Anmeldung und Belege**[^46-1]
 
-<sup>1</sup> Eine ordentliche Erhöhung des Aktienkapitals muss innerhalb von drei Monaten nach dem Beschluss der Generalversammlung beim Handelsregisteramt zur Eintragung angemeldet werden. Anmeldungen, die nach dieser Frist eingereicht werden, werden abgewiesen.
+<sup>1</sup> Eine ordentliche Erhöhung des Aktienkapitals muss innerhalb von sechs Monaten nach dem Beschluss der Generalversammlung beim Handelsregisteramt zur Eintragung angemeldet werden.
 
 <sup>2</sup>
 
 Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-- a. die öffentliche Urkunde über den Beschluss der Generalversammlung;
-- b. die öffentliche Urkunde über die Feststellungen des Verwaltungsrates und über die Statutenänderung;
+- a. die öffentliche Urkunde über den Beschluss der Generalversammlung (Art. 650 Abs. 2 OR);
+- b. die öffentliche Urkunde über den Beschluss des Verwaltungsrates (Art. 652*g* Abs. 2 OR);
 - c. die angepassten Statuten;
-- d. der von einem Mitglied des Verwaltungsrates unterzeichnete Kapitalerhöhungsbericht;
-- e. bei Bareinlagen eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
+- d. der von einem Mitglied des Verwaltungsrates unterzeichnete Kapitalerhöhungsbericht (Art. 652*e* OR);
+- e. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welcher Bank die Einlagen hinterlegt sind, sofern die Bank in der öffentlichen Urkunde nicht genannt wird;
 - f. gegebenenfalls der Prospekt;
-- g.[^46-1] …
-- h.[^46-2] falls Inhaberaktien ausgegeben werden und die Gesellschaft bisher keine Inhaberaktien hatte: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^46-3] ausgestaltet sind.
+- g. falls Inhaberaktien ausgegeben werden und die Gesellschaft bisher keine Inhaberaktien hatte: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^46-2] ausgestaltet sind.
 
 <sup>3</sup>
 
-Bestehen Sacheinlagen, Sachübernahmen und beabsichtigte Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile oder wird die Kapitalerhöhung durch Umwandlung von Eigenkapital liberiert, so müssen zusätzlich folgende Belege eingereicht werden:[^46-4]
+Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile oder wird die Kapitalerhöhung durch Umwandlung von frei verwendbarem Eigenkapital liberiert, so müssen zusätzlich folgende Belege eingereicht werden:
 
 - a. die Sacheinlageverträge mit den erforderlichen Beilagen;
-- b. soweit sie bereits vorliegen: die Sachübernahmeverträge mit den erforderlichen Beilagen;
-- c. die vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors;
-- d.[^46-5] bei einer Liberierung durch Umwandlung von frei verwendbarem Eigenkapital: der Revisionsbericht einer zugelassenen Revisorin oder eines zugelassenen Revisors.
+- b. die vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors (Art. 652*f* Abs. 1 OR);
+- c. bei einer Liberierung durch Umwandlung von frei verwendbarem Eigenkapital: ein Nachweis der Deckung des Erhöhungsbetrags nach Artikel 652*d* Absatz 2 OR.
 
-<sup>4</sup> Werden die Bezugsrechte eingeschränkt oder aufgehoben, so muss eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors eingereicht werden.
+<sup>4</sup> Werden die Bezugsrechte eingeschränkt oder aufgehoben, so muss eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors eingereicht werden (Art. 652*f* Abs. 1 OR).
 
-[^46-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^46-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^46-3]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^46-4]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^46-5]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^46-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^46-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 
 #### Art. 47
 
-**Öffentliche Urkunden**
+[^47-1]
 
-<sup>1</sup>
-
-Die öffentliche Urkunde über den Beschluss der Generalversammlung muss folgende Angaben enthalten:
-
-- a. den Nennbetrag oder gegebenenfalls den maximalen Nennbetrag, um den das Aktienkapital erhöht werden soll, und den Betrag der darauf zu leistenden Einlagen;
-- b. die Anzahl oder gegebenenfalls die maximale Anzahl sowie den Nennwert und die Art der Aktien, die neu ausgegeben werden;
-- c. den Ausgabebetrag oder gegebenenfalls die Ermächtigung des Verwaltungsrates, diesen festzusetzen;
-- d. den Beginn der Dividendenberechtigung;
-- e. die Art der Einlagen;
-- f. im Fall von Sacheinlagen: deren Gegenstand und Bewertung, den Namen der Einlegerin oder des Einlegers sowie die ihr oder ihm zukommenden Aktien;
-- g. im Fall von Sachübernahmen: deren Gegenstand, den Namen der Veräussererin oder des Veräusserers sowie die Gegenleistung der Gesellschaft;
-- h. im Fall von besonderen Vorteilen: deren Inhalt und Wert sowie die Namen der begünstigten Personen;
-- i. gegebenenfalls die Stimmrechtsaktien;
-- j. im Fall von Vorzugsaktien: die damit verbundenen Vorrechte;
-- k. gegebenenfalls die Beschränkung der Übertragbarkeit der Aktien;
-- l. die Zuweisung nicht ausgeübter oder entzogener Bezugsrechte und gegebenenfalls die Einschränkung oder Aufhebung des Bezugsrechts.
-
-<sup>2</sup>
-
-Die öffentliche Urkunde über die Feststellungen des Verwaltungsrates und über die Statutenänderung muss festhalten, dass:
-
-- a. sämtliche Aktien gültig gezeichnet sind;
-- b. die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen;
-- c. die Einlagen entsprechend den Anforderungen des Gesetzes, der Statuten und des Generalversammlungsbeschlusses geleistet wurden;
-- d. die Belege der Urkundsperson und dem Verwaltungsrat vorgelegen haben. Diese Belege sind einzeln aufzuführen;
-- e.[^47-1] keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
-
-[^47-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^47-1]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 48
 
@@ -987,71 +1016,23 @@ Bei einer ordentlichen Erhöhung des Aktienkapitals müssen ins Handelsregister 
 - i. falls die Erhöhung durch Umwandlung von frei verwendbarem Eigenkapital erfolgt: ein Hinweis darauf;
 - j.[^48-1] falls Inhaberaktien ausgegeben werden und die Gesellschaft bisher keine Inhaberaktien hatte: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^48-2] ausgestaltet sind.
 
-<sup>2</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absätze 2 und 3 sinngemäss.
+<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^48-3]
 
 [^48-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^48-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^48-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-### 3. Abschnitt: Genehmigte Kapitalerhöhung
+#### Art. 49 und 50
 
-#### Art. 49
+[^4950-1]
 
-**Ermächtigungsbeschluss der Generalversammlung**
+[^4950-1]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-<sup>1</sup>
+### 4. Abschnitt: Erhöhung aus bedingtem Kapital
 
-Mit der Anmeldung zur Eintragung des Generalversammlungsbeschlusses über eine genehmigte Kapitalerhöhung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+[^tit3-chap3-sec4-1]
 
-- a. die öffentliche Urkunde über den Beschluss der Generalversammlung betreffend die Ermächtigung des Verwaltungsrates;
-- b. die angepassten Statuten.
-
-<sup>2</sup>
-
-Die Statuten müssen folgende Angaben enthalten (Art. 650 Abs. 2, 651 Abs. 2 und 3 OR):
-
-- a. den Nennbetrag des genehmigten Kapitals und den Betrag der darauf zu leistenden Einlagen;
-- b. die Anzahl, den Nennwert und die Art der Aktien;
-- c. gegebenenfalls die Stimmrechtsaktien;
-- d. im Fall von Vorzugsaktien: die damit verbundenen Vorrechte;
-- e. gegebenenfalls die Beschränkung der Übertragbarkeit der Aktien;
-- f. im Fall von besonderen Vorteilen: deren Inhalt und Wert sowie die Namen der begünstigten Personen;
-- g. die Zuweisung nicht ausgeübter oder entzogener Bezugsrechte und gegebenenfalls die Einschränkung oder Aufhebung des Bezugsrechts.
-
-<sup>3</sup>
-
-Im Handelsregister müssen eingetragen werden:
-
-- a. ein Hinweis auf das genehmigte Kapital gemäss näherer Umschreibung in den Statuten;
-- b. das Datum des Beschlusses der Generalversammlung über die Änderung der Statuten.
-
-#### Art. 50
-
-**Erhöhungsbeschluss und Feststellungen des Verwaltungsrates**
-
-<sup>1</sup> Mit der Anmeldung zur Eintragung des Beschlusses des Verwaltungsrates über eine Erhöhung des Aktienkapitals müssen dem Handelsregisteramt die Belege nach Artikel 46 eingereicht werden; anstelle der öffentlichen Urkunde über den Beschluss der Generalversammlung ist der Beschluss des Verwaltungsrates betreffend die Erhöhung des Aktienkapitals einzureichen.
-
-<sup>2</sup>
-
-Der Erhöhungsbeschluss des Verwaltungsrates muss dem Beschluss der Generalversammlung entsprechen und folgenden Inhalt haben:
-
-- a. den Nennbetrag, um den das Aktienkapital erhöht wird;
-- b. die Anzahl der neuen Aktien;
-- c. den Ausgabebetrag;
-- d. die Art der Einlagen;
-- e. im Fall von Sacheinlagen: deren Gegenstand und Bewertung, den Namen der Einlegerin oder des Einlegers sowie die ihr oder ihm zukommenden Aktien;
-- f. im Fall von Sachübernahmen: deren Gegenstand, den Namen der Veräussererin oder des Veräusserers sowie die Gegenleistung der Gesellschaft;
-- g. im Falle einer Verrechnung: die Angabe des Betrages der zur Verrechnung gebrachten Forderung sowie die dafür ausgegebenen Aktien;
-- h. die Anpassung des Nennbetrags des genehmigten Kapitals beziehungsweise die Streichung der Bestimmung über die genehmigte Kapitalerhöhung in den Statuten.
-
-<sup>3</sup> Die öffentliche Urkunde über die Statutenänderung und über die Feststellungen des Verwaltungsrates muss die Angaben gemäss Artikel 47 Absatz 2 enthalten.
-
-<sup>4</sup> Wird die Kapitalerhöhung beim Handelsregister nach Ablauf der Dauer der Ermächtigung des Verwaltungsrates angemeldet, so darf die Kapitalerhöhung nicht eingetragen werden.
-
-<sup>5</sup> Für den Inhalt des Eintrags gilt Artikel 48 sinngemäss.
-
-<sup>6</sup> Wird das Aktienkapital während der Dauer der Ermächtigung des Verwaltungsrates nicht bis zur Höhe des Nennbetrags erhöht, so muss die Gesellschaft die Streichung der Statutenbestimmung über die genehmigte Kapitalerhöhung beim Handelsregisteramt zur Eintragung anmelden.
-
-### 4. Abschnitt: Bedingte Kapitalerhöhung
+[^tit3-chap3-sec4-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 51
 
@@ -1059,24 +1040,13 @@ Der Erhöhungsbeschluss des Verwaltungsrates muss dem Beschluss der Generalversa
 
 <sup>1</sup>
 
-Mit der Anmeldung zur Eintragung des Beschlusses der Generalversammlung über eine bedingte Kapitalerhöhung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+Mit der Anmeldung zur Eintragung des Beschlusses der Generalversammlung über ein bedingtes Kapital müssen dem Handelsregisteramt folgende Belege eingereicht werden:[^51-1]
 
-- a. die öffentliche Urkunde über den Gewährungsbeschluss der Generalversammlung;
+- a.[^51-2] die öffentliche Urkunde über den Gewährungsbeschluss der Generalversammlung (Art. 653 Abs. 1 OR);
 - b. die angepassten Statuten;
-- c.[^51-1] falls Inhaberaktien ausgegeben werden können und die Gesellschaft bisher keine Inhaberaktien hatte: die Erklärung der Personen, welche die Eintragung anmelden, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^51-2] ausgestaltet sind.
+- c.[^51-3] falls Inhaberaktien ausgegeben werden können und die Gesellschaft bisher keine Inhaberaktien hatte: die Erklärung der Personen, welche die Eintragung anmelden, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^51-4] ausgestaltet sind.
 
-<sup>2</sup>
-
-Die Statuten müssen folgende Angaben enthalten (Art. 653*b* OR):
-
-- a. den Nennbetrag des bedingten Kapitals;
-- b. die Anzahl, den Nennwert und die Art der Aktien;
-- c. die maximale Anzahl von Aktien, die bei der Ausübung des Wandels- oder Optionsrechts ausgegeben werden;
-- d. gegebenenfalls die Stimmrechtsaktien;
-- e. im Fall von Vorzugsaktien: die damit verbundenen Vorrechte;
-- f. gegebenenfalls die Beschränkung der Übertragbarkeit der Aktien;
-- g. den Kreis der Personen, denen ein Wandels- oder Optionsrecht zusteht;
-- h. die Aufhebung oder die Einschränkung der Bezugsrechte der Aktionärinnen und Aktionäre.
+<sup>2</sup> …[^51-5]
 
 <sup>3</sup>
 
@@ -1085,8 +1055,11 @@ Ins Handelsregister müssen eingetragen werden:
 - a. ein Hinweis auf das bedingte Kapital gemäss näherer Umschreibung in den Statuten;
 - b. das Datum des Beschlusses der Generalversammlung über die Änderung der Statuten.
 
-[^51-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^51-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^51-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^51-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^51-5]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 52
 
@@ -1096,119 +1069,93 @@ Ins Handelsregister müssen eingetragen werden:
 
 Mit der Anmeldung zur Eintragung der Beschlüsse des Verwaltungsrates betreffend die Feststellungen über die Ausübung von Wandel- und Optionsrechten und betreffend die Anpassung der Statuten müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-- a. die öffentliche Urkunde über die Beschlüsse des Verwaltungsrates;
+- a.[^52-1] die öffentliche Urkunde über die Beschlüsse des Verwaltungsrates (Art. 653*g* Abs. 3 OR);
 - b. die angepassten Statuten;
-- c. die Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten;
-- d.[^52-1] falls Inhaberaktien ausgegeben werden und die Gesellschaft bisher keine Inhaberaktien hatte: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^52-2] ausgestaltet sind.
+- c.[^52-2] die Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten (Art. 653*f* Abs. 1 OR);
+- d.[^52-3] falls Inhaberaktien ausgegeben werden und die Gesellschaft bisher keine Inhaberaktien hatte: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^52-4] ausgestaltet sind.
 
-<sup>2</sup>
-
-Die öffentliche Urkunde über die Beschlüsse des Verwaltungsrates muss dem Beschluss der Generalversammlung entsprechen und folgende Angaben enthalten:
-
-- a.
-
-  die Feststellungen des Verwaltungsrates über:
-
-  - 1\. Anzahl, Nennwert und Art der neu ausgegebenen Aktien,
-  - 2\. gegebenenfalls die Stimmrechtsaktien,
-  - 3\. im Fall von Vorzugsaktien, die damit verbundenen Vorrechte,
-  - 4\. gegebenenfalls die Beschränkung der Übertragbarkeit der Aktien,
-  - 5\. die Höhe des Aktienkapitals am Schluss des Geschäftsjahres oder zum Zeitpunkt der Prüfung;
-
-- b.
-
-  die Beschlüsse des Verwaltungsrates über die Änderung der Statuten betreffend:
-
-  - 1\. die Höhe des Aktienkapitals und dessen Liberierung,
-  - 2\. den Betrag des noch verbleibenden bedingten Kapitals;
-
-- c. die Feststellung der Urkundsperson, dass die Prüfungsbestätigung die verlangten Angaben enthält (Art. 653*g* OR).
+<sup>2</sup> …[^52-5]
 
 <sup>3</sup> Für den Inhalt des Eintrags gilt Artikel 48 sinngemäss.
 
-[^52-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^52-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^52-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^52-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^52-5]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 53
 
-**Aufhebung der Statutenbestimmung über die bedingte Kapitalerhöhung**
+**Streichung der Statutenbestimmung über das bedingte Kapital**[^53-1]
 
-<sup>1</sup> Sind die Wandel- oder Optionsrechte erloschen, so muss die Gesellschaft die Anpassung der Statuten beim Handelsregisteramt zur Eintragung anmelden.
+<sup>1</sup>
 
-<sup>2</sup>
+Mit der Anmeldung zur Eintragung der Aufhebung oder der Anpassung der Statutenbestimmung über das bedingte Kapital müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
-
-- a. die öffentliche Urkunde über den Beschluss des Verwaltungsrates betreffend die Aufhebung der Statutenbestimmung;
-- b. der Bericht eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten;
+- a. die öffentliche Urkunde über den Beschluss des Verwaltungsrates (Art. 653*i* Abs. 1 OR);
+- b. die Bestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten (Art. 653*i* Abs. 2 OR);
 - c. die angepassten Statuten.
 
-<sup>3</sup>
-
-Die öffentliche Urkunde muss folgende Angaben enthalten:
-
-- a. den Beschluss des Verwaltungsrates über die Aufhebung der Statutenbestimmung betreffend die bedingte Kapitalerhöhung;
-- b. die Feststellung der Urkundsperson, dass der Revisionsbericht die erforderlichen Angaben enthält.
-
-<sup>4</sup>
+<sup>2</sup>
 
 Ins Handelsregister müssen eingetragen werden:
 
 - a. das Datum der Änderung der Statuten;
-- b. ein Hinweis, dass die Bestimmung über die bedingte Kapitalerhöhung infolge der Ausübung oder des Erlöschens der Wandel- oder Optionsrechte aufgehoben wurde.
+- b. ein Hinweis, dass die Statutenbestimmung über das bedingte Kapital aufgehoben oder angepasst wurde.
+
+[^53-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 5. Abschnitt: Nachträgliche Leistung von Einlagen
 
 #### Art. 54
 
+[^54-1]
+
 <sup>1</sup>
 
 Mit der Anmeldung zur Eintragung einer nachträglichen Leistung von Einlagen auf das Aktienkapital müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-- a. die öffentliche Urkunde über die Beschlüsse des Verwaltungsrates zur Änderung der Statuten und zu seinen Feststellungen;
+- a. die öffentliche Urkunde über die Beschlüsse des Verwaltungsrates;
 - b. die angepassten Statuten;
-- c. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
+- c. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welcher Bank die Einlagen hinterlegt sind, sofern die Bank in der öffentlichen Urkunde nicht genannt wird;
 - d.
 
   bei einer Liberierung durch Umwandlung von frei verwendbarem Eigenkapital:
 
-  - 1\. die genehmigte Jahresrechnung oder der Zwischenabschluss,
-  - 2\. der Revisionsbericht einer zugelassenen Revisorin oder eines zugelassenen Revisors,
-  - 3\. der öffentlich beurkundete Beschluss der Generalversammlung, wonach die freien Reserven dem Verwaltungsrat zur Nachliberierung zur Verfügung gestellt werden,
-  - 4\. ein Bericht des Verwaltungsrates, der von einem Mitglied unterzeichnet ist,
-  - 5\. eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors;
+  - 1\. ein Nachweis der Deckung des Erhöhungsbetrags nach Artikel 652*d* Absatz 2 OR,
+  - 2\. der Beschluss der Generalversammlung, wonach das frei verwendbare Eigenkapital dem Verwaltungsrat zur Nachliberierung zur Verfügung gestellt wird,
+  - 3\. ein Bericht des Verwaltungsrates, der von einem Mitglied unterzeichnet ist,
+  - 4\. eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors;
 
 - e.
 
-  bei Sacheinlagen, bei Sachübernahmen und bei Verrechnung:
+  bei Sacheinlagen und bei Verrechnung:
 
   - 1\. ein Bericht des Verwaltungsrates, der von einem Mitglied unterzeichnet ist,
   - 2\. eine vorbehaltslose Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin, eines zugelassenen Revisionsexperten, einer zugelassenen Revisorin oder eines zugelassenen Revisors,
-  - 3\. gegebenenfalls die Sacheinlageverträge mit den erforderlichen Beilagen und die Sachübernahmeverträge mit den erforderlichen Beilagen;
-
-- f.[^54-1] …
+  - 3\. gegebenenfalls die Sacheinlageverträge mit den erforderlichen Beilagen.
 
 <sup>2</sup>
 
 Die öffentliche Urkunde über die nachträgliche Leistung von Einlagen muss folgende Angaben enthalten:
 
 - a. die Feststellung, dass die nachträglichen Einlagen entsprechend den Anforderungen des Gesetzes, der Statuten oder des Beschlusses des Verwaltungsrates geleistet wurden;
-- b. gegebenenfalls den Beschluss des Verwaltungsrates über die Aufnahme der erforderlichen Bestimmungen zu Sacheinlagen und Sachübernahmen in die Statuten;
+- b. gegebenenfalls den Beschluss des Verwaltungsrates über die Aufnahme der erforderlichen Bestimmungen zu Sacheinlagen, Verrechnungstatbeständen oder zur Umwandlung von frei verwendbarem Eigenkapital in die Statuten;
 - c. den Beschluss des Verwaltungsrates über die Statutenänderung betreffend die Höhe der geleisteten Einlagen;
 - d. die Nennung aller Belege und die Bestätigung der Urkundsperson, dass die Belege ihr und dem Verwaltungsrat vorgelegen haben;
-- e.[^54-2] die Feststellung, dass keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile bestehen als die in den Belegen genannten.
+- e. die Feststellung, dass keine anderen Sacheinlagen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten;
+- f. falls die nachträglichen Einlagen in einer anderen Währung geleistet werden als derjenigen des Aktienkapitals: die angewandten Umrechnungskurse.
 
 <sup>3</sup>
 
-Im Handelsregister müssen eingetragen werden:
+Ins Handelsregister müssen eingetragen werden:
 
 - a. das Datum der Änderung der Statuten;
 - b. der neue Betrag der geleisteten Einlagen.
 
-<sup>4</sup> Bestehen Sacheinlagen, Sachübernahmen oder Verrechnungstatbestände, so gelten die Artikel 43 Absatz 3 und 45 Absätze 2 und 3 sinngemäss. Werden die Einlagen nachträglich durch Umwandlung von frei verwendbarem Eigenkapital geleistet, so bedarf es eines Hinweises darauf.
+<sup>4</sup> Bestehen Sacheinlagen oder Verrechnungstatbestände, so gelten die Artikel 43 Absatz 3 und 45 Absatz 2 sinngemäss. Werden die Einlagen nachträglich durch Umwandlung von frei verwendbarem Eigenkapital geleistet, so bedarf es eines Hinweises darauf.
 
-[^54-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^54-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^54-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 6. Abschnitt: Herabsetzung des Aktienkapitals
 
@@ -1220,26 +1167,12 @@ Im Handelsregister müssen eingetragen werden:
 
 Mit der Anmeldung zur Eintragung einer Herabsetzung des Aktienkapitals müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-- a.
+- a. die öffentliche Urkunde über den Beschluss der Generalversammlung (Art. 653*n* OR);
+- b. die öffentliche Urkunde über den Beschluss des Verwaltungsrates (Art. 653*o* Abs. 2 OR);
+- c. die Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten (Art. 653*m* Abs. 1 OR);
+- d. die angepassten Statuten.[^55-1]
 
-  die öffentliche Urkunde über den Beschluss der Generalversammlung betreffend:
-
-  - 1\. die Feststellung über das Ergebnis des Prüfungsberichts,
-  - 2\. die Art und Weise der Durchführung der Kapitalherabsetzung,
-  - 3\. die Anpassung der Statuten;
-
-- b.
-
-  die öffentliche Urkunde über die Einhaltung der gesetzlichen Bestimmungen betreffend (Art. 734 OR):
-
-  - 1\. die Aufforderungen an die Gläubigerinnen und Gläubiger,
-  - 2\. die Anmeldefrist,
-  - 3\. die Erfüllung oder Sicherstellung der Forderungen;
-
-- c. der Prüfungsbericht eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten;
-- d. die angepassten Statuten.
-
-<sup>2</sup> Der Prüfungsbericht muss bestätigen, dass die Forderungen der Gläubigerinnen und Gläubiger nach der Herabsetzung des Aktienkapitals noch voll gedeckt sind.
+<sup>2</sup> …[^55-2]
 
 <sup>3</sup>
 
@@ -1256,31 +1189,22 @@ Im Handelsregister müssen eingetragen werden:
 
 <sup>4</sup> Hat die Gesellschaft eigene Aktien zurückgekauft und vernichtet, so findet das Kapitalherabsetzungsverfahren Anwendung. Die Herabsetzung des Aktienkapitals und der Zahl der Aktien ist auch dann ins Handelsregister einzutragen, wenn ein entsprechender Betrag in die Passiven der Bilanz gestellt wird.
 
+[^55-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^55-2]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 56
 
 **Kapitalherabsetzung im Fall einer Unterbilanz**
 
 <sup>1</sup>
 
-Wird durch die Herabsetzung des Aktienkapitals eine Unterbilanz beseitigt, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung folgende Belege eingereicht werden:
+Wird das Aktienkapital zur teilweisen oder vollständigen Beseitigung einer durch Verluste entstandenen Unterbilanz herabgesetzt, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung folgende Belege eingereicht werden:
 
-- a.
-
-  die öffentliche Urkunde über den Beschluss der Generalversammlung betreffend:
-
-  - 1\. die Feststellung über das Ergebnis des Prüfungsberichts,
-  - 2\. die Art und Weise der Durchführung der Kapitalherabsetzung,
-  - 3\. die Anpassung der Statuten;
-
+- a. die öffentliche Urkunde über den Beschluss der Generalversammlung (Art. 653*p* Abs. 2 OR);
 - b. die angepassten Statuten;
-- c. der Prüfungsbericht eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten.
+- c. die Prüfungsbestätigung eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten (Art. 653*p* Abs. 1 OR).[^56-1]
 
-<sup>2</sup>
-
-Der Prüfungsbericht muss bestätigen, dass:
-
-- a. die Forderungen der Gläubigerinnen und Gläubiger nach der Herabsetzung des Aktienkapitals voll gedeckt sind;
-- b. der Betrag der Kapitalherabsetzung den Betrag der durch Verluste entstandenen Unterbilanz nicht übersteigt (Art. 735 OR).
+<sup>2</sup> …[^56-2]
 
 <sup>3</sup>
 
@@ -1294,13 +1218,16 @@ Ins Handelsregister müssen eingetragen werden:
 - f. der Betrag der Einlagen nach der Kapitalherabsetzung;
 - g. Anzahl, Nennwert und Art der Aktien nach der Herabsetzung.
 
+[^56-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^56-2]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 57
 
-**Herabsetzung und gleichzeitige Wiedererhöhung des Kapitals auf den bisherigen oder einen höheren Betrag**
+**Gleichzeitige Herabsetzung und Erhöhung des Aktienkapitals[^57-1]**
 
 <sup>1</sup>
 
-Wird zusammen mit der Herabsetzung des Aktienkapitals eine Wiedererhöhung auf den bisherigen oder einen höheren Betrag beschlossen, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung folgende Belege eingereicht werden:
+Wird das Aktienkapital herabgesetzt und gleichzeitig mindestens auf den bisherigen Betrag erhöht und wird der Betrag der geleisteten Einlage nicht herabgesetzt, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung folgende Belege eingereicht werden:[^57-2]
 
 - a. die öffentliche Urkunde über den Beschluss der Generalversammlung;
 - b. die für eine ordentliche Kapitalerhöhung erforderlichen Belege;
@@ -1323,7 +1250,11 @@ Ins Handelsregister müssen eingetragen werden:
 
 <sup>3</sup> Wird das Aktienkapital zum Zwecke der Sanierung auf null herabgesetzt und anschliessend wieder erhöht, so muss im Handelsregister die Vernichtung der bisher ausgegebenen Aktien eingetragen werden.
 
-<sup>4</sup> Bestehen anlässlich der Kapitalerhöhung Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gelten die Artikel 43 Absatz 3 und 45 Absätze 2 und 3 sinngemäss. Erfolgt die Wiedererhöhung des Aktienkapitals durch Umwandlung von frei verwendbarem Eigenkapital, so finden die Artikel 46 Absatz 3 Buchstabe d und 48 Absatz 1 Buchstabe i Anwendung.
+<sup>4</sup> Bestehen anlässlich der Kapitalerhöhung Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gelten die Artikel 43 Absatz 3 und 45 Absatz 2 sinngemäss. Erfolgt die Wiedererhöhung des Aktienkapitals durch Umwandlung von frei verwendbarem Eigenkapital, so finden die Artikel 46 Absatz 3 Buchstabe d und 48 Absatz 1 Buchstabe i Anwendung.[^57-3]
+
+[^57-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 58
 
@@ -1337,13 +1268,63 @@ Wird zusammen mit der Herabsetzung des Aktienkapitals eine Wiedererhöhung auf e
 
 Werden die auf das Aktienkapital geleisteten Einlagen herabgesetzt, so gelten die Bestimmungen dieser Verordnung über die Herabsetzung des Aktienkapitals sinngemäss.
 
-### 7. Abschnitt: Partizipationskapital
+### 7. Abschnitt: Kapitalband
+
+[^tit3-chap3-sec7-1]
+
+[^tit3-chap3-sec7-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+#### Art. 59a
+
+**Ermächtigung des Verwaltungsrates**
+
+<sup>1</sup>
+
+Mit der Anmeldung zur Eintragung eines Kapitalbands (Art. 653*s* OR) müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+
+- a. die öffentliche Urkunde über den Beschluss der Generalversammlung;
+- b. die angepassten Statuten;
+- c. falls die Gesellschaft bisher auf die eingeschränkte Revision verzichtet hat und der Verwaltungsrat ermächtigt wird, das Kapital herabzusetzten: ein Nachweis, dass die gesetzlich vorgeschriebene Revisionsstelle gewählt wurde und sie ihre Wahl angenommen hat.
+
+<sup>2</sup>
+
+Ins Handelsregister müssen eingetragen werden:
+
+- a. ein Hinweis auf das Kapitalband gemäss näherer Umschreibung in den Statuten;
+- b. das Datum des Beschlusses der Generalversammlung über die Änderung der Statuten;
+- c. gegebenenfalls die Revisionsstelle.
+
+#### Art. 59b
+
+**Erhöhung des Aktienkapitals innerhalb des Kapitalbands**
+
+<sup>1</sup> Mit der Anmeldung zur Eintragung einer Erhöhung des Aktienkapitals innerhalb des Kapitalbands müssen dem Handelsregisteramt soweit erforderlich die Belege nach Artikel 46 oder 52 eingereicht werden.
+
+<sup>2</sup> Für den Inhalt des Eintrags gilt Artikel 48 sinngemäss.
+
+#### Art. 59c
+
+**Herabsetzung des Aktienkapitals innerhalb des Kapitalbands**
+
+<sup>1</sup> Mit der Anmeldung zur Eintragung einer Herabsetzung des Aktienkapitals innerhalb des Kapitalbands müssen dem Handelsregisteramt soweit erforderlich die Belege nach Artikel 55 eingereicht werden.
+
+<sup>2</sup> Für den Inhalt des Eintrags gilt Artikel 55 sinngemäss.
+
+### 8. Abschnitt: Partizipationskapital
+
+[^tit3-chap3-sec8-1]
+
+[^tit3-chap3-sec8-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 60
 
-Für die Erhöhung und Herabsetzung des Partizipationskapitals sowie für die nachträgliche Leistung von Einlagen auf das Partizipationskapital gelten die Bestimmungen über das Aktienkapital sinngemäss.
+Für die Währung, die Erhöhung und die Herabsetzung des Partizipationskapitals sowie für die nachträgliche Leistung von Einlagen auf das Partizipationskapital gelten die Bestimmungen über das Aktienkapital sinngemäss.
 
-### 8. Abschnitt: Besondere Bestimmungen zur Revision und zur Revisionsstelle
+### 9. Abschnitt: Besondere Bestimmungen zur Revision und zur Revisionsstelle
+
+[^tit3-chap3-sec9-1]
+
+[^tit3-chap3-sec9-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 61
 
@@ -1375,7 +1356,11 @@ Aktiengesellschaften, die weder eine ordentliche noch eine eingeschränkte Revis
 
 <sup>5</sup> Soweit erforderlich, passt der Verwaltungsrat die Statuten an und meldet dem Handelsregisteramt die Löschung oder die Eintragung der Revisionsstelle an.
 
-### 9. Abschnitt: Auflösung und Löschung
+### 10. Abschnitt: Auflösung und Löschung
+
+[^tit3-chap3-sec10-1]
+
+[^tit3-chap3-sec10-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 63
 
@@ -1421,13 +1406,16 @@ Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht wer
 
 <sup>3</sup>
 
-Im Handelsregister müssen eingetragen werden:
+Ins Handelsregister müssen eingetragen werden:[^64-1]
 
 - a. die Tatsache des Widerrufs der Auflösung;
 - b. das Datum des Beschlusses der Generalversammlung;
-- c. die Firma ohne den Liquidationszusatz;
+- c.[^64-2] die Firma ohne den Zusatz «in Liquidation» oder «in Liq.»;
 - d. die erforderlichen Änderungen bei den eingetragenen Personen;
 - e. bei einer Beschränkung der Übertragbarkeit der Aktien oder der Partizipationsscheine: ein Verweis auf die nähere Umschreibung in den Statuten.
+
+[^64-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^64-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 65
 
@@ -1458,19 +1446,21 @@ Mit der Anmeldung zur Eintragung der Gründung einer Kommanditaktiengesellschaft
 - b. die Statuten;
 - c. das Protokoll der Verwaltung über ihre Konstituierung, über die Regelung des Vorsitzes und gegebenenfalls über die Erteilung der Zeichnungsbefugnisse an Dritte;
 - d. ein Nachweis, dass die Mitglieder der Aufsichtsstelle ihre Wahl angenommen haben;
-- e. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
+- e.[^66-2] bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welcher Bank die Einlagen hinterlegt sind, sofern die Bank in der öffentlichen Urkunde nicht genannt wird;
 - f. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- g.[^66-2] …
-- h.[^66-3] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^66-4] ausgestaltet sind.
+- g.[^66-3] …
+- h.[^66-4] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^66-5] ausgestaltet sind.
 
 <sup>2</sup> Für Angaben, die bereits im Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
 
-<sup>3</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 43 Absatz 3 sinngemäss.
+<sup>3</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 43 Absatz 3 sinngemäss.[^66-6]
 
 [^66-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-2]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^66-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^66-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^66-3]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^66-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^66-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^66-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 67
 
@@ -1482,20 +1472,14 @@ Die öffentliche Urkunde über den Errichtungsakt muss folgende Angaben enthalte
 - b. die Erklärung der Gründerinnen und Gründer, eine Kommanditaktiengesellschaft zu gründen;
 - c. die Festlegung der Statuten und die Nennung der Mitglieder der Verwaltung in den Statuten;
 - d. die Erklärung der beschränkt haftenden Gründerinnen und Gründer über die Zeichnung der Aktien unter Angabe von Anzahl, Nennwert, Art, Kategorien und Ausgabebetrag der Aktien sowie die bedingungslose Verpflichtung, eine dem Ausgabebetrag entsprechende Einlage zu leisten;
-- e.
-
-  die Feststellung der Gründerinnen und Gründer, dass:
-
-  - 1\. sämtliche Aktien gültig gezeichnet sind,
-  - 2\. die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen,
-  - 3\. die gesetzlichen und statutarischen Anforderungen an die Leistung der Einlage erfüllt sind,
-  - 4\.[^67-1] keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten;
-
+- e.[^67-1] die Feststellung der Gründerinnen und Gründer nach Artikel 629 Absatz 2 in Verbindung mit Artikel 764 Absatz 2 OR;
 - f. die Wahl der Mitglieder der Aufsichtstelle;
 - g. die Nennung aller Belege sowie die Bestätigung der Urkundsperson, dass die Belege ihr und den Gründerinnen und Gründern vorgelegen haben;
-- h. die Unterschriften der Gründerinnen und Gründer.
+- h. die Unterschriften der Gründerinnen und Gründer;
+- i.[^67-2] falls das Aktienkapital in ausländischer Währung festgelegt wird oder Einlagen in einer anderen Währung geleistet werden als derjenigen des Aktienkapitals: die angewandten Umrechnungskurse.
 
-[^67-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^67-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^67-2]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 68
 
@@ -1512,9 +1496,9 @@ Bei Kommanditaktiengesellschaften müssen ins Handelsregister eingetragen werden
 - e. das Datum der Statuten;
 - f. die Dauer der Gesellschaft, sofern sie beschränkt ist;
 - g. der Zweck;
-- h. die Höhe des Aktienkapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Aktien;
+- h.[^68-1] die Höhe und die Währung des Aktienkapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Aktien;
 - i. gegebenenfalls die Stimmrechtsaktien;
-- j. falls die Gesellschaft ein Partizipationskapital hat: dessen Höhe, die Höhe der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Partizipationsscheine;
+- j.[^68-2] falls die Gesellschaft ein Partizipationskapital hat: die Höhe und die Währung dieses Partizipationskapitals und der darauf geleisteten Einlagen sowie Anzahl, Nennwert und Art der Partizipationsscheine;
 - k. im Fall von Vorzugsaktien oder Vorzugspartizipationsscheinen: die damit verbundenen Vorrechte;
 - l. bei einer Beschränkung der Übertragbarkeit der Aktien oder der Partizipationsscheine: ein Verweis auf die nähere Umschreibung in den Statuten;
 - m. falls Genussscheine ausgegeben werden: deren Anzahl und die damit verbundenen Rechte;
@@ -1524,13 +1508,19 @@ Bei Kommanditaktiengesellschaften müssen ins Handelsregister eingetragen werden
 - q. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung der Verwaltung gemäss Artikel 62 Absatz 2;
 - r. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - s. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- t. die in den Statuten vorgesehene Form der Mitteilungen der Verwaltung an die Gesellschafterinnen und Gesellschafter;
-- u.[^68-1] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^68-2] ausgestaltet sind.
+- t.[^68-3] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Gesellschafterinnen und Gesellschafter;
+- u.[^68-4] bei Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^68-5] ausgestaltet sind;
+- v.[^68-6] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
 
-<sup>2</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absätze 2 und 3 sinngemäss.
+<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^68-7]
 
-[^68-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-2]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-4]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^68-5]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-6]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-7]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 69
 
@@ -1572,7 +1562,7 @@ Soweit sich aus Gesetz und Verordnung nichts anderes ergibt, gelten die Bestimmu
 
 <sup>1</sup>
 
-Mit der Anmeldung der Gründung einer Gesellschaft mit beschränkter Haftung zur Eintragung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+Mit der Anmeldung zur Eintragung der Gründung einer Gesellschaft mit beschränkter Haftung müssen dem Handelsregisteramt folgende Belege eingereicht werden:[^71-1]
 
 - a. die öffentliche Urkunde über den Errichtungsakt;
 - b. die Statuten;
@@ -1580,15 +1570,18 @@ Mit der Anmeldung der Gründung einer Gesellschaft mit beschränkter Haftung zur
 - d. gegebenenfalls ein Nachweis, dass die gesetzlich vorgeschriebene Revisionsstelle ihre Wahl angenommen hat;
 - e. gegebenenfalls der Beschluss der Gründerinnen und Gründer oder, soweit die Statuten dies vorsehen, der Beschluss der Geschäftsführerinnen und Geschäftsführer über die Regelung des Vorsitzes der Geschäftsführung;
 - f. gegebenenfalls der Beschluss der Gründerinnen und Gründer oder, soweit die Statuten dies vorsehen, der Beschluss der Geschäftsführerinnen und Geschäftsführer über die Ernennung weiterer zur Vertretung berechtigter Personen;
-- g. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
+- g.[^71-2] bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welcher Bank die Einlagen hinterlegt sind, sofern die Bank in der öffentlichen Urkunde nicht genannt wird;
 - h. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- i.[^71-1] …
+- i.[^71-3] …
 
 <sup>2</sup> Für Angaben, die bereits in der öffentlichen Urkunde über den Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
 
-<sup>3</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 43 Absatz 3 sinngemäss.
+<sup>3</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 43 Absatz 3 sinngemäss.[^71-4]
 
-[^71-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^71-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^71-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^71-3]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^71-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 72
 
@@ -1600,22 +1593,15 @@ Die öffentliche Urkunde über den Errichtungsakt muss folgende Angaben enthalte
 - b. die Erklärung der Gründerinnen und Gründer, eine Gesellschaft mit beschränkter Haftung zu gründen;
 - c. die Bestätigung der Gründerinnen und Gründer, dass die Statuten festgelegt sind;
 - d. die Erklärung jeder Gründerin und jedes Gründers über die Zeichnung der Stammanteile unter Angabe von Anzahl, Nennwert, Kategorien und Ausgabebetrag;
-- e.
-
-  die Feststellung der Gründerinnen und Gründer, dass:
-
-  - 1\. sämtliche Stammanteile gültig gezeichnet sind,
-  - 2\. die Einlagen dem gesamten Ausgabebetrag entsprechen,
-  - 3\. die gesetzlichen und gegebenenfalls die statutarischen Anforderungen an die Leistung der Einlage erfüllt sind,
-  - 4\. sie die statutarischen Nachschuss- oder Nebenleistungspflichten übernehmen,
-  - 5\.[^72-1] keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten;
-
+- e.[^72-1] die Feststellung der Gründerinnen und Gründer nach Artikel 777 Absatz 2 OR;
 - f. falls die Geschäftsführerinnen und Geschäftsführer gewählt wurden: einen Hinweis darauf und die entsprechenden Personenangaben;
 - g. die Tatsache, dass die Revisionsstelle gewählt wurde, beziehungsweise den Verzicht auf eine Revision;
 - h. die Nennung aller Belege sowie die Bestätigung der Urkundsperson, dass die Belege ihr und den Gründerinnen und Gründern vorgelegen haben;
-- i. die Unterschriften der Gründerinnen und Gründer.
+- i. die Unterschriften der Gründerinnen und Gründer;
+- j.[^72-2] falls das Stammkapital in ausländischer Währung festgelegt wird oder Einlagen in einer anderen Währung geleistet werden als derjenigen des Stammkapitals: die angewandten Umrechnungskurse.
 
-[^72-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^72-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^72-2]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 73
 
@@ -1632,7 +1618,7 @@ Bei Gesellschaften mit beschränkter Haftung müssen ins Handelsregister eingetr
 - e. das Datum der Statuten;
 - f. falls sie beschränkt ist: die Dauer der Gesellschaft;
 - g. der Zweck;
-- h. die Höhe des Stammkapitals;
+- h.[^73-1] die Höhe und die Währung des Stammkapitals;
 - i. die Gesellschafterinnen und Gesellschafter unter Angabe der Anzahl und des Nennwerts ihrer Stammanteile;
 - j. bei Nachschusspflichten: ein Verweis auf die nähere Umschreibung in den Statuten;
 - k. bei statutarischen Nebenleistungspflichten unter Einschluss statutarischer Vorhand-, Vorkaufs- und Kaufsrechte: ein Verweis auf die nähere Umschreibung in den Statuten;
@@ -1645,9 +1631,15 @@ Bei Gesellschaften mit beschränkter Haftung müssen ins Handelsregister eingetr
 - r. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung der Geschäftsführung gemäss Artikel 62 Absatz 2;
 - s. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - t. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- u. die in den Statuten vorgesehene Form der Mitteilungen der Geschäftsführerinnen und Geschäftsführer an die Gesellschafterinnen und Gesellschafter.
+- u.[^73-2] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Gesellschafterinnen und Gesellschafter;
+- v.[^73-3] ein Verweis auf die Statuten, sofern diese eine Schiedsklausel enthalten.
 
-<sup>2</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absätze 2 und 3 sinngemäss.
+<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^73-4]
+
+[^73-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-3]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 2. Abschnitt: Erhöhung des Stammkapitals
 
@@ -1655,61 +1647,36 @@ Bei Gesellschaften mit beschränkter Haftung müssen ins Handelsregister eingetr
 
 **Anmeldung und Belege**
 
-<sup>1</sup> Eine Erhöhung des Stammkapitals muss innerhalb von drei Monaten nach dem Beschluss der Gesellschafterversammlung beim Handelsregisteramt zur Eintragung angemeldet werden. Anmeldungen, die nach dieser Frist eingereicht werden, werden abgewiesen.
-
-<sup>2</sup> d.[^74-1] der von einer Geschäftsführerin oder einem Geschäftsführer unterzeichnete Kapitalerhöhungsbericht;
-
-Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
-
-- a. die öffentliche Urkunde über den Beschluss der Gesellschafterversammlung;
-- b. die öffentliche Urkunde über die Feststellungen der Geschäftsführerinnen und Geschäftsführer und über die Statutenänderung;
-- c. die angepassten Statuten;
-
-- e. bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welchem Bankinstitut die Einlagen hinterlegt sind, sofern das Bankinstitut in der öffentlichen Urkunde nicht genannt wird;
-- f.[^74-2] …
-
-<sup>3</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile oder wird die Erhöhung des Stammkapitals durch Umwandlung von Eigenkapital liberiert, so gilt Artikel 46 Absatz 3 sinngemäss.
-
-<sup>4</sup> Werden die Bezugsrechte eingeschränkt oder aufgehoben, so gilt Artikel 46 Absatz 4 sinngemäss.
-
-[^74-1]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^74-2]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-
-#### Art. 75
-
-**Öffentliche Urkunden**
-
-<sup>1</sup>
-
-Die öffentliche Urkunde über den Beschluss der Gesellschafterversammlung muss folgende Angaben enthalten:
-
-- a. den Nennbetrag oder gegebenenfalls den maximalen Nennbetrag, um den das Stammkapital erhöht werden soll;
-- b. die Anzahl oder gegebenenfalls die maximale Anzahl sowie den Nennwert der Stammanteile, die neu ausgegeben werden sollen;
-- c. den Ausgabebetrag oder die Ermächtigung der Geschäftsführerinnen und Geschäftsführer, diesen festzusetzen;
-- d. den Beginn der Dividendenberechtigung;
-- e. die Art der Einlagen;
-- f. im Fall von Sacheinlagen: deren Gegenstand und Bewertung, den Namen der Einlegerin oder des Einlegers sowie die ihr oder ihm zukommenden Stammanteile;
-- g. im Fall von Sachübernahmen: deren Gegenstand, den Namen der Veräussererin oder des Veräusserers sowie die Gegenleistung der Gesellschaft;
-- h. im Fall von besonderen Vorteilen: deren Inhalt und Wert sowie die Namen der begünstigten Personen;
-- i. gegebenenfalls die Stimmrechtsstammanteile;
-- j. im Fall von Vorzugsstammanteilen: die damit verbundenen Vorrechte;
-- k. eine vom Gesetz abweichende Regelung der Zustimmungserfordernisse für die Übertragung der Stammanteile;
-- l. mit den neu auszugebenden Stammanteilen verbundene Nachschuss- oder Nebenleistungspflichten unter Einschluss statutarischer Vorhand-, Vorkaufs- oder Kaufsrechte;
-- m. die Zuweisung nicht ausgeübter oder entzogener Bezugsrechte und gegebenenfalls die Einschränkung oder Aufhebung des Bezugsrechts.
+<sup>1</sup> Eine Erhöhung des Stammkapitals muss innerhalb von sechs Monaten nach dem Beschluss der Gesellschafterversammlung beim Handelsregisteramt zur Eintragung angemeldet werden.[^74-1]
 
 <sup>2</sup>
 
-Die öffentliche Urkunde über die Feststellungen der Geschäftsführerinnen und Geschäftsführer und über die Statutenänderung muss festhalten, dass:
+Mit der Anmeldung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
-- a. sämtliche Stammanteile gültig gezeichnet sind;
-- b. die Einlagen dem gesamten Ausgabebetrag entsprechen;
-- c. die Einlagen entsprechend den Anforderungen des Gesetzes, der Statuten und des Gesellschafterversammlungsbeschlusses geleistet wurden;
-- d.[^75-1] sofern die Zeichnerinnen und Zeichner nicht bereits Gesellschafterinnen und Gesellschafter sind, sie allfällige statutarische Nachschuss- oder Nebenleistungspflichten, Konkurrenzverbote, Vorhand-, Vorkaufs- und Kaufsrechte sowie Konventionalstrafen übernehmen;
-- e. die Belege der Urkundsperson und den Geschäftsführerinnen und den Geschäftsführern vorgelegen haben. Die Belege sind einzeln aufzuführen;
-- f.[^75-2] keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
+- a.[^74-2] die öffentliche Urkunde über den Beschluss der Gesellschafterversammlung (Art. 650 Abs. 2 i. V. m. Art. 781 Abs. 5 Ziff. 1 OR);
+- b.[^74-3] die öffentliche Urkunde über den Beschluss der Geschäftsführerinnen und Geschäftsführer (Art. 652*g* Abs. 2 i. V. m. Art. 781 Abs. 5 Ziff. 5 OR);
+- c. die angepassten Statuten;
+- d.[^74-4] der von einer Geschäftsführerin oder einem Geschäftsführer unterzeichnete Kapitalerhöhungsbericht (Art. 652*e* i. V. m. Art. 781 Abs. 5 Ziff. 4 OR);
+- e.[^74-5] bei Bareinlagen: eine Bescheinigung, aus der ersichtlich ist, bei welcher Bank die Einlagen hinterlegt sind, sofern die Bank in der öffentlichen Urkunde nicht genannt wird;
+- f.[^74-6] …
 
-[^75-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^75-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+<sup>3</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile oder wird die Erhöhung des Stammkapitals durch Umwandlung von Eigenkapital liberiert, so gilt Artikel 46 Absatz 3 sinngemäss.[^74-7]
+
+<sup>4</sup> Werden die Bezugsrechte eingeschränkt oder aufgehoben, so gilt Artikel 46 Absatz 4 sinngemäss.
+
+[^74-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-5]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-6]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^74-7]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+#### Art. 75
+
+[^75-1]
+
+[^75-1]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 76
 
@@ -1730,89 +1697,39 @@ Bei einer Erhöhung des Stammkapitals müssen ins Handelsregister eingetragen we
 - i. bei einer vom Gesetz abweichende Regelung der Zustimmungserfordernisse für die Übertragung der Stammanteile: ein Verweis auf die nähere Umschreibung in den Statuten;
 - j. falls die Erhöhung durch Umwandlung von frei verwendbarem Eigenkapital erfolgt ist: ein Hinweis darauf.
 
-<sup>2</sup> Bestehen Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absätze 2 und 3 sinngemäss.
+<sup>2</sup> Bestehen Sacheinlagen, Verrechnungstatbestände oder besondere Vorteile, so gilt Artikel 45 Absatz 2 sinngemäss.[^76-1]
+
+[^76-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 3. Abschnitt: Herabsetzung des Stammkapitals
 
 #### Art. 77
 
-**Ordentliche Herabsetzung des Stammkapitals**
+**Ordentliche Kapitalherabsetzung[^77-1]**
 
 Soweit dieser Abschnitt nichts anderes bestimmt, gilt Artikel 55 für die Herabsetzung des Stammkapitals sinngemäss.
 
+[^77-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 78
 
-**Herabsetzung des Stammkapitals im Fall einer Unterbilanz**
+**Kapitalherabsetzung im Fall einer Unterbilanz**[^78-1]
 
-<sup>1</sup>
+<sup>1</sup> Wird das Stammkapital zur teilweisen oder vollständigen Beseitigung einer durch Verluste entstandenen Unterbilanz herabgesetzt, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung die Belege nach Artikel 56 Absatz 1 eingereicht werden.
 
-Wird durch die Herabsetzung des Stammkapitals eine Unterbilanz beseitigt, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung folgende Belege eingereicht werden:
+<sup>2</sup> Für den Inhalt des Eintrags gilt Artikel 56 Absatz 3 sinngemäss.
 
-- a.
-
-  die öffentliche Urkunde über den Beschluss der Gesellschafterversammlung betreffend:
-
-  - 1\. die Feststellung über das Ergebnis des Prüfungsberichts,
-  - 2\. die Art und Weise der Durchführung der Kapitalherabsetzung,
-  - 3\. die Anpassung der Statuten;
-
-- b. die angepassten Statuten;
-- c. der Prüfungsbericht eines staatlich beaufsichtigten Revisionsunternehmens, einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten.
-
-<sup>2</sup>
-
-Der Prüfungsbericht muss bestätigen, dass:
-
-- a. die Forderungen der Gläubigerinnen und Gläubiger nach der Kapitalherabsetzung voll gedeckt sind;
-- b. der Betrag der Herabsetzung des Stammkapitals die durch Verluste entstandene Unterbilanz nicht übersteigt;
-- c. die Gesellschafterinnen und Gesellschafter die in den Statuten vorgesehenen Nachschüsse voll geleistet haben.
-
-<sup>3</sup>
-
-Ins Handelsregister müssen eingetragen werden:
-
-- a. die Tatsache, dass das Stammkapital zur Beseitigung einer Unterbilanz herabgesetzt wurde;
-- b. das Datum der Änderung der Statuten;
-- c. die Angabe, ob die Herabsetzung durch Reduktion des Nennwerts oder durch Vernichtung von Stammanteilen erfolgt;
-- d. der Herabsetzungsbetrag;
-- e. der Betrag des Stammkapitals nach der Herabsetzung;
-- f. Anzahl und Nennwert der Stammanteile nach der Herabsetzung des Stammkapitals;
-- g. die Änderungen im Bestand der Gesellschafterinnen und Gesellschafter.
+[^78-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 79
 
-**Herabsetzung und gleichzeitige Wiedererhöhung des Stammkapitals auf den bisherigen oder einen höheren Betrag**
+**Gleichzeitige Herabsetzung und Erhöhung des Stammkapitals**[^79-1]
 
-<sup>1</sup>
+<sup>1</sup> Wird das Stammkapital herabgesetzt und gleichzeitig mindestens auf den bisherigen Betrag erhöht, so müssen dem Handelsregisteramt mit der Anmeldung zur Eintragung die Belege nach Artikel 57 Absatz 1 eingereicht werden.
 
-Wird zusammen mit der Herabsetzung des Stammkapitals eine Wiedererhöhung auf den bisherigen oder einen höheren Betrag beschlossen, so müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+<sup>2</sup> Für den Inhalt des Eintrags gilt Artikel 57 Absatz 2 sinngemäss.
 
-- a. die öffentliche Urkunde über den Beschluss der Gesellschafterversammlung;
-- b. die für eine Kapitalerhöhung erforderlichen Belege;
-- c. die Statuten, falls sie geändert werden müssen.
-
-<sup>2</sup> Falls die Statuten Nachschüsse vorsehen, muss der Prüfungsbericht bestätigen, dass die Gesellschafterinnen und Gesellschafter diese voll geleistet haben.
-
-<sup>3</sup>
-
-Ins Handelsregister müssen eingetragen werden:
-
-- a. die Tatsache, dass das Stammkapital herabgesetzt und gleichzeitig wieder erhöht wird;
-- b. der Betrag, auf den das Stammkapital herabgesetzt wird;
-- c. die Angabe, ob die Herabsetzung durch Reduktion des Nennwerts oder durch Vernichtung von Stammanteilen erfolgt;
-- d. falls das Stammkapital über den bisherigen Betrag erhöht wurde: der neue Betrag;
-- e. Anzahl und Nennwert der Stammanteile nach der Kapitalerhöhung;
-- f. die Änderungen im Bestand der Gesellschafterinnen und Gesellschafter;
-- g. gegebenenfalls die Stimmrechtsstammanteile;
-- h. im Fall von Vorzugsstammanteilen: die damit verbundenen Vorrechte;
-- i. bei Nachschusspflichten: ein Verweis auf die nähere Umschreibung in den Statuten;
-- j. bei statutarischen Nebenleistungspflichten unter Einschluss statutarischer Vorhand-, Vorkaufs- und Kaufsrechte: ein Verweis auf die nähere Umschreibung in den Statuten;
-- k. bei einer vom Gesetz abweichenden Regelung der Zustimmungserfordernisse für die Übertragung der Stammanteile: ein Verweis auf die nähere Umschreibung in den Statuten;
-- l. falls die Statuten geändert wurden: deren neues Datum.
-
-<sup>4</sup> Wird das Stammkapital zum Zwecke der Sanierung auf null herabgesetzt und anschliessend wieder erhöht, so müssen die Vernichtung der bisher ausgegebenen Stammanteile und allfällige Änderungen im Bestand der Gesellschafterinnen und Gesellschafter ins Handelsregister eingetragen werden.
-
-<sup>5</sup> Bestehen anlässlich der Kapitalerhöhung Sacheinlagen, Sachübernahmen, Verrechnungstatbestände oder besondere Vorteile, so gelten die Artikel 45 Absätze 2 und 3 sinngemäss. Erfolgt die Wiedererhöhung des Stammkapitals durch Umwandlung von frei verwendbarem Eigenkapital, so finden die Artikel 74 Absatz 3 und 76 Absatz 1 Buchstabe j Anwendung.
+[^79-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 80
 
@@ -1841,11 +1758,15 @@ Dem Handelsregisteramt müssen eingereicht werden:
 
 <sup>3</sup> Die Erwerberin oder der Erwerber darf nur ins Handelsregister eingetragen werden, wenn lückenlos nachgewiesen wird, dass der Stammanteil von der eingetragenen Gesellschafterin oder vom eingetragenen Gesellschafter auf die Erwerberin oder den Erwerber übergegangen ist.
 
-### 5. Abschnitt: Revision, Revisionsstelle, Auflösung und Löschung
+### 5. Abschnitt: Währung des Stammkapitals, Revision, Revisionsstelle, Auflösung und Löschung
+
+[^tit3-chap5-sec5-1]
+
+[^tit3-chap5-sec5-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 83
 
-Für die Revision, für die Revisionsstelle, für die Auflösung, für den Widerruf der Auflösung und für die Löschung der Gesellschaft mit beschränkter Haftung gelten die Bestimmungen über die Aktiengesellschaft sinngemäss.
+Für die Währung des Stammkapitals, für die Revision, für die Revisionsstelle, für die Auflösung, für den Widerruf der Auflösung und für die Löschung der Gesellschaft mit beschränkter Haftung gelten die Bestimmungen über die Aktiengesellschaft sinngemäss.
 
 ### 6. Kapitel: Genossenschaft
 
@@ -1855,45 +1776,54 @@ Für die Revision, für die Revisionsstelle, für die Auflösung, für den Wider
 
 <sup>1</sup>
 
-Mit der Anmeldung der Gründung einer Genossenschaft zur Eintragung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+Mit der Anmeldung zur Eintragung der Gründung einer Genossenschaft müssen dem Handelsregisteramt folgende Belege eingereicht werden:[^84-1]
 
-- a. das Protokoll der konstituierenden Versammlung;
-- b. die von einem Mitglied der Verwaltung unterzeichneten Statuten;
+- a.[^84-2] die öffentliche Urkunde über die Errichtung;
+- b.[^84-3] die Statuten;
 - c. ein Nachweis, dass die Mitglieder der Verwaltung ihre Wahl angenommen haben;
 - d. gegebenenfalls ein Nachweis, dass die gesetzlich vorgeschriebene Revisionsstelle ihre Wahl angenommen hat;
 - e. bei Bestellung zur Vertretung berechtigter Personen: der entsprechende Beschluss der konstituierenden Versammlung oder der Verwaltung;
 - f. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Gesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- g.[^84-1] …
+- g.[^84-4] …
 - h. falls die Statuten eine persönliche Haftung oder Nachschusspflicht vorsehen: das von einem Mitglied der Verwaltung unterzeichnete Verzeichnis der Genossenschafterinnen und Genossenschafter.
 
-<sup>2</sup> Für Angaben, die bereits im Protokoll der konstituierenden Versammlung festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
+<sup>2</sup> Für Angaben, die bereits in der öffentlichen Urkunde über die Errichtung festgehalten sind, ist kein zusätzlicher Beleg erforderlich.[^84-5]
 
 <sup>3</sup>
 
-Bestehen Sacheinlagen oder Sachübernahmen, so müssen zusätzlich folgende Belege eingereicht werden:
+Bestehen Sacheinlagen, so müssen zusätzlich folgende Belege eingereicht werden:[^84-6]
 
 - a. die Sacheinlageverträge mit den erforderlichen Beilagen;
-- b. Sachübernahmeverträge mit den erforderlichen Beilagen;
+- b.[^84-7] …
 - c. der von allen Gründerinnen und Gründern unterzeichnete Gründungsbericht.
 
-[^84-1]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^84-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-4]: Aufgehoben durch Ziff. I der V vom 6. März 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^84-5]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-7]: Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 85
 
-**Protokoll der konstituierenden Versammlung**
+**Öffentliche Urkunde über die Errichtung[^85-1]**
 
-Das Protokoll der konstituierenden Versammlung muss folgende Angaben enthalten:
+Die öffentliche Urkunde über die Errichtung muss folgende Angaben enthalten:[^85-2]
 
 - a. die Personenangaben zu den Gründerinnen und Gründern sowie zu deren Vertreterinnen und Vertretern;
 - b. die Erklärung der Gründerinnen und Gründer, eine Genossenschaft zu gründen;
 - c. die Bestätigung der Gründerinnen und Gründer, dass die Statuten festgelegt sind;
-- d. gegebenenfalls die Tatsache, dass der schriftliche Bericht der Gründerinnen und Gründer über Sacheinlagen oder Sachübernahmen der Versammlung bekannt gegeben und von dieser beraten wurde;
+- d.[^85-3] gegebenenfalls die Tatsache, dass der schriftliche Bericht der Gründerinnen und Gründer über Sacheinlagen der Versammlung bekannt gegeben und von dieser beraten wurde;
 - e. die Wahl der Mitglieder der Verwaltung sowie die entsprechenden Personenangaben;
 - f. die Tatsache, dass die Revisionsstelle gewählt wurde, beziehungsweise den Verzicht auf eine Revision;
 - g. die Unterschriften der Gründerinnen und Gründer;
-- h.[^85-1] die Feststellung der Gründerinnen und Gründer, dass keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
+- h.[^85-4] die Bestätigung der Gründerinnen und Gründer, dass keine anderen Sacheinlagen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
 
-[^85-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^85-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-4]: Eingefügt durch Ziff. I der V vom 6. März 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 86
 
@@ -1924,9 +1854,12 @@ Bei Genossenschaften müssen ins Handelsregister eingetragen werden:
 - m. falls die Gesellschaft keine ordentliche oder eingeschränkte Revision durchführt: ein Hinweis darauf sowie das Datum der Erklärung der Verwaltung gemäss Artikel 62 Absatz 2;
 - n. falls die Gesellschaft eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle;
 - o. das gesetzliche Publikationsorgan sowie gegebenenfalls weitere Publikationsorgane;
-- p. die in den Statuten vorgesehene Form der Mitteilungen der Verwaltung an die Genossenschafterinnen und Genossenschafter.
+- p.[^87-1] die in den Statuten vorgesehene Form der Mitteilungen der Genossenschaft an ihre Genossenschafterinnen und Genossenschafter.
 
-<sup>2</sup> Bestehen anlässlich der Gründung Sacheinlagen oder Sachübernahmen, so gilt Artikel 45 Absatz 2 Buchstaben a und b und Absatz 3 sinngemäss.
+<sup>2</sup> Bestehen anlässlich der Gründung Sacheinlagen, so gilt Artikel 45 Absatz 2 Buchstabe a sinngemäss.[^87-2]
+
+[^87-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 88
 
@@ -1948,7 +1881,31 @@ Für die Revision, für die Revisionsstelle, für die Auflösung, für den Wider
 
 #### Art. 90
 
-**Anmeldung und Belege**
+**Pflicht zur Eintragung in das Handelsregister**[^90-1]
+
+<sup>1</sup>
+
+Nach Artikel 61 Absatz 2 ZGB[^90-2] ist der Verein zur Eintragung in das Handelsregister verpflichtet, wenn er:
+
+- a. für seinen Zweck ein nach kaufmännischer Art geführtes Gewerbe betreibt;
+- b. revisionspflichtig ist; oder
+- c. hauptsächlich Vermögenswerte im Ausland direkt oder indirekt sammelt oder verteilt, die für karitative, religiöse, kulturelle, erzieherische oder soziale Zwecke bestimmt sind, und keine Ausnahme gemäss Absatz 2 vorliegt.
+
+<sup>2</sup>
+
+Vereine nach Absatz 1 Buchstabe c sind von der Eintragungspflicht befreit, wenn:
+
+- a. in den letzten zwei Geschäftsjahren weder die jährlich gesammelten Vermögenswerte noch die jährlich verteilten Vermögenswerte den Wert von 100 000 Franken übersteigen;
+- b. die Verteilung der Vermögenswerte über einen Finanzintermediär nach dem Geldwäschereigesetz vom 10. Oktober 1997[^90-3] erfolgt; und
+- c. mindestens eine zur Vertretung des Vereins berechtigte Person ihren Wohnsitz in der Schweiz hat.
+
+[^90-1]: Eingefügt durch Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^90-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 90a
+
+**Anmeldung und Belege**[^90a-1]
 
 <sup>1</sup>
 
@@ -1970,9 +1927,14 @@ Mit der Anmeldung zur Eintragung eines Vereins müssen dem Handelsregisteramt fo
 
 <sup>2</sup> Für Angaben, die bereits im Protokoll der Vereinsversammlung festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
 
-<sup>3</sup> Wurde dem Verein bereits eine Unternehmens-Identifikationsnummer zugewiesen, so ist sie in der Anmeldung anzugeben.[^90-1]
+<sup>3</sup> Wurde dem Verein bereits eine Unternehmens-Identifikationsnummer zugewiesen, so ist sie in der Anmeldung anzugeben.[^90a-2]
 
-[^90-1]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+<sup>4</sup> Ein Verein, welcher der Pflicht zur Eintragung in das Handelsregister nach Artikel 61 Absatz 2 ZGB[^90a-3] nicht untersteht und nicht durch eine Person mit Wohnsitz in der Schweiz vertreten wird, reicht beim Handelsregisteramt eine von mindestens einem Mitglied des Vorstands unterzeichnete Erklärung ein, dass er nicht zur Eintragung in das Handelsregister verpflichtet ist.[^90a-4]
+
+[^90a-1]: Ursprünglich: Art. 90
+[^90a-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^90a-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90a-4]: Eingefügt durch Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 91
 
@@ -1995,18 +1957,25 @@ Bei Vereinen müssen ins Handelsregister eingetragen werden:
 - g. der Zweck;
 - h. die Mittel, wie Mitgliederbeiträge, Erträge aus dem Vereinsvermögen oder aus der Vereinstätigkeit und Schenkungen;
 - i. im Fall einer persönlichen Haftung oder einer Nachschusspflicht der Mitglieder des Vereins: ein Verweis auf die nähere Umschreibung in den Statuten;
-- j.[^92-1] …
-- k. die Mitglieder des Vorstandes;
-- l. die zur Vertretung berechtigten Personen;
+- j.[^92-1] falls der Verein der Pflicht zur Eintragung in das Handelsregister nach Artikel 61 Absatz 2 ZGB[^92-2] nicht untersteht und keine der zur Vertretung berechtigten Personen Wohnsitz in der Schweiz hat: ein Hinweis darauf sowie das Datum der Erklärung gemäss Artikel 90*a* Absatz 4;
+- k.[^92-3] bei Vereinen nach Artikel 90 Absatz 1 Buchstaben a und b: die Mitglieder des Vorstands und die zur Vertretung berechtigten Personen; bei anderen Vereinen mindestens ein Mitglied des Vorstands und mindestens eine zur Vertretung berechtigte Person mit Wohnsitz in der Schweiz;
+- l.[^92-4] …
 - m. falls der Verein eine ordentliche oder eingeschränkte Revision durchführt: die Revisionsstelle.
 
-[^92-1]: Aufgehoben durch Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^92-1]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^92-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^92-3]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^92-4]: Aufgehoben durch Anhang Ziff. 2 der V vom 31. Aug. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 93
 
 **Auflösung und Löschung**
 
-Für die Auflösung, den Widerruf der Auflösung und für die Löschung des Vereins gelten die Bestimmungen über die Aktiengesellschaft sinngemäss.
+<sup>1</sup> Für die Auflösung, den Widerruf der Auflösung und für die Löschung des Vereins gelten die Bestimmungen über die Aktiengesellschaft sinngemäss.
+
+<sup>2</sup> Ein Verein, welcher der Pflicht zur Eintragung in das Handelsregister nicht untersteht, kann jederzeit die Löschung des Eintrags im Handelsregister anmelden. In diesem Fall ist mit der Anmeldung zur Löschung der Beschluss des zuständigen Organs als Beleg einzureichen, sowie eine von mindestens einem Mitglied des Vorstands unterzeichnete Erklärung des Vorstands, dass der Verein nicht eintragungspflichtig ist. Zusammen mit der Löschung müssen der Löschungsgrund und die Tatsache, dass der Verein nicht eintragungspflichtig ist, sowie das Datum der Erklärung nach diesem Absatz im Handelsregister eingetragen werden.[^93-1]
+
+[^93-1]: Eingefügt durch Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 8. Kapitel: Stiftung
 
@@ -2176,21 +2145,21 @@ Bei Investmentgesellschaften mit festem Kapital müssen ins Handelsregister eing
 
 <sup>1</sup>
 
-Mit der Anmeldung der Gründung einer Investmentgesellschaft mit variablem Kapital zur Eintragung müssen dem Handelsregisteramt folgende Belege eingereicht werden:
+Mit der Anmeldung zur Eintragung der Gründung einer Investmentgesellschaft mit variablem Kapital müssen dem Handelsregisteramt folgende Belege eingereicht werden:[^102-1]
 
 - a. die öffentliche Urkunde über den Errichtungsakt;
 - b. die Statuten;
 - c. ein Nachweis, dass die Mitglieder des Verwaltungsrates ihre Wahl angenommen haben;
-- d.[^102-1] ein Nachweis, dass die gesetzlich vorgeschriebene Prüfgesellschaft ihre Wahl angenommen hat;
+- d.[^102-2] ein Nachweis, dass die gesetzlich vorgeschriebene Prüfgesellschaft ihre Wahl angenommen hat;
 - e. das Protokoll des Verwaltungsrates über seine Konstituierung, über die Regelung des Vorsitzes und über die Erteilung der Zeichnungsbefugnisse;
 - f. im Fall von Artikel 117 Absatz 3: die Erklärung der Domizilhalterin oder des Domizilhalters, dass sie oder er der Investmentgesellschaft ein Rechtsdomizil am Ort von deren Sitz gewährt;
-- g.[^102-2] bei Inhaberaktien: ein Nachweis, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^102-3] ausgestaltet sind.
+- g.[^102-3] ….
 
 <sup>2</sup> Für Angaben, die bereits im Errichtungsakt festgehalten sind, ist kein zusätzlicher Beleg erforderlich.
 
-[^102-1]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^102-2]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^102-3]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^102-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^102-2]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^102-3]: Eingefügt durch Ziff. I der V vom 6. März 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 103
 
@@ -2229,13 +2198,13 @@ Bei Investmentgesellschaften mit variablem Kapital müssen ins Handelsregister e
 - m.[^104-1] die Tatsache, dass die Prüfung nach KAG durchgeführt wird;
 - n.[^104-2] die zugelassene Prüfgesellschaft;
 - o. das gesetzliche sowie die weiteren Publikationsorgane;
-- p. die in den Statuten vorgesehene Form der Mitteilungen des Verwaltungsrates an die Aktionärinnen und Aktionäre;
-- q.[^104-3] im Fall von Inhaberaktien: die Tatsache, dass die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder dass alle Inhaberaktien als Bucheffekten im Sinne des BEG[^104-4] ausgestaltet sind.
+- p.[^104-3] die in den Statuten vorgesehene Form der Mitteilungen der Gesellschaft an ihre Aktionärinnen und Aktionäre;
+- q.[^104-4] ….
 
 [^104-1]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^104-2]: Fassung gemäss Anhang Ziff. 1 der Grundbuchverordnung vom 23. Sept. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^104-3]: Eingefügt durch Ziff. I der V vom 6. März 2020, in Kraft seit 1. April 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^104-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^104-3]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^104-4]: Eingefügt durch Ziff. I der V vom 6. März 2020 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Aufgehoben durch Ziff. I der V vom 2. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 105
 
@@ -2388,7 +2357,7 @@ Bei Zweigniederlassungen von Rechtseinheiten mit Sitz im Ausland müssen ins Han
 
 ## 4. Titel: Rechtsformübergreifende Bestimmungen für die Eintragung
 
-### 1. Kapitel: Unternehmens-Identifikationsnummer, Rechtsform-, Sitz-, Zweck- und Personenangaben sowie Hinweis auf die vorangehende Eintragung****
+### 1. Kapitel: Unternehmens-Identifikationsnummer, Rechtsform-, Sitz-, Zweck- und Personenangaben sowie Hinweis auf die vorangehende Eintragung
 
 [^tit4-chap1-1]
 
@@ -2678,7 +2647,9 @@ Rechtseinheiten dürfen Fusionen, Spaltungen, Umwandlungen und Vermögensübertr
 
 <sup>2</sup> Befinden sich nicht alle Rechtseinheiten im selben Registerbezirk, so müssen die Handelsregisterämter ihre Eintragungen aufeinander abstimmen.
 
-<sup>3</sup> Diese Bestimmung gilt auch für die Eintragung einer Sacheinlage oder Sachübernahme, die mittels einer Vermögensübertragung durchgeführt wird.
+<sup>3</sup> Diese Bestimmung gilt auch für die Eintragung einer Sacheinlage, die mittels einer Vermögensübertragung durchgeführt wird.[^129-1]
+
+[^129-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 2. Abschnitt: Fusion von Rechtseinheiten
 
@@ -2688,11 +2659,11 @@ Rechtseinheiten dürfen Fusionen, Spaltungen, Umwandlungen und Vermögensübertr
 
 <sup>1</sup> Jede an der Fusion beteiligte Rechtseinheit muss die sie betreffenden Tatsachen selber zur Eintragung in das Handelsregister anmelden (Art. 21 Abs. 1 FusG), und zwar in einer der Amtssprachen des betroffenen Handelsregisteramts.
 
-<sup>2</sup> Befinden sich nicht alle an der Fusion beteiligten Rechtseinheiten im selben Registerbezirk, so ist das Handelsregisteramt am Ort der übernehmenden Rechtseinheit für den Entscheid über die Eintragung der Fusion zuständig. Es informiert die Handelsregisterämter am Sitz der übertragenden Rechtseinheiten über die Eintragung, die es vornehmen wird, und weist sie an, die bisherigen Einträge ohne weitere Prüfung zu löschen.[^130-1]
+<sup>2</sup> Befinden sich nicht alle an der Fusion beteiligten Rechtseinheiten im selben Registerbezirk, so ist das Handelsregisteramt am Ort der übernehmenden Rechtseinheit für den Entscheid über die Eintragung der Fusion zuständig. Es informiert die Handelsregisterämter am Sitz der übertragenden Rechtseinheiten über die Eintragung, die es vornehmen wird, und weist sie an, die bisherigen Einträge ohne weitere Prüfung zu löschen. Auf Verlangen übermittelt es ihnen Kopien der Anmeldung und der Belege.[^130-1]
 
 <sup>3</sup> Sämtliche Belege und elektronische Daten zu den Eintragungen der übertragenden Rechtseinheiten sind nach deren Löschung an das Handelsregisteramt am Sitz der übernehmenden Rechtseinheit zu übermitteln und zu den Akten der übernehmenden Rechtseinheit zu nehmen.
 
-[^130-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^130-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 131
 
@@ -2703,7 +2674,7 @@ Rechtseinheiten dürfen Fusionen, Spaltungen, Umwandlungen und Vermögensübertr
 Mit der Anmeldung zur Eintragung der Fusion müssen die beteiligten Rechtseinheiten die folgenden Belege einreichen:
 
 - a. den Fusionsvertrag (Art. 12 und 13 FusG);
-- b. die Fusionsbilanzen der übertragenden Rechtseinheiten, gegebenenfalls die Zwischenbilanzen (Art. 11 FusG);
+- b.[^131-1] die Fusionsbilanzen der übertragenden Rechtseinheiten, gegebenenfalls die Bilanzen der Zwischenabschlüsse (Art. 11 FusG);
 - c. die Fusionsbeschlüsse der beteiligten Rechtseinheiten, soweit erforderlich, öffentlich beurkundet (Art. 18 und 20 FusG);
 - d. die Prüfungsberichte der beteiligten Rechtseinheiten (Art. 15 FusG);
 - e. bei einer Absorptionsfusion: soweit erforderlich die Belege für eine Kapitalerhöhung (Art. 9 und 21 Abs. 2 FusG);
@@ -2715,6 +2686,8 @@ Mit der Anmeldung zur Eintragung der Fusion müssen die beteiligten Rechtseinhei
 
 <sup>3</sup> Bei erleichterten Fusionen von Kapitalgesellschaften (Art. 23 FusG) müssen die beteiligten Gesellschaften anstelle der Belege nach Absatz 1 Buchstaben c und d die Auszüge aus den Protokollen der obersten Leitungs- oder Verwaltungsorgane über die Genehmigung des Fusionsvertrages einreichen, sofern der Fusionsvertrag nicht von allen Mitgliedern dieser Organe unterzeichnet ist. Soweit dies nicht aus den anderen Belegen hervorgeht, müssen sie zudem nachweisen, dass die Gesellschaften die Voraussetzungen von Artikel 23 FusG erfüllen.
 
+[^131-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 132
 
 **Inhalt des Eintrags**
@@ -2724,7 +2697,7 @@ Mit der Anmeldung zur Eintragung der Fusion müssen die beteiligten Rechtseinhei
 Bei der übernehmenden Rechtseinheit müssen ins Handelsregister eingetragen werden:
 
 - a. die Firma oder der Name, der Sitz sowie die Unternehmens-Identifikationsnummer der an der Fusion beteiligten Rechtseinheiten;
-- b. das Datum des Fusionsvertrages und der Fusionsbilanz und gegebenenfalls der Zwischenbilanz;
+- b.[^132-1] das Datum des Fusionsvertrages und der Fusionsbilanzen der übertragenden Rechtseinheiten;
 - c. der gesamte Wert der übertragenen Aktiven und Passiven;
 - d. gegebenenfalls die den Gesellschafterinnen und Gesellschaftern der übertragenden Gesellschaft zugesprochenen Anteils- oder Mitgliedschaftsrechte sowie eine allfällige Ausgleichszahlung (Art. 7 FusG);
 - e. gegebenenfalls die Abfindung (Art. 8 FusG);
@@ -2739,6 +2712,8 @@ Bei der übertragenden Rechtseinheit müssen ins Handelsregister eingetragen wer
 - a. die Firma oder der Name, der Sitz sowie die Unternehmens-Identifikationsnummer der an der Fusion beteiligten Rechtseinheiten;
 - b. die Tatsache, dass die Rechtseinheit infolge Fusion gelöscht wird (Art. 21 Abs. 3 FusG).
 
+[^132-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 ### 3. Abschnitt: Spaltung von Kapitalgesellschaften und Genossenschaften
 
 #### Art. 133
@@ -2747,9 +2722,9 @@ Bei der übertragenden Rechtseinheit müssen ins Handelsregister eingetragen wer
 
 <sup>1</sup> Jede an der Spaltung beteiligte Gesellschaft muss die sie betreffenden Tatsachen selber zur Eintragung in das Handelsregister anmelden (Art. 51 Abs. 1 FusG), und zwar in einer der Amtssprachen des betroffenen Handelsregisteramts.
 
-<sup>2</sup> Befinden sich nicht alle an der Spaltung beteiligten Gesellschaften im selben Registerbezirk, so ist das Handelsregisteramt am Ort der übertragenden Gesellschaft für den Entscheid über die Eintragung der Spaltung zuständig. Es informiert die Handelsregisterämter am Sitz der übernehmenden Gesellschaften über die Eintragung, die es vornehmen wird, und weist sie an, die entsprechenden Eintragungen ohne weitere Prüfung vorzunehmen.[^133-1]
+<sup>2</sup> Befinden sich nicht alle an der Spaltung beteiligten Gesellschaften im selben Registerbezirk, so ist das Handelsregisteramt am Ort der übertragenden Gesellschaft für den Entscheid über die Eintragung der Spaltung zuständig. Es informiert die Handelsregisterämter am Sitz der übernehmenden Gesellschaften über die Eintragung, die es vornehmen wird, und weist sie an, die entsprechenden Eintragungen ohne weitere Prüfung vorzunehmen. Auf Verlangen übermittelt es ihnen Kopien der Anmeldung und der Belege.[^133-1]
 
-[^133-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^133-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 134
 
@@ -2809,12 +2784,14 @@ Im Falle einer Abspaltung müssen bei der übertragenden Gesellschaft ins Handel
 Mit der Anmeldung zur Eintragung der Umwandlung (Art. 66 FusG) müssen dem Handelsregisteramt folgende Belege eingereicht werden:
 
 - a. der Umwandlungsplan (Art. 59 und 60 FusG);
-- b. die Umwandlungsbilanz, gegebenenfalls die Zwischenbilanz (Art. 58 FusG);
+- b.[^136-1] die Umwandlungsbilanz, gegebenenfalls die Bilanz des Zwischenabschlusses (Art. 58 FusG);
 - c. der öffentlich beurkundeten Umwandlungsbeschluss (Art. 64 und 65 FusG);
 - d. der Prüfungsbericht (Art. 62 FusG);
 - e. soweit nach den Umständen erforderlich: dieselben Belege wie bei der Neugründung der neuen Rechtsform (Art. 57 FusG).
 
 <sup>2</sup> Bei Umwandlungen von kleinen und mittleren Unternehmen kann das oberste Leitungs- oder Verwaltungsorgan anstelle des Belegs nach Absatz 1 Buchstabe d eine von mindestens einem Mitglied unterzeichnete Erklärung einreichen, wonach sämtliche Gesellschafterinnen und Gesellschafter auf die Erstellung des Umwandlungsberichts oder auf die Prüfung verzichten und die Gesellschaft die Anforderungen nach Artikel 2 Buchstabe e FusG erfüllt. In der Erklärung ist anzugeben, auf welche Unterlagen wie Erfolgsrechnungen, Bilanzen, Jahresberichte, Verzichtserklärungen oder das Protokoll der Generalversammlung sie sich stützt.
+
+[^136-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 137
 
@@ -2824,10 +2801,12 @@ Bei einer Umwandlung müssen ins Handelsregister eingetragen werden:
 
 - a. die Firma oder der Name sowie die Rechtsform vor und nach der Umwandlung;
 - b. bei juristischen Personen, das Datum der neuen Statuten;
-- c. das Datum des Umwandlungsplans, der Umwandlungsbilanz und gegebenenfalls der Zwischenbilanz;
+- c.[^137-1] das Datum des Umwandlungsplans und der Umwandlungsbilanz;
 - d. der gesamte Wert der Aktiven und Passiven;
 - e. die den Gesellschafterinnen und Gesellschaftern zugesprochenen Anteils- oder Mitgliedschaftsrechte;
 - f. die weiteren Angaben, die für die neue Rechtsform notwendig sind.
+
+[^137-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### 5. Abschnitt: Vermögensübertragung
 
@@ -2863,13 +2842,15 @@ Mit der Anmeldung zur Eintragung der Fusion (Art. 83 Abs. 3 FusG) muss die Aufsi
 
 - a. die Verfügung über die Genehmigung der Fusion (Art. 83 Abs. 3 FusG);
 - b. den Fusionsvertrag, soweit erforderlich, öffentlich beurkundet (Art. 79 FusG);
-- c. die Fusionsbilanzen der übertragenden Stiftungen, gegebenenfalls die Zwischenbilanzen (Art. 80 FusG);
+- c.[^140-1] die Fusionsbilanzen der übertragenden Stiftungen, gegebenenfalls die Bilanzen der Zwischenabschlüsse (Art. 80 FusG);
 - d. den Prüfungsbericht (Art. 81 FusG);
 - e. die Belege für die Errichtung einer Stiftung bei einer Kombinationsfusion.
 
 <sup>2</sup> Bei Fusionen von Familienstiftungen und kirchlichen Stiftungen muss die übernehmende Stiftung anstelle der Verfügung der Aufsichtsbehörde die Fusionsbeschlüsse der obersten Stiftungsorgane der beteiligten Stiftungen einreichen (Art. 84 Abs. 1 FusG).
 
 <sup>3</sup> Für den Inhalt des Eintrags der Fusion gilt Artikel 132 sinngemäss. Zusätzlich wird das Datum der Verfügung der Aufsichtsbehörde über die Genehmigung der Fusion eingetragen.
+
+[^140-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 141
 
@@ -2897,13 +2878,15 @@ Mit der Anmeldung zur Eintragung der Vermögensübertragung (Art. 87 Abs. 3 FusG
 Mit der Anmeldung zur Eintragung der Fusion (Art. 95 Abs. 4 FusG) muss die Aufsichtsbehörde der übertragenden Vorsorgeeinrichtung dem Handelsregisteramt am Sitz der übernehmenden Vorsorgeeinrichtung folgende Belege einreichen:
 
 - a. den Fusionsvertrag (Art. 90 FusG);
-- b. die Fusionsbilanzen der übertragenden Vorsorgeeinrichtungen, gegebenenfalls die Zwischenbilanzen (Art. 89 FusG);
+- b.[^142-1] die Fusionsbilanzen der übertragenden Vorsorgeeinrichtungen, gegebenenfalls die Bilanzen der Zwischenabschlüsse (Art. 89 FusG);
 - c. die Prüfungsberichte der beteiligten Vorsorgeeinrichtungen (Art. 92 FusG);
 - d. die Fusionsbeschlüsse der beteiligten Vorsorgeeinrichtungen (Art. 94 FusG);
 - e. die Verfügung der Aufsichtsbehörde über die Genehmigung der Fusion (Art. 95 Abs. 3 FusG);
 - f. die Belege für die Neugründung bei einer Kombinationsfusion.
 
 <sup>2</sup> Für den Inhalt des Eintrags der Fusion gilt Artikel 132 sinngemäss. Zusätzlich wird das Datum der Verfügung der Aufsichtsbehörde über die Genehmigung der Fusion eingetragen.
+
+[^142-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 143
 
@@ -3052,11 +3035,12 @@ Der Eintrag enthält:
 
 **Inhalt der Aufforderungen des Handelsregisteramts**[^152-1]
 
-<sup>1</sup> In den Fällen nach den Artikeln 934 Absatz 2, 934*a* Absatz 2, 938 Absatz 1 und 939 Absatz 1 OR fordert das Handelsregisteramt die Rechtseinheit auf, die erforderliche Anmeldung vorzunehmen oder zu belegen, dass keine Eintragung, Änderung oder Löschung erforderlich ist. Es setzt der Rechtseinheit dafür eine Frist.
+<sup>1</sup> In den Fällen nach den Artikeln 934 Absatz 2, 934*a* Absätze 1 und 2, 938 Absatz 1 und 939 Absatz 1 OR fordert das Handelsregisteramt die Rechtseinheit auf, die erforderliche Anmeldung vorzunehmen oder zu belegen, dass keine Eintragung, Änderung oder Löschung erforderlich ist. Es setzt der Rechtseinheit dafür eine Frist.[^152-2]
 
 <sup>2</sup> Die Aufforderung weist auf die massgebenden Vorschriften und die Rechtsfolgen für den Fall, dass ihr keine Folge geleistet wird, hin.
 
 [^152-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^152-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 152a
 
@@ -3124,13 +3108,14 @@ Die Handelsregisterämter müssen periodisch ermitteln:
 - a. eintragungspflichtige Rechtseinheiten, die nicht eingetragen sind;
 - b. Einträge, die mit den Tatsachen nicht mehr übereinstimmen.
 
-<sup>2</sup> Zu diesem Zweck sind die Gerichte und Behörden des Bundes, der Kantone, der Bezirke und der Gemeinden verpflichtet, den Handelsregisterämtern über eintragungspflichtige Gewerbe und Tatsachen, die eine Eintragungs-, Änderungs- oder Löschungspflicht begründen könnten, auf Anfrage schriftlich und kostenlos Auskunft zu erteilen. Sie müssen auch bei der Feststellung der Identität von natürlichen Personen nach den Artikeln 24*a* und 24*b* mitwirken.
+<sup>2</sup> Zu diesem Zweck sind die Gerichte und Behörden des Bundes, der Kantone, der Bezirke und der Gemeinden verpflichtet, den Handelsregisterämtern über eintragungspflichtige Rechtseinheiten und Tatsachen, die eine Eintragungs-, Änderungs- oder Löschungspflicht begründen könnten, auf Anfrage schriftlich und kostenlos Auskunft zu erteilen. Sie müssen auch bei der Feststellung der Identität von natürlichen Personen nach den Artikeln 24*a* und 24*b* mitwirken.[^157-2]
 
 <sup>3</sup> Mindestens alle drei Jahre haben die Handelsregisterämter die Gemeinde- oder Bezirksbehörden zu ersuchen, ihnen von neu gegründeten Gewerben oder von Änderungen eingetragener Tatsachen Kenntnis zu geben. Sie übermitteln dazu eine Liste der ihren Amtskreis betreffenden Einträge.
 
 <sup>4</sup> Die Handelsregisterämter erkundigen sich bei den Rechtseinheiten, ob die eingetragenen Tatsachen noch aktuell sind, wenn die letzte Änderung einer Tatsache älter als zehn Jahre ist.
 
 [^157-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^157-2]: Fassung gemäss Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 2. Kapitel: Konkurs, Nachlassstundung und Nachlassvertrag mit Vermögensabtretung
 
@@ -3185,7 +3170,7 @@ Folgende Angaben müssen ins Handelsregister eingetragen werden:
   bei Einsetzung einer ausseramtlichen Konkursverwaltung:
 
   - 1\. die Tatsache, dass eine ausseramtliche Konkursverwaltung eingesetzt wurde,
-  - 2\. das Datum der Verfügung,
+  - 2\.[^159-2] das Datum des Beschlusses,
   - 3\. die Personenangaben zur ausseramtlichen Konkursverwaltung;
 
 - d.
@@ -3211,6 +3196,7 @@ Folgende Angaben müssen ins Handelsregister eingetragen werden:
   - 2\. das Datum der Schlussverfügung.
 
 [^159-1]: Fassung gemäss Ziff. I der V vom 6. März 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^159-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 159a
 
@@ -3280,7 +3266,7 @@ Ins Handelsregister müssen eingetragen werden:
 
 [^161-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-## 6. Titel:**** Wiedereintragung gelöschter Rechtseinheiten
+## 6. Titel: Wiedereintragung gelöschter Rechtseinheiten
 
 [^tit6-1]
 
@@ -3300,7 +3286,7 @@ Bei der Wiedereintragung einer gelöschten Rechtseinheit (Art. 935 OR) wird der 
 
 Aufgehoben
 
-## 7. Titel: Aktenaufbewahrung, Aktenherausgabe, Datenqualität****
+## 7. Titel: Aktenaufbewahrung, Aktenherausgabe, Datenqualität
 
 [^tit7-1]
 
@@ -3517,13 +3503,21 @@ In diesem Fall muss das oberste Stiftungsorgan in einem Protokoll oder Protokoll
 [^181a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^181a-3]: [AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289)
 
+#### Art. 181b
+
+**Übergangsbestimmung zur Änderung vom 31. August 2022**[^181b-1]
+
+Auf vor dem Inkrafttreten der Änderung vom 31. August 2022 errichtete Vereine finden die Artikel 90*a* Absatz 4 und 92 Buchstabe j erst 18 Monate nach diesem Zeitpunkt Anwendung.
+
+[^181b-1]: Eingefügt durch Anhang Ziff. 2 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
 ### 5. Kapitel: Inkrafttreten
 
 #### Art. 182
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 172)
 
@@ -3544,13 +3538,13 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 [^annex1-lvlu1-1]: [[AS 53 577](https://fedlex.data.admin.ch/eli/oc/53/577_573_593); [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733); [1971 1839](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844); [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558); [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380); [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 36; [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230); [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)Anhang Ziff. 4, [2669](https://fedlex.data.admin.ch/eli/oc/2004/321), [4937](https://fedlex.data.admin.ch/eli/oc/2004/746)Anhang Ziff. II 1; [2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 22, [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)Anhang 3 Ziff. II 1]
 [^annex1-lvlu1-2]: Die Änderungen können unter [AS 2007 4851](https://fedlex.data.admin.ch/eli/oc/2007/686)konsultiert werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 116*a*)
 
 ## Liste der zulässigen Abkürzungen der Rechtsformen
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 18. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 18. Mai 2016 ([AS 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 Deutsch
 
@@ -3570,7 +3564,7 @@ Français
 
 Société anonyme SA
 
-Société coopérative SCoop
+Société coopérative SCoo
 
 Société à responsabilité limitée Sàrl
 
@@ -3584,7 +3578,7 @@ Italiano
 
 Società anonima SA
 
-Società cooperativa SCoop
+Società cooperativa SCoo
 
 Società a garanzia limitata Sagl
 
@@ -3598,7 +3592,7 @@ Rumantsch
 
 Societad anonima SA
 
-Societad cooperativa SCoop
+Societad cooperativa SCoo
 
 Societad cun responsabladad limitada Scrl
 
@@ -3607,3 +3601,19 @@ Societad collettiva SCl
 Societad commanditara SCm
 
 Societad acziunara en commandita SACm
+
+Anhang 3[^t-3]
+
+(Art. 45*a*)
+
+## Zulässige ausländische Währungen für das Kapital einer Aktiengesellschaft
+
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+Britische Pfund GBP
+
+Euro EUR
+
+US-Dollar USD
+
+Yen JPY

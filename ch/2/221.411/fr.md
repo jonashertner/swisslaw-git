@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,21 +17,21 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20220101/fr"
 
 (ORC)
 
-du 17 octobre 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 17 octobre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 933, al. 2, 943 et 950, al. 2, du code des obligations (CO)[^ingress-1], vu l’art. 102, let. a, de la loi du 3 octobre 2003 sur la fusion (LFus)[^ingress-2],[^ingress-3]
+vu les art. 621, al. 2, 933, al. 2, 943 et 950, al. 2, du code des obligations (CO)[^ingress-1], vu l’art. 102, let. a, de la loi du 3 octobre 2003 sur la fusion (LFus)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ## Titre 1 Dispositions générales
 
-### Chapitre 1**** Objet et définitions
+### Chapitre 1 Objet et définitions
 
 [^tit1-chap1-1]
 
@@ -202,9 +202,9 @@ Sur demande, les offices du registre du commerce autorisent la consultation du r
 
 <sup>2</sup> Ils ne peuvent établir des extraits d’inscriptions qui n’ont pas encore été publiées dans la Feuille officielle suisse du commerce que si elles ont déjà été approuvées par l’OFRC.
 
-<sup>3</sup> ...[^11-1]
+<sup>3</sup> …[^11-1]
 
-<sup>4</sup> ...[^11-2]
+<sup>4</sup> …[^11-2]
 
 <sup>5</sup> L’OFRC veille à l’uniformité de la structure et de la présentation des extraits en édictant une directive à ce sujet. Il y autorise les cantons à utiliser les armoiries et les symboles cantonaux. Il peut édicter des dispositions relatives à la sécurité des extraits.
 
@@ -225,7 +225,7 @@ Les statuts, actes de fondation, autres pièces justificatives et réquisitions 
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 
-### Chapitre 5**** Légalisations par l’office du registre du commerce
+### Chapitre 5 Légalisations par l’office du registre du commerce
 
 [^tit1-chap5-1]
 
@@ -249,7 +249,7 @@ L’office du registre du commerce appose sur les copies papier légalisées la 
 [^12a-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^12a-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
-### Chapitre 6**** Communication électronique
+### Chapitre 6 Communication électronique
 
 [^tit1-chap6-1]
 
@@ -293,7 +293,7 @@ Les requêtes électroniques peuvent être adressées aux offices du registre du
 
 Les dispositions du présent chapitre s’appliquent par analogie à la notification d’extraits électroniques attestés conformes du registre journalier ou du registre principal.
 
-### Chapitre 7**** Bases de données centrales
+### Chapitre 7 Bases de données centrales
 
 [^tit1-chap7-1]
 
@@ -336,7 +336,7 @@ Le DFJP détermine:
 
 ### Chapitre 1 Réquisition et pièces justificatives
 
-### Section 1 Réquisition****
+### Section 1 Réquisition
 
 [^tit2-chap1-sec1-1]
 
@@ -418,7 +418,7 @@ La réquisition peut également être le fait des personnes intéressées:
 
 [^19-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### Section 2 Pièces justificatives****
+### Section 2 Pièces justificatives
 
 [^tit2-chap1-sec2-1]
 
@@ -487,7 +487,27 @@ La date de l’acte de fondation inscrite au registre du commerce est celle du j
 
 <sup>3</sup> Lorsque les statuts ou l’acte de fondation ont été modifiés ou adaptés, une nouvelle version complète doit être remise au registre du commerce.
 
-<sup>4</sup> Les statuts d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée, d’une société d’investissement à capital fixe ou d’une société d’investissement à capital variable et les actes de fondation doivent être attestées conformes par un officier public. Les statuts d’une société coopérative ou d’une association doivent être signés par un membre de l’administration ou de la direction.
+<sup>4</sup>
+
+Les documents suivants doivent être attestés conformes par un officier public:
+
+- a.
+
+  les statuts:
+
+  - 1\. d’une société anonyme,
+  - 2\. d’une société en commandite par actions,
+  - 3\. d’une société à responsabilité limitée,
+  - 4\. d’une société coopérative,
+  - 5\. d’une société d’investissement à capital fixe,
+  - 6\. d’une société d’investissement à capital variable;
+
+- b. les actes de fondation.[^22-1]
+
+<sup>5</sup> Les statuts d’une association doivent être signés par un membre de la direction.[^22-2]
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^22-2]: Introduit par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 23
 
@@ -808,23 +828,25 @@ La réquisition d’inscription au registre du commerce de la fondation d’une 
 - e. le procès-verbal de la séance constitutive du conseil d’administration mentionnant la nomination du président et l’attribution des pouvoirs de représentation;
 - f. en cas de libération en espèces, une attestation indiquant auprès de quelle banque les apports ont été déposés, à moins que la banque ne soit nommée dans l’acte authentique;
 - g. dans le cas prévu à l’art. 117, al. 3, la déclaration du domiciliataire en vertu de laquelle il octroie un domicile à la société au lieu de son siège;
-- h.[^43-1] ...
+- h.[^43-1] …
 - i.[^43-2] si la société a des actions au porteur, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la loi fédérale du 3 octobre 2008 sur les titres intermédiés (LTI)[^43-3].
 
 <sup>2</sup> Les indications qui sont déjà contenues dans l’acte constitutif ne doivent pas faire l’objet d’une pièce justificative supplémentaire.
 
 <sup>3</sup>
 
-En cas d’apport en nature, de reprise de biens, de reprise de biens envisagée, de compensation de créance ou d’avantages particuliers, les pièces justificatives suivantes doivent être produites:
+En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, les pièces justificatives suivantes doivent être produites:[^43-4]
 
 - a. les contrats d’apports en nature avec les annexes requises;
-- b. les contrats de reprises de biens avec les annexes requises;
+- b.[^43-5] …
 - c. le rapport de fondation signé par l’ensemble des fondateurs;
 - d. l’attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé.
 
 [^43-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^43-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^43-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^43-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^43-5]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 44
 
@@ -838,19 +860,13 @@ L’acte constitutif en la forme authentique doit contenir les indications suiva
 - d. la déclaration de chaque fondateur relative à la souscription des actions avec l’indication du nombre, de la valeur nominale, de l’espèce, de la catégorie et du prix d’émission des actions ainsi que l’engagement inconditionnel d’effectuer un apport correspondant au prix d’émission;
 - e. la nomination des membres du conseil d’administration et les indications personnelles les concernant;
 - f. la nomination de l’organe de révision ou la mention du fait que la société renonce à une révision;
-- g.
-
-  la constatation des fondateurs que:
-
-  - 1\. toutes les actions ont été valablement souscrites,
-  - 2\. les apports promis correspondent au prix d’émission,
-  - 3\. les apports ont été effectués conformément aux exigences légales et statutaires,
-  - 4\.[^44-1] il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives;
-
+- g.[^44-1] la constatation des fondateurs visée à l’art. 629, al. 2, CO;
 - h. la mention de chacune des pièces justificatives et l’attestation de l’officier public qu’elles lui ont été soumises ainsi qu’aux fondateurs;
-- i. la signature des fondateurs.
+- i. la signature des fondateurs;
+- j.[^44-2] si le capital-actions est fixé dans une monnaie étrangère ou que les apports sont effectués dans une autre monnaie que celle du capital-actions, le taux de change appliqué.
 
-[^44-1]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^44-2]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 45
 
@@ -867,9 +883,9 @@ L’inscription au registre du commerce d’une société anonyme mentionne:
 - e. la date des statuts;
 - f. la durée de la société, si elle est limitée;
 - g. son but;
-- h. le montant du capital-actions et des apports effectués ainsi que le nombre, la valeur nominale et l’espèce des actions;
+- h.[^45-1] le montant et la monnaie du capital-actions et des apports effectués, ainsi que le nombre, la valeur nominale et l’espèce des actions;
 - i. le cas échéant, les actions à droit de vote privilégié;
-- j. en cas d’émission de bons de participation, le montant du capital-participation et des apports effectués ainsi que le nombre, la valeur nominale et l’espèce des bons de participation;
+- j.[^45-2] en cas d’émission de bons de participation, le montant et la monnaie du capital participation et des apports effectués, ainsi que le nombre, la valeur nominale et l’espèce des bons de participation;
 - k. s’il y a des actions ou des bons de participation privilégiés, les droits de priorité qui leur sont attachés;
 - l. si les actions ou les bons de participation sont soumis à des restrictions de transmissibilité, un renvoi aux statuts pour les détails;
 - m. en cas d’émission de bons de jouissance, leur nombre et les droits qui y sont attachés;
@@ -878,93 +894,104 @@ L’inscription au registre du commerce d’une société anonyme mentionne:
 - p. le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire, ni à un contrôle restreint, avec indication de la date de la déclaration du conseil d’administration visée à l’art. 62, al. 2;
 - q. lorsque la société procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - r. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- s. la forme des communications du conseil d’administration aux actionnaires prévue par les statuts;
-- t.[^45-1] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^45-2].
+- s.[^45-3] la forme des communications de la société aux actionnaires prévue par les statuts;
+- t.[^45-4] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^45-5];
+- u.[^45-6] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
 
 <sup>2</sup>
 
-En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, les faits suivants doivent également être inscrits:
+En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, les faits suivants doivent également être inscrits:[^45-7]
 
 - a. l’apport en nature avec indication de la date du contrat, de l’objet de l’apport et des actions émises en échange;
-- b. la reprise de biens ou la reprise de biens envisagée avec indication de la date du contrat, de l’objet de la reprise et de la contre-prestation de la société;
+- b.[^45-8] …
 - c. la compensation de créance avec indication du montant de la créance et avec indication des actions émises en échange;
 - d. le contenu et la valeur des avantages particuliers, avec un renvoi aux statuts pour les détails.
 
-<sup>3</sup> Lorsqu’un actionnaire effectue un apport en nature pour un montant qui dépasse le prix d’émission des actions souscrites et que la société lui attribue une contre-prestation en plus des actions émises, une reprise de biens est inscrite au registre du commerce à concurrence du montant de cette contre-prestation (apport en nature combiné avec une reprise de biens).
+<sup>3</sup> …[^45-9]
 
-[^45-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^45-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-4]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^45-5]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^45-6]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-7]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-8]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^45-9]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-### Section 2 Augmentation ordinaire du capital-actions
+### Section 2 Monnaie du capital-actions
+
+[^tit3-chap3-sec2-1]
+
+[^tit3-chap3-sec2-1]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+#### Art. 45a
+
+**Monnaies étrangères autorisées**
+
+Les monnaies étrangères autorisées pour le capital d’une société anonyme sont énumérées à l’annexe 3.
+
+#### Art. 45b
+
+**Modification de la monnaie**
+
+<sup>1</sup>
+
+La réquisition d’inscription au registre du commerce d’une modification de la monnaie dans laquelle le capital-actions est fixé est accompagnée des pièces justificatives suivantes:
+
+- a. l’acte authentique relatif à la décision de l’assemblée générale (art. 621, al. 3, CO);
+- b. l’acte authentique relatif aux décisions du conseil d’administration (art. 621, al. 3, CO);
+- c. les statuts modifiés.
+
+<sup>2</sup>
+
+L’inscription au registre du commerce mentionne:
+
+- a. la date de la modification des statuts;
+- b. le montant et la monnaie du capital-actions et des apports effectués, ainsi que le nombre, la valeur nominale et l’espèce des actions.
+
+### Section 3 Augmentation ordinaire du capital-actions
+
+[^tit3-chap3-sec3-1]
+
+[^tit3-chap3-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 46
 
-**Réquisition et pièces justificatives**
+**Réquisition et pièces justificatives**[^46-1]
 
-<sup>1</sup> L’inscription au registre du commerce d’une augmentation ordinaire du capital-actions doit être requise dans les trois mois qui suivent la décision de l’assemblée générale. Les réquisitions déposées après l’échéance de ce délai sont rejetées.
+<sup>1</sup> L’inscription au registre du commerce d’une augmentation ordinaire du capital-actions doit être requise dans les six mois qui suivent la décision de l’assemblée générale.
 
 <sup>2</sup>
 
 La réquisition est accompagnée des pièces justificatives suivantes:
 
-- a. l’acte authentique relatif à la décision de l’assemblée générale;
-- b. l’acte authentique relatif aux constatations du conseil d’administration et à la modification des statuts;
+- a. l’acte authentique relatif à la décision de l’assemblée générale (art. 650, al. 2, CO);
+- b. l’acte authentique relatif à la décision du conseil d’administration (art. 652*g*, al. 2, CO);
 - c. les statuts modifiés;
-- d. le rapport d’augmentation signé par un membre du conseil d’administration;
+- d. le rapport d’augmentation signé par un membre du conseil d’administration (art. 652*e* CO);
 - e. en cas de libération en espèces, une attestation indiquant auprès de quelle banque les apports ont été déposés, à moins que la banque ne soit nommée dans l’acte authentique;
 - f. le cas échéant, le prospectus;
-- g.[^46-1] ...
-- h.[^46-2] en cas d’émission d’actions au porteur par une société qui n’en avait pas précédemment, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^46-3].
+- g. en cas d’émission d’actions au porteur par une société qui n’en avait pas précédemment, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^46-2].
 
 <sup>3</sup>
 
-En cas d’apport en nature, de reprise de biens, de reprise de biens envisagée, de compensation de créance, d’avantages particuliers ou de libération par conversion de fonds propres, les pièces justificatives suivantes doivent également être produites:[^46-4]
+En cas d’apport en nature, de compensation de créance, d’avantages particuliers ou de libération par conversion de fonds propres librement disponibles, les pièces justificatives suivantes doivent être produites:
 
 - a. les contrats d’apports en nature avec les annexes requises;
-- b. s’ils sont déjà disponibles, les contrats de reprises de biens avec les annexes requises;
-- c. l’attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé.
-- d.[^46-5] en cas de libération par conversion de fonds propres dont la société peut librement disposer, le rapport de révision d’un réviseur agréé.
+- b. l’attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé (art. 652*f*, al. 1, CO);
+- c. en cas de libération par conversion de fonds propres librement disponibles, la preuve que le montant de l’augmentation est couvert (art. 652*d*, al. 2, CO).
 
-<sup>4</sup> Lorsque les droits de souscription préférentiels sont limités ou supprimés, une attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé doit être produite.
+<sup>4</sup> Lorsque les droits de souscription préférentiels sont limités ou supprimés, une attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé doit être produite (art. 652*f*, al. 1, CO).
 
-[^46-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^46-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^46-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^46-4]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^46-5]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^46-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 
 #### Art. 47
 
-**Actes authentiques**
+[^47-1]
 
-<sup>1</sup>
-
-L’acte authentique relatif à la décision de l’assemblée générale doit contenir les indications suivantes:
-
-- a. le montant nominal ou, le cas échéant, le montant nominal maximal de l’augmentation du capital-actions ainsi que le montant des apports qui doivent être effectués;
-- b. le nombre ou, le cas échéant, le nombre maximal ainsi que la valeur nominale et l’espèce des actions nouvellement émises;
-- c. le prix d’émission ou l’autorisation donnée au conseil d’administration de le fixer;
-- d. l’époque à compter de laquelle les actions nouvelles donneront droit à des dividendes;
-- e. la nature des apports;
-- f. en cas d’apport en nature, son objet, son estimation, le nom de l’apporteur et les actions qui lui reviennent;
-- g. en cas de reprise de biens, son objet, le nom de l’aliénateur et la contre-prestation de la société;
-- h. s’il y a des avantages particuliers, leur contenu, leur valeur et le nom des bénéficiaires;
-- i. le cas échéant, les actions à droit de vote privilégié;
-- j. s’il y a des actions privilégiées, les droits de priorité qui leur sont attachés;
-- k. le cas échéant, les restrictions de la transmissibilité des actions;
-- l. le cas échéant, le sort des droits de souscription préférentiels non exercés ou supprimés ainsi que la limitation ou la suppression du droit de souscription préférentiel.
-
-<sup>2</sup>
-
-L’acte authentique relatif aux constatations du conseil d’administration et à la modification des statuts doit établir que:
-
-- a. toutes les actions ont été valablement souscrites;
-- b. les apports promis correspondent au prix total d’émission;
-- c. les apports ont été effectués conformément aux exigences de la loi, des statuts et de la décision de l’assemblée générale;
-- d. les pièces justificatives ont été soumises au conseil d’administration et à l’officier public; elles doivent être mentionnées individuellement;
-- e.[^47-1] il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives.
-
-[^47-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^47-1]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 48
 
@@ -982,74 +1009,27 @@ L’inscription au registre du commerce d’une augmentation ordinaire du capita
 - f. le cas échéant, les actions à droit de vote privilégié;
 - g. s’il y a des actions privilégiées, les droits de priorité qui leur sont attachés;
 - h. le cas échéant, les restrictions de la transmissibilité des actions;
-- i. le cas échéant, le fait que l’augmentation a été réalisée par conversion de fonds propres dont la société peut librement disposer;
-- j.[^48-1] en cas d’émission d’actions au porteur par une société qui n’en avait pas précédemment, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^48-2].
+- i.[^48-1] le cas échéant, le fait que l’augmentation a été réalisée par conversion de fonds propres librement disponibles;
+- j.[^48-2] en cas d’émission d’actions au porteur par une société qui n’en avait pas précédemment, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^48-3].
 
-<sup>2</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2 et 3, s’applique par analogie.
+<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^48-4]
 
-[^48-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^48-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^48-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^48-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^48-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-### Section 3 Augmentation autorisée du capital
+#### Art. 49 et 50
 
-#### Art. 49
+[^4950-1]
 
-**Décision d’autorisation de l’assemblée générale**
+[^4950-1]: Abrogés par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
-<sup>1</sup>
+### Section 4 Augmentation au moyen d’un capital conditionnel
 
-La réquisition d’inscription au registre du commerce d’une décision de l’assemblée générale portant sur une augmentation autorisée du capital est accompagnée des pièces justificatives suivantes:
+[^tit3-chap3-sec4-1]
 
-- a. l’acte authentique relatif à la décision de l’assemblée générale concernant l’autorisation octroyée au conseil d’administration;
-- b. les statuts modifiés.
-
-<sup>2</sup>
-
-Les statuts doivent contenir les indications suivantes (art. 650, al. 2, 651, al. 2 et 3, CO):
-
-- a. le montant nominal du capital autorisé et le montant des apports qui seront effectués;
-- b. le nombre, la valeur nominale et l’espèce des actions;
-- c. le cas échéant, les actions à droit de vote privilégié;
-- d. s’il y a des actions privilégiées, les droits de priorité qui leur sont attachés;
-- e. le cas échéant, les restrictions de la transmissibilité des actions;
-- f. s’il y a des avantages particuliers, leur contenu, leur valeur et le nom des bénéficiaires;
-- g. le sort des droits de souscription préférentiels non exercés ou supprimés et, le cas échéant, la limitation ou la suppression du droit de souscription préférentiel.
-
-<sup>3</sup>
-
-L’inscription au registre du commerce mentionne:
-
-- a. l’augmentation autorisée du capital avec un renvoi aux statuts pour les détails;
-- b. la date de la décision de l’assemblée générale concernant la modification des statuts.
-
-#### Art. 50
-
-**Décision d’augmentation et constatations du conseil d’administration**
-
-<sup>1</sup> La réquisition d’inscription au registre du commerce d’une décision du conseil d’administration relative à une augmentation du capital-actions est accompagnée des pièces justificatives mentionnées à l’art. 46; la décision du conseil d’administration d’augmenter le capital remplace l’acte authentique relatif à la décision de l’assemblée générale.
-
-<sup>2</sup>
-
-La décision du conseil d’administration relative à l’augmentation doit correspondre à la décision de l’assemblée générale et contenir les indications suivantes:
-
-- a. le montant nominal de l’augmentation du capital-actions;
-- b. le nombre de nouvelles actions;
-- c. le prix d’émission;
-- d. la nature des apports;
-- e. en cas d’apport en nature, son objet, son estimation, le nom de l’apporteur et les actions qui lui reviennent;
-- f. en cas de reprise de biens, son objet, le nom de l’aliénateur et la contre-prestation de la société;
-- g. en cas de compensation de créance, le montant de la créance et les actions émises en échange;
-- h. l’adaptation du montant nominal du capital autorisé, ou la suppression de la clause statutaire relative à l’augmentation autorisée du capital.
-
-<sup>3</sup> L’acte authentique relatif à la modification des statuts et aux constatations du conseil d’administration doit contenir les indications mentionnées à l’art. 47, al. 2.
-
-<sup>4</sup> Lorsque la réquisition d’inscription au registre du commerce de l’augmentation du capital-actions est déposée après l’expiration de la durée de validité de l’autorisation du conseil d’administration, l’augmentation du capital ne peut plus être inscrite au registre du commerce.
-
-<sup>5</sup> Le contenu de l’inscription est régi par l’art. 48, qui s’applique par analogie.
-
-<sup>6</sup> Si pendant la durée de validité de l’autorisation du conseil d’administration le capital n’est pas augmenté à concurrence du montant nominal, la société doit requérir l’inscription au registre du commerce de la suppression de la clause statutaire relative à l’augmentation autorisée du capital.
-
-### Section 4 Augmentation conditionnelle du capital
+[^tit3-chap3-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 51
 
@@ -1057,24 +1037,13 @@ La décision du conseil d’administration relative à l’augmentation doit cor
 
 <sup>1</sup>
 
-La réquisition d’inscription au registre du commerce d’une décision de l’assemblée générale portant sur une augmentation conditionnelle du capital est accompagnée des pièces justificatives suivantes:
+La réquisition d’inscription au registre du commerce d’une décision de l’assemblée générale portant sur un capital conditionnel est accompagnée des pièces justificatives suivantes:[^51-1]
 
-- a. l’acte authentique relatif à la décision de l’assemblée générale relative à l’octroi de droits;
+- a.[^51-2] l’acte authentique relatif à la décision de l’assemblée générale relative à l’octroi de droits (art. 653, al. 1, CO);
 - b. les statuts modifiés;
-- c.[^51-1] si des actions au porteur peuvent être émises par une société qui n’en avait pas précédemment, la déclaration des personnes qui requièrent l’inscription en vertu de laquelle la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^51-2].
+- c.[^51-3] si des actions au porteur peuvent être émises par une société qui n’en avait pas précédemment, la déclaration des personnes qui requièrent l’inscription en vertu de laquelle la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^51-4].
 
-<sup>2</sup>
-
-Les statuts doivent contenir les indications suivantes (art. 653*b* CO):
-
-- a. le montant nominal de l’augmentation conditionnelle;
-- b. le nombre, la valeur nominale et l’espèce des actions;
-- c. le nombre maximal d’actions qui peuvent être émises dans le cadre de l’exercice de droits de conversion ou d’option;
-- d. le cas échéant, les actions à droit de vote privilégié;
-- e. s’il y a des actions privilégiées, les droits de priorité qui leur sont attachés;
-- f. le cas échéant, les restrictions de la transmissibilité des actions;
-- g. le cercle des bénéficiaires d’un droit de conversion ou d’option;
-- h. la limitation ou la suppression des droits de souscription préférentiels des actionnaires actuels.
+<sup>2</sup> …[^51-5]
 
 <sup>3</sup>
 
@@ -1083,8 +1052,11 @@ L’inscription au registre du commerce mentionne:
 - a. l’augmentation conditionnelle du capital avec un renvoi aux statuts pour les détails;
 - b. la date de la décision de l’assemblée générale concernant la modification des statuts.
 
-[^51-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^51-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^51-3]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^51-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^51-5]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 52
 
@@ -1094,107 +1066,82 @@ L’inscription au registre du commerce mentionne:
 
 La réquisition d’inscription au registre du commerce de la décision du conseil d’administration relative aux constatations quant à l’exercice des droits de conversion et d’option et de la décision relative à l’adaptation des statuts est accompagnée des pièces justificatives suivantes:
 
-- a. l’acte authentique relatif aux décisions du conseil d’administration;
+- a.[^52-1] l’acte authentique relatif à la décision du conseil d’administration (art. 653*g*, al. 3, CO);
 - b. les statuts modifiés;
-- c. l’attestation de vérification d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé;
-- d.[^52-1] en cas d’émission d’actions au porteur par une société qui n’en avait pas précédemment, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^52-2].
+- c.[^52-2] l’attestation de vérification d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé (art. 653*f*, al. 1, CO);
+- d.[^52-3] en cas d’émission d’actions au porteur par une société qui n’en avait pas précédemment, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^52-4].
 
-<sup>2</sup>
-
-L’acte authentique relatif aux décisions du conseil d’administration doit correspondre à la décision de l’assemblée générale et contenir les indications suivantes:
-
-- a.
-
-  les constatations du conseil d’administration concernant:
-
-  - 1\. le nombre, la valeur nominale et l’espèce des actions nouvellement émises,
-  - 2\. le cas échéant, les actions à droit de vote privilégié,
-  - 3\. s’il y a des actions privilégiées, les droits de priorité qui leur sont attachés,
-  - 4\. le cas échéant, les restrictions de la transmissibilité des actions,
-  - 5\. le montant du capital-actions à la fin de l’exercice ou au moment de la vérification;
-
-- b.
-
-  les décisions du conseil d’administration relatives à la modification des statuts concernant:
-
-  - 1\. le montant du capital-actions et sa libération,
-  - 2\. le montant du capital conditionnel restant;
-
-- c. la constatation faite par l’officier public que l’attestation de vérification contient les indications exigées (art. 653*g* CO).
+<sup>2</sup> …[^52-5]
 
 <sup>3</sup> Le contenu de l’inscription est régi par l’art. 48, qui s’applique par analogie.
 
-[^52-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^52-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^52-3]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^52-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^52-5]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 53
 
-**Suppression de la clause statutaire relative à l’augmentation conditionnelle du capital**
+**Épuration de la clause statutaire relative au capital conditionnel**[^53-1]
 
-<sup>1</sup> Lorsque les droits de conversion ou d’option sont éteints, la société doit requérir l’inscription de l’adaptation des statuts au registre du commerce.
+<sup>1</sup>
 
-<sup>2</sup>
+La réquisition d’inscription au registre du commerce de la suppression ou de l’adaptation de la clause statutaire relative au capital conditionnel est accompagnée des pièces justificatives suivantes:
 
-La réquisition est accompagnée des pièces justificatives suivantes:
-
-- a. l’acte authentique relatif à la décision du conseil d’administration concernant la suppression de la clause statutaire;
-- b. le rapport d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé;
+- a. l’acte authentique relatif à la décision du conseil d’administration (art. 653*i*, al. 1, CO);
+- b. l’attestation de vérification d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé (art. 653*i*, al. 2, CO);
 - c. les statuts modifiés.
 
-<sup>3</sup>
-
-L’acte authentique doit contenir les indications suivantes:
-
-- a. la décision du conseil d’administration relative à la suppression de la clause statutaire concernant l’augmentation conditionnelle du capital;
-- b. la constatation de l’officier public selon laquelle le rapport du réviseur contient les indications nécessaires.
-
-<sup>4</sup>
+<sup>2</sup>
 
 L’inscription au registre du commerce mentionne:
 
 - a. la date de la modification des statuts;
-- b. le fait que la disposition relative à l’augmentation conditionnelle du capital est supprimée suite à l’exercice ou à l’extinction des droits de conversion ou d’option.
+- b. le fait que la clause relative au capital conditionnel est supprimée ou modifiée.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 5 Libération ultérieure des apports
 
 #### Art. 54
 
+[^54-1]
+
 <sup>1</sup>
 
 La réquisition d’inscription au registre du commerce d’une libération ultérieure des apports est accompagnée des pièces justificatives suivantes:
 
-- a. l’acte authentique relatif aux décisions du conseil d’administration concernant la modification des statuts et ses constatations;
+- a. l’acte authentique relatif aux décisions du conseil d’administration;
 - b. les statuts modifiés;
 - c. en cas de libération en espèces, une attestation indiquant auprès de quelle banque les apports ont été déposés, à moins que la banque ne soit nommée dans l’acte authentique;
 - d.
 
-  en cas de libération par conversion de fonds propres dont la société peut librement disposer:
+  en cas de libération par conversion de fonds propres librement disponibles:
 
-  - 1\. les comptes annuels approuvés ou le bilan intermédiaire,
-  - 2\. le rapport de révision d’un réviseur agréé,
-  - 3\. l’acte authentique relatif à la décision de l’assemblée générale permettant au conseil d’administration de disposer des réserves libres en vue d’une libération ultérieure,
-  - 4\. un rapport du conseil d’administration signé par un de ses membres,
-  - 5\. une attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé;
+  - 1\. la preuve que le montant de l’augmentation est couvert (art. 652*d*, al. 2, CO),
+  - 2\. la décision de l’assemblée générale permettant au conseil d’administration de disposer des fonds propres librement disponibles en vue d’une libération ultérieure,
+  - 3\. un rapport du conseil d’administration signé par un de ses membres,
+  - 4\. une attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé;
 
 - e.
 
-  en cas d’apport en nature, de reprise de biens ou de compensation de créance:
+  en cas d’apport en nature ou de compensation de créance:
 
-  - 1\. un rapport du conseil d’administration qui doit être signé par un membre habilité à représenter la société,
+  - 1\. un rapport du conseil d’administration signé par un de ses membres,
   - 2\. une attestation de vérification sans réserve d’une entreprise de révision soumise à la surveillance de l’État, d’un expert-réviseur agréé ou d’un réviseur agréé,
-  - 3\. le cas échéant, les contrats d’apports en nature avec les annexes requises et les contrats de reprises de biens avec les annexes requises;
-
-- f.[^54-1] ...
+  - 3\. le cas échéant, les contrats d’apports en nature avec les annexes requises.
 
 <sup>2</sup>
 
 L’acte authentique relatif à la libération ultérieure des apports doit contenir les indications suivantes:
 
-- a. la constatation que les apports ultérieurs ont été effectués conformément aux exigences de la loi, des statuts et de la décision du conseil d’administration;
-- b. le cas échéant, la décision du conseil d’administration relative à l’introduction des dispositions statutaires nécessaires en matière d’apport en nature et de reprise de biens;
+- a. la constatation, par le conseil d’administration, que les apports effectués répondent aux conditions fixées par la loi, par les statuts et par la décision de l’assemblée générale;
+- b. le cas échéant, la décision du conseil d’administration relative à l’introduction des dispositions statutaires nécessaires en matière d’apports en nature, de compensation de créance et de conversion de fonds propres librement disponibles;
 - c. la décision du conseil d’administration relative à la modification des statuts quant au montant des apports effectués;
-- d. la mention de chacune des pièces justificatives et l’attestation de l’officier public qu’elles lui ont été soumises ainsi qu’au conseil d’administration;
-- e.[^54-2] la constatation en vertu de laquelle il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives.
+- d. la mention de toutes les pièces justificatives et la confirmation, par l’officier public, qu’elles lui ont été présentées, à lui et au conseil d’administration;
+- e. la constatation qu’il n’existe pas d’autres apports en nature, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives;
+- f. si les apports sont effectués dans une autre monnaie que celle du capital-actions, le taux de change appliqué.
 
 <sup>3</sup>
 
@@ -1203,10 +1150,9 @@ L’inscription au registre du commerce mentionne:
 - a. la date de modification des statuts;
 - b. le nouveau montant des apports effectués.
 
-<sup>4</sup> En cas d’apport en nature, de reprise de biens ou de compensation de créance, les art. 43, al. 3, et 45, al. 2 et 3, s’appliquent par analogie. Si la libération ultérieure des apports a lieu par conversion de fonds propres dont la société peut librement disposer, l’inscription doit le mentionner.
+<sup>4</sup> En cas d’apport en nature ou de compensation de créance, les art. 43, al. 3, et 45, al. 2, s’appliquent par analogie. Si la libération ultérieure des apports a lieu par conversion de fonds propres librement disponibles, l’inscription doit le mentionner.
 
-[^54-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^54-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 6 Réduction du capital-actions
 
@@ -1218,26 +1164,12 @@ L’inscription au registre du commerce mentionne:
 
 La réquisition d’inscription au registre du commerce d’une réduction du capital-actions est accompagnée des pièces justificatives suivantes:
 
-- a.
+- a. l’acte authentique relatif à la décision de l’assemblée générale (art. 653*n* CO);
+- b. l’acte authentique relatif à la décision du conseil d’administration (art. 653*o*, al. 2, CO);
+- c. le rapport de révision d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé (art. 653*m*, al. 1, CO);
+- d. les statuts modifiés.[^55-1]
 
-  l’acte authentique relatif à la décision de l’assemblée générale concernant:
-
-  - 1\. la constatation du résultat du rapport de révision,
-  - 2\. la façon dont sera effectuée la réduction du capital-actions,
-  - 3\. l’adaptation des statuts;
-
-- b.
-
-  l’acte authentique relatif à l’observation des prescriptions légales concernant (art. 734 CO):
-
-  - 1\. les avis aux créanciers,
-  - 2\. le délai pour s’annoncer,
-  - 3\. le désintéressement ou la garantie des créanciers;
-
-- c. le rapport de révision d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé;
-- d. les statuts modifiés.
-
-<sup>2</sup> Le rapport de révision doit constater que les créances sont encore entièrement couvertes après la réduction du capital-actions.
+<sup>2</sup> …[^55-2]
 
 <sup>3</sup>
 
@@ -1254,31 +1186,22 @@ L’inscription au registre du commerce mentionne:
 
 <sup>4</sup> Lorsque la société a racheté et détruit de ses propres actions, la procédure de réduction du capital doit être observée; la réduction du capital et du nombre d’actions doit être inscrite au registre du commerce même si une somme correspondante a été portée au passif du bilan.
 
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^55-2]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 56
 
 **Réduction du capital en cas de bilan déficitaire**
 
 <sup>1</sup>
 
-La réquisition d’inscription au registre du commerce d’une réduction du capital-actions destinée à supprimer un excédent passif constaté au bilan est accompagnée des pièces justificatives suivantes:
+La réquisition d’inscription au registre du commerce d’une réduction du capital-actions destinée à réduire ou supprimer un excédent passif constaté au bilan est accompagnée des pièces justificatives suivantes:
 
-- a.
-
-  l’acte authentique relatif à la décision de l’assemblée générale concernant:
-
-  - 1\. la constatation du résultat du rapport de révision,
-  - 2\. la façon dont sera effectuée la réduction du capital-actions,
-  - 3\. l’adaptation des statuts;
-
+- a. l’acte authentique relatif à la décision de l’assemblée générale (art. 653*p*, al. 2, CO);
 - b. les statuts modifiés;
-- c. le rapport de révision d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé.
+- c. le rapport de révision d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé (art. 653*p*, al. 1, CO).[^56-1]
 
-<sup>2</sup>
-
-Le rapport de révision doit constater que:
-
-- a. les créances sont encore entièrement couvertes après la réduction du capital-actions;
-- b. le montant de la réduction du capital-actions ne dépasse pas celui de l’excédent passif constaté au bilan et résultant de pertes (art. 735 CO).
+<sup>2</sup> …[^56-2]
 
 <sup>3</sup>
 
@@ -1292,13 +1215,16 @@ L’inscription au registre du commerce mentionne:
 - f. le montant des apports effectués après la réduction du capital-actions;
 - g. le nombre, la valeur nominale et l’espèce des actions après la réduction.
 
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^56-2]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 57
 
-**Réduction et augmentation simultanée du capital-actions le portant à un montant au moins équivalent au montant antérieur**
+**Réduction et augmentation simultanée du capital-actions[^57-1]**
 
 <sup>1</sup>
 
-Lorsque la réduction du capital-actions est décidée simultanément avec une augmentation du capital-actions le portant à un montant au moins équivalent au montant antérieur, la réquisition d’inscription au registre du commerce est accompagnée des pièces justificatives suivantes:
+Lorsque le capital-actions est réduit et simultanément augmenté à nouveau à concurrence d’un montant au moins équivalent et que le montant de l’apport effectué n’est pas diminué, la réquisition d’inscription au registre du commerce est accompagnée des pièces justificatives suivantes:[^57-2]
 
 - a. l’acte authentique relatif à la décision de l’assemblée générale;
 - b. les pièces justificatives requises pour une augmentation ordinaire du capital-actions;
@@ -1321,7 +1247,11 @@ L’inscription au registre du commerce mentionne:
 
 <sup>3</sup> Lorsque le capital-actions est réduit à zéro puis augmenté à nouveau en vue d’un assainissement, la destruction des actions émises doit être inscrite au registre du commerce.
 
-<sup>4</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, les art. 43, al. 3, et 45, al. 2 et 3, s’appliquent par analogie. Si l’augmentation simultanée du capital-actions a lieu par conversion de fonds propres dont la société peut librement disposer, les art. 46, al. 3, let. d, et 48, al. 1, let. i, s’appliquent.
+<sup>4</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, les art. 43, al. 3, et 45, al. 2, s’appliquent par analogie. Si l’augmentation simultanée du capital-actions a lieu par conversion de fonds propres librement disponibles, les art. 46, al. 3, let. d, et 48, al. 1, let. i, s’appliquent.[^57-3]
+
+[^57-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^57-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 58
 
@@ -1335,13 +1265,63 @@ Lorsque la réduction du capital-actions est décidée simultanément avec une a
 
 Les dispositions de la présente ordonnance concernant la réduction du capital-actions s’appliquent par analogie à la réduction des apports effectués en libération du capital.
 
-### Section 7 Capital participation
+### Section 7 Marge de fluctuation du capital
+
+[^tit3-chap3-sec7-1]
+
+[^tit3-chap3-sec7-1]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+#### Art. 59a
+
+**Autorisation donnée au conseil d’administration**
+
+<sup>1</sup>
+
+La réquisition d’inscription au registre du commerce d’une marge de fluctuation du capital (art. 653*s* CO) est accompagnée des pièces justificatives suivantes:
+
+- a. l’acte authentique relatif à la décision de l’assemblée générale;
+- b. les statuts modifiés;
+- c. la preuve que l’organe de révision prescrit par la loi a été nommé et a accepté sa nomination, si la société avait jusque-là renoncé au contrôle restreint et que le conseil d’administration est autorisé à réduire le capital.
+
+<sup>2</sup>
+
+L’inscription au registre du commerce mentionne:
+
+- a. la marge de fluctuation du capital avec un renvoi aux statuts pour les détails;
+- b. la date de la décision de l’assemblée générale relative à la modification des statuts;
+- c. le cas échéant, l’organe de révision.
+
+#### Art. 59b
+
+**Augmentation du capital-actions dans les limites de la marge de fluctuation**
+
+<sup>1</sup> La réquisition d’inscription au registre du commerce d’une augmentation du capital-actions dans les limites de la marge de fluctuation est accompagnée si nécessaire des pièces justificatives mentionnées à l’art. 46 ou à 52.
+
+<sup>2</sup> Le contenu de l’inscription est régi par l’art. 48, qui s’applique par analogie.
+
+#### Art. 59c
+
+**Réduction du capital-actions dans les limites de la marge de fluctuation**
+
+<sup>1</sup> La réquisition d’inscription au registre du commerce d’une réduction du capital-actions dans les limites de la marge de fluctuation est accompagnée si nécessaire des pièces justificatives mentionnées à l’art. 55.
+
+<sup>2</sup> Le contenu de l’inscription est régi par l’art. 55, qui s’applique par analogie.
+
+### Section 8 Capital participation
+
+[^tit3-chap3-sec8-1]
+
+[^tit3-chap3-sec8-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 60
 
-Les dispositions de la présente ordonnance concernant le capital-actions s’appliquent par analogie à l’augmentation et à la réduction du capital participation ainsi qu’à la libération ultérieure des apports effectués en libération du capital participation.
+Les dispositions de la présente ordonnance concernant le capital-actions s’appliquent par analogie à la monnaie dans laquelle le capital participation est fixé, à l’augmentation et à la réduction de ce dernier ainsi qu’à la libération ultérieure des apports effectués en libération du capital participation.
 
-### Section 8 Dispositions spéciales concernant la révision et l’organe de révision
+### Section 9 Dispositions spéciales concernant la révision et l’organe de révision
+
+[^tit3-chap3-sec9-1]
+
+[^tit3-chap3-sec9-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 61
 
@@ -1373,7 +1353,11 @@ Toute société anonyme qui ne procède pas à un contrôle ordinaire ni à un c
 
 <sup>5</sup> Si nécessaire, le conseil d’administration adapte les statuts et requiert la radiation ou l’inscription au registre du commerce de l’organe de révision.
 
-### Section 9 Dissolution et radiation
+### Section 10 Dissolution et radiation
+
+[^tit3-chap3-sec10-1]
+
+[^tit3-chap3-sec10-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 63
 
@@ -1456,16 +1440,17 @@ La réquisition d’inscription au registre du commerce de la fondation d’une 
 - d. une preuve que les membres de l’organe de contrôle ont accepté leur nomination;
 - e. en cas de libération en espèces, une attestation indiquant auprès de quelle banque les apports ont été déposés, à moins que la banque ne soit nommée dans l’acte authentique;
 - f. dans le cas prévu à l’art. 117, al. 3, la déclaration du domiciliataire en vertu de laquelle il octroie un domicile à la société au lieu de son siège;
-- g.[^66-1] ...
+- g.[^66-1] …
 - h.[^66-2] si la société a des actions au porteur, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^66-3].
 
 <sup>2</sup> Les indications qui sont déjà contenues dans l’acte constitutif ne doivent pas faire l’objet d’une pièce justificative supplémentaire.
 
-<sup>3</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, l’art. 43, al. 3, s’applique par analogie.
+<sup>3</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 43, al. 3, s’applique par analogie.[^66-4]
 
 [^66-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^66-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^66-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^66-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 67
 
@@ -1477,20 +1462,14 @@ L’acte constitutif en la forme authentique doit contenir les indications suiva
 - b. la déclaration des fondateurs en vertu de laquelle ils fondent une société en commandite par actions;
 - c. la constatation que le texte des statuts a été arrêté et que les membres de l’administration y sont nommés;
 - d. la déclaration des fondateurs assumant une responsabilité limitée relative à la souscription des actions avec l’indication du nombre, de la valeur nominale, de l’espèce, de la catégorie et du prix d’émission des actions ainsi que l’engagement inconditionnel d’effectuer un apport correspondant au prix d’émission;
-- e.
-
-  la constatation des fondateurs que:
-
-  - 1\. toutes les actions ont été valablement souscrites,
-  - 2\. les apports promis correspondent au prix d’émission,
-  - 3\. les apports ont été effectués conformément aux exigences légales et statutaires,
-  - 4\.[^67-1] il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives;
-
+- e.[^67-1] la constatation des fondateurs visée à l’art. 629, al. 2, en relation avec l’art. 764, al. 2, CO;
 - f. la désignation des membres de l’organe de contrôle;
 - g. la mention de chacune des pièces justificatives et l’attestation de l’officier public qu’elles lui ont été soumises ainsi qu’aux fondateurs;
-- h. la signature des fondateurs.
+- h. la signature des fondateurs;
+- i.[^67-2] si le capital-actions a été fixé dans une monnaie étrangère ou que les apports sont effectués dans une autre monnaie que celle du capital-actions, le taux de change appliqué.
 
-[^67-1]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^67-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^67-2]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 68
 
@@ -1507,9 +1486,9 @@ L’inscription au registre du commerce d’une société en commandite par acti
 - e. la date des statuts;
 - f. la durée de la société, si elle est limitée;
 - g. son but;
-- h. le montant du capital-actions, le montant des apports effectués ainsi que le nombre, la valeur nominale et l’espèce des actions;
+- h.[^68-1] le montant et la monnaie du capital-actions et des apports effectués, ainsi que le nombre, la valeur nominale et l’espèce des actions;
 - i. le cas échéant, les actions à droit de vote privilégié;
-- j. si la société a un capital participation, son montant, le montant des apports effectués ainsi que le nombre, la valeur nominale et l’espèce des bons de participation;
+- j.[^68-2] si la société a un capital participation, le montant et la monnaie du capital participation et des apports effectués, ainsi que le nombre, la valeur nominale et l’espèce des bons de participations;
 - k. s’il y a des actions ou des bons de participation privilégiés, les droits de priorité qui leur sont attachés;
 - l. si les actions ou les bons de participation sont soumis à des restrictions de transmissibilité, un renvoi aux statuts pour les détails;
 - m. en cas d’émission de bons de jouissance, leur nombre et les droits qui y sont attachés;
@@ -1519,13 +1498,19 @@ L’inscription au registre du commerce d’une société en commandite par acti
 - q. le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire, ni à un contrôle restreint, avec la date de la déclaration de renonciation de l’administration prévue à l’art. 62, al. 2;
 - r. lorsque la société procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - s. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- t. la forme des communications de l’administration aux actionnaires prévue dans les statuts;
-- u.[^68-1] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^68-2].
+- t.[^68-3] la forme des communications de la société aux associés prévue par les statuts;
+- u.[^68-4] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^68-5];
+- v.[^68-6] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
 
-<sup>2</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2 et 3, s’applique par analogie.
+<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^68-7]
 
-[^68-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^68-2]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-4]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^68-5]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^68-6]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^68-7]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 69
 
@@ -1577,13 +1562,14 @@ La réquisition d’inscription au registre du commerce de la fondation d’une 
 - f. le cas échéant, la décision des fondateurs ou, si les statuts le prévoient, la décision des gérants concernant la nomination d’autres personnes habilitées à représenter la société;
 - g. en cas de libération en espèces, une attestation indiquant auprès de quelle banque les apports ont été déposés, à moins que la banque ne soit nommée dans l’acte authentique;
 - h. dans le cas prévu à l’art. 117, al. 3, la déclaration du domiciliataire en vertu de laquelle il octroie un domicile à la société au lieu de son siège;
-- i.[^71-1] ...
+- i.[^71-1] …
 
 <sup>2</sup> Les indications qui sont déjà contenues dans l’acte constitutif ne doivent pas faire l’objet d’une pièce justificative supplémentaire.
 
-<sup>3</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, l’art. 43, al. 3, s’applique par analogie.
+<sup>3</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 43, al. 3, s’applique par analogie.[^71-2]
 
 [^71-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 72
 
@@ -1595,22 +1581,15 @@ L’acte constitutif en la forme authentique doit contenir les indications suiva
 - b. la déclaration des fondateurs en vertu de laquelle ils fondent une société à responsabilité limitée;
 - c. la constatation des fondateurs que le texte des statuts a été arrêté;
 - d. la déclaration de chaque fondateur relative à la souscription des parts sociales avec l’indication du nombre, de la valeur nominale, de la catégorie et du prix d’émission des parts sociales;
-- e.
-
-  la constatation des fondateurs:
-
-  - 1\. que toutes les parts sociales ont été valablement souscrites,
-  - 2\. que les apports correspondent au prix d’émission,
-  - 3\. que les apports ont été effectués conformément aux exigences légales et, le cas échéant, statutaires,
-  - 4\. qu’ils acceptent l’obligation statutaire d’effectuer des versements supplémentaires ou de fournir des prestations accessoires,
-  - 5\.[^72-1] qu’il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives.
-
+- e.[^72-1] la constatation des fondateurs visée à l’art. 777, al. 2, CO;
 - f. éventuellement, la mention que les gérants ont été nommés, avec les indications personnelles les concernant;
 - g. la nomination de l’organe de révision ou la mention que la société renonce à une révision;
 - h. la mention de chacune des pièces justificatives et l’attestation de l’officier public qu’elles lui ont été soumises ainsi qu’aux fondateurs;
-- i. la signature des fondateurs.
+- i. la signature des fondateurs;
+- j.[^72-2] si le capital social a été fixé dans une monnaie étrangère ou que les apports sont effectués dans une autre monnaie que celle du capital social, le taux de change appliqué.
 
-[^72-1]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^72-2]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 73
 
@@ -1627,7 +1606,7 @@ L’inscription au registre du commerce d’une société à responsabilité lim
 - e. la date des statuts;
 - f. la durée de la société, si elle est limitée;
 - g. son but;
-- h. le montant du capital social;
+- h.[^73-1] le montant du capital social et la monnaie dans laquelle il est fixé;
 - i. les associés avec indication du nombre et de la valeur nominale de leurs parts sociales;
 - j. en cas d’obligation d’effectuer des versements supplémentaires, un renvoi aux statuts pour les détails;
 - k. en cas d’obligation statutaire de fournir des prestations accessoires y compris les droits de préférence, de préemption et d’emption, un renvoi aux statuts pour les détails;
@@ -1640,9 +1619,15 @@ L’inscription au registre du commerce d’une société à responsabilité lim
 - r. le cas échéant, le fait que la société ne procède ni à un contrôle ordinaire, ni à un contrôle restreint et la date de la déclaration des gérants prévue à l’art. 62, al. 2;
 - s. lorsque la société procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - t. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- u. la forme des communications des gérants aux associés prévue dans les statuts.
+- u.[^73-2] la forme des communications de la société aux associés prévue par les statuts;
+- v.[^73-3] le cas échéant, un renvoi à la clause d’arbitrage statutaire.
 
-<sup>2</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2 et 3, s’applique par analogie.
+<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2, s’applique par analogie.[^73-4]
+
+[^73-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-3]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^73-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 2 Augmentation du capital social
 
@@ -1650,61 +1635,35 @@ L’inscription au registre du commerce d’une société à responsabilité lim
 
 **Réquisition et pièces justificatives**
 
-<sup>1</sup> L’inscription au registre du commerce d’une augmentation du capital social doit être requise dans les trois mois qui suivent la décision de l’assemblée des associés. Les réquisitions déposées après l’échéance de ce délai sont rejetées.
+<sup>1</sup> L’inscription au registre du commerce d’une augmentation du capital social doit être requise dans les six mois qui suivent la décision de l’assemblée des associés.[^74-1]
 
 <sup>2</sup>
 
 La réquisition est accompagnée des pièces justificatives suivantes:
 
-- a. l’acte authentique relatif à la décision de l’assemblée des associés;
-- b. l’acte authentique relatif aux constatations des gérants et à la modification des statuts;
+- a.[^74-2] l’acte authentique relatif à la décision de l’assemblée des associés (art. 650, al. 2, en relation avec l’art. 781, al. 5, ch. 1, CO);
+- b.[^74-3] l’acte authentique relatif à la décision des gérants (art. 652*g*, al. 2, en relation avec l’art. 781, al. 5, ch. 5, CO);
 - c. les statuts modifiés;
-- d.[^74-1] le rapport d’augmentation signé par un gérant;
+- d.[^74-4] le rapport d’augmentation signé par un gérant (art. 652*e* en relation avec l’art. 781, al. 5, ch. 4, CO);
 - e. en cas de libération en espèces, une attestation indiquant auprès de quelle banque les apports ont été déposés, à moins que la banque ne soit nommée dans l’acte authentique;
-- f.[^74-2] ...
+- f.[^74-5] …
 
-<sup>3</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance, d’avantages particuliers ou d’augmentation du capital-actions par libération de fonds propres, l’art. 46, al. 3, s’applique par analogie.
+<sup>3</sup> En cas d’apport en nature, de compensation de créance, d’avantages particuliers ou d’augmentation du capital social par libération de fonds propres, l’art. 46, al. 3, s’applique par analogie.[^74-6]
 
 <sup>4</sup> Lorsque les droits de souscription préférentiels sont limités ou supprimés, l’art. 46, al. 4, s’applique par analogie.
 
-[^74-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^74-2]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^74-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^74-5]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^74-6]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 75
 
-**Actes authentiques**
+[^75-1]
 
-<sup>1</sup>
-
-L’acte authentique relatif à la décision de l’assemblée des associés doit contenir les indications suivantes:
-
-- a. le montant nominal ou, le cas échéant, le montant nominal maximal de l’augmentation du capital social;
-- b. le nombre ou, le cas échéant, le nombre maximal ainsi que la valeur nominale des parts sociales qui seront émises;
-- c. le prix d’émission ou l’autorisation donnée aux gérants de le fixer;
-- d. l’époque à compter de laquelle les parts sociales nouvelles donneront droit à des dividendes;
-- e. la nature des apports;
-- f. en cas d’apport en nature, son objet, son estimation, le nom de l’apporteur et les parts sociales qui lui reviennent;
-- g. en cas de reprise de biens, le nom de l’aliénateur et la contre-prestation de la société;
-- h. s’il y a des avantages particuliers, leur contenu, leur valeur et le nom des bénéficiaires;
-- i. le cas échéant, les parts sociales à droit de vote privilégié;
-- j. s’il y a des parts sociales privilégiées, les droits de priorité qui leur sont attachés;
-- k. toute réglementation dérogeant à la loi concernant les exigences relatives à l’approbation du transfert de parts sociales;
-- l. l’obligation d’effectuer des versements supplémentaires ou de fournir des prestations accessoires y compris les droits de préférence, de préemption et d’emption statutaires qui sont attachés aux parts sociales nouvellement émises;
-- m. le sort des droits de souscription préférentiels non exercés ou supprimés et, le cas échéant, la limitation ou la suppression des droits de souscription préférentiels.
-
-<sup>2</sup>
-
-L’acte authentique relatif aux constatations des gérants et à la modification des statuts doit établir que:
-
-- a. toutes les parts sociales ont été valablement souscrites;
-- b. les apports correspondent au prix total d’émission;
-- c. les apports ont été effectués conformément aux exigences de la loi, des statuts et de la décision de l’assemblée des associés;
-- d.[^75-1] lorsque les souscripteurs ne sont pas déjà gérants, qu’ils acceptent, si les statuts en prévoient, les obligations d’effectuer des versements supplémentaires ou de fournir des prestations accessoires, les interdictions de faire concurrence, les droits de préférence, de préemption et d’emption et les peines conventionnelles;
-- e. les pièces justificatives ont été soumises aux gérants ainsi qu’à l’officier public; elles sont mentionnées individuellement;
-- f.[^75-2] il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives.
-
-[^75-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^75-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^75-1]: Abrogé par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 76
 
@@ -1723,9 +1682,12 @@ L’inscription au registre du commerce d’une augmentation du capital social m
 - g. en cas d’obligation d’effectuer des versements supplémentaires, un renvoi aux statuts pour les détails;
 - h. en cas d’obligation statutaire de fournir des prestations accessoires y compris les droits de préférence, de préemption et d’emption, un renvoi aux statuts pour les détails;
 - i. si la règlementation des exigences relatives à l’approbation du transfert de parts sociales déroge à la loi, un renvoi aux statuts pour les détails;
-- j. le cas échéant, le fait que l’augmentation a été réalisée par conversion de fonds propres dont la société peut librement disposer.
+- j.[^76-1] le cas échéant, le fait que l’augmentation a été réalisée par conversion de fonds propres librement disponibles.
 
-<sup>2</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers lors d’une augmentation de capital, l’art. 45, al. 2 et 3, s’applique par analogie.
+<sup>2</sup> En cas d’apport en nature, de compensation de créance ou d’avantages particuliers lors d’une augmentation de capital, l’art. 45, al. 2, s’applique par analogie.[^76-2]
+
+[^76-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^76-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 3 Réduction du capital social
 
@@ -1737,77 +1699,23 @@ Sauf disposition contraire de la présente section, l’art. 55 s’applique par
 
 #### Art. 78
 
-**Réduction du capital social en cas de bilan déficitaire**
+**Réduction du capital social en cas de bilan déficitaire**[^78-1]
 
-<sup>1</sup>
+<sup>1</sup> La réquisition d’inscription au registre du commerce d’une réduction du capital social destinée à supprimer complètement ou partiellement un excédent passif constaté au bilan est accompagnée des pièces justificatives mentionnées à l’art. 56, al. 1.
 
-La réquisition d’inscription au registre du commerce d’une réduction du capital social destinée à supprimer un excédent passif constaté au bilan est accompagnée des pièces justificatives suivantes:
+<sup>2</sup> Le contenu de l’inscription est régi par l’art. 56, al. 3, qui s’applique par analogie.
 
-- a.
-
-  l’acte authentique relatif à la décision de l’assemblée des associés concernant:
-
-  - 1\. la constatation du résultat du rapport de révision,
-  - 2\. la façon dont sera effectuée la réduction du capital social,
-  - 3\. l’adaptation des statuts;
-
-- b. les statuts modifiés;
-- c. le rapport de révision d’une entreprise de révision soumise à la surveillance de l’État ou d’un expert-réviseur agréé.
-
-<sup>2</sup>
-
-Le rapport de révision doit constater que:
-
-- a. les créances sont encore entièrement couvertes après la réduction du capital;
-- b. le montant de la réduction du capital social n’est pas supérieur à l’excédent passif résultant de pertes;
-- c. les associés se sont entièrement acquittés de leur obligation statutaire d’effectuer des versements supplémentaires.
-
-<sup>3</sup>
-
-L’inscription au registre du commerce mentionne:
-
-- a. le fait que le capital social est réduit par suite de pertes;
-- b. la date de modification des statuts;
-- c. le fait que la réduction du capital a lieu par réduction de la valeur nominale des parts sociales ou bien par destruction de parts sociales;
-- d. le montant de la réduction du capital social;
-- e. le montant du capital social après sa réduction;
-- f. le nombre et la valeur nominale des parts sociales après la réduction;
-- g. les modifications parmi les associés.
+[^78-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 79
 
-**Réduction et augmentation simultanée du capital social le portant à un montant au moins équivalent au montant antérieur**
+**Réduction et augmentation simultanée du capital social**[^79-1]
 
-<sup>1</sup>
+<sup>1</sup> Lorsque le capital social est réduit et simultanément augmenté à nouveau à concurrence d’un montant au moins équivalent, la réquisition d’inscription au registre du commerce est accompagnée des pièces justificatives mentionnées à l’art. 57, al. 1.
 
-Lorsque la réduction du capital social est décidée simultanément avec une augmentation du capital social le portant à un montant au moins équivalent au montant antérieur, la réquisition d’inscription au registre du commerce est accompagnée des pièces justificatives suivantes:
+<sup>2</sup> Le contenu de l’inscription est régi par l’art. 57, al. 2, qui s’applique par analogie.
 
-- a. l’acte authentique relatif à la décision de l’assemblée des associés;
-- b. les pièces justificatives requises pour une augmentation du capital;
-- c. le cas échéant, les statuts modifiés.
-
-<sup>2</sup> Lorsque les statuts prévoient des versements supplémentaires, le rapport de révision doit attester que les associés les ont pleinement opérés.
-
-<sup>3</sup>
-
-L’inscription au registre du commerce mentionne:
-
-- a. le fait que le capital social est réduit et augmenté simultanément;
-- b. le montant de la réduction du capital social;
-- c. le fait que la réduction du capital social a lieu par réduction de la valeur nominale des parts sociales ou bien par destruction de parts sociales;
-- d. le nouveau montant du capital social, s’il est supérieur au montant antérieur;
-- e. le nombre et la valeur nominale des parts sociales après l’augmentation du capital
-- f. les modifications parmi les associés;
-- g. le cas échéant, les parts sociales à droit de vote privilégié;
-- h. s’il y a des parts sociales privilégiées, les droits de priorité qui leur sont attachés;
-- i. en cas d’obligation d’effectuer des versements supplémentaires, un renvoi aux statuts pour les détails;
-- j. en cas d’obligation statutaire de fournir des prestations accessoires y compris les droits de préférence, de préemption et d’emption, un renvoi aux statuts pour les détails;
-- k. si la règlementation des exigences relatives à l’approbation du transfert de parts sociales déroge à la loi, un renvoi aux statuts pour les détails;
-- l. la nouvelle date des statuts, s’ils ont été modifiés.
-
-<sup>4</sup> Lorsque le capital social est réduit à zéro puis augmenté à nouveau en vue d’un assainissement, la destruction des parts sociales émises et les éventuelles modifications parmi les associés doivent être inscrites au registre du commerce.
-
-<sup>5</sup> En cas d’apport en nature, de reprise de biens, de compensation de créance ou d’avantages particuliers, l’art. 45, al. 2 et 3, s’applique par analogie. Si l’augmentation simultanée du capital social a lieu par conversion de fonds propres dont la société peut disposer librement, les art. 74, al. 3, et 76, al. 1, let. j, s’appliquent.
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 80
 
@@ -1836,11 +1744,15 @@ La réquisition est accompagnée:
 
 <sup>3</sup> L’acquéreur ne peut être inscrit au registre du commerce que s’il est établi sans discontinuité que la part sociale a été transférée de l’associé inscrit à l’acquéreur.
 
-### Section 5 Révision, organe de révision, dissolution et radiation
+### Section 5 Monnaie du capital social, révision, organe de révision, dissolution et radiation
+
+[^tit3-chap5-sec5-1]
+
+[^tit3-chap5-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 83
 
-La révision, l’organe de révision, la dissolution, la révocation de la dissolution et la radiation de la société à responsabilité limitée sont régies par les dispositions relatives à la société anonyme, qui s’appliquent par analogie.
+La monnaie dans laquelle le capital social est fixé, la révision, l’organe de révision, la dissolution, la révocation de la dissolution et la radiation de la société à responsabilité limitée sont régis par les dispositions relatives à la société anonyme, qui s’appliquent par analogie.
 
 ### Chapitre 6 Société coopérative
 
@@ -1852,43 +1764,51 @@ La révision, l’organe de révision, la dissolution, la révocation de la diss
 
 La réquisition d’inscription au registre du commerce de la constitution d’une société coopérative est accompagnée des pièces justificatives suivantes:
 
-- a. le procès-verbal de l’assemblée constitutive;
-- b. les statuts signés par un administrateur;
+- a.[^84-1] l’acte authentique relatif à la constitution de la société;
+- b.[^84-2] les statuts;
 - c. une preuve que les membres de l’administration ont accepté leur nomination;
 - d. le cas échéant, une preuve que l’organe de révision prévu par la loi a accepté sa nomination;
 - e. en cas de désignation d’autres personnes habilitées à représenter la société, la décision de l’assemblée constitutive ou de l’administration;
 - f. dans le cas prévu à l’art. 117, al. 3, la déclaration du domiciliataire en vertu de laquelle il octroie un domicile à la société coopérative au lieu de son siège;
-- g.[^84-1] ...
+- g.[^84-3] …
 - h. lorsque les statuts prévoient une responsabilité personnelle ou une obligation d’effectuer des versements supplémentaires, la liste des associés signée par un administrateur.
 
-<sup>2</sup> Les indications qui sont déjà contenues dans le procès-verbal de l’assemblée constitutive ne doivent pas faire l’objet d’une pièce justificative supplémentaire.
+<sup>2</sup> Les indications qui sont déjà contenues dans l’acte authentique relatif à la constitution de la société ne doivent pas faire l’objet d’une pièce justificative supplémentaire.[^84-4]
 
 <sup>3</sup>
 
-En cas d’apport en nature ou de reprise de biens, les pièces justificatives suivantes doivent également être produites:
+En cas d’apport en nature, les pièces justificatives suivantes doivent également être produites:[^84-5]
 
 - a. le contrat d’apport en nature avec les annexes requises;
-- b. s’il est déjà disponible, le contrat de reprise de biens avec les annexes requises;
+- b.[^84-6] …
 - c. le rapport de fondation signé par l’ensemble des fondateurs.
 
-[^84-1]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^84-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-3]: Abrogée par le ch. I de l’O du 6 mars 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^84-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-5]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^84-6]: Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 85
 
-**Procès-verbal de l’assemblée constitutive**
+**Acte constitutif[^85-1]**
 
-Le procès-verbal de l’assemblée constitutive doit contenir les indications suivantes:
+L’acte authentique relatif à la constitution de la société coopérative doit contenir les indications suivantes:[^85-2]
 
 - a. les indications personnelles relatives aux fondateurs et à leurs représentants;
 - b. la déclaration des fondateurs en vertu de laquelle ils fondent une société coopérative;
 - c. la constatation des fondateurs que le texte des statuts a été arrêté;
-- d. le cas échéant, le fait que le rapport écrit des fondateurs concernant les apports en nature et les biens à reprendre a été transmis à l’assemblée et que cette dernière en a discuté;
+- d.[^85-3] le cas échéant, le fait que le rapport écrit des fondateurs concernant les apports en nature a été transmis à l’assemblée et que cette dernière en a discuté;
 - e. la nomination des administrateurs et les indications personnelles les concernant;
 - f. la nomination de l’organe de révision ou la mention que la société renonce à une révision;
 - g. la signature des fondateurs;
-- h.[^85-1] la constatation des fondateurs qu’il n’existe pas d’autres apports en nature, reprises de biens, reprises de biens envisagées, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives.
+- [tab] h.[^85-4] la confirmation, par les fondateurs, qu’il n’existe pas d’autres apports en nature, compensations de créances et avantages particuliers que ceux mentionnés dans les pièces justificatives.
 
-[^85-1]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^85-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^85-4]: Introduite par le ch. I de l’O du 6 mars 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 86
 
@@ -1919,9 +1839,12 @@ L’inscription au registre du commerce d’une société coopérative mentionne
 - m. le cas échéant, le fait que la société coopérative ne procède ni à un contrôle ordinaire, ni à un contrôle restreint et la date de la déclaration de l’administration prévue par l’art. 62, al. 2;
 - n. lorsque la société coopérative procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision;
 - o. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- p. la forme des communications de l’administration aux associés prévue dans les statuts.
+- p.[^87-1] la forme des communications de la société aux associés prévue dans les statuts.
 
-<sup>2</sup> En cas d’apport en nature ou de reprise de biens, l’art. 45, al. 2, let. a et b, et 3, s’applique par analogie.
+<sup>2</sup> En cas d’apport en nature, l’art. 45, al. 2, let. a, s’applique par analogie.[^87-2]
+
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^87-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 88
 
@@ -1943,7 +1866,31 @@ La révision, l’organe de révision, la dissolution, la révocation de la diss
 
 #### Art. 90
 
-**Réquisition et pièces justificatives**
+**Obligation d’inscription au registre du commerce**[^90-1]
+
+<sup>1</sup>
+
+Conformément à l’art. 61, al. 2, CC[^90-2], est tenue de s’inscrire au registre du commerce toute association qui:
+
+- a. pour atteindre son but, exerce une industrie en la forme commerciale;
+- b. est soumise à l’obligation de faire réviser ses comptes, ou
+- c. à titre principal, collecte ou distribue directement ou indirectement des fonds à l’étranger à des fins caritatives, religieuses, culturelles, éducatives ou sociales et ne remplit pas les conditions d’exemption fixées à l’al. 2.
+
+<sup>2</sup>
+
+Les associations visées à l’al. 1, let. c, sont exemptées de l’obligation de s’inscrire au registre du commerce lorsque les conditions suivantes sont réunies:
+
+- a. durant les deux derniers exercices ni le montant annuel des fonds collectés ni celui des fonds distribués n’ont dépassé 100 000 francs;
+- b. les fonds sont distribués par un intermédiaire financier au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent[^90-3];
+- c. au moins un représentant de l’association est domicilié en Suisse.
+
+[^90-1]: Introduit par l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^90-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+#### Art. 90a
+
+**Réquisition et pièces justificatives**[^90a-1]
 
 <sup>1</sup>
 
@@ -1965,9 +1912,14 @@ La réquisition d’inscription au registre du commerce d’une association est 
 
 <sup>2</sup> Les indications qui sont déjà contenues dans le procès-verbal de l’assemblée générale ne doivent pas faire l’objet d’une pièce justificative supplémentaire.
 
-<sup>3</sup> Si l’association s’est déjà vu attribuer un numéro d’identification des entreprises, celui-ci est mentionné dans la réquisition.[^90-1]
+<sup>3</sup> Si l’association s’est déjà vu attribuer un numéro d’identification des entreprises, celui-ci est mentionné dans la réquisition.[^90a-2]
 
-[^90-1]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+<sup>4</sup> Lorsqu’une association n’est pas soumise à l’obligation d’inscription au sens de l’art. 61, al. 2, CC[^90a-3] et n’est pas représentée par une personne domiciliée en Suisse, elle produit à l’office du registre du commerce une déclaration signée par au moins un membre de la direction selon laquelle elle n’est pas soumise à l’obligation d’inscription au registre du commerce.[^90a-4]
+
+[^90a-1]: Anciennement art. 90
+[^90a-2]: Introduit par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^90a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^90a-4]: Introduit par l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 91
 
@@ -1990,18 +1942,25 @@ L’inscription au registre du commerce d’une association mentionne:
 - g. son but;
 - h. ses ressources telles que les cotisations des membres, le rendement de la fortune de l’association ou de son activité et les dons;
 - i. en cas de responsabilité personnelle des membres ou d’obligation d’effectuer des versements supplémentaires, un renvoi aux statuts pour les détails;
-- j.[^92-1] ...
-- k. les membres de la direction;
-- l. les personnes habilitées à représenter l’association;
+- j.[^92-1] le cas échéant, le fait qu’elle n’est pas soumise à l’obligation d’inscription au sens de l’art. 61, al. 2, CC[^92-2] et qu’elle n’est pas représentée par une personne domiciliée en Suisse, avec indication de la date de la déclaration prévue à l’art. 90*a*, al. 4;
+- k.[^92-3] pour les associations visées à l’art. 90, al. 1, let. a et b, les membres de la direction et les personnes habilitées à représenter l’association; pour les autres associations, au moins un membre de la direction et au moins une personne autorisée à représenter l’association et ayant son domicile en Suisse;
+- l.[^92-4] …
 - m. lorsque l’association procède à un contrôle ordinaire ou à un contrôle restreint, l’organe de révision.
 
-[^92-1]: Abrogée par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
+[^92-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^92-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^92-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^92-4]: Abrogée par l’annexe ch. 2 de l’O du 31 août 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 93
 
 **Dissolution, révocation de la dissolution et radiation**
 
-La dissolution, la révocation de la dissolution et la radiation de l’association sont régies par les dispositions relatives à la société anonyme, qui s’appliquent par analogie.
+<sup>1</sup> La dissolution, la révocation de la dissolution et la radiation de l’association sont régies par les dispositions relatives à la société anonyme, qui s’appliquent par analogie.
+
+<sup>2</sup> Une association qui n’est pas soumise à l’obligation d’inscription peut en tout temps requérir sa radiation du registre du commerce. La réquisition de radiation doit être accompagnée de la décision de l’organe compétent et d’une déclaration de la direction signée par au moins un membre de la direction selon laquelle l’association n’est pas soumise à l’obligation d’inscription au registre du commerce. L’inscription de la radiation au registre du commerce mentionne le motif et le fait que l’association n’est pas soumise à l’obligation d’inscription, avec indication de la date de la déclaration prévue au présent alinéa.[^93-1]
+
+[^93-1]: Introduit par l’annexe ch. 2 l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### Chapitre 8 Fondation
 
@@ -2047,7 +2006,7 @@ L’inscription au registre du commerce d’une fondation mentionne:
 
 - f. le but de la fondation;
 - g. en cas de réserve de modification du but par le fondateur, un renvoi à l’acte de fondation pour les détails;
-- h.[^95-2] ...
+- h.[^95-2] …
 - i. tous les membres de l’organe suprême;
 - j. les personnes habilitées à représenter la fondation;
 - k.[^95-3] lorsque la fondation est soumise à une surveillance, l’autorité de surveillance de la fondation, dès le début de la surveillance;
@@ -2056,7 +2015,7 @@ L’inscription au registre du commerce d’une fondation mentionne:
 - n.[^95-5] si la fondation sert à la prévoyance professionnelle: l’autorité de surveillance prévue par l’art. 61 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^95-6];
 - o.[^95-7] le cas échéant, le fait qu’il s’agit d’une fondation ecclésiastique ou d’une fondation de famille.
 
-<sup>2</sup> ...[^95-8]
+<sup>2</sup> …[^95-8]
 
 [^95-1]: Nouvelle teneur selon l’annexe 2 ch. II 2 de l’O du 11 nov. 2015 sur le blanchiment d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^95-2]: Abrogée par l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -2179,13 +2138,12 @@ La réquisition d’inscription au registre du commerce de la fondation d’une 
 - d.[^102-1] une preuve que la société d’audit prévue par la loi a accepté sa nomination;
 - e. le procès-verbal de la séance constitutive du conseil d’administration mentionnant la nomination du président et l’attribution des pouvoirs de représentation;
 - f. dans le cas prévu à l’art. 117, al. 3, la déclaration du domiciliataire en vertu de laquelle il octroie un domicile à la société au lieu de son siège;
-- g.[^102-2] si la société a des actions au porteur, une preuve que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^102-3].
+- g.[^102-2] …
 
 <sup>2</sup> Les indications qui sont déjà contenues dans l’acte constitutif ne doivent pas faire l’objet d’une pièce justificative supplémentaire.
 
 [^102-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^102-2]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^102-3]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^102-2]: Introduite par le ch. I de l’O du 6 mars 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 103
 
@@ -2224,13 +2182,13 @@ L’inscription au registre du commerce d’une société d’investissement à 
 - m.[^104-1] le fait que l’audit a lieu selon les dispositions de la LPCC;
 - n.[^104-2] la société d’audit agréée;
 - o. l’organe de publication légal et, le cas échéant, les autres organes de publication;
-- p. la forme des communications du conseil d’administration aux actionnaires prévue dans les statuts;
-- q.[^104-3] si la société a des actions au porteur, le fait que la société a des titres de participation cotés en bourse ou que toutes les actions au porteur sont émises sous forme de titres intermédiés au sens de la LTI[^104-4].
+- p.[^104-3] la forme des communications de la société aux actionnaires prévue dans les statuts;
+- q.[^104-4] …
 
 [^104-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
 [^104-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
-[^104-3]: Introduite par le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
-[^104-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^104-3]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^104-4]: Introduite par le ch. I de l’O du 6 mars 2020 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)). Abrogée par le ch. I de l’O du 2 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 105
 
@@ -2383,7 +2341,7 @@ L’inscription au registre du commerce d’une succursale d’une entité jurid
 
 ## Titre 4 Dispositions concernant l’inscription applicables à toutes les formes juridiques
 
-### Chapitre 1 Numéro d’identification des entreprises, forme juridique, siège, but, indications personnelles et référence à l’inscription précédente****
+### Chapitre 1 Numéro d’identification des entreprises, forme juridique, siège, but, indications personnelles et référence à l’inscription précédente
 
 [^tit4-chap1-1]
 
@@ -2543,7 +2501,7 @@ Chaque inscription au registre journalier contient la référence à la publicat
 
 La réquisition est accompagnée des pièces justificatives suivantes:
 
-- a.[^123-1] ...
+- a.[^123-1] …
 - b. pour les personnes morales, la décision concernant la modification des statuts et un exemplaire attesté conforme des nouveaux statuts, si ceux-ci doivent être modifiés;
 - c. les signatures légalisées des personnes requérant l’inscription.
 
@@ -2672,7 +2630,9 @@ L’inscription d’une fusion, d’une scission, d’une transformation ou d’
 
 <sup>2</sup> Si les entités juridiques participant à la restructuration ne relèvent pas du même arrondissement de registre, les offices du registre du commerce doivent coordonner leurs inscriptions.
 
-<sup>3</sup> Le présent article s’applique également à l’inscription d’un apport en nature ou d’une reprise de biens opéré par le moyen d’un transfert de patrimoine.
+<sup>3</sup> Le présent article s’applique également à l’inscription d’un apport en nature opéré par le moyen d’un transfert de patrimoine.[^129-1]
+
+[^129-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 2 Fusion d’entités juridiques
 
@@ -2682,11 +2642,11 @@ L’inscription d’une fusion, d’une scission, d’une transformation ou d’
 
 <sup>1</sup> Chaque entité juridique participant à la fusion doit requérir elle-même l’inscription au registre du commerce des faits la concernant (art. 21, al. 1, LFus), dans une langue officielle de l’office du registre du commerce concerné.
 
-<sup>2</sup> Si les entités juridiques participant à la fusion ne relèvent pas toutes du même arrondissement de registre, l’office du registre du commerce de l’entité juridique reprenante est compétent pour la décision sur l’inscription de la fusion. Il informe les offices du registre du commerce du siège des entités juridiques transférantes qu’il va procéder à l’inscription et leur demande de procéder à la radiation des inscriptions antérieures sans nouvel examen.[^130-1]
+<sup>2</sup> Si les entités juridiques participant à la fusion ne relèvent pas toutes du même arrondissement de registre, l’office du registre du commerce de l’entité juridique reprenante est compétent pour la décision sur l’inscription de la fusion. Il informe les offices du registre du commerce du siège des entités juridiques transférantes qu’il va procéder à l’inscription et leur demande de procéder à la radiation des inscriptions antérieures sans nouvel examen. Il leur transmet, à leur demande, des copies de la réquisition d’inscription et des pièces justificatives.[^130-1]
 
 <sup>3</sup> Après la radiation des entités juridiques transférantes, les pièces justificatives et les données électroniques liées à leurs inscriptions sont transmises à l’office du registre du commerce du siège de l’entité juridique reprenante et mises au dossier de cette dernière.
 
-[^130-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^130-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 131
 
@@ -2697,7 +2657,7 @@ L’inscription d’une fusion, d’une scission, d’une transformation ou d’
 Les entités juridiques participant à la fusion doivent joindre les pièces justificatives suivantes à la réquisition d’inscription au registre du commerce de la fusion:
 
 - a. le contrat de fusion (art. 12 et 13 LFus);
-- b. les bilans de fusion des entités juridiques transférantes et, le cas échéant, leurs bilans intermédiaires (art. 11 LFus);
+- b.[^131-1] les bilans de fusion des entités juridiques transférantes ou, le cas échéant, les bilans de leurs comptes intermédiaires (art. 11 LFus);
 - c. les décisions de fusion des entités juridiques participant à la fusion, si nécessaire en la forme authentique (art. 18 et 20 LFus);
 - d. les rapports de révision des entités juridiques participant à la fusion (art. 15 LFus);
 - e. en cas de fusion par absorption, si nécessaire, les pièces justificatives requises pour une augmentation de capital (art. 9 et 21, al. 2, LFus);
@@ -2709,6 +2669,8 @@ Les entités juridiques participant à la fusion doivent joindre les pièces jus
 
 <sup>3</sup> En cas de fusion simplifiée de sociétés de capitaux (art. 23 LFus), les sociétés qui fusionnent doivent produire, en lieu et place des pièces justificatives prévues à l’al. 1, let. c et d, les extraits des procès-verbaux des organes supérieurs de direction ou d’administration portant sur la conclusion du contrat de fusion, à moins que le contrat de fusion ne soit signé par tous les membres de ces organes. Ces derniers doivent en outre prouver que les sociétés remplissent les conditions fixées à l’art. 23 LFus, pour autant que cela ne ressorte pas des autres pièces.
 
+[^131-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 #### Art. 132
 
 **Contenu de l’inscription**
@@ -2718,7 +2680,7 @@ Les entités juridiques participant à la fusion doivent joindre les pièces jus
 L’inscription au registre du commerce sous la rubrique de l’entité juridique reprenante mentionne:
 
 - a. la raison de commerce ou le nom, le siège et le numéro d’identification des entreprises des entités juridiques qui fusionnent;
-- b. la date du contrat de fusion, du bilan de fusion et, le cas échéant, du bilan intermédiaire;
+- b.[^132-1] la date du contrat de fusion et des bilans de fusion des entités juridiques transférantes;
 - c. la valeur totale des actifs et des passifs transférés;
 - d. le cas échéant, les parts sociales ou les droits de sociétariat attribués aux associés de l’entité juridique transférante ainsi que l’éventuelle soulte (art. 7 LFus);
 - e. le cas échéant, le dédommagement (art. 8 LFus);
@@ -2733,6 +2695,8 @@ L’inscription au registre du commerce sous la rubrique de l’entité juridiqu
 - a. la raison de commerce ou le nom, le siège et le numéro d’identification des entreprises des entités juridiques qui fusionnent;
 - b. la radiation de l’entité juridique par suite de fusion (art. 21, al. 3, LFus).
 
+[^132-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
 ### Section 3 Scission de sociétés de capitaux et de sociétés coopératives
 
 #### Art. 133
@@ -2741,9 +2705,9 @@ L’inscription au registre du commerce sous la rubrique de l’entité juridiqu
 
 <sup>1</sup> Chaque société participant à la scission doit requérir elle-même l’inscription au registre du commerce des faits la concernant (art. 51, al. 1, LFus), dans une langue officielle de l’office du registre du commerce concerné.
 
-<sup>2</sup> Si les sociétés participant à la scission ne relèvent pas toutes du même arrondissement de registre, l’office du registre du commerce de la société transférante est compétent pour la décision sur l’inscription de la scission. Il informe les offices du registre du commerce du siège des entités juridiques transférantes qu’il va procéder à l’inscription et leur demande de procéder aux inscriptions correspondantes sans nouvel examen.[^133-1]
+<sup>2</sup> Si les sociétés participant à la scission ne relèvent pas toutes du même arrondissement de registre, l’office du registre du commerce de la société transférante est compétent pour la décision sur l’inscription de la scission. Il informe les offices du registre du commerce du siège des entités juridiques transférantes qu’il va procéder à l’inscription et leur demande de procéder aux inscriptions correspondantes sans nouvel examen. Il leur transmet, à leur demande, des copies de la réquisition d’inscription et des pièces justificatives.[^133-1]
 
-[^133-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^133-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 134
 
@@ -2803,12 +2767,14 @@ En cas de séparation, l’inscription au registre du commerce sous la rubrique 
 La réquisition d’inscription au registre du commerce d’une transformation (art. 66 LFus) est accompagnée des pièces justificatives suivantes:
 
 - a. le projet de transformation (art. 59 et 60 LFus);
-- b. le bilan de transformation et, le cas échéant, le bilan intermédiaire (art. 58 LFus);
+- b.[^136-1] le bilan de transformation ou, le cas échéant, les bilans de leurs comptes intermédiaires (art. 58 LFus);
 - c. la décision de transformation en la forme authentique (art. 64 et 65 LFus);
 - d. le rapport de révision (art. 62 LFus);
 - e. le cas échéant, les pièces justificatives requises pour la fondation de la société revêtant la nouvelle forme juridique (art. 57 LFus).
 
 <sup>2</sup> En cas de transformation de petites et moyennes entreprises, la société peut produire, en lieu et place de la pièce justificative prévue à l’al. 1, let. d, une déclaration signée par un membre de l’organe supérieur de direction ou d’administration au moins énonçant que tous les associés renoncent à l’établissement d’un rapport de transformation ou à la vérification et que la société remplit les conditions fixées à l’art. 2, let. e, LFus. La déclaration doit citer les documents sur lesquels elle se fonde tels que les comptes de profits et pertes, les bilans, les rapports annuels, les déclarations de renonciation des associés et le procès-verbal de l’assemblée générale.
+
+[^136-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 137
 
@@ -2818,10 +2784,12 @@ L’inscription au registre du commerce de la transformation mentionne:
 
 - a. la raison de commerce ou le nom de la société ainsi que sa forme juridique avant et après la transformation;
 - b. s’il s’agit d’une personne morale, la date des nouveaux statuts;
-- c. la date du projet de transformation, du bilan de transformation et, le cas échéant, du bilan intermédiaire;
+- c.[^137-1] la date du projet de transformation et du bilan de transformation;
 - d. la valeur totale des actifs et des passifs;
 - e. les parts sociales ou les droits de sociétariat attribués aux associés;
 - f. les autres indications requises pour la nouvelle forme juridique.
+
+[^137-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Section 5 Transfert de patrimoine
 
@@ -2857,13 +2825,15 @@ L’autorité de surveillance de la fondation transférante doit joindre les pi�
 
 - a. la décision d’approbation de la fusion (art. 83, al. 3, LFus);
 - b. le contrat de fusion, si nécessaire en la forme authentique (art. 79 LFus);
-- c. les bilans de fusion des fondations transférantes et, le cas échéant, leurs bilans intermédiaires (art. 80 LFus);
+- c.[^140-1] les bilans de fusion des fondations transférantes ou, le cas échéant, les bilans de leurs comptes intermédiaires (art. 80 LFus);
 - d. le rapport de révision (art. 81 LFus);
 - e. en cas de fusion par combinaison, les pièces justificatives requises pour la constitution de la nouvelle fondation.
 
 <sup>2</sup> En cas de fusion de fondations de famille ou de fondations ecclésiastiques, la fondation reprenante doit joindre, en lieu et place de la décision de l’autorité de surveillance, les décisions de fusion prises par les organes supérieurs des fondations participantes (art. 84, al. 1, LFus).
 
 <sup>3</sup> L’art. 132 s’applique par analogie au contenu de l’inscription de la fusion au registre du commerce. L’inscription mentionne en outre la date de la décision de l’autorité de surveillance approuvant la fusion.
+
+[^140-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 141
 
@@ -2891,13 +2861,15 @@ L’autorité de surveillance de la fondation transférante doit joindre les pi�
 L’autorité de surveillance de l’institution de prévoyance transférante doit joindre les pièces justificatives suivantes à la réquisition d’inscription de la fusion (art. 95, al. 4, LFus) adressée à l’office du registre du commerce du siège de l’institution de prévoyance reprenante:
 
 - a. le contrat de fusion (art. 90 LFus);
-- b. les bilans de fusion des institutions de prévoyance transférantes et, le cas échéant, leurs bilans intermédiaires (art. 89 LFus);
+- b.[^142-1] les bilans de fusion des institutions de prévoyance transférantes ou, le cas échéant, les bilans de leurs comptes intermédiaires (art. 89 LFus);
 - c. les rapports de révision des institutions de prévoyance participant au transfert (art. 92 LFus);
 - d. les décisions de fusion des institutions de prévoyance participant au transfert (art. 94 LFus);
 - e. la décision d’approbation de la fusion rendue par l’autorité de surveillance (art. 95, al. 3, LFus);
 - f. en cas de fusion par combinaison, les pièces justificatives requises pour la fondation de la nouvelle entité juridique.
 
 <sup>2</sup> L’art. 132 s’applique par analogie au contenu de l’inscription de la fusion au registre du commerce. L’inscription mentionne en outre la date de la décision de l’autorité de surveillance approuvant la fusion.
+
+[^142-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 143
 
@@ -3046,11 +3018,12 @@ L’inscription mentionne:
 
 **Contenu de la sommation de l’office du registre du commerce**[^152-1]
 
-<sup>1</sup> Dans les cas visés aux art. 934, al. 2, 934*a*, al. 2, 938, al. 1, et 939, al. 1, CO, l’office du registre du commerce somme l’entité juridique de procéder à la réquisition ou de prouver qu’aucune inscription, modification ou radiation n’est nécessaire. À cet effet, il lui fixe un délai.
+<sup>1</sup> Dans les cas visés aux art. 934, al. 2, 934*a*, al. 1 et 2, 938, al. 1, et 939, al. 1, CO, l’office du registre du commerce somme l’entité juridique de procéder à la réquisition ou de prouver qu’aucune inscription, modification ou radiation n’est nécessaire. À cet effet, il lui fixe un délai.[^152-2]
 
 <sup>2</sup> La sommation mentionne les dispositions applicables et les conséquences juridiques en cas de non-exécution.
 
 [^152-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^152-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 152a
 
@@ -3109,22 +3082,25 @@ Lorsque l’entité juridique n’obtempère pas à la sommation dans le délai 
 
 #### Art. 157
 
-**Recherche des entreprises soumises à l’obligation de s’inscrire et des modifications des faits inscrits**[^157-1]
+**Recherche des entités juridiques soumises à l’obligation de s’inscrire et des modifications des faits inscrits[^157-2]**[^157-1]
 
 <sup>1</sup>
 
 Les offices du registre du commerce sont tenus de rechercher périodiquement:
 
-- a. les entreprises soumises à l’obligation de s’inscrire qui ne sont pas inscrites;
+- a.[^157-3] les entités juridiques soumises à l’obligation de s’inscrire qui ne sont pas inscrites;
 - b. les inscriptions qui ne sont plus conformes aux faits.
 
-<sup>2</sup> À cet effet, ils peuvent exiger des tribunaux et des autorités de la Confédération, des cantons, des districts et des communes de leur indiquer gratuitement et par écrit si une entreprise pourrait être soumise à l’obligation de s’inscrire ou si un fait pourrait nécessiter une inscription, une modification ou une radiation. Ceux-ci doivent également participer à l’établissement de l’identité des personnes physiques selon les art. 24*a* et 24*b*.
+<sup>2</sup> À cet effet, ils peuvent exiger des tribunaux et des autorités de la Confédération, des cantons, des districts et des communes de leur indiquer gratuitement et par écrit si une entité juridique pourrait être soumise à l’obligation de s’inscrire ou si un fait pourrait nécessiter une inscription, une modification ou une radiation. Ceux-ci doivent également participer à l’établissement de l’identité des personnes physiques au sens des art. 24*a* et 24*b*.[^157-4]
 
 <sup>3</sup> Les offices du registre du commerce invitent au moins une fois tous les trois ans les autorités des communes ou des districts à leur signaler toute entreprise nouvellement fondée et toute modification de faits inscrits. Ils leur transmettent une liste des inscriptions relevant de leur circonscription.
 
 <sup>4</sup> Si la dernière modification a été saisie il y a plus de dix ans, les offices du registre du commerce vérifient auprès des entités juridiques si les inscriptions sont encore conformes aux faits.
 
 [^157-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^157-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^157-3]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^157-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### Chapitre 2 Faillite, sursis concordataire et concordat par abandon d’actifs
 
@@ -3150,7 +3126,7 @@ En cas de procédure de faillite, le tribunal ou l’autorité informe l’offic
 
 <sup>3</sup> La radiation d’une fondation dissoute par suite de faillite ne peut intervenir qu’une fois que l’autorité de surveillance a confirmé qu’elle n’a plus d’intérêt au maintien de l’inscription.[^158-2]
 
-<sup>4</sup> ...[^158-3]
+<sup>4</sup> …[^158-3]
 
 [^158-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
 [^158-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 23 sept. 2011 sur le registre foncier, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4659](https://fedlex.data.admin.ch/eli/oc/2011/667)).
@@ -3176,7 +3152,7 @@ L’inscription au registre du commerce mentionne:
 
   - 1\. le fait que l’effet suspensif a été accordé au recours, que l’ouverture de la faillite a été annulée ou que la faillite a été révoquée,
   - 2\. la date de la décision,
-  - 3\. pour les sociétés de personnes et les personnes morales, la raison de commerce ou le nom complété par la mention «en liquidation» ou «en liq.»;
+  - 3\.[^159-2] pour les sociétés de personnes et les personnes morales, la raison de commerce ou le nom sans la mention «en liquidation» ou «en liq.»;
 
 - c.
 
@@ -3209,6 +3185,7 @@ L’inscription au registre du commerce mentionne:
   - 2\. la date de la décision de clôture.
 
 [^159-1]: Nouvelle teneur selon le ch. I de l’O du 6 mars 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 971](https://fedlex.data.admin.ch/eli/oc/2020/179)).
+[^159-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 #### Art. 159a
 
@@ -3280,7 +3257,7 @@ L’inscription au registre du commerce mentionne:
 
 [^161-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-## Titre 6**** Réinscription d’une entité juridique radiée
+## Titre 6 Réinscription d’une entité juridique radiée
 
 [^tit6-1]
 
@@ -3300,7 +3277,7 @@ En cas de réinscription d’une entité juridique radiée (art. 935 CO), l’in
 
 Abrogé
 
-## Titre 7 Conservation des pièces, production des pièces et qualité des données****
+## Titre 7 Conservation des pièces, production des pièces et qualité des données
 
 [^tit7-1]
 
@@ -3403,7 +3380,7 @@ Dans le but de mettre en œuvre le nouveau droit relatif à l’organe de révis
 #### Art. 171
 
 - [tab] Toutes les directives, circulaires et communications du Département fédéral de justice et police et de l’OFRC relatives à l’ordonnance du 7 juin 1937 sur le registre du commerce[^171-1] sont abrogées, excepté:
-- [tab] a. et b.[^171-2] ...
+- [tab] a. et b.[^171-2] …
 - c. la directive de l’OFRC du 13 janvier 1998 à l’attention des préposés du registre du commerce concernant l’acquisition d’immeubles par des personnes à l’étranger;
 - d. la communication de l’OFRC du 15 août 2001 à l’attention des préposés du registre du commerce concernant les apports en nature et les reprises de biens;
 - e. la directive de l’OFRC du 12 octobre 2007 à l’attention des autorités du registre du commerce relative à l’inscription des contrôles des finances des pouvoirs publics au registre du commerce .
@@ -3516,13 +3493,21 @@ Dans ce cas, l’organe suprême de la fondation est tenu d’établir l’exist
 [^181a-2]: [RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289)
 [^181a-3]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
+#### Art. 181b
+
+**Disposition transitoire de la modification du 31 août 2022**[^181b-1]
+
+Les art. 90*a*, al. 4, et 92, let. j, ne s’appliquent aux associations constituées avant l’entrée en vigueur de la modification du 31 août 2022 que 18 mois après cette date.
+
+[^181b-1]: Introduit par l’annexe ch. 2 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
 ### Chapitre 5 Entrée en vigueur
 
 #### Art. 182
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 172)
 
@@ -3538,18 +3523,18 @@ II.
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex1-lvlu1-2]
+…[^annex1-lvlu1-2]
 
 [^annex1-lvlu1-1]: [[RO 53 573](https://fedlex.data.admin.ch/eli/oc/53/577_573_593), [1970 733](https://fedlex.data.admin.ch/eli/oc/1970/733_733_733), [1971 1844](https://fedlex.data.admin.ch/eli/oc/1971/1839_1844_1844), [1982 558](https://fedlex.data.admin.ch/eli/oc/1982/558_558_558), [1989 2380](https://fedlex.data.admin.ch/eli/oc/1989/2380_2380_2380), [1992 1213](https://fedlex.data.admin.ch/eli/oc/1992/1213_1213_1213), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch. I 36, [1997 2230](https://fedlex.data.admin.ch/eli/oc/1997/2230_2230_2230), [2004 433](https://fedlex.data.admin.ch/eli/oc/2004/29)annexe ch. 4 [2669](https://fedlex.data.admin.ch/eli/oc/2004/321)[4937](https://fedlex.data.admin.ch/eli/oc/2004/746)annexe ch. II 1, [2005 4557](https://fedlex.data.admin.ch/eli/oc/2005/593), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 22 [5787](https://fedlex.data.admin.ch/eli/oc/2006/859)annexe 3 ch. II 1]
 [^annex1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2007 4851](https://fedlex.data.admin.ch/eli/oc/2007/686).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 116*a*)
 
 ## Liste des abréviations des formes juridiques autorisées
 
-[^t-2]: Introduite par le ch. II de l’O du 18 mai 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)).
+[^t-2]: Introduite par le ch. II de l’O du 18 mai 2016 ([RO 2016 1663](https://fedlex.data.admin.ch/eli/oc/2016/304)). Mise à jour par le ch. II al. 1 de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
 
 ### Deutsch
 
@@ -3569,7 +3554,7 @@ Kommanditaktiengesellschaft KmAG
 
 Société anonyme SA
 
-Société coopérative SCoop
+Société coopérative SCoo
 
 Société à responsabilité limitée Sàrl
 
@@ -3583,7 +3568,7 @@ Société en commandite par actions SCmA
 
 Società anonima SA
 
-Società cooperativa SCoop
+Società cooperativa SCoo
 
 Società a garanzia limitata Sagl
 
@@ -3597,7 +3582,7 @@ Società in accomandita per azioni SAcA
 
 Societad anonima SA
 
-Societad cooperativa SCoop
+Societad cooperativa SCoo
 
 Societad cun responsabladad limitada Scrl
 
@@ -3606,3 +3591,19 @@ Societad collettiva SCl
 Societad commanditara SCm
 
 Societad acziunara en commandita SACm
+
+Annexe 3[^t-3]
+
+(art. 45*a*)
+
+## Monnaies étrangères autorisées pour le capital d’une société anonyme
+
+[^t-3]: Introduite par le ch. II al. 2 de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+
+Livre britannique GBP
+
+Euro EUR
+
+Dollar américain USD
+
+Yen japonais JPY
