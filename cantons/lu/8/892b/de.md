@@ -4,20 +4,20 @@ number: 892b
 title: Kantonale Asylverordnung
 short: KAsylV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-03
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-16
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892b"
-pdf: "https://srl.lu.ch/api/de/versions/3881/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Asylverordnung
 
-vom 24.11.2015 (Stand 01.01.2022)
+vom 24.11.2015 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -106,32 +106,32 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Betrag pro Person und tatsächlichen Anwesenheitstag</th></tr>
-<tr><td>1 Person</td><td>Fr. 11.20</td></tr>
-<tr><td>2 Personen</td><td>Fr. 10.70</td></tr>
-<tr><td>3 Personen</td><td>Fr. 9.45</td></tr>
-<tr><td>4 Personen</td><td>Fr. 8.35</td></tr>
-<tr><td>5 Personen</td><td>Fr. 7.65</td></tr>
-<tr><td>6 Personen</td><td>Fr. 7.25</td></tr>
-<tr><td>7 Personen</td><td>Fr. 6.85</td></tr>
-<tr><td>8 Personen</td><td>Fr. 6.60</td></tr>
-<tr><td>9 Personen</td><td>Fr. 6.40</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 4.90</td></tr>
+<tr><td>1 Person</td><td>Fr. 11.50</td></tr>
+<tr><td>2 Personen</td><td>Fr. 11.00</td></tr>
+<tr><td>3 Personen</td><td>Fr. 9.70</td></tr>
+<tr><td>4 Personen</td><td>Fr. 8.60</td></tr>
+<tr><td>5 Personen</td><td>Fr. 7.85</td></tr>
+<tr><td>6 Personen</td><td>Fr. 7.45</td></tr>
+<tr><td>7 Personen</td><td>Fr. 7.05</td></tr>
+<tr><td>8 Personen</td><td>Fr. 6.80</td></tr>
+<tr><td>9 Personen</td><td>Fr. 6.60</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 5.05</td></tr>
 </table>
 
 <sup>3</sup> Ansätze bei Unterbringung in individuellen Unterkünften:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Betrag pro Person und Tag</th></tr>
-<tr><td>1 Person</td><td>Fr. 13.80</td></tr>
-<tr><td>2 Personen</td><td>Fr. 12.85</td></tr>
-<tr><td>3 Personen</td><td>Fr. 11.70</td></tr>
-<tr><td>4 Personen</td><td>Fr. 10.40</td></tr>
-<tr><td>5 Personen</td><td>Fr. 9.65</td></tr>
-<tr><td>6 Personen</td><td>Fr. 9.15</td></tr>
-<tr><td>7 Personen</td><td>Fr. 8.90</td></tr>
-<tr><td>8 Personen</td><td>Fr. 8.60</td></tr>
-<tr><td>9 Personen</td><td>Fr. 8.40</td></tr>
-<tr><td>für jede weitere Person</td><td>Fr. 6.70</td></tr>
+<tr><td>1 Person</td><td>Fr. 14.15</td></tr>
+<tr><td>2 Personen</td><td>Fr. 13.20</td></tr>
+<tr><td>3 Personen</td><td>Fr. 12.00</td></tr>
+<tr><td>4 Personen</td><td>Fr. 10.70</td></tr>
+<tr><td>5 Personen</td><td>Fr. 9.90</td></tr>
+<tr><td>6 Personen</td><td>Fr. 9.40</td></tr>
+<tr><td>7 Personen</td><td>Fr. 9.15</td></tr>
+<tr><td>8 Personen</td><td>Fr. 8.85</td></tr>
+<tr><td>9 Personen</td><td>Fr. 8.65</td></tr>
+<tr><td>für jede weitere Person</td><td>Fr. 6.90</td></tr>
 </table>
 
 #### § 8
@@ -354,12 +354,12 @@ beschliesst:
 
 **Ersatzabgabe**
 
-<sup>1</sup> Die Ersatzabgabe für Einwohnergemeinden, die ihrer Aufnahmepflicht nicht oder nur teilweise nachkommen, beträgt pro Tag und nicht aufgenommene Person
+<sup>1</sup> Die Ersatzabgabe für Einwohnergemeinden, die ihrer Aufnahmepflicht nicht oder nur teilweise nachkommen, beträgt pro Tag und nicht aufgenommene Person 15 Franken.
 
-- a. für die ersten beiden Monate — Fr. 10.–
-- b. ab dem dritten bis zum vierten Monat — Fr. 20.–
-- c. ab dem fünften bis zum sechsten Monat — Fr. 30.–
-- d. ab dem siebten Monat — Fr. 40.–
+- a. …
+- b. …
+- c. …
+- d. …
 
 <sup>2</sup> Die Einnahmen aus der Ersatzabgabe werden an die Einwohnergemeinden verteilt, in denen mehr Asylsuchende, Schutzbedürftige, vorläufig aufgenommene Personen und Flüchtlinge leben, als nach dem Verteilschlüssel gemäss § 25 Absätze 1 und 2 vorgeschrieben ist, oder die mit dem Gesundheits- und Sozialdepartement eine Vereinbarung gemäss § 26 abgeschlossen haben. Die Verteilung der Einnahmen aus der Ersatzabgabe erfolgt im Verhältnis zu der Anzahl der dort lebenden Asylsuchenden, Schutzbedürftigen, vorläufig aufgenommenen Personen und Flüchtlinge.
 
