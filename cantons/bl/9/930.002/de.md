@@ -3,20 +3,20 @@ canton: BL
 number: "930.002"
 title: Spitalliste für den Kanton Basel-Landschaft
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-13
 adopted: 2021-05-25
 in_force: 2021-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/930.002"
-pdf: "https://bl.clex.ch/api/de/versions/3259/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Spitalliste für den Kanton Basel-Landschaft
 
-Vom 25.05.2021 (Stand 01.01.2022)
+Vom 25.05.2021 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
