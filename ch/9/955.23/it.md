@@ -4,11 +4,11 @@ title: "Ordinanza del 25 agosto 2004 sull'Ufficio di comunicazione in materia di
 short: OURD
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/626"
 language: it
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2004-08-25
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/626/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-626-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/626/20210401/it"
 
 (OURD)
 
-del 25 agosto 2004 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 25 agosto 2004 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -58,24 +58,27 @@ Per adempiere i suoi compiti, l’Ufficio di comunicazione:
   - 4\. dell’Autorità federale di vigilanza sui mercati finanziari (FINMA),
   - 5\. della Commissione federale delle case da gioco (CFCG),
   - 6\. dell’autorità intercantonale di vigilanza e d’esecuzione ai sensi dell’articolo 105 della legge federale del 29 settembre 2017[^1-3] sui giochi in denaro (Autorità intercantonale),
+  - 6<sup>bis</sup>.[^1-4] dell’Ufficio centrale di controllo dei metalli preziosi (Ufficio centrale),
   - 7\. dei commercianti ai sensi dell’articolo 8*a* LRD,
-  - 8\. degli uffici di revisione dei commercianti ai sensi dell’articolo 15 LRD;
+  - 8\.[^1-5] delle imprese di revisione dei commercianti ai sensi dell’articolo 15 LRD;
 
 - b. procede agli accertamenti dei fatti che gli sono stati comunicati;
-- c.[^1-4] decide se e quali informazioni comunicate sono trasmesse alle autorità cantonali e federali di perseguimento penale;
+- c.[^1-6] decide se e quali informazioni comunicate sono trasmesse alle autorità cantonali e federali di perseguimento penale;
 - d. scambia a livello nazionale e internazionale le informazioni relative al riciclaggio di denaro, ai suoi reati preliminari, alla criminalità organizzata e al finanziamento del terrorismo;
-- e.[^1-5] gestisce un proprio sistema d’informazione per la lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo;
-- f.[^1-6] analizza i dati sul riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo e ne allestisce statistiche anonimizzate che gli permettono di effettuare analisi operative e strategich;
-- g.[^1-7] riceve informazioni dalle persone e dalle istituzioni di cui all’articolo 7 della legge federale del 18 dicembre 2015[^1-8] concernente il blocco e la restituzione dei valori patrimoniali di provenienza illecita di persone politicamente esposte all’estero (LVP).
+- e.[^1-7] gestisce un proprio sistema d’informazione per la lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo;
+- f.[^1-8] analizza i dati sul riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo e ne allestisce statistiche anonimizzate che gli permettono di effettuare analisi operative e strategich;
+- g.[^1-9] riceve informazioni dalle persone e dalle istituzioni di cui all’articolo 7 della legge federale del 18 dicembre 2015[^1-10] concernente il blocco e la restituzione dei valori patrimoniali di provenienza illecita di persone politicamente esposte all’estero (LVP).
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^1-3]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^1-4]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^1-6]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^1-7]: Introdotta dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
-[^1-8]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^1-4]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-5]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-6]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-7]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^1-8]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^1-9]: Introdotta dal n. I dell’O del 25 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)).
+[^1-10]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
 ## Capitolo 2: Trattamento di comunicazioni e informazioni
 
@@ -92,27 +95,30 @@ Per adempiere i suoi compiti, l’Ufficio di comunicazione:
 L’Ufficio di comunicazione tratta le comunicazioni e le informazioni:[^2-2]
 
 - a.[^2-3] di intermediari finanziari secondo gli articoli 9 capoverso 1 e 11*a* LRD nonché 305<sup>ter</sup> capoverso 2 del Codice penale[^2-4] (CP);
+- a<sup>bis</sup>.[^2-5] di intermediari finanziari secondo l’articolo 9*b* LRD;
 - b. di organismi di autodisciplina secondo l’articolo 27 capoverso 4 LRD;
-- c.[^2-5]
+- c.[^2-6]
 
   secondo l’articolo 16 capoverso 1 LRD, se sono effettuate:
 
   - 1\. dalla FINMA,
   - 2\. dagli organismi di vigilanza,
   - 3\. dalla CFCG,
-  - 4\. dall’Autorità intercantonale;
+  - 4\. dall’Autorità intercantonale,
+  - 5\. dall’Ufficio centrale;
 
-- d.[^2-6] di commercianti nonché dei loro uffici di revisione secondo gli articoli 9 capoverso 1<sup>bis</sup> e 15 capoverso 5 LRD;
-- e.[^2-7] secondo l’articolo 7 capoversi 1 e 2 LVP[^2-8].
+- d.[^2-7] di commercianti nonché delle loro imprese di revisione secondo gli articoli 9 capoverso 1<sup>bis</sup> e 15 capoverso 5 LRD;
+- e.[^2-8] secondo l’articolo 7 capoversi 1 e 2 LVP[^2-9].
 
 [^2-1]: Nuovo testo giusta l’all. n. 10 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 [^2-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
 [^2-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
 [^2-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^2-5]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-6]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-7]: Introdotta dal n. I dell’O del 25 mag. 2016 ([RU 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^2-8]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^2-5]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^2-6]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^2-7]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^2-8]: Introdotta dal n. I dell’O del 25 mag. 2016 ([RU 2016 1943](https://fedlex.data.admin.ch/eli/oc/2016/334)). Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^2-9]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
 #### Art. 3
 
@@ -120,25 +126,36 @@ L’Ufficio di comunicazione tratta le comunicazioni e le informazioni:[^2-2]
 
 <sup>1</sup>
 
-Le comunicazioni di cui all’articolo 2 lettere a–c indicano:
+Le comunicazioni di cui all’articolo 2 lettere a, b e c contengono:[^3-2]
 
 - a. il nome dell’intermediario finanziario, dell’autorità o dell’organismo da cui proviene la comunicazione, con l’indicazione di un numero di telefono tramite il quale è possibile contattare direttamente la persona competente;
-- b. l’autorità o l’organismo ai sensi dell’articolo 12 LRD o dell’articolo 43*a* della legge federale del 22 giugno 2007[^3-2] sulla vigilanza dei mercati finanziari che vigila sull’intermediario finanziario;
+- b. l’autorità o l’organismo ai sensi dell’articolo 12 LRD o dell’articolo 43*a* della legge federale del 22 giugno 2007[^3-3] sulla vigilanza dei mercati finanziari che vigila sull’intermediario finanziario;
 - c. i dati che consentono di identificare la controparte dell’intermediario finanziario conformemente all’articolo 3 LRD;
 - d. i dati che consentono di identificare l’avente economicamente diritto conformemente all’articolo 4 LRD;
 - e. i dati che consentono di identificare altre persone autorizzate a firmare o a rappresentare la controparte dell’intermediario finanziario;
 - f. i valori patrimoniali interessati al momento della comunicazione, compreso il saldo attuale del conto;
 - g. una descrizione per quanto possibile precisa della relazione d’affari, compresi il suo oggetto e il suo scopo, nonché il numero e la data di apertura della relazione d’affari interessata;
-- h. una descrizione e una documentazione per quanto possibile precise degli elementi di sospetto su cui si basa la comunicazione, compresi gli estratti conto e i documenti giustificativi dettagliati che documentano le transazioni sospette nonché eventuali collegamenti con altre relazioni d’affari ai sensi dell’articolo 9 LRD o dell’articolo 305<sup>ter</sup> capoverso 2 CP[^3-3] nonché il risultato degli accertamenti svolti secondo l’articolo 6 LRD.
+- h. una descrizione e una documentazione per quanto possibile precise degli elementi di sospetto su cui si basa la comunicazione, compresi gli estratti conto e i documenti giustificativi dettagliati che documentano le transazioni sospette nonché eventuali collegamenti con altre relazioni d’affari ai sensi dell’articolo 9 LRD o dell’articolo 305<sup>ter</sup> capoverso 2 CP[^3-4] nonché il risultato degli accertamenti svolti secondo l’articolo 6 LRD.
 
-<sup>2</sup> Le comunicazioni ai sensi dell’articolo 2 lettera d contengono per analogia almeno i dati ai sensi del capoverso 1 lettere a, c–e nonché h.
+<sup>1bis</sup>
 
-<sup>3</sup> Se le persone e le istituzioni che effettuano una comunicazione secondo l’articolo 7 capoversi 1 e 2 LVP[^3-4] non sono intermediari finanziari ai sensi della LRD, la loro comunicazione contiene almeno le informazioni ai sensi del capoverso 1 lettera f, sempre che ne siano a conoscenza.
+Le informazioni di cui all’articolo 2 lettera a<sup>bis</sup> contengono per analogia le informazioni e i documenti di cui al capoverso 1 lettere a e c–g. Inoltre contengono:
+
+- a. il numero di riferimento che l’Ufficio di comunicazione ha assegnato alla comunicazione iniziale e che è servito a comunicare l’interruzione della relazione d’affari;
+- b. i documenti giustificativi attestanti l’interruzione della relazione d’affari e la data dell’interruzione;
+- c. la documentazione concernente il prelievo di importanti valori patrimoniali nel quadro dell’interruzione della relazione d’affari (*paper trail*).[^3-5]
+
+<sup>2</sup> Le comunicazioni di cui all’articolo 2 lettera d contengono per analogia almeno le informazioni e i documenti di cui al capoverso 1 lettere a, c–e nonché h.[^3-6]
+
+<sup>3</sup> Se le persone e le istituzioni che effettuano una comunicazione secondo l’articolo 7 capoversi 1 e 2 LVP[^3-7] non sono intermediari finanziari ai sensi della LRD, la loro comunicazione contiene almeno le informazioni ai sensi del capoverso 1 lettera f, sempre che ne siano a conoscenza.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^3-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^3-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-4]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^3-2]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^3-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^3-5]: Introdotto dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3-6]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^3-7]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
 
 #### Art. 3a
 
@@ -150,25 +167,26 @@ Le comunicazioni di cui all’articolo 2 lettere a–c indicano:
 
 <sup>3</sup> Chi non utilizza il sistema d’informazione compila l’apposito modulo dell’Ufficio di comunicazione e trasmette la comunicazione in modo protetto.
 
-<sup>4</sup> I documenti di cui all’articolo 3 sono trasmessi all’Ufficio di comunicazione.
+<sup>4</sup> Le informazioni e i documenti di cui all’articolo 3 sono trasmessi all’Ufficio di comunicazione.[^3a-2]
 
 [^3a-1]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^3a-2]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 4
 
 **Registrazione**[^4-1]
 
-<sup>1</sup> Le comunicazioni e le altre informazioni trasmesse all’Ufficio di comunicazione sono registrate nel sistema d’informazione. L’Ufficio di comunicazione conferma la ricezione dopo aver ricevuto tutti i dati di cui agli articoli 3 capoverso 1 e 3*a* capoversi 3 e 4. Il termine di cui all’articolo 23 capoverso 5 LRD inizia a decorrere dalla data della conferma di ricezione.[^4-2]
+<sup>1</sup> Le comunicazioni e le altre informazioni trasmesse all’Ufficio di comunicazione sono registrate nel sistema d’informazione. L’Ufficio di comunicazione conferma la ricezione delle comunicazioni dopo aver ricevuto tutte le informazioni e tutti i documenti di cui agli articoli 3 e 3*a*. Il termine di cui all’articolo 9*b* capoverso 1 LRD inizia a decorrere dalla data di ricevimento indicata sulla conferma di ricezione.[^4-2]
 
 <sup>2</sup> Se la comunicazione riguarda più controparti, l’Ufficio di comunicazione può trattare le varie relazioni d’affari separatamente.
 
-<sup>3</sup> Se trasmette informazioni che gli sono state comunicate a un’autorità di perseguimento penale ai sensi dell’articolo 23 capoverso 5 LRD o riceve una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD, l’Ufficio di comunicazione indica fino a quando rimane in vigore il blocco dei beni secondo l’articolo 10 capoverso 2 LRD.[^4-3]
+<sup>3</sup> ...[^4-3]
 
 <sup>4</sup> *...*[^4-4]
 
 [^4-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^4-2]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-3]: Abrogato dall’all. n. 6 dell’O del 31 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-4]: Abrogato dal n. I dell’O del 27 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
 ### Sezione 2: Analisi e accertamenti
@@ -189,22 +207,25 @@ Per adempiere i suoi compiti legali, l’Ufficio di comunicazione può procurars
 
 #### Art. 7
 
-**Collaborazione con le autorità e gli uffici**
+**Collaborazione con le autorità e gli uffici nonché con gli organismi di vigilanza e gli organismi di autodisciplina[^7-1]**
 
 <sup>1</sup>
 
-L’Ufficio di comunicazione può richiedere alle autorità e agli uffici di cui all’articolo 4 capoverso 1 LUC e all’articolo 29 capoversi 1 e 2 LRD tutte le informazioni riguardanti il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo necessarie all’adempimento dei suoi compiti legali. L’Ufficio di comunicazione può verificare, segnatamente, se:[^7-1]
+L’Ufficio di comunicazione può richiedere o ricevere dalle autorità e dagli uffici di cui all’articolo 4 capoverso 1 LUC e all’articolo 29 capoversi 1–2<sup>bis</sup> LRD nonché dagli organismi di vigilanza e dagli organismi di autodisciplina di cui all’articolo 29*b* LRD tutte le informazioni riguardanti il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo necessarie all’adempimento dei suoi compiti legali. L’Ufficio di comunicazione può verificare, segnatamente, se:[^7-2]
 
 - a. la persona o la società interessata è o è stata oggetto di perseguimenti giudiziari o amministrativi;
 - b. la persona o la società è nota alle autorità di polizia;
-- c.[^7-2] la persona oggetto della comunicazione ha un domicilio in Svizzera ed è autorizzata a soggiornarvi e a esercitarvi un’attività lucrativa;
-- d.[^7-3] l’intermediario finanziario che ha trasmesso la comunicazione è sottoposto alla vigilanza della FINMA, della CFCG o dell’Autorità intercantonale.
+- c.[^7-3] la persona oggetto della comunicazione ha un domicilio in Svizzera ed è autorizzata a soggiornarvi e a esercitarvi un’attività lucrativa;
+- d.[^7-4] l’intermediario finanziario che ha trasmesso la comunicazione è sottoposto alla vigilanza della FINMA, della CFCG, dell’Autorità intercantonale o dell’Ufficio centrale;
+- e.[^7-5] l’intermediario finanziario che ha trasmesso la comunicazione è sottoposto alla vigilanza di un organismo di vigilanza o di un organismo di autodisciplina.
 
 <sup>2</sup> Lo scambio di informazioni avviene oralmente, in forma elettronica o cartacea.
 
-[^7-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^7-2]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^7-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^7-1]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^7-2]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^7-3]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^7-4]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^7-5]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### Sezione 3: Trasmissione di informazioni a un’autorità di perseguimento penale
 
@@ -226,11 +247,14 @@ L’Ufficio di comunicazione può richiedere alle autorità e agli uffici di cui
 
 **Informazione dell’intermediario finanziario**
 
-<sup>1</sup> L’Ufficio di comunicazione informa l’intermediario finanziario sui passi intrapresi.[^9-1]
+<sup>1</sup> L’Ufficio di comunicazione informa l’intermediario finanziario in merito a un’eventuale trasmissione alla competente autorità di perseguimento penale secondo l’articolo 23 capoverso 5 LRD.[^9-1]
 
 <sup>2</sup> Se l’affare è stato trasmesso a un’autorità di perseguimento penale, non può essere fornita alcuna informazione all’intermediario finanziario senza una previa autorizzazione da parte dell’autorità in questione.
 
-[^9-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+<sup>3</sup> Se trasmette informazioni a un’autorità di perseguimento penale conformemente all’articolo 23 capoverso 4 LRD o se riceve una comunicazione in virtù dell’articolo 9 capoverso 1 lettera c LRD, l’Ufficio di comunicazione informa l’intermediario finanziario del termine fino al quale si protrae il blocco dei beni secondo l’articolo 10 capoverso 2 LRD.[^9-2]
+
+[^9-1]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^9-2]: Introdotto dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 10
 
@@ -245,14 +269,15 @@ L’Ufficio di comunicazione può informare:
 - c.[^10-2] la FINMA: sui passi che ha intrapreso in seguito a comunicazioni di cui all’articolo 2 lettera c numero 1;
 - c<sup>bis</sup>.[^10-3] gli organismi di vigilanza: sui passi che ha intrapreso in seguito a comunicazioni di cui all’articolo 2 lettera c numero 2;
 - d.[^10-4] la CFCG: sui passi che ha intrapreso in seguito a comunicazioni di cui all’articolo 2 lettera c numero 3;
-- e.[^10-5] l’Autorità intercantonale: sui passi che ha intrapreso in seguito a comunicazioni di cui all’articolo 2 lettera c numero 4.[^10-6]
+- e.[^10-5] l’Autorità intercantonale: sui passi che ha intrapreso in seguito a comunicazioni di cui all’articolo 2 lettera c numero 4;
+- f.[^10-6] l’Ufficio centrale: sui passi che ha intrapreso in seguito a comunicazioni di cui all’articolo 2 lettera c numero 5.[^10-7]
 
 <sup>2</sup>
 
-Se constata che un intermediario finanziario non ha osservato i suoi obblighi di diligenza o i suoi obblighi in caso di sospetto di riciclaggio di denaro, l’Ufficio di comunicazione può, conformemente all’articolo 29 capoverso 1 LRD, trasmettere spontaneamente all’autorità di vigilanza competente le seguenti informazioni:
+Se constata che un intermediario finanziario non ha osservato i suoi obblighi di diligenza, i suoi obblighi in caso di sospetto di riciclaggio di denaro o i suoi impegni relativi alla consegna di informazioni secondo l’articolo 11*a* LRD, l’Ufficio di comunicazione può, conformemente all’articolo 29 capoverso 1 o 29*b* LRD, trasmettere spontaneamente all’autorità di vigilanza, all’organismo di vigilanza o all’organismo di autodisciplina competenti le seguenti informazioni:[^10-8]
 
-- a. il nome dell’intermediario finanziario che ha effettuato la comunicazione;
-- b. la data della comunicazione;
+- a.[^10-9] il nome dell’intermediario finanziario interessato;
+- b.[^10-10] ...
 - c. l’importo dei valori patrimoniali interessati;
 - d. la natura e il genere della violazione degli obblighi;
 - e. l’autorità di perseguimento penale adita.
@@ -264,7 +289,11 @@ Se constata che un intermediario finanziario non ha osservato i suoi obblighi di
 [^10-3]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^10-4]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^10-5]: Introdotta dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^10-6]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^10-6]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^10-7]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^10-8]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^10-9]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^10-10]: Abrogata dall’all. n. 6 dell’O del 31 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 11
 
@@ -322,15 +351,21 @@ L’Ufficio di comunicazione utilizza il sistema d’informazione per:[^14-1]
 
 - a. adempiere i suoi compiti legali d’informazione e di accertamento;
 - b.[^14-2] procedere ad accertamenti in casi di riciclaggio di denaro, di suoi reati preliminari, di criminalità organizzata e di finanziamento del terrorismo;
-- c. collaborare con le autorità federali e cantonali di perseguimento penale;
-- d. collaborare con le autorità straniere analoghe e le autorità di perseguimento penale straniere;
-- e.[^14-3] collaborare con la FINMA, la CFCG e l’Autorità intercantonale;
-- f.[^14-4] elaborare analisi strategiche sulla base di statistiche anonimizzate.
+- c.[^14-3] collaborare con le autorità penali federali e cantonali;
+- d.[^14-4] collaborare con le autorità straniere di cui all’articolo 13;
+- e.[^14-5] collaborare con la FINMA, la CFCG, l’Autorità intercantonale, l’Ufficio centrale nonché gli organismi di vigilanza e gli organismi di autodisciplina;
+- e.[^14-6] collaborare con la FINMA, la CFCG e l’Autorità intercantonale;
+- e<sup>bis</sup>.[^14-7] collaborare con le altre autorità di cui all’articolo 29 capoverso 2 LRD;
+- f.[^14-8] elaborare analisi strategiche sulla base di statistiche anonimizzate.
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^14-2]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^14-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^14-4]: Introdotta dall’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^14-3]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^14-4]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^14-5]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^14-6]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^14-7]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^14-8]: Introdotta dall’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
 #### Art. 15
 
@@ -339,20 +374,24 @@ L’Ufficio di comunicazione utilizza il sistema d’informazione per:[^14-1]
 I dati memorizzati nel sistema d’informazione[^15-1] provengono da:
 
 - a.[^15-2] comunicazioni e informazioni secondo l’articolo 2;
+- a<sup>bis</sup>.[^15-3] informazioni secondo l’articolo 7;
 - b. domande di assistenza amministrativa e giudiziaria secondo gli articoli 12 e 13;
-- c.[^15-3] comunicazioni delle autorità di polizia concernenti le indagini effettuate prima dell’apertura di un’istruzione;
-- d.[^15-4] comunicazioni delle autorità federali e cantonali di perseguimento penale secondo l’articolo 29*a* LRD;
+- c.[^15-4] comunicazioni delle autorità di polizia concernenti le indagini effettuate prima dell’apertura di un’istruzione;
+- d.[^15-5] comunicazioni delle autorità penali federali e cantonali secondo l’articolo 29*a* LRD;
+- d<sup>bis</sup>.[^15-6] informazioni secondo l’articolo 29*b* LRD;
 - e. comunicazioni secondo gli articoli 4 e 8 capoverso 1 LUC, a condizione che servano all’adempimento dei compiti legali dell’Ufficio di comunicazione;
-- f .[^15-5] elenchi di persone e società, allegati a risoluzioni del Consiglio di sicurezza dell’ONU in relazione a sospetti di riciclaggio di denaro, di suoi reati preliminari, di appartenenza alla criminalità organizzata o di finanziamento del terrorismo;
-- g.[^15-6] elenchi di persone e società sospettate dalle autorità svizzere di riciclaggio di denaro, di suoi reati preliminari, di appartenere alla criminalità organizzata o di finanziamento del terrorismo;
+- f .[^15-7] elenchi di persone e società, allegati a risoluzioni del Consiglio di sicurezza dell’ONU in relazione a sospetti di riciclaggio di denaro, di suoi reati preliminari, di appartenenza alla criminalità organizzata o di finanziamento del terrorismo;
+- g.[^15-8] elenchi di persone e società sospettate dalle autorità svizzere di riciclaggio di denaro, di suoi reati preliminari, di appartenere alla criminalità organizzata o di finanziamento del terrorismo;
 - h. accertamenti effettuati dall’Ufficio di comunicazione stesso.
 
 [^15-1]: Nuova espr. giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^15-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^15-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
+[^15-3]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^15-4]: Nuovo testo giusta il n. I dell’O del 16 ott. 2013, in vigore dal 1° nov. 2013 ([RU 2013 3497](https://fedlex.data.admin.ch/eli/oc/2013/649)).
-[^15-5]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
-[^15-6]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^15-5]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^15-6]: Introdotta dall’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^15-7]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+[^15-8]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
 #### Art. 16
 
@@ -363,15 +402,17 @@ I dati memorizzati nel sistema d’informazione[^15-1] provengono da:
 Ai fini della lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo, i dati trattati nel sistema d’informazione concernono:[^16-2]
 
 - a.[^16-3] le transazioni finanziarie effettuate durante il periodo cui si riferisce il sospetto;
-- b. le persone e le società, nei riguardi delle quali esiste il sospetto che riciclino o tentino di riciclare denaro, che appartengano a un’organizzazione criminale ai sensi dell’articolo 260<sup>ter</sup> CP o che favoriscano il finanziamento del terrorismo ai sensi dell’articolo 260<sup>quinquies</sup> CP;
-- c. le persone e le società, nei riguardi delle quali esiste il sospetto che preparino, commettano o favoriscano reati per i quali si presume siano atti preparatori del riciclaggio di denaro, o per i quali si presume il concorso di un’organizzazione ai sensi della lettera b.
+- b.[^16-4] le persone e le società, nei riguardi delle quali esiste il sospetto che abbiano adempiuto una delle fattispecie penali di cui all’articolo 23 capoverso 4 LRD o che preparino o favoriscano un simile reato;
+- c.[^16-5] ...
 
-<sup>2</sup> I terzi che non soddisfano le condizioni di cui al capoverso 1 possono essere registrati nel sistema d’informazione[^16-4] sempre che ciò serva agli scopi di cui all’articolo 14.
+<sup>2</sup> I terzi che non soddisfano le condizioni di cui al capoverso 1 possono essere registrati nel sistema d’informazione[^16-6] sempre che ciò serva agli scopi di cui all’articolo 14.
 
 [^16-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 [^16-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 [^16-3]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
-[^16-4]: Nuova espressione testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Di detta mod. è tenuto conto in tutto il testo.
+[^16-4]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^16-5]: Abrogata dall’all. n. 6 dell’O del 31 ago. 2022, con effetto dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^16-6]: Nuova espressione testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)). Di detta mod. è tenuto conto in tutto il testo.
 
 #### Art. 17
 
@@ -391,7 +432,7 @@ Il sistema d’informazione serve per:
 
   registrare, trattare e analizzare:
 
-  - 1\. comunicazioni,
+  - 1\.[^18-2] comunicazioni e informazioni,
   - 2\. informazioni provenienti da uffici di comunicazione esteri,
   - 3\. lo scambio di informazioni tra autorità,
   - 4\. transazioni,
@@ -407,6 +448,7 @@ Il sistema d’informazione serve per:
 <sup>2</sup> I dati che possono essere trattati nel sistema d’informazione sono elencati nell’allegato 1.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^18-2]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 19
 
@@ -430,12 +472,23 @@ La sicurezza dei dati è retta:
 
 **Accesso al sistema d’informazione**[^20-1]
 
-Hanno accesso al sistema d’informazione mediante una procedura di richiamo online:
+<sup>1</sup>
 
-- a. i collaboratori dell’Ufficio di comunicazione;
+Hanno accesso al sistema d’informazione mediante una procedura di richiamo:
+
+- a. i collaboratori dell’Ufficio di comunicazione, per trattare direttamente i dati nel sistema d’informazione;
 - b. le persone addette alla gestione del sistema, per le modifiche e gli adeguamenti del sistema.
 
-[^20-1]: Nuovo testo giusta l’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, in vigore dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
+<sup>2</sup>
+
+Le autorità di cui all’articolo 35 capoverso 2 LRD hanno accesso mediante una procedura di richiamo alle generalità delle persone fisiche e giuridiche registrate nel sistema, qualora ne abbiano bisogno per uno degli scopi seguenti:
+
+- a. per la lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo;
+- b. per l’applicazione della LRD.
+
+<sup>3</sup> Se la procedura di confronto dà esito positivo, le autorità di cui all’articolo 35 capoverso 2 LRD possono chiedere all’Ufficio di comunicazione di trasmettere ulteriori dati.
+
+[^20-1]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 21 e 22
 
@@ -443,7 +496,7 @@ Hanno accesso al sistema d’informazione mediante una procedura di richiamo onl
 
 [^2122-1]: Abrogati dall’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, con effetto dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
 
-## Capitolo 5:**** Dati statistici, rapporto annuale e analisi
+## Capitolo 5: Dati statistici, rapporto annuale e analisi
 
 [^chap5-1]
 
@@ -456,7 +509,7 @@ Hanno accesso al sistema d’informazione mediante una procedura di richiamo onl
 Per valutare le informazioni relative al riciclaggio di denaro, ai suoi reati preliminari, alla criminalità organizzata e al finanziamento del terrorismo, l’Ufficio di comunicazione allestisce una statistica anonimizzata riguardante:
 
 - a. le comunicazioni ai sensi dell’articolo 2;
-- b. le domande di informazioni provenienti da autorità straniere analoghe;
+- b.[^23-1] le domande di informazioni provenienti dalle autorità straniere di cui all’articolo 13;
 - c. le procedure successive alle comunicazioni.
 
 <sup>2</sup>
@@ -465,11 +518,12 @@ La statistica contiene:
 
 - a. per le comunicazioni ai sensi del capoverso 1 lettera a: dati sul numero, il contenuto, il tipo, la provenienza, i casi sospetti, la frequenza, il genere dei reati e sulle modalità di trattamento di tali comunicazioni da parte dell’Ufficio di comunicazione;
 - b. per le domande di informazioni ai sensi del capoverso 1 lettera b: dati sul numero e la data di ricevimento delle domande, il Paese di provenienza e il numero di persone che sono oggetto della domanda;
-- c.[^23-1] per le procedure ai sensi del capoverso 1 lettera c: dati sul numero delle denunce trasmesse all’autorità di perseguimento penale e sull’esito della procedura.
+- c.[^23-2] per le procedure ai sensi del capoverso 1 lettera c: dati sul numero delle denunce trasmesse all’autorità di perseguimento penale e sull’esito della procedura.
 
 <sup>3</sup> L’Ufficio di comunicazione pubblica un rapporto annuale e rapporti d’analisi in merito alla lotta contro il riciclaggio di denaro, i suoi reati preliminari, la criminalità organizzata e il finanziamento del terrorismo.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^23-1]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
 ## Capitolo 6: Protezione e archiviazione dei dati
 
@@ -487,7 +541,9 @@ I dati personali sono trasmessi, su richiesta, alle autorità federali e cantona
 
 <sup>1</sup> All’atto di ogni comunicazione di dati, i destinatari devono essere informati sull’affidabilità e sull’attualità dei dati del sistema d’informazione. Essi possono utilizzare i dati soltanto allo scopo per il quale sono stati loro trasmessi. Devono essere messi a conoscenza delle restrizioni d’uso e del fatto che l’Ufficio di comunicazione si riserva il diritto di informarsi sull’impiego di tali dati.
 
-<sup>2</sup> Se i dati sono trasmessi ad autorità nazionali o straniere, l’Ufficio di comunicazione indica, mediante una formulazione sempre identica, che i dati trasmessi hanno carattere meramente informativo e che la loro utilizzazione e trasmissione ad altre autorità sono subordinate al suo consenso scritto.
+<sup>2</sup> Se sono trasmesse ad autorità nazionali o straniere, a organismi di vigilanza o a organismi di autodisciplina, le informazioni possono essere utilizzate soltanto in conformità alle restrizioni imposte dall’Ufficio di comunicazione e dal detentore dei dati. L’Ufficio di comunicazione indica ogni volta che i dati trasmessi hanno carattere meramente informativo e che la loro trasmissione ad altre autorità è subordinata al suo consenso scritto.[^25-1]
+
+[^25-1]: Nuovo testo giusta l’all. n. 6 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 26
 
@@ -532,7 +588,7 @@ La consegna di dati e documenti dell’Ufficio di comunicazione all’Archivio f
 
 L’ordinanza del 16 marzo 1998[^30-1] sull’Ufficio di comunicazione in materia di riciclaggio di denaro è abrogata.
 
-[^30-1]: [[RU 1998 905](https://fedlex.data.admin.ch/eli/oc/1998/905_905_905),[2000 1369](https://fedlex.data.admin.ch/eli/oc/2000/215)art. 30 n. 2,[2002 96](https://fedlex.data.admin.ch/eli/oc/2002/19)art. 30 [111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 n. 2 [4362](https://fedlex.data.admin.ch/eli/oc/2002/711), [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 6]
+[^30-1]: [[RU 1998 905](https://fedlex.data.admin.ch/eli/oc/1998/905_905_905);[2000 1369](https://fedlex.data.admin.ch/eli/oc/2000/215)art. 30 n. 2;[2002 96](https://fedlex.data.admin.ch/eli/oc/2002/19)art. 30, [111](https://fedlex.data.admin.ch/eli/oc/2002/20)art. 19 n. 2, [4362](https://fedlex.data.admin.ch/eli/oc/2002/711); [2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 6]
 
 #### Art. 30a
 
@@ -550,7 +606,7 @@ La presente ordinanza entra in vigore il 1° ottobre 2004.
 
 [^31-1]: Nuovo testo giusta il n. I 20 dell’O del 15 ott. 2008 sugli adeguamenti alla LF sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 18 cpv. 2)
 
@@ -773,6 +829,6 @@ Allegato 1*[^t-1]*
   - k. Numero di identificazione
   - l. Informazioni secondo l’art. 19 ORD
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Abrogato dall’all. 2 n. II 3 dell’O dell’11 nov. 2015 sul riciclaggio di denaro, con effetto dal 1° gen. 2016 ([RU 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)).
