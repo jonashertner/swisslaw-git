@@ -4,13 +4,13 @@ number: "172.111"
 title: "Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen"
 short: StKB Dep
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-28
+version: 2023-01-01
+valid_until: 2023-07-31
+version_adopted: 2022-12-06
 adopted: 2001-04-03
 in_force: 2001-04-03
 url: "https://ai.clex.ch/app/de/texts_of_law/172.111"
-pdf: "https://ai.clex.ch/api/de/versions/2098/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2179/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2098/pdf_file"
 
 (StKB Dep)
 
-vom 03.04.2001 (Stand 01.01.2022)
+vom 03.04.2001 (Stand 01.01.2023)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -188,8 +188,8 @@ beschliesst:
 - a) Departementssekretariat
 - b) Strassenverkehrsamt
 - c) Kantonspolizei
-- d) Verwaltungspolizei
-- e) Amt für Ausländerfragen
+- d) Amt für Inneres
+- e)
 - f) Amt für Militär und Bevölkerungsschutz
 - g) Zivilstandsamt
 - h) ...
