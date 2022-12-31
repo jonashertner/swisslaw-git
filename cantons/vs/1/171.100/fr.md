@@ -4,35 +4,34 @@ number: "171.100"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2017-03-01
-corrected: 2017-09-01
-version_adopted: 2015-09-11
+version: 2023-01-01
+valid_until: 2025-09-11
+version_adopted: 2022-03-11
 adopted: 2001-09-13
 in_force: 2002-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/171.100"
-pdf: "https://lex.vs.ch/api/fr/versions/675/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3130/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement du Grand Conseil (RGC)
+# Règlement du Grand Conseil
 
-du 13 septembre 2001
+(RGC)
+
+du 13.09.2001 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
-vu les initiatives parlementaires qui ont vu l'aboutissement de la modification constitutionnelle le 24 septembre 2000 et de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs le 28 juin 2001 (LOCRP);
-
-le Conseil d'Etat entendu;
+vu l'article 2 alinéa 1 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
 sur la proposition de sa commission,
 
-décide:
+ordonne:
 
-### Dispositions générales
+## 1 Dispositions générales
 
-#### Article premier
+#### Art. 1
 
 **Champ d'application**
 
@@ -48,67 +47,55 @@ décide:
 
 <sup>2</sup> Les projets de modification du présent règlement concernant le Conseil d'Etat sont soumis à son appréciation.
 
-### Chapitre 1: Membres du Grand Conseil
+## 2 Membres du Grand Conseil
 
-### Section 1: Droits des députés
+### 2.1 Droits des députés
 
-- a) Droits
-
-[^hSection1Droitsde-1]: Modification du 11.02.2009 BO No 13/2009 1.01.2011
+### 2.1.1 Droits
 
 #### Art. 3
 
-[^hSection1Droitsde-1]
-
-Abrogé.
-
-[^3-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+**…**
 
 #### Art. 4
 
-[^3-1]
-
-Abrogé.
+**…**
 
 #### Art. 5
 
-**Documentation de base**
-
-La documentation de base renferme au moins un exemplaire de la Constitution cantonale, de la loi du 28 mars 1996 sur l'organisation des Conseils et les rapports entre les pouvoirs, du règlement du Grand Conseil, de la loi sur les élections et les votations et de la loi sur la gestion et le contrôle administratifs et financiers du canton.
+**…**
 
 #### Art. 6
 
-<sup>7</sup> Renseignements
+**Renseignements**
 
-Les députés peuvent obtenir du Conseil d'Etat des renseignements oraux ou écrits sur des simples questions de fait ou de droit dans la mesure où ceux-ci se révèlent nécessaires à l'exercice de leur mandat parlementaire.
+<sup>1</sup> Les députés peuvent obtenir du Conseil d'Etat des renseignements oraux ou écrits sur des simples questions de fait ou de droit dans la mesure où ceux-ci se révèlent nécessaires à l'exercice de leur mandat parlementaire.
 
-- b) Indemnités
+### 2.1.2 Indemnités
 
 #### Art. 7
 
-<sup>1</sup> Indemnités
+**Indemnités**
 
-<sup>1</sup> Les députés au Grand Conseil reçoivent les indemnités suivantes, dont les montants sont fixés dans l’annexe 1 au présent règlement:[^7-1] a) une indemnité de présence;
+<sup>1</sup> Les députés au Grand Conseil reçoivent les indemnités suivantes, dont les montants sont fixés dans l’annexe 1 au présent règlement:
 
+- a) une indemnité de présence;
 - b) une indemnité de déplacement;
-
 - c) une indemnité supplémentaire pour des fonctions, des tâches particulières ou pour d'autres frais.
 
 <sup>2</sup> Lors de l'année précédant le renouvellement des autorités cantonales, le Grand Conseil fixe avant le vote du budget de l'année suivante, pour la durée de la législature suivante, les indemnités dues aux députés et aux groupes politiques. Il se prononce sur la base d'une proposition du bureau, qui en informe le Conseil d'Etat.
-
-[^7-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
 
 #### Art. 8
 
 **Frais de commissions**
 
-Les notes de frais relatives aux séances de commissions sont visées par son président et prises en charge par le budget du Grand Conseil.
+<sup>1</sup> Les notes de frais relatives aux séances de commissions sont visées par son président et prises en charge par le budget du Grand Conseil.
 
 #### Art. 9
 
 **Litiges**
 
-Les litiges relatifs aux indemnités sont tranchés définitivement par le bureau.
+<sup>1</sup> Les litiges relatifs aux indemnités sont tranchés définitivement par le bureau.
 
 #### Art. 10
 
@@ -120,11 +107,11 @@ Les litiges relatifs aux indemnités sont tranchés définitivement par le burea
 
 <sup>3</sup> La comptabilité est tenue conformément aux dispositions de la loi sur la gestion et le contrôle administratifs et financiers du canton.
 
-### Section 2: Obligations des députés
+### 2.2 Obligations des députés
 
 #### Art. 11
 
-<sup>1,7</sup> Présence et disponibilité
+**Présence et disponibilité**
 
 <sup>1</sup> Le contrôle des présences se fait par voie électronique au moyen d'une carte à puce. Cette dernière fait également office de carte de vote. Une heure après l'ouverture de la séance, la liste des présences est imprimée et affichée. Les députés n'y figurant pas peuvent demander la rectification de ladite liste.
 
@@ -134,9 +121,9 @@ Les litiges relatifs aux indemnités sont tranchés définitivement par le burea
 
 <sup>4</sup> Les députés ont l'obligation d'annoncer à la présidence les absences d'une durée supérieure à trois mois.
 
-#### Art. 11bis
+#### Art. 11a
 
-<sup>7</sup> Quorum
+**Quorum**
 
 <sup>1</sup> Le Grand Conseil ne peut délibérer que si la majorité absolue de ses membres sont présents (art. 47 al. 1 Cst. cant.).
 
@@ -148,18 +135,16 @@ Les litiges relatifs aux indemnités sont tranchés définitivement par le burea
 
 **Tenue**
 
-Les députés assistent aux séances dans une tenue correcte.
+<sup>1</sup> Les députés assistent aux séances dans une tenue correcte.
 
 #### Art. 13
 
-<sup>7</sup> Registre des liens d'intérêt
+**Registre des liens d'intérêt**
 
 <sup>1</sup> Le registre des liens d'intérêt du député comprend:
 
 - a) son activité professionnelle et son employeur;
-
 - b) son appartenance aux organes de direction ou de surveillance de corporations, entreprises, établissements ou fondations de droit privé ou de droit public;
-
 - c) les fonctions qu'il occupe au sein de commissions ou d'autres organes de la Confédération, du canton et des communes.
 
 <sup>2</sup> Les modifications éventuelles sont annoncées dès qu'elles se produisent.
@@ -170,25 +155,19 @@ Les députés assistent aux séances dans une tenue correcte.
 
 #### Art. 14
 
-<sup>1,7</sup>
+**…**
 
-Abrogé.
-
-### Section 3: Statut des suppléants
-
-[^hSection3Statutde-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
+### 2.3
 
 #### Art. 15
 
-[^hSection3Statutde-1]
+**…**
 
-Abrogé.
+## 3 Organisation du Grand Conseil
 
-### Chapitre 2: Organisation du Grand Conseil
+### 3.1 Organes de direction
 
-### Section 1: Organes de direction
-
-- a) Présidence
+### 3.1.1 Présidence
 
 #### Art. 16
 
@@ -207,62 +186,54 @@ Abrogé.
 <sup>1</sup> Le président a les attributions suivantes:
 
 - a) il dirige les débats, ouvre et clôt les séances, vérifie que le quorum est atteint;
-
 - b) il accorde, refuse, retire la parole, sous réserve d'appel à l'assemblée;
-
 - c) il proclame les résultats des scrutins et des délibérations;
-
 - d) il fait régner l'ordre et la discipline dans l'assemblée et dans la partie de la salle réservée au public et à la presse;
-
 - e) il convoque et dirige la présidence et le bureau;
-
 - f) il signe avec le chef du service parlementaire tous les actes qui émanent du Grand Conseil;
-
 - g) il reçoit les correspondances et pétitions adressées au Grand Conseil et les transmet pour traitement;
-
 - h) il représente le Grand Conseil;
-
 - i) il signe tous les engagements des organes de direction du Grand Conseil.
 
-<sup>2</sup> En cas de nécessité, le président peut déléguer la préparation d'une affaire à un autre organe du Grand Conseil.[^17-1]
+<sup>2</sup> En cas de nécessité, le président peut déléguer la préparation d'une affaire à un autre organe du Grand Conseil.
 
-<sup>3</sup> La présidence a les attributions suivantes:[^17-1] a) elle veille à l'observation de la loi et du règlement;
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+- g) …
+- h) …
 
+<sup>3</sup> La présidence a les attributions suivantes:
+
+- a) elle veille à l'observation de la loi et du règlement;
 - b) elle est responsable des affaires administratives;
-
 - c) elle dirige le service parlementaire;
-
 - d) elle établit le budget du Grand Conseil;
-
 - e) elle procède aux nominations sous réserve des compétences octroyées au bureau et au Grand Conseil;
-
 - f) elle exerce toutes les compétences qui lui sont attribuées par la loi et le règlement;
-
 - g) en cas de nécessité, elle peut déléguer la préparation d'une affaire à un autre organe du Grand Conseil ou à une commission;
-
 - h) elle peut déléguer ses compétences, conformément au règlement en la matière, au service parlementaire.
 
-- b) Bureau
-
-[^17-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+### 3.1.2 Bureau
 
 #### Art. 18
 
 **Composition**
 
-<sup>1</sup> Le président, les deux vice-présidents et les présidents des groupes politiques forment le bureau.
+<sup>1</sup> Le président, les deux vice-présidents et les présidents des groupes politiques forment le bureau. Les groupes politiques composés de plus de 20 députés ont le droit de désigner un deuxième représentant au bureau.
 
 <sup>2</sup> En cas d'empêchement, les présidents des groupes politiques sont en principe remplacés par leur vice-président.
 
 <sup>3</sup> Le président invite le président du Conseil d'Etat ainsi que le chancelier d'Etat à assister aux séances pour l'organisation des sessions et pour les affaires qui touchent aux deux pouvoirs avec voix consultative.
 
-<sup>4</sup> Au besoin, le président du Tribunal cantonal, le procureur général et les présidents de commission peuvent être invités à participer aux séances avec voix consultative.[^18-1]
+<sup>4</sup> Au besoin, le président du Tribunal cantonal, le procureur général et les présidents de commission peuvent être invités à participer aux séances avec voix consultative.
 
 <sup>5</sup> Le procès-verbal de la séance est adressé à la présidence du Conseil d'Etat.
 
-<sup>6</sup> Le procès-verbal peut également être consulté par chaque député au service parlementaire.
-
-[^18-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>6</sup> Le procès-verbal peut également être consulté par chaque député au Service parlementaire. En outre, un procès-verbal décisionnel est publié sur le site internet du Parlement.
 
 #### Art. 19
 
@@ -276,33 +247,28 @@ Abrogé.
 
 #### Art. 20
 
-<sup>1,7</sup> Compétences
+**Compétences**
 
-Le bureau a notamment les compétences suivantes:
+<sup>1</sup> Le bureau a notamment les compétences suivantes:
 
 - a) il arrête la liste des objets à traiter et le programme des délibérations, fixe la date et la durée des séances, le Conseil d'Etat entendu;
-
 - b) il nomme, sous réserve des compétences expressément réservées au Grand Conseil, les commissions, leurs présidents et vice-présidents et leur confie les tâches à traiter;
-
 - c) il propose la nomination du chef du service parlementaire;
-
 - d) il coordonne les rapports entre le Grand Conseil, le Conseil d'Etat, le Tribunal cantonal et le ministère public;
-
 - e) il prépare les élections et nominations sous réserve de l'article 43 alinéa 1;
-
 - f) il traite toute autre question que lui confie le Grand Conseil ou qui ne relève pas expressément de la compétence d'un autre organe.
 
-### Section 2: Commissions
+### 3.2 Commissions
 
-- 1\. Commissions en général
+### 3.2.1 Commissions en général
 
-- a) Composition
+### 3.2.1.1 Composition
 
 #### Art. 21
 
 **Nombre de membres**
 
-Le bureau peut demander au Grand Conseil d'augmenter le nombre des membres d'une commission chargée d'examiner une affaire ayant une portée politique considérable.
+<sup>1</sup> Le bureau peut demander au Grand Conseil d'augmenter le nombre des membres d'une commission chargée d'examiner une affaire ayant une portée politique considérable.
 
 #### Art. 22
 
@@ -330,33 +296,27 @@ Le bureau peut demander au Grand Conseil d'augmenter le nombre des membres d'une
 
 <sup>3</sup> Le membre remplacé informe le président de la commission. Il remet le dossier à son remplaçant.
 
-<sup>4</sup> Tout député ayant participé, même à une seule reprise, aux travaux de la première commission, ne peut participer à une autre commission chargée d'examiner le même objet.[^24-1]
-
-[^24-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>4</sup> Tout député ayant participé, même à une seule reprise, aux travaux de la première commission, ne peut participer à une autre commission chargée d'examiner le même objet.
 
 #### Art. 25
 
-<sup>1</sup> Incompatibilités
+**Incompatibilités**
 
-<sup>1</sup> Les membres des commissions thématiques et des commissions de haute surveillance ne peuvent siéger dans les commissions traitant de la même affaire. Il en va de même des députés qui ont été intégrés au processus qui a conduit à l'élaboration d'un acte législatif.[^25-1]
+<sup>1</sup> Les membres des commissions thématiques et des commissions de haute surveillance ne peuvent siéger dans les commissions traitant de la même affaire. Il en va de même des députés qui ont été intégrés au processus qui a conduit à l'élaboration d'un acte législatif.
 
 <sup>2</sup> Un député ne peut faire partie de deux commissions de haute surveillance.
 
 <sup>3</sup> Les membres des commissions de haute surveillance ne siègent pas dans les commissions thématiques.
 
-- b) Organisation
-
-[^25-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+### 3.2.1.2 Organisation
 
 #### Art. 26
 
 **Présidence**
 
-<sup>1</sup> Le président est responsable du traitement diligent et complet des affaires confiées à l'examen de la commission.[^26-1]
+<sup>1</sup> Le président est responsable du traitement diligent et complet des affaires confiées à l'examen de la commission.
 
 <sup>2</sup> En cas d'absence du président et du vice-président, la commission désigne un président de séance.
-
-[^26-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
 
 #### Art. 27
 
@@ -368,11 +328,11 @@ Le bureau peut demander au Grand Conseil d'augmenter le nombre des membres d'une
 
 #### Art. 28
 
-<sup>1</sup> Rapporteur
+**Rapporteur**
 
 <sup>1</sup> La commission désigne elle-même son rapporteur.
 
-<sup>2</sup> La commission peut décider que le président remplit également la fonction de rapporteur.
+<sup>2</sup> …
 
 <sup>3</sup> Les commissions de haute surveillance peuvent nommer deux rapporteurs de langue maternelle différente.
 
@@ -380,11 +340,9 @@ Le bureau peut demander au Grand Conseil d'augmenter le nombre des membres d'une
 
 **Convocation**
 
-<sup>1</sup> Les membres des commissions sont, en règle générale, convoqués 20 jours avant la séance, sur ordre de leur président, par le service parlementaire.[^29-1]
+<sup>1</sup> Les membres des commissions sont, en règle générale, convoqués 20 jours avant la séance, sur ordre de leur président, par le service parlementaire.
 
 <sup>2</sup> Un tiers des membres de la commission, mais au minimum trois membres, peuvent demander au président la convocation d'une séance.
-
-[^29-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
 
 #### Art. 30
 
@@ -394,19 +352,19 @@ Le bureau peut demander au Grand Conseil d'augmenter le nombre des membres d'une
 
 <sup>2</sup> Pour le surplus, les commissions de haute surveillance peuvent adopter leur propre règlement qu'elles soumettent à l'approbation du bureau.
 
-<sup>3</sup> Les commissions ne fixent pas de séances ordinaires durant les sessions. Elles peuvent toutefois se réunir pour examiner les amendements déposés si l'objet doit être traité au cours de cette même session.[^30-1]
+<sup>3</sup> Les commissions ne fixent pas de séances ordinaires durant les sessions. Elles peuvent toutefois se réunir pour examiner les amendements déposés si l'objet doit être traité au cours de cette même session.
 
-[^30-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>4</sup> En cas de force majeure, une séance en non présentiel peut être organisée.
 
 #### Art. 31
 
 **Propositions des députés**
 
-Chaque député est autorisé à adresser des suggestions et propositions à la commission. Celle-ci a l'obligation de les examiner et peut, le cas échéant, inviter l'interpellant à participer à une séance.
+<sup>1</sup> Chaque député est autorisé à adresser des suggestions et propositions à la commission. Celle-ci a l'obligation de les examiner et peut, le cas échéant, inviter l'interpellant à participer à une séance.
 
 #### Art. 32
 
-**Procédure de vote, quorum**
+**Procédure de vote - Quorum**
 
 <sup>1</sup> Les dispositions sur la procédure de vote au Grand Conseil sont applicables par analogie.
 
@@ -420,9 +378,7 @@ Chaque député est autorisé à adresser des suggestions et propositions à la 
 
 <sup>1</sup> Sur la proposition de son président, une commission peut prendre une décision par voie de circulation lorsqu'une séance ne peut plus être aménagée à temps et que seuls des points d'ordre secondaire sont à éclaircir.
 
-<sup>2</sup> Les propositions du président doivent être communiquées soit oralement en cours de séance, soit ultérieurement par écrit à tous les membres. Elles sont considérées comme adoptées si, dans un délai raisonnable, aucun membre n'a manifesté son opposition.[^33-1]
-
-[^33-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>2</sup> Les propositions du président doivent être communiquées soit oralement en cours de séance, soit ultérieurement par écrit à tous les membres. Elles sont considérées comme adoptées si, dans un délai raisonnable, aucun membre n'a manifesté son opposition.
 
 #### Art. 34
 
@@ -446,7 +402,7 @@ Chaque député est autorisé à adresser des suggestions et propositions à la 
 
 <sup>3</sup> Lorsque l'affaire traitée est soumise au secret de fonction, le procès-verbal n'est remis qu'aux membres de la commission et aux représentants du Conseil d'Etat et de l'administration nommément désignés dans le procès-verbal.
 
-- c) Publicité des séances
+### 3.2.1.3 Publicité des séances
 
 #### Art. 36
 
@@ -468,25 +424,27 @@ Chaque député est autorisé à adresser des suggestions et propositions à la 
 
 <sup>2</sup> L'information ne doit pas être donnée sur des faits ou des déclarations qui, par leur nature, doivent rester confidentiels. Dans tous les cas, le secret de fonction doit être préservé.
 
-- d) Rapports et propositions
+### 3.2.1.4 Rapports et propositions
 
 #### Art. 38
 
-<sup>1</sup> Rapport de la commission
+**Rapport de la commission**
 
 <sup>1</sup> La commission présente au Grand Conseil, par écrit, le rapport sur ses délibérations, sur ses propositions et celles de la minorité, sur le résultat des votes intervenus ainsi que sur les incidences financières pour le canton et les communes.
 
 <sup>2</sup> Les rapports des commissions sont distribués au Grand Conseil. Ils doivent être déposés au service parlementaire 40 jours avant la session à l'exception notamment des rapports concernant les naturalisations, les recours en grâce, la planification pluriannuelle intégrée, le budget et les comptes.
 
-<sup>3</sup> Le budget et la planification intégrée pluriannuelle sont produits pour la même session.[^38-1]
+<sup>3</sup> Le budget et la planification intégrée pluriannuelle sont produits pour la même session.
 
-<sup>4</sup> Dans les cas exceptionnels, un rapport est lu au Grand Conseil s'il n'a pas été distribué dans les deux langues aux députés.[^38-1]
+<sup>4</sup> Dans les cas exceptionnels, un rapport est lu au Grand Conseil s'il n'a pas été distribué dans les deux langues aux députés.
 
-<sup>5</sup> La commission présente un rapport intermédiaire:[^38-1] a) lorsqu'elle le décide spécialement ou à la demande du bureau ou du Conseil d'Etat;
+- a) …
+- b) …
 
+<sup>5</sup> La commission présente un rapport intermédiaire:
+
+- a) lorsqu'elle le décide spécialement ou à la demande du bureau ou du Conseil d'Etat;
 - b) lorsqu'elle propose d'ajourner l'examen de l'objet.
-
-[^38-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
 
 #### Art. 39
 
@@ -500,7 +458,7 @@ Chaque député est autorisé à adresser des suggestions et propositions à la 
 
 **Remise des documents**
 
-A l'achèvement de ses travaux, la commission remet au service parlementaire, pour être archivés, tous les documents relatifs aux objets traités.
+<sup>1</sup> A l'achèvement de ses travaux, la commission remet au service parlementaire, pour être archivés, tous les documents relatifs aux objets traités.
 
 #### Art. 41
 
@@ -510,7 +468,7 @@ A l'achèvement de ses travaux, la commission remet au service parlementaire, po
 
 <sup>2</sup> Les présidents d'autres commissions peuvent être invités à participer à ces séances.
 
-- 2\. Commissions de haute surveillance
+### 3.2.2 Commissions de haute surveillance
 
 #### Art. 42
 
@@ -518,119 +476,96 @@ A l'achèvement de ses travaux, la commission remet au service parlementaire, po
 
 <sup>1</sup> Les président et vice-président des commissions de haute surveillance sont nommés par le Grand Conseil pour deux ans. Ils ne sont pas immédiatement rééligibles.
 
-<sup>2</sup> Un membre d'une commission de haute surveillance ne peut demeurer en charge dans la même commission pendant plus de six ans consécutifs. Il est rééligible à condition de ne pas avoir atteint la limite des six ans au moment de la réélection. Il en est de même après une interruption de quatre ans.[^42-1]
-
-[^42-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>2</sup> Un membre d'une commission de haute surveillance ne peut demeurer en charge dans la même commission pendant plus de six ans consécutifs. Il est rééligible à condition de ne pas avoir atteint la limite des six ans au moment de la réélection. Il en est de même après une interruption de quatre ans.
 
 #### Art. 43
 
-<sup>1</sup> Commission de justice
+**Commission de justice**
 
-<sup>1</sup> La commission de justice, composée de 13 membres, contrôle, dans le cadre de la haute surveillance, la gestion des autorités judiciaires et du Ministère public. Elle prépare l'élection des autorités judiciaires et du Ministère public, les groupes politiques non représentés entendus.
+<sup>1</sup> La commission de justice, composée de 13 membres, contrôle, dans le cadre de la haute surveillance, la gestion des autorités judiciaires et du Ministère public. Elle soumet au Grand Conseil, après rapport du Conseil de la magistrature, ses propositions quant à l'élection des juges cantonaux, des juges suppléants, des juges assesseurs et des procureurs membres du Bureau du Ministère public.
 
 <sup>2</sup> La commission de justice examine et préavise en outre:
 
-- a) les rapports des autorités judiciaires et du Ministère public;
-
+- a) les rapports du Conseil de la magistrature;
 - b) les recours en grâce et les demandes de naturalisation conformément aux législations y relatives;
-
 - c) les demandes de levée de l'immunité, les cas d'incompatibilité, d'inéligibilité, de récusation ou d'action en responsabilité relevant du Grand Conseil;
-
 - d) les affaires qui, de manière générale, touchent les droits politiques (élections, votations, validité des initiatives populaires, constitutionnalité des actes législatifs) et les contestations y relatives;
-
 - e) les pétitions et requêtes adressées au Grand Conseil;
-
 - f) les recours dirigés contre les décisions du Grand Conseil, le Conseil d'Etat entendu.
 
-<sup>3</sup> La commission peut être chargée d'examiner les recours et les plaintes qui lui sont transmis ainsi que d'autres affaires en particulier celles concernant l'application de la loi du 28 mars 1996 sur l'organisation des Conseils et les rapports entre les pouvoirs et le présent règlement.
+<sup>3</sup> La commission peut être chargée d'examiner les recours et les plaintes qui lui sont transmis ainsi que d'autres affaires en particulier celles concernant l'application de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 et le présent règlement.
 
 <sup>4</sup> Elle a également comme tâche de contrôler, par des visites notamment, les conditions de la vie carcérale, l'exécution des obligations et le respect des droits des détenus et internés placés dans les établissements pénitentiaires cantonaux ou jugés en Valais et placés dans les établissements pénitentiaires d'autres cantons.
 
 #### Art. 44
 
-<sup>1</sup> Commission de gestion
+**Commission de gestion**
 
 <sup>1</sup> La commission de gestion, composée de 13 membres, surveille, dans le cadre de l'exercice de la haute surveillance:
 
 - a) la gestion du Conseil d'Etat et de l'administration cantonale;
-
 - b) la gestion des corporations ou établissements autonomes de droit public, cantonaux, intercantonaux ou transfrontaliers, auxquels l'Etat a confié certaines tâches;
-
-- c) l'activité des représentants de l'Etat dans les sociétés où le canton à une participation prépondérante.
+- c) l'activité des représentants de l'Etat dans les sociétés où le canton a une participation prépondérante.
 
 <sup>2</sup> Elle examine et préavise en particulier:
 
 - a) les rapports de gestion périodiques du Conseil d'Etat et des rapports spéciaux qui ne sont pas soumis à l'examen d'une autre commission;
-
 - b) l'efficacité de l'administration cantonale et des mesures prises par cette dernière en se référant aux objectifs fixés par le Conseil d'Etat et par le Grand Conseil;
-
 - c) la suite donnée aux interventions parlementaires, en collaboration avec le service parlementaire.
 
 <sup>3</sup> D'autres tâches peuvent être confiées à la commission de gestion, en particulier quant à la mise en oeuvre et au respect de la planification intégrée pluriannuelle ou d'autres rapports spéciaux.
 
 #### Art. 45
 
-<sup>1</sup> Commission des finances
+**Commission des finances**
 
 <sup>1</sup> La commission des finances, composée de 13 membres, contrôle, dans le cadre de l'exercice de la haute surveillance, l'ensemble des finances de l'Etat.
 
 <sup>2</sup> Elle examine et préavise, sous réserve des compétences des autres commissions, en particulier:
 
 - a) le projet de budget;
-
 - b) le compte de l'Etat, les emprunts et les crédits supplémentaires;
-
 - c) la planification intégrée pluriannuelle;
-
-- d) les initiatives populaires, sous l'aspect des mesures compensatoires (art. 33
-
-- al. 4 Cst. cant).
+- d) les initiatives populaires, sous l'aspect des mesures compensatoires (art. 33 al. 4 Cst. cant).
 
 <sup>3</sup> Elle s'assure notamment que le budget a été respecté, que les dépenses ont été couvertes par les crédits alloués par le Grand Conseil et, en cas de crédits supplémentaires, que les moyens financiers nécessaires ont été approuvés par les instances compétentes.
 
 <sup>4</sup> Elle examine les projets et propositions du Conseil d'Etat et des autres commissions ayant des incidences financières importantes sous l'angle notamment de leur rentabilité et de leur place dans le plan financier.
 
-#### Art. 45bis
+#### Art. 45a
 
-<sup>1</sup> Examen d'actes législatifs
+**Examen d'actes législatifs**
 
-Le bureau peut exceptionnellement confier aux commissions de haute surveillance l'examen de projets d'actes législatifs qui entrent dans leur sphère de compétence.
+<sup>1</sup> Le bureau peut exceptionnellement confier aux commissions de haute surveillance l'examen de projets d'actes législatifs qui entrent dans leur sphère de compétence.
 
-- 3\. Commissions thématiques
-
-[^45bis-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
+### 3.2.3 Commissions thématiques
 
 #### Art. 46
 
-[^45bis-1]
-
 <sup>1</sup> Les commissions thématiques sont composées de 7 à 13 membres. Elles sont nommées en principe au début de la législature.
 
-<sup>2</sup> Les président et vice-président d'une commission thématique sont nommés par le bureau pour deux ans. Ils ne peuvent être renommés qu'après une interruption de quatre ans.[^46-1]
+<sup>2</sup> Les président et vice-président d'une commission thématique sont nommés par le bureau pour deux ans. Ils ne peuvent être renommés qu'après une interruption de quatre ans.
 
-<sup>3</sup> Les membres d'une commission thématique ne peuvent demeurer en charge pendant plus de six ans consécutifs. Ils sont rééligibles à condition de ne pas avoir atteint la limite des six ans au moment de la réélection. Ils peuvent être renommés après une interruption de quatre ans.[^46-1]
+<sup>3</sup> Les membres d'une commission thématique ne peuvent demeurer en charge pendant plus de six ans consécutifs. Ils sont rééligibles à condition de ne pas avoir atteint la limite des six ans au moment de la réélection. Ils peuvent être renommés après une interruption de quatre ans.
 
 <sup>4</sup> Les commissions ont les tâches suivantes:
 
 - a) examen des objets relevant de leur domaine et qui leur ont été confiés par le bureau;
-
 - b) suivi régulier de leur domaine et élaboration de suggestions à l'intention du Grand Conseil.
 
 <sup>5</sup> Les commissions thématiques ne peuvent déposer des rapports que pour des objets qui leur ont été attribués par le bureau du Grand Conseil; elles interviennent pour le surplus dans les formes de l'article 104 alinéa 1 de la loi.
 
-- 4\. Commissions spéciales
-
-[^46-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+### 3.2.4 Commissions spéciales
 
 #### Art. 47
 
-Les commissions spéciales, désignées conformément à l'article 27 alinéa 2 de la loi, traitent des lectures supplémentaires ou de tout autre objet non attribué.
+<sup>1</sup> Les commissions spéciales, désignées conformément à l'article 27 alinéa 2 de la loi, traitent des lectures supplémentaires ou de tout autre objet non attribué.
 
-### Section 3: Groupes politiques
+### 3.3 Groupes politiques
 
 #### Art. 48
 
-<sup>1</sup> Constitution
+**Constitution**
 
 <sup>1</sup> Au plus tard le jour de la réunion de la commission de validation, chaque groupe informe le service parlementaire de sa constitution et lui communique sa dénomination, son président et son remplaçant ainsi que la liste de ses membres.
 
@@ -652,11 +587,11 @@ Les commissions spéciales, désignées conformément à l'article 27 alinéa 2 
 
 <sup>4</sup> Les montants des contributions sont fixés dans une annexe au présent règlement.
 
-### Section 4: Services parlementaires
+### 3.4 Services parlementaires
 
 #### Art. 50
 
-<sup>1</sup> Tâches
+**Tâches**
 
 <sup>1</sup> Le service parlementaire soutient, en fonction des moyens alloués, les organes du Grand Conseil, les commissions et les députés dans l'exécution de leur travail parlementaire.
 
@@ -666,15 +601,13 @@ Les commissions spéciales, désignées conformément à l'article 27 alinéa 2 
 
 <sup>4</sup> Il gère la documentation et leur fournit l'appui nécessaire en matière d'information et de communication. Il est notamment responsable de l'enregistrement littéral des délibérations, de leur traduction simultanée et de leur publication.
 
-[^50-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
-
 #### Art. 51
 
-**Abrogé**[^50-1]
+**…**
 
 #### Art. 52
 
-<sup>1</sup> Contrôle de la rédaction
+**Contrôle de la rédaction**
 
 <sup>1</sup> Le service parlementaire examine les actes législatifs quant à la linguistique, à la technique législative et à la systématique déjà après la première lecture. Il élimine les contradictions de pure forme et assure la concordance des textes dans les deux langues avant leur transmission au Conseil d'Etat; ses éventuelles propositions sont remises le cas échéant à la deuxième commission.
 
@@ -684,23 +617,21 @@ Les commissions spéciales, désignées conformément à l'article 27 alinéa 2 
 
 **Transmission des actes**
 
-Dans la semaine après chaque session, le service parlementaire transmet au Conseil d'Etat tous les actes auxquels celui-ci doit donner suite, notamment les actes législatifs, les ordonnances approuvées et les décisions susceptibles de référendum. Les actes originaux sont conservés au service parlementaire.
+<sup>1</sup> Dans la semaine après chaque session, le service parlementaire transmet au Conseil d'Etat tous les actes auxquels celui-ci doit donner suite, notamment les actes législatifs, les ordonnances approuvées et les décisions susceptibles de référendum. Les actes originaux sont conservés au service parlementaire.
 
 #### Art. 54
 
-<sup>1</sup> Enregistrement
+**Enregistrement**
 
 <sup>1</sup> Tous les débats du Grand Conseil sont enregistrés et intégralement saisis sur support informatique.
 
 <sup>2</sup> Le service parlementaire est tenu de reproduire exactement les propos émis dans les discours; il ne doit ni les modifier ni les interpréter, même sur demande des intéressés.
 
-<sup>3</sup> Abrogé.[^54-1]
-
-[^54-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>3</sup> …
 
 #### Art. 55
 
-<sup>1</sup> Publication
+**Publication**
 
 <sup>1</sup> A l'exception des débats à huis clos, les débats et décisions du Grand Conseil sont publiés intégralement et sans retard sur le site officiel du canton du Valais et dans le bulletin des séances du Grand Conseil.
 
@@ -708,19 +639,17 @@ Dans la semaine après chaque session, le service parlementaire transmet au Cons
 
 <sup>3</sup> Sont en outre publiés le budget, le compte de l'Etat, les rapports des organes du Grand Conseil ainsi que, dans les deux langues, les projets d'actes législatifs et de décisions, les messages et les rapports du Conseil d'Etat.
 
-[^55-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
-
 #### Art. 56
 
-**Abrogé**[^55-1]
+**…**
 
 #### Art. 57
 
-<sup>1,7</sup> Diffusion
+**Diffusion**
 
 <sup>1</sup> Le bulletin imprimé des séances du Grand Conseil est distribué à la Chancellerie d'Etat, au Tribunal cantonal et aux Archives cantonales.
 
-<sup>2</sup> Abrogé.
+<sup>2</sup> …
 
 #### Art. 58
 
@@ -728,31 +657,23 @@ Dans la semaine après chaque session, le service parlementaire transmet au Cons
 
 <sup>1</sup> Les archives du Grand Conseil sont conservées pendant dix ans au service parlementaire puis aux archives cantonales.
 
-<sup>2</sup> La présidence décide de l'accessibilité des archives, sous réserve de l'article 133ter de la loi.
+<sup>2</sup> La présidence décide de l'accessibilité des archives, sous réserve de l'article 133b de la loi.
 
 #### Art. 59
 
-<sup>1,7</sup> Centre de documentation
+**Centre de documentation**
 
 <sup>1</sup> Le centre de documentation du Grand Conseil, ouvert également aux députés en dehors des sessions, doit posséder notamment:
 
-- a) abrogée;
-
+- a) …
 - b) la collection complète des bulletins des séances ainsi que les procès-verbaux du Grand Conseil et des commissions;
-
 - c) le Bulletin officiel;
-
 - d) le registre contenant l'état nominatif des députés, des assermentations, des liens d'intérêt, et le registre des commissions;
-
 - e) le registre numéroté et daté des initiatives parlementaires, motions, postulats, interpellations, résolutions et questions écrites, avec mention de la date du dépôt, du développement, du traitement, du service compétent ainsi que de la suite qui leur a été donnée; celui-ci figure aussi sur le site officiel du canton du Valais;
-
-- f) le registre des actes législatifs;
-
-- g) abrogée;
-
-- h) abrogée;
-
-- i) abrogée.
+- f) le registre des actes législatifs.
+- g) …
+- h) …
+- i) …
 
 <sup>2</sup> La diffusion électronique des documents est privilégiée.
 
@@ -768,25 +689,25 @@ Dans la semaine après chaque session, le service parlementaire transmet au Cons
 
 **Chancellerie**
 
-La Chancellerie d'Etat collabore également avec les organes du Grand Conseil, notamment pour la consultation des archives de l'Etat, des statistiques ou autres documentations.
+<sup>1</sup> La Chancellerie d'Etat collabore également avec les organes du Grand Conseil, notamment pour la consultation des archives de l'Etat, des statistiques ou autres documentations.
 
 #### Art. 62
 
 **Inspection des finances**
 
-La collaboration avec l'Inspection cantonale des finances est fixée par la législation spéciale.
+<sup>1</sup> La collaboration avec l'Inspection cantonale des finances est fixée par la législation spéciale.
 
-### Chapitre 3: Séances du Grand Conseil
+## 4 Séances du Grand Conseil
 
-### Section 1: Sessions
+### 4.1 Sessions
 
 #### Art. 63
 
-<sup>1</sup> Office divin
+**Office divin**
 
-Au début de la session constitutive, ainsi qu'à la session de mai, le Grand Conseil se rend en corps et en principe à la cathédrale où un service divin est célébré pour appeler les bénédictions de Dieu sur ses travaux et sur la Patrie.
+<sup>1</sup> Au début de la session constitutive, ainsi qu'à la session de mai, le Grand Conseil se rend en corps et en principe à la cathédrale où un service divin est célébré pour appeler les bénédictions de Dieu sur ses travaux et sur la Patrie.
 
-- a) Session constitutive
+### 4.1.1 Session constitutive
 
 #### Art. 64
 
@@ -799,29 +720,22 @@ Au début de la session constitutive, ainsi qu'à la session de mai, le Grand Co
 <sup>3</sup> Le bureau provisoire est chargé:
 
 - a) de convoquer immédiatement la commission de validation;
-
 - b) de fixer, sur la proposition du chef du service parlementaire, la répartition des places dans la salle;
-
 - c) d'assurer le bon déroulement de la session constitutive jusqu'à ce que le Grand Conseil soit constitué.
 
 <sup>4</sup> En cas de contestation d'une décision prise par le bureau provisoire, celle-ci est tranchée en ouverture de la séance constitutive par le plénum.
 
 #### Art. 65
 
-<sup>1</sup> Ordre du jour
+**Ordre du jour**
 
-L'ordre du jour de la session constitutive comprend notamment les points suivants:
+<sup>1</sup> L'ordre du jour de la session constitutive comprend notamment les points suivants:
 
 - a) ouverture par le doyen de fonction;
-
 - b) office divin facultatif;
-
 - c) validation des élections des députés;
-
 - d) assermentation par appel nominal des députés et des députés-suppléants;
-
 - e) validation et assermentation du Conseil d'Etat;
-
 - f) élections et nominations.
 
 #### Art. 66
@@ -830,13 +744,13 @@ L'ordre du jour de la session constitutive comprend notamment les points suivant
 
 <sup>1</sup> La formule du serment, lue dans les deux langues par un membre de la présidence ou du bureau provisoire, est la suivante:
 
-«En présence du Dieu tout-puissant, je jure d'observer et de maintenir fidèlement la Constitution du canton du Valais, de défendre et de respecter les droits, la liberté et l'indépendance du peuple et des citoyens, d'éviter et d'empêcher de tout mon pouvoir tout ce qui porterait atteinte à la religion de nos pères et aux bonnes moeurs, d'exercer en toute conscience la charge dont je suis revêtu, de ne jamais excéder les attributions de mon mandat. Que Dieu m'assiste dans l'exécution de ces engagements.»
+"En présence du Dieu tout-puissant, je jure d'observer et de maintenir fidèlement la Constitution du canton du Valais, de défendre et de respecter les droits, la liberté et l'indépendance du peuple et des citoyens, d'éviter et d'empêcher de tout mon pouvoir tout ce qui porterait atteinte à la religion de nos pères et aux bonnes moeurs, d'exercer en toute conscience la charge dont je suis revêtu, de ne jamais excéder les attributions de mon mandat. Que Dieu m'assiste dans l'exécution de ces engagements."
 
 <sup>2</sup> La formule de la promesse solennelle, lue dans les deux langues, par un membre de la présidence, est la suivante:
 
-«Je promets sur mon honneur et ma conscience d'observer et de maintenir fidèlement la Constitution du canton du Valais, de défendre et de respecter les droits, la liberté et l'indépendance du peuple et des citoyens, d'éviter et d'empêcher de tout mon pouvoir tout ce qui porterait atteinte aux bonnes moeurs, d'exercer en toute conscience la charge dont je suis revêtu, de ne jamais excéder les attributions de mon mandat.»
+"Je promets sur mon honneur et ma conscience d'observer et de maintenir fidèlement la Constitution du canton du Valais, de défendre et de respecter les droits, la liberté et l'indépendance du peuple et des citoyens, d'éviter et d'empêcher de tout mon pouvoir tout ce qui porterait atteinte aux bonnes moeurs, d'exercer en toute conscience la charge dont je suis revêtu, de ne jamais excéder les attributions de mon mandat."
 
-<sup>3</sup> A l'appel de son nom par l'un des membres de la présidence, chaque personne assermentée dit, debout et la main levée: «Je le jure» ou «Je le promets».
+<sup>3</sup> A l'appel de son nom par l'un des membres de la présidence, chaque personne assermentée dit, debout et la main levée: "Je le jure" ou "Je le promets".
 
 <sup>4</sup> Les députés et les députés-suppléants absents font le serment ou la promesse au début de la première séance à laquelle ils assistent.
 
@@ -844,21 +758,25 @@ L'ordre du jour de la session constitutive comprend notamment les points suivant
 
 **Carte de légitimation**
 
-Chaque député assermenté reçoit une carte de légitimation qu'il doit restituer à la fin de son mandat s'il démissionne en cours de législature.
+<sup>1</sup> Chaque député assermenté reçoit une carte de légitimation.
 
-- b) Sessions ordinaires ou extraordinaires
+### 4.1.2 Sessions ordinaires ou extraordinaires
 
 #### Art. 68
 
-<sup>1</sup> Année législative
+**Année législative**
 
-L'année législative commence à la session constitutive lors du renouvellement intégral du Grand Conseil et le dernier jour de la session de mai les autres années.
+<sup>1</sup> L'année législative commence à la session constitutive lors du renouvellement intégral du Grand Conseil et le dernier jour de la session de mai les autres années.
 
 #### Art. 69
 
-<sup>1</sup> Plan des sessions
+**Plan des sessions**
 
 <sup>1</sup> Le bureau établit le plan annuel des sessions.
+
+- a) …
+- b) …
+- c) …
 
 <sup>2</sup> Le bureau peut, le Conseil d'Etat entendu, supprimer ou raccourcir l'une ou l'autre des sessions prévues au plan.
 
@@ -866,15 +784,15 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 #### Art. 70
 
-<sup>1</sup> Sessions extraordinaires
+**Sessions extraordinaires**
 
 <sup>1</sup> Le bureau, d'entente avec le Conseil d'Etat, arrête la date et la durée des sessions extraordinaires.
 
-<sup>2</sup> Abrogé
+<sup>2</sup> …
 
 #### Art. 71
 
-<sup>1,7</sup> Durée des sessions
+**Durée des sessions**
 
 <sup>1</sup> En règle générale, le Grand Conseil siège le mardi matin, le mercredi matin, le jeudi et le vendredi toute la journée.
 
@@ -882,17 +800,19 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 <sup>3</sup> Le Grand Conseil décide quand il ajourne ou clôt les débats.
 
+<sup>4</sup> …
+
 #### Art. 72
 
 **Horaire des séances**
 
-<sup>1</sup> Les séances se déroulent de 9 h à 12 h le matin et de 14 h à 17 h l'après-midi.
+<sup>1</sup> Les séances se déroulent de 9 heures à 12 heures le matin et de 14 heures à 17 heures l'après-midi.
 
 <sup>2</sup> Selon l'état d'avancement des travaux, le président peut prolonger une séance d'une heure au maximum. Des prolongations supplémentaires sont décidées par le Grand Conseil. Celui-ci peut également prévoir des séances en soirée.
 
 #### Art. 73
 
-<sup>1</sup> Convocation
+**Convocation**
 
 <sup>1</sup> En règle générale, la convocation des députés aux sessions ordinaires et extraordinaires se fait par courriel.
 
@@ -900,35 +820,37 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 <sup>3</sup> Le plan de la session est publié dans le Bulletin Officiel.
 
-#### Art. 73bis
+<sup>4</sup> …
 
-<sup>1</sup> Documents de session
+<sup>5</sup> …
+
+#### Art. 73a
+
+**Documents de session**
 
 <sup>1</sup> Le service parlementaire publie les documents de chaque session (messages, projets d'actes législatifs, rapports de commission, etc.) dès leur réception sur le site officiel du canton du Valais.
 
-<sup>2</sup> Au plus tard 20 jours avant le début de la session, tous les documents sont envoyés aux députés par voie électronique.[^73bis-1]
+<sup>2</sup> Au plus tard 20 jours avant le début de la session, tous les documents sont envoyés aux députés par voie électronique.
 
 <sup>3</sup> Les documents qui, par leur nature, ne peuvent être envoyés doivent être mis à la disposition des députés au service parlementaire.
 
-[^73bis-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
-
 #### Art. 74
 
-<sup>1</sup> Ordre du jour
+**Ordre du jour**
 
-<sup>1</sup> A la clôture de chaque séance, l'ordre du jour de la séance suivante est affiché et publié sur le site officiel du canton du Valais.
+<sup>1</sup> L'ordre du jour des séances du Grand Conseil est publié sur le site officiel du canton du Valais.
 
-<sup>2</sup> L'assemblée ne traite à chaque séance que les objets figurant à son ordre du jour. Il ne peut être dérogé à cette règle que par une décision expresse du Grand Conseil au sens de l'article 64 alinéa 2 LOCRP ou pour recevoir une communication de la présidence ou du Conseil d'Etat.[^74-1]
+<sup>2</sup> L'assemblée ne traite à chaque séance que les objets figurant à son ordre du jour. Il ne peut être dérogé à cette règle que par une décision expresse du Grand Conseil au sens de l'article 64 alinéa 2 LOCRP ou pour recevoir une communication de la présidence ou du Conseil d'Etat.
 
-[^74-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>3</sup> …
 
-### Section 2: Séances
+### 4.2 Séances
 
-- a) Principes généraux
+### 4.2.1 Principes généraux
 
 #### Art. 75
 
-<sup>7</sup> Publicité des débats
+**Publicité des débats**
 
 <sup>1</sup> Sous réserve de huis clos, les séances du Grand Conseil sont publiques. En outre, les débats sont enregistrés, filmés et retransmis en direct selon les modalités arrêtées par le bureau.
 
@@ -936,7 +858,7 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 #### Art. 76
 
-<sup>1,7</sup> Huis clos
+**Huis clos**
 
 <sup>1</sup> Le huis clos peut être demandé par le bureau, par le Conseil d'Etat ou par dix députés lorsque la protection d'intérêts importants de l'Etat ou des motifs inhérents à la protection de la personnalité le justifient.
 
@@ -948,7 +870,7 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 #### Art. 77
 
-<sup>7</sup> Public
+**Public**
 
 <sup>1</sup> Sous réserve de huis clos, les séances du Grand Conseil sont ouvertes au public.
 
@@ -958,7 +880,7 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 #### Art. 78
 
-<sup>1,4,7</sup> Médias
+**Médias**
 
 <sup>1</sup> Dans la mesure du possible, les médias et les journalistes accrédités disposent de places réservées. Ils reçoivent les mêmes documents que les députés dans la mesure où leur contenu n'en interdit pas la publication.
 
@@ -966,7 +888,9 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 <sup>3</sup> La présence des représentants des médias dans la salle ne doit pas perturber les débats. En cas de perturbation, le président peut exiger que ceux-ci quittent la salle.
 
-- b) Dispositions d'ordre
+<sup>4</sup> …
+
+### 4.2.2 Dispositions d'ordre
 
 #### Art. 79
 
@@ -978,11 +902,9 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 <sup>3</sup> Le président de la commission, son rapporteur et le conseiller d'Etat compétent peuvent obtenir la parole en tout temps pour apporter des éclaircissements ou des rectifications.
 
-<sup>4</sup> Lorsqu'il est attaqué personnellement, le député peut répliquer. Son temps de parole est limité à trois minutes et la discussion n'est pas ouverte à l'assemblée.[^79-1]
+<sup>4</sup> Lorsqu'il est attaqué personnellement, le député peut répliquer. Son temps de parole est limité à trois minutes et la discussion n'est pas ouverte à l'assemblée.
 
-<sup>5</sup> Le même droit appartient aux groupes politiques et aux membres du Conseil d'Etat.[^79-1]
-
-[^79-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>5</sup> Le même droit appartient aux groupes politiques et aux membres du Conseil d'Etat.
 
 #### Art. 80
 
@@ -1001,15 +923,10 @@ L'année législative commence à la session constitutive lors du renouvellement
 <sup>2</sup> Lorsque le sujet traité est préavisé par une commission, le président accorde la parole dans l'ordre suivant:
 
 - a) les rapporteurs de commissions qui présentent le rapport et les propositions de la commission et qui expriment l'opinion de la majorité;
-
 - b) les rapporteurs de la minorité;
-
 - c) les porte-parole des groupes;
-
 - d) les autres députés, dans l'ordre des annonces;
-
 - e) le président de la commission;
-
 - f) le représentant du Conseil d'Etat.
 
 <sup>3</sup> Une deuxième parole est accordée en suivant les mêmes priorités.
@@ -1018,16 +935,14 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 #### Art. 82
 
-<sup>1</sup> Temps de parole
+**Temps de parole**
 
-<sup>1</sup> Le temps de parole des présidents et des rapporteurs de commissions et des membres du Conseil d'Etat n'est pas limité. En règle générale, il ne doit pas excéder 20 minutes.
+<sup>1</sup> Le temps de parole des présidents et des rapporteurs de commissions et des membres du Conseil d'Etat n'est pas limité. En règle générale, il ne doit pas excéder 15 minutes.
 
 <sup>2</sup> Pour le surplus, le temps de parole est au plus de:
 
-- a) dix minutes pour les porte-parole des groupes dans les débats d'entrée en matière;
-
-- b) abrogé;
-
+- a) huit minutes pour les porte-parole des groupes dans les débats d'entrée en matière;
+- b) …
 - c) cinq minutes pour les autres interventions.
 
 <sup>3</sup> Celui qui reprend la parole sur le même sujet n'a droit qu'à un temps de parole réduit de moitié.
@@ -1042,29 +957,27 @@ L'année législative commence à la session constitutive lors du renouvellement
 
 #### Art. 84
 
-<sup>1</sup> Règles de comportement, sanctions
+**Règles de comportement - Sanctions**
 
 <sup>1</sup> Le député s'exprime de manière claire et concise sur les sujets soumis à délibération et présente aussitôt que possible ses propositions. Il ne doit pas être interrompu dans son discours.
 
 <sup>2</sup> Le député qui s'écarte du sujet en délibération, blesse les convenances ou se livre à des attaques personnelles est rappelé à l'ordre par le président. Celui-ci peut retirer la parole au député qui persiste à violer la discipline parlementaire, sous réserve de recours à l'assemblée qui statue sans délibération.
 
-<sup>3</sup> Dans les cas graves, le président peut provoquer un vote de censure par le Grand Conseil. Avant le vote, seul le député visé a le droit d'intervenir pour sa justification.[^84-1]
+<sup>3</sup> Dans les cas graves, le président peut provoquer un vote de censure par le Grand Conseil. Avant le vote, seul le député visé a le droit d'intervenir pour sa justification.
 
-<sup>4</sup> Le député contre lequel un vote de censure a été prononcé est exclu de la salle des délibérations pour la fin de la session en cours et pour la session suivante. Il est privé des indemnités de présence et de déplacement pendant ce temps.[^84-1]
-
-[^84-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>4</sup> Le député contre lequel un vote de censure a été prononcé est exclu de la salle des délibérations pour la fin de la session en cours et pour la session suivante. Il est privé des indemnités de présence et de déplacement pendant ce temps.
 
 #### Art. 85
 
 **Tumulte**
 
-En cas de tumulte, le président annonce qu'il suspendra la séance; si le tumulte continue, il suspend la séance pendant une heure; l'heure écoulée, la séance est reprise de droit.
+<sup>1</sup> En cas de tumulte, le président annonce qu'il suspendra la séance; si le tumulte continue, il suspend la séance pendant une heure; l'heure écoulée, la séance est reprise de droit.
 
-- c) Délibérations
+### 4.2.3 Délibérations
 
 #### Art. 86
 
-<sup>1</sup> Documents de base
+**Documents de base**
 
 <sup>1</sup> Lorsque l'initiative émane du Conseil d'Etat, les rapports et projets de ce dernier servent de base à la discussion.
 
@@ -1079,7 +992,6 @@ En cas de tumulte, le président annonce qu'il suspendra la séance; si le tumul
 <sup>2</sup> Au lieu de refuser l'entrée en matière, le Grand Conseil peut décider:
 
 - a) d'ajourner la décision d'entrée en matière;
-
 - b) de renvoyer le projet à la commission compétente ou au Conseil d'Etat.
 
 <sup>3</sup> Si aucun député ne demande l'ajournement, le renvoi ou ne s'oppose à l'entrée en matière, celle-ci est réputée acceptée.
@@ -1096,40 +1008,39 @@ En cas de tumulte, le président annonce qu'il suspendra la séance; si le tumul
 
 #### Art. 89
 
-<sup>1</sup> Propositions de la commission
+**Propositions de la commission**
 
 <sup>1</sup> La discussion de détail commence avec l'explication, par le rapporteur, des propositions de la commission, le cas échéant, des propositions de la minorité.
 
 <sup>2</sup> Le président de la commission, le cas échéant le rapporteur de la minorité, ainsi qu'un représentant du Conseil d'Etat défendent les propositions de la commission, respectivement de la minorité et du Gouvernement.
 
+<sup>3</sup> …
+
 #### Art. 90
 
-<sup>7</sup> Propositions d'amendement des députés
+**Propositions d'amendement des députés**
 
 <sup>1</sup> Les propositions d'amendement des députés doivent, sous réserve de décisions contraires du Grand Conseil, être déposées par voie électronique avant la fin des débats d'entrée en matière. Un laps de temps suffisant doit être aménagé entre ces derniers et les délibérations de détail, pour permettre à la commission compétente de se prononcer sur les propositions d'amendement.
 
 <sup>2</sup> Les propositions d'amendement, complètement rédigées et désignant les numéros d'articles et d'alinéas auxquels elles se rapportent, sont traduites et communiquées à tous les députés avant les délibérations article par article.
 
-<sup>3</sup> Abrogé.
+<sup>3</sup> …
 
 #### Art. 91
 
 **Réexamen des amendements**
 
-Le Conseil d'Etat et le président de la commission peuvent demander qu'un amendement adopté soit réexaminé, notamment quant à son aspect financier. La discussion sur l'article visé reprendra alors à la fin des délibérations (art. 93).
+<sup>1</sup> Le Conseil d'Etat et le président de la commission peuvent demander qu'un amendement adopté soit réexaminé, notamment quant à son aspect financier. La discussion sur l'article visé reprendra alors à la fin des délibérations (art. 93).
 
 #### Art. 92
 
-<sup>1</sup> Fin de la discussion sur chaque article
+**Fin de la discussion sur chaque article**
 
 <sup>1</sup> Lorsque la parole n'est plus demandée, le président déclare la discussion close. Il accorde ensuite la parole dans l'ordre suivant:
 
 - a) au rapporteur de la minorité;
-
 - b) au rapporteur de la commission;
-
 - c) au président de la commission;
-
 - d) au représentant du Conseil d'Etat.
 
 <sup>2</sup> La parole ne peut alors plus être demandée que pour rectifier matériellement les allégations des personnes citées à l'alinéa précédent. Le temps de parole pour les députés est alors limité à trois minutes.
@@ -1148,9 +1059,9 @@ Le Conseil d'Etat et le président de la commission peuvent demander qu'un amend
 
 **Débat final**
 
-A la fin des délibérations, l'ensemble d'un projet fait l'objet d'un débat final dans lequel les orateurs doivent se borner à présenter des observations générales ou à motiver leur vote.
+<sup>1</sup> A la fin des délibérations, l'ensemble d'un projet fait l'objet d'un débat final dans lequel les orateurs doivent se borner à présenter des observations générales ou à motiver leur vote.
 
-- d) Nombre de lectures
+### 4.2.4 Nombre de lectures
 
 #### Art. 95
 
@@ -1186,7 +1097,7 @@ A la fin des délibérations, l'ensemble d'un projet fait l'objet d'un débat fi
 
 **Lois d'application**
 
-Les lois d'application soustraites au référendum sont soumises aux mêmes règles que les lois ordinaires.
+<sup>1</sup> Les lois d'application soustraites au référendum sont soumises aux mêmes règles que les lois ordinaires.
 
 #### Art. 99
 
@@ -1208,27 +1119,25 @@ Les lois d'application soustraites au référendum sont soumises aux mêmes règ
 
 #### Art. 101
 
-<sup>1</sup> Lecture unique
+**Lecture unique**
 
-<sup>1</sup> La commission en charge de la première lecture ou cinq députés peuvent proposer l'adoption, en une seule lecture, d'un acte soumis au référendum facultatif ou d'une loi d'application.[^101-1]
+<sup>1</sup> La commission en charge de la première lecture ou cinq députés peuvent proposer l'adoption, en une seule lecture, d'un acte soumis au référendum facultatif ou d'une loi d'application.
 
 <sup>2</sup> Après le vote qui clôt les premiers débats, le Grand Conseil prend la décision de renoncer à la deuxième lecture.
 
 <sup>3</sup> Cette décision doit être prise à la majorité des 2/3.
 
-[^101-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
-
 #### Art. 102
 
 **Avis du Conseil d'Etat**
 
-Pour les actes législatifs et les décisions susceptibles de référendum, le Conseil d'Etat doit prendre position sur les propositions des commissions avant chaque lecture.
+<sup>1</sup> Pour les actes législatifs et les décisions susceptibles de référendum, le Conseil d'Etat doit prendre position sur les propositions des commissions avant chaque lecture.
 
-- e) Votations et élections
+### 4.2.5 Votations et élections
 
 #### Art. 103
 
-<sup>1,7</sup> Scrutateurs
+**Scrutateurs**
 
 <sup>1</sup> Les scrutateurs, au nombre de quatre, sont nommés par le Grand Conseil au début de chaque législature. Ils forment le bureau de vote avec l'un des vice-présidents.
 
@@ -1243,14 +1152,13 @@ Pour les actes législatifs et les décisions susceptibles de référendum, le C
 <sup>2</sup> En cas de non-fonctionnement du vote électronique ou sur décision de la présidence, le vote a lieu selon les modalités suivantes:
 
 - a) le député exprime son vote en se levant. Ne sont décomptés que les suffrages des députés qui votent à leur place;
-
 - b) les scrutateurs comptent les suffrages.
 
 <sup>3</sup> Dans tous les cas, le président contrôle et proclame les résultats. En cas de doute, chaque député peut demander une contre-épreuve.
 
 #### Art. 105
 
-<sup>1</sup> Rôle du président
+**Rôle du président**
 
 <sup>1</sup> Le président ne vote pas. En cas d'égalité des suffrages, il départage; dans ce cas, il peut motiver son vote.
 
@@ -1258,7 +1166,7 @@ Pour les actes législatifs et les décisions susceptibles de référendum, le C
 
 #### Art. 106
 
-<sup>1,7</sup> Vote nominal
+**Vote nominal**
 
 <sup>1</sup> Tous les votes sont nominaux.
 
@@ -1273,16 +1181,14 @@ Pour les actes législatifs et les décisions susceptibles de référendum, le C
 <sup>1</sup> La votation a lieu au scrutin secret:
 
 - a) pour les recours en grâce et les demandes de levée de l'immunité;
-
 - b) pour les naturalisations à la demande d'un seul député;
-
 - c) sur décision du Grand Conseil, notamment pour sauvegarder des intérêts publics importants ou pour protéger les droits de la personnalité.
 
 <sup>2</sup> L'article 121 est applicable par analogie.
 
 #### Art. 108
 
-<sup>1</sup> Motion d'ordre
+**Motion d'ordre**
 
 <sup>1</sup> La motion d'ordre est une demande concernant la procédure des délibérations, des votations et des élections au sens du présent règlement.
 
@@ -1300,25 +1206,25 @@ Pour les actes législatifs et les décisions susceptibles de référendum, le C
 
 #### Art. 110
 
-<sup>1,7</sup> Vote des propositions et vote final
+**Vote des propositions et vote final**
 
 <sup>1</sup> Dans toute délibération, un vote de l'assemblée n'intervient que s'il y a plusieurs propositions en présence. Les propositions qui ne sont pas combattues sont considérées comme adoptées.
 
 <sup>2</sup> Cette disposition ne s'applique pas au vote final.
 
-<sup>3</sup> Abrogé.
+<sup>3</sup> …
 
 <sup>4</sup> Lorsque le Conseil d'Etat se rallie à une proposition, chaque député peut demander d'opposer, par un vote, cette proposition au projet du Conseil d'Etat.
 
 #### Art. 111
 
-<sup>1</sup> Ordre des votes
+**Ordre des votes**
 
 <sup>1</sup> Lorsque des propositions sont amendées et sous-amendées, on met d'abord au vote les sous-amendements puis les amendements et enfin la proposition principale. En cas de vote subsidiaire, l'ordre de vote des propositions doit être aménagé de façon à ce que la mise aux voix débute avec les propositions qui divergent le moins sur le fond pour s'achever avec celles qui divergent le plus. Si l'assemblée doit opter entre plusieurs nombres, elle y procède en opposant les extrêmes. La proposition de la commission est mise au vote en dernier.
 
 <sup>2</sup> Lorsqu'il y a plus de deux propositions de même rang, on met d'abord au vote, à titre subsidiaire, les propositions des députés, celles du Conseil d'Etat et celles de la minorité de la commission. Le résultat du dernier vote est ensuite opposé à la proposition de la majorité de la commission.
 
-- f) Elections
+### 4.2.6 Elections
 
 #### Art. 112
 
@@ -1336,7 +1242,7 @@ Pour les actes législatifs et les décisions susceptibles de référendum, le C
 
 **Scrutin secret**
 
-Sous réserve de l'article 115, les élections et nominations qui relèvent du Grand Conseil ont lieu au scrutin secret.
+<sup>1</sup> Sous réserve de l'article 115, les élections et nominations qui relèvent du Grand Conseil ont lieu au scrutin secret.
 
 #### Art. 114
 
@@ -1356,7 +1262,7 @@ Sous réserve de l'article 115, les élections et nominations qui relèvent du G
 
 #### Art. 116
 
-<sup>1</sup> Déroulement du scrutin
+**Déroulement du scrutin**
 
 <sup>1</sup> Pour chaque tour du scrutin, les scrutateurs distribuent les bulletins de vote officiels. Le président annonce à l'assemblée le nombre de bulletins délivrés et le fait inscrire au procès-verbal.
 
@@ -1364,9 +1270,11 @@ Sous réserve de l'article 115, les élections et nominations qui relèvent du G
 
 <sup>3</sup> Lorsque l'élection a lieu au scrutin de listes, chaque député dispose d'autant de voix qu'il y a de personnes à élire.
 
+<sup>4</sup> …
+
 #### Art. 117
 
-<sup>1,7</sup> Détermination du résultat
+**Détermination du résultat**
 
 <sup>1</sup> Les scrutateurs recueillent les bulletins et, avec l'assistance de l'un des vice-présidents et d'un membre du service parlementaire, les comptent et déterminent le résultat.
 
@@ -1380,7 +1288,7 @@ Sous réserve de l'article 115, les élections et nominations qui relèvent du G
 
 **Calcul de la majorité**
 
-La majorité absolue est constituée par le nombre entier qui suit immédiatement la moitié des bulletins valables.
+<sup>1</sup> La majorité absolue est constituée par le nombre entier qui suit immédiatement la moitié des bulletins valables.
 
 #### Art. 119
 
@@ -1389,9 +1297,7 @@ La majorité absolue est constituée par le nombre entier qui suit immédiatemen
 <sup>1</sup> Les bulletins blancs et les bulletins nuls ne sont pas pris en considération. Sont nuls:
 
 - a) tout bulletin illisible ou équivoque;
-
 - b) tout bulletin renfermant une expression outrageante;
-
 - c) tout bulletin ne renfermant aucun nom de personne éligible.
 
 <sup>2</sup> Lors de scrutins de listes, est nul tout suffrage donné à une personne inéligible. Si un bulletin renferme plus de noms qu'il n'y a de personnes à élire, les derniers noms inscrits sont biffés.
@@ -1418,17 +1324,15 @@ La majorité absolue est constituée par le nombre entier qui suit immédiatemen
 
 <sup>4</sup> Les états détaillés ainsi que les bulletins de vote sont conservés pendant le délai de recours pour être consultés en cas de recours contre les élections. Si le recours n'est pas exercé à l'échéance du délai, ils sont détruits en présence de la présidence.
 
-### Chapitre 4: Rapports du Conseil d'Etat
-
-[^hChapitre4Rapports-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
+## 5 Rapports du Conseil d'Etat
 
 #### Art. 122
 
-**Abrogé**[^hChapitre4Rapports-1]
+**…**
 
 #### Art. 123
 
-<sup>1</sup> Délai
+**Délai**
 
 <sup>1</sup> Les rapports du Conseil d'Etat doivent, sous réserve des cas urgents, être adressés au Grand Conseil dix semaines, respectivement huit semaines pour le budget et la planification intégrée pluriannuelle, avant la session où ils sont portés à l'ordre du jour.
 
@@ -1436,31 +1340,29 @@ La majorité absolue est constituée par le nombre entier qui suit immédiatemen
 
 #### Art. 124
 
-**Dispense de message, ajournement d'actes législatifs**
+**Dispense de message - Ajournement d'actes législatifs**
 
 <sup>1</sup> Les projets adoptés par le Grand Conseil en premiers débats sont, en règle générale, portés d'office sans nouveau message à l'ordre du jour d'une session ultérieure.
 
 <sup>2</sup> Les projets ajournés sont présentés de nouveau par le Conseil d'Etat à une session ultérieure, sauf décision contraire du Grand Conseil.
 
-### Chapitre 5: Propositions des députés
+## 6 Propositions des députés
 
-- a) En général
+### 6.1 En général
 
 #### Art. 125
 
-<sup>1</sup> Dépôt
+**Dépôt**
 
-<sup>1</sup> Toutes les interventions ordinaires doivent être rédigées sur un formulaire électronique officiel et envoyées à la présidence du Grand Conseil. Les interventions ordinaires doivent être déposées pendant la session. Les urgences et les questions pour l’heure des questions doivent parvenir à la présidence dès le vendredi d’avant session jusqu’à 10 heures le premier jour de la session.[^125-1]
+<sup>1</sup> Toutes les interventions ordinaires doivent être rédigées sur un formulaire électronique officiel et envoyées à la présidence du Grand Conseil. Les interventions ordinaires doivent être déposées pendant la session. Les urgences et les questions pour l’heure des questions doivent parvenir à la présidence dès le vendredi d’avant session jusqu’à 10 heures le premier jour de la session.
 
 <sup>2</sup> Motivées et munies d'un titre qui résume la matière, elles sont portées à la connaissance du Grand Conseil et du Conseil d'Etat dès que la présidence les a déclarées formellement recevables.
 
 <sup>3</sup> Les interventions déposées par les commissions et les groupes politiques sont données sous la signature de leurs présidents, cas échéant de leurs remplaçants.
 
-[^125-1]: Modification du 15.02.2013 BO No 10/2013 13.05.2013
-
 #### Art. 126
 
-<sup>1,7</sup> Interventions urgentes
+**Interventions urgentes**
 
 <sup>1</sup> L'auteur d'une intervention à caractère urgent motive brièvement l'urgence au début de son texte.
 
@@ -1470,33 +1372,30 @@ La majorité absolue est constituée par le nombre entier qui suit immédiatemen
 
 #### Art. 127
 
-<sup>1</sup> Recevabilité
+**Recevabilité**
 
-<sup>1</sup> La présidence examine du point de vue formel la recevabilité des interventions parlementaires, le cas échéant après avoir entendu le Conseil d'Etat. Elle les renvoie à leurs auteurs en particulier lorsque:[^127-1] a) elles ne respectent pas la forme correcte;
+<sup>1</sup> La présidence examine du point de vue formel la recevabilité des interventions parlementaires, le cas échéant après avoir entendu le Conseil d'Etat. Elle les renvoie à leurs auteurs en particulier lorsque:
 
+- a) elles ne respectent pas la forme correcte;
 - b) la demande ne peut pas faire l'objet d'une intervention parlementaire;
-
 - c) l'objet de l'intervention a déjà été délibéré par le Grand Conseil au cours de la période législative et la situation de fait n'a pas changé entre-temps;
-
 - d) elles blessent les convenances ou contiennent des attaques personnelles.
 
 <sup>2</sup> Aux conditions de l'article 130, la présidence du Grand Conseil peut transformer les interventions parlementaires.
 
 <sup>3</sup> En cas de contestation le bureau tranche.
 
-[^127-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
-
 #### Art. 128
 
 **Radiation**
 
-L'intervention non encore traitée et dont l'auteur ne fait plus partie du Grand Conseil est rayée de la liste.
+<sup>1</sup> L'intervention non encore traitée et dont l'auteur ne fait plus partie du Grand Conseil est rayée de la liste.
 
 #### Art. 129
 
 **Retrait**
 
-<sup>1</sup> L'auteur d'une intervention peut retirer cette dernière jusqu'au vote du Grand Conseil sur sa prise en considération.
+<sup>1</sup> L'auteur peut retirer son intervention jusqu'au moment de son développement. Dès l'ouverture de la discussion, le retrait n'est plus possible.
 
 <sup>2</sup> Les autres signataires ont toujours le droit de retirer leurs signatures avant le développement de la proposition.
 
@@ -1504,46 +1403,42 @@ L'intervention non encore traitée et dont l'auteur ne fait plus partie du Grand
 
 **Transformations**
 
-Lorsque les conditions formelles sont remplies et avec l'accord de leur auteur, peuvent être transformés:
+<sup>1</sup> Lorsque les conditions formelles sont remplies et avec l'accord de leur auteur, peuvent être transformés:
 
 - a) l'initiative en motion, postulat ou interpellation;
-
 - b) la motion en postulat ou interpellation;
-
 - c) le postulat en interpellation;
-
 - d) l'interpellation en question écrite.
 
-- b) Initiative parlementaire
+### 6.2 Initiative parlementaire
 
 #### Art. 131
 
-<sup>1</sup> Examen par la commission
+**Examen par la commission**
 
 <sup>1</sup> L'initiative parlementaire est transmise à une commission chargée d'entendre le Conseil d'Etat et de donner un préavis sur l'opportunité de la prendre en considération.
 
 <sup>2</sup> Si le Grand Conseil refuse l'opportunité, l'initiative est classée.
 
+- a) …
+- b) …
+- c) …
+
 <sup>3</sup> Si le Grand Conseil accepte l'opportunité, l'initiative est renvoyée à la même commission. Celle-ci examine en particulier:
 
 - a) l'état des travaux du Grand Conseil ou de l'administration sur un même objet;
-
 - b) les concordances éventuelles de l'initiative avec la planification intégrée pluriannuelle ou avec une initiative populaire annoncée ou déposée;
-
 - c) la possibilité de transformer l'initiative en motion, postulat ou interpellation.
 
 <sup>4</sup> Dans ce cadre, la commission peut:
 
 - a) refuser l'initiative;
-
 - b) modifier le but et la portée ainsi que le texte de l'initiative avec l'accord de son auteur;
-
 - c) présenter un contre-projet.
 
 <sup>5</sup> Pour l'élaboration de ses propositions, la commission peut:
 
 - a) demander à un expert ou au département compétent de la seconder dans ses travaux, le Conseil d'Etat n'étant cependant pas lié à l'avis du département;
-
 - b) demander au Conseil d'Etat d'ouvrir une procédure de consultation.
 
 <sup>6</sup> La commission présente le résultat de ses travaux au Conseil d'Etat pour prise de position avant de clore ses délibérations.
@@ -1572,11 +1467,11 @@ Lorsque les conditions formelles sont remplies et avec l'accord de leur auteur, 
 
 <sup>2</sup> Lors des débats, le Conseil d'Etat prend position au sujet de l'initiative et des propositions de la commission.
 
-- c) Motion
+### 6.3 Motion
 
 #### Art. 135
 
-<sup>1</sup> Développement
+**Développement**
 
 <sup>1</sup> La motion doit être portée à l'ordre du jour pour développement devant le Grand Conseil au plus tard dans les six mois qui suivent son dépôt.
 
@@ -1584,19 +1479,19 @@ Lorsque les conditions formelles sont remplies et avec l'accord de leur auteur, 
 
 <sup>3</sup> Le Grand Conseil peut décider le classement de la motion après son développement.
 
+<sup>4</sup> …
+
 #### Art. 136
 
-<sup>1</sup> Réponse du Conseil d'Etat
+**Réponse du Conseil d'Etat**
 
 <sup>1</sup> La motion développée, le Conseil d'Etat répond au plus tard dans les six mois.
 
 <sup>2</sup> Le texte de la réponse du Conseil d'Etat doit être déposé 40 jours avant la session et distribué à tous les députés avec les autres documents de la session.
 
-<sup>2bis</sup> La réponse doit contenir les informations en matière financière et de ressources humaines nécessaires à sa mise en application.[^136-1]
+<sup>2<sup>bis</sup></sup> La réponse doit contenir les informations en matière financière et de ressources humaines nécessaires à sa mise en application.
 
-<sup>3</sup> Abrogé.
-
-[^136-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+<sup>3</sup> …
 
 #### Art. 137
 
@@ -1606,15 +1501,17 @@ Lorsque les conditions formelles sont remplies et avec l'accord de leur auteur, 
 
 <sup>2</sup> Si la motion est combattue, une discussion générale est ouverte à tous les députés. Avant de se prononcer sur l'acceptation ou le refus de la motion, le Grand Conseil peut requérir exceptionnellement l'avis d'une commission. Celle-ci entend l'auteur de la motion s'il n'en est pas membre.
 
+<sup>3</sup> Si la motion est déjà réalisée, le Conseil d’État peut proposer son classement au Grand Conseil.
+
 #### Art. 138
 
-**Motion rejetée**
+**Motion rejetée ou classée**
 
-La motion rejetée par le Grand Conseil est rayée du registre.
+<sup>1</sup> La motion rejetée ou classée par le Grand Conseil est rayée du registre.
 
 #### Art. 139
 
-<sup>7</sup> Motion acceptée, réalisation
+**Motion acceptée - Réalisation**
 
 <sup>1</sup> La motion acceptée est renvoyée au Conseil d'Etat pour qu'il l'exécute.
 
@@ -1624,49 +1521,39 @@ La motion rejetée par le Grand Conseil est rayée du registre.
 
 <sup>4</sup> Le service parlementaire établit simultanément à la planification semestrielle le tableau du suivi des interventions parlementaires.
 
-- d) Postulat
+### 6.4 Postulat
 
 #### Art. 140
 
-La procédure relative à la motion (art. 135 à 139) est applicable par analogie au postulat.
+<sup>1</sup> La procédure relative à la motion (art. 135 à 139) est applicable par analogie au postulat.
 
-- e) Interpellation
-
-[^140-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
+### 6.5 Interpellation
 
 #### Art. 141
 
-[^140-1]
+<sup>1</sup> L'interpellation est traitée au Grand Conseil dans les six mois qui suivent son dépôt.
 
-<sup>1</sup> L'interpellation est développée oralement par son auteur dans les six mois qui suivent son dépôt.
+<sup>2</sup> Le Conseil d'Etat y répond par écrit. La réponse est transmise au Grand Conseil avec les documents de session.
 
-<sup>2</sup> Le Conseil d'Etat répond oralement et brièvement le même jour ou à la session suivante; l'interpellateur a ensuite le droit de déclarer s'il est satisfait ou non; son temps de parole est limité à trois minutes.
-
-<sup>3</sup> Le Conseil d'Etat peut adjoindre à sa réponse un texte distribué à tous les députés.
+<sup>3</sup> Une prise de parole par l'auteur est possible uniquement pour demander des précisions au Conseil d'Etat, son temps de parole est limité à trois minutes.
 
 <sup>4</sup> Un débat n'a lieu que si le Grand Conseil le décide.
 
-- f) Résolution
-
-[^141-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
+### 6.6 Résolution
 
 #### Art. 142
 
-[^141-1]
-
 <sup>1</sup> La proposition de résolution est développée par son auteur dans les six mois qui suivent son dépôt.
 
-<sup>2</sup> Si la résolution est combattue, la discussion générale est ouverte à tous les députés. Le Conseil d'Etat peut, dans tous les cas, s'exprimer.[^142-1]
+<sup>2</sup> Si la résolution est combattue, la discussion générale est ouverte à tous les députés. Le Conseil d'Etat peut, dans tous les cas, s'exprimer.
 
 <sup>3</sup> La résolution est ensuite soumise au vote.
 
-- g) Question écrite
-
-[^142-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+### 6.7 Question écrite
 
 #### Art. 143
 
-<sup>1</sup> Traitement
+**Traitement**
 
 <sup>1</sup> Le Conseil d'Etat répond par écrit dans un délai de deux mois suivant la date du dépôt.
 
@@ -1680,21 +1567,19 @@ La procédure relative à la motion (art. 135 à 139) est applicable par analogi
 
 <sup>1</sup> Une heure des questions est ouverte le dernier jour de chaque session pour permettre le traitement des questions d'actualité concernant le canton.
 
-<sup>2</sup> Les questions sont déposées par voie électronique jusqu'au premier jour de la session à dix heures. Elles sont rédigées succinctement, sans développement et ne visent qu'un seul objet.[^144-1]
+<sup>2</sup> Les questions sont déposées par voie électronique jusqu'au premier jour de la session à dix heures. Elles sont rédigées succinctement, sans développement et ne visent qu'un seul objet.
 
 <sup>3</sup> Les questions sont distribuées aux députés avant le début de la séance. Elles ne sont pas développées.
 
-<sup>4</sup> Le représentant du Conseil d'Etat y répond brièvement. Une réponse globale peut être donnée pour des questions portant sur un même sujet.[^144-1]
+<sup>4</sup> L'ensemble des députés reçoit la réponse écrite du Conseil d’Etat sous forme électronique au plus tard le dernier jour de la session à 11h00. Le représentant du Conseil d'Etat y répond brièvement. Une réponse globale peut être donnée pour des questions portant sur un même sujet.
 
-<sup>5</sup> La discussion n'est pas ouverte.
+<sup>5</sup> La discussion n'est pas ouverte, mais le dépositaire a le droit de prendre la parole, une seule fois et brièvement, pour des corrections matérielles à la suite de la réponse donnée par le représentant du Conseil d'Etat, si les informations ne sont pas jugées satisfaisantes.
 
 <sup>6</sup> Le bureau du Grand Conseil est chargé d'organiser le traitement équitable des questions
 
-[^144-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
+## 7 Procédures spéciales
 
-### Chapitre 6: Procédures spéciales
-
-- a) Pétitions
+### 7.1 Pétitions
 
 #### Art. 145
 
@@ -1720,7 +1605,7 @@ La procédure relative à la motion (art. 135 à 139) est applicable par analogi
 
 <sup>2</sup> Le Grand Conseil peut transmettre la pétition et sa prise de position au Conseil d'Etat pour information, cas échéant pour valoir comme motion ou postulat.
 
-- b) Consultations fédérales
+### 7.2 Consultations fédérales
 
 #### Art. 148
 
@@ -1732,7 +1617,7 @@ La procédure relative à la motion (art. 135 à 139) est applicable par analogi
 
 <sup>3</sup> Le Grand Conseil peut confier l'élaboration de la réponse à une commission.
 
-- c) Recours et actions auprès du Tribunal fédéral
+### 7.3 Recours et actions auprès du Tribunal fédéral
 
 #### Art. 149
 
@@ -1740,7 +1625,7 @@ La procédure relative à la motion (art. 135 à 139) est applicable par analogi
 
 <sup>2</sup> Les actions en responsabilité dévolues au Grand Conseil sont traitées conformément à la loi sur la responsabilité des collectivités publiques et de leurs agents.
 
-### Chapitre 7: Dispositions finales et transitoires
+## 8 Dispositions finales et transitoires
 
 #### Art. 150
 
@@ -1752,162 +1637,82 @@ La procédure relative à la motion (art. 135 à 139) est applicable par analogi
 
 #### Art. 151
 
-**Disposition transitoire**
-
-Les commissions de haute surveillance et les commissions spéciales en fonction lors de l'entrée en vigueur du présent règlement le restent jusqu'à la fin de leur mandat.
+**…**
 
 #### Art. 152
 
 **Entrée en vigueur**
 
-Le présent règlement entre en vigueur le 1<sup>er</sup> mai 2002.
-
-Ainsi décidé en séance du Grand Conseil, à Sion, le 13 septembre 2001.
-
-La présidente du Grand Conseil: Marie-Therese Schwery Les secrétaires: Roland Carron, Werner Lagger
-
-### Disposition transitoire selon la modification du 11 septembre 2015
-
-**1.05.2002**
-
-La présente modification entre en vigueur le 1<sup>er</sup> novembre 2015 à l’exception de l’article 18 alinéa 1 qui entre en vigueur le 1<sup>er</sup> mars 2017: " <sup>1</sup> Le président, les deux vice-présidents et les présidents des groupes politiques forment le bureau. Les groupes politiques composés de plus de 20 députés ont le droit de désigner un deuxième représentant au bureau."
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur RO/VS 2001, 216
-
-## Annexe 1 Indemnités parlementaires
-
-### Président du Grand Conseil
-
-Une indemnité de présidence annuelle de 30'000 francs.
-
-Une indemnité annuelle de secrétariat de 20'000 francs.
-
-Une indemnité de 250 francs par représentation officielle, y compris les frais de chauffeur, mais pour un maximum de 500 francs par jour.
-
-Une indemnité de 200 francs par demi-journée de session.[^hPrésidentduGrandC-1]
-
-[^hPrésidentduGrandC-1]: Modification du 11.02.2009 11.02.2009
-
-### Premier vice-président du Grand Conseil
-
-Une indemnité annuelle de 7’000 francs.
-
-Une indemnité de 200 francs par demi-journée de session.[^hPremiervicepréside-1] Une indemnité de 250 francs par représentation officielle, y compris les frais de chauffeur, mais pour un maximum de 500 francs par jour.
-
-[^hPremiervicepréside-1]: Modification du 11.02.2009 11.02.2009
-
-### Deuxième vice-président du Grand Conseil
-
-Une indemnité annuelle de 4’000 francs.
-
-Une indemnité de 200 francs par demi-journée de session.[^hDeuxièmeviceprésid-1] Une indemnité de 250 francs par représentation officielle, y compris les frais de chauffeur, mais pour un maximum de 500 francs par jour.
-
-[^hDeuxièmeviceprésid-1]: Modification du 11.02.2009 11.02.2009
-
-### Présidents de groupe
-
-[^hDeuxièmeviceprésid-1]
-
-Une indemnité annuelle de 3’000 francs
-
-### Bureau
-
-Une indemnité de 250 francs par séance.
-
-[^hBureau-1]: Modification du 11.02.2009 11.02.2009
-
-### Députés et suppléants
-
-[^hBureau-1]
-
-Une indemnité de 200 francs par demi-journée par séance au Grand Conseil et par séance de commission pour autant que le député ou le suppléant ne siège pas simultanément au plénum.
-
-Ces mêmes indemnités sont versées aux membres du Bureau du Grand Conseil si ces derniers sont appelés à faire partie d’une commission ordinaire du Grand Conseil.
-
-Une indemnité de 200 francs pour une séance de groupe, par session du Grand Conseil.
-
-### Présidents de commission
-
-Une indemnité de 200 francs par demi-journée de séance ou de préparation.[^hPrésidentsdecommis-1]
-
-[^hPrésidentsdecommis-1]: Modification du 11.02.2009 11.02.2009
-
-### Indemnités horaires
-
-Une indemnité supplémentaire de 50 francs par heure pour - la rédaction du rapport par le rapporteur - d'autres travaux administratifs sur délégation du président
-
-### Indemnités informatiques
-
-Une indemnité informatique de 600 francs par an.
-
-### Indemnités de déplacement
-
-Une indemnité kilométrique de 70 centimes pour l'utilisation du véhicule privé.
-
-### Indemnités pour séance de nuit
-
-Une indemnité supplémentaire de 110 francs pour une séance de nuit dès 18h00.
-
-### Indemnités de logement
-
-Une indemnité supplémentaire de 100 francs par nuit au député qui doit se rendre la veille au lieu des délibérations ou qui ne peut rejoindre son domicile le jour même de la séance.
-
-### Frais de repas
-
-Lorsqu'une commission siège plus d'une matinée ou plusieurs jours, les frais usuels, c'est-à-dire les frais de repas, de boissons de table, à l'exclusion de toutes boissons en dehors des repas au cas où le député ne peut rejoindre son domicile, les frais de chambre d'hôtel sont pris en charge par le budget du Grand Conseil.
-
-[^hFraisderepas-1]: Modification 14.06.2012 BO No 9/2013 1.05.2013
-
-### Indemnités de groupe
-
-[^hFraisderepas-1]
-
-Chaque groupe parlementaire reçoit une indemnité annuelle de 6000 francs. De plus, il est versé une indemnité supplémentaire de 5000 francs pour chaque député du groupement. Le député qui n'appartient à aucun groupe parlementaire ne bénéficie que de la contribution minimale de 5000 francs.
-
-## Annexe 2
-
-[^hAnnexe2-1]: Modification du 9.10.2008 RO/VS 2009, 263 1.03.2009
-
-### Délais de travail Dernier jeudi des mois de mai et de novembre
-
-[^hAnnexe2-1]
-
-Remise par le Conseil d’Etat de la planification semestrielle des objets qu’il souhaite voir traités par le parlement (art. 63 al. 2 LOCRP).
-
-### Dix semaines avant la session du Grand Conseil
-
-Transmission par le Conseil d’Etat de la liste détaillée des objets adoptés ainsi que des rapports (art. 63 al. 3 LOCRP et art. 123 al. 1 du règlement du Grand Conseil).
-
-### Huit semaines avant la session du Grand Conseil
-
-Transmission par le Conseil d’Etat du budget et de la planification intégrée pluriannuelle (art. 123 al. 1 du règlement du Grand Conseil).
-
-### 40 jours avant la session du Grand Conseil
-
-Dépôt du rapport écrit de la commission (art. 38 al. 2 du règlement du Grand Conseil).
-
-Dépôt par le Conseil d’Etat des réponses aux motions et aux postulats (art. 136 al. 2 du règlement du Grand Conseil).
-
-[^h40joursavantlase-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
-
-### 20 jours, en règle générale, avant la séance de la commission
-
-[^h40joursavantlase-1]
-
-Convocation par le président de la commission des commissaires.
-
-[^h20joursenrègleg-1]: Modification du 11.09.2015 BO No 41/2015 01.11.2015 à l'exception de l'art. 18 al. 1 qui entre en vigueur le 1er mars 2017
-
-### 20 jours avant la session du Grand Conseil
-
-[^h20joursenrègleg-1]
-
-Convocation par le président du Grand Conseil des députés à la session et envoi des documents par voie électronique (art. 64 al. 1 LOCRP et art. 73bis al. 2 du règlement du Grand Conseil).
-
-## Autres notes
-
-- [4] Modification du 17.03.2011 BO No 14/2011 17.03.2011
+<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> mai 2002.
+
+## A1 Annexe 1 à l'article 7
+
+#### Art. A1-1
+
+**Indemnités parlementaires**
+
+<sup>1</sup> Indemnités parlementaires:
+
+- a) Président du Grand Conseil:
+  - 1\. une indemnité de présidence annuelle de 30'000 francs,
+  - 2\. une indemnité annuelle de secrétariat de 20'000 francs,
+  - 3\. une indemnité de 250 francs par représentation officielle, y compris les frais de chauffeur, mais pour un maximum de 500 francs par jour,
+  - 4\. une indemnité de 200 francs par demi-journée de session;
+- b) premier vice-président du Grand Conseil:
+  - 1\. une indemnité annuelle de 7'000 francs,
+  - 2\. une indemnité de 200 francs par demi-journée de session,
+  - 3\. une indemnité de 250 francs par représentation officielle, y compris les frais de chauffeur, mais pour un maximum de 500 francs par jour;
+- c) deuxième vice-président du Grand Conseil:
+  - 1\. une indemnité annuelle de 4'000 francs,
+  - 2\. une indemnité de 200 francs par demi-journée de session,
+  - 3\. une indemnité de 250 francs par représentation officielle, y compris les frais de chauffeur, mais pour un maximum de 500 francs par jour;
+- d) Présidents de groupe:
+  - 1\. une indemnité annuelle de 3'000 francs;
+- e) bureau:
+  - 1\. une indemnité de 250 francs par séance;
+- f) députés et suppléants:
+  - 1\. une indemnité de 200 francs par demi-journée par séance au Grand Conseil et par séance de commission pour autant que le député ou le suppléant ne siège pas simultanément au plénum,
+  - 2\. ces mêmes indemnités sont versées aux membres du Bureau du Grand Conseil si ces derniers sont appelés à faire partie d’une commission ordinaire du Grand Conseil,
+  - 3\. une indemnité de 200 francs pour une séance de groupe, par session du Grand Conseil;
+- g) Présidents de commission:
+  - 1\. une indemnité de 200 francs par demi-journée de séance ou de préparation;
+- h) indemnités horaires:
+  - 1\. une indemnité supplémentaire de 50 francs par heure pour:
+  - 1\.1. la rédaction du rapport par le rapporteur,
+  - 1\.2. d'autres travaux administratifs sur délégation du président;
+- i) indemnités informatiques:
+  - 1\. une indemnité informatique de 600 francs par an;
+- j) indemnités de déplacement:
+  - 1\. une indemnité kilométrique de 70 centimes pour l'utilisation du véhicule privé;
+- k) indemnités pour séance de nuit:
+  - 1\. une indemnité supplémentaire de 110 francs pour une séance de nuit dès 18h00;
+- l) indemnités de logement:
+  - 1\. une indemnité supplémentaire de 100 francs par nuit au député qui doit se rendre la veille au lieu des délibérations ou qui ne peut rejoindre son domicile le jour même de la séance;
+- m) frais de repas:
+  - 1\. lorsqu'une commission siège plus d'une matinée ou plusieurs jours, les frais usuels, c'est-à-dire les frais de repas, de boissons de table, à l'exclusion de toutes boissons en dehors des repas au cas où le député ne peut rejoindre son domicile, les frais de chambre d'hôtel sont pris en charge par le budget du Grand Conseil;
+- n) indemnités de groupe:
+  - 1\. chaque groupe parlementaire reçoit une indemnité annuelle de 6'000 francs. De plus, il est versé une indemnité supplémentaire de 5'000 francs pour chaque député du groupement. Le député qui n'appartient à aucun groupe parlementaire ne bénéficie que de la contribution minimale de 5'000 francs.
+
+## A2 Annexe 2 à l'article 69
+
+#### Art. A2-1
+
+**Délais de travail**
+
+<sup>1</sup> Délais de travail:
+
+- a) dernier jeudi des mois de mai et de novembre:
+  - 1\. remise par le Conseil d’Etat de la planification semestrielle des objets qu’il souhaite voir traités par le parlement (art. 63 al. 2 LOCRP);
+- b) dix semaines avant la session du Grand Conseil:
+  - 1\. transmission par le Conseil d’Etat de la liste détaillée des objets adoptés ainsi que des rapports (art. 63 al. 3 LOCRP et art. 123 al. 1 RGC);
+- c) huit semaines avant la session du Grand Conseil:
+  - 1\. transmission par le Conseil d’Etat du budget et de la planification intégrée pluriannuelle (art. 123 al. 1 RGC);
+- d) 40 jours avant la session du Grand Conseil:
+  - 1\. dépôt du rapport écrit de la commission (art. 38 al. 2 RGC),
+  - 2\. dépôt par le Conseil d’Etat des réponses aux motions et aux postulats (art. 136 al. 2 RGC);
+- e) 20 jours avant la session du Grand Conseil:
+  - 1\. convocation par le président du Grand Conseil des députés à la session et envoi des documents par voie électronique (art. 64 al. 1 LOCRP et art. 73a al. 2 RGC);
+- f) 20 jours, en règle générale, avant la séance de la commission:
+  - 1\. convocation par le président de la commission des commissaires.
+
+RCV RO/AGS 2001 f 216 | d 221
