@@ -4,11 +4,11 @@ title: Verordnung vom 2. März 2018 über den Bundesstab Bevölkerungsschutz (VB
 short: VBSTB
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/162"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-03-02
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/162/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-162-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/162/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-162-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20210101/de"
 
 (VBSTB)
 
-vom 2. März 2018 (Stand am 1. Januar 2021)
+vom 2. März 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -127,7 +127,7 @@ In der Direktorenkonferenz sind vertreten:
 - b. die Direktorinnen und Direktoren der Bundesämter und Anstalten des Bundes nach Anhang 1;
 - c. die Chefinnen und Chefs der kantonalen Führungsorganisationen oder deren Stabschefinnen und Stabschefs;
 - d. die Generalsekretärinnen und Generalsekretäre der kantonalen Regierungskonferenzen;
-- e. die oder der Delegierte des Sicherheitsverbunds Schweiz und die oder der Beauftragte des Bundesrats für den Koordinierten Sanitätsdienst.
+- e.[^7-1] die oder der Delegierte des Sicherheitsverbunds Schweiz.
 
 <sup>2</sup>
 
@@ -147,6 +147,8 @@ Hinzugezogen werden können:
 <sup>6</sup> Jedes Mitglied bezeichnet eine Stellvertretung.
 
 <sup>7</sup> Die Direktorenkonferenz legt die Aufgaben und Verantwortlichkeiten des BSTB sowie die Verfahren und Prozesse in einer Geschäftsordnung fest.
+
+[^7-1]: Fassung gemäss Ziff. II 1 der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 8
 
@@ -233,13 +235,13 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 3 geregelt.
 
 Diese Verordnung tritt am 1. April 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 6 Abs. 2)
 
 ## Ständige Mitglieder des BSTB
 
-[^t-1]: Bereinigt gemäss Anhang Ziff. 14 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
+[^t-1]: Bereinigt gemäss Anhang Ziff. 14 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)) und Ziff. II 1 der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 Ständige Mitglieder des BSTB sind:
 
@@ -272,7 +274,7 @@ Ständige Mitglieder des BSTB sind:
 
   - 5\.1 BABS,
   - 5\.2 Kommando Operationen der Armee,
-  - 5\.3 Koordinierter Sanitätsdienst,
+  - 5\.3 …
   - 5\.4 Nachrichtendienst des Bundes,
   - 5\.5 Bundesamt für Landestopografie;
 
@@ -281,7 +283,7 @@ Ständige Mitglieder des BSTB sind:
   aus dem Eidgenössischen Finanzdepartement:
 
   - 6\.1 Eidgenössische Zollverwaltung,
-  - 6\.2 ...
+  - 6\.2 …
 
 - 7\.
 
@@ -325,7 +327,7 @@ Ständige Mitglieder des BSTB sind:
 
 [^annex1-lvlu1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 - [tab]
 - [tab]
@@ -346,7 +348,7 @@ II
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex3-lvlu1-2]
+…[^annex3-lvlu1-2]
 
 [^annex3-lvlu1-1]: [[AS 2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765), [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)Anhang Ziff. 3, [2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)Anhang 11 Ziff. 3]
 [^annex3-lvlu1-2]: Die Änderungen können unter [AS 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)konsultiert werden.

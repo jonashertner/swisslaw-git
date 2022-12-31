@@ -4,11 +4,11 @@ title: "Ordonnance du 2 mars 2018 sur l'État-major fédéral Protection de la p
 short: OEMFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/162"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-03-02
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/162/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-162-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/162/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-162-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20210101/fr"
 
 (OEMFP)
 
-du 2 mars 2018 (Etat le 1<sup>er</sup> janvier 2021)
+du 2 mars 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -127,7 +127,7 @@ Sont représentés à la conférence des directeurs:
 - b. les directeurs des offices et établissements fédéraux visés à l’annexe 1;
 - c. les chefs des organisations cantonales de conduite ou les chefs d’état-major de celles-ci;
 - d. les secrétaires généraux des conférences des gouvernements cantonaux;
-- e. le délégué au Réseau national de sécurité et le mandataire du Conseil fédéral pour le Service sanitaire coordonné.
+- e.[^7-1] le délégué au Réseau national de sécurité.
 
 <sup>2</sup>
 
@@ -147,6 +147,8 @@ Peuvent être invités aux séances:
 <sup>6</sup> Chaque membre désigne son suppléant.
 
 <sup>7</sup> La conférence des directeurs définit les tâches et les responsabilités de l’EMFP ainsi que les procédures et les processus dans un règlement.
+
+[^7-1]: Nouvelle teneur selon le ch. II 1 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 8
 
@@ -233,11 +235,13 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2018.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 6, al. 2)
 
 ## Membres permanents de l’EMFP
+
+[^t-1]: Mise à jour par l’annexe ch. 14 de l’O du 25 nov. 2020 sur la transformation numérique et l’informatique ([RO 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)) et le ch. II 1 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 Les membres permanents de l’EMFP sont:
 
@@ -270,7 +274,7 @@ Les membres permanents de l’EMFP sont:
 
   - 5\.1 l’OFPP,
   - 5\.2 le Commandement des opérations de l’armée,
-  - 5\.3 le Service sanitaire coordonné,
+  - 5\.3 …
   - 5\.4 le Service de renseignement de la Confédération,
   - 5\.5 l’Office fédéral de topographie;
 
@@ -278,8 +282,7 @@ Les membres permanents de l’EMFP sont:
 
   les unités suivantes du Département fédéral des finances:
 
-  - 6\.1 l’Administration fédérale des douanes,
-  - 6\.2 l’Organe de pilotage informatique de la Confédération;
+  - 6\.1 l’Administration fédérale des douanes;
 
 - 7\.
 
@@ -323,9 +326,9 @@ Les membres permanents de l’EMFP sont:
 
 [^annex1-lvlu1-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
-Annexe 2*[^t-1]*
+Annexe 2[^t-2]
 
-[^t-1]: Abrogée par l’annexe 3 ch. II 5 de l’O du 11 nov. 2020 sur la protection de la population, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-2]: Abrogée par l’annexe 3 ch. II 5 de l’O du 11 nov. 2020 sur la protection de la population, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 
 Annexe 3
 
@@ -339,10 +342,9 @@ L’ordonnance du 20 octobre 2010 sur les interventions ABCN[^annex3-lvlu1-1] es
 
 II
 
-### Les ordonnances ci-après sont modifiées comme suit:
+Les ordonnances ci-après sont modifiées comme suit:
+
+…[^annex3-lvlu1-2]
 
 [^annex3-lvlu1-1]: [[RO 2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765), [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)annexe ch. 3, [2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)annexe 11 ch. 3]
-
-…[^annex3-lvlu1-lvlu1-1]
-
-[^annex3-lvlu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162).
+[^annex3-lvlu1-2]: Les mod. peuvent être consultées au [RO 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162).

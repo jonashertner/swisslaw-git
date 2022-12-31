@@ -4,11 +4,11 @@ title: Ordinanza del 2 marzo 2018 sullo Stato maggiore federale Protezione della
 short: OSMFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/162"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-03-02
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/162/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-162-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/162/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-162-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/162/20210101/it"
 
 (OSMFP)
 
-del 2 marzo 2018 (Stato 1° gennaio 2021)
+del 2 marzo 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -127,7 +127,7 @@ Nella conferenza dei direttori sono rappresentati:
 - b. i direttori degli uffici e degli istituti federali secondo l’allegato 1;
 - c. i capi delle organizzazioni cantonali di condotta oppure i loro capi di stato maggiore;
 - d. i segretari generali delle conferenze governative cantonali;
-- e. il delegato della rete integrata Svizzera per la sicurezza e l’incaricato del Consiglio federale per il Servizio sanitario coordinato.
+- e.[^7-1] il delegato della Rete integrata Svizzera per la sicurezza.
 
 <sup>2</sup>
 
@@ -147,6 +147,8 @@ Possono essere coinvolti inoltre:
 <sup>6</sup> Ciascun membro designa un suo sostituto.
 
 <sup>7</sup> La conferenza dei direttori definisce i compiti e le responsabilità dello SMFP nonché le procedure e i processi in un regolamento interno.
+
+[^7-1]: Nuovo testo giusta il n. II 1 dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 8
 
@@ -233,11 +235,13 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 La presente ordinanza entra in vigore il 1° aprile 2018.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 6 cpv. 2)
 
 ## Membri permanenti dello SMFP
+
+[^t-1]: Aggiornato dall’all. n. 14 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)) e dal n. II 1 dell’O del 23 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 I membri permanenti dello SMFP sono:
 
@@ -270,7 +274,7 @@ I membri permanenti dello SMFP sono:
 
   - 5\.1 l’UFPP,
   - 5\.2 il Comando operazioni dell’esercito,
-  - 5\.3 il Servizio sanitario coordinato,
+  - 5\.3 ...
   - 5\.4 il Servizio delle attività informative della Confederazione,
   - 5\.5 l’Ufficio federale di topografia;
 
@@ -279,7 +283,6 @@ I membri permanenti dello SMFP sono:
   le unità seguenti del Dipartimento federale delle finanze:
 
   - 6\.1 l’Amministrazione federale delle dogane,
-  - 6\.2 l’Organo direzione informatica della Confederazione;
 
 - 7\.
 
@@ -323,9 +326,9 @@ I membri permanenti dello SMFP sono:
 
 [^annex1-lvlu1-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2019.
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-2]
 
-[^t-1]: Abrogato dall’all. 3 n. II 5 dell’O dell’11 nov. 2020 sulla protezione della popolazione, con effetto dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-2]: Abrogato dall’all. 3 n. II 5 dell’O dell’11 nov. 2020 sulla protezione della popolazione, con effetto dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 
 Allegato 3
 
