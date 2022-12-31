@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Verordnung des UVEK vom 30. April 2018 über elektrische Niederspannungsinstallationen
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: de
-version: 2018-06-01
+version: 2023-01-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20180601/de/xml/fedlex-data-admin-ch-eli-cc-2018-288-20180601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20180601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-288-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über elektrische Niederspannungsinstallationen
 
-vom 30. April 2018 (Stand am 1. Juni 2018)
+vom 30. April 2018 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -134,11 +134,16 @@ Zur Prüfung für Arbeiten an betriebseigenen Installationen wird zugelassen, we
 
 Die Prüfung umfasst:
 
-- a. die Grundlagen der Elektrotechnik: mündlich und schriftlich je 30 Minuten;;
-- b. den sicheren Umgang mit Elektrizität: mündlich, 30 Minuten;
-- c. die Installationsvorschriften und -normen: mündlich, 30 Minuten;
-- d. die Installationskontrolle und Messkunde: mündlich, 30 Minuten;
-- e. Anschlusstechnik und Materialkunde: praktisch/mündlich, 30 Minuten.
+- a. die Grundlagen der Elektrotechnik;
+- b. den sicheren Umgang mit Elektrizität;
+- c. die Installationsvorschriften und -normen;
+- d. die Installationskontrolle und Messkunde;
+- e. die Anschlusstechnik und Materialkunde.[^7-1]
+
+<sup>3</sup> Die Prüfungskommission legt die Dauer der einzelnen Prüfungsteile fest.[^7-2]
+
+[^7-1]: Fassung gemäss Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^7-2]: Eingefügt durch Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 8
 
@@ -146,9 +151,11 @@ Die Prüfung umfasst:
 
 <sup>1</sup> Bei der Prüfung für das Erstellen besonderer elektrischer Installationen und für das Anschliessen von elektrischen Erzeugnissen wird geprüft, ob die betreffende Person über die dafür notwendigen Fähigkeiten und Kenntnisse verfügt.
 
-<sup>2</sup> Bezüglich Fächerstruktur und Dauer der Prüfungen gilt Artikel 7 Absatz 2 sinngemäss.
+<sup>2</sup> Bezüglich der Fächerstruktur und der Dauer der einzelnen Prüfungsteile gilt Artikel 7 Absatz 2 und 3 sinngemäss.[^8-1]
 
 <sup>3</sup> Die Anforderungen und der Prüfungsstoff werden jeweils nach Art der Installation, für welche die Prüfung abgelegt werden soll, von der Prüfungskommission bestimmt.
+
+[^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 9
 
@@ -156,13 +163,16 @@ Die Prüfung umfasst:
 
 <sup>1</sup> Die Prüfungskommission organisiert die Prüfungen mindestens einmal jährlich.
 
-<sup>2</sup> Die Anmeldung zur Prüfung hat schriftlich zu erfolgen. Ihr sind die Unterlagen beizufügen, die belegen, dass die Zulassungsvoraussetzungen erfüllt sind, insbesondere Fähigkeitszeugnisse, Diplome, Arbeitszeugnisse zum Praxisnachweis.
+<sup>2</sup> Die Anmeldung zur Prüfung kann schriftlich oder elektronisch erfolgen. Ihr sind die Unterlagen beizufügen, die belegen, dass die Zulassungsvoraussetzungen erfüllt sind, insbesondere Fähigkeitszeugnisse, Diplome, Arbeitszeugnisse zum Praxisnachweis.[^9-1]
 
-<sup>3</sup> Die Prüfungskommission entscheidet über die Zulassung der Kandidaten und Kandidatinnen zur Prüfung und teilt ihnen den Entscheid spätestens vier Wochen vor der Prüfung schriftlich mit.
+<sup>3</sup> Die Prüfungskommission entscheidet über die Zulassung der Kandidaten und Kandidatinnen zur Prüfung und teilt ihnen den Entscheid spätestens vier Wochen vor der Prüfung schriftlich mit. Hat der Kandidat oder die Kandidatin einer elektronischen Übermittlung zugestimmt, so kann die Mitteilung auf diesem Weg erfolgen.[^9-2]
 
 <sup>4</sup> Die Prüfungen werden in Deutsch, Französisch oder Italienisch durchgeführt.
 
 <sup>5</sup> Die Prüfungen sind nicht öffentlich.
+
+[^9-1]: Fassung gemäss Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^9-2]: Fassung gemäss Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 10
 
@@ -247,11 +257,14 @@ Es ist für folgende Kontrollen zu erstellen:
 
 #### Art. 15
 
-<sup>1</sup> Das Inspektorat erhebt für die Durchführung der Prüfungen Gebühren gemäss der Verordnung vom 7. Dezember 1992[^15-1] über das Eidgenössische Starkstrominspektorat.
+[^15-1]
 
-<sup>2</sup> Die Gebühr wird zurückerstattet, wenn sich der Kandidat oder die Kandidatin spätestens zehn Arbeitstage vor der Prüfung abgemeldet hat oder wenn er oder sie aus triftigen Gründen, die nachher eingetreten sind, nicht an der Prüfung teilnehmen kann.
+<sup>1</sup> Das Inspektorat erhebt für die Durchführung der Prüfungen Gebühren nach den Artikeln 9 und 10 der Verordnung vom 7. Dezember 1992[^15-2] über das Eidgenössische Starkstrominspektorat. Es verlangt bei der Anmeldung die Vorauszahlung der Prüfungsgebühr.
 
-[^15-1]: [SR 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+<sup>2</sup> Die Gebühr wird ermässigt, wenn der Kandidat oder die Kandidatin aus triftigen Gründen, die nach der Anmeldung eingetreten sind, nicht an der Prüfung teilnehmen kann. In diesem Fall wird der entsprechende Teil der Vorauszahlung zurückerstattet.
+
+[^15-1]: Fassung gemäss Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^15-2]: [SR 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
 
 ## 6. Abschnitt: Schlussbestimmungen
 
@@ -261,7 +274,7 @@ Es ist für folgende Kontrollen zu erstellen:
 
 Die Verordnung des UVEK vom 15. Mai 2002[^16-1] über elektrische Niederspannungsinstallationen wird aufgehoben.
 
-[^16-1]: [[AS 2002 1367](https://fedlex.data.admin.ch/eli/oc/2002/207), [2004 2147](https://fedlex.data.admin.ch/eli/oc/2004/248)]
+[^16-1]: [[AS 2002 1367](https://fedlex.data.admin.ch/eli/oc/2002/207); [2004 2147](https://fedlex.data.admin.ch/eli/oc/2004/248)]
 
 #### Art. 17
 

@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Ordonnance du DETEC du 30 avril 2018 sur les installations électriques à basse tension
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: fr
-version: 2018-06-01
+version: 2023-01-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20180601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20180601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20180601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-288-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DETEC sur les installations électriques à basse tension
 
-du 30 avril 2018 (Etat le 1<sup>er</sup> juin 2018)
+du 30 avril 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -134,11 +134,16 @@ Pour être admis à l’examen concernant les travaux effectués sur des install
 
 L’examen porte sur:
 
-- a. les bases de l’électrotechnique: épreuve orale et épreuve écrite de 30 min. chacune;
-- b. l’utilisation de l’électricité en toute sécurité: épreuve orale de 30 min.;
-- c. les normes et prescriptions d’installation: épreuve orale de 30 min.;
-- d. le contrôle de l’installation et la métrologie: épreuve orale de 30 min.;
-- e. les techniques de raccordement et la connaissance du matériel: épreuve pratique/orale de 30 min.
+- a. les bases de l’électrotechnique;
+- b. l’utilisation de l’électricité en toute sécurité;
+- c. les normes et prescriptions d’installation;
+- d. le contrôle de l’installation et la métrologie;
+- e. les techniques de raccordement et la connaissance du matériel.[^7-1]
+
+<sup>3</sup> La commission d’examen fixe la durée des différentes parties de l’examen.[^7-2]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^7-2]: Introduit par le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 8
 
@@ -146,9 +151,11 @@ L’examen porte sur:
 
 <sup>1</sup> Le candidat à l’examen de montage d’installations électriques spéciales ou de raccordement de matériels électriques doit prouver qu’il possède les capacités et les connaissances requises pour procéder au montage d’installations électriques spéciales et au raccordement de matériels électriques.
 
-<sup>2</sup> L’art. 7, al. 2, s’applique par analogie au contenu de l’examen et à la durée des épreuves.
+<sup>2</sup> L’art. 7, al. 2 et 3, s’applique par analogie au contenu de l’examen et à la durée de ses différentes parties.[^8-1]
 
 <sup>3</sup> Les exigences et les sujets sont fixés par la commission d’examen en fonction du genre de travaux que le candidat se propose d’exécuter.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 9
 
@@ -156,13 +163,16 @@ L’examen porte sur:
 
 <sup>1</sup> La commission d’examen organise les examens au moins une fois par année.
 
-<sup>2</sup> L’inscription à l’examen s’effectue par écrit. La demande doit être accompagnée des pièces prouvant que les conditions d’admission sont remplies, en particulier des certificats de capacité, des diplômes et des certificats de travail attestant la pratique du candidat.
+<sup>2</sup> L’inscription à l’examen peut s’effectuer par écrit ou par voie électronique. La demande doit être accompagnée des pièces prouvant que les conditions d’admission sont remplies, en particulier des certificats de capacité, des diplômes et des certificats de travail attestant la pratique du candidat.[^9-1]
 
-<sup>3</sup> La commission d’examen décide de l’admission et en informe le candidat, par écrit, au plus tard quatre semaines avant la session d’examen.
+<sup>3</sup> La commission d’examen décide de l’admission et en informe le candidat par écrit au plus tard quatre semaines avant la session d’examen. Si le candidat a accepté d’être informé par voie électronique, il est possible de lui notifier son admission à l’examen par ce biais.[^9-2]
 
 <sup>4</sup> Les examens ont lieu en allemand, en français ou en italien.
 
 <sup>5</sup> Ils ne sont pas publics.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 10
 
@@ -170,7 +180,7 @@ L’examen porte sur:
 
 <sup>1</sup> Les résultats de l’examen sont notés de 6 à 1. Les notes 4 et au-dessus correspondent à des résultats suffisants; celles inférieures à 4 correspondent à des résultats insuffisants. Seules sont en outre admises les demi-notes.
 
-<sup>2</sup> Echelonnement des notes:
+<sup>2</sup> Échelonnement des notes:
 
 <table>
 <tr><th>Note</th><th>Appréciations</th></tr>
@@ -243,15 +253,18 @@ Il est établi pour les contrôles suivants:
 - d. le contrôle périodique (art. 36 OIBT);
 - e. le contrôle ponctuel (art. 39, al. 1, OIBT).
 
-## Section 5 Emoluments
+## Section 5 Émoluments
 
 #### Art. 15
 
-<sup>1</sup> L’Inspection perçoit des émoluments pour l’organisation des examens conformément à l’ordonnance du 7 décembre 1992 sur l’Inspection fédérale des installations à courant fort[^15-1].
+[^15-1]
 
-<sup>2</sup> L’émolument est remboursé si le candidat se désiste au moins dix jours ouvrables avant l’examen ou si des motifs valables survenus après ce délai l’empêchent de s’y présenter.
+<sup>1</sup> L’Inspection perçoit des émoluments pour l’organisation des examens conformément aux art. 9 et 10 de l’ordonnance du 7 décembre 1992 sur l’Inspection fédérale des installations à courant fort[^15-2]. Lors de l’inscription, elle demande le paiement anticipé de l’émolument.
 
-[^15-1]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+<sup>2</sup> L’émolument est réduit si des motifs valables survenus après l’inscription empêchent le candidat de se présenter à l’examen. Dans ce cas, la partie du paiement anticipé correspondant aux frais d’examen est remboursée.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^15-2]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
 
 ## Section 6 Dispositions finales
 
@@ -261,7 +274,7 @@ Il est établi pour les contrôles suivants:
 
 L’ordonnance du DETEC du 15 mai 2002 sur les installations électriques à basse tension[^16-1] est abrogée.
 
-[^16-1]: [[RO 2002 1367](https://fedlex.data.admin.ch/eli/oc/2002/207), [2004 2147](https://fedlex.data.admin.ch/eli/oc/2004/248)]
+[^16-1]: [[RO 2002 1367](https://fedlex.data.admin.ch/eli/oc/2002/207); [2004 2147](https://fedlex.data.admin.ch/eli/oc/2004/248)]
 
 #### Art. 17
 

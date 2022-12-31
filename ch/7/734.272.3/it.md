@@ -3,18 +3,18 @@ sr: "734.272.3"
 title: Ordinanza del DATEC del 30 aprile 2018 sugli impianti elettrici a bassa tensione
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/288"
 language: it
-version: 2018-06-01
+version: 2023-01-01
 adopted: 2018-04-30
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20180601/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20180601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20180601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/288/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-288-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/288/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sugli impianti elettrici a bassa tensione
 
-del 30 aprile 2018 (Stato 1° giugno 2018)
+del 30 aprile 2018 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -134,11 +134,16 @@ La Commissione d’esame è composta:
 
 L’esame comprende le materie seguenti:
 
-- a. nozioni di base di elettrotecnica: prova scritta e orale, ciascuna di 30 minuti;
-- b. utilizzazione sicura dell’elettricità: prova orale, 30 minuti;
-- c. prescrizioni e norme d’installazione: prova orale, 30 minuti;
-- d. controllo degli impianti e metrologia: prova orale, 30 minuti;
-- e. tecnica di raccordo e scienza dei materiali: prova pratica/orale, 30 minuti.
+- a. nozioni di base di elettrotecnica;
+- b. utilizzazione sicura dell’elettricità;
+- c. prescrizioni e norme d’installazione;
+- d. controllo degli impianti e metrologia;
+- e. tecnica di raccordo e scienza dei materiali.[^7-1]
+
+<sup>3</sup> La Commissione d’esame stabilisce la durata dell’esame di ogni singola materia.[^7-2]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^7-2]: Introdotto dal n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 8
 
@@ -146,9 +151,11 @@ L’esame comprende le materie seguenti:
 
 <sup>1</sup> Durante l’esame per l’installazione di impianti elettrici speciali e per il raccordo di materiali elettrici si verifica se il candidato possiede le necessarie capacità e conoscenze.
 
-<sup>2</sup> Per le materie e la durata dell’esame si applica per analogia l’articolo 7 capoverso 2.
+<sup>2</sup> Alle materie e alla durata dell’esame di ogni singola materia si applica per analogia l’articolo 7 capoversi 2 e 3.[^8-1]
 
 <sup>3</sup> I requisiti e le materie d’esame sono definiti di volta in volta dalla Commissione d’esame in funzione del tipo d’impianto per il quale deve essere sostenuto l’esame.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 9
 
@@ -156,13 +163,16 @@ L’esame comprende le materie seguenti:
 
 <sup>1</sup> La Commissione d’esame organizza gli esami almeno una volta all’anno.
 
-<sup>2</sup> L’iscrizione all’esame deve essere presentata per iscritto. Vanno allegati i documenti comprovanti l’adempimento delle condizioni di ammissione, in particolare certificati di capacità, diplomi e attestati di lavoro a dimostrazione dell’attività pratica svolta.
+<sup>2</sup> L’iscrizione all’esame può essere presentata per iscritto o in formato elettronico. Vanno allegati i documenti comprovanti l’adempimento delle condizioni di ammissione, in particolare certificati di capacità, diplomi e attestati di lavoro a dimostrazione dell’attività pratica svolta.[^9-1]
 
-<sup>3</sup> La Commissione d’esame decide sull’ammissione dei candidati e comunica loro la decisione per iscritto al più tardi quattro settimane prima dell’inizio delle prove.
+<sup>3</sup> La Commissione d’esame decide sull’ammissione dei candidati e comunica loro la decisione per iscritto al più tardi quattro settimane prima dell’esame. Se il candidato ha acconsentito alla trasmissione per via elettronica, la comunicazione della decisione può essere notificata in formato elettronico.[^9-2]
 
 <sup>4</sup> Gli esami sono svolti in tedesco, francese o italiano.
 
 <sup>5</sup> Gli esami non sono pubblici.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
 
 #### Art. 10
 
@@ -173,7 +183,7 @@ L’esame comprende le materie seguenti:
 <sup>2</sup> La scala dei voti è la seguente:
 
 <table>
-<tr><th>Voto</th><th>prestazioni</th></tr>
+<tr><th>Voto</th><th>Prestazioni</th></tr>
 <tr><td>6</td><td>quantitativamente e qualitativamente ottimo</td></tr>
 <tr><td>5</td><td>buono, corrispondente agli obiettivi</td></tr>
 <tr><td>4</td><td>corrispondente ai requisiti minimi</td></tr>
@@ -247,11 +257,14 @@ Esso deve essere redatto per i seguenti controlli:
 
 #### Art. 15
 
-<sup>1</sup> Per lo svolgimento degli esami l’Ispettorato riscuote tasse conformemente all’ordinanza del 7 dicembre 1992[^15-1] sull’Ispettorato federale degli impianti a corrente forte.
+[^15-1]
 
-<sup>2</sup> La tassa è rimborsata se il candidato notifica il suo ritiro al più tardi 10 giorni lavorativi prima dell’esame oppure se non può parteciparvi per motivi validi subentrati nel frattempo.
+<sup>1</sup> Per lo svolgimento degli esami l’Ispettorato riscuote tasse conformemente agli articoli 9 e 10 dell’ordinanza del 7 dicembre 1992[^15-2] sull’Ispettorato federale degli impianti a corrente forte. Al momento dell’iscrizione l’Ispettorato richiede il pagamento anticipato della tassa d’esame.
 
-[^15-1]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
+<sup>2</sup> La tassa è ridotta se il candidato non può partecipare all’esame per motivi validi subentrati dopo l’iscrizione. In questo caso la quota corrispondente del pagamento anticipato è rimborsata.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del DATEC del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 801](https://fedlex.data.admin.ch/eli/oc/2022/801)).
+[^15-2]: [RS 734.24](https://fedlex.data.admin.ch/eli/cc/1992/2499_2499_2499)
 
 ## Sezione 6: Disposizioni finali
 
