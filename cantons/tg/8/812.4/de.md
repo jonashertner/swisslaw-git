@@ -1,25 +1,26 @@
 ---
 canton: TG
 number: "812.4"
-title: Gesetz über das Verbot der Plakatwerbung für Tabak und Alkohol sowie über den Jugendschutz beim Verkauf von Tabakwaren
+title: Gesetz über Plakatwerbung und Jugendschutz für Tabak und Alkohol
 short: GTA
 language: de
-version: 2007-01-01
-valid_until: 2022-12-31
-version_adopted: 2006-06-21
+version: 2023-01-01
+version_adopted: 2022-05-18
 adopted: 2006-06-21
 in_force: 2007-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/812.4"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2242/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Verbot der Plakatwerbung für Tabak und Alkohol sowie über den Jugendschutz beim Verkauf von Tabakwaren
+# Gesetz über Plakatwerbung und Jugendschutz für Tabak und Alkohol
 
-Verbot der Plakatwerbung für Tabak und Alkohol - G
+GTA
 
-vom 21.06.2006 (Stand 01.01.2007)
+(GTA)
+
+vom 21.06.2006 (Stand 01.01.2023)
 
 #### § 1
 
@@ -27,28 +28,31 @@ vom 21.06.2006 (Stand 01.01.2007)
 
 <sup>1</sup> Werbung auf Plakaten und in plakatähnlicher Form ist verboten auf öffentlichem sowie öffentlich einsehbarem privaten Grund für:
 
-- 1\. Tabakwaren;
-- 2\. alkoholische Getränke mit mehr als 15 Volumenprozenten sowie Mischgetränke, welche gebrannte Wasser (Äthylalkohol) enthalten.
+- 1\. Tabakprodukte
+- 1<sup>bis</sup>. Elektronische Zigaretten (E-Zigaretten)
+- 2\. Getränke mit mehr als 15 Volumenprozenten Ethanol und Mischgetränke, die gebrannte Wasser enthalten
 
 #### § 2
 
 **Jugendschutz**
 
-<sup>1</sup> Abgabe und Verkauf von Tabakwaren an Jugendliche unter 16 Jahren sind verboten.
+<sup>1</sup> Die Abgabe von Tabakprodukten und elektronischen Zigaretten an Minderjährige ist verboten.
 
-<sup>2</sup> Der Verkauf von Tabakwaren über Automaten ist nur Betreiberinnen und Betreibern erlaubt, welche den Bezug durch Jugendliche unter 16 Jahren verhindern.
+<sup>2</sup> Tabakprodukte und elektronische Zigaretten dürfen in Automaten verkauft werden, wenn diese für Minderjährige nicht zugänglich sind.
 
 #### § 3
 
-**Umrüstungsfrist für Automaten**
-
-<sup>1</sup> Für die technische Umrüstung bestehender Automaten zur Umsetzung des Verbotes gemäss § 2 Abs. 2 gilt eine Übergangsfrist bis 31. Dezember 2009.
+**…**
 
 #### § 4
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer gegen dieses Gesetz verstösst, wird mit Busse bis Fr. 20'000 bestraft.
+<sup>1</sup> Mit Busse bis zu Fr. 20'000 wird bestraft, wer
+
+- 1\. Werbung im Sinne von § 1 Abs. 1 macht,
+- 2\. Produkte im Sinne von § 2 Abs. 1 an Minderjährige abgibt oder
+- 3\. Produkte im Sinne von § 2 Abs. 2 an Automaten verkauft, die für Minderjährige zugänglich sind.
 
 #### § 5
 
@@ -58,10 +62,6 @@ vom 21.06.2006 (Stand 01.01.2007)
 
 #### § 6
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf einen durch den Regierungsrat festzusetzenden Zeitpunkt in Kraft[^6-1].
-
-[^6-1]: In Kraft gesetzt auf den 1. Januar 2007.
+**…**
 
 ABl. 27/2006
