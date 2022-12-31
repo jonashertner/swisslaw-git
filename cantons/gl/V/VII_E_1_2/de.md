@@ -3,20 +3,20 @@ canton: GL
 number: VII E/1/2
 title: Verordnung zum Energiegesetz
 language: de
-version: 2010-01-01
-valid_until: 2022-12-31
-version_adopted: 2009-09-23
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-23
 adopted: 2001-06-27
 in_force: 2001-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1267/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2387/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Energiegesetz
 
-Vom 27.06.2001 (Stand 01.01.2010)
+Vom 27.06.2001 (Stand 01.01.2023)
 
 Der Landrat erlässt,
 
@@ -37,19 +37,19 @@ folgende Verordnung:
 <sup>1</sup> Die Anforderungen dieser Verordnung gelten bei:
 
 - a. Neubauten, welche beheizt, belüftet, gekühlt oder befeuchtet werden;
-- b. Umbauten und Umnutzungen von bestehenden Bauten, welche beheizt, belüftet, gekühlt oder befeuchtet werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- c. Neuinstallationen haustechnischer Anlagen zur Aufbereitung und Verteilung von Wärme, Kälte, Warmwasser und Raumluft, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
-- d. Erneuerung, Umbau oder Änderung haustechnischer Anlagen, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind.
+- b. Umbauten und Umnutzungen von bestehenden Gebäuden, welche beheizt, belüftet, gekühlt oder befeuchtet werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
+- c. Neuinstallationen gebäudetechnischer Anlagen, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind;
+- d. Erneuerung, Umbau oder Änderung gebäudetechnischer Anlagen, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind.
 
 <sup>2</sup> Anbauten und neubauartige Umbauten, wie Auskernungen und dergleichen, gelten, ausser in Bagatellfällen, als Neubauten und haben die Anforderungen für Neubauten zu erfüllen.
 
-<sup>3</sup> Die Baubewilligungsbehörde beziehungsweise, bei Massnahmen ohne Baubewilligungspflicht, die zuständige kantonale Verwaltungsbehörde kann die Anforderungen in den Fällen von Absatz 1 Buchstaben b–d reduzieren, wenn dadurch ein öffentliches Interesse besser geschützt werden kann.
+<sup>3</sup> Die zuständige Behörde kann die Anforderungen in den Fällen von Absatz 1 Buchstaben b–d reduzieren, wenn dadurch ein öffentliches Interesse besser geschützt werden kann.
 
 #### Art. 2
 
 **Begriffe**
 
-<sup>1</sup> Der Regierungsrat umschreibt die Begriffe Baute/Gebäude, Anlage, Ausstattungen und Ausrüstungen/Haustechnische Anlagen, vom Umbau oder von der Umnutzung betroffene Bauteile sowie weitere Begriffe in seinen Ausführungsbestimmungen[^2-1].
+<sup>1</sup> Der Regierungsrat umschreibt die Begriffe Baute/Gebäude, Anlage, Ausstattungen und Ausrüstungen/Gebäudetechnische Anlagen, vom Umbau oder von der Umnutzung betroffene Bauteile sowie weitere Begriffe in seinen Ausführungsbestimmungen[^2-1].
 
 [^2-1]: GS [VII E/1/2/1](https://gesetze.gl.ch/data/VII-E.1.2.1/de)
 
@@ -57,15 +57,15 @@ folgende Verordnung:
 
 **Stand der Technik**
 
-<sup>1</sup> Die gemäss dieser Verordnung notwendigen energetischen und raumlufthygienischen Massnahmen sind nach dem Stand der Technik zu planen und auszuführen. Soweit Gesetz und Verordnung nichts anderes bestimmen, gelten als Stand der Technik die Anforderungen und Rechenmethoden der geltenden Normen und Empfehlungen der Fachorganisationen und der Konferenz Kantonaler Energiedirektoren/Energiefachstellenkonferenz (EnDK/EnFK). Diese werden regelmässig vom Regierungsrat bezeichnet und öffentlich publiziert.
+<sup>1</sup> Die gemäss dieser Verordnung notwendigen energetischen und raumlufthygienischen Massnahmen sind nach dem Stand der Technik zu planen und auszuführen. Soweit Gesetz und Verordnung nichts anderes bestimmen, gelten als Stand der Technik die Anforderungen und Rechenmethoden der geltenden Normen, Merkblätter, Vollzugshilfen und Empfehlungen der Fachorganisationen und der Konferenz Kantonaler Energiedirektoren/Energiefachstellenkonferenz (EnDK/EnFK). Diese werden regelmässig von der zuständigen Behörde bezeichnet und öffentlich bekannt gemacht.
 
-<sup>2</sup> Er kann diese Aufgabe dem zuständigen Departement übertragen.
+<sup>2</sup> …
 
 #### Art. 4
 
 **Ausnahmen**
 
-<sup>1</sup> Liegen ausserordentliche Verhältnisse vor und bedeutet die Einhaltung der Bestimmungen des Gesetzes oder seiner Ausführungsbestimmungen eine unverhältnismässige Härte, so kann die für eine energierechtliche Bewilligung zuständige Behörde beziehungsweise die Baubewilligungsbehörde Ausnahmen von einzelnen Vorschriften gewähren, wenn dadurch keine öffentlichen Interessen verletzt werden.
+<sup>1</sup> Liegen ausserordentliche Verhältnisse vor und bedeutet die Einhaltung der Bestimmungen des Gesetzes oder seiner Ausführungsbestimmungen eine unverhältnismässige Härte, so kann die für eine energierechtliche Bewilligung zuständige Behörde beziehungsweise die Baubewilligungsbehörde Ausnahmen von einzelnen Vorschriften gewähren, wenn dadurch keine öffentlichen Interessen oder überwiegenden privaten Interessen verletzt werden.
 
 <sup>2</sup> Vorbehältlich ausdrücklicher anderweitiger Regelung besteht kein Anspruch auf Gewährung von Ausnahmen.
 
@@ -79,7 +79,15 @@ folgende Verordnung:
 
 **Anforderungen und Nachweis**
 
-<sup>1</sup> Der Regierungsrat regelt in seinen Ausführungsbestimmungen die Anforderungen und den Nachweis für den Wärmeschutz von Gebäuden.
+<sup>1</sup> Der Regierungsrat regelt die Anforderungen und den Nachweis für den sommerlichen und winterlichen Wärmeschutz von Gebäuden.
+
+#### Art. 5a
+
+**Wärmebedarf von Neubauten**
+
+<sup>1</sup> Der Regierungsrat bestimmt die Anforderungen, die Berechnungsregeln sowie die möglichen Standardlösungskombinationen an den Energieeinsatz.
+
+<sup>2</sup> Er berücksichtigt dabei insbesondere die Wirtschaftlichkeit sowie besondere Verhältnisse wie Klima, Beschattung und Quartiersituationen.
 
 #### Art. 6
 
@@ -91,44 +99,93 @@ folgende Verordnung:
 
 <sup>1</sup> Der Regierungsrat erlässt die erforderlichen Bestimmungen für Kühl- und Tiefkühlräume über den mittleren Wärmezufluss durch umschliessende Bauteile, über die Berechnung der Auslegungstemperatur sowie über die Umgebungstemperaturen.
 
-<sup>2</sup> Er kann für Kühl- und Tiefkühlräume mit weniger als 30 m³ Nutzvolumen geringere Anforderungen vorsehen.
+<sup>2</sup> Er kann für Kühl- und Tiefkühlräume mit weniger als 30 Kubikmeter Nutzvolumen geringere Anforderungen vorsehen.
 
 #### Art. 8
 
-**Gewächshäuser**
+**Gewächshäuser und beheizte Traglufthallen**
 
-<sup>1</sup> Der Regierungsrat bestimmt die Anforderungen an gewerbliche und landwirtschaftliche Gewächshäuser, in denen für die Aufzucht, Produktion oder Vermarktung von Pflanzen vorgegebene Wachstumsbedingungen aufrecht erhalten werden müssen.
+<sup>1</sup> Der Regierungsrat bestimmt die Anforderungen an gewerbliche und landwirtschaftliche Gewächshäuser sowie für beheizte Traglufthallen.
 
-### 1.3. Anforderungen an haustechnische Anlagen
+### 1.3. Gebäudetechnische Anlagen
 
-#### Art. 9
+#### Art. 9–9a
 
-**Wassererwärmer und Wärmespeicher**
+**…**
 
-<sup>1</sup> Wassererwärmer sowie Warmwasser- und Wärmespeicher, für die nach Bundesrecht keine energetischen Anforderungen bestehen, dürfen bezüglich allseitiger Wärmedämmung die Dämmstärken gemäss Anhang 1 nicht unterschreiten.
+#### Art. 9b
 
-<sup>2</sup> Der Neueinbau einer direkt-elektrischen Erwärmung des Brauchwarmwassers ist in Wohnbauten nur erlaubt, wenn
+**Eigenstromerzeugung von Neubauten**
 
-- a. das Brauchwarmwasser während der Heizperiode mit dem Wärmeerzeuger für die Raumheizung erwärmt oder vorgewärmt wird oder
-- b. das Brauchwarmwasser primär mittels erneuerbarer Energie oder nicht anders nutzbarer Abwärme erwärmt wird.
+<sup>1</sup> Der Regierungsrat bestimmt die Anforderungen und die Berechnungsregeln für die Eigenstromerzeugung von Neubauten.
 
-<sup>3</sup> Der Ersatz einzelner bestehender Wassererwärmer gilt nicht als Neueinbau.
+#### Art. 9c
 
-#### Art. 9a
+**Elektrizitätsbedarf**
+
+<sup>1</sup> Der Regierungsrat regelt die Anforderungen und den Nachweis für den Elektrizitätsbedarf der Beleuchtung bei Neubauten, Umbauten und Umnutzungen. Davon ausgenommen sind Wohnbauten oder Teile davon.
+
+#### Art. 9d
+
+**Ortsfeste elektrische Widerstandsheizungen**
+
+<sup>1</sup> Eine Heizung gilt als Zusatzheizung, wenn die Hauptheizung nicht den ganzen Leistungsbedarf decken kann.
+
+<sup>2</sup> Notheizungen bei Wärmepumpen dürfen insbesondere für Aussentemperaturen unter der Auslegetemperatur eingesetzt werden.
+
+<sup>3</sup> Notheizungen bei handbeschickten Holzheizungen sind bis zu einer Leistung von 50 Prozent des Leistungsbedarfs zulässig.
+
+<sup>4</sup> Der Regierungsrat legt die Übergangsfrist fest und regelt die Befreiungen.
+
+#### Art. 9e
+
+**Wärmeerzeugerersatz**
+
+<sup>1</sup> Der Ersatz des Wärmeerzeugers in bestehenden Gebäuden mit Wohnnutzung benötigt eine Bewilligung der zuständigen Behörde.
+
+<sup>2</sup> Nach dem Ersatz des Wärmeerzeugers in bestehenden Bauten mit Wohnnutzung dürfen durch die Wärmeerzeugung keine CO₂-Emissionen aus fossilen Brennstoffen abgegeben werden, falls dies aufgrund der Lage und Konstruktion sowie technisch möglich ist.
+
+<sup>3</sup> Die Anforderung gemäss Artikel 14d des Gesetzes gilt als erfüllt, wenn eine (oder eine Kombination) der folgenden Standardlösungen als Hauptwärmeerzeuger fachgerecht ausgeführt wird:
+
+- a. Holzfeuerung (Stückholz, Schnitzel, Pellets);
+- b. Wärmepumpe mit Erdsonde, Wasser oder Aussenluft;
+- c. Anschluss an ein Fern- oder Nahwärmenetz, sofern mit dem Netz Wärme aus KVA, Abwärme oder erneuerbaren Energien verteilt wird; der Mindestanteil an erneuerbaren Energien muss im fünfjährigen Durchschnitt 75 Prozent betragen;
+- d. Heizung, die mit erneuerbaren oder synthetisch – mittels erneuerbaren Stroms – hergestellten flüssigen oder gasförmigen Brennstoffen betrieben wird. Beim Verbrennen darf kein fossiles CO₂ freigesetzt werden;
+- e. thermische Sonnenkollektoren.
+
+<sup>4</sup> Ist der Ersatz durch eine fossilfrei betriebene Heizung technisch nicht möglich, so müssen gebäudetechnische Ersatzmassnahmen zur Erhöhung der Energieeffizienz realisiert werden.
+
+<sup>5</sup> Der Regierungsrat regelt die Details der Standardlösungen sowie die Ausnahmen und legt die Kriterien für Ersatzmassnahmen fest.
+
+<sup>6</sup> Ist ein Anschluss an ein Fern- oder Nahwärmenetz innert 20 Jahren absehbar, so können für den befristeten Ersatz des Wärmeerzeugers Übergangslösungen gewährt werden. Die Anschlussabsicht ist durch einen Vertrag oder Vorvertrag mit dem Wärmenetzbetreiber nachzuweisen. Der Anschluss muss zwingend erfolgen, sobald er möglich ist.
+
+<sup>7</sup> Die Übergangslösung ist umgehend stillzulegen und auszubauen.
+
+<sup>8</sup> Ist innert 20 Jahren kein Anschluss erfolgt, ist eine Standardlösung gemäss Absatz 3 umzusetzen.
+
+#### Art. 9f
+
+**Elektro-Wassererwärmer**
+
+<sup>1</sup> Wassererwärmer sind für eine Betriebstemperatur von maximal 60 Grad Celsius auszulegen.
+
+<sup>2</sup> Ausgenommen sind Wassererwärmer, deren Temperatur aus betrieblichen oder aus hygienischen Gründen höher sein muss.
+
+<sup>3</sup> Der Regierungsrat regelt die Befreiungen.
+
+#### Art. 9g
 
 **Wärmeerzeugung**
 
-<sup>1</sup> Mit fossilen Brennstoffen betriebene Heizkessel bei Neubauten mit einer Absicherungstemperatur von weniger als 110 °C müssen die Kondensationswärme ausnützen können.
-
-<sup>2</sup> Die gleiche Anforderung gilt beim Ersatz einer Wärmeerzeugungsanlage, soweit es technisch möglich und der Aufwand verhältnismässig ist.
+<sup>1</sup> Mit fossilen Brennstoffen betriebene Heizkessel mit einer Absicherungstemperatur von weniger als 110 Grad Celsius müssen beim Ersatz der Wärmeerzeugungsanlage die Kondensationswärme ausnützen können, sofern es technisch möglich ist.
 
 #### Art. 10
 
 **Wärmeverteilung und -abgabe**
 
-<sup>1</sup> Die Vorlauftemperaturen für neue oder ersetzte Wärmeabgabesysteme dürfen bei der massgebenden Auslegetemperatur höchstens 50 °C, bei Fussbodenheizungen höchstens 35 °C betragen. Ausgenommen sind Hallenheizungen mittels Bandstrahler sowie Heizungssysteme für Gewächshäuser und Ähnliches, sofern diese nachgewiesenermassen eine höhere Vorlauftemperatur benötigen.
+<sup>1</sup> Die Vorlauftemperaturen für neue oder ersetzte Wärmeabgabesysteme dürfen bei der massgebenden Auslegetemperatur höchstens 50 Grad Celsius, bei Fussbodenheizungen höchstens 35 Grad Celsius betragen. Ausgenommen sind Hallenheizungen mit Bandstrahler sowie Heizungssysteme für Gewächshäuser und dergleichen, sofern diese nachgewiesenermassen eine höhere Vorlauftemperatur benötigen.
 
-<sup>2</sup> Der Regierungsrat erlässt die weiteren Bestimmungen, insbesondere über die Dämmstärken von Leitungen, Armaturen und Pumpen bei der Wärmeverteilung und -abgabe.
+<sup>2</sup> Der Regierungsrat erlässt die weiteren Bestimmungen, insbesondere über die Dämmstärken von Leitungen, Armaturen und Pumpen bei der Wärmeverteilung und -abgabe und den Regeleinrichtungen.
 
 #### Art. 11
 
@@ -142,26 +199,24 @@ folgende Verordnung:
 
 <sup>1</sup> Lüftungstechnische Anlagen mit Aussenluft und Fortluft sind mit einer Wärmerückgewinnung auszurüsten, welche einen Temperatur-Änderungsgrad nach dem Stand der Technik aufweist.
 
-<sup>2</sup> Der Regierungsrat erlässt insbesondere Bestimmungen über
+<sup>2</sup> Der Regierungsrat erlässt insbesondere Bestimmungen über:
 
-- a. die kontrollierte Zuführung der Ersatzluft, die Wärmerückgewinnung und die Nutzung der Wärme der Abluft sowie
-- b. über die Luftgeschwindigkeiten in lüftungstechnischen Anlagen.
+- a. die kontrollierte Zuführung der Ersatzluft, die Wärmerückgewinnung und die Nutzung der Wärme der Abluft;
+- b. die Luftgeschwindigkeiten in lüftungstechnischen Anlagen;
+- c. die Wärmedämmung von lüftungstechnischen Anlagen.
 
 #### Art. 13
 
-**Bedarfsnachweis für Anlagen zur Kühlung und/oder Befeuchtung**
+**Kühlen, Be- und Entfeuchten**
 
-<sup>1</sup> Der Bedarf für eine Kühlung oder Befeuchtung bestimmter Räume ist gegeben, wenn trotz baulicher Massnahmen angemessene Komfortbedingungen oder die einem allfälligen speziellen Verwendungszweck entsprechenden Raumklimabedingungen nicht sichergestellt werden können. Die massgebenden baulichen Massnahmen, die durch den Regierungsrat bestimmt werden, sind bei bestehenden Gebäuden zu realisieren, soweit sie technisch möglich sind, der Aufwand wirtschaftlich tragbar ist und keine überwiegenden Interessen des Denkmalschutzes entgegenstehen.
+<sup>1</sup> Klimaanlagen für die Aufrechterhaltung des Komforts sind in bestehenden Bauten so zu erstellen, dass entweder:
 
-<sup>2</sup> Kein Bedarfsnachweis ist erforderlich für:
+- a. der elektrische Leistungsbedarf für die Medienförderung und die Medienaufbereitung inklusive allfälliger Kühlung, Befeuchtung, Entfeuchtung und Wasseraufbereitung zwölf Watt pro Quadratmeter nicht überschreitet; oder
+- b. die Kaltwassertemperaturen und die Leistungszahlen für die Kälteerzeugung nach dem Stand der Technik ausgelegt sind sowie die Planung und der Betrieb einer allfälligen Befeuchtung nach dem Stand der Technik erfolgen.
 
-- a. die Kühlung, wenn die gesamte Kälteleistung eines Gebäudes 20 kW nicht übersteigt;
-- b. die Kühlung, wenn die Kälteleistung mit erneuerbaren Energien bereitgestellt wird;
-- c. die Kühlung, wenn die spezifische elektrische Leistung für Kälteerzeugung und Medienförderung zusammen 5 Watt pro Quadratmeter gekühlter Nutzfläche nicht übersteigt;
-- d. die Befeuchtung, wenn die dafür notwendige gesamte Heizleistung 20 kW nicht übersteigt;
-- e. Bauten, die den Minergie-Standard erfüllen.
+<sup>2</sup> …
 
-### 1.4. Verbrauchsabhängige Heizkostenabrechnung
+### 1.4. Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung
 
 #### Art. 14
 
@@ -177,10 +232,7 @@ folgende Verordnung:
 
 **Befreiung bei Neubauten und bei wesentlichen Erneuerungen**
 
-<sup>1</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs befreit sind Bauten und Gebäudegruppen:
-
-- a. deren installierte Wärmeerzeugerleistung (inkl. Warmwasser) weniger als 20 Watt pro m² Energiebezugsfläche beträgt; oder
-- b. die den Minergie-Standard einhalten.
+<sup>1</sup> Von der Ausrüstungs- und Abrechnungspflicht des Heizwärmeverbrauchs sind Gebäude und Gebäudegruppen befreit, deren installierte Wärmeerzeugerleistung (inkl. Warmwasser) weniger als 20 Watt pro Quadratmeter Energiebezugsfläche beträgt.
 
 #### Art. 16
 
@@ -197,6 +249,12 @@ folgende Verordnung:
 
 <sup>2</sup> Für Gebäude, die innert fünf Jahren abgebrochen werden, die selber oder deren Wärmeverteilung erheblich umgebaut werden, kann die Übergangsfrist um fünf Jahre verlängert werden.
 
+#### Art. 16a
+
+**Wärmedämmung bei Flächenheizungen**
+
+<sup>1</sup> Bei Flächenheizungen ist für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7 Watt pro Quadratmeter und Kelvin einzuhalten.
+
 #### Art. 17
 
 **......**
@@ -205,27 +263,27 @@ folgende Verordnung:
 
 **…**
 
-### 1.5. Dachrinnenheizungen
+### 1.5.
 
 #### Art. 19
 
-<sup>1</sup> Keiner Bewilligung bedarf die Installation von Dachrinnenheizungen.
+**…**
 
-### 1.6. Höchstanteil an nicht erneuerbaren Energien, Grossverbraucher
+### 1.6. Grossverbraucher
 
 #### Art. 19a
 
-**Höchstanteil an nicht erneuerbaren Energien**
-
-<sup>1</sup> Der Regierungsrat erlässt in seiner Verordnung die Detailbestimmungen zur Berechnung des zulässigen Energiebedarfes und zum Nachweis mittels Standardlösungen.
+**…**
 
 #### Art. 19b
 
-**Grossverbraucher**
+**Zumutbare Massnahmen/Vereinbarungen, Gruppen**
 
-<sup>1</sup> Der Regierungsrat erlässt in seiner Verordnung genauere Bestimmungen zur Zumutbarkeit von Massnahmen.
+<sup>1</sup> Die aufgrund einer Verbrauchsanalyse zu realisierenden Massnahmen sind für Grossverbraucher tragbar, wenn sie dem Stand der Technik entsprechen sowie über die Nutzungsdauer der Investition wirtschaftlich und nicht mit wesentlichen betrieblichen Nachteilen verbunden sind.
 
-<sup>2</sup> Die zuständige Behörde kann im Rahmen der vorgegebenen Ziele im Sinne von Artikel 29 Absatz 2 des Gesetzes mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Dabei werden die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher mitberücksichtigt. Für die Dauer der Vereinbarung sind diese Grossverbraucher von der Einhaltung der Artikel 9, 10, 11, 12 dieser Verordnung bzw. der Artikel 9, 15, 21, 24 und 25 des Gesetzes sowie der Vorschriften über die Wärmedämmung bei lüftungstechnischen Anlagen, über Kühlen, Be- und Entfeuchten und die Grenzwerte des Elektrizitätsbedarfes der regierungsrätlichen Verordnung entbunden. Die zuständige Behörde kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.
+<sup>2</sup> Die zuständige Behörde kann im Rahmen der vorgegebenen Ziele im Sinne von Artikel 29 Absatz 2 des Gesetzes mit einzelnen oder mit Gruppen von Grossverbrauchern mittel- und langfristige Verbrauchsziele vereinbaren. Dabei werden die Effizienz des Energieeinsatzes zum Zeitpunkt der Zielfestlegung und die absehbare technische und wirtschaftliche Entwicklung der Verbraucher mitberücksichtigt.
+
+<sup>2a</sup> Für die Dauer der Vereinbarung sind diese Grossverbraucher von der Einhaltung des Artikels 5a sowie der Artikel 9b–16a dieser Verordnung bzw. der Artikel 9, 14–14d, 17a–21a, 24, 25 und 28 des Gesetzes entbunden. Die zuständige Behörde kann die Vereinbarung aufheben, wenn die Verbrauchsziele nicht eingehalten werden.
 
 <sup>3</sup> Grossverbraucher können sich zu Gruppen zusammenschliessen. Sie organisieren sich selber und regeln die Aufnahme und den Ausschluss von Mitgliedern.
 
@@ -235,22 +293,46 @@ folgende Verordnung:
 
 ## 2.
 
+## 2a. Automation
+
 #### Art. 21
 
-<sup>1</sup> Finanzhilfen können gewährt werden für Massnahmen betreffend:
+**…**
 
-- a. rationeller Energienutzung;
-- b. Nutzung erneuerbarer Energien und Abwärme;
-- c. Aus- und Weiterbildung im Energiebereich, insbesondere von Fachleuten;
-- d. Information, Beratung und Marketing im Energiebereich.
+#### Art. 21a
 
-<sup>2</sup> Finanzhilfen zur rationellen Energieerzeugung sowie zur Nutzung von erneuerbaren Energien und Abwärme richten sich nach der eingesparten beziehungsweise nach der absetzbaren Energiemenge.
+**Gebäudeautomation**
 
-<sup>3</sup> Die Beitragshöhe kann zur Vereinfachung aufgrund von Fläche oder installierter Leistungen bestimmt werden.
+<sup>1</sup> Neubauten der Kategorien III bis XII (SIA 380/1) ab einer bestimmten Energiebezugsfläche (EBF) sind mit Einrichtungen zur Gebäudeautomation auszurüsten.
 
-<sup>4</sup> Die Zuständigkeit zur Gewährung von Finanzhilfen richtet sich nach dem Finanzhaushaltgesetz[^21-1].
+<sup>2</sup> Der Regierungsrat regelt in seinen Ausführungsbestimmungen die massgebende Energiebezugsfläche und die notwendigen Überwachungsfunktionen.
 
-[^21-1]: GS [VI A/1/2](https://gesetze.gl.ch/data/VI-A.1.2/de)
+#### Art. 21b
+
+**Kantonale Energieplanung**
+
+<sup>1</sup> Der Regierungsrat erstattet dem Landrat alle zwei Jahre Bericht über den Stand der Energieplanung.
+
+<sup>2</sup> Gestützt auf die Ziele der langfristig anzustrebenden Entwicklung werden Entscheidungsgrundlagen für den Einsatz und die Förderung einzelner Energieträger, die überkommunale Energieversorgung, die Projektierung von Anlagen und für die sparsame Energieverwendung erarbeitet.
+
+#### Art. 21c
+
+**Kommunale Energieplanung**
+
+<sup>1</sup> Die Gemeinden führen eine auf ihre Verhältnisse abgestimmte Energieplanung durch und prüfen allfällige Massnahmen.
+
+#### Art. 21d
+
+**Vorbildfunktion öffentliche Hand, Gebäudestandard**
+
+<sup>1</sup> Bauten, die im Eigentum von Kanton und Gemeinden sind, haben die folgenden energetischen Standards zu erfüllen:
+
+- a. Neubauten: Minergie-P-ECO oder vergleichbar;
+- b. Umbauten/Sanierungen: Minergie oder vergleichbar, sofern dies technisch und betrieblich möglich und der Aufwand verhältnismässig ist.
+
+<sup>2</sup> Abweichungen vom Standard oder der externen Zertifizierung sind in begründeten Ausnahmefällen möglich. Darüber befindet der Regierungsrat.
+
+<sup>3</sup> Der Stromverbrauch von Bauten, die im Eigentum von Kanton und Gemeinden sind, wird im Vergleich des 5-Jahres-Mittelwerts 2011–2015 mit dem Zeitraum 2026–2030 um 20 Prozent gesenkt oder durch seit 2011 erstellte Stromerzeuger aus erneuerbaren Quellen gedeckt.
 
 ## 3. Weitere Bestimmungen
 
@@ -284,7 +366,7 @@ folgende Verordnung:
 
 **Bewilligungsgebühren**
 
-<sup>1</sup> Die Bewilligungsgebühren nach Artikel 5 Absatz 5 des Gesetzes betragen für Anlagen zur Gewinnung von Energie mit einer elektrischen Leistung von mehr als 200 kW oder einer thermischen Leistung von mehr als 1000 kW:
+<sup>1</sup> Die Bewilligungsgebühren nach Artikel 5 Absatz 5 des Gesetzes betragen für Anlagen zur Gewinnung von Energie mit einer elektrischen Leistung von mehr als 200 Kilowatt oder einer thermischen Leistung von mehr als 1000 Kilowatt:
 
 - 1\. bis 1000 kW: 20 Franken/kW;
 - 2\. über 1000–10 000 kW: 30 Franken/kW;
@@ -293,7 +375,7 @@ folgende Verordnung:
 
 <sup>2</sup> Bei Blockheizkraftwerken (Wärme-Kraftkoppelungsanlagen) ist die elektrische Leistung massgebend.
 
-<sup>3</sup> Für Anlagen, die vorwiegend der Selbstversorgung dienen, ermässigen sich die Ansätze um die Hälfte. Notstromgruppen sind gebührenfrei.
+<sup>3</sup> Für Fotovoltaikanlagen, Wärme-Kraft-Koppelungsanlagen, Anlagen zur Nutzung der Abwärme der Kehrichtverbrennungsanlagen oder zur Nutzung von Wind ermässigen sich die Gebühren auf einen Viertel. Notstromgruppen sind gebührenfrei.
 
 <sup>4</sup> Für die Berechnung der Gebühren ist die theoretische elektrische oder thermische Leistung, ohne Berücksichtigung von Wirkungsgraden, massgebend. Bei der Erweiterung einer bestehenden Anlage ist für die Berechnung der Gebühr die Erhöhung der installierten Leistung massgebend.
 
