@@ -4,13 +4,13 @@ number: "331.11"
 title: Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 short: EG-KVG
 language: de
-version: 2021-12-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-16
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2023-01-24
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3282/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3454/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3282/pdf_file"
 
 (EG-KVG)
 
-vom 09.11.1995 (Stand 01.12.2021)
+vom 09.11.1995 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -67,7 +67,9 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Sie zahlt die Prämienverbilligung dem Versicherer aus, bei dem die Person versichert ist.
 
-<sup>3</sup> Der Kanton entschädigt die Sozialversicherungsanstalt für die erbrachten Leistungen.
+<sup>3</sup> Der Kanton entschädigt die Sozialversicherungsanstalt für die nach Abs. 1 Bst. b dieser Bestimmung erbrachten Leistungen.
+
+<sup>4</sup> Die politischen Gemeinden entschädigen die Sozialversicherungsanstalt für die nach Abs. 1 Bst. a dieser Bestimmung erbrachten Leistungen. Der Anteil der politischen Gemeinden wird nach der Bevölkerung gemäss der letzten Erhebung der kantonalen Statistikstelle berechnet.
 
 #### Art. 4
 
