@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-08
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2613/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2847/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2613/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.08.2022)
+vom 13.11.2013 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -430,7 +430,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachkommissionen setzen sich aus Fachpersonen der betreffenden Kultursparte zusammen.
 
-<sup>2</sup> Die Mehrheit der Mitglieder muss im Kanton Bern wohnhaft oder überwiegend im Kanton beruflich tätig sein.
+<sup>2</sup> In der Filmkommission muss ein Drittel, in den übrigen Fachkommissionen die Mehrheit der Mitglieder im Kanton Bern wohnhaft oder überwiegend im Kanton beruflich tätig sein.
 
 <sup>3</sup> Die Kulturschaffenden, die künstlerischen Ausdrucksformen der Sparte, die Regionen und die Geschlechter müssen angemessen vertreten sein.
 
@@ -685,7 +685,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 - a Museum Langenthal (Standortgemeinde Langenthal),
 - b Stadttheater Langenthal (Standortgemeinde Langenthal),
-- c Regionalbibliothek Langenthal (Standortgemeinde Langenthal),
+- c Bibliothek Oberaargau (Standortgemeinde Herzogenbuchsee, Huttwil, Langenthal),
 - d Kunsthaus Langenthal (Standortgemeinde Langenthal),
 - e Kulturzentrum Chrämerhuus (Standortgemeinde Langenthal).
 

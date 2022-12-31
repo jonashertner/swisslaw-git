@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-08
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2613/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2847/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2613/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.08.2022)
+du 13.11.2013 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -72,7 +72,7 @@ arrête:
 
 **Contrats de prestations**
 
-<sup>1</sup> Les contrats de prestations conclus entre le canton et les institutions culturelles règles au minimum
+<sup>1</sup> Les contrats de prestations conclus entre le canton et les institutions culturelles règlent au minimum
 
 - a les prestations de l’institution culturelle;
 - b l’indemnisation de ces prestations au travers des subventions d’exploitation du canton;
@@ -386,7 +386,7 @@ arrête:
 
 **Tâches particulières de la commission de cinéma**
 
-<sup>1</sup> La commission de cinéma examine en particulier les demandes ressortissant à l’encouragement du cinéma.
+<sup>1</sup> La commission de cinéma examine en particulier les demandes ressortissant de l’encouragement du cinéma.
 
 #### Art. 31
 
@@ -430,7 +430,7 @@ arrête:
 
 <sup>1</sup> Les commissions d’experts se composent de spécialistes des domaines culturels dont elles s’occupent.
 
-<sup>2</sup> La majorité des membres sont domiciliés dans le canton de Berne ou y exercent une part prépondérante de leur activité professionnelle.
+<sup>2</sup> Un tiers des membres de la commission de cinéma et la majorité des membres des autres commissions d’experts sont domiciliés dans le canton de Berne ou y exercent une part prépondérante de leur activité professionnelle.
 
 <sup>3</sup> Les acteurs et actrices culturels, les formes d’expression culturelle des différents domaines, les régions et les deux sexes y sont représentés de manière appropriée.
 
@@ -685,7 +685,7 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 
 - a Museum Langenthal (commune-siège Langenthal),
 - b Stadttheater Langenthal (commune-siège Langenthal),
-- c Regionalbibliothek Langenthal (commune-siège Langenthal),
+- c Bibliothek Oberaargau (communes-sièges Herzogenbuchsee, Huttwil, Langenthal),
 - d Kunsthaus Langenthal (commune-siège Langenthal),
 - e Kulturzentrum Chrämerhuus (commune-siège Langenthal).
 
