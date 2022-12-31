@@ -4,25 +4,25 @@ number: "704.1"
 title: Gesetz über die Wege des Freizeitverkehrs
 short: GWFV
 language: de
-version: 2012-01-01
-corrected: 2017-09-20
-version_adopted: 2011-09-14
+version: 2023-01-01
+version_adopted: 2022-09-15
 adopted: 2011-09-14
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/704.1"
-pdf: "https://lex.vs.ch/api/de/versions/319/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3198/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Wege des Freizeitverkehrs (GWFV)
+# Gesetz über die Wege des Freizeitverkehrs
 
-vom 14. September 2011
+(GWFV)
+
+vom 14.09.2011 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen das Bundesgesetz vom 4. Oktober 1985 über Fuss- und Wanderwege (FWG);
+eingesehen das Bundesgesetz über Fuss- und Wanderwege vom 4. Oktober 1985 (FWG);
 
 eingesehen Artikel 31 der Kantonsverfassung;
 
@@ -30,7 +30,7 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -44,24 +44,18 @@ verordnet:
 
 **Definition und Geltungsbereich**
 
-<sup>1</sup> Als Weg des Freizeitverkehrs gilt jeder Weg, der einer nicht motorisierten Art der Fortbewegung dient, deren primärer Zweck in der Freizeitgestaltung oder Erholung liegt. Der Freizeitverkehr unterscheidet sich vom Berufs-, Schul- und Pendlerverkehr, der sich hauptsächlich auf städtische Gebiete und Agglomerationen konzentriert.
+<sup>1</sup> Als Weg des Freizeitverkehrs gilt jeder Weg, der einer nicht motorisierten oder elektrisch unterstützten Art der Fortbewegung dient, deren primärer Zweck in der Freizeitgestaltung oder Erholung liegt. Der Freizeitverkehr unterscheidet sich vom Alltagslangsamverkehr, der Gegenstand einer Spezialgesetzgebung ist.
 
 <sup>2</sup> Das vorliegende Gesetz ist auf die genehmigten Wege des Freizeitverkehrs anwendbar.
 
 <sup>3</sup> Bei den Wegen des Freizeitverkehrs wird namentlich unterschieden zwischen:
 
-- a) Fuss- und Wanderwegen, welche zu den Wegnetzen gehören, die durch das Bundesgesetz über die Fuss- und Wanderwege geregelt werden. Auf kantonaler Ebene werden die Wanderwegnetze unterteilt in:
-
-- ein Hauptwanderwegnetz, das namentlich die internationalen und interkantonalen sowie die nationalen und kantonalen Wanderrouten, die Wandertouren in den Bergmassiven, die sehenswerten Landschaften, die historischen und kulturellen Stätten, die Pässe, die Suonen und Uferzonen von Bedeutung, die touristischen Anlagen und Haltestellen des öffentlichen Verkehrs erschliesst;
-
-- kantonale Fuss- und Wanderwege;
-
-- ein Nebenwanderwegnetz für die Verbindungen von regionaler oder lokaler Bedeutung;
-
-- b) Fahrradrouten, zu denen namentlich Radwege und Radstreifen gehören;
-
+- a) Fuss- und Wanderwegen, die zu den Wegnetzen gehören, die durch das Bundesgesetz über Fuss- und Wanderwege geregelt werden. Auf kantonaler Ebene werden die Wanderwegnetze unterteilt in:
+  - 1\. ein Hauptwanderwegnetz, das namentlich die internationalen und interkantonalen sowie die nationalen und kantonalen Wanderrouten, die Wandertouren in den Bergmassiven, die sehenswerten Landschaften, die historischen und kulturellen Stätten, die Pässe, die Suonen und Uferzonen von Bedeutung, die touristischen Anlagen und Haltestellen des öffentlichen Verkehrs erschliesst,
+  - 2\. …
+  - 3\. ein Nebenwanderwegnetz für die Verbindungen von regionaler oder lokaler Bedeutung;
+- b) Fahrradrouten;
 - c) Mountainbike-Pisten, zu denen auch die Mountainbike-Abfahrtsstrecken gehören;
-
 - d) Routen für Winter- und Schneeschuhwanderungen sowie Langlaufloipen.
 
 #### Art. 3
@@ -70,11 +64,13 @@ verordnet:
 
 <sup>1</sup> Die mit der Raumplanung beauftragte Dienststelle erarbeitet in Zusammenarbeit mit den anderen beteiligten Dienststellen und den Gemeinden das generelle Konzept für die Wege des Freizeitverkehrs und erstellt die Planung. Die Aufgaben und Zuständigkeiten der anderen kantonalen Dienststellen werden im Vollzugsreglement näher bestimmt.
 
-<sup>2</sup> Die Planerstellung, die Anlage, die Kennzeichnung, der Unterhalt und der Erhalt der Wege und der dazugehörigen Bauwerke fällt unter die Zuständigkeit der Gemeinden, mit Ausnahme der kantonalen Fahrradroute Oberwald – St-Gingolph. Dasselbe gilt auch für die polizeilichen Massnahmen, unter Vorbehalt besonderer Kompetenzen anderer Behörden.
+<sup>2</sup> Die Planerstellung, die Anlage, die Kennzeichnung, der Unterhalt und der Erhalt der Wege und der dazugehörigen Bauwerke fällt unter die Zuständigkeit der Gemeinden, mit Ausnahme der kantonalen Fahrradroute Oberwald - St-Gingolph. Dasselbe gilt auch für die polizeilichen Massnahmen, unter Vorbehalt besonderer Kompetenzen anderer Behörden.
 
-<sup>3</sup> Der Kanton ist für die Anlage der kantonalen Fahrradroute Oberwald – St-Gingolph und deren Anbindung an die wichtigsten Bahnhöfe zuständig. Der Kanton ist für die Anlage, die Kennzeichnung, den Unterhalt und den Erhalt dieser Fahrradroute verantwortlich. Insbesondere wo kommunale Verkehrswege betroffen sind, agiert der Kanton in Zusammenarbeit mit den Gemeinden. Vorbehalten ist die Übertragung des Unterhalts gemäss der Gesetzgebung über den Wasserbau.
+<sup>2<sup>bis</sup></sup> Die Gemeinden sind verpflichtet, die Pläne der Wege und zugehörigen Bauwerke auf ihrem Gebiet alle 10 Jahre vollständig zu überprüfen und bei Bedarf zu überarbeiten.
 
-<sup>4</sup> Die Gemeinden arbeiten zur Erfüllung ihrer Aufgaben gemäss den Bestimmungen der diesbezüglichen Gesetzgebung zusammen.
+<sup>3</sup> Der Kanton ist für die Anlage der kantonalen Fahrradroute Oberwald–St-Gingolph und deren Anbindung an die wichtigsten Bahnhöfe zuständig. Der Kanton ist für die Anlage, die Kennzeichnung, den Unterhalt und den Erhalt dieser Fahrradroute verantwortlich. Insbesondere wo kommunale Verkehrswege betroffen sind, agiert der Kanton in Absprache und in Zusammenarbeit mit den Gemeinden. Das Departement kann bestimmte Unterhaltsaufgaben an die Gemeinden oder an Dritte delegieren. Die Delegation wird im Amtsblatt veröffentlicht.
+
+<sup>4</sup> Bei der Erfüllung ihrer Aufgaben berücksichtigen die Gemeinden eine ganzheitliche Betrachtungsweise und arbeiten gemäss den Bestimmungen der diesbezüglichen Gesetzgebung mit den Nachbargemeinden zusammen.
 
 #### Art. 4
 
@@ -86,9 +82,9 @@ verordnet:
 
 <sup>3</sup> Der Kanton, durch seine Fachstellen, die Gemeinden und die privaten Fachorganisationen arbeiten bei allen für die Anwendung des vorliegenden Gesetzes bedeutenden Tätigkeiten zusammen.
 
-### 2. Kapitel: Plangenehmigung, Aufgaben und Pflichten, Finanzierung
+## 2 Plangenehmigung - Aufgaben und Pflichten - Finanzierung
 
-### 1. Abschnitt: Plangenehmigung
+### 2.1 Plangenehmigung
 
 #### Art. 5
 
@@ -106,19 +102,21 @@ verordnet:
 
 **Wirkung der Planauflage**
 
-Vom Zeitpunkt der Planauflage an darf auf den betroffenen Grundstücken nichts vorgekehrt werden, was die Ausführung des Plans behindert.
+<sup>1</sup> Vom Zeitpunkt der Planauflage an darf auf den betroffenen Grundstücken nichts vorgekehrt werden, was die Ausführung des Plans behindert.
 
 #### Art. 7
 
-**Einsprachen**
+**Einsprachen und Überweisung des Dossiers**
 
 <sup>1</sup> Einsprachen sind innert 30 Tagen seit der Veröffentlichung im Amtsblatt der Standortgemeinde schriftlich und begründet einzureichen.
 
-<sup>2</sup> Nach Ablauf der Einsprachefrist überweist die Gemeinde die aufgelegten Pläne mit den allfälligen Einsprachen und ihrer Vormeinung an die für die Verfahrenskoordination zuständige kantonale Dienststelle.
+<sup>2</sup> Nach Ablauf der Einsprachefrist überweist die Gemeinde die aufgelegten Pläne mit den allfälligen Einsprachen und ihrer Vormeinung innert 3 Monaten an die für die Verfahrenskoordination zuständige kantonale Dienststelle.
+
+<sup>3</sup> Bei der für die Verfahrenskoordination zuständigen kantonalen Dienststelle kann eine zu begründende Fristverlängerung beantragt werden. Diese Dienststelle ist für die Beurteilung der Notwendigkeit einer erneuten öffentlichen Auflage zuständig.
 
 #### Art. 8
 
-Behandlung der Einsprachen, Genehmigung der Pläne, Rechtswirkung
+**Behandlung der Einsprachen - Genehmigung der Pläne - Rechtswirkung**
 
 <sup>1</sup> Die interessierten Dienststellen des Kantons und die privaten Fachorganisationen sind im Genehmigungsverfahren und beim Ersatz von Verkehrswegen anzuhören.
 
@@ -130,53 +128,59 @@ Behandlung der Einsprachen, Genehmigung der Pläne, Rechtswirkung
 
 <sup>5</sup> Diese Vorschriften gelten sinngemäss für die Abänderung und Anpassung der Pläne.
 
-### 2. Abschnitt: Aufgaben und Pflichten
+### 2.2 Aufgaben und Pflichten
 
 #### Art. 9
 
 **Leistung der öffentlichen Körperschaften**
 
-Die Gemeinden, Burgergemeinden und der Staat erlauben den unentgeltlichen Durchgang auf ihrem unkultivierten Boden, dessen Nutzung für die Anlage oder den Ersatz von Verkehrswegen des Freizeitverkehrs nötig ist, vorausgesetzt, dass der Durchgang mit diesem Boden vereinbar ist.
+<sup>1</sup> Die Gemeinden, Burgergemeinden und der Staat erlauben den unentgeltlichen Durchgang auf ihrem unkultivierten Boden, dessen Nutzung für die Anlage oder den Ersatz von Verkehrswegen des Freizeitverkehrs nötig ist, vorausgesetzt, dass der Durchgang mit diesem Boden vereinbar ist.
 
 #### Art. 10
 
 **Freie Begehbarkeit und polizeiliche Massnahmen**
 
-<sup>1</sup> Die Gemeinde garantiert im Rahmen der geltenden Rechtsordnung die freie und möglichst gefahrlose Begehbarkeit der Wege des Freizeitverkehrs und sichert den öffentlichen Zugang zu diesen rechtlich ab.
+<sup>1</sup> Die Gemeinde garantiert im Rahmen der geltenden Rechtsordnung den freien Zugang zu den Wegen des Freizeitverkehrs ohne wesentliche Gefahr und sichert den öffentlichen Zugang zu diesen rechtlich ab.
 
 <sup>2</sup> Sie verfügt die Einstellung von Arbeiten, die diesem Gesetz zuwiderlaufen, und verlangt die Wiederherstellung des ursprünglichen Zustands.
 
 #### Art. 11
 
-Überlagerung und Kreuzung unterschiedlicher Verkehrswege Die Verkehrswege sind so anzulegen, dass sich Verkehrswege von unterschiedlicher Art möglichst nicht überlagern. In jedem Fall sind bei Kreuzungen oder Überlagerungen unterschiedlicher Verkehrswege besondere Massnahmen wie Zugangsverbot oder Vortrittsregelung zu treffen.
+**Überlagerung und Kreuzung unterschiedlicher Verkehrswege**
+
+<sup>1</sup> Die Verkehrswege sind so anzulegen, dass eine verträgliche gemeinsame Benutzung möglich ist. Nötigenfalls sind die Wege unterschiedlicher Arten, insbesondere aus Sicherheitsgründen, getrennt zu führen. In jedem Fall sind bei Kreuzungen oder Überlagerungen angemessene organisatorische und/oder bauliche Massnahmen zu treffen.
 
 #### Art. 12
 
 **Vortrittsregelung auf Fuss- und Wanderwegen**
 
-Auf Fuss- und Wanderwegen haben Fussgänger gegenüber anderen Wegbenutzern, die gegebenenfalls zum Anhalten verpflichtet sind, den Vortritt. Unter aussergewöhnlichen Umständen sind Ausnahmen zu dieser Regelung möglich.
+<sup>1</sup> Auf Fuss- und Wanderwegen haben Fussgänger gegenüber anderen Wegbenutzern, die gegebenenfalls zum Anhalten verpflichtet sind, den Vortritt. Unter aussergewöhnlichen Umständen sind Ausnahmen zu dieser Regelung möglich.
 
 #### Art. 13
 
 **Ersatz**
 
-<sup>1</sup> Müssen die in den Plänen enthaltenen Wegnetze des Freizeitverkehrs oder Teile davon definitiv oder provisorisch aufgehoben werden, hat derjenige, der dies veranlasst, unter Berücksichtigung der lokalen Verhältnisse und ganz besonders in den vom Bundesgesetz über Fuss- und Wanderwege vorgesehenen Fällen für angemessenen Ersatz durch bestehende oder neu zu schaffende Wege zu sorgen. Für Mountainbike-Abfahrtsstrecken ist ein Ersatz allerdings nicht erforderlich.
+<sup>1</sup> Müssen die in den geltenden Plänen enthaltenen Wege des Freizeitverkehrs oder Teile davon aufgehoben werden, hat derjenige, der dies veranlasst, unter Berücksichtigung der lokalen Verhältnisse und ganz besonders in den vom Bundesgesetz über Fuss- und Wanderwege vorgesehenen Fällen für angemessenen und gleichwertigen Ersatz durch bestehende oder neu zu schaffende Wege zu sorgen. Für Mountainbike-Abfahrtsstrecken ist ein Ersatz allerdings nicht erforderlich.
 
-<sup>3</sup> Die Artikel 5 ff. des vorliegenden Gesetzes sind für die Aufhebung und den Ersatz anwendbar.
+<sup>1<sup>bis</sup></sup> Wer die Aufhebung veranlasst, trägt die Kosten für den angemessenen und gleichwertigen Ersatz.
 
-### 3. Abschnitt: Finanzierung
+<sup>2</sup> Die Artikel 3 fortfolgende des vorliegenden Gesetzes sind für die Aufhebung und den Ersatz anwendbar.
+
+<sup>2<sup>bis</sup></sup> Hat jemand anderes als die nach Artikel 3 des vorliegenden Gesetzes zuständige Behörde die Aufhebung veranlasst, so ist letztere zu konsultieren. Sie nimmt den vorgeschlagenen Ersatz an oder weist ihn zurück. Sie bleibt befugt, das Genehmigungsverfahren nach dem vorliegenden Gesetz einzuleiten.
+
+### 2.3 Finanzierung
 
 #### Art. 14
 
-**Finanzierung, Kantonsbeiträge**
+**Finanzierung - Kantonsbeiträge**
 
-<sup>1</sup> Für die Finanzierung der Verkehrswege und der Bauwerke kommen die Gemeinden auf, mit Ausnahme der kantonalen Fahrradroute Oberwald – St-Gingolph.
+<sup>1</sup> Für die Finanzierung der Verkehrswege und der Bauwerke kommen die Gemeinden auf, mit Ausnahme der kantonalen Fahrradroute Oberwald - St-Gingolph.
 
-<sup>2</sup> Für die kantonale Fahrradroute Oberwald – St-Gingolph übernimmt der Kanton die gesamten Kosten für den Bau auf Grundeigentum der Gemeinden und 70 Prozent der Kosten für den Bau auf Grundeigentum des Kantons. Der Restbetrag wird von der Gesamtheit der Gemeinden des Kantons getragen. Der Unterhalt auf Grundeigentum des Kantons sowie die zusätzlichen Kosten betreffend Unterhalt auf Grundeigentum der Gemeinden gehen zu 70 Prozent zulasten des Kantons und zu 30 Prozent zulasten sämtlicher Gemeinden des Kantons. Die Kennzeichnung wird vom Kanton zu 70 Prozent und von der Gesamtheit der Gemeinden zu 30 Prozent finanziert.
+<sup>2</sup> Für die kantonale Fahrradroute Oberwald - St-Gingolph übernimmt der Kanton die gesamten Kosten für den Bau auf Grundeigentum der Gemeinden und 70 Prozent der Kosten für den Bau auf Grundeigentum des Kantons. Der Restbetrag wird von der Gesamtheit der Gemeinden des Kantons getragen. Der Unterhalt auf Grundeigentum des Kantons sowie die zusätzlichen Kosten betreffend Unterhalt auf Grundeigentum der Gemeinden gehen zu 70 Prozent zulasten des Kantons und zu 30 Prozent zulasten sämtlicher Gemeinden des Kantons. Die Kennzeichnung wird vom Kanton zu 70 Prozent und von der Gesamtheit der Gemeinden zu 30 Prozent finanziert.
 
-<sup>3</sup> Der Kanton entrichtet den Gemeinden Beiträge an die Kosten der Planerstellung, der Anlage, der Instandstellung, der Verbesserung und der Kennzeichnung. An den laufenden Unterhalt werden keine Beiträge entrichtet.
+<sup>3</sup> Der Kanton kann den Gemeinden Beiträge an die Kosten der Planerstellung, der Anlage, der Instandstellung, der Verbesserung und der Kennzeichnung für Wege entrichten, die offiziell als Wege des Freizeitverkehrs nach dem vorliegenden Gesetz anerkannt sind. Ausgenommen davon sind Mountainbike-Abfahrtsstrecken. Für den laufenden Unterhalt werden keine Beiträge entrichtet.
 
-<sup>4</sup> Für die Wege des Hauptwanderwegnetzes sowie für die kantonalen Fuss- und Wanderwege beträgt der Subventionssatz 50 Prozent. Die Mountainbike-Abfahrtsstrecken werden nicht subventioniert. Des Weiteren können Subventionen nur für offiziell genormte Kennzeichnungen entrichtet werden.
+<sup>4</sup> Der Beitrag kann sich auf bis zu 50 Prozent des Kostenanteils zulasten der Gemeinde belaufen. Die Vergabe des Beitrags hängt insbesondere vom kantonalen Interesse, von der Bedeutung des Weges angesichts seiner Klassierung als Wanderweg und vom Investitionsbetrag ab.
 
 <sup>5</sup> Der Kanton kann den privaten Fachorganisationen, namentlich der Walliser Vereinigung für Wanderwege, für ihre Tätigkeit im Rahmen des vorliegenden Gesetzes Beiträge ausrichten.
 
@@ -184,15 +188,27 @@ Auf Fuss- und Wanderwegen haben Fussgänger gegenüber anderen Wegbenutzern, die
 
 **Vorbehalt des Subventionsgesetzes**
 
-Die Bestimmungen des kantonalen Subventionsgesetzes gelten direkt und vollständig für die Subventionen gemäss dem vorliegenden Gesetz.
+<sup>1</sup> Die Bestimmungen des kantonalen Subventionsgesetzes gelten direkt und vollständig für die Subventionen gemäss dem vorliegenden Gesetz.
 
-### 3. Kapitel: Verfahren und Strafbestimmungen
+## 3 Verfahren und Strafbestimmungen
 
 #### Art. 16
 
 **Verfahren und Rechtsmittel**
 
-Ohne anders lautende Bestimmung im vorliegenden Gesetz ist das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.
+<sup>1</sup> Ohne anders lautende Bestimmung im vorliegenden Gesetz ist das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.
+
+#### Art. 16a
+
+**Aufsicht**
+
+<sup>1</sup> Das für die Mobilität zuständige Departement (nachstehend: Departement) ist die Aufsichtsbehörde über den Freizeitverkehr im Sinne des vorliegenden Gesetzes. Der Staatsrat übt die Oberaufsicht aus.
+
+#### Art. 16b
+
+**Ersatzvornahme**
+
+<sup>1</sup> Wird eine gesetzliche Aufgabe, insbesondere bei der Erstellung der Wegpläne, bei der Einrichtung der Kennzeichnung, bei der Errichtung von Bauwerken, beim Ersatz oder bei der Erhaltung von Wegen, nicht oder nur teilweise erfüllt, so kann das Departement, nach erfolgloser Mahnung, die zur Erfüllung der Aufgabe erforderlichen Massnahmen auf Kosten des Verantwortlichen beschliessen und ausführen.
 
 #### Art. 17
 
@@ -201,20 +217,18 @@ Ohne anders lautende Bestimmung im vorliegenden Gesetz ist das Gesetz über das 
 <sup>1</sup> Mit einer Busse belegt wird, wer vorsätzlich oder fahrlässig:
 
 - a) eine Pflicht, eine Bedingung, eine Aufgabe, ein Verbot oder eine Einschränkung, die ihm von Gesetzes wegen auferlegt wird, missachtet;
-
 - b) den in Anwendung des vorliegenden Gesetzes und unter Hinweis auf den vorliegenden Absatz verfügten Anweisungen zuwiderhandelt;
-
 - c) in jedweder Form gegen die Bestimmungen des Gesetzes oder dessen Vollzugsbestimmungen verstösst.
 
-<sup>2</sup> Für die Ahndung von Zuwiderhandlungen sind die Gemeinden beziehungsweise im Fall der Fahrradroute der Kanton zuständig.
+<sup>2</sup> Für die Ahndung von Zuwiderhandlungen sind die Gemeinden zuständig, mit Ausnahme der Fälle, in denen die kantonale Fahrradroute betroffen ist oder in denen die Zuwiderhandelnde eine Gemeinde ist. In diesen Fällen ist das Departement zuständig.
 
-### 4. Kapitel: Schlussbestimmungen
+## 4 Schlussbestimmungen
 
 #### Art. 18
 
 **Vollzug**
 
-Der Staatsrat erlässt die zum Vollzug des vorliegenden Gesetzes notwendigen Bestimmungen.
+<sup>1</sup> Der Staatsrat erlässt die zum Vollzug des vorliegenden Gesetzes notwendigen Bestimmungen.
 
 #### Art. 19
 
@@ -222,42 +236,21 @@ Der Staatsrat erlässt die zum Vollzug des vorliegenden Gesetzes notwendigen Bes
 
 <sup>1</sup> Alle dem vorliegenden Gesetz zuwiderlaufenden Bestimmungen werden mit dessen Inkrafttreten aufgehoben. Dies gilt insbesondere für das Ausführungsgesetz zum Bundesgesetz über Fuss- und Wanderwege vom 27. Januar 1988 (AGFWG).
 
-<sup>2</sup> Das Strassengesetz vom 3. September 1965 wird wie folgt geändert:
-
-#### Art. 3
-
-**Aufzählung**
-
-Die öffentlichen Verkehrswege werden (…) eingeteilt in:
-
-- 7\. Mountainbike-Pisten.
-
-#### Art. 9ter
-
-Fuss- und Wanderwege, Fahrradrouten und Mountainbike-Pisten Das Genehmigungsverfahren für die Pläne der Fuss- und Wanderwegnetze, der Fahrradrouten sowie der Mountainbike-Pisten wird durch die Spezialgesetzgebung geregelt.
+<sup>2</sup> Das Strassengesetz vom 3. September 1965 wird geändert.
 
 #### Art. 20
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Die Bestimmungen des vorliegenden Gesetzes sind auf die Verfahren, die zum Zeitpunkt der Inkraftsetzung des Gesetzes bereits eingeleitet worden sind, anwendbar.[^20-1]
+<sup>1</sup> Die Bestimmungen des vorliegenden Gesetzes sind auf die Verfahren, die zum Zeitpunkt der Inkraftsetzung des Gesetzes bereits eingeleitet worden sind, anwendbar.
 
 <sup>2</sup> Unter Vorbehalt von Absatz 3 ist jeder Weg des Freizeitverkehrs den Anforderungen des vorliegenden Gesetzes unterstellt und innerhalb von fünf Jahren nach dessen Inkraftsetzung einem Genehmigungsverfahren zu unterziehen.
 
 <sup>3</sup> Für die nachstehenden Fälle gelten die folgenden Übergangsbestimmungen:
 
 - a) sämtliche Genehmigungen betreffend Fuss- und Wanderwegnetze, welche gemäss der Gesetzgebung über die Fuss- und Wanderwege genehmigt wurden, werden anerkannt;
-
 - b) sämtliche Genehmigungen betreffend Fahrradrouten, welche von der für die Strassensignalisation zuständigen kantonalen Behörde genehmigt wurden, werden anerkannt;
-
 - c) sämtliche Genehmigungen betreffend Mountainbike-Pisten, welche gemäss der Strassengesetzgebung genehmigt wurden, werden anerkannt;
-
 - d) sämtliche Genehmigungen betreffend Rollerskate-Pisten, welche von der für die Strassensignalisation zuständigen kantonalen Behörde genehmigt wurden, werden anerkannt.
 
-So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 14.
-
-September 2011.
-
-Der Präsident des Grossen Rates: Jean-Albert Ferrez Der Chef des Parlamentsdienstes: Claude Bumann
-
-[^20-1]: Inkrafttreten am 1.01.2012 gemäss Beschluss des Staatsrates vom 23.12.2011 (Abl. Nr. 38/2011; 52/2011)
+CSW BO/Abl. 38/2011

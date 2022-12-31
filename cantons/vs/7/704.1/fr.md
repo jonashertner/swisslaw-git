@@ -4,25 +4,25 @@ number: "704.1"
 title: Loi sur les itinéraires de mobilité de loisirs
 short: LIML
 language: fr
-version: 2012-01-01
-corrected: 2017-09-20
-version_adopted: 2011-09-14
+version: 2023-01-01
+version_adopted: 2022-09-15
 adopted: 2011-09-14
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/704.1"
-pdf: "https://lex.vs.ch/api/fr/versions/319/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3198/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur les itinéraires de mobilité de loisirs (LIML)
+# Loi sur les itinéraires de mobilité de loisirs
 
-du 14 septembre 2011
+(LIML)
+
+du 14.09.2011 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
-vu la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre (LCPR);
+vu la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre du 4 octobre 1985 (LCPR);
 
 vu l’article 31 de la Constitution cantonale;
 
@@ -30,7 +30,7 @@ sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
@@ -44,24 +44,18 @@ ordonne:
 
 **Définition et champ d'application**
 
-<sup>1</sup> On entend par itinéraire de mobilité de loisirs tout itinéraire permettant un déplacement non motorisé, dont la vocation principale est liée aux activités de loisirs ou de détente. La mobilité de loisirs est distincte de la mobilité liée aux activités professionnelles et scolaires et au pendularisme qui se concentrent principalement dans les zones urbaines et les agglomérations.
+<sup>1</sup> On entend par itinéraire de mobilité de loisirs tout itinéraire permettant un déplacement non motorisé ou avec assistance électrique, dont la vocation principale est liée aux activités de loisirs ou de détente. La mobilité de loisirs est distincte de la mobilité douce quotidienne qui fait l’objet d’une législation spéciale.
 
 <sup>2</sup> La présente loi s’applique aux itinéraires approuvés de mobilité de loisirs.
 
 <sup>3</sup> Les itinéraires de mobilité de loisirs se distinguent notamment entre:
 
 - a) les itinéraires de chemins pédestres qui correspondent aux réseaux réglés par la loi fédérale sur les chemins pour piétons et de chemins de randonnée pédestre. Au niveau cantonal, les réseaux de chemins de randonnée pédestre se subdivisent en:
-
-- un réseau principal qui dessert notamment les liaisons internationales et intercantonales, les itinéraires nationaux et cantonaux, les tours pédestres de massifs montagneux, les zones de valeur reconnues, les lieux historiques et culturels, les cols, les bisses et rives importants, les installations touristiques et les arrêts de transports publics;
-
-- des itinéraires pédestres cantonaux;
-
-- un réseau secondaire correspondant aux liaisons d'importance régionale ou locale;
-
-- b) les itinéraires de voies cyclables, qui comprennent notamment des bandes cyclables et des pistes cyclables;
-
+  - 1\. un réseau principal qui dessert notamment les liaisons internationales et intercantonales, les itinéraires nationaux et cantonaux, les tours pédestres de massifs montagneux, les zones de valeur reconnues, les lieux historiques et culturels, les cols, les bisses et rives importants, les installations touristiques et les arrêts de transports publics,
+  - 2\. …
+  - 3\. un réseau secondaire correspondant aux liaisons d'importance régionale ou locale;
+- b) les itinéraires de voies cyclables;
 - c) les itinéraires de pistes pour vélo tout terrain (VTT), y compris les pistes de descente VTT;
-
 - d) les itinéraires de chemins de randonnée hivernale à pied et à raquette ainsi que les pistes de ski de fond.
 
 #### Art. 3
@@ -70,11 +64,13 @@ ordonne:
 
 <sup>1</sup> Le service cantonal en charge de l’aménagement du territoire élabore les conceptions directrices des itinéraires de mobilité de loisirs et établit la planification, en collaboration avec les autres services concernés et les communes. Les compétences des autres services cantonaux sont précisées dans le règlement d’exécution.
 
-<sup>2</sup> Les communes sont compétentes pour l’établissement des plans, l'aménagement, la signalisation, l’entretien et la conservation de ces itinéraires et ouvrages qui y sont liés, sous réserve de l’axe cyclable cantonal Oberwald – St-Gingolph. Il en va de même des mesures de police, sous réserve des compétences spécifiques d’autres autorités.
+<sup>2</sup> Les communes sont compétentes pour l’établissement des plans, l'aménagement, la signalisation, l’entretien et la conservation de ces itinéraires et ouvrages qui y sont liés, sous réserve de l’axe cyclable cantonal Oberwald - St-Gingolph. Il en va de même des mesures de police, sous réserve des compétences spécifiques d’autres autorités.
 
-<sup>3</sup> Le canton est en charge de l’aménagement de l’axe cyclable cantonal Oberwald – St-Gingolph et des liaisons avec les principales gares ferroviaires. L’aménagement, la signalisation, l’entretien et la conservation de cet axe sont gérés par le canton, avec la collaboration des communes en particulier lorsque des voies publiques communales sont concernées. Est réservée la délégation de l’entretien de cet axe conformément aux principes fixés par la législation cantonale sur l’aménagement des cours d’eau.
+<sup>2<sup>bis</sup></sup> Les communes ont l’obligation de réexaminer intégralement et, au besoin, de remanier tous les 10 ans les plans des itinéraires et ouvrages qui y sont liés, sis sur leurs territoires.
 
-<sup>4</sup> Dans le cadre de l'accomplissement de leurs tâches, les communes collaborent selon les modalités prévues par la législation en la matière.
+<sup>3</sup> Le canton est en charge de l’aménagement de l’axe cyclable cantonal Oberwald – St-Gingolph et des liaisons avec les principales gares ferroviaires. L’aménagement, la signalisation, l’entretien et la conservation de cet axe sont gérés par le canton, en concertation et avec la collaboration des communes, en particulier lorsque des voies publiques communales sont concernées. Le département peut déléguer aux communes ou à des tiers certaines tâches d'entretien. La délégation fait l'objet d'une publication dans le Bulletin officiel.
+
+<sup>4</sup> Dans le cadre de l'accomplissement de leurs tâches, les communes mènent des réflexions globales et collaborent avec les communes voisines selon les modalités prévues par la législation en la matière.
 
 #### Art. 4
 
@@ -86,17 +82,15 @@ ordonne:
 
 <sup>3</sup> Le canton, par ses services spécialisés, les communes et les organisations privées spécialisées, collaborent sur tous les aspects essentiels à l'application de la présente loi.
 
-### Chapitre 2: Approbation des plans, devoirs et obligations,
+## 2 Approbation des plans - Devoirs et obligations - Financement
 
-financement
-
-### Section 1: Approbation des plans
+### 2.1 Approbation des plans
 
 #### Art. 5
 
 **Procédure d'enquête publique**
 
-<sup>1</sup> Les plans sont déposés publiquement pendant trente jours par les soins de la commune de situation au bureau communal. La mise à l’enquête est portée à la connaissance du public par insertion dans le Bulletin Officiel.
+<sup>1</sup> Les plans sont déposés publiquement pendant 30 jours par les soins de la commune de situation au bureau communal. La mise à l’enquête est portée à la connaissance du public par insertion dans le Bulletin officiel.
 
 <sup>2</sup> Le règlement d’exécution détermine la forme et le contenu des plans et des documents les accompagnant en vue d’une mise à l’enquête publique.
 
@@ -108,19 +102,21 @@ financement
 
 **Effet du dépôt des plans**
 
-Dès le dépôt des plans, les immeubles touchés ne peuvent subir aucune modification qui entrave l’exécution du projet déposé.
+<sup>1</sup> Dès le dépôt des plans, les immeubles touchés ne peuvent subir aucune modification qui entrave l’exécution du projet déposé.
 
 #### Art. 7
 
-**Oppositions**
+**Oppositions et transmission du dossier**
 
-<sup>1</sup> Les oppositions doivent être motivées et adressées par écrit à la commune de situation dans le délai de trente jours dès la publication dans le Bulletin Officiel.
+<sup>1</sup> Les oppositions doivent être motivées et adressées par écrit à la commune de situation dans le délai de trente jours dès la publication dans le Bulletin officiel.
 
-<sup>2</sup> Après l'échéance du délai d'opposition, la commune transmet les plans mis à l'enquête accompagnés des oppositions éventuelles et de son préavis au service cantonal en charge de la coordination des procédures.
+<sup>2</sup> Dans les 3 mois après l'échéance du délai d'opposition, la commune transmet les plans mis à l'enquête accompagnés des oppositions éventuelles et de son préavis au service cantonal en charge de la coordination des procédures.
+
+<sup>3</sup> Une prolongation de délai peut être demandée auprès du service cantonal en charge de la coordination des procédures et, cas échéant, doit être dûment motivée. Ledit service est compétent pour évaluer la nécessité d’une nouvelle mise à l’enquête publique.
 
 #### Art. 8
 
-Traitement des oppositions, approbation des plans; effets juridiques
+**Traitement des oppositions - Approbation des plans - Effets juridiques**
 
 <sup>1</sup> Les services cantonaux intéressés et les organisations privées spécialisées doivent être consultés dans le cadre de la procédure d’approbation ou de remplacement des itinéraires.
 
@@ -128,59 +124,63 @@ Traitement des oppositions, approbation des plans; effets juridiques
 
 <sup>3</sup> En cas de construction d'ouvrages liés à un itinéraire ou de demande d’autorisation relevant de la législation spéciale, le Conseil d'Etat rend une décision globale et unique. Les autorisations relevant de la législation spéciale y sont également intégrées.
 
-<sup>4</sup> L’entrée en force des plans approuvés est portée à la connaissance du public par la voie du Bulletin Officiel.
+<sup>4</sup> L’entrée en force des plans approuvés est portée à la connaissance du public par la voie du Bulletin officiel.
 
 <sup>5</sup> Ces dispositions sont applicables par analogie à la modification des plans, ainsi qu'à leur adaptation.
 
-### Section 2: Devoirs et obligations
+### 2.2 Devoirs et obligations
 
 #### Art. 9
 
 **Prestation des collectivités publiques**
 
-Les communes, les bourgeoisies et l'Etat permettent gratuitement le passage sur leurs terrains non cultivés dont l'utilisation est nécessaire pour l’aménagement ou le remplacement d’itinéraires, à condition toutefois que ces terrains soient compatibles avec un tel passage.
+<sup>1</sup> Les communes, les bourgeoisies et l'Etat permettent gratuitement le passage sur leurs terrains non cultivés dont l'utilisation est nécessaire pour l’aménagement ou le remplacement d’itinéraires, à condition toutefois que ces terrains soient compatibles avec un tel passage.
 
 #### Art. 10
 
 **Libre circulation et mesures de police**
 
-<sup>1</sup> La commune garantit dans le cadre de la législation en vigueur une libre circulation si possible sans danger sur les itinéraires de mobilité de loisirs et prend les mesures juridiques propres à en assurer l'accès au public.
+<sup>1</sup> La commune garantit dans le cadre de la législation en vigueur une libre circulation sans danger majeur sur les itinéraires de mobilité de loisirs et prend les mesures juridiques propres à en assurer l'accès au public.
 
 <sup>2</sup> Elle ordonne l’arrêt des travaux contraires à la présente loi ainsi que le rétablissement de l’état antérieur.
 
 #### Art. 11
 
-**Superposition et croisement d’itinéraires de types différents**
+**Superposition et croisement d'itinéraires de types différents**
 
-Les itinéraires doivent être établis de manière à ce que, dans la mesure du possible, les itinéraires de types différents ne se superposent pas. Dans tous les cas, des mesures particulières telles que l’interdiction d’accès ou la fixation de priorité, doivent être prises en cas de croisement ou de superposition de voies.
+<sup>1</sup> Les itinéraires doivent être établis de manière à ce que la cohabitation entre les utilisateurs soit possible. Si nécessaire, il conviendra de séparer les itinéraires de types différents, en particulier pour des raisons sécuritaires. Dans tous les cas, des mesures organisationnelles et/ou constructives adaptées doivent être prises en cas de croisement ou de superposition de voies.
 
 #### Art. 12
 
 **Règles de priorité sur les itinéraires de chemins pédestres**
 
-Sur les itinéraires de chemins pédestres, les randonneurs à pied ont la priorité sur les autres usagers, lesquels ont le cas échéant l’obligation de s’arrêter. Des dérogations sont exceptionnellement possibles en cas de situations extraordinaires.
+<sup>1</sup> Sur les itinéraires de chemins pédestres, les randonneurs à pied ont la priorité sur les autres usagers, lesquels ont le cas échéant l’obligation de s’arrêter. Des dérogations sont exceptionnellement possibles en cas de situations extraordinaires.
 
 #### Art. 13
 
 **Remplacement**
 
-<sup>1</sup> Si des voies de mobilité de loisirs contenus dans les plans en force doivent être supprimées totalement ou partiellement, de manière provisoire ou définitive, l’auteur de la suppression doit pourvoir à un remplacement convenable par des voies de mobilité de loisirs existantes ou à créer, en tenant compte des conditions locales, et ceci tout particulièrement dans les cas prévus par la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre. Toutefois, les pistes de descente VTT ne doivent pas faire l’objet d’un remplacement.
+<sup>1</sup> Si des voies de mobilité de loisirs contenues dans les plans en force doivent être supprimées totalement ou partiellement, l’auteur de la suppression doit pourvoir à un remplacement convenable et équivalent par des voies de mobilité de loisirs existantes ou à créer, en tenant compte des conditions locales, et ceci tout particulièrement dans les cas prévus par la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre. Toutefois, les pistes de descente VTT ne doivent pas faire l’objet d’un remplacement.
 
-<sup>2</sup> Les articles 5ss de la présente loi sont applicables à la suppression et au remplacement.
+<sup>1<sup>bis</sup></sup> L’auteur de la suppression prend en charge les frais de remplacement convenable et équivalent.
 
-### Section 3: Financement
+<sup>2</sup> Les articles 3 et suivants de la présente loi sont applicables à la suppression et au remplacement.
+
+<sup>2<sup>bis</sup></sup> Si l’auteur de la suppression n’est pas l’autorité compétente en vertu de l’article 3 de la présente loi, cette dernière doit être consultée. Elle approuve ou refuse la proposition de remplacement. Elle reste compétente pour engager la procédure d’approbation au sens de la présente loi.
+
+### 2.3 Financement
 
 #### Art. 14
 
-**Financement, subventionnement cantonal**
+**Financement - Subventionnement cantonal**
 
-<sup>1</sup> Le financement des itinéraires et des ouvrages est assuré par les communes, sous réserve de l’axe cyclable cantonal Oberwald – St-Gingolph.
+<sup>1</sup> Le financement des itinéraires et des ouvrages est assuré par les communes, sous réserve de l’axe cyclable cantonal Oberwald - St-Gingolph.
 
-<sup>2</sup> Pour l’axe cyclable cantonal Oberwald – St-Gingolph, le canton assume tous les frais concernant sa construction s’il est situé sur propriété communale et à hauteur de 70 pour cent s’il est sur propriété cantonale, le solde étant financé par l’ensemble des communes du canton. L’entretien sur propriété cantonale et les coûts supplémentaires d’entretien sur propriété communale sont assumés à raison de 70 pour cent par le canton et de 30 pour cent par l’ensemble des communes du canton. Pour la signalisation, le canton finance 70 pour cent des frais et l’ensemble des communes du canton 30 pour cent.
+<sup>2</sup> Pour l’axe cyclable cantonal Oberwald - St-Gingolph, le canton assume tous les frais concernant sa construction s’il est situé sur propriété communale et à hauteur de 70 pour cent s’il est sur propriété cantonale, le solde étant financé par l’ensemble des communes du canton. L’entretien sur propriété cantonale et les coûts supplémentaires d’entretien sur propriété communale sont assumés à raison de 70 pour cent par le canton et de 30 pour cent par l’ensemble des communes du canton. Pour la signalisation, le canton finance 70 pour cent des frais et l’ensemble des communes du canton 30 pour cent.
 
-<sup>3</sup> Le canton alloue des subventions aux communes pour les travaux relatifs à l’établissement de plans, à l’aménagement, à la réfection, à l’amélioration et à la signalisation. L’entretien courant ne fait pas l’objet d’un subventionnement.
+<sup>3</sup> Le canton peut octroyer des subventions aux communes pour les travaux relatifs à l’établissement de plans, à l’aménagement, à la réfection, à l’amélioration et à la signalisation reconnue comme officielle des itinéraires de mobilité de loisirs au sens de la présente loi, à l’exception des pistes de descente VTT. L’entretien courant ne fait pas l’objet d’un subventionnement.
 
-<sup>4</sup> Le taux de subvention est de 50 pour cent pour les itinéraires de chemins de randonnée pédestre faisant partie du réseau principal ainsi que pour les itinéraires pédestres cantonaux. Les pistes de descente VTT ne sont pas subventionnées. De plus, seules des signalisations officielles peuvent faire l’objet d’un subventionnement.
+<sup>4</sup> Le montant de la subvention peut s’élever jusqu’à 50 pour cent du montant des coûts à la charge de la commune. L’octroi de la subvention dépend notamment de l’intérêt cantonal, de l’importance de l’itinéraire, en particulier selon son classement dans le cadre des itinéraires de chemins pédestres, et du montant de l’investissement.
 
 <sup>5</sup> Le canton peut allouer des subventions à des organisations privées spécialisées, notamment à l’association faîtière valaisanne de la randonnée, pour leurs activités dans le cadre de la présente loi.
 
@@ -188,15 +188,27 @@ Sur les itinéraires de chemins pédestres, les randonneurs à pied ont la prior
 
 **Réserve de la loi sur les subventions**
 
-Les dispositions de la loi cantonale sur les subventions sont applicables directement et dans leur intégralité aux subventions prévues par la présente loi.
+<sup>1</sup> Les dispositions de la loi cantonale sur les subventions sont applicables directement et dans leur intégralité aux subventions prévues par la présente loi.
 
-### Chapitre 3: Procédure et dispositions pénales
+## 3 Procédure et dispositions pénales
 
 #### Art. 16
 
 **Procédure et voies de droit**
 
-Sauf disposition contraire de la présente loi, la loi sur la procédure et la juridiction administratives s’applique.
+<sup>1</sup> Sauf disposition contraire de la présente loi, la loi sur la procédure et la juridiction administratives s’applique.
+
+#### Art. 16a
+
+**Surveillance**
+
+<sup>1</sup> Le département en charge de la mobilité (ci-après: département), sous la haute surveillance du Conseil d’Etat, est l’autorité de surveillance de la mobilité de loisirs au sens de la présente loi.
+
+#### Art. 16b
+
+**Exécution par substitution**
+
+<sup>1</sup> Si une tâche légale, notamment lors de l'établissement des plans, la mise en place de la signalisation, la construction d'ouvrages, le remplacement ou la conservation, n’est pas exécutée ou est exécutée partiellement, le département peut, après sommation demeurée sans effet, décider et exécuter les mesures nécessaires à l’accomplissement de ladite tâche aux frais du responsable.
 
 #### Art. 17
 
@@ -205,20 +217,18 @@ Sauf disposition contraire de la présente loi, la loi sur la procédure et la j
 <sup>1</sup> Est puni d'une amende celui qui, intentionnellement ou par négligence:
 
 - a) n'a pas respecté une obligation, une condition, une charge, une interdiction ou une restriction que la loi met à sa charge;
-
 - b) a contrevenu aux ordres prononcés en application de la présente loi et signifiés avec indication de la sanction prévue au présent alinéa;
+- c) contrevient de toute autre manière aux dispositions de la loi ou de ses dispositions d'exécution.
 
-- c) contrevient de toute autre manière aux dispositions de la loi ou de ses dispositions d’exécution.
+<sup>2</sup> Les communes sont compétentes pour réprimer les infractions, à l’exception des cas en lien avec l’axe cyclable cantonal et des cas où le contrevenant serait une commune, pour lesquels la compétence relève du département.
 
-<sup>2</sup> Les communes respectivement le canton pour l’axe cyclable cantonal sont compétents pour réprimer les infractions.
-
-### Chapitre 4: Dispositions finales
+## 4 Dispositions finales
 
 #### Art. 18
 
 **Exécution**
 
-Le Conseil d'Etat édicte les prescriptions d’exécution nécessaires à l’application de la présente loi.
+<sup>1</sup> Le Conseil d'Etat édicte les prescriptions d’exécution nécessaires à l’application de la présente loi.
 
 #### Art. 19
 
@@ -226,40 +236,21 @@ Le Conseil d'Etat édicte les prescriptions d’exécution nécessaires à l’a
 
 <sup>1</sup> Dès l’entrée en vigueur de la présente loi, toutes les dispositions contraires à celle-ci sont abrogées. Est en particulier abrogée la loi d’application de la loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre du 27 janvier 1988 (LALCPR).
 
-<sup>2</sup> La loi sur les routes du 3 septembre 1965 est modifiée comme suit:
-
-#### Art. 3
-
-**Enumération**
-
-Les voies publiques se divisent (…):
-
-- 7\. pistes de vélo tout terrain (pistes VTT).
-
-#### Art. 9ter
-
-Itinéraires de chemins pédestres, de voies cyclables et de pistes VTT La procédure d’approbation des itinéraires de chemins pour piétons et de chemins de randonnée pédestre, des itinéraires de voies cyclables, ainsi que des itinéraires de pistes VTT est régie par la législation spéciale.
+<sup>2</sup> La loi sur les routes du 3 septembre 1965 est modifiée.
 
 #### Art. 20
 
 **Dispositions transitoires**
 
-<sup>1</sup> Les dispositions de la présente loi sont applicables aux procédures pendantes lors de son entrée en vigueur.[^20-1]
+<sup>1</sup> Les dispositions de la présente loi sont applicables aux procédures pendantes lors de son entrée en vigueur.
 
 <sup>2</sup> Tout itinéraire de mobilité de loisirs est soumis aux exigences de la présente loi et, sous réserve de l’alinéa suivant, une procédure d’approbation doit être engagée dans un délai de cinq ans à partir de l’entrée en vigueur de la présente loi.
 
 <sup>3</sup> En particulier, les dispositions transitoires suivantes s’appliquent:
 
 - a) pour les chemins pédestres, les approbations données en vertu de la législation sur les chemins pour piétons et les chemins de randonnée pédestre sont reconnues;
-
-- b) pour les voies cyclables, les approbations données par l’autorité cantonale en matière de signalisation routière sont reconnues;
-
+- b) pour les voies cyclables, les approbations données par l'autorité cantonale en matière de signalisation routière sont reconnues;
 - c) pour les pistes VTT, les approbations données en vertu de la législation sur les routes sont reconnues;
+- d) pour les pistes de roller, les approbations données par l'autorité cantonale en matière de signalisation routière sont reconnues.
 
-- d) pour les pistes de roller, les approbations données par l’autorité cantonale en matière de signalisation routière sont reconnues.
-
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 14 septembre 2011.
-
-Le président du Grand Conseil: Jean-Albert Ferrez Le chef du Service parlementaire: Claude Bumann
-
-[^20-1]: Entrée en vigueur le 1.01.2012 selon l'arrêté du Conseil d'Etat du 23.12.2011
+RCV BO/Abl. 38/2011
