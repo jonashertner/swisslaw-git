@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "411.661"
-title: Verordnung des Regierungsrates über Beiträge an Musikschulen
-short: Musikschulverordnung
+title: Musikschulverordnung
+short: MSV
 language: de
-version: 2015-01-01
-valid_until: 2022-12-31
-version_adopted: 2014-11-25
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 2023-11-21
 in_force: 2024-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.661"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2108/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über Beiträge an Musikschulen
+# Musikschulverordnung
 
-Beiträge an Musikschulen (Musikschulverordnung)
+MSV
 
-(Musikschulverordnung)
+(MSV)
 
-vom 02.04.1991 (Stand 01.01.2015)
+vom 02.04.1991 (Stand 01.01.2023)
 
 ## 1. Voraussetzungen der Anerkennung
 
@@ -45,11 +45,11 @@ vom 02.04.1991 (Stand 01.01.2015)
 
 <sup>1</sup> Die Musikschule muss für mindestens acht Instrumentenfamilien Unterricht anbieten.
 
-<sup>2</sup> Einer Instrumentenfamilie gleichgesetzt werden
+<sup>2</sup> Einer Instrumentenfamilie gleichgesetzt werden:
 
-- 1\. Elementare Musikerziehung und Rhythmik,
-- 2\. Gesang,
-- 3\. Tanz beziehungsweise Ballett.
+- 1\. Elementare Musikerziehung und Rhythmik
+- 2\. Gesang
+- 3\. Tanz beziehungsweise Ballett
 
 #### § 4
 
@@ -75,7 +75,7 @@ vom 02.04.1991 (Stand 01.01.2015)
 
 **Beiträge**
 
-<sup>1</sup> Für Jahreslektionen zu 40 Minuten bezahlt der Kanton einen Beitrag von Fr. 1'910, sofern es sich um qualifizierten Unterricht gemäss § 2 handelt. Der Ansatz für alle anderen Lektionen beträgt Fr. 1'380. Der Regierungsrat passt die Pauschalen alle zwei Jahre der Kostenentwicklung an.
+<sup>1</sup> Für Jahreslektionen zu 40 Minuten bezahlt der Kanton einen Beitrag von Fr. 2'000, sofern es sich um qualifizierten Unterricht gemäss § 2 handelt. Der Ansatz für alle anderen Lektionen beträgt Fr. 1'435. Der Regierungsrat passt die Pauschalen alle zwei Jahre der Kostenentwicklung an.
 
 <sup>2</sup> Die Pauschale wird bei abweichender Lektionendauer bis höchstens 60 Minuten verhältnismässig gekürzt beziehungsweise erhöht.
 
@@ -101,9 +101,9 @@ vom 02.04.1991 (Stand 01.01.2015)
 
 <sup>2</sup> Sie haben dazu ein Gesuch mit folgenden Unterlagen einzureichen:
 
-- 1\. Statuten, Reglemente usw.,
-- 2\. Liste der Musiklehrer mit Angabe ihrer Ausweise,
-- 3\. Liste des Unterrichtsangebots.
+- 1\. Statuten, Reglemente usw.
+- 2\. Liste der Musiklehrer mit Angabe ihrer Ausweise
+- 3\. Liste des Unterrichtsangebots
 
 #### § 8
 
@@ -125,19 +125,10 @@ vom 02.04.1991 (Stand 01.01.2015)
 
 <sup>2</sup> Wird ein Beitragsgesuch nicht fristgerecht eingereicht, erlischt die Beitragsberechtigung für das betreffende Beitragsjahr.
 
-## 4. Übergangs- und Schlussbestimmungen
+## 4.
 
-#### § 9
+#### § 9–10
 
 **…**
-
-#### § 10
-
-**Inkrafttreten**
-
-<sup>1</sup> § 25a des Gesetzes über das Unterrichtswesen[^10-1] und diese Verordnung treten mit der Veröffentlichung im Amtsblatt in Kraft.[^10-2]
-
-[^10-1]: vom 15. November 1978
-[^10-2]: In Kraft getreten am 6. April 1991.
 
 ABl. 14/1991
