@@ -4,13 +4,13 @@ number: "180.10"
 title: Verordnung über die Rechnungslegung der Einwohnergemeinden
 short: Gemeinderechnungsverordnung
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-11-17
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-27
 adopted: 2012-02-14
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180.10"
-pdf: "https://bl.clex.ch/api/de/versions/2778/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3658/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,16 @@ pdf: "https://bl.clex.ch/api/de/versions/2778/pdf_file"
 
 (Gemeinderechnungsverordnung)
 
-Vom 14.02.2012 (Stand 01.01.2021)
+Vom 14.02.2012 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Kantonsverfassung vom 17. Mai 1984[^ingress-1] sowie auf die §§ 100 Abs. 4 und 165 Abs. 2 Satz 2 des Gesetzes vom 28. Mai 1970[^ingress-2] über die Organisation und Verwaltung der Gemeinden (Gemeindegesetz, GemG),
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf die §§ 100 Abs. 4 und 165 Abs. 2 Satz 2 des Gesetzes vom 28. Mai 1970[^ingress-2] über die Organisation und Verwaltung der Gemeinden (Gemeindegesetz, GemG),
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, [SGS 100](https://bl.clex.ch/data/100/de/art74)
-[^ingress-2]: GS 24.293,[SGS 180](https://bl.clex.ch/data/180/de/art100)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 180](https://bl.clex.ch/data/180/de/art100)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -396,7 +396,7 @@ beschliesst:
 
 **Auflistung der Finanzkennzahlen**
 
-<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Statistischen Amt (kurz: Amt) berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
+<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Amt für Daten und Statistik (kurz: Amt) berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
 
 #### § 31
 
@@ -408,7 +408,7 @@ beschliesst:
 
 **Passation des Budgets ([§ 168a Abs. 1](https://bl.clex.ch/data/180/de/art168a) GemG)**
 
-<sup>1</sup> Das Budget ist spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrates in Papier- sowie in elektronischer Form dem Amt einzureichen.
+<sup>1</sup> Das Budget ist spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats in elektronischer Form via Webplattform sowie im PDF-Format dem Amt einzureichen.
 
 <sup>2</sup> Zusätzlich ist einzureichen:
 
@@ -420,7 +420,7 @@ beschliesst:
 
 #### § 33
 
-**Verspäteter Beschluss des Budgets ([§ 158 Absatz 1](https://bl.clex.ch/data/180/de/art158) GemG)**
+**Verspäteter Beschluss des Budgets ([§ 158 Abs. 1](https://bl.clex.ch/data/180/de/art158) GemG)**
 
 <sup>1</sup> Unterlässt es die Gemeindeversammlung oder der Einwohnerrat, das Budget bis zum 31. Dezember zu beschliessen, so sind die zuständigen Gemeindebehörden ermächtigt, die für ihre Verwaltungstätigkeit unerlässlichen Ausgaben vorzunehmen.
 
@@ -598,7 +598,7 @@ beschliesst:
 
 **Auflistung der Finanzkennzahlen**
 
-<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Statistischen Amt (kurz: Amt) berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
+<sup>1</sup> Die Auflistung der Finanzkennzahlen umfasst die vom Amt für Daten und Statistik (kurz: Amt) berechneten Finanzkennzahlen sowie die kantonalen Richtwerte.
 
 #### § 48
 
@@ -653,7 +653,7 @@ beschliesst:
 
 **Passation der Jahresrechnung ([§ 168a Abs. 1](https://bl.clex.ch/data/180/de/art168a) GemG)**
 
-<sup>1</sup> Die Jahresrechnung ist mit sämtlichen Beilagen spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats dem Amt einzureichen. Sie ist zusätzlich in elektronischer Form einzureichen, wenn Änderungen gegenüber dem gemeinderätlichen Entwurf beschlossen worden sind.
+<sup>1</sup> Die Jahresrechnung ist mit sämtlichen Beilagen spätestens 2 Wochen nach dem Beschluss der Gemeindeversammlung oder des Einwohnerrats dem Amt im PDF-Format einzureichen. Sie ist zusätzlich in elektronischer Form via Webplattform einzureichen, wenn Änderungen gegenüber dem gemeinderätlichen Entwurf beschlossen worden sind.
 
 <sup>2</sup> Zusätzlich sind einzureichen:
 
@@ -675,7 +675,7 @@ beschliesst:
 - a. die Beschreibung aller oder einiger kommunaler Aufgaben als Produkte;
 - b. die Zusammenfassung verwandter Produkte zu Produktegruppen, welche einem oder mehreren Konten der funktionalen Gliederung der Erfolgsrechnung entsprechen müssen;
 - c. die Verbindung der Produktegruppen mit einem Leistungsauftrag sowie mit einem Globalbudget;
-- d. die Befugnis des Gemeinderates, die Beträge der einzelnen Konten innerhalb des Globalbudgets zu verschieben oder auf das neue Rechnungsjahr zu übertragen;
+- d. die Befugnis des Gemeinderats, die Beträge der einzelnen Konten innerhalb des Globalbudgets zu verschieben oder auf das neue Rechnungsjahr zu übertragen;
 - e. die Vornahme von Wirksamkeitsprüfungen.
 
 #### § 53
