@@ -4,13 +4,13 @@ number: "143.11"
 title: Personalverordnung
 short: PersV
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2023-06-30
 version_adopted: 2022-05-24
 adopted: 2011-12-13
 in_force: 2013-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3384/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3384/pdf_file"
 
 (PersV)
 
-vom 13.12.2011 (Stand 01.07.2022)
+vom 13.12.2011 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -1372,12 +1372,7 @@ als Verordnung:[^ingress-2]
 - c) …
 - d) …
 
-<sup>3</sup> Die Treueprämie wird anteilmässig ausgerichtet, wenn die Mitarbeiterin oder der Mitarbeiter nach mehr als zehn Dienstjahren aus dem Arbeitsverhältnis mit dem Kanton ausscheidet wegen:
-
-- a) Alter oder Invalidität;
-- b) Tod;
-- c) unverschuldeter Kündigung seitens der Arbeitgeberin oder des Arbeitgebers;
-- d) unverschuldeter Nichtwiederwahl.
+<sup>3</sup> …
 
 [^114-1]: Bei der Datenmigration im September 2013 wurden Abs. 2 und Abs. 3 irrtümlicherweise zusammengefasst. Der Fehler wurde im Zusammenhang mit dem Nachtrag (nGS2014-046) korrigiert. Aus technischen Gründen lässt sich die Aufzählung nicht mehr entfernen.
 
