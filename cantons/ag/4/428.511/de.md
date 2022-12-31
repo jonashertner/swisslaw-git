@@ -4,13 +4,13 @@ number: "428.511"
 title: Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsverordnung, BeV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-31
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-10-26
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.511"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3053/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3264/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3053/pdf_file"
 
 (Betreuungsverordnung, BeV)
 
-Vom 08.11.2006 (Stand 01.01.2022)
+Vom 08.11.2006 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -67,7 +67,9 @@ beschliesst:
 
 <sup>1</sup> Einrichtungen mit ambulanten Angeboten zur Entlastung von Familien mit Kindern und Jugendlichen mit schweren Behinderungen übernehmen stunden- oder tageweise die Betreuung und Pflege im familiären Umfeld, um Aufenthalte in einer stationären Einrichtung oder einer Pflegefamilie zu vermeiden und den Eltern die notwendige Erholung zu ermöglichen.
 
-<sup>2</sup> Eine schwere Behinderung liegt vor, wenn der behinderungsbedingte Aufwand in der Betreuung und Pflege mindestens 42.5 Stunden pro Woche beträgt.
+<sup>2</sup> Eine schwere Behinderung liegt vor bei Kindern und Jugendlichen, die gemäss Art. 42<sup>ter</sup> Abs. 3 des Bundesgesetzes über die Invalidenversicherung (IVG) vom 19. Juni 1959[^1b-1] Anspruch auf einen Intensivpflegezuschlag zur Hilflosenentschädigung haben und im Tagesdurchschnitt einen invaliditätsbedingten Betreuungsaufwand von mindestens 6 Stunden pro Tag aufweisen.
+
+[^1b-1]: SR [831.20](https://db.clex.ch/link/Bund/831.20/de)
 
 #### § 2
 
@@ -83,11 +85,11 @@ beschliesst:
 
 <sup>1</sup> Als stationäre Einrichtungen, die Kinder, Jugendliche und junge Erwachsene beherbergen, gelten alle Wohnangebote, die vier oder mehr Personen Unterkunft, Verpflegung und Betreuung anbieten, wenn diese aufgrund gravierender familiärer oder sozialer Problemsituationen oder aufgrund einer Behinderung einer stationären sozialpädagogischen Betreuung bedürfen. Zusätzlich können Pflege und berufliche Grundbildung angeboten werden.
 
-<sup>1<sup>bis</sup></sup> Die Angebote umfassen auch die Vorbereitung und Begleitung der Rückkehr von Kindern und Jugendlichen in ihr angestammtes familiäres Umfeld, soweit dies angezeigt ist.
+<sup>1<sup>bis</sup></sup> Die Angebote umfassen auch die Vorbereitung und Begleitung der Rückkehr von Kindern und Jugendlichen in ihr angestammtes familiäres Umfeld, soweit dies angezeigt ist. Junge Erwachsene werden in die Selbständigkeit begleitet.
 
 <sup>2</sup> Diese Einrichtungen fallen unter den Begriff der Heimpflege gemäss Art. 13 Abs. 1 lit. a der bundesrätlichen Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977[^3-1].
 
-<sup>3</sup> Als junge Erwachsene gelten volljährige Personen bis zum vollendeten 20. Altersjahr, längstens jedoch bis zum Abschluss der Erstausbildung, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten sind. Bei jugendstrafrechtlichen Massnahmen liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
+<sup>3</sup> Als junge Erwachsene gelten volljährige Personen bis zum vollendeten 20. Altersjahr, sofern sie vor Erreichen der Volljährigkeit in eine Einrichtung eingetreten sind. Bei jugendstrafrechtlichen Massnahmen liegt die Altersgrenze unabhängig vom Eintrittsalter beim vollendeten 25. Altersjahr.
 
 [^3-1]: SR [211.222.338](https://db.clex.ch/link/Bund/211.222.338/de)
 
@@ -95,9 +97,11 @@ beschliesst:
 
 **Dienstleistungsanbieter in der Familienpflege**
 
-<sup>1</sup> Dienstleistungsanbieter in der Familienpflege vermitteln Kinder und Jugendliche in inner- und ausserkantonale Pflegefamilien, die ihnen Unterkunft, Verpflegung, Betreuung und Pflege anbieten. Die Vermittlung umfasst die Eignungsabklärung der Pflegeeltern und die Passung zwischen dem Kind oder Jugendlichen und der Pflegefamilie. Zudem stellen Dienstleistungsanbieter in der Familienpflege die Qualität des Pflegeverhältnisses sicher, begleiten und unterstützen die Pflegefamilien und entrichten den Pflegeeltern ein angemessenes Pflegegeld.
+<sup>1</sup> Dienstleistungsanbieter in der Familienpflege vermitteln Kinder, Jugendliche und junge Erwachsene in inner- und ausserkantonale Pflegefamilien, die ihnen Unterkunft, Verpflegung, Betreuung und Pflege anbieten. Die Vermittlung umfasst die Eignungsabklärung der Pflegeeltern und die Passung zwischen dem Kind, der oder dem Jugendlichen oder der jungen erwachsenen Person und der Pflegefamilie. Zudem stellen Dienstleistungsanbieter in der Familienpflege die Qualität des Pflegeverhältnisses sicher, begleiten und unterstützen die Pflegefamilien und entrichten den Pflegeeltern ein angemessenes Pflegegeld.
 
-<sup>2</sup> Die Angebote umfassen auch die Vorbereitung und Begleitung der Rückkehr von Kindern und Jugendlichen in ihr angestammtes familiäres Umfeld, soweit dies angezeigt ist.
+<sup>2</sup> Die Angebote umfassen auch die Vorbereitung und Begleitung der Rückkehr von Kindern und Jugendlichen in ihr angestammtes familiäres Umfeld, soweit dies angezeigt ist. Junge Erwachsene werden in die Selbständigkeit begleitet.
+
+<sup>3</sup> Als junge Erwachsene gelten volljährige Personen gemäss § 3 Abs. 3 Satz 1.
 
 #### § 3b
 
@@ -119,14 +123,16 @@ beschliesst:
 
 **Einrichtungen mit ambulanten Angeboten zur Unterstützung des selbständigen Wohnens**
 
-<sup>1</sup> Einrichtungen mit ambulanten Angeboten zur Unterstützung des selbständigen Wohnens unterstützen und begleiten erwachsene Menschen mit Behinderungen, die selbstbestimmt in einer selbständigen Wohnform leben und die Voraussetzungen für den Bezug eines Assistenzbeitrags gemäss Art. 42<sup>quater</sup> des Bundesgesetzes über die Invalidenversicherung (IVG) vom 19. Juni 1959[^4a-1] nicht erfüllen oder nicht in der Lage sind, die Arbeitgeberfunktion gegenüber der Assistenzperson wahrzunehmen.
+<sup>1</sup> Einrichtungen mit ambulanten Angeboten zur Unterstützung des selbständigen Wohnens unterstützen und begleiten erwachsene Menschen mit Behinderungen, die selbstbestimmt in einer selbständigen Wohnform leben und die
 
-<sup>2</sup> Als selbständige Wohnformen gelten Wohnverhältnisse, welche die Voraussetzungen gemäss Art. 35<sup>ter</sup> Abs. 4 der Verordnung über die Invalidenversicherung (IVV) vom 17. Januar 1961[^4a-2] erfüllen.
+- a) in der Regel einen Invaliditätsgrad von mindestens 40 % aufweisen, und
+- b) die Voraussetzungen für den Bezug eines Assistenzbeitrags gemäss Art. 42<sup>quater</sup> IVG nicht erfüllen oder nicht in der Lage sind, die Arbeitgeberfunktion gegenüber der Assistenzperson wahrzunehmen.
+
+<sup>2</sup> Als selbständige Wohnformen gelten Wohnverhältnisse, welche die Voraussetzungen gemäss Art. 35<sup>ter</sup> Abs. 4 der Verordnung über die Invalidenversicherung (IVV) vom 17. Januar 1961[^4a-1] erfüllen.
 
 <sup>3</sup> Die Angebote umfassen auch die Vorbereitung auf ein selbstbestimmtes Leben in einer selbständigen Wohnform.
 
-[^4a-1]: SR [831.20](https://db.clex.ch/link/Bund/831.20/de)
-[^4a-2]: SR [831.201](https://db.clex.ch/link/Bund/831.201/de)
+[^4a-1]: SR [831.201](https://db.clex.ch/link/Bund/831.201/de)
 
 #### § 5
 
@@ -150,7 +156,7 @@ beschliesst:
 
 **Einrichtungen mit ambulanten Angeboten zur Begleitung im ersten Arbeitsmarkt**
 
-<sup>1</sup> Einrichtungen mit ambulanten Angeboten zur Begleitung im ersten Arbeitsmarkt beraten, unterstützen und begleiten erwachsene Menschen mit Behinderungen, die in der Regel mindestens einen Invaliditätsgrad von 70 % aufweisen müssen, sowie deren Arbeitgebende an inner- oder ausserkantonalen Arbeitsplätzen. Die begleitenden Leistungen können gegen Entschädigung teilweise an die Arbeitgebenden delegiert werden.
+<sup>1</sup> Einrichtungen mit ambulanten Angeboten zur Begleitung im ersten Arbeitsmarkt beraten, unterstützen und begleiten erwachsene Menschen mit Behinderungen, die in der Regel einen Invaliditätsgrad von mindestens 70 % aufweisen müssen, sowie deren Arbeitgebende an inner- oder ausserkantonalen Arbeitsplätzen. Die begleitenden Leistungen können gegen Entschädigung teilweise an die Arbeitgebenden delegiert werden.
 
 <sup>2</sup> Die Angebote umfassen auch die Prüfung des beruflichen Potenzials und die Unterstützung bei der Suche einer geeigneten Arbeitsstelle.
 
@@ -287,7 +293,7 @@ beschliesst:
 
 **Rechnungsführung und Jahresrechnung**
 
-<sup>1</sup> Grundlage für die Rechnungsführung bildet der Kontenrahmen für soziale Einrichtungen IVSE[^20-1] von CURAVIVA[^20-2]. Für die Rechnungsführung und Jahresrechnung gelten folgende Grundsätze:
+<sup>1</sup> Grundlage für die Rechnungsführung bildet der Kontenrahmen für soziale Einrichtungen IVSE[^20-1] von ARTISET[^20-2]. Für die Rechnungsführung und Jahresrechnung gelten folgende Grundsätze:
 
 - a) Vermittlung eines den tatsächlichen Verhältnissen entsprechenden Bildes der Vermögens- und Ertragslage,
 - b) Fortführung der Tätigkeit,
@@ -305,7 +311,7 @@ beschliesst:
 <sup>3</sup> Anerkannte Einrichtungen führen eine Kostenrechnung nach den Vorgaben des BKS.
 
 [^20-1]: Interkantonale Vereinbarung für Soziale Einrichtungen IVSE vom 13. Dezember 2002 (SAR [428.030](https://gesetzessammlungen.ag.ch/data/428.030/de))
-[^20-2]: Verband Heime und Institutionen Schweiz
+[^20-2]: Föderation der Branchenverbände der Dienstleister für Menschen mit Unterstützungsbedarf
 
 ### 2.3. Gemeinsame Bestimmungen
 
@@ -463,7 +469,7 @@ beschliesst:
 
 **Anrechenbare Aufwendungen**
 
-<sup>1</sup> Die anrechenbaren Aufwendungen entsprechen grundsätzlich den Kontenklassen drei und vier des Kontenrahmens für soziale Einrichtungen IVSE von CURAVIVA.
+<sup>1</sup> Die anrechenbaren Aufwendungen entsprechen grundsätzlich den Kontenklassen drei und vier des Kontenrahmens für soziale Einrichtungen IVSE von ARTISET.
 
 <sup>1<sup>bis</sup></sup> Auf ausstehende Forderungen kann höchstens ein Delkredere von 5 %, auf solche gegenüber dem Kanton kein Delkredere vorgenommen werden.
 
@@ -481,6 +487,8 @@ beschliesst:
 - a) 3 % auf immobilen Sachanlagen,
 - b) 20 % auf Mobilien, Maschinen und Fahrzeugen,
 - c) 33 ⅓ % auf Informatik- und Kommunikationssystemen.
+
+<sup>2<sup>bis</sup></sup> Das BKS kann in begründeten Fällen Ausnahmen vom maximalen Abschreibungssatz gemäss Absatz 2 lit. a bewilligen.
 
 <sup>3</sup> Objekte mit einem Anschaffungswert von Fr. 3'000.– oder mehr sowie immobile Sachanlagen und Instandsetzungen mit einem Anschaffungswert von Fr. 50'000.– oder mehr sind zu aktivieren. Bei Anschaffungen von mehreren gleichen Objekten ist der gesamte Anschaffungswert für die Aktivierung massgebend.
 
@@ -577,6 +585,8 @@ beschliesst:
 <sup>4</sup> Ausserdem kann das zuständige Organ der Trägerschaft dem Rücklagenfonds, unter Berücksichtigung der Grundsätze gemäss § 20 und wenn kein Negativsaldo besteht, pro Jahr bis 30 % des zugewiesenen Überschusses des Vorjahres entnehmen und für Angebote oder Vorhaben im Rahmen des Vertragszwecks verwenden. Für darüber hinausgehende Entnahmen ist die Zustimmung des BKS erforderlich.
 
 <sup>4<sup>bis</sup></sup> Besteht beim Rücklagenfonds am Ende des Rechnungsjahrs ein Negativsaldo, der 20 % der jährlichen Leistungsabgeltung überschreitet, sind die notwendigen Sanierungsmassnahmen im Leistungsvertrag zu vereinbaren. Kommt keine Einigung zustande, werden sie vom BKS angeordnet.
+
+<sup>4<sup>ter</sup></sup> Ein Negativsaldo des Rücklagenfonds wird bei Wegfall der Anerkennung vom BKS weder übernommen noch durch Zahlung ausgeglichen.
 
 <sup>5</sup> …
 
@@ -883,7 +893,9 @@ beschliesst:
 <sup>1</sup> Folgende Dienstleistungen von gemeinnützigen Organisationen können vom Kanton mit Beiträgen unterstützt werden:
 
 - a) kantonsweite Entlastung, Erwachsenenbildung sowie Rechts- und Sozialberatung für Menschen mit Behinderungen mit zivilrechtlichem Wohnsitz im Kanton Aargau,
-- b) das Betreiben einer Ombudsstelle für Menschen mit Behinderungen in Einrichtungen im Kanton Aargau.
+- b) das Betreiben einer Ombudsstelle für Menschen mit Behinderungen in Einrichtungen im Kanton Aargau,
+- c) Selbstvertretung der Interessen von Menschen mit Behinderungen in Einrichtungen im Kanton Aargau,
+- d) Angebotsplattformen für Menschen mit besonderen Betreuungsbedürfnissen mit zivilrechtlichem Wohnsitz im Kanton Aargau.
 
 ## 7. Schluss- und Übergangsbestimmungen
 
