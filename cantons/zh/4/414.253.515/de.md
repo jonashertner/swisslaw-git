@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.515"
 title: Studienordnung für den Masterstudiengang in Angewandter Psychologie an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2021-08-01"
-nachtrag: "113"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2008-08-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_515-2008_08_08-2008_10_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_515-2008_08_08-2008_10_01-119.html"
 text: pdf
 ---
 
@@ -60,9 +59,9 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 **1**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
-[^2-1]: Aufgehoben durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021. 1. 7. 21 - 113 5
+[^2-1]: Aufgehoben durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
 [^2-2]: Fassung gemäss B vom 23. Februar 2017 (OS 72, 336; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
 [^2-3]: Fassung gemäss B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
 
@@ -107,7 +106,7 @@ Das Angebot des Studiengangs setzt sich zusammen aus Pflichtmodulen sowie Wahlpf
 
 § 8.[^7-1]
 
-[^7-1]: Aufgehoben durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021. 1. 7. 21 - 113 5
+[^7-1]: Aufgehoben durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
 
 ### D. Prüfungen und andere Leistungsnachweise
 
@@ -151,7 +150,7 @@ Das Angebot des Studiengangs setzt sich zusammen aus Pflichtmodulen sowie Wahlpf
 
 [^9-1]: Fassung gemäss B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
 [^9-2]: Fassung gemäss B vom 23. Februar 2017 (OS 72, 336; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
-[^9-3]: Aufgehoben durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021. 1. 7. 21 - 113 5
+[^9-3]: Aufgehoben durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
 
 #### § 14
 
@@ -180,21 +179,22 @@ Das Angebot des Studiengangs setzt sich zusammen aus Pflichtmodulen sowie Wahlpf
 
 **3**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 ### E. Studienabschluss und Masterdiplom
 
 **Titel**
 
-§ 16.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZFH in Angewandter Psychologie» abgeschlossen.
+§ 16.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Angewandter Psychologie» abgeschlossen.
 
-[^hEStudienabschluss-1]: Fassung gemäss B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 507; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^hEStudienabschluss-2]: Fassung gemäss B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
 
 #### § 17
 
 **Abschluss des Studiums**
 
-Das Masterstudium ist abgeschlossen, wenn 120 ECTS-Credits[^hEStudienabschluss-1] in den vorgeschriebenen Pflicht- und Wahlpflichtmodulen erworben wurden.
+Das Masterstudium ist abgeschlossen, wenn 120 ECTS-Credits[^hEStudienabschluss-2] in den vorgeschriebenen Pflicht- und Wahlpflichtmodulen erworben wurden.
 
 **Abschlussnote**
 
@@ -232,18 +232,19 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 § 21.[^hGÜbergangsbestimmu-1] <sup>1</sup> Studierende, die vor dem Herbstsemester 2021/2022 ihr Studium aufgenommen haben, schliessen dieses mit den Vertiefungstiteln gemäss der vor der Änderung vom 30. April 2020 geltenden Regelung ab.
 
-<sup>2</sup> Ausgenommen sind Studierende, die ihr Studium nicht bis Ende des Herbstsemesters 2023/2024 abgeschlossen haben, sowie Studierende, die durch Verzögerungen in den Studiengang ohne Vertiefungen übertreten. Diese schliessen ihr Studium mit dem Titel «Master of Science ZFH in Angewandter Psychologie» ab.
+<sup>2</sup> Ausgenommen sind Studierende, die ihr Studium nicht bis Ende des Herbstsemesters 2023/2024 abgeschlossen haben, sowie Studierende, die durch Verzögerungen in den Studiengang ohne Vertiefungen übertreten. Diese schliessen ihr Studium mit dem Titel «Master of Science ZHAW in Angewandter Psychologie» ab.[^hGÜbergangsbestimmu-2]
 
 [^hGÜbergangsbestimmu-1]: Eingefügt durch B vom 30. April 2020 (OS 75, 390; ABl 2020-06-12). In Kraft seit 1. August 2021.
-[^hGÜbergangsbestimmu-2]: Fassung gemäss B vom 23. Februar 2017 (OS 72, 336; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
+[^hGÜbergangsbestimmu-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 507; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^hGÜbergangsbestimmu-3]: Fassung gemäss B vom 23. Februar 2017 (OS 72, 336; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
 
 ### Anhang zur Studienordnung für den Masterstudiengang in Angewandter Psychologie an der Zürcher Hochschule für Angewandte Wissenschaften
 
-[^hGÜbergangsbestimmu-2]
+[^hGÜbergangsbestimmu-3]
 
 Der Anhang zur Studienordnung für den Masterstudiengang in Angewandter Psychologie an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
