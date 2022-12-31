@@ -4,11 +4,11 @@ title: "Federal Act of 5 October 2007 on Geoinformation (Geoinformation Act, Geo
 short: GeoIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: en
-version: 2009-10-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20091001/en/xml/fedlex-data-admin-ch-eli-cc-2008-388-20091001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20091001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -21,9 +21,9 @@ Federal Act on Geoinformation
 
 (Geoinformation Act, GeoIA)
 
-of 5 October 2007 (Status as on 1 October 2009)
+of 5 October 2007 (Status as on 1 January 2023)
 
-The Federal Assembly of the Swiss Confederation, based on Article 60 paragraph 1, 63, 64, 75a and 122 paragraph 1 of the Federal Constitution*[^ingress-1]*, and having considered the Federal Council Dispatch dated 6 September 2006*[^ingress-2]*,
+The Federal Assembly of the Swiss Confederation, based on Articles 60 paragraph 1, 63, 64, 75a and 122 paragraph 1 of the Federal Constitution[^ingress-1], and having considered the Federal Council Dispatch dated 6 September 2006[^ingress-2],
 
 decrees:
 
@@ -67,7 +67,7 @@ In this Act:
 - g. *geospatial metadata* means formal descriptions of the characteristics of geodata describing, for example, the origin, content, structure, validity, up-to-dateness, accuracy, rights of use, access or methods of processing;
 - h. *geodata models* means descriptions of reality determining the structure and content of geodata independent from the used hard- and software systems;
 - i. *presentation models* means descriptions of graphical presentations for the visualization of geodata e.g. in the form of maps and plans;
-- k. *geodata services* means network applications which facilitate and simplify the use of electronic services for geodata and allow access to structured geodata.
+- j. *geodata services* means network applications which facilitate and simplify the use of electronic services for geodata and allow access to structured geodata.
 
 <sup>2</sup> The Federal Council may expand the definitions of the terms used in this Act and amend them in accordance with the latest scientific and technical findings and international usage.
 
@@ -513,13 +513,36 @@ The financing of the work in Article 34, paragraph 1 shall be provided by the Co
 
 **Cadastral Surveying**
 
-<sup>1</sup> Cadastral Surveying shall be jointly financed by the Confederation and the cantons. The Federal Assembly shall regulate the details in an ordinance. This ordinance shall form the basis for the global payments made by the Confederation in accordance with the programme agreements.
+<sup>1</sup>
+
+Cadastral Surveying shall be jointly financed by the Confederation and the cantons. The Federal Assembly shall regulate the details in an ordinance. The Confederation shall grant the cantons contributions to the following measures and projects based on programme agreements:
+
+- a. initial and new surveys;
+- b. renovations;
+- c. demarcations;
+- d. measures following natural events;
+- e. periodical updates;
+- f. special adjustments of exceptional national interest;
+- g. innovative projects to develop Cadastral Surveying and to test new technologies.[^38-1]
+
+<sup>1bis</sup> The contributions shall be calculated according to the importance of the measures and projects for the coverage, homogeneity and harmonisation of Cadastral Surveying data for Switzerland.[^38-2]
+
+<sup>1ter</sup> When there is exceptional national interest in implementing a measure or conducting a project, the contribution may cover up to 80 per cent of the overall costs. When funding an innovative project to develop Cadastral Surveying or to test new technologies, the contribution may be higher.[^38-3]
+
+<sup>1quater</sup> The Federal Council shall issue regulations on calculating the contributions.[^38-4]
 
 <sup>2</sup> The costs of updating Cadastral Surveying shall be borne by the natural person or legal entity that has caused the update, provided that this person or entity can be identified.
 
-<sup>3</sup> The cantons shall bear the costs that are not covered by global payments made by the Confederation or by fees. The cantons may determine who must contribute to these remaining costs.
+<sup>3</sup> The cantons shall bear the costs that are not covered by contributions made by the Confederation or by fees. The cantons may determine who must contribute to these remaining costs.[^38-5]
 
-<sup>4</sup> The Confederation shall finance the work carried out by a substitute organisation (Article 34, paragraph 3). It shall reclaim the costs that remain after deduction of the agreed global payments from the defaulting canton.
+<sup>4</sup> The Confederation shall finance the work carried out by a substitute organisation (Article 34, paragraph 3). It shall reclaim the costs that remain after deduction of the agreed contributions from the defaulting canton.[^38-6]
+
+[^38-1]: Amended by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-2]: Inserted by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-3]: Inserted by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-4]: Inserted by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-5]: Amended by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-6]: Amended by No I 3 of the FA of 19 March 2021 on Administrative Facilities and Reducing the Burden on the Federal Budget, in force since 1 Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 39
 
@@ -596,7 +619,7 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 
 If the Federal Act of 6 October 2006[^45-1] on the Creation and Amendment of Legislation on the New System of Financial Equalisation and Division of Tasks between the Confederation and the Cantons (NFE) at the same time or after this Act, Number II/I of (Art. 39 Final Title Civil Code[^45-2]) shall cease to apply.
 
-[^45-1]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787). The NFE bill came into force on 1 January 2008.
+[^45-1]: [AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787). The NFE bill cames into force on 1 Jan. 2008.
 [^45-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 46
@@ -624,12 +647,12 @@ The cantons shall adapt their legislation on geoinformation within three years o
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
-<sup>2</sup> Articles 16-18, 34 paragraph 1 letters e and f and Article 39 shall be implemented by the Federal Council on the commencement of the Ordinance on Public-law Restrictions on landownership[^47-1]. The Federal Council shall determine the commencement date for the remaining provisions.
+<sup>2</sup> Articles 16-18, 34 paragraph 1 letters e and f and Article 39 shall be implemented by the Federal Council on the commencement of the Ordinance of 2 September 2009 on Public-law Restrictions on landownership[^47-1]. The Federal Council shall determine the commencement date for the remaining provisions.
 
 Commencement Date: 1 July 2008[^47-2] Articles 16–18, 34 paragraph 1 letters e and f and 39: 1 October 2009[^47-3]
 
 [^47-1]: [SR 510.622.4](https://fedlex.data.admin.ch/eli/cc/2009/553)
-[^47-2]: Federal Council Decree dated 21 May 2008 (AS **2008** 2807)
+[^47-2]: FCD of 21 May 2008.
 [^47-3]: Ordinance of 2 Sept. 2009 ([AS 2009 4721](https://fedlex.data.admin.ch/eli/oc/2009/552)).
 
 Annex
@@ -644,10 +667,7 @@ The Federal Act of 21 June 1935[^annexu1-lvlu1-1] on the Creation of the Nationa
 
 II
 
-The Civil Code[^annexu1-lvlu1-2] is revised as follows:
-
-…[^annexu1-lvlu1-3]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [BS **5** 665; [AS 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Sec. I 131]
-[^annexu1-lvlu1-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233).
-[^annexu1-lvlu1-3]: The amendments may be consulted under [AS 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388).
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388).

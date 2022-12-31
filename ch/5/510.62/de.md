@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2007 über Geoinformation (Geoinformationsge
 short: GeoIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: de
-version: 2009-10-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20091001/de/xml/fedlex-data-admin-ch-eli-cc-2008-388-20091001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20091001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20091001/de"
 
 (Geoinformationsgesetz, GeoIG)
 
-vom 5. Oktober 2007 (Stand am 1. Oktober 2009)
+vom 5. Oktober 2007 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -511,13 +511,36 @@ Die Finanzierung der Aufgaben nach Artikel 34 Absatz 1 erfolgt durch den Bund.
 
 **Amtliche Vermessung**
 
-<sup>1</sup> Bund und Kantone finanzieren die amtliche Vermessung gemeinsam. Die Bundesversammlung regelt die Einzelheiten in einer Verordnung. Diese bildet die Grundlage für die in Programmvereinbarungen festgelegten Globalbeiträge des Bundes.
+<sup>1</sup>
+
+Bund und Kantone finanzieren die amtliche Vermessung gemeinsam. Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen Beiträge an folgende Massnahmen und Projekte:
+
+- a. Erst- und Neuerhebungen;
+- b. Erneuerungen;
+- c. Vermarkungen;
+- d. Massnahmen infolge von Naturereignissen;
+- e. periodische Nachführungen;
+- f. besondere Anpassungen von aussergewöhnlich hohem nationalem Interesse;
+- g. innovative Projekte zur Weiterentwicklung der amtlichen Vermessung und zur Erprobung neuer Technologien.[^38-1]
+
+<sup>1bis</sup> Die Beiträge bemessen sich nach der Bedeutung der Massnahmen und Projekte für die Flächendeckung, Homogenität und Harmonisierung der Daten der amtlichen Vermessung der Schweiz.[^38-2]
+
+<sup>1ter</sup> Bei einem aussergewöhnlich hohen nationalen Interesse an der Umsetzung einer Massnahme oder eines Projekts kann der Beitrag maximal 80 Prozent der Gesamtkosten decken. Für die Finanzierung eines innovativen Projekts zur Weiterentwicklung der amtlichen Vermessung oder zur Erprobung neuer Technologien kann der Beitrag höher sein.[^38-3]
+
+<sup>1quater</sup> Der Bundesrat erlässt Vorschriften über die Bemessung der Beiträge.[^38-4]
 
 <sup>2</sup> Die Kosten der Nachführung der amtlichen Vermessung trägt die natürliche oder juristische Person, die sie verursacht, sofern sie bestimmbar ist.
 
-<sup>3</sup> Die Kantone tragen die Kosten, die weder durch Globalbeiträge des Bundes noch durch Gebühren gedeckt sind. Sie können bestimmen, wer sich an diesen restlichen Kosten zu beteiligen hat.
+<sup>3</sup> Die Kantone tragen die Kosten, die weder durch Beiträge des Bundes noch durch Gebühren gedeckt sind. Sie können bestimmen, wer sich an diesen restlichen Kosten zu beteiligen hat.[^38-5]
 
-<sup>4</sup> Der Bund finanziert die Ersatzvornahme (Art. 34 Abs. 3). Er fordert beim säumigen Kanton die Kosten ein, die nach Abzug der vereinbarten Globalbeiträge verbleiben.
+<sup>4</sup> Der Bund finanziert die Ersatzvornahme (Art. 34 Abs. 3). Er fordert beim säumigen Kanton die Kosten ein, die nach Abzug der vereinbarten Beiträge verbleiben.[^38-6]
+
+[^38-1]: Fassung gemäss Ziff. I 3 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-2]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-3]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-4]: Eingefügt durch Ziff. I 3 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-5]: Fassung gemäss Ziff. I 3 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-6]: Fassung gemäss Ziff. I 3 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2023 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 39
 
@@ -642,7 +665,7 @@ Das Bundesgesetz vom 21. Juni 1935[^annexu1-lvlu1-1] über die Erstellung neuer 
 
 II
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [BS **5** 665; [AS 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 131]
 [^annexu1-lvlu1-2]: Die Änderung kann unter [AS 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388)konsultiert werden.

@@ -4,24 +4,24 @@ title: "Loi fédérale du 5 octobre 2007 sur la géoinformation (Loi sur la géo
 short: LGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: fr
-version: 2009-10-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20091001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-388-20091001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20091001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la géoinformation
 
-(Loi sur la géoinformation, LGéo)<sup>[^t-1]∗</sup>
+(Loi sur la géoinformation, LGéo)<sup>[^t-1]</sup>
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> octobre 2009)
+du 5 octobre 2007 (Etat le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
-*L’Assemblée fédérale de la Confédération suisse,*
+L’Assemblée fédérale de la Confédération suisse,
 
 vu les art. 60, al. 1, 63, 64, 75*a* et 122, al. 1, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 6 septembre 2006[^ingress-2],
 
@@ -210,7 +210,7 @@ Le Conseil fédéral édicte des dispositions détaillées concernant:
 
 #### Art. 14
 
-**Echange entre autorités**
+**Échange entre autorités**
 
 <sup>1</sup> Les autorités fédérales et cantonales s’accordent mutuellement un accès simple et direct aux géodonnées de base.
 
@@ -220,7 +220,7 @@ Le Conseil fédéral édicte des dispositions détaillées concernant:
 
 #### Art. 15
 
-**Emoluments**
+**Émoluments**
 
 <sup>1</sup> La Confédération et les cantons peuvent percevoir des émoluments pour l’accès aux géodonnées de base et pour leur utilisation.
 
@@ -499,9 +499,9 @@ Lors de l’élaboration d’actes législatifs fédéraux relevant du champ d�
 
 **Collaboration internationale**
 
-<sup>1</sup> La Confédération encourage, en collaboration avec d’autres Etats, la coordination, l’harmonisation et la standardisation dans le domaine de la géoinformation.
+<sup>1</sup> La Confédération encourage, en collaboration avec d’autres États, la coordination, l’harmonisation et la standardisation dans le domaine de la géoinformation.
 
-<sup>2</sup> La collaboration avec d’autres Etats dans le domaine des géodonnées de base relevant du droit fédéral relève de la compétence de la Confédération.
+<sup>2</sup> La collaboration avec d’autres États dans le domaine des géodonnées de base relevant du droit fédéral relève de la compétence de la Confédération.
 
 <sup>3</sup> Dans les limites de leur domaine de compétence, les cantons peuvent collaborer directement avec les services locaux et régionaux des pays limitrophes, notamment échanger des géodonnées avec eux et coordonner la saisie, la mise à jour et la gestion des géodonnées.
 
@@ -517,13 +517,36 @@ Le financement des tâches visées à l’art. 34, al. 1, est assuré par la Con
 
 **Mensuration officielle**
 
-<sup>1</sup> La Confédération et les cantons assument en commun le financement de la mensuration officielle. L’Assemblée fédérale règle les modalités dans une ordonnance. Celle-ci constitue la base des contributions globales de la Confédération définies dans des conventions-programmes.
+<sup>1</sup>
+
+La Confédération et les cantons assument en commun le financement de la mensuration officielle. La Confédération alloue des contributions aux cantons sur la base de conventions-programmes pour les mesures et les projets suivants:
+
+- a. premiers relevés et nouveaux relevés;
+- b. renouvellements;
+- c. abornements;
+- d. mesures prises par suite de phénomènes naturels;
+- e. mises à jour périodiques;
+- f. adaptations particulières présentant un intérêt national exceptionnellement élevé;
+- g. projets innovants visant à poursuivre le développement de la mensuration officielle et à tester de nouvelles technologies.[^38-1]
+
+<sup>1bis</sup> Le montant des contributions est déterminé en fonction de l’importance des mesures et des projets pour la couverture territoriale, l’homogénéité et l’harmonisation des données de la mensuration officielle de la Suisse.[^38-2]
+
+<sup>1ter</sup> Si la mise en œuvre d’une mesure ou d’un projet présente un intérêt national exceptionnellement élevé, la contribution peut couvrir jusqu’à 80 % du coût total. Elle peut être plus élevée pour financer un projet innovant visant à poursuivre le développement de la mensuration officielle ou à tester de nouvelles technologies.[^38-3]
+
+<sup>1quater</sup> Le Conseil fédéral édicte des dispositions sur la façon de déterminer les contributions.[^38-4]
 
 <sup>2</sup> Les coûts qu’entraîne la mise à jour des données de la mensuration officielle sont supportés par la personne morale ou physique qui en est à l’origine, pour autant qu’elle soit identifiable.
 
-<sup>3</sup> Les cantons supportent les coûts qui ne sont couverts ni par des contributions globales de la Confédération ni par des émoluments. Ils peuvent régler la prise en charge des coûts restants.
+<sup>3</sup> Les cantons supportent les coûts qui ne sont couverts ni par des contributions de la Confédération ni par des émoluments. Ils peuvent régler la prise en charge des coûts restants.[^38-5]
 
-<sup>4</sup> La Confédération finance l’exécution par substitution (art. 34, al. 3). Elle exige le paiement des coûts restants par le canton défaillant, après déduction des contributions globales convenues.
+<sup>4</sup> La Confédération finance l’exécution par substitution (art. 34, al. 3). Elle exige le paiement des coûts restants par le canton défaillant, après déduction des contributions convenues.[^38-6]
+
+[^38-1]: Nouvelle teneur selon le ch. I 3 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-2]: Introduit par le ch. I 3 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-3]: Introduit par le ch. I 3 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-4]: Introduit par le ch. I 3 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-5]: Nouvelle teneur selon le ch. I 3 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-6]: Nouvelle teneur selon le ch. I 3 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 39
 
@@ -549,7 +572,7 @@ Le financement des tâches visées à l’art. 34, al. 1, est assuré par la Con
 
 **Ingénieur géomètre**
 
-<sup>1</sup> Quiconque a réussi l’examen d’Etat et est inscrit au registre des ingénieurs géomètres est en droit de procéder à l’exécution indépendante de travaux de la mensuration officielle.
+<sup>1</sup> Quiconque a réussi l’examen d’État et est inscrit au registre des ingénieurs géomètres est en droit de procéder à l’exécution indépendante de travaux de la mensuration officielle.
 
 <sup>2</sup>
 
@@ -582,7 +605,7 @@ La Confédération et les cantons encouragent la recherche dans le domaine de la
 
 #### Art. 43
 
-**Evaluation**
+**Évaluation**
 
 <sup>1</sup> Le Conseil fédéral examine, dans un délai de six ans à compter de l’introduction du cadastre des restrictions de droit public à la propriété foncière, la nécessité de ce dernier, son opportunité, son efficacité et son efficience économique.
 
@@ -650,7 +673,7 @@ II
 
 Le code civil[^annexu1-lvlu1-2] est modifié comme suit:
 
-…*[^annexu1-lvlu1-3]*
+…[^annexu1-lvlu1-3]
 
 [^annexu1-lvlu1-1]: [RS **5** 675; [RO 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)ch. I 131]
 [^annexu1-lvlu1-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)

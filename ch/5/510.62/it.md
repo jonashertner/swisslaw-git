@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2007 sulla geoinformazione (Legge sulla geo
 short: LGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/388"
 language: it
-version: 2009-10-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20091001/it/xml/fedlex-data-admin-ch-eli-cc-2008-388-20091001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20091001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/388/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-388-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/388/20091001/it"
 
 (Legge sulla geoinformazione, LGI)
 
-del 5 ottobre 2007 (Stato 1° ottobre 2009)
+del 5 ottobre 2007 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -511,13 +511,36 @@ La Confederazione assume il finanziamento dei compiti di cui all’articolo 34 c
 
 **Misurazione ufficiale**
 
-<sup>1</sup> La Confederazione e i Cantoni finanziano congiuntamente la misurazione ufficiale. I dettagli sono disciplinati in un’ordinanza dell’Assemblea federale. Questa ordinanza costituisce la base per i contributi globali della Confederazione stabiliti negli accordi di programma.
+<sup>1</sup>
+
+La Confederazione e i Cantoni finanziano congiuntamente la misurazione ufficiale. La Confederazione accorda ai Cantoni, sulla base di accordi di programma, contributi per le misure e i progetti seguenti:
+
+- a. primi e nuovi rilevamenti;
+- b. rinnovamenti;
+- c. demarcazioni;
+- d. provvedimenti in seguito a eventi naturali;
+- e. tenuta a giorno periodica;
+- f. adeguamenti particolari di interesse nazionale straordinario;
+- g. progetti innovativi per l’ulteriore sviluppo della misurazione ufficiale o la sperimentazione di nuove tecnologie.[^38-1]
+
+<sup>1bis</sup> I contributi della Confederazione sono commisurati all’importanza delle misure e dei progetti per la copertura capillare del territorio, l’omogeneità e l’armonizzazione dei dati della misurazione ufficiale svizzera.[^38-2]
+
+<sup>1ter</sup> Nei casi in cui vi è un interesse nazionale straordinario all’attuazione di una misura o di un progetto, il contributo della Confederazione può coprire fino all’80 per cento dei costi complessivi. Può essere più elevato per finanziare un progetto innovativo per l’ulteriore sviluppo della misurazione ufficiale o la sperimentazione di nuove tecnologie [^38-3]
+
+<sup>1quater</sup> Il Consiglio federale emana prescrizioni concernenti il calcolo dei contributi della Confederazione.[^38-4]
 
 <sup>2</sup> I costi per l’aggiornamento della misurazione ufficiale sono assunti dalla persona fisica o giuridica che li ha causati, sempre che quest’ultima sia identificabile.
 
-<sup>3</sup> I Cantoni assumono i costi non coperti né dai contributi globali della Confederazione né dagli emolumenti. Possono stabilire chi deve partecipare a tali costi residui.
+<sup>3</sup> I Cantoni assumono i costi non coperti né dai contributi della Confederazione né dagli emolumenti. Possono stabilire chi deve partecipare a tali costi residui.[^38-5]
 
-<sup>4</sup> La Confederazione finanzia l’esecuzione sostitutiva (art. 34 cpv. 3). Esige dal Cantone negligente i costi rimanenti dopo la deduzione dei contributi globali convenuti.
+<sup>4</sup> La Confederazione finanzia l’esecuzione sostitutiva (art. 34 cpv. 3). Esige dal Cantone negligente i costi rimanenti dopo la deduzione dei contributi convenuti.[^38-6]
+
+[^38-1]: Nuovo testo giusta il n. I 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-2]: Introdotto dal n. I 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-3]: Introdotto dal n. I 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-4]: Introdotto dal n. I 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-5]: Nuovo testo giusta il n. I 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^38-6]: Nuovo testo giusta il n. I 3 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
 
 #### Art. 39
 
@@ -627,7 +650,7 @@ I Cantoni adeguano la loro legislazione in materia di geoinformazione entro tre 
 Data dell'entrata in vigore: 1° luglio 2008[^47-2] Art. 16–18, 34 cpv. 1 lett. e ed f, nonché art. 39: 1° ottobre 2009[^47-3]
 
 [^47-1]: [RS 510.622.4](https://fedlex.data.admin.ch/eli/cc/2009/553).
-[^47-2]: DCF del 21 mag. 2008 (RU **2008** 2807).
+[^47-2]: DCF del 21 mag. 2008.
 [^47-3]: O del 2 set. 2009 ([RU 2009 4721](https://fedlex.data.admin.ch/eli/oc/2009/552)).
 
 Allegato
@@ -642,18 +665,7 @@ La legge federale del 21 giugno 1935[^annexu1-lvlu1-1] concernente l’allestime
 
 II
 
-Il Codice civile[^annexu1-lvlu1-2] è modificato come segue:
-
-<table>
-<tr><td></td><td>Art. 950</td></tr>
-<tr><td></td><td>…</td></tr>
-<tr><td></td><td>Tit. fin. art. 38 cpv. 1 e 2</td></tr>
-<tr><td></td><td>…</td></tr>
-<tr><td></td><td><sup>2</sup> *Abrogato*</td></tr>
-<tr><td></td><td>Tit. fin. art. 39*[^annexu1-lvlu1-3]*, 41 cpv. 1 e 42</td></tr>
-<tr><td></td><td>Abrogati</td></tr>
-</table>
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [CS **5** 637; [RU 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)]
-[^annexu1-lvlu1-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233).Le modifiche qui appresso sono inserite nel testo menzionato.
-[^annexu1-lvlu1-3]: Vedi art. 45 della L del 5 ott. 2007 sulla geoinformazione ([RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)).
+[^annexu1-lvlu1-2]: La mod. può essere consultata alla [RU 2008 2793](https://fedlex.data.admin.ch/eli/oc/2008/388).
