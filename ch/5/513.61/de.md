@@ -4,11 +4,11 @@ title: Verordnung vom 21. November 2018 über die Militärische Sicherheit (VMS)
 short: VMS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: de
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-730-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20190101/de"
 
 (VMS)
 
-vom 21. November 2018 (Stand am 1. Januar 2019)
+vom 21. November 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -179,6 +179,10 @@ Er erfüllt folgende Aufgaben:
 - b. Er koordiniert den damit zusammenhängenden Informationsaustausch innerhalb der Armee und mit den zivilen Behörden.
 - c. Er berät und unterstützt die armeeinternen Stellen im Bereich Eigenschutz.
 
+<sup>3</sup> Er kann zur Erfüllung seiner gesetzlichen Aufgaben im Rahmen von Einsätzen im Ausland mit ausländischen Behörden und Kommandostellen auf bi- und multilateraler Ebene zusammenarbeiten. Regelmässige Kontakte bedürfen einer jährlichen Genehmigung durch den Bundesrat.[^11-1]
+
+[^11-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 774](https://fedlex.data.admin.ch/eli/oc/2022/774)).
+
 #### Art. 12
 
 **Organisation**
@@ -199,7 +203,7 @@ Die Generalsekretärin oder der Generalsekretär des VBS und die Chefin oder der
 
 Die Verordnung vom 14. Dezember 1998[^14-1] über die Militärische Sicherheit wird aufgehoben.
 
-[^14-1]: [[AS 1999 887](https://fedlex.data.admin.ch/eli/oc/1999/130), [2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)Ziff. II 2, [2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)Ziff. III, [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)Anhang Ziff. 3]
+[^14-1]: [[AS 1999 887](https://fedlex.data.admin.ch/eli/oc/1999/130); [2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)Ziff. II 2; [2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)Ziff. III; [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)Anhang Ziff. 3]
 
 #### Art. 15
 

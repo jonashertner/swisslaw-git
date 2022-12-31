@@ -4,11 +4,11 @@ title: Ordonnance du 21 novembre 2018 sur la sécurité militaire (OSM)
 short: OSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: fr
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-730-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20190101/fr"
 
 (OSM)
 
-du 21 novembre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -110,7 +110,7 @@ Ses tâches sont les suivantes:
 - e. elle exécute un *controlling* spécialisé au sein de l’armée, du DDPS et de l’industrie et réglemente l’obligation de s’annoncer;
 - f. elle dispose d’un droit de contrôle au sein de l’armée, du DDPS et de l’industrie;
 - g. elle instruit les cas de violation des prescriptions de protection et de sécurité par des employés de la Confédération;
-- h. elle veille à l’élaboration et à l’application des conventions en matière de protection des informations conclues avec des Etats étrangers;
+- h. elle veille à l’élaboration et à l’application des conventions en matière de protection des informations conclues avec des États étrangers;
 - i. elle délivre des attestations de sécurité aux dépositaires de secrets.
 
 #### Art. 7
@@ -179,6 +179,10 @@ Ses tâches sont les suivantes:
 - b. il coordonne l’échange d’informations à ce sujet au sein de l’armée et avec les autorités civiles;
 - c. il conseille et appuie les services et unités internes à l’armée en matière de protection.
 
+<sup>3</sup> Il peut, pour l’exécution de son mandat légal dans le cadre d’engagements à l’étranger, recourir à une collaboration bilatérale ou multilatérale avec des autorités ou des commandements étrangers. Des contacts réguliers requièrent, chaque année, l’approbation du Conseil fédéral.[^11-1]
+
+[^11-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 774](https://fedlex.data.admin.ch/eli/oc/2022/774)).
+
 #### Art. 12
 
 **Organisation**
@@ -199,7 +203,7 @@ Le secrétaire général du DDPS et le chef de l’Armée exécutent la présent
 
 L’ordonnance du 14 décembre 1998 sur la sécurité militaire[^14-1] est abrogée.
 
-[^14-1]: [[RO 1999 887](https://fedlex.data.admin.ch/eli/oc/1999/130), [2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)ch. II 2, [2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)ch. III, [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)annexe ch. 3]
+[^14-1]: [[RO 1999 887](https://fedlex.data.admin.ch/eli/oc/1999/130); [2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)ch. II 2; [2008 6405](https://fedlex.data.admin.ch/eli/oc/2008/860)ch. III; [2016 1785](https://fedlex.data.admin.ch/eli/oc/2016/320)annexe ch. 3]
 
 #### Art. 15
 

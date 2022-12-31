@@ -4,11 +4,11 @@ title: Ordinanza del 21 novembre 2018 sulla sicurezza militare (OSM)
 short: OSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/730"
 language: it
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-730-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/730/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-730-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/730/20190101/it"
 
 (OSM)
 
-del 21 novembre 2018 (Stato 1° gennaio 2019)
+del 21 novembre 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -178,6 +178,10 @@ Il SPPEs adempie i compiti seguenti:
 - a. individua e analizza pericoli in relazione alla sicurezza, all’esercizio, all’istruzione, alla prontezza e all’impiego dell’esercito;
 - b. coordina il relativo scambio di informazioni in seno all’esercito e con le autorità civili;
 - c. fornisce consulenza e sostegno agli organi interni all’esercito nell’ambito dell’autoprotezione.
+
+<sup>3</sup> Per adempiere i suoi compiti stabiliti dalla legge, nel quadro di impieghi all’estero può collaborare con autorità e posti di comando stranieri a livello bilaterale e multilaterale. In caso di contatti regolari è necessaria un’autorizzazione annuale da parte del Consiglio federale.[^11-1]
+
+[^11-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 774](https://fedlex.data.admin.ch/eli/oc/2022/774)).
 
 #### Art. 12
 
