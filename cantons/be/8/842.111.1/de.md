@@ -4,13 +4,13 @@ number: "842.111.1"
 title: Kantonale Krankenversicherungsverordnung
 short: KKVV
 language: de
-version: 2021-11-08
-valid_until: 2022-12-31
-version_adopted: 2021-11-03
+version: 2023-01-01
+valid_until: 2025-11-30
+version_adopted: 2023-08-23
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/842.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2398/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2861/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2398/pdf_file"
 
 (KKVV)
 
-vom 25.10.2000 (Stand 08.11.2021)
+vom 25.10.2000 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern
 
@@ -61,6 +61,8 @@ beschliesst:
 
 ## 3 Prämienverbilligung
 
+### 3.1 Persönliche und familiäre Verhältnisse
+
 #### Art. 4
 
 **Persönliche Verhältnisse**
@@ -87,9 +89,13 @@ beschliesst:
 
 <sup>4</sup> Nicht zur Familie zählen Personen, welche das 18. Altersjahr überschritten haben und Anspruch auf eine Invalidenrente haben.
 
+### 3.2 Finanzielle Verhältnisse
+
+### 3.2.1 Grundsätze
+
 #### Art. 6
 
-**Finanzielle Verhältnisse a Berechnung bei Personen, die der ordentlichen Steuerveranlagung unterliegen**
+**Personen, die der ordentlichen Steuerveranlagung unterliegen**
 
 <sup>1</sup> Zur Beurteilung der finanziellen Verhältnisse von Personen, die im ordentlichen Verfahren veranlagt werden, sind das Reineinkommen nach Artikel 30 bis 39 des Steuergesetzes vom 21. Mai 2000 (StG)[^6-1] und das Reinvermögen nach Artikel 48 bis 63 StG heranzuziehen.
 
@@ -102,13 +108,13 @@ beschliesst:
 - a Steuerbefreite Einkünfte und Gewinne werden dazugerechnet.
 - b Der Liegenschaftsunterhalt, der ein Prozent des amtlichen Werts überschreitet, wird dazugerechnet.
 - c Bei Erben- und Miteigentümergemeinschaften wird der den Liegenschaftsertrag übersteigende Liegenschaftsaufwand nicht berücksichtigt.
-- d Freiwillige Leistungen von Geld und anderen Vermögenswerten im Sinne von Artikel 38a Buchstabe a StG und Mitgliederbeiträge und nachgewiesene Zuwendungen im Sinne von Artikel 38 Buchstabe m StG werden nicht angerechnet.
+- d Freiwillige Leistungen von Geld und anderen Vermögenswerten im Sinne von Artikel 38a Absatz 1 Buchstabe a StG und Mitgliederbeiträge und nachgewiesene Zuwendungen im Sinne von Artikel 38 Absatz 1 Buchstabe m StG werden nicht angerechnet.
 - e Die Auslagen für den auswärtigen Wochenaufenthalt werden nicht berücksichtigt.
 - f Verlustüberschüsse und Verluste im Sinne von Artikel 35 StG werden dazugerechnet.
 - g Der Zweiverdienerabzug und der Abzug für die Mitarbeit im Betrieb des Ehegatten im Sinne von Artikel 38 Absatz 2 StG werden nicht berücksichtigt.
 - h Beiträge an die berufliche Vorsorge (Säule 2), die nicht im Nettolohn II berücksichtigt sind und nicht als Aufwand verbucht worden sind, werden dazugerechnet.
 - i Beiträge an die gebundene Selbstvorsorge (Säule 3a) bis zum nach Bundesrecht zulässigen Maximalbetrag für unselbständig Erwerbstätige werden dazugerechnet.
-- k Die Krankheits- und Unfallkosten im Sinne von Artikel 38a Buchstabe b StG werden berücksichtigt.
+- k Die Krankheits- und Unfallkosten im Sinne von Artikel 38a Absatz 1 Buchstabe b StG werden berücksichtigt.
 
 <sup>5</sup> …
 
@@ -118,7 +124,7 @@ beschliesst:
 
 #### Art. 6a
 
-**a1 Berechnung bei quellenbesteuerten Personen**
+**Quellenbesteuerte Personen**
 
 <sup>1</sup> Zur Beurteilung der finanziellen Verhältnisse von quellenbesteuerten Personen werden 75 Prozent des Bruttoeinkommens herangezogen.
 
@@ -127,9 +133,15 @@ beschliesst:
 - a die Bruttoeinkünfte nach Artikel 113 StG und
 - b allfällige Bruttoeinkünfte der zur Familie zählenden Personen, die in einem andern Kanton oder im Ausland erzielt werden.
 
+<sup>2a</sup> Der Prämienverbilligungsanspruch wird sinngemäss nach Artikel 6 berechnet, wenn das nach Absatz 1 und Artikel 9 Absatz 2 berechnete massgebende Einkommen abzüglich der geleisteten Unterhaltsbeiträge (Art. 38 Abs. 1 Bst. c StG) unter der Grenze liegt, bis zu der ein Anspruch auf Prämienverbilligung besteht.
+
+<sup>3</sup> Bei quellenbesteuerten Personen, die im vorletzten Steuerjahr der nachträglich ordentlichen Steuerveranlagung unterlagen, ist Artikel 6 anwendbar.
+
+### 3.2.2 Ermittlung des Einkommens und Vermögens
+
 #### Art. 7
 
-**b Ermittlung des Einkommens und des Vermögens**
+**Personen, die der ordentlichen Steuerveranlagung unterliegen**
 
 <sup>1</sup> Für den Zeitraum vom 1. Januar bis zum 31. Dezember bestimmen sich das Reineinkommen und das Reinvermögen aufgrund der definitiven Veranlagung des vorletzten Steuerjahres.
 
@@ -137,11 +149,19 @@ beschliesst:
 
 <sup>3</sup> Bei Personen, die während des Vorjahres aus einem anderen Kanton in den Kanton Bern zugezogen sind, bestimmen sich das Reineinkommen und das Reinvermögen für den Zeitraum vom 1. Januar bis zum 31. Dezember aufgrund der definitiven Veranlagung des letzten Steuerjahres.
 
-<sup>4</sup> Bei Personen, die an der Quelle besteuert sind, werden die Einkommen und Vermögen des Vorjahres als Berechnungsgrundlage herangezogen.
+<sup>4</sup> …
+
+#### Art. 7a
+
+**Quellenbesteuerte Personen**
+
+<sup>1</sup> Bei quellenbesteuerten Personen werden das Bruttoeinkommen und das Bruttovermögen des Vorjahres als Berechnungsgrundlagen herangezogen.
+
+<sup>2</sup> Bei quellenbesteuerten Personen, die im vorletzten Steuerjahr der nachträglich ordentlichen Steuerveranlagung unterlagen, ist Artikel 7 anwendbar.
 
 #### Art. 8
 
-**c Sonderfälle**
+**Sonderfälle**
 
 <sup>1</sup> Geben die Steuerdaten die wirtschaftlichen Verhältnisse aufgrund besonderer Umstände nur ungenügend wieder, kann das ASV für die Ermittlung der finanziellen Verhältnisse ganz oder teilweise von den Steuerdaten abweichen. Besondere Umstände liegen insbesondere vor bei
 
@@ -153,29 +173,32 @@ beschliesst:
 
 #### Art. 8a
 
-**d Im Ausland wohnhafte Personen**
+**Im Ausland wohnhafte Personen**
 
 <sup>1</sup> Bei Personen, die im Ausland wohnen und in der Schweiz versichert sind, sind die Lebensunterhaltskosten des Wohnlandes zu berücksichtigen.
 
-#### Art. 9
+### 3.3 Wirtschaftliche Verhältnisse
 
-**Wirtschaftliche Verhältnisse**
+#### Art. 9
 
 <sup>1</sup> Vom Reinvermögen sind für jedes Mitglied der Familie 17'000 Franken abzuziehen.
 
-<sup>2</sup> Die wirtschaftlichen Verhältnisse ergeben sich aus dem massgebenden Einkommen. Dieses wird ermittelt, indem das korrigierte Reineinkommen (Art. 6 Abs. 4) bzw. das Einkommen nach Artikel 6a Absatz 1 und fünf Prozent des nach Absatz 1 reduzierten Reinvermögens zusammengerechnet werden und das Ergebnis um folgende persönliche oder familiäre Abzüge reduziert wird:
+<sup>2</sup> Die wirtschaftlichen Verhältnisse ergeben sich aus dem massgebenden Einkommen. Dieses wird ermittelt, indem das korrigierte Reineinkommen (Art. 6 Abs. 4) bzw. das Einkommen nach Artikel 6a Absatz 1 und fünf Prozent des nach Absatz 1 reduzierten Reinvermögens zusammengerechnet werden und das Ergebnis um folgende persönlichen oder familiären Abzüge reduziert wird:
 
 - a verheiratete Personen und Paare, die in eingetragener Partnerschaft leben (pro Paar): CHF 13'000
 - a1 unverheiratete Paare nach Artikel 19 Absatz 2 Buchstabe a2 und a3 EG KUMV (pro Paar): CHF 13'000
-- b alleinstehender Elternteil, der gemeinsam mit Personen nach Artikel 5 eine Familie bildet: CHF 6'500
+- b alleinstehender Elternteil, der gemeinsam mit Personen nach Artikel 5 eine Familie bildet: CHF 9'750
 - c alleinstehende Person, die nach Artikel 5 nicht zur Familie zählt: CHF 2'200
 - d das erste nach Artikel 5 zur Familie zählende Kind bzw. die oder der erste nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 15'000
 - e
-- f jedes weitere nach Artikel 5 zur Familie zählende Kind und jede oder jeder weitere nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 10'000
+- e1 das zweite nach Artikel 5 zur Familie zählende Kind bzw. die oder der zweite nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 12'500
+- f jedes weitere nach Artikel 5 zur Familie zählende Kind bzw. jede oder jeder weitere nach Artikel 5 zur Familie zählende junge Erwachsene: CHF 10'000
+
+### 3.4 Höhe
 
 #### Art. 10
 
-**Höhe der Prämienverbilligung: 1. Grundsätze**
+**Grundsätze**
 
 <sup>1</sup> Die Prämie wird höchstens bis zu ihrem effektiven Umfang verbilligt.
 
@@ -191,7 +214,7 @@ beschliesst:
 
 #### Art. 10a
 
-**2. Erwachsene**
+**Erwachsene**
 
 <sup>1</sup> Erwachsene erhalten monatlich folgende Prämienverbilligungen:
 
@@ -205,9 +228,16 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> Erwachsene mit nach Artikel 5 zur Familie zählenden Kindern und jungen Erwachsenen erhalten monatlich folgende Prämienverbilligungen:
+
+<table>
+<tr><th>Massgebendes jährliches Einkommen (Art. 9 Abs. 2)</th><th>Prämienregion 1: in CHF</th><th>Prämienregion 2: in CHF</th><th>Prämienregion 3: in CHF</th></tr>
+<tr><td>zwischen 35'001 und 45'000 Franken</td><td>33.50</td><td>30</td><td>28</td></tr>
+</table>
+
 #### Art. 10b
 
-**3. Junge Erwachsene, die nicht zur Familie ihrer Eltern zählen**
+**Junge Erwachsene, die nicht zur Familie ihrer Eltern zählen**
 
 <sup>1</sup> Junge Erwachsene, die nach Artikel 5 nicht zur Familie ihrer Eltern zählen und die sich nicht in Ausbildung befinden, erhalten monatlich folgende Prämienverbilligungen:
 
@@ -221,25 +251,32 @@ beschliesst:
 
 <sup>2–2a</sup> …
 
+<sup>2b</sup> Junge Erwachsene, die nach Artikel 5 nicht zur Familie ihrer Eltern zählen, erhalten monatlich folgende Prämienverbilligungen, wenn sie eigene, nach Artikel 5 zur Familie zählende Kinder haben und ihr massgebendes Familieneinkommen zwischen 35'001 und 45'000 Franken liegt:
+
+<table>
+<tr><th>Massgebendes jährliches Einkommen (Art. 9 Abs. 2)</th><th>Prämienregion 1: in CHF</th><th>Prämienregion 2: in CHF</th><th>Prämienregion 3: in CHF</th></tr>
+<tr><td>zwischen 35'001 und 45'000 Franken</td><td>31.50</td><td>28</td><td>26</td></tr>
+</table>
+
 <sup>3</sup> Sie erhalten 50 Prozent der Prämie verbilligt, wenn
 
 - a sie sich in Ausbildung befinden,
 - b sie keine eigenen, nach Artikel 5 zur Familie zählende Kinder haben und
-- c ihr massgebendes Einkommen 38'000 Franken nicht übersteigt.
+- c ihr massgebendes Einkommen 45'000 Franken nicht übersteigt.
 
 <sup>4</sup> Sie erhalten 50 Prozent der Prämie verbilligt, wenn
 
 - a sie sich in Ausbildung befinden,
 - b sie eigene, nach Artikel 5 zur Familie zählende Kinder haben und
-- c ihr massgebendes Familieneinkommen 38'000 Franken nicht übersteigt.
+- c ihr massgebendes Familieneinkommen 45'000 Franken nicht übersteigt.
 
 <sup>5</sup> Massgebende Prämie für die Verbilligung nach Absatz 3 und 4 ist die durchschnittliche Vorjahresprämie für junge Erwachsene der 20 günstigsten Krankenversicherer der Region, in welcher die oder der junge Erwachsene den Wohnsitz nach Artikel 10 hat.
 
 #### Art. 10c
 
-**4. Junge Erwachsene, die zur Familie ihrer Eltern zählen**
+**Junge Erwachsene, die zur Familie ihrer Eltern zählen**
 
-<sup>1</sup> Zählen junge Erwachsene nach Artikel 5 zur Familie ihrer Eltern, erhalten sie 50 Prozent der Prämie verbilligt, wenn das massgebende Familieneinkommen 38'000 Franken nicht übersteigt.
+<sup>1</sup> Zählen junge Erwachsene nach Artikel 5 zur Familie ihrer Eltern, erhalten sie 50 Prozent der Prämie verbilligt, wenn das massgebende Familieneinkommen 45'000 Franken nicht übersteigt.
 
 <sup>2–2a</sup> …
 
@@ -247,9 +284,9 @@ beschliesst:
 
 #### Art. 10d
 
-**5. Kinder**
+**Kinder**
 
-<sup>1</sup> Kinder erhalten 50 Prozent der Prämie verbilligt, wenn das massgebende jährliche Familieneinkommen 38'000 Franken nicht übersteigt.
+<sup>1</sup> Kinder erhalten 80 Prozent der Prämie verbilligt, wenn das massgebende jährliche Familieneinkommen 45'000 Franken nicht übersteigt.
 
 <sup>2–2a</sup> …
 
@@ -257,7 +294,7 @@ beschliesst:
 
 #### Art. 10e
 
-**6. Erwachsene mit Wohnsitz im Ausland**
+**Erwachsene mit Wohnsitz im Ausland**
 
 <sup>1</sup> Erwachsene, die ihren Wohnsitz im Ausland haben und in der Schweiz versicherungspflichtig sind, erhalten monatlich folgende Prämienverbilligungen:
 
@@ -271,21 +308,27 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> Sie erhalten 6,7 Prozent der Durchschnittsprämie des jeweiligen Wohnsitzstaates verbilligt, wenn
+
+- a sie eigene, nach Artikel 5 zur Familie zählende Kinder haben und
+- b ihr massgebendes Familieneinkommen zwischen 35'001 und 45'000 Franken liegt.
+
 #### Art. 10f
 
-**7. Kinder und junge Erwachsene mit Wohnsitz im Ausland, die zur Familie ihrer Eltern zählen**
+**Kinder und junge Erwachsene mit Wohnsitz im Ausland, die zur Familie ihrer Eltern zählen**
 
-<sup>1</sup> Kinder und junge Erwachsene, die nach Artikel 5 zur Familie ihrer Eltern zählen, erhalten 50 Prozent der Durchschnittsprämie des jeweiligen Wohnsitzstaates verbilligt, wenn
+<sup>1</sup> Kinder erhalten 80 Prozent und junge Erwachsene 50 Prozent der Durchschnittsprämie des jeweiligen Wohnsitzstaates verbilligt, wenn
 
-- a sie ihren Wohnsitz im Ausland haben,
-- b sie in der Schweiz versicherungspflichtig sind und
-- c das massgebende Familieneinkommen 38'000 Franken nicht übersteigt.
+- a sie nach Artikel 5 zur Familie ihrer Eltern zählen,
+- b sie ihren Wohnsitz im Ausland haben,
+- c sie in der Schweiz versicherungspflichtig sind und
+- d das massgebende Familieneinkommen 45'000 Franken nicht übersteigt.
 
 <sup>2</sup> …
 
 #### Art. 10g
 
-**8. Junge Erwachsene mit Wohnsitz im Ausland, die nicht zur Familie ihrer Eltern zählen**
+**Junge Erwachsene mit Wohnsitz im Ausland, die nicht zur Familie ihrer Eltern zählen**
 
 <sup>1</sup> Junge Erwachsene, die nach Artikel 5 nicht zur Familie ihrer Eltern zählen, die ihren Wohnsitz im Ausland haben, in der Schweiz versicherungspflichtig sind und sich nicht in Ausbildung befinden, erhalten monatlich folgende Prämienverbilligungen:
 
@@ -299,17 +342,24 @@ beschliesst:
 
 <sup>2–2a</sup> …
 
+<sup>2b</sup> Sie erhalten 6,7 Prozent der Durchschnittsprämie des jeweiligen Wohnsitzstaates verbilligt, wenn
+
+- a sie eigene, nach Artikel 5 zur Familie zählende Kinder haben und
+- b ihr massgebendes Familieneinkommen zwischen 35'001 und 45'000 Franken liegt.
+
 <sup>3</sup> Sie erhalten 50 Prozent der Durchschnittsprämie des jeweiligen Wohnsitzstaates verbilligt, wenn
 
 - a sie sich in Ausbildung befinden,
 - b sie keine eigenen, nach Artikel 5 zur Familie zählende Kinder haben und
-- c ihr massgebendes Einkommen 38'000 Franken nicht übersteigt.
+- c ihr massgebendes Einkommen 45'000 Franken nicht übersteigt.
 
 <sup>4</sup> Sie erhalten 50 Prozent der Durchschnittsprämie des jeweiligen Wohnsitzstaates verbilligt, wenn
 
 - a sie sich in Ausbildung befinden,
 - b sie eigene, nach Artikel 5 zur Familie zählende Kinder haben und
-- c ihr massgebendes Familieneinkommen 38'000 Franken nicht übersteigt.
+- c ihr massgebendes Familieneinkommen 45'000 Franken nicht übersteigt.
+
+### 3.5 Besondere Personengruppen
 
 #### Art. 11
 
@@ -339,6 +389,8 @@ beschliesst:
 
 <sup>6</sup> Personen nach Absatz 1 oder 2 wird im Todesmonat die Verbilligung für den ganzen Monat gewährt.
 
+### 3.6 Feststellen, Eröffnen und Neubeurteilung des Anspruchs
+
 #### Art. 13
 
 **Feststellen des Anspruchs**
@@ -347,7 +399,7 @@ beschliesst:
 
 <sup>2</sup> Folgende Personen müssen die Verbilligung der Prämien beantragen:
 
-- a an der Quelle besteuerte Personen und Personen, die im Vorjahr teilweise an der Quelle besteuert wurden;
+- a an der Quelle besteuerte Personen, sofern sie im vorletzten Steuerjahr nicht der nachträglich ordentlichen Steuerveranlagung unterlagen, und Personen, die im Vorjahr teilweise an der Quelle besteuert wurden;
 - b …
 - c Personen, die in der letzten Steuererklärung kein Einkommen ausgewiesen haben oder die nach Ermessen taxiert wurden;
 - d Personen, die gemäss dem Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit[^13-1] in der Schweiz versicherungspflichtig sind und im Ausland wohnen;
@@ -402,13 +454,15 @@ beschliesst:
 - a bei geänderten familiären Verhältnissen (Abs. 1 Bst. a) ab Eintritt des Ereignisses, frühestens aber ab 1. Januar des Jahres, in dem Antrag gestellt worden ist,
 - b bei geänderten Einkommensverhältnissen (Abs. 1 Bst. b) ab dem Zeitpunkt der Einkommensveränderung, frühestens aber ab 1. Januar des Jahres, in dem Antrag gestellt worden ist.
 
+### 3.7 Einstellen und Ausrichten
+
 #### Art. 17
 
 **Einstellen der Prämienverbilligung**
 
 <sup>1</sup> Die Verbilligung der Prämien in der obligatorischen Krankenpflegeversicherung ist einstweilen einzustellen oder herabzusetzen, wenn
 
-- a sich aufgrund der provisorischen Veranlagung des Steuerjahres, das für den Prämienverbilligungsanspruch massgebend ist (Art. 7), ergibt, dass der Anspruch auf Verbilligung voraussichtlich dahinfallen oder sich reduzieren wird,
+- a sich aufgrund der provisorischen Veranlagung des Steuerjahres, das für den Prämienverbilligungsanspruch massgebend ist (Art. 7 und Art. 7a Abs. 2), ergibt, dass der Anspruch auf Verbilligung voraussichtlich dahinfallen oder sich reduzieren wird,
 - b …
 - c die versicherungspflichtige Person trotz Aufforderung des ASV nicht nachweist, dass sie eine obligatorische Krankenpflegeversicherung abgeschlossen hat,
 - d am 1. November weder die provisorische noch die definitive Veranlagung der letzten Steuerperiode vorliegt.
@@ -424,6 +478,8 @@ beschliesst:
 <sup>3</sup> Die zuständige Stelle der Gemeinde, die zuständige Trägerschaft nach Artikel 10 Absatz 1 SAFG und die zuständige Dienststelle der Jugendanwaltschaft richten die Prämienverbilligung direkt dem Krankenversicherer aus.
 
 [^17a-1]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
+
+### 3.8 Rückerstattung
 
 #### Art. 17b
 
@@ -540,8 +596,8 @@ Name, Vorname, Adresse, Geburtsdatum, kantonale Identifikationsnummer, AHV-Numme
 
 <sup>1</sup> Als gleichwertige Rechtstitel im Sinne von Artikel 105i KVV gelten:
 
-- a die Pfändungsurkunde nach Artikel 115 Absatz 1 des Bundesgesetzes vom 11. April 1889 über die Schuldbetreibung und Konkurs (SchKG)[^22b-1] und
-- b die rechtskräftige Verfügung betreffend die Einstellung des Konkursverfahrens mangels Aktiven nach Artikel 230 Absatz 1 SchKG.
+- a die Pfändungsurkunde nach Artikel 115 Absatz 1 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^22b-1] und
+- b die schriftliche Mitteilung des Konkursamts, dass der Konkurs mangels Aktiven eingestellt (Art. 230 Abs. 1 SchKG), der verlangte Kostenvorschuss nicht geleistet und das Verfahren geschlossen worden ist.
 
 <sup>2</sup> Wurde einem Krankenversicherer aufgrund eines Verlustscheins oder eines gleichwertigen Rechtstitels eine unbezahlte Forderung nach Artikel 64a Absatz 4 KVG vergütet und meldet der Krankenversicherer zu einem späteren Zeitpunkt für die gleiche Forderung einen weiteren Verlustschein oder einen weiteren gleichwertigen Rechtstitel, so erhält er höchstens eine Vergütung für die neu entstandenen Betreibungskosten und Verzugszinsen.
 

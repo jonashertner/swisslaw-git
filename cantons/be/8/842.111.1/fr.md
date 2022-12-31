@@ -4,13 +4,13 @@ number: "842.111.1"
 title: "Ordonnance cantonale sur l'assurance-maladie"
 short: OCAMal
 language: fr
-version: 2021-11-08
-valid_until: 2022-12-31
-version_adopted: 2021-11-03
+version: 2023-01-01
+valid_until: 2025-11-30
+version_adopted: 2023-08-23
 adopted: 2000-10-25
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/842.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2398/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2861/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2398/pdf_file"
 
 (OCAMal)
 
-du 25.10.2000 (état au 08.11.2021)
+du 25.10.2000 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -61,6 +61,8 @@ arrête:
 
 ## 3 Réduction des primes
 
+### 3.1 Situation personnelle et familiale
+
 #### Art. 4
 
 **Situation personnelle**
@@ -87,9 +89,13 @@ arrête:
 
 <sup>4</sup> Ne sont pas réputés membres de la famille les personnes qui ont 18 ans révolus et qui ont droit à une rente d'invalidité.
 
+### 3.2 Situation financière
+
+### 3.2.1 Principes
+
 #### Art. 6
 
-**Situation financière a Calcul pour les personnes soumises à la procédure de taxation fiscale ordinaire**
+**Personnes soumises à la procédure de taxation fiscale ordinaire**
 
 <sup>1</sup> La situation financière des personnes taxées selon la procédure ordinaire est déterminée sur la base du revenu net au sens des articles 30 à 39 de la loi du 21 mai 2000 sur les impôts (LI)[^6-1] ainsi que de la fortune nette au sens des articles 48 à 63 LI.
 
@@ -102,13 +108,13 @@ arrête:
 - a les revenus et les gains exonérés d’impôts sont ajoutés;
 - b le montant de l’entretien des biens-fonds excédant un pour cent de la valeur officielle est ajouté;
 - c dans le cas des communautés héréditaires et des communautés de copropriétaires, les charges excédant le rendement des biens-fonds ne sont pas prises en considération;
-- d les dons en espèces ou sous forme d’autres valeurs patrimoniales au sens de l’article 38a, lettre a LI, les cotisations de membre et les libéralités prouvées au sens de l’article 38, lettre m LI ne sont pas pris en considération;
+- d les dons en espèces ou sous forme d’autres valeurs patrimoniales au sens de l’article 38a, alinéa 1, lettre a LI, les cotisations de membre et les libéralités prouvées au sens de l’article 38, alinéa 1, lettre m LI ne sont pas pris en considération;
 - e les dépenses occasionnées par le séjour hors du domicile durant la semaine ne sont pas prises en considération;
 - f les excédents de pertes et les pertes au sens de l’article 35 LI sont ajoutés;
 - g la déduction accordée aux époux qui exercent tous deux une activité lucrative et la déduction accordée pour le conjoint qui seconde l’autre dans son entreprise au sens de l’article 38, alinéa 2 LI ne sont pas prises en considération;
 - h les cotisations de prévoyance professionnelle (2<sup>e</sup> pilier) qui ne sont pas comprises dans le calcul du salaire net II et n’ont pas été comptabilisées comme charges sont ajoutées;
 - i les cotisations de prévoyance individuelle liée (3<sup>e</sup> pilier a) jusqu’à concurrence du montant maximal admis par le droit fédéral pour les personnes exerçant une activité lucrative dépendante sont ajoutées;
-- k les frais provoqués par la maladie ou les accidents au sens de l’article 38a, lettre b LI sont ajoutés.
+- k les frais provoqués par la maladie ou les accidents au sens de l’article 38a, alinéa 1, lettre b LI sont pris en considération.
 
 <sup>5</sup> …
 
@@ -118,18 +124,24 @@ arrête:
 
 #### Art. 6a
 
-**a1 Calcul pour les personnes imposées à la source**
+**Personnes imposées à la source**
 
 <sup>1</sup> La situation financière des personnes imposées à la source est déterminée sur la base du revenu brut, à hauteur de 75 pour cent de ce dernier.
 
 <sup>2</sup> Le revenu brut comprend
 
 - a les revenus bruts au sens de l’article 113 LI et
-- b les éventuels revenus bruts des personnes réputées membres de la famille, obtenus dans un autre canton ou à l‘étranger.
+- b les éventuels revenus bruts des personnes réputées membres de la famille, obtenus dans un autre canton ou à l'étranger.
+
+<sup>2a</sup> Le droit à la réduction des primes est calculé par analogie en application de l’article 6 lorsque le revenu déterminant établi selon l’alinéa 1 et l’article 9, alinéa 2, après déduction des contributions d’entretien versées (art. 38, al. 1, lit. c LI), est inférieur à la limite en dessous de laquelle il existe un droit à la réduction des primes.
+
+<sup>3</sup> L’article 6 s’applique aux personnes imposées à la source qui, durant l’avant-dernière année fiscale, étaient soumises à la taxation ordinaire ultérieure.
+
+### 3.2.2 Calcul du revenu et de la fortune
 
 #### Art. 7
 
-**b Calcul du revenu et de la fortune**
+**Personnes soumises à la procédure de taxation fiscale ordinaire**
 
 <sup>1</sup> Pour la période allant du 1<sup>er</sup> janvier au 31 décembre, le revenu net et la fortune nette sont déterminés sur la base de la taxation fiscale définitive de l’avant-dernière année fiscale.
 
@@ -137,11 +149,19 @@ arrête:
 
 <sup>3</sup> Le revenu net et la fortune nette des personnes venues s’établir dans le canton de Berne depuis un autre canton au cours de l’année précédente sont déterminés, pour la période allant du 1<sup>er</sup> janvier au 31 décembre, sur la base de la taxation fiscale définitive de la dernière année fiscale.
 
-<sup>4</sup> Pour les personnes imposées à la source, le revenu et la fortune de l’année précédente sont pris comme base de calcul.
+<sup>4</sup> …
+
+#### Art. 7a
+
+**Personnes imposées à la source**
+
+<sup>1</sup> Pour les personnes imposées à la source, le revenu brut et la fortune brute de l’année précédente sont pris comme base de calcul.
+
+<sup>2</sup> L’article 7 s’applique aux personnes imposées à la source qui, durant l’avant-dernière année fiscale, étaient soumises à la taxation ordinaire ultérieure.
 
 #### Art. 8
 
-**c Cas particuliers**
+**Cas particuliers**
 
 <sup>1</sup> Si, en raison de circonstances particulières, les données fiscales reflètent de manière insuffisante la situation financière, l’OAS peut, pour calculer cette dernière, s’écarter partiellement ou complètement des données fiscales. Ces circonstances particulières sont notamment présentes lorsque la personne concernée
 
@@ -153,13 +173,13 @@ arrête:
 
 #### Art. 8a
 
-**d Personnes résidant à l'étranger**
+**Personnes résidant à l'étranger**
 
 <sup>1</sup> Pour les personnes résidant à l'étranger et assurées en Suisse, il convient de prendre en considération les frais d'entretien dans le pays de résidence.
 
-#### Art. 9
+### 3.3 Situation économique
 
-**Situation économique**
+#### Art. 9
 
 <sup>1</sup> La fortune nette est diminuée de 17'000 francs par membre de la famille.
 
@@ -167,15 +187,18 @@ arrête:
 
 - a pour les personnes mariées et les couples vivant en partenariat enregistré (par couple): CHF 13'000
 - a1 pour les couples non mariés au sens de l'article 19, alinéa 2, lettres a2 et a3 LiLAMAM (par couple): CHF 13'000
-- b pour les personnes seules qui forment une famille monoparentale avec des personnes au sens de l'article 5: CHF 6500
+- b pour les personnes seules qui forment une famille monoparentale avec des personnes au sens de l'article 5: CHF 9750
 - c pour les personnes seules qui ne sont pas réputées membres d'une famille au sens de l'article 5: CHF 2200
 - d pour le premier des enfants ou des jeunes adultes réputés membres de la famille au sens de l'article 5: CHF 15'000
 - e
+- e1 pour le deuxième des enfants ou des jeunes adultes réputés membres de la famille au sens de l’article 5: CHF 12'500
 - f pour chacun des autres enfants ou des autres jeunes adultes réputés membres de la famille au sens de l'article 5: CHF 10'000
+
+### 3.4 Montants
 
 #### Art. 10
 
-**Montants de la réduction des primes 1. Principes**
+**Principes**
 
 <sup>1</sup> Les primes ne sont réduites que jusqu'à concurrence de leur montant effectif.
 
@@ -191,7 +214,7 @@ arrête:
 
 #### Art. 10a
 
-**2. Adultes**
+**Adultes**
 
 <sup>1</sup> Les adultes bénéficient de réductions des primes correspondant aux montants mensuels suivants:
 
@@ -205,9 +228,16 @@ arrête:
 
 <sup>2</sup> …
 
+<sup>3</sup> Les adultes dont la famille comprend de jeunes adultes et des enfants réputés membres au sens de l’article 5 bénéficient de réductions des primes correspondant aux montants mensuels suivants:
+
+<table>
+<tr><th>Revenu annuel déterminant (art. 9, al. 2)</th><th>Région de primes 1: en CHF</th><th>Région de primes 2: en CHF</th><th>Région de primes 3: en CHF</th></tr>
+<tr><td>situé entre 35'001 et 45'000 francs</td><td>33,50</td><td>30</td><td>28</td></tr>
+</table>
+
 #### Art. 10b
 
-**3. Jeunes adultes non réputés membres de la famille de leurs parents**
+**Jeunes adultes non réputés membres de la famille de leurs parents**
 
 <sup>1</sup> Les jeunes adultes qui ne sont pas réputés membres de la famille de leurs parents au sens de l’article 5 et ne sont pas en formation bénéficient de réductions des primes correspondant aux montants mensuels suivants:
 
@@ -221,25 +251,32 @@ arrête:
 
 <sup>2–2a</sup> …
 
+<sup>2b</sup> Les jeunes adultes qui ne sont pas réputés membres de la famille de leurs parents au sens de l’article 5, qui ont des enfants réputés membres de leur famille au sens de l’article 5, et dont le revenu familial déterminant se situe entre 35'001 et 45'000 francs bénéficient des réductions des primes correspondant aux montants mensuels suivants:
+
+<table>
+<tr><th>Revenu annuel déterminant (art. 9, al. 2)</th><th>Région de primes 1: en CHF</th><th>Région de primes 2: en CHF</th><th>Région de primes 3: en CHF</th></tr>
+<tr><td>situé entre 35'001 et 45'000 francs</td><td>31,50</td><td>28</td><td>26</td></tr>
+</table>
+
 <sup>3</sup> Ils bénéficient d’une réduction des primes de 50 pour cent
 
 - a s’ils sont en formation;
 - b s’ils n’ont pas d’enfants réputés membres de leur famille au sens de l’article 5 et
-- c que leur revenu déterminant ne dépasse pas 38'000 francs.
+- c que leur revenu déterminant ne dépasse pas 45'000 francs.
 
 <sup>4</sup> Ils bénéficient d’une réduction des primes de 50 pour cent
 
 - a s’ils sont en formation;
 - b s’ils ont des enfants réputés membres de leur famille au sens de l’article 5 et
-- c que leur revenu familial déterminant ne dépasse pas 38'000 francs.
+- c que leur revenu familial déterminant ne dépasse pas 45'000 francs.
 
 <sup>5</sup> La prime déterminante pour la réduction au sens des alinéas 3 et 4 est calculée sur la base de la prime moyenne exigée des jeunes adultes l’année précédente par les 20 assureurs les moins chers dans la région dans laquelle le ou la jeune adulte est domiciliée au sens de l’article 10.
 
 #### Art. 10c
 
-**4. Jeunes adultes réputés membres de la famille de leurs parents**
+**Jeunes adultes réputés membres de la famille de leurs parents**
 
-<sup>1</sup> Les jeunes adultes qui sont réputés membres de la famille de leurs parents, au sens de l’article 5, bénéficient d’une réduction des primes de 50 pour cent si le revenu familial déterminant ne dépasse pas 38'000 francs.
+<sup>1</sup> Les jeunes adultes qui sont réputés membres de la famille de leurs parents, au sens de l’article 5, bénéficient d’une réduction des primes de 50 pour cent si le revenu familial déterminant ne dépasse pas 45'000 francs.
 
 <sup>2–2a</sup> …
 
@@ -247,9 +284,9 @@ arrête:
 
 #### Art. 10d
 
-**5. Enfants**
+**Enfants**
 
-<sup>1</sup> Les enfants bénéficient d’une réduction des primes de 50 pour cent si le revenu déterminant de la famille ne dépasse pas 38'000 francs.
+<sup>1</sup> Les enfants bénéficient d’une réduction des primes de 80 pour cent si le revenu familial déterminant ne dépasse pas 45'000 francs.
 
 <sup>2–2a</sup> …
 
@@ -257,7 +294,7 @@ arrête:
 
 #### Art. 10e
 
-**6. Adultes résidant à l’étranger**
+**Adultes résidant à l’étranger**
 
 <sup>1</sup> Les adultes qui résident à l’étranger et sont assurés obligatoirement dans l’assurance-maladie suisse bénéficient de réductions des primes correspondant aux montants mensuels suivants:
 
@@ -271,21 +308,27 @@ arrête:
 
 <sup>2</sup> …
 
+<sup>3</sup> Ils bénéficient d’une réduction de 6,7 pour cent du montant moyen de la prime dans le pays de résidence
+
+- a s’ils ont des enfants réputés membres de leur famille au sens de l’article 5 et
+- b que leur revenu familial déterminant se situe entre 35'001 et 45'000 francs.
+
 #### Art. 10f
 
-**7. Enfants et jeunes adultes résidant à l’étranger et réputés membres de la famille de leurs parents**
+**Enfants et jeunes adultes résidant à l’étranger et réputés membres de la famille de leurs parents**
 
-<sup>1</sup> Les enfants et les jeunes adultes réputés membres de la famille de leurs parents au sens de l’article 5 bénéficient d’une réduction de 50 pour cent du montant moyen de la prime dans le pays de résidence
+<sup>1</sup> Les enfants et les jeunes adultes bénéficient respectivement d’une réduction de 80 pour cent et de 50 pour cent du montant moyen de la prime dans le pays de résidence
 
-- a s’ils sont domiciliés à l’étranger;
-- b s’ils sont assurés obligatoirement dans l’assurance-maladie suisse et
-- c que le revenu familial déterminant ne dépasse pas 38'000 francs.
+- a s’ils sont réputés membres de la famille de leurs parents en vertu de l’article 5;
+- b s’ils sont domiciliés à l’étranger;
+- c s’ils sont assurés obligatoirement dans l’assurance-maladie suisse et
+- d que le revenu familial déterminant ne dépasse pas 45'000 francs.
 
 <sup>2</sup> …
 
 #### Art. 10g
 
-**8. Jeunes adultes résidant à l’étranger et non réputés membres de la famille de leurs parents**
+**Jeunes adultes résidant à l’étranger et non réputés membres de la famille de leurs parents**
 
 <sup>1</sup> Les jeunes adultes qui ne sont pas réputés membres de la famille de leurs parents au sens de l’article 5, sont domiciliés à l’étranger, sont assurés obligatoirement dans l’assurance-maladie suisse et ne sont pas en formation bénéficient de réductions des primes correspondant aux montants mensuels suivants:
 
@@ -299,17 +342,24 @@ arrête:
 
 <sup>2–2a</sup> …
 
+<sup>2b</sup> Ils bénéficient d’une réduction de 6,7 pour cent du montant moyen de la prime dans le pays de résidence
+
+- a s’ils ont des enfants réputés membres de leur famille au sens de l’article 5 et
+- b que leur revenu familial déterminant se situe entre 35'001 et 45'000 francs.
+
 <sup>3</sup> Ils bénéficient d’une réduction de 50 pour cent du montant moyen de la prime dans le pays de résidence
 
 - a s’ils sont en formation;
 - b s’ils n’ont pas d’enfants réputés membres de leur famille au sens de l’article 5 et
-- c que leur revenu déterminant ne dépasse pas 38'000 francs.
+- c que leur revenu déterminant ne dépasse pas 45'000 francs.
 
 <sup>4</sup> Ils bénéficient d’une réduction de 50 pour cent du montant moyen de la prime dans le pays de résidence
 
 - a s’ils sont en formation;
 - b s’ils ont des enfants réputés membres de leur famille au sens de l’article 5 et
-- c que le revenu familial déterminant ne dépasse pas 38'000 francs.
+- c que le revenu familial déterminant ne dépasse pas 45'000 francs.
+
+### 3.5 Groupes de personnes particuliers
 
 #### Art. 11
 
@@ -339,6 +389,8 @@ arrête:
 
 <sup>6</sup> Le montant mensuel intégral de la réduction des primes est versé, le mois de leur décès, aux personnes mentionnées aux alinéas 1 et 2.
 
+### 3.6 Constatation, notification et nouvelle définition du droit
+
 #### Art. 13
 
 **Constatation du droit**
@@ -347,7 +399,7 @@ arrête:
 
 <sup>2</sup> Les personnes suivantes doivent déposer une demande de réduction des primes:
 
-- a les personnes imposées à la source et celles qui l’ont été partiellement l’année précédente;
+- a les personnes imposées à la source, pour autant qu’elles n’aient pas été soumises à la taxation ordinaire ultérieure lors de l’avant-dernière année fiscale, ainsi que les personnes qui ont été partiellement imposées à la source l’année précédente;
 - b …
 - c les personnes qui n’ont indiqué aucun revenu dans la dernière déclaration d’impôt ou qui ont été taxées par appréciation;
 - d les personnes qui, en vertu de l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes[^13-1], sont assurées obligatoirement dans l’assurance-maladie suisse et ne résident pas en Suisse;
@@ -402,13 +454,15 @@ arrête:
 - a la situation familiale de la personne assurée s’est modifiée (al. 1, lit. a), à compter de la date du changement, mais au plus tôt à partir du 1<sup>er</sup> janvier de l’année au cours de laquelle la demande a été formulée;
 - b le revenu a changé (al. 1, lit. b), à compter de la date du changement, mais au plus tôt à partir du 1<sup>er</sup> janvier de l’année au cours de laquelle la demande a été formulée.
 
+### 3.7 Suspension et versement
+
 #### Art. 17
 
 **Suspension de la réduction des primes**
 
 <sup>1</sup> La réduction des primes de l’assurance obligatoire des soins doit être provisoirement suspendue ou diminuée
 
-- a lorsqu’il s’avère, sur la base de la taxation provisoire de l'année fiscale déterminante pour établir le droit à la réduction des primes (art. 7), que le droit à la réduction des primes va probablement prendre fin ou que son montant va diminuer;
+- a lorsqu’il s’avère, sur la base de la taxation provisoire de l'année fiscale déterminante pour établir le droit à la réduction des primes (art. 7 et 7a, al. 2), que le droit à la réduction des primes va probablement prendre fin ou que son montant va diminuer;
 - b …
 - c lorsque la personne tenue de s’assurer n’a pas prouvé, malgré la sommation de l’OAS, qu’elle a conclu une assurance-maladie obligatoire;
 - d lorsque, le 1<sup>er</sup> novembre, ni la taxation provisoire, ni la taxation définitive de la dernière période fiscale n'est disponible.
@@ -424,6 +478,8 @@ arrête:
 <sup>3</sup> Le service communal compétent, l’organisme compétent selon l’article 10, alinéa 1 LAAR et l’agence régionale du Ministère public des mineurs compétente transfèrent directement le montant de la réduction des primes à l’assureur-maladie.
 
 [^17a-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
+
+### 3.8 Restitution
 
 #### Art. 17b
 
@@ -543,7 +599,7 @@ Nom, prénom, adresse, état civil, numéro AVS, naissance et fin du droit aux p
 <sup>1</sup> Sont considérés comme des titres équivalents au sens de l’article 105i OAMal,
 
 - a le procès-verbal de saisie selon l’article 115, alinéa 1 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^22b-1] et
-- b la décision d’entrée en force concernant la suspension de la faillite faute d’actif selon l’article 230, alinéa 1 LP.
+- b la communication écrite de l’office des faillites selon laquelle la faillite a été suspendue faute d’actif (art. 230, al. 1 LP), l’avance de frais demandée n’a pas été versée et la procédure a été close.
 
 <sup>2</sup> Si un assureur, du fait de l’existence d’un acte de défaut de biens ou d’un titre équivalent, s’est vu rembourser une créance impayée selon l’article 64a, alinéa 4 LAMal et qu’il annonce ultérieurement un nouvel acte de défaut de biens ou un nouveau titre équivalent pour la même créance, il se voit alors rembourser au plus les frais de poursuite et les intérêts moratoires nouvellement engendrés.
 
