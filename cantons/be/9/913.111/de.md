@@ -4,13 +4,12 @@ number: "913.111"
 title: Verordnung über das Verfahren bei Boden- und Waldverbesserungen
 short: VBWV
 language: de
-version: 2021-06-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-28
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/913.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2278/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2702/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2278/pdf_file"
 
 (VBWV)
 
-vom 05.11.1997 (Stand 01.06.2021)
+vom 05.11.1997 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -216,7 +215,7 @@ beschliesst:
 
 **Beschlussfassung bei nicht körperschaftlich organisierten Personen**
 
-<sup>1</sup> Nach Abschluss der Vorarbeiten werden die Stimmberechtigten durch die Gemeinde nach Absprache mit der zuständigen Stelle mit eingeschriebenem Brief und durch einmalige Veröffentlichung im amtlichen Anzeiger zur Abstimmungsversammlung eingeladen.
+<sup>1</sup> Nach Abschluss der Vorarbeiten werden die Stimmberechtigten durch die Gemeinde nach Absprache mit der zuständigen Stelle mit eingeschriebenem Brief und durch einmalige Veröffentlichung im amtlichen Publikationsorgan der Gemeinde zur Abstimmungsversammlung eingeladen.
 
 <sup>2</sup> Die Versammlungsleitung wird durch den Gemeinderat bestimmt. Bei grossen, sich über mehrere Gemeinden erstreckenden Perimetern können die Genossenschaftsversammlungen sektionsweise durchgeführt werden; für die Beschlussfassung ist der Gesamtperimeter massgebend.
 
@@ -544,7 +543,7 @@ beschliesst:
 
 <sup>2</sup> Die öffentlichen Auflagen finden auf der Gemeindeschreiberei statt; ist die Gemeindeschreiberei als Auflageort ungeeignet oder berührt das Beizugsgebiet mehrere Gemeinden, so bestimmt die zuständige Stelle, nach Anhören der Gemeinden, wo aufzulegen ist.
 
-<sup>3</sup> Die Auflage ist für die Gründung des Unternehmens vom Gemeinderat und in den übrigen Fällen vom Vorstand im amtlichen Anzeiger bekannt zu machen mit dem Hinweis, dass Einsprachen während der Auflagefrist von 30 Tagen schriftlich mit Begründung bei der Gemeindeschreiberei einzureichen sind.
+<sup>3</sup> Die Auflage ist für die Gründung des Unternehmens vom Gemeinderat und in den übrigen Fällen vom Vorstand im amtlichen Publikationsorgan der Gemeinde bekannt zu machen mit dem Hinweis, dass Einsprachen während der Auflagefrist von 30 Tagen schriftlich mit Begründung bei der Gemeindeschreiberei einzureichen sind.
 
 <sup>4</sup> Bei Unternehmen, die der Umweltverträglichkeitsprüfung unterliegen, sind in jedem Fall zusätzlich der Umweltverträglichkeitsbericht und der Bericht des Amts für Umwelt und Energie aufzulegen.
 

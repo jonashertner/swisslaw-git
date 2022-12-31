@@ -4,13 +4,12 @@ number: "913.111"
 title: Ordonnance sur la procédure des améliorations foncières et forestières
 short: OPAF
 language: fr
-version: 2021-06-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-28
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/913.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2278/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2702/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2278/pdf_file"
 
 (OPAF)
 
-du 05.11.1997 (état au 01.06.2021)
+du 05.11.1997 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -215,7 +214,7 @@ arrête:
 
 **Décision des personnes non organisées en collectivité**
 
-<sup>1</sup> A l'issue des travaux préliminaires, la commune, après consultation du service compétent, convoque les propriétaires ayant le droit de vote à l'assemblée constitutive par lettre recommandée et par la publication unique d'un avis dans la feuille officielle d'avis.
+<sup>1</sup> A l'issue des travaux préliminaires, la commune, après consultation du service compétent, convoque les propriétaires ayant le droit de vote à l'assemblée constitutive par lettre recommandée et par une communication unique dans l'organe de publication officiel de la commune.
 
 <sup>2</sup> La direction de l'assemblée constitutive est nommée par le conseil communal. Lorsque de larges périmètres s'étendent sur plusieurs communes, les assemblées du syndicat peuvent être organisées par sections; le périmètre global est déterminant pour les décisions.
 
@@ -543,7 +542,7 @@ arrête:
 
 <sup>2</sup> Les mises à l'enquête publique sont effectuées au secrétariat communal; si ce dernier se révèle inapproprié comme lieu de mise à l'enquête ou que le périmètre touche plusieurs communes, le service compétent décide du lieu de la mise à l'enquête après avoir entendu les communes.
 
-<sup>3</sup> La mise à l’enquête est publiée, pour le lancement du projet par le conseil communal, et dans les autres cas par le comité, dans la feuille officielle d’avis; elle mentionne que les oppositions doivent être motivées et déposées par écrit au secrétariat communal durant le délai de mise à l’enquête de 30 jours.
+<sup>3</sup> La mise à l’enquête est communiquée, pour le lancement du projet par le conseil communal, et dans les autres cas par le comité, dans l'organe de publication officiel de la commune; elle mentionne que les oppositions doivent être motivées et déposées par écrit au secrétariat communal durant le délai de mise à l’enquête de 30 jours.
 
 <sup>4</sup> Pour les projets nécessitant une étude d'impact sur l'environnement, le rapport d'impact sur l'environnement et le rapport de l’Office de l’environnement et de l’énergie sont également mis à l'enquête publique.
 
