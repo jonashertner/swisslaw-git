@@ -3,20 +3,20 @@ canton: BL
 number: "331.11"
 title: Verordnung zum Steuergesetz
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-10
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331.11"
-pdf: "https://bl.clex.ch/api/de/versions/3146/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3510/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 13.12.2005 (Stand 01.01.2022)
+Vom 13.12.2005 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -92,6 +92,12 @@ beschliesst:
 **Reduktion Mietwert selbstgenutzter Liegenschaften (§ 27<sup>ter</sup> Abs. 7 StG)**
 
 <sup>1</sup> Liegt der gemäss den gesetzlichen Bestimmungen formelmässig ermittelte Eigenmietwert im Einzelfall nachweislich über 60 % des Marktmietwerts, so wird er auf schriftlich und begründetes Gesuch hin auf einen Wert von 60 % reduziert. Zum individuellen Nachweis sind Liegenschaften geeignet, welche nach Lage, Beschaffenheit (Baujahr, Wohnfläche, Kubatur und Gebäudeart) und Ausstattung vergleichbar sowie an Dritte vermietet sind.
+
+#### § 1c
+
+**Brandlagerwert (§ 27<sup>ter</sup> Abs. 1<sup>bis</sup> StG)**
+
+<sup>1</sup> Die Basellandschaftliche Gebäudeversicherung meldet der Steuerverwaltung sowie den Einwohnergemeinden den einfachen Brandlagerwert der obligatorisch versicherten Gebäude.
 
 #### § 2
 
@@ -360,17 +366,17 @@ beschliesst:
 
 <sup>1</sup> Der Vergütungszins beträgt:
 
-- a. für das Kalenderjahr 2019 — 0,2 %;
-- b. für das Kalenderjahr 2020 — 0,2 %;
-- c. für das Kalenderjahr 2021 — 0,2 %;
-- d. für das Kalenderjahr 2022 — 0,2 %.
+- a. für das Kalenderjahr 2020 — 0,2 %;
+- b. für das Kalenderjahr 2021 — 0,2 %;
+- c. für das Kalenderjahr 2022 — 0,2 %;
+- d. für das Kalenderjahr 2023 — 0,2 %.
 
 <sup>2</sup> Der Verzugszins beträgt:
 
-- a. für das Kalenderjahr 2019 — 6,0 %;
-- b. für das Kalenderjahr 2020 — 6,0 %;
-- c. für das Kalenderjahr 2021 — 5,0 %;
-- d. für das Kalenderjahr 2022 — 5,0 %.
+- a. für das Kalenderjahr 2020 — 6,0 %;
+- b. für das Kalenderjahr 2021 — 5,0 %;
+- c. für das Kalenderjahr 2022 — 5,0 %;
+- d. für das Kalenderjahr 2023 — 5,0 %.
 
 <sup>3</sup> Die Berechnung der Zinsen gemäss den Abs. 1 und 2 wird auf der Basis eines Kalenderjahres mit 365 bzw. 366 Tagen vorgenommen.
 
