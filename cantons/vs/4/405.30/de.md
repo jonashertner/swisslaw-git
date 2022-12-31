@@ -4,13 +4,13 @@ number: "405.30"
 title: Verordnung über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule
 short: VBOS
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-23
+version: 2023-01-01
+valid_until: 2024-08-31
+version_adopted: 2022-11-30
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/de/versions/2837/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3273/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2837/pdf_file"
 
 (VBOS)
 
-vom 20.06.2012 (Stand 01.07.2021)
+vom 20.06.2012 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -179,9 +179,11 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Im Falle eines Arbeitsunterbruchs infolge Mutterschaft wird die Besoldung während 16 Wochen ausbezahlt, wenn der Unterricht nach der Geburt mindestens während sechs Monaten, Sommerferien inbegriffen, fortgeführt wird.
 
-<sup>2</sup> Wird die Arbeit innerhalb von sechs Monaten nach der Niederkunft nicht wieder aufgenommen wird, besteht ein Besoldungsanspruch während acht Wochen.
+<sup>1<sup>bis</sup></sup> Bei Verlängerung der Mutterschaftsentschädigung gemäss Artikel 16c Absatz 3 EOG, wird der Lohn gestützt auf Artikel 6 Absatz 2 kGPers und Artikel 329f Absatz 2 OR während maximal 42 Tagen zu 100 Prozent weiterbezahlt.
 
-<sup>3</sup> Endet das Arbeitsverhältnis vor sechs Monaten nach der Niederkunft, wird der Besoldungsanspruch prorata temporis gekürzt.
+<sup>2</sup> Wird die Arbeit innerhalb von sechs Monaten nach der Niederkunft nicht wieder aufgenommen, besteht ein Besoldungsanspruch während acht Wochen.
+
+<sup>3</sup> Endet das Arbeitsverhältnis vor sechs Monaten nach der Niederkunft, wird der Besoldungsanspruch pro rata temporis gekürzt.
 
 <sup>4</sup> Falls aus medizinischen Gründen, welche durch ein ärztliches Zeugnis belegt werden, die Abwesenheit länger als 16 Wochen dauert, gelten die Regelungen bezüglich der Besoldung bei Krankheit ab dem ersten Tag der Abwesenheit.
 
@@ -205,6 +207,28 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Spezielle Arbeitsbedingungen können für schwangere Frauen vorgesehen werden, um ihre Gesundheit und diejenige des Kindes zu schützen.
 
+#### Art. 17a
+
+**Einrichtung der Arbeitsbedingungen während der Stillzeit**
+
+<sup>1</sup> Falls die Lehrerin ihr Kind in dessen ersten Lebensjahr stillen möchte, ist der Stundenplan so zu gestalten, dass die schulische Organisation nicht gestört wird. Das Stillen soll zu möglichst regelmässigen Zeiten erfolgen und die Lehrerin tut alles in ihrer Macht Stehende, um eine solche Regelmässigkeit zu gewährleisten.
+
+<sup>2</sup> Die gleichen Regeln gelten, wenn die Lehrerin eine Milchpumpe verwendet.
+
+<sup>3</sup> An Tagen, an denen die Lehrerin weniger als drei Unterrichtslektionen hat, muss sie ihr Kind ausserhalb der Unterrichtszeit stillen.
+
+<sup>4</sup> Beträgt die Tätigkeit gemäss Lehrermeldung und die Anzahl Lektionen am Tag, an dem das Recht beansprucht wird, zwischen drei und fünf Lektionen:
+
+- a) am Arbeitsort: die Lehrerin hat Anspruch auf eine Lektion zum Stillen ihres Kindes; diese Lektion gilt als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
+- b) abseits des Arbeitsortes: die Lehrerin kann sich für eine Lektion von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
+
+<sup>5</sup> Beträgt die Tätigkeit gemäss Lehrermeldung und die Anzahl Lektionen am Tag, an dem das Recht beansprucht wird, mindestens sechs Lektionen:
+
+- a) am Arbeitsort: die Lehrerin kann bis zu zwei Lektionen zum Stillen ihres Kindes nehmen; diese Lektionen gelten als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
+- b) abseits des Arbeitsortes: die Lehrerin kann sich für bis zu zwei Lektionen von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
+
+<sup>6</sup> Wenn die Lehrerin vor Ende des ersten Lebensjahres des Kindes das Stillen einstellt, nimmt sie ihre Tätigkeit gemäss ihrer Lehrermeldung wieder auf.
+
 #### Art. 18
 
 **Familienzulagen und Sozialzulage**
@@ -215,25 +239,29 @@ verordnet:[^ingress-1]
 
 #### Art. 19
 
-**Urlaub zur Adoption**
+**Urlaub bei gemeinschaftlicher Adoption oder Einzeladoption**
 
 <sup>1</sup> Der in Artikel 15 Absatz 2 des Gesetzes über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vorgesehene Urlaub zur Adoption gilt gleichermassen für männliches und weibliches Personal.
 
 <sup>2</sup> Seine Dauer entspricht drei Vierteln des Mutterschaftsurlaubs.
 
-<sup>3</sup> Der Adoptionsurlaub wird wirksam sobald sich das Kind am Wohnsitz der Adoptiveltern in der Schweiz befindet.
+<sup>3</sup> Der Adoptionsurlaub wird zum Zeitpunkt der Aufnahme des noch nicht schulpflichtigen Kindes wirksam.
 
 <sup>4</sup> Der Urlaub kann bis höchstens zwei Wochen vorbezogen werden, um Vorkehrungen im Hinblick auf die Adoption zu treffen.
 
-<sup>5</sup> Abgesehen von den zwei Wochen, welche vorbezogen werden können, um Adoptionsvorkehrungen zu treffen, kann der Adoptionsurlaub nicht aufgeteilt werden.
+<sup>5</sup> Der Adoptionsurlaub muss zum Zeitpunkt der Aufnahme des Kindes am Stück bezogen werden. Es kann allerdings eine Dauer vom Äquivalent eines doppelten Vollzeitwochenpensums – pro rata temporis zum Beschäftigungsgrad – in Form von Tagen oder Wochen bezogen werden, während dem ersten Jahr nach der Aufnahme des Kindes.
 
 <sup>6</sup> Falls beide Adoptiveltern Anspruch auf einen Adoptionsurlaub im Sinne der Walliser Gesetzgebung haben, so wird die Höchstdauer beider Urlaube gesamthaft auf 16 Wochen festgelegt. Ein Minimum von vier Wochen sollte von jedem der beiden Elternteile genommen werden.
 
+<sup>7</sup> Falls die Ausgleichskasse eine Entschädigung (EO) bezahlt, gehört diese dem Arbeitgeber, der weiterhin den vollen Lohn auszahlt.
+
+<sup>8</sup> Werden gleichzeitig mehrere Kinder aufgenommen, so entsteht nur ein Anspruch.
+
 #### Art. 20
 
-**Vaterschaftsurlaub**
+**Elternschaftsurlaub**
 
-<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Vaterschaftsanerkennung wird ein Vaterschaftsurlaub vom Äquivalent eines doppelten Vollzeitwochenpensums - prorata temporis zu seinem Beschäftigungsgrad - gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Elternschaftsurlaub vom Äquivalent eines doppelten Vollzeitwochenpensums – pro rata temporis zu seinem Beschäftigungsgrad – gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
 
 <sup>2</sup> Diese Tage können als Wochen oder als einzelne Tage bezogen werden, wobei die Schulorganisation so weit wie möglich zu berücksichtigen ist.
 
@@ -243,9 +271,9 @@ verordnet:[^ingress-1]
 
 **Unbezahlte Urlaube**
 
-<sup>1</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, ist das Personal dazu berechtigt, namentlich nach einem Mutterschaftsurlaub, einer Adoption oder einer Vaterschaft unbezahlten Urlaub (pro rata temporis) zu beziehen. Der Arbeitgeber übernimmt für die Dauer eines solchen unbezahlten Urlaubs die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge), aber im Maximum während drei Monaten. Bei einem Antrag auf unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird das Personal darauf aufmerksam gemacht, dass sein Recht auf den Lohnanspruch während dem obenerwähnten Urlaub vermindert wird, sofern es seine Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt.
+<sup>1</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, ist das Personal dazu berechtigt, namentlich nach einem Mutterschafts-, Adoptions- oder Elternschaftsurlaub unbezahlten Urlaub (pro rata temporis) zu beziehen. Der Arbeitgeber übernimmt für die Dauer eines solchen unbezahlten Urlaubs die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge), aber im Maximum während drei Monaten. Bei einem Antrag auf unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird das Personal darauf aufmerksam gemacht, dass sein Recht auf den Lohnanspruch während der oben erwähnten Urlaube vermindert wird, sofern es seine Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt.
 
-<sup>2</sup> Für den Antragsteller ist Artikel 2 und folgende des Gesetzes über Besoldung des Personals während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während diesem Zeitraum die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger vom 10. Mai 1978.
+<sup>2</sup> Für den Antragsteller ist Artikel 2 und folgende des Gesetzes über Besoldung des Personals während des unbezahlten Urlaubs nicht anwendbar. Nicht anwendbar sind ausserdem während dieses Zeitraums die Bestimmungen des Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger.
 
 <sup>3</sup> Während seines unbezahlten Urlaubs muss das Personal alle notwendigen Schritte zur Deckung der Sozialversicherungen unternehmen (Unfallversicherung, evt. berufliche Vorsorge usw.).
 
@@ -363,13 +391,13 @@ verordnet:[^ingress-1]
 
 **Herabsetzung der Wochenarbeitszeit ohne Lohnkürzung**
 
-<sup>1</sup> Ab Beginn des flexiblen Rentenalters wird das Personal, welches zum Zeitpunkt der Gesuchstellung einen Beschäftigungsgrad von mindestens 50 Prozent hat, von dem für die Bildung zuständigen Departement um eine Unterrichtsstunde pro Woche entlastet.
+<sup>1</sup> Ab Beginn des flexiblen Rentenalters wird das Personal, welches im Jahr vor der Reduktion einen Beschäftigungsgrad von mindestens 50 Prozent hat, vom Departement um eine Unterrichtsstunde pro Woche entlastet. Wenn die Organisation der Schule dies nicht zulässt, kann dieses Recht von der zuständigen Dienststelle auf Begründung der Schuldirektion gebündelt gewährt werden.
 
 <sup>2</sup> Diese Herabsetzung gilt das gesamte Schuljahr.
 
-<sup>3</sup> Der Beschäftigungsgrad der Lehrperson muss während der letzten fünf Jahre vor dem Inkrafttreten der Herabsetzung durchschnittlich mindestens 75 Prozent betragen.
+<sup>3</sup> Der Beschäftigungsgrad der Lehrperson muss während der letzten fünf Jahre der Unterrichtstätigkeit vor dem Inkrafttreten der Herabsetzung durchschnittlich mindestens 75 Prozent betragen.
 
-<sup>4</sup> Der Anspruch auf diese Entlastung wird bis zum Ende des Schuljahres, in welchem die Lehrperson das ordentliche AHV-Rentenalter erreicht, gewährt.
+<sup>4</sup> Der Anspruch auf diese Entlastung wird bis zum Ende des Schuljahres, in welchem die Lehrperson das ordentliche AHV-Rentenalter erreicht, gewährt und bleibt bis zu diesem Zeitpunkt bestehen, selbst wenn der Beschäftigungsgrad nach der Gewährung nach unten verändert wird.
 
 <sup>5</sup> Das für die Bildung zuständige Departement ist für die Anwendungsbestimmungen dieser Massnahme zuständig.
 
@@ -456,7 +484,7 @@ verordnet:[^ingress-1]
 
 #### Art. 34a
 
-**Elternurlaub**
+**Unbezahlter Elternurlaub**
 
 <sup>1</sup> Das Personal, Eltern von Kindern zwischen 0 und 12 Jahren, hat einen Anspruch auf einen unbezahlten Elternurlaub von maximal dem Doppelten der Wochenarbeitszeit pro Schuljahr (pro rata temporis).
 
@@ -496,22 +524,23 @@ verordnet:[^ingress-1]
 <sup>1</sup> Dem Personal werden Sonderurlaube, die im Zusammenhang mit einem Ereignis zu beziehen sind, gemäss folgender Tabelle gewährt:
 
 - a) bei Todesfällen:
-  - 1\. fünf Tage: Ehepartner, eingetragene Partnerschaft, Konkubinatspartner, Kind,
+  - 1\. fünf Tage: Ehepartner, eingetragener Partner, Konkubinatspartner, Kind,
   - 2\. drei Tage: Vater, Mutter,
   - 3\. zwei Tage: Bruder, Schwester, Schwiegervater, Schwiegermutter;
 - b) bei Todesfällen, wenn die Beerdigung an einem Arbeitstag stattfindet:
   - 1\. ein Tag: Grosskinder, Grosseltern, Urgrosseltern, Schwager oder Schwägerin, Onkel, Tante, Neffe, Nichte, Stiefsohn, Stieftochter, Schwiegersohn, Schwiegertochter,
   - 2\. ein halber Tag: Cousin(e) 1. Grades, Pate, Patin, Patenkind;
-- c) bei Heirat zivilisch/eingetragende Partnerschaft:
-  - 1\. sechs Arbeitstage welche in den folgenden zwölf Monaten nach der eigenen Heirat/eingetragenen Partnerschaft zu beziehen sind, Diese Tage können in maximal zwei Teile geteilt werden,
-  - 2\. ein Arbeitstag: bei zivilischer Hochzeit/eingetragener Partnerschaft bis zum zweiten Grad inklusive, unter der Bedingung, dass die Feier an einem Arbeitstag stattfindet,
+- c) bei zivilischer Heirat:
+  - 1\. sechs Arbeitstage welche in den folgenden zwölf Monaten nach der eigenen zivilischen Heirat zu beziehen sind. Diese Tage können in maximal zwei Teile geteilt werden,
+  - 2\. ein Arbeitstag: bei zivilischer Hochzeit bis zum zweiten Grad inklusive, unter der Bedingung, dass die Feier an einem Arbeitstag stattfindet;
   - 3\. …
-- d) Umzug der Hauptwohnung im Maximum einmal pro Jahr: ein Arbeitstag.
-- e) bei Ausnahmen (namentlich Ereignis ins Ausland) entscheidet der Departementchef.
+- c<sup>bis</sup>) Adoption des Kindes des Ehegatten oder Partners: ein Tag;
+- d) Umzug der Hauptwohnung im Maximum einmal pro Jahr: ein Arbeitstag;
+- e) bei Ausnahmen (namentlich Ereignis ins Ausland) entscheidet der Departementsvorsteher.
 
 <sup>2</sup> …
 
-<sup>3</sup> Sonderurlaube von einem Tag werden gewährt, wenn das Ereignis auf einen Schultag fällt an dem die Lehrperson unterrichtet.
+<sup>3</sup> Sonderurlaube von einem Tag werden gewährt, wenn das Ereignis auf einen Schultag fällt, an dem die Lehrperson unterrichtet.
 
 <sup>4</sup> Konkubinatspartner erhalten dieselben vorerwähnten Sonderurlaube wie verheiratete Personen und eingetragene Partnerschaften gleichgeschlechtlicher Paare. Als Konkubinatspartner gelten Paare, die im gleichen Haushalt leben.
 
@@ -571,28 +600,60 @@ verordnet:[^ingress-1]
 
 <table>
 <tr><th>Beschäftigungsdauer</th><th>Dauer des Besoldungsanspruchs</th></tr>
-<tr><td>bis 19 effektive Schulwochen</td><td>drei Wochen</td></tr>
-<tr><td>bis 28 effektive Schulwochen</td><td>vier Wochen</td></tr>
-<tr><td>bis 38 effektive Schulwochen</td><td>acht Wochen</td></tr>
+<tr><td>bis 19 effektive Wochen</td><td>drei Wochen</td></tr>
+<tr><td>bis 28 effektive Wochen</td><td>vier Wochen</td></tr>
+<tr><td>bis 38 effektive Wochen</td><td>acht Wochen</td></tr>
 </table>
 
 <sup>2</sup> Bei einem Unfall wird dem Stellvertreter keine Besoldung entrichtet, sofern er über eine obligatorische Unfallversicherung verfügt; er erhält aber direkt die Leistungen der Versicherung.
 
 #### Art. 41
 
-**Besoldung der Stellvertreter bei Mutterschaft und Adoption**
+**Besoldung der Stellvertreter bei Mutterschaft, bei gemeinschaftlicher Adoption oder Einzeladoption sowie bei Elternschaft**
 
-<sup>1</sup> Bei Mutterschaft haben Stellvertreter einen anderen Besoldungsanspruch als der in Artikel 40 der vorliegenden Verordnung vorgesehene Anspruch; der Anspruch wird hingegen zu den gleichen Bedingungen und im gleichen Mass wie von der Bestimmung festgelegt gewährt.
+<sup>1</sup> Bei Mutterschaft haben Stellvertreterinnen einen anderen Besoldungsanspruch als den in Artikel 40 der vorliegenden Verordnung vorgesehenen Anspruch; der Anspruch wird hingegen zu den gleichen Bedingungen und im gleichen Mass wie von der Bestimmung festgelegt gewährt.
 
-<sup>2</sup> Stellvertreter erhalten unabhängig vom Beschäftigungsgrad und der Dauer der Stellvertretung ebenfalls einen Adoptionsurlaub, dessen Dauer 3/4 des Mutterschaftsurlaubes beträgt. Zudem gelten die Bestimmungen von Artikel 19 der vorliegenden Verordnung.
+<sup>2</sup> Bei gemeinschaftlicher Adoption oder Einzeladoption, sofern die Stellvertretung während des Schuljahres mehr als neun effektive Wochen dauerte, haben Stelllvertreter Anspruch auf folgende Leistungen:
+
+<table>
+<tr><th>Beschäftigungsdauer</th><th>Dauer des Besoldungsanspruchs</th></tr>
+<tr><td>bis zu 19 effektiven Wochen</td><td>zwei Wochen</td></tr>
+<tr><td>bis zu 28 effektiven Wochen</td><td>drei Wochen</td></tr>
+<tr><td>bis zu 38 effektiven Wochen</td><td>sechs Wochen</td></tr>
+</table>
+
+<sup>3</sup> Bei Elternschaft, sofern die Stellvertretung während des Schuljahres mehr als neun effektive Wochen dauerte, haben die Stellvertreter Anspruch auf folgende Leistungen:
+
+<table>
+<tr><th>Beschäftigungsdauer</th><th>Dauer des Besoldungsanspruchs</th></tr>
+<tr><td>bis zu 19 effektiven Wochen</td><td>18,75 % des doppelten Wochenpensums</td></tr>
+<tr><td>bis zu 28 effektiven Wochen</td><td>25 % des doppelten Wochenpensums</td></tr>
+<tr><td>bis zu 38 effektiven Wochen</td><td>50 % des doppelten Wochenpensums</td></tr>
+</table>
 
 #### Art. 42
 
-**Mutterschaftsentschädigung für Stellvertreter**
+**Mutterschaftsentschädigung für Stellvertreterinnen**
 
 <sup>1</sup> Die im Bundesrecht (Art. 16b ff. des Erwerbsersatzgesetzes) vorgesehene Mutterschaftsentschädigung fällt an den Staat, solange dieser die Besoldung ausrichtet.
 
-<sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Mutterschaftsentschädigung direkt durch die Lehrperson einzufordern.
+<sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Mutterschaftsentschädigung direkt durch die Stellvertreterin einzufordern.
+
+#### Art. 42a
+
+**Entschädigung bei gemeinschaftlicher Adoption oder Einzeladoption für Stellvertreter**
+
+<sup>1</sup> Die im Bundesrecht (Art. 16t ff. des Erwerbsersatzgesetzes) vorgesehene Entschädigung bei gemeinschaftlicher Adoption oder Einzeladoption fällt an den Staat, solange dieser die Besoldung ausrichtet.
+
+<sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Entschädigung bei gemeinschaftlicher Adoption oder Einzeladoption direkt durch den Stellvertreter einzufordern.
+
+#### Art. 42b
+
+**Vaterschaftsentschädigung für Stellvertreter**
+
+<sup>1</sup> Die im Bundesrecht (Art. 16i ff. des Erwerbsersatzgesetzes) vorgesehene Vaterschaftsentschädigung fällt an den Staat, solange dieser die Besoldung ausrichtet.
+
+<sup>2</sup> Wird die Besoldung nicht mehr ausbezahlt, so ist ein eventueller Saldo der Vaterschaftsentschädigung direkt durch den Stellvertreter einzufordern.
 
 #### Art. 43
 

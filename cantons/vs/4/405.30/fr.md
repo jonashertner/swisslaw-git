@@ -4,13 +4,13 @@ number: "405.30"
 title: "Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel"
 short: OTSO
 language: fr
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-23
+version: 2023-01-01
+valid_until: 2024-08-31
+version_adopted: 2022-11-30
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/fr/versions/2837/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3273/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2837/pdf_file"
 
 (OTSO)
 
-du 20.06.2012 (état 01.07.2021)
+du 20.06.2012 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -179,6 +179,8 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> En cas d’interruption de travail pour cause de maternité, le traitement est servi durant 16 semaines pour autant que l’enseignement se poursuive pendant six mois au moins, vacances comprises, après l’accouchement.
 
+<sup>1<sup>bis</sup></sup> En cas de prolongation de l'allocation de maternité au sens de l'article 16c alinéa 3 LAPG, le salaire continue d'être versé à 100 pour cent pendant 42 jours au maximum, sur la base de l'article 6 alinéa 2 LcPers et de l'article 329f alinéa 2 CO.
+
 <sup>2</sup> Si la reprise du travail n'intervient pas dans les six mois qui suivent l'accouchement, le droit au traitement court pendant huit semaines.
 
 <sup>3</sup> Si après l'accouchement le temps de travail est inférieur à six mois, le droit au traitement est réduit prorata temporis.
@@ -205,6 +207,28 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Des conditions de travail particulières peuvent être aménagées pour les femmes enceintes, afin de protéger leur santé et celle de l'enfant.
 
+#### Art. 17a
+
+**Aménagement des conditions de travail en cas d'allaitement**
+
+<sup>1</sup> Si l'enseignante désire allaiter son enfant pendant sa première année de vie, l'horaire est aménagé de manière à ne pas perturber l'organisation scolaire. L'allaitement doit se faire à heures les plus régulières possible, l'enseignante devant mettre tout en œuvre pour assurer cette régularité.
+
+<sup>2</sup> Les mêmes modalités s'appliquent lorsque l'enseignante a recours à un tire-lait.
+
+<sup>3</sup> Les jours où l'enseignante a moins de trois périodes d'enseignement, l'allaitement doit être effectué en-dehors de ce temps d'enseignement.
+
+<sup>4</sup> Si l'activité selon l'état nominatif et le nombre de périodes du jour où le droit s'exerce se situe entre trois et cinq périodes:
+
+- a) sur le lieu de travail: l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
+- b) hors du lieu de travail: l'enseignante peut s'absenter pendant une période de son lieu de travail; seule la moitié de la période est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
+
+<sup>5</sup> Si l'activité selon l'état nominatif et le nombre de périodes du jour où le droit s'exerce atteint au moins six périodes:
+
+- a) sur le lieu de travail: l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
+- b) hors du lieu de travail: l'enseignante peut s'absenter jusqu'à deux périodes de son lieu de travail; seule la moitié de ce temps est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
+
+<sup>6</sup> Si l'enseignante cesse l'allaitement de son enfant avant la fin de la première année de ce dernier, elle reprend son activité telle que définie dans son état nominatif.
+
 #### Art. 18
 
 **Allocations familiales et allocation sociale**
@@ -215,25 +239,29 @@ ordonne:[^ingress-1]
 
 #### Art. 19
 
-**Congé d'adoption**
+**Congé d'adoption conjointe ou par une personne seule**
 
 <sup>1</sup> Le congé d'adoption prévu par l'article 15 alinéa 2 de la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel vaut dans la même mesure pour le personnel masculin et féminin.
 
 <sup>2</sup> Sa durée correspond aux trois quarts de celle du congé de maternité.
 
-<sup>3</sup> Le congé d'adoption prend effet au moment de l'entrée de l'enfant au domicile des parents adoptifs en Suisse.
+<sup>3</sup> Le congé d'adoption prend effet au moment de l’accueil de l’enfant, non encore soumis à la scolarité obligatoire.
 
 <sup>4</sup> Le congé peut, à concurrence de deux semaines au maximum, être pris de manière anticipée pour l'accomplissement des démarches en vue de l'adoption.
 
-<sup>5</sup> Hormis les deux semaines d'anticipation pour les démarches en vue de l'adoption, le congé d'adoption ne peut être fractionné.
+<sup>5</sup> Le congé d'adoption doit être pris en une fois au moment de l'accueil de l'enfant. Toutefois, une durée équivalente à deux fois l'horaire hebdomadaire à plein temps - prorata temporis à son taux d'engagement - peut être prise sous la forme de journées ou de semaines, pendant la première année qui suit l'accueil de l'enfant.
 
 <sup>6</sup> Pour le cas où les deux parents adoptifs ont droit à un congé d'adoption au sens de la législation valaisanne, la durée maximale des deux congés est fixée globalement à 16 semaines. Un minimum de quatre semaines devra être pris par chacun des parents.
 
+<sup>7</sup> En cas de versement d'une indemnité par la caisse de compensation (APG), celle-ci appartient à l'employeur qui poursuit le versement du traitement dans sa totalité.
+
+<sup>8</sup> L’accueil simultané de plusieurs enfants fait naître le droit à une seule allocation.
+
 #### Art. 20
 
-**Congé paternité**
+**Congé de parentalité**
 
-<sup>1</sup> Un congé paternité d’une durée équivalente à deux fois l’horaire hebdomadaire à plein temps - prorata temporis à son taux d’engagement - est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance en paternité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+<sup>1</sup> Un congé de parentalité d’une durée équivalente à deux fois l’horaire hebdomadaire à plein temps - prorata temporis à son taux d’engagement - est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
 
 <sup>2</sup> Ces jours peuvent se prendre sous forme de semaines ou par jours isolés en tenant compte dans la mesure du possible de l’organisation scolaire.
 
@@ -243,9 +271,9 @@ ordonne:[^ingress-1]
 
 **Congés non payés**
 
-<sup>1</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, le personnel a le droit de bénéficier d’un congé non payé (pro rata temporis), après, notamment, un congé maternité, d’adoption ou de paternité. Pour ces types de congé non payé, l’employeur prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (parts employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les six mois suivant l’accouchement ou l’adoption.
+<sup>1</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, le personnel a le droit de bénéficier d’un congé non payé (pro rata temporis), après, notamment, un congé maternité, d’adoption ou de parentalité. Pour ces types de congé non payé, l’employeur prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (parts employé et employeur) pour la durée du congé non payé, mais au maximum pendant trois mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les six mois suivant l’accouchement ou l’adoption.
 
-<sup>2</sup> L'application au requérant des articles 2 et suivants de la loi fixant le traitement du personnel du 14 septembre 2011 est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
+<sup>2</sup> L'application au requérant des articles 2 et suivants de la loi fixant le traitement du personnel du 14 septembre 2011 est suspendu pendant la durée du congé non payé. Sont de même suspendues, pendant ce laps de temps, les dispositions de la loi sur la responsabilité des collectivités publiques et de leurs agents.
 
 <sup>3</sup> Le personnel doit entreprendre toutes les démarches nécessaires relatives aux couvertures en matière d'assurances sociales pendant son congé non payé (assurance-accident, éventuellement prévoyance professionnelle, etc.).
 
@@ -363,13 +391,13 @@ ordonne:[^ingress-1]
 
 **Réduction de l’horaire hebdomadaire de travail sans réduction de traitement**
 
-<sup>1</sup> Dès le début de l’âge flexible de la retraite, le personnel dont le taux d’activité est d’au moins 50 pour cent l’année précédant sa réduction, est déchargé par le Département d’une période d’enseignement par semaine.
+<sup>1</sup> Dès le début de l’âge flexible de la retraite, le personnel dont le taux d’activité est d’au moins 50 pour cent l’année précédant sa réduction, est déchargé par le Département d’une période d’enseignement par semaine. Si l’organisation de l’école l’empêche, ce droit peut être octroyé de façon regroupée par le service concerné, sur justification de la direction d’école.
 
 <sup>2</sup> La réduction s’applique sur une période définie par année scolaire.
 
-<sup>3</sup> Le taux d’activité moyen de l’enseignant durant les cinq années précédant l’année de la réduction doit atteindre 75 pour cent.
+<sup>3</sup> Le taux d’activité moyen de l’enseignant durant les cinq années d'enseignement précédant l’année de la réduction doit atteindre 75 pour cent.
 
-<sup>4</sup> Le droit à cette décharge est octroyé jusqu’à la fin de l’année scolaire durant laquelle l’enseignant a atteint l’âge légal AVS.
+<sup>4</sup> Le droit à cette décharge dure jusqu’à la fin de l’année scolaire durant laquelle l’enseignant a atteint l’âge légal AVS et demeure acquis jusqu’à cette date même en cas de variation à la baisse du taux d’activité après son octroi.
 
 <sup>5</sup> Les dispositions d’application de cette mesure sont de la compétence du Département.
 
@@ -456,7 +484,7 @@ ordonne:[^ingress-1]
 
 #### Art. 34a
 
-**Congé parental**
+**Congé parental non payé**
 
 <sup>1</sup> Le personnel parent d’enfants de 0 à 12 ans a droit à un congé parental sans traitement correspondant à deux fois l’horaire hebdomadaire au maximum par année scolaire (pro rata temporis).
 
@@ -502,10 +530,11 @@ ordonne:[^ingress-1]
 - b) décès, si l'ensevelissement a lieu un jour de travail:
   - 1\. un jour: petit-enfant, grand-parent, arrière-grand-parent, beau-frère, belle-sœur, oncle, tante, neveu, nièce,beau-fils, belle-fille, gendre, bru,
   - 2\. demi-jour: cousin(e) 1<sup>er</sup> degré, parrain, marraine, filleul(e);
-- c) de mariage civil/partenariat enregistré:
-  - 1\. six jours ouvrables consécutifs à prendre dans les douze mois suivants: son propre mariage civil/partenariat enregistré. Ces jours peuvent être répartis au maximum en deux fois,
-  - 2\. un jour de travail: mariage civil/partenariat enregistré d'un parent jusqu’au deuxième degré inclus à condition que la cérémonie ait lieu un jour de travail,
+- c) mariage civil:
+  - 1\. six jours ouvrables consécutifs à prendre dans les douze mois suivants: son propre mariage civil. Ces jours peuvent être répartis au maximum en deux fois,
+  - 2\. un jour de travail: mariage civil d'un parent jusqu’au deuxième degré inclus à condition que la cérémonie ait lieu un jour de travail;
   - 3\. …
+- c<sup>bis</sup>) adoption de l'enfant du conjoint ou du partenaire: un jour;
 - d) déménagement de la résidence principale au maximum une fois par année scolaire: un jour de travail;
 - e) pour les cas particuliers (notamment événement à l'étranger), le chef du Département décide.
 
@@ -580,11 +609,27 @@ ordonne:[^ingress-1]
 
 #### Art. 41
 
-**Traitement des remplaçantes en cas de maternité et d'adoption**
+**Traitement des remplaçants en cas de maternité, d'adoption conjointe ou par une personne seule et en cas de parentalité**
 
 <sup>1</sup> En cas de maternité, les remplaçantes bénéficient d'un droit au traitement distinct de celui prévu à l'article 40 de la présente ordonnance, mais accordé aux mêmes conditions et dans la même mesure que celles fixées par cette disposition.
 
-<sup>2</sup> Les remplaçants, quel que soit le taux et la durée du remplacement, bénéficient également du congé d'adoption dont la durée est de 3/4 de celle du congé de maternité. Sont applicables au surplus les dispositions de l'article 19 de la présente ordonnance.
+<sup>2</sup> En cas d’adoption conjointe ou par une personne seule, dans la mesure où le remplacement durant l'année scolaire a duré plus de neuf semaines effectives, les remplaçants ont droit aux prestations suivantes:
+
+<table>
+<tr><th>Durée de l'emploi</th><th>Durée du droit au traitement</th></tr>
+<tr><td>jusqu'à 19 semaines effectives</td><td>deux semaines</td></tr>
+<tr><td>jusqu'à 28 semaines effectives</td><td>trois semaines</td></tr>
+<tr><td>jusqu'à 38 semaines effectives</td><td>six semaines</td></tr>
+</table>
+
+<sup>3</sup> En cas de parentalité, dans la mesure où le remplacement durant l'année scolaire a duré plus de neuf semaines effectives, les remplaçants ont droit aux prestations suivantes:
+
+<table>
+<tr><th>Durée de l'emploi</th><th>Durée du droit au traitement</th></tr>
+<tr><td>jusqu'à 19 semaines effectives</td><td>18,75 % de deux fois l’horaire hebdomadaire</td></tr>
+<tr><td>jusqu'à 28 semaines effectives</td><td>25 % de deux fois l’horaire hebdomadaire</td></tr>
+<tr><td>jusqu'à 38 semaines effectives</td><td>50 % de deux fois l’horaire hebdomadaire</td></tr>
+</table>
 
 #### Art. 42
 
@@ -593,6 +638,22 @@ ordonne:[^ingress-1]
 <sup>1</sup> L'allocation de maternité prévue par le droit fédéral (art. 16b ss de la loi fédérale sur les allocations pour perte de gain) revient à l'Etat pendant que celui-ci verse le traitement.
 
 <sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation de maternité est perçu directement par la remplaçante.
+
+#### Art. 42a
+
+**Allocation en cas d’adoption conjointe ou par une personne seule pour les remplaçants**
+
+<sup>1</sup> L'allocation en cas d’adoption conjointe ou par une personne seule prévue par le droit fédéral (art. 16t ss de la loi fédérale sur les allocations pour perte de gain) revient à l'Etat pendant que celui-ci verse le traitement.
+
+<sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation en cas d’adoption conjointe ou par une personne seule est perçu directement par le remplaçant.
+
+#### Art. 42b
+
+**Allocation de paternité pour les remplaçants**
+
+<sup>1</sup> L'allocation de paternité prévue par le droit fédéral (art. 16i ss de la loi fédérale sur les allocations pour perte de gain) revient à l'Etat pendant que celui-ci verse le traitement.
+
+<sup>2</sup> Lorsque le traitement n'est plus versé, le solde éventuel de l'allocation de paternité est perçu directement par le remplaçant.
 
 #### Art. 43
 
