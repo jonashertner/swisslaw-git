@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 2015 sul trasporto di merci da parte di 
 short: LTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/328"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-09-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-328-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-328-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/it"
 
 (Legge sul trasporto di merci, LTM)
 
-del 25 settembre 2015 (Stato 1° gennaio 2022)
+del 25 settembre 2015 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -170,21 +170,9 @@ La responsabilità extracontrattuale delle imprese è retta dagli articoli 40*b*
 
 #### Art. 9a
 
-**Contributi per mitigare le ripercussioni della crisi della COVID-19**[^9a-1]
+[^9a-1]
 
-<sup>1</sup> ...[^9a-2]
-
-<sup>2</sup>
-
-Gli aiuti finanziari della Confederazione sono versati soltanto se:
-
-- a.[^9a-3] ...
-- b.[^9a-4] l’impresa non distribuisce dividendi per gli esercizi 2020, 2021 e 2022.
-
-[^9a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-2]: In vigore fino al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-3]: In vigore fino al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-4]: Nuovo testo giusta il n. II della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^9a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19, in vigore dal 26 set. 2020 al 31 dic. 2021 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)), cpv. 2 lett. b in vigore dal 1° gen. 2022 al 31 dic. 2022 giusta il n. II della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 10
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 2015 über den Gütertransport durch Bahn
 short: GüTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/328"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-09-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-328-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-328-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/de"
 
 (Gütertransportgesetz, GüTG)
 
-vom 25. September 2015 (Stand am 1. Januar 2022)
+vom 25. September 2015 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -170,21 +170,9 @@ Für die ausservertragliche Haftung der Unternehmen gelten die Artikel 40*b*–4
 
 #### Art. 9a
 
-**Beiträge zur Milderung der Auswirkungen der Covid-19-Krise**[^9a-1]
+[^9a-1]
 
-<sup>1</sup> …[^9a-2]
-
-<sup>2</sup>
-
-Finanzhilfen des Bundes setzen voraus, dass:
-
-- a.[^9a-3] …
-- b.[^9a-4] das Unternehmen für die Geschäftsjahre 2020, 2021 und 2022 keine Dividenden ausschüttet.
-
-[^9a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft seit 26. Sept. 2020 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-2]: In Kraft bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-3]: In Kraft bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-4]: Fassung gemäss Ziff. II des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise), in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^9a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 über die Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise, in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2021 ([AS 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [BBl 2020 6713](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Abs. 2 Bst. b verlängert bis zum 31. Dez. 2022 durch Ziff. II des BG vom 17. Dez. 2021 (Verlängerung der Unterstützung des öffentlichen Verkehrs in der Covid-19-Krise) ([AS 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [BBl 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 10
 
@@ -422,20 +410,19 @@ Anhang
 
 ## Aufhebung und Änderung anderer Erlasse
 
-### I
+I
 
 Die folgenden Erlasse werden aufgehoben:
 
-- 1\. Gütertransportgesetz vom 19. Dezember 2008[^annexu1-lvlu1-lvlI-1];
-- 2\. Bundesgesetz vom 5. Oktober 1990[^annexu1-lvlu1-lvlI-2] über die Anschlussgleise.
+- 1\. Gütertransportgesetz vom 19. Dezember 2008[^annexu1-lvlu1-1];
+- 2\. Bundesgesetz vom 5. Oktober 1990[^annexu1-lvlu1-2] über die Anschlussgleise.
 
-[^annexu1-lvlu1-lvlI-1]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 23, [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)einziger Art. Abs. 1 Bst. a]
-[^annexu1-lvlu1-lvlI-2]: [[AS 1992 565](https://fedlex.data.admin.ch/eli/oc/1992/565_565_565); [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 13; [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 19; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 76; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 20; [2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 16, [5973](https://fedlex.data.admin.ch/eli/oc/2009/731)Ziff. I 2]
-
-### II
+II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-lvlII-1]
+…[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-lvlII-1]: Die Änderungen können unter [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)konsultiert werden.
+[^annexu1-lvlu1-1]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 23, [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)Ziff. I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375)einziger Art. Abs. 1 Bst. a]
+[^annexu1-lvlu1-2]: [[AS 1992 565](https://fedlex.data.admin.ch/eli/oc/1992/565_565_565); [1995 3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 13; [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 19; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 76; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 20; [2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)Ziff. II 16, [5973](https://fedlex.data.admin.ch/eli/oc/2009/731)Ziff. I 2]
+[^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)konsultiert werden.

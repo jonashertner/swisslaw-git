@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 2015 sur le transport de marchandises par
 short: LTM
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/328"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-09-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-328-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/328/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-328-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/328/20220101/fr"
 
 (Loi sur le transport de marchandises, LTM)
 
-du 25 septembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 septembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -170,21 +170,9 @@ La responsabilité extracontractuelle des entreprises est régie par les art. 40
 
 #### Art. 9a
 
-**Contributions destinées à atténuer les effets de la crise du COVID-19**[^9a-1]
+[^9a-1]
 
-<sup>1</sup> ...[^9a-2]
-
-<sup>2</sup>
-
-Les aides financières de la Confédération présupposent que:
-
-- a.[^9a-3] ...
-- b.[^9a-4] l’entreprise ne verse pas de dividendes pour les exercices 2020, 2021 et 2022.
-
-[^9a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur depuis le 26 sept. 2020 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-2]: En vigueur jusqu’au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-3]: En vigueur jusqu’au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)).
-[^9a-4]: Nouvelle teneur selon le ch. II de la LF du 17 déc. 2021 (Prolongation du soutien aux transports publics durant la crise du COVID-19), en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
+[^9a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19, en vigueur du 26 sept. 2020 au 31 déc. 2021 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)), sauf l’al. 2, let. b, prolongé jusqu’au 31 déc. 2022 par le ch. II de la LF du 17 déc. 2021 (Prolongation du soutien aux transports publics durant la crise du COVID-19) ([RO 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
 #### Art. 10
 
