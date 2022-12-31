@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Februar 2022 über Härtefallmassnahmen für Unternehm
 short: HFMV 22
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/61"
 language: de
-version: 2022-02-08
+version: 2023-01-01
 adopted: 2022-02-02
 in_force: 2022-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20220208/de/xml/fedlex-data-admin-ch-eli-cc-2022-61-20220208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20220208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-61-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20220208/de"
 
 (Covid-19-Härtefallverordnung 2022, HFMV 22)
 
-vom 2. Februar 2022 (Stand am 8. Februar 2022)
+vom 2. Februar 2022 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -27,42 +27,21 @@ verordnet:
 
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
-## 1. Abschnitt: Grundsatz
+## 1. Abschnitt: …
 
 #### Art. 1
 
-<sup>1</sup>
+[^1-1]
 
-Der Bund beteiligt sich gestützt auf die Artikel 11*b* und 12 des Covid-19-Gesetzes vom 25. September 2020 im Rahmen des von der Bundesversammlung bewilligten Verpflichtungskredits an den Kosten, die einem Kanton aus seinen Härtefallmassnahmen für Unternehmen entstehen, sofern:
-
-- a. die vom Kanton unterstützten Unternehmen die Anforderungen nach dem 2. Abschnitt erfüllen;
-- b. die Ausgestaltung dieser Massnahmen den Anforderungen nach dem 3. Abschnitt entspricht;
-- c. der Kanton die Anforderungen nach dem 4. Abschnitt und den Artikeln 14–16 erfüllt.
-
-<sup>2</sup>
-
-Er beteiligt sich nicht an den Kosten, die einem Kanton aus seinen Härtefallmassnahmen für Unternehmen entstehen:
-
-- a. an deren Kapital Bund, Kantone oder Gemeinden mit mehr als 12 000 Einwohnerinnen und Einwohnern insgesamt zu mehr als 10 Prozent beteiligt sind;
-- b. die in der Schweiz weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen.
+[^1-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 ## 2. Abschnitt: Anforderungen an die Unternehmen
 
 #### Art. 2
 
-**Anforderungen**
+[^2-1]
 
-<sup>1</sup>
-
-Das Unternehmen hat gegenüber dem Kanton belegt, dass es:
-
-- a. die Anforderungen nach den Artikeln 2, 2*a*, 3 Absatz 1, 4 Absatz 1, 5 und 5*b* der Covid-19-Härtefallverordnung vom 25. November 2020 in der Fassung vom 18. Dezember 2021[^2-1] erfüllt;
-- b. sich zum Zeitpunkt der Einreichung des Gesuchs nach dieser Verordnung nicht in einem Konkursverfahren oder in Liquidation befindet;
-- c. sich zum Zeitpunkt der Gesuchseinreichung nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befindet, es sei denn, eine vereinbarte Zahlungsplanung liegt vor.
-
-<sup>2</sup> Das Unternehmen hat bestätigt, dass ihm im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie ab Januar 2022 ungedeckte Kosten entstanden sind.
-
-[^2-1]: [AS 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875), [5849](https://fedlex.data.admin.ch/eli/oc/2020/983); [2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8), [184](https://fedlex.data.admin.ch/eli/oc/2021/184), [356](https://fedlex.data.admin.ch/eli/oc/2021/356), [762](https://fedlex.data.admin.ch/eli/oc/2021/762), [4919](https://fedlex.data.admin.ch/eli/oc/2021/4919)
+[^2-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 #### Art. 3
 
@@ -81,53 +60,11 @@ Das Unternehmen hat gegenüber dem Kanton bestätigt, dass es:
 
 ## 3. Abschnitt: Anforderungen an die Ausgestaltung der Härtefallmassnahmen
 
-#### Art. 4
+#### Art. 4 und 5
 
-**Form**
+[^45-1]
 
-Die Härtefallmassnahmen, für deren Kosten der Kanton die Beteiligung des Bundes in Anspruch nimmt, werden in Form von nicht rückzahlbaren Beiträgen gewährt.
-
-#### Art. 5
-
-**Bemessung und Höchstgrenzen**
-
-<sup>1</sup> Der Beitrag deckt höchstens ungedeckte Kosten des Unternehmens in den Monaten Januar bis Juni 2022.
-
-<sup>2</sup> Er beträgt für ein Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken höchstens 9 Prozent des durchschnittlichen Jahresumsatzes und höchstens 450 000 Franken.
-
-<sup>3</sup> Er beträgt für ein Unternehmen mit einem Jahresumsatz über 5 Millionen Franken höchstens 9 Prozent des durchschnittlichen Jahresumsatzes und höchstens 1 200 000 Franken, wenn das Unternehmen bestätigt, dass es seit dem 1. Januar 2021 alle zumutbaren Selbsthilfemassnahmen, insbesondere zum Schutz seiner Liquiditäts- und Kapitalbasis, ergriffen hat. Bestätigt ein Unternehmen dies nicht, erhält es keinen Beitrag.
-
-<sup>4</sup>
-
-Für ein Unternehmen nach Absatz 3 werden die Höchstgrenzen wie folgt erhöht:
-
-- a. auf höchstens 9 Prozent des durchschnittlichen Jahresumsatzes und höchstens 2 400 000 Franken, wenn das Unternehmen nebst der Bestätigung nach Absatz 3 erster Satz belegt, dass es seit dem 1. Juli 2021 neues liquides Eigenkapital im Umfang von mindestens 40 Prozent des 1 200 000 Franken übersteigenden Betrags in Form von Bareinlagen in das Unternehmen eingebracht hat;
-- b. auf höchstens 9 Prozent des durchschnittlichen Jahresumsatzes und höchstens 10 000 000 Franken, wenn das Unternehmen nebst der Bestätigung nach Absatz 3 erster Satz belegt, dass sein gesamter Umsatz im ersten Halbjahr 2022 im Vergleich zum durchschnittlichen Umsatz der ersten Halbjahre 2018 und 2019 um mehr als 30 Prozent zurückgegangen ist.
-
-<sup>5</sup> Der Beitrag beträgt in Abweichung von den Absätzen 2 und 3 für Schausteller nach Artikel 2 Buchstabe c der Verordnung vom 4. September 2002[^5-1] über das Gewerbe der Reisenden, die über eine kantonale Bewilligung nach Artikel 2 des Bundesgesetzes vom 23. März 2001[^5-2] über das Gewerbe der Reisenden verfügen oder die im Jahr 2021 über eine solche verfügt haben, höchstens 18 Prozent des durchschnittlichen Jahresumsatzes und höchstens 2 400 000 Franken.
-
-<sup>6</sup> Für die Beitragsberechnung darf nur liquiditätswirksamer Aufwand berücksichtigt werden.
-
-<sup>7</sup> Der Kanton kann von einem Beitrag absehen, wenn das Unternehmen die Geschäftstätigkeit offensichtlich nicht weiterführen wird.
-
-<sup>8</sup>
-
-Als durchschnittlicher Jahresumsatz nach den Absätzen 2–5 gilt für ein Unternehmen:
-
-- a. das vor dem 31. Dezember 2017 gegründet wurde: der durchschnittliche Umsatz der Jahre 2018 und 2019;
-- b.
-
-  das zwischen dem 31. Dezember 2017 und dem 29. Februar 2020 gegründet wurde:
-
-  - 1\. der durchschnittliche Umsatz, der von der Gründung bis zum 29. Februar 2020 erzielt wurde, berechnet auf 12 Monate, oder
-  - 2\. der durchschnittliche Umsatz, der von der Gründung bis zum 31. Dezember 2020 erzielt wurde, berechnet auf 12 Monate;
-
-- c. das zwischen dem 1. März 2020 und dem 30. September 2020 gegründet wurde: der durchschnittliche Umsatz, der von der Gründung bis zum 31. Dezember 2020 erzielt wurde, berechnet auf 12 Monate.
-
-<sup>9</sup> Angaben zum Jahresumsatz nach dieser Verordnung beziehen sich auf den Einzelabschluss des gesuchstellenden Unternehmens.
-
-[^5-1]: [SR 943.11](https://fedlex.data.admin.ch/eli/cc/2002/509)
-[^5-2]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^45-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 #### Art. 6
 
@@ -139,16 +76,9 @@ Für die Berechnung der bedingten Gewinnbeteiligung nach Artikel 12 Absatz 1<sup
 
 #### Art. 7
 
-**Einzufordernde Belege für Unternehmen mit einem Jahresumsatz über 5 Millionen Franken**
+[^7-1]
 
-Von Unternehmen mit einem Jahresumsatz über 5 Millionen Franken fordern die Kantone mindestens folgende Belege ein, sofern sie diese nicht selbst beibringen:
-
-- a. Handelsregisterauszug;
-- b. Betreibungsregisterauszug;
-- c. Jahresrechnungen, umfassend Bilanz, Erfolgsrechnung und Anhang, für die Jahre 2018, 2019, 2020 und, soweit vorhanden, 2021; unterliegt das Unternehmen der Revisionspflicht: die revidierten Jahresrechnungen;
-- d. vollständige Spartenaufteilung, falls ein Antrag nach Artikel 2*a* der Covid-19-Härtefallverordnung vom 25. November 2020 in der Fassung vom 18. Dezember 2021[^7-1] gestellt wird.
-
-[^7-1]: [AS 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875), [5849](https://fedlex.data.admin.ch/eli/oc/2020/983); [2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8), [184](https://fedlex.data.admin.ch/eli/oc/2021/184), [356](https://fedlex.data.admin.ch/eli/oc/2021/356), [762](https://fedlex.data.admin.ch/eli/oc/2021/762), [4919](https://fedlex.data.admin.ch/eli/oc/2021/4919)
+[^7-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 #### Art. 8
 
@@ -158,9 +88,9 @@ Das kantonale Gesuchsformular, der Vertrag über die Beiträge, den der Kanton m
 
 #### Art. 9
 
-**Zeitlicher Rahmen**
+[^9-1]
 
-Für Beiträge, für deren Kosten der Kanton die Beteiligung des Bundes beanspruchen kann, werden die Gesuche, die ungedeckte Kosten der Monate Januar bis Juni 2022 betreffen, bis spätestens am 30. September 2022 bei den Kantonen eingereicht.
+[^9-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 #### Art. 10
 
@@ -172,53 +102,21 @@ Für Beiträge, für deren Kosten der Kanton die Beteiligung des Bundes beanspru
 
 <sup>3</sup> Der Bund kann bei den Kantonen jederzeit stichprobenweise Kontrollen durchführen.
 
-## 4. Abschnitt: Verfahren und Zuständigkeiten
+## 4. Abschnitt: …
 
-#### Art. 11
+#### Art. 11 und 12
 
-**Verfahren**
+[^1112-1]
 
-<sup>1</sup> Das Verfahren zur Gewährung von Härtefallmassnahmen, für die die Beteiligung des Bundes beansprucht wird, richtet sich nach kantonalem Recht.
-
-<sup>2</sup> Die Kantone prüfen die Gesuche. Sie können dazu automatisierte Verfahren verwenden.
-
-<sup>3</sup> Sie können für die Prüfung Dritte beiziehen.
-
-#### Art. 12
-
-**Kantonale Zuständigkeit**
-
-<sup>1</sup> Zuständig für das Verfahren ist der Kanton, in dem ein Unternehmen am 1. Oktober 2020 seinen Sitz hatte.
-
-<sup>2</sup> Die kantonale Zuständigkeit bleibt von einer Sitzverlegung des Unternehmens in einen anderen Kanton unberührt.
-
-<sup>3</sup> Bei Einzelunternehmen ohne Handelsregistereintrag ist der Kanton am Wohnsitz der Einzelunternehmerin oder des Einzelunternehmers zuständig.
+[^1112-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 ## 5. Abschnitt: Beiträge des Bundes und Berichterstattung der Kantone
 
-#### Art. 13
+#### Art. 13 und 14
 
-**Relevanter Umsatz zur Bestimmung des Finanzierungsanteils des Bundes**
+[^1314-1]
 
-<sup>1</sup> Der Umsatz, der für die Bestimmung des Finanzierungsanteils des Bundes nach Artikel 12 Absatz 1<sup>quater</sup> des Covid-19-Gesetzes vom 25. September 2020 relevant ist, bemisst sich am durchschnittlichen Jahresumsatz nach Artikel 5 Absatz 8.
-
-<sup>2</sup> Der Finanzierungsanteil des Bundes für die Beiträge an die Schausteller nach Artikel 5 Absatz 5 beträgt 100 Prozent.
-
-#### Art. 14
-
-**Vertrag**
-
-<sup>1</sup> Beansprucht ein Kanton Beiträge des Bundes, so schliesst er mit dem SECO bis spätestens am 31. Mai 2022 einen Zusatz zum Vertrag nach Artikel 16 der Covid-19-Härtefallverordnung vom 25. November 2020 in der Fassung vom 18. Dezember 2021[^14-1] ab.
-
-<sup>2</sup>
-
-Der Vertragszusatz hält insbesondere fest:
-
-- a. die rechtlichen Grundlagen auf Bundes- und Kantonsebene;
-- b. die Härtefallmassnahmen des Kantons;
-- c. die Pflichten des Kantons.
-
-[^14-1]: [AS 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875), [5849](https://fedlex.data.admin.ch/eli/oc/2020/983); [2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8), [184](https://fedlex.data.admin.ch/eli/oc/2021/184), [356](https://fedlex.data.admin.ch/eli/oc/2021/356), [762](https://fedlex.data.admin.ch/eli/oc/2021/762), [4919](https://fedlex.data.admin.ch/eli/oc/2021/4919)
+[^1314-1]: In Kraft bis zum 31. Dez. 2022 (Art. 20 Abs. 2).
 
 #### Art. 15
 

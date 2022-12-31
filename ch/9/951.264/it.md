@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2022 sui provvedimenti per i casi di rigore con
 short: OPCR 22
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/61"
 language: it
-version: 2022-02-08
+version: 2023-01-01
 adopted: 2022-02-02
 in_force: 2022-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20220208/it/xml/fedlex-data-admin-ch-eli-cc-2022-61-20220208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20220208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/61/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-61-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/61/20220208/it"
 
 (Ordinanza COVID-19 casi di rigore 2022, OPCR 22)
 
-del 2 febbraio 2022 (Stato 8 febbraio 2022)
+del 2 febbraio 2022 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -27,42 +27,21 @@ ordina:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 
-## Sezione 1: Principio
+## Sezione 1: ...
 
 #### Art. 1
 
-<sup>1</sup>
+[^1-1]
 
-In virtù degli articoli 11*b* e 12 della legge COVID-19 del 25 settembre 2020 e nei limiti del credito d’impegno stanziato dall’Assemblea federale, la Confederazione partecipa ai costi che un Cantone sostiene a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:
-
-- a. le imprese sostenute dai Cantoni soddisfano i requisiti di cui alla sezione 2;
-- b. l’impostazione di questi provvedimenti soddisfa i requisiti di cui alla sezione 3;
-- c. il Cantone soddisfa i requisiti di cui alla sezione 4 e agli articoli 14–16.
-
-<sup>2</sup>
-
-Non partecipa ai costi che un Cantone sostiene a causa dei provvedimenti da esso adottati per i casi di rigore concernenti le imprese se:
-
-- a. il capitale di queste imprese è detenuto complessivamente per oltre il 10 per cento dalla Confederazione, dai Cantoni o dai Comuni con più di 12 000 abitanti;
-- b. in Svizzera queste imprese non esercitano un’attività né impiegano personale proprio.
+[^1-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 ## Sezione 2: Requisiti delle imprese
 
 #### Art. 2
 
-**Requisiti**
+[^2-1]
 
-<sup>1</sup>
-
-L’impresa ha provato al Cantone che:
-
-- a. soddisfa i requisiti di cui agli articoli 2, 2*a*, 3 capoverso 1, 4 capoverso 1, 5 e 5*b* dell’ordinanza COVID-19 casi di rigore del 25 novembre 2020 nella versione del 18 dicembre 2021[^2-1];
-- b. al momento dell’inoltro della richiesta secondo la presente ordinanza non è oggetto di una procedura di fallimento né di una procedura di liquidazione;
-- c. al momento dell’inoltro della richiesta non è oggetto di una procedura esecutiva concernente i contributi alle assicurazioni sociali, a meno che vi sia un piano dei pagamenti concordato.
-
-<sup>2</sup> L’impresa ha confermato che, in relazione ai provvedimenti ordinati dalle autorità per combattere l’epidemia di COVID-19, da gennaio del 2022 ha sostenuto costi non coperti.
-
-[^2-1]: [RU 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875), [5849](https://fedlex.data.admin.ch/eli/oc/2020/983); [2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8), [184](https://fedlex.data.admin.ch/eli/oc/2021/184), [356](https://fedlex.data.admin.ch/eli/oc/2021/356), [762](https://fedlex.data.admin.ch/eli/oc/2021/762), [4919](https://fedlex.data.admin.ch/eli/oc/2021/4919)
+[^2-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 #### Art. 3
 
@@ -81,53 +60,11 @@ L’impresa ha confermato al Cantone che:
 
 ## Sezione 3: Requisiti concernenti l’impostazione dei provvedimenti per i casi di rigore
 
-#### Art. 4
+#### Art. 4 e 5
 
-**Forma**
+[^45-1]
 
-I provvedimenti per i casi di rigore, per i quali il Cantone chiede alla Confederazione di partecipare ai costi, sono concessi sotto forma di contributi non rimborsabili.
-
-#### Art. 5
-
-**Calcolo e limiti massimi**
-
-<sup>1</sup> Il contributo copre al massimo i costi non coperti dell’impresa nei mesi da gennaio a giugno 2022.
-
-<sup>2</sup> Per un’impresa con una cifra d’affari annuale fino a 5 milioni di franchi ammonta al massimo al 9 per cento della cifra d’affari media annuale e al massimo a 450 000 franchi.
-
-<sup>3</sup> Per un’impresa con una cifra d’affari annuale superiore a 5 milioni di franchi ammonta al massimo al 9 per cento della cifra d’affari media annuale e al massimo a 1 200 000 franchi se l’impresa conferma di aver adottato dal 1° gennaio 2021 tutte le misure di autofinanziamento ragionevolmente esigibili, in particolare per proteggere la propria liquidità e la propria base di capitale. Se non conferma quanto precede, l’impresa non riceve alcun contributo.
-
-<sup>4</sup>
-
-Per un’impresa di cui al capoverso 3 i limiti massimi sono aumentati come segue:
-
-- a. al massimo al 9 per cento della cifra d’affari media annuale e al massimo a 2 400 000 franchi se, oltre a fornire la conferma di cui al capoverso 3 primo periodo, l’impresa prova che dal 1° luglio 2021 ha apportato alla stessa, mediante conferimenti in contanti, nuova liquidità sotto forma di capitale proprio in misura pari almeno al 40 per cento dell’importo superiore a 1 200 000 franchi;
-- b. al massimo al 9 per cento della cifra d’affari media annuale e al massimo a 10 000 000 franchi se, oltre a fornire la conferma di cui al capoverso 3 primo periodo, l’impresa prova che nel primo semestre del 2022 la sua cifra d’affari complessiva è diminuita di oltre il 30 per cento rispetto alla cifra d’affari media del primo semestre degli anni 2018 e 2019.
-
-<sup>5</sup> In deroga ai capoversi 2 e 3, per i baracconisti di cui all’articolo 2 lettera c dell’ordinanza del 4 settembre 2002[^5-1] sul commercio ambulante che dispongono di un’autorizzazione cantonale secondo l’articolo 2 della legge federale del 23 marzo 2001[^5-2] sul commercio ambulante o che nel 2021 disponevano di una tale autorizzazione il contributo ammonta al massimo al 18 per cento della cifra d’affari media annuale e al massimo a 2 400 000 franchi.
-
-<sup>6</sup> Per il calcolo del contributo si possono considerare soltanto le spese con incidenza sulla liquidità.
-
-<sup>7</sup> Il Cantone può astenersi dal concedere il contributo se è evidente che l’impresa non proseguirà l’attività.
-
-<sup>8</sup>
-
-Si considera come cifra d’affari media annuale di cui ai capoversi 2–5 per un’impresa:
-
-- a. costituita prima del 31 dicembre 2017, la cifra d’affari media degli anni 2018 e 2019;
-- b.
-
-  costituita tra il 31 dicembre 2017 e il 29 febbraio 2020:
-
-  - 1\. la cifra d’affari media che è stata conseguita tra la costituzione e il 29 febbraio 2020, calcolata su 12 mesi, o
-  - 2\. la cifra d’affari media che è stata conseguita tra la costituzione e il 31 dicembre 2020, calcolata su 12 mesi;
-
-- c. costituita tra il 1° marzo 2020 e il 30 settembre 2020: la cifra d’affari media che è stata conseguita tra la costituzione e il 31 dicembre 2020, calcolata su 12 mesi.
-
-<sup>9</sup> Le indicazioni sulla cifra d’affari annuale secondo la presente ordinanza si riferiscono alla chiusura singola dell’impresa richiedente.
-
-[^5-1]: [RS 943.11](https://fedlex.data.admin.ch/eli/cc/2002/509)
-[^5-2]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
+[^45-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 #### Art. 6
 
@@ -139,16 +76,9 @@ Per il calcolo della partecipazione condizionata agli utili secondo l’articolo
 
 #### Art. 7
 
-**Giustificativi da richiedere alle imprese con una cifra d’affari annuale superiore a 5 milioni di franchi**
+[^7-1]
 
-I Cantoni richiedono alle imprese con una cifra d’affari annuale superiore a 5 milioni di franchi almeno i seguenti giustificativi, sempre che non li forniscano loro stessi:
-
-- a. estratto del registro di commercio;
-- b. estratto del registro delle esecuzioni;
-- c. conti annuali, comprendenti bilancio, conto economico e allegato, del 2018, 2019 e 2020 nonché, se disponibile, del 2021; qualora l’impresa sia soggetta all’obbligo di revisione, i conti annuali riveduti;
-- d. ripartizione completa per settori se è presentata una richiesta secondo l’articolo 2*a* dell’ordinanza COVID-19 casi di rigore del 25 novembre 2020 nella versione del 18 dicembre 2021[^7-1].
-
-[^7-1]: [RU 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875), [5849](https://fedlex.data.admin.ch/eli/oc/2020/983); [2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8), [184](https://fedlex.data.admin.ch/eli/oc/2021/184), [356](https://fedlex.data.admin.ch/eli/oc/2021/356), [762](https://fedlex.data.admin.ch/eli/oc/2021/762), [4919](https://fedlex.data.admin.ch/eli/oc/2021/4919)
+[^7-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 #### Art. 8
 
@@ -158,9 +88,9 @@ Il modulo di richiesta predisposto dal Cantone, il contratto che il Cantone conc
 
 #### Art. 9
 
-**Quadro temporale**
+[^9-1]
 
-Per i contributi per i quali il Cantone può chiedere la partecipazione della Confederazione ai costi, le richieste che riguardano i costi non coperti dei mesi da gennaio a giugno 2022 sono presentate ai Cantoni al più tardi entro il 30 settembre 2022.
+[^9-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 #### Art. 10
 
@@ -172,53 +102,21 @@ Per i contributi per i quali il Cantone può chiedere la partecipazione della Co
 
 <sup>3</sup> La Confederazione può effettuare in ogni momento controlli a campione presso i Cantoni.
 
-## Sezione 4: Procedura e competenze
+## Sezione 4: ...
 
-#### Art. 11
+#### Art. 11 e 12
 
-**Procedura**
+[^1112-1]
 
-<sup>1</sup> La procedura relativa alla concessione di provvedimenti per i casi di rigore per i quali i Cantoni chiedono la partecipazione della Confederazione è retta dal diritto cantonale.
-
-<sup>2</sup> I Cantoni esaminano le richieste. A tal fine, possono utilizzare procedure automatizzate.
-
-<sup>3</sup> Per l’esame i Cantoni possono ricorrere a terzi.
-
-#### Art. 12
-
-**Competenza cantonale**
-
-<sup>1</sup> La competenza per la procedura spetta al Cantone nel quale l’impresa aveva la propria sede il 1° ottobre 2020.
-
-<sup>2</sup> Il trasferimento della sede dell’impresa in un altro Cantone lascia invariata la competenza cantonale.
-
-<sup>3</sup> Per le imprese individuali non iscritte nel registro di commercio è competente il Cantone di domicilio dell’impresa individuale.
+[^1112-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 ## Sezione 5: Contributi della Confederazione e rapporti presentati dai Cantoni
 
-#### Art. 13
+#### Art. 13 e14
 
-**Cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione**
+[^1314-1]
 
-<sup>1</sup> La cifra d’affari rilevante ai fini della determinazione della partecipazione finanziaria della Confederazione secondo l’articolo 12 capoverso 1<sup>quater</sup> della legge COVID-19 del 25 settembre 2020 è calcolata in base alla cifra d’affari media annuale di cui all’articolo 5 capoverso 8.
-
-<sup>2</sup> La partecipazione finanziaria della Confederazione ai contributi concessi ai baracconisti secondo l’articolo 5 capoverso 5 ammonta al 100 per cento.
-
-#### Art. 14
-
-**Contratto**
-
-<sup>1</sup> Se chiede contributi della Confederazione, un Cantone conclude con la SECO al più tardi entro il 31 maggio 2022 un complemento al contratto secondo l’articolo 16 dell’ordinanza COVID-19 casi di rigore del 25 novembre 2020 nella versione del 18 dicembre 2021[^14-1].
-
-<sup>2</sup>
-
-Il complemento al contratto stabilisce segnatamente:
-
-- a. le basi legali a livello federale e cantonale;
-- b. i provvedimenti per i casi di rigore adottati dal Cantone;
-- c. gli obblighi del Cantone.
-
-[^14-1]: [RU 2020 4919](https://fedlex.data.admin.ch/eli/oc/2020/875), [5849](https://fedlex.data.admin.ch/eli/oc/2020/983); [2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8), [184](https://fedlex.data.admin.ch/eli/oc/2021/184), [356](https://fedlex.data.admin.ch/eli/oc/2021/356), [762](https://fedlex.data.admin.ch/eli/oc/2021/762), [4919](https://fedlex.data.admin.ch/eli/oc/2021/4919)
+[^1314-1]: In vigore sino al 31 dicembre 2022 (art. 20 cpv. 2).
 
 #### Art. 15
 
