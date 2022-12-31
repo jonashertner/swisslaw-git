@@ -3,20 +3,19 @@ canton: AG
 number: "957.111"
 title: Verordnung zur Bundesgesetzgebung über das Messwesen
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-10-30
+version: 2023-01-01
+version_adopted: 2022-10-26
 adopted: 2013-10-30
 in_force: 2014-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/957.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1916/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3268/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zur Bundesgesetzgebung über das Messwesen
 
-Vom 30.10.2013 (Stand 01.01.2014)
+Vom 30.10.2013 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -53,7 +52,7 @@ beschliesst:
 
 <sup>2</sup> Aufsichtsbehörde ist das AVS.
 
-<sup>3</sup> Für die Kontrolle der Einhaltung der Mengenangabeverordnung ist das AVS zuständig.
+<sup>3</sup> …
 
 #### § 4
 
@@ -85,6 +84,8 @@ beschliesst:
 
 <sup>2</sup> Die Auslagen richten sich nach den Ansätzen der Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen vom 31. Januar 2001[^6-2].
 
+<sup>3</sup> Abweichend von Absatz 2 gelten die Ansätze gemäss Anhang 1.
+
 [^6-1]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de)
 [^6-2]: SAR [165.171](https://gesetzessammlungen.ag.ch/data/165.171/de)
 
@@ -96,7 +97,9 @@ beschliesst:
 
 <sup>2</sup> Für Prüfungen betreffend Nachschau und Marktüberwachung, für die keine Gebühren erhoben werden können, haben die Eichmeisterinnen und Eichmeister Anspruch auf eine jährliche pauschale Entschädigung des Kantons.
 
-<sup>3</sup> Die Einzelheiten dieser Entschädigung werden in den zwischen dem AVS und den Eichmeisterinnen und Eichmeistern getroffenen Leistungsverträgen geregelt.
+<sup>2<sup>bis</sup></sup> Für Prüfungen gemäss der Mengenangabeverordnung werden die Eichmeisterinnen und Eichmeister vom AVS nach Zeitaufwand entschädigt. Die Höhe der Entschädigung richtet sich nach den Vorgaben der EichGebV.
+
+<sup>3</sup> Die Einzelheiten dieser Entschädigungen werden in den zwischen dem AVS und den Eichmeisterinnen und Eichmeistern getroffenen Leistungsverträgen geregelt.
 
 #### § 8
 
