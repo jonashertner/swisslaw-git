@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 1992 sur l'assurance militaire (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/fr"
 
 (LAM)
 
-du 19 juin 1992 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 1992 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-3]: Nouvelle teneur selon l’annexe ch. 6 de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 3045](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^ingress-4]: [FF 1990 III 189](https://fedlex.data.admin.ch/eli/fga/1990/3_201_189_185)
 
-## Chapitre 1**** Applicabilité de la LPGA
+## Chapitre 1 Applicabilité de la LPGA
 
 [^chap1-1]
 
@@ -44,7 +44,7 @@ arrête:
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Chapitre 1*a***** Conditions de la responsabilité de la Confédération
+## Chapitre 1*a* Conditions de la responsabilité de la Confédération
 
 [^chap1a-1]
 
@@ -79,11 +79,11 @@ Est assuré auprès de l’assurance militaire:[^1a-2]
 
   - 1\. au recrutement,
   - 2\. aux visites sanitaires de l’armée ou de la protection civile,
-  - 3\.[^1a-4] ...
+  - 3\.[^1a-4] …
   - 4\. aux inspections ou estimations d’animaux ou d’objets prévus pour la réquisition en faveur de l’armée ou de la protection civile;
 
 - e.[^1a-5] quiconque prend part à une séance d’information au sens de l’art. 8 de la loi du 3 février 1995 sur l’armée[^1a-6];
-- f.[^1a-7] ...
+- f.[^1a-7] …
 - g.
 
   quiconque prend part:
@@ -93,7 +93,7 @@ Est assuré auprès de l’assurance militaire:[^1a-2]
   - 3\. à une activité militaire volontaire ou sportive militaire ou à une activité volontaire de protection civile hors du service,
   - 4\. comme civil, personnel instructeur ou auxiliaire, à des exercices militaires et à des services d’instruction de la protection civile,
   - 5\. comme personnel instructeur ou auxiliaire, à des cours et exercices de défense générale organisés par la Confédération,
-  - 6\.[^1a-8] ...
+  - 6\.[^1a-8] …
 
 - h.[^1a-9] tout tiers qui prête son aide à une organisation de protection civile au sens de la loi du 20 décembre 2019 sur la protection de la population et sur la protection civile[^1a-10] lors d’une intervention;
 - i. quiconque séjourne, en qualité de patient, dans un établissement hospitalier, de cure ou de soins ou encore dans un centre de dépistage aux frais de l’assurance militaire;
@@ -237,7 +237,7 @@ Les prestations de l’assurance militaire sont:
 
 <sup>1</sup> Les prestations d’assurance sont dues dès le jour où l’affection a été médicalement constatée, le cas échéant où le préjudice pécuniaire s’est produit, même si l’annonce n’a été faite que tardivement.
 
-<sup>2</sup> ...[^9-1]
+<sup>2</sup> …[^9-1]
 
 <sup>3</sup> Le Conseil fédéral édicte des prescriptions applicables aux cas particuliers, notamment lorsqu’il s’agit d’établir une délimitation entre la durée des prestations de l’assurance militaire et celle des prestations fournies par la troupe, la protection civile, le service civil et le régime des allocations pour perte de gain.[^9-2]
 
@@ -261,7 +261,7 @@ Les prestations de l’assurance militaire sont:
 
 **Compensation[^11-1]**
 
-<sup>1</sup> ...[^11-2]
+<sup>1</sup> …[^11-2]
 
 <sup>2</sup> Les créances fondées sur la présente loi peuvent être compensées par des prestations en cours. Demeure garanti le minimum vital au sens de la législation sur la poursuite pour dettes et la faillite.
 
@@ -275,13 +275,13 @@ Les prestations de l’assurance militaire sont:
 
 **Garantie des prestations**
 
-<sup>1</sup> ...[^12-1]
+<sup>1</sup> …[^12-1]
 
 <sup>2</sup> En dérogation à l’art. 20, al. 1, LPGA[^12-2], l’assurance militaire peut, même si l’assuré ne bénéficie pas d’une assistance sociale, prendre des mesures afin que ses prestations en espèces soient en premier lieu affectées à l’entretien de l’assuré ou des personnes dont il a la charge.[^12-3]
 
-<sup>3</sup> ...[^12-4]
+<sup>3</sup> …[^12-4]
 
-<sup>4</sup> ...[^12-5]
+<sup>4</sup> …[^12-5]
 
 [^12-1]: Abrogé par l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^12-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -314,7 +314,7 @@ Dans les situations où les proches de l’assuré auraient droit à une rente �
 
 <sup>2</sup> Le traitement comprend notamment l’examen et le traitement médicaux ainsi que les soins, lesquels peuvent être administrés ambulatoirement, à domicile ou en milieu hospitalier, y compris les analyses, les médicaments et les autres moyens et appareils servant à la thérapie.[^16-1] L’examen et le traitement doivent être entrepris à l’aide de moyens et de méthodes dont l’efficacité est prouvée.
 
-<sup>3</sup> ...[^16-2]
+<sup>3</sup> …[^16-2]
 
 <sup>4</sup> L’assurance militaire pourvoit au traitement. Elle en ordonne la reprise si celui-ci est médicalement indiqué ou s’il y a lieu d’en attendre une amélioration importante de la capacité de gain de l’assuré.
 
@@ -344,7 +344,7 @@ Dans les situations où les proches de l’assuré auraient droit à une rente �
 
 **Obligation de se soumettre à un traitement**
 
-<sup>1</sup> ...[^18-1]
+<sup>1</sup> …[^18-1]
 
 <sup>2</sup> Des mesures médicales sont raisonnablement exigibles au sens des art. 21, al. 4, et art. 43, al. 2, LPGA[^18-2] notamment lorsqu’elles sont nécessaires pour établir le diagnostic ou qu’elles permettent d’espérer avec un haut degré de vraisemblance une amélioration notable.[^18-3]
 
@@ -352,7 +352,7 @@ Dans les situations où les proches de l’assuré auraient droit à une rente �
 
 <sup>4</sup> L’assuré qui refuse de se soumettre à des mesures thérapeutiques médicales raisonnablement exigibles n’a droit qu’aux prestations qui lui seraient revenues si ces mesures avaient été appliquées.
 
-<sup>5</sup> ...[^18-4]
+<sup>5</sup> …[^18-4]
 
 <sup>6</sup> L’assurance militaire supporte le risque de toutes les mesures médicales.
 
@@ -365,13 +365,14 @@ Dans les situations où les proches de l’assuré auraient droit à une rente �
 
 **Soins dentaires**[^18a-1]
 
-<sup>1</sup> En cas de lésions dentaires, l’obligation de l’assurance militaire d’accorder des prestations est régie par l’art. 31, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^18a-2].
+<sup>1</sup> En cas de lésions dentaires, l’obligation de l’assurance militaire d’accorder des prestations est régie par l’art. 31, al. 1, de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^18a-2].[^18a-3]
 
-<sup>2</sup> L’assurance militaire prend également à sa charge les coûts des soins dentaires s’ils sont occasionnés par un accident (art. 4 LPGA[^18a-3]) survenu pendant le service.
+<sup>2</sup> L’assurance militaire prend également à sa charge les coûts des soins dentaires s’ils sont occasionnés par un accident (art. 4 LPGA[^18a-4]) survenu pendant le service.
 
 [^18a-1]: Introduit par le ch. I 4 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 [^18a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^18a-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18a-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^18a-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 19
 
@@ -469,11 +470,23 @@ Le fournisseur de prestations remet à l’assurance militaire une facture déta
 
 <sup>3</sup> En l’absence de convention, le Conseil fédéral édicte les prescriptions nécessaires après avoir consulté les parties.
 
+<sup>3bis</sup> Les fournisseurs de prestations au sens des art. 36 à 40 LAMal[^26-4], les assureurs et leurs fédérations respectives ainsi que l’organisation visée à l’art. 47*a* LAMal sont tenus de communiquer gratuitement au Conseil fédéral, sur demande, les données nécessaires à l’exercice de la tâche visée à l’al. 3. Le Conseil fédéral édicte des dispositions détaillées sur le traitement des données, dans le respect du principe de proportionnalité.[^26-5]
+
+<sup>3ter</sup>
+
+En cas de manquement à l’obligation de communiquer les données prévue à l’al. 3<sup>bis</sup>, le DFI peut prononcer des sanctions à l’encontre des fournisseurs de prestations, des assureurs et des fédérations concernés ainsi qu’à l’encontre de l’organisation visée à l’art. 47*a* LAMal. Les sanctions sont les suivantes:
+
+- a. l’avertissement;
+- b. une amende de 20 000 francs au plus.[^26-6]
+
 <sup>4</sup> Les taxes doivent être égales pour tous les assurés de l’assurance militaire.
 
 [^26-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-2]: Nouvelle teneur de la phrase selon l’annexe ch. 3 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-3]: Nouvelle teneur de la phrase selon l’annexe ch. 3 de la LF du 25 sept. 2015 (Assurance-accidents et prévention des accidents), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4877](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7691](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^26-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-5]: Introduit par l’annexe ch. 1 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^26-6]: Introduit par l’annexe ch. 1 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 27
 
@@ -496,10 +509,11 @@ Le fournisseur de prestations remet à l’assurance militaire une facture déta
 
 **Carte d’assuré**[^27a-1]
 
-Les assurés à titre professionnel et les personnes assurées auprès de l’assurance de base facultative ont droit à une carte d’assuré au sens de l’art. 42*a* de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^27a-2].
+Les assurés à titre professionnel et les personnes assurées auprès de l’assurance de base facultative ont droit à une carte d’assuré au sens de l’art. 42*a* de la LAMal[^27a-2] [^27a-3].
 
 [^27a-1]: Introduit par le ch. I 13 de la LF du 17 mars 2017 sur le programme de stabilisation 2017-2019, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4519](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^27a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27a-3]: Nouvelle expression selon l’annexe ch. 1 de la LF du 18 juin 2021 (Mesure visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 ### Section 4 Indemnité journalière
 
@@ -587,7 +601,7 @@ Lorsque l’assuré est nourri et logé aux frais de l’assurance militaire, un
 
 <sup>2</sup> En cas de mesures de réadaptation destinées au maintien ou à l’amélioration de la capacité de gain, ce droit est déterminé en fonction de toute la durée de travail qu’on peut attendre de l’assuré.
 
-<sup>3</sup> ...[^33-3]
+<sup>3</sup> …[^33-3]
 
 [^33-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^33-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -675,7 +689,7 @@ Une aide en capital peut être allouée à l’assuré susceptible d’être ré
 
 <sup>3</sup> Est assuré le gain annuel que l’assuré aurait probablement pu réaliser pendant la durée de l’invalidité sans l’affection assurée. Lors de la fixation du montant maximum du gain assuré (art. 18 LPGA), le Conseil fédéral part du montant valable au moment de l’entrée en vigueur de la présente loi et l’adapte, en même temps que les rentes (art. 43), à l’évolution de l’indice des salaires nominaux déterminé par l’office compétent.[^40-4]
 
-<sup>4</sup> ...[^40-5]
+<sup>4</sup> …[^40-5]
 
 <sup>5</sup> Le Conseil fédéral édicte, par voie d’ordonnance, des prescriptions plus précises sur l’évaluation du gain annuel présumable dont l’assuré se trouve privé, lorsque la valeur pécuniaire du travail ne peut qu’être estimée.
 
@@ -935,7 +949,7 @@ Les prestations de l’assurance militaire sont réduites équitablement lorsque
 
 <sup>1</sup> En cas de réduction des prestations selon l’art. 21, al. 1, LPGA[^65-2], l’indemnité journalière ainsi que les rentes d’invalidité et de survivants ne peuvent être réduites, en dérogation à l’art. 21, al. 1 à 3, LPGA, que d’un tiers au maximum lorsque et aussi longtemps que le conjoint ou les enfants ont droit à l’entretien.[^65-3]
 
-<sup>2</sup> ...[^65-4]
+<sup>2</sup> …[^65-4]
 
 <sup>3</sup> La décision de réduire ou de refuser des prestations doit tenir compte des circonstances, en particulier de la gravité de la faute de l’ayant droit.[^65-5]
 
@@ -967,7 +981,7 @@ La réduction des prestations d’assurance prévue dans la présente loi et à 
 [^66-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^66-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-## Chapitre 2*a***** Primes des assurés à titre professionnel et des assurés auprès de l’assurance de base facultative
+## Chapitre 2*a* Primes des assurés à titre professionnel et des assurés auprès de l’assurance de base facultative
 
 [^chap2a-1]
 
@@ -1072,7 +1086,7 @@ Lorsque, en cas de lésion d’organes pairs, le dommage entier va à la charge 
 
 **Assurance-maladie**[^75-1]
 
-En cas de concours d’indemnités journalières prévues par la présente loi avec celles prévues par la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^75-2], les indemnités journalières de l’assurance militaire priment.
+En cas de concours d’indemnités journalières prévues par la présente loi avec celles prévues par la LAMal[^75-2], les indemnités journalières de l’assurance militaire priment.
 
 [^75-1]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 [^75-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -1124,7 +1138,7 @@ Les rentes du conjoint et des orphelins en cas de prestations de prévoyance ins
 
 <sup>4</sup> La créance en remboursement est prescrite cinq ans après la fourniture des prestations.
 
-## Chapitre 4 Organisation, administration, ressources financières et responsabilité****
+## Chapitre 4 Organisation, administration, ressources financières et responsabilité
 
 [^chap4-1]
 
@@ -1138,7 +1152,7 @@ Les rentes du conjoint et des orphelins en cas de prestations de prévoyance ins
 
 <sup>2</sup> Le Conseil fédéral peut transférer la gestion de l’assurance militaire à la Caisse nationale suisse d’assurance en cas d’accidents (CNA).[^81-2]
 
-<sup>3</sup> ...[^81-3]
+<sup>3</sup> …[^81-3]
 
 [^81-1]: Suite au transfert à la CNA de l’assurance militaire, cet office a été supprimé.
 [^81-2]: Nouvelle teneur selon le ch. I 1 de la LF du 18 mars 2005 sur le transfert à la CNA de la gestion de l’assurance militaire, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2659](https://fedlex.data.admin.ch/eli/fga/2004/552)).
@@ -1168,13 +1182,13 @@ Les rentes du conjoint et des orphelins en cas de prestations de prévoyance ins
 [^82a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^82a-3]: Introduit par le ch. I 1 de la LF du 18 mars 2005 sur le transfert à la CNA de la gestion de l’assurance militaire, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2659](https://fedlex.data.admin.ch/eli/fga/2004/552)).
 
-## Chapitre 5 Dispositions particulières concernant la procédure et les voies de droit****
+## Chapitre 5 Dispositions particulières concernant la procédure et les voies de droit
 
 [^chap5-1]
 
 [^chap5-1]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-### Section 1 Déclarations obligatoires particulières****
+### Section 1 Déclarations obligatoires particulières
 
 [^chap5-sec1-1]
 
@@ -1188,7 +1202,7 @@ Les rentes du conjoint et des orphelins en cas de prestations de prévoyance ins
 
 <sup>2</sup> Après le service, l’assuré est tenu de déclarer toute affection mise en rapport avec le service à un médecin, à un dentiste ou à un chiropraticien. Aussi longtemps qu’elle n’a pas reçu cette annonce, l’assurance militaire n’est pas tenue d’entrer en matière sur une demande de prestations.
 
-<sup>3</sup> ...[^83-1]
+<sup>3</sup> …[^83-1]
 
 <sup>4</sup> Dans la mesure où l’assurance militaire encourt des frais supplémentaires du fait de l’inobservation intentionnelle des obligations prévues aux al. 1 et 2 et à l’art. 31 LPGA[^83-2], elle peut réduire ses prestations en conséquence.[^83-3]
 
@@ -1202,7 +1216,7 @@ Les rentes du conjoint et des orphelins en cas de prestations de prévoyance ins
 
 Le médecin, le dentiste ou le chiropraticien consulté est tenu d’annoncer immédiatement le cas à l’assurance militaire lorsqu’il peut y avoir une relation entre l’affection et le service accompli. Il doit en particulier annoncer le cas lorsque le patient ou ses proches le demandent. Le médecin, le dentiste ou le chiropraticien répond des conséquences d’une contravention à l’obligation d’annoncer le cas.
 
-### Section 2 Particularités concernant la procédure****
+### Section 2 Particularités concernant la procédure
 
 [^chap5-sec2-1]
 
@@ -1299,9 +1313,9 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
   - 5\. aux offices des poursuites, conformément aux art. 91, 163 et 222 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^95a-9];
   - 6\. aux autorités fiscales, lorsqu’elles sont nécessaires à l’application des lois fiscales,
   - 7\.[^95a-10] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^95a-11];
-  - 8\.[^95a-12] ...[^95a-13]
+  - 8\.[^95a-12] …[^95a-13]
 
-<sup>2</sup> ...[^95a-14]
+<sup>2</sup> …[^95a-14]
 
 <sup>3</sup> En dérogation à l’art. 33 LPGA, des données peuvent également être communiquées à l’autorité fiscale compétente dans le cadre de la procédure de déclaration prévue à l’art. 19 de la loi fédérale du 13 octobre 1965 sur l’impôt anticipé[^95a-15].[^95a-16]
 
@@ -1359,7 +1373,7 @@ L’assurance militaire peut accéder en ligne aux données des systèmes d’in
 
 [^96103-1]: Abrogés par l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-### Section 3**** ...****
+### Section 3 …
 
 [^chap5-sec3-1][^chap5-sec3-2]
 
@@ -1424,7 +1438,7 @@ Lorsqu’une affection n’était pas couverte selon l’ancien droit, les séqu
 
 <sup>1</sup> Les rentes d’invalidité en cours au moment de l’entrée en vigueur de la présente loi continuent à être allouées selon l’ancien droit. La révision en vertu de l’art. 17 LPGA[^112-1] est réservée.[^112-2]
 
-<sup>2</sup> ...[^112-3]
+<sup>2</sup> …[^112-3]
 
 [^112-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^112-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -1482,7 +1496,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1994[^119-1]
 
 [^119-1]: ACF du 11 nov. 1993
 
-## Dispositions finales de la modification du 17 juin 2005****
+## Dispositions finales de la modification du 17 juin 2005
 
 [^u1-1]
 
@@ -1496,7 +1510,7 @@ Annexe
 
 ## Abrogation et modification du droit en vigueur
 
-### 1. Loi fédérale du 20 septembre 1949 sur l’assurance militaire****
+### 1. Loi fédérale du 20 septembre 1949 sur l’assurance militaire
 
 [^annexu1-lvlu1-lvl1-1]
 
@@ -1506,6 +1520,6 @@ Abrogée
 
 ### 2. à 8.
 
-...[^annexu1-lvlu1-lvl2-1]
+…[^annexu1-lvlu1-lvl2-1]
 
 [^annexu1-lvlu1-lvl2-1]: Les mod. peuvent être consultées au [RO 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043).

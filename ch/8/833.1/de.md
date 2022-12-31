@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 1992 über die Militärversicherung (MVG)
 short: MVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/de"
 
 (MVG)
 
-vom 19. Juni 1992 (Stand am 1. Januar 2022)
+vom 19. Juni 1992 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -30,7 +30,7 @@ beschliesst:
 [^ingress-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 21. März 2003 (4. IV-Revision), in Kraft seit 1. Jan. 2004 ([AS 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [BBl 2001 3205](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^ingress-4]: [BBl 1990 III 201](https://fedlex.data.admin.ch/eli/fga/1990/3_201_189_185)
 
-## 1. Kapitel:**** Anwendbarkeit des ATSG
+## 1. Kapitel: Anwendbarkeit des ATSG
 
 [^chap1-1]
 
@@ -44,7 +44,7 @@ beschliesst:
 
 [^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## 1. Kapitel *a*:**** Voraussetzungen der Bundeshaftung
+## 1. Kapitel *a*: Voraussetzungen der Bundeshaftung
 
 [^chap1a-1]
 
@@ -79,11 +79,11 @@ Bei der Militärversicherung ist versichert:[^1a-2]
 
   - 1\.[^1a-4] der Rekrutierung,
   - 2\. sanitarischen Untersuchungen der Armee oder des Zivilschutzes,
-  - 3\.[^1a-5] ...
+  - 3\.[^1a-5] …
   - 4\. Inspektionen oder Schatzungen von Tieren oder Sachen, die durch die Requisition für Armee oder Zivilschutz erfasst werden;
 
 - e.[^1a-6] wer nach Artikel 8 des Militärgesetzes vom 3. Februar 1995[^1a-7] an einer Orientierungsveranstaltung teilnimmt;
-- f.[^1a-8] ...
+- f.[^1a-8] …
 - g.
 
   wer teilnimmt an:
@@ -93,7 +93,7 @@ Bei der Militärversicherung ist versichert:[^1a-2]
   - 3\. einer freiwilligen militärischen oder wehrsportlichen Tätigkeit oder an einer freiwilligen Zivilschutztätigkeit ausser Dienst,
   - 4\. militärischen Übungen und an Instruktionsdiensten des Zivilschutzes als Zivilperson, als Lehr- oder als Hilfspersonal,
   - 5\. vom Bund durchgeführten Kursen und Übungen für Gesamtverteidigung als Lehr- oder als Hilfspersonal,
-  - 6\.[^1a-9] ...;
+  - 6\.[^1a-9] …;
 
 - h.[^1a-10] wer beim Einsatz einer Zivilschutzorganisation im Sinne des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^1a-11] als Drittperson Hilfe leistet;
 - i. wer als Patient auf Kosten der Militärversicherung in einer Heil-, Kur- oder Pflegeanstalt oder in einer Abklärungsstelle untergebracht ist;
@@ -238,7 +238,7 @@ Die Leistungen der Militärversicherung bestehen aus:
 
 <sup>1</sup> Die Versicherungsleistungen sind vom Tage des ärztlich festgestellten Eintritts der Gesundheitsschädigung oder der wirtschaftlichen Schädigung an zu gewähren, auch wenn die Anmeldung erst später erfolgt.
 
-<sup>2</sup> ...[^9-1]
+<sup>2</sup> …[^9-1]
 
 <sup>3</sup> Der Bundesrat erlässt Bestimmungen für besondere Fälle, namentlich für die zeitliche Abgrenzung der Leistungen der Militärversicherung von jenen der Truppe, des Zivilschutzes, des Zivildienstes und von solchen des Erwerbsersatzes.[^9-2]
 
@@ -262,7 +262,7 @@ Die Leistungen der Militärversicherung bestehen aus:
 
 **Verrechnung[^11-1]**
 
-<sup>1</sup> ...[^11-2]
+<sup>1</sup> …[^11-2]
 
 <sup>2</sup> Forderungen aufgrund dieses Gesetzes können mit laufenden Leistungen verrechnet werden. Das im Betreibungsrecht festgesetzte Existenzminimum bleibt gewährleistet.
 
@@ -276,13 +276,13 @@ Die Leistungen der Militärversicherung bestehen aus:
 
 **Sicherung der Leistungen**
 
-<sup>1</sup> ...[^12-1]
+<sup>1</sup> …[^12-1]
 
 <sup>2</sup> Die Militärversicherung kann in Abweichung von Artikel 20 Absatz 1 ATSG[^12-2] auch ohne Fürsorgeabhängigkeit Massnahmen treffen, damit ihre Geldleistungen in erster Linie für den Unterhalt des Versicherten oder der Personen, für die er zu sorgen hat, verwendet werden.[^12-3]
 
-<sup>3</sup> ...[^12-4]
+<sup>3</sup> …[^12-4]
 
-<sup>4</sup> ...[^12-5]
+<sup>4</sup> …[^12-5]
 
 [^12-1]: Aufgehoben durch Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^12-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -315,7 +315,7 @@ Hat der Versicherte Angehörige, denen im Falle seines Todes ein Rentenanspruch 
 
 <sup>2</sup> Die Heilbehandlung umfasst namentlich die medizinische Untersuchung und Behandlung sowie die Pflege, die ambulant, zu Hause oder stationär durchgeführt werden können, mit Einschluss der Analysen, der Arzneimittel und der weitern zur Therapie erforderlichen Mittel und Gegenstände.[^16-1] Untersuchung und Behandlung haben mit Mitteln und nach Methoden zu erfolgen, für die der Wirkungsnachweis erbracht ist.
 
-<sup>3</sup> ...[^16-2]
+<sup>3</sup> …[^16-2]
 
 <sup>4</sup> Die Militärversicherung sorgt für die Heilbehandlung. Sie ordnet deren Wiederaufnahme an, wenn diese medizinisch angezeigt ist oder wenn davon eine erhebliche Verbesserung der Erwerbsfähigkeit des Versicherten erwartet werden kann.
 
@@ -345,7 +345,7 @@ Hat der Versicherte Angehörige, denen im Falle seines Todes ein Rentenanspruch 
 
 **Behandlungspflicht**
 
-<sup>1</sup> ...[^18-1]
+<sup>1</sup> …[^18-1]
 
 <sup>2</sup> Zumutbar im Sinne von Artikel 21 Absatz 4 und Artikel 43 Absatz 2 ATSG[^18-2] ist eine medizinische Massnahme namentlich, wenn sie zu diagnostischen Zwecken nötig ist oder mit hoher Wahrscheinlichkeit eine erhebliche Besserung verspricht.[^18-3]
 
@@ -353,7 +353,7 @@ Hat der Versicherte Angehörige, denen im Falle seines Todes ein Rentenanspruch 
 
 <sup>4</sup> Weigert sich der Versicherte, eine zumutbare therapeutische medizinische Massnahme durchführen zu lassen, so werden nur jene Leistungen ausgerichtet, welche noch hätten entrichtet werden müssen, wenn die Massnahme angewandt worden wäre.
 
-<sup>5</sup> ...[^18-4]
+<sup>5</sup> …[^18-4]
 
 <sup>6</sup> Die Militärversicherung trägt das Risiko aller medizinischen Massnahmen.
 
@@ -366,13 +366,14 @@ Hat der Versicherte Angehörige, denen im Falle seines Todes ein Rentenanspruch 
 
 **Zahnärztliche Behandlungen**[^18a-1]
 
-<sup>1</sup> Bei Zahnschäden richtet sich die Leistungspflicht der Militärversicherung nach Artikel 31 Absatz 1 des Bundesgesetzes vom 18. März 1994[^18a-2] über die Krankenversicherung.
+<sup>1</sup> Bei Zahnschäden richtet sich die Leistungspflicht der Militärversicherung nach Artikel 31 Absatz 1 des Bundesgesetzes vom 18. März 1994[^18a-2] über die Krankenversicherung (KVG).[^18a-3]
 
-<sup>2</sup> Zudem übernimmt die Militärversicherung die Kosten zahnärztlicher Behandlungen, die durch einen Unfall (Art. 4 ATSG[^18a-3]) während des Dienstes bedingt sind.
+<sup>2</sup> Zudem übernimmt die Militärversicherung die Kosten zahnärztlicher Behandlungen, die durch einen Unfall (Art. 4 ATSG[^18a-4]) während des Dienstes bedingt sind.
 
 [^18a-1]: Eingefügt durch Ziff. I 4 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 [^18a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^18a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18a-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^18a-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 19
 
@@ -470,11 +471,23 @@ Der Leistungserbringer muss der Militärversicherung eine detaillierte und verst
 
 <sup>3</sup> Besteht kein Vertrag, so erlässt der Bundesrat nach Anhören der Parteien die erforderlichen Bestimmungen.
 
+<sup>3bis</sup> Die Leistungserbringer nach den Artikeln 36–40 KVG[^26-4] und deren Verbände, die Versicherer und deren Verbände und die Organisation nach Artikel 47*a* KVG sind verpflichtet, dem Bundesrat auf Verlangen kostenlos die Daten bekannt zu geben, die für die Erfüllung der Aufgabe nach Absatz 3 notwendig sind. Der Bundesrat erlässt nähere Vorschriften zur Bearbeitung der Daten unter Wahrung des Verhältnismässigkeitsprinzips.[^26-5]
+
+<sup>3ter</sup>
+
+Bei einem Verstoss gegen die Pflicht zur Datenbekanntgabe nach Absatz 3bis kann das EDI gegen die Verbände der Leistungserbringer und diejenigen der Versicherer, gegen die Organisation nach Artikel 47*a* KVG und gegen die betroffenen Leistungserbringer und Versicherer Sanktionen ergreifen. Diese umfassen:
+
+- a. die Verwarnung;
+- b. eine Busse bis zu 20 000 Franken.[^26-6]
+
 <sup>4</sup> Für alle Versicherten der Militärversicherung sind die gleichen Taxen zu berechnen.
 
 [^26-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-2]: Fassung des dritten Satzes gemäss Anhang Ziff. 3 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 3 des BG vom 25. Sept. 2015 (Unfallversicherung und Unfallverhütung), in Kraft seit 1. Jan. 2017 ([AS 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [BBl 2008 5395](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 7911](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^26-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-5]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^26-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 27
 
@@ -497,10 +510,11 @@ Der Leistungserbringer muss der Militärversicherung eine detaillierte und verst
 
 **Versichertenkarte**[^27a-1]
 
-Beruflich Versicherte und bei der freiwilligen Grundversicherung Versicherte haben Anspruch auf eine Versichertenkarte nach Artikel 42*a* des Bundesgesetzes vom 18. März 1994[^27a-2] über die Krankenversicherung.
+Beruflich Versicherte und bei der freiwilligen Grundversicherung Versicherte haben Anspruch auf eine Versichertenkarte nach Artikel 42*a* KVG[^27a-2] [^27a-3].
 
 [^27a-1]: Eingefügt durch Ziff. I 13 des BG vom 17. März 2017 über das Stabilisierungsprogramm 2017–2019, in Kraft seit 1. Jan. 2018 ([AS 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [BBl 2016 4691](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
 [^27a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27a-3]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2023 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ### 4. Abschnitt: Taggeld
 
@@ -588,7 +602,7 @@ Wo die Militärversicherung für die Kosten der Unterkunft und Verpflegung aufko
 
 <sup>2</sup> Bei den Eingliederungsmassnahmen zur Erhaltung oder Verbesserung der Erwerbsfähigkeit ist die gesamte noch zu erwartende Arbeitsdauer zu berücksichtigen.
 
-<sup>3</sup> ...[^33-3]
+<sup>3</sup> …[^33-3]
 
 [^33-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^33-2]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -670,7 +684,7 @@ Einem eingliederungsfähigen Versicherten kann eine Kapitalhilfe zur Aufnahme od
 
 <sup>3</sup> Versichert ist der Jahresverdienst, der während der Dauer der Invalidität ohne die versicherte Gesundheitsschädigung mutmasslich erzielt worden wäre. Der Bundesrat geht bei der Festsetzung des Höchstbetrags des versicherten Verdienstes (Art. 18 ATSG) vom Betrag aus, der beim Inkrafttreten dieses Gesetzes gilt, und passt ihn, zusammen mit den Renten nach Artikel 43, der vom zuständigen Bundesamt ermittelten Entwicklung des Nominallohnindexes an.[^40-4]
 
-<sup>4</sup> ...[^40-5]
+<sup>4</sup> …[^40-5]
 
 <sup>5</sup> Der Bundesrat umschreibt durch Verordnung die Ermittlung des entgehenden mutmasslichen Jahresverdienstes bei einer Arbeit, deren Wert lediglich geschätzt werden kann.
 
@@ -930,7 +944,7 @@ Die Leistungen der Militärversicherung werden angemessen gekürzt, wenn die ver
 
 <sup>1</sup> Werden Leistungen nach Artikel 21 Absatz 1 ATSG[^65-2] gekürzt, so können Taggelder sowie Invaliden- und Hinterlassenenrenten in Abweichung von Artikel 21 Absätze 1–3 ATSG höchstens um ein Drittel gekürzt werden, wenn und solange Ehegatten oder Kindern ein Unterhaltsanspruch zusteht.[^65-3]
 
-<sup>2</sup> ...[^65-4]
+<sup>2</sup> …[^65-4]
 
 <sup>3</sup> Beim Entscheid über die Kürzung oder Verweigerung von Leistungen sind alle Umstände des einzelnen Falles, insbesondere das Ausmass des Verschuldens der versicherten Person, zu berücksichtigen.[^65-5]
 
@@ -962,7 +976,7 @@ Wo dieses Gesetz sowie Artikel 21 ATSG[^66-1] die Kürzung von Leistungen vorseh
 [^66-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^66-2]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-## 2*a*. Kapitel:**** Prämien der beruflich Versicherten und der bei der freiwilligen Grundversicherung Versicherten
+## 2*a*. Kapitel: Prämien der beruflich Versicherten und der bei der freiwilligen Grundversicherung Versicherten
 
 [^chap2a-1]
 
@@ -1067,7 +1081,7 @@ Ist bei der Schädigung paariger Organe der ganze Schaden gemäss Artikel 4 Absa
 
 **Krankenversicherung**[^75-1]
 
-Soweit Taggelder nach diesem Gesetz mit solchen nach dem Bundesgesetz vom 18. März 1994[^75-2] über die Krankenversicherung zusammentreffen, gehen die Taggelder der Militärversicherung vor.
+Soweit Taggelder nach diesem Gesetz mit solchen nach dem KVG[^75-2] zusammentreffen, gehen die Taggelder der Militärversicherung vor.
 
 [^75-1]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^75-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -1119,7 +1133,7 @@ Ehegatten- und Waisenrenten bei ungenügenden Vorsorgeleistungen nach Artikel 54
 
 <sup>4</sup> Der Rückerstattungsanspruch verjährt fünf Jahre nach der Ausrichtung der Leistungen.
 
-## 4. Kapitel: Organisation, Verwaltung, Finanzierung und Haftung****
+## 4. Kapitel: Organisation, Verwaltung, Finanzierung und Haftung
 
 [^chap4-1]
 
@@ -1133,7 +1147,7 @@ Ehegatten- und Waisenrenten bei ungenügenden Vorsorgeleistungen nach Artikel 54
 
 <sup>2</sup> Der Bundesrat kann die Führung der Militärversicherung der Schweizerischen Unfallversicherungsanstalt (SUVA) übertragen.[^81-2]
 
-<sup>3</sup> ...[^81-3]
+<sup>3</sup> …[^81-3]
 
 [^81-1]: Amt aufgrund des Transfers der Militärversicherung an die SUVA heute aufgelöst.
 [^81-2]: Fassung gemäss Ziff. I 1 des BG vom 18. März 2005 über die Übertragung der Führung der Militärversicherung an die SUVA, in Kraft seit 1. Juli 2005 ([AS 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [BBl 2004 2851](https://fedlex.data.admin.ch/eli/fga/2004/552)).
@@ -1163,13 +1177,13 @@ Ehegatten- und Waisenrenten bei ungenügenden Vorsorgeleistungen nach Artikel 54
 [^82a-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^82a-3]: Eingefügt durch Ziff. I 1 des BG vom 18. März 2005 über die Übertragung der Führung der Militärversicherung an die SUVA, in Kraft seit 1. Juli 2005 ([AS 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [BBl 2004 2851](https://fedlex.data.admin.ch/eli/fga/2004/552)).
 
-## 5. Kapitel: Besondere Bestimmungen zum Verfahren und zur Rechtspflege****
+## 5. Kapitel: Besondere Bestimmungen zum Verfahren und zur Rechtspflege
 
 [^chap5-1]
 
 [^chap5-1]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### 1. Abschnitt: Besondere Meldepflichten****
+### 1. Abschnitt: Besondere Meldepflichten
 
 [^chap5-sec1-1]
 
@@ -1183,7 +1197,7 @@ Ehegatten- und Waisenrenten bei ungenügenden Vorsorgeleistungen nach Artikel 54
 
 <sup>2</sup> Der Versicherte hat nach dem Dienst jede mit diesem in Zusammenhang gebrachte Gesundheitsschädigung einem Arzt, Zahnarzt oder Chiropraktor zu melden. Solange diese Meldung aussteht, braucht die Militärversicherung auf ein Begehren nicht einzutreten.
 
-<sup>3</sup> ...[^83-1]
+<sup>3</sup> …[^83-1]
 
 <sup>4</sup> Soweit der Militärversicherung durch vorsätzliche Verletzung von Meldepflichten des Leistungsansprechers nach den Absätzen 1 und 2 sowie nach Artikel 31 ATSG[^83-2] erhöhte Kosten erwachsen, können die Leistungen entsprechend gekürzt werden.[^83-3]
 
@@ -1197,7 +1211,7 @@ Ehegatten- und Waisenrenten bei ungenügenden Vorsorgeleistungen nach Artikel 54
 
 Kommt zwischen einer Gesundheitsschädigung und geleistetem Dienst ein Zusammenhang in Betracht, so ist der konsultierte Arzt, Zahnarzt oder Chiropraktor verpflichtet, den Fall sofort der Militärversicherung anzumelden. Er muss den Fall insbesondere anmelden, wenn der Patient oder seine Angehörigen es verlangen. Versäumt der Arzt, Zahnarzt oder Chiropraktor diese Meldepflicht, so haftet er für die Folgen.
 
-### 2. Abschnitt: Besonderheiten des Verfahrens****
+### 2. Abschnitt: Besonderheiten des Verfahrens
 
 [^chap5-sec2-1]
 
@@ -1294,9 +1308,9 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Organe, die mi
   - 5\. Betreibungsämtern, nach den Artikeln 91, 163 und 222 des Bundesgesetzes vom 11. April 1889[^95a-10] über Schuldbetreibung und Konkurs,
   - 6\. Steuerbehörden, wenn die Daten für die Anwendung der Steuergesetze erforderlich sind,
   - 7\.[^95a-11] den Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 des Zivilgesetzbuches[^95a-12],
-  - 8\.[^95a-13] ...[^95a-14]
+  - 8\.[^95a-13] …[^95a-14]
 
-<sup>2</sup> ...[^95a-15]
+<sup>2</sup> …[^95a-15]
 
 <sup>3</sup> Daten dürfen in Abweichung von Artikel 33 ATSG auch der zuständigen Steuerbehörde im Rahmen des Meldeverfahrens nach Artikel 19 des Bundesgesetzes vom 13. Oktober 1965[^95a-16] über die Verrechnungssteuer bekannt gegeben werden.[^95a-17]
 
@@ -1355,7 +1369,7 @@ Die Militärversicherung hat, soweit dies für die Erfüllung ihrer gesetzlichen
 
 [^96103-1]: Aufgehoben durch Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-### 3. Abschnitt: ...****
+### 3. Abschnitt: …
 
 [^chap5-sec3-1]
 
@@ -1419,7 +1433,7 @@ War eine Gesundheitsschädigung nach altem Recht nicht versichert, so sind Spät
 
 <sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes laufenden Invalidenrenten werden weiterhin nach dem alten Recht ausgerichtet. Vorbehalten bleibt die Revision nach Artikel 17 ATSG[^112-1].[^112-2]
 
-<sup>2</sup> ...[^112-3]
+<sup>2</sup> …[^112-3]
 
 [^112-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^112-2]: Fassung gemäss Anhang Ziff. 13 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
@@ -1477,7 +1491,7 @@ Datum des Inkrafttretens: 1. Januar 1994[^119-1]
 
 [^119-1]: BRB vom 11. Nov. 1993
 
-## Schlussbestimmungen zur Änderung vom 17. Juni 2005****
+## Schlussbestimmungen zur Änderung vom 17. Juni 2005
 
 [^u1-1]
 
@@ -1491,7 +1505,7 @@ Anhang
 
 ## Aufhebung und Änderung bisherigen Rechts
 
-### 1. Bundesgesetz vom 20. September 1949**** über die Militärversicherung
+### 1. Bundesgesetz vom 20. September 1949 über die Militärversicherung
 
 [^annexu1-lvlu1-lvl1-1]
 
@@ -1501,6 +1515,6 @@ Aufgehoben
 
 ### 2.–8.
 
-...[^annexu1-lvlu1-lvl2-1]
+…[^annexu1-lvlu1-lvl2-1]
 
 [^annexu1-lvlu1-lvl2-1]: Die Änderungen können unter [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)konsultiert werden.

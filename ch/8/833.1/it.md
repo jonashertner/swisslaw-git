@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 1992 sull'assicurazione militare (LAM)"
 short: LAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1992-06-19
 in_force: 1994-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-3043_3043_3043-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/3043_3043_3043/20220101/it"
 
 (LAM)
 
-del 19 giugno 1992 (Stato 1° gennaio 2022)
+del 19 giugno 1992 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -30,7 +30,7 @@ decreta:
 [^ingress-3]: Nuovo testo giusta l’all. n. 6 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)3852; [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^ingress-4]: [FF 1990 III 185](https://fedlex.data.admin.ch/eli/fga/1990/3_201_189_185)
 
-## Capitolo 1:**** Applicabilità della LPGA
+## Capitolo 1: Applicabilità della LPGA
 
 [^chap1-1]
 
@@ -44,7 +44,7 @@ decreta:
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## Capitolo 1*a*:**** Presupposti della responsabilità della Confederazione
+## Capitolo 1*a*: Presupposti della responsabilità della Confederazione
 
 [^chap1a-1]
 
@@ -368,13 +368,14 @@ Se i congiunti dell’assicurato, alla sua morte, avrebbero diritto a una rendit
 
 **Cure dentarie**[^18a-1]
 
-<sup>1</sup> In caso di lesioni dentarie, l’obbligo di prestazione dell’assicurazione militare si fonda sull’articolo 31 capoverso 1 della legge federale del 18 marzo 1994[^18a-2] sull’assicurazione malattie.
+<sup>1</sup> In caso di lesioni dentarie, l’obbligo di prestazione dell’assicurazione militare si fonda sull’articolo 31 capoverso 1 della legge federale del 18 marzo 1994[^18a-2] sull’assicurazione malattie (LAMal).[^18a-3]
 
-<sup>2</sup> L’assicurazione militare assume inoltre i costi delle cure dentarie causate da un infortunio (art. 4 LPGA[^18a-3]) durante il servizio.
+<sup>2</sup> L’assicurazione militare assume inoltre i costi delle cure dentarie causate da un infortunio (art. 4 LPGA[^18a-4]) durante il servizio.
 
 [^18a-1]: Introdotto dal n. I 4 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 [^18a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^18a-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18a-3]: Introdotto dall’all. n. 1 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^18a-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 19
 
@@ -472,11 +473,23 @@ Il fornitore di prestazioni deve consegnare all’assicurazione militare una fat
 
 <sup>3</sup> In mancanza di convenzione il Consiglio federale emana le necessarie prescrizioni, previa consultazione delle parti.
 
+<sup>3bis</sup> Su richiesta, i fornitori di prestazioni di cui agli articoli 36–40 LAMal[^26-4] e gli assicuratori, le rispettive federazioni e l’organizzazione di cui all’articolo 47*a* LAMal comunicano gratuitamente al Consiglio federale i dati necessari per adempiere il compito di cui al capoverso 3. Il Consiglio federale emana disposizioni dettagliate sul trattamento dei dati, nel rispetto del principio di proporzionalità.[^26-5]
+
+<sup>3ter</sup>
+
+In caso di violazione dell’obbligo di comunicare i dati di cui al capoverso 3<sup>bis</sup>, il Dipartimento federale dell’interno può prendere sanzioni contro i fornitori di prestazioni e gli assicuratori interessati, nonché contro le rispettive federazioni e l’organizzazione di cui all’articolo 47*a* LAMal. Le sanzioni consistono:
+
+- a. nell’ammonizione;
+- b. nella multa sino a 20 000 franchi.[^26-6]
+
 <sup>4</sup> Le tasse sono uguali per tutti gli assicurati dell’assicurazione militare.
 
 [^26-1]: Nuovo testo giusta l’all. n. 3 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-2]: Nuovo testo del per. giusta l’all. n. 3 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
 [^26-3]: Nuovo testo del per. giusta l’all. n. 3 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
+[^26-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-5]: Introdotto dall’all. n. 1 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
+[^26-6]: Introdotto dall’all. n. 1 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 
 #### Art. 27
 
@@ -499,10 +512,10 @@ Il fornitore di prestazioni deve consegnare all’assicurazione militare una fat
 
 **Tessera d’assicurato**[^27a-1]
 
-Gli assicurati a titolo professionale e le persone assicurate presso l’assicurazione facoltativa di base hanno diritto a una tessera d’assicurato ai sensi dell’articolo 42*a* della legge federale del 18 marzo 1994[^27a-2] sull’assicurazione malattie.
+Gli assicurati a titolo professionale e le persone assicurate presso l’assicurazione facoltativa di base hanno diritto a una tessera d’assicurato ai sensi dell’articolo 42*a* LAMal[^27a-2].
 
 [^27a-1]: Introdotto dal n. I 13 della LF del 17 mar. 2017 sul programma di stabilizzazione 2017–2019, in vigore dal 1° gen. 2018 ([RU 2017 5205](https://fedlex.data.admin.ch/eli/oc/2017/573); [FF 2016 4135](https://fedlex.data.admin.ch/eli/fga/2016/1047)).
-[^27a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^27a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328). Nuova espr. giusta l’all. n. 1 della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2023 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [2022 808](https://fedlex.data.admin.ch/eli/oc/2022/808); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### Sezione 4: Indennità giornaliera
 
@@ -970,7 +983,7 @@ La riduzione delle prestazioni assicurative prevista nella presente legge e nell
 [^66-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^66-2]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-## Capitolo 2*a*:**** Premi degli assicurati a titolo professionale e degli assicurati presso l’assicurazione facoltativa di base
+## Capitolo 2*a*: Premi degli assicurati a titolo professionale e degli assicurati presso l’assicurazione facoltativa di base
 
 [^chap2a-1]
 
@@ -1075,7 +1088,7 @@ Se, nel caso di lesione di organi doppi, l’intero danno è a carico dell’ass
 
 **Assicurazione contro le malattie**[^75-1]
 
-Nel caso di concorso di indennità giornaliere conformemente alla presente legge con prestazioni secondo la legge federale del 18 marzo 1994[^75-2] sull’assicurazione malattie, le indennità dell’assicurazione militare sono poziori.
+Nel caso di concorso di indennità giornaliere conformemente alla presente legge con prestazioni secondo la LAMal[^75-2], le indennità dell’assicurazione militare sono poziori.
 
 [^75-1]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^75-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
@@ -1127,7 +1140,7 @@ Le rendite per coniugi e per orfani in caso di prestazioni previdenziali insuffi
 
 <sup>4</sup> Il diritto alla ripetizione si prescrive entro cinque anni dal versamento delle prestazioni.
 
-## Capitolo 4: Organizzazione, amministrazione, finanziamento e responsabilità****
+## Capitolo 4: Organizzazione, amministrazione, finanziamento e responsabilità
 
 [^chap4-1]
 
@@ -1171,13 +1184,13 @@ Le rendite per coniugi e per orfani in caso di prestazioni previdenziali insuffi
 [^82a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^82a-3]: Introdotto dal n. I 1 della LF del 18 mar. 2005 sul trasferimento della gestione dell’assicurazione militare all’INSAI, in vigore dal 1° lug. 2005 ([RU 2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [FF 2004 2493](https://fedlex.data.admin.ch/eli/fga/2004/552)).
 
-## Capitolo 5: Disposizioni speciali relative alla procedura e all’amministrazione della giustizia****
+## Capitolo 5: Disposizioni speciali relative alla procedura e all’amministrazione della giustizia
 
 [^chap5-1]
 
 [^chap5-1]: Nuovo testo giusta l’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### Sezione 1: Obbligo speciale di notificazione****
+### Sezione 1: Obbligo speciale di notificazione
 
 [^chap5-sec1-1]
 
@@ -1205,7 +1218,7 @@ Le rendite per coniugi e per orfani in caso di prestazioni previdenziali insuffi
 
 Il medico, il dentista o il chiropratico consultato è tenuto a notificare immediatamente il caso all’assicurazione militare, se entra in considerazione un rapporto tra affezione e servizio militare. In particolare, deve notificare il caso quando lo esigono il paziente o i congiunti di quest’ultimo. Se omette di adempiere a questo obbligo, il medico, il dentista o il chiropratico risponde delle conseguenze.
 
-### Sezione 2: Particolarità relative alla procedura****
+### Sezione 2: Particolarità relative alla procedura
 
 [^chap5-sec2-1]
 
@@ -1291,6 +1304,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 - g. alle organizzazioni d’assistenza ai militari e alle loro famiglie, qualora ne necessitino per decidere in merito a domande di aiuto;
 - h. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
 - [tab] h<sup>bis</sup>.[^95a-7]al SIC o agli organi di sicurezza dei Cantoni a destinazione del SIC, qualora sussista una minaccia concreta per la sicurezza interna o esterna secondo l’articolo 19 capoverso 2 della legge federale del 25 settembre 2015[^95a-8] sulle attività informative;
+
 - i.
 
   in singoli casi e su richiesta scritta e motivata:
@@ -1363,7 +1377,7 @@ L’assicurazione militare ha accesso mediante procedura di richiamo se ciò è 
 
 [^96103-1]: Abrogati dall’all. n. 13 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-### Sezione 3: ... ****
+### Sezione 3: ...
 
 [^chap5-sec3-1]
 
@@ -1485,7 +1499,7 @@ Data dell’entrata in vigore: 1° gennaio 1994[^119-1]
 
 [^119-1]: DCF dell’11 nov. 1993.
 
-## Disposizioni finali relative alla modifica del 17 giugno 2005****
+## Disposizioni finali relative alla modifica del 17 giugno 2005
 
 [^u1-1]
 
@@ -1503,7 +1517,7 @@ Allegato
 
 [^annexu1-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: [[RU 1949 1705](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705), [1956 825](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825), [1959 293](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293), [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245), [1968 580](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580), [1971 1959](https://fedlex.data.admin.ch/eli/oc/1971/__1959), [1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 n.1, [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 5 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116, [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)]
+[^annexu1-lvlu1-lvl1-1]: [[RU 1949 1705](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 825](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 293](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 245](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 580](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1971 1959](https://fedlex.data.admin.ch/eli/oc/1971/__1959); [1972 1069](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)art. 15 n. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 5, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)]
 
 Abrogata
 
