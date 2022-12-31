@@ -4,13 +4,12 @@ number: "256"
 title: Verordnung über die öffentlichen Beurkundungen
 short: "Beurkundungsverordnung, BeurkV"
 language: de
-version: 2016-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-10-12
+version: 2023-01-01
+version_adopted: 2022-09-27
 adopted: 1973-11-24
 in_force: 1974-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/256"
-pdf: "https://srl.lu.ch/api/de/versions/3005/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3005/pdf_file"
 
 (Beurkundungsverordnung, BeurkV)
 
-vom 24.11.1973 (Stand 01.01.2016)
+vom 24.11.1973 (Stand 01.01.2023)
 
 Das Obergericht des Kantons Luzern,
 
@@ -41,11 +40,11 @@ beschliesst:
 
 - a. der Ausweis über das Ergebnis der Notariatsprüfung;
 - b. der Ausweis über die Haftpflichtversicherung;
-- c. der Ausweis über den Wohnsitz im Kanton Luzern.
+- c. der Ausweis über den Wohnsitz in der Schweiz.
 
 <sup>3</sup> Inhaber eines ausserkantonalen Anwaltspatentes haben dem Gesuch die Bewilligung zur Berufsausübung im Kanton Luzern beizulegen.
 
-<sup>4</sup> Gemeindeschreiber und vollamtliche, patentierte Gemeindeschreibersubstituten haben dem Gesuch das Fähigkeitszeugnis als Gemeindeschreiber sowie den Ausweis über die Wahl zum Gemeindeschreiber bzw. zum vollamtlichen Gemeindeschreibersubstituten beizulegen.
+<sup>4</sup> Gemeindeschreiber und ihre voll- oder hauptamtlichen, patentierten Substituten haben dem Gesuch das Fähigkeitszeugnis als Gemeindeschreiber sowie den Ausweis über die Wahl zum Gemeindeschreiber bzw. zum voll- oder hauptamtlichen Substituten beizulegen.
 
 <sup>5</sup> Andere Beamte mit Gemeindeschreiberfunktionen haben darzutun, dass für die Zuerkennung der Beurkundungsbefugnis ein Bedürfnis besteht. Ferner haben sie dem Gesuch das Fähigkeitszeugnis als Gemeindeschreiber sowie den Ausweis über die Wahl zum Beamten mit Gemeindeschreiberfunktionen beizulegen.
 
