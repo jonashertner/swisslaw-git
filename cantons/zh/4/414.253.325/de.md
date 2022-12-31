@@ -3,10 +3,11 @@ canton: ZH
 number: "414.253.325"
 title: "Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-nachtrag: "115"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-08-01
 adopted: 2021-05-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-119.html"
 text: pdf
 ---
 
@@ -78,7 +79,7 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 ### B. Zulassung zum Studium
 
@@ -176,15 +177,15 @@ Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen
 
 <sup>2</sup> Die Modulnoten werden nach der Anzahl der ECTS-Credits eines Moduls gewichtet.
 
-#### § 17
-
 **Titel**
 
-Der Masterstudiengang wird mit dem Titel «Master of Science ZFH in Real Estate & Facility Management mit Vertiefung in [gewählten Vertiefungsrichtung]» abgeschlossen.
+§ 17.[^hDStudienabschluss-1] Der Masterstudiengang wird mit dem Titel «Master of Science ZHAW in Real Estate & Facility Management mit Vertiefung in [gewählten Vertiefungsrichtung]» abgeschlossen.
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
+
+[^hDStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 500; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### E. Schlussbestimmung
 
@@ -204,10 +205,10 @@ Studierende, die ihr Studium unter der Studienordnung vom 24. März 2011 aufgeno
 
 Der Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
