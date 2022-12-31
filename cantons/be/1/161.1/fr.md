@@ -4,13 +4,13 @@ number: "161.1"
 title: "Loi sur l'organisation des autorités judiciaires et du Ministère public"
 short: LOJM
 language: fr
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-09
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-06-15
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2215/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2721/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2215/pdf_file"
 
 (LOJM)
 
-du 11.06.2009 (état au 01.07.2021)
+du 11.06.2009 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -130,7 +130,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Sauf dispositions contraires de la présente loi, la législation sur le pilotage des finances et des prestations s’applique par analogie.
+<sup>1</sup> Sauf dispositions contraires de la présente loi, la législation sur les finances s’applique par analogie.
 
 <sup>2</sup> Les principes de l’accent mis sur les effets et de l’accent mis sur les rentrées financières ne sont pas applicables.
 
@@ -228,11 +228,13 @@ arrête:
 - a Elle est l'interlocutrice du Grand Conseil et du Conseil-exécutif pour toutes les questions ayant trait à la fois aux autorités judiciaires et au Ministère public.
 - b Elle établit le budget, le plan intégré «mission-financement» et le rapport de gestion des autorités judiciaires et du Ministère public.
 - c Elle prend position sur les réglementations du Conseil-exécutif qui concernent les autorités judiciaires ou le Ministère public.
-- d Elle règle les compétences en matière d'autorisation de dépenses des autorités judiciaires et du Ministère public dans le cadre des prescriptions de la législation sur le pilotage des finances et des prestations.
+- d Elle règle les compétences en matière d'autorisation de dépenses des autorités judiciaires et du Ministère public dans le cadre des prescriptions de la législation sur les finances.
 - e Elle soumet chaque année un rapport d'activité au Grand Conseil.
 - f Elle défend devant le Grand Conseil le budget, le plan intégré «mission-financement», le rapport de gestion ainsi que le rapport d'activité, et désigne à cette fin un représentant ou une représentante
-- g Elle accomplit, dans les domaines des autorités judiciaires et du Ministère public, les tâches administratives que la législation sur le pilotage des finances et des prestations attribue au Conseil-exécutif pour le domaine de l'administration cantonale, sauf dispositions contraires de la présente loi.
-- h Elle peut, avec l'accord de la Commission de justice du Grand Conseil, autoriser des écarts soumis à crédit supplémentaire par rapport aux soldes arrêtés dans le budget si ces écarts ne dépassent pas un million de francs par groupe de produits.
+- g Elle accomplit, dans les domaines des autorités judiciaires et du Ministère public, les tâches administratives que la législation sur les finances attribue au Conseil-exécutif pour le domaine de l'administration cantonale, sauf dispositions contraires de la présente loi.
+- h Elle peut, avec l'accord de la Commission de justice du Grand Conseil, autoriser des écarts soumis à crédit supplémentaire par rapport aux soldes arrêtés dans le budget
+  - 1\. si ces écarts ne dépassent pas un million de francs par groupe de produits ou
+  - 2\. si l'organe compétent ne dispose d'aucune liberté d'action.
 - i Elle peut, avec l'accord de la Commission de justice du Grand Conseil, contracter avant l'autorisation du crédit supplémentaire des engagements qu'il est impossible de différer sans que cela n'entraîne pour le canton des conséquences particulièrement préjudiciables.
 - k Elle est responsable d'édicter, dans le cadre des dispositions légales, des directives stratégiques applicables au personnel, aux finances et à la comptabilité ainsi qu'à la gestion de l'informatique, et garantit un controlling en la matière. Elle peut donner des instructions à cet égard aux autorités judiciaires et au Ministère public, et édicter les règlements nécessaires.
 - l Elle coordonne, en collaboration avec les services compétents de la Direction de la sécurité ainsi que de la Direction des travaux publics et des transports, l'édiction de directives stratégiques dans le domaine de la sécurité

@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft
 short: GSOG
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-09
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-06-15
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2215/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2721/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2215/pdf_file"
 
 (GSOG)
 
-vom 11.06.2009 (Stand 01.07.2021)
+vom 11.06.2009 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -130,7 +130,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, gilt die Gesetzgebung über die Steuerung von Finanzen und Leistungen sinngemäss.
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, gilt die Finanzhaushaltsgesetzgebung sinngemäss.
 
 <sup>2</sup> Die Grundsätze der Wirkungsorientierung und der Erlösorientierung sind nicht anwendbar.
 
@@ -228,11 +228,13 @@ beschliesst:
 - a Sie ist Ansprechpartnerin des Grossen Rates und des Regierungsrates bei allen Fragen, die sowohl die Gerichtsbehörden als auch die Staatsanwaltschaft betreffen.
 - b Sie erstellt den Voranschlag, den Aufgaben- und Finanzplan und den Geschäftsbericht der Gerichtsbehörden und der Staatsanwaltschaft.
 - c Sie nimmt Stellung zu Regelungen des Regierungsrates, welche die Gerichtsbehörden oder die Staatsanwaltschaft betreffen.
-- d Sie regelt die Ausgabenbefugnisse der Gerichtsbehörden und der Staatsanwaltschaft im Rahmen der Vorschriften der Gesetzgebung über die Steuerung von Finanzen und Leistungen.
+- d Sie regelt die Ausgabenbefugnisse der Gerichtsbehörden und der Staatsanwaltschaft im Rahmen der Vorschriften der Finanzhaushaltsgesetzgebung.
 - e Sie unterbreitet dem Grossen Rat jährlich einen Tätigkeitsbericht.
 - f Sie vertritt im Grossen Rat den Voranschlag, den Aufgaben- und Finanzplan, den Geschäftsbericht und den Tätigkeitsbericht und bezeichnet zu diesem Zweck eine Vertreterin oder einen Vertreter.
-- g Sie nimmt die Verwaltungsaufgaben, welche die Gesetzgebung über die Steuerung von Finanzen und Leistungen dem Regierungsrat für den Bereich der kantonalen Verwaltung einräumt, für die Bereiche der Gerichtsbarkeit und der Staatsanwaltschaft wahr, soweit dieses Gesetz nichts anderes bestimmt.
-- h Sie kann mit Zustimmung der Justizkommission des Grossen Rates nachkreditpflichtige Abweichungen der im Voranschlag beschlossenen Saldi bewilligen, wenn diese eine Million Franken pro Produktgruppe nicht übersteigen.
+- g Sie nimmt die Verwaltungsaufgaben, welche die Finanzhaushaltsgesetzgebung dem Regierungsrat für den Bereich der kantonalen Verwaltung einräumt, für die Bereiche der Gerichtsbarkeit und der Staatsanwaltschaft wahr, soweit dieses Gesetz nichts anderes bestimmt.
+- h Sie kann mit Zustimmung der Justizkommission des Grossen Rates nachkreditpflichtige Abweichungen der im Voranschlag beschlossenen Saldi bewilligen,
+  - 1\. wenn diese eine Million Franken pro Produktgruppe nicht übersteigen,
+  - 2\. oder wenn kein Entscheidspielraum besteht.
 - i Sie kann mit Zustimmung der Justizkommission des Grossen Rates bereits vor der Bewilligung eines Nachkredits Verpflichtungen eingehen, wenn ein Aufschub für den Kanton erhebliche nachteilige Folgen hätte.
 - k Sie ist im Rahmen der gesetzlichen Vorgaben verantwortlich für die strategischen Leitlinien in den Bereichen Personal-, Finanz- und Rechnungswesen sowie Informatikmanagement und führt darüber ein Controlling. Sie kann den Gerichtsbehörden und der Staatsanwaltschaft entsprechende Weisungen erteilen sowie die notwendigen Reglemente erlassen.
 - l Sie koordiniert in Zusammenarbeit mit den zuständigen Stellen der Sicherheitsdirektion und der Bau- und Verkehrsdirektion den Erlass von strategischen Leitlinien auf dem Gebiet der Sicherheit.
