@@ -4,13 +4,12 @@ number: II A/6/1
 title: Gesetz über das Personalwesen
 short: "Personalgesetz, PG"
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-01
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2002-05-05
 in_force: 2002-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.6.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2310/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2310/pdf_file"
 
 (Personalgesetz, PG)
 
-Vom 05.05.2002 (Stand 01.07.2022)
+Vom 05.05.2002 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 5. Mai 2002)
 
@@ -117,7 +116,7 @@ Vom 05.05.2002 (Stand 01.07.2022)
 
 **Anstellungsinstanzen**
 
-<sup>1</sup> Der Landrat wählt die Staatsanwälte oder Staatsanwältinnen und die Jugendanwälte oder Jugendanwältinnen sowie den Leiter oder die Leiterin Finanzkontrolle. Er bezeichnet den Ersten Staatsanwalt oder die Erste Staatsanwältin.
+<sup>1</sup> Der Landrat wählt die Staatsanwälte oder Staatsanwältinnen und die Jugendanwälte oder Jugendanwältinnen, den Leiter oder die Leiterin der Fachstelle Datenschutz sowie den Leiter oder die Leiterin Finanzkontrolle. Er bezeichnet den Ersten Staatsanwalt oder die Erste Staatsanwältin.
 
 <sup>2</sup> Die Verwaltungskommission der Gerichte wählt nach Massgabe des Gerichtsorganisationsgesetzes die Angestellten der Gerichtsverwaltung.
 
@@ -163,7 +162,7 @@ Vom 05.05.2002 (Stand 01.07.2022)
 
 <sup>1</sup> Die Anstellung erfolgt unter dem Vorbehalt einer abweichenden Regelung unbefristet.
 
-<sup>2</sup> Die Staatsanwälte oder Staatsanwältinnen, die Jugendanwälte oder Jugendanwältinnen sowie der Leiter oder die Leiterin der Finanzkontrolle werden auf die Amtsdauer angestellt.
+<sup>2</sup> Die Staatsanwälte oder Staatsanwältinnen, die Jugendanwälte oder Jugendanwältinnen, der Leiter oder die Leiterin der Fachstelle Datenschutz sowie der Leiter oder die Leiterin der Finanzkontrolle werden auf die Amtsdauer angestellt.
 
 ## 3. Rechte des Personals
 
@@ -293,13 +292,15 @@ Vom 05.05.2002 (Stand 01.07.2022)
 
 **Geheimhaltungspflicht**
 
-<sup>1</sup> Die Angestellten sind zur Verschwiegenheit über dienstliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheim zu halten sind.
+<sup>1</sup> Die Angestellten sind zur Verschwiegenheit über dienstliche Angelegenheiten verpflichtet, soweit an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse gemäss Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^26-1] besteht oder wenn eine besondere gesetzliche Bestimmung dies vorsieht.
 
 <sup>2</sup> Die Geheimhaltungspflicht gilt auch nach Beendigung des Arbeitsverhältnisses.
 
 <sup>3</sup> Der Regierungsrat regelt die Entbindung von der Geheimhaltungspflicht im Rahmen der Mitwirkung von Angestellten in zivil-, straf- und verwaltungsrechtlichen Verfahren und für die Information der Öffentlichkeit.
 
 <sup>4</sup> Von der Geheimhaltungspflicht ausgenommen sind Meldungen an die Anlauf- und Meldestelle nach Artikel 5a sowie spezialgesetzliche Anzeige- und Meldepflichten.
+
+[^26-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 27
 
@@ -328,7 +329,8 @@ Vom 05.05.2002 (Stand 01.07.2022)
 - g. die ordentlichen Staats- und Jugendanwältinnen und -anwälte;
 - h. die ordentlichen Gerichtsschreiberinnen und -schreiber;
 - i. die ständigen Mitglieder der Kindes- und Erwachsenenschutzbehörde;
-- j. der Präsident bzw. die Präsidentin sowie der Vizepräsident bzw. die Vizepräsidentin der Schlichtungsbehörde.
+- j. der Präsident bzw. die Präsidentin sowie der Vizepräsident bzw. die Vizepräsidentin der Schlichtungsbehörde;
+- k. der Leiter oder die Leiterin der Fachstelle Datenschutz.
 
 #### Art. 29
 
