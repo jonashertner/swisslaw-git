@@ -4,11 +4,11 @@ title: "Ordonnance du 29 mars 2017 sur les structures de l'armée (OStrA)"
 short: OStrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-218-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-218-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/fr"
 
 (OStrA)
 
-du 29 mars 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 29 mars 2017 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -82,7 +82,11 @@ Les Grandes Unités de l’armée sont les suivantes:
 - e. les brigades mécanisées;
 - f. la brigade logistique;
 - g. la brigade d’aide au commandement;
-- h. la brigade d’instruction et d’entraînement des Forces aériennes.
+- h.[^4-1] la brigade d’aviation;
+- i.[^4-2] la brigade de défense sol-air.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^4-2]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 #### Art. 5
 
@@ -93,8 +97,12 @@ Les formations professionnelles de l’armée sont les suivantes:
 - a. le commandement d’engagement de la police militaire;
 - b. le commandement d’engagement de la police militaire - service de sécurité;
 - c. le détachement spécial de la police militaire;
-- d. le détachement d’engagement d’élimination des munitions non explosées et du déminage;
-- e. le détachement de reconnaissance de l’armée.
+- d.[^5-1] le commandement du déminage et de l’élimination des munitions non explosées;
+- e. le détachement de reconnaissance de l’armée;
+- f.[^5-2] le Service de protection préventive de l’armée.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^5-2]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 #### Art. 6
 
@@ -119,15 +127,9 @@ Ne sont pas incorporés dans une formation:
 
 #### Art. 7
 
-**Dispositions transitoires**
+[^7-1]
 
-Pendant au plus la période transitoire fixée à l’art. 6, let. c, OOrgA:
-
-- a. en dérogation à l’art. 2, let. b, ch. 2, OOrgA, le commandement des Forces spéciales est subordonné directement au commandement des Opérations;
-- b. en dérogation à l’art. 2, let. b, ch. 5, OOrgA, aucun commandement de l’Engagement des Forces aériennes n’est créé;
-- c. en dérogation à l’art. 2, let. c, OOrgA, aucun commandement du Soutien n’est créé;
-- d. en dérogation à l’art. 2, let. d, ch. 2, OOrgA, la Formation d’application de défense contre avions est subordonnée directement aux Forces aériennes;
-- e. en dérogation à l’art. 2, let. d, ch. 2, OOrgA, six formations d’application sont créées.
+[^7-1]: Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 #### Art. 8
 
@@ -141,13 +143,13 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1)
 
 ## Structures de l’armée
 
-[^t-1]: Mise à jour par le ch. II de l’O du 20 nov. 2019 ([RO 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)) et le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)).
+[^t-1]: Mise à jour par le ch. II de l’O du 20 nov. 2019 ([RO 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), le ch. I de l’O du 24 nov. 2021 ([RO 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)) et le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 <table>
 <tr><th>1<sup>er</sup> échelon de l’articulation</th><th>2<sup>e</sup> échelon de l’articulation</th><th>3<sup>e</sup> échelon de l’articulation</th><th>Échelon de la structure</th></tr>
@@ -156,6 +158,7 @@ Annexe 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Instruction opérative</td></tr>
 <tr><td>Commandement des Opérations</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Renseignement militaire</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Service de protection préventive de l’armée</td></tr>
 <tr><td></td><td>Forces terrestres</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Centre de compétences des systèmes techniques et de conduite</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’état-major des Forces terrestres 20</td></tr>
@@ -231,26 +234,23 @@ Annexe 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Bataillon de police militaire 3</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de police militaire 4</td></tr>
 <tr><td></td><td>Forces aériennes</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Centrale des opérations des Forces aériennes, y compris: Escadre de transport aérien 4</td></tr>
+<tr><td></td><td></td><td></td><td>Centrale des opérations des Forces aériennes, y compris: escadre de transport aérien 4</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de la base aérienne 2, y compris: – escadre de transport aérien 2 – groupe de transport aérien 2 – escadre de transport aérien 3 – groupe de transport aérien 3</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de la base aérienne 4</td></tr>
-<tr><td></td><td></td><td></td><td>Commandement de la base aérienne 7</td></tr>
+<tr><td></td><td></td><td></td><td>Commandement de la base aérienne 7, y compris: commandement de drones 84</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de la base aérienne 11, y compris: – escadre d’aviation 11 – groupe d’aérodrome 11 – escadre d’aviation 14 – groupe d’aérodrome 14 – escadre de transport aérien 1 – groupe de transport aérien 1</td></tr>
 <tr><td></td><td></td><td></td><td>Commandement de la base aérienne 13, y compris: – escadre d’aviation 13 – groupe d’aérodrome 13</td></tr>
-<tr><td></td><td></td><td>Brigade d’instruction et d’entraînement des Forces aériennes</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Commandement de drones 84</td></tr>
+<tr><td></td><td></td><td>Brigade d’aviation 31</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Groupe radar mobile des Forces aériennes 2</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de renseignement des Forces aériennes 1</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de renseignement des Forces aériennes 2</td></tr>
-<tr><td></td><td></td><td>Formation d’application de la défense contre avions 33</td><td></td></tr>
+<tr><td></td><td></td><td>Brigade de défense sol-air 33</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de défense contre avions moyenne 32</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de défense contre avions moyenne 34</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe de défense contre avions moyenne 45</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe d’engins guidés légers de défense contre avions 1</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe d’engins guidés légers de défense contre avions 5</td></tr>
 <tr><td></td><td></td><td></td><td>Groupe d’engins guidés légers de défense contre avions 7</td></tr>
-<tr><td></td><td></td><td></td><td>Groupe mobile d’engins guidés de défense contre avions 4</td></tr>
-<tr><td></td><td></td><td></td><td>Groupe mobile d’engins guidés de défense contre avions 11</td></tr>
 <tr><td></td><td>Centre de compétences SWISSINT</td><td></td><td></td></tr>
 <tr><td></td><td>Commandement des Forces spéciales</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’état-major du commandement des Forces spéciales</td></tr>
@@ -278,8 +278,8 @@ Annexe 1*[^t-1]*
 <tr><td></td><td>État-major des Affaires sanitaires</td><td></td><td></td></tr>
 <tr><td>Base d’aide au commandement</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Brigade d’aide au commandement 41</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Commandement Systèmes/Instruction des cadres/Support</td></tr>
-<tr><td></td><td></td><td></td><td>Bataillon d’aide au commandement 41</td></tr>
+<tr><td></td><td></td><td></td><td>Commandement d’aide au commandement système/instruction/support</td></tr>
+<tr><td></td><td></td><td></td><td>Brigade d’aide au commandement Bataillon d’état-major 41</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de quartier général 11</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de quartier général 22</td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon de quartier général 25</td></tr>
@@ -306,9 +306,9 @@ Annexe 1*[^t-1]*
 <tr><td></td><td>Formation d’application des blindés et de l’artillerie</td><td></td><td></td></tr>
 <tr><td></td><td>Formation d’application du génie/du sauvetage/NBC</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Bataillon d’intervention d’aide en cas de catastrophe 104 (204)</td></tr>
-<tr><td></td><td></td><td></td><td>Centre de compétences NBC/DEMUNEX, y compris: – laboratoire de défense NBC 1 – bataillon de défense NBC 10</td></tr>
+<tr><td></td><td></td><td></td><td>Centre de compétences NBC/DEMUNEX, y compris: – commandement DEMUNEX – bataillon de défense NBC 10 – bataillon de défense NBC 20</td></tr>
 <tr><td></td><td></td><td></td><td>Centre de compétences du sport de l’armée</td></tr>
-<tr><td></td><td>Formation d’application de la défense contre avions et de l’aide au commandement</td><td></td><td></td></tr>
+<tr><td></td><td>Formation d’application d’aide au commandement</td><td></td><td></td></tr>
 <tr><td></td><td>Formation d’application de la logistique</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Centre de compétences du service vétérinaire et des animaux de l’armée, y compris groupe vétérinaire et animaux de l’armée 13</td></tr>
 <tr><td></td><td>Personnel de l’armée</td><td></td><td></td></tr>
@@ -332,7 +332,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex2-lvlu1-3]
+…[^annex2-lvlu1-3]
 
 [^annex2-lvlu1-1]: [[RO 2003 4731](https://fedlex.data.admin.ch/eli/oc/2003/685), [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775), [2005 5253](https://fedlex.data.admin.ch/eli/oc/2005/727), [2007 79](https://fedlex.data.admin.ch/eli/oc/2007/19)[5253](https://fedlex.data.admin.ch/eli/oc/2007/744), [2008 6449](https://fedlex.data.admin.ch/eli/oc/2008/873), [2009 6499](https://fedlex.data.admin.ch/eli/oc/2009/794), [2010 6101](https://fedlex.data.admin.ch/eli/oc/2010/872), [2011 6195](https://fedlex.data.admin.ch/eli/oc/2011/866), [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383)ch. III [6985](https://fedlex.data.admin.ch/eli/oc/2012/853), [2013 4465](https://fedlex.data.admin.ch/eli/oc/2013/788)]
 [^annex2-lvlu1-2]: [[RO 1995 3514](https://fedlex.data.admin.ch/eli/oc/1995/3514_3514_3514), [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)annexe 36 ch. 6]

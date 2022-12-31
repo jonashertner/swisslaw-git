@@ -4,11 +4,11 @@ title: Verordnung vom 29. März 2017 über die Strukturen der Armee (VSA)
 short: VSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/218"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/218/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-218-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/218/20220101/de"
 
 (VSA)
 
-vom 29. März 2017 (Stand am 1. Januar 2022)
+vom 29. März 2017 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -82,7 +82,11 @@ Grosse Verbände sind:
 - e. die Mechanisierten Brigaden;
 - f. die Logistikbrigade;
 - g. die Führungsunterstützungsbrigade;
-- h. die Luftwaffenausbildungs- und -trainingsbrigade.
+- h.[^4-1] die Fliegerbrigade;
+- i.[^4-2] die Bodluv-Brigade.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 #### Art. 5
 
@@ -93,8 +97,12 @@ Berufsformationen der Armee sind:
 - a. das Einsatzkommando Militärpolizei;
 - b. das Einsatzkommando Militärpolizei Sicherheitsdienst;
 - c. das Militärpolizeispezialdetachement;
-- d. das Kampfmittelbeseitigungs- und Minenräumungseinsatzdetachement;
-- e. das Armeeaufklärungsdetachement.
+- d.[^5-1] das Kommando Kampfmittelbeseitigung und Minenräumung;
+- e. das Armeeaufklärungsdetachement;
+- f.[^5-2] der Dienst für präventiven Schutz der Armee.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
+[^5-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 #### Art. 6
 
@@ -119,15 +127,9 @@ Folgende Angehörige der Armee werden nicht in eine Formation eingeteilt:
 
 #### Art. 7
 
-**Übergangsbestimmungen**
+[^7-1]
 
-Während längstens der Übergangsfrist nach Artikel 6 Buchstabe c AO:
-
-- a. wird abweichend von Artikel 2 Buchstabe b Ziffer 2 AO das Kommando Spezialkräfte direkt dem Kommando Operationen unterstellt;
-- b. wird abweichend von Artikel 2 Buchstabe b Ziffer 5 AO kein Kommando Einsatz Luftwaffe gebildet;
-- c. wird abweichend von Artikel 2 Buchstabe c AO kein Unterstützungskommando gebildet;
-- d. wird abweichend von Artikel 2 Buchstabe d Ziffer 2 AO der Lehrverband Fliegerabwehr direkt der Luftwaffe unterstellt;
-- e. werden abweichend von Artikel 2 Buchstabe d Ziffer 2 AO sechs Lehrverbände gebildet.
+[^7-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 #### Art. 8
 
@@ -141,13 +143,13 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1)
 
 ## Strukturen der Armee
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)) und Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 20. Nov. 2019 ([AS 2019 4319](https://fedlex.data.admin.ch/eli/oc/2019/749)), Ziff. I der V vom 24. Nov. 2021 ([AS 2021 856](https://fedlex.data.admin.ch/eli/oc/2021/856)) und Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 826](https://fedlex.data.admin.ch/eli/oc/2022/826)).
 
 <table>
 <tr><th>1. Gliederungsebene</th><th>2. Gliederungsebene</th><th>3. Gliederungsebene</th><th>Strukturebene</th></tr>
@@ -156,6 +158,7 @@ Anhang 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Operative Schulung</td></tr>
 <tr><td>Kommando Operationen</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Militärischer Nachrichtendienst</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Dienst für präventiven Schutz der Armee</td></tr>
 <tr><td></td><td>Heer</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Führungs- und Fachsysteme</td></tr>
 <tr><td></td><td></td><td></td><td>Heeresstabsbataillon 20</td></tr>
@@ -234,23 +237,20 @@ Anhang 1*[^t-1]*
 <tr><td></td><td></td><td></td><td>Operationszentrale Luftwaffe, einschliesslich Lufttransportgeschwader 4</td></tr>
 <tr><td></td><td></td><td></td><td>Flugplatzkommando 2, einschliesslich – Lufttransportgeschwader 2 – Lufttransportabteilung 2 – Lufttransportgeschwader 3 – Lufttransportabteilung 3</td></tr>
 <tr><td></td><td></td><td></td><td>Flugplatzkommando 4</td></tr>
-<tr><td></td><td></td><td></td><td>Flugplatzkommando 7</td></tr>
+<tr><td></td><td></td><td></td><td>Flugplatzkommando 7, einschliesslich Drohnenkommando 84</td></tr>
 <tr><td></td><td></td><td></td><td>Flugplatzkommando 11, einschliesslich – Fliegergeschwader 11 – Flugplatzabteilung 11 – Fliegergeschwader 14 – Flugplatzabteilung 14 – Lufttransportgeschwader 1 – Lufttransportabteilung 1</td></tr>
 <tr><td></td><td></td><td></td><td>Flugplatzkommando 13, einschliesslich: – Fliegergeschwader 13 – Flugplatzabteilung 13</td></tr>
-<tr><td></td><td></td><td>Luftwaffenausbildungs- und -trainingsbrigade</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Drohnenkommando 84</td></tr>
+<tr><td></td><td></td><td>Fliegerbrigade 31</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Mobile Luftwaffenradarabteilung 2</td></tr>
 <tr><td></td><td></td><td></td><td>Luftwaffennachrichtenabteilung 1</td></tr>
 <tr><td></td><td></td><td></td><td>Luftwaffennachrichtenabteilung 2</td></tr>
-<tr><td></td><td></td><td>Lehrverband Fliegerabwehr 33</td><td></td></tr>
+<tr><td></td><td></td><td>Bodluv-Brigade 33</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Mittlere Fliegerabwehrabteilung 32</td></tr>
 <tr><td></td><td></td><td></td><td>Mittlere Fliegerabwehrabteilung 34</td></tr>
 <tr><td></td><td></td><td></td><td>Mittlere Fliegerabwehrabteilung 45</td></tr>
 <tr><td></td><td></td><td></td><td>Leichte Fliegerabwehrlenkwaffenabteilung 1</td></tr>
 <tr><td></td><td></td><td></td><td>Leichte Fliegerabwehrlenkwaffenabteilung 5</td></tr>
 <tr><td></td><td></td><td></td><td>Leichte Fliegerabwehrlenkwaffenabteilung 7</td></tr>
-<tr><td></td><td></td><td></td><td>Mobile Fliegerabwehrlenkwaffenabteilung 4</td></tr>
-<tr><td></td><td></td><td></td><td>Mobile Fliegerabwehrlenkwaffenabteilung 11</td></tr>
 <tr><td></td><td>Kompetenzzentrum SWISSINT</td><td></td><td></td></tr>
 <tr><td></td><td>Kommando Spezialkräfte</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kommando Spezialkräfte Stabsbataillon</td></tr>
@@ -277,8 +277,8 @@ Anhang 1*[^t-1]*
 <tr><td></td><td>Stab Sanität</td><td></td><td></td></tr>
 <tr><td>Führungsunterstützungsbasis</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>Führungsunterstützungsbrigade 41</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Kommando Systeme/Kaderausbildung/ Support</td></tr>
-<tr><td></td><td></td><td></td><td>Führungsunterstützungsbataillon 41</td></tr>
+<tr><td></td><td></td><td></td><td>Kommando Führungsunterstützung Systeme/Kurse/Support</td></tr>
+<tr><td></td><td></td><td></td><td>Führungsunterstützungsbrigade Stabsbataillon 41</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 11</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 22</td></tr>
 <tr><td></td><td></td><td></td><td>HQ Bataillon 25</td></tr>
@@ -305,9 +305,9 @@ Anhang 1*[^t-1]*
 <tr><td></td><td>Lehrverband Panzer/Artillerie</td><td></td><td></td></tr>
 <tr><td></td><td>Lehrverband Genie/Rettung/ABC</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Katastrophenhilfebereitschaftsbataillon 104 (204)</td></tr>
-<tr><td></td><td></td><td></td><td>Kompetenzzentrum ABC/KAMIR, einschliesslich: – ABC Abwehrlabor 1 – ABC Abwehrbataillon 10</td></tr>
+<tr><td></td><td></td><td></td><td>Kompetenzzentrum ABC/KAMIR, einschliesslich: – Kommando KAMIR – ABC Abwehrbataillon 10 – ABC Abwehrbataillon 20</td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Sport der Armee</td></tr>
-<tr><td></td><td>Lehrverband Fliegerabwehr/Führungsunterstützung</td><td></td><td></td></tr>
+<tr><td></td><td>Lehrverband Führungsunterstützung</td><td></td><td></td></tr>
 <tr><td></td><td>Lehrverband Logistik</td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Kompetenzzentrum Veterinärdienst und Armeetiere, einschliesslich Veterinär- und Armeetiereabteilung 13</td></tr>
 <tr><td></td><td>Personelles der Armee</td><td></td><td></td></tr>
@@ -333,6 +333,6 @@ Die nachstehenden Erlasse werden wie folgt geändert:
 
 …[^annex2-lvlu1-3]
 
-[^annex2-lvlu1-1]: [[AS 2003 4731](https://fedlex.data.admin.ch/eli/oc/2003/685), [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775), [2005 5253](https://fedlex.data.admin.ch/eli/oc/2005/727), [2007 79](https://fedlex.data.admin.ch/eli/oc/2007/19)[5253](https://fedlex.data.admin.ch/eli/oc/2007/744), [2008 6449](https://fedlex.data.admin.ch/eli/oc/2008/873), [2009 6499](https://fedlex.data.admin.ch/eli/oc/2009/794), [2010 6101](https://fedlex.data.admin.ch/eli/oc/2010/872), [2011 6195](https://fedlex.data.admin.ch/eli/oc/2011/866), [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383)Ziff. III [6985](https://fedlex.data.admin.ch/eli/oc/2012/853), [2013 4465](https://fedlex.data.admin.ch/eli/oc/2013/788)]
-[^annex2-lvlu1-2]: [[AS 1995 3514](https://fedlex.data.admin.ch/eli/oc/1995/3514_3514_3514), [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 6]
+[^annex2-lvlu1-1]: [[AS 2003 4731](https://fedlex.data.admin.ch/eli/oc/2003/685); [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775); [2005 5253](https://fedlex.data.admin.ch/eli/oc/2005/727); [2007 79](https://fedlex.data.admin.ch/eli/oc/2007/19), [5253](https://fedlex.data.admin.ch/eli/oc/2007/744); [2008 6449](https://fedlex.data.admin.ch/eli/oc/2008/873); [2009 6499](https://fedlex.data.admin.ch/eli/oc/2009/794); [2010 6101](https://fedlex.data.admin.ch/eli/oc/2010/872); [2011 6195](https://fedlex.data.admin.ch/eli/oc/2011/866); [2012 3415](https://fedlex.data.admin.ch/eli/oc/2012/383)Ziff. III, [6985](https://fedlex.data.admin.ch/eli/oc/2012/853); [2013 4465](https://fedlex.data.admin.ch/eli/oc/2013/788)]
+[^annex2-lvlu1-2]: [[AS 1995 3514](https://fedlex.data.admin.ch/eli/oc/1995/3514_3514_3514); [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 6]
 [^annex2-lvlu1-3]: Die Änderungen können unter [AS 2017 2307](https://fedlex.data.admin.ch/eli/oc/2017/218)konsultiert werden.
