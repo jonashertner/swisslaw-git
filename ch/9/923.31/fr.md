@@ -3,22 +3,22 @@ sr: "923.31"
 title: Ordonnance du DETEC du 9 octobre 1997 sur la pêche dans le lac Supérieur de Constance
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DETEC sur la pêche dans le lac Supérieur de Constance****
+# Ordonnance du DETEC sur la pêche dans le lac Supérieur de Constance
 
-du 9 octobre 1997 (Etat le 1<sup>er</sup> janvier 2022)[^t-1]
+du 9 octobre 1997 (État le 1<sup>er</sup> janvier 2023)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 24 oct. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
-Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC)*[^ingress-1]*,
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC)[^ingress-1],
 
 vu l’art. 14, al. 3, de l’ordonnance du 24 novembre 1993[^ingress-2] relative à la loi fédérale sur la pêche,
 
@@ -77,28 +77,29 @@ Est considéré au sens de la présente ordonnance comme:
 
 <sup>1</sup> Est autorisé à exercer la pêche professionnelle celui qui est titulaire d’un permis de pêcheur en formation délivré par l’autorité compétente. La personne en question n’est habilitée à pêcher qu’en présence du détenteur d’un permis de pêche en pleine eau.
 
-<sup>2</sup> Le permis de pêcheur en formation autorise son détenteur à pêcher en pleine eau à l’aide de deux filets flottants au plus, dont les mailles peuvent avoir la plus petite dimension admissible, ainsi que dans la zone du littoral suisse.
+<sup>2</sup> Le permis de pêcheur en formation autorise son titulaire à exercer la pêche dans le lac de Constance dans la même zone que le permis de pêche en pleine eau.[^2c-3]
 
-<sup>3</sup> Il est délivré pour toute la durée de la formation.[^2c-3]
+<sup>3</sup> Il est délivré pour toute la durée de la formation.[^2c-4]
 
-<sup>4</sup> Le permis de perfectionnement autorise son titulaire à exercer la pêche dans le lac de Constance dans la même zone que le permis de pêche en pleine eau. Le titulaire ne peut être remplacé.[^2c-4]
+<sup>4</sup> Le permis de perfectionnement autorise son titulaire à exercer la pêche dans le lac de Constance dans la même zone que le permis de pêche en pleine eau. Le titulaire ne peut être remplacé.[^2c-5]
 
 <sup>5</sup>
 
 Le permis de perfectionnement peut être délivré, pour toute la durée de la formation:
 
 - a. aux pisciculteurs justifiant d’une expérience professionnelle de deux ans et inscrits au perfectionnement de maître-pisciculteur;
-- b. aux personnes remplissant les conditions d’admission à l’examen de maître-pisciculteur et inscrites au perfectionnement de maître-pisciculteur.[^2c-5]
+- b. aux personnes remplissant les conditions d’admission à l’examen de maître-pisciculteur et inscrites au perfectionnement de maître-pisciculteur.[^2c-6]
 
 [^2c-1]: Introduit par le ch. I de l’O du DETEC du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 [^2c-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-4]: Introduit par le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-3]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^2c-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-5]: Introduit par le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Introduit par le ch. I de l’O du DETEC du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 2d
 
-**Pêche professio&lt;nnelle: nombre de permis de pêche délivrés et conditions d’octroi**[^2d-1]
+**Pêche professionnelle: nombre de permis de pêche délivrés et conditions d’octroi**[^2d-1]
 
 <sup>1</sup> Les cantons de Saint-Gall et de Thurgovie fixent d’un commun accord le nombre des permis de pêche en pleine eau et de permis de pêche destinés aux aînés qu’ils sont autorisés à délivrer en vertu des art. 2 et 2*b*. Le nombre des filets flottants ne doit pas dépasser 120 au total.
 
@@ -188,7 +189,7 @@ La pêche professionnelle ne peut être pratiquée qu’à l’aide des engins m
 
   - 1\. des coubles de filets flottant librement (art. 10),
   - 2\. des coubles de filets flottants et ancrés (art. 11),
-  - 3\. des coubles de filets à truites (art. 13),
+  - 3\. des coubles de filets à grandes mailles[^5-2] (art. 13),
   - 4\. des filets de fond (art. 14),
   - 5\. des nasses (art. 16),
   - 6\. des fils dormants (art. 17),
@@ -199,6 +200,7 @@ La pêche professionnelle ne peut être pratiquée qu’à l’aide des engins m
 <sup>3</sup> Les cantons de Saint-Gall et de Thurgovie sont autorisés à imposer aux détenteurs de permis de pêche qu’ils ont délivrés d’autres limitations concernant les engins, modes et périodes de pêche admis, si cela est utile à la protection des populations piscicoles de valeur riches en espèces.
 
 [^5-1]: Abrogé par le ch. I de l’O du DETEC du 28 nov. 2003, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^5-2]: Nouvelle expression selon le ch. I de l’O du DETEC du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 6
 
@@ -233,20 +235,23 @@ La pêche sportive ne peut être pratiquée qu’à l’aide des engins ci-aprè
 
 <sup>2</sup> La pose et le retrait des engins destinés à la pêche professionnelle (art. 5) ou à la pêche sportive (art. 6) sont autorisés d’une heure avant le lever du soleil à une heure après son coucher. Le lieu de référence pour les horaires de lever et de coucher du soleil est la station météorologique de Constance. L’indication de l’heure de lever du soleil le 1<sup>er</sup> septembre vaut pour la période allant du 1<sup>er</sup> septembre au jour du passage à l’heure d’hiver.[^8-1]
 
-<sup>3</sup> La pêche à l’anguille depuis la rive est autorisée jusqu’à 01.00 heure.
+<sup>3</sup> La pêche à l’anguille et au silure depuis la rive est autorisée jusqu’à 1 heure.[^8-2]
 
-<sup>4</sup> Tous les engins de pêche utilisés doivent être contrôlés et au besoin relevés au moins tous les deux jours, sous réserve des art. 16, al. 2, et 17, al. 2, ainsi que de dispositions plus sévères des cantons compétents.[^8-2]
+<sup>4</sup> Tous les engins de pêche utilisés doivent être contrôlés et au besoin relevés au moins tous les deux jours, sous réserve des art. 16, al. 2, et 17, al. 2, ainsi que de dispositions plus sévères des cantons compétents.[^8-3]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^8-2]: Introduit par le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^8-3]: Introduit par le ch. I de l’O du DETEC du 21 fév. 2017, en vigueur depuis le 15 mars 2017 ([RO 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 
 #### Art. 9
 
-**Appareils électroniques**[^9-1]
+**Sources lumineuses artificielles et appareils électroniques**[^9-1]
 
-Les appareils de radiogoniométrie et les autres appareils électroniques ne sont admis que pour retrouver des coubles de filets flottant librement. Les personnes qui désirent utiliser des appareils de radiogoniométrie sont tenues d’en indiquer le type et les fréquences d’émission aux organes de contrôle de la pêche compétents. Sont réservées les dispositions du droit des télécommunications.
+<sup>1</sup> Les sources lumineuses artificielles destinées à attirer les poissons sont interdites.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 6 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+<sup>2</sup> Les appareils de radiogoniométrie et les autres appareils électroniques ne sont admis que pour retrouver des coubles de filets flottant librement. Les personnes qui désirent utiliser des appareils de radiogoniométrie sont tenues d’en indiquer le type et les fréquences d’émission aux organes de contrôle de la pêche compétents. Sont réservées les dispositions du droit des télécommunications.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 
 ### Section 2 Dispositions spéciales relatives aux divers engins de pêche
 
@@ -313,7 +318,7 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets flot
 
 <sup>4</sup> Il est interdit de les relever le dimanche.[^11-5]
 
-<sup>5</sup> Elles doivent être ancrées aux deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets flottants ancrés ainsi que des coubles de filets tendus et des coubles de filets à truites.
+<sup>5</sup> Elles doivent être ancrées aux deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets flottants ancrés ainsi que des coubles de filets tendus et des coubles de filets à grandes mailles.
 
 <sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus cinq filets à la fois, qui seront réunis au plus en deux coubles. Chaque couble doit comporter au moins deux filets.[^11-6]
 
@@ -351,7 +356,7 @@ Les coubles de filets tendus:
 - a. ne doivent pas être relevées le dimanche et les jours fériés du 10 janvier à 12 heures au 31 mars à 12 heures;
 - b. peuvent uniquement être tendues du lundi au jeudi du 31 mars à 12 heures au 15 octobre à 12 heures; elles doivent être relevées au plus tard le vendredi à 12 heures.
 
-<sup>5</sup> La couble de filets tendus doit être ancrée à ses deux extrémités. Elle sera tendue de manière à ce que ses extrémités se trouvent sur le littoral. Un espace d’au moins 200 m la séparera des coubles de filets à truites et des coubles de filets flottants qui sont ancrées.
+<sup>5</sup> La couble de filets tendus doit être ancrée à ses deux extrémités. Elle sera tendue de manière à ce que ses extrémités se trouvent sur le littoral. Un espace d’au moins 200 m la séparera des coubles de filets à grandes mailles et des coubles de filets flottants qui sont ancrées.
 
 <sup>6</sup> Le détenteur d’un permis de pêche peut utiliser au plus trois filets à la fois, qui seront réunis en une couble.[^12-2]
 
@@ -360,7 +365,7 @@ Les coubles de filets tendus:
 
 #### Art. 13
 
-**Coubles de filets à truites**
+**Coubles de filets à grandes mailles**
 
 <sup>1</sup>
 
@@ -373,9 +378,9 @@ Les dimensions maximales et minimales suivantes sont applicables aux filets util
 
 <sup>2</sup> Les ralingues supérieures flottantes ne sont pas autorisées.[^13-1]
 
-<sup>3</sup> Les coubles de filets à truites peuvent être utilisées du 10 janvier à 12 heures au 15 juillet à 12 heures. Elles ne seront pas relevées le dimanche et les jours fériés.
+<sup>3</sup> Les coubles de filets à grandes mailles peuvent être utilisées du 10 janvier à 12 heures au 15 juillet à 12 heures. Elles ne seront pas relevées le dimanche et les jours fériés.
 
-<sup>4</sup> Elles doivent être ancrées à leurs deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets à truites, des coubles de filets tendus et des coubles de filets flottants qui sont ancrées.
+<sup>4</sup> Elles doivent être ancrées à leurs deux extrémités; un espace d’au moins 200 m les séparera des autres coubles de filets à grandes mailles, des coubles de filets tendus et des coubles de filets flottants qui sont ancrées.
 
 <sup>5</sup> Le détenteur d’un permis de pêche peut utiliser au plus trois filets à la fois, qui seront réunis en une couble.
 
@@ -632,7 +637,7 @@ Pour éviter les captures accessoires considérables, les cantons de Saint-Gall 
 
 <sup>5</sup> Les grémilles capturées doivent être ramenées à terre.[^27-7]
 
-<sup>6</sup> Les truites matures et le frai recueilli sur les corégones (*Coregonus war**t**manni* et *Coregonus macrophthalmus*) capturés pendant la période de protection doivent être remis au service compétent. Les poissons sont rendus aux pêcheurs après prélèvement du frai.[^27-8]
+<sup>6</sup> Les truites matures et le frai recueilli sur les corégones (*Coregonus wartmanni* et *Coregonus macrophthalmus*) capturés pendant la période de protection doivent être remis au service compétent. Les poissons sont rendus aux pêcheurs après prélèvement du frai.[^27-8]
 
 <sup>7</sup> Lorsqu’il pêche, le pêcheur doit avoir avec lui les moyens auxiliaires appropriés pour déterminer avec précision les longueurs minimales.
 
@@ -737,7 +742,7 @@ Les filets de fond d’une hauteur maximale de 2 m ayant une ouverture de maille
 
 La présente ordonnance entre en vigueur le 15 novembre 1997.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 ## Tableau de calcul de la hauteur du filet en fonction du nombre de mailles
 

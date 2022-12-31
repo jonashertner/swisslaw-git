@@ -3,22 +3,22 @@ sr: "923.31"
 title: Verordnung des UVEK vom 9. Oktober 1997 über die Fischerei im Bodensee-Obersee
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des UVEK über die Fischerei im Bodensee-Obersee****
+# Verordnung des UVEK über die Fischerei im Bodensee-Obersee
 
-vom 9. Oktober 1997 (Stand am 1. Januar 2022)[^t-1]
+vom 9. Oktober 1997 (Stand am 1. Januar 2023)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des UVEK vom 24. Okt. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
-Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)*[^ingress-1]*,
+Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)[^ingress-1],
 
 gestützt auf Artikel 14 Absatz 3 der Verordnung vom 24. November 1993[^ingress-2] zum Bundesgesetz über die Fischerei,
 
@@ -77,24 +77,25 @@ In dieser Verordnung gelten als:
 
 <sup>1</sup> Zur Ausübung der Berufsfischerei sind Personen berechtigt, die ein durch die zuständige Behörde ausgegebenes Ausbildungspatent besitzen. Sie dürfen nur tätig werden, wenn gleichzeitig der Inhaber oder die Inhaberin eines Hochseepatentes anwesend ist.
 
-<sup>2</sup> Das Ausbildungspatent berechtigt zur Befischung des Hohen Sees mit bis zu zwei Schwebnetzen, bei denen die jeweils kleinste zulässige Maschenweite verwendet werden darf, sowie zur Befischung der schweizerischen Halde.
+<sup>2</sup> Das Ausbildungspatent berechtigt zur Ausübung der Bodenseefischerei im Umfang eines Hochseepatents.[^2c-3]
 
-<sup>3</sup> Das Ausbildungspatent wird für die Dauer der Ausbildung ausgestellt.[^2c-3]
+<sup>3</sup> Das Ausbildungspatent wird für die Dauer der Ausbildung ausgestellt.[^2c-4]
 
-<sup>4</sup> Das Fortbildungspatent berechtigt zur Ausübung der Bodenseefischerei im Umfang eines Hochseepatents. Eine Stellvertretung ist nicht möglich.[^2c-4]
+<sup>4</sup> Das Fortbildungspatent berechtigt zur Ausübung der Bodenseefischerei im Umfang eines Hochseepatents. Eine Stellvertretung ist nicht möglich.[^2c-5]
 
 <sup>5</sup>
 
 Das Fortbildungspatent kann für die Dauer der Fortbildung erteilt werden:
 
 - a. Fischwirtinnen und Fischwirten, die nach mindestens zweijähriger Berufserfahrung zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind;
-- b. Personen, welche die Zulassungsvoraussetzungen zur Meisterprüfung Fischwirt erfüllen und zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind.[^2c-5]
+- b. Personen, welche die Zulassungsvoraussetzungen zur Meisterprüfung Fischwirt erfüllen und zur Fortbildung zum Fischwirtschaftsmeister angemeldet sind.[^2c-6]
 
 [^2c-1]: Eingefügt durch Ziff. I der V des UVEK vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 [^2c-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-3]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-4]: Eingefügt durch Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-3]: Fassung gemäss Ziff. I der V des UVEK vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^2c-4]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-5]: Eingefügt durch Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Eingefügt durch Ziff. I der V des UVEK vom 30. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 2d
 
@@ -188,7 +189,7 @@ Die Berufsfischerei darf nur mit den nachstehenden Fanggeräten ausgeübt werden
 
   - 1\. freitreibenden Schwebsätzen (Art. 10),
   - 2\. verankerten Schwebsätzen (Art. 11),
-  - 3\. Forellensatz (Art. 13),
+  - 3\. Grossfischsatz[^5-2] (Art. 13),
   - 4\. Bodennetzen (Art. 14),
   - 5\. Reusen (Art. 16),
   - 6\. Legschnüren (Art. 17),
@@ -199,6 +200,7 @@ Die Berufsfischerei darf nur mit den nachstehenden Fanggeräten ausgeübt werden
 <sup>3</sup> Die Kantone St. Gallen und Thurgau sind ermächtigt, den Personen, die ein von ihnen ausgestelltes Patent besitzen, hinsichtlich der zulässigen Fanggeräte, Fangarten und Fangzeiten durch Einzelverfügungen weitere Einschränkungen aufzuerlegen, wenn dies der Erhaltung eines wertvollen und artenreichen Fischbestandes dienlich ist.
 
 [^5-1]: Aufgehoben durch Ziff. I der V des UVEK vom 28. Nov. 2003, mit Wirkung seit 1. Jan. 2004 ([AS 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^5-2]: Ausdruck gemäss Ziff. I der V des UVEK vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 6
 
@@ -233,20 +235,23 @@ Die Angelfischerei darf nur mit den nachstehenden Fanggeräten ausgeübt werden:
 
 <sup>2</sup> Das Setzen und Heben der Fanggeräte für die Berufsfischerei (Art. 5) sowie die Ausübung der Fischerei mit Angelgeräten (Art. 6) sind von einer Stunde vor Sonnenaufgang bis eine Stunde nach Sonnenuntergang erlaubt. Bezugsort für die Sonnenaufgangs- und Sonnenuntergangszeiten ist die Wetterstation Konstanz. Vom 1. September bis zur Umstellung auf die Winterzeit gilt die Zeitangabe des Sonnenaufgangs vom 1. September.[^8-1]
 
-<sup>3</sup> Der Aalfang vom Ufer aus ist bis 01.00 Uhr gestattet.
+<sup>3</sup> Der Aal- und Welsfang vom Ufer aus ist bis 01.00 Uhr gestattet.[^8-2]
 
-<sup>4</sup> Alle ausgebrachten Fanggeräte sind mindestens jeden zweiten Tag zu kontrollieren und wenn nötig zu leeren; vorbehalten bleiben die Artikel 16 Absatz 2 und 17 Absatz 2 sowie strengere Regelungen der zuständigen Kantone.[^8-2]
+<sup>4</sup> Alle ausgebrachten Fanggeräte sind mindestens jeden zweiten Tag zu kontrollieren und wenn nötig zu leeren; vorbehalten bleiben die Artikel 16 Absatz 2 und 17 Absatz 2 sowie strengere Regelungen der zuständigen Kantone.[^8-3]
 
 [^8-1]: Fassung gemäss Ziff. I der V des UVEK vom 27. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^8-2]: Eingefügt durch Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^8-2]: Fassung gemäss Ziff. I der V des UVEK vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^8-3]: Eingefügt durch Ziff. I der V des UVEK vom 21. Febr. 2017, in Kraft seit 15. März 2017 ([AS 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 
 #### Art. 9
 
-**Elektronische Geräte**[^9-1]
+**Künstliche Lichtquellen und elektronische Geräte**[^9-1]
 
-Funkpeilgeräte und andere elektronische Geräte sind nur für das Auffinden freitreibender Schwebsätze zugelassen. Wer Funkpeilgeräte verwenden will, hat der zuständigen Fischereiaufsicht Angaben über die Geräte und deren Senderfrequenzen zu machen. Die fernmelderechtlichen Bestimmungen bleiben vorbehalten.
+<sup>1</sup> Bei der Fischerei sind künstliche Lichtquellen, die dem Anlocken von Fischen dienen, verboten.
 
-[^9-1]: Fassung gemäss Ziff. I der V des UVEK vom 6. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+<sup>2</sup> Funkpeilgeräte und andere elektronische Geräte sind nur für das Auffinden frei­treibender Schwebsätze zugelassen. Wer Funkpeilgeräte verwenden will, hat der zuständigen Fischereiaufsicht Angaben über die Geräte und deren Senderfrequenzen zu machen. Die fernmelderechtlichen Bestimmungen bleiben vorbehalten.
+
+[^9-1]: Fassung gemäss Ziff. I der V des UVEK vom 8. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 
 ### 2. Abschnitt: Besondere Bestimmungen über die einzelnen Fanggeräte
 
@@ -314,7 +319,7 @@ Für das verankerte Schwebnetz gelten die nachstehenden Höchst- und Mindestmass
 
 <sup>4</sup> Sie dürfen an Sonntagen nicht gehoben werden.[^11-4]
 
-<sup>5</sup> Sie sind an beiden Enden zu verankern; zu anderen verankerten Schwebsätzen sowie zu Spann- und Forellensätzen ist ein Abstand von mindestens 200 m einzuhalten.
+<sup>5</sup> Sie sind an beiden Enden zu verankern; zu anderen verankerten Schwebsätzen sowie zu Spann- und Grossfischsätzen ist ein Abstand von mindestens 200 m einzuhalten.
 
 <sup>6</sup> Pro Patent dürfen gleichzeitig höchstens fünf Netze verwendet werden, die zu höchstens zwei Sätzen zu verbinden sind. Der einzelne Schwebsatz muss mindestens zwei Netze umfassen.[^11-5]
 
@@ -351,7 +356,7 @@ Spannsätze dürfen:
 - a. vom 10. Januar, 12.00 Uhr, bis 31. März, 12.00 Uhr, an Sonn- und Feiertagen nicht gehoben werden;
 - b. vom 31. März, 12.00 Uhr, bis 15. Oktober, 12.00 Uhr, nur von Montag bis Donnerstag gesetzt werden; sie müssen an Freitagen bis spätestens 12.00 Uhr gehoben sein.
 
-<sup>5</sup> Der Spannsatz ist an beiden Enden zu verankern. Er ist so zu setzen, dass sich bei-de Satzenden auf der Halde befinden. Zu Forellensätzen und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.
+<sup>5</sup> Der Spannsatz ist an beiden Enden zu verankern. Er ist so zu setzen, dass sich bei-de Satzenden auf der Halde befinden. Zu Grossfischsätzen und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.
 
 <sup>6</sup> Pro Patent dürfen gleichzeitig höchstens drei Netze verwendet werden, die zu einem Satz zu verbinden sind.[^12-2]
 
@@ -360,7 +365,7 @@ Spannsätze dürfen:
 
 #### Art. 13
 
-**Forellensatz**
+**Grossfischsatz**
 
 <sup>1</sup>
 
@@ -373,9 +378,9 @@ Für die verwendeten Netze gelten die nachstehenden Höchst- und Mindestmasse:
 
 <sup>2</sup> Schwimmfähige Oberähren sind nicht zugelassen.[^13-1]
 
-<sup>3</sup> Forellensätze dürfen in der Zeit vom 10. Januar, 12.00 Uhr, bis 15. Juli, 12.00 Uhr, verwendet werden. Sie dürfen an Sonn- und Feiertagen nicht gehoben werden.
+<sup>3</sup> Grossfischsätze dürfen in der Zeit vom 10. Januar, 12.00 Uhr, bis 15. Juli, 12.00 Uhr, verwendet werden. Sie dürfen an Sonn- und Feiertagen nicht gehoben werden.
 
-<sup>4</sup> Sie sind an beiden Enden zu verankern; zu anderen Forellensätzen sowie zu Spann- und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.
+<sup>4</sup> Sie sind an beiden Enden zu verankern; zu anderen Grossfischsätzen sowie zu Spann- und verankerten Schwebsätzen ist ein Abstand von mindestens 200 m einzuhalten.
 
 <sup>5</sup> Pro Patent dürfen gleichzeitig höchstens drei Netze verwendet werden, die zu einem Satz zu verbinden sind.
 
@@ -736,7 +741,7 @@ Bodennetze mit einer Netzhöhe von höchstens 2 m, einer Maschenweite von 42 mm 
 
 Diese Verordnung tritt am 15. November 1997 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 ## Tabelle zur Berechnung der Netzhöhe nach der Anzahl der Maschen
 

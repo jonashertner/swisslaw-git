@@ -3,22 +3,22 @@ sr: "923.31"
 title: Ordinanza del DATEC del 9 ottobre 1997 concernente la pesca nel Lago Superiore di Costanza
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-10-09
 in_force: 1997-11-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2417_2417_2417/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2417_2417_2417-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2417_2417_2417/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza del DATEC concernente la pesca nel Lago Superiore di Costanza****
+# Ordinanza del DATEC concernente la pesca nel Lago Superiore di Costanza
 
-del 9 ottobre 1997 (Stato 1° gennaio 2022)[^t-1]
+del 9 ottobre 1997 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DATEC del 24 ott. 2005, in vigore dal 1° gen. 2006 ([RU 2005 4935](https://fedlex.data.admin.ch/eli/oc/2005/666)).
 
-Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC)*[^ingress-1]*,
+Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC)[^ingress-1],
 
 visto l’articolo 14 capoverso 3 dell’ordinanza del 24 novembre 1993[^ingress-2] concernente la legge federale sulla pesca,
 
@@ -77,24 +77,25 @@ Ai sensi della presente ordinanza:
 
 <sup>1</sup> Ha diritto di esercitare la pesca professionale chi possiede una patente di allievo pescatore, rilasciata dall’autorità competente. Questi può esercitare la pesca soltanto se il titolare di una patente di pesca d’alto lago è presente.
 
-<sup>2</sup> La patente di allievo pescatore autorizza sia alla pesca in alto lago con un massimo di due reti flottanti, con la rispettiva magliatura minima ammessa, sia alla pesca nella zona del declivio svizzero.
+<sup>2</sup> La patente di allievo pescatore autorizza il titolare a esercitare la pesca sul Lago di Costanza conformemente a una patente di pesca d’alto lago.[^2c-3]
 
-<sup>3</sup> La patente di allievo pescatore è rilasciata per la durata della formazione.[^2c-3]
+<sup>3</sup> La patente di allievo pescatore è rilasciata per la durata della formazione.[^2c-4]
 
-<sup>4</sup> La patente di aggiornamento autorizza il titolare a esercitare la pesca sul Lago di Costanza conformemente a una patente di pesca d’alto lago. Il titolare non può essere sostituito.[^2c-4]
+<sup>4</sup> La patente di aggiornamento autorizza il titolare a esercitare la pesca sul Lago di Costanza conformemente a una patente di pesca d’alto lago. Il titolare non può essere sostituito.[^2c-5]
 
 <sup>5</sup>
 
 La patente di aggiornameneto può essere concessa per la durata dell’aggiornamento:
 
 - a. agli itticoltori con un’esperienza professionale di almento due anni iscritti al corso di aggiornamento per diventare esperti dell’industria peschereccia;
-- b. a coloro che soddisfano i requisiti di ammissione all’esame di esperto dell’industria peschereccia e che sono iscritti al relativo corso di aggiornamento.[^2c-5]
+- b. a coloro che soddisfano i requisiti di ammissione all’esame di esperto dell’industria peschereccia e che sono iscritti al relativo corso di aggiornamento.[^2c-6]
 
 [^2c-1]: Introdotto dal n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
 [^2c-2]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-3]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
-[^2c-4]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-3]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^2c-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 [^2c-5]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
+[^2c-6]: Introdotto dal n. I dell’O del DATEC del 30 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6343](https://fedlex.data.admin.ch/eli/oc/2020/1036)).
 
 #### Art. 2d
 
@@ -188,7 +189,7 @@ L’esercizio della pesca professionale è permesso soltanto con gli attrezzi se
 
   - 1\. complessi di reti flottanti libere (art. 10),
   - 2\. complessi di reti flottanti ancorate (art. 11),
-  - 3\. complessi di reti per le trote (art. 13),
+  - 3\. reti da posta a maglia grande[^5-2] (art. 13),
   - 4\. reti di fondo (art. 14),
   - 5\. bertovelli (art. 16),
   - 6\. palamiti (art. 17),
@@ -199,6 +200,7 @@ L’esercizio della pesca professionale è permesso soltanto con gli attrezzi se
 <sup>3</sup> I Cantoni di San Gallo e di Turgovia sono autorizzati a imporre ai titolari delle patenti da loro rilasciate ulteriori limitazioni relative agli attrezzi, ai generi e ai periodi di pesca, qualora serva alla conservazione di un patrimonio ittico pregiato e ricco di specie.
 
 [^5-1]: Abrogato dal n. I dell’O del DATEC del 28 nov. 2003, con effetto dal 1° gen. 2004 ([RU 2003 5507](https://fedlex.data.admin.ch/eli/oc/2003/795)).
+[^5-2]: Nuova espr. giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 6
 
@@ -233,20 +235,23 @@ L’esercizio della pesca sportiva è permesso soltanto con gli attrezzi seguent
 
 <sup>2</sup> La posa e la levata degli attrezzi ammessi per la pesca professionale (art. 5) nonché l’esercizio della pesca con attrezzi di cattura con la lenza (art. 6) sono autorizzati un’ora prima dell’alba sino a un’ora dopo il tramonto. Il luogo di riferimento per la determinazione oraria dell’alba e del tramonto è la stazione meteorologica di Costanza. Dal 1° settembre fino al passaggio all’ora solare vale l’orario dell’alba del 1° settembre.[^8-1]
 
-<sup>3</sup> Le anguille possono essere catturate dalla riva fino alle ore 01.00.
+<sup>3</sup> Le anguille e i siluri possono essere catturati dalla riva fino alle ore 01.00.[^8-2]
 
-<sup>4</sup> Tutti gli attrezzi di cattura impiegati devono essere controllati e se del caso vuotati almeno ogni due giorni; sono fatti salvi gli articoli 16 capoverso 2 e 17 capoverso 2, nonché le disposizioni più severe emanate dai Cantoni competenti.[^8-2]
+<sup>4</sup> Tutti gli attrezzi di cattura impiegati devono essere controllati e se del caso vuotati almeno ogni due giorni; sono fatti salvi gli articoli 16 capoverso 2 e 17 capoverso 2, nonché le disposizioni più severe emanate dai Cantoni competenti.[^8-3]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del DATEC del 27 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7621](https://fedlex.data.admin.ch/eli/oc/2017/826)).
-[^8-2]: Introdotto dal n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
+[^8-3]: Introdotto dal n. I dell’O del DATEC del 21 feb. 2017, in vigore dal 15 mar. 2017 ([RU 2017 693](https://fedlex.data.admin.ch/eli/oc/2017/127)).
 
 #### Art. 9
 
-**Apparecchi elettronici**[^9-1]
+**Fonti di luce artificiale e apparecchi elettronici**[^9-1]
 
-I radiogoniometri e gli altri apparecchi elettronici sono autorizzati soltanto per rilevare i complessi di reti flottanti libere. Chi intende utilizzare i radiogoniometri deve fornire agli organi di vigilanza sulla pesca i dati sugli apparecchi impiegati e sulle loro frequenze di trasmissione. Restano salve le disposizioni relative al diritto sulle telecomunicazioni.
+<sup>1</sup> Durante la pesca è vietato utilizzare fonti di luce artificiale per attirare i pesci.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DATEC del 6 dic. 2006, in vigore dal 1<sup>o</sup> gen. 2007 ([RU 2006 5377](https://fedlex.data.admin.ch/eli/oc/2006/821)).
+<sup>2</sup> I radiogoniometri e gli altri apparecchi elettronici sono autorizzati soltanto per rilevare i complessi di reti flottanti libere. Chi intende utilizzare i radiogoniometri deve fornire agli organi di vigilanza sulla pesca i dati sugli apparecchi impiegati e sulle loro frequenze di trasmissione. Restano salve le disposizioni relative al diritto sulle telecomunicazioni.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DATEC dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 711](https://fedlex.data.admin.ch/eli/oc/2022/711)).
 
 ### Sezione 2: Disposizioni speciali per i singoli attrezzi di cattura
 
@@ -315,7 +320,7 @@ Per la rete flottante ancorata valgono le seguenti misure massime e minime:
 
 <sup>4</sup> La loro levata di domenica è vietata.[^11-4]
 
-<sup>5</sup> Essi devono essere ancorati ad ambo le estremità; la distanza dagli altri complessi di reti flottanti ancorate e dai complessi di reti tese e dai complessi di reti per le trote deve essere di almeno 200 m.
+<sup>5</sup> Essi devono essere ancorati ad ambo le estremità; la distanza dagli altri complessi di reti flottanti ancorate e dai complessi di reti tese e da reti da posta a maglia grande deve essere di almeno 200 m.
 
 <sup>6</sup> Per ogni patente si possono impiegare simultaneamente cinque reti al massimo, che devono essere riunite al massimo in due complessi. Ogni singolo complesso di reti flottanti deve includere almeno due reti.[^11-5]
 
@@ -352,7 +357,7 @@ I complessi di reti tese:
 - a. non possono essere levati di domenica e nei giorni festivi dalle ore 12.00 del 10 gennaio alle ore 12.00 del 31 marzo;
 - b. possono essere posati dalle ore 12.00 del 31 marzo alle ore 12.00 del 15 ottobre soltanto dal lunedì al giovedì; devono essere levati al più tardi alle ore 12.00 del venerdì.
 
-<sup>5</sup> Il complesso di reti tese deve essere ancorato ad ambo le estremità. Deve essere posato in modo che queste ultime si trovino sul declivio. La distanza dai complessi di reti per le trote e dai complessi di reti flottanti ancorate deve essere di almeno 200 m.
+<sup>5</sup> Il complesso di reti tese deve essere ancorato ad ambo le estremità. Deve essere posato in modo che queste ultime si trovino sul declivio. La distanza da reti da posta a maglia grande e dai complessi di reti flottanti ancorate deve essere di almeno 200 m.
 
 <sup>6</sup> Per ogni patente si possono impiegare simultaneamente tre reti al massimo, che devono essere riunite in un complesso.[^12-2]
 
@@ -361,7 +366,7 @@ I complessi di reti tese:
 
 #### Art. 13
 
-**Complessi di reti per le trote**
+**Reti da posta a maglia grande**
 
 <sup>1</sup>
 
@@ -374,9 +379,9 @@ Per le reti utilizzate valgono le seguenti misure massime e minime:
 
 <sup>2</sup> Non sono ammesse ralinghe superiori natanti.[^13-1]
 
-<sup>3</sup> L’impiego di complessi di reti per le trote è autorizzato dalle ore 12.00 del 10 gennaio alle ore 12.00 del 15 luglio. Non possono essere levati di domenica e nei giorni festivi.
+<sup>3</sup> L’impiego di reti da posta a maglia grande è autorizzato dalle ore 12.00 del 10 gennaio alle ore 12.00 del 15 luglio. Non possono essere levati di domenica e nei giorni festivi.
 
-<sup>4</sup> I complessi di reti per le trote devono essere ancorati ad ambo le estremità; la distanza da altri complessi di reti per le trote, da complessi di reti tese o da complessi di reti flottanti ancorate deve essere di almeno 200 m.
+<sup>4</sup> Le reti da posta a maglia grande devono essere ancorati ad ambo le estremità; la distanza da altre reti da posta a maglia grande, da complessi di reti tese o da complessi di reti flottanti ancorate deve essere di almeno 200 m.
 
 <sup>5</sup> Per ogni patente possono essere impiegate simultaneamente tre reti al massimo, che devono essere riunite in un complesso.
 
@@ -733,7 +738,7 @@ Le reti di fondo con un’altezza massima della rete di 2 m, una magliatura di 4
 
 La presente ordinanza entra in vigore il 15 novembre 1997.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 ## Tavola per il calcolo dell’altezza delle reti in base al numero delle maglie
 
