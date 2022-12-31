@@ -3,20 +3,19 @@ canton: SG
 number: "361.11"
 title: Verordnung über Arbeitslosenversicherung und Arbeitsvermittlung
 language: de
-version: 2022-09-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-28
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2009-09-29
 in_force: 2009-11-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/361.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3393/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Arbeitslosenversicherung und Arbeitsvermittlung
 
-vom 29.09.2009 (Stand 01.09.2022)
+vom 29.09.2009 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -95,10 +94,10 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Der Kommission gehören an:
 
-- a) vier Vertreter der Arbeitgeberorganisationen;
-- b) vier Vertreter der Arbeitnehmerorganisationen;
-- c) vier Vertreter des Kantons;
-- d) je ein Vertreter der öffentlichen Arbeitslosenkasse und der kantonalen Berufsbildungsbehörde mit beratender Stimme.
+- a) vier Vertreterinnen oder Vertreter der Arbeitgeberorganisationen;
+- b) vier Vertreterinnen oder Vertreter der Arbeitnehmerorganisationen;
+- c) vier Vertreterinnen oder Vertreter des Kantons;
+- d) je eine Vertreterin oder ein Vertreter der öffentlichen Arbeitslosenkasse und der kantonalen Berufsbildungsbehörde mit beratender Stimme.
 
 <sup>3</sup> Die Leiterin oder der Leiter des Amtes für Wirtschaft und Arbeit übt den Vorsitz aus.
 
