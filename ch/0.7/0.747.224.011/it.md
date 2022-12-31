@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Convenzione del 9 settembre 1996 sulla raccolta, il deposito e il ritiro di rifiuti nella navigazione sul Reno e nella navigazione interna (con annessi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: it
-version: 2019-12-18
+version: 2023-01-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20191218/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20191218-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20191218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-630-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 9 settembre 1996 Approvata dall’Assemblea federale il 19 dicembre 1997[^t-1] Strumento di ratifica depositato dalla Svizzera il 16 luglio 1998 Entrata in vigore per la Svizzera il 1° novembre 2009
 
-(Stato 18 dicembre 2019)
+(Stato 1° gennaio 2023)
 
 [^t-1]: [RU 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -314,13 +314,15 @@ La presente Convenzione è redatta in un unico esemplare originale nelle lingue 
 
 *In fede di che,* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Strasburgo il 9 settembre 1996. (Seguono le firme)
 
-Annesso 1
+Annesso 1[^t-2]
 
 ## Vie navigabili di cui all’articolo 2
 
+[^t-2]: Aggiornato dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022, in vigore per la Svizzera dal 1° gen. 2023 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)).
+
 Germania:
 
-L’insieme delle vie navigabili interne destinate al traffico generale.
+L’insieme delle vie navigabili interne destinate al traffico generale, con l’esclusione delle acque tedesche del lago di Costanza e del tratto di Reno a monte di Rheinfelden.
 
 Belgio:
 
@@ -345,11 +347,11 @@ Svizzera:
 
 Il Reno tra Basilea e Rheinfelden.
 
-Annesso 2[^t-2]
+Annesso 2[^t-3]
 
 ## Disposizione esecutiva
 
-[^t-2]: Aggiornato dall’Emendamento dell’8 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)).
+[^t-3]: Aggiornato dall’emendamento dell’8 giu. 2010 ([RU 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)) e dagli emendamenti adottati dalle Conferenze delle Parti nel periodo 2011-2022, in vigore per la Svizzera dal 1° gen. 2023 ([RU 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)).
 
 <table>
 <tr><td>Parte A:</td><td>Raccolta, deposito e ritiro di rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione.</td></tr>
@@ -395,7 +397,9 @@ Gli esercenti dei centri di ritiro certificano all’imbarcazione, nel libretto 
 
 **Raccolta e trattamento a bordo**
 
-<sup>(1)</sup> Il conduttore deve garantire che a bordo i rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione siano raccolti separatamente in appositi recipienti e che l’acqua di sentina sia raccolta nelle sentine della zona macchine.
+<sup>(1)</sup> L’acqua di sentina di cui all’articolo 1 lettera d) proveniente dai settori dell’imbarcazione menzionati è considerata acqua di sentina solo se l’acqua oleosa è stata prodotta durante l’esercizio e la manutenzione dell’imbarcazione e non è contaminata da sostanze diverse dall’olio. L’acqua di sentina contaminata in altro modo rientra tra gli altri rifiuti speciali ai sensi dell’articolo 8.01 lettera e).
+
+Il conduttore deve garantire che a bordo i rifiuti oleosi e grassi prodotti nell’esercizio dell’imbarcazione siano raccolti separatamente in appositi recipienti e che l’acqua di sentina sia raccolta nelle sentine della zona macchine.
 
 I recipienti vanno sistemati a bordo in modo che ogni fuoriuscita di materiale possa essere riconosciuta e impedita con facilità e prontezza.
 
@@ -405,7 +409,7 @@ I recipienti vanno sistemati a bordo in modo che ogni fuoriuscita di materiale p
 
 - a) utilizzare recipienti stivati sul ponte quali recipienti di raccolta degli oli usati;
 - b) bruciare rifiuti a bordo;
-- c) immettere nelle sentine della zona macchine detergenti che sciolgono oli e grassi o che agiscono da emulsionanti. Fanno eccezione i detergenti che non ostacolano l’eliminazione dell’acqua di sentina da parte dei centri di ritiro.
+- c) immettere nelle sentine della zona macchine detergenti che sciolgono oli e grassi o che agiscono da emulsionanti. Fanno eccezione i detergenti che non ostacolano la depurazione dell’acqua di sentina da parte dei centri di ritiro.
 
 #### Art. 2.03
 
@@ -438,7 +442,7 @@ L’ente nazionale riscuote la tassa di eliminazione e sottopone all’ufficio i
 
 **Riscossione della tassa di eliminazione**
 
-<sup>(1)</sup> La tassa di eliminazione è di 7,5 euro (più IVA) per 1000 l di gasolio forniti. Il volume del gasolio venduto corrisponde al volume a 15 °C.
+<sup>(1)</sup> La tassa di eliminazione è di 10 euro (più IVA) per 1000 l di gasolio forniti. Il volume del gasolio venduto corrisponde al volume a 15 °C.
 
 <sup>(2)</sup> Il debitore della tassa di eliminazione è l’esercente dell’imbarcazione.
 
@@ -465,7 +469,7 @@ In deroga al capoverso 4, nei casi seguenti il versamento della tassa di elimina
 
 <sup>(7)</sup> Nei casi indicati al capoverso 6, la stazione di rifornimento trasmette entro sette giorni all’ente nazionale del Paese nel quale è avvenuto il rifornimento i dati necessari per il versamento della tassa di eliminazione concernente la fornitura di gasolio. L’ente nazionale adotta le misure del caso per la riscossione delle tasse dovute. All’occorrenza, può trasmettere la procedura a uno degli altri enti nazionali.
 
-<sup>(8)</sup> Per le transazioni che rientrano nei casi illustrati alle lettere b) e c) del capoverso 6, l’esercente dell’imbarcazione deve coprire le spese amministrative dell’ente nazionale del Paese nel quale è avvenuto il rifornimento. L’ammontare di tali spese è determinato unitariamente per tutti i contraenti dall’ufficio internazionale dei regolamenti finanziari e di coordinamento.
+<sup>(8)</sup> Per le transazioni che rientrano nei casi illustrati alle lettere b) e c) del paragrafo 6, l’esercente dell’imbarcazione deve coprire le spese amministrative dell’ente nazionale avente diritto. L’ammontare di tali spese è determinato unitariamente per tutti i contraenti dall’ufficio internazionale dei regolamenti finanziari e di coordinamento.
 
 <sup>(9)</sup> In singoli casi, per i quali l’applicazione della procedura di cui ai capoversi 4 e 5 non è giudicata adeguata dall’ente nazionale, tale ente nazionale può prevedere singole eccezioni al regolamento in relazione alla fornitura di gasolio e al versamento della tassa di eliminazione. Queste eccezioni vanno notificate all’ufficio internazionale dei regolamenti finanziari e di coordinamento e devono soddisfare le altre disposizioni del presente capitolo.
 
@@ -535,7 +539,7 @@ Gli enti nazionali segnalano trimestralmente, vale a dire il 1° febbraio, il 1�
 
 <sup>(1)</sup> Il regolamento finanziario ai sensi degli articoli 4.02 e 4.03 è determinato come segue per ogni ente nazionale:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20191218/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20230101/it/xml/image/image1.png)</sub>
 
 Significato:
 
@@ -559,7 +563,8 @@ Significato:
 
 Ai fini della presente parte si intende per:
 
-- a) «trasporti esclusivi»: trasporti nei quali nella stiva o nella cisterna dell’imbarcazione vengono trasportati ininterrottamente lo stesso carico o un altro carico il cui trasporto non necessita una pulizia preliminare della stiva o della cisterna;
+- a) «trasporti esclusivi»: trasporti per i quali è possibile documentare che, per più viaggi in successione, nella stiva o nella cisterna dell’imbarcazione viene trasportato un carico il cui trasporto non rende necessario un lavaggio preliminare della stiva o della cisterna;
+- aa) «trasporti compatibili»: trasporti per i quali è possibile documentare che, per più viaggi in successione, nella stiva o nella cisterna dell’imbarcazione viene trasportato un carico il cui trasporto non rende necessario un lavaggio o un degassaggio preliminare della stiva o della cisterna;
 - b) «carico restante»: carichi liquidi che rimangono nella stiva e nelle tubature dopo lo scarico senza impiego di un sistema di prosciugamento e merci secche che rimangono nella stiva dopo lo scarico senza l’impiego di scope, spazzatrici o apparecchi di pulizia a vuoto;
 - c) «residui di carico»: carichi liquidi che non possono essere rimossi dalla stiva e dalle tubature mediante il sistema di prosciugamento e merci secche che non possono essere rimosse dalla stiva mediante scope, spazzatrici o apparecchi di pulizia a vuoto;
 - d) «sistema di prosciugamento»: sistema ai sensi dell’appendice II per svuotare nel modo più completo possibile le stive e le tubature, così che rimangano solo residui di carico non prosciugabili;
@@ -578,19 +583,44 @@ Ai fini della presente parte si intende per:
 - e rimozione dei residui del trasbordo, degli imballaggi e dei mezzi per stivare;
 - j) «lavaggio»: rimozione dei residui di carico dalla stiva spazzata o pulita a vuoto o dalla cisterna prosciugata con l’impiego di vapore acqueo o di acqua;
 - k) «stiva o cisterna pulita»: stiva o cisterna che dopo il lavaggio è sostanzialmente adatta a ogni tipo di carico;
-- l) «acqua di lavaggio»: acqua che viene dal lavaggio di stive spazzate o pulite a vuoto o da cisterne prosciugate, fra cui anche l’acqua di zavorra o di precipitazione proveniente da queste stive o cisterne.
+- l) «acqua di lavaggio»: acqua che viene dal lavaggio di stive spazzate o pulite a vuoto o da cisterne prosciugate, fra cui anche l’acqua di zavorra o di precipitazione proveniente da queste stive o cisterne;
+- m) «degassaggio»: rimozione di vapori ai sensi dell’appendice IIIa da una cisterna prosciugata presso un centro di ritiro con l’impiego di procedure e tecniche appropriate;
+- n) «spurgo»: rilascio diretto dei vapori dalla cisterna nell’atmosfera;
+- o) «cisterna degassata o spurgata»: cisterna svuotata dei vapori secondo le norme di degassaggio di cui all’appendice IIIa.
 
 #### Art. 5.02
 
 **Obblighi degli Stati parte**
 
-Gli Stati parte si impegnano a creare o a fare creare, entro cinque anni dall’entrata in vigore di questa convenzione, le premesse infrastrutturali e di altro tipo necessarie al deposito e al ritiro dei carichi restanti, dei residui del trasbordo, dei residui di carico e dell’acqua di lavaggio.
+Gli Stati parte si impegnano a creare o a fare creare le premesse infrastrutturali e di altro tipo necessarie al deposito e al ritiro dei carichi restanti, dei residui del trasbordo, dei residui di carico, dell’acqua di lavaggio e dei vapori.
 
 #### Art. 5.03
 
 **Imbarcazioni marittime**
 
-La presente parte B non si applica né al carico né allo scarico di imbarcazioni marittime ormeggiate nei porti di mare situati sulle vie navigabili marittime.
+La presente parte B non si applica né al carico né allo scarico di imbarcazioni marittime ormeggiate:
+
+- a) nei porti di mare situati sulle vie navigabili marittime;
+- b) nei porti interni soggetti alla direttiva europea 2019/883/UE[^annexu1-chapIV-chapV-503-1].
+
+[^annexu1-chapIV-chapV-503-1]: Direttiva (UE) 2019/883 del Parlamento europeo e del Consiglio, del 17 aprile 2019, relativa agli impianti portuali di raccolta per il conferimento dei rifiuti delle navi, che modifica la direttiva 2010/65/UE e abroga la direttiva 2000/59/CE (GU L 151 del 7.6.2019, pagg. 116–142).
+
+#### Art. 5.04
+
+**Applicazione della parte B ai vapori**
+
+<sup>(1)</sup> nella loro versione di volta in volta in vigore.
+
+La parte B è applicata senza pregiudizio:
+
+- a) delle disposizioni dell’Accordo europeo del 26 maggio 2000[^annexu1-chapIV-chapV-504-1] sul trasporto internazionale di merci pericolose per via navigabile interna (ADN) in combinato disposto con la direttiva 2008/68/CE del Parlamento europeo e del Consiglio, del 24 settembre 2008, relativa al trasporto interno di merci pericolose; e
+- b) della direttiva 94/63/CE modificata del Parlamento europeo e del Consiglio, del 20 dicembre 1994, sul controllo delle emissioni di composti organici volatili (COV) derivanti dal deposito della benzina e dalla sua distribuzione dai terminali alle stazioni di servizio,
+
+<sup>(2)</sup> Le disposizioni dell’appendice IIIa sono complementari alle disposizioni della direttiva di cui al paragrafo 1 lettera b).
+
+Le imbarcazioni per le quali è possibile dimostrare con documenti scritti che sono state degassate conformemente alla normativa, al di fuori della zona di validità della CDNI, sono da considerare come navi degassate ai sensi del presente regolamento purché i valori dell’appendice IIIa siano rispettati. La Conferenza delle Parti contraenti indica i regolamenti che, oltre alla direttiva 94/63/CE e all’ADN, identifica come equivalenti per quanto concerne le disposizioni di degassaggio.
+
+[^annexu1-chapIV-chapV-504-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
 
 ### Capitolo VI Obblighi del conduttore
 
@@ -598,50 +628,62 @@ La presente parte B non si applica né al carico né allo scarico di imbarcazion
 
 **Divieto di introduzione e di immissione**
 
-<sup>(1)</sup> È vietato introdurre o immettere dalle imbarcazioni nella via navigabile parti del carico e rifiuti provenienti dal carico.
+<sup>(1)</sup> È vietato introdurre o immettere dalle imbarcazioni nella via navigabile parti del carico e rifiuti provenienti dal carico o rilasciare vapori nell’atmosfera.
 
-<sup>(2)</sup> È esclusa dal divieto ai sensi del paragrafo 1 l’acqua di lavaggio con residui di carico di merci la cui immissione nella via navigabile giusta l’appendice III è esplicitamente autorizzata, qualora siano rispettate le disposizioni dell’appendice stessa.
+<sup>(2)</sup>
 
-<sup>(3)</sup> Se i materiali per i quali nell’appendice III è prescritto esclusivamente un deposito per il trattamento speciale sono fuoriusciti o rischiano di fuoriuscire, il conduttore deve immediatamente informarne le più vicine autorità competenti. Nel farlo, deve indicare nel modo più preciso possibile il luogo dell’accaduto, il quantitativo e il tipo di materiale fuoriuscito.
+Sono esclusi dal divieto ai sensi del paragrafo 1:
 
-<sup>(4)</sup> L’autorità nazionale competente valuta se i rifiuti provenienti dal carico di quelle merci che non figurano nella lista delle merci ai sensi dell’appendice III possono essere immessi o introdotti nella via navigabile. Essa fissa una norma di immissione provvisoria.
+- a) l’acqua di lavaggio con residui di carico di merci la cui immissione nella via navigabile è esplicitamente autorizzata giusta l’appendice III;
+- b) i vapori il cui rilascio nell’atmosfera mediante spurgo è esplicitamente autorizzato giusta l’appendice IIIa, qualora siano rispettate le disposizioni di queste stesse appendici.
+
+<sup>(3)</sup> sono fuoriusciti o rischiano di fuoriuscire, il conduttore deve immediatamente informarne le più vicine autorità competenti.
+
+Nel farlo, deve indicare nel modo più preciso possibile il luogo dell’accaduto, il quantitativo e il tipo di materiale o di vapore fuoriuscito.
+
+Se:
+
+- a) i materiali per i quali nell’appendice III è prescritto esclusivamente un deposito per il trattamento speciale; o
+- b) i vapori per i quali nell’appendice IIIa è prescritto un degassaggio,
+
+<sup>(4)</sup> L’autorità nazionale competente valuta se i rifiuti provenienti dal carico di merci che non figurano nella lista delle merci di cui all’appendice III possono essere immessi o introdotti nella via navigabile. Essa fissa una norma di immissione provvisoria.
 
 La Conferenza delle Parti contraenti esamina questa proposta e completa, se del caso, la lista delle merci.
 
+<sup>(5)</sup> In deroga al divieto di cui al paragrafo 1, possono essere rilasciati vapori se ciò si rende necessario a seguito di una permanenza inattesa in cantiere o di una riparazione imprevista sul posto ad opera di un cantiere o di altra ditta specializzata e i vapori non possono essere portati a un centro di ritiro. A tal fine vanno osservate le disposizioni dell’appendice IIIa A 4 e della sottosezione 7.2.3.7 dell’ADN[^annexu1-chapIV-chapVI-601-1].
+
+[^annexu1-chapIV-chapVI-601-1]: [RS 0.747.208](https://fedlex.data.admin.ch/eli/cc/2011/153)
+
 #### Art. 6.02
 
-**Disposizioni transitorie**
-
-<sup>(1)</sup>
-
-Le seguenti disposizioni si applicano per un periodo transitorio di cinque anni dopo l’entrata in vigore della presente Convenzione:
-
-- a)
-
-  per quanto concerne le merci secche:
-
-  - – al posto della norma di scarico «stiva pulita a vuoto» richiesta nell’appendice III, è ammessa la norma di scarico «stiva spazzata»,
-  - – l’acqua di lavaggio che giusta l’appendice III va introdotta nelle canalizzazioni può essere immessa nella via navigabile se è stata rispettata la norma di scarico «stiva spazzata»;
-
-- b)
-
-  per quanto concerne i carichi liquidi:
-
-  - – anche se non è richiesto il prosciugamento giusta l’articolo 7.04, vanno tuttavia utilizzati i sistemi disponibili nella misura del possibile, sebbene non siano ancora conformi all’appendice II.
-
-<sup>(2)</sup> Qualora siano date le premesse per rispettare la norma di scarico «stiva pulita a vuoto» per il deposito dell’acqua di lavaggio presso i centri di ritiro o per il prosciugamento di navi-cisterna, l’autorità nazionale competente, per tutto il suo territorio o parte di esso, può ordinare già prima della scadenza del periodo transitorio che le disposizioni dell’appendice III siano rispettate senza restrizioni per i relativi tipi di merci. Essa ne informa preliminarmente la Conferenza delle Parti contraenti.
+Abrogato
 
 #### Art. 6.03
 
 **Certificato di scarico**
 
-<sup>(1)</sup> Ogni imbarcazione scaricata nella zona di validità della presente Convenzione deve avere a bordo un certificato di scarico valido che dev’essere emesso secondo il modello dell’appendice IV.
+<sup>(1)</sup> Ogni imbarcazione scaricata nella zona di validità della presente Convenzione deve avere a bordo un certificato di scarico valido, che dev’essere emesso secondo il modello dell’appendice IV.
 
 Il certificato di scarico va conservato a bordo per almeno sei mesi dopo l’emissione.
 
-Nel caso di imbarcazioni senza equipaggio proprio, il certificato può essere conservato dal vettore anche in altro luogo che non sia a bordo.
+Nel caso di imbarcazioni senza timoneria e alloggio, il certificato può essere conservato dal vettore anche in altro luogo che non sia a bordo.
 
-<sup>(2)</sup> Nel caso dello scarico restante, del deposito e del ritiro di rifiuti provenienti dal carico, vanno applicate le norme di scarico e le disposizioni di deposito e di ritiro dell’appendice III.
+Su richiesta, il certificato di scarico deve essere presentato agli agenti delle autorità competenti. Il certificato di scarico può essere messo a disposizione in un formato elettronico leggibile.
+
+(1b) Può essere utilizzato un certificato di scarico in formato elettronico a condizione che:
+
+- a) sia garantita la protezione dei dati conformemente al regolamento (UE) 2016/679[^annexu1-chapIV-chapVI-603-1] (regolamento generale sulla protezione dei dati) nella versione di volta in volta in vigore o alle prescrizioni nazionali paragonabili della Confederazione Svizzera;
+- b) sia prevista una firma a prova di falsificazione conformemente al regolamento (UE) n. 910/2014 (eIDAS)[^annexu1-chapIV-chapVI-603-2] nella versione di volta in volta in vigore o alle prescrizioni nazionali paragonabili della Confederazione Svizzera;
+- c) sia garantita la sicurezza dei dati mediante l’attuazione di disposizioni delle prescrizioni menzionate alla lettera a), in modo da bloccare in modo sicuro anche l’accesso non autorizzato;
+- d) sia garantita la verificabilità del certificato di scarico a bordo o nei registri dell’esercente dell’imbarcazione;
+- e) sia garantita la verificabilità, nei registri, dell’identità della persona che ha rilasciato il certificato di scarico e dell’esercente del centro di ritiro.
+
+<sup>(2)</sup>
+
+Nel caso dello scarico di resti, del deposito e del ritiro di rifiuti provenienti dal carico, vanno applicate:
+
+- a) per il lavaggio, le norme di scarico e le prescrizioni di deposito e di ritiro dell’appendice III;
+- b) per il degassaggio, le prescrizioni e le norme di degassaggio dell’appendice IIIa.
 
 <sup>(3)</sup> Una volta caricata, l’imbarcazione può proseguire il viaggio solo se il conduttore ha verificato che i residui del trasbordo sono stati rimossi.
 
@@ -649,7 +691,33 @@ Nel caso di imbarcazioni senza equipaggio proprio, il certificato può essere co
 
 <sup>(5)</sup> Le disposizioni del paragrafo 4 non sono applicate alle imbarcazioni che effettuano trasporti esclusivi.
 
-<sup>(6)</sup> Se le stive o le cisterne vengono lavate e se l’acqua di lavaggio non può essere immessa nelle acque giusta le norme di scarico e le disposizioni di deposito e di ritiro dell’appendice III, l’imbarcazione può proseguire il viaggio solo se il conduttore conferma nel certificato di scarico che l’acqua di lavaggio è ripresa o se gli è stato assegnato un centro di ritiro.
+<sup>(6)</sup>
+
+Se le stive o le cisterne:
+
+- a) vengono lavate e se l’acqua di lavaggio non può essere immessa nelle acque giusta le norme di scarico e le prescrizioni di deposito e di ritiro dell’appendice III, l’imbarcazione può proseguire il viaggio solo se il conduttore conferma nel certificato di scarico che l’acqua di lavaggio è stata ripresa o che gli è stato assegnato un centro di ritiro;
+- b) vengono degassate conformemente alle norme di degassaggio dell’appendice IIIa, l’imbarcazione può proseguire il viaggio solo se il conduttore conferma nel certificato di scarico che le cisterne sono state degassate o che gli è stato assegnato un centro di ritiro per il degassaggio.
+
+<sup>(7)</sup> purché la nave in questione trasporti anche effettivamente le merci o i carichi menzionati e li abbia trasportati come ultimo carico.
+
+La presente disposizione non si applica al trasporto di carichi misti con questo genere di imbarcazioni.
+
+In casi specifici l’autorità competente può, in presenza di condizioni equivalenti, esonerare un’imbarcazione dall’applicazione dei paragrafi 1 e 4 nell’ambito dell’effettuazione di trasporti eccezionali. La prova di questo esonero deve essere conservata a bordo dell’imbarcazione.
+
+I paragrafi 1 e 4 non si applicano alle navi che, per tipologia e sistema di costruzione, sono idonee e vengono utilizzate per:
+
+- a) il trasporto di container;
+- b) il trasporto di carichi mobili (ro-ro), di collettame, di carichi pesanti o apparecchi ingombranti;
+- c) la fornitura di carburanti, acqua potabile e provviste di bordo a imbarcazioni marittime e a imbarcazioni per la navigazione interna (navi di rifornimento);
+- d) la raccolta di rifiuti oleosi o grassi delle imbarcazioni marittime o per la navigazione interna;
+- e) il trasporto di gas liquefatti (ADN tipo G);
+- f) il trasporto di zolfo liquido (a 180 °C), polvere cementizia, ceneri leggere e merci equiparabili, trasportate come merci sfuse o carico pompabile, a condizione che a bordo si faccia uso di un sistema adatto esclusivamente alle classi merceologiche interessate per il carico, lo scarico e l’immagazzinaggio;
+- g) il trasporto di sabbia, ghiaia o materiale di dragaggio dal luogo di escavazione al punto di scarico, se la nave interessata è stata costruita e allestita esclusivamente per questo tipo di trasporto,
+
+<sup>(8)</sup> I paragrafi 1 e 4 non si applicano neanche ai trasporti per i quali lo scarico è effettuato su un’imbarcazione marittima. Il conduttore deve dimostrare l’avvenuto scarico per mezzo degli appositi documenti di trasporto ed esibire su richiesta i documenti alle autorità di controllo.
+
+[^annexu1-chapIV-chapVI-603-1]: Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati).
+[^annexu1-chapIV-chapVI-603-2]: Regolamento (UE) n. 910/2014 del Parlamento europeo e del Consiglio, del 23 luglio 2014, in materia di identificazione elettronica e servizi fiduciari per le transazioni elettroniche nel mercato interno e che abroga la direttiva 1999/93/CE.
 
 ### Capitolo VII Obblighi del vettore, del noleggiatore, del destinatario del carico e dell’esercente dell’impianto di trasbordo
 
@@ -657,9 +725,11 @@ Nel caso di imbarcazioni senza equipaggio proprio, il certificato può essere co
 
 **Certificato di ritiro**
 
-<sup>(1)</sup> Nel certificato di scarico di cui all’articolo 6.03, il destinatario del carico certifica all’imbarcazione che le merci, compresi i residui, sono state scaricate e che, nella misura in cui ne sia responsabile, le stive o le cisterne sono state pulite e i rifiuti provenienti dal carico sono stati ritirati o, se del caso, è stato designato un centro di ritiro.
+<sup>(1)</sup> Nel certificato di scarico di cui all’articolo 6.03, il destinatario del carico certifica all’imbarcazione che le merci, compresi i resti, sono state scaricate e che, nella misura in cui ne sia responsabile, le stive o le cisterne sono state lavate oppure le cisterne sono state degassate e i rifiuti provenienti dal carico sono stati ritirati o, se del caso, è stato designato un centro di ritiro. Il destinatario del carico deve conservare per almeno sei mesi dall’emissione una copia del certificato di scarico compilato e sottoscritto da sé stesso e dal conduttore.
 
-<sup>(2)</sup> Se il destinatario del carico non ritira direttamente le acque di lavaggio che non possono essere immesse nelle vie navigabili, l’esercente del centro di ritiro certifica all’imbarcazione il ritiro delle acque di lavaggio.
+<sup>(2)</sup> Se il destinatario del carico non ritira direttamente le acque di lavaggio che non possono essere immesse nelle vie navigabili, l’esercente del centro di ritiro certifica all’imbarcazione il ritiro delle acque di lavaggio. L’esercente del centro di ritiro deve conservare per almeno sei mesi dall’emissione una copia del certificato di scarico compilato e sottoscritto da sé stesso, dal destinatario del carico e dal conduttore.
+
+<sup>(3)</sup> Se all’imbarcazione è stato assegnato un centro di ritiro per il degassaggio, l’esercente del centro attesta nel certificato di scarico il degassaggio dell’imbarcazione. L’esercente deve conservare per almeno sei mesi dall’emissione una copia del certificato di scarico compilato e sottoscritto da lui stesso e dal conduttore.
 
 #### Art. 7.02
 
@@ -667,7 +737,7 @@ Nel caso di imbarcazioni senza equipaggio proprio, il certificato può essere co
 
 <sup>(1)</sup> Il vettore mette a disposizione del noleggiatore l’imbarcazione con una norma di scarico tale da consentire che il carico sia trasportato e consegnato senza subire danni. Di regola queste condizioni si realizzano con «stive spazzate» o «cisterne prosciugate» e quando l’imbarcazione è libera da qualsiasi residuo di trasbordo.
 
-<sup>(2)</sup> È possibile accordarsi preliminarmente su norme di scarico più esigenti o su un lavaggio.
+<sup>(2)</sup> È possibile accordarsi preliminarmente, per scritto, su norme di scarico più esigenti, sul lavaggio o sul degassaggio. Una copia di questo accordo deve essere conservata a bordo dell’imbarcazione almeno fino alla compilazione del certificato di scarico, una volta effettuato lo scarico e la pulizia della medesima.
 
 <sup>(3)</sup> Con l’avvio delle operazioni di carico, si considera che l’imbarcazione sia stata messa a disposizione dal vettore alle condizioni previste nei paragrafi 1 o 2.
 
@@ -675,7 +745,12 @@ Nel caso di imbarcazioni senza equipaggio proprio, il certificato può essere co
 
 **Carico e scarico**
 
-<sup>(1)</sup> Il carico e lo scarico di un’imbarcazione contemplano anche le misure necessarie allo scarico dei residui e al lavaggio previste dalle disposizioni della presente parte B. Il carico restante deve, nella misura del possibile, essere aggiunto al carico.
+<sup>(1)</sup> previste dalle disposizioni della presente parte B. Il carico restante deve, nella misura del possibile, essere aggiunto al carico.
+
+Il carico e lo scarico di un’imbarcazione contemplano anche le misure necessarie allo scarico dei resti e:
+
+- a) in caso di lavaggio, al lavaggio; o
+- b) in caso di degassaggio, al degassaggio,
 
 <sup>(2)</sup> Durante il carico, il noleggiatore deve controllare che l’imbarcazione rimanga libera da residui di trasbordo. Se tuttavia ne derivano residui, dopo il carico il noleggiatore s’incarica di eliminarli, salvo nel caso in cui un accordo disponga altrimenti.
 
@@ -683,22 +758,37 @@ Nel caso di imbarcazioni senza equipaggio proprio, il certificato può essere co
 
 #### Art. 7.04
 
-**Restituzione dell’imbarcazione**
+**Restituzione dell’imbarcazione**[^annexu1-chapIV-chapVII-704-1]
 
 <sup>(1)</sup> Nel caso di merci secche, il destinatario del carico deve controllare che dopo lo scarico la stiva venga restituita spazzata o pulita a vuoto conformemente alle norme di scarico e alle prescrizioni di deposito e di ritiro di cui all’appendice III. È tenuto ad accettare eventuali carichi residui nonché qualsiasi residuo del trasbordo dell’imbarcazione scaricata.
 
 Nel caso di carichi liquidi, il noleggiatore deve controllare che dopo lo scarico la cisterna venga restituita prosciugata. Salvo disposizione contraria del contratto di trasporto, il conduttore effettua lo scarico, residui compresi, per il tramite di un sistema di prosciugamento. Le tubature per la raccolta del carico restante devono essere munite di un sistema di collegamento conforme al modello 1 dell’appendice II. Durante l’utilizzazione del sistema di prosciugamento, la contropressione nel sistema di tubature del destinatario del carico non deve superare i 3 bar prima dell’inizio dell’operazione. L’esercente dell’impianto di trasbordo è tenuto a ritirare il carico restante.
 
-<sup>(2)</sup>
+<sup>(2)</sup> Inoltre i responsabili di cui al primo periodo sono tenuti a garantire che la stiva sia lavata o la cisterna sia lavata e/o degassata se prima del caricamento la stiva o la cisterna era stata lavata o degassata secondo un accordo ai sensi dell’articolo 7.02 paragrafo 2.
 
-L’obbligo di restituire la stiva o la cisterna lavate incombe al destinatario del carico in caso di merci secche e al noleggiatore in caso di carichi liquidi se:
+Nel caso di:
 
-- a) prima dell’ultimo carico l’imbarcazione si trovava in quelle condizioni di pulizia e queste siano dimostrate mediante il certificato di scarico rilasciato per lo scarico precedente, nel caso in cui la pulitura incomba al destinatario del carico; e se
-- b) l’imbarcazione ha trasportato merci i cui residui di carico mischiati alle acque di lavaggio non possono essere immessi nei corsi d’acqua in virtù delle norme di scarico e delle prescrizioni di deposito e di ritiro di cui all’appendice III.
+- a) merci secche, al destinatario del carico incombe l’obbligo di restituire la stiva lavata se l’imbarcazione ha trasportato merci i cui residui di carico mischiati alle acque di lavaggio non possono essere immessi nei corsi d’acqua in virtù delle norme di scarico e delle prescrizioni di deposito e di ritiro di cui all’appendice III;
+- b)
 
-<sup>(3)</sup> I precedenti paragrafi 1 e 2 non si applicano alle stive e alle cisterne delle imbarcazioni che effettuano trasporti esclusivi.
+  carico liquido, al noleggiatore incombe l’obbligo di restituire:
+
+  - aa) la cisterna lavata se l’imbarcazione ha trasportato merci i cui residui di carico mischiati alle acque di lavaggio non possono essere immessi nei corsi d’acqua in virtù delle norme di scarico e delle prescrizioni di deposito e di ritiro di cui all’appendice III,
+  - bb) la cisterna degassata se l’imbarcazione ha trasportato merci i cui vapori non possono essere spurgati nell’atmosfera in virtù delle norme di degassaggio e delle prescrizioni di deposito e di ritiro di cui all’appendice IIIa.
+
+<sup>(3)</sup>
+
+Per l’applicazione dei paragrafi 1 e 2 vigono le seguenti eccezioni:
+
+- a) i paragrafi 1 e 2 non si applicano alle stive e alle cisterne delle imbarcazioni che effettuano trasporti esclusivi, purché in un carico successivo i vapori ai sensi dell’appendice IIIa siano catturati dall’impianto di trasbordo e non siano rilasciati nell’atmosfera. Il vettore deve poterlo dimostrare per scritto;
+- b) il paragrafo 2 non si applica alle stive e alle cisterne delle imbarcazioni che effettuano trasporti compatibili, purché in un carico successivo i vapori ai sensi dell’appendice IIIa siano catturati dall’impianto di trasbordo e non siano rilasciati nell’atmosfera. Il vettore deve poterlo dimostrare per iscritto; In questo caso, nel certificato di scarico deve essere apposta una crocetta nel campo 6b). Il documento deve essere conservato a bordo fino allo scarico del successivo trasporto compatibile;
+- c) se al momento dello scarico il carico successivo non è ancora noto, ma presumibilmente si tratterà di un carico compatibile, l’applicazione del paragrafo 2 può essere rimandata. Il noleggiatore (per un carico liquido) o il destinatario del carico (per le merci secche) deve designare provvisoriamente un centro di ritiro per l’acqua di lavaggio o per un degassaggio, che va registrato nel certificato di scarico. Inoltre nel certificato di scarico deve essere apposta una crocetta nel campo 6c). Non occorre indicare la quantità al numero 9.
+- Se, prima che il vettore faccia rotta verso il centro di ritiro indicato nel certificato di scarico, è comprovato che il carico successivo è compatibile, occorre darne riscontro nel campo 13 del certificato di scarico. In questo caso non è necessario lavare né degassare. In caso contrario si applicano pienamente le disposizioni sul lavaggio o sul degassaggio.
+- La prova riguardante la compatibilità del carico successivo deve essere conservata a bordo fino allo scarico del carico successivo compatibile.
 
 <sup>(4)</sup> Se dopo il periodo di scarico o dopo i giorni di stallia concordati, il destinatario del carico o il noleggiatore non restituisce l’imbarcazione conformemente alle disposizioni del presente articolo e dell’articolo 7.03, il vettore può ripristinare o far ripristinare le condizioni prescritte per l’imbarcazione. Tutte le spese occasionate, comprese quelle di controstallia, sono a carico del destinatario del carico o del noleggiatore, sempreché non siano imputabili a una colpa del vettore dell’imbarcazione.
+
+[^annexu1-chapIV-chapVII-704-1]: Cfr. Risoluzione CDNI 2016-I-4.
 
 #### Art. 7.05
 
@@ -707,6 +797,8 @@ L’obbligo di restituire la stiva o la cisterna lavate incombe al destinatario 
 <sup>(1)</sup> Per merci secche, il destinatario del carico è tenuto a ritirare le acque di lavaggio derivanti dal lavaggio conformemente all’articolo 7.04 paragrafo 2 o, d’intesa con il vettore dell’imbarcazione, a indicare al conduttore un centro di ritiro.
 
 <sup>(2)</sup> Nel contratto di trasporto, il noleggiatore di un carico liquido è tenuto a indicare al vettore dell’imbarcazione un centro di ritiro delle acque di lavaggio derivanti dal lavaggio conformemente all’articolo 7.04 paragrafo 2.
+
+(2a) Nel contratto di trasporto, il noleggiatore di un carico liquido da cui si producono vapori che rendono necessario un degassaggio conformemente all’articolo 7.04 paragrafo 2 è tenuto a indicare al vettore dell’imbarcazione un centro di ritiro presso il quale l’imbarcazione deve essere degassata dopo lo scarico (comprensivo dello scarico di resti e della rimozione dei residui del trasbordo).
 
 <sup>(3)</sup> Il centro di ritiro deve trovarsi nelle vicinanze dell’impianto di trasbordo o sul percorso che conduce al prossimo impianto di trasbordo raggiungibile dall’imbarcazione.
 
@@ -718,9 +810,20 @@ L’obbligo di restituire la stiva o la cisterna lavate incombe al destinatario 
 
 Nel caso di trasporti esclusivi per lo stesso noleggiatore, questi è tenuto a ritirare a proprie spese, prima delle operazioni di carico, le acque di precipitazione che sono penetrate nelle stive una volta terminato lo scarico precedente.
 
-<sup>(2)</sup> Per i carichi liquidi, il noleggiatore sostiene le spese causate dallo scarico dei residui e dal lavaggio delle cisterne conformemente all’articolo 7.04 nonché dal ritiro delle acque di lavaggio conformemente all’articolo 7.05 paragrafo 2, comprese eventuali spese di attesa e di deviazione.
+<sup>(2)</sup> comprese eventuali spese di attesa e di deviazione.
 
-<sup>(3)</sup> Sono a carico del vettore dell’imbarcazione le spese causate dal deposito delle acque di lavaggio provenienti da stive e da cisterne che non sono conformi alle norme di scarico prescritte.
+Per carichi liquidi, il noleggiatore sostiene le spese causate dallo scarico dei resti e:
+
+- a)
+
+  in caso di lavaggio, le spese:
+
+  - aa) del lavaggio delle cisterne conformemente all’articolo 7.04 paragrafo 2, nonché
+  - bb) del ritiro delle acque di lavaggio conformemente all’articolo 7.05 paragrafo 2;
+
+- b) in caso di degassaggio, le spese del degassaggio delle cisterne conformemente all’articolo 7.04 paragrafo 2 in combinato disposto con l’articolo 7.05 paragrafo 2a,
+
+<sup>(3)</sup> Sono a carico del vettore dell’imbarcazione le spese causate dal deposito delle acque di lavaggio provenienti da stive e da cisterne o le spese per il degassaggio delle cisterne non conformi alle norme prescritte.
 
 #### Art. 7.07
 
@@ -771,12 +874,9 @@ Gli Stati parte si impegnano a predisporre o a far predisporre installazioni di 
 
 <sup>(2)</sup> Al più tardi entro cinque anni a partire dall’entrata in vigore della presente Convenzione, gli Stati parte si impegnano a installare o far installare nei porti centri di ritiro per gli slops e per gli altri rifiuti speciali.
 
-<sup>(3)</sup>
+<sup>(3)</sup> Conformemente alle disposizioni dell’articolo 4 paragrafo 1 della presente Convenzione, gli Stati parte si impegnano a installare o a far installare centri di ritiro per acque di scarico domestiche presso determinati punti d’attracco utilizzati quali aree di sosta abituale o aree di sosta notturna.
 
-Conformemente alle disposizioni dell’articolo 4 paragrafo 1 della presente Convenzione, al più tardi entro la data indicata all’articolo 9.01 paragrafo 3, gli Stati parte si impegnano a installare o a far installare centri di ritiro per acque di scarico domestiche presso determinati punti d’attracco utilizzati quali aree di sosta abituale o aree di sosta notturna:
-
-- a) per imbarcazioni passeggeri cabinate con oltre 50 posti letto;
-- b) per imbarcazioni passeggeri omologate per il trasporto di oltre 50 passeggeri.
+I centri di ritiro presso i punti d’attracco delle imbarcazioni di cui all’articolo 9.01 paragrafo 3 devono essere installati entro la data indicata all’articolo 9.01 paragrafo 3.
 
 ### Capitolo IX Obblighi del conduttore
 
@@ -788,32 +888,49 @@ Conformemente alle disposizioni dell’articolo 4 paragrafo 1 della presente Con
 
 <sup>(2)</sup> Se i rifiuti menzionati nel paragrafo 1 sono fuoriusciti o rischiano di fuoriuscire, il conduttore deve informarne senza indugio le più vicine autorità competenti. Nel farlo, deve indicare nel modo più preciso possibile il luogo dell’accaduto, il quantitativo e il tipo di materiale fuoriuscito.
 
-<sup>(3)</sup> Negli altri casi, è autorizzata l’immissione nelle acque delle acque di scarico domestiche.
+<sup>(3)</sup> L’immissione di acque di scarico domestiche è vietata alle imbarcazioni passeggeri con oltre 12 passeggeri e alle imbarcazioni cabinate con oltre 12 posti letto. Per le imbarcazioni cabinate con meno di 50 posti letto e per le imbarcazioni passeggeri omologate per il trasporto di meno di 50 passeggeri, il divieto entra in vigore il 1° gennaio 2025.
 
-L’immissione di acque di scarico domestiche è vietata:
+<sup>(4)</sup> conformemente alle disposizioni applicabili del regolamento per l’ispezione dei battelli del Reno o della direttiva (UE) 2016/1629[^annexu1-chapIV-chapVIII-901-1].
 
-- a) alle imbarcazioni cabinate con oltre 50 posti letto: dal 1° gennaio 2005; e
-- b) alle imbarcazioni passeggeri omologate per il trasporto di oltre 50 passeggeri: dal 1° gennaio 2010.
+Questo divieto non si applica alle imbarcazioni passeggeri che:
 
-<sup>(4)</sup> Il divieto ai sensi del paragrafo 3 non si applica alle imbarcazioni passeggeri munite di impianti di depurazione a bordo omologati che rispettano i valori limite e di controllo di cui all’appendice V.
+- – non sono soggette alle prescrizioni tecniche sull’obbligo di equipaggiamento con cisterne di raccolta delle acque di scarico domestiche o impianti di depurazione a bordo; o
+- – beneficiano di un’esenzione individuale da tale obbligo,
 
 <sup>(5)</sup> Il divieto ai sensi del paragrafo 3 non si applica alle imbarcazioni marittime ormeggiate nei porti di mare situati sulle vie navigabili marittime e che sottostanno alla Convenzione internazionale sulla prevenzione dell’inquinamento causato da navi (MARPOL).
 
+[^annexu1-chapIV-chapVIII-901-1]: Direttiva (UE) 2016/1629 del Parlamento europeo e del Consiglio, del 14 settembre 2016, che stabilisce i requisiti tecnici per le navi adibite alla navigazione interna, che modifica la direttiva 2009/100/CE e che abroga la direttiva 2006/87/CE.
+
 #### Art. 9.02
 
-**Deroghe al divieto di immissione delle acque di scarico domestiche**
+**Deroghe al divieto di immissione delle acque di scarico domestiche**[^annexu1-chapIV-chapVIII-902-1]
 
 Per le imbarcazioni giusta l’articolo 9.01 paragrafo 3 per le quali il rispetto del divieto d’immissione per le acque di scarico domestiche è di difficile attuazione pratica o causerebbe costi sproporzionatamente elevati, gli Stati parte possono concordare una procedura adeguata per eccezioni e stabilire le condizioni alle quali tali eccezioni si possono considerare equivalenti.
+
+[^annexu1-chapIV-chapVIII-902-1]: Cfr. Risoluzione CDNI 2013-II-5.
 
 #### Art. 9.03
 
 **Raccolta e trattamento a bordo, deposito presso i centri di ritiro**
 
-<sup>(1)</sup> Il conduttore deve garantire che i rifiuti menzionati all’articolo 9.01 paragrafo 1 siano raccolti e depositati separatamente. Se possibile, le immondizie domestiche vanno consegnate separando la carta, il vetro, altri materiali riciclabili e altri rifiuti.
+<sup>(1)</sup>
+
+Il conduttore deve garantire che i rifiuti menzionati all’articolo 9.01 paragrafo 1 siano raccolti e depositati separatamente. Se possibile, le immondizie domestiche vanno consegnate separando:
+
+- – la carta;
+- – il vetro;
+- – le materie plastiche dure;
+- – i rifiuti di imballaggio (plastica, metallo e cartoni per bevande);
+- – i rifiuti residuali; e
+- – gli altri rifiuti.
 
 <sup>(2)</sup> È vietato bruciare a bordo i rifiuti menzionati nell’articolo 9.01 paragrafo 1.
 
-<sup>(3)</sup> Gli esercenti di imbarcazioni passeggeri munite di impianti di depurazione a bordo giusta l’appendice V, devono provvedere essi stessi in maniera adeguata al deposito regolamentare dei fanghi di depurazione contro certificato, in base alle disposizioni nazionali.
+<sup>(3)</sup> Gli esercenti di imbarcazioni passeggeri munite di impianti di depurazione a bordo giusta l’appendice V devono provvedere essi stessi in maniera adeguata al deposito regolamentare dei fanghi di depurazione contro certificato, in base alle disposizioni nazionali.
+
+<sup>(4)</sup> Il conduttore di un’imbarcazione passeggeri soggetta al divieto di immissione di acque di scarico domestiche ai sensi dell’articolo 9.01 paragrafo 3 deve garantire che le acque di scarico domestiche a bordo dell’imbarcazione siano raccolte in modo adeguato e depositate presso un centro o impianto di ritiro di cui all’articolo 8.02 paragrafo 3, se l’imbarcazione passeggeri non dispone di un impianto di depurazione a bordo giusta l’articolo 9.01 paragrafo 4.
+
+<sup>(5)</sup> I rifiuti raccolti di cui al paragrafo 1 vanno sistemati a bordo in recipienti di raccolta appropriati muniti dei pittogrammi corrispondenti.
 
 ### Capitolo X Obblighi dell’esercente del centro di ritiro
 
@@ -824,6 +941,32 @@ Per le imbarcazioni giusta l’articolo 9.01 paragrafo 3 per le quali il rispett
 <sup>(1)</sup> L’esercente del centro di ritiro deve garantire che i rifiuti menzionati all’articolo 9.01 paragrafo 1 possano essere depositati separatamente.
 
 <sup>(2)</sup> L’esercente del centro di ritiro deve certificare al conduttore il deposito di slops in base alle prescrizioni nazionali.
+
+### Parte D Disposizioni transitorie e deroghe
+
+### Capitolo XI Disposizioni transitorie e deroghe
+
+#### Art. 11.01
+
+**Disposizioni transitorie**
+
+Per l’applicazione delle disposizioni contenute nel presente annesso a seguito degli emendamenti apportati alla Convenzione per integrare il divieto di rilascio di vapori nell’atmosfera, valgono le seguenti disposizioni transitorie:
+
+- a) per i vapori delle merci elencate alla tabella I dell’appendice IIIa il divieto vige dal termine stabilito all’articolo 19 paragrafo 4 della Convenzione per l’entrata in vigore degli emendamenti;
+- b) per i vapori delle merci elencate alla tabella II dell’appendice IIIa il divieto vige a partire dallo scadere di un periodo di due anni dal momento di cui alla lettera a);
+- c) per i vapori delle merci elencate alla tabella III dell’appendice IIIa il divieto vige a partire dallo scadere di un periodo di tre anni dal momento di cui alla lettera a)[^annexu1-chapIV-partD-1101-1].
+
+[^annexu1-chapIV-partD-1101-1]: Purché una valutazione condotta a partire dal termine di cui alla lettera a giunga alla conclusione che non vi è alcun problema. In caso contrario, il divieto si applica allo scadere di un periodo di quattro anni dal momento di cui alla lettera a.
+
+#### Art. 11.02
+
+**Deroghe**
+
+Gli Stati parte possono, in casi specifici, concordare deroghe alle disposizioni del presente annesso purché possano essere considerate equivalenti. Le deroghe devono essere approvate dalla Conferenza delle Parti contraenti e possono essere autorizzate dalle autorità competenti con effetto immediato per il campo d’applicazione definito e alle condizioni stabilite.
+
+**Allegati**[^annexu1-chapIV-partD-1102-1]
+
+[^annexu1-chapIV-partD-1102-1]: Gli all. I–V non sono pubblicati nella RU né nella RS. Possono essere consultati sul sito Internet [www.cdni-iwt.org/ (Documents &gt; La Convention CDNI &gt; Convention consolidée)](https://www.cdni-iwt.org/la-convention-cdni/) oppure ottenuti presso il depositario: Commissione centrale per la navigazione sul Reno (CCNR), Palais du Rhin, 2 place de la République, F-67082 Strasburgo CEDEX.
 
 ### Campo d’applicazione il 13 ottobre 2009
 
