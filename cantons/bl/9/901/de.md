@@ -4,13 +4,13 @@ number: "901"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2019-08-01
-valid_until: 2022-12-31
-version_adopted: 2019-01-17
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-11-03
 adopted: 2008-02-21
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/901"
-pdf: "https://bl.clex.ch/api/de/versions/2450/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3933/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,15 @@ pdf: "https://bl.clex.ch/api/de/versions/2450/pdf_file"
 
 (GesG)
 
-Vom 21.02.2008 (Stand 01.08.2019)
+Vom 21.02.2008 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
-gestützt auf § 63 Absatz 1, § 110 und § 111 der Kantonsverfassung vom 17. Mai 1984[^ingress-1],
+gestützt auf § 63 Abs. 1, § 110 und § 111 der Kantonsverfassung vom 17. Mai 1984[^ingress-1],
 
 beschliesst:[^ingress-2]
 
-[^ingress-1]: GS 29.276, SGS [100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
 [^ingress-2]: Vom Landrat mit 4/5-Mehr beschlossen (LRV 2007/151). Referendumsfrist unbenützt abgelaufen am 24. April 2008.
 
 ## 1 Allgemeine Bestimmungen
@@ -41,6 +41,8 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Es zielt darauf ab, die Einwohner und Einwohnerinnen zur Erhaltung und Stärkung ihrer Gesundheit zu befähigen und für die Gesundheit günstige Lebensbedingungen zu fördern.
 
 <sup>3</sup> Es fördert das Verantwortungs-, Kosten- und Qualitätsbewusstsein der im Gesundheitswesen tätigen Fachpersonen und der Bevölkerung.
+
+<sup>4</sup> Es regelt die Medizinal- und Gesundheitsberufe in der Human- und Veterinärmedizin.
 
 #### § 2
 
@@ -59,6 +61,8 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Der Kanton vollzieht dieses Gesetz, sofern nicht ausdrücklich die Gemeinden als zuständig erklärt werden.
 
 <sup>2</sup> Der Kanton arbeitet beim Vollzug dieses Gesetzes mit dem Bund, mit anderen Kantonen, mit den Gemeinden und mit dem grenznahen Ausland zusammen.
+
+<sup>3</sup> Der Kanton kann Dritte zur Mitwirkung beim Vollzug des Gesetzes beiziehen und ihnen Aufgaben übertragen.
 
 ## 2 Gesundheitsbehörden
 
@@ -80,42 +84,33 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Gesundheitsdienste der Direktion sind:
 
-- a. der kantonsärztliche Dienst mit der Kantonsärztin oder dem Kantonsarzt;
-- b. der kantonszahnärztliche Dienst mit der Kantonszahnärztin oder dem Kantonszahnarzt;
-- c. der Kantonsapothekerdienst (Kontrollstelle für Heil- und Betäubungsmittel) mit der Kantonsapothekerin oder dem Kantonsapotheker;
-- d. der Kantonsveterinärdienst mit der Kantonstierärztin oder dem Kantonstierarzt;
-- e. das kantonale Laboratorium mit der Kantonschemikerin oder dem Kantonschemiker.
-
-<sup>2</sup> Die Gesundheitsdienste handeln in ihren Vollzugs- und Aufsichtsbereichen stellvertretend für die Direktion. Diese kann auch die Zuständigkeit zum Erlass von Verfügungen an die Gesundheitsdienste delegieren.
+- a. das Amt für Gesundheit, insbesondere mit:
+  - 1\. der Kantonsärztin oder dem Kantonsarzt;
+  - 2\. der Kantonszahnärztin oder dem Kantonszahnarzt;
+  - 3\. der Kantonsapothekerin oder dem Kantonsapotheker;
+- b. das Amt für Lebensmittelsicherheit und Veterinärwesen, insbesondere mit:
+  - 1\. der Kantonstierärztin oder dem Kantonstierarzt;
+  - 2\. der Kantonschemikerin oder dem Kantonschemiker.
 
 #### § 6
 
 **Ständige Kommissionen**
 
-<sup>1</sup> Ständige Kommissionen nach diesem Gesetz sind:
+<sup>1</sup> Der Regierungsrat kann für bestimmte Aufgabengebiete Kommissionen bilden. Er regelt die Zusammensetzung, die Wahl und die Tätigkeit der Kommissionen.
 
-- a. ...
-- b. die Ethikkommission;
-- c. die Kommission für Drogenfragen;
-- d. die Kommission für stationäre Drogentherapien;
-- e. ...
-- f. die Rettungskommission;
-- g. …
-- h. die Kommission für Gesundheitsförderung und Prävention.
-
-<sup>2</sup> Der Regierungsrat ordnet die Zusammensetzung und Tätigkeit der Kommissionen. Er kann ihnen in ihren Fachbereichen eigenständige Entscheidbefugnisse zuweisen.
+<sup>2</sup> Die Kommissionen beraten und unterstützen den Regierungsrat, die Direktion und die Gesundheitsdienste bei der Erfüllung ihrer Aufgaben. Sie treffen Entscheide, soweit sie durch ein Gesetz dazu ermächtigt werden.
 
 <sup>3</sup> Der Regierungsrat kann gemeinsame Kommissionen mit anderen Kantonen vorsehen und die entsprechenden Vereinbarungen abschliessen.
 
-## 3 Berufe im Gesundheitswesen
+## 3 Medizinal- und Gesundheitsberufe
 
 ## 3.1 Bewilligungs- und meldepflichtige Tätigkeiten
 
 #### § 7
 
-**Selbständige Tätigkeit**
+**Tätigkeit in eigener fachlicher Verantwortung**
 
-<sup>1</sup> Jede selbständige Tätigkeit, die auf Grund der für sie erforderlichen Ausbildung und Erfahrung in den Fachbereich eines Berufes fällt, der in diesem Gesetz geregelt ist, darf nur von Personen erbracht werden, die durch eine Bewilligung der Direktion zur Ausübung dieses Berufes berechtigt sind.
+<sup>1</sup> Jede Tätigkeit in eigener fachlicher Verantwortung, die aufgrund der für sie erforderlichen Ausbildung und Erfahrung in den Fachbereich eines Berufs fällt, der in diesem Gesetz geregelt ist, darf nur von Personen erbracht werden, die durch eine Bewilligung der Direktion zur Ausübung dieses Berufs berechtigt sind.
 
 #### § 8
 
@@ -130,15 +125,16 @@ beschliesst:[^ingress-2]
 
 **Verhältnis zum Sozialversicherungsrecht**
 
-<sup>1</sup> Die Bewilligung ist gesundheitspolizeilicher Natur und berechtigt nur zur Erbringung von Leistungen zu Lasten der Sozialversicherungen, wenn dies vom Bundesrecht vorgesehen ist.
+<sup>1</sup> Die Bewilligung ist gesundheitspolizeilicher Natur und berechtigt nur zur Erbringung von Leistungen zulasten der Sozialversicherungen, wenn dies vom Bundesrecht vorgesehen ist.
 
 #### § 10
 
 **Meldepflichtige Tätigkeiten**
 
-<sup>1</sup> Von der Bewilligungspflicht ausgenommen, jedoch einer Meldepflicht unterstellt sind, Personen, die:
+<sup>1</sup> Von der Bewilligungspflicht ausgenommen, jedoch einer Meldepflicht unterstellt sind Personen, die:
 
-- a. über eine ausserkantonale oder ausländische Berufsausübungsbewilligung verfügen und eine bewilligungspflichtige Tätigkeit in Anwendung des bilateralen Abkommens vom 21. Juni 1999 über die Personenfreizügigkeit während höchstens 90 Arbeitstagen pro Kalenderjahr im Kanton Basel-Landschaft ausüben.
+- a. über eine ausländische Berufsausübungsbewilligung verfügen und eine bewilligungspflichtige Tätigkeit in Anwendung des bilateralen Abkommens vom 21. Juni 1999[^10-1] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit während höchstens 90 Arbeitstagen pro Kalenderjahr als Dienstleistungserbringer im Kanton Basel-Landschaft ausüben;
+- a<sup>bis</sup>. über eine ausserkantonale Berufsausübungsbewilligung verfügen und eine bewilligungspflichtige Tätigkeit während höchstens 90 Arbeitstagen pro Kalenderjahr als Dienstleistungserbringer im Kanton Basel-Landschaft ausüben;
 - b. über eine ausserkantonale Berufsausübungsbewilligung verfügen und eine bewilligungspflichtige Tätigkeit im Kanton Basel-Landschaft ausüben, ohne eine Geschäftsniederlassung zu eröffnen.
 
 <sup>2</sup> Von der Meldepflicht ausgenommen sind Personen, die über eine Berufsausübungsbewilligung eines Nachbarkantons verfügen und von ihrer dortigen Niederlassung aus Hausbesuche im Kanton Basel-Landschaft durchführen.
@@ -147,20 +143,22 @@ beschliesst:[^ingress-2]
 
 <sup>4</sup> Der Regierungsrat regelt das Meldeverfahren.
 
+[^10-1]: [SR 0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/de)
+
 #### § 11
 
-**Unselbständige Tätigkeit**
+**Tätigkeit unter Aufsicht einer Fachperson mit Bewilligung zur fachlich eigenverantwortlichen Berufsausübung**
 
 <sup>1</sup> Einer Bewilligung der Direktion bedürfen:
 
-- a. Ärzte und Ärztinnen, Chiropraktoren und Chiropraktorinnen, Zahnärzte und Zahnärztinnen sowie Tierärzte und Tierärztinnen für die Beschäftigung von Stellvertreterinnen und Stellvertretern sowie von Assistenten und Assistentinnen;
-- b. Apotheker und Apothekerinnen sowie Drogisten und Drogistinnen für die Tätigkeit als Stellvertreter oder Stellvertreterin in einer Apotheke oder Drogerie.
+- a. Ärztinnen und Ärzte, Chiropraktorinnen und Chiropraktoren, Zahnärztinnen und Zahnärzte sowie Tierärztinnen und Tierärzte für die Beschäftigung von Assistentinnen und Assistenten;
+- b. Apothekerinnen und Apotheker sowie Drogistinnen und Drogisten für die Tätigkeit mit eingeschränkter Stellvertreterfunktion.
 
-<sup>2</sup> Stellvertreter und Stellvertreterinnen üben die Tätigkeit während einer zeitlich begrenzten Abwesenheit der Bewilligungsinhaberin oder des Bewilligungsinhabers aus. Im Falle des Todes der Bewilligungsinhaberin oder des Bewilligungsinhabers kann deren oder dessen Erben bewilligt werden, die Tätigkeit vorübergehend durch eine Stellvertreterin oder einen Stellvertreter ausüben zu lassen.
+<sup>2</sup> …
 
-<sup>3</sup> Assistenten und Assistentinnen üben die Tätigkeit für eine befristete Zeit zur Vervollständigung ihrer Weiterbildung oder unbefristet aus. Die Tätigkeit erfolgt unter der persönlichen Verantwortung und fachlichen Aufsicht der Bewilligungsinhaberin oder des Bewilligungsinhabers. Diese oder dieser muss von ihrer oder seiner Ausbildung her in der Lage sein, die Aufsicht auszuüben.
+<sup>3</sup> Assistentinnen und Assistenten üben die Tätigkeit für eine befristete Zeit zur Vervollständigung ihrer Weiterbildung aus. Die Tätigkeit erfolgt unter der persönlichen Verantwortung und fachlichen Aufsicht der Bewilligungsinhaberin oder des Bewilligungsinhabers. Diese oder dieser muss von ihrer oder seiner Ausbildung her in der Lage sein, die Aufsicht auszuüben.
 
-<sup>4</sup> Der Regierungsrat erlässt Ausführungsbestimmungen. Er kann dabei die Zahl der unselbständig tätigen Personen, welche eine selbstständig tätige Person anstellen darf, begrenzen.
+<sup>4</sup> Der Regierungsrat erlässt Ausführungsbestimmungen. Er kann dabei die Zahl der unter Aufsicht tätigen Personen, welche eine fachlich eigenverantwortlich tätige Person beaufsichtigen darf, begrenzen.
 
 #### § 12
 
@@ -170,31 +168,29 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Der Regierungsrat kann für solche Tätigkeiten Vorschriften über die Berufsausübung erlassen, wenn dies zum Schutz der Gesundheit erforderlich ist.
 
-## 3.2 Erteilung, Verfall, Entzug und Einschränkung der Bewilligung
+## 3.2 Erteilung, Entzug und Einschränkung der Bewilligung
 
 #### § 13
 
 **Allgemeine Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Voraussetzung für die Bewilligungserteilung ist, dass der Bewerber oder die Bewerberin:
+<sup>1</sup> Voraussetzung für die Erteilung einer Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung ist, dass die Bewerberin oder der Bewerber:
 
 - a. physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet;
-- b. vertrauenswürdig ist.
+- b. vertrauenswürdig ist;
+- c. über die notwendigen Kenntnisse der deutschen Sprache verfügt.
 
-<sup>2</sup> Zur Abklärung der Voraussetzung nach Absatz 1 lit. a darf die Direktion im Rahmen des Verfahrens betreffend Erteilung, Entzug oder Einschränkung einer Bewilligung eine Begutachtung anordnen. Wird die Bewilligung aufgrund eines Gutachtens nicht erteilt, entzogen, eingeschränkt oder mit Auflagen versehen, können die Kosten der Begutachtung ganz oder teilweise der betreffenden Person auferlegt werden.
+<sup>1<sup>bis</sup></sup> Für die Bewilligungserteilung der in der Bundesgesetzgebung geregelten Medizinal-, Psychologie- und Gesundheitsberufe gelten die in diesen Erlassen festgelegten Voraussetzungen.
 
-<sup>3</sup> Ab dem 70. Geburtstag ist die Bewilligungsinhaberin oder der Bewilligungsinhaber verpflichtet, den Weiterbestand der Voraussetzung nach Absatz 1 lit. a alle 2 Jahre durch ein ärztliches Zeugnis zu belegen.
+<sup>2</sup> Zur Abklärung der Voraussetzung nach Abs. 1 Bst. a darf die Direktion im Rahmen des Verfahrens betreffend Erteilung, Entzug oder Einschränkung einer Bewilligung eine Begutachtung anordnen. Wird die Bewilligung aufgrund eines Gutachtens nicht erteilt, entzogen, eingeschränkt oder mit Auflagen versehen, können die Kosten der Begutachtung ganz oder teilweise der betreffenden Person auferlegt werden.
 
-<sup>4</sup> Die Voraussetzung nach Absatz 1 lit. b ist insbesondere nicht gegeben, solange ein Eintrag im Zentralstrafregister aus einer Straftat besteht, die im Zusammenhang mit der Berufsausübung steht oder besonders verwerflich ist.
+<sup>3</sup> Ab dem 70. Geburtstag ist die Bewilligungsinhaberin oder der Bewilligungsinhaber verpflichtet, den Weiterbestand der Voraussetzung nach Abs. 1 Bst. a alle 2 Jahre durch ein ärztliches Zeugnis zu belegen.
+
+<sup>4</sup> Die Voraussetzung nach Abs. 1 Bst. b ist insbesondere nicht gegeben, solange ein Eintrag im Zentralstrafregister aus einer Straftat besteht, die im Zusammenhang mit der Berufsausübung steht oder besonders verwerflich ist.
 
 #### § 14
 
-**Bewilligungsverfall**
-
-<sup>1</sup> Die Bewilligung verfällt, wenn der Bewilligungsinhaber oder die Bewilligungsinhaberin:
-
-- a. eine bewilligte Praxis nicht innert 6 Monaten nach Erteilung der Bewilligung eröffnet oder
-- b. den Beruf während mehr als 6 Monaten nicht oder nicht im bewilligten Umfang ausübt und sofern die Bewilligung nicht durch die Direktion auf Gesuch hin aus wichtigen Gründen sistiert wird.
+**…**
 
 #### § 15
 
@@ -225,7 +221,7 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Bezüglich der Verjährung gelten die entsprechenden Bestimmungen des Medizinalberufegesetzes[^16-1].
 
-[^16-1]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
+[^16-1]: [SR 811.11](https://db.clex.ch/link/Bund/811.11/de)
 
 ## 3.4 Amtshilfe und Register
 
@@ -235,7 +231,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Gerichts- und Verwaltungsbehörden melden der Direktion unverzüglich Vorfälle, die für einen Entzug oder eine Einschränkung der Bewilligung oder für eine Disziplinarmassnahme erheblich sein können.
 
-<sup>2</sup> Im Zusammenhang mit der Erteilung, dem Entzug oder der Einschränkung von Bewilligungen und der Anordnung von Disziplinarmassnahme darf die Direktion Auskünfte von anderen Gerichts- und Verwaltungsbehörden einholen und den zuständigen Behörden des Bundes und anderer Kantone Meldungen erstatten und Auskünfte erteilen.
+<sup>2</sup> Im Zusammenhang mit der Aufsicht über die Medizinal- und Gesundheitsfachpersonen sowie die Betriebe darf die Direktion Auskünfte von inner- und ausserkantonalen Gerichts- und Verwaltungsbehörden einholen und den zuständigen Behörden des Bundes und anderer Kantone Meldungen erstatten und Auskünfte erteilen.
 
 <sup>3</sup> Die Kindes- und Erwachsenenschutzbehörden melden der Direktion, wenn Personen, die über eine Bewilligung zur Ausübung eines Berufs nach diesem Gesetz verfügen, im Register über Erwachsenenschutzmassnahmen eingetragen sind.
 
@@ -245,7 +241,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Direktion führt ein Register derjenigen Personen, die über eine Bewilligung zur Ausübung eines Berufs nach diesem Gesetz verfügen, soweit ein solches Register nicht bereits von einer Bundesbehörde geführt wird.
 
-<sup>2</sup> Die Bewilligungsinhaberinnen und -inhaber haben Änderungen, welche den Bewilligungsinhalt betreffen, unverzüglich der Direktion zu melden. Bei einer Verletzung der Meldepflicht kann die Direktion eine angemessene Umtriebsgebühr erheben.
+<sup>2</sup> Die Bewilligungsinhaberinnen und -inhaber haben Änderungen, welche den Bewilligungsinhalt betreffen, insbesondere die Aufgabe der Tätigkeit im Kanton, unverzüglich der Direktion zu melden. Bei einer Verletzung der Meldepflicht erhebt die Direktion eine angemessene Umtriebsgebühr.
 
 <sup>3</sup> Das Register kann in geeigneter Form der Öffentlichkeit zugänglich gemacht werden.
 
@@ -259,7 +255,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat die bewilligte Tätigkeit persönlich und unmittelbar an der Patientin oder am Patienten auszuüben.
 
-<sup>2</sup> Einzelne fachliche Tätigkeiten können an Personen delegiert werden, welche dafür hinreichend ausgebildet sind. Als hinreichende Ausbildung gilt in der Regel eine Ausbildung, welche zur selbständigen Berufsausübung berechtigt, oder ein eidgenössisch anerkannter Berufsabschluss für die entsprechende Tätigkeit. Vorbehalten bleibt § 11 sowie die Beschäftigung von Personen im Rahmen einer geregelten Ausbildung.
+<sup>2</sup> Einzelne fachliche Tätigkeiten können an Personen delegiert werden, welche dafür hinreichend ausgebildet sind. Als hinreichende Ausbildung gilt in der Regel eine Ausbildung, welche zur fachlich eigenverantwortlichen Berufsausübung berechtigt, oder ein eidgenössisch anerkannter Berufsabschluss für die entsprechende Tätigkeit. Vorbehalten bleibt § 11 sowie die Beschäftigung von Personen im Rahmen einer geregelten Ausbildung.
 
 <sup>3</sup> Die delegierte Tätigkeit erfolgt unter der persönlichen Verantwortung und fachlichen Aufsicht der Bewilligungsinhaberin oder des Bewilligungsinhabers. Diese oder dieser muss von ihrer oder seiner Ausbildung her in der Lage sein, die Aufsicht auszuüben.
 
@@ -271,11 +267,11 @@ beschliesst:[^ingress-2]
 
 #### § 21
 
-**Öffentlichen Apotheken und Drogerien**
+**Öffentliche Apotheken und Drogerien**
 
 <sup>1</sup> Apotheker und Apothekerinnen sowie Drogisten und Drogistinnen haben die bewilligte Tätigkeit hauptberuflich und persönlich auszuüben.
 
-<sup>2</sup> Apotheker und Apothekerinnen dürfen nur eine Apotheke, Drogisten und Drogistinnen nur eine Drogerie führen. Sie sind verpflichtet, während der Öffnungszeiten und des Notfalldienstes anwesend zu sein, soweit nicht bei zeitlich begrenzter Abwesenheit ein Stellvertreter oder eine Stellvertreterin mit Bewilligung beigezogen wird.
+<sup>2</sup> Apotheker und Apothekerinnen sowie Drogisten und Drogistinnen dürfen nur 1 Betrieb führen. Sie sind verpflichtet, während der Öffnungszeiten und des Notfalldiensts anwesend zu sein, soweit nicht bei zeitlich begrenzter Abwesenheit eine andere Person mit Bewilligung zur fachlich eigenverantwortlichen Tätigkeit oder mit Bewilligung zur eingeschränkten Stellvertretung die Führung des Betriebs übernimmt.
 
 <sup>3</sup> Die Apothekerin, der Apotheker, die Drogistin oder der Drogist muss sich, wenn sie oder er nicht zugleich Eigentümerin oder Eigentümer der Apotheke oder der Drogerie ist, die zur fachgerechten und gesetzeskonformen Führung erforderliche Unabhängigkeit vertraglich zusichern lassen.
 
@@ -288,15 +284,16 @@ beschliesst:[^ingress-2]
 <sup>2</sup> Sie sind von der Schweigepflicht befreit:
 
 - a. bei Einwilligung der oder des Berechtigten;
-- b. mit schriftlicher Bewilligung der Direktion als Aufsichtsbehörde im Sinne des Artikels 321 Ziffer 2 StGB;
+- b. mit schriftlicher Bewilligung der Direktion als Aufsichtsbehörde im Sinne des Art. 321 Ziff. 2 StGB[^22-1];
 - c. zur Durchsetzung von Forderungen aus dem Behandlungsverhältnis gegenüber den gesetzlich vorgesehenen Instanzen;
-- d. gegenüber der Strafverfolgungsbehörde in Bezug auf Wahrnehmungen, die auf ein verübtes oder drohendes Verbrechen oder Vergehen gegen Leib und Leben, die öffentliche Gesundheit oder die sexuelle Integrität schliessen lassen.
+- d. gegenüber der Strafverfolgungsbehörde in Bezug auf Wahrnehmungen, die auf ein verübtes oder drohendes Verbrechen oder Vergehen gegen Leib und Leben, die öffentliche Gesundheit oder die sexuelle Integrität schliessen lassen;
 - e. zur Verteidigung in zivil- und strafrechtlichen Verfahren sowie in Verfahren medizinischer Staatshaftung;
-- f. gegenüber der bei medizinischen Massnahmen vertretungsberechtigten Person gemäss Art. 378 ZGB[^22-1];
+- f. gegenüber der bei medizinischen Massnahmen vertretungsberechtigten Person gemäss Art. 378 ZGB[^22-2];
 - g. gegenüber den in § 45 Abs. 2 und 3 erwähnten Bezugs- und Fachpersonen während der jeweiligen Behandlungsdauer;
 - h. gegenüber der für das Bedrohungsmanagement zuständigen Stelle betreffend Personen mit einer erhöhten, gegen andere Personen gerichteten Gewaltbereitschaft, wenn Gewalt konkret angedroht oder in anderer Weise in Aussicht gestellt worden ist und die physische, psychische oder sexuelle Integrität anderer Personen schwer beeinträchtigen würde.
 
-[^22-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^22-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^22-2]: [SR 210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 23
 
@@ -326,6 +323,16 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Der Regierungsrat kann für einzelne Tätigkeiten besondere Vorschriften über die Infrastruktur erlassen.
 
+#### § 25a
+
+**Pflichten gegenüber der Aufsichtsbehörde**
+
+<sup>1</sup> Im Rahmen der gesundheitspolizeilichen Aufsicht ist der zuständigen Behörde jederzeit Zutritt zu den Räumlichkeiten und Einrichtungen zu gewähren.
+
+<sup>2</sup> Die Aufsichtsbehörde kann Einsicht in Daten und Unterlagen nehmen, Proben entnehmen, Beweise sichern sowie Unterlagen und Gegenstände beschlagnahmen.
+
+<sup>3</sup> Sie kann illegale Bekanntmachungen beseitigen sowie Praxen und Betriebe schliessen.
+
 #### § 26
 
 **Werbung**
@@ -344,7 +351,7 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Der Kanton kann sich im Rahmen einer Leistungsvereinbarung zwischen der Direktion und der zuständigen Berufsorganisation an der Organisation des Notfalldienstes beteiligen.
 
-<sup>4</sup> Personen mit Bewilligung zur selbständigen oder unselbständigen Berufsausübung sind verpflichtet, sich in der Regel persönlich am entsprechenden Notfalldienst zu beteiligen, sofern sie von ihrer Berufsorganisation nicht von der Dienstleistung befreit worden sind, auch wenn sie ihrer Berufsorganisation nicht angehören.
+<sup>4</sup> Personen mit Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung sind verpflichtet, sich persönlich am entsprechenden Notfalldienst zu beteiligen, sofern sie von ihrer Berufsorganisation nicht von der Dienstleistung befreit worden sind. Dies gilt auch, wenn sie ihrer Berufsorganisation nicht angehören.
 
 <sup>5</sup> Die Berufsorganisation erlässt ein Reglement über den Notfalldienst und reicht dieses der Direktion zur Genehmigung ein.
 
@@ -354,7 +361,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Berufsorganisation kann von Personen, die keinen Notfalldienst leisten, eine Ersatzabgabe erheben. Die Ersatzabgabe ist zweckgebunden für die Deckung der Kosten der Organisation und Durchführung des Notfalldienstes zu verwenden.
 
-<sup>2</sup> Die Höhe der Ersatzabgabe beträgt bis zu CHF 6'000 pro Jahr und orientiert sich an der Anzahl nicht geleisteter Dienste. Sie kann bei Personen, die aus triftigen Gründen wie Krankheit, Schwangerschaft, Betreuung von Kindern oder Erreichen des 55. Altersjahrs von der Dienstleistung ganz oder teilweise befreit worden sind, angemessen reduziert werden.
+<sup>2</sup> Die Höhe der Ersatzabgabe beträgt bis zu CHF 6'000.– pro Jahr und orientiert sich an der Anzahl nichtgeleisteter Dienste. Sie kann bei Personen, die aus triftigen Gründen wie Krankheit, Schwangerschaft, Betreuung von Kindern oder Erreichen einer Altersgrenze von der Dienstleistung ganz oder teilweise befreit worden sind, angemessen reduziert werden.
 
 #### § 28
 
@@ -368,17 +375,17 @@ beschliesst:[^ingress-2]
 
 #### § 29
 
-**Universitäre Medizinalberufe**
+**Medizinalberufe**
 
-<sup>1</sup> Die Bewilligung zur selbständigen oder unselbständigen Tätigkeit als Ärztin oder Arzt, Chiropraktorin oder Chiropraktor, Zahnärztin oder Zahnarzt, Tierärztin oder Tierarzt sowie als Apothekerin oder Apotheker wird an Personen erteilt, welche über ein eidgenössisches oder eidgenössisch anerkanntes Diplom und, wo vom Bundesrecht gefordert, einen eidgenössischen oder eidgenössisch anerkannten Weiterbildungstitel verfügen.
+<sup>1</sup> Die fachlichen Voraussetzungen für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung in einem Medizinalberuf richten sich nach der Bundesgesetzgebung.
 
-<sup>2</sup> Der Regierungsrat kann für eine unselbständige Tätigkeit weniger hohe Anforderungen festlegen.
+<sup>2</sup> …
 
 #### § 30
 
-**Weitere Leistungserbringer in der obligatorischen Krankenpflegeversicherung**
+**Berufe gemäss Bundesgesetz über die Gesundheitsberufe**
 
-<sup>1</sup> Die Bewilligung zur selbständigen Tätigkeit als, Hebamme, Physiotherapeutin oder Physiotherapeut, Ergotherapeutin oder Ergotherapeut, Pflegefachfrau oder Pflegefachmann, Logopädin und Logopäde sowie als Ernährungsberaterin oder Ernährungsberater wird an Personen erteilt, welche die Voraussetzungen erfüllen, um Leistungen zu Lasten der obligatorischen Krankenpflegeversicherung zu erbringen.
+<sup>1</sup> Die fachlichen Voraussetzungen für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung in einem Gesundheitsberuf richten sich nach der Bundesgesetzgebung.
 
 #### § 31
 
@@ -392,48 +399,42 @@ beschliesst:[^ingress-2]
 
 **Psychologische Psychotherapie**
 
-<sup>1</sup> Die Bewilligung zur selbständigen psychotherapeutischen Tätigkeit in eigenerer fachlicher Verantwortung wird an Personen erteilt, welche die Voraussetzungen der Bundesgesetzgebung über die Psychologieberufe erfüllen.
+<sup>1</sup> Die fachlichen Voraussetzungen für die Bewilligung zur psychotherapeutischen Tätigkeit in eigener fachlicher Verantwortung richten sich nach der Bundesgesetzgebung über die Psychologieberufe.
 
 <sup>2</sup> Die praktische psychotherapeutische Tätigkeit im Rahmen eines akkreditierten Weiterbildungsgangs gemäss Bundesgesetzgebung über die Psychologieberufe, ist ohne Bewilligung zulässig unter der persönlichen Verantwortung und fachlichen Aufsicht einer Ärztin, eines Arztes, einer Psychotherapeutin oder eines Psychotherapeuten. Diese Fachperson muss von ihrer Ausbildung her in der Lage sein, die Aufsicht auszuüben.
 
 #### § 33
 
-**Komplementärmedizin**
+**Naturheilpraktik**
 
-<sup>1</sup> Die selbständige Ausübung folgender komplementärmedizinischer Tätigkeiten an Mensch und Tier ist bewilligungspflichtig:
+<sup>1</sup> Die fachlich eigenverantwortliche Ausübung folgender naturheilpraktischer Tätigkeiten an Mensch und Tier ist bewilligungspflichtig:
 
-- a. Naturheilpraktik;
+- a. Traditionelle Europäische Naturheilkunde;
 - b. Homöopathie;
-- c. Traditionelle Chinesische Medizin in jeder Form;
-- d. Akupunktur;
+- c. Traditionelle Chinesische Medizin;
+- d. …
 - e. Ayurveda-Medizin;
-- f. Osteopathie;
-- g. Phytotherapie in jeder Form;
-- h. Physiotherapie bei Tieren;
-- i. andere komplementärmedizinische Methoden, die nicht ausschliesslich der Hebung des Wohlbefindens dienen.
+- f. …
+- g. …
+- h. …
+- i. andere naturheilpraktische Methoden, die nicht ausschliesslich der Hebung des Wohlbefindens dienen.
 
-<sup>2</sup> Die Bewilligung zur selbständigen komplementärmedizinischen Tätigkeit wird an Personen erteilt, die einen eidgenössisch oder gesamtschweizerisch anerkannten komplementärmedizinischen Ausbildungsabschluss nachweisen können.
+<sup>2</sup> Die Bewilligung zur fachlich eigenverantwortlichen naturheilpraktischen Tätigkeit wird an Personen erteilt, die einen eidgenössisch anerkannten naturheilpraktischen Ausbildungsabschluss nachweisen können.
 
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten. So lange in einer komplementärmedizinischen Fachrichtung kein Ausbildungsabschluss gemäss Absatz 2 besteht sowie während einer angemessenen Übergangsfrist zum Erwerb dieses Abschlusses, kann er vorsehen, dass die Bewilligung zur selbständigen komplementärmedizinischen Tätigkeit auch an Personen erteilt wird, die:
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten. Solange in einer naturheilpraktischen Fachrichtung kein Ausbildungsabschluss gemäss Abs. 2 besteht sowie während einer angemessenen Übergangsfrist zum Erwerb dieses Abschlusses, kann er vorsehen, dass die Bewilligung zur fachlich eigenverantwortlichen naturheilpraktischen Tätigkeit auch an Personen erteilt wird, die:
 
-- a. einen anderen komplementärmedizinischen Ausbildungsabschluss nachweisen können, der mindestens eine medizinische bzw. veterinärmedizinische Grundlagenprüfung sowie eine ausreichende theoretische und praktische Ausbildung in der entsprechenden komplementärmedizinischen Fachrichtung umfasst, oder
-- b. die Voraussetzungen für die Erteilung einer Bewilligung zur selbständigen Tätigkeit in einem universitären Medizinalberuf, als Pflegefachfrau oder Pflegefachmann oder als Physiotherapeutin oder Physiotherapeut erfüllen sowie eine ausreichende theoretische und praktische Ausbildung in der entsprechenden komplementärmedizinischen Fachrichtung absolviert haben.
+- a. einen anderen naturheilpraktischen Ausbildungsabschluss nachweisen können, der mindestens eine medizinische Grundlagenprüfung sowie eine ausreichende theoretische und praktische Ausbildung in der entsprechenden naturheilpraktischen Fachrichtung umfasst, oder
+- b. die Voraussetzungen für die Erteilung einer Bewilligung zur fachlich eigenverantwortlichen Tätigkeit in einem Medizinalberuf, als Pflegefachfrau oder Pflegefachmann oder als Physiotherapeutin oder Physiotherapeut erfüllen sowie eine ausreichende theoretische und praktische Ausbildung in der entsprechenden naturheilpraktischen Fachrichtung absolviert haben.
 
 #### § 34
 
-**Augenoptikerinnen und -optiker**
-
-<sup>1</sup> Die Bewilligung zur selbständigen Tätigkeit als Augenoptikerin oder Augenoptiker mit umfassenden Befugnissen wird Personen erteilt, welche die höhere Fachprüfung (eidg. dipl. Augenoptiker) bestanden oder ein Fachhochschulstudium (Optometristin oder Optometrist FH) absolviert haben.
-
-<sup>2</sup> Die Bewilligung zur selbständigen Tätigkeit als Augenoptikerin oder Augenoptiker mit eingeschränkten Befugnissen wird Personen erteilt, die über das eidgenössische Fähigkeitszeugnis für gelernte Augenoptiker verfügen und eine 4-jährige Berufspraxis nach dem Lehrabschluss nachweisen.
-
-<sup>3</sup> Der Regierungsrat regelt die Befugnisse im Einzelnen und kann Bestimmungen über die Berufsausübung erlassen.
+**…**
 
 #### § 35
 
 **Weitere gesamtschweizerisch anerkannte Gesundheitsberufe**
 
-<sup>1</sup> Die Bewilligung zur selbständigen Tätigkeit in weiteren Gesundheitsberufen, namentlich als Medizinische Masseurin oder Masseur, Podologin oder Podologe sowie als Dentalhygienikerin oder Dentalhygieniker, wird an Personen erteilt, welche über einen gesamtschweizerisch anerkannten Fähigkeitsausweis oder ein gesamtschweizerisch anerkanntes Diplom verfügen.
+<sup>1</sup> Die Bewilligung zur fachlich eigenverantwortlichen Tätigkeit in weiteren Gesundheitsberufen, namentlich als Logopädin oder Logopäde, Medizinische Masseurin oder Masseur, Podologin oder Podologe, Dentalhygienikerin oder Dentalhygieniker, als Tierphysiotherapeutin oder Tierphysiotherapeut sowie als Tierosteopathin oder Tierosteopath wird an Personen erteilt, welche über einen gesamtschweizerisch anerkannten Berufsabschluss verfügen.
 
 <sup>2</sup> Der Regierungsrat kann für einzelne Berufe die fachlichen Voraussetzungen für die Erteilung der Bewilligung näher regeln und Bestimmungen über die Berufsausübung und Befugnisse erlassen.
 
@@ -445,7 +446,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Spitäler und Kliniken sowie deren Abteilungen und Disziplinen sind fachlich durch Ärztinnen oder Ärzte zu führen, die eine Bewilligung nach diesem Gesetz haben.
 
-<sup>2</sup> Die Spitäler sind berechtigt, Assistentinnen und Assistenten unter der Verantwortung der Ärztinnen und Ärzte mit Bewilligung gemäss Absatz 1 zu beschäftigen, die mindestens über eine dem schweizerischen Hochschulstudium gleichwertige Ausbildung verfügen.
+<sup>2</sup> Die Spitäler sind berechtigt, Assistentinnen und Assistenten unter der Verantwortung der Ärztinnen und Ärzte mit Bewilligung gemäss Abs. 1 zu beschäftigen, die mindestens über eine dem schweizerischen Hochschulstudium gleichwertige Ausbildung verfügen.
 
 #### § 37
 
@@ -463,23 +464,25 @@ beschliesst:[^ingress-2]
 
 **Voraussetzungen**
 
-<sup>1</sup> Die Betriebsbewilligung wird erteilt, wenn die Institution:
+<sup>1</sup> Die Betriebsbewilligung wird erteilt, wenn der Betrieb:
 
 - a. über eine Infrastruktur verfügt, welche den Anforderungen an eine sorgfältige Berufsausübung genügt;
 - b. über das für eine fachgerechte Tätigkeit erforderliche Personal verfügt;
-- c. eine leitende Person gemäss Absatz 2 bezeichnet hat, welche für die Einhaltung der gesundheitspolizeilichen Vorschriften verantwortlich ist;
-- d. die besonderen fachlichen Voraussetzungen gemäss Absatz 3 erfüllt.
+- c. eine fachlich verantwortliche Person gemäss Abs. 2 bezeichnet hat, welche für die Einhaltung der gesundheitspolizeilichen Vorschriften verantwortlich ist;
+- d. die besonderen fachlichen Voraussetzungen gemäss Abs. 3 und Abs. 3<sup>bis</sup> erfüllt.
 
-<sup>2</sup> Die leitende Person muss die fachlichen und persönlichen Voraussetzungen für eine Bewilligung zur selbständigen Tätigkeit nach diesem Gesetz erfüllen, welche das Tätigkeitsgebiet der Institution abdeckt;
+<sup>2</sup> Die verantwortliche Person muss die Voraussetzungen für eine Bewilligung zur fachlich eigenverantwortlichen Tätigkeit nach diesem Gesetz erfüllen, welche das Tätigkeitsgebiet des Betriebs abdeckt.
 
-<sup>3</sup> Die Bewilligung wird unter folgenden besonderen fachlichen Voraussetzungen erteilt:
+<sup>3</sup> Die Bewilligung für die nachfolgend erwähnten Betriebe wird unter folgenden besonderen fachlichen Voraussetzungen erteilt:
 
 - a. …
-- b. an Geburtshäuser, wenn sie die Voraussetzungen erfüllen, um Leistungen zu Lasten der obligatorischen Krankenpflegeversicherung zu erbringen;
-- c. an medizinischen Laboratorien und Blutspendedienste, wenn sie die Voraussetzungen erfüllen, um Leistungen zu Lasten der obligatorischen Krankenpflegeversicherung zu erbringen, soweit das Bundesrecht nicht etwas anderes vorsieht;
-- d. an Krankentransport- und Rettungsunternehmen, wenn sie gesamtschweizerisch anerkannten Qualitätsanforderungen entsprechen.
+- b. an Leistungserbringer nach dem Bundesgesetz über die Krankenversicherung, wenn sie die Voraussetzungen erfüllen, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung zu erbringen;
+- c. an medizinische Laboratorien und Blutspendedienste, wenn sie die Voraussetzungen erfüllen, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung zu erbringen, soweit das Bundesrecht nicht etwas Anderes vorsieht;
+- d. an Krankentransport- und Rettungsunternehmen, wenn sie über eine Anerkennung einer gesamtschweizerischen Fachorganisation verfügen.
 
-<sup>4</sup> Im Übrigen gelten die Bestimmungen über die Erteilung und den Entzug der Bewilligungen für die Berufsausübung im Gesundheitsbereich sinngemäss.
+<sup>3<sup>bis</sup></sup> Der Regierungsrat kann die Voraussetzungen für die Erteilung der Betriebsbewilligung näher regeln.
+
+<sup>4</sup> Im Übrigen gelten die Bestimmungen über die Erteilung und den Entzug der Bewilligungen für die fachlich eigenverantwortliche Berufsausübung im Gesundheitsbereich sinngemäss.
 
 ## 5 Rechte und Pflichten der Patientinnen und Patienten
 
@@ -487,7 +490,7 @@ beschliesst:[^ingress-2]
 
 **Geltungsbereich**
 
-<sup>1</sup> Die in diesem Abschnitt festgehaltenen Patientenrechte gelten für die Untersuchung und Behandlung von Patientinnen und Patienten in öffentlichen und privaten Spitälern, in Alters- und Pflegeheimen, in der ambulanten Krankenpflege sowie bei den Inhaberinnen und Inhabern einer Berufsausübungsbewilligung nach diesem Gesetz.
+<sup>1</sup> Die in diesem Abschnitt festgehaltenen Patientenrechte gelten für die Untersuchung und Behandlung von Patientinnen und Patienten in öffentlichen und privaten Spitälern, in Alters- und Pflegeheimen, in der ambulanten Krankenpflege sowie bei den Inhaberinnen und Inhabern einer Bewilligung zur fachlich eigenverantwortlichen Berufsausübung nach diesem Gesetz.
 
 <sup>2</sup> Vorbehalten bleiben gesetzlich vorgesehene Zwangsmassnahmen.
 
@@ -531,7 +534,9 @@ beschliesst:[^ingress-2]
 
 **Behandlung urteilsunfähiger Personen**
 
-<sup>1</sup> Die Behandlung urteilsunfähiger Patientinnen und Patienten richtet sich nach den Bestimmungen von Artikel 377 ff. ZGB.
+<sup>1</sup> Die Behandlung urteilsunfähiger Patientinnen und Patienten richtet sich nach den Bestimmungen von Art. 377 ff. ZGB[^43-1].
+
+[^43-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 43a
 
@@ -593,11 +598,11 @@ beschliesst:[^ingress-2]
 - a. Auskünfte an Bezugspersonen;
 - b. medizinisch notwendige Auskünfte an die zuweisenden und nachbehandelnden Ärztinnen und Ärzte sowie an andere Fachpersonen, welche die Behandlung und Betreuung unmittelbar übernehmen.
 
-<sup>3</sup> Wurden von der Patientin oder vom Patienten keine Personen bezeichnet, gelten als Bezugspersonen die Personen gemäss Art. 378 Absatz 1 ZGB[^45-1].
+<sup>3</sup> Wurden von der Patientin oder vom Patienten keine Personen bezeichnet, gelten als Bezugspersonen die Personen gemäss Art. 378 Abs. 1 ZGB[^45-1].
 
 <sup>4</sup> Vorbehalten bleiben gesetzliche Auskunftspflichten und -rechte sowie Auskünfte aufgrund einer Entbindung vom Berufsgeheimnis durch die Aufsichtsbehörde.
 
-[^45-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^45-1]: [SR 210](https://db.clex.ch/link/Bund/210/de)
 
 #### § 46
 
@@ -656,8 +661,8 @@ beschliesst:[^ingress-2]
 
 <sup>3</sup> Die Direktion kann die Dauer und den Umfang einer Bewilligung einschränken.
 
-[^50-1]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
-[^50-2]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
+[^50-1]: [SR 812.21](https://db.clex.ch/link/Bund/812.21/de)
+[^50-2]: [SR 812.21](https://db.clex.ch/link/Bund/812.21/de)
 
 #### § 51
 
@@ -703,6 +708,14 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Niedergelassenen Ärztinnen und Ärzten, Belegärztinnen und Belegärzten sowie konsiliarisch tätigen Ärztinnen und Ärzten ist die direkte Abgabe von Heilmitteln an die stationären Patientinnen und Patienten in Spitälern, Kliniken und Heimen untersagt. Der Regierungsrat kann Ausnahmen vorsehen.
 
+#### § 55a
+
+**Massnahmen gegen Missbrauch von kontrollierten Substanzen**
+
+<sup>1</sup> Personen, die kontrollierte Substanzen verordnen oder abgeben, haben jedem Missbrauch dieser Substanzen entgegenzuwirken. Bei Verdacht auf Missbrauch ist die Verordnung und Abgabe von kontrollierten Substanzen zu verweigern und der Direktion unverzüglich Meldung zu erstatten.
+
+<sup>2</sup> Die Direktion kann bei Verdacht auf Missbrauch den Bezug von kontrollierten Substanzen durch bestimmte Personen einschränken oder sperren und die Abgabestellen sowie die Aufsichtsbehörden anderer Kantone darüber informieren.
+
 #### § 56
 
 **Ausführungsbestimmungen**
@@ -731,9 +744,10 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die kantonale Gesundheitsförderung und Prävention hat folgende Aufgaben:
 
-- a. Sie unterstützt die Behörden von Kanton und Gemeinden sowie private Organisationen und Fachleute darin, im Rahmen ihrer Tätigkeiten die Gesundheit der Einwohnerinnen und Einwohner zu verbessern und Lebensbedingungen zu schaffen, die der Gesundheit zuträglich sind;
-- b. sie unterstützt die Menschen darin, für sich selbst und für andere zu sorgen und selber Entscheidungen über die eigenen Lebensumstände zu fällen;
-- c. sie fördert Massnahmen, die Kindern und Jugendlichen ein gesundes Aufwachsen ermöglichen und die Eltern in ihrer Erziehungsaufgabe begleiten.
+- a. Sie unterstützt die Behörden von Kanton und Gemeinden sowie private Organisationen und Fachleute darin, im Rahmen ihrer Tätigkeiten die Gesundheit der Einwohnerinnen und Einwohner zu verbessern und Lebensbedingungen zu schaffen, die der Gesundheit zuträglich sind.
+- b. Sie unterstützt die Menschen darin, für sich selbst und für andere zu sorgen und selber Entscheidungen über die eigenen Lebensumstände zu fällen.
+- c. Sie fördert Massnahmen, die Kindern, Jugendlichen und Adoleszenten ein gesundes Aufwachsen ermöglichen und die Eltern in ihrer Erziehungsaufgabe begleiten.
+- d. Sie fördert Massnahmen zur Erhaltung der Gesundheit und Selbständigkeit der älteren Bevölkerung.
 
 <sup>2</sup> Der Kanton erfüllt diese Aufgaben durch:
 
@@ -782,7 +796,7 @@ beschliesst:[^ingress-2]
 
 <sup>2</sup> Erleiden dieselben Personen durch Arbeitsunterbruch infolge angeordneter Massnahmen einen Erwerbsausfall, so kann ihnen der Kanton eine Entschädigung ausrichten.
 
-<sup>3</sup> Angeordnete mikrobiologische und serologische Untersuchungen gehen zu Lasten des Kantons, sofern es sich nicht um Pflichtleistungen der Krankenversicherung handelt.
+<sup>3</sup> Angeordnete mikrobiologische und serologische Untersuchungen gehen zulasten des Kantons, sofern es sich nicht um Pflichtleistungen der Krankenversicherung handelt.
 
 #### § 64
 
@@ -804,21 +818,23 @@ beschliesst:[^ingress-2]
 
 **Bäder und ähnliche Anlagen**
 
-<sup>1</sup> Der Kanton kontrolliert die öffentlich oder einem grösseren Personenkreis zugänglichen Schwimmbäder, Saunen, Solarien und ähnliche Anlagen.
+<sup>1</sup> Der Kanton kontrolliert die öffentlich oder einem grösseren Personenkreis zugänglichen Schwimmbäder gemäss den Vorgaben der Bundesgesetzgebung. Er kann weitere ähnliche Anlagen wie Saunen und Solarien risikobasiert kontrollieren.
 
 <sup>2</sup> Der Kanton überwacht dabei Hygiene, Wasseraufbereitung und Wasserqualität nach den allgemein anerkannten Normen. Er trifft bei Mängeln die notwendigen Massnahmen.
 
 <sup>3</sup> Die Verantwortlichen der Betriebe haben die Pflicht zur Selbstkontrolle und zu deren Dokumentation. Sie haben Gesundheitsgefährdungen unverzüglich den zuständigen Behörden zu melden.
 
-<sup>4</sup> Sie tragen die Kosten der Analysen unabhängig vom Resultat.
+<sup>4</sup> Die Erhebung von Gebühren richtet sich nach der Bundesgesetzgebung, soweit diese anwendbar ist. Der Regierungsrat regelt die weiteren Gebühren.
 
 #### § 67
 
-**Badewasserqualität**
+**Badegewässer**
 
 <sup>1</sup> Der Kanton kontrolliert die Wasserqualität der Oberflächengewässer, die von der Öffentlichkeit zum Baden genutzt werden.
 
-<sup>2</sup> Er orientiert die Bevölkerung über die Wasserqualität, kann Empfehlungen abgeben und das Baden verbieten.
+<sup>2</sup> Er orientiert die Bevölkerung über die Wasserqualität.
+
+<sup>3</sup> Bei ungenügender Wasserqualität können die Gemeinden oder bei Betroffenheit mehrerer Gemeinden oder eines grösseren Personenkreises der Kanton das Baden in bestimmten Gewässern verbieten.
 
 #### § 68
 
@@ -858,19 +874,19 @@ beschliesst:[^ingress-2]
 
 #### § 72
 
-**Rettungstransporte**
+**Rettungswesen**
 
-<sup>1</sup> Der Regierungsrat unterteilt den Kanton für die Rettungstransporte in Einsatzgebiete. Er berücksichtigt dabei die Anfahrtszeiten der Rettungsmittel.
+<sup>1</sup> Der Kanton regelt das Rettungswesen. Er beauftragt Rettungsdienste mit Betriebsbewilligung gemäss §§ 37 und 38 oder geeignete ausserkantonale Rettungsdienste mit der Durchführung der Rettungstransporte und schliesst entsprechende Leistungsvereinbarungen ab.
 
-<sup>2</sup> Wo kantonseigene Rettungsmittel fehlen, kann die Direktion den Einsatz anderer Rettungsinstitutionen vorsehen und mit diesen Leistungsvereinbarungen abschliessen.
+<sup>2</sup> Der Kanton betreibt eine Einsatzzentrale für die Rettungseinsätze auf dem gesamten Kantonsgebiet oder beauftragt Dritte mit einer Leistungsvereinbarung mit dem Betrieb einer solchen Einsatzzentrale.
+
+<sup>3</sup> Die Einsatzzentrale koordiniert den Einsatz der Rettungsdienste gemäss Abs. 1. Sie kann bei Bedarf im Einzelfall oder bei Grossereignissen und Katastrophen weitere Rettungsdienste aufbieten.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
 
 #### § 73
 
-**Krankentransporte**
-
-<sup>1</sup> Krankentransporte dürfen durch Krankentransportunternehmen mit Betriebsbewilligung nach diesem Gesetz durchgeführt werden.
-
-<sup>2</sup> Ausserkantonale Krankentransportunternehmen haben ihre Tätigkeit im Kanton Basel-Landschaft der Direktion anzuzeigen und unterstehen ihrer Aufsicht.
+**…**
 
 #### § 74
 
@@ -878,7 +894,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Der Transport von auf öffentlichem Grund Verstorbenen und von Leichen, die gerichtsmedizinisch zu untersuchen sind, erfolgt durch die gemäss § 72 mit den Rettungstransporten betrauten Institutionen oder durch private Institutionen, die dazu mit einer Leistungsvereinbarung durch die Direktion beauftragt werden.
 
-<sup>2</sup> Der Regierungsrat erlässt Ausführungsbestimmungen und unterteilt den Kanton in Einsatzgebiete.
+<sup>2</sup> Der Regierungsrat erlässt Ausführungsbestimmungen.
 
 #### § 75
 
@@ -890,9 +906,11 @@ beschliesst:[^ingress-2]
 
 **Inkonvenienzentschädigung für Hebammen[^75a-1]**
 
-<sup>1</sup> Der Kanton richtet an selbständig tätige Hebammen eine Inkonvenienzentschädigung für geleistete Bereitschaftsdienste bei Hausgeburten und ambulanten Wochenbettbetreuungen aus.
+<sup>1</sup> Der Kanton richtet Inkonvenienzentschädigungen an freiberuflich tätige Hebammen für geleistete Bereitschaftsdienste bei Hausgeburten, bei ambulanten Geburten in Einrichtungen der Geburtshilfe und in Geburtshäusern im Kanton sowie bei ambulanten Wochenbettbetreuungen aus.
 
 <sup>2</sup> Als ambulante Wochenbettbetreuung gilt eine Betreuung von Mutter und Kind, die spätestens 96 Stunden nach der Geburt beginnt.
+
+<sup>2<sup>bis</sup></sup> Eine Inkonvenienzentschädigung wird nur ausgerichtet, wenn die Mutter zum Zeitpunkt der Erbringung der Leistung ihren Wohnsitz im Kanton Basel-Landschaft hat.
 
 <sup>3</sup> Die Hebammen dürfen für geleistete Bereitschaftsdienste gemäss Abs. 1 und 2 keine weitergehenden Vergütungen abrechnen.
 
@@ -957,7 +975,7 @@ beschliesst:[^ingress-2]
 - b. eine nach diesem Gesetz anzeigepflichtige Tätigkeit ausübt, ohne die entsprechende Anzeige vorzunehmen;
 - c. diesem Gesetz oder den auf ihm beruhenden Erlassen in anderer Weise zuwiderhandelt.
 
-<sup>2</sup> Mit Busse bis CHF 100'000 wird bestraft, wer einen Tatbestand nach Absatz 1 erfüllt und dabei gewerbsmässig handelt oder die Gesundheit von Menschen gefährdet.
+<sup>2</sup> Mit Busse bis CHF 100'000.– wird bestraft, wer einen Tatbestand nach Abs. 1 erfüllt und dabei gewerbsmässig handelt oder die Gesundheit von Menschen gefährdet.
 
 #### § 83
 
@@ -965,7 +983,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Für die Erteilung von Bewilligungen, die Durchführung von Kontrollen, Prüfungen und Inspektionen sowie für weitere Amtshandlungen aufgrund dieses Gesetzes werden kostendeckende Gebühren erhoben.
 
-<sup>2</sup> Für die Durchführung von Prüfungen werden Gebühren bis CHF 3'000 erhoben.
+<sup>2</sup> Für die Durchführung von Prüfungen werden Gebühren bis CHF 3'000.– erhoben.
 
 <sup>3</sup> Der Regierungsrat erlässt eine Gebührenverordnung.
 
@@ -985,9 +1003,9 @@ beschliesst:[^ingress-2]
 
 **Übergangsbestimmung betreffend psychologische Psychotherapie zur Änderung vom 25. April 2013 des Gesundheitsgesetzes**
 
-<sup>1</sup> Personen, welche zum Zeitpunkt des Inkrafttretens von § 32 in der Fassung vom 25. April 2013 eine psychotherapeutische Tätigkeit ohne Bewilligung gestützt auf § 7 Absatz 2 Buchstaben a oder b der Verordnung vom 15. November 1977[^85a-1] über die nichtärztliche Psychotherapie ausüben, haben diese Tätigkeit innert der in der jeweiligen Bestimmung genannten Frist ab Aufnahme der Tätigkeit einzustellen oder dafür eine Bewilligung nach diesem Gesetz zu beantragen, sofern nicht § 32 Absatz 2 anwendbar ist. Eine Bestätigung der Direktion, wonach eine solche Tätigkeit ausgeübt werden darf, gilt nicht als kantonale Berufsausübungsbewilligung, die ihre Gültigkeit gemäss Art. 49 Absatz 3 des Bundesgesetzes über die Psychologieberufe nach dem Inkrafttreten dieses Gesetzes behält.
+<sup>1</sup> Personen, welche zum Zeitpunkt des Inkrafttretens von § 32 in der Fassung vom 25. April 2013 eine psychotherapeutische Tätigkeit ohne Bewilligung gestützt auf § 7 Abs. 2 Bst. a oder b der Verordnung vom 15. November 1977[^85a-1] über die nichtärztliche Psychotherapie ausüben, haben diese Tätigkeit innert der in der jeweiligen Bestimmung genannten Frist ab Aufnahme der Tätigkeit einzustellen oder dafür eine Bewilligung nach diesem Gesetz zu beantragen, sofern nicht § 32 Abs. 2 anwendbar ist. Eine Bestätigung der Direktion, wonach eine solche Tätigkeit ausgeübt werden darf, gilt nicht als kantonale Berufsausübungsbewilligung, die ihre Gültigkeit gemäss Art. 49 Abs. 3 des Bundesgesetzes über die Psychologieberufe nach dem Inkrafttreten dieses Gesetzes behält.
 
-[^85a-1]: GS 26.597, SGS [917](https://bl.clex.ch/data/917/de)
+[^85a-1]: GS 26.597, [SGS 917](https://bl.clex.ch/data/917/de)
 
 #### § 86
 
