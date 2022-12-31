@@ -4,11 +4,11 @@ title: Ordinanza del 25 novembre 2015 sugli apparecchi e i sistemi di protezione
 short: OASAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-19-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-19-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/it"
 
 (OASAE)
 
-del 25 novembre 2015 (Stato 1° gennaio 2022)
+del 25 novembre 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -335,10 +335,13 @@ Gli organi esecutivi sono:
 
 <sup>6</sup> Su richiesta di un organo esecutivo, i fornitori di servizi della società dell’informazione sono tenuti a cooperare con l’organo esecutivo nell’adozione di misure volte a eliminare o ridurre i rischi connessi ai prodotti messi in vendita online attraverso i loro servizi.[^17-4]
 
+<sup>7</sup> Il DATEC concorda con l’organo esecutivo di cui al capoverso 2 lettera a l’entità delle attività di sorveglianza del mercato.[^17-5]
+
 [^17-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^17-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^17-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 [^17-4]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^17-5]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 813](https://fedlex.data.admin.ch/eli/oc/2022/813)).
 
 #### Art. 18
 
@@ -411,7 +414,7 @@ Conformemente alle disposizioni del regolamento applicabile, gli organi esecutiv
 
 <sup>3</sup> Gli organi esecutivi hanno la competenza di accordare assistenza amministrativa internazionale conformemente all’articolo 22 LOTC.
 
-<sup>4</sup> Possono partecipare a banche dati internazionali per lo scambio di informazioni tra autorità di sorveglianza del mercato e registrarvi informazioni di cui al capoverso 1<sup>bis</sup>. [^20-2]
+<sup>4</sup> Possono partecipare a banche dati internazionali per lo scambio di informazioni tra autorità di sorveglianza del mercato e registrarvi informazioni di cui al capoverso 1<sup>bis</sup>.[^20-2]
 
 [^20-1]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 [^20-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
@@ -421,6 +424,14 @@ Conformemente alle disposizioni del regolamento applicabile, gli organi esecutiv
 **Coordinamento**
 
 Gli organi esecutivi si informano vicendevolmente sui risultati della loro attività di controllo e indicano in particolare i difetti riscontrati sui prodotti.
+
+#### Art. 21a
+
+**Finanziamento**[^21a-1]
+
+I costi per l’esecuzione della sorveglianza del mercato da parte dell’organo esecutivo di cui all’articolo 17 capoverso 2 lettera a sono a carico del DATEC, se non coperti dagli emolumenti riscossi dall’organo esecutivo sulla base della presente ordinanza.
+
+[^21a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 813](https://fedlex.data.admin.ch/eli/oc/2022/813)).
 
 ## Sezione 6: Rimedi giuridici
 
@@ -436,7 +447,7 @@ La tutela giurisdizionale contro le decisioni degli organi esecutivi secondo l�
 
 L’ordinanza del 2 marzo 1998[^23-1] sugli apparecchi e i sistemi di protezione utilizzati in ambienti esplosivi è abrogata.
 
-[^23-1]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4]
+[^23-1]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 26; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 2, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 2; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4]
 
 #### Art. 24
 

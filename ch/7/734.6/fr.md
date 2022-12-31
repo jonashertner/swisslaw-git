@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les appareils et les systèmes de prot
 short: OSPEX
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-19-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-19-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/fr"
 
 (OSPEX)
 
-du 25 novembre 2015 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -335,10 +335,13 @@ Les organes d’exécution sont:
 
 <sup>6</sup> Sur demande d’un organe d’exécution, les prestataires de services de la société de l’information ont l’obligation de coopérer avec lui dans la mise en œuvre de mesures destinées à éliminer ou à réduire les risques présentés par les produits qui ont ou ont été proposés à la vente en ligne par l’intermédiaire de leurs services.[^17-4]
 
+<sup>7</sup> Le DETEC détermine l’étendue de l’activité de surveillance du marché d’entente avec l’organe d’exécution visé à l’al. 2, let. a.[^17-5]
+
 [^17-1]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^17-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^17-3]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 [^17-4]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^17-5]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 813](https://fedlex.data.admin.ch/eli/oc/2022/813)).
 
 #### Art. 18
 
@@ -423,6 +426,14 @@ Conformément aux dispositions du règlement des émoluments applicable, les org
 **Coordination**
 
 Les organes d’exécution s’informent réciproquement sur les résultats de leurs contrôles et se communiquent en particulier les défauts constatés sur des produits.
+
+#### Art. 21a
+
+**Financement**[^21a-1]
+
+Les frais d’exécution de la surveillance du marché exercée par l’organe d’exécution visé à l’art. 17, al. 2, let. a, sont pris en charge par le DETEC pour autant qu’ils ne soient pas couverts par des émoluments perçus sur la base de la présente ordonnance.
+
+[^21a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 813](https://fedlex.data.admin.ch/eli/oc/2022/813)).
 
 ## Section 6 Voies de recours
 

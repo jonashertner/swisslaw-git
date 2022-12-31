@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über Geräte und Schutzsysteme zur Verw
 short: VGSEB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/19"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-11-25
 in_force: 2016-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-19-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/19/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-19-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/19/20220101/de"
 
 (VGSEB)
 
-vom 25. November 2015 (Stand am 1. Januar 2022)
+vom 25. November 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -335,10 +335,13 @@ Vollzugsorgane sind:
 
 <sup>6</sup> Die Anbieterinnen von Dienstleistungen der Informationsgesellschaft sind auf Verlangen eines Vollzugsorgans verpflichtet, bei der Umsetzung von Massnahmen zur Vermeidung oder Minderung von Risiken im Zusammenhang mit Produkten, die über ihre Dienste online zum Verkauf angeboten wurden oder werden, mit dem Vollzugsorgan zusammenzuarbeiten.[^17-4]
 
+<sup>7</sup> Das UVEK vereinbart mit dem Vollzugsorgan nach Absatz 2 Buchstabe a den Umfang der Marktüberwachungstätigkeit.[^17-5]
+
 [^17-1]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
 [^17-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 [^17-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
 [^17-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 823](https://fedlex.data.admin.ch/eli/oc/2021/823)).
+[^17-5]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 813](https://fedlex.data.admin.ch/eli/oc/2022/813)).
 
 #### Art. 18
 
@@ -424,6 +427,14 @@ Die Vollzugsorgane erheben eine Gebühr und auferlegen den Betroffenen die erwac
 
 Die Vollzugsorgane informieren sich gegenseitig über die Ergebnisse ihrer Kontrolltätigkeit und melden insbesondere an Produkten festgestellte Mängel.
 
+#### Art. 21a
+
+**Finanzierung**[^21a-1]
+
+Die Kosten des Vollzugs der Marktüberwachung durch das Vollzugsorgan nach Artikel 17 Absatz 2 Buchstabe a werden vom UVEK abgegolten, soweit sie nicht durch Gebühren gedeckt sind, die durch das Vollzugsorgan gestützt auf diese Verordnung erhoben werden.
+
+[^21a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 813](https://fedlex.data.admin.ch/eli/oc/2022/813)).
+
 ## 6. Abschnitt: Rechtsmittel
 
 #### Art. 22
@@ -438,7 +449,7 @@ Der Rechtsschutz gegen Verfügungen der Vollzugsorgane nach Artikel 17 Absatz 2 
 
 Die Verordnung vom 2. März 1998[^23-1] über Geräte und Schutzsysteme zur Verwendung in explosionsgefährdeten Bereichen wird aufgehoben.
 
-[^23-1]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]
+[^23-1]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]
 
 #### Art. 24
 
