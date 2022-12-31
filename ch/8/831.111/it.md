@@ -4,20 +4,20 @@ title: "Ordinanza del 26 maggio 1961 concernente l'assicurazione facoltativa per
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’assicurazione facoltativa per la vecchiaia, i superstiti e l’invalidità
 
-(OAF)**[^t-1]**
+(OAF)[^t-1]
 
-del 26 maggio 1961 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 26 maggio 1961 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo del tit. giusta il n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -159,7 +159,7 @@ Sono esclusi dall’assicurazione facoltativa gli assicurati:
 [^13-3]: Nuovo testo giusta il n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^13-4]: Nuovo testo giusta il n. I dell’O del 16 mar. 2007, in vigore dal 1° gen. 2008 ([RU 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
 
-## D. Contributi****
+## D. Contributi
 
 [^lvlD-1]
 
@@ -173,29 +173,34 @@ Sono esclusi dall’assicurazione facoltativa gli assicurati:
 
 <sup>2</sup> Gli assicurati che non esercitano un’attività lucrativa sono tenuti a pagare i contributi dal 1° gennaio successivo al compimento del 20° anno; l’obbligo di contribuzione cessa alla fine del mese nel quale le donne compiono 64 e gli uomini 65 anni.[^13a-3]
 
-<sup>3</sup> **Art. 13**b*[^13a-4]* Aliquota di contribuzione per l’AVS/AI
+<sup>3</sup>
 
 Sono reputati aver pagato contributi propri, a condizione che il coniuge abbia versato contributi pari almeno al doppio del contributo minimo di cui all’articolo 13*b*:
 
 - a. i coniugi senza attività lucrativa di assicurati che esercitano un’attività lucrativa;
 - b. gli assicurati che collaborano nell’azienda del coniuge, se non percepiscono un salario in contanti.
 
-<sup>1</sup> I contributi degli assicurati che esercitano un’attività lucrativa ammontano al 10,1 per cento del reddito determinante. Gli assicurati devono versare almeno il contributo minimo di 958 franchi annui.
-
-<sup>2</sup> Gli assicurati che non esercitano un’attività lucrativa pagano un contributo, compreso tra 958 e 23 950 franchi annui, sulla base della loro sostanza e del reddito conseguito in forma di rendita. Il contributo è calcolato come segue:
-
-<table>
-<tr><td colspan="2">Sostanza o reddito annuo conseguito in forma di rendita moltiplicato per 20 Franchi</td><td></td><td>Contributo annuo (AVS+AI) Franchi</td><td>Supplemento per ogni 50 000 franchi ulteriori di sostanza o di reddito conseguito in forma di rendita moltiplicato per 20 Franchi</td></tr>
-<tr><td>meno di</td><td colspan="2">550 000</td><td>958</td><td>–</td></tr>
-<tr><td></td><td colspan="2">550 000</td><td>1 010</td><td>101</td></tr>
-<tr><td></td><td colspan="2">1 750 000</td><td>3 434</td><td>151,50</td></tr>
-<tr><td></td><td colspan="2">8 550 000 e oltre</td><td>23 950</td><td>–</td></tr>
-</table>
-
 [^13a-1]: Introdotto dal n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^13a-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
 [^13a-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5633](https://fedlex.data.admin.ch/eli/oc/2005/768)).
-[^13a-4]: Introdotto dal n. I dell’O del 18 ott. 2000 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nuovo testo giusta il n. I dell’O del 14 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4613](https://fedlex.data.admin.ch/eli/oc/2020/820)).
+
+#### Art. 13b
+
+**Aliquota di contribuzione per l*’*AVS/AI**[^13b-1]
+
+<sup>1</sup> I contributi degli assicurati che esercitano un’attività lucrativa ammontano al 10,1 per cento del reddito determinante. Gli assicurati devono versare almeno il contributo minimo di 980 franchi annui.
+
+<sup>2</sup> Gli assicurati che non esercitano un’attività lucrativa pagano un contributo, compreso tra 980 e 24 500 franchi annui, sulla base della loro sostanza e del reddito conseguito in forma di rendita. Il contributo è calcolato come segue:
+
+<table>
+<tr><th colspan="2">Sostanza o reddito annuo conseguito in forma di rendita moltiplicato per 20 Franchi</th><th></th><th>Contributo annuo (AVS+AI) Franchi</th><th>Supplemento per ogni 50 000 franchi ulteriori di sostanza o di reddito conseguito in forma di rendita moltiplicato per 20 Franchi</th></tr>
+<tr><td>fino a</td><td colspan="2">590 000</td><td>980</td><td>–</td></tr>
+<tr><td>a partire da</td><td colspan="2">590 000</td><td>1 090.80</td><td>101</td></tr>
+<tr><td>a partire da</td><td colspan="2">1 740 000</td><td>3 413.80</td><td>151.50</td></tr>
+<tr><td>a partire da</td><td colspan="2">8 740 000</td><td>24 500</td><td>–</td></tr>
+</table>
+
+[^13b-1]: Introdotto dal n. I dell’O del 18 ott. 2000 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 605](https://fedlex.data.admin.ch/eli/oc/2022/605)).
 
 #### Art. 14
 
@@ -220,7 +225,7 @@ Durante l’anno contributivo gli assicurati possono versare periodicamente acco
 
 #### Art. 14b
 
-**Fissazione dei contributi(S (Stato 1° gennaio 2021), compensazione e t a ermine di pagamento**[^14b-1]
+**Fissazione dei contributi(S (Stato 1° gennaio 2023), compensazione e t a ermine di pagamento**[^14b-1]
 
 <sup>1</sup> Gli assicurati devono fornire alla Cassa di compensazione i dati necessari alla fissazione dei contributi entro il 31 marzo dell’anno successivo all’anno contributivo.[^14b-2]
 
@@ -300,7 +305,7 @@ Durante l’anno contributivo gli assicurati possono versare periodicamente acco
 [^18a-1]: Introdotto dal n. I dell’O del 18 ott. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^18a-2]: [[RU 1972 2290](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [RU 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)art. 2]. Vedi ora: l’O del DFI del 19 ott. 2011 ([RS 831.143.41](https://fedlex.data.admin.ch/eli/cc/2011/675)).
 
-## E. Rendite e indennità giornaliere****
+## E. Rendite e indennità giornaliere
 
 [^lvlE-1]
 
@@ -376,13 +381,13 @@ Per quanto la presente ordinanza non vi deroghi, sono applicabili le disposizion
 
 [^26-1]: [[RU 1954 424](https://fedlex.data.admin.ch/eli/oc/1954/524_540_424)]
 
-## Disposizioni finali della modifica del 29 novembre 1995****
+## Disposizioni finali della modifica del 29 novembre 1995
 
 [^u1-1]
 
 [^u1-1]: [RU 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686). Abrogate dal n. IV 43 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizioni finali della modifica del 18 ottobre 2000****
+## Disposizioni finali della modifica del 18 ottobre 2000
 
 [^u2-1]
 
@@ -396,7 +401,7 @@ Per quanto la presente ordinanza non vi deroghi, sono applicabili le disposizion
 
 <sup>4</sup> Sino al 31 dicembre 2001, le persone assicurate facoltativamente che adempiono i requisiti di cui all’articolo 1 capoverso 4 lettera c LAVS sono trasferite, su semplice domanda, all’assicurazione obbligatoria e quindi alla Cassa di compensazione del coniuge.
 
-## Disposizioni finali della modifica del 16 marzo 2007****
+## Disposizioni finali della modifica del 16 marzo 2007
 
 [^u3-1]
 
@@ -406,13 +411,13 @@ Per quanto la presente ordinanza non vi deroghi, sono applicabili le disposizion
 
 <sup>2</sup> Gli articoli 3, 4, 5, 13 capoverso 1, 16 capoverso 2, 20 capoverso 1 e 21 capoverso 2 finora in vigore sono applicabili ai servizi AVS/AI ancora in attività dopo il 1° gennaio 2008. Il testo di questi articoli figura nell’allegato.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (cifra II)
 
 Gli articoli 3, 4, 5, 13 capoverso 1, 16 capoverso 2, 20 capoverso 1 e 21 capoverso 2 (stato 17 ottobre 2006), menzionati nelle disposizioni transitorie della modifica del 16 marzo 2007, hanno il tenore seguente:
 
-Art. 3 Competenze delle rappresentanze svizzere*[^t-3]*
+Art. 3 Competenze delle rappresentanze svizzere[^t-3]
 
 <sup>1</sup> Le rappresentanze svizzere trattano gli affari concernenti le persone della loro circoscrizione consolare e corrispondono, a tal fine, direttamente con la Cassa di compensazione; i loro compiti sono in particolare:[^t-4]
 
@@ -436,7 +441,7 @@ Art. 4 Rimborso delle spese e rapporti d’ispezione
 
 <sup>2bis</sup> L’ispezione dei servizi AVS/AI è affidata alla Cassa di compensazione.[^t-12]
 
-Art. 5*[^t-13]* Obbligo di fornire informazioni
+Art. 5[^t-13] Obbligo di fornire informazioni
 
 Gli assicurati sono tenuti a fornire alla rappresentanza svizzera, al servizio AVS/AI, alla Cassa di compensazione e all’Ufficio AI per gli assicurati residenti all’estero tutte le informazioni necessarie all’applicazione dell’assicurazione facoltativa e, a richiesta, a comprovarne l’esattezza mediante documenti giustificativi.
 

@@ -4,20 +4,20 @@ title: "Ordonnance du 26 mai 1961 concernant l'assurance-vieillesse, survivants 
 short: OAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’assurance-vieillesse, survivants et invalidité facultative
 
-(OAF)**[^t-1]**
+(OAF)[^t-1]
 
-du 26 mai 1961 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 mai 1961 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -82,7 +82,7 @@ Les assurés sont tenus de donner à la représentation suisse, à la caisse de 
 
 [^6-1]: Abrogé par le ch. III de l’O du 11 oct. 1972, avec effet au 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 
-## B. Adhésion à l’assurance facultative****
+## B. Adhésion à l’assurance facultative
 
 [^lvlB-1]
 
@@ -130,7 +130,7 @@ En cas de circonstances extraordinaires dont le requérant ne peut pas être ren
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
-## C. Résiliation et exclusion de l’assurance facultative****
+## C. Résiliation et exclusion de l’assurance facultative
 
 [^lvlC-1]
 
@@ -167,7 +167,7 @@ Les assurés sont exclus de l’assurance facultative:
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^13-4]: Nouvelle teneur selon le ch. I de l’O du 16 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
 
-## D. Cotisations****
+## D. Cotisations
 
 [^lvlD-1]
 
@@ -196,19 +196,19 @@ Sont réputés avoir payé eux-mêmes des cotisations, pour autant que leur conj
 
 **Taux de cotisation AVS/AI**[^13b-1]
 
-<sup>1</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 10,1 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimum de 958 francs par an.
+<sup>1</sup> Les cotisations des assurés exerçant une activité lucrative sont égales à 10,1 % du revenu déterminant. Les assurés doivent payer au moins la cotisation minimum de 980 francs par an.
 
-<sup>2</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation comprise entre 958 francs et 23 950 francs par an, déterminée sur la base de leur fortune et du revenu acquis sous forme de rente. La cotisation se calcule comme suit:
+<sup>2</sup> Les assurés n’exerçant aucune activité lucrative paient une cotisation comprise entre 980 francs et 24 500 francs par an, déterminée sur la base de leur fortune et du revenu acquis sous forme de rente. La cotisation se calcule comme suit:
 
 <table>
-<tr><td colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</td><td></td><td>Cotisation annuelle (AVS + AI) fr.</td><td>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</td></tr>
-<tr><td>moins de</td><td colspan="2">550 000</td><td>958</td><td>–</td></tr>
-<tr><td></td><td colspan="2">550 000</td><td>1 010</td><td>101</td></tr>
-<tr><td></td><td colspan="2">1 750 000</td><td>3 434</td><td>151,50</td></tr>
-<tr><td></td><td colspan="2">8 550 000 et plus</td><td>23 950</td><td>–</td></tr>
+<tr><th colspan="2">Fortune ou revenu annuel acquis sous forme de rente, multiplié par 20 fr.</th><th></th><th>Cotisation annuelle (AVS + AI) fr.</th><th>Supplément pour chaque tranche supplémentaire de 50 000 francs de fortune ou de revenu acquis sous forme de rente, multiplié par 20 fr.</th></tr>
+<tr><td>moins de</td><td colspan="2">590 000</td><td>980</td><td>–</td></tr>
+<tr><td>dès</td><td colspan="2">590 000</td><td>1090,80</td><td>101</td></tr>
+<tr><td>dès</td><td colspan="2">1 740 000</td><td>3413,80</td><td>151,50</td></tr>
+<tr><td>dès</td><td colspan="2">8 740 000</td><td>24 500</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Introduit par le ch. I de l’O du 18 oct. 2000 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nouvelle teneur selon le ch. I de l’O du 14 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4613](https://fedlex.data.admin.ch/eli/oc/2020/820)).
+[^13b-1]: Introduit par le ch. I de l’O du 18 oct. 2000 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 605](https://fedlex.data.admin.ch/eli/oc/2022/605)).
 
 #### Art. 14
 
@@ -314,7 +314,7 @@ Les assurés peuvent payer périodiquement des acomptes pendant l’année de co
 [^18a-1]: Introduit par le ch. I de l’O du 18 oct. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^18a-2]: [[RO 1972 2513](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [RO 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)art. 2]. Voir actuellement l’O du DFI du 19 oct. 2011 ([RS 831.143.41](https://fedlex.data.admin.ch/eli/cc/2011/675)).
 
-## E. Rentes et indemnités journalières****
+## E. Rentes et indemnités journalières
 
 [^lvlE-1]
 
@@ -390,13 +390,13 @@ Les dispositions du règlement du 31 octobre 1947[^25-2] sur l’assurance-vieil
 
 [^26-1]: [[RO 1954 540](https://fedlex.data.admin.ch/eli/oc/1954/524_540_424)]
 
-## Disposition finale de la modification du 29 novembre 1995****
+## Disposition finale de la modification du 29 novembre 1995
 
 [^u1-1]
 
 [^u1-1]: [RO 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686). Abrogées par le ch. IV 43 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 18 octobre 2000****
+## Dispositions finales de la modification du 18 octobre 2000
 
 [^u2-1]
 
@@ -410,7 +410,7 @@ Les dispositions du règlement du 31 octobre 1947[^25-2] sur l’assurance-vieil
 
 <sup>4</sup> Jusqu’au 31 décembre 2001, les personnes assurées facultativement qui remplissent les conditions d’adhésion de l’art. 1, al. 4, let.<sup>.</sup>c, LAVS, sont, sur simple demande, transférées à la caisse de compensation de leur conjoint pour être assurées obligatoirement.
 
-## Dispositions finales de la modification du 16 mars 2007****
+## Dispositions finales de la modification du 16 mars 2007
 
 [^u3-1]
 
@@ -420,13 +420,13 @@ Les dispositions du règlement du 31 octobre 1947[^25-2] sur l’assurance-vieil
 
 <sup>2</sup> Les art. 3, 4, 5, 13, al. 1, 16, al. 2, 20, al. 1, et 21, al. 2, de l’ancien droit restent applicables aux services AVS/AI qui sont maintenus après le 1<sup>er</sup> janvier 2008. Le texte de ces articles se trouve en annexe.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (ch. II)
 
 La teneur, au 17 octobre 2006, des art. 3, 4, 5, 13, al. 1, 16, al. 2, 20, al. 1, et 21, al. 2, mentionnés dans les dispositions transitoires relatives à la modification du 16 mars 2007, est la suivante:
 
-**Art. 3 Attributions des représentations suisses*[^t-3]***
+**Art. 3 Attributions des représentations suisses[^t-3]**
 
 <sup>1</sup>
 
@@ -452,7 +452,7 @@ Les représentations suisses règlent les affaires concernant les personnes rele
 
 <sup>2bis</sup> La caisse de compensation est chargée de procéder aux inspections auprès des services AVS/AI.[^t-12]
 
-**Art. 5*[^t-13]* Obligation de renseigner**
+**Art. 5[^t-13] Obligation de renseigner**
 
 Les assurés sont tenus de donner à la représentation suisse, au service AVS/AI, à la caisse de compensation et à l’Office AI pour les assurés résidant à l’étranger, tous les renseignements nécessaires à l’application de l’assurance facultative; sur demande, ils établiront par pièces l’exactitude de leurs indications.
 

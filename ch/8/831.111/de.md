@@ -4,20 +4,20 @@ title: "Verordnung vom 26. Mai 1961 über die freiwillige Alters-, Hinterlassene
 short: VFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/419_429_439"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1961-05-26
 in_force: 1961-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/419_429_439/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1961-419_429_439-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/419_429_439/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die freiwillige Alters-, Hinterlassenen- und Invalidenversicherung
 
-(VFV)**[^t-1]**
+(VFV)[^t-1]
 
-vom 26. Mai 1961 (Stand am 1. Januar 2021)
+vom 26. Mai 1961 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
@@ -90,7 +90,7 @@ Die Versicherten sind gehalten, der Auslandsvertretung, der Ausgleichskasse und 
 
 <sup>1</sup> Der freiwilligen Versicherung können die Personen beitreten, welche die Versicherungsvoraussetzungen nach Artikel 2 Absatz 1 AHVG erfüllen, einschliesslich jener, die für einen Teil ihres Einkommens der obligatorischen Versicherung unterstellt sind.
 
-<sup>2</sup> ...[^7-2]
+<sup>2</sup> …[^7-2]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. April 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^7-2]: Eingefügt durch Ziff. I der V vom 7. April 2004 ([AS 2004 2027](https://fedlex.data.admin.ch/eli/oc/2004/230)). Aufgehoben durch Ziff. II 1 der V vom 2. Nov. 2005, mit Wirkung seit 1. April 2006 ([AS 2006 923](https://fedlex.data.admin.ch/eli/oc/2006/163)).
@@ -159,7 +159,7 @@ Die Versicherten werden aus der freiwilligen Versicherung ausgeschlossen:
 [^13-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^13-4]: Fassung gemäss Ziff. I der V vom 16. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)).
 
-## D. Beiträge****
+## D. Beiträge
 
 [^lvlD-1]
 
@@ -188,19 +188,19 @@ Die eigenen Beiträge gelten als bezahlt, sofern der Ehegatte Beiträge von mind
 
 **Beitragssatz für die AHV/IV**[^13b-1]
 
-<sup>1</sup> Die Beiträge der erwerbstätigen Versicherten belaufen sich auf 10,1 Prozent des massgebenden Einkommens. Die Versicherten müssen mindestens den Mindestbetrag von 958 Franken im Jahr entrichten.
+<sup>1</sup> Die Beiträge der erwerbstätigen Versicherten belaufen sich auf 10,1 Prozent des massgebenden Einkommens. Die Versicherten müssen mindestens den Mindestbetrag von 980 Franken im Jahr entrichten.
 
-<sup>2</sup> Nichterwerbstätige Versicherte bezahlen auf der Grundlage ihres Vermögens und ihres Renteneinkommens einen Beitrag zwischen 958 und 23 950 Franken im Jahr. Der Beitrag berechnet sich wie folgt:
+<sup>2</sup> Nichterwerbstätige Versicherte bezahlen auf der Grundlage ihres Vermögens und ihres Renteneinkommens einen Beitrag zwischen 980 und 24 500 Franken im Jahr. Der Beitrag berechnet sich wie folgt:
 
 <table>
-<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th></th><th>Jahresbeitrag (AHV+IV) Franken</th><th>Zuschlag für je weitere 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
-<tr><td>weniger als</td><td colspan="2">550 000</td><td>958</td><td>–</td></tr>
-<tr><td></td><td colspan="2">550 000</td><td>1 010</td><td>101</td></tr>
-<tr><td></td><td colspan="2">1 750 000</td><td>3 434</td><td>151,50</td></tr>
-<tr><td></td><td colspan="2">8 550 000 und mehr</td><td>23 950</td><td>–</td></tr>
+<tr><th colspan="2">Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th><th></th><th>Jahresbeitrag (AHV+IV) Franken</th><th>Zuschlag für jede weitere Stufe von 50 000 Franken Vermögen bzw. mit 20 multipliziertes jährliches Renteneinkommen Franken</th></tr>
+<tr><td>bis</td><td colspan="2">590 000</td><td>980</td><td>–</td></tr>
+<tr><td>ab</td><td colspan="2">590 000</td><td>1090.80</td><td>101</td></tr>
+<tr><td>ab</td><td colspan="2">1 740 000</td><td>3413.80</td><td>151.50</td></tr>
+<tr><td>ab</td><td colspan="2">8 740 000</td><td>24 500</td><td>–</td></tr>
 </table>
 
-[^13b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Fassung gemäss Ziff. I der V vom 14. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4613](https://fedlex.data.admin.ch/eli/oc/2020/820)).
+[^13b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)). Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 605](https://fedlex.data.admin.ch/eli/oc/2022/605)).
 
 #### Art. 14
 
@@ -267,7 +267,7 @@ Während des Beitragsjahres können die Versicherten periodisch Akontozahlungen 
 
 <sup>3</sup> Ist die Überweisung der Beiträge in die Schweiz nicht möglich, so gelten diese bis zum Zeitpunkt, an dem sie überwiesen werden können, als gestundet. Vorbehalten bleibt die Verrechnung der gestundeten und nicht verjährten Beiträge mit fälligen Renten bei Eintritt des Versicherungsfalles.[^16-3]
 
-<sup>4</sup> ...[^16-4]
+<sup>4</sup> …[^16-4]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 1975, in Kraft seit 1. Jan. 1976 ([AS 1975 1878](https://fedlex.data.admin.ch/eli/oc/1975/1878_1878_1878)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 16. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)). Siehe jedoch die SchlB dieser Änd. am Ende des vorliegenden Textes.
@@ -305,7 +305,7 @@ Während des Beitragsjahres können die Versicherten periodisch Akontozahlungen 
 [^18a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 [^18a-2]: [[AS 1972 2460](https://fedlex.data.admin.ch/eli/oc/1972/2460_2513_2290). [AS 2009 5333](https://fedlex.data.admin.ch/eli/oc/2009/636)Art. 2]. Siehe heute: die V des EDI vom 19. Okt. 2011 ([SR 831.143.41](https://fedlex.data.admin.ch/eli/cc/2011/675)).
 
-## E. Renten und Taggelder****
+## E. Renten und Taggelder
 
 [^lvlE-1]
 
@@ -341,7 +341,7 @@ Renten und Taggelder an Berechtigte im Ausland werden direkt durch die Ausgleich
 [^21-1]: Fassung gemäss Ziff. I der V vom 17. Juni 1985, in Kraft seit 1. Jan. 1986 ([AS 1985 922](https://fedlex.data.admin.ch/eli/oc/1985/922_922_922)).
 [^21-2]: Fassung gemäss Ziff. I der V vom 16. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 1359](https://fedlex.data.admin.ch/eli/oc/2007/226)). Siehe jedoch die SchlB dieser Änd. am Ende des vorliegenden Textes.
 
-## F. ...
+## F. …
 
 #### Art. 22
 
@@ -349,7 +349,7 @@ Renten und Taggelder an Berechtigte im Ausland werden direkt durch die Ausgleich
 
 [^22-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2828](https://fedlex.data.admin.ch/eli/oc/2000/479)).
 
-## G. ...
+## G. …
 
 #### Art. 23–24
 
@@ -381,13 +381,13 @@ Soweit diese Verordnung keine abweichenden Bestimmungen enthält, finden die ein
 
 [^26-1]: [[AS 1954 524](https://fedlex.data.admin.ch/eli/oc/1954/524_540_424)]
 
-## Schlussbestimmung der Änderung vom 29. November 1995****
+## Schlussbestimmung der Änderung vom 29. November 1995
 
 [^u1-1]
 
 [^u1-1]: [AS 1996 686](https://fedlex.data.admin.ch/eli/oc/1996/686_686_686). Aufgehoben durch Ziff. IV 43 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Übergangsbestimmungen der Änderung vom 18. Oktober 2000****
+## Übergangsbestimmungen der Änderung vom 18. Oktober 2000
 
 [^u2-1]
 
@@ -401,7 +401,7 @@ Soweit diese Verordnung keine abweichenden Bestimmungen enthält, finden die ein
 
 <sup>4</sup> Freiwillig versicherte Personen, welche die Beitrittsvoraussetzungen nach Artikel 1 Absatz 4 Buchstabe c AHVG erfüllen, werden auf einfaches Ersuchen bis zum 31. Dezember 2001 der obligatorischen Versicherung und damit der Ausgleichskasse ihres Ehegatten angeschlossen.
 
-## Schlussbestimmungen der Änderung vom 16. März 2007****
+## Schlussbestimmungen der Änderung vom 16. März 2007
 
 [^u3-1]
 
@@ -411,13 +411,13 @@ Soweit diese Verordnung keine abweichenden Bestimmungen enthält, finden die ein
 
 <sup>2</sup> Die bisherigen Artikel 3, 4, 5, 13 Absatz 1, 16 Absatz 2, 20 Absatz 1 und 21 Absatz 2 sind auf AHV/IV-Dienste anwendbar, die nach dem 1. Januar 2008 noch bestehen. Der Text dieser Artikel findet sich im Anhang.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Ziff. II)
 
 Die in den Übergangsbestimmungen der Änderung vom 16. März 2007 genannten Artikel 3, 4, 5, 13 Absatz 1, 16 Absatz 2, 20 Absatz 1 und 21 Absatz 2 mit Stand am 17. Oktober 2006 lauten wie folgt:
 
-Art. 3 Aufgaben der Auslandsvertretungen*[^t-3]*
+Art. 3 Aufgaben der Auslandsvertretungen[^t-3]
 
 <sup>1</sup> Die Auslandsvertretungen erfüllen für die in ihrem Konsularbezirk niedergelassenen Personen insbesondere folgende Aufgaben und stehen dafür mit der Ausgleichskasse in unmittelbarem Geschäftsverkehr:[^t-4]
 
