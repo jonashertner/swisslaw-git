@@ -4,11 +4,11 @@ title: "Legge federale del 17 dicembre 2004 sulla sorveglianza delle imprese di 
 short: LSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/734"
 language: it
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2004-12-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2005-734-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-734-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20200101/it"
 
 (Legge sulla sorveglianza degli assicuratori, LSA)
 
-del 17 dicembre 2004 (Stato 1° gennaio 2020)
+del 17 dicembre 2004 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -377,7 +377,7 @@ L’attuario responsabile assicura che:
 [^26-1]: Nuovo testo giusta l’all. n. 9 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Sezione 5: Verifica *(audit)*****
+### Sezione 5: Verifica *(audit)*
 
 [^chap3-sec5-1]
 
@@ -682,7 +682,7 @@ La FINMA:
 
 [^50-1]: Abrogato dall’all. n. 18 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### Sezione 2: Provvedimenti conservativi, liquidazione e fallimento****
+### Sezione 2: Provvedimenti conservativi, liquidazione e fallimento
 
 [^chap5-sec2-1]
 
@@ -729,13 +729,14 @@ La revoca, da parte della FINMA, dell’autorizzazione d’esercizio a un’impr
 
 <sup>1</sup> Ove vi sia un timore fondato che un’impresa di assicurazione sia eccessivamente indebitata o abbia seri problemi di liquidità e se non vi è alcuna prospettiva di risanamento o il risanamento è fallito, la FINMA le revoca l’autorizzazione, dichiara il fallimento e lo rende pubblico.
 
-<sup>2</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 della LF dell’11 apr. 1889 sulla esecuzione e sul fallimento, LEF[^53-2]), alla moratoria del diritto della società anonima (art. 725 e 725*a* del Codice delle obbligazioni[^53-3]) e all’avviso al giudice (art. 728*c* cpv. 3 del Codice delle obbligazioni) non si applicano all’impresa di assicurazione.
+<sup>2</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 della legge federale dell’11 aprile 1889[^53-2] sulla esecuzione e sul fallimento, LEF) e all’avviso al giudice (art. 716*a* cpv. 1 n. 8, 725*a* cpv. 3, 725*b* cpv. 3 e 728*c* cpv. 3 del Codice delle obbligazioni[^53-3]) non si applicano alle imprese d’assicurazione.[^53-4]
 
 <sup>3</sup> La FINMA nomina uno o più liquidatori del fallimento. Essi sottostanno alla sua vigilanza e su richiesta le fanno rapporto.
 
 [^53-1]: Nuovo testo giusta l’all. n. 5 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^53-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^53-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^53-4]: Nuovo testo giusta l’all. n. 13 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 54
 
@@ -812,7 +813,7 @@ Gli articoli 37*f* e 37*g* della legge dell’8 novembre 1934[^54d-2] sulle banc
 [^54e-1]: Introdotto dall’all. n. 15 della L del 19 giu. 2015 sull’infrastruttura finanziaria ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nuovo testo giusta l’all. n. II 19 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^54e-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### Sezione 3: Disposizioni complementari in caso di fallimento di assicurazioni sulla vita****
+### Sezione 3: Disposizioni complementari in caso di fallimento di assicurazioni sulla vita
 
 [^chap5-sec3-1]
 
@@ -1254,7 +1255,7 @@ Le leggi federali qui appresso sono modificate come segue:
 
 [^annexu1-lvlu1-1]: [CS **10** 290; [RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)art. 51 e all. n. 1, **1992** 2363 all. n. 3, **1993** 3209, **1995** 1227 all. n. 18]
 [^annexu1-lvlu1-2]: [CS **10** 297; [RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)all. n. 2; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 67, [2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363)all. n. 4; [1993 3211](https://fedlex.data.admin.ch/eli/oc/1993/3211_3211_3211); [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)all. n. 19]
-[^annexu1-lvlu1-3]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66 [733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 n. I 12, 5679, **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12]
+[^annexu1-lvlu1-3]: [[RU 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 66, [733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 n. 3, 2363 all. n. 2; **1993** 3204; **1995** 1328 all. n. 2, 3517 n. I 12, 5679, **2000** 2355 all. n. 28; **2003** 232; **2004** 1677 all. n. 4, 2617 all. n. 12]
 [^annexu1-lvlu1-4]: [[RU 1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363), [1993 3247](https://fedlex.data.admin.ch/eli/oc/1993/3247_3247_3247)]
 [^annexu1-lvlu1-5]: [[RU 1993 3221](https://fedlex.data.admin.ch/eli/oc/1993/3221_3221_3221), [2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)all. n. 6]
 [^annexu1-lvlu1-6]: Le mod. possono essere consultate alla [RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734).

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Dezember 2004 betreffend die Aufsicht über Versich
 short: VAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/734"
 language: de
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2004-12-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2005-734-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-734-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20200101/de"
 
 (Versicherungsaufsichtsgesetz, VAG)
 
-vom 17. Dezember 2004 (Stand am 1. Januar 2020)
+vom 17. Dezember 2004 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -377,7 +377,7 @@ Der verantwortliche Aktuar oder die verantwortliche Aktuarin trägt die Verantwo
 [^26-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^26-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### 5. Abschnitt: Prüfung****
+### 5. Abschnitt: Prüfung
 
 [^chap3-sec5-1]
 
@@ -682,7 +682,7 @@ Die FINMA hat folgende Aufgaben:
 
 [^50-1]: Aufgehoben durch Anhang Ziff. 18 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### 2. Abschnitt: Sichernde Massnahmen, Liquidation und Konkurs****
+### 2. Abschnitt: Sichernde Massnahmen, Liquidation und Konkurs
 
 [^chap5-sec2-1]
 
@@ -729,13 +729,14 @@ Entzieht die FINMA einem Versicherungsunternehmen die Bewilligung zur Geschäfts
 
 <sup>1</sup> Besteht begründete Besorgnis, dass ein Versicherungsunternehmen überschuldet ist oder ernsthafte Liquiditätsprobleme hat, und besteht keine Aussicht auf Sanierung oder ist diese gescheitert, so entzieht die FINMA dem Versicherungsunternehmen die Bewilligung, eröffnet den Konkurs und macht diesen öffentlich bekannt.
 
-<sup>2</sup> Die Bestimmungen über das Nachlassverfahren (Art. 293–336 des BG vom 11. April 1889 über Schuldbetreibung und Konkurs, SchKG[^53-2]), über das aktienrechtliche Moratorium (Art. 725 und 725*a* des Obligationenrechts[^53-3]) und über die Benachrichtigung des Gerichts (Art. 728*c* Abs. 3 des Obligationenrechts) sind auf Versicherungsunternehmen nicht anwendbar.
+<sup>2</sup> Die Bestimmungen über das Nachlassverfahren (Art. 293–336 des BG vom 11. April 1889[^53-2] über Schuldbetreibung und Konkurs, SchKG) und über die Benachrichtigung des Gerichts (Art. 716*a* Abs. 1 Ziff. 8, 725*a* Abs. 3, 725*b* Abs. 3 und 728*c* Abs. 3 des Obligationenrechts[^53-3]) sind auf Versicherungsunternehmen nicht anwendbar.[^53-4]
 
 <sup>3</sup> Die FINMA ernennt einen oder mehrere Konkursliquidatoren. Diese unterstehen der Aufsicht der FINMA und erstatten ihr auf Verlangen Bericht.
 
 [^53-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^53-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^53-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^53-4]: Fassung gemäss Anhang Ziff. 13 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 54
 
@@ -812,7 +813,7 @@ Für die Anerkennung ausländischer Konkursdekrete und Insolvenzmassnahmen sowie
 [^54e-1]: Eingefügt durch Anhang Ziff. 15 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Anhang Ziff. II 19 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^54e-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### 3. Abschnitt: Zusätzliche Bestimmungen im Konkurs von Lebensversicherungen****
+### 3. Abschnitt: Zusätzliche Bestimmungen im Konkurs von Lebensversicherungen
 
 [^chap5-sec3-1]
 
@@ -1252,9 +1253,9 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-6]
 
-[^annexu1-lvlu1-1]: [BS **10** 296; [AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Art. 51 und Anhang Ziff. 1, **1992** 2363 Anhang Ziff. 3, **1993** 3209, **1995** 1227 Anhang Ziff. 18]
-[^annexu1-lvlu1-2]: [BS **10** 303; [AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 2, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 67 [2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363)Anhang Ziff. 4, [1993 3211](https://fedlex.data.admin.ch/eli/oc/1993/3211_3211_3211), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 19]
-[^annexu1-lvlu1-3]: [[AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 66 [733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)SchlB Art. 7 Ziff. 3 2363 Anhang Ziff. 2, **1993** 3204, **1995** 1328 Anhang Ziff. 2 3517 Ziff. I 12 5679, **2000** 2355 Anhang Ziff. 28, **2003** 232, **2004** 1677 Anhang Ziff. 4 2617 Anhang Ziff. 12]
-[^annexu1-lvlu1-4]: [[AS 1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363), [1993 3247](https://fedlex.data.admin.ch/eli/oc/1993/3247_3247_3247)]
-[^annexu1-lvlu1-5]: [[AS 1993 3221](https://fedlex.data.admin.ch/eli/oc/1993/3221_3221_3221), [2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)Anhang Ziff. 6]
+[^annexu1-lvlu1-1]: [BS **10** 296; [AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Art. 51 und Anhang Ziff. 1; **1992** 2363 Anhang Ziff. 3; **1993** 3209; **1995** 1227 Anhang Ziff. 18]
+[^annexu1-lvlu1-2]: [BS **10** 303; [AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 2; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 67, [2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363)Anhang Ziff. 4; [1993 3211](https://fedlex.data.admin.ch/eli/oc/1993/3211_3211_3211); [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)Anhang Ziff. 19]
+[^annexu1-lvlu1-3]: [[AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 66, [733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)SchlB Art. 7 Ziff. 3, 2363 Anhang Ziff. 2; **1993** 3204; **1995** 1328 Anhang Ziff. 2, 3517 Ziff. I 12, 5679; **2000** 2355 Anhang Ziff. 28; **2003** 232; **2004** 1677 Anhang Ziff. 4, 2617 Anhang Ziff. 12]
+[^annexu1-lvlu1-4]: [[AS 1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363); [1993 3247](https://fedlex.data.admin.ch/eli/oc/1993/3247_3247_3247)]
+[^annexu1-lvlu1-5]: [[AS 1993 3221](https://fedlex.data.admin.ch/eli/oc/1993/3221_3221_3221); [2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)Anhang Ziff. 6]
 [^annexu1-lvlu1-6]: Die Änderungen können unter [AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)konsultiert werden.

@@ -4,20 +4,20 @@ title: "Loi fédérale du 17 décembre 2004 sur la surveillance des entreprises 
 short: LSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/734"
 language: fr
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2004-12-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-734-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-734-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la surveillance des entreprises d’assurance<sup>∗</sup>
+# Loi fédérale sur la surveillance des entreprises d’assurance<sup></sup>
 
 (Loi sur la surveillance des assurances, LSA)[^t-1]
 
-du 17 décembre 2004 (Etat le 1<sup>er</sup> janvier 2020)
+du 17 décembre 2004 (Etat le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -377,7 +377,7 @@ L’actuaire responsable porte les responsabilités suivantes:
 [^26-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Section 5 Audit****
+### Section 5 Audit
 
 [^chap3-sec5-1]
 
@@ -681,7 +681,7 @@ La FINMA accomplit les tâches suivantes:
 
 [^50-1]: Abrogé par l’annexe ch. 18 de la L du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-### Section 2 Mesures de sûreté, liquidation et faillite****
+### Section 2 Mesures de sûreté, liquidation et faillite
 
 [^chap5-sec2-1]
 
@@ -728,13 +728,14 @@ Lorsque la FINMA retire son autorisation d’exploitation à une entreprise d’
 
 <sup>1</sup> Si des raisons sérieuses font craindre qu’une entreprise d’assurance ne soit surendettée ou qu’elle n’ait des problèmes de liquidité importants, la FINMA, à défaut de perspectives d’assainissement ou si l’assainissement a échoué, retire l’autorisation, prononce la faillite et la publie.
 
-<sup>2</sup> Les dispositions relatives à la procédure concordataire (art. 293 à 336 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite, LP[^53-2]), à l’ajournement de la faillite des sociétés anonymes (art. 725 et 725*a* CO[^53-3]) ainsi qu’à l’obligation d’aviser le juge (art. 728*c*, al. 3, CO) ne s’appliquent pas aux entreprises d’assurance.
+<sup>2</sup> Les dispositions relatives à la procédure concordataire (art. 293 à 336 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite, LP[^53-2]) et sur l’obligation d’aviser le tribunal (art. 716*a*, al. 1, ch. 8, 725*a*, al. 3, 725*b*, al. 3, et 728*c*, al. 3, du code des obligations[^53-3]) ne s’appliquent pas aux entreprises d’assurance.[^53-4]
 
 <sup>3</sup> La FINMA nomme un ou plusieurs liquidateurs de la faillite. Ceux-ci sont soumis à sa surveillance et lui font rapport à sa demande.
 
 [^53-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^53-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^53-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^53-4]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 54
 
@@ -811,7 +812,7 @@ Les art. 37*f* et 37*g* de la loi du 8 novembre 1934 sur les banques[^54d-2] s�
 [^54e-1]: Introduit par l’annexe ch. 15 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Nouvelle teneur selon l’annexe ch. II 19 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^54e-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### Section 3 Mesures supplémentaires applicables aux assurances sur la vie****
+### Section 3 Mesures supplémentaires applicables aux assurances sur la vie
 
 [^chap5-sec3-1]
 
@@ -1251,9 +1252,9 @@ Les lois mentionnées ci-après sont modifiées comme suit:
 
 ...[^annexu1-lvlu1-6]
 
-[^annexu1-lvlu1-1]: [RS **10** 286; [RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363), [1993 3209](https://fedlex.data.admin.ch/eli/oc/1993/3209_3209_3209), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)]
-[^annexu1-lvlu1-2]: [RS **10** 293; [RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)[2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363), [1993 3211](https://fedlex.data.admin.ch/eli/oc/1993/3211_3211_3211), [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)]
-[^annexu1-lvlu1-3]: [[RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836), [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 66[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 ch. 3 2363 annexe ch. 2, **1993** 3204, **1995** 1328 annexe ch. 23517 ch. I 12 5679, **2000** 2355 annexe ch. 28, **2003** 232, **2004** 1677 annexe ch. 42617 annexe ch. 12]
-[^annexu1-lvlu1-4]: [[RO 1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363), [1993 3247](https://fedlex.data.admin.ch/eli/oc/1993/3247_3247_3247)]
-[^annexu1-lvlu1-5]: [[RO 1993 3221](https://fedlex.data.admin.ch/eli/oc/1993/3221_3221_3221), [2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)]
+[^annexu1-lvlu1-1]: [RS **10** 286; [RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363); [1993 3209](https://fedlex.data.admin.ch/eli/oc/1993/3209_3209_3209); [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)]
+[^annexu1-lvlu1-2]: [RS **10** 293; [RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288), [2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363); [1993 3211](https://fedlex.data.admin.ch/eli/oc/1993/3211_3211_3211); [1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)]
+[^annexu1-lvlu1-3]: [[RO 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 66,[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)disp. fin. art. 7 ch. 3, 2363 annexe ch. 2; **1993** 3204; **1995** 1328 annexe ch. 2,3517 ch. I 12, 5679; **2000** 2355 annexe ch. 28; **2003** 232; **2004** 1677 annexe ch. 4,2617 annexe ch. 12]
+[^annexu1-lvlu1-4]: [[RO 1992 2363](https://fedlex.data.admin.ch/eli/oc/1992/2363_2363_2363); [1993 3247](https://fedlex.data.admin.ch/eli/oc/1993/3247_3247_3247)]
+[^annexu1-lvlu1-5]: [[RO 1993 3221](https://fedlex.data.admin.ch/eli/oc/1993/3221_3221_3221); [2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207)]
 [^annexu1-lvlu1-6]: Les mod. peuvent être consultées au [RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734).
