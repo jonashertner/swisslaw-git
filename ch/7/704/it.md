@@ -4,11 +4,11 @@ title: Legge federale del 4 ottobre 1985 sui percorsi pedonali e i sentieri (LPS
 short: LPS
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506"
 language: it
-version: 1996-02-01
+version: 2023-01-01
 adopted: 1985-10-04
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/19960201/it/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-19960201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,24 +17,31 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/it"
 
 (LPS)
 
-del 4 ottobre 1985 (Stato 1° febbraio 1996)
+del 4 ottobre 1985 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visto l’articolo 37<sup>quater</sup> della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 26 settembre 1983[^ingress-2],
+visti gli articoli 75*a* capoverso 3 e 88 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale del 26 settembre 1983[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [[RU 1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678)]
-[^ingress-2]: FF **1983** IV l
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022 sulle vie ciclabili, in vigore dal 1° gen. 2023 ([RU 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+[^ingress-3]: FF **1983** IV l
 
 ## Sezione 1: Scopo e definizioni
 
 #### Art. 1
 
-**Scopo**
+**Oggetto**[^1-1]
 
-Scopo della presente legge è la pianificazione, la sistemazione e il mantenimento di reti comunicanti di percorsi pedonali e sentieri.
+La presente legge:
+
+- a. stabilisce i principi che i Cantoni e i Comuni devono rispettare nella pianificazione, sistemazione e manutenzione delle reti di percorsi pedonali e sentieri;
+- b. disciplina il sostegno della Confederazione ai Cantoni e ai Comuni nella pianificazione, sistemazione e manutenzione delle reti di percorsi pedonali e sentieri e nell’informazione del pubblico su queste reti;
+- c. disciplina i compiti della Confederazione in materia di reti di percorsi pedonali e sentieri.
+
+[^1-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022 sulle vie ciclabili, in vigore dal 1° gen. 2023 ([RU 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 #### Art. 2
 
@@ -42,9 +49,11 @@ Scopo della presente legge è la pianificazione, la sistemazione e il mantenimen
 
 <sup>1</sup> Le reti di percorsi pedonali sono generalmente situate all’interno delle località.
 
-<sup>2</sup> Queste reti comprendono percorsi pedonali, zone pedonali, vie residenziali e simili, tra loro opportunamente collegati. Marciapiedi e strisce pedonali possono servire da raccordo.
+<sup>2</sup> Queste reti comprendono percorsi pedonali, zone pedonali, zone d’incontro e infrastrutture simili, tra loro opportunamente collegati. Marciapiedi e strisce pedonali possono servire da raccordo.[^2-1]
 
 <sup>3</sup> I percorsi pedonali allacciano e collegano in particolare i quartieri residenziali, i luoghi di lavoro, le scuole materne e le scuole, le fermate dei trasporti pubblici, gli edifici pubblici, i luoghi di ricreazione e d’acquisto.
+
+[^2-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022 sulle vie ciclabili, in vigore dal 1° gen. 2023 ([RU 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 #### Art. 3
 
@@ -124,6 +133,16 @@ Percorsi pedonali e sentieri vengono sostituiti in particolare se:
 
 Confederazione e Cantoni tengono conto anche degli interessi dell’agricoltura, dell’economia forestale, della protezione della natura e del paesaggio, nonché della difesa nazionale.
 
+#### Art. 9a
+
+**Messa a disposizione di geodati di base**[^9a-1]
+
+<sup>1</sup> I Cantoni mettono a disposizione della Confederazione i geodati di base aggiornati relativi alle proprie reti di percorsi pedonali e sentieri.
+
+<sup>2</sup> Il servizio tecnico della Confederazione preposto ai percorsi pedonali e ai sentieri può emanare prescrizioni sui requisiti qualitativi e tecnici dei geodati di base.
+
+[^9a-1]: Introdotto dall’all. n. 1 della LF del 18 mar. 2022 sulle vie ciclabili, in vigore dal 1° gen. 2023 ([RU 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+
 ## Sezione 3: Compiti speciali della Confederazione
 
 #### Art. 10
@@ -146,11 +165,47 @@ Nell’adempimento dei loro compiti, i servizi federali tengono conto delle reti
 
 Per la pianificazione, la sistemazione, la preservazione e la sostituzione di reti di percorsi pedonali e sentieri la Confederazione può assistere i Cantoni fornendo loro consulenza tecnica e documentazione.
 
+#### Art. 11a
+
+**Informazione del pubblico**[^11a-1]
+
+<sup>1</sup>
+
+La Confederazione informa il pubblico in merito:
+
+- a. all’importanza delle reti di percorsi pedonali e sentieri per il trasporto di persone nonché per il tempo libero e il turismo;
+- b. alle conoscenze di base relative alla pianificazione, alla sistemazione e alla manutenzione di reti di percorsi pedonali e sentieri.
+
+<sup>2</sup> Può sostenere i Cantoni e terzi nell’informare il pubblico in merito alle tematiche di cui al capoverso 1.
+
+<sup>3</sup> Pubblica geodati di base armonizzati sulla qualità e fruibilità delle reti di percorsi pedonali e di sentieri.
+
+<sup>4</sup> L’Ufficio federale di topografia rappresenta le reti di percorsi pedonali e sentieri nei modelli del paesaggio e nelle carte nazionali mediante i geodati di base della misurazione nazionale topografica e cartografica.
+
+[^11a-1]: Introdotto dall’all. n. 1 della LF del 18 mar. 2022 sulle vie ciclabili, in vigore dal 1° gen. 2023 ([RU 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+
 #### Art. 12
 
-**Aiuto alle organizzazioni private specializzate**
+**Collaborazione con organizzazioni private specializzate**[^12-1]
 
-La Confederazione può sussidiare le attività, giusta l’articolo 8, di organizzazioni private specializzate d’importanza nazionale.
+<sup>1</sup>
+
+La Confederazione può ricorrere a organizzazioni private specializzate attive nel settore dei percorsi pedonali e dei sentieri a livello nazionale per i seguenti compiti:
+
+- a. consulenza ai Cantoni, ai Comuni e a terzi;
+- b. messa a disposizione di documentazione per i Cantoni, i Comuni e terzi;
+- c. informazione del pubblico.
+
+<sup>2</sup> Essa può concedere aiuti finanziari a organizzazioni private specializzate per le attività di cui al capoverso 1. A tale scopo stipula con loro contratti di diritto pubblico.
+
+<sup>3</sup>
+
+Hanno diritto ad aiuti finanziari le organizzazioni private specializzate che:
+
+- a. operano nel settore dei percorsi pedonali e dei sentieri a livello nazionale; e
+- b. secondo i loro statuti perseguono da almeno tre anni scopi ideali in materia di percorsi pedonali e sentieri; eventuali attività economiche devono servire a raggiungere tali scopi ideali.
+
+[^12-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022 sulle vie ciclabili, in vigore dal 1° gen. 2023 ([RU 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 ## Sezione 4: Organizzazione e protezione giuridica
 
@@ -214,4 +269,4 @@ Nelle procedure federali e cantonali, indipendentemente da altre disposizioni in
 
 Data dell’entrata in vigore: il 1° gennaio 1987[^17-1]
 
-[^17-1]: DCF del 26 nov. 1986 (RU **1986** 2510).
+[^17-1]: DCF del 26 nov. 1986.

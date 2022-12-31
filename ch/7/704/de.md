@@ -4,11 +4,11 @@ title: Bundesgesetz vom 4. Oktober 1985 über Fuss- und Wanderwege (FWG)
 short: FWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506"
 language: de
-version: 1996-02-01
+version: 2023-01-01
 adopted: 1985-10-04
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/19960201/de/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-19960201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,24 +17,31 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/de"
 
 (FWG)
 
-vom 4. Oktober 1985 (Stand am 1. Februar 1996)
+vom 4. Oktober 1985 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf Artikel 37<sup>quater</sup> der Bundesverfassung[^ingress-1], nach Einsicht in eine Botschaft des Bundesrates vom 26. September 1983[^ingress-2],
+gestützt auf die Artikel 75*a* Absatz 3 und 88 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 26. September 1983[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [[AS 1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678)]
-[^ingress-2]: [BBl 1983 IV 1](https://fedlex.data.admin.ch/eli/fga/1983/4_1_1_1)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Fassung gemäss Anhang Ziff. 1 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+[^ingress-3]: [BBl 1983 IV 1](https://fedlex.data.admin.ch/eli/fga/1983/4_1_1_1)
 
 ## 1. Abschnitt: Zweck und Begriffe
 
 #### Art. 1
 
-**Zweck**
+**Gegenstand**[^1-1]
 
-Dieses Gesetz bezweckt die Planung, die Anlage und die Erhaltung zusammenhängender Fuss- und Wanderwegnetze.
+Dieses Gesetz:
+
+- a. legt die Grundsätze fest, die die Kantone und Gemeinden bei der Planung, Anlage und Erhaltung von Fuss- und Wanderwegnetzen beachten müssen;
+- b. regelt die Unterstützung der Kantone und Gemeinden durch den Bund bei der Planung, Anlage und Erhaltung von Fuss- und Wanderwegnetzen und bei der Information der Öffentlichkeit über diese Netze;
+- c. regelt die Aufgaben des Bundes im Bereich Fuss- und Wanderwegnetze.
+
+[^1-1]: Fassung gemäss Anhang Ziff. 1 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 #### Art. 2
 
@@ -42,9 +49,11 @@ Dieses Gesetz bezweckt die Planung, die Anlage und die Erhaltung zusammenhängen
 
 <sup>1</sup> Fusswegnetze sind Verkehrsverbindungen für die Fussgänger und liegen in der Regel im Siedlungsgebiet.
 
-<sup>2</sup> Sie umfassen untereinander zweckmässig verbundene Fusswege, Fussgängerzonen, Wohnstrassen und ähnliche Anlagen. Trottoirs und Fussgängerstreifen können als Verbindungsstücke dienen.
+<sup>2</sup> Sie umfassen untereinander zweckmässig verbundene Fusswege, Fussgängerzonen, Begegnungszonen und ähnliche Infrastrukturen. Trottoirs und Fussgängerstreifen können als Verbindungsstücke dienen.[^2-1]
 
 <sup>3</sup> Fusswegnetze erschliessen und verbinden insbesondere Wohngebiete, Arbeitsplätze, Kindergärten und Schulen, Haltestellen des öffentlichen Verkehrs, öffentliche Einrichtungen, Erholungsanlagen sowie Einkaufsläden.
+
+[^2-1]: Fassung gemäss Anhang Ziff. 1 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 #### Art. 3
 
@@ -124,6 +133,16 @@ Fuss- und Wanderwege sind insbesondere zu ersetzen, wenn sie:
 
 Bund und Kantone berücksichtigen auch die Anliegen der Land- und Forstwirtschaft, des Natur- und Heimatschutzes sowie der Landesverteidigung.
 
+#### Art. 9a
+
+**Zurverfügungstellung von Geobasisdaten**[^9a-1]
+
+<sup>1</sup> Die Kantone stellen dem Bund die aktuellen Geobasisdaten zu ihren Fuss- und Wanderwegnetzen zur Verfügung.
+
+<sup>2</sup> Die Fachstelle des Bundes für Fuss- und Wanderwege kann Vorschriften über die qualitativen und technischen Anforderungen an diese Geobasisdaten erlassen.
+
+[^9a-1]: Eingefügt durch Anhang Ziff. 1 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+
 ## 3. Abschnitt: Besondere Aufgaben des Bundes
 
 #### Art. 10
@@ -146,11 +165,47 @@ Die Bundesstellen berücksichtigen bei der Erfüllung ihrer Aufgaben die in den 
 
 Der Bund kann die Tätigkeiten der Kantone bei der Planung, der Anlage und der Erhaltung sowie beim Ersatz von Fuss- und Wanderwegnetzen durch fachliche Beratung und Beschaffung von Grundlagen unterstützen.
 
+#### Art. 11a
+
+**Information der Öffentlichkeit**[^11a-1]
+
+<sup>1</sup>
+
+Der Bund informiert die Öffentlichkeit über:
+
+- a. die Bedeutung von Fuss- und Wanderwegnetzen für die Bewältigung des Personenverkehrs sowie für Freizeit und Tourismus;
+- b. Grundlagenwissen in Bezug auf die Planung, Anlage und Erhaltung von Fuss- und Wanderwegnetzen.
+
+<sup>2</sup> Er kann die Kantone und Dritte unterstützen, wenn sie die Öffentlichkeit über Themen nach Absatz 1 informieren.
+
+<sup>3</sup> Er publiziert harmonisierte Geobasisdaten über die Qualität und die Benutzbarkeit der Fuss- und Wanderwegnetze.
+
+<sup>4</sup> Das Bundesamt für Landestopografie bildet die Fuss- und Wanderwegnetze anhand der Geobasisdaten der topografischen und kartografischen Landesvermessung in den Landschaftsmodellen und Landeskarten ab.
+
+[^11a-1]: Eingefügt durch Anhang Ziff. 1 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+
 #### Art. 12
 
-**Unterstützung der privaten Fachorganisationen**
+**Zusammenarbeit mit privaten Fachorganisationen**[^12-1]
 
-Der Bund kann privaten Fachorganisationen von gesamtschweizerischer Bedeutung für ihre Tätigkeiten nach Artikel 8 Beiträge ausrichten.
+<sup>1</sup>
+
+Der Bund kann für folgende Aufgaben private Fachorganisationen beiziehen, die im Bereich der Fuss- und Wanderwege gesamtschweizerisch tätig sind:
+
+- a. Beratung der Kantone, der Gemeinden und Dritter;
+- b. Beschaffung von Grundlagen für Kantone, Gemeinden und Dritte;
+- c. Information der Öffentlichkeit.
+
+<sup>2</sup> Er kann privaten Fachorganisationen für ihre Tätigkeiten nach Absatz 1 Finanzhilfen ausrichten. Er schliesst dazu öffentlich-rechtliche Verträge mit ihnen ab.
+
+<sup>3</sup>
+
+Beitragsberechtigt sind private Fachorganisationen, die:
+
+- a. im Bereich der Fuss- und Wanderwege gesamtschweizerisch tätig sind; und
+- b. gemäss ihren Statuten seit mindestens drei Jahren ideelle Zwecke im Bereich der Fuss- und Wanderwege verfolgen; allfällige wirtschaftliche Tätigkeiten müssen der Erreichung der ideellen Zwecke dienen.
+
+[^12-1]: Fassung gemäss Anhang Ziff. 1 des Veloweggesetzes vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [BBl 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 ## 4. Abschnitt: Organisation und Rechtsschutz
 
@@ -214,4 +269,4 @@ In eidgenössischen und kantonalen Verfahren sind unabhängig von den übrigen v
 
 Datum des Inkrafttretens: 1. Januar 1987[^17-1]
 
-[^17-1]: BRB vom 26. Nov. 1986 (AS **1986** 2510)
+[^17-1]: BRB vom 26. Nov. 1986

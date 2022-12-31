@@ -4,11 +4,11 @@ title: Loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les che
 short: LCPR
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506"
 language: fr
-version: 1996-02-01
+version: 2023-01-01
 adopted: 1985-10-04
 in_force: 1987-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/19960201/fr/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-19960201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,26 +17,33 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/2506_2506_2506/19960201/fr"
 
 (LCPR)
 
-du 4 octobre 1985 (Etat le 1<sup>er</sup> février 1996)
+du 4 octobre 1985 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 37<sup>quater</sup> de la constitution fédérale[^ingress-1];
+vu les art. 75*a*, al. 3, et 88 de la Constitution[^ingress-1],[^ingress-2]
 
-vu le message du Conseil fédéral du 26 septembre 1983[^ingress-2],
+vu le message du Conseil fédéral du 26 septembre 1983[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678)]
-[^ingress-2]: [FF 1983 IV 1](https://fedlex.data.admin.ch/eli/fga/1983/4_1_1_1)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+[^ingress-3]: [FF 1983 IV 1](https://fedlex.data.admin.ch/eli/fga/1983/4_1_1_1)
 
 ## Section 1 But et définitions
 
 #### Art. 1
 
-**But**
+**Objet**[^1-1]
 
-La présente loi a pour but l’établissement des plans des réseaux communicants de chemins pour piétons et de chemins de randonnée pédestre, ainsi que l’aménagement et la conservation de ces réseaux.
+La présente loi règle:
+
+- a. les principes que les cantons et les communes doivent respecter en matière de planification, d’aménagement et d’entretien des réseaux de chemins pour piétons et de chemins de randonnée pédestre;
+- b. le soutien que la Confédération apporte aux cantons et aux communes en matière de planification, d’aménagement et d’entretien des réseaux de chemins pour piétons et de chemins de randonnée pédestre et en matière d’information du public sur ces réseaux;
+- c. les tâches de la Confédération dans le domaine des réseaux de chemins pour piétons et de chemins de randonnée pédestre.
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 #### Art. 2
 
@@ -44,9 +51,11 @@ La présente loi a pour but l’établissement des plans des réseaux communican
 
 <sup>1</sup> Les réseaux de chemins pour piétons se trouvent en règle générale à l’intérieur des agglomérations.
 
-<sup>2</sup> Ces réseaux comprennent les chemins pour piétons proprement dits, les zones piétonnes, les rues résidentielles et autres voies du même type, judicieusement raccordés. Les trottoirs et les passages pour piétons peuvent servir de jonction.
+<sup>2</sup> Ils comprennent les chemins pour piétons, les zones piétonnes, les zones de rencontre et les autres infrastructures du même type, judicieusement raccordés. Les trottoirs et les passages pour piétons peuvent servir de jonction.[^2-1]
 
 <sup>3</sup> Les chemins pour piétons desservent et relient notamment les zones résidentielles, les lieux de travail, les jardins d’enfants et les écoles, les arrêts des transports publics, les établissements publics, les lieux de détente et les centres d’achat.
+
+[^2-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 #### Art. 3
 
@@ -126,6 +135,16 @@ Les chemins pour piétons et les chemins de randonnée pédestre doivent notamme
 
 La Confédération et les cantons prennent également en considération les intérêts de l’agriculture, de l’économie forestière, de la protection de la nature et du paysage ainsi que de la défense nationale.
 
+#### Art. 9a
+
+**Mise à disposition de géodonnées de base**[^9a-1]
+
+<sup>1</sup> Les cantons mettent à la disposition de la Confédération les géodonnées de base actualisées concernant leurs réseaux de chemins pour piétons et de chemins de randonnée pédestre.
+
+<sup>2</sup> Le service spécialisé de la Confédération responsable des chemins pour piétons et des chemins de randonnée pédestre peut édicter des prescriptions relatives aux exigences qualitatives et techniques auxquelles ces géodonnées de base doivent répondre.
+
+[^9a-1]: Introduit par l’annexe ch. 1 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+
 ## Section 3 Tâches spéciales de la Confédération
 
 #### Art. 10
@@ -148,11 +167,47 @@ Dans l’accomplissement de leurs tâches, les services fédéraux s’efforcent
 
 La Confédération peut, par des conseils techniques et de la documentation, aider les cantons à établir des plans de réseaux de chemins pour piétons et de chemins de randonnée pédestre, ainsi qu’à aménager, conserver et remplacer ces chemins.
 
+#### Art. 11a
+
+**Information du public**[^11a-1]
+
+<sup>1</sup>
+
+La Confédération informe le public:
+
+- a. sur l’importance des réseaux de chemins pour piétons et de chemins de randonnée pédestre pour les déplacements des personnes, les loisirs et le tourisme;
+- b. sur les connaissances fondamentales en matière de planification, d’aménagement et d’entretien des réseaux de chemins pour piétons et de chemins de randonnée pédestre.
+
+<sup>2</sup> Elle peut soutenir les cantons et les tiers lorsqu’ils informent le public sur les sujets visés à l’al. 1.
+
+<sup>3</sup> Elle publie des géodonnées de base harmonisées sur la qualité et la disponibilité des réseaux de chemins pour piétons et de chemins de randonnée pédestre.
+
+<sup>4</sup> L’Office fédéral de topographie représente les réseaux de chemins pour piétons et de chemins de randonnée pédestre dans les modèles du territoire et les cartes nationales à l’aide des géodonnées de base de la mensuration nationale topographique et cartographique.
+
+[^11a-1]: Introduit par l’annexe ch. 1 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
+
 #### Art. 12
 
-**Aide aux organisations privées spécialisées**
+**Collaboration avec des organisations privées spécialisées**[^12-1]
 
-La Confédération peut allouer des subventions aux organisations privées spécialisées d’importance nationale pour leurs activités au sens de l’art. 8.
+<sup>1</sup>
+
+La Confédération peut faire appel à des organisations privées spécialisées qui sont actives au niveau national dans le domaine des chemins pour piétons et des chemins de randonnée pédestre pour l’accomplissement des tâches suivantes:
+
+- a. conseiller les cantons, les communes et les tiers;
+- b. fournir des bases décisionnelles pour les cantons, les communes et les tiers;
+- c. informer le public.
+
+<sup>2</sup> Elle peut allouer des aides financières à des organisations privées spécialisées pour les tâches visées à l’al. 1. Elle conclut à cette fin des contrats de droit public avec elles.
+
+<sup>3</sup>
+
+Les organisations privées spécialisées qui remplissent les conditions suivantes ont droit aux aides:
+
+- a. elles sont actives au niveau national dans le domaine des chemins pour piétons et des chemins de randonnée pédestre;
+- b. elles poursuivent, conformément à leurs statuts, un but non lucratif dans le domaine des chemins pour piétons et des chemins de randonnée pédestre depuis au moins 3 ans; si elles exercent des activités à but lucratif, celles-ci doivent servir le but non lucratif.
+
+[^12-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022 sur les voies cyclables, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 790](https://fedlex.data.admin.ch/eli/oc/2022/790); [FF 2021 1260](https://fedlex.data.admin.ch/eli/fga/2021/1260)).
 
 ## Section 4 Organisation et protection juridique
 
