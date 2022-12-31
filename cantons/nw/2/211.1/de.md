@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 short: "Einführungsgesetz zum Zivilgesetzbuch, EG ZGB"
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2020-02-12
+version: 2023-01-01
+valid_until: 2025-03-31
+version_adopted: 2022-10-26
 adopted: 1988-04-24
 in_force: 1988-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1002/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1002/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)
 
-vom 24.04.1988 (Stand 01.02.2022)
+vom 24.04.1988 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -242,6 +242,8 @@ beschliesst:
 **Aufsicht**
 
 <sup>1</sup> Die zuständige Direktion ist die Aufsichtsbehörde im Sinne von Art. 45 ZGB.
+
+<sup>2</sup> Der Regierungsrat kann die Erfüllung der Aufgaben gemäss Art. 45 Abs. 2 ZGB einem anderen Kanton übertragen.
 
 #### Art. 18a
 
