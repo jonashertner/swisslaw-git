@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° luglio 2021)
+del 24 novembre 2004 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -80,18 +80,21 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e. maternità;
-- f.[^4-2] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g.[^4-3] altri motivi indipendenti dalla sua volontà.
+- e.[^4-2] maternità o paternità;
+- f.[^4-3] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g.[^4-4] accoglimento di un bambino di età inferiore a quattro anni in vista dell’adozione (adottando);
+- h.[^4-5] altri motivi non imputabili a colpa propria.
 
 <sup>2</sup> Per la persona che prova che nel corso del servizio avrebbe intrapreso un’attività lucrativa dipendente per un periodo più lungo o che avrebbe percepito un salario significativamente superiore a quello percepito prima dell’entrata in servizio, l’indennità è calcolata sulla base del salario che essa avrebbe potuto percepire. Se ha portato a termine la sua formazione subito prima dell’entrata in servizio o l’avrebbe conclusa durante il medesimo, l’indennità è calcolata sulla base del salario iniziale percepito di norma per la professione in questione nella regione in cui sarebbe stata esercitata.
 
-<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-4] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
+<sup>3</sup> Per chi collabora ad un’azienda della propria famiglia senza essere retribuito in termini monetari e presta servizio prima del 1° gennaio dell’anno successivo a quello in cui ha compiuto vent’anni, l’indennità è calcolata sulla base del salario mensile globale ai sensi dell’articolo 14 capoverso 3 dell’ordinanza del 31 ottobre 1947[^4-6] sull’assicurazione per la vecchiaia e per i superstiti (OAVS).
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-3]: Introdotta dal n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: Introdotta dal n. I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-5]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -414,13 +417,18 @@ Per determinare la durata minima del periodo d’assicurazione secondo l’artic
 
 **Riduzione del periodo d’assicurazione minimo in caso di parto prematuro**
 
-### (art. 16*b* cpv. 2 LIPG)
+### (art. 16*b* cpv. 2 e 16*i* cpv. 2 LIPG)
 
-In caso di parto prematuro il periodo d’assicurazione stabilito all’articolo 16*b* capoverso 1 lettera a LIPG è ridotto:
+[^27-1]
+
+In caso di parto prematuro il periodo d’assicurazione stabilito all’articolo 16*b* capoverso 1 lettera a o all’articolo 16*i* capoverso 1 lettera b LIPG è ridotto:[^27-2]
 
 - a. a 8 mesi, se il parto ha luogo tra l’ottavo e il nono mese di gravidanza;
 - b. a 7 mesi, se il parto ha luogo tra il settimo e l’ottavo mese di gravidanza;
 - c. a 6 mesi, se il parto ha luogo prima del settimo mese di gravidanza.
+
+[^27-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^27-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Sezione 3: Durata minima del periodo di attività lucrativa
 
@@ -518,16 +526,23 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e. altri motivi indipendenti dalla sua volontà.
+- e.[^31-3] maternità o paternità;
+- f.[^31-4] assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g.[^31-5] accoglimento di un adottando di età inferiore a quattro anni;
+- h.[^31-6] altri motivi non imputabili a colpa propria.
 
-<sup>2</sup> L’indennità della madre e quella del padre sono calcolate separatamente.[^31-3]
+<sup>2</sup> L’indennità della madre e quella del padre sono calcolate separatamente.[^31-7]
 
-<sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.[^31-4]
+<sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.[^31-8]
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^31-2]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-3]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-4]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-3]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-4]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-5]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-6]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-8]: Introdotto dal n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 32
 
@@ -535,19 +550,19 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 
 ### (art. 16*e* e 16*l* LIPG)
 
-Alle madri e ai padri che esercitano un’attività lucrativa indipendente si applica per analogia l’articolo 7 capoverso 1.
+Alle madri e ai padri che esercitano un’attività lucrativa indipendente si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^32-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
-#### Art. 33
+#### [Art. 33](https://www.fedlex.admin.ch/eli/cc/2005/187/it)
 
-**Indennità per madri e padri che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente**[^33-1]
+**[Indennità per madri e padri che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente](https://www.fedlex.admin.ch/eli/cc/2005/187/it)**[^33-1]
 
 ### (art. 16*e* e 16*l* LIPG)
 
-L’indennità per madri e padri che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoverso 1 e 31.
+L’indennità per madri e padri che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 31.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^33-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Sezione 5: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -677,29 +692,38 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 - b. infortunio;
 - c. disoccupazione;
 - d. servizio ai sensi dell’articolo 1*a* LIPG;
-- e. maternità;
+- e.[^35f-1] maternità o paternità;
 - f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
-- g. altri motivi indipendenti dalla sua volontà.
+- g.[^35f-2] accoglimento di un adottando di età inferiore a quattro anni;
+- h.[^35f-3] altri motivi non imputabili a colpa propria.
 
 <sup>2</sup> L’indennità giornaliera è ricalcolata se il salario determinante cambia durante la fruizione dei giorni di congedo.
 
 <sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.
 
+[^35f-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-3]: Introdotta dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
 #### Art. 35g
 
-**Indennità per lavoratori indipendenti**
+**Indennità per lavoratori indipendenti**[^35g-1]
 
 ### (art. 16*r* LIPG)
 
-Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7 capoverso 1.
+Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
+
+[^35g-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35h
 
-**Indennità per aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente**
+**Indennità per aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente**[^35h-1]
 
 ### (art. 16*r* LIPG)
 
-L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoverso 1 e 35*f*.
+L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente e quelli da attività lucrativa indipendente, accertati in base agli articoli 7 capoversi 1 e 1<sup>bis</sup> e 35*f*.
+
+[^35h-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Sezione 3: Esercizio del diritto, fissazione e pagamento dell’indennità
 
@@ -729,19 +753,128 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 #### Art. 35k
 
-**Fissazione e pagamento dell’indennità**
+**Pagamento dell’indennità**[^35k-1]
 
 ### (art. 17–19 LIPG)
 
-<sup>1</sup> Per la fissazione dell’indennità si applica per analogia l’articolo 22.
+<sup>1</sup> L’indennità è versata mensilmente e posticipatamente. È fatta salva la compensazione di cui all’articolo 19 capoverso 2 LPGA oppure all’articolo 20 capoverso 2 LAVS[^35k-2].
 
-<sup>2</sup> L’indennità è versata mensilmente e posticipatamente. È fatta salva la compensazione di cui all’articolo 19 capoverso 2 LPGA oppure all’articolo 20 capoverso 2 LAVS[^35k-1].
+<sup>2</sup> Le indennità sono versate su un conto bancario o postale.
 
-<sup>3</sup> Le indennità sono versate su un conto corrente bancario o postale.
+<sup>3</sup> Come ricevute valgono i giustificativi interni delle casse, le attestazioni di conteggio di Postfinance e le distinte del conto bancario.
+
+<sup>4</sup> Per la fissazione e il pagamento dell’indennità delle persone che abitano all’estero si applica per analogia l’articolo 22.
+
+[^35k-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+## Capitolo 2*b*: Indennità in caso di adozione
+
+[^chap2b-1]
+
+[^chap2b-1]: Introdotto dal n. I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
+### Sezione 1: Durata minima del periodo d’assicurazione e durata minima del periodo di attività lucrativa
+
+#### Art. 35l
+
+**Computo dei periodi d’assicurazione e dei periodi di attività lucrativa all’estero**
+
+### (art. 16*t* cpv. 1 lett. b LIPG)
+
+Per determinare la durata minima del periodo d’assicurazione e la durata minima del periodo di attività lucrativa secondo l’articolo 16*t* capoverso 1 lettera b LIPG si applicano per analogia gli articoli 26 e 28.
+
+#### Art. 35m
+
+**Computo dei periodi di riscossione di indennità giornaliere**
+
+### (art. 16*t* cpv. 1 lett. b LIPG)
+
+Per determinare la durata minima del periodo di attività lucrativa secondo l’articolo 16*t* capoverso 1 lettera b LIPG si tiene conto anche dei periodi durante i quali l’avente diritto:
+
+- a. ha prestato servizio ai sensi dell’articolo 1*a* LIPG; o
+- b. ha beneficiato di indennità giornaliere dovute a malattia o infortunio versate dall’assicurazione contro la disoccupazione, dall’assicurazione invalidità oppure da un’assicurazione sociale o da un’assicurazione privata.
+
+### Sezione 2: Calcolo dell’indennità
+
+#### Art. 35n
+
+**Indennità per lavoratori salariati**
+
+### (art. 16*w* LIPG)
+
+<sup>1</sup>
+
+L’indennità è calcolata sulla base dell’ultimo salario determinante percepito prima dell’accoglimento dell’adottando, convertito in salario giornaliero medio. Per la conversione non si tiene conto dei giorni in cui l’avente diritto non ha percepito o ha percepito solo parzialmente un salario a causa di:
+
+- a. malattia;
+- b. infortunio;
+- c. disoccupazione;
+- d. servizio ai sensi dell’articolo 1*a* LIPG;
+- e. maternità o paternità;
+- f. assistenza a un figlio con gravi problemi di salute ai sensi dell’articolo 16*o* LIPG;
+- g. accoglimento di un adottando di età inferiore a quattro anni;
+- h. altri motivi non imputabili a colpa propria.
+
+<sup>2</sup> Gli articoli 5 e 6 si applicano per analogia.
+
+#### Art. 35o
+
+**Indennità per lavoratori indipendenti**
+
+### (art. 16*w* LIPG)
+
+Ai lavoratori indipendenti aventi diritto si applica per analogia l’articolo 7 capoversi 1 e 1<sup>bis</sup>.
+
+#### Art. 35p
+
+**Indennità per aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente**
+
+### (art. 16*w* LIPG)
+
+L’indennità per gli aventi diritto che esercitano contemporaneamente un’attività lucrativa dipendente e una indipendente è calcolata sommando i redditi da attività lucrativa dipendente accertati in base all’articolo 35*n* e quelli da attività lucrativa indipendente accertati in base all’articolo 7 capoversi 1 e 1<sup>bis</sup>.
+
+### Sezione 3: Esercizio del diritto, fissazione e pagamento dell’indennità
+
+#### Art. 35q
+
+**Cassa di compensazione competente**
+
+### (art. 17–19 LIPG)
+
+<sup>1</sup> Competente per ricevere la domanda nonché fissare e pagare le indennità è la Cassa federale di compensazione (CFC).
+
+- [tab] <sup>2</sup> La domanda del lavoratore salariato deve pervenire per il tramite del suo datore di lavoro.
+
+#### Art. 35r
+
+**Attestati**
+
+### (art. 17–19 LIPG)
+
+<sup>1</sup> Per gli aventi diritto che all’inizio del periodo di diritto all’indennità esercitano un’attività lucrativa dipendente, il datore di lavoro attesta, sul formulario per l’esercizio del diritto all’indennità, il salario determinante per il calcolo dell’indennità, il salario versato durante il periodo di diritto all’indennità nonché la durata dell’impiego.
+
+<sup>2</sup> Il datore di lavoro presso il quale l’avente diritto è impiegato durante il congedo di adozione attesta la fruizione dei giorni di congedo.
+
+<sup>3</sup> I lavoratori indipendenti inoltrano alla CFC la decisione di tassazione fiscale, non appena l’hanno ricevuta.
+
+#### Art. 35s
+
+**Pagamento dell’indennità**
+
+### (art. 17–19 LIPG)
+
+<sup>1</sup> L’indennità è versata in una volta sola posticipatamente, dopo l’estinzione del diritto secondo l’articolo 16*u* capoverso 3 LIPG.
+
+<sup>2</sup> È fatta salva la compensazione di cui all’articolo 19 capoverso 2 LPGA oppure all’articolo 20 capoverso 2 LAVS[^35s-1].
+
+<sup>3</sup> Le indennità sono versate su un conto bancario o postale.
 
 <sup>4</sup> Come ricevute valgono i giustificativi interni delle casse, le attestazioni di conteggio di Postfinance e le distinte del conto bancario.
 
-[^35k-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+<sup>5</sup> Per la fissazione e il pagamento dell’indennità delle persone che abitano all’estero si applica per analogia l’articolo 22.
+
+[^35s-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## Capitolo 3: Disposizioni comuni
 
@@ -756,29 +889,30 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 <table>
 <tr><th colspan="2">Reddito annuo dell’attività lucrativa</th><th></th><th>Tasso di contributo in percentuale del reddito dell’attività lucrativa</th></tr>
 <tr><th>di almeno fr.</th><th colspan="2">ma inferiore a fr.</th><th></th></tr>
-<tr><td>9 600</td><td colspan="2">17 400</td><td>0,269</td></tr>
-<tr><td>17 400</td><td colspan="2">21 400</td><td>0,275</td></tr>
-<tr><td>21 400</td><td colspan="2">23 800</td><td>0,281</td></tr>
-<tr><td>23 800</td><td colspan="2">26 200</td><td>0,287</td></tr>
-<tr><td>26 200</td><td colspan="2">28 600</td><td>0,293</td></tr>
-<tr><td>28 600</td><td colspan="2">31 000</td><td>0,299</td></tr>
-<tr><td>31 000</td><td colspan="2">33 400</td><td>0,312</td></tr>
-<tr><td>33 400</td><td colspan="2">35 800</td><td>0,324</td></tr>
-<tr><td>35 800</td><td colspan="2">38 200</td><td>0,336</td></tr>
-<tr><td>38 200</td><td colspan="2">40 600</td><td>0,349</td></tr>
-<tr><td>40 600</td><td colspan="2">43 000</td><td>0,361</td></tr>
-<tr><td>43 000</td><td colspan="2">45 400</td><td>0,373</td></tr>
-<tr><td>45 400</td><td colspan="2">47 800</td><td>0,392</td></tr>
-<tr><td>47 800</td><td colspan="2">50 200</td><td>0,410</td></tr>
-<tr><td>50 200</td><td colspan="2">52 600</td><td>0,429</td></tr>
-<tr><td>52 600</td><td colspan="2">55 000</td><td>0,448</td></tr>
-<tr><td>55 000</td><td colspan="2">57 400</td><td>0,466</td></tr>
+<tr><td>9800</td><td colspan="2">17 500</td><td>0,269</td></tr>
+<tr><td>17 500</td><td colspan="2">21 300</td><td>0,275</td></tr>
+<tr><td>21 300</td><td colspan="2">23 800</td><td>0,281</td></tr>
+<tr><td>23 800</td><td colspan="2">26 300</td><td>0,287</td></tr>
+<tr><td>26 300</td><td colspan="2">28 800</td><td>0,293</td></tr>
+<tr><td>28 800</td><td colspan="2">31 300</td><td>0,299</td></tr>
+<tr><td>31 300</td><td colspan="2">33 800</td><td>0,312</td></tr>
+<tr><td>33 800</td><td colspan="2">36 300</td><td>0,324</td></tr>
+<tr><td>36 300</td><td colspan="2">38 800</td><td>0,336</td></tr>
+<tr><td>38 800</td><td colspan="2">41 300</td><td>0,349</td></tr>
+<tr><td>41 300</td><td colspan="2">43 800</td><td>0,361</td></tr>
+<tr><td>43 800</td><td colspan="2">46 300</td><td>0,373</td></tr>
+<tr><td>46 300</td><td colspan="2">48 800</td><td>0,392</td></tr>
+<tr><td>48 800</td><td colspan="2">51 300</td><td>0,410</td></tr>
+<tr><td>51 300</td><td colspan="2">53 800</td><td>0,429</td></tr>
+<tr><td>53 800</td><td colspan="2">56 300</td><td>0,448</td></tr>
+<tr><td>56 300</td><td colspan="2">58 800</td><td>0,466 .[^36-3]</td></tr>
 </table>
 
 <sup>2</sup> Le persone che non esercitano un’attività lucrativa versano un contributo da 24 a 1200 franchi annui. Gli articoli 28–30 OAVS si applicano per analogia.
 
 [^36-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^36-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^36-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 610](https://fedlex.data.admin.ch/eli/oc/2022/610)).
 
 #### Art. 37
 
@@ -873,7 +1007,7 @@ Le seguenti ordinanze sono abrogate:
 - 1\. ordinanza del 24 dicembre 1959[^44-1] sulle indennità per perdita di guadagno (OIPG)
 - 2\. ordinanza del 31 luglio 1972[^44-2] sulle indennità per perdita di guadagno ai partecipanti ai corsi per monitori di «Gioventù e Sport»
 
-[^44-1]: [[RU 1959 2240](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240), [1964 332](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332), [1969 324](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324), [1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/__2056)[2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153), [1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63), [1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)art. 5, [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)art. 5, [1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397), [1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842), [1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177), [1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)app. 3 n. 9, [1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305), [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 8 [3350](https://fedlex.data.admin.ch/eli/oc/2002/506)[3942](https://fedlex.data.admin.ch/eli/oc/2002/618), [2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)n. II, [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
+[^44-1]: [[RU 1959 2240](https://fedlex.data.admin.ch/eli/oc/1959/2143_2209_2240); [1964 332](https://fedlex.data.admin.ch/eli/oc/1964/337_329_332); [1969 324](https://fedlex.data.admin.ch/eli/oc/1969/315_323_324); [1973 2056](https://fedlex.data.admin.ch/eli/oc/1973/__2056), [2153](https://fedlex.data.admin.ch/eli/oc/1973/2153_2153_2153); [1976 63](https://fedlex.data.admin.ch/eli/oc/1976/63_63_63); [1981 1020](https://fedlex.data.admin.ch/eli/oc/1981/1020_1020_1020)art. 5; [1983 919](https://fedlex.data.admin.ch/eli/oc/1983/919_919_919)art. 5; [1987 1397](https://fedlex.data.admin.ch/eli/oc/1987/1397_1397_1397); [1992 1842](https://fedlex.data.admin.ch/eli/oc/1992/1842_1842_1842); [1994 2177](https://fedlex.data.admin.ch/eli/oc/1994/2177_2177_2177); [1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)app. 3 n. 9; [1999 1854](https://fedlex.data.admin.ch/eli/oc/1999/305); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 8, [3350](https://fedlex.data.admin.ch/eli/oc/2002/506), [3942](https://fedlex.data.admin.ch/eli/oc/2002/618); [2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)n. II; [2004 4377](https://fedlex.data.admin.ch/eli/oc/2004/667)]
 [^44-2]: [[RU 1972 1954](https://fedlex.data.admin.ch/eli/oc/1972/1750_1774_1954)]
 
 #### Art. 45

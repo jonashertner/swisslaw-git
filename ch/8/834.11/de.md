@@ -4,20 +4,20 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20230101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Erwerbsersatzverordnung****
+# Erwerbsersatzverordnung
 
 (EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Juli 2021)
+vom 24. November 2004 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
@@ -82,18 +82,21 @@ Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des let
 - b. Unfall;
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
-- e. Mutterschaft;
-- f.[^4-2] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
-- g.[^4-3] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- e.[^4-2] Mutterschaft oder Vaterschaft;
+- f.[^4-3] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- g.[^4-4] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h.[^4-5] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
 <sup>2</sup> Für Personen, die glaubhaft machen, dass sie während des Dienstes eine unselbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten oder einen wesentlich höheren Lohn als vor dem Einrücken erzielt hätten, wird die Entschädigung auf Grund des Lohns berechnet, der ihnen entgangen ist. Haben sie unmittelbar vor dem Einrücken ihre Ausbildung abgeschlossen oder hätten sie diese während des Dienstes beendet, so wird die Entschädigung auf Grund des ortsüblichen Anfangslohns im betreffenden Beruf berechnet.
 
-<sup>3</sup> Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947[^4-4] über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.
+<sup>3</sup> Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947[^4-6] über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-2]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -352,7 +355,7 @@ Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrich
 
 [^22-1]: [SR 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
 
-## 2. Kapitel: Entschädigung bei Mutterschaft und Vaterschaft****
+## 2. Kapitel: Entschädigung bei Mutterschaft und Vaterschaft
 
 [^chap2-1]
 
@@ -417,19 +420,24 @@ Zur Bestimmung der Mindestversicherungsdauer nach Artikel 16*b* Absatz 1 Buchsta
 
 **Herabsetzung der Mindestversicherungsdauer bei vorzeitiger Geburt**
 
-### (Art. 16*b* Abs. 2 EOG)
+### (Art. 16*b* Abs. 1 Bst. b und 16*i* Abs. 1 Bst. c EOG)
 
-Bei vorzeitiger Geburt wird die in Artikel 16*b* Absatz 1 Buchstabe a EOG festgesetzte Versicherungsdauer herabgesetzt:
+[^27-1]
+
+Bei vorzeitiger Geburt wird die in Artikel 16*b* Absatz 1 Buchstabe a oder Artikel 16*i* Absatz 1 Buchstabe b EOG festgelegte Versicherungsdauer herabgesetzt:[^27-2]
 
 - a. auf 8 Monate, wenn die Geburt zwischen dem 8. und 9. Schwangerschaftsmonat erfolgt;
 - b. auf 7 Monate, wenn die Geburt zwischen dem 7. und 8. Schwangerschafts-monat erfolgt;
 - c. auf 6 Monate, wenn die Geburt vor dem 7. Schwangerschaftsmonat erfolgt.
 
+[^27-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
 ### 3. Abschnitt: Mindesterwerbsdauer
 
 #### Art. 28
 
-**Anrechnung ausländischer Beschäftigungszeiten**
+**Anrechnung ausländischer Erwerbszeiten**
 
 ### (Art. 16*b* Abs. 1 Bst. b und 16*i* Abs. 1 Bst. c EOG)
 
@@ -440,7 +448,7 @@ Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b o
 - a. für den das Abkommen vom 21. Juni 1999[^28-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnung Nr. 1408/71 und Nr. 574/72[^28-4] in ihrer angepassten Fassung[^28-5] gelten;
 - b. der der Europäischen Freihandelszone angehört.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^28-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^28-2]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^28-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^28-4]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71, ABl Nr. L 74 vom 27. März 1972, S. 1 (ebenfalls kodifiziert durch die Verordnung [EG] Nr. 118/97 des Rates vom 2. Dez. 1996, ABl Nr. L 28 vom 30. Jan. 1997, S. 1); zuletzt geändert durch Verordnung (EG) Nr. 307/1999 des Rates vom 8. Febr. 1999, ABl Nr. L 38 vom 12. Febr. 1999, S. 1.
@@ -521,17 +529,23 @@ Die Entschädigung wird aufgrund des letzten vor der Geburt erzielten und auf de
 - b. Unfall;
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
-- e.[^31-3] anderer Gründe, die nicht auf ihr oder sein Verschulden zurückzuführen sind.
+- e.[^31-3] Mutterschaft oder Vaterschaft;
+- f.[^31-4] Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- g.[^31-5] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h.[^31-6] anderer Gründe, die nicht auf ihr oder sein Verschulden zurückzuführen sind.
 
-<sup>2</sup> Die Entschädigungen für die Mutter und den Vater werden gesondert berechnet.[^31-4]
+<sup>2</sup> Die Entschädigungen für die Mutter und den Vater werden gesondert berechnet.[^31-7]
 
-<sup>3</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.[^31-5]
+<sup>3</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.[^31-8]
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^31-2]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-3]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-4]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-3]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-4]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-5]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-8]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 32
 
@@ -539,9 +553,9 @@ Die Entschädigung wird aufgrund des letzten vor der Geburt erzielten und auf de
 
 ### (Art. 16*e* und 16*l* EOG)
 
-Für selbstständigerwerbende Mütter und Väter ist Artikel 7 Absatz 1 sinngemäss anwendbar.
+Für selbstständigerwerbende Mütter und Väter ist Artikel 7 Absätze 1 und 1<sup>bis</sup> sinngemäss anwendbar.
 
-[^32-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 33
 
@@ -549,9 +563,9 @@ Für selbstständigerwerbende Mütter und Väter ist Artikel 7 Absatz 1 sinngem�
 
 ### (Art. 16*e* und 16*l* EOG)
 
-Die Entschädigung für Mütter und Väter, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird aufgrund der Summe der Einkommen aus unselbstständiger und selbstständiger Erwerbstätigkeit berechnet, die nach den Artikeln 7 Absatz 1 und 31 ermittelt werden.
+Die Entschädigung für Mütter und Väter, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird aufgrund der Summe der Einkommen aus unselbstständiger und selbstständiger Erwerbstätigkeit berechnet, die nach den Artikeln 7 Absätze 1 und 1<sup>bis</sup> sowie 31 ermittelt werden.
 
-[^33-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^33-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
 
@@ -609,7 +623,7 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und Auszah
 [^35-4]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
-## 2*a*. Kapitel:**** Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+## 2*a*. Kapitel: Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
 
 [^chap2a-1]
 
@@ -681,29 +695,38 @@ Die Entschädigung wird aufgrund des letzten vor dem Bezug der jeweiligen Urlaub
 - b. Unfall;
 - c. Arbeitslosigkeit;
 - d. Dienst im Sinne von Artikel 1*a* EOG;
-- e. Mutterschaft;
+- e.[^35f-1] Mutterschaft oder Vaterschaft;
 - f. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
-- g. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+- g.[^35f-2] Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h.[^35f-3] anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
 
 <sup>2</sup> Das Taggeld wird neu berechnet, wenn sich das massgebende Einkommen während des Bezugs der Urlaubstage verändert.
 
 <sup>3</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
 
+[^35f-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-2]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-3]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
 #### Art. 35g
 
-**Entschädigung für Selbstständigerwerbende**
+**Entschädigung für Selbstständigerwerbende**[^35g-1]
 
 ### (Art. 16*r* EOG)
 
-Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absatz 1 sinngemäss anwendbar.
+Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absätze 1 und 1<sup>bis</sup> sinngemäss anwendbar.
+
+[^35g-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35h
 
-**Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind**
+**Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitneh-mende und Selbstständigerwerbende sind**[^35h-1]
 
 ### (Art. 16*r* EOG)
 
-Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35*f* ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absatz 1 ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.
+Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35*f* ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absätze 1 und 1<sup>bis</sup> ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.
+
+[^35h-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
 
@@ -733,19 +756,128 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 
 #### Art. 35k
 
-**Festsetzung und Auszahlung der Entschädigung**
+**Auszahlung der Entschädigung**[^35k-1]
 
 ### (Art. 17–19 EOG)
 
-<sup>1</sup> Für die Festsetzung der Entschädigung ist Artikel 22 sinngemäss anwendbar.
+<sup>1</sup> Die Entschädigung wird monatlich nachschüssig ausgerichtet. Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^35k-2].
 
-<sup>2</sup> Die Entschädigung wird monatlich nachschüssig ausgerichtet. Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^35k-1].
+<sup>2</sup> Die Entschädigungen werden auf ein Bank- oder Postkonto ausbezahlt.
+
+<sup>3</sup> Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.
+
+<sup>4</sup> Für die Festsetzung und die Auszahlung der Entschädigung von Personen, die im Ausland wohnen, ist Artikel 22 sinngemäss anwendbar.
+
+[^35k-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35k-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+## 2*b*. Kapitel: Adoptionsentschädigung
+
+[^chap2b-1]
+
+[^chap2b-1]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
+### 1. Abschnitt: Mindestversicherungsdauer und Mindesterwerbsdauer
+
+#### Art. 35l
+
+**Anrechnung ausländischer Versicherungs- und Erwerbszeiten**
+
+### (Art. 16*t* Abs. 1 Bst. b EOG)
+
+Für die Bestimmung der Mindestversicherungs- und der Mindesterwerbsdauer nach Artikel 16*t* Absatz 1 Buchstabe b EOG gelten die Artikel 26 und 28 sinngemäss.
+
+#### Art. 35m
+
+**Anrechnung von Zeiten mit Taggeldbezug**
+
+### (Art. 16*t* Abs. 1 Bst. b EOG)
+
+Für die Bestimmung der Mindesterwerbsdauer nach Artikel 16*t* Absatz 1 Buchstabe b EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Person:
+
+- a. Dienst im Sinne von Artikel 1*a* EOG leistete; oder
+- b. Taggelder der Arbeitslosenversicherung, der Invalidenversicherung oder einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall bezog.
+
+### 2. Abschnitt: Berechnung der Entschädigung
+
+#### Art. 35n
+
+**Entschädigung für Arbeitnehmerinnen und Arbeitnehmer**
+
+### (Art. 16*w* EOG)
+
+<sup>1</sup>
+
+Die Entschädigung wird aufgrund des letzten vor dem Tag der Aufnahme des Kindes zur Adoption erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen die anspruchsberechtigte Person kein oder nur ein vermindertes Einkommen erzielt hat wegen:
+
+- a. Krankheit;
+- b. Unfall;
+- c. Arbeitslosigkeit;
+- d. Dienst im Sinne von Artikel 1*a* EOG;
+- e. Mutterschaft oder Vaterschaft;
+- f. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16*o* EOG;
+- g. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;
+- h. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.
+
+<sup>2</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
+
+#### Art. 35o
+
+**Entschädigung für Selbstständigerwerbende**
+
+### (Art. 16*w* EOG)
+
+Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absätze 1 und 1<sup>bis</sup> sinngemäss anwendbar.
+
+#### Art. 35p
+
+**Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind**
+
+### (Art. 16*w* EOG)
+
+Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35*n* ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absätze 1 und 1<sup>bis</sup> ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.
+
+### 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung
+
+#### Art. 35q
+
+**Zuständige Ausgleichskasse**
+
+### (Art. 17–19 EOG)
+
+<sup>1</sup> Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Auszahlung der Entschädigung ist die Eidgenössische Ausgleichskasse (EAK).
+
+<sup>2</sup> Die Anmeldung von Arbeitnehmerinnen und Arbeitnehmern ist über deren Arbeitgeber einzureichen.
+
+#### Art. 35r
+
+**Bescheinigungen**
+
+### (Art. 17–19 EOG)
+
+<sup>1</sup> Für Anspruchsberechtigte, die bei Beginn des Entschädigungsanspruchs unselbstständig erwerbstätig sind, bescheinigt der Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn, den während des Entschädigungsanspruchs ausbezahlten Lohn sowie die Dauer der Beschäftigung.
+
+<sup>2</sup> Der Arbeitgeber, bei dem die anspruchsberechtigte Person während des Adoptionsurlaubs angestellt ist, bescheinigt den Bezug der Urlaubstage.
+
+<sup>3</sup> Selbstständigerwerbende reichen der EAK die Steuerveranlagung nach, sobald sie diese erhalten haben.
+
+#### Art. 35s
+
+**Auszahlung der Entschädigung**
+
+### (Art. 17–19 EOG)
+
+<sup>1</sup> Die Entschädigung wird nach dem Ende des Anspruchs nach Artikel 16*u* Absatz 3 EOG einmalig nachschüssig ausbezahlt.
+
+<sup>2</sup> Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG[^35s-1].
 
 <sup>3</sup> Die Entschädigungen werden auf ein Bank- oder Postkonto ausbezahlt.
 
 <sup>4</sup> Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.
 
-[^35k-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+<sup>5</sup> Für die Festsetzung und die Auszahlung der Entschädigung von Personen, die im Ausland wohnen, ist Artikel 22 sinngemäss anwendbar.
+
+[^35s-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## 3. Kapitel: Gemeinsame Bestimmungen
 
@@ -760,29 +892,30 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 <table>
 <tr><th colspan="2">Jährliches Erwerbseinkommen in Franken</th><th></th><th>Beitragssatz in Prozent des Erwerbseinkommens</th></tr>
 <tr><th>von mindestens</th><th colspan="2">aber weniger als</th><th></th></tr>
-<tr><td>9 600</td><td colspan="2">17 400</td><td>0,269</td></tr>
-<tr><td>17 400</td><td colspan="2">21 400</td><td>0,275</td></tr>
-<tr><td>21 400</td><td colspan="2">23 800</td><td>0,281</td></tr>
-<tr><td>23 800</td><td colspan="2">26 200</td><td>0,287</td></tr>
-<tr><td>26 200</td><td colspan="2">28 600</td><td>0,293</td></tr>
-<tr><td>28 600</td><td colspan="2">31 000</td><td>0,299</td></tr>
-<tr><td>31 000</td><td colspan="2">33 400</td><td>0,312</td></tr>
-<tr><td>33 400</td><td colspan="2">35 800</td><td>0,324</td></tr>
-<tr><td>35 800</td><td colspan="2">38 200</td><td>0,336</td></tr>
-<tr><td>38 200</td><td colspan="2">40 600</td><td>0,349</td></tr>
-<tr><td>40 600</td><td colspan="2">43 000</td><td>0,361</td></tr>
-<tr><td>43 000</td><td colspan="2">45 400</td><td>0,373</td></tr>
-<tr><td>45 400</td><td colspan="2">47 800</td><td>0,392</td></tr>
-<tr><td>47 800</td><td colspan="2">50 200</td><td>0,410</td></tr>
-<tr><td>50 200</td><td colspan="2">52 600</td><td>0,429</td></tr>
-<tr><td>52 600</td><td colspan="2">55 000</td><td>0,448</td></tr>
-<tr><td>55 000</td><td colspan="2">57 400</td><td>0,466</td></tr>
+<tr><td>9 800</td><td colspan="2">17 500</td><td>0,269</td></tr>
+<tr><td>17 500</td><td colspan="2">21 300</td><td>0,275</td></tr>
+<tr><td>21 300</td><td colspan="2">23 800</td><td>0,281</td></tr>
+<tr><td>23 800</td><td colspan="2">26 300</td><td>0,287</td></tr>
+<tr><td>26 300</td><td colspan="2">28 800</td><td>0,293</td></tr>
+<tr><td>28 800</td><td colspan="2">31 300</td><td>0,299</td></tr>
+<tr><td>31 300</td><td colspan="2">33 800</td><td>0,312</td></tr>
+<tr><td>33 800</td><td colspan="2">36 300</td><td>0,324</td></tr>
+<tr><td>36 300</td><td colspan="2">38 800</td><td>0,336</td></tr>
+<tr><td>38 800</td><td colspan="2">41 300</td><td>0,349</td></tr>
+<tr><td>41 300</td><td colspan="2">43 800</td><td>0,361</td></tr>
+<tr><td>43 800</td><td colspan="2">46 300</td><td>0,373</td></tr>
+<tr><td>46 300</td><td colspan="2">48 800</td><td>0,392</td></tr>
+<tr><td>48 800</td><td colspan="2">51 300</td><td>0,410</td></tr>
+<tr><td>51 300</td><td colspan="2">53 800</td><td>0,429</td></tr>
+<tr><td>53 800</td><td colspan="2">56 300</td><td>0,448</td></tr>
+<tr><td>56 300</td><td colspan="2">58 800</td><td>0,466.[^36-3]</td></tr>
 </table>
 
 <sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 24–1200 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^36-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^36-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 610).
 
 #### Art. 37
 
@@ -885,7 +1018,7 @@ Folgende Verordnungen werden aufgehoben:
 
 **Änderung bisherigen Rechts**
 
-...[^45-1]
+…[^45-1]
 
 [^45-1]: Die Änderungen können unter [AS 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)konsultiert werden.
 

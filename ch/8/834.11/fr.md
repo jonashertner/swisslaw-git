@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20210701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20210701/fr"
 
 (RAPG)
 
-du 24 novembre 2004 (Etat le 1<sup>er</sup> juillet 2021)
+du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -80,18 +80,21 @@ L’allocation des salariés est calculée sur la base du dernier salaire déter
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
-- e. d’une période de maternité;
-- f. [^4-2] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art.16*o* LAPG;
-- g. [^4-3] d’autres motifs n’impliquant aucune faute de sa part.
+- e.[^4-2] d’une période de maternité ou de paternité;
+- f.[^4-3] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art.16*o* LAPG;
+- g.[^4-4] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
+- h.[^4-5] d’autres motifs n’impliquant aucune faute de sa part.
 
 <sup>2</sup> Pour les personnes qui rendent vraisemblable que, durant le service, elles auraient entrepris une activité salariée de longue durée ou gagné sensiblement plus qu’avant d’entrer en service, l’allocation est calculée d’après le revenu qu’elles ont perdu. Pour les personnes qui ont achevé leur formation professionnelle immédiatement avant d’entrer en service et pour celles qui l’auraient achevée pendant la période où elles effectuent leur service, l’allocation est calculée sur la base du salaire initial versé selon l’usage local dans la profession concernée.
 
-<sup>3</sup> Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1<sup>er</sup> janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^4-4].
+<sup>3</sup> Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1<sup>er</sup> janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^4-6].
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-3]: Introduite par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^4-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^4-4]: Introduite par le ch. I de l’O du 12 mai 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-5]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^4-6]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 
 #### Art. 5
 
@@ -151,7 +154,7 @@ L’allocation des personnes exerçant une activité indépendante est calculée
 <sup>3</sup> Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-3],son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-2]: Introduit par le ch.I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^7-2]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^7-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 #### Art. 8
@@ -319,7 +322,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 <sup>1</sup> La caisse de compensation peut déléguer à l’employeur la fixation de l’allocation de base et des allocations pour enfants, mais uniquement si l’ayant droit n’a pas plusieurs employeurs et qu’il n’exerce pas simultanément une activité salariée et une activité indépendante. La caisse de compensation vérifie le calcul de l’employeur.
 
-<sup>2</sup> Àla demande de l’ayant droit, la caisse de compensation ou l’employeur, si celui-ci a fixé l’allocation, doivent lui indiquer comment l’allocation a été calculée.
+<sup>2</sup> À la demande de l’ayant droit, la caisse de compensation ou l’employeur, si celui-ci a fixé l’allocation, doivent lui indiquer comment l’allocation a été calculée.
 
 #### Art. 21
 
@@ -327,7 +330,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 ### (art. 19 LAPG)
 
-<sup>1</sup> Àla réception de chaque formulaire de demande, la caisse de compensation ou l’employeur versent le montant correspondant ou procèdent s’il y a lieu à la compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^21-1].
+<sup>1</sup> À la réception de chaque formulaire de demande, la caisse de compensation ou l’employeur versent le montant correspondant ou procèdent s’il y a lieu à la compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^21-1].
 
 <sup>2</sup> L’art. 19, al. 2, LPGA s’applique également si la période de service se déroule partiellement ou entièrement en dehors des heures de travail de la personne salariée ou si son employeur a son siège à l’étranger.
 
@@ -349,7 +352,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 [^22-1]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
 
-## Chapitre 2 Allocations de maternité et de paternité****
+## Chapitre 2 Allocations de maternité et de paternité
 
 [^chap2-1]
 
@@ -377,7 +380,7 @@ La caisse de compensation compétente pour le dépôt de la demande, pour la fix
 
 La preuve que le nouveau-né doit rester en milieu hospitalier de manière ininterrompue durant deux semaines au moins suivant immédiatement la naissance doit être fournie au moyen d’un certificat médical.
 
-[^24-1]: Nouvelle teneur selon le ch.I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 #### Art. 25
 
@@ -395,7 +398,7 @@ Le droit de la mère à l’allocation s’éteint le jour où celle-ci reprend 
 
 **Prise en compte des périodes de cotisation à l’étranger**
 
-### (art. 16*b, al.* 1, let. a, et 16*i*, al. 1, let. b, LAPG)
+### (art. 16*b*, al. 1, let. a, et 16*i*, al. 1, let. b, LAPG)
 
 [^26-1]
 
@@ -412,15 +415,20 @@ Pour la détermination de la période minimale fixée à l’art. 16*b*, al. 1, 
 
 #### Art. 27
 
-**Réduction de la durée minimale d’assurance en cas d’accouchement avant terme**
+**Réduction de la durée minimale d’assurance en cas de naissance avant terme**
 
-### (art. 16*b*, al. 2, LAPG)
+### (art. 16*b*, al. 2, et 16*i*, al. 2, LAPG)
 
-En cas d’accouchement avant terme, la période d’assurance fixée par l’art. 16*b*, al. 1, let. b, LAPG est réduite comme suit:
+[^27-1]
+
+En cas de naissance avant terme, la période d’assurance fixée à l’art. 16*b*, al. 1, let. a, ou 16*i*, al. 1, let. b, LAPG est réduite comme suit:[^27-2]
 
 - a. à 8 mois si l’accouchement intervient entre le 8<sup>e</sup> mois de la grossesse et le terme;
 - b. à 7 mois si l’accouchement intervient entre le 7<sup>e</sup> et le 8<sup>e</sup> mois de la grossesse;
 - c. à 6 mois si l’accouchement intervient avant le 7<sup>e</sup> mois de la grossesse.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Section 3 Durée minimale de l’activité lucrative
 
@@ -484,7 +492,7 @@ Le père qui est au chômage au moment de la naissance de l’enfant ou qui, en 
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^29-3]: Introduit par le ch.I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
+[^29-3]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^29-4]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 30
@@ -518,17 +526,23 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
-- e.[^31-3] d’autres motifs n’impliquant aucune faute de sa part.
+- e.[^31-3] d’une période de maternité ou de paternité;
+- f.[^31-4] de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
+- g.[^31-5] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
+- h.[^31-6] d’autres motifs n’impliquant aucune faute de sa part.
 
-<sup>2</sup> Les allocations respectives de la mère et du père sont calculées séparément.[^31-4]
+<sup>2</sup> Les allocations respectives de la mère et du père sont calculées séparément.[^31-7]
 
-<sup>3</sup> Au surplus, les art. 5 et 6 s’appliquent par analogie.[^31-5]
+<sup>3</sup> Au surplus, les art. 5 et 6 s’appliquent par analogie.[^31-8]
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-3]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-4]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^31-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-3]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-4]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-5]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-6]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^31-7]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^31-8]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
 #### Art. 32
 
@@ -536,19 +550,19 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 
 ### (art. 16*e* et 16*l* LAPG)
 
-L’art. 7, al. 1, s’applique au calcul de l’allocation revenant à la mère ou au père qui exerce une activité indépendante.
+L’art. 7, al. 1 et 1<sup>bis</sup>, s’appliquent au calcul de l’allocation revenant à la mère ou au père qui exerce une activité indépendante.
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 33
 
 **Allocation de la mère ou du père exerçant à la fois une activité salariée et une activité indépendante**[^33-1]
 
-### (Art. 16*e* et 16*l* LAPG)
+### (art. 16*e* et 16*l* LAPG)
 
-L’allocation revenant à la mère ou au père qui exerce simultanément une activité salariée et une activité indépendante est calculée sur les gains journaliers moyens des deux activités, déterminés selon les art. 7, al. 1, et 31.
+L’allocation revenant à la mère ou au père qui exerce simultanément une activité salariée et une activité indépendante est calculée sur les gains journaliers moyens des deux activités, déterminés selon les art. 7, al. 1 et 1<sup>bis</sup>, et 31.
 
-[^33-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Section 5 Exercice du droit, fixation et paiement de l’allocation
 
@@ -574,7 +588,7 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 **Attestations**[^34a-1]
 
-### (Art. 17 à 19 LAPG)
+### (art. 17 à 19 LAPG)
 
 <sup>1</sup> Pour les mères et les pères qui exerçaient une activité salariée au moment de la naissance de l’enfant, l’employeur atteste sur le formulaire de demande le montant du salaire déterminant pour le calcul de l’allocation, le montant du salaire versé durant la période d’indemnisation et la durée d’occupation.
 
@@ -606,11 +620,11 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 [^35-4]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
-## Chapitre 2*a***** Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
+## Chapitre 2*a* Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident
 
-[^chap3-1]
+[^chap2b-1]
 
-[^chap3-1]: Introduit par le ch.I de l’O du 12 mai 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)), en vigueur depuis le 1<sup>er</sup> juil. 2021.
+[^chap2b-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
 ### Section 1 Droit des parents nourriciers, des beaux-parents et des mères ou pères au chômage ou en incapacité de travail
 
@@ -680,29 +694,38 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 - b. d’un accident;
 - c. d’une période de chômage;
 - d. d’une période de service au sens de l’art. 1*a* LAPG;
-- e. d’une période de maternité;
-- f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’’art. 16*o* LAPG;
-- g. d’autres motifs n’impliquant aucune faute de sa part.
+- e.[^35f-1] d’une période de maternité ou de paternité;
+- f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
+- g.[^35f-2] de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
+- h.[^35f-3] d’autres motifs n’impliquant aucune faute de sa part.
 
 <sup>2</sup> L’indemnité journalière est recalcuée s’il y a un changement du salaire déterminant durant les jours de congé.
 
 <sup>3</sup> Les art. 5 et 6 s’appliquent par analogie.
 
+[^35f-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-2]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35f-3]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
 #### Art. 35g
 
-**Allocation des personnes exerçant une activité indépendante**
+**Allocation des personnes exerçant une activité indépendante**[^35g-1]
 
 ### (art. 16*r* LAPG)
 
-L’art. 7, al. 1, s’applique par analogie au calcul de l’allocation revenant à la personne qui exerce une activité indépendante.
+L’art. 7, al. 1 et 1<sup>bis</sup>, s’appliquent par analogie au calcul de l’allocation revenant à la personne qui exerce une activité indépendante.
+
+[^35g-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 35h
 
-**Allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante**
+**Allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante**[^35h-1]
 
 ### (art. 16*r* LAPG)
 
-L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35*f,* et de l’activité indépendante, déterminés selon l’art. 7, al. 1.
+L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35*f*, et de l’activité indépendante, déterminés selon l’art. 7, al. 1 et 1<sup>bis</sup>.
+
+[^35h-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 ### Section 3 Exercice du droit, fixation et paiement de l’allocation
 
@@ -732,19 +755,128 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 
 #### Art. 35k
 
-**Fixation et paiement de l’allocation**
+**Paiement de l’allocation**[^35k-1]
 
 ### (art. 17 à 19 LAPG)
 
-<sup>1</sup> L’art. 22 s’applique par analogie à la fixation de l’allocation.
+<sup>1</sup> L’allocation est payée mensuellement à terme échu. La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^35k-2] est réservée.
 
-<sup>2</sup> L’allocation est payée mensuellement à terme échu. La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS[^35k-1] est réservée.
+<sup>2</sup> L’allocation est versée sur un compte bancaire ou postal.
+
+<sup>3</sup> Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.
+
+<sup>4</sup> L’art. 22 s’applique par analogie à la fixation et au paiement de l’allocation des personnes à l’étranger.
+
+[^35k-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+[^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+
+## Chapitre 2*b* Allocation d’adoption
+
+[^chap3-1]
+
+[^chap3-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
+
+### Section 1 Durées minimales d’assurance et d’exercice d’une activité lucrative
+
+#### Art. 35l
+
+**Prise en compte des périodes de cotisation et de l’activité lucrative exercée à l’étranger**
+
+### (art. 16*t*, al. 1, let. b, LAPG)
+
+Les art. 26 et 28 sont applicables par analogie à la détermination des périodes minimales de cotisation et de l’activité lucrative fixées à l’art. 16*t*, al. 1, let. b, LAPG.
+
+#### Art. 35m
+
+**Prise en compte des périodes avec perception d’indemnités journalières**
+
+### (art. 16*t*, al. 1, let. b, LAPG)
+
+Pour la détermination de la durée minimale fixée à l’art. 16*t*, al.1, let. b, LAPG, sont aussi prises en compte les périodes pendant lesquelles la personne ayant droit à l’allocation:
+
+- a. effectuait un service au sens de l’art. 1*a* LAPG, ou
+- b. a perçu des indemnités journalières de l’assurance-chômage, de l’assurance-invalidité ou d’une assurance sociale ou privée pour la perte de gain en cas de maladie ou d’accident.
+
+### Section 2 Calcul de l’allocation
+
+#### Art. 35n
+
+**Allocation des salariés**
+
+### (art. 16*w* LAPG)
+
+<sup>1</sup>
+
+L’allocation est calculée sur la base du dernier salaire déterminant acquis avant la date de l’accueil de l’enfant en vue de son adoption et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels l’ayant droit n’a pas perçu de salaire ou dont le salaire a été diminué en raison:
+
+- a. d’une maladie;
+- b. d’un accident;
+- c. d’une période de chômage;
+- d. d’une période de service au sens de l’art. 1*a* LAPG;
+- e. d’une période de maternité ou de paternité;
+- f. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16*o* LAPG;
+- g. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;
+- h. d’autres motifs n’impliquant aucune faute de sa part.
+
+<sup>2</sup> Les art. 5 et 6 s’appliquent par analogie.
+
+#### Art. 35o
+
+**Allocation des personnes exerçant une activité indépendante**
+
+### (art. 16*w* LAPG)
+
+L’art. 7, al. 1 et 1<sup>bis</sup>, s’appliquent par analogie au calcul de l’allocation revenant à la personne qui exerce une activité indépendante.
+
+#### Art. 35p
+
+**Allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante**
+
+### (art. 16*w* LAPG)
+
+L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35*n*, et de l’activité indépendante, déterminés selon l’art. 7, al. 1 et 1<sup>bis</sup>.
+
+### Section 3 Exercice du droit, fixation et paiement de l’allocation
+
+#### Art. 35q
+
+**Caisse de compensation compétente**
+
+### (art. 17 à 19 LAPG)
+
+<sup>1</sup> La caisse de compensation compétente pour le dépôt de la demande, pour la fixation et le paiement de l’allocation est la Caisse fédérale de compensation (CFC).
+
+<sup>2</sup> Pour le dépôt de la demande, les personnes salariées doivent agir par l’intermédiaire de leur employeur.
+
+#### Art. 35r
+
+**Attestations**
+
+### (art. 17 à 19 LAPG)
+
+<sup>1</sup> Pour les ayants droit qui exercent une activité salariée au moment de la naissance du droit à l’allocation, l’employeur atteste sur le formulaire de demande le montant du salaire déterminant pour le calcul de l’allocation, le montant du salaire versé durant la période d’indemnisation et la durée d’occupation.
+
+<sup>2</sup> L’employeur auprès duquel l’ayant droit est engagé durant le congé d’adoption atteste que les jours de congé ont été pris.
+
+<sup>3</sup> Les personnes exerçant une activité indépendante remettent la taxation fiscale à la CFC dès sa réception.
+
+#### Art. 35s
+
+**Paiement de l’allocation**
+
+### (art. 17 à 19 LAPG)
+
+<sup>1</sup> L’allocation est versée en une seule fois, lorsque le droit à l’allocation a pris fin conformément à l’art. 16*u*, al. 3, LAPG[^35s-1].
+
+<sup>2</sup> La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS est réservée.
 
 <sup>3</sup> L’allocation est versée sur un compte bancaire ou postal.
 
 <sup>4</sup> Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.
 
-[^35k-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+<sup>5</sup> L’art. 22 s’applique par analogie à la fixation et au paiement de l’allocation des personnes à l’étranger.
+
+[^35s-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ## Chapitre 3 Dispositions communes
 
@@ -758,30 +890,31 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 
 <table>
 <tr><th colspan="2">Revenu annuel provenant d’une activité lucrative</th><th></th><th>Taux de la cotisation en pour-cent du revenu</th></tr>
-<tr><th>d’au moins</th><th colspan="2">mais inférieur à</th><th></th></tr>
-<tr><td>9 600</td><td colspan="2">17 400</td><td>0,269</td></tr>
-<tr><td>17 400</td><td colspan="2">21 400</td><td>0,275</td></tr>
-<tr><td>21 400</td><td colspan="2">23 800</td><td>0,281</td></tr>
-<tr><td>23 800</td><td colspan="2">26 200</td><td>0,287</td></tr>
-<tr><td>26 200</td><td colspan="2">28 600</td><td>0,293</td></tr>
-<tr><td>28 600</td><td colspan="2">31 000</td><td>0,299</td></tr>
-<tr><td>31 000</td><td colspan="2">33 400</td><td>0,312</td></tr>
-<tr><td>33 400</td><td colspan="2">35 800</td><td>0,324</td></tr>
-<tr><td>35 800</td><td colspan="2">38 200</td><td>0,336</td></tr>
-<tr><td>38 200</td><td colspan="2">40 600</td><td>0,349</td></tr>
-<tr><td>40 600</td><td colspan="2">43 000</td><td>0,361</td></tr>
-<tr><td>43 000</td><td colspan="2">45 400</td><td>0,373</td></tr>
-<tr><td>45 400</td><td colspan="2">47 800</td><td>0,392</td></tr>
-<tr><td>47 800</td><td colspan="2">50 200</td><td>0,410</td></tr>
-<tr><td>50 200</td><td colspan="2">52 600</td><td>0,429</td></tr>
-<tr><td>52 600</td><td colspan="2">55 000</td><td>0,448</td></tr>
-<tr><td>55 000</td><td colspan="2">57 400</td><td>0,466</td></tr>
+<tr><th>d’au moins fr.</th><th colspan="2">mais inférieur à fr.</th><th></th></tr>
+<tr><td>9 800</td><td colspan="2">17 500</td><td>0,269</td></tr>
+<tr><td>17 500</td><td colspan="2">21 300</td><td>0,275</td></tr>
+<tr><td>21 300</td><td colspan="2">23 800</td><td>0,281</td></tr>
+<tr><td>23 800</td><td colspan="2">26 300</td><td>0,287</td></tr>
+<tr><td>26 300</td><td colspan="2">28 800</td><td>0,293</td></tr>
+<tr><td>28 800</td><td colspan="2">31 300</td><td>0,299</td></tr>
+<tr><td>31 300</td><td colspan="2">33 800</td><td>0,312</td></tr>
+<tr><td>33 800</td><td colspan="2">36 300</td><td>0,324</td></tr>
+<tr><td>36 300</td><td colspan="2">38 800</td><td>0,336</td></tr>
+<tr><td>38 800</td><td colspan="2">41 300</td><td>0,349</td></tr>
+<tr><td>41 300</td><td colspan="2">43 800</td><td>0,361</td></tr>
+<tr><td>43 800</td><td colspan="2">46 300</td><td>0,373</td></tr>
+<tr><td>46 300</td><td colspan="2">48 800</td><td>0,392</td></tr>
+<tr><td>48 800</td><td colspan="2">51 300</td><td>0,410</td></tr>
+<tr><td>51 300</td><td colspan="2">53 800</td><td>0,429</td></tr>
+<tr><td>53 800</td><td colspan="2">56 300</td><td>0,448</td></tr>
+<tr><td>56 300</td><td colspan="2">58 800</td><td>0,466 [^36-3]</td></tr>
 </table>
 
 <sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 24 à 1200 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^36-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^36-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 610](https://fedlex.data.admin.ch/eli/oc/2022/610)).
 
 #### Art. 37
 
