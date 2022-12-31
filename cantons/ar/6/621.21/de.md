@@ -4,13 +4,12 @@ number: "621.21"
 title: Verordnung über die amtlichen Grundstückschätzungen
 short: GSV
 language: de
-version: 2020-02-14
-valid_until: 2022-12-31
-version_adopted: 2020-02-11
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2010-05-26
 in_force: 2011-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/621.21"
-pdf: "https://ar.clex.ch/api/de/versions/1297/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1297/pdf_file"
 
 (GSV)
 
-vom 26.05.2010 (Stand 14.02.2020)
+vom 26.05.2010 (Stand 01.01.2023)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -158,7 +157,7 @@ beschliesst:
 
 <sup>1</sup> Der Ertragswert entspricht dem kapitalisierten Mietwert des Grundstückes. Bei der Berechnung sind eine angemessene Verzinsung des investierten Kapitals sowie die Unterhalts- und Betriebskosten für das Grundstück zu berücksichtigen.
 
-<sup>2</sup> Der Basiszinssatz für die Kapitalisierung wird vom Regierungsrat aufgrund des Referenz-Zinssatzes des Bundes festgelegt. Er wird jährlich im vierten Quartal überprüft und bei Abweichungen um 0,5 Prozent auf das folgende Jahr angepasst.
+<sup>2</sup> Der Basiszinssatz für die Kapitalisierung wird vom Regierungsrat aufgrund des Referenz-Zinssatzes des Bundes festgelegt. Er wird jährlich im vierten Quartal überprüft und gegebenenfalls auf das folgende Jahr hin angepasst.
 
 <sup>3</sup> Die Grundstückschätzungsbehörde bestimmt die weiteren Elemente des Kapitalisierungssatzes.
 
@@ -256,7 +255,7 @@ beschliesst:
 
 **Eröffnung des Schätzungsergebnisses**
 
-<sup>1</sup> Die Schätzungskommission bestimmt die Schätzwerte und übergibt das Schätzungsprotokoll innerhalb von 14 Tagen nach der Schätzung dem Grundbuchamt.
+<sup>1</sup> Die Leitung der Schätzungskommission übergibt das Schätzungsprotokoll innerhalb von 14 Tagen nach der Schätzung dem Grundbuchamt.
 
 <sup>2</sup> Das Grundbuchamt erstellt innerhalb von 14 Tagen die Verfügung und eröffnet diese zusammen mit dem Schätzungsprotokoll dem Grundeigentümer oder der Grundeigentümerin, der Kantonalen Steuerverwaltung sowie weiteren Parteien des Schätzungsverfahrens.
 
