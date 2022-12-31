@@ -3,18 +3,18 @@ sr: "173.110.1"
 title: "Ordinanza dell'Assemblea federale del 30 settembre 2011 concernente i posti di giudice del Tribunale federale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/622"
 language: it
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2011-09-30
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/622/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2011-622-20120101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/622/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/622/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2011-622-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/622/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’Assemblea federale concernente i posti di giudice del Tribunale federale
 
-del 30 settembre 2011 (Stato 1° gennaio 2012)
+del 30 settembre 2011 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -32,8 +32,10 @@ decreta:
 
 Il Tribunale federale si compone di:
 
-- a. 38 giudici ordinari;
+- a.[^1-1] 40 giudici ordinari;
 - b. 19 giudici non di carriera.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O dell’AF del 16 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 819](https://fedlex.data.admin.ch/eli/oc/2022/819); [FF 2022 1931](https://fedlex.data.admin.ch/eli/fga/2022/1931), [2128](https://fedlex.data.admin.ch/eli/fga/2022/2128)).
 
 #### Art. 2
 

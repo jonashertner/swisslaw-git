@@ -3,18 +3,18 @@ sr: "173.110.1"
 title: Verordnung der Bundesversammlung vom 30. September 2011 über die Richterstellen am Bundesgericht
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/622"
 language: de
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2011-09-30
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/622/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2011-622-20120101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/622/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/622/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-622-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/622/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung der Bundesversammlung über die Richterstellen am Bundesgericht
 
-vom 30. September 2011 (Stand am 1. Januar 2012)
+vom 30. September 2011 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -32,8 +32,10 @@ beschliesst:
 
 Das Bundesgericht besteht aus:
 
-- a. 38 ordentlichen Richterinnen und Richtern;
+- a.[^1-1] 40 ordentlichen Richterinnen und Richtern;
 - b. 19 nebenamtlichen Richterinnen und Richtern.
+
+[^1-1]: Fassung gemäss Ziff. I der V der BVers vom 16. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 819](https://fedlex.data.admin.ch/eli/oc/2022/819); [BBl 2022 1931](https://fedlex.data.admin.ch/eli/fga/2022/1931), [2128](https://fedlex.data.admin.ch/eli/fga/2022/2128)).
 
 #### Art. 2
 
