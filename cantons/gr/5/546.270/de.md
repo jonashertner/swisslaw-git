@@ -4,13 +4,13 @@ number: "546.270"
 title: Ausführungsbestimmungen zum kantonalen Unterstützungsgesetz
 short: ABzUG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-16
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-13
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3165/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3288/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3165/pdf_file"
 
 (ABzUG)
 
-Vom 08.11.2005 (Stand 01.01.2022)
+Vom 08.11.2005 (Stand 01.01.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 18 des kantonalen Unterstützungsgesetzes[^ingress-2]
 
@@ -60,12 +60,12 @@ von der Regierung erlassen am 8. November 2005
 
 <table>
 <tr><th>Haushaltsgrösse</th><th>Pauschale pro Monat</th></tr>
-<tr><td>1 Person</td><td>Fr. 1006.–</td></tr>
-<tr><td>2 Personen</td><td>Fr. 1539.–</td></tr>
-<tr><td>3 Personen</td><td>Fr. 1871.–</td></tr>
-<tr><td>4 Personen</td><td>Fr. 2153.–</td></tr>
-<tr><td>5 Personen</td><td>Fr. 2435.–</td></tr>
-<tr><td>pro weitere Person</td><td>Fr. 204.–</td></tr>
+<tr><td>1 Person</td><td>Fr. 1031.–</td></tr>
+<tr><td>2 Personen</td><td>Fr. 1577.–</td></tr>
+<tr><td>3 Personen</td><td>Fr. 1918.–</td></tr>
+<tr><td>4 Personen</td><td>Fr. 2206.–</td></tr>
+<tr><td>5 Personen</td><td>Fr. 2495.–</td></tr>
+<tr><td>pro weitere Person</td><td>Fr. 209.–</td></tr>
 </table>
 
 #### Art. 4

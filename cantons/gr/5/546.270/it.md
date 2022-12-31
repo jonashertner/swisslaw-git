@@ -4,13 +4,13 @@ number: "546.270"
 title: "Disposizioni esecutive della legge cantonale sull'assistenza *"
 short: DELCAss
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-16
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-13
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3165/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3288/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3165/pdf_file"
 
 (DELCAss)
 
-del 08.11.2005 (stato 01.01.2022)
+del 08.11.2005 (stato 01.01.2023)
 
 emanate dal Governo l'8 novembre 2005
 
@@ -60,12 +60,12 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 18 dell
 
 <table>
 <tr><th>Grandezza del nucleo familiare</th><th>Forfait per mese</th></tr>
-<tr><td>1 persona</td><td>fr. 1006.–</td></tr>
-<tr><td>2 persone</td><td>fr. 1539.–</td></tr>
-<tr><td>3 persone</td><td>fr. 1871.–</td></tr>
-<tr><td>4 persone</td><td>fr. 2153.–</td></tr>
-<tr><td>5 persone</td><td>fr. 2435.–</td></tr>
-<tr><td>per ogni persona supplementare</td><td>fr. 204.–</td></tr>
+<tr><td>1 persona</td><td>fr. 1031.–</td></tr>
+<tr><td>2 persone</td><td>fr. 1577.–</td></tr>
+<tr><td>3 persone</td><td>fr. 1918.–</td></tr>
+<tr><td>4 persone</td><td>fr. 2206.–</td></tr>
+<tr><td>5 persone</td><td>fr. 2495.–</td></tr>
+<tr><td>per ogni persona supplementare</td><td>fr. 209.–</td></tr>
 </table>
 
 #### Art. 4

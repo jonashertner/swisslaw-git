@@ -4,13 +4,13 @@ number: "546.270"
 title: "Disposiziuns executivas tar la lescha chantunala da sustegn *"
 short: DEtLS
 language: rm
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-16
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-13
 adopted: 2005-11-08
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/546.270"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3165/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3288/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3165/pdf_file"
 
 (DEtLS)
 
-dals 08-11-2005 (versiun dals 01-01-2022)
+dals 08-11-2005 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 18 da la lescha chantunala da sustegn[^ingress-2]
 
@@ -60,12 +60,12 @@ relaschadas da la regenza ils 8 da november 2005
 
 <table>
 <tr><th>Grondezza da la chasada</th><th>pauschala per mais</th></tr>
-<tr><td>1 persuna</td><td>fr. 1006.–</td></tr>
-<tr><td>2 persunas</td><td>fr. 1539.–</td></tr>
-<tr><td>3 persunas</td><td>fr. 1871.–</td></tr>
-<tr><td>4 persunas</td><td>fr. 2153.–</td></tr>
-<tr><td>5 persunas</td><td>fr. 2435.–</td></tr>
-<tr><td>per mintga ulteriura persuna</td><td>fr. 204.–</td></tr>
+<tr><td>1 persuna</td><td>fr. 1031.–</td></tr>
+<tr><td>2 persunas</td><td>fr. 1577.–</td></tr>
+<tr><td>3 persunas</td><td>fr. 1918.–</td></tr>
+<tr><td>4 persunas</td><td>fr. 2206.–</td></tr>
+<tr><td>5 persunas</td><td>fr. 2495.–</td></tr>
+<tr><td>per mintga ulteriura persuna</td><td>fr. 209.–</td></tr>
 </table>
 
 #### Art. 4
