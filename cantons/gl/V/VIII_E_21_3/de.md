@@ -4,13 +4,13 @@ number: VIII E/21/3
 title: Gesetz über die öffentliche Sozialhilfe
 short: Sozialhilfegesetz
 language: de
-version: 2016-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-05-03
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-09-05
 adopted: 1995-05-07
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-E.21.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1782/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2377/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1782/pdf_file"
 
 (Sozialhilfegesetz)
 
-Vom 07.05.1995 (Stand 01.01.2016)
+Vom 07.05.1995 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -79,17 +79,24 @@ beschliesst:
 
 #### Art. 5
 
-**Amtsgeheimnis; Auskunftsrecht**
+**Schweigepflicht; Auskunftsrecht**
 
-<sup>1</sup> Das im Sozialwesen tätige Personal ist zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheim zu halten sind.
+<sup>1</sup> Das im Sozialwesen tätige Personal ist zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet. Die Bestimmungen über den informationsrechtlichen Zugang zu amtlichen Dokumenten nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^5-1] finden keine Anwendung.
 
-<sup>2</sup> Keine Schweigepflicht im Einzelfall besteht gegenüber den Sozialhilfestellen des Bundes im Rahmen des gegenseitigen Geschäftsverkehrs. Im Weiteren bleiben die Vorschriften über Amts- und Rechtshilfe sowie über Auskünfte von Behörden gemäss den Artikeln 24, 25 und 50 des Verwaltungsrechtspflegegesetzes[^5-1] vorbehalten. In jedem Fall dürfen aber nur jene Daten und Tatbestände weitergegeben werden, deren Kenntnis für die Aufgabenerfüllung der anderen Verwaltungsstelle erforderlich ist.
+<sup>2</sup> Keine Schweigepflicht im Einzelfall besteht gegenüber den Sozialhilfestellen des Bundes im Rahmen des gegenseitigen Geschäftsverkehrs. Im Weiteren bleiben die Vorschriften über Amts- und Rechtshilfe sowie über Auskünfte von Behörden gemäss den Artikeln 24, 25 und 50 des Verwaltungsrechtspflegegesetzes[^5-2] vorbehalten. In jedem Fall dürfen aber nur jene Daten und Tatbestände weitergegeben werden, deren Kenntnis für die Aufgabenerfüllung der anderen Verwaltungsstelle erforderlich ist.
 
 <sup>2a</sup> Der Vorbehalt in Absatz 2 über Auskünfte von Behörden gilt auch für Gemeindebehörden, die gemäss Artikel 29 Absatz 1 der Kantonsverfassung die zuständigen Behörden des Kantons in der Wahrnehmung der öffentlichen Sozialhilfe zu unterstützen haben sowie für die kantonalen Steuerbehörden in Bezug auf die zentral verwalteten, von den Gemeindebehörden bezogenen Personendaten.
 
 <sup>3</sup> Das zuständige Departement ist in den übrigen Fällen befugt, gegenüber in- und ausländischen Gerichts- und Verwaltungsbehörden Auskünfte aus den Sozialhilfeakten zu erteilen oder eine nachgeordnete Vollzugsbehörde dazu zu ermächtigen, soweit ein überwiegendes öffentliches Interesse besteht.
 
-[^5-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+[^5-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
+[^5-2]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+
+#### Art. 5a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Das im Sozialwesen tägige Personal ist berechtigt, die für die Erfüllung seiner Aufgaben erforderlichen Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten und Profiling zu betreiben.
 
 #### Art. 6
 
@@ -101,9 +108,9 @@ beschliesst:
 
 **Kostentragung bei stationärer Betreuung in Alters- und Pflegeheimen**
 
-<sup>1</sup> Die ungedeckten Kosten der stationären Betreuung in Alters- und Pflegeheimen trägt diejenige Gemeinde, in der die unterstützte Person ihren Unterstützungswohnsitz im Sinne des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger hat, sofern eine aktuelle Ergänzungsleistungsverfügung vorliegt. Soweit der unterstützten Person dort fiktive Einnahmen angerechnet wurden, trägt die pflichtige Gemeinde diese Kosten nach Massgabe dieses Gesetzes.
+<sup>1</sup> Die ungedeckten Kosten der stationären Betreuung in Alters- und Pflegeheimen trägt der Kanton nach Massgabe dieses Gesetzes. Liegt eine aktuelle Ergänzungsleistungsverfügung ohne Anrechnung fiktiver Einnahmen vor, trägt er diese Kosten voraussetzungslos.
 
-<sup>2</sup> Als Kosten der stationären Betreuung in Alters- und Pflegeheimen gelten die Pensions- und Betreuungskosten unter Ausschluss der Pflegekostenbeteiligung der unterstützten Person nach Artikel 33b des Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung[^6a-1].
+<sup>2</sup> Als Kosten der stationären Betreuung in Alters- und Pflegeheimen gelten die Pensions- und Betreuungskosten unter Ausschluss der Pflegekostenbeteiligung der unterstützten Person nach Artikel 22 des Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung[^6a-1].
 
 [^6a-1]: GS [VIII D/21/1](https://gesetze.gl.ch/data/VIII-D.21.1/de)
 
@@ -450,21 +457,17 @@ beschliesst:
 
 <sup>2</sup> …
 
-### 4.2. Betagten- und Behindertenhilfe
+### 4.2. Behindertenhilfe
 
 #### Art. 38
 
-**Aufgaben der Gemeinden**
-
-<sup>1</sup> Die Gemeinden sorgen für ein genügendes Angebot an Einrichtungen der ambulanten und stationären Betagtenhilfe mit dem Ziel, die Selbstständigkeit und Eigenverantwortung so lange als möglich zu erhalten. Sie koordinieren die Angebote innerhalb der Gemeinde. Sie können mit anderen Gemeinden zur Erfüllung dieser Aufgaben zusammenarbeiten und Aufgaben der Betagtenhilfe anderen öffentlichen oder privaten gemeinnützigen Institutionen übertragen.
-
-<sup>2</sup> Sie können Baubeiträge an die Einrichtungen der Betagtenhilfe gewähren.
+**…**
 
 #### Art. 39
 
 **Aufgaben des Kantons; Kantonsbeiträge an Behinderteneinrichtungen**
 
-<sup>1</sup> Der Kanton koordiniert die kommunale Aufgabenerfüllung in der Betagten- und in der Behindertenhilfe.
+<sup>1</sup> Der Kanton koordiniert die Aufgabenerfüllung in der Behindertenhilfe.
 
 <sup>2</sup> Der Regierungsrat gewährt anerkannten öffentlichen oder privaten Institutionen mit gemeinnützigem Charakter an Neubauten, wesentliche Erweiterungsbauten und Umbauten von Behinderteneinrichtungen Beiträge oder zinslose Darlehen. Sie betragen 55 Prozent der anerkannten Kosten, die nach Abzug allfälliger Drittleistungen verbleiben.
 
@@ -502,9 +505,11 @@ beschliesst:
 
 **Haftung**
 
-<sup>1</sup> Von Kanton oder Gemeinde mit stationärer Betagten- oder Behindertenhilfe beauftragte Organisationen des Privatrechts haften wie das Gemeinwesen. Für jeden Leistungserbringer ist eine Haftung aus rechtmässigem Verhalten (Art. 7 Staatshaftungsgesetz) bei der medizinischen Untersuchung, Behandlung und Pflege ausgeschlossen.
+<sup>1</sup> Vom Kanton mit stationärer Behindertenhilfe beauftragte Organisationen des Privatrechts haften wie das Gemeinwesen. Eine Haftung aus rechtmässigem Verhalten (Art. 7 Staatshaftungsgesetz[^39d-1]) bei der medizinischen Untersuchung, Behandlung und Pflege ist ausgeschlossen.
 
 <sup>2</sup> Der Regierungsrat regelt das Verfahren betreffend Haftung von beauftragten Organisationen des Privatrechts.
+
+[^39d-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
 
 ### 4.3. Suchthilfe
 
@@ -542,7 +547,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton ist für die Aufsicht über Alters- und Pflegeheime, über anerkannte Behinderteneinrichtungen, über Heime für Kinder und Jugendliche und weitere stationäre Einrichtungen für Erwachsene zuständig.
+<sup>1</sup> Der Kanton ist für die Aufsicht über anerkannte Behinderteneinrichtungen, über Heime für Kinder und Jugendliche und weitere stationäre Einrichtungen für Erwachsene zuständig.
 
 <sup>2</sup> Die Aufsicht über Kinder- und Jugendheime richtet sich nach der eidgenössischen Verordnung über die Aufnahme von Kindern zur Pflege und zur Adoption, der kantonalen Gesundheitsgesetzgebung und Artikel 45.
 
@@ -590,15 +595,9 @@ beschliesst:
 
 <sup>1</sup> Der Kanton trägt die Kosten für Unterstützungen von ausländischen Staatsangehörigen ohne Niederlassungsbewilligung. Vorbehalten bleiben die speziellen Bestimmungen des Bundes für die Unterstützung von Asylsuchenden und Flüchtlingen.
 
-#### Art. 50–51
+#### Art. 50–51a
 
 **…**
-
-#### Art. 51a
-
-**Tarifgenehmigung**
-
-<sup>1</sup> Die Tarife innerkantonaler Alters- und Pflegeheime bedürfen der Genehmigung des zuständigen Departements.
 
 ## 8. Verfahren und Rechtsschutz
 
