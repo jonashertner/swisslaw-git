@@ -4,20 +4,20 @@ title: Signalisationsverordnung vom 5. September 1979 (SSV)
 short: SSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 1979-09-05
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1961_1961_1961-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1961_1961_1961-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Signalisationsverordnung
 
-(SSV)**[^t-1]**
+(SSV)[^t-1]
 
-vom 5. September 1979 (Stand am 1. Januar 2021)
+vom 5. September 1979 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 1992, in Kraft seit 15. März 1992 ([AS 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)).
 
@@ -64,7 +64,9 @@ verordnet:
 
 <sup>8</sup> Nebenstrassen sind alle Strassen, deren Beginn nicht besonders gekennzeichnet ist und auf denen die allgemeinen Verkehrsregeln gelten (z. B. Rechtsvortritt nach Art. 36 Abs. 2 SVG).
 
-<sup>9</sup> und <sup>10</sup> ...[^1-13]
+<sup>9</sup> Verkehrsorientierte Strassen sind alle Strassen innerorts, die primär auf die Anforderungen des Motorfahrzeugverkehrs ausgerichtet und für sichere, leistungsfähige und wirtschaftliche Transporte bestimmt sind.[^1-13]
+
+<sup>10</sup> …[^1-14]
 
 [^1-1]: Begriff gemäss Ziff. I der V vom 1. April 1998, in Kraft seit 1. Juni 1998 ([AS 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 [^1-2]: Begriff gemäss Ziff. I der V vom 1. April 1998, in Kraft seit 1. Juni 1998 ([AS 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
@@ -78,7 +80,8 @@ verordnet:
 [^1-10]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
 [^1-11]: Eingefügt durch Anhang 4 Ziff. II 6 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^1-12]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
-[^1-13]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^1-13]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^1-14]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 
 #### Art. 2
 
@@ -108,11 +111,13 @@ verordnet:
 
 <sup>4</sup> Mit einem Zonensignal dürfen höchstens drei Verkehrsanordnungen angezeigt werden.
 
-<sup>5</sup> Die Signale «Tempo-30-Zone» (2.59.1), «Begegnungszone» (2.59.5) und «Fussgängerzone» (2.59.3) sind nur auf Nebenstrassen mit möglichst gleichartigem Charakter zulässig.
+<sup>5</sup> Die Signale «Tempo-30-Zone» (2.59.1), «Begegnungszone» (2.59.5) und «Fussgängerzone» (2.59.3) sind nur auf nicht verkehrsorientierten Nebenstrassen zulässig.[^2a-2]
 
-<sup>6</sup> Wird auf einem Hauptstrassenabschnitt auf Grund der Voraussetzungen nach Artikel 108 die Höchstgeschwindigkeit auf 30 km/h begrenzt, so kann dieser Abschnitt ausnahmsweise bei besonderen örtlichen Gegebenheiten (z. B. in einem Ortszentrum oder in einem Altstadtgebiet) in eine Tempo-30-Zone einbezogen werden.
+<sup>6</sup> Wird auf einem Abschnitt einer verkehrsorientierten Strasse aufgrund der Voraussetzungen nach Artikel 108 Absätze 1, 2 und 4 die Höchstgeschwindigkeit auf 30 km/h begrenzt, so kann dieser Abschnitt in eine Tempo-30-Zone einbezogen werden.[^2a-3]
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 25. Jan. 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Fassung gemäss Ziff. I der V vom 28. Sept. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^2a-3]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 
 ## 2. Kapitel: Gefahrensignale
 
@@ -165,7 +170,7 @@ Die Gefahrensignale stehen unter Vorbehalt abweichender Bestimmungen für einzel
 
 <sup>1</sup> Das Signal «Unebene Fahrbahn» (1.06) warnt vor Unebenheiten (z. B. Aufwölbungen, Senkungen) der Fahrbahn, bei denen das Fahrzeug gefährliche Schläge erleiden oder die Fahrbahnhaftung verlieren könnte.
 
-<sup>2</sup> ...[^6-1]
+<sup>2</sup> …[^6-1]
 
 [^6-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 
@@ -207,7 +212,7 @@ Die Gefahrensignale stehen unter Vorbehalt abweichender Bestimmungen für einzel
 
 <sup>2</sup> Das Signal «Schranken» warnt auch vor Abschrankungen bei Flugplätzen und dergleichen.
 
-<sup>3</sup> ...[^10-2]
+<sup>3</sup> …[^10-2]
 
 <sup>4</sup> Das Signal «Strassenbahn» (1.18) warnt vor Schienenfahrzeugen auf Strassen, namentlich vor Kreuzungen mit Schienenfahrzeugen.[^10-3]
 
@@ -256,18 +261,18 @@ Das Signal «Gegenverkehr» steht:
 
 - a. auf Autobahnen, wenn ein Fahrstreifen für den Gegenverkehr reserviert ist (z. B. wegen Bauarbeiten oder Unfällen auf der Gegenfahrbahn);
 - b. beim Beginn von Autostrassen nach dem Signal «Autostrasse» (4.03), wenn die Autostrasse auf eine Autobahn folgt;
-- c.[^13-1] ...
+- c.[^13-1] …
 - d. am Ende von Einbahnstrassen, sobald eine Strecke mit Gegenverkehr folgt.
 
 [^13-1]: Aufgehoben durch Ziff. I der V vom 25. Jan. 1989, mit Wirkung seit 1. Mai 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 
 #### Art. 14
 
-**Lichtsignale, ... Stau[^14-1]**
+**Lichtsignale, … Stau[^14-1]**
 
 <sup>1</sup> Das Signal «Lichtsignale» (1.27) kündigt eine Lichtsignalanlage an, bei welcher der Fahrzeugführer gegebenenfalls anhalten muss. Es steht vor Lichtsignalanlagen ausserorts und kann zur Vorankündigung von Lichtsignalen für die zeitweilige Sperrung einzelner Fahrstreifen (Art. 69 Abs. 4) verwendet werden; innerorts kann es auf Strassen mit schnellem Verkehr oder dort, wo die Lichtsignalanlage nicht rechtzeitig erkennbar ist, aufgestellt werden.[^14-2]
 
-<sup>2</sup> und <sup>3</sup> ...[^14-3]
+<sup>2</sup> und <sup>3</sup> …[^14-3]
 
 <sup>4</sup> Das Signal «Stau» (1.31) warnt vor stehenden oder langsam fahrenden Fahrzeugkolonnen. Es darf nur dauernd aufgestellt werden, wo häufig mit Stau zu rechnen ist.[^14-4]
 
@@ -338,7 +343,7 @@ Das Signal «Gegenverkehr» steht:
 
 <sup>6</sup> Bei Einbahnverkehr mit wechselnder Fahrtrichtung werden Ausnahmen vom Signal «Einfahrt verboten» auf beigefügter Zusatztafel vermerkt; angegeben werden zulässige Einfahrtszeiten, Länge der Fahrstrecke und die dafür in der Regel erforderliche Fahrzeit.
 
-<sup>7</sup> ...[^18-5]
+<sup>7</sup> …[^18-5]
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 [^18-2]: Ausdruck gemäss Ziff. I der V vom 15. April 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1317](https://fedlex.data.admin.ch/eli/oc/2015/275)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
@@ -357,10 +362,10 @@ Teilfahrverbote verbieten den Verkehr für bestimmte Fahrzeugarten und haben fol
 - a.[^19-1] Das «Verbot für Motorwagen» (2.03) gilt für alle mehrspurigen Motorfahrzeuge, inbegriffen Motorräder mit Seitenwagen.
 - b.[^19-2] Das «Verbot für Motorräder» (2.04) gilt für alle Motorräder.
 - c.[^19-3] Das «Verbot für Fahrräder und Motorfahrräder» (2.05) untersagt das Fahren mit Fahrrädern und Motorfahrrädern; das «Verbot für Motorfahrräder» (2.06) untersagt das Fahren mit Motorfahrrädern bei laufendem Motor, ausgenommen Motorfahrräder mit einer bauartbedingten Höchstgeschwindigkeit bis 20 km/h und einer allfälligen Tretunterstützung, die bis maximal 25 km/h wirkt.
-- d.[^19-4] Das «Verbot für Lastwagen» (2.07) gilt für schwere Motorwagen zum Sachentransport und schwere Arbeitsmotorwagen.
+- d.[^19-4] Das «Verbot für Lastwagen» (2.07) gilt für alle schweren Motorwagen zum Sachentransport.
 - e. Das «Verbot für Gesellschaftswagen» (2.08) gilt für alle Gesellschaftswagen.
 - f. Das «Verbot für Anhänger» (2.09) gilt für alle Motorfahrzeuge mit Anhänger, ausgenommen landwirtschaftliche Anhänger.[^19-5] Gewichtsangaben auf beigefügter Zusatztafel bedeuten, dass Anhänger, deren Gesamtgewicht nach Fahrzeugausweis das angegebene Gewicht nicht übersteigt, vom Verbot ausgenommen sind.
-- [tab] f<sup>bis</sup>.[^19-6] Das «Verbot für Anhänger mit Ausnahme von Sattel- und Zentralachsanhängern» (2.09.1) gilt für alle Motorfahrzeuge mit Anhänger, ausgenommen Sattel- und Zentralachsanhänger.[^19-7] Gewichtsangaben auf beigefügter Zusatztafel bedeuten, dass Anhänger, deren Gesamtgewicht nach Fahrzeugausweis das angegebene Gewicht nicht übersteigt, vom Verbot ausgenommen sind.
+- f<sup>bis</sup>.[^19-6] Das «Verbot für Anhänger mit Ausnahme von Sattel- und Zentralachsanhängern» (2.09.1) gilt für alle Motorfahrzeuge mit Anhänger, ausgenommen Sattel- und Zentralachsanhänger.[^19-7] Gewichtsangaben auf beigefügter Zusatztafel bedeuten, dass Anhänger, deren Gesamtgewicht nach Fahrzeugausweis das angegebene Gewicht nicht übersteigt, vom Verbot ausgenommen sind.
 - g.[^19-8] Das «Verbot für Fahrzeuge mit gefährlicher Ladung» (2.10.1) gilt für alle Fahrzeuge, die nach der SDR[^19-9] gekennzeichnet sein müssen; in Tunnels gilt es zusätzlich für alle Beförderungseinheiten, die diesen Fahrzeugen nach der SDR gleichgestellt sind. Bei Tunnels ist die Tunnelkategorie nach Anhang 2 SDR auf einer Zusatztafel mit dem entsprechenden Buchstaben anzuzeigen.
 - h.[^19-10] Das «Verbot für Fahrzeuge mit wassergefährdender Ladung» (2.11) gilt für alle Fahrzeuge, die gefährliche Güter nach Anhang 2 Ziffer 2.2[^19-11] SDR befördern.
 - i. Das «Verbot für Tiere» (2.12) verbietet den Verkehr von Zug‑, Reit- und Saumtieren sowie den Viehtrieb.
@@ -376,7 +381,7 @@ Teilfahrverbote verbieten den Verkehr für bestimmte Fahrzeugarten und haben fol
 [^19-1]: Fassung gemäss Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^19-2]: Fassung gemäss Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^19-3]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Juli 2012 ([AS 2012 1823](https://fedlex.data.admin.ch/eli/oc/2012/260)).
-[^19-4]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^19-4]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 [^19-5]: Fassung gemäss Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^19-6]: Eingefügt durch Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^19-7]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2105](https://fedlex.data.admin.ch/eli/oc/2007/298)).
@@ -542,7 +547,7 @@ Um dem Führer die vorgeschriebene Fahrtrichtung anzuzeigen, werden folgende Sig
 
 <sup>1</sup> Das Signal «Mindestabstand» (2.47) verpflichtet die Führer von Motorwagen und Sattelmotorfahrzeugen, deren Gesamtgewicht nach Fahrzeugausweis 3,5 t übersteigt, unter sich den angegebenen Mindestabstand einzuhalten.
 
-<sup>2</sup> ...[^28-1]
+<sup>2</sup> …[^28-1]
 
 <sup>3</sup> Gilt die Vorschrift für eine längere Strecke, wird die Zusatztafel «Streckenlänge» (5.03) beigefügt.
 
@@ -583,7 +588,7 @@ Um dem Führer die vorgeschriebene Fahrtrichtung anzuzeigen, werden folgende Sig
 
 <sup>2</sup> Das Signal «Polizei» (2.52) verpflichtet den Führer zum Halten. Es wird von der Polizei aufgestellt; für die Vorankündigung mit dem Signal «Andere Gefahren» (1.30) gilt Artikel 15 Absatz 2.
 
-<sup>3</sup> ...[^31-1]
+<sup>3</sup> …[^31-1]
 
 [^31-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 
@@ -599,7 +604,7 @@ Um dem Führer die vorgeschriebene Fahrtrichtung anzuzeigen, werden folgende Sig
 
 <sup>4</sup> Teilfahrverbote auf einzelnen Fahrstreifen werden durch entsprechende EndeSignale (2.56.1) aufgehoben.[^32-3]
 
-<sup>5</sup> ...[^32-4]
+<sup>5</sup> …[^32-4]
 
 [^32-1]: Fassung gemäss Ziff. II der V vom 19. Okt. 1983, in Kraft seit 1. Jan. 1984 ([AS 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)).
 [^32-2]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
@@ -768,7 +773,7 @@ Soweit Vorsignale nötig oder vorgeschrieben sind, stehen sie, mit beigefügter 
 
 <sup>1</sup> Die Signale «Autobahn» (4.01) und «Autostrasse» (4.03) kennzeichnen dem Motorfahrzeugverkehr vorbehaltene Strassen (Art. 1 Abs. 3 VRV[^45-1]), auf denen die besonderen Regeln für den Verkehr auf Autobahnen und Autostrassen gelten (Art. 35 und 36 VRV); die Signale heben alle zuvor signalisierten Beschränkungen auf. Die Signale «Ende der Autobahn» (4.02) und «Ende der Autostrasse» (4.04) zeigen an, dass wiederum die allgemeinen Verkehrsregeln gelten. Für die Aufstellung der Signale gilt Artikel 85.
 
-<sup>2</sup> Das Signal «Bergpoststrasse» (4.05) kennzeichnet Strassen, auf denen der Führer bei schwierigem Kreuzen und Überholen die Zeichen und Weisungen der Führer von Fahrzeugen im öffentlichen Linienverkehr beachten muss (Art. 38 Abs. 3 VRV). Wo diese Pflicht aufhört, steht das Signal «Ende der Bergpoststrasse» (4.06) ...[^45-2]
+<sup>2</sup> Das Signal «Bergpoststrasse» (4.05) kennzeichnet Strassen, auf denen der Führer bei schwierigem Kreuzen und Überholen die Zeichen und Weisungen der Führer von Fahrzeugen im öffentlichen Linienverkehr beachten muss (Art. 38 Abs. 3 VRV). Wo diese Pflicht aufhört, steht das Signal «Ende der Bergpoststrasse» (4.06) …[^45-2]
 
 <sup>3</sup> Das Signal «Tunnel» (4.07) kennzeichnet eine durch einen Tunnel verlaufende Strecke, auf der die besonderen Regeln für den Verkehr in Tunneln gelten (Art. 39 VRV und Art. 13 Abs. 3 SDR[^45-3]). Das Signal steht am Eingang des Tunnels sowie zusätzlich als Vorsignal (Art. 44 Abs. 3). Auf Autobahnen und Autostrassen wird beim Signal am Tunneleingang der Name des Tunnels angegeben.[^45-4]
 
@@ -912,7 +917,7 @@ Das Signal hat folgende Bedeutung:
 
 <sup>5</sup> Wo es die örtlichen Verhältnisse erfordern, darf der «Wegweiser in Tabellenform» (4.35) verwendet werden. Er kann bei Verzweigungen, namentlich in Verbindung mit einer Lichtsignalanlage, auch über der Fahrbahn angeordnet werden. Für die Farbe der einzelnen Felder gilt Absatz 1.
 
-<sup>6</sup> ...[^51-2]
+<sup>6</sup> …[^51-2]
 
 [^51-1]: Fassung gemäss Ziff. I der V vom 1. April 1998, in Kraft seit 1. Juni 1998 ([AS 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
 [^51-2]: Aufgehoben durch Ziff. I der V vom 7. März 1994, mit Wirkung seit 1. April 1994 ([AS 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
@@ -935,7 +940,7 @@ Das Signal hat folgende Bedeutung:
 
 <sup>7</sup> Dem Namen von Ortschaften mit Verkehrsflugplätzen kann das Symbol des Signals «Flugzeuge» (1.28) beigefügt werden.
 
-<sup>8</sup> ...[^52-2]
+<sup>8</sup> …[^52-2]
 
 [^52-1]: Zweiter Satz eingefügt durch Ziff. I der V vom 7. März 1994 ([AS 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
 [^52-2]: Aufgehoben durch Ziff. I der V vom 7. März 1994, mit Wirkung seit 1. April 1994 ([AS 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)).
@@ -946,7 +951,7 @@ Das Signal hat folgende Bedeutung:
 
 <sup>1</sup> Einspurtafeln über der Fahrbahn zeigen auf mehrspurigen Strassen vor Verzweigungen an, welche Fahrstreifen zu einem bestimmten Ziel hinführen («Einspurtafel über Fahrstreifen auf Hauptstrassen»; 4.41 und «Einspurtafel über Fahrstreifen auf Nebenstrassen»; 4.42). Der nach unten weisende Pfeil weist auf die Mitte des Fahrstreifens. Für die Farbe der Felder gelten die Bestimmungen über Vorwegweiser (Art. 52 Abs. 1), für das Anbringen der Nummern von Hauptstrassen und europäischen Durchgangsstrassen Artikel 56.
 
-<sup>2</sup> ...[^53-1]
+<sup>2</sup> …[^53-1]
 
 [^53-1]: Aufgehoben durch Ziff. I der V vom 17. Aug. 2005, mit Wirkung seit 1. März 2006 ([AS 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
 
@@ -964,11 +969,11 @@ Das Signal hat folgende Bedeutung:
 
 <sup>4</sup> Der «Betriebswegweiser» (4.49) zeigt in die Richtung von Industrie-, Gewerbe- und Handelsbetrieben, Ausstellungen und dergleichen. Er weist den Weg zu häufig aufgesuchten Zielen, die abseits von Durchgangsstrassen (Art. 110 Abs. 1) und wichtigen Nebenstrassen liegen und ohne besondere Wegweisung schwer auffindbar sind.
 
-<sup>5</sup> ...[^54-3]
+<sup>5</sup> …[^54-3]
 
 <sup>6</sup> Die Tafel «Verkehrsführung» (4.52) zeigt den Weg, der einzuschlagen ist, um an der nächsten Verzweigung mit Linksabbiegeverbot nach links zu gelangen.
 
-<sup>7</sup> ...[^54-4]
+<sup>7</sup> …[^54-4]
 
 <sup>8</sup> Die Tafel «Abzweigende Strasse mit Gefahrenstelle oder Verkehrsbeschränkung» (4.55) mit dem Bild des zutreffenden Gefahren- oder Vorschriftssignals kann kurz vor einer Verzweigung aufgestellt werden, wenn die abzweigende Strasse unmittelbar nach der Verzweigung eine Gefahrenstelle oder eine Verkehrsbeschränkung aufweist.
 
@@ -1136,7 +1141,7 @@ Mit dem Signal «Anzeige der allgemeinen Höchstgeschwindigkeiten» (4.93) werde
 
 <sup>2</sup> Bei den Hinweissignalen (Kap. 5) mit blauem Grund werden nötigenfalls einfache Zusätze (wie Angabe von Entfernung und Richtung) in weisser Schrift oder mit weissem Symbol angegeben.
 
-<sup>3</sup> Anweisungen auf einer Zusatztafel sind verbindlich wie Signale. ...[^63-2]
+<sup>3</sup> Anweisungen auf einer Zusatztafel sind verbindlich wie Signale. …[^63-2]
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 [^63-2]: Zweiter Satz aufgehoben durch Ziff. I der V vom 1. April 1998, mit Wirkung seit 1. Juni 1998 ([AS 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)).
@@ -1191,7 +1196,7 @@ Mittels einer Zusatztafel kann der Geltungsbereich von Signalen konkretisiert we
 
 <sup>7</sup> Die dem Signal «Andere Gefahren» (1.30) beigefügte Zusatztafel «Schiesslärm» (5.16) warnt vor überraschendem Geschützlärm.
 
-<sup>8</sup> Insbesondere zur Schulwegsicherung kann auf relativ stark befahrenen Strassen am Beginn eines schwach begangenen Trottoirs das Signal «Fussweg» (2.61) mit der Zusatztafel «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image1.png) gestattet» angebracht werden. Das Trottoir darf dann von Fahrrädern und Motorfahrrädern mit einer bauartbedingten Höchstgeschwindigkeit bis 20 km/h und einer allfälligen Tretunterstützung die bis maximal 25 km/h wirkt, mitbenützt werden. Die Führer der übrigen Motorfahrräder dürfen das Trottoir nur mit abgestelltem Motor mitbenützen. Es gelten die Bestimmungen über gemeinsame Benützung nach Artikel 33 Absatz 4. Das Ende der Berechtigung kann dadurch angezeigt werden, dass die dem Signal 2.61 beigefügte Zusatztafel «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image1.png) gestattet» mit drei schwarzen Diagonalstrichen von links unten nach rechts oben durchgestrichen wird.[^65-4]
+<sup>8</sup> Insbesondere zur Schulwegsicherung kann auf relativ stark befahrenen Strassen am Beginn eines schwach begangenen Trottoirs das Signal «Fussweg» (2.61) mit der Zusatztafel «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image1.png) gestattet» angebracht werden. Das Trottoir darf dann von Fahrrädern und Motorfahrrädern mit einer bauartbedingten Höchstgeschwindigkeit bis 20 km/h und einer allfälligen Tretunterstützung die bis maximal 25 km/h wirkt, mitbenützt werden. Die Führer der übrigen Motorfahrräder dürfen das Trottoir nur mit abgestelltem Motor mitbenützen. Es gelten die Bestimmungen über gemeinsame Benützung nach Artikel 33 Absatz 4. Das Ende der Berechtigung kann dadurch angezeigt werden, dass die dem Signal 2.61 beigefügte Zusatztafel «![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image1.png) gestattet» mit drei schwarzen Diagonalstrichen von links unten nach rechts oben durchgestrichen wird.[^65-4]
 
 <sup>9</sup> Die dem Signal «Allgemeines Fahrverbot in beiden Richtungen» (2.01) beigefügte Zusatztafel «Zollabfertigung mit Sichtdeklaration» (5.54) zeigt an, dass dieser Fahrstreifen nur von Fahrzeugführern mit Sichtdeklaration benützt werden darf.[^65-5]
 
@@ -1203,7 +1208,11 @@ Mittels einer Zusatztafel kann der Geltungsbereich von Signalen konkretisiert we
 
 <sup>13</sup> Die den Signalen «Parkieren gestattet» (4.17), «Parkieren mit Parkscheibe» (4.18) und «Parkieren gegen Gebühr» (4.20) beigefügte Zusatztafel mit dem Symbol «Ladestation» (5.42) zeigt an, dass die betroffene Fläche nur für den Ladevorgang von Fahrzeugen mit elektrischem Antrieb verwendet werden darf.[^65-10]
 
-<sup>14</sup> Die dem Signal «Parkieren verboten» (2.50) beigefügte Zusatztafel « <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image2.png)</sub> gestattet» zeigt an, dass die betroffene Fläche für den Ladevorgang von Fahrzeugen mit elektrischem Antrieb verwendet werden darf.[^65-11]
+<sup>14</sup> Die dem Signal «Parkieren verboten» (2.50) beigefügte Zusatztafel « <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image2.png)</sub> gestattet» zeigt an, dass die betroffene Fläche für den Ladevorgang von Fahrzeugen mit elektrischem Antrieb verwendet werden darf.[^65-11]
+
+<sup>15</sup> Die den Signalen «Allgemeines Fahrverbot in beiden Richtungen» (2.01), «Verbot für Motorwagen» (2.03) und «Busfahrbahn» (2.64) beigefügte Zusatztafel mit dem Wort «ausgenommen» und dem Symbol «Mitfahrgemeinschaft» (5.43) zeigt an, dass die betroffene Fahrbahn oder der betroffene Fahrstreifen von Fahrzeugen verwendet werden darf, die mindestens mit einer der Zahl auf dem Symbol entsprechenden Anzahl an Personen besetzt sind.[^65-12]
+
+<sup>16</sup> Die den Signalen «Parkieren gestattet» (4.17), «Parkieren mit Parkscheibe» (4.18) und «Parkieren gegen Gebühr» (4.20) beigefügte Zusatztafel mit dem Symbol «Mitfahrgemeinschaft» (5.43) zeigt an, dass die betroffene Parkierungsfläche nur von Fahrzeugen benutzt werden darf, die beim Zufahren mindestens mit einer der Zahl auf dem Symbol entsprechenden Anzahl an Personen besetzt sind.[^65-13]
 
 [^65-1]: Fassung gemäss Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge, in Kraft seit 1. Okt. 1995 ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^65-2]: Fassung gemäss Anhang Ziff. II 1 der V vom 12. Nov. 2003, in Kraft seit 14. Dez. 2003 ([AS 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
@@ -1216,6 +1225,8 @@ Mittels einer Zusatztafel kann der Geltungsbereich von Signalen konkretisiert we
 [^65-9]: Eingefügt durch Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
 [^65-10]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
 [^65-11]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^65-12]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
+[^65-13]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 
 ## 7. Kapitel: Zeichen und Weisungen der Polizei
 
@@ -1281,7 +1292,7 @@ Für das Verhalten auf der Strasse verbindlich sind die Zeichen und Weisungen:
 [^67-6]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5131](https://fedlex.data.admin.ch/eli/oc/2016/818)).
 [^67-7]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5131](https://fedlex.data.admin.ch/eli/oc/2016/818)).
 
-## 8. Kapitel: Lichtsignale sowie ergänzende Angaben zu Lichtsignalen****
+## 8. Kapitel: Lichtsignale sowie ergänzende Angaben zu Lichtsignalen
 
 [^chap8-1]
 
@@ -1328,7 +1339,7 @@ Gelbes Licht bedeutet:
 
 **Besondere Lichtsignale**
 
-<sup>1</sup> ...[^69-1]
+<sup>1</sup> …[^69-1]
 
 <sup>2</sup> Weisse Lichter in besonderer Anordnung (Art. 70 Abs. 8) richten sich ausschliesslich an die Führer von Fahrzeugen im öffentlichen Linienverkehr; sie sind für diese verbindlich.
 
@@ -1374,7 +1385,7 @@ Gelbes Blinklicht zur Warnung der Strassenbenützer (Art. 68 Abs. 6) ist nur zul
 - d. vor gefährlichen Hindernissen auf der Fahrbahn;
 - e. bei Fussgängerstreifen (Art. 77), Inselpfosten und dergleichen;
 - f. am Rand von Autobahnen bei Unfällen, Verkehrsstockungen, Nebel, Glatteis und ähnlichen Gefahren;
-- g.[^70-3] ...
+- g.[^70-3] …
 
 <sup>2</sup> Gelbes Drehlicht ist unzulässig.
 
@@ -1525,7 +1536,7 @@ Die einzelnen Linien bedeuten:
 
 <sup>2</sup> Das beidseitige Anbringen von Radstreifen ist ausserorts nur zulässig, wenn die Fahrbahnhälften durch eine Markierung getrennt sind.
 
-<sup>3</sup> ...[^74a-3]
+<sup>3</sup> …[^74a-3]
 
 <sup>4</sup> Wo ein Radweg über eine Nebenstrasse geführt wird und den Benützern des Radweges entgegen Artikel 15 Absatz 3 VRV ausnahmsweise der Vortritt zustehen soll, wird die Überquerung durch unterbrochene gelbe Linien angezeigt; den Fahrzeugen auf der Nebenstrasse ist der Vortritt mit den Signalen «Stop» (3.01) oder «Kein Vortritt» (3.02) zu entziehen.
 
@@ -1648,13 +1659,15 @@ Parkfelder können mit einem markierten Symbol für folgende Fahrzeugarten und B
 - a. mit dem Symbol «Fahrrad» (5.31) für Fahrräder und Motorfahrräder;
 - b. mit dem Symbol «Motorrad» (5.29) für Motorräder;
 - c. mit dem Symbol «Gehbehinderte» (5.14) für Personen, die über eine «Parkkarte für behinderte Personen» verfügen;
-- d. mit dem Symbol «Ladestation» (5.42) für Elektrofahrzeuge während des Ladevorgangs.
+- d. mit dem Symbol «Ladestation» (5.42) für Elektrofahrzeuge während des Ladevorgangs;
+- e.[^79-2] mit dem Symbol «Mitfahrgemeinschaft» (5.43) für Fahrzeuge, die beim Zufahren mindestens mit einer der Zahl auf dem Symbol entsprechenden Anzahl an Personen besetzt sind.
 
 <sup>5</sup> Parkfelder,die für bestimmte Benutzergruppen reserviert sind, werden gelb markiert. Parkfelder für Fahrräder und Motorfahrräder können ebenfalls gelb markiert werden.
 
 <sup>6</sup> Wo Parkfelder markiert sind, dürfen Fahrzeuge nur innerhalb dieser Felder parkiert werden. Parkfelder dürfen nur von den Fahrzeugarten benützt werden, für die sie grössenmässig bestimmt sind. Parkfelder, die für eine Fahrzeugart oder Benutzergruppe reserviert sind, dürfen nur von dieser Fahrzeugart oder Benutzergruppe benützt werden.
 
 [^79-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^79-2]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 
 #### Art. 79a
 
@@ -1692,7 +1705,7 @@ Parkfelder können mit einem markierten Symbol für folgende Fahrzeugarten und B
 
 <sup>1</sup> Die Behörde oder das ASTRA erteilt den Bauunternehmern Weisungen für die Signalisation der Baustellen und überwacht die Ausführung.[^81-1]
 
-<sup>2</sup> Bauunternehmer dürfen bei Baustellen Verkehrsanordnungen (z. B. Fahrverbote, Höchstgeschwindigkeiten, Umleitungen) nur signalisieren, wenn sie die Behörde oder das ASTRA dazu ermächtigt hat und die erforderliche Verfügung vorliegt (Art. 107 Abs. 1). [^81-2]
+<sup>2</sup> Bauunternehmer dürfen bei Baustellen Verkehrsanordnungen (z. B. Fahrverbote, Höchstgeschwindigkeiten, Umleitungen) nur signalisieren, wenn sie die Behörde oder das ASTRA dazu ermächtigt hat und die erforderliche Verfügung vorliegt (Art. 107 Abs. 1).[^81-2]
 
 <sup>3</sup> Für die Anzeige von Umleitungen gilt Artikel 55. [^81-3]
 
@@ -1828,7 +1841,7 @@ Im Bereich von Verzweigungen von Autobahnen oder Autostrassen werden angebracht:
 
 <sup>1</sup> Auf den Einfahrten wird unmittelbar vor der Autobahn oder Autostrasse das Signal «Kein Vortritt» (3.02) aufgestellt. Die Wartelinie (6.13) ist wegzulassen.
 
-<sup>2</sup> ...[^88-1]
+<sup>2</sup> …[^88-1]
 
 [^88-1]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
 
@@ -1913,7 +1926,7 @@ Zur Warnung vor gekennzeichneten Bahnübergängen (Art. 93) dienen die folgenden
 - a. das Signal «Schranken» (1.15) vor Bahnübergängen mit Schranken, Halbschranken oder Bedarfsschranken;
 - b. das Signal «Bahnübergang ohne Schranken» (1.16) vor Bahnübergängen mit Blinklichtsignalen oder Andreaskreuzen;
 - b<sup>bis</sup>. das Signal «Strassenbahn» (1.18) mit beigefügter Distanztafel vor Bahnübergängen, die nach Eisenbahnrecht mit dem Signal «Strassenbahn» signalisiert werden;
-- c.[^92-2] ... .
+- c.[^92-2] … .
 
 <sup>2</sup> Bei Bahnübergängen mit Blinklichtsignalen wird den Signalen «Schranken» und «Bahnübergang ohne Schranken» die Zusatztafel «Blinklicht» (5.12) beigefügt.
 
@@ -1930,7 +1943,7 @@ Zur Warnung vor gekennzeichneten Bahnübergängen (Art. 93) dienen die folgenden
 
 <sup>2</sup> Geschlossene oder sich schliessende Schranken, Halbschranken oder Bedarfsschranken, rotes Blinklicht, rotes Licht sowie akustische Signale bedeuten «Halt».
 
-<sup>3</sup> ...[^93-3]
+<sup>3</sup> …[^93-3]
 
 <sup>4</sup>
 
@@ -1942,7 +1955,7 @@ Der Strassenbenützer muss sich selbst vergewissern, dass kein Schienenfahrzeug 
 
 <sup>5</sup> Liegt ein Bahnübergang in einer durch Lichtsignale (Art. 68–71) geregelten Verzweigung, kann er in die Lichtsignalanlage einbezogen werden.
 
-<sup>6</sup> ...[^93-5]
+<sup>6</sup> …[^93-5]
 
 [^93-1]: Fassung gemäss Anhang Ziff. II 1 der V vom 12. Nov. 2003, in Kraft seit 14. Dez. 2003 ([AS 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 [^93-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
@@ -2064,7 +2077,7 @@ Ergänzende Vorschriften über Strassenreklamen, namentlich zum Schutz des Lands
 
 <sup>3</sup> Signale und Markierungen dürfen nicht unnötigerweise angeordnet und angebracht werden, jedoch nicht fehlen, wo sie unerlässlich sind. Sie sind, besonders auf demselben Strassenzug, einheitlich anzubringen.
 
-<sup>3bis</sup> ...[^101-3]
+<sup>3bis</sup> …[^101-3]
 
 <sup>4</sup> Signale gelten für die ganze Fahrbahn, sofern sich nicht aus ihrer Anordnung über der Fahrbahn oder aus einzelnen Bestimmungen (z. B. Art. 59) zweifelsfrei ergibt, dass sie nur für einzelne Fahrstreifen oder besondere Verkehrsflächen gelten.
 
@@ -2184,7 +2197,7 @@ Die Einsprache ist zulässig:
 - a. gegen Signalisationen und Markierungen, die den Vorschriften nicht entsprechen, namentlich wenn nicht vorgesehene Signale oder Markierungen verwendet werden, wenn Signale oder Markierungen unnötigerweise angebracht werden oder fehlen, wo sie notwendig sind;
 - b.[^106-3] gegen Signale, die nach Artikel 107 Absätze 1, 3 und 4 weder verfügt noch veröffentlicht werden müssen, sowie gegen Markierungen, soweit die Verletzung der rechtlichen Voraussetzungen für ihre Anbringung gerügt wird. Die Einsprache ist ausgeschlossen gegen Signale und Markierungen, deren Anbringung vom Bund angeordnet oder bewilligt wird (Art. 104 Abs. 3 und 4; Art. 13 Abs. 2 SDR[^106-4] in Verbindung mit Art. 19 Abs. 1 Bst. g und h).
 
-<sup>2</sup> ...[^106-5]
+<sup>2</sup> …[^106-5]
 
 [^106-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 [^106-2]: Fassung gemäss Ziff. II 63 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
@@ -2272,17 +2285,19 @@ Die allgemeinen Höchstgeschwindigkeiten können herabgesetzt werden, wenn:
 
 <sup>4</sup> Vor der Festlegung von abweichenden Höchstgeschwindigkeiten wird durch ein Gutachten (Art. 32 Abs. 3 SVG) abgeklärt, ob die Massnahme nötig (Abs. 2), zweck- und verhältnismässig ist oder ob andere Massnahmen vorzuziehen sind. Dabei ist insbesondere zu prüfen, ob die Massnahme auf die Hauptverkehrszeiten beschränkt werden kann.[^108-7]
 
+<sup>4bis</sup> In Abweichung der Absätze 1, 2 und 4 richtet sich die Anordnung von Tempo-30-Zonen und Begegnungszonen nur nach Artikel 3 Absatz 4 SVG.[^108-8]
+
 <sup>5</sup>
 
 Es sind folgende abweichende Höchstgeschwindigkeiten zulässig:
 
-- a.[^108-8] auf Autobahnen: tiefere Höchstgeschwindigkeiten als 120 km/h bis 60 km /h in Abstufungen von je 10 km/h; weitere Reduktionen in Abstufungen von je 10 km/h im Bereich von Anschlüssen und Verzweigungen gemäss Ausbaugrad;
-- b.[^108-9] auf Autostrassen: tiefere Höchstgeschwindigkeiten als 100 km/h bis 60 km/h in Abstufungen von je 10 km/h; weitere Reduktionen in Abstufungen von je 10 km/h im Bereich von Anschlüssen und Verzweigungen gemäss Ausbaugrad;
-- c.[^108-10] auf Strassen ausserorts, ausgenommen Autostrassen und Autobahnen: tiefere Höchstgeschwindigkeiten als 80 km/h in Abstufungen von je 10 km/h;
-- d.[^108-11] auf Strassen innerorts: 80/70/60 km/h, tiefere Höchstgeschwindigkeiten als 50 km/h in Abstufungen von je 10 km/h;
-- e.[^108-12] innerorts mit Zonensignalisation 30 km/h nach Artikel 22*a* bzw. 20 km/h nach Artikel 22*b*.
+- a.[^108-9] auf Autobahnen: tiefere Höchstgeschwindigkeiten als 120 km/h bis 60 km /h in Abstufungen von je 10 km/h; weitere Reduktionen in Abstufungen von je 10 km/h im Bereich von Anschlüssen und Verzweigungen gemäss Ausbaugrad;
+- b.[^108-10] auf Autostrassen: tiefere Höchstgeschwindigkeiten als 100 km/h bis 60 km/h in Abstufungen von je 10 km/h; weitere Reduktionen in Abstufungen von je 10 km/h im Bereich von Anschlüssen und Verzweigungen gemäss Ausbaugrad;
+- c.[^108-11] auf Strassen ausserorts, ausgenommen Autostrassen und Autobahnen: tiefere Höchstgeschwindigkeiten als 80 km/h in Abstufungen von je 10 km/h;
+- d.[^108-12] auf Strassen innerorts: 80/70/60 km/h, tiefere Höchstgeschwindigkeiten als 50 km/h in Abstufungen von je 10 km/h;
+- e.[^108-13] innerorts mit Zonensignalisation 30 km/h nach Artikel 22*a* bzw. 20 km/h nach Artikel 22*b*.
 
-<sup>6</sup> Das UVEK regelt die Einzelheiten für die Festlegung abweichender Höchstgeschwindigkeiten. Es legt für Tempo-30-Zonen und Begegnungszonen bezüglich Ausgestaltung, Signalisation und Markierung die Anforderungen fest.[^108-13]
+<sup>6</sup> Das UVEK regelt die Einzelheiten für die Festlegung abweichender Höchstgeschwindigkeiten. Es legt für Tempo-30-Zonen und Begegnungszonen bezüglich Ausgestaltung, Signalisation und Markierung die Anforderungen fest.[^108-14]
 
 [^108-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^108-2]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3213](https://fedlex.data.admin.ch/eli/oc/2002/482)).
@@ -2291,12 +2306,13 @@ Es sind folgende abweichende Höchstgeschwindigkeiten zulässig:
 [^108-5]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)).
 [^108-6]: Fassung gemäss Ziff. II der V vom 20. Dez. 1989, in Kraft seit 1. Jan. 1990 ([AS 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Siehe auch die SchlB dieser Änd. vor Anhang 1.
 [^108-7]: Fassung gemäss Ziff. I der V vom 17. Aug. 2005, in Kraft seit 1. März 2006 ([AS 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)).
-[^108-8]: Fassung gemäss Ziff. II der V vom 20. Dez. 1989, in Kraft seit 1. Jan. 1990 ([AS 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Siehe auch die SchlB dieser Änd. vor Anhang 1.
+[^108-8]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 [^108-9]: Fassung gemäss Ziff. II der V vom 20. Dez. 1989, in Kraft seit 1. Jan. 1990 ([AS 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Siehe auch die SchlB dieser Änd. vor Anhang 1.
 [^108-10]: Fassung gemäss Ziff. II der V vom 20. Dez. 1989, in Kraft seit 1. Jan. 1990 ([AS 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Siehe auch die SchlB dieser Änd. vor Anhang 1.
-[^108-11]: Eingefügt durch Ziff. II der V vom 1. Okt. 1984, in Kraft seit 1. Jan. 1985 ([AS 1984 1119](https://fedlex.data.admin.ch/eli/oc/1984/1119_1119_1119)).
-[^108-12]: Eingefügt durch Ziff. I der V vom 25. Jan. 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Fassung gemäss Ziff. I der V vom 28. Sept. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
-[^108-13]: Fassung gemäss Ziff. I der V vom 28. Sept. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^108-11]: Fassung gemäss Ziff. II der V vom 20. Dez. 1989, in Kraft seit 1. Jan. 1990 ([AS 1990 66](https://fedlex.data.admin.ch/eli/oc/1990/66_66_66)). Siehe auch die SchlB dieser Änd. vor Anhang 1.
+[^108-12]: Eingefügt durch Ziff. II der V vom 1. Okt. 1984, in Kraft seit 1. Jan. 1985 ([AS 1984 1119](https://fedlex.data.admin.ch/eli/oc/1984/1119_1119_1119)).
+[^108-13]: Eingefügt durch Ziff. I der V vom 25. Jan. 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)). Fassung gemäss Ziff. I der V vom 28. Sept. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
+[^108-14]: Fassung gemäss Ziff. I der V vom 28. Sept. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)).
 
 #### Art. 109
 
@@ -2327,7 +2343,7 @@ Es sind folgende abweichende Höchstgeschwindigkeiten zulässig:
 
 <sup>4</sup> Die Kantone ermitteln die für Ausnahmefahrzeuge und Ausnahmetransporte (Art. 78–85 VRV[^110-3]) auf Durchgangsstrassen höchstzulässigen Masse und Gewichte der Fahrzeuge.
 
-<sup>5</sup> ...[^110-4]
+<sup>5</sup> …[^110-4]
 
 [^110-1]: Fassung gemäss Anhang 4 Ziff. II 6 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^110-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
@@ -2338,7 +2354,7 @@ Es sind folgende abweichende Höchstgeschwindigkeiten zulässig:
 
 **Strassen im Eigentum des Bundes[^111-1]**
 
-<sup>1</sup> ...[^111-2]
+<sup>1</sup> …[^111-2]
 
 <sup>2</sup> Verfügungen, durch die der öffentliche Verkehr auf Strassen und Grundstücken des Bundes, ausgenommen Nationalstrassen, beschränkt oder ausgeschlossen wird (Art. 2 Abs. 5 SVG), trifft das eidgenössische Departement, dem die mit der Verwaltung der Strasse und des Grundstückes betraute Amtsstelle oder Anstalt untersteht.[^111-3] Die Schweizerische Post und der ETH-Rat sind für ihre Grundstücke zuständig.[^111-4]
 
@@ -2366,7 +2382,7 @@ Verkehrsverbote aufgrund der Gesetzgebung über die Bahnpolizei können durch di
 
 <sup>3</sup> Hat der Eigentümer zum Schutze seines Grundeigentums auf seinen Strassen, Wegen oder Plätzen ein Verbot oder eine Beschränkung erwirkt, kann er das zutreffende Signal mit beigefügtem Zusatz «Privat», «Privatweg» usw. nach den Weisungen der Behörde aufstellen.
 
-<sup>4</sup> ...[^113-2]
+<sup>4</sup> …[^113-2]
 
 [^113-1]: Fassung gemäss Ziff. I der V vom 12. Febr. 1992, in Kraft seit 15. März 1992 ([AS 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)).
 [^113-2]: Aufgehoben durch Ziff. I der V vom 24. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)).
@@ -2426,13 +2442,13 @@ Folgende Normen[^115a-2] sind bis zum 31. Dezember 2024 anwendbar:
 
 **Aufhebung und Änderung bisherigen Rechts**
 
-### Die Verordnung vom 31. Mai 1963** über die Strassensignalisation wird aufgehoben.
+### Die Verordnung vom 31. Mai 1963 über die Strassensignalisation wird aufgehoben.
 
 [^116-subdivu1-1]
 
 [^116-subdivu1-1]: [[AS 1963 541](https://fedlex.data.admin.ch/eli/oc/1963/541_537_553), [1967 261](https://fedlex.data.admin.ch/eli/oc/1967/261_273_267)Art. 23 Abs. 2 Bst. *c*, [1969 793](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)Art. 36 Ziff. 3, [1971 1876](https://fedlex.data.admin.ch/eli/oc/1971/1876_1882_1882), [1975 1216](https://fedlex.data.admin.ch/eli/oc/1975/1216_1216_1216)]
 
-### und 3. ...**
+### und 3. …
 
 [^116-subdivu2-1]
 
@@ -2488,7 +2504,7 @@ Signale und Markierungen, die dieser Änderung nicht entsprechen, sind späteste
 
 Diese Verordnung tritt am 1. Januar 1980 in Kraft.
 
-## Schlussbestimmungen der Änderung vom 25. Januar 1989****
+## Schlussbestimmungen der Änderung vom 25. Januar 1989
 
 [^u1-1]
 
@@ -2505,7 +2521,7 @@ Diese Verordnung tritt am 1. Januar 1980 in Kraft.
 [^u1-2]: Dieser Absatz ist aufgehoben.
 [^u1-3]: Dieser Absatz ist aufgehoben.
 
-## Schlussbestimmungen der Änderung vom 20. Dezember 1989****
+## Schlussbestimmungen der Änderung vom 20. Dezember 1989
 
 [^u2-1]
 
@@ -2513,7 +2529,7 @@ Diese Verordnung tritt am 1. Januar 1980 in Kraft.
 
 Höchstgeschwindigkeitssignale von 120 km/h auf Autobahnen und von 80 km/h und mehr auf Strassen ausserorts (ausgenommen Autostrassen), die vom 1. Januar 1985 bis zum Inkrafttreten dieser Verordnung abgedeckt wurden, sind bis zum 1. Juni 1990 zu entfernen.
 
-## Schlussbestimmungen der Änderung vom 7. März 1994****
+## Schlussbestimmungen der Änderung vom 7. März 1994
 
 [^u3-1]
 
@@ -2523,7 +2539,7 @@ Höchstgeschwindigkeitssignale von 120 km/h auf Autobahnen und von 80 km/h und m
 
 <sup>2</sup> Die «Nummerntafeln für Europastrassen» (4.56) sowie die «Nummerntafeln für Autobahnen und Autostrassen» (4.58) sind spätestens bis zum 31. Dezember 1996 anzubringen.
 
-## Schlussbestimmungen der Änderung vom 1. April 1998****
+## Schlussbestimmungen der Änderung vom 1. April 1998
 
 [^u4-1]
 
@@ -2533,7 +2549,7 @@ Höchstgeschwindigkeitssignale von 120 km/h auf Autobahnen und von 80 km/h und m
 
 <sup>2</sup> Parkscheiben nach bisherigem Recht dürfen noch bis 31. Dezember 2002 in blauen und roten Zonen verwendet werden.
 
-## Schlussbestimmungen der Änderung vom 28. September 2001****
+## Schlussbestimmungen der Änderung vom 28. September 2001
 
 [^u5-1]
 
@@ -2545,7 +2561,7 @@ Höchstgeschwindigkeitssignale von 120 km/h auf Autobahnen und von 80 km/h und m
 
 <sup>3</sup> Bei den nach bisherigem Recht signalisierten Wohnstrassen sind spätestens bis zum 31. Dezember 2003 die Signale «Begegnungszone» (2.59.5) und «Ende der Begegnungszone» (2.59.6) aufzustellen.
 
-## Schlussbestimmung der Änderung vom 17. August 2005****
+## Schlussbestimmung der Änderung vom 17. August 2005
 
 [^u6-1]
 
@@ -2571,7 +2587,7 @@ Höchstgeschwindigkeitssignale von 120 km/h auf Autobahnen und von 80 km/h und m
 
 [^u6-2]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Juli 2012 ([AS 2012 1823](https://fedlex.data.admin.ch/eli/oc/2012/260)).
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 102 Abs. 1)
 
@@ -2587,7 +2603,7 @@ Die in diesem Anhang erwähnten Schweizer Normen (SN) können gegen Bezahlung be
 <tr><td>1. Allgemein (1.01–1.16, 1.18, 1.22–1.32)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>– Seitenlänge</td><td>150 cm</td><td>120 cm</td><td>90 cm</td><td>60 cm</td></tr>
 <tr><td>– Randbreite</td><td>11 cm</td><td>9 cm</td><td>7 cm</td><td>5 cm</td></tr>
-<tr><td>2. ...</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>2. …</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td colspan="5">II. Vorschriftssignale</td></tr>
 <tr><td>1. Durchmesser</td><td>[tab] 120 cm</td><td>[tab] 90 cm</td><td>[tab] 60 cm</td><td>[tab] 40 cm</td></tr>
 <tr><td>2. Randbreite</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
@@ -2614,7 +2630,7 @@ Die in diesem Anhang erwähnten Schweizer Normen (SN) können gegen Bezahlung be
 <tr><td>4. Signal «Dem Gegenverkehr Vortritt lassen» (3.09)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>– Durchmesser</td><td>–</td><td>90 cm</td><td>60 cm</td><td>40 cm</td></tr>
 <tr><td><sup>–</sup> Randbreite</td><td>–</td><td>15 cm</td><td>10 cm</td><td>6,6 cm</td></tr>
-<tr><td>5. ...</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>5. …</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>6. Signale 3.20–3.25</td><td colspan="4">Masse und Ausgestaltung richten sich nach Eisenbahnrecht.</td></tr>
 <tr><td colspan="5">IV. Hinweissignale</td></tr>
 <tr><td colspan="5">[tab] *A. Verhaltens- und Informationshinweise*</td></tr>
@@ -2652,7 +2668,7 @@ Die in diesem Anhang erwähnten Schweizer Normen (SN) können gegen Bezahlung be
 <tr><td>5. Besondere Fälle</td><td></td><td></td><td colspan="2"></td></tr>
 <tr><td>a. Betriebswegweiser (4.49)</td><td>–</td><td>–</td><td colspan="2">Die Höhe beträgt auf Hauptstrassen 25 cm, auf Nebenstrassen und innerorts 20 cm. Die Länge richtet sich nach der Schrift.</td></tr>
 <tr><td>b. Wegweiser für Fahrräder, Mountainbikes und fahrzeugähnliche Geräte(4.50.1, 4.50.3–4.50.6, 4.51.1–4.51.4)</td><td colspan="4">Für Masse und Ausgestaltung gelten die Weisungen des UVEK.</td></tr>
-<tr><td>c. ...</td><td colspan="4"></td></tr>
+<tr><td>c. …</td><td colspan="4"></td></tr>
 <tr><td>d. Verkehrsführung (4.52)</td><td colspan="4">Für Masse und Ausgestaltung gelten die Weisungen des UVEK.</td></tr>
 <tr><td>e. Wegweiser für Umleitungen ohne Zielangabe (4.34.1)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Länge</td><td>130 cm</td><td>–</td><td>130 cm</td><td>100 cm</td></tr>
@@ -2704,39 +2720,39 @@ Die in diesem Anhang erwähnten Schweizer Normen (SN) können gegen Bezahlung be
 [^annex1-lvlu1-4]: Auf Wegweisern und Vorwegweisern wird für die Strassennummer keine grössere Schrift gewählt als für die übrigen Angaben; die Umrandung der Nummer ist gegebenenfalls entsprechend zu verkleinern.
 [^annex1-lvlu1-5]: Als Schrifthöhe gilt die Höhe des grossen Buchstabens.
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 1 Abs. 3, 2 Abs. 1<sup>bis</sup>, 49 Abs. 2, 51 Abs. 3 sowie 64 Abs. 7)
 
 ## Abbildungen der Signale und Markierungen (Art. 1 Abs. 3)
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 19. Okt. 1983 ([AS 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), vom 25. Jan. 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), vom 12. Febr. 1992 ([AS 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), Ziff. II 2 der V vom 7. März 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)), Ziff. I der V vom 7. März 1994 ([AS 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), Ziff. II der V vom 1. April 1998 ([AS 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), vom 28. Sept. 2001 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), vom 15. Mai 2002 ([AS 2002 1935](https://fedlex.data.admin.ch/eli/oc/2002/289)), vom 20. Sept. 2002 ([AS 2002 3174](https://fedlex.data.admin.ch/eli/oc/2002/470)), Anhang Ziff. II 1 der V vom 12. Nov. 2003 ([AS 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)), Ziff. II Abs. 1 der V vom 17. Aug. 2005 ([AS 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), Ziff. II der V vom 28. März 2007 ([AS 2007 2105](https://fedlex.data.admin.ch/eli/oc/2007/298)), vom 19. Aug. 2009 ([AS 2009 4241](https://fedlex.data.admin.ch/eli/oc/2009/518)), vom 24. Juni 2015 ([AS 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)) und vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 19. Okt. 1983 ([AS 1983 1651](https://fedlex.data.admin.ch/eli/oc/1983/1651_1651_1651)), vom 25. Jan. 1989 ([AS 1989 438](https://fedlex.data.admin.ch/eli/oc/1989/438_438_438)), vom 12. Febr. 1992 ([AS 1992 514](https://fedlex.data.admin.ch/eli/oc/1992/514_514_514)), Ziff. II 2 der V vom 7. März 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)), Ziff. I der V vom 7. März 1994 ([AS 1994 1103](https://fedlex.data.admin.ch/eli/oc/1994/1103_1103_1103)), Anhang 1 Ziff. II 5 der V vom 19. Juni 1995 über die technischen Anforderungen an Strassenfahrzeuge ([AS 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), Ziff. II der V vom 1. April 1998 ([AS 1998 1440](https://fedlex.data.admin.ch/eli/oc/1998/1440_1440_1440)), vom 28. Sept. 2001 ([AS 2001 2719](https://fedlex.data.admin.ch/eli/oc/2001/406)), vom 15. Mai 2002 ([AS 2002 1935](https://fedlex.data.admin.ch/eli/oc/2002/289)), vom 20. Sept. 2002 ([AS 2002 3174](https://fedlex.data.admin.ch/eli/oc/2002/470)), Anhang Ziff. II 1 der V vom 12. Nov. 2003 ([AS 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)), Ziff. II Abs. 1 der V vom 17. Aug. 2005 ([AS 2005 4495](https://fedlex.data.admin.ch/eli/oc/2005/582)), Ziff. II der V vom 28. März 2007 ([AS 2007 2105](https://fedlex.data.admin.ch/eli/oc/2007/298)), vom 19. Aug. 2009 ([AS 2009 4241](https://fedlex.data.admin.ch/eli/oc/2009/518)), vom 24. Juni 2015 ([AS 2015 2459](https://fedlex.data.admin.ch/eli/oc/2015/461)), vom 20. Mai 2020 ([AS 2020 2145](https://fedlex.data.admin.ch/eli/oc/2020/424)) und vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 498](https://fedlex.data.admin.ch/eli/oc/2022/498)).
 
 ### 1. Gefahrensignale (Art. 3–15)
 
 ### a. Gefährliche Strassenanlage (Art. 4–10)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image3.png) **1.01** Rechtskurve (Art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image4.png) **1.02** Linkskurve (Art. 4)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image5.png) **1.03** Doppelkurve nach rechts beginnend (Art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image6.png) **1.04** Doppelkurve nach links beginnend (Art. 4)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image7.png) **1.05** Schleudergefahr (Art. 5)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image8.png) **1.06** Unebene Fahrbahn (Art. 6)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image9.png) **1.07** Engpass (Art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image10.png) **1.08** Verengung rechts (Art. 7)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image11.png) **1.09** Verengung links (Art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image12.png) **1.10** Gefährliches Gefälle (Art. 8)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image13.png) **1.11** Starke Steigung (Art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image14.png) **1.12** Rollsplit (Art. 8)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image15.png) **1.13** Steinschlag (Art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image16.png) **1.14** Baustelle (Art. 9)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image17.png) **1.15** Schranken (Art. 10)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image18.png) **1.16** Bahnübergang ohne Schranken(Art. 10)</td></tr>
-<tr><td>**1.17** ...</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image19.png) **1.18** Strassenbahn (Art. 10)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image3.png) **1.01** Rechtskurve (Art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image4.png) **1.02** Linkskurve (Art. 4)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image5.png) **1.03** Doppelkurve nach rechts beginnend (Art. 4)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image6.png) **1.04** Doppelkurve nach links beginnend (Art. 4)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image7.png) **1.05** Schleudergefahr (Art. 5)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image8.png) **1.06** Unebene Fahrbahn (Art. 6)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image9.png) **1.07** Engpass (Art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image10.png) **1.08** Verengung rechts (Art. 7)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image11.png) **1.09** Verengung links (Art. 7)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image12.png) **1.10** Gefährliches Gefälle (Art. 8)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image13.png) **1.11**Starke Steigung (Art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image14.png) **1.12**Rollsplit (Art. 8)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image15.png) **1.13**Steinschlag (Art. 8)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image16.png) **1.14**Baustelle (Art. 9)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image17.png) **1.15** Schranken (Art. 10)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image18.png) **1.16** Bahnübergang ohne Schranken(Art. 10)</td></tr>
+<tr><td>**1.17** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image19.png) **1.18** Strassenbahn (Art. 10)</td></tr>
 </table>
 
 ### b. Übrige Gefahren (Art. 11–15)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image20.png) **1.22** Fussgängerstreifen (Art. 11)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image21.png) **1.23** Kinder (Art. 11)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image22.png) **1.24** Wildwechsel (Art. 12)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image23.png) **1.25** Tiere (Art. 12)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image24.png) **1.26** Gegenverkehr (Art. 13)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image25.png) **1.27** Lichtsignale (Art. 14)</td></tr>
-<tr><td>**1.28** ...</td><td>**1.29** ...</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image26.png) **1.30** Andere Gefahren (Art. 15)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image27.png) **1.31** Stau (Art. 14)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image28.png) **1.32** Radfahrer (Art. 11)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image20.png) **1.22** Fussgängerstreifen (Art. 11)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image21.png) **1.23** Kinder (Art. 11)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image22.png) **1.24** Wildwechsel (Art. 12)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image23.png) **1.25** Tiere (Art. 12)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image24.png) **1.26** Gegenverkehr (Art. 13)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image25.png) **1.27** Lichtsignale (Art. 14)</td></tr>
+<tr><td>**1.28** …</td><td>**1.29** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image26.png) **1.30** Andere Gefahren (Art. 15)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image27.png) **1.31** Stau (Art. 14)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image28.png) **1.32** Radfahrer (Art. 11)</td></tr>
 </table>
 
 ### 2. Vorschriftssignale (Art. 2*a*, 16–34 und 69)
@@ -2744,58 +2760,58 @@ Anhang 2*[^t-3]*
 ### a. Fahrverbote, Mass- und Gewichtsbeschränkungen (Art. 18–21)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image29.png) **2.01** Allgemeines Fahrverbot in beiden Richtungen (Art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image30.png) **2.02** Einfahrt verboten (Art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image31.png) **2.03** Verbot für Motorwagen (Art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image32.png) **2.04** Verbot für Motorräder (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image33.png) **2.05** Verbot für Fahrräder und Motorfahrräder (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image34.png) **2.06** Verbot für Motorfahrräder (Art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image35.png) **2.07** Verbot für Lastwagen (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image36.png) **2.08** Verbot für Gesellschaftswagen (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image37.png) **2.09** Verbot für Anhänger (Art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image38.png) **2.09.1** Verbot für Anhänger mit Ausnahme von Sattel- und Zentralachsanhängern (Art. 19)</td><td>**2.10** ...</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image39.png) **2.10.1** Verbot für Fahrzeuge mit gefährlicher Ladung (Art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image40.png) **2.11** Verbot für Fahrzeuge mit wassergefährdender Ladung (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image41.png) **2.12** Verbot für Tiere (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image42.png) **2.13** Verbot für Motorwa- gen und Motorräder (Beispiel) (Art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image43.png) **2.14** Verbot für Motorwagen, Motorräder und Motor- fahrräder (Beispiel) (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image44.png) **2.15** Verbot für Fussgänger (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image45.png) **2.15.1** Skifahren verboten (Art. 19)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image46.png) **2.15.2** Schlitteln verboten (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image47.png) **2.15.3** Verbot für fahrzeug- ähnliche Geräte (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image48.png) **2.16** Höchstgewicht (Art. 20)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image49.png) **2.17** Achsdruck (Art. 20)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image50.png) **2.18** Höchstbreite (Art. 21)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image51.png) **2.19** Höchsthöhe (Art. 21)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image52.png) **2.20** Höchstlänge (Art. 21)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image29.png) **2.01** Allgemeines Fahrverbot in beiden Richtungen (Art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image30.png) **2.02** Einfahrt verboten (Art. 18)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image31.png) **2.03** Verbot für Motorwagen (Art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image32.png) **2.04** Verbot für Motorräder (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image33.png) **2.05** Verbot für Fahrräder und Motorfahrräder (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image34.png) **2.06** Verbot für Motorfahrräder (Art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image35.png) **2.07** Verbot für Lastwagen (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image36.png) **2.08** Verbot für Gesellschaftswagen (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image37.png) **2.09** Verbot für Anhänger (Art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image38.png) **2.09.1** Verbot für Anhänger mit Ausnahme von Sattel- und Zentralachsanhängern (Art. 19)</td><td>**2.10** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image39.png) **2.10.1** Verbot für Fahrzeuge mit gefährlicher Ladung (Art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image40.png) **2.11** Verbot für Fahrzeuge mit wassergefährdender Ladung (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image41.png) **2.12** Verbot für Tiere (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image42.png) **2.13** Verbot für Motorwa- gen und Motorräder (Beispiel) (Art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image43.png) **2.14** Verbot für Motorwagen, Motorräder und Motor- fahrräder (Beispiel) (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image44.png) **2.15** Verbot für Fussgänger (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image45.png) **2.15.1** Skifahren verboten (Art. 19)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image46.png) **2.15.2** Schlitteln verboten (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image47.png) **2.15.3** Verbot für fahrzeug- ähnliche Geräte (Art. 19)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image48.png) **2.16** Höchstgewicht (Art. 20)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image49.png) **2.17** Achsdruck (Art. 20)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image50.png) **2.18** Höchstbreite (Art. 21)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image51.png) **2.19** Höchsthöhe (Art. 21)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image52.png) **2.20** Höchstlänge (Art. 21)</td></tr>
 </table>
 
 ### b. Fahranordnungen, Parkierungsbeschränkungen (Art. 2*a* und 22–32)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image53.png) **2.30** Höchstgeschwindigkeit (Art. 22)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image54.png) **2.30.1** Höchstgeschwindigkeit 50 generell (Art. 22)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image55.png) **2.31** Mindestgeschwin digkeit (Art. 23)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image56.png) **2.32** Fahrtrichtung rechts (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image57.png) **2.33** Fahrtrichtung links (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image58.png) **2.34** Hindernis rechts umfahren</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image59.png) **2.35** Hindernis links umfahren (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image60.png) **2.36** Geradeausfahren (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image61.png) **2.37** Rechtsabbiegen (Art. 24)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image62.png) **2.38** Linksabbiegen (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image63.png) **2.39** Rechts- oder Linksabbiegen (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image64.png) **2.40** Geradeaus oder Rechtsabbiegen (Art. 24)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image65.png) **2.41** Geradeaus oder Linksabbiegen (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image66.png) **2.41.1** Kreisverkehrsplatz (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image67.png) **2.41.2** Vorgeschriebene Fahrtrichtung für Fahrzeuge mit gefährlicher Ladung (Beispiel) (Art. 24)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image68.png) **2.42** Abbiegen nach rechts verboten (Art. 25)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image69.png) **2.43** Abbiegen nach links verboten (Art. 25)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image70.png) **2.44** Überholen verboten (Art. 26)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image71.png) **2.45** Überholen für Lastwagen verboten (Art. 26)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image72.png) **2.46** Wenden verboten (Art. 27)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image73.png) **2.47** Mindestabstand (Art. 28)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image74.png) **2.48** Schneeketten obligatorisch (Art. 29)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image75.png) **2.49** Halten verboten (Art. 30)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image76.png) **2.50** Parkieren verboten (Art. 30)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image77.png) **2.51** Zollhaltestelle (Art. 31)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image78.png) **2.52** Polizei (Art. 31)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image79.png) **2.53** Ende der Höchstgeschwindigkeit (Art. 32)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image80.png) **2.53.1** Ende der Höchstgeschwindigkeit 50 generell (Art. 22)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image81.png) **2.54** Ende der Mindest-geschwindigkeit (Art. 32)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image82.png) **2.55** Ende des Überhol-verbotes (Art. 32)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image83.png) **2.56** Ende des Überholverbotes für Lastwagen (Art. 32)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image84.png) **2.56.1** Ende des Teilfahrverbotes (Beispiel) (Art. 32)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image85.png) **2.57** Ende des Schneeketten-Obligatoriums (Art. 32)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image86.png) **2.58** Freie Fahrt (Art. 32)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image87.png) **2.59.1** Zonensignal (z.B. Tempo-30-Zone) (Art. 2*a* und 22*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image88.png) **2.59.2** Ende-Zonensignal (z.B. Ende Tempo-30-Zone) (Art. 2*a*)</td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image89.png) **2.59.3** Fussgängerzone (Art. 2*a* und 22*c*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image90.png) **2.59.4** Ende der Fussgängerzone (Art. 2*a*)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image91.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image92.png)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image53.png) **2.30** Höchstgeschwindigkeit (Art. 22)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image54.png) **2.30.1** Höchstgeschwindigkeit 50 generell (Art. 22)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image55.png) **2.31** Mindestgeschwin digkeit (Art. 23)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image56.png) **2.32** Fahrtrichtung rechts (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image57.png) **2.33** Fahrtrichtung links (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image58.png) **2.34** Hindernis rechts umfahren</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image59.png) **2.35** Hindernis links umfahren (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image60.png) **2.36** Geradeausfahren (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image61.png) **2.37** Rechtsabbiegen (Art. 24)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image62.png) **2.38** Linksabbiegen (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image63.png) **2.39** Rechts- oder Linksabbiegen (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image64.png) **2.40** Geradeaus oder Rechtsabbiegen (Art. 24)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image65.png) **2.41** Geradeaus oder Linksabbiegen (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image66.png) **2.41.1** Kreisverkehrsplatz (Art. 24)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image67.png) **2.41.2** Vorgeschriebene Fahrtrichtung für Fahrzeuge mit gefährlicher Ladung (Beispiel) (Art. 24)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image68.png) **2.42** Abbiegen nach rechts verboten (Art. 25)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image69.png) **2.43** Abbiegen nach links verboten (Art. 25)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image70.png) **2.44** Überholen verboten (Art. 26)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image71.png) **2.45** Überholen für Lastwagen verboten (Art. 26)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image72.png) **2.46** Wenden verboten (Art. 27)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image73.png) **2.47** Mindestabstand (Art. 28)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image74.png) **2.48** Schneeketten obligatorisch (Art. 29)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image75.png) **2.49** Halten verboten (Art. 30)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image76.png) **2.50** Parkieren verboten (Art. 30)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image77.png) **2.51** Zollhaltestelle (Art. 31)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image78.png) **2.52** Polizei (Art. 31)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image79.png) **2.53** Ende der Höchstgeschwindigkeit (Art. 32)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image80.png) **2.53.1** Ende der Höchstgeschwindigkeit 50 generell (Art. 22)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image81.png) **2.54** Ende der Mindest-geschwindigkeit (Art. 32)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image82.png) **2.55** Ende des Überhol-verbotes (Art. 32)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image83.png) **2.56** Ende des Überholverbotes für Lastwagen (Art. 32)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image84.png) **2.56.1** Ende des Teilfahrverbotes (Beispiel) (Art. 32)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image85.png) **2.57** Ende des Schneeketten-Obligatoriums (Art. 32)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image86.png) **2.58** Freie Fahrt (Art. 32)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image87.png) **2.59.1** Zonensignal (z.B. Tempo-30-Zone) (Art. 2*a* und 22*a*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image88.png) **2.59.2** Ende-Zonensignal (z.B. Ende Tempo-30-Zone) (Art. 2*a*)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image89.png) **2.59.3** Fussgängerzone (Art. 2*a* und 22*c*)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image90.png) **2.59.4** Ende der Fussgängerzone (Art. 2*a*)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image91.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image92.png)</td></tr>
 <tr><td colspan="4">**2.59.5** Begegnungszone (Art. 2*a* und 22*b*)</td><td colspan="3">**2.59.6** Ende der Begegnungszone (Art. 2*a*)</td></tr>
 </table>
 
 ### c. Besondere Wege, Busfahrbahn (Art. 33–34), Lichtsignal-System für die zeitweilige Regulierung von Fahrstreifen (Art. 69)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image93.png) **2.60** Radweg (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image94.png) **2.60.1** Ende des Radweges (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image95.png) **2.61** Fussweg (Art. 33)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image96.png) **2.62** Reitweg (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image97.png) **2.63** Rad- und Fussweg mit getrennten Verkehrsflächen (Beispiel) (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image98.png) **2.63.1** Gemeinsamer Rad- und Fussweg (Beispiel) (Art. 33)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image99.png) **2.64** Busfahrbahn (Art. 34)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image100.png) **2.65** Lichtsignal-System für die zeitweilige Regulierung von Fahrstreifen</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image93.png) **2.60** Radweg (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image94.png) **2.60.1** Ende des Radweges (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image95.png) **2.61** Fussweg (Art. 33)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image96.png) **2.62** Reitweg (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image97.png) **2.63** Rad- und Fussweg mit getrennten Verkehrsflächen (Beispiel) (Art. 33)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image98.png) **2.63.1** Gemeinsamer Rad- und Fussweg (Beispiel) (Art. 33)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image99.png) **2.64** Busfahrbahn (Art. 34)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image100.png) **2.65** Lichtsignal-System für die zeitweilige Regulierung von Fahrstreifen</td></tr>
 </table>
 
 ### 3. Vortrittssignale (Art. 35–43, Art. 93)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image101.png) **3.01** Stop (Art. 36)</td><td colspan="2">**3.011** ...</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image102.png) **3.02** Kein Vortritt (Art. 36)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image103.png) **3.03** Hauptstrasse (Art. 37)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image104.png) **3.04** Ende der Hauptstrasse (Art. 38)</td><td></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image105.png) **3.05** Verzweigung mit Strasse ohne Vortritt (Art. 39)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image106.png) **3.06** Verzweigung mit Rechtsvortritt (Art. 40)</td></tr>
-<tr><td colspan="2">**3.07** **...**</td><td colspan="2">**3.08** **...**</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image107.png) **3.09** Dem Gegenverkehr Vortritt lassen (Art. 42)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image108.png) **3.10** Vortritt vor dem Gegenverkehr (Art. 42)</td></tr>
-<tr><td colspan="2">**3.11** ...</td><td colspan="2">**3.12** ...</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image109.png) **3.20** Wechselblinklichtsignal (Art. 93)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image110.png) **3.21** einfaches Blinklichtsignal (Art. 93)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image111.png) **3.22** Andreaskreuz (Art. 93)</td><td colspan="2">**3.23** ...</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image112.png) **3.24** Andreaskreuz (Art. 93)</td><td colspan="2">**3.25** ...</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image101.png) **3.01** Stop (Art. 36)</td><td colspan="2">**3.011** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image102.png) **3.02** Kein Vortritt (Art. 36)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image103.png) **3.03** Hauptstrasse (Art. 37)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image104.png) **3.04** Ende der Hauptstrasse (Art. 38)</td><td></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image105.png) **3.05** Verzweigung mit Strasse ohne Vortritt (Art. 39)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image106.png) **3.06** Verzweigung mit Rechtsvortritt (Art. 40)</td></tr>
+<tr><td colspan="2">**3.07** **…**</td><td colspan="2">**3.08** **…**</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image107.png) **3.09** Dem Gegenverkehr Vortritt lassen (Art. 42)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image108.png) **3.10** Vortritt vor dem Gegenverkehr (Art. 42)</td></tr>
+<tr><td colspan="2">**3.11** …</td><td colspan="2">**3.12** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image109.png) **3.20** Wechselblinklichtsignal (Art. 93)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image110.png) **3.21** einfaches Blinklichtsignal (Art. 93)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image111.png) **3.22** Andreaskreuz (Art. 93)</td><td colspan="2">**3.23** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image112.png) **3.24** Andreaskreuz (Art. 93)</td><td colspan="2">**3.25** …</td></tr>
 </table>
 
 ### 4. Hinweissignale (Art. 44–62 und Art. 84–91)
@@ -2803,121 +2819,121 @@ Anhang 2*[^t-3]*
 ### a. Verhaltenshinweise (Art. 44–48 und Art. 54)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image113.png) **4.01** Autobahn (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image114.png) **4.02** Ende der Autobahn (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image115.png) **4.03** Autostrasse (Art. 45)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image116.png) **4.04** Ende der Autostrasse (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image117.png) **4.05** Bergpoststrasse (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image118.png) **4.06** Ende der Bergpoststrasse (Art. 45)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image119.png) **4.07** Tunnel (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image120.png) **4.08** Einbahnstrasse (Art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image121.png) **4.08.1** Einbahnstrasse mit Gegenverkehr von Radfahrern (Beispiel) (Art. 46)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image122.png) **4.09** Sackgasse (Art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image123.png) [tab] **4.09.1** Sackgasse mit Ausnahmen (Beispiel) (Art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image124.png) **4.10** Wasserschutz- gebiet (Art. 46)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image125.png) **4.11** Standort eines Fussgängerstreifens (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image126.png) **4.12** Fussgänger- Unterführung (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image127.png) **4.13** Fussgänger- Überführung (Art. 47)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image128.png) **4.14** Spital (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image129.png) **4.15** Ausstellplatz (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image130.png) **4.16** Abstellplatz für Pannenfahrzeuge (Art. 47)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image131.png) **4.17** Parkieren gestattet (Art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image132.png) **4.18** Parkieren mit Parkscheibe (Art. 48)</td><td>**4.19** ...</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image133.png) **4.20** Parkieren gegen Gebühr (Art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image134.png) **4.21** Parkhaus (Art. 48)</td><td>**4.22** ...</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image135.png) **4.23** Vorwegweiser für bestimmte Fahrzeugarten (Beispiel Lastwagen) (Art. 54)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image136.png) **4.24** Notfallspur (Beispiel) (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image137.png) **4.25** Parkplatz mit Anschluss an öffentliche Verkehrsmittel (Beispiel) (Art. 48)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image113.png) **4.01** Autobahn (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image114.png) **4.02** Ende der Autobahn (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image115.png) **4.03** Autostrasse (Art. 45)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image116.png) **4.04** Ende der Autostrasse (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image117.png) **4.05** Bergpoststrasse (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image118.png) **4.06** Ende der Bergpoststrasse (Art. 45)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image119.png) **4.07** Tunnel (Art. 45)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image120.png) **4.08** Einbahnstrasse (Art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image121.png) **4.08.1** Einbahnstrasse mit Gegenverkehr von Radfahrern (Beispiel) (Art. 46)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image122.png) **4.09** Sackgasse (Art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image123.png) [tab] **4.09.1** Sackgasse mit Ausnahmen (Beispiel) (Art. 46)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image124.png) **4.10** Wasserschutz- gebiet (Art. 46)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image125.png) **4.11** Standort eines Fussgängerstreifens (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image126.png) **4.12** Fussgänger- Unterführung (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image127.png) **4.13** Fussgänger- Überführung (Art. 47)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image128.png) **4.14** Spital (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image129.png) **4.15** Ausstellplatz (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image130.png) **4.16** Abstellplatz für Pannenfahrzeuge (Art. 47)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image131.png) **4.17** Parkieren gestattet (Art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image132.png) **4.18** Parkieren mit Parkscheibe (Art. 48)</td><td>**4.19** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image133.png) **4.20** Parkieren gegen Gebühr (Art. 48)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image134.png) **4.21** Parkhaus (Art. 48)</td><td>**4.22** …</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image135.png) **4.23** Vorwegweiser für bestimmte Fahrzeugarten (Beispiel Lastwagen) (Art. 54)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image136.png) **4.24** Notfallspur (Beispiel) (Art. 47)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image137.png) **4.25** Parkplatz mit Anschluss an öffentliche Verkehrsmittel (Beispiel) (Art. 48)</td></tr>
 </table>
 
 ### b. Wegweisung auf Haupt- und Nebenstrassen(Art. 49–56)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image138.png) **4.27** Ortsbeginn auf Hauptstrassen (Art. 50)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image139.png) **4.28** Ortsende auf Hauptstrassen (Art. 50)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image140.png) **4.29** Ortsbeginn auf Nebenstrassen (Art. 50)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image141.png) **4.30** Ortsende auf Nebenstrassen (Art. 50)</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image142.png) **4.31** Wegweiser zu Autobahnen oder Autostrassen (Art. 57)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image143.png) **4.32** Wegweiser für Hauptstrassen (Art. 51)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image144.png) **4.33** Wegweiser für Nebenstrassen (Art. 51)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image145.png) **4.34** Wegweiser bei Umleitungen (Art. 55)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image146.png) **4.34.1** Wegweiser für Umleitungen ohne Zielangabe (Art. 55)</td><td colspan="2"></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image138.png) **4.27** Ortsbeginn auf Hauptstrassen (Art. 50)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image139.png) **4.28** Ortsende auf Hauptstrassen (Art. 50)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image140.png) **4.29** Ortsbeginn auf Nebenstrassen (Art. 50)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image141.png) **4.30** Ortsende auf Nebenstrassen (Art. 50)</td><td colspan="2"></td><td></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image142.png) **4.31** Wegweiser zu Autobahnen oder Autostrassen (Art. 57)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image143.png) **4.32** Wegweiser für Hauptstrassen (Art. 51)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image144.png) **4.33** Wegweiser für Nebenstrassen (Art. 51)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image145.png) **4.34** Wegweiser bei Umleitungen (Art. 55)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image146.png) **4.34.1** Wegweiser für Umleitungen ohne Zielangabe (Art. 55)</td><td colspan="2"></td></tr>
 </table>
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image147.png) **4.35** Wegweiser in Tabellenform (Art. 51)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image148.png) **4.36** Vorwegweiser auf Hauptstrassen (Art. 52)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image149.png) **4.37** Vorwegweiser auf Nebenstrassen (Art. 52)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image150.png) **4.38** Vorwegweiser mit Fahr- streifenaufteilung auf Hauptstrassen (Art. 52)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image151.png) **4.39** Vorwegweiser mit Fahr- streifenaufteilung auf Nebenstrassen (Art. 52)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image152.png) **4.40** Vorwegweiser mit An- zeige von Beschränkungen (Art. 52)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image153.png) **4.41** Einspurtafel über Fahrstreifen auf Hauptstrassen (Art. 53)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image154.png) **4.42** Einspurtafel über Fahrstreifen auf Nebenstrassen (Art. 53)</td></tr>
-<tr><td colspan="2">**4.43** ...</td><td colspan="2"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image155.png) **4.45** Wegweiser für bestimmte Fahrzeug arten (Beispiel Lastwagen) (Art. 54)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image156.png) **4.46** Wegweiser «Parkplatz» (Art. 54)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image157.png) **4.46.1** Wegweiser «Parkplatz mit Anschluss an öffentliches Verkehrsmittel» (Beispiel) (Art. 54)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image158.png) **4.47** Wegweiser «Zeltplatz» (Art. 54)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image159.png) **4.48** Wegweiser «Wohnwagenplatz» (Art. 54)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image160.png) **4.49** Betriebswegweiser (Art. 54)</td></tr>
-<tr><td colspan="2">**4.50** ...</td><td colspan="2"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image161.png) **4.50.1** Wegweiser «Route für Fahrräder» (Beispiel) (Art. 54*a*)</td><td colspan="2">**4.50.2** ...</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image162.png) **4.50.3** Wegweiser «Route für Mountainbikes» (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image163.png) **4.50.4** Wegweiser «Route für fahrzeugähnliche Geräte» (Beispiel) (Art. 54*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image164.png) **4.50.5** Wegweiser in Tabellenform für einen einzigen Adressatenkreis (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image165.png) **4.50.6** Wegweiser in Tabellenform für mehrere Adressatenkreise (Beispiel) (Art. 54*a*)</td></tr>
-<tr><td colspan="2">**4.51** ...</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image166.png) **4.51.1** Wegweiser ohne Zielangabe (Beispiel) (Art. 54*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image167.png) **4.51.2** Vorwegweiser ohne Zielangabe (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image168.png) **4.51.3** Bestätigungstafel (Beispiel) (Art. 54*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image169.png) **4.51.4** Endetafel (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image170.png) **4.52** Verkehrsführung (Art. 54)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image171.png) **4.53** Vorwegweiser für Umleitungen (Art. 55)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image172.png) **4.54** Vorwegweiser bei Kreisverkehrsplatz (Beispiel) (Art. 52)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image173.png) **4.55** Abzweigende Strasse mit Gefahrenstelle oder Verkehrsbeschränkung (Art. 54)</td><td colspan="2"></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image174.png) **4.56** Nummerntafeln für Europastrassen (Art. 56)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image175.png) **4.57** Nummerntafel für Hauptstrassen (Art. 56)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image176.png) **4.58** Nummerntafel für Autobahnen und Autostrassen (Art. 56)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image177.png) **4.59** Nummerntafel für Anschlüsse (Art. 56)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image178.png) **4.59.1** Nummerntafel für Verzweigungen (Art. 56)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image147.png) **4.35** Wegweiser in Tabellenform (Art. 51)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image148.png) **4.36** Vorwegweiser auf Hauptstrassen (Art. 52)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image149.png) **4.37** Vorwegweiser auf Nebenstrassen (Art. 52)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image150.png) **4.38** Vorwegweiser mit Fahr- streifenaufteilung auf Hauptstrassen (Art. 52)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image151.png) **4.39** Vorwegweiser mit Fahr- streifenaufteilung auf Nebenstrassen (Art. 52)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image152.png) **4.40** Vorwegweiser mit An- zeige von Beschränkungen (Art. 52)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image153.png) **4.41** Einspurtafel über Fahrstreifen auf Hauptstrassen (Art. 53)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image154.png) **4.42** Einspurtafel über Fahrstreifen auf Nebenstrassen (Art. 53)</td></tr>
+<tr><td colspan="2">**4.43** …</td><td colspan="2"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image155.png) **4.45** Wegweiser für bestimmte Fahrzeug arten (Beispiel Lastwagen) (Art. 54)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image156.png) **4.46** Wegweiser «Parkplatz» (Art. 54)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image157.png) **4.46.1** Wegweiser «Parkplatz mit Anschluss an öffentliches Verkehrsmittel» (Beispiel) (Art. 54)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image158.png) **4.47** Wegweiser «Zeltplatz» (Art. 54)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image159.png) **4.48** Wegweiser «Wohnwagenplatz» (Art. 54)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image160.png) **4.49** Betriebswegweiser (Art. 54)</td></tr>
+<tr><td colspan="2">**4.50**…</td><td colspan="2"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image161.png) **4.50.1** Wegweiser «Route für Fahrräder» (Beispiel) (Art. 54*a*)</td><td colspan="2">**4.50.2** …</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image162.png) **4.50.3** Wegweiser «Route für Mountainbikes» (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image163.png) **4.50.4** Wegweiser «Route für fahrzeugähnliche Geräte» (Beispiel) (Art. 54*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image164.png) **4.50.5** Wegweiser in Tabellenform für einen einzigen Adressatenkreis (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image165.png) **4.50.6** Wegweiser in Tabellenform für mehrere Adressatenkreise (Beispiel) (Art. 54*a*)</td></tr>
+<tr><td colspan="2">**4.51** …</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image166.png) **4.51.1** Wegweiser ohne Zielangabe (Beispiel) (Art. 54*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image167.png) **4.51.2** Vorwegweiser ohne Zielangabe (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image168.png) **4.51.3** Bestätigungstafel (Beispiel) (Art. 54*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image169.png) **4.51.4** Endetafel (Beispiel) (Art. 54*a*)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image170.png) **4.52** Verkehrsführung (Art. 54)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image171.png) **4.53** Vorwegweiser für Umleitungen (Art. 55)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image172.png) **4.54** Vorwegweiser bei Kreisverkehrsplatz (Beispiel) (Art. 52)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image173.png) **4.55** Abzweigende Strasse mit Gefahrenstelle oder Verkehrsbeschränkung (Art. 54)</td><td colspan="2"></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image174.png) **4.56** Nummerntafeln für Europastrassen (Art. 56)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image175.png) **4.57** Nummerntafel für Hauptstrassen (Art. 56)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image176.png) **4.58** Nummerntafel für Autobahnen und Autostrassen (Art. 56)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image177.png) **4.59** Nummerntafel für Anschlüsse (Art. 56)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image178.png) **4.59.1** Nummerntafel für Verzweigungen (Art. 56)</td></tr>
 </table>
 
 ### c. Wegweisung auf Autobahnen und Autostrassen (Art. 84–91)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image179.png) **4.60** Ankündigung des nächsten Anschlusses (Art. 86)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image180.png) **4.61** Vorwegweiser bei Anschlüssen (Art. 86)</td></tr>
-<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image181.png) **4.62** Wegweiser bei Anschlüssen (Art. 86)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image182.png) **4.63** Ausfahrtstafel (Art. 86)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image183.png) **4.64** Trennungstafel (Art. 86 und 87)</td><td></td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image184.png) **4.65** Entfernungstafel (Art. 86 und 87)</td><td></td></tr>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image185.png) **4.66** Verzweigungstafel (Art. 87)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image186.png) **4.67** Erster Vorwegweiser bei Verzweigungen (Art. 87)</td></tr>
-<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image187.png) **4.68** Zweiter Vorwegweiser bei Verzweigungen (Art. 87)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image188.png) **4.69** Einspurtafel über Fahrstreifen auf Autobahnen und Autostrassen (Art. 86 und 87)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image189.png) **4.70** Hinweis auf Notrufsäulen (Art. 89)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image190.png) **4.71** Hinweis auf Polizeistützpunkte (Art. 89 Abs. 5)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image191.png) **4.72** Kilometertafel (Art. 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image192.png) **4.73** Hektometertafel (Art. 89)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image179.png) **4.60** Ankündigung des nächsten Anschlusses (Art. 86)</td><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image180.png) **4.61** Vorwegweiser bei Anschlüssen (Art. 86)</td></tr>
+<tr><td colspan="5">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image181.png) **4.62** Wegweiser bei Anschlüssen (Art. 86)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image182.png) **4.63** Ausfahrtstafel (Art. 86)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image183.png) **4.64** Trennungstafel (Art. 86 und 87)</td><td></td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image184.png) **4.65** Entfernungstafel (Art. 86 und 87)</td><td></td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image185.png) **4.66** Verzweigungstafel (Art. 87)</td><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image186.png) **4.67** Erster Vorwegweiser bei Verzweigungen (Art. 87)</td></tr>
+<tr><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image187.png) **4.68** Zweiter Vorwegweiser bei Verzweigungen (Art. 87)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image188.png) **4.69** Einspurtafel über Fahrstreifen auf Autobahnen und Autostrassen (Art. 86 und 87)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image189.png) **4.70** Hinweis auf Notrufsäulen (Art. 89)</td><td colspan="6">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image190.png) **4.71** Hinweis auf Polizeistützpunkte (Art. 89 Abs. 5)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image191.png) **4.72** Kilometertafel (Art. 89)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image192.png) **4.73** Hektometertafel (Art. 89)</td></tr>
 </table>
 
 ### d. Informationshinweise (Art. 57–62)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image193.png) **4.75** Strassenzustand (Art. 58)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image194.png) **4.76** Vororientierung über den Strassenzustand (Art. 58)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image195.png) **4.77** Anzeige der Fahrstreifen (Beispiele) (Art. 59)</td></tr>
-<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image196.png) **4.77.1** Anzeige von Fahrstreifen mit Beschränkungen (Beispiel) (Art. 59)[^annex2-lvlu1-lvl4-lvld-1] ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image197.png) **4.77.2** Freigabe des Pannenstreifens (Beispiele) (Art. 59) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image198.png)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image199.png)</td><td colspan="2">**4.78** ...</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image200.png) **4.79** Zeltplatz (Art. 62)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image201.png) **4.80** Wohnwagenplatz (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image202.png) **4.81** Telefon (Art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image203.png) **4.82** Erste Hilfe (Art. 62)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image204.png) **4.83** Pannenhilfe (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image205.png) **4.84** Tankstelle (Art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image206.png) **4.85** Hotel-Motel (Art. 62)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image207.png) **4.86** Restaurant (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image208.png) **4.87** Erfrischungen (Art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image209.png) **4.88** Informationsstelle (Art. 62)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image210.png) **4.89** Jugendherberge (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image211.png) **4.90** Radio- Verkehrsinformation (Art. 62 und 89)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image212.png) **4.91** Gottesdienst (Art. 62)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image213.png) **4.92** Feuerlöscher (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image214.png) **4.93** Anzeige der allgemeinen Höchstgeschwindigkeiten (Art. 61)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image215.png) **4.94** Richtung und Entfernung zum nächsten Notausgang (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image216.png) **4.95** Notausgang (Art. 62)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image193.png) **4.75** Strassenzustand (Art. 58)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image194.png) **4.76** Vororientierung über den Strassenzustand (Art. 58)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image195.png) **4.77** Anzeige der Fahrstreifen (Beispiele) (Art. 59)</td></tr>
+<tr><td colspan="4">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image196.png) **4.77.1** Anzeige von Fahrstreifen mit Beschränkungen (Beispiel) (Art. 59)[^annex2-lvlu1-lvl4-lvld-1] ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image197.png) **4.77.2** Freigabe des Pannenstreifens (Beispiele) (Art. 59) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image198.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image199.png)</td><td colspan="2">**4.78** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image200.png) **4.79** Zeltplatz (Art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image201.png) **4.80** Wohnwagenplatz (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image202.png) **4.81** Telefon (Art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image203.png) **4.82** Erste Hilfe (Art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image204.png) **4.83** Pannenhilfe (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image205.png) **4.84** Tankstelle (Art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image206.png) **4.85** Hotel-Motel (Art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image207.png) **4.86** Restaurant (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image208.png) **4.87** Erfrischungen (Art. 62)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image209.png) **4.88** Informationsstelle (Art. 62)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image210.png) **4.89** Jugendherberge (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image211.png) **4.90** Radio- Verkehrsinformation (Art. 62 und 89)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image212.png) **4.91** Gottesdienst (Art. 62)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image213.png) **4.92** Feuerlöscher (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image214.png) **4.93** Anzeige der allgemeinen Höchstgeschwindigkeiten (Art. 61)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image215.png) **4.94** Richtung und Entfernung zum nächsten Notausgang (Art. 62)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image216.png) **4.95** Notausgang (Art. 62)</td></tr>
 </table>
 
 [^annex2-lvlu1-lvl4-lvld-1]: [AS 1980 449](https://fedlex.data.admin.ch/eli/oc/1980/449_449_447)
 
-### 5. Ergänzende Angaben zu Signalen (Art. 63–65 und Art. 69*a*)
+### 5. Ergänzende Angaben zu Signalen (Art. 63–65 und 69*a*)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image217.png) [tab] [tab] **5.01** Distanztafel (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image218.png) **5.02** Anzeige von Entfernung und Richtung (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image219.png) [tab] [tab] **5.03** Streckenlänge (Art. 64)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image220.png) **5.04** Wiederholungstafel (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image221.png) **5.05** Anfangstafel (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image222.png) **5.06** Endetafel (Art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image223.png) [tab] [tab] **5.07** Richtungstafel (Art. 64)</td></tr>
-<tr><td colspan="2">[tab] [tab] [tab] [tab] [tab] [tab] **5.08** ...</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image224.png) **5.09** Richtung der Hauptstrasse (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image225.png) **5.10** Ausnahmen vom Halteverbot (Art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image226.png) **5.11** Ausnahmen vom Parkierungsverbot (Art. 65) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image227.png) **5.12** Blinklicht (Art. 65)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image228.png) **5.13** Vereiste Fahrbahn (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image229.png) **5.14** Gehbehinderte (Art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image230.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image231.png)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image232.png)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image217.png) [tab] [tab] **5.01** Distanztafel (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image218.png) **5.02** Anzeige von Entfernung und Richtung (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image219.png) [tab] [tab] **5.03** Streckenlänge (Art. 64)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image220.png) **5.04** Wiederholungstafel (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image221.png) **5.05** Anfangstafel (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image222.png) **5.06** Endetafel (Art. 64)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image223.png) [tab] [tab] **5.07** Richtungstafel (Art. 64)</td></tr>
+<tr><td colspan="2">[tab] [tab] [tab] [tab] [tab] [tab] **5.08** …</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image224.png) **5.09** Richtung der Hauptstrasse (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image225.png) **5.10** Ausnahmen vom Halteverbot (Art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image226.png) **5.11** Ausnahmen vom Parkierungsverbot (Art. 65) ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image227.png) **5.12** Blinklicht (Art. 65)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image228.png) **5.13** Vereiste Fahrbahn (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image229.png) **5.14** Gehbehinderte (Art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image230.png)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image231.png)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image232.png)</td></tr>
 <tr><td colspan="2">**5.15** Fahrbahnbreite (Art. 65)</td><td colspan="3">**5.16** Schiesslärm (Art. 65)</td><td colspan="2">**5.17** Übernächste Tankstelle (Art. 89)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image233.png) **5.18** Rechtsabbiegen für Radfahrer gestattet (Art. 69*a*)</td><td colspan="3"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image234.png) **5.20** Leichte Motorwagen (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image235.png) **5.21** Schwere Motorwagen (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image236.png) **5.22** Lastwagen (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image237.png) **5.23** Lastwagen mit Anhänger (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image238.png) **5.24** Sattelmotorfahrzeug (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image239.png) **5.25** Gesellschaftswagen (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image240.png) **5.26** Anhänger (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image241.png) **5.27** Wohnanhänger (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image242.png) **5.28** Wohnmotorwagen (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image243.png) **5.29** Motorrad (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image244.png) **5.30** Motorfahrrad (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image245.png) **5.31** Fahrrad (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image246.png) **5.32** Mountain-Bike (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image247.png) **5.33** Fahrrad schieben (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image248.png) **5.34** Fussgänger (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image249.png) **5.35** Strassenbahn (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image250.png) **5.36** Traktor (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image251.png) **5.37** Panzer (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image252.png) **5.38** Pistenfahrzeug (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image253.png) **5.39** Langlauf (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image254.png) **5.40** Skifahren (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image255.png) **5.41** Schlitteln (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image256.png) **5.42** Ladestation (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image257.png) **5.50** Flugzeug/Flugplatz (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image258.png) [tab] **5.51** Autoverlad auf Eisenbahn (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image259.png) [tab] **5.52** Autoverlad auf Fähre (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image260.png) **5.53** Industrie und Gewerbegebiet (Art. 64)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image261.png) **5.54** Zollabfertigung mit Sichtdeklaration (Art. 65)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image262.png) **5.55** S-Verkehr (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image263.png) **5.56** Spital mit Notfallstation (Art. 65)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image264.png) **5.57** Notfalltelefon (Art. 65)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image265.png) **5.58** Feuerlöscher (Art. 65)</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image233.png) **5.18** Rechtsabbiegen für Radfahrer gestattet (Art. 69*a*)</td><td colspan="3"></td><td colspan="2"></td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image234.png) **5.20** Leichte Motorwagen (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image235.png) **5.21** Schwere Motorwagen (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image236.png) **5.22** Lastwagen (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image237.png) **5.23** Lastwagen mit Anhänger (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image238.png) **5.24** Sattelmotorfahrzeug (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image239.png) **5.25** Gesellschaftswagen (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image240.png) **5.26** Anhänger (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image241.png) **5.27** Wohnanhänger (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image242.png) **5.28** Wohnmotorwagen (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image243.png) **5.29** Motorrad (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image244.png) **5.30** Motorfahrrad (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image245.png) **5.31** Fahrrad (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image246.png) **5.32** Mountain-Bike (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image247.png) **5.33** Fahrrad schieben (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image248.png) **5.34** Fussgänger (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image249.png) **5.35** Strassenbahn (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image250.png) **5.36** Traktor (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image251.png) **5.37** Panzer (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image252.png) **5.38** Pistenfahrzeug (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image253.png) **5.39** Langlauf (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image254.png) **5.40** Skifahren (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image255.png) **5.41** Schlitteln (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image256.png) **5.42** Ladestation (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image257.png) **5.43** Mitfahrgemeinschaft (Art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image258.png) **5.50** Flugzeug/Flugplatz (Art. 64)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image259.png) [tab] **5.51** Autoverlad auf Eisenbahn (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image260.png) [tab] **5.52** Autoverlad auf Fähre (Art. 64)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image261.png) **5.53** Industrie und Gewerbegebiet (Art. 64)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image262.png) **5.54** Zollabfertigung mit Sichtdeklaration (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image263.png) **5.55** S-Verkehr (Art. 65)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image264.png) **5.56** Spital mit Notfallstation (Art. 65)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image265.png) **5.57** Notfalltelefon (Art. 65)</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image266.png) **5.58** Feuerlöscher (Art. 65)</td></tr>
 </table>
 
 ### 6. Markierungen und Leiteinrichtungen (Art. 72–79 und Art. 82)
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image266.png) **6.01** Sicherheitslinie (Art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image267.png) **6.02** Doppelte Sicherheitslinie **6.03** Leitlinie (Art. 73)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image268.png) **6.04** Doppellinie (Art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image269.png) **6.05** Vorwarnlinie (Art. 73)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image270.png) **6.06** Einspurpfeile (Art. 74)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image271.png) **6.07** Abweispfeile (Art. 74)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image272.png) **6.08** Bus-Streifen (Art. 74*b*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image273.png) **6.09** Radstreifen (Art. 74*a*)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image274.png) **6.10** Haltelinie **6.11** Stop **6.12** Ununterbrochene Längslinie (Art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image275.png) **6.12** Ununterbrochene Längslinie **6.13** Wartelinie **6.14** Vorankündigung der Wartelinie (Art. 75)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image276.png) **6.15** Randlinie **6.16** Führungslinie (Art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image277.png) [tab] **6.16.1** Führungslinie im Anschluss an Wartelinie (Art. 76)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image278.png) [tab] **6.16.2** Führungslinie bei Richtungs‑ änderung der Hauptstrasse (Art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image279.png) [tab] **6.16.3** Führungslinie bei Richtungs‑ änderung der Hauptstrasse (Art. 76)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image280.png) **6.17** Fussgängerstreifen **6.18** Halteverbotslinie (Art. 77)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image281.png) **6.19** Längsstreifen für Fussgänger (Art. 77)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image282.png) **6.20** Sperrflächen (Art. 78)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image283.png) **6.21** Zickzacklinie (Art. 79)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image284.png) **6.22** Parkverbotslinie (Art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image285.png) **6.23** Parkverbotsfeld (Art. 79)</td></tr>
-<tr><td colspan="2">**6.24** ...</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image286.png) **6.25** Halteverbotslinie (Art. 79)</td></tr>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image287.png) **6.26** Aufstellbereich für Radfahrer (Beispiele) (Art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image288.png)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image289.png) **6.30** Leitpfosten rechts (Art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image290.png) **6.31** Leitpfosten links (Art. 82)</td><td>[tab]</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image267.png) **6.01** Sicherheitslinie (Art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image268.png) **6.02** Doppelte Sicherheitslinie **6.03** Leitlinie (Art. 73)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image269.png) **6.04** Doppellinie (Art. 73)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image270.png) **6.05** Vorwarnlinie (Art. 73)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image271.png) **6.06** Einspurpfeile (Art. 74)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image272.png) **6.07** Abweispfeile (Art. 74)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image273.png) **6.08** Bus-Streifen (Art. 74*b*)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image274.png) **6.09** Radstreifen (Art. 74*a*)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image275.png) **6.10** Haltelinie **6.11** Stop **6.12** Ununterbrochene Längslinie (Art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image276.png) **6.12** Ununterbrochene Längslinie **6.13** Wartelinie **6.14** Vorankündigung der Wartelinie (Art. 75)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image277.png) **6.15** Randlinie **6.16** Führungslinie (Art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image278.png) [tab] **6.16.1** Führungslinie im Anschluss an Wartelinie (Art. 76)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image279.png) [tab] **6.16.2** Führungslinie bei Richtungs‑ änderung der Hauptstrasse (Art. 76)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image280.png) [tab] **6.16.3** Führungslinie bei Richtungs‑ änderung der Hauptstrasse (Art. 76)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image281.png) **6.17** Fussgängerstreifen **6.18** Halteverbotslinie (Art. 77)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image282.png) **6.19** Längsstreifen für Fussgänger (Art. 77)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image283.png) **6.20** Sperrflächen (Art. 78)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image284.png) **6.21** Zickzacklinie (Art. 79)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image285.png) **6.22** Parkverbotslinie (Art. 79)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image286.png) **6.23** Parkverbotsfeld (Art. 79)</td></tr>
+<tr><td colspan="2">**6.24** …</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image287.png) **6.25** Halteverbotslinie (Art. 79)</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image288.png) **6.26** Aufstellbereich für Radfahrer (Beispiele) (Art. 75)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image289.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image290.png) **6.30** Leitpfosten rechts (Art. 82)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image291.png) **6.31** Leitpfosten links (Art. 82)</td><td>[tab]</td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 48*a* Abs. 1 und 2 sowie 65 Abs. 5)
 
@@ -2934,7 +2950,7 @@ Vorderseite: Grund blau; Schriftzeichen, Pfeil und Umrandung des «P» weiss; Za
 Rückseite: Auf der nebst dem untenerwähnten Text verbleibenden Fläche sind Zusätze, auch solche zum Zwecke der Werbung, zulässig.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image291.png)</td><td></td><td colspan="6">Einstellen der Parkscheibe auf allen mit dem Signal «Parkieren mit Parkscheibe» gekennzeichneten Verkehrsflächen Der Pfeil muss auf den der tatsächlichen Ankunftszeit nachfolgenden Strich eingestellt werden. Zulässige Parkdauer in der Blauen Zone Fahrzeuge dürfen an Werktagen – und sofern ausdrücklich signalisiert auch an Sonn- und Feiertagen – nur wie folgt abgestellt werden:</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image292.png)</td><td></td><td colspan="6">Einstellen der Parkscheibe auf allen mit dem Signal «Parkieren mit Parkscheibe» gekennzeichneten Verkehrsflächen Der Pfeil muss auf den der tatsächlichen Ankunftszeit nachfolgenden Strich eingestellt werden. Zulässige Parkdauer in der Blauen Zone Fahrzeuge dürfen an Werktagen – und sofern ausdrücklich signalisiert auch an Sonn- und Feiertagen – nur wie folgt abgestellt werden:</td><td></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>Tatsächliche Ankunftszeit A</td><td>Einzustellende Ankunftszeit</td><td>Abfahrtszeit</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>08.00 – 08.29</td><td>08.30</td><td>09.30</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2"></td><td></td><td>08.30 – 08.59</td><td>09.00</td><td>10.00</td><td colspan="2"></td></tr>
@@ -2954,6 +2970,6 @@ Rückseite: Auf der nebst dem untenerwähnten Text verbleibenden Fläche sind Zu
 Die Parkkarte ist 14,8 cm breit und 10,6 cm hoch. Der Grund der Karte ist hellblau, das Gehbehinderten-Zeichen weiss auf dunkelblauem Grund. Die weitere Ausgestaltung der Karte richtet sich nach den Abbildungen unten.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image292.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20210101/de/xml/image/image293.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image293.png)</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961/20230101/de/xml/image/image294.png)</td></tr>
 <tr><td>(Vorderseite)</td><td></td><td>(Rückseite)</td></tr>
 </table>
