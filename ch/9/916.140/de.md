@@ -3,11 +3,11 @@ sr: "916.140"
 title: Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/de"
 
 (Weinverordnung)
 
-vom 14. November 2007 (Stand am 1. Januar 2022)
+vom 14. November 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -147,7 +147,7 @@ Für die Aufnahme einer Rebsorte in das Rebsortenverzeichnis sind insbesondere f
 
 <sup>3</sup> Das BLW erlässt die Ausführungsbestimmungen.
 
-## 2. Abschnitt: ...
+## 2. Abschnitt: …
 
 #### Art. 8–18
 
@@ -333,7 +333,7 @@ Trauben und Traubenmoste, die für die Verarbeitung zu Wein bestimmt sind, sowie
 
 <sup>2</sup> Traubenposten und Traubenmoste, welche die Anforderungen an einen Tafelwein nicht erfüllen, dürfen weder zu Wein verarbeitet noch als solcher vermarktet werden. Ein Tafelwein, der nicht die entsprechenden Anforderungen erfüllt, kann nicht als solcher vermarktet werden.
 
-## 3*a*. Abschnitt:**** Begriffsbestimmungen und Anforderungen an Schweizer Wein
+## 3*a*. Abschnitt: Begriffsbestimmungen und Anforderungen an Schweizer Wein
 
 [^sec3a-1]
 
@@ -346,6 +346,16 @@ Trauben und Traubenmoste, die für die Verarbeitung zu Wein bestimmt sind, sowie
 <sup>1</sup> Schweizer Weisswein ist Wein aus weissen Trauben oder aus vollständig süss gekelterten blauen Trauben.
 
 <sup>2</sup> Schweizer Rotwein und Schweizer Roséwein sind ausschliesslich aus blauen Trauben gewonnene Weine, die mehr oder weniger lang an der Maische vergoren werden, bevor sie abgepresst werden. Vorbehalten bleibt Artikel 27*d* Absatz 6.
+
+#### Art. 27a<sup>bis</sup>
+
+**Maximaler Weinbereitungsertrag für Schweizer Weine**[^27abis-1]
+
+<sup>1</sup> Der maximale Weinbereitungsertrag für Schweizer Weine darf 80 Liter Wein pro 100 kg Trauben nicht überschreiten.
+
+<sup>2</sup> Die Kantone können für KUB-Weine pro Rebsorte einen maximalen Weinbereitungsertrag festlegen, der niedriger als 80 Liter Wein pro 100 kg Trauben ist.
+
+[^27abis-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 27b
 
@@ -405,7 +415,7 @@ Er darf nur mit Schweizer Wein verschnitten werden, wenn die folgenden Vorschrif
 
 <sup>5</sup> Die Absätze 1–4 gelten auch für Schweizer Likörwein.
 
-## 3*b*. Abschnitt:**** Bestimmungen über Schweizer und ausländische Weine, Schaumweine und Likörweine
+## 3*b*. Abschnitt: Bestimmungen über Schweizer und ausländische Weine, Schaumweine und Likörweine
 
 [^sec3b-1]
 
@@ -739,7 +749,7 @@ Die Kontrollstelle nimmt die Kontrolle entsprechend den möglichen Risiken vor. 
 <sup>5</sup> Sie verfügt im Beanstandungsfall die erforderlichen Massnahmen und übt das Antragsrecht gemäss Artikel 172 des Landwirtschaftsgesetzes vom 29. April 1998 aus.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^35-2]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^35-2]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 
 #### Art. 35a
 
@@ -753,8 +763,20 @@ Die Kontrollstelle hat ferner die folgenden Pflichten:
 - d. Sie erstellt nach den Vorgaben des BLW einen jährlichen Bericht mit den ausführlichen Kontrollergebnissen und reicht diesen dem BLW bis Ende März des folgenden Jahres ein.
 - e. Sie informiert die Öffentlichkeit in geeigneter Form über die Kontrollergebnisse.
 - f. Sie legt dem BLW auf Anfrage weitere gewünschte Berichterstattungen vor und übermittelt ihm sämtliche Dokumente, über die sie verfügt oder auf die sie Zugriff hat.
+- g.[^35a-2] Sie führt und aktualisiert die Isotopendatenbank der Schweizer Weine gemäss Artikel 35*b*.
 
 [^35a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^35a-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
+
+#### Art. 35b
+
+**Isotopendatenbank der Schweizer Weine**[^35b-1]
+
+<sup>1</sup> Die Isotopendatenbank der Schweizer Weine enthält die Analyseergebnisse von repräsentativen und authentischen Referenzweinen der Schweizer Weinwirtschaft.
+
+<sup>2</sup> Das Entnehmen der Weintraubenproben für die Herstellung der Referenzweine und deren Verarbeitung zu Wein fällt in den Zuständigkeitsbereich von Agroscope.
+
+[^35b-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 36
 
@@ -935,8 +957,8 @@ Schweizer Wein mit kontrollierter Ursprungsbezeichnung (KUB/AOC) aus Trauben des
 
 Die Verordnung vom 28. Mai 1997[^49-1] über die Kontrolle des Handels mit Wein und die Weinverordnung vom 7. Dezember 1998[^49-2] werden aufgehoben.
 
-[^49-1]: [[AS 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182), [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)Ziff. I 9, [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214), [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264), [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 102]
-[^49-2]: [[AS 1999 86](https://fedlex.data.admin.ch/eli/oc/1999/16), [2002 1097](https://fedlex.data.admin.ch/eli/oc/2002/175), [2003 1757](https://fedlex.data.admin.ch/eli/oc/2003/263)[4915](https://fedlex.data.admin.ch/eli/oc/2003/725), [2005 2159](https://fedlex.data.admin.ch/eli/oc/2005/352), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 53]
+[^49-1]: [[AS 1997 1182](https://fedlex.data.admin.ch/eli/oc/1997/1182_1182_1182); [1999 303](https://fedlex.data.admin.ch/eli/oc/1999/35)Ziff. I 9; [2002 1382](https://fedlex.data.admin.ch/eli/oc/2002/214); [2003 1761](https://fedlex.data.admin.ch/eli/oc/2003/264); [2004 4911](https://fedlex.data.admin.ch/eli/oc/2004/739); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 102]
+[^49-2]: [[AS 1999 86](https://fedlex.data.admin.ch/eli/oc/1999/16); [2002 1097](https://fedlex.data.admin.ch/eli/oc/2002/175); [2003 1757](https://fedlex.data.admin.ch/eli/oc/2003/263), [4915](https://fedlex.data.admin.ch/eli/oc/2003/725); [2005 2159](https://fedlex.data.admin.ch/eli/oc/2005/352); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 53]
 
 #### Art. 50
 
@@ -944,7 +966,7 @@ Die Verordnung vom 28. Mai 1997[^49-1] über die Kontrolle des Handels mit Wein 
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 19 Abs. 1)
 
@@ -977,7 +999,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]: Ausdruck gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 21 Abs. 5)
 
@@ -1032,7 +1054,7 @@ Oechslegrad nach Massenprozent Saccharose Referenztemperatur: 20 °C
 <tr><td>[tab] 14.0</td><td>[tab] 56.8</td><td>[tab] 22.0</td><td>[tab] 91.9</td><td>[tab] 30.0</td><td>[tab] 129.1</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 23 Abs. 1 Bst. b)
 
@@ -1062,6 +1084,6 @@ Salvagnin (VD)
 
 Païen oder Heida (VS)
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 [^t-4]: Aufgehoben durch Ziff. II Abs. 1 der V vom 23. Okt. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).

@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordonnance du 14 novembre 2007 sur la viticulture et l'importation de vin (Ordonnance sur le vin)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-833-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/fr"
 
 (Ordonnance sur le vin)
 
-du 14 novembre 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 novembre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -149,7 +149,7 @@ Pour l’admission d’une variété dans l’assortiment des cépages, sont not
 
 <sup>3</sup> L’OFAG édicte les dispositions d’exécution.
 
-## Section 2 ...
+## Section 2 …
 
 #### Art. 8 à 18
 
@@ -335,7 +335,7 @@ Les raisins et les moûts destinés à l’élaboration de vin ainsi que les vin
 
 <sup>2</sup> Les lots de raisins et les moûts qui ne répondent pas aux exigences relatives aux vins de table ne peuvent être transformés en vin ni commercialisés comme tel. Les vins de table qui ne remplissent pas les exigences ne peuvent être commercialisés comme tels.
 
-## Section 3*a***** Définitions et exigences relatives aux vins suisses
+## Section 3*a* Définitions et exigences relatives aux vins suisses
 
 [^sec3a-1]
 
@@ -348,6 +348,16 @@ Les raisins et les moûts destinés à l’élaboration de vin ainsi que les vin
 <sup>1</sup> Le vin blanc suisse est un vin obtenu à partir de raisins blancs ou à partir de raisins rouges pressurés avant toute fermentation.
 
 <sup>2</sup> Le vin rouge et le vin rosé suisses sont des vins obtenus à partir de raisins rouges exclusivement, ayant subi une macération ou une fermentation partielle plus ou moins longue avant le pressurage. L’art. 27*d*, al. 6, est réservé.
+
+#### Art. 27a<sup>bis</sup>
+
+**Rendement maximal de vinification des vins suisses**[^27abis-1]
+
+<sup>1</sup> Le rendement maximal de vinification des vins suisses ne peut excéder 80 litres de vin par 100 kg de raisin.
+
+<sup>2</sup> Les cantons peuvent fixer un rendement maximal de vinification par cépage inférieur à 80 litres de vin par 100 kg de raisin pour les vins AOC.
+
+[^27abis-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 27b
 
@@ -407,7 +417,7 @@ Ils ne peuvent être coupés avec du vin suisse que si les prescriptions suivant
 
 <sup>5</sup> Les al. 1 à 4 sont également applicables aux vins de liqueur suisses.
 
-## Section 3*b***** Dispositions concernant les vins, vins mousseux et vins de liqueur suisses et étrangers
+## Section 3*b* Dispositions concernant les vins, vins mousseux et vins de liqueur suisses et étrangers
 
 [^sec3b-1]
 
@@ -754,9 +764,21 @@ L’organe de contrôle a en outre les obligations suivantes:
 - c. rassembler les données des inventaires des entreprises, en faire la synthèse et communiquer le résultat à l’OFAG pour la fin du mois de mars de l’année suivante;
 - d. établir, selon les instructions de l’OFAG, un rapport annuel comprenant les résultats détaillés des contrôles et le remettre à l’OFAG pour la fin du mois de mars de l’année suivante;
 - e. informer le public des résultats des contrôles sous une forme appropriée;
-- f. présenter à l’OFAG, sur demande, d’autres rapports et lui communiquer l’ensemble des documents dont il dispose ou auxquels il a accès.
+- f. présenter à l’OFAG, sur demande, d’autres rapports et lui communiquer l’ensemble des documents dont il dispose ou auxquels il a accès;
+- g.[^35a-2] gérer et actualiser la banque de données isotopiques des vins suisses visée à l’art. 35*b*.
 
 [^35a-1]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^35a-2]: Introduite par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
+
+#### Art. 35b
+
+**Banque de données isotopiques des vins suisses**[^35b-1]
+
+<sup>1</sup> La banque de données isotopiques des vins suisses est constituée des résultats d’analyses de vins de référence représentatifs et authentiques de la vitiviniculture suisse.
+
+<sup>2</sup> La collecte des raisins destinés à la vinification des vins de référence et leur vinification sont confiées à Agroscope.
+
+[^35b-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 36
 
@@ -947,7 +969,7 @@ L’ordonnance du 28 mai 1997 sur le contrôle du commerce des vins[^49-1] et l�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 19, al. 1)
 
@@ -980,7 +1002,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]: Nouvelle expression selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Il a été tenu compte de cette mod dans tout le texte.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 21, al.5)
 
@@ -1037,7 +1059,7 @@ Température de référence: 20 °C
 <tr><td>14.0</td><td>56.8</td><td></td><td>22.0</td><td>91.9</td><td></td><td>30.0</td><td>129.1</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 23, al. 1, let. b)
 

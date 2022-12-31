@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordinanza del 14 novembre 2007 concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20220101/it"
 
 (Ordinanza sul vino)
 
-del 14 novembre 2007 (Stato 1° gennaio 2022)
+del 14 novembre 2007 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -341,7 +341,7 @@ Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in 
 
 [^27-1]: [RU 2008 3931](https://fedlex.data.admin.ch/eli/oc/2008/528)
 
-## Sezione 3*a* *:***** Definizioni ed esigenze relative ai vini svizzeri
+## Sezione 3*a* *:* Definizioni ed esigenze relative ai vini svizzeri
 
 [^sec3a-1]
 
@@ -354,6 +354,18 @@ Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in 
 <sup>1</sup> Il vino bianco svizzero è vino ottenuto da uve bianche oppure da uve nere torchiate non fermentate.
 
 <sup>2</sup> Il vino rosso e il vino rosato (*rosé*) svizzeri sono vini ottenuti da sole uve nere macerate o fermentate parzialmente a contatto con il mosto per un tempo più o meno lungo e in seguito torchiate. È fatto salvo l’articolo 27*d* capoverso 6.
+
+916.140
+
+#### Art. 27a<sup>bis</sup>
+
+**Resa massima di vinificazione dei vini svizzeri**[^27abis-1]
+
+<sup>1</sup> La resa massima di vinificazione dei vini svizzeri non può superare 80 litri di vino per 100 kg di uva.
+
+<sup>2</sup> I Cantoni possono fissare una resa massima di vinificazione per vitigno inferiore a 80 litri di vino per 100 kg di uva per i vini DOC.
+
+[^27abis-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 27b
 
@@ -413,7 +425,7 @@ Possono essere tagliati con vini svizzeri soltanto se sono rispettate le seguent
 
 <sup>5</sup> I capoversi 1–4 sono altresì applicabili al vino liquoroso svizzero.
 
-## Sezione 3*b* *:***** Disposizioni concernenti i vini, i vini spumanti e i vini liquorosi svizzeri ed esteri
+## Sezione 3*b* *:* Disposizioni concernenti i vini, i vini spumanti e i vini liquorosi svizzeri ed esteri
 
 [^sec3b-1]
 
@@ -761,8 +773,20 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 - d. allestisce, secondo le prescrizioni dell’UFAG, un rapporto annuo con i risultati dettagliati dei controlli e lo presenta all’UFAG entro la fine di marzo dell’anno seguente;
 - e. informa l’opinione pubblica, nella forma adeguata, sui risultati dei controlli;
 - f. presenta all’UFAG, su domanda, altri resoconti richiesti e gli trasmette tutti i documenti di cui dispone o ai quali ha accesso;
+- g.[^35a-2] gestisce e aggiorna la banca dati isotopica dei vini svizzeri di cui all’articolo 35*b*.
 
 [^35a-1]: Introdotto dal n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^35a-2]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
+
+#### Art. 35b
+
+**Banca dati isotopica dei vini svizzeri**[^35b-1]
+
+<sup>1</sup> La banca dati isotopica dei vini svizzeri è costituita dai risultati delle analisi di vini di riferimento rappresentativi e autentici della vitivinicoltura svizzera.
+
+<sup>2</sup> La raccolta dell’uva destinata alla vinificazione dei vini di riferimento e la sua vinificazione sono affidate ad Agroscope.
+
+[^35b-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 755](https://fedlex.data.admin.ch/eli/oc/2022/755)).
 
 #### Art. 36
 
@@ -953,7 +977,7 @@ L’ordinanza del 28 maggio 1997[^49-1] sul controllo del commercio dei vini e l
 
 La presente ordinanza entra in vigore il 1° gennaio 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 19 cpv. 1)
 
@@ -986,7 +1010,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]: Nuova espr. giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 21 cpv. 5)
 
@@ -1041,7 +1065,7 @@ Allegato 2*[^t-2]*
 <tr><td>14.0</td><td>56.8</td><td>22.0</td><td>91.9</td><td>30.0</td><td>129.1</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 23 cpv. 1 lett. b)
 
@@ -1071,6 +1095,6 @@ Salvagnin (VD)
 
 Païen o Heida (VS)
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 [^t-4]: Abrogato dal n. II cpv. 1 dell’O del 23 ott. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
