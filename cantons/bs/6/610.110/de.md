@@ -4,13 +4,13 @@ number: "610.110"
 title: Verordnung zum Gesetz über den kantonalen Finanzhaushalt
 short: Finanzhaushaltverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-01
+version: 2023-01-01
+valid_until: 2023-09-30
+version_adopted: 2023-01-24
 adopted: 2012-05-22
 in_force: 2012-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/610.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5449/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5815/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Finanzhaushaltverordnung | Finanzordnung
 
 (Finanzhaushaltverordnung)
 
-Vom 22. Mai 2012 (Stand 1. Januar 2022)
+Vom 22. Mai 2012 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
