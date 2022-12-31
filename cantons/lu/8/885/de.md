@@ -4,13 +4,12 @@ number: "885"
 title: Gesetz über die Familienzulagen
 short: "Kantonales Familienzulagengesetz, FZG"
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-09-10
+version: 2023-01-01
+version_adopted: 2022-03-21
 adopted: 2008-09-08
 in_force: 2009-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/885"
-pdf: "https://srl.lu.ch/api/de/versions/3339/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4129/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3339/pdf_file"
 
 (Kantonales Familienzulagengesetz, FZG)
 
-vom 08.09.2008 (Stand 01.01.2019)
+vom 08.09.2008 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -71,7 +70,13 @@ beschliesst:
 
 **Kinderzulage und Ausbildungszulage**
 
-<sup>1</sup> Die Höhe der Kinderzulage und die Höhe der Ausbildungszulage entsprechen den Mindestansätzen gemäss den Bestimmungen des Familienzulagengesetzes.
+<sup>1</sup> Die Höhe der Kinderzulage und die Höhe der Ausbildungszulage entsprechen den Mindestansätzen gemäss den Bestimmungen des Familienzulagengesetzes. Vorbehalten bleibt Absatz 1<sup>bis</sup>.
+
+<sup>1<sup>bis</sup></sup> Die nachfolgenden Beiträge werden so lange ausgerichtet, als im Familienzulagengesetz diese Werte nicht erreicht werden:
+
+- a. bis zum vollendeten 12. Altersjahr: eine Kinderzulage von 210 Franken,
+- b. vom vollendeten 12. bis zum vollendeten 16. Altersjahr: eine Kinderzulage von 260 Franken,
+- c. ab dem vollendeten 16. Altersjahr: eine Ausbildungszulage von 260 Franken.
 
 <sup>2</sup> ...
 
@@ -254,7 +259,7 @@ beschliesst:
 
 <sup>3</sup> Der Risikosatz der einzelnen Familienausgleichskassen ergibt sich aus dem Verhältnis zwischen den von ihr im gesetzlichen Umfang ausbezahlten Familienzulagen und den AHV-pflichtigen jährlichen Lohnsummen zuzüglich der für die Beiträge massgebenden AHV-pflichtigen jährlichen Einkommen aus selbständiger Erwerbstätigkeit ihrer Mitglieder.
 
-<sup>4</sup> Die Familienausgleichskassen haben der Geschäftsstelle der kantonalen Aufsichts-kommission bis spätestens am 31. März des folgenden Jahres zu melden:
+<sup>4</sup> Die Familienausgleichskassen haben der Geschäftsstelle der kantonalen Aufsichtskommission bis spätestens am 31. März des folgenden Jahres zu melden:
 
 - a. die ausbezahlten Familienzulagen,
 - b. die AHV-pflichtigen jährlichen Lohnsummen,
@@ -300,7 +305,7 @@ beschliesst:
 
 <sup>2</sup> Beiträge, welche für die Zeit vor Inkrafttreten dieses Gesetzes geschuldet sind, werden nach bisherigem Recht eingefordert.
 
-<sup>3</sup> Die monatliche Kinderzulage von 210 Franken vom 12. bis zum vollendeten 16. Altersjahr wird so lange ausgerichtet, bis die Kinderzulage gemäss dem Familienzulagengesetz diesen Wert erreicht.
+<sup>3</sup> …
 
 <sup>4</sup> Die Familienausgleichskasse für Selbständigerwerbende wird aufgelöst. Ihre Reserven sind zur Finanzierung der Familienzulagen für Selbständigerwerbende zu verwenden.
 
