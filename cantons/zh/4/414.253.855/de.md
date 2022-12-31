@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.855"
 title: Studienordnung für den Masterstudiengang International Business an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2022-02-01"
-nachtrag: "116"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-12-01
 adopted: 2015-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_855-2015_12_10-2016_05_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_855-2015_12_10-2016_05_01-119.html"
 text: pdf
 ---
 
@@ -25,11 +25,11 @@ beschliesst:
 
 [^t-1]: OS 71, 120; Begründung siehe ABl 2016-02-26. Vom Fachhochschulrat genehmigt am 9. Februar 2016.
 [^t-2]: Inkrafttreten: 1. Mai 2016.
-[^t-3]: LS 414.252.3. 1. 4. 22 - 116 3
+[^t-3]: LS 414.252.3. 1. 1. 23 - 119 3
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 22 - 116 3
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 23 - 119 3
 
 #### § 1
 
@@ -68,7 +68,7 @@ An der ZHAW oder andernorts auf konsekutiver Masterebene erworbene ECTS-Credits[
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Studiengangleitung entscheidet über die Gleichwertigkeit der Abschlüsse gemäss Abs. 1 lit. b.
 
@@ -136,23 +136,21 @@ In der Modulbeschreibung kann vorgesehen werden, dass Expertinnen und Experten z
 
 ### E. Studienabschluss und Masterdiplom
 
-#### § 12
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in International Business» abgeschlossen.
+§ 12.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in International Business» abgeschlossen.
 
 **Bestehensvoraussetzungen**
 
-§ 13.[^12-1] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Module bestanden und b. 90 ECTS-Credits erreicht sind.
+§ 13.[^hEStudienabschluss-2] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Module bestanden und b. 90 ECTS-Credits erreicht sind.
 
 **Abschlussnote**
 
-§ 14.[^12-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+§ 14.[^hEStudienabschluss-2] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
 
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
-§ 15.[^12-2] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+§ 15.[^hEStudienabschluss-3] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studiengangleitung regelt,
 
@@ -162,20 +160,21 @@ Das Masterstudium wird mit dem Titel «Master of Science ZFH in International Bu
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^12-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^12-2]: Eingefügt durch B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 521; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^hEStudienabschluss-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-3]: Eingefügt durch B vom 22. August 2019 (OS 75, 51; ABl 2019-11-01). In Kraft seit 1. April 2020.
 
 ### Anhang zur Studienordnung für den Masterstudiengang International Business an der Zürcher Hochschule für Angewandte Wissenschaften
 
 Der Anhang zur Studienordnung für den Masterstudiengang International Business an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
