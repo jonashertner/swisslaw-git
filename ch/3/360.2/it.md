@@ -3,11 +3,11 @@ sr: "360.2"
 title: Ordinanza del 15 ottobre 2008 sul sistema nazionale di indagine (Ordinanza SNI)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/697"
 language: it
-version: 2022-06-28
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20220628/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20220628-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220628/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/697/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-697-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/697/20220628/it"
 
 (Ordinanza JANUS)
 
-del 15 ottobre 2008 (Stato 28 giugno 2022) (Stato 28 giugno 2022)
+del 15 ottobre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -278,15 +278,16 @@ Hanno accesso a JANUS, mediante una procedura di richiamo (accesso online), nell
 
 - a.[^11-1] la Polizia giudiziaria federale, la divisione Centrale operativa e la divisione Cooperazione operativa di polizia in seno alla divisione principale Cooperazione internazionale di polizia nonché la sezione Sistemi di polizia in seno alla divisione principale Servizi;
 - b. il Ministero pubblico della Confederazione;
-- c.[^11-2] i servizi di polizia giudiziaria dei Cantoni che, nell’ambito delle loro competenze, collaborano con la Polizia giudiziaria federale e con la divisione Analisi dell’ufficio federale e la divisione Analisi del Servizio delle attività informative della Confederazione (SIC) (art. 10 cpv. 4 lett. c e 11 cpv. 5 lett. c LSIP);
-- d.[^11-3] la divisione Analisi dell’ufficio federale nonché il SIC per allestire analisi nel quadro della rispettiva attività secondo la LAIn;
-- e.[^11-4] il SIC per l’esame delle misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente agli articoli 67 capoverso 2 e 68 della legge federale del 16 dicembre 2005[^11-5] sugli stranieri e la loro integrazione (LStrI);
+- c.[^11-2] i servizi di polizia giudiziaria dei Cantoni che, nell’ambito delle loro competenze, collaborano con la Polizia giudiziaria federale e con la divisione Analisi di fedpol[^11-3] e la divisione Analisi del Servizio delle attività informative della Confederazione (SIC) (art. 10 cpv. 4 lett. c e 11 cpv. 5 lett. c LSIP);
+- d.[^11-4] la divisione Analisi di fedpol nonché il SIC per allestire analisi nel quadro della rispettiva attività secondo la LAIn;
+- e.[^11-5] il SIC per l’esame delle misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente agli articoli 67 capoverso 2 e 68 della legge federale del 16 dicembre 2005[^11-6] sugli stranieri e la loro integrazione (LStrI);
 - f. il Servizio giuridico di fedpol per pronunciare misure di respingimento per la salvaguardia della sicurezza interna ed esterna della Svizzera conformemente agli articoli 67 capoverso 2 e 68 LStr;
 - g. il Servizio di controllo;
-- h.[^11-6] i consulenti per la protezione dei dati dell’ufficio federale e del SIC;
+- h.[^11-7] i consulenti per la protezione dei dati di fedpol e del SIC;
 - i. il responsabile di progetto e gli amministratori del sistema;
-- j. l’ambito direzionale Assistenza giudiziaria internazionale dell’Ufficio federale di giustizia, esclusivamente in riferimento a procedure di assistenza giudiziaria internazionale secondo la legge federale del 20 marzo 1981[^11-7] sull’assistenza in materia penale;
-- k.[^11-8] i collaboratori dell’Ufficio federale della dogana e della sicurezza dei confini impiegati per il perseguimento penale, per l’analisi dei rischi nonché per il controllo delle persone alla frontiera e in Svizzera.[^11-9]
+- j. l’ambito direzionale Assistenza giudiziaria internazionale dell’Ufficio federale di giustizia, esclusivamente in riferimento a procedure di assistenza giudiziaria internazionale secondo la legge federale del 20 marzo 1981[^11-8] sull’assistenza in materia penale;
+- k.[^11-9] i collaboratori dell’Ufficio federale della dogana e della sicurezza dei confini impiegati per il perseguimento penale, per l’analisi dei rischi nonché per il controllo delle persone alla frontiera e in Svizzera;
+- l.[^11-10] il servizio di fedpol competente per l’adempimento dei compiti secondo la legge federale del 25 settembre 2020[^11-11] sui precursori di sostanze esplodenti, per trattare domande di autorizzazione di acquisto e di autorizzazione eccezionale, per verificare tali autorizzazioni e per trattare segnalazioni di eventi sospetti.[^11-12]
 
 <sup>2</sup> Ai servizi di fedpol che non svolgono compiti di perseguimento penale ma a cui compete il vaglio e la gestione degli incarti, può essere concesso, limitatamente alle loro necessità, un accesso online a JANUS per l’adempimento dei loro compiti legali.
 
@@ -300,13 +301,16 @@ Hanno accesso a JANUS, mediante una procedura di richiamo (accesso online), nell
 
 [^11-1]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
 [^11-2]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-3]: Nuovo testo giusta l’all. 4 n. II 6 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
-[^11-4]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-6]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
-[^11-7]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
-[^11-8]: Introdotta dal n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^11-9]: Nuovo testo giusta l’all. n. 15 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
+[^11-3]: Nuova espr. giusta l’all. 2 n. 5 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^11-4]: Nuovo testo giusta l’all. 4 n. II 6 dell’O del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^11-5]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^11-7]: Nuovo testo giusta l’all. 4 n. II 14 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)).
+[^11-8]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^11-9]: Introdotta dal n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^11-10]: Introdotta dall’all. 2 n. 5 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), [454](https://fedlex.data.admin.ch/eli/oc/2022/454)).
+[^11-11]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^11-12]: Nuovo testo giusta l’all. n. 15 dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6305](https://fedlex.data.admin.ch/eli/oc/2008/858)).
 
 #### Art. 12
 
@@ -579,7 +583,7 @@ I Cantoni assumono le spese:
 
 <sup>2</sup> Fedpol definisce i particolari nel regolamento sul trattamento dei dati.
 
-## Sezione 5*a*:**** Piattaforme di valutazione
+## Sezione 5*a*: Piattaforme di valutazione
 
 [^sec5a-1]
 
@@ -728,7 +732,7 @@ Per garantire la sicurezza dei dati si applicano:
 [^29n-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 [^29n-3]: Nuovo testo giusta l’all. n. 17 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
-## Sezione 5*b*:**** Registro dei dati sul terrorismo****
+## Sezione 5*b*: Registro dei dati sul terrorismo
 
 [^sec5b-1][^sec5b-2]
 
@@ -834,52 +838,52 @@ L’ordinanza JANUS del 30 novembre 2001[^30-1] è abrogata.
 
 La presente ordinanza entra in vigore il 5 dicembre 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Non pubblicato nella RU. Gli stampati separati sono disponibili presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 11 cpv. 6)
 
 ## 1. Diritti d’accesso a JANUS
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 17 dic. 2004 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Aggiornato dall’all. 4 n. II 6 dell’O del 16 ago. 2017 sulle attività informative ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)), dal n. I dell’O del 21 nov. 2018 ([RU 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)), dal n. I 9 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)) e della correzione del 28 giu. 2022 ([RU 2022 378](https://fedlex.data.admin.ch/eli/oc/2022/378)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 17 dic. 2004 ([RU 2015 269](https://fedlex.data.admin.ch/eli/oc/2015/32)). Aggiornato dal n. I dell’O del 21 nov. 2018 ([RU 2018 4589](https://fedlex.data.admin.ch/eli/oc/2018/724)) e dall’all. 2 n. 5 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353), [454](https://fedlex.data.admin.ch/eli/oc/2022/454)).
 
 ### 1.1 Sistema di sostegno alle indagini di polizia giudiziaria della Confederazione (art. 10 e 18 LSIP)
 
 <table>
-<tr><th>Servizio</th><th colspan="2">PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th colspan="2">Intranet</th><th></th><th>Denaro falso</th></tr>
-<tr><th></th><th>Persone e procedimenti</th><th colspan="2">Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th colspan="2">Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="15">**fedpol – Polizia giudiziaria federale (PGF)**</td></tr>
-<tr><td>Capo PGF + specialista</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Ufficiale inquirente</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capodivisione</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Assist. ufficiale inquirente + assist. capodivisione</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo commissariato + suppl.</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Inquirente</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Collab. divisione Coordinazione</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Collab. specialista, coordinatore, responsabile d’intervento, addetto all’osservazione</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. commissariato Moneta falsa</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>D</td></tr>
-<tr><td>Capo + collab. Polizia scientifica</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Analista PGF</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Superuser PGF</td><td>D\*</td><td colspan="2">G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. commissariato Controllo JANUS & IPAS</td><td>D</td><td colspan="2">G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">**A**</td><td>–</td></tr>
-<tr><td>Mandante del progetto</td><td>D</td><td colspan="2">G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>SCOCI</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. Servizio di protezione dei testimoni</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td colspan="15">**fedpol – Cooperazione internazionale di polizia (CIP)**</td></tr>
-<tr><td>Capo CIP</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Cooperazione operativa di polizia (utenti)</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Cooperazione operativa di polizia (superuser)</td><td>D\*</td><td colspan="2">G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Centrale operativa (utenti)</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Centrale operativa (superuser)</td><td>D\*</td><td colspan="2">G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Divisione Strategia (capodivisione, capisettore, collab.)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Settore Sostegno alla conduzione</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><th>Servizio</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th colspan="2">Intranet</th><th></th><th>Denaro falso</th></tr>
+<tr><th></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th colspan="2">Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="14">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
+<tr><td>Capo PGF + specialista</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Ufficiale inquirente</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Capodivisione</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Assist. ufficiale inquirente + assist. capodivisione</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Capo commissariato + suppl.</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Inquirente</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Collab. divisione Coordinazione</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Collab. specialista, coordinatore, responsabile d’intervento, addetto all’osservazione</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Capo + collab. commissariato Moneta falsa</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>D</td></tr>
+<tr><td>Capo + collab. Polizia scientifica</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Analista PGF</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Superuser PGF</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Capo + collab. commissariato Controllo JANUS & IPAS</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">A</td><td>–</td></tr>
+<tr><td>Mandante del progetto</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>SCOCI</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Capo + collab. Servizio di protezione dei testimoni</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td colspan="14">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
+<tr><td>Capo CIP</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Cooperazione operativa di polizia (utenti)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Cooperazione operativa di polizia (superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Centrale operativa (utenti)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Centrale operativa (superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Divisione Strategia (capodivisione, capisettore, collab.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
+<tr><td>Settore Sostegno alla conduzione</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -891,45 +895,46 @@ Allegato 2*[^t-2]*
 \* = soltanto i dati registrati dalla stessa unità organizzativa
 
 <table>
-<tr><th>Servizio</th><th colspan="2">PV</th><th></th><th>JO</th><th colspan="2"></th><th></th><th>AN</th><th colspan="2">PR</th><th>ER</th><th colspan="2">GA</th><th colspan="4">Intranet</th><th></th><th colspan="2">Denaro falso</th></tr>
-<tr><th></th><th>Persone e procedimenti</th><th colspan="2">Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th colspan="2">Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th colspan="2">Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th colspan="2">Gestione delle pratiche e degli atti</th><th colspan="3">Mail</th><th colspan="2">Informazioni di polizia</th><th colspan="2">Tipi di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="21">**fedpol – Servizi**</td></tr>
-<tr><td>Sistemi di polizia (analista informatico)</td><td>D</td><td colspan="2">G</td><td>D</td><td colspan="2">D</td><td>G</td><td>G</td><td colspan="2">D</td><td>D</td><td colspan="2">D</td><td colspan="3">D</td><td colspan="2">D</td><td colspan="2">D</td></tr>
-<tr><td>Sezione Tifoseria violenta</td><td>G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td>G</td><td>–</td><td colspan="2">A\*</td><td>A\*</td><td colspan="2">A\*</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Uffici centrali Armi, Esplosivi e pirotecnica</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>KILA</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. Servizi AFIS DNA</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. AFIS I - III</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + suppl. Sorveglianza laboratori DNA</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + suppl. divisione principale Servizi</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Segreteria divisione principale Servizi</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. N-SIS</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + suppl. Sistemi nazionali di polizia</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. Sistemi di polizia I</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. Ricerca di persone RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">G</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. Ricerca di oggetti RIPOL</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td>Capo + suppl. divisione Documenti d’identità e compiti speciali</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="21">**fedpol – Servizio federale di sicurezza (SFS)**</td></tr>
-<tr><td>Capodivisione, redattore</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. settore Analisi dei rischi</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. divisioni Protezione persone della Confederazione e rappresentanze estere, Protezione visite e conferenze internazionali, Guardie di sicurezza dell’aviazione</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. divisione Protezione visite e conferenze internazionali</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
-<tr><td colspan="21">**fedpol – Stato maggiore**</td></tr>
-<tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Servizio giuridico</td><td>G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td>Capo + collab. MROS</td><td>G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="3">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
-<tr><td colspan="21">**SIC**</td></tr>
-<tr><td>Valutazione / Analisi</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="4">G</td><td>–</td></tr>
-<tr><td>Servizio degli stranieri</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="4">G</td><td>–</td></tr>
-<tr><td>Acquisizione</td><td>G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="4">G</td><td>–</td></tr>
-<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td>A</td><td colspan="4">G</td><td>–</td></tr>
-<tr><td>Capo + collab. SIC</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="4">G</td><td>–</td></tr>
-<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="4">–</td><td>–</td></tr>
-<tr><td>Settore Sicurezza</td><td>P</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="4">G</td><td>–</td></tr>
+<tr><th>Servizio</th><th colspan="3">PV</th><th></th><th>JO</th><th colspan="2"></th><th colspan="2"></th><th>AN</th><th>PR</th><th colspan="2">ER</th><th colspan="2">GA</th><th colspan="3">Intranet</th><th></th><th colspan="2">Denaro falso</th></tr>
+<tr><th></th><th colspan="2">Persone e procedimenti</th><th colspan="2">Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th colspan="2">Dettagli Giornale</th><th colspan="2">Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th colspan="2">Verbali degli avvenimenti Verbali quotidiani</th><th colspan="2">Gestione delle pratiche e degli atti</th><th colspan="2">Mail</th><th colspan="2">Informazioni di polizia</th><th colspan="2">Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="22">fedpol – Servizi</td></tr>
+<tr><td>Sistemi di polizia (analista informatico)</td><td colspan="2">D</td><td colspan="2">G</td><td>D</td><td colspan="2">D</td><td colspan="2">G</td><td>G</td><td>D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td></tr>
+<tr><td>Sezione Tifoseria violenta</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>A\*</td><td colspan="2">A\*</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>[tab] Ufficio centrale Armi</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Ufficio centrale Esplosivi</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>KILA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Servizi AFIS DNA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. AFIS I - III</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. Sorveglianza laboratori DNA</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. divisione principale Servizi</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Segreteria divisione principale Servizi</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. N-SIS</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. Sistemi nazionali di polizia</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Sistemi di polizia I</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Ricerca di persone RIPOL</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Ricerca di oggetti RIPOL</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. divisione Documenti d’identità e compiti speciali</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td colspan="22">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
+<tr><td>Capodivisione, redattore</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. settore Analisi dei rischi</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. divisioni Protezione persone della Confederazione e rappresentanze estere, Protezione visite e conferenze internazionali, Guardie di sicurezza dell’aviazione</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. divisione Protezione visite e conferenze internazionali</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td></tr>
+<tr><td colspan="22">fedpol – Stato maggiore</td></tr>
+<tr><td>Consulente per la protezione dei dati + suppl.</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Servizio giuridico</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. MROS</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td colspan="2">–</td></tr>
+<tr><td colspan="23">SIC</td></tr>
+<tr><td>Valutazione / Analisi</td><td>G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
+<tr><td>Servizio degli stranieri</td><td>G</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
+<tr><td>Acquisizione</td><td>G</td><td colspan="3">G</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>G</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
+<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A\*</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. SIC</td><td>–</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
+<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">–</td><td colspan="2">–</td></tr>
+<tr><td>Settore Sicurezza</td><td>P</td><td colspan="3">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>A</td><td colspan="3">G</td><td colspan="2">–</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -941,50 +946,53 @@ Allegato 2*[^t-2]*
 \* = soltanto i dati registrati dalla stessa unità organizzativa
 
 <table>
-<tr><th colspan="4">Servizio</th><th colspan="2">PV</th><th></th><th colspan="2">JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th colspan="2">GA</th><th>Intranet</th><th></th><th>Denaro falso</th></tr>
-<tr><th colspan="4"></th><th colspan="2">Persone e procedimenti</th><th>Valutazione PV (interna)</th><th colspan="2">Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th colspan="2">Gestione delle pratiche e degli atti</th><th>Mail</th><th>Informazioni di polizia</th><th>Tipi di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="19">**CSI-DFGP**</td></tr>
-<tr><td colspan="4">Addetto allo sviluppo del sistema</td><td colspan="2">D</td><td>G</td><td colspan="2">D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td colspan="2">D</td><td>A</td><td>D</td><td>D</td></tr>
-<tr><td colspan="19">**Corpi cantonali di polizia della Svizzera**</td></tr>
-<tr><td colspan="4">Superuser JANUS</td><td colspan="2">D\*</td><td>G</td><td colspan="2">D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Collab. dei corpi di polizia</td><td colspan="2">A\*</td><td>G</td><td colspan="2">A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Analista</td><td colspan="2">A\*</td><td>G</td><td colspan="2">A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Assist. dei corpi di polizia</td><td colspan="2">A\*</td><td>G</td><td colspan="2">A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Assistenza logistica e amministrativa</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Redattore web cantonale</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td colspan="19">**Altre autorità**</td></tr>
-<tr><td colspan="4">Giudice istruttore + procuratore federali</td><td colspan="2">P</td><td>–</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Giudice istruttore + procuratore cantonali</td><td colspan="2">P</td><td>–</td><td colspan="2">G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="4">Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="19">**Ufficio federale della dogana e della sicurezza dei confini**</td></tr>
-<tr><td colspan="4">Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">**Ambito direzionale Perseguimento penale**</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="4">Collab. Inchieste preliminari e Antifrode doganale</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">**Ambito direzionale Analisi dei dati e dei rischi**</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="4">Capo ambito direzionale</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Divisione Analisi dei rischi (capo e collab.)</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Divisione Informazione e situazione (capo e collab.)</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Sezione Sistema di rete d’informazione (capo e collab.)</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">**Ambito direzionale Operazioni**</td><td colspan="2"></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="4">Centrali d’intervento (capo e collab.)</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="4">Uffici di collegamento e CCPD (capo e collab.)</td><td colspan="2">G</td><td>G</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="19">**Ministero pubblico della Confederazione**</td></tr>
-<tr><td colspan="4">Divisione Protezione dello Stato, reati speciali e criminalità organizzata</td><td colspan="2">D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td colspan="4">Divisione Criminalità economica 1 + 2</td><td colspan="2">D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td colspan="4">Centro di competenze economia e finanza</td><td colspan="2">D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td colspan="4">Centro di competenze per l’assistenza giudiziaria</td><td colspan="2">D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td colspan="4">Centri di competenze terrorismo e Diritto penale internazionale</td><td colspan="2">D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td colspan="4">Sedi distaccate di Losanna, Lugano e Zurigo</td><td colspan="2">D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
-<tr><td>*Legenda:*</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="7"></td></tr>
-<tr><td>G (Get)</td><td>=</td><td>consultare</td><td colspan="2"></td><td colspan="3"></td><td colspan="7"></td></tr>
-<tr><td>A (Add)</td><td>=</td><td>consultare</td><td colspan="2">registrare</td><td colspan="3">modificare</td><td colspan="7"></td></tr>
-<tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td colspan="2">registrare</td><td colspan="3">modificare\*</td><td colspan="7"></td></tr>
-<tr><td>D (Delete)</td><td>=</td><td>consultare</td><td colspan="2">registrare</td><td colspan="3">modificare</td><td colspan="7">cancellare</td></tr>
-<tr><td>D\* (Delete)</td><td>=</td><td>consultare</td><td colspan="2">registrare</td><td colspan="3">modificare\*</td><td colspan="7">cancellare\*</td></tr>
-<tr><td>P (Registro nazionale di polizia)</td><td>=</td><td colspan="13">consultare tramite Registro nazionale di polizia, accesso limitato alla categoria Persone PV</td></tr>
+<tr><th>Servizio</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th colspan="2">ER</th><th>GA</th><th>Intranet</th><th></th><th>Denaro falso</th></tr>
+<tr><th></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th colspan="2">Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="14">CSI – DFGP</td></tr>
+<tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td colspan="2">D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
+<tr><td colspan="14">Corpi cantonali di polizia della Svizzera</td></tr>
+<tr><td>Superuser JANUS</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Collab. dei corpi di polizia</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Analista</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Assist. dei corpi di polizia</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Assistenza logistica e amministrativa</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Redattore web cantonale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
+<tr><td colspan="14">Altre autorità</td></tr>
+<tr><td>Giudice istruttore + procuratore federali</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Giudice istruttore + procuratore cantonali</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td colspan="14">Ufficio federale della dogana e della sicurezza dei confini</td></tr>
+<tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">Ambito direzionale Perseguimento penale</td></tr>
+<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">Ambito direzionale Analisi dei dati e dei rischi</td></tr>
+<tr><td>Capo ambito direzionale</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Divisione Analisi dei rischi (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Divisione Informazione e situazione (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sezione Sistema di rete d’informazione (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">Ambito direzionale Operazioni</td></tr>
+<tr><td>Centrali d’intervento (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Uffici di collegamento e CCPD (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="14">Ministero pubblico della Confederazione</td></tr>
+<tr><td>Divisione Protezione dello Stato, reati speciali e criminalità organizzata</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+<tr><td>Divisione Criminalità economica 1 + 2</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+<tr><td>Centro di competenze economia e finanza</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+<tr><td>Centro di competenze per l’assistenza giudiziaria</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+<tr><td>Centri di competenze terrorismo e Diritto penale internazionale</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+<tr><td>Sedi distaccate di Losanna, Lugano e Zurigo</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td colspan="2">D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td><td>D\*\*</td></tr>
+</table>
+
+<table>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
+<tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
+<tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
+<tr><td>D (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td>cancellare</td></tr>
+<tr><td>D\* (Delete)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td>cancellare\*</td></tr>
+<tr><td>P (Registro nazionale di polizia)</td><td>=</td><td colspan="4">consultare tramite Registro nazionale di polizia, accesso limitato alla categoria Persone PV</td></tr>
 </table>
 
 \* = soltanto i dati registrati dalla stessa unità organizzativa
@@ -994,18 +1002,18 @@ Allegato 2*[^t-2]*
 <table>
 <tr><td>Servizio</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
 <tr><td></td><td>Verbalizzazione</td><td>Gestione degli utenti</td><td>Controllo dei dati</td><td>Consegna all’Archivio federale</td></tr>
-<tr><td colspan="5">**fedpol**</td></tr>
+<tr><td colspan="5">fedpol</td></tr>
 <tr><td>Capoprogetto + amministratore di progetto JANUS</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
 <tr><td>Capo + suppl. commissariato Controllo JANUS & IPAS</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
 <tr><td>Collab. commissariato Controllo JANUS & IPAS</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivista fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
-<tr><td colspan="5">**CSI-DFGP**</td></tr>
+<tr><td colspan="5">CSI-DFGP</td></tr>
 <tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1020,8 +1028,8 @@ Allegato 2*[^t-2]*
 
 <table>
 <tr><th>Servizio</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th colspan="2">Intranet</th><th></th><th>Denaro falso</th></tr>
-<tr><th></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th colspan="2">Informazioni di polizia</th><th>Tipi di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="14">**fedpol – Polizia giudiziaria federale (PGF)**</td></tr>
+<tr><th></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th colspan="2">Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="14">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
 <tr><td>Capo PGF + specialista</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Ufficiale inquirente</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Capodivisione</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
@@ -1034,11 +1042,11 @@ Allegato 2*[^t-2]*
 <tr><td>Capo + collab. Polizia scientifica</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Analista PGF</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Superuser PGF</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. commissariato Controllo JANUS & IPAS</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">**A**</td><td>–</td></tr>
+<tr><td>Capo + collab. commissariato Controllo JANUS & IPAS</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">A</td><td>–</td></tr>
 <tr><td>Mandante del progetto</td><td>D</td><td>–</td><td>D</td><td>D</td><td>–</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>SCOCI</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Capo + collab. Servizio di protezione dei testimoni</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td colspan="14">**fedpol – Cooperazione internazionale di polizia (CIP)**</td></tr>
+<tr><td colspan="14">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
 <tr><td>Capo CIP</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Cooperazione operativa di polizia (utenti)</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
 <tr><td>Cooperazione operativa di polizia (superuser)</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td colspan="2">G</td><td>–</td></tr>
@@ -1049,7 +1057,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1061,45 +1069,46 @@ Allegato 2*[^t-2]*
 \* = soltanto i dati registrati dalla stessa unità organizzativa
 
 <table>
-<tr><th>Servizio</th><th colspan="2">PV</th><th colspan="2"></th><th colspan="2">JO</th><th></th><th></th><th colspan="2">AN</th><th colspan="2">PR</th><th>ER</th><th colspan="2">GA</th><th colspan="2">Intranet</th><th colspan="2"></th><th>Denaro falso</th></tr>
-<tr><th></th><th colspan="2">Persone e procedimenti</th><th colspan="2">Valutazione PV (interna)</th><th colspan="2">Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th colspan="2">Analisi (con strumenti di analisi)</th><th colspan="2">Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th colspan="2">Gestione delle pratiche e degli atti</th><th colspan="2">Mail</th><th colspan="2">Informazioni di polizia</th><th>Tipi di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="21">**fedpol – Servizi**</td></tr>
-<tr><td>Sistemi di polizia (analista informatico)</td><td colspan="2">D</td><td colspan="2">G</td><td colspan="2">D</td><td>D</td><td>G</td><td colspan="2">G</td><td colspan="2">D</td><td>D</td><td colspan="2">D</td><td colspan="2">D</td><td colspan="2">D</td><td>D</td></tr>
-<tr><td>Sezione Tifoseria violenta</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">–</td><td>G</td><td>G</td><td colspan="2">–</td><td colspan="2">A\*</td><td>A\*</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Uffici centrali Armi, Esplosivi e pirotecnica</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>KILA</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. Servizi AFIS DNA</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + collab. AFIS I - III</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + suppl. Sorveglianza laboratori DNA</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + suppl. divisione principale Servizi</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Segreteria divisione principale Servizi</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + collab. N-SIS</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + suppl. Sistemi nazionali di polizia</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + collab. Sistemi di polizia I</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + collab. Ricerca di persone RIPOL</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + collab. Ricerca di oggetti RIPOL</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td>Capo + suppl. divisione Documenti d’identità e compiti speciali</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">–</td><td>–</td></tr>
-<tr><td colspan="21">**fedpol – Servizio federale di sicurezza (SFS)**</td></tr>
-<tr><td>Capodivisione, redattore</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. settore Analisi dei rischi</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. divisioni Protezione persone della Confederazione e rappresentanze estere, Protezione visite e conferenze internazionali, Guardie di sicurezza dell’aviazione</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. divisione Protezione visite e conferenze internazionali</td><td colspan="2">-</td><td colspan="2">-</td><td colspan="2">-</td><td>-</td><td>-</td><td colspan="2">-</td><td colspan="2">-</td><td>-</td><td colspan="2">-</td><td colspan="2">A</td><td colspan="2">-</td><td>-</td></tr>
-<tr><td colspan="21">**fedpol – Stato maggiore**</td></tr>
-<tr><td>Consulente per la protezione dei dati + suppl.</td><td colspan="2">G</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td colspan="2">G</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Servizio giuridico</td><td colspan="2">G</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td>Capo + collab. MROS</td><td colspan="2">G</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">A\*</td><td colspan="2">A</td><td colspan="2">G</td><td>–</td></tr>
-<tr><td colspan="21">**SIC**</td></tr>
-<tr><td colspan="2">Valutazione / Analisi</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Servizio degli stranieri</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Acquisizione</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">G</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Rilevamento dei dati / smistamento</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">A\*</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Capo + collab. SIC</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="2">Consulente per la protezione dei dati SIC</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="2">Settore Sicurezza</td><td colspan="2">P</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">A</td><td>G</td><td>–</td></tr>
+<tr><th>Servizio</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th colspan="2">Denaro falso</th></tr>
+<tr><th></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th>Informazioni di polizia</th><th colspan="2">Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="14">fedpol – Servizi</td></tr>
+<tr><td>Sistemi di polizia (analista informatico)</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>D</td><td colspan="2">D</td></tr>
+<tr><td>Sezione Tifoseria violenta</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Ufficio centrale Armi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Ufficio centrale Esplosivi</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>KILA</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Servizi AFIS DNA</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. AFIS I - III</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. Sorveglianza laboratori DNA</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. divisione principale Servizi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Segreteria divisione principale Servizi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. N-SIS</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td></td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. Sistemi nazionali di polizia</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Sistemi di polizia I</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Ricerca di persone RIPOL</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>G</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. Ricerca di oggetti RIPOL</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>Capo + suppl. divisione Documenti d’identità e compiti speciali</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td colspan="14">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
+<tr><td>Capodivisione, redattore</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. settore Analisi dei rischi</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. divisioni Protezione persone della Confederazione e rappresentanze estere, Protezione visite e conferenze internazionali, Guardie di sicurezza dell’aviazione</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. divisione Protezione visite e conferenze internazionali</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td colspan="14">fedpol – Stato maggiore</td></tr>
+<tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Servizio giuridico</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td>Capo + collab. MROS</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td colspan="2">–</td></tr>
+<tr><td colspan="13">SIC</td></tr>
+<tr><td>Valutazione / Analisi</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Servizio degli stranieri</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Acquisizione</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Rilevamento dei dati / smistamento</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Capo + collab. SIC</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Consulente per la protezione dei dati SIC</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td>Settore Sicurezza</td><td>P</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><th>*Legenda:*</th><th></th><th></th><th></th><th></th><th></th></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1111,42 +1120,42 @@ Allegato 2*[^t-2]*
 \* = soltanto i dati registrati dalla stessa unità organizzativa
 
 <table>
-<tr><th>Servizio</th><th colspan="2">PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th>Denaro falso</th></tr>
-<tr><th></th><th>Persone e procedimenti</th><th colspan="2">Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th>Informazioni di polizia</th><th>Tipi di denaro falso e tecniche di falsificazione</th></tr>
-<tr><td colspan="14">**CSI-DFGP**</td></tr>
-<tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td colspan="2">G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
-<tr><td colspan="14">**Corpi cantonali di polizia della Svizzera**</td></tr>
-<tr><td>Superuser JANUS</td><td>D\*</td><td colspan="2">G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Collab. dei corpi di polizia</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Analista</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Assist. dei corpi di polizia</td><td>A\*</td><td colspan="2">G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Assistenza logistica e amministrativa</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Redattore web cantonale</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
-<tr><td colspan="14">**Altre autorità**</td></tr>
-<tr><td>Giudice istruttore + procuratore federali</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Giudice istruttore + procuratore cantonali</td><td>P</td><td colspan="2">–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
-<tr><td colspan="14">**Ufficio federale della dogana e della sicurezza dei confini**</td></tr>
-<tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**Ambito direzionale Perseguimento penale**</td></tr>
-<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**Ambito direzionale Analisi dei dati e dei rischi**</td></tr>
-<tr><td>Capo ambito direzionale</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Divisione Analisi dei rischi (capo e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Divisione Informazione e situazione (capo e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Sezione Sistema di rete d’informazione (capo e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**Ambito direzionale Operazioni**</td></tr>
-<tr><td>Centrali d’intervento (capo e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td>Uffici di collegamento e CCPD (capo e collab.)</td><td>G</td><td colspan="2">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
-<tr><td colspan="14">**Autorità cantonali**</td></tr>
-<tr><td>Polizia degli stranieri della città di Berna (PolStr Berna)</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><th>Servizio</th><th>PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>PR</th><th>ER</th><th>GA</th><th>Intranet</th><th></th><th>Denaro falso</th></tr>
+<tr><th></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Sistema di rapporti di polizia</th><th>Verbali degli avvenimenti Verbali quotidiani</th><th>Gestione delle pratiche e degli atti</th><th>Mail</th><th>Informazioni di polizia</th><th>Tipo di denaro falso e tecniche di falsificazione</th></tr>
+<tr><td colspan="13">CSI – DFGP</td></tr>
+<tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>G</td><td>D</td><td>D</td><td>G</td><td>D</td><td>D</td><td>D</td><td>D</td><td>A</td><td>D</td><td>D</td></tr>
+<tr><td colspan="13">Corpi cantonali di polizia della Svizzera</td></tr>
+<tr><td>Superuser JANUS</td><td>D\*</td><td>G</td><td>D\*</td><td>D\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Collab. dei corpi di polizia</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Analista</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Assist. dei corpi di polizia</td><td>A\*</td><td>G</td><td>A\*</td><td>A\*</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Assistenza logistica e amministrativa</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Redattore web cantonale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>D\*</td><td>–</td></tr>
+<tr><td colspan="13">Altre autorità</td></tr>
+<tr><td>Giudice istruttore + procuratore federali</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Giudice istruttore + procuratore cantonali</td><td>P</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td>Ufficio federale di giustizia UFG, Ambito direzionale Assistenza giudiziaria internazionale</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A\*</td><td>A</td><td>–</td><td>–</td></tr>
+<tr><td colspan="13">Ufficio federale della dogana e della sicurezza dei confini</td></tr>
+<tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">Ambito direzionale Perseguimento penale</td></tr>
+<tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">Ambito direzionale Analisi dei dati e dei rischi</td></tr>
+<tr><td>Capo ambito direzionale</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Divisione Analisi dei rischi (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Divisione Informazione e situazione (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Sezione Sistema di rete d’informazione (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">Ambito direzionale Operazioni</td></tr>
+<tr><td>Centrali d’intervento (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td>Uffici di collegamento e CCPD (capo e collab.)</td><td>G</td><td>G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
+<tr><td colspan="13">Autorità cantonali</td></tr>
+<tr><td>Polizia degli stranieri della città di Berna (PolStr Berna)</td><td>G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td><td>–</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1160,18 +1169,18 @@ Allegato 2*[^t-2]*
 <table>
 <tr><td>Servizio</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
 <tr><td></td><td>Verbalizzazione</td><td>Gestione degli utenti</td><td>Controllo dei dati</td><td>Consegna all’Archivio federale</td></tr>
-<tr><td colspan="5">**fedpol**</td></tr>
+<tr><td colspan="5">fedpol</td></tr>
 <tr><td>Capoprogetto + amministratore di progetto JANUS</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
 <tr><td>Capo + suppl. commissariato Controllo JANUS & IPAS</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
 <tr><td>Collab. commissariato Controllo JANUS & IPAS</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivista fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
-<tr><td colspan="5">**CSI-DFGP**</td></tr>
+<tr><td colspan="5">CSI-DFGP</td></tr>
 <tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1187,7 +1196,7 @@ Allegato 2*[^t-2]*
 <table>
 <tr><th>Servizio</th><th colspan="2">PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>Intranet</th><th></th></tr>
 <tr><th></th><th>Persone e procedimenti</th><th colspan="2">Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Mail</th><th>Informazioni di polizia</th></tr>
-<tr><td colspan="10">**fedpol – Polizia giudiziaria federale (PGF)**</td></tr>
+<tr><td colspan="10">fedpol – Polizia giudiziaria federale (PGF)</td></tr>
 <tr><td>Capo PGF + specialista</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Ufficiale inquirente</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capodivisione</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
@@ -1204,7 +1213,7 @@ Allegato 2*[^t-2]*
 <tr><td>Mandante del progetto</td><td>D</td><td colspan="2">–</td><td>D</td><td>D</td><td>–</td><td>G</td><td>A</td><td>G</td></tr>
 <tr><td>SCOCI</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capo + collab. Servizio di protezione dei testimoni</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="10">**fedpol – Cooperazione internazionale di polizia (CIP)**</td></tr>
+<tr><td colspan="10">fedpol – Cooperazione internazionale di polizia (CIP)</td></tr>
 <tr><td>Capo CIP</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Cooperazione operativa di polizia (utenti)</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Cooperazione operativa di polizia (superuser)</td><td>G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
@@ -1215,7 +1224,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1229,10 +1238,11 @@ Allegato 2*[^t-2]*
 <table>
 <tr><th>Servizio</th><th colspan="3">PV</th><th></th><th>JO</th><th></th><th></th><th>AN</th><th>Intranet</th><th></th></tr>
 <tr><th></th><th>Personee procedimenti</th><th colspan="3">Valutazione PV (interna)</th><th>Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th>Analisi (con strumenti di analisi)</th><th>Mail</th><th>Informazioni di polizia</th></tr>
-<tr><td colspan="11">**fedpol – Servizi**</td></tr>
+<tr><td colspan="11">fedpol – Servizi</td></tr>
 <tr><td>Sistemi di polizia (analista informatico)</td><td>D</td><td colspan="3">G</td><td>D</td><td>D</td><td>G</td><td>G</td><td>D</td><td>D</td></tr>
 <tr><td>Sezione Tifoseria violenta</td><td>G</td><td colspan="3">G</td><td>–</td><td>G</td><td>G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td>Uffici centrali Armi, Esplosivi e pirotecnica</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Ufficio centrale Armi</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
+<tr><td>Ufficio centrale Esplosivi</td><td>G</td><td colspan="3">G</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>KILA</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capo + collab. Servizi AFIS DNA</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 <tr><td>Capo + collab. AFIS I - III</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
@@ -1245,16 +1255,16 @@ Allegato 2*[^t-2]*
 <tr><td>Capo + collab. Ricerca di persone RIPOL</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 <tr><td>Capo + collab. Ricerca di oggetti RIPOL</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
 <tr><td>Capo + suppl. divisione Documenti d’identità e compiti speciali</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="11">**fedpol – Servizio federale di sicurezza (SFS)**</td></tr>
+<tr><td colspan="11">fedpol – Servizio federale di sicurezza (SFS)</td></tr>
 <tr><td>Capodivisione, redattore</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capo + collab. settore Analisi dei rischi</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capo + collab. divisioni Protezione persone della Confederazione e rappresentanze estere, Protezione visite e conferenze internazionali, Guardie di sicurezza dell’aviazione</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capo + collab. divisione Protezione visite e conferenze internazionali</td><td>–</td><td colspan="3">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>–</td></tr>
-<tr><td colspan="11">**fedpol – Stato maggiore**</td></tr>
+<tr><td colspan="11">fedpol – Stato maggiore</td></tr>
 <tr><td>Consulente per la protezione dei dati + suppl.</td><td colspan="2">G</td><td colspan="2">G</td><td>G</td><td>G</td><td>G</td><td>G</td><td>A</td><td>G</td></tr>
 <tr><td>Servizio giuridico</td><td colspan="2">P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Capo + collab. MROS</td><td colspan="2">G</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="11">**SIC**</td></tr>
+<tr><td colspan="11">SIC</td></tr>
 <tr><td>Valutazione / Analisi</td><td colspan="2">P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Servizio degli stranieri</td><td colspan="2">P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Acquisizione</td><td colspan="2">P</td><td colspan="2">–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>A</td><td>G</td></tr>
@@ -1265,7 +1275,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1279,9 +1289,9 @@ Allegato 2*[^t-2]*
 <table>
 <tr><th colspan="2">Servizio</th><th>PV</th><th></th><th colspan="2">JO</th><th></th><th></th><th colspan="2">AN</th><th>Intranet</th><th></th></tr>
 <tr><th colspan="2"></th><th>Persone e procedimenti</th><th>Valutazione PV (interna)</th><th colspan="2">Dettagli Controllo telefonico</th><th>Dettagli Giornale</th><th>Valutazione JO (interna)</th><th colspan="2">Analisi (con strumenti di analisi)</th><th>Mail</th><th>Informazioni di polizia</th></tr>
-<tr><td colspan="11">**CSI-DFGP**</td><td></td></tr>
+<tr><td colspan="11">CSI-DFGP</td><td></td></tr>
 <tr><td colspan="2">Addetto allo sviluppo del sistema</td><td>D</td><td>G</td><td colspan="2">D</td><td>D</td><td>G</td><td colspan="2">D</td><td>A</td><td>D</td></tr>
-<tr><td colspan="11">**Corpi cantonali di polizia della Svizzera**</td><td></td></tr>
+<tr><td colspan="11">Corpi cantonali di polizia della Svizzera</td><td></td></tr>
 <tr><td colspan="2">Superuser JANUS</td><td>D\*</td><td>G</td><td colspan="2">D\*</td><td>D\*</td><td>G</td><td colspan="2">G</td><td>A</td><td>G</td></tr>
 <tr><td colspan="2">Collab. dei corpi di polizia</td><td>A\*</td><td>G</td><td colspan="2">A\*</td><td>A\*</td><td>G</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
 <tr><td colspan="2">Analista</td><td>A\*</td><td>G</td><td colspan="2">A\*</td><td>A\*</td><td>G</td><td colspan="2">G</td><td>A</td><td>G</td></tr>
@@ -1289,7 +1299,7 @@ Allegato 2*[^t-2]*
 <tr><td colspan="2">Altri collab. dei corpi di polizia (IT, segreteria ecc.)</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
 <tr><td colspan="2">Assistenza logistica e amministrativa</td><td>P</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>–</td></tr>
 <tr><td colspan="2">Redattore web cantonale</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>D\*</td></tr>
-<tr><td colspan="11">**Altre autorità**</td><td></td></tr>
+<tr><td colspan="11">Altre autorità</td><td></td></tr>
 <tr><td colspan="2">Giudice istruttore + procuratore federali</td><td>P</td><td>–</td><td colspan="2">G</td><td>G</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
 <tr><td colspan="2">Giudice istruttore + procuratore cantonali</td><td>P</td><td>–</td><td colspan="2">G</td><td>G</td><td>–</td><td colspan="2">–</td><td>A</td><td>G</td></tr>
 <tr><td colspan="2">Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni SCPT (CSI-DFGP)</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>A</td><td>–</td></tr>
@@ -1297,20 +1307,20 @@ Allegato 2*[^t-2]*
 <tr><td colspan="12">**Ufficio federale della dogana e della sicurezza dei confini**</td></tr>
 <tr><td>Responsabili specialistici delle applicazioni per i sistemi di controllo al confine</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Responsabili tecnici delle applicazioni per i sistemi di controllo al confine</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">–</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="12">**Ambito direzionale Perseguimento penale**</td></tr>
+<tr><td colspan="12">Ambito direzionale Perseguimento penale</td></tr>
 <tr><td>Collab. Inchieste preliminari e Antifrode doganale</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td><td>G</td></tr>
-<tr><td colspan="12">**Ambito direzionale Analisi dei dati e dei rischi**</td></tr>
+<tr><td colspan="12">Ambito direzionale Analisi dei dati e dei rischi</td></tr>
 <tr><td>Capo ambito direzionale</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Divisione Analisi dei rischi (capo e collab.)</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td><td>G</td></tr>
 <tr><td>Divisione Informazione e situazione (capo e collab.)</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td><td>G</td></tr>
 <tr><td>Sezione Sistema di rete d’informazione (capo e collab.)</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>G</td><td>A</td><td>G</td></tr>
-<tr><td colspan="12">**Ambito direzionale Operazioni**</td></tr>
+<tr><td colspan="12">Ambito direzionale Operazioni</td></tr>
 <tr><td>Centrali d’intervento (capo e collab.)</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td><td>G</td></tr>
 <tr><td>Uffici di collegamento e CCPD (capo e collab.)</td><td colspan="2">G</td><td colspan="2">G</td><td>–</td><td>G</td><td colspan="2">G</td><td>–</td><td>A</td><td>G</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1324,21 +1334,21 @@ Allegato 2*[^t-2]*
 <table>
 <tr><td>Servizio</td><td>PROT</td><td>ADMIN</td><td>KONTR</td><td>BAR</td></tr>
 <tr><td></td><td>Verbalizzazione</td><td>Gestione degli utenti</td><td>Controllo dei dati</td><td>Consegna all’Archivio federale</td></tr>
-<tr><td colspan="5">**Corpi cantonali di polizia della Svizzera**</td></tr>
+<tr><td colspan="5">Corpi cantonali di polizia della Svizzera</td></tr>
 <tr><td>Consulente cantonale per la protezione dei dati + suppl.</td><td>G\*</td><td>–</td><td>G\*</td><td>–</td></tr>
 <tr><td>Archivisti dei corpi cantonali di polizia</td><td>–</td><td>–</td><td>–</td><td>D\*</td></tr>
-<tr><td colspan="5">**fedpol**</td></tr>
+<tr><td colspan="5">fedpol</td></tr>
 <tr><td>Capoprogetto + amministratore di progetto JANUS</td><td>G</td><td>D</td><td>G</td><td>–</td></tr>
 <tr><td>Capo + suppl. commissariato Controllo JANUS & IPAS</td><td>D</td><td>G</td><td>D</td><td>G</td></tr>
 <tr><td>Collab. commissariato Controllo JANUS & IPAS</td><td>–</td><td>–</td><td>D</td><td>–</td></tr>
 <tr><td>Consulente per la protezione dei dati + suppl.</td><td>G</td><td>G</td><td>G</td><td>–</td></tr>
 <tr><td>Archivista fedpol</td><td>–</td><td>–</td><td>–</td><td>D</td></tr>
-<tr><td colspan="5">**CSI-DFGP**</td></tr>
+<tr><td colspan="5">CSI-DFGP</td></tr>
 <tr><td>Addetto allo sviluppo del sistema</td><td>D</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1353,16 +1363,16 @@ Allegato 2*[^t-2]*
 
 <table>
 <tr><th>Servizio</th><th>PROT</th><th>ADMIN</th><th>Piattaforma di valutazione generale</th></tr>
-<tr><td colspan="4">**fedpol**</td></tr>
+<tr><td colspan="4">fedpol</td></tr>
 <tr><td>Indagini forensi e informatiche (commissariati II + III)</td><td></td><td>D</td><td>D</td></tr>
 <tr><td>**CSI-DFGP**</td><td></td><td></td><td></td></tr>
 <tr><td>Servizi con compiti tecnici del CSI-DFGP</td><td>D</td><td></td><td>D</td></tr>
-<tr><td colspan="4">**Ministero pubblico della Confederazione**</td></tr>
+<tr><td colspan="4">Ministero pubblico della Confederazione</td></tr>
 <tr><td>Direzione del procedimento</td><td>D</td><td>D</td><td>D</td></tr>
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1389,7 +1399,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1435,7 +1445,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1473,7 +1483,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1497,7 +1507,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
@@ -1519,7 +1529,7 @@ Allegato 2*[^t-2]*
 </table>
 
 <table>
-<tr><td>*Legenda:*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Legenda:</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>G (Get)</td><td>=</td><td>consultare</td><td></td><td></td><td></td></tr>
 <tr><td>A (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare</td><td></td></tr>
 <tr><td>A\* (Add)</td><td>=</td><td>consultare</td><td>registrare</td><td>modificare\*</td><td></td></tr>
