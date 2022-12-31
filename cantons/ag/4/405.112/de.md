@@ -4,13 +4,13 @@ number: "405.112"
 title: Verordnung über die Schuldienste
 short: V Schuldienste
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-15
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-09-07
 adopted: 2017-05-03
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/405.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3196/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3196/pdf_file"
 
 (V Schuldienste)
 
-Vom 03.05.2017 (Stand 01.01.2022)
+Vom 03.05.2017 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -129,7 +129,7 @@ beschliesst:
 
 - a) Bereitstellen von Informationen und Auskunftserteilung zum Bildungs- und Berufsangebot,
 - b) Einzelberatungen für Personen bis zum vollendeten 25. Altersjahr und für Personen ohne abgeschlossene Ausbildung auf Sekundarstufe II,
-- b<sup>bis</sup>) Standortbestimmungen und Potentialabklärungen für Personen ab dem vollendeten 40. Altersjahr im Rahmen des Programms viamia zur Erhaltung oder Verbesserung der Arbeitsmarktfähigkeit,[^10-1]
+- b<sup>bis</sup>) Standortbestimmungen und Potentialabklärungen für Personen ab dem vollendeten 40. Altersjahr im Rahmen des Programms viamia zur Erhaltung oder Verbesserung der Arbeitsmarktfähigkeit,
 - c) Gruppenberatungen,
 - d) Informationsveranstaltungen.
 
@@ -153,8 +153,6 @@ beschliesst:
 <sup>4</sup> Das unentgeltliche Grundangebot gemäss den Absätzen 1 und 2 wird in enger Zusammenarbeit mit den Schulen und Ausbildungsbetrieben erbracht.
 
 <sup>5</sup> Das unentgeltliche Grundangebot der Lehrpersonenberatung gemäss Absatz 3 lit. c–e ist pro Person auf höchstens 270 Minuten innert drei Jahren begrenzt.
-
-[^10-1]: Diese Bestimmung gilt vom 1. Januar 2022 bis 31. Dezember 2022.
 
 #### § 11
 
@@ -433,6 +431,8 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Die §§ 1–18 und 37 dieser Verordnung treten am 1. Januar 2018 in Kraft, die §§ 19–36 am 1. August 2018.
+
+<sup>2</sup> Die Geltungsdauer von § 10 Abs. 1 lit. b<sup>bis</sup> wird bis 31. Dezember 2024 verlängert.
 
 Aarau, 3. Mai 2017
 
