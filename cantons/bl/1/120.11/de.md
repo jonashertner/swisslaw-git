@@ -4,20 +4,22 @@ number: "120.11"
 title: Verordnung zum Gesetz über die politischen Rechte
 short: Vo GpR
 language: de
-version: 2022-04-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-22
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-18
 adopted: 1991-12-17
 in_force: 1992-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/120.11"
-pdf: "https://bl.clex.ch/api/de/versions/3287/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die politischen Rechte
 
-Vom 17.12.1991 (Stand 01.04.2022)
+(Vo GpR)
+
+Vom 17.12.1991 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -25,7 +27,7 @@ gestützt auf § 98 des Gesetzes über die politischen Rechte in der Fassung vom
 
 beschliesst:
 
-[^ingress-1]: GS 30.763, SGS [120](https://bl.clex.ch/data/120/de/art98)
+[^ingress-1]: [SGS 120](https://bl.clex.ch/data/120/de/art98)
 
 #### § 1
 
@@ -33,19 +35,24 @@ beschliesst:
 
 <sup>1</sup> Die Ansetzung von kantonalen Abstimmungen und Wahlen ist in der Regel mindestens 12 Wochen vor dem Abstimmungs- bzw. Wahltag im Amtsblatt bekanntzugeben. Gemeindeabstimmungen und -wahlen sind rechtzeitig in geeigneter Weise bekanntzugeben.
 
-<sup>2</sup> In der Bekanntgabe der Ansetzung von Wahlen ist auf die Fristen für die Einreichung von Wahlvorschlägen gemäss den §§ 30 und 33 des Gesetzes aufmerksam zu machen.
+<sup>2</sup> In der Bekanntgabe der Ansetzung von Wahlen ist auf die Fristen für die Einreichung von Wahlvorschlägen gemäss den §§ 27a, 30 und 33 des Gesetzes aufmerksam zu machen.
 
 <sup>3</sup> Für die Ansetzung der periodischen Neuwahlen der Gemeinden gibt die Landeskanzlei eine Terminempfehlung ab.
 
 #### § 2
 
-**Stimmrechtsausweis**
+**Stimmrechtsausweis und Antwortkuvert**
 
-<sup>1</sup> Die Gemeinden haben den Stimmrechtsausweis als Couvert auszugestalten, welches einmal oder für höchstens 1 Jahr gültig ist.
+<sup>1</sup> Die Gemeinden können den Stimmrechtsausweis als Kuvert ausgestalten.
 
-<sup>2</sup> Das für 1 Jahr gültige Stimmrecht-Couvert ist jeweils mit dem Datum des Abstimmungs- oder Wahltages zu versehen.
+<sup>2</sup> Der Stimmrechtsausweis ist jeweils mit dem Datum des Abstimmungs- oder Wahltags zu versehen.
 
-<sup>3</sup> Das Stimmrecht-Couvert ist ausserdem mit Hinweisen auf die Öffnungszeiten des Wahllokals und die briefliche Stimmabgabe zu versehen. Gemeinden, welche die Vorlagen und Erläuterungen pro Haushalt nur einmal zustellen, haben auf dem Stimmrecht-Couvert zudem auf die Möglichkeit der persönlichen Zustellung der Vorlagen und Erläuterungen hinzuweisen.
+<sup>3</sup> Die Stimmberechtigten erhalten insbesondere folgende Informationen und Hinweise:
+
+- a. Öffnungszeiten des Wahllokals;
+- b. Zeitraum für die briefliche Stimmabgabe;
+- c. Möglichkeit der persönlichen Zustellung, sofern die Vorlagen und Erläuterungen nur einmal pro Haushalt zugestellt werden;
+- d. Stimm- und Wahlzettel sind zur Wahrung des Stimmgeheimnisses im beigelegten Stimmzettelkuvert zu verschliessen und anschliessend in das Antwortkuvert zu legen.
 
 #### § 3
 
@@ -55,13 +62,19 @@ beschliesst:
 
 <sup>2</sup> Wahlzettel für das Verhältniswahlverfahren dürfen über die Kandidatinnen und Kandidaten höchstens folgende Angaben enthalten: Vorname, Name, Geburtsjahr, Beruf oder Tätigkeit, Wohnort und gegebenenfalls den Zusatz «bisher». Die Landeskanzlei bzw. die Gemeindeverwaltung ordnet jeder Kandidatin und jedem Kandidaten eine Kennziffer zu.
 
-[^3-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^3-1]: [SR 311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+#### § 3a
+
+**Stimm- und Wahlunterlagen**
+
+<sup>1</sup> Wer das Antwortkuvert, den Stimmrechtsausweis, die Stimm- oder Wahlzettel, das zusätzliche Stimmzettelkuvert, die Vorlagen und Erläuterungen oder ein allfälliges Informationsblatt nicht erhalten hat, muss diese Unterlagen bis spätestens zum 5. Tag vor dem Abstimmungs- bzw. Wahltag auf der Gemeindeverwaltung verlangen.
 
 #### § 4
 
 **Stimmregister**
 
-<sup>1</sup> Das Stimmregister (Verzeichnis der Stimmberechtigten) ist in jeder Einwohnergemeinde zu führen. Der Gemeinderat bezeichnet einen Stimmregisterführer oder eine Stimmregisterführerin.
+<sup>1</sup> Das Stimmregister (Verzeichnis der Stimmberechtigten) ist in jeder Einwohnergemeinde zu führen.
 
 <sup>2</sup> Das Stimmregister über die stimmberechtigten Auslandschweizerinnen und Auslandschweizer ist elektronisch sowie mit den Daten zu folgenden Merkmalen zu führen:
 
@@ -71,9 +84,9 @@ beschliesst:
 - d. Zustelladresse einschliesslich Postleitzahl, Ort und Land;
 - e. Geburtsdatum und Geburtsort;
 - f. Heimatorte;
-- g. Eltern mit jeweils amtlichem Namen und Vornamen.
+- g. …
 
-[^4-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
+[^4-1]: [SR 831.10](https://db.clex.ch/link/Bund/831.10/de)
 
 #### § 5
 
@@ -99,25 +112,38 @@ beschliesst:
 
 **Briefliche Stimmabgabe**
 
-<sup>1</sup> Die stimmberechtigte Person, welche brieflich stimmen will, verschliesst den ausgefüllten Stimm- bzw. Wahlzettel in einem Umschlag mit der Aufschrift «Stimm-/Wahlzettel». Diesen Umschlag legt sie in das Stimmrecht-Couvert. Dieses muss zur Gültigkeit die eigenhändige Unterschrift der stimmberechtigten Person aufweisen.
+<sup>1</sup> Bei der brieflichen Stimmabgabe verschliesst die stimmberechtigte Person die Stimm- bzw. Wahlzettel im beigelegten Stimmzettelkuvert und legt dieses zusammen mit dem unterschriebenen Stimmrechtsausweis in das Antwortkuvert.
 
-<sup>2</sup> Das Stimmrecht-Couvert ist verschlossen in der Gemeindekanzlei abzugeben, in deren Briefkasten einzuwerfen oder bei einer Poststelle aufzugeben. Das Stimmrecht-Couvert darf nachträglich weder zurückgegeben noch verändert werden.
+<sup>2</sup> Das Antwortkuvert ist verschlossen in der Gemeindeverwaltung abzugeben, in deren Briefkasten einzuwerfen oder bei einer Poststelle aufzugeben. Das Antwortkuvert darf nachträglich weder zurückgegeben noch verändert werden.
 
 #### § 8
 
 **Behandlung der brieflichen Stimmabgaben**
 
-<sup>1</sup> Die Stimmrecht-Couverts dürfen frühestens am 2. Vortag des Abstimmungs- bzw. Wahltags ab 18 Uhr in Anwesenheit von mindestens 3 Mitgliedern des Wahlbüros geöffnet werden. Die Stimmrecht-Couverts und die Umschläge mit den Stimm- bzw. Wahlzetteln sind zu trennen und gesondert aufzuschichten.
+<sup>1</sup> Die Antwortkuverts dürfen frühestens am 2. Tag vor dem Abstimmungs- bzw. Wahltag ab 18.00 Uhr in Anwesenheit von mindestens 3 Mitgliedern des Wahlbüros ausgepackt werden. Die Stimmrechtsausweise und die Stimmzettelkuverts mit den Stimm- und Wahlzetteln sind zu trennen und gesondert aufzuschichten, bevor die Stimm- und Wahlzettel ausgepackt werden.
 
-<sup>2</sup> Hierauf werden die Umschläge geöffnet, und es wird kontrolliert, ob für jede Abstimmung oder Wahl nur je ein Zettel vorhanden ist. Ist dies der Fall, so werden die Zettel auf der Rückseite gekennzeichnet.
+<sup>2</sup> Bis zum Abstimmungs- bzw. Wahltag können:
 
-<sup>3</sup> Haben Stimmberechtigte für die gleiche Abstimmung oder Wahl mehrere Zettel in den Umschlag gelegt, so wird einer davon gekennzeichnet und als «ungültig weil mehrfach» bezeichnet. Die übrigen werden vernichtet.
+- a. die Stimm- und Wahlzettel auf ihre Gültigkeit geprüft und entsprechend gekennzeichnet werden;
+- b. die Stimm- und Wahlzettel nach Abstimmung und Wahl sortiert werden;
+- c. die Stimmrechtsausweise sowie die leeren und ungültigen Stimm- und Wahlzettel gezählt werden;
+- d. bei Verhältniswahlverfahren pro Partei veränderte und unveränderte gültige Wahlzettel sortiert werden.
 
-<sup>4</sup> Die brieflichen Stimmabgaben werden sodann sofort uneingesehen in die Urnen geworfen.
+<sup>3</sup> …
 
-<sup>5</sup> Mit der Auszählung der brieflich abgegebenen Stimmen darf erst am Abstimmungs- oder Wahltag begonnen werden.
+<sup>4</sup> Die brieflich abgegebenen Stimmen sind bis zur Auszählung sicher und verschlossen aufzubewahren. Der Zugriff auf die brieflich abgegebenen Stimmen darf nur durch das Wahlbüropräsidium in Begleitung eines Wahlbüromitglieds erfolgen. Ein Zugriff muss ersichtlich sein.
+
+<sup>5</sup> Mit der Auszählung der brieflich abgegebenen gültigen Stimmen darf erst am Abstimmungs- oder Wahltag begonnen werden.
 
 <sup>6</sup> Vor der Schliessung des Wahllokals am Abstimmungs- bzw. Wahltag dürfen keine Ergebnisse oder Teilergebnisse bekanntgegeben werden.
+
+#### § 8a
+
+**Behandlung ungültiger Stimmen und Zettel**
+
+<sup>1</sup> Haben Stimmberechtigte für die gleiche Abstimmung oder Wahl mehrere Zettel in das Stimmzettelkuvert gelegt, so wird einer davon gekennzeichnet und als «ungültig, weil mehrfach» bezeichnet. Die übrigen werden vernichtet.
+
+<sup>2</sup> Liegt ein anderer Ungültigkeitsgrund vor, sind die Zettel entsprechend zu kennzeichnen.
 
 #### § 9
 
@@ -157,12 +183,12 @@ beschliesst:
 
 <sup>2</sup> Die federführende Direktion ist für die rechtzeitige Unterbreitung aller Anträge zur Behandlung der Initiative zuständig. Sie hat insbesondere folgende Aufgaben:
 
-- a. Sie beauftragt den Rechtsdienst des Regierungsrates mit der Abklärung der Rechtsgültigkeit der Initiative oder stellt dem Regierungsrat nach Anhören des Rechtsdienstes des Regierungsrates Antrag über die Einholung eines externen Gutachtens zu dieser Frage;
-- b. sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrates die Vorlage zur Rechtsgültigkeit der Initiative;
-- c. sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrates die Vorlage, worin beantragt wird, der Initiative zuzustimmen oder sie abzulehnen;
-- c<sup>bis</sup>. sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrats die Vorlage zur Umsetzung der nichtformulierten Initiative;
-- d. sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrates gegebenenfalls die Vorlage über die Verlängerung oder Unterbrechung der Behandlungsfrist (§ 78a Absatz 3 Gesetz über die politischen Rechte);
-- e. sie holt die schriftliche Zustimmung des Initiativkomitees ein, bevor sie dem Regierungsrat eine Vorlage gemäss Buchstabe d unterbreitet.
+- a. Sie beauftragt den Rechtsdienst des Regierungsrats mit der Abklärung der Rechtsgültigkeit der Initiative oder stellt dem Regierungsrat nach Anhören des Rechtsdiensts des Regierungsrats Antrag über die Einholung eines externen Gutachtens zu dieser Frage.
+- b. Sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrats die Vorlage zur Rechtsgültigkeit der Initiative.
+- c. Sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrats die Vorlage, worin beantragt wird, der Initiative zuzustimmen oder sie abzulehnen.
+- c<sup>bis</sup>. Sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrats die Vorlage zur Umsetzung der nichtformulierten Initiative.
+- d. Sie erstellt und unterbreitet dem Regierungsrat zuhanden des Landrats gegebenenfalls die Vorlage über die Verlängerung oder Unterbrechung der Behandlungsfrist (§ 78a Abs. 3 Gesetz über die politischen Rechte).
+- e. Sie holt die schriftliche Zustimmung des Initiativkomitees ein, bevor sie dem Regierungsrat eine Vorlage gemäss Bst. d unterbreitet.
 
 <sup>3</sup> Unmittelbar nach Einreichung einer Initiative legt der Regierungsrat auf Antrag der Landeskanzlei die Fristen fest für:
 
@@ -171,7 +197,7 @@ beschliesst:
 
 <sup>3<sup>bis</sup></sup> Unmittelbar nach Zustimmung des Volks oder des Landrats zu einer nichtformulierten Initiative legt der Regierungsrat die Frist für die Erstellung der Vorlage zu deren Umsetzung fest.
 
-<sup>4</sup> Die Landeskanzlei führt zu Handen des Regierungsrates eine Kontrolle über die Einhaltung der beschlossenen Fristen.
+<sup>4</sup> Die Landeskanzlei führt zuhanden des Regierungsrats eine Kontrolle über die Einhaltung der beschlossenen Fristen.
 
 #### § 13
 
@@ -179,9 +205,9 @@ beschliesst:
 
 <sup>1</sup> Die bezeichneten Direktionen erstellen pro Abstimmungsgegenstand:
 
-- a. eine Zusammenfassung («Das Wichtigste in Kürze») im Umfang von in der Regel 1'500 Zeichen inkl. Leerzeichen, maximal bis 2'000 Zeichen inkl. Leerzeichen, gemäss Beschluss des Regierungsrates im Einzelfall. Die Zusammenfassung enthält sachliche Ausführungen über die Vorlage und eine Darstellung der gegensätzlichen Standpunkte;
+- a. eine Zusammenfassung («Das Wichtigste in Kürze») im Umfang von in der Regel 1'500 Zeichen inkl. Leerzeichen, maximal bis 2'000 Zeichen inkl. Leerzeichen, gemäss Beschluss des Regierungsrats im Einzelfall. Die Zusammenfassung enthält sachliche Ausführungen über die Vorlage und eine Darstellung der gegensätzlichen Standpunkte;
 - b. die detaillierte Beschreibung des Abstimmungsgegenstandes («Die Vorlage im Detail») im Umfang von in der Regel maximal 4'000 Zeichen inkl. Leerzeichen sowie in der Regel maximal 1 Seite für Grafiken, Visualisierungen, Pläne, Tabellen und Listen. Bei komplexen Vorlagen kann der Regierungsrat den Umfang erhöhen;
-- c. die Darlegung der Standpunkte des Regierungsrats («Stellungnahme des Regierungsrates») im Umfang von maximal 4'000 Zeichen inkl. Leerzeichen.
+- c. die Darlegung der Standpunkte des Regierungsrats («Stellungnahme des Regierungsrats») im Umfang von maximal 4'000 Zeichen inkl. Leerzeichen.
 
 <sup>2</sup> Den Initiativ- und Referendumskomitees stehen für die Darstellung ihrer Standpunkte («Stellungnahme des Initiativkomitees» bzw. «Stellungnahme des Referendumskomitees») in der Regel maximal 4'000 Zeichen inkl. Leerzeichen zur Verfügung. Bei komplexen Vorlagen kann der Regierungsrat den Umfang erhöhen. Für ihre Texte, die inhaltlich nicht verändert werden dürfen, sind die Komitees allein verantwortlich.
 
@@ -191,18 +217,19 @@ beschliesst:
 
 **Einreichung der Wahlvorschläge**
 
-<sup>1</sup> Wahlvorschläge müssen am Stichtag bis 17 Uhr für kantonale Wahlen bei der Landeskanzlei und für kommunale Wahlen bei der Gemeindeverwaltung eingetroffen sein.
+<sup>1</sup> Wahlvorschläge müssen am Stichtag bis 12 Uhr für kantonale Wahlen bei der Landeskanzlei und für kommunale Wahlen bei der Gemeindeverwaltung eingetroffen sein.
 
 #### § 13b
 
 **Amtliches Informationsblatt**
 
-<sup>1</sup> Das amtliche Informationsblatt gemäss § 26 Absatz 3 des Gesetzes enthält:
+<sup>1</sup> Das von der Landeskanzlei erstellte amtliche Informationsblatt gemäss § 27a des Gesetzes enthält:
 
-- a. die Namen der Vorgeschlagenen in alphabetischer Reihenfolge mit den zusätzlichen Angaben gemäss § 3 Absatz 2 und gegebenenfalls der Bezeichnung des Wahlvorschlages;
-- b. einen Hinweis auf den Kreis der wählbaren Personen.
+- a. Vorname, Name, Geburtsjahr, Beruf oder Tätigkeit, Wohnort;
+- b. einen Hinweis auf den Kreis der wählbaren Personen;
+- c. gegebenenfalls den Zusatz «bisher», die Partei der Vorgeschlagenen und die Bezeichnung des Wahlvorschlags.
 
-<sup>2</sup> Das amtliche Informationsblatt wird durch die Landeskanzlei erstellt.
+<sup>2</sup> Die Vorgeschlagenen werden in alphabetischer Reihenfolge des Namens aufgeführt.
 
 #### § 14
 
@@ -231,6 +258,12 @@ beschliesst:
 **Ermittlung der Ergebnisse**
 
 <sup>1</sup> Die Landeskanzlei erlässt Weisungen über das Vorgehen bei der Ermittlung der Ergebnisse von Wahlen und Abstimmungen.
+
+#### § 17a
+
+**Technische Hilfsmittel für die Ergebnisermittlung**
+
+<sup>1</sup> Die Gemeinden sind ermächtigt, zur Ergebnisermittlung Zählmaschinen (analog Banknotenzähler) oder Präzisionswaagen einzusetzen.
 
 #### § 18
 
@@ -266,7 +299,7 @@ beschliesst:
 
 #### § 20
 
-**In-Kraft-Treten**
+**Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 1992 in Kraft.
 
