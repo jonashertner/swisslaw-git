@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20210701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20210701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230101/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Juli 2021)
+vom 13. Juni 1927 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -31,7 +31,7 @@ beschliesst:
 
 ## Erstes Buch: Militärstrafrecht
 
-### Erster Teil:**** Allgemeine Bestimmungen
+### Erster Teil: Allgemeine Bestimmungen
 
 [^book1-part1-1]
 
@@ -439,7 +439,7 @@ Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 
 ### Dritter Titel: Strafen und Massnahmen
 
-### Erstes Kapitel: Geldstrafe, Freiheitsstrafe, Degradation****
+### Erstes Kapitel: Geldstrafe, Freiheitsstrafe, Degradation
 
 [^book1-part1-tit3-chap1-1]
 
@@ -487,11 +487,11 @@ Absatz 1 gilt nicht, wenn das Gericht feststellt, dass:
 
 <sup>2</sup> Wurde die Geldstrafe durch eine Verwaltungsbehörde verhängt, so entscheidet das Gericht über die Ersatzfreiheitsstrafe.
 
-<sup>3–5</sup> ...[^30-1]
+<sup>3–5</sup> …[^30-1]
 
 [^30-1]: Aufgehoben durch Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), mit Wirkung seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 2. ...
+### 2. …
 
 #### Art. 31–33
 
@@ -688,7 +688,7 @@ Ein Tag Haft entspricht einem Tagessatz Geldstrafe.[^44-1]
 
 [^44-1]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Viertes Kapitel: Strafbefreiung und Einstellung des Verfahrens****
+### Viertes Kapitel: Strafbefreiung und Einstellung des Verfahrens
 
 [^book1-part1-tit3-chap4-1]
 
@@ -913,7 +913,7 @@ Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung e
 
 <sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^50-9]
 
-<sup>7</sup> ...[^50-10]
+<sup>7</sup> …[^50-10]
 
 [^50-1]: Fassung gemäss Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1012,7 +1012,7 @@ Der Täter kann bei der zuständigen Behörde um eine inhaltliche oder zeitliche
 
 - a. bei einem Verbot nach Artikel 50 Absatz 1 oder nach Artikel 50*b*: nach zwei Jahren des Vollzugs;
 - b. bei einem befristeten Verbot nach Artikel 50 Absatz 2: nach der Hälfte der Verbotsdauer, jedoch frühestens nach drei Jahren des Vollzugs;
-- c.[^50c-3] ...
+- c.[^50c-3] …
 - d.[^50c-4] bei einem lebenslänglichen Verbot nach Artikel 50 Absatz 2<sup>bis</sup>: nach zehn Jahren des Vollzugs.
 
 <sup>6</sup> Ist nicht mehr zu befürchten, dass der Täter eine Tätigkeit zur Begehung weiterer Verbrechen oder Vergehen missbraucht oder bei einem Kontakt zu bestimmten Personen oder Personen einer bestimmten Gruppe weitere Verbrechen oder Vergehen begeht, und hat er den von ihm verursachten Schaden soweit zumutbar ersetzt, so hebt die zuständige Behörde das Verbot in den Fällen nach Absatz 4 oder 5 auf.
@@ -1521,13 +1521,13 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 [^77-1]
 
-<sup>1.</sup> Wer ein Geheimnis offenbart, das ihm in dienstlicher oder amtlicher Eigenschaft anvertraut wird, oder das er in seiner dienstlichen oder amtlichen Stellung wahrnimmt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+<sup>1.</sup> Wer ein Geheimnis offenbart, das ihm in dienstlicher oder amtlicher Eigenschaft anvertraut wird oder das er in seiner dienstlichen oder amtlichen Stellung oder als Hilfsperson eines solchen Geheimnisträgers wahrnimmt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> Die Verletzung des Dienst- oder Amtsgeheimnisses ist auch nach Beendigung des dienstlichen oder amtlichen Verhältnisses strafbar.
+<sup>2.</sup> Die Verletzung des Dienst- oder Amtsgeheimnisses ist auch nach Beendigung des dienstlichen oder amtlichen Verhältnisses oder der Hilfstätigkeit strafbar.
 
-[^77-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
+[^77-1]: Fassung gemäss Anhang 1 Ziff. 9 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Fälschung dienstlicher Aktenstücke
 
@@ -1588,28 +1588,30 @@ Hat der Täter in diesem selbstverschuldeten Zustand eine mit Freiheitsstrafe al
 Mit Freiheitsstrafe bis zu 18 Monaten oder Geldstrafe wird bestraft, wer in der Absicht, den Militärdienst zu verweigern:
 
 - a. nicht am Orientierungstag oder an der Rekrutierung teilnimmt;
+- a<sup>bis</sup>.[^81-2] den Termin für die persönliche Befragung bei Personensicherheitsprüfungen oder für die medizinische Untersuchung zur Neubeurteilung der Tauglichkeit nicht wahrnimmt;
 - b. eine Militärdienstleistung, zu der er aufgeboten ist, nicht antritt;
 - c. seine Truppe oder Dienststelle ohne Erlaubnis verlässt;
 - d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt; oder
-- e. nach Antritt der Militärdienstleistung einem an ihn gerichteten Befehl in Dienstsachen nicht gehorcht.[^81-2]
+- e. nach Antritt der Militärdienstleistung einem an ihn gerichteten Befehl in Dienstsachen nicht gehorcht.[^81-3]
 
-<sup>1bis</sup> Für eine strafbare Handlung nach Absatz 1 ist eine Geldstrafe oder der Vollzug in Form gemeinnütziger Arbeit bei gleichzeitigem Ausschluss aus der Armee nach Artikel 49 ausgeschlossen.[^81-3]
+<sup>1bis</sup> Für eine strafbare Handlung nach Absatz 1 ist eine Geldstrafe oder der Vollzug in Form gemeinnütziger Arbeit bei gleichzeitigem Ausschluss aus der Armee nach Artikel 49 ausgeschlossen.[^81-4]
 
 <sup>2</sup> Im Aktivdienst ist die Strafe Freiheitsstrafe oder Geldstrafe.
 
-<sup>3</sup> Wer als Angehöriger einer religiösen Gemeinschaft aus religiösen Gründen den Militärdienst verweigert und kein Gesuch um Zulassung zum Zivildienst stellt, wird schuldig erklärt und zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet, deren Dauer sich in der Regel nach Artikel 8 des Zivildienstgesetzes vom 6. Oktober 1995[^81-4] richtet. Die Arbeitsleistung wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen. Der Richter kann den Täter aus der Armee ausschliessen.
+<sup>3</sup> Wer als Angehöriger einer religiösen Gemeinschaft aus religiösen Gründen den Militärdienst verweigert und kein Gesuch um Zulassung zum Zivildienst stellt, wird schuldig erklärt und zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet, deren Dauer sich in der Regel nach Artikel 8 des Zivildienstgesetzes vom 6. Oktober 1995[^81-5] richtet. Die Arbeitsleistung wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen. Der Richter kann den Täter aus der Armee ausschliessen.
 
 <sup>4</sup> Wer glaubhaft darlegt, dass er den Ausbildungsdienst für einen höheren Grad mit seinem Gewissen nicht vereinbaren kann, aber bereit ist, im bisherigen Grad Militärdienst zu leisten, wird zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet. Sie dauert in der Regel 1,1‑mal so lange wie der verweigerte Ausbildungsdienst zur Erreichung des höheren Grades und wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen.
 
 <sup>5</sup> Der Bundesrat erlässt die für den Vollzug der Arbeitsleistung nach den Absätzen 3 und 4 erforderlichen ergänzenden Bestimmungen.
 
-<sup>6</sup> Artikel 84 bleibt vorbehalten.[^81-5]
+<sup>6</sup> Artikel 84 bleibt vorbehalten.[^81-6]
 
 [^81-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^81-2]: Fassung gemäss Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^81-3]: Eingefügt durch Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung) ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-4]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^81-5]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^81-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^81-3]: Fassung gemäss Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^81-4]: Eingefügt durch Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung) ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^81-5]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^81-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Militärdienstversäumnis und unerlaubte Entfernung
 
@@ -1622,23 +1624,25 @@ Mit Freiheitsstrafe bis zu 18 Monaten oder Geldstrafe wird bestraft, wer in der 
 Mit Geldstrafe wird bestraft, wer ohne Absicht, den Militärdienst zu verweigern:[^82-2]
 
 - a. nicht am Orientierungstag oder an der Rekrutierung teilnimmt;
+- a<sup>bis</sup>.[^82-3] den Termin für die persönliche Befragung bei Personensicherheitsprüfungen oder für die medizinische Untersuchung zur Neubeurteilung der Tauglichkeit nicht wahrnimmt;
 - b. eine Militärdienstleistung, zu der er aufgeboten ist, nicht antritt;
 - c. seine Truppe oder Dienststelle ohne Erlaubnis verlässt;
-- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^82-3]
+- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^82-4]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 <sup>3</sup> Im Aktivdienst ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>4</sup> Stellt sich der Täter nachträglich aus eigenem Antrieb zum Dienst, so kann der Richter die Strafe mildern (Art. 42*a*).[^82-4]
+<sup>4</sup> Stellt sich der Täter nachträglich aus eigenem Antrieb zum Dienst, so kann der Richter die Strafe mildern (Art. 42*a*).[^82-5]
 
-<sup>5</sup> Artikel 84 bleibt vorbehalten.[^82-5]
+<sup>5</sup> Artikel 84 bleibt vorbehalten.[^82-6]
 
 [^82-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^82-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^82-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^82-4]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
-[^82-5]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^82-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^82-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^82-5]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^82-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Fahrlässiges Militärdienstversäumnis
 
@@ -1651,20 +1655,22 @@ Mit Geldstrafe wird bestraft, wer ohne Absicht, den Militärdienst zu verweigern
 Mit Busse[^83-2] wird bestraft, wer fahrlässig:
 
 - a. nicht am Orientierungstag oder an der Rekrutierung teilnimmt;
+- a<sup>bis</sup>.[^83-3] den Termin für die persönliche Befragung bei Personensicherheitsprüfungen oder für die medizinische Untersuchung zur Neubeurteilung der Tauglichkeit nicht wahrnimmt;
 - b. eine Militärdienstleistung, zu der er aufgeboten ist, nicht antritt;
 - c. seine Truppe oder Dienststelle ohne Erlaubnis verlässt;
-- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^83-3]
+- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^83-4]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 <sup>3</sup> Im Aktivdienst kann der Richter eine Geldstrafe bis zu 90 Tagessätzen verhängen.
 
-<sup>4</sup> Artikel 84 bleibt vorbehalten.[^83-4]
+<sup>4</sup> Artikel 84 bleibt vorbehalten.[^83-5]
 
 [^83-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^83-2]: Ausdruck gemäss Ziff. II 1 Abs. 5 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
-[^83-3]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^83-4]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^83-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^83-5]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Verletzung der Pflicht zur Dienstleistung bei Zulassung zum Zivildienst, Zuweisung zum waffenlosen Dienst und Dienstuntauglichkeit
 
@@ -2019,7 +2025,7 @@ wird, sofern keine andere Strafbestimmung zutrifft, mit Freiheitsstrafe bis zu d
 
 [^107-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
 
-### Sechster Abschnitt:**** Völkermord und Verbrechen gegen die Menschlichkeit
+### Sechster Abschnitt: Völkermord und Verbrechen gegen die Menschlichkeit
 
 [^book1-part2-chap6-1]
 
@@ -2085,7 +2091,7 @@ Mit Freiheitsstrafe nicht unter fünf Jahren, wird bestraft, wer im Rahmen eines
 
 <sup>3</sup> In weniger schweren Fällen nach Absatz 1 Buchstaben c–j kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
-### Sechster Abschnitt<sup>bis</sup>: Kriegsverbrechen****
+### Sechster Abschnitt<sup>bis</sup>: Kriegsverbrechen
 
 [^book1-part2-chap6bis-1]
 
@@ -2258,7 +2264,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
 [^114-1]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
-### Sechster Abschnitt<sup>ter</sup>:**** Gemeinsame Bestimmungen für den sechsten Abschnitt und den sechsten Abschnitt<sup>bis</sup>
+### Sechster Abschnitt<sup>ter</sup>: Gemeinsame Bestimmungen für den sechsten Abschnitt und den sechsten Abschnitt<sup>bis</sup>
 
 [^book1-part2-chap6ter-1]
 
@@ -2314,7 +2320,7 @@ Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern Voraussetzu
 
 <sup>1</sup> Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund, der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.[^116-1]
 
-<sup>2</sup> ...[^116-2]
+<sup>2</sup> …[^116-2]
 
 [^116-1]: Fassung gemäss Ziff. II des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^116-2]: Aufgehoben durch Ziff. I des BG vom 20. März 1992, mit Wirkung seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991 II 1462](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__), IV 184).
@@ -2383,7 +2389,7 @@ wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.[^121-2]
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> und 3. ...[^122-1]
+<sup>2.</sup> und 3. …[^122-1]
 
 [^122-1]: Aufgehoben durch Ziff. II des BG vom 23. Juni 1989, mit Wirkung seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
@@ -2401,7 +2407,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> ...[^124-1]
+<sup>2.</sup> …[^124-1]
 
 [^124-1]: Aufgehoben durch Ziff. I des BG vom 5. Okt. 1967, mit Wirkung seit 1. März 1968 ([AS 1968 212](https://fedlex.data.admin.ch/eli/oc/1968/212_228_228); [BBl 1967 I 581](https://fedlex.data.admin.ch/eli/fga/1967/1_581_605_421)).
 
@@ -2442,7 +2448,7 @@ eines Dritten zur Folge hat, wird mit Freiheitsstrafe bis zu fünf Jahren oder G
 [^128a-1]: Eingefügt durch Ziff. II des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^128a-2]: Ausdruck gemäss Ziff. II 1 Abs. 6 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
 
-### Achter Abschnitt:**** Verbrechen oder Vergehen gegen das Vermögen
+### Achter Abschnitt: Verbrechen oder Vergehen gegen das Vermögen
 
 [^book1-part2-chap8-1]
 
@@ -2590,7 +2596,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. ...[^135-2]
+<sup>4</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …[^135-2]
 
 [^135-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^135-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
@@ -2625,7 +2631,7 @@ wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefähr
 
 [^137a-1]
 
-<sup>1.</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Gewalt oder Androhung ernstlicher Nachteile zu einem Verhalten bestimmt, wodurch dieser sich selber oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. ...[^137a-2]
+<sup>1.</sup> Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Gewalt oder Androhung ernstlicher Nachteile zu einem Verhalten bestimmt, wodurch dieser sich selber oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft. …[^137a-2]
 
 <sup>2.</sup> Handelt der Täter gewerbsmässig oder erpresst er die gleiche Person fortgesetzt, so wird er mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.[^137a-3]
 
@@ -2651,7 +2657,7 @@ Ist die Vortat ein Antragsdelikt, so wird die Hehlerei nur verfolgt, wenn ein An
 
 In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. ...[^137b-2]
+<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe nicht unter 90 Tagessätzen bestraft. …[^137b-2]
 
 [^137b-1]: Fassung gemäss Ziff. II des BG vom 17. Juni 1994, in Kraft seit 1. Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^137b-2]: Satz aufgehoben durch Ziff. II 1 Abs. 25 des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
@@ -2760,7 +2766,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.[^143-2]
 
 <sup>1</sup> Wer bei Besorgung der militärischen Verwaltung, insbesondere bei der Berechnung, Austeilung oder sonstigen Verwendung von Sold, Lebens- oder Futtermitteln, Munition oder andern Gegenständen des militärischen Bedarfs, die ihm anvertrauten Interessen schädigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2</sup> Handelt der Täter aus Gewinnsucht, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. ...[^144-1]
+<sup>2</sup> Handelt der Täter aus Gewinnsucht, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. …[^144-1]
 
 <sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
@@ -2806,7 +2812,7 @@ wird auf Antrag des Verletzten oder der zur Erteilung des Befehles zur Anhebung 
 
 <sup>6.</sup> Hat der Beschuldigte den Wahrheitsbeweis nicht erbracht, oder sind seine Äusserungen unwahr oder nimmt der Beschuldigte sie zurück, so hat der Richter dies im Urteil oder in einer andern Urkunde festzustellen.
 
-<sup>7.</sup> ...[^145-3]
+<sup>7.</sup> …[^145-3]
 
 [^145-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
 [^145-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -2830,7 +2836,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.[^146-2]
 
 <sup>3.</sup> Zieht der Täter seine Äusserungen vor dem Richter als unwahr zurück, so kann er milder bestraft werden. Der Richter stellt dem Verletzten über den Rückzug eine Urkunde aus.
 
-<sup>4.</sup> ...[^146-4]
+<sup>4.</sup> …[^146-4]
 
 [^146-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 [^146-2]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
@@ -2861,7 +2867,7 @@ In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 Ist die Beschimpfung unmittelbar mit einer Beschimpfung oder Tätlichkeit erwidert worden, so kann der Richter einen Täter oder beide von Strafe befreien.
 
-<sup>3.</sup> ...[^148-2]
+<sup>3.</sup> …[^148-2]
 
 [^148-1]: Fassung gemäss Ziff. I des BG vom 21. Dez. 1950, in Kraft seit 1. Juli 1951 ([AS 1951 437](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [BBl 1949 II 137](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
 [^148-2]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
@@ -3000,7 +3006,7 @@ Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in der Absicht, ei
 
 [^152-1]: Fassung gemäss Ziff. I des BG vom 13. Juni 1941, in Kraft seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 
-### Zwölfter Abschnitt:**** Strafbare Handlungen gegen die sexuelle Integrität
+### Zwölfter Abschnitt: Strafbare Handlungen gegen die sexuelle Integrität
 
 [^book1-part2-chap12-1]
 
@@ -3054,9 +3060,9 @@ wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
 <sup>4.</sup> Handelte der Täter in der irrigen Vorstellung, das Kind sei mindestens 16 Jahre alt, hätte er jedoch bei pflichtgemässer Vorsicht den Irrtum vermeiden können, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>5.</sup> ...[^156-2]
+<sup>5.</sup> …[^156-2]
 
-<sup>6.</sup> ...[^156-3]
+<sup>6.</sup> …[^156-3]
 
 [^156-1]: Fassung gemäss Anhang Ziff. 22 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^156-2]: Aufgehoben durch Ziff. II des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
@@ -3499,7 +3505,7 @@ Die Artikel 179 und 179*a* finden auch Anwendung auf Verfahren vor international
 
 [^179b-1]: Eingefügt durch Ziff. I 2 des BG vom 22. Juni 2001 (Rechtspflegedelikte vor internationalen Gerichten), in Kraft seit 1. Juli 2002 ([AS 2002 1491](https://fedlex.data.admin.ch/eli/oc/2002/236)1492; [BBl 2001 391](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 
-## Zweites Buch:**** Disziplinarstrafordnung
+## Zweites Buch: Disziplinarstrafordnung
 
 [^book2-1]
 
@@ -3580,9 +3586,13 @@ Dem Disziplinarfehler gleichgestellt sind:
 
 #### Art. 185
 
-<sup>1</sup> Die Vollstreckung einer Disziplinarstrafe verjährt zwölf Monate nach ihrer rechtskräftigen Verfügung.
+[^185-1]
 
-<sup>2</sup> Während eines Rechtsmittelverfahrens gegen einen Bussenumwandlungsentscheid ruht die Vollstreckungsverjährung. Wird am Ende des Rechtsmittelverfahrens die Busse in Arrest umgewandelt, so verjährt die Vollstreckung zwölf Monate nach dem rechtskräftigen Umwandlungsentscheid.
+<sup>1</sup> Die Vollstreckung einer Disziplinarbusse verjährt drei Jahre nach ihrer rechtskräftigen Verfügung.
+
+<sup>2</sup> Die Vollstreckung der übrigen Disziplinarstrafen verjährt zwölf Monate nach ihrer rechtskräftigen Verfügung.
+
+[^185-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Zweiter Abschnitt: Disziplinarstrafen
 
@@ -3625,9 +3635,11 @@ Eine Disziplinarbusse kann für alle Disziplinarfehler ausgesprochen werden. Sie
 
 <sup>4</sup> Die Frist zur Bezahlung von Disziplinarbussen beträgt ab Eintritt der Rechtskraft zwei Monate.
 
-<sup>5</sup> Bei Nichtbezahlung werden Disziplinarbussen in Arrest umgewandelt. Dabei werden 100 Franken einem Tag Arrest gleichgesetzt.
+<sup>5</sup> Werden Disziplinarbussen nicht fristgerecht bezahlt, so ordnet die Vollzugsbehörde die Betreibung an, wenn davon ein Ergebnis zu erwarten ist. Sind die Disziplinarbussen auf dem Betreibungsweg uneinbringlich, so werden sie in Arrest umgewandelt. Dabei werden 100 Franken einem Tag Arrest gleichgesetzt. Der Arrest entfällt, soweit die Disziplinarbussen nachträglich bezahlt werden.[^189-1]
 
 <sup>6</sup> Für den Umwandlungsentscheid ist die Militärbehörde zuständig, die die Disziplinarbusse verfügt hat. Vom Truppenkommandanten verfügte Disziplinarbussen werden von der Militärbehörde des Vollzugskantons umgewandelt.
+
+[^189-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Arrest
 
@@ -3666,6 +3678,10 @@ Eine Disziplinarbusse kann für alle Disziplinarfehler ausgesprochen werden. Sie
 <sup>2</sup> Der Arrest kann in den Formen der Halbgefangenschaft vollzogen werden. Der Arrestant setzt dabei seine Arbeit oder Ausbildung fort und verbringt die Ruhe- und Freizeit am Vollzugsort.
 
 <sup>3</sup> Der Vollzug des Arrests in Strafanstalten oder Untersuchungsgefängnissen ist nur zulässig, wenn eine eindeutige Trennung zwischen Arrestvollzug und Strafvollzug gewährleistet ist.
+
+<sup>4</sup> Verfügt der Wohnsitzkanton über zu wenige geeignete Mittel, um den Arrest vor Eintritt der Vollstreckungsverjährung zu vollziehen, so kann er den Chef der Armee um Unterstützung mit Mitteln der Militärverwaltung oder der Armee ersuchen. Eine Unterstützung darf nur bewilligt werden, wenn dadurch die Erfüllung der Aufgaben der Militärverwaltung oder der Armee nicht beeinträchtigt wird.[^192-1]
+
+[^192-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Einziehung
 
@@ -3856,7 +3872,7 @@ Einträge in der Strafkontrolle dürfen nur bekannt gegeben werden:
 
 <sup>7</sup> Disziplinarstrafen gegenüber Offizieren sind der unmittelbar vorgesetzten Kommandostelle des strafenden Kommandanten zu melden.
 
-### Fünfter Abschnitt: Rechtsmittel****
+### Fünfter Abschnitt: Rechtsmittel
 
 [^book2-chap5-1]
 
@@ -3995,7 +4011,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 ## Drittes Buch: Einführung und Anwendung des Gesetzes
 
-### Erster Titel:**** Verhältnis dieses Gesetzes zum bisherigen Recht
+### Erster Titel: Verhältnis dieses Gesetzes zum bisherigen Recht
 
 [^book3-tit1-1]
 
@@ -4025,7 +4041,7 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 *Aufgehoben*
 
-### Zweiter Titel: Gerichtsbarkeit****
+### Zweiter Titel: Gerichtsbarkeit
 
 [^book3-tit2-1]
 
@@ -4126,7 +4142,7 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 [^223-1]: Fassung gemäss Anhang Ziff. 11 des Strafgerichtsgesetzes vom 4. Okt. 2002, in Kraft seit 1. April 2004 ([AS 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^223-2]: Fassung gemäss Anhang Ziff. 11 des Strafgerichtsgesetzes vom 4. Okt. 2002, in Kraft seit 1. April 2004 ([AS 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Dritter Titel: Verfahren****
+### Dritter Titel: Verfahren
 
 [^book3-tit3-1]
 
@@ -4138,7 +4154,7 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 
 [^224-1]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Vierter Titel: Urteilsvollzug****
+### Vierter Titel: Urteilsvollzug
 
 [^book3-tit4-1]
 
@@ -4150,7 +4166,7 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 
 [^225-1]: Aufgehoben durch Ziff. I 2 des BG vom 23. März 1979, mit Wirkung seit 1. Jan. 1980 ([AS 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [BBl 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Fünfter Titel: Strafregister****
+### Fünfter Titel: Strafregister
 
 [^book3-tit5-1]
 
@@ -4175,7 +4191,7 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 
 [^227-1]: Aufgehoben durch Ziff. I des BG vom 13. Juni 1941, mit Wirkung seit 1. Jan. 1942 ([AS 57 1269](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); BBl **1940** 997).
 
-### Sechster Titel: Rehabilitationsverfahren****
+### Sechster Titel: Rehabilitationsverfahren
 
 [^book3-tit6-1]
 
@@ -4187,7 +4203,7 @@ Ist jemand mehrerer strafbarer Handlungen beschuldigt, die teils der militärisc
 
 [^book3-tit6-lvlu1-1]: Aufgehoben durch Ziff. III des BG vom 21. März 2003, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
-### Siebter Titel:**** Begnadigung und Amnestie****
+### Siebter Titel: Begnadigung und Amnestie
 
 [^book3-tit7-1][^book3-tit7-2]
 
@@ -4231,7 +4247,7 @@ Bei Urteilen nach dem Militärstrafgesetz wird das Recht der Begnadigung ausgeü
 
 <sup>3</sup> Die Begnadigungsbehörde kann bestimmen, dass ein abgelehntes Begnadigungsgesuch vor Ablauf eines gewissen Zeitraumes nicht erneuert werden darf.
 
-<sup>4</sup> ...[^232c-2]
+<sup>4</sup> …[^232c-2]
 
 [^232c-1]: Fassung gemäss Anhang Ziff. 22 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^232c-2]: Aufgehoben durch Ziff. I des BG vom 20. März 1992, mit Wirkung seit 1. Sept. 1992 ([AS 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [BBl 1991 II 1462](https://fedlex.data.admin.ch/eli/fga/1991/2_1462__), IV 184).
@@ -4258,7 +4274,7 @@ Bei Urteilen nach dem Militärstrafgesetz wird das Recht der Begnadigung ausgeü
 
 [^232e-1]: Eingefügt durch Ziff. III des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
 
-### Achter Titel: Ergänzende Bestimmungen und Schlussbestimmungen****
+### Achter Titel: Ergänzende Bestimmungen und Schlussbestimmungen
 
 [^book3-tit8-1]
 
@@ -4313,7 +4329,7 @@ Vorbehalten bleiben:
 
 Dieses Gesetz tritt mit dem 1. Januar 1928 in Kraft.
 
-## Schlussbestimmungen der Änderung vom 23. März 1979****
+## Schlussbestimmungen der Änderung vom 23. März 1979
 
 [^u1-1]
 
@@ -4325,7 +4341,7 @@ Dieses Gesetz tritt mit dem 1. Januar 1928 in Kraft.
 
 [^u1-2]: Art. 215 und 216 haben eine neue Fassung und Art. 217 ist aufgehoben.
 
-## Schlussbestimmungen der Änderung vom 21. März 2003****
+## Schlussbestimmungen der Änderung vom 21. März 2003
 
 [^u2-1]
 
@@ -4351,7 +4367,7 @@ Dieses Gesetz tritt mit dem 1. Januar 1928 in Kraft.
 [^u2-5]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^u2-6]: Fassung gemäss Ziff. II des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735))
 
-## Übergangsbestimmung zur Änderung vom 19. Juni 2015****
+## Übergangsbestimmung zur Änderung vom 19. Juni 2015
 
 [^u3-1]
 

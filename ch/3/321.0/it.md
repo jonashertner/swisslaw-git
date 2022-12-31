@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20210701/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20210701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230101/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° luglio 2021)
+del 13 giugno 1927 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -29,7 +29,7 @@ decreta:
 
 ## Libro primo: Diritto penale militare
 
-### Parte prima:**** Disposizioni generali
+### Parte prima: Disposizioni generali
 
 [^book1-part1-1]
 
@@ -435,7 +435,7 @@ Il capoverso 1 non si applica se il giudice accerta che:
 
 ### Capo terzo: Delle pene e delle misure
 
-### I. Della pena pecuniaria, della pena detentiva e della degradazione****
+### I. Della pena pecuniaria, della pena detentiva e della degradazione
 
 [^book1-part1-tit3-chap1-1]
 
@@ -682,7 +682,7 @@ Il giudice computa nella pena il carcere preventivo scontato nell’ambito del p
 
 [^44-1]: Nuovo testo del secondo per. giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### IV. Dell’impunità e della sospensione del procedimento****
+### IV. Dell’impunità e della sospensione del procedimento
 
 [^book1-part1-tit3-chap4-1]
 
@@ -907,7 +907,7 @@ Nei casi di esigua gravità, il giudice può, a titolo eccezionale, prescindere 
 
 <sup>6</sup> Il giudice può ordinare un’assistenza riabilitativa per la durata dell’interdizione.[^50-9]
 
-<sup>7</sup> ... [^50-10]
+<sup>7</sup> ...[^50-10]
 
 [^50-1]: Nuovo testo giusta il n. I 2 della LF del 13 dic. 2013 interdizione di esercitare unʼattività e divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50-2]: Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
@@ -1214,7 +1214,7 @@ La prescrizione decorre dal giorno in cui la sentenza acquista forza di cosa giu
 
 <sup>1</sup>
 
-Sono imprescrittibili :
+Sono imprescrittibili:
 
 - a. il genocidio (art. 108);
 - b. i crimini contro l’umanità (art. 109 cpv. 1 e 2);
@@ -1518,13 +1518,13 @@ Se il reato avviene intenzionalmente in faccia al nemico, può essere pronunciat
 
 [^77-1]
 
-<sup>1.</sup> Chi rivela un segreto che gli è stato confidato nella sua qualità, di militare o di funzionario o di cui ha avuto notizia in tale qualità, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+<sup>1.</sup> Chi rivela un segreto che gli è stato confidato nella sua qualità di militare o di funzionario o di cui ha avuto notizia in tale qualità o in qualità di ausiliario di uno di questi detentori del segreto è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
 Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>2.</sup> La rivelazione del segreto è punibile anche dopo la cessazione della qualità di militare o della funzione.
+<sup>2.</sup> La rivelazione del segreto è punibile anche dopo la cessazione della qualità di militare, della funzione o dell’attività ausiliaria.
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
+[^77-1]: Nuovo testo giusta l’all. 1 n. 9 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Falsità in documenti di servizio
 
@@ -1579,28 +1579,30 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 È punito con una pena detentiva fino a diciotto mesi o con una pena pecuniaria chiunque, nell’intenzione di rifiutare il servizio militare:
 
 - a. non partecipa alla giornata informativa o al reclutamento;
+- a<sup>bis</sup>.[^81-2] non si presenta all’audizione personale nel caso di controlli di sicurezza relativi alle persone o alla visita medica nel caso di un nuovo esame dell’idoneità al servizio;
 - b. non si presenta a un servizio al quale è convocato;
 - c. abbandona senza permesso la sua truppa o il posto di servizio;
 - d. non vi ritorna dopo un’assenza giustificata;
-- e. disobbedisce, dopo l’entrata in servizio militare, a un ordine a lui diretto concernente il servizio.[^81-2]
+- e. disobbedisce, dopo l’entrata in servizio militare, a un ordine a lui diretto concernente il servizio.[^81-3]
 
-<sup>1bis</sup> In caso di reati secondo il capoverso 1, la pena pecuniaria o l’esecuzione in forma di lavoro di pubblica utilità sono escluse se è pronunciata anche l’esclusione dall’esercito secondo l’articolo 49.[^81-3]
+<sup>1bis</sup> In caso di reati secondo il capoverso 1, la pena pecuniaria o l’esecuzione in forma di lavoro di pubblica utilità sono escluse se è pronunciata anche l’esclusione dall’esercito secondo l’articolo 49.[^81-4]
 
 <sup>2</sup> In servizio attivo la pena è una pena detentiva o pecuniaria.
 
-<sup>3</sup> Chiunque, quale membro di una comunità religiosa, rifiuta per motivi religiosi di prestare servizio militare e non presenta una domanda d’ammissione al servizio civile è dichiarato colpevole e viene obbligato a prestare un lavoro di pubblico interesse, la cui durata è stabilita conformemente all’articolo 8 della legge del 6 ottobre 1995[^81-4] sul servizio civile. La prestazione di lavoro si svolge nell’ambito e giusta le prescrizioni del servizio civile. Il giudice può pronunciare l’esclusione dall’esercito.
+<sup>3</sup> Chiunque, quale membro di una comunità religiosa, rifiuta per motivi religiosi di prestare servizio militare e non presenta una domanda d’ammissione al servizio civile è dichiarato colpevole e viene obbligato a prestare un lavoro di pubblico interesse, la cui durata è stabilita conformemente all’articolo 8 della legge del 6 ottobre 1995[^81-5] sul servizio civile. La prestazione di lavoro si svolge nell’ambito e giusta le prescrizioni del servizio civile. Il giudice può pronunciare l’esclusione dall’esercito.
 
 <sup>4</sup> Chiunque rende verosimile di non poter conciliare con la propria coscienza il servizio d’istruzione per conseguire un grado superiore, ma è disposto a prestare servizio militare con il suo grado attuale, viene obbligato a prestare un lavoro di pubblico interesse. Quest’ultimo dura di regola 1,1 volte la durata del servizio d’istruzione rifiutato e si svolge nell’ambito e secondo le prescrizioni del servizio civile.
 
 <sup>5</sup> Il Consiglio federale emana le necessarie disposizioni completive per l’esecuzione della prestazione di lavoro di cui ai capoversi 3 e 4.
 
-<sup>6</sup> È fatto salvo l’articolo 84.[^81-5]
+<sup>6</sup> È fatto salvo l’articolo 84.[^81-6]
 
 [^81-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^81-2]: Nuovo testo giusta il n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^81-3]: Introdotto dal n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968). Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-4]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^81-5]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^81-2]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^81-3]: Nuovo testo giusta il n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^81-4]: Introdotto dal n. IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968). Nuovo testo giusta il n. I 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^81-5]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^81-6]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione del servizio e assenza ingiustificata
 
@@ -1613,23 +1615,25 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 È punito con una pena pecuniaria chiunque[^82-2], senza l’intenzione di rifiutare il servizio militare:
 
 - a. non partecipa alla giornata informativa o al reclutamento;
+- a<sup>bis</sup>.[^82-3] non si presenta all’audizione personale nel caso di controlli di sicurezza relativi alle persone o alla visita medica nel caso di un nuovo esame dell’idoneità al servizio;
 - b. non si presenta a un servizio al quale è convocato;
 - c. abbandona senza permesso la sua truppa o il posto di servizio;
-- d. non vi ritorna dopo un’assenza giustificata.[^82-3]
+- d. non vi ritorna dopo un’assenza giustificata.[^82-4]
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>3</sup> In servizio attivo la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-<sup>4</sup> Se più tardi l’autore si presenta spontaneamente in servizio, il giudice può attenuare la pena (art. 42*a*).[^82-4]
+<sup>4</sup> Se più tardi l’autore si presenta spontaneamente in servizio, il giudice può attenuare la pena (art. 42*a*).[^82-5]
 
-<sup>5</sup> È fatto salvo l’articolo 84.[^82-5]
+<sup>5</sup> È fatto salvo l’articolo 84.[^82-6]
 
 [^82-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^82-2]: Nuova comminatoria giusta il n. II 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^82-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^82-4]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^82-5]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^82-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^82-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^82-5]: Nuovo testo giusta il n. II 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^82-6]: Nuovo testo giusta il n. II 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione del servizio per negligenza
 
@@ -1642,20 +1646,22 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 È punito con la multa[^83-2] chiunque, per negligenza:
 
 - a. non partecipa alla giornata informativa o al reclutamento;
+- a<sup>bis</sup>.[^83-3] non si presenta all’audizione personale nel caso di controlli di sicurezza relativi alle persone o alla visita medica nel caso di un nuovo esame dell’idoneità al servizio;
 - b. non si presenta a un servizio al quale è convocato;
 - c. abbandona senza permesso la sua truppa o il posto di servizio;
-- d. non vi ritorna dopo un’assenza giustificata.[^83-3]
+- d. non vi ritorna dopo un’assenza giustificata.[^83-4]
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>3</sup> In servizio attivo il giudice può pronunciare una pena pecuniaria sino a 90 aliquote giornaliere.
 
-<sup>4</sup> È fatto salvo l’articolo 84.[^83-4]
+<sup>4</sup> È fatto salvo l’articolo 84.[^83-5]
 
 [^83-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^83-2]: Nuova espr. giusta il n. II 1 cpv. 5 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^83-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^83-4]: Nuovo testo giusta il n. II 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^83-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^83-5]: Nuovo testo giusta il n. II 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Reati contro i doveri del servizio in caso di ammissione al servizio civile, assegnazione al servizio non armato e inabilità al servizio
 
@@ -2012,7 +2018,7 @@ chiunque intenzionalmente contravviene agli ordini speciali od avvisi emanati pe
 
 [^107-1]: Nuovo testo giusta il n. I della LF del 21 dic. 1950, in vigore dal 1° lug. 1951 ([RU 1951 435](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); FF **1949** 685).
 
-### Capo sesto:**** Genocidio e crimini contro l’umanità
+### Capo sesto: Genocidio e crimini contro l’umanità
 
 [^book1-part2-chap6-1]
 
@@ -2080,7 +2086,7 @@ Chiunque, nell’ambito di un attacco esteso o sistematico contro popolazioni ci
 
 <sup>3</sup> Nei casi meno gravi rientranti nel campo d’applicazione del capoverso 1 lettere c–j il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-### Capo sesto<sup>bis</sup>: Crimini di guerra****
+### Capo sesto<sup>bis</sup>: Crimini di guerra
 
 [^book1-part2-chap6bis-1]
 
@@ -2253,7 +2259,7 @@ Chiunque, nel contesto di un conflitto armato:
 
 [^114-1]: Nuovo testo giusta il n. I 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
-### Capo sesto<sup>ter</sup>:**** Disposizioni comuni ai capi sesto e sesto<sup>bis</sup>
+### Capo sesto<sup>ter</sup>: Disposizioni comuni ai capi sesto e sesto<sup>bis</sup>
 
 [^book1-part2-chap6ter-1]
 
@@ -2435,7 +2441,7 @@ Nei casi poco gravi si applica una pena disciplinare.
 [^128a-1]: Introdotto dal n. II della LF del 23 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^128a-2]: Nuova espr. giusta il n. II 1 cpv. 6 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
 
-### Capo ottavo:**** Dei reati contro la proprietà
+### Capo ottavo: Dei reati contro la proprietà
 
 [^book1-part2-chap8-1]
 
@@ -2969,7 +2975,7 @@ chiunque, per costringere un terzo, sfrutta una tal situazione creata da altri,
 
 [^152-1]: Nuovo testo giusta il n. I della LF del 13 giu. 1941, in vigore dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
-### Capo dodicesimo:**** Dei reati contro il buon costume
+### Capo dodicesimo: Dei reati contro il buon costume
 
 [^book1-part2-chap12-1]
 
@@ -3489,7 +3495,7 @@ Gli articoli 179 e 179*a* si applicano anche alla procedura davanti ai tribunali
 
 [^179b-1]: Introdotto dal n. I 2 della LF del 22 giu. 2001 (Reati contro l’amministrazione della giustizia commessi davanti a tribunali internazionali), in vigore dal 1° lug. 2002 ([RU 2002 1491](https://fedlex.data.admin.ch/eli/oc/2002/236); FF **2002** 311).
 
-## Libro secondo:**** Ordinamento disciplinare
+## Libro secondo: Ordinamento disciplinare
 
 [^book2-1]
 
@@ -3570,9 +3576,13 @@ Sono equiparati alla mancanza di disciplina:
 
 #### Art. 185
 
-<sup>1</sup> L’esecuzione di una pena disciplinare cade in prescrizione dodici mesi dopo che la decisione che infligge la pena è passata in giudicato.
+[^185-1]
 
-<sup>2</sup> Durante la procedura d’impugnazione della decisione di commutazione di una multa la prescrizione dell’esecuzione è sospesa. Se alla fine della procedura d’impugnazione la multa è commutata in arresti, l’esecuzione della pena cade in prescrizione dodici mesi dopo che la decisione di commutazione è passata in giudicato.
+<sup>1</sup> L’esecuzione di una multa disciplinare cade in prescrizione tre anni dopo che la decisione che infligge la multa è passata in giudicato.
+
+<sup>2</sup> L’esecuzione delle altre pene disciplinari cade in prescrizione 12 mesi dopo che la decisione che infligge la pena è passata in giudicato.
+
+[^185-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Capo secondo: Delle pene disciplinari
 
@@ -3614,9 +3624,11 @@ La multa disciplinare può essere pronunciata per tutte le mancanze di disciplin
 
 <sup>4</sup> Il termine di pagamento è di due mesi dal momento in cui la multa è passata in giudicato.
 
-<sup>5</sup> In caso di mancato pagamento, le multe disciplinari sono commutate in arresti. Un giorno di arresti è equiparato a 100 franchi di multa.
+<sup>5</sup> Se le multe disciplinari non sono pagate entro i termini fissati, l’autorità d’esecuzione ordina l’esecuzione per debiti qualora il provvedimento appaia efficace. Se non possono essere riscosse in via esecutiva, le multe disciplinari sono commutate in arresti. Un giorno di arresti è equiparato a 100 franchi di multa. Gli arresti si estinguono con il pagamento a posteriori delle multe disciplinari.[^189-1]
 
 <sup>6</sup> Per la decisione concernente la commutazione è competente l’autorità militare che ha inflitto la multa disciplinare. Le multe disciplinari inflitte dal comandante di truppa vengono commutate dall’autorità militare del Cantone d’esecuzione.
+
+[^189-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Arresti
 
@@ -3655,6 +3667,10 @@ La multa disciplinare può essere pronunciata per tutte le mancanze di disciplin
 <sup>2</sup> Gli arresti possono essere scontati nella forma della semiprigionia. In questo caso l’arrestato continua il suo lavoro o la sua formazione e trascorre il tempo di riposo e il tempo libero nel luogo d’esecuzione degli arresti.
 
 <sup>3</sup> L’esecuzione degli arresti in stabilimenti penitenziari o per il carcere preventivo è ammissibile soltanto se è garantita una netta separazione tra l’esecuzione degli arresti e l’esecuzione delle altre pene.
+
+<sup>4</sup> Il Cantone di domicilio che non dispone di sufficienti mezzi adeguati per eseguire gli arresti prima della prescrizione dell’esecuzione della pena può chiedere al capo dell’esercito l’appoggio con mezzi dell’amministrazione militare o dell’esercito. L’appoggio può essere autorizzato soltanto qualora l’adempimento dei compiti dell’amministrazione militare o dell’esercito non sia compromesso.[^192-1]
+
+[^192-1]: Introdotto dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Confisca
 
@@ -3845,7 +3861,7 @@ Le iscrizioni contenute nel registro delle punizioni possono essere comunicate u
 
 <sup>7</sup> Le pene disciplinari inflitte a ufficiali devono essere comunicate all’organo di comando direttamente superiore del comandante che le ha inflitte.
 
-### Capo quinto: Dei rimedi giuridici****
+### Capo quinto: Dei rimedi giuridici
 
 [^book2-chap5-1]
 
@@ -3985,7 +4001,7 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 ## Libro terzo: Entrata in vigore ed applicazione del Codice
 
-### Capo primo:**** Relazione fra il presente Codice e la legislazione anteriore
+### Capo primo: Relazione fra il presente Codice e la legislazione anteriore
 
 [^book3-tit1-1]
 
@@ -4015,7 +4031,7 @@ Il Consiglio federale emana le disposizioni esecutive.
 
 Abrogato
 
-### Capo secondo: Giurisdizione****
+### Capo secondo: Giurisdizione
 
 [^book3-tit2-1]
 
@@ -4116,7 +4132,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 [^223-1]: Nuovo testo giusta l’all. n. 11 della LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° apr. 2004 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^223-2]: Nuovo testo giusta l’all. n. 11 della LF del 4 ott. 2002 sul Tribunale penale federale, in vigore dal 1° apr. 2004 ([RU 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Capo terzo: Procedura****
+### Capo terzo: Procedura
 
 [^book3-tit3-1]
 
@@ -4128,7 +4144,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 [^224-1]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Capo quarto: Esecuzione della sentenza****
+### Capo quarto: Esecuzione della sentenza
 
 [^book3-tit4-1]
 
@@ -4140,11 +4156,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 [^225-1]: Abrogato dal n. I 2 della LF del 23 mar. 1979, con effetto dal 1° gen. 1980 ([RU 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Capo quinto: Casellario giudiziale****
-
-[^book3-tit5-1]
-
-[^book3-tit5-1]: Nuovo testo giusta il n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+### Capo quinto: ...
 
 ### Casellario giudiziale
 
@@ -4165,7 +4177,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 [^227-1]: Abrogato dal n. I della LF del 13 giu. 1941, con effetto dal 1° gen. 1942 ([RU 57 1337](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 513).
 
-### Capo sesto:**** Procedura di riabilitazione
+### Capo sesto: Procedura di riabilitazione
 
 [^book3-tit6-1]
 
@@ -4177,7 +4189,7 @@ Se una persona è accusata di più reati spettanti gli uni alla giurisdizione mi
 
 [^228232-1]: Abrogati dal n. III della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
-### Capo settimo:**** Grazia e amnistia****
+### Capo settimo: Grazia e amnistia
 
 [^book3-tit7-1][^book3-tit7-2]
 
@@ -4248,7 +4260,7 @@ Per le sentenze pronunciate in applicazione del Codice penale militare, il dirit
 
 [^232e-1]: Introdotto dal n. III della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
 
-### Capo ottavo: Disposizioni completive e finali****
+### Capo ottavo: Disposizioni completive e finali
 
 [^book3-tit8-1]
 
@@ -4303,7 +4315,7 @@ Sono riservate:
 
 Il presente Codice entra in vigore il 1° gennaio 1928.
 
-## Disposizione finale della modifica del 23 marzo 1979****
+## Disposizione finale della modifica del 23 marzo 1979
 
 [^u1-1]
 
@@ -4315,7 +4327,7 @@ Il presente Codice entra in vigore il 1° gennaio 1928.
 
 [^u1-2]: Questi art. hanno ora un nuovo testo.
 
-## Disposizioni finali della modifica del 21 marzo 2003****
+## Disposizioni finali della modifica del 21 marzo 2003
 
 [^u2-1]
 
@@ -4341,7 +4353,7 @@ Il presente Codice entra in vigore il 1° gennaio 1928.
 [^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^u2-6]: Nuovo testo giusta il n. II della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Disposizione transitoria della modifica del 19 giugno 2015****
+## Disposizione transitoria della modifica del 19 giugno 2015
 
 [^u3-1]
 

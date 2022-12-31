@@ -4,11 +4,11 @@ title: Code pénal militaire du 13 juin 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20210701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20210701/fr"
 
 (CPM)
 
-du 13 juin 1927 (Etat le 1<sup>er</sup> juillet 2021)
+du 13 juin 1927 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -31,7 +31,7 @@ arrête:
 
 ## Livre 1 Droit pénal militaire
 
-### Partie 1**** Dispositions générales
+### Partie 1 Dispositions générales
 
 [^book1-part1-1]
 
@@ -441,7 +441,7 @@ L’al. 1 n’est pas applicable si le juge constate que:
 
 ### Titre 3 Peines et mesures
 
-### Chapitre 1 Peine pécuniaire, peine privative de liberté, dégradation****
+### Chapitre 1 Peine pécuniaire, peine privative de liberté, dégradation
 
 [^book1-part1-tit3-chap1-1]
 
@@ -688,7 +688,7 @@ Le juge impute sur la peine la détention avant jugement subie par l’auteur da
 
 [^44-1]: Nouvelle teneur de la 2<sup>e</sup> phrase selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Chapitre 4 Exemption de peine et suspension de la procédure****
+### Chapitre 4 Exemption de peine et suspension de la procédure
 
 [^book1-part1-tit3-chap4-1]
 
@@ -1519,13 +1519,13 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 [^77-1]
 
-<sup>1.</sup> Celui qui aura révélé un secret à lui confié en sa qualité de militaire ou de fonctionnaire, ou dont il avait eu connaissance à raison de sa situation militaire ou de sa fonction, sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+<sup>1.</sup> Quiconque révèle un secret à lui confié en sa qualité de militaire ou de fonctionnaire, ou dont il a eu connaissance à raison de sa situation militaire ou de sa fonction ou en tant qu’auxiliaire d’un tel détenteur de secret, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-L’infraction sera punie disciplinairement si elle est de peu de gravité.
+L’infraction est punie disciplinairement si elle est de peu de gravité.
 
-<sup>2.</sup> La révélation demeure punissable alors même que la situation militaire ou la fonction a pris fin.
+<sup>2.</sup> La révélation demeure punissable alors même que la situation militaire ou la fonction ou l’activité auxiliaire a pris fin.
 
-[^77-1]: Nouvelle teneur selon le ch. I de la LF du 13 juin 1941, en vigueur depuis le 1<sup>er</sup> janv. 1942 ([RO 57 1301](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 1021).
+[^77-1]: Nouvelle teneur selon l’annexe 1 ch. 9 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Faux dans les documents de service
 
@@ -1585,31 +1585,34 @@ La peine sera une peine privative de liberté de trois ans au plus ou une peine 
 
 <sup>1</sup>
 
-Sera punie d’une peine privative de liberté de 18 mois au plus ou d’une peine pécuniaire la personne qui, dans le dessein de refuser le service militaire:
+Est punie d’une peine privative de liberté de 18 mois au plus ou d’une peine pécuniaire la personne qui, dans le dessein de refuser le service militaire:[^81-2]
 
 - a. ne participe pas à la journée d’information ou au recrutement;
+- a<sup>bis</sup>.[^81-3] ne se présente pas à son audition lors d’un contrôle de sécurité relatif aux personnes ou à l’examen médical en vue d’une nouvelle appréciation de son aptitude;
 - b. ne se présente pas au service militaire, bien qu’elle y ait été convoquée;
 - c. abandonne sa troupe ou son emploi militaire sans autorisation;
 - d. ne rejoint pas sa troupe après une absence justifiée;
-- e. refuse, après être entrée en service, d’exécuter un ordre concernant le service qui lui était adressé.[^81-2]
+- e. refuse, après être entrée en service, d’exécuter un ordre concernant le service qui lui était adressé.[^81-4]
 
-<sup>1bis</sup> Pour un acte punissable selon l’al. 1, une peine pécuniaire ou un travail d’intérêt général n’entrent pas en considération lorsque la condamnation est assortie d’une exclusion de l’armée selon l’art. 49.[^81-3]
+<sup>1bis</sup> Pour un acte punissable selon l’al. 1, une peine pécuniaire ou un travail d’intérêt général n’entrent pas en considération lorsque la condamnation est assortie d’une exclusion de l’armée selon l’art. 49.[^81-5]
 
 <sup>2</sup> En cas de service actif, la peine sera une peine privative de liberté ou une peine pécuniaire.
 
-<sup>3</sup> Celui qui, membre d’une communauté religieuse, refuse le service militaire pour des motifs religieux et ne dépose pas de demande d’admission au service civil sera déclaré coupable et sera astreint à un travail d’intérêt public dont la durée sera en règle générale fixée conformément à l’art. 8 de la loi fédérale du 6 octobre 1995 sur le service civil[^81-4]. L’astreinte au travail est exécutée dans le cadre du service civil et selon les prescriptions afférentes. Le juge pourra prononcer l’exclusion de l’armée.
+<sup>3</sup> Celui qui, membre d’une communauté religieuse, refuse le service militaire pour des motifs religieux et ne dépose pas de demande d’admission au service civil sera déclaré coupable et sera astreint à un travail d’intérêt public dont la durée sera en règle générale fixée conformément à l’art. 8 de la loi fédérale du 6 octobre 1995 sur le service civil[^81-6]. L’astreinte au travail est exécutée dans le cadre du service civil et selon les prescriptions afférentes. Le juge pourra prononcer l’exclusion de l’armée.
 
 <sup>4</sup> Celui qui peut démontrer de manière crédible qu’il ne peut concilier un service d’instruction pour l’obtention d’un grade supérieur avec sa conscience, mais est prêt à accomplir le service militaire dans les limites de son grade actuel, est astreint à un travail d’intérêt public. En règle générale, la durée de cette astreinte équivaut à 1,1 fois la durée du service d’instruction qui aurait été nécessaire pour l’obtention du grade supérieur; l’astreinte est exécutée dans le cadre du service civil et selon les prescriptions qui le régissent.
 
 <sup>5</sup> Le Conseil fédéral édicte les dispositions complémentaires nécessaires à l’exécution de l’astreinte au travail au sens des al. 3 et 4.
 
-<sup>6</sup> L’art. 84 est réservé.[^81-5]
+<sup>6</sup> L’art. 84 est réservé.[^81-7]
 
 [^81-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^81-2]: Nouvelle teneur selon le ch. IV let. b de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^81-3]: Introduit par le ch. IV let. b de la LF du 3 oct. 2003 (Révision du droit disciplinaire) ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-4]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^81-5]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^81-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^81-3]: Introduite par l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^81-4]: Nouvelle teneur selon le ch. IV let. b de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^81-5]: Introduit par le ch. IV let. b de la LF du 3 oct. 2003 (Révision du droit disciplinaire) ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Nouvelle teneur selon le ch. I 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^81-6]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^81-7]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Insoumission et absence injustifiée
 
@@ -1619,26 +1622,28 @@ Sera punie d’une peine privative de liberté de 18 mois au plus ou d’une pei
 
 <sup>1</sup>
 
-Sera punie d’une peine pécuniaire la personne qui, sans avoir le dessein de refuser le service militaire:[^82-2]
+Est punie d’une peine pécuniaire la personne qui, sans dessein de refuser le service militaire:[^82-2]
 
 - a. ne participe pas à la journée d’information ou au recrutement;
+- a<sup>bis</sup>.[^82-3] ne se présente pas à son audition lors d’un contrôle de sécurité relatif aux personnes ou à l’examen médical en vue d’une nouvelle appréciation de son aptitude;
 - b. ne se présente pas au service militaire, bien qu’elle y ait été convoquée;
 - c. abandonne sa troupe ou son emploi militaire sans autorisation;
-- d. ne rejoint pas sa troupe après une absence justifiée.[^82-3]
+- d. ne rejoint pas sa troupe après une absence justifiée.[^82-4]
 
 <sup>2</sup> Dans les cas mineurs, la personne fautive sera punie disciplinairement.
 
 <sup>3</sup> En cas de service actif, la peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire.
 
-<sup>4</sup> Si, par la suite, l’auteur se présente spontanément pour accomplir son service, le juge pourra atténuer la peine (art. 42*a*).[^82-4]
+<sup>4</sup> Si, par la suite, l’auteur se présente spontanément pour accomplir son service, le juge pourra atténuer la peine (art. 42*a*).[^82-5]
 
-<sup>5</sup> L’art. 84 est réservé.[^82-5]
+<sup>5</sup> L’art. 84 est réservé.[^82-6]
 
 [^82-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^82-2]: Nouvelle teneur selon le ch. II 2 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^82-3]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^82-4]: Nouvelle teneur selon le ch. II 2 de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
-[^82-5]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^82-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^82-3]: Introduite par l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^82-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^82-5]: Nouvelle teneur selon le ch. II 2 de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
+[^82-6]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Insoumission par négligence
 
@@ -1648,23 +1653,25 @@ Sera punie d’une peine pécuniaire la personne qui, sans avoir le dessein de r
 
 <sup>1</sup>
 
-Sera punie d’une amende[^83-2] la personne qui, par négligence:
+Est punie d’une amende la personne qui, par négligence:[^83-2]
 
 - a. ne participe pas à la journée d’information ou au recrutement;
+- a<sup>bis</sup>.[^83-3] ne se présente pas à son audition lors d’un contrôle de sécurité relatif aux personnes ou à l’examen médical en vue d’une nouvelle appréciation de son aptitude;
 - b. ne se présente pas au service militaire, bien qu’elle y ait été convoquée;
 - c. abandonne sa troupe ou son emploi militaire sans autorisation;
-- d. ne rejoint pas sa troupe après une absence justifiée.[^83-3]
+- d. ne rejoint pas sa troupe après une absence justifiée.[^83-4]
 
 <sup>2</sup> Dans les cas mineurs, la personne fautive sera punie disciplinairement.
 
 <sup>3</sup> En cas de service actif, le juge pourra prononcer une peine pécuniaire de 90 jours-amende au plus.
 
-<sup>4</sup> L’art. 84 est réservé .[^83-4]
+<sup>4</sup> L’art. 84 est réservé .[^83-5]
 
 [^83-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 6 oct. 1995 sur le service civil, en vigueur depuis le 1<sup>er</sup> oct. 1996 ([RO 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1597](https://fedlex.data.admin.ch/eli/fga/1994/3__1597_)).
-[^83-2]: Nouvelle expression selon le ch. II 1 al. 5 de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le texte.
-[^83-3]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^83-4]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^83-3]: Introduite par l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^83-4]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^83-5]: Nouvelle teneur selon le ch. III 2 de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 6493](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Infraction au devoir de servir en cas d’admission au service civil, d’affectation au service sans arme et d’inaptitude au service
 
@@ -2021,7 +2028,7 @@ sera, si aucune autre disposition pénale n’est applicable, puni d’une peine
 
 [^107-1]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 1950, en vigueur depuis le 1<sup>er</sup> juil. 1951 ([RO 1951 439](https://fedlex.data.admin.ch/eli/oc/1951/437_439_435); [FF 1949 II 133](https://fedlex.data.admin.ch/eli/fga/1949/2_137_133_685)).
 
-### Chapitre 6**** Génocide et crimes contre l'humanité
+### Chapitre 6 Génocide et crimes contre l'humanité
 
 [^book1-part2-chap6-1]
 
@@ -2087,7 +2094,7 @@ Est puni d’une peine privative de liberté de cinq ans au moins quiconque, dan
 
 <sup>3</sup> Dans les cas de moindre gravité relevant de l’al. 1, let. c à j, le juge peut prononcer une peine privative de liberté d’un an au moins.
 
-### Chapitre 6<sup>bis</sup> Crimes de guerre****
+### Chapitre 6<sup>bis</sup> Crimes de guerre
 
 [^book1-part2-chap6bis-1]
 
@@ -2260,7 +2267,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 [^114-1]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
-### Chapitre 6<sup>ter</sup>**** Dispositions communes aux chapitres 6 et 6<sup>bis</sup>
+### Chapitre 6<sup>ter</sup> Dispositions communes aux chapitres 6 et 6<sup>bis</sup>
 
 [^book1-part2-chap6ter-1]
 
@@ -2442,7 +2449,7 @@ L’infraction sera punie disciplinairement si elle est de peu de gravité.
 [^128a-1]: Introduit par le ch. II de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^128a-2]: Nouvelle expression selon le ch. II 1 al. 6 de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Chapitre 8**** Crimes ou délits contre le patrimoine
+### Chapitre 8 Crimes ou délits contre le patrimoine
 
 [^book1-part2-chap8-1]
 
@@ -2995,7 +3002,7 @@ Est puni d’une peine privative de liberté d’un an au moins quiconque, dans 
 
 [^152-1]: Nouvelle teneur selon le ch. I de la LF du 13 juin 1941, en vigueur depuis le 1<sup>er</sup> janv. 1942 ([RO 57 1301](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 1021).
 
-### Chapitre 12**** Infractions contre l’intégrité sexuelle
+### Chapitre 12 Infractions contre l’intégrité sexuelle
 
 [^book1-part2-chap12-1]
 
@@ -3087,9 +3094,11 @@ Abrogé
 
 celui qui aura importuné une personne par des attouchements d’ordre sexuel ou par des paroles grossières,
 
-sera puni d’une amende.
+sera puni d’une amende[^159a-1].
 
 <sup>2</sup> L’infraction sera punie disciplinairement si elle est de peu de gravité.
+
+[^159a-1]: Nouvelle expression selon le ch. II 1 al. 5 de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
 
 ### Commission en commun
 
@@ -3493,7 +3502,7 @@ Les art. 179 et 179*a* sont aussi applicables à la procédure devant les tribun
 
 [^179b-1]: Introduit par le ch. I 2 de la LF du 22 juin 2001 (Infractions aux dispositions sur l’administration de la justice devant les tribunaux internationaux), en vigueur depuis le 1<sup>er</sup> juil. 2002 ([RO 2002 1491](https://fedlex.data.admin.ch/eli/oc/2002/236); [FF 2001 359](https://fedlex.data.admin.ch/eli/fga/2001/133)).
 
-## Livre 2**** Dispositions concernant les fautes disciplinaires
+## Livre 2 Dispositions concernant les fautes disciplinaires
 
 [^book2-1]
 
@@ -3574,9 +3583,13 @@ Sont assimilées aux fautes disciplinaires:
 
 #### Art. 185
 
-<sup>1</sup> L’exécution d’une sanction disciplinaire se prescrit par douze mois à compter de la date d’entrée en force de la décision l’infligeant.
+[^185-1]
 
-<sup>2</sup> La prescription de l’exécution est suspendue durant la procédure de recours contre une décision de conversion d’une amende. Lorsqu’une amende est convertie en arrêts au terme de la procédure de recours, l’exécution se prescrit par douze mois à compter de la date d’entrée en force de la décision de conversion.
+<sup>1</sup> L’exécution d’une amende disciplinaire se prescrit par trois ans à compter de la date d’entrée en force de la décision l’infligeant.
+
+<sup>2</sup> L’exécution des autres sanctions disciplinaires se prescrit par douze mois à compter de la date d’entrée en force de la décision l’infligeant.
+
+[^185-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Chapitre 2 Sanctions disciplinaires
 
@@ -3617,9 +3630,11 @@ Une amende disciplinaire peut être prononcée pour toutes les fautes de discipl
 
 <sup>4</sup> Le délai du paiement de l’amende disciplinaire est de deux mois à compter de la date d’entrée en force de la décision.
 
-<sup>5</sup> L’amende disciplinaire impayée est convertie en arrêts. 100 francs équivalent à un jour d’arrêts.
+<sup>5</sup> Lorsque l’amende disciplinaire n’est pas payée à temps, l’autorité d’exécution intente une poursuite pour dettes pour autant qu’un résultat puisse en être attendu. Si l’amende disciplinaire est inexécutable par cette voie, elle est convertie en arrêts. 100 francs équivalent à un jour d’arrêts. Le paiement ultérieur de l’amende disciplinaire entraîne l’annulation des arrêts.[^189-1]
 
 <sup>6</sup> La décision de convertir l’amende en arrêts est prise par l’autorité militaire qui a prononcé l’amende disciplinaire. L’amende disciplinaire prononcée par le commandant de troupe est convertie par l’autorité militaire du canton chargé du recouvrement.
+
+[^189-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Arrêts
 
@@ -3658,6 +3673,10 @@ Une amende disciplinaire peut être prononcée pour toutes les fautes de discipl
 <sup>2</sup> Les arrêts peuvent être subis sous la forme de la semi-détention. La personne mise aux arrêts poursuit son activité professionnelle ou sa formation; elle passe son temps de repos et de loisirs au lieu de détention.
 
 <sup>3</sup> L’exécution des arrêts dans des établissements servant à l’exécution des peines ou à la détention préventive n’est autorisée que si le secteur disciplinaire est nettement séparé du secteur pénal.
+
+<sup>4</sup> Si le canton de domicile ne dispose pas de suffisamment de moyens adaptés pour exécuter les arrêts avant l’expiration de la prescription, il peut demander au chef de l’Armée le soutien de l’administration militaire ou de l’armée. Le soutien est accordé uniquement lorsqu’il n’entrave pas l’accomplissement des tâches de celles-ci.[^192-1]
+
+[^192-1]: Introduit par l’annexe ch. 1 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 ### Confiscation
 
@@ -3848,7 +3867,7 @@ Des renseignements concernant les inscriptions portées au registre des sanction
 
 <sup>7</sup> Toute sanction disciplinaire infligée à un officier doit être communiquée au commandement directement supérieur du commandant qui a prononcé la sanction.
 
-### Chapitre 5 Voies de recours****
+### Chapitre 5 Voies de recours
 
 [^book2-chap5-1]
 
@@ -3987,7 +4006,7 @@ Le Conseil fédéral édicte les dispositions nécessaires d’exécution du dro
 
 ## Livre 3 Entrée en vigueur et application du code
 
-### Titre 1**** Relation entre présent code et l’ancien droit
+### Titre 1 Relation entre présent code et l’ancien droit
 
 [^book3-tit1-1]
 
@@ -4017,7 +4036,7 @@ Le Conseil fédéral édicte les dispositions nécessaires d’exécution du dro
 
 Abrogé
 
-### Titre 2 Juridiction****
+### Titre 2 Juridiction
 
 [^book3-tit2-1]
 
@@ -4118,7 +4137,7 @@ Lorsqu’une personne est inculpée de plusieurs infractions dont les unes sont 
 [^223-1]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^223-2]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 4 oct. 2002 sur le TPF, en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)[2131](https://fedlex.data.admin.ch/eli/oc/2003/313); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Titre 3 Procédure****
+### Titre 3 Procédure
 
 [^book3-tit3-1]
 
@@ -4130,7 +4149,7 @@ Lorsqu’une personne est inculpée de plusieurs infractions dont les unes sont 
 
 [^224-1]: Abrogé par le ch. I 2 de la LF du 23 mars 1979, avec effet au 1<sup>er</sup> janv. 1980 ([RO 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Titre 4 Exécution du jugement****
+### Titre 4 Exécution du jugement
 
 [^book3-tit4-1]
 
@@ -4142,7 +4161,7 @@ Lorsqu’une personne est inculpée de plusieurs infractions dont les unes sont 
 
 [^225-1]: Abrogé par le ch. I 2 de la LF du 23 mars 1979, avec effet au 1<sup>er</sup> janv. 1980 ([RO 1979 1037](https://fedlex.data.admin.ch/eli/oc/1979/1037_1037_1037); [FF 1977 II 1](https://fedlex.data.admin.ch/eli/fga/1977/2_1_1_1)).
 
-### Titre 5 Casier judiciaire****
+### Titre 5 Casier judiciaire
 
 [^book3-tit5-1]
 
@@ -4167,7 +4186,7 @@ Lorsqu’une personne est inculpée de plusieurs infractions dont les unes sont 
 
 [^227-1]: Abrogé par le ch. I de la LF du 13 juin 1941, avec effet au 1<sup>er</sup> janv. 1942 ([RO 57 1301](https://fedlex.data.admin.ch/eli/oc/57/1269_1301_1337); FF **1940** 1021).
 
-### Titre 6 Procédure en réhabilitation****
+### Titre 6 Procédure en réhabilitation
 
 [^book3-tit6-1]
 
@@ -4179,7 +4198,7 @@ Lorsqu’une personne est inculpée de plusieurs infractions dont les unes sont 
 
 [^228232-1]: Abrogés par le ch. III de la LF du 21 mars 2003, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
 
-### Titre 7**** Grâce et amnistie****
+### Titre 7 Grâce et amnistie
 
 [^book3-tit7-1][^book3-tit7-2]
 
@@ -4252,7 +4271,7 @@ Pour les jugements rendus en vertu du code pénal militaire, le droit de grâce 
 
 [^232e-1]: Introduit par le ch. III de la LF du 21 mars 2003, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1787).
 
-### Titre 8 Dispositions complémentaires et dispositions finales****
+### Titre 8 Dispositions complémentaires et dispositions finales
 
 [^book3-tit8-1]
 
@@ -4308,7 +4327,7 @@ Sont réservées:[^235-1]
 
 Le présent code entrera en vigueur le 1<sup>er</sup> janvier 1928.
 
-## Dispositions finales de la modification du 23 mars 1979****
+## Dispositions finales de la modification du 23 mars 1979
 
 [^u1-1]
 
@@ -4320,7 +4339,7 @@ Le présent code entrera en vigueur le 1<sup>er</sup> janvier 1928.
 
 [^u1-2]: Les art. 215 et 216 ont actuellement une nouvelle teneur et l’art. 217 est abrogé.
 
-## Dispositions finales de la modification du 21 mars 2003****
+## Dispositions finales de la modification du 21 mars 2003
 
 [^u2-1]
 
@@ -4346,7 +4365,7 @@ Le présent code entrera en vigueur le 1<sup>er</sup> janvier 1928.
 [^u2-5]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^u2-6]: Nouvelle teneur selon le ch. II de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735))
 
-## Disposition transitoire de la modification du 19 juin 2015****
+## Disposition transitoire de la modification du 19 juin 2015
 
 [^u3-1]
 
