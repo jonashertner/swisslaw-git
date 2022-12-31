@@ -5,10 +5,10 @@ title: Kantonale Zivilstandsverordnung (ZVO)
 short: ZVO
 language: de
 version: "2019-07-01"
-nachtrag: "105"
-valid_until: 2023-01-01
+nachtrag: "119"
+valid_until: 2023-07-01
 adopted: 2004-12-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-231_1-2004_12_01-2005_01_01-119.html"
 text: pdf
 ---
 
@@ -72,7 +72,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 <sup>4</sup> Die Sitzgemeinde des Zivilstandsamtes meldet dem Gemeindeamt die Lokale für Trauungen und für die Beurkundung von eingetragenen Partnerschaften vor ihrer Benützung.
 
@@ -101,7 +101,7 @@ beschliesst:
 § 5 a.[^4-2]
 
 [^4-1]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
-[^4-2]: Aufgehoben durch RRB vom 19. Dezember 2018 (OS 74, 186; ABl 2019-02-01). In Kraft seit 1. Juli 2019. 1. 7. 19 - 105 7
+[^4-2]: Aufgehoben durch RRB vom 19. Dezember 2018 (OS 74, 186; ABl 2019-02-01). In Kraft seit 1. Juli 2019.
 
 ### C. Personal
 
@@ -186,7 +186,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **3**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 [^11-1]: Aufgehoben durch RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 [^11-2]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
@@ -297,7 +297,7 @@ Das Gemeindeamt[^9-1] kann Aus- und Weiterbildungskurse für obligatorisch erkl�
 
 **5**
 
-- 1\. 7. 19 - 105 § 22. Die Zivilstandsverordnung vom 29. November 2000 wird aufgehoben.
+- 1\. 1. 23 - 119 § 22. Die Zivilstandsverordnung vom 29. November 2000 wird aufgehoben.
 
 [^hHSchlussbestimmung-1]: Fassung gemäss RRB vom 24. November 2010 (OS 65, 1008; ABl 2010, 2666). In Kraft seit 1. Januar 2011.
 
@@ -358,7 +358,7 @@ und Wettswil a. A.
 
 [^hObfeldenOttenbach-1]
 
-Bezirk Kleinandelfingen Adlikon, Andelfingen, Benken, Berg a. I., Andelfingen[^hBaumahObfeldenOtte-1] Buch a. I., Dachsen, Dorf, Feuerthalen, Flaach, Flurlingen, Henggart, Humlikon, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Rheinau, Stammheim, Thalheim a. d. Th., Trüllikon,
+Bezirk Kleinandelfingen Andelfingen, Benken, Berg a. I., Andelfingen[^hBaumahObfeldenOtte-1], <sup>26</sup> Buch a. I., Dachsen, Dorf, Feuerthalen, Flaach, Flurlingen, Henggart, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Rheinau, Stammheim, Thalheim a. d. Th., Trüllikon,
 
 [^hBaumahObfeldenOtte-1]: Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
 
@@ -425,7 +425,7 @@ und Zell
 
 **9**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
@@ -434,3 +434,4 @@ und Zell
 - [8] Eingefügt durch RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
 - [9] Fassung gemäss RRB vom 17. Dezember 2008 (OS 64, 220; ABl 2009, 661). In Kraft seit 1. Januar 2009.
 - [21] Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
+- [26] Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt. 1. 1. 23 - 119 7
