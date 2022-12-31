@@ -4,13 +4,12 @@ number: "704.111"
 title: "Ordonnance sur les rives des lacs et des rivières *"
 short: ORL
 language: fr
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1983-06-29
 in_force: 1983-09-03
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/704.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2547/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2698/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2547/pdf_file"
 
 (ORL)
 
-du 29.06.1983 (état au 01.03.2022)
+du 29.06.1983 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -81,7 +80,7 @@ arrête:
 
 <sup>1</sup> Le projet de plan directeur est élaboré soit par la Direction de l'intérieur et de la justice, soit par la région ou par des tiers en collaboration avec les communes, sur demande de la Direction de l’intérieur et de la justice et en fonction de ses indications et instructions. Il faut à cet égard tenir compte des études de bases fournies par les services spécialisés du canton, ainsi que des plans directeurs des communes et des régions, et entendre les organisations de protection de la nature et des rives. Les autres services et organisations intéressés peuvent être consultés.
 
-<sup>2</sup> Le projet est mis pendant 30 jours à l’enquête publique auprès des communes concernées et de l’Office des affaires communales et de l’organisation du territoire. L’enquête publique doit être annoncée dans la Feuille officielle et dans la feuille officielle d’avis. Durant l’enquête publique, chacun peut formuler par écrit ses objections et propositions auprès des communes ou de l’Office des affaires communales et de l’organisation du territoire.
+<sup>2</sup> Le projet est mis pendant 30 jours à l’enquête publique auprès des communes concernées et de l’Office des affaires communales et de l’organisation du territoire. L’enquête publique doit être annoncée dans la Feuille officielle et dans l'organe de publication officiel de la commune. Durant l’enquête publique, chacun peut formuler par écrit ses objections et propositions auprès des communes ou de l’Office des affaires communales et de l’organisation du territoire.
 
 <sup>3</sup> La commune prend position au sujet des objections et propositions qui portent sur son territoire et au sujet du projet de plan directeur. La Direction de l’intérieur et de la justice établit le rapport récapitulatif de la procédure de participation.
 
@@ -121,7 +120,7 @@ arrête:
 
 **Reconnaissance des plans existants**
 
-<sup>1</sup> La proposition du conseil communal en vue de la reconnaissance d’un plan d’affectation existant au titre de plan de protection des rives doit être annoncée dans la Feuille officielle et dans la feuille officielle d’avis.
+<sup>1</sup> La proposition du conseil communal en vue de la reconnaissance d’un plan d’affectation existant au titre de plan de protection des rives doit être annoncée dans la Feuille officielle et dans l'organe de publication officiel de la commune.
 
 <sup>2</sup> Quiconque justifiant d'un intérêt propre et digne de protection, peut faire valoir au moyen d'une opposition écrite et motivée, déposée dans les 30 jours, que le plan est contraire aux dispositions de la loi sur les rives des lacs et des rivières[^8-1]. Ce droit appartient également aux organisations qui s'occupent en permanence de poursuivre les buts de la loi sur les rives des lacs et des rivières.
 

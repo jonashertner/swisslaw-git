@@ -4,13 +4,12 @@ number: "704.111"
 title: See- und Flussuferverordnung
 short: SFV
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1983-06-29
 in_force: 1983-09-03
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/704.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2547/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2698/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2547/pdf_file"
 
 (SFV)
 
-vom 29.06.1983 (Stand 01.03.2022)
+vom 29.06.1983 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -81,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Der Entwurf des Richtplanes wird von der Direktion für Inneres und Justiz oder in ihrem Auftrag und nach ihren Vorgaben und Weisungen von der Region oder von Dritten mit den Gemeinden erarbeitet. Dabei sind die Grundlagen zuständiger Fachstellen des Kantons zu berücksichtigen, die Richtpläne der Gemeinden und Regionen zu beachten und die Natur- und Uferschutzorganisationen anzuhören. Weitere interessierte Stellen und Organisationen können beigezogen werden.
 
-<sup>2</sup> Der Entwurf wird in den von ihm berührten Gemeinden und beim Amt für Gemeinden und Raumordnung während 30 Tagen öffentlich aufgelegt. Die Auflage wird im Amtsblatt und im amtlichen Anzeiger bekannt gemacht. Während der Auflagefrist kann jedermann bei der Gemeinde oder beim Amt für Gemeinden und Raumordnung schriftlich Einwände und Anregungen vorbringen.
+<sup>2</sup> Der Entwurf wird in den von ihm berührten Gemeinden und beim Amt für Gemeinden und Raumordnung während 30 Tagen öffentlich aufgelegt. Die Auflage wird im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde bekannt gemacht. Während der Auflagefrist kann jedermann bei der Gemeinde oder beim Amt für Gemeinden und Raumordnung schriftlich Einwände und Anregungen vorbringen.
 
 <sup>3</sup> Die Gemeinde nimmt zu den ihr Gebiet betreffenden Einwänden und Anregungen und zum Richtplanentwurf Stellung. Die Direktion für Inneres und Justiz erstellt den Mitwirkungsbericht.
 
@@ -121,7 +120,7 @@ beschliesst:
 
 **Anerkennung bestehender Pläne**
 
-<sup>1</sup> Der Antrag des Gemeinderates auf Anerkennung eines bestehenden Nutzungsplanes als Uferschutzplan ist im Amtsblatt und im amtlichen Anzeiger bekannt zu machen.
+<sup>1</sup> Der Antrag des Gemeinderates auf Anerkennung eines bestehenden Nutzungsplanes als Uferschutzplan ist im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde bekannt zu machen.
 
 <sup>2</sup> Wer ein schutzwürdiges eigenes Interesse dartut, kann mit schriftlicher und begründeter Einsprache innert 30 Tagen geltend machen, der Plan widerspreche den Vorschriften des Gesetzes über See- und Flussufer[^8-1]. Das gleiche Recht haben die Organisationen, die sich dauernd mit der Wahrung der vom Gesetz über See- und Flussufer verfolgten Interessen befassen.
 
