@@ -4,13 +4,13 @@ number: "811.111"
 title: Verordnung über die beruflichen Tätigkeiten im Gesundheitswesen
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2485/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2748/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2485/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-vom 24.10.2001 (Stand 01.01.2022)
+vom 24.10.2001 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1029,6 +1029,12 @@ beschliesst:
 <sup>1</sup> Verfügungen der zuständigen Stelle können nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^87-1] bei der Gesundheits-, Sozial- und Integrationsdirektorin oder beim Gesundheits-, Sozial- und Integrationsdirektor angefochten werden.
 
 [^87-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
+
+#### Art. 87a
+
+**Endabrechnung aus Leistungsverträgen**
+
+<sup>1</sup> Das Gesundheitsamt verfügt die Endabrechnungen aus den Leistungsverträgen nach Artikel 4 Absatz 2 GesG spätestens ein Jahr nach Vertragsende.
 
 ## 5 Übergangs- und Schlussbestimmungen
 

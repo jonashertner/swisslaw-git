@@ -4,13 +4,13 @@ number: "811.111"
 title: Ordonnance sur les activités professionnelles dans le secteur sanitaire
 short: "Ordonnance sur la santé publique, OSP"
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2485/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2748/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2485/pdf_file"
 
 (Ordonnance sur la santé publique, OSP)
 
-du 24.10.2001 (état au 01.01.2022)
+du 24.10.2001 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1032,6 +1032,12 @@ arrête:
 <sup>1</sup> Les décisions du service compétent peuvent faire l'objet d'un recours auprès du directeur ou de la directrice de la santé, des affaires sociales et de l’intégration conformément aux dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^87-1].
 
 [^87-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
+
+#### Art. 87a
+
+**Décompte final résultant des contrats de prestations**
+
+<sup>1</sup> L’ODS établit le décompte final résultant des contrats de prestations visés à l’article 4, alinéa 2 LSP par voie de décision au plus tard une année après l’échéance du contrat.
 
 ## 5 Dispositions transitoires et dispositions finales
 
