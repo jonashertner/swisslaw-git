@@ -4,13 +4,12 @@ number: "426.11"
 title: "Loi sur la protection de la nature *"
 short: LCPN
 language: fr
-version: 2021-12-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-15
+version: 2023-01-01
+version_adopted: 2021-12-08
 adopted: 1992-09-15
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2422/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2636/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2422/pdf_file"
 
 (LCPN)
 
-du 15.09.1992 (état au 01.12.2021)
+du 15.09.1992 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -452,7 +451,7 @@ arrête:
 
 <sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement ordonne la publication du projet de plan ainsi que des prescriptions prévues dans les communes touchées et il renseigne les propriétaires fonciers concernés qui lui sont connus.
 
-<sup>2</sup> La mise à l'enquête est publiée dans la Feuille officielle et dans la feuille officielle d'avis.
+<sup>2</sup> La mise à l'enquête est publiée dans la Feuille officielle et dans l’organe de publication officiel de la commune.
 
 <sup>3</sup> Après la communication ou la publication dans la Feuille officielle, rien qui puisse porter atteinte au but de la protection ne saurait être entrepris dans la zone protégée ou sur l'objet protégé en vertu du plan.
 

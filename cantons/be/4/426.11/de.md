@@ -4,13 +4,12 @@ number: "426.11"
 title: Naturschutzgesetz
 short: NSchG
 language: de
-version: 2021-12-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-15
+version: 2023-01-01
+version_adopted: 2021-12-08
 adopted: 1992-09-15
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2422/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2422/pdf_file"
 
 (NSchG)
 
-vom 15.09.1992 (Stand 01.12.2021)
+vom 15.09.1992 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -452,7 +451,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion veranlasst die öffentliche Auflage des Planentwurfs und der Vorschriften in den betroffenen Gemeinden und orientiert soweit bekannt die betroffenen Grundeigentümerinnen und Grundeigentümer.
 
-<sup>2</sup> Die Auflage wird im Amtsblatt und im amtlichen Anzeiger veröffentlicht.
+<sup>2</sup> Die Auflage wird im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde veröffentlicht.
 
 <sup>3</sup> Nach der Mitteilung oder der Veröffentlichung im Amtsblatt darf im Schutzgebiet oder am Schutzobjekt gemäss Planentwurf nichts mehr unternommen werden, was den Schutzzweck beeinträchtigen könnte.
 
