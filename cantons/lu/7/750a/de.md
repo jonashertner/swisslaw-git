@@ -4,13 +4,13 @@ number: 750a
 title: Gebäudeversicherungsverordnung
 short: GVV
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-09-04
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-02
 adopted: 1976-09-10
 in_force: 1977-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/750a"
-pdf: "https://srl.lu.ch/api/de/versions/3332/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3332/pdf_file"
 
 (GVV)
 
-vom 10.09.1976 (Stand 01.01.2019)
+vom 10.09.1976 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -185,15 +185,15 @@ beschliesst:
 
 #### § 17
 
-**Prämien und Prämienrückerstattung**
+**Prämien**
 
-<sup>1</sup> Die Gebäude werden nach der Bauart eingeteilt in massive und nichtmassive.
+<sup>1</sup> …
 
-<sup>2</sup> Als massiv gelten Gebäude, deren Umfassungswände, Bedachung und Decken als Ganzes zu 80 % aus nichtbrennbaren Bauelementen bestehen. Alle andern Gebäude gelten als nichtmassiv.
+<sup>2</sup> …
 
-<sup>3</sup> Die Prämie beträgt für massive Gebäude 0,55 ‰ des Versicherungswertes, für nicht-massive 0,68 ‰.
+<sup>3</sup> Die Prämie für Gebäude beträgt 0,55 ‰ des Versicherungswertes.
 
-<sup>4</sup> Wenn die finanzielle Lage der Gebäudeversicherung und das Jahresergebnis es erlauben, kann die Verwaltungskommission Prämienrückerstattungen anordnen.
+<sup>4</sup> …
 
 #### § 18
 
@@ -242,9 +242,9 @@ beschliesst:
 
 <sup>1</sup> Der Reservefonds bildet zusammen mit den Rückstellungen das risikotragende Kapital der Gebäudeversicherung.
 
-<sup>2</sup> Die Verwaltungskommission berechnet das Risikomass, die Mindesthöhe und die angestrebte Höhe des risikotragenden Kapitals nach der in Anhang 1 festgelegten Methode und publiziert diese Werte im Geschäftsbericht.
+<sup>2</sup> Die Verwaltungskommission berechnet das Risikomass, die Mindesthöhe und die maximale Höhe des risikotragenden Kapitals nach der in Anhang 1 festgelegten Methode und publiziert diese Werte im Geschäftsbericht.
 
-<sup>3</sup> Unterschreitet das risikotragende Kapital die festgelegte Mindesthöhe, sind Massnahmen zur Erhöhung des Kapitals zu ergreifen. Wird die angestrebte Höhe überschritten, sind Prämienrabatte oder Prämiensenkungen zu prüfen.
+<sup>3</sup> Unterschreitet das risikotragende Kapital die festgelegte Mindesthöhe, sind Massnahmen zur Sicherung und zur Erhöhung des Kapitals zu ergreifen. Liegt das risikotragende Kapital zwischen der Mindesthöhe und der maximalen Höhe, kann die Verwaltungskommission, unter dem Vorbehalt der Genehmigung durch den Regierungsrat, je nach zu erwartendem Jahresergebnis einen Prämienrabatt gewähren. Wird die maximale Höhe überschritten, hat die Verwaltungskommission dem Regierungsrat eine Prämiensenkung zu beantragen oder ihm ist darzulegen, inwiefern andere Massnahmen, wie beispielsweise die Gewährung eines Prämienrabatts, angezeigt sind.
 
 <sup>4</sup> Die Berechnungsmethode und die Werte des risikotragenden Kapitals sind regelmässig durch eine externe Stelle überprüfen zu lassen.
 
