@@ -4,11 +4,11 @@ title: Verordnung vom 27. April 2005 über den Koordinierten Sanitätsdienst (VK
 short: VKSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/345"
 language: de
-version: 2016-02-01
+version: 2023-01-01
 adopted: 2005-04-27
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20160201/de/xml/fedlex-data-admin-ch-eli-cc-2005-345-20160201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20160201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/345/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-345-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/345/20160201/de"
 
 (VKSD)
 
-vom 27. April 2005 (Stand am 1. Februar 2016)
+vom 27. April 2005 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1] und Artikel 75 Absatz 1 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^ingress-2],[^ingress-3]
+gestützt auf Artikel 6 Absatz 1 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^ingress-1],[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^ingress-3]: Fassung gemäss Ziff. I 3 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^ingress-1]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 ## 1. Abschnitt: Aufgaben des Koordinierten Sanitätsdienstes
 
@@ -51,53 +50,54 @@ Die KSD-Partner planen und bereiten den Einsatz der verfügbaren Mittel für all
 
 #### Art. 3
 
-**Beauftragter des Bundesrates für den KSD**
+**Leitung des KSD**[^3-1]
 
-<sup>1</sup> Die Leitung des KSD obliegt dem Beauftragten des Bundesrates für den KSD (Beauftragter KSD).
+Die Leitung des KSD obliegt dem Bundesamt für Bevölkerungsschutz (BABS).
 
-<sup>2</sup> Der Bundesrat wählt den Beauftragten KSD. Der Beauftragte KSD ist in dieser Funktion direkt dem Bundesrat unterstellt.
-
-<sup>3</sup> Der Beauftragte KSD ist organisatorisch dem Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport angegliedert.
+[^3-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 4
 
-**Aufgaben des Beauftragten KSD**
+**Aufgaben des BABS in Bezug auf den KSD[^4-1]**
 
-Der Beauftragte KSD hat folgende Aufgaben:
+Das BABS hat in Bezug auf den KSD folgende Aufgaben:[^4-2]
 
 - a. Er erstellt eine konsolidierte Risikoanalyse, informiert die zuständigen Behörden und empfiehlt geeignete Massnahmen zur Prävention, Bewältigung und Begrenzung der Risiken.
 - b. Er leitet die Leitungskonferenz KSD und das sanitätsdienstliche Koordinationsgremium (SANKO).
 - c. Er erarbeitet das Konzept über den Koordinierten Sanitätsdienst sowie weitere Konzepte für spezielle sanitätsdienstliche Fachbereiche und passt sie bei Bedarf an.
 - d. Er kann eine aktualisierte Gesamtübersicht über verfügbare Ressourcen im Gesundheitswesen Schweiz erstellen und stellt sie den KSD-Partnern für die Vorbereitung und den Einsatz zur Verfügung.
-- e.[^4-1] Er fördert und koordiniert die Aus-, Weiter- und Fortbildung der Kader und Spezialisten der KSD-Partner in den sanitätsdienstlichen Bereichen sowie im Bereich der Tierseuchenbekämpfung.
+- e.[^4-3] Er fördert und koordiniert die Aus-, Weiter- und Fortbildung der Kader und Spezialisten der KSD-Partner in den sanitätsdienstlichen Bereichen sowie im Bereich der Tierseuchenbekämpfung.
 - f. Er schlägt den Behörden des Bundes und der Kantone rechtliche und organisatorische Massnahmen in bestimmten sanitätsdienstlichen Bereichen vor.
 - g. Er informiert den Bundesrat periodisch über den Stand der Vorbereitung des Koordinierten Sanitätsdienstes.
 - h. Er sorgt für einen ökonomischen Einsatz der Ressourcen des KSD.
-- i.[^4-2] Er koordiniert die Massnahmen von militärischen Stellen zur Prävention und Bekämpfung der Ausbreitung von Tierseuchen mit den Massnahmen der zivilen Stellen.
+- i.[^4-4] Er koordiniert die Massnahmen von militärischen Stellen zur Prävention und Bekämpfung der Ausbreitung von Tierseuchen mit den Massnahmen der zivilen Stellen.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 103](https://fedlex.data.admin.ch/eli/oc/2016/16)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 103](https://fedlex.data.admin.ch/eli/oc/2016/16)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 103](https://fedlex.data.admin.ch/eli/oc/2016/16)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 103](https://fedlex.data.admin.ch/eli/oc/2016/16)).
 
 #### Art. 5
 
-**Kontakt mit Bund und Kantonen**
+[^5-1]
 
-Der Beauftragte KSD ist ermächtigt, mit den zivilen und militärischen Stellen des Bundes und der Kantone direkt zu verkehren.
+[^5-1]: Aufgehoben durch Ziff. I der V vom 23. Sept. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 6
 
 **Bearbeitung von Daten**[^6-1]
 
-Der Beauftragte KSD bearbeitet Personendaten für den KSD nach Artikel 35 der Verordnung vom 16. Dezember 2009[^6-2] über die militärischen Informationssysteme.
+Das BABS[^6-2] bearbeitet Personendaten für den KSD nach Artikel 35 der Verordnung vom 16. Dezember 2009[^6-3] über die militärischen Informationssysteme.
 
 [^6-1]: Fassung gemäss Ziff. I 3 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^6-2]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
+[^6-2]: Ausdruck gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
+[^6-3]: [SR 510.911](https://fedlex.data.admin.ch/eli/cc/2009/824)
 
 #### Art. 7
 
 **Beteiligte Institutionen**
 
-Der Beauftragte KSD wird auf Stufe Bund durch folgende Institutionen unterstützt:
+Das BABS wird auf Stufe Bund durch folgende Institutionen unterstützt:
 
 - a. Leitungskonferenz KSD;
 - b. SANKO;
@@ -107,15 +107,15 @@ Der Beauftragte KSD wird auf Stufe Bund durch folgende Institutionen unterstütz
 
 **Leitungskonferenz KSD**
 
-<sup>1</sup> Die Leitungskonferenz KSD berät den Beauftragten KSD in allen sanitätsdienstlichen Koordinationsbelangen und unterstützt ihn bei der Umsetzung der Koordination.
+<sup>1</sup> Die Leitungskonferenz KSD berät das BABS in allen sanitätsdienstlichen Koordinationsbelangen und unterstützt es bei der Umsetzung der Koordination.
 
-<sup>2</sup> Der Beauftragte KSD ernennt die Mitglieder der Leitungskonferenz KSD auf Vorschlag aller KSD-Partner. Die Mitglieder werden aus den Reihen aller wichtigen KSD-Partner ausgewählt.
+<sup>2</sup> Das BABS ernennt die Mitglieder der Leitungskonferenz KSD auf Vorschlag aller KSD-Partner. Die Mitglieder werden aus den Reihen aller wichtigen KSD-Partner ausgewählt.
 
 #### Art. 9
 
 **SANKO**
 
-<sup>1</sup> Das SANKO unterstützt den Beauftragten KSD in allen sanitätsdienstlichen Fragen und Belangen und berät ihn bei Aufgaben von strategischer Bedeutung.
+<sup>1</sup> Das SANKO unterstützt das BABS in allen sanitätsdienstlichen Fragen und Belangen und berät es bei Aufgaben von strategischer Bedeutung.
 
 <sup>2</sup>
 
@@ -129,11 +129,11 @@ Mitglieder des SANKO sind von Amtes wegen:
 - f. ein Vertreter des Führungsstabes der Armee;
 - g. der Chef Geschäftsstelle.[^9-1]
 
-<sup>2bis</sup> Die übrigen Mitglieder des SANKO werden vom Beauftragten KSD auf Vorschlag und im Einvernehmen mit der Leitungskonferenz KSD aus den Vertretern der KSD-Partner ernannt.[^9-2]
+<sup>2bis</sup> Die übrigen Mitglieder des SANKO werden vom BABS auf Vorschlag und im Einvernehmen mit der Leitungskonferenz KSD aus den Vertretern der KSD-Partner ernannt.[^9-2]
 
 <sup>3</sup> Das SANKO übernimmt auf Anordnung des Bundesrates auf Stufe Bund die Koordination bei besonderen und ausserordentlichen Lagen sowie im Fall eines bewaffneten Konflikts. Es verfügt zu diesem Zweck über einen ständigen Kernstab.
 
-<sup>4</sup> Der Beauftragte KSD kann bei Bedarf Expertinnen und Experten zur Mitarbeit im SANKO beiziehen.
+<sup>4</sup> Das BABS kann bei Bedarf Expertinnen und Experten zur Mitarbeit im SANKO beiziehen.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 103](https://fedlex.data.admin.ch/eli/oc/2016/16)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. Febr. 2016 ([AS 2016 103](https://fedlex.data.admin.ch/eli/oc/2016/16)).
@@ -142,54 +142,33 @@ Mitglieder des SANKO sind von Amtes wegen:
 
 **Fachgruppen**
 
-Der Beauftragte KSD kann bei Bedarf ständige oder nicht ständige Fachgruppen zur Bearbeitung von bestimmten Fragen aus verschiedenen Fachbereichen schaffen, die ihn in seinen Tätigkeiten unterstützen.
+Das BABS kann bei Bedarf ständige oder nicht ständige Fachgruppen zur Bearbeitung von bestimmten Fragen aus verschiedenen Fachbereichen schaffen, die es in seinen Tätigkeiten unterstützen.
 
 #### Art. 11
 
-**Geschäftsstelle KSD**
+**Geschäftsstelle KSD**[^11-1]
 
-<sup>1</sup> Der Beauftragte KSD verfügt über eine Geschäftsstelle KSD.
+<sup>1</sup> Das BABS führt die Geschäftsstelle KSD.
 
-<sup>2</sup> Die Geschäftsstelle KSD ist ihm direkt unterstellt.
+<sup>2</sup> Die Geschäftsstelle KSD führt das Sekretariat der Leitungskonferenz KSD, des SANKO und der Fachgruppen.
 
-<sup>3</sup> Sie führt das Sekretariat des Beauftragten KSD, der Leitungskonferenz KSD, des SANKO und der Fachgruppen.
+[^11-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
-<sup>4</sup> Der Beauftragte KSD verfügt in der Geschäftsstelle KSD über die ihm von der organisatorisch vorgesetzten Verwaltungseinheit zugeteilten personellen und finanziellen Ressourcen.
-
-## 3. Abschnitt: Kompetenzzentrum für Militär- und Katastrophenmedizin****
+## 3. Abschnitt: Notfall- und katastrophenmedizinische Ausbildung
 
 [^sec3-1]
 
-[^sec3-1]: Fassung gemäss Ziff. I 3 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 12
 
-**Militär- und katastrophenmedizinische Ausbildungszusammenarbeit**
+<sup>1</sup> Das BABS fördert und koordiniert die Zusammenarbeit in der notfall- und katastrophenmedizinischen Ausbildung.
 
-<sup>1</sup> Der Beauftragte KSD fördert und koordiniert die militär- und katastrophenmedizinische Ausbildungszusammenarbeit.
-
-<sup>2</sup>
-
-Das Kompetenzzentrum für Militär- und Katastrophenmedizin wird unterstützt:[^12-1]
-
-- a. für die Weiter- und Fortbildung von Angehörigen universitärer Medizinalberufe sowie weiteren Angehörigen von Gesundheitsberufen, welche im Sanitätsdienst der Armee, in einer anderen Partnerorganisation des KSD oder im Schweizerischen Korps für humanitäre Hilfe in einer Kaderfunktion tätig sind;
-- b. für die Förderung der militär- und katastrophenmedizinischen Forschung.
-
-<sup>3</sup> Für die Zusammenarbeit mit Stellen ausserhalb der Bundesverwaltung kann der Beauftragte KSD Leistungsverträge abschliessen.
-
-[^12-1]: Fassung gemäss Ziff. I 3 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+<sup>2</sup> Für die Zusammenarbeit mit Stellen ausserhalb der Bundesverwaltung kann das BABS Leistungsverträge abschliessen.
 
 #### Art. 13
 
-**Geschäftsstelle**[^13-1]
-
-<sup>1</sup> Dem Beauftragten KSD wird für die Leitung des Kompetenzzentrums für Militär‑ und Katastrophenmedizin eine Geschäftsstelle zur Verfügung gestellt. Die Geschäftsstelle ist ihm direkt unterstellt.
-
-<sup>2</sup> Die Geschäftsstelle erledigt Aufgaben und Arbeiten des Beauftragten KSD und weiterer Stellen des Kompetenzzentrums. Zu diesem Zweck verkehrt sie direkt mit zivilen und militärischen Behörden und Stellen sowie privaten Organisationen und Institutionen.
-
-<sup>3</sup> Der Beauftragte KSD verfügt in der Geschäftsstelle über die ihm von der organisatorisch vorgesetzten Verwaltungseinheit zugeteilten personellen und finanziellen Ressourcen.
-
-[^13-1]: Fassung gemäss Ziff. I 3 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+Aufgehoben
 
 ## 4. Abschnitt: Schlussbestimmungen
 
@@ -202,7 +181,7 @@ Es werden aufgehoben:
 - 1\. Verordnung vom 1. September 1976[^14-1] über die Vorbereitung des Koordinierten Sanitätsdienstes;
 - 2\. Verordnung vom 18. Juni 1984[^14-2] über das Eidgenössische Sanitätsdienstliche Koordinationsorgan.
 
-[^14-1]: [[AS 1976 1837](https://fedlex.data.admin.ch/eli/oc/1976/1837_1837_1837), [1994 135](https://fedlex.data.admin.ch/eli/oc/1994/135_135_135)]
+[^14-1]: [[AS 1976 1837](https://fedlex.data.admin.ch/eli/oc/1976/1837_1837_1837); [1994 135](https://fedlex.data.admin.ch/eli/oc/1994/135_135_135)]
 [^14-2]: [[AS 1984 689](https://fedlex.data.admin.ch/eli/oc/1984/689_689_689)]
 
 #### Art. 15
