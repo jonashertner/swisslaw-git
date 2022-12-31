@@ -4,13 +4,13 @@ number: BaB 164.100
 title: Ordnung betreffend Entlöhnung der Mitarbeiterinnen und Mitarbeiter der Bürgergemeinde der Stadt Basel
 short: Lohnordnung
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-12-10
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-13
 adopted: 1996-04-02
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20164.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4792/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lohnordnung | Basel: Bürgergemeinde
 
 (Lohnordnung)
 
-Vom 2. April 1996 (Stand 1. Januar 2020)
+Vom 2. April 1996 (Stand 1. Januar 2023)
 
 Der Bürgergemeinderat der Stadt Basel
 
