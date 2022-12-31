@@ -3,20 +3,20 @@ canton: GL
 number: I A/1/1
 title: Verfassung des Kantons Glarus
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-01
+version: 2023-01-01
+valid_until: 2025-05-03
+version_adopted: 2021-09-05
 adopted: 1988-05-01
 in_force: 1988-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2323/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Glarus
 
-Vom 01.05.1988 (Stand 01.07.2022)
+Vom 01.05.1988 (Stand 01.01.2023)
 
 Das Volk des Landes Glarus, eingedenk seiner Verantwortung vor Gott, den Menschen und der Schweizerischen Eidgenossenschaft, gibt sich folgende
 
@@ -310,9 +310,9 @@ Verfassung:
 
 <sup>1</sup> Der Kanton gewährleistet den Betrieb eines Spitals mit Standort im Kanton Glarus (Kantonsspital). Das Gesetz regelt die vom Kantonsspital zu erbringenden Leistungen und die Rechtsform.
 
-<sup>2</sup> Die Gemeinden sorgen für die stationäre Altersbetreuung.
+<sup>2</sup> Der Kanton gewährleistet die ambulante und stationäre Gesundheitsversorgung.
 
-<sup>3</sup> Sie können Alters- und Pflegeheime führen oder deren Führung an Dritte übertragen.
+<sup>3</sup> …
 
 <sup>4</sup> Das Gesetz regelt die Aufsicht.
 
