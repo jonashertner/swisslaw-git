@@ -3,13 +3,12 @@ canton: FR
 number: "631.13"
 title: Verordnung über die Fälligkeit und den Bezug der Steuerforderungen
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-06
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2001-02-13
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/6910/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8647/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6910/pdf_file"
 
 Fälligkeit und Bezug der Steuerforderungen – B
 
-vom 13.02.2001 (Fassung in Kraft getreten am 01.01.2022)
+vom 13.02.2001 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -60,13 +59,13 @@ beschliesst:
 
 **Allgemeiner Fälligkeitstermin**
 
-<sup>1</sup> Die Differenz zwischen dem gemäss Veranlagung geschuldeten Steuerbetrag und dem provisorisch als Akontozahlungen fakturierten Betrag wird am allgemeinen Fälligkeitstermin fällig. Sie muss am 30. Tag nach der Eröffnung der Schlussabrechnung bezahlt sein.
+<sup>1</sup> …
 
 <sup>2</sup> Für natürliche Personen ist der allgemeine Fälligkeitstermin der 30. April des dem Steuerjahr folgenden Jahres.
 
 <sup>3</sup> Für juristische Personen ist der allgemeine Fälligkeitstermin das Ende des vierten Monats nach Abschluss der Steuerperiode.
 
-<sup>4</sup> Für die Steuerpflichtigen am Ende der Steuerpflicht ist der allgemeine Fälligkeitstermin das Eröffnungsdatum der Schlussabrechnung, falls diese vor den in den Absätzen 1 oder 2 festgelegten Daten erstellt wird.
+<sup>4</sup> Für die Steuerpflichtigen am Ende der Steuerpflicht ist der allgemeine Fälligkeitstermin das Eröffnungsdatum der Schlussabrechnung, falls diese vor dem in Absatz 2 festgelegten Datum erstellt wird.
 
 <sup>5</sup> Die KSTV legt den allgemeinen Fälligkeitstermin für die steuerpflichtige Person fest, die einer beschränkten oder besonderen Steuerpflicht unterliegt.
 
@@ -130,9 +129,7 @@ beschliesst:
 
 #### Art. 10
 
-**Ausgleichszins**
-
-<sup>1</sup> Der Ausgleichszins berechnet sich ab dem allgemeinen Fälligkeitstermin bis zum Eröffnungsdatum der letzten Abrechnung auf der Differenz zwischen der gemäss Veranlagung geschuldeten Steuer und der als Akontozahlungen fakturierten Steuer. Die Verrechnungssteuer, die Einzahlungen und die Übertragungen von Guthaben werden berücksichtigt.
+**…**
 
 #### Art. 11
 
@@ -148,9 +145,11 @@ beschliesst:
 
 **Zwangsvollstreckung**
 
-<sup>1</sup> Der Bezug der nicht fristgerecht entrichteten Steuern erfolgt gemäss dem Bundesgesetz vom 11.April 1889 über Schuldbetreibung und Konkurs (SchKG) und dessen Vollzugsbestimmungen.
+<sup>1</sup> Der Bezug der nicht fristgerecht entrichteten Steuern erfolgt gemäss dem Bundesgesetz vom 11.April 1889 über Schuldbetreibung und Konkurs (SchKG)[^12-1] und dessen Vollzugsbestimmungen.
 
 <sup>2</sup> ...
+
+[^12-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### Art. 12a
 

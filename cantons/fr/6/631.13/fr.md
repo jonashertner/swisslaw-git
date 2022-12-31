@@ -3,13 +3,12 @@ canton: FR
 number: "631.13"
 title: "Ordonnance concernant l'échéance et la perception des créances fiscales"
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-06
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2001-02-13
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6910/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8647/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6910/pdf_file"
 
 Echéance et perception des créances fiscales – A
 
-du 13.02.2001 (version entrée en vigueur le 01.01.2022)
+du 13.02.2001 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -60,13 +59,13 @@ Arrête:
 
 **Terme général d'échéance**
 
-<sup>1</sup> La différence entre le montant de l'impôt dû selon la taxation et le montant provisoire facturé au titre d'acomptes est échue au terme général d'échéance. Elle doit être payée le trentième jour qui suit la date de notification du décompte.
+<sup>1</sup> …
 
 <sup>2</sup> Pour les personnes physiques, le terme général d'échéance est fixé au 30 avril de l'année qui suit l'année fiscale.
 
 <sup>3</sup> Pour les personnes morales, le terme général d'échéance est fixé à la fin du quatrième mois qui suit la clôture de la période fiscale.
 
-<sup>4</sup> Pour les contribuables en fin d'assujettissement, le terme général d'échéance est fixé à la date de notification du décompte si ce dernier est établi avant la date retenue dans les alinéas 1 ou 2.
+<sup>4</sup> Pour les contribuables en fin d'assujettissement, le terme général d'échéance est fixé à la date de notification du décompte si ce dernier est établi avant la date retenue dans l'alinéa 2.
 
 <sup>5</sup> Le SCC fixe le terme général d'échéance pour le contribuable qui présente un assujettissement partiel ou particulier.
 
@@ -130,9 +129,7 @@ Arrête:
 
 #### Art. 10
 
-**Intérêt compensatoire**
-
-<sup>1</sup> L'intérêt compensatoire est calculé à partir du terme général d'échéance jusqu'à la date de notification du dernier décompte sur la différence entre l'impôt dû selon la taxation et l'impôt facturé au titre d'acomptes. L'impôt anticipé, les versements et les transferts de crédits sont pris en compte.
+**…**
 
 #### Art. 11
 
@@ -148,9 +145,11 @@ Arrête:
 
 **Exécution forcée**
 
-<sup>1</sup> La perception des créances fiscales impayées dans les délais a lieu conformément à la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP) et à ses dispositions d'exécution.
+<sup>1</sup> La perception des créances fiscales impayées dans les délais a lieu conformément à la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (LP)[^12-1] et à ses dispositions d'exécution.
 
 <sup>2</sup> ...
+
+[^12-1]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
 
 #### Art. 12a
 
