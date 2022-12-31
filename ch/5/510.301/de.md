@@ -4,11 +4,11 @@ title: Verordnung vom 21. Februar 2018 über die Verwaltung der Armee (VVA)
 short: VVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/161"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-02-21
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-161-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-161-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20210101/de"
 
 (VVA)
 
-vom 21. Februar 2018 (Stand am 1. Januar 2021)
+vom 21. Februar 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 142 Absatz 3 und 150 Absatz 1 des Militärgesetzes vom
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 510.30](https://fedlex.data.admin.ch/eli/cc/1949/1093_1185_1137)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
 
 ## 1. Kapitel: Gegenstand
 
@@ -318,34 +318,36 @@ Bei einer ausserdienstlichen Kommandoübergabe besteht Anspruch auf:
 
 <table>
 <tr><th>Grad</th><th>Fr.</th></tr>
-<tr><td>Korpskommandant</td><td>30.—</td></tr>
-<tr><td>Divisionär</td><td>27.—</td></tr>
-<tr><td>Brigadier</td><td>25.—</td></tr>
-<tr><td>Oberst</td><td>23.—</td></tr>
-<tr><td>Oberstleutnant</td><td>20.—</td></tr>
-<tr><td>Major</td><td>18.—</td></tr>
-<tr><td>Hauptmann</td><td>16.—</td></tr>
-<tr><td>Oberleutnant</td><td>13.—</td></tr>
-<tr><td>Leutnant</td><td>12.—</td></tr>
-<tr><td>Chefadjutant</td><td>11.50</td></tr>
-<tr><td>Hauptadjutant</td><td>11.50</td></tr>
-<tr><td>Stabsadjutant</td><td>11.—</td></tr>
-<tr><td>Adjutantunteroffizier</td><td>10.—</td></tr>
-<tr><td>Hauptfeldweibel</td><td>9.50</td></tr>
-<tr><td>Fourier</td><td>9.50</td></tr>
-<tr><td>Feldweibel</td><td>9.—</td></tr>
-<tr><td>Oberwachtmeister</td><td>8.50</td></tr>
-<tr><td>Wachtmeister</td><td>8.—</td></tr>
-<tr><td>Korporal</td><td>7.—</td></tr>
-<tr><td>Obergefreiter</td><td>6.50</td></tr>
-<tr><td>Gefreiter</td><td>6.—</td></tr>
-<tr><td>Soldat</td><td>5.—</td></tr>
-<tr><td>Rekrut</td><td>4.—</td></tr>
+<tr><td>Korpskommandant</td><td>43.50</td></tr>
+<tr><td>Divisionär</td><td>39.—</td></tr>
+<tr><td>Brigadier</td><td>36.50</td></tr>
+<tr><td>Oberst</td><td>33.50</td></tr>
+<tr><td>Oberstleutnant</td><td>29.—</td></tr>
+<tr><td>Major</td><td>26.—</td></tr>
+<tr><td>Hauptmann</td><td>23.50</td></tr>
+<tr><td>Oberleutnant</td><td>19.—</td></tr>
+<tr><td>Leutnant</td><td>17.50</td></tr>
+<tr><td>Chefadjutant</td><td>16.50</td></tr>
+<tr><td>Hauptadjutant</td><td>16.50</td></tr>
+<tr><td>Stabsadjutant</td><td>16.—</td></tr>
+<tr><td>Adjutantunteroffizier</td><td>14.50</td></tr>
+<tr><td>Hauptfeldweibel</td><td>14.—</td></tr>
+<tr><td>Fourier</td><td>14.—</td></tr>
+<tr><td>Feldweibel</td><td>13.—</td></tr>
+<tr><td>Oberwachtmeister</td><td>12.50</td></tr>
+<tr><td>Wachtmeister</td><td>11.50</td></tr>
+<tr><td>Korporal</td><td>10.—</td></tr>
+<tr><td>Obergefreiter</td><td>9.50</td></tr>
+<tr><td>Gefreiter</td><td>8.50</td></tr>
+<tr><td>Soldat</td><td>7.50</td></tr>
+<tr><td>Rekrut</td><td>6.—.[^31-1]</td></tr>
 </table>
 
 <sup>2</sup> Dienstleistungen, die der Stellung in einem höheren Grad entsprechen, berechtigen nicht zu einem höheren Sold.
 
 <sup>3</sup> Im Gradsold sind die Vergütungen für den Transport des Militärgepäcks von der Wohnung zur Bahnstation und zurück inbegriffen.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 #### Art. 32
 
@@ -1251,8 +1253,8 @@ Die folgenden Erlasse werden aufgehoben:
 - 1\. die Verordnung vom 29. November 1995[^122-1] über die Verwaltung der Armee;
 - 2\. die Verordnung des VBS vom 12. Dezember 1995[^122-2] über die Verwaltung der Armee.
 
-[^122-1]: [[AS 1996 340](https://fedlex.data.admin.ch/eli/oc/1996/340_340_340)[2752](https://fedlex.data.admin.ch/eli/oc/1996/2752_2752_2752), [1997 2622](https://fedlex.data.admin.ch/eli/oc/1997/2622_2622_2622)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 26, [1999 878](https://fedlex.data.admin.ch/eli/oc/1999/125)[3532](https://fedlex.data.admin.ch/eli/oc/1999/498), [2000 2976](https://fedlex.data.admin.ch/eli/oc/2000/535), [2001 2706](https://fedlex.data.admin.ch/eli/oc/2001/402), [2002 4201](https://fedlex.data.admin.ch/eli/oc/2002/678), [2003 4007](https://fedlex.data.admin.ch/eli/oc/2003/583), [2004 3197](https://fedlex.data.admin.ch/eli/oc/2004/409), [2006 4269](https://fedlex.data.admin.ch/eli/oc/2006/650), [2008 4871](https://fedlex.data.admin.ch/eli/oc/2008/681), [2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)Beilage Ziff. 2 6667 Anhang 36 Ziff. 2, **2011** 5227 Ziff. I 4.3, **2014** 771 Art. 11]
-[^122-2]: [[AS 1996 388](https://fedlex.data.admin.ch/eli/oc/1996/388_388_388), [1997 2623](https://fedlex.data.admin.ch/eli/oc/1997/2623_2623_2623), [1999 882](https://fedlex.data.admin.ch/eli/oc/1999/126), [2000 67](https://fedlex.data.admin.ch/eli/oc/2000/14)[2978](https://fedlex.data.admin.ch/eli/oc/2000/536), [2001 2708](https://fedlex.data.admin.ch/eli/oc/2001/403), [2002 4203](https://fedlex.data.admin.ch/eli/oc/2002/679), [2003 4059](https://fedlex.data.admin.ch/eli/oc/2003/596), [2004 3515](https://fedlex.data.admin.ch/eli/oc/2004/469)[5295](https://fedlex.data.admin.ch/eli/oc/2004/815), [2009 5557](https://fedlex.data.admin.ch/eli/oc/2009/674), [2010 4923](https://fedlex.data.admin.ch/eli/oc/2010/689), [2011 5015](https://fedlex.data.admin.ch/eli/oc/2011/733), [2014 775](https://fedlex.data.admin.ch/eli/oc/2014/171)Art. 47]
+[^122-1]: [[AS 1996 340](https://fedlex.data.admin.ch/eli/oc/1996/340_340_340), [2752](https://fedlex.data.admin.ch/eli/oc/1996/2752_2752_2752); [1997 2622](https://fedlex.data.admin.ch/eli/oc/1997/2622_2622_2622), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 26; [1999 878](https://fedlex.data.admin.ch/eli/oc/1999/125), [3532](https://fedlex.data.admin.ch/eli/oc/1999/498); [2000 2976](https://fedlex.data.admin.ch/eli/oc/2000/535); [2001 2706](https://fedlex.data.admin.ch/eli/oc/2001/402); [2002 4201](https://fedlex.data.admin.ch/eli/oc/2002/678); [2003 4007](https://fedlex.data.admin.ch/eli/oc/2003/583); [2004 3197](https://fedlex.data.admin.ch/eli/oc/2004/409); [2006 4269](https://fedlex.data.admin.ch/eli/oc/2006/650); [2008 4871](https://fedlex.data.admin.ch/eli/oc/2008/681); [2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)Beilage Ziff. 2, 6667 Anhang 36 Ziff. 2; **2011** 5227 Ziff. I 4.3; **2014** 771 Art. 11]
+[^122-2]: [[AS 1996 388](https://fedlex.data.admin.ch/eli/oc/1996/388_388_388); [1997 2623](https://fedlex.data.admin.ch/eli/oc/1997/2623_2623_2623); [1999 882](https://fedlex.data.admin.ch/eli/oc/1999/126); [2000 67](https://fedlex.data.admin.ch/eli/oc/2000/14), [2978](https://fedlex.data.admin.ch/eli/oc/2000/536); [2001 2708](https://fedlex.data.admin.ch/eli/oc/2001/403); [2002 4203](https://fedlex.data.admin.ch/eli/oc/2002/679); [2003 4059](https://fedlex.data.admin.ch/eli/oc/2003/596); [2004 3515](https://fedlex.data.admin.ch/eli/oc/2004/469), [5295](https://fedlex.data.admin.ch/eli/oc/2004/815); [2009 5557](https://fedlex.data.admin.ch/eli/oc/2009/674); [2010 4923](https://fedlex.data.admin.ch/eli/oc/2010/689); [2011 5015](https://fedlex.data.admin.ch/eli/oc/2011/733); [2014 775](https://fedlex.data.admin.ch/eli/oc/2014/171)Art. 47]
 
 #### Art. 123
 
@@ -1260,13 +1262,13 @@ Die folgenden Erlasse werden aufgehoben:
 
 Diese Verordnung tritt am 1. April 2018 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 69)
 
 ## Entschädigungen für Räumlichkeiten und Plätze
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 25. Nov. 2020 ([AS 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)) und vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 <table>
 <tr><th></th><th>Je Person und Tag</th><th>Räume in</th><th></th></tr>
@@ -1303,19 +1305,19 @@ Anhang*[^t-1]*
 </table>
 
 <table>
-<tr><th></th><th>Je Person und Nacht</th><th>Zimmer in</th><th colspan="4"></th></tr>
-<tr><th></th><th></th><th>Hotels und Gasthäusern Fr.</th><th colspan="4">öffentlichen und privaten Gebäuden Fr.</th></tr>
-<tr><td>**2.** **Zimmer**</td><td colspan="4">Die ortsüblichen Zimmerpreise (inkl. Heizung), jedoch höchstens Fr.:</td><td></td><td></td></tr>
-<tr><td>Unterhalt der Zimmer und der persönlichen Ausrüstung durch die Truppe (siehe Art. 68 und 81)</td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>2.1 Einzelne weibliche Angehörige der Armee, höheres Kader wenn in Zimmer untergebracht</td><td></td><td>70.—</td><td colspan="4"></td></tr>
-<tr><td>2.2 Unteroffizierinnen und Unteroffiziere und Angehörige der Mannschaft, sofern die dienstlichen Verhältnisse eine Benützung von Zimmern zulassen.</td><td></td><td>30.–</td><td colspan="4"></td></tr>
-<tr><td></td><td colspan="3">Die Zimmerentschädigungen erhöhen sich bei Einquartierung bis zu vier Nächten um 25 Prozent</td><td colspan="2"></td><td></td></tr>
+<tr><th></th><th>Je Person und Nacht</th><th>Zimmer in</th><th></th></tr>
+<tr><th></th><th></th><th>Hotels und Gasthäusern Fr.</th><th>öffentlichen und privaten Gebäuden Fr.</th></tr>
+<tr><td>**2.** **Zimmer**</td><td colspan="3">Die ortsüblichen Zimmerpreise (inkl. Heizung), jedoch höchstens Fr.:</td></tr>
+<tr><td>Unterhalt der Zimmer und der persönlichen Ausrüstung durch die Truppe (siehe Art. 68 und 81)</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Einzelne weibliche Angehörige der Armee, höheres Kader wenn in Zimmer untergebracht</td><td></td><td>100.—</td><td></td></tr>
+<tr><td>2.2 Unteroffizierinnen und Unteroffiziere und Angehörige der Mannschaft, sofern die dienstlichen Verhältnisse eine Benützung von Zimmern zulassen.</td><td></td><td>50.—</td><td></td></tr>
+<tr><td></td><td colspan="3">Die Zimmerentschädigungen erhöhen sich bei Einquartierung bis zu vier Nächten um 25 Prozent</td></tr>
 </table>
 
 <table>
 <tr><th></th><th>Je</th><th>Räume in</th><th></th><th colspan="4">Heizung nur für effektive Heizungstage</th></tr>
 <tr><th></th><th></th><th>Hotels und Gastwirtschaften Fr.</th><th>öffentlichen und privaten Gebäuden Fr.</th><th colspan="4">Fr.</th></tr>
-<tr><td>**3.** **Büros, Postlokale, Unters****u****chungs- und Kranken****zimmer, Arbeitsräume, Th****e****orie****säle** inkl. Beleuchtung und Einrichtungen</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td colspan="4">[tab]</td></tr>
+<tr><td>**3.** **Büros, Postlokale, Untersuchungs- und Kranken****zimmer, Arbeitsräume, Theorie****säle** inkl. Beleuchtung und Einrichtungen</td><td></td><td></td><td></td><td colspan="4"></td></tr>
 <tr><td>3.1 Raum bis zu 30 m<sup>2</sup></td><td>Tag</td><td>15.—</td><td>11.—</td><td colspan="4">2.50</td></tr>
 <tr><td>3.2 Zuschlag für grössere Räume</td><td>je weitere 10 m<sup>2</sup> oder Teile davon/ Tag</td><td>3.—</td><td>3.—</td><td colspan="4">–.50</td></tr>
 <tr><td>3.3 Spezialeinrichtungen für Untersuchungs- und Krankenzimmer:</td><td></td><td></td><td></td><td colspan="4"></td></tr>

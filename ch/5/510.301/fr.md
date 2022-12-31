@@ -4,11 +4,11 @@ title: "Ordonnance du 21 février 2018 sur l'administration de l'armée (OAA)"
 short: OAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/161"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-02-21
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-161-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-161-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20210101/fr"
 
 (OAA)
 
-du 21 février 2018 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 février 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 142, al. 3, et 150, al. 1, de la loi du 3 février 1995 sur l’arm�
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 510.30](https://fedlex.data.admin.ch/eli/cc/1949/1093_1185_1137)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
 
 ## Chapitre 1 Objet
 
@@ -145,7 +145,7 @@ Lorsqu’il n’est pas possible de tenir une comptabilité militaire conformém
 
 **Demandes de crédit**
 
-<sup>1</sup> Lorsque le commanant entend engager une dépense non prévue, il adresse une demande de crédit à la BLA par la voie hiérarchique.
+<sup>1</sup> Lorsque le commandant entend engager une dépense non prévue, il adresse une demande de crédit à la BLA par la voie hiérarchique.
 
 <sup>2</sup> La BLA statue sur les demandes de crédit ne dépassant pas 50 000 francs; le Groupement Défense statue sur les demandes dépassant ce montant.
 
@@ -318,34 +318,36 @@ La remise d’un commandement en dehors du service donne droit:
 
 <table>
 <tr><th>Grade</th><th>francs</th></tr>
-<tr><td>Commandant de corps</td><td>30.—</td></tr>
-<tr><td>Divisionnaire</td><td>27.—</td></tr>
-<tr><td>Brigadier</td><td>25.—</td></tr>
-<tr><td>Colonel</td><td>23.—</td></tr>
-<tr><td>Lieutenant-colonel</td><td>20.—</td></tr>
-<tr><td>Major</td><td>18.—</td></tr>
-<tr><td>Capitaine</td><td>16.—</td></tr>
-<tr><td>Premier-lieutenant</td><td>13.—</td></tr>
-<tr><td>Lieutenant</td><td>12.—</td></tr>
-<tr><td>Adjudant-chef</td><td>11,50</td></tr>
-<tr><td>Adjudant-major</td><td>11,50</td></tr>
-<tr><td>Adjudant d’état-major</td><td>11.—</td></tr>
-<tr><td>Adjudant sous-officier</td><td>10.—</td></tr>
-<tr><td>Sergent-major chef</td><td>9,50</td></tr>
-<tr><td>Fourrier</td><td>9,50</td></tr>
-<tr><td>Sergent-major</td><td>9.—</td></tr>
-<tr><td>Sergent-chef</td><td>8,50</td></tr>
-<tr><td>Sergent</td><td>8.—</td></tr>
-<tr><td>Caporal</td><td>7.—</td></tr>
-<tr><td>Appointé-chef</td><td>6,50</td></tr>
-<tr><td>Appointé</td><td>6.—</td></tr>
-<tr><td>Soldat</td><td>5.—</td></tr>
-<tr><td>Recrue</td><td>4.—</td></tr>
+<tr><td>Commandant de corps</td><td>43.50</td></tr>
+<tr><td>Divisionnaire</td><td>39.—</td></tr>
+<tr><td>Brigadier</td><td>36.50</td></tr>
+<tr><td>Colonel</td><td>33.50</td></tr>
+<tr><td>Lieutenant-colonel</td><td>29.—</td></tr>
+<tr><td>Major</td><td>26.—</td></tr>
+<tr><td>Capitaine</td><td>23.50</td></tr>
+<tr><td>Premier-lieutenant</td><td>19.—</td></tr>
+<tr><td>Lieutenant</td><td>17.50</td></tr>
+<tr><td>Adjudant-chef</td><td>16.50</td></tr>
+<tr><td>Adjudant-major</td><td>16.50</td></tr>
+<tr><td>Adjudant d’état-major</td><td>16.—</td></tr>
+<tr><td>Adjudant sous-officier</td><td>14.50</td></tr>
+<tr><td>Sergent-major chef</td><td>14.—</td></tr>
+<tr><td>Fourrier</td><td>14.—</td></tr>
+<tr><td>Sergent-major</td><td>13.—</td></tr>
+<tr><td>Sergent-chef</td><td>12.50</td></tr>
+<tr><td>Sergent</td><td>11.50</td></tr>
+<tr><td>Caporal</td><td>10.—</td></tr>
+<tr><td>Appointé-chef</td><td>9.50</td></tr>
+<tr><td>Appointé</td><td>8.50</td></tr>
+<tr><td>Soldat</td><td>7.50</td></tr>
+<tr><td>Recrue</td><td>6.— .[^31-1]</td></tr>
 </table>
 
 <sup>2</sup> L’exercice d’une fonction correspondant à un grade supérieur ne donne pas droit à une solde plus élevée.
 
 <sup>3</sup> Les indemnités de transport des bagages militaires, du domicile à la gare et vice versa, sont comprises dans la solde selon le grade.
+
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 #### Art. 32
 
@@ -788,13 +790,13 @@ L’utilisation d’églises ou de lieux de culte pour la célébration de servi
 
 <sup>2</sup> Si aucune indemnité horaire n’est demandée, la Confédération verse une indemnité forfaitaire de 50 francs pour la préparation, la prise en charge et la remise de l’installation.
 
-<sup>3</sup> En outre, la Confédération verse pour l’utilisation de l’installation de tir, des cibles et du matériel de marquage, collage de nouvelles cibles, fournitures et courant électrique compris, par coup, les indemnités suivantes:
+<sup>3</sup>
 
-a. installations ordinaires (mouvement vertical de la cible): 17 centimes;
+En outre, la Confédération verse pour l’utilisation de l’installation de tir, des cibles et du matériel de marquage, collage de nouvelles cibles, fournitures et courant électrique compris, par coup, les indemnités suivantes:
 
-b. installations électriques de cibles-navette ou de cibles-duel: 25 centimes;
-
-c. installations à marquage électronique: 30 centimes.
+- a. installations ordinaires (mouvement vertical de la cible): 17 centimes;
+- b. installations électriques de cibles-navette ou de cibles-duel: 25 centimes;
+- c. installations à marquage électronique: 30 centimes.
 
 <sup>4</sup> Le marquage et la sécurité sont du ressort de la troupe.
 
@@ -1260,13 +1262,13 @@ Sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2018.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 69)
 
 ## Indemnités pour usage de locaux et de places
 
-[^t-1]: Mise à jour par le ch. II de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)).
+[^t-1]: Mise à jour par le ch. II des O du 25 nov. 2020 ([RO 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 <table>
 <tr><th></th><th>Par personne et par jour</th><th>Locaux dans</th><th></th></tr>
@@ -1303,13 +1305,13 @@ Annexe*[^t-1]*
 </table>
 
 <table>
-<tr><th></th><th>Par personne et par jour</th><th>Chambres dans</th><th></th></tr>
-<tr><th></th><th></th><th>Hôtels et pensions fr.</th><th>Bâtiments publics et privés fr.</th></tr>
-<tr><td>2. Chambres</td><td colspan="3">Les prix locaux (chauffage compris) sont applicables, mais au maximum fr.:</td></tr>
-<tr><td>Entretien des chambres et de l’équipement personnel par la troupe (cf. art. 68 et 81)</td><td></td><td></td><td></td></tr>
-<tr><td>2.1 Cadres supérieurs et personnel militaire féminin logés en chambre</td><td></td><td>70.—</td><td></td></tr>
-<tr><td>2.2 Sous-officiers et troupe lorsque, pour des raisons de service, ils doivent être logés en chambre.</td><td></td><td>30.–</td><td></td></tr>
-<tr><td></td><td colspan="3">Les indemnités indiquées ci-dessus sont majorées de 25 % lorsque l’utilisation est de quatre nuits ou moins.</td></tr>
+<tr><th></th><th>Par personne et par nuitée</th><th>Chambres dans</th><th colspan="4"></th></tr>
+<tr><th></th><th></th><th>Hôtels et pensions fr.</th><th colspan="4">Bâtiments publics et privés fr.</th></tr>
+<tr><td>2. Chambre</td><td colspan="4">Les prix locaux (chauffage compris) sont applicables, mais au maximum fr.</td><td></td><td></td></tr>
+<tr><td>Entretien des chambres et de l’équipement personnel par la troupe (cf. art. 68 et 81)</td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>2.1 Cadres supérieurs et personnel militaire féminin logés en chambre</td><td></td><td>100.—</td><td colspan="4"></td></tr>
+<tr><td>2.2 Sous-officiers et troupe lorsque, pour des raisons de service, ils doivent être logés en chambre</td><td></td><td>50.—</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="3">Les indemnités indiquées ci-dessus sont majorées de 25 % lorsque l’utilisation est de quatre nuits ou moins</td><td colspan="2"></td><td></td></tr>
 </table>
 
 <table>
@@ -1323,7 +1325,7 @@ Annexe*[^t-1]*
 <tr><td>b. lits avec matelas sans literie;</td><td>jour</td><td>1,50</td><td>1,50</td><td></td></tr>
 <tr><td>c. matelas avec literie.</td><td>jour</td><td>1,50</td><td>1,50</td><td></td></tr>
 <tr><td>Le nettoyage de la literie est à la charge de la caisse de service</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4. Locaux pour les rapports (utilisation sporadique) éclairage compris</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>4. Locaux pour les rapports (utilisation sporadique) éclairage compris</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>4.1 Local jusqu’à 30 m<sup>2</sup></td><td>jour d’utilisa-tion effective</td><td>15.—</td><td>11.—</td><td>2,50</td></tr>
 <tr><td>4.2 Supplément pour locaux plus grands</td><td>par 10 m<sup>2</sup> en plus ou fraction de ce nombre/ jour d’utilisa-tion effective</td><td>3.—</td><td>3.—</td><td>–.50</td></tr>
 <tr><td>5. Magasins éclairage compris</td><td></td><td></td><td></td><td></td></tr>

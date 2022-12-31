@@ -4,26 +4,20 @@ title: "Ordinanza del 21 febbraio 2018 concernente l'amministrazione dell'eserci
 short: OAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/161"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-02-21
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-161-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-161-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’amministrazione dell’esercito
 
-Nicht löschen bitte "[^t-1] " !!
-
-Schweizerische Bundeskanzlei / Kompetenzzentrum Amtliche Veröffentlichungen (KAV)
-
 (OAE)
 
-del 21 febbraio 2018 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
-
-[^t-1]: [RU 2018 1059](https://fedlex.data.admin.ch/eli/oc/2018/161)
+del 21 febbraio 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -31,8 +25,8 @@ visti gli articoli 142 capoverso 3 e 150 capoverso 1 della legge militare del 3 
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 510.30](https://fedlex.data.admin.ch/eli/cc/1949/1093_1185_1137)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
 
 ## Capitolo 1: Oggetto
 
@@ -324,34 +318,36 @@ In caso di trapasso del comando fuori del servizio vi è diritto:
 
 <table>
 <tr><th>Grado</th><th>franchi</th></tr>
-<tr><td>comandante di corpo</td><td>30.—</td></tr>
-<tr><td>divisionario</td><td>27.—</td></tr>
-<tr><td>brigadiere</td><td>25.—</td></tr>
-<tr><td>colonnello</td><td>23.—</td></tr>
-<tr><td>tenente colonnello</td><td>20.—</td></tr>
-<tr><td>maggiore</td><td>18.—</td></tr>
-<tr><td>capitano</td><td>16.—</td></tr>
-<tr><td>primotenente</td><td>13.—</td></tr>
-<tr><td>tenente</td><td>12.—</td></tr>
-<tr><td>aiutante capo</td><td>11.50</td></tr>
-<tr><td>aiutante maggiore</td><td>11.50</td></tr>
-<tr><td>aiutante di stato maggiore</td><td>11.—</td></tr>
-<tr><td>aiutante sottufficiale</td><td>10.—</td></tr>
-<tr><td>sergente maggiore capo</td><td>9.50</td></tr>
-<tr><td>furiere</td><td>9.50</td></tr>
-<tr><td>sergente maggiore</td><td>9.—</td></tr>
-<tr><td>sergente capo</td><td>8.50</td></tr>
-<tr><td>sergente</td><td>8.—</td></tr>
-<tr><td>caporale</td><td>7.—</td></tr>
-<tr><td>appuntato capo</td><td>6.50</td></tr>
-<tr><td>appuntato</td><td>6.—</td></tr>
-<tr><td>soldato</td><td>5.—</td></tr>
-<tr><td>recluta</td><td>4.—</td></tr>
+<tr><td>comandante di corpo</td><td>43.50</td></tr>
+<tr><td>divisionario</td><td>39.—</td></tr>
+<tr><td>brigadiere</td><td>36.50</td></tr>
+<tr><td>colonnello</td><td>33.50</td></tr>
+<tr><td>tenente colonnello</td><td>29.—</td></tr>
+<tr><td>maggiore</td><td>26.—</td></tr>
+<tr><td>capitano</td><td>23.50</td></tr>
+<tr><td>primotenente</td><td>19.—</td></tr>
+<tr><td>tenente</td><td>17.50</td></tr>
+<tr><td>aiutante capo</td><td>16.50</td></tr>
+<tr><td>aiutante maggiore</td><td>16.50</td></tr>
+<tr><td>aiutante di stato maggiore</td><td>16.—</td></tr>
+<tr><td>aiutante sottufficiale</td><td>14.50</td></tr>
+<tr><td>sergente maggiore capo</td><td>14.—</td></tr>
+<tr><td>furiere</td><td>14.—</td></tr>
+<tr><td>sergente maggiore</td><td>13.—</td></tr>
+<tr><td>sergente capo</td><td>12.50</td></tr>
+<tr><td>sergente</td><td>11.50</td></tr>
+<tr><td>caporale</td><td>10.—</td></tr>
+<tr><td>appuntato capo</td><td>9.50</td></tr>
+<tr><td>appuntato</td><td>8.50</td></tr>
+<tr><td>soldato</td><td>7.50</td></tr>
+<tr><td>recluta</td><td>6.— .[^31-1]</td></tr>
 </table>
 
 <sup>2</sup> I servizi in una funzione superiore a quella del proprio grado non danno diritto a un soldo più elevato.
 
 <sup>3</sup> Nel soldo del grado sono comprese le indennità per il trasporto dei bagagli militari dal domicilio alla stazione ferroviaria e viceversa.
+
+[^31-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 #### Art. 32
 
@@ -1257,8 +1253,8 @@ Sono abrogate:
 - 1\. l’ordinanza del 29 novembre 1995[^122-1] concernente l’amministrazione dell’esercito;
 - 2\. l’ordinanza del DDPS del 12 dicembre 1995[^122-2] concernente l’amministrazione dell’esercito.
 
-[^122-1]: [[RU 1996 340](https://fedlex.data.admin.ch/eli/oc/1996/340_340_340)[2752](https://fedlex.data.admin.ch/eli/oc/1996/2752_2752_2752), [1997 2622](https://fedlex.data.admin.ch/eli/oc/1997/2622_2622_2622)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 26, [1999 878](https://fedlex.data.admin.ch/eli/oc/1999/125)[3532](https://fedlex.data.admin.ch/eli/oc/1999/498), [2000 2976](https://fedlex.data.admin.ch/eli/oc/2000/535), [2001 2706](https://fedlex.data.admin.ch/eli/oc/2001/402), [2002 4201](https://fedlex.data.admin.ch/eli/oc/2002/678), [2003 4007](https://fedlex.data.admin.ch/eli/oc/2003/583)[5097](https://fedlex.data.admin.ch/eli/oc/2003/752), [2004 3197](https://fedlex.data.admin.ch/eli/oc/2004/409)[1795](https://fedlex.data.admin.ch/eli/oc/2004/215), [2006 4269](https://fedlex.data.admin.ch/eli/oc/2006/650), [2008 4871](https://fedlex.data.admin.ch/eli/oc/2008/681), [2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 2 [6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 2, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[3](https://fedlex.data.admin.ch/eli/oc/2011/2), [2014 771](https://fedlex.data.admin.ch/eli/oc/2014/170)art. 11]
-[^122-2]: [[RU 1996 388](https://fedlex.data.admin.ch/eli/oc/1996/388_388_388), [1997 2623](https://fedlex.data.admin.ch/eli/oc/1997/2623_2623_2623), [1999 882](https://fedlex.data.admin.ch/eli/oc/1999/126), [2000 67](https://fedlex.data.admin.ch/eli/oc/2000/14)[2978](https://fedlex.data.admin.ch/eli/oc/2000/536), [2001 2708](https://fedlex.data.admin.ch/eli/oc/2001/403), [2002 4203](https://fedlex.data.admin.ch/eli/oc/2002/679), [2003 4059](https://fedlex.data.admin.ch/eli/oc/2003/596), [2004 3515](https://fedlex.data.admin.ch/eli/oc/2004/469)[5295](https://fedlex.data.admin.ch/eli/oc/2004/815), [2009 5557](https://fedlex.data.admin.ch/eli/oc/2009/674), [2010 4923](https://fedlex.data.admin.ch/eli/oc/2010/689), [2011 5015](https://fedlex.data.admin.ch/eli/oc/2011/733), [2014 775](https://fedlex.data.admin.ch/eli/oc/2014/171)art. 47]
+[^122-1]: [[RU 1996 340](https://fedlex.data.admin.ch/eli/oc/1996/340_340_340), [2752](https://fedlex.data.admin.ch/eli/oc/1996/2752_2752_2752); [1997 2622](https://fedlex.data.admin.ch/eli/oc/1997/2622_2622_2622), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 26; [1999 878](https://fedlex.data.admin.ch/eli/oc/1999/125), [3532](https://fedlex.data.admin.ch/eli/oc/1999/498); [2000 2976](https://fedlex.data.admin.ch/eli/oc/2000/535); [2001 2706](https://fedlex.data.admin.ch/eli/oc/2001/402); [2002 4201](https://fedlex.data.admin.ch/eli/oc/2002/678); [2003 4007](https://fedlex.data.admin.ch/eli/oc/2003/583), [5097](https://fedlex.data.admin.ch/eli/oc/2003/752); [2004 3197](https://fedlex.data.admin.ch/eli/oc/2004/409), [1795](https://fedlex.data.admin.ch/eli/oc/2004/215); [2006 4269](https://fedlex.data.admin.ch/eli/oc/2006/650); [2008 4871](https://fedlex.data.admin.ch/eli/oc/2008/681); [2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 2, [6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 2; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[3](https://fedlex.data.admin.ch/eli/oc/2011/2); [2014 771](https://fedlex.data.admin.ch/eli/oc/2014/170)art. 11]
+[^122-2]: [[RU 1996 388](https://fedlex.data.admin.ch/eli/oc/1996/388_388_388); [1997 2623](https://fedlex.data.admin.ch/eli/oc/1997/2623_2623_2623); [1999 882](https://fedlex.data.admin.ch/eli/oc/1999/126); [2000 67](https://fedlex.data.admin.ch/eli/oc/2000/14), [2978](https://fedlex.data.admin.ch/eli/oc/2000/536); [2001 2708](https://fedlex.data.admin.ch/eli/oc/2001/403); [2002 4203](https://fedlex.data.admin.ch/eli/oc/2002/679); [2003 4059](https://fedlex.data.admin.ch/eli/oc/2003/596); [2004 3515](https://fedlex.data.admin.ch/eli/oc/2004/469), [5295](https://fedlex.data.admin.ch/eli/oc/2004/815); [2009 5557](https://fedlex.data.admin.ch/eli/oc/2009/674); [2010 4923](https://fedlex.data.admin.ch/eli/oc/2010/689); [2011 5015](https://fedlex.data.admin.ch/eli/oc/2011/733); [2014 775](https://fedlex.data.admin.ch/eli/oc/2014/171)art. 47]
 
 #### Art. 123
 
@@ -1266,13 +1262,13 @@ Sono abrogate:
 
 La presente ordinanza entra in vigore il 1° aprile 2018.
 
-Allegato*[^t-2]*
+Allegato[^t-1]
 
 (art. 69)
 
 ## Indennità per l’uso di locali e piazze
 
-[^t-2]: Aggiornato dal n. II dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)).
+[^t-1]: Aggiornato dal n. II delle O del 25 nov. 2020 ([RU 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)) e del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 <table>
 <tr><th></th><th>Per persona e giorno</th><th>Locali in</th><th></th></tr>
@@ -1309,19 +1305,19 @@ Allegato*[^t-2]*
 </table>
 
 <table>
-<tr><th></th><th>Per persona e notte</th><th colspan="2">Per persona e notte</th><th colspan="4"></th></tr>
-<tr><th></th><th></th><th>hotel e trattorie fr.</th><th colspan="5">edifici pubblici e privati fr.</th></tr>
-<tr><td>**2.** **Camere**</td><td colspan="5">Prezzi delle camere (riscaldamento compreso) secondo le tariffe locali in uso, ma al massimo fr.:</td><td></td><td></td></tr>
-<tr><td>Manutenzione delle camere e dell’equipaggiamento personale da parte della truppa (vedi art. 68–81)</td><td></td><td></td><td colspan="5"></td></tr>
-<tr><td>2.1 Singoli militari donne, quadri superiori se alloggiano in camere</td><td></td><td>70.—</td><td colspan="5"></td></tr>
-<tr><td>2.2 Sottufficiali e militari di truppa, se le condizioni di servizio permettono l’utilizzo di camere.</td><td></td><td>30.–</td><td colspan="5"></td></tr>
-<tr><td></td><td colspan="4">Le indennità summenzionate sono aumentate del 25 % quando la camera è occupata sino a quattro notti</td><td colspan="2"></td><td></td></tr>
+<tr><th></th><th>Per persona e notte</th><th>Camere in</th><th colspan="4"></th></tr>
+<tr><th></th><th></th><th>hotel e trattorie fr.</th><th colspan="4">edifici pubblici e privati fr.</th></tr>
+<tr><td>**2.** **Camere**</td><td colspan="4">Prezzi delle camere (riscaldamento compreso) secondo le tariffe locali in uso, ma al massimo fr.:</td><td></td><td></td></tr>
+<tr><td>Manutenzione delle camere e dell’equipaggiamento personale da parte della truppa (vedi art. 68 e 81)</td><td></td><td></td><td colspan="4"></td></tr>
+<tr><td>2.1 Singoli militari donne, quadri superiori se alloggiano in camere</td><td></td><td>100.—</td><td colspan="4"></td></tr>
+<tr><td>2.2 Sottufficiali e militari di truppa, se le condizioni di servizio permettono l’utilizzo di camere.</td><td></td><td>50.–</td><td colspan="4"></td></tr>
+<tr><td></td><td colspan="3">Le indennità summenzionate sono aumentate del 25 % quando la camera è occupata sino a quattro notti</td><td colspan="2"></td><td></td></tr>
 </table>
 
 <table>
 <tr><th></th><th>Per</th><th>Locali in</th><th></th><th>Riscaldamento soltanto per i giorni di riscaldamento effettivi</th></tr>
 <tr><th></th><th></th><th>hotel e trattorie fr.</th><th>edifici pubblici e privati fr.</th><th>fr.</th></tr>
-<tr><td>**3.** **Uffici, locali postali, sale di consultazione e infermerie,** **locali** **di lavoro, sale di teoria** compresi l’illuminazione e l’arredamento</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>**3.** **Uffici, locali postali, sale di consultazione e infermerie,** **locali** **di lavoro, sale di teoria** compresi l’illuminazione e l’arredamento</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>3.1 Locale fino a 30 m<sup>2</sup></td><td>giorno</td><td>15.—</td><td>11.—</td><td>2.50</td></tr>
 <tr><td>3.2 Supplemento per locali più grandi</td><td>ogni 10 m<sup>2</sup> o frazione in più / giorno</td><td>3.—</td><td>3.—</td><td>–.50</td></tr>
 <tr><td>3.3 Arredamenti speciali per le sale di consultazione e le infermerie:</td><td></td><td></td><td></td><td></td></tr>
