@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 octobre 2003 sur la fusion, la scission, la transfor
 short: LFus
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/320"
 language: fr
-version: 2014-01-01
+version: 2023-01-01
 adopted: 2003-10-03
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/320/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-320-20140101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/320/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-320-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20140101/fr"
 
 (Loi sur la fusion, LFus)
 
-du 3 octobre 2003 (Etat le 1<sup>er</sup> janvier 2014)
+du 3 octobre 2003 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -67,8 +67,8 @@ Au sens de la présente loi, on entend par:
 - h. *assemblée générale:* l’assemblée générale de la société anonyme, de la société en commandite par actions et de la société coopérative; l’assemblée des associés de la société à responsabilité limitée; l’assemblée des membres de l’association; l’assemblée des délégués de l’association ou de la société coopérative, pour autant qu’elle soit compétente en vertu des statuts;
 - i. *institutions de prévoyance:* les institutions qui sont soumises à la surveillance prévue aux art. 61 et suivants de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^2-3] et qui jouissent de la personnalité juridique.
 
-[^2-1]: Nouvelle teneur selon le ch. II 1 de l’annexe à la loi du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^2-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^2-1]: Nouvelle teneur selon l’annexe ch. II 1 de la loi du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 23 déc. 2011 (Droit comptable), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1407](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^2-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 ## Chapitre 2 Fusion de sociétés
@@ -139,11 +139,15 @@ Les associations peuvent fusionner avec des associations. Les associations inscr
 
 **Fusion de sociétés en cas de perte en capital ou de surendettement**
 
-<sup>1</sup> Une société dont la moitié de la somme du capital-actions ou du capital social et des réserves légales n’est plus couverte, ou qui est surendettée, ne peut fusionner avec une autre société que si cette dernière dispose de fonds propres librement disponibles équivalant au montant du découvert et, le cas échéant, du surendettement. Cette exigence ne s’applique pas dans la mesure où des créanciers des sociétés participant à la fusion acceptent que leur créance soit placée à un rang inférieur à celui de toutes les autres créances.
+<sup>1</sup> Une société dont les actifs, après déduction des dettes, ne couvrent plus que la moitié de la somme du capital-actions ou du capital social, de la réserve légale issue du capital et de la réserve légale issue du bénéfice qui ne sont pas remboursables aux actionnaires, ou qui est surendettée, ne peut fusionner avec une autre société que si cette dernière dispose de fonds propres librement disponibles équivalant au montant du découvert et, le cas échéant, du surendettement.[^6-1]
 
-<sup>2</sup> L’organe supérieur de direction ou d’administration doit présenter à l’office du registre du commerce une attestation d’un expert-réviseur agréé selon laquelle la condition fixée à l’al. 1 est remplie.[^6-1]
+<sup>1bis</sup> Cette condition ne s’applique pas dans la mesure où des créanciers des sociétés participant à la fusion ajournent des créances et acceptent que leur créance soit placée à un rang inférieur à celui de toutes les autres créances pour un montant équivalant au découvert et, le cas échéant, au surendettement, pour autant que la postposition porte également sur les intérêts dus pendant toute la durée du surendettement.[^6-2]
 
-[^6-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> L’organe supérieur de direction ou d’administration doit présenter à l’office du registre du commerce une attestation d’un expert-réviseur agréé selon laquelle la condition fixée à l’al. 1 est remplie.[^6-3]
+
+[^6-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^6-2]: Introduit par l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^6-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### Section 2 Parts sociales et droits de sociétariat
 
@@ -171,7 +175,11 @@ Les associations peuvent fusionner avec des associations. Les associations inscr
 
 <sup>2</sup> Les sociétés qui fusionnent peuvent également prévoir dans le contrat de fusion que seul un dédommagement sera versé.
 
-### Section 3 Augmentation de capital, fondation et bilan intermédiaire
+### Section 3 Augmentation de capital, fondation et comptes intermédiaires
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nouvelle expression selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 9
 
@@ -179,9 +187,10 @@ Les associations peuvent fusionner avec des associations. Les associations inscr
 
 <sup>1</sup> En cas de fusion par absorption, la société reprenante doit augmenter son capital dans la mesure où le maintien des droits des associés de la société transférante l’exige.
 
-<sup>2</sup> Les dispositions du code des obligations (CO)[^9-1] concernant les apports en nature ainsi que l’art. 651, al. 2, du CO ne s’appliquent pas aux fusions.
+<sup>2</sup> Les dispositions du code des obligations (CO)[^9-1] concernant les apports en nature (art. 634 CO) et les limites inférieures et supérieures maximales de la marge de fluctuation du capital (art. 653*s*, al. 2, CO) ne s’appliquent pas aux fusions.[^9-2]
 
 [^9-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 10
 
@@ -194,16 +203,13 @@ Les dispositions du code civil (CC)[^10-1] et du CO[^10-2] concernant la fondati
 
 #### Art. 11
 
-**Bilan intermédiaire**
+**Comptes intermédiaires**
 
-<sup>1</sup> Les sociétés qui fusionnent doivent établir un bilan intermédiaire si la date de clôture du bilan est antérieure de plus de six mois à celle de la conclusion du contrat de fusion ou si des modifications importantes sont intervenues dans leur patrimoine depuis la clôture du dernier bilan.
+<sup>1</sup> Les sociétés qui fusionnent doivent établir des comptes intermédiaires si la date de clôture du bilan est antérieure de plus de six mois à celle de la conclusion du contrat de fusion ou si des modifications importantes sont intervenues dans leur patrimoine depuis la clôture du dernier bilan.
 
-<sup>2</sup>
+<sup>2</sup> ...[^11-1]
 
-L’établissement du bilan intermédiaire est régi par les dispositions et les principes relatifs aux comptes annuels. Les dispositions suivantes sont réservées:
-
-- a. il n’est pas nécessaire de procéder à un nouvel inventaire réel;
-- b. les évaluations figurant au dernier bilan ne sont modifiées qu’en fonction des mouvements d’écritures; les amortissements, les corrections de valeur et les provisions intérimaires ainsi que les changements importants de la valeur n’apparaissant pas dans les écritures doivent cependant être pris en considération.
+[^11-1]: Abrogé par l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section 4 Contrat de fusion, rapport de fusion et vérification
 
@@ -273,16 +279,19 @@ Le rapport doit expliquer et justifier du point de vue juridique et économique:
 
 <sup>3</sup> Les sociétés qui fusionnent fournissent tous les renseignements et documents utiles à l’expert-réviseur.[^15-2]
 
-- [tab] <sup>4</sup> L’expert-réviseur expose dans un rapport de révision écrit:[^15-3]
+<sup>4</sup>
+
+L’expert-réviseur expose dans un rapport de révision écrit:[^15-3]
+
 - a. si l’augmentation prévue du capital de la société reprenante est suffisante pour garantir le maintien des droits des associés de la société transférante;
 - b. si le rapport d’échange des parts sociales ou le dédommagement est soutenable;
 - c. selon quelle méthode le rapport d’échange a été déterminé et pour quelles raisons la méthode appliquée est adéquate;
 - d. quelle a été l’importance relative donnée, le cas échéant, aux différentes méthodes appliquées pour déterminer le rapport d’échange;
 - e. à quelles particularités, lors de l’évaluation des parts sociales eu égard à la détermination du rapport d’échange, il a fallu veiller.
 
-[^15-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^15-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^15-3]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^15-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 16
 
@@ -295,7 +304,7 @@ Chacune des sociétés qui fusionnent donne la possibilité aux associés, penda
 - a. le contrat de fusion;
 - b. le rapport de fusion;
 - c. le rapport de révision;
-- d. les comptes annuels et les rapports annuels des trois derniers exercices ainsi que, le cas échéant, le bilan intermédiaire.
+- d. les comptes annuels et les rapports annuels des trois derniers exercices ainsi que, le cas échéant, les comptes intermédiaires.
 
 <sup>2</sup> Les petites et moyennes entreprises peuvent renoncer à la procédure de consultation prévue à l’al. 1 moyennant l’approbation de tous les associés.
 
@@ -337,8 +346,8 @@ Pour les sociétés de capitaux, les sociétés coopératives et les association
 
 <sup>6</sup> S’il résulte de la fusion une modification du but de la société pour les associés de la société transférante et si, en vertu de dispositions légales ou statutaires, une autre majorité que celle prévue pour la décision de fusion est requise pour la modification de ce but, l’approbation de la décision de fusion doit satisfaire à ces deux majorités.
 
-[^18-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^18-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^18-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^18-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 19
 
@@ -374,9 +383,9 @@ Pour les sociétés de capitaux, les sociétés coopératives et les association
 
 **Effets juridiques**
 
-<sup>1</sup> La fusion déploie ses effets dès son inscription au registre du commerce. A cette date, l’ensemble des actifs et passifs de la société transférante sont transférés de par la loi à la société reprenante. L’art. 34 de la loi du 6 octobre 1995 sur les cartels[^22-1] est réservé.
+<sup>1</sup> La fusion déploie ses effets dès son inscription au registre du commerce. À cette date, l’ensemble des actifs et passifs de la société transférante sont transférés de par la loi à la société reprenante. L’art. 34 de la loi du 6 octobre 1995 sur les cartels[^22-1] est réservé.
 
-2 La fusion d’associations qui ne sont pas inscrites au registre du commerce déploie ses effets une fois la décision de fusion prise par l’ensemble des associations.
+<sup>2</sup> La fusion d’associations qui ne sont pas inscrites au registre du commerce déploie ses effets une fois la décision de fusion prise par l’ensemble des associations.
 
 [^22-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
 
@@ -422,7 +431,7 @@ Si la société de capitaux reprenante ne détient pas l’ensemble, mais au moi
 
 <sup>4</sup> La société tenue de fournir des sûretés peut, en lieu et place, exécuter la créance dans la mesure où il n’en résulte aucun dommage pour les autres créanciers.
 
-[^25-1]: Nouvelle teneur de la phrase selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^25-1]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 26
 
@@ -494,15 +503,16 @@ Les associés de la société transférante peuvent se voir attribuer:
 - a. des parts sociales ou des droits de sociétariat de l’ensemble des sociétés participant à la scission qui soient proportionnels à leur participation antérieure (scission symétrique);
 - b. des parts sociales ou des droits de sociétariat de certaines ou de l’ensemble des sociétés participant à la scission qui ne soient pas proportionnels à leur participation antérieure (scission asymétrique).
 
-### Section 3 Réduction de capital, augmentation de capital, fondation et bilan intermédiaire
+### Section 3 Réduction de capital, augmentation de capital, fondation et comptes intermédiaires
 
 #### Art. 32
 
-**Réduction de capital en cas de séparation**
+**Réduction de capital en cas de séparation**[^32-1]
 
-Si la société transférante réduit son capital en raison de la séparation, les art. 733, 734, 788, al. 2, et 874, al. 2, CO[^32-1] ne sont pas applicables.
+Si la société transférante réduit son capital en raison de la séparation, l’art. 653*k* CO[^32-2] n’est pas applicable.
 
-[^32-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^32-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^32-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 33
 
@@ -510,9 +520,10 @@ Si la société transférante réduit son capital en raison de la séparation, l
 
 <sup>1</sup> La société reprenante augmente son capital dans la mesure où le maintien des droits des associés de la société transférante l’exige.
 
-<sup>2</sup> Les dispositions du CO[^33-1] concernant les apports en nature ainsi que l’art. 651, al. 2, CO ne s’appliquent pas aux scissions.
+<sup>2</sup> Les dispositions du CO[^33-1] concernant les apports en nature (art. 634 CO) et les limites inférieures et supérieures maximales de la marge de fluctuation du capital (art. 653*s*, al. 2, CO) ne s’appliquent pas aux scissions.[^33-2]
 
 [^33-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 34
 
@@ -524,16 +535,13 @@ Les dispositions du CO[^34-1] concernant la fondation d’une société s’appl
 
 #### Art. 35
 
-**Bilan intermédiaire**
+**Comptes intermédiaires**
 
-<sup>1</sup> Les sociétés participant à la scission établissent un bilan intermédiaire si la date de clôture du bilan est antérieure de plus de six mois à celle de la conclusion du contrat de scission ou de l’établissement du projet de scission, ou si des modifications importantes sont intervenues dans leur patrimoine depuis la clôture du dernier bilan.
+<sup>1</sup> Les sociétés participant à la scission établissent des comptes intermédiaires si la date de clôture du bilan est antérieure de plus de six mois à celle de la conclusion du contrat de scission ou de l’établissement du projet de scission, ou si des modifications importantes sont intervenues dans leur patrimoine depuis la clôture du dernier bilan.
 
-<sup>2</sup>
+<sup>2</sup> ...[^35-1]
 
-L’établissement du bilan intermédiaire est régi par les dispositions et les principes relatifs aux comptes annuels. Les dispositions suivantes sont réservées:
-
-- a. il n’est pas nécessaire de procéder à un nouvel inventaire réel;
-- b. les évaluations figurant au dernier bilan ne sont modifiées qu’en fonction des mouvements d’écritures; les amortissements, les corrections de valeur et les provisions intérimaires ainsi que les changements importants de la valeur n’apparaissant pas dans les écritures sont cependant pris en considération.
+[^35-1]: Abrogé par l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section 4 Contrat de scission, projet de scission, rapport de scission et vérification
 
@@ -618,7 +626,7 @@ Chacune des sociétés participant à la scission donne la possibilité aux asso
 - a. le contrat ou le projet de scission;
 - b. le rapport de scission;
 - c. le rapport de révision;
-- d. les comptes annuels et les rapports annuels des trois derniers exercices ainsi que, le cas échéant, le bilan intermédiaire.
+- d. les comptes annuels et les rapports annuels des trois derniers exercices ainsi que, le cas échéant, les comptes intermédiaires.
 
 <sup>2</sup> Les petites et moyennes entreprises peuvent renoncer à la procédure de consultation prévue à l’al. 1 moyennant l’approbation de tous les associés.
 
@@ -682,7 +690,7 @@ Les sociétés responsables à titre subsidiaire ne peuvent être recherchées q
 - b. a obtenu un sursis concordataire ou un ajournement de la faillite;
 - c. a fait l’objet de poursuites ayant abouti à la délivrance d’un acte de défaut de biens définitif;
 - d. a transféré son siège à l’étranger et ne peut plus être recherchée en Suisse;
-- e. a transféré son siège d’un Etat étranger à un autre, entravant ainsi sensiblement l’exercice du droit du créancier.
+- e. a transféré son siège d’un État étranger à un autre, entravant ainsi sensiblement l’exercice du droit du créancier.
 
 #### Art. 48
 
@@ -724,7 +732,7 @@ L’art. 28 s’applique à la consultation de la représentation des travailleu
 
 **Effets juridiques**
 
-La scission déploie ses effets dès son inscription au registre du commerce. A cette date, l’ensemble des actifs et passifs énumérés dans l’inventaire sont transférés de par la loi aux sociétés reprenantes. L’art. 34 de la loi du 6 octobre 1995 sur les cartels[^52-1] est réservé.
+La scission déploie ses effets dès son inscription au registre du commerce. À cette date, l’ensemble des actifs et passifs énumérés dans l’inventaire sont transférés de par la loi aux sociétés reprenantes. L’art. 34 de la loi du 6 octobre 1995 sur les cartels[^52-1] est réservé.
 
 [^52-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
 
@@ -814,7 +822,7 @@ Une société en commandite peut se transformer en une société en nom collecti
 
 <sup>5</sup> La société attribue des droits équivalents aux titulaires de bons de jouissance, ou rachète leurs bons de jouissance à leur valeur réelle au moment de l’établissement du projet de transformation.
 
-### Section 3 Fondation et bilan intermédiaire
+### Section 3 Fondation et comptes intermédiaires
 
 #### Art. 57
 
@@ -827,22 +835,19 @@ En cas de transformation, les dispositions du CC[^57-1] et du CO[^57-2] concerna
 
 #### Art. 58
 
-**Bilan intermédiaire**
+**Comptes intermédiaires**
 
-<sup>1</sup> La société établit un bilan intermédiaire si la date de clôture du bilan est antérieure de plus de six mois à celle de l’établissement du rapport de transformation ou si des modifications importantes sont intervenues dans son patrimoine depuis la clôture du dernier bilan.
+<sup>1</sup> La société établit des comptes intermédiaires si la date de clôture du bilan est antérieure de plus de six mois à celle de l’établissement du rapport de transformation ou si des modifications importantes sont intervenues dans son patrimoine depuis la clôture du dernier bilan.
 
-<sup>2</sup>
+<sup>2</sup> ...[^58-1]
 
-L’établissement du bilan intermédiaire est régi par les dispositions et les principes relatifs aux comptes annuels. Les dispositions suivantes sont réservées:
-
-- a. il n’est pas nécessaire de procéder à un nouvel inventaire réel;
-- b. les évaluations figurant au dernier bilan ne sont modifiées qu’en fonction des mouvements d’écritures; les amortissements, les corrections de valeur et les provisions intérimaires ainsi que les changements importants de la valeur n’apparaissant pas dans les écritures sont cependant pris en considération.
+[^58-1]: Abrogé par l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section 4 Projet de transformation, rapport de transformation et vérification
 
 #### Art. 59
 
-**Etablissement du projet de transformation**
+**Établissement du projet de transformation**
 
 <sup>1</sup> L’organe supérieur de direction ou d’administration établit un projet de transformation.
 
@@ -889,9 +894,9 @@ Le rapport explique et justifie du point de vue juridique et économique:
 
 <sup>4</sup> L’expert-réviseur vérifie si les conditions de la transformation sont remplies, en particulier si le statut juridique des associés est maintenu après la transformation.[^62-3]
 
-[^62-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^62-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^62-3]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^62-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^62-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^62-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 63
 
@@ -904,7 +909,7 @@ La société donne la possibilité aux associés, pendant les 30 jours qui préc
 - a. le projet de transformation;
 - b. le rapport de transformation;
 - c. le rapport de révision;
-- d. les comptes annuels et les rapports annuels des trois derniers exercices ainsi que, le cas échéant, le bilan intermédiaire.
+- d. les comptes annuels et les rapports annuels des trois derniers exercices ainsi que, le cas échéant, les comptes intermédiaires.
 
 <sup>2</sup> Les petites et moyennes entreprises peuvent renoncer à la procédure de consultation prévue à l’al. 1 moyennant l’approbation de tous les associés.
 
@@ -930,8 +935,8 @@ Pour les sociétés de capitaux, les sociétés coopératives et les association
 
 <sup>2</sup> Pour les sociétés en nom collectif et les sociétés en commandite, le projet de transformation est soumis à l’approbation de tous les associés. Le contrat de société peut cependant prévoir que l’approbation de trois quarts de tous les associés suffit.
 
-[^64-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^64-2]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^64-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^64-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 65
 
@@ -969,7 +974,7 @@ La transformation déploie ses effets dès son inscription au registre du commer
 
 <sup>2</sup> Les dispositions légales et statutaires concernant la protection du capital et la liquidation sont réservées.
 
-[^69-1]: Nouvelle teneur selon le ch. II 1 de l’annexe à la loi du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^69-1]: Nouvelle teneur selon l’annexe ch. II 1 de la loi du 23 juin 2006 sur les placements collectifs, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5993](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### Section 2 Contrat de transfert
 
@@ -979,7 +984,9 @@ La transformation déploie ses effets dès son inscription au registre du commer
 
 <sup>1</sup> Le contrat de transfert est conclu par les organes supérieurs de direction ou d’administration des sujets participant au transfert.
 
-<sup>2</sup> Le contrat de transfert revêt la forme écrite. Lorsque des immeubles sont transférés, les parties correspondantes du contrat revêtent la forme authentique. Un acte authentique unique suffit, même lorsque les immeubles sont situés dans différents cantons. L’acte authentique est établi par un officier public au siège du sujet transférant.
+<sup>2</sup> Le contrat de transfert revêt la forme écrite. Lorsque des immeubles sont transférés, les parties correspondantes du contrat revêtent la forme authentique. Un acte authentique unique suffit, même lorsque les immeubles qui font l’objet du transfert de patrimoine sont situés dans différents cantons.[^70-1] L’acte authentique est établi par un officier public au siège du sujet transférant.
+
+[^70-1]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 71
 
@@ -1009,7 +1016,7 @@ Les objets du patrimoine actif ainsi que les créances et les droits immatériel
 
 <sup>1</sup> L’organe supérieur de direction ou d’administration du sujet transférant requiert l’inscription du transfert de patrimoine au registre du commerce.
 
-<sup>2</sup> Le transfert de patrimoine déploie ses effets dès son inscription au registre du commerce. A cette date, l’ensemble des actifs et passifs énumérés dans l’inventaire sont transférés de par la loi au sujet reprenant. L’art. 34 de la loi du 6 octobre 1995 sur les cartels[^73-1] est réservé.
+<sup>2</sup> Le transfert de patrimoine déploie ses effets dès son inscription au registre du commerce. À cette date, l’ensemble des actifs et passifs énumérés dans l’inventaire sont transférés de par la loi au sujet reprenant. L’art. 34 de la loi du 6 octobre 1995 sur les cartels[^73-1] est réservé.
 
 [^73-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
 
@@ -1105,7 +1112,7 @@ Le contrat contient:
 
 **Bilan**
 
-Les fondations établissent un bilan et, si les conditions fixées à l’art. 11 sont remplies, un bilan intermédiaire.
+Les fondations établissent un bilan et, si les conditions fixées à l’art. 11 sont remplies, des comptes intermédiaires.
 
 #### Art. 81
 
@@ -1117,7 +1124,7 @@ Les fondations établissent un bilan et, si les conditions fixées à l’art. 1
 
 <sup>3</sup> Le réviseur établit un rapport précisant en particulier si les éventuelles prétentions juridiques des destinataires sont maintenues et s’il existe des créances connues ou escomptées qui ne peuvent être exécutées au moyen de la fortune des fondations qui fusionnent.
 
-[^81-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^81-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 82
 
@@ -1137,15 +1144,15 @@ Avant de requérir l’approbation de l’autorité de surveillance, l’organe 
 
 <sup>4</sup> L’art. 22, al. 1, est applicable pour ce qui est des effets juridiques de la fusion.
 
-[^83-1]: Nouvelle teneur de la phrase selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^83-1]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 84
 
-**Décision et exécution de la fusion de fondations de famille et de fondations ecclésiastiques**
+**Annulation de la décision de fusion des fondations de famille ou des fondations ecclésiastiques**[^84-1]
 
-<sup>1</sup> La fusion de fondations de famille et de fondations ecclésiastiques déploie ses effets une fois le contrat de fusion approuvé par les organes supérieurs des fondations qui fusionnent. L’art. 83 s’applique par analogie aux fondations ecclésiastiques qui, en vertu du droit public, sont soumises à la surveillance d’une corporation de droit public.
+En ce qui concerne les fondations de famille et les fondations ecclésiastiques, les destinataires ayant des prétentions juridiques ainsi que les membres de l’organe supérieur de la fondation qui n’ont pas approuvé la décision de fusion peuvent, si les conditions n’en sont pas réunies, l’attaquer en justice dans le délai de trois mois à compter de la décision.
 
-<sup>2</sup> Les destinataires ayant des prétentions juridiques ainsi que les membres de l’organe supérieur de la fondation qui n’ont pas approuvé la décision de fusion peuvent, si les conditions n’en sont pas réunies, l’attaquer en justice dans le délai de trois mois à compter de la décision.
+[^84-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 85
 
@@ -1159,7 +1166,7 @@ Avant de requérir l’approbation de l’autorité de surveillance, l’organe 
 
 <sup>4</sup> Les art. 27 et 28 s’appliquent à la protection des travailleurs.
 
-[^85-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^85-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### Section 2 Transfert de patrimoine
 
@@ -1204,7 +1211,7 @@ Avant de requérir l’approbation de l’autorité de surveillance, l’organe 
 
 **Bilan**
 
-Les institutions de prévoyance qui fusionnent établissent un bilan et, si les conditions fixées à l’art. 11 sont remplies, un bilan intermédiaire.
+Les institutions de prévoyance qui fusionnent établissent un bilan et, si les conditions fixées à l’art. 11 sont remplies, des comptes intermédiaires.
 
 #### Art. 90
 
@@ -1338,7 +1345,7 @@ Les instituts de droit public peuvent:
 <sup>3</sup> La décision du sujet de droit public relative à la fusion, à la transformation ou au transfert de patrimoine est régie par les dispositions et les principes de droit public de la Confédération, des cantons et des communes.
 
 [^100-1]: Nouvelle teneur de la phrase selon le ch. II 4 de la loi du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^100-2]: Nouvelle teneur de la phrase selon le ch. 2 de l’annexe à la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^100-2]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 101
 

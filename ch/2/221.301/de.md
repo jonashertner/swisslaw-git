@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 2003 über Fusion, Spaltung, Umwandlung und 
 short: FusG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/320"
 language: de
-version: 2014-01-01
+version: 2023-01-01
 adopted: 2003-10-03
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/320/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2004-320-20140101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/320/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-320-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20140101/de"
 
 (Fusionsgesetz, FusG)
 
-vom 3. Oktober 2003 (Stand am 1. Januar 2014)
+vom 3. Oktober 2003 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -140,11 +140,15 @@ Vereine können mit Vereinen fusionieren. Im Handelsregister eingetragene Verein
 
 **Fusion von Gesellschaften im Fall von Kapitalverlust oder Überschuldung**
 
-<sup>1</sup> Eine Gesellschaft, deren Aktien‑, Stamm- oder Genossenschaftskapital und deren gesetzliche Reserven zur Hälfte nicht mehr gedeckt sind oder die überschuldet ist, kann mit einer anderen Gesellschaft nur fusionieren, wenn diese über frei verwendbares Eigenkapital im Umfang der Unterdeckung und gegebenenfalls der Überschuldung verfügt. Diese Voraussetzung entfällt, soweit Gläubigerinnen und Gläubiger der an der Fusion beteiligten Gesellschaften im Rang hinter alle anderen Gläubigerinnen und Gläubiger zurücktreten.
+<sup>1</sup> Eine Gesellschaft, deren Aktiven abzüglich der Verbindlichkeiten die Hälfte der Summe aus Aktien-, Stamm- oder Genossenschaftskapital, nicht an die Aktionäre zurückzahlbarer gesetzlicher Kapitalreserve und gesetzlicher Gewinnreserve nicht mehr decken oder die überschuldet ist, kann mit einer anderen Gesellschaft nur fusionieren, wenn diese über frei verwendbares Eigenkapital im Umfang der Unterdeckung und gegebenenfalls der Überschuldung verfügt.[^6-1]
 
-<sup>2</sup> Das oberste Leitungs- oder Verwaltungsorgan muss dem Handelsregisteramt eine Bestätigung einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten einreichen, wonach die Voraussetzungen nach Absatz 1 erfüllt sind.[^6-1]
+<sup>1bis</sup> Diese Voraussetzung entfällt, soweit Gläubigerinnen und Gläubiger der an der Fusion beteiligten Gesellschaften im Ausmass der Unterdeckung und gegebenenfalls der Überschuldung im Rang hinter alle anderen Gläubigerinnen und Gläubiger zurücktreten und ihre Forderungen stunden, sofern der geschuldete Betrag und die Zinsforderungen während der Dauer der Überschuldung vom Rangrücktritt umfasst sind.[^6-2]
 
-[^6-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Das oberste Leitungs- oder Verwaltungsorgan muss dem Handelsregisteramt eine Bestätigung einer zugelassenen Revisionsexpertin oder eines zugelassenen Revisionsexperten einreichen, wonach die Voraussetzungen nach Absatz 1 erfüllt sind.[^6-3]
+
+[^6-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^6-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^6-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### 2. Abschnitt: Anteils- und Mitgliedschaftsrechte
 
@@ -172,7 +176,11 @@ Vereine können mit Vereinen fusionieren. Im Handelsregister eingetragene Verein
 
 <sup>2</sup> Die an der Fusion beteiligten Gesellschaften können im Fusionsvertrag auch vorsehen, dass nur eine Abfindung ausgerichtet wird.
 
-### 3. Abschnitt: Kapitalerhöhung, Neugründung und Zwischenbilanz
+### 3. Abschnitt: Kapitalerhöhung, Neugründung und Zwischenabschluss
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 9
 
@@ -180,9 +188,10 @@ Vereine können mit Vereinen fusionieren. Im Handelsregister eingetragene Verein
 
 <sup>1</sup> Bei der Absorptionsfusion muss die übernehmende Gesellschaft das Kapital erhöhen, soweit es zur Wahrung der Rechte der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft erforderlich ist.
 
-<sup>2</sup> Die Vorschriften des Obligationenrechts[^9-1] (OR) über die Sacheinlagen sowie Artikel 651 Absatz 2 des OR finden bei der Fusion keine Anwendung.
+<sup>2</sup> Die Vorschriften des Obligationenrechts (OR)[^9-1] über die Sacheinlage (Art. 634 OR) und über den maximalen Umfang des Kapitalbands (Art. 653*s* Abs. 2 OR) finden bei der Fusion keine Anwendung.[^9-2]
 
 [^9-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 10
 
@@ -195,16 +204,13 @@ Für die Neugründung einer Gesellschaft im Rahmen einer Kombinationsfusion gelt
 
 #### Art. 11
 
-**Zwischenbilanz**
+**Zwischenabschluss**
 
-<sup>1</sup> Liegt der Bilanzstichtag bei Abschluss des Fusionsvertrags mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der an der Fusion beteiligten Gesellschaften eingetreten, so müssen diese eine Zwischenbilanz erstellen.
+<sup>1</sup> Liegt der Bilanzstichtag bei Abschluss des Fusionsvertrags mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der an der Fusion beteiligten Gesellschaften eingetreten, so müssen diese einen Zwischenabschluss erstellen.
 
-<sup>2</sup>
+<sup>2</sup> …[^11-1]
 
-Die Erstellung der Zwischenbilanz erfolgt gemäss den Vorschriften und Grundsätzen für den Jahresabschluss unter Vorbehalt folgender Vorschriften:
-
-- a. Eine körperliche Bestandesaufnahme ist nicht notwendig.
-- b. Die in der letzten Bilanz vorgenommenen Bewertungen brauchen nur nach Massgabe der Bewegungen in den Geschäftsbüchern verändert zu werden; Abschreibungen, Wertberichtigungen und Rückstellungen für die Zwischenzeit sowie wesentliche, aus den Büchern nicht ersichtliche Veränderungen der Werte müssen jedoch berücksichtigt werden.
+[^11-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Abschnitt: Fusionsvertrag, Fusionsbericht und Prüfung
 
@@ -220,7 +226,9 @@ Die Erstellung der Zwischenbilanz erfolgt gemäss den Vorschriften und Grundsät
 
 **Inhalt des Fusionsvertrags**
 
-1 Der Fusionsvertrag enthält:
+<sup>1</sup>
+
+Der Fusionsvertrag enthält:
 
 - a. den Namen oder die Firma, den Sitz und die Rechtsform der beteiligten Gesellschaften, im Fall der Kombinationsfusion auch den Namen oder die Firma, den Sitz und die Rechtsform der neuen Gesellschaft;
 - b. das Umtauschverhältnis für Anteile und gegebenenfalls die Höhe der Ausgleichszahlung beziehungsweise Angaben über die Mitgliedschaft der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft bei der übernehmenden Gesellschaft;
@@ -297,7 +305,7 @@ Jede der an der Fusion beteiligten Gesellschaften muss an ihrem Sitz den Gesells
 - a. den Fusionsvertrag;
 - b. den Fusionsbericht;
 - c. den Prüfungsbericht;
-- d. die Jahresrechnungen und Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls die Zwischenbilanz.
+- d. die Jahresrechnungen und Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls den Zwischenabschluss.
 
 <sup>2</sup> Kleine und mittlere Unternehmen können auf das Einsichtsverfahren nach Absatz 1 verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen.
 
@@ -495,15 +503,16 @@ Den Gesellschafterinnen und Gesellschaftern der übertragenden Gesellschaft kön
 - a. Anteils- oder Mitgliedschaftsrechte an allen an der Spaltung beteiligten Gesellschaften im Verhältnis ihrer bisherigen Beteiligung zugewiesen werden (symmetrische Spaltung);
 - b. Anteils- oder Mitgliedschaftsrechte an einzelnen oder allen an der Spaltung beteiligten Gesellschaften unter Abänderung der Beteiligungsverhältnisse zugewiesen werden (asymmetrische Spaltung).
 
-### 3. Abschnitt: Kapitalherabsetzung, Kapitalerhöhung, Neugründung und Zwischenbilanz
+### 3. Abschnitt: Kapitalherabsetzung, Kapitalerhöhung, Neugründung und Zwischenabschluss
 
 #### Art. 32
 
-**Herabsetzung des Kapitals bei der Abspaltung**
+**Herabsetzung des Kapitals bei der Abspaltung**[^32-1]
 
-Wird im Zusammenhang mit der Abspaltung das Kapital der übertragenden Gesellschaft herabgesetzt, so finden die Artikel 733, 734, 788 Absatz 2 und 874 Absatz 2 des OR[^32-1] keine Anwendung.
+Wird im Zusammenhang mit der Abspaltung das Kapital der übertragenden Gesellschaft herabgesetzt, so findet Artikel 653*k* OR[^32-2] keine Anwendung.
 
-[^32-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^32-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^32-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 33
 
@@ -511,9 +520,10 @@ Wird im Zusammenhang mit der Abspaltung das Kapital der übertragenden Gesellsch
 
 <sup>1</sup> Die übernehmende Gesellschaft muss das Kapital erhöhen, soweit es zur Wahrung der Rechte der Gesellschafterinnen und Gesellschafter der übertragenden Gesellschaft erforderlich ist.
 
-<sup>2</sup> Die Vorschriften des OR[^33-1] über die Sacheinlagen sowie Artikel 651 Absatz 2 des OR finden bei der Spaltung keine Anwendung.
+<sup>2</sup> Die Vorschriften des OR[^33-1] über die Sacheinlage (Art. 634 OR) und über den maximalen Umfang des Kapitalbands (Art. 653*s* Abs. 2 OR) finden bei der Spaltung keine Anwendung.[^33-2]
 
 [^33-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 34
 
@@ -525,16 +535,13 @@ Für die Neugründung einer Gesellschaft im Rahmen einer Spaltung gelten die Bes
 
 #### Art. 35
 
-**Zwischenbilanz**
+**Zwischenabschluss**
 
-<sup>1</sup> Liegt der Bilanzstichtag beim Abschluss des Spaltungsvertrags oder bei der Erstellung des Spaltungsplans mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der an der Spaltung beteiligten Gesellschaften eingetreten, so müssen diese eine Zwischenbilanz erstellen.
+<sup>1</sup> Liegt der Bilanzstichtag beim Abschluss des Spaltungsvertrags oder bei der Erstellung des Spaltungsplans mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der an der Spaltung beteiligten Gesellschaften eingetreten, so müssen diese einen Zwischenabschluss erstellen.
 
-<sup>2</sup>
+<sup>2</sup> …[^35-1]
 
-Die Erstellung der Zwischenbilanz erfolgt gemäss den Vorschriften und Grundsätzen für den Jahresabschluss unter Vorbehalt folgender Vorschriften:
-
-- a. Eine körperliche Bestandesaufnahme ist nicht notwendig.
-- b. Die in der letzten Bilanz vorgenommenen Bewertungen brauchen nur nach Massgabe der Bewegungen in den Geschäftsbüchern verändert zu werden; Abschreibungen, Wertberichtigungen und Rückstellungen für die Zwischenzeit sowie wesentliche, aus den Büchern nicht ersichtliche Veränderungen der Werte müssen jedoch berücksichtigt werden.
+[^35-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Abschnitt: Spaltungsvertrag, Spaltungsplan, Spaltungsbericht und Prüfung
 
@@ -619,7 +626,7 @@ Jede der an der Spaltung beteiligten Gesellschaften muss an ihrem Sitz den Gesel
 - a. den Spaltungsvertrag oder den Spaltungsplan;
 - b. den Spaltungsbericht;
 - c. den Prüfungsbericht;
-- d. die Jahresrechnungen und die Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls die Zwischenbilanz.
+- d. die Jahresrechnungen und die Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls den Zwischenabschluss.
 
 <sup>2</sup> Kleine und mittlere Unternehmen können auf das Einsichtsverfahren nach Absatz 1 verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen.
 
@@ -816,7 +823,7 @@ Eine Kommanditgesellschaft kann sich in eine Kollektivgesellschaft umwandeln, in
 
 <sup>5</sup> Für Genussscheine sind gleichwertige Rechte zu gewähren, oder sie sind zum wirklichen Wert im Zeitpunkt der Erstellung des Umwandlungsplans zurückzukaufen.
 
-### 3. Abschnitt: Gründung und Zwischenbilanz
+### 3. Abschnitt: Gründung und Zwischenabschluss
 
 #### Art. 57
 
@@ -829,16 +836,13 @@ Bei der Umwandlung finden die Bestimmungen des ZGB[^57-1] und des OR[^57-2] übe
 
 #### Art. 58
 
-**Zwischenbilanz**
+**Zwischenabschluss**
 
-<sup>1</sup> Liegt der Bilanzstichtag zum Zeitpunkt der Erstattung des Umwandlungsberichts mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der Gesellschaft eingetreten, so muss diese eine Zwischenbilanz erstellen.
+<sup>1</sup> Liegt der Bilanzstichtag zum Zeitpunkt der Erstattung des Umwandlungsberichts mehr als sechs Monate zurück oder sind seit Abschluss der letzten Bilanz wichtige Änderungen in der Vermögenslage der Gesellschaft eingetreten, so muss diese einen Zwischenabschluss erstellen.
 
-<sup>2</sup>
+<sup>2</sup> …[^58-1]
 
-Die Erstellung der Zwischenbilanz erfolgt gemäss den Vorschriften und Grundsätzen für den Jahresabschluss unter Vorbehalt folgender Vorschriften:
-
-- a. Eine körperliche Bestandesaufnahme ist nicht notwendig.
-- b. Die in der letzten Bilanz vorgenommenen Bewertungen brauchen nur nach Massgabe der Bewegungen in den Geschäftsbüchern verändert zu werden; Abschreibungen, Wertberichtigungen und Rückstellungen für die Zwischenzeit sowie wesentliche, aus den Büchern nicht ersichtliche Veränderungen der Werte müssen jedoch berücksichtigt werden.
+[^58-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Abschnitt: Umwandlungsplan, Umwandlungsbericht und Prüfung
 
@@ -906,7 +910,7 @@ Die Gesellschaft muss an ihrem Sitz den Gesellschafterinnen und Gesellschaftern 
 - a. den Umwandlungsplan;
 - b. den Umwandlungsbericht;
 - c. den Prüfungsbericht;
-- d. die Jahresrechnungen und Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls die Zwischenbilanz.
+- d. die Jahresrechnungen und Jahresberichte der letzten drei Geschäftsjahre sowie gegebenenfalls den Zwischenabschluss.
 
 <sup>2</sup> Kleine und mittlere Unternehmen können auf das Einsichtsverfahren nach Absatz 1 verzichten, sofern alle Gesellschafterinnen und Gesellschafter zustimmen.
 
@@ -980,7 +984,9 @@ Die Umwandlung wird mit der Eintragung ins Handelsregister rechtswirksam.
 
 <sup>1</sup> Der Übertragungsvertrag muss von den obersten Leitungs- oder Verwaltungsorganen der an der Vermögensübertragung beteiligten Rechtsträger abgeschlossen werden.
 
-<sup>2</sup> Der Übertragungsvertrag bedarf der schriftlichen Form. Werden Grundstücke übertragen, so bedürfen die entsprechenden Teile des Vertrages der öffentlichen Beurkundung. Eine einzige öffentliche Urkunde genügt auch dann, wenn Grundstücke in verschiedenen Kantonen liegen. Die Urkunde muss durch eine Urkundsperson am Sitz des übertragenden Rechtsträgers errichtet werden.
+<sup>2</sup> Der Übertragungsvertrag bedarf der schriftlichen Form. Werden Grundstücke übertragen, so bedürfen die entsprechenden Teile des Vertrages der öffentlichen Beurkundung. Eine einzige öffentliche Urkunde genügt auch dann, wenn Grundstücke, die Gegenstand einer Vermögensübertragung sind, in verschiedenen Kantonen liegen.[^70-1] Die Urkunde muss durch eine Urkundsperson am Sitz des übertragenden Rechtsträgers errichtet werden.
+
+[^70-1]: Fassung des dritten Satzes gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 71
 
@@ -1106,7 +1112,7 @@ Der Vertrag enthält:
 
 **Bilanz**
 
-Die Stiftungen müssen eine Bilanz und unter den Voraussetzungen von Artikel 11 eine Zwischenbilanz erstellen.
+Die Stiftungen müssen eine Bilanz und unter den Voraussetzungen von Artikel 11 einen Zwischenabschluss erstellen.
 
 #### Art. 81
 
@@ -1142,11 +1148,11 @@ Das oberste Organ der übertragenden Stiftung informiert die Destinatäre mit Re
 
 #### Art. 84
 
-**Beschluss und Vollzug der Fusion bei Familienstiftungen und kirchlichen Stiftungen**
+**Anfechtung des Fusionsbeschlusses bei Familienstiftungen und kirchlichen Stiftungen**[^84-1]
 
-<sup>1</sup> Bei Familienstiftungen und kirchlichen Stiftungen wird die Fusion mit der Zustimmung der obersten Stiftungsorgane der beteiligten Stiftungen zum Fusionsvertrag rechtswirksam. Bei kirchlichen Stiftungen, die nach öffentlichem Recht der Aufsicht eines Gemeinwesens unterstehen, gilt Artikel 83 sinngemäss.
+Bei Familienstiftungen und kirchlichen Stiftungen kann jeder Destinatär mit Rechtsanspruch und jedes Mitglied des obersten Stiftungsorgans, das dem Fusionsbeschluss nicht zugestimmt hat, den Beschluss wegen Fehlens der Voraussetzungen innert dreier Monate gerichtlich anfechten.
 
-<sup>2</sup> Jeder Destinatär mit Rechtsanspruch und jedes Mitglied des obersten Stiftungsorgans, das dem Beschluss nicht zugestimmt hat, kann den Fusionsbeschluss wegen Fehlens der Voraussetzungen innert dreier Monate nach Beschluss gerichtlich anfechten.
+[^84-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 85
 
@@ -1205,7 +1211,7 @@ Das oberste Organ der übertragenden Stiftung informiert die Destinatäre mit Re
 
 **Bilanz**
 
-Die beteiligten Vorsorgeeinrichtungen müssen eine Bilanz und unter den Voraussetzungen von Artikel 11 eine Zwischenbilanz erstellen.
+Die beteiligten Vorsorgeeinrichtungen müssen eine Bilanz und unter den Voraussetzungen von Artikel 11 einen Zwischenabschluss erstellen.
 
 #### Art. 90
 

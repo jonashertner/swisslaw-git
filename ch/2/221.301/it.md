@@ -4,18 +4,18 @@ title: "Legge federale del 3 ottobre 2003 sulla fusione, la scissione, la trasfo
 short: LFus
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/320"
 language: it
-version: 2014-01-01
+version: 2023-01-01
 adopted: 2003-10-03
 in_force: 2004-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/320/20140101/it/xml/fedlex-data-admin-ch-eli-cc-2004-320-20140101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/320/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-320-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/320/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla fusione, la scissione, la trasformazione e il trasferimento di patrimonio (Legge sulla fusione; LFus)
 
-del 3 ottobre 2003 (Stato 1° gennaio 2014) (Stato 1° gennaio 2014)
+del 3 ottobre 2003 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -40,7 +40,7 @@ decreta:
 
 <sup>4</sup> Sono fatte salve le disposizioni sulla valutazione delle concentrazioni di imprese previste dalla legge del 6 ottobre 1995[^1-2] sui cartelli.
 
-[^1-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^1-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^1-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
 
 #### Art. 2
@@ -66,9 +66,9 @@ Ai sensi della presente legge si intendono per:
 - h. *assemblea generale*: l’assemblea generale nella società anonima, nella società in accomandita per azioni o nella società cooperativa; l’assemblea dei soci di una società a garanzia limitata; l’assemblea dei membri di un’associazione; l’assemblea dei delegati nella società cooperativa o nell’associazione qualora gli statuti la dichiarino competente;
 - i. *istituti di previdenza*: gli istituti sottoposti alla vigilanza di cui agli articoli 61 segg. della legge federale del 25 giugno 1982[^2-4] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, dotati di personalità giuridica.
 
-[^2-1]: Nuovo testo giusta il n. II 1 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^2-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^2-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^2-1]: Nuovo testo giusta l’all. n. II 1 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^2-2]: Nuovo testo giusta l’all. n. 2 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^2-3]: Nuovo testo giusta l’all. n. 2 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^2-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 ## Capitolo 2: Fusione di società
@@ -139,11 +139,15 @@ Le associazioni possono operare fusioni tra loro. Le associazioni iscritte nel r
 
 **Fusione di società in caso di perdita di capitale o di eccedenza di debiti**
 
-<sup>1</sup> Una società di cui non sia più coperta la metà del capitale azionario o sociale e delle riserve legali, oppure che presenti un’eccedenza di debiti, può operare una fusione purché l’altra società abbia una dotazione di capitale proprio liberamente disponibile di importo pari allo scoperto e, se del caso, all’eccedenza di debiti. Questa condizione non si applica nella misura in cui creditori delle società partecipanti alla fusione accettino di essere relegati a un grado posteriore a quello di tutti gli altri creditori.
+<sup>1</sup> Una società i cui attivi, previa deduzione dei debiti, non coprono più la metà della somma del capitale azionario o sociale, delle riserve legali da capitale e da utili non rimborsabili agli azionisti, oppure che presenti un’eccedenza di debiti, può operare una fusione purché l’altra società abbia una dotazione di capitale proprio liberamente disponibile di importo pari allo scoperto e, se del caso, all’eccedenza di debiti.[^6-1]
 
-<sup>2</sup> L’organo superiore di direzione o di amministrazione deve presentare all’ufficio del registro di commercio un’attestazione in cui un perito revisore abilitato accerti l’adempimento delle condizioni di cui al capoverso 1.[^6-1]
+<sup>1bis</sup> Questa condizione non si applica se creditori delle società partecipanti alla fusione accettano di concedere una dilazione e di essere retrocessi a un grado posteriore a quello di tutti gli altri creditori per crediti di importo almeno pari allo scoperto e all’eventuale eccedenza di debiti, nonché a condizione che la retrocessione si estenda anche agli interessi maturati durante l’eccedenza di debiti.[^6-2]
 
-[^6-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> L’organo superiore di direzione o di amministrazione deve presentare all’ufficio del registro di commercio un’attestazione in cui un perito revisore abilitato accerti l’adempimento delle condizioni di cui al capoverso 1.[^6-3]
+
+[^6-1]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^6-2]: Introdotto dall’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^6-3]: Nuovo testo giusta l’all. l n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### Sezione 2: Quote sociali e diritti societari
 
@@ -171,7 +175,11 @@ Le associazioni possono operare fusioni tra loro. Le associazioni iscritte nel r
 
 <sup>2</sup> Nel contratto di fusione, le società partecipanti alla fusione possono anche prevedere che sarà versata solamente un’indennità.
 
-### Sezione 3: Aumento del capitale, costituzione e bilancio intermedio
+### Sezione 3: Aumento del capitale, costituzione e conto intermedio
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nuovoa espr. giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 9
 
@@ -179,9 +187,10 @@ Le associazioni possono operare fusioni tra loro. Le associazioni iscritte nel r
 
 <sup>1</sup> In caso di fusione mediante incorporazione, la società assuntrice aumenta il suo capitale nella misura necessaria alla salvaguardia dei diritti dei soci della società trasferente.
 
-<sup>2</sup> Le disposizioni del Codice delle obbligazioni[^9-1] relative ai conferimenti in natura e l’articolo 651 capoverso 2 del Codice delle obbligazioni non si applicano alla fusione.
+<sup>2</sup> Le disposizioni del Codice delle obbligazioni (CO)[^9-1] relative ai conferimenti in natura (art. 634 CO) e ai limiti del margine di variazione del capitale (art. 653*s* cpv. 2 CO) non si applicano alla fusione.[^9-2]
 
 [^9-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 10
 
@@ -194,16 +203,13 @@ Le disposizioni del Codice civile[^10-1] e del Codice delle obbligazioni[^10-2] 
 
 #### Art. 11
 
-**Bilancio intermedio**
+**Conto intermedio**
 
-<sup>1</sup> Se la data determinante per il bilancio precede di oltre sei mesi la data di conclusione del contratto di fusione o se si sono verificate importanti modifiche patrimoniali posteriormente alla chiusura del bilancio, le società partecipanti alla fusione devono stilare un bilancio intermedio.
+<sup>1</sup> Se la data determinante per il bilancio precede di oltre sei mesi la data di conclusione del contratto di fusione o se si sono verificate importanti modifiche patrimoniali posteriormente alla chiusura del bilancio, le società partecipanti alla fusione devono stilare un conto intermedio.
 
-<sup>2</sup>
+<sup>2</sup> ...[^11-1]
 
-Il bilancio intermedio è stilato conformemente alle disposizioni e ai principi relativi ai conti annuali, fatte salve le disposizioni seguenti:
-
-- a. non è necessario procedere a un nuovo inventario fisico;
-- b. le valutazioni contenute nell’ultimo bilancio sono modificate soltanto in ragione dei movimenti nelle scritture contabili; vanno tuttavia presi in considerazione gli ammortamenti, le correzioni di valore e gli accantonamenti per il periodo intermedio, nonché le modifiche sostanziali di valori che non appaiono nelle scritture contabili.
+[^11-1]: Abrogato dall’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Sezione 4: Contratto di fusione, rapporto di fusione e verifica
 
@@ -283,9 +289,9 @@ Nella relazione scritta di revisione, il perito revisore indica:[^15-3]
 - d. se del caso, l’importanza relativa assegnata ai diversi metodi applicati al fine di determinare il rapporto di scambio;
 - e. le particolarità di cui si è tenuto conto nel valutare le quote sociali in vista della determinazione del rapporto di scambio.
 
-[^15-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^15-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^15-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^15-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^15-2]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^15-3]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 16
 
@@ -298,7 +304,7 @@ Durante i 30 giorni precedenti la decisione, ciascuna delle società partecipant
 - a. il contratto di fusione;
 - b. il rapporto di fusione;
 - c. la relazione di revisione;
-- d. i conti annuali e i rapporti annuali relativi agli ultimi tre esercizi contabili nonché, se del caso, il bilancio intermedio.
+- d. i conti annuali e i rapporti annuali relativi agli ultimi tre esercizi contabili nonché, se del caso, il conto intermedio.
 
 <sup>2</sup> Le piccole e medie imprese possono rinunciare alla procedura di consultazione di cui al capoverso 1 previo consenso di tutti i soci.
 
@@ -340,8 +346,8 @@ L’organo superiore di direzione o di amministrazione delle società di capital
 
 <sup>6</sup> Qualora la fusione comporti una modifica dello scopo sociale per i soci della società trasferente e, in virtù di disposizioni legali o statutarie, per modificare tale scopo occorra una maggioranza diversa da quella necessaria per la decisione di fusione, quest’ultima decisione deve soddisfare le due esigenze relative alla maggioranza.
 
-[^18-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^18-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^18-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^18-2]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 19
 
@@ -425,7 +431,7 @@ Qualora la società di capitali assuntrice non possieda la totalità, ma il 90 p
 
 <sup>4</sup> In luogo della costituzione di garanzie, la società che vi è tenuta può soddisfare il credito, purché non ne risulti un danno per gli altri creditori.
 
-[^25-1]: Nuovo testo del per. giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^25-1]: Nuovo testo del per. giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 26
 
@@ -497,15 +503,16 @@ Ai soci della società trasferente possono essere attribuiti:
 - a. quote sociali o diritti societari di tutte le società partecipanti alla scissione che siano proporzionali alle precedenti partecipazioni (scissione simmetrica);
 - b. quote sociali o diritti societari di talune o di tutte le società partecipanti alla scissione che non siano proporzionali alle precedenti partecipazioni (scissione asimmetrica).
 
-### Sezione 3: Riduzione e aumento del capitale, costituzione e bilancio intermedio
+### Sezione 3: Riduzione e aumento del capitale, costituzione e conto intermedio
 
 #### Art. 32
 
-**Riduzione del capitale in caso di separazione**
+**Riduzione del capitale in caso di separazione**[^32-1]
 
-Gli articoli 733, 734, 788 capoverso 2 e 874 capoverso 2 del Codice delle obbligazioni[^32-1] non si applicano se la società trasferente riduce il suo capitale a seguito della separazione.
+L’articolo 653*k* CO[^32-2] non si applica se la società trasferente riduce il suo capitale a seguito della separazione.
 
-[^32-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^32-1]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^32-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 33
 
@@ -513,9 +520,10 @@ Gli articoli 733, 734, 788 capoverso 2 e 874 capoverso 2 del Codice delle obblig
 
 <sup>1</sup> La società assuntrice deve aumentare il capitale nella misura necessaria alla salvaguardia dei diritti dei soci della società trasferente.
 
-<sup>2</sup> Le disposizioni del Codice delle obbligazioni[^33-1] sui conferimenti in natura e l’articolo 651 capoverso 2 del Codice delle obbligazioni non si applicano alla scissione.
+<sup>2</sup> Le disposizioni del CO[^33-1] sui conferimenti in natura (art. 634 CO) e sui limiti del margine di variazione del capitale (art. 653*s* cpv. 2 CO) non si applicano alla scissione.[^33-2]
 
 [^33-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^33-2]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 34
 
@@ -527,16 +535,13 @@ Alla costituzione di una nuova società nell’ambito di una scissione si applic
 
 #### Art. 35
 
-**Bilancio intermedio**
+**Conto intermedio**
 
-<sup>1</sup> Se la data determinante per il bilancio precede di oltre sei mesi la conclusione del contratto di scissione o l’elaborazione del progetto di scissione oppure se si sono verificate importanti modifiche patrimoniali dopo la chiusura del bilancio, le società partecipanti alla scissione devono stilare un bilancio intermedio.
+<sup>1</sup> Se la data determinante per il bilancio precede di oltre sei mesi la conclusione del contratto di scissione o l’elaborazione del progetto di scissione oppure se si sono verificate importanti modifiche patrimoniali dopo la chiusura del bilancio, le società partecipanti alla scissione devono stilare un conto intermedio.
 
-<sup>2</sup>
+<sup>2</sup> ...[^35-1]
 
-Il bilancio intermedio è stilato conformemente alle disposizioni e ai principi relativi ai conti annuali, fatte salve le disposizioni seguenti:
-
-- a. non è necessario procedere a un nuovo inventario fisico;
-- b. le valutazioni contenute nell’ultimo bilancio sono modificate soltanto in ragione dei movimenti nelle scritture contabili; vanno tuttavia presi in considerazione gli ammortamenti, le correzioni di valore e gli accantonamenti per il periodo intermedio, nonché le modifiche sostanziali di valori che non appaiono nelle scritture contabili.
+[^35-1]: Abrogato dall’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Sezione 4: Contratto di scissione, progetto di scissione, rapporto di scissione e verifica
 
@@ -621,7 +626,7 @@ Durante i due mesi precedenti la decisione, ciascuna delle società partecipanti
 - a. il contratto o il progetto di scissione;
 - b. il rapporto di scissione;
 - c. la relazione di revisione;
-- d. i conti annuali e i rapporti annuali relativi agli ultimi tre esercizi contabili nonché, se del caso, il bilancio intermedio.
+- d. i conti annuali e i rapporti annuali relativi agli ultimi tre esercizi contabili nonché, se del caso, il conto intermedio.
 
 <sup>2</sup> Le piccole e medie imprese possono rinunciare alla procedura di consultazione di cui al capoverso 1 previo consenso di tutti i soci.
 
@@ -800,7 +805,7 @@ Una società in accomandita può trasformarsi in una società in nome collettivo
 <sup>4</sup> Le disposizioni del presente capitolo non si applicano alle trasformazioni previste dal presente articolo.
 
 [^55-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^55-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^55-2]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### Sezione 2: Salvaguardia delle quote sociali e dei diritti societari
 
@@ -816,7 +821,7 @@ Una società in accomandita può trasformarsi in una società in nome collettivo
 
 <sup>5</sup> Per i buoni di godimento, la società deve attribuire diritti equivalenti oppure riscattarli al loro valore reale al momento dell’elaborazione del rapporto di trasformazione.
 
-### Sezione 3: Costituzione e bilancio intermedio
+### Sezione 3: Costituzione e conto intermedio
 
 #### Art. 57
 
@@ -829,16 +834,13 @@ Alla trasformazione si applicano le disposizioni del Codice civile[^57-1] e del 
 
 #### Art. 58
 
-**Bilancio intermedio**
+**Conto intermedio**
 
-<sup>1</sup> Se la data determinante per il bilancio precede di oltre sei mesi quella di redazione del rapporto di trasformazione o si sono verificate importanti modifiche patrimoniali posteriormente alla chiusura del bilancio, le società partecipanti alla trasformazione devono stilare un bilancio intermedio.
+<sup>1</sup> Se la data determinante per il bilancio precede di oltre sei mesi quella di redazione del rapporto di trasformazione o si sono verificate importanti modifiche patrimoniali posteriormente alla chiusura del bilancio, le società partecipanti alla trasformazione devono stilare un conto intermedio.
 
-<sup>2</sup>
+<sup>2</sup> ...[^58-1]
 
-Il bilancio intermedio è stilato conformemente alle disposizioni e ai principi relativi ai conti annuali, fatte salve le disposizioni seguenti:
-
-- a. non è necessario procedere a un nuovo inventario fisico;
-- b. le valutazioni contenute nell’ultimo bilancio sono modificate soltanto in ragione dei movimenti nelle scritture contabili; vanno tuttavia presi in considerazione gli ammortamenti, le correzioni di valore e gli accantonamenti per il periodo intermedio, nonché le modifiche sostanziali di valori che non appaiono nelle scritture contabili.
+[^58-1]: Abrogato dall’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Sezione 4: Progetto di trasformazione, rapporto di trasformazione e verifica
 
@@ -891,9 +893,9 @@ Il rapporto spiega e giustifica sotto il profilo economico e giuridico:
 
 <sup>4</sup> Il perito revisore deve verificare se le condizioni di trasformazione sono adempiute, in particolare se, a trasformazione avvenuta, risulta salvaguardato lo statuto giuridico dei soci.[^62-3]
 
-[^62-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^62-2]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^62-3]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^62-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^62-2]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^62-3]: Nuovo testo giusta l’all. l n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 63
 
@@ -906,7 +908,7 @@ Durante i 30 giorni precedenti la decisione, la società deve garantire ai soci,
 - a. il progetto di trasformazione;
 - b. il rapporto di trasformazione;
 - c. la relazione di revisione;
-- d. i conti annuali e i rapporti annuali relativi agli ultimi tre esercizi contabili nonché, se del caso, il bilancio intermedio.
+- d. i conti annuali e i rapporti annuali relativi agli ultimi tre esercizi contabili nonché, se del caso, il conto intermedio.
 
 <sup>2</sup> Le piccole e medie imprese possono rinunciare alla procedura di consultazione di cui al capoverso 1 previo consenso di tutti i soci.
 
@@ -932,7 +934,7 @@ L’organo superiore di direzione o di amministrazione delle società di capital
 
 <sup>2</sup> Nelle società in nome collettivo o in accomandita, il progetto di trasformazione dev’essere approvato da tutti i soci. Il contratto di società può tuttavia prevedere che sia sufficiente l’approvazione di almeno tre quarti dei soci.
 
-[^64-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^64-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 65
 
@@ -970,7 +972,7 @@ La trasformazione acquisisce validità giuridica con l’iscrizione nel registro
 
 <sup>2</sup> Sono fatte salve le disposizioni legali e statutarie relative alla protezione del capitale e alla liquidazione.
 
-[^69-1]: Nuovo testo giusta il n. II 1 dell’all. alla L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^69-1]: Nuovo testo giusta l’all. n. II 1 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### Sezione 2: Contratto di trasferimento
 
@@ -980,7 +982,9 @@ La trasformazione acquisisce validità giuridica con l’iscrizione nel registro
 
 <sup>1</sup> Il contratto di trasferimento è concluso dagli organi superiori di direzione o di amministrazione dei soggetti giuridici partecipanti al trasferimento.
 
-<sup>2</sup> Il contratto di trasferimento richiede la forma scritta. Se vengono trasferiti fondi, le parti corrispondenti del contratto richiedono l’atto pubblico. È sufficiente un solo atto pubblico anche quando i fondi sono situati in più Cantoni. L’atto è steso da un pubblico ufficiale nel luogo di sede del soggetto giuridico trasferente.
+<sup>2</sup> Il contratto di trasferimento richiede la forma scritta. Se vengono trasferiti fondi, le parti corrispondenti del contratto richiedono l’atto pubblico. È sufficiente un solo atto pubblico anche quando i fondi oggetto del trasferimento di patrimonio sono situati in più Cantoni.[^70-1] L’atto è steso da un pubblico ufficiale nel luogo di sede del soggetto giuridico trasferente.
+
+[^70-1]: Nuovo testo det terzo per. giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 71
 
@@ -1106,7 +1110,7 @@ Il contratto contiene:
 
 **Bilancio**
 
-Le fondazioni devono stilare un bilancio e, se sono date le condizioni di cui all’articolo 11, un bilancio intermedio.
+Le fondazioni devono stilare un bilancio e, se sono date le condizioni di cui all’articolo 11, un conto intermedio.
 
 #### Art. 81
 
@@ -1118,7 +1122,7 @@ Le fondazioni devono stilare un bilancio e, se sono date le condizioni di cui al
 
 <sup>3</sup> Il revisore redige una relazione in cui esamina in particolare se le eventuali pretese giuridiche dei destinatari siano salvaguardate e se esistano crediti noti o prevedibili che non possono essere soddisfatti mediante la sostanza delle fondazioni partecipanti alla fusione.
 
-[^81-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^81-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 82
 
@@ -1138,15 +1142,15 @@ Prima di chiedere l’approvazione dell’autorità di vigilanza, l’organo sup
 
 <sup>4</sup> Le condizioni di validità giuridica della fusione sono rette dall’articolo 22 capoverso 1.
 
-[^83-1]: Nuovo testo del per. giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^83-1]: Nuovo testo del per. giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 84
 
-**Decisione ed esecuzione della fusione di fondazioni di famiglia e di fondazioni ecclesiastiche**
+**Impugnazione della decisione di fusione di fondazioni di famiglia e fondazioni ecclesiastiche**[^84-1]
 
-<sup>1</sup> La fusione di fondazioni di famiglia e di fondazioni ecclesiastiche acquisisce validità giuridica con l’approvazione del relativo contratto da parte dell’organo superiore delle fondazioni partecipanti alla fusione. Se si tratta di fondazioni ecclesiastiche che, in virtù del diritto pubblico, sottostanno alla vigilanza di un ente pubblico, è applicabile per analogia l’articolo 83.
+Nelle fondazioni di famiglia e nelle fondazioni ecclesiastiche, i destinatari titolari di pretese giuridiche e i membri dell’organo superiore della fondazione che non hanno approvato la decisione di fusione possono, se le condizioni della fusione non sono adempiute, impugnarla dinanzi al giudice entro tre mesi.
 
-<sup>2</sup> I destinatari titolari di pretese giuridiche e i membri dell’organo superiore della fondazione che non hanno approvato la decisione di fusione possono, se le condizioni della fusione non sono adempiute, impugnarla dinanzi al giudice entro tre mesi.
+[^84-1]: Nuovo testo giusta l’all. n. 2 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 85
 
@@ -1160,7 +1164,7 @@ Prima di chiedere l’approvazione dell’autorità di vigilanza, l’organo sup
 
 <sup>4</sup> La protezione dei lavoratori è retta dagli articoli 27 e 28.
 
-[^85-1]: Nuovo testo giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^85-1]: Nuovo testo giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### Sezione 2: Trasferimento di patrimonio
 
@@ -1205,7 +1209,7 @@ Prima di chiedere l’approvazione dell’autorità di vigilanza, l’organo sup
 
 **Bilancio**
 
-Gli istituti di previdenza partecipanti alla fusione devono stilare un bilancio e, se sono adempiute le condizioni di cui all’articolo 11, un bilancio intermedio.
+Gli istituti di previdenza partecipanti alla fusione devono stilare un bilancio e, se sono adempiute le condizioni di cui all’articolo 11, un conto intermedio.
 
 #### Art. 90
 
@@ -1340,7 +1344,7 @@ Gli istituti di diritto pubblico possono:
 
 [^100-1]: [RU 2012 4617](https://fedlex.data.admin.ch/eli/oc/2012/563)
 [^100-2]: Nuovo testo del per. giusta il n. II 4 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, in vigore dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^100-3]: Nuovo testo del per. giusta il n. 2 dell’all. alla LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^100-3]: Nuovo testo del per. giusta l’all. n. 2 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 101
 
