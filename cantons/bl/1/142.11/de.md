@@ -4,13 +4,13 @@ number: "142.11"
 title: Dienstordnung der Finanz- und Kirchendirektion
 short: Do FKD
 language: de
-version: 2022-06-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-10
+version: 2023-01-01
+valid_until: 2023-06-30
+version_adopted: 2022-12-13
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.11"
-pdf: "https://bl.clex.ch/api/de/versions/3334/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3334/pdf_file"
 
 (Do FKD)
 
-Vom 10.05.2022 (Stand 01.06.2022)
+Vom 10.05.2022 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -292,7 +292,8 @@ beschliesst:
 - a. Stabsaufgaben;
 - b. Statistik;
 - c. Aufsicht über die Gemeindefinanzen und Finanzausgleich;
-- d. Fachstelle Register.
+- d. Fachstelle Register;
+- e. Fach- und Koordinationsstelle Open Government Data (OGD).
 
 #### § 19
 
@@ -305,7 +306,8 @@ beschliesst:
 - c. Aufsicht über die Gemeindefinanzen, insbesondere über die Budgets und die Jahresrechnungen;
 - d. Berechnung und Durchführung des Finanzausgleichs unter den Gemeinden;
 - e. Vollzug des Ausgleichsfonds;
-- f. Aufgaben der Fachstelle Register gemäss Anmeldungs- und Registergesetz (ARG) vom 19. Juni 2008[^19-1] sowie dazugehörigen Verordnungen.
+- f. Aufgaben der Fachstelle Register gemäss Anmeldungs- und Registergesetz (ARG) vom 19. Juni 2008[^19-1] sowie dazugehörigen Verordnungen;
+- g. fachliche Beratung der kantonalen Dienststellen und Behörden bei der Aufbereitung und Publikation ihrer Behördendaten als Open Government Data (OGD).
 
 [^19-1]: [SGS 111](https://bl.clex.ch/data/111/de)
 
