@@ -4,13 +4,13 @@ number: "214.6.1"
 title: Loi sur la mensuration officielle
 short: LMO
 language: fr
-version: 2016-07-01
-valid_until: 2022-12-31
-version_adopted: 2016-03-17
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-11-05
 adopted: 2003-11-07
 in_force: 2004-02-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/214.6.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7157/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7580/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Mensuration officielle – L
 
 (LMO)
 
-du 07.11.2003 (version entrée en vigueur le 01.07.2016)
+du 07.11.2003 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -640,7 +640,7 @@ Décrète:
 <sup>1</sup> Les géomètres établissent un plan-inventaire du domaine et des passages publics, qui comprend:
 
 - a) les lacs et les cours d'eau du domaine public;
-- b) les routes, chemins et autres voies, qui sont du domaine public cantonal ou communal, y compris les chemins publics de dévestiture et les sentiers publics;
+- b) les infrastructures de mobilité qui font partie du domaine public cantonal ou communal;
 - c) les passages établis sous forme de servitudes inscrites au registre foncier en faveur de l'Etat ou de la commune concernée;
 - d) …
 

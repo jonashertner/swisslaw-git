@@ -4,13 +4,13 @@ number: "214.6.1"
 title: Gesetz über die amtliche Vermessung
 short: AVG
 language: de
-version: 2016-07-01
-valid_until: 2022-12-31
-version_adopted: 2016-03-17
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-11-05
 adopted: 2003-11-07
 in_force: 2004-02-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/214.6.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7157/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Amtliche Vermessung – G
 
 (AVG)
 
-vom 07.11.2003 (Fassung in Kraft getreten am 01.07.2016)
+vom 07.11.2003 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -638,7 +638,7 @@ beschliesst:
 <sup>1</sup> Die Geometerin oder der Geometer erstellt einen Inventarplan des öffentlichen Gebietes und der öffentlichen Durchgänge. Dieser enthält:
 
 - a) die öffentlichen Seen und Wasserläufe;
-- b) die Strassen, Wege und anderen Verkehrsverbindungen, die zu den öffentlichen Sachen des Staates und der Gemeinden gehören (inbegriffen die öffentlichen Flurwege und Fusswege);
+- b) Mobilitätsinfrastrukturen, die zu den öffentlichen Sachen des Staates und der Gemeinden gehören;
 - c) die Durchgangsrechte, die zugunsten des Staates oder der betreffenden Gemeinde als Dienstbarkeiten im Grundbuch eingetragen sind;
 - d) …
 
