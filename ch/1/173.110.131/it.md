@@ -4,11 +4,11 @@ title: Regolamento del 20 novembre 2006 del Tribunale federale (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/it"
 
 (RTF)
 
-del 20 novembre 2006 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 20 novembre 2006 (Stato 1° gennaio 2023)
 
 Il Tribunale federale,
 
@@ -268,7 +268,7 @@ I verbali delle sedute della Corte plenaria, della Commissione amministrativa e 
 
 <sup>2</sup> La Commissione amministrativa disciplina i particolari in una direttiva.
 
-[^17-1]: M del CF dell’8 dic. 2006 relativo all’O dell’AF sulle diarie dei giudici federali non di carriera e sul rimborso delle spese per le trasferte ufficiali dei giudici federali ([FF 2007 187](https://fedlex.data.admin.ch/eli/fga/2007/23)).
+[^17-1]: M del CF dell’8 dic. 2006 relativo all’O dell’AF sulle diarie dei giudici federali non di carriera e sul rimborso delle spese per le trasferte ufficiali dei giudici federali (FF 2007187).
 
 ### Capitolo 3: Attività accessorie dei giudici ordinari
 
@@ -378,22 +378,25 @@ Se falliscono tutti i tentativi di composizione interna della controversia, la C
 
 Il Tribunale federale è composto delle seguenti sette corti:
 
-- a. due corti di diritto pubblico;
+- a.[^26-1] quattro corti di diritto pubblico;
 - b. due corti di diritto civile;
 - c. una corte di diritto penale;
-- d. due corti di diritto sociale.
+- d.[^26-2] *...*
 
-<sup>2</sup> Le due corti di diritto pubblico, le due corti di diritto civile e la corte di diritto penale sono a Losanna. Le due corti di diritto sociale hanno sede a Lucerna.
+<sup>2</sup> La prima e la seconda Corte di diritto pubblico, le due corti di diritto civile e la corte di diritto penale sono a Losanna. La terza e la quarta Corte di diritto pubblico hanno sede a Lucerna.[^26-3]
 
-<sup>3</sup> Le corti sono composte da quattro a sei giudici ordinari.[^26-1]
+<sup>3</sup> Le corti sono composte da quattro a sei giudici ordinari.[^26-4]
 
-<sup>4</sup> Alle corti composte di sei membri vengono assegnati due giudici di lingua francese, mentre alle corti composte di cinque membri vengono assegnati uno o due giudici di lingua francese.[^26-2]
+<sup>4</sup> Alle corti composte di sei membri vengono assegnati due giudici di lingua francese, mentre alle corti composte di cinque membri vengono assegnati uno o due giudici di lingua francese.[^26-5]
 
-<sup>5</sup> Ad una corte è assegnato al massimo un giudice di lingua italiana.[^26-3]
+<sup>5</sup> Ad una corte è assegnato al massimo un giudice di lingua italiana.[^26-6]
 
-[^26-1]: Nuovo testo giusta il n. I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-2]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-3]: Introdotto dal n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-1]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-2]: Abrogata dal n. I del R del TF del 13 giu. 2022, con effetto dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-4]: Nuovo testo giusta il n. I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-5]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-6]: Introdotto dal n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 27
 
@@ -480,7 +483,7 @@ Nella misura in cui non è possibile collegare la vertenza ad un altro campo del
 La seconda Corte di diritto pubblico tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti campi:
 
 - a. diritto degli stranieri;
-- b. imposte e tributi;
+- b.[^30-1] assistenza amministrativa internazionale in materia fiscale;
 - c.
 
   diritto pubblico economico e altri campi di diritto amministrativo, nella misura in cui essi non rientrino nella competenza di un’altra corte, segnatamente:
@@ -511,7 +514,7 @@ La seconda Corte di diritto pubblico tratta i ricorsi in materia di diritto pubb
 
 Nella misura in cui non è possibile collegare la vertenza ad un altro campo del diritto, la seconda Corte di diritto pubblico tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti diritti fondamentali:
 
-- a. protezione dei fanciulli e degli adolescenti (art. 11 Cost.[^30-1]);
+- a. protezione dei fanciulli e degli adolescenti (art. 11 Cost.[^30-2]);
 - b. libertà di credo e coscienza (art. 15 Cost.);
 - c. libertà di lingua (art. 18 Cost.);
 - d. diritto all’istruzione scolastica di base (art. 19 Cost.);
@@ -520,14 +523,54 @@ Nella misura in cui non è possibile collegare la vertenza ad un altro campo del
 - g. libertà economica (art. 27 Cost.);
 - h. libertà sindacale (art. 28 Cost.).
 
-<sup>3</sup> La seconda Corte di diritto pubblico tratta su azione le pretese di risarcimento del danno o di indennità di riparazione morale risultanti dall’attività ufficiale delle persone di cui all’articolo 1 capoverso 1 lettere a-c della legge del 14 marzo 1958[^30-2] sulla responsabilità (art. 120 cpv. 1 lett. c LTF).
+<sup>3</sup> La seconda Corte di diritto pubblico tratta su azione le pretese di risarcimento del danno o di indennità di riparazione morale risultanti dall’attività ufficiale delle persone di cui all’articolo 1 capoverso 1 lettere a-c della legge del 14 marzo 1958[^30-3] sulla responsabilità (art. 120 cpv. 1 lett. c LTF).
 
-[^30-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^30-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^30-1]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 13 giu. 2022 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^30-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^30-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
 #### Art. 31
 
-**Prima Corte di diritto civile**
+**Terza Corte di diritto pubblico**[^31-1]
+
+### (art. 22 LTF)
+
+La terza Corte di diritto pubblico tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti campi:
+
+- a. imposte e tributi;
+- b. assicurazione per la vecchiaia e per i superstiti;
+- c. assicurazione per l’invalidità;
+- d. indennità perdita di guadagno, inclusa la maternità;
+- e. assicurazione malattie;
+- f. previdenza professionale (art. 73 e 74 della legge federale del 25 giugno 1982[^31-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità);
+- g. prestazioni complementari.
+
+[^31-1]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^31-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 32
+
+**Quarta Corte di diritto pubblico**[^32-1]
+
+### (art. 22 LTF)
+
+La quarta Corte di diritto pubblico tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti campi:
+
+- a. assicurazione per l’invalidità;
+- b. assicurazione contro gli infortuni;
+- c. assicurazione contro la disoccupazione;
+- d. assicurazione sociale cantonale;
+- e. assegni familiari;
+- f. aiuto sociale e aiuto in situazioni di bisogno secondo l’articolo 12 Cost.[^32-2];
+- g. assicurazione militare;
+- h. personale nel settore pubblico.
+
+[^32-1]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^32-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+#### Art. 33
+
+**Prima Corte di diritto civile**[^33-1]
 
 ### (art. 22 LTF)
 
@@ -541,18 +584,19 @@ La prima Corte di diritto civile tratta i ricorsi in materia civile e i ricorsi 
 - d. responsabilità dello Stato per attività medica;
 - e. diritto privato della concorrenza;
 - f. diritti immateriali;
-- g.[^31-1] arbitrato internazionale;
+- g.[^33-2] arbitrato internazionale;
 - h. tenuta dei registri e decisioni sul riconoscimento e l’esecuzione di decisioni nonché sull’assistenza giudiziaria in materia civile ai sensi dell’art. 72 capoverso 2 lettera b n. 1 e 2 LTF nei campi secondo le lettere a–g.
 
-<sup>2</sup> La prima Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 del Codice di procedura civile[^31-2] (CPC).[^31-3]
+<sup>2</sup> La prima Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 del Codice di procedura civile[^33-3] (CPC).[^33-4]
 
-[^31-1]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^31-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^31-3]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-1]: Originario art. 31.
+[^33-2]: Introdotto dal n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^33-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^33-4]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
-#### Art. 32
+#### Art. 34
 
-**Seconda Corte di diritto civile**
+**Seconda Corte di diritto civile**[^34-1]
 
 ### (art. 22 LTF)
 
@@ -573,69 +617,27 @@ La seconda Corte di diritto civile tratta i ricorsi in materia civile e i ricors
 - c. esecuzione e fallimenti;
 - d. tenuta dei registri e decisioni sul riconoscimento e l’esecuzione di decisioni nonché sull’assistenza giudiziaria in materia civile ai sensi dell’art. 72 capoverso 2 lettera b LTF nei campi secondo le lettere a e c di questo capoverso.
 
-<sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 CPC[^32-1].[^32-2]
+<sup>2</sup> La seconda Corte di diritto civile tratta su azione le controversie di diritto civile tra la Confederazione e i Cantoni o tra Cantoni (art. 120 cpv. 1 lett. b LTF), nonché, nel suo campo di competenza per materia, i ricorsi in materia di diritto pubblico contro atti normativi cantonali (art. 82 lett. b LTF) e i ricorsi contro i lodi giusta l’articolo 389 CPC[^34-2].[^34-3]
 
-[^32-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^32-2]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-
-#### Art. 33
-
-**Corte di diritto penale**
-
-### (art. 22 LTF)
-
-La Corte di diritto penale tratta i ricorsi in materia penale, i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:[^33-1]
-
-- a. diritto penale materiale (inclusa l’esecuzione delle pene e delle misure);
-- b. procedura penale (senza i ricorsi contro decisioni incidentali della procedura penale);
-- c.[^33-2] ricorsi contro decisioni finali di procedura penale (compresi i decreti di non luogo a procedere e di abbandono del procedimento).
-
-[^33-1]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^33-2]: Nuovo testo giusta il n. I del R del TF dell’8 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
-
-#### Art. 34
-
-**Prima Corte di diritto sociale**
-
-### (art. 22 LTF)
-
-La prima Corte di diritto sociale tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti campi:
-
-- a. assicurazione per l’invalidità;
-- b.[^34-1] assicurazione contro gli infortuni;
-- c.[^34-2] assicurazione contro la disoccupazione;
-- d.[^34-3] assicurazione sociale cantonale;
-- e.[^34-4] assegni familiari;
-- f.[^34-5] aiuto sociale e aiuto in situazioni di bisogno secondo l’articolo 12 Cost.[^34-6];
-- g.[^34-7] assicurazione militare;
-- h.[^34-8] personale nel settore pubblico.
-
-[^34-1]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-2]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-3]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-4]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-5]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-6]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^34-7]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-8]: Nuovo testo giusta il n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-1]: Originario art. 32.
+[^34-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^34-3]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
 #### Art. 35
 
-**Seconda Corte di diritto sociale**
+**Corte di diritto penale**[^35-1]
 
 ### (art. 22 LTF)
 
-La seconda Corte di diritto sociale tratta i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale che concernono i seguenti campi:
+La Corte di diritto penale tratta i ricorsi in materia penale, i ricorsi in materia di diritto pubblico e i ricorsi sussidiari in materia costituzionale inerenti al diritto penale che concernono i seguenti campi:[^35-2]
 
-- a. assicurazione per la vecchiaia e per i superstiti;
-- b. assicurazione per l’invalidità;
-- c. indennità perdita di guadagno (inclusa la maternità);
-- d. assicurazione malattie;
-- e. previdenza professionale (art. 73 e 74 della LF del 25 giu. 1982[^35-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità);
-- f.[^35-2] prestazioni complementari.
+- a. diritto penale materiale (inclusa l’esecuzione delle pene e delle misure);
+- b. procedura penale (senza i ricorsi contro decisioni incidentali della procedura penale);
+- c.[^35-3] ricorsi contro decisioni finali di procedura penale (compresi i decreti di non luogo a procedere e di abbandono del procedimento).
 
-[^35-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^35-2]: Introdotta dal n. I del R del TF del 24 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^35-1]: Originario art. 33.
+[^35-2]: Nuovo testo giusta il n. I del R del TF del 9 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^35-3]: Nuovo testo giusta il n. I del R del TF dell’8 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
 
 ### Capo 3: Delimitazioni e collaborazione
 
@@ -716,44 +718,42 @@ I cancellieri possono esprimere il loro voto consultivo:
 
 #### Art. 40
 
-**Composizione del collegio giudicante**
+**Composizione e designazione del collegio giudicante**[^40-1]
 
 ### (art. 20, 22 LTF)
 
-<sup>1</sup> Il presidente della corte competente o il giudice presidente ai sensi dell’articolo 27 capoverso 2 di questo regolamento compone il collegio giudicante.[^40-1]
+<sup>1</sup> Il presidente della corte competente o il giudice presidente ai sensi dell’articolo 27 capoverso 2 di questo regolamento compone il collegio giudicante.
 
 <sup>2</sup>
 
-Il presidente della corte o il giudice presidente tiene conto, oltre che delle disposizioni legali imperative, in particolare dei seguenti criteri e circostanze:[^40-2]
+Per la designazione dei membri del collegio giudicante, il presidente della corte o il giudice presidente tiene conto, oltre che delle disposizioni legali imperative, in particolare dei seguenti criteri e circostanze:
 
-- a. equilibrio del carico di lavoro dei giudici; a tal proposito prende in considerazione il carico di lavoro causato da altre funzioni (per esempio presidenza del Tribunale federale);
+- a. equilibrio del carico di lavoro dei giudici; a tal proposito prende in considerazione il carico di lavoro causato da altre funzioni, per esempio la presidenza del Tribunale federale;
 - b. lingua; nella misura del possibile, la lingua materna del relatore corrisponde alla lingua del procedimento;
 - c. partecipazione di entrambi i sessi, laddove opportuno per la natura del litigio;
 - d. conoscenze specifiche in un determinato campo;
 - e. partecipazione a precedenti decisioni nella medesima materia;
 - f. assenze, in particolare malattia, vacanze, ecc.
 
-<sup>3</sup> Quando la corte giudica nella composizione di cinque giudici, è presieduta dal presidente della corte. È fatto salvo l’articolo 19 capoverso 2 LTF.[^40-3]
+<sup>3</sup> Il presidente della corte o il giudice presidente designa in primo luogo il giudice dell’istruzione, incaricato della stesura del rapporto.
 
-<sup>4</sup> Cause connesse vengono di regola decise dal medesimo collegio giudicante.
+<sup>4</sup> Non appena la stesura del rapporto è pronta, gli altri membri del collegio giudicante sono designati per via elettronica.
 
-<sup>5</sup> Se un membro di una corte deve sedere con un’altra corte, il presidente di quest’ultima designa tale membro dopo averlo sentito e con l’accordo del presidente della corte a cui appartiene.
+<sup>5</sup> In caso di assenza prolungata di un membro del collegio giudicante incompatibile con il funzionamento del Tribunale, il membro interessato è sostituito. Il nuovo membro è designato per via elettronica.
 
-[^40-1]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
-[^40-2]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
-[^40-3]: Nuovo testo giusta il n. I del R del TF del 6 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+<sup>6</sup> Quando la corte giudica nella composizione di cinque giudici, è presieduta dal presidente della corte. È fatto salvo l’articolo 19 capoverso 2 LTF.
+
+<sup>7</sup> Se un membro di una corte deve sedere con un’altra corte, il presidente di quest’ultima designa tale membro dopo averlo sentito e con l’accordo del presidente della corte a cui appartiene.
+
+<sup>8</sup> Cause connesse vengono di regola decise dal medesimo collegio giudicante.
+
+[^40-1]: Nuovo testo giusta il n. I del R del TF del 13 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 41
 
-**Sentenze di importanza fondamentale della seconda Corte di diritto sociale**[^41-1]
+[^41-1]
 
-### (art. 13, 18 cpv. 3, 20 cpv. 2 LTF)
-
-<sup>1</sup> Un membro della prima Corte di diritto sociale partecipa a turno alle sentenze di principio della seconda Corte di diritto sociale.
-
-<sup>2</sup> Questo turno segue l’anzianità e include tutti i membri della Corte.
-
-[^41-1]: Nuovo testo giusta il n. I del R del TF del 12 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^41-1]: Abrogato dal n. I del R del TF del 13 giu. 2022, con effetto dal 13 giu. 2022 ([RU 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 42
 
@@ -1100,7 +1100,7 @@ I seguenti regolamenti sono abrogati:
 - 4\. Regolamento del 16 marzo 1993[^65-4] delle attività accessorie dei membri del Tribunale federale delle assicurazioni.
 
 [^65-1]: [[RU 1979 46](https://fedlex.data.admin.ch/eli/oc/1979/46_46_46), [1991 378](https://fedlex.data.admin.ch/eli/oc/1991/378_378_378), [1993 3165](https://fedlex.data.admin.ch/eli/oc/1993/3165_3165_3165), [1994 294](https://fedlex.data.admin.ch/eli/oc/1994/294_294_294), [2000 2191](https://fedlex.data.admin.ch/eli/oc/2000/339), [2001 3258](https://fedlex.data.admin.ch/eli/oc/2001/487)art. 88 n. 1, [2004 2343](https://fedlex.data.admin.ch/eli/oc/2004/273), [2005 483](https://fedlex.data.admin.ch/eli/oc/2005/57)]
-[^65-2]: [[RU 1999 3019](https://fedlex.data.admin.ch/eli/oc/1999/462), [2001 965](https://fedlex.data.admin.ch/eli/oc/2001/130)[3287](https://fedlex.data.admin.ch/eli/oc/2001/488)art. 13]
+[^65-2]: [[RU 1999 3019](https://fedlex.data.admin.ch/eli/oc/1999/462); [2001 965](https://fedlex.data.admin.ch/eli/oc/2001/130), [3287](https://fedlex.data.admin.ch/eli/oc/2001/488)art. 13]
 [^65-3]: [[RU 1993 1352](https://fedlex.data.admin.ch/eli/oc/1993/1352_1352_1352)]
 [^65-4]: [[RU 1993 1355](https://fedlex.data.admin.ch/eli/oc/1993/1355_1355_1355)]
 

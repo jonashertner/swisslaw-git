@@ -4,11 +4,11 @@ title: Reglement vom 20. November 2006 für das Bundesgericht (BGerR)
 short: BGerR
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/de"
 
 (BGerR)
 
-vom 20. November 2006 (Stand am 1. Januar 2022)
+vom 20. November 2006 (Stand am 1. Januar 2023)
 
 Das Bundesgericht,
 
@@ -71,7 +71,7 @@ Der Vizepräsident oder die Vizepräsidentin vertritt und unterstützt den Präs
 
 <sup>5</sup> Es wählt auf Antrag der Verwaltungskommission die Mitglieder der Rekurskommission. Diese können nicht zugleich Mitglieder der Verwaltungskommission oder der Präsidentenkonferenz sein.
 
-[^3-1]: Aufgehoben durch Ziff. I der V des BGer vom 17. März 2014, in Kraft seit 17. März 2014 ([AS 2014 955](https://fedlex.data.admin.ch/eli/oc/2014/211)).
+[^3-1]: Aufgehoben durch Ziff. I der V des BGer vom 17. März 2014, mit Wirkung seit 17. März 2014 ([AS 2014 955](https://fedlex.data.admin.ch/eli/oc/2014/211)).
 
 #### Art. 4
 
@@ -378,22 +378,25 @@ Scheitern sämtliche internen Versuche zur Beilegung der Streitigkeit und handel
 
 Das Bundesgericht besteht aus folgenden sieben Abteilungen:
 
-- a. zwei öffentlich-rechtlichen Abteilungen;
+- a.[^26-1] vier öffentlich-rechtlichen Abteilungen;
 - b. zwei zivilrechtlichen Abteilungen;
 - c. einer strafrechtlichen Abteilung;
-- d. zwei sozialrechtlichen Abteilungen.
+- d.[^26-2] …
 
-<sup>2</sup> Die beiden öffentlich-rechtlichen Abteilungen, die beiden zivilrechtlichen Abteilungen und die strafrechtliche Abteilung befinden sich in Lausanne. Die beiden sozialrechtlichen Abteilungen haben ihren Standort in Luzern.
+<sup>2</sup> Die Erste und die Zweite öffentlich-rechtliche Abteilung, die beiden zivilrechtlichen Abteilungen und die strafrechtliche Abteilung befinden sich in Lausanne. Die Dritte und die Vierte öffentlich-rechtliche Abteilung haben ihren Standort in Luzern.[^26-3]
 
-<sup>3</sup> Die Abteilungen setzen sich aus vier bis sechs ordentlichen Richtern oder Richterinnen zusammen.[^26-1]
+<sup>3</sup> Die Abteilungen setzen sich aus vier bis sechs ordentlichen Richtern oder Richterinnen zusammen.[^26-4]
 
-<sup>4</sup> Den Abteilungen mit sechs Mitgliedern werden zwei französischsprachige Richter oder Richterinnen zugeteilt, den Abteilungen mit fünf Mitgliedern ein oder zwei französischsprachige Richter oder Richterinnen.[^26-2]
+<sup>4</sup> Den Abteilungen mit sechs Mitgliedern werden zwei französischsprachige Richter oder Richterinnen zugeteilt, den Abteilungen mit fünf Mitgliedern ein oder zwei französischsprachige Richter oder Richterinnen.[^26-5]
 
-<sup>5</sup> Einer Abteilung wird nicht mehr als ein italienischsprachiger Richter oder eine italienischsprachige Richterin zugeteilt.[^26-3]
+<sup>5</sup> Einer Abteilung wird nicht mehr als ein italienischsprachiger Richter oder eine italienischsprachige Richterin zugeteilt.[^26-6]
 
-[^26-1]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-3]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-1]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-2]: Aufgehoben durch Ziff. I der V des BGer vom 13. Juni 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-4]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-5]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-6]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 27
 
@@ -480,7 +483,7 @@ Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behan
 Die Zweite öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
 
 - a. Ausländerrecht;
-- b. Steuern und Abgaben;
+- b.[^30-1] internationale Amtshilfe in Steuersachen;
 - c.
 
   öffentliches Wirtschaftsrecht und sonstiges Verwaltungsrecht, soweit es nicht einer anderen Abteilung zugewiesen ist, namentlich:
@@ -511,7 +514,7 @@ Die Zweite öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffent
 
 Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behandelt die Zweite öffentlich-rechtliche Abteilung die Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiären Verfassungsbeschwerden, die folgende Grundrechte betreffen:
 
-- a. Schutz der Kinder und Jugendlichen (Art. 11 BV[^30-1]);
+- a. Schutz der Kinder und Jugendlichen (Art. 11 BV[^30-2]);
 - b. Glaubens- und Gewissensfreiheit (Art. 15 BV);
 - c. Sprachenfreiheit (Art. 18 BV);
 - d. Anspruch auf Grundschulunterricht (Art. 19 BV);
@@ -520,14 +523,54 @@ Sofern die Streitsache keinem anderen Rechtsgebiet zugeordnet werden kann, behan
 - g. Wirtschaftsfreiheit (Art. 27 BV);
 - h. Koalitionsfreiheit (Art. 28 BV).
 
-<sup>3</sup> Die Zweite öffentlich-rechtliche Abteilung behandelt auf Klage Ansprüche auf Schadenersatz und Genugtuung aus der Amtstätigkeit von Personen im Sinne von Artikel 1 Absatz 1 Buchstaben a–c des Verantwortlichkeitsgesetzes vom 14. März 1958[^30-2] (Art. 120 Abs. 1 Bst. c BGG).
+<sup>3</sup> Die Zweite öffentlich-rechtliche Abteilung behandelt auf Klage Ansprüche auf Schadenersatz und Genugtuung aus der Amtstätigkeit von Personen im Sinne von Artikel 1 Absatz 1 Buchstaben a–c des Verantwortlichkeitsgesetzes vom 14. März 1958[^30-3] (Art. 120 Abs. 1 Bst. c BGG).
 
-[^30-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^30-2]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^30-1]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^30-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^30-3]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
 #### Art. 31
 
-**Erste zivilrechtliche Abteilung**
+**Dritte öffentlich-rechtliche Abteilung**[^31-1]
+
+### (Art. 22 BGG)
+
+Die Dritte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlichrechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a. Steuern und Abgaben;
+- b. Alters- und Hinterlassenenversicherung;
+- c. Invalidenversicherung;
+- d. Erwerbsersatzordnung, einschliesslich Mutterschaft;
+- e. Krankenversicherung;
+- f. berufliche Vorsorge (Art. 73 und 74 des Bundesgesetzes vom 25. Juni 1982[^31-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge);
+- g. Ergänzungsleistungen.
+
+[^31-1]: Eingefügt durch Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^31-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 32
+
+**Vierte öffentlich-rechtliche Abteilung**[^32-1]
+
+### (Art. 22 BGG)
+
+Die Vierte öffentlich-rechtliche Abteilung behandelt die Beschwerden in öffentlichrechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+
+- a. Invalidenversicherung;
+- b. Unfallversicherung;
+- c. Arbeitslosenversicherung;
+- d. kantonale Sozialversicherung;
+- e. Familienzulagen;
+- f. Sozialhilfe und Hilfe in Notlagen gemäss Art. 12 BV[^32-2];
+- g. Militärversicherung;
+- h. Personal im öffentlichen Dienst.
+
+[^32-1]: Eingefügt durch Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^32-2]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+#### Art. 33
+
+**Erste zivilrechtliche Abteilung**[^33-1]
 
 ### (Art. 22 BGG)
 
@@ -541,18 +584,19 @@ Die Erste zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen und
 - d. medizinische Staatshaftung;
 - e. privates Wettbewerbsrecht;
 - f. Immaterialgüterrecht;
-- g.[^31-1] internationale Schiedsgerichtsbarkeit;
+- g.[^33-2] internationale Schiedsgerichtsbarkeit;
 - h. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b Ziffern 1 und 2 BGG in den Rechtsgebieten nach den Buchstaben a–g.
 
-<sup>2</sup> Die Erste zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 der Zivilprozessordnung[^31-2] (ZPO).[^31-3]
+<sup>2</sup> Die Erste zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 der Zivilprozessordnung[^33-3] (ZPO).[^33-4]
 
-[^31-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^31-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^31-3]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-1]: Ursprünglich: Art. 31.
+[^33-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-3]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^33-4]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
-#### Art. 32
+#### Art. 34
 
-**Zweite zivilrechtliche Abteilung**
+**Zweite zivilrechtliche Abteilung**[^34-1]
 
 ### (Art. 22 BGG)
 
@@ -573,69 +617,27 @@ Die Zweite zivilrechtliche Abteilung behandelt die Beschwerden in Zivilsachen un
 - c. Schuldbetreibung und Konkurs;
 - d. Registersachen und Entscheide über die Anerkennung und Vollstreckung von Entscheiden sowie über die Rechtshilfe in Zivilsachen gemäss Artikel 72 Absatz 2 Buchstabe b BGG in den Rechtsgebieten nach Buchstaben a und c dieses Absatzes.
 
-<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 ZPO[^32-1].[^32-2]
+<sup>2</sup> Die Zweite zivilrechtliche Abteilung behandelt auf Klage die zivilrechtlichen Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen (Art. 120 Abs. 1 Bst. b BGG) sowie in ihrem sachlichen Zuständigkeitsbereich Beschwerden in öffentlich-rechtlichen Angelegenheiten gegen kantonale Erlasse (Art. 82 Bst. b BGG) und Beschwerden gegen Schiedssprüche gemäss Artikel 389 ZPO[^34-2].[^34-3]
 
-[^32-1]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^32-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-
-#### Art. 33
-
-**Strafrechtliche Abteilung**
-
-### (Art. 22 BGG)
-
-Die Strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:[^33-1]
-
-- a. materielles Strafrecht (einschliesslich Straf- und Massnahmenvollzug);
-- b. Strafprozessrecht (ohne die Beschwerden gegen strafprozessuale Zwischenentscheide);
-- c.[^33-2] strafprozessuale Beschwerden gegen Endentscheide (einschliesslich Nichtanhandnahmeverfügungen und Verfahrenseinstellungen).
-
-[^33-1]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^33-2]: Fassung gemäss Ziff. I der V des BGer vom 8. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
-
-#### Art. 34
-
-**Erste sozialrechtliche Abteilung**
-
-### (Art. 22 BGG)
-
-Die Erste sozialrechtliche Abteilung behandelt die Beschwerden in öffentlich-rechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
-
-- a. Invalidenversicherung;
-- b.[^34-1] Unfallversicherung;
-- c.[^34-2] Arbeitslosenversicherung;
-- d.[^34-3] kantonale Sozialversicherung;
-- e.[^34-4] Familienzulagen;
-- f.[^34-5] Sozialhilfe und Hilfe in Notlagen gemäss Art. 12 BV[^34-6];
-- g.[^34-7] Militärversicherung;
-- h.[^34-8] Personal im öffentlichen Dienst.
-
-[^34-1]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-2]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-3]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-4]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-5]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-6]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^34-7]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-8]: Fassung gemäss Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-1]: Ursprünglich: Art. 32.
+[^34-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^34-3]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
 #### Art. 35
 
-**Zweite sozialrechtliche Abteilung**
+**Strafrechtliche Abteilung**[^35-1]
 
 ### (Art. 22 BGG)
 
-Die Zweite sozialrechtliche Abteilung behandelt die Beschwerden in öffentlichrechtlichen Angelegenheiten und die subsidiären Verfassungsbeschwerden, die folgende Rechtsgebiete betreffen:
+Die Strafrechtliche Abteilung behandelt die Beschwerden in Strafsachen sowie Beschwerden in öffentlich-rechtlichen Angelegenheiten und subsidiäre Verfassungsbeschwerden in Strafsachen betreffend:[^35-2]
 
-- a. Alters- und Hinterlassenenversicherung;
-- b. Invalidenversicherung;
-- c. Erwerbsersatzordnung (einschliesslich Mutterschaft);
-- d. Krankenversicherung;
-- e. berufliche Vorsorge (Art. 73 und 74 des BG vom 25. Juni 1982[^35-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge);
-- f.[^35-2] Ergänzungsleistungen.
+- a. materielles Strafrecht (einschliesslich Straf- und Massnahmenvollzug);
+- b. Strafprozessrecht (ohne die Beschwerden gegen strafprozessuale Zwischenentscheide);
+- c.[^35-3] strafprozessuale Beschwerden gegen Endentscheide (einschliesslich Nichtanhandnahmeverfügungen und Verfahrenseinstellungen).
 
-[^35-1]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^35-2]: Eingefügt durch Ziff. I der V des BGer vom 24. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^35-1]: Ursprünglich: Art. 33.
+[^35-2]: Fassung gemäss Ziff. I der V des BGer vom 9. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^35-3]: Fassung gemäss Ziff. I der V des BGer vom 8. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
 
 ### 3. Abschnitt: Abgrenzung und Zusammenarbeit
 
@@ -718,44 +720,42 @@ Die Gerichtsschreiber und Gerichtsschreiberinnen können ihre beratende Stimme a
 
 #### Art. 40
 
-**Bildung der Spruchkörper**
+**Bildung und Bezeichnung der Spruchkörper**[^40-1]
 
 ### (Art. 20 und 22 BGG)
 
-<sup>1</sup> Der Spruchkörper wird vom Präsidenten oder der Präsidentin der zuständigen Abteilung oder durch das präsidierende Mitglied im Sinne von Artikel 27 Absatz 2 dieses Reglements gebildet.[^40-1]
+<sup>1</sup> Der Spruchkörper wird vom Präsidenten oder der Präsidentin der zuständigen Abteilung oder durch das präsidierende Mitglied im Sinne von Artikel 27 Absatz 2 dieses Reglements gebildet.
 
 <sup>2</sup>
 
-Der Präsident oder die Präsidentin oder das präsidierende Mitglied berücksichtigt neben den zwingenden Bestimmungen namentlich folgende Kriterien und Umstände:[^40-2]
+Bei der Bezeichnung der Mitglieder des Spruchkörpers berücksichtigt der Abteilungspräsident oder die Abteilungspräsidentin oder das präsidierende Mitglied neben den zwingenden Bestimmungen namentlich folgende Kriterien und Umstände:
 
-- a. Ausgewogenheit der Belastung der Richter und Richterinnen; dabei ist den funktionsbedingten Zusatzbelastungen (z. B. Bundesgerichtspräsidium) Rechnung zu tragen;
+- a. Ausgewogenheit der Belastung der Richter und Richterinnen; dabei ist den funktionsbedingten Zusatzbelastungen, zum Beispiel Bundesgerichtspräsidium, Rechnung zu tragen;
 - b. Sprache; dabei soll soweit möglich die Muttersprache des Referenten oder der Referentin der Verfahrenssprache entsprechen;
 - c. Mitwirkung von Mitgliedern beiderlei Geschlechts in Fällen, in denen es die Natur der Streitsache als angezeigt erscheinen lässt;
 - d. spezifische Fachkenntnisse in einem bestimmten Bereich;
 - e. Mitwirkung an früheren Entscheiden im gleichen Sachgebiet;
 - f. Abwesenheiten, insbesondere Krankheit, Ferien usw.
 
-<sup>3</sup> Entscheidet die Abteilung in Fünferbesetzung, so hat der Präsident oder die Präsidentin der Abteilung den Vorsitz. Artikel 19 Absatz 2 BGG bleibt vorbehalten.[^40-3]
+<sup>3</sup> Der Abteilungspräsident oder die Abteilungspräsidentin oder das präsidierende Mitglied bezeichnet zuerst den Instruktionsrichter oder die Instruktionsrichterin, der oder die das Referat erarbeiten soll.
 
-<sup>4</sup> Konnexe Fälle werden in der Regel vom gleichen Spruchkörper beurteilt.
+<sup>4</sup> Sobald der Berichtsentwurf erstellt ist, werden die anderen Mitglieder des Spruchkörpers auf elektronischem Weg bezeichnet.
 
-<sup>5</sup> Hat ein Mitglied einer anderen Abteilung mitzuwirken, so bezeichnet der Präsident oder die Präsidentin der urteilenden Abteilung dieses Mitglied nach dessen Anhörung und im Einverständnis mit dem Präsidenten oder der Präsidenten der Abteilung, der es angehört.
+<sup>5</sup> Im Falle einer längeren Abwesenheit eines Mitglieds des Spruchkörpers, die mit dem Gerichtsbetrieb unvereinbar ist, wird das betroffene Mitglied ersetzt. Das neue Mitglied wird auf elektronischem Weg bezeichnet.
 
-[^40-1]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
-[^40-2]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
-[^40-3]: Fassung gemäss Ziff. I der V des BGer vom 6. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+<sup>6</sup> Entscheidet die Abteilung in Fünferbesetzung, so hat der Präsident oder die Präsidentin der Abteilung den Vorsitz. Artikel 19 Absatz 2 BGG bleibt vorbehalten.
+
+<sup>7</sup> Hat ein Mitglied einer anderen Abteilung mitzuwirken, so bezeichnet der Präsident oder die Präsidentin der urteilenden Abteilung dieses Mitglied nach dessen Anhörung und im Einverständnis mit dem Präsidenten oder der Präsidentin der Abteilung, der es angehört.
+
+<sup>8</sup> Konnexe Fälle werden in der Regel vom gleichen Spruchkörper beurteilt.
+
+[^40-1]: Fassung gemäss Ziff. I der V des BGer vom 13. Juni 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 41
 
-**Grundsatzentscheide der Zweiten sozialrechtlichen Abteilung**[^41-1]
+[^41-1]
 
-### (Art. 13, 18 Abs. 3 und 20 Abs. 2 BGG)
-
-<sup>1</sup> An den Grundsatzentscheiden der Zweiten sozialrechtlichen Abteilung wirkt im Turnus ein Mitglied der Ersten sozialrechtlichen Abteilung mit.
-
-<sup>2</sup> Dieser Turnus folgt der Anciennität und schliesst alle Mitglieder der Abteilung ein.
-
-[^41-1]: Fassung gemäss Ziff. I der V des BGer vom 12. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^41-1]: Aufgehoben durch Ziff. I der V des BGer vom 13. Juni 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 42
 

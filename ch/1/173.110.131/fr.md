@@ -4,11 +4,11 @@ title: Règlement du 20 novembre 2006 du Tribunal fédéral (RTF)
 short: RTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/834"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-11-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/834/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-834-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/834/20220101/fr"
 
 (RTF)
 
-du 20 novembre 2006 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 novembre 2006 (État le 1<sup>er</sup> janvier 2023)
 
 Le Tribunal fédéral,
 
@@ -382,22 +382,25 @@ En cas d’échec des tentatives de règlement interne du conflit, la Commission
 
 Le Tribunal fédéral se compose des sept cours suivantes:
 
-- a. deux cours de droit public;
+- a.[^26-1] quatre cours de droit public;
 - b. deux cours de droit civil;
 - c. une cour de droit pénal;
-- d. deux cours de droit social.
+- d.[^26-2] …
 
-<sup>2</sup> Les deux cours de droit public, les deux cours de droit civil et la cour de droit pénal siègent à Lausanne. Les deux cours de droit social siègent à Lucerne.
+<sup>2</sup> La première et la deuxième Cours de droit public, les deux cours de droit civil et la cour de droit pénal siègent à Lausanne. La troisième et la quatrième Cours de droit public siègent à Lucerne.[^26-3]
 
-<sup>3</sup> Les cours comportent de quatre à six juges ordinaires.[^26-1]
+<sup>3</sup> Les cours comportent de quatre à six juges ordinaires.[^26-4]
 
-<sup>4</sup> Deux juges de langue française sont attribués aux cours comportant six juges. Un ou deux juges de langue française sont attribués aux cours comportant cinq juges.[^26-2]
+<sup>4</sup> Deux juges de langue française sont attribués aux cours comportant six juges. Un ou deux juges de langue française sont attribués aux cours comportant cinq juges.[^26-5]
 
-<sup>5</sup> Aucune cour ne peut compter plus d’un juge de langue italienne.[^26-3]
+<sup>5</sup> Aucune cour ne peut compter plus d’un juge de langue italienne.[^26-6]
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
-[^26-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^26-3]: Introduit par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 (RO **202****3** 65).
+[^26-2]: Abrogée par le ch. I de l’O du TF du 13 juin 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-3]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^26-4]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^26-5]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^26-6]: Introduit par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
 
 #### Art. 27
 
@@ -484,7 +487,7 @@ Pour autant que le litige ne puisse pas être rattaché à un autre domaine du d
 La deuxième Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
 
 - a. droit des étrangers;
-- b. impôts et taxes;
+- b.[^30-1] assistance administrative internationale en matière fiscale;
 - c.
 
   droit public économique et autres domaines du droit administratif pour autant qu’une autre cour ne soit pas compétente, notamment:
@@ -515,7 +518,7 @@ La deuxième Cour de droit public traite les recours en matière de droit public
 
 Pour autant que le litige ne puisse pas être attribué à un autre domaine du droit, la deuxième Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires relatifs aux droits fondamentaux suivants:
 
-- a. protection des enfants et des jeunes (art. 11 Cst.[^30-1]);
+- a. protection des enfants et des jeunes (art. 11 Cst.[^30-2]);
 - b. liberté de conscience et de croyance (art. 15 Cst.);
 - c. liberté de la langue (art. 18 Cst.);
 - d. droit à un enseignement de base (art. 19 Cst.);
@@ -524,14 +527,54 @@ Pour autant que le litige ne puisse pas être attribué à un autre domaine du d
 - g. liberté économique (art. 27 Cst.);
 - h. liberté syndicale (art. 28 Cst.).
 
-<sup>3</sup> La deuxième Cour de droit public traite par voie d’action les prétentions portant sur des dommages-intérêts ou sur une indemnité à titre de réparation morale résultant de l’activité officielle de personnes visées à l’art. 1, al. 1, let. a à c, de la loi du 14 mars 1958 sur la responsabilité[^30-2] (art. 120, al. 1, let. c, LTF).
+<sup>3</sup> La deuxième Cour de droit public traite par voie d’action les prétentions portant sur des dommages-intérêts ou sur une indemnité à titre de réparation morale résultant de l’activité officielle de personnes visées à l’art. 1, al. 1, let. a à c, de la loi du 14 mars 1958 sur la responsabilité[^30-3] (art. 120, al. 1, let. c, LTF).
 
-[^30-1]: RS**101**
-[^30-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^30-2]: RS**101**
+[^30-3]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
 #### Art. 31
 
-**Première Cour de droit civil**
+**Troisième Cour de droit public**[^31-1]
+
+### (art. 22 LTF)
+
+La troisième Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. impôts et taxes;
+- b. assurance-vieillesse et survivants;
+- c. assurance-invalidité;
+- d. allocations pour perte de gain (y compris maternité);
+- e. assurance-maladie;
+- f. prévoyance professionnelle (art. 73 et 74 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité[^31-2]);
+- g. prestations complémentaires.
+
+[^31-1]: Introduit par le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^31-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+
+#### Art. 32
+
+**Quatrième Cour de droit public**[^32-1]
+
+### (art. 22 LTF)
+
+La quatrième Cour de droit public traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+
+- a. assurance-invalidité;
+- b. assurance-accidents;
+- c. assurance-chômage;
+- d. assurance sociale cantonale;
+- e. allocations familiales;
+- f. aide sociale et aide dans des situations de détresse selon l’art. 12 Cst.[^32-2];
+- g. assurance militaire;
+- h. personnel du secteur public.
+
+[^32-1]: Introduit par le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
+[^32-2]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+
+#### Art. 33
+
+**Première Cour de droit civil**[^33-1]
 
 ### (art. 22 LTF)
 
@@ -545,18 +588,19 @@ La première Cour de droit civil traite les recours en matière civile et les re
 - d. responsabilité de l’État pour les activités médicales;
 - e. droit privé de la concurrence;
 - f. propriété intellectuelle;
-- g.[^31-1] arbitrage international;
+- g.[^33-2] arbitrage international;
 - h. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, ch.1 et 2, LTF dans les domaines prévus aux let. a à g ci-dessus.
 
-<sup>2</sup> La première Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 du code de procédure civile (CPC)[^31-2].[^31-3]
+<sup>2</sup> La première Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 du code de procédure civile (CPC)[^33-3].[^33-4]
 
-[^31-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^31-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^31-3]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-1]: Anciennement art. 31.
+[^33-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^33-3]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^33-4]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
-#### Art. 32
+#### Art. 34
 
-**Deuxième Cour de droit civil**
+**Deuxième Cour de droit civil**[^34-1]
 
 ### (art. 22 LTF)
 
@@ -577,69 +621,27 @@ La deuxième Cour de droit civil traite les recours en matière civile et les re
 - c. poursuite pour dettes et faillite;
 - d. tenue des registres et décisions sur la reconnaissance et l’exécution de décisions ainsi que sur l’entraide en matière civile selon l’art. 72, al. 2, let. b, LTF dans les domaines prévus aux let. a à c ci-dessus.
 
-<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 CPC[^32-1].[^32-2]
+<sup>2</sup> La deuxième Cour de droit civil traite, par voie d’action, les contestations de droit civil entre Confédération et cantons ou entre cantons (art. 120, al. 1, let. b, LTF) ainsi que dans ses domaines de compétence les recours en matière de droit public contre des actes normatifs cantonaux (art. 82, let. b, LTF) et les recours contre les sentences arbitrales selon l’art. 389 CPC[^34-2].[^34-3]
 
-[^32-1]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
-[^32-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-
-#### Art. 33
-
-**Cour de droit pénal**
-
-### (art. 22 LTF)
-
-La Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénaledans les domaines suivants:[^33-1]
-
-- a. droit pénal matériel (y compris l’exécution des peines et des mesures);
-- b. procédure pénale (sauf les recours contre les décisions incidentes relevant de la procédure pénale);
-- c.[^33-2] les décisions finales en matière pénale (y compris les ordonnances de non-entrée en matière ou de classement de la procédure).
-
-[^33-1]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
-[^33-2]: Nouvelle teneur selon le ch. I de l’O du TF du 8 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
-
-#### Art. 34
-
-**Première Cour de droit social**
-
-### (art. 22 LTF)
-
-La première Cour de droit social traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
-
-- a. assurance-invalidité;
-- b.[^34-1] assurance-accidents;
-- c.[^34-2] assurance-chômage;
-- d.[^34-3] assurance sociale cantonale;
-- e.[^34-4] allocations familiales;
-- f.[^34-5] aide sociale et aide dans des situations de détresse selon l’art. 12 Cst.[^34-6];
-- g.[^34-7] assurance militaire;
-- h.[^34-8] personnel du secteur public.
-
-[^34-1]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-2]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-3]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-4]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-5]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-6]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^34-7]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
-[^34-8]: Nouvelle teneur selon le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^34-1]: Anciennement art. 32.
+[^34-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^34-3]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
 
 #### Art. 35
 
-**Deuxième Cour de droit social**
+**Cour de droit pénal**[^35-1]
 
 ### (art. 22 LTF)
 
-La deuxième Cour de droit social traite les recours en matière de droit public et les recours constitutionnels subsidiaires dans les domaines suivants:
+La Cour de droit pénal traite les recours en matière pénale ainsi que les recours en matière de droit public et les recours constitutionnels subsidiaires en matière pénaledans les domaines suivants:[^35-2]
 
-- a. assurance-vieillesse et survivants;
-- b. assurance-invalidité;
-- c. allocations pour perte de gain (y compris maternité);
-- d. assurance-maladie;
-- e. prévoyance professionnelle (art. 73 et 74 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité[^35-1]);
-- f.[^35-2] prestations complémentaires.
+- a. droit pénal matériel (y compris l’exécution des peines et des mesures);
+- b. procédure pénale (sauf les recours contre les décisions incidentes relevant de la procédure pénale);
+- c.[^35-3] les décisions finales en matière pénale (y compris les ordonnances de non-entrée en matière ou de classement de la procédure).
 
-[^35-1]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^35-2]: Introduite par le ch. I de l’O du TF du 24 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6415](https://fedlex.data.admin.ch/eli/oc/2008/863)).
+[^35-1]: Anciennement art. 33.
+[^35-2]: Nouvelle teneur selon le ch. I de l’O du TF du 9 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6387](https://fedlex.data.admin.ch/eli/oc/2010/895)).
+[^35-3]: Nouvelle teneur selon le ch. I de l’O du TF du 8 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6977](https://fedlex.data.admin.ch/eli/oc/2012/849)).
 
 ### Section 3 Délimitation des compétences et collaboration
 
@@ -720,44 +722,42 @@ Les greffiers peuvent exprimer leur voix consultative:
 
 #### Art. 40
 
-**Composition des cours appelées à statuer**
+**Composition et désignation des cours appelées à statuer**[^40-1]
 
 ### (art. 20 et 22 LTF)
 
-<sup>1</sup> La cour appelée à statuer est constituée par le président de la cour compétente ou par le juge présidant au sens de l’art. 27, al. 2, du présent règlement.[^40-1]
+<sup>1</sup> La cour appelée à statuer est constituée par le président de la cour compétente ou par le juge présidant au sens de l’art. 27, al. 2, du présent règlement.
 
 <sup>2</sup>
 
-Le président de la cour ou le juge présidant tiennent compte, en plus des dispositions légales impératives, notamment des critères et circonstances suivants:[^40-2]
+Pour la désignation des membres des cours appelées à statuer, le président de la cour ou le juge présidant tiennent compte, en plus des dispositions légales impératives, notamment des critères et circonstances suivants:
 
-- a. équilibre de la charge de travail des juges; à cet égard, le surcroît de travail résultant d’autres fonctions est pris en considération (par exemple la présidence du Tribunal fédéral);
-- b. langue; la langue du juge rapporteur doit si possible correspondre à celle du procès;
+- a. équilibre de la charge de travail des juges; à cet égard, le surcroît de travail résultant d’autres fonctions est pris en considération, comme la présidence du Tribunal fédéral;
+- b. langue; la langue du juge rapporteur doit si possible correspondre à celle de la procédure;
 - c. participation de membres des deux sexes lorsque la nature du litige paraît le justifier;
 - d. connaissances spécifiques d’un juge dans un domaine déterminé;
 - e. participation d’un juge à des décisions antérieures dans la même matière;
 - f. absences dues notamment à la maladie, aux vacances, etc.
 
-<sup>3</sup> Lorsque la cour statue à cinq juges, elle est présidée par le président de la cour. L’art. 19, al. 2, LTF est réservé.[^40-3]
+<sup>3</sup> Le président de la cour ou le juge présidant désigne en premier lieu le juge instructeur, chargé de rédiger le projet de rapport.
 
-<sup>4</sup> En règle générale, la cour appelée à statuer tranche les affaires connexes.
+<sup>4</sup> Dès que le projet de rapport est prêt, les autres membres de la cour appelée à statuer sont désignés par voie électronique.
 
-<sup>5</sup> Si un membre d’une cour doit siéger dans une autre cour, le président de celle-ci le désigne après l’avoir entendu, cela en accord avec le président de la cour à laquelle il appartient.
+<sup>5</sup> En cas d’absence prolongée incompatible avec le fonctionnement de la cour, le membre concerné de la cour appelée à statuer est remplacé. Le nouveau membre est désigné par voie électronique.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
-[^40-2]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
-[^40-3]: Nouvelle teneur selon le ch. I de l’O du TF du 6 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 327](https://fedlex.data.admin.ch/eli/oc/2021/327)).
+<sup>6</sup> Lorsque la cour statue à cinq juges, elle est présidée par le président de la cour. L’art. 19, al. 2, LTF est réservé.
+
+<sup>7</sup> Si un membre d’une cour doit également siéger dans une autre cour, le président de celle-ci le désigne après l’avoir entendu, cela en accord avec le président de la cour à laquelle il appartient.
+
+<sup>8</sup> En règle générale, la cour appelée à statuer tranche les affaires connexes.
+
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du TF du 13 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 41
 
-**Arrêts de principe de la deuxième Cour de droit social**[^41-1]
+[^41-1]
 
-### (art. 13, 18, al. 3, et 20, al. 2, LTF)
-
-<sup>1</sup> Un membre de la première Cour de droit social est appelé à siéger, par rotation, dans les affaires de principe de la deuxième Cour de droit social.
-
-<sup>2</sup> Cette rotation suit l’ordre d’ancienneté et inclut tous les membres de la cour.
-
-[^41-1]: Nouvelle teneur selon le ch. I de l’O du TF du 12 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4967](https://fedlex.data.admin.ch/eli/oc/2020/883)).
+[^41-1]: Abrogé par le ch. I de l’O du TF du 13 juin 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2023 65](https://fedlex.data.admin.ch/eli/oc/2023/65)).
 
 #### Art. 42
 
