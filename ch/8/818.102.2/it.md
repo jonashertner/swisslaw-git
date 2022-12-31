@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordinanza del 4 giugno 2021 concernente i certificati attestanti l’avvenuta vaccinazione anti-COVID-19, la guarigione dalla COVID-19 o il risultato di un test COVID-19 (Ordinanza sui certificati COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: it
-version: 2022-12-01
+version: 2023-01-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/it"
 
 (Ordinanza sui certificati COVID-19)
 
-del 4 giugno 2021 (Stato 1° dicembre 2022)
+del 4 giugno 2021 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -776,7 +776,11 @@ I seguenti certificati mantengono la loro precedente durata di validità:
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 7 giugno 2021 alle ore 00.00 e ha effetto sino al 31 dicembre 2022.
+<sup>1</sup> La presente ordinanza entra in vigore il 7 giugno 2021 alle ore 00.00 e ha effetto sino al 31 dicembre 2022.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 agosto 2023.[^35-1]
+
+[^35-1]: Introdotto dal n. I dell’O del 21 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 837](https://fedlex.data.admin.ch/eli/oc/2022/837)).
 
 Allegato 1[^t-1]
 

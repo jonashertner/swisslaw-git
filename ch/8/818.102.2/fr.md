@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Ordonnance du 4 juin 2021 sur les certificats attestant la vaccination contre le COVID-19, la guérison du COVID-19 ou la réalisation d’un test de dépistage du COVID-19 (Ordonnance COVID-19 certificats)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: fr
-version: 2022-12-01
+version: 2023-01-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/fr"
 
 (Ordonnance COVID-19 certificats)
 
-du 4 juin 2021 (État le 1<sup>er</sup> décembre 2022)
+du 4 juin 2021 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -774,7 +774,11 @@ Les certificats suivants conservent leur ancienne durée de validité:
 
 **Entrée en vigueur**
 
-La présente ordonnance entre en vigueur le 7 juin 2021 à 0 h 00 et a effet jusqu’au 31 décembre 2022.
+<sup>1</sup> La présente ordonnance entre en vigueur le 7 juin 2021 à 0 h 00 et a effet jusqu’au 31 décembre 2022.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 août 2023.[^35-1]
+
+[^35-1]: Introduit par le ch. I de l’O du 21 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 837](https://fedlex.data.admin.ch/eli/oc/2022/837)).
 
 Annexe 1[^t-1]
 

@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-12-01
+version: 2023-01-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 1. Dezember 2022)
+vom 4. Juni 2021 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -774,7 +774,11 @@ Folgende Zertifikate behalten ihre bisherige Gültigkeitsdauer:
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 7. Juni 2021 um 00.00 Uhr in Kraft und gilt bis zum 31. Dezember 2022.
+<sup>1</sup> Diese Verordnung tritt am 7. Juni 2021 um 00.00 Uhr in Kraft und gilt bis zum 31. Dezember 2022.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. August 2023 verlängert.[^35-1]
+
+[^35-1]: Eingefügt durch Ziff. I der V vom 21. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 837](https://fedlex.data.admin.ch/eli/oc/2022/837)).
 
 Anhang 1[^t-1]
 
