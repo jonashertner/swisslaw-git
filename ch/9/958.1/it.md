@@ -4,11 +4,11 @@ title: "Legge federale del 19 giugno 2015 sulle infrastrutture del mercato finan
 short: LInFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: it
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/it"
 
 (Legge sull’infrastruttura finanziaria, LInFi)
 
-del 19 giugno 2015 (Stato 1° agosto 2021)
+del 19 giugno 2015 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -480,17 +480,32 @@ Gli organi di sorveglianza del commercio svizzeri possono concordare lo scambio 
 
 <sup>2</sup>
 
-Possono essere ammessi quali partecipanti a una borsa o a un sistema multilaterale di negoziazione:
+Possono essere ammessi quali partecipanti a una sede di negoziazione:[^34-1]
 
-- a.[^34-1] le società di intermediazione mobiliare secondo l’articolo 41 della legge del 15 giugno 2018[^34-2] sugli istituti finanziari (LIsFi);
-- b. altri assoggettati alla vigilanza della FINMA secondo l’articolo 3 della legge del 22 giugno 2007[^34-3] sulla vigilanza dei mercati finanziari (LFINMA), sempre che la sede di negoziazione garantisca che essi adempiono condizioni tecniche e operative equivalenti a quelle delle società di intermediazione mobiliare[^34-4];
+- a.[^34-2] le società di intermediazione mobiliare secondo l’articolo 41 della legge del 15 giugno 2018[^34-3] sugli istituti finanziari (LIsFi);
+- b. altri assoggettati alla vigilanza della FINMA secondo l’articolo 3 della legge del 22 giugno 2007[^34-4] sulla vigilanza dei mercati finanziari (LFINMA), sempre che la sede di negoziazione garantisca che essi adempiono condizioni tecniche e operative equivalenti a quelle delle società di intermediazione mobiliare[^34-5];
 - c. i partecipanti esteri al commercio autorizzati dalla FINMA secondo l’articolo 40;
-- d. la BNS.
+- d. la BNS;
+- e.[^34-6] la Confederazione;
+- f. [^34-7] l’Istituto nazionale svizzero di assicurazione contro gli infortuni (INSAI);
+- g.[^34-8] i Fondi di compensazione AVS/AI/IPG (compenswiss).
 
-[^34-1]: Nuovo testo giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^34-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^34-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^34-4]: Nuova espressione giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).Di detta mod. è tenuto conto in tutto il testo.
+<sup>3</sup>
+
+La sede di negoziazione può ammettere altre istituzioni quali partecipanti se garantisce che esse adempiono condizioni tecniche e operative equivalenti a quelle delle società di intermediazione mobiliare e se queste istituzioni:
+
+- a. adempiono compiti pubblici e, per l’adempimento di questi compiti, necessitano dell’ammissione quali partecipanti; e
+- b. dispongono di una tesoreria professionale.[^34-9]
+
+[^34-1]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-2]: Nuovo testo giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^34-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^34-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^34-5]: Nuova espressione giusta l’all. n. II 18 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).Di detta mod. è tenuto conto in tutto il testo.
+[^34-6]: Introdotta dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-7]: Introdotta dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-8]: Introdotta dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-9]: Introdotto dall’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 35
 
@@ -1321,12 +1336,12 @@ A complemento dell’articolo 37 LFINMA[^87-1], la FINMA può revocare l’autor
 
 **Misure in caso di insolvenza**
 
-<sup>1</sup> Salvo disposizione contraria della presente legge, alle infrastrutture del mercato finanziario si applicano per analogia gli articoli 24–37 e 37*d*–37*g*, eccetto l’articolo 37*g* capoverso 4<sup>bis</sup>, della legge dell’8 novembre 1934[^88-1] sulle banche.[^88-2]
+<sup>1</sup> Salvo disposizione contraria della presente legge, alle infrastrutture del mercato finanziario si applicano per analogia gli articoli 25–37 e 37*d*–37*g*<sup>quinquies</sup>, eccetto l’articolo 37*g* capoverso 4<sup>bis</sup>, della legge dell’8 novembre 1934[^88-1] sulle banche.[^88-2]
 
 <sup>2</sup> Nel caso di infrastrutture del mercato finanziario di rilevanza sistemica, la FINMA consulta la BNS prima di adottare misure in caso di insolvenza.
 
 [^88-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^88-2]: Nuovo testo giusta l’all. n. 3 della LF del 16 mar. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3531](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^88-2]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 89
 
@@ -1368,12 +1383,15 @@ Il capoverso 2 si applica per analogia:
 Le misure applicabili in caso di insolvenza disposte nei confronti di un partecipante a una controparte centrale non pregiudicano gli accordi conclusi in precedenza tra la controparte centrale e il partecipante e riguardanti:
 
 - a. la compensazione di crediti, compresi il metodo concordato e la determinazione del valore;
-- b. la realizzazione mediante trattative private di garanzie sotto forma di valori mobiliari o di altri strumenti finanziari, il cui valore è oggettivamente determinabile;
-- c. il trasferimento di crediti e obbligazioni, nonché di garanzie sotto forma di valori mobiliari o di altri strumenti finanziari, il cui valore è oggettivamente determinabile.
+- b.[^90-1] la realizzazione mediante trattative private di garanzie sotto forma di titoli mobiliari o di altri strumenti finanziari, comprese garanzie in contanti (ad eccezione del denaro contante), il cui valore è oggettivamente determinabile;
+- c.[^90-2] il trasferimento di crediti e obbligazioni, nonché di garanzie sotto forma di valori mobiliari o di altri strumenti finanziari, comprese garanzie in contanti (ad eccezione del denaro contante), il cui valore è oggettivamente determinabile.
 
 <sup>2</sup> Le pretese del partecipante sussistenti dopo la compensazione o la realizzazione ad opera della controparte centrale secondo il capoverso 1 lettera a o b sono scorporate a favore dei clienti del partecipante e dei suoi partecipanti indiretti.
 
 <sup>3</sup> Sono fatte salve le prescrizioni divergenti nel quadro del differimento della disdetta di contratti da parte della FINMA.
+
+[^90-1]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^90-2]: Nuovo testo giusta l’all. n. 9 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 91
 

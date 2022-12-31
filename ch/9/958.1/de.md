@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Juni 2015 über die Finanzmarktinfrastrukturen und 
 short: FinfraG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/de"
 
 (Finanzmarktinfrastrukturgesetz, FinfraG)
 
-vom 19. Juni 2015 (Stand am 1. August 2021)
+vom 19. Juni 2015 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -479,17 +479,32 @@ Inländische Handelsüberwachungsstellen können den gegenseitigen Informationsa
 
 <sup>2</sup>
 
-Als Teilnehmer einer Börse oder eines multilateralen Handelssystems können zugelassen werden:
+Als Teilnehmer eines Handelsplatzes können zugelassen werden:[^34-1]
 
-- a.[^34-1] Wertpapierhäuser nach Artikel 41 des Finanzinstitutsgesetzes vom 15. Juni 2018[^34-2] (FINIG);
-- b. weitere von der FINMA nach Artikel 3 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^34-3] (FINMAG) Beaufsichtigte, sofern der Handelsplatz sicherstellt, dass sie gleichwertige technische und operative Voraussetzungen erfüllen wie Wertpapierhäuser[^34-4];
+- a.[^34-2] Wertpapierhäuser nach Artikel 41 des Finanzinstitutsgesetzes vom 15. Juni 2018[^34-3] (FINIG);
+- b. weitere von der FINMA nach Artikel 3 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^34-4] (FINMAG) Beaufsichtigte, sofern der Handelsplatz sicherstellt, dass sie gleichwertige technische und operative Voraussetzungen erfüllen wie Wertpapierhäuser[^34-5];
 - c. von der FINMA nach Artikel 40 bewilligte ausländische Teilnehmer;
-- d. die SNB.
+- d. die SNB;
+- e.[^34-6] der Bund;
+- f.[^34-7] die Schweizerische Unfallversicherungsanstalt (Suva);
+- g.[^34-8] die Ausgleichsfonds AHV/IV/EO (compenswiss).
 
-[^34-1]: Fassung gemäss Anhang Ziff. II 18 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^34-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^34-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^34-4]: Ausdruck gemäss Anhang Ziff. II 18 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+<sup>3</sup>
+
+Der Handelsplatz kann weitere Einrichtungen als Teilnehmer zulassen, wenn er sicherstellt, dass sie gleichwertige technische und operative Voraussetzungen erfüllen wie Wertpapierhäuser, und diese Einrichtungen:
+
+- a. öffentliche Aufgaben wahrnehmen und für die Wahrnehmung dieser Aufgaben auf eine Teilnahme angewiesen sind; und
+- b. über eine professionelle Tresorerie verfügen.[^34-9]
+
+[^34-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-2]: Fassung gemäss Anhang Ziff. II 18 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^34-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^34-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^34-5]: Ausdruck gemäss Anhang Ziff. II 18 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^34-6]: Eingefügt durch Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-7]: Eingefügt durch Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-8]: Eingefügt durch Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-9]: Eingefügt durch Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 35
 
@@ -1022,7 +1037,7 @@ Die Errichtung von Zugangsverbindungen, bei denen ein Zentralverwahrer für den 
 
 <sup>4</sup> Ein Teilnehmer eines Zentralverwahrers macht die Kosten und die Einzelheiten zum Umfang des durch die Kontenführung nach Absatz 2 gewährten Schutzes öffentlich bekannt.
 
-### 4*a*. Kapitel:**** DLT-Handelssysteme
+### 4*a*. Kapitel: DLT-Handelssysteme
 
 [^tit2-chap4a-1]
 
@@ -1319,12 +1334,12 @@ In Ergänzung zu Artikel 37 FINMAG[^87-1] kann die FINMA einer Finanzmarktinfras
 
 **Insolvenzmassnahmen**
 
-<sup>1</sup> Für Finanzmarktinfrastrukturen gelten die Artikel 24–37 und 37*d*–37*g* mit Ausnahme von Artikel 37*g* Absatz 4<sup>bis</sup> des Bankengesetzes vom 8. November 1934[^88-1] sinngemäss, sofern das vorliegende Gesetz keine abweichenden Bestimmungen enthält.[^88-2]
+<sup>1</sup> Für Finanzmarktinfrastrukturen gelten die Artikel 25–37 und 37*d*–37*g*<sup>quinquies</sup> mit Ausnahme von Artikel 37*g* Absatz 4<sup>bis</sup> des Bankengesetzes vom 8. November 1934[^88-1] sinngemäss, sofern das vorliegende Gesetz keine abweichenden Bestimmungen enthält.[^88-2]
 
 <sup>2</sup> Im Falle von systemisch bedeutsamen Finanzmarktinfrastrukturen hört die FINMA die SNB an, bevor sie Insolvenzmassnahmen ergreift.
 
 [^88-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^88-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^88-2]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 89
 
@@ -1366,12 +1381,15 @@ Absatz 2 gilt sinngemäss für:
 Von Insolvenzmassnahmen, die gegen einen Teilnehmer einer zentralen Gegenpartei angeordnet werden, unberührt bleiben im Voraus geschlossene Vereinbarungen zwischen der zentralen Gegenpartei und dem Teilnehmer über:
 
 - a. die Aufrechnung von Forderungen, einschliesslich der vereinbarten Methode und der Wertbestimmung;
-- b. die freihändige Verwertung von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, deren Wert objektiv bestimmbar ist;
-- c. die Übertragung von Forderungen und Verpflichtungen sowie von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, deren Wert objektiv bestimmbar ist.
+- b.[^90-1] die freihändige Verwertung von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, einschliesslich Barsicherheiten (ohne Bargeld), deren Wert objektiv bestimmbar ist;
+- c.[^90-2] die Übertragung von Forderungen und Verpflichtungen sowie von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, einschliesslich Barsicherheiten (ohne Bargeld), deren Wert objektiv bestimmbar ist.
 
 <sup>2</sup> Nach Aufrechnung oder Verwertung durch die zentrale Gegenpartei nach Absatz 1 Buchstaben a und b verbleibende Ansprüche des Teilnehmers werden zu Gunsten seiner Kunden und indirekten Teilnehmer abgesondert.
 
 <sup>3</sup> Vorbehalten bleiben abweichende Anordnungen im Rahmen des Aufschubs der Beendigung von Verträgen durch die FINMA.
+
+[^90-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^90-2]: Fassung gemäss Anhang Ziff. 9 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 91
 
@@ -2389,6 +2407,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Federal Act of 19 June 2015 on Financial Market Infrastructures and Mark
 short: FinMIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: en
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Market Infrastructure Act, FinMIA)
 
-of 19 June 2015 (Status as of 1 August 2021)
+of 19 June 2015 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -244,7 +244,7 @@ Two or more companies are deemed to be a financial group pursuant to this Act if
 
 <sup>1</sup> The name of the financial market infrastructure must not lead to confusion or deception.
 
-<sup>2</sup> The terms «stock exchange», «multilateral trading facility», «MTF», «central counterparty», «CCP», «securities settlement system», «SSS», «central securities depository», «CSD», «trade repository", «TR», «DLT trading system», «DLT trading facility and DLT exchange» may be used in connection with the provision of financial services only to designate a corresponding financial market infrastructure subject to this Act.[^16-1]
+<sup>2</sup> The terms "stock exchange", "multilateral trading facility", "MTF", "central counterparty", "CCP", "securities settlement system", "SSS", "central securities depository", "CSD", "trade repository", "TR", "DLT trading system", "DLT trading facility and DLT exchange" may be used in connection with the provision of financial services only to designate a corresponding financial market infrastructure subject to this Act.[^16-1]
 
 [^16-1]: Amended by No I 10 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -477,17 +477,32 @@ Swiss trading supervisory bodies may agree to the reciprocal exchange of informa
 
 <sup>2</sup>
 
-The following may be admitted as participants in a stock exchange or a multilateral trading facility:
+The following may be admitted as participants in a trading venue:[^34-1]
 
-- a.[^34-1] securities firms in accordance with Article 2 letter d of the Financial Institutions Act of 15 June 2018[^34-2] (FinIA);
-- b. other parties supervised by FINMA in accordance with Article 3 of the Financial Market Supervision Act of 22 June 2007[^34-3] (FINMASA), provided that the trading venue ensures that they fulfil equivalent technical and operational conditions to securities firms;[^34-4]
+- a.[^34-2] securities firms in accordance with Article 2 letter d of the Financial Institutions Act of 15 June 2018[^34-3] (FinIA);
+- b. other parties supervised by FINMA in accordance with Article 3 of the Financial Market Supervision Act of 22 June 2007[^34-4] (FINMASA), provided that the trading venue ensures that they fulfil equivalent technical and operational conditions to securities firms;[^34-5]
 - c. foreign participants authorised by FINMA in accordance with Article 40;
-- d. the SNB.
+- d. the SNB;
+- e.[^34-6] the federal government;
+- f.[^34-7] the Swiss National Accident Insurance Fund (Suva);
+- g.[^34-8] the AHV/IV/EO compensation funds (compenswiss).
 
-[^34-1]: Amended by Annex No II 18 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^34-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^34-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^34-4]: Term in accordance with Annex No II 18 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). This modification has been made throughout the text.
+<sup>3</sup>
+
+The trading venue may admit other entities as participants if it ensures that they fulfil equivalent technical and operational conditions to securities firms, and if these entities:
+
+- a. perform public functions and are reliant on participation for the performance of these functions; and
+- b. have professional treasury operations.[^34-9]
+
+[^34-1]: Amended by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-2]: Amended by Annex No II 18 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^34-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^34-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^34-5]: Term in accordance with Annex No II 18 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)). This modification has been made throughout the text.
+[^34-6]: Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-7]: Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-8]: Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-9]: Inserted by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 35
 
@@ -1020,7 +1035,7 @@ The establishment of access links in which a central securities depository provi
 
 <sup>4</sup> A central securities depository's participant shall publish the costs and specifics concerning the level of protection granted by the type of account management under paragraph 2.
 
-## Chapter 4*a***** DLT Trading Facilities
+## Chapter 4*a* DLT Trading Facilities
 
 [^tit3-1]
 
@@ -1052,6 +1067,7 @@ DLT trading facilities are subject to the following requirements for trading ven
 - d. guarantee of orderly trading (Art. 30);
 - e. supervision of trading (Art. 31);
 - f. collaboration between trading supervisory bodies (Art. 32);
+
 - g. suspension of trading (Art. 33 para. 2);
 - h. appeal body (Art. 37).
 
@@ -1140,7 +1156,7 @@ For reasons of proportionality and while taking into account the protective purp
 
 <sup>2</sup> DLT trading facilities are deemed to be small if they pose a low risk in terms of the protection of financial market participants and the proper functioning and stability of the financial system, in particular because the number of participants, the trading volume, the volume of custody assets or the clearing and settlement volume is limited. The Federal Council shall set thresholds.
 
-<sup>3</sup> DLT-Handelssysteme, die Erleichterungen nach diesem Artikel erhalten, sind verpflichtet, dies gegenüber ihren Kundinnen und Kunden offenzulegen. Der Bundesrat regelt die Details.
+<sup>3</sup> DLT trading facilities that are subject to eased requirements in accordance with this Article shall disclose this to their clients. The Federal Council shall regulate the details.
 
 ### Chapter 5 Trade Repositories
 
@@ -1221,7 +1237,7 @@ FINMA shall grant recognition:
   if the competent foreign supervisory authorities:
 
   - 1\. do not have any objections to the cross-border activity of the foreign trade repository,
-  - 2\. guarantee that they will inform FINMA if they detect violations of the law or other irregularities on the part of Swiss participants,
+  - 2\. guarantee that they will inform FINMA if they detect violations of the law or other irregularities on the part of Swiss participants;
   - 3\. confirm to the competent Swiss financial market supervisory authority that the conditions set out in Article 78 paragraph 1 letters b and c are fulfilled.
 
 <sup>3</sup>
@@ -1317,12 +1333,12 @@ As a complement to Article 37 FINMASA[^87-1], FINMA may withdraw authorisation o
 
 **Insolvency measures**
 
-<sup>1</sup> Articles 24 to 37 and 37*d* to 37*g*, with the exception of Article 37*g* paragraph 4<sup>bis</sup> of the Banking Act of 8 November 1934[^88-1] apply by analogy for financial market infrastructures unless this Act contains provisions to the contrary.[^88-2]
+<sup>1</sup> Articles 25 to 37 and 37*d* to 37*g*<sup>quinquies</sup>, with the exception of Article 37*g* paragraph 4<sup>bis</sup> of the Banking Act of 8 November 1934[^88-1] apply by analogy for financial market infrastructures unless this Act contains provisions to the contrary.[^88-2]
 
 <sup>2</sup> In the case of systemically important financial market infrastructures, FINMA shall consult the SNB before taking insolvency measures.
 
 [^88-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^88-2]: Amended by Annex No 3 of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^88-2]: Amended by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 89
 
@@ -1362,13 +1378,16 @@ Paragraph 2 applies by analogy to:
 
 a. the offsetting of receivables, including the agreed method and valuation;
 
-b. the direct realisation of collateral in the form of securities or other financial instruments whose value can be determined objectively;
+b.[^90-1] the direct realisation of collateral in the form of securities or other financial instruments, including cash collateral (excluding physical cash), whose value can be determined objectively;
 
-c. the transfer of receivables and liabilities, and collateral in the form of securities, or other financial instruments whose value can be determined objectively.
+c.[^90-2] the transfer of receivables and liabilities, and collateral in the form of securities or other financial instruments, including cash collateral (excluding physical cash), whose value can be determined objectively.
 
 <sup>2</sup> Following the netting or realisation carried out by the central counterparty in accordance with paragraph 1 letters a and b, the participant's remaining entitlements shall be segregated in favour of its clients and indirect participants.
 
 <sup>3</sup> Measures to the contrary ordered within the scope of the postponement of the termination of contracts by FINMA are reserved.
+
+[^90-1]: Amended by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^90-2]: Amended by Annex No 9 of the FA of 17 Dec. 2021 (Insolvency and Deposit Insurance), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 91
 
@@ -1588,7 +1607,7 @@ The following shall be obliged to report:
 
 - c. the counterparty which has its registered office in Switzerland if the foreign counterparty does not report.
 
-<sup>3</sup> In the event of a transaction between non-financial counterparties, paragraph 2 letters b and c applies by analogy. A transaction between small non-financial counterparties does not have to be reported.
+<sup>3</sup> In the event of a transaction between non-financial counterparties, paragraph 2 letters b and c apply by analogy. A transaction between small non-financial counterparties does not have to be reported.
 
 <sup>4</sup> If the transaction is cleared centrally, the report is submitted by the central counterparty. If a recognised foreign central counterparty does not submit reports, the reporting duty shall remain with the counterparties.
 
@@ -1734,7 +1753,7 @@ No duty to trade in accordance with Article 112 may be imposed for:
 
 **Cross-border transactions**
 
-The duty to trade derivatives in accordance with Article 112 also applies if the foreign counterparty of the Swiss counterparty subject to the duty would be subject to the same duty if it had its registered office in Switzerland..
+The duty to trade derivatives in accordance with Article 112 also applies if the foreign counterparty of the Swiss counterparty subject to the duty would be subject to the same duty if it had its registered office in Switzerland.
 
 #### Art. 115
 
@@ -2192,7 +2211,7 @@ A custodial sentence not exceeding three years or a monetary penalty shall be im
 - b. attempts to induce a violation of professional secrecy;
 - c. discloses to other persons a secret disclosed to them in violation of letter a or exploits such a secret for their own benefit or for the benefit of others.
 
-<sup>2</sup> A custodial sentence not exceeding five years or a monetary penalty shall be imposed on any person who obtains a pecuniary advantage for themselves or another person through an action as detailed in paragraph 1 letter a or c .
+<sup>2</sup> A custodial sentence not exceeding five years or a monetary penalty shall be imposed on any person who obtains a pecuniary advantage for themselves or another person through an action as detailed in paragraph 1 letter a or c.
 
 <sup>3</sup> A fine not exceeding 250,000 francs shall be imposed on any person who commits the foregoing acts through negligence.[^147-1]
 

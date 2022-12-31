@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 juin 2015 sur les infrastructures des marchés fina
 short: LIMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/853"
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-06-19
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20210801-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/853/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-853-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/853/20210801/fr"
 
 (Loi sur l’infrastructure des marchés financiers, LIMF)[^t-1]
 
-du 19 juin 2015 (État le 1<sup>er</sup> août 2021)
+du 19 juin 2015 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -479,17 +479,32 @@ Les organes de surveillance suisses de la négociation peuvent convenir d’un �
 
 <sup>2</sup>
 
-Peuvent être admis en tant que participants à une bourse ou à un système multilatéral de négociation:
+Peuvent être admis en tant que participants à une plate-forme de négociation:[^34-1]
 
-- a.[^34-1] les maisons de titres au sens de l’art. 41 de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^34-2];
-- b. d’autres assujettis à la surveillance de la FINMA au sens de l’art. 3 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^34-3], pour autant que la plate-forme de négociation garantisse qu’ils remplissent des conditions techniques et opérationnelles équivalentes à celles des maisons de titres[^34-4];
+- a.[^34-2] les maisons de titres au sens de l’art. 41 de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^34-3];
+- b. d’autres assujettis à la surveillance de la FINMA au sens de l’art. 3 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^34-4], pour autant que la plate-forme de négociation garantisse qu’ils remplissent des conditions techniques et opérationnelles équivalentes à celles des maisons de titres[^34-5];
 - c. les participants étrangers autorisés par la FINMA conformément à l’art. 40;
-- d. la BNS.
+- d. la BNS;
+- e.[^34-6] la Confédération;
+- f.[^34-7] la Caisse nationale suisse d’assurance en cas d’accidents (CNA);
+- g.[^34-8] les fonds de compensation AVS/AI/APG (compenswiss).
 
-[^34-1]: Nouvelle teneur selon l’annexe ch. II 18 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^34-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^34-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^34-4]: Nouvelle expression selon l’annexe ch. II 18 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Il a été tenu compte de cette mod. dans tout le texte.
+<sup>3</sup>
+
+La plate-forme de négociation peut admettre d’autres organisations en tant que participants si elle garantit que ces organisations remplissent des conditions techniques et opérationnelles équivalentes à celles des maisons de titres et si ces organisations:
+
+- a. sont chargées de tâches publiques dont l’exécution requiert la participation à une plate-forme, et
+- b. disposent d’une trésorerie professionnelle.[^34-9]
+
+[^34-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-2]: Nouvelle teneur selon l’annexe ch. II 18 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^34-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^34-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^34-5]: Nouvelle expression selon l’annexe ch. II 18 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)). Il a été tenu compte de cette mod. dans tout le texte.
+[^34-6]: Introduite par l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-7]: Introduite par l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-8]: Introduite par l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-9]: Introduit par l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 35
 
@@ -1319,12 +1334,12 @@ En complément à l’art. 37 LFINMA[^87-1], la FINMA peut retirer l’autorisat
 
 **Mesures applicables en cas d’insolvabilité**
 
-<sup>1</sup> Les art. 24 à 37 et 37*d* à 37*g*, à l’exception de l’art. 37*g*, al. 4<sup>bis</sup>, de la loi du 8 novembre 1934 sur les banques[^88-1] s’appliquent par analogie aux infrastructures des marchés financiers, sauf disposition contraire de la présente loi.[^88-2]
+<sup>1</sup> Les art. 25 à 37 et 37*d* à 37*g*<sup>quinquies</sup>, à l’exception de l’art. 37*g*, al. 4<sup>bis</sup>, de la loi du 8 novembre 1934 sur les banques[^88-1] s’appliquent par analogie aux infrastructures des marchés financiers, sauf disposition contraire de la présente loi.[^88-2]
 
 <sup>2</sup> En cas d’insolvabilité d’une infrastructure des marchés financiers d’importance systémique, la FINMA consulte la BNS avant de prendre toute mesure.
 
 [^88-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^88-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3863](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^88-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 89
 
@@ -1366,12 +1381,15 @@ L’al. 2 s’applique par analogie:
 Sont exclus des mesures applicables en cas d’insolvabilité ordonnées contre un participant d’une contrepartie centrale les accords conclus préalablement entre la contrepartie centrale et le participant, qui portent sur:
 
 - a. la compensation de créances, y compris la méthode convenue et la détermination de la valeur;
-- b. la réalisation de gré à gré de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers dont la valeur peut être déterminée de façon objective;
-- c. le transfert de créances et d’engagements ainsi que de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers dont la valeur peut être déterminée de façon objective.
+- b.[^90-1] la réalisation de gré à gré de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers, garanties en espèces (sans argent liquide) comprises, dont la valeur peut être déterminée de façon objective;
+- c.[^90-2] le transfert de créances et d’engagements ainsi que de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers, garanties en espèces (sans argent liquide) comprises, dont la valeur peut être déterminée de façon objective.
 
 <sup>2</sup> Après compensation ou réalisation par la contrepartie centrale en vertu de l’al. 1, let. a et b, les prétentions restantes du participant sont distraites au profit de ses clients et participants indirects.
 
 <sup>3</sup> Les mesures contraires ordonnées par la FINMA dans le cadre de l’ajournement de la résiliation des contrats sont réservées.
+
+[^90-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^90-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 91
 
@@ -2191,19 +2209,21 @@ Les personnes soumises à une obligation de déclarer en vertu de l’art. 134 o
 
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:
 
-- a. en sa qualité de membre d’un organe, d’employé, de mandataire ou de liquidateur d’une infrastructure des marchés financiers, révèle un secret à lui confié ou dont il a eu connaissance dans le cadre de ses fonctions;
-- b. incite autrui à violer le secret professionnel;
+- a.[^147-1] révèle un secret qui lui a été confié ou dont il a eu connaissance en sa qualité de membre d’un organe, d’employé, de mandataire ou de liquidateur d’une infrastructure des marchés financiers;
+- b.[^147-2] tente d’inciter autrui à commettre une telle violation du secret professionnel;
 - c. révèle à autrui ou exploite pour lui-même ou pour autrui un secret à lui confié en violation de la let. a.
 
 <sup>2</sup> Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire quiconque obtient pour lui-même ou pour un tiers un avantage pécuniaire en commettant un acte décrit à l’al. 1, let a ou c.
 
-<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.[^147-1]
+<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.[^147-3]
 
 <sup>4</sup> La violation du secret professionnel demeure punissable alors même que la charge, l’emploi ou l’exercice de la profession a pris fin.
 
 <sup>5</sup> Les dispositions de la législation fédérale et cantonale sur les obligations de renseigner l’autorité et de témoigner en justice sont réservées.
 
-[^147-1]: Nouvelle teneur selon l’annexe ch. II 18 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^147-1]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^147-2]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^147-3]: Nouvelle teneur selon l’annexe ch. II 18 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 148
 
@@ -2391,6 +2411,6 @@ Annexe
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853).
