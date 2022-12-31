@@ -4,13 +4,13 @@ number: "890.510"
 title: Verordnung zum Gesetz über die Ausrichtung von Mietzinsbeiträgen an Familien mit Kindern
 short: "Mietbeitragsverordnung, MIVO"
 language: de
-version: 2020-10-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-01
+version: 2023-01-01
+valid_until: 2025-06-30
+version_adopted: 2022-12-06
 adopted: 2025-06-24
 in_force: 2025-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/890.510"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5010/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5764/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Mietzinsbeitragsverordnung | Sozialhilfe / Sozialbeiträge
 
 (Mietbeitragsverordnung, MIVO)
 
-Vom 25. November 2008 (Stand 1. Oktober 2020)
+Vom 25. November 2008 (Stand 1. Januar 2023)
 
 Der Regierungsrat,
 
@@ -100,7 +100,7 @@ beschliesst:
 
 **Maximaler jährlicher Mietzinsbeitrag**
 
-<sup>1</sup> Der Mietzinsbeitrag beträgt höchstens CHF 12'000 pro Jahr.
+<sup>1</sup> Der Mietzinsbeitrag beträgt höchstens CHF 12'720 pro Jahr.
 
 #### § 9
 
@@ -140,11 +140,11 @@ beschliesst:
 
 <sup>2</sup> Für die Nebenkosten werden folgende Pauschalen berücksichtigt:
 
-- a) Wohnungen mit einem Zimmer: CHF 1'080 pro Jahr bzw. CHF 90 pro Monat
-- b) Wohnungen mit zwei Zimmern: CHF 1'440 pro Jahr bzw. CHF 120 pro Monat
-- c) Wohnungen mit drei Zimmern: CHF 1'800 pro Jahr bzw. CHF 150 pro Monat
-- d) Wohnungen mit vier Zimmern: CHF 2'160 pro Jahr bzw. CHF 180 pro Monat
-- e) Wohnungen mit fünf und mehr Zimmern: CHF 2'520 pro Jahr bzw. CHF 210 pro Monat.
+- a) Wohnungen mit einem Zimmer: CHF 1'800 pro Jahr bzw. CHF 150 pro Monat;
+- b) Wohnungen mit zwei Zimmern: CHF 2'160 pro Jahr bzw. CHF 180 pro Monat;
+- c) Wohnungen mit drei Zimmern: CHF 2'520 pro Jahr bzw. CHF 210 pro Monat;
+- d) Wohnungen mit vier Zimmern: CHF 2'880 pro Jahr bzw. CHF 240 pro Monat;
+- e) Wohnungen mit fünf und mehr Zimmern: CHF 3'240 pro Jahr bzw. CHF 270 pro Monat.
 
 <sup>3</sup> Sind Nebenkosten im vertraglich festgelegten Jahresmietzins eingeschlossen, werden 85% desselben, zuzüglich einer Pauschale für Nebenkosten gemäss Abs. 2, als massgebend anerkannt.
 
@@ -162,11 +162,11 @@ beschliesst:
 
 <table>
 <tr><th>Anzahl Zimmer pro Wohnung</th><th>Mindestmietzins pro Jahr in CHF</th><th>Höchstmietzins pro Jahr in CHF</th></tr>
-<tr><td>1</td><td>4'800</td><td>10'800</td></tr>
-<tr><td>2</td><td>6'000</td><td>14'400</td></tr>
-<tr><td>3</td><td>7'200</td><td>19'200</td></tr>
-<tr><td>4</td><td>8'400</td><td>22'800</td></tr>
-<tr><td>5 und mehr</td><td>9'600</td><td>27'600</td></tr>
+<tr><td>1</td><td>5'520</td><td>11'520</td></tr>
+<tr><td>2</td><td>6'720</td><td>15'120</td></tr>
+<tr><td>3</td><td>7'920</td><td>19'920</td></tr>
+<tr><td>4</td><td>9'120</td><td>23'520</td></tr>
+<tr><td>5 und mehr</td><td>10'320</td><td>28'320</td></tr>
 </table>
 
 ## IV. Antragsstellung, Anspruchsbeginn, Auszahlungsmodus, Vollzug, Rechtsmittelverfahren
