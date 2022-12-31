@@ -4,11 +4,11 @@ title: "Ordonnance du 11 novembre 2015 sur la lutte contre le blanchiment d'arge
 short: OBA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-791-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-791-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/fr"
 
 (Ordonnance sur le blanchiment d’argent, OBA)
 
-du 11 novembre 2015 (Etat le 1<sup>er</sup> août 2021)
+du 11 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -35,11 +35,14 @@ arrête:
 
 La présente ordonnance fixe:
 
-- a. les exigences régissant l’activité d’intermédiaire financier exercée à titre professionnel;
+- a.[^1-1] les exigences régissant l’activité d’intermédiaire financier exercée à titre professionnel au sens de l’art. 2, al. 3, LBA;
+- a<sup>bis</sup>.[^1-2] les obligations que doivent respecter les intermédiaires financiers au sens de l’art. 2, al. 2 et 3, LBA en cas de soupçon de blanchiment d’argent (art. 9 à 11 LBA);
 - b. les obligations de diligence et de communication dont doivent s’acquitter les négociants au sens des art. 8*a* et 9, al. 1<sup>bis</sup>, LBA;
-- c.[^1-1] la surveillance des intermédiaires financiers au sens de l’art. 2, al. 3, LBA par des organismes d’autorégulation reconnus.
+- c.[^1-3] la surveillance des intermédiaires financiers au sens de l’art. 2, al. 3, LBA par des organismes d’autorégulation reconnus.
 
-[^1-1]: Introduite par l’annexe 1 ch. II 12 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-3]: Introduite par l’annexe 1 ch. II 12 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 2
 
@@ -49,7 +52,7 @@ La présente ordonnance fixe:
 
 La présente ordonnance s’applique:
 
-- a. aux intermédiaires financiers au sens de l’art. 2, al. 3, LBA, qui exercent leur activité en Suisse ou depuis la Suisse;
+- a.[^2-1] aux intermédiaires financiers au sens de l’art. 2, al. 2 et 3, LBA, qui exercent leur activité en Suisse ou depuis la Suisse;
 - b. aux négociants au sens de l’art. 2, al. 1, let. b, LBA, qui exercent leur activité en Suisse ou depuis la Suisse.
 
 <sup>2</sup>
@@ -76,6 +79,8 @@ Ne sont pas considérés comme intermédiaires financiers au sens de l’art. 2,
   - 4\. ils sont rémunérés par l’intermédiaire financier et non par le client final,
   - 5\. ils n’exercent l’activité de transmission de fonds ou de valeurs que pour un intermédiaire financier autorisé ou affilié à un OAR, et
   - 6\. ils ont conclu avec l’intermédiaire financier une convention écrite portant sur les conditions précitées.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## Chapitre 2 Intermédiaires financiers
 
@@ -236,26 +241,78 @@ Pour l’activité de négoce, le critère déterminant est le bénéfice brut a
 
 #### Art. 11
 
-**Passage à l’activité exercée à titre professionnel**
+**Passage à l’activité exercée à titre professionnel**[^11-1]
 
 <sup>1</sup>
 
-Quiconque passe d’une activité d’intermédiaire financier exercée à titre non professionnel à une activité exercée à titre professionnel doit:
+Quiconque passe d’une activité d’intermédiaire financier exercée à titre non professionnel à une activité d’intermédiaire financier au sens de l’art. 2, al. 3, exercée à titre professionnel doit:
 
 - a. respecter aussitôt les obligations visées aux art. 3 à 11 LBA, et
-- b. dans un délai de deux mois à compter du changement de statut, avoir déposé une demande d’affiliation à un OAR ou une demande d’autorisation d’exercer l’activité à titre professionnel auprès de l’Autorité fédérale de surveillance des marchés financiers (FINMA).
+- b. dans un délai de deux mois à compter du changement de statut, avoir déposé une demande d’affiliation à un OAR.
 
-<sup>2</sup> Tant qu’ils ne sont pas affiliés à un OAR ou que l’autorisation n’a pas été octroyée par la FINMA, ces intermédiaires financiers ont l’interdiction d’effectuer les actes qui ne sont pas absolument nécessaires à la conservation des valeurs patrimoniales.
+<sup>2</sup> Tant qu’il n’est pas affilié à un OAR, un tel intermédiaire financier a l’interdiction d’effectuer tout acte qui n’est pas absolument nécessaire à la conservation des valeurs patrimoniales.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 12
 
 **Démission ou exclusion d’un OAR**
 
-<sup>1</sup> Lorsqu’un intermédiaire financier qui entend poursuivre son activité d’intermédiaire financier à titre professionnel démissionne ou est exclu d’un OAR, il est tenu de déposer, dans les deux mois qui suivent la démission ou la décision d’exclusion, une demande d’affiliation auprès d’un autre OAR ou une demande d’autorisation d’exercer l’activité à titre professionnel auprès de la FINMA.
+<sup>1</sup> Lorsqu’un intermédiaire financier qui entend poursuivre son activité d’intermédiaire financier à titre professionnel démissionne ou est exclu d’un OAR, il est tenu de déposer une demande d’affiliation auprès d’un autre OAR dans les deux mois qui suivent la démission ou l’entrée en force de la décision d’exclusion.[^12-1]
 
 <sup>2</sup> Jusqu’à l’obtention de la décision concernant la demande, il n’est autorisé à poursuivre son activité que dans le cadre des relations d’affaires existantes.
 
-<sup>3</sup> S’il n’a pas déposé de demande auprès d’un OAR ni auprès de la FINMA dans les deux mois, ou si sa demande d’affiliation ou d’autorisation a été rejetée, il lui est interdit de poursuivre son activité d’intermédiaire financier.
+<sup>3</sup> S’il n’a pas déposé de demande auprès d’un OAR dans le délai prescrit ou si sa demande d’affiliation a été rejetée, il lui est interdit de poursuivre son activité d’intermédiaire financier.[^12-2]
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### Section 3 Obligations en cas de soupçon de blanchiment d’argent
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 12a
+
+**Interdiction de rompre la relation d’affaires**
+
+<sup>1</sup> Un intermédiaire financier ne peut pas rompre de lui-même une relation d’affaires lorsque les conditions d’une communication au sens de l’art. 9 LBA sont remplies ou lorsqu’il exerce son droit de communication prévu à l’art. 305<sup>ter</sup>, al. 2, du code pénal (CP)[^12a-1].
+
+<sup>2</sup>
+
+Lorsqu’il existe des signes concrets de l’imminence de mesures de sûreté d’une autorité, l’intermédiaire financier ne peut pas:
+
+- a. rompre une relation d’affaires pour laquelle il décide de ne pas exercer le droit de communication prévu à l’art. 305<sup>ter</sup>, al. 2, CP, bien que les conditions en soient remplies;
+- b. autoriser le retrait d’importantes valeurs patrimoniales.
+
+[^12a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12b
+
+**Rupture de la relation d’affaires**
+
+<sup>1</sup>
+
+Outre le cas prévu à l’art. 9*b*, al. 1, LBA, l’intermédiaire financier peut rompre la relation d’affaires dans les cas suivants:
+
+- a. il ne reçoit, après que le Bureau de communication en matière de blanchiment d’argent (bureau de communication) l’a informé dans un délai de 40 jours ouvrables suivant une communication en vertu de l’art. 9, al. 1, let. a, LBA ou de l’art. 305<sup>ter</sup>, al. 2, CP[^12b-1] qu’il transmet les informations communiquées à une autorité de poursuite pénale, aucune décision de l’autorité de poursuite pénale dans un délai de 5 jours ouvrables;
+- b. il ne reçoit, après une communication en vertu de l’art. 9, al. 1, let. c, LBA, aucune décision de l’autorité de poursuite pénale dans un délai de 5 jours ouvrables;
+- c. il est informé, après un blocage ordonné par l’autorité de poursuite pénale sur la base d’une communication en vertu de l’art. 9, al. 1, LBA ou de l’art. 305<sup>ter</sup>, al. 2, CP, de la levée dudit blocage, sous réserve d’autres communications d’une autorité de poursuite pénale.
+
+<sup>2</sup> Lorsqu’il rompt une relation d’affaires pour laquelle il décide de ne pas exercer le droit de communication prévu à l’art. 305<sup>ter</sup>, al. 2, CP, bien que les conditions en soient remplies, il ne peut autoriser le retrait d’importantes valeurs patrimoniales que sous une forme permettant aux autorités de poursuite pénale d’en suivre la trace.
+
+<sup>3</sup> Dans les cas visés à l’al. 1, la rupture de la relation d’affaires et sa date ne doivent pas être communiquées au bureau de communication.
+
+[^12b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12c
+
+**Information à un intermédiaire financier**
+
+Lorsqu’un intermédiaire financier informe un autre intermédiaire financier du fait qu’il a effectué une communication en vertu de l’art. 9 LBA ou de l’art. 305<sup>ter</sup>, al. 2, CP[^12c-1], il le consigne sous une forme appropriée.
+
+[^12c-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## Chapitre 3 Négociants
 
@@ -379,14 +436,15 @@ Il existe des indices de blanchiment d’argent notamment lorsque:
 
 **Obligation de communiquer**
 
-<sup>1</sup> On est en présence d’un soupçon fondé déclenchant une obligation de communiquer au sens de l’art. 9, al. 1<sup>bis</sup>, LBA si le soupçon repose sur une indication concrète ou sur plusieurs indices laissant supposer que les moyens de paiement au comptant proviennent d’un acte délictueux et si les clarifications complémentaires visées à l’art. 19 ne permettent pas de l’écarter.
+<sup>1</sup> Il y a des soupçons fondés déclenchant une obligation de communiquer au sens de l’art. 9, al. 1<sup>bis</sup>, LBA lorsque les soupçons reposent sur un signe concret ou sur plusieurs indices laissant supposer que les moyens de paiement au comptant proviennent d’un acte délictueux et que les clarifications complémentaires visées à l’art. 19 ne permettent pas de les dissiper.[^20-1]
 
 <sup>2</sup> Une communication doit également être faite lorsque le négociant ne peut pas attribuer à une infraction spécifique l’acte délictueux dont proviennent les moyens de paiement au comptant.
 
-<sup>3</sup> La transmission des communications est régie par l’art. 3*a*, al. 1, 2 et 3, de l’ordonnance du 25 août 2004 sur le Bureau de communication en matière de blanchiment d’argent[^20-1].[^20-2]
+<sup>3</sup> La transmission des communications est régie par l’art. 3*a*, al. 1, 2 et 3, de l’ordonnance du 25 août 2004 sur le Bureau de communication en matière de blanchiment d’argent[^20-2].[^20-3]
 
-[^20-1]: [RS 955.23](https://fedlex.data.admin.ch/eli/cc/2004/626)
-[^20-2]: Nouvelle teneur selon le ch. III de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^20-2]: [RS 955.23](https://fedlex.data.admin.ch/eli/cc/2004/626)
+[^20-3]: Nouvelle teneur selon le ch. III de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4701](https://fedlex.data.admin.ch/eli/oc/2019/764)).
 
 #### Art. 21
 
@@ -416,7 +474,7 @@ Dans ce formulaire ou document, le négociant inscrit:
 
 [^22-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-## Chapitre 3*a***** Organismes d’autorégulation
+## Chapitre 3*a* Organismes d’autorégulation
 
 [^chap3a-1]
 
@@ -500,7 +558,7 @@ La formation continue selon les art. 22b et 22c, y compris celle basée sur les 
 
 <sup>3</sup> Les heures d’étude individuelle ne sont pas prises en compte.
 
-## Chapitre 4 Dispositions transitoires et dispositions finales****
+## Chapitre 4 Dispositions transitoires et dispositions finales
 
 [^chap4-1]
 
@@ -518,7 +576,7 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-## Disposition transitoire relative à la modification du 6 novembre 2019****
+## Disposition transitoire relative à la modification du 6 novembre 2019
 
 [^u1-1]
 
@@ -543,9 +601,6 @@ Adresse:
 Date de naissance:
 
 Nationalité:
-
-- [tab]
-- [tab]
 
 Acquisition au nom d’une personne morale ou d’une société de personnes?
 

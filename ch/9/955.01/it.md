@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 novembre 2015 relativa alla lotta contro il riciclagg
 short: ORD
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: it
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2015-791-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-791-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/it"
 
 (Ordinanza sul riciclaggio di denaro, ORD)
 
-dell’11 novembre 2015 (Stato 1° agosto 2021)
+dell’11 novembre 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -35,11 +35,14 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. i requisiti per l’esercizio a titolo professionale dell’attività di intermediario finanziario;
+- a.[^1-1] i requisiti per l’esercizio a titolo professionale dell’attività di intermediario finanziario secondo l’articolo 2 capoverso 3 LRD;
+- a<sup>bis</sup>.[^1-2] gli obblighi in caso di sospetto di riciclaggio di denaro (art. 9–11 LRD) che gli intermediari finanziari secondo l’articolo 2 capoversi 2 e 3 LRD devono osservare;
 - b. gli obblighi di diligenza e di comunicazione a cui sottostanno i commercianti conformemente agli articoli 8*a* e 9 capoverso 1<sup>bis</sup> LRD;
-- c.[^1-1] la vigilanza sugli intermediari finanziari secondo l’articolo 2 capoverso 3 LRD da parte degli organismi di autodisciplina riconosciuti.
+- c.[^1-3] la vigilanza sugli intermediari finanziari secondo l’articolo 2 capoverso 3 LRD da parte degli organismi di autodisciplina riconosciuti.
 
-[^1-1]: Introdotta dall’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-3]: Introdotta dall’all. 1 n. II 12 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 2
 
@@ -49,7 +52,7 @@ La presente ordinanza disciplina:
 
 La presente ordinanza si applica:
 
-- a. agli intermediari finanziari ai sensi dell’articolo 2 capoverso 3 LRD che esercitano la loro attività in Svizzera o dalla Svizzera;
+- a.[^2-1] agli intermediari finanziari secondo l’articolo 2 capoversi 2 e 3 LRD che esercitano la loro attività in Svizzera o dalla Svizzera;
 - b. ai commercianti ai sensi dell’articolo 2 capoverso 1 lettera b LRD che esercitano la loro attività in Svizzera o dalla Svizzera.
 
 <sup>2</sup>
@@ -76,6 +79,8 @@ Non sono considerati intermediari finanziari ai sensi dell’articolo 2 capovers
   - 4\. è retribuito dall’intermediario finanziario e non dal cliente finale,
   - 5\. effettua operazioni di trasferimento di denaro o di valori per un unico intermediario finanziario autorizzato o affiliato a un OAD, e
   - 6\. ha concluso con l’intermediario finanziario un accordo scritto concernente l’osservanza delle condizioni che precedono.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## Capitolo 2: Intermediari finanziari
 
@@ -236,26 +241,78 @@ Nel caso dell’attività commerciale, ai fini della valutazione del criterio di
 
 #### Art. 11
 
-**Passaggio a un’attività esercitata a titolo professionale**
+**Passaggio a un’attività esercitata a titolo professionale**[^11-1]
 
 <sup>1</sup>
 
-Chiunque passa da un’attività di intermediario finanziario esercitata a titolo non professionale a un’attività esercitata a titolo professionale deve:
+Chiunque passa da un’attività di intermediario finanziario esercitata a titolo non professionale a un’attività di intermediario finanziario secondo l’articolo 2 capoverso 3 LRD esercitata a titolo professionale deve:
 
 - a. rispettare senza indugio gli obblighi di cui agli articoli 3–11 LRD; e
-- b. presentare, entro due mesi dal cambiamento di statuto, una richiesta di affiliazione a un OAD oppure una richiesta di autorizzazione all’esercizio dell’attività a titolo professionale all’Autorità federale di vigilanza sui mercati finanziari (FINMA).
+- b. presentare, entro due mesi dal cambiamento di statuto, una richiesta di affiliazione a un OAD.
 
-<sup>2</sup> Fino ad avvenuta affiliazione a un OAD oppure fino al rilascio di un’autorizzazione da parte della FINMA, all’intermediario finanziario in questione è vietato intraprendere azioni in tale veste che vanno oltre a quelle strettamente necessarie alla conservazione dei valori patrimoniali.
+<sup>2</sup> Fino ad avvenuta affiliazione a un OAD, all’intermediario finanziario in questione è vietato intraprendere azioni in tale veste che vanno oltre a quelle strettamente necessarie alla conservazione dei valori patrimoniali.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 12
 
 **Uscita ed espulsione da un OAD**
 
-<sup>1</sup> Se un intermediario finanziario che intende continuare a esercitare l’attività di intermediario finanziario a titolo professionale esce da un OAD o ne viene espulso, deve presentare una richiesta di affiliazione a un altro OAD oppure una richiesta di autorizzazione all’esercizio dell’attività a titolo professionale alla FINMA entro due mesi dall’uscita o dal passaggio in giudicato della decisione di espulsione.
+<sup>1</sup> Se un intermediario finanziario che intende continuare a esercitare l’attività di intermediario finanziario a titolo professionale esce da un OAD o ne viene espulso, deve presentare una richiesta di affiliazione a un altro OAD entro due mesi dall’uscita o dal passaggio in giudicato della decisione di espulsione.[^12-1]
 
 <sup>2</sup> Fino al ricevimento della decisione in merito alla richiesta, può continuare a svolgere la sua attività solo nell’ambito delle relazioni d’affari già esistenti.
 
-<sup>3</sup> Se entro la scadenza di due mesi non ha presentato una richiesta né a un OAD né alla FINMA, oppure se gli viene rifiutata l’affiliazione o l’autorizzazione, gli è vietato continuare a svolgere la sua attività di intermediario finanziario.
+<sup>3</sup> Se entro il termine prescritto non ha presentato una richiesta a un OAD, oppure se gli viene rifiutata l’affiliazione, gli è vietato continuare a svolgere la sua attività di intermediario finanziario.[^12-2]
+
+[^12-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### Sezione 3: Obblighi in caso di sospetto di riciclaggio di denaro
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Introdotta dal n. I dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 12a
+
+**Divieto di interrompere la relazione d’affari**
+
+<sup>1</sup> Un intermediario finanziario non può interrompere di sua iniziativa una relazione d’affari se sono soddisfatte le condizioni per effettuare una comunicazione ai sensi dell’articolo 9 LRD o se si avvale del diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 del Codice penale (CP)[^12a-1].
+
+<sup>2</sup>
+
+Se sussistono indizi concreti di imminenti misure di sicurezza da parte di un’autorità, l’intermediario finanziario non può:
+
+- a. interrompere una relazione d’affari per la quale decide di non esercitare il diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP anche se le condizioni sono soddisfatte;
+- b. permettere il prelievo di importanti valori patrimoniali.
+
+[^12a-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12b
+
+**Interruzione della relazione d’affari**
+
+<sup>1</sup>
+
+Oltre al caso previsto nell’articolo 9*b* capoverso 1 LRD, l’intermediario finanziario può interrompere la relazione d’affari se:
+
+- a. dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera a LRD o secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^12b-1], l’Ufficio di comunicazione in materia di riciclaggio di denaro (Ufficio di comunicazione) gli notifica entro 40 giorni feriali la trasmissione a un’autorità di perseguimento penale delle informazioni comunicate e dopo questa notifica egli non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni feriali;
+- b. dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni feriali;
+- c. dopo il blocco disposto dall’autorità di perseguimento penale in base a una comunicazione ai sensi dell’articolo 9 LRD o secondo l’articolo 305<sup>ter</sup> capoverso 2 CP viene informato della sua revoca, salvo diversa comunicazione da parte dell’autorità di perseguimento penale.
+
+<sup>2</sup> Se interrompe una relazione d’affari per la quale decide di non esercitare il diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP anche se le condizioni sono soddisfatte, l’intermediario finanziario può permettere il prelievo di importanti valori patrimoniali soltanto in una forma tale da consentire alle autorità di perseguimento penale di seguire la traccia della transazione.
+
+<sup>3</sup> Nei casi di cui al capoverso 1, l’interruzione della relazione d’affari e la data dell’interruzione non devono essere comunicate all’Ufficio di comunicazione.
+
+[^12b-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12c
+
+**Informazione a un intermediario finanziario**
+
+Un intermediario finanziario che informa un altro intermediario finanziario di avere effettuato una comunicazione ai sensi dell’articolo 9 LRD o secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^12c-1] lo documenta in forma adeguata.
+
+[^12c-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## Capitolo 3: Commercianti
 
@@ -416,7 +473,7 @@ Nel modulo o documento vengono riportati:
 
 [^22-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-## Capitolo 3*a*:**** Organismi di autodisciplina
+## Capitolo 3*a*: Organismi di autodisciplina
 
 [^chap3a-1]
 
@@ -500,7 +557,7 @@ I corsi di perfezionamento ai sensi degli articoli 22*b* e 22*c*, compresi i cor
 
 <sup>3</sup> Lo studio autodidattico non è considerato perfezionamento.
 
-## Capitolo 4: Disposizioni transitorie e finali****
+## Capitolo 4: Disposizioni transitorie e finali
 
 [^chap4-1]
 
@@ -518,7 +575,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-## Disposizione transitoria della modifica del 6 novembre 2019****
+## Disposizione transitoria della modifica del 6 novembre 2019
 
 [^u1-1]
 

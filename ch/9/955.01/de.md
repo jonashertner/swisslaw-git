@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2015 über die Bekämpfung der Geldwäschere
 short: GwV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/791"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2015-11-11
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2015-791-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/791/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-791-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/791/20210801/de"
 
 (Geldwäschereiverordnung, GwV)
 
-vom 11. November 2015 (Stand am 1. August 2021)
+vom 11. November 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -35,11 +35,14 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. die Anforderungen an die berufsmässige Ausübung der Tätigkeit als Finanzintermediär;
+- a.[^1-1] die Anforderungen an die berufsmässige Ausübung der Tätigkeit als Finanzintermediär nach Artikel 2 Absatz 3 GwG;
+- a<sup>bis</sup>.[^1-2] die Pflichten bei Geldwäschereiverdacht (Art. 9–11 GwG), welche die Finanzintermediäre nach Artikel 2 Absätze 2 und 3 erfüllen müssen;
 - b. die Sorgfalts- und Meldepflichten, die Händlerinnen und Händler nach den Artikeln 8*a* und 9 Absatz 1<sup>bis</sup> GwG erfüllen müssen;
-- c.[^1-1] die Aufsicht über Finanzintermediäre nach Artikel 2 Absatz 3 GwG durch anerkannte Selbstregulierungsorganisationen.
+- c.[^1-3] die Aufsicht über Finanzintermediäre nach Artikel 2 Absatz 3 GwG durch anerkannte Selbstregulierungsorganisationen.
 
-[^1-1]: Eingefügt durch Anhang 1 Ziff. II 12 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-3]: Eingefügt durch Anhang 1 Ziff. II 12 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
 #### Art. 2
 
@@ -49,7 +52,7 @@ Diese Verordnung regelt:
 
 Diese Verordnung gilt für:
 
-- a. Finanzintermediäre nach Artikel 2 Absatz 3 GwG, die in der Schweiz oder von der Schweiz aus tätig sind;
+- a.[^2-1] Finanzintermediäre nach Artikel 2 Absätze 2 und 3 GwG, die in der Schweiz oder von der Schweiz aus tätig sind;
 - b. Händlerinnen und Händler nach Artikel 2 Absatz 1 Buchstabe b GwG, die in der Schweiz oder von der Schweiz aus tätig sind.
 
 <sup>2</sup>
@@ -76,6 +79,8 @@ Keine Finanzintermediäre nach Artikel 2 Absatz 3 GwG sind:
   - 4\. vom Finanzintermediär und nicht von der Endkundin oder dem Endkunden entschädigt werden,
   - 5\. beim Geld- oder Wertübertragungsgeschäft nur für einen einzigen bewilligten oder einer SRO angeschlossenen Finanzintermediär tätig sind, und
   - 6\. mit dem Finanzintermediär über die Einhaltung der vorstehenden Anforderungen eine schriftliche Vereinbarung abgeschlossen haben.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## 2. Kapitel: Finanzintermediäre
 
@@ -118,11 +123,12 @@ Als nicht in Bargeld bestehende Zahlungsmittel gelten insbesondere:
 - b. Reisechecks;
 - c. virtuelle Währungen, die tatsächlich oder nach der Absicht des Organisators oder Herausgebers als Zahlungsmittel für den Erwerb von Waren oder Dienstleistungen eingesetzt werden oder der Geld- und Wertübertragung dienen.[^4-2]
 
-<sup>2</sup> Als Geld- oder Wertübertragungsgeschäft gilt der Transfer von Vermögenswerten durch Entgegennahme von Bargeld, Edelmetallen, virtuellen Währungen, Schecks oder sonstigen Zahlungsmitteln und:
+<sup>2</sup>
 
-a. Auszahlung einer entsprechenden Summe in Bargeld, Edelmetallen oder virtuellen Währungen; oder
+Als Geld- oder Wertübertragungsgeschäft gilt der Transfer von Vermögenswerten durch Entgegennahme von Bargeld, Edelmetallen, virtuellen Währungen, Schecks oder sonstigen Zahlungsmitteln und:
 
-b. bargeldlose Übertragung oder Überweisung über ein Zahlungs- oder Abrechnungssystem.
+- a. Auszahlung einer entsprechenden Summe in Bargeld, Edelmetallen oder virtuellen Währungen; oder
+- b. bargeldlose Übertragung oder Überweisung über ein Zahlungs- oder Abrechnungssystem.
 
 [^4-1]: Fassung gemäss Ziff. I 8 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
 [^4-2]: Eingefügt durch Ziff. I 8 der V vom 18. Juni 2021 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 400](https://fedlex.data.admin.ch/eli/oc/2021/400)).
@@ -163,11 +169,12 @@ Als Tätigkeiten im Sinne von Artikel 2 Absatz 3 Buchstaben f und g GwG gelten f
 
 <sup>2</sup> Als Sitzgesellschaften im Sinne dieser Verordnung gelten juristische Personen, Gesellschaften, Anstalten, Stiftungen, Trusts, Treuhandunternehmungen und ähnliche Verbindungen, die kein Handels-, Fabrikations- oder anderes nach kaufmännischer Art geführtes Gewerbe betreiben.
 
-<sup>3</sup> Nicht als Sitzgesellschaften gelten Gesellschaften, die:
+<sup>3</sup>
 
-a. die Wahrung der Interessen ihrer Mitglieder oder ihrer Begünstigten in gemeinsamer Selbsthilfe bezwecken oder politische, religiöse, wissenschaftliche, künstlerische, gemeinnützige, gesellige oder ähnliche Zwecke verfolgen;
+Nicht als Sitzgesellschaften gelten Gesellschaften, die:
 
-b. eine oder mehrere operativ tätige Gesellschaften mehrheitlich halten und deren Zweck nicht hauptsächlich in der Verwaltung von Vermögen Dritter besteht (Holdinggesellschaften).
+- a. die Wahrung der Interessen ihrer Mitglieder oder ihrer Begünstigten in gemeinsamer Selbsthilfe bezwecken oder politische, religiöse, wissenschaftliche, künstlerische, gemeinnützige, gesellige oder ähnliche Zwecke verfolgen;
+- b. eine oder mehrere operativ tätige Gesellschaften mehrheitlich halten und deren Zweck nicht hauptsächlich in der Verwaltung von Vermögen Dritter besteht (Holdinggesellschaften).
 
 [^6-1]: Fassung gemäss Anhang 1 Ziff. II 12 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -234,26 +241,78 @@ Für die Handelstätigkeit wird zur Beurteilung des Kriteriums nach Artikel 7 Ab
 
 #### Art. 11
 
-**Wechsel zur berufsmässigen Tätigkeit**
+**Wechsel zur berufsmässigen Tätigkeit**[^11-1]
 
 <sup>1</sup>
 
-Wer von einer nichtberufsmässigen zu einer berufsmässigen Tätigkeit als Finanzintermediär wechselt, muss:
+Wer von einer nichtberufsmässigen Tätigkeit als Finanzintermediär zu einer berufsmässigen Tätigkeit als Finanzintermediär nach Artikel 2 Absatz 3 wechselt, muss:
 
 - a. unverzüglich die Pflichten nach den Artikeln 3–11 GwG einhalten; und
-- b. innerhalb von zwei Monaten nach dem Wechsel bei einer SRO ein Gesuch um Anschluss oder bei der Eidgenössischen Finanzmarktaufsicht (FINMA) ein Gesuch um Bewilligung für die berufsmässige Ausübung der Tätigkeit einreichen.
+- b. innerhalb von zwei Monaten nach dem Wechsel bei einer SRO ein Gesuch um Anschluss einreichen.
 
-<sup>2</sup> Bis zum Anschluss an eine SRO oder bis zur Erteilung einer Bewilligung durch die FINMA ist es diesen Finanzintermediären untersagt, als Finanzintermediär Handlungen vorzunehmen, die weiter gehen als diejenigen, die zwingend zur Erhaltung der Vermögenswerte erforderlich sind.
+<sup>2</sup> Bis zum Anschluss an eine SRO ist es einem solchen Finanzintermediär untersagt, als Finanzintermediär Handlungen vorzunehmen, die weiter gehen als diejenigen, die zwingend zur Erhaltung der Vermögenswerte erforderlich sind.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 12
 
 **Austritt und Ausschluss aus einer SRO**
 
-<sup>1</sup> Tritt ein Finanzintermediär, der weiterhin berufsmässig als Finanzintermediär tätig sein will, aus einer SRO aus oder wird er aus einer solchen ausgeschlossen, so muss er innerhalb von zwei Monaten nach dem Austritt oder nach dem rechtskräftigen Ausschlussentscheid bei einer anderen SRO ein Gesuch um Anschluss oder bei der FINMA ein Gesuch um Bewilligung für die berufsmässige Ausübung der Tätigkeit einreichen.
+<sup>1</sup> Tritt ein Finanzintermediär, der weiterhin berufsmässig als Finanzintermediär tätig sein will, aus einer SRO aus oder wird er aus einer solchen ausgeschlossen, so muss er innerhalb von zwei Monaten nach dem Austritt oder nach dem rechtskräftigen Ausschlussentscheid bei einer anderen SRO ein Gesuch um Anschluss einreichen.[^12-1]
 
 <sup>2</sup> Er darf seine Tätigkeit bis zum Erhalt des Entscheids über das Gesuch nur im Rahmen der bestehenden Geschäftsbeziehungen weiterhin ausüben.
 
-<sup>3</sup> Hat er innert der Zwei-Monatsfrist weder bei einer SRO noch bei der FINMA ein Gesuch eingereicht oder wird ihm der Anschluss oder die Bewilligung verweigert, so ist es ihm untersagt, weiterhin als Finanzintermediär tätig zu sein.
+<sup>3</sup> Hat er innert der vorgeschriebenen Frist kein Gesuch bei einer SRO eingereicht oder wird ihm der Anschluss verweigert, so ist es ihm untersagt, weiterhin als Finanzintermediär tätig zu sein.[^12-2]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 3. Abschnitt: Pflichten bei Geldwäschereiverdacht
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 12a
+
+**Verbot des Abbruchs der Geschäftsbeziehung**
+
+<sup>1</sup> Ein Finanzintermediär darf eine Geschäftsbeziehung nicht von sich aus abbrechen, wenn die Voraussetzungen für eine Meldung nach Artikel 9 GwG erfüllt sind oder wenn er das Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 des Strafgesetzbuches[^12a-1] (StGB) in Anspruch nimmt.
+
+<sup>2</sup>
+
+Wenn konkrete Anzeichen bestehen, dass behördliche Sicherstellungsmassnahmen unmittelbar bevorstehen, ist dem Finanzintermediär untersagt:
+
+- a. eine Geschäftsbeziehung abzubrechen, für welche er entscheidet, das Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB nicht in Anspruch zu nehmen, obwohl die Voraussetzungen erfüllt sind;
+- b. den Rückzug bedeutender Vermögenswerte zu gestatten.
+
+[^12a-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12b
+
+**Abbruch der Geschäftsbeziehung**
+
+<sup>1</sup>
+
+Ausser in dem in Artikel 9*b* Absatz 1 GwG vorgesehenen Fall kann der Finanzintermediär die Geschäftsbeziehung abbrechen, wenn:
+
+- a. die Meldestelle für Geldwäscherei (Meldestelle) ihm nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe a GwG oder Artikel 305<sup>ter</sup> Absatz 2 StGB[^12b-1] innert 40 Arbeitstagen mitteilt, dass sie die gemeldeten Informationen einer Strafverfolgungsbehörde übermittelt, und er nach dieser Mitteilung innert fünf Arbeitstagen keine Verfügung der Strafverfolgungsbehörde erhält;
+- b. er nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe c GwG nicht innert fünf Arbeitstagen eine Verfügung von der Strafverfolgungsbehörde erhält;
+- c. er nach einer Sperre, die durch die Strafverfolgungsbehörde gestützt auf eine Meldung nach Artikel 9 Absatz 1 GwG oder Artikel 305<sup>ter</sup> Absatz 2 StGB angeordnet wurde, über deren Aufhebung informiert wird, es sei denn, eine Strafverfolgungsbehörde teilt ihm etwas anderes mit.
+
+<sup>2</sup> Bricht der Finanzintermediär eine Geschäftsbeziehung ab, für welche er entscheidet, das Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB nicht in Anspruch zu nehmen, obwohl die Voraussetzungen erfüllt sind, so darf er den Rückzug bedeutender Vermögenswerte nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.
+
+<sup>3</sup> In den Fällen nach Absatz 1 müssen der Abbruch der Geschäftsbeziehung und das Datum des Abbruchs der Meldestelle nicht mitgeteilt werden.
+
+[^12b-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 12c
+
+**Information an einen Finanzintermediär**
+
+Informiert ein Finanzintermediär einen anderen Finanzintermediär darüber, dass er eine Meldung nach Artikel 9 GwG oder Artikel 305<sup>ter</sup> Absatz 2 StGB[^12c-1] erstattet hat, so hält er diese Tatsache in geeigneter Form fest.
+
+[^12c-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## 3. Kapitel: Händlerinnen und Händler
 
@@ -337,7 +396,8 @@ Ist die Vertragspartei nicht die wirtschaftlich berechtigte Person, so verlangt 
 
   - 1\. die natürlichen Personen, die über Stimmen oder Kapital im Umfang von mindestens 25 Prozent direkt oder indirekt, allein oder in gemeinsamer Absprache mit Dritten verfügen, oder
   - 2\. die natürlichen Personen, die auf andere Weise die Kontrolle ausüben.
-  - [tab] <sup>3</sup> Können keine wirtschaftlich berechtigten Personen nach Absatz 2 Buchstabe b festgestellt werden, so ist die Identität des obersten Mitglieds des leitenden Organs festzustellen.
+
+<sup>3</sup> Können keine wirtschaftlich berechtigten Personen nach Absatz 2 Buchstabe b festgestellt werden, so ist die Identität des obersten Mitglieds des leitenden Organs festzustellen.
 
 <sup>4</sup>
 
@@ -413,7 +473,7 @@ In das Formular oder Dokument eingetragen werden:
 
 [^22-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-## 3*a*. Kapitel:**** Selbstregulierungsorganisationen
+## 3*a*. Kapitel: Selbstregulierungsorganisationen
 
 [^chap3a-1]
 
@@ -497,7 +557,7 @@ Weiterbildungen nach den Artikeln 22*b* und 22*c*, einschliesslich solcher unter
 
 <sup>3</sup> Selbststudium gilt nicht als Weiterbildung.
 
-## 4. Kapitel: Übergangs- und Schlussbestimmungen****
+## 4. Kapitel: Übergangs- und Schlussbestimmungen
 
 [^chap4-1]
 
@@ -595,7 +655,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex2-lvlu1-2]
+…[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 2009 6403](https://fedlex.data.admin.ch/eli/oc/2009/782)]
 [^annex2-lvlu1-2]: Die Änderungen können unter [AS 2015 4819](https://fedlex.data.admin.ch/eli/oc/2015/791)konsultiert werden.
