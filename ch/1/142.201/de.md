@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2022-11-22
+version: 2023-01-01
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20221122-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20221122/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 22. November 2022)
+vom 24. Oktober 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -2177,7 +2177,7 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 [^87-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.03.2017, S. 1.
-[^87-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 (AS **202****2** 645).
+[^87-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-7]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^87-8]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^87-9]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
@@ -2388,48 +2388,48 @@ Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
 Anhang 1[^t-1]
 
-(Art. 19–19*b*)
+(Art. 19−19*b*)
 
 ## Höchstzahlen für Kurzaufenthaltsbewilligungen
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)).
 
 \1. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19 werden insgesamt auf 4000 festgesetzt:
 
 - a. Höchstzahlen für die Kantone: 2000
 
 <table>
-<tr><td>Zürich 394</td><td>Schaffhausen 18</td></tr>
-<tr><td>Bern 237</td><td>Appenzell A.Rh. 10</td></tr>
+<tr><td>Zürich 396</td><td>Schaffhausen 17</td></tr>
+<tr><td>Bern 236</td><td>Appenzell A.Rh. 10</td></tr>
 <tr><td>Luzern 93</td><td>Appenzell I.Rh. 3</td></tr>
-<tr><td>Uri 7</td><td>St. Gallen 115</td></tr>
+<tr><td>Uri 7</td><td>St. Gallen 114</td></tr>
 <tr><td>Schwyz 31</td><td>Graubünden 49</td></tr>
-<tr><td>Obwalden 9</td><td>Aargau 131</td></tr>
+<tr><td>Obwalden 8</td><td>Aargau 130</td></tr>
 <tr><td>Nidwalden 9</td><td>Thurgau 52</td></tr>
-<tr><td>Glarus 9</td><td>Tessin 94</td></tr>
-<tr><td>Zug 45</td><td>Waadt 178</td></tr>
+<tr><td>Glarus 8</td><td>Tessin 94</td></tr>
+<tr><td>Zug 45</td><td>Waadt 180</td></tr>
 <tr><td>Freiburg 57</td><td>Wallis 68</td></tr>
-<tr><td>Solothurn 55</td><td>Neuenburg 42</td></tr>
-<tr><td>Basel-Stadt 73</td><td>Genf 146</td></tr>
+<tr><td>Solothurn 54</td><td>Neuenburg 42</td></tr>
+<tr><td>Basel-Stadt 74</td><td>Genf 148</td></tr>
 <tr><td>Basel-Landschaft 58</td><td>Jura 17</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 2000
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2023 bis zum 31. Dezember 2023.
 
-\3. Die durch die Änderung vom 25. November 2020[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 24. November 2021[^annex1-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*a* werden insgesamt auf 3000 festgesetzt:
 
 <table>
-<tr><td>1. Januar–31. März</td><td>1. April–30. Juni</td><td>1. Juli–30. September</td><td>1. Oktober–31. Dezember</td></tr>
+<tr><th>1. Januar–31. März</th><th>1. April–30. Juni</th><th>1. Juli–30. September</th><th>1. Oktober–31. Dezember</th></tr>
 <tr><td>750</td><td>750</td><td>750</td><td>750</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2023 bis zum 31. Dezember 2023 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 25. November 2020 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 24. November 2021 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Kurzaufenthaltsbewilligungen für Personen nach Artikel 19*b* werden insgesamt auf 1400 festgesetzt:
 
@@ -2438,65 +2438,65 @@ Anhang 1[^t-1]
 <tr><td>350</td><td>350</td><td>350</td><td>350</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2023 bis zum 31. Dezember 2023 und werden quartalsweise freigegeben.
 
-[^annex1-lvlu1-1]: [AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
+[^annex1-lvlu1-1]: [AS 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)
 
 Anhang 2[^t-2]
 
-(Art. 20–20*b*)
+(Art. 20−20*b*)
 
 ## Höchstzahlen für Aufenthaltsbewilligungen
 
-[^t-2]: Fassung gemäss Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 721](https://fedlex.data.admin.ch/eli/oc/2022/721)).
 
 \1. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20 werden insgesamt auf 4500 festgesetzt:
 
 - a. Höchstzahlen für die Kantone: 1250
 
 <table>
-<tr><td>Zürich 246</td><td>Schaffhausen 11</td></tr>
+<tr><td>Zürich 247</td><td>Schaffhausen 11</td></tr>
 <tr><td>Bern 148</td><td>Appenzell A.Rh. 6</td></tr>
 <tr><td>Luzern 58</td><td>Appenzell I.Rh. 2</td></tr>
-<tr><td>Uri 4</td><td>St. Gallen 72</td></tr>
-<tr><td>Schwyz 20</td><td>Graubünden 31</td></tr>
-<tr><td>Obwalden 5</td><td>Aargau 82</td></tr>
+<tr><td>Uri 4</td><td>St. Gallen 71</td></tr>
+<tr><td>Schwyz 19</td><td>Graubünden 31</td></tr>
+<tr><td>Obwalden 5</td><td>Aargau 81</td></tr>
 <tr><td>Nidwalden 6</td><td>Thurgau 33</td></tr>
 <tr><td>Glarus 5</td><td>Tessin 59</td></tr>
-<tr><td>Zug 28</td><td>Waadt 111</td></tr>
+<tr><td>Zug 28</td><td>Waadt 112</td></tr>
 <tr><td>Freiburg 36</td><td>Wallis 43</td></tr>
 <tr><td>Solothurn 34</td><td>Neuenburg 26</td></tr>
-<tr><td>Basel-Stadt 46</td><td>Genf 91</td></tr>
+<tr><td>Basel-Stadt 46</td><td>Genf 92</td></tr>
 <tr><td>Basel-Landschaft 36</td><td>Jura 11</td></tr>
 </table>
 
 - b. Höchstzahl für den Bund: 3250
 
-\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022.
+\2. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2023 bis zum 31. Dezember 2023.
 
-\3. Die durch die Änderung vom 25. November 2020[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
+\3. Die durch die Änderung vom 24. November 2021[^annex2-lvlu1-1] dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden der Höchstzahl des Bundes (Ziff. 1 Bst. b) angerechnet.
 
 \4. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*a* werden insgesamt auf 500 festgesetzt:
 
 <table>
-<tr><td>1. Januar–31. März</td><td>1. April–30. Juni</td><td>1. Juli–30. September</td><td>1. Oktober–31. Dezember</td></tr>
+<tr><th>1. Januar–31. März</th><th>1. April–30. Juni</th><th>1. Juli–30. September</th><th>1. Oktober–31. Dezember</th></tr>
 <tr><td>125</td><td>125</td><td>125</td><td>125</td></tr>
 </table>
 
-\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
+\5. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2023 bis zum 31. Dezember 2023 und werden quartalsweise freigegeben.
 
-\6. Die durch die Änderung vom 25. November 2020 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
+\6. Die durch die Änderung vom 24. November 2021 dieser Verordnung freigegebenen, aber noch nicht ausgeschöpften Kontingente können weiterhin beansprucht werden. Sie werden auf das erste Quartal des Folgejahres übertragen.
 
 \7. Die Höchstzahlen für Aufenthaltsbewilligungen für Personen nach Artikel 20*b* werden insgesamt auf 2100 festgesetzt:
 
 <table>
-<tr><td>1. Januar–31. März</td><td>1. April–30. Juni</td><td>1. Juli–30. September</td><td>1. Oktober–31. Dezember</td></tr>
+<tr><th>1. Januar–31. März</th><th>1. April–30. Juni</th><th>1. Juli–30. September</th><th>1. Oktober–31. Dezember</th></tr>
 <tr><td>525</td><td>525</td><td>525</td><td>525</td></tr>
 </table>
 
-\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2022 bis zum 31. Dezember 2022 und werden quartalsweise freigegeben.
+\8. Die Höchstzahlen gelten für die Zeit vom 1. Januar 2023 bis zum 31. Dezember 2023 und werden quartalsweise freigegeben.
 
-[^annex2-lvlu1-1]: [AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
+[^annex2-lvlu1-1]: [AS 2021 841](https://fedlex.data.admin.ch/eli/oc/2021/841)
 
 Anhang 3[^t-3]
 
