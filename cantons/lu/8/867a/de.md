@@ -4,13 +4,13 @@ number: 867a
 title: Verordnung zum Betreuungs- und Pflegegesetz
 short: BPV
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-11-27
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-10
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867a"
-pdf: "https://srl.lu.ch/api/de/versions/3677/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4025/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,17 @@ pdf: "https://srl.lu.ch/api/de/versions/3677/pdf_file"
 
 (BPV)
 
-vom 30.11.2010 (Stand 01.01.2021)
+vom 30.11.2010 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1b Absatz 3, 1c Absatz 2, 1d Absatz 1, 2b Absatz 4, 3a Absatz 2, 4, 7 Absatz 2, 11 und 13 Absatz 5 des Betreuungs- und Pflegegesetzes (BPG) vom 13. September 2010[^ingress-1],
+gestützt auf die §§ 1b Absatz 3, 1c Absatz 2, 1d Absatz 1, 2b Absatz 4, 3a Absatz 2, 4, 7 Absatz 2, 11, 12a Absatz 4 und 13 Absatz 5 des Betreuungs- und Pflegegesetzes (BPG) vom 13. September 2010[^ingress-1],
 
 auf Antrag des Gesundheits- und Sozialdepartementes,
 
 beschliesst:
 
-[^ingress-1]: SRL Nr. [867](https://srl.lu.ch/data/867/de) (G 2010 276)
+[^ingress-1]: SRL Nr. [867](https://srl.lu.ch/data/867/de)
 
 ## 1 Zuständigkeiten
 
@@ -52,7 +52,7 @@ beschliesst:
 - a. der Betrieb über ein Konzept verfügt, das namentlich über die Trägerschaft, die Organisation, die angebotene Betreuung und Pflege, die Finanzierung und die Qualitätssicherung Auskunft gibt,
 - b. der Nachweis einer ausreichenden wirtschaftlichen Grundlage für die Erbringung des Angebots erbracht wird,
 - c der Betrieb über eine Haftpflichtversicherung nach Massgabe der Art und des Umfangs der Risiken, die mit seinem Angebot verbunden sind, verfügt,
-- d. die Leitung des Betriebs über die nötigen fachlichen Kompetenzen verfügt und vertrauenswürdig ist,
+- d. die Leitung des Betriebs sowie die Leitung der Pflege und Betreuung über die nötigen fachlichen Kompetenzen verfügen und vertrauenswürdig sind,
 - e. der Betrieb über das für die Erbringung der Leistungen erforderliche Fachpersonal und über zweckmässige, den gesetzlichen Vorschriften entsprechende Einrichtungen und Gebäulichkeiten verfügt,
 - f. für eine den Bedürfnissen der beherbergten, betreuten und gepflegten Personen angemessene Betreuung, Pflege und Ernährung gesorgt und die ärztliche Versorgung gewährleistet ist,
 - g. das Betreuungsverhältnis in schriftlichen Verträgen geregelt ist, woraus ersichtlich ist, welche Leistungen die Einrichtung erbringt und welches Entgelt dafür geschuldet ist.
@@ -133,17 +133,21 @@ beschliesst:
 
 **Anforderungen**
 
-<sup>1</sup> Die Leistungserbringer der ambulanten Krankenpflege führen eine Leistungsstatistik sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Kostenrechnung ist das Finanzmanual 2011 des "Spitex Verbandes Schweiz" massgebend.
+<sup>1</sup> Die Leistungserbringer der ambulanten Krankenpflege und der Krankenpflege im Pflegeheim und in Tages- und Nachtstrukturen führen eine Leistungsstatistik sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Bei mehreren Betriebsstandorten sind die Leistungsstatistik und die Kostenrechnung pro Zahlstellenregister-Nummer (ZSR-Nummer) zu führen.
 
-<sup>2</sup> Die Leistungserbringer der Krankenpflege im Pflegeheim sowie die Tages- und Nachtstrukturen führen eine Leistungsstatistik sowie eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Kostenrechnung sind die Handbücher «Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime, Version 2019» sowie «Anlagebuchhaltung für Alters- und Pflegeheime, Version 2019» von Curaviva Schweiz, H+ Die Spitäler der Schweiz und Senesuisse massgebend. Bei mehreren Betriebsstandorten sind die Kostenrechnung und die Leistungsstatistik pro Zahlstellenregister-Nummer (ZSR-Nummer) zu führen.
+<sup>2</sup> Für die Kostenrechnung massgebend sind
 
-<sup>3</sup> Die Dienststelle Soziales und Gesellschaft erlässt nach Rücksprache mit dem Finanzdepartement Weisungen zur Gewährleistung einer einheitlichen Kostenrechnung.
+- a. bei der ambulanten Krankenpflege das «Handbuch zum Rechnungswesen für Spitex-Organisationen, Version 2020» der Spitex Schweiz,
+- b. bei der Krankenpflege im Pflegeheim die Handbücher «Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime, Version 2019» sowie «Anlagebuchhaltung für Alters- und Pflegeheime, Version 2019» von Curaviva Schweiz, H+ Die Spitäler der Schweiz und Senesuisse,
+- c. bei den Tages- und Nachtstrukturen das Instrument «KORE Light TONS» der Interessengemeinschaft Tages- und Nachtstrukturen.
+
+<sup>3</sup> Die Dienststelle Soziales und Gesellschaft erlässt nach Rücksprache mit dem Finanzdepartement Weisungen zur Gewährleistung einer einheitlichen Kostenrechnung und zur Berichterstattung.
 
 #### § 3b
 
 **Revisionsstelle**
 
-<sup>1</sup> Die Leistungserbringer haben sich von einer anerkannten Revisionsstelle bestätigen zu lassen, dass ihre Kostenrechnung den Anforderungen gemäss § 3a entspricht.
+<sup>1</sup> Die Leistungserbringer haben sich von einer anerkannten Revisionsstelle bestätigen zu lassen, dass ihre Kostenrechnung den Anforderungen gemäss § 3a entspricht. Die Revisionsstelle hat ihre Feststellungen in einem Bericht festzuhalten.
 
 ## 2
 
@@ -177,9 +181,9 @@ beschliesst:
 
 <sup>1</sup> Für die Erfassung des Pflegebedarfs bei der Krankenpflege im Pflegeheim und in Tages- und Nachtstrukturen können die Leistungserbringer unter folgenden Systemen wählen:
 
-- a. BESA 99 mit Leistungskatalog 2005: Die Umrechnung erfolgt mit 3,06 Minuten pro BESA-Punkt,
-- b. BESA Version 4.0 mit Leistungskatalog 2010,
-- c. RAI/RUG in der Version CH-Index 2011 (gemäss Anhang 1).
+- a. …
+- b. BESA Leistungskatalog 2020,
+- c. RAI CH-Index 2016.
 
 ### 2.2
 
@@ -300,10 +304,12 @@ beschliesst:
 
 <sup>2</sup> Der Ist-Wert eines Ausbildungsniveaus ist das Produkt der Zahl der in einem Ausbildungsniveau Auszubildenden und der für dieses Ausbildungsniveau anrechenbaren Kosten gemäss Anhang 2.
 
-<sup>3</sup> Für die Ermittlung der Zahl der Auszubildenden anrechenbar sind grundsätzlich alle Personen, welche einen Ausbildungsgang besuchen, der zu einem Abschluss in einem Beruf nach § 5d Absatz 2 führt. Massgebend ist die Zahl der Auszubildenden per 31. Dezember des Vorjahres. Ebenfalls angerechnet werden können:
+<sup>3</sup> Für die Ermittlung der Zahl der Auszubildenden anrechenbar sind grundsätzlich alle Personen, welche einen Ausbildungsgang besuchen, der zu einem Abschluss in einem Beruf nach § 5d Absatz 2 führt. Massgebend ist die Zahl der Auszubildenden per 31. Dezember des Vorjahres. Sofern sich der Leistungserbringer massgeblich an der Ausbildung beteiligt, können ebenfalls angerechnet werden:
 
-- a. Personen, die sich auf die Berufsprüfung Fachmann oder Fachfrau Langzeitpflege und -betreuung FA vorbereiten, für das Ausbildungsniveau Tertiärstufe für maximal ein Jahr,
-- b. Personen in der ergänzenden Bildung zum Fachmann oder zur Fachfrau Pflege beziehungsweise Betreuung EFZ (Validationsverfahren) mit maximal zwei Jahren. Bei Ausbildungsverbünden können die Leistungserbringer den Auszubildenden oder die Auszubildende anteilmässig im Umfang der im jeweiligen Betrieb absolvierten Ausbildungsdauer anrechnen. Praktikantinnen und Praktikanten, die sich in Ausbildung zum dipl. Pflegefachmann HF oder zur dipl. Pflegefachfrau HF befinden, sind nur für den Hauptausbildungsbetrieb anrechenbar. Solche, die sich in Ausbildung zum Fachmann oder zur Fachfrau Gesundheit EFZ oder Betreuung EFZ befinden und deren Praktikum sechs Monate oder weniger dauert, dürfen von dem Leistungserbringer angerechnet werden, mit welchem der Lehrvertrag besteht.
+- a. Personen, die sich auf die Berufsprüfung Fachmann oder Fachfrau Langzeitpflege und -betreuung FA vorbereiten, für das Ausbildungsniveau Tertiärstufe mit maximal eineinhalb Jahren,
+- b. Personen in der ergänzenden Bildung zum Fachmann oder zur Fachfrau Gesundheit beziehungsweise Betreuung EFZ (Validations- und Qualifikationsverfahren) mit maximal zwei Jahren.
+
+<sup>4</sup> Bei Ausbildungsverbünden können die Leistungserbringer den Auszubildenden oder die Auszubildende anteilmässig im Umfang der im jeweiligen Betrieb absolvierten Ausbildungsdauer anrechnen. Praktikantinnen und Praktikanten, die sich in Ausbildung zum dipl. Pflegefachmann HF oder zur dipl. Pflegefachfrau HF befinden, sind nur für den Hauptausbildungsbetrieb anrechenbar. Solche, die sich in Ausbildung zum Fachmann oder zur Fachfrau Gesundheit EFZ oder Betreuung EFZ befinden und deren Praktikum sechs Monate oder weniger dauert, dürfen von dem Leistungserbringer angerechnet werden, mit welchem der Lehrvertrag besteht.
 
 #### § 5h
 
@@ -329,6 +335,20 @@ beschliesst:
 
 <sup>2</sup> Gegen Entscheide der Kommission ist die Verwaltungsgerichtsbeschwerde an das Kantonsgericht zulässig.
 
+## 2b Sicherstellung der Aufenthaltstaxen
+
+#### § 5k
+
+<sup>1</sup> Die Wohnsitzgemeinde hat eine Kostengutsprache für die Sicherstellung der von der pflegebedürftigen Person selbst zu tragenden Kosten des Aufenthalts im Pflegeheim (Hotellerie und Betreuung) zu leisten, wenn die pflegebedürftige Person über ein Vermögen von weniger als 10 000 Franken verfügt.
+
+<sup>2</sup> Die Kostengutsprache beläuft sich auf ein Monatsbetreffnis der selbst zu tragenden Kosten, maximal jedoch auf 6000 Franken.
+
+<sup>3</sup> Eine Forderung des Pflegeheimes gilt als von der pflegebedürftigen Person oder deren Erben nicht einbringlich, wenn
+
+- a. gegen die pflegebedürftige Person Verlustscheine bestehen,
+- b. eine konkursamtliche Nachlassliquidation eröffnet wurde oder
+- c. die fehlenden finanziellen Mittel anderweitig nachgewiesen sind.
+
 ## 3 Schlussbestimmungen
 
 #### § 6
@@ -345,27 +365,17 @@ beschliesst:
 
 <sup>3</sup> Für Leistungserbringer der ambulanten Krankenpflege ist im Erhebungsjahr 2022 ein Erfüllungsgrad von 50 Prozent und im Erhebungsjahr 2023 ein Erfüllungsgrad von 75 Prozent des Soll-Wertes massgebend.
 
-## A1 Anhang 1: CH-Index 2011 (§ 4a Abs. 1c)
+#### § 8
+
+**Übergangsbestimmung der Änderung vom 20. Dezember 2022**
+
+<sup>1</sup> Die Führung der Kostenrechnung durch die Leistungserbringer der ambulanten Krankenpflege gemäss § 3a Absatz 2a und die Erfassung des Pflegebedarfs durch die Leistungserbringer der Krankenpflege im Pflegheim und in Tages- und Nachtstrukturen gemäss § 4a Absatz 1 haben spätestens ab 1. Januar 2024 zu erfolgen. Solange die Umstellung nicht vollzogen ist, gelten diesbezüglich die Vorgaben gemäss dem bisherigen Recht.
+
+## A1
 
 #### § A1-1
 
-<sup>1</sup>
-
-<table>
-<tr><th>Pflegestufe</th><th>Pflegeaufwand in Minuten pro Tag</th><th>Index PF</th><th>Original-RUGs</th></tr>
-<tr><td>1</td><td>bis 20</td><td>0.095</td><td>PA0</td></tr>
-<tr><td>2</td><td>21–40</td><td>0.285</td><td>PA1</td></tr>
-<tr><td>3</td><td>41–60</td><td>0.476</td><td>BA1, PA2</td></tr>
-<tr><td>4</td><td>61–80</td><td>0.666</td><td>IA1, BA2</td></tr>
-<tr><td>5</td><td>81–100</td><td>0.857</td><td>PB1, PB2, BB1</td></tr>
-<tr><td>6</td><td>101–120</td><td>1.046</td><td>CA1, IB1, PC1, BB2, PC2</td></tr>
-<tr><td>7</td><td>121–140</td><td>1.237</td><td>IA2, IB2, CA2</td></tr>
-<tr><td>8</td><td>141–160</td><td>1.427</td><td>PD1, PD2, CB1, RMA, RLA</td></tr>
-<tr><td>9</td><td>161–180</td><td>1.617</td><td>CB2, SSA, RMB, CC1</td></tr>
-<tr><td>10</td><td>181–200</td><td>1.807</td><td>SSB, PE1, RLB, CC2, PE2</td></tr>
-<tr><td>11</td><td>201–220</td><td>1.998</td><td>SSC, SE1</td></tr>
-<tr><td>12</td><td>ab 221</td><td>2.188</td><td>RMC, SE2, SE3</td></tr>
-</table>
+<sup>1</sup> …
 
 ## A2 Anhang 2: Anrechenbare Kosten (§§ 5e Abs. 2 und 5g Abs. 2)
 
