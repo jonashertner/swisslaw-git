@@ -4,13 +4,12 @@ number: VII E/1/1
 title: Energiegesetz
 short: EnG
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-01
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2326/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2326/pdf_file"
 
 (EnG)
 
-Vom 07.05.2000 (Stand 01.07.2022)
+Vom 07.05.2000 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -46,13 +45,23 @@ Vom 07.05.2000 (Stand 01.07.2022)
 - a. die angestrebte Entwicklung von Energieversorgung und Energienutzung;
 - b. die notwendigen Massnahmen.
 
-<sup>3</sup> Das Verfahren richtet sich nach Artikel 6 Raumplanungs- und Baugesetz.
+<sup>3</sup> …
 
 #### Art. 3
 
 **Energieplanung der Gemeinden**
 
 <sup>1</sup> Die Gemeinden erarbeiten innert zehn Jahren eigene Energieplanungen, welche den Inhalt der kantonalen Energieplanung berücksichtigen und vom Regierungsrat genehmigt werden müssen.
+
+#### Art. 3a
+
+**Öffentliche Bauten und Anlagen**
+
+<sup>1</sup> Für Bauten und Anlagen der öffentlichen Hand:
+
+- a. legt der Regierungsrat erhöhte Anforderungen an die Energienutzung fest;
+- b. wird die Wärmeerzeugung bis zum Jahr 2040 zu mindestens 90 Prozent ohne fossile Brennstoffe sichergestellt. Der Regierungsrat legt Zwischenziele fest;
+- c. wird der Stromverbrauch bis zum Jahr 2030 massgeblich reduziert oder mit neu zugebauten erneuerbaren Energien oder einem zertifizierten Naturstromprodukt gedeckt.
 
 #### Art. 4
 
@@ -70,19 +79,22 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 **Anlagen zur Energiegewinnung**
 
-<sup>1</sup> Die Neuerstellung oder Erweiterung einer Anlage zur Gewinnung von elektrischer Energie bedarf einer Bewilligung des Regierungsrates. Er kann die Bewilligungskompetenz für Anlagen bis zu einer bestimmten elektrischen Leistung an das zuständige Departement delegieren.
+<sup>1</sup> Einer energierechtlichen Bewilligung des Regierungsrates bedarf:
 
-<sup>1a</sup> Die Neuerstellung oder Erweiterung einer Anlage zur Gewinnung von Energie mit einer thermischen Leistung von mehr als 1000 kW bedarf einer Bewilligung des Regierungsrates.
+- a. die Neuerstellung oder Erweiterung einer Anlage zur Gewinnung von elektrischer Energie;
+- b. die Neuerstellung oder Erweiterung einer Anlage zur Gewinnung von Energie mit einer thermischen Leistung von mehr als 1000 Kilowatt.
 
-<sup>2</sup> Der Bewilligungspflicht sind alle Arten der Energiegewinnung unterstellt, insbesondere die Energiegewinnung aus der Tiefe, dem Boden, dem Grundwasser, den stehenden und fliessenden Gewässern, der Luft, aus Biomasse und der Sonne. Ausgenommen sind Photovoltaikanlagen bis 50 kW.
+<sup>1a</sup> …
+
+<sup>2</sup> Der Bewilligungspflicht sind alle Arten der Energiegewinnung unterstellt, insbesondere die Energiegewinnung aus der Tiefe, dem Boden, dem Grundwasser, den stehenden und fliessenden Gewässern, der Luft, aus Biomasse und der Sonne. Ausgenommen sind Fotovoltaikanlagen bis 1000 Kilowatt.
 
 <sup>3</sup> Vor der Bewilligungserteilung holt die Bewilligungsbehörde die Stellungnahme der Standortgemeinde ein; sie nimmt im öffentlichen Interesse liegende Auflagen in die Bewilligung auf. Die Bewilligung wird erteilt, wenn die Anlage den Zielsetzungen dieses Gesetzes entspricht und keine überwiegenden öffentlichen Interessen entgegenstehen.
 
 <sup>4</sup> Die Bewilligung wird für eine bestimmte Frist, die 80 Jahre nicht übersteigen darf, erteilt. Wenn die Bewilligung vor Ablauf der Bewilligungszeit nicht erneuert wird, ist der Bewilligungsnehmer verpflichtet, soweit möglich und sinnvoll, den ursprünglichen Zustand wieder herzustellen.
 
-<sup>5</sup> Die Gebühren werden in der landrätlichen Verordnung[^5-1] geregelt; sie betragen höchstens 50 Franken pro kW.
+<sup>4a</sup> Der Regierungsrat kann die Bewilligungskompetenz für Anlagen bis zu einer bestimmten Leistung an das zuständige Departement delegieren.
 
-[^5-1]: GS [VII E/1/2](https://gesetze.gl.ch/data/VII-E.1.2/de)
+<sup>5</sup> Der Landrat regelt die Gebühren. Sie betragen höchstens 50 Franken pro Kilowatt.
 
 #### Art. 6
 
@@ -100,17 +112,17 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 **Höhe der jährlichen Abgabe**
 
-<sup>1</sup> Die jährliche Abgabe (Wasserwerksteuer) beträgt 55 Prozent des jeweiligen bundesrechtlichen Wasserzinsmaximums.
+<sup>1</sup> Die jährliche Abgabe (Wasserwerksteuer) beträgt 55 Prozent des jeweiligen bundesrechtlichen Wasserzinsmaximums. Sie wird nach der Bruttoleistung erhoben.
 
 <sup>2</sup> Den Anteil des Wasserzinses, der dem Bund zur Sicherstellung von Ausgleichsleistungen für Einbussen der Wasserkraftnutzung abzuliefern ist, tragen die Wasserrechtseigentümer und der Kanton nach Massgabe der Aufteilung gemäss Absatz 1.
 
 <sup>3</sup> Bei Einführung einer zusätzlichen Bemessung (z. B. Speicherzuschlag) gelten die vorstehenden Absätze sinngemäss.
 
-<sup>4</sup> Der Regierungsrat ist ermächtigt, die Höhe der jährlichen Abgabe im Rahmen der Bundesgesetzgebung zu reduzieren.
+<sup>4</sup> Der Regierungsrat ist ermächtigt, die Höhe der jährlichen Abgabe im Rahmen der Bundesgesetzgebung anzupassen.
 
-<sup>4a</sup> Der Landrat legt die jährliche Abgabe für die thermische Nutzung in der Verordnung fest.
+<sup>4a</sup> Der Landrat legt die jährliche Abgabe für die thermische Nutzung fest.
 
-<sup>5</sup> Die Einzelheiten der Besteuerung werden in der landrätlichen Verordnung geregelt.
+<sup>5</sup> Der Landrat regelt die Einzelheiten der Besteuerung und Erhebung.
 
 #### Art. 8
 
@@ -139,19 +151,11 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 <sup>4</sup> Die Erstellung von Elektrizitätserzeugungsanlagen mit erneuerbaren festen oder flüssigen Brennstoffen ist nur zulässig, wenn die im Betrieb entstehende Wärme fachgerecht und weitgehend genutzt wird.
 
-<sup>5</sup> Die Einzelheiten werden in der landrätlichen Verordnung geregelt.
+<sup>5</sup> Der Landrat regelt die Einzelheiten.
 
 #### Art. 10
 
-**Besondere Beschwerdeinstanz**
-
-<sup>1</sup> Verfügungen nach Kapitel VI. unterliegen der Beschwerde an eine verwaltungsunabhängige Rekurskommission.
-
-<sup>2</sup> Die Rekurskommission besteht aus einem Vorsitzenden und zwei Mitgliedern, die auf Vorschlag des Regierungsrates vom Landrat auf eine ordentliche Amtsdauer gewählt werden. In gleicher Weise werden für den Vorsitzenden sowie die beiden Mitglieder Ersatzleute bezeichnet. Es können auch Personen gewählt werden, die im Kanton nicht stimmberechtigt sind.
-
-<sup>3</sup> Die Rekurskommission entscheidet endgültig. Für das Verfahren gilt das Gesetz über die Verwaltungsrechtspflege[^10-1]. Die Unangemessenheit des Entscheides kann in jedem Fall geltend gemacht werden.
-
-[^10-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+**…**
 
 #### Art. 11
 
@@ -185,23 +189,69 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 #### Art. 14
 
-**Grundsatz**
+**Minimalanforderungen an die Energienutzung**
 
-<sup>1</sup> Neue Bauten und Anlagen, die Energie verbrauchen, insbesondere geheizt oder gekühlt werden, sind so zu erstellen, dass der Energiebedarf entsprechend dem Stand der Technik möglichst gering ist.
+<sup>1</sup> Gebäude und gebäudetechnische Anlagen sind so zu planen, zu erstellen, zu betreiben und zu unterhalten, dass möglichst geringe Energieverluste eintreten und ein effizienter Betrieb möglich ist.
 
-<sup>2</sup> Werden bestehende Gebäude und Anlagen wesentlich geändert oder erneuert, so haben sie den Anforderungen in Absatz 1 zu entsprechen.
+<sup>2</sup> Der winterliche und der sommerliche Wärmeschutz, die gebäudetechnischen Anlagen und die Nutzung der Elektrizität haben dem Stand der Technik zu entsprechen. Abwärme und erneuerbare Energien sind zu nutzen.
 
-<sup>3</sup> Bei gewerblichen und industriellen Anlagen und Bauten kann von einzelnen Energiesparvorschriften abgewichen werden, sofern mit einem geeigneten Energiekonzept nachgewiesen wird, dass die Ziele dieses Gesetzes in gleicher Weise erreicht werden. Die Abweichungen sind in einer vertraglichen Vereinbarung zwischen Bauherrschaft und Baubewilligungsbehörde festzuhalten.
+<sup>3</sup> Die Minimalanforderungen an Gebäude und gebäudetechnische Anlagen gemäss Absatz 1 gelten soweit nachfolgend nichts anderes bestimmt wird für:
+
+- a. Neubauten;
+- b. bestehende Gebäude oder Teile davon, wenn sie so umgebaut oder umgenutzt werden, dass die Energienutzung beeinflusst wird;
+- c. gebäudetechnische Anlagen, wenn sie neu installiert, ersetzt, erneuert oder umgebaut werden, auch wenn diese Massnahmen baurechtlich nicht bewilligungspflichtig sind.
+
+#### Art. 14a
+
+**Wärmebedarf von Neubauten**
+
+<sup>1</sup> Neubauten und Erweiterungen von bestehenden Gebäuden (Aufstockungen, Anbauten usw.) müssen so gebaut und ausgerüstet werden, dass ihr Bedarf für Heizung, Warmwasser, Lüftung und Klimatisierung dem Stand der Technik entspricht.
+
+<sup>2</sup> Für Wohnnutzungen muss:
+
+- a. ein Wärmeerzeuger ohne CO₂-Emissionen aus fossilen Brennstoffen eingebaut werden; oder
+- b. der Wärmebedarf durch den Anschluss an ein Fernwärmenetz gedeckt werden, bei welchem ein wesentlicher Anteil der Wärmeerzeugung aus erneuerbaren Energien, Abwärme oder Abfallverbrennung stammt.
+
+<sup>3</sup> Der Regierungsrat regelt Art und Umfang der Anforderungen an den Energieeinsatz. Er berücksichtigt dabei insbesondere die Wirtschaftlichkeit sowie besondere Verhältnisse wie Klima, Verschattung oder Quartiersituationen.
+
+#### Art. 14b
+
+**Eigenstromerzeugung bei Neubauten**
+
+<sup>1</sup> Neue Bauten erzeugen einen Teil der von ihnen benötigten Elektrizität selber.
+
+<sup>2</sup> Der Regierungsrat regelt die Art und den Umfang der Eigenstromerzeugung sowie die Voraussetzungen für eine Befreiung von dieser Vorgabe. Er berücksichtigt dabei die Energiebezugsfläche als Berechnungsgrundlage für die selber zu erzeugende Elektrizität.
+
+<sup>3</sup> Bei der Befreiung von der Pflicht zur Eigenstromerzeugung oder bei einer Abweichung von der Minimalvorgabe ist eine Ersatzabgabe oder eine Ersatzinvestition zu leisten. Der Regierungsrat legt die Höhe der Abgabe und der Investition sowie die weiteren Modalitäten fest.
+
+<sup>4</sup> Die Gemeinden erheben die Ersatzabgabe im Rahmen der Baubewilligung und verwenden sie zweckgebunden zur Förderung der nachhaltigen und effizienten Energienutzung und der erneuerbaren Energien.
+
+#### Art. 14c
+
+**Elektrische Energie in Gebäuden**
+
+<sup>1</sup> Gebäude und Anlagen sowie damit zusammenhängende Ausstattungen und Ausrüstungen sind so zu planen und auszuführen, dass die Elektrizität sparsam und rationell genutzt wird.
+
+<sup>2</sup> Der Regierungsrat legt die geltenden Normen und die Grenzwerte für den Elektrizitätsbedarf bei Neu- und Umbauten sowie Umnutzungen fest.
+
+#### Art. 14d
+
+**Erneuerbare Wärme beim Wärmeerzeugerersatz**
+
+<sup>1</sup> Beim Ersatz des Wärmeerzeugers in bestehenden Bauten mit Wohnnutzung muss, sofern dies technisch möglich ist:
+
+- a. ein Wärmeerzeuger ohne CO₂-Emissionen aus fossilen Brennstoffen eingebaut werden; oder
+- b. der Wärmebedarf durch den Anschluss an ein Fernwärmenetz gedeckt werden, bei welchem ein wesentlicher Anteil der Wärmeerzeugung aus erneuerbaren Energien, Abwärme oder Abfallverbrennung stammt.
+
+<sup>2</sup> Der Nachweis kann rechnerisch oder mittels einer Standardlösung erfolgen.
+
+<sup>3</sup> Der Ersatz eines Wärmeerzeugers ist bewilligungspflichtig.
+
+<sup>4</sup> Der Regierungsrat regelt den Anteil an nicht erneuerbaren Energien, die Berechnungsweise, die Standardlösungen sowie die Befreiungen.
 
 #### Art. 15
 
-**Höchstanteil an nichterneuerbaren Energien**
-
-<sup>1</sup> Neubauten und wesentliche Umbauten müssen so ausgerüstet sein, dass höchstens 80 Prozent des zulässigen Energiebedarfs für Heizung und Warmwasser mit nicht erneuerbaren Energien gedeckt sind. Die restlichen
-
-<sup>20</sup> Prozent sind mit erneuerbaren Energien oder mit besserer Wärmedämmung zu erzielen.
-
-<sup>2</sup> Ausnahmen werden in der Verordnung geregelt.
+**…**
 
 #### Art. 16
 
@@ -221,41 +271,64 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 <sup>1</sup> Der Regierungsrat erlässt die erforderlichen Bestimmungen und passt diese dem Stand der Technik an. Er kann Normen und Empfehlungen anerkannter Fachorganisationen verbindlich erklären.
 
-#### Art. 18
+#### Art. 17a
 
-**Ausrüstungspflicht bei Neubauten**
+**Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung**
 
-<sup>1</sup> Neue Bauten und Gebäudegruppen mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten.
+<sup>1</sup> Neue Gebäude mit zentraler Wärmeversorgung für zwei oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten.
 
-<sup>2</sup> Bei Flächenheizungen ist für den Bauteil zwischen der Wärmeabgabe und der angrenzenden Nutzeinheit ein U-Wert von maximal 0,7 W/m²K einzuhalten.
+<sup>2</sup> Neue Gebäude, welche die Wärme von einer zentralen Wärmeversorgung für eine Gebäudegruppe beziehen, sind mit den nötigen Geräten zur Erfassung des Wärmeverbrauchs für Heizung pro Gebäude auszurüsten.
 
-#### Art. 19
+<sup>3</sup> Bestehende Gebäude mit zentraler Wärmeversorgung für zwei oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- oder des Warmwassersystems mit Geräten zur Erfassung des individuellen Wärmeverbrauchs beim erneuerten System auszurüsten.
 
-**Ausrüstungspflicht bei wesentlichen Erneuerungen**
+<sup>4</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind mit Geräten zur Erfassung des Wärmeverbrauchs für Heizung pro Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu einem prozentualen Anteil saniert wird.
 
-<sup>1</sup> Bestehende Gebäude mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- und/oder des Warmwassersystems mit Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten.
+<sup>5</sup> Der Regierungsrat regelt den prozentualen Anteil und die Befreiungen.
 
-<sup>2</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind mit Geräten zur Erfassung des Wärmeverbrauchs für Heizung pro Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu über 75 Prozent saniert wird.
+#### Art. 18–20
 
-#### Art. 20
-
-**Ausrüstungspflicht in bestehenden Bauten**
-
-<sup>1</sup> Zentral beheizte Gebäude und Gebäudegruppen mit fünf oder mehr Nutzeinheiten sind mit den nötigen Geräten zur Erfassung des Wärmeverbrauchs für die Heizung auszurüsten und mit Einrichtungen zu versehen, die es ermöglichen, die Raumlufttemperatur individuell einzustellen und selbstständig zu regeln, soweit dies technisch und betrieblich möglich und der Aufwand verhältnismässig ist.
+**…**
 
 #### Art. 21
 
-**Ortsfeste elektrische Widerstandsheizungen**
+**Elektroheizungen**
 
-<sup>1</sup> Die Neuinstallation und der Ersatz ortsfester elektrischer Widerstandsheizungen ab 2,5 kW pro Bezüger zur Gebäudebeheizung, falls der spezifische Heizleistungsbedarf mehr als 28 Watt/m² Energiebezugsfläche beträgt, sind nur mit einer Ausnahmebewilligung zulässig.
+<sup>1</sup> Ortsfeste elektrische Widerstandsheizungen (Elektroheizungen) sind unzulässig:
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn keine Anschlussmöglichkeiten an Gas oder Fernwärme besteht, der Einsatz erneuerbarer Energie nicht möglich oder unverhältnismässig ist, der Wärmeschutz des Gebäudes dem Stand der Technik entspricht und das Elektrizitätsverteilwerk die erforderliche Energie liefern kann.
+- a. bei Neuinstallationen zur Gebäudebeheizung;
+- b. beim Ersatz von ortsfesten elektrischen Widerstandsheizungen mit Wasserverteilsystem (zentrale Elektroheizungen):
+  - 1\. durch ortsfeste elektrische Widerstandsheizungen mit Wasserverteilsystem (zentrale Elektroheizungen); oder
+  - 2\. durch ortsfeste elektrische Widerstandsheizungen ohne Wasserverteilsystem (dezentrale Elektroheizungen);
+- c. als Zusatzheizung.
 
-<sup>3</sup> Das Elektrizitätsverteilwerk kann Vorgaben über die zeitliche Einschränkung der Energielieferungen festlegen.
+<sup>2</sup> Notheizungen sind in begrenztem Umfang zulässig.
 
-<sup>4</sup> Eine elektrische Zusatzheizung zur Hauptheizung bis 25 Prozent des Wärmebedarfs ist bei einem Ersatz zulässig.
+<sup>3</sup> Bestehende ortsfeste elektrische Widerstandsheizungen mit Wasserverteilsystem (zentrale Elektroheizungen) sind innerhalb einer Übergangsfrist durch Anlagen zu ersetzen, welche den Anforderungen dieses Gesetzes entsprechen.
 
-<sup>5</sup> Notheizungen bei handbeschickten Holzheizungen und bei Wärmepumpen sind bis zu einer Leistung von 50 Prozent des Leistungsbedarfs zulässig.
+<sup>4</sup> Der Regierungsrat regelt:
+
+- a. weitere Ausnahmen von Absatz 1;
+- b. die Übergangsfrist nach Absatz 3;
+- c. Befreiungen.
+
+<sup>5</sup> …
+
+#### Art. 21a
+
+**Elektro-Wassererwärmer**
+
+<sup>1</sup> Der Neueinbau oder Ersatz eines Elektro-Wassererwärmers ist in Wohnbauten nur erlaubt, wenn das Warmwasser:
+
+- a. während der Heizperiode mit dem Wärmeerzeuger für die Raumheizung erwärmt oder vorgewärmt wird;
+- b. mindestens zur Hälfte durch erneuerbare Energie oder Abwärme erwärmt wird.
+
+<sup>2</sup> Für den Ersatz von einzelnen, dezentralen Elektro-Wassererwärmern sind die Voraussetzungen von Absatz 1 nicht zu erfüllen.
+
+<sup>3</sup> Bestehende zentrale Elektro-Wassererwärmer, die ausschliesslich direkt elektrisch beheizt werden, sind bei Wohnbauten innerhalb einer Frist nach Inkraftsetzung dieses Gesetzes durch Anlagen so zu ersetzen oder durch andere Anlagen so zu ergänzen, dass sie den Anforderungen dieses Gesetzes entsprechen.
+
+<sup>4</sup> Der Ersatz eines zentralen Elektro-Wassererwärmers ist bewilligungspflichtig.
+
+<sup>5</sup> Der Regierungsrat regelt die Frist und die Befreiungen.
 
 #### Art. 22
 
@@ -270,21 +343,21 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 #### Art. 23
 
-**Aussenheizungen, beheizte Freiluftbäder und Hallenbäder**
+**Heizungen im Freien, beheizte Freiluftbäder und Hallenbäder**
 
-<sup>1</sup> Der Bau neuer sowie der Ersatz oder die Änderung bestehender Aussenheizungen und Freiluftbadheizungen bedürfen einer Bewilligung der zuständigen kantonalen Verwaltungsbehörde. Die Standortgemeinde ist zur Stellungnahme einzuladen.
+<sup>1</sup> Der Bau neuer sowie der Ersatz oder die Änderung bestehender Heizungen im Freien und Freiluftbadheizungen bedürfen einer Bewilligung der zuständigen kantonalen Verwaltungsbehörde. Die Standortgemeinde ist zur Stellungnahme einzuladen.
 
 #### Art. 24
 
 **Heizungen im Freien**
 
-<sup>1</sup> Der Bau neuer und der Ersatz oder die Änderung bestehender Aussenheizungen (Terrassen, Rampen, Rinnen, Sitzplätze usw.) bedürfen einer Bewilligung der zuständigen kantonalen Verwaltungsbehörde.
+<sup>1</sup> Der Bau neuer und der Ersatz oder die Änderung bestehender Heizungen im Freien (Terrassen, Rampen, Rinnen, Sitzplätze usw.) bedürfen einer Bewilligung der zuständigen kantonalen Verwaltungsbehörde.
 
-<sup>2</sup> Aussenheizungen werden nur bewilligt, wenn sie ausschliesslich mit erneuerbarer Energie oder mit nicht anders nutzbarer Abwärme betrieben werden.
+<sup>2</sup> Heizungen im Freien werden nur bewilligt, wenn sie ausschliesslich mit erneuerbarer Energie oder mit nicht anders nutzbarer Abwärme betrieben werden.
 
-<sup>3</sup> Mit nicht erneuerbarer Energie betriebene Aussenheizungen werden bewilligt, wenn
+<sup>3</sup> Mit nicht erneuerbarer Energie betriebene Heizungen im Freien werden bewilligt, wenn:
 
-- a. die Sicherheit von Personen und Sachen oder der Schutz technischer Einrichtungen es erfordert;
+- a. die Sicherheit von Personen, Tieren und Sachen oder der Schutz technischer Einrichtungen es erfordert;
 - b. bauliche und betriebliche Massnahmen nicht ausführbar oder unverhältnismässig sind;
 - c. sie mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet sind.
 
@@ -292,7 +365,7 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 **Beheizte Freiluftbäder**
 
-<sup>1</sup> Der Bau neuer oder die Änderung und die Erneuerung bestehender beheizter Freiluftbäder mit einem Inhalt von über 8 m³ bedürfen einer Bewilligung der zuständigen kantonalen Verwaltungsbehörde. Sie werden nur bewilligt, wenn sie ausschliesslich mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme betrieben werden.
+<sup>1</sup> Der Bau neuer oder die Änderung und die Erneuerung bestehender beheizter Freiluftbäder mit einem Inhalt von über acht Kubikmeter bedürfen einer energierechtlichen Bewilligung der zuständigen kantonalen Verwaltungsbehörde. Sie werden nur bewilligt, wenn sie ausschliesslich mit erneuerbarer Energie oder nicht anders nutzbarer Abwärme betrieben werden.
 
 <sup>2</sup> Die Beheizung mit elektrischer Wärmepumpe ist zulässig, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
 
@@ -304,7 +377,7 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 <sup>2</sup> Kunsteisbahnen müssen mit Einrichtungen zur Nutzung der Abwärme ausgestattet sein.
 
-<sup>3</sup> Vor der Erteilung der Bewilligung ist die Stellungnahme der Standort gemeinde einzuholen.
+<sup>3</sup> Vor der Erteilung der Bewilligung ist die Stellungnahme der Standortgemeinde einzuholen.
 
 #### Art. 27
 
@@ -312,19 +385,40 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 <sup>1</sup> Der Gemeinderat kann für Neuüberbauungen, insbesondere im Rahmen von Bebauungsplänen und Arealbebauungen, soweit wirtschaftlich zumutbar, gemeinsame Heizzentralen vorschreiben. Wenn sich die Grundeigentümer nicht einigen, kann er die Anschlusspflicht für die einzelnen Liegenschaften festlegen.
 
+#### Art. 27a
+
+**Ferienhäuser und Ferienwohungen**
+
+<sup>1</sup> Die Raumtemperatur muss auf mindestens zwei unterschiedliche Niveaus regulierbar sein:
+
+- a. bei neu erstellten Einfamilienhäusern, die nur zeitweise bewohnt sind;
+- b. bei neu erstellten Mehrfamilienhäusern, die nur zeitweise bewohnt sind, für jede Einheit;
+- c. beim Austausch des Wärmeerzeugers in Einfamilienhäusern, die nur zeitweise bewohnt sind;
+- d. bei der Sanierung des Heizverteilersystems in Mehrfamilienhäusern, die nur zeitweise bewohnt sind, für jede Einheit.
+
+<sup>2</sup> Die Regulierung muss durch Fernbedienung (z. B. Telefon, Internet, SMS) erfolgen.
+
+<sup>3</sup> Bestehende Ein- oder Mehrfamilienhäuser, die nur zeitweise bewohnt sind, sind innerhalb einer Übergangsfrist nachzurüsten.
+
+<sup>4</sup> Der Regierungsrat regelt die Übergangsfrist und die Befreiungen.
+
 #### Art. 28
 
 **Nutzung von Abwärme**
 
 <sup>1</sup> Abwärme ist, soweit zumutbar, nach dem Stande der Technik zu nutzen und allenfalls Dritten gegen angemessene Entschädigung zur Verfügung zu stellen.
 
+## 3a. Grossverbraucher und Gebäudeautomation
+
 #### Art. 29
 
 **Grossverbraucher**
 
-<sup>1</sup> Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als 5 GWh oder einem jährlichen Elektrizitätsverbrauch von mehr als 0,5 GWh können durch die zuständige Behörde verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsoptimierung zu realisieren.
+<sup>1</sup> Grossverbraucher mit einem jährlichen Wärmeverbrauch von mehr als fünf Gigawattstunden oder einem jährlichen Elektrizitätsverbrauch von mehr als 0,5 Gigawattstunden können durch die zuständige Behörde verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsoptimierung zu realisieren.
 
 <sup>2</sup> Absatz 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe von der zuständigen Behörde vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies kann sie die zuständige Behörde von der Einhaltung näher zu bezeichnender energietechnischer Vorschriften entbinden.
+
+<sup>3</sup> Der Landrat regelt die Einzelheiten zur Zumutbarkeit.
 
 #### Art. 30
 
@@ -338,7 +432,17 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 **Gebäudeenergieausweis der Kantone**
 
-<sup>1</sup> Der Kanton führt den «Gebäudeenergieausweis der Kantone» durch die Gebäudeeigentümer auf freiwilliger Basis ein.
+<sup>1</sup> Der Kanton führt den «Gebäudeenergieausweis der Kantone» (GEAK) ein.
+
+<sup>2</sup> Wer Finanzhilfen für Sanierungsmassnahmen an der Gebäudehülle beantragt, hat einen GEAK Plus zu erarbeiten. Der Regierungsrat regelt die Einzelheiten.
+
+#### Art. 31a
+
+**Gebäudeautomation**
+
+<sup>1</sup> Neubauten der Kategorien III bis XII (SIA 380/1) sind mit Einrichtungen zur Gebäudeautomation auszurüsten, soweit es technisch möglich und wirtschaftlich zumutbar ist.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten zur Gebäudeautomation.
 
 ## 4. Förderungsmassnahmen
 
@@ -387,7 +491,8 @@ Vom 07.05.2000 (Stand 01.07.2022)
 - b. Energiegewinnung aus erneuerbaren Energiequellen;
 - c. Anwendung neuer, zukunftsgerichteter Technologien zur umweltschonenden Energiegewinnung oder -anwendung;
 - d. Forschung, energiebezogene Beratung, Ausbildung und Information;
-- e. Massnahmen im Rahmen des Klimaschutzes.
+- e. Massnahmen im Rahmen des Klimaschutzes;
+- f. Massnahmen zur Förderung der fossilfreien Mobilität.
 
 <sup>3</sup> Der Landrat bestimmt in den einzelnen Förderbereichen die zu fördernden Massnahmen.
 
@@ -604,7 +709,7 @@ Vom 07.05.2000 (Stand 01.07.2022)
 
 **Auskunftspflicht**
 
-<sup>1</sup> Der Kanton und die Gemeinden sind befugt, Erhebungen über den Energie verbrauch anzustellen.
+<sup>1</sup> Der Kanton und die Gemeinden sind befugt, Erhebungen über den Energieverbrauch anzustellen.
 
 <sup>2</sup> Jede Person ist verpflichtet, den Behörden die für den Vollzug der Energiegesetzgebung nötigen Auskünfte zu erteilen und Unterlagen zur Verfügung zu stellen. Den Behörden ist während der üblichen Arbeitszeit der Zutritt zu Bauten und Anlagen zu ermöglichen.
 
