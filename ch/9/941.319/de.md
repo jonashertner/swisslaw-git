@@ -4,29 +4,32 @@ title: Verordnung vom 6. November 2019 über die Erhebung von Gebühren und Aufs
 short: GebV-EMK
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/684"
 language: de
-version: 2020-01-21
+version: 2023-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/684/20200121/de/xml/fedlex-data-admin-ch-eli-cc-2019-684-20200121-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/684/20200121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/684/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2019-684-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/684/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Gebühren der Edelmetallkontrolle
+# Verordnung über die Erhebung von Gebühren und Aufsichtsabgaben durch die Edelmetallkontrolle
 
-(GebV-EMK)
+(GebV-EMK)[^t-1]
 
-vom 6. November 2019 (Stand am 21. Januar 2020)
+vom 6. November 2019 (Stand am 1. Januar 2023)
+
+[^t-1]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 18 Absatz 1, 19, 34 Absatz 2 und 37 Absatz 3 des Edelmetallkontrollgesetzes vom 20. Juni 1933[^ingress-1] (EMKG) und Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],
+gestützt auf die Artikel 18 Absatz 1, 19, 34 Absatz 2, 36 Absatz 3 und 37 Absatz 3 des Edelmetallkontrollgesetzes vom 20. Juni 1933[^ingress-1] (EMKG) und Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -34,17 +37,31 @@ verordnet:
 
 **Gegenstand**
 
-Diese Verordnung regelt die Gebühren der Edelmetallkontrolle, namentlich:
+Diese Verordnung regelt die Gebühren und die Aufsichtsabgaben der Edelmetallkontrolle, namentlich:[^1-1]
 
 - a. die Gebühren für Dienstleistungen und Verfügungen des Zentralamtes für Edelmetallkontrolle, der eidgenössischen Kontrollämter sowie der kantonalen Kontrollämter;
 - b. die Gebühren für Feingehaltsbestimmungen durch die Handelsprüfer nach Artikel 41 EMKG;
-- c. Abgeltungen für Leistungen des Zentralamtes.
+- c. Abgeltungen für Leistungen des Zentralamtes;
+- d.[^1-2] die Aufsichtsabgaben für Kosten, die nicht über die Gebühren für die Überwachung des gewerbsmässigen Ankaufs von Schmelzgut nach Artikel 36 Absatz 2 Buchstabe e EMKG sowie für die Aufsicht nach Artikel 42<sup>ter</sup> EMKG gedeckt sind.
+
+[^1-1]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Eingefügt durch Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 2
 
-**Gebührenpflicht**
+**Gebührenpflicht**[^2-1]
 
-Wer eine Dienstleistung oder eine Verfügung nach Artikel 1 Buchstabe a veranlasst, hat eine Gebühr zu bezahlen.
+<sup>1</sup>
+
+Eine Gebühr bezahlen muss, wer:
+
+- a. eine Verfügung nach Artikel 1 Buchstabe a veranlasst;
+- b. eine Dienstleistung nach Artikel 1 Buchstabe a beansprucht;
+- c. ein Aufsichtsverfahren veranlasst, das nicht mit einer Verfügung endet oder das eingestellt wird.
+
+<sup>2</sup> Bundes-, Kantons- und Gemeindebehörden müssen für Leistungen der Edelmetallkontrolle im Bereich der Amts- und Rechtshilfe keine Gebühren bezahlen.
+
+[^2-1]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 3
 
@@ -56,13 +73,17 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 #### Art. 4
 
-**Gebührenansätze**
+**Bemessung[^4-1]**
 
-<sup>1</sup> Für die Gebührenbemessung gelten die Ansätze im Anhang.
+<sup>1</sup> Für die Bemessung der Gebühren und der Aufsichtsabgaben gelten die Ansätze im Anhang.[^4-2]
 
 <sup>2</sup> Für Dienstleistungen und Verfügungen, für die im Anhang kein Ansatz festgelegt ist, bemisst sich die Gebühr nach dem Zeitaufwand (Art. 14).
 
-<sup>3</sup> Die Höhe der Gebührenansätze ist periodisch an die tatsächlich erbrachten Leistungen sowie die technische Entwicklung anzupassen.
+<sup>3</sup> Die Höhe der Gebührenansätze und der Abgaben ist periodisch an die tatsächlich erbrachten Leistungen, die aufgewendeten Kosten sowie die technische Entwicklung anzupassen.[^4-3]
+
+[^4-1]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-2]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-3]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## 2. Abschnitt: Amtliche Prüfung und Stempelung
 
@@ -173,21 +194,114 @@ Weitere pauschal festgelegte Gebühren werden erhoben für:
 - a. Bewilligungen;
 - b. Registrierungen der Verantwortlichkeitsmarken;
 - c. Diplomierungen;
-- d. die laufende Aufsicht über Handelsprüfer, Schmelzer sowie die kantonalen Kontrollämter;
+- d.[^13-1] die laufende Aufsicht über Handelsprüfer, Schmelzer, gewerbsmässige Ankäufer von Schmelzgut sowie die kantonalen Kontrollämter;
 - e. Kurse für Edelmetallprüferinnen und -prüfer aus der Industrie oder der kantonalen Kontrollämter;
 - f. Konformitätsbewertungen von neuartigen Überzügen und Materialien.
 
 <sup>2</sup> Für die Berechnung der Gebühren gelten die Ansätze gemäss Anhang.
 
+[^13-1]: Fassung gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
 ## 5. Abschnitt: Gebühren nach Zeitaufwand
 
 #### Art. 14
+
+**Grundsatz[^14-1]**
 
 <sup>1</sup> Für Dienstleistungen, insbesondere Expertisen und Verfügungen für die im Anhang kein Ansatz festgelegt ist, wird eine Gebühr im Rahmen von 90–135 Franken pro Stunde erhoben.
 
 <sup>2</sup> Innerhalb des Gebührenrahmens nach Absatz 1 wird die Gebühr nach der erforderlichen Fachkenntnis festgelegt.
 
 <sup>3</sup> Die Stunden können in Viertelstunden aufgeteilt werden. Der Bruchteil einer Viertelstunde zählt als Viertelstunde.
+
+[^14-1]: Eingefügt durch Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 14a
+
+**Gebühren im Zusammenhang mit der Aufsicht über den Handel mit Bankedelmetallen**[^14a-1]
+
+<sup>1</sup> Die Gebühren für Prüfungen, Aufsichtsverfahren und Verfügungen im Zusammenhang mit der Aufsicht über den Handel mit Bankedelmetallen (Art. 42<sup>ter</sup> EMKG) bemessen sich nach dem Zeitaufwand.
+
+<sup>2</sup> Der Stundenansatz für die Gebühren nach Absatz 1 beträgt je nach Sachkenntnis und Funktionsstufe der ausführenden Person innerhalb des Zentralamtes 250–350 Franken.
+
+[^14a-1]: Eingefügt durch Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+## 5*a*. Abschnitt: Aufsichtsabgaben
+
+[^sec5a-1]
+
+[^sec5a-1]: Eingefügt durch Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 14b
+
+**Grundsatz, Umfang und Bemessungsgrundlage**
+
+<sup>1</sup> Ankäufer von Schmelzgut nach Artikel 31*a* EMKG, Handelsprüfer und Gruppengesellschaften nach Artikel 42<sup>bis</sup> EMKG müssen dem Zentralamt jährlich eine Aufsichtsabgabe entrichten.
+
+<sup>2</sup> Ankäufer von Schmelzgut nach Artikel 31*a* EMKG entrichtet die Abgabe in Form einer Pauschale für einen Zeitraum von vier Jahren.
+
+<sup>3</sup> Handelsprüfer und Gruppengesellschaften nach Artikel 42<sup>bis</sup> EMKG, die über eine Bewilligung des Zentralamtes zum gewerbsmässigen Handel von Bankedelmetallen verfügen, entrichten die Abgabe in Form einer fixen Grundabgabe und einer variablen Zusatzabgabe.
+
+<sup>4</sup> Die Zusatzabgabe deckt diejenigen Kosten, die nicht durch die Grundabgabe gedeckt sind.
+
+#### Art. 14c
+
+**Grundabgabe**
+
+Für die Grundabgabe nach Artikel 14*b* Absatz 3 gilt der Ansatz im Anhang.
+
+#### Art. 14d
+
+**Zusatzabgabe**
+
+Der Betrag, der über die Zusatzabgabe nach Artikel 14*b* Absatz 3 gedeckt werden muss, wird zu einem Zehntel über die Zusatzabgabe nach Bilanzsumme und zu neun Zehnteln über die Zusatzabgabe nach Bruttoertrag gedeckt.
+
+#### Art. 14e
+
+**Berechnung der Zusatzabgabe**
+
+<sup>1</sup>
+
+Für die Berechnung der Zusatzabgabe nach Bilanzsumme und Bruttoertrag ist die Erfolgsrechnung des Abgabepflichtigen nach Artikel 959*b* des Obligationenrechts[^14e-1] massgebend, wie sie die genehmigte Jahresrechnung des dem Abgabejahr vorangehenden Jahres ausweist. In Abzug gebracht werden dürfen für den Handel mit Bankedelmetallen betreffenden Bereich:
+
+- a. bei Anwendung einer Erfolgsrechnung nach dem Gesamtkostenverfahren: die Bestandsänderungen an unfertigen und fertigen Erzeugnissen sowie den Materialaufwand;
+- b. bei Anwendung einer Erfolgsrechnung nach dem Umsatzkostenverfahren: die Kosten für Anschaffung oder Herstellung der verkauften Produkte.
+
+<sup>2</sup> Massgebend für die Berechnung der Zusatzabgabe nach Bilanzsumme und Bruttoertrag ist das Ergebnis des Rechnungsabschlusses des dem Abgabejahr vorangehenden Jahres.
+
+<sup>3</sup> Grundlage für die Berechnung der Zusatzabgabe nach Bruttoertrag ist ausschliesslich der Bruttoertrag der der Bewilligungspflicht nach Artikel 42<sup>bis</sup> EMKG unterstellten Geschäftstätigkeit.
+
+[^14e-1]: [[SR 220](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de)](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 14f
+
+**Beginn und Ende der Abgabepflicht**
+
+<sup>1</sup> Die Abgabepflicht beginnt mit der Erteilung der Bewilligung und endet mit deren Entzug oder mit der Entlassung aus der Aufsicht.
+
+<sup>2</sup> Beginnt oder endet die Abgabepflicht nicht mit dem Abgabejahr, so ist die Grund- und Zusatzabgabe *pro rata temporis* geschuldet.
+
+<sup>3</sup> Ein Rückerstattungsanspruch gestützt auf Absatz 2 besteht bei der Beendigung der Abgabepflicht erst ab einem Betrag von 1000 Franken.
+
+#### Art. 14g
+
+**Erhebung der Abgaben**
+
+<sup>1</sup> Das Zentralamt erhebt die Aufsichtsabgaben von den Bewilligungsinhabern gemäss Artikel 42<sup>bis</sup> EMKG gestützt auf seine Kosten- und Leistungsrechnung für das dem Abgabejahr vorangegangene Jahr.
+
+<sup>2</sup> Das Zentralamt erstellt nach Abschluss seiner Kosten- und Leistungsrechnung für jeden Abgabepflichtigen eine Rechnung.
+
+#### Art. 14h
+
+**Rechnungsstellung, Fälligkeit, Stundung und Verjährung**
+
+<sup>1</sup> Das Zentralamt stellt für die Aufsichtsabgaben Rechnung.
+
+<sup>2</sup> Sind die Abgabepflichtigen mit der Schlussrechnung nicht einverstanden, so können sie eine anfechtbare Verfügung verlangen.
+
+<sup>3</sup> Fälligkeit, Stundung und Verjährung richten sich sinngemäss nach den Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^14h-1].
+
+[^14h-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## 6. Abschnitt: Abgeltungen für Leistungen des Zentralamtes
 
@@ -207,7 +321,7 @@ Weitere pauschal festgelegte Gebühren werden erhoben für:
 
 Die Verordnung vom 17. August 2005[^16-1] über die Gebühren für die Edelmetallkontrolle wird aufgehoben.
 
-[^16-1]: [[AS 2005 4317](https://fedlex.data.admin.ch/eli/oc/2005/561), [2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)Ziff. II]
+[^16-1]: [[AS 2005 4317](https://fedlex.data.admin.ch/eli/oc/2005/561); [2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)Ziff. II]
 
 #### Art. 17
 
@@ -223,11 +337,11 @@ Die Verordnung vom 17. August 2005[^16-1] über die Gebühren für die Edelmetal
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-2]
 
 ## 1. Konformitätsbewertungen (Art. 6), je Gegenstand aus Gold, Silber, Platin oder Palladium:
 
-[^t-1]: Die Berichtigung vom 21. Jan. 2020 betrifft nur den italienischen Text ([AS 2020 253](https://fedlex.data.admin.ch/eli/oc/2020/43)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. 5 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -299,11 +413,13 @@ Anhang*[^t-1]*
 <tr><td>8.2 einmalige Gebühr für die Erteilung eines zusätzlichen Schmelzerzeichens</td><td>200.–</td></tr>
 <tr><td>8.3 Erteilung oder Erneuerung individuelle Schmelzbewilligung mit einem individuellen Schmelzerzeichen</td><td>200.–</td></tr>
 <tr><td>8.4 einmalige Gebühr für die Erteilung der Berufsausübungsbewilligung als Handelsprüfer</td><td>1500.–</td></tr>
+<tr><td>8.4*a* Erteilung einer Bewilligung für den Handel mit Bankedelmetallen</td><td>2500.–</td></tr>
 <tr><td>8.5 Registrierung oder Erneuerung einer individuellen Verantwortlichkeitsmarke</td><td>800.–</td></tr>
 <tr><td>8.6 Registrierung oder Erneuerung einer Kollektiv-Verantwortlichkeitsmarke:</td><td></td></tr>
 <tr><td>1. je Marke und</td><td>800.–</td></tr>
 <tr><td>2. je Beteiligten</td><td>200.–</td></tr>
-<tr><td>8.7 Änderungen und Löschungen von Bewilligungen oder Marken gemäss Ziffern 8.1–8.6</td><td>–.–</td></tr>
+<tr><td>8.6*a* Erteilung oder Erneuerung einer Ankaufsbewilligung</td><td>500.–</td></tr>
+<tr><td>8.7 Änderungen und Löschungen von Bewilligungen oder Marken gemäss Ziffern 8.1–8.6*a*</td><td>–.–</td></tr>
 <tr><td>8.8 Anmeldegebühr für die eidgenössische Diplomprüfung für beeidigte Edelmetallprüferinnen oder Edelmetallprüfer</td><td>150.–</td></tr>
 <tr><td>8.9 Erteilung des eidgenössischen Diploms für beeidigte Edelmetallprüferinnen oder Edelmetallprüfer</td><td>600.–</td></tr>
 <tr><td>8.10 Jährliche Gebühren für die laufende Aufsicht:</td><td></td></tr>
@@ -312,4 +428,12 @@ Anhang*[^t-1]*
 <tr><td>3. kantonale Kontrollämter</td><td>5000.–</td></tr>
 <tr><td>8.11 Kursgebühr für Edelmetallprüferinnen und Edelmetallprüfer aus der Industrie oder einem kantonalen Kontrollamt, je Person und Kurstag</td><td>500.–</td></tr>
 <tr><td>8.12 Konformitätsbewertungen von neuartigen Überzügen und Materialien werden nach effektivem Aufwand verrechnet.</td><td></td></tr>
+</table>
+
+## 9. Weitere pauschal festgelegte Abgaben (Art. 14*a* Abs. 2)
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>9.1 Aufsichtsabgabe für Ankäufer von Schmelzgut gemäss Artikel 31*a* Absätze 2 und 3 EMKG (Pauschalbetrag für vier Jahre)</td><td>2000.–</td></tr>
+<tr><td>9.2 Grundabgabe für Bewilligungsinhaber nach Artikel 42<sup>bis</sup> EMKG</td><td>5000.–</td></tr>
 </table>

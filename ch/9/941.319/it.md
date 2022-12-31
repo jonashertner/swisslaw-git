@@ -4,29 +4,32 @@ title: Ordinanza del 6 novembre 2019 sulla riscossione di emolumenti e tasse di 
 short: OEm-CMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/684"
 language: it
-version: 2020-01-21
+version: 2023-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/684/20200121/it/xml/fedlex-data-admin-ch-eli-cc-2019-684-20200121-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/684/20200121/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/684/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2019-684-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/684/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sugli emolumenti per il controllo dei metalli preziosi
+# Ordinanza sulla riscossione di emolumenti e tasse di vigilanza da parte del controllo dei metalli preziosi
 
-(OEm-CMP)
+(OEm-CMP)[^t-1]
 
-del 6 novembre 2019 (Stato 21 gennaio 2020)
+del 6 novembre 2019 (Stato 1° gennaio 2023)
+
+[^t-1]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 18 capoverso 1, 19, 34 capoverso 2 e 37 capoverso 3 della legge del 20 giugno 1933[^ingress-1] sul controllo dei metalli preziosi (LCMP); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione (LOGA),
+visti gli articoli 18 capoverso 1, 19, 34 capoverso 2, 36 capoverso 3 e 37 capoverso 3 della legge del 20 giugno 1933[^ingress-1] sul controllo dei metalli preziosi (LCMP); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -34,17 +37,31 @@ ordina:
 
 **Oggetto**
 
-La presente ordinanza disciplina gli emolumenti per il controllo dei metalli preziosi, in particolare:
+La presente ordinanza disciplina gli emolumenti e le tasse di vigilanza per il controllo dei metalli preziosi, in particolare:[^1-1]
 
 - a. gli emolumenti per le prestazioni di servizi e le decisioni dell’Ufficio centrale di controllo dei metalli preziosi (Ufficio centrale), degli uffici di controllo federali e cantonali;
 - b. gli emolumenti per la determinazione del titolo da parte di saggiatori del commercio di cui all’articolo 41 LCMP;
-- c. le indennità per le prestazioni dell’Ufficio centrale.
+- c. le indennità per le prestazioni dell’Ufficio centrale;
+- d.[^1-2] le tasse di vigilanza per i costi che non sono coperti dagli emolumenti per la sorveglianza dell’acquisto a titolo professionale di materie da fondere ai sensi dell’articolo 36 capoverso 2 lettera e LCMP e per la vigilanza ai sensi dell’articolo 42<sup>ter</sup> LCMP.
+
+[^1-1]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Introdotta dall’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 2
 
-**Assoggettamento**
+**Assoggettamento**[^2-1]
 
-Chiunque solleciti una prestazione di servizi o una decisione di cui all’articolo 1 lettera a deve pagare un emolumento.
+<sup>1</sup>
+
+Deve pagare un emolumento chiunque:
+
+- a. occasiona una decisione di cui all’articolo 1 lettera a;
+- b. ricorre a una prestazione di servizi di cui all’articolo 1 lettera a;
+- c. occasiona una procedura di vigilanza che si conclude senza una decisione o che viene archiviata.
+
+<sup>2</sup> Le autorità federali, cantonali e comunali non devono pagare emolumenti per le prestazioni fornite dal controllo dei metalli preziosi nell’ambito dell’assistenza amministrativa e giudiziaria.
+
+[^2-1]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 3
 
@@ -56,13 +73,17 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 #### Art. 4
 
-**Aliquote degli emolumenti**
+**Calcolo[^4-1]**
 
-<sup>1</sup> Per il calcolo degli emolumenti si applicano le aliquote di cui all’allegato.
+<sup>1</sup> Per il calcolo degli emolumenti e delle tasse di vigilanza si applicano le aliquote di cui all’allegato.[^4-2]
 
 <sup>2</sup> Per le prestazioni di servizi e le decisioni per le quali non è fissata alcuna aliquota nell’allegato, l’emolumento è calcolato in funzione del tempo impiegato (art. 14).
 
-<sup>3</sup> Le aliquote degli emolumenti devono essere periodicamente adeguate alle prestazioni effettivamente fornite e allo sviluppo tecnico.
+<sup>3</sup> Le aliquote degli emolumenti e le tasse sono periodicamente adeguate alle prestazioni effettivamente fornite, ai costi sostenuti e allo sviluppo tecnico.[^4-3]
+
+[^4-1]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-2]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-3]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## Sezione 2: Controllo e marchiatura ufficiali
 
@@ -170,24 +191,118 @@ Per la messa in forma analizzabile di materiali, soluzioni, sali e altre sostanz
 
 Altri emolumenti forfetari sono riscossi per:
 
-- a. le patenti e i permessi;
+- a.[^13-1] le patenti e le autorizzazioni;
 - b. la registrazione del marchio d’artefice;
 - c. l’ottenimento del diploma;
-- d. la sorveglianza continua dei saggiatori del commercio, dei fonditori e degli uffici di controllo cantonali;
+- d.[^13-2] la vigilanza continua sui saggiatori del commercio, sui fonditori, sugli acquirenti professionali di materie da fondere e sugli uffici di controllo cantonali;
 - e. i corsi per saggiatori di metalli preziosi che lavorano nell’industria o negli uffici di controllo cantonali;
 - f. le valutazioni della conformità di nuovi rivestimenti e materiali.
 
 <sup>2</sup> Per il calcolo degli emolumenti si applicano le aliquote di cui all’allegato.
 
+[^13-1]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^13-2]: Nuovo testo giusta l’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
 ## Sezione 5: Emolumenti in funzione del tempo impiegato
 
 #### Art. 14
+
+**Principio[^14-1]**
 
 <sup>1</sup> Per le prestazioni di servizi, in particolare le perizie e le decisioni, per le quali non è fissata alcuna aliquota nell’allegato, è riscosso un emolumento compreso tra 90 e 135 franchi l’ora.
 
 <sup>2</sup> Nell’ambito del quadro tariffario previsto al capoverso 1, l’emolumento è fissato in funzione delle conoscenze professionali necessarie.
 
 <sup>3</sup> Le ore possono essere frazionate in quarti d’ora. Le frazioni di quarto d’ora contano come quarti d’ora interi.
+
+[^14-1]: Introdotto dall’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 14a
+
+**Emolumenti in relazione alla vigilanza sul commercio di metalli preziosi bancari**[^14a-1]
+
+<sup>1</sup> Gli emolumenti per le verifiche, le procedure di vigilanza e le decisioni in relazione alla vigilanza sul commercio di metalli preziosi bancari (art. 42<sup>ter</sup> LCMP) sono calcolati in funzione del tempo impiegato.
+
+<sup>2</sup> La tariffa oraria prevista per gli emolumenti di cui al capoverso 1 varia tra i 250 e i 350 franchi, a seconda delle conoscenze specifiche richieste e della funzione che la persona incaricata del disbrigo dell’affare ricopre in seno all’Ufficio centrale.
+
+[^14a-1]: Introdotto dall’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+## Sezione 5*a*: Tasse di vigilanza
+
+[^sec5a-1]
+
+[^sec5a-1]: Introdotta dall’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 14b
+
+**Principio, portata e base di calcolo**
+
+<sup>1</sup> Gli acquirenti di materie da fondere di cui all’articolo 31*a* LCMP così come i saggiatori del commercio e le società del gruppo di cui all’articolo 42<sup>bis</sup> LCMP devono versare ogni anno una tassa di vigilanza all’Ufficio centrale.
+
+<sup>2</sup> Gli acquirenti di materie da fondere di cui all’articolo 31*a* LCMP versano la tassa sotto forma di importo forfetario per un periodo di quattro anni.
+
+<sup>3</sup> I saggiatori del commercio e le società del gruppo di cui all’articolo 42<sup>bis</sup> LCMP che dispongono di un’autorizzazione dell’Ufficio centrale per il commercio a titolo professionale di metalli preziosi bancari versano la tassa sotto forma di tassa di base e tassa complementare variabile.
+
+<sup>4</sup> La tassa complementare copre i costi che non sono coperti dalla tassa di base.
+
+#### Art. 14c
+
+**Tassa di base**
+
+Alla tassa di base secondo l’articolo 14*b* capoverso 3 si applica la tariffa di cui all’allegato.
+
+#### Art. 14d
+
+**Tassa complementare**
+
+L’importo che deve essere finanziato con la tassa complementare di cui all’articolo 14*b* capoverso 3 è coperto per un decimo dalla tassa complementare in funzione del totale di bilancio e per nove decimi dalla tassa complementare in funzione del ricavo lordo.
+
+#### Art. 14e
+
+**Calcolo della tassa complementare**
+
+<sup>1</sup>
+
+Per il calcolo della tassa complementare in funzione del totale di bilancio e del ricavo lordo è determinante il conto economico dell’assoggettato secondo l’articolo 959*b* del Codice delle obbligazioni[^14e-1], così come riportato dal conto annuale approvato dell’anno che precede l’anno di assoggettamento. Per l’ambito concernente il commercio di metalli preziosi possono essere dedotti:
+
+- a. la variazione delle scorte di prodotti finiti e in corso di fabbricazione e dei costi per il materiale, in caso di applicazione di un conto economico secondo il metodo del costo complessivo;
+- b. i costi di acquisto o di produzione dei prodotti venduti, in caso di applicazione di un conto economico secondo il metodo del costo del venduto.
+
+<sup>2</sup> Per il calcolo della tassa complementare in funzione del totale di bilancio e del ricavo lordo è determinante il risultato ottenuto alla chiusura dei conti dell’anno che precede l’anno di assoggettamento.
+
+<sup>3</sup> Il calcolo della tassa complementare in funzione del ricavo lordo si basa esclusivamente sul ricavo lordo dell’attività soggetta all’obbligo di autorizzazione secondo l’articolo 42<sup>bis</sup> LCMP.
+
+[^14e-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 14f
+
+**Inizio e fine dell’assoggettamento**
+
+<sup>1</sup> L’assoggettamento inizia con il rilascio dell’autorizzazione e termina con la revoca dell’autorizzazione o della vigilanza.
+
+<sup>2</sup> Se l’assoggettamento non inizia o non termina contemporaneamente all’anno di assoggettamento, la tassa di base e la tassa complementare sono dovute *pro rata* *temporis*.
+
+<sup>3</sup> Alla fine dell’assoggettamento, un diritto al rimborso in virtù del capoverso 2 sorge solo a partire da un importo di 1000 franchi.
+
+#### Art. 14g
+
+**Riscossione delle tasse**
+
+<sup>1</sup> L’Ufficio centrale riscuote le tasse di vigilanza dai titolari dell’autorizzazione secondo l’articolo 42<sup>bis</sup> LCMP in base alla sua contabilità analitica per l’anno che precede l’anno di assoggettamento.
+
+<sup>2</sup> Dopo la chiusura della sua contabilità analitica, l’Ufficio centrale emette una fattura per ogni assoggettato.
+
+#### Art. 14h
+
+**Fatturazione, esigibilità, differimento e prescrizione**
+
+<sup>1</sup> L’Ufficio centrale emette fatture per le tasse di vigilanza.
+
+<sup>2</sup> In caso di contestazione della fattura, l’assoggettato può chiedere una decisione impugnabile.
+
+<sup>3</sup> L’esigibilità, il differimento e la prescrizione sono retti per analogia dalle disposizioni dell’OgeEm[^14h-1].
+
+[^14h-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Sezione 6: Indennità per prestazioni dell’Ufficio centrale
 
@@ -223,16 +338,16 @@ L’ordinanza del 17 agosto 2005[^16-1] sulla tariffa del controllo dei metalli 
 
 La presente ordinanza entra in vigore il 1° gennaio 2020.
 
-Allegato*[^t-1]*
+Allegato[^t-2]
 
 ## 1. Valutazione della conformità (art. 6), per oggetto in oro, argento, platino o palladio
 
-[^t-1]: Aggiornato dalla correzione del 21 gen. 2020 ([RU 2020 253](https://fedlex.data.admin.ch/eli/oc/2020/43)).
+[^t-2]: Aggiornato dalla correzione del 21 gen. 2020 ([RU 2020 253](https://fedlex.data.admin.ch/eli/oc/2020/43)) e dall’all. n. 5 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
 <tr><td>1.1 Materiale certificato</td><td>1.30</td></tr>
-<tr><td>1.2 Materiale non certificato</td><td>1.90</td></tr>
+<tr><td>1.2 Materiale non certificato</td><td>[tab] 1.90</td></tr>
 </table>
 
 ## 2. Apposizione del marchio (art. 7)
@@ -241,14 +356,14 @@ Allegato*[^t-1]*
 <tr><th>Emolumento</th><th colspan="2">Per marchio semplice</th><th></th><th colspan="2">Per marchio doppio</th><th></th></tr>
 <tr><th></th><th>Meccanicamente Fr.</th><th colspan="2">Laser Fr.</th><th>Meccanicamente Fr.</th><th colspan="2">Laser Fr.</th></tr>
 <tr><td>2.1 Da parte dell’ufficio di controllo</td><td>1.00</td><td colspan="2">3.00</td><td>1.30</td><td colspan="2">3.80</td></tr>
-<tr><td>2.2 Da parte del fabbricante</td><td>0.80</td><td colspan="2">0.80</td><td>1.10</td><td colspan="2">1.10</td></tr>
+<tr><td>2.2 Da parte del fabbricante</td><td>[tab] 0.80</td><td colspan="2">[tab] 0.80</td><td>[tab] 1.10</td><td colspan="2">[tab] 1.10</td></tr>
 </table>
 
 ## 3. Emolumento per la presa in carico (art. 8)
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>Emolumento per serie con meno di dieci oggetti</td><td>20.–</td></tr>
+<tr><td>[tab] Emolumento per serie con meno di dieci oggetti</td><td>[tab] 20.–</td></tr>
 </table>
 
 ## 4. Contratti nell’ambito della marchiatura ufficiale (art. 9 cpv. 1 e 4)
@@ -258,7 +373,7 @@ Allegato*[^t-1]*
 <tr><td>4.1 Emolumento unico per l’apertura del dossier</td><td>500.–</td></tr>
 <tr><td>4.2 Emolumento supplementare per l’esecuzione di un audit</td><td>2000.–</td></tr>
 <tr><td>4.3 Emolumento unico per audit supplementari ai sensi dell’articolo 117*a* OCMP</td><td>250.–</td></tr>
-<tr><td>4.4 Emolumento annuale per il riconoscimento di fornitori e laboratori di analisi per il materiale certificato</td><td>2000.–</td></tr>
+<tr><td>4.4 Emolumento annuale per il riconoscimento di fornitori e laboratori di analisi per il materiale certificato</td><td>[tab] 2000.–</td></tr>
 </table>
 
 ## 5. Determinazione del titolo su campioni (art. 10)
@@ -266,19 +381,19 @@ Allegato*[^t-1]*
 <table>
 <tr><th></th><th>Oro Fr.</th><th>Argento Fr.</th><th>Platino Fr.</th><th>Palladio Fr.</th></tr>
 <tr><td>5.1 Emolumento per la determinazione del titolo con tempi d’analisi ridotti</td><td>80.–</td><td>55.–</td><td>170.–</td><td>170.–</td></tr>
-<tr><td>5.2 Emolumento per la determinazione del titolo</td><td>105.–</td><td>80.–</td><td>210.–</td><td>210.–</td></tr>
+<tr><td>5.2 Emolumento per la determinazione del titolo</td><td>[tab] 105.–</td><td>[tab] 80.–</td><td>[tab] 210.–</td><td>[tab] 210.–</td></tr>
 </table>
 
 ## 6. Determinazione del titolo di prodotti della fusione (art. 11)
 
 <table>
 <tr><th></th><th>Oro Fr.</th><th>Argento Fr.</th><th>Platino Fr.</th><th>Palladio Fr.</th></tr>
-<tr><td>6.1 Emolumento per la determinazione del titolo</td><td>105.–</td><td>80.–</td><td>210.–</td><td>210.–</td></tr>
+<tr><td>6.1 Emolumento per la determinazione del titolo</td><td>[tab] 105.–</td><td>[tab] 80.–</td><td>[tab] 210.–</td><td>[tab] 210.–</td></tr>
 </table>
 
 <table>
 <tr><td></td><td>Fr.</td></tr>
-<tr><td>6.2 Emolumento per la campionatura e la marchiatura di prodotti della fusione</td><td>50.–</td></tr>
+<tr><td>6.2 Emolumento per la campionatura e la marchiatura di prodotti della fusione</td><td>[tab] 50.–</td></tr>
 </table>
 
 ## 7. Messa in forma analizzabile (art. 12)
@@ -288,7 +403,7 @@ Allegato*[^t-1]*
 <tr><td>7.1 Emolumento per la fusione assemblante al piombo (o un altro metallo) di materiale già setacciato</td><td>300.–</td></tr>
 <tr><td>7.2 Emolumento per soluzioni e sali puliti</td><td>100.–</td></tr>
 <tr><td>7.3 Emolumento per soluzioni e sali contaminati, normalmente destinati alla raffinazione o al recupero</td><td>300.–</td></tr>
-<tr><td>7.4 Emolumento per la disgregazione di materiali non elencati nella presente tabella</td><td>120.–</td></tr>
+<tr><td>7.4 Emolumento per la disgregazione di materiali non elencati nella presente tabella</td><td>[tab] 120.–</td></tr>
 </table>
 
 ## 8. Altri emolumenti forfetari (art. 13)
@@ -298,18 +413,28 @@ Allegato*[^t-1]*
 <tr><td>8.1 Rilascio o rinnovo della patente di fonditore con un marchio di fonditore</td><td>1000.–</td></tr>
 <tr><td>8.2 Emolumento unico per il rilascio di un marchio di fonditore supplementare</td><td>200.–</td></tr>
 <tr><td>8.3 Rilascio o rinnovo della patente individuale di fonditore con un marchio individuale di fonditore</td><td>200.–</td></tr>
-<tr><td>8.4 Emolumento unico per il rilascio del permesso di libero esercizio quale saggiatore del commercio</td><td>1500.–</td></tr>
+<tr><td>8.4 Emolumento unico per il rilascio dell’autorizzazione di esercitare la professione di saggiatore del commercio</td><td>1500.–</td></tr>
+<tr><td>8.4*a* Rilascio dell’autorizzazione per il commercio di metalli preziosi bancari [tab] 1500.– [tab]</td><td>2500.–</td></tr>
 <tr><td>8.5 Registrazione o rinnovo di un marchio d’artefice individuale</td><td>800.–</td></tr>
 <tr><td>8.6 Registrazione o rinnovo di un marchio d’artefice collettivo</td><td></td></tr>
 <tr><td>1. per marchio</td><td>800.–</td></tr>
 <tr><td>2. per partecipante</td><td>200.–</td></tr>
-<tr><td>8.7 Modifica e radiazione di patenti e permessi oppure di marchi di cui ai numeri 8.1–8.6</td><td>–.–</td></tr>
+<tr><td>8.6*a* Rilascio o rinnovo della patente di acquirente</td><td>500.–</td></tr>
+<tr><td>8.7 Modificazione e radiazione di patenti e autorizzazioni oppure di marchi di cui ai numeri 8.1–8.6*a*</td><td>–.–</td></tr>
 <tr><td>8.8 Emolumento d’iscrizione all’esame di diploma federale di saggiatore giurato</td><td>150.–</td></tr>
 <tr><td>8.9 Rilascio del diploma federale di saggiatore giurato</td><td>600.–</td></tr>
-<tr><td>8.10 Emolumenti annuali per la sorveglianza continua:</td><td></td></tr>
-<tr><td>1 dei saggiatori del commercio, comprese eventualmente le attività in qualità di fonditori</td><td>5000.–</td></tr>
+<tr><td>8.10 Emolumenti annuali per la vigilanza continua dei:</td><td></td></tr>
+<tr><td>dei saggiatori del commercio, comprese eventualmente le attività in qualità di fonditori</td><td>5000.–</td></tr>
 <tr><td>2 dei fonditori</td><td>1000.–</td></tr>
 <tr><td>3 degli uffici di controllo cantonali</td><td>5000.–</td></tr>
 <tr><td>8.11 Emolumento per il corso per saggiatori di metalli preziosi che lavorano nell’industria o negli uffici di controllo cantonali, per persona e giornata di corso</td><td>500.–</td></tr>
-<tr><td>8.12 Le valutazioni della conformità di nuovi rivestimenti e materiali sono calcolate in funzione del dispendio effettivo.</td><td></td></tr>
+<tr><td>8.12 Le valutazioni della conformità di nuovi rivestimenti e materiali sono calcolate in funzione del dispendio effettivo.</td><td>[tab]</td></tr>
+</table>
+
+## 9. Altre tasse forfetarie (art. 14*a* cpv. 2)
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>9.1 Tassa di vigilanza per gli acquirenti di materie da fondere di cui all’articolo 31*a* capoversi 2 e 3 LCMP (importo forfetario per quattro anni)</td><td>2000.–</td></tr>
+<tr><td>9.2 Tassa di base per i titolari dell’autorizzazione secondo l’articolo 42<sup>bis</sup> LCMP</td><td>5000.–</td></tr>
 </table>

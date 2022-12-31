@@ -4,29 +4,32 @@ title: Ordonnance du 6 novembre 2019 réglant la perception d’émoluments et d
 short: OEmol-CMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/684"
 language: fr
-version: 2020-01-21
+version: 2023-01-01
 adopted: 2019-11-06
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/684/20200121/fr/xml/fedlex-data-admin-ch-eli-cc-2019-684-20200121-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/684/20200121/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/684/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-684-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/684/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les émoluments pour le contrôle des métaux précieux
+# Ordonnance réglant la perception d’émoluments et de taxes de surveillance par le contrôle des métaux précieux
 
-(OEmol-CMP)
+(OEmol-CMP)[^t-1]
 
-du 6 novembre 2019 (Etat le 21 janvier 2020)
+du 6 novembre 2019 (État le 1<sup>er</sup> janvier 2023)
+
+[^t-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 Le Conseil fédéral suisse,
 
-vu les art. 18, al. 1, 19, 34, al. 2, et 37, al. 3, de la loi du 20 juin 1933 sur le contrôle des métaux précieux (LCMP)[^ingress-1], vu l’art. 46*a* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],
+vu les art. 18, al. 1, 19, 34, al. 2, 36, al. 3, et 37, al. 3, de la loi du 20 juin 1933 sur le contrôle des métaux précieux (LCMP)[^ingress-1], vu l’art. 46*a* de la loi fédérale du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
 [^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## Section 1 Dispositions générales
 
@@ -34,17 +37,31 @@ arrête:
 
 **Objet**
 
-La présente ordonnance régit les émoluments du contrôle des métaux précieux, à savoir:
+La présente ordonnance régit les émoluments et les taxes de surveillance du contrôle des métaux précieux, à savoir:[^1-1]
 
 - a. les émoluments requis pour les prestations de service et décisions du Bureau central du contrôle des métaux précieux (ci-après «bureau central») ainsi que des bureaux de contrôle fédéraux et cantonaux;
 - b. les émoluments requis pour les déterminations de titre effectuées par les essayeurs du commerce selon l’art. 41 LCMP;
-- c. les rétrocessions pour les prestations du bureau central.
+- c. les rétrocessions pour les prestations du bureau central;
+- d.[^1-2] les taxes de surveillance pour les coûts qui ne sont pas couverts par les émoluments perçus pour la surveillance de l’achat par métier de matières pour la fonte au sens de l’art. 36, al. 2, let. e, LCMP et pour la surveillance au sens de l’art. 42<sup>ter</sup> LCMP.
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^1-2]: Introduite par l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 2
 
-**Régime des émoluments**
+**Régime des émoluments**[^2-1]
 
-Quiconque sollicite une prestation de service ou une décision au sens de l’art. 1, let. a, est tenu d’acquitter un émolument.
+<sup>1</sup>
+
+Est tenu d’acquitter un émolument quiconque:
+
+- a. provoque une décision au sens de l’art. 1, let. a;
+- b. sollicite une prestation au sens de l’art. 1, let. a;
+- c. provoque une procédure de surveillance qui ne débouche pas sur une décision ou qui est classée.
+
+<sup>2</sup> Les autorités fédérales, cantonales et communales ne doivent pas acquitter d’émolument pour les prestations du contrôle des métaux précieux dans le domaine de l’assistance administrative et de l’entraide judiciaire.
+
+[^2-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 3
 
@@ -56,13 +73,17 @@ Pour autant que la présente ordonnance ne contienne pas de prescriptions partic
 
 #### Art. 4
 
-**Tarifs**
+**Calculs[^4-1]**
 
-<sup>1</sup> Les émoluments sont calculés selon les tarifs fixés dans l’annexe.
+<sup>1</sup> Le calcul des émoluments et des taxes de surveillance se fonde sur les tarifs fixés dans l’annexe.[^4-2]
 
 <sup>2</sup> Les émoluments requis pour les prestations de service et les décisions pour lesquelles aucun tarif n’est fixé dans l’annexe sont calculés en fonction du temps consacré (art. 14).
 
-<sup>3</sup> Les tarifs doivent être adaptés périodiquement aux prestations effectivement fournies ainsi qu’à l’évolution de la technique.
+<sup>3</sup> Les tarifs des émoluments et des taxes sont adaptés périodiquement aux prestations effectivement fournies, aux coûts engagés et à l’évolution de la technique.[^4-3]
+
+[^4-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^4-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ## Section 2 Contrôle et poinçonnement officiels
 
@@ -170,24 +191,118 @@ La mise sous forme analysable de matières, solutions, sels et autres matériaux
 
 D’autres émoluments forfaitaires sont prélevés pour:
 
-- a. les autorisations;
+- a.[^13-1] les patentes et les autorisations;
 - b. l’enregistrement des poinçons de maître;
 - c. l’obtention d’un diplôme fédéral;
-- d. la surveillance courante des essayeurs du commerce, des fondeurs et des bureaux de contrôle cantonaux;
+- d.[^13-2] la surveillance courante des essayeurs du commerce, des fondeurs, des acheteurs par métier de matières pour la fonte et des bureaux de contrôle cantonaux;
 - e. les cours destinés aux essayeurs-jurés travaillant dans le secteur industriel ou dans les bureaux de contrôle cantonaux;
 - f. l’évaluation de la conformité des nouveaux revêtements et matériaux.
 
 <sup>2</sup> Les émoluments sont calculés selon les tarifs fixés dans l’annexe.
 
+[^13-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^13-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
 ## Section 5 Tarif horaire
 
 #### Art. 14
+
+**Principe[^14-1]**
 
 <sup>1</sup> Les prestations de service, en particulier les expertises, et les décisions pour lesquelles aucun montant n’est fixé sont soumises à un tarif horaire de 90 à 135 francs.
 
 <sup>2</sup> Dans le cadre de la fourchette prévue à l’al. 1, l’émolument est fixé en fonction des connaissances professionnelles requises.
 
 <sup>3</sup> Les heures peuvent être fractionnées en quarts d’heure. Les fractions de quarts d’heure comptent comme des quarts d’heure entiers.
+
+[^14-1]: Introduit par l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 14a
+
+**Émoluments liés à la surveillance du négoce de métaux précieux bancaires**[^14a-1]
+
+<sup>1</sup> Les émoluments pour les contrôles, les procédures de surveillance et les décisions qui sont liés à la surveillance du négoce de métaux précieux bancaires (art. 42<sup>ter</sup> LCMP) sont calculés en fonction du temps consacré à la prestation.
+
+<sup>2</sup> Le tarif horaire pour les émoluments prévus à l’al. 1 est compris entre 250 et 350 francs en fonction des connaissances requises et de la fonction de la personne chargée de l’exécution au sein du bureau central.
+
+[^14a-1]: Introduit par l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+## Section 5*a* Taxes de surveillance
+
+[^sec5a-1]
+
+[^sec5a-1]: Introduite par l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+#### Art. 14b
+
+**Principe, portée et base de calcul**
+
+<sup>1</sup> Les acheteurs de matières pour la fonte au sens de l’art. 31*a* LCMP, les essayeurs du commerce et les sociétés de groupe visés à l’art. 42<sup>bis</sup> LCMP doivent verser une taxe de surveillance annuelle au bureau central.
+
+<sup>2</sup> Les acheteurs de matières pour la fonte au sens de l’art. 31*a* LCMP doivent verser la taxe sous la forme d’un forfait couvrant une période de quatre ans.
+
+<sup>3</sup> Les essayeurs du commerce et les sociétés de groupe visés à l’art. 42<sup>bis</sup> LCMP qui possèdent une autorisation du bureau central pour le négoce de métaux précieux bancaires à titre professionnel versent la taxe sous la forme d’une taxe de base fixe et d’une taxe complémentaire variable.
+
+<sup>4</sup> La taxe complémentaire couvre les coûts qui ne sont pas couverts par la taxe de base.
+
+#### Art. 14c
+
+**Taxe de base**
+
+La taxe de base au sens de l’art. 14*b*, al. 3, est fixée selon le tarif en annexe.
+
+#### Art. 14d
+
+**Taxe complémentaire**
+
+Le montant qui doit être financé par la taxe complémentaire au sens de l’art. 14*b*, al. 3, est couvert à raison d’un dixième par la taxe complémentaire perçue sur le total du bilan et de neuf dixièmes par la taxe complémentaire perçue sur le produit brut.
+
+#### Art. 14e
+
+**Calcul de la taxe complémentaire**
+
+<sup>1</sup>
+
+Le calcul de la taxe complémentaire perçue sur le total du bilan et sur le produit brut se fonde sur le compte de résultats de la personne assujettie au sens de l’art. 959*b* du code des obligations[^14e-1] tel qu’il figure dans les comptes annuels approuvés de l’année précédant l’année de taxation. Pour le domaine concernant le négoce de métaux précieux bancaires, il est possible de déduire:
+
+- a. les variations de stocks de produits finis et semi-finis ainsi que les charges de matériel, en cas d’application d’un compte de résultats par nature;
+- b. les coûts d’acquisition ou de production des produits vendus, en cas d’application d’un compte de résultats par fonction.
+
+<sup>2</sup> Est déterminant pour le calcul de la taxe complémentaire perçue sur le total du bilan et sur le produit brut le résultat des comptes annuels de l’année qui précède l’année de taxation.
+
+<sup>3</sup> Le calcul de la taxe complémentaire perçue sur le produit brut se fonde exclusivement sur le produit brut de l’activité soumise à autorisation obligatoire conformément à l’art. 42<sup>bis</sup> LCMP.
+
+[^14e-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
+#### Art. 14f
+
+**Début et fin de l’assujettissement**
+
+<sup>1</sup> L’assujettissement débute lors de l’octroi de l’autorisation et prend fin lors de son retrait ou de la libération de la surveillance.
+
+<sup>2</sup> Si l’assujettissement ne débute pas ou ne prend pas fin en même temps que l’année de taxation, la taxe est versée au prorata du temps.
+
+<sup>3</sup> Un droit à remboursement fondé sur l’al. 2 n’est recevable à la fin de l’assujettissement qu’à partir d’un montant de 1000 francs.
+
+#### Art. 14g
+
+**Perception des taxes**
+
+<sup>1</sup> Le bureau central perçoit les taxes de surveillance auprès des titulaires d’une autorisation visés à l’art. 42<sup>bis</sup> LCMP sur la base de sa comptabilité analytique pour l’année précédant l’année de taxation.
+
+<sup>2</sup> Il établit après la clôture de sa comptabilité analytique une facture pour chaque assujetti.
+
+#### Art. 14h
+
+**Facturation, échéance, sursis et prescription**
+
+<sup>1</sup> Le bureau central établit des factures pour la taxe de surveillance.
+
+<sup>2</sup> En cas de contestation de la facture, l’assujetti peut demander une décision susceptible de recours.
+
+<sup>3</sup> Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^14h-1] s’appliquent par analogie à l’échéance, au sursis et à la prescription.
+
+[^14h-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Section 6 Rétrocessions pour les des prestations du bureau central
 
@@ -221,13 +336,13 @@ L’ordonnance du 17 août 2005 sur les taxes du contrôle des métaux précieux
 
 **Entrée en vigueur**
 
-### La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
+La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe*[^t-1]*
+Annexe[^t-2]
 
 ## 1. Évaluation de la conformité (art. 6), par ouvrage en or, argent, platine ou palladium:
 
-[^t-1]: Mise à jour par l’erratum du 21 janv. 2020, ne concerne que le texte italien ([RO 2020 253](https://fedlex.data.admin.ch/eli/oc/2020/43)).
+[^t-2]: Mise à jour par l’annexe ch. 5 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 <table>
 <tr><th></th><th>fr.</th></tr>
@@ -299,17 +414,27 @@ Annexe*[^t-1]*
 <tr><td>8.2 Émolument unique d’octroi d’une marque de fondeur supplémentaire</td><td>200.–</td></tr>
 <tr><td>8.3 Autorisation individuelle de fondeur avec marque individuelle de fondeur, octroi ou renouvellement</td><td>200.–</td></tr>
 <tr><td>8.4 Émolument unique d’octroi de l’autorisation d’exercer la profession d’essayeur du commerce</td><td>1500.–</td></tr>
+<tr><td>8.4*a* Octroi d’une autorisation pour le négoce de métaux précieux bancaires</td><td>2500.–</td></tr>
 <tr><td>8.5 Enregistrement ou renouvellement d’un poinçon de maître individuel</td><td>800.–</td></tr>
 <tr><td>8.6 Enregistrement ou renouvellement d’un poinçon de maître collectif:</td><td></td></tr>
 <tr><td>1. par marque et</td><td>800.–</td></tr>
 <tr><td>2. par participant</td><td>200.–</td></tr>
-<tr><td>8.7 Modification ou radiation des patentes, des autorisations ou des poinçons visés aux ch. 8.1 à 8.6</td><td>–.–</td></tr>
+<tr><td>8.6*a* Octroi ou renouvellement d’une patente d’acheteur</td><td>500.–</td></tr>
+<tr><td>8.7 Modification ou radiation des patentes, des autorisations ou des poinçons visés aux ch. 8.1 à 8.6*a*</td><td>–.–</td></tr>
 <tr><td>8.8 Émolument d’inscription à l’examen de diplôme fédéral d’essayeuse‑jurée ou d’essayeur-juré</td><td>150.–</td></tr>
 <tr><td>8.9 Octroi du diplôme fédéral d’essayeuse-jurée ou d’essayeur-juré</td><td>600.–</td></tr>
 <tr><td>8.10 Émoluments annuels pour la surveillance courante:</td><td></td></tr>
-<tr><td>1 des essayeurs du commerce, incluant le cas échéant les activités de fondeur</td><td>5000.–</td></tr>
-<tr><td>2 des fondeurs</td><td>1000.–</td></tr>
-<tr><td>3 des bureaux de contrôle cantonaux</td><td>5000.–</td></tr>
+<tr><td>1. des essayeurs du commerce, incluant le cas échéant les activités de fondeur</td><td>5000.–</td></tr>
+<tr><td>2. des fondeurs</td><td>1000.–</td></tr>
+<tr><td>3. des bureaux de contrôle cantonaux</td><td>5000.–</td></tr>
 <tr><td>8.11 Émolument pour le cours destiné aux essayeurs-jurés actifs dans le secteur industriel ou des bureaux de contrôle cantonaux, par personne et par jour</td><td>500.–</td></tr>
 <tr><td>8.12 Les émoluments dus pour l’évaluation de la conformité des nouveaux revêtements et matériaux sont déterminés en fonction du travail effectif.</td><td></td></tr>
+</table>
+
+## 9. Autres taxes forfaitaires (art. 14*a*, al. 2)
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>9.1 Taxe de surveillance pour acheteurs de matières pour la fonte au sens de l’art. 31*a,* al. 2 et 3, LCMP (forfait couvrant une période de quatre ans).</td><td>2000.–</td></tr>
+<tr><td>9.2 Taxe de base pour les titulaires d’une autorisation visés à l’art. 42<sup>bis</sup> LCMP</td><td>5000.–</td></tr>
 </table>
