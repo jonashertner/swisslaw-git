@@ -4,11 +4,11 @@ title: "Ordonnance du 8 mai 1934 sur le contrôle du commerce des métaux préci
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: fr
-version: 2021-09-01
+version: 2023-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/fr"
 
 (Ordonnance sur le contrôle des métaux précieux, OCMP)[^t-1]
 
-du 8 mai 1934 (Etat le 1<sup>er</sup> septembre 2021)
+du 8 mai 1934 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 1993, en vigueur depuis le 1<sup>er</sup> avr. 1993 ([RO 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -87,24 +87,27 @@ Le bureau central règle toutes les affaires qui découlent de la surveillance d
 - c.[^4-1] d’enregistrer les poinçons de maître (art. 69 à 75);
 - d.[^4-2] de surveiller le contrôle et le poinçonnement officiel des ouvrages en métaux précieux et des ouvrages multimétaux (art. 81 à 123);
 - e.[^4-3] de régler et de surveiller les examens pour l’obtention du diplôme d’essayeur-juré; ainsi que de délivrer et de retirer ces diplômes (art. 22 à 25);
-- f. de délivrer et de retirer les autorisations d’exercer aux essayeurs du commerce (art. 29 et 34);
-- g.[^4-4] de délivrer et de retirer les patentes de fondeur (art. 165, 166*a* et 166*b*);
+- f.[^4-4] de délivrer et de retirer les autorisations d’exercer la profession d’essayeur du commerce (autorisation d’exercer) ainsi que les autorisations supplémentaires en matière de négoce de métaux précieux bancaires à titre professionnel au sens de l’art. 42<sup>bis</sup> de la loi (autorisation supplémentaire) (art. 29, 29*a*, 29*e* et 34);
+- g.[^4-5] de délivrer et de retirer les patentes de fondeur (art. 165, 166*a* et 166*b*);
 - h. de surveiller l’essayage des produits de la fonte (art. 173 à 178);
-- i.[^4-5] d’enregistrer et de conserver les documents et la correspondance envoyés par les bureaux de contrôle, par les essayeurs du commerce et les détenteurs de patentes de fondeur;
-- k.[^4-6] de fournir les poinçons officiels et de détruire les poinçons devenus inutilisables (art. 113 et 114);
-- l.[^4-7] de surveiller le marché intérieur (art. 15, al. 2);
-- m.[^4-8] de statuer sur les recours dirigés contre les décisions prises par les bureaux de contrôle et les essayeurs du commerce;
-- n.[^4-9] de tenir les comptes afférents aux droits et taxes revenant à la Caisse fédérale.
+- i.[^4-6] d’enregistrer et de conserver les documents et la correspondance envoyés par les bureaux de contrôle, par les essayeurs du commerce et les détenteurs de patentes de fondeur;
+- k.[^4-7] de fournir les poinçons officiels et de détruire les poinçons devenus inutilisables (art. 113 et 114);
+- l.[^4-8] de surveiller le marché intérieur (art. 15, al. 2);
+- m.[^4-9] de statuer sur les recours dirigés contre les décisions prises par les bureaux de contrôle et les essayeurs du commerce;
+- n.[^4-10] de tenir les comptes afférents aux droits et taxes revenant à la Caisse fédérale;
+- o.[^4-11] de délivrer et de retirer les patentes d’acheteur de matières pour la fonte (art. 172*a* et 172*c*).
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-4]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^4-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^4-6]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-8]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-9]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-10]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-11]: Introduite par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 5
 
@@ -360,21 +363,94 @@ Le bureau central règle toutes les affaires qui découlent de la surveillance d
 [^28-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^28-3]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### 2. Autorisation d’exercer
+### 2*a*. Autorisation d’exercer
 
 #### Art. 29
 
 [^29-1]
 
-<sup>1</sup> L’exercice de la profession d’essayeur du commerce est subordonné à une autorisation du bureau central. Une entreprise peut obtenir l’autorisation d’exercer la profession d’essayeur du commerce si elle occupe au moins un essayeur-juré.
+<sup>1</sup> L’exercice de la profession d’essayeur du commerce est subordonné à une autorisation du bureau central. Une entreprise peut obtenir l’autorisation d’exercer si elle occupe au moins un essayeur-juré.
 
-<sup>2</sup> L’autorisation d’exercer la profession d’essayeur du commerce doit être demandée par écrit au bureau central.
+<sup>2</sup> L’autorisation d’exercer doit être demandée par écrit au bureau central.
 
 <sup>3</sup> Lorsque les conditions sont remplies, le bureau central accorde l’autorisation d’exercer et publie sa décision dans la *Feuille officielle suisse du commerce.*
 
-<sup>4</sup> Le bureau central tient un registre des titulaires dont il publie périodiquement le contenu.
+<sup>4</sup> Le bureau central tient un registre des titulaires d’une autorisation d’exercer et en publie périodiquement le contenu.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*b*. Autorisation supplémentaire en matière de négoce de métaux précieux bancaires
+
+#### Art. 29a
+
+[^29a-1]
+
+<sup>1</sup> L’autorisation supplémentaire doit être demandée par écrit au bureau central.
+
+<sup>2</sup> Les sociétés qui appartiennent à une société de groupe et qui négocient des métaux précieux bancaires à titre professionnel ont besoin d’une autorisation supplémentaire propre du bureau central.
+
+<sup>3</sup> Est réputé à titre professionnel le négoce de métaux précieux bancaires effectué dans le cadre d’une activité économique indépendante exercée en vue d’obtenir un revenu régulier.
+
+[^29a-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*c*. Pièces justificatives
+
+#### Art. 29b
+
+[^29b-1]
+
+<sup>1</sup>
+
+La demande d’une autorisation supplémentaire doit contenir les indications et documents suivants:
+
+- a. un extrait du registre du commerce de la société ou une attestation de domicile de la personne physique;
+- b. une description des activités commerciales, de la situation financière et, le cas échéant, de la structure du groupe;
+- c. des indications sur toutes les procédures civiles, procédures pénales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger contre les personnes chargées de l’administration ou de la direction des affaires ainsi que contre les personnes qui détiennent une participation qualifiée dans l’essayeur du commerce, dans la mesure où ces indications peuvent influencer la bonne réputation et les garanties de respect des obligations découlant de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[^29b-2];
+- d. les directives internes concernant l’organisation qui garantissent le respect des obligations de diligence des intermédiaires financiers au sens des art. 3 à 8 LBA;
+- e. les extraits du casier judiciaire des personnes chargées de l’administration ou de la direction des affaires ainsi que des personnes qui détiennent une participation qualifiée dans l’essayeur du commerce
+
+<sup>2</sup> Le bureau central peut exiger des preuves supplémentaires dans la mesure où elles sont nécessaires pour vérifier les garanties de respect des obligations découlant de la LBA.
+
+[^29b-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^29b-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### 2*d*. Publication et tenue du registre
+
+#### Art. 29c
+
+[^29c-1]
+
+Les al. 3 et 4 de l’art. 29 sont applicables par analogie à la publication de la décision ainsi qu’à la tenue et à la publication du contenu du registre des titulaires d’une autorisation supplémentaire.
+
+[^29c-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*e*. Modification des faits
+
+#### Art. 29d
+
+[^29d-1]
+
+<sup>1</sup> Les titulaires d’une autorisation supplémentaire annoncent immédiatement au bureau central toute modification des faits déterminante pour l’octroi de l’autorisation.
+
+<sup>2</sup> En cas de modification importante, ils sont tenus de demander une autorisation écrite du bureau central avant de poursuivre leur activité.
+
+[^29d-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*f*. Retrait de l’autorisation supplémentaire
+
+#### Art. 29e
+
+[^29e-1]
+
+<sup>1</sup> Si le titulaire d’une autorisation supplémentaire ne remplit plus les conditions prévues à l’art. 42<sup>bis</sup> de la loi, notamment parce qu’il a violé gravement des dispositions du droit de la surveillance, le bureau central lui retire l’autorisation.
+
+<sup>2</sup> Le bureau central porte, par écrit, à la connaissance du titulaire de l’autorisation supplémentaire, les motifs de retrait et lui impartit un délai approprié pour faire connaître son avis par écrit.
+
+<sup>3</sup> Lorsque cet avis lui est parvenu, le bureau central ordonne les mesures d’enquête nécessaires et rend sa décision. La décision est communiquée par écrit au titulaire de l’autorisation supplémentaire.
+
+<sup>4</sup> Si l’autorisation supplémentaire est retirée, le bureau central le publie dans la *Feuille officielle suisse du commerce*.
+
+[^29e-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 3. Poinçon d’essayeur
 
@@ -432,6 +508,176 @@ Le bureau central règle toutes les affaires qui découlent de la surveillance d
 
 [^34-1]: Phrase abrogée par le ch. IV 82 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+
+### a. Principe
+
+#### Art. 34a
+
+[^34a-1]
+
+<sup>8.</sup> Traitement des données dans le cadre de la surveillance du négoce de métaux précieux bancaires
+
+<sup>1</sup> Le bureau central traite des données, y compris des données personnelles, dans le cadre de la surveillance qu’il exerce en vertu de l’art. 12, let. b<sup>ter</sup>, LBA[^34a-2] et de l’art. 42<sup>ter</sup> de la loi.
+
+<sup>2</sup>
+
+Ces données sont traitées aux fins suivantes:
+
+- a. l’audit des assujettis;
+- b. la surveillance;
+- c. la conduite d’une procédure;
+- d. l’évaluation des garanties de respect des obligations découlant de la LBA;
+- e. l’assistance administrative et l’entraide judiciaire nationales et internationales.
+
+<sup>3</sup> Le bureau central tient un registre des assujettis.
+
+[^34a-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34a-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### b. Données traitées
+
+#### Art. 34b
+
+[^34b-1]
+
+<sup>1</sup> Les données ne peuvent être traitées que pour contrôler le respect des obligations de diligence.
+
+<sup>2</sup>
+
+Le bureau central collecte et traite les données suivantes à cette fin:
+
+- a.
+
+  extraits:
+
+  - 1\. du registre du commerce,
+  - 2\. du registre des poursuites,
+  - 3\. du registre des faillites,
+  - 4\. du casier judiciaire;
+
+- b. directives internes concernant l’organisation qui garantissent le respect des obligations de diligence au sens des art. 3 à 8 LBA;
+- c.
+
+  caractéristiques d’identification et documents justificatifs relatifs aux personnes chargées de l’administration et de la direction des affaires:
+
+  - 1\. pour les personnes physiques: nom, prénom, date de nais-sance, adresse de domicile, nationalité ainsi que type et numéro du document d’identification,
+  - 2\. pour les personnes morales: raison sociale et adresse du siège;
+
+- d.
+
+  caractéristiques d’identification et documents justificatifs relatifs aux ayants droit économiques des valeurs patrimoniales:
+
+  - 1\. pour les personnes physiques: nom, prénom, date de nais-sance, adresse de domicile, nationalité ainsi que type et numéro du document d’identification,
+  - 2\. pour les personnes morales: raison sociale et adresse du siège;
+
+- e. documents relatifs aux relations d’affaires et aux transactions comportant des risques accrus;
+- f. documents relatifs à la détermination du titre et aux émoluments prélevés à cette fin;
+- g.
+
+  formation et activité professionnelle:
+
+  - 1\. attestations relatives à la formation et à la formation conti-nue,
+  - 2\. qualifications et activités professionnelles,
+  - 3\. lieu de travail et employeur;
+
+- h. documents relatifs à l’identification des personnes desquelles ont été reçus les matières pour la fonte et les produits de la fonte;
+- i. documents supplémentaires concernant le moment de la récep-tion de la marchandise, le genre et la quantité de marchandises reçues, leur traitement et la liquidation de la transaction;
+- j. évaluation des risques spécifiques à l’entreprise concernant les risques juridiques et de réputation globaux;
+- k. documents relatifs à la sélection avec soin du personnel et à sa formation régulière.
+
+[^34b-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### c. Collecte des données
+
+#### Art. 34c
+
+[^34c-1]
+
+<sup>1</sup>
+
+Le bureau central collecte des données auprès:
+
+- a. des assujettis;
+- b. des employeurs;
+- c. de la personne concernée;
+- d. de requérants;
+- e. des autorités nationales et étrangères;
+- f. de parties à la procédure.
+
+<sup>2</sup> Il peut également inclure dans la collecte des données qui sont portées à sa connaissance par des tiers, pour autant qu’il s’agisse de données au sens de l’art. 34*b*.
+
+[^34c-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### d. Transmission des données à des chargés d’audit
+
+#### Art. 34d
+
+[^34d-1]
+
+Le bureau central peut transmettre, dans le cadre de sa surveillance, des données personnelles qui ne sont pas accessibles au public à des chargés d’audit et les faire traiter par ces derniers:
+
+- a. si le traitement de ces données est nécessaire à l’accomplissement de leur mandat, et
+- b. si des mesures organisationnelles et techniques appropriées sont prises afin de s’assurer que les données ne sont traitées que conformément aux instructions et qu’elles sont protégées contre tout traitement non autorisé.
+
+[^34d-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### e. Droits des personnes concernées
+
+#### Art. 34e
+
+[^34e-1]
+
+Les droits des personnes concernées, en particulier le droit d’accès aux données, à leur rectification et à leur destruction, sont régis par la loi fédérale du 19 juin 1992 sur la protection des données[^34e-2].
+
+[^34e-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### f. Rectification des données
+
+#### Art. 34f
+
+[^34f-1]
+
+Le bureau central rectifie ou détruit sans délai les données qui sont inexactes, incomplètes ou qui ne servent pas à une des fins visées à l’art. 34*a*, al. 2.
+
+[^34f-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### g. Sécurité des données
+
+#### Art. 34g
+
+[^34g-1]
+
+<sup>1</sup> Les art. 20 et 21 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^34g-2] et l’ordonnance du 27 mai 2020 sur les cyberrisques[^34g-3] sont applicables pour assurer la sécurité des données.
+
+<sup>2</sup> Les données, les programmes et la documentation qui y est rattachée doivent être protégés contre tout traitement non autorisé, la destruction et le vol. Ils doivent pouvoir être restaurés.
+
+[^34g-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34g-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34g-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+
+### h. Délai de conservation et effacement des données
+
+#### Art. 34h
+
+[^34h-1]
+
+<sup>1</sup> Les données du système d’information sont conservées pendant dix ans au plus à compter de leur collecte par le bureau central. Les enregistrements sont effacés séparément.
+
+<sup>2</sup> Si une personne est mentionnée dans plusieurs enregistrements, le bureau central n’efface que ceux qui sont échus. Les caractéristiques d’identification au sens de l’art. 34*b*, al. 2, let. c et d, sont effacées en même temps que le dernier enregistrement la concernant.
+
+[^34h-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### i. Remise des données et des documents aux Archives fédérales
+
+#### Art. 34i
+
+[^34i-1]
+
+La remise des données et des documents du bureau central aux Archives fédérales est régie par la loi du 26 juin 1998 sur l’archivage[^34i-2] et ses dispositions d’exécution.
+
+[^34i-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34i-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Chapitre II Dispositions sur les catégories d’ouvrages et le titre
 
@@ -1615,7 +1861,11 @@ L’art. 131 est applicable au contrôle à l’exportation des ouvrages soumis 
 
 [^162163-1]: Abrogés par le ch. I de l’O du 19 juin 1995, avec effet au 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Chapitre VIII Fabrication de produits de la fonte
+## Chapitre VIII Commerce des produits de la fonte et des matières pour la fonte
+
+[^chap8-1]
+
+[^chap8-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### I. Définition du caractère industriel
 
@@ -1627,7 +1877,13 @@ L’art. 131 est applicable au contrôle à l’exportation des ouvrages soumis 
 
 <sup>2</sup> N’est pas réputée industrielle la fabrication de produits de la fonte destinés à être employés dans l’entreprise même.
 
+<sup>3</sup> Est réputé achat par métier l’achat de matières pour la fonte dans le cadre d’une activité économique indépendante exercée en vue d’obtenir un revenu régulier, qu’il s’agisse d’une activité principale ou accessoire.[^164-2]
+
+<sup>4</sup> N’est pas réputé achat par métier l’achat de matières pour la fonte lorsque la valeur marchande totale de la marchandise négociée est inférieure à 50 000 francs par année civile.[^164-3]
+
 [^164-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^164-2]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^164-3]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### II. Patente de fondeur
 
@@ -1663,18 +1919,25 @@ Les demandes émanant de particuliers doivent être accompagnées:
 
 - a. d’une attestation de domicile délivrée par l’autorité communale;
 - b. d’un extrait de l’inscription au registre suisse du commerce;
-- c. d’un extrait du casier judiciaire suisse, et
-- d. d’une attestation des autorités communales ou cantonales compétentes certifiant la conformité des installations techniques et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
+- c. d’un extrait du casier judiciaire suisse;
+- d.[^165b-2] d’indications sur toutes les procédures civiles, procédures pénales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger, dans la mesure où ces indications peuvent influencer la bonne réputation et les garanties d’une activité irréprochable, et
+- e.[^165b-3] d’une attestation des autorités communales ou cantonales com-pétentes certifiant la conformité des installations techniques et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
 
 <sup>2</sup>
 
-Les demandes émanant de sociétés commerciales ou coopératives, ainsi que de sociétés étrangères doivent être accompagnées:
+Les demandes émanant de sociétés commerciales ou coopératives, ainsi que de succursales suisses de sociétés étrangères doivent être accompagnées:[^165b-4]
 
 - a. d’un extrait de l’inscription au registre suisse du commerce;
-- b. d’un extrait du casier judiciaire suisse des dirigeants et des personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte, et
-- c. d’une attestation des autorités communales ou cantonales compétentes certifiant la conformité des installations techniques et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
+- b. d’un extrait du casier judiciaire suisse des dirigeants et des personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte;
+- c.[^165b-5] d’indications sur toutes les procédures civiles, procédures pénales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger contre les personnes chargées de la direction des affaires et les personnes appelées à traiter des opérations commerciales relatives aux matières pour la fonte et aux produits de la fonte, dans la mesure où ces indications peuvent influencer la bonne réputation et les garanties d’une activité irréprochable, et
+- d.[^165b-6] d’une attestation des autorités communales ou cantonales com-pétentes certifiant la conformité des installations et des locaux servant à la fonte des métaux précieux aux exigences en matière de protection de l’environnement et de lutte contre l’incendie.
 
 [^165b-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^165b-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-3]: Introduite par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-5]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-6]: Introduite par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 4. Décision
 
@@ -1694,9 +1957,9 @@ Les demandes émanant de sociétés commerciales ou coopératives, ainsi que de 
 
 [^166-1]
 
-Pour le renouvellement de la patente, le bureau central peut exiger les mêmes attestations et documents justificatifs que ceux requis pour l’octroi de la patente.
+Le bureau central peut exiger, pour le renouvellement de la patente de fondeur, les mêmes attestations et documents justificatifs que pour l’octroi de la patente.
 
-[^166-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 6. Retrait
 
@@ -1708,11 +1971,13 @@ Pour le renouvellement de la patente, le bureau central peut exiger les mêmes a
 
 <sup>2</sup> Les bureaux de contrôle sont tenus de communiquer immédiatement au bureau central les faits de ce genre et de lui faire tenir en même temps les preuves, telles que documents et témoignages.
 
-<sup>3</sup> Le bureau central porte, par écrit, à la connaissance du titulaire, les motifs de retrait et lui impartit un délai approprié pour faire connaître son avis par écrit.
+<sup>3</sup> Le bureau central porte, par écrit, à la connaissance du titulaire de la patente de fondeur, les motifs de retrait et lui impartit un délai approprié pour faire connaître son avis par écrit.[^166a-2]
 
-<sup>4</sup> Lorsque cet avis lui est parvenu, le bureau central ordonne les mesures d’enquête nécessaires et rend sa décision. La décision est communiquée par écrit au titulaire.
+<sup>4</sup> Lorsque cet avis lui est parvenu, le bureau central ordonne les mesures d’enquête nécessaires et rend sa décision. La décision est communiquée par écrit au titulaire de la patente de fondeur.[^166a-3]
 
 [^166a-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166a-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^166a-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 7. Publication
 
@@ -1720,9 +1985,9 @@ Pour le renouvellement de la patente, le bureau central peut exiger les mêmes a
 
 [^166b-1]
 
-Lors de la publication de l’octroi et du retrait de la patente de fondeur dans la Feuille officielle suisse du commerce doivent être indiqués exactement la personne du titulaire de la patente et, lorsqu’il s’agit de sociétés commerciales ou coopératives, les organes dirigeants et les locaux commerciaux.
+Lors de la publication de l’octroi et du retrait de la patente de fondeur dans la *Feuille officielle suisse du commerce* doivent être indiqués exactement la personne du titulaire de la patente de fondeur et, lorsqu’il s’agit de sociétés commerciales ou coopératives, les organes dirigeants et les locaux commerciaux.
 
-[^166b-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166b-1]: Introduit par le ch. I de l’O du 26 mai 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 167
 
@@ -1730,13 +1995,17 @@ Lors de la publication de l’octroi et du retrait de la patente de fondeur dans
 
 [^167-1]: Abrogé par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### III. Exercice de la profession patentée.
+### 1. Obligations du titulaire de la patente de fondeur
 
-### 1. Obligations du titulaire
+[^chap8-lvlII-lvl1-1]
+
+[^chap8-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 168
 
 [^168-1]
+
+III. Exercice de la profession patentée.
 
 <sup>1</sup> Dans l’exercice de son activité commerciale, le titulaire de la patente de fondeur doit se conformer strictement aux dispositions de la loi et aux prescriptions d’exécution, ainsi qu’aux instructions spéciales du bureau central, et éviter tout ce qui pourrait inciter des tiers à commettre une infraction.
 
@@ -1754,14 +2023,15 @@ Lors de la publication de l’octroi et du retrait de la patente de fondeur dans
 
 <sup>2</sup> L’identité du client doit être vérifiée au moyen d’un document probant, tel qu’un passeport ou une carte d’identité.
 
-<sup>3</sup> En cas de doute quant à la provenance de la marchandise ou si les offres émanent d’inconnus, le titulaire de la patente est tenu de clarifier minutieusement la provenance des matières pour la fonte et des produits de la fonte.
+<sup>3</sup> En cas de doute sur la provenance de la marchandise ou si les offres émanent d’inconnus, le titulaire de la patente de fondeur est tenu de clarifier minutieusement la provenance des matières pour la fonte et des produits de la fonte.[^168a-2]
 
-<sup>4</sup> En ce qui concerne l’obligation, pour le titulaire d’une patente de fondeur, de dénoncer les infractions aux lois pénales cantonales, les prescriptions cantonales sont applicables. Les infractions aux dispositions de droit fédéral doivent être dénoncées au bureau central, au bureau de contrôle intéressé ou au bureau de douane le plus proche. En outre, les dispositions de la loi du 10 octobre 1997 sur le blanchiment d’argent[^168a-2] sont applicables.
+<sup>4</sup> En ce qui concerne l’obligation, pour le titulaire d’une patente de fondeur, de dénoncer les infractions aux lois pénales cantonales, les prescriptions cantonales sont applicables. Les infractions aux dispositions de droit fédéral doivent être dénoncées au bureau central, au bureau de contrôle intéressé ou au bureau de douane le plus proche. En outre, les dispositions de la loi du 10 octobre 1997 sur le blanchiment d’argent[^168a-3] sont applicables.
 
 <sup>5</sup> S’il y a lieu de soupçonner que les marchandises offertes ont été acquises illicitement, il convient d’aviser immédiatement les autorités de police compétentes et de leur demander des instructions.
 
 [^168a-1]: Introduit par le ch. I de l’O du 19 juin 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^168a-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^168a-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^168a-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 ### 3. Mesures organisationnelles
 
@@ -1769,13 +2039,15 @@ Lors de la publication de l’octroi et du retrait de la patente de fondeur dans
 
 [^168b-1]
 
-<sup>1</sup> Le titulaire de la patente prend, dans son entreprise, toutes les mesures organisationnelles nécessaires afin d’empêcher la fonte de matières pour la fonte de provenance illicite. Il veille à la mise en place de mesures de contrôle et de surveillance interne ainsi qu’à la formation adéquate du personnel.
+<sup>1</sup> Le titulaire de la patente de fondeur prend, dans son entreprise, toutes les mesures organisationnelles nécessaires afin d’empêcher la fonte de matières pour la fonte de provenance illicite. Il veille à la mise en place de mesures de contrôle et de surveillance interne ainsi qu’à la formation adéquate du personnel.[^168b-2]
 
-<sup>2</sup> Lorsque le titulaire de la patente est tenu de clarifier minutieusement la provenance de la marchandise, conformément à l’art. 168*a*, al. 3, il doit conserver la marchandise en l’état, sans traitement ni fonte, jusqu’à ce que l’affaire soit élucidée.
+<sup>2</sup> Lorsque le titulaire de la patente de fondeur est tenu de clarifier minutieusement la provenance de la marchandise, conformément à l’art. 168*a*, al. 3, il doit conserver la marchandise en l’état, sans traitement ni fonte, jusqu’à ce que l’affaire soit élucidée.[^168b-3]
 
 <sup>3</sup> Les documents relatifs au commerce de matières pour la fonte et de produits de la fonte doivent être conservés pendant dix ans.
 
 [^168b-1]: Introduit par le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^168b-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^168b-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### IV. Comptabilité
 
@@ -1820,21 +2092,22 @@ Doivent apparaître dans la comptabilité au moins:
 
 ### VI. Poinçon de fondeur
 
-[^chap8-lvlVI-1]
+[^chap8-lvlV-1]
 
-[^chap8-lvlVI-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlV-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 169
 
 [^169-1]
 
-<sup>1</sup> Le poinçon de fondeur est constitué du nom encadré, en toutes lettres ou abrégé, du titulaire et du mot «fondeur». Le fondeur qui est aussi titulaire d’une autorisation d’exercer la profession d’essayeur du commerce peut déposer un poinçon combiné d’essayeur-fondeur.
+<sup>1</sup> Le poinçon de fondeur est constitué du nom encadré, en toutes lettres ou abrégé, du titulaire et du mot «fondeur». Le fondeur qui est aussi titulaire d’une autorisation d’exercer peut déposer un poinçon combiné d’essayeur-fondeur.[^169-2]
 
 <sup>2</sup> Pour l’enregistrement du poinçon de fondeur, les dispositions prévues au chap. 4, concernant le dépôt d’un poinçon de maître, sont applicables par analogie. La durée de validité du poinçon de fondeur correspond à la durée de validité de la patente de fondeur.
 
 <sup>3</sup> La demande d’enregistrement d’un poinçon de fondeur doit être présentée au bureau central en même temps que la demande d’octroi de la patente de fondeur. Le requérant peut demander l’enregistrement de plusieurs poinçons de fondeur.
 
 [^169-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^169-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 170
 
@@ -1846,9 +2119,9 @@ Doivent apparaître dans la comptabilité au moins:
 
 ### 1. Autorisation
 
-[^chap8-lvlVII-lvl1-1]
+[^chap8-lvlVI-lvl1-1]
 
-[^chap8-lvlVII-lvl1-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlVI-lvl1-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 171
 
@@ -1862,9 +2135,9 @@ Doivent apparaître dans la comptabilité au moins:
 
 ### 2. Poinçon individuel de fondeur
 
-[^chap8-lvlVII-lvl2-1]
+[^chap8-lvlVI-lvl2-1]
 
-[^chap8-lvlVII-lvl2-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlVI-lvl2-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 172
 
@@ -1880,21 +2153,115 @@ Doivent apparaître dans la comptabilité au moins:
 
 [^172-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### VIII. Essayage des produits de la fonte
+### 1. Enregistrement et autorisation
+
+#### Art. 172a
+
+[^172a-1]
+
+VIII. Patente d’acheteur
+
+L’enregistrement et l’autorisation pour l’achat par métier de matières pour la fonte doivent être demandés par écrit au bureau central.
+
+[^172a-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Pièces justificatives
+
+#### Art. 172b
+
+[^172b-1]
+
+<sup>1</sup> La garantie d’une activité commerciale irréprochable au sens de l’art. 31*a*, al. 3, de la loi doit être justifiée par écrit.
+
+<sup>2</sup>
+
+Les demandes émanant de particuliers doivent être accompagnées:
+
+- a. d’une attestation de domicile établie par l’autorité communale en Suisse ou à l’étranger;
+- b. d’une description de l’activité commerciale et de la situation fi-nancière;
+- c. d’un extrait du casier judiciaire établi par l’autorité nationale de l’État où se trouve le domicile;
+- d. d’indications sur toutes les procédures civiles, procédures pé-nales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger, dans la mesure où ces indi-cations peuvent influencer la bonne réputation et les garanties d’une activité irréprochable.
+
+<sup>3</sup>
+
+Les demandes émanant de sociétés étrangères doivent être accompa-gnées:
+
+- a. d’une attestation du siège;
+- b. d’une description des activités commerciales, de la situation fi-nancière et, le cas échéant, de la structure du groupe;
+- c. d’un extrait du casier judiciaire des personnes chargées de la direction des affaires et des personnes appelées à traiter des opérations relatives à l’achat de matières pour la fonte, établi par l’autorité nationale de l’État où se trouve le siège;
+- d. d’indications sur toutes les procédures civiles, procédures pénales, procédures administratives, procédures de surveillance, procédures de poursuite et procédures de faillite, pendantes ou terminées, en Suisse ou à l’étranger contre les personnes char-gées de la direction des affaires et les personnes appelées à trai-ter des opérations relatives à l’achat de matières pour la fonte, dans la mesure où ces indications peuvent influencer la bonne réputation et les garanties d’une activité irréprochable.
+
+[^172b-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 3. Octroi, renouvellement, retrait et publication
+
+#### Art. 172c
+
+[^172c-1]
+
+Les art. 165*c*, 166, 166*a* et 166*b* sont applicables par analogie à l’octroi, au renouvellement, au retrait et à la publication de la patente d’acheteur.
+
+[^172c-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 1. Obligations générales
+
+#### Art. 172d
+
+[^172d-1]
+
+IX. Obligations en matière d’achat par métier de matières pour la fonte
+
+L’art. 168 est applicable par analogie aux acheteurs enregistrés et aux titulaires d’une patente d’acheteur.
+
+[^172d-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Obligations de diligence et obligations en matière de documentation
+
+#### Art. 172e
+
+[^172e-1]
+
+<sup>1</sup> Les art. 168*a* et 168*b* sont applicables par analogie à l’acceptation de matières pour la fonte, tant par les acheteurs enregistrés que par les titulaires d’une patente d’acheteur.
+
+<sup>2</sup>
+
+Les achats doivent être documentés sous une forme appropriée. Les indications minimales suivantes doivent être fournies:
+
+- a. le nom et l’adresse du client;
+- b. la date de réception de la marchandise;
+- c. la description précise de la marchandise et, si elle est connue, la composition de la marchandise;
+- d. le poids de la marchandise;
+- e. le prix d’achat;
+- f. la signature du client.
+
+[^172e-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### X. Surveillance
+
+#### Art. 172f
+
+[^172f-1]
+
+L’art. 168*d* est applicable par analogie à la surveillance par le bureau central.
+
+[^172f-1]: Introduit par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. Conditions
 
-[^chap8-lvlVIII-lvl1-1]
+[^chap8-lvlVI-lvl1-2]
 
-[^chap8-lvlVIII-lvl1-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlVI-lvl1-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 173
 
+XI. Essayage des produits de la fonte
+
 <sup>1</sup> Les produits de la fonte destinés à être revendus doivent être essayés. Cette opération est attestée par l’apposition du poinçon d’un bureau de contrôle (ch. 4 de l’annexe) ou d’un essayeur du commerce.[^173-1]
 
-<sup>2</sup> L’apposition de l’indication de titre par le fondeur lui-même n’est admise que si celui-ci possède également une patente d’essayeur du commerce.
+<sup>2</sup> L’apposition de l’indication de titre par le fondeur lui-même n’est admise que si celui-ci possède également une autorisation d’exercer.[^173-2]
 
 [^173-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^173-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 2. Procédé
 
@@ -2159,13 +2526,13 @@ Chiffre 1
 
 ### Reproduction du poinçon officiel (poinçon de garantie)
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 19 juin 1995, en vigueur depuis le 1<sup>er</sup> août 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 19 juin 1995 ([RO 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)). Mise à jour par l’annexe ch. 4 de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 (art. 109, al. 1)
 
 <table>
-<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image1.png)</td></tr>
-<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Grand poinçon:** Dimensions: Hauteur: 1,6 mm Largeur: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image1.png)</td></tr>
+<tr><td>**Petit poinçon:** Dimensions: Hauteur: 0,8 mm Largeur: 1 mm Les dimensions suivantes sont autorisées pour les petits poinçons apposés par ablation laser: Hauteur: 0,5 mm Largeur: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Note:
@@ -2179,7 +2546,7 @@ Chiffre 2
 (art. 58, al. 3)
 
 <table>
-<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image2.png)</td></tr>
+<tr><td>Dimension: 0,8 mm de côté</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image2.png)</td></tr>
 </table>
 
 Note:
@@ -2215,8 +2582,8 @@ Exemples:
 
 Bureaux fédéraux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image3.png)
 
 Bureaux cantonaux:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/fr/xml/image/image3.png)

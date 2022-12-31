@@ -4,11 +4,11 @@ title: "Ordinance of 8 May 1934 on the Control of Trade in Precious Metals and A
 short: PMCO
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: en
-version: 2021-09-01
+version: 2023-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Precious Metals Control Ordinance, PMCO)[^t-1]
 
-of 8 May 1934 (Status as of 1 September 2021)
+of 8 May 1934 (Status as of 1 January 2023)
 
 [^t-1]: Amended by No I of the O of 17 Feb. 1993, in force since 1 April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -89,27 +89,30 @@ The Central Office is responsible for all business matters involved in supervisi
 - c.[^4-3] register the responsibility marks (Art. 69–75);
 - d.[^4-4] supervise the official controlling and hallmarking of precious metal articles and multi–metal articles (Art. 81–123);
 - e.[^4-5] arrange and supervise the diploma examination for sworn assayers and also issue and withdraw diplomas (Art. 22 and 25);
-- f. issue and withdraw assayer licences as trade assayers (Art. 29 and 34);
-- g.[^4-6] issue and withdraw melter’s licences (Art. 165, 166a and 166);
+- f.[^4-6] issue and withdraw assayer licences as trade assayers (assayer licence) and additional licences for the commercial trade in banking precious metals in accordance with Article 42<sup>bis</sup> of the Act (additional licence) (Art. 29, 29a, 29e and 34);
+- g.[^4-7] issue and withdraw melter’s licences (Art. 165, 166a and 166);
 - h. supervise the determinations of the fineness of melt products (Art. 173–178);
-- i.[^4-7] register and store documents sent by the Assay Offices, by sworn trade assayers and by holders of melter’s licences as well as other correspondence;
-- k.[^4-8] procure new official stamps/hallmarks and destroy those which have become unusable[^4-9] (Art. 113 and 114);
-- l.[^4-10] supervise the domestic market (Art. 15 para. 2);
-- m.[^4-11] rule on appeals against orders of Assay Offices and trade assayers;
-- n.[^4-12] keep accounts for the fees flowing into the federal coffers.
+- i.[^4-8] register and store documents sent by the Assay Offices, by sworn trade assayers and by holders of melter’s licences as well as other correspondence;
+- k.[^4-9] procure new official stamps/hallmarks and destroy those which have become unusable[^4-10] (Art. 113 and 114);
+- l.[^4-11] supervise the domestic market (Art. 15 para. 2);
+- m.[^4-12] rule on appeals against orders of Assay Offices and trade assayers;
+- n.[^4-13] keep accounts for the fees flowing into the federal coffers;
+- o.[^4-14] issue and withdraw purchase licences for melt material (Art. 172a and 172c).
 
 [^4-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-2]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^4-3]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-4]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-5]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-6]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^4-6]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-7]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^4-8]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-9]: The terms «stamp» and «hallmark» have the same meaning here.
-[^4-10]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-8]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^4-9]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-10]: The terms «stamp» and «hallmark» have the same meaning here.
 [^4-11]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-12]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-13]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-14]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 5
 
@@ -371,21 +374,94 @@ The Central Office is responsible for all business matters involved in supervisi
 [^28-2]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^28-3]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### 2. Operating licence
+### 2*a*. Assayer licence
 
 #### Art. 29
 
 [^29-1]
 
-<sup>1</sup> An assayer licence from the Central Office is required to operate as a trade assayer. A company may be issued with an assayer licence as a trade assayer if it employs at least one sworn assayer.
+<sup>1</sup> An assayer licence from the Central Office is required to operate as a trade assayer. A company may be issued with an assayer licence if it employs at least one sworn assayer.
 
-<sup>2</sup> The assayer licence as trade assayer must be applied for in writing from the Central Office.
+<sup>2</sup> The assayer licence must be applied for in writing from the Central Office.
 
 <sup>3</sup> If the requirements are met, the Central Office shall issue the assayer licence and give notice of this in the Swiss Official Gazette of Commerce.
 
-<sup>4</sup> The Central Office shall maintain a register of the holders of such licences and shall periodically publish its content.
+<sup>4</sup> The Central Office shall maintain a register of the holders of assayer licences and shall periodically publish its content.
 
-[^29-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^29-1]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*b*. Additional licence for trading in banking precious metals
+
+#### Art. 29a
+
+[^29a-1]
+
+<sup>1</sup> The additional licence must be applied for in writing from the Central Office.
+
+<sup>2</sup> Companies that are part of a corporate group and trade on a commercial basis in banking precious metals require an individual additional licence from the Central Office.
+
+<sup>3</sup> Trading in banking precious metals is deemed to be on a commercial basis if performed as part of an independent economic activity pursued on a permanent, for-profit basis.
+
+[^29a-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*c*. Supporting documents
+
+#### Art. 29b
+
+[^29b-1]
+
+<sup>1</sup>
+
+The application for an additional licence must contain the following information and be accompanied by the following documents:
+
+- a. an extract from the commercial register for the company, or a certificate of residence for natural persons;
+- b. a description of business activities, the financial situation and, if applicable, the group structure;
+- c. information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad against the members of the board and executive management and against persons holding a qualified participation in the trade assayer, where such information could impinge on the good reputation and the guarantee of compliance with the duties under the Anti-Money Laundering Act of 10 October 1997[^29b-2] (AMLA);
+- d. the internal directives on the operational organisation which are used to guarantee compliance with the duty of due diligence in accordance with Articles 3–8 of the AMLA;
+- e. extracts from the register of convictions for the members of the board and executive management and for persons holding a qualified participation in the trade assayer.
+
+<sup>2</sup> The Central Office may request additional supporting documents where required for the purpose of checking the guarantee of compliance with the duties under the AMLA.
+
+[^29b-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^29b-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### 2*d*. Announcement and keeping of the register
+
+#### Art. 29c
+
+[^29c-1]
+
+With regard to announcing, keeping and publishing the contents of the register of owners of an additional licence, Article 29 paragraphs 3 and 4 apply by analogy.
+
+[^29c-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*e*. Change in circumstances
+
+#### Art. 29d
+
+[^29d-1]
+
+<sup>1</sup> Holders of an additional licence shall notify the Central Office immediately of any changes in the circumstances in which the licence is based.
+
+<sup>2</sup> If the changes are of material significance, the licence holder must obtain written authorisation from the Central Office before continuing the activity.
+
+[^29d-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*f*. Withdrawal of the additional licence
+
+#### Art. 29e
+
+[^29e-1]
+
+<sup>1</sup> If the holder of an additional licence no longer meets the criteria set out in Article 42<sup>bis</sup> of the Act, namely in the case of a serious breach of supervisory provisions, the Central Office shall withdraw the licence.
+
+<sup>2</sup> The Central Office shall notify the holder of the additional licence in writing of the reasons for withdrawal and fix a reasonable deadline for submitting a written formal response.
+
+<sup>3</sup> Once this has been received, the Central office shall order the required inspection measures and make its decision. The decision shall be forwarded to the holder of the additional licence in writing.
+
+<sup>4</sup> If the additional licence is withdrawn, the Central Office shall give notice of this in the Swiss Official Gazette of Commerce.
+
+[^29e-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 3. Marking
 
@@ -442,6 +518,175 @@ The Central Office is responsible for all business matters involved in supervisi
 
 [^34-1]: Fourth sentence repealed by No IV 82 of the O of 22 Aug. 2007 on the formal adjustment of federal law, with effect from 1 Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+
+### 8. Processing of data in the supervision of trading in banking precious metals a. Principle
+
+#### Art. 34a
+
+[^34a-1]
+
+<sup>1</sup> As part of the supervision in accordance with Article 12 letter b<sup>ter</sup> of the AMLA[^34a-2] and Article 42<sup>ter</sup> of the Act, the Central Office shall process data, including personal data.
+
+<sup>2</sup>
+
+This data shall be processed for the following purposes:
+
+- a. auditing the supervised entities;
+- b. supervision;
+- c. conducting proceedings;
+- d. assessing the guarantee of compliance with the duties under the AMLA;
+- e. national and international administrative and legal assistance.
+
+<sup>3</sup> The Central Office shall keep a register of supervised entities.
+
+[^34a-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34a-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### b. Processed data
+
+#### Art. 34b
+
+[^34b-1]
+
+<sup>1</sup> The data may be processed only for the purpose of checking compliance with the duty of due diligence.
+
+<sup>2</sup>
+
+For this purpose, the Central Office shall collect and process the following data:
+
+- a.
+
+  extracts from:
+
+  - 1\. the commercial register,
+  - 1\. the debt enforcement register,
+  - 1\. the bankruptcy register,
+  - 1\. the register of convictions;
+
+- b. internal directives on the operational organisation which are used to guarantee compliance with the duty of due diligence in accordance with Articles 3–8 of the AMLA[^34b-2];
+- c.
+
+  identification features and supporting documents for the members of the board and executive management:
+
+  - 1\. for natural persons: surname, first name, date of birth, home address, nationality, and type and number of the proofs of identification,
+  - 2\. for legal entities: company name and domicile address;
+
+- d.
+
+  identification features and supporting documents for the beneficial owners of the assets:
+
+  - 1\. for natural persons: surname, first name, date of birth, home address, nationality, and type and number of the proofs of identification,
+  - 2\. for legal entities: company name and domicile address;
+
+- e. documentation on high-risk business relationships and transactions;
+- f. documentation on fineness determinations and the fees charged in that regard;
+- g.
+
+  training and professional activity:
+
+  - 1\. proof of training and continuing professional development,
+  - 2\. professional qualifications and activities,
+  - 3\. place of employment and employer;
+
+- h. documents on the identification of persons from whom melt material or melt products were accepted;
+- i. additional records on the time of acceptance of the goods, the type and amount of the goods accepted, their processing and completion of the transaction;
+- j. company-specific risk assessment with regard to global legal and reputational risks;
+- k. documents on due diligence in selecting staff and on their regular training.
+
+[^34b-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34b-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### c. Collection of data
+
+#### Art. 34c
+
+[^34c-1]
+
+<sup>1</sup>
+
+The Central Office collects data from:
+
+- a. supervised entities;
+- b. employers;
+- c. the person concerned;
+- d. applicants;
+- e. domestic and foreign authorities;
+- f. parties in proceedings.
+
+<sup>2</sup> The Central Office may also collect data provided to it by third parties, provided such data is in accordance with Article 34*b*.
+
+[^34c-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### d. Transmission of data to audit agents
+
+#### Art. 34d
+
+[^34d-1]
+
+As part of the supervisory process, the Central Office may transmit non-publicly accessible personal data to audit agents and have this data processed by them if:
+
+- a. the data processing is necessary for the fulfilment of the contract; and
+- b. appropriate organisational and technical measures are taken to ensure that the data is processed only in accordance with the directives and is protected from unauthorised processing.
+
+[^34d-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### e. Rights of the persons concerned
+
+#### Art. 34e
+
+[^34e-1]
+
+The rights of the persons concerned, particularly the right to information and the right to the correction or destruction of data, shall be governed by the Federal Act of 19 June 1992[^34e-2] on Data Protection.
+
+[^34e-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### f. Correction of data
+
+#### Art. 34f
+
+[^34f-1]
+
+The Central Office shall immediately correct or destroy data which is incorrect or incomplete or is not intended for a purpose in accordance with Article 34*a* paragraph 2.
+
+[^34f-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### g. Data security
+
+#### Art. 34g
+
+[^34g-1]
+
+<sup>1</sup> As regards data security, Articles 20 and 21 of the Ordinance of 14 June 1993[^34g-2] to the Federal Act on Data Protection and the Cyber Risks Ordinance of 27 May 2020[^34g-3] apply.
+
+<sup>2</sup> Data, programs and the associated documentation must be protected from unauthorised processing and against destruction and theft. They must be recoverable.
+
+[^34g-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34g-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34g-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+
+### h. Retention period and deletion of data
+
+#### Art. 34h
+
+[^34h-1]
+
+<sup>1</sup> The stored data shall be retained by the Central Office for a maximum of ten years from the time of collection. The entries shall be deleted individually.
+
+<sup>2</sup> If a person is recorded in more than one entry, the Central Office shall delete only the data for which the retention period has expired. The identification features in accordance with Article 34*b* paragraph 2 letters c and d shall be deleted at the same time as the deletion of the last entry relating to the person.
+
+[^34h-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### i. Transfer of data and documents to the Federal Archives
+
+#### Art. 34i
+
+[^34i-1]
+
+The transfer of data and documents from the Central Office to the Federal Archives shall be governed by the Archiving Act of 26 June 1998[^34i-2] and by its implementing provisions.
+
+[^34i-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34i-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Section 2 Definitions of Provisions on Article Categories and Fineness
 
@@ -1626,7 +1871,11 @@ Article 131 applies to the export control of articles governed by the Act.
 
 [^162163-1]: Repealed No I of the O of 19 June 1995, with effect from 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Section 8 Manufacture of Melt Products
+## Section 8 Trade in Melt Products and Melt Material
+
+[^chap8-1]
+
+[^chap8-1]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### I. Definition of commercial activity
 
@@ -1638,7 +1887,13 @@ Article 131 applies to the export control of articles governed by the Act.
 
 <sup>2</sup> The manufacture of melt products for one’s own use is not deemed commercial.
 
+<sup>3</sup> The purchase of melt material is deemed to be on a commercial basis if performed as part of an independent economic activity pursued on a permanent, for-profit basis. It is irrelevant whether this is the main or secondary occupation.[^164-2]
+
+<sup>4</sup> The purchase of melt material is not deemed to be on a commercial basis if the total value of the goods traded as part of this activity is less than CHF 50,000 per calendar year.[^164-3]
+
 [^164-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^164-2]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^164-3]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### II. Melter’s licence
 
@@ -1674,8 +1929,9 @@ Individuals must enclose the following with their applications:
 
 - a. an attestation of place of residence, issued by the communal authorities;
 - b. an extract from their entry in the Swiss Commercial Register;
-- c. an extract from the Swiss Register of Criminal Convictions; and
-- d. an attestation from the relevant communal or cantonal authorities showing that the facilities and premises being used for precious metal melting comply with environmental and fire-prevention regulations.
+- c. an extract from the Swiss Register of Criminal Convictions;
+- d.[^165b-2] information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad, where such information could impinge on the good reputation and the guarantee of irreproachable business conduct; and
+- e.[^165b-3] an attestation from the relevant communal or cantonal authorities showing that the facilities and premises being used for precious metal melting comply with environmental and fire-prevention regulations.
 
 <sup>2</sup>
 
@@ -1683,9 +1939,14 @@ Commercial enterprises and cooperatives as well as the Swiss branches of foreign
 
 - a. an extract from their entry in the Swiss Commercial Register;
 - b. an extract from the Swiss Register of Criminal Convictions for the members of management and for those persons in charge of transactions with melt material and melt products; and
-- c. an attestation from the relevant communal or cantonal authorities showing that the facilities and premises being used for precious metal melting comply with environmental and fire-prevention regulations.
+- c.[^165b-4] information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad against the members of management and against persons in charge of transactions with melt material and melt products, where such information could impinge on the good reputation and the guarantee of irreproachable business conduct; and
+- d.[^165b-5] an attestation from the relevant communal or cantonal authorities showing that the facilities and premises being used for precious metal melting comply with environmental and fire-prevention regulations.
 
 [^165b-1]: Inserted by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^165b-2]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-3]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-4]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-5]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 4. Decision on the application
 
@@ -1699,17 +1960,21 @@ Commercial enterprises and cooperatives as well as the Swiss branches of foreign
 
 [^165c-1]: Inserted by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### 5. Renewal of the licence
+### 5. Renewal
 
 #### Art. 166
 
 [^166-1]
 
-For the renewal of the licence, the Central Office may request the same supporting documents as for granting the licence.
+For the renewal of the melter's licence, the Central Office may request the same supporting documents as for granting the licence.
 
-[^166-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166-1]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
-### 6. Withdrawal of the licence
+### 6. Withdrawal
+
+[^chap8-lvlII-lvl6-1]
+
+[^chap8-lvlII-lvl6-1]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 166a
 
@@ -1719,11 +1984,13 @@ For the renewal of the licence, the Central Office may request the same supporti
 
 <sup>2</sup> The Assay Offices are obliged to immediately report any such facts to the Central Office, together with any documentary evidence they may have (certificates, witness statements, etc.).
 
-<sup>3</sup> The Central Office shall notify the licence holder in writing of the reasons for withdrawal and fix a reasonable deadline for submitting a written formal response.
+<sup>3</sup> The Central Office shall notify the holder of the melter's licence in writing of the reasons for withdrawal and fix a reasonable deadline for submitting a written formal response.[^166a-2]
 
-<sup>4</sup> Once this has been received, it shall order the required inspection measures and make its decision, which it shall forward to the licence holder in writing.
+<sup>4</sup> Once this has been received, it shall order the required inspection measures and make its decision, which it shall forward to the holder of the melter's licence in writing.[^166a-3]
 
 [^166a-1]: Inserted by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166a-2]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^166a-3]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 7. Publication
 
@@ -1731,9 +1998,9 @@ For the renewal of the licence, the Central Office may request the same supporti
 
 [^166b-1]
 
-In the notice of the granting or withdrawal of a melter's licence in the Swiss Official Gazette of Commerce, specific mention must be made of the name of the licence holder and, in the case of commercial enterprises and cooperatives, details of the management bodies and business premises.
+In the notice of the granting or withdrawal of a melter's licence in the Swiss Official Gazette of Commerce, specific mention must be made of the name of the holder of the melter's licence and, in the case of commercial enterprises and cooperatives, details of the management bodies and business premises.
 
-[^166b-1]: Inserted by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166b-1]: Inserted by No I of the O of 26 May 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)). Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 167
 
@@ -1741,7 +2008,11 @@ In the notice of the granting or withdrawal of a melter's licence in the Swiss O
 
 [^167-1]: Repealed by No I of the O of 26 May 2010, with effect from 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### III. Compliance with the licence
+### III. Compliance with the melter's licence
+
+[^chap8-lvlIII-1]
+
+[^chap8-lvlIII-1]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. General obligations
 
@@ -1765,7 +2036,7 @@ In the notice of the granting or withdrawal of a melter's licence in the Swiss O
 
 <sup>2</sup> The licence holder must verify the customer’s identity by means of valid documentation such as a passport or identity card.
 
-<sup>3</sup> If there is any doubt concerning the origin of the goods or if the offer originates from unknown parties, it is the licence holder’s duty to clarify in detail the origin of the melt material.
+<sup>3</sup> If there is any doubt concerning the origin of the goods or if the offer originates from unknown parties, it is the duty of the holder of the melter’s licence to clarify in detail the origin of the melt material.
 
 <sup>4</sup> In relation to the requirement of the holder of a melter’s licence to report any offences against cantonal criminal laws that come to his attention, the provisions of the cantonal laws apply. Any offences against federal provisions that come to its attention must be reported to the Central Office or to the relevant Assay Office or the nearest customs office. In addition, the provisions of the Anti-Money Laundering Act of 10 October 1997[^168a-2] apply.
 
@@ -1780,13 +2051,15 @@ In the notice of the granting or withdrawal of a melter's licence in the Swiss O
 
 [^168b-1]
 
-<sup>1</sup> The licence holder shall take the necessary organisational measures in its firm to prevent the melting of melt material of unlawful origin. It shall oversee the performance of controls and ensure the existence of appropriate internal supervision and appropriate staff training.
+<sup>1</sup> The holder of the melter's licence shall take the necessary organisational measures in its firm to prevent the melting of melt material of unlawful origin. It shall oversee the performance of controls and ensure the existence of appropriate internal supervision and appropriate staff training.[^168b-2]
 
-<sup>2</sup> If, in application of Article 168*a* paragraph 3, there is an obligation to clarify the origin of the article in more detail, the article shall be stored in an unaltered state by the licence holder until the case has been clarified.
+<sup>2</sup> If, in application of Article 168a paragraph 3, there is an obligation to clarify the origin of the goods in more detail, the goods shall be stored in an unaltered state by the holder of the melter's licence until the case has been clarified.[^168b-3]
 
 <sup>3</sup> The documents on business transactions in melt material and melt products must be stored for a period of ten years.
 
 [^168b-1]: Inserted by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^168b-2]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^168b-3]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### IV. Bookkeeping
 
@@ -1831,21 +2104,22 @@ The bookkeeping must include at least the following details:
 
 ### VI. Melter’s mark
 
-[^chap8-lvlVI-1]
+[^chap8-lvlVII-1]
 
-[^chap8-lvlVI-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlVII-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 169
 
 [^169-1]
 
-<sup>1</sup> The melter’s mark comprises the holder’s name, in full or abbreviated form, framed and accompanied by the word «Melter». If the melter also holds an assayer licence, he can apply for a combined assayer/melter’s mark.
+<sup>1</sup> The melter’s mark comprises the holder’s name, in full or abbreviated form, framed and accompanied by the word “Melter”. If the melter also holds an assayer licence, he can apply for a combined assayer/melter’s mark.[^169-2]
 
 <sup>2</sup> For the application of the melter’s mark, the same provisions apply as for the application of a responsibility mark as set out in Section 4. The melter’s mark is valid for the same length of time as the melter’s licence.
 
 <sup>3</sup> The application to register a melter’s mark must be submitted at the same time as the application for the melter’s licence. The applicant may apply to register two or more melter’s marks.
 
 [^169-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^169-2]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 170
 
@@ -1857,9 +2131,9 @@ The bookkeeping must include at least the following details:
 
 ### 1. Licence
 
-[^chap8-lvlVII-lvl1-1]
+[^chap8-lvlVIII-lvl1-1]
 
-[^chap8-lvlVII-lvl1-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlVIII-lvl1-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 171
 
@@ -1873,9 +2147,9 @@ The bookkeeping must include at least the following details:
 
 ### 2. Individual melter’s mark
 
-[^chap8-lvlVII-lvl2-1]
+[^chap8-lvlVIII-lvl2-1]
 
-[^chap8-lvlVII-lvl2-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^chap8-lvlVIII-lvl2-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 172
 
@@ -1891,11 +2165,104 @@ The bookkeeping must include at least the following details:
 
 [^172-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### VIII. Determination of the fineness of melt products
+### VIII. Purchase licence
 
-[^chap8-lvlVIII-1]
+### 1. Registration or licence
 
-[^chap8-lvlVIII-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+#### Art. 172a
+
+[^172a-1]
+
+The application for registration or a licence for the commercial purchase of melt material must be submitted to the Central Office in writing.
+
+[^172a-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Supporting documents
+
+#### Art. 172b
+
+[^172b-1]
+
+<sup>1</sup> Written proof of the guarantee of irreproachable business conduct in accordance with Article 31*a* paragraph 3 of the Act must be provided.
+
+<sup>2</sup>
+
+Individuals must enclose the following with their applications:
+
+- a. an attestation of place of residence, issued by the local authorities in Switzerland or abroad;
+- b. description of the business activity and the financial situation;
+- c. an extract from the register of convictions, issued by the national authorities of the state of residence;
+- d. information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad, where such information could impinge on the guarantee of irreproachable business conduct.
+
+<sup>3</sup>
+
+Foreign companies must enclose the following with their applications:
+
+- a. an attestation of the location of the registered office;
+- b. a description of the business activities, the financial situation and, if applicable, the group structure;
+- c. an extract from the register of convictions for the members of management and for persons in charge of transactions with melt material, issued by the national authorities of the state in which the registered office is located;
+- d. information on all pending or completed civil, criminal, administrative, supervisory, debt collection or bankruptcy proceedings in Switzerland and abroad against the members of management and against persons in charge of transactions in relation with the purchase of melt material, where such information could impinge on the guarantee of irreproachable business conduct..
+
+[^172b-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 3. Granting, renewal, withdrawal and publication
+
+#### Art. 172c
+
+[^172c-1]
+
+With regard to the granting, renewal, withdrawal and publication of the purchase licence, Articles 165*c*, 166, 166*a* and 166*b* apply by analogy.
+
+[^172c-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### IX. Obligations with regard to the commercial purchase of melt material
+
+### 1. General obligations
+
+#### Art. 172d
+
+[^172d-1]
+
+For registered purchasers and holders of a purchase licence, Article 168 applies by analogy.
+
+[^172d-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Duty of due diligence and documentation
+
+#### Art. 172e
+
+[^172e-1]
+
+<sup>1</sup> With regard to the acceptance of melt material by both registered purchasers and holders of a purchase licence, Articles 168*a* and 168*b* apply by analogy.
+
+<sup>2</sup>
+
+The purchases shall be appropriately documented. At least the following information must be recorded:
+
+- a. customer's name and address;
+- b. the goods acceptance date;
+- c. a precise description of the goods and, if known, their composition;
+- d. the weight of the goods;
+- e. the purchase price;
+- f. the customer's signature.
+
+[^172e-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### X. Supervision
+
+#### Art. 172f
+
+[^172f-1]
+
+As regards supervision by the Central Office, Article 168*d* applies by analogy.
+
+[^172f-1]: Inserted by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### XI. Determination of the fineness of melt products
+
+[^chap8-lvlXI-1]
+
+[^chap8-lvlXI-1]: Amended by No I of the O of 26 May 2010, in force since 1 July 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 ### 1. Requirement
 
@@ -1903,9 +2270,10 @@ The bookkeeping must include at least the following details:
 
 <sup>1</sup> Melt products destined for resale must be tested for their fineness and, as proof thereof, bear the stamp of an Assay Office (Number 4 of the Annex) or a sworn trade assayer.[^173-1]
 
-<sup>2</sup> The holder of the melter’s licence may only apply the fineness mark himself if he also holds an assayer licence as trade assayer.
+<sup>2</sup> The holder of the melter's licence may apply the fineness mark himself only if he also holds an assayer licence.[^173-2]
 
 [^173-1]: Amended by No I of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^173-2]: Amended by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 2 Means of testing
 
@@ -2164,7 +2532,7 @@ Annex II[^t-3]
 
 ## Official hallmarks, Assay Offices mark, distinctive symbols of the Assay Offices, Assayer’s Mark of the Assay Offices
 
-[^t-3]: Amended by No II of the O of 19 June 1995, in force since 1 Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^t-3]: Amended by No II of the O of 19 June 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)). Revised by Annex No 4 of the O of 31 Aug. 2022, in force since 1 Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 - *Number 1* Official national hallmark (guarantee stamp)
 - *Number 2* Assay Office mark
@@ -2178,10 +2546,16 @@ Number 1
 (Art. 109 para. 1)
 
 <table>
-<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image1.png)</td></tr>
+<tr><td>Large hallmark: [tab] Dimensions: [tab] Height: 1.6 mm Width: 2 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">Small hallmark:</td><td></td></tr>
-<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image2.png)</td></tr>
+<tr><td>[tab] Dimensions: [tab] Height: 0.8 mm Width: 1 mm</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image2.png)</td></tr>
 </table>
+
+For small hallmarks applied using laser ablation, the following dimensions are also permitted:
+
+Height: 0.5 mm
+
+Width: 0.625 mm
 
 Note:
 
@@ -2194,7 +2568,7 @@ Number 2
 (Art. 58 para. 3)
 
 <table>
-<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image3.png)</td></tr>
+<tr><td>Dimensions: Side length: 0.8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image3.png)</td></tr>
 </table>
 
 Note:
@@ -2241,8 +2615,8 @@ Examples:
 
 Federal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image4.png)
 
 Cantonal Assay Offices:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/en/xml/image/image5.png)

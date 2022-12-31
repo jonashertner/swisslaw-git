@@ -4,11 +4,11 @@ title: "Ordinanza dell'8 maggio 1934 sul controllo del commercio in metalli prez
 short: OCMP
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: it
-version: 2021-09-01
+version: 2023-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/it"
 
 (Ordinanza sul controllo dei metalli preziosi, OCMP)[^t-1]
 
-dell’8 maggio 1934 (Stato 1° settembre 2021) (Stato 1° settembre 2021)
+dell’8 maggio 1934 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 1993, in vigore dal 1° apr. 1993 ([RU 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -40,10 +40,10 @@ Il Consiglio federale è autorità superiore in tutte le questioni relative al c
 - a. nominare i funzionari dell’Ufficio centrale federale di controllo dei metalli preziosi (detto qui di seguito: «Ufficio centrale») conformemente all’articolo 4 del regolamento dei funzionari I del 24 ottobre 1930[^1-1].
 - b. approvare i rapporti del Dipartimento federale delle finanze[^1-2];
 - c. dare istruzioni al Dipartimento federale delle finanze, in quanto quest’ultimo non abbia da decidere esso stesso in base alla legge;
-- d.[^1-3] …
-- e.[^1-4] …
+- d.[^1-3] ...
+- e.[^1-4] ...
 
-[^1-1]: [CS **1** 570; [RU 1948 305](https://fedlex.data.admin.ch/eli/oc/1948/367_359_305), **1949** I 136 [857](https://fedlex.data.admin.ch/eli/oc/1949/832_855_857)II [1767](https://fedlex.data.admin.ch/eli/oc/1949/1730_1836_1767). [RU 1952 677](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)art. 76 cpv. 2]. Ora: conformemente all’art. 4 del R dei funzionari (1) del 10 nov. 1959 ([RU 1959 1137](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137)).
+[^1-1]: [CS **1** 570; [RU 1948 305](https://fedlex.data.admin.ch/eli/oc/1948/367_359_305); **1949** I 136, [857](https://fedlex.data.admin.ch/eli/oc/1949/832_855_857)II, [1767](https://fedlex.data.admin.ch/eli/oc/1949/1730_1836_1767). [RU 1952 677](https://fedlex.data.admin.ch/eli/oc/1952/659_675_677)art. 76 cpv. 2]. Ora: conformemente all’art. 4 del R dei funzionari (1) del 10 nov. 1959 ([RU 1959 1137](https://fedlex.data.admin.ch/eli/oc/1959/1103_1141_1137)).
 [^1-2]: Nuova denominazione giusta l’art. 1 del DCF del 23 apr. 1980 concernente l’adattamento delle disposizioni di diritto federale alle nuove denominazioni dei dipartimenti e uffici (non pubblicato). Di tale mod. è tenuto conto in tutto il presente testo.
 [^1-3]: Concerneva l’art. 54 cpv. 1 e 2 della L, ora abrogato.
 [^1-4]: Abrogata dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
@@ -87,25 +87,28 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 - c.[^4-1] registrare i marchi d’artefice (art. 69–75);
 - [tab] d.[^4-2] sorvegliare il controllo e la marchiatura ufficiale dei lavori di metalli preziosi e dei lavori plurimetallici (art. 81–123);
 - e.[^4-3] regolare e sorvegliare gli esami per il conseguimento del diploma di saggiatore nonché rilasciare e ritirare questi diplomi (art. 22 e 25);
-- f. di rilasciare e di ritirare i permessi d’esercitare ai saggiatori del commercio (art. 29 e 34);
-- g.[^4-4] di rilasciare e di ritirare le patenti di fonditore (art. 165, 166*a* e 166*b*);
+- f.[^4-4] di rilasciare e di ritirare le autorizzazioni di esercitare la professione di saggiatore del commercio (autorizzazione di esercitare la professione) come pure le autorizzazioni complementari per il commercio a titolo professionale di metalli preziosi bancari secondo l’articolo 42<sup>bis</sup> della legge (autorizzazione complementare) (art. 29, 29*a*, 29*e* e 34);
+- g.[^4-5] di rilasciare e di ritirare le patenti di fonditore (art. 165, 166*a* e 166*b*);
 - h. di sorvegliare il saggio dei prodotti della fusione (art. 173 a 178);
-- i.[^4-5] di registrare e conservare i documenti e la corrispondenza inviati dagli uffici di controllo, dai saggiatori del commercio e dai titolari di patenti di fonditore;
-- k.[^4-6] fornire i nuovi marchi ufficiali e distruggere quelli diventati inservibili (art. 113 e 114);
-- l.[^4-7] sorvegliare il mercato interno (art. 15 cpv. 2);
-- m.[^4-8] decidere i ricorsi[^4-9] contro provvedimenti degli uffici di controllo e dei saggiatori del commercio;
-- n.[^4-10] tenere i conti relativi alle tasse spettanti alla Cassa federale.
+- i.[^4-6] di registrare e conservare i documenti e la corrispondenza inviati dagli uffici di controllo, dai saggiatori del commercio e dai titolari di patenti di fonditore;
+- k.[^4-7] fornire i nuovi marchi ufficiali e distruggere quelli diventati inservibili (art. 113 e 114);
+- l.[^4-8] sorvegliare il mercato interno (art. 15 cpv. 2);
+- m.[^4-9] decidere i ricorsi[^4-10] contro provvedimenti degli uffici di controllo e dei saggiatori del commercio;
+- n.[^4-11] tenere i conti relativi alle tasse spettanti alla Cassa federale;
+- o.[^4-12] di rilasciare e di ritirare la patente di acquirente per le materie da fondere (art. 172*a* e 172*c*).
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-3]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^4-4]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-5]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^4-6]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-6]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^4-7]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-8]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-9]: [RU 1996 2436](https://fedlex.data.admin.ch/eli/oc/1996/2436_2436_2436)
-[^4-10]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-9]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-10]: [RU 1996 2436](https://fedlex.data.admin.ch/eli/oc/1996/2436_2436_2436)
+[^4-11]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-12]: Introdotta dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 5
 
@@ -359,22 +362,94 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 [^28-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^28-3]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### 2. Permesso di libero esercizio
+### 2*a*. Autorizzazione di esercitare la professione
 
 #### Art. 29
 
 [^29-1]
 
-<sup>1</sup> L’esercizio della professione di saggiatore del commercio è subordinato a un permesso dell’Ufficio centrale. Una ditta può ottenere il permesso di libero esercizio della professione di saggiatore del commercio se occupa almeno un saggiatore giurato[^29-2].
+<sup>1</sup> L’esercizio della professione di saggiatore del commercio è subordinato a un’autorizzazione dell’Ufficio centrale. Una ditta può ottenere l’autorizzazione di esercitare la professione se occupa almeno un saggiatore giurato.
 
-<sup>2</sup> Il permesso di libero esercizio della professione di saggiatore del commercio deve essere domandata per scritto all’Ufficio centrale.
+<sup>2</sup> L’autorizzazione di esercitare la professione deve essere domandata per scritto all’Ufficio centrale.
 
-<sup>3</sup> Se le condizioni sono adempiute, l’Ufficio centrale accorda il permesso di libero esercizio e lo pubblica nel Foglio ufficiale svizzero di commercio.
+<sup>3</sup> Se le condizioni sono adempiute, l’Ufficio centrale accorda l’autorizzazione di esercitare la professione e la pubblica nel Foglio ufficiale svizzero di commercio.
 
-<sup>4</sup> L’Ufficio centrale tiene un registro dei titolari del permesso e ne pubblica periodicamente il contenuto.
+<sup>4</sup> L’Ufficio centrale tiene un registro dei titolari dell’autorizzazione di esercitare la professione e ne pubblica periodicamente il contenuto.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^29-2]: [RU 1996 2436](https://fedlex.data.admin.ch/eli/oc/1996/2436_2436_2436)
+[^29-1]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*b*. Autorizzazione complementare per il commercio di metalli preziosi bancari
+
+#### Art. 29a
+
+[^29a-1]
+
+<sup>1</sup> L’autorizzazione complementare deve essere domandata per scritto all’Ufficio centrale.
+
+<sup>2</sup> Le società appartenenti a una società del gruppo che, a titolo professionale, commerciano metalli preziosi bancari necessitano ciascuna di una propria autorizzazione complementare dell’Ufficio centrale.
+
+<sup>3</sup> Per commercio a titolo professionale si intende il commercio di metalli preziosi bancari nel quadro di un’attività economica indipendente diretta al conseguimento di un guadagno durevole.
+
+[^29a-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*c*. Documenti giustificativi
+
+#### Art. 29b
+
+[^29b-1]
+
+<sup>1</sup>
+
+La domanda di autorizzazione complementare deve contenere, in particolare, le indicazioni e i documenti seguenti:
+
+- a. un estratto del registro di commercio della società o un attestato di domicilio della persona fisica;
+- b. una descrizione delle attività, della situazione finanziaria e, all’occorrenza, della struttura del gruppo;
+- c. indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero nei confronti delle persone incaricate dell’amministrazione e della gestione nonché delle persone che detengono partecipazioni qualificate nel saggiatore di commercio, se queste indicazioni possono influenzare la buona reputazione e la garanzia dell’osservanza degli obblighi derivanti dalla legge del 10 ottobre 1997[^29b-2] sul riciclaggio di denaro (LRD);
+- d. le direttive interne sull’organizzazione aziendale che consentono di garantire l’osservanza degli obblighi di diligenza degli intermediari finanziari ai sensi degli articoli 3–8 LRD;
+- e. gli estratti del casellario giudiziale delle persone incaricate dell’amministrazione e della gestione nonché delle persone che detengono partecipazioni qualificate nel saggiatore di commercio.
+
+<sup>2</sup> L’Ufficio centrale può richiedere ulteriori prove, se ciò è necessario per verificare la garanzia dell’osservanza degli obblighi derivanti dalla LRD.
+
+[^29b-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^29b-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### 2*d*. Pubblicazione e tenuta del registro
+
+#### Art. 29c
+
+[^29c-1]
+
+Alla pubblicazione, alla tenuta del registro e alla pubblicazione del contenuto del registro dei titolari di un’autorizzazione complementare è applicabile per analogia l’articolo 29 capoversi 3 e 4.
+
+[^29c-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*e*. Mutamento dei fatti
+
+#### Art. 29d
+
+[^29d-1]
+
+<sup>1</sup> I titolari di un’autorizzazione complementare notificano senza indugio all’Ufficio centrale ogni mutamento dei fatti su cui si fonda l’autorizzazione.
+
+<sup>2</sup> Se il mutamento è di grande importanza, prima di proseguire l’attività si deve ottenere un’autorizzazione scritta dell’Ufficio centrale.
+
+[^29d-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*f*. Revoca dell’autorizzazione complementare
+
+#### Art. 29e
+
+[^29e-1]
+
+<sup>1</sup> Se il titolare di un’autorizzazione complementare non adempie più le condizioni previste nell’articolo 42<sup>bis</sup> della legge, segnatamente perché ha violato gravemente le disposizioni legali in materia di vigilanza, l’Ufficio centrale gli revoca l’autorizzazione.
+
+<sup>2</sup> L’Ufficio centrale fa conoscere, per scritto, al titolare dell’autorizzazione complementare i motivi della revoca e gli assegna un congruo termine per presentare, pure per scritto, le sue osservazioni.
+
+<sup>3</sup> Ricevuto che abbia queste osservazioni, l’Ufficio centrale ordina le misure d’inchiesta necessarie e pronuncia la sua decisione. La decisione è comunicata per scritto al titolare dell’autorizzazione complementare.
+
+<sup>4</sup> Se l’autorizzazione complementare è revocata, l’Ufficio centrale lo pubblica nel Foglio ufficiale svizzero di commercio.
+
+[^29e-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 3. Marchi
 
@@ -386,10 +461,11 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 
 <sup>3</sup> Per la registrazione di un marchio di saggiatore o di saggiatore- fonditore, sono applicabili per analogia le prescrizioni per la registrazione di un marchio d’artefice secondo il capo 4.[^30-2]
 
-<sup>4</sup> Il marchio ammesso è pubblicato, col permesso di libero esercizio della professione, nel Foglio ufficiale svizzero di commercio.
+<sup>4</sup> Il marchio ammesso è pubblicato, con l’autorizzazione di esercitare la professione, nel Foglio ufficiale svizzero di commercio.[^30-3]
 
 [^30-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^30-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^30-3]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 4. Obblighi professionali
 
@@ -425,12 +501,183 @@ L’ufficio centrale regola tutti gli affari risultanti dalla sorveglianza del c
 
 <sup>1</sup> I saggiatori del commercio rispondono di qualsiasi danno cagionato da un loro fallo o da negligenza nell’esercizio della loro attività professionale. La Confederazione non assume alcuna responsabilità. Contro il saggiatore in fallo si dovrà intentare un’azione di risarcimento avanti ai tribunali civili competenti.
 
-<sup>2</sup> In caso di grave mancanza, da parte di un saggiatore, ai doveri della sua carica o di constatazione della sua incapacità, l’Ufficio centrale può ritirargli il permesso di libero esercizio della professione. Sarà dato modo all’interessato di giustificarsi; la giustificazione sarà presentata per iscritto e corredata delle prove necessarie. Il ritiro del permesso è notificato all’interessato per iscritto, indicandosene i motivi. …[^34-1]. Quando la decisione sia divenuta esecutoria, essa sarà pubblicata nel *Foglio ufficiale svizzero di commercio.*
+<sup>2</sup> In caso di grave mancanza, da parte di un saggiatore, ai doveri della sua carica o di constatazione della sua incapacità, l’Ufficio centrale può ritirargli l’autorizzazione di esercitare la professione. Sarà dato modo all’interessato di giustificarsi; la giustificazione è presentata per scritto e corredata delle prove necessarie. Il ritiro dell’autorizzazione è notificato all’interessato per scritto, indicandosene i motivi. Quando la decisione sia divenuta esecutoria, essa sarà pubblicata nel Foglio ufficiale svizzero di commercio.[^34-1]
 
 <sup>3</sup> L’Ufficio centrale ispeziona i locali di servizio, la gestione come pure la tenuta dei registri e dei libri dei saggiatori del commercio nonché il deposito dei lavori.[^34-2]
 
-[^34-1]: Quarto per. abrogato dal n. IV 82 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^34-1]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^34-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+
+### a. Principio
+
+#### Art. 34a
+
+[^34a-1]
+
+<sup>8.</sup> Trattamento di dati nell’ambito della vigilanza sul commercio di metalli preziosi bancari
+
+<sup>1</sup> L’Ufficio centrale tratta dati, compresi i dati personali, nell’ambito della vigilanza ai sensi dell’articolo 12 lettera b<sup>ter</sup> LRD[^34a-2] e dell’articolo 42<sup>ter</sup> della legge.
+
+<sup>2</sup>
+
+Questi dati sono trattati per gli scopi seguenti:
+
+- a. controllo degli assoggettati alla vigilanza;
+- b. esercizio della vigilanza;
+- c. conduzione di un procedimento;
+- d. verifica della garanzia dell’osservanza degli obblighi derivanti dalla LRD;
+- e. assistenza amministrativa e giudiziaria nazionale e internazionale.
+
+<sup>3</sup> L’Ufficio centrale tiene un elenco degli assoggettati alla vigilanza.
+
+[^34a-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34a-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### b. Dati trattati
+
+#### Art. 34b
+
+[^34b-1]
+
+<sup>1</sup> I dati possono essere trattati soltanto ai fini del controllo dell’osservanza degli obblighi di diligenza.
+
+<sup>2</sup>
+
+A tal fine l’Ufficio centrale raccoglie e tratta i dati seguenti:
+
+- a.
+
+  estratti:
+
+  - 1\. del registro di commercio,
+  - 2\. del registro delle esecuzioni,
+  - 3\. del registro dei fallimenti,
+  - 4\. del casellario giudiziale;
+
+- b. direttive interne sull’organizzazione aziendale che consentono di garantire l’osservanza degli obblighi di diligenza ai sensi degli articoli 3–8 LRD[^34b-2];
+- c.
+
+  caratteristiche identificative e documenti giustificativi delle persone incaricate dell’amministrazione e della gestione:
+
+  - 1\. cognome, nome, data di nascita, indirizzo di residenza e nazionalità nonché tipo e numero delle prove d’identificazione, per le persone fisiche,
+  - 2\. ditta e indirizzo della sede, per le persone giuridiche;
+
+- d.
+
+  caratteristiche identificative e documenti giustificativi degli aventi economicamente diritto ai valori patrimoniali:
+
+  - 1\. cognome, nome, data di nascita, indirizzo di residenza e nazionalità nonché tipo e numero delle prove d’identificazione, per le persone fisiche,
+  - 2\. ditta e indirizzo della sede, per le persone giuridiche;
+
+- e. documentazione su relazioni d’affari nonché transazioni che comportano rischi superiori;
+- f. documentazione sulle determinazioni di titolo eseguite e sulle tasse riscosse a tal fine;
+- g.
+
+  formazione e attività professionale:
+
+  - 1\. prove relative a formazione e formazione continua,
+  - 2\. qualifiche e attività professionali,
+  - 3\. luogo di lavoro e datore di lavoro;
+
+- h. documentazione sull’identificazione delle persone da cui sono stati accettati materie da fondere o prodotti della fusione;
+- i. registrazioni aggiuntive indicanti il momento del ricevimento della merce, il tipo e la quantità della merce accettata, la lavorazione della stessa e la liquidazione dell’affare;
+- j. valutazioni dei rischi specifiche delle ditte concernenti i rischi giuridici e di reputazione globali;
+- k. documentazione sulla selezione accurata del personale e sulla sua formazione regolare.
+
+[^34b-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34b-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### c. Raccolta dei dati
+
+#### Art. 34c
+
+[^34c-1]
+
+<sup>1</sup>
+
+L’Ufficio centrale raccoglie dati presso:
+
+- a. gli assoggettati;
+- b. i datori di lavoro;
+- c. la persona interessata;
+- d. i richiedenti;
+- e. le autorità svizzere ed estere;
+- f. le parti di procedimenti.
+
+<sup>2</sup> Nella collezione l’Ufficio centrale può raccogliere anche dati comunicati da terzi, se si tratta di dati di cui all’articolo 34*b*.
+
+[^34c-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### d. Trasmissione dei dati a incaricati di verifiche
+
+#### Art. 34d
+
+[^34d-1]
+
+Nell’ambito della vigilanza, l’Ufficio centrale può trasmettere e affidare agli incaricati di verifiche il trattamento dei dati personali che non sono pubblicamente accessibili, se:
+
+- a. il trattamento dei dati è necessario per l’adempimento del mandato; e
+- b. vengono adottati adeguati provvedimenti organizzativi e tecnici per assicurare che i dati siano trattati soltanto secondo le direttive e protetti contro il trattamento non autorizzato.
+
+[^34d-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### e. Diritti delle persone interessate
+
+#### Art. 34e
+
+[^34e-1]
+
+I diritti delle persone interessate, in particolare i diritti d’accesso, di rettifica e di distruzione, si fondano sulla legge federale del 19 giugno 1992[^34e-2] sulla protezione dei dati.
+
+[^34e-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### f. Rettifica dei dati
+
+#### Art. 34f
+
+[^34f-1]
+
+L’Ufficio centrale rettifica o distrugge senza indugio i dati errati o incompleti o non conformi a uno scopo di cui all’articolo 34*a* capoverso 2.
+
+[^34f-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### g. Sicurezza dei dati
+
+#### Art. 34g
+
+[^34g-1]
+
+<sup>1</sup> Per garantire la sicurezza dei dati sono applicabili gli articoli 20 e 21 dell’ordinanza del 14 giugno 1993[^34g-2] relativa alla legge federale sulla protezione dei dati nonché l’ordinanza del 27 maggio 2020[^34g-3] sui ciber-rischi.
+
+<sup>2</sup> I dati, i programmi e la rispettiva documentazione devono essere protetti contro qualsiasi trattamento non autorizzato nonché contro la distruzione e il furto. Essi devono poter essere ripristinati.
+
+[^34g-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34g-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34g-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+
+### h. Durata della conservazione e cancellazione dei dati
+
+#### Art. 34h
+
+[^34h-1]
+
+<sup>1</sup> L’Ufficio centrale conserva i dati memorizzati per dieci anni al massimo a partire dalla loro raccolta. Le registrazioni sono cancellate singolarmente.
+
+<sup>2</sup> Se una persona figura in diverse registrazioni, l’Ufficio centrale cancella soltanto i dati il cui termine di conservazione è scaduto. Le caratteristiche identificative di cui all’articolo 34*b* capoverso 2 lettere c e d sono cancellate contemporaneamente all’ultima registrazione concernente tale persona.
+
+[^34h-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### i. Consegna di dati e documentazione all’Archivio federale
+
+#### Art. 34i
+
+[^34i-1]
+
+La consegna di dati e documentazione dell’Ufficio centrale all’Archivio federale è disciplinata dalla legge federale del 26 giugno 1998[^34i-2] sull’archiviazione e dalle relative disposizioni d’esecuzione.
+
+[^34i-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34i-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Capo secondo: Disposizioni sulle categorie di lavori e sul titolo
 
@@ -1267,7 +1514,7 @@ Per i saggi analitici, si preleva dai lavori, mediante raschiatura o taglio, la 
 
 <sup>1</sup> L’Ufficio centrale fa constatare periodicamente la presenza e lo stato dei marchi presso gli uffici di controllo. Esso s’accerta pure del modo in cui sono conservati e adoperati i marchi.
 
-<sup>2</sup> …[^115-1]
+<sup>2</sup> ...[^115-1]
 
 [^115-1]: Abrogato dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
@@ -1617,7 +1864,11 @@ Per il controllo all’esportazione dei lavori soggetti alla legge è applicabil
 
 [^162163-1]: Abrogati dal n. I dell’O del 19 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Capo ottavo: Fabbricazione di prodotti della fusione
+## Capo ottavo: Commercio di prodotti della fusione e di materie da fondere
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### I. Definizione del carattere industriale
 
@@ -1629,7 +1880,13 @@ Per il controllo all’esportazione dei lavori soggetti alla legge è applicabil
 
 <sup>2</sup> Non è considerata industriale la fabbricazione di prodotti destinati ad essere utilizzati nella propria azienda.
 
+<sup>3</sup> Per acquisto a titolo professionale si intende l’acquisto di materie da fondere nel quadro di un’attività economica indipendente diretta al conseguimento di un guadagno durevole. È irrilevante se nella fattispecie si tratta di un’attività principale o accessoria.[^164-2]
+
+<sup>4</sup> L’acquisto di materie da fondere non è considerato a titolo professionale se il valore complessivo della merce negoziata è inferiore a 50 000 franchi per anno civile.[^164-3]
+
 [^164-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^164-2]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^164-3]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### II. Patente di fonditore
 
@@ -1665,18 +1922,24 @@ Per i privati la domanda deve essere corredata da:
 
 - a. un attestato di domicilio rilasciato dall’autorità comunale;
 - b. un estratto dell’iscrizione nel registro svizzero di commercio;
-- c. un estratto del casellario giudiziale svizzero; e
-- d. un’attestazione delle autorità comunali o cantonali competenti che certifichi la conformità degli impianti e dei locali destinati alla fusione dei metalli preziosi per quanto concerne la protezione dell’ambiente e la protezione antincendio.
+- c. un estratto del casellario giudiziale svizzero;
+- d.[^165b-2] indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero, se queste indicazioni possono influenzare la buona reputazione e la garanzia di un’attività commerciale ineccepibile; e
+- e.[^165b-3] un’attestazione delle autorità comunali o cantonali competenti che certifichi la conformità degli impianti e dei locali destinati alla fusione dei metalli preziosi per quanto concerne la protezione dell’ambiente e la protezione antincendio.
 
 <sup>2</sup>
 
 Per le società commerciali e le cooperative nonché le succursali svizzere di società straniere, la domanda deve essere corredata da:
 
 - a. un estratto dell’iscrizione nel registro svizzero di commercio;
-- b. un estratto del casellario giudiziale svizzero dei dirigenti e delle persone incaricate delle operazioni commerciali con le materie da fondere e i prodotti della fusione; e
-- c. un’attestazione delle autorità comunali o cantonali competenti che certifichi la conformità degli impianti e dei locali destinati alla fusione dei metalli preziosi per quanto concerne la protezione dell’ambiente e la protezione antincendio.
+- b. un estratto del casellario giudiziale svizzero dei dirigenti e delle persone incaricate delle operazioni commerciali con le materie da fondere e i prodotti della fusione;
+- c.[^165b-4] indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero nei confronti delle persone incaricate della gestione nonché delle persone incaricate delle operazioni commerciali con le materie da fondere e i prodotti della fusione, se queste indicazioni possono influenzare la buona reputazione e la garanzia di un’attività commerciale ineccepibile; e
+- d.[^165b-5] un’attestazione delle autorità comunali o cantonali competenti che certifichi la conformità degli impianti e dei locali destinati alla fusione dei metalli preziosi per quanto concerne la protezione dell’ambiente e la protezione antincendio.
 
 [^165b-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^165b-2]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-3]: Introdotta dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-4]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-5]: Introdotta dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 4. Decisione
 
@@ -1710,11 +1973,13 @@ Per il rinnovo della patente di fonditore, l’Ufficio centrale può richiedere 
 
 <sup>2</sup> Gli uffici di controllo sono tenuti a comunicare immediatamente all’Ufficio centrale i fatti di questo genere, fornendogli in pari tempo le prove come documenti e testimonianze.
 
-<sup>3</sup> L’Ufficio centrale fa conoscere, per iscritto, al titolare i motivi della revoca e gli assegna un termine conveniente per presentare, pure per iscritto, le sue osservazioni.
+<sup>3</sup> L’Ufficio centrale fa conoscere, per scritto, al titolare della patente di fonditore i motivi della revoca e gli assegna un congruo termine per presentare, pure per scritto, le sue osservazioni.[^166a-2]
 
-<sup>4</sup> Ricevuto che abbia queste osservazioni, l’Ufficio centrale ordina le misure d’inchiesta necessarie e pronunzia la sua decisione. La decisione è partecipata per iscritto al titolare.
+<sup>4</sup> Ricevuto che abbia queste osservazioni, l’Ufficio centrale ordina le misure d’inchiesta necessarie e pronuncia la sua decisione. La decisione è comunicata per scritto al titolare della patente di fonditore.[^166a-3]
 
 [^166a-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166a-2]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^166a-3]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 7. Pubblicazione
 
@@ -1722,9 +1987,9 @@ Per il rinnovo della patente di fonditore, l’Ufficio centrale può richiedere 
 
 [^166b-1]
 
-Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o della revoca della patente di fonditore devono essere indicati esattamente il titolare della patente e, quando si tratti di società commerciali o cooperative, gli organi dirigenti e i locali commerciali.
+Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o della revoca della patente di fonditore devono essere indicati esattamente il titolare della patente di fonditore e, quando si tratti di società commerciali o cooperative, gli organi dirigenti e i locali commerciali.
 
-[^166b-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166b-1]: Introdotto dal n. I dell’O del 26 mag. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)). Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 167
 
@@ -1732,9 +1997,13 @@ Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o de
 
 [^167-1]: Abrogato dal n. I dell’O del 26 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### III. Esercizio della professione a cui autorizza la patente
+### III. Esercizio della professione a cui autorizza la patente di fonditore
 
 ### 1. Obblighi generali
+
+[^chap8-lvlIII-lvl1-1]
+
+[^chap8-lvlIII-lvl1-1]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 168
 
@@ -1756,14 +2025,15 @@ Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o de
 
 <sup>2</sup> L’identità di colui che presenta la merce deve essere verificata mediante un documento probante come il passaporto o la carta d’identità.
 
-<sup>3</sup> Se vi sono dubbi sulla provenienza dei lavori o se le offerte provengono da sconosciuti, il titolare della patente è tenuto a chiarire in modo particolarmente accurato la provenienza delle materie da fondere.
+<sup>3</sup> Se vi sono dubbi sulla provenienza dei lavori o se le offerte provengono da sconosciuti, il titolare della patente di fonditore è tenuto a chiarire in modo particolarmente accurato la provenienza delle materie da fondere*.*[^168a-2]
 
-<sup>4</sup> Per ciò che concerne l’obbligo che il titolare di una patente di fonditore ha di denunziare le infrazioni alle leggi penali cantonali, sono applicabili le prescrizioni cantonali. Le infrazioni alle disposizioni del diritto federale saranno denunziate all’Ufficio centrale, all’ufficio di controllo interessato o all’ufficio doganale più vicino. Per il resto si applicano le disposizioni della legge del 10 ottobre 1997[^168a-2] sul riciclaggio di denaro.
+<sup>4</sup> Per ciò che concerne l’obbligo che il titolare di una patente di fonditore ha di denunziare le infrazioni alle leggi penali cantonali, sono applicabili le prescrizioni cantonali. Le infrazioni alle disposizioni del diritto federale saranno denunziate all’Ufficio centrale, all’ufficio di controllo interessato o all’ufficio doganale più vicino. Per il resto si applicano le disposizioni della legge del 10 ottobre 1997[^168a-3] sul riciclaggio di denaro.
 
 <sup>5</sup> Quando si sospetti che la persona che offre materie da fondere e prodotti della fusione li abbia acquistati illecitamente, si avvertirà subito le autorità di polizia competenti chiedendo loro istruzioni.
 
 [^168a-1]: Introdotto dal n. I dell’O del 19 giu. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)). Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^168a-2]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^168a-2]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^168a-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 
 ### 3. Provvedimenti organizzativi e documentazione
 
@@ -1771,13 +2041,15 @@ Nella pubblicazione sul Foglio ufficiale svizzero di commercio del rilascio o de
 
 [^168b-1]
 
-<sup>1</sup> Il titolare della patente prende nella sua azienda i provvedimenti organizzativi necessari per impedire la fusione di materie da fondere di provenienza illecita. Vigila affinché i controlli siano effettuati e provvede a un’appropriata sorveglianza interna e a un’adeguata formazione del personale.
+<sup>1</sup> Il titolare della patente di fonditore prende nella sua azienda i provvedimenti organizzativi necessari per impedire la fusione di materie da fondere di provenienza illecita. Vigila affinché i controlli siano effettuati e provvede a un’appropriata sorveglianza interna e a un’adeguata formazione del personale.[^168b-2]
 
-<sup>2</sup> In caso di obbligo di chiarire in modo più approfondito la provenienza dei lavori in applicazione dell’articolo 168*a* capoverso 3, il titolare della patente deve conservare i lavori nello stato in cui si trovano fino al chiarimento del caso.
+<sup>2</sup> In caso di obbligo di chiarire in modo più approfondito la provenienza dei lavori in applicazione dell’articolo 168*a* capoverso 3, il tiolare della patente di fonditore deve conservare i lavori nello stato in cui si trovano fino al chiarimento del caso.[^168b-3]
 
 <sup>3</sup> I documenti sul commercio di materie da fondere e prodotti della fusione devono essere conservati per dieci anni.
 
 [^168b-1]: Introdotto dal n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^168b-2]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^168b-3]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### IV. Contabilità
 
@@ -1830,13 +2102,14 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 
 [^169-1]
 
-<sup>1</sup> Il marchio di fonditore è costituito dal nome del titolare, per esteso o abbreviato, inquadrato, e dal termine «fonditore». Se il fonditore è anche titolare di una patente di saggiatore del commercio, può depositare un marchio combinato di saggiatore-fonditore.
+<sup>1</sup> Il marchio di fonditore è costituito dal nome del titolare, per esteso o abbreviato, inquadrato, e dal termine «fonditore». Se il fonditore è anche titolare di un’autorizzazione di esercitare la professione, può depositare un marchio combinato di saggiatore-fonditore.[^169-2]
 
 <sup>2</sup> Per la registrazione del marchio di fonditore, sono applicabili per analogia le prescrizioni secondo il capo 4 per la registrazione di un marchio d’artefice. Il marchio di fonditore ha la stessa durata di validità della patente di fonditore.
 
 <sup>3</sup> La domanda di registrazione per un marchio di fonditore deve essere presentata insieme alla domanda per la patente di fonditore. Il richiedente può chiedere la registrazione di più marchi di fonditore.
 
 [^169-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^169-2]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 170
 
@@ -1882,23 +2155,121 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 
 [^172-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### VIII. Saggio dei prodotti della fusione
+### 1. Registrazione o autorizzazione
 
-[^chap8-lvlVIII-1]
+#### Art. 172a
 
-[^chap8-lvlVIII-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^172a-1]
+
+VIII. Patente di acquirente
+
+La domanda di registrazione o di autorizzazione per l’acquisto a titolo professionale di materie da fondere deve essere presentata per scritto all’Ufficio centrale.
+
+[^172a-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Documenti giustificativi
+
+#### Art. 172b
+
+[^172b-1]
+
+<sup>1</sup> La garanzia di un’attività commerciale ineccepibile di cui all’articolo 31*a* capoverso 3 della legge deve essere provata per scritto.
+
+<sup>2</sup>
+
+Per i privati la domanda deve essere corredata da:
+
+- a. un attestato di domicilio rilasciato dall’autorità comunale in Svizzera o all’estero;
+- b. una descrizione delle attività e della situazione finanziaria;
+- c. un estratto del casellario giudiziale rilasciato dall’autorità nazionale dello Stato di domicilio;
+- d. indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero, se queste indicazioni possono influenzare la garanzia di un’attività commerciale ineccepibile.
+
+<sup>3</sup>
+
+Per le società straniere la domanda deve essere corredata da:
+
+- a. un certificato attestante la loro sede legale;
+- b. una descrizione delle attività, della situazione finanziaria e, all’occorrenza, della struttura del gruppo;
+- c. un estratto del casellario giudiziale delle persone incaricate della gestione e delle persone incaricate delle operazioni commerciali in materia di acquisto delle materie da fondere, rilasciato dall’autorità nazionale dello Stato di domicilio;
+- d. indicazioni su tutte le procedure civili, penali, amministrative, di vigilanza, di esecuzione o di fallimento pendenti o concluse in Svizzera o all’estero nei confronti delle persone incaricate della gestione nonché delle persone incaricate delle operazioni commerciali in materia di acquisto delle materie da fondere, se queste indicazioni possono influenzare la garanzia di un’attività commerciale ineccepibile.
+
+[^172b-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 3. Rilascio, rinnovo, revoca e pubblicazione
+
+#### Art. 172c
+
+[^172c-1]
+
+l rilascio, al rinnovo, alla revoca e alla pubblicazione della patente di acquirente si applicano per analogia gli articoli 165*c*, 166, 166*a* e 166*b.*
+
+[^172c-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 1. Obblighi generali
+
+#### Art. 172d
+
+[^172d-1]
+
+IX. Obblighi per l’acquisto a titolo professionale di materie da fondere
+
+L’articolo 168 si applica per analogia agli acquirenti registrati e ai titolari di una patente di acquirente.<sup>.</sup>
+
+[^172d-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Obblighi di diligenza e di documentazione
+
+#### Art. 172e
+
+[^172e-1]
+
+<sup>1</sup> Gli articoli 168*a* e 168*b* si applicano per analogia all’accettazione di materie da fondere sia da parte degli acquirenti registrati sia da parte dei titolari di una patente di acquirente.
+
+<sup>2</sup>
+
+Gli acquisti devono essere documentati in forma adeguata. A tal fine devono essere rilevate almeno le seguenti indicazioni:
+
+- a. nome e indirizzo del cliente;
+- b. la data di ricevimento della merce;
+- c. la descrizione esatta della merce e, se nota, la sua composizione;
+- d. il peso della merce;
+- e. il prezzo di acquisto;
+- f. la firma del cliente.
+
+[^172e-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### X. Vigilanza
+
+#### Art. 172f
+
+[^172f-1]
+
+Alla vigilanza da parte dell’Ufficio centrale si applica per analogia l’articolo 168*d*.
+
+[^172f-1]: Introdotto dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. Condizioni
 
+[^chap8-lvlVII-lvl1-1]
+
+[^chap8-lvlVII-lvl1-1]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
 #### Art. 173
+
+XI. Saggio dei prodotti della fusione
 
 <sup>1</sup> I prodotti della fusione destinati ad essere rivenduti devono essere controllati. Quest’operazione è attestata con l’apposizione del marchio di un ufficio di controllo (numero 4 dell’allegato) o di un saggiatore del commercio.[^173-1]
 
-<sup>2</sup> L’apposizione dell’indicazione del titolo da parte del fonditore stesso non è ammessa se non quando quest’ultimo possiede pure una patente di saggiatore del commercio.
+<sup>2</sup> L’apposizione dell’indicazione del titolo da parte del titolare della patente di fonditore stesso non è ammessa se non quando quest’ultimo possiede pure un’autorizzazione di esercitare la professione.[^173-2]
 
 [^173-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^173-2]: Nuovo testo giusta l’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 2. Procedimento
+
+[^chap8-lvlVII-lvl2-2]
+
+[^chap8-lvlVII-lvl2-2]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 174
 
@@ -1913,6 +2284,10 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 [^174-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
 ### 3. Operazioni
+
+[^chap8-lvlVII-lvl3-1]
+
+[^chap8-lvlVII-lvl3-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 ### a. Verifica della provenienza
 
@@ -1959,6 +2334,10 @@ La contabilità deve contenere almeno le seguenti indicazioni:
 [^177-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
 ### 4. Riconoscimento delle determinazioni di titolo estere
+
+[^chap8-lvlVII-lvl4-1]
+
+[^chap8-lvlVII-lvl4-1]: Nuovo testo giusta il n. I dell’O del 26 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
 #### Art. 178
 
@@ -2129,7 +2508,7 @@ Decreto del Consiglio federale del 13 marzo 1916[^190-15] concernente il commerc
 [^190-11]: [RU **45** 38]
 [^190-12]: [RU **45** 339]
 [^190-13]: [RU **48** 732]
-[^190-14]: [RU **9** 247 **37** 19]
+[^190-14]: [RU **9** 247, **37** 19]
 [^190-15]: [RU **32** 85]
 
 ## Disposizione finale della modifica del 19 giugno 1995
@@ -2148,12 +2527,15 @@ Allegato II[^t-3]
 
 ## Marchio ufficiale (marchio di garanzia), marchio degli uffici di controllo, segno distintivo degli uffici di controllo, marchio di saggiatore degli uffici di controllo
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 19 giu. 1995, in vigore dal 1° ago. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del 19 giu. 1995 ([RU 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)). Aggiornato dall’all. n. 4 dell’O del 31 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
-- [tab] Numero 1 marchio ufficiale (marchio di garanzia)
-- [tab] Numero 2 marchio degli uffici di controllo
-- [tab] Numero 3 segno distintivo degli uffici di controllo
-- [tab] Numero 4 marchio di saggiatore degli uffici di controllo
+Numero 1 marchio ufficiale (marchio di garanzia)
+
+Numero 2 marchio degli uffici di controllo
+
+Numero 3 segno distintivo degli uffici di controllo
+
+Numero 4 marchio di saggiatore degli uffici di controllo
 
 Numero 1
 
@@ -2162,11 +2544,11 @@ Numero 1
 (art. 109 cpv. 1)
 
 <table>
-<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image1.png)</td></tr>
-<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio grande:** Dimensioni: Altezza: 1,6 mm Larghezza: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image1.png)</td></tr>
+<tr><td>**Marchio piccolo:** Dimensioni: Altezza: 0,8 mm Larghezza: 1 mm Per i marchi piccoli apposti con l’ablazione laser sono ammesse anche le seguenti dimensioni: Altezza: 0,5 mm Larghezza: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image1.png)</td></tr>
 </table>
 
-Nota:
+*Nota:*
 
 Il marchio ufficiale (testa di San Bernardo) porta il segno distintivo dell’ufficio di controllo. Tale segno si trova nel punto designato da una croce.
 
@@ -2177,7 +2559,7 @@ Numero 2
 (art. 58 cpv. 3)
 
 <table>
-<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image2.png)</td></tr>
+<tr><td>Dimensioni: lato: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image2.png)</td></tr>
 </table>
 
 Nota:
@@ -2213,8 +2595,8 @@ Esempi:
 
 Uffici federali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image3.png)
 
 Uffici cantonali di controllo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/it/xml/image/image3.png)

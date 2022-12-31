@@ -4,11 +4,11 @@ title: "Verordnung vom 8. Mai 1934 über die Kontrolle des Verkehrs mit Edelmeta
 short: EMKV
 eli: "https://fedlex.data.admin.ch/eli/cc/50/363_375_420"
 language: de
-version: 2021-09-01
+version: 2023-01-01
 adopted: 1934-05-08
 in_force: 1934-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20210901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/fedlex-data-admin-ch-eli-cc-50-363_375_420-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/50/363_375_420/20210901/de"
 
 (Edelmetallkontrollverordnung, EMKV)[^t-1]
 
-vom 8. Mai 1934 (Stand am 1. September 2021)
+vom 8. Mai 1934 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 1993, in Kraft seit 1. April 1993 ([AS 1993 984](https://fedlex.data.admin.ch/eli/oc/1993/984_984_984)).
 
@@ -87,27 +87,30 @@ Das Zentralamt besorgt alle Geschäfte, welche die Überwachung des Verkehrs mit
 - c.[^4-3] Registrierung der Verantwortlichkeitsmarken (Art. 69–75);
 - d.[^4-4] Überwachung der amtlichen Prüfung und Punzierung der Edelmetallwaren und der Mehrmetallwaren (Art. 81–123);
 - e.[^4-5] Anordnung und Überwachung der Diplomprüfung für beeidigte Edelmetallprüfer sowie Ausstellung und Entzug der Diplome (Art. 22 und 25);
-- f. Ausstellung und Entzug der Berufsausübungsbewilligungen für Handelsprüfer (Art. 29 und 34);
-- g.[^4-6] Erteilung und Entzug der Schmelzbewilligungen (Art. 165, 166*a* und 166*b*);
+- f.[^4-6] Ausstellung und Entzug der Berufsausübungsbewilligungen als Handelsprüfer (Berufsausübungsbewilligung) sowie der zusätzlichen Bewilligungen für den gewerbsmässigen Handel mit Bankedelmetallen nach Artikel 42<sup>bis</sup> des Gesetzes (zusätzliche Bewilligung) (Art. 29, 29*a*, 29*e* und 34);
+- g.[^4-7] Erteilung und Entzug der Schmelzbewilligungen (Art. 165, 166*a* und 166*b*);
 - h. Überwachung der Feingehaltsbestimmungen von Schmelzprodukten (Art. 173–178);
-- i.[^4-7] Registrierung und Aufbewahrung der durch die Kontrollämter, die beeidigten Handelsprüfer und die Inhaber der Schmelzbewilligung eingesandten Dokumente und des übrigen Schriftverkehrs;
-- k.[^4-8] Beschaffung der neuen und Vernichtung der unbrauchbar gewordenen amtlichen Stempel[^4-9] (Art. 113 und 114);
-- l.[^4-10] Überwachung des Inlandmarktes (Art. 15 Abs. 2);
-- [tab] m.[^4-11] Entscheid von Beschwerden gegen Verfügungen von Kontrollämtern und Handelsprüfern;
-- n.[^4-12] Rechnungsführung über die in die Bundeskasse fallenden Gebühren.
+- i.[^4-8] Registrierung und Aufbewahrung der durch die Kontrollämter, die beeidigten Handelsprüfer und die Inhaber der Schmelzbewilligung eingesandten Dokumente und des übrigen Schriftverkehrs;
+- k.[^4-9] Beschaffung der neuen und Vernichtung der unbrauchbar gewordenen amtlichen Stempel[^4-10] (Art. 113 und 114);
+- l.[^4-11] Überwachung des Inlandmarktes (Art. 15 Abs. 2);
+- [tab] m.[^4-12] Entscheid von Beschwerden gegen Verfügungen von Kontrollämtern und Handelsprüfern;
+- n.[^4-13] Rechnungsführung über die in die Bundeskasse fallenden Gebühren;
+- o.[^4-14] Erteilung und Entzug der Ankaufsbewilligungen für Schmelzgut (Art. 172*a* und 172*c*).
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^4-3]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-5]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-6]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^4-6]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 [^4-7]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
-[^4-8]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
-[^4-9]: Die Ausdrücke «Punze» und «Stempel» bedeuten dasselbe.
-[^4-10]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-8]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^4-9]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-10]: Die Ausdrücke «Punze» und «Stempel» bedeuten dasselbe.
 [^4-11]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 [^4-12]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-13]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^4-14]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 5
 
@@ -369,21 +372,94 @@ Das Zentralamt besorgt alle Geschäfte, welche die Überwachung des Verkehrs mit
 [^28-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 [^28-3]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### 2. Berufsausübungsbewilligung
+### 2*a*. Berufsausübungsbewilligung
 
 #### Art. 29
 
 [^29-1]
 
-<sup>1</sup> Zur Berufsausübung als Handelsprüfer bedarf es einer Berufsausübungsbewilligung des Zentralamtes. Einer Firma kann die Berufsausübungsbewilligung als Handelsprüfer erteilt werden, wenn sie mindestens einen beeidigten Edelmetallprüfer beschäftigt.
+<sup>1</sup> Zur Berufsausübung als Handelsprüfer bedarf es einer Berufsausübungsbewilligung des Zentralamtes. Einer Firma kann die Berufsausübungsbewilligung erteilt werden, wenn sie mindestens einen beeidigten Edelmetallprüfer beschäftigt.
 
-<sup>2</sup> Die Berufsausübungsbewilligung als Handelsprüfer ist schriftlich beim Zentralamt zu beantragen.
+<sup>2</sup> Die Berufsausübungsbewilligung ist schriftlich beim Zentralamt zu beantragen.
 
 <sup>3</sup> Sind die Voraussetzungen erfüllt, so erteilt das Zentralamt die Berufsausübungsbewilligung und macht dies im Schweizerischen Handelsamtsblatt bekannt.
 
-<sup>4</sup> Das Zentralamt führt ein Register der Bewilligungsinhaber und veröffentlicht dessen Inhalt periodisch.
+<sup>4</sup> Das Zentralamt führt ein Register der Inhaber einer Berufsausübungsbewilligung und veröffentlicht dessen Inhalt periodisch.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^29-1]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*b*. Zusätzliche Bewilligung für den Handel mit Bankedelmetallen
+
+#### Art. 29a
+
+[^29a-1]
+
+<sup>1</sup> Die zusätzliche Bewilligung ist schriftlich beim Zentralamt zu beantragen.
+
+<sup>2</sup> Gesellschaften, die einer Gruppengesellschaft angehören und gewerbsmässig mit Bankedelmetallen handeln, bedürfen je einer eigenen zusätzlichen Bewilligung des Zentralamtes.
+
+<sup>3</sup> Als gewerbsmässig gilt der Handel mit Bankedelmetallen im Rahmen einer selbstständigen, auf dauernden Erwerb ausgerichteten wirtschaftlichen Tätigkeit.
+
+[^29a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*c*. Belege
+
+#### Art. 29b
+
+[^29b-1]
+
+<sup>1</sup>
+
+Das Gesuch um eine zusätzliche Bewilligung muss folgende Angaben und Unterlagen enthalten:
+
+- a. einen Auszug aus dem Handelsregister der Gesellschaft, beziehungsweise eine Wohnsitzbescheinigung der natürlichen Person;
+- b. einen Beschrieb der Geschäftstätigkeiten, der finanziellen Situation und, gegebenenfalls, der Gruppenstruktur;
+- c. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil-, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Verwaltung und Geschäftsführung betrauten Personen und gegen Personen, die an dem Handelsprüfer qualifiziert beteiligt sind, sofern sich diese Angaben auf den guten Ruf und die Gewähr für die Erfüllung der Pflichten nach dem Geldwäschereigesetz vom 10. Oktober 1997[^29b-2] (GwG) auswirken könnten;
+- d. die internen Weisungen zur Betriebsorganisation, mit denen die Erfüllung der Sorgfaltspflichten für Finanzintermediäre nach den Artikeln 3–8 GwG sicherstellt wird;
+- e. Strafregisterauszüge der mit der Verwaltung und Geschäftsführung betrauten Personen sowie der Personen, die an dem Handelsprüfer qualifiziert beteiligt sind.
+
+<sup>2</sup> Das Zentralamt kann zusätzliche Nachweise verlangen, soweit dies zur Prüfung der Gewähr für die Erfüllung der Pflichten nach dem GwG erforderlich ist.
+
+[^29b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^29b-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### 2*d*. Bekanntmachung und Registerführung
+
+#### Art. 29c
+
+[^29c-1]
+
+Für die Bekanntmachung, Führung und Veröffentlichung des Inhalts des Registers über die Inhaber einer zusätzlichen Bewilligung sind Artikel 29 Absätze 3 und 4 sinngemäss anwendbar.
+
+[^29c-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*e*. Änderung von Tatsachen
+
+#### Art. 29d
+
+[^29d-1]
+
+<sup>1</sup> Inhaber einer zusätzlichen Bewilligung melden dem Zentralamt unverzüglich jegliche Änderung von Tatsachen, die der Bewilligung zugrunde liegen.
+
+<sup>2</sup> Sind die Änderungen von wesentlicher Bedeutung, so ist vor der Weiterführung der Tätigkeit eine schriftliche Bewilligung des Zentralamtes einzuholen.
+
+[^29d-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2*f*. Entzug der zusätzlichen Bewilligung
+
+#### Art. 29e
+
+[^29e-1]
+
+<sup>1</sup> Erfüllt der Inhaber einer zusätzlichen Bewilligung die in Artikel 42<sup>bis</sup> des Gesetzes genannten Voraussetzungen nicht mehr, namentlich weil er aufsichtsrechtliche Bestimmungen schwer verletzt hat, so entzieht ihm das Zentralamt die Bewilligung.
+
+<sup>2</sup> Das Zentralamt gibt dem Inhaber der zusätzlichen Bewilligung von den Entziehungsgründen schriftlich Kenntnis und setzt ihm eine angemessene Frist zur Einreichung einer schriftlichen Vernehmlassung.
+
+<sup>3</sup> Nach dem Eingang der Vernehmlassung ordnet es die erforderlichen Untersuchungsmassnahmen an und trifft hierauf seinen Entscheid. Es teilt dem Inhaber der zusätzlichen Bewilligung den Entscheid schriftlich mit.
+
+<sup>4</sup> Wird die zusätzliche Bewilligung entzogen, so macht das Zentralamt dies im Schweizerischen Handelsamtsblatt bekannt.
+
+[^29e-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 3. Stempelzeichen
 
@@ -440,6 +516,177 @@ Das Zentralamt besorgt alle Geschäfte, welche die Überwachung des Verkehrs mit
 
 [^34-1]: Vierter Satz aufgehoben durch Ziff. IV 82 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+
+### 8. Bearbeitung von Daten bei der Aufsicht über den Handel mit Bankedelmetallen
+
+### a. Grundsatz
+
+#### Art. 34a
+
+[^34a-1]
+
+<sup>1</sup> Das Zentralamt bearbeitet im Rahmen der Aufsicht nach Artikel 12 Buchstabe b<sup>ter</sup> GwG[^34a-2] und Artikel 42<sup>ter</sup> des Gesetzes Daten, einschliesslich Personendaten.
+
+<sup>2</sup>
+
+Diese Daten werden für folgende Zwecke bearbeitet:
+
+- a. die Prüfung der Beaufsichtigten;
+- b. die Aufsicht;
+- c. die Führung eines Verfahrens;
+- d. die Beurteilung der Gewähr für die Erfüllung der Pflichten nach dem GwG;
+- e. die nationale und internationale Amts- und Rechtshilfe.
+
+<sup>3</sup> Das Zentralamt führt ein Verzeichnis der Beaufsichtigten.
+
+[^34a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34a-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### b. Bearbeitete Daten
+
+#### Art. 34b
+
+[^34b-1]
+
+<sup>1</sup> Die Daten dürfen nur für die Kontrolle der Einhaltung der Sorgfaltspflichten bearbeitet werden.
+
+<sup>2</sup>
+
+Das Zentralamt sammelt und bearbeitet dazu folgende Daten:
+
+- a.
+
+  Auszüge aus:
+
+  - 1\. dem Handelsregister,
+  - 2\. dem Betreibungsregister,
+  - 3\. dem Konkursregister,
+  - 4\. dem Strafregister;
+
+- b. interne Weisungen zur Betriebsorganisation, mit denen die Erfüllung der Sorgfaltspflichten nach den Artikeln 3–8 GwG[^34b-2] sichergestellt werden;
+- c.
+
+  Identifikationsmerkmale und Belege zu den mit der Verwaltung und Geschäftsführung betrauten Personen:
+
+  - 1\. für natürliche Personen: Name, Vorname, Geburtsdatum, Wohnsitzadresse, Staatsangehörigkeit sowie Art und Nummer der Identifikationsnachweise,
+  - 2\. für juristische Personen: Firma und Domiziladresse;
+
+- d.
+
+  Identifikationsmerkmale und Belege zu den an Vermögenswerten berechtigten Personen:
+
+  - 1\. für natürliche Personen: Name, Vorname, Geburtsdatum, Wohnsitzadresse, Staatsangehörigkeit sowie Art und Nummer der Identifikationsnachweise,
+  - 2\. für juristische Personen: Firma und Domiziladresse;
+
+- e. Unterlagen über Geschäftsbeziehungen sowie Transaktionen mit erhöhten Risiken;
+- f. Unterlagen über die Feingehaltsbestimmungen und die dafür bezogenen Gebühren;
+- g.
+
+  Ausbildung und berufliche Tätigkeit:
+
+  - 1\. Nachweise über Aus- und Weiterbildung,
+  - 2\. berufliche Qualifikationen und Tätigkeiten,
+  - 3\. Arbeitsort und Arbeitgeber;
+
+- h. Unterlagen über die Identifikation von Personen, von denen Schmelzgut- oder Schmelzprodukte angenommen wurden;
+- i. zusätzliche Aufzeichnungen über den Zeitpunkt der Warenannahme, Art und Menge der angenommenen Ware, Verarbeitung derselben und Erledigung des Geschäfts;
+- j. firmenspezifische Risikobeurteilung betreffend globale Rechts- und Reputationsrisiken;
+- k. Unterlagen zur sorgfältigen Auswahl des Personals und zu dessen regelmässiger Ausbildung.
+
+[^34b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34b-2]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+
+### c. Datenbeschaffung
+
+#### Art. 34c
+
+[^34c-1]
+
+<sup>1</sup>
+
+Das Zentralamt beschafft Daten bei:
+
+- a. Beaufsichtigten;
+- b. Arbeitgebern;
+- c. der betroffenen Person;
+- d. Gesuchstellern;
+- e. in- und ausländischen Behörden;
+- f. Verfahrensparteien.
+
+<sup>2</sup> Das Zentralamt kann auch Daten in die Sammlung aufnehmen, die ihm Dritte zur Kenntnis bringen, sofern es sich um Daten nach Artikel 34*b* handelt.
+
+[^34c-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### d. Übermittlung der Daten an Prüfbeauftragte
+
+#### Art. 34d
+
+[^34d-1]
+
+Das Zentralamt kann im Rahmen der Aufsicht Personendaten, die nicht öffentlich zugänglich sind, Prüfbeauftragten übermitteln und durch diese bearbeiten lassen, wenn:
+
+- a. die Datenbearbeitung zur Auftragserfüllung erforderlich ist; und
+- b. angemessene organisatorische und technische Vorkehrungen getroffen werden, um sicherzustellen, dass die Daten nur weisungsgemäss bearbeitet und vor unbefugtem Bearbeiten geschützt werden.
+
+[^34d-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### e. Rechte der betroffenen Personen
+
+#### Art. 34e
+
+[^34e-1]
+
+Die Rechte der betroffenen Personen, insbesondere das Recht auf Auskunft, auf Berichtigung und auf Vernichtung der Daten, richten sich nach dem Bundesgesetz vom 19. Juni 1992[^34e-2] über den Datenschutz.
+
+[^34e-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34e-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+### f. Datenberichtigung
+
+#### Art. 34f
+
+[^34f-1]
+
+Das Zentralamt berichtigt oder vernichtet umgehend Daten, die unrichtig oder unvollständig sind oder nicht einem Zweck nach Artikel 34*a* Absatz 2 dienen.
+
+[^34f-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### g. Datensicherheit
+
+#### Art. 34g
+
+[^34g-1]
+
+<sup>1</sup> Für die Gewährleistung der Datensicherheit gelten die Artikel 20 und 21 der Verordnung vom 14. Juni 1993[^34g-2] zum Bundesgesetz über den Datenschutz sowie die Cyberrisikenverordnung vom 27. Mai 2020[^34g-3].
+
+<sup>2</sup> Daten, Programme und dazugehörige Dokumentationen sind gegen unbefugtes Bearbeiten sowie gegen Zerstörung und Entwendung zu schützen. Sie müssen wiederhergestellt werden können.
+
+[^34g-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34g-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^34g-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+
+### h. Dauer der Aufbewahrung und Löschen der Daten
+
+#### Art. 34h
+
+[^34h-1]
+
+<sup>1</sup> Die gespeicherten Daten werden ab dem Zeitpunkt der Beschaffung durch das Zentralamt während höchstens zehn Jahren aufbewahrt. Die Einträge werden einzeln gelöscht.
+
+<sup>2</sup> Ist eine Person unter mehreren Einträgen erfasst, löscht das Zentralamt lediglich diejenigen Daten, deren Aufbewahrungsfrist abgelaufen ist. Die Identifikationsmerkmale nach Artikel 34*b* Absatz 2 Buchstaben c und d werden gleichzeitig mit dem letzten die Person betreffenden Eintrag gelöscht.
+
+[^34h-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### i. [Übergabe der Daten und der Dokumente an das Bundesarchiv](https://www.fedlex.admin.ch/eli/cc/2004/626/de)
+
+#### Art. 34i
+
+[^34i-1]
+
+Die Ablieferung von Daten und Unterlagen des Zentralamtes an das Bundesarchiv richtet sich nach dem Archivierungsgesetz vom 26. Juni 1998[^34i-2] und nach seinen Ausführungsvorschriften.
+
+[^34i-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^34i-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ## Zweiter Abschnitt: Begriffe und Bestimmungen über die Warenkategorien und den Feingehalt
 
@@ -1624,7 +1871,11 @@ Für die Ausfuhrkontrolle der dem Gesetz unterstellten Waren gilt Artikel 131.
 
 [^162163-1]: Aufgehoben durch Ziff. I der V vom 19. Juni 1995, mit Wirkung seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-## Achter Abschnitt: Herstellung von Schmelzprodukten
+## Achter Abschnitt: Verkehr mit Schmelzprodukten und Schmelzgut
+
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### I. Umschreibung der Gewerbsmässigkeit
 
@@ -1636,7 +1887,13 @@ Für die Ausfuhrkontrolle der dem Gesetz unterstellten Waren gilt Artikel 131.
 
 <sup>2</sup> Nicht gewerbsmässig ist die Herstellung zum Zweck der Verwendung im eigenen Betrieb.
 
+<sup>3</sup> Als gewerbsmässig gilt der Ankauf von Schmelzgut im Rahmen einer selbstständigen, auf dauernden Erwerb ausgerichteten wirtschaftlichen Tätigkeit. Dabei ist unerheblich, ob es sich um einen Haupt- oder Nebenerwerb handelt.[^164-2]
+
+<sup>4</sup> Nicht als gewerbsmässig gilt der Ankauf von Schmelzgut, wenn der durch diese Tätigkeit pro Kalenderjahr gesamthaft gehandelte Warenwert 50 000 Franken unterschreitet.[^164-3]
+
 [^164-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^164-2]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^164-3]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### II. Schmelzbewilligung
 
@@ -1672,18 +1929,24 @@ Einzelpersonen fügen ihrem Gesuch bei:
 
 - a. eine Wohnsitzbescheinigung, ausgestellt durch die kommunale Behörde;
 - b. einen Auszug der Eintragung im Schweizerischen Handelsregister;
-- c. einen Auszug aus dem Schweizerischen Strafregister; und
-- d. eine Bestätigung der zuständigen kommunalen oder kantonalen Behörden, aus der hervorgeht, dass die der Edelmetallschmelzung dienenden Einrichtungen und Lokalitäten den Umwelt- und Brandschutzauflagen entsprechen.
+- c. einen Auszug aus dem Schweizerischen Strafregister;
+- d.[^165b-2] Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren, sofern sich diese Angaben auf den guten Ruf und die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten; und
+- e.[^165b-3] eine Bestätigung der zuständigen kommunalen oder kantonalen Behörden, aus der hervorgeht, dass die der Edelmetallschmelzung dienenden Einrichtungen und Lokalitäten den Umwelt- und Brandschutzauflagen entsprechen.
 
 <sup>2</sup>
 
 Handelsgesellschaften und Genossenschaften sowie die schweizerischen Zweigniederlassungen ausländischer Gesellschaften fügen ihrem Gesuch bei:
 
 - a. einen Auszug der Eintragung im Schweizerischen Handelsregister;
-- b. einen Auszug aus dem Schweizerischen Strafregister für die leitenden Personen und die Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen; und
-- c. eine Bestätigung der zuständigen kommunalen oder kantonalen Behörden, aus der hervorgeht, dass die der Edelmetallschmelzung dienenden Einrichtungen und Lokalitäten den Umwelt- und Brandschutzauflagen entsprechen.
+- b. einen Auszug aus dem Schweizerischen Strafregister für die leitenden Personen und die Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen;
+- c.[^165b-4] Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Geschäftsführung betrauten Personen und gegen Personen, welche die Geschäfte mit dem Schmelzgut und den Schmelzprodukten besorgen, sofern sich diese Angaben auf den guten Ruf und die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten; und
+- d.[^165b-5] eine Bestätigung der zuständigen kommunalen oder kantonalen Behörden, aus der hervorgeht, dass die der Edelmetallschmelzung dienenden Einrichtungen und Lokalitäten den Umwelt- und Brandschutzauflagen entsprechen.
 
 [^165b-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^165b-2]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-3]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-4]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^165b-5]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 4. Entscheidung über das Gesuch
 
@@ -1697,17 +1960,21 @@ Handelsgesellschaften und Genossenschaften sowie die schweizerischen Zweignieder
 
 [^165c-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### 5. Erneuerung der Bewilligung
+### 5. Erneuerung
 
 #### Art. 166
 
 [^166-1]
 
-Für die Erneuerung der Bewilligung kann das Zentralamt dieselben Nachweise und Belege verlangen wie für die Erteilung.
+Für die Erneuerung der Schmelzbewilligung kann das Zentralamt dieselben Nachweise und Belege verlangen wie für die Erteilung.
 
-[^166-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166-1]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
-### 6. Entzug der Bewilligung
+### 6. Entzug
+
+[^chap8-lvlII-lvl6-1]
+
+[^chap8-lvlII-lvl6-1]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 166a
 
@@ -1717,11 +1984,13 @@ Für die Erneuerung der Bewilligung kann das Zentralamt dieselben Nachweise und 
 
 <sup>2</sup> Die Kontrollämter sind verpflichtet, derartige Tatsachen unverzüglich dem Zentralamt mitzuteilen, unter Beilegung allfälliger Beweismittel wie Urkunden und Angaben von Zeugen.
 
-<sup>3</sup> Das Zentralamt gibt dem Inhaber der Bewilligung von den Entziehungsgründen schriftlich Kenntnis und setzt ihm eine angemessene Frist zur Einreichung einer schriftlichen Vernehmlassung.
+<sup>3</sup> Das Zentralamt gibt dem Inhaber der Schmelzbewilligung von den Entziehungsgründen schriftlich Kenntnis und setzt ihm eine angemessene Frist zur Einreichung einer schriftlichen Vernehmlassung.[^166a-2]
 
-<sup>4</sup> Nach dem Eingang der Vernehmlassung ordnet es die erforderlichen Untersuchungsmassnahmen an und trifft hierauf seinen Entscheid. Es teilt dem Inhaber der Bewilligung den Entscheid schriftlich mit.
+<sup>4</sup> Nach dem Eingang der Vernehmlassung ordnet es die erforderlichen Untersuchungsmassnahmen an und trifft hierauf seinen Entscheid. Es teilt dem Inhaber der Schmelzbewilligung den Entscheid schriftlich mit.[^166a-3]
 
 [^166a-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166a-2]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^166a-3]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 7. Publikation
 
@@ -1729,9 +1998,9 @@ Für die Erneuerung der Bewilligung kann das Zentralamt dieselben Nachweise und 
 
 [^166b-1]
 
-Bei der Bekanntmachung der Erteilung und des Entzugs einer Schmelzbewilligung im Schweizerischen Handelsamtsblatt müssen die Person des Bewilligungsinhabers sowie bei Handelsgesellschaften und Genossenschaften die leitenden Organe und die Geschäftslokalitäten genau angegeben werden.
+Bei der Bekanntmachung der Erteilung und des Entzugs einer Schmelzbewilligung im Schweizerischen Handelsamtsblatt müssen die Person des Inhabers der Schmelzbewilligung sowie bei Handelsgesellschaften und Genossenschaften die leitenden Organe und die Geschäftslokalitäten genau angegeben werden.
 
-[^166b-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^166b-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)). Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 167
 
@@ -1739,7 +2008,11 @@ Bei der Bekanntmachung der Erteilung und des Entzugs einer Schmelzbewilligung im
 
 [^167-1]: Aufgehoben durch Ziff. I der V vom 26. Mai 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
 
-### III. Ausübung der Bewilligung
+### III. Ausübung der Schmelzbewilligung
+
+[^chap8-lvlIII-1]
+
+[^chap8-lvlIII-1]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. Allgemeine Pflichten
 
@@ -1778,13 +2051,15 @@ Bei der Bekanntmachung der Erteilung und des Entzugs einer Schmelzbewilligung im
 
 [^168b-1]
 
-<sup>1</sup> Der Inhaber der Bewilligung trifft in seinem Betrieb die erforderlichen organisatorischen Massnahmen, um das Schmelzen von Schmelzgut unrechtmässiger Herkunft zu verhindern. Er wacht darüber, dass Kontrollen durchgeführt werden, und sorgt für eine angemessene interne Überwachung und eine zweckmässige Ausbildung des Personals.
+<sup>1</sup> Der Inhaber der Schmelzbewilligung trifft in seinem Betrieb die erforderlichen organisatorischen Massnahmen, um das Schmelzen von Schmelzgut unrechtmässiger Herkunft zu verhindern. Er wacht darüber, dass Kontrollen durchgeführt werden, und sorgt für eine angemessene interne Überwachung und eine zweckmässige Ausbildung des Personals.[^168b-2]
 
-<sup>2</sup> Besteht in Anwendung von Artikel 168*a* Absatz 3 die Pflicht, die Herkunft der Ware näher abzuklären, so ist die Ware durch den Bewilligungsinhaber bis zur Klärung des Falles in unverändertem Zustand aufzubewahren.
+<sup>2</sup> Besteht in Anwendung von Artikel 168*a* Absatz 3 die Pflicht, die Herkunft der Ware näher abzuklären, so ist die Ware durch den Inhaber der Schmelzbewilligung bis zur Klärung des Falles in unverändertem Zustand aufzubewahren.[^168b-3]
 
 <sup>3</sup> Die Dokumente über den Geschäftsverkehr mit Schmelzgut und Schmelzprodukten müssen während zehn Jahren aufbewahrt werden.
 
 [^168b-1]: Eingefügt durch Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+[^168b-2]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+[^168b-3]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### IV. Buchführung
 
@@ -1837,13 +2112,14 @@ Die Buchführung muss mindestens folgende Angaben enthalten:
 
 [^169-1]
 
-<sup>1</sup> Das Schmelzerzeichen besteht aus dem umrahmten ausgeschriebenen oder abgekürzten Namen des Inhabers und dem Wort «Schmelzer». Ist der Schmelzer gleichzeitig Inhaber der Handelsprüferbewilligung, so kann er ein kombiniertes Prüfer-Schmelzerzeichen beantragen.
+<sup>1</sup> Das Schmelzerzeichen besteht aus dem umrahmten ausgeschriebenen oder abgekürzten Namen des Inhabers und dem Wort «Schmelzer». Ist der Schmelzer gleichzeitig Inhaber der Berufsausübungsbewilligung, so kann er ein kombiniertes Prüfer-Schmelzerzeichen beantragen.[^169-2]
 
 <sup>2</sup> Für die Hinterlegung des Schmelzerzeichens gelten sinngemäss die Vorschriften für die Hinterlegung einer Verantwortlichkeitsmarke nach dem 4. Abschnitt. Das Schmelzerzeichen ist gleich lang gültig wie die Schmelzbewilligung.
 
 <sup>3</sup> Das Registrierungsgesuch für ein Schmelzerzeichen ist gleichzeitig mit dem Gesuch für die Schmelzbewilligung einzureichen. Der Gesuchsteller kann die Registrierung mehrerer Schmelzerzeichen beantragen.
 
 [^169-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^169-2]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 #### Art. 170
 
@@ -1889,11 +2165,104 @@ Die Buchführung muss mindestens folgende Angaben enthalten:
 
 [^172-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
 
-### VIII. Feingehaltsbestimmung von Schmelzprodukten
+### VIII. Ankaufsbewilligung
 
-[^chap8-lvlVIII-1]
+### 1. Registrierung oder Bewilligung
 
-[^chap8-lvlVIII-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2219](https://fedlex.data.admin.ch/eli/oc/2010/316)).
+#### Art. 172a
+
+[^172a-1]
+
+Das Gesuch um Registrierung oder Bewilligung für den gewerbsmässigen Ankauf von Schmelzgut ist beim Zentralamt schriftlich einzureichen.
+
+[^172a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Belege
+
+#### Art. 172b
+
+[^172b-1]
+
+<sup>1</sup> Die Gewähr für einwandfreie Geschäftstätigkeit nach Artikel 31*a* Absatz 3 des Gesetzes ist schriftlich zu belegen.
+
+<sup>2</sup>
+
+Einzelpersonen fügen ihrem Gesuch bei:
+
+- a. eine Wohnsitzbescheinigung, ausgestellt durch die kommunale Behörde im In- oder Ausland;
+- b. einen Beschrieb der Geschäftstätigkeit und der finanziellen Situation;
+- c. einen Strafregisterauszug, ausgestellt durch die nationale Behörde des Staates, in dem sich der Wohnsitz befindet;
+- d. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren, sofern sich diese Angaben auf die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten.
+
+<sup>3</sup>
+
+Ausländische Gesellschaften fügen ihrem Gesuch bei:
+
+- a. eine Sitzbescheinigung;
+- b. einen Beschrieb der Geschäftstätigkeiten, der finanziellen Situation und, gegebenenfalls, der Gruppenstruktur;
+- c. ein Strafregisterauszug für die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, ausgestellt durch die nationale Behörde des Staates, in dem sich der Wohnsitz befindet;
+- d. Angaben über alle im In- und Ausland hängigen oder abgeschlossenen Zivil, Straf-, Verwaltungs-, Aufsichts-, Betreibungs- oder Konkursverfahren gegen die mit der Geschäftsführung betrauten Personen und die Personen, welche die Geschäfte im Zusammenhang mit dem Ankauf von Schmelzgut besorgen, sofern sich diese Angaben auf die Gewähr für eine einwandfreie Geschäftstätigkeit auswirken könnten.
+
+[^172b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 3. Erteilung, Erneuerung, Entzug und Publikation
+
+#### Art. 172c
+
+[^172c-1]
+
+Für die Erteilung, die Erneuerung, den Entzug und die Publikation der Ankaufbewilligung gelten die Artikel 165*c*, 166, 166*a* und 166*b* sinngemäss.
+
+[^172c-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### IX. Pflichten beim gewerbsmässigen Ankauf von Schmelzgut
+
+### 1. Allgemeine Pflichten
+
+#### Art. 172d
+
+[^172d-1]
+
+Für registrierte Ankäuferinnen und Ankäufer und Inhaber einer Ankaufsbewilligung gilt Artikel 168 sinngemäss.
+
+[^172d-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### 2. Sorgfalts- und Dokumentationspflichten
+
+#### Art. 172e
+
+[^172e-1]
+
+<sup>1</sup> Für die Annahme von Schmelzgut, sowohl durch registrierte Ankäuferinnen und Ankäufer wie auch durch Inhaber einer Ankaufsbewilligung, gelten Artikel 168*a* und 168*b* sinngemäss.
+
+<sup>2</sup>
+
+Die Ankäufe sind in geeigneter Form zu dokumentieren. Dabei sind mindestens folgende Angaben zu erfassen:
+
+- a. Name und Adresse des Kunden;
+- b. das Datum der Warenannahme;
+- c. die genaue Beschreibung der Ware und, sofern bekannt, deren Zusammensetzung;
+- d. das Gewicht der Ware;
+- e. der Kaufpreis;
+- f. die Unterschrift des Kunden.
+
+[^172e-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### X. Aufsicht
+
+#### Art. 172f
+
+[^172f-1]
+
+Für die Aufsicht durch das Zentralamt gilt Artikel 168*d* sinngemäss.
+
+[^172f-1]: Eingefügt durch Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
+
+### XI. Feingehaltsbestimmung von Schmelzprodukten
+
+[^chap8-lvlXI-1]
+
+[^chap8-lvlXI-1]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 1. Erfordernis
 
@@ -1901,9 +2270,10 @@ Die Buchführung muss mindestens folgende Angaben enthalten:
 
 <sup>1</sup> Schmelzprodukte, die zur Weiterveräusserung bestimmt sind, müssen auf ihren Feingehalt geprüft sein und als Beweis hiefür den Stempel eines Kontrollamtes (Ziffer 4 des Anhanges) oder eines beeidigten Handelsprüfers tragen.[^173-1]
 
-<sup>2</sup> Eine Anbringung der Feingehaltsbestimmung durch den Inhaber der Schmelzbewilligung selbst ist nur gestattet, wenn dieser zugleich eine Berufsausübungsbewilligung als Handelsprüfer hat.
+<sup>2</sup> Eine Anbringung der Feingehaltsbestimmung durch den Inhaber der Schmelzbewilligung selbst ist nur gestattet, wenn dieser zugleich eine Berufsausübungsbewilligung hat.[^173-2]
 
 [^173-1]: Fassung gemäss Ziff. I der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^173-2]: Fassung gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 ### 2. Art und Weise der Prüfung
 
@@ -2141,7 +2511,7 @@ Bundesratsbeschluss vom 13. März 1916[^190-15] betreffend den Handel mit Gold-,
 [^190-11]: [AS **45** 38]
 [^190-12]: [AS **45** 321]
 [^190-13]: [AS **48** 712]
-[^190-14]: [AS **9** 291, **37** 19]
+[^190-14]: [AS **9** 291; **37** 19]
 [^190-15]: [AS **32** 85]
 
 ## Schlussbestimmung vom 19. Juni 1995
@@ -2160,7 +2530,7 @@ Anhang II[^t-3]
 
 ## Amtliche Stempel (Garantiepunzen), Marke der Kontrollämter, besondere Kennzeichen der Kontrollämter, Prüferzeichen der Kontrollämter
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 19. Juni 1995, in Kraft seit 1. Aug. 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 19. Juni 1995 ([AS 1995 3113](https://fedlex.data.admin.ch/eli/oc/1995/3113_3113_3113)). Bereinigt gemäss Anhang Ziff. 4 der V vom 31. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 552](https://fedlex.data.admin.ch/eli/oc/2022/552)).
 
 - [tab] Ziffer 1 Amtliche Stempel (Garantiepunzen)
 - [tab] Ziffer 2 Marke der Kontrollämter
@@ -2174,8 +2544,8 @@ Ziffer 1
 (Art. 109 Abs. 1)
 
 <table>
-<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image1.png)</td></tr>
-<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image1.png)</td></tr>
+<tr><td>**Grosse Punze:** Dimensionen: Höhe: 1,6 mm Breite: 2 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image1.png)</td></tr>
+<tr><td>**Kleine Punze:** Dimensionen: Höhe: 0,8 mm Breite: 1 mm Für durch Laserablation angebrachte kleine Punzen sind auch folgende Dimensionen zulässig: Höhe: 0,5 mm Breite: 0,625 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2189,7 +2559,7 @@ Ziffer 2
 (Art. 58 Abs. 3)
 
 <table>
-<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image2.png)</td></tr>
+<tr><td>Dimensionen: Seitenlänge: 0,8 mm</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image2.png)</td></tr>
 </table>
 
 Anmerkung:
@@ -2225,8 +2595,8 @@ Beispiele
 
 Eidgenössische Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image3.png)
 
 Kantonale Kontrollämter:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20210901/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/363_375_420/20230101/de/xml/image/image3.png)
