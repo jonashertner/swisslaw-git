@@ -4,11 +4,11 @@ title: "Verordnung vom 29. November 2013 zum Bundesgesetz über die Förderung d
 short: V-FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: de
-version: 2022-02-01
+version: 2023-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,23 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/de"
 
 (Forschungs- und Innovationsförderungsverordnung, V-FIFG)
 
-vom 29. November 2013 (Stand am 1. Februar 2022)
+vom 29. November 2013 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10 Absatz 4 zweiter Satz, 15 Absatz 6, 16 Absatz 6 zweiter Satz, 19 Absatz 2 Buchstabe d, 23 Absatz 2, 29 Absatz 2, 47 Absatz 1 und 56 des Bundesgesetzes vom 14. Dezember 2012[^ingress-1] über die Förderung der Forschung und der Innovation (FIFG) sowie auf Artikel 1 Absatz 5 des Innosuisse-Gesetzes vom 17. Juni 2016[^ingress-2] (SAFIG),[^ingress-3]
+gestützt auf die Artikel 10 Absatz 4 zweiter Satz und 6 dritter Satz, 15 Absatz 6, 16 Absatz 6 zweiter Satz, 23 Absatz 2, 29 Absatz 2, 47 Absatz 1 und 56 des Bundesgesetzes vom 14. Dezember 2012[^ingress-1] über die Förderung der Forschung und der Innovation (FIFG) sowie auf Artikel 1 Absatz 5 des Innosuisse-Gesetzes vom 17. Juni 2016[^ingress-2] (SAFIG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
-## 1. Kapitel: Themenorientierte Förderprogramme der Forschungsförderungsinstitutionen und der Schweizerischen Agentur für Innovationsförderung****
+## 1. Kapitel: Sonderprogramme und themenorientierte Förderprogramme der Forschungsförderungsinstitutionen und der Schweizerischen Agentur für Innovationsförderung
 
 [^chap1-1]
 
-[^chap1-1]: Ausdruck gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^chap1-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -41,36 +41,38 @@ verordnet:
 
 #### Art. 1
 
-**Grundsätze**
+**Grundsätze**[^1-1]
 
-<sup>1</sup> Themenorientierte Förderprogramme müssen einem gesamtschweizerischen Interesse dienen.
+<sup>1</sup> Sonderprogramme und themenorientierte Förderprogramme müssen einem gesamtschweizerischen Interesse dienen.
 
 <sup>2</sup>
 
-Die Durchführung themenorientierter Förderprogramme kann erfolgen:
+Die Durchführung von Sonderprogrammen und themenorientierten Förderprogrammen kann erfolgen:
 
 - a.
 
   über die Förderinstrumente der folgenden Förderorgane (Förderorgane):
 
   - 1\. der Forschungsförderungsinstitutionen nach Artikel 4 Buchstabe a FIFG,
-  - 2\. der Schweizerischen Agentur für Innovationsförderung (Innosuisse[^1-1]);
+  - 2\. der Schweizerischen Agentur für Innovationsförderung (Innosuisse);
 
 - b. über Sondermassnahmen; diese müssen im Rahmen der Förderzuständigkeiten der Förderorgane getroffen werden.
 
-<sup>3</sup> Themenorientierte Förderprogramme sind befristet.
+<sup>3</sup> Sonderprogramme und themenorientierte Förderprogramme sind befristet.
 
 <sup>4</sup> Bei Bedarf werden dem Einzelfall angepasste Massnahmen zur Evaluation der Programme, insbesondere zur Wirkungsprüfung, festgelegt.
 
-[^1-1]: Ausdruck gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^1-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 2
 
-**Verfahren**
+**Verfahren**[^2-1]
 
-<sup>1</sup> Der Auftrag zur Durchführung eines themenorientierten Förderprogramms erfolgt gestützt auf den entsprechenden Finanzbeschluss der Bundesversammlung im Rahmen der periodischen Botschaften zur Förderung von Bildung, Forschung und Innovation (BFI) nach Artikel 35 Absatz 1 Buchstabe a FIFG.
+<sup>1</sup> Der Auftrag zur Durchführung eines Sonderprogramms oder eines themenorientierten Förderprogramms erfolgt gestützt auf den entsprechenden Finanzbeschluss der Bundesversammlung im Rahmen der periodischen Botschaften zur Förderung von Bildung, Forschung und Innovation (BFI) nach Artikel 35 Absatz 1 Buchstabe a FIFG.
 
-<sup>2</sup> In dringlichen Fällen kann für einen Auftrag auch ein Finanzbeschluss mit einer spezifischen Botschaft zur Förderung der Forschung und der Innovation nach Artikel 35 Absatz 1 Buchstabe b FIFG beantragt werden.
+<sup>2</sup> In dringlichen Fällen, namentlich bei Sonderprogrammen, kann für einen Auftrag auch ein Finanzbeschluss mit einer spezifischen Botschaft zur Förderung der Forschung und der Innovation nach Artikel 35 Absatz 1 Buchstabe b FIFG beantragt werden.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### 2. Abschnitt: Nationale Forschungsprogramme des Schweizerischen Nationalfonds
 
@@ -107,44 +109,33 @@ Bei der Auswahl wird auch berücksichtigt, ob:
 
 <sup>2</sup> Das SBFI sichtet periodisch die eingereichten Vorschläge. Es konsultiert die im interdepartementalen Koordinationsausschuss für Ressortforschung vertretenen Bundesstellen und erstellt gestützt darauf eine Prioritätenliste.
 
-<sup>3</sup> Es erarbeitet für die hoch priorisierten Themen kurze Programmvorschläge, welche die zugehörigen Fragestellungen präzisieren sowie den massgeblichen Forschungsauftrag und weitere Programmvorgaben darlegen.
+<sup>3</sup> Es erarbeitet für die hoch priorisierten Themen Programmvorschläge, welche die zugehörigen Fragestellungen präzisieren sowie den massgeblichen Forschungsauftrag und weitere Programmvorgaben darlegen.[^4-1]
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 5
 
-**Prüfung der Machbarkeit, Ausarbeitung der Programmkonzepte[^5-1]**
+**Prüfung der Machbarkeit, Ausarbeitung der Programmkonzepte**[^5-1]
 
-<sup>1</sup> Das SBFI beauftragt den SNF, die Programmvorschläge auf ihre Machbarkeit hin zu überprüfen und zu konkretisieren.
+<sup>1</sup> Das SBFI beauftragt den SNF, die Programmvorschläge auf ihre Machbarkeit hin zu überprüfen und die Programmkonzepte auszuarbeiten.
 
-<sup>2</sup>
+<sup>2</sup> Bei wirtschaftsnahen Forschungsthemen stellt der SNF bei der Erstellung der Programmkonzepte die Mitwirkung der Innosuisse sicher.
 
-Gestützt auf die Ergebnisse der Machbarkeitsprüfung formuliert der SNF im Programmkonzept für die als machbar befundenen Vorschläge den Forschungsauftrag in wissenschaftlich bearbeitbare Fragen und Problemstellungen aus. Dabei berücksichtigt er die nachfolgenden Eckpunkte des möglichen Programms:
+<sup>3</sup> In besonderen Fällen, namentlich bei aktuellen gesellschaftlich relevanten Themen von gesamtschweizerischer Bedeutung, kann das SBFI im Auftrag des Bundesrates oder des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF), in Abweichung vom Verfahren gemäss Artikel 4 Absätze 2 und 3, den SNF direkt mit der Prüfung der Machbarkeit und der Erstellung eines Programmkonzepts beauftragen. Es teilt dem SNF zu diesem Zweck die Fragestellungen und weitere Vorgaben für das zu prüfende Programm mit.
 
-- a. Ziele und Schwerpunkte des Programms;
-- b. Forschungsdauer des Programms;
-- c. Grobaufteilung der finanziellen Mittel auf die Schwerpunkte;
-- d. nationales und internationales Forschungsumfeld;
-- e. Adressatinnen und Adressaten und praktischer Nutzen.[^5-2]
-
-<sup>3</sup> Bei wirtschaftsnahen Forschungsthemen stellt der SNF bei der Erstellung der Programmkonzepte die Mitwirkung der Innosuisse sicher.[^5-3]
-
-<sup>4</sup> In besonderen Fällen, namentlich bei aktuellen gesellschaftlich relevanten Themen von gesamtschweizerischer Bedeutung, kann das SBFI im Auftrag des Bundesrates oder des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF), in Abweichung vom Verfahren gemäss Artikel 4 Absätze 2 und 3, den SNF direkt mit der Prüfung der Machbarkeit beauftragen. Es teilt dem SNF zu diesem Zweck die Fragestellungen und weitere Vorgaben für das zu prüfende Programm mit.
-
-[^5-1]: Fassung gemäss Ziff. I der V vom 30. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 30. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-3]: Fassung gemäss Ziff. I der V vom 30. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 6
 
-**Prüfung und Wahl der Programme**
+**Prüfung und Wahl der Programme**[^6-1]
 
-<sup>1</sup> Das SBFI veranlasst, dass die im interdepartementalen Koordinationsausschuss für Ressortforschung vertretenen Bundesstellen die Programmkonzepte hinsichtlich Relevanz und Dringlichkeit der Programme für Bundesaufgaben prüfen. Es kann zudem eine Stellungnahme des Schweizerischen Wissenschaftsrates (SWR)[^6-1] einholen.[^6-2]
+<sup>1</sup> Das SBFI konsultiert die im interdepartementalen Koordinationsausschuss für Ressortforschung vertretenen Bundesstellen hinsichtlich Relevanz und Dringlichkeit der Programme für Bundesaufgaben. Es kann zudem eine Stellungnahme des Schweizerischen Wissenschaftsrates (SWR) einholen.
 
-<sup>2</sup> Es unterbreitet dem WBF periodisch eine Auswahl von Vorschlägen für neue Programme.
+<sup>2</sup> Es unterbreitet dem WBF periodisch Vorschläge für neue Programme.
 
-<sup>3</sup> Das WBF beantragt dem Bundesrat periodisch die Durchführung von ein bis drei NFP. Dabei berücksichtigt es das in der BFI-Botschaft ausgewiesene und in der Leistungsvereinbarung mit dem SNF festgelegte Finanzvolumen pro Beitragsperiode.
+<sup>3</sup> Das WBF beantragt dem Bundesrat die Durchführung von NFP. Dabei berücksichtigt es das in der BFI-Botschaft ausgewiesene und in der Leistungsvereinbarung mit dem SNF festgelegte Finanzvolumen pro Beitragsperiode.
 
-[^6-1]: Ausdruck gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^6-2]: Fassung gemäss Ziff. I der V vom 30. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 7
 
@@ -154,13 +145,15 @@ Gestützt auf die Ergebnisse der Machbarkeitsprüfung formuliert der SNF im Prog
 
 <sup>2</sup> Er setzt für jedes Programm eine Leitungsgruppe ein oder errichtet eine andere geeignete Leitungsstruktur.
 
-<sup>3</sup> Das SBFI bezeichnet für jedes Programm Personen innerhalb der Bundesverwaltung (Bundesbeobachterinnen und -beobachter), die zuständig sind für den Informationsfluss und den Wissenstransfer zwischen dem Programm und den betreffenden Ämtern.
+<sup>3</sup> Das SBFI bezeichnet für jedes Programm eine Vertretung aus der Bundesverwaltung. Ihre Aufgaben sind in einem Pflichtenheft geregelt.[^7-2]
 
-<sup>4</sup> Das WBF genehmigt die Ausschreibungsunterlagen. Es kann diese Kompetenz an das SBFI übertragen. Die interessierten Stellen der Bundesverwaltung werden vor einer Genehmigung konsultiert.
+<sup>4</sup> Das WBF genehmigt die Ausschreibungsunterlagen. Es kann diese Kompetenz an das SBFI übertragen. Die interessierten Stellen der Bundesverwaltung werden vor der Genehmigung konsultiert.[^7-3]
 
 <sup>5</sup> Der SNF veröffentlicht die Ausschreibung, evaluiert die eingereichten Projektvorschläge und entscheidet über die im Rahmen der Programme durchzuführenden Projekte.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 30. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^7-3]: Fassung des dritten Satzes gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 8
 
@@ -237,7 +230,7 @@ Sie trifft im Rahmen des NFS-Vertrags (Art. 15) selbstständig Entscheide. Ihr o
 
 **Auswahl- und Entscheidverfahren**
 
-<sup>1</sup> Der SNF führt im Auftrag des WBF die Ausschreibung für die NFS durch.
+<sup>1</sup> Der SNF führt im Auftrag des WBF die Ausschreibung für neue NFS-Serien durch.[^13-1]
 
 <sup>2</sup> Das Auswahl- und Entscheidverfahren läuft über zwei Stufen: zuerst über Skizzen und anschliessend über Gesuche.
 
@@ -251,13 +244,17 @@ Das SBFI ist für die forschungs- und hochschulpolitische Beurteilung zuständig
 
 - a. leitet es die erforderlichen Abklärungen und Verhandlungen mit den involvierten Hochschulen und Forschungsinstitutionen;
 - b. holt es die Stellungnahme der im interdepartementalen Koordinationsausschuss für die Ressortforschung vertretenen Bundesstellen hinsichtlich der Bedeutung der Vorhaben für Bundesaufgaben ein;
-- c. holt es die Stellungnahme der Innosuisse hinsichtlich der Bedeutung der Vorhaben für die Innovationsförderung ein;
+- c. holt es die Stellungnahme der Innosuisse[^13-2] hinsichtlich der Bedeutung der Vorhaben für die Innovationsförderung ein;
 - d. hält es Rücksprache mit dem SNF hinsichtlich finanzieller und struktureller Auflagen;
 - e. holt es die Stellungnahme des SWR hinsichtlich der Gesamtbewertung der Vorhaben ein.
 
-<sup>6</sup> Es stellt dem WBF einen begründeten Antrag zur Errichtung von NFS.
+<sup>6</sup> Es stellt dem WBF einen begründeten Antrag zur Errichtung neuer NFS.[^13-3]
 
 <sup>7</sup> Das WBF entscheidet über die zu errichtenden NFS. Dabei legt es für jeden NFS die Auflagen und den Finanzrahmen für die erste Beitragsperiode fest.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^13-2]: Ausdruck gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^13-3]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 14
 
@@ -271,29 +268,36 @@ Das SBFI ist für die forschungs- und hochschulpolitische Beurteilung zuständig
 
 **NFS-Vertrag**
 
-<sup>1</sup> Der SNF, die Heiminstitutionen und die NFS-Leitung schliessen für jede Finanzierungsperiode einen NFS-Vertrag ab.
+<sup>1</sup> Der SNF, die Heiminstitutionen und die NFS-Leitung schliessen für jede Finanzierungsperiode einen Vertrag ab.[^15-1]
 
 <sup>2</sup> Der SNF unterbreitet den Vertrag vor dessen Unterzeichnung dem SBFI zur Genehmigung. Dieses prüft die vorgesehenen Regelungen hinsichtlich der Einhaltung des gesetzten Finanzrahmens, der Auflagen und der damit verbundenen Rechte und Pflichten der Beteiligten.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 16
 
 **Durchführung der NFS**
 
-<sup>1</sup> Der SNF finanziert, begleitet und überwacht die NFS.
+<sup>1</sup> Der SNF finanziert und begleitet die NFS und überprüft die Einhaltung der Vertragsbedingungen.[^16-1]
 
 <sup>2</sup> Er entscheidet nach einer abgelaufenen Finanzierungsperiode über die Verlängerung der Unterstützung gestützt auf ein Gesuch der NFS-Leitung. Einem solchen Gesuch muss ein Schreiben der Heiminstitutionen beiliegen, in dem diese ihre finanzielle Ausstattung des NFS und ihre strukturellen Ausbaupläne zusichern. Der SNF berücksichtigt bei seinem Entscheid auch die Ergebnisse seiner Zwischenevaluation.
 
-<sup>3</sup> Heisst der SNF ein Verlängerungsgesuch gut, so wird für die neue Beitragsperiode ein neuer Vertrag nach Artikel 15 geschlossen.
+<sup>3</sup> Heisst der SNF ein Verlängerungsgesuch gut, so wird für die neue Finanzierungsperiode ein neuer Vertrag nach Artikel 15 geschlossen.[^16-2]
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 17
 
 **Monitoring, Berichterstattung und Evaluation**
 
-<sup>1</sup> Der SNF sorgt für ein kontinuierliches Monitoring der laufenden NFS. Er setzt für das Monitoring jedes NFS ein internationales Begleitkomitee ein.
+<sup>1</sup> Der SNF sorgt für ein Monitoring der laufenden NFS. Er setzt für das Monitoring jedes NFS ein internationales Begleitkomitee ein.[^17-1]
 
 <sup>2</sup> Er erarbeitet für jeden abgeschlossenen NFS einen Schlussbericht. Dieser erhält den finanziellen Abschluss sowie einen Bericht über die wissenschaftlichen und die strukturellen Ergebnisse. Er nimmt darin eine abschliessende Bewertung hinsichtlich der mit dem NFS verfolgten Hauptziele vor. Dazu stützt er sich auf entsprechende Schlussberichte der NFS-Leitung sowie auf die Beurteilung des internationalen Begleitkomitees.
 
 <sup>3</sup> Das SBFI entscheidet nach Rücksprache mit dem SNF, ob ein abgeschlossener NFS oder eine abgeschlossene NFS-Serie oder das Instrument NFS an sich im Auftrag des SBFI einer umfassenden Wirkungsprüfung unter der Leitfrage der Zielerreichung unterzogen wird. Es entscheidet nach Rücksprache mit dem SNF über die Modalitäten einer allfälligen Prüfung und erteilt die entsprechenden Aufträge.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 18
 
@@ -312,6 +316,29 @@ Das SBFI ist für die forschungs- und hochschulpolitische Beurteilung zuständig
 **Verfahren**
 
 Das WBF regelt in einer Verordnung die Einzelheiten des Verfahrens zur Ausschreibung, Auswahl und Evaluation der NFS.
+
+### 4. Abschnitt: Reserven des SNF
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
+### (Art. 10 Abs. 6 FIFG)
+
+#### Art. 19a
+
+**Überschreiten des Höchstsatzes der Reserven**
+
+<sup>1</sup>
+
+Der SNF darf in einem Kalenderjahr (Rechnungsjahr n) den Höchstsatz von 15 Prozent des vom Parlament bewilligten Bundesbeitrags für den SNF ausnahmsweise überschreiten, wenn:
+
+- a. das Total der Reserven 20 Prozent der Summe der nicht bilanzierten Verpflichtungen des SNF für die beiden Folgejahre (Jahre n+1 und n+2) nicht überschreitet; und
+- b. der Höchstsatz von 15 Prozent des voraussichtlichen jährlichen Bundesbeitrags für den SNF für das Folgejahr (n+3) eingehalten ist.
+
+<sup>2</sup> Der SNF legt dem SBFI eine entsprechende, jährlich aktualisierte Reserveplanung vor.
+
+<sup>3</sup> Das SBFI nimmt davon Kenntnis und bewilligt nach vorgängiger Konsultation der Eidgenössischen Finanzverwaltung eine allfällige Ausnahme nach Absatz 1.
 
 ## 2. Kapitel: Forschungsförderung durch die Bundesverwaltung
 
@@ -347,7 +374,9 @@ Das Gesuch muss enthalten:
 
 <sup>3</sup> Eine Kostenbeteiligung ausschliesslich über Sachleistungen ist nur bei Hochschulen zulässig.
 
-<sup>4</sup> Im Falle von Sachleistungen müssen diese zudem eindeutig als Einnahmen der Forschungsinfrastruktur oder der Forschungsinstitution ausweisbar sein.
+<sup>4</sup> Allfällige Sachleistungen müssen eindeutig als Einnahmen der Forschungsinfrastruktur oder der Forschungsinstitution ausgewiesen und verbucht werden.[^21-1]
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 22
 
@@ -359,11 +388,13 @@ Das Gesuch muss enthalten:
 
 <sup>3</sup> Eine Kostenbeteiligung ausschliesslich über Sachleistungen ist nur bei Hochschulen zulässig.
 
-<sup>4</sup> Im Falle von Sachleistungen müssen diese zudem eindeutig als Einnahmen des Technologiekompetenzzentrums ausweisbar sein.
+<sup>4</sup> Allfällige Sachleistungen müssen eindeutig als Einnahmen des Technologiekompetenzzentrums ausgewiesen und verbucht werden.[^22-1]
 
 <sup>5</sup> Neue Aktivitätsgebiete im Sinne von Artikel 15 Absatz 6 FIFG müssen von bestehenden Forschungsschwerpunkten anderer Hochschulforschungsstätten abgrenzbar und von nationaler Bedeutung sein.
 
 <sup>6</sup> Beim Aufbau neuer Aktivitätsgebiete können bei der Berechnung der Grundfinanzierung allfällige kompetitive Forschungsmittel während höchstens zweier BFI-Perioden berücksichtigt werden. Die Anrechnung der entsprechenden Forschungsmittel setzt voraus, dass diese dem neuen Aktivitätsgebiet zugeordnet werden können.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 23
 
@@ -439,50 +470,11 @@ Die Innosuisse hat ihren Sitz in Bern.
 
 [^28-1]: Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
-#### Art. 29
+#### Art. 29 und 30
 
-**Beiträge der Innosuisse für Innovationsprojekte**
+[^2930-1]
 
-### (Art. 19 FIFG)
-
-[^29-1]
-
-Die Innosuisse unterstützt Innovationsprojekte mit Beiträgen nur dann, wenn die beteiligten Umsetzungspartner aufzeigen, dass eine wirkungsvolle Umsetzung der Forschungsergebnisse eines Projekts am Markt oder für die Gesellschaft erwartet werden kann. Dabei sind zu berücksichtigen:
-
-- a. die voraussichtlichen Auswirkungen des Projekts auf die Wettbewerbsfähigkeit der Umsetzungspartner oder auf die Volkswirtschaft;
-- b. die mit der Umsetzung verbundene voraussichtliche Wertschöpfung in der Schweiz;
-- c. der beim Umsetzungspartner voraussichtlich resultierende wirtschaftliche oder gesellschaftliche Nutzen.
-
-[^29-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-
-#### Art. 30
-
-**Beteiligung der Umsetzungspartner**
-
-### (Art. 19 Abs. 2 Bst. d FIFG)
-
-<sup>1</sup>
-
-Die Innosuisse kann die Beteiligung des Umsetzungspartners an den Projektkosten ausnahmsweise auf weniger als 50 Prozent festsetzen, wenn:[^30-1]
-
-- a. das Projekt überdurchschnittlich hohe Realisierungsrisiken und gleichzeitig das Potenzial für einen überdurchschnittlichen wirtschaftlichen Erfolg oder für einen hohen gesellschaftlichen Nutzen aufweist;
-- b. die zu erwartenden Ergebnisse nicht allein dem Umsetzungspartner, sondern auch einem breiten im Projekt nicht beteiligten Kreis von Nutzern zugutekommen können; oder
-- c. die Beteiligung des Umsetzungspartners zusammen mit einer Drittfinanzierung, die nicht aus Bundesmitteln stammt, mindestens eine hälftige Beteiligung ausmacht.
-
-<sup>2</sup>
-
-Sie kann überdies die Beteiligung der Umsetzungspartner an den Projektkosten auf weniger als 50 Prozent festsetzen, wenn es sich um ein Innovationsprojekt handelt, an dem ausschliesslich Unternehmen mit einem Beschäftigtenanteil von höchstens 500 Vollzeitäquivalenten teilnehmen. Dabei beträgt die Beteiligung der Umsetzungspartner jedoch:
-
-- a. mindestens 30 Prozent;
-- b.
-
-  mindestens 20 Prozent bei Projekten, die:
-
-  - 1\. zur Bewältigung des Strukturwandels beitragen, insbesondere durch die Erarbeitung neuer Geschäftsmodelle oder die Umsetzung radikaler oder disruptiver Innovationsvorhaben, und
-  - 2\. den Beizug von Drittleistungen spezialisierter Leistungserbringer nötig machen.[^30-2]
-
-[^30-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^30-2]: Eingefügt durch Ziff. I der V vom 3. Juni 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft vom 1. Jan. 2021 bis zum 31. Dez. 2022 ([AS 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
+[^2930-1]: Aufgehoben durch Ziff. I der V vom 26. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 31
 
@@ -530,9 +522,11 @@ Das Gesuch muss insbesondere Folgendes enthalten:
 
 #### Art. 33
 
-**Zweck der Overheadbeiträge**
+**Zweck der Overheadbeiträge**[^33-1]
 
-Beiträge für indirekte Forschungskosten (Overhead) dienen dazu, den Institutionen die Kosten teilweise abzugelten, die ihnen durch Forschungsvorhaben entstehen, die der SNF, die Innosuisse und die Bundesverwaltung im Rahmen ihrer Forschungs- und Innovationsförderung unterstützen.
+Beiträge für indirekte Forschungskosten (Overhead) stellen einen Beitrag an die Kosten dar, die den Institutionen durch Forschungsvorhaben entstehen, die der SNF, die Innosuisse und die Bundesverwaltung im Rahmen ihrer Forschungs- und Innovationsförderung unterstützen.
+
+[^33-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 34
 
@@ -612,11 +606,13 @@ Die Innosuisse legt die Einzelheiten der Gewährung von Overheadbeiträgen in ih
 
 #### Art. 39
 
-<sup>1</sup> Die Bundesverwaltung weist Overheadbeiträge für Massnahmen nach Artikel 16 Absatz 2 Buchstaben b und c FIFG in ihren Entscheiden gesondert aus.
+<sup>1</sup> Die Bundesverwaltung weist Overheadbeiträge für Massnahmen nach Artikel 16 Absatz 2 Buchstaben c und d FIFG in ihren Entscheiden gesondert aus.[^39-1]
 
 <sup>2</sup> Für die Berechnung der Overheadbeiträge gilt höchstens der vom Parlament festgelegte Beitragshöchstsatz für die Overheadbeiträge des SNF.
 
 <sup>3</sup> Die Auszahlung der Overheadbeiträge erfolgt im Rahmen der Auszahlung der Beiträge für die direkten Forschungskosten.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## 5. Kapitel: Massnahmen zur Förderung der Verwertung von Forschungsresultaten als zusätzliche Fördervoraussetzungen
 
@@ -669,7 +665,7 @@ Bei der Festlegung einer Entschädigung für eine exklusive Nutzung und Verwertu
 - a. der Anteil der Umsetzungspartner an der Finanzierung des unterstützten Innovationsprojekts; und
 - b. dass die Entschädigungspflicht die erfolgreiche Verwertung der Projektergebnisse nicht gefährden darf; eine allfällige Gefährdung ist von den Umsetzungspartnern darzulegen.
 
-## *5**a**.* Kapitel:**** Datenbekanntgabe durch Forschungsförderungsinstitutionen
+## *5**a**.* Kapitel: Datenbekanntgabe durch Forschungsförderungsinstitutionen
 
 [^chap5a-1]
 
@@ -705,11 +701,12 @@ Die arbeitgebende Institution hat Zugriff ausschliesslich auf Daten über Forsch
 
 <sup>1</sup> Das WBF ist befugt, im Rahmen der internationalen Zusammenarbeit im Bereich von Forschung und Innovation völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* Absatz 2 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^42-1] abzuschliessen. Vorbehalten bleiben spezialrechtliche Bestimmungen.
 
-<sup>2</sup> Das WBF ist im Rahmen seiner Kompetenz nach Absatz 1 befugt, Absichtserklärungen zur Förderung der internationalen Zusammenarbeit im Bereich von Forschung und Innovation abzuschliessen, namentlich im Rahmen der Europäischen Zusammenarbeit auf dem Gebiet der wissenschaftlichen und technischen Forschung (COST).
+<sup>2</sup> Das WBF ist im Rahmen seiner Kompetenz nach Absatz 1 befugt, Absichtserklärungen zur Förderung der internationalen Zusammenarbeit im Bereich von Forschung und Innovation abzuschliessen.[^42-2]
 
 <sup>3</sup> Es kann die Kompetenzen nach den Absätzen 1 und 2 dem SBFI übertragen.
 
 [^42-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
 
@@ -751,13 +748,15 @@ Die Beiträge ermöglichen es interessierten schweizerischen Stellen, im Rahmen 
 
 <sup>1</sup>
 
-Beiträge werden den Institutionen und Organisationen gewährt, wenn das Vorhaben:
+Beiträge können den Institutionen und Organisationen gewährt werden, wenn:
 
-- a. von gesamtschweizerischem Interesse ist;
-- b. nicht ausreichend anders finanziert werden kann und die Beteiligung der Schweiz ohne Finanzhilfen des Bundes nicht möglich ist;
-- c. von einer Institution oder Organisation getragen wird, die Gewähr bietet, dass die Beiträge effizient eingesetzt und der administrative Aufwand gering gehalten wird.
+- a. das Vorhaben von gesamtschweizerischem Interesse ist;
+- b. die Beteiligung der Schweiz ohne Finanzhilfen des Bundes nicht möglich ist;
+- c. das Vorhaben von einer Institution oder Organisation getragen wird, die Gewähr bietet, dass die Beiträge effizient eingesetzt und der administrative Aufwand gering gehalten wird.[^46-1]
 
 <sup>2</sup> Beiträge werden jeweils für höchstens fünf Jahre gewährt. Eine oder mehrere Verlängerungen der Unterstützung um jeweils höchstens fünf Jahre sind möglich. Vor jeder Verlängerung wird die Berechtigung überprüft.
+
+[^46-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 47
 
@@ -780,23 +779,31 @@ Das SBFI konsultiert andere Ämter oder Forschungsorgane, die durch das Vorhaben
 
 #### Art. 49
 
-**Entscheid**
+**Entscheid**[^49-1]
 
-<sup>1</sup> Über Beiträge bis 1 Million Franken entscheidet das SBFI.
+<sup>1</sup> Über Beiträge bis 3 Million Franken entscheidet das SBFI.
 
-<sup>2</sup> Über Beiträge von mehr als 1 Million Franken entscheidet das WBF. Das SBFI stellt Antrag.
+<sup>2</sup> Über Beiträge von mehr als 3 Millionen Franken entscheidet das WBF. Das SBFI stellt Antrag.
 
-<sup>3</sup> Für Beiträge von mehr als 2 Millionen Franken muss vorgängig die Zustimmung des Eidgenössischen Finanzdepartementes eingeholt werden. Kommt in einem solchen Fall keine Einigung zustande, so entscheidet der Bundesrat auf Antrag des WBF.
+<sup>3</sup> Für Beiträge von mehr als 5 Millionen Franken muss vorgängig die Zustimmung des Eidgenössischen Finanzdepartementes eingeholt werden. Kommt in einem solchen Fall keine Einigung zustande, so entscheidet der Bundesrat auf Antrag des WBF.
 
 <sup>4</sup> Die Beiträge können durch Verfügungen oder im Rahmen von Verträgen gewährt werden.
+
+[^49-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 50
 
 **Information und Beratung**[^50-1]
 
-Das SBFI kann Forschungsorgane, Organisationen und Unternehmen mit Sitz in der Schweiz über die vom Bund unterstützten Aktivitäten bezüglich internationaler Programme und Projekte informieren und sie bei der Erarbeitung und Einreichung von Gesuchen beraten.
+<sup>1</sup> Das SBFI kann Forschungsorgane, Organisationen und Unternehmen mit Sitz in der Schweiz über die vom Bund unterstützten Aktivitäten bezüglich internationaler Programme und Projekte informieren und sie bei der Erarbeitung und Einreichung von Gesuchen beraten.
 
-[^50-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>2</sup> Es kann Beiträge ausrichten an nichtkommerzielle Institutionen und Organisationen für die Informations- und Beratungstätigkeiten nach Artikel 29 Absatz 1 Buchstabe f FIFG.
+
+<sup>3</sup> Für die Beiträge nach Absatz 2 legt es in den Verträgen oder Verfügungen einen jährlichen Höchstbetrag im Rahmen der verfügbaren Mittel fest. Dabei berücksichtigt es die Personal-, Miet- und Sachkosten, die in Zusammenhang mit der Informations- und Beratungstätigkeit stehen, sowie andere Mittelzuflüsse der öffentlichen Hand oder Dritter.
+
+<sup>4</sup> Beiträge werden jeweils für höchstens vier Jahre gewährt. Eine oder mehrere Verlängerungen der Unterstützung um jeweils höchstens vier Jahre sind möglich. Vor jeder Verlängerung wird die Berechtigung überprüft.
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### 3. Abschnitt: Beiträge zur bilateralen wissenschaftlichen Zusammenarbeit ausserhalb internationaler Programme und Organisationen
 
@@ -806,7 +813,7 @@ Das SBFI kann Forschungsorgane, Organisationen und Unternehmen mit Sitz in der S
 
 **Grundsätze**
 
-<sup>1</sup> Es können Beiträge an Hochschulforschungsstätten ausgerichtet werden für die Zusammenarbeit und den Austausch mit den im Rahmen der internationalen Forschungs- und Innovationspolitik der Schweiz bestimmten Schwerpunktländern und ‑regionen.
+<sup>1</sup> Es können Beiträge an Hochschulforschungsstätten ausgerichtet werden für die Zusammenarbeit und den Austausch mit den im Rahmen der internationalen Forschungs- und Innovationspolitik der Schweiz bestimmten Ländern und Regionen.[^51-1]
 
 <sup>2</sup> Die Zusammenarbeit zwischen schweizerischen und ausländischen Hochschulforschungsstätten wird umgesetzt über gemeinsame Forschungsprogramme, die gemeinsame Nutzung von Laboratorien, die Verleihung von gemeinsamen Hochschulabschlüssen, die Finanzierung von Stipendien für den Austausch von Studierenden und Forschenden sowie durch punktuelle Projekte und Pilot-Aktivitäten.
 
@@ -814,31 +821,35 @@ Das SBFI kann Forschungsorgane, Organisationen und Unternehmen mit Sitz in der S
 
 <sup>4</sup> Rechtfertigen es das wissenschaftspolitische Interesse für die Schweiz und die wissenschaftliche Exzellenz eines Projekts, so kann vom Grundsatz der Reziprozität abgesehen werden, sofern die Träger der Projekte oder die Forschungsförderungsinstitutionen angemessene Mittel zur Verfügung stellen.
 
+[^51-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 #### Art. 52
 
-**Verfahren für gemeinsame Projektausschreibungen mit Schwerpunktländern und -regionen**
+**Verfahren für gemeinsame Projektausschreibungen**[^52-1]
 
-<sup>1</sup> Das SBFI setzt für die Schwerpunktländer oder -regionen nationale Steuerungsausschüsse ein. Diese bestimmen, gegebenenfalls in Abstimmung mit dem zuständigen Leading House nach Absatz 2, die Ausrichtung des Zusammenarbeitsprogramms aus nationaler Sicht.
+<sup>1</sup> Das SBFI setzt für die im Rahmen der internationalen Forschungs- und Innovationspolitik der Schweiz bestimmten Länder oder Regionen einen nationalen Steuerungsausschuss ein. Dieser bestimmt die Ausrichtung des Zusammenarbeitsprogramms aus nationaler Sicht.
 
-<sup>2</sup> Das SBFI kann für jedes Schwerpunktland oder jede Schwerpunktregion eine Schweizer Hochschulforschungsstätte als Leading House bestimmen, das mit der Koordination und der Umsetzung des Zusammenarbeitsprogramms beauftragt werden kann. Dazu konsultiert das SBFI vorgängig die Rektorenkonferenz der schweizerischen Hochschulen.[^52-1] Ist für ein Schwerpunktland oder eine Schwerpunktregion kein Leading House eingesetzt, so trifft das SBFI die erforderlichen Massnahmen und Entscheide.
+<sup>2</sup> Das SBFI kann für jedes Land oder jede Region eine Schweizer Hochschulforschungsstätte als Leading House bestimmen, die mit der Koordination und der Umsetzung des Zusammenarbeitsprogramms beauftragt werden kann. Dazu konsultiert das SBFI swissuniversities. Ist für ein Land oder eine Region kein Leading House eingesetzt, so trifft das SBFI die erforderlichen Massnahmen und Entscheide.
 
-<sup>3</sup> Der SNF ist im Auftrag des SBFI für die Ausschreibung der gemeinsamen Forschungsprojekte im Rahmen der bilateralen wissenschaftlichen Zusammenarbeit sowie für deren Evaluation zuständig und entscheidet gemäss den Kriterien seines Beitragsreglements über die Aufnahme der Projekte in die engere Wahl.
+<sup>3</sup> Der SNF ist im Auftrag des SBFI für die Ausschreibung der gemeinsamen Forschungsprojekte im Rahmen der bilateralen wissenschaftlichen Zusammenarbeit sowie für deren Evaluation zuständig. Das Verfahren richtet sich nach den Reglementen des SNF und nach der Ausschreibung durch den SNF.
 
 <sup>4</sup> Die bilateralen Vereinbarungen mit dem Partnerland regeln die Bildung von gemeinsamen Arbeitsgruppen und deren Aufgaben. Die Arbeitsgruppen entscheiden namentlich über die Gutheissung oder Ablehnung der im Rahmen der Programme eingereichten Projektgesuche.
 
-<sup>5</sup> Das WBF regelt in einer Verordnung die Einzelheiten des Verfahrens.
+<sup>5</sup> Das WBF regelt in einer Verordnung die Vertretung im nationalen Steuerungsausschuss und dessen Arbeitsweise.
 
-[^52-1]: In Kraft seit 1. Jan. 2015.
+[^52-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 53
 
 **Festsetzung der Beiträge, Leistungsaufträge**
 
-<sup>1</sup> Das WBF legt im Rahmen der bewilligten Kredite für jedes Zusammenarbeitsprogramm mit einem Schwerpunktland oder einer Schwerpunktregion den Höchstbetrag für die Durchführung des Programms fest, der für die jeweilige Beitragsperiode zugesprochen werden kann.
+<sup>1</sup> Das WBF legt im Rahmen der bewilligten Kredite für jedes Zusammenarbeitsprogramm den Höchstbetrag für die Durchführung des Programms fest, der für die jeweilige Beitragsperiode zugesprochen werden kann.[^53-1]
 
 <sup>2</sup> Das SBFI schliesst mit jedem Leading House einen Leistungsvertrag ab, der die Ziele der bilateralen Zusammenarbeit, die vom Leading House zu erbringenden Leistungen und die Vorgaben zur Berichterstattung (Reporting und Controlling) festlegt. Das SBFI kann dem Leading House im Leistungsvertrag eine Entscheidungskompetenz für die Auswahl einzelner Projekte und Pilot-Aktivitäten übertragen.
 
 <sup>3</sup> Die Einzelheiten der Aufgaben des SNF und die entsprechenden Beiträge werden in der Leistungsvereinbarung mit dem SNF festgelegt.
+
+[^53-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## 7. Kapitel: Koordination, Planung und nachhaltige Entwicklung
 
@@ -866,25 +877,27 @@ Das SBFI erarbeitet periodisch oder nach Bedarf zuhanden des Bundesrates einen B
 
 #### Art. 55
 
-**Forschungsinfrastrukturen**
+**Forschungsinfrastrukturen**[^55-1]
 
 <sup>1</sup>
 
-Das SBFI erarbeitet periodisch oder nach Bedarf zuhanden des Bundesrates einen Bericht zum Stand und zur Entwicklung von Forschungsinfrastrukturen, insbesondere von internationalen Grossforschungseinrichtungen und weiteren international koordinierten Forschungsinfrastrukturen unter Beteiligung der Schweiz. Es berücksichtigt dabei:
+Das SBFI erarbeitet zuhanden des WBF periodisch oder nach Bedarf einen Bericht zum Stand und zur Entwicklung von Forschungsinfrastrukturen, insbesondere von internationalen Grossforschungseinrichtungen und weiteren international koordinierten Forschungsinfrastrukturen unter Beteiligung der Schweiz. Es berücksichtigt dabei:
 
 - a. die Verpflichtungen der Schweiz aus völkerrechtlichen Verträgen;
 - b. die Entwicklungen insbesondere im europäischen Forschungs- und Innovationsraum hinsichtlich der Einrichtung und des Betriebs international koordinierter Forschungsinfrastrukturen;
 - c. die Entwicklungsprioritäten der Fachgebiete und Disziplinen in der Schweiz im Bereich von Forschung und Innovation;
 - d. die entsprechenden Entwicklungsprioritäten im ETH-Bereich und an den übrigen Hochschulen.
 
-<sup>2</sup> Es konsultiert dabei die Förderorgane, betroffene Bundesstellen sowie bei Bedarf den SWR, und stellt die notwendige wissenschaftliche Expertise sicher.
+<sup>2</sup> Es konsultiert dabei die betroffenen Forschungsorgane und Bundesstellen sowie bei Bedarf den SWR, und stellt die notwendige wissenschaftliche Expertise sicher.
 
-<sup>3</sup> Es stellt im Weiteren sicher, dass in Fällen, wo sich ein direkter Zusammenhang mit den besonders kostenintensiven Bereichen nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^55-1] (HFKG) ergibt, eine sachliche Abstimmung zwischen forschungs- und innovationspolitischer Planung nach FIFG und hochschulpolitischer Koordination nach HFKG erfolgt.[^55-2]
+<sup>3</sup> Es stellt im Weiteren sicher, dass in Fällen, wo sich ein direkter Zusammenhang mit den besonders kostenintensiven Bereichen nach dem Hochschulförderungs- und –koordinationsgesetz vom 30. September 2011[^55-2] (HFKG) ergibt, eine sachliche Abstimmung zwischen forschungs- und innovationspolitischer Planung nach FIFG und hochschulpolitischer Koordination nach HFKG erfolgt.
 
-<sup>4</sup> Der Bundesrat nimmt vom Bericht Kenntnis und beschliesst die notwendigen Koordinationsmassnahmen.
+<sup>4</sup> Das WBF nimmt vom Bericht Kenntnis.
 
-[^55-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^55-2]: In Kraft seit 1. Jan. 2015
+<sup>5</sup> Allfällige Anträge zur Finanzierung der Forschungsinfrastrukturen erfolgen im Rahmen der periodischen BFI-Botschaften.
+
+[^55-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 56
 
@@ -942,6 +955,10 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 
 <sup>2</sup> Der Förderplan zeigt, wie die Mittel im kommenden Jahr verwendet werden sollen. Die Darstellung erfolgt in Franken und Anteilen am Gesamtaufwand; zum Vergleich werden die entsprechenden Zahlen der beiden Vorjahre angeführt. Die geplante Förderung ist zu begründen.
 
+<sup>3</sup> Der jährliche Förderplan wird durch das SBFI genehmigt.[^59-1]
+
+[^59-1]: Eingefügt durch Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 ### 3. Abschnitt: Nachhaltige Entwicklung
 
 (Art. 6 Abs. 3 Bst. a FIFG)
@@ -960,13 +977,14 @@ Mit ihren Mehrjahresprogrammen geben die Forschungsorgane Auskunft über die bea
 
 #### Art. 61
 
-<sup>1</sup> Der Schweizerische Wissenschaftsrat (SWR) ist eine ständige Verwaltungskommission nach Artikel 8*a* Absatz 2 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^61-1]. Er ist administrativ dem WBF zugeordnet.
+<sup>1</sup> Der Schweizerische Wissenschaftsrat (SWR)[^61-1] ist eine ständige Verwaltungskommission nach Artikel 8*a* Absatz 2 der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^61-2]. Er ist administrativ dem WBF zugeordnet.
 
 <sup>2</sup> Er führt eine eigene Geschäftsstelle.
 
 <sup>3</sup> Die Mittel für den Betrieb des SWR werden im Voranschlag des SBFI eingestellt.
 
-[^61-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-1]: Ausdruck gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 ## 9. Kapitel: Schlussbestimmungen
 

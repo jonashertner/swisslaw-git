@@ -4,11 +4,11 @@ title: "Ordonnance du 29 novembre 2013 relative à la loi fédérale sur l'encou
 short: O-LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: fr
-version: 2022-02-01
+version: 2023-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,23 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/fr"
 
 (Ordonnance sur l’encouragement de la recherche et de l’innovation, O-LERI)
 
-du 29 novembre 2013 (Etat le 1<sup>er</sup> février 2022)
+du 29 novembre 2013 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 10, al. 4, 2<sup>e</sup> phrase, 15, al. 6, 16, al. 6, 2<sup>e</sup> phrase, 19, al. 2, let. d, 23, al. 2, 29, al. 2, 47, al. 1, et 56 de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation (LERI)[^ingress-1], vu l’art. 1, al. 5, de la loi du 17 juin 2016 sur Innosuisse (LASEI)[^ingress-2],[^ingress-3]
+vu les art. 10, al. 4, 2<sup>e</sup> phrase et al. 6, 3<sup>e</sup> phrase, 15, al. 6, 16, al. 6, 2<sup>e</sup> phrase, 23, al. 2, 29, al. 2, 47, al. 1, et 56 de la loi fédérale du 14 décembre 2012 sur l’encouragement de la recherche et de l’innovation (LERI)[^ingress-1], vu l’art. 1, al. 5, de la loi du 17 juin 2016 sur Innosuisse (LASEI)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
-## Chapitre 1 Programmes d’encouragement thématiques des institutions chargées d’encourager la recherche et de l’Agence suisse pour l’encouragement de l’innovation****
+## Chapitre 1 Programmes spéciaux et programmes d’encouragement thématiques des institutions chargées d’encourager la recherche et de l’Agence suisse pour l’encouragement de l’innovation
 
 [^chap1-1]
 
-[^chap1-1]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
+[^chap1-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Section 1 Dispositions générales
 
@@ -43,7 +43,7 @@ arrête:
 
 **Principes**
 
-<sup>1</sup> Les programmes d’encouragement thématiques doivent présenter un intérêt national.
+<sup>1</sup> Les programmes spéciaux et les programmes d’encouragement thématiques doivent présenter un intérêt national.[^1-1]
 
 <sup>2</sup>
 
@@ -54,7 +54,7 @@ Ils peuvent être exécutés:
   à l’aide des instruments d’encouragement des organes d’encouragement (organes d’encouragement) suivants:
 
   - 1\. des institutions chargées d’encourager la recherche au sens de l’art. 4, let. a, LERI,
-  - 2\. de l’Agence suisse pour l’encouragement de l’innovation (Innosuisse[^1-1]);
+  - 2\. de l’Agence suisse pour l’encouragement de l’innovation (Innosuisse[^1-2]);
 
 - b. à l’aide de mesures spéciales, qui doivent être prises dans le cadre des compétences des organes d’encouragement.
 
@@ -62,15 +62,18 @@ Ils peuvent être exécutés:
 
 <sup>4</sup> Au besoin, des mesures adaptées au cas par cas sont définies pour l’évaluation des programmes, en particulier pour l’évaluation de l’impact.
 
-[^1-1]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^1-2]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 2
 
-**Procédure**
+**Procédure**[^2-1]
 
-<sup>1</sup> L’octroi du mandat d’exécution d’un programme d’encouragement thématique repose sur l’arrêté financier y afférent pris par l’Assemblée fédérale dans le cadre des messages périodiques relatifs à l’encouragement de la formation, de la recherche et de l’innovation (messages FRI) au sens de l’art. 35, al. 1, let. a, LERI.
+<sup>1</sup> L’octroi du mandat d’exécution d’un programme spécial ou d’un programme d’encouragement thématique repose sur l’arrêté financier y afférent pris par l’Assemblée fédérale dans le cadre des messages périodiques relatifs à l’encouragement de la formation, de la recherche et de l’innovation (messages FRI) au sens de l’art. 35, al. 1, let. a, LERI.
 
-<sup>2</sup> Pour les mandats urgents, un arrêté financier peut également être proposé par le biais d’un message spécifique relatif à l’encouragement de la recherche et de l’innovation au sens de l’art. 35, al. 1, let. b, LERI.
+<sup>2</sup> Pour les mandats urgents, notamment pour les programmes spéciaux, un arrêté financier peut également être proposé par le biais d’un message spécifique relatif à l’encouragement de la recherche et de l’innovation au sens de l’art. 35, al. 1, let. b, LERI.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Section 2 Programmes nationaux de recherche du Fonds national suisse de la recherche scientifique
 
@@ -107,45 +110,33 @@ Il s’agit aussi de considérer, lors du choix des programmes, si:
 
 <sup>2</sup> Le SEFRI procède périodiquement au tri des propositions reçues. Il consulte les services fédéraux représentés dans le comité interdépartemental de coordination pour la recherche de l’administration et dresse une liste des priorités sur la base de cette consultation.
 
-<sup>3</sup> Pour les thèmes relevant d’une priorité élevée, il rédige une proposition de programme succincte qui précise les interrogations et qui expose le mandat de recherche et les conditions afférentes.
+<sup>3</sup> Pour les thèmes relevant d’une priorité élevée, il rédige une proposition de programme qui précise les interrogations et qui expose le mandat de recherche et les conditions afférentes.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 5
 
-**Étude de la faisabilité, élaboration des projets de programme[^5-1]**
+**Étude de faisabilité, élaboration des projets de programme**[^5-1]
 
-<sup>1</sup> Le SEFRI charge le FNS d’examiner la faisabilité des propositions de programme et de les concrétiser.
+<sup>1</sup> Le SEFRI charge le FNS d’examiner la faisabilité des propositions de programme et d’élaborer les projets de programme.
 
-<sup>2</sup>
+<sup>2</sup> Pour les thèmes de recherche touchant à l’activité économique, le FNS veille à ce qu’Innosuisse soit associée à l’élaboration des projets de programme.
 
-Sur la base des résultats des études de faisabilité, le FNS établit pour les propositions jugées réalisables un projet de programme dans lequel il définit le mandat de recherche en termes de questionnements et de problèmes adaptés à un traitement scientifique. Il tient compte des paramètres suivants:
+<sup>3</sup> Dans certains cas, notamment face à des thèmes sociétaux actuels d’importance nationale, le SEFRI peut, sur mandat du Conseil fédéral ou du Département fédéral de l’économie, de la formation et de la recherche (DEFR) et en dérogation à la procédure visée à l’art. 4, al. 2 et 3, charger directement le FNS d’examiner la faisabilité d’un programme et d’élaborer un projet de programme. À cet effet, il soumet au FNS des questions spécifiques et lui donne les instructions nécessaires.
 
-- a. objectifs et axes principaux du programme;
-- b. durée des travaux de recherche;
-- c. répartition approximative des moyens financiers entre les axes principaux;
-- d. environnement de recherche national et international;
-- e. destinataires et utilité pratique.[^5-2]
-
-<sup>3</sup> Pour les thèmes de recherche touchant à l’activité économique, le FNS veille à ce qu’Innosuisse[^5-3] soit associée à l’élaboration des projets de programme.[^5-4]
-
-<sup>4</sup> Dans certains cas, notamment face à des thèmes sociétaux actuels d’importance nationale, le SEFRI peut, sur mandat du Conseil fédéral ou du Département fédéral de l’économie, de la formation et de la recherche (DEFR) et en dérogation à la procédure visée à l’art. 4, al. 2 et 3, charger directement le FNS d’examiner la faisabilité d’un programme. À cet effet, il soumet au FNS des questions spécifiques et lui donne les instructions nécessaires.
-
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-3]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
-[^5-4]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 6
 
-**Étude et choix des programmes**
+**Étude et choix des programmes**[^6-1]
 
-<sup>1</sup> Le SEFRI demande aux services fédéraux représentés dans le comité interdépartemental de coordination pour la recherche de l’administration d’examiner les projets de programme quant à leur pertinence et leur urgence pour les tâches de la Confédération. Il peut en outre demander l’avis du Conseil suisse de la science (CSS)[^6-1].[^6-2]
+<sup>1</sup> Le SEFRI consulte les services fédéraux représentés dans le comité interdépartemental de coordination pour la recherche de l’administration quant à la pertinence et l’urgence des programmes pour les tâches de la Confédération. Il peut en outre demander l’avis du Conseil suisse de la science (CSS).
 
-<sup>2</sup> Il remet périodiquement au DEFR une sélection de propositions de nouveaux programmes.
+<sup>2</sup> Il remet périodiquement des propositions de nouveaux programmes au DEFR.
 
-<sup>3</sup> Le DEFR propose périodiquement au Conseil fédéral la réalisation de un à trois PNR. Il tient compte de l’enveloppe financière prévue dans le message FRI et fixée dans la convention de prestations avec le FNS pour chaque période de financement concernée.
+<sup>3</sup> Le DEFR propose la réalisation de PNR au Conseil fédéral. Il tient compte de l’enveloppe financière prévue dans le message FRI et fixée dans la convention de prestations avec le FNS pour chaque période de financement concernée.
 
-[^6-1]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 7
 
@@ -155,13 +146,15 @@ Sur la base des résultats des études de faisabilité, le FNS établit pour les
 
 <sup>2</sup> Il crée pour chaque programme un comité de direction ou met en place une autre structure de direction appropriée.
 
-<sup>3</sup> Le SEFRI désigne pour chaque programme des représentants de l’administration fédérale (observateurs) qui seront chargés de la circulation de l’information et du transfert du savoir entre le programme et les offices concernés.
+<sup>3</sup> Le SEFRI désigne pour chaque programme un ou plusieurs représentants de l’administration fédérale. Les tâches de ces derniers sont réglées dans un cahier des charges.[^7-2]
 
-<sup>4</sup> Le DEFR approuve le dossier de mise au concours. Il peut déléguer cette compétence au SEFRI. Les services intéressés de l’administration fédérale sont consultés avant toute approbation.
+<sup>4</sup> Le DEFR approuve le dossier de mise au concours. Il peut déléguer cette compétence au SEFRI. Les services intéressés de l’administration fédérale sont consultés avant l’approbation.[^7-3]
 
 <sup>5</sup> Le FNS publie la mise au concours, évalue les propositions de projet déposées et décide des projets à exécuter dans le cadre des programmes.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> nov. 2016 ([RO 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^7-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 8
 
@@ -238,7 +231,7 @@ Elle prend les décisions de manière autonome dans le cadre du contrat PRN (art
 
 **Procédure de sélection et de décision**
 
-<sup>1</sup> À la demande du DEFR, le FNS procède à la mise au concours des PRN.
+<sup>1</sup> À la demande du DEFR, le FNS procède à la mise au concours de nouvelles séries de PRN.[^13-1]
 
 <sup>2</sup> La procédure de sélection et de décision se déroule en deux étapes; les chercheurs présentent d’abord une esquisse et ensuite une requête.
 
@@ -256,9 +249,12 @@ Le SEFRI opère l’évaluation des requêtes sous l’angle de la politique de 
 - d. il s’entend avec le FNS sur les conditions financières et structurelles;
 - e. il sollicite l’avis du CSS quant à l’évaluation globale du projet;
 
-<sup>6</sup> Il fait une proposition motivée au DEFR concernant l’établissement de PRN.
+<sup>6</sup> Il fait une proposition motivée au DEFR concernant l’établissement de nouveaux PRN.[^13-2]
 
 <sup>7</sup> Le DEFR décide de l’établissement des PRN et fixe pour chaque PRN les conditions et les enveloppes financières pour la première période de subventionnement.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 14
 
@@ -272,29 +268,35 @@ Le SEFRI opère l’évaluation des requêtes sous l’angle de la politique de 
 
 **Contrat PRN**
 
-<sup>1</sup> Le FNS, les institutions hôtes et la direction du pôle de recherche concluent un contrat PRN pour chaque période de subventionnement.
+<sup>1</sup> Le FNS, les institutions hôtes et la direction du pôle de recherche concluent un contrat pour chaque période de subventionnement.[^15-1]
 
 <sup>2</sup> Il soumet, avant signature, le contrat du PRN au SEFRI pour approbation. Celui-ci examine les dispositions prises concernant le respect de l’enveloppe financière allouée, les conditions et les droits et obligations afférents des parties concernées.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 16
 
 **Réalisation des PRN**
 
-<sup>1</sup> Le FNS assure le financement, le suivi et le contrôle des PRN.
+<sup>1</sup> Le FNS assure le financement et le suivi des PRN et contrôle le respect des conditions fixées dans les contrats.[^16-1]
 
 <sup>2</sup> Il décide de la prolongation du soutien après une période de financement écoulée sur la base d’une demande de poursuite du financement émanant de la direction du pôle de recherche. Une telle demande doit être accompagnée d’une lettre de soutien des institutions hôtes, dans laquelle ces dernières garantissent leur dotation financière du pôle de recherche et leurs mesures de développement structurelles. Le FNS prend sa décision en tenant également compte des résultats de son évaluation intermédiaire.
 
 <sup>3</sup> En cas d’approbation de la demande de prolongation par le FNS, un nouveau contrat au sens de l’art. 15 est conclu pour la nouvelle période de subventionnement.
 
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 #### Art. 17
 
 **Monitorage, présentation des rapports et évaluation**
 
-<sup>1</sup> Le FNS veille à assurer un contrôle suivi des PRN. Il institue un comité d’accompagnement international pour le monitorage de chaque pôle de recherche.
+<sup>1</sup> Le FNS veille à assurer un monitorage des PRN. Il institue un comité d’accompagnement international pour le monitorage de chaque pôle de recherche.[^17-1]
 
 <sup>2</sup> Il établit pour chaque PRN arrivé à son terme un rapport final. Celui-ci comprend le bouclement financier ainsi qu’un rapport sur les résultats scientifiques et structurels. À cette fin, il prévoit une évaluation finale des objectifs principaux poursuivis par le PRN. Il s’appuie pour cela sur les rapports finaux correspondants de la direction du PRN et sur l’évaluation du comité d’accompagnement international.
 
 <sup>3</sup> Le SEFRI décide, après consultation du FNS, s’il y a lieu de mener une évaluation de plus grande ampleur de l’impact du PNR ou de la série de PRN arrivant à terme ou de l’instrument de PRN en tant que tel. Il décide des modalités d’une éventuelle évaluation après consultation du FNS et donne les mandats correspondants.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 18
 
@@ -313,6 +315,29 @@ Le SEFRI opère l’évaluation des requêtes sous l’angle de la politique de 
 **Procédure**
 
 Le DEFR règle dans une ordonnance les détails de la procédure de mise au concours, de sélection et d’évaluation d’un PRN.
+
+### Section 4 Réserves du FNS
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Introduite par le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
+### (art. 10, al. 6, LERI)
+
+#### Art. 19a
+
+**Dépassement du taux maximal des réserves**
+
+<sup>1</sup>
+
+Au cours d’une année civile (année comptable n), le FNS peut exceptionnellement dépasser le taux maximal de 15 % de la contribution fédérale approuvée par le Parlement en faveur du FNS si les conditions suivantes sont réunies:
+
+- a. le total des réserves ne dépasse pas 20 % de la somme des engagements non portés au bilan du FNS pour les deux années suivantes (années n+1 et n+2);
+- b. la contribution fédérale au FNS prévue pour la troisième année suivante (année n+3) respecte le taux maximal de 15 %.
+
+<sup>2</sup> Le FNS soumet au SEFRI une planification des réserves actualisée chaque année.
+
+<sup>3</sup> Le SEFRI prend connaissance de la planification des réserves et autorise une éventuelle exception au sens de l’al. 1, après consultation de l’Administration fédérale des finances.
 
 ## Chapitre 2 Encouragement de la recherche de l’administration
 
@@ -348,7 +373,9 @@ La demande doit comprendre:
 
 <sup>3</sup> Seules les hautes écoles ont la possibilité de fournir une participation financière exclusivement sous forme de prestations en nature.
 
-<sup>4</sup> Les prestations en nature doivent en outre pouvoir être clairement identifiables comme recettes de l’infrastructure de recherche ou de l’institution de recherche.
+<sup>4</sup> Les éventuelles prestations en nature doivent être clairement identifiées et comptabilisées comme recettes de l’infrastructure de recherche ou de l’institution de recherche.[^21-1]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 22
 
@@ -360,11 +387,13 @@ La demande doit comprendre:
 
 <sup>3</sup> Seules les hautes écoles ont la possibilité de fournir une participation financière exclusivement sous forme de prestations en nature.
 
-<sup>4</sup> Les prestations en nature doivent en outre pouvoir être clairement identifiables comme recettes du centre de compétences technologiques.
+<sup>4</sup> Les éventuelles prestations en nature doivent être clairement identifiées et comptabilisées comme recettes du centre de compétences technologiques.[^22-1]
 
 <sup>5</sup> Les nouveaux domaines d’activité au sens de l’art. 15, al. 6, LERI doivent être d’importance nationale et se distinguer des PRN existants d’autres établissements de recherche du domaine des hautes écoles.
 
 <sup>6</sup> Dans le cadre du développement de nouveaux domaines d’activité, les éventuels fonds de recherche obtenus par voie de concours peuvent être pris en compte lors du calcul du financement de base pendant deux périodes FRI au maximum. La prise en compte des fonds de recherche correspondants présuppose que ceux-ci peuvent être rattachés au nouveau domaine d’activité.
+
+[^22-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 23
 
@@ -442,50 +471,11 @@ Innosuisse a son siège à Berne.
 
 [^28-1]: Abrogé par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
-#### Art. 29
+#### Art. 29 et 30
 
-**Contributions d’Innosuisse en faveur de projets d’innovation**
+[^2930-1]
 
-### (art. 19 LERI)
-
-[^29-1]
-
-Innosuisse soutient des projets d’innovation par des contributions pour autant que les partenaires chargés de la mise en valeur attestent qu’une mise en valeur efficace des résultats de la recherche en faveur de l’économie ou de la société peut être escomptée. Elle tient compte:
-
-- a. des effets prévus du projet sur la compétitivité des partenaires chargés de la mise en valeur ou sur l’économie nationale;
-- b. de la création de valeur ajoutée escomptée en Suisse en rapport avec cette commercialisation;
-- c. des avantages socio-économiques prévus engendrés par les partenaires chargés de la mise en valeur.
-
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-
-#### Art. 30
-
-**Participation du partenaire chargé de la mise en valeur**
-
-### (art. 19, al. 2, let. d, LERI)
-
-<sup>1</sup>
-
-Innosuisse peut, à titre exceptionnel, fixer la participation du partenaire chargé de la mise en valeur aux coûts du projet à moins de 50 %:[^30-1]
-
-- a. si la réalisation du projet est particulièrement risquée et que dans le même temps il présente le potentiel d’un succès économique d’exception ou d’une forte plus-value pour la société;
-- b. si les résultats attendus ne profitent pas uniquement au partenaire chargé de la mise en valeur, mais également à un large cercle d’utilisateurs qui ne participent pas au projet, ou
-- c. si la participation du partenaire chargé de la mise en valeur, complétée par un financement de tiers qui ne comprend aucun fond fédéral, correspond au moins à une participation pour moitié aux coûts du projet.
-
-<sup>2</sup>
-
-Elle peut également fixer la participation à moins de 50 % s’il s’agit d’un projet d’innovation auquel prennent uniquement part des entreprises dont le nombre d’emplois en équivalents plein temps n’excède pas 500. Dans ce cas, la participation du partenaire chargé de la mise en valeur est cependant fixée à:
-
-- a. au moins 30 %;
-- b.
-
-  au moins 20 % pour les projets qui:
-
-  - 1\. contribuent à maîtriser le changement structurel, notamment par l’élaboration de nouveaux modèles d’affaires ou la mise en œuvre d’innovations disruptives ou radicales, et
-  - 2\. nécessitent de recourir à des prestations spéciales fournies par des tiers.[^30-2]
-
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^30-2]: Introduit par le ch. I de l’O du 3 juin 2016 ([RO 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur du 1<sup>er</sup> janv. 2021 au 31 déc. 2022 ([RO 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
+[^2930-1]: Abrogés par le ch. I de l’O du 26 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 31
 
@@ -533,9 +523,11 @@ La demande doit notamment contenir les éléments suivants:
 
 #### Art. 33
 
-**But des contributions aux coûts de recherche indirects**
+**But des contributions aux coûts de recherche indirects**[^33-1]
 
-Les contributions aux coûts de recherche indirects représentent une compensation partielle des coûts encourus par les institutions en relation avec les projets de recherche soutenus par le FNS, Innosuisse et l’administration fédérale au titre de l’encouragement de la recherche et de l’innovation.
+Les contributions aux coûts de recherche indirects représentent une contribution au financement des coûts encourus par les institutions en relation avec les projets de recherche soutenus par le FNS, Innosuisse et l’administration fédérale au titre de l’encouragement de la recherche et de l’innovation.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 34
 
@@ -617,11 +609,13 @@ Innosuisse définit les modalités de l’allocation de contributions aux coûts
 
 #### Art. 39
 
-<sup>1</sup> L’administration fédérale mentionne séparément les contributions pour les mesures au sens de l’art. 16, al. 2, let. b et c, LERI dans ses décisions.
+<sup>1</sup> L’administration fédérale mentionne séparément les contributions pour les mesures au sens de l’art. 16, al. 2, let. c et d, LERI dans ses décisions.[^39-1]
 
 <sup>2</sup> Les contributions sont calculées sur la base du taux de contribution maximum fixé par le Parlement pour les contributions aux coûts de recherche indirects du FNS.
 
 <sup>3</sup> Les contributions sont versées en même temps que les contributions aux coûts de recherche directs.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Chapitre 5 Mesures relatives à l’encouragement de la mise en valeur des résultats de recherches comme conditions d’encouragement complémentaires
 
@@ -674,7 +668,7 @@ Lors de la fixation d’une indemnisation pour l’utilisation et la mise en val
 - a. la quote-part financière du partenaire chargé de la mise en valeur du projet d’innovation subventionné soit prise en compte;
 - b. l’indemnisation due ne compromette pas la réussite de la mise en valeur des résultats du projet; dans le cas contraire, le partenaire chargé de la mise en valeur est tenu de fournir des explications.
 
-## Chapitre 5*a***** Communication des données par les institutions chargées d’encourager la recherche
+## Chapitre 5*a* Communication des données par les institutions chargées d’encourager la recherche
 
 [^chap5a-1]
 
@@ -710,11 +704,12 @@ Les institutions qui emploient des chercheurs ont uniquement accès aux données
 
 <sup>1</sup> Le DEFR est autorisé à conclure, dans le cadre de la coopération internationale dans les domaines de la recherche et de l’innovation, des accords internationaux de portée mineure au sens de l’art. 7*a*, al. 2, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^42-1]. Des dispositions spéciales sont réservées.
 
-<sup>2</sup> En vertu de la compétence visée à l’al. 1, le DEFR est autorisé à conclure des déclarations d’intention relatives à l’encouragement de la coopération internationale dans les domaines de la recherche et de l’innovation, notamment dans le cadre de la Coopération européenne dans le domaine de la recherche scientifique et technique (COST).
+<sup>2</sup> En vertu de la compétence visée à l’al. 1, le DEFR est autorisé à conclure des déclarations d’intention relatives à l’encouragement de la coopération internationale dans les domaines de la recherche et de l’innovation.[^42-2]
 
 <sup>3</sup> Il peut déléguer au SEFRI les compétences visées aux al. 1 et 2.
 
 [^42-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
 
@@ -754,15 +749,15 @@ Les contributions permettent, dans le cadre d’une institution ou d’une organ
 
 **Conditions et calculs des contributions**
 
-<sup>1</sup>
+Les contributions peuvent être octroyées aux institutions et aux organisations aux conditions suivantes:
 
-Les contributions sont octroyées aux institutions et aux organisations si le projet:
-
-- a. est d’importance nationale;
-- b. ne peut être financé d’une autre manière et que la participation de la Suisse n’est possible qu’avec une aide financière de la Confédération;
-- c. est porté par une institution ou une organisation garantissant une utilisation efficace des contributions et une charge administrative réduite.
+- a. le projet est d’importance nationale;
+- b. la participation de la Suisse n’est possible qu’avec une aide financière de la Confédération;
+- c. le projet est porté par une institution ou une organisation garantissant une utilisation efficace des contributions et une charge administrative réduite.[^46-1]
 
 <sup>2</sup> Les contributions sont accordées pour cinq ans au maximum. Le soutien peut être prolongé une ou plusieurs fois, mais au maximum pour une nouvelle durée de cinq ans. Le droit aux contributions est réexaminé avant chaque prolongation.
+
+[^46-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 47
 
@@ -785,23 +780,31 @@ Le SEFRI consulte les autres services de la Confédération et les organes de re
 
 #### Art. 49
 
-**Décision**
+**Décision**[^49-1]
 
-<sup>1</sup> Le SEFRI décide des contributions jusqu’à hauteur d’un million de francs.
+<sup>1</sup> Le SEFRI décide des contributions jusqu’à hauteur de 3 millions de francs.
 
-<sup>2</sup> Le DEFR décide des contributions de plus d’un million de francs. Le SEFRI dépose une demande.
+<sup>2</sup> Le DEFR décide des contributions de plus de 3 millions de francs. Le SEFRI dépose une demande.
 
-<sup>3</sup> Pour les contributions dépassant deux millions de francs, l’approbation du Département fédéral des finances doit être obtenue au préalable. Si un accord ne peut être trouvé, le Conseil fédéral décide à la demande du DEFR.
+<sup>3</sup> Pour les contributions dépassant 5 millions de francs, l’approbation préalable du Département fédéral des finances doit être obtenue. Si un accord ne peut être trouvé, le Conseil fédéral statue, à la demande du DEFR.
 
 <sup>4</sup> Les contributions peuvent être octroyées par voie de décision ou dans le cadre d’accords.
+
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 50
 
 **Information et conseil**[^50-1]
 
-Le SEFRI peut informer les organes de recherche, les organisations et les entreprises domiciliées en Suisse sur les activités soutenues par la Confédération concernant les programmes et projets internationaux et les conseiller dans l’élaboration et le dépôt de demandes.
+<sup>1</sup> Le SEFRI peut informer les organes de recherche, les organisations et les entreprises domiciliées en Suisse sur les activités soutenues par la Confédération concernant les programmes et projets internationaux et les conseiller dans l’élaboration et le dépôt de demandes.
 
-[^50-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>2</sup> Il peut octroyer des contributions à des institutions et des organisations sans but lucratif pour les activités d’information et de conseil visées à l’art. 29, al. 1, let. f, LERI.
+
+<sup>3</sup> Pour les contributions visées à l’al. 2, il fixe dans les accords ou les décisions un montant maximal annuel dans les limites des moyens disponibles. Il tient compte des coûts de personnel, de location et de matériel liés à l’activité d’information et de conseil concernée, ainsi que d’autres apports financiers publics ou de tiers.
+
+<sup>4</sup> Les contributions sont accordées pour une durée maximale de quatre ans. Le soutien peut être prolongé une ou plusieurs fois, toujours pour une durée maximale de quatre ans. Le droit aux contributions est réexaminé avant chaque prolongation.
+
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Section 3 Contributions pour la coopération scientifique bilatérale en dehors des organisations et programmes internationaux
 
@@ -811,7 +814,7 @@ Le SEFRI peut informer les organes de recherche, les organisations et les entrep
 
 **Principes**
 
-<sup>1</sup> Des contributions peuvent être allouées à des établissements de recherche du domaine des hautes écoles pour encourager la coopération et les échanges avec les pays et régions prioritaires de la politique de recherche et d’innovation de la Suisse.
+<sup>1</sup> Des contributions peuvent être allouées à des établissements de recherche du domaine des hautes écoles pour encourager la coopération et les échanges avec les pays et régions définis dans le cadre de la politique internationale de recherche et d’innovation de la Suisse.[^51-1]
 
 <sup>2</sup> La coopération entre les établissements de recherche du domaine des hautes écoles et celles des pays partenaires est mise en œuvre par des programmes de recherche communs, l’utilisation commune de laboratoires, l’attribution de titresconjoints et le financement de bourses pour l’échange d’étudiants et de chercheurs, par des projets isolés et des activités pilotes.
 
@@ -819,31 +822,35 @@ Le SEFRI peut informer les organes de recherche, les organisations et les entrep
 
 <sup>4</sup> Il peut être dérogé au principe de la réciprocité si l’intérêt d’un projet pour la politique scientifique nationale et son excellence scientifique le justifient, dans la mesure où les promoteurs des projets ou les institutions chargées d’encourager la recherche mettent des moyens appropriés à disposition.
 
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 #### Art. 52
 
-**Procédure pour les mises au concours communes avec les pays et régions prioritaires**
+**Procédure pour les mises au concours communes**[^52-1]
 
-<sup>1</sup> Le SEFRI institue pour les pays ou régions prioritaires des comités nationaux de pilotage pour l’évaluation des projets. Ceux-ci décident, le cas échéant en accord avec la leading house compétente au sens de l’al. 2, de l’orientation du programme de coopération du point de vue national.
+<sup>1</sup> Le SEFRI institue un comité national de pilotage pour les pays ou régions définis dans le cadre de la politique internationale de recherche et d’innovation de la Suisse. Celui-ci décide de l’orientation du programme de coopération du point de vue national.
 
-<sup>2</sup> Le SEFRI peut nommer pour chaque pays ou région prioritaire un établissement de recherche du domaine des hautes écoles (leading house), mandaté pour le pilotage et la mise en œuvre du programme de coopération. À cette fin, il consulte au préalable la Conférence des recteurs des hautes écoles suisses.[^52-1] Si, pour un pays ou une région prioritaire, aucune leading house n’a été nommée, le SEFRI prend les mesures et les décisions nécessaires.
+<sup>2</sup> Le SEFRI peut nommer pour chaque pays ou région un établissement de recherche du domaine des hautes écoles (leading house), mandaté pour le pilotage et la mise en œuvre du programme de coopération. À cette fin, il consulte swissuniversities. Si aucune leading house n’a été nommée pour un pays ou une région, le SEFRI prend les mesures et les décisions nécessaires.
 
-<sup>3</sup> Le FNS est, sur mandat du SEFRI, responsable de la mise au concours des projets de coopération scientifique bilatérale et de leur évaluation, et décide sur la base des critères de son règlement des contributions de l’intégration des projets retenus à l’issue de la première phase de sélection.
+<sup>3</sup> Le FNS est, sur mandat du SEFRI, responsable de la mise au concours des projets de coopération scientifique bilatérale et de leur évaluation. La procédure est régie par les modalités de la mise au concours et par les règlements du FNS.
 
 <sup>4</sup> Les conventions bilatérales avec le pays partenaire règlent la formation de groupes de travail communs ainsi que leurs tâches. Les groupes de travail statuent notamment sur l’acceptation ou le rejet de la demande de projet soumise dans le cadre des programmes.
 
-<sup>5</sup> Le DEFR règle les modalités de la procédure dans une ordonnance.
+<sup>5</sup> Le DEFR règle dans une ordonnance la représentation au sein du comité national de pilotage et le fonctionnement de celui-ci.
 
-[^52-1]: En vigueur depuis le 1<sup>er</sup> janv. 2015
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 53
 
 **Fixation des contributions, mandats de prestations**
 
-<sup>1</sup> Le DEFR fixe, dans la limite des crédits ouverts, la contribution maximale allouée pour chaque programme de coopération avec le pays ou la région prioritaire pour la mise en œuvre du programme pour chaque période de subventionnement.
+<sup>1</sup> Le DEFR fixe, dans la limite des crédits ouverts, la contribution maximale allouée pour la mise en œuvre de chaque programme de coopération pendant chaque période de subventionnement.[^53-1]
 
 <sup>2</sup> Le SEFRI conclut avec chaque leading house un contrat de prestations qui précise les objectifs de la coopération bilatérale, les prestations que doit fournir la leading house et la manière de rendre compte de l’utilisation de la contribution (reporting et controlling). Dans le contrat de prestations, le SEFRI peut transférer à la leading house une compétence décisionnelle pour le choix de projets et d’activités pilotes.
 
 <sup>3</sup> Les détails des tâches du FNS et les contributions s’y rapportant sont fixés dans la convention de prestations avec le FNS.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Chapitre 7 Coordination, planification et développement durable
 
@@ -871,25 +878,27 @@ Le SEFRI élabore périodiquement ou au besoin un rapport à l’intention du Co
 
 #### Art. 55
 
-**Infrastructures de recherche**
+**Infrastructures de recherche**[^55-1]
 
 <sup>1</sup>
 
-Le SEFRI rédige périodiquement ou au besoin un rapport à l’intention du Conseil fédéral sur l’état et le développement des infrastructures de recherche, notamment des grandes infrastructures de recherche internationales ainsi que d’autres infrastructures de recherche coordonnées au niveau international auxquelles la Suisse participe. Il tient compte:
+Le SEFRI rédige périodiquement ou au besoin un rapport à l’intention du DEFR sur l’état et le développement des infrastructures de recherche, notamment des grandes infrastructures de recherche internationales ainsi que d’autres infrastructures de recherche coordonnées au niveau international auxquelles la Suisse participe. Il tient compte:
 
-- a. des obligations de la Suisse liés aux accords internationaux;
-- b. des développements dans l’espace de recherche et d’innovation européen notamment concernant la mise en place et l’exploitation d’infrastructures de recherche coordonnées au niveau international;
+- a. des obligations de la Suisse liées aux accords internationaux;
+- b. des développements dans l’espace de recherche et d’innovation européen, notamment en ce qui concerne la mise en place et l’exploitation d’infrastructures de recherche coordonnées au niveau international;
 - c. des priorités de développement des domaines de spécialisation et des disciplines en Suisse dans le domaine de la recherche et de l’innovation;
-- d. des priorités de développement correspondantes dans le domaine des EPF et les autres hautes écoles.
+- d. des priorités de développement correspondantes dans le domaine des EPF et dans les autres hautes écoles.
 
-<sup>2</sup> Il consulte à cet effet les organes d’encouragement, les services fédéraux concernés et au besoin le CSS et veille à la réalisation des expertises scientifiques nécessaires.
+<sup>2</sup> Il consulte à cet effet les organes de recherche, les services fédéraux concernés et, au besoin, le CSS et s’assure de disposer des compétences scientifiques nécessaires.
 
-<sup>3</sup> Il veille en outre à la cohérence entre la planification de la politique de recherche et d’innovation selon la LERI et la coordination de la politique des hautes écoles selon la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^55-1] dans les cas où un lien direct existe avec les domaines particulièrement onéreux au sens de la LEHE.[^55-2]
+<sup>3</sup> Il veille en outre à la cohérence entre la planification de la politique de recherche et d’innovation selon la LERI et la coordination de la politique des hautes écoles selon la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles (LEHE)[^55-2] dans les cas où un lien direct existe avec les domaines particulièrement onéreux au sens de la LEHE.
 
-<sup>4</sup> Le Conseil fédéral prend connaissance du rapport et décide des mesures de coordination nécessaires.
+<sup>4</sup> Le DEFR prend connaissance du rapport.
 
-[^55-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^55-2]: En vigueur depuis le 1<sup>er</sup> janv. 2015.
+<sup>5</sup> D’éventuelles propositions de financement d’infrastructures de recherche sont présentées dans le cadre des messages FRI périodiques.
+
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^55-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 56
 
@@ -947,6 +956,10 @@ Les organes de recherche renseignent, dans leurs programmes pluriannuels, sur le
 
 <sup>2</sup> Le plan d’encouragement indique la façon dont les fonds doivent être utilisés au cours de l’année à venir. Les montants sont exprimés en francs et en pour-cent des dépenses totales; les montants correspondants des deux années précédentes sont mentionnés à titre de comparaison. L’encouragement projeté doit être motivé.
 
+<sup>3</sup> Le plan d’encouragement annuel est approuvé par le SEFRI.[^59-1]
+
+[^59-1]: Introduit par le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 ### Section 3 Développement durable
 
 ### (art. 6, al. 3, let. a, LERI)
@@ -965,13 +978,14 @@ Les organes de recherche renseignent, dans leurs programmes pluriannuels, sur le
 
 #### Art. 61
 
-<sup>1</sup> Le CSS est une commission consultative permanente au sens de l’art. 8*a*, al. 2 de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^61-1]. Il est rattaché administrativement au DEFR.
+<sup>1</sup> Le Conseil suisse de la science (CSS)[^61-1] est une commission consultative permanente au sens de l’art. 8*a*, al. 2 de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^61-2]. Il est rattaché administrativement au DEFR.
 
 <sup>2</sup> Il gère son propre secrétariat.
 
 <sup>3</sup> Les charges de fonctionnement du CSS sont inscrites au budget du SEFRI.
 
-[^61-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-1]: Nouvelle expression selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Il a été tenu compte de cette mod. dans tout le texte.
+[^61-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 ## Chapitre 9 Dispositions finales
 
@@ -983,9 +997,9 @@ Les organes de recherche renseignent, dans leurs programmes pluriannuels, sur le
 
 <sup>2</sup> Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...*[^62-2]*
+...[^62-2]
 
-[^62-1]: [[RO 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775), [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 3 [1861](https://fedlex.data.admin.ch/eli/oc/2000/287), [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639)[4871](https://fedlex.data.admin.ch/eli/oc/2004/730), [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169)[4617](https://fedlex.data.admin.ch/eli/oc/2008/644)[5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 8, [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784), [2011 3151](https://fedlex.data.admin.ch/eli/oc/2011/397)[4541](https://fedlex.data.admin.ch/eli/oc/2011/634), [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)ch. I 8, [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-1]: [[RO 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)annexe ch. 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2011 3151](https://fedlex.data.admin.ch/eli/oc/2011/397), [4541](https://fedlex.data.admin.ch/eli/oc/2011/634); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)ch. I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
 [^62-2]: Les mod. peuvent être consultées au [RO 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814).
 
 #### Art. 63

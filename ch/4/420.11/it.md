@@ -4,11 +4,11 @@ title: "Ordinanza del 29 novembre 2013 relativa alla legge federale sulla promoz
 short: O-LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: it
-version: 2022-02-01
+version: 2023-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,23 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/it"
 
 (Ordinanza sulla promozione della ricerca e dell’innovazione, O-LPRI)
 
-del 29 novembre 2013 (Stato 1° febbraio 2022)
+del 29 novembre 2013 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 10 capoverso 4 secondo periodo, 15 capoverso 6, 16 capoverso 6 secondo periodo, 19 capoverso 2 lettera d, 23 capoverso 2, 29 capoverso 2, 47 capoverso 1 e 56 della legge federale del 14 dicembre 2012[^ingress-1] sulla promozione della ricerca e dell’innovazione (LPRI); visto l’articolo 1 capoverso 5 della legge del 17 giugno 2016[^ingress-2] su Innosuisse (LASPI),[^ingress-3]
+visti gli articoli 10 capoverso 4 secondo periodo e capoverso 6 terzo periodo, 15 capoverso 6, 16 capoverso 6 secondo periodo, 23 capoverso 2, 29 capoverso 2, 47 capoverso 1 e 56 della legge federale del 14 dicembre 2012[^ingress-1] sulla promozione della ricerca e dell’innovazione (LPRI); visto l’articolo 1 capoverso 5 della legge del 17 giugno 2016[^ingress-2] su Innosuisse (LASPI),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
-## Capitolo 1: Programmi di promozione tematici delle istituzioni di promozione della ricerca e dell’Agenzia svizzera per la promozione dell’innovazione****
+## Capitolo 1: Programmi speciali e programmi di promozione tematici delle istituzioni di promozione della ricerca e dell’Agenzia svizzera per la promozione dell’innovazione
 
 [^chap1-1]
 
-[^chap1-1]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^chap1-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 1: Disposizioni generali
 
@@ -41,36 +41,38 @@ ordina:
 
 #### Art. 1
 
-**Principi**
+**Principi**[^1-1]
 
-<sup>1</sup> I programmi di promozione tematici devono risultare di interesse nazionale.
+<sup>1</sup> I programmi speciali e i programmi di promozione tematici devono risultare di interesse nazionale.
 
 <sup>2</sup>
 
-La realizzazione di programmi di promozione tematici può avvenire attraverso:
+La realizzazione dei programmi speciali e dei programmi di promozione tematici può avvenire attraverso:
 
 - a.
 
   gli strumenti di promozione dei seguenti organi di promozione (organi di promozione):
 
   - 1\. le istituzioni di promozione della ricerca di cui all’articolo 4 lettera a LPRI,
-  - 2\. l’Agenzia svizzera per la promozione dell’innovazione (Innosuisse[^1-1]);
+  - 2\. l’Agenzia svizzera per la promozione dell’innovazione (Innosuisse);
 
 - b. le misure straordinarie, che devono essere adottate nell’ambito di competenza degli organi di promozione.
 
-<sup>3</sup> I programmi di promozione tematici sono limitati nel tempo.
+<sup>3</sup> I programmi speciali e i programmi di promozione tematici sono limitati nel tempo.
 
 <sup>4</sup> Se necessario saranno stabilite le misure da applicare ai singoli casi per la valutazione dei programmi, in particolare per la verifica dell’efficacia.
 
-[^1-1]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 2
 
-**Procedura**
+**Procedura**[^2-1]
 
-<sup>1</sup> Il mandato per la realizzazione di un programma di promozione tematico è affidato sulla base del relativo decreto di finanziamento dell’Assemblea federale adottato nell’ambito dei messaggi periodici sul promovimento dell’educazione, della ricerca e dell’innovazione (ERI) secondo l’articolo 35 capoverso 1 lettera a LPRI.
+<sup>1</sup> Il mandato per la realizzazione di un programma speciale o di un programma di promozione tematico è affidato sulla base del relativo decreto di finanziamento dell’Assemblea federale adottato nell’ambito dei messaggi periodici sul promovimento dell’educazione, della ricerca e dell’innovazione (ERI) secondo l’articolo 35 capoverso 1 lettera a LPRI.
 
-<sup>2</sup> In casi urgenti il decreto di finanziamento per un mandato può essere richiesto anche nell’ambito di un messaggio specifico sulla promozione della ricerca e dell’innovazione secondo l’articolo 35 capoverso 1 lettera b LPRI.
+<sup>2</sup> In casi urgenti, segnatamente per i programmi speciali, il decreto di finanziamento per un mandato può essere richiesto anche nell’ambito di un messaggio specifico sulla promozione della ricerca e dell’innovazione secondo l’articolo 35 capoverso 1 lettera b LPRI.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 2: Programmi nazionali di ricerca del Fondo nazionale svizzero
 
@@ -107,45 +109,33 @@ Per la scelta è considerato anche se:
 
 <sup>2</sup> La SEFRI vaglia periodicamente le proposte presentate. Consulta i servizi federali rappresentati nel Comitato interdipartimentale di coordinamento della ricerca del settore pubblico e predispone su questa base un elenco delle priorità.
 
-<sup>3</sup> Elabora per i temi aventi priorità elevata brevi proposte di programma che specificano le relative questioni e indicano il mandato di ricerca determinante e ulteriori disposizioni sul programma.
+<sup>3</sup> Elabora per i temi aventi priorità elevata alcune proposte di programma che specificano le relative questioni e indicano il mandato di ricerca determinante e ulteriori disposizioni sul programma.[^4-1]
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 5
 
-**Verifica della fattibilità, elaborazione dei concetti di programma[^5-1]**
+**Verifica della fattibilità, elaborazione dei concetti di programma**[^5-1]
 
-<sup>1</sup> La SEFRI incarica il FNS di verificare la fattibilità delle proposte di programma e di concretizzarle.
+<sup>1</sup> La SEFRI incarica il FNS di verificare la fattibilità delle proposte di programma e di elaborare i concetti di programma.
 
-<sup>2</sup>
+<sup>2</sup> Per i temi di ricerca vicini all’economia il FNS garantisce la partecipazione di Innosuisse alla redazione dei concetti di programma.
 
-Sulla base dei risultati dello studio di fattibilità, per le proposte considerate realizzabili il FNS formula nel concetto di programma il mandato di ricerca sotto forma di quesiti e problematiche da elaborare scientificamente. Tiene conto dei seguenti elementi principali dell’eventuale programma:
+<sup>3</sup> In casi specifici, segnatamente di fronte a temi d’attualità rilevanti per la società e d’importanza nazionale, su mandato del Consiglio federale o del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e in deroga alla procedura di cui all’articolo 4 capoversi 2 e 3, la SEFRI può incaricare direttamente il FNS di verificare la fattibilità e di redigere un concetto di programma. A tale scopo la SEFRI comunica al FNS le problematiche e le ulteriori disposizioni relative al programma oggetto di verifica.
 
-- a. gli obiettivi e le priorità del programma;
-- b. la durata delle ricerche legate al programma;
-- c. la ripartizione sommaria dei mezzi finanziari per le singole priorità;
-- d. l’ambiente di ricerca nazionale e internazionale;
-- e. i destinatari e l’utilità pratica.[^5-2]
-
-<sup>3</sup> Per i temi di ricerca vicini all’economia il FNS garantisce la partecipazione di Innosuisse all’allestimento dei concetti di programma.[^5-3]
-
-<sup>4</sup> In casi specifici, segnatamente di fronte a temi d'attualità rilevanti per la società e d’importanza nazionale, su mandato del Consiglio federale o del Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) e in deroga alla procedura di cui all’articolo 4 capoversi 2 e 3, la SEFRI può incaricare direttamente il FNS di verificare la fattibilità. A tale scopo la SEFRI comunica al FNS le problematiche e le ulteriori disposizioni relative al programma oggetto di verifica.
-
-[^5-1]: Nuovo testo giusta il n. I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-3]: Nuovo testo giusta il n. I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 6
 
-**Esame e scelta dei programmi**
+**Esame e scelta dei programmi**[^6-1]
 
-<sup>1</sup> La SEFRI chiede ai servizi federali rappresentati nel Comitato interdipartimentale di coordinamento della ricerca del settore pubblico di esaminare i concetti di programma in merito all’importanza e all’urgenza dei programmi per l’esecuzione di compiti federali. A tal fine può chiedere un parere al Consiglio svizzero della scienza[^6-1] (CSS[^6-2]).[^6-3]
+<sup>1</sup> La SEFRI consulta i servizi federali rappresentati nel Comitato interdipartimentale di coordinamento della ricerca del settore pubblico in merito all’importanza e all’urgenza dei programmi per l’esecuzione di compiti federali. A tal fine può chiedere un parere al Consiglio svizzero della scienza (CSS).
 
-<sup>2</sup> Sottopone periodicamente al DEFR una selezione di proposte di nuovi programmi.
+<sup>2</sup> Sottopone periodicamente al DEFR proposte di nuovi programmi.
 
-<sup>3</sup> Il DEFR propone periodicamente al Consiglio federale di realizzare da uno a tre PNR. A tale proposito considera la quantità di fondi per periodo di sussidio stabilita nel messaggio ERI e prevista nella convenzione sulle prestazioni con il FNS.
+<sup>3</sup> Il DEFR propone al Consiglio federale di realizzare i PNR. A tale proposito considera la quantità di fondi per periodo di sussidio stabilita nel messaggio ERI e prevista nella convenzione sulle prestazioni con il FNS.
 
-[^6-1]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-2]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-3]: Nuovo testo giusta il n. I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 7
 
@@ -155,13 +145,14 @@ Sulla base dei risultati dello studio di fattibilità, per le proposte considera
 
 <sup>2</sup> Esso designa per ogni programma un gruppo direttivo o istituisce un’altra struttura direttiva adeguata.
 
-<sup>3</sup> Per ciascun programma la SEFRI designa persone all’interno dell’Amministrazione federale (osservatori federali), responsabili del flusso informativo e del trasferimento di sapere fra il programma e gli uffici coinvolti.
+<sup>3</sup> Per ciascun programma la SEFRI designa alcuni rappresentanti all’interno dell’Amministrazione federale. I loro compiti sono disciplinati in un mansionario.[^7-2]
 
 <sup>4</sup> Il DEFR approva la documentazione del bando di concorso. Può delegare questa competenza alla SEFRI. I servizi interessati dell’Amministrazione federale vengono consultati prima dell’approvazione.
 
 <sup>5</sup> Il FNS pubblica il bando di concorso, valuta le proposte di progetto presentate e decide in merito ai progetti da realizzare nell’ambito dei programmi.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 30 set. 2016, in vigore dal 1° nov. 2016 ([RU 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 8
 
@@ -238,7 +229,7 @@ Prende autonomamente decisioni nell’ambito di un contratto PRN (art. 15). Tra 
 
 **Procedura di selezione e di decisione**
 
-<sup>1</sup> Su mandato del DEFR, il FNS procede alla messa a concorso dei PRN.
+<sup>1</sup> Su mandato del DEFR, il FNS procede alla messa a concorso delle nuove serie di PRN.[^13-1]
 
 <sup>2</sup> La procedura di selezione e di decisione prevede due fasi: prima vengono esaminati gli schizzi e poi le domande.
 
@@ -252,13 +243,17 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 - a. svolge i necessari accertamenti e le trattative con le scuole universitarie e le istituzioni di ricerca interessate;
 - b. chiede il parere dei servizi federali rappresentati nel Comitato interdipartimentale di coordinamento della ricerca del settore pubblico riguardo all’importanza dei progetti per l’esecuzione di compiti federali;
-- c. chiede il parere di Innosuisse riguardo all’importanza dei progetti per la promozione dell’innovazione;
+- c. chiede il parere di Innosuisse[^13-2] riguardo all’importanza dei progetti per la promozione dell’innovazione;
 - d. consulta il FNS riguardo agli oneri finanziari e strutturali;
 - e. chiede il parere del CSS riguardo alla valutazione globale dei progetti.
 
-<sup>6</sup> Presenta una proposta motivata al DEFR relativa all’istituzione di PRN.
+<sup>6</sup> Presenta una proposta motivata al DEFR relativa all’istituzione di nuovi PRN.[^13-3]
 
 <sup>7</sup> Il DEFR decide in merito ai PRN da istituire stabilendo per ciascuno di essi gli oneri e il quadro finanziario per il primo periodo di sussidio.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^13-2]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^13-3]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 14
 
@@ -272,29 +267,36 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 
 **Contratto PRN**
 
-<sup>1</sup> Il FNS, le istituzioni ospitanti e la direzione del PRN concludono per ciascun periodo di finanziamento un contratto PRN.
+<sup>1</sup> Il FNS, le istituzioni ospitanti e la direzione del PRN concludono un contratto per ciascun periodo di finanziamento.[^15-1]
 
 <sup>2</sup> Prima di sottoscrivere il contratto PRN, il FNS lo sottopone per approvazione alla SEFRI. Quest'ultima verifica le disposizioni previste concernenti il rispetto del quadro finanziario stabilito, gli oneri e i relativi diritti e doveri dei partecipanti.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 16
 
 **Realizzazione dei PRN**
 
-<sup>1</sup> Il FNS finanzia, segue e controlla i PRN.
+<sup>1</sup> Oltre a finanziare e seguire i PRN, il FNS controlla il rispetto delle condizioni contrattuali.[^16-1]
 
 <sup>2</sup> Dopo la scadenza di un periodo di finanziamento decide in merito alla proroga del sostegno sulla base di una domanda in tal senso della direzione del PRN. Alla domanda deve essere allegata una lettera delle istituzioni ospitanti nella quale queste ultime assicurano la loro dotazione finanziaria del PRN e i loro piani di sviluppo strutturale. Nella decisione il FNS considera anche i risultati della sua valutazione intermedia.
 
-<sup>3</sup> Se il FNS approva una domanda di proroga è concluso un nuovo contratto per il nuovo periodo di sussidio secondo l’articolo 15.
+<sup>3</sup> Se il FNS approva una domanda di proroga è concluso un nuovo contratto per il nuovo periodo di finanziamento secondo l’articolo 15.[^16-2]
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 17
 
 **Monitoraggio, rapporto e valutazione**
 
-<sup>1</sup> Il FNS garantisce un monitoraggio costante dei PRN in corso. Per il monitoraggio di ciascun PRN designa un comitato internazionale di accompagnamento.
+<sup>1</sup> Il FNS garantisce il monitoraggio dei PRN in corso. Per il monitoraggio di ciascun PRN designa un comitato internazionale di accompagnamento.[^17-1]
 
 <sup>2</sup> Per ciascun PRN concluso il FNS redige un rapporto finale. Tale rapporto comprende la conclusione finanziaria e un rapporto sui risultati scientifici e strutturali. A tal fine procede a una valutazione finale in merito agli obiettivi principali perseguiti con il PRN. Per questo si basa sui rapporti corrispondenti della direzione PRN e sulla valutazione del comitato internazionale di accompagnamento.
 
 <sup>3</sup> La SEFRI decide, dopo aver consultato il FNS, se un PRN concluso, una serie di PRN conclusi o lo strumento PRN in quanto tale devono essere sottoposti a una verifica completa dell’efficacia incentrata sul raggiungimento degli obiettivi. Dopo aver consultato il FNS, decide le modalità della verifica e assegna i relativi mandati.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 18
 
@@ -313,6 +315,29 @@ La SEFRI è responsabile della valutazione delle domande sotto il profilo della 
 **Procedura**
 
 Il DEFR disciplina in un’ordinanza i dettagli della procedura per il bando di concorso, la selezione e la valutazione dei PRN.
+
+### Sezione 4: Riserve del FNS
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Introdotta dal n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
+### (art. 10 cpv. 6 LPRI)
+
+#### Art. 19a
+
+**Superamento dell’aliquota massima delle riserve**
+
+<sup>1</sup>
+
+In un determinato anno civile (anno contabile n) il FNS può superare eccezionalmente l’aliquota massima del 15 per cento del sussidio federale approvato dal Parlamento per il FNS se:
+
+- a. il totale delle riserve non supera il 20 per cento della somma degli impegni del FNS non iscritti a bilancio per i due anni successivi (anni n+1 e n+2); e
+- b. l’aliquota massima del 15 per cento del sussidio federale annuo previsto a favore del FNS è rispettata per l’anno successivo (n+3).
+
+<sup>2</sup> Il FNS sottopone alla SEFRI un’apposita pianificazione delle riserve aggiornata con cadenza annuale.
+
+<sup>3</sup> La SEFRI ne prende visione e approva un’eventuale deroga ai sensi del capoverso 1 previa consultazione dell’Amministrazione federale delle finanze.
 
 ## Capitolo 2: Promozione della ricerca da parte dell’Amministrazione federale
 
@@ -348,7 +373,9 @@ La domanda deve includere:
 
 <sup>3</sup> La partecipazione ai costi esclusivamente tramite prestazioni in natura è permessa solo alle scuole universitarie.
 
-<sup>4</sup> Nel caso delle prestazioni in natura, queste devono inoltre essere chiaramente identificabili come entrate dell’infrastruttura o dell’istituzione di ricerca.
+<sup>4</sup> Eventuali prestazioni in natura devono essere chiaramente identificate e iscritte a bilancio come entrate dell’infrastruttura o dell’istituzione di ricerca.[^21-1]
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 22
 
@@ -360,11 +387,13 @@ La domanda deve includere:
 
 <sup>3</sup> La partecipazione ai costi esclusivamente tramite prestazioni in natura è permessa solo alle scuole universitarie.
 
-<sup>4</sup> Nel caso delle prestazioni in natura, queste devono inoltre essere chiaramente identificabili come entrate del centro di competenza per la tecnologia.
+<sup>4</sup> Eventuali prestazioni in natura devono essere chiaramente identificate e iscritte a bilancio come entrate del centro di competenza per la tecnologia.[^22-1]
 
 <sup>5</sup> I nuovi settori d’attività ai sensi dell’articolo 15 capoverso 6 LPRI devono distinguersi chiaramente dalle priorità di ricerca di altri centri di ricerca universitari ed essere d’importanza nazionale.
 
 <sup>6</sup> In caso di sviluppo di nuovi settori d’attività, nel calcolo del finanziamento di base possono essere considerati al massimo per due periodi ERI gli eventuali mezzi finanziari acquisiti su base competitiva. Per il loro conteggio, i mezzi finanziari corrispondenti devono poter essere assegnati al nuovo settore d’attività.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 23
 
@@ -440,50 +469,11 @@ Innosuisse ha sede a Berna.
 
 [^28-1]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
-#### Art. 29
+#### Art. 29 e 30
 
-**Sussidi di Innosuisse per progetti d’innovazione**
+[^2930-1]
 
-### (art. 19 LPRI)
-
-[^29-1]
-
-Innosuisse sostiene progetti d’innovazione mediante sussidi soltanto se i partner attuatori partecipanti dimostrano che i risultati della ricerca potranno presumibilmente essere sfruttati sul mercato o a favore della società. A tale proposito occorre considerare:
-
-- a. i possibili effetti del progetto sulla competitività dei partner attuatori o sull’economia;
-- b. la possibile creazione di valore aggiunto in Svizzera derivante dall’attuazione;
-- c. il possibile sfruttamento commerciale o la possibile utilità sociale per il partner attuatore.
-
-[^29-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-
-#### Art. 30
-
-**Partecipazione dei partner attuatori**
-
-### (art. 19 cpv. 2 lett. d LPRI)
-
-<sup>1</sup>
-
-Innosuisse può fissare in via eccezionale una quota di partecipazione del partner attuatore ai costi del progetto inferiore al 50 per cento se:[^30-1]
-
-- a. il progetto presenta rischi di realizzazione elevati e un potenziale di successo economico superiore alla media o di utilità sociale elevato;
-- b. dai risultati attesi possono trarre beneficio sia il partner attuatore che un’ampia cerchia di utenti non coinvolti nel progetto; o
-- c. la partecipazione del partner attuatore e un finanziamento di terzi non derivante da aiuti finanziari della Confederazione coprono insieme almeno la metà dei costi*.*
-
-<sup>2</sup>
-
-Può inoltre fissare una quota di partecipazione del partner attuatore ai costi del progetto inferiore al 50 per cento se si tratta di un progetto d’innovazione a cui partecipano esclusivamente imprese con un massimo di 500 addetti in equivalenti a tempo pieno. In tal caso, la partecipazione del partner attuatore ammonta tuttavia:
-
-- a. almeno al 30 per cento;
-- b.
-
-  almeno al 20 per cento per i progetti che:
-
-  - 1\. contribuiscono a gestire i cambiamenti strutturali, in particolare sviluppando nuovi modelli imprenditoriali o attuando innovazioni radicali o distruttive, e
-  - 2\. richiedono il ricorso alle prestazioni di fornitori specializzati esterni.[^30-2]
-
-[^30-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^30-2]: Introdotto dal n. I dell’O del 3 giu. 2016 ([RU 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Nuovo testo giusta il n. I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 al 31 dic. 2022 ([RU 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
+[^2930-1]: Abrogati dal n. I dell’O del 26 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 31
 
@@ -531,9 +521,11 @@ La domanda deve contenere in particolare gli elementi seguenti:
 
 #### Art. 33
 
-**Scopo dei sussidi overhead**
+**Scopo dei sussidi overhead**[^33-1]
 
-I sussidi per i costi indiretti di ricerca (*overhead*) sono destinati a compensare in parte i costi delle istituzioni derivanti dai progetti di ricerca sostenuti da FNS, Innosuisse e Amministrazione federale nell’ambito della promozione della ricerca e dell’innovazione.
+I sussidi per i costi indiretti di ricerca (overhead) rappresentano un contributo ai costi delle istituzioni derivanti dai progetti di ricerca sostenuti da FNS, Innosuisse e Amministrazione federale nell’ambito della promozione della ricerca e dell’innovazione.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 34
 
@@ -613,11 +605,13 @@ Innosuisse stabilisce i dettagli della concessione di sussidi overhead nella sua
 
 #### Art. 39
 
-<sup>1</sup> L’Amministrazione federale giustifica separatamente nelle sue decisioni i sussidi overhead per provvedimenti secondo l’articolo 16 capoverso 2 lettere b e c LPRI.
+<sup>1</sup> L’Amministrazione federale giustifica separatamente nelle sue decisioni i sussidi overhead per provvedimenti secondo l’articolo 16 capoverso 2 lettere c e d LPRI.[^39-1]
 
 <sup>2</sup> Per il calcolo dei sussidi overhead vale al massimo l’aliquota massima di sussidio stabilita dal Parlamento per i sussidi overhead del FNS.
 
 <sup>3</sup> Il versamento dei sussidi overhead avviene nell’ambito del versamento dei sussidi per i costi diretti di ricerca.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Capitolo 5: Provvedimenti per la promozione della valorizzazione dei risultati della ricerca come condizioni di promozione supplementari
 
@@ -670,7 +664,7 @@ Per stabilire un’indennità per l’esclusiva utilizzazione e valorizzazione d
 - a. la quota di partecipazione del partner attuatore al finanziamento del progetto d’innovazione sostenuto; e
 - b. che l’obbligo d’indennità non deve compromettere la corretta valorizzazione dei risultati del progetto. I partner attuatori devono segnalare un eventuale rischio in tal senso.
 
-## Capitolo 5*a*:**** Comunicazione dei dati da parte delle istituzioni di promozione della ricerca
+## Capitolo 5*a*: Comunicazione dei dati da parte delle istituzioni di promozione della ricerca
 
 [^chap5a-1]
 
@@ -706,11 +700,12 @@ L’istituzione che impiega i ricercatori ha accesso esclusivamente ai dati rigu
 
 <sup>1</sup> Il DEFR è autorizzato, nell’ambito della cooperazione internazionale nel settore della ricerca e dell’innovazione, a concludere trattati internazionali di portata limitata ai sensi dell’articolo 7*a* capoverso 2 della legge del 21 marzo 1997[^42-1] sull’organizzazione del Governo e dell’Amministrazione. Sono fatte salve le disposizioni di diritto speciale.
 
-<sup>2</sup> Il DEFR, nell’ambito delle sue competenze di cui al capoverso 1, è autorizzato a concludere dichiarazioni d’intenti per la promozione della cooperazione internazionale nel settore della ricerca e dell’innovazione, segnatamente nell’ambito della cooperazione europea nel campo della ricerca scientifica e tecnica (COST).
+<sup>2</sup> Nell’ambito delle sue competenze di cui al capoverso 1, il DEFR è autorizzato a concludere dichiarazioni d’intenti per la promozione della cooperazione internazionale nel settore della ricerca e dell’innovazione.[^42-2]
 
 <sup>3</sup> Può attribuire le competenze di cui ai capoversi 1 e 2 alla SEFRI.
 
 [^42-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
 
@@ -752,13 +747,15 @@ I sussidi permettono ai servizi svizzeri interessati, nell’ambito di un’isti
 
 <sup>1</sup>
 
-I sussidi sono concessi alle istituzioni e alle organizzazioni se il progetto:
+I sussidi possono essere concessi alle istituzioni e alle organizzazioni se:
 
-- a. è di interesse nazionale;
-- b. non può essere finanziato diversamente in maniera sufficiente e la partecipazione della Svizzera non è possibile senza aiuti finanziari della Confederazione;
-- c. è portato avanti da un’istituzione o un’organizzazione che garantisce l’impiego efficiente dei sussidi e un onere amministrativo ridotto.
+- a. il progetto è di interesse nazionale;
+- b. la partecipazione della Svizzera non è possibile senza aiuti finanziari della Confederazione;
+- c. il progetto è portato avanti da un’istituzione o un’organizzazione che garantisce l’impiego efficiente dei sussidi e un onere amministrativo ridotto.[^46-1]
 
 <sup>2</sup> I sussidi sono concessi al massimo per cinque anni. È possibile rinnovare il sostegno di volta in volta per un periodo massimo di cinque anni. Prima di ogni proroga viene verificato il diritto al sostegno.
+
+[^46-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 47
 
@@ -781,23 +778,31 @@ La SEFRI consulta altri uffici o organi di ricerca che potrebbero essere interes
 
 #### Art. 49
 
-**Decisione**
+**Decisione**[^49-1]
 
-<sup>1</sup> La SEFRI decide per i sussidi fino a 1 milione di franchi.
+<sup>1</sup> La SEFRI decide per i sussidi fino a 3 milioni di franchi.
 
-<sup>2</sup> Il DEFR decide per i sussidi superiori a 1 milione di franchi. La SEFRI presenta la proposta.
+<sup>2</sup> Il DEFR decide per i sussidi superiori a 3 milioni di franchi. La SEFRI presenta la proposta.
 
-<sup>3</sup> Per i sussidi superiori a 2 milioni di franchi è prima necessario ottenere il consenso del Dipartimento federale delle finanze. In tal caso, qualora non si giunga a un accordo, la decisione spetta al Consiglio federale su richiesta del DEFR.
+<sup>3</sup> Per i sussidi superiori a 5 milioni di franchi è prima necessario ottenere il consenso del Dipartimento federale delle finanze. In tal caso, qualora non si giunga a un accordo, la decisione spetta al Consiglio federale su richiesta del DEFR.
 
 <sup>4</sup> I sussidi possono essere concessi tramite decisioni o nell’ambito di contratti.
+
+[^49-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 50
 
 **Informazione e consulenza**[^50-1]
 
-La SEFRI può informare gli organi di ricerca, le organizzazioni e le imprese con sede in Svizzera sulle attività sostenute dalla Confederazione riguardanti programmi e progetti internazionali e fornire loro consulenza per l’elaborazione e la presentazione delle domande.
+<sup>1</sup> La SEFRI può informare gli organi di ricerca, le organizzazioni e le imprese con sede in Svizzera sulle attività sostenute dalla Confederazione riguardanti programmi e progetti internazionali e fornire loro consulenza per l’elaborazione e la presentazione delle domande.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>2</sup> Può concedere sussidi a istituzioni e organizzazioni a scopo non lucrativo per le attività di informazione e di consulenza di cui all’articolo 29 capoverso 1 lettera f LPRI.
+
+<sup>3</sup> Per i sussidi di cui al capoverso 2 stabilisce all’interno di decisioni o di contratti un importo massimo annuo nei limiti dei fondi disponibili. Tiene conto dei costi per il personale, la locazione di spazi e il materiale legati alle attività di informazione e di consulenza, nonché di altri flussi di capitali da parte di enti pubblici o di terzi.
+
+<sup>4</sup> I sussidi sono concessi al massimo per quattro anni. È possibile rinnovare il sostegno di volta in volta per un periodo massimo di quattro anni. Prima di ogni proroga viene verificato il diritto al sostegno.
+
+[^50-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Sezione 3: Sussidi per la cooperazione scientifica bilaterale al di fuori di programmi e organizzazioni internazionali
 
@@ -807,7 +812,7 @@ La SEFRI può informare gli organi di ricerca, le organizzazioni e le imprese co
 
 **Principi**
 
-<sup>1</sup> Possono essere versati sussidi a centri di ricerca universitari per la cooperazione e lo scambio con i Paesi e le regioni prioritari designati nell’ambito della politica internazionale della Svizzera nel settore della ricerca e dell’innovazione.
+<sup>1</sup> Possono essere versati sussidi a centri di ricerca universitari per la cooperazione e lo scambio con i Paesi e le regioni designati nell’ambito della politica internazionale della Svizzera nel settore della ricerca e dell’innovazione.[^51-1]
 
 <sup>2</sup> La cooperazione tra centri di ricerca universitari svizzeri ed esteri è attuata mediante programmi di ricerca comuni, l’utilizzazione comune di laboratori, il conferimento di titoli universitari comuni, il finanziamento di borse per lo scambio di studenti e ricercatori, nonché mediante progetti specifici e attività pilota.
 
@@ -815,31 +820,35 @@ La SEFRI può informare gli organi di ricerca, le organizzazioni e le imprese co
 
 <sup>4</sup> Qualora l’interesse per la politica scientifica nazionale e l’eccellenza scientifica di un progetto lo giustifichino, è possibile prescindere dal principio di reciprocità a condizione che i promotori dei progetti o le istituzioni di promozione della ricerca mettano a disposizione mezzi adeguati.
 
+[^51-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 #### Art. 52
 
-**Procedura per bandi di concorso comuni con Paesi e regioni prioritari**
+**Procedura per bandi di concorso comuni**[^52-1]
 
-<sup>1</sup> La SEFRI designa per i Paesi o le regioni prioritari dei comitati direttivi nazionali. I comitati stabiliscono, se del caso d’intesa con la leading house competente di cui al capoverso 2, l’orientamento del programma di cooperazione dal punto di vista nazionale.
+<sup>1</sup> La SEFRI istituisce un comitato direttivo nazionale per i Paesi e le regioni designati nell’ambito della politica internazionale della Svizzera nel settore della ricerca e dell’innovazione. Il comitato stabilisce l’orientamento del programma di cooperazione dal punto di vista nazionale.
 
-<sup>2</sup> La SEFRI può designare quale leading house per i singoli Paesi o regioni prioritari un centro di ricerca universitario svizzero incaricato del coordinamento e dell’attuazione del programma di cooperazione. A tal fine, consulta preventivamente la Conferenza dei rettori delle università svizzere.[^52-1] Se per un Paese prioritario o una regione prioritaria non è stata designata una leading house, la SEFRI adotta le misure e le decisioni del caso.
+<sup>2</sup> Per ogni Paese o regione la SEFRI può designare come leading house un centro di ricerca universitario svizzero incaricato del coordinamento e dell’attuazione del programma di cooperazione. A tal fine consulta swissuniversities. Se per un Paese o una regione non è stata designata una leading house, la SEFRI adotta le misure e le decisioni del caso.
 
-<sup>3</sup> Il FNS è responsabile su incarico della SEFRI della messa a concorso dei progetti di ricerca comuni nell’ambito della cooperazione scientifica bilaterale e della valutazione dei progetti e decide quali progetti ammettere alla selezione finale secondo i criteri del proprio regolamento sui sussidi.
+<sup>3</sup> Il FNS è responsabile su incarico della SEFRI della messa a concorso dei progetti di ricerca comuni nell’ambito della cooperazione scientifica bilaterale e della valutazione dei progetti. La procedura si basa sui regolamenti del FNS e sulla messa a concorso da parte del FNS.
 
 <sup>4</sup> Le convenzioni bilaterali con il Paese partner disciplinano la formazione dei gruppi di lavoro comuni e i loro compiti. In particolare, i gruppi di lavoro decidono dell’approvazione o del rifiuto delle domande di progetto presentate nell’ambito dei programmi.
 
-<sup>5</sup> Il DEFR disciplina i dettagli della procedura in un’ordinanza.
+<sup>5</sup> Il DEFR stabilisce in un’ordinanza i rappresentanti all’interno del comitato direttivo nazionale e le modalità di lavoro del comitato.
 
-[^52-1]: In vigore dal 1° gen. 2015.
+[^52-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 53
 
 **Determinazione dei sussidi, mandati di prestazione**
 
-<sup>1</sup> Il DEFR stabilisce nell’ambito dei crediti stanziati il sussidio massimo assegnato a ciascun programma di cooperazione con un Paese prioritario o una regione prioritaria per la sua realizzazione nel rispettivo periodo di sussidio.
+<sup>1</sup> Il DEFR stabilisce nell’ambito dei crediti stanziati il sussidio massimo assegnato a ciascun programma di cooperazione per la sua realizzazione nel rispettivo periodo di sussidio.[^53-1]
 
 <sup>2</sup> La SEFRI conclude con ciascuna leading house un contratto di prestazioni che stabilisce gli obiettivi della cooperazione bilaterale, le prestazioni che la leading house deve fornire e le disposizioni per la presentazione dei rapporti (reporting e controlling). Nel contratto di prestazioni la SEFRI può attribuire alla leading house una competenza decisionale sulla scelta di singoli progetti e attività pilota.
 
 <sup>3</sup> I dettagli dei compiti del FNS e i relativi sussidi sono stabiliti nella convenzione sulle prestazioni con il FNS.
+
+[^53-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Capitolo 7: Coordinamento, pianificazione e sviluppo sostenibile
 
@@ -867,25 +876,27 @@ La SEFRI elabora per il Consiglio federale, periodicamente o all’occorrenza, u
 
 #### Art. 55
 
-**Infrastrutture di ricerca**
+**Infrastrutture di ricerca**[^55-1]
 
 <sup>1</sup>
 
-La SEFRI elabora per il Consiglio federale, periodicamente o all’occorrenza, un rapporto sullo stato e lo sviluppo delle infrastrutture di ricerca, in particolare delle strutture di ricerca internazionali di big science e ulteriori infrastrutture di ricerca coordinate a livello internazionale con la partecipazione della Svizzera. A tale proposito considera:
+La SEFRI elabora per il DEFR, periodicamente o all’occorrenza, un rapporto sullo stato e sullo sviluppo delle infrastrutture di ricerca, in particolare delle strutture di ricerca internazionali di big science e di ulteriori infrastrutture di ricerca coordinate a livello internazionale con la partecipazione della Svizzera. A tale proposito considera:
 
 - a. gli obblighi della Svizzera derivanti dai trattati internazionali;
 - b. gli sviluppi in particolare nello spazio della ricerca e dell’innovazione europeo riguardo all’istituzione e alla gestione di infrastrutture di ricerca coordinate a livello internazionale;
 - c. le priorità di sviluppo dei settori scientifici e delle discipline in Svizzera nel settore della ricerca e dell’innovazione;
 - d. le relative priorità di sviluppo nel settore dei PF e nelle altre scuole universitarie.
 
-<sup>2</sup> Consulta a tale proposito gli organi di ricerca, i servizi federali interessati e, all’occorrenza, il CSS e garantisce le necessarie perizie scientifiche.
+<sup>2</sup> Consulta a tale proposito gli organi di ricerca e i servizi federali interessati nonché, all’occorrenza, il CSS e garantisce le necessarie perizie scientifiche.
 
-<sup>3</sup> Garantisce inoltre che in presenza di legami diretti con i settori particolarmente onerosi secondo la legge federale del 30 settembre 2011[^55-1] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU) vi sia un’armonizzazione materiale fra la pianificazione della politica in materia di ricerca e innovazione secondo la LPRI e il coordinamento della politica universitaria secondo la LPSU.[^55-2]
+<sup>3</sup> Garantisce inoltre che in presenza di legami diretti con i settori particolarmente onerosi secondo la legge federale del 30 settembre 2011[^55-2] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU) vi sia un’armonizzazione materiale fra la pianificazione della politica in materia di ricerca e innovazione secondo la LPRI e il coordinamento della politica universitaria secondo la LPSU.
 
-<sup>4</sup> Il Consiglio federale prende atto del rapporto e decide i provvedimenti di coordinamento necessari.
+<sup>4</sup> Il DEFR prende visione del rapporto.
 
-[^55-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^55-2]: In vigore dal 1° gen. 2015.
+<sup>5</sup> Eventuali proposte di finanziamento delle infrastrutture di ricerca sono presentate nell’ambito dei periodici messaggi ERI.
+
+[^55-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^55-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 56
 
@@ -943,6 +954,10 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 <sup>2</sup> Il piano di promozione indica il modo in cui devono essere utilizzati i fondi nell’anno successivo. Gli importi sono espressi in franchi e in percentuale sull’onere complessivo; a titolo di paragone, sono menzionate le cifre corrispondenti dei due anni precedenti. La promozione prevista deve essere motivata.
 
+<sup>3</sup> Il piano annuale di promozione è approvato dalla SEFRI.[^59-1]
+
+[^59-1]: Introdotto dal n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 ### Sezione 3: Sviluppo sostenibile
 
 (art. 6 cpv. 3 lett. a LPRI)
@@ -961,13 +976,14 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 #### Art. 61
 
-<sup>1</sup> Il Consiglio svizzero della scienza (CSS) è una commissione consultiva permanente secondo l’articolo 8*a* capoverso 2 dell’ordinanza del 25 novembre 1998[^61-1] sull’organizzazione del Governo e dell’Amministrazione. È aggregato amministrativamente al DEFR.
+<sup>1</sup> Il Consiglio svizzero della scienza (CSS)[^61-1] è una commissione consultiva permanente secondo l’articolo 8*a* capoverso 2 dell’ordinanza del 25 novembre 1998[^61-2] sull’organizzazione del Governo e dell’Amministrazione. È aggregato amministrativamente al DEFR.
 
 <sup>2</sup> Dispone di una segreteria propria.
 
 <sup>3</sup> I fondi per l’esercizio del CSS sono inseriti nel preventivo della SEFRI.
 
-[^61-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-1]: Nuova espr. giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^61-2]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 ## Capitolo 9: Disposizioni finali
 
@@ -981,7 +997,7 @@ Gli organi della ricerca informano nei loro programmi pluriennali sulle attivit�
 
 ...[^62-2]
 
-[^62-1]: [[RU 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775), [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 3 [1861](https://fedlex.data.admin.ch/eli/oc/2000/287), [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639)[4871](https://fedlex.data.admin.ch/eli/oc/2004/730), [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169)[4617](https://fedlex.data.admin.ch/eli/oc/2008/644)[5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 8, [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784), [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)n. I 8, [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-1]: [[RU 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 n. 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)n. I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
 [^62-2]: Le mod. possono essere consultate alla [RU 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814).
 
 #### Art. 63

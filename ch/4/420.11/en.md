@@ -4,11 +4,11 @@ title: "Ordinance of 29 November 2013 the Federal Act on the Promotion of Resear
 short: RIPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/814"
 language: en
-version: 2022-02-01
+version: 2023-01-01
 adopted: 2013-11-29
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20220201/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20220201-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20220201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/814/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2013-814-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/814/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,23 +19,23 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Research and Innovation Promotion Ordinance, RIPO)
 
-of 29 November 2013 (Status as of 1 February 2022)
+of 29 November 2013 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
-based on Articles 10 paragraph 4 second sentence, 15 paragraph 6, 16 paragraph 6 second sentence, 19 paragraph 2 letter d, 23 paragraph 2, 29 paragraph 2, 47 paragraph 1 and 56 of the Federal Act of 14 December 2012[^ingress-1] on the Promotion of Research and Innovation (RIPA), as well as on Article 1 paragraph 5 of the Federal Act of 17 June 2016[^ingress-2] on the Swiss Innovation Agency (SIAA),[^ingress-3]
+based on Articles 10 paragraph 4 second sentence and paragraph 6 third sentence, 15 paragraph 6, 16 paragraph 6 second sentence, 23 paragraph 2, 29 paragraph 2, 47 paragraph 1 and 56 of the Federal Act of 14 December 2012[^ingress-1] on the Promotion of Research and Innovation (RIPA), as well as on Article 1 paragraph 5 of the Federal Act of 17 June 2016[^ingress-2] on the Swiss Innovation Agency (SIAA),[^ingress-3]
 
 ordains:
 
 [^ingress-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 [^ingress-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^ingress-3]: Amended by No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+[^ingress-3]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
-## Chapter 1 Topic-Specific Funding Programmes of the Research Funding Institutions and the Swiss Innovation Agency****
+## Chapter 1 Special Programmes and Topic-Specific Funding Programmes of the Research Funding Institutions and the Swiss Innovation Agency
 
 [^chap1-1]
 
-[^chap1-1]: Name in accordance with No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). This amendment has been made throughout the text.
+[^chap1-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)). This amendment has been made throughout the text.
 
 ### Section 1 General Provisions
 
@@ -43,36 +43,38 @@ ordains:
 
 #### Art. 1
 
-**Principles**
+**Principles**[^1-1]
 
-<sup>1</sup> Topic-specific funding programmes must serve Swiss national interests.
+<sup>1</sup> Special programmes and topic-specific funding programmes must serve Swiss national interests.
 
 <sup>2</sup>
 
-The implementation of topic-specific funding programmes can be carried out:
+The implementation of special programmes and topic-specific programmes can be carried out:
 
 - a.
 
   through the funding schemes of the following funding agencies (funding agencies):
 
   - 1\. the research funding institutions under Article 4 letter a RIPA,
-  - 2\. the Swiss Innovation Agency (Innosuisse[^1-1]);
+  - 2\. the Swiss Innovation Agency (Innosuisse);
 
 - b. through special measures; these must be taken in order to meet the funding responsibilities of the funding agencies.
 
-<sup>3</sup> Topic-specific funding programmes are temporary.
+<sup>3</sup> Special programme and topic-specific funding programmes are temporary.
 
 <sup>4</sup> If necessary on a case-by-case basis, appropriate measures for the evaluation of the programme, particularly its effectiveness, shall be specified.
 
-[^1-1]: Name in accordance with No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). This amendment has been made throughout the text.
+[^1-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 2
 
-**Procedure**
+**Procedure**[^2-1]
 
-<sup>1</sup> The awarding of contracts for topic-specific funding programmes is based on the corresponding Federal Assembly financial decree in the context of the periodic Dispatches on Education, Research and Innovation (ERI) under Article 35 paragraph 1 letter a RIPA.
+<sup>1</sup> The awarding of contracts for a special programme or topic-specific funding programme is based on the corresponding Federal Assembly financial decree in the context of the periodic Dispatches on Education, Research and Innovation (ERI) under Article 35 paragraph 1 letter a RIPA.
 
-<sup>2</sup> In urgent cases, a financial decree for a contract can be made with a specific dispatch on the promotion of research and innovation under Article 35 paragraph 1 letter b RIPA.
+<sup>2</sup> In urgent cases, particularly in relation to special programmes, a financial decree for a contract can be made with a specific dispatch on the promotion of research and innovation under Article 35 paragraph 1 letter b RIPA.
+
+[^2-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Section 2 National Research Programmes of the Swiss National Science Foundation
 
@@ -109,44 +111,33 @@ During the selection process, it will be considered whether:
 
 <sup>2</sup> SERI shall periodically examine the submitted proposals. It shall consult the federal departments in the interdepartmental coordination committee for government-funded research and develop a list of priorities on this basis.
 
-<sup>3</sup> For high-priority themes, it shall develop short programme proposals that present the associated questions, relevant research contracts and further programme specifications.
+<sup>3</sup> For high-priority themes, it shall develop programme proposals that present the associated questions, relevant research contracts and further programme specifications.[^4-1]
+
+[^4-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 5
 
-**Feasibility study, preparation of programme concept[^5-1]**
+**Feasibility study, preparation of programme concepts**[^5-1]
 
-<sup>1</sup> SERI shall task the SNSF with checking the feasibility of suggested programmes and formalising them.
+<sup>1</sup> SERI shall task the SNSF with checking the feasibility of suggested programmes and developing programme concepts.
 
-<sup>2</sup>
+<sup>2</sup> For business-related research topics, the SNSF shall ensure the participation of Innosuisse in the development of programme concepts.
 
-Based on the results of the feasibility study, the SNSF shall formulate the research mandate in the form of scientifically addressable questions and problems for all feasible proposals to be included in the programme concept. When doing so, it shall consider the following key features of the suggested programme:
+<sup>3</sup> SERI may, in special cases, specifically for themes of current relevance that serve Swiss national interests, in response to mandates from the Federal Council or the Federal Department of Economic Affairs, Education and Research (EAER), in departure from procedures under Article 4 paragraphs 2 and 3, directly task the SNSF with conducting a feasibility study and developing a programme concept. With this aim it shall share the questions and other guidelines for the programme in question with the SNSF.
 
-- a. aims and areas of focus of the programme;
-- b. duration of research to be conducted in the programme;
-- c. general allocation of funds between the areas of focus;
-- d. National and international research environment
-- e. intended beneficiaries of research and practical uses.[^5-2]
-
-<sup>3</sup> For business-related research topics, the SNSF shall ensure the participation of Innosuisse in the development of programme concepts.[^5-3]
-
-<sup>4</sup> SERI may, in special cases, specifically for themes of current relevance that serve Swiss national interests, in response to mandates from the Federal Council or the Federal Department of Economic Affairs, Education and Research (EAER), in departure from procedures under Article 4 paragraphs 2 and 3, directly task the SNSF with a feasibility study. With this aim it shall share the questions and other guidelines for the programme in question with the SNSF.
-
-[^5-1]: Amended by No I of the O of 30 Sept. 2016, in force since 1 Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-2]: Amended by No I of the O of 30 Sept. 2016, in force since 1 Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
-[^5-3]: Amended by No I of the O of 30 Sept. 2016, in force since 1 Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^5-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 6
 
-**Evaluating and selecting programmes**
+**Evaluating and selecting programmes**[^6-1]
 
-<sup>1</sup> SERI shall ensure that the federal departments in the interdepartmental coordination committee for government-funded research check the programme concept with a view to the relevance and urgency of the programme for federal tasks. It may additionally require a position statement from the Swiss Science Council (SSC)[^6-1].[^6-2]
+<sup>1</sup> SERI shall consult the federal departments in the interdepartmental coordination committee for government-funded research with regard to the relevance and urgency of the programme for federal tasks. It may additionally require a position statement from the Swiss Science Council (SSC)
 
-<sup>2</sup> It shall periodically submit a selection of proposals for new programmes to the EAER.
+<sup>2</sup> It shall periodically submit proposals for new programmes to the EAER.
 
-<sup>3</sup> The EAER shall periodically propose the implementation of one to three NRPs to the Federal Council. When doing this, it shall take account of the volume of financing indicated in the ERI Dispatch and in the SNSF’s decision on contributions for the funding period.
+<sup>3</sup> The EAER shall propose the implementation of NRPs to the Federal Council. When doing this, it shall take account of the volume of financing indicated in the ERI Dispatch and in the SNSF’s decision on contributions for the funding period.
 
-[^6-1]: Name in accordance with No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). This amendment has been made throughout the text.
-[^6-2]: Amended by No I of the O of 30 Sept. 2016, in force since 1 Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^6-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 7
 
@@ -156,13 +147,15 @@ Based on the results of the feasibility study, the SNSF shall formulate the rese
 
 <sup>2</sup> The SNSF shall set up a steering committee for each programme, or shall set up another appropriate management structure.
 
-<sup>3</sup> For every programme, SERI shall choose people within the Federal Administration (federal observers) who are responsible for the flow of information and the transfer of knowledge between the programme and the Offices concerned.
+<sup>3</sup> For every programme, SERI shall designate a representative from within the Federal Administration. The tasks of this representative shall be set out in a formal remit.[^7-2]
 
-<sup>4</sup> The EAER shall approve call documents. This responsibility may be delegated to SERI. The interested departments of the Federal Administration shall be consulted before any approval is made.
+<sup>4</sup> The EAER shall approve call documents. This responsibility may be delegated to SERI. The interested departments of the Federal Administration shall be consulted before approval is given.[^7-3]
 
 <sup>5</sup> The SNSF shall publish the call, evaluate the submitted project proposals and decide which projects shall be carried out in the context of the programme.
 
 [^7-1]: Amended by No I of the O of 30 Sept. 2016, in force since 1 Nov. 2016 ([AS 2016 3565](https://fedlex.data.admin.ch/eli/oc/2016/598)).
+[^7-2]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^7-3]: Third sentence amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 8
 
@@ -239,7 +232,7 @@ It makes decisions in the context of the NCCR contract (Art. 15) independently. 
 
 **Selection and decision-making procedures**
 
-<sup>1</sup> The SNSF issues calls for proposals for the NCCR on behalf of the EAER.
+<sup>1</sup> The SNSF issues calls for proposals for the new series of NCCRs on behalf of the EAER.[^13-1]
 
 <sup>2</sup> The selection and decision-making procedure has two stages: first pre-proposals and then full proposals.
 
@@ -253,13 +246,17 @@ SERI is responsible for the assessment of research and higher education policy. 
 
 - a. leads the necessary clarifications and negotiations with the higher education and research institutions involved;
 - b. seeks the opinion of the federal departments in the interdepartmental coordination committee for government-funded research with regard to the significance of the proposal for federal tasks;
-- c. seeks the opinion of Innosuisse with regard to the significance of the proposal for the promotion of innovation;
+- c. seeks the opinion of Innosuisse[^13-2] with regard to the significance of the proposal for the promotion of innovation;
 - d. consults with the SNSF on financial and structural requirements;
 - e. seeks the opinion of the SSIC on the overall evaluation of the project.
 
-<sup>6</sup> It provides the EAER with justified requests for the foundation of NCCRs.
+<sup>6</sup> It provides the EAER with justified requests for the foundation of new NCCRs.[^13-3]
 
 <sup>7</sup> The EAER decides which NCCRs shall be founded. In the course of doing this, it determines the requirements and the financial framework of each NCCR for the first funding period.
+
+[^13-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^13-2]: Name in accordance with No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). This amendment has been made throughout the text.
+[^13-3]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 14
 
@@ -273,29 +270,36 @@ SERI is responsible for the assessment of research and higher education policy. 
 
 **NCCR contract**
 
-<sup>1</sup> The SNSF, the home institution and the NCCR management shall draw up a contract for each funding period.
+<sup>1</sup> The SNSF, the home institution and the NCCR management shall draw up a contract for each funding period.[^15-1]
 
 <sup>2</sup> The SNSF shall submit the contract to SERI for approval prior to signing. SERI shall check whether the proposed provisions comply with the agreed financial framework, support and the associated rights and duties of the parties thereto.
+
+[^15-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 16
 
 **Implementation of the NCCR**
 
-<sup>1</sup> The SNSF shall finance, guide and monitor the NCCR.
+<sup>1</sup> The SNSF shall finance and guide the NCCR and verify compliance with contractual obligations.[^16-1]
 
 <sup>2</sup> After each completed financing period it shall make a decision regarding extending support based on an application submitted by the NCCR management. Such an application must include a letter from the home institutions in which they confirm their funding of the NCCR and their structural expansion plans. When making its decision, the SNSF shall also take account of the results of its interim evaluation.
 
-<sup>3</sup> Should the SNSF approve the application for an extension, a new contract shall be drawn up for the new funding period under Article 15.
+<sup>3</sup> Should the SNSF approve the application for an extension, a new contract shall be drawn up for the new funding period under Article 15.[^16-2]
+
+[^16-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^16-2]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 17
 
 **Monitoring, reporting and evaluation**
 
-<sup>1</sup> The SNSF shall ensure continual monitoring of ongoing NCCRs. It shall put in place an international review panel for the monitoring of each NCCR.
+<sup>1</sup> The SNSF shall ensure monitoring of ongoing NCCRs. It shall put in place an international review panel for the monitoring of each NCCR.[^17-1]
 
 <sup>2</sup> It shall produce a final report for each completed NCCR. This shall include the closing financial statement and a report on the scientific and structural outcomes. This report shall include a final evaluation with regard to the main aims of the NCCR. This shall be based on the corresponding final reports compiled by the NCCR management and the evaluation of the international review panel.
 
 <sup>3</sup> After consultation with the SNSF, SERI shall decide whether it shall require that a completed NCCR or a completed NCCR series or NCCR instrument shall be subject to a thorough evaluation of effectiveness with regard to the attainment of goals. Following consultation with the SNSF, it shall decide on the modalities of the subsequent examination, and confer the associated jobs.
+
+[^17-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 18
 
@@ -314,6 +318,29 @@ SERI is responsible for the assessment of research and higher education policy. 
 **Procedure**
 
 The EAER shall regulate the details in an ordinance on tender, selection and evaluation of NCCRs.
+
+### Section 4 SNSF Reserves
+
+[^chap1-sec4-1]
+
+[^chap1-sec4-1]: Inserted by No. I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
+### (Art. 10 para. 6 RIPA)
+
+#### Art. 19a
+
+**Exceeding the maximum reserve threshold**
+
+<sup>1</sup>
+
+In a calendar year (accounting year n), the SNSF may exceptionally exceed the maximum reserve threshold of 15 per cent of the federal funding allocated to it and approved by the Swiss Parliament if:
+
+- a. the total amount of reserves does not exceed 20 per cent of the sum of the SNSF's off-balance sheet commitments for the two subsequent years (years n+1 and n+2); and
+- b. the maximum threshold of 15 per cent of the federal funding expected to be allocated to the SNSF for the following year (n+3) is not exceed.
+
+<sup>2</sup> Each year, the SNSF shall submit an updated allocation to reserves projection to SERI.
+
+<sup>3</sup> SERI shall take note of this and, after prior consultation with the Federal Finance Administration, shall authorise any exemptions under paragraph 1.
 
 ## Chapter 2 Research Promotion by the Federal Administration
 
@@ -349,7 +376,9 @@ Applications must include:
 
 <sup>3</sup> Contributions exclusively in kind may only be made by universities.
 
-<sup>4</sup> Contributions in kind must also be reported as income by the research infrastructure or research institute.
+<sup>4</sup> Any contributions in kind must be clearly reported and booked as income by the research infrastructure or research institute.[^21-1]
+
+[^21-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 22
 
@@ -361,11 +390,13 @@ Applications must include:
 
 <sup>3</sup> Contributions exclusively in kind may only be made by universities.
 
-<sup>4</sup> Contributions in kind must also be reported as income by the centre of technological excellence.
+<sup>4</sup> Any contributions in kind must be clearly reported and booked as income by the centre of technological excellence.[^22-1]
 
 <sup>5</sup> It must be possible to demarcate new fields of activity under Article 15 paragraph 6 RIPA from existing National Centres of Competence in Research, and other higher education research centres, and they must be of national significance.
 
 <sup>6</sup> During the development of new fields of activity, when calculating basic funding, any possible competitive research funding shall be taken into account for a maximum of two SERI periods. The calculation of the research funding is based on the condition that this new field of activity can be allocated.
+
+[^22-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 23
 
@@ -441,50 +472,11 @@ The registered office of Innosuisse is in Bern.
 
 [^28-1]: Repealed by No I of the O of 15 Nov. 2017, with effect from 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
 
-#### Art. 29
+#### Art. 29 and 30
 
-**Innosuisse funding for innovation projects**
+[^2930-1]
 
-### (Art. 19 RIPA)
-
-[^29-1]
-
-Innosuisse supports innovation projects with funding only if the innovation partners involved demonstrate that the effective implementation of the research results of a project in the market or for society can be expected. The following must be taken into account:
-
-- a. the likely effects of the project on the implementation partner’s competitiveness or on the economy;
-- b. likely creation of value in Switzerland connected to the implementation;
-- c. the expected economic or societal utility for the implementation partner.
-
-[^29-1]: Amended by No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-
-#### Art. 30
-
-**Contribution by the implementation partner**
-
-### (Art. 19 para. 2 let. d RIPA)
-
-<sup>1</sup>
-
-Innosuisse may exceptionally set the implementation partner’s contribution to the cost of the project at less than 50 percent if:[^30-1]
-
-- a. the project has above-average implementation risks and also the potential for above-average economic success or great usefulness to society;
-- b. the expected results will not only benefit the implementation partner, but also a large number of users who are not involved in the project; or
-- c. the implementation partner’s contribution together with third-party funding that does not come from government funds, covers at least half the cost.
-
-<sup>2</sup>
-
-In addition, it may set the implementation partners’ contribution to the cost of the project at less than 50 percent in the case of innovation projects that involve only companies that employ a maximum of 500 full time equivalents. In such cases, however, the implementation partners’ contribution shall amount to:
-
-- a. at least 30 per cent;
-- b.
-
-  at least 20 per cent in the case of projects that:
-
-  - 1\. contribute to managing structural change, in particular by devising new business models or implementing radical or disruptive innovation schemes, and
-  - 2\. require the provision of third-party services by specialised service providers.[^30-2]
-
-[^30-1]: Amended by No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
-[^30-2]: Inserted by No I of the O of 3 June 2016 ([AS 2016 1843](https://fedlex.data.admin.ch/eli/oc/2016/327)). Amended by No I of the O of 11 Dec. 2020, in force from 1 Jan. 2022 to 31 Dec. 2022 ([AS 2020 5427](https://fedlex.data.admin.ch/eli/oc/2020/942)).
+[^2930-1]: Repealed by No. I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 31
 
@@ -509,7 +501,7 @@ Eligible costs are:
 <sup>6</sup> It shall only pay for costs that are actually incurred and substantiated. Any unused funds from the federal contribution for one year shall be offset against the federal contribution for the following year after the responsible institution’s annual accounts have been made available.
 
 [^31-1]: Amended by No I of the O of 19 March 2021, in force since 15 April 2021 ([AS 2021 187](https://fedlex.data.admin.ch/eli/oc/2021/187)).
-[^31-2]: BBl **202****1** 705
+[^31-2]: [BBl 2021 705](https://fedlex.data.admin.ch/eli/fga/2021/705)
 
 #### Art. 32
 
@@ -532,9 +524,11 @@ The application must contain the following in particular:
 
 #### Art. 33
 
-**Aim of funding for compensation of overheads**
+**Aim of funding for compensation of overheads**[^33-1]
 
-The aim of funding for indirect research costs (overheads) is to partially compensate institutions for costs resulting from research projects that the SNSF, Innosuisse and the Federal Administration support as part of their promotion of research and innovation.
+Funding for indirect research costs (overheads) helps compensate institutions for costs resulting from research projects that the SNSF, Innosuisse and the Federal Administration support as part of their promotion of research and innovation.
+
+[^33-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 34
 
@@ -546,7 +540,7 @@ The aim of funding for indirect research costs (overheads) is to partially compe
 
 <sup>3</sup> The units of the Federal Administration shall report in accordance with Article 52 RIPA.
 
-### Section 2 SNSF funding for overheads
+### Section 2 SNSF Funding for Overheads
 
 (Art. 10 para. 4 second sentence RIPA)
 
@@ -578,7 +572,7 @@ The SNSF shall issue regulations on funding for overheads. These regulations sha
 
 <sup>2</sup> The regulations require the Federal Council’s approval.
 
-### Section 3 Innosuisse funding for overheads
+### Section 3 Innosuisse Funding for Overheads
 
 (Art. 23 para. 2 RIPA)[^chap4-sec3-1]
 
@@ -614,11 +608,13 @@ Innosuisse shall specify the terms of payment of funding for overheads in its co
 
 #### Art. 39
 
-<sup>1</sup> The Federal Administration separately identifies funding for overheads for measures under Article 16 paragraph 2 letters b and c RIPA in its decision-making.
+<sup>1</sup> The Federal Administration separately identifies funding for overheads for measures under Article 16 paragraph 2 letters c and d RIPA in its decision-making.[^39-1]
 
 <sup>2</sup> For the calculation of funding for overheads, the highest applicable amount shall be the SNSF funding for overheads determined by Parliament.
 
 <sup>3</sup> Funding for overheads is paid at the same time as funding for direct research costs.
+
+[^39-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Chapter 5 Measures for the Promotion of the Utilisation of Research Findings as an additional Eligibility Condition
 
@@ -671,7 +667,7 @@ In fixing remuneration for the exclusive use and exploitation by an implementati
 - a. the implementation partners' share of the funding given to the innovation project supported; and
 - b. that the obligation to remunerate does not jeopardise the successful exploitation of the project results; the implementation partners must disclose any risk.
 
-## 5*a**.* Chapter**** Disclosure of data by research funding institutions
+## 5*a**.* Chapter Disclosure of Data by Research Funding Institutions
 
 [^chap5a-1]
 
@@ -707,11 +703,12 @@ Employer institutions shall only have access to data concerning research project
 
 <sup>1</sup> In the context of international cooperation in the field of research and innovation, the EAER is authorised to conclude international treaties of limited scope under Article 7*a* paragraph 2 of the Government and Administration Organisation Act of 21 March 1997[^42-1]. Special legislative provisions are reserved.
 
-<sup>2</sup> In the context of its competencies under paragraph 1, the EAER may conclude declarations of intent on the promotion of international cooperation in the field of research and innovation, particularly in the context of European Cooperation in Science and Technology (COST).
+<sup>2</sup> In the context of its competencies under paragraph 1, the EAER may conclude declarations of intent on the promotion of international cooperation in the field of research and innovation.[^42-2]
 
 <sup>3</sup> It may transfer its competencies under paragraphs 1 and 2 to SERI.
 
 [^42-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^42-2]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 43
 
@@ -753,13 +750,15 @@ This funding shall make it possible for interested Swiss parties, in the context
 
 <sup>1</sup>
 
-Funding shall be granted to institutions and organisations if the project:
+Funding may be granted to institutions and organisations if:
 
-- a. is of Swiss national interest;
-- b. cannot be sufficiently funded through another channel and Switzerland’s participation is not possible without Swiss government funding;
-- c. is run by an institution or organisation that guarantees that the funding will be used efficiently and that the administrative burden will be kept to a minimum.
+- a. the project serves Swiss national interests;
+- b. Switzerland’s participation is not possible without federal funding;
+- c. the project is run by an institution or organisation that guarantees that the funding will be used efficiently and that the administrative burden will be kept to a minimum.[^46-1]
 
 <sup>2</sup> Funding shall be granted for a maximum of five years. One or more extensions of maximum five years are possible. Prior to each extension, entitlement shall be checked.
+
+[^46-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 47
 
@@ -782,23 +781,31 @@ SERI shall consult other departments or research bodies that may be affected by,
 
 #### Art. 49
 
-**Decision**
+**Decision**[^49-1]
 
-<sup>1</sup> SERI makes decisions on funding up to CHF 1 million.
+<sup>1</sup> SERI makes decisions on funding up to CHF 3 million.
 
-<sup>2</sup> The EAER makes decisions on funding over CHF 1 million. SERI shall submit applications.
+<sup>2</sup> The EAER makes decisions on funding over CHF 3 million. SERI shall submit applications.
 
-<sup>3</sup> For funding over CHF 2 million, the prior approval of the Federal Department of Finance is required. Should no agreement be reached in such a case, the Federal Council shall make the decision based on the EAER’s application.
+<sup>3</sup> For funding over CHF 5 million, the prior approval of the Federal Department of Finance is required. Should no agreement be reached in such a case, the Federal Council shall make the decision based on the EAER’s application.
 
 <sup>4</sup> Funding may be guaranteed in a ruling or as part of a treaty.
+
+[^49-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 50
 
 **Information and advice**[^50-1]
 
-SERI may inform research bodies, organisations and businesses based in Switzerland on activities supported by the Confederation relating to international programmes and projects and advise them on the development and submission of applications.
+<sup>1</sup> SERI may inform research bodies, organisations and businesses based in Switzerland on activities supported by the Confederation relating to international programmes and projects and advise them on the development and submission of applications.
 
-[^50-1]: Amended by No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)).
+<sup>2</sup> It may make contributions to non-commercial institutions and organisations for the purpose of information and advisory activities under Article 29 paragraph 1 letter f RIPA.
+
+<sup>3</sup> For the contributions referred to in paragraph 2, an annual maximum limit determined on the basis of available funding shall be specified in the contracts or decisions. This limit shall include payroll, rental and material costs associated with the information and advisory activities as well as any other funding sourced from the public sector or third parties.
+
+<sup>4</sup> Funding contributions are allocated for a maximum of four years at a time. Single or multiple extensions of funding covering no more than four years at a time is also possible. Eligibility shall be verified before each extension.
+
+[^50-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Section 3 Funding for Bilateral Scientific Cooperation Outside of International Programmes and Organisations
 
@@ -808,7 +815,7 @@ SERI may inform research bodies, organisations and businesses based in Switzerla
 
 **Principles**
 
-<sup>1</sup> Funding may be granted to higher education research centres for cooperation and exchange with the focus countries and regions selected in the context of Switzerland’s international research and innovation policy.
+<sup>1</sup> Funding may be granted to higher education research centres for cooperation and exchange with countries and metropoles selected in the context of Switzerland’s international research and innovation policy.[^51-1]
 
 <sup>2</sup> Cooperation between Swiss and foreign higher education research centres shall be implemented through shared research programmes, the shared use of laboratories, the granting of joint degrees from a tertiary-level type A institutions, the funding of grants for student and researcher grants, and individual projects and pilot activities.
 
@@ -816,31 +823,35 @@ SERI may inform research bodies, organisations and businesses based in Switzerla
 
 <sup>4</sup> The justification of interest for Switzerland from the point of view of scientific policy and the scientific excellence of a project, shall form the basis of reciprocity, provided that those responsible for the project or the research funding institutions have sufficient resources available.
 
+[^51-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+
 #### Art. 52
 
-**Calls for joint projects with focus countries and regions**
+**Calls for joint projects**[^52-1]
 
-<sup>1</sup> SERI shall put national steering committees in place for focus countries or regions. These committees shall decide, if necessary in consultation with the responsible Leading House under paragraph 2, the focus of the cooperation programme from a national point of view.
+<sup>1</sup> As part of its international research and innovation policy, SERI shall establish a national steering committee responsible for a specified country or metropole. Each committee shall decide on the national focus of the cooperation programme for the country or metropole in question.
 
-<sup>2</sup> For every focus country or region, SERI may choose a Swiss higher education research centre as Leading House, which can be tasked with the coordination and implementation of the cooperation programme. Beforehand, SERI shall consult the Rectors' Conference of the Swiss Universities (CRUS) and the Rectors' Conference of the Swiss Universities of Applied Sciences (KFH) on this.[^52-1] Should no Leading House be put in place for a focus country or region, SERI shall take the necessary measures and make the required decisions.
+<sup>2</sup> For each country or metropole, SERI may designate a Swiss higher education research centre to act as Leading House to be tasked with the coordination and implementation of the cooperation programme. SERI shall consult swissuniversities on this. Should no Leading House be put in place for a given country or metropole, SERI shall take the necessary measures and make the required decisions.
 
-<sup>3</sup> On behalf of SERI, the SNSF is responsible for issuing calls for joint research projects in the context of bilateral scientific cooperation and for the evaluation thereof, and selects shortlisted projects in accordance with the criteria of its funding regulations.
+<sup>3</sup> On behalf of SERI, the SNSF is responsible for issuing calls for joint research projects in the context of bilateral scientific cooperation and for the evaluation thereof. The procedure shall be determined by SNSF regulations and the call for proposals issued by the SNSF.
 
 <sup>4</sup> The bilateral agreements with the partner countries regulate the establishment of joint working groups and their tasks. In particular, the working groups make decisions on the approval or rejection of project proposals submitted in the context of the programme.
 
-<sup>5</sup> The EAER shall regulate the details of the procedure in an ordinance.
+<sup>5</sup> The EAER shall regulate the details of of representation on the national steering committee and its functioning in an ordinance.
 
-[^52-1]: In force since 1 Jan. 2015.
+[^52-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 #### Art. 53
 
 **Determining funding, mandates**
 
-<sup>1</sup> In the context of the credits granted for each cooperation programme with a focus country or region, the EAER shall define the maximum amount that can be granted for the current funding period.
+<sup>1</sup> In the context of the credits granted for each cooperation programme, the EAER shall define the maximum amount that can be granted for the given funding period.[^53-1]
 
 <sup>2</sup> SERI shall conclude a contract of mandate with each Leading House which defines the aims of the bilateral cooperation, the services to be provided by the Leading House and the guidelines on reporting and controlling. In the contract of mandate, SERI may transfer decision-making powers to the Leading House for the selection of individual projects and pilot activities.
 
 <sup>3</sup> The details of the SNSF’s tasks and associated funding shall be set forth in the contract of mandate with the SNSF.
+
+[^53-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ## Chapter 7 Coordination, Planning and Sustainable Development
 
@@ -868,25 +879,27 @@ SERI shall produce, periodically or as necessary, a report for the Federal Counc
 
 #### Art. 55
 
-**Research infrastructures**
+**Research infrastructures**[^55-1]
 
 <sup>1</sup>
 
-SERI shall produce, periodically or as necessary, a report for the Federal Council on the status and development of research infrastructures, particularly of large international research facilities and other internationally coordinated research infrastructures in which Switzerland is involved. It shall take account of:
+SERI shall produce, periodically or as necessary, a report for the EAER on the status and development of research infrastructures, particularly of large international research facilities and other internationally coordinated research infrastructures in which Switzerland is involved. It shall take account of:
 
 - a. Switzerland’s duties under international law contracts;
 - b. developments in European and non-European research and innovation with regard to the establishing and operations of internationally coordinated research infrastructures;
 - c. the development priorities of fields of expertise and disciplines in Switzerland in the field of research and innovation;
 - d. the corresponding development priorities of the ETH Domain and the other higher education institutions.
 
-<sup>2</sup> When so doing it shall consult the funding bodies, federal offices affected and, as necessary, the SSIC, and ensure the necessary scientific expertise.
+<sup>2</sup> When so doing it shall consult the research bodies and federal offices affected and, as necessary, the SSIC, and ensure the necessary scientific expertise.
 
-<sup>3</sup> It shall further ensure that in cases that involve a direct connection with particularly costly areas under the Higher Education Act of 30 September 2011[^55-1] (HEdA), an objective alignment is made between the research and innovation planning under RIPA and the coordination of the higher education sector under HEdA.[^55-2]
+<sup>3</sup> It shall further ensure that in cases that involve a direct connection with particularly costly areas under the Higher Education Act of 30 September 2011[^55-2] (HEdA), an objective alignment is made between the research and innovation planning under RIPA and the coordination of the higher education sector under HEdA.
 
-<sup>4</sup> The Federal Council shall acknowledge the report and coordinate as necessary.
+<sup>4</sup> The EAER shall acknowledge the report.
 
-[^55-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^55-2]: In force since 1 Jan. 2015
+<sup>5</sup> Any requests for funding of research infrastructures shall be made within the framework of periodic ERI dispatches.
+
+[^55-1]: Amended by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
+[^55-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 56
 
@@ -936,13 +949,17 @@ In their multi-year programmes, the research bodies provide information on their
 
 #### Art. 59
 
-**Annual promotion plans of the research funding institutions**
+**Annual funding plans of the research funding institutions**
 
 ### (Art. 48 RIPA)
 
-<sup>1</sup> When developing their annual promotion plans, each research funding institution shall verify its validity. Deviations from the service level agreements based on the multi-year programme shall be justified.
+<sup>1</sup> When developing their annual funding plans, each research funding institution shall verify its validity. Deviations from the service level agreements based on the multi-year programme shall be justified.
 
-<sup>2</sup> The promotion plan shall show how resources should be used in the coming year. The presentation shall be done in CHF and as a share of total outlay; for comparison, the relevant figures from the previous two years shall be cited. Planned funding shall be justified.
+<sup>2</sup> The funding plan shall show how resources should be used in the coming year. The presentation shall be done in CHF and as a share of total outlay; for comparison, the relevant figures from the previous two years shall be cited. Planned funding shall be justified.
+
+<sup>3</sup> SERI is responsible for approving the annual funding plan.[^59-1]
+
+[^59-1]: Inserted by No I of the O of 26 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 699](https://fedlex.data.admin.ch/eli/oc/2022/699)).
 
 ### Section 3 Sustainable Development
 
@@ -962,13 +979,14 @@ In their multi-year programmes, the research bodies provide information on their
 
 #### Art. 61
 
-<sup>1</sup> The Swiss Science Council (SSC) is a permanent advisory committee under Article 8*a* paragraph 2 Government and Administration Organisation Ordinance of 25 November 1998[^61-1]. Administratively, it is assigned to the EAER.
+<sup>1</sup> The Swiss Science Council (SSC)[^61-1] is a permanent advisory committee under Article 8*a* paragraph 2 Government and Administration Organisation Ordinance of 25 November 1998[^61-2]. Administratively, it is assigned to the EAER.
 
 <sup>2</sup> It runs its own administrative office.
 
 <sup>3</sup> The resources for the SSTC’s operations shall be set in the SERI budget.
 
-[^61-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
+[^61-1]: Name in accordance with No I of the O of 15 Nov. 2017, in force since 1 Jan. 2018 ([AS 2017 6607](https://fedlex.data.admin.ch/eli/oc/2017/733)). This amendment has been made throughout the text.
+[^61-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 ## Chapter 9 Final Provisions
 
@@ -982,7 +1000,7 @@ In their multi-year programmes, the research bodies provide information on their
 
 ...[^62-2]
 
-[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); **1****996** 1807; [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)No I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
+[^62-1]: [[AS 1985 775](https://fedlex.data.admin.ch/eli/oc/1985/775_775_775); [1996 1807](https://fedlex.data.admin.ch/eli/oc/1996/1807_1807_1807); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 No 3, [1861](https://fedlex.data.admin.ch/eli/oc/2000/287); [2004 4263](https://fedlex.data.admin.ch/eli/oc/2004/639), [4871](https://fedlex.data.admin.ch/eli/oc/2004/730); [2008 683](https://fedlex.data.admin.ch/eli/oc/2008/169), [4617](https://fedlex.data.admin.ch/eli/oc/2008/644), [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 8; [2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784); [2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)No I 8; [2013 2641](https://fedlex.data.admin.ch/eli/oc/2013/533)]
 [^62-2]: The amendments can be consulted under [AS 2013 4593](https://fedlex.data.admin.ch/eli/oc/2013/814).
 
 #### Art. 63
@@ -997,7 +1015,7 @@ In their multi-year programmes, the research bodies provide information on their
 
 [^63-1]: [AS 2010 5461](https://fedlex.data.admin.ch/eli/oc/2010/784)
 [^63-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^63-3]: Inserted in the provision mentioned.
+[^63-3]: Included in the provision mentioned until 31 Dec. 2014.
 
 #### Art. 64
 
@@ -1009,4 +1027,4 @@ In their multi-year programmes, the research bodies provide information on their
 
 <sup>3</sup> Articles 37 and 38 shall enter into force at the same time as the provisions on funding and federal funding contributions under Chapters 7 and 8 HEdA, but not later than 1 January 2017.
 
-[^64-1]: SR **414****.****20**
+[^64-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
