@@ -4,13 +4,12 @@ number: "426.111"
 title: Naturschutzverordnung
 short: NSchV
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1993-11-10
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/426.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2546/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2696/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2546/pdf_file"
 
 (NSchV)
 
-vom 10.11.1993 (Stand 01.03.2022)
+vom 10.11.1993 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -153,7 +152,7 @@ beschliesst:
 - c Beginn und Ende der Auflagefrist sowie
 - d die Möglichkeit zur Einsprache und der Kreis der Einspracheberechtigten.
 
-<sup>2</sup> Der Hinweis auf den Schutzbeschluss nach Artikel 40 des Gesetzes ist unter Angabe der Gebietsbezeichnung oder der Parzellennummern im Amtsblatt und im amtlichen Anzeiger zu veröffentlichen. Die ausführliche Publikation erfolgt im Internet auf der Homepage der ANF.
+<sup>2</sup> Der Hinweis auf den Schutzbeschluss nach Artikel 40 des Gesetzes ist unter Angabe der Gebietsbezeichnung oder der Parzellennummern im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde zu veröffentlichen. Die ausführliche Publikation erfolgt im Internet auf der Homepage der ANF.
 
 #### Art. 10
 

@@ -4,13 +4,12 @@ number: "426.111"
 title: Ordonnance sur la protection de la nature
 short: OPN
 language: fr
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1993-11-10
 in_force: 1994-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/426.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2546/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2696/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2546/pdf_file"
 
 (OPN)
 
-du 10.11.1993 (état au 01.03.2022)
+du 10.11.1993 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -153,7 +152,7 @@ arrête:
 - c le début et la fin du délai de mise à l'enquête ainsi que
 - d la possibilité de former opposition et les personnes habilitées à le faire.
 
-<sup>2</sup> La publication dans la Feuille officielle cantonale et dans la feuille officielle d’avis faisant référence à la décision de mise sous protection au sens de l’article 40 de la loi doit indiquer la désignation de la zone ou le numéro des parcelles concernées. La décision est publiée dans son intégralité en ligne sur le site du SPN.
+<sup>2</sup> La publication dans la Feuille officielle cantonale et dans l'organe de publication officiel de la commune faisant référence à la décision de mise sous protection au sens de l’article 40 de la loi doit indiquer la désignation de la zone ou le numéro des parcelles concernées. La décision est publiée dans son intégralité en ligne sur le site du SPN.
 
 #### Art. 10
 
