@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 2020 über Kredite mit Solidarbürgschaft 
 short: Covid-19-SBüG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: de
-version: 2020-12-19
+version: 2023-01-01
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20201219/de"
 
 (Covid-19-Solidarbürgschaftsgesetz, Covid-19-SBüG)
 
-vom 18. Dezember 2020 (Stand am 19. Dezember 2020)
+vom 18. Dezember 2020 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -42,7 +42,7 @@ Dieses Gesetz regelt:
 - e. die Verlusttragung und die Übernahme der Verwaltungskosten durch den Bund;
 - f. die vereinfachte Übertragung von Kreditforderungen an die Schweizerische Nationalbank (SNB) zum Zweck der Refinanzierung der Kreditgeberinnen.
 
-[^1-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^1-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^1-2]: [SR 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
 
 ## 2. Abschnitt: Zweck der Solidarbürgschaft und unzulässige Verwendungen von Mitteln sowie Amortisation und Zinssätze
@@ -75,7 +75,7 @@ Die Mittel aus nach der Covid-19-SBüV verbürgten Krediten dürfen nicht zur Um
 
 <sup>6</sup> Die Kreditnehmerin oder der Kreditnehmer darf die Rechte und Pflichten aus dem Kreditverhältnis nicht übertragen. Findet trotzdem eine Übertragung statt, so entfaltet sie mit Bezug auf den gestützt auf die Covid-19-SBüV verbürgten Kredit keine Wirkung. Zulässig ist hingegen eine Übertragung im Rahmen einer Umstrukturierung nach dem Fusionsgesetz vom 3. Oktober 2003[^2-2]. Die Kreditgeberin stimmt einer solchen Übertragung zu, sofern sie mit der Übertragung sämtlicher Aktiven und Passiven oder zumindest des wesentlichen Teils des Unternehmens der Kreditnehmerin oder des Kreditnehmers oder mit einer Umwandlung der Kreditnehmerin oder des Kreditnehmers verbunden ist. Die Kreditgeberin muss dabei keine Sicherstellung verlangen. Auf eine Übertragung, die nach diesem Absatz zulässig ist, findet Artikel 493 Absatz 5 zweiter Satz des Obligationenrechts (OR)[^2-3] keine Anwendung. Die Bürgschaftsorganisation wird schriftlich oder elektronisch durch die Kreditgeberin über die Umstrukturierung informiert.
 
-[^2-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^2-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^2-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^2-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -94,7 +94,7 @@ Eine Solidarbürgschaft dauert höchstens acht Jahre:
 
 <sup>3</sup> Bedeutet die fristgerechte Amortisation des Kredits eine erhebliche Härte für die Kreditnehmerin oder den Kreditnehmer, so kann die Kreditgeberin die Frist mit Zustimmung der Bürgschaftsorganisation gestützt auf einen Amortisationsplan angemessen, jedoch höchstens auf zehn Jahre verlängern, wenn dadurch voraussichtlich die finanziellen Risiken für den Bund reduziert werden können. Die Solidarbürgschaft gilt während der verlängerten Dauer weiter.
 
-[^3-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^3-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 4
 
@@ -110,7 +110,7 @@ Der Zinssatz beträgt:
 
 <sup>2</sup> Der Bundesrat passt auf Antrag des Eidgenössischen Finanzdepartements (EFD) jährlich per 31. März, erstmals per 31. März 2021, die Zinssätze nach Absatz 1 Buchstaben a und b an die Marktentwicklungen an. Der Zinssatz nach Absatz 1 Buchstabe a beträgt mindestens 0,0 Prozent und derjenige nach Absatz 1 Buchstabe b mindestens 0,5 Prozent. Das EFD hört die kreditgebenden Banken im Voraus an.
 
-[^4-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^4-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 ## 3. Abschnitt: Aufgaben der Bürgschaftsorganisationen und Vertrag mit dem Bund
 
@@ -136,7 +136,7 @@ Sie können zur Erfüllung ihrer Aufgaben:
 
 <sup>3</sup> Sie üben ihre Tätigkeit mit der nötigen Sorgfalt aus und wahren dabei auch die Interessen des Bundes.
 
-[^5-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^5-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 6
 
@@ -175,7 +175,7 @@ Im Vertrag werden insbesondere festgelegt:
 
 <sup>4</sup> Der Bundesrat kann zur Vereinheitlichung der Praxis der Bürgschaftsorganisationen oder zur Wahrung der Interessen des Bundes Vorschriften zum Rangrücktritt und zur vorzeitigen Honorierung der Bürgschaften erlassen.
 
-[^7-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^7-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 8
 
@@ -235,7 +235,7 @@ Zur Verhinderung, Bekämpfung und Verfolgung von Missbrauch arbeitet das WBF mit
 
 <sup>5</sup> Das Bankkunden-, Steuer-, Statistik-, Revisions- oder Amtsgeheimnis kann gegen die Bearbeitung, die Verknüpfung und die Bekanntgabe der Personendaten und Informationen nach diesem Artikel nicht geltend gemacht werden.
 
-[^11-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^11-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 12
 
@@ -255,7 +255,7 @@ Ausser in den Fällen nach Artikel 11 werden Personendaten und Informationen nic
 - a. die Identität und die Bankverbindungen der kreditsuchenden und der kreditnehmenden Unternehmen und Personen;
 - b. die Beträge, die den einzelnen Unternehmen und Personen zugesprochen oder verweigert wurden.
 
-[^12-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^12-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 ## 5. Abschnitt: Übernahme von Bürgschaftsverlusten und Verwaltungskosten durch den Bund
 
@@ -267,7 +267,7 @@ Ausser in den Fällen nach Artikel 11 werden Personendaten und Informationen nic
 
 <sup>2</sup> Massgebend für die Festsetzung der zu übernehmenden Verluste sind der nach Artikel 3 Absatz 1 oder Artikel 4 Absatz 5 Covid-19-SBüV verbürgte Kredit, abzüglich der geleisteten Amortisation, und der nach diesen Bestimmungen verbürgte Jahreszins.
 
-[^13-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^13-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 14
 
@@ -285,7 +285,7 @@ Die Verwaltungskosten umfassen auch die Kosten für:
 
 <sup>3</sup> Verteilt die Bürgschaftsorganisation einen allfälligen Reinertrag an die Eigentümerinnen und Eigentümer, so kürzt der Bund die Beteiligung an den Verwaltungskosten der betroffenen Organisation im Folgejahr um die Höhe des verteilten Reinertrags.
 
-[^14-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^14-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 15
 
@@ -329,7 +329,7 @@ Das WBF informiert den Bundesrat regelmässig über die Verbindlichkeiten des Bu
 
 <sup>4</sup> Die SNB bestätigt der Kreditgeberin den Bestand der übertragenen Kreditforderungen. Diese Bestätigungen haben nur deklaratorische Bedeutung.
 
-[^19-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^19-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 20
 
@@ -337,7 +337,7 @@ Das WBF informiert den Bundesrat regelmässig über die Verbindlichkeiten des Bu
 
 Sämtliche mit der übertragenen Forderung verbundenen Vorzugs- und Nebenrechte gehen, ungeachtet anderslautender vertraglicher oder gesetzlicher Bestimmungen, im Zeitpunkt ihrer Abtretung auf die SNB oder, bei der Rückübertragung, auf die Kreditgeberin über. Dies gilt insbesondere für die nach der Covid-19-SBüV[^20-1] gewährten Solidarbürgschaften.
 
-[^20-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^20-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 21
 
@@ -367,14 +367,15 @@ Die Mitglieder des obersten Verwaltungs- oder Leitungsorgans sowie alle mit der 
 
 #### Art. 24
 
-**Kapitalverlust und Überschuldung**
+**Kapitalverlust und Überschuldung**[^24-1]
 
-<sup>1</sup> Für die Berechnung der Deckung von Kapital und Reserven nach Artikel 725 Absatz 1 OR[^24-1] und für die Berechnung einer Überschuldung nach Artikel 725 Absatz 2 OR werden Kredite, die gestützt auf Artikel 3 Covid-19-SBüV[^24-2] verbürgt wurden, nicht als Fremdkapital berücksichtigt.
+<sup>1</sup> Für die Berechnung der Deckung von Kapital und Reserven nach Artikel 725*a* Absatz 1 OR[^24-2] und für die Berechnung einer Überschuldung nach Artikel 725*b* Absatz 1 OR werden Kredite, die gestützt auf Artikel 3 Covid-19-SBüV[^24-3] verbürgt wurden, nicht als Fremdkapital berücksichtigt.
 
-<sup>2</sup> Absatz 1 gilt sinngemäss für alle Rechtsformen, die einer gesetzlichen Anzeigepflicht bei Kapitalverlust und bei Überschuldung nach Artikel 725 OR unterstehen.
+<sup>2</sup> Absatz 1 gilt sinngemäss für alle Rechtsformen, die einer gesetzlichen Anzeigepflicht bei Kapitalverlust und bei Überschuldung nach Artikel 725*a* und 725*b* OR unterstehen.
 
-[^24-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^24-1]: Fassung gemäss Art. 30 hiernach, in Kraft seit 1. Jan. 2023.
+[^24-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-3]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
 
 #### Art. 25
 
@@ -386,7 +387,7 @@ Die Mitglieder des obersten Verwaltungs- oder Leitungsorgans sowie alle mit der 
 
 <sup>3</sup> Die Angestellten des SECO und der Bürgschaftsorganisation sind berechtigt, Übertretungen nach diesem Gesetz und nach der Covid-19-SBüV, die sie bei ihrer Tätigkeit festgestellt haben oder die ihnen gemeldet worden sind, den Strafverfolgungsbehörden oder der EFK anzuzeigen.
 
-[^25-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^25-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^25-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## 8. Abschnitt: Solidarbürgschaften für weitere Kredite wegen anhaltender Folgen der Covid-19-Epidemie
@@ -437,13 +438,14 @@ Er kann dabei vom OR[^26-2] und vom Postorganisationsgesetz vom 17. Dezember 201
 
 - a. die Gewährung von Bürgschaften (Art. 492 ff. OR);
 - b. die Aufgaben der Revisionsstelle (Art. 728*a* ff. OR);
-- c. den Kapitalverlust und die Überschuldung (Art. 725 und 725*a* OR);
+- c.[^26-4] den Kapitalverlust und die Überschuldung (Art. 725 ff OR);
 - d. die vereinfachte Übertragung von Kreditforderungen sowie deren Vorzugs- und Nebenrechte zum Zweck der Refinanzierung durch die SNB (Art. 164 ff. OR);
 - e. die Gewährung von mit Solidarbürgschaften besicherten Krediten durch die PostFinance AG an ihre vor dem 26. März 2020 bestehenden Kundinnen und Kunden sowie die Weiterführung solcher Kredite bis zur vollständigen Amortisation.
 
-[^26-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^26-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^26-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^26-3]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^26-4]: Fassung gemäss Art. 30 hiernach, in Kraft seit 1. Jan. 2023.
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -455,7 +457,7 @@ Er kann dabei vom OR[^26-2] und vom Postorganisationsgesetz vom 17. Dezember 201
 
 <sup>2</sup> Werden nach Inkrafttreten dieses Gesetzes Mittel für bisher nach der Covid-19-SBüV unzulässige Neuinvestitionen verwendet, die nach diesem Gesetz jedoch zulässig sind, so stellt diese Verwendung keine Vertragsverletzung der Kreditnehmerin oder des Kreditnehmers dar.
 
-[^27-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^27-1]: [[AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)Art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 28
 
@@ -463,7 +465,7 @@ Er kann dabei vom OR[^26-2] und vom Postorganisationsgesetz vom 17. Dezember 201
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^28-1]
+…[^28-1]
 
 [^28-1]: Die Änderungen können unter [AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982)konsultiert werden.
 
@@ -492,32 +494,11 @@ Zur Erfüllung ihrer gesetzlichen Aufgaben kann die Nationalbank Personendaten, 
 
 Mit Inkrafttreten der Änderung vom 19. Juni 2020[^30-1] des OR[^30-2] lauten die nachstehenden Bestimmungen des vorliegenden Gesetzes wie folgt:
 
+…[^30-3]
+
 [^30-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
 [^30-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-
-#### Art. 24
-
-**Kapitalverlust und Überschuldung**
-
-<sup>1</sup> Für die Berechnung der Deckung von Kapital und Reserven nach Artikel 725*a* Absatz 1 OR[^24-3] und für die Berechnung einer Überschuldung nach Artikel 725*b* Absatz 1 OR werden Kredite, die gestützt auf Artikel 3 Covid-19-SBüV[^24-4] verbürgt wurden, nicht als Fremdkapital berücksichtigt.
-
-<sup>2</sup> Absatz 1 gilt sinngemäss für alle Rechtsformen, die einer gesetzlichen Anzeigepflicht bei Kapitalverlust und bei Überschuldung nach Artikel 725*a* und 725*b* OR unterstehen.
-
-[^24-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-4]: [AS 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
-
-#### Art. 26
-
-***Abs. 5 Bst. c***
-
-<sup>5</sup>
-
-Er kann dabei vom OR[^26-4] und vom Postorganisationsgesetz vom 17. Dezember 2010[^26-5] abweichende Bestimmungen erlassen über:
-
-- c. den Kapitalverlust und die Überschuldung (Art. 725 ff OR);
-
-[^26-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^26-5]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^30-3]: Die Koordinationsbestimmung kann unter [AS 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982)konsultiert werden.
 
 #### Art. 31
 

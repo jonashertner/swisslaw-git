@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 2020 concernente i crediti garantiti da u
 short: LFiS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: it
-version: 2020-12-19
+version: 2023-01-01
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20201219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20201219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20201219/it"
 
 (Legge sulle fideiussioni solidali COVID-19, LFiS-COVID-19)
 
-del 18 dicembre 2020 (Stato 19 dicembre 2020)
+del 18 dicembre 2020 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -42,7 +42,7 @@ La presente legge disciplina:
 - e. la copertura delle perdite e l’assunzione delle spese amministrative da parte della Confederazione;
 - f. il trasferimento agevolato di crediti alla Banca nazionale svizzera (BNS) per il rifinanziamento dei mutuanti.
 
-[^1-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^1-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^1-2]: [RS 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
 
 ## Sezione 2: Scopo della fideiussione solidale e modalità di utilizzo dei fondi non consentite, nonché ammortamento e tassi d’interesse
@@ -75,7 +75,7 @@ I fondi derivanti da crediti garantiti secondo l’OFis-COVID-19 non possono ess
 
 <sup>6</sup> Il mutuatario non può trasferire i diritti e gli obblighi derivanti dalla relazione di credito. Se ha tuttavia luogo, tale trasferimento non ha alcun effetto sul credito garantito secondo l’OFis-COVID-19. È tuttavia consentito un trasferimento nell’ambito di una ristrutturazione secondo la legge del 3 ottobre 2003[^2-2] sulla fusione. Il mutuante dà il proprio assenso al trasferimento se questo comporta il trasferimento di tutti gli attivi e passivi, o almeno della parte essenziale dell’impresa del mutuatario, oppure la trasformazione del mutuatario. In tal caso non è necessario che il mutuante esiga una garanzia. Ai trasferimenti consentiti secondo il presente capoverso non è applicabile l’articolo 493 capoverso 5 secondo periodo del Codice delle obbligazioni (CO)[^2-3]. Il mutuante informa per scritto o per via elettronica l’organizzazione che concede fideiussioni in merito alla ristrutturazione.
 
-[^2-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^2-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^2-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^2-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -94,7 +94,7 @@ La fideiussione solidale dura al massimo otto anni:
 
 <sup>3</sup> Se l’ammortamento del credito entro il termine prescritto comporta gravi difficoltà per il mutuatario, con il consenso dell’organizzazione che concede fideiussioni il mutuante può prorogare adeguatamente il termine, ma al massimo fino a dieci anni, in base a un piano di ammortamento, se vi è da ritenere che ciò permetta di ridurre i rischi finanziari per la Confederazione. Durante la proroga la fideiussione solidale resta valida.
 
-[^3-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^3-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 4
 
@@ -110,7 +110,7 @@ Il tasso d’interesse ammonta:
 
 <sup>2</sup> Su proposta del Dipartimento federale delle finanze (DFF), a partire dal 2021 il Consiglio federale adegua ogni anno agli sviluppi del mercato, con effetto a decorrere dal 31 marzo, i tassi d’interesse di cui al capoverso 1 lettere a e b. Il tasso d’interesse secondo il capoverso 1 lettera a ammonta ad almeno lo 0,0 per cento e il tasso d’interesse secondo il capoverso 1 lettera b ad almeno lo 0,5 per cento. Il DFF consulta previamente le banche mutuanti.
 
-[^4-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^4-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]]
 
 ## Sezione 3: Compiti delle organizzazioni che concedono fideiussioni e convenzione con la Confederazione
 
@@ -136,7 +136,7 @@ Per adempiere i loro compiti possono:
 
 <sup>3</sup> Esercitano la loro attività con la necessaria diligenza, tutelando anche gli interessi della Confederazione.
 
-[^5-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^5-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 6
 
@@ -175,7 +175,7 @@ La convenzione stabilisce in particolare:
 
 <sup>4</sup> Al fine di uniformare la prassi delle organizzazioni che concedono fideiussioni o di tutelare gli interessi della Confederazione, il Consiglio federale può emanare disposizioni concernenti la postergazione del credito e il pagamento anticipato delle fideiussioni.
 
-[^7-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^7-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 8
 
@@ -235,7 +235,7 @@ Ai fini della prevenzione, della lotta e del perseguimento degli abusi, il DEFR 
 
 <sup>5</sup> Il segreto bancario, fiscale, statistico, delle revisioni o d’ufficio non può essere invocato contro il trattamento, il collegamento e la comunicazione dei dati personali e delle informazioni di cui al presente articolo.
 
-[^11-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^11-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 12
 
@@ -255,7 +255,7 @@ Ad eccezione dei casi di cui all’articolo 11, non sono resi accessibili i dati
 - a. l’identità e le coordinate bancarie delle imprese e delle persone che richiedono un credito e di quelle che lo ricevono;
 - b. gli importi concessi o negati alle singole imprese e persone.
 
-[^12-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^12-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 ## Sezione 5: Assunzione delle perdite da fideiussioni e delle spese amministrative da parte della Confederazione
 
@@ -267,7 +267,7 @@ Ad eccezione dei casi di cui all’articolo 11, non sono resi accessibili i dati
 
 <sup>2</sup> Gli elementi determinanti per il calcolo delle perdite assunte dalla Confederazione sono il credito garantito secondo l’articolo 3 capoverso 1 o 4 capoverso 5 OFis-COVID-19, una volta dedotti gli ammortamenti versati, e l’interesse annuo garantito secondo dette disposizioni.
 
-[^13-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^13-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 14
 
@@ -285,7 +285,7 @@ Le spese amministrative comprendono anche le spese per:
 
 <sup>3</sup> Se un’organizzazione che concede fideiussioni distribuisce un eventuale avanzo netto ai proprietari, nel corso dell’anno successivo la Confederazione riduce la sua partecipazione alle spese amministrative dell’organizzazione interessata di un importo pari all’avanzo netto distribuito.
 
-[^14-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^14-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 15
 
@@ -329,7 +329,7 @@ Il DEFR informa periodicamente il Consiglio federale sugli impegni della Confede
 
 <sup>4</sup> La BNS conferma al mutuante il totale dei crediti trasferiti. Queste conferme hanno valore puramente dichiarativo.
 
-[^19-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^19-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 20
 
@@ -337,7 +337,7 @@ Il DEFR informa periodicamente il Consiglio federale sugli impegni della Confede
 
 Tutti i privilegi e i diritti accessori legati ai crediti trasferiti passano, nel momento della cessione, alla BNS o, nel momento del ritrasferimento, al mutuante, a prescindere da disposizioni contrattuali o legali contrarie. Questo vale in particolare per le fideiussioni solidali concesse secondo l’OFis-COVID-19[^20-1].
 
-[^20-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^20-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 21
 
@@ -367,14 +367,15 @@ I membri dell’organo superiore di amministrazione o di direzione nonché tutte
 
 #### Art. 24
 
-**Perdita di capitale ed eccedenza di debiti**
+**Perdita di capitale ed eccedenza di debiti**[^24-1]
 
-<sup>1</sup> Ai fini del calcolo della copertura del capitale e delle riserve secondo l’articolo 725 capoverso 1 CO[^24-1] e del calcolo dell’eccedenza di debiti secondo l’articolo 725 capoverso 2 CO, i crediti garantiti secondo l’articolo 3 OFis-COVID-19[^24-2] non sono considerati capitale di terzi.
+<sup>1</sup> Ai fini del calcolo della copertura del capitale e delle riserve secondo l’articolo 725*a* capoverso 1 CO[^24-2] e del calcolo dell’eccedenza di debiti secondo l’articolo 725*b* capoverso 1 CO, i crediti garantiti secondo l’articolo 3 OFis-COVID-19[^24-3] non sono considerati capitale di terzi.
 
-<sup>2</sup> Il capoverso 1 si applica per analogia a tutte le forme giuridiche soggette per legge all’avviso obbligatorio in caso di perdita di capitale e di eccedenza di debiti secondo l’articolo 725 CO.
+<sup>2</sup> Il capoverso 1 si applica per analogia a tutte le forme giuridiche soggette per legge all’avviso obbligatorio in caso di perdita di capitale e di eccedenza di debiti secondo gli articoli 725*a* e 725*b* CO.
 
-[^24-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^24-1]: Testo giusta l’art. 30 qui avanti.
+[^24-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-3]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 25
 
@@ -386,7 +387,7 @@ I membri dell’organo superiore di amministrazione o di direzione nonché tutte
 
 <sup>3</sup> Gli impiegati della SECO e dell’organizzazione che concede fideiussioni hanno il diritto di denunciare alle autorità di perseguimento penale o al CDF le contravvenzioni secondo la presente legge e l’OFis-COVID-19 che hanno constatato o che sono state loro segnalate nell’ambito della loro attività.
 
-[^25-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^25-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^25-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## Sezione 8: Fideiussioni solidali per ulteriori crediti concessi a causa delle conseguenze persistenti dell’epidemia di COVID-19
@@ -437,13 +438,14 @@ A tal fine, il Consiglio federale può emanare disposizioni che deroghino al CO[
 
 - a. la concessione di fideiussioni (art. 492 segg. CO);
 - b. le attribuzioni dell’ufficio di revisione (art. 728*a* segg. CO);
-- c. la perdita di capitale e l’eccedenza di debiti (art. 725 e 725*a* CO);
+- c.[^26-4] la perdita di capitale e l’eccedenza di debiti (art. 725 segg. CO);
 - d. il trasferimento agevolato di crediti, nonché dei relativi privilegi e diritti accessori per il rifinanziamento da parte della BNS (art. 164 segg. CO);
 - e. la concessione di crediti garantiti da fideiussioni solidali da parte di PostFinance SA a chi era cliente prima del 26 marzo 2020, nonché il mantenimento in essere di tali crediti fino al loro ammortamento integrale.
 
-[^26-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^26-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^26-3]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^26-4]: Testo giusta l’art. 30 qui avanti.
 
 ## Sezione 9: Disposizioni finali
 
@@ -455,7 +457,7 @@ A tal fine, il Consiglio federale può emanare disposizioni che deroghino al CO[
 
 <sup>2</sup> Se, dopo l’entrata in vigore della presente legge, i fondi sono impiegati per nuovi investimenti non consentiti secondo l’OFis-COVID-19 ma permessi dalla presente legge, ciò non costituisce una violazione del contratto da parte del mutuatario.
 
-[^27-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^27-1]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194), [1207](https://fedlex.data.admin.ch/eli/oc/2020/228), [1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21, [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 
 #### Art. 28
 
@@ -475,7 +477,7 @@ All’entrata in vigore della legge federale del 25 settembre 2020[^29-1] sulla 
 
 Titolo prima dell’art. 49
 
-[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491); [FF 2020 6695](https://fedlex.data.admin.ch/eli/fga/2020/1998)
+[^29-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^29-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
 
 ## Sezione 6: Obbligo di tutelare il segreto, trattamento di dati personali e di dati concernenti persone giuridiche nonché scambio di informazioni e responsabilità
@@ -492,29 +494,11 @@ Per adempiere i propri compiti legali, la Banca nazionale può trattare dati per
 
 All’entrata in vigore della modifica del 19 giugno 2020[^30-1] del Codice delle obbligazioni[^30-2], le disposizioni qui appresso della presente legge avranno il seguente tenore:
 
+...[^30-3]
+
 [^30-1]: [RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
 [^30-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-
-#### Art. 24
-
-**Perdita di capitale ed eccedenza di debiti**
-
-<sup>1</sup> Ai fini del calcolo della copertura del capitale e delle riserve secondo l’articolo 725*a* capoverso 1 CO[^24-3] e del calcolo dell’eccedenza di debiti secondo l’articolo 725*b* capoverso 1 CO, i crediti garantiti secondo l’articolo 3 OFis-COVID-19[^24-4] non sono considerati capitale di terzi.
-
-<sup>2</sup> Il capoverso 1 si applica per analogia a tutte le forme giuridiche soggette per legge all’avviso obbligatorio in caso di perdita di capitale e di eccedenza di debiti secondo gli articoli 725*a* e 725*b* CO.
-
-Art. 26 cpv. 5 lett. c
-
-<sup>5</sup>
-
-A tal fine, il Consiglio federale può emanare disposizioni che deroghino al CO[^24-5] e alla legge del 17 dicembre 2010[^24-6] sull’organizzazione della Posta con riguardo a:
-
-- c. la perdita di capitale e l’eccedenza di debiti (art. 725 segg. CO);
-
-[^24-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-4]: [[RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
-[^24-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-6]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^30-3]: Le mod. possono essere consultate alla [RU 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 31
 

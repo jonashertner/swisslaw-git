@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 2020 sur les crédits garantis par un cau
 short: LCaS-COVID-19
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/982"
 language: fr
-version: 2020-12-19
+version: 2023-01-01
 adopted: 2020-12-18
 in_force: 2020-12-19
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2020-982-20201219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/982/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-982-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/982/20201219/fr"
 
 (Loi sur les cautionnements solidaires liés au COVID-19, LCaS-COVID-19)
 
-du 18 décembre 2020 (Etat le 19 décembre 2020)
+du 18 décembre 2020 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -367,14 +367,15 @@ Les membres de l’organe supérieur de direction ou d’administration du prene
 
 #### Art. 24
 
-**Perte de capital et surendettement**
+**Perte de capital et surendettement**[^24-1]
 
-<sup>1</sup> Pour le calcul de la couverture du capital et des réserves au sens de l’art. 725, al. 1, CO[^24-1] et pour le calcul d’un surendettement au sens de l’art. 725, al. 2, CO, les crédits cautionnés au sens de l’art. 3 OCaS-COVID-19[^24-2] ne sont pas pris en compte en tant que capitaux étrangers.
+<sup>1</sup> Pour le calcul de la couverture du capital et des réserves au sens de l’art. 725*a*, al. 1, CO[^24-2] et pour le calcul d’un surendettement au sens de l’art. 725*b*, al. 1, CO, les crédits cautionnés au sens de l’art. 3 OCaS-COVID-19[^24-3] ne sont pas pris en compte en tant que capitaux étrangers.
 
-<sup>2</sup> L’al. 1 s’applique par analogie à toutes les formes juridiques pour lesquelles la loi prévoit un avis obligatoire en cas de perte de capital et de surendettement au sens de l’art. 725 CO.
+<sup>2</sup> L’al. 1 s’applique par analogie à toutes les formes juridiques pour lesquelles la loi prévoit un avis obligatoire en cas de perte de capital et de surendettement au sens de l’art. 725*a* et 725*b* CO.
 
-[^24-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-2]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
+[^24-1]: Teneur selon l’art. 30 ci-après, en vigueur depuis le 1<sup>er</sup> janv. 2023.
+[^24-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-3]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
 
 #### Art. 25
 
@@ -437,13 +438,14 @@ Le Conseil fédéral règle les modalités, en particulier:
 
 - a. l’octroi de cautionnements (art. 492 ss CO);
 - b. les attributions de l’organe de révision (art.728*a* ss CO);
-- c. la perte de capital et le surendettement (art. 725 et 725*a* CO);
+- c.[^26-4] la perte de capital et le surendettement (art. 725 ss CO);
 - d. le transfert simplifié des créances de crédit ainsi que celui des privilèges et des droits accessoires en vue du refinancement par la BNS (art. 164 ss CO);
 - e. l’octroi de crédits garantis par des cautionnements solidaires de PostFinance SA aux clients qu’elle servait déjà avant le 26 mars 2020 et la poursuite de ces crédits jusqu’à leur amortissement complet.
 
 [^26-1]: [[RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)art. 21 [3799](https://fedlex.data.admin.ch/eli/oc/2020/696)]
 [^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^26-3]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^26-4]: Teneur selon l’art. 30 ci-après, en vigueur depuis le 1<sup>er</sup> janv. 2023.
 
 ## Section 9 Dispositions finales
 
@@ -492,27 +494,11 @@ La Banque nationale peut traiter des données personnelles, y compris des donné
 
 À l’entrée en vigueur de la modification du 19 juin 2020[^30-1] du code des obligations[^30-2], les dispositions suivantes de la présente loi auront la teneur suivante:
 
+…[^30-3]
+
 [^30-1]: [RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746)
 [^30-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-
-#### Art. 24
-
-**Perte de capital et surendettement**
-
-<sup>1</sup> Pour le calcul de la couverture du capital et des réserves au sens de l’art. 725*a*, al. 1, CO[^24-3] et pour le calcul d’un surendettement au sens de l’art. 725*b*, al. 1, CO, les crédits cautionnés au sens de l’art. 3 OCaS-COVID-19[^24-4] ne sont pas pris en compte en tant que capitaux étrangers.
-
-<sup>2</sup> L’al. 1 s’applique par analogie à toutes les formes juridiques pour lesquelles la loi prévoit un avis obligatoire en cas de perte de capital et de surendettement au sens de l’art. 725*a* et 725*b* CO.
-
-Art. 26, al. 5, let. c
-
-<sup>5</sup> À cet effet, il peut édicter des dispositions dérogeant au CO[^24-5] et à la loi du 17 décembre 2010 sur l’organisation de la Poste[^24-6] concernant:
-
-c. la perte de capital et le surendettement (art. 725 ss CO);
-
-[^24-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-4]: [RO 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)[1207](https://fedlex.data.admin.ch/eli/oc/2020/228)[1233](https://fedlex.data.admin.ch/eli/oc/2020/235)[3799](https://fedlex.data.admin.ch/eli/oc/2020/696)
-[^24-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^24-6]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^30-3]: Les mod. peuvent être consultés au [RO 2020 5831](https://fedlex.data.admin.ch/eli/oc/2020/982).
 
 #### Art. 31
 
