@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 11 avril 2018 sur l'imposition à la source dans le
 short: OIS
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-274-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20210101/fr"
 
 (Ordonnance sur l’imposition à la source, OIS)
 
-du 11 avril 2018 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 avril 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral des finances (DFF),
 
@@ -300,11 +300,13 @@ L’ordonnance du 19 octobre 1993 sur l’imposition à la source[^25-1] est abr
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2021.
 
-Annexe
+Annexe[^t-1]
 
 (art. 1, al. 2, 19, al. 1, et 20)
 
 ## Barèmes de l’impôt à la source
+
+[^t-1]: Mise à jour par le ch. I de l’O du DFF du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 574](https://fedlex.data.admin.ch/eli/oc/2022/574)).
 
 - 1\. L’impôt à la source des personnes soumises au barème D est égal à 1 % des revenus bruts.
 - 2\. L’impôt à la source sur les revenus acquis en compensation qui sont soumis au barème G s’élève à:
@@ -312,17 +314,17 @@ Annexe
 <table>
 <tr><td>0,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 18 000 francs, puis à</td></tr>
 <tr><td>0,80 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>144,00 francs</td><td>pour des revenus bruts annuels de 36 000 francs, puis à</td></tr>
-<tr><td>2,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>744,00 francs</td><td>pour des revenus bruts annuels de 60 000 francs, puis à</td></tr>
-<tr><td>4,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>2 094,00 francs</td><td>pour des revenus bruts annuels de 90 000 francs, puis à</td></tr>
-<tr><td>8,00 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>4 494,00 francs</td><td>pour des revenus bruts annuels de 120 000 francs, puis à</td></tr>
-<tr><td>11,00 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>11 094,00 francs</td><td>pour des revenus bruts annuels de 180 000 francs, puis à</td></tr>
+<tr><td>144,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 36 000 francs, puis à</td></tr>
+<tr><td>2,40 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>720,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 60 000 francs, puis à</td></tr>
+<tr><td>4,30 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>2 010,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 90 000 francs, puis à</td></tr>
+<tr><td>7,60 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>4 290,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 120 000 francs, puis à</td></tr>
+<tr><td>10,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
+<tr><td>10 590,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 180 000 francs, puis à</td></tr>
 <tr><td>13,00 francs</td><td>pour chaque tranche de 100 francs supplémentaire;</td></tr>
-<tr><td>94 164,00 francs</td><td>pour des revenus bruts annuels de 819 000 francs, puis à</td></tr>
+<tr><td>90 150,00 francs</td><td>pour des revenus bruts annuels inférieurs ou égaux à 792 000 francs, puis à</td></tr>
 <tr><td>11,50 francs</td><td>pour chaque tranche de 100 francs supplémentaire.</td></tr>
 </table>
 
@@ -331,7 +333,7 @@ Annexe
 <table>
 <tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
 <tr><td>0,35 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
-<tr><td>0,65 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
+<tr><td>0,60 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
 <tr><td>1,30 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
 <tr><td>1,70 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
 <tr><td>2,00 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
@@ -345,9 +347,9 @@ Annexe
 <tr><td>0,00 %</td><td>pour les montants allant jusqu’à</td><td>25 000 francs</td></tr>
 <tr><td>0,20 %</td><td>pour les montants supérieurs à 25 000 et allant jusqu’à</td><td>50 000 francs</td></tr>
 <tr><td>0,50 %</td><td>pour les montants supérieurs à 50 000 et allant jusqu’à</td><td>75 000 francs</td></tr>
-<tr><td>0,90 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
-<tr><td>1,25 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
-<tr><td>2,00 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
+<tr><td>0,85 %</td><td>pour les montants supérieurs à 75 000 et allant jusqu’à</td><td>100 000 francs</td></tr>
+<tr><td>1,20 %</td><td>pour les montants supérieurs à 100 000 et allant jusqu’à</td><td>125 000 francs</td></tr>
+<tr><td>1,90 %</td><td>pour les montants supérieurs à 125 000 et allant jusqu’à</td><td>150 000 francs</td></tr>
 <tr><td>2,60 %</td><td>pour les montants supérieurs à 150 000 et allant jusqu’à</td><td>900 000 francs</td></tr>
 <tr><td>2,30 %</td><td>pour les montants supérieurs à</td><td>900 000 francs</td></tr>
 </table>

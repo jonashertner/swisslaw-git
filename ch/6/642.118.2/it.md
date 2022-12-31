@@ -4,11 +4,11 @@ title: "Ordinanza del DFF dell' 11 aprile 2018 sull'imposta alla fonte nel quadr
 short: OIFo
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/274"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-04-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/274/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-274-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/274/20210101/it"
 
 (Ordinanza sull’imposta alla fonte, OIFo)
 
-dell’11 aprile 2018 (Stato 1° gennaio 2021)
+dell’11 aprile 2018 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -284,7 +284,7 @@ Dopo aver dedotto la provvigione cui ha diritto, la cassa di compensazione AVS v
 
 L’ordinanza del 19 ottobre 1993[^25-1] sull’imposta alla fonte è abrogata.
 
-[^25-1]: [[RU 1993 3324](https://fedlex.data.admin.ch/eli/oc/1993/3324_3324_3324), [1994 394](https://fedlex.data.admin.ch/eli/oc/1994/394_394_394)[1788](https://fedlex.data.admin.ch/eli/oc/1994/1788_1788_1788), [2001 1055](https://fedlex.data.admin.ch/eli/oc/2001/156), [2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)all. n. 1, [2010 4481](https://fedlex.data.admin.ch/eli/oc/2010/633), [2011 4329](https://fedlex.data.admin.ch/eli/oc/2011/590), [2013 783](https://fedlex.data.admin.ch/eli/oc/2013/156)]
+[^25-1]: [[RU 1993 3324](https://fedlex.data.admin.ch/eli/oc/1993/3324_3324_3324); [1994 394](https://fedlex.data.admin.ch/eli/oc/1994/394_394_394), [1788](https://fedlex.data.admin.ch/eli/oc/1994/1788_1788_1788); [2001 1055](https://fedlex.data.admin.ch/eli/oc/2001/156); [2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)all. n. 1; [2010 4481](https://fedlex.data.admin.ch/eli/oc/2010/633); [2011 4329](https://fedlex.data.admin.ch/eli/oc/2011/590); [2013 783](https://fedlex.data.admin.ch/eli/oc/2013/156)]
 
 #### Art. 26
 
@@ -300,11 +300,13 @@ L’ordinanza del 19 ottobre 1993[^25-1] sull’imposta alla fonte è abrogata.
 
 La presente ordinanza entra in vigore il 1° gennaio 2021.
 
-Allegato
+Allegato[^t-1]
 
 (art. 1 cpv. 2, 19 cpv. 1 e 20)
 
 ## Tariffe dell’imposta alla fonte
+
+[^t-1]: Aggiornato dal n. I dell’O del DFI del 16 set. 2022, in vigore il 1° gen. 2023 ([RU 2022 574](https://fedlex.data.admin.ch/eli/oc/2022/574)).
 
 - 1\. L’imposta alla fonte delle persone che rientrano nel tariffario D ammonta all’1 per cento dei proventi lordi.
 - 2\. L’imposta alla fonte sui proventi compensativi cui si applica il tariffario G è fissata come segue:
@@ -312,20 +314,20 @@ Allegato
 <table>
 <tr><th></th><th>franchi</th></tr>
 <tr><th>fino a 18 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>0.00 0.80;</th></tr>
-<tr><th>per 36 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>144.00 2.50 in più;</th></tr>
-<tr><th>per 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>744.00 4.50 in più;</th></tr>
-<tr><th>per 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>2 094.00 8.00 in più;</th></tr>
-<tr><th>per 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>4 494.00 11.00 in più;</th></tr>
-<tr><th>per 180 000 franchi di proventi lordi annui e per ogni 100 in più</th><th>11 094.00 13.00 in più;</th></tr>
-<tr><th>per 819 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>94 164.00 11.50 in più.</th></tr>
+<tr><th>fino a 36 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>144.00 2.40 in più;</th></tr>
+<tr><th>fino a 60 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>720.00 4.30 in più;</th></tr>
+<tr><th>fino a 90 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>2 010.00 7.60 in più;</th></tr>
+<tr><th>fino a 120 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>4 290.00 10.50 in più;</th></tr>
+<tr><th>fino a 180 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>10 590.00 13.00 in più;</th></tr>
+<tr><th>fino a 792 000 franchi di proventi lordi annui e per ogni 100 franchi in più</th><th>90 150.00 11.50 in più.</th></tr>
 </table>
 
-- 3. a. Per le persone sole l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
+- 3\. a. Per le persone sole l’imposta alla fonte riscossa sull’ammontare lordo delle prestazioni in capitale secondo l’articolo 19 capoverso 1 è fissata come segue:
 
 <table>
 <tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
 <tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,35 %</td></tr>
-<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,65 %</td></tr>
+<tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,60 %</td></tr>
 <tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>1,30 %</td></tr>
 <tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,70 %</td></tr>
 <tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>2,00 %</td></tr>
@@ -339,9 +341,9 @@ Allegato
 <tr><td>– per un importo fino a</td><td>25 000 franchi</td><td>0,00 %</td></tr>
 <tr><td>– per un importo superiore a 25 000 e fino a</td><td>50 000 franchi</td><td>0,20 %</td></tr>
 <tr><td>– per un importo superiore a 50 000 e fino a</td><td>75 000 franchi</td><td>0,50 %</td></tr>
-<tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>0,90 %</td></tr>
-<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,25 %</td></tr>
-<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>2,00 %</td></tr>
+<tr><td>– per un importo superiore a 75 000 e fino a</td><td>100 000 franchi</td><td>0,85 %</td></tr>
+<tr><td>– per un importo superiore a 100 000 e fino a</td><td>125 000 franchi</td><td>1,20 %</td></tr>
+<tr><td>– per un importo superiore a 125 000 e fino a</td><td>150 000 franchi</td><td>1,90 %</td></tr>
 <tr><td>– per un importo superiore a 150 000 e fino a</td><td>900 000 franchi</td><td>2,60 %</td></tr>
 <tr><td>– per un importo superiore a</td><td>900 000 franchi</td><td>2,30 %</td></tr>
 </table>
