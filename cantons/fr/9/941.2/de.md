@@ -4,13 +4,12 @@ number: "941.2"
 title: Gesetz über die Reklamen
 short: RekG
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2012-09-12
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1986-11-06
 in_force: 1987-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/941.2"
-pdf: "https://bdlf.fr.ch/api/de/versions/7222/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8012/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Reklamen – G
 
 (RekG)
 
-vom 06.11.1986 (Fassung in Kraft getreten am 01.01.2014)
+vom 06.11.1986 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -54,6 +53,8 @@ beschliesst:
 **Grundsatz**
 
 <sup>1</sup> Unter Vorbehalt der in Artikel 3 vorgesehenen Ausnahmen bedarf es einer Bewilligung, um die von diesem Gesetz erfassten Reklamen aufzustellen, zu benützen oder zu ändern.
+
+<sup>2</sup> Wenn für die Reklame gleichzeitig ein Baubewilligungsgesuch gestellt wird, gilt die Baubewilligung als Bewilligung der Reklame.
 
 #### Art. 3
 

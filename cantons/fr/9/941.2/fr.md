@@ -4,13 +4,12 @@ number: "941.2"
 title: Loi sur les réclames
 short: LRec
 language: fr
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2012-09-12
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1986-11-06
 in_force: 1987-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/941.2"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7222/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8012/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Réclames – L
 
 (LRec)
 
-du 06.11.1986 (version entrée en vigueur le 01.01.2014)
+du 06.11.1986 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -54,6 +53,8 @@ Décrète:
 **Principe**
 
 <sup>1</sup> Une autorisation est nécessaire pour placer, utiliser ou pour modifier les réclames visées par la présente loi, sous réserve des exceptions prévues à l'article 3.
+
+<sup>2</sup> Lorsque la réclame fait simultanément l'objet d'une demande de permis de construire, ce dernier fait office d'autorisation de réclame.
 
 #### Art. 3
 
