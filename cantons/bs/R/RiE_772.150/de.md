@@ -1,36 +1,35 @@
 ---
 canton: BS
 number: RiE 772.150
-title: Ordnung zur Spezialfinanzierung von Energiesparmassnahmen an Gemeindeliegenschaften
+title: Ordnung zum Energiesparfonds für Gemeindeliegenschaften
 language: de
-version: 2014-04-04
-valid_until: 2022-12-31
-version_adopted: 2014-02-26
+version: 2023-01-01
+version_adopted: 2021-12-15
 adopted: 2014-02-26
 in_force: 2014-04-04
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20772.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2921/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordnung zur Spezialfinanzierung von Energiesparmassnahmen an Gemeindeliegenschaften
+# Ordnung zum Energiesparfonds für Gemeindeliegenschaften
 
-Energiesparmassnahmen an Gemeindeliegenschaften. O | Einwohnergemeinde: Riehen
+Wasser / Energie
 
-Vom 26. Februar 2014 (Stand 4. April 2014)
+Vom 26. Februar 2014 (Stand 1. Januar 2023)
 
 Der Einwohnerrat Riehen
 
 erlässt auf Antrag des Gemeinderats und der Sachkommission Publikumsdienste, Behörden und Finanzen (SPBF), gestützt auf § 21 der Finanzhaushaltordnung der Einwohnergemeinde Riehen vom 28. November 2002[^ingress-1], folgende Ordnung:
 
-[^ingress-1]: [RiE 610.100](https://www.gesetzessammlung.bs.ch/data/RiE%20610.100/de).
+[^ingress-1]: [RiE 610.100](https://www.gesetzessammlung.bs.ch/data/RiE%20610.100/de); heute: § 42 Abs. 1 der Finanzhaushaltordnung der Einwohnergemeinde Riehen (Finanzhaushaltordnung; FhO) vom 15. Dezember 2021, in Kraft seit 1. Januar 2023 (KB 18.12.2021).
 
 #### § 1
 
 **Bestand**
 
-<sup>1</sup> Für die Spezialfinanzierung von Energiesparmassnahmen an Gemeindeliegenschaften wird ein zweckgebundener Energiesparfonds gebildet.
+<sup>1</sup> Für die Finanzierung von Energiesparmassnahmen an Gemeindeliegenschaften wird ein zweckgebundener Energiesparfonds gebildet.
 
 #### § 2
 
@@ -60,7 +59,7 @@ erlässt auf Antrag des Gemeinderats und der Sachkommission Publikumsdienste, Be
 
 **Rechenschaft**
 
-<sup>1</sup> Der Fonds wird in der laufenden Rechnung ausgewiesen. Der Gemeinderat legt mit der Rechnung Rechenschaft ab über Stand und Verwendung der Fondskapitalien.
+<sup>1</sup> Der Fonds wird im Eigenkapital ausgewiesen. Der Gemeinderat legt mit der Rechnung Rechenschaft ab über Stand und Verwendung der Fondskapitalien.
 
 Schlussbestimmung:
 
