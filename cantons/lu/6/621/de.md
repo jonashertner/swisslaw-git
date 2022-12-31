@@ -4,13 +4,13 @@ number: "621"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-28
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-02
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/621"
-pdf: "https://srl.lu.ch/api/de/versions/3860/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3979/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3860/pdf_file"
 
 (StV)
 
-vom 12.12.2000 (Stand 01.01.2022)
+vom 12.12.2000 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -142,7 +142,7 @@ beschliesst:
 - a. 10 Prozent des Brutto-Mietertrags oder des steuerbaren Mietwerts von Gebäuden, deren Erstellungsjahr zu Beginn der Steuerperiode nicht mehr als zehn Jahre zurückliegt,
 - b. 20 Prozent des Brutto-Mietertrags oder des steuerbaren Mietwerts der übrigen Gebäude.
 
-<sup>3</sup> Wird der Gebäudeunterhalt zum Teil von der Mieterschaft oder von Dritten getragen, ohne dass eine entsprechende Gegenleistung erbracht wird, ist der Pauschalabzug für Gebäudeunterhalt angemessen zu kürzen.
+<sup>3</sup> …
 
 <sup>4</sup> Die steuerpflichtige Person kann in jeder Steuerperiode für jede Liegenschaft zwischen dem Abzug der tatsächlichen Kosten und dem Pauschalabzug wählen.
 
@@ -220,7 +220,7 @@ beschliesst:
 
 **Kosten für die Drittbetreuung von Kindern**
 
-<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 500 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 2850 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 4700 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
+<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 500 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 3000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 5000 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
 
 #### § 15
 
@@ -397,7 +397,7 @@ beschliesst:
 
 <sup>1</sup> Vorauszahlungen sind entsprechend ihrem Zahlungseingang, frühestens ab 1. Januar der Steuerperiode, bis zur Fälligkeit der Steuerforderung zu verzinsen.
 
-<sup>2</sup> Die provisorische oder definitive Verrechnungssteuergutschrift wird der Veranlagungsperiode gutgeschrieben und ab Eingang der vollständigen Steuererklärung verzinst.
+<sup>2</sup> Die provisorische oder definitive Verrechnungssteuergutschrift wird der Steuerperiode, in der die steuerbare Leistung fällig wird, gutgeschrieben und ab Eingang der vollständigen Steuererklärung verzinst. Sie kann auf eine Folgeperiode übertragen werden.
 
 <sup>3</sup> …
 
@@ -415,11 +415,7 @@ beschliesst:
 
 #### § 36
 
-**Verrechnungssteuergutschriften**
-
-<sup>1</sup> Die provisorische oder definitive Verrechnungssteuergutschrift für die laufende Steuerperiode wird mit der Akontorechnung der folgenden Steuerperiode verrechnet.
-
-<sup>2</sup> Die Schlussabrechnung der Verrechnungssteuergutschrift für die laufende Steuerperiode erfolgt mit der Schlussrechnung der folgenden Steuerperiode.
+**…**
 
 #### § 36a
 
