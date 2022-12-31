@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (Etat le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -37,13 +37,15 @@ La présente ordonnance règle:
 - b. l’aménagement du territoire dans le cadre du développement des énergies renouvelables;
 - c. l’injection d’énergie de réseau et la consommation propre;
 - d. les appels d’offres publics pour les mesures d’efficacité;
-- e. les garanties pour la géothermie et les contributions à la recherche de ressources géothermiques;
+- e.[^1-1] les garanties pour la géothermie;
 - f. l’indemnisation des mesures d’assainissement dans le cas d’installations hydroélectriques;
 - g. le supplément perçu sur le réseau;
 - h. l’utilisation économe et efficace de l’énergie dans les bâtiments et les entreprises;
 - i. les mesures d’encouragement dans le domaine de l’énergie;
 - j. la coopération internationale dans le champ d’application de la LEne;
 - k. l’analyse des impacts et le traitement des données.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ## Chapitre 2 Garantie d’origine et marquage de l’électricité
 
@@ -139,7 +141,7 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Chapitre 3 Guichet unique, projets d’utilisation des forces hydrauliques et plans directeur cantonaux, intérêt national et exemption de l’autorisation de construire****
+## Chapitre 3 Guichet unique, projets d’utilisation des forces hydrauliques et plans directeur cantonaux, intérêt national et exemption de l’autorisation de construire
 
 [^chap3-1]
 
@@ -155,7 +157,7 @@ Conformément à l’art. 19, al. 1, LEne, les gestionnaires de réseau doivent 
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
-### Section 1*a***** Projets d’utilisation des forces hydrauliques et plans directeurs cantonaux
+### Section 1*a* Projets d’utilisation des forces hydrauliques et plans directeurs cantonaux
 
 [^chap3-sec1a-1]
 
@@ -225,7 +227,7 @@ S’agissant de la détermination de l’intérêt national d’une éolienne, p
 
 <sup>3</sup> Les éoliennes et les parcs éoliens existants revêtent un intérêt national si leur agrandissement ou leur rénovation permet d’atteindre une production moyenne attendue d’au moins 20 GWh par an.
 
-### Section 3**** Exemption de l’autorisation de construire
+### Section 3 Exemption de l’autorisation de construire
 
 [^chap3-sec3-1]
 
@@ -233,9 +235,31 @@ S’agissant de la détermination de l’intérêt national d’une éolienne, p
 
 #### Art. 9a
 
+**Bâtiments et installations servant à examiner l’adéquation de sites pour des éoliennes[^9a-1]**
+
 <sup>1</sup> Les bâtiments et les installations servant à examiner l’adéquation de sites pour des éoliennes peuvent être construits ou transformés sans autorisation de construire pour une durée de 18 mois au maximum.
 
 <sup>2</sup> Les cantons peuvent prévoir une procédure d’annonce.
+
+[^9a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+
+#### Art. 9b
+
+**Bâtiments et installations servant à examiner l’adéquation de sites pour les grandes installations photovoltaïques visées à l’art. 71*a* LEne**[^9b-1]
+
+<sup>1</sup> Les bâtiments et les installations servant à examiner l’adéquation de sites pour les grandes installations photovoltaïques visées à l’art. 71*a* LEne (installations-test) peuvent être construits ou transformés sans autorisation de construire pour une durée de 24 mois au maximum.
+
+<sup>2</sup>
+
+Le maître d’ouvrage annonce à l’autorité compétente les installations-test visés à l’al. 1 avant le début des travaux et lui soumet à cet effet les documents suivants:
+
+- a. le dispositif prévu pour les essais;
+- b. une liste des points à clarifier au moyen de l’installation-test;
+- c. une documentation photographique du site concerné avant la construction de l’installation-test.
+
+<sup>3</sup> Au terme des essais, il démantèle complètement l’installation-test et rétablit la situation antérieure. Il fournit la preuve du démantèlement et de la remise en état aux autorités compétentes.
+
+[^9b-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ## Chapitre 4 Injection d’énergie de réseau et consommation propre
 
@@ -288,27 +312,26 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 
 **Puissance de l’installation**
 
-<sup>1</sup> La puissance d’une installation photovoltaïque est calculée en fonction de la puissance DC (courant continu) maximale normée du générateur d’électricité solaire.
+<sup>1</sup> La puissance d’une installation photovoltaïque est calculée en fonction de la puissance DC (courant continu) maximale normée de la face avant du générateur d’électricité solaire.[^13-1]
 
-<sup>2</sup> La puissance d’une installation hydroélectrique se rapporte à la puissance théorique moyenne. Elle est calculée en se fondant sur l’art. 51 de la loi du 22 décembre 1916 sur l’utilisation des forces hydrauliques[^13-1].
+<sup>2</sup> La puissance d’une installation hydroélectrique se rapporte à la puissance théorique moyenne. Elle est calculée en se fondant sur l’art. 51 de la loi du 22 décembre 1916 sur l’utilisation des forces hydrauliques[^13-2].
 
 <sup>3</sup> La puissance des installations de biomasse, des éoliennes et des installations de géothermie est calculée en fonction de la puissance nominale du générateur d’électricité.
 
-[^13-1]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^13-2]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
 
 ### Section 2 Consommation propre
 
 #### Art. 14
 
-**Lieu de la production**
+**Lieu de production**[^14-1]
 
-<sup>1</sup> Le lieu de la production correspond à la propriété sur laquelle se situe l’installation de production.
+<sup>1</sup> Le lieu de production correspond à la propriété sur laquelle se situe l’installation de production.
 
-<sup>2</sup> Les terrains contigus dont au moins un est adjacent à la propriété sur laquelle se trouve l’installation de production sont également considérés comme le lieu de la production. Les terrains qui ne sont séparés que par une rue, une voie ferrée ou un cours d’eau sont également considérés comme contigus, moyennant l’accord du propriétaire concerné.[^14-1]
+<sup>2</sup> Le lieu de production peut comprendre d’autres propriétés, pour autant que l’électricité produite sur place puisse être consommée sur celles-ci sans utilisation du réseau de distribution.
 
-<sup>3</sup> Seule l’électricité qui n’utilise pas le réseau du gestionnaire de réseau entre l’installation de production et la consommation est considérée comme faisant l’objet d’une consommation propre sur le lieu de production.
-
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 15
 
@@ -328,25 +351,18 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 
 <sup>1</sup>
 
-Le propriétaire foncier met à la charge des différents locataires et preneurs à bail les coûts suivants, déduction faite des recettes provenant de l’électricité injectée:
+Le propriétaire foncier facture les coûts aux différents locataires et preneurs à bail selon les principes suivants:
 
-- a.
+- a. l’électricité soutirée à l’extérieur est facturée en fonction de la consommation; cette facturation inclut, toutes redevances comprises, les coûts de l’énergie, de l’utilisation du réseau et de la mesure au point de mesure du regroupement;
+- b. l’électricité produite en interne et les coûts de la mesure interne, de la mise à disposition des données, de l’administration et de la facturation dans le cadre du regroupement (coûts internes) peuvent être facturés selon un forfait correspondant à 80 % au maximum du montant qui serait dû en cas de non-participation au regroupement, pour l’achat de la même quantité d’électricité sous la forme du produit électrique standard extérieur.[^16-1]
 
-  pour l’électricité produite en interne:
+<sup>1bis</sup> …[^16-2]
 
-  - 1\. les coûts de capital imputables de l’installation,
-  - 2\. les coûts d’exploitation et d’entretien de l’installation;
+<sup>2</sup> Pour les coûts internes, le propriétaire foncier peut facturer, en lieu et place du forfait précisé à l’al. 1, let. b, les coûts effectifs, déduction faite des recettes provenant de l’électricité injectée.[^16-3]
 
-- b. les coûts pour l’électricité soutirée à l’extérieur, et
-- c. les coûts pour la mesure interne, la mise à disposition des données, l’administration et la facturation.[^16-1]
+<sup>2bis</sup> …[^16-4]
 
-<sup>1bis</sup> Les coûts visés à l’al. 1, let. a et b, sont facturés sur la base de la consommation et ceux visés à l’al. 1, let. c, sont facturés sur la base de la consommation ou à parts égales.[^16-2]
-
-<sup>2</sup> Les coûts de capital imputables ne doivent pas dépasser le taux approprié pour les intérêts et l’amortissement de l’investissement.
-
-<sup>2bis</sup> Lorsqu’un tiers se charge du financement de l’installation et effectue un emprunt à cet effet, le propriétaire foncier peut choisir de facturer soit les coûts de capital calculés sur la base du taux approprié visé à l’al. 2 soit les intérêts passifs effectivement générés par l’emprunt.[^16-3]
-
-<sup>3</sup> Les coûts internes visés à l’al. 1, let. a et c, qui sont facturés aux locataires ne doivent pas dépasser les coûts du produit électrique standard extérieur qu’ils paieraient s’ils ne participaient pas au regroupement. Si les coûts internes sont inférieurs aux coûts dudit produit électrique standard extérieur, le propriétaire foncier peut facturer en plus, au maximum, la moitié des économies réalisées aux locataires.[^16-4]
+<sup>3</sup> S’il facture l’électricité produite en interne conformément à l’al. 2, le propriétaire foncier ne peut pas facturer un montant excédant celui qui serait dû pour l’achat de la même quantité d’électricité sous la forme du produit électrique standard extérieur. Si les coûts internes sont inférieurs aux coûts du produit électrique standard extérieur, il peut facturer, en plus des coûts internes, au maximum la moitié des économies réalisées.[^16-5]
 
 <sup>4</sup>
 
@@ -365,13 +381,14 @@ Les locataires et les preneurs à bail peuvent seulement mettre fin à la partic
 
 <sup>6</sup> Le départ du regroupement doit être notifié au propriétaire foncier trois mois à l’avance, par écrit et avec indication des motifs.
 
-<sup>7</sup> Les propriétaires fonciers auxquels incombe l’approvisionnement en électricité de locataires et de preneurs à bail sont libérés de l’obligation de publier les tarifs et de tenir une comptabilité par unité d’imputation au sens de l’art. 4 OApEl[^16-5].
+<sup>7</sup> Les propriétaires fonciers auxquels incombe l’approvisionnement en électricité de locataires et de preneurs à bail sont libérés de l’obligation de publier les tarifs et de tenir une comptabilité par unité d’imputation au sens de l’art. 4 OApEl[^16-6].
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-3]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^16-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^16-5]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)). Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-4]: Introduit par le ch. I de l’O du 24 nov. 2021 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)). Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-6]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
 #### Art. 17
 
@@ -410,7 +427,11 @@ Les propriétaires fonciers doivent communiquer trois mois à l’avance au gest
 [^18-2]: Introduite par le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^18-3]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
-## Chapitre 5 Appels d’offres publics pour les mesures d’efficacité, les contributions à la recherche de ressources géothermiques et les garanties pour la géothermie ainsi que l’indemnisation de mesures d’assainissement dans le cas d’installations hydroélectriques
+## Chapitre 5 Appels d’offres publics pour les mesures d’efficacité, garanties pour la géothermie et indemnisation de mesures d’assainissement dans le cas d’installations hydroélectriques
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ### Section 1 Appels d’offres publics pour les mesures d’efficacité
 
@@ -465,17 +486,21 @@ L’OFEN publie chaque année les indications suivantes concernant les appels d�
 
 <sup>2</sup> Dans le respect des secrets d’affaires et de fabrication, il peut par ailleurs publier les données fournies par les responsables de projet et de programme ainsi que les rapports intermédiaires et les rapports finaux.
 
-### Section 2 Contributions à la recherche de ressources géothermiques et garanties pour la géothermie
+### Section 2 Garanties pour la géothermie
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 23
 
-**Conditions d’octroi et demande**
+**Conditions d’octroi et demande**[^23-1]
 
-<sup>1</sup> Des contributions à la recherche de ressources géothermiques peuvent être accordées si un projet remplit les exigences fixées à l’annexe 1.
+<sup>1</sup> Des garanties pour la géothermie peuvent être accordées si un projet remplit les exigences fixées à l’annexe 2.
 
-<sup>2</sup> Des garanties pour la géothermie peuvent être accordées si un projet remplit les exigences fixées à l’annexe 2.
+<sup>2</sup> Les demandes de garanties pour la géothermie doivent être déposées auprès de l’OFEN. La demande doit répondre aux prescriptions de l’annexe 2, ch. 3.1, et contenir des éléments attestant que les demandes d’autorisation et de concession nécessaires ont été soumises aux autorités compétentes dans leur intégralité et que le financement du projet est garanti.
 
-<sup>3</sup> Les demandes de contributions à la recherche de ressources géothermiques ou de garanties pour la géothermie doivent être déposées auprès de l’OFEN. La demande doit répondre aux prescriptions de l’annexe 1, ch. 3.1 ou 4.2, ou de l’annexe 2, ch. 3.1, et contenir des éléments attestant que les demandes d’autorisation et de concession nécessaires ont été soumises aux autorités compétentes dans leur intégralité et que le financement du projet est garanti.
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 24
 
@@ -485,9 +510,12 @@ L’OFEN publie chaque année les indications suivantes concernant les appels d�
 
 <sup>2</sup> Le groupe d’experts évalue les demandes et émet à l’intention de l’OFEN une recommandation pour l’appréciation du projet. Le représentant cantonal ne peut se prononcer sur la recommandation à l’intention de l’OFEN. Le groupe d’experts peut faire appel à des spécialistes supplémentaires afin de remplir ses tâches.
 
-<sup>3</sup> Pour les contributions à la recherche de ressources géothermiques, la procédure est régie par l’annexe 1, ch. 3 et 4, et pour les garanties pour la géothermie, par l’annexe 2, ch. 3.
+<sup>3</sup> La procédure est régie par l’annexe 2, ch. 3.[^24-1]
 
-<sup>4</sup> Si les conditions d’octroi d’une contribution à la recherche de ressources géothermiques ou d’une garantie pour la géothermie sont remplies, la Confédération conclut un contrat de droit administratif avec le requérant. Ce contrat définit notamment les conditions de la restitution au sens de l’art. 27.
+<sup>4</sup> Si les conditions d’octroi d’une garantie pour la géothermie sont remplies, la Confédération conclut un contrat de droit administratif avec le requérant. Ce contrat définit notamment les conditions de la restitution au sens de l’art. 27.[^24-2]
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 25
 
@@ -508,15 +536,13 @@ La garantie pour la géothermie est versée sur demande si un projet est consid�
 
 #### Art. 27
 
-**Restitution**
+**Restitution**[^27-1]
 
-<sup>1</sup> Les art. 28 à 30 de la loi du 5 octobre 1990 sur les subventions (LSu)[^27-1] s’appliquent par analogie à la restitution des contributions à la recherche de ressources géothermiques et des garanties pour la géothermie.
+<sup>1</sup> Les art. 28 à 30 de la loi du 5 octobre 1990 sur les subventions (LSu)[^27-2] s’appliquent par analogie à la restitution des garanties pour la géothermie.
 
-<sup>2</sup> L’OFEN peut au demeurant demander la restitution des contributions à la recherche de ressources géothermiques si l’exploitation de l’installation génère des gains démontrant a posteriori que les subventions n’étaient pas nécessaires.
+<sup>2</sup> Si le projet est utilisé à d’autres fins et génère ainsi des gains, l’OFEN peut ordonner par décision la restitution complète ou partielle des garanties pour la géothermie qui ont été versées.
 
-<sup>3</sup> Si le projet est utilisé à d’autres fins et génère ainsi des gains, l’OFEN peut ordonner par décision la restitution complète ou partielle des contributions à la recherche de ressources géothermiques et des garanties pour la géothermie qui ont été versées.
-
-<sup>4</sup>
+<sup>3</sup>
 
 Avant une éventuelle modification d’utilisation ou une cession, il convient d’indiquer à l’OFEN:
 
@@ -524,7 +550,8 @@ Avant une éventuelle modification d’utilisation ou une cession, il convient d
 - b. le propriétaire et le responsable;
 - c. les gains éventuellement réalisés, et leur importance.
 
-[^27-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### Section 3 Indemnisation de mesures d’assainissement dans le cas d’installations hydroélectriques
 
@@ -1302,171 +1329,9 @@ Pour les consommateurs finaux visés à l’art. 39, al. 3, 1<sup>re</sup> phras
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe 1
+Annexe 1[^t-1]
 
-(art. 23 et 24)
-
-## Contributions à la recherche de ressources géothermiques
-
-### 1 Prospection et exploration
-
-- 1\.1 Les contributions à la recherche de ressources géothermiques servent à la prospection et à l’exploration du sous-sol dans le but de détecter un réservoir géothermique.
-- 1\.2 La prospection comprend les analyses servant, d’une part, à caractériser indirectement le sous-sol d’un réservoir géothermique supposé et, d’autre part, à déterminer l’emplacement en surface et la cible d’un puits d’exploration.
-- 1\.3 L’exploration concernant un réservoir géothermique se fait par le biais d’un forage et sert à confirmer un réservoir géothermique supposé et à déterminer le potentiel de rendement (prospectivité).
-
-### 2 Coûts d’investissement imputables
-
-- 2\.1
-
-  Seuls sont imputables dans le cadre de la prospection, les coûts d’investissement réellement encourus et indispensables à une réalisation économique et adéquate:
-
-  - a. pour l’acquisition de nouvelles géodonnées dans la zone de prospection;
-  - b. pour les travaux destinés à l’acquisition de nouvelles géodonnées;
-  - c. pour l’analyse et l’interprétation.
-
-- 2\.2
-
-  Seuls sont imputables dans le cadre de l’exploration les coûts d’investissement réellement encourus et indispensables à une réalisation économique et adéquate:
-
-  - a. pour la préparation, la mise en place et la démolition du site de forage;
-  - b. pour les forages y compris le tubage, la cémentation et l’achèvement du puits d’exploration prévu et des puits de surveillance;
-  - c. pour les stimulations des puits;
-  - d. pour les essais de puits;
-  - e. pour les diagraphies de puits, y compris l’instrumentation;
-  - f. pour les analyses des substances trouvées;
-  - g. pour l’accompagnement géologique, l’analyse des données et l’interprétation.
-
-- 2\.3 Les coûts survenant dans le cadre de démarches administratives dans le contexte de la recherche de ressources géothermiques ne sont pas imputables.
-
-### 3 Procédure en vue d’obtenir une contribution à la prospection
-
-- 3\.1 Demande
--
-
-  La demande doit renseigner sur les aspects techniques, économiques, juridiques, relevant de la sécurité, de l’environnement et organisationnels du projet, notamment sur:
-
-  - a. l’état actuel des connaissances sur la zone de recherche de ressources géothermiques fondé sur une mise à jour de toutes les géodonnées existantes, sur des analyses et des interprétations;
-  - b. les prospections géoscientifiques prévues qui servent à déterminer les emplacements et les cibles des forages, à trouver et à caractériser un réservoir géothermique ainsi qu’à déterminer l’augmentation attendue de la probabilité de trouver un tel réservoir;
-  - c. les concepts d’utilisation possibles en cas de prospection réussie ainsi que les calculs provisoires de rentabilité;
-  - d. les calendriers et les estimations de coûts détaillés présentant des écarts de 20 % au plus;
-  - e. les mesures prévues afin d’identifier les dangers et les risques pour la santé, la sécurité au travail et la sécurité de l’exploitation, l’environnement, notamment les ressources en eau potable, ainsi que les mesures prévues pour réduire ces risques à un niveau aussi faible et raisonnablement praticable que possible.
-
-- 3\.2 Examen de la demande
-- 3\.2.1 L’OFEN nomme un représentant de l’Office fédéral de topographie (swisstopo) au sein du groupe d’experts indépendant notamment pour évaluer les composantes géoscientifiques du projet et la plus-value pour la recherche de ressources géothermiques en Suisse.
-- 3\.2.2
-
-  Le groupe d’experts examine et évalue la demande sur la base des renseignements fournis conformément au ch. 3.1 et notamment:
-
-  - a. les travaux de prospection prévus et la gestion de projet;
-  - b. l’état d’avancement technique et qualitatif des travaux prévus et le caractère innovant;
-  - c. la question de savoir dans quelle mesure les travaux de prospection accroissent la probabilité de trouver un réservoir géothermique grâce à un forage d’exploration;
-  - d. la plus-value pour la recherche des ressources géothermiques du sous-sol suisse en vue de trouver des réservoirs géothermiques;
-  - e. la gestion des risques pour la santé, la sécurité au travail, la sécurité de l’exploitation et l’environnement.
-
-- 3\.2.3
-
-  Si le groupe d’experts évalue positivement le projet, il émet notamment une recommandation à l’intention de l’OFEN concernant:
-
-  - a. l’accroissement présumé de la probabilité de trouver un réservoir géothermique;
-  - b. les délais pour les étapes du projet;
-  - c. le montant de la contribution à la prospection à accorder;
-  - d. l’institution d’un représentant de swisstopo comme accompagnateur du projet.
-
-- 3\.3 Contrat
--
-
-  Si la prospection fait l’objet d’une contribution, le contrat règle alors en particulier les points suivants, conformément à l’art. 24, al. 4:
-
-  - a. les étapes à atteindre par le requérant et les délais à respecter;
-  - b. le devoir d’information du requérant envers l’OFEN, notamment concernant les rapports financiers, les décomptes finaux et d’éventuelles modifications du projet;
-  - c. le volume, les conditions et les échéances de la contribution à la prospection;
-  - d. sous réserve des monopoles cantonaux, la transmission à titre gratuit de l’installation à la Confédération et le droit d’emption de la Confédération sur le terrain dans le cas où un projet n’est pas poursuivi et ne fait pas l’objet d’une autre utilisation;
-  - e. la divulgation de toutes les données financières nécessaires au calcul des pertes ou des gains éventuels visés à l’art. 27;
-  - f. les raisons entraînant la dissolution du contrat;
-  - g. d’autres charges.
-
-- 3\.4 Réalisation et achèvement du projet
-- 3\.4.1. Le responsable du projet effectue les travaux de prospection prévus.
-- 3\.4.2. L’accompagnateur du projet suit le projet pendant les travaux de prospection. Il évalue les résultats et fait régulièrement rapport au groupe d’experts.
-- 3\.4.3. Si les étapes et les délais visés au ch. 3.3, let. a, ne sont pas respectés, l’OFEN peut dissoudre le contrat immédiatement.
-- 3\.4.4. Au terme des travaux, le groupe d’experts évalue les résultats des travaux de prospection à l’intention de l’OFEN et examine les résultats des tests sous l’angle de l’augmentation attendue de la probabilité de trouver un réservoir géothermique présumé.
-
-### 4 Procédure en vue d’obtenir une contribution à l’exploration
-
-- 4\.1
-
-  Une demande de contribution à l’exploration peut uniquement être présentée:
-
-  - a. si une prospection a été réalisée au préalable dans la zone concernée:
-  - b. si un rapport de prospection concernant la probabilité de trouver un réservoir géothermique présumé a été établi, et
-  - c. s’il est vraisemblable que les exigences minimales de l’annexe 1.4, ch. 3 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^annex1-lvlu1-lvl4-1] seront remplies.
-
-- 4\.2 Demande
--
-
-  La demande doit renseigner sur les aspects techniques, économiques, juridiques, relevant de la sécurité, de l’environnement et organisationnels du projet, notamment sur:
-
-  - a. le programme détaillé de forage, d’achèvement, de diagraphie et de test pour le forage d’exploration;
-  - b. le programme détaillé de forage et d’achèvement ainsi que les programmes de diagraphie et de test éventuels pour les puits de surveillance;
-  - c. les calendriers et les estimations de coûts détaillés présentant des variations de 20 % au maximum;
-  - d. les caractéristiques attendues du réservoir géothermique présumé, notamment la température dans le puits au niveau du réservoir et ses propriétés de transport;
-  - e. l’utilisation prévue des puits et du réservoir géothermique si les résultats ne correspondent pas aux attentes;
-  - f. les mesures prévues afin d’identifier les dangers et les risques pour la santé, la sécurité au travail et la sécurité de l’exploitation, l’environnement, notamment les ressources en eau potable, ainsi que les mesures prévues pour réduire ces risques à un niveau aussi faible et raisonnablement praticable que possible;
-  - g. les innovations prévues pour faire de la prospection de réservoirs géothermiques de manière fiable et prometteuse en Suisse;
-  - h. l’importance des travaux d’exploration pour la recherche des ressources géothermiques du sous-sol suisse en vue de trouver des réservoirs géothermiques;
-  - i. la forme juridique prévue et le nom ou la raison de commerce de la société d’exploitation;
-  - j. le financement et les coûts administratifs du projet du forage d’exploration et le financement des phases ultérieures de réalisation des installations géothermiques, de développement, d’exploitation et de démantèlement.
-
-- 4\.3 Examen de la demande
-- 4\.3.1 L’OFEN nomme un représentant de swisstopo au sein du groupe d’experts indépendant, en particulier pour l’évaluation des composantes géoscientifiques du projet et de la plus-value pour la recherche de ressources géothermiques en Suisse.
-- 4\.3.2
-
-  Le groupe d’experts examine et évalue la demande sur la base des renseignements fournis conformément au ch. 4.2 et notamment:
-
-  - a. les propriétés attendues du réservoir géothermique, notamment la température dans le puits au niveau du réservoir et ses propriétés de transport;
-  - b. l’état d’avancement technique et qualitatif des travaux prévus et le caractère innovant;
-  - c. la plus-value pour la recherche des ressources géothermiques du sous-sol suisse en vue de trouver des réservoirs géothermiques;
-  - d. la gestion des risques pour la santé, la sécurité au travail, la sécurité de l’exploitation et l’environnement.
-
-- 4\.3.3
-
-  Si le groupe d’experts évalue positivement le projet, il émet notamment une recommandation à l’intention de l’OFEN concernant:
-
-  - a. la température attendue du réservoir géothermique dans le puits au niveau du réservoir et ses propriétés de transport;
-  - b. les délais pour les étapes du projet;
-  - c. le montant du soutien à accorder;
-  - d. le recours à un spécialiste indépendant en qualité d’accompagnateur du projet.
-
-- 4\.4 Contrat
--
-
-  Si la contribution à l’exploration peut être allouée, le contrat règle alors en particulier les points suivants, conformément à l’art. 24, al. 4:
-
-  - a. les étapes à atteindre et les délais à respecter par le requérant;
-  - b. le devoir d’information du requérant envers l’OFEN, notamment concernant les rapports financiers, les décomptes finaux et d’éventuelles modifications du projet;
-  - c. le volume, les conditions et les échéances de la contribution;
-  - d. sous réserve des monopoles cantonaux, la transmission à titre gratuit de l’installation à la Confédération et le droit d’emption de la Confédération sur le terrain dans le cas où un projet n’est pas poursuivi et ne fait pas l’objet d’une autre utilisation;
-  - e. la divulgation de toutes les données financières nécessaires au calcul des pertes ou des gains éventuels visés à l’art. 27;
-  - f. les raisons entraînant la dissolution du contrat;
-  - g. d’autres charges.
-
-- 4\.5 Réalisation et achèvement du projet
-- 4\.5.1 Le responsable du projet effectue les travaux d’exploration prévus.
-- 4\.5.2 L’accompagnateur du projet suit le projet pendant les travaux d’exploration. Il évalue les résultats, notamment concernant la température et les propriétés de transport du réservoir géothermique et fait régulièrement rapport au groupe d’experts.
-- 4\.5.3 Si les étapes et les délais visés au ch. 4.4, let. a, ne sont pas respectés, l’OFEN peut résilier le contrat immédiatement.
-- 4\.5.4 Au plus tard six mois après l’achèvement des travaux d’exploration, le groupe d’experts évalue les résultats de ces travaux.
-- 4\.5.5 L’OFEN informe le responsable du projet du résultat de l’évaluation, notamment en ce qui concerne le réservoir géothermique.
-
-[^annex1-lvlu1-lvl4-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-
-### 5 Géodonnées
-
-- 5\.1 Le requérant met gratuitement à la disposition de swisstopo et du canton d’implantation, au plus tard six mois après leur relevé, les géodonnées correspondantes, conformément aux prescriptions techniques de swisstopo.
-- 5\.2 swisstopo peut utiliser et adapter ces géodonnées conformément aux objectifs de la loi du 5 octobre 2007 sur la géoinformation[^annex1-lvlu1-lvl5-1] et de l’ordonnance du 21 mai 2008 sur la géologie nationale[^annex1-lvlu1-lvl5-2]; les cantons d’implantation peuvent le faire conformément à leur propre réglementation cantonale.
-- 5\.3 Il met les géodonnées primaires et les géodonnées primaires traitées à la disposition du public au plus tard 24 mois après l’achèvement de la prospection et dans les 12 mois suivant l’achèvement de l’exploration.
-
-[^annex1-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex1-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^t-1]: Abrogée par le ch. II de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 Annexe 2
 
@@ -1653,13 +1518,13 @@ Annexe 4
 - 1\.2 Grandes installations de recherche de l’École polytechnique fédérale de Lausanne
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Annexe 5*[^t-1]*
+Annexe 5[^t-2]
 
 (art. 43, al. 1 et 3)
 
 ## Calcul de la valeur ajoutée brute
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Dans le cas des entreprises qui répondent aux exigences de la révision ordinaire selon l’art. 727, al. 1, CO[^annex5-lvlu1-1] (art. 43, al. 1), la valeur ajoutée brute est calculée comme suit:
 

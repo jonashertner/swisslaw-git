@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Januar 2022)
+vom 1. November 2017 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -37,13 +37,15 @@ Diese Verordnung regelt:
 - b. die Raumplanung im Zusammenhang mit dem Ausbau erneuerbarer Energien;
 - c. die Einspeisung netzgebundener Energie und den Eigenverbrauch;
 - d. die wettbewerblichen Ausschreibungen für Effizienzmassnahmen;
-- e. die Geothermie-Garantien und -Erkundungsbeiträge;
+- e.[^1-1] die Geothermie-Garantien;
 - f. die Entschädigung für Sanierungsmassnahmen bei Wasserkraftanlagen;
 - g. den Netzzuschlag;
 - h. die sparsame und effiziente Energienutzung in Gebäuden und Unternehmen;
 - i. die Fördermassnahmen im Energiebereich;
 - j. die internationale Zusammenarbeit im Anwendungsbereich des EnG;
 - k. die Untersuchung der Wirkungen und die Datenbearbeitung.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ## 2. Kapitel: Herkunftsnachweis und Stromkennzeichnung
 
@@ -139,7 +141,7 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 
 [^6-1]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## 3. Kapitel: Guichet unique, Wasserkraftvorhaben und kantonale Richtplanung, nationales Interesse und baubewilligungsfreie Bauten und Anlagen****
+## 3. Kapitel: Guichet unique, Wasserkraftvorhaben und kantonale Richtplanung, nationales Interesse und baubewilligungsfreie Bauten und Anlagen
 
 [^chap3-1]
 
@@ -155,7 +157,7 @@ Die Netzbetreiber müssen der Vollzugsstelle vierteljährlich die Menge Elektriz
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
-### [1*a*. Abschnitt:](https://www.admin.ch/opc/de/classified-compilation/20162945/index.html) [Wasserkraftvorhaben und kantonale Richtplanung](https://www.admin.ch/opc/de/classified-compilation/20162945/index.html)
+### 1*a*. Abschnitt: Wasserkraftvorhaben und kantonale Richtplanung
 
 [^chap3-sec1a-1]
 
@@ -225,7 +227,7 @@ Für die Beurteilung, ob eine Windkraftanlage von nationalem Interesse ist, kön
 
 <sup>3</sup> Bestehende Windkraftanlagen oder Windparks sind von nationalem Interesse, wenn sie durch die Erweiterung oder Erneuerung eine mittlere erwartete Produktion von jährlich mindestens 20 GWh pro Jahr erreichen.
 
-### 3. Abschnitt:**** Baubewilligungsfreie Bauten und Anlagen
+### 3. Abschnitt: Baubewilligungsfreie Bauten und Anlagen
 
 [^chap3-sec3-1]
 
@@ -233,9 +235,31 @@ Für die Beurteilung, ob eine Windkraftanlage von nationalem Interesse ist, kön
 
 #### Art. 9a
 
+**Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen[^9a-1]**
+
 <sup>1</sup> Bauten und Anlagen zur Abklärung der Standorteignung von Windenergieanlagen dürfen für eine Dauer von maximal 18 Monaten ohne Baubewilligung errichtet oder geändert werden.
 
 <sup>2</sup> Die Kantone können ein Meldeverfahren vorsehen.
+
+[^9a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+
+#### Art. 9b
+
+**Bauten und Anlagen zur Abklärung der Standorteignung von Photovoltaik-Grossanlagen nach Artikel 71*a* EnG**[^9b-1]
+
+<sup>1</sup> Bauten und Anlagen zur Abklärung der Standorteignung von Photovoltaik-Grossanlagen nach Artikel 71*a* EnG (Testanlagen) dürfen für eine Dauer von maximal 24 Monaten ohne Baubewilligung errichtet oder geändert werden.
+
+<sup>2</sup>
+
+Die Bauherrschaft meldet Testanlagen nach Absatz 1 vor Aufnahme der Arbeiten der zuständigen Behörde und reicht dabei folgende Unterlagen ein:
+
+- a. die vorgesehene Versuchsanordnung;
+- b. eine Auflistung der im Zusammenhang mit der Testanlage zu klärenden Fragen;
+- c. eine fotografische Dokumentation des betroffenen Geländes vor der Erstellung der Testanlage.
+
+<sup>3</sup> Nach Abschluss der Versuchstätigkeit hat sie die Testanlage vollständig zurückzubauen und die Ausgangslage umgehend wiederherzustellen. Sie hat dies gegenüber der zuständigen Behörde zu belegen.
+
+[^9b-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ## 4. Kapitel: Einspeisung netzgebundener Energie und Eigenverbrauch
 
@@ -288,27 +312,26 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 **Anlagenleistung**
 
-<sup>1</sup> Die Leistung einer Photovoltaikanlage bemisst sich nach der normierten Gleichstrom-Spitzenleistung des Solarstromgenerators.
+<sup>1</sup> Die Leistung einer Photovoltaikanlage bemisst sich nach der normierten Gleichstrom-Spitzenleistung der Vorderseite des Solarstromgenerators.[^13-1]
 
-<sup>2</sup> Die Leistung einer Wasserkraftanlage bezieht sich auf die mittlere mechanische Bruttoleistung. Für deren Berechnung gilt Artikel 51 des Wasserrechtsgesetzes vom 22. Dezember 1916[^13-1].
+<sup>2</sup> Die Leistung einer Wasserkraftanlage bezieht sich auf die mittlere mechanische Bruttoleistung. Für deren Berechnung gilt Artikel 51 des Wasserrechtsgesetzes vom 22. Dezember 1916[^13-2].
 
 <sup>3</sup> Die Leistung von Biomasse-, Windenergie- und Geothermieanlagen bemisst sich nach der Nennleistung des Stromgenerators.
 
-[^13-1]: [SR 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^13-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^13-2]: [SR 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
 
 ### 2. Abschnitt: Eigenverbrauch
 
 #### Art. 14
 
-**Ort der Produktion**
+**Ort der Produktion**[^14-1]
 
 <sup>1</sup> Als Ort der Produktion gilt das Grundstück, auf dem die Produktionsanlage liegt.
 
-<sup>2</sup> Als Ort der Produktion gelten ebenfalls zusammenhängende Grundstücke, von denen mindestens eines an das Grundstück grenzt, auf dem die Produktionsanlage liegt. Grundstücke, die einzig durch eine Strasse, ein Eisenbahntrassee oder ein Fliessgewässer voneinander getrennt sind, gelten unter Vorbehalt der Zustimmung der jeweiligen Grundeigentümerin oder des jeweiligen Grundeigentümers ebenfalls als zusammenhängend.[^14-1]
+<sup>2</sup> Der Ort der Produktion kann weitere Grundstücke umfassen, sofern die selber produzierte Elektrizität auch auf diesen Grundstücken ohne Inanspruchnahme des Verteilnetzes verbraucht werden kann.
 
-<sup>3</sup> Als am Ort der Produktion selber verbraucht gilt nur die Elektrizität, die zwischen der Produktionsanlage und dem Verbrauch das Verteilnetz des Netzbetreibers nicht in Anspruch genommen hat.
-
-[^14-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 15
 
@@ -328,25 +351,18 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 <sup>1</sup>
 
-Die Grundeigentümerin oder der Grundeigentümer stellt den einzelnen Mieterinnen und Mietern und Pächterinnen und Pächtern folgende Kosten abzüglich der Erlöse aus der eingespeisten Elektrizität in Rechnung:
+Die Grundeigentümerin oder der Grundeigentümer stellt den einzelnen Mieterinnen und Mietern und Pächterinnen und Pächtern gemäss den folgenden Grundsätzen Rechnung:
 
-- a.
+- a. Für die extern bezogene Elektrizität sind die Kosten verbrauchsabhängig anzulasten; dazu gehören, einschliesslich aller Abgaben, die Kosten der Energie, der Netznutzung und der Messung am Messpunkt des Zusammenschlusses.
+- b. Für die intern produzierte Elektrizität und die Kosten der internen Messung, der Datenbereitstellung, der Verwaltung und der Abrechnung des Zusammenschlusses (interne Kosten) darf pauschal maximal 80 Prozent des Betrags in Rechnung gestellt werden, der im Falle einer Nichtteilnahme am Zusammenschluss beim Bezug des externen Standardstromprodukts für die entsprechende Strommenge zu entrichten wäre.[^16-1]
 
-  für die intern produzierte Elektrizität:
+<sup>1bis</sup> …[^16-2]
 
-  - 1\. die anrechenbaren Kapitalkosten der Anlage,
-  - 2\. die Kosten für den Betrieb und den Unterhalt der Anlage;
+<sup>2</sup> Für die internen Kosten kann die Grundeigentümerin oder der Grundeigentümer anstelle der Pauschale nach Absatz 1 Buchstabe b auch die Kosten in Rechnung stellen, die effektiv angefallen sind, abzüglich der Erlöse aus der eingespeisten Elektrizität.[^16-3]
 
-- b. die Kosten für die extern bezogene Elektrizität; und
-- c. die Kosten für die interne Messung, Datenbereitstellung, Verwaltung und Abrechnung.[^16-1]
+<sup>2bis</sup> …[^16-4]
 
-<sup>1bis</sup> Die Kosten nach Absatz 1 Buchstaben a und b werden verbrauchsabhängig in Rechnung gestellt, diejenigen nach Absatz 1 Buchstabe c können verbrauchsabhängig oder zu gleichen Teilen in Rechnung gestellt werden.[^16-2]
-
-<sup>2</sup> Die anrechenbaren Kapitalkosten dürfen den angemessenen Satz für Verzinsung und Amortisation der Investition nicht überschreiten.
-
-<sup>2bis</sup> Übernimmt ein Dritter die Finanzierung der Anlage und nimmt er dazu Fremdkapital auf, so kann die Grundeigentümerin oder der Grundeigentümer wählen, ob sie oder er die nach Absatz 2 berechneten Kapitalkosten oder stattdessen die tatsächlich anfallenden Schuldzinsen in Rechnung stellt.[^16-3]
-
-<sup>3</sup> Den Mieterinnen und Mietern darf für die internen Kosten nach Absatz 1 Buchstaben a und c nicht mehr in Rechnung gestellt werden, als die Kosten des externen Standardstromprodukts betragen würden, wenn die Mieterinnen und Mieter nicht Teil des Zusammenschlusses wären. Sind die internen Kosten tiefer als die Kosten dieses externen Standardstromprodukts, so kann die Grundeigentümerin oder der Grundeigentümer den Mieterinnen und Mietern zusätzlich höchstens die Hälfte der erzielten Einsparung in Rechnung stellen.[^16-4]
+<sup>3</sup> Werden die internen Kosten nach Absatz 2 abgerechnet, so darf die Grundeigentümerin oder der Grundeigentümer maximal den Betrag in Rechnung stellen, der für die entsprechende Strommenge beim Bezug des externen Standardstromprodukts zu entrichten wäre. Sind die internen Kosten tiefer als die Kosten dieses externen Standardstromprodukts, so darf zusätzlich zu den internen Kosten höchstens die Hälfte der erzielten Einsparung in Rechnung gestellt werden.[^16-5]
 
 <sup>4</sup>
 
@@ -365,13 +381,14 @@ Mieterinnen und Mieter und Pächterinnen und Pächter können ihre Teilnahme am 
 
 <sup>6</sup> Die Beendigung ist der Grundeigentümerin oder dem Grundeigentümer drei Monate im Voraus schriftlich und begründet mitzuteilen.
 
-<sup>7</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern und Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-5] zu führen, befreit.
+<sup>7</sup> Grundeigentümerinnen und Grundeigentümer, die für die Versorgung von Mieterinnen und Mietern und Pächterinnen und Pächtern zuständig sind, sind von der Pflicht, die Tarife zu veröffentlichen und eine Kostenträgerrechnung nach Artikel 4 StromVV[^16-6] zu führen, befreit.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-3]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^16-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^16-5]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-4]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-6]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
 #### Art. 17
 
@@ -410,7 +427,11 @@ Grundeigentümerinnen und Grundeigentümer haben dem Netzbetreiber je drei Monat
 [^18-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^18-3]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
-## 5. Kapitel: Wettbewerbliche Ausschreibungen für Effizienzmassnahmen, Geothermie-Erkundungsbeiträge und Geothermie-Garantien sowie Entschädigung für Sanierungsmassnahmen bei Wasserkraftwerken
+## 5. Kapitel: Wettbewerbliche Ausschreibungen für Effizienzmassnahmen, Geothermie-Garantien und Entschädigung für Sanierungsmassnahmen bei Wasserkraftwerken
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ### 1. Abschnitt: Wettbewerbliche Ausschreibungen für Effizienzmassnahmen
 
@@ -465,17 +486,21 @@ Das BFE publiziert zu den wettbewerblichen Ausschreibungen jährlich folgende An
 
 <sup>2</sup> Es kann zudem die von Projekt- und Programmträgern eingereichten Eingaben sowie die verfassten Zwischen- und Schlussberichte unter Wahrung des Geschäfts- und Fabrikationsgeheimnisses publizieren.
 
-### 2. Abschnitt: Geothermie-Erkundungsbeiträge und Geothermie-Garantien
+### 2. Abschnitt: Geothermie-Garantien
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 23
 
-**Anspruchsvoraussetzungen und Gesuch**
+**Anspruchsvoraussetzungen und Gesuch**[^23-1]
 
-<sup>1</sup> Geothermie-Erkundungsbeiträge können geleistet werden, wenn ein Projekt die Voraussetzungen nach Anhang 1 erfüllt.
+<sup>1</sup> Geothermie-Garantien können geleistet werden, wenn ein Projekt die Voraussetzungen nach Anhang 2 erfüllt.
 
-<sup>2</sup> Geothermie-Garantien können geleistet werden, wenn ein Projekt die Voraussetzungen nach Anhang 2 erfüllt.
+<sup>2</sup> Die Gesuche für Geothermie-Garantien sind dem BFE einzureichen. Das Gesuch muss den Anforderungen nach Anhang 2 Ziffer 3.1 entsprechen und den Nachweis enthalten, dass die Gesuche um die für das Projekt notwendigen Bewilligungen und Konzessionen bei den zuständigen Behörden vollständig eingereicht wurden und die Finanzierung des Projekts gesichert ist.
 
-<sup>3</sup> Die Gesuche für Geothermie-Erkundungsbeiträge oder für Geothermie-Garantien sind dem BFE einzureichen. Das Gesuch muss den Anforderungen nach Anhang 1 Ziffer 3.1 oder 4.2 beziehungsweise Anhang 2 Ziffer 3.1 entsprechen und den Nachweis enthalten, dass die Gesuche um die für das Projekt notwendigen Bewilligungen und Konzessionen bei den zuständigen Behörden vollständig eingereicht wurden und die Finanzierung des Projekts gesichert ist.
+[^23-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 24
 
@@ -485,9 +510,12 @@ Das BFE publiziert zu den wettbewerblichen Ausschreibungen jährlich folgende An
 
 <sup>2</sup> Das Expertengremium begutachtet die Gesuche und gibt zuhanden des BFE eine Empfehlung für die Beurteilung des Projekts ab. Bei der Empfehlung zuhanden des BFE hat die Kantonsvertreterin oder der Kantonsvertreter keine Stimme. Das Expertengremium kann zur Erfüllung seiner Aufgaben weitere Fachleute beiziehen.
 
-<sup>3</sup> Das Verfahren richtet sich für die Geothermie-Erkundungsbeiträge nach Anhang 1 Ziffern 3 und 4 und für die Geothermie-Garantie nach Anhang 2 Ziffer 3.
+<sup>3</sup> Das Verfahren richtet sich nach Anhang 2 Ziffer 3.[^24-1]
 
-<sup>4</sup> Sind die Voraussetzungen für die Leistung eines Geothermie-Erkundungsbeitrags oder einer Geothermie-Garantie gegeben, so schliesst der Bund mit der Gesuchstellerin oder dem Gesuchsteller einen verwaltungsrechtlichen Vertrag ab. Darin sind insbesondere die Voraussetzungen für die Rückforderung nach Artikel 27 festzuhalten.
+<sup>4</sup> Sind die Voraussetzungen für die Leistung einer Geothermie-Garantie gegeben, so schliesst der Bund mit der Gesuchstellerin oder dem Gesuchsteller einen verwaltungsrechtlichen Vertrag ab. Darin sind insbesondere die Voraussetzungen für die Rückforderung nach Artikel 27 festzuhalten.[^24-2]
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 25
 
@@ -508,15 +536,13 @@ Die Geothermie-Garantie wird auf Gesuch hin ausbezahlt, wenn ein Projekt als Tei
 
 #### Art. 27
 
-**Rückforderung**
+**Rückforderung**[^27-1]
 
-<sup>1</sup> Für die Rückforderung der Erkundungsbeiträge und der Geothermie-Garantien sind die Artikel 28–30 des Subventionsgesetzes vom 5. Oktober 1990[^27-1] (SuG) sinngemäss anwendbar.
+<sup>1</sup> Für die Rückforderung der Geothermie-Garantien sind die Artikel 28–30 des Subventionsgesetzes vom 5. Oktober 1990[^27-2] (SuG) sinngemäss anwendbar.
 
-<sup>2</sup> Das BFE kann zudem Erkundungsbeiträge zurückfordern, wenn mit dem Betrieb der Anlage Gewinne erwirtschaftet werden, die die Förderung im Nachhinein als unnötig erscheinen lassen.
+<sup>2</sup> Wird das Projekt anderweitig genutzt und damit ein Gewinn erzielt, so kann das BFE die anteilsmässige oder vollständige Rückzahlung der ausbezahlten Geothermie-Garantien verfügen.
 
-<sup>3</sup> Wird das Projekt anderweitig genutzt und damit ein Gewinn erzielt, so kann das BFE die anteilsmässige oder vollständige Rückzahlung der ausbezahlten Erkundungsbeiträge und Geothermie-Garantien verfügen.
-
-<sup>4</sup>
+<sup>3</sup>
 
 Das BFE ist vor einer anderweitigen Nutzung oder einer Veräusserung zu informieren über:
 
@@ -524,7 +550,8 @@ Das BFE ist vor einer anderweitigen Nutzung oder einer Veräusserung zu informie
 - b. die Eigentumsverhältnisse und die Trägerschaft;
 - c. allfällige Gewinne und deren Umfang.
 
-[^27-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^27-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### 3. Abschnitt: Entschädigung für Sanierungsmassnahmen bei Wasserkraftanlagen
 
@@ -1150,7 +1177,7 @@ Das BFE unterbreitet Gesuche um Finanzhilfen an Einzelprojekte, die für die Kan
 
 [^68-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
-## 10. Kapitel: Untersuchung der Wirkungen, Geodaten und Datenbearbeitung****
+## 10. Kapitel: Untersuchung der Wirkungen, Geodaten und Datenbearbeitung
 
 [^chap10-1]
 
@@ -1302,171 +1329,9 @@ Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher na
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
-(Art. 23 und 24)
-
-## Geothermie-Erkundungsbeiträge
-
-### 1 Prospektion und Exploration
-
-- 1\.1 Geothermie-Erkundungsbeiträge dienen der Prospektion und Exploration des Untergrunds mit dem Ziel, ein Geothermie-Reservoir nachzuweisen.
-- 1\.2 Die Prospektion umfasst Untersuchungen, die einerseits der indirekten Charakterisierung des Untergrunds eines vermuteten Geothermie-Reservoirs und andererseits der Bestimmung des obertägigen Standortes sowie des unterirdischen Landepunktes einer Explorationsbohrung dienen.
-- 1\.3 Die Exploration nach einem Geothermie-Reservoir erfolgt mittels einer Bohrung und dient der Bestätigung eines vermuteten Geothermie-Reservoirs und der Bestimmung des Ertragspotenzials (Höffigkeit).
-
-### 2 Anrechenbare Investitionskosten
-
-- 2\.1
-
-  Im Rahmen der Prospektion anrechenbar sind nur Investitionskosten, die tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung erforderlich sind, für die:
-
-  - a. Akquisition neuer Geodaten im Prospektionsgebiet;
-  - b. Arbeiten, die für die Akquisition neuer Geodaten anfallen;
-  - c. Analyse und Interpretation.
-
-- 2\.2
-
-  Im Rahmen der Exploration anrechenbar sind nur Investitionskosten, die tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung erforderlich sind, für:
-
-  - a. Vorbereitung, Erstellung und Abbau des Bohrplatzes;
-  - b. Bohrungen inklusive Verrohrung, Zementation und Komplettierung für die geplante Explorationsbohrung sowie von Horchbohrungen;
-  - c. Bohrlochstimulationen;
-  - d. Bohrlochtests;
-  - e. Bohrlochmessungen inklusive Instrumentierung;
-  - f. Analysen vorgefundener Substanzen;
-  - g. geologische Begleitung, Datenanalyse und Interpretation.
-
-- 2\.3 Nicht anrechenbar sind die Kosten, die im Rahmen von behördlichen Abläufen im Zusammenhang mit der Erkundung anfallen.
-
-### 3 Verfahren für einen Prospektionsbeitrag
-
-- 3\.1 Gesuch
--
-
-  Das Gesuch muss Auskunft geben über die technischen, ökonomischen, rechtlichen, sicherheits- und umweltschutzrelevanten sowie die organisatorischen Belange des Projekts, insbesondere über:
-
-  - a. den Stand des heutigen Wissens im Erkundungsgebiet mittels einer Aufarbeitung aller bestehenden Geodaten, Analysen und Interpretationen;
-  - b. die erdwissenschaftlichen Prospektionen, die für die Bestimmung des Standorts und des Landungspunkts der Explorationsbohrung geplant sind und der Auffindung und Charakterisierung des Geothermie-Reservoirs dienen und darüber, wie hoch die Wahrscheinlichkeit ist, ein solches Reservoir zu finden;
-  - c. mögliche Nutzungskonzepte bei erfolgreicher Prospektion sowie vorläufige Wirtschaftlichkeitsberechnungen;
-  - d. die detaillierten Terminpläne und Kostenschätzungen mit Abweichungen von höchstens 20 Prozent;
-  - e. die Massnahmen, die geplant sind zur Erfassung von Gefahren und Risiken für Gesundheit, Arbeits- und Betriebssicherheit und Umwelt, insbesondere Trinkwasserressourcen, und der Minderung der Risiken auf ein Niveau, das möglichst gering und vernünftigerweise praktikabel ist.
-
-- 3\.2 Prüfung des Gesuchs
-- 3\.2.1 Das BFE ernennt eine Vertreterin oder einen Vertreter des Bundesamtes für Landestopografie (swisstopo) insbesondere für die Beurteilung der erdwissenschaftlichen Projektkomponenten und des Mehrwerts für die Erkundung der Schweiz in das unabhängige Expertengremium.
-- 3\.2.2
-
-  Das Expertengremium prüft und beurteilt das Gesuch anhand der Auskünfte nach Ziffer 3.1 und insbesondere hinsichtlich:
-
-  - a. der geplanten Prospektionsarbeiten und des Projektmanagements;
-  - b. des technischen und qualitativen Standes der geplanten Arbeiten und des Innovationsgehalts;
-  - c. der Frage, um wie viel die Prospektionsarbeiten die Wahrscheinlichkeit erhöhen, ein Geothermie-Reservoir mittels einer Explorationsbohrung vorzufinden;
-  - d. des Mehrwerts für die Erkundung des Untergrunds der Schweiz nach Geothermie-Reservoiren;
-  - e. des Managements der Risiken für die Gesundheit, die Arbeits- und Betriebssicherheit und die Umwelt.
-
-- 3\.2.3
-
-  Beurteilt das Expertengremium das Projekt positiv, so gibt es dem BFE insbesondere eine Empfehlung ab über:
-
-  - a. die zu erwartende Erhöhung der Wahrscheinlichkeit, ein Geothermie-Reservoir vorzufinden;
-  - b. die Fristen für die Projektetappen;
-  - c. die Höhe des zu gewährenden Prospektionsbeitrags;
-  - d. die Einsetzung einer Vertreterin oder eines Vertreters des swisstopo als Projektbegleiterin oder als Projektbegleiter.
-
-- 3\.3 Vertrag
--
-
-  Kann der Prospektionsbeitrag gewährt werden, so werden im Vertrag nach Artikel 24 Absatz 4 insbesondere folgende Punkte geregelt:
-
-  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichenden Meilensteine und die einzuhaltenden Termine;
-  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
-  - c. Umfang, Bedingungen und Fälligkeiten des Prospektionsbeitrags;
-  - d. vorbehaltlich kantonaler Monopole die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird;
-  - e. die Offenlegung aller finanzieller Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach Artikel 27 notwendig sind;
-  - f. Gründe, die zur Vertragsauflösung führen;
-  - g. weitere Auflagen.
-
-- 3\.4 Projektdurchführung und Projektabschluss
-- 3\.4.1 Die Projektantin oder der Projektant führt die geplanten Prospektionsarbeiten durch.
-- 3\.4.2 Die Projektbegleiterin oder der Projektbegleiter begleitet das Projekt während der Prospektionsarbeiten. Sie oder er evaluiert die Ergebnisse und erstattet dem Expertengremium regelmässig Bericht.
-- 3\.4.3 Werden die Meilensteine oder die Termine nach Ziffer 3.3 Buchstabe a nicht eingehalten, so kann das BFE den Vertrag unverzüglich auflösen.
-- 3\.4.4 Nach Abschluss der Arbeiten evaluiert das Expertengremium zuhanden des BFE die Ergebnisse der Prospektionsarbeiten und beurteilt die Ergebnisse hinsichtlich erwarteter Erhöhung der Wahrscheinlichkeit, ein vermutetes Geothermie-Reservoir vorzufinden.
-
-### 4 Verfahren für einen Explorationsbeitrag
-
-- 4\.1
-
-  Ein Gesuch für einen Explorationsbeitrag kann nur eingereicht werden, wenn:
-
-  - a. im betreffenden Gebiet vorgängig eine Prospektion durchgeführt wurde;
-  - b. ein Prospektionsbericht bezüglich der Wahrscheinlichkeit eines vermuteten Geothermie-Reservoirs vorliegt; und
-  - c. die Mindestanforderung gemäss Anhang 1.4 Ziffer 3 der Energieförderungsverordnung vom 1. November 2017[^annex1-lvlu1-lvl4-1] voraussichtlich erfüllt werden.
-
-- 4\.2 Gesuch
--
-
-  Das Gesuch muss Auskunft geben über die technischen, ökonomischen, rechtlichen, sicherheits- und umweltschutzrelevanten sowie organisatorischen Belange des Projekts, insbesondere über:
-
-  - a. das detaillierte Bohr-, Komplettierungs-, Mess- und Testprogramm der Explorationsbohrung;
-  - b. das detaillierte Bohr- und Komplettierungsprogramm sowie allfällige Mess- und Testprogramme der Horchbohrungen;
-  - c. die detaillierten Terminpläne und Kostenschätzungen mit Abweichungen von höchstens 20 Prozent;
-  - d. die erwarteten Eigenschaften des vermuteten Geothermie-Reservoirs, insbesondere dessen Temperatur im Bohrloch auf Höhe des Reservoirs und dessen Transporteigenschaften;
-  - e. die geplante Verwendung der Bohrungen und des Geothermie-Reservoirs, falls die Ergebnisse nicht den Erwartungen entsprechen;
-  - f. die geplanten Massnahmen zur Erfassung der Gefahren und der Risiken für Gesundheit, Arbeits- und Betriebssicherheit und Umwelt, insbesondere Trinkwasserressourcen, und die geplanten Massnahmen für die Minderung dieser Risiken auf ein Niveau, das möglichst gering und vernünftigerweise praktikabel ist;
-  - g. die Innovationen, die geplant sind, um die Geothermie-Reservoire in der Schweiz erfolgversprechend und zuverlässig zu erkunden;
-  - h. den Stellenwert der Explorationsbohrung in Bezug auf die Erkundung des Untergrunds der Schweiz nach Geothermie-Reservoiren;
-  - i. die vorgesehene juristische Form und Name oder Firma der Betreibergesellschaft;
-  - j. die Finanzierung und die Verwaltungskosten der Explorationsbohrung und die Finanzierung der folgenden Errichtungs- und Ausbauphasen sowie während des Betriebs und des gesamten Rückbaus.
-
-- 4\.3 Prüfung des Gesuchs
-- 4\.3.1 Das BFE ernennt eine Vertreterin oder einen Vertreter des swisstopo insbesondere für die Beurteilung der erdwissenschaftlichen Projektkomponenten und des Mehrwerts für die Erkundung der Schweiz in das unabhängige Expertengremium.
-- 4\.3.2
-
-  Das Expertengremium prüft und beurteilt das Gesuch anhand der Auskünfte nach Ziffer 4.2 und insbesondere hinsichtlich:
-
-  - a. der prognostizierten Eigenschaften des Geothermie-Reservoirs, insbesondere hinsichtlich dessen Temperatur im Bohrloch auf Höhe des Reservoirs und dessen Transporteigenschaften;
-  - b. des technischen und qualitativen Standes der geplanten Arbeiten und des Innovationsgehalts;
-  - c. des Mehrwerts für die Erkundung des Untergrunds der Schweiz nach geothermischen Geothermie-Reservoiren;
-  - d. des Managements der Risiken für Gesundheit, Arbeits- und Betriebssicherheit und sowie Umwelt.
-
-- 4\.3.3
-
-  Beurteilt das Expertengremium das Projekt positiv, so gibt es dem BFE insbesondere eine Empfehlung ab über:
-
-  - a. die erwartete Temperatur des Reservoirs im Bohrloch auf Höhe des Reservoirs und die Transporteigenschaften des Reservoirs;
-  - b. die Fristen für die Projektetappen;
-  - c. die Höhe des zu gewährenden Explorationsbeitrags;
-  - d. die Einsetzung einer unabhängigen Fachperson als Projektbegleiterin oder als Projektbegleiter.
-
-- 4\.4 Vertrag
--
-
-  Kann der Explorationsbeitrag gewährt werden, so werden im Vertrag nach Artikel 24 Absatz 4 insbesondere folgende Punkte geregelt:
-
-  - a. die von der Gesuchstellerin oder dem Gesuchsteller zu erreichende Meilensteine und die einzuhaltenden Termine;
-  - b. die Informationspflicht der Gesuchstellerin oder des Gesuchstellers gegenüber dem BFE namentlich bezüglich der Finanzrapporte, der Schlussabrechnungen und allfälliger Änderungen des Projekts;
-  - c. Umfang, Bedingungen und Fälligkeiten des Explorationsbeitrags;
-  - d. vorbehaltlich kantonaler Monopole die unentgeltliche Übertragung der Anlage auf den Bund und die Einräumung eines Kaufrechts am Grundstück zugunsten des Bundes, wenn ein Projekt nicht weiterverfolgt und auch nicht anderweitig genutzt wird;
-  - e. die Offenlegung aller finanzieller Daten, die zur Berechnung allfälliger Verluste oder Gewinne nach Artikel 27 notwendig sind;
-  - f. Gründe, die zur Vertragsauflösung führen;
-  - g. weitere Auflagen.
-
-- 4\.5 Projektdurchführung und Projektabschluss
-- 4\.5.1 Die Projektantin oder der Projektant führt die geplanten Explorationsarbeiten durch.
-- 4\.5.2 Die Projektbegleiterin oder der Projektbegleiter begleitet das Projekt während der Explorationsarbeiten. Sie oder er evaluiert die Ergebnisse, insbesondere hinsichtlich Temperatur und Transporteigenschaften des Reservoirs und erstattet dem Expertengremium regelmässig Bericht.
-- 4\.5.3 Werden die Meilensteine oder die Termine nach Ziffer 4.4 Buchstabe a nicht eingehalten, so kann das BFE den Vertrag unverzüglich auflösen.
-- 4\.5.4 Spätestens sechs Monate nach Abschluss der Explorationsarbeiten evaluiert das Expertengremium die Ergebnisse der Explorationsarbeiten.
-- 4\.5.5 Das BFE teilt der Projektantin oder dem Projektanten das Resultat der Prüfung, insbesondere dasjenige hinsichtlich des Geothermie-Reservoirs mit.
-
-[^annex1-lvlu1-lvl4-1]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-
-### 5 Geodaten
-
-- 5\.1 Die Gesuchstellerin oder der Gesuchsteller stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
-- 5\.2 Das swisstopo darf diese Geodaten gemäss den Zielsetzungen des Geoinformationsgesetzes vom 5. Oktober 2007[^annex1-lvlu1-lvl5-1] sowie der Landesgeologieverordnung vom 21. Mai 2008[^annex1-lvlu1-lvl5-2] nutzen und bearbeiten, die Standortkantone gemäss ihren jeweiligen kantonalen Regelungen.
-- 5\.3 Es stellt die primären und die prozessierten primären Geodaten innert 24 Monaten nach Abschluss der Prospektion und innert 12 Monaten nach Abschluss der Exploration der Öffentlichkeit zur Verfügung.
-
-[^annex1-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex1-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^t-1]: Aufgehoben durch Ziff. II der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 Anhang 2
 
@@ -1653,13 +1518,13 @@ Anhang 4
 - 1\.2 Grossforschungsanlage der Eidgenössischen Technischen Hochschule Lausanne
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Anhang 5*[^t-1]*
+Anhang 5[^t-2]
 
 (Art. 43 Abs. 1 und 3)
 
 ## Berechnung der Bruttowertschöpfung
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Bei Unternehmen, die der ordentlichen Revision nach Artikel 727 Absatz 1 OR[^annex5-lvlu1-1] unterliegen (Art. 43 Abs. 1), berechnet sich die Bruttowertschöpfung wie folgt:
 

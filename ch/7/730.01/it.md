@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20220101/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2022)
+del 1° novembre 2017 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -37,13 +37,15 @@ La presente ordinanza disciplina:
 - b. la pianificazione del territorio in relazione al potenziamento delle energie rinnovabili;
 - c. l’immissione di energia di rete e il consumo proprio;
 - d. i bandi di gara per misure di efficienza;
-- e. le garanzie per la geotermia e i contributi per l’esplorazione geotermica;
+- e.[^1-1] le garanzie per la geotermia;
 - f. l’indennizzo per le misure di risanamento concernenti gli impianti idroelettrici;
 - g. il supplemento rete;
 - h. l’impiego parsimonioso ed efficiente dell’energia negli edifici e nelle imprese;
 - i. le misure di promozione nel settore dell’energia;
 - j. la collaborazione internazionale nell’ambito di applicazione della LEne;
 - k. la verifica degli effetti e il trattamento dei dati.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ## Capitolo 2: Garanzia di origine ed etichettatura dell’elettricità
 
@@ -139,13 +141,13 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 [^6-1]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
-## Capitolo 3: Guichet unique, progetti nel settore idroelettrico e piani direttori cantonali, interesse nazionale e costruzioni e impianti non soggetti ad autorizzazione edilizia****
+## Capitolo 3: Guichet unique, progetti nel settore idroelettrico e piani direttori cantonali, interesse nazionale e costruzioni e impianti non soggetti ad autorizzazione edilizia
 
 [^chap3-1]
 
 [^chap3-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
-### Sezione 1: Guichet unique****
+### Sezione 1: Guichet unique
 
 [^chap3-sec1-1]
 
@@ -159,7 +161,7 @@ I gestori di rete devono notificare ogni trimestre all’organo d’esecuzione l
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
-### [Sezione 1*a*:](https://www.admin.ch/opc/it/classified-compilation/20162945/index.html) [Progetti nel settore idroelettrico e piani direttori cantonali](https://www.admin.ch/opc/it/classified-compilation/20162945/index.html)
+### Sezione 1*a*: Progetti nel settore idroelettrico e piani direttori cantonali
 
 [^chap3-sec1a-1]
 
@@ -229,7 +231,7 @@ Per valutare se un impianto eolico è di interesse nazionale è possibile consid
 
 <sup>3</sup> Gli impianti eolici e i parchi eolici esistenti sono considerati di interesse nazionale se attraverso il loro ampliamento o rinnovamento si raggiunge una produzione media prevista di almeno 20 GWh all’anno.
 
-### Sezione 3:**** Costruzioni e impianti non soggetti ad autorizzazione edilizia
+### Sezione 3: Costruzioni e impianti non soggetti ad autorizzazione edilizia
 
 [^chap3-sec3-1]
 
@@ -237,9 +239,31 @@ Per valutare se un impianto eolico è di interesse nazionale è possibile consid
 
 #### Art. 9a
 
+**Costruzioni e impianti finalizzati ad accertare l’adeguatezza dell’ubicazione di impianti eolici[^9a-1]**
+
 <sup>1</sup> Le costruzioni e gli impianti destinati a esaminare l’adeguatezza dell’ubicazione di impianti eolici possono essere edificati o modificati per una durata massima di 18 mesi senza autorizzazione edilizia.
 
 <sup>2</sup> I Cantoni possono prevedere una procedura di notifica.
+
+[^9a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+
+#### Art. 9b
+
+**Costruzioni e impianti finalizzati ad accertare l’adeguatezza dell’ubicazione di grandi impianti fotovoltaici di cui all’articolo 71*a* LEne**[^9b-1]
+
+<sup>1</sup> Costruzioni e impianti, finalizzati ad accertare l’adeguatezza dell’ubicazione dei grandi impianti fotovoltaici di cui all’articolo 71*a* LEne (impianti di prova) possono essere edificati o modificati senza autorizzazione edilizia per una durata non superiore a 24 mesi.
+
+<sup>2</sup>
+
+Il committente notifica all’autorità competente gli impianti di prova di cui al capoverso 1 prima di iniziare i lavori, consegnando la seguente documentazione:
+
+- a. la configurazione prevista per le prove;
+- b. le questioni da chiarire in relazione all’impianto di prova;
+- c. una documentazione fotografica dei luoghi prima dell’edificazione dell’impianto di prova.
+
+<sup>3</sup> Terminate le prove, il committente smantella completamente l’impianto e ripristina immediatamente la situazione originaria, fornendone la relativa prova all’autorità.
+
+[^9b-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 ## Capitolo 4: Immissione di energia di rete e consumo proprio
 
@@ -292,27 +316,26 @@ Il gestore di rete deve ritirare e rimunerare:
 
 **Potenza dell’impianto**
 
-<sup>1</sup> La potenza di un impianto fotovoltaico si misura in base alla potenza di punta normalizzata in corrente continua del generatore solare.
+<sup>1</sup> La potenza di un impianto fotovoltaico si misura in base alla potenza di punta normalizzata in corrente continua sul lato anteriore del generatore solare.[^13-1]
 
-<sup>2</sup> La potenza di un impianto idroelettrico si riferisce alla potenza meccanica lorda media. Per il suo calcolo si applica l’articolo 51 della legge del 22 dicembre 1916[^13-1] sulle forze idriche.
+<sup>2</sup> La potenza di un impianto idroelettrico si riferisce alla potenza meccanica lorda media. Per il suo calcolo si applica l’articolo 51 della legge del 22 dicembre 1916[^13-2] sulle forze idriche.
 
 <sup>3</sup> La potenza degli impianti a biomassa, eolici e geotermici si misura in base alla potenza nominale del generatore elettrico.
 
-[^13-1]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^13-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^13-2]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
 
 ### Sezione 2: Consumo proprio
 
 #### Art. 14
 
-**Luogo di produzione**
+**Luogo di produzione**[^14-1]
 
 <sup>1</sup> Il luogo di produzione è il fondo su cui è ubicato l’impianto di produzione.
 
-<sup>2</sup> Sono considerati luogo di produzione anche i fondi contigui dei quali almeno uno confinante con il fondo su cui è ubicato l’impianto di produzione. I fondi separati gli uni dagli altri unicamente da una strada, una ferrovia o un corso d’acqua, con riserva dell’approvazione del rispettivo proprietario del fondo valgono ugualmente come contigui.[^14-1]
+<sup>2</sup> Il luogo di produzione può comprendere altri fondi, se anche su questi si può consumare l’elettricità autoprodotta senza utilizzare la rete di distribuzione.
 
-<sup>3</sup> È considerata utilizzata nel luogo di produzione soltanto l’elettricità che tra l’impianto di produzione e il consumo non ha utilizzato la rete di distribuzione del gestore di rete.
-
-[^14-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
+[^14-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 15
 
@@ -332,25 +355,18 @@ Il gestore di rete deve ritirare e rimunerare:
 
 <sup>1</sup>
 
-Il proprietario fondiario addebita ai singoli locatari e affittuari i seguenti costi, dedotti i ricavi conseguiti attraverso l’elettricità immessa in rete:
+Il proprietario fondiario addebita ai singoli locatari e affittuari conformemente ai seguenti principi:
 
-- a.
+- a. per l’elettricità acquistata esternamente, i costi in funzione del consumo, comprendenti, oltre a tutte le tasse, i costi dell’energia, dell’utilizzazione della rete e della misurazione nel punto di misurazione del raggruppamento;
+- b. per l’elettricità prodotta internamente e per i costi della misurazione interna, della fornitura dei dati, dell’amministrazione e della contabilizzazione del raggruppamento (costi interni) può essere addebitato a titolo forfettario al massimo l’80 per cento dell’importo che, in caso di mancata partecipazione al raggruppamento, sarebbe dovuto nel quadro del prodotto elettrico standard esterno per la quantità di energia elettrica corrispondente.[^16-1]
 
-  per l’elettricità prodotta internamente:
+<sup>1bis</sup> ...[^16-2]
 
-  - 1\. i costi del capitale computabili dell’impianto,
-  - 2\. i costi per l’esercizio e la manutenzione dell’impianto;
+<sup>2</sup> Per quanto riguarda i costi interni, il proprietario fondiario può addebitare, anziché l’importo forfettario di cui al capoverso 1 lettera b, anche i costi effettivamente sostenuti, dedotti i ricavi conseguiti attraverso l’elettricità immessa in rete.[^16-3]
 
-- b. i costi per l’elettricità acquistata esternamente; e
-- c. i costi per la misurazione interna, la fornitura dei dati, l’amministrazione e la contabilizzazione.[^16-1]
+<sup>2bis</sup> ...[^16-4]
 
-<sup>1bis</sup> I costi di cui al capoverso 1 lettere a e b vengono addebitati in funzione del consumo; i costi di cui al capoverso 1 lettera c possono essere addebitati in funzione del consumo o proporzionalmente.[^16-2]
-
-<sup>2</sup> I costi del capitale computabili non possono superare l’aliquota adeguata per gli interessi e l’ammortamento dell’investimento.
-
-<sup>2bis</sup> Se un soggetto terzo si assume il finanziamento dell’impianto e a tale scopo ricorre a capitale di debito, il proprietario fondiario può scegliere se fatturare i costi del capitale calcolati secondo il capoverso 2 oppure gli interessi passivi effettivamente sostenuti.[^16-3]
-
-<sup>3</sup> I costi interni di cui al capoverso 1 lettere a e c addebitati ai locatari non possono superare i costi del prodotto elettrico standard esterno che essi pagherebbero se non facessero parte del raggruppamento. Se tali costi interni sono inferiori ai costi di questo prodotto elettrico standard esterno, il proprietario fondiario può addebitare ai locatari a titolo aggiuntivo al massimo la metà del risparmio conseguito.[^16-4]
+<sup>3</sup> Qualora i costi interni vengano contabilizzati secondo il capoverso 2, il proprietario fondiario può fatturare al massimo l’importo che sarebbe dovuto nel quadro del prodotto elettrico standard esterno per la quantità di energia elettrica corrispondente. Qualora i costi interni risultino inferiori ai costi di tale prodotto standard esterno, oltre ai costi interni può essere fatturata al massimo la metà del risparmio ottenuto.[^16-5]
 
 <sup>4</sup>
 
@@ -369,13 +385,14 @@ I locatari e gli affittuari possono uscire dal raggruppamento soltanto se:
 
 <sup>6</sup> L’uscita dal raggruppamento deve essere comunicata al proprietario fondiario per scritto con un preavviso di tre mesi e corredata di una motivazione.
 
-<sup>7</sup> I proprietari fondiari a cui spetta l’approvvigionamento elettrico di locatari o affittuari sono esentati dall’obbligo di pubblicazione delle tariffe e dalla tenuta di una contabilità per unità finale di imputazione di cui all’articolo 4 OAEl[^16-5].
+<sup>7</sup> I proprietari fondiari a cui spetta l’approvvigionamento elettrico di locatari o affittuari sono esentati dall’obbligo di pubblicazione delle tariffe e dalla tenuta di una contabilità per unità finale di imputazione di cui all’articolo 4 OAEl[^16-6].
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-2]: Introdotto dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
-[^16-3]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
-[^16-4]: Nuovo testo giusta il n. I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
-[^16-5]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-2]: Introdotto dal n. I dell’O del 27 feb. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-4]: Introdotto dal n. I dell’O del 24 nov. 2021 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^16-6]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
 
 #### Art. 17
 
@@ -414,9 +431,17 @@ I proprietari fondiari sono tenuti a notificare al gestore di rete con un antici
 [^18-2]: Introdotta dal n. I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 913](https://fedlex.data.admin.ch/eli/oc/2019/163)).
 [^18-3]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
 
-## Capitolo 5: Bandi di gara per misure di efficienza, contributi per l’esplorazione geotermica e garanzie per la geotermia nonché indennizzo per le misure di risanamento concernenti impianti idroelettrici
+## Capitolo 5: Bandi di gara per misure di efficienza, garanzie per la geotermia e indennizzo per le misure di risanamento concernenti impianti idroelettrici
 
-### Sezione 1: Bandi di gara per misure di efficienza
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+
+### Sezione 1: Bandi di gara per le misure di efficienza
+
+[^chap5-sec1-1]
+
+[^chap5-sec1-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 19
 
@@ -469,17 +494,21 @@ L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara
 
 <sup>2</sup> Esso può inoltre pubblicare i dati trasmessi dai responsabili del progetto o del programma nonché i rapporti intermedi e finali stilati, nel rispetto del segreto d’affari e di fabbricazione.
 
-### Sezione 2: Contributi per l’esplorazione geotermica e garanzie per la geotermia
+### Sezione 2: Garanzie per la geotermia
+
+[^chap5-sec2-1]
+
+[^chap5-sec2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 23
 
-**Requisiti per il diritto e domanda**
+**Requisiti per il diritto e domanda**[^23-1]
 
-<sup>1</sup> Possono essere erogati contributi per l’esplorazione geotermica se un progetto soddisfa i requisiti di cui all’allegato 1.
+<sup>1</sup> Possono essere prestate garanzie per la geotermia se un progetto soddisfa i requisiti di cui all’allegato 2.
 
-<sup>2</sup> Possono essere prestate garanzie per la geotermia se un progetto soddisfa i requisiti di cui all’allegato 2.
+<sup>2</sup> La domanda di garanzia per la geotermia viene presentata all’UFE. Essa deve soddisfare i requisiti di cui all’allegato 2 numero 3.1 e contenere la prova che le domande di rilascio delle autorizzazioni e delle concessioni necessarie al progetto sono state integralmente presentate alle autorità competenti e il finanziamento del progetto è garantito.
 
-<sup>3</sup> La domanda di contributo per l’esplorazione geotermica o di garanzia per la geotermia viene presentata all’UFE. Essa deve soddisfare i requisiti di cui all’allegato 1 numero 3.1 o allegato 2 numero 3.1 e contenere la prova che le domande di rilascio delle autorizzazioni e delle concessioni necessarie al progetto sono state integralmente presentate alle autorità competenti e il finanziamento del progetto è garantito.
+[^23-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 24
 
@@ -489,9 +518,12 @@ L’UFE pubblica annualmente le seguenti indicazioni concernenti i bandi di gara
 
 <sup>2</sup> Il gruppo di esperti esamina le domande e trasmette all’UFE una raccomandazione per la valutazione del progetto. Il rappresentante del Cantone non ha voce in capitolo nella raccomandazione. Nell’adempimento del proprio compito il gruppo di esperti può coinvolgere altri specialisti.
 
-<sup>3</sup> Per i contributi per l’esplorazione geotermica, la procedura si basa sull’allegato 1 numeri 3 e 4 e per le garanzie per la geotermia sull’allegato 2 numero 3.
+<sup>3</sup> La procedura si basa sull’allegato 2 numero 3.[^24-1]
 
-<sup>4</sup> Se sono soddisfatti i requisiti per l’erogazione di un contributo per l’esplorazione geotermica o per la prestazione di una garanzia per la geotermia, la Confederazione conclude con il richiedente un contratto di diritto amministrativo. In esso si stabiliscono in particolare le condizioni per la restituzione secondo l’articolo 27.
+<sup>4</sup> Se sono soddisfatti i requisiti per la prestazione di una garanzia per la geotermia, la Confederazione conclude con il richiedente un contratto di diritto amministrativo. In esso si stabiliscono in particolare le condizioni per la restituzione secondo l’articolo 27.[^24-2]
+
+[^24-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^24-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 #### Art. 25
 
@@ -512,15 +544,13 @@ La garanzia per la geotermia è versata previa presentazione della domanda se un
 
 #### Art. 27
 
-**Restituzione**
+**Restituzione**[^27-1]
 
-<sup>1</sup> Per la restituzione dei contributi per l’esplorazione geotermica e delle garanzie per la geotermia si applicano per analogia gli articoli 28–30 della legge del 5 ottobre 1990[^27-1] sui sussidi (LSu).
+<sup>1</sup> Per la restituzione delle garanzie per la geotermia si applicano per analogia gli articoli 28–30 della legge del 5 ottobre 1990[^27-2] sui sussidi (LSu).
 
-<sup>2</sup> L’UFE può inoltre disporre la restituzione dei contributi per l’esplorazione geotermica, se l’esercizio di un impianto ha prodotto utili tali da dimostrare a posteriori che il contributo non sarebbe stato necessario.
+<sup>2</sup> Qualora il progetto sia utilizzato per altri scopi e permetta di conseguire un utile, l’UFE può disporre la restituzione parziale o totale delle garanzie per la geotermia prestate.
 
-<sup>3</sup> Qualora il progetto sia utilizzato per altri scopi e permetta di conseguire un utile, l’UFE può disporre la restituzione parziale o totale dei contributi per l’esplorazione geotermica versati e delle garanzie per la geotermia prestate.
-
-<sup>4</sup>
+<sup>3</sup>
 
 Prima di un utilizzo per altri scopi o di un’alienazione l’UFE deve essere informato in merito a:
 
@@ -528,7 +558,8 @@ Prima di un utilizzo per altri scopi o di un’alienazione l’UFE deve essere i
 - b. i rapporti di proprietà e i responsabili;
 - c. eventuali utili e il relativo ammontare.
 
-[^27-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^27-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
 ### Sezione 3: Indennizzo per le misure di risanamento concernenti impianti idroelettrici
 
@@ -1154,7 +1185,7 @@ L’UFE sottopone per parere al Cantone di ubicazione interessato le domande di 
 
 [^68-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
-## Capitolo 10: Verifica degli effetti, geodati e trattamento dei dati****
+## Capitolo 10: Verifica degli effetti, geodati e trattamento dei dati
 
 [^chap10-1]
 
@@ -1306,171 +1337,9 @@ Per i consumatori finali non aventi diritto al rimborso secondo l’articolo 39 
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato 1
+Allegato 1[^t-1]
 
-(art. 23 e 24)
-
-## Contributi per l’esplorazione geotermica
-
-### 1 Prospezione e attività di perforazione
-
-- 1\.1 I contributi per l’esplorazione geotermica servono alla prospezione e alle attività di perforazione del sottosuolo con l’obiettivo di individuare un serbatoio geotermico.
-- 1\.2 La prospezione comprende analisi volte da un lato alla caratterizzazione indiretta del sottosuolo di un presunto serbatoio geotermico e dall’altro alla determinazione dell’ubicazione in superficie nonché del punto di arrivo sotterraneo di una perforazione di sondaggio.
-- 1\.3 Le attività di perforazione servono a confermare la presenza di un presunto serbatoio geotermicoe a determinarne il potenziale produttivo e probabile ricavo*.*
-
-### 2 Costi d’investimento computabili
-
-- 2\.1
-
-  Nell’ambito della prospezione sono computabili solamente i costi d’investimento effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata delle seguenti attività:
-
-  - a. l’acquisizione di nuovi geodati nell’area di prospezione;
-  - b. le attività per l’acquisizione di nuovi geodati;
-  - c. l’analisi e l’interpretazione di geodati.
-
-- 2\.2
-
-  Nell’ambito delle attività di perforazione sono computabili soltanto i costi d’investimento effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata delle seguenti attività:
-
-  - a. la preparazione, la costruzione e lo smantellamento del cantiere di perforazione;
-  - b. le perforazioni, comprese tubazioni, cementazione e completamento per la perforazione di sondaggio prevista nonché per le perforazioni di monitoraggio;
-  - c. le stimolazioni del foro di trivellazione;
-  - d. le prove di pozzo;
-  - e. le misurazioni del foro di trivellazione, strumentazione compresa;
-  - f. l’analisi delle sostanze rinvenute;
-  - g. l’assistenza geologica, l’analisi dei dati e l’interpretazione.
-
-- 2\.3 Non sono computabili i costi generati nell’ambito di procedure ufficiali correlate all’esplorazione.
-
-### 3 Procedura per l’ottenimento di un contributo per la prospezione
-
-- 3\.1 Domanda
--
-
-  La domanda deve fornire informazioni su aspetti del progetto tecnici, economici, legali, organizzativi e rilevanti per la sicurezza e la protezione dell’ambiente, in particolare in merito a:
-
-  - a. lo stato delle attuali conoscenze nell’area oggetto dell’esplorazione mediante l’elaborazione dell’insieme di geodati, analisi e interpretazioni disponibili;
-  - b. le prospezioni geologiche previste che servono alla determinazione dell’ubicazione e del punto di arrivo della perforazione di sondaggio nonché all’individuazione e alla caratterizzazione del serbatoio geotermico e in merito alle probabilità di individuare tale serbatoio;
-  - c. i possibili piani di utilizzazione in caso di esito positivo della prospezione nonché i calcoli della redditività provvisori;
-  - d. i piani dettagliati delle scadenze e le stime dei costi con uno scarto massimo del 20 per cento;
-  - e. le misure previste per individuare i pericoli e i rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché per l’ambiente, in particolare per le riserve di acqua potabile, e volte a ridurre tali rischi al livello minimo e ragionevolmente praticabile.
-
-- 3\.2 Esame della domanda
-- 3\.2.1 L’UFE nomina all’interno del gruppo di esperti indipendente un rappresentante dell’Ufficio federale di topografia (swisstopo), in particolare per la valutazione delle componenti geologiche del progetto e del plusvalore per l’esplorazione in Svizzera.
-- 3\.2.2
-
-  Il gruppo di esperti esamina e valuta la domanda sulla base delle informazioni di cui al numero 3.1 e in particolare in merito ai seguenti aspetti:
-
-  - a. le attività di prospezione previste e la gestione del progetto;
-  - b. il livello tecnico e qualitativo dei lavori programmati e il tenore innovativo;
-  - c. in che misura le attività di prospezione accrescono le probabilità di individuare un serbatoio geotermico mediante una perforazione di sondaggio;
-  - d. il plusvalore per l’esplorazione di serbatoi geotermici nel sottosuolo svizzero;
-  - e. la gestione dei rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché l’ambiente.
-
-- 3\.2.3
-
-  Se valuta positivamente il progetto, il gruppo di esperti trasmette all’UFE in particolare una raccomandazione su:
-
-  - a. l’aumento atteso delle probabilità di individuare un serbatoio geotermico;
-  - b. le scadenze delle tappe del progetto;
-  - c. l’ammontare del contributo per la prospezione da concedere;
-  - d. l’impiego di un rappresentante di swisstopo con funzione di accompagnamento al progetto.
-
-- 3\.3 Contratto
--
-
-  Se sussistono i requisiti per la concessione del contributo per l’esplorazione geotermica, nel contratto vengono disciplinati secondo l’articolo 25 capoverso 4 in particolare i seguenti punti:
-
-  - a. le tappe principali che il richiedente deve raggiungere e le scadenze da rispettare;
-  - b. l’obbligo di informazione del richiedente nei confronti dell’UFE, segnatamente in relazione a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
-  - c. l’entità, le condizioni e la scadenza del contributo per la prospezione;
-  - d. fatti salvi monopoli cantonali, il trasferimento a titolo gratuito dell’impianto alla Confederazione e la concessione a quest’ultima di un diritto di compera del fondo, se un progetto non viene portato avanti e nemmeno utilizzato per altri scopi;
-  - e. la pubblicazione di tutti i dati finanziari necessari al calcolo di eventuali perdite o utili secondo l’articolo 28;
-  - f. i motivi che conducono allo scioglimento del contratto;
-  - g. ulteriori condizioni.
-
-- 3\.4 Svolgimento e conclusione del progetto
-- 3\.4.1 Il responsabile del progetto svolge i lavori di prospezione programmati.
-- 3\.4.2 L’accompagnatore del progetto segue il progetto durante i lavori di prospezione. Egli valuta i risultati delle prove e redige rapporti periodici per il gruppo di esperti.
-- 3\.4.3 Se non vengono rispettate le tappe o le scadenze di cui al numero 3.3 lettera a, l’UFE può sciogliere il contratto con effetto immediato.
-- 3\.4.4 Al termine delle attività, il gruppo di esperti valuta a beneficio dell’UFE i risultati dei lavori di prospezione e valuta i risultati in quanto all’aumento atteso delle probabilità di individuare un presunto serbatoio geotermico.
-
-### 4 Procedura per l’ottenimento di un contributo per le attività di perforazione
-
-- 4\.1
-
-  La domanda di un contributo per le attività di perforazione può essere presentata soltanto se:
-
-  - a. nell’area in questione è stata effettuata una prospezione;
-  - b. è disponibile un rapporto sulla prospezione relativo alla probabilità di individuare un presunto serbatoio geotermico; e
-  - c. il requisito minimo di cui all’allegato 1.4 numero 3 dell’ordinanza del 1° novembre 2017[^annex1-lvlu1-lvl4-1] sulla promozione della produzione di elettricità generata a partire da energie rinnovabili sarà presumibilmente soddisfatto.
-
-- 4\.2 Domanda
--
-
-  La domanda deve fornire informazioni su aspetti del progetto tecnici, economici, legali, organizzativi e rilevanti per la sicurezza e la protezione dell’ambiente, in particolare in merito a:
-
-  - a. il programma dettagliato delle perforazioni, del completamento, delle misurazioni e delle prove della perforazione di sondaggio;
-  - b. il programma dettagliato delle perforazioni e del completamento nonché di eventuali programmi delle misurazioni e delle prove delle perforazioni di monitoraggio;
-  - c. i piani dettagliati delle scadenze e le stime dei costi con uno scarto massimo del 20 per cento;
-  - d. le caratteristiche attese del presunto serbatoio geotermico, in particolare la temperatura nel foro di trivellazione all’altezza del serbatoio nonché le caratteristiche relative alla dinamica e trasporto di fluidi nel sottosuolo;
-  - e. l’utilizzazione prevista delle perforazioni e del serbatoio geotermico qualora i risultati non corrispondessero alle aspettative;
-  - f. le misure previste per individuare i pericoli e i rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché per l’ambiente, in particolare per le riserve di acqua potabile, e le misure previste volte a ridurre tali rischi al livello minimo e ragionevolmente praticabile;
-  - g. le innovazioni previste al fine di rendere promettente e affidabile l’esplorazione di serbatoi geotermici in Svizzera;
-  - h. il valore della perforazione di sondaggio in riferimento all’esplorazione di serbatoi geotermici nel sottosuolo svizzero;
-  - i. la forma giuridica prevista e il nome o la ragione sociale della società responsabile della gestione;
-  - j. il finanziamento e i costi amministrativi della perforazione di sondaggio, e il finanziamento delle successive fasi di costruzione e ampliamento, nonché durante la fase d’esercizio e dell’intera fase di smantellamento.
-
-- 4\.3 Esame della domanda
-- 4\.3.1 L’UFE nomina all’interno del gruppo di esperti indipendente un rappresentante di swisstopo, in particolare per la valutazione delle componenti geologiche del progetto e del plusvalore per l’esplorazione in Svizzera.
-- 4\.3.2
-
-  Il gruppo di esperti esamina e valuta la domanda sulla base delle informazioni di cui al numero 4.2, in particolare in merito a:
-
-  - a. le caratteristiche attese del presunto serbatoio geotermico, in particolare la temperatura nel foro di trivellazione all’altezza del serbatoio e le caratteristiche relative alla dinamica e trasporto di fluidi nel sottosuolo;
-  - b. il livello tecnico e qualitativo dei lavori programmati e del tenore innovativo;
-  - c. il plusvalore per l’esplorazione di serbatoi geotermici nel sottosuolo svizzero;
-  - d. la gestione dei rischi per la salute, la sicurezza sul lavoro e la sicurezza dell’esercizio nonché l’ambiente.
-
-- 4\.3.3
-
-  Se valuta positivamente il progetto, il gruppo di esperti trasmette all’UFE in particolare una raccomandazione su:
-
-  - a. la temperatura attesa del serbatoio nel foro di trivellazione all’altezza del serbatoio e le sue caratteristiche relativamente al trasporto;
-  - b. le scadenze delle tappe del progetto;
-  - c. l’ammontare del contributo per le attività di perforazione da concedere;
-  - d. l’impiego di un esperto indipendente con funzione di accompagnamento al progetto.
-
-- 4\.4 Contratto
--
-
-  Se sussistono i requisiti per la concessione del contributo per le attività di perforazione, nel contratto vengono disciplinati secondo l’articolo 25 capoverso 4 in particolare i seguenti punti:
-
-  - a. le tappe principali che il richiedente deve raggiungere e le scadenze da rispettare;
-  - b. l’obbligo di informazione del richiedente nei confronti dell’UFE, segnatamente in relazione a rapporti finanziari, conteggi finali ed eventuali modifiche del progetto;
-  - c. l’entità, le condizioni e la scadenza del contributo per le attività di perforazione;
-  - d. fatti salvi monopoli cantonali, il trasferimento a titolo gratuito dell’impianto alla Confederazione e la concessione a quest’ultima di un diritto di compera del fondo, se un progetto non viene portato avanti e nemmeno utilizzato per altri scopi;
-  - e. la pubblicazione di tutti i dati finanziari necessari al calcolo di eventuali perdite o utili secondo l’articolo 27;
-  - f. i motivi che conducono allo scioglimento del contratto;
-  - g. ulteriori condizioni.
-
-- 4\.5 Svolgimento e conclusione del progetto
-- 4\.5.1 Il responsabile del progetto svolge le attività di perforazione programmate.
-- 4\.5.2 L’accompagnatore del progetto segue il progetto durante le attività di perforazione. Egli valuta i risultati, in particolare per quanto riguarda la temperatura del serbatoio e le sue caratteristiche relativamente al trasporto, e redige rapporti periodici per il gruppo di esperti.
-- 4\.5.3 Se non vengono rispettate le tappe o le scadenze di cui al numero 4.4 lettera a, l’UFE può sciogliere il contratto con effetto immediato.
-- 4\.5.4 Al più tardi sei mesi dopo la conclusione delle attività di perforazione, il gruppo di esperti valuta i risultati delle attività di perforazione.
-- 4\.5.5 L’UFE comunica al responsabile del progetto il risultato dell’esame, in particolare per quanto riguarda il serbatoio geotermico.
-
-[^annex1-lvlu1-lvl4-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-
-### 5 Geodati
-
-- 5\.1 Il richiedente fornisce a titolo gratuito a swisstopo e al Cantone di ubicazione, entro al massimo sei mesi dopo il rilevamento effettuato secondo le disposizioni tecniche di swisstopo, i rispettivi geodati.
-- 5\.2 Nel quadro degli obiettivi della legge del 5 ottobre 2007[^annex1-lvlu1-lvl5-1] sulla geoinformazione e dell’ordinanza del 21 maggio 2008[^annex1-lvlu1-lvl5-2] sulla geologia nazionale, swisstopo può utilizzare ed elaborare questi geodati; lo stesso vale per i Cantoni di ubicazione secondo le rispettive regolamentazioni cantonali.
-- 5\.3 Esso mette a disposizione del pubblico i geodati primari e i geodati primari processati al più tardi entro 24 mesi dalla fine della prospezione ed entro 12 mesi dalla fine delle attività di perforazione.
-
-[^annex1-lvlu1-lvl5-1]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
-[^annex1-lvlu1-lvl5-2]: [RS 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
+[^t-1]: Abrogato dal n. II dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
 
 Allegato 2
 
@@ -1657,13 +1526,13 @@ Allegato 4
 - 1\.2 Grande impianto di ricerca del Politecnico federale di Losanna
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Allegato 5*[^t-1]*
+Allegato 5[^t-2]
 
 (art. 43 cpv. 1 e 3)
 
 ## Calcolo del plusvalore lordo
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Per le imprese che soggiacciono alla revisione ordinaria secondo l’articolo 727 capoverso 1 CO[^annex5-lvlu1-1] (art. 43 cpv. 1), il plusvalore lordo si calcola nel modo seguente:
 
