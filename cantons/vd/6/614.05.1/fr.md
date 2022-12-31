@@ -4,7 +4,7 @@ number: "614.05.1"
 title: RÈGLEMENT du 20.01.2016 de la Cour des comptes (RCComptes)
 short: RCComptes
 language: fr
-version: 2016-02-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.05.1?id=1f7c3cc1-5e76-49af-a870-ae6c13ca9a52"
 ---
 
@@ -197,7 +197,7 @@ arrête
 <sup>1</sup> La Cour effectue le suivi de ses recommandations conformément à l'article 33 LCComptes[^19-1] , comme il suit :
 
 - - La Cour sollicite, une fois par année, l'entité auditée afin qu'elle lui communique par écrit les suites qu'elle a données à ses recommandations.
-- - La Cour établit deux fois par année un inventaire des recommandations non traitées tel que requis par l'article 33, alinéa 3 LCComptes. Le premier inventaire semestriel se base sur les informations fournies par l'entité auditée à la demande de la Cour. Le deuxième inventaire semestriel se fonde sur le premier inventaire ainsi que sur les mises à jour communiquées à la Cour par l'entité auditée.
+- - La Cour établit chaque année un inventaire des recommandations non traitées tel que requis par l'article 33, alinéa 3 LCComptes. Cet inventaire se base sur les informations fournies par l'entité auditée à la demande de la Cour.
 - - La Cour des comptes peut décider d'entreprendre ses propres contrôles sur les informations fournies.
 - - Dans le cadre de son rapport annuel, la Cour publie les suites qui ont été données à ses recommandations.
 
