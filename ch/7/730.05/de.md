@@ -4,40 +4,41 @@ title: Verordnung vom 22. November 2006 über Gebühren und Aufsichtsabgaben im 
 short: GebV-En
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/762"
 language: de
-version: 2019-06-01
+version: 2023-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20190601/de/xml/fedlex-data-admin-ch-eli-cc-2006-762-20190601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20190601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-762-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Gebühren und Aufsichtsabgaben im Energiebereich
 
-(GebV-En)**[^t-1]**
+(GebV-En)[^t-1]
 
-vom 22. November 2006 (Stand am 1. Juni 2019)
+vom 22. November 2006 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Anhang Ziff. 1 der Stromversorgungsverordnung vom 14. März 2008 ([SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 28 des Stauanlagengesetzes vom 1. Oktober 2010[^ingress-1] (StAG), auf Artikel 52*a* des Wasserrechtsgesetzes vom 22. Dezember 1916[^ingress-2], auf Artikel 61 des Energiegesetzes vom 30. September 2016[^ingress-3], auf Artikel 83 des Kernenergiegesetzes vom 21. März 2003[^ingress-4], auf die Artikel 3*a* und 3*b* des Elektrizitätsgesetzes vom 24. Juni 1902[^ingress-5], auf die Artikel 21 Absatz 5 und 28 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-6], auf Artikel 52 Absatz 2 Ziffer 4 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-7], auf Artikel 55 des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-8], auf Artikel 42 des Strahlenschutzgesetzes vom 22. März 1991[^ingress-9] und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-10],[^ingress-11]
+gestützt auf Artikel 42 Absatz 2 des CO<sub>2</sub>-Gesetzes vom 23. Dezember 2011[^ingress-1], auf Artikel 28 des Stauanlagengesetzes vom 1. Oktober 2010[^ingress-2] (StAG), auf Artikel 52*a* des Wasserrechtsgesetzes vom 22. Dezember 1916[^ingress-3], auf Artikel 61 des Energiegesetzes vom 30. September 2016[^ingress-4] (EnG), auf Artikel 83 des Kernenergiegesetzes vom 21. März 2003[^ingress-5], auf die Artikel 3*a* und 3*b* des Elektrizitätsgesetzes vom 24. Juni 1902[^ingress-6], auf die Artikel 21 Absatz 5 und 28 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-7], auf Artikel 52 Absatz 2 Ziffer 4 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-8], auf Artikel 55 des Gewässerschutzgesetzes vom 24. Januar 1991[^ingress-9], auf Artikel 42 des Strahlenschutzgesetzes vom 22. März 1991[^ingress-10] und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-11],[^ingress-12]
 
 verordnet:
 
-[^ingress-1]: [SR 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
-[^ingress-2]: [SR 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
-[^ingress-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-4]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-5]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-6]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
-[^ingress-7]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^ingress-8]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-9]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-10]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-11]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
+[^ingress-1]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-2]: [SR 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+[^ingress-3]: [SR 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^ingress-4]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-5]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-6]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-7]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-8]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^ingress-9]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-10]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^ingress-11]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-12]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -76,9 +77,16 @@ Diese Verordnung regelt die Gebühren:
 
 <sup>1</sup> Keine Gebühren werden erhoben für die Verfahren zur Gewährung von Bundesbeiträgen.
 
-<sup>2</sup> Von Absatz 1 ausgenommen sind die Verfahren für die Erteilung von Geothermie-Erkundungsbeiträgen und Geothermie-Garantien.
+<sup>2</sup>
+
+Von Absatz 1 ausgenommen sind die Verfahren für die Gewährung von:
+
+- a. Investitionsbeiträgen für die Prospektion und Erschliessung eines Geothermiereservoirs;
+- b. Beiträgen zur direkten Nutzung der Geothermie für die Wärmebereitstellung;
+- c. Geothermie-Garantien.[^2-2]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 3
 
@@ -308,10 +316,11 @@ Das BFE erhebt Gebühren namentlich für:
 Das BFE und die Elektrizitätskommission (ElCom) erheben Gebühren namentlich für Verfügungen und Entscheide im Zusammenhang mit:
 
 - a. der Stromversorgung;
-- b. den Anschlussbedingungen für Energieerzeugungsanlagen;
+- b.[^13a-2] der Einspeisung netzgebundener Energie und dem Eigenverbrauch;
 - c. den Zuschlägen auf die Übertragungskosten der Hochspannungsnetze.
 
 [^13a-1]: Eingefügt durch Anhang Ziff. 1 der Stromversorgungsverordnung vom 14. März 2008 ([AS 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Fassung gemäss Ziff. I der V vom 12. Nov. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)).
+[^13a-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 13b
 
@@ -359,7 +368,7 @@ Das Eidgenössische Rohrleitungsinspektorat erhebt Gebühren namentlich für:
 - c. die Mitwirkung an Plangenehmigungsverfahren.
 
 [^14-1]: Eingefügt durch Ziff. I der V vom 13. Mai 2015, in Kraft seit 1. Juni 2015 ([AS 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
-[^14-2]: [SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^14-2]: [[AS 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125); [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)Anhang 2 Ziff. 4; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)Anhang Ziff. 4; [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)Ziff. III; [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)Anhang Ziff. 1. [AS 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)Art. 35]. Siehe heute: die Rohrleitungsverordnung vom 26. Juni 2019 ([SR 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)).
 
 #### Art. 14a
 
@@ -369,14 +378,13 @@ Das Eidgenössische Rohrleitungsinspektorat erhebt Gebühren namentlich für:
 
 Das BFE kann eine Gebühr von maximal 25 000 Franken erheben für die Bearbeitung eines Antrags auf Leistung:
 
-- a. eines Geothermie-Erkundungsbeitrags für die Prospektion (Art. 33 Abs. 1 EnG);
-- b. eines Geothermie-Erkundungsbeitrags für die Exploration (Art. 33 Abs. 1 EnG);
-- c. eines Beitrags für die direkte Nutzung der Geothermie (Art. 34 Abs. 2 CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^14a-2]).
+- a. eines Investitionsbeitrags für die Prospektion eines Geothermiereservoirs (Art. 27b Abs. 1 Bst. a EnG);
+- b. eines Investitionsbeitrags für die Erschliessung eines Geothermiereservoirs (Art. 27b Abs. 1 Bst. b EnG);
+- c. eines Beitrags für die direkte Nutzung der Geothermie für die Wärmebereitstellung (Art. 34 Abs. 2 CO<sub>2</sub>-Gesetz).
 
-<sup>2</sup> Es kann eine Gebühr von maximal 50 000 Franken erheben für die Bearbeitung eines Antrags auf Leistung einer Geothermie-Garantie (Art. 33 Abs. 2 EnG).
+<sup>2</sup> Es kann eine Gebühr von maximal 50 000 Franken erheben für die Bearbeitung eines Antrags auf Leistung einer Geothermie-Garantie (Art. 33 Abs. 1 EnG).
 
-[^14a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
-[^14a-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^14a-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 14b
 
@@ -394,7 +402,7 @@ Die Vollzugsstelle erhebt für ihre Kosten im Vollzug des Herkunftsnachweiswesen
 
 Die Verordnung vom 30. September 1985[^15-1] über die Gebühren auf dem Gebiet der Kernenergie wird aufgehoben.
 
-[^15-1]: [[AS 1985 1477](https://fedlex.data.admin.ch/eli/oc/1985/1477_1477_1477), [1993 2598](https://fedlex.data.admin.ch/eli/oc/1993/2598_2598_2598), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959), [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 43, [1999 15](https://fedlex.data.admin.ch/eli/oc/1999/5)]
+[^15-1]: [[AS 1985 1477](https://fedlex.data.admin.ch/eli/oc/1985/1477_1477_1477); [1993 2598](https://fedlex.data.admin.ch/eli/oc/1993/2598_2598_2598); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 43; [1999 15](https://fedlex.data.admin.ch/eli/oc/1999/5)]
 
 #### Art. 16
 
@@ -408,7 +416,7 @@ Die Änderungen bisherigen Rechts werden im Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 3 Abs. 1)
 
@@ -455,7 +463,7 @@ Anhang 2
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)konsultiert werden.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 14*b*)
 

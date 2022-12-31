@@ -4,40 +4,41 @@ title: "Ordonnance du 22 novembre 2006 sur les émoluments et les taxes de surve
 short: Oémol-En
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/762"
 language: fr
-version: 2019-06-01
+version: 2023-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20190601/fr/xml/fedlex-data-admin-ch-eli-cc-2006-762-20190601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20190601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-762-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les émoluments et les taxes de surveillance dans le domaine de l’énergie
 
-(Oémol-En)**[^t-1]**
+(Oémol-En)[^t-1]
 
-du 22 novembre 2006 (Etat le 1<sup>er</sup> juin 2019)
+du 22 novembre 2006 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 14 mars 2008 sur l’approvisionnement en électricité, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 
 Le Conseil fédéral suisse,
 
-vu l’art. 28 de la loi fédérale du 1<sup>er</sup> octobre 2010 sur les ouvrages d’accumulation (LOA)[^ingress-1], vu l’art. 52*a* de la loi du 22 décembre 1916 sur les forces hydrauliques[^ingress-2], vu l’art. 61 de la loi du 30 septembre 2016 sur l’énergie[^ingress-3], vu l’art. 83 de la loi du 21 mars 2003 sur l’énergie nucléaire[^ingress-4], vu les art. 3*a* et 3*b* de la loi du 24 juin 1902 sur les installations électriques[^ingress-5], vu les art. 21, al. 5, et 28 de la loi du 23 mars 2007 sur l’approvisionnement en électricité[^ingress-6], vu l’art. 52, al. 2, ch. 4, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^ingress-7], vu l’art. 55 de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^ingress-8], vu l’art. 42 de la loi du 22 mars 1991 sur la radioprotection[^ingress-9], vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-10],[^ingress-11]
+vu l’art. 42, al. 2, de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^ingress-1], vu l’art. 28 de la loi fédérale du 1<sup>er</sup> octobre 2010 sur les ouvrages d’accumulation (LOA)[^ingress-2], vu l’art. 52*a* de la loi du 22 décembre 1916 sur les forces hydrauliques[^ingress-3], vu l’art. 61 de la loi du 30 septembre 2016 sur l’énergie (LEne)[^ingress-4], vu l’art. 83 de la loi du 21 mars 2003 sur l’énergie nucléaire[^ingress-5], vu les art. 3*a* et 3*b* de la loi du 24 juin 1902 sur les installations électriques[^ingress-6], vu les art. 21, al. 5, et 28 de la loi du 23 mars 2007 sur l’approvisionnement en électricité[^ingress-7], vu l’art. 52, al. 2, ch. 4, de la loi du 4 octobre 1963 sur les installations de transport par conduites[^ingress-8], vu l’art. 55 de la loi fédérale du 24 janvier 1991 sur la protection des eaux[^ingress-9], vu l’art. 42 de la loi du 22 mars 1991 sur la radioprotection[^ingress-10], vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-11],[^ingress-12]
 
 arrête:
 
-[^ingress-1]: [RS 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
-[^ingress-2]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
-[^ingress-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-5]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-6]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
-[^ingress-7]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^ingress-8]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-9]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-10]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-11]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
+[^ingress-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-2]: [RS 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+[^ingress-3]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^ingress-4]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-5]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-6]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-7]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-8]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^ingress-9]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-10]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^ingress-11]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-12]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 ## Section 1 Dispositions générales
 
@@ -76,9 +77,16 @@ La présente ordonnance régit les émoluments:
 
 <sup>1</sup> Aucun émolument n’est perçu pour les procédures d’octroi de subventions fédérales.
 
-<sup>2</sup> Sont exclus de l’al. 1 les procédures d’octroi de contributions à la recherche de ressources géothermiques et de garanties pour la géothermie.
+<sup>2</sup>
+
+Sont exclues de l’al. 1 les procédures d’octroi:
+
+- a. de contributions d’investissement pour la prospection et la mise en valeur d’un réservoir géothermique;
+- b. de contributions pour l’utilisation directe de la géothermie pour la production de chaleur;
+- c. de garanties pour la géothermie.[^2-2]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 3
 
@@ -173,7 +181,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 #### Art. 9
 
-**Emoluments dans le domaine des droits d’eau**
+**Émoluments dans le domaine des droits d’eau**
 
 <sup>1</sup>
 
@@ -237,7 +245,7 @@ Les coûts liés aux activités suivantes sont financés par la taxe de surveill
 
 #### Art. 10
 
-**Emoluments dans le domaine de l’énergie en général**[^10-1]
+**Émoluments dans le domaine de l’énergie en général**[^10-1]
 
 <sup>1</sup>
 
@@ -254,7 +262,7 @@ L’OFEN perçoit des émoluments notamment pour:
 
 #### Art. 11
 
-**Emoluments dans le domaine de l’énergie nucléaire**[^11-1]
+**Émoluments dans le domaine de l’énergie nucléaire**[^11-1]
 
 L’OFEN perçoit des émoluments notamment pour:
 
@@ -293,7 +301,7 @@ Ils comprennent notamment:
 
 #### Art. 13
 
-**Emoluments dans le domaine de l’électricité**[^13-1]
+**Émoluments dans le domaine de l’électricité**[^13-1]
 
 L’OFEN perçoit des émoluments notamment pour:
 
@@ -304,15 +312,16 @@ L’OFEN perçoit des émoluments notamment pour:
 
 #### Art. 13a
 
-**Emoluments dans le domaine de l’approvisionnement en électricité et de la production d’énergie**[^13a-1]
+**Émoluments dans le domaine de l’approvisionnement en électricité et de la production d’énergie**[^13a-1]
 
 L’OFEN et la Commission de l’électricité (ElCom) perçoivent des émoluments, notamment pour les mesures et les décisions prises dans le cadre:
 
 - a. de l’approvisionnement en électricité;
-- b. des conditions de raccordement des installations productrices d’énergie;
+- b.[^13a-2] de l’injection d’énergie de réseau et de la consommation propre;
 - c. des suppléments sur les coûts de transport des réseaux à haute tension.
 
 [^13a-1]: Introduit par l’annexe ch. 1 de l’O du 14 mars 2008 sur l’approvisionnement en électricité ([RO 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Nouvelle teneur selon le ch. I de l’O du 12 nov. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)).
+[^13a-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 13b
 
@@ -328,7 +337,7 @@ L’OFEN et l’ElCom prélèvent la taxe de surveillance pour la collaboration 
 
 #### Art. 13c
 
-**Emoluments dans le domaine des conventions d’objectifs**[^13c-1]
+**Émoluments dans le domaine des conventions d’objectifs**[^13c-1]
 
 Les tiers mandatés par l’OFEN conformément aux art. 49, al. 1, let. a et c, et 51, al. 4, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie[^13c-2] prélèvent des émoluments pour:
 
@@ -340,7 +349,7 @@ Les tiers mandatés par l’OFEN conformément aux art. 49, al. 1, let. a et c, 
 
 #### Art. 14
 
-**Emoluments dans le domaine des installations de transport par conduites**
+**Émoluments dans le domaine des installations de transport par conduites**
 
 <sup>1</sup>
 
@@ -360,24 +369,23 @@ L’Inspection fédérale des pipelines perçoit des émoluments notamment pour:
 - c. la participation à la procédure d’approbation de plans.
 
 [^14-1]: Introduite selon le ch. I de l’O du 13 mai 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
-[^14-2]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^14-2]: [[RO 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125); [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)annexe 2 ch. 4; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)annexe ch. 4; [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)ch. III; [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)annexe ch. 1. [RO 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)art. 35]. Voir actuellement l’O du 26 juin 2019 ([RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)).
 
 #### Art. 14a
 
-**Emoluments dans le domaine de la géothermie**[^14a-1]
+**Émoluments dans le domaine de la géothermie**[^14a-1]
 
 <sup>1</sup>
 
 L’OFEN peut prélever un émolument de 25 000 francs au maximum pour le traitement:
 
-- a. d’une demande de contribution à la recherche de ressources géothermiques pour la prospection (art. 33, al. 1, LEne);
-- b. d’une demande de contribution à la recherche de ressources géothermiques pour l’exploration (art. 33, al. 1, LEne);
-- c. d’une demande de contribution pour l’utilisation directe de la géothermie (art. 34, al. 2, de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^14a-2]).
+- a. d’une demande de contribution d’investissement pour la prospection d’un réservoir géothermique (art. 27*b*, al. 1, let. a, LEne);
+- b. d’une demande de contribution d’investissement pour la mise en valeur d’un réservoir géothermique (art. 27*b*, al. 1, let. b, LEne);
+- c. d’une demande de contribution pour l’utilisation directe de la géothermie pour la production de chaleur (art. 34, al. 2, de la loi sur le CO<sub>2</sub>).
 
-<sup>2</sup> L’OFEN peut prélever un émolument de 50 000 francs au maximum pour le traitement d’une demande de garantie pour la géothermie (art. 33, al. 2, LEne).
+<sup>2</sup> L’OFEN peut prélever un émolument de 50 000 francs au maximum pour le traitement d’une demande de garantie pour la géothermie (art. 33, al. 1, LEne).
 
-[^14a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
-[^14a-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^14a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 14b
 
@@ -395,7 +403,7 @@ L’organe d’exécution perçoit des émoluments calculés en fonction de la c
 
 L’ordonnance du 30 septembre 1985 sur les émoluments dans le domaine de l’énergie nucléaire[^15-1] est abrogée.
 
-[^15-1]: [RO**1985** 1477, **1993** 2598, **1995** 4959, **1997** 2128 2779 ch. II 43, **1999** 15]
+[^15-1]: [RO**1985** 1477; **1993** 2598; **1995** 4959; **1997** 2128, 2779 ch. II 43; **1999** 15]
 
 #### Art. 16
 
@@ -409,7 +417,7 @@ Les modifications du droit en vigueur sont réglées dans l’annexe 2.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2007.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 3, al. 1)
 
@@ -417,7 +425,7 @@ Annexe 1*[^t-2]*
 
 [^t-2]: Mise à jour selon le ch. I des O du 12 nov. 2008 ([RO 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)) et du 3 fév. 2010, en vigueur depuis le 1<sup>er</sup> mars 2010 ([RO 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
 
-### 1. Emoluments pour la surveillance des ouvrages d’accumulation
+### 1. Émoluments pour la surveillance des ouvrages d’accumulation
 
 Pour la surveillance des ouvrages d’accumulation et pour l’examen des projets de construction afférents, l’émolument est calculé conformément au tarif horaire. Cependant, l’émolument annuel de surveillance pour les tâches visées à l’art. 9, al. 2, ne peut dépasser, contrôle quinquennal inclus:
 
@@ -430,7 +438,7 @@ Pour la surveillance des ouvrages d’accumulation et pour l’examen des projet
 
 ### 2. …
 
-### 3. Emoluments dans le domaine des installations de transport par conduites
+### 3. Émoluments dans le domaine des installations de transport par conduites
 
 Les émoluments s’élèvent à:
 
@@ -465,17 +473,17 @@ Annexe 3[^t-3]
 [^t-3]: Introduite par le ch. II de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
 
 <table>
-<tr><td></td><td>Emoluments en francs</td><td>Unité</td></tr>
+<tr><td></td><td>Émoluments en francs</td><td>Unité</td></tr>
 <tr><td>1. Enregistrement et saisie</td><td></td><td></td></tr>
-<tr><td>Emolument de base pour une installation de production d’électricité (selon le type d’installation)</td><td>max. 200</td><td>par an</td></tr>
-<tr><td>Emolument de base pour un compte utilisateur (selon le type de compte)</td><td>max. 200</td><td>par an</td></tr>
+<tr><td>Émolument de base pour une installation de production d’électricité (selon le type d’installation)</td><td>max. 200</td><td>par an</td></tr>
+<tr><td>Émolument de base pour un compte utilisateur (selon le type de compte)</td><td>max. 200</td><td>par an</td></tr>
 <tr><td>Saisie de la quantité d’électricité produite (selon le type d’installation)</td><td>max. 0.03</td><td>par MWh</td></tr>
 <tr><td>2. Transactions</td><td></td><td></td></tr>
-<tr><td>Etablissement des garanties d’origine (selon le type d’installation)</td><td>max. 0.03</td><td>par MWh</td></tr>
+<tr><td>Établissement des garanties d’origine (selon le type d’installation)</td><td>max. 0.03</td><td>par MWh</td></tr>
 <tr><td>Transmission de garanties d’origine en Suisse</td><td>max. 0.03</td><td>par MWh</td></tr>
 <tr><td>Importation et exportation de garanties d’origine</td><td>max. 0.03</td><td>par MWh</td></tr>
-<tr><td>Etablissement d’ordres permanents</td><td>max. 200</td><td>par affaire</td></tr>
+<tr><td>Établissement d’ordres permanents</td><td>max. 200</td><td>par affaire</td></tr>
 <tr><td>3. Annulation</td><td></td><td></td></tr>
 <tr><td>Annulation des garanties d’origine</td><td>max. 0.03</td><td>par MWh</td></tr>
-<tr><td>Etablissement des confirmations d’annulation des garanties d’origine</td><td>max. 100</td><td>par affaire</td></tr>
+<tr><td>Établissement des confirmations d’annulation des garanties d’origine</td><td>max. 100</td><td>par affaire</td></tr>
 </table>

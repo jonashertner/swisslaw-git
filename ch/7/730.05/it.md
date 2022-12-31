@@ -4,38 +4,39 @@ title: "Ordinanza del 22 novembre 2006 sugli emolumenti e sulle tasse di vigilan
 short: OE-En
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/762"
 language: it
-version: 2019-06-01
+version: 2023-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20190601/it/xml/fedlex-data-admin-ch-eli-cc-2006-762-20190601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20190601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/762/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-762-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/762/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sugli emolumenti e sulle tasse di vigilanza nel settore dell’energia (OE-En)****
+# Ordinanza sugli emolumenti e sulle tasse di vigilanza nel settore dell’energia (OE-En)
 
-del 22 novembre 2006 (Stato 1° giugno 2019)[^t-1]
+del 22 novembre 2006 (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico, in vigore dal 1° apr. 2008 ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)).
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 28 della legge federale del 1° ottobre 2010[^ingress-1] sugli impianti di accumulazione (LImA); visto l’articolo 52*a* della legge del 22 dicembre 1916[^ingress-2] sulle forze idriche; visto l’articolo 61 della legge federale del 30 settembre 2016[^ingress-3] sull’energia; visto l’articolo 83 della legge federale del 21 marzo 2003[^ingress-4] sull’energia nucleare; visti gli articoli 3*a* e 3*b* della legge del 24 giugno 1902[^ingress-5] sugli impianti elettrici; visti gli articoli 21 capoverso 5 e 28 della legge del 23 marzo 2007[^ingress-6] sull’approvvigionamento elettrico; visto l’articolo 52 capoverso 2 numero 4 della legge del 4 ottobre 1963[^ingress-7] sugli impianti di trasporto in condotta; visto l’articolo 55 della legge federale del 24 gennaio 1991[^ingress-8] sulla protezione delle acque; visto l’articolo 42 della legge del 22 marzo 1991[^ingress-9] sulla radioprotezione; visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-10] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-11]
+visto l’articolo 42 capoverso 2 della legge del 23 dicembre 2011[^ingress-1] sul CO<sub>2;</sub> visto l’articolo 28 della legge del 1° ottobre 2010[^ingress-2] sugli impianti di accumulazione (LImA); visto l’articolo 52*a* della legge del 22 dicembre 1916[^ingress-3] sulle forze idriche; visto l’articolo 61 della legge del 30 settembre 2016[^ingress-4] sull’energia (LEne); visto l’articolo 83 della legge del 21 marzo 2003[^ingress-5] sull’energia nucleare; visti gli articoli 3*a* e 3*b* della legge del 24 giugno 1902[^ingress-6] sugli impianti elettrici; visti gli articoli 21 capoverso 5 e 28 della legge del 23 marzo 2007[^ingress-7] sull’approvvigionamento elettrico; visto l’articolo 52 capoverso 2 numero 4 della legge del 4 ottobre 1963[^ingress-8] sugli impianti di trasporto in condotta; visto l’articolo 55 della legge del 24 gennaio 1991[^ingress-9] sulla protezione delle acque; visto l’articolo 42 della legge del 22 marzo 1991[^ingress-10] sulla radioprotezione; visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-11] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-12]
 
 ordina:
 
-[^ingress-1]: [RS 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
-[^ingress-2]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
-[^ingress-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^ingress-4]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-5]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-6]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
-[^ingress-7]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
-[^ingress-8]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
-[^ingress-9]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-10]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-11]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1345](https://fedlex.data.admin.ch/eli/oc/2019/263)).
+[^ingress-1]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-2]: [RS 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+[^ingress-3]: [RS 721.80](https://fedlex.data.admin.ch/eli/cc/33/189_191_191)
+[^ingress-4]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^ingress-5]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-6]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-7]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-8]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^ingress-9]: [RS 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^ingress-10]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^ingress-11]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-12]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -74,9 +75,16 @@ La presente ordinanza disciplina gli emolumenti per:
 
 <sup>1</sup> Non vengono riscossi emolumenti per le procedure relative alla concessione di sussidi federali.
 
-<sup>2</sup> Il capoverso 1 non si applica alle procedure relative alla concessione di contributi per l’esplorazione geotermica e di garanzie per la geotermia.
+<sup>2</sup>
+
+Il capoverso 1 non si applica alle procedure relative alla concessione di:
+
+- a. contributi d’investimento per la prospezione e lo sfruttamento di un serbatoio geotermico;
+- b. contributi per l’impiego diretto della geotermia ai fini della produzione di calore;
+- c. garanzie per la geotermia.[^2-2]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 3
 
@@ -217,7 +225,7 @@ Per la tassa di vigilanza prevista dall’articolo 28 LImA sono computabili i co
 <sup>3</sup> La tassa di vigilanza versata da un gestore è calcolata in funzione della radice cubica del volume di ritenuta del suo impianto. La tassa annua di vigilanza non può tuttavia superare i seguenti importi:
 
 <table>
-<tr><td></td><td>franchi</td></tr>
+<tr><th></th><th>franchi</th></tr>
 <tr><td>per una ritenuta di una capacità inferiore a 1 milione di m<sup>3</sup></td><td>2 000</td></tr>
 <tr><td>per una ritenuta di una capacità pari o superiore a 1 milione di m<sup>3</sup> ma inferiore a 5 milioni di m<sup>3</sup></td><td>4 000</td></tr>
 <tr><td>per una ritenuta di una capacità pari o superiore a 5 milioni di m<sup>3</sup></td><td>13 000</td></tr>
@@ -305,10 +313,11 @@ L’UFE riscuote emolumenti in particolare per:
 L’UFE e la Commissione dell’energia elettrica (ElCom) riscuotono emolumenti segnatamente per le decisioni in merito:
 
 - a. all’approvvigionamento elettrico;
-- b. alle condizioni di raccordo per gli impianti di produzione di energia;
+- b.[^13a-2] all’immissione di energia di rete e al consumo proprio;
 - c. ai supplementi sui costi di trasporto delle reti ad alta tensione.
 
 [^13a-1]: Introdotto dal n. 1 dell’all. all’O del 14 mar. 2008 sull’approvvigionamento elettrico ([RU 2008 1223](https://fedlex.data.admin.ch/eli/oc/2008/226)). Nuovo testo giusta il n. I dell’O del 12 nov. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)).
+[^13a-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 13b
 
@@ -356,7 +365,7 @@ L’Ispettorato federale degli oleo e gasdotti riscuote emolumenti in particolar
 - c. la partecipazione alla procedura di approvazione dei piani.
 
 [^14-1]: Introdotta dal n. I dell’O del 1° giu. 2015, in vigore dal 13 mag. 2015 ([RU 2015 1427](https://fedlex.data.admin.ch/eli/oc/2015/295)).
-[^14-2]: [RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)
+[^14-2]: [[RU 2000 746](https://fedlex.data.admin.ch/eli/oc/2000/125); [2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 4; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)all. n. 4; [2013 749](https://fedlex.data.admin.ch/eli/oc/2013/148)III; [2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)all. n. 1. [RU 2019 2205](https://fedlex.data.admin.ch/eli/oc/2019/413)art. 35]. Vedi ora l'O del 26 giu. 2019 ([RS 746.11](https://fedlex.data.admin.ch/eli/cc/2019/413)).
 
 #### Art. 14a
 
@@ -366,14 +375,13 @@ L’Ispettorato federale degli oleo e gasdotti riscuote emolumenti in particolar
 
 L’UFE può riscuotere un emolumento massimo di 25 000 franchi per il trattamento di una domanda di prestazione di:
 
-- a. un contributo per l’esplorazione geotermica per la prospezione (art. 33 cpv. 1 LEne);
-- b. un contributo per l’esplorazione geotermica per l’attività di perforazione (art. 33 cpv. 1 LEne);
-- c. un contributo per l’impiego diretto della geotermia (art. 34 cpv. 2 della L del 23 dic. 2011[^14a-2] sul CO<sub>2</sub>).
+- a. un contributo d’investimento per la prospezione di un serbatoio geotermico (art. 27*b* cpv. 1 lett. a LEne);
+- b. un contributo d’investimento per lo sfruttamento di un serbatoio geotermico (art. 27*b* cpv. 1 lett. b LEne);
+- c. un contributo per l’impiego diretto della geotermia ai fini della produzione di calore (art. 34 cpv. 2 legge sul CO<sub>2</sub>).
 
-<sup>2</sup> L’UFE può riscuotere un emolumento massimo di 50 000 franchi per il trattamento di una domanda di prestazione di una garanzia per la geotermia (art. 33 cpv. 2 LEne).
+<sup>2</sup> L’UFE può riscuotere un emolumento massimo di 50 000 franchi per il trattamento di una domanda di prestazione di una garanzia per la geotermia (art. 33 cpv. 1 LEne).
 
-[^14a-1]: Introdotto dal n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)).
-[^14a-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^14a-1]: Introdotto dal n. I dell’O del 1° nov. 2017 /[RU 2017 7101](https://fedlex.data.admin.ch/eli/oc/2017/767)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 787](https://fedlex.data.admin.ch/eli/oc/2022/787)).
 
 #### Art. 14b
 
@@ -391,7 +399,7 @@ Per le spese di esecuzione nell’ambito delle garanzie di origine, l’organo d
 
 L’ordinanza del 30 settembre 1985[^15-1] sugli emolumenti nel campo dell’energia nucleare è abrogata.
 
-[^15-1]: [[RU 1985 1477](https://fedlex.data.admin.ch/eli/oc/1985/1477_1477_1477), [1993 2598](https://fedlex.data.admin.ch/eli/oc/1993/2598_2598_2598), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959), [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)II 43, [1999 15](https://fedlex.data.admin.ch/eli/oc/1999/5)]
+[^15-1]: [[RU 1985 1477](https://fedlex.data.admin.ch/eli/oc/1985/1477_1477_1477); [1993 2598](https://fedlex.data.admin.ch/eli/oc/1993/2598_2598_2598); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)II 43; [1999 15](https://fedlex.data.admin.ch/eli/oc/1999/5)]
 
 #### Art. 16
 
@@ -405,13 +413,13 @@ Le modifiche del diritto vigente sono disciplinate nell’allegato 2.
 
 La presente ordinanza entra in vigore il 1° gennaio 2007.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 3 cpv. 1)
 
 ## Aliquote degli emolumenti
 
-[^t-2]: Aggiornato dai n. I delle O del 12 nov. 2008 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)) e del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
+[^t-2]: Aggiornato dal n. I delle O del 12 nov. 2008 ([RU 2008 5739](https://fedlex.data.admin.ch/eli/oc/2008/792)) e del 3 feb. 2010, in vigore dal 1° mar. 2010 ([RU 2010 665](https://fedlex.data.admin.ch/eli/oc/2010/101)).
 
 ### 1. Emolumenti per la vigilanza sugli impianti di accumulazione
 
@@ -452,7 +460,7 @@ Allegato 2
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2006 4889](https://fedlex.data.admin.ch/eli/oc/2006/762).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 14*b*)
 
