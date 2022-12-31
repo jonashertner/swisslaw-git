@@ -4,13 +4,12 @@ number: "551.1"
 title: Loi sur la Police cantonale
 short: LPol
 language: fr
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2019-10-16
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1990-11-15
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7188/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7583/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Police cantonale – L
 
 (LPol)
 
-du 15.11.1990 (version entrée en vigueur le 01.07.2020)
+du 15.11.1990 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -649,9 +648,9 @@ Décrète:
 
 #### Art. 36a
 
-**Accès aux propriétés privées et aux chemins ou sentiers publics**
+**Accès aux propriétés privées et aux infrastructures de mobilité**
 
-<sup>1</sup> La police a le droit de passer, nonobstant toute défense, par tout chemin ou sentier publics ou privés ou au travers des propriétés lorsqu'elle le juge utile ou nécessaire à l'accomplissement de ses tâches.
+<sup>1</sup> La police a le droit de passer, nonobstant toute défense, par toute infrastructure de mobilité publique ou privée ou au travers des propriétés lorsqu'elle le juge utile ou nécessaire à l'accomplissement de ses tâches.
 
 #### Art. 37
 

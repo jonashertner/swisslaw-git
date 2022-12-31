@@ -4,13 +4,12 @@ number: "551.1"
 title: Gesetz über die Kantonspolizei
 short: PolG
 language: de
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2019-10-16
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1990-11-15
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/551.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7188/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7583/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kantonspolizei – G
 
 (PolG)
 
-vom 15.11.1990 (Fassung in Kraft getreten am 01.07.2020)
+vom 15.11.1990 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -649,9 +648,9 @@ beschliesst:
 
 #### Art. 36a
 
-**Zugang zu privaten Grundstücken und öffentlichen Wegen**
+**Zugang zu privaten Grundstücken und zu Mobilitätsinfrastrukturen**
 
-<sup>1</sup> Die Polizei ist berechtigt, ungeachtet jedes Verbotes alle öffentlichen oder privaten Wege sowie private Grundstücke zu begehen, wenn sie dies zur Erfüllung ihrer Aufgaben für nötig oder nützlich erachtet.
+<sup>1</sup> Die Polizei ist, ungeachtet jedes Verbotes, berechtigt, alle öffentlichen oder privaten Mobilitätsinfrastrukturen sowie private Grundstücke zu begehen, wenn sie dies zur Erfüllung ihrer Aufgaben für nötig oder nützlich erachtet.
 
 #### Art. 37
 
