@@ -3,13 +3,12 @@ canton: FR
 number: "137.12"
 title: Reglement über das Notariatspraktikum und die Notariatsprüfungen
 language: de
-version: 2021-09-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-15
+version: 2023-01-01
+version_adopted: 2022-11-02
 adopted: 1977-12-13
 in_force: 1978-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/137.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/6877/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7707/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6877/pdf_file"
 
 Notariat, Praktika und Examen – R
 
-vom 13.12.1977 (Fassung in Kraft getreten am 01.09.2021)
+vom 13.12.1977 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -41,7 +40,7 @@ beschliesst:
 - a) handlungsfähig sein;
 - b) …
 - c) nicht wegen Handlungen verurteilt worden sein, die der Würde des Berufs widersprechen, ausser er sei rehabilitiert worden;
-- d) das Rechtslizentiat einer schweizerischen Universität besitzen;
+- d) das Rechtslizentiat oder den Bachelor of Law und den Master of Law einer schweizerischen Universität besitzen;
 - e) für die Dauer des Praktikums auf einem oder mehreren der in Artikel 7 angegebenen Büros angestellt sein.
 
 #### Art. 2
@@ -53,7 +52,7 @@ beschliesst:
 - a) eine Bescheinigung darüber, dass er handlungsfähig ist;
 - b) …
 - c) einen Auszug aus dem Strafregister;
-- d) sein Rechtslizentiatendiplom oder eine diesbezügliche Bescheinigung;
+- d) seine Universitätsdiplome oder eine diesbezügliche Bescheinigung;
 - e) Bescheinigungen über seine Anstellung als Praktikant.
 
 #### Art. 3
@@ -74,7 +73,7 @@ beschliesst:
 
 <sup>1</sup> Das Praktikum besteht in anhaltender Arbeit während einer Dauer von mindestens zwei Jahren.
 
-<sup>2</sup> Die Notariatskommission kann jedoch diese Dauer um acht Monate herabsetzen, wenn der Bewerber mindestens ein Jahr lang eine juristische Tätigkeit ausgeübt hat, die der Ausbildung zum Notar förderlich ist.
+<sup>2</sup> Die Notariatskommission kann diese Dauer jedoch um höchstens acht Monate herabsetzen, wenn der Bewerber eine juristische Tätigkeit ausgeübt hat, die der Ausbildung zum Notar förderlich ist.
 
 #### Art. 6
 
@@ -90,9 +89,9 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Das Notariatspraktikum ist während mindestens sechzehn Monaten auf dem Büro eines im Kanton niedergelassenen Notars zu absolvieren; der übrige Teil des Praktikums kann bei einem Grundbuchamt geleistet werden.
+<sup>2</sup> Das Notariatspraktikum ist während mindestens sechzehn Monaten im Büro eines im Kanton niedergelassenen Notars zu absolvieren; der übrige Teil des Praktikums kann in Form einer beliebigen juristischen Tätigkeit, welche die Kommission als zweckdienlich für die Notariatsausbildung erachtet, absolviert werden.
 
-<sup>3</sup> Das Praktikum ist in der Regel auf einem einzigen Anwalts- beziehungsweise Notariatsbüro zu absolvieren. Die Notariatskommission kann auf begründetes, schriftliches Gesuch hin Ausnahmen bewilligen.
+<sup>3</sup> Das Praktikum ist in der Regel in einem einzigen Anwalts- beziehungsweise Notariatsbüro zu absolvieren. Die Notariatskommission kann auf begründetes und schriftliches Gesuch hin Ausnahmen bewilligen.
 
 #### Art. 8
 
@@ -126,7 +125,7 @@ beschliesst:
 
 **Sessionen**
 
-<sup>1</sup> Es finden jährlich drei Examenssessionen statt, die im Januar, im Mai und im September beginnen.
+<sup>1</sup> Es finden jährlich zwei Examenssessionen statt, von denen eine im April und eine im September beginnt.
 
 <sup>2</sup> Die Dauer einer Session beträgt höchstens fünf Monate.
 
@@ -140,11 +139,13 @@ beschliesst:
 
 <sup>2</sup> Das Zulassungsgesuch muss innert folgender Fristen an das Amt gerichtet werden:
 
-- a) vom 10. bis 28. Februar für die im Mai beginnende Session;
-- b) vom 15. bis 30. Juni für die im September beginnende Session;
-- c) vom 15. bis 31. Oktober für die im Januar beginnende Session.
+- a) vom 10. bis 28. Januar für die im April beginnende Session;
+- b) vom 1. bis 15. Juni für die im September beginnende Session.
+- c) …
 
 <sup>3</sup> Der Kandidat, der ein einziges Examen wiederholen muss, kann ein Zulassungsgesuch für die nächste Session innert zehn Tagen seit der Bewertungssitzung stellen, an der sein Misserfolg festgestellt wurde.
+
+<sup>4</sup> Gesuche um eine Neueinschreibung für die nächsten schriftlichen oder mündlichen Prüfungen können jederzeit innert der Fristen nach Artikel 13 Abs. 2 eingereicht werden.
 
 #### Art. 14
 
@@ -216,6 +217,19 @@ beschliesst:
 
 **…**
 
+#### Art. 21a
+
+**Prüfungsbetrug**
+
+<sup>1</sup> Einen Prüfungsbetrug begeht, wer die Prüfungsresultate in unzulässiger Weise beeinflusst oder zu beeinflussen versucht, namentlich wer:
+
+- a) während der schriftlichen oder mündlichen Prüfung nicht erlaubte Mittel verwendet oder zu verwenden versucht;
+- b) während der schriftlichen oder mündlichen Prüfung die Hilfe Dritter oder anderer Kandidaten in Anspruch nimmt oder solche Handlungen versucht.
+
+<sup>2</sup> Prüfungsbetrug wird mit dem Ausschluss von der Examenssession und einem Misserfolg bei den Prüfungen bestraft.
+
+<sup>3</sup> Der Misserfolg und der Ausschluss von der Examenssession wegen Betrug werden in einem Entscheid der Prüfungskommission festgehalten.
+
 ## 3 Schriftliche Prüfungen
 
 #### Art. 22
@@ -238,7 +252,7 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Die schriftlichen Prüfungen bestehen in der Abfassung von sechs notariellen Urkunden.
+<sup>1</sup> Die schriftlichen Prüfungen bestehen in der Abfassung von sechs notariellen Urkunden. Der Kandidat kann angewiesen werden, seine Argumentation in Fussnoten zu begründen.
 
 #### Art. 27
 
@@ -262,9 +276,9 @@ beschliesst:
 
 **Ergebnis**
 
-<sup>1</sup> Der Kandidat hat die Prüfungen bestanden, wenn jede Urkunde angenommen wird.
+<sup>1</sup> Der Kandidat hat die schriftlichen Prüfungen bestanden, wenn alle Urkunden angenommen werden oder wenn in derselben Examenssession mindestens fünf Urkunden angenommen werden.
 
-<sup>2</sup> Wer nicht bestanden hat und erneut zum Examen antritt, hat wiederum sechs Urkunden abzufassen; wurde jedoch nur eine Urkunde nicht angenommen, so sind nur noch drei Urkunden abzufassen.
+<sup>2</sup> Wer nicht bestanden hat und erneut zum Examen antritt, hat wiederum sechs Urkunden abzufassen; wurden jedoch nur zwei Urkunden nicht angenommen, so sind nur noch drei Urkunden abzufassen.
 
 <sup>3</sup> Wer ohne genügenden Grund sich vom Examen zurückzieht, zu einer Prüfung nicht antritt oder im Verlauf einer Prüfung aufgibt, gilt als durchgefallen. Die Prüfungskommission entscheidet, ob ein genügender Grund vorliegt und wieviele Urkunden gegebenenfalls noch abgefasst werden müssen.
 
@@ -293,9 +307,10 @@ beschliesst:
 - a) Zivilrecht;
 - b) Obligationen- und Handelsrecht;
 - c) Steuerrecht;
-- d) Gesetzgebung über das Notariat.
+- d) Gesetzgebung über das Notariat;
+- e) Spezialgesetzgebungen (namentlich Bundesgesetzgebungen über den Erwerb von Grundstücken durch Personen im Ausland, über das bäuerliche Bodenrecht und über das Internationale Privatrecht).
 
-<sup>2</sup> Für Rechtsanwälte, die das Notariatsexamen ablegen, beschränkt sich die mündliche Prüfung auf das Steuerrecht und die Gesetzgebung über das Notariat.
+<sup>2</sup> …
 
 #### Art. 33
 
@@ -318,6 +333,10 @@ beschliesst:
 <sup>1</sup> Die Prüfungskommission stellt dem Kandidaten, der das Examen mit Erfolg bestanden hat, einen Befähigungsausweis aus.
 
 ## 5 Schlussbestimmungen
+
+#### Art. 34a
+
+<sup>1</sup> Die Änderung vom 2. November 2022 gilt ab ihrem Inkrafttreten für alle Kandidaten, mit Ausnahme des neuen Wortlauts von Artikel 7 Abs. 2 und 3, der für Personen, die ihr Praktikum vor 1. Januar 2023 angetreten haben, nicht gilt.
 
 #### Art. 35
 

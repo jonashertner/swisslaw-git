@@ -3,13 +3,12 @@ canton: FR
 number: "137.12"
 title: Règlement sur le stage et les examens de notaire
 language: fr
-version: 2021-09-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-15
+version: 2023-01-01
+version_adopted: 2022-11-02
 adopted: 1977-12-13
 in_force: 1978-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/137.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6877/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7707/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6877/pdf_file"
 
 Notaires, stages et examens – R
 
-du 13.12.1977 (version entrée en vigueur le 01.09.2021)
+du 13.12.1977 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -41,7 +40,7 @@ Arrête:
 - a) avoir l'exercice des droits civils;
 - b) …
 - c) ne pas avoir été condamné pour des actes contraires à la dignité de la profession, à moins d'avoir été réhabilité;
-- d) être titulaire d'une licence en droit d'une université suisse;
+- d) être titulaire d'une licence en droit ou d'un Bachelor of Law et d'un Master of Law d'une université suisse;
 - e) être engagé pour la durée du stage par un ou des maîtres de stage visés à l'article 7.
 
 #### Art. 2
@@ -53,7 +52,7 @@ Arrête:
 - a) une attestation selon laquelle il a l'exercice des droits civils;
 - b) …
 - c) un extrait du casier judiciaire;
-- d) son diplôme de licencié en droit ou une attestation y relative;
+- d) ses diplômes universitaires ou une attestation y relative;
 - e) les pièces attestant son engagement comme stagiaire.
 
 #### Art. 3
@@ -74,7 +73,7 @@ Arrête:
 
 <sup>1</sup> Le stage consiste en un travail assidu d'une durée minimale de deux ans.
 
-<sup>2</sup> Toutefois, la Commission du notariat peut réduire de huit mois cette durée pour qui a exercé durant une année au moins une activité juridique utile à la formation du notaire.
+<sup>2</sup> Toutefois, la Commission du notariat peut réduire cette durée de huit mois au plus pour la personne qui a exercé une activité juridique utile à la formation de notaire.
 
 #### Art. 6
 
@@ -90,9 +89,9 @@ Arrête:
 
 <sup>1</sup> …
 
-<sup>2</sup> Le stage de notaire est fait durant seize mois au moins dans l'étude d'un notaire établi dans le canton; l'autre partie du stage peut être accomplie auprès d'un bureau du registre foncier.
+<sup>2</sup> Le stage de notaire est accompli durant seize mois au moins dans l'étude d'un notaire établi dans le canton; l'autre partie du stage peut être réalisée sous la forme de toute activité juridique que la Commission jugera pertinente pour la formation de notaire.
 
-<sup>3</sup> En règle générale, le stage est fait dans une seule étude. La Commission du notariat peut autoriser des exceptions sur le vu d'une demande écrite motivée.
+<sup>3</sup> En règle générale, le stage est accompli dans une seule étude. La Commission du notariat peut autoriser des exceptions sur demande écrite motivée.
 
 #### Art. 8
 
@@ -126,7 +125,7 @@ Arrête:
 
 **Sessions**
 
-<sup>1</sup> Il y a trois sessions d'examens par année, commençant en janvier, en mai et en septembre.
+<sup>1</sup> Il y a deux sessions d'examens par année, l'une commençant en avril et l'autre en septembre.
 
 <sup>2</sup> Une session dure cinq mois au maximum.
 
@@ -140,11 +139,13 @@ Arrête:
 
 <sup>2</sup> La demande d'admission est adressée au Service dans les délais suivants:
 
-- a) du 10 au 28 février pour la session commençant en mai;
-- b) du 15 au 30 juin pour la session commençant en septembre;
-- c) du 15 au 31 octobre pour la session commençant en janvier.
+- a) du 10 au 28 janvier pour la session commençant en avril;
+- b) du 1<sup>er</sup> au 15 juin pour la session commençant en septembre.
+- c) …
 
 <sup>3</sup> Le candidat qui ne doit subir à nouveau qu'une épreuve peut encore demander son admission pour la prochaine session dans les dix jours à compter de la séance d'appréciation où fut constaté son échec.
+
+<sup>4</sup> Une demande de réinscription, pour les prochaines épreuves écrites ou orales, peut toujours être adressée dans les délais mentionnés à l'article 13 al. 2.
 
 #### Art. 14
 
@@ -216,6 +217,19 @@ Arrête:
 
 **…**
 
+#### Art. 21a
+
+**Fraude**
+
+<sup>1</sup> Commet une fraude la personne qui influe ou tente d'influer de manière illicite sur les résultats des examens, en particulier qui:
+
+- a) pendant l'épreuve écrite ou orale, utilise ou tente d'utiliser des moyens non autorisés;
+- b) pendant l'épreuve écrite ou orale, accepte l'aide d'un tiers, l'aide d'autres candidats, ou tente de tels actes.
+
+<sup>2</sup> La fraude est sanctionnée par une exclusion de la session et un échec aux examens.
+
+<sup>3</sup> L'échec aux examens et l'exclusion de la session pour cause de fraude font l'objet d'une décision de la Commission.
+
 ## 3 Epreuves écrites
 
 #### Art. 22
@@ -238,7 +252,7 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> Les épreuves écrites consistent en la rédaction de six actes.
+<sup>1</sup> Les épreuves écrites consistent en la rédaction de six actes. Le candidat peut être amené à justifier son raisonnement dans des notes de bas de page.
 
 #### Art. 27
 
@@ -262,9 +276,9 @@ Arrête:
 
 **Résultat**
 
-<sup>1</sup> Le candidat a réussi les épreuves écrites si chaque acte est admis.
+<sup>1</sup> Le candidat a réussi les épreuves écrites si chaque acte est admis ou si au moins cinq actes sont admis lors de la même session.
 
-<sup>2</sup> Celui qui a échoué et qui se présente une nouvelle fois à l'examen rédige de nouveau six actes; il n'a toutefois que trois actes à rédiger lorsque seul un acte n'a pas été admis.
+<sup>2</sup> Celui qui a échoué et qui se présente une nouvelle fois à l'examen rédige de nouveau six actes; il n'a toutefois que trois actes à rédiger lorsque seuls deux actes n'ont pas été admis.
 
 <sup>3</sup> Le candidat qui, sans motif légitime, se retire de l'examen, ne se présente pas à une épreuve ou abandonne une épreuve en cours, est censé avoir échoué. La Commission d'examen décide si le motif est légitime et, le cas échéant, combien d'actes doivent encore être rédigés.
 
@@ -293,9 +307,10 @@ Arrête:
 - a) droit civil;
 - b) droit des obligations et droit commercial;
 - c) droit fiscal;
-- d) législation sur le notariat.
+- d) législation sur le notariat;
+- e) législations spéciales (notamment les législations fédérales sur l'acquisition d'immeubles par des personnes à l'étranger, sur le droit foncier rural et sur le droit international privé).
 
-<sup>2</sup> Pour l'avocat candidat au notariat, l'épreuve orale porte sur le droit fiscal et la législation sur le notariat.
+<sup>2</sup> …
 
 #### Art. 33
 
@@ -318,6 +333,10 @@ Arrête:
 <sup>1</sup> La Commission d'examen délivre un brevet de capacité au candidat qui a subi l'examen avec succès.
 
 ## 5 Dispositions finales
+
+#### Art. 34a
+
+<sup>1</sup> La modification du 2 novembre 2022 s'applique dès son entrée en vigueur à toute personne candidate, à l'exception de la nouvelle teneur de l'article 7 al. 2 et 3 qui ne s'applique pas aux personnes ayant débuté leur stage avant le 1<sup>er</sup> janvier 2023.
 
 #### Art. 35
 
