@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2012 sull'allevamento di animali (OAlle)"
 short: OAlle
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-763-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-763-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/it"
 
 (OAlle)
 
-del 31 ottobre 2012 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 31 ottobre 2012 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -79,13 +79,17 @@ Ai sensi della presente ordinanza si intende per:
 
 <sup>1</sup> I contributi ai sensi della presente ordinanza sono assegnati su richiesta.
 
-<sup>2</sup> I termini per la presentazione delle richieste per i contributi, i giorni di riferimento, e i periodi di riferimento sono stabiliti nell’allegato 1.
+<sup>2</sup> I termini per la presentazione delle domande per i contributi, i giorni di riferimento e i periodi di riferimento sono stabiliti nell’allegato 1.[^4-2]
+
+<sup>2bis</sup> I contributi sono versati solo dopo che è stato presentato un conteggio sulle prestazioni fornite. Nel caso di contributi per misure zootecniche il conteggio funge al contempo da domanda. I termini per la presentazione dei conteggi sono stabiliti all’allegato 1. [^4-3]
 
 <sup>3</sup> L’Ufficio federale dell’agricoltura (UFAG) può modificare l’allegato 1.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^4-3]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
-## Sezione 2: Riconoscimento di organizzazioni e imprese di allevamento****
+## Sezione 2: Riconoscimento di organizzazioni e imprese di allevamento
 
 [^sec2-1]
 
@@ -297,7 +301,7 @@ La domanda è respinta se:
 
 [^14-1]: Abrogato dal n. I dell’O del 3 nov. 2021, con effetto dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
-## Sezione 4: Contributi per misure zootecniche****
+## Sezione 4: Contributi per misure zootecniche
 
 [^sec4-1]
 
@@ -599,9 +603,13 @@ I fondi disponibili per la presente sezione sono ripartiti come segue:
 
 ## Sezione 5: Contribuiti per la conservazione delle razze svizzere
 
-**Art. 23***[^sec5-1]* Contributi per la conservazione di razze svizzere
+#### Art. 23
 
-<sup>1</sup> Sono versati contributi per:
+**Principio[^23-2]**[^23-1]
+
+<sup>1</sup>
+
+Sono versati contributi per:
 
 - a.
 
@@ -610,47 +618,164 @@ I fondi disponibili per la presente sezione sono ripartiti come segue:
   - 1\. razze svizzere,
   - 2\. razze che si erano estinte in Svizzera e che sono state nuovamente introdotte, sempre che la loro origine svizzera sia dimostrata;
 
-- b. il deposito a lungo termine di campioni congelati di origine animale (materiale criogenico).
+- b.[^23-3] il deposito a lungo termine di campioni congelati di origine animale (materiale criogenico) di animali di razze svizzere;
+- c.[^23-4] la conservazione di razze svizzere delle specie bovina, equina, suina, ovina e caprina il cui stato è «in pericolo critico» o «minacciate».
 
-<sup>2</sup> Per razza svizzera si intende una razza:
+<sup>2</sup> ...[^23-5]
+
+<sup>3</sup>
+
+I contributi vengono versati:
+
+- a. per progetti di cui al capoverso 1 lettera a: a organizzazioni di allevamento riconosciute e a organizzazioni riconosciute;
+- b. per misure di cui al capoverso 1 lettera b: a organizzazioni di allevamento riconosciute, a organizzazioni riconosciute e a imprese private nel settore dell’allevamento;
+- c.[^23-6] per misure di cui al capoverso 1 lettera c: tramite organizzazioni di allevamento riconosciute agli aventi diritto ai contributi; hanno diritto ai contributi i proprietari di un genitore al momento del concepimento del primo discendente nato vivo da tale genitore nel periodo di riferimento.
+
+<sup>4</sup> ...[^23-7]
+
+<sup>5</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascuna impresa nonché per ciascuna misura.
+
+[^23-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-4]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-5]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-6]: Introdotta dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-7]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
+#### Art. 23a
+
+**Razza svizzera, razza il cui stato è «in pericolo critico» e razza il cui stato è «minacciata»**[^23a-1]
+
+<sup>1</sup>
+
+Per razza svizzera si intende una razza:
 
 - a. che ha la sua origine in Svizzera prima del 1949; o
 - b. per la quale è tenuto un libro genealogico in Svizzera almeno dal 1949.
 
-<sup>3</sup> I contributi vengono versati:
+<sup>2</sup> Lo stato di una razza svizzera è «in pericolo critico» se l’indice globale nel sistema di monitoraggio per le risorse zoogenetiche in Svizzera (GENMON) per tale razza al 1° giugno è compreso tra 0.000 e 0.500.
 
-- a. per progetti di cui al capoverso 1 lettera a: a organizzazioni di allevamento riconosciute e a organizzazioni riconosciute;
-- b. per misure di cui al capoverso 1 lettera b: a organizzazioni di allevamento riconosciute, a organizzazioni riconosciute e a imprese private nel settore dell’allevamento.
+<sup>3</sup> Lo stato di una razza svizzera è «minacciata» se l’indice globale in GENMON per tale razza al 1° giugno è compreso tra 0.501 e 0.700.
 
-<sup>4</sup> Vengono versati complessivamente al massimo 900 000 franchi all’anno. In via suppletiva possono essere impiegati i fondi non utilizzati di cui all’articolo 25. Alle organizzazioni riconosciute ai sensi dell’articolo 5 capoverso 3 lettera b sono versati al massimo 150 000 franchi all’anno per progetti di cui al capoverso 1 lettera a.
+<sup>4</sup> Ogni quattro anni, il 1° giugno, la prima volta il 1° giugno 2027, l’UFAG stabilisce se lo stato di una razza svizzera è ancora «in pericolo critico» o «minacciata» o se una razza svizzera debba essere classificata come «in pericolo critico» o «minacciata».
 
-<sup>5</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascuna impresa nonché per ciascuna misura.
+[^23a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
+#### Art. 23b
+
+**Contributi per progetti di conservazione limitati nel tempo e per il deposito a lungo termine di materiale criogenico**[^23b-1]
+
+<sup>1</sup>
+
+Per i progetti e le misure seguenti nel 2023 sono versati complessivamente al massimo 900 000 franchi e dal 2024 al massimo 500 000 franchi all’anno:
+
+- a. progetti di conservazione limitati nel tempo (art. 23 cpv. 1 lett. a);
+- b. deposito a lungo termine di materiale criogenico di animali di razze svizzere (art. 23 cpv. 1 lett. b).
+
+<sup>2</sup> In via suppletiva ai fondi di cui al capoverso 1 possono essere impiegati i fondi non utilizzati di cui all’articolo 25.
+
+<sup>3</sup> Alle organizzazioni riconosciute secondo l’articolo 5 capoverso 3 lettera b, dei fondi di cui al capoverso 1 sono versati al massimo 150 000 franchi all’anno per progetti di conservazione limitati nel tempo.
+
+[^23b-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
+#### Art. 23c
+
+**Contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23c-1]
+
+<sup>1</sup> Per la conservazione di razze svizzere delle specie bovina, equina, suina, ovina e caprina il cui stato è «in pericolo critico» o «minacciate» vengono versati complessivamente al massimo 4 750 000 franchi all’anno.[^23c-2]
+
+<sup>2</sup> Il contributo per la conservazione di una razza svizzera il cui stato è «in pericolo critico» ammonta a:
+
+<table>
+<tr><td>a. specie bovina: 1. per animale maschio 2. per animale femmina</td><td>856.80 franchi 714 franchi</td></tr>
+<tr><td>b. specie equina: per animale femmina</td><td>500 franchi</td></tr>
+<tr><td>c. specie suina: 1. per animale maschio 2. per animale femmina</td><td>357 franchi 392.70 franchi</td></tr>
+<tr><td>d. specie ovina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevatiin virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>242.80 franchi 178.50 franchi 121.40 franchi</td></tr>
+<tr><td>e. specie caprina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>242.80 franchi 142.80 franchi 121.40 franchi</td></tr>
+</table>
+
+<sup>3</sup> Il contributo per la conservazione di una razza svizzera il cui stato è «minacciata» ammonta a:
+
+<table>
+<tr><td>a. specie bovina: 1. per animale maschio 2. per animale femmina</td><td>282 franchi 235 franchi</td></tr>
+<tr><td>b. specie suina: 1. per animale maschio 2. per animale femmina</td><td>117.50 franchi 129.30 franchi</td></tr>
+<tr><td>c. specie ovina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>79.90 franchi 58.80 franchi 40 franchi</td></tr>
+<tr><td>d. specie caprina: 1. per animale maschio 2. per animale femmina, con campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1 3. per animale femmina, senza campioni di latte prelevati in virtù dell’art. 19 cpv. 2 lett. b n. 1</td><td>79.90 franchi 47 franchi 40 franchi .[^23c-3]</td></tr>
+</table>
+
+<sup>4</sup> Se l’importo massimo di 4 750 000 franchi non è sufficiente, i contributi di cui ai capoversi 2 e 3 sono ridotti per tutte le specie nella stessa percentuale.[^23c-4]
+
+[^23c-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23c-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 (RU **20****23** 184).
+[^23c-3]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-4]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+
+#### Art. 23d
+
+**Esigenze per il versamento di contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23d-1]
+
+<sup>1</sup>
+
+I contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate» sono versati per animali delle specie bovina, equina, suina, ovina e caprina:
+
+- a. iscritti o menzionati in un libro genealogico;
+- b. i cui genitori e nonni sono iscritti o menzionati in un libro genealogico della medesima razza;
+- c. la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento;
+- d.
+
+  che hanno almeno un discendente in vita:
+
+  - 1\. nato nel periodo di riferimento,
+  - 2\. iscritto nel libro genealogico, e
+  - 3\. la cui percentuale di sangue della relativa razza è di almeno l’87,5 per cento.
+
+<sup>2</sup>
+
+Il discendente in vita di cui al capoverso 1 lettera d deve inoltre avere un grado di consanguineità che si basa su almeno tre generazioni e non supera la percentuale seguente:
+
+- a. per le specie bovina, ovina e caprina: 6,25 per cento;
+- b. per le specie suina ed equina: 10 per cento.
+
+<sup>3</sup> Tutti gli animali della razza delle Franches Montagnes che al 1° gennaio 1999 erano iscritti nella sezione Allevamento in purezza del libro genealogico della Federazione svizzera della razza delle Franches Montagnes sono considerati animali con una percentuale di sangue del 100 per cento della razza delle Franches Montagnes.
+
+<sup>4</sup>
+
+I contributi sono versati soltanto se l’effettivo di animali femmina iscritti nel libro genealogico non supera 10 000 animali per le razze il cui stato è «in pericolo critico» e 7 500 animali per le razze il cui stato è «minacciate»; si considerano soltanto gli animali femmina iscritti nel libro genealogico che adempiono le seguenti esigenze:
+
+- a. i loro genitori e nonni sono iscritti o menzionati in un libro genealogico della medesima razza;
+- b. la loro percentuale di sangue della relativa razza è di almeno l’87,5 per cento;
+- c*.* gli animali iscritti nel libro genealogico delle specie bovina, equina e suina hanno almeno una nascita iscritta nel libro genealogico;
+- d. gli animali iscritti nel libro genealogico delle specie ovina e caprina hanno almeno sei mesi d’età.[^23d-2]
+
+<sup>5</sup> I contributi sono versati soltanto se almeno una volta all’anno le organizzazioni di allevamento riconosciute mettono a disposizione del gestore di GENMON i dati del libro genealogico e le informazioni necessarie per calcolare l’indice globale.
+
+[^23d-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23d-2]: Nuovo testo giusta il n. I dell’O del 5 apr. 2023, in vigore dal 1° gen. 2023 ([RU 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+
+#### Art. 23e
+
+**Versamento dei contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate»**[^23e-1]
+
+<sup>1</sup> Chi intende ricevere contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate» deve farne richiesta presentando una domanda all’organizzazione di allevamento riconosciuta in questione. La domanda deve essere presentata, una sola volta, nell’anno a partire dal quale l’avente diritto intende ricevere i contributi.
+
+<sup>2</sup> L’organizzazione di allevamento riconosciuta verifica il diritto ai contributi.
+
+<sup>3</sup> Richiede all’UFAG di versare i contributi sulla base di un elenco di genitori, maschi e femmine, per i quali vanno versati i contributi nel periodo di riferimento in questione. Per animale e periodo di riferimento può essere richiesto il versamento di un solo contributo.
+
+<sup>4</sup> L’organizzazione di allevamento riconosciuta versa i contributi agli aventi diritto al più tardi 60 giorni dopo averli ricevuti dall’UFAG.
+
+<sup>5</sup> Comunica all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di animali maschi e femmine per i quali vanno versati contributi.
+
+<sup>6</sup> L’UFAG pubblica i contributi versati alle organizzazioni di allevamento riconosciute.
+
+[^23e-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 #### Art. 24
 
-**Contributi supplementari per la conservazione della razza delle Franches Montagnes[^24-1]**
+[^24-1]
 
-<sup>1</sup> L’importo annuo massimo destinato alla conservazione della razza delle Franches Montagnes, a complemento dell’articolo 23, ammonta a 1 160 000 franchi.
-
-<sup>2</sup> Il contributo ammonta a 500 franchi per giumenta accompagnata dal puledro. Se l’importo annuo massimo di 1 160 000 franchi non è sufficiente, la Federazione svizzera della razza delle Franches Montagnes[^24-2] riduce proporzionalmente il contributo per ogni giumenta accompagnata dal puledro.
-
-<sup>3</sup> Danno diritto ai contributi le giumente iscritte nel libro genealogico, detenute conformemente alla protezione degli animali, accompagnate da un puledro identificato e iscritto nel libro genealogico, nonché registrato nella banca dati sul traffico di animali nell’anno di contribuzione che discende da uno stallone iscritto nel libro genealogico della razza delle Franches Montagnes.[^24-3]
-
-<sup>4</sup> Gli allevatori devono depositare le loro domande presso la Federazione svizzera della razza delle Franches Montagnes.
-
-<sup>5</sup> La Federazione svizzera della razza delle Franches Montagnes decide in merito al diritto ai contributi e versa il relativo importo all’allevatore, direttamente o per il tramite della rispettiva cooperativa di allevamento equino. La cooperativa di allevamento equino trasmette i contributi entro 30 giorni lavorativi. In base a un elenco delle giumente accompagnate dal puledro che danno diritto a contributi, la Federazione fattura i contributi all’UFAG. Per i controlli concernenti la detenzione conforme alla protezione degli animali, la Federazione fa capo ai Cantoni o alle organizzazioni cui ricorrono i Cantoni; il controllo è retto dall’ordinanza del 31 ottobre 2018[^24-4] sul coordinamento dei controlli.[^24-5]
-
-<sup>6</sup> La Federazione svizzera della razza delle Franches Montagnes comunica all’UFAG, entro il 31 ottobre dell’anno che precede quello di contribuzione, il numero stimato di giumente che danno diritto ai contributi.
-
-<sup>7</sup> L’UFAG pubblica i contributi versati alla Federazione svizzera della razza delle Franches Montagnes.[^24-6]
-
-[^sec5-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^24-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^24-2]: Nuova espr. giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^24-3]: Nuovo testo giusta il n. I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
-[^24-4]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^24-5]: Nuovo testo giusta il n. 5 dell’all. 2 all’O del 31 ott. 2018 sul coordinamento dei controlli delle aziende agricole, in vigore dal 1° gen. 2020 ([RU 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
-[^24-6]: Introdotto dal n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^24-1]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 ## Sezione 6: Contribuiti per progetti di ricerca
 
@@ -658,13 +783,14 @@ I fondi disponibili per la presente sezione sono ripartiti come segue:
 
 [^25-1]
 
-<sup>1</sup> Per progetti di ricerca sulle risorse zoogenetiche le organizzazioni di allevamento riconosciute e gli istituti di scuole universitarie federali e cantonali sono sostenuti mediante contributi. I contributi ammontano complessivamente al massimo a 100 000 franchi all’anno.
+<sup>1</sup> Per progetti di ricerca sulle risorse zoogenetiche le organizzazioni di allevamento riconosciute e gli istituti di scuole universitarie federali e cantonali sono sostenuti mediante contributi. Nel 2023 i contributi ammontano complessivamente al massimo a 100 000 franchi e dal 2024 al massimo a 500 000 franchi all’anno.[^25-2]
 
 <sup>2</sup> L’UFAG pubblica i contributi versati a ciascuna organizzazione o a ciascun istituto nonché per ciascuna misura.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^25-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
-## Sezione 6*a*:**** Compiti dell’Istituto nazionale svizzero di allevamento equino
+## Sezione 6*a*: Compiti dell’Istituto nazionale svizzero di allevamento equino
 
 [^sec6a-1]
 
@@ -857,7 +983,17 @@ L’UFAG è incaricato dell’esecuzione, sempre che non ne siano investite altr
 
 <sup>2</sup> La modifica del diritto vigente è disciplinata nell’allegato 2.
 
-[^38-1]: [[RU 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 7]
+[^38-1]: [[RU 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837); [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)II 1, [5871](https://fedlex.data.admin.ch/eli/oc/2008/810); [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777); [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)II; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)all. 2 n. 7]
+
+#### Art. 38a
+
+**Disposizioni transitorie della modifica del 2 novembre 2022**[^38a-1]
+
+<sup>1</sup> Per stabilire se lo stato di una razza al momento dell’entrata in vigore della modifica del 2 novembre 2022 sia «in pericolo critico» o «minacciata» (art. 23*a*) è determinante l’indice globale in GENMON al 1° giugno 2021.
+
+<sup>2</sup> Per equini della razza delle Franches Montagnes nati tra il 1° dicembre 2022 e il 31 maggio 2023 si applica l’articolo 24 conformemente al diritto anteriore; l’articolo 23, al quale l’articolo 24 rimanda, è determinante nella versione secondo il diritto anteriore. Gli allevatori devono presentare le domande entro il 30 novembre 2023 alla Federazione svizzera della razza delle Franches Montagnes, la quale deve inoltrarle all’UFAG entro il 15 dicembre 2023.
+
+[^38a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 #### Art. 39
 
@@ -871,18 +1007,18 @@ L’UFAG è incaricato dell’esecuzione, sempre che non ne siano investite altr
 
 La presente ordinanza entra in vigore il 1° gennaio 2013.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4)
 
-## Termini per la presentazione delle domande per i contributi e giorni di riferimento e periodi di riferimento
+## Termini per la presentazione delle domande per il versamento dei contributi e per la presentazione dei conteggi nonché giorni di riferimento e periodi di riferimento
 
-[^t-1]: Aggiornato dai n. II delle O del 21 mag. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)) e del 20 mag. 2015, in vigore dal 1° gen. 2016 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^t-1]: Aggiornato dal n. II delle O del 21 mag. 2014 ([RU 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), del 20 mag. 2015 ([RU 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) e dal n. I e II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 ### 1. Allevamento di bovini
 
 <table>
-<tr><td>Art. 15</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
+<tr><td>Art. 15</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Animali iscritti nel libro genealogico e animali non iscritti nel libro facenti parte di effettivi che vi sono iscritti</td><td>30 novembre</td><td>15 novembre</td></tr>
 <tr><td>Apprezzamenti della conformazione (descrizione lineare e classificazione)</td><td>1° novembre–31 ottobre</td><td>30 novembre</td></tr>
 <tr><td>Fine della lattazione</td><td>16 dicembre–31 marzo</td><td>15 aprile</td></tr>
@@ -896,7 +1032,7 @@ Allegato 1*[^t-1]*
 ### 2. Allevamento di equini
 
 <table>
-<tr><td>Art. 16</td><td>Periodo di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
+<tr><td>Art. 16</td><td>Periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Puledri identificati e iscritti nel libro genealogico e registrati nella banca dati sul traffico di animali</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Esami di selezione degli stalloni in una stazione</td><td>1° novembre–31 ottobre</td><td>30 novembre</td></tr>
 <tr><td>Esami di selezione degli stalloni nell’azienda</td><td>1° novembre–31 ottobre</td><td>30 novembre</td></tr>
@@ -905,7 +1041,7 @@ Allegato 1*[^t-1]*
 ### 3. Allevamento di suini
 
 <table>
-<tr><th>Art. 17</th><th>Giorno di riferimento/ periodo di riferimento</th><th>Termine per la presentazione della domanda</th></tr>
+<tr><th>Art. 17</th><th>Giorno di riferimento/ periodo di riferimento</th><th>Termine</th></tr>
 <tr><td>Animali iscritti nel libro genealogico</td><td>Effettivo medio di animali iscritti nel libro genealogico nei giorni di riferimento: 31 dicembre, 31 marzo, 30 giugno e 30 settembre</td><td>15 dicembre</td></tr>
 <tr><td>Esami nell’azienda</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Esami in una stazione</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
@@ -916,7 +1052,7 @@ Allegato 1*[^t-1]*
 ### 4. Allevamento di ovini escluse le pecore da latte
 
 <table>
-<tr><td>Art. 18</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
+<tr><td>Art. 18</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Animali iscritti nel libro genealogico e animali non iscritti nel libro facenti parte di effettivi che vi sono iscritti</td><td>1° giugno</td><td>15 luglio</td></tr>
 <tr><td>Esami della capacità di sviluppo</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 </table>
@@ -924,7 +1060,7 @@ Allegato 1*[^t-1]*
 ### 5. Allevamento di caprini e di pecore da latte
 
 <table>
-<tr><td>Art. 19</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
+<tr><td>Art. 19</td><td>Giorno di riferimento/ periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Animali iscritti nel libro genealogico</td><td>1° giugno</td><td>15 luglio</td></tr>
 <tr><td>Fine della lattazione</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Esami della capacità di sviluppo</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
@@ -933,34 +1069,36 @@ Allegato 1*[^t-1]*
 ### 6. Allevamento di camelidi del Nuovo Mondo
 
 <table>
-<tr><td>Art. 20</td><td>Giorno di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
+<tr><td>Art. 20</td><td>Giorno di riferimento</td><td>Termine</td></tr>
 <tr><td>Animali iscritti nel libro genealogico</td><td>30 novembre</td><td>15 dicembre</td></tr>
 </table>
 
 ### 7. Allevamento di api mellifere
 
 <table>
-<tr><th>Art. 21</th><th>Periodo di riferimento</th><th>Termine per la presentazione della domanda</th></tr>
+<tr><th>Art. 21</th><th>Periodo di riferimento</th><th>Termine</th></tr>
 <tr><td>Animali iscritti nel libro genealogico (regina)</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Determinazione della purezza</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Esame funzionale nell’apiario sperimentale con campione conosciuto e con campione reso anonimo e stima dei valori genetici</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 <tr><td>Stazione di fecondazione A e B</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
 </table>
 
-### 8. Misure di conservazione delle razze svizzere
+### 8. Conservazione di razze svizzere
 
 <table>
-<tr><td>Art. 23 e 24</td><td>Periodo di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
-<tr><td>Domande relative a progetti per la conservazione di razze svizzere</td><td>Anno civile</td><td>30 giugno</td></tr>
-<tr><td>Conteggio relativo a progetti per la conservazione di razze svizzere</td><td>Anno civile</td><td>15 dicembre</td></tr>
-<tr><td>Preservazione della razza delle Franches Montagnes (presentazione della domanda alla Federazione svizzera della razza delle Franches Montagnes)</td><td>1° dicembre–30 novembre</td><td>30 novembre</td></tr>
-<tr><td>Preservazione della razza delle Franches Montagnes (presentazione della domanda all’UFAG)</td><td>1° dicembre–30 novembre</td><td>15 dicembre</td></tr>
+<tr><th>Art. 23–23*e*</th><th>Periodo di riferimento</th><th>Termine</th></tr>
+<tr><td>Domande di contributi per progetti di conservazione limitati nel tempo (art. 23 cpv. 1 lett. a)</td><td>Anno civile</td><td>30 giugno</td></tr>
+<tr><td>Conteggio relativo a contributi per progetti di conservazione limitati nel tempo (art. 23 cpv. 1 lett. a)</td><td>Anno civile</td><td>15 dicembre</td></tr>
+<tr><td>Domande di contributi per il deposito a lungo termine di materiale criogenico (art. 23 cpv. 1 lett. b)</td><td>Anno civile</td><td>30 giugno</td></tr>
+<tr><td>Conteggio relativo a contributi per il deposito a lungo termine di materiale criogenico (art. 23 cpv. 1 lett. b)</td><td>Anno civile</td><td>15 dicembre</td></tr>
+<tr><td>Domande di contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate» (art. 23 cpv. 1 lett. c)</td><td>1° giugno–31 maggio</td><td>10 giugno</td></tr>
+<tr><td>Conteggio relativo ai contributi per la conservazione di razze svizzere il cui stato è «in pericolo critico» o «minacciate» (art. 23 cpv. 1 lett. c)</td><td>1° giugno–31 maggio</td><td>31 luglio</td></tr>
 </table>
 
 ### 9. Progetti di ricerca
 
 <table>
-<tr><td>Art. 25</td><td>Periodo di riferimento</td><td>Termine per la presentazione della domanda</td></tr>
+<tr><td>Art. 25</td><td>Periodo di riferimento</td><td>Termine</td></tr>
 <tr><td>Domande relative a progetti di ricerca</td><td>Anno civile</td><td>30 giugno</td></tr>
 <tr><td>Conteggio relativo a progetti di ricerca</td><td>Anno civile</td><td>15 dicembre</td></tr>
 </table>
@@ -971,6 +1109,6 @@ Allegato 2
 
 ## Modifica del diritto vigente
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763).

@@ -4,11 +4,11 @@ title: "Verordnung vom 31. Oktober 2012 über die Tierzucht (Tierzuchtverordnung
 short: TZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/763"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-763-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/763/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-763-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/763/20220101/de"
 
 (Tierzuchtverordnung, TZV)
 
-vom 31. Oktober 2012 (Stand am 1. Januar 2022)
+vom 31. Oktober 2012 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -81,9 +81,12 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Die Fristen zur Einreichung der Gesuche sowie die Stichtage und Referenzperioden sind in Anhang 1 aufgeführt.
 
+<sup>2bis</sup> Die Beiträge werden erst ausgerichtet, nachdem eine Abrechnung über die erbrachten Leistungen eingereicht worden ist. Für Beiträge für züchterische Massnahmen gilt die Abrechnung gleichzeitig als Gesuch. Die Fristen für die Einreichung der Abrechnungen sind in Anhang 1 festgelegt.[^4-2]
+
 <sup>3</sup> Das Bundesamt für Landwirtschaft (BLW) kann Anhang 1 ändern.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 ## 2. Abschnitt: Anerkennung von Organisationen und Zuchtunternehmen
 
@@ -297,7 +300,7 @@ Der Antrag wird abgelehnt, wenn:
 
 [^14-1]: Aufgehoben durch Ziff. I der V vom 3. Nov. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
-## 4. Abschnitt: Beiträge für züchterische Massnahmen****
+## 4. Abschnitt: Beiträge für züchterische Massnahmen
 
 [^sec4-1]
 
@@ -331,8 +334,6 @@ Die Unterstützung erfolgt durch:
 <sup>4</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Zuchtorganisation und je Massnahme.
 
 [^14a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-
-## 4. Abschnitt: Beiträge für die Tierzucht
 
 #### Art. 15
 
@@ -603,7 +604,7 @@ Herdebuchtiere, welche die Anforderungen nach den Absätzen 6 und 7 nicht erfül
 
 #### Art. 23
 
-**Beiträge zur Erhaltung von Schweizer Rassen**[^23-1]
+**Grundsatz[^23-2]**[^23-1]
 
 <sup>1</sup>
 
@@ -616,52 +617,164 @@ Es werden Beiträge ausgerichtet für:
   - 1\. Schweizer Rassen,
   - 2\. Rassen, die in der Schweiz ausgestorben waren und wieder eingeführt wurden, sofern ihr Ursprung in der Schweiz nachgewiesen wird;
 
-- b. die Langzeitlagerung von tiefgefrorenem Probematerial tierischen Ursprungs (Kryomaterial).
+- b.[^23-3] die Langzeitlagerung von tiefgefrorenem Probematerial tierischen Ursprungs (Kryomaterial) von Tieren von Schweizer Rassen;
+- c.[^23-4] die Erhaltung von Schweizer Rassen der Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen, deren Status kritisch oder gefährdet ist.
 
-<sup>2</sup>
-
-Als Schweizer Rasse gilt eine Rasse:
-
-- a. die vor 1949 in der Schweiz ihren Ursprung hat; oder
-- b. für die seit mindestens 1949 ein Herdebuch in der Schweiz geführt wird.
+<sup>2</sup> …[^23-5]
 
 <sup>3</sup>
 
 Die Beiträge werden ausgerichtet:
 
 - a. für Projekte nach Absatz 1 Buchstabe a: an anerkannte Zuchtorganisationen und anerkannte Organisationen;
-- b. für Massnahmen nach Absatz 1 Buchstabe b: an anerkannte Zuchtorganisationen, anerkannte Organisationen und private Unternehmen aus dem Tierzuchtbereich.
+- b. für Massnahmen nach Absatz 1 Buchstabe b: an anerkannte Zuchtorganisationen, anerkannte Organisationen und private Unternehmen aus dem Tierzuchtbereich;
+- c.[^23-6] für Massnahmen nach Absatz 1 Buchstabe c: über die anerkannten Zuchtorganisationen an die Beitragsberechtigten; beitragsberechtigt ist, wer im Zeitpunkt der Konzeption des ersten in der Referenzperiode lebend geborenen Nachkommens eines Elterntiers Eigentümerin oder Eigentümer dieses Elterntiers ist.
 
-<sup>4</sup> Insgesamt werden höchstens 900 000 Franken pro Jahr ausgerichtet. Zusätzlich können nicht ausgeschöpfte Mittel nach Artikel 25 verwendet werden. An anerkannte Organisationen nach Artikel 5 Absatz 3 Buchstabe b werden für Projekte nach Absatz 1 Buchstabe a pro Jahr höchstens 150 000 Franken ausgerichtet.
+<sup>4</sup> …[^23-7]
 
 <sup>5</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Organisation beziehungsweise je Unternehmen sowie je Massnahme.
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-4]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-5]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-6]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23-7]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
+#### Art. 23a
+
+**Schweizer Rasse, Rasse mit kritischem Status und Rasse mit gefährdetem Status**[^23a-1]
+
+<sup>1</sup>
+
+Als Schweizer Rasse gilt eine Rasse:
+
+- a. die vor 1949 in der Schweiz ihren Ursprung hat; oder
+- b. für die seit mindestens 1949 ein Herdebuch in der Schweiz geführt wird.
+
+<sup>2</sup> Der Status einer Schweizer Rasse gilt als kritisch, wenn der Globalindex für die Rasse im Monitoringsystem für tiergenetische Ressourcen in der Schweiz (GENMON) am 1. Juni zwischen 0,000 und 0,500 liegt*.*
+
+<sup>3</sup> Der Status einer Schweizer Rasse gilt als gefährdet, wenn der Globalindex für die Rasse im GENMON am 1. Juni zwischen 0,501 und 0,700 liegt.
+
+<sup>4</sup> Das BLW legt alle vier Jahre am 1. Juni, erstmals am 1. Juni 2027, fest, ob der Status einer Schweizer Rasse weiterhin kritisch oder gefährdet ist oder ob eine Schweizer Rasse neu als kritisch oder gefährdet einzustufen ist.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
+#### Art. 23b
+
+**Beiträge für zeitlich befristete Erhaltungsprojekte und für die Langzeitlagerung von Kryomaterial**[^23b-1]
+
+<sup>1</sup>
+
+Für die folgenden Projekte und Massnahmen werden im Jahr 2023 insgesamt höchstens 900 000 Franken und ab dem Jahr 2024 insgesamt höchstens 500 000 Franken pro Jahr ausgerichtet:
+
+- a. zeitlich befristete Erhaltungsprojekte (Art. 23 Abs. 1 Bst. a);
+- b. die Langzeitlagerung von Kryomaterial von Tieren von Schweizer Rassen (Art. 23 Abs. 1 Bst. b).
+
+<sup>2</sup> Zusätzlich zu den Mitteln nach Absatz 1 können nicht ausgeschöpfte Mittel nach Artikel 25 verwendet werden.
+
+<sup>3</sup> An anerkannte Organisationen nach Artikel 5 Absatz 3 Buchstabe b werden für zeitlich befristete Erhaltungsprojekte von den Mitteln nach Absatz 1 höchstens 150 000 Franken pro Jahr ausgerichtet.
+
+[^23b-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
+#### Art. 23c
+
+**Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23c-1]
+
+<sup>1</sup> Für die Erhaltung Schweizer Rassen der Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen, deren Status kritisch oder gefährdet ist, werden insgesamt höchstens 4 750 000 Franken pro Jahr ausgerichtet.[^23c-2]
+
+<sup>2</sup> Der Beitrag für die Erhaltung einer Schweizer Rasse, deren Status kritisch ist, beträgt für:
+
+<table>
+<tr><td>a. die Rindviehgattung: 1. je männliches Tier 2. je weibliches Tier</td><td>856.80 Franken 714 Franken</td></tr>
+<tr><td>b. die Equidengattung: je weibliches Tier</td><td>500 Franken</td></tr>
+<tr><td>c. die Schweinegattung: 1. je männliches Tier 2. je weibliches Tier</td><td>357 Franken 392.70 Franken</td></tr>
+<tr><td>d. die Schafgattung: 1. je männliches Tier 2. je weibliches Tier - Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier - Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>242.80 Franken 178.50 Franken 121.40 Franken</td></tr>
+<tr><td>e. die Ziegengattung: 1. je männliches Tier 2. je weibliches Tier - Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier - Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>242.80 Franken 142.80 Franken 121.40 Franken</td></tr>
+</table>
+
+<sup>3</sup> Der Beitrag für die Erhaltung einer Schweizer Rasse, deren Status gefährdet ist, beträgt für:
+
+<table>
+<tr><td>a. die Rindviehgattung: 1. je männliches Tier 2. je weibliches Tier</td><td>282 Franken 235 Franken</td></tr>
+<tr><td>b. die Schweinegattung: 1. je männliches Tier 2. je weibliches Tier</td><td>117.50 Franken 129.30 Franken</td></tr>
+<tr><td>c. die Schafgattung: 1. je männliches Tier 2. je weibliches Tier – Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier – Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>79.90 Franken 58.80 Franken 40 Franken</td></tr>
+<tr><td>d. die Ziegengattung: 1. je männliches Tier 2. je weibliches Tier – Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben 3. je weibliches Tier – Keine Milchproben gemäss Art. 19 Abs. 2 Bst. b Ziff. 1 erhoben</td><td>79.90 Franken 47 Franken 40 Franken.[^23c-3]</td></tr>
+</table>
+
+<sup>4</sup> Reicht der Höchstbeitrag von 4 750 000 Franken nicht aus, so werden die Beiträge nach den Absätzen 2 und 3 in allen Gattungen um den gleichen Prozentsatz gekürzt.[^23c-4]
+
+[^23c-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23c-2]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-3]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+[^23c-4]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+
+#### Art. 23d
+
+**Voraussetzungen für die Ausrichtung von Beiträgenfür die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23d-1]
+
+<sup>1</sup>
+
+Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status werden ausgerichtet für Tiere der Gattungen Rindvieh, Equiden, Schweine, Schafe und Ziegen:
+
+- a. die in einem Herdebuch eingetragen oder vermerkt sind;
+- b. deren Eltern und Grosseltern in einem Herdebuch der gleichen Rasse eingetragen oder vermerkt sind;
+- c. die einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweisen;
+- d.
+
+  die mindestens einen lebenden Nachkommen aufweisen, der:
+
+  - 1\. in der Referenzperiode geboren wurde,
+  - 2\. im Herdebuch eingetragen ist, und
+  - 3\. einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse aufweist.
+
+<sup>2</sup>
+
+Der lebende Nachkomme nach Absatz 1 Buchstabe d muss zudem einen Inzuchtgrad aufweisen, der auf mindestens drei Generationen basiert und folgenden Prozentsatz nicht überschreitet:
+
+- a. Rindvieh-, Schaf- und Ziegengattung: 6,25 Prozent;
+- b. Schweine- und Equidengattung: 10 Prozent.
+
+<sup>3</sup> Alle Tiere der Freibergerrasse, die am 1. Januar 1999 in der Sektion Reinzucht des Herdebuchs des Schweizerischen Freibergerverbands eingetragen waren, gelten als Tiere mit einem Blutanteil von 100 Prozent der Freibergerrasse.
+
+<sup>4</sup>
+
+Die Beiträge werden nur ausgerichtet, wenn der Bestand der weiblichen Herdebuchtiere bei Rassen mit kritischem Status 10 000 Tiere und bei Rassen mit gefährdetem Status 7500 Tiere nicht überschreitet; dabei werden nur die weiblichen Herdebuchtiere berücksichtigt, die die folgenden Voraussetzungen erfüllen:
+
+- a. Ihre Eltern und Grosseltern sind in einem Herdebuch der gleichen Rasse eingetragen oder vermerkt.
+- b. Sie weisen einen Blutanteil von 87,5 Prozent oder mehr der entsprechenden Rasse auf.
+- c. Die Herdebuchtiere der Gattungen Rindvieh, Equiden und Schweine weisen mindestens eine Geburt im Herdebuch auf.
+- d. Die Herdebuchtiere der Gattungen Schafe und Ziegen sind mindestens 6 Monate alt.[^23d-2]
+
+<sup>5</sup> Die Beiträge werden nur ausgerichtet, wenn die anerkannten Zuchtorganisationen der Betreiberin des GENMON die Herdebuchdaten und die für die Berechnung des Globalindizes nötigen Informationen mindestens einmal jährlich zur Verfügung stellen.
+
+[^23d-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+[^23d-2]: Fassung gemäss Ziff. I der V vom 5. April 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 184](https://fedlex.data.admin.ch/eli/oc/2023/184)).
+
+#### Art. 23e
+
+**Ausrichtung der Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status**[^23e-1]
+
+<sup>1</sup> Wer Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status erhalten möchte, muss dies bei der betreffenden anerkannten Zuchtorganisation mit einem Gesuch beantragen. Das Gesuch muss einmalig in jenem Jahr eingereicht werden, ab dem die oder der Beitragsberechtigte Beiträge erhalten möchte.
+
+<sup>2</sup> Die anerkannte Zuchtorganisation überprüft die Beitragsberechtigung.
+
+<sup>3</sup> Sie beantragt beim BLW die Überweisung der Beiträge anhand einer Liste der männlichen und weiblichen Elterntiere, für die in der betreffenden Referenzperiode Beiträge auszurichten sind. Pro Tier und Referenzperiode darf die Überweisung nur eines Beitrags beantragt werden.
+
+<sup>4</sup> Die anerkannte Zuchtorganisation richtet die Beiträge spätestens 60 Tage, nachdem sie die Beiträge vom BLW erhalten hat, den Beitragsberechtigten aus.
+
+<sup>5</sup> Sie meldet dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl männlicher und weiblicher Tiere, für die Beiträge ausgerichtet werden sollen.
+
+<sup>6</sup> Das BLW veröffentlicht die an die anerkannten Zuchtorganisationen ausgerichteten Beiträge.
+
+[^23e-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 #### Art. 24
 
-**Zusätzliche Beiträge zur Erhaltung der Freibergerrasse[^24-1]**
+[^24-1]
 
-<sup>1</sup> Für die Erhaltung der Freibergerrasse werden zusätzlich zu Artikel 23 höchstens 1 160 000 Franken pro Jahr ausgerichtet.
-
-<sup>2</sup> Der Beitrag beträgt 500 Franken je Stute mit Fohlen bei Fuss. Genügt der Höchstbeitrag von 1 160 000 Franken pro Jahr nicht, so wird der Beitrag je Stute mit Fohlen bei Fuss vom Schweizerischen Freibergerverband[^24-2] entsprechend gekürzt.
-
-<sup>3</sup> Zu Beiträgen berechtigen im Herdebuch eingetragene, tierschutzkonform gehaltene Stuten mit einem im Beitragsjahr identifizierten und im Herdebuch eingetragenen sowie in der Tierverkehrsdatenbank registrierten Fohlen, das von einem im Herdebuch der Freibergerrasse eingetragenen Hengst abstammt.[^24-3]
-
-<sup>4</sup> Züchterinnen und Züchter müssen die Gesuche beim Schweizerischen Freibergerverband einreichen.
-
-<sup>5</sup> Der Schweizerische Freibergerverband entscheidet über die Beitragsberechtigung und richtet die Beiträge direkt oder über die jeweilige Pferdezuchtgenossenschaft an die Züchterin oder den Züchter aus. Die Pferdezuchtgenossenschaft muss die Beiträge innerhalb von 30 Arbeitstagen weiterleiten. Anhand einer Liste der beitragsberechtigten Stuten mit Fohlen bei Fuss stellt der Verband dem BLW die Beiträge in Rechnung. Der Verband zieht für die Kontrolle der tierschutzkonformen Haltung die Kantone oder die von diesen beigezogenen Organisationen bei; die Kontrolle richtet sich nach der Verordnung vom 31. Oktober 2018[^24-4] über die Koordination der Kontrollen auf Landwirtschaftsbetrieben.[^24-5]
-
-<sup>6</sup> Der Schweizerische Freibergerverband meldet dem BLW bis zum 31. Oktober des dem Beitragsjahr vorangehenden Jahres die geschätzte Anzahl Stuten, für die Beiträge ausgerichtet werden sollen.
-
-<sup>7</sup> Das BLW veröffentlicht die an den Schweizerischen Freibergerverband ausgerichteten Beiträge.[^24-6]
-
-[^24-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
-[^24-2]: Ausdruck gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)). Die Anpassung wurde im ganzen Text vorgenommen.
-[^24-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3975](https://fedlex.data.admin.ch/eli/oc/2013/725)).
-[^24-4]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
-[^24-5]: Fassung gemäss Anhang 2 Ziff. 5 der V vom 31. Okt. 2018 über die Koordination der Kontrollen auf Landwirtschaftsbetrieben, in Kraft seit 1. Jan. 2020 ([AS 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)).
-[^24-6]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^24-1]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 ## 6. Abschnitt: Beiträge für Forschungsprojekte
 
@@ -669,21 +782,24 @@ Die Beiträge werden ausgerichtet:
 
 [^25-1]
 
-<sup>1</sup> Für Forschungsprojekte über tiergenetische Ressourcen werden anerkannte Zuchtorganisationen und Institute von eidgenössischen und kantonalen Hochschulen mit Beiträgen unterstützt. Die Beiträge betragen insgesamt höchstens 100 000 Franken pro Jahr.
+<sup>1</sup> Für Forschungsprojekte über tiergenetische Ressourcen werden anerkannte Zuchtorganisationen und Institute von eidgenössischen und kantonalen Hochschulen mit Beiträgen unterstützt. Die Beiträge betragen im Jahr 2023 insgesamt höchstens 100 000 Franken und ab dem Jahr 2024 insgesamt höchstens 500 000 Franken pro Jahr.[^25-2]
 
 <sup>2</sup> Das BLW veröffentlicht die ausgerichteten Beiträge je Organisation beziehungsweise je Institut sowie je Massnahme.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^25-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
-## 6*a*. Abschnitt:**** Aufgaben des Schweizer Nationalgestüts
+## 6*a*. Abschnitt: Aufgaben des Schweizer Nationalgestüts
 
-[^sec7-1]
+[^sec6a-1]
 
-[^sec7-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^sec6a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 
-**Art. 25**a
+#### Art. 25a
 
-<sup>1</sup> Das Schweizer Nationalgestüt nach Artikel 147 des Landwirtschaftsgesetzes vom 29. April 1998 hat die folgenden Aufgaben:
+<sup>1</sup>
+
+Das Schweizer Nationalgestüt nach Artikel 147 des Landwirtschaftsgesetzes vom 29. April 1998 hat die folgenden Aufgaben:
 
 - a. Es fördert die genetische Vielfalt der Freibergerrasse, stellt diese den Züchterinnen und Züchtern in vivo und in vitro zur Verfügung und unterstützt weitere Erhaltungsmassnahmen des Schweizerischen Freibergerverbands in fachlicher Hinsicht.
 - b. Es betreibt angewandte Forschung in den Bereichen Zucht, Haltung und Nutzung von Equiden und arbeitet dabei hauptsächlich mit den Hochschulen zusammen.
@@ -691,9 +807,9 @@ Die Beiträge werden ausgerichtet:
 - d. Es fördert im Bereich der Haltung und Nutzung von Equiden den Wissensaustausch und bietet Beratung an.
 - e. Es hält Equiden und stellt Infrastrukturen sowie Anlagen bereit, um die Aufgaben nach den Buchstaben a–d erfüllen zu können.
 
-<sup>2</sup> Für seine Dienstleistungen und Auslagen erhebt das Gestüt Gebühren; diese richten sich nach der Verordnung vom 16. Juni 2006[^sec7-2] über Gebühren des Bundesamtes für Landwirtschaft.
+<sup>2</sup> Für seine Dienstleistungen und Auslagen erhebt das Gestüt Gebühren; diese richten sich nach der Verordnung vom 16. Juni 2006[^25a-1] über Gebühren des Bundesamtes für Landwirtschaft.
 
-[^sec7-2]: [SR 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
+[^25a-1]: [SR 910.11](https://fedlex.data.admin.ch/eli/cc/2006/415)
 
 ## 7. Abschnitt: Abstammungsausweis für das Inverkehrbringen von Zuchttieren sowie von deren Samen, unbefruchteten Eizellen und Embryonen
 
@@ -870,6 +986,16 @@ Das BLW vollzieht diese Verordnung, soweit damit nicht andere Behörden betraut 
 
 [^38-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837); [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)Ziff. II 1, [5871](https://fedlex.data.admin.ch/eli/oc/2008/810); [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777); [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)Ziff. II; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 7]
 
+#### Art. 38a
+
+**Übergangsbestimmungen zur Änderung vom 2. November 2022**[^38a-1]
+
+<sup>1</sup> Für die Festlegung, ob der Status einer Rasse im Zeitpunkt des Inkrafttretens der Änderung vom 2. November 2022 kritisch oder gefährdet ist (Art. 23*a*), ist der Globalindex im GENMON am 1. Juni 2021 massgebend.
+
+<sup>2</sup> Für Pferde der Freibergerrasse, die zwischen dem 1. Dezember 2022 und dem 31. Mai 2023 geboren werden, gilt Artikel 24 gemäss bisherigem Recht; Artikel 23, auf den in Artikel 24 verwiesen wird, ist in der Fassung gemäss bisherigem Recht massgebend. Züchterinnen und Züchter müssen die Gesuche bis am 30. November 2023 beim Schweizerischen Freibergerverband einreichen. Der Schweizerische Freibergerverband muss die Gesuche bis am 15. Dezember 2023 beim BLW einreichen.
+
+[^38a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
+
 #### Art. 39
 
 [^39-1]
@@ -882,18 +1008,18 @@ Das BLW vollzieht diese Verordnung, soweit damit nicht andere Behörden betraut 
 
 Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4)
 
-## Fristen zur Einreichung der Gesuche um Ausrichtung der Beiträge sowie Stichtage und Referenzperioden
+## Fristen zur Einreichung der Gesuche um Ausrichtung der Beiträge und zur Einreichung der Abrechnungen sowie Stichtage und Referenzperioden
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Mai 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)) und 20. Mai 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 21. Mai 2014 ([AS 2014 1687](https://fedlex.data.admin.ch/eli/oc/2014/324)), vom 20. Mai 2015 ([AS 2015 1821](https://fedlex.data.admin.ch/eli/oc/2015/352)) Ziff. I und II der V und vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 758](https://fedlex.data.admin.ch/eli/oc/2022/758)).
 
 ### 1. Rindviehzucht
 
 <table>
-<tr><td>Art. 15</td><td>Stichtag/Referenzperiode</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 15</td><td>Stichtag/Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Herdebuchtiere und Nichtherdebuchtiere in Herdebuchbeständen</td><td>30. November</td><td>15. Dezember</td></tr>
 <tr><td>Exterieurbeurteilungen (lineare Beschreibung und Einstufung)</td><td>1. November bis 31. Oktober</td><td>30. November</td></tr>
 <tr><td>Abschluss der Laktation</td><td>16. Dezember bis 31. März</td><td>15. April</td></tr>
@@ -907,7 +1033,7 @@ Anhang 1*[^t-1]*
 ### 2. Equidenzucht
 
 <table>
-<tr><td>Art. 16</td><td>Referenzperiode</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 16</td><td>Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Identifizierte und im Herdebuch eingetragene sowie in der Tierverkehrsdatenbank registrierte Fohlen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Hengstselektionsprüfungen in einer Station</td><td>1. November bis 31. Oktober</td><td>30. November</td></tr>
 <tr><td>Hengstselektionsprüfungen im Felde</td><td>1. November bis 31. Oktober</td><td>30. November</td></tr>
@@ -916,7 +1042,7 @@ Anhang 1*[^t-1]*
 ### 3. Schweinezucht
 
 <table>
-<tr><th>Art. 17</th><th>Stichtag/Referenzperiode</th><th>Gesuchsfrist</th></tr>
+<tr><th>Art. 17</th><th>Stichtag/Referenzperiode</th><th>Frist</th></tr>
 <tr><td>Herdebuchtier</td><td>durchschnittlicher Bestand von Herdebuchtieren an den Stich- tagen: 31. Dezember, 31. März, 30. Juni und 30. September</td><td>15. Dezember</td></tr>
 <tr><td>Feldprüfungen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Stationsprüfungen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
@@ -927,7 +1053,7 @@ Anhang 1*[^t-1]*
 ### 4. Schafzucht ohne Milchschafzucht
 
 <table>
-<tr><td>Art. 18</td><td>Stichtag/Referenzperiode</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 18</td><td>Stichtag/Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Herdebuchtiere und Nichtherdebuchtiere in Herdebuchbeständen</td><td>1. Juni</td><td>15. Juli</td></tr>
 <tr><td>Aufzuchtleistungsprüfungen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 </table>
@@ -935,7 +1061,7 @@ Anhang 1*[^t-1]*
 ### 5. Ziegen- und Milchschafzucht
 
 <table>
-<tr><td>Art. 19</td><td>Stichtag/Referenzperiode</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 19</td><td>Stichtag/Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Herdebuchtiere</td><td>1. Juni</td><td>15. Juli</td></tr>
 <tr><td>Abschluss der Laktation</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Aufzuchtleistungsprüfungen</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
@@ -944,34 +1070,36 @@ Anhang 1*[^t-1]*
 ### 6. Neuweltkamelidenzucht
 
 <table>
-<tr><td>Art. 20</td><td>Stichtag</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 20</td><td>Stichtag</td><td>Frist</td></tr>
 <tr><td>Herdebuchtiere</td><td>30. November</td><td>15. Dezember</td></tr>
 </table>
 
 ### 7. Honigbienenzucht
 
 <table>
-<tr><td>Art. 21</td><td>Referenzperiode</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 21</td><td>Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Herdebuchtier (Königin)</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Bestimmung der Rassenreinheit</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Leistungsprüfung im Prüfstand mit offener oder verdeckter Ringprüfung und Durchführung einer Zuchtwertschätzung</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 <tr><td>Belegstation A und B</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
 </table>
 
-### 8. Massnahmen zur Erhaltung von Schweizer Rassen
+### 8. Erhaltung von Schweizer Rassen
 
 <table>
-<tr><th>Art. 23 und 24</th><th>Referenzperiode</th><th>Gesuchsfrist</th></tr>
-<tr><td>Gesuche Projekte zur Erhaltung von Schweizer Rassen</td><td>Kalenderjahr</td><td>30. Juni</td></tr>
-<tr><td>Abrechnung Projekte zur Erhaltung von Schweizer Rassen</td><td>Kalenderjahr</td><td>15. Dezember</td></tr>
-<tr><td>Erhaltung Freibergerrasse (Einreichung beim Schweizerischen Freibergerverband)</td><td>1. Dezember bis 30. November</td><td>30. November</td></tr>
-<tr><td>Erhaltung Freibergerrasse (Einreichung beim BLW)</td><td>1. Dezember bis 30. November</td><td>15. Dezember</td></tr>
+<tr><th>Art. 23–23*e*</th><th>Referenzperiode</th><th>Frist</th></tr>
+<tr><td>Gesuche um Beiträge für zeitlich befristete Erhaltungsprojekte (Art. 23 Abs. 1 Bst. a)</td><td>Kalenderjahr</td><td>30. Juni</td></tr>
+<tr><td>Abrechnung für Beiträge für zeitlich befristete Erhaltungsprojekte (Art. 23 Abs. 1 Bst. a)</td><td>Kalenderjahr</td><td>15. Dezember</td></tr>
+<tr><td>Gesuche um Beiträge für die Langzeitlagerung von Kryomaterial (Art. 23 Abs. 1 Bst. b)</td><td>Kalenderjahr</td><td>30. Juni</td></tr>
+<tr><td>Abrechnung für Beiträge für die Langzeitlagerung von Kryomaterial (Art. 23 Abs. 1 Bst. b)</td><td>Kalenderjahr</td><td>15. Dezember</td></tr>
+<tr><td>Gesuche um Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status (Art. 23 Abs. 1 Bst. c)</td><td>1. Juni bis 31. Mai</td><td>10. Juni</td></tr>
+<tr><td>Abrechnung für Beiträge für die Erhaltung von Schweizer Rassen mit kritischem oder gefährdetem Status (Art. 23 Abs. 1 Bst. c)</td><td>1. Juni bis 31. Mai</td><td>31. Juli</td></tr>
 </table>
 
 ### 9. Forschungsprojekte
 
 <table>
-<tr><td>Art. 25</td><td>Referenzperiode</td><td>Gesuchsfrist</td></tr>
+<tr><td>Art. 25</td><td>Referenzperiode</td><td>Frist</td></tr>
 <tr><td>Gesuche Forschungsprojekte</td><td>Kalenderjahr</td><td>30. Juni</td></tr>
 <tr><td>Abrechnung Forschungsprojekte</td><td>Kalenderjahr</td><td>15. Dezember</td></tr>
 </table>
