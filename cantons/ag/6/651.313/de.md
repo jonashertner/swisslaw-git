@@ -4,13 +4,13 @@ number: "651.313"
 title: "Verordnung über Vergütungs-, Ausgleichs- und Verzugszinsen"
 short: Zinsverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-03
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-26
 adopted: 2013-11-06
 in_force: 2014-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3123/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3123/pdf_file"
 
 (Zinsverordnung)
 
-Vom 06.11.2013 (Stand 01.01.2022)
+Vom 06.11.2013 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
