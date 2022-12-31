@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: "Ordonnance du 18 juin 2008 sur les droits de douane applicables aux marchandises dans le trafic avec les États membres de l'UE et de l'AELE (Ordonnance sur le libre-échange 1)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-455-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-455-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/fr"
 
 (Ordonnance sur le libre-échange 1)
 
-du 18 juin 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 juin 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -68,16 +68,11 @@ arrête:
 
 #### Art. 5
 
-**Dispositions relatives à l’origine**
+**Dispositions relatives à l’origine**[^5-1]
 
-<sup>1</sup> À l’exception des dispositions selon l’al. 2, les taux des droits de douane figurant à l’annexe 2 de la présente ordonnance ne s’appliquent qu’aux marchandises qui satisfont aux conditions d’origine fixées dans les conventions, les accords et les arrangements mentionnés à l’annexe 1.
+Les taux des droits de douane figurant à l’annexe 2 de la présente ordonnance ne s’appliquent qu’aux marchandises qui satisfont aux conditions d’origine fixées dans les conventions, les accords et les arrangements mentionnés à l’annexe 1.
 
-<sup>2</sup>
-
-Les marchandises des numéros de tarif 2309.1021 et 2309.1029 ne peuvent être importées au «taux préférentiel UE» prévu à l’annexe 2 que si la demande d’attribution d’une part du contingent tarifaire n<sup>o</sup> 32 est accompagnée du permis d’exportation correspondant de l’UE (AGREX), attestant que:
-
-- a. les matières premières utilisées ont été produites exclusivement dans l’UE, et
-- b. pour les produits agricoles concernés, l’UE n’a pas accordé de subventions à l’exportation.
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 #### Art. 6
 
@@ -109,32 +104,30 @@ L’ordonnance du 8 mars 2002 sur les droits de douane applicables aux marchandi
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 1, et 5, al. 1)
 
 ## Liste des conventions, accords et arrangements sous forme d’un échange de lettres
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 7 mars 2014, en vigueur depuis le 1<sup>er</sup> avr. 2014 ([RO 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)).
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 - 1\.
 
   Accords et arrangements sous forme d’un échange de lettres avec l’Union européenne (UE):
 
-  - a. Accord du 22 juillet 1972 entre la Confédération suisse et la Communauté économique européenne (avec annexes et échanges de lettres)[^annex1-lvlu1-1],
-  - b. Échange de lettres du 14 juillet 1986 entre la Suisse et la Commission des CE concernant les adaptations des accords agricoles existants et les concessions réciproques sur certains produits agricoles (avec annexe)[^annex1-lvlu1-2],
-  - c. Échange de lettres du 30 juin 1996 entre la Suisse et la Commission européenne au sujet de consultations menées entre la Suisse et la Communauté européenne dans le cadre de l’OMC[^annex1-lvlu1-3],
-  - d. Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles (avec annexes et acte final)[^annex1-lvlu1-4].
+  - a. Accord du 22 juillet 1972 entre la Confédération suisse et la Communauté économique européenne (avec annexes et échanges de lettres)[^annex1-lvlu1-1];
+  - b. Échange de lettres du 14 juillet 1986 entre la Suisse et la Commission des CE concernant les adaptations des accords agricoles existants et les concessions réciproques sur certains produits agricoles (avec annexe)[^annex1-lvlu1-2];
+  - c. Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles (avec annexes et acte final)[^annex1-lvlu1-3].
 
-- 2\. Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (avec annexes, acte final et déclaration)[^annex1-lvlu1-5] y compris les amendements du 21 juin 2001.
+- 2\. Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (avec annexes, acte final et déclaration)[^annex1-lvlu1-4], y compris les amendements du 21 juin 2001.
 
 [^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
 [^annex1-lvlu1-2]: [RS 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^annex1-lvlu1-3]: FF **1997** II 657
-[^annex1-lvlu1-4]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^annex1-lvlu1-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^annex1-lvlu1-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex1-lvlu1-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 1, al. 1 et 2, 2, al. 3 et 5, 5, al. 1 et 2)
 
@@ -952,17 +945,17 @@ Annexe 2*[^t-2]*
 <tr><td>5303. 1000/ 9706. 9000</td><td>exempt</td><td colspan="2"></td><td>exempt</td><td colspan="3"></td><td></td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 2, al. 1)
 
 ## Contingents tarifaires
 
-[^t-3]: Mise à jour par l’annexe 3 ch. 10 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), l’annexe 3 ch. 7 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) et l’annexe 3 ch. 10 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-3]: Mise à jour par l’annexe 3 ch. 10 de l’O du 22 juin 2011 modifiant le tarif des douanes ([RO 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), le ch. I al. 2 de l’O du 14 juin 2013 ([RO 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), l’annexe 3 ch. 7 de l’O du 10 juin 2016 modifiant le tarif des douanes ([RO 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), l’annexe 3 ch. 10 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) et le ch. II al. 2 de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 <table>
 <tr><th>N<sup>o</sup> du contingent tarifaire</th><th>N<sup>o</sup> de tarif</th><th>Désignation de la marchandise</th><th>Volume du contingent tarifaire</th></tr>
-<tr><td>32</td><td>2309.1021/1029</td><td>Aliments pour chiens et chats, conditionnés pour la vente au détail, en récipients fermés hermétiquement</td><td>6 000 t brut</td></tr>
+<tr><td>32</td><td>2309.1021/1029</td><td>Aliments pour chiens et chats, conditionnés pour la vente au détail, en récipients fermés hermétiquement</td><td>6 000 t net</td></tr>
 <tr><td>101</td><td>ex 0210.1191</td><td>Jambons et leurs morceaux, non désossés, de l’espèce porcine (autres que de sangliers), salés ou en saumure, séchés ou fumés</td><td>1 000 t net</td></tr>
 <tr><td></td><td>ex 0210.1991</td><td>Jambons et leurs morceaux, désossés, de l’espèce porcine (autres que de sangliers), salés ou en saumure, séchés ou fumés</td><td></td></tr>
 <tr><td>102</td><td>ex 0210.2010</td><td>Viandes séchées de l’espèce bovine</td><td>200 t net</td></tr>
@@ -1049,7 +1042,7 @@ Annexe 3*[^t-3]*
 <tr><td>144</td><td>ex 0811.2090</td><td>Framboises, mûres de ronce ou de mûrier, mûres-framboises et groseilles à grappes ou à maquereau, non cuites ou cuites à l’eau ou à la vapeur, congelées, sans addition de sucre ou d’autres édulcorants, non présentées en emballages pour la vente au détail, destinées à la mise en œuvre industrielle</td><td>1200 t net</td></tr>
 <tr><td>145</td><td>0811.9010</td><td>Myrtilles, non cuites ou cuites à l’eau ou à la vapeur, congelées, même additionnées de sucre ou d’autres édulcorants</td><td>200 t net</td></tr>
 <tr><td>146</td><td>0811.9090</td><td>Fruits comestibles, non cuits ou cuits à l’eau ou à la vapeur, congelés, même additionnés de sucre ou d’autres édulcorants (à l’exclusion des fraises, des framboises, des mûres de ronce ou de mûrier, des mûres-framboises, des groseilles à grappes ou à maquereau, des myrtilles et des fruits tropicaux)</td><td>1 000 t net</td></tr>
-<tr><td>147</td><td>0904.2200</td><td>Piments du genre *Capsicum* ou du genre *Pime**n**ta*, broyés ou pulvérisés</td><td>150 t net</td></tr>
+<tr><td>147</td><td>0904.2200</td><td>Piments du genre *Capsicum* ou du genre *Pimenta*, broyés ou pulvérisés</td><td>150 t net</td></tr>
 <tr><td>148</td><td>1001.9931/9939</td><td>Froment (blé) et méteil (à l’exclusion du froment [blé] dur), pour l’alimentation des animaux</td><td>50 000 t net</td></tr>
 <tr><td>149</td><td>1005.9031/9039</td><td>Maïs pour l’alimentation des animaux</td><td>13 000 t net</td></tr>
 <tr><td>150</td><td>2003.1000</td><td>Champignons du genre *Agaricus*, préparés ou conservés autrement qu’au vinaigre ou à l’acide acétique</td><td>1 700 t net</td></tr>
@@ -1062,6 +1055,6 @@ Annexe 3*[^t-3]*
 <tr><td></td><td>ex 1602.4910</td><td>Coppa</td><td></td></tr>
 </table>
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 [^t-4]: Abrogée par le ch. II al. 3 de l’O du 7 mars 2014, avec effet au 1<sup>er</sup> avr. 2014 ([RO 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)).

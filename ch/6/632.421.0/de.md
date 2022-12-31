@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: Verordnung vom 18. Juni 2008 über die Zollansätze für Waren im Verkehr mit EU- und EFTA-Mitgliedstaaten (Freihandelsverordnung 1)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-455-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-455-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/de"
 
 (Freihandelsverordnung 1)
 
-vom 18. Juni 2008 (Stand am 1. Januar 2022)
+vom 18. Juni 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -68,16 +68,11 @@ verordnet:
 
 #### Art. 5
 
-**Ursprungsbestimmungen**
+**Ursprungsbestimmungen**[^5-1]
 
-<sup>1</sup> Mit Ausnahme der Bestimmungen nach Absatz 2 gelten die Zollansätze nach Anhang 2 nur für Waren, die den Ursprungsbedingungen der in Anhang 1 genannten Übereinkommen, Abkommen und Abmachungen entsprechen.
+Die Zollansätze nach Anhang 2 gelten nur für Waren, die den Ursprungsbedingungen der in Anhang 1 genannten Übereinkommen, Abkommen und Vereinbarungen entsprechen.
 
-<sup>2</sup>
-
-Waren der Tarifnummern 2309.1021 und 2309.1029 werden zum «Präferenz-Zollansatz EU» nach Anhang 2 zugelassen, wenn dem Gesuch um Zuteilung eines Anteils am Zollkontingent Nr. 32 die entsprechende Ausfuhrlizenz AGREX der EU beigelegt wird und nachgewiesen wird, dass:
-
-- a. alle verwendeten Rohstoffe vollständig in der EU erzeugt worden sind; und
-- b. für die betreffenden landwirtschaftlichen Erzeugnisse keine Exporterstattungen der EU ausgerichtet worden sind.
+[^5-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 #### Art. 6
 
@@ -93,13 +88,13 @@ Ist die Gewährung von Zollpräferenzen von einem bestimmten Verwendungszweck de
 
 Die Verordnung vom 8. März 2002[^7-1] über die Zollansätze für Waren im Verkehr mit der EFTA und der EG wird aufgehoben.
 
-[^7-1]: [[AS 2002 1158](https://fedlex.data.admin.ch/eli/oc/2002/192),[2004 4599](https://fedlex.data.admin.ch/eli/oc/2004/704)[4971](https://fedlex.data.admin.ch/eli/oc/2004/750),[2005 569](https://fedlex.data.admin.ch/eli/oc/2005/66),[2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 3 29012995 Ahang 4 Ziff. II 84659, **2007** 1469Anhang 4 Ziff. 22 22733417].
+[^7-1]: [[AS 2002 1158](https://fedlex.data.admin.ch/eli/oc/2002/192);[2004 4599](https://fedlex.data.admin.ch/eli/oc/2004/704),[4971](https://fedlex.data.admin.ch/eli/oc/2004/750);[2005 569](https://fedlex.data.admin.ch/eli/oc/2005/66);[2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)Anhang Ziff. 3, 2901,2995 Anhang 4 Ziff. II 8,4659; **2007** 1469Anhang 4 Ziff. 22, 2273,3417].
 
 #### Art. 8
 
 **Änderung bisherigen Rechts**
 
-...[^8-1]
+…[^8-1]
 
 [^8-1]: Die Änderungen können unter [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)konsultiert werden.
 
@@ -109,13 +104,13 @@ Die Verordnung vom 8. März 2002[^7-1] über die Zollansätze für Waren im Verk
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
-(Art. 1 Abs. 1, 5 Abs. 1)
+(Art. 1 Abs. 1 und Art. 5)
 
 ## Liste der Übereinkommen, Abkommen und Vereinbarungen in Form von Briefwechseln
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 7. März 2014, in Kraft seit 1. April 2014 ([AS 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 - 1\.
 
@@ -123,18 +118,17 @@ Anhang 1*[^t-1]*
 
   - a. Abkommen vom 22. Juli 1972[^annex1-lvlu1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Wirtschaftsgemeinschaft (mit Anhängen und Briefwechseln);
   - b. Briefwechsel vom 14. Juli 1986[^annex1-lvlu1-2] zwischen der Schweiz und der EG-Kommission über die Anpassung der bestehenden Agrarvereinbarungen und die gegenseitigen Zugeständnisse für bestimmte Landwirtschaftserzeugnisse (mit Anhang);
-  - c. Briefwechsel vom 30. Juni 1996[^annex1-lvlu1-3] zwischen der Schweiz und der EG‑Kommission über Konsultationen, welche im Rahmen der WTO zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft stattgefunden haben;
-  - d. Abkommen vom 21. Juni 1999[^annex1-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (mit Anhängen und Schlussakte).
+  - c. Abkommen vom 21. Juni 1999[^annex1-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen (mit Anhängen und Schlussakte).
 
-- 2\. Übereinkommen vom 4. Januar 1960[^annex1-lvlu1-5] zur Errichtung der Europäischen Freihandelsassoziation (mit Anhängen, Schlussakte und Erklärung) einschliesslich der Änderungen vom 21. Juni 2001.
+- 2\. Übereinkommen vom 4. Januar 1960[^annex1-lvlu1-4] zur Errichtung der Europäischen Freihandelsassoziation (mit Anhängen, Schlussakte und Erklärung) einschliesslich der Änderungen vom 21. Juni 2001.
+- [tab]
 
 [^annex1-lvlu1-1]: [SR 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
 [^annex1-lvlu1-2]: [SR 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^annex1-lvlu1-3]: BBl **1997** II 714
-[^annex1-lvlu1-4]: SR **0****.****916.026.81**
-[^annex1-lvlu1-5]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^annex1-lvlu1-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex1-lvlu1-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 1 Abs. 1 und 2, 2 Abs. 3 und 5, 5 Abs. 1 und 2)
 
@@ -968,17 +962,17 @@ Anhang 2*[^t-2]*
 <tr><td>9706.9000</td><td>frei</td><td colspan="2"></td><td>frei</td><td colspan="4"></td><td></td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 2 Abs. 1)
 
 ## Zollkontingent
 
-[^t-3]: Bereinigt gemäss Anhang 3 Ziff. 10 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) und Anhang 3 Ziff. 10 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-3]: Bereinigt gemäss Anhang 3 Ziff. 10 der V vom 22. Juni 2011 über die Änderung des Zolltarifs ([AS 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), Ziff. I Abs. 2 der V vom 14. Juni 2013 ([AS 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), Anhang 3 Ziff. 7 der V vom 10. Juni 2016 über die Änderung des Zolltarifs ([AS 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), Anhang 3 Ziff. 10 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) und Ziff. II Abs. 2 der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 <table>
 <tr><th>Nr. des Zollkontingents</th><th colspan="2">Tarif-Nr.</th><th>Bezeichnung der Ware</th><th colspan="3">Umfang des Zollkontingents</th></tr>
-<tr><td>32</td><td colspan="2">2309.1021/1029</td><td>Hunde- und Katzenfutter, in Aufmachungen für den Einzelverkauf, in luftdicht verschlossenen Behältnissen</td><td colspan="3">6 000 t brutto</td></tr>
+<tr><td>32</td><td colspan="2">2309.1021/1029</td><td>Hunde- und Katzenfutter, in Aufmachungen für den Einzelverkauf, in luftdicht verschlossenen Behältnissen</td><td colspan="3">6 000 t netto</td></tr>
 <tr><td>101</td><td colspan="2">ex 0210.1191</td><td>Schinken und Stücke davon, nicht ausgebeint, von Tieren der Schweinegattung, ausgenommen Wildschwein, gesalzen oder in Salzlake, getrocknet oder geräuchert</td><td colspan="3">1 000 t netto</td></tr>
 <tr><td></td><td colspan="2">ex 0210.1991</td><td>Schinken und Stücke davon, ausgebeint, von Tieren der Schweinegattung, ausgenommen Wildschwein, gesalzen oder in Salzlake, getrocknet oder geräuchert</td><td colspan="3"></td></tr>
 <tr><td>102</td><td colspan="2">ex 0210.2010</td><td>Fleisch von Tieren der Rindviehgattung, getrocknet</td><td colspan="3">200 t netto</td></tr>
@@ -1078,6 +1072,6 @@ Anhang 3*[^t-3]*
 <tr><td></td><td colspan="2">ex 1602.4910</td><td>Coppa</td><td colspan="3"></td></tr>
 </table>
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 [^t-4]: Aufgehoben durch Ziff. II Abs. 3 der V vom 7. März 2014, mit Wirkung seit 1. April 2014 ([AS 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)).

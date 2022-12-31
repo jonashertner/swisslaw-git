@@ -3,11 +3,11 @@ sr: "632.421.0"
 title: "Ordinanza del 18 giugno 2008 sulle aliquote di dazio per le merci nel traffico con gli Stati membri dell'UE e dell'AELS (Ordinanza sul libero scambio 1)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/455"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-06-18
 in_force: 2008-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-455-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/455/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-455-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/455/20220101/it"
 
 (Ordinanza sul libero scambio 1)
 
-del 18 giugno 2008 (Stato 1° gennaio 2022)
+del 18 giugno 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -68,16 +68,11 @@ decreta:
 
 #### Art. 5
 
-**Disposizioni in materia d’origine**
+**Disposizioni in materia d’origine**[^5-1]
 
-<sup>1</sup> Fatto salvo il capoverso 2, le aliquote di dazio fissate nell’allegato 2 della presente ordinanza sono applicabili solo alle merci che adempiono le condizioni d’origine stabilite nelle convenzioni, negli accordi e negli scambi di lettere menzionati nell’allegato 1.
+Le aliquote di dazio fissate nell’allegato 2 della presente ordinanza sono applicabili solo alle merci che adempiono le condizioni d’origine stabilite nelle convenzioni, negli accordi e negli scambi di lettere menzionati nell’allegato 1.
 
-<sup>2</sup>
-
-L’«aliquota preferenziale UE» di cui all’allegato 2 è applicabile alle merci delle voci di tariffa 2309.1021 e 2309.1029, qualora la domanda di attribuzione di una quota del contingente doganale n. 32 sia corredata del rispettivo titolo d’esportazione UE AGREX, fornendo la prova che:
-
-- a. tutte le materie prime utilizzate sono state prodotte interamente nell’UE; e
-- b. l’UE non ha accordato sovvenzioni per l’esportazione delle merci in questione.
+[^5-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 #### Art. 6
 
@@ -93,7 +88,7 @@ Se l’attribuzione di preferenze doganali è vincolata a un determinato utilizz
 
 L’ordinanza del 8 marzo 2002[^7-1] sulle aliquote di dazio per le merci nel traffico con l’AELS e la CE è abrogata.
 
-[^7-1]: [[RU 2002 1158](https://fedlex.data.admin.ch/eli/oc/2002/192),[2004 4599](https://fedlex.data.admin.ch/eli/oc/2004/704)[4971](https://fedlex.data.admin.ch/eli/oc/2004/750),[2005 569](https://fedlex.data.admin.ch/eli/oc/2005/66),[2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)all. n. 3[2901](https://fedlex.data.admin.ch/eli/oc/2006/440)[2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 n. II 8[4659](https://fedlex.data.admin.ch/eli/oc/2006/708),[2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 22[2273](https://fedlex.data.admin.ch/eli/oc/2007/321)[3417](https://fedlex.data.admin.ch/eli/oc/2007/417)]
+[^7-1]: [[RU 2002 1158](https://fedlex.data.admin.ch/eli/oc/2002/192);[2004 4599](https://fedlex.data.admin.ch/eli/oc/2004/704),[4971](https://fedlex.data.admin.ch/eli/oc/2004/750);[2005 569](https://fedlex.data.admin.ch/eli/oc/2005/66);[2006 867](https://fedlex.data.admin.ch/eli/oc/2006/151)all. n. 3,[2901](https://fedlex.data.admin.ch/eli/oc/2006/440),[2995](https://fedlex.data.admin.ch/eli/oc/2006/464)all. 4 n. II 8,[4659](https://fedlex.data.admin.ch/eli/oc/2006/708);[2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 22,[2273](https://fedlex.data.admin.ch/eli/oc/2007/321),[3417](https://fedlex.data.admin.ch/eli/oc/2007/417)]
 
 #### Art. 8
 
@@ -107,15 +102,15 @@ L’ordinanza del 8 marzo 2002[^7-1] sulle aliquote di dazio per le merci nel tr
 
 **Entrata in vigore**
 
-## La presente ordinanza entra in vigore il 1° agosto 2008.
+La presente ordinanza entra in vigore il 1° agosto 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
-(art. 1 cpv. 1, 5 cpv. 1)
+(art. 1 cpv. 1 e art. 5)
 
 ## Elenco delle convenzioni, degli accordi e degli scambi di lettere
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 7 mar. 2014, in vigore dal 1° apr. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 - 1\.
 
@@ -123,24 +118,22 @@ Allegato 1*[^t-1]*
 
   - a. Accordo del 22 luglio 1972[^annex1-lvlu1-1] tra la Confederazione Svizzera e la Comunità Economica Europea (con allegati e scambio di lettere);
   - b. Scambio di lettere del 14 luglio 1986[^annex1-lvlu1-2] tra la Svizzera e la Commissione delle CE relativo agli adeguamenti degli accordi agricoli esistenti e alle concessioni reciproche su taluni prodotti agricoli (con allegato);
-  - c. Scambio di lettere del 30 giugno 1996[^annex1-lvlu1-3] tra la Svizzera e la Commissione delle Comunità europee relativo ai negoziati tra la Svizzera e la Comunità europea nel quadro dell’OMC;
-  - d. Accordo del 21 giugno 1999[^annex1-lvlu1-4] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli (con allegati e Atto finale).
+  - c. Accordo del 21 giugno 1999[^annex1-lvlu1-3] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli (con allegati e Atto finale).
 
-- 2\. Convenzione del 4 gennaio 1960[^annex1-lvlu1-5] istitutiva dell’Associazione europea di libero scambio (con allegati, atto finale e dichiarazioni) incluso l’emendamento del 21 giugno 2001.
+- 2\. Convenzione del 4 gennaio 1960[^annex1-lvlu1-4] istitutiva dell’Associazione europea di libero scambio (con allegati, atto finale e dichiarazioni) incluso l’emendamento del 21 giugno 2001.
 
 [^annex1-lvlu1-1]: [RS 0.632.401](https://fedlex.data.admin.ch/eli/cc/1972/3115_3169_2949)
 [^annex1-lvlu1-2]: [RS 0.632.401.813](https://fedlex.data.admin.ch/eli/cc/1987/201_201_201)
-[^annex1-lvlu1-3]: FF **1997** II 592
-[^annex1-lvlu1-4]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
-[^annex1-lvlu1-5]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^annex1-lvlu1-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex1-lvlu1-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 1 cpv. 1 e 2, 2 cpv. 3 e 5, 5 cpv. 1 e 2)
 
 ## Aliquote di dazio all’importazione: merci e aliquote
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Aggiornato dal n. II cpv. 2 dell’O del 7 mar. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dal n. I dell’O del 9 mag. 2018 ([RU 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) e dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)). Aggiornato dal n. II cpv. 2 dell’O del 7 mar. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dal n. I dell’O del 9 mag. 2018 ([RU 2018 2359](https://fedlex.data.admin.ch/eli/oc/2018/338)) e dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><th>Voce di tariffa</th><th colspan="5">Aliquota preferenziale</th><th></th><th></th><th></th><th>Contingenti doganali; disposizioni particolari</th></tr>
@@ -968,42 +961,45 @@ Allegato 2*[^t-2]*
 <tr><td>9706.9000</td><td>esente</td><td colspan="2"></td><td>esente</td><td colspan="4"></td><td></td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 2 cpv. 1)
 
 ## Contingenti doganali
 
-[^t-3]: Aggiornata dall’all. 3 n. 10 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) e dal n. I cpv. 2 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)) e dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-3]: Aggiornata dall’all. 3 n. 10 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)) e dal n. I cpv. 2 dell’O del 14 giu. 2013 ([RU 2013 1879](https://fedlex.data.admin.ch/eli/oc/2013/410)), dall’all. 3 n. 7 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dall’all. 3 n. 10 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dal n. II cpv. 2 dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 841](https://fedlex.data.admin.ch/eli/oc/2022/841)).
 
 <table>
-<tr><th>N. del contingente doganale</th><th>Voce di tariffa[^annex3-lvlu1-1]</th><th colspan="2">Designazione della merce</th><th colspan="2">Volume del contingente doganale</th></tr>
-<tr><td>32</td><td>2309.1021/1029</td><td colspan="2">Alimenti per cani o gatti condizionati per la vendita al minuto, in recipienti ermeticamente chiusi</td><td colspan="2">6 000 t lorde</td></tr>
-<tr><td>101</td><td>ex 0210.1191</td><td colspan="2">Prosciutti e loro pezzi, non disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td colspan="2">1 000 t nette</td></tr>
-<tr><td></td><td>ex 0210.1991</td><td colspan="2">Prosciutti e loro pezzi, disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td colspan="2"></td></tr>
-<tr><td>102</td><td>ex 0210.2010</td><td colspan="2">Carni di animali della specie bovina, secche</td><td colspan="2">200 t nette</td></tr>
-<tr><td>104</td><td></td><td colspan="2">Portinnesto di frutta a granella (ottenuti con semi o da moltiplicazione vegetativa):</td><td colspan="2">60 000 pezzi</td></tr>
-<tr><td></td><td>0602.2011</td><td colspan="2">– innestati, con radici nude</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2019</td><td colspan="2">– innestati, con piote</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2021</td><td colspan="2">– non innestati, con radici nude</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2029</td><td colspan="2">– non innestati, con piote</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="2">Portinnesto di frutta a nocciolo (ottenuti con semi o da moltiplicazione vegetativa):</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2031</td><td colspan="2">– innestati, con radici nude</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2039</td><td colspan="2">– innestati, con piote</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2041</td><td colspan="2">– non innestati, con radici nude</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2049</td><td colspan="2">– non innestati, con piote</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="2">Alberi, arbusti, arboscelli e cespugli da frutta commestibile con radici nude:</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2071</td><td colspan="2">– di frutta a granella</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2072</td><td colspan="2">– di frutta a nocciolo</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="2">Alberi, arbusti, arboscelli e cespugli da frutta commestibile con piote:</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2081</td><td colspan="2">– di frutta a granella</td><td colspan="2"></td></tr>
-<tr><td></td><td>0602.2082</td><td colspan="2">– di frutta a nocciolo</td><td colspan="2"></td></tr>
-<tr><td>105</td><td>0603.1210</td><td colspan="2">Garofani, recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre</td><td colspan="2">1 000 t nette</td></tr>
-<tr><td></td><td>0603.1110</td><td colspan="2">Rose, recise, per mazzi o per ornamento, fresche, dal 1° maggio al 25 ottobre</td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td colspan="2">Fiori e boccioli di fiori (esclusi garofani e rose), recisi, per mazzi o per ornamento dal 1° maggio al 25 ottobre:</td><td colspan="2"></td></tr>
+<tr><th>N. del contingente doganale</th><th>Voce di tariffa[^annex3-lvlu1-1]</th><th>Designazione della merce</th><th>Volume del contingente doganale</th></tr>
+<tr><td>32</td><td>2309.1021/1029</td><td>Alimenti per cani e gatti condizionati per la vendita al minuto, in recipienti ermeticamente chiusi</td><td>6 000 t nette</td></tr>
+<tr><td>101</td><td>ex 0210.1191</td><td>Prosciutti e loro pezzi, non disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td>1 000 t nette</td></tr>
+<tr><td></td><td>ex 0210.1991</td><td>Prosciutti e loro pezzi, disossati, di animali della specie suina, escluso il cinghiale, salati o in salamoia, secchi o affumicati</td><td></td></tr>
+<tr><td>102</td><td>ex 0210.2010</td><td>Carni di animali della specie bovina, secche</td><td>200 t nette</td></tr>
+<tr><td>104</td><td></td><td>Portinnesto di frutta a granella (ottenuti con semi o da moltiplicazione vegetativa):</td><td>60 000 pezzi</td></tr>
+<tr><td></td><td>0602.2011</td><td>– innestati, con radici nude</td><td></td></tr>
+<tr><td></td><td>0602.2019</td><td>– innestati, con piote</td><td></td></tr>
+<tr><td></td><td>0602.2021</td><td>– non innestati, con radici nude</td><td></td></tr>
+<tr><td></td><td>0602.2029</td><td>– non innestati, con piote</td><td></td></tr>
+<tr><td></td><td></td><td>Portinnesto di frutta a nocciolo (ottenuti con semi o da moltiplicazione vegetativa):</td><td></td></tr>
+<tr><td></td><td>0602.2031</td><td>– innestati, con radici nude</td><td></td></tr>
+<tr><td></td><td>0602.2039</td><td>– innestati, con piote</td><td></td></tr>
+<tr><td></td><td>0602.2041</td><td>– non innestati, con radici nude</td><td></td></tr>
+<tr><td></td><td>0602.2049</td><td>– non innestati, con piote</td><td></td></tr>
+<tr><td></td><td></td><td>Alberi, arbusti, arboscelli e cespugli da frutta commestibile con radici nude:</td><td></td></tr>
+<tr><td></td><td>0602.2071</td><td>– di frutta a granella</td><td></td></tr>
+<tr><td></td><td>0602.2072</td><td>– di frutta a nocciolo</td><td></td></tr>
+<tr><td></td><td></td><td>Alberi, arbusti, arboscelli e cespugli da frutta commestibile con piote:</td><td></td></tr>
+<tr><td></td><td>0602.2081</td><td>– di frutta a granella</td><td></td></tr>
+<tr><td></td><td>0602.2082</td><td>– di frutta a nocciolo</td><td></td></tr>
+<tr><td>105</td><td>0603.1210</td><td>Garofani, recisi, per mazzi o per ornamento, freschi, dal 1° maggio al 25 ottobre</td><td>1 000 t nette</td></tr>
+<tr><td></td><td>0603.1110</td><td>Rose, recise, per mazzi o per ornamento, fresche, dal 1° maggio al 25 ottobre</td><td></td></tr>
+<tr><td></td><td></td><td>Fiori e boccioli di fiori (esclusi garofani e rose), recisi, per mazzi o per ornamento dal 1° maggio al 25 ottobre:</td><td></td></tr>
+</table>
+
+<table>
+<tr><th>N. del contingente doganale</th><th>Voce di tariffa</th><th colspan="2">Designazione della merce</th><th colspan="2">Volume del contingente doganale</th></tr>
 <tr><td></td><td>0603.1911</td><td colspan="2">– legnosi</td><td colspan="2"></td></tr>
 <tr><td></td><td>0603.1310</td><td colspan="2">– diversi dai legnosi</td><td colspan="2"></td></tr>
-<tr><th>N. del contingente doganale</th><th>Voce di tariffa</th><th>Designazione della merce</th><th colspan="2">Volume del contingente doganale</th></tr>
 <tr><td></td><td>0603.1410</td><td></td><td colspan="2"></td></tr>
 <tr><td></td><td>0603.1510</td><td></td><td colspan="2"></td></tr>
 <tr><td></td><td>0603.1918</td><td></td><td colspan="2"></td></tr>
@@ -1081,6 +1077,6 @@ Allegato 3*[^t-3]*
 
 [^annex3-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)all.
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 [^t-4]: Abrogato dal n. II cpv. 3 dell’O del 7 mar. 2014, con effetto dal 1° apr. 2014 ([RU 2014 607](https://fedlex.data.admin.ch/eli/oc/2014/134)).
