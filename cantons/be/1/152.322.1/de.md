@@ -4,13 +4,13 @@ number: "152.322.1"
 title: Verordnung über die Organisation und Steuerung der dezentralen Verwaltung der Direktion für Inneres und Justiz
 short: OSDV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+valid_until: 2024-04-30
+version_adopted: 2022-11-16
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2449/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2727/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2449/pdf_file"
 
 (OSDV)
 
-vom 09.09.2009 (Stand 01.01.2022)
+vom 09.09.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -339,7 +339,7 @@ beschliesst:
 
 <sup>1</sup> Das GS DIJ bestimmt für alle dezentralen Organisationseinheiten die Grundsätze im Bereich Finanzen und Rechnungswesen. Es erlässt diesbezügliche Weisungen und ist verantwortlich für den korrekten Ablauf des Finanz- und Rechnungswesens.
 
-<sup>2</sup> Es koordiniert die Erstellung des Voranschlags, des Aufgaben- und Finanzplans, des Investitionsplans, der Hochrechnung, des Jahresabschlusses sowie die Führung der Kosten-, Leistungs- und Erlösrechnung. Es erlässt fachliche Weisungen und sorgt für die diesbezügliche direktionsspezifische Ausbildung.
+<sup>2</sup> Es koordiniert die Erstellung des Budgets, des Aufgaben- und Finanzplans, des Investitionsplans, der Hochrechnung, des Jahresabschlusses sowie die Führung der Kosten-, Leistungs- und Erlösrechnung. Es erlässt fachliche Weisungen und sorgt für die diesbezügliche direktionsspezifische Ausbildung.
 
 #### Art. 22
 

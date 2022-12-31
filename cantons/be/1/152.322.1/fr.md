@@ -4,13 +4,13 @@ number: "152.322.1"
 title: "Ordonnance sur l'organisation et le pilotage de l'administration décentralisée de la Direction de l'intérieur et de la justice *"
 short: OOPAD
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+valid_until: 2024-04-30
+version_adopted: 2022-11-16
 adopted: 2009-09-09
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.322.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2449/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2727/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2449/pdf_file"
 
 (OOPAD)
 
-du 09.09.2009 (état au 01.01.2022)
+du 09.09.2009 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
