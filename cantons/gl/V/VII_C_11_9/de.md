@@ -3,20 +3,19 @@ canton: GL
 number: VII C/11/9
 title: Verordnung über die Fuss- und Wanderwege
 language: de
-version: 2006-05-07
-valid_until: 2022-12-31
-version_adopted: 2006-02-15
+version: 2023-01-01
+version_adopted: 2022-08-31
 adopted: 2006-02-15
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-C.11.9"
-pdf: "https://gesetze.gl.ch/api/de/versions/1214/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2334/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Fuss- und Wanderwege
 
-Vom 15.02.2006 (Stand 07.05.2006)
+Vom 15.02.2006 (Stand 01.01.2023)
 
 Der Landrat,
 
@@ -82,9 +81,7 @@ verordnet:
 
 <sup>2</sup> Er kann Beiträge an private Fachorganisationen ausrichten, sofern diesen Aufgaben gemäss Artikel 1 Absatz 2 übertragen werden.
 
-<sup>3</sup> Die Zuständigkeit für die Zusprechung von Beiträgen richtet sich nach dem Finanzhaushaltgesetz[^6-1].
-
-[^6-1]: GS [VI A/1/2](https://gesetze.gl.ch/data/VI-A.1.2/de)
+<sup>3</sup> Über die Zusprechung von Beiträgen entscheidet bis 25 000 Franken das zuständige Departement, über höhere Beiträge beschliesst der Regierungsrat.
 
 #### Art. 7
 
