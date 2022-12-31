@@ -4,11 +4,11 @@ number: "851.1"
 title: Sozialhilfegesetz (SHG)
 short: SHG
 language: de
-version: "2021-07-01"
-nachtrag: "113"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-01
 adopted: 1981-06-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_1-1981_06_14-1982_01_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_1-1981_06_14-1982_01_01-119.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ A. Allgemeine Bestimmungen
 
 **1**
 
-- 1\. 7. 21 - 113 § 3 c.[^3-1] <sup>1</sup> Um die Eingliederung der Hilfesuchenden und ihre finanzielle Unabhängigkeit zu fördern, arbeiten die Sozialhilfeorgane mit anderen Leistungserbringern zusammen. Dazu gehören insbesondere die Organe der Arbeitslosenversicherung, der Invalidenversicherung und der Berufsberatung sowie private Organisationen.
+- 1\. 1. 23 - 119 § 3 c.[^3-1] <sup>1</sup> Um die Eingliederung der Hilfesuchenden und ihre finanzielle Unabhängigkeit zu fördern, arbeiten die Sozialhilfeorgane mit anderen Leistungserbringern zusammen. Dazu gehören insbesondere die Organe der Arbeitslosenversicherung, der Invalidenversicherung und der Berufsberatung sowie private Organisationen.
 
 **e. Interinstitutionelle Zusammenarbeit**
 
@@ -160,7 +160,7 @@ Die Ursachen einer Notlage sind zu ermitteln und nach Möglichkeit zu beseitigen
 
 **3**
 
-- 1\. 7. 21 - 113 d.[^hBBehördenundihre-2] Vertretung der Gemeinde in Strafverfahren wegen unrechtmässiger Erwirkung von Sozialhilfeleistungen.
+- 1\. 1. 23 - 119 d.[^hBBehördenundihre-2] Vertretung der Gemeinde in Strafverfahren wegen unrechtmässiger Erwirkung von Sozialhilfeleistungen.
 
 <sup>2</sup> Die Fürsorgebehörde arbeitet mit andern öffentlichen und privaten sozialen Institutionen zusammen.
 
@@ -257,11 +257,11 @@ Wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem
 
 **b. Krankenversicherungsprämien**
 
-§ 15 a.[^15-2] <sup>1</sup> Bei der Berechnung des sozialen Existenzminimums werden die Prämien für die obligatorische Krankenpflegeversicherung abzüglich der Prämienverbilligung nach Art. 65 Abs. 1 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung[^15-3] als Auslagen eingesetzt.
+§ 15 a.[^15-2] <sup>1</sup> Bei der Berechnung des sozialen Existenzminimums werden die Prämien für die obligatorische Krankenpflegeversicherung abzüglich der Prämienverbilligung nach Art. 65 Abs. 1 des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung als Auslagen eingesetzt.
 
 **5**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Sobald ein Wechsel zu einer günstigeren Versicherung möglich und zumutbar ist, sind die Sozialhilfeorgane verpflichtet, die Sozialhilfebeziehenden zu einem Wechsel anzuhalten und gegebenenfalls bei einem Wechsel zu unterstützen.
 
@@ -271,15 +271,15 @@ Wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem
 
 **Formen**
 
-§ 16.[^15-4] <sup>1</sup> Die wirtschaftliche Hilfe wird in Bargeld, in Form eines Checks oder durch Überweisung auf ein Post- oder Bankkonto des Hilfesuchenden ausgerichtet.
+§ 16.[^15-3] <sup>1</sup> Die wirtschaftliche Hilfe wird in Bargeld, in Form eines Checks oder durch Überweisung auf ein Post- oder Bankkonto des Hilfesuchenden ausgerichtet.
 
 <sup>2</sup> Sie kann auf andere Weise erbracht werden, wenn es die Umstände rechtfertigen.
 
-<sup>3</sup> Die bei der Bemessung der wirtschaftlichen Hilfe berücksichtigte Miete mit Nebenkosten kann der Gläubigerin oder dem Gläubiger in jedem Fall direkt überwiesen werden.[^15-5]
+<sup>3</sup> Die bei der Bemessung der wirtschaftlichen Hilfe berücksichtigte Miete mit Nebenkosten kann der Gläubigerin oder dem Gläubiger in jedem Fall direkt überwiesen werden.[^15-4]
 
 **Gesuche um Kostengutsprache**
 
-§ 16 a.[^15-6] <sup>1</sup> Sind Leistungen Dritter sicherzustellen, erteilt die Fürsorgebehörde in der Regel Kostengutsprache. Über den Umfang der Kostengutsprache hinausgehende Leistungen müssen nicht übernommen werden.
+§ 16 a.[^15-5] <sup>1</sup> Sind Leistungen Dritter sicherzustellen, erteilt die Fürsorgebehörde in der Regel Kostengutsprache. Über den Umfang der Kostengutsprache hinausgehende Leistungen müssen nicht übernommen werden.
 
 <sup>2</sup> Gesuche um Kostengutsprache sind der Fürsorgebehörde im Voraus einzureichen. Ohne Gutsprache oder bei verspäteter Einreichung des Gesuchs besteht kein Anspruch auf Kostenübernahme. Vorbehalten bleiben notfallbedingte medizinische Behandlungen.
 
@@ -303,10 +303,9 @@ Wer für seinen Lebensunterhalt und den seiner Familienangehörigen mit gleichem
 
 [^15-1]: Eingefügt durch G vom 21. Januar 2019 (OS 74, 506; ABl 2018-10-05). In Kraft seit 1. Oktober 2019.
 [^15-2]: Eingefügt durch Einführungsgesetz zum Krankenversicherungsgesetz vom 29. April 2019 (OS 75, 174; ABl 2016-10-07). In Kraft seit 1. April 2020.
-[^15-3]: SR 832.10.
-[^15-4]: Fassung gemäss G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
-[^15-5]: Eingefügt durch G vom 23. April 2018 (OS 73, 597; ABl 2017-05-12). In Kraft seit 1. Januar 2019.
-[^15-6]: Eingefügt durch G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
+[^15-3]: Fassung gemäss G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
+[^15-4]: Eingefügt durch G vom 23. April 2018 (OS 73, 597; ABl 2017-05-12). In Kraft seit 1. Januar 2019.
+[^15-5]: Eingefügt durch G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
 
 #### § 17
 
@@ -342,7 +341,7 @@ Die wirtschaftliche Hilfe kann weder verpfändet noch abgetreten werden. Sie dar
 
 **7**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Fürsorgebehörde kann von Sozial- oder Privatversicherungen sowie von haftpflichtigen oder anderen Dritten verlangen, dass rückwirkende Leistungen im rückerstattungspflichtigen Umfang direkt an die Fürsorgebehörde ausbezahlt werden.
 
@@ -432,7 +431,7 @@ Die wirtschaftliche Hilfe kann weder verpfändet noch abgetreten werden. Sie dar
 
 **9**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 - b. der Hilfeempfänger aus Erbschaft, Lotteriegewinn oder anderen nicht auf eigene Arbeitsleistung zurückzuführenden Gründen in finanziell günstige Verhältnisse gelangt; in Fällen eigener Arbeitsleistung nur dann, wenn diese zu derart günstigen Verhältnissen führt, dass ein Verzicht auf Rückerstattung, unter Berücksichtigung der Gründe des Hilfebezugs, als unbillig erscheint,
 
@@ -527,7 +526,7 @@ Die Aufenthaltsgemeinde ist zur Hilfeleistung verpflichtet, solange die Wohngeme
 
 **11**
 
-- 1\. 7. 21 - 113 § 38.[^34-4] <sup>1</sup> Der Wohnsitz endet mit dem Wegzug aus der Gemeinde.
+- 1\. 1. 23 - 119 § 38.[^34-4] <sup>1</sup> Der Wohnsitz endet mit dem Wegzug aus der Gemeinde.
 
 **e. Beendigung26**
 
@@ -629,17 +628,17 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 **13**
 
-- 1\. 7. 21 - 113 § 47 b.[^hGSchweigepflicht-2] <sup>1</sup> Die Verwaltungsbehörden des Kantons und seiner Gemeinden sowie die mit der Erfüllung öffentlicher Aufgaben betrauten Organisationen und Personen sind verpflichtet, den Sozialhilfeorganen von sich aus mitzuteilen, wenn nach Wahrnehmungen in ihrer amtlichen Tätigkeit ein konkreter und für den Fall erheblicher Verdacht auf unrechtmässige Erwirkung von Sozialhilfeleistungen besteht. Die Gerichte und Notariate sowie die Ombudsstellen und Datenschutzbeauftragten von Kanton und Gemeinden sind unter den gleichen Voraussetzungen ermächtigt, den Sozialhilfeorganen von sich aus Mitteilung zu machen.
+- 1\. 1. 23 - 119 § 47 b.[^hGSchweigepflicht-2] <sup>1</sup> Die Verwaltungsbehörden des Kantons und seiner Gemeinden sowie die mit der Erfüllung öffentlicher Aufgaben betrauten Organisationen und Personen sind verpflichtet, den Sozialhilfeorganen von sich aus mitzuteilen, wenn nach Wahrnehmungen in ihrer amtlichen Tätigkeit ein konkreter und für den Fall erheblicher Verdacht auf unrechtmässige Erwirkung von Sozialhilfeleistungen besteht. Die Gerichte und Notariate sowie die Ombudsstellen und Datenschutzbeauftragten von Kanton und Gemeinden sind unter den gleichen Voraussetzungen ermächtigt, den Sozialhilfeorganen von sich aus Mitteilung zu machen.
 
 **Informationen an Sozialhilfeorgane**
 
-<sup>2</sup> Die für das Fürsorgewesen zuständige Direktion leitet bei ihr eingegangene Informationen an die Fürsorgebehörde oder an die nach Art. 29 des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger vom 24. Juni 1977[^hGSchweigepflicht-3] zuständige kantonale Amtsstelle weiter.
+<sup>2</sup> Die für das Fürsorgewesen zuständige Direktion leitet bei ihr eingegangene Informationen an die Fürsorgebehörde oder an die nach Art. 29 des Bundesgesetzes über die Zuständigkeit für die Unterstützung Bedürftiger vom 24. Juni 1977 zuständige kantonale Amtsstelle weiter.
 
 <sup>3</sup> Vorbehalten bleiben bundesrechtliche Schweigepflichten.
 
 **Informationen unter Sozialhilfeorganen**
 
-§ 47 c.[^hGSchweigepflicht-4] <sup>1</sup> Die im Einzelfall betroffenen Sozialhilfeorgane informieren sich gegenseitig über a. Beginn, Ausmass, Art, Dauer und Ursachen gewährter wirtschaftlicher Hilfe,
+§ 47 c.[^hGSchweigepflicht-3] <sup>1</sup> Die im Einzelfall betroffenen Sozialhilfeorgane informieren sich gegenseitig über a. Beginn, Ausmass, Art, Dauer und Ursachen gewährter wirtschaftlicher Hilfe,
 
 - b. Auflagen, Weisungen und Sanktionen,
 
@@ -689,7 +688,7 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 **Observation**
 
-§ 48 a.[^hGSchweigepflicht-5] <sup>1</sup> Die Sozialhilfeorgane können die betroffene Person zur Überprüfung und Klärung der Verhältnisse verdeckt observieren und dabei technische Hilfsmittel zur Bildaufzeichnung einsetzen, wenn ein Mitglied des Bezirksrates die Observation genehmigt hat und:
+§ 48 a.[^hGSchweigepflicht-4] <sup>1</sup> Die Sozialhilfeorgane können die betroffene Person zur Überprüfung und Klärung der Verhältnisse verdeckt observieren und dabei technische Hilfsmittel zur Bildaufzeichnung einsetzen, wenn ein Mitglied des Bezirksrates die Observation genehmigt hat und:
 
 - a. aufgrund konkreter Anhaltspunkte anzunehmen ist, dass die betroffene Person Leistungen nach diesem Gesetz unrechtmässig erwirkt, und
 
@@ -703,7 +702,7 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 **15**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Sozialhilfeorgane können Spezialistinnen und Spezialisten mit der Observation beauftragen. Diese unterstehen der gleichen Sorgfalts- und Schweigepflicht wie die auftraggebenden Sozialhilfeorgane.
 
@@ -717,14 +716,13 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 [^hGSchweigepflicht-1]: Fassung gemäss G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
 [^hGSchweigepflicht-2]: Eingefügt durch G vom 12. Juli 2010 (OS 66, 839; ABl 2009, 1834). In Kraft seit 1. Januar 2012.
-[^hGSchweigepflicht-3]: SR 851.1.
-[^hGSchweigepflicht-4]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 337; ABl 2019-04-12). In Kraft seit 1. Juli 2020.
-[^hGSchweigepflicht-5]: Eingefügt durch G vom 15. Juni 2020 (OS 76, 228; ABl 2019-09-20). In Kraft seit 1. Juli 2021.
-[^hGSchweigepflicht-6]: Eingefügt durch G vom 6. Februar 2006 (OS 62, 265). In Kraft seit 1. Januar 2008.
+[^hGSchweigepflicht-3]: Fassung gemäss G vom 13. Januar 2020 (OS 75, 337; ABl 2019-04-12). In Kraft seit 1. Juli 2020.
+[^hGSchweigepflicht-4]: Eingefügt durch G vom 15. Juni 2020 (OS 76, 228; ABl 2019-09-20). In Kraft seit 1. Juli 2021.
+[^hGSchweigepflicht-5]: Fassung gemäss G vom 30. Mai 2022 (OS 77, 551; ABl 2022-01-28). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 19
 
-### H. Strafbestimmungen
+### H. Strafbestimmungen und Parteirechte
 
-[^hGSchweigepflicht-6]
+[^hGSchweigepflicht-5]
 
 **Strafbestimmung**
 
@@ -732,14 +730,21 @@ Bei Widerhandlung gegen das Verbot der Abschiebung bleibt die fehlbare Gemeinde 
 
 <sup>2</sup> Die Untersuchung und Beurteilung von Widerhandlungen obliegt den Statthalterämtern.[^hHStrafbestimmungen-3]
 
+**Parteirechte in Strafverfahren**
+
+§ 48 c.[^hHStrafbestimmungen-4] Die Sozialhilfeorgane haben in Strafverfahren wegen Verletzung von § 48 b, Art. 146 oder 148 a StGB[^hHStrafbestimmungen-5] volle Parteirechte im Sinne von Art. 104 Abs. 2 StPO[^hHStrafbestimmungen-6].
+
 [^hHStrafbestimmungen-1]: Eingefügt durch G vom 6. Februar 2006 (OS 62, 265). In Kraft seit 1. Januar 2008.
-[^hHStrafbestimmungen-2]: Nummerierung gemäss G vom 15. Juni 2020 (OS 76, 228; ABl 2019-09-20). In Kraft seit 1. Juli 2021. 1. 7. 21 - 113 19
+[^hHStrafbestimmungen-2]: Nummerierung gemäss G vom 15. Juni 2020 (OS 76, 228; ABl 2019-09-20). In Kraft seit 1. Juli 2021.
 [^hHStrafbestimmungen-3]: Fassung gemäss G vom 4. November 2002 (OS 58, 21). In Kraft seit 1. Januar 2003 (OS 58, 25).
-[^hHStrafbestimmungen-4]: Fassung gemäss G vom 6. Februar 2006 (OS 62, 265). In Kraft seit 1. Januar 2008.
+[^hHStrafbestimmungen-4]: Eingefügt durch G vom 30. Mai 2022 (OS 77, 551; ABl 2022-01-28). In Kraft seit 1. Januar 2023.
+[^hHStrafbestimmungen-5]: SR 311.0.
+[^hHStrafbestimmungen-6]: SR 312.0.
+[^hHStrafbestimmungen-7]: Fassung gemäss G vom 6. Februar 2006 (OS 62, 265). In Kraft seit 1. Januar 2008.
 
 ### I. Schlussbestimmungen
 
-[^hHStrafbestimmungen-4]
+[^hHStrafbestimmungen-7]
 
 [^hISchlussbestimmung-1]: Text siehe OS 48, 204.
 
@@ -797,7 +802,7 @@ Gemeinden, die bisher die Armenfürsorge gemeinsam besorgt haben, regeln ihren Z
 
 **17**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 [^55-1]: In Kraft seit 1. Januar 1982 (OS 48, 264).
 
