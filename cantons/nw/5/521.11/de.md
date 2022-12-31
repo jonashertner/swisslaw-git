@@ -4,13 +4,13 @@ number: "521.11"
 title: Vollzugsverordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuerverordnung, StV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-13
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1008/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1085/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1008/pdf_file"
 
 (Steuerverordnung, StV)
 
-vom 19.12.2000 (Stand 01.01.2022)
+vom 19.12.2000 (Stand 01.01.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -813,15 +813,20 @@ beschliesst:
 
 **Verwaltungskosten**
 
-<sup>1</sup> Die Verwaltungskosten für die Steuererhebung werden unter Einbezug der erhobenen Gebühren und Bussen dem Gesamtsteuerertrag des Kantons und der Gemeinden belastet.
+<sup>1</sup> Die Verwaltungskosten für die Erhebung und den Bezug von Steuern und Feuerwehrersatzabgaben werden beim Kanton erfasst. Sie werden den verschiedenen Körperschaften belastet.
 
 <sup>2</sup> Die Verwaltungskosten beinhalten:
 
-- 1\. die Personal- und Sachkosten des kantonalen Steueramtes;
-- 2\. den Kostenanteil des Amtes für Informatik;
-- 3\. den Kostenanteil des Grundbuchamtes;
-- 4\. den Kostenanteil der Finanzverwaltung;
-- 5\. eine leistungsbezogene Entschädigung der politischen Gemeinden für die Führung der Gemeindesteuerämter.
+- 1\. die Nettoaufwendungen des Kantonalen Steueramtes gemäss der Erfolgsrechnung ohne Ausgleichskonto Steuerverwaltungskosten;
+- 2\. die Entschädigung des Kantons an die politischen Gemeinden für die Führung der Gemeindesteuerämter.
+- 3\.–5. …
+
+<sup>3</sup> Die Verwaltungskosten werden aufgeteilt:
+
+- 1\. zu einem Sechstel zulasten des Kantons, zuzüglich seines Anteils gemäss Ziff. 2;
+- 2\. zu fünf Sechsteln zulasten der Körperschaften.
+
+<sup>4</sup> Der Regierungsrat legt die Aufteilung des Anteils von fünf Sechsteln unter den Körperschaften in einem Beschluss fest.
 
 ### 6.2 Allgemeine Verfahrensgrundsätze
 
@@ -1288,9 +1293,9 @@ beschliesst:
 
 <sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4 Prozent.
 
-<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 0 Prozent.
+<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 0.1 Prozent.
 
-<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 0 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
+<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 0.1 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
 
 ### A1.9 Quellensteuern
 
@@ -1309,20 +1314,18 @@ beschliesst:
 <sup>1</sup> Der Abzug für Versicherungsprämien wird in folgendem Ausmass angerechnet:
 
 - 1\. AHV/IV/EO-Beiträge: — 5.3%;
-- 2\. Beiträge an die Arbeitslosenkasse:
-  - a) bis Fr. 148'200.–: — 1.1%, höchstens Fr. 1'630.20;
-  - b) ab Fr. 148'201.–: — 0.5%;
+- 2\. Beiträge an die Arbeitslosenkasse: — 1.1%, höchstens Fr. 1'630.20;
 - 3\. Beiträge an die Nichtberufsunfallversicherung: — 1.0%, höchstens Fr. 1'482.–;
-- 4\. Berufliche Vorsorge: — 5.5%;
+- 4\. Berufliche Vorsorge: — 6%;
 - 5\. Prämien für Krankenkassen, Unfall- und Lebensversicherungen:
-  - a) Ledige: — 3%, höchstens Fr. 1'700.–;
-  - b) Verheiratete: — 5%, höchstens Fr. 3'500.–, zuzüglich Fr. 700.– je Kind.
+  - a) Ledige: — 3%, höchstens Fr. 1'800.–;
+  - b) Verheiratete: — 5%, höchstens Fr. 3'600.–, zuzüglich Fr. 700.– je Kind.
 
 #### § A1-21
 
 **Abzüge für Familienlasten**
 
-<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'000.– für den Kinderabzug und Fr. 3'000.– für den Eigenbetreuungsabzug.
+<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'000.– für den Kinderabzug und Fr. 3'100.– für den Eigenbetreuungsabzug.
 
 #### § A1-22
 
@@ -1353,7 +1356,7 @@ beschliesst:
 
 **Steuerfuss**
 
-<sup>1</sup> Dem Tarif wird für die Kantons- und Gemeindesteuern auf der Basis des gewogenen Mittels 2020 ein Steuerfuss von 4.97 Einheiten zugrunde gelegt.
+<sup>1</sup> Dem Tarif wird für die Kantons- und Gemeindesteuern auf der Basis des gewogenen Mittels 2022 ein Steuerfuss von 4.90 Einheiten zugrunde gelegt.
 
 #### § A1-24
 
