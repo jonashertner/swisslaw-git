@@ -3,20 +3,19 @@ canton: GL
 number: IX E/1/1
 title: Einführungsgesetz zum Bundesgesetz über den Wald
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-05-03
+version: 2023-01-01
+version_adopted: 2022-05-01
 adopted: 1995-05-07
 in_force: 1995-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-E.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1984/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2318/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über den Wald
 
-Vom 07.05.1995 (Stand 01.01.2018)
+Vom 07.05.1995 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
