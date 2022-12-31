@@ -4,13 +4,13 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2021-12-08
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2469/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2635/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2469/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.01.2022)
+du 28.05.1911 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -145,7 +145,7 @@ décrète:
 
 **Publication 1 En général**
 
-<sup>1</sup> Les publications prévues par le droit civil fédéral et les dispositions cantonales d’application ainsi que les communications officielles des autorités ont lieu par insertion dans les feuilles officielles d’avis.
+<sup>1</sup> Les publications prévues par le droit civil fédéral et les dispositions cantonales d’application ainsi que les communications officielles des autorités ont lieu dans les organes de publication officiels des communes.
 
 #### Art. 14
 

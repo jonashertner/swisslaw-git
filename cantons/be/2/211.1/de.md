@@ -4,13 +4,13 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2021-12-08
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2469/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2469/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.01.2022)
+vom 28.05.1911 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -143,7 +143,7 @@ beschliesst:
 
 **Veröffentlichung 1 Im allgemeinen**
 
-<sup>1</sup> Die durch das Bundeszivilrecht und die kantonalen Ausführungsbestimmungen vorgeschriebenen Veröffentlichungen und die amtlichen Mitteilungen der Behörden erfolgen in den amtlichen Anzeigern.
+<sup>1</sup> Die durch das Bundeszivilrecht und die kantonalen Ausführungsbestimmungen vorgeschriebenen Veröffentlichungen und die amtlichen Mitteilungen der Behörden erfolgen in den amtlichen Publikationsorganen der Gemeinden.
 
 #### Art. 14
 
