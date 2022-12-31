@@ -4,13 +4,13 @@ number: "152.04"
 title: Datenschutzgesetz
 short: KDSG
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-06-15
 adopted: 2025-12-03
 in_force: 2026-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.04"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2000/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2718/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2000/pdf_file"
 
 (KDSG)
 
-vom 19.02.1986 (Stand 01.11.2020)
+vom 19.02.1986 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -420,7 +420,7 @@ beschliesst:
 
 <sup>1</sup> Die Aufsichtsstelle erfüllt die Aufgaben nach diesem Gesetz selbständig und unabhängig. Sie ist nur der Verfassung und dem Gesetz verpflichtet.
 
-<sup>2</sup> Für die Haushaltführung, die Ausgaben und Ausgabenbewilligungen sowie die Steuerung von Finanzen und Leistungen der kantonalen Aufsichtsstelle gilt die Gesetzgebung über die Steuerung von Finanzen und Leistungen, soweit dieses Gesetz keine besonderen Vorschriften enthält.
+<sup>2</sup> Für die Haushaltführung, die Ausgaben und Ausgabenbewilligungen sowie die Steuerung von Finanzen und Leistungen der kantonalen Aufsichtsstelle gilt die Finanzhaushaltsgesetzgebung, soweit dieses Gesetz keine besonderen Vorschriften enthält.
 
 <sup>3</sup> Die kantonale Aufsichtsstelle legt jährlich ihre Leistungsziele fest und leitet daraus ihren Bedarf an Ressourcen ab. Sie erstellt den Aufgaben- und Finanzplan und den Voranschlag für ihren Bereich und legt die Produkte und Produktgruppen fest. Der Regierungsrat übernimmt diese unverändert in den Aufgaben- und Finanzplan und Voranschlag des Kantons. Er kann sie zuhanden des Grossen Rates kommentieren.
 
@@ -432,11 +432,11 @@ beschliesst:
 
 **Besondere Rechnung der kantonalen Aufsichtsstelle**
 
-<sup>1</sup> Die kantonale Aufsichtsstelle für Datenschutz führt eine Besondere Rechnung gemäss Artikel 36 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG[^33b-1]).
+<sup>1</sup> Die kantonale Aufsichtsstelle für Datenschutz führt eine Besondere Rechnung gemäss Artikel 55 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^33b-1].
 
-<sup>2</sup> In Abweichung von Artikel 36 Absatz 2 FLG regelt der Grosse Rat die Art und Weise der Rechnungsführung durch Dekret.
+<sup>2</sup> In Abweichung von Artikel 55 Absatz 2 FHG regelt der Grosse Rat die Art und Weise der Rechnungsführung durch Dekret.
 
-[^33b-1]: BSG 620.0
+[^33b-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
 #### Art. 34
 

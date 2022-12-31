@@ -4,13 +4,13 @@ number: "152.04"
 title: "Loi sur la protection des données *"
 short: LCPD
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-06-15
 adopted: 2025-12-03
 in_force: 2026-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.04"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2000/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2718/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2000/pdf_file"
 
 (LCPD)
 
-du 19.02.1986 (état au 01.11.2020)
+du 19.02.1986 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -420,7 +420,7 @@ arrête:
 
 <sup>1</sup> L’autorité de surveillance accomplit de manière indépendante les tâches que lui attribue la présente loi. Elle est soumise uniquement à la Constitution et à la loi.
 
-<sup>2</sup> La législation sur le pilotage des finances et des prestations s’applique à la gestion financière, aux dépenses et aux autorisations de dépenses ainsi qu’au pilotage des finances et des prestations de l’autorité cantonale de surveillance, pour autant que la présente loi ne contienne pas de dispositions spéciales.
+<sup>2</sup> La législation sur les finances s’applique à la gestion financière, aux dépenses et aux autorisations de dépenses ainsi qu’au pilotage des finances et des prestations de l’autorité cantonale de surveillance, pour autant que la présente loi ne contienne pas de dispositions spéciales.
 
 <sup>3</sup> L’autorité cantonale de surveillance fixe chaque année ses objectifs de prestation et en déduit ses besoins en ressources. Elle établit son plan intégré «mission-financement» et son budget et détermine ses produits et ses groupes de produits. Le Conseil-exécutif les reprend sans modification dans le plan intégré «mission-financement» et le budget du canton. Il peut les commenter à l’intention du Grand Conseil.
 
@@ -432,11 +432,11 @@ arrête:
 
 **Compte spécial de l’autorité cantonale de surveillance de la protection des données**
 
-<sup>1</sup> L’autorité cantonale de surveillance de la protection des données tient un compte spécial conformément à l’article 36 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^33b-1].
+<sup>1</sup> L’autorité cantonale de surveillance de la protection des données tient un compte spécial conformément à l’article 55 de la loi du 15 juin 2022 sur les finances (LFin)[^33b-1].
 
-<sup>2</sup> En dérogation à l’article 36, alinéa 2 LFP, le Grand Conseil règle les structures comptables ainsi que la tenue des comptes par voie de décret.
+<sup>2</sup> En dérogation à l’article 55, alinéa 2 LFin, le Grand Conseil règle les structures comptables ainsi que la tenue des comptes par voie de décret.
 
-[^33b-1]: RSB 620.0
+[^33b-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 34
 
