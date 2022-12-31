@@ -4,30 +4,33 @@ title: Verordnung vom 17. August 2005 über den Lufttransport (LTrV)
 short: LTrV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: de
-version: 2016-04-01
+version: 2023-01-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20160401/de/xml/fedlex-data-admin-ch-eli-cc-2005-556-20160401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20160401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über den Lufttransport
 
-(LTrV)
+(Lufttransportverordnung, LTrV)[^t-1]
 
-vom 17. August 2005 (Stand am 1. April 2016)
+vom 17. August 2005 (Stand am 1. Januar 2023)
+
+[^t-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 6*a* und 75 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-1] (LFG), in Ausführung des Übereinkommens vom 28. Mai 1999[^ingress-2] zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr (Übereinkommen von Montreal)[^ingress-3],
+gestützt auf die Artikel 6*a* und 75 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-1], in Ausführung des Übereinkommens vom 28. Mai 1999[^ingress-2] zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr (Übereinkommen von Montreal)[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [SR 0.748.411](https://fedlex.data.admin.ch/eli/cc/2005/566)
-[^ingress-3]: Diese Verordnung steht im Einklang mit der Verordnung (EG) Nr. 889/2002 des Europäischen Parlaments und des Rates vom 13. Mai 2002 zur Änderung der Verordnung (EG) Nr. 2027/97 des Rates über die Haftung von Luftfahrtunternehmen bei Unfällen (ABl. L 140 vom 30.5.2002, S. 2), der Verordnung (EG) Nr. 785/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 über Versicherungsanforderungen an Luftfahrtunternehmen und Luftfahrzeugbetreiber (ABl. L 138 vom 30.4.2004, S. 1) und der Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments und des Rates vom 11. Februar 2004 über eine gemeinsame Regelung für Ausgleichs- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder grosser Verspätung von Flügen und zur Aufhebung der Verordnung (EWG) 295/91 (ABl. L 46 vom 17.2.2004, S. 1).
+[^ingress-3]: Diese Verordnung steht im Einklang mit der Verordnung (EG) Nr. 889/2002 des Europäischen Parlaments und des Rates vom 13. Mai 2002 zur Änderung der Verordnung (EG) Nr. 2027/97 des Rates über die Haftung von Luftfahrtunternehmen bei Unfällen, in der für die Schweiz gemäss Anhang Ziff. 7 des Luftverkehrsabkommens ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung, der Verordnung (EG) Nr. 785/2004 des Europäischen Parlaments und des Rates vom 21. April 2004 über Versicherungsanforderungen an Luftfahrtunternehmen und Luftfahrzeugbetreiber, in der für die Schweiz gemäss in der für die Schweiz gemäss Anhang Ziff. 1 des Luftverkehrsabkommens jeweils verbindlichen Fassung und der Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments und des Rates vom 11. Februar 2004 über eine gemeinsame Regelung für Ausgleichs- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder grosser Verspätung von Flügen und zur Aufhebung der Verordnung (EWG) Nr. 295/91, in der für die Schweiz gemäss Anhang Ziff. 7 des Luftverkehrsabkommens jeweils verbindlichen Fassung.
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -48,10 +51,12 @@ Diese Verordnung gilt, soweit nicht das Übereinkommen von Montreal anwendbar is
 
 Diese Verordnung gilt nicht für:
 
-- a. Beförderungen, die im Rahmen der Postgesetzgebung, internationaler Vereinbarungen über den Postverkehr oder besonderer Abmachungen zwischen der Schweizerischen Post und den Luftfahrtunternehmen ausgeführt werden;
+- a.[^1-1] Beförderungen, die im Rahmen der Postgesetzgebung, internationaler Vereinbarungen über den Postverkehr oder besonderer Abmachungen zwischen der Schweizerischen Post und den Luftfahrtunternehmen ausgeführt werden, ausser bei Beförderungen gefährlicher Güter nach Artikel 16 einschliesslich der Schulung in diesem Bereich (Art. 16*b* und 16*c*);
 - b. Hängegleiter und Fallschirme.
 
 <sup>4</sup> Ist eine Beförderung von mehreren aufeinander folgenden Luftfrachtführern auszuführen und wird sie von den Parteien als eine Einheit betrachtet, so gilt sie im Sinne dieser Verordnung als eine einzige Beförderung unabhängig davon, ob zu dieser Beförderung ein oder mehrere Verträge abgeschlossen wurden. Eine solche Beförderung verliert ihre Eigenschaft als internationale Beförderung nicht dadurch, dass ein Vertrag oder eine Reihe von Verträgen ausschliesslich im Hoheitsgebiet desselben Staates zu erfüllen ist.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 2
 
@@ -80,9 +85,12 @@ In dieser Verordnung bedeutet:
 
 **Beförderungsbedingungen**
 
-<sup>1</sup> Die Beförderungsbedingungen der konzessionierten schweizerischen Luftfahrtunternehmen bedürfen der Genehmigung durch das Bundesamt für Zivilluftfahrt (Bundesamt).
+<sup>1</sup> Die Beförderungsbedingungen der konzessionierten schweizerischen Luftfahrtunternehmen bedürfen der Genehmigung durch das Bundesamt für Zivilluftfahrt (BAZL).[^4-1]
 
-<sup>2</sup> Das Bundesamt genehmigt sie, wenn sie den zwingenden Bestimmungen des schweizerischen Rechts oder der die Schweiz verpflichtenden völkerrechtlichen Verträge nicht widersprechen.
+<sup>2</sup> Das BAZL[^4-2] genehmigt sie, wenn sie den zwingenden Bestimmungen des schweizerischen Rechts oder der die Schweiz verpflichtenden völkerrechtlichen Verträge nicht widersprechen.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^4-2]: Ausdruck gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ## 2. Abschnitt: Dokumente betreffend die Beförderung von Reisenden, Reisegepäck und Gütern sowie Pflichten der Parteien
 
@@ -150,17 +158,17 @@ Handelt es sich um mehrere Frachtstücke, so gilt Folgendes:
 
 <sup>1</sup> Der Luftfrachtführer haftet für Tod und Körperverletzung der Reisenden im Falle eines Unfalles an Bord des Luftfahrzeugs oder beim Ein- oder Aussteigen.
 
-<sup>2</sup> Er kann seine Haftung für Schäden, die den Betrag von 113 100 Sonderziehungsrechten je Reisenden nicht übersteigen, weder ausschliessen noch beschränken.[^7-1]
+<sup>2</sup> Er kann seine Haftung für Schäden, die den Betrag von 128 821 Sonderziehungsrechten je Reisenden nicht übersteigen, weder ausschliessen noch beschränken.[^7-1]
 
 <sup>3</sup>
 
-Er haftet nicht für Schäden, die 113 100 Sonderziehungsrechte je Reisenden übersteigen, wenn er nachweist, dass:[^7-2]
+Er haftet nicht für Schäden, die 128 821 Sonderziehungsrechte je Reisenden übersteigen, wenn er nachweist, dass:[^7-2]
 
 - a. der Schaden nicht auf eine Pflichtverletzung oder eine andere widerrechtliche Handlung oder Unterlassung des Luftfrachtführers, seiner Angestellten oder seiner Beauftragten zurückzuführen ist; oder
 - b. der Schaden ausschliesslich auf eine Pflichtverletzung oder eine andere widerrechtliche Handlung oder Unterlassung eines Dritten zurückzuführen ist.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
-[^7-2]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^7-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 8
 
@@ -174,11 +182,11 @@ Er haftet nicht für Schäden, die 113 100 Sonderziehungsrechte je Reisenden üb
 
 <sup>4</sup> Für das nicht aufgegebene Reisegepäck, einschliesslich persönlicher Gegenstände, haftet der Luftfrachtführer, wenn der Schaden auf sein Verschulden oder das Verschulden seiner Angestellten oder seiner Beauftragten zurückzuführen ist.
 
-<sup>5</sup> Die Haftpflicht des Luftfrachtführers für Zerstörung, Verlust oder Beschädigung von Reisegepäck und persönlichen Gegenständen ist begrenzt auf den Betrag von 1131 Sonderziehungsrechten je Reisenden, es sei denn, der Reisende habe bei der Aufgabe einen höheren Wert deklariert und gegebenenfalls den dafür verlangten Zuschlag entrichtet. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Reisenden an der Lieferung übersteigt.[^8-1]
+<sup>5</sup> Die Haftpflicht des Luftfrachtführers für Zerstörung, Verlust oder Beschädigung von Reisegepäck und persönlichen Gegenständen ist begrenzt auf den Betrag von 1288 Sonderziehungsrechten je Reisenden, es sei denn, der Reisende habe bei der Aufgabe einen höheren Wert deklariert und gegebenenfalls den dafür verlangten Zuschlag entrichtet. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Reisenden an der Lieferung übersteigt.[^8-1]
 
 <sup>6</sup> Absatz 5 findet keine Anwendung, wenn nachgewiesen wird, dass der Schaden durch eine Handlung oder Unterlassung des Luftfrachtführers, seiner Angestellten oder seiner Beauftragten verursacht worden ist, die entweder in der Absicht, Schaden herbeizuführen, oder leichtfertig und im Bewusstsein begangen wurde, dass wahrscheinlich ein Schaden eintreten wird; im Fall einer Handlung oder Unterlassung der Angestellten oder der Beauftragten ist ausserdem nachzuweisen, dass diese in Ausübung ihrer Funktion gehandelt haben.
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 9
 
@@ -186,7 +194,7 @@ Er haftet nicht für Schäden, die 113 100 Sonderziehungsrechte je Reisenden üb
 
 <sup>1</sup> Der Luftfrachtführer haftet für Zerstörung, Verlust oder Beschädigung von Gütern, wenn der Schaden während der Luftbeförderung entstanden ist.
 
-<sup>2</sup> Die Haftpflicht des Luftfrachtführers ist begrenzt auf den Betrag von 19 Sonderziehungsrechten pro Kilogramm, es sei denn, der Absender habe bei der Übergabe der Güter an den Luftfrachtführer einen höheren Wert deklariert und gegebenenfalls den dafür verlangten Zuschlag entrichtet. In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Absenders an der Lieferung übersteigt.[^9-1]
+<sup>2</sup> Die Haftpflicht des Luftfrachtführers ist begrenzt auf den Betrag von 22 Sonderziehungsrechten pro Kilogramm, es sei denn, der Absender habe bei der Übergabe der Güter an den Luftfrachtführer einen höheren Wert deklariert und gegebenenfalls den dafür verlangten Zuschlag entrichtet.[^9-1] In diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Absenders an der Lieferung übersteigt.[^9-2]
 
 <sup>3</sup>
 
@@ -199,7 +207,8 @@ Der Luftfrachtführer haftet nicht, wenn er nachweist, dass die Zerstörung, der
 
 <sup>4</sup> Die Luftbeförderung im Sinne von Absatz 1 umfasst den Zeitraum, während dessen die Güter sich in der Obhut des Luftfrachtführers befinden. Artikel 18 Absatz 4 des Übereinkommens von Montreal ist sinngemäss anwendbar.
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
 
 #### Art. 10
 
@@ -211,9 +220,9 @@ Der Luftfrachtführer haftet nicht, wenn er nachweist, dass die Zerstörung, der
 
 Er haftet:
 
-- a. für Verspätung bei der Beförderung von Reisenden: bis zum Betrag von 4694 Sonderziehungsrechten je Reisenden;
-- b. für Verspätung bei der Beförderung von Reisegepäck: bis zum Betrag von 1131 Sonderziehungsrechten je Reisenden, es sei denn der Reisende habe bei der Aufgabe einen höheren Wert angegeben und gegebenenfalls den dafür verlangten Zuschlag entrichtet; in diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Reisenden an der Lieferung übersteigt;
-- c. für Verspätung bei der Beförderung von Gütern: bis zum Betrag von 19 Sonderziehungsrechten pro Kilogramm, es sei denn der Absender habe bei der Übergabe der Güter an den Luftfrachtführer einen höheren Wert angegeben und gegebenenfalls den dafür verlangten Zuschlag entrichtet; in diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Absenders an der Lieferung übersteigt.[^10-1]
+- a. für Verspätung bei der Beförderung von Reisenden: bis zum Betrag von 5346 Sonderziehungsrechten je Reisenden;
+- b. für Verspätung bei der Beförderung von Reisegepäck: bis zum Betrag von 1288 Sonderziehungsrechten je Reisenden, es sei denn der Reisende habe bei der Aufgabe einen höheren Wert angegeben und gegebenenfalls den dafür verlangten Zuschlag entrichtet; in diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Reisenden an der Lieferung übersteigt;
+- c. für Verspätung bei der Beförderung von Gütern: bis zum Betrag von 22 Sonderziehungsrechten pro Kilogramm, es sei denn der Absender habe bei der Übergabe der Güter an den Luftfrachtführer einen höheren Wert angegeben und gegebenenfalls den dafür verlangten Zuschlag entrichtet; in diesem Fall hat der Luftfrachtführer bis zur Höhe des angegebenen Betrags Ersatz zu leisten, sofern er nicht nachweist, dass dieser Betrag das tatsächliche Interesse des Absenders an der Lieferung übersteigt.[^10-1]
 
 <sup>3</sup> Er haftet nicht für den Schaden aus Verspätung, wenn er nachweist, dass er, seine Angestellten und seine Beauftragten alle zumutbaren Massnahmen zur Vermeidung des Schadens getroffen haben oder dass es ihnen nicht möglich war, solche Massnahmen zu ergreifen.
 
@@ -221,7 +230,7 @@ Er haftet:
 
 <sup>5</sup> Vorbehalten bleiben die in der Schweiz anwendbaren völkerrechtlichen Bestimmungen bezüglich der Verspätung bei der Luftbeförderung von Reisenden.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^10-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 11
 
@@ -229,12 +238,12 @@ Er haftet:
 
 <sup>1</sup> Bei Tod oder Körperverletzung eines Reisenden bestimmen sich der Kreis der Berechtigten sowie die Art und die Bemessung von Schadenersatz und Genugtuung nach den Regeln des Obligationenrechts[^11-1].
 
-<sup>2</sup> Stehen aus Tod oder Körperverletzung desselben Reisenden mehreren Personen Ansprüche zu und übersteigt die Summe dieser Ansprüche den Betrag von 113 100 Sonderziehungsrechten, so setzt das Gericht die Ansprüche verhältnismässig herab.[^11-2]
+<sup>2</sup> Stehen aus Tod oder Körperverletzung desselben Reisenden mehreren Personen Ansprüche zu und übersteigt die Summe dieser Ansprüche den Betrag von 128 821 Sonderziehungsrechten, so setzt das Gericht die Ansprüche verhältnismässig herab.[^11-2]
 
 <sup>3</sup> Für die Bemessung des Ersatzes für Sachschaden sind die Bestimmungen des Obligationenrechts über den Frachtvertrag ergänzend anwendbar.
 
 [^11-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^11-2]: Fassung gemäss Ziff. I der V vom 17. Febr. 2016, in Kraft seit 1. April 2016 ([AS 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 12
 
@@ -280,41 +289,114 @@ Die Klage auf Schadenersatz muss binnen zweier Jahre nach Ankunft am Bestimmungs
 
 **Beförderung gefährlicher Güter**
 
-<sup>1</sup> Für die Beförderung gefährlicher Güter mit Luftfahrzeugen auf inländischen und internationalen Flügen sind die in Anhang 18 zum Übereinkommen vom 7. Dezember 1944[^16-1] über die Internationale Zivilluftfahrt enthaltenen Normen der Internationalen Zivilluftfahrt-Organisation sowie die zugehörigen technischen Vorschriften unmittelbar anwendbar[^16-2]. Vorbehalten sind die nach Artikel 38 dieses Übereinkommens gemeldeten Abweichungen.
+<sup>1</sup> Für die Beförderung gefährlicher Güter mit Luftfahrzeugen auf inländischen und internationalen Flügen sind die in Anhang 18 zum Übereinkommen vom 7. Dezember 1944[^16-1] über die Internationale Zivilluftfahrt enthaltenen Normen der Internationalen Zivilluftfahrt-Organisation (ICAO-Anhang 18) sowie die zugehörigen technischen Vorschriften (Technical Instructions [TI]) unmittelbar anwendbar[^16-2]. Vorbehalten sind die nach Artikel 38 dieses Übereinkommens gemeldeten Abweichungen.[^16-3]
 
 <sup>2</sup> Dieser Artikel gilt auch für unentgeltlich durchgeführte nichtgewerbliche Beförderungen.
 
-<sup>3</sup> Das Bundesamt kann, wenn besondere Umstände vorliegen, für besondere Arten von Beförderungen im Einzelfall und gegebenenfalls für eine beschränkte Dauer Ausnahmen bewilligen. Bei internationalen Flügen hat der Gesuchsteller die Zustimmung der zu überfliegenden Staaten einzuholen.
+<sup>3</sup> Das BAZL kann, wenn besondere Umstände vorliegen, für besondere Arten von Beförderungen im Einzelfall und gegebenenfalls für eine beschränkte Dauer Ausnahmen bewilligen. Bei internationalen Flügen hat der Gesuchsteller die Zustimmung der zu überfliegenden Staaten einzuholen.
 
-<sup>4</sup> Für die Genehmigung von Versandstückmustern sowie des Versands radioaktiver Stoffe im Sinne der in Absatz 1 angeführten Normen ist das Eidgenössische Nuklearsicherheitsinspektorat zuständig.[^16-3]
+<sup>4</sup> Für die Genehmigung von Versandstückmustern sowie des Versands radioaktiver Stoffe im Sinne der in Absatz 1 angeführten Normen ist das Eidgenössische Nuklearsicherheitsinspektorat zuständig.[^16-4]
 
-[^16-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Er kann beim Bundesamt eingesehen oder bezogen werden.
-[^16-2]: Die technischen Vorschriften werden weder in der AS noch in der SR veröffentlicht. Sie können beim Bundesamt und bei den Informationsstellen der Landesflughäfen in französischer und englischer Sprache eingesehen werden; sie sind nicht ins Deutsche und Italienische übersetzt.
-[^16-3]: Fassung gemäss Anhang Ziff. 21 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^16-1]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). Der Inhalt dieses Anhanges wird in der AS und der SR durch Verweis veröffentlicht. Er kann unter www.bazl.admin.ch &gt; Themen &gt; Rechtliche Grundlagen kostenlos abgerufen oder bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int) kostenpflichtig bezogen werden.
+[^16-2]: Die technischen Vorschriften werden weder in der AS noch in der SR veröffentlicht. Sie können beim BAZL und bei den Informationsstellen der Landesflughäfen in französischer und englischer Sprache eingesehen werden; sie sind nicht ins Deutsche und Italienische übersetzt.
+[^16-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^16-4]: Fassung gemäss Anhang Ziff. 21 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16a
 
-**Schulung für die Beförderung gefährlicher Güter**[^16a-1]
+[^16a-1]
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 14. Mai 2008 ([AS 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)). Aufgehoben durch Ziff. I der V vom 12. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16b
+
+**Trainingsprogramme und Genehmigungspflicht**[^16b-1]
+
+<sup>1</sup> Der Arbeitgeber von Personal, welches Tätigkeiten ausübt, die sicherstellen sollen, dass Gefahrgut gemäss den Vorgaben von Artikel 16 Absatz 1 befördert werden, muss ein Trainingsprogramm erstellen und aktuell halten.
+
+<sup>2</sup>
+
+Das Trainingsprogramm muss folgende Elemente enthalten:
+
+- a. Ergebnis der Analyse des Schulungsbedarfs;
+- b. Trainingsplan;
+- c. Bewertungsplan;
+- d. Massnahmenplan zur Überwachung der Effektivität.
+
+<sup>3</sup>
+
+Die Trainingsprogramme folgender Betriebe bedürfen einer vorgängigen Genehmigung des BAZL:
+
+- a. Betriebe, die gemäss ORO.GEN.110 und NCO.GEN.140 der Verordnung (EU) Nr. 965/2012[^16b-2] einer Genehmigungspflicht unterliegen;
+- b. Designated Postal Operators (DPO) gemäss Part 1, Chapter 4.7.2 der TI zum ICAO-Anhang 18.
+
+[^16b-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^16b-2]: Verordnung (EU) Nr. 965/2012 der Kommission vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, in der für die Schweiz gemäss Ziff. 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+
+#### Art. 16c
+
+**Qualifikationsanforderungen für Instruktoren und Instruktorinnen sowie für Prüfer und Prüferinnen**[^16c-1]
 
 <sup>1</sup>
 
-Die Aufgaben in Zusammenhang mit der Beförderung gefährlicher Güter in der Luft, die unter eine der 12 Kategorien fallen, welche im Kapitel 1–4 der Technischen Vorschriften des Anhangs 18 zum Übereinkommen vom 7. Dezember 1944[^16a-2] über die internationale Zivilluftfahrt aufgeführt sind, dürfen nur von Personen wahrgenommen werden, welche die folgenden Voraussetzungen erfüllen:
+Instruktoren und Instruktorinnen sowie Prüfer und Prüferinnen müssen in den nachfolgenden Bereichen Qualifikationsnachweise erbringen können:
 
-- a. Sie haben eine ihrer Verantwortung entsprechende Ausbildung absolviert.
-- b. Sie absolvieren mindestens alle 24 Monate einen Wiederholungskurs.
+- a. Fachwissen: Nachweis des erworbenen Fachwissens über Gefahrgut mindestens in den Bereichen, welche geschult oder geprüft werden sollen;
+- b. Berufserfahrung: Erfahrung in einer Funktion, die direkt mit dem Transport von Gefahrgut im betrieblichen Umfeld zu tun hat, in welchem geschult oder geprüft werden soll.
 
-<sup>2</sup> Wer Personal der Kategorien 1–5 und 7–12 ausbildet, muss Inhaber oder Inhaberin eines Zertifikats der Kategorie 6 sein.
+<sup>2</sup>
 
-<sup>3</sup> Wer Personal der Kategorie 6 ausbildet, muss nebst einem Zertifikat der Kategorie 6 über eine Ausbildungsbewilligung verfügen. Das Bundesamt erteilt diese Bewilligung, wenn die gesuchstellende Person eine Fähigkeitsprüfung besteht und Erfahrungen mit dem Lufttransport gefährlicher Güter nachweist. Die Bewilligung hat eine Gültigkeitsdauer von vier Jahren.
+Instruktoren und Instruktorinnen müssen zusätzlich folgende Qualifikationen erfüllen:
 
-<sup>4</sup> Für die Kategorie 6 dauert die Grundausbildung mindestens fünf Tage und der Wiederholungskurs mindestens drei Tage.
+- a. Nachweis von Kenntnissen in Didaktik und Methodik;
+- b. Dauer der Berufserfahrung: mindestens 6 Monate in den letzten fünf Jahren vor der ersten durchzuführenden Schulung; ausgenommen sind Instruktoren und Instruktorinnen, welche zwischen dem 1. Januar 2021 und dem 31. Dezember 2022 bereits für ein Unternehmen mit Sitz oder Niederlassung in der Schweiz tätig waren und weiterhin in jenem betrieblichen Umfeld ausbilden, in welchem sie tätig waren.
 
-<sup>5</sup> Der Inhaber oder die Inhaberin der Ausbildungsbewilligung stellt die Zertifikate der Kategorie 6 aus und stellt dem Bundesamt eine Kopie zu. Dieses führt Listen der Inhaber und Inhaberinnen einer Ausbildungsbewilligung und derjenigen eines Zertifikates der Kategorie 6.
+<sup>3</sup>
 
-<sup>6</sup> Die Schulungen für das Personal sämtlicher Kategorien müssen auf Schulungsprogrammen beruhen, welche das Bundesamt in der jeweils aktuellen Fassung genehmigt hat. Die Schulungsprogramme müssen in Übereinstimmung mit den in Artikel 16 Absatz 1 aufgeführten Normen erstellt und an deren jeweilige Änderungen angepasst werden.
+Die Qualifikationen sind für die folgende Dauer gültig:
 
-[^16a-1]: Eingefügt durch Ziff. I der V vom 14. Mai 2008, in Kraft seit 1. Juli 2008 ([AS 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)).
-[^16a-2]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+- a. Qualifikationen nach Absatz 1 Buchstabe a und Absatz 2 Buchstabe a: 24 Monate;
+- b. Qualifikationen nach Absatz 1 Buchstabe b: uneingeschränkt, solange eine Unterbrechung der Tätigkeit nicht mehr als fünf aufeinanderfolgende Jahre beträgt.
+
+<sup>4</sup> Für eine Verlängerung der Gültigkeit der Qualifikationen müssen die folgenden Bedingungen erfüllt sein
+
+- a.
+
+  für Qualifikationen nach Absatz 1 Buchstabe a:
+
+  - 1\. ein Instruktor oder eine Instruktorin hat in den letzten 24 Monaten in den Bereichen, in welchen geschult werden soll, entweder eine wiederkehrende Schulung besucht oder mindestens eine Schulung durchgeführt,
+  - 2\. ein Prüfer oder eine Prüferin hat in den letzten 24 Monaten in den Bereichen, in welchen geprüft werden soll, entweder eine wiederkehrende Schulung besucht oder eine Prüfung durchgeführt;
+
+- b. für Qualifikationen nach Absatz 2 Buchstabe a: Eine Instruktorin oder ein Instruktor hat in den letzten 24 Monaten mindestens eine Schulung durchgeführt.
+
+<sup>5</sup> Liegen besondere Umstände vor, so kann das BAZL im Einzelfall und für eine beschränkte Dauer Ausnahmen von den Anforderungen nach den Absätzen 3 und 4 bewilligen.
+
+<sup>6</sup> Der Arbeitgeber gemäss Artikel 16*b* Absatz 1 ist verantwortlich, dass die Instruktoren und Instruktorinnen sowie die Prüfer und Prüferinnen die Qualifikationsanforderungen nach Absatz 1–4 erfüllen.
+
+[^16c-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16d
+
+[^16d-1]
+
+[^16d-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16e
+
+**Datenerfassung, -bearbeitung und -nutzung**[^16e-1]
+
+<sup>1</sup>
+
+Das BAZL bearbeitet zur Erfüllung seiner Aufsichtspflicht die nach Artikel 16*d* Absatz 2 erhaltenen Daten insbesondere für:
+
+- a. die Ermittlung der zu beaufsichtigenden Entitäten;
+- b. die Überprüfung der Deklaration nach Artikel 16*d* Absatz 1.
+
+<sup>2</sup> Es darf die zur Überprüfung der Deklaration benötigten Daten an die zur Frachtannahme berechtigten Stellen weitergeben.
+
+<sup>3</sup> Die zur Frachtannahme befugte Stelle ist berechtigt, Daten gestützt auf die nach Absatz 2 erhaltenen Daten zur Überprüfung der Deklaration abzurufen.
+
+[^16e-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 17
 
@@ -364,13 +446,13 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 Diese Verordnung tritt am 5. September 2005 in Kraft.
 
-## Übergangsbestimmung der Änderung vom 14. Mai 2008****
+## Übergangsbestimmung der Änderung vom 14. Mai 2008
 
 [^u1-1]
 
 [^u1-1]: [AS 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)
 
-Die Ausbildungsbewilligungen für Kategorie 6, welche das Bundesamt vor dem Inkrafttreten der Änderung vom 14. Mai 2008 gestützt auf das alte Recht erteilt hat, bleiben längstens bis am 30. September 2008 gültig.
+Die Ausbildungsbewilligungen für Kategorie 6, welche das BAZL vor dem Inkrafttreten der Änderung vom 14. Mai 2008 gestützt auf das alte Recht erteilt hat, bleiben längstens bis am 30. September 2008 gültig.
 
 Anhang
 
@@ -386,5 +468,5 @@ II
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1952 1060](https://fedlex.data.admin.ch/eli/oc/1952/1060_1087_1090), [1963 679](https://fedlex.data.admin.ch/eli/oc/1963/679_676_699), [1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)Ziff. II 2, [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 54]
+[^annexu1-lvlu1-1]: [[AS 1952 1060](https://fedlex.data.admin.ch/eli/oc/1952/1060_1087_1090); [1963 679](https://fedlex.data.admin.ch/eli/oc/1963/679_676_699); [1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)Ziff. II 2; [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 54]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556)konsultiert werden.

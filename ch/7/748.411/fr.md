@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2005 sur le transport aérien (OTrA)
 short: OTrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: fr
-version: 2016-04-01
+version: 2023-01-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20160401/fr/xml/fedlex-data-admin-ch-eli-cc-2005-556-20160401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20160401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20160401/fr"
 
 (OTrA)
 
-du 17 août 2005 (Etat le 1<sup>er</sup> avril 2016)
+du 17 août 2005 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art. 6*a* et 75 de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^ingress-1], en exécution de la Convention du 28 mai 1999 pour l’unification de certaines règles relatives au transport aérien international (Convention de Montréal)[^ingress-2], [^ingress-3]
+vu les art. 6*a* et 75 de la loi du 21 décembre 1948 sur l’aviation[^ingress-1], vu la Convention du 28 mai 1999 pour l’unification de certaines règles relatives au transport aérien international (Convention de Montréal)[^ingress-2],[^ingress-3] [^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RS 0.748.411](https://fedlex.data.admin.ch/eli/cc/2005/566)
-[^ingress-3]: La présente O est compatible avec le R (CE) no 889/2002 du Parlement européen et du Conseil du 13 mai 2002modifiant le R (CE) n<sup>o</sup> 2027/97 du Conseil relatif à la responsabilité des transporteurs aériens en cas d’accident (JO L 140 du 30.5.2002, p. 2), le R (CE) n<sup>o</sup> 785/2004 du Parlement européen et du Conseil du 21 avril 2004 relatif aux exigences en matière d’assurance applicables aux transporteurs aériens et aux exploitants d’aéronefs (JO L 138 du 30.4.2004, p. 1), et le R (CE) n<sup>o</sup> 261/2004 du Parlement européen et du Conseil du 11 fév. 2004établissant des règles communes en matière d’indemnisation et d’assistance de passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le R (CEE) n<sup>o</sup> 295/91 (JO L 46 du 17.2.2004, p.1).
+[^ingress-3]: La présente ordonnance est compatible avec le règlement (CE) n<sup>o</sup> 889/2002 du Parlement européen et du Conseil du 13 mai 2002 modifiant le règlement (CE) n<sup>o</sup> 2027/97 du Conseil relatif à la responsabilité des transporteurs aériens en cas d’accident, dans sa version qui lie la Suisse en vertu du ch. 7 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)), avec le règlement (CE) n<sup>o</sup> 785/2004 du Parlement européen et du Conseil du 21 avril 2004 relatif aux exigences en matière d’assurance applicables aux transporteurs aériens et aux exploitants d’aéronefs, dans sa version qui lie la Suisse en vertu du ch. 1 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien et avec le règlement (CE) n<sup>o</sup> 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d’indemnisation et d’assistance de passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le règlement (CEE) n<sup>o</sup> 295/91, dans sa version qui lie la Suisse en vertu du ch. 7 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien.
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 ## Section 1 Dispositions générales
 
@@ -47,10 +48,12 @@ Pour autant que la Convention de Montréal ne soit pas applicable, la présente 
 
 La présente ordonnance ne s’applique pas:
 
-- a. aux transports régis par la législation postale, par des conventions postales internationales ou par des arrangements spéciaux conclus entre La Poste Suisse et les transporteurs aériens;
+- a.[^1-1] aux transports régis par la législation postale, par des conventions postales internationales ou par des arrangements spéciaux conclus entre La Poste Suisse et les transporteurs aériens, à l’exception des transports de marchandises dangereuses selon l’art. 16, y compris la formation dans ce domaine (art. 16*b* et 16*c*);
 - b. aux planeurs de pente et aux parachutes.
 
 <sup>4</sup> Le transport à exécuter par plusieurs transporteurs successifs est censé constituer pour l’application de la présente ordonnance un transport unique lorsqu’il a été envisagé par les parties comme une seule opération, qu’il ait été conclu sous la forme d’un seul contrat ou d’une série de contrats. Il ne perd pas son caractère international par le fait qu’un seul contrat ou une série de contrats doivent être exécutés intégralement sur le territoire d’un même Etat.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 2
 
@@ -79,9 +82,11 @@ Dans la présente ordonnance, on entend par:
 
 **Conditions de transport**
 
-<sup>1</sup> Les conditions de transport des entreprises suisses de transport aérien titulaires d’une concession sont soumises à l’approbation de l’Office fédéral de l’aviation civile (office).
+<sup>1</sup> Les conditions de transport des entreprises suisses de transport aérien titulaires d’une concession sont soumises à l’approbation de l’Office fédéral de l’aviation civile (OFAC).[^4-1]
 
 <sup>2</sup> Elles sont approuvées si elles ne contredisent pas les dispositions de droit impératif de la législation suisse et des conventions internationales qui lient la Suisse.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 ## Section 2 Documents et obligations des parties relatifs au transport des passagers, des bagages et des marchandises
 
@@ -140,17 +145,17 @@ La lettre de transport aérien est établie en trois exemplaires originaux:
 
 <sup>1</sup> Le transporteur est responsable du dommage survenu en cas de mort ou de lésion corporelle d’un passager suite à un accident qui s’est produit à bord de l’aéronef ou lors des opérations d’embarquement ou de débarquement.
 
-<sup>2</sup> Pour les dommages ne dépassant pas la somme de 113 100 droits de tirage spéciaux par passager, le transporteur ne peut exclure ou limiter sa responsabilité.[^7-1]
+<sup>2</sup> Pour les dommages ne dépassant pas la somme de 128 821 droits de tirage spéciaux par passager, le transporteur ne peut exclure ou limiter sa responsabilité.[^7-1]
 
 <sup>3</sup>
 
-Le transporteur n’est pas responsable des dommages qui dépassent la somme de 113 100 droits de tirage spéciaux par passager s’il prouve:[^7-2]
+Le transporteur n’est pas responsable des dommages qui dépassent la somme de 128 821 droits de tirage spéciaux par passager s’il prouve:[^7-2]
 
 - a. que le dommage n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable du transporteur, de ses préposés ou de ses mandataires, ou
 - b. que ces dommages résultent uniquement de la négligence ou d’un autre acte ou omission préjudiciable d’un tiers.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 8
 
@@ -164,11 +169,11 @@ Le transporteur n’est pas responsable des dommages qui dépassent la somme de 
 
 <sup>4</sup> Pour les bagages non enregistrés et les effets personnels, le transporteur est responsable si le dommage résulte de sa faute ou de celle de ses préposés ou mandataires.
 
-<sup>5</sup> La responsabilité du transporteur en cas de destruction, de perte ou d’avarie de bagages et d’effets personnels est limitée à la somme de 1131 droits de tirage spéciaux par passager, sauf déclaration d’une valeur plus élevée faite par ce dernier au moment de l’enregistrement et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel du passager à la livraison.[^8-1]
+<sup>5</sup> La responsabilité du transporteur en cas de destruction, de perte ou d’avarie de bagages et d’effets personnels est limitée à la somme de 1288 droits de tirage spéciaux par passager, sauf déclaration d’une valeur plus élevée faite par ce dernier au moment de l’enregistrement et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel du passager à la livraison.[^8-1]
 
 <sup>6</sup> Les dispositions de l’al. 5 ne s’appliquent pas s’il est prouvé que le dommage résulte d’un acte ou d’une omission du transporteur, de ses préposés ou de ses mandataires, fait soit avec l’intention de provoquer un dommage, soit témérairement et avec conscience qu’un dommage en résultera probablement, pour autant que, dans le cas d’un acte ou d’une omission de préposés ou de mandataires, la preuve soit également apportée que ceux-ci ont agi dans l’exercice de leurs fonctions.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 9
 
@@ -176,7 +181,7 @@ Le transporteur n’est pas responsable des dommages qui dépassent la somme de 
 
 <sup>1</sup> Le transporteur est responsable du dommage survenu en cas de destruction, de perte ou d’avarie de marchandises si le dommage s’est produit pendant le transport aérien.
 
-<sup>2</sup> La responsabilité du transporteur est limitée à la somme de 19 droits de tirage spéciaux par kilogramme, sauf déclaration d’une valeur plus élevée faite par l’expéditeur au moment de la remise de la marchandise au transporteur et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel de l’expéditeur à la livraison.[^9-1]
+<sup>2</sup> La responsabilité du transporteur est limitée à la somme de 22 droits de tirage spéciaux par kilogramme, sauf déclaration d’une valeur plus élevée faite par l’expéditeur au moment de la remise de la marchandise au transporteur et moyennant le paiement éventuel d’une somme supplémentaire.[^9-1] Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel de l’expéditeur à la livraison.[^9-2]
 
 <sup>3</sup>
 
@@ -188,7 +193,8 @@ Le transporteur n’est pas responsable s’il établit que la destruction, la p
 - d. un acte de l’autorité publique accompli en relation avec l’entrée, la sortie ou le transit des marchandises.
 - [tab] <sup>4</sup> Le transport aérien au sens de l’al. 1 comprend la période pendant laquelle la marchandise se trouve sous la garde du transporteur. L’art. 18, al. 4, de la Convention de Montréal s’applique par analogie à la période du transport aérien.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
 
 #### Art. 10
 
@@ -200,9 +206,9 @@ Le transporteur n’est pas responsable s’il établit que la destruction, la p
 
 La responsabilité du transporteur:
 
-- a. en cas de retard dans le transport de passagers, est limitée à la somme de 4694 droits de tirage spéciaux par passager;
-- b. en cas de retard dans le transport de bagages, est limitée à la somme de 1131 droits de tirage spéciaux par passager, sauf déclaration d’une valeur plus élevée faite par ce dernier au moment de l’enregistrement et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel du passager à la livraison;
-- c. en cas de retard dans le transport de marchandises, est limitée à la somme de 19 droits de tirage spéciaux par kilogramme, sauf déclaration d’une valeur plus élevée faite par l’expéditeur au moment de la remise des marchandises au transporteur et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel de l’expéditeur à la livraison.[^10-1]
+- a. en cas de retard dans le transport de passagers, est limitée à la somme de 5346 droits de tirage spéciaux par passager;
+- b. en cas de retard dans le transport de bagages, est limitée à la somme de 1288 droits de tirage spéciaux par passager, sauf déclaration d’une valeur plus élevée faite par ce dernier au moment de l’enregistrement et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel du passager à la livraison;
+- c. en cas de retard dans le transport de marchandises, est limitée à la somme de 22 droits de tirage spéciaux par kilogramme, sauf déclaration d’une valeur plus élevée faite par l’expéditeur au moment de la remise des marchandises au transporteur et moyennant le paiement éventuel d’une somme supplémentaire. Dans ce cas, le transporteur est tenu de payer jusqu’à concurrence de la somme déclarée, à moins qu’il prouve qu’elle est supérieure à l’intérêt réel de l’expéditeur à la livraison.[^10-1]
 
 <sup>3</sup> Le transporteur n’est pas responsable du dommage causé par un retard s’il prouve que lui ou ses proposés ou mandataires ont pris toutes les mesures qui pouvaient raisonnablement s’imposer pour éviter le dommage, ou qu’il leur était impossible de les prendre.
 
@@ -210,7 +216,7 @@ La responsabilité du transporteur:
 
 <sup>5</sup> Les dispositions de droit international applicables en Suisse en matière de retard dans le transport aérien de passagers sont réservées.
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 11
 
@@ -218,12 +224,12 @@ La responsabilité du transporteur:
 
 <sup>1</sup> En cas de décès ou de lésion corporelle d’un voyageur, la qualité d’ayant droit, la forme et le mode de calcul des dommages-intérêts et de la réparation morale sont déterminés par les dispositions du code des obligations[^11-1].
 
-<sup>2</sup> Si, en cas de décès ou de lésion corporelle du même voyageur, plusieurs ayants droit peuvent prétendre à des indemnités et que le total de ces indemnités dépasse le maximum de 113 100 droits de tirage spéciaux, le juge les réduit proportionnellement à ce maximum.[^11-2]
+<sup>2</sup> Si, en cas de décès ou de lésion corporelle du même voyageur, plusieurs ayants droit peuvent prétendre à des indemnités et que le total de ces indemnités dépasse le maximum de 128 821 droits de tirage spéciaux, le juge les réduit proportionnellement à ce maximum.[^11-2]
 
 <sup>3</sup> Pour le calcul de la réparation, en cas de dommage matériel, les dispositions du code des obligations sur le contrat de transport sont applicables à titre complémentaire.
 
 [^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^11-2]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2016, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 12
 
@@ -243,7 +249,7 @@ La responsabilité du transporteur:
 
 <sup>3</sup> En cas de retard dans l’acheminement de bagages enregistrés ou de marchandises, le destinataire adresse au transporteur une protestation écrite au plus tard dans les 21 jours à dater du jour où les bagages ou les marchandises ont été mis à sa disposition.
 
-<sup>4</sup> A défaut de protestation dans les délais prévus, toute action contre le transporteur est irrecevable, sauf en cas de fraude de celui-ci.
+<sup>4</sup> À défaut de protestation dans les délais prévus, toute action contre le transporteur est irrecevable, sauf en cas de fraude de celui-ci.
 
 #### Art. 14
 
@@ -269,40 +275,117 @@ L’action en responsabilité doit être intentée, sous peine de déchéance, d
 
 **Transport de marchandises dangereuses**
 
-<sup>1</sup> Les normes de l’Organisation de l’aviation civile internationale contenues dans l’annexe 18 de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^16-1], y compris les prescriptions techniques qui s’y rapportent[^16-2], sont directement applicables au transport de marchandises dangereuses par aéronefs sur des vols internes et internationaux. Les dérogations notifiées en vertu de l’art. 38 de la Convention sont réservées.
+<sup>1</sup> Les normes de l’Organisation de l’aviation civile internationale contenues dans l’annexe 18 de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^16-1] (Annexe 18 OACI), y compris les prescriptions techniques qui s’y rapportent[^16-2] (instructions techniques [IT]), sont directement applicables au transport de marchandises dangereuses par aéronefs sur des vols internes et internationaux. Les dérogations notifiées en vertu de l’art. 38 de la Convention sont réservées.[^16-3]
 
 <sup>2</sup> Le présent article s’applique également aux transports non commerciaux effectués à titre gratuit.
 
-<sup>3</sup> Dans des circonstances particulières, l’office peut autoriser, pour chaque cas pris individuellement et, le cas échéant, pour une durée déterminée, des exceptions pour des catégories spéciales de transports. S’il s’agit de vols internationaux, le requérant doit avoir obtenu l’accord des Etats devant être survolés.
+<sup>3</sup> Dans des circonstances particulières, l’OFAC[^16-4] peut autoriser, pour chaque cas pris individuellement et, le cas échéant, pour une durée déterminée, des exceptions pour des catégories spéciales de transports. S’il s’agit de vols internationaux, le requérant doit avoir obtenu l’accord des Etats devant être survolés.
 
-<sup>4</sup> L’autorité compétente pour les approbations de modèles de colis et d’expéditions de matières radioactives au sens des normes mentionnées à l’al. 1 est l’Inspection fédérale de la sécurité nucléaire.[^16-3]
+<sup>4</sup> L’autorité compétente pour les approbations de modèles de colis et d’expéditions de matières radioactives au sens des normes mentionnées à l’al. 1 est l’Inspection fédérale de la sécurité nucléaire.[^16-5]
 
-[^16-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). Cette annexe n’est pas publiée au RO. Elle peut être consultée ou obtenue auprès de l’office.
-[^16-2]: Les normes et les prescriptions techniques ne sont pas publiées au RO. Elles peuvent être consultées en langue française ou anglaise auprès de l’office et des services d’information des aéroports nationaux; elles ne sont traduites ni en allemand ni en italien.
-[^16-3]: Nouvelle teneur selon le ch. 21 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^16-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté gratuitement à l’adresse suivante: www.ofac.admin.ch &gt; Thèmes &gt; Bases légales, ou être obtenu contre paiement auprès de l’Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7 (www.icao.int).
+[^16-2]: Les instructions techniques ne sont publiées ni dans le RO ni dans le RS. Elles peuvent être consultées en langue française ou anglaise auprès de l’OFAC et des services d’information des aéroports nationaux; elles ne sont traduites ni en allemand ni en italien.
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^16-4]: Nouvelle expression selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)). Il a été tenu compte de cette mod. dans tout le texte.
+[^16-5]: Nouvelle teneur selon l’annexe ch. 21 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16a
 
-**Formation en matière de transport de marchandises dangereuses**[^16a-1]
+[^16a-1]
 
-<sup>1</sup> Les tâches qui sont liées au transport aérien de marchandises dangereuses et qui tombent dans l’une des douze catégories définies au chap. 1 à 4 des instructions techniques de l’annexe 18 de la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^16a-2] ne peuvent être accomplies que par du personnel ayant suivi:
+[^16a-1]: Introduit par le ch. I de l’O du 14 mai 2008 ([RO 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)). Abrogé par le ch. I de l’O du 12 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
-une formation correspondant à ses responsabilités et
+#### Art. 16b
 
-un cours de répétition tous les 24 mois au moins.
+**Programmes de formation et approbation obligatoire**[^16b-1]
 
-<sup>2</sup> Toute personne qui forme du personnel des catégories 1 à 5 et 7 à 12 doit être titulaire d’un certificat de la catégorie 6.
+<sup>1</sup> L’employeur de personnes qui exercent des activités destinées à assurer que les marchandises dangereuses sont transportées conformément aux exigences de l’art. 16, al. 1, doit mettre en place et tenir à jour un programme de formation.
 
-<sup>3</sup> Toute personne qui forme du personnel de la catégorie 6 doit disposer, en plus du certificat de la catégorie 6, d’une autorisation de formation. L’autorisation est délivrée par l’office si le requérant réussit un examen d’aptitude et s’il apporte la preuve qu’il dispose d’une expérience dans le transport aérien de marchandises dangereuses. L’autorisation est valable quatre ans.
+<sup>2</sup>
 
-<sup>4</sup> La durée de la formation de la catégorie 6 est de cinq jours au moins pour le cours de base et de trois jours au moins pour le cours de répétition.
+Le programme de formation doit comprendre les éléments suivants:
 
-<sup>5</sup> Le titulaire de l’autorisation de formation délivre les certificats de la catégorie 6 et en adresse une copie à l’office. Ce dernier tient à jour une liste des personnes titulaires d’une autorisation de formation et des personnes titulaires d’un certificat de la catégorie 6.
+- a. le résultat de l’analyse des besoins de formation;
+- b. un plan de formation;
+- c. un plan d’évaluation;
+- d. un plan d’action pour le contrôle de l’efficacité.
 
-<sup>6</sup> Les formations destinées au personnel de toutes les catégories doivent reposer sur des programmes dont la dernière version doit avoir été approuvée par l’office. Les programmes doivent être établis dans le respect des normes visées à l’art. 16, al. 1, et adaptés à chaque modification de ces dernières.
+<sup>3</sup>
 
-[^16a-1]: Introduit par le ch. I de l’O du 14 mai 2008, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)).
-[^16a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+Les programmes de formation des organismes suivants requièrent l’approbation préalable de l’OFAC:
+
+- a. les organismes qui, conformément aux points ORO.GEN.110 et NCO.GEN.140 du règlement (UE) n° 965/2012[^16b-2], sont soumis à approbation;
+- b. les opérateurs postaux désignés (OPD) visés à la Partie 1, section 4.7.2, des instructions techniques relatives à l’Annexe 18 OACI.
+
+[^16b-1]: Introduit par le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^16b-2]: Règlement (UE) n<sup>o</sup> 965/2012 de la Commission du 5 octobre 2012 déterminant les exigences techniques et les procédures administratives applicables aux opérations aériennes conformément au règlement (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil, dans sa version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+
+#### Art. 16c
+
+**Exigences en matière de qualification des instructeurs et des évaluateurs**[^16c-1]
+
+<sup>1</sup>
+
+Les instructeurs et les évaluateurs doivent être en mesure de justifier de leur qualification comme suit:
+
+- a. connaissances: être titulaires d’une attestation de connaissances relatives aux marchandises dangereuses portant au moins sur les domaines enseignés ou évalués;
+- b. expérience professionnelle: justifier d’une expérience dans une fonction directement en rapport avec le transport de marchandises dangereuses dans l’environnement opérationnel sur lequel porte la formation ou l’évaluation.
+
+<sup>2</sup>
+
+Les instructeurs doivent en outre justifier des qualifications suivantes:
+
+- a. connaissances en pédagogie et en méthodologie;
+- b. durée de l’expérience professionnelle: elle doit être d’au moins six mois au cours des cinq dernières années précédant le premier cours; cette exigence ne s’applique pas aux instructeurs qui travaillaient entre le 1<sup>er</sup> janvier 2021 et le 31 décembre 2022 pour une entreprise ayant son siège ou un établissement en Suisse et qui continuent à dispenser des formations dans l’environnement opérationnel dans lequel ils exerçaient leur activité.
+
+<sup>3</sup>
+
+Les qualifications sont valables pour les durées suivantes:
+
+- a. qualifications selon les al. 1, let. a, et 2, let. a: 24 mois;
+- b. qualifications selon l’al. 1, let. b: pour une durée illimitée, pour autant que l’activité n’ait pas été interrompue pendant plus de cinq années consécutives.
+
+<sup>4</sup>
+
+La prorogation de la durée de validité des qualifications est subordonnée aux conditions suivantes:
+
+- a.
+
+  qualifications selon l’al. 1, let. a:
+
+  - 1\. instructeurs: au cours des 24 derniers mois précédant la prorogation, ils doivent avoir suivi une formation de recyclage ou, à défaut, avoir dispensé au moins un cours portant sur les domaines enseignés,
+  - 2\. évaluateurs: au cours des 24 derniers mois précédant la prorogation, ils doivent avoir suivi une formation de recyclage ou, à défaut, avoir effectué une évaluation portant sur les domaines évalués;
+
+- b. qualifications selon l’al. 2, let. a: les instructeurs doivent avoir dispensé au moins un cours au cours des 24 derniers mois précédant la prorogation.
+
+<sup>5</sup> Dans des circonstances particulières, l’OFAC peut autoriser, au cas par cas et pour une durée déterminée, des exceptions aux exigences prévues aux al. 3 et 4.
+
+<sup>6</sup> L’employeur selon l’art. 16*b*, al. 1, veille à ce que les instructeurs et les évaluateurs remplissent les exigences de qualification prévues aux al. 1 à 4.
+
+[^16c-1]: Introduit par le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16d
+
+[^16d-1]
+
+[^16d-1]: Entre en vigueur ultérieurement ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16e
+
+**Enregistrement, traitement et utilisation des données**[^16e-1]
+
+<sup>1</sup>
+
+Afin de remplir ses obligations en matière de surveillance, l’OFAC traite notamment aux fins suivantes les données qui lui ont été communiquées conformément à l’art. 16*d*, al. 2:
+
+- a. identification des entités à surveiller;
+- b. contrôle de la déclaration conformément à l’art. 16*d*, al. 1.
+
+<sup>2</sup> Il peut transmettre aux services habilités à réceptionner le fret les données dont ils ont besoin pour contrôler la déclaration.
+
+<sup>3</sup> Le service habilité à réceptionner le fret a le droit de consulter des données basées sur les données obtenues en vertu de l’al. 2 pour les besoins du contrôle de la déclaration.
+
+[^16e-1]: Introduit par le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 17
 
@@ -352,13 +435,13 @@ L’abrogation et la modification du droit en vigueur sont réglées en annexe.
 
 La présente ordonnance entre en vigueur le 5 septembre 2005.
 
-## Disposition transitoire de la modification du 14 mai 2008****
+## Disposition transitoire de la modification du 14 mai 2008
 
 [^u1-1]
 
 [^u1-1]: [RO 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)
 
-Les autorisations de formation de la catégorie 6 qui ont été délivrées par l’office en vertu de l’ancien droit avant l’entrée en vigueur de la modification du 14 mai 2008 restent valables jusqu’au 30 septembre 2008 au plus tard.
+Les autorisations de formation de la catégorie 6 qui ont été délivrées par l’OFAC en vertu de l’ancien droit avant l’entrée en vigueur de la modification du 14 mai 2008 restent valables jusqu’au 30 septembre 2008 au plus tard.
 
 Annexe
 

@@ -4,11 +4,11 @@ title: Ordinanza del 17 agosto 2005 sul trasporto aereo (OTrA)
 short: OTrA
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/556"
 language: it
-version: 2016-04-01
+version: 2023-01-01
 adopted: 2005-08-17
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20160401/it/xml/fedlex-data-admin-ch-eli-cc-2005-556-20160401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20160401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/556/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2005-556-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/556/20160401/it"
 
 (OTrA)
 
-del 17 agosto 2005 (Stato 1° aprile 2016)
+del 17 agosto 2005 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 6*a* e 75 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); in applicazione della Convenzione del 28 maggio 1999[^ingress-2] per l’unificazione di alcune norme relative al trasporto aereo internazionale (Convenzione di Montreal)[^ingress-3],
+visti gli articoli 6*a* e 75 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea; in applicazione della Convenzione del 28 maggio 1999[^ingress-2] per l’unificazione di alcune norme relative al trasporto aereo internazionale (Convenzione di Montreal)[^ingress-3],[^ingress-4]
 
 decreta:
 
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RS 0.748.411](https://fedlex.data.admin.ch/eli/cc/2005/566)
-[^ingress-3]: La presente O tiene parimenti conto del Regolamento (CE) n. 889/2002 del Parlamento europeo e del Consiglio del 13 mag. 2002, che modifica il regolamento (CE) n. 2027/97 del Consiglio sulla responsabilità del vettore aereo in caso d’incidente (GU L 140 del 30.5.2002, p. 2), del regolamento (CE) n. 785/2004 del Parlamento europeo e del Consiglio del 21 apr. 2004 relativo ai requisiti assicurativi applicabili ai vettori aerei e agli esercenti di aeromobili (GU L 138 del 30.4.2004, p. 1), e del regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio dell’11 feb. 2004 che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo e di ritardo prolungato e che abroga il regolamento (CEE) n. 295/91 (GU L 46 del 17.2.2004, p. 1).
+[^ingress-3]: La presente O tiene parimenti conto del Regolamento (CE) n. 889/2002 del Parlamento europeo e del Consiglio del 13 maggio 2002, che modifica il regolamento (CE) n. 2027/97 del Consiglio sulla responsabilità del vettore aereo in caso d’incidente, nell’edizione vincolante per la Svizzera secondo il numero 7 dell’allegato all’Accordo sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)), del regolamento (CE) n. 785/2004 del Parlamento europeo e del Consiglio del 21 aprile 2004 relativo ai requisiti assicurativi applicabili ai vettori aerei e agli esercenti di aeromobili, nell’edizione vincolante per la Svizzera secondo il numero 1 dell’allegato all’Accordo sul trasporto aereo, e del regolamento (CE) n. 261/2004 del Parlamento europeo e del Consiglio dell’11 febbraio 2004 che istituisce regole comuni in materia di compensazione ed assistenza ai passeggeri in caso di negato imbarco, di cancellazione del volo e di ritardo prolungato e che abroga il regolamento (CEE) n. 295/91, nell’edizione vincolante per la Svizzera secondo il numero 7 dell’allegato all’Accordo sul trasporto aereo.
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -43,10 +44,12 @@ Sempre che non si applichi la Convenzione di Montreal, la presente ordinanza si 
 - b. a titolo gratuito da un’impresa di trasporto aereo titolare di un’autorizzazione di esercizio.
 - [tab] <sup>2</sup> Il capoverso 1 si applica anche ai trasporti effettuati dalla Confederazione o da altre persone giuridiche di diritto pubblico. I trasporti interni effettuati dalla Confederazione non rientrano invece sotto la presente ordinanza.
 - [tab] <sup>3</sup> Essa non si applica:
-- a. ai trasporti disciplinati dalla legislazione sul servizio postale, da accordi internazionali sul servizio postale o da accordi speciali conclusi fra La Posta svizzera e le imprese di trasporto aereo;
+- a.[^1-1] ai trasporti disciplinati dalla legislazione sul servizio postale, da accordi internazionali sul servizio postale o da accordi speciali conclusi fra La Posta svizzera e le imprese di trasporto aereo, ad eccezione dei trasporti di merci pericolose di cui all’articolo 16, compresa la formazione in tale ambito (artt. 16*b* e 16*c*);
 - b. agli alianti da pendio e ai paracaduti.
 
 <sup>4</sup> Ai fini della presente ordinanza il trasporto effettuato da più vettori successivi si presume costituire un unico trasporto qualora le parti lo abbiano considerato come un’unica operazione, indipendentemente dal fatto che sia stato stipulato per mezzo di un unico contratto o per mezzo di più contratti. Il suo carattere internazionale non viene meno per il solo fatto che un contratto o più contratti debbano essere eseguiti integralmente sul territorio di un medesimo Stato.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 2
 
@@ -75,9 +78,11 @@ Nella presente ordinanza s’intende per:
 
 **Condizioni di trasporto**
 
-<sup>1</sup> Le condizioni di trasporto delle imprese svizzere di trasporto aereo titolari di una concessione sono soggette all’approvazione dell’Ufficio federale dell’aviazione civile (Ufficio).
+<sup>1</sup> Le condizioni di trasporto delle imprese svizzere di trasporto aereo titolari di una concessione sono soggette all’approvazione dell’Ufficio federale dell’aviazione civile (UFAC).[^4-1]
 
 <sup>2</sup> Esse sono approvate se non sono in contraddizione con le disposizioni tassative del diritto svizzero e delle convenzioni internazionali cui la Svizzera è vincolata.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 ## Sezione 2: Documentazione e obblighi delle parti in materia di trasporto di passeggeri, bagagli e merci
 
@@ -139,17 +144,17 @@ La lettera di trasporto aereo è emessa in tre esemplari originali:
 
 <sup>1</sup> Il vettore è responsabile del danno derivante dalla morte o dalla lesione personale di un passeggero a seguito di un incidente avvenuto a bordo dell’aeromobile oppure durante le operazioni di imbarco e di sbarco.
 
-<sup>2</sup> Il vettore non può escludere o limitare la propria responsabilità per i danni che non superano il valore di 113 100 diritti speciali di prelievo per passeggero.[^7-1]
+<sup>2</sup> Il vettore non può escludere o limitare la propria responsabilità per i danni che non superano il valore di 128 821 diritti speciali di prelievo per passeggero.[^7-1]
 
 <sup>3</sup>
 
-Il vettore non è responsabile dei danni che superano il valore di 113 100 diritti speciali di prelievo per passeggero qualora provi che:[^7-2]
+Il vettore non è responsabile dei danni che superano il valore di 128 821 diritti speciali di prelievo per passeggero qualora provi che:[^7-2]
 
 - a. il danno non è dovuto alla negligenza o a un altro atto oppure omissione pregiudizievole del vettore, dei suoi dipendenti o incaricati; o
 - b. il danno è dovuto unicamente alla negligenza o a un altro atto oppure omissione pregiudizievole di terzi.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
-[^7-2]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^7-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 8
 
@@ -163,11 +168,11 @@ Il vettore non è responsabile dei danni che superano il valore di 113 100 dirit
 
 <sup>4</sup> Per i bagagli non consegnati e gli effetti personali, il vettore è responsabile qualora il danno derivi da sua colpa ovvero da colpa dei suoi dipendenti o incaricati.
 
-<sup>5</sup> La responsabilità del vettore in caso di distruzione, perdita o deterioramento dei bagagli e degli effetti personali è limitata alla somma di 1131 diritti speciali di prelievo per passeggero, a meno che al momento della consegna il passeggero abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.[^8-1]
+<sup>5</sup> La responsabilità del vettore in caso di distruzione, perdita o deterioramento dei bagagli e degli effetti personali è limitata alla somma di 1288 diritti speciali di prelievo per passeggero, a meno che al momento della consegna il passeggero abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.[^8-1]
 
 <sup>6</sup> Le disposizioni del capoverso 5 non si applicano qualora venga dimostrato che il danno deriva da un atto o omissione del vettore, dei suoi dipendenti o incaricati, compiuto con l’intenzione di provocare un danno o temerariamente e con la consapevolezza che probabilmente ne deriverà un danno, sempreché, nel caso di atto oppure di omissione di dipendenti o incaricati, venga anche fornita la prova che costoro hanno agito nell’esercizio delle loro funzioni.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^8-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 9
 
@@ -175,7 +180,7 @@ Il vettore non è responsabile dei danni che superano il valore di 113 100 dirit
 
 <sup>1</sup> Il vettore è responsabile del danno derivante dalla distruzione, perdita o deterioramento della merce se il danno si è verificato durante il trasporto aereo.
 
-<sup>2</sup> La responsabilità del vettore è limitata alla somma di 19 diritti speciali di prelievo per chilogrammo, a meno che al momento della consegna il passeggero abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare. In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.[^9-1]
+<sup>2</sup> La responsabilità del vettore è limitata alla somma di 22 diritti speciali di prelievo per chilogrammo, a meno che al momento della consegna il passeggero abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare.[^9-1] In tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.[^9-2]
 
 <sup>3</sup>
 
@@ -188,7 +193,8 @@ Il vettore non è responsabile se risulta che la distruzione, la perdita o il de
 
 <sup>4</sup> Il trasporto aereo ai sensi del capoverso 1 comprende il periodo nel corso del quale la merce si trova sotto la custodia del vettore. L’articolo 18 paragrafo 4 della Convenzione di Montreal si applica per analogia al periodo del trasporto.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
 
 #### Art. 10
 
@@ -200,9 +206,9 @@ Il vettore non è responsabile se risulta che la distruzione, la perdita o il de
 
 La responsabilità del vettore è limitata:
 
-- a. alla somma di 4694 diritti speciali di prelievo per passeggero in caso di ritardo nel trasporto di passeggeri;
-- b. alla somma di 1131 diritti speciali di prelievo per passeggero in caso di ritardo nel trasporto di bagagli, a meno che al momento della consegna il passeggero abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare; in tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del passeggero alla consegna a destinazione;
-- c. alla somma di 19 diritti speciali di prelievo per chilogrammo in caso di ritardo nel trasporto di merci, a meno che al momento della consegna il mittente abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare; in tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.[^10-1]
+- a. alla somma di 5346 diritti speciali di prelievo per passeggero in caso di ritardo nel trasporto di passeggeri;
+- b. alla somma di 1288 diritti speciali di prelievo per passeggero in caso di ritardo nel trasporto di bagagli, a meno che al momento della consegna il passeggero abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare; in tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del passeggero alla consegna a destinazione;
+- c. alla somma di 22 diritti speciali di prelievo per chilogrammo in caso di ritardo nel trasporto di merci, a meno che al momento della consegna il mittente abbia dichiarato un valore più elevato e pagato un’eventuale tassa supplementare; in tal caso il vettore sarà tenuto al risarcimento sino a concorrenza della somma dichiarata, a meno che egli non dimostri che tale somma è superiore all’interesse reale del mittente alla consegna a destinazione.[^10-1]
 
 <sup>3</sup> Il vettore non è responsabile del danno dovuto a ritardo se dimostra che lui o i suoi dipendenti o incaricati hanno adottato tutte le misure ragionevolmente necessarie per evitare il danno oppure che non è stato loro possibile adottarle.
 
@@ -210,7 +216,7 @@ La responsabilità del vettore è limitata:
 
 <sup>5</sup> Sono riservate le disposizioni di diritto internazionale concernenti i ritardi nel trasporto aereo di passeggeri che si applicano in Svizzera.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^10-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 11
 
@@ -218,12 +224,12 @@ La responsabilità del vettore è limitata:
 
 <sup>1</sup> In caso di decesso o di lesione corporale del passeggero la qualità di avente diritto, la forma e le modalità di calcolo del risarcimento e della riparazione sono determinate in base alle disposizioni del Codice delle obbligazioni[^11-1].
 
-<sup>2</sup> Se in caso di decesso o di lesione corporale dello stesso passeggero, parecchi aventi diritto possono pretendere il versamento di indennità per un importo complessivo superiore a 113 100 diritti speciali di prelievo, il giudice riduce le indennità in proporzione al rapporto fra questo valore massimo e l’importo complessivo.[^11-2]
+<sup>2</sup> Se in caso di decesso o di lesione corporale dello stesso passeggero, parecchi aventi diritto possono pretendere il versamento di indennità per un importo complessivo superiore a 128 821 diritti speciali di prelievo, il giudice riduce le indennità in proporzione al rapporto fra questo valore massimo e l’importo complessivo.[^11-2]
 
 <sup>3</sup> Per il calcolo della riparazione, in caso di danno materiale, sono applicabili a titolo complementare le disposizioni del Codice delle obbligazioni sul contratto di trasporto.
 
 [^11-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^11-2]: Nuovo testo giusta il n. I dell’O del 17 feb. 2016, in vigore dal 1° apr. 2016 ([RU 2016 743](https://fedlex.data.admin.ch/eli/oc/2016/143)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 12
 
@@ -269,41 +275,117 @@ Il diritto al risarcimento per danni si prescrive nel termine di due anni a deco
 
 **Trasporto di merci pericolose**
 
-<sup>1</sup> Per il trasporto aereo di merci pericolose su voli interni ed internazionali sono direttamente applicabili le norme dell’Organizzazione dell’aviazione civile internazionale recate nell’allegato 18 alla Convenzione del 7 dicembre 1944[^16-1] relativa all’aviazione civile internazionale, nonché le prescrizioni tecniche pertinenti[^16-2]. Sono fatte salve le deroghe notificate secondo l’articolo 38 di tale Convenzione.
+<sup>1</sup> Per il trasporto aereo di merci pericolose su voli interni e internazionali sono direttamente applicabili le norme dell’Organizzazione dell’aviazione civile internazionale recate nell’allegato 18 alla Convenzione del 7 dicembre 1944[^16-1] relativa all’aviazione civile internazionale (Annesso 18 ICAO), nonché le prescrizioni tecniche pertinenti (Technical Instructions – T.I.)[^16-2]. Sono fatte salve le deroghe notificate secondo l’articolo 38 di tale Convenzione.[^16-3]
 
 <sup>2</sup> Il presente articolo si applica anche ai trasporti non commerciali effettuati a titolo gratuito.
 
-<sup>3</sup> In circostanze particolari l’Ufficio può autorizzare eccezioni per particolari tipi di trasporti nel singolo caso e, se del caso, per una durata determinata. Per voli internazionali spetta alla richiedente procurarsi l’approvazione degli Stati da sorvolare.
+<sup>3</sup> In circostanze particolari l’UFAC[^16-4] può autorizzare eccezioni per particolari tipi di trasporti nel singolo caso e, se del caso, per una durata determinata. Per voli internazionali spetta alla richiedente procurarsi l’approvazione degli Stati da sorvolare.
 
-<sup>4</sup> L’approvazione dei modelli d’imballaggio e degli invii di materiali radioattivi ai sensi delle disposizioni menzionate al capoverso 1 è di competenza dell’Ispettorato federale della sicurezza nucleare.[^16-3]
+<sup>4</sup> L’approvazione dei modelli d’imballaggio e degli invii di materiali radioattivi ai sensi delle disposizioni menzionate al capoverso 1 è di competenza dell’Ispettorato federale della sicurezza nucleare.[^16-5]
 
-[^16-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). Questo all. non viene pubblicato nella RU né nella RS. Può essere richiesto o consultato presso l’Ufficio.
-[^16-2]: Le norme e le prescrizioni tecniche non vengono pubblicate nella RU né nella RS. Possono essere consultate in lingua francese o inglese presso l’Ufficio e i servizi d’informazione degli aeroporti nazionali; esse non sono tradotte né in tedesco né in italiano.
-[^16-3]: Nuovo testo giusta il n. 21 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^16-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381). Questo all. viene pubblicato nella RU e nella RS tramite rimando corrispondente. Può essere consultato gratuitamente all’indirizzo www.bazl.admin.ch &gt; Temi &gt; Basi legali, o acquistato presso l’Organizzazione dell’aviazione civile internazionale (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999 rue de l’Université, Québec, Canada H3C 5H7; www.icao.int).
+[^16-2]: Le norme e le prescrizioni tecniche non vengono pubblicate nella RU né nella RS. Possono essere consultate in lingua francese o inglese presso l’UFAC e i servizi d’informazione degli aeroporti nazionali; esse non sono tradotte né in tedesco né in italiano.
+[^16-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^16-4]: Nuova espr. giusta dal n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-5]: Nuovo testo giusta il n. 21 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16a
 
-**Formazione in materia di trasporto di merci pericolose**[^16a-1]
+[^16a-1]
+
+[^16a-1]: Introdotto dal n. I dell’O del 14 mag. 2008 ([RU 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)). Abrogato dal n. I dell’O del 12 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16b
+
+**Programmi di addestramento e obbligo di approvazione**[^16b-1]
+
+<sup>1</sup> Il datore di lavoro del personale incaricato di attività volte a garantire la conformità del trasporto di merci pericolose ai requisiti di cui all’articolo 16 capoverso 1 deve definire un programma di addestramento e tenerlo aggiornato.
+
+<sup>2</sup>
+
+Il programma di addestramento deve comprendere i seguenti elementi:
+
+- a. risultati dell’analisi del bisogno formativo;
+- b. piano di addestramento;
+- c. piano di valutazione;
+- d. piano di misure per il monitoraggio dell’efficacia.
+
+<sup>3</sup>
+
+I programmi di addestramento delle seguenti imprese sono subordinati all’approvazione dell’UFAC:
+
+- a. imprese soggette all’obbligo di approvazione ai sensi delle norme ORO.GEN.110 e NCO.GEN.140 del regolamento (UE) n. 965/2012[^16b-2];
+- b. Designated Postal Operators (DPO) secondo Part 1, Chapter 4.7.2 delle T.I. dell’Annesso 18 ICAO.
+
+[^16b-1]: Introdotto dal n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+[^16b-2]: Regolamento (UE) n. 965/2012 della Commissione del 5 ottobre 2012 che stabilisce i requisiti tecnici e le procedure amministrative per quanto riguarda le operazioni di volo ai sensi del regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, nell’edizione vincolante per la Svizzera secondo il numero 3 dell’allegato all’accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+
+#### Art. 16c
+
+**Attestati di qualifica richiesti agli istruttori e agli esaminatori**[^16c-1]
 
 <sup>1</sup>
 
-I compiti in relazione al trasporto aereo di merci pericolose che rientrano in una delle 12 categorie di cui al capitolo 1–4 delle prescrizioni tecniche dell’allegato 18 alla Convenzione del 7 dicembre 1944[^16a-2] relativa all’aviazione civile internazionale possono essere eseguiti soltanto da personale che ha seguito:
+Gli istruttori e gli esaminatori devono poter fornire attestati di qualifica per i seguenti ambiti:
 
-- a. una formazione corrispondente alle proprie responsabilità; e
-- b. un corso di ripetizione almeno ogni 24 mesi.
+- a. conoscenze specialistiche: attestato delle conoscenze specialistiche acquisite in materia di merci pericolose, almeno negli ambiti che sono oggetto della formazione o degli esami;
+- b. esperienza professionale: attestato dell’esperienza maturata in una funzione direttamente correlata al trasporto di merci pericolose in un ambito aziendale oggetto della formazione o degli esami.
 
-<sup>2</sup> Tutte le persone che formano personale delle categorie 1–5 e 7–12 devono essere titolari di un certificato della categoria 6.
+<sup>2</sup>
 
-<sup>3</sup> Tutte le persone che formano personale della categoria 6 devono disporre, oltre che di un certificato valido della categoria 6, di un’autorizzazione di formazione. L’autorizzazione è rilasciata dall’Ufficio se il richiedente supera un esame di idoneità e dimostra esperienza nel trasporto aereo di merci pericolose. L’autorizzazione è valida quattro anni.
+Gli istruttori devono inoltre sodsfare le seguenti condizioni:
 
-<sup>4</sup> La durata dei corsi di formazione della categoria 6 è di almeno cinque giorni per il corso di base e di almeno tre giorni per il corso di ripetizione.
+- a. dimostrare di possedere conoscenze di didattica e metodologia;
+- b. durata dell’esperienza professionale maturata: almeno 6 mesi negli ultimi cinque anni precedenti il primo corso di formazione da svolgere, ad eccezione degli istruttori che hanno lavorato già tra il 1° gennaio 2021 e il 31 dicembre 2022 per un’impresa con sede o filiale in Svizzera e i cui corsi di formazione riguardano lo stesso ambito aziendale in cui hanno lavorato.
 
-<sup>5</sup> Il titolare dell’autorizzazione di formazione rilascia i certificati della categoria 6 trasmettendone una copia all’Ufficio. Quest’ultimo tiene un elenco delle persone titolari di un’autorizzazione di formazione e di quelle titolari di un certificato della categoria 6.
+<sup>3</sup>
 
-<sup>6</sup> Le formazioni destinate al personale di tutte le categorie devono basarsi su programmi la cui ultima versione è stata approvata dall’Ufficio. I programmi devono essere elaborati in conformità con le norme di cui all’articolo 16 capoverso 1, e adattati a ogni modifica di queste ultime.
+Le qualifiche sono valide per la seguente durata:
 
-[^16a-1]: Introdotto dal n. I dell’O del 14 mag. 2008, in vigore dal 1° lug. 2008 ([RU 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)).
-[^16a-2]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+- a. qualifiche di cui al capoverso 1 lettera a e al capoverso 2 lettera a: 24 mesi;
+- b. qualifiche di cui al capoverso 1 lettera b: nessun limite temporale, a condizione che l’interruzione dell’attività non superi i cinque anni consecutivi.
+
+<sup>4</sup>
+
+Per una prorog della validità delle qualifiche devono essere soddisfatte le seguenti condizioni:
+
+- a.
+
+  per le qualifiche di cui al capoverso 1 lettera a:
+
+  - 1\. negli ultimi 24 mesi l’istruttore ha partecipato a un corso di formazione ricorrente o ha condotto almeno un corso di formazione negli ambiti che sono oggetto della formazione da fornire,
+  - 2\. negli ultimi 24 mesi l’esaminatore ha partecipato a un corso di formazione ricorrente o ha condotto almeno una valutazione negli ambiti che sono oggetto della valutazione da fornire;
+
+- b. per le qualifiche di cui al capoverso 2 lettera a: negli ultimi 24 mesi l’istruttore ha fornito almeno una formazione.
+
+<sup>5</sup> In presenza di circostanze particolari l’UFAC può concedere in singoli casi e per un periodo di tempo limitato deroghe ai requisiti di cui ai capoversi 3 e 4.
+
+<sup>6</sup> Il datore di lavoro del personale di cui all’articolo 16*b* capoverso 1 è responsabile del rispetto dei requisiti di qualifica di cui ai capoversi 1–4 da parte degli istruttori e degli esaminatori.
+
+[^16c-1]: Introdotto dal n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
+
+#### Art. 16d
+
+[^16d-1]
+
+[^16d-1]: Entra in vigore vigore in un secondo tempo.
+
+#### Art. 16e
+
+**Acquisizione, trattamento e utilizzo dei dati**[^16e-1]
+
+<sup>1</sup>
+
+Per adempiere al proprio dovere di sorveglianza, l’UFAC tratta i dati ricevuti ai sensi dell’articolo 16*d* capoverso 2, in particolare ai fini di:
+
+- a. identificazione dei soggetti da sottoporre a vigilanza;
+- b. controllo della dichiarazione ai sensi dell’articolo 16*d* capoverso 1.
+
+<sup>2</sup> L’UFAC può trasmettere ai punti di accettazione merci autorizzati i dati necessari per il controllo della dichiarazione.
+
+<sup>3</sup> Ai fini del controllo della dichiarazione, il punto di accettazione merci autorizzato può consultare ulteriori dati sulla base di quelli ricevuti in conformità al capoverso 2.
+
+[^16e-1]: Introdotto dal n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 622](https://fedlex.data.admin.ch/eli/oc/2022/622)).
 
 #### Art. 17
 
@@ -353,13 +435,13 @@ L’abrogazione e la modifica del diritto previgente sono disciplinate nell’al
 
 La presente ordinanza entra in vigore il 5 settembre 2005.
 
-## Disposizione transitoria della modifica del 14 maggio 2008****
+## Disposizione transitoria della modifica del 14 maggio 2008
 
 [^u1-1]
 
 [^u1-1]: [RU 2008 2301](https://fedlex.data.admin.ch/eli/oc/2008/334)
 
-Le autorizzazioni di formazione della categoria 6 rilasciate dall’Ufficio in virtù del diritto vigente prima dell’entrata in vigore della modifica del 14 maggio 2008 mantengono la loro validità al più tardi fino al 30 settembre 2008.
+Le autorizzazioni di formazione della categoria 6 rilasciate dall’UFAC in virtù del diritto vigente prima dell’entrata in vigore della modifica del 14 maggio 2008 mantengono la loro validità al più tardi fino al 30 settembre 2008.
 
 Allegato
 
@@ -373,7 +455,6 @@ Il regolamento di trasporto aereo del 3 ottobre 1952[^annexu1-lvlu1-1] (RTrA) è
 
 II
 
-…[^annexu1-lvlu1-2]
+…
 
 [^annexu1-lvlu1-1]: [[RU 1952 1090](https://fedlex.data.admin.ch/eli/oc/1952/1060_1087_1090), [1953 25](https://fedlex.data.admin.ch/eli/oc/1953/25_25_25), [1963 699](https://fedlex.data.admin.ch/eli/oc/1963/679_676_699), [1994 3028](https://fedlex.data.admin.ch/eli/oc/1994/3028_3028_3028)n. II 2, [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 54]
-[^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2005 4243](https://fedlex.data.admin.ch/eli/oc/2005/556).
