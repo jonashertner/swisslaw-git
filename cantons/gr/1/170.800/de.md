@@ -1,120 +1,131 @@
 ---
 canton: GR
 number: "170.800"
-title: Verordnung über die Bewirtschaftung der Parkplätze der kantonalen Verwaltung (Parkplatzverordnung
-short: "Parkplatzverordnung, PPV"
+title: Verordnung über das Parkplatzmanagement der kantonalen Verwaltung
+short: PMV
 language: de
-version: 2003-07-01
-corrected: 2014-11-09
-version_adopted: 2003-03-24
+version: 2023-01-01
+version_adopted: 2022-07-05
 adopted: 2022-07-05
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.800"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/44/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3255/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Bewirtschaftung der Parkplätze der kantonalen Verwaltung (Parkplatzverordnung, PPV)
+# Verordnung über das Parkplatzmanagement der kantonalen Verwaltung
 
-Gestützt auf Art. 82 der Verordnung über das Dienstverhältnis der Mitarbeiter des Kantons Graubünden (Personalverordnung, PV)[^t-1] und auf Art. 1 der Geschäftsordnung für die Regierung des Kantons Graubünden[^t-2]
+(PMV)
 
-von der Regierung erlassen am 24. März 2003
+Vom 05.07.2022 (Stand 01.01.2023)
 
-[^t-1]: Ab 1. Januar 2007 ersetzt durch Personalgesetz, BR 170.400
-[^t-2]: Ab 1. Januar 2007 ersetzt durch Regierungs- und Verwaltungsorganisationsverordnung, BR 170.310 1.07.2008 1
+Gestützt auf Art. 45 Abs. 1 und Art. 75 Abs. 4 der Kantonsverfassung[^ingress-1]
+
+von der Regierung erlassen am 5. Juli 2022
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 1
 
-**Geltungsbereich und Grundsatz**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für die Benützung der kantonseigenen und vom Kanton gemieteten Parkplätze.
+<sup>1</sup> Diese Verordnung regelt die Bereitstellung, Bewirtschaftung und Benützung der kantonseigenen und vom Kanton gemieteten Park- und Abstellplätze (Parkplatzmanagement).
 
-<sup>2</sup> Die Mitglieder der Regierung und der kantonalen Gerichte unterstehen ebenfalls dieser Verordnung.
+<sup>2</sup> Sie gilt für sämtliche Departemente und Dienststellen der kantonalen Verwaltung.
 
-<sup>3</sup> Niemand hat einen Rechtsanspruch auf einen Parkplatz.
+<sup>3</sup> Sie bildet Teil des Betrieblichen Mobilitätsmanagements (BMM) der kantonalen Verwaltung.
 
 #### Art. 2
 
-**Bereitstellung und Parkberechtigung**
+**Ziele**
 
-<sup>1</sup> Der Kanton stellt den Mitarbeitenden, die dienstlich auf ein Motorfahrzeug angewiesen sind, die erforderlichen Parkplätze soweit möglich zur Verfügung. Ebenso bietet er nach Möglichkeit gedeckte Abstellplätze für Motorfahrräder und Fahrräder an.
+<sup>1</sup> Dem Kanton kommt bei der betriebseigenen Verkehrsabwicklung eine Vorbildfunktion zu.
 
-<sup>2</sup> Die Parkberechtigung wird mittels Vignette sichergestellt.
+<sup>2</sup> Der Dienst- und Arbeitswegverkehr der kantonalen Verwaltung soll nachhaltig und ressourcenschonend ausgestaltet sein.
+
+<sup>3</sup> Der Kanton setzt Anreize zur Nutzung des öffentlichen Verkehrs sowie umweltverträglicher Mobilitätsmittel, insbesondere Fahrräder und E-Fahrräder, und stellt diese im Rahmen des BMM seinen Mitarbeitenden in angemessener Weise für den Dienstverkehr zur Verfügung.
+
+<sup>4</sup> Der Kanton bewirtschaftet seine Park- und Abstellplätze nachhaltig und vermeidet falsche Anreize zur Nutzung von privaten Personenwagen für Dienstreisen und den Arbeitsweg.
 
 #### Art. 3
 
-**Benützung durch Dritte**
+**Zuständigkeit und Aufgaben**
 
-Ausserhalb der Dienstzeit werden die Parkplätze gegen Gebühr auch Dritten zur Verfügung gestellt, wenn es sich betrieblich und wirtschaftlich als sinnvoll erweist.
+<sup>1</sup> Die Regierung wählt eine Parkplatzkommission (PPK). Diese besteht aus mindestens einer Vertretung jedes Departements und konstituiert sich selbst.
+
+<sup>2</sup> Die PPK beurteilt in Beachtung der übergeordneten Ziele des BMM die Abgabe der erforderlichen Parkplätze betreffend die dienstliche Nutzung privater Personenwagen und die gebührenfreie Abgabe der Parkberechtigungen.
+
+<sup>3</sup> Dem Hochbauamt (HBA) obliegt mit Ausnahme der Aufgaben, die der PPK zugewiesen sind, das Parkplatzmanagement der gesamten kantonalen Verwaltung. Vorbehältlich von Absatz 2 entscheidet es insbesondere über die Vergabe der Parkberechtigungen und kann aus wichtigen Gründen, insbesondere bei betrieblichen Erfordernissen, eine erteilte Parkberechtigung jederzeit widerrufen.
 
 #### Art. 4
 
-**Unentgeltliche Benützung**
+**Abstellplätze für Fahrräder, E-Fahrräder und Motorräder**
 
-Die Benützung der Parkplätze und Abstellplätze ist unentgeltlich für:
+<sup>1</sup> Der Kanton stellt für seine Mitarbeitenden genügend Abstellplätze für Fahrräder und E-Fahrräder bereit.
 
-- a) Dienstfahrzeuge;
-
-- b) Motorfahrzeuge von Mitarbeitenden bei regelmässigem dienstlichem Gebrauch;
-
-- c) Motorfahrzeuge von Mitarbeitenden mit körperlichen Behinderungen;
-
-- d) Motorfahrzeuge von Mitarbeitenden, denen kein öffentliches Verkehrsmittel für das rechtzeitige Erreichen oder Verlassen des Dienstortes zur Verfügung steht;
-
-- e) Motorfahrzeuge von Besuchern der kantonalen Verwaltung;
-
-- f) Fahrräder und Motorfahrräder.
+<sup>2</sup> Nach Möglichkeit bietet er auch Abstellplätze für zweirädrige Motorräder und Motorfahrräder an.
 
 #### Art. 5
 
-**Gebührenpflichtige Benützung**
+**Parkplätze für die dienstliche Nutzung von privaten Personenwagen**
 
-Die Benützung der Parkplätze ist gebührenpflichtig für:
+<sup>1</sup> Der Kanton stellt den Dienststellen, die auf die dienstliche Nutzung privater Personenwagen der Mitarbeitenden angewiesen sind, die erforderlichen Parkplätze soweit betrieblich möglich und wirtschaftlich tragbar zur Verfügung. Die Notwendigkeit ist gegeben, wenn keine angemessenen, betriebswirtschaftlich vertretbaren Alternativen zur Verfügung stehen.
 
-- a) Motorfahrzeuge von Mitarbeitenden bei unregelmässigem dienstlichem Gebrauch;
+<sup>2</sup> Der Angewiesenheit auf die dienstliche Nutzung des privaten Personenwagens gemäss Absatz 1 gleichgestellt ist die Nutzung des privaten Personenwagens für die Erreichung des Dienstortes im Zusammenhang mit Arbeitseinsätzen ausserhalb der Betriebszeiten des öffentlichen Verkehrs. Das gilt namentlich für den Schichtbetrieb in der Nacht.
 
-- b) Motorfahrzeuge von Mitarbeitenden, die für ihre dienstliche Tätigkeit kein Fahrzeug benötigen, sofern genügend Parkplätze vorhanden sind;
+<sup>3</sup> Das Gesuch für eine Parkberechtigung ist von der Dienststellenleitung beim HBA mit einer hinreichenden Begründung einzureichen.
 
-- c) Motorfahrzeuge von Dritten bei Beanspruchung der Parkplätze ausserhalb der Dienstzeiten.
+<sup>4</sup> Ein Rechtsanspruch auf einen Parkplatz besteht nicht.
 
 #### Art. 6
 
-**Gebühren**
+**Parkplätze für Menschen mit einer körperlichen Behinderung**
 
-<sup>1</sup> Die Gebühr für die Benützung der Parkplätze beträgt für:
+<sup>1</sup> Der Kanton stellt Mitarbeitenden mit einer körperlichen Behinderung, die auf die Nutzung eines privaten Personenwagens für den Arbeitsweg angewiesen sind, nach Möglichkeit einen behindertengerechten Parkplatz zur Verfügung.
 
-- a) Mitarbeitende mit unregelmässigem dienstlichem Gebrauch ihres Privatfahrzeuges 30 Franken pro Monat (inkl. Mehrwertsteuer);
-
-- b) Mitarbeitende, welche für ihre dienstliche Tätigkeit kein Fahrzeug benötigen, sofern genügend Parkplätze vorhanden sind, 50 Franken pro Monat (inkl. Mehrwertsteuer);
-
-- c) Dritte, ausserhalb der Dienstzeiten 1.20 Franken pro Stunde (inkl. Mehrwertsteuer).
-
-<sup>2</sup> Die Parkgebühr wird den Mitarbeitenden monatlich von der Besoldung abgezogen.
-
-<sup>3</sup> Dritte bezahlen die Gebühr an einer zentralen Parkuhr oder mittels Monatsmiete.
-
-<sup>4</sup> Die Gebühren werden regelmässig durch das kantonale Hochbauamt überprüft und bei Bedarf durch die Regierung angepasst.
+<sup>2</sup> Das Gesuch ist von den Mitarbeitenden unter Beilage der amtlichen Parkkarte für behinderte Personen beim HBA einzureichen.
 
 #### Art. 7
 
-**Bewirtschaftung**
+**Parkplätze für die anderweitige Nutzung**
 
-Für die Bewirtschaftung der Parkplätze ist das kantonale Hochbauamt zuständig.
+<sup>1</sup> Sofern überzählige Parkplätze an einem Standort der kantonalen Verwaltung vorhanden sind, können die Parkplätze gemäss Gebührenregelung benützt werden.
+
+<sup>2</sup> Die Reihenfolge der Abgabe der überzähligen Parkplätze richtet sich primär nach der Reisedauer mit dem öffentlichen Verkehr vom Wohn- zum Arbeitsort. Massgeblich ist die schnellste Verbindung. Mitarbeitende mit einer längeren Reisedauer werden vorrangig berücksichtigt.
+
+<sup>3</sup> Bei der Benützungsberechtigung können überdies Arbeitspensum und Anteil im Homeoffice mitberücksichtigt werden.
+
+<sup>4</sup> Eine gebührenpflichtige Benützung kann unabhängig der Reisedauer mit dem öffentlichen Verkehr erfolgen, wenn besondere Umstände bei einem Mitarbeitenden vorliegen.
+
+<sup>5</sup> Das Gesuch ist von den Mitarbeitenden beim HBA einzureichen.
 
 #### Art. 8
 
-**Aufhebung bisherigen Rechts**
+**Gebührenfreie Benützung**
 
-Bestehende Parkplatzordnungen werden aufgehoben.
+<sup>1</sup> Die Benützung der Parkplätze ist unentgeltlich für:
+
+- a) Dienstwagen;
+- b) Personenwagen von Mitarbeitenden, die eine Parkberechtigung gemäss Artikel 5 oder Artikel 6 aufweisen.
+
+<sup>2</sup> Die Benützung der Abstellplätze gemäss Artikel 4 ist unentgeltlich.
+
+<sup>3</sup> In allen übrigen Fällen wird von den Benützern eine Gebühr erhoben.
 
 #### Art. 9
 
-**In-Kraft-Treten**
+**Gebührenpflichtige Benützung**
 
-Diese Verordnung tritt auf den 1. Juli 2003 in Kraft.
+<sup>1</sup> Die Gebühren für die Benützung der Parkplätze bemessen sich wie folgt (Werte inkl. Mehrwertsteuer):
 
-**2**
+- a) gedeckte Parkplätze: 120 Franken pro Monat;
+- b) ungedeckte Plätze: 80 Franken pro Monat;
+- c) für Mitarbeitende ohne Parkberechtigung: 5 Franken pro Halbtag;
+- d) für Dritte: 1.50 Franken pro Stunde.
 
-1.07.2008
+<sup>2</sup> Die Parkberechtigung wird mittels elektronischer Registrierung oder einer technischen Einrichtung vor Ort sichergestellt. Die Gebühren nach Absatz 1 Litera a und Litera b werden den Mitarbeitenden monatlich vom Lohn abgezogen.
+
+<sup>3</sup> Bei Missachtung der Gebührenordnung kann das HBA eine Bearbeitungsgebühr von 50 Franken erheben.
+
+2022-027
