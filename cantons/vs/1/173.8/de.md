@@ -4,13 +4,13 @@ number: "173.8"
 title: Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden
 short: GTar
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2024-12-31
 version_adopted: 2021-11-18
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/de/versions/3024/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3205/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3024/pdf_file"
 
 (GTar)
 
-vom 11.02.2009 (Stand 01.05.2022)
+vom 11.02.2009 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -519,7 +519,7 @@ verordnet:
 
 <sup>2</sup> Die Urteile, Entscheide, gerichtlichen Vergleiche, Klageabstand und Klageanerkennung, welche die Verpflichtung zur Zahlung einer Summe enthalten, sind vom Wertstempel befreit.
 
-<sup>3</sup> Die Sitzungen des Gemeinderichters oder einer Gerichtsbehörde sowie die Urteile der Gerichtsbehörden und die Entscheide der Kinder- und Erwachsenenschutzbehörde sind, in Anwendung des Gesetzes über die Schaffung eines kantonalen Fonds für Tuberkulosenbekämpfung, einer Spezialgebühr unterworfen.
+<sup>3</sup> Die Sitzungen vor dem Gemeinderichter oder einer Gerichtsbehörde sowie die Urteile und Entscheide der Gerichtsbehörden sind von der Erhebung einer Spezialgebühr gemäss Gesundheitsgesetz befreit.
 
 #### Art. 43
 

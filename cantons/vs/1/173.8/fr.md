@@ -4,13 +4,13 @@ number: "173.8"
 title: Loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives
 short: LTar
 language: fr
-version: 2022-05-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2024-12-31
 version_adopted: 2021-11-18
 adopted: 2009-02-11
 in_force: 2011-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.8"
-pdf: "https://lex.vs.ch/api/fr/versions/3024/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3205/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3024/pdf_file"
 
 (LTar)
 
-du 11.02.2009 (état 01.05.2022)
+du 11.02.2009 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -370,10 +370,10 @@ ordonne:
 
 **Procédures devant le juge de commune**
 
-<sup>1</sup> 1 Devant le juge de commune, les honoraires sont fixés comme il suit:
+<sup>1</sup> Devant le juge de commune, les honoraires sont fixés comme il suit:
 
 - a) pour la proposition de jugement de 60 à 250 francs;
-- b) pour la procédure de décision de 250à 900 francs.
+- b) pour la procédure de décision de 250 à 900 francs.
 
 <sup>2</sup> Pour la procédure de révision, d'interprétation et de rectification, les honoraires oscillent entre 250 et 900 francs.
 
@@ -519,7 +519,7 @@ ordonne:
 
 <sup>2</sup> Les jugements, décisions, transactions judiciaires, acquiescements et désistements comportant l'obligation de payer une somme sont exemptés du timbre proportionnel.
 
-<sup>3</sup> Sont affranchis du droit spécial perçu en application de la loi créant un fonds cantonal pour la lutte contre la tuberculose les séances devant le juge de commune ou une autorité judiciaire, ainsi que les jugements et décisions des autorités judiciaires et des autorités de protection de l'enfant et de l'adulte.
+<sup>3</sup> Sont affranchis du droit spécial perçu en application de la loi sur la santé les séances devant le juge de commune ou une autorité judiciaire, ainsi que les jugements et décisions des autorités judiciaires.
 
 #### Art. 43
 
