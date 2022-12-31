@@ -4,13 +4,13 @@ number: "428.513"
 title: Verordnung über die Schulung von Kindern und Jugendlichen mit Behinderungen sowie die besonderen Förder- und Stützmassnahmen
 short: VSBF
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-07
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-26
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.513"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3071/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3265/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3071/pdf_file"
 
 (VSBF)
 
-Vom 08.11.2006 (Stand 01.01.2022)
+Vom 08.11.2006 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -124,7 +124,7 @@ beschliesst:
 
 **Behinderungsspezifische Beratung und Begleitung**
 
-<sup>1</sup> Für Kinder und Jugendliche mit einer gesundheitlichen oder körperlichen Beeinträchtigung, einer sensorischen Beeinträchtigung, einer tiefgreifenden Entwicklungsstörung oder einer erheblichen kognitiven Beeinträchtigung erfolgt die Unterstützung durch behinderungsspezifische Beratung und Begleitung gemäss den §§ 27 und 35.
+<sup>1</sup> Für Kinder und Jugendliche mit einer Behinderung gemäss § 2a erfolgt die Unterstützung durch behinderungsspezifische Beratung und Begleitung gemäss den §§ 27 und 35.
 
 <sup>2</sup> …
 
@@ -339,11 +339,11 @@ beschliesst:
 
 **Behinderungsspezifische Beratung und Begleitung**
 
-<sup>1</sup> Behinderungsspezifische Beratung und Begleitung für Kinder und Jugendliche mit einer gesundheitlichen oder körperlichen Beeinträchtigung, einer sensorischen Beeinträchtigung, einer tiefgreifenden Entwicklungsstörung oder einer erheblichen kognitiven Beeinträchtigung umfasst
+<sup>1</sup> Behinderungsspezifische Beratung und Begleitung für Kinder und Jugendliche mit einer Behinderung gemäss § 2a umfasst
 
 - a) Abklärungen und Kontrollen,
 - b) fachliche Beratung und Begleitung der Kinder und Jugendlichen,
-- c) fachliche Beratung und Anleitung der Lehrpersonen und der Eltern,
+- c) fachliche Beratung und Anleitung von Lehrpersonen, Assistenzpersonen der Volksschule, Fachpersonen und Eltern,
 - d) Betreuung während des Unterrichts.
 
 ### 4.2. Aufnahme, Zuweisung und Durchführung
