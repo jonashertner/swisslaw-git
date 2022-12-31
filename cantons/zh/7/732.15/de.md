@@ -3,11 +3,11 @@ canton: ZH
 number: "732.15"
 title: Allgemeine Bedingungen der Elektrizitätswerke des Kantons Zürich (EKZ) für Endverbraucher und Produzenten
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-26
 adopted: 2008-09-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_15-2008_09_08-2009_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_15-2008_09_08-2009_01_01-119.html"
 text: pdf
 ---
 
@@ -37,7 +37,7 @@ Für die Produzenten gelten insbesondere die Bestimmungen im Teil 5.
 
 **1**
 
-- 1\. 1. 22 - 115 Vorbehalten bleiben die zwingenden bundesrechtlichen und kantonalen Bestimmungen.
+- 1\. 1. 23 - 119 Vorbehalten bleiben die zwingenden bundesrechtlichen und kantonalen Bestimmungen.
 
 **1.6**
 
@@ -46,7 +46,7 @@ Art. 2 Begriffsbestimmungen
 **2.131**
 
 [^hTeil1AllgemeineB-1]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^hTeil1AllgemeineB-2]: Aufgehoben durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022. 1. 1. 22 - 115 19
+[^hTeil1AllgemeineB-2]: Aufgehoben durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
 [^hTeil1AllgemeineB-3]: Aufgehoben durch B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
 [^hTeil1AllgemeineB-4]: SR 734.71.
 
@@ -100,7 +100,7 @@ Art. 4 Beendigung des Rechtsverhältnisses 4.1[^hEndverbrauchermitG-3] Sofern z.
 
 **4.626**
 
-- 1\. 1. 22 - 115 Den EKZ ist unter Angabe des genauen Zeitpunktes schriftlich, elektronisch oder mündlich Meldung zu erstatten:
+- 1\. 1. 23 - 119 Den EKZ ist unter Angabe des genauen Zeitpunktes schriftlich, elektronisch oder mündlich Meldung zu erstatten:
 
 **4.331**
 
@@ -129,7 +129,7 @@ Art. 5a[^hEndverbrauchermitG-3] Datenschutz[^hEndverbrauchermitG-4] 5a.1 Die EKZ
 [^hEndverbrauchermitG-1]: SR 734.7.
 [^hEndverbrauchermitG-2]: SR 730.0.
 [^hEndverbrauchermitG-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^hEndverbrauchermitG-4]: Fassung gemäss B vom 17. September 2019 (OS 74, 573; ABl 2019-09-27). In Kraft seit 1. Januar 2020.
+[^hEndverbrauchermitG-4]: Fassung gemäss B vom 17. September 2019 (OS 74, 573; ABl 2019-09-27). In Kraft seit 1. Januar 2020. 1. 1. 23 - 119 19
 
 ### Teil 2: Netzanschluss und Netznutzung
 
@@ -151,7 +151,7 @@ oder elektrischer Speicher mit dem Verteilnetz.
 
 **5**
 
-- 1\. 1. 22 - 115 Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie:
+- 1\. 1. 23 - 119 Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie:
 
 **6.631**
 
@@ -223,7 +223,7 @@ Beabsichtigt der Kunde oder ein Dritter, auf privatem oder öffentlichem Boden i
 
 **7**
 
-- 1\. 1. 22 - 115 Art. 9 Qualität und Regelmässigkeit der Lieferung elektrischer Energie / Einschränkungen[^hTeil2Netzanschlus-1] Die EKZ liefern die Elektrizität in der Regel ununterbrochen innerhalb der üblichen Toleranzen für Nennspannung und Frequenz gemäss der Norm SN/EN 50160 «Merkmale der Spannung in öffentlichen Elektrizitätsversorgungsnetzen». Vorbehalten bleiben die nachstehenden Ausnahmebestimmungen.
+- 1\. 1. 23 - 119 Art. 9 Qualität und Regelmässigkeit der Lieferung elektrischer Energie / Einschränkungen[^hTeil2Netzanschlus-1] Die EKZ liefern die Elektrizität in der Regel ununterbrochen innerhalb der üblichen Toleranzen für Nennspannung und Frequenz gemäss der Norm SN/EN 50160 «Merkmale der Spannung in öffentlichen Elektrizitätsversorgungsnetzen». Vorbehalten bleiben die nachstehenden Ausnahmebestimmungen.
 
 **9.111**
 
@@ -287,7 +287,7 @@ Die Einstellung der Netznutzung, Energielieferung und/oder Energieeinspeisung du
 
 **9**
 
-- 1\. 1. 22 - 115 Art. 11 Mittel- und Niederspannungsinstallationen 11.1[^hTeil2Netzanschlus-1] Die elektrischen Installationen sind nach der Gesetzgebung des Bundes und den darauf basierenden Vorschriften und Normen sowie nach den Werkvorschriften zu erstellen, zu ändern, instand zu halten und zu kontrollieren 11.2[^hTeil2Netzanschlus-4] Den Kunden oder Eigentümern wird empfohlen, allfällige ungewöhnliche Erscheinungen in ihren Installationen, wie häufiges Auslösen von Schutzeinrichtungen, Knistern und dergleichen, unverzüglich einem Inhaber einer Installationsbewilligung zu melden.
+- 1\. 1. 23 - 119 Art. 11 Mittel- und Niederspannungsinstallationen 11.1[^hTeil2Netzanschlus-1] Die elektrischen Installationen sind nach der Gesetzgebung des Bundes und den darauf basierenden Vorschriften und Normen sowie nach den Werkvorschriften zu erstellen, zu ändern, instand zu halten und zu kontrollieren 11.2[^hTeil2Netzanschlus-4] Den Kunden oder Eigentümern wird empfohlen, allfällige ungewöhnliche Erscheinungen in ihren Installationen, wie häufiges Auslösen von Schutzeinrichtungen, Knistern und dergleichen, unverzüglich einem Inhaber einer Installationsbewilligung zu melden.
 
 11.3[^hTeil2Netzanschlus-5] Die Eigentümer von elektrischen Installationen erbringen nach entsprechender Aufforderung durch die EKZ periodisch den Nachweis, dass ihre Installationen den gültigen technischen und sicherheitstechnischen Anforderungen und Normen entsprechen. Der Sicherheitsnachweis ist pro Zählerstromkreis und Kontrollperiode einzureichen.
 
@@ -315,7 +315,7 @@ Die EKZ sind berechtigt, bei den Kunden die relevanten elektrischen Betriebsmitt
 
 **11**
 
-- 1\. 1. 22 - 115 Art. 13 Messung des Energieverbrauches 13.1 Für die Feststellung des Energieverbrauches sind die Angaben der Zähler und Messeinrichtungen massgebend. Dazu können auch Summen- bzw. Differenzbildungen von Messwerten herangezogen werden. Das Ablesen der Zähler und die Wartung der übrigen Messeinrichtungen erfolgen durch Beauftragte der EKZ. Die EKZ können die Kunden ersuchen, die Zähler selbst abzulesen und die Zählerstände den EKZ zu melden.
+- 1\. 1. 23 - 119 Art. 13 Messung des Energieverbrauches 13.1 Für die Feststellung des Energieverbrauches sind die Angaben der Zähler und Messeinrichtungen massgebend. Dazu können auch Summen- bzw. Differenzbildungen von Messwerten herangezogen werden. Das Ablesen der Zähler und die Wartung der übrigen Messeinrichtungen erfolgen durch Beauftragte der EKZ. Die EKZ können die Kunden ersuchen, die Zähler selbst abzulesen und die Zählerstände den EKZ zu melden.
 
 13.2 Bei festgestelltem Fehlanschluss oder bei Fehlanzeige einer Messeinrichtung wird der Energiebezug des Kunden soweit möglich aufgrund der durchgeführten Prüfung ermittelt. Lässt sich das Mass der Korrektur durch eine Nachprüfung nicht bestimmen, so wird der Bezug unter angemessener Berücksichtigung der Angaben des Kunden von den EKZ festgelegt. Dabei ist vom Verbrauch in vorausgegangenen, vergleichbaren Perioden auszugehen. Die inzwischen eingetretenen Veränderungen der Anschlusswerte und Betriebsverhältnisse sind angemessen zu berücksichtigen.
 
@@ -362,7 +362,7 @@ Art. 15a[^hTeil4TarifehTei-1] Erhebung der Abgaben und Leistungen an Gemeinwesen
 
 **13**
 
-- 1\. 1. 22 - 115 beratungsangebote und Programme zur Förderung energieeffizienter Anwendungen. Von diesen Leistungen können grundsätzlich sämtliche Netzkunden der EKZ profitieren.
+- 1\. 1. 23 - 119 beratungsangebote und Programme zur Förderung energieeffizienter Anwendungen. Von diesen Leistungen können grundsätzlich sämtliche Netzkunden der EKZ profitieren.
 
 15a.2 Sämtliche Netzkunden der EKZ sind verpflichtet, einen zu ihrem Verbrauch verhältnismässigen Beitrag an die Energieberatung und Förderprogramme zu leisten.
 
@@ -402,7 +402,7 @@ Art. 17[^hTeil5BesondereBe-1] Allgemein 17.1[^hTeil5BesondereBe-2] Diese Bestimm
 
 **15**
 
-- 1\. 1. 22 - 115 Art. 18[^hTeil5BesondereBe-2] Anschluss und Betrieb von EEA 18.1 Der Anschluss und Betrieb von EEA unterliegt den folgenden Regelungen, verfügbar auf der EKZ-Homepage (www.ekz.ch):
+- 1\. 1. 23 - 119 Art. 18[^hTeil5BesondereBe-2] Anschluss und Betrieb von EEA 18.1 Der Anschluss und Betrieb von EEA unterliegt den folgenden Regelungen, verfügbar auf der EKZ-Homepage (www.ekz.ch):
 
 - a. Die Bedingungen genannt im Art. 7.9.
 
@@ -426,36 +426,41 @@ Art. 21[^19-1] Netznutzung für den Eigenbedarf 21.1 Die Energieabgabe für den 
 
 Art. 22[^19-1] Vergütung 22.1[^19-3] Die Rücklieferungen von elektrischer Energie in das Netz der EKZ werden zu den jeweils anwendbaren Vergütungssätzen (gemäss Produktblatt oder Vertrag) und Bestimmungen für Neuanlagen, die nach dem 1. Januar 2006 in Betrieb genommen wurden, entschädigt.
 
-22.2 Die Entschädigung des ökologischen Mehrwerts aus Anlagen mit erneuerbaren Energien in Form von Herkunftsnachweisen ist Bestandteil einer separaten Vereinbarung, sofern in den Tarifbestimmungen nichts Abweichendes geregelt ist. 22.3 Der Produzent hat die EKZ über die Vermarktung der elektrischen Energie an Dritte oder bei Aufnahme der EEA in die kostendeckende Einspeisevergütung (KEV) umgehend, jedoch spätestens zehn Arbeitstage vor Lieferbeginn, per Mail an produzenten@ekz.ch zu benachrichtigen. Bei Abnahme der Energie durch Dritte entfallen die Vergütungen durch die EKZ.
+22.2 Die Entschädigung des ökologischen Mehrwerts aus Anlagen mit erneuerbaren Energien in Form von Herkunftsnachweisen ist Bestandteil einer separaten Vereinbarung, sofern in den Tarifbestimmungen nichts Abweichendes geregelt ist. 22.3[^19-4] Für die Beendigung der Rücklieferung an die EKZ gelten, mit Ausnahme der Aufnahme einer EEA in das Einspeisevergütungssystem, die Bedingungen gemäss Produktblatt «Vergütung für Energie aus Rücklieferanlagen» (verfügbar unter www.ekz.ch). Über den Verkauf der elektrischen Energie an Dritte hat der Produzent die EKZ zusätzlich zur Beendigung der Rücklieferung nach Massgabe der erwähnten Bedingungen bis spätestens zehn Arbeitstage vor Lieferbeginn mittels E-Mail an produzenten@ekz.ch zu benachrichtigen.
+
+Ab dem Zeitpunkt der Abnahme der Energie durch Dritte entfallen die Vergütungen durch die EKZ vollständig.
+
+Eine Wiederaufnahme der Rücklieferung einer EEA an die EKZ ist zu jedem Quartalsbeginn mit einer Ankündigung mindestens zwei Monate vorher mittels E-Mail an produzenten@ekz.ch möglich.
 
 22.4 EEA, die im Fördermodell Kostendeckende Einspeisevergütung (KEV) sind, verpflichten sich, bei einem Austritt aus dieser die EKZ termingerecht zu informieren.
 
-Art. 23[^19-4] Eigenverbrauchsregelung Diese Bestimmung gilt nur für Produzenten, die von ihrem Recht Gebrauch machen, die selbst produzierte Energie am Ort der Produktion selbst zu verbrauchen oder dort einem oder mehreren Dritten zu veräussern (sogenannter Eigenverbrauch). Dabei gelten folgende Bestimmungen:
+Art. 23[^19-5] Eigenverbrauchsregelung Diese Bestimmung gilt nur für Produzenten, die von ihrem Recht Gebrauch machen, die selbst produzierte Energie am Ort der Produktion selbst zu verbrauchen oder dort einem oder mehreren Dritten zu veräussern (sogenannter Eigenverbrauch). Dabei gelten folgende Bestimmungen:
 
 - 1\. Voraussetzung für die Anwendung der Eigenverbrauchsregelung sind die Einhaltung der gesetzlichen Vorschriften sowie die Einhaltung der Vorgaben und Bestimmungen des EKZ-Produktblatts «Eigenverbrauchsregelung».
 
 - 2\. Allfällige vorgängig erforderliche Massnahmen zur Umsetzung der Eigenverbrauchsregelung, insbesondere bauliche Massnahmen sowie Umverdrahtungen, fallen in die Verantwortung des Produzenten bzw. des Grundeigentümers, welche auch die Kosten dafür zu tragen haben. Gleiches gilt für sonstige Umverdrahtungen in Zusammenhang mit der Eigenverbrauchsregelung, insbesondere wenn ein Teilnehmer austreten sollte.
 
-Art. 24[^19-1] Preise und Abrechnung 24.1[^19-5] Bei Einspeisung in das Niederspannungsnetz erfolgt die Abrechnung monatlich oder quartalweise. Bei EEA mit Leistung bis 600 Watt kann ein hiervon abweichender Abrechnungsrhythmus angewendet werden. Einspeisungen in das Mittelspannungsnetz werden monatlich abgerechnet.
+**17**
+
+- 1\. 1. 23 - 119 Art. 24[^19-1] Preise und Abrechnung 24.1[^19-6] Bei Einspeisung in das Niederspannungsnetz erfolgt die Abrechnung monatlich oder quartalweise. Bei EEA mit Leistung bis 600 Watt kann ein hiervon abweichender Abrechnungsrhythmus angewendet werden. Einspeisungen in das Mittelspannungsnetz werden monatlich abgerechnet.
 
 24.2 Die Rechnungsstellung und Vergütung von elektrischer Energie erfolgt in regelmässigen, von den EKZ festgelegten Zeitabständen. Sofern nicht anders vereinbart, werden die Rechnungen bzw. Vergütungsanzeigen (Zeitraum, Liefermenge in kWh und Vergütungsbetrag) mittels E-Mail zugestellt.
 
-**17**
+24.3 Die Vergütung wird mittels Bank-/Postüberweisung ausbezahlt. Ändert sich die Bank-/Postverbindung, ist der Produzent verpflichtet, diese Änderung den EKZ schriftlich mittzuteilen. Bei fehlender Mitteilung sind die EKZ berechtigt, die Zahlungen ohne vorgängige Meldung an den Produzenten zurückzubehalten.
 
-- 1\. 1. 22 - 115 24.3 Die Vergütung wird mittels Bank-/Postüberweisung ausbezahlt. Ändert sich die Bank-/Postverbindung, ist der Produzent verpflichtet, diese Änderung den EKZ schriftlich mittzuteilen. Bei fehlender Mitteilung sind die EKZ berechtigt, die Zahlungen ohne vorgängige Meldung an den Produzenten zurückzubehalten.
-
-Art. 25[^19-1] Haftung von Produzenten und EKZ 25.1[^19-5] Der Produzent haftet gegenüber den EKZ für die durch ihn verursachten Schäden. Im Übrigen gilt Art. 5.
+Art. 25[^19-1] Haftung von Produzenten und EKZ 25.1[^19-6] Der Produzent haftet gegenüber den EKZ für die durch ihn verursachten Schäden. Im Übrigen gilt Art. 5.
 
 [^19-1]: Eingefügt durch B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
 [^19-2]: SR 734.0.
 [^19-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^19-4]: Fassung gemäss B vom 11. Juni 2018 (OS 73, 318; ABl 2018-07-06). In Kraft seit 1. Januar 2019.
-[^19-5]: Fassung gemäss B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
-[^19-6]: Fassung gemäss B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
+[^19-4]: Fassung gemäss B vom 3. Oktober 2022 (OS 77, 549; ABl 2022-10-14). In Kraft seit 1. Januar 2023.
+[^19-5]: Fassung gemäss B vom 11. Juni 2018 (OS 73, 318; ABl 2018-07-06). In Kraft seit 1. Januar 2019.
+[^19-6]: Fassung gemäss B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
+[^19-7]: Fassung gemäss B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
 
 ### Teil 6: Schlussbestimmungen
 
-[^19-6]
+[^19-7]
 
 Art. 26[^hTeil6Schlussbesti-1] Inkrafttreten 26.1 Diese vom Verwaltungsrat der Elektrizitätswerke des Kantons Zürich gestützt auf § 2 Abs. 1 lit. g EKZ-Verordnung[^hTeil6Schlussbesti-2] festgesetzten allgemeinen Bedingungen treten am 1. Januar 2009 in Kraft. Sie ersetzen die allgemeinen Bedingungen für Netzanschluss, Netznutzung und Lieferung elektrischer Energie vom 11. Juni 2007.
 
