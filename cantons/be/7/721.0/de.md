@@ -4,13 +4,13 @@ number: "721.0"
 title: Baugesetz
 short: BauG
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-03
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-03-09
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2384/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2714/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2384/pdf_file"
 
 (BauG)
 
-vom 09.06.1985 (Stand 01.03.2022)
+vom 09.06.1985 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -402,6 +402,12 @@ beschliesst:
 - b die Abstellplätze für ein bestimmtes Gebiet als Gemeinschaftsanlage zu erstellen sind, wenn Gründe der Ortsplanung oder der Verkehrssicherheit es erfordern; die Gemeinschaftsanlagen sind, wenn nötig, in Überbauungsordnungen (Art. 88 ff.) festzulegen;
 - c die Bauherren, die ausreichende Abstellplätze nicht bereitstellen können oder dürfen, der Gemeinde eine angemessene, zweckgebundene Ersatzabgabe zu leisten haben. Die Abgabe ist nach dem Wert zu bemessen, den die Nichterfüllung der Parkplatzpflicht für den Bauherrn hat.
 
+#### Art. 18a
+
+**4 Ladeeinrichtung für Elektrofahrzeuge**
+
+<sup>1</sup> Ein angemessener Teil der Parkplätze ist für die Ladeinfrastruktur für Elektrofahrzeuge vorzubereiten oder auszurüsten.
+
 #### Art. 19
 
 **Besondere Bauten und Anlagen 1 Allgemeines**
@@ -740,7 +746,7 @@ beschliesst:
 
 **Veröffentlichung von Verfügungen**
 
-<sup>1</sup> Verfahrensleitende Verfügungen können nach vorgängiger Ankündigung im amtlichen Anzeiger oder im Amtsblatt veröffentlicht werden, wenn die Postzustellung wegen der grossen Zahl der Einsprachen mit unverhältnismässigem Aufwand verbunden wäre.
+<sup>1</sup> Verfahrensleitende Verfügungen können nach vorgängiger Ankündigung im Amtsblatt oder im amtlichen Publikationsorgan der Gemeinde veröffentlicht werden, wenn die Postzustellung wegen der grossen Zahl der Einsprachen mit unverhältnismässigem Aufwand verbunden wäre.
 
 #### Art. 35e
 
@@ -812,7 +818,7 @@ beschliesst:
 - c den beteiligten kantonalen Amtsstellen;
 - d der zuständigen Gemeindebehörde.
 
-<sup>3</sup> Die Baubewilligungsbehörde kann nach vorgängiger Ankündigung das Dispositiv des Bauentscheids zusammen mit der Rechtsmittelbelehrung im amtlichen Anzeiger oder im Amtsblatt veröffentlichen, wenn die Postzustellung wegen der grossen Zahl der Einsprachen mit unverhältnismässigem Aufwand verbunden wäre.
+<sup>3</sup> Die Baubewilligungsbehörde kann nach vorgängiger Ankündigung das Dispositiv des Bauentscheids zusammen mit der Rechtsmittelbelehrung im Amtsblatt oder im amtlichen Publikationsorgan der Gemeinde veröffentlichen, wenn die Postzustellung wegen der grossen Zahl der Einsprachen mit unverhältnismässigem Aufwand verbunden wäre.
 
 [^39-1]: BSG 155.21
 
@@ -1282,7 +1288,7 @@ beschliesst:
 - a Anpassungen der Nutzungspläne, die wegen einer Ersterhebung oder Erneuerung der amtlichen Vermessung nötig werden,
 - b die Nachführung der Nutzungspläne, die als Folge einer angeordneten Korrektur oder einer unbedeutenden Bereinigung von unzweckmässigen Gemeindegrenzen (Art. 28 Abs. 3 bzw. Art. 32 Abs. 2 des Kantonalen Geoinformationsgesetzes vom 8.6.2015 [KGeoIG][^66-1]) angepasst werden müssen.
 
-<sup>6</sup> Nutzungspläne der Gemeinde, die bei der Gemeinde, beim zuständigen Regierungsstatthalteramt und beim Amt für Gemeinden und Raumordnung nicht vorhanden sind und trotz öffentlichem Aufruf im amtlichen Anzeiger und im Amtsblatt mit Frist von 30 Tagen nicht mehr auffindbar sind, können durch Beschluss des Gemeinderates aufgehoben werden. Der Beschluss des Gemeinderates ist im amtlichen Anzeiger zu publizieren und dem zuständigen Regierungsstatthalteramt und dem Amt für Gemeinden und Raumordnung zur Kenntnisnahme zuzustellen.
+<sup>6</sup> Nutzungspläne der Gemeinde, die bei der Gemeinde, beim zuständigen Regierungsstatthalteramt und beim Amt für Gemeinden und Raumordnung nicht vorhanden sind und trotz öffentlichem Aufruf im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde mit Frist von 30 Tagen nicht mehr auffindbar sind, können durch Beschluss des Gemeinderates aufgehoben werden. Der Beschluss des Gemeinderates ist im amtlichen Publikationsorgan der Gemeinde zu publizieren und dem zuständigen Regierungsstatthalteramt und dem Amt für Gemeinden und Raumordnung zur Kenntnisnahme zuzustellen.
 
 [^66-1]: BSG [215.341](https://www.belex.sites.be.ch/data/215.341/de)
 

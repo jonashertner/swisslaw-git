@@ -4,13 +4,13 @@ number: "721.0"
 title: "Loi sur les constructions *"
 short: LC
 language: fr
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-03
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-03-09
 adopted: 1985-06-09
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2384/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2714/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2384/pdf_file"
 
 (LC)
 
-du 09.06.1985 (état au 01.03.2022)
+du 09.06.1985 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -403,6 +403,12 @@ arrête:
 - b ordonner l'aménagement de places de stationnement destinées à une région particulière sous forme d'installations collectives lorsque des motifs liés à l'aménagement local ou à la sécurité routière l'imposent, l'emplacement des installations collectives devant au besoin être prévu dans un plan de quartier (art. 88 ss);
 - c créer pour les maîtres d'ouvrage qui n'ont pas la possibilité ou le droit d'installer les places de stationnement en nombre suffisant, l'obligation de verser à la commune une taxe de remplacement appropriée dont le produit est lié à une affectation particulière. Cette dernière doit être calculée en fonction de la valeur que représente pour le maître d'ouvrage l'inexécution de l'obligation d'aménager des places de stationnement.
 
+#### Art. 18a
+
+**Dispositifs de recharge pour les véhicules électriques**
+
+<sup>1</sup> Une part adéquate des places de stationnement doit être ou pouvoir être équipée d’une infrastructure de recharge des véhicules électriques.
+
 #### Art. 19
 
 **Bâtiments et installations de nature particulière 1 Principes**
@@ -741,7 +747,7 @@ arrête:
 
 **Publication d’ordonnances**
 
-<sup>1</sup> Les ordonnances de procédure peuvent être publiées dans la feuille officielle d’avis ou dans la feuille officielle cantonale si cette publication est annoncée préalablement et que la notification par poste implique des frais excessifs en raison du nombre élevé d’oppositions.
+<sup>1</sup> Les ordonnances de procédure peuvent paraître dans la Feuille officielle ou dans l'organe de publication officiel de la commune si cette parution est annoncée préalablement et que la notification par poste implique des frais excessifs en raison du nombre élevé d’oppositions.
 
 #### Art. 35e
 
@@ -813,7 +819,7 @@ arrête:
 - c aux services cantonaux concernés,
 - d à l'autorité communale compétente.
 
-<sup>3</sup> L’autorité d’octroi du permis de construire peut publier le dispositif de la décision assorti des voies de recours dans la feuille officielle d’avis ou dans la feuille officielle cantonale si cette publication est annoncée préalablement et que la notification par poste implique des frais excessifs en raison du nombre élevé d’oppositions.
+<sup>3</sup> L’autorité d’octroi du permis de construire peut faire paraître le dispositif de la décision assorti des voies de recours dans la Feuille officielle ou dans l’organe de publication officiel de la commune si cette parution est annoncée préalablement et que la notification par poste implique des frais excessifs en raison du nombre élevé d’oppositions.
 
 [^39-1]: RSB 155.21
 
@@ -1281,7 +1287,7 @@ arrête:
 - a les adaptations de plans d’affectation qui sont nécessaires en raison d’un premier relevé ou d’un renouvellement de la mensuration officielle;
 - b la mise à jour des plans d’affectation qui doivent être adaptés en raison d’une correction imposée par voie de décision ou suite à la modification, de moindre importance, de limites communales inadéquates (art. 28, al. 3 et art. 32, al. 2 de la loi cantonale du 8 juin 2015 sur la géoinformation [LCGéo][^66-1]).
 
-<sup>6</sup> Les plans d’affectation de la commune qui ne sont disponibles ni auprès de la commune, ni auprès de la préfecture compétente, ni auprès de l’Office des affaires communales et de l’organisation du territoire et qui restent introuvables 30 jours après la parution d’un appel au public lancé dans la feuille officielle d’avis et dans la feuille officielle cantonale, peuvent être abrogés par décision du conseil communal. Cette décision doit être publiée dans la feuille officielle d’avis et communiquée pour information à la préfecture compétente et à l’Office des affaires communales et de l’organisation du territoire.
+<sup>6</sup> Les plans d’affectation de la commune qui ne sont disponibles ni auprès de la commune, ni auprès de la préfecture compétente, ni auprès de l’Office des affaires communales et de l’organisation du territoire et qui restent introuvables 30 jours après la parution d’un appel au public lancé dans la Feuille officielle et dans l’organe de publication officiel de la commune, peuvent être abrogés par décision du conseil communal. Cette décision doit paraître dans l’organe de publication officiel de la commune et être communiquée pour information à la préfecture compétente et à l’Office des affaires communales et de l’organisation du territoire.
 
 [^66-1]: RSB [215.341](https://www.belex.sites.be.ch/data/215.341/fr)
 
