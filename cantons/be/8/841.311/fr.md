@@ -4,13 +4,13 @@ number: "841.311"
 title: "Ordonnance portant introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI"
 short: Oi LPC
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-19
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2486/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2691/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2486/pdf_file"
 
 (Oi LPC)
 
-du 16.09.2009 (état au 01.01.2022)
+du 16.09.2009 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -68,14 +68,14 @@ arrête:
 
 <sup>1</sup> Pour les personnes occupant en permanence ou pour une longue durée une place de la liste des hôpitaux et établissements médico-sociaux du canton de Berne (art. 2, al. 1, lit. a), les montants journaliers maximaux reconnus au titre de dépenses sont les suivants:
 
-- a Degré de soins 0: — CHF 163.80
-- b Degré de soins 1: — CHF 165.25
-- c Degré de soins 2: — CHF 177.75
-- d Degrés de soins 3 à 12: — CHF 186.80
+- a Degré de soins 0: — CHF 168.20
+- b Degré de soins 1: — CHF 169.80
+- c Degré de soins 2: — CHF 182.60
+- d Degrés de soins 3 à 12: — CHF 191.20
 
-<sup>2</sup> Les soins requis sont attribués au moyen du système d’évaluation BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem [Système de classification en degrés de soins et de décompte des prestations concernant les résidants]) ou RAI/RUG (Resident Assessment Instrument/ Resource Utilization Group).
+<sup>2</sup> Les soins requis sont évalués au moyen du système BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem [système de classification en degrés de soins et de décompte des prestations concernant les pensionnaires]) ou RAI-NH (Resident Assessment Instrument-Nursing Home).
 
-<sup>3</sup> Pour les personnes occupant en permanence ou pour une longue durée une place de la liste des hôpitaux et établissements médico-sociaux du canton de Berne, le degré de soins dans le cadre du système BESA est attribué au moyen du catalogue des prestations de 2010. La version du logiciel doit être au moins la version 4.0. Le degré de soins dans le cadre du système RAI/RUG est attribué au moyen de la version RAI/RUG 2.0 (indice suisse, Berne 2015).
+<sup>3</sup> Pour les personnes occupant en permanence ou pour une longue durée une place de la liste des hôpitaux et établissements médico-sociaux du canton de Berne, le degré de soins dans le cadre du système BESA est déterminé au moyen du catalogue des prestations de 2010. Le degré de soins dans le cadre du système RAI-NH est défini selon l'indice suisse, Berne 2015.
 
 <sup>4</sup> Le résultat de l’examen des soins requis permet, au moyen du tableau de l’annexe 1, de fixer le degré de soins selon le système central. Celui-ci est déterminant pour le calcul des prestations complémentaires.
 

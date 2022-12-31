@@ -4,13 +4,13 @@ number: "841.311"
 title: "Einführungsverordnung zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: EV ELG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-19
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2486/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2486/pdf_file"
 
 (EV ELG)
 
-vom 16.09.2009 (Stand 01.01.2022)
+vom 16.09.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -69,14 +69,14 @@ beschliesst:
 
 <sup>1</sup> Für Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste des Kantons Bern belegen (Art. 2 Abs. 1 Bst. a), werden als Ausgaben folgende täglichen Höchstbeträge anerkannt:
 
-- a Pflegestufe 0: — CHF 163.80
-- b Pflegestufe 1: — CHF 165.25
-- c Pflegestufe 2: — CHF 177.75
-- d Pflegestufen 3 bis 12: — CHF 186.80
+- a Pflegestufe 0: — CHF 168.20
+- b Pflegestufe 1: — CHF 169.80
+- c Pflegestufe 2: — CHF 182.60
+- d Pflegestufen 3 bis 12: — CHF 191.20
 
-<sup>2</sup> Der Pflegeaufwand ist mit dem Bewohnerbeurteilungssystem BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) oder RAI/RUG (Resident Assessment Instrument/Resource Utilization Group) zu erheben.
+<sup>2</sup> Der Pflegeaufwand ist mit dem Bewohnerbeurteilungssystem BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) oder RAI-NH (Resident Assessment Instrument-Nursing Home) zu erheben.
 
-<sup>3</sup> Bei Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste des Kantons Bern belegen, hat die Einstufung bei BESA im Leistungskatalog 2010 mit der Version 4.0 oder höher zu erfolgen. Bei RAI/RUG hat die Einstufung mit der Version RAI/RUG 2.0 (CH-Index Bern 2015) zu erfolgen.
+<sup>3</sup> Bei Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste des Kantons Bern belegen, hat die Einstufung bei BESA mit dem Leistungskatalog 2010 zu erfolgen. Bei RAI-NH hat die Einstufung mit dem CH-Index Bern 2015 zu erfolgen.
 
 <sup>4</sup> Das Ergebnis des erhobenen Pflegeaufwands wird anhand der Tabelle in Anhang 1 der entsprechenden Pflegestufe des zentralen Systems zugeordnet. Sie ist für die Berechnung der Ergänzungsleistungen massgebend.
 
