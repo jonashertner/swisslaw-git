@@ -3,20 +3,20 @@ canton: SG
 number: "217.14"
 title: "Verordnung über Berichterstattung, Rechnung und Eigenkapital der Universität St.Gallen"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-12-31
 version_adopted: 2022-04-05
 adopted: 2015-12-08
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3352/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Berichterstattung, Rechnung und Eigenkapital der Universität St.Gallen
 
-vom 08.12.2015 (Stand 01.01.2022)
+vom 08.12.2015 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -78,6 +78,16 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Der Geschäftsbericht und die Jahresrechnung des Vorjahres werden der Regierung bis Ende Juni vorgelegt.
 
 <sup>2</sup> Die Regierung nimmt den Geschäftsbericht und die Jahresrechnung zur Kenntnis.
+
+#### Art. 5a
+
+**Kostenrechnung**
+
+<sup>1</sup> Die Universität führt eine Kostenrechnung. Diese erfüllt wenigstens die Anforderungen der Schweizerischen Hochschulkonferenz.[^5a-1]
+
+<sup>2</sup> Für Teilbereiche, in denen aus Mitteln unternehmerischer Tätigkeit funktions-, erfolgs- oder leistungsabhängige Zusatzauszahlungen zur Grundbesoldung oder andere monetäre Anreize vorgesehen sind, erfolgt die Verrechnung von Kosten zu Vollkosten.
+
+[^5a-1]: Kostenrechnungsmodell für universitäre Hochschulen.
 
 ### 2. Bericht zur Leistungsperiode
 
@@ -147,6 +157,16 @@ als Verordnung:[^ingress-2]
 - b) das Eigenkapital der Institute und der Executive School;
 - c) das Eigenkapital aus Ausschüttungen der Institute, Forschungsstellen und der Executive School, soweit es durch Beschluss des Rektorats einem klaren Zweck zugeordnet wurde;
 - d) das Eigenkapital, soweit es durch Beschluss des Universitätsrates einem klaren Zweck zugeordnet wurde und die Zuweisung von der Regierung genehmigt wurde.
+
+#### Art. 11a
+
+**b) besondere Bestimmungen für das Eigenkapital der Institute, Forschungsstellen und der Executive School**
+
+<sup>1</sup> Die Summe des Eigenkapitals nach Art. 11 Abs. 2 Bst. b und c dieses Erlasses darf am Ende der Leistungsperiode 120 Prozent des selbsterwirtschafteten Umsatzes aller darin konsolidierten Teilbereiche nicht übersteigen.
+
+<sup>2</sup> Berechnet wird die Obergrenze nach Abs. 1 dieser Bestimmung als Durchschnitt der selbsterwirtschafteten Umsätze der vier Jahre, die dem letzten Jahresabschluss der Leistungsperiode vorangehen.
+
+<sup>3</sup> Soweit dieser Erlass nichts anderes vorsieht, regelt der Universitätsrat die Einzelheiten zum Eigenkapital der Institute, Forschungsstellen und der Executive School und stellt deren Einhaltung sicher.
 
 #### Art. 11b
 
