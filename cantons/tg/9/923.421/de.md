@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "923.421"
-title: Verfügung des Departementes für Justiz und Sicherheit über die Verpachtung der Gemeindefischereirechte
+title: Reglement des Departementes für Justiz und Sicherheit über die Verpachtung der Gemeindefischereirechte
 language: de
-version: 2001-09-29
-valid_until: 2022-12-31
-version_adopted: 2001-09-19
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 1995-07-04
 in_force: 1995-09-09
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/923.421"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2549/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verfügung des Departementes für Justiz und Sicherheit über die Verpachtung der Gemeindefischereirechte
+# Reglement des Departementes für Justiz und Sicherheit über die Verpachtung der Gemeindefischereirechte
 
-Verfügung DJS Gemeindefischereirechte
+Reglement DJS Gemeindefischereirechte
 
-vom 04.07.1995 (Stand 29.09.2001)
+vom 04.07.1995 (Stand 01.01.2023)
 
 #### § 1
 
@@ -38,9 +37,9 @@ vom 04.07.1995 (Stand 29.09.2001)
 
 #### § 3
 
-**Pachtzins, Pächterzahl, Pflichteinsatz**
+**Pachtzins, Pächterzahl, Besatz**
 
-<sup>1</sup> Vor jeder Verpachtung setzt der Gemeinderat für jedes Revier den ortsüblichen Pachtzins (Anschlag), die maximale Zahl von Pächtern und den allfälligen Pflichteinsatz fest.
+<sup>1</sup> Vor jeder Verpachtung setzt der Gemeinderat nach Rücksprache mit dem zuständigen Fischereiaufseher für jedes Revier den ortsüblichen Pachtzins (Anschlag), die maximale Zahl von Pächtern und den allfälligen Besatz fest.
 
 #### § 4
 
@@ -48,17 +47,17 @@ vom 04.07.1995 (Stand 29.09.2001)
 
 <sup>1</sup> Die Reviere werden vom Gemeinderat ab dem Jahr 2002 jeweils auf die Dauer von acht Jahren verpachtet. Der Beginn des Pachtjahres ist der 1. Januar.
 
-<sup>2</sup> Die Reviere sind im Oktober des letzten Pachtjahres in der für amtliche Mitteilungen in der betreffenden Gemeinde üblichen Art unter Angabe des Anschlags, der zulässigen Pächterzahl und des allfälligen Pflichteinsatzes zur schriftlichen Bewerbung innert einer bestimmten Frist auszuschreiben.
+<sup>2</sup> Die Reviere sind im Oktober des letzten Pachtjahres in der für amtliche Mitteilungen in der betreffenden Gemeinde üblichen Art unter Angabe des Anschlags, der zulässigen Pächterzahl und des allfälligen Besatzes zur schriftlichen Bewerbung innert einer bestimmten Frist auszuschreiben.
 
-<sup>3</sup> Im Einzugsgebiet von See und Rhein ist ein Pflichteinsatz von See- beziehungsweise Rheinforellen festzulegen.
+<sup>3</sup> Im Einzugsgebiet von See und Rhein ist ein Besatz von See- beziehungsweise Rheinforellen festzulegen.
 
 #### § 5
 
 **Bewerbung**
 
-<sup>1</sup> Bewerben kann sich nur, wer sich über den Besitz der kantonalen Fischerkarte im Zeitpunkt der Bewerbung ausweist.
+<sup>1</sup> Bewerben kann sich nur, wer sich über den Besitz eines Sachkundenachweises für die Fischerei im Zeitpunkt der Bewerbung ausweist.
 
-<sup>2</sup> Der Bewerber oder die Bewerbergruppe hat schriftlich zu erklären, dass der Anschlag als Jahrespachtzins und Pflichteinsatz anerkannt werden. Höhere Angebote sind zu unterlassen und unverbindlich.
+<sup>2</sup> Der Bewerber oder die Bewerbergruppe hat schriftlich zu erklären, dass der Anschlag als Jahrespachtzins und der Besatz anerkannt werden. Höhere Angebote sind zu unterlassen und unverbindlich.
 
 #### § 6
 
@@ -84,9 +83,9 @@ vom 04.07.1995 (Stand 29.09.2001)
 
 #### § 9
 
-**Eintrag in Fischerkarte**
+**Fischereibewilligung**
 
-<sup>1</sup> Der Gemeinderat hat die von ihm verliehene Fischereiberechtigung in der kantonalen Fischerkarte des Bewerbers oder der Bewerber nach Umfang und Dauer einzutragen.
+<sup>1</sup> Der Gemeinderat hat für die von ihm verliehene Fischereiberechtigung dem Bewerber oder den Bewerbern eine Bewilligung nach Umfang und Dauer auszustellen.
 
 #### § 10
 
@@ -98,9 +97,9 @@ vom 04.07.1995 (Stand 29.09.2001)
 
 #### § 11
 
-**Tages- und Ferienkarten**
+**Gästekarten**
 
-<sup>1</sup> Der Gemeinderat kann den Pächtern gestatten, Tages- oder Ferienkarten auszugeben. Die Pächter haben den Erlös aus diesen Karten vollumfänglich für Massnahmen zur Verbesserung des Gewässers oder für Fischeinsatz zu verwenden.
+<sup>1</sup> Der Gemeinderat kann den Pächtern gestatten, Gästekarten für Personen auszugeben, die nicht Pächter des Reviers sind. Die Pächter haben den Erlös aus diesen Karten vollumfänglich für Massnahmen zur Verbesserung des Gewässers oder für Fischeinsatz zu verwenden.
 
 <sup>2</sup> Der Gemeinderat ist berechtigt, jederzeit Auskunft über die Zahl der ausgegebenen Karten und die Verwendung des Erlöses zu verlangen.
 
@@ -108,7 +107,7 @@ vom 04.07.1995 (Stand 29.09.2001)
 
 **Verwendung des Pachtzinses**
 
-<sup>1</sup> Die Einnahmen der Gemeinden aus den Pachtzinsen sind nach Ermessen des Gemeinderates für Massnahmen zur Erhaltung oder Verbesserung des Lebensraumes von Fischen oder Amphibien zu verwenden. Die Einnahmen mehrerer Jahre können zusammen verwendet werden.
+<sup>1</sup> Die Einnahmen der Gemeinden aus den Pachtzinsen sind nach Ermessen des Gemeinderates für Massnahmen zur Erhaltung oder Verbesserung des Lebensraumes von Fischen, Amphibien, Krebsen oder Fischnährtieren zu verwenden. Die Einnahmen mehrerer Jahre können zusammen verwendet werden.
 
 <sup>2</sup> Gesuche um Finanzhilfen gemäss Art. 12 Abs. 1 lit. a des Bundesgesetzes über die Fischerei[^12-1] sind beim Departement für Justiz und Sicherheit einzureichen.
 
@@ -146,25 +145,15 @@ vom 04.07.1995 (Stand 29.09.2001)
 
 **Massgebendes Recht**
 
-<sup>1</sup> Im übrigen gelten die Bestimmungen des Bundesgesetzes über die Fischerei vom 21. Juni 1991[^17-1], der Verordnung zum Bundesgesetz über die Fischerei vom 24. November 1993[^17-2], des kantonalen Gesetzes über die Fischerei vom 27. September 1976[^17-3] und der Verordnung des Regierungsrates über die Fischerei vom 12. Dezember 1977[^17-4].
+<sup>1</sup> Im übrigen gelten die Bestimmungen des Bundesgesetzes über die Fischerei (BGF)[^17-1], der Verordnung zum Bundesgesetz über die Fischerei (VBGF)[^17-2], des Fischereigesetzes (FiG)[^17-3] und der Fischereiverordnung (FiV) [^17-4].
 
 [^17-1]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
 [^17-2]: SR [923.01](https://db.clex.ch/link/Bund/923.01/de)
 [^17-3]: RB [923.1](https://www.rechtsbuch.tg.ch/data/923.1/de)
 [^17-4]: RB [923.11](https://www.rechtsbuch.tg.ch/data/923.11/de)
 
-#### § 18
+#### § 18–19
 
-**...[^18-1]**
-
-[^18-1]: Aufhebung bisherigen Rechtes, ABl. 1995, Seite 1846.
-
-#### § 19
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verfügung tritt mit ihrer Publikation im Amtsblatt in Kraft[^19-1].
-
-[^19-1]: In Kraft getreten am 9. September 1995.
+**…**
 
 ABl. 36/1995
