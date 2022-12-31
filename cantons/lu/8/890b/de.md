@@ -3,20 +3,19 @@ canton: LU
 number: 890b
 title: Geschäftsreglement der tripartiten Kommission
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-11-20
+version: 2023-01-01
+version_adopted: 2023-02-28
 adopted: 2002-11-05
 in_force: 2002-12-01
 url: "https://srl.lu.ch/app/de/texts_of_law/890b"
-pdf: "https://srl.lu.ch/api/de/versions/3373/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4059/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsreglement der tripartiten Kommission
 
-vom 05.11.2002 (Stand 01.01.2019)
+vom 05.11.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -32,7 +31,7 @@ beschliesst:
 
 **Vorschlagsrecht**
 
-<sup>1</sup> Die Vertreterinnen und Vertreter der Arbeitsmarktbehörde und der Arbeitslosenkasse des Kantons Luzern werden auf Vorschlag des Geschäftsfeldes Wirtschaft und Arbeit des Sozialversicherungszentrums, die übrigen Mitglieder auf Vorschlag der Arbeitgeber- und der Arbeitnehmerorganisationen gewählt.
+<sup>1</sup> Die Vertreterinnen und Vertreter der kantonalen Arbeitsmarktbehörde und der Arbeitslosenkasse des Kantons Luzern werden auf Vorschlag des Geschäftsfeldes Wirtschaft und Arbeit des Sozialversicherungszentrums gewählt. Die Vertreterinnen und Vertreter der Gemeinden werden auf Vorschlag des Verbandes Luzerner Gemeinden, die übrigen Mitglieder auf Vorschlag der Arbeitgeber- und der Arbeitnehmerorganisationen gewählt.
 
 #### § 2
 
