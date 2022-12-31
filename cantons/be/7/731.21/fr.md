@@ -4,13 +4,13 @@ number: "731.21"
 title: Ordonnance concernant l’accord intercantonal sur les marchés publics
 short: OAIMP
 language: fr
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-16
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2675/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2736/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2675/pdf_file"
 
 (OAIMP)
 
-du 17.11.2021 (état au 01.11.2022)
+du 17.11.2021 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,7 +74,7 @@ arrête:
 
 <sup>3</sup> Les communes ou d'autres adjudicateurs communaux peuvent renoncer à créer un service d'enregistrement des irrégularités au sens de l'alinéa 1. Dans ce cas, le préfet ou la préfète assume la fonction de service d'enregistrement des irrégularités.
 
-<sup>4</sup> Le Contrôle des finances est, conformément à l'article 17a de la loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^4-1], le service d'enregistrement des irrégularités au sens de l'alinéa 1 pour les collaborateurs et collaboratrices du canton.
+<sup>4</sup> Le Contrôle des finances est, conformément aux articles 40 à 43 de la loi cantonale du 7 mars 2022 sur le Contrôle des finances (LCCF)[^4-1], le service d'enregistrement des irrégularités au sens de l'alinéa 1 pour les collaborateurs et collaboratrices du canton.
 
 [^4-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 

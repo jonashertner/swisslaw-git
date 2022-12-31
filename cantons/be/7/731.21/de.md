@@ -4,13 +4,13 @@ number: "731.21"
 title: Verordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöBV
 language: de
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-16
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2675/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2736/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2675/pdf_file"
 
 (IVöBV)
 
-vom 17.11.2021 (Stand 01.11.2022)
+vom 17.11.2021 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -66,7 +66,7 @@ beschliesst:
 
 #### Art. 4
 
-**Meldestelle für Missstände (Art. 11 Abs. 1 Bst. b IVöB)**
+**Meldestelle Missstände (Art. 11 Abs. 1 Bst. b IVöB)**
 
 <sup>1</sup> Der Auftraggeber stellt sicher, dass sich seine Mitarbeiterinnen und Mitarbeiter an eine von ihren Vorgesetzten unabhängige Meldestelle wenden können, um Verstösse gegen Vorschriften des öffentlichen Beschaffungswesens zu melden.
 
@@ -74,7 +74,7 @@ beschliesst:
 
 <sup>3</sup> Gemeinden und andere kommunale Auftraggeber können darauf verzichten, eine Meldestelle gemäss Absatz 1 einzurichten. In diesem Fall ist die Regierungsstatthalterin oder der Regierungsstatthalter die Meldestelle.
 
-<sup>4</sup> Die Finanzkontrolle ist nach Massgabe von Artikel 17a des Gesetzes vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^4-1] die Meldestelle gemäss Absatz 1 für Mitarbeiterinnen und Mitarbeiter des Kantons.
+<sup>4</sup> Die Finanzkontrolle ist nach Massgabe von Artikel 40 bis 43 des Kantonalen Finanzkontrollgesetzes vom 7. März 2022 (KFKG)[^4-1] die Meldestelle gemäss Absatz 1 für Mitarbeiterinnen und Mitarbeiter des Kantons.
 
 [^4-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 
