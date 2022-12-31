@@ -4,13 +4,12 @@ number: "822.0.3"
 title: Gesetz über die Finanzierung der Spitäler und Geburtshäuser
 short: SFiG
 language: de
-version: 2012-01-01
-valid_until: 2022-12-31
-version_adopted: 2011-11-04
+version: 2023-01-01
+version_adopted: 2022-11-18
 adopted: 2011-11-04
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/5533/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7718/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,9 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5533/pdf_file"
 
 Spitäler und Geburtshäuser, Finanzierung – G
 
-vom 04.11.2011 (Fassung in Kraft getreten am 01.01.2012)
+(SFiG)
+
+vom 04.11.2011 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -124,9 +125,15 @@ beschliesst:
 - f) die Einzelheiten in Bezug auf Beurteilung, Kontrolle und Nachkontrolle;
 - g) die Pflichten und Anforderungen an die Spitäler und die Geburtshäuser, sowie die Konsequenzen bei deren Nichteinhaltung.
 
-<sup>2</sup> Die Leistungsaufträge werden längstens für fünf Jahre abgeschlossen und enthalten Zusatzverträge, die jährlich geregelt werden.
+<sup>2</sup> Der Staatsrat bestimmt den Inhalt und die Dauer der Leistungsaufträge von Fall zu Fall und regelt deren Unterzeichnung.
 
-<sup>3</sup> Im Übrigen bestimmt der Staatsrat den Inhalt der Leistungsaufträge und regelt die Unterzeichnung.
+<sup>3</sup> …
+
+#### Art. 7a
+
+**Investitionshilfe**
+
+<sup>1</sup> Der Staat kann für Investitionen der öffentlichen Spitäler Finanzhilfen gewähren.
 
 #### Art. 8
 

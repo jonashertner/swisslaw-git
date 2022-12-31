@@ -4,13 +4,12 @@ number: "822.0.3"
 title: Loi concernant le financement des hôpitaux et des maisons de naissance
 short: LFiH
 language: fr
-version: 2012-01-01
-valid_until: 2022-12-31
-version_adopted: 2011-11-04
+version: 2023-01-01
+version_adopted: 2022-11-18
 adopted: 2011-11-04
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5533/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7718/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,9 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5533/pdf_file"
 
 Hôpitaux et maisons de naissance, financement – L
 
-du 04.11.2011 (version entrée en vigueur le 01.01.2012)
+(LFiH)
+
+du 04.11.2011 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -124,9 +125,15 @@ Décrète:
 - f) les modalités d'évaluation, de suivi et de contrôle;
 - g) les charges et conditions imposées aux hôpitaux et aux maisons de naissance ainsi que les conséquences en cas de non-respect.
 
-<sup>2</sup> Les mandats de prestations sont conclus pour une durée de cinq ans au maximum, avec des avenants annuels.
+<sup>2</sup> Le Conseil d'Etat détermine de cas en cas le contenu et la durée des mandats de prestations, ainsi que les modalités de leur signature.
 
-<sup>3</sup> Pour le surplus, le Conseil d'Etat fixe le contenu des mandats de prestations et les modalités de leur signature.
+<sup>3</sup> …
+
+#### Art. 7a
+
+**Aide aux investissements**
+
+<sup>1</sup> L'Etat peut octroyer des aides financières aux investissements des hôpitaux publics.
 
 #### Art. 8
 
