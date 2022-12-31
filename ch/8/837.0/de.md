@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenvers
 short: AVIG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20220101/de"
 
 (Arbeitslosenversicherungsgesetz, AVIG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2022)
+vom 25. Juni 1982 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -29,7 +29,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [BBl 1999 4983](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^ingress-3]: [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)
 
-## Erster Titel:**** Anwendbarkeit des ATSG
+## Erster Titel: Anwendbarkeit des ATSG
 
 [^tit1-1]
 
@@ -47,7 +47,7 @@ beschliesst:
 [^1-2]: Fassung gemäss Ziff. I des BG vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3475](https://fedlex.data.admin.ch/eli/oc/2002/513); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^1-3]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-## Erster Titel *a*:**** Zweck
+## Erster Titel *a*: Zweck
 
 [^tit1a-1]
 
@@ -227,7 +227,7 @@ Der Versicherte hat Anspruch auf Arbeitslosenentschädigung, wenn er:
 
 <sup>4</sup> Ist die Rahmenfrist für den Leistungsbezug abgelaufen und beansprucht der Versicherte wieder Arbeitslosenentschädigung, so gelten, sofern dieses Gesetz nichts anderes vorsieht, erneut zweijährige Rahmenfristen für den Leistungsbezug und die Beitragszeit.[^9-2]
 
-[^9-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); BBl **19****94** I 340).
+[^9-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^9-2]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 9a
@@ -739,7 +739,7 @@ Arbeitslose, die ihren Anspruch nach Absatz 1 ausgeschöpft haben, weiterhin vor
 [^29-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^29-4]: Fassung des zweiten und dritten Satzes gemäss Ziff. I des BG vom 5. Okt. 1990, in Kraft seit 1. Jan. 1992 ([AS 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [BBl 1989 III 377](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 
-### 3. Abschnitt: Sanktionen****
+### 3. Abschnitt: Sanktionen
 
 [^tit3-chap2-sec3-1]
 
@@ -772,9 +772,9 @@ Der Versicherte ist in der Anspruchsberechtigung einzustellen, wenn er:
 [^30-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^30-2]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^30-3]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^30-4]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 (AS **199****6** 273; [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
+[^30-4]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^30-5]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
-[^30-6]: Fassung des vierten Satzes gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 (AS **2****003** 1728; [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^30-6]: Fassung des vierten Satzes gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^30-7]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 
 #### Art. 30a
@@ -1147,7 +1147,7 @@ Beitragspflichtige Arbeitnehmer von Arbeitgebern, die in der Schweiz der Zwangsv
 
 <sup>2</sup> Von der Insolvenzentschädigung müssen die gesetzlichen Sozialversicherungsbeiträge bezahlt werden. Die Kasse hat die vorgeschriebenen Beiträge mit den zuständigen Organen abzurechnen und den Arbeitnehmern die von ihnen geschuldeten Beitragsanteile abzuziehen.
 
-[^52-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 (AS **20****11** 1167; [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^52-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^52-2]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
 #### Art. 53
@@ -1174,7 +1174,7 @@ Beitragspflichtige Arbeitnehmer von Arbeitgebern, die in der Schweiz der Zwangsv
 
 <sup>3</sup> Hat der Versicherte bereits einen Verlustschein erhalten, so muss er ihn der Kasse abtreten.
 
-[^54-1]: SR **281****.****1**
+[^54-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 55
 
@@ -1207,13 +1207,13 @@ Bei einer Nachlassstundung oder einem richterlichen Konkursaufschub gilt dieses 
 
 [^58-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Sechstes Kapitel: Arbeitsmarktliche Massnahmen****
+### Sechstes Kapitel: Arbeitsmarktliche Massnahmen
 
 [^tit3-chap6-1]
 
 [^tit3-chap6-1]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### 1. Abschnitt: Allgemeine Bestimmungen****
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 [^tit3-chap6-sec1-1]
 
@@ -1341,9 +1341,9 @@ Die Versicherung gewährt zudem:
 
 <sup>2</sup> Die Versicherung und die Kantone tragen die Kosten der Bildungs- und Beschäftigungsmassnahmen nach Absatz 1 zu gleichen Teilen.
 
-[^59d-1]: Eingefügt durch Ziff. I des BG vom 22. März 2002 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); BBl **20****01** 2245). Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^59d-1]: Eingefügt durch Ziff. I des BG vom 22. März 2002 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)). Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### 2. Abschnitt: Bildungsmassnahmen****
+### 2. Abschnitt: Bildungsmassnahmen
 
 [^tit3-chap6-sec2-1]
 
@@ -1385,7 +1385,7 @@ Für die Teilnahme an Kursen können Leistungen beanspruchen:
 
 [^6364-1]: Aufgehoben durch Ziff. I des BG vom 22. März 2002, mit Wirkung seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### 3. Abschnitt:**** Beschäftigungsmassnahmen
+### 3. Abschnitt: Beschäftigungsmassnahmen
 
 [^tit3-chap6-sec3-1]
 
@@ -1425,7 +1425,7 @@ Als Beschäftigungsmassnahmen gelten namentlich vorübergehende Beschäftigungen
 
 [^64b-1]: Aufgehoben durch Ziff. I des BG vom 19. März 2010, mit Wirkung seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### 4. Abschnitt: Spezielle Massnahmen****
+### 4. Abschnitt: Spezielle Massnahmen
 
 [^tit3-chap6-sec4-1]
 
@@ -1581,7 +1581,7 @@ Der Beitrag an Wochenaufenthalter deckt Kosten, die dem Versicherten dadurch ent
 [^71a-2]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^71a-3]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^71a-4]: [SR 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
-[^71a-5]: Fassung gemäss Art. 13 Ziff. 2 des BG vom 6. Okt. 2006 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen, in Kraft seit 15. Juli 2007 (AS **2****007** 693; [BBl 2006 2975](https://fedlex.data.admin.ch/eli/fga/2006/307)[3003](https://fedlex.data.admin.ch/eli/fga/2006/310)).
+[^71a-5]: Fassung gemäss Art. 13 Ziff. 2 des BG vom 6. Okt. 2006 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen, in Kraft seit 15. Juli 2007 ([AS 2007 693](https://fedlex.data.admin.ch/eli/oc/2007/138); [BBl 2006 2975](https://fedlex.data.admin.ch/eli/fga/2006/307)[3003](https://fedlex.data.admin.ch/eli/fga/2006/310)).
 
 #### Art. 71b
 
@@ -1604,7 +1604,7 @@ Versicherte können die Unterstützung nach Artikel 71*a* Absatz 1 beanspruchen,
 [^71b-2]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^71b-3]: Aufgehoben durch Ziff. I des BG vom 22. März 2002, mit Wirkung seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^71b-4]: [SR 951.25](https://fedlex.data.admin.ch/eli/cc/2007/138)
-[^71b-5]: Fassung gemäss Art. 13 Ziff. 2 des BG vom 6. Okt. 2006 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen, in Kraft seit 15. Juli 2007 (AS **2****007** 693; [BBl 2006 2975](https://fedlex.data.admin.ch/eli/fga/2006/307)[3003](https://fedlex.data.admin.ch/eli/fga/2006/310)).
+[^71b-5]: Fassung gemäss Art. 13 Ziff. 2 des BG vom 6. Okt. 2006 über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen, in Kraft seit 15. Juli 2007 ([AS 2007 693](https://fedlex.data.admin.ch/eli/oc/2007/138); [BBl 2006 2975](https://fedlex.data.admin.ch/eli/fga/2006/307)[3003](https://fedlex.data.admin.ch/eli/fga/2006/310)).
 [^71b-6]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 71c
@@ -1638,7 +1638,7 @@ Versicherte können die Unterstützung nach Artikel 71*a* Absatz 1 beanspruchen,
 
 [^72a72c-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 1995 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Aufgehoben durch Ziff. I des BG vom 22. März 2002, mit Wirkung seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Siebentes Kapitel: Weitere Massnahmen****
+### Siebentes Kapitel: Weitere Massnahmen
 
 [^tit3-chap7-1]
 
@@ -1701,7 +1701,7 @@ Der Bundesrat kann die im Rahmen von Pilotversuchen nach Artikel 75*a* durchgef�
 
 ## Vierter Titel: Organisation
 
-### Erstes Kapitel: Durchführungsorgane****
+### Erstes Kapitel: Durchführungsorgane
 
 [^tit4-chap1-1]
 
@@ -1900,7 +1900,7 @@ Die Ausgleichsstelle unterbreitet der Aufsichtskommission:
 [^83-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [BBl 2000 1673](https://fedlex.data.admin.ch/eli/fga/2000/339)).
 [^83-2]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [BBl 2000 1673](https://fedlex.data.admin.ch/eli/fga/2000/339)).
 [^83-3]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3093](https://fedlex.data.admin.ch/eli/oc/2000/562); [BBl 2000 1673](https://fedlex.data.admin.ch/eli/fga/2000/339)).
-[^83-4]: Fassung gemäss Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); BBl **199****1** II 185 910, **1994** V 921, **1999** 4523).
+[^83-4]: Fassung gemäss Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^83-5]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [BBl 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^83-6]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020, mit Wirkung seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^83-7]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
@@ -1982,7 +1982,7 @@ Die kantonalen Amtsstellen:
 
 [^85a-1]
 
-[^85a-1]: Eingefügt durch Art. 42 Abs. 1 des BG vom 6. Okt. 1989 über die Arbeitsvermittlung und den Personalverleih (AVG) ([AS 1991 392](https://fedlex.data.admin.ch/eli/oc/1991/392_392_392); [BBl 1985 III 556](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)). Aufgehoben durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); BBl **199****1** II 185 910, **1994** V 921, **1999** 4523).
+[^85a-1]: Eingefügt durch Art. 42 Abs. 1 des BG vom 6. Okt. 1989 über die Arbeitsvermittlung und den Personalverleih (AVG) ([AS 1991 392](https://fedlex.data.admin.ch/eli/oc/1991/392_392_392); [BBl 1985 III 556](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)). Aufgehoben durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 85b
 
@@ -2159,7 +2159,7 @@ Die Arbeitgeber:
 [^88-6]: Eingefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^88-7]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^88-8]: Eingefügt durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Fassung gemäss Anhang Ziff. 24 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^88-9]: Eingefügt durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, **19****94** V 921, **1999** 4523). Aufgehoben durch Anhang Ziff. 24 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), mit Wirkung seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^88-9]: Eingefügt durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Aufgehoben durch Anhang Ziff. 24 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), mit Wirkung seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^88-10]: Eingefügt durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 89
@@ -2220,9 +2220,9 @@ Die Versicherung wird finanziert durch:
 
 <sup>2</sup> Zur Förderung der Wiedereingliederung inländischer Arbeitskräfte wird die Beteiligung des Bundes für den Zeitraum von 2020 bis 2022 um 69,5 Millionen Franken pro Jahr erhöht.[^90a-2]
 
-<sup>3</sup> Der Bund leistet in den Jahren 2020, 2021 und 2022 jeweils einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsummen der ausserordentlichen Beiträge für die Jahre 2020, 2021 und 2022 bemessen sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des jeweiligen Jahres.[^90a-3]
+<sup>3</sup> ...[^90a-3]
 
-<sup>4</sup> Ist vorauszusehen, dass der Schuldenstand des Ausgleichsfonds Ende des Jahres 2021 2,5 Prozent der von der Beitragspflicht erfassten Lohnsumme überschreiten wird, und ist diese Überschreitung auf die Covid-19-Epidemie zurückzuführen, so kann der Bund einen ausserordentlichen Beitrag an den Ausgleichsfonds leisten.[^90a-4]
+<sup>4</sup> ...[^90a-4]
 
 [^90a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2002 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)). Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^90a-2]: Eingefügt durch Ziff. I 3 des BG vom 30. Sept. 2011 über Massnahmen zur Abfederung der Frankenstärke und zur Verbesserung der Wettbewerbsfähigkeit ([AS 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [BBl 2011 6749](https://fedlex.data.admin.ch/eli/fga/2011/1078)). Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
@@ -2513,7 +2513,7 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 [^97a-14]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^97a-15]: Eingefügt durch Anhang Ziff. 32 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^97a-16]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^97a-17]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 (AS **201****1** 1167; [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
+[^97a-17]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^97a-18]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^97a-19]: Eingefügt durch Anhang Ziff. 14 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Aufgehoben durch Anhang Ziff. II 20 des Nachrichtendienstgesetzes vom 25. Sept. 2015, mit Wirkung seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^97a-20]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
@@ -2523,7 +2523,7 @@ In den übrigen Fällen dürfen Daten in Abweichung von Artikel 33 ATSG an Dritt
 [^97a-24]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^97a-25]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^97a-26]: Fassung gemäss Ziff. I der V der BVers vom 21. Juni 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [BBl 2002 803](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^97a-27]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); BBl **201****9** 4413).
+[^97a-27]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Juli 2021 ([AS 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [BBl 2019 4413](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 98
 
@@ -2546,9 +2546,9 @@ Treffen Leistungen nach diesem Gesetz mit solchen nach dem Bundesgesetz vom 19. 
 
 [^99-1]
 
-[^99-1]: Aufgehoben durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); BBl **19****91** II 185 910, **1994** V 921, **1999** 4523).
+[^99-1]: Aufgehoben durch Anhang Ziff. 16 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
-## Siebenter Titel:**** Besonderheiten des Verfahrens und der Rechtspflege
+## Siebenter Titel: Besonderheiten des Verfahrens und der Rechtspflege
 
 [^tit7-1]
 
@@ -2681,7 +2681,7 @@ Die Aufsichtsbehörden (Art. 76 ATSG[^110-2]) sorgen insbesondere für die einhe
 
 [^111112-1]
 
-[^111112-1]: Aufgehoben durch Ziff. I des BG vom 22. März 2002, mit Wirkung seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); BBl **20****01** 2245).
+[^111112-1]: Aufgehoben durch Ziff. I des BG vom 22. März 2002, mit Wirkung seit 1. Juli 2003 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 ### 2. Abschnitt: Kantone
 
@@ -2783,7 +2783,7 @@ Es werden aufgehoben:
 
 [^119-1]: Aufgehoben durch Ziff. II 46 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Drittes Kapitel: Übergangsbestimmungen****
+### Drittes Kapitel: Übergangsbestimmungen
 
 [^tit9-chap3-1]
 
@@ -2798,7 +2798,7 @@ Von den beim Inkrafttreten dieses Gesetzes bereits bestehenden Kassen gelten ohn
 - a. die öffentlichen Kassen, deren Träger ein Kanton ist und deren Tätigkeitsbereich sich auf den ganzen Kanton erstreckt;
 - b. die Verbandskassen mit Ausnahme der Betriebskassen.
 
-[^120-1]: Eingefügt durch Ziff. I 5 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, in Kraft seit 1. Jan. 2006 (AS **2****005** 5427; [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
+[^120-1]: Eingefügt durch Ziff. I 5 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
 #### Art. 120a
 
@@ -2810,7 +2810,7 @@ Von den beim Inkrafttreten dieses Gesetzes bereits bestehenden Kassen gelten ohn
 
 [^120a-1]: Eingefügt durch Ziff. I 5 des BG vom 17. Juni 2005 über das Entlastungsprogramm 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [BBl 2005 759](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
-### Viertes Kapitel:**** Verhältnis zum europäischen Recht
+### Viertes Kapitel: Verhältnis zum europäischen Recht
 
 [^tit9-chap4-1]
 
@@ -2847,10 +2847,10 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 [^121-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit, ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^121-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit, ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
 [^121-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
-[^121-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), **200****8** 4273, [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
+[^121-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
 [^121-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-### Fünftes Kapitel:**** Referendum und Inkrafttreten
+### Fünftes Kapitel: Referendum und Inkrafttreten
 
 [^tit9-chap5-1]
 
@@ -2870,19 +2870,19 @@ Datum des Inkrafttretens: Art. 51–58 und 109: 1. Januar 1983[^122-2] Die übri
 [^122-2]: BRB vom 6. Dez. 1982.
 [^122-3]: V vom 31. Aug. 1983 ([AS 1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204)).
 
-## Übergangsbestimmung zur Änderung vom 22. März 2002****
+## Übergangsbestimmung zur Änderung vom 22. März 2002
 
 [^u1-1]
 
 [^u1-1]: [AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260). Aufgehoben durch Ziff. II 46 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Übergangsbestimmung zur Änderung vom 19. März 2010****
+## Übergangsbestimmung zur Änderung vom 19. März 2010
 
 [^u2-1]
 
 [^u2-1]: [AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171). Aufgehoben durch Ziff. II des BG vom 21. Juni 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 3519](https://fedlex.data.admin.ch/eli/oc/2013/654); [BBl 2013 1915](https://fedlex.data.admin.ch/eli/fga/2013/328)).
 
-## Übergangsbestimmung zur Änderung vom 21. Juni 2013****
+## Übergangsbestimmung zur Änderung vom 21. Juni 2013
 
 [^u3-1]
 
@@ -2890,7 +2890,7 @@ Datum des Inkrafttretens: Art. 51–58 und 109: 1. Januar 1983[^122-2] Die übri
 
 Bis zum Jahresende, an welchem das Eigenkapital des Ausgleichsfonds abzüglich des für den Betrieb notwendigen Betriebskapitals mindestens 0,5 Milliarden Franken erreicht, wird auf dem Lohnanteil ab dem Höchstbetrag des versicherten Verdienstes ein Beitrag von 1 Prozent erhoben. Die Kompetenz des Bundesrates, auf diesem Lohnanteil einen Beitrag von höchstens 1 Prozent nach Artikel 90*c* Absatz 1 zu erheben, entfällt.
 
-## Übergangsbestimmung zur Änderung vom 19. März 2021****
+## Übergangsbestimmung zur Änderung vom 19. März 2021
 
 [^u4-1]
 

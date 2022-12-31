@@ -4,20 +4,20 @@ title: "Legge federale del 25 giugno 1982 sull'assicurazione obbligatoria contro
 short: LADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’assicurazione obbligatoria contro la disoccupazione e l’indennità per insolvenza
 
-(Legge sull’assicurazione contro la disoccupazione, LADI**[^t-1]**)
+(Legge sull’assicurazione contro la disoccupazione, LADI[^t-1])
 
-del 25 giugno 1982 (Stato 1° gennaio 2022)
+del 25 giugno 1982 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuova abbreviazione giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)). Di questa mod. è tenuto conto in tutto il presente testo.
 
@@ -31,7 +31,7 @@ decreta:
 [^ingress-2]: Nuovo testo giusta l’all. n. 2 della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^ingress-3]: [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)
 
-## Titolo primo:**** Applicabilità della LPGA
+## Titolo primo: Applicabilità della LPGA
 
 [^tit1-1]
 
@@ -49,7 +49,7 @@ decreta:
 [^1-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3475](https://fedlex.data.admin.ch/eli/oc/2002/513); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^1-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-## Titolo 1*a*:**** Scopo
+## Titolo 1*a*: Scopo
 
 [^tit1a-1]
 
@@ -740,7 +740,7 @@ I disoccupati che hanno esaurito il loro diritto secondo il capoverso 1, la cui 
 [^29-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^29-4]: Nuovo testo dei per. 2 e 3 giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125): [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 
-### Sezione 3: Sanzioni****
+### Sezione 3: Sanzioni
 
 [^tit3-chap2-sec3-1]
 
@@ -1208,13 +1208,13 @@ In caso di moratoria concordataria o di dilazione giudiziaria del fallimento le 
 
 [^58-1]: Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Capitolo 6: Provvedimenti inerenti al mercato del lavoro****
+### Capitolo 6: Provvedimenti inerenti al mercato del lavoro
 
 [^tit3-chap6-1]
 
 [^tit3-chap6-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Sezione 1: Disposizioni generali****
+### Sezione 1: Disposizioni generali
 
 [^tit3-chap6-sec1-1]
 
@@ -1344,7 +1344,7 @@ L’assicurazione accorda inoltre:
 
 [^59d-1]: Introdotto dal n. I della LF del 22 mar. 2002 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Sezione 2: Provvedimenti di formazione****
+### Sezione 2: Provvedimenti di formazione
 
 [^tit3-chap6-sec2-1]
 
@@ -1387,7 +1387,7 @@ Per la partecipazione ai corsi possono pretendere prestazioni:
 
 [^6364-1]: Abrogati dal n. I della LF del 22 mar. 2002, con effetto dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Sezione 3:**** Provvedimenti di occupazione
+### Sezione 3: Provvedimenti di occupazione
 
 [^tit3-chap6-sec3-1]
 
@@ -1427,7 +1427,7 @@ Per provvedimenti di occupazione si intendono in particolare le occupazioni temp
 
 [^64b-1]: Abrogato dal n. I della LF del 19 mar. 2010, con effetto dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Sezione 4: Provvedimenti speciali****
+### Sezione 4: Provvedimenti speciali
 
 [^tit3-chap6-sec4-1]
 
@@ -1642,7 +1642,7 @@ Gli assicurati possono pretendere il sostegno previsto nell’articolo 71*a* cap
 
 [^72a72c-1]: Introdotti dal n. I della LF del 23 giu. 1995 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)). Abrogati dal n. I della LF del 22 mar. 2002, con effetto dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Capitolo 7: Altri provvedimenti****
+### Capitolo 7: Altri provvedimenti
 
 [^tit3-chap7-1]
 
@@ -1705,7 +1705,7 @@ Il Consiglio federale può introdurre, per un periodo di quattro anni al massimo
 
 ## Titolo quarto: Organizzazione
 
-### Capitolo 1: Organi di esecuzione****
+### Capitolo 1: Organi di esecuzione
 
 [^tit4-chap1-1]
 
@@ -1860,7 +1860,7 @@ L’ufficio di compensazione:
 - a. contabilizza i contributi pagati al fondo di compensazione dell’assicurazione contro la disoccupazione;
 - b. tiene i conti del fondo di compensazione;
 - c.[^83-1] controlla periodicamente la gestione delle casse e dei servizi cantonali; può delegare il controllo delle casse interamente o parzialmente ai Cantoni o a terzi;
-- [tab] c<sup>bis</sup>.[^83-2] verifica l’adempimento dei compiti attribuiti alle casse e ai servizi cantonali;
+- c<sup>bis</sup>.[^83-2] verifica l’adempimento dei compiti attribuiti alle casse e ai servizi cantonali;
 - d. verifica i pagamenti delle casse o ne affida la revisione, in tutto o in parte, ai Cantoni o a un altro ente;
 - e.[^83-3] impartisce istruzioni ai titolari delle casse e ai servizi cantonali;
 - f.[^83-4] decide le pretese di risarcimento della Confederazione verso il titolare, il Cantone, il datore di lavoro e la cassa di compensazione dell’AVS (art. 82, 85*d*, 88 e 89*a*);
@@ -1869,9 +1869,9 @@ L’ufficio di compensazione:
 - i.[^83-6] ...
 - k.[^83-7] prende le decisioni giusta l’articolo 59*c* capoverso 3 e versa i sussidi previsti negli articoli 62 e 64*b*;
 - l. sorveglia le decisioni del servizio cantonale;
-- [tab] m.[^83-8] decide della computabilità delle spese amministrative delle casse, del servizio cantonale, degli uffici regionali di collocamento e dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro;
+- m.[^83-8] decide della computabilità delle spese amministrative delle casse, del servizio cantonale, degli uffici regionali di collocamento e dei servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro;
 - n. provvede al coordinamento con le altre assicurazioni sociali;
-- [tab] n<sup>bis</sup>.[^83-9] garantisce, unitamente ai Cantoni, la collaborazione nell’ambito della rete EURES (European Employment Services) secondo l’allegato I articolo 11 dell’Accordo del 21 giugno 1999[^83-10] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone);
+- n<sup>bis</sup>.[^83-9] garantisce, unitamente ai Cantoni, la collaborazione nell’ambito della rete EURES (European Employment Services) secondo l’allegato I articolo 11 dell’Accordo del 21 giugno 1999[^83-10] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone);
 - o.[^83-11] ...
 - p.[^83-12] coordina l’esecuzione dei provvedimenti inerenti al mercato del lavoro, che può esso stesso elaborare;
 - q.[^83-13] prende disposizioni per l’applicazione dell’articolo 59*a*;
@@ -1960,7 +1960,7 @@ Esso sottopone alla commissione di sorveglianza:
 
 I servizi cantonali:
 
-- [tab] a.[^85-1] consigliano i disoccupati e si adoperano per collocarli, eventualmente in collaborazione con le istituzioni di collocamento paritetiche o con quelle gestite dalle organizzazioni dei titolari delle casse o con uffici privati di collocamento; essi procedono nel corso del primo mese di disoccupazione controllata ad un esame approfondito delle possibilità di reintegrazione dell’assicurato;
+- a.[^85-1] consigliano i disoccupati e si adoperano per collocarli, eventualmente in collaborazione con le istituzioni di collocamento paritetiche o con quelle gestite dalle organizzazioni dei titolari delle casse o con uffici privati di collocamento; essi procedono nel corso del primo mese di disoccupazione controllata ad un esame approfondito delle possibilità di reintegrazione dell’assicurato;
 - b. appurano il diritto alle prestazioni nella misura in cui tale compito è loro demandato dalla presente legge;
 - c. decidono sull’adeguatezza di un’occupazione, assegnano agli assicurati un’occupazione adeguata e impartiscono loro istruzioni giusta l’articolo 17 capoverso 3;
 - d. verificano l’idoneità al collocamento dei disoccupati;
@@ -2226,11 +2226,11 @@ L’assicurazione contro la disoccupazione è finanziata con:
 
 <sup>3</sup> ...[^90a-3]
 
-<sup>4</sup> Se è prevedibile che alla fine del 2021 il debito del fondo di compensazione superi il 2,5 per cento della somma dei salari soggetti a contribuzione e se questo superamento è riconducibile all’epidemia di COVID-19, la Confederazione può erogare al fondo di compensazione un contributo straordinario.[^90a-4]
+<sup>4</sup> ...[^90a-4]
 
 [^90a-1]: Introdotto dal n. I della LF del 22 mar. 2002 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^90a-2]: Introdotto dal n. I 3 della LF del 30 set. 2011 sulle misure per attenuare la forza del franco e migliorare la competitività ([RU 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6005](https://fedlex.data.admin.ch/eli/fga/2011/1078)). Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 6861](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^90a-3]: Introdotto dal n. I della LF del 25 set. 2020 (Finanziamento supplementare dell’assicurazione contro la disoccupazione) ([RU 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 5879](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Contributo straordinario 2021 al fondo di compensazione), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 154](https://fedlex.data.admin.ch/eli/oc/2021/154); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
+[^90a-3]: Introdotto dal n. I della LF del 25 set. 2020 (Finanziamento supplementare dell’assicurazione contro la disoccupazione) ([RU 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 5879](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Nuovo testo giusta il n. III 4 della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^90a-4]: Introdotto dal n. I della LF del 25 set. 2020 (Finanziamento supplementare dell’assicurazione contro la disoccupazione), in vigore dal 26 set. 2020 al 31 dic. 2022 ([RU 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 5879](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
 #### Art. 90b
@@ -2240,7 +2240,7 @@ L’assicurazione contro la disoccupazione è finanziata con:
 Se i mezzi previsti ai sensi dell’articolo 90 non bastano a coprire le spese dell’assicurazione, la Confederazione concede mutui di tesoreria a condizioni di mercato conformemente all’articolo 36 della legge federale del 6 ottobre 1989[^90b-2] sulle finanze della Confederazione.
 
 [^90b-1]: Introdotto dal n. I della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^90b-2]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985), [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II, [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042), [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2 [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11, [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3 [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5, [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475), [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2, [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327), [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114)[4265](https://fedlex.data.admin.ch/eli/oc/2003/634)[5191](https://fedlex.data.admin.ch/eli/oc/2003/764), [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6 [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3 [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora: la LF del 7 ott. 2005 ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
+[^90b-2]: [[RU 1990 985](https://fedlex.data.admin.ch/eli/oc/1990/985_985_985); [1995 836](https://fedlex.data.admin.ch/eli/oc/1995/836_836_836)n. II; [1996 3042](https://fedlex.data.admin.ch/eli/oc/1996/3042_3042_3042); [1997 2022](https://fedlex.data.admin.ch/eli/oc/1997/2022_2022_2022)all. n. 2, [2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 11; [1998 1202](https://fedlex.data.admin.ch/eli/oc/1998/1202_1202_1202)art. 7 n. 3, [2847](https://fedlex.data.admin.ch/eli/oc/1998/2847_2847_2847)all. n. 5; [1999 3131](https://fedlex.data.admin.ch/eli/oc/1999/475); [2000 273](https://fedlex.data.admin.ch/eli/oc/2000/54)all. n. 7; [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 2; [2002 2471](https://fedlex.data.admin.ch/eli/oc/2002/327); [2003 535](https://fedlex.data.admin.ch/eli/oc/2003/114), [4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [5191](https://fedlex.data.admin.ch/eli/oc/2003/764); [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 6, [1985](https://fedlex.data.admin.ch/eli/oc/2004/221)all. n. II 3, [2143](https://fedlex.data.admin.ch/eli/oc/2004/246). [RU 2006 1275](https://fedlex.data.admin.ch/eli/oc/2006/227)art. 64]. Vedi ora: la LF del 7 ott. 2005 ([RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)).
 
 #### Art. 90c
 
@@ -2459,7 +2459,7 @@ Purché nessun interesse privato preponderante vi si opponga, gli organi incaric
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere i compiti conferiti loro dalla presente legge;
 - a<sup>bis</sup>.[^97a-4] agli organi di esecuzione delle leggi cantonali di aiuto ai disoccupati;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
+- b<sup>bis</sup>.[^97a-5] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
 - b<sup>ter</sup>.[^97a-6] alle autorità competenti in materia di stranieri, conformemente all’articolo 97 capoverso 3 della legge federale del 16 dicembre 2005[^97a-7] sugli stranieri e la loro integrazione[^97a-8];
 - c. alle autorità competenti per la riscossione dell’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^97a-9] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
 - c<sup>bis</sup>.[^97a-10] alle autorità fiscali cantonali, se il diritto cantonale prevede che il conteggio delle prestazioni sia trasmesso loro direttamente;
@@ -2552,7 +2552,7 @@ Di regola, le prestazioni giusta la legge federale del 19 giugno 1992[^98a-2] su
 
 [^99-1]: Abrogato dall’all. n. 16 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
-## Titolo settimo:**** Particolarità della procedura e dei rimedi giuridici
+## Titolo settimo: Particolarità della procedura e dei rimedi giuridici
 
 [^tit7-1]
 
@@ -2773,7 +2773,7 @@ Sono abrogati:
 
 <sup>2</sup> Le disposizioni abrogate s’applicano ancora ai fatti avvenuti prima dell’entrata in vigore della presente legge.
 
-[^118-1]: [[RU 1977 208](https://fedlex.data.admin.ch/eli/oc/1977/208_208_208), [1982 166](https://fedlex.data.admin.ch/eli/oc/1982/166_166_166)[1894](https://fedlex.data.admin.ch/eli/oc/1982/1894_1894_1894)]
+[^118-1]: [[RU 1977 208](https://fedlex.data.admin.ch/eli/oc/1977/208_208_208); [1982 166](https://fedlex.data.admin.ch/eli/oc/1982/166_166_166), [1894](https://fedlex.data.admin.ch/eli/oc/1982/1894_1894_1894)]
 [^118-2]: [[RU 1951 1197](https://fedlex.data.admin.ch/eli/oc/1951/1163_1167_1197), [1959 535](https://fedlex.data.admin.ch/eli/oc/1959/537_559_535), [1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)art. 61, [1967 26](https://fedlex.data.admin.ch/eli/oc/1967/25_25_26), [1968 93](https://fedlex.data.admin.ch/eli/oc/1968/90_90_93), [1973 1535](https://fedlex.data.admin.ch/eli/oc/1973/1535_1535_1535), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)n. I II VI, **1977** 208 art. 38 cpv. 1 lett. a, **1981** 224, **1982** 1209]
 [^118-3]: [[RU 1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078), [1977 208](https://fedlex.data.admin.ch/eli/oc/1977/208_208_208)art. 37]
 [^118-4]: Introdotto dal n. I della LF del 23 giu. 1995, in vigore dal 1° gen. 1996 ([RU 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 312](https://fedlex.data.admin.ch/eli/fga/1994/1___312)).
@@ -2787,7 +2787,7 @@ Sono abrogati:
 
 [^119-1]: Abrogato dal n. II 46 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Capitolo 3: Disposizioni transitorie****
+### Capitolo 3: Disposizioni transitorie
 
 [^tit9-chap3-1]
 
@@ -2814,7 +2814,7 @@ Le seguenti casse, fra quelle esistenti all’entrata in vigore della presente l
 
 [^120a-1]: Introdotto dal n. I 5 della LF del 17 giu. 2005 sul programma di sgravio 2004, in vigore dal 1° gen. 2006 ([RU 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740); [FF 2005 659](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
-### Capitolo 4:**** Relazione con il diritto europeo
+### Capitolo 4: Relazione con il diritto europeo
 
 [^tit9-chap4-1]
 
@@ -2854,7 +2854,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^121-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^121-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-### Capitolo 5:**** Referendum ed entrata in vigore
+### Capitolo 5: Referendum ed entrata in vigore
 
 [^tit9-chap5-1]
 
@@ -2874,19 +2874,19 @@ Data dell’entrata in vigore: art. 51 a 58 e 109: 1° gennaio 1983[^122-2] disp
 [^122-2]: DCF del 6 dic. 1982
 [^122-3]: O del 31 ago. 1983 ([RU 1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204)).
 
-## Disposizione transitoria della modifica del 22 marzo 2002****
+## Disposizione transitoria della modifica del 22 marzo 2002
 
 [^u1-1]
 
 [^u1-1]: [RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260). Abrogata dal n. II 46 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Disposizione transitoria della modifica del 19 marzo 2010 della legge sull’assicurazione contro la disoccupazione****
+## Disposizione transitoria della modifica del 19 marzo 2010 della legge sull’assicurazione contro la disoccupazione
 
 [^u2-1]
 
 [^u2-1]: [RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171). Abrogata dal n. II della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 3519](https://fedlex.data.admin.ch/eli/oc/2013/654); [FF 2013 1645](https://fedlex.data.admin.ch/eli/fga/2013/328)).
 
-## Disposizione transitoria della modifica del 21 giugno 2013****
+## Disposizione transitoria della modifica del 21 giugno 2013
 
 [^u3-1]
 
@@ -2894,7 +2894,7 @@ Data dell’entrata in vigore: art. 51 a 58 e 109: 1° gennaio 1983[^122-2] disp
 
 Sino alla fine dell’anno nel quale il capitale proprio del fondo di compensazione, dedotto il capitale di esercizio necessario per la gestione, raggiunge almeno 0,5 miliardi di franchi, è riscosso un contributo dell’1 per cento sulla parte di salario che supera il guadagno massimo assicurato. La competenza del Consiglio federale di riscuotere un contributo massimo dell’1 per cento su tale parte di salario secondo l’articolo 90*c* capoverso 1 è soppressa.
 
-## Disposizione transitoria della modifica del 19 marzo 2021****
+## Disposizione transitoria della modifica del 19 marzo 2021
 
 [^u4-1]
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20220101/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (Etat le 1<sup>er</sup> janvier 2022)
+du 25 juin 1982 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -29,7 +29,7 @@ arrête:
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4601](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 [^ingress-3]: [FF 1980 III 485](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)
 
-## Titre 1**** Applicabilité de la LPGA
+## Titre 1 Applicabilité de la LPGA
 
 [^tit1-1]
 
@@ -47,7 +47,7 @@ arrête:
 [^1-2]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3475](https://fedlex.data.admin.ch/eli/oc/2002/513); [FF 2002 763](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 [^1-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-## Titre 1*a***** But
+## Titre 1*a* But
 
 [^tit1a-1]
 
@@ -88,7 +88,7 @@ Est tenu de payer des cotisations de l’assurance-chômage (assurance):
 
 Sont dispensés de payer des cotisations:
 
-- a.[^2-5] ...
+- a.[^2-5] …
 - b.[^2-6] les membres de la famille de l’exploitant qui travaillent dans l’exploitation agricole, au sens de l’art. 1*a*, al. 2, let. a et b, de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture[^2-7] et qui sont assimilés à des agriculteurs indépendants.
 - c.[^2-8] les travailleurs, à partir de la fin du mois au cours duquel ils atteignent l’âge de la retraite fixé à l’art. 21 LAVS;
 - d.[^2-9] les employeurs, pour les salaires versés aux personnes mentionnées aux let. b et c;
@@ -183,7 +183,7 @@ Pour prévenir et combattre le chômage, l’assurance fournit des contributions
 Elle fournit les prestations suivantes, à savoir:
 
 - a. l’indemnité de chômage;
-- b.[^7-3] ...
+- b.[^7-3] …
 - c. l’indemnité en cas de réduction de l’horaire de travail;
 - d. l’indemnité en cas d’intempéries;
 - e. l’indemnité en cas d’insolvabilité de l’employeur.
@@ -299,7 +299,7 @@ Est réputé partiellement sans emploi celui qui:
 
 <sup>1</sup> Il y a lieu de prendre en considération la perte de travail lorsqu’elle se traduit par un manque à gagner et dure au moins deux journées de travail consécutives.
 
-<sup>2</sup> ...[^11-1]
+<sup>2</sup> …[^11-1]
 
 <sup>3</sup> N’est pas prise en considération la perte de travail pour laquelle le chômeur a droit au salaire ou à une indemnité pour cause de résiliation anticipée des rapports de travail.
 
@@ -346,7 +346,7 @@ Compte également comme période de cotisation le temps durant lequel l’assur�
 - c.[^13-3] est partie à un rapport de travail, mais ne touche pas de salaire parce qu’il est malade (art. 3 LPGA[^13-4]) ou victime d’un accident (art. 4 LPGA) et, partant, ne paie pas de cotisations;
 - d.[^13-5] a interrompu son travail pour cause de maternité (art. 5 LPGA) dans la mesure où ces absences sont prescrites par les dispositions de protection des travailleurs ou sont conformes aux clauses des conventions collectives de travail.
 
-<sup>2bis</sup> et <sup>2ter</sup> ...[^13-6]
+<sup>2bis</sup> et <sup>2ter</sup> …[^13-6]
 
 <sup>3</sup> Afin d’empêcher le cumul injustifié de prestations de vieillesse de la prévoyance professionnelle et de l’indemnité de chômage, le Conseil fédéral peut déroger aux règles concernant la prise en compte des périodes de cotisation pour les assurés mis à la retraite avant d’avoir atteint l’âge de la retraite selon l’art. 21, al. 1, LAVS[^13-7], mais qui désirent continuer à exercer une activité salariée.[^13-8]
 
@@ -381,9 +381,9 @@ Sont libérées des conditions relatives à la période de cotisation les person
 
 <sup>3</sup> Les Suisses de retour au pays après un séjour de plus d’un an dans un pays non membre de la Communauté européenne ou de l’Association européenne de libre-échange (AELE) sont libérés des conditions relatives à la période de cotisation durant une année, à condition qu’ils justifient de l’exercice d’une activité salariée à l’étranger et qu’ils aient exercé pendant au moins six mois une activité salariée soumise à cotisation en Suisse.[^14-6] Il en va de même des ressortissants des États membres de la Communauté européenne ou de l’AELE dont l’autorisation d’établissement n’est pas échue. Le Conseil fédéral détermine en outre à quelles conditions les étrangers non-ressortis-sants d’un État membre de la Communauté européenne ou de l’AELE dont l’autorisation d’établissement n’est pas échue sont libérés des conditions relatives à la période de cotisation après un séjour à l’étranger de plus d’un an.[^14-7]
 
-<sup>4</sup> ...[^14-8]
+<sup>4</sup> …[^14-8]
 
-<sup>5</sup> et <sup>5bis</sup> ...[^14-9]
+<sup>5</sup> et <sup>5bis</sup> …[^14-9]
 
 [^14-1]: Nouvelle teneur selon l’annexe ch. 40 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^14-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
@@ -488,9 +488,9 @@ Le droit à l’indemnité commence à courir après un délai d’attente de ci
 
 <sup>3</sup> Lorsque l’assuré est au chômage au terme d’une activité saisonnière ou au terme de l’exercice d’une profession dans laquelle les changements d’employeurs ou les contrats de durée limitée sont usuels, la perte de travail n’est pas prise en considération pendant un délai d’attente fixé par le Conseil fédéral.[^18-5]
 
-<sup>4</sup> ...[^18-6]
+<sup>4</sup> …[^18-6]
 
-<sup>5</sup> ...[^18-7]
+<sup>5</sup> …[^18-7]
 
 [^18-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 [^18-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
@@ -542,7 +542,7 @@ Le Conseil fédéral fixe le mode de détermination du droit à l’indemnité d
 
 <sup>3</sup> Le droit s’éteint s’il n’est pas exercé dans les trois mois suivant la fin de la période de contrôle à laquelle il se rapporte. Les indemnités qui n’ont pas été perçues sont périmées trois ans après la fin de ladite période.
 
-<sup>4</sup> ...[^20-1]
+<sup>4</sup> …[^20-1]
 
 [^20-1]: Abrogé par l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
@@ -573,7 +573,7 @@ Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée a
 
 <sup>3</sup> Le Conseil fédéral adapte le taux minimum fixé à l’al. 2, let. b, en règle générale tous les deux ans avec effet au début de l’année civile, conformément aux principes qui régissent l’AVS.[^22-6]
 
-<sup>4</sup> et <sup>5</sup> ...[^22-7]
+<sup>4</sup> et <sup>5</sup> …[^22-7]
 
 [^22-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 24 mars 2006 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2942, [2000 4422](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6459](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6513](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^22-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
@@ -616,9 +616,9 @@ Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée a
 
 <sup>3bis</sup> Un gain réalisé dans le cadre d’une mesure relative au marché du travail financée par les pouvoirs publics n’est pas assuré. Les mesures visées aux art. 65 et 66*a* sont réservées.[^23-6]
 
-<sup>4</sup> ...[^23-7]
+<sup>4</sup> …[^23-7]
 
-<sup>5</sup> ...[^23-8]
+<sup>5</sup> …[^23-8]
 
 [^23-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^23-2]: Nouvelle teneur de la phrase selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -635,7 +635,7 @@ Une indemnité journalière s’élevant à 70 % du gain assuré est octroyée a
 
 <sup>1</sup> Est réputé intermédiaire tout gain que le chômeur retire d’une activité salariée ou indépendante durant une période de contrôle. L’assuré qui perçoit un gain intermédiaire a droit à la compensation de la perte de gain. Le taux d’indemnisation est déterminé selon l’art. 22. Le Conseil fédéral fixe le mode de calcul du gain retiré d’une activité indépendante.[^24-2]
 
-<sup>2</sup> ...[^24-3]
+<sup>2</sup> …[^24-3]
 
 <sup>3</sup> Est réputée perte de gain la différence entre le gain assuré et le gain intermédiaire, ce dernier devant être conforme, pour le travail effectué, aux usages professionnels et locaux. Les gains accessoires ne sont pas pris en considération (art. 23, al. 3).
 
@@ -706,7 +706,7 @@ L’assuré a droit à:
 
 <sup>1</sup> Les assurés qui, passagèrement, ne sont aptes ni à travailler ni à être placés ou ne le sont que partiellement en raison d’une maladie (art. 3 LPGA[^28-1]), d’un accident (art. 4 LPGA) ou d’une grossesse et qui, de ce fait, ne peuvent satisfaire aux prescriptions de contrôle, ont droit à la pleine indemnité journalière s’ils remplissent les autres conditions dont dépend le droit à l’indemnité. Leur droit persiste au plus jusqu’au 30<sup>e</sup> jour suivant le début de l’incapacité totale ou partielle de travail et se limite à 44 indemnités journalières durant le délai-cadre.[^28-2]
 
-<sup>1bis</sup> ...[^28-3]
+<sup>1bis</sup> …[^28-3]
 
 <sup>2</sup> Les indemnités journalières de l’assurance-maladie ou de l’assurance-accidents qui représentent une compensation de la perte de gain sont déduites de l’indemnité de chômage.[^28-4]
 
@@ -742,7 +742,7 @@ Les chômeurs qui ont épuisé leur droit selon l’al. 1, sont encore passagèr
 [^29-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^29-4]: Nouvelle teneur des 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
 
-### Section 3 Sanctions****
+### Section 3 Sanctions
 
 [^tit3-chap2-sec3-1]
 
@@ -976,13 +976,13 @@ L’employeur remet à la caisse:
 
 **Occupation provisoire**
 
-<sup>1</sup> et <sup>2</sup>...[^41-1]
+<sup>1</sup> et <sup>2</sup>…[^41-1]
 
 <sup>3</sup> Le travailleur doit déclarer à l’employeur le revenu qu’il tire d’une occupation provisoire ou d’une activité indépendante pendant la période où l’horaire de travail est réduit. L’employeur en informe la caisse.
 
 <sup>4</sup> Le Conseil fédéral détermine de quelle manière et dans quelle mesure le revenu tiré de l’occupation provisoire est pris en compte pour le calcul de la perte de gain à prendre en considération.
 
-<sup>5</sup> ...[^41-2]
+<sup>5</sup> …[^41-2]
 
 [^41-1]: Abrogés par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^41-2]: Abrogé par le ch. I de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 4237](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
@@ -1025,7 +1025,7 @@ Pour que la perte de travail soit prise en considération, il faut que:
 
 <sup>4</sup> Est réputé période de décompte, un laps de temps d’un mois ou de quatre semaines consécutives.
 
-<sup>5</sup> ...[^43-4]
+<sup>5</sup> …[^43-4]
 
 [^43-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^43-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1990, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 369](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)).
@@ -1069,7 +1069,7 @@ Le calcul de l’indemnité est régi par les dispositions de l’art. 34.
 
 <sup>1</sup> Le Conseil fédéral règle la procédure d’avis.[^45-1]
 
-<sup>2</sup> et <sup>3</sup> ...[^45-2]
+<sup>2</sup> et <sup>3</sup> …[^45-2]
 
 <sup>4</sup> Lorsque l’autorité cantonale doute que la perte de travail puisse être prise en considération, elle examine le cas de façon appropriée. Si elle estime que la perte de travail ne peut être prise en considération ou si celle-ci a été annoncée trop tard, elle s’oppose par décision au versement de l’indemnité. Dans chaque cas, elle informe l’employeur et la caisse qu’il a désignée.
 
@@ -1212,13 +1212,13 @@ Les dispositions du présent chapitre sont applicables par analogie, en cas de s
 
 [^58-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Chapitre 6 Mesures relatives au marché du travail****
+### Chapitre 6 Mesures relatives au marché du travail
 
 [^tit3-chap6-1]
 
 [^tit3-chap6-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Section 1 Dispositions générales****
+### Section 1 Dispositions générales
 
 [^tit3-chap6-sec1-1]
 
@@ -1348,7 +1348,7 @@ L’assurance accorde en outre:
 
 [^59d-1]: Introduit par le ch. I de la LF du 22 mars 2002 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Section 2 Mesures de formation****
+### Section 2 Mesures de formation
 
 [^tit3-chap6-sec2-1]
 
@@ -1356,7 +1356,7 @@ L’assurance accorde en outre:
 
 #### Art. 60
 
-**...[^60-2]**[^60-1]
+**…[^60-2]**[^60-1]
 
 <sup>1</sup> Sont notamment réputés mesures de formation les cours individuels ou collectifs de reconversion, de formation continue ou d’intégration, la participation à des entreprises d’entraînement et les stages de formation.[^60-3]
 
@@ -1391,7 +1391,7 @@ Peuvent demander des prestations de l’assurance-chômage pour la participation
 
 [^6364-1]: Abrogés par le ch. I de la LF du 22 mars 2002, avec effet au 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Section 3**** Mesures d’emploi
+### Section 3 Mesures d’emploi
 
 [^tit3-chap6-sec3-1]
 
@@ -1425,13 +1425,13 @@ Sont réputés mesures d’emploi notamment les emplois temporaires qui entrent 
 
 **Étendue des prestations**
 
-<sup>1</sup> ...[^64b-1]
+<sup>1</sup> …[^64b-1]
 
 <sup>2</sup> Le Conseil fédéral peut édicter des prescriptions minimales relatives à la participation financière de l’employeur aux emplois temporaires lorsque ceux-ci prennent la forme de stages professionnels.
 
 [^64b-1]: Abrogé par le ch. I de la LF du 19 mars 2010, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 
-### Section 4 Mesures spécifiques****
+### Section 4 Mesures spécifiques
 
 [^tit3-chap6-sec4-1]
 
@@ -1443,7 +1443,7 @@ Sont réputés mesures d’emploi notamment les emplois temporaires qui entrent 
 
 Les assurés dont le placement est difficile et qui, accomplissant une initiation au travail dans une entreprise, reçoivent de ce fait un salaire réduit, peuvent bénéficier d’allocations d’initiation au travail lorsque:[^65-2]
 
-- a.[^65-3] ...
+- a.[^65-3] …
 - b. le salaire réduit durant la mise au courant correspond au moins au travail fourni et
 - c. qu’au terme de cette période, l’assuré peut escompter un engagement aux conditions usuelles dans la branche et la région, compte tenu, le cas échéant, d’une capacité de travail durablement restreinte.
 
@@ -1486,7 +1486,7 @@ Les assurés dont le placement est difficile et qui, accomplissant une initiatio
 
 L’assurance peut octroyer des allocations pour une formation d’une durée maximale de trois ans à l’assuré qui:
 
-- a.[^66a-3] ...
+- a.[^66a-3] …
 - b. est âgé de 30 ans au moins, et
 - c.[^66a-4] n’a pas achevé de formation professionnelle reconnue en Suisse ou éprouve de grandes difficultés à trouver un emploi correspondant à sa formation.
 
@@ -1596,7 +1596,7 @@ La contribution aux frais de déplacement et de séjour hebdomadaires couvre par
 L’assuré peut prétendre à un soutien en vertu de l’art. 71*a*, al. 1:[^71b-2]
 
 - a.[^71b-3] s’il est au chômage sans faute de sa part;
-- b.[^71b-4] ...
+- b.[^71b-4] …
 - c. s’il est âgé de 20 ans au moins, et
 - d. s’il présente une esquisse de projet d’activité indépendante économiquement viable.
 
@@ -1643,7 +1643,7 @@ L’assuré peut prétendre à un soutien en vertu de l’art. 71*a*, al. 1:[^71
 
 [^72a72c-1]: Introduits par le ch. I de la LF du 23 juin 1995 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)). Abrogés par le ch. I de la LF du 22 mars 2002, avec effet au 1<sup>er</sup> juil. 2003 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
-### Chapitre 7 Autres mesures****
+### Chapitre 7 Autres mesures
 
 [^tit3-chap7-1]
 
@@ -1706,7 +1706,7 @@ Le Conseil fédéral peut introduire, pour une durée maximale de quatre ans, le
 
 ## Titre 4 Organisation
 
-### Chapitre 1 Organes d’exécution****
+### Chapitre 1 Organes d’exécution
 
 [^tit4-chap1-1]
 
@@ -1741,7 +1741,7 @@ Sont chargés de l’application du régime de l’assurance:
 
 <sup>2</sup> Le canton est le fondateur de la caisse.
 
-<sup>3</sup> ...[^77-1]
+<sup>3</sup> …[^77-1]
 
 <sup>4</sup> Plusieurs cantons peuvent, avec l’assentiment du Secrétariat d’État à l'économie (SECO)[^77-2], gérer une caisse publique commune à leurs territoires.
 
@@ -1867,13 +1867,13 @@ L’organe de compensation:
 - f.[^83-4] statue sur les demandes en réparation de la Confédération dirigées contre le fondateur, le canton, l’employeur ou la caisse de compensation AVS (art. 82, 85*d*, 88 et 89*a*);
 - g. attribue aux caisses les ressources nécessaires tirées du fonds de compensation en vertu des prescriptions de la présente loi et de l’ordonnance;
 - h.[^83-5] prend des mesures pour empêcher le versement de prestations injustifiées et engage à cet effet des inspecteurs extraordinaires en cas de chômage important et persistant;
-- i.[^83-6] ...
+- i.[^83-6] …
 - k.[^83-7] prend les décisions visées à l’art. 59*c*, al. 3, et verse les subventions prévues aux art. 62 et 64*b*;
 - l. surveille les décisions des autorités cantonales;
 - [tab] m.[^83-8] décide de la prise en compte des frais d’administration des caisses, des autorités cantonales, des offices régionaux de placement et des services de logistique des mesures relatives au marché du travail;
 - n. assure la coordination avec les autres assurances sociales;
 - [tab] n<sup>bis</sup>.[^83-9] assure avec les cantons la coordination au sein du réseau EURES (European Employment Services) en vertu de l’art. 11 de l’annexe I de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^83-10] (accord sur la libre circulation des personnes);
-- o.[^83-11] ...
+- o.[^83-11] …
 - p.[^83-12] coordonne l’exécution des mesures relatives au marché du travail et peut en préparer la conception;
 - q.[^83-13] prend des mesures pour appliquer l’art. 59*a*;
 - r.[^83-14] tranche, en dérogation à l’art. 35 LPGA[^83-15], les litiges en matière de compétence territoriale des autorités cantonales;
@@ -1973,7 +1973,7 @@ Les autorités cantonales:
 - j.[^85-5] font rapport périodiquement au fonds de compensation, à l’intention de la commission de surveillance, sur leurs décisions en matière de mesures relatives au marché travail;
 - k.[^85-6] présentent périodiquement à l’organe de compensation, conformément aux directives de celui-ci et à l’intention de la commission de surveillance, le compte des frais d’administration de l’autorité cantonale, des offices régionaux de placement et du service de logistique des mesures relatives au marché du travail.
 
-<sup>2</sup> ...[^85-7]
+<sup>2</sup> …[^85-7]
 
 [^85-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^85-2]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
@@ -2152,7 +2152,7 @@ Les employeurs:
 
 <sup>3</sup> L’action en réparation du dommage se prescrit conformément aux dispositions du code des obligations[^88-7] sur les actes illicites.[^88-8]
 
-<sup>4</sup> ...[^88-9]
+<sup>4</sup> …[^88-9]
 
 <sup>5</sup> La responsabilité prévue à l’art. 78 LPGA est exclue.[^88-10]
 
@@ -2225,12 +2225,12 @@ L’assurance est financée par:
 
 <sup>2</sup> Afin de favoriser la réinsertion de la main-d’œuvre indigène, la participation de la Confédération est majorée de 69,5 millions de francs par an pour les années 2020 à 2022.[^90a-2]
 
-<sup>3</sup> La Confédération verse une participation extraordinaire au fonds de compensation en 2020, 2021 et 2022. La somme totale des participations extraordinaires versées en 2020, 2021 et 2022 est calculée sur la base des dépenses engagées pour l’indemnité en cas de réduction de l’horaire de travail pendant les périodes de décompte de chacune de ces années.[^90a-3]
+<sup>3</sup> …[^90a-3]
 
-<sup>4</sup> S’il est prévisible que la dette du fonds de compensation dépassera, à la fin de l’année 2021, 2,5 % de la somme des salaires soumis à cotisation et si ce dépassement est lié à l’épidémie de COVID-19, la Confédération peut verser une participation extraordinaire au fonds de compensation.[^90a-4]
+<sup>4</sup> …[^90a-4]
 
 [^90a-1]: Introduit par le ch. I de la LF du 22 mars 2002 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
-[^90a-2]: Introduit par le ch. I 3 de la LF du 30 sept.2011 sur les mesures visant à atténuer les effets du franc fort et à améliorer la compétitivité ([RO 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6217](https://fedlex.data.admin.ch/eli/fga/2011/1078)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
+[^90a-2]: Introduit par le ch. I 3 de la LF du 30 sept. 2011 sur les mesures visant à atténuer les effets du franc fort et à améliorer la compétitivité ([RO 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6217](https://fedlex.data.admin.ch/eli/fga/2011/1078)). Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [FF 2019 7797](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
 [^90a-3]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage) ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Nouvelle teneur selon le ch. III 4 de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
 [^90a-4]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage), en vigueur du 26 sept. 2020 au 31 déc. 2022 ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
@@ -2417,11 +2417,11 @@ Les personnes suivantes peuvent s’enregistrer sur la plateforme d’accès aux
 - b. les demandeurs d’emploi, en vue de l’inscription et du conseil par l’ORP;
 - c. les employeurs, en vue de la demande des prestations au sens des art. 31 et 42 ainsi qu’en vue de remplir leurs obligations au sens de l’art. 88, al. 1.[^96c-7]
 
-<sup>2</sup> ...[^96c-8]
+<sup>2</sup> …[^96c-8]
 
 <sup>2bis</sup> L’échange de données personnelles, y compris de données sensibles et de profils de la personnalité, entre les systèmes d’information de l’assurance-chômage (art. 83, al. 1<sup>bis</sup>) et ceux du service public de l’emploi (art. 35 LSE) est autorisé dans la mesure où il est nécessaire à l’exécution de la présente loi et de la LSE.[^96c-9]
 
-<sup>2ter</sup> ...[^96c-10]
+<sup>2ter</sup> …[^96c-10]
 
 <sup>3</sup> Le Conseil fédéral règle la responsabilité de la protection des données, les données à saisir, leur durée de conservation, l’accès aux données, l’organisation et l’exploitation des systèmes d’information, la collaboration entre les autorités désignées à l’al. 1 et la sécurité des données.
 
@@ -2479,7 +2479,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, les or
   - 5\. aux autorités fiscales, lorsqu’elles leur sont nécessaires pour appliquer les lois fiscales,
   - 6\.[^97a-13] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^97a-14],
   - 7\.[^97a-15] aux autorités chargées d’appliquer la LEI et l’accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^97a-16], y compris les annexes, les protocoles et les dispositions d’exécution suisses;
-  - 8\.[^97a-17] ...[^97a-18]
+  - 8\.[^97a-17] …[^97a-18]
 
 <sup>2</sup> Les données nécessaires à la lutte contre le travail au noir peuvent être communiquées conformément aux art. 11 et 12 de la loi du 17 juin 2005 sur le travail au noir[^97a-19].[^97a-20]
 
@@ -2551,7 +2551,7 @@ En cas de concours de prestations prévues par la présente loi avec des prestat
 
 [^99-1]: Abrogé par l’annexe ch. 16 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
-## Titre 7**** Particularités de la procédure et des voies de droit
+## Titre 7 Particularités de la procédure et des voies de droit
 
 [^tit7-1]
 
@@ -2704,7 +2704,7 @@ Les cantons:
 - f.[^113-6] veillent à instaurer une collaboration efficace entre les offices compétents en matière d’assurance et ceux dont relève le domaine du placement;
 - g.[^113-7] désignent cinq jours fériés donnant droit à l’indemnité de chômage selon l’art. 19[^113-8].
 
-<sup>3</sup> ...[^113-9]
+<sup>3</sup> …[^113-9]
 
 [^113-1]: Modifié par le ch. III de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 [^113-2]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
@@ -2730,7 +2730,7 @@ Les cantons:
 
 **Loi fédérale sur le contrat d’assurance**
 
-...[^115-1]
+…[^115-1]
 
 [^115-1]: La mod. peut être consultée au [RO 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184).
 
@@ -2744,7 +2744,7 @@ Les cantons:
 
 **Code des obligations**
 
-...[^117-1]
+…[^117-1]
 
 [^117-1]: La mod. peut être consultée au [RO 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184).
 
@@ -2752,7 +2752,7 @@ Les cantons:
 
 **Loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité**[^117a-1]
 
-...[^117a-2]
+…[^117a-2]
 
 [^117a-1]: Introduit par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> juil. 1997 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273), [1997 60](https://fedlex.data.admin.ch/eli/oc/1997/60_60_60)ch. II 1 [806](https://fedlex.data.admin.ch/eli/oc/1997/806_806_806); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^117a-2]: La mod. peut être consultée au [RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273).
@@ -2778,7 +2778,7 @@ Sont abrogés:
 [^118-4]: Introduite par le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 273](https://fedlex.data.admin.ch/eli/oc/1996/273_273_273); [FF 1994 I 340](https://fedlex.data.admin.ch/eli/fga/1994/1_340_340_)).
 [^118-5]: [[RO 1993 1066](https://fedlex.data.admin.ch/eli/oc/1993/1066_1066_1066)]
 
-### Section 3 ...
+### Section 3 …
 
 #### Art. 119
 
@@ -2786,7 +2786,7 @@ Sont abrogés:
 
 [^119-1]: Abrogé par le ch. II 46 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-### Chapitre 3 Dispositions transitoires****
+### Chapitre 3 Dispositions transitoires
 
 [^tit9-chap3-1]
 
@@ -2813,7 +2813,7 @@ Parmi les caisses existantes au moment de l’entrée en vigueur de la présente
 
 [^120a-1]: Introduit par le ch. I 5 de la LF du 17 juin 2005 sur le programme d’allégement budgétaire 2004, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5427](https://fedlex.data.admin.ch/eli/oc/2005/740);[FF 2005 693](https://fedlex.data.admin.ch/eli/fga/2005/108)).
 
-### Chapitre 4**** Relation avec le droit européen
+### Chapitre 4 Relation avec le droit européen
 
 [^tit9-chap4-1]
 
@@ -2852,7 +2852,7 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 [^121-5]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la convention AELE révisée.
 [^121-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-### Chapitre 5**** Référendum et entrée en vigueur
+### Chapitre 5 Référendum et entrée en vigueur
 
 [^tit9-chap5-1]
 
@@ -2872,19 +2872,19 @@ Date de l’entrée en vigueur: Art. 51 à 58 et 109: 1<sup>er</sup> janvier 198
 [^122-2]: ACF du 6 déc. 1982
 [^122-3]: O du 31 août 1983 ([RO 1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204))
 
-## Dispositions transitoires de la modification du 22 mars 2002****
+## Dispositions transitoires de la modification du 22 mars 2002
 
 [^u1-1]
 
 [^u1-1]: [RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260). Abrogées par le ch. II 46 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
-## Disposition transitoire de la modification du 19 mars 2010****
+## Disposition transitoire de la modification du 19 mars 2010
 
 [^u2-1]
 
 [^u2-1]: [RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171). Abrogée par le ch. II de la LF du 21 juin 2013, avec effet au 1<sup>er</sup> janv. 2014 ([RO 2013 3519](https://fedlex.data.admin.ch/eli/oc/2013/654); [FF 2013 1715](https://fedlex.data.admin.ch/eli/fga/2013/328)).
 
-## Disposition transitoire de la modification du 21 juin 2013****
+## Disposition transitoire de la modification du 21 juin 2013
 
 [^u3-1]
 
@@ -2892,7 +2892,7 @@ Date de l’entrée en vigueur: Art. 51 à 58 et 109: 1<sup>er</sup> janvier 198
 
 Une cotisation de 1 % est prélevée sur les tranches de salaires supérieures au montant maximal du gain assuré, jusqu’à la fin de l’année au cours de laquelle le capital propre du fonds de compensation, sous déduction des fonds de roulement nécessaires à l’exploitation, atteint ou dépasse 0,5 milliard de francs. La compétence du Conseil fédéral de percevoir une cotisation de 1 % au plus sur ces tranches de salaires en vertu de l’art. 90*c*, al. 1, est alors supprimée.
 
-## Disposition transitoire de la modification du 19 mars 2021****
+## Disposition transitoire de la modification du 19 mars 2021
 
 [^u4-1]
 
