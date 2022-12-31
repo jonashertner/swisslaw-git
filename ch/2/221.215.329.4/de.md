@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: Verordnung vom 20. Oktober 2010 über den Normalarbeitsvertrag für Arbeitnehmerinnen und Arbeitnehmer in der Hauswirtschaft (NAV Hauswirtschaft)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: de
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2010-724-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-724-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/de"
 
 (NAV Hauswirtschaft)
 
-vom 20. Oktober 2010 (Stand am 1. Januar 2020)
+vom 20. Oktober 2010 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -108,16 +108,16 @@ Als gelernt gelten Arbeitnehmerinnen und Arbeitnehmer:
 <sup>1</sup> Der Mindestlohn beträgt brutto, ohne Zuschläge für Ferien und bezahlte Feiertage, für die Kategorien:
 
 <table>
-<tr><td></td><td>Franken pro Stunde</td></tr>
-<tr><td>a. ungelernt</td><td>19.20</td></tr>
-<tr><td>b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft</td><td>21.10</td></tr>
-<tr><td>c. gelernt mit EFZ</td><td>23.20</td></tr>
-<tr><td>d. gelernt mit EBA</td><td>21.10.[^5-1]</td></tr>
+<tr><th></th><th>Franken pro Stunde</th></tr>
+<tr><td>a. ungelernt</td><td>19.50</td></tr>
+<tr><td>b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft</td><td>21.40</td></tr>
+<tr><td>c. gelernt mit EFZ</td><td>23.55</td></tr>
+<tr><td>d. gelernt mit EBA</td><td>21.40.[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> Das Staatssekretariat für Wirtschaft publiziert die auf Basis dieser Stundenlöhne berechneten Monatslöhne, abgestuft nach Arbeitsstunden pro Woche. Die Berechnung der Monatslöhne beruht auf der Ausrichtung von zwölf Monatslöhnen pro Jahr.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 9. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
 
 #### Art. 6
 
@@ -153,6 +153,9 @@ Diese Verordnung ist ab ihrem Inkrafttreten auf bestehende Arbeitsverhältnisse 
 
 <sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2022 verlängert.[^9-3]
 
+<sup>5</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2025 verlängert.[^9-4]
+
 [^9-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
 [^9-3]: Eingefügt durch Ziff. I der V vom 27. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^9-4]: Eingefügt durch Ziff. I der V vom 9. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).

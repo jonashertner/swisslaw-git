@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: Ordinanza del 20 ottobre 2010 sul contratto normale di lavoro per il personale domestico (CNL personale domestico)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: it
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2010-724-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-724-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/it"
 
 (CNL personale domestico)
 
-del 20 ottobre 2010 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 20 ottobre 2010 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -108,16 +108,16 @@ Sono considerati qualificati i lavoratori in possesso di:
 <sup>1</sup> Il salario minimo lordo, senza indennità per vacanze e giorni festivi pagati, ammonta a:
 
 <table>
-<tr><td></td><td>Franchi all’ora</td></tr>
-<tr><td>a. per lavoratori non qualificati</td><td>19.20</td></tr>
-<tr><td>b. per lavoratori non qualificati con almeno quattro anni di esperienza professionale nell’economia domestica</td><td>21.10</td></tr>
-<tr><td>c. per lavoratori qualificati con AFC</td><td>23.20</td></tr>
-<tr><td>d. per lavoratori qualificati con CFP</td><td>21.10 .[^5-1]</td></tr>
+<tr><th></th><th>Franchi all’ora</th></tr>
+<tr><td>a. per lavoratori non qualificati</td><td>19.50</td></tr>
+<tr><td>b. per lavoratori non qualificati con almeno quattro anni di esperienza professionale nell’economia domestica</td><td>21.40</td></tr>
+<tr><td>c. per lavoratori qualificati con AFC</td><td>23.55</td></tr>
+<tr><td>d. per lavoratori qualificati con CFP</td><td>21.40 .[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> La Segreteria di Stato dell’economia pubblica i salari mensili calcolati in base a questi salari orari, graduati secondo le ore di lavoro settimanali. Il calcolo dei salari mensili si basa sul versamento di 12 salari mensili all’anno.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
 
 #### Art. 6
 
@@ -153,6 +153,9 @@ La presente ordinanza è applicabile fin dalla sua entrata in vigore ai rapporti
 
 <sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2022.[^9-3]
 
+<sup>5</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2025.[^9-4]
+
 [^9-1]: Introdotto dal n. I dell’O del 13 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
 [^9-2]: Introdotto dal n. I dell’O del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
 [^9-3]: Introdotto dal n. I dell’O del 27 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^9-4]: Introdotto dal n. I dell’O del 9 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).

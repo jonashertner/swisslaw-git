@@ -3,11 +3,11 @@ sr: "221.215.329.4"
 title: "Ordonnance du 20 octobre 2010 sur le contrat-type de travail pour les travailleurs de l'économie domestique (CTT économie domestique)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/724"
 language: fr
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2010-10-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/724/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-724-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/724/20200101/fr"
 
 (CTT économie domestique)
 
-du 20 octobre 2010 (Etat le 1<sup>er</sup> janvier 2020)
+du 20 octobre 2010 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -109,15 +109,15 @@ Sont considérés comme employés qualifiés les travailleurs:
 
 <table>
 <tr><td></td><td>Francs par heure</td></tr>
-<tr><td>a. employé non qualifié</td><td>19,20</td></tr>
-<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>21,10</td></tr>
-<tr><td>c. employé qualifié avec CFC</td><td>23,20</td></tr>
-<tr><td>d. employé qualifié avec AFP</td><td>21,10 [^5-1]</td></tr>
+<tr><td>a. employé non qualifié</td><td>19,50</td></tr>
+<tr><td>b. employé non qualifié avec au moins quatre ans d’expérience professionnelle dans l’économie domestique</td><td>21,40</td></tr>
+<tr><td>c. employé qualifié avec CFC</td><td>23,55</td></tr>
+<tr><td>d. employé qualifié avec AFP</td><td>21,40 .[^5-1]</td></tr>
 </table>
 
 <sup>2</sup> Le Secrétariat d’État à l’économie publie les salaires mensuels calculés sur la base de ces salaires horaires en fonction du nombre d’heures de travail par semaine. Le calcul des salaires mensuels repose sur le versement de douze salaires mensuels par an.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
 
 #### Art. 6
 
@@ -153,6 +153,9 @@ La présente ordonnance est applicable aux rapports de travail existants dès so
 
 <sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022.[^9-3]
 
+<sup>5</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2025.[^9-4]
+
 [^9-1]: Introduit par le ch. I de l’O du 13 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4109](https://fedlex.data.admin.ch/eli/oc/2013/756)).
 [^9-2]: Introduit par le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4825](https://fedlex.data.admin.ch/eli/oc/2016/772)).
 [^9-3]: Introduit par le ch. I de l’O du 27 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4107](https://fedlex.data.admin.ch/eli/oc/2019/719)).
+[^9-4]: Introduit par le ch. I de l’O du 9 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 809](https://fedlex.data.admin.ch/eli/oc/2022/809)).
