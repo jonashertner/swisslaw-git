@@ -3,11 +3,11 @@ sr: "512.311"
 title: Ordonnance du DDPS du 11 décembre 2003 sur le tir hors du service (Ordonnance du DDPS sur le tir)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/1"
 language: fr
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2003-12-11
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-1-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/1/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-1-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/1/20160101/fr"
 
 (Ordonnance du DDPS sur le tir)
 
-du 11 décembre 2003 (Etat le 1<sup>er</sup> janvier 2016)
+du 11 décembre 2003 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS), en accord avec le Département fédéral des finances,
 
@@ -24,14 +24,15 @@ vu les art. 3, al. 3, 26, al. 1 et 2, 40, al. 1, let. a, 41, al. 2, et 55 de l�
 
 arrête:
 
-[^ingress-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^ingress-1]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 ## Chapitre 1 Contenu de l’instruction au tir hors du service
 
 #### Art. 1
 
-- [tab] L’instruction au tir à 300 m avec le fusil d’assaut et l’instruction au tir à 25 m et à 50 m avec le pistolet comprend:
+L’instruction au tir à 300 m avec le fusil d’assaut et l’instruction au tir à 25 m et à 50 m avec le pistolet comprend:
+
 - a. l’instruction à la technique de tir;
 - b. l’instruction du départ du coup;
 - c. l’apprentissage et le perfectionnement du maniement réglementaire de l’arme;
@@ -58,17 +59,19 @@ La Confédération remet gratuitement des munitions pour les manifestations de t
 
 #### Art. 3
 
-**Tirs de jeunesse avec le fusil d’assaut**
+**Manifestations de tir de jeunesse avec le fusil d’assaut[^3-1]**
 
-<sup>1</sup> Sur demande, les tirs de jeunesse sont soutenus par la remise de munitions à acheter et, si les stocks le permettent, par le prêt de fusils d’assaut 90 (Fass 90). Pour le prêt, les dispositions des art. 48 ss sont applicables par analogie.
+<sup>1</sup> Les manifestations de tir de jeunesse sont, sur demande, soutenues par la remise de munitions à acheter et, si les stocks le permettent, par le prêt de fusils d’assaut 90 (Fass 90). Pour le prêt, les dispositions des art. 48 ss sont applicables par analogie.[^3-2]
 
 <sup>2</sup> Les tirs de jeunesse peuvent être organisés uniquement par des sociétés de tir reconnues. Les participants sont instruits au maniement de l’arme et encadrés par des moniteurs de tir ou des entraîneurs de la Fédération sportive suisse de tir (FST).
 
 <sup>3</sup> Les demandes, accompagnées de la preuve de l’existence d’une couverture d’assurance selon l’art. 5, doivent être soumises au Groupement Défense trois mois au plus tard avant le tir. Le Groupement Défense statue sur la remise de munitions à acheter et sur le prêt de Fass 90.
 
-<sup>4</sup> Aucune arme n’est remise en prêt pour les cours de formation destinés aux jeunes.[^3-1]
+<sup>4</sup> Aucune arme n’est remise en prêt pour les cours de formation destinés aux jeunes.[^3-3]
 
-[^3-1]: Introduit par le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^3-3]: Introduit par le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 #### Art. 4
 
@@ -105,11 +108,11 @@ Le Groupement Défense soutient les tirs historiques. Ceux-ci peuvent avoir lieu
 
 **Couverture d’assurance**[^5-1]
 
-Les participants aux tirs de jeunesse, aux tirs en dehors des sociétés de tir reconnues et aux tirs historiques doivent être assurés contre les accidents et les dommages matériels ainsi que contre les prétentions relevant de la responsabilité civile.
+Les organisateurs assurent les participants aux manifestations de tir de jeunesse, de tir en dehors des sociétés de tir reconnues et de tirs historiques contre les accidents et les dommages matériels ainsi que contre les prétentions relevant de la responsabilité civile.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
-## Chapitre 3 Dispenses****
+## Chapitre 3 Dispenses
 
 [^chap3-1]
 
@@ -125,13 +128,14 @@ Sont notamment dispensés du tir obligatoire:
 - c. les militaires astreints au tir dont l’arme personnelle a été retirée par mesure de précaution selon l’art. 7 de l’ordonnance du 5 décembre 2003 sur l’équipement personnel des militaires[^6-2] et qui ne l’ont pas reçue qu’après le 31 juillet;
 - d. les militaires astreints au service qui ont été réincorporés dans l’armée et qui n’ont été rééquipés d’une arme personnelle qu’après le 31 juillet;
 - e. les militaires dispensés du service par une Commission de visite médicale (CVM), pour autant que la dispense expire après le 31 juillet;
-- f. les militaires dispensés du service par l’autorité militaire du canton de domicile pour cause de détention ou de maladie, pour autant que la dispense expire après le 31 juillet;
+- f.[^6-3] les militaires dispensés du service par l’autorité militaire du canton de domicile pour cause de détention, de maladie, d’accident ou de congé maternité, pour autant que la dispense expire après le 31 juillet;
 - g. les militaires astreints au tir qui, pour refus de servir, font l’objet d’une enquête pénale ou purgent une peine;
 - h. les militaires astreints au tir qui ont fait une demande de service militaire non armé, jusqu’à ce que la décision ayant force exécutoire ait été prise;
 - i. les militaires astreints au tir qui ont fait une demande pour accomplir un service civil, jusqu’à ce que la décision ayant force exécutoire ait été prise.
 
 [^6-1]: Introduite par l’art. 12 de l’O du DDPS du 25 août 2009 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4773](https://fedlex.data.admin.ch/eli/oc/2009/565)).
-[^6-2]: [RS 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)
+[^6-2]: [RS 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ## Chapitre 4 Association nationale de tir et sociétés de tir
 
@@ -139,7 +143,11 @@ Sont notamment dispensés du tir obligatoire:
 
 #### Art. 7
 
-La FST est reconnue comme étant la seule et unique association nationale de tir.
+[^7-1]
+
+La FST est la seule association nationale de tir reconnue.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### Section 2 Sociétés de tir
 
@@ -147,21 +155,24 @@ La FST est reconnue comme étant la seule et unique association nationale de tir
 
 **Moniteurs de tir**
 
-<sup>1</sup> Est reconnue comme moniteur de tir à 300 m toute personne qui a suivi avec succès un cours pour moniteurs de tir à 300 m ou un cours pour moniteurs de tir de jeunes tireurs.
+<sup>1</sup> Est reconnue comme moniteur de tir à 300 m toute personne qui a suivi avec succès un cours pour moniteurs de tir à 300 m ou un cours pour directeurs de jeunes tireurs[^8-1].
 
 <sup>2</sup> Est reconnue comme moniteur de tir à 25/50 m toute personne qui a suivi avec succès un cours pour moniteurs de tir à 25/50 m.
 
-<sup>3</sup> Les moniteurs de tir dirigent les exercices fédéraux et les exercices de tir facultatifs selon l’art. 4, al. 1, let. a et b, de l’ordonnance sur le tir. Ils ont notamment la responsabilité d’encadrer les tireurs qui sont faibles et inexpérimentés.[^8-1]
+<sup>3</sup> Les moniteurs de tir dirigent les exercices fédéraux et les exercices de tir facultatifs selon l’art. 4, al. 1, let. a et b, de l’ordonnance sur le tir. Ils ont notamment la responsabilité d’encadrer les tireurs qui sont faibles et inexpérimentés.[^8-2]
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^8-1]: Nouvelle expression selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 
 #### Art. 9
 
-**Moniteurs de tir de jeunes tireurs**
+**Directeurs de jeunes tireurs**
 
-<sup>1</sup> Est reconnue comme moniteur de tir de jeunes tireurs toute personne qui a suivi avec succès un cours pour moniteurs de tir de jeunes tireurs.
+<sup>1</sup> Est reconnue comme moniteur de tir de jeunes tireurs toute personne qui a suivi avec succès un cours pour directeurs de jeunes tireurs.
 
-<sup>2</sup> Les moniteurs de tir de jeunes tireurs sont notamment responsables de l’instruction des jeunes tireurs et peuvent œuvrer en qualité de moniteurs de tir à 300 m.
+<sup>2</sup> Les directeurs de jeunes tireurs sont responsables de l’instruction des jeunes tireurs et peuvent œuvrer en qualité de moniteurs de tir à 300 m.[^9-1]
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 10
 
@@ -175,11 +186,14 @@ Participent à ce rapport en tant que représentants des sociétés de tir:
 
 - a. le président;
 - b. le secrétaire des tirs;
-- c. le moniteur de tir à 300 m;
-- d. le moniteur de tir à 25/50 m, et
+- c.[^10-1] au moins un moniteur de tir à 300 m;
+- d.[^10-2] au moins un moniteur de tir à 25/50 m, et
 - e. le moniteur de tir de jeunes tireurs.
 
-<sup>3</sup> Les moniteurs de tir de jeunes tireurs ne doivent y participer que si un cours pour jeunes tireurs a lieu l’année en question.
+<sup>3</sup> Les directeurs de jeunes tireurs ne doivent y participer que si un cours pour jeunes tireurs a lieu l’année en question.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 11
 
@@ -218,7 +232,7 @@ Les sociétés de tir soumises à une surveillance particulière peuvent organis
 <sup>2</sup> Le moniteur de tir est responsable du respect des prescriptions de sécurité.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
-[^13-2]: [RS 510.512](https://fedlex.data.admin.ch/eli/cc/2004/733)
+[^13-2]: [RS 510.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7321)
 
 #### Art. 14
 
@@ -252,13 +266,15 @@ Les sociétés de tir soumises à une surveillance particulière peuvent organis
 
 **Annonce des exercices fédéraux, des exercices de tir et des cours de tir**[^16-1]
 
-<sup>1</sup> La société de tir saisit, au moins 14 jours avant le premier exercice fédéral mais au plus tard avant le 10 avril, la date et le lieu des exercices fédéraux, des exercices de tir facultatifs et des cours de tir prévus jusqu’au 31 août, dans le système Administration de la Fédération et des sociétés (AFS).
+<sup>1</sup> Au moins quatorze jours avant le premier exercice de tir, mais au plus tard avant le 10 avril, la société de tir saisit, dans le système d’information Tir et activités hors du service (SAT-Admin), la date et le lieu des exercices fédéraux prévus jusqu’au 31 août et, jusqu’à la fin de l’année civile, tous les autres exercices de tir facultatifs et cours de tir.[^16-2]
 
-<sup>2</sup> Si une saisie postérieure au 10 avril doit être modifiée, elle doit être immédiatement annoncée au membre de la commission cantonale de tir qui effectue la modification dans le système de l’AFS.
+<sup>2</sup> Si une saisie doit être modifiée après le 10 avril, il y a lieu de l’annoncer sans délai au membre de la commission cantonale de tir chargé des modifications dans SAT-Admin.[^16-3]
 
 <sup>3</sup> Avant le rapport d’instruction, les sociétés de tir ne peuvent organiser des exercices fédéraux, des cours pour jeunes tireurs et des cours pour jeunes tireurs au pistolet qu’avec l’autorisation du président de la commission cantonale de tir concernée.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^16-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 17
 
@@ -281,11 +297,13 @@ Les sociétés de tir soumises à une surveillance particulière peuvent organis
 
 **Droit de participation des jeunes tireurs et des juniors au pistolet**
 
-<sup>1</sup> Les participants aux cours pour jeunes tireurs peuvent également être admis aux exercices fédéraux à 300 m.
+<sup>1</sup> Les participants aux cours pour jeunes tireurs sont également admis aux exercices fédéraux à 300 m.[^18-1]
 
 <sup>2</sup> Peuvent également participer aux exercices fédéraux à 25 m les tireurs qui atteignent l’âge de 17 ans pendant l’année et qui participent à un cours d’instruction au tir au pistolet pour juniors.
 
 <sup>3</sup> La FST peut autoriser d’autres tireurs à participer au tir en campagne. Des munitions à acheter peuvent être retirées pour eux. Ils ne sont pas couverts par l’assurance militaire et ne peuvent pas prétendre à des prestations de la Confédération.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 19
 
@@ -398,11 +416,15 @@ Le tir obligatoire est considéré comme réussi lorsque le militaire astreint a
 
 <sup>2</sup> Une nouvelle feuille de stand portant la remarque «répétition 1 ou 2» est établie pour chaque répétition.
 
-<sup>3</sup> Les résultats de chaque programme obligatoire doivent être inscrits dans le livret de performances ou de tir. Les répétitions sont signalées par la remarque «répétition 1 ou 2».
+<sup>3</sup> Les résultats de chaque programme obligatoire doivent être inscrits dans le livret de performances. Les répétitions sont signalées par la remarque «répétition 1» ou «répétition 2».[^28-1]
 
-<sup>4</sup> Le militaire astreint au tir qui, après deux répétitions, n’a pas réussi le tir obligatoire à 300 m est considéré comme resté.
+<sup>4</sup> Le tireur astreint qui n’a pas réussi le tir obligatoire à 300 m est considéré comme resté.[^28-2]
 
-<sup>5</sup> Le militaire astreint au tir qui, après deux répétitions n’a pas réussi le tir obligatoire à 25 m doit effectuer le programme obligatoire à 300 m (art. 10, al. 2, de l’ordonnance sur le tir).
+<sup>5</sup> Le tireur astreint qui n’a pas réussi le tir obligatoire à 25 m doit effectuer le programme obligatoire à 300 m (art. 10, al. 2, de l’ordonnance sur le tir).[^28-3]
+
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^28-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### Section 3 Tir en campagne
 
@@ -424,7 +446,9 @@ Le tir obligatoire est considéré comme réussi lorsque le militaire astreint a
 
 <sup>1</sup> La FST fixe les jours de tir en accord avec le Groupement Défense.
 
-<sup>2</sup> Dans les installations de tir où a lieu le tir en campagne, aucun autre exercice ne peut être organisé sur la même distance, avant ou simultanément, pendant les demi-journées de tir.
+<sup>2</sup> …[^30-1]
+
+[^30-1]: Abrogé par le ch. I de l’O du DDPS du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 31
 
@@ -452,7 +476,7 @@ La société de tir organisatrice atteste les résultats du tir en campagne en a
 
 <sup>3</sup> Avant de prendre sa décision, le Groupement Défense entend la FST.[^33-1]
 
-[^33-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^33-1]: Introduit par le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 #### Art. 34
 
@@ -464,7 +488,7 @@ Les armes d’ordonnance appartenant à la Confédération sur lesquelles des d�
 
 #### Art. 35
 
-**Echange par erreur ou perte d’armes**[^35-1]
+**Échange par erreur ou perte d’armes**[^35-1]
 
 <sup>1</sup> Les tireurs sont personnellement responsables de leurs armes.
 
@@ -493,7 +517,7 @@ Les armes d’ordonnance appartenant à la Confédération sur lesquelles des d�
 Les armes personnelles en prêt peuvent être remises aux personnes suivantes:
 
 - a. Suisses domiciliés en Suisse;
-- b. étrangers titulaires d’un permis d’établissement, pour la durée de la fonction comme moniteurs de tir ou comme moniteurs de tir de jeunes tireurs.
+- b. étrangers titulaires d’un permis d’établissement, pour la durée de la fonction comme moniteurs de tir ou comme directeurs de jeunes tireurs.
 
 #### Art. 38
 
@@ -519,22 +543,24 @@ Est réputé instruit à l’arme en question quiconque:
 
 Aucune arme en prêt ne peut être remise aux tireurs qui:
 
-- a. ont été déclarés inaptes au service conformément aux ch. NM IV (R) ou NM 2460 à 2550, 2580 à 2621, 2691, 2700 à 2733, 2750, 2770, 2800 à 2902, 2940 à 2970, 3060 à 3074, 3910, 3920 et 3930 ou encore NM 240 à 247, 250, 251, 253, 259 à 262, 270 à 275, 280 à 290, 306, 307, 392 et 393 des codes de la *N**o**sologia Militaris*[^39-2];
+- a. ont été déclarés inaptes au service conformément aux ch. NM IV (R) ou NM 2460 à 2550, 2580 à 2621, 2691, 2700 à 2733, 2750, 2770, 2800 à 2902, 2940 à 2970, 3060 à 3074, 3910, 3920 et 3930 ou encore NM 240 à 247, 250, 251, 253, 259 à 262, 270 à 275, 280 à 290, 306, 307, 392 et 393 des codes de la *Nosologia Militaris*[^39-2];
 - b. ont été exclus du service personnel ou de l’armée en vertu de la loi du 3 février 1995 sur l’armée et l’administration militaire[^39-3] ou du code pénal militaire du 13 juin 1927[^39-4].
 - c. donnent de bonnes raisons de penser qu’ils peuvent représenter, avec leur arme, un danger pour eux-mêmes ou pour des tiers;
 - d. sont inaptes au tir;
 - e. ont renoncé à être équipés d’une arme personnelle;
 - f.[^39-5] ont déjà reçu en toute propriété une arme du même type de la part de la Confédération ou en sont équipés à titre d’arme personnelle;
 - g.[^39-6] …
-- h. ont été, conformément à l’art. 32*a*, let. d, de la loi du 20 juin 1997 sur les armes[^39-7], enregistrés dans la base de données parce qu’ils se sont vus retirer leur arme de l’armée.
+- h. ont été, conformément à l’art. 32*a*, let. d, de la loi du 20 juin 1997 sur les armes[^39-7], enregistrés dans la base de données parce qu’ils se sont vus retirer leur arme de l’armée;
+- i.[^39-8] ont été admis au service civil.
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 [^39-2]: Règl. 59.10; non publié dans le RO.
-[^39-3]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^39-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^39-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^39-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^39-5]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 [^39-6]: Abrogée par le ch. I de l’O du DDPS du 23 janv. 2013, avec effet au 1<sup>er</sup> mars 2013 ([RO 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
-[^39-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^39-7]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^39-8]: Introduite par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 40
 
@@ -544,11 +570,12 @@ Les armes personnelles en prêt ne sont remises que si les stocks le permettent.
 
 #### Art. 41
 
-**Prêt d’armes personnelles en prêt**
+**Prêt d’armes personnelles**[^41-1]
 
-Les armes personnelles en prêt peuvent être prêtées à des tiers qui participent à des exercices de tir hors du service et à des concours militaires, conformément à l’art. 41, al. 3, de l’ordonnance du DDPS du 9 décembre 2003 concernant l’équipement personnel des militaires[^41-1], pour autant que l’utilisateur offre la garantie qu’il maniera, entretiendra et conservera l’arme conformément aux prescriptions.
+Les armes personnelles peuvent être prêtées à des tiers qui participent à des exercices de tir hors du service et à des concours militaires, au sens de l’art. 20 de l’ordonnance du 21 novembre 2018 concernant l’équipement personnel des militaires[^41-2], pour autant que l’utilisateur offre la garantie qu’il maniera, entretiendra et conservera l’arme conformément aux prescriptions.
 
-[^41-1]: [RS 514.101](https://fedlex.data.admin.ch/eli/cc/2004/4)
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^41-2]: [RS 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)
 
 #### Art. 42
 
@@ -572,40 +599,43 @@ Les armes personnelles en prêt peuvent être prêtées à des tiers qui partici
 
 **Condition pour l’obtention d’armes personnelles**[^45-1]
 
-<sup>1</sup> Les tireurs ayant droit à une arme en prêt la reçoivent s’ils apportent au magasin de rétablissement de la BLA le plus proche la preuve qu’au cours des trois dernières années, ils ont effectué deux fois le programme obligatoire et deux fois le tir en campagne avec l’arme en question.[^45-2]
+<sup>1</sup> Les tireurs ayant droit à une arme en prêt la reçoivent s’ils apportent au magasin de rétablissement de la BLA le plus proche la preuve qu’au cours des trois dernières années, ils ont effectué quatre exercices fédéraux avec l’arme en question.
 
-<sup>2</sup> Les informations à ce sujet doivent avoir été reportées dans le livret de performances militaire ou le livret de tir.
+<sup>2</sup> Les militaires dispensés de tir obligatoire ne sont pas libérés de l’obligation de prouver ces tirs.
 
-<sup>3</sup> …[^45-3]
+<sup>3</sup> Il y a lieu de saisir les informations correspondantes dans le livret de performances ainsi que dans SAT-Admin.
 
-<sup>4</sup> Les tireurs non incorporés au sein de l’armée et ayant droit à une arme personnelle en prêt la reçoivent sur présentation d’un permis d’acquisition d’armes valable conformément à l’art. 8, al. 1, de la loi du 20 juin 1997 sur les armes[^45-4].[^45-5]
+<sup>4</sup> Les tireurs qui ont droit à une arme en prêt et qui ne sont pas incorporés au sein de l’armée reçoivent l’arme en question sur présentation d’un permis d’acquisition d’armes au sens de l’art. 8, al. 1, de la loi du 20 juin 1997 sur les armes[^45-2]. À titre exceptionnel, une copie de leur demande de permis d’acquisition d’armes suffit pour autant que celle-ci ait été déposée depuis 30 jours au moins auprès du bureau des armes compétent. Si aucun permis d’acquisition d’armes valable n’est présenté dans les 30 jours, la BLA retire l’arme en prêt.
 
-<sup>5</sup> Les militaires rééquipés d’une autre arme personnelle reçoivent une arme en prêt sans devoir fournir l’attestation de tir visée à l’al. 1.[^45-6]
+<sup>5</sup> Les militaires rééquipés d’une autre arme personnelle reçoivent une arme personnelle en prêt sans devoir fournir l’attestation de tir visée à l’al. 1.
 
-[^45-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
-[^45-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
-[^45-3]: Abrogé par le ch. I de l’O du DDPS du 14 déc. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
-[^45-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^45-5]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
-[^45-6]: Introduit par le ch. I de l’O du DDPS du 23 janv. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^45-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 46
 
 **Contrôle des armes en prêt**[^46-1]
 
-<sup>1</sup> Le magasin de rétablissement de la BLA le plus proche tient un contrôle des armes remises en prêt. Les détenteurs d’armes personnelles en prêt doivent les présenter de leur propre chef au centre logistique de l’armée le plus proche, accompagnées du livret de service, du livret de performances ou du livret de tir, au moins une fois tous les trois ans. A cette occasion, ils doivent prouver leur droit de garder l’arme.
+<sup>1</sup> La BLA tient un contrôle des armes remises en prêt. Les détenteurs d’armes personnelles en prêt doivent les présenter spontanément au centre logistique de l’armée le plus proche au moins fois tous les trois ans. À cette occasion, ils doivent prouver leur droit de garder l’arme.[^46-2]
 
 <sup>2</sup> Les conditions pour le maintien du prêt de l’arme sont remplies si le détenteur de l’arme en prêt dispose de l’attestation de tir conformément à l’art. 45, al. 1.
 
-<sup>3</sup> Les détenteurs d’une arme en prêt assument eux-mêmes les frais de voyage et de transport.
+<sup>3</sup>
 
-<sup>4</sup> …[^46-2]
+La preuve de tir visée à l’art. 45, al. 1, est apportée par les annotations figurant dans:
 
-<sup>5</sup> La BLA peut contrôler à tout moment le droit de conserver une arme en prêt. Elle édicte les directives nécessaires.[^46-3]
+- a. SAT-Admin, et
+- b. le livret de tir ou le livret de performances militaire.[^46-3]
+
+<sup>4</sup> Les détenteurs d’armes en prêt assument eux-mêmes leurs frais de déplacement et de transport.[^46-4]
+
+<sup>5</sup> La BLA peut contrôler à tout moment le droit de conserver une arme en prêt. Elle édicte les directives nécessaires.[^46-5]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
-[^46-2]: Abrogé par le ch. I de l’O du DDPS du 23 janv. 2013, avec effet au 1<sup>er</sup> mars 2013 ([RO 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
-[^46-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^46-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^46-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^46-5]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 #### Art. 47
 
@@ -623,13 +653,23 @@ Le détenteur d’une arme personnelle en prêt doit la restituer immédiatement
 La BLA retire en particulier l’arme personnelle en prêt lorsque:
 
 - a. le détenteur lui a apporté des modifications non réglementaires ou les a autorisées;
-- b. le détenteur n’a pas fourni l’attestation de tir visée à l’art. 45, al. 1;
+- b.[^47-2] le détenteur n’a pas fourni l’attestation de tir visée à l’art. 45, al. 1; celui-ci dispose de 30 jours pour demander un réexamen à la BLA;
 - c. le détenteur a manqué à l’obligation de contrôle visée à l’art. 46, al. 1, malgré un avertissement;
 - d. une restriction en matière de remise de l’arme au sens de l’art. 39 est établie.
 
-<sup>3</sup> Le retrait selon l’al. 2, let. a, est définitif. Le retrait selon l’al. 2, let. c, dure au moins trois ans.
+<sup>3</sup> Le retrait selon l’al. 2, let. a, est définitif. La durée du retrait selon l’al. 2, let. c, est d’une année au moins.[^47-3]
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 janv. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
+[^47-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^47-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+
+#### Art. 47a
+
+**Dommages et perte**[^47a-1]
+
+Le détenteur est responsable de l’arme en prêt qui lui a été confiée et sa responsabilité civile est engagée en cas de dommages ou de perte.
+
+[^47a-1]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### Section 3 Armes non personnelles en prêt
 
@@ -639,15 +679,15 @@ La BLA retire en particulier l’arme personnelle en prêt lorsque:
 
 <sup>1</sup> Les sociétés de tir reconnues sont autorisées à se faire remettre des Fass 90 en vue de l’organisation de cours pour jeunes tireurs. Les prescriptions de remise sont édictées par le Groupement Défense.
 
-<sup>2</sup> Les Fass en prêt doivent être commandés trois semaines avant le début du cours au moyen du système de l’AFS.[^48-1]
+<sup>2</sup> Les Fass en prêt doivent être commandés trois semaines avant le début du cours dans SAT-Admin.[^48-1]
 
-<sup>3</sup> Les fusils d’assaut en prêt sont préparés par le magasin de rétablissement de la BLA le plus proche dès le 15 février de l’année en cours en vue de la prise en charge. Ils ne sont remis qu’aux moniteurs de tir de jeunes tireurs en mesure d’attester de leur fonction et de présenter une pièce d’identité ou, sur présentation d’un document officiel, à une personne mandatée par le moniteur de tir de jeunes tireurs auteur de la commande.[^48-2]
+<sup>3</sup> Les fusils d’assaut en prêt sont préparés par le magasin de rétablissement de la BLA le plus proche dès le 15 février de l’année en cours en vue de la prise en charge. Ils ne sont remis qu’aux directeurs de jeunes tireurs en mesure d’attester de leur fonction et de présenter une pièce d’identité ou, sur présentation d’un document officiel, à une personne mandatée par le moniteur de tir de jeunes tireurs auteur de la commande.[^48-2]
 
 <sup>4</sup> Le moniteur de tir pour jeunes tireurs responsable doit rendre au magasin de rétablissement de la BLA qui les a remis les Fass en prêt à la fin des cours pour jeunes tireurs mais au plus tard le 31 octobre. Sur demande, le magasin de rétablissement de la BLA peut accorder une prolongation du délai de remise. Un service de parc doit être effectué avant la remise.[^48-3]
 
 <sup>5</sup> Le transport des armes en prêt pour cours pour jeunes tireurs incombe à la société de tir.
 
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 [^48-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 [^48-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 
@@ -655,9 +695,11 @@ La BLA retire en particulier l’arme personnelle en prêt lorsque:
 
 **Armes en prêt pour l’instruction de juniors au tir au pistolet**
 
-<sup>1</sup> Les instructeurs de la FST formés à l’École suisse de tir au pistolet sont autorisés à retirer des pistolets 75 en prêt, à l’intention des juniors (art. 18, al. 2) qui participent aux exercices fédéraux et aux tirs volontaires au pistolet.
+<sup>1</sup> Les moniteurs et entraîneurs formés de la FST sont autorisés à retirer des pistolets 75 en prêt à l’intention des juniors (art. 18, al. 2) qui participent aux exercices fédéraux et aux tirs volontaires au pistolet.[^49-1]
 
 <sup>2</sup> Les demandes de remise doivent être adressées au Groupement Défense avec indication de l’identité des juniors intéressés.
+
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 50
 
@@ -723,13 +765,17 @@ La distribution des munitions pour les tirs hors du service incombe au Groupemen
 
 <sup>2</sup> Pour couvrir leurs besoins annuels, les sociétés de tir reconnues sont autorisées à commander, chaque année, conformément à l’annexe 4 et dans les limites des crédits accordés, des munitions gratuites ou à acheter.
 
+<sup>3</sup> Les exploitants d’installations de tir collectives peuvent obtenir des munitions d’ordonnance auprès du DDPS pour les tirs prévus par la présente ordonnance. Ils veillent à un contrôle approprié de la remise de munitions.[^56-1]
+
+[^56-1]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+
 #### Art. 57
 
 **Utilisation**
 
 <sup>1</sup> Les munitions acquises pour le tir hors du service ne peuvent être utilisées que dans des installations de tir agréées ou sur des terrains de tir autorisés.
 
-<sup>2</sup> et <sup>3</sup> …[^57-1]
+<sup>2 et <sup>3</sup></sup> …[^57-1]
 
 [^57-1]: Abrogés par le ch. I de l’O du DDPS du 4 déc. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6797](https://fedlex.data.admin.ch/eli/oc/2007/872)).
 
@@ -765,7 +811,7 @@ Les sociétés de tir reconnues doivent tenir une comptabilité de leurs munitio
 
 <sup>1</sup>
 
-Lors de dérangements provoqués par les munitions, il importe de faire parvenir sans retard au centre de distribution des munitions:
+Lors de dérangements provoqués par des munitions, il importe de faire parvenir sans retard au Groupement Défense:[^60-1]
 
 - a. la cartouche ou la douille en cause;
 - b. le paquet avec le solde de munitions ainsi que, s’ils n’ont pas été jetés, le papier d’emballage avec l’étiquette portant les indications de fabrication, le plomb et la fiche d’emballage;
@@ -779,15 +825,18 @@ Lors de dérangements provoqués par les munitions, il importe de faire parvenir
   - 4\. la description du dépôt de munitions,
   - 5\. l’identité du tireur, du moniteur de tir et du président de la société.
 
-<sup>2</sup> Si le dérangement est accompagné d’une défectuosité de l’arme, celle-ci doit également être envoyée, munie d’une étiquette, pour contrôle au magasin de rétablissement de la BLA le plus proche avec l’annonce mentionnée à l’al. 1, dans l’état où elle se trouve et sans avoir été nettoyée.[^60-1]
+<sup>2</sup> Si le dérangement dû aux munitions est accompagné d’une défectuosité d’une arme appartenant à la Confédération, l’arme doit, dans l’état où elle se trouve, sans avoir été nettoyée, être munie d’une étiquette puis envoyée pour un contrôle au magasin de rétablissement de la BLA le plus proche avec le rapport mentionné à l’al. 1.[^60-2]
 
-[^60-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^60-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^60-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 61
 
-**Munitions et emballages défectueux**
+**Munitions et emballages défectueux**[^61-1]
 
-Les munitions et les emballages défectueux doivent être annoncés sans retard au centre de distribution des munitions, en joignant le bulletin de livraison et l’emballage avec l’étiquette de l’envoi en question.
+Les munitions et emballages défectueux doivent être annoncés sans retard au Groupement Défense, en joignant le bulletin de livraison et l’emballage avec l’étiquette de l’envoi en question.
+
+[^61-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 62
 
@@ -825,9 +874,11 @@ Les indemnités en faveur de la FST sont versées selon l’annexe 6 sur la base
 
 <sup>1</sup> Les prestations de la Confédération sont octroyées selon l’annexe 6 lorsque les feuilles de stand et les rapports de tir sont remplis conformément aux prescriptions et soumis dans les délais.
 
-<sup>2</sup> Les prestations de la Confédération sont payées une fois par année par exercice fédéral et uniquement pour les exercices fédéraux terminés et effectués conformément aux prescriptions, pour autant qu’il puisse être prouvé que les tireurs concernés répondent entre le 1<sup>er</sup> janvier et le 31 août de l’année en cours aux conditions fixées à l’art. 40, al. 2, de l’ordonnance sur le tir.
+<sup>2</sup> Les prestations de la Confédération sont payées une fois par année par exercice fédéral et uniquement pour les exercices fédéraux terminés et effectués conformément aux prescriptions, pour autant qu’il puisse être prouvé que les tireurs concernés ont appartenu à l’une des catégories prévues par l’art. 40, al. 2, de l’ordonnance sur le tir entre le 1<sup>er</sup> janvier et le 31 août de l’année en cours.[^65-1]
 
 <sup>3</sup> Le montant nécessaire à la couverture d’assurance contre les suites de dommages matériels et les prétentions relevant de la responsabilité civile des participants aux exercices fédéraux et aux exercices préparatoires correspondants ainsi qu’aux cours de tir selon l’art. 42, al. 2, de l’ordonnance sur le tir, est inclus dans les prestations de la Confédération versées aux sociétés de tir.
+
+[^65-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 66
 
@@ -877,11 +928,11 @@ L’exactitude des inscriptions est attestée par la signature d’un membre du 
 
 #### Art. 70
 
-**Annonce de l’accomplissement du tir obligatoire**[^70-1]
+**Annonce relative aux exercices fédéraux**[^70-1]
 
-Les sociétés de tir inscrivent tous les participants aux exercices fédéraux dans le système de l’AFS selon la liste des délais du Groupement Défense.
+Les sociétés de tir inscrivent tous les participants aux exercices fédéraux dans SAT-Admin selon la liste des délais du Groupement Défense.
 
-[^70-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^70-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### Section 3 Liste des tireurs restés
 
@@ -889,9 +940,9 @@ Les sociétés de tir inscrivent tous les participants aux exercices fédéraux 
 
 [^71-1]
 
-La société de tir annonce les tireurs restés au membre responsable de la commission cantonale de tir en les inscrivant dans le système de l’AFS.
+La société de tir annonce les tireurs restés au membre responsable de la commission cantonale de tir en les inscrivant dans SAT-Admin.
 
-[^71-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^71-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### Section 4 Rapport de tir
 
@@ -899,25 +950,25 @@ La société de tir annonce les tireurs restés au membre responsable de la comm
 
 **Rapport de tir**[^72-1]
 
-<sup>1</sup> Le comité de la société de tir établit le rapport annuel de tir en fonction des feuilles de stand en le saisissant dans le système de l’AFS.
+<sup>1</sup> Le comité de la société de tir établit le rapport annuel de tir sur la base des feuilles de stand en le saisissant dans SAT-Admin.
 
-<sup>2</sup> Par la saisie des données et son visa électronique dans le système de l’AFS, le comité de la société atteste l’exactitude des indications figurant dans le rapport de tir et sur les feuilles de stand.
+<sup>2</sup> Par la saisie des données et son visa informatique dans SAT-Admin, le comité de la société atteste l’exactitude des indications figurant sur les feuilles de stand et dans le rapport de tir.
 
 <sup>3</sup>
 
 Les sociétés de tir transmettent chaque année, dans les délais prescrits, au membre responsable de la commission cantonale de tir:
 
 - a. les feuilles de stand des exercices fédéraux et du cours pour jeunes tireurs;
-- b. le rapport de tir par le biais du système de l’AFS;
-- c. la commande de munitions pour l’année suivante par le biais du système de l’AFS;
+- b. le rapport de tir par SAT-Admin;
+- c. la commande de munitions pour l’année suivante par SAT-Admin.
 
-[^72-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 73
 
 **Conservation des feuilles de stand et des rapports de tir**[^73-1]
 
-- [tab] Après leur restitution par le membre de la commission cantonale de tir, la société de tir doit conserver pendant cinq ans les feuilles de stand et les rapports de tir.
+Après leur restitution par le membre de la commission cantonale de tir, la société de tir doit conserver pendant cinq ans les feuilles de stand et les rapports de tir.
 
 [^73-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 
@@ -943,15 +994,27 @@ L’information des personnes concernées et les formulaires sont réglés à l�
 
 #### Art. 77
 
-**Décompte annuel**
+**Versement des prestations de la Confédération et munitions gratuites**[^77-1]
 
-<sup>1</sup> Le Groupement Défense adresse le décompte annuel aux sociétés de tir avant la fin de l’année. Ce décompte présente le montant des subsides dus, le droit aux munitions gratuites tirées, les revendications de la Confédération pour les munitions achetées et les éventuels autres postes de compensation.
+<sup>1</sup> Le Groupement Défense adresse le décompte annuel aux sociétés de tir avant la fin de l’année. Ce décompte indique les subventions versées en espèces et celles relatives aux munitions gratuites tirées à bon droit.
 
-<sup>2</sup> Si le décompte annuel est bouclé en faveur de la société de tir, son dû lui est versé avant la fin de l’année. S’il est bouclé au profit de la Confédération, le montant dû est versé dans les 30 jours qui suivent l’établissement du décompte.
+<sup>2</sup> Le montant dû à la société de tir lui est versé au plus tard à la fin de l’année en cours.
 
-<sup>3</sup> Les sociétés retardataires font l’objet d’un seul rappel du Groupement Défense, avec indication d’un délai. Si ce rappel est sans effet, des mesures peuvent être prises contre la société concernée conformément à l’art. 51, al. 2, de l’ordonnance sur le tir.
+<sup>3</sup> Les recours contre les décomptes annuels ou contre les décisions de révision doivent être adressés par la voie hiérarchique au Groupement Défense, dans les dix jours suivant la réception des documents.
 
-<sup>4</sup> Les recours contre les décomptes annuels ou les décisions de révision sont adressés par la voie hiérarchique au Groupement Défense, dans les dix jours suivant la réception des documents.
+<sup>4</sup> Le Groupement Défense informe la FST du nombre de munitions touchées par chaque société jusqu’à la fin de l’année.
+
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+
+#### Art. 77a
+
+**Facture de munitions**[^77a-1]
+
+<sup>1</sup> Le Groupement Défense facture aux sociétés de tir les munitions d’ordonnance commandées l’année précédente, commandes supplémentaires incluses.
+
+<sup>2</sup> Le Groupement Défense ne fait parvenir qu’un seul rappel, assorti d’un délai, aux sociétés retardataires. Si la facture n’est pas payée dans ce délai, des mesures peuvent être prises contre la société concernée conformément à l’art. 51, al. 2, de l’ordonnance sur le tir.
+
+[^77a-1]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ## Chapitre 11 Dispositions finales
 
@@ -977,13 +1040,13 @@ L’ordonnance du DDPS du 29 février 1996 sur le tir[^79-1] est abrogée.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2004.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 17, al. 4)
 
 ## Exercices fédéraux
 
-[^t-1]: Mise à jour selon le ch. II de l’O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) et ch. II al. 1 de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-1]: Mise à jour par le ch. II de l’O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)), le ch. II al. 1 de l’O du DDPS du 14 déc. 2015 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) et le ch. II de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Généralités
 
@@ -997,11 +1060,11 @@ Annexe 1*[^t-1]*
 
 ### 12 Positions
 
-<sup>1</sup> Avec le mousqueton (mq) ou le fusil long, les exercices peuvent être accomplis en position soit «couché bras franc», soit «couché avec appui». Avec le Fass 57, le programme doit être accompli avec l’appui médian ou avec le bipied en position avant, avec le Fass 90 avec le bipied.
+<sup>1</sup> Avec le mousqueton (mq) ou le fusil long, les exercices peuvent être accomplis en position «couché sans appui», «couché avec appui» ou sur bipied. Avec le Fass 57, le programme doit être accompli avec appui médian ou sur bipied en position avant; avec le Fass 90, sur bipied.
 
 <sup>2</sup> Pour la position «couché bras franc» avec le mousqueton ou le fusil long, le haut du corps ne peut reposer que sur les deux coudes. Le bras et l’avant-bras, le dos des mains ainsi que le pontet de sous-garde doivent être libres. L’emploi de coussins ou de rembourrages similaires est interdit.
 
-<sup>3</sup> Pour la position «couché avec appui», avec le mousqueton ou le fusil long, l’arme doit reposer directement sur la base d’appui, sans y être fixée. La main qui supporte l’arme peut également servir d’appui intercalaire et l’avant-bras être appuyé contre la base d’appui.
+<sup>3</sup> Pour la position «couché avec appui», avec le mousqueton ou le fusil long, l’arme doit reposer directement sur la base d’appui, sans y être fixée. La main qui supporte l’arme peut également servir d’appui intercalaire et l’avant-bras être appuyé contre la base d’appui. Dans ce cas, l’arme ne doit pas être en contact avec la base d’appui. La partie supérieure du bras ne doit être ni posée ni appuyée.
 
 <sup>4</sup> Les éléments d’appui peuvent être des chevalets ou des trépieds rembourrés ou d’autres constructions similaires. Les supports qui stabilisent l’arme latéralement sont interdits.
 
@@ -1009,7 +1072,7 @@ Annexe 1*[^t-1]*
 
 <sup>6</sup> Avec les armes de poing, on ne peut tirer qu’en position debout, à bras franc, à une ou à deux mains. L’arme elle-même (crosse) ne peut être tenue que d’une main. L’emploi de lanières est interdit.
 
-<sup>7</sup> Pour le tir au pistolet, dans toutes les passes et dans tous les concours limités dans le temps, le tir débute par la position «Prêt». Le bras ou les bras (lors du tir à deux mains) tenant l’arme doit former un angle d’au moins 45° avec la verticale. Si la banquette de tir ne le permet pas, le bras doit être au minimum abaissé sur celle‑ci.
+<sup>7</sup> Pour le tir au pistolet, pour tous les exercices limités dans le temps, le tir débute par la position «*Prêt*». Il convient de tenir le (en cas de tir à deux mains, les) bras tenant l’arme de manière à former un angle de 45° au maximum depuis le bas avec la verticale et de maintenir cette position. Si la banquette de tir ne le permet pas, le bras ou le pistolet doit être abaissé au moins à la hauteur de celle-ci sans la toucher.
 
 <sup>8</sup> Le tireur attend en position «Prêt» l’apparition des cibles ou le commandement «Feu». Au moment où les cibles se mettent à tourner ou au commandement «Feu», le tireur est autorisé à lever son arme en position de tir. L’arme doit être pointée vers le but, de bas en haut.
 
@@ -1025,7 +1088,7 @@ Annexe 1*[^t-1]*
 
 <sup>5</sup> Au tir coup par coup, l’arme doit être déposée après chaque coup sur la banquette de tir, déchargée (magasin retiré, culasse ouverte), le canon dirigé vers les cibles.
 
-<sup>6</sup> A la fin d’un tir de vitesse, l’arme doit être déposée sur la banquette de tir déchargée (magasin retiré, culasse ouverte), le canon dirigé vers les cibles.
+<sup>6</sup> À la fin d’un tir de vitesse, l’arme doit être déposée sur la banquette de tir déchargée (magasin retiré, culasse ouverte), le canon dirigé vers les cibles.
 
 <sup>7</sup> Lorsque toutes les armes sont déposées conformément aux al. 5 et 6, suit le commandement «Marquez».
 
@@ -1033,7 +1096,7 @@ Annexe 1*[^t-1]*
 
 <sup>9</sup> Une fois l’ordre de charger exécuté, le programme doit être commandé comme suit:
 
-### Installations de cibles pivotantes à 25 m:
+Installations de cibles pivotantes à 25 m:
 
 «Tireurs prêts?»;
 
@@ -1045,7 +1108,7 @@ le temps accordé pour le tir débute et prend fin avec la rotation des cibles;
 
 les indications du temps sont données toutes les 10 secondes et les 5 dernières secondes sont annoncées une à une (45, 35 et 25 secondes).
 
-### Installations à 25 m avec cibles fixes (aussi cibles-piquets):
+Installations à 25 m avec cibles fixes (aussi cibles-piquets):
 
 «Tireurs prêts?»;
 
@@ -1059,7 +1122,7 @@ le temps accordé pour le tir débute avec le commandement «Feu» et prend fin 
 
 les indications du temps sont données toutes les 10 secondes et les 5 dernières secondes sont annoncées une à une.
 
-### Installations à 50 m:
+Installations à 50 m:
 
 «Tireurs prêts?»;
 
@@ -1157,7 +1220,7 @@ Cible d’ordonnance pour le tir de vitesse au pistolet
 <tr><td>Total</td><td></td><td></td><td>18</td></tr>
 </table>
 
-<sup>2</sup> L’arme ne peut être mise en joue que sur le commandement «Epaulez».
+<sup>2</sup> L’arme ne peut être mise en joue que sur le commandement «Épaulez».
 
 <sup>3</sup> Les temps prescrits sont valables pour le Fass, le mousqueton et le fusil long. Dans l’exercice coup par coup, le temps est indiqué toutes les 60 secondes, puis après 5 minutes, toutes les 10 secondes. Les 5 dernières secondes sont annoncées une à une. Pour le coup par coup rapide, le temps est compté à partir du commandement «Feu». Les indications de temps sont données toutes les 10 secondes. Les 5 dernières secondes sont annoncées une à une.
 
@@ -1198,7 +1261,7 @@ Annexe 2
 
 La cible A combinée, à fond blanc, de 150 cm de largeur et 165 cm de hauteur au minimum, a un visuel noir de 60 cm de diamètre. Le champ des points a un diamètre de 100 cm, divisé en cinq ou dix cercles équidistants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/fr/xml/image/image1.png)
 
 Cible A combinée
 
@@ -1206,7 +1269,7 @@ Cible A combinée
 
 La cible de campagne B combinée est une cible à fond gris clair de 150 cm de largeur et 165 cm de hauteur au minimum. Un visuel (silhouette-buste) vert de 45 cm de largeur et 50 cm de hauteur est au centre d’une zone de teinte grise et olive de 100 × 100 cm. Le champ des points a un diamètre de 100 cm, divisé en quatre zones et dix cercles équidistants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/fr/xml/image/image2.png)
 
 Cible de campagne B combinée
 
@@ -1214,7 +1277,7 @@ Cible de campagne B combinée
 
 La cible P combinée, à fond blanc, de 100 × 100 cm, a un visuel de 20 cm de diamètre noir. Le champ des points a un diamètre de 100 cm, divisé en quatre ou dix cercles équidistants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/fr/xml/image/image3.png)
 
 Cible P combinée
 
@@ -1222,7 +1285,7 @@ Cible P combinée
 
 La cible B combinée, à fond gris clair, de 100 × 100 cm, a un visuel (silhouette-buste) vert de 45 cm de largeur et 50 cm de hauteur vert. Le champ des points a un diamètre de 100 cm, divisé en cinq zones et dix cercles équidistants.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/fr/xml/image/image4.png)
 
 Cible B combinée pour pistolet
 
@@ -1232,15 +1295,17 @@ Le visuel noir de la cible, qui mesure 76 cm de hauteur et 45 cm de largeur, est
 
 La zone des 10 points a une largeur de 10 cm et une hauteur de 15 cm. Les zones de points de 9 à 6 ont une forme analogue. Leur largeur est chaque fois plus grande de 10 cm (5 cm de chaque côté) et leur hauteur de 15 cm (7,5 cm en haut et 7,5 cm en bas). Les zones de valeur sont désignées par des points, à l’exception de la zone des 10 points. Les touchés dans la partie noire en dehors du cercle 6 comptent pour zéro point.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/fr/xml/image/image5.png)
 
 Cible d’ordonnance pour le tir de vitesse au pistolet à 25 m
 
-Annexe 3
+Annexe 3[^t-2]
 
 (art. 22, al. 2)
 
 ## Règlement à l’usage des cibarres
+
+[^t-2]: Mise à jour par le ch. II de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Généralités
 
@@ -1282,32 +1347,32 @@ Pour que la valeur des touchés soit déterminée correctement, les trous doiven
 
 La valeur des touchés est indiquée avec les palettes suivantes:
 
-- a.
+- a. cible à 4 points:
 
-  cible à 4 points:
+<table>
+<tr><td></td><td>4 points:</td><td>palette rouge et blanche, immobile</td></tr>
+<tr><td></td><td>3 points:</td><td>palette blanche, immobile, en touchant légèrement la silhouette</td></tr>
+<tr><td></td><td>2 points:</td><td>palette orange, immobile</td></tr>
+<tr><td></td><td>1 point:</td><td>palette noire, immobile</td></tr>
+</table>
 
-  - 4 points: palette rouge et blanche, immobile
-  - 3 points: palette blanche, immobile, en touchant légèrement la silhouette
-  - 2 points: palette orange, immobile
-  - 1 point: palette noire, immobile
+- b. cible à 5 points:
 
-- b.
+<table>
+<tr><td></td><td>5 points:</td><td>palette-fanion rouge, en montrant tout d’abord l’impact, puis en la balançant devant la cible</td></tr>
+<tr><td></td><td>4 points:</td><td>palette rouge et blanche, immobile</td></tr>
+<tr><td></td><td>3 points:</td><td>palette blanche, immobile</td></tr>
+<tr><td></td><td>2 points:</td><td>palette orange, immobile</td></tr>
+<tr><td></td><td>1 point:</td><td>palette noire, immobile</td></tr>
+</table>
 
-  cible à 5 points:
+- c. cible à 10 points:
 
-  - 5 points: palette-fanion rouge, en montrant tout d’abord l’impact, puis en la balançant devant la cible
-  - 4 points: palette rouge et blanche, immobile
-  - 3 points: palette blanche, immobile
-  - 2 points: palette orange, immobile
-  - 1 point: palette noire, immobile
-
-- c.
-
-  cible à 10 points:
-
-  - 10 points: palette blanche, en montrant tout d’abord l’impact, puis en décrivant un cercle sur la valeur 8
-  - 9 points: palette rouge et blanche, en montrant tout d’abord l’impact, puis en décrivant un cercle sur la valeur 7
-  - 8 points à 1 point: palette orange montre l’impact selon ch. 4; ensuite, la palette noire montre la valeur du touché sur le bord de la cible d’après le schéma suivant:
+<table>
+<tr><td></td><td>10 points:</td><td>palette blanche, en montrant tout d’abord l’impact, puis en décrivant un cercle sur la valeur 8</td></tr>
+<tr><td></td><td>9 points:</td><td>palette rouge et blanche, en montrant tout d’abord l’impact, puis en décrivant un cercle sur la valeur 7</td></tr>
+<tr><td></td><td>8 points à 1 point:</td><td>palette orange montre l’impact selon ch. 4; ensuite, la palette noire montre la valeur du touché sur le bord de la cible d’après le schéma suivant:</td></tr>
+</table>
 
 <table>
 <tr><td></td><td>6</td><td></td><td>7</td><td></td><td>8</td></tr>
@@ -1334,7 +1399,7 @@ La valeur des touchés est indiquée avec les palettes suivantes:
 
 ### 10 Impacts valables
 
-<sup>1</sup> Les coups qui ne sont pas tirés dans le temps prescrit doivent être inscrits comme zéros sur la feuille de stand. Une répétition du tir n’est admise qu’en cas de non-fonctionnement de l’installation électronique. Les dérangements de l’arme ou de charge sont de la responsabilité du tireur.
+<sup>1</sup> Les coups qui ne sont pas tirés dans le temps prescrit doivent être inscrits comme zéros sur la feuille de stand. Une répétition du tir n’est admise qu’en cas de bris de matériel, de raté ou de dérangement que le tireur n’aurait pas été en mesure d’éviter lui-même.
 
 <sup>2</sup> Pour les coups tirés trop tard dans les tirs coup par coup rapide, le même nombre des meilleurs touchés est biffé. En cas de marquage électronique des coups, les coups surnuméraires sont biffés.
 
@@ -1350,13 +1415,13 @@ La valeur des touchés est indiquée avec les palettes suivantes:
 
 <sup>6</sup> Sur les cibles tournantes, seuls sont valables les impacts présentant un trou rond. Les impacts présentant un trou allongé de plus de 11 mm de longueur, provenant de coups tirés trop tard, comptent comme zéros.
 
-Annexe 4*[^t-2]*
+Annexe 4[^t-3]
 
 (art. 54, 56, al. 2, et 58, al. 2)
 
 ## Commande et évacuation des munitions
 
-[^t-2]: Mise à jour selon le ch. I de l’O du DDPS du 4 déc. 2007 ([RO 2007 6797](https://fedlex.data.admin.ch/eli/oc/2007/872)), le ch. II de l’O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) et le ch. II al. 1 de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-3]: Mise à jour par le ch. I de l’O du DDPS du 4 déc. 2007 ([RO 2007 6797](https://fedlex.data.admin.ch/eli/oc/2007/872)), le ch. II de l’O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)), le ch. II al. 1 de l’O du DDPS du 14 déc. 2015 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) et le ch. II de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Commandes de munitions
 
@@ -1364,53 +1429,50 @@ Annexe 4*[^t-2]*
 
 <sup>1</sup> La FST doit remettre ses commandes de munitions au Groupement Défense.
 
-<sup>2</sup> Les comités d’organisation (CO) qui organisent un tir à la demande de la FST doivent adresser leurs commandes, accompagnées de la preuve de l’existence d’une couverture d’assurance, au Groupement Défense.
+<sup>2</sup> Les comités d’organisation (CO) qui organisent un tir approuvé par la FST doivent adresser leurs commandes, accompagnées de la preuve de l’existence d’une couverture d’assurance, au Groupement Défense.
 
-### 12 Sociétés de tir reconnues
+### 12 Sociétés de tir et installations de tir collectives reconnues
 
-<sup>1</sup> Les commandes de munitions doivent être adressées par la société de tir, en même temps que le rapport de tir, par le biais du système de l’AFS au membre compétent de la commission cantonale de tir, qui, après vérification, les transmet au président de la commission cantonale de tir. Ce dernier transmet les commandes au Groupement Défense par le biais du système de l’AFS au plus tard le 30 octobre.
+<sup>1</sup> Au plus tard le 20 septembre de l’année en cours, les sociétés de tir doivent envoyer par SAT-Admin leurs commandes de munitions avec le rapport de tir au membre compétent de la commission cantonale de tir, qui les transmet après vérification au président de la commission. Le 30 octobre au plus tard, celui-ci les transmet à son tour au Groupement Défense, toujours par SAT-Admin.
 
-<sup>2</sup> Les commandes ultérieures doivent être faites directement par le biais du système de l’AFS.
+<sup>2</sup> Au plus tard le 20 septembre de l’année en cours, les commandes de munitions pour les installations de tir collectives doivent être envoyées par SAT-Admin avec le rapport de tir au membre compétent de la commission cantonale de tir, qui les transmet après vérification au président de la commission. Le 30 octobre au plus tard, celui-ci les transmet à son tour au Groupement Défense, toujours par SAT-Admin.
 
-### 13 Organisation de tirs hors des sociétés de tir reconnues
+<sup>3</sup> Les éventuelles commandes supplémentaires doivent être effectuées directement dans SAT-Admin.
 
-La commande de munitions doit être adressée au Groupement Défense en même temps que la demande d’autorisation prévue à l’art. 4.
+### 13 Organisation de tirs historiques et de tirs en dehors des sociétés de tir reconnues
 
-### 14 Tirs de jeunesse
+La commande de munitions doit être adressée au Groupement Défense en même temps que la demande d’autorisation prévue aux art. 4 et 4*a*.
+
+### 14 Manifestations de tirs de jeunesse
 
 La commande de munitions doit être adressée au Groupement Défense en même temps que la demande d’autorisation prévue à l’art. 3.
 
 ### 15 Manifestations de tir peu importantes
 
-<sup>1</sup> Sur demande, des munitions pour des manifestations de tir peu importantes, soit jusqu’à 5000 coups par sorte de munitions, peuvent être retirées auprès d’une société de tir.
+<sup>1</sup> Les munitions pour les manifestations de tir peu importantes, soit jusqu’à 5000 coups par sorte de munitions, peuvent être retirées auprès d’une société de tir.
 
-<sup>2</sup> La procédure est régie par le ch. 3.
+<sup>2</sup> …
 
-### 2 Livraison des munitions par le Centre logistique de l’armée Thoune, site extérieur dépôt central d’Uttigen (CLA-T / site Uttigen)
+### 2 Livraison des munitions par le Centre logistique de l’armée de Thoune, site extérieur, dépôt central d’Uttigen (CLA-T / site Uttigen)
 
 <table>
-<tr><td>Organisation</td><td>Groupe</td><td>Commande / Adresse</td><td>Délai</td><td>Livraison</td><td>Evacuation</td><td>Facturation</td></tr>
-<tr><td>21 FST (ou par délégation, CO de la manifestation)</td><td>A, B, C\*</td><td>Groupement Défense</td><td>Selon les prescriptions de la FST</td><td>Bulletin de livraison du CLA-T / site Uttigen</td><td>Liste d’évacuation / documents de transport au CLA-T / site Uttigen. Le solde des munitions doit être retourné dans sa totalité</td><td>Groupement Défense</td></tr>
+<tr><th>Organisation</th><th>Catégorie</th><th>Commande / Adresse</th><th>Délai</th><th>Livraison</th><th>Évacuation</th><th>Facturation</th></tr>
+<tr><td>21 FST (ou, sur délégation, par le CO de la manifestation)</td><td>A, B, C\*</td><td>Groupe-ment Défense</td><td>Selon prescriptions de la FST</td><td>Bulletin de livraison du CLA-T / site Uttigen</td><td>Liste d’évacuation / documents de transport à l’intention du CLA-T / site Uttigen Le solde des munitions doit être retourné dans sa totalité</td><td>Groupement Défense</td></tr>
 </table>
 
-Si les acquisitions de munitions dépassent 30 000 francs, une garantie bancaire couvrant la totalité du montant est remise au Groupement Défense, ou un acompte représentant 50 % de la facture des munitions commandées lui est versé.
+Pour les commandes de munitions qui dépassent 30 000 francs, il y a lieu de verser un acompte de 50 % au Groupement Défense
 
 \* A = exercices fédéraux, B = concours de sociétés, C = fêtes de tir
 
 <table>
-<tr><th>Organisation</th><th>Groupe</th><th>Commande / Adresse</th><th>Délai</th><th>Livraison</th><th>Evacuation</th><th>Facturation</th></tr>
-<tr><td>22 Sociétés de tir reconnues</td><td>A, B</td><td>AFSadmin</td><td>Jusqu’au 20 septem-bre de l’année précédente</td><td>Bulletin de livraison du CLA-T / site Uttigen</td><td></td><td>Via décompte annuel des prestations de la Confédération et des munitions</td></tr>
-<tr><td></td><td>C</td><td>AFSadmin</td><td>Directives de la FST</td><td></td><td></td><td>Groupement Défense</td></tr>
-<tr><td>Commandes supplémentaires</td><td>A, B</td><td>AFSadmin</td><td>Jusqu’au 10 septem-bre de l’année en cours</td><td></td><td></td><td>Via le décompte annuel de la société</td></tr>
-<tr><td>23 Manifestations de tir en dehors des sociétés de tir</td><td>C</td><td>Groupement Défense</td><td>3 mois avant la manifestation</td><td>Bulletin de livraison du CLA-T / site Uttigen</td><td>Le solde des munitions doit être retourné dans sa totalité</td><td>Groupement Défense</td></tr>
+<tr><th>Organisation</th><th>Catégorie</th><th>Commande / Adresse</th><th>Délai</th><th>Livraison</th><th>Évacuation</th><th>Facturation</th></tr>
+<tr><td>22 Sociétés de tir et installations de tir collectives reconnues</td><td>A, B</td><td>SAT-Admin</td><td>Jusqu’au 20 septem-bre de l’année précédente</td><td>Bulletin de livraison du CLA-T / site Uttigen</td><td></td><td>Facturation par le Groupement Défense Remboursement des munitions gratuites par le Groupement Défense</td></tr>
+<tr><td></td><td>C</td><td>Groupement Défense</td><td>Directives de la FST</td><td></td><td></td><td>Facturation par le Groupement Défense</td></tr>
+<tr><td>Commandes ultérieures</td><td>A, B</td><td>SAT-Admin</td><td>Dans l’année en cours</td><td></td><td></td><td>Facturation par le Groupement Défense</td></tr>
+<tr><td>23 Manifesta-tions de tir en dehors des sociétés de tir et tirs historiques</td><td>B, C</td><td>Accord de la société de tir et autorisation du Groupement Défense pour l’organisation et l’obtention de munitions</td><td>3 mois avant la manifestation</td><td>Bulletin de livraison du CLA-T / site Uttigen</td><td>Le solde des munitions doit être retourné dans sa totalité</td><td>Facturation par le Groupement Défense</td></tr>
 </table>
 
-### 3 Acquisition de munitions auprès d’une société de tir reconnue (jusqu’à 5000 coups par sorte de munitions)
-
-<table>
-<tr><th>Organisation</th><th>Groupe</th><th>Commande / Adresse</th><th>Délai</th><th>Livraison</th><th>Évacuation</th><th>Facturation</th></tr>
-<tr><td>31 Manifestations de tir en dehors des sociétés de tir</td><td>B, C</td><td>Accord de la société de tir. Mention de l’autorisation par le Groupement Défense pour l’organisation et pour l’obtention des munitions</td><td>3 mois avant la manifestation</td><td>Livraison par la société</td><td>Solde des munitions et matériel d’emballage à la société</td><td>Paiement directement à la société</td></tr>
-</table>
+### 3 …
 
 ### 4 Transport
 
@@ -1420,7 +1482,7 @@ Si les acquisitions de munitions dépassent 30 000 francs, une garantie bancaire
 
 <sup>2</sup> Pour la prise en charge des munitions et pour la restitution des munitions surnuméraires et du matériel d’emballage, aucuns frais de transport ne sont remboursés.
 
-### 42 Evacuation par des sociétés de tir reconnues
+### 42 Évacuation par des sociétés de tir reconnues
 
 <sup>1</sup> L’évacuation des munitions après le 20 septembre de l’année en cours est portée sur le compte de l’année suivante.
 
@@ -1428,7 +1490,7 @@ Si les acquisitions de munitions dépassent 30 000 francs, une garantie bancaire
 
 <sup>3</sup> Le matériel d’emballage doit être évacué. Ledit matériel, y compris les bandes de chargement des cartouches pour fusil 90, peut être évacué à mesure ou lors de l’approvisionnement en munitions.
 
-### 43 Evacuation par des sociétés de tir et des organisations non reconnues
+### 43 Évacuation par des sociétés de tir et des organisations non reconnues
 
 Les munitions qui n’ont pas été tirées de même que le matériel d’emballage doivent être renvoyés au centre de distribution dans les dix jours suivant la fin de la manifestation.
 
@@ -1448,32 +1510,21 @@ Les munitions qui n’ont pas été tirées de même que le matériel d’emball
 
 <sup>3</sup> Une liste pour l’évacuation doit être agrafée au bulletin de livraison; elle doit être complétée en fonction des diverses rubriques et renvoyée au centre de distribution pour le 20 septembre de l’année en cours.
 
-Annexe 5*[^t-3]*
+Annexe 5[^t-4]
 
 (art. 76)
 
 ## Prescriptions et formulaires
 
-[^t-3]: Mise à jour selon le ch. II de l’O du DDPS du 16 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^t-4]: Mise à jour selon le ch. II des O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
-### 1 Manuel pour le tir hors du service
+### 1 Version informatisée du manuel pour le tir hors du service
 
-<sup>1</sup> Les prescriptions et les formulaires concernant le tir hors du service sont contenus dans le «Manuel pour le tir hors du service». Celui-ci est remis aux personnes et instances suivantes besoin annuel en formulaires:
-
-- a. officiers fédéraux de tir;
-- b. présidents et membres des commissions cantonales de tir;
-- c. administrations militaires des cantons;
-- d. FST;
-- e. sociétés de tir reconnues;
-- f. chefs de stand des grandes installations de tir;
-- g. moniteurs de tir;
-- h. moniteurs de tir de jeunes tireurs.
-
-<sup>2</sup> Les prescriptions et les formulaires font partie des actes de service. Ils doivent être tenus à jour et transmis au successeur en cas de changement de fonction.
+Le *Manuel pour le tir hors du service*, disponible en ligne (App-SAT), contient les prescriptions et les formulaires concernant le tir hors du service.
 
 ### 2 Formulaires et imprimés
 
-<sup>1</sup> Le besoin annuel en formulaires, notamment en feuilles de stand, est couvert par un envoi de l’Office fédéral des constructions et de la logistique (OFCL) aux sociétés de tir sur la base de leurs commandes au système de l’AFS, sur mandat du Groupement Défense, au plus tard à fin février.
+<sup>1</sup> Le besoin annuel en formulaires, notamment en feuilles de stand, est couvert par un envoi de l’Office fédéral des constructions et de la logistique aux sociétés de tir sur la base de leurs commandes par SAT-Admin, sur mandat du Groupement Défense, au plus tard à fin février.
 
 <sup>2</sup> Les commandes complémentaires d’imprimés doivent être adressées au Groupement Défense.
 
@@ -1481,15 +1532,15 @@ Annexe 5*[^t-3]*
 
 <sup>4</sup> Des modèles des formulaires actuellement en usage sont envoyés aux officiers fédéraux de tir, aux commissions cantonales de tir et aux autorités militaires cantonales.
 
-<sup>5</sup> Les formulaires caducs ne doivent plus être utilisés et sont détruits. Les formulaires actuels peuvent être téléchargés via Internet à l’adresse www.armee.ch/SAT.
+<sup>5</sup> Les anciens formulaires ne seront plus utilisés et doivent être détruits. Les formulaires actuels peuvent être téléchargés à l’adresse www.armee.ch/SAT ou directement extraits de l’App-SAT.
 
-Annexe 6*[^t-4]*
+Annexe 6[^t-5]
 
 (art. 64 et 65, al. 1)
 
 ## Indemnités
 
-[^t-4]: Mise à jour selon le ch. II de l’O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) et le ch. II al. 1 de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-5]: Mise à jour par le ch. II de l’O du DDPS du 16 déc. 2011 ([RO 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)), le ch. II al. 1 de l’O du DDPS du 14 déc. 2015 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) et le ch. II de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Fédération sportive suisse de tir (FST)
 
@@ -1499,15 +1550,15 @@ Annexe 6*[^t-4]*
 
 - a.
 
-  par programme obligatoire (PO) accompli avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 03, par:
+  par programme obligatoire (PO) accompli avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 12/15, par:
 
-  - 1\. des militaires; sauf les personnes attribuées à l’armée,
-  - 2\. des OFT
+  - 1\. des militaires,
+  - 2\. des OFT,
   - 3\. des présidents et des membres des commissions cantonales de tir,
   - 4\. des participants aux cours pour jeunes tireurs à 300 m,
-  - 5\. des participants à des cours de tir au pistolet pour juniors,
+  - 5\. des participants à des cours de tir au pistolet pour juniors;
 
-- b. par tir en campagne accompli par des participants de nationalité suisse selon les art. 17 et 18 avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 03;
+- b. par tir en campagne accompli par des participants de nationalité suisse selon les art. 17 et 18 avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 12/15;
 - c. par participant au cours pour retardataires.
 
 ### 2 Sociétés de tir reconnues
@@ -1519,9 +1570,9 @@ Annexe 6*[^t-4]*
 - a. 50 francs comme contribution annuelle de base;
 - b.
 
-  20 fr. 50 par PO accompli avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 03, par:
+  20 francs 50 par PO accompli avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 12/15, par:
 
-  - 1\. des miltaires, sauf les personnes attribuées à l’armée,
+  - 1\. des militaires,
   - 2\. des OFT,
   - 3\. des présidents et des membres des commissions cantonales de tir,
   - 4\. des participants aux cours pour jeunes tireurs à 300 m,
@@ -1529,7 +1580,7 @@ Annexe 6*[^t-4]*
 
 - c. 6 francs par PO répété par des militaires astreints au tir.
 
-<sup>3</sup> L’indemnité versée pour le tir en campagne accompli avec le Fass 90 ou 57 ou avec le pistolet 75, le pistolet 49 ou le pistolet 03 s’élève à 10 francs par participant de nationalité suisse selon les art. 17 et 18.
+<sup>3</sup> L’indemnité versée pour le tir en campagne accompli avec le Fass 90, le pistolet 75 ou, si le tireur en est équipé, avec le Fass 57, le pistolet 49 ou le pistolet 12/15, s’élève à 10 francs par participant de nationalité suisse selon les art. 17 et 18.
 
 <sup>4</sup> Les indemnités pour les cours pour jeunes tireurs s’élèvent à:
 
@@ -1548,13 +1599,13 @@ Annexe 6*[^t-4]*
 
 Les chefs des jeunes tireurs cantonaux reçoivent chaque année par arrondissement cantonal de tir un montant de 150 francs pour les frais d’envoi.
 
-Annexe 7*[^t-5]*
+Annexe 7[^t-6]
 
 (art. 2, al. 2)
 
 ## Prix de vente des munitions d’ordonnance
 
-[^t-5]: Introduite par le ch. II al. 2 de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-6]: Introduite par le ch. II al. 2 de l’O du DDPS du 14 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 <sup>1</sup> Le prix de vente des munitions d’ordonnance pour les armes portatives et les armes de poing sont fixés comme suit:
 

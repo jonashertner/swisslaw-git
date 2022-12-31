@@ -3,20 +3,20 @@ sr: "512.311"
 title: Verordnung des VBS vom 11. Dezember 2003 über das Schiesswesen ausser Dienst (Schiessverordnung des VBS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/1"
 language: de
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2003-12-11
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2004-1-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/1/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-1-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/1/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des VBS über das Schiesswesen ausser Dienst
 
-(Schiessverordnung des VBS)**[^t-1]**
+(Schiessverordnung des VBS)[^t-1]
 
-vom 11. Dezember 2003 (Stand am 1. Januar 2016)
+vom 11. Dezember 2003 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 3 Absatz 3, 26 Absätze 1 und 2, 40 Absatz 1 Buchstabe
 
 verordnet:
 
-[^ingress-1]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^ingress-1]: [SR 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 [^ingress-2]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 ## 1. Kapitel: Inhalt der Schiessausbildung ausser Dienst
@@ -61,17 +61,19 @@ Für folgende Schiessanlässe gibt der Bund Gratismunition ab:
 
 #### Art. 3
 
-**Jugendschiessen mit dem Sturmgewehr**
+**Jugendschiessanlässe mit dem Sturmgewehr[^3-1]**
 
-<sup>1</sup> Jugendschiessen werden auf Gesuch hin durch die Abgabe von Kaufmunition und, sofern es die Bestände erlauben, die Ausleihe von Sturmgewehren 90 (Stgw 90) unterstützt. Für die Ausleihe gelten die Bestimmungen von Artikel 48 ff. sinngemäss.
+<sup>1</sup> Jugendschiessanlässe werden auf Gesuch hin durch die Abgabe von Kaufmunition und, sofern es die Bestände erlauben, die Ausleihe von Sturmgewehren 90 (Stgw 90) unterstützt. Für die Ausleihe gelten die Bestimmungen von Artikel 48 ff. sinngemäss.[^3-2]
 
 <sup>2</sup> Sie dürfen nur von anerkannten Schiessvereinen durchgeführt werden. Die Teilnehmenden sind bei der Waffenhandhabung anzuleiten und zu betreuen durch Schützenmeisterinnen oder Schützenmeister beziehungsweise durch Trainerinnen oder Trainer des Schweizer Schiesssportverbandes (SSV).
 
 <sup>3</sup> Die Gesuche müssen unter Beilage des Nachweises für einen Versicherungsschutz nach Artikel 5 spätestens drei Monate vor dem Anlass der Gruppe Verteidigung eingereicht werden. Diese entscheidet über die Abgabe von Kaufmunition und über die Ausleihe von Stgw 90.
 
-<sup>4</sup> Für Ausbildungskurse von Jugendlichen werden keine Leihwaffen abgegeben.[^3-1]
+<sup>4</sup> Für Ausbildungskurse von Jugendlichen werden keine Leihwaffen abgegeben.[^3-3]
 
-[^3-1]: Eingefügt durch Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^3-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^3-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^3-3]: Eingefügt durch Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 #### Art. 4
 
@@ -108,11 +110,11 @@ Die Gruppe Verteidigung unterstützt historische Schiessen. Diese können auf Ge
 
 **Versicherungsschutz**[^5-1]
 
-Die Teilnehmerinnen und Teilnehmer an Jugendschiessen, an Schiessen ausserhalb der anerkannten Schiessvereine und an historischen Schiessen sind gegen die Folgen von Unfällen und Sachschäden sowie die Haftpflicht zu versichern.
+Die durchführende Organisation versichert die Teilnehmerinnen und Teilnehmer an Jugendschiessanlässen, an Schiessen ausserhalb der anerkannten Schiessvereine und an historischen Schiessen gegen die Folgen von Unfällen und Sachschäden sowie die Haftpflicht.
 
-[^5-1]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^5-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
-## 3. Kapitel: Dispensationen****
+## 3. Kapitel: Dispensationen
 
 [^chap3-1]
 
@@ -128,13 +130,14 @@ Von der Schiesspflicht sind namentlich dispensiert:
 - c. Schiesspflichtige, deren persönliche Waffe nach Artikel 7 der Verordnung vom 5. Dezember 2003[^6-2] über die persönliche Ausrüstung der Armeeangehörigen vorsorglich abgenommen wurde und die diese erst nach dem 31. Juli zurück erhalten;
 - d. Militärdienstpflichtige, die wieder in der Armee eingeteilt werden und mit der persönlichen Waffe erst nach dem 31. Juli wieder ausgerüstet worden sind;
 - e. die von einer medizinischen Untersuchungskommission (UC) Dispensierten, sofern die Dispensation nach dem 31. Juli abläuft;
-- f. die von der Militärbehörde des Wohnortkantons wegen Freiheitsentzug oder Krankheit Dispensierten, sofern die Dispensation nach dem 31. Juli abläuft;
+- f.[^6-3] die von der Militärbehörde des Wohnortkantons wegen Freiheitsentzug, Krankheit, Unfall oder Mutterschaft Dispensierten, sofern die Dispensation nach dem 31. Juli abläuft;
 - g. Schiesspflichtige, die wegen Dienstverweigerung in Strafuntersuchung oder im Strafvollzug stehen;
 - h. Schiesspflichtige, die ein Gesuch um waffenlosen Militärdienst eingereicht haben, bis über das Gesuch rechtskräftig entschieden ist;
 - i. Schiesspflichtige, die ein Gesuch um Zulassung zum Zivildienst eingereicht haben, bis über das Gesuch rechtskräftig entschieden ist.
 
 [^6-1]: Eingefügt durch Art.12 der V des VBS vom 25. Aug. 2009 über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe, in Kraft seit 1. Okt. 2009 ([AS 2009 4773](https://fedlex.data.admin.ch/eli/oc/2009/565)).
-[^6-2]: [SR 514.10](https://fedlex.data.admin.ch/eli/cc/2018/732)
+[^6-2]: [SR 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)
+[^6-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ## 4. Kapitel: Landesschützenverband und Schiessvereine
 
@@ -142,7 +145,11 @@ Von der Schiesspflicht sind namentlich dispensiert:
 
 #### Art. 7
 
-Als einziger Landesschützenverband wird der SSV anerkannt.
+[^7-1]
+
+Als einziger Landesschützenverband ist der SSV anerkannt.
+
+[^7-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 2. Abschnitt: Schiessvereine
 
@@ -164,7 +171,9 @@ Als einziger Landesschützenverband wird der SSV anerkannt.
 
 <sup>1</sup> Als Jungschützenleiterin oder Jungschützenleiter anerkannt ist, wer einen Jungschützenleiterkurs erfolgreich absolviert hat.
 
-<sup>2</sup> Die Jungschützenleiterinnen und Jungschützenleiter sind insbesondere für die Ausbildung der Jungschützinnen und Jungschützen zuständig und können als Schützenmeisterinnen oder Schützenmeister 300 m tätig sein.
+<sup>2</sup> Die Jungschützenleiterinnen und Jungschützenleiter sind für die Ausbildung der Jungschützinnen und Jungschützen zuständig und können als Schützenmeisterinnen oder Schützenmeister 300 m tätig sein.[^9-1]
+
+[^9-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 10
 
@@ -178,11 +187,14 @@ Als Vertreterinnen oder Vertreter der Schiessvereine nehmen teil:
 
 - a. die Präsidentin oder der Präsident;
 - b. die Schiesssekretärin oder der Schiesssekretär;
-- c. die Schützenmeisterin oder der Schützenmeister 300 m;
-- d. die Schützenmeisterin oder der Schützenmeister 25/50 m; und
+- c.[^10-1] mindestens eine Schützenmeisterin oder ein Schützenmeister 300 m;
+- d.[^10-2] mindestens eine Schützenmeisterin oder ein Schützenmeister 25/50 m; und
 - e. die Jungschützenleiterin oder der Jungschützenleiter.
 
 <sup>3</sup> Die Jungschützenleiterinnen und Jungschützenleiter haben nur teilzunehmen, wenn im betreffenden Jahr ein Jungschützenkurs durchgeführt wird.
+
+[^10-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^10-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 11
 
@@ -221,7 +233,7 @@ Schiessvereine unter besonderer Aufsicht dürfen Bundesübungen nur in Anwesenhe
 <sup>2</sup> Für die Einhaltung der Sicherheitsvorschriften ist die Schützenmeisterin oder der Schützenmeister verantwortlich.
 
 [^13-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
-[^13-2]: [SR 510.512](https://fedlex.data.admin.ch/eli/cc/2004/733)
+[^13-2]: [SR 510.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7321)
 
 #### Art. 14
 
@@ -255,13 +267,15 @@ Schiessvereine unter besonderer Aufsicht dürfen Bundesübungen nur in Anwesenhe
 
 **Meldung von Bundesübungen, Schiessübungen und Schiesskursen**[^16-1]
 
-<sup>1</sup> Der Schiessverein trägt mindestens 14 Tage vor der ersten Bundesübung, spätestens aber bis zum 10. April, Zeit und Ort aller bis am 31. August vorgesehenen Bundesübungen, freiwilligen Schiessübungen sowie Schiesskurse in das System der Vereins- und Verbandsadministration (VVAdmin) ein.
+<sup>1</sup> Der Schiessverein trägt mindestens 14 Tage vor der ersten Schiessübung, spätestens aber am 10. April, Zeit und Ort aller bis am 31. August vorgesehenen Bundesübungen und bis Ende Kalenderjahr sämtliche weiteren freiwilligen Schiessübungen sowie Schiesskurse in das Informationssystem Schiesswesen und Ausserdienstliche Tätigkeiten (SAT-Admin) ein.[^16-2]
 
-<sup>2</sup> Muss ein Eintrag nach dem 10. April geändert werden, so ist dies sofort dem Mitglied der kantonalen Schiesskommission zu melden, das die Änderung im System der VVAdmin nachführt.
+<sup>2</sup> Muss ein Eintrag nach dem 10. April geändert werden, so ist dies sofort dem Mitglied der kantonalen Schiesskommission zu melden, dass die Änderung im SAT-Admin nachführt.[^16-3]
 
 <sup>3</sup> Vor dem Instruktionsrapport dürfen die Schiessvereine Bundesübungen, Jungschützenkurse sowie Pistolenjuniorenkurse nur mit Einwilligung der Präsidentin oder des Präsidenten der zuständigen kantonalen Schiesskommission durchführen.
 
 [^16-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^16-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^16-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 17
 
@@ -284,11 +298,13 @@ Schiessvereine unter besonderer Aufsicht dürfen Bundesübungen nur in Anwesenhe
 
 **Teilnahmeberechtigung für Jungschützinnen und Jungschützen sowie Pistolenjuniorinnen und Pistolenjunioren**
 
-<sup>1</sup> Zu den Bundesübungen auf Distanz von 300 m können auch die Teilnehmerinnen und Teilnehmer der Jungschützenkurse zugelassen werden.
+<sup>1</sup> Zu den Bundesübungen auf Distanz von 300 m sind auch die Teilnehmerinnen und Teilnehmer der Jungschützenkurse zugelassen.[^18-1]
 
 <sup>2</sup> Zu den Bundesübungen auf Distanz von 25 m können auch Schützinnen und Schützen zugelassen werden, die im betreffenden Jahr das 17. Altersjahr vollenden und an einem Ausbildungskurs für Juniorinnen und Junioren im Pistolenschiessen teilnehmen.
 
 <sup>3</sup> Der SSV kann weitere Schützinnen und Schützen zur Teilnahme am Feldschiessen zulassen. Für diese kann Kaufmunition bezogen werden. Sie sind nicht militärversichert und es besteht kein Anspruch auf Bundesleistungen.
+
+[^18-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 19
 
@@ -401,11 +417,15 @@ Die Schiesspflicht gilt als bestanden, wenn die oder der Schiesspflichtige:
 
 <sup>2</sup> Für jede Wiederholung ist ein eigenes Standblatt mit dem Vermerk «Wiederholung 1 oder 2» zu verwenden.
 
-<sup>3</sup> Im Leistungsausweis oder Schiessbüchlein sind die Resultate aller geschossenen Programme einzutragen. Wiederholungen sind mit dem entsprechenden Vermerk «Wiederholung 1 oder 2» zu bezeichnen.
+<sup>3</sup> Im Leistungsausweis sind die Resultate aller geschossenen Programme einzutragen. Wiederholungen sind mit dem entsprechenden Vermerk «Wiederholung 1» beziehungsweise «Wiederholung 2» zu bezeichnen.[^28-1]
 
-<sup>4</sup> Die Schiesspflichtigen, welche die Schiesspflicht auf 300 m nach zwei Wiederholungen nicht bestanden haben, gelten als verblieben.
+<sup>4</sup> Die Schiesspflichtigen, welche die Schiesspflicht auf 300 m nicht bestanden haben, gelten als verblieben.[^28-2]
 
-<sup>5</sup> Die Schiesspflichtigen, welche die Schiesspflicht auf 25 m nach zwei Wiederholungen nicht bestanden haben, müssen das obligatorische Programm 300 m schiessen (Art. 10 Abs. 2 Schiessverordnung).
+<sup>5</sup> Die Schiesspflichtigen, welche die Schiesspflicht auf 25 m nicht bestanden haben, müssen das obligatorische Programm 300 m schiessen (Art. 10 Abs. 2 Schiessverordnung).[^28-3]
+
+[^28-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^28-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^28-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 3. Abschnitt: Feldschiessen
 
@@ -427,7 +447,9 @@ Die Schiesspflicht gilt als bestanden, wenn die oder der Schiesspflichtige:
 
 <sup>1</sup> Der SSV legt im Einvernehmen mit der Gruppe Verteidigung die Schiesstage fest.
 
-<sup>2</sup> Auf den Schiessanlagen, auf denen das Feldschiessen stattfindet, dürfen an den betreffenden Schiesshalbtagen auf die gleiche Distanz vorher oder gleichzeitig nicht andere Übungen geschossen werden.
+<sup>2</sup> …[^30-1]
+
+[^30-1]: Aufgehoben durch Ziff. I der V des VBS vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 31
 
@@ -529,15 +551,17 @@ Leihwaffen dürfen nicht abgegeben werden an Schützinnen und Schützen, die:
 - e. auf die Ausrüstung mit einer persönlichen Waffe verzichtet haben;
 - f.[^39-5] bereits eine Waffe der gleichen Art vom Bund zu Eigentum erhalten haben oder mit einer solchen Waffe als persönliche Waffe ausgerüstet sind;
 - g.[^39-6] …
-- h. wegen Entzugs von Armeewaffen in der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^39-7] registriert sind.
+- h. wegen Entzugs von Armeewaffen in der Datenbank nach Artikel 32*a* Absatz 1 Buchstabe d des Waffengesetzes vom 20. Juni 1997[^39-7] registriert sind;
+- i.[^39-8] zum Zivildienst zugelassen worden sind.
 
 [^39-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 [^39-2]: Regl 59.10; in der AS nicht veröffentlicht.
-[^39-3]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^39-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^39-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^39-4]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^39-5]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 [^39-6]: Aufgehoben durch Ziff. I der V des VBS vom 23. Jan. 2013, mit Wirkung seit 1. März 2013 ([AS 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
-[^39-7]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^39-7]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^39-8]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 40
 
@@ -547,11 +571,12 @@ Persönliche Leihwaffen werden nur abgegeben, soweit die Bestände es gestatten.
 
 #### Art. 41
 
-**Ausleihe von persönlichen Leihwaffen**
+**Ausleihe von persönlichen Waffen**[^41-1]
 
-Persönliche Leihwaffen dürfen an Dritte zur Teilnahme an ausserdienstlichen Schiessübungen und militärischen Wettkämpfen im Sinne von Artikel 41 Absatz 3 der Verordnung des VBS vom 9. Dezember 2003[^41-1] über die persönliche Ausrüstung der Armeeangehörigen ausgeliehen werden, sofern die Benützerin oder der Benützer Gewähr für eine den Vorschriften entsprechende Handhabung, Wartung und Aufbewahrung der Waffe bietet.
+Persönliche Leihwaffen dürfen an Dritte zur Teilnahme an ausserdienstlichen Schiessübungen und militärischen Wettkämpfen im Sinne von Artikel 20 der Verordnung vom 21. November 2018[^41-2] über die persönliche Ausrüstung der Armeeangehörigen ausgeliehen werden, sofern die Benützerin oder der Benützer Gewähr für eine den Vorschriften entsprechende Handhabung, Wartung und Aufbewahrung der Waffe bietet.
 
-[^41-1]: [SR 514.101](https://fedlex.data.admin.ch/eli/cc/2004/4)
+[^41-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^41-2]: [SR 514.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7492)
 
 #### Art. 42
 
@@ -575,40 +600,43 @@ Persönliche Leihwaffen dürfen an Dritte zur Teilnahme an ausserdienstlichen Sc
 
 **Voraussetzung für den Bezug von persönlichen Leihwaffen**[^45-1]
 
-<sup>1</sup> Die bezugsberechtigten Schützinnen und Schützen erhalten eine Leihwaffe, wenn sie gegenüber der nächstgelegenen Retablierungsstelle der LBA den Nachweis erbringen, dass sie während der letzten drei Jahre zweimal das obligatorische Programm und zweimal das Feldschiessen mit der entsprechenden Waffe geschossen haben.[^45-2]
+<sup>1</sup> Die bezugsberechtigten Schützinnen und Schützen erhalten eine Leihwaffe, wenn sie gegenüber der nächstgelegenen Retablierungsstelle der LBA den Nachweis erbringen, dass sie während der letzten drei Kalenderjahre vier Bundesübungen mit der entsprechenden Waffe geschossen haben.
 
-<sup>2</sup> Im Leistungsausweis oder Schiessbüchlein müssen die entsprechenden Eintragungen enthalten sein.
+<sup>2</sup> Die Dispensation von der Schiesspflicht für Angehörige der Armee bedeutet nicht die Dispensation von der Erfüllung des Schiessnachweises.
 
-<sup>3</sup> …[^45-3]
+<sup>3</sup> Im Leistungsausweis und im SAT-Admin müssen die entsprechenden Eintragungen enthalten sein.
 
-<sup>4</sup> Bezugsberechtigte Schützinnen und Schützen, die nicht in der Armee eingeteilt sind, erhalten die persönliche Leihwaffe nach Vorlage eines gültigen Waffenerwerbsscheins nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^45-4].[^45-5]
+<sup>4</sup> Bezugsberechtigte Schützinnen und Schützen, die nicht in der Armee eingeteilt sind, erhalten die persönliche Leihwaffe nach Vorlage eines gültigen Waffenerwerbsscheins nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^45-2]. In Ausnahmefällen reicht eine Kopie des eingereichten Gesuchs für den Waffenerwerbsschein, das vor mindestens 30 Kalendertagen dem zuständigen Waffenbüro eingereicht worden ist. Wird der gültige Waffenerwerbsschein nicht innerhalb von 30 Kalendertagen nachgereicht, so zieht die LBA die Leihwaffe zurück.
 
-<sup>5</sup> Angehörige der Armee, die auf eine andere persönliche Waffe umgerüstet werden, erhalten eine persönliche Leihwaffe, ohne den Schiessnachweis nach Absatz 1 erbringen zu müssen.[^45-6]
+<sup>5</sup> Angehörige der Armee, die auf eine andere persönliche Waffe umgerüstet werden, erhalten eine persönliche Leihwaffe, ohne den Schiessnachweis nach Absatz 1 erbringen zu müssen.
 
-[^45-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
-[^45-2]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
-[^45-3]: Aufgehoben durch Ziff. I der V des VBS vom 14. Dez. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
-[^45-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^45-5]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
-[^45-6]: Eingefügt durch Ziff. I der V des VBS vom 23. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
+[^45-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^45-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 46
 
 **Kontrolle der Leihwaffen**[^46-1]
 
-<sup>1</sup> Die nächstgelegene Retablierungsstelle der LBA führt Kontrolle über die abgegebenen Leihwaffen. Besitzerinnen und Besitzer einer persönlichen Leihwaffe haben diese mit Dienstbüchlein, Leistungsausweis oder Schiessbüchlein mindestens alle drei Jahre unaufgefordert im nächstgelegenen Armeelogistikcenter zur Kontrolle vorzuweisen. Gleichzeitig haben sie die Berechtigung zur Belassung der Leihwaffe nachzuweisen.
+<sup>1</sup> Die LBA führt Kontrolle über die abgegebenen Leihwaffen. Besitzerinnen und Besitzer einer persönlichen Leihwaffe haben diese mindestens alle drei Jahre unaufgefordert im nächstgelegenen Armeelogistikcenter zur Kontrolle vorzuweisen. Gleichzeitig haben sie die Berechtigung zur Belassung der Leihwaffe nachzuweisen.[^46-2]
 
 <sup>2</sup> Die Bedingungen zur Belassung der Leihwaffe sind erfüllt, wenn die Leihwaffenbesitzerinnen und Leihwaffenbesitzer den Schiessnachweis nach Artikel 45 Absatz 1 erbracht haben.
 
-<sup>3</sup> Die Besitzerinnen und Besitzer einer Leihwaffe tragen die Reise- und Transportkosten.
+<sup>3</sup>
 
-<sup>4</sup> …[^46-2]
+Der Schiessnachweis nach Artikel 45 Absatz 1 wird belegt durch entsprechende Einträge im:
 
-<sup>5</sup> Die LBA kann die Berechtigung zur Belassung von Leihwaffen jederzeit überprüfen. Sie erlässt die notwendigen Weisungen.[^46-3]
+- a. SAT-Admin; und
+- b. Schiessbüchlein oder militärischen Leistungsausweis.[^46-3]
+
+<sup>4</sup> Die Besitzerinnen und Besitzer einer Leihwaffe tragen die Reise- und Transportkosten.[^46-4]
+
+<sup>5</sup> Die LBA kann die Berechtigung zur Belassung von Leihwaffen jederzeit überprüfen. Sie erlässt die notwendigen Weisungen.[^46-5]
 
 [^46-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
-[^46-2]: Aufgehoben durch Ziff. I der V des VBS vom 23. Jan. 2013, mit Wirkung seit 1. März 2013 ([AS 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
-[^46-3]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^46-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^46-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^46-4]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^46-5]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 #### Art. 47
 
@@ -626,13 +654,23 @@ Die Besitzerin oder der Besitzer einer persönlichen Leihwaffe gibt diese sofort
 Die LBA zieht die persönliche Leihwaffe insbesondere ein, wenn:
 
 - a. deren Besitzerin oder Besitzer daran vorschriftswidrige Änderungen vorgenommen hat oder zugelassen hat, dass solche vorgenommen werden;
-- b. deren Besitzerin oder Besitzer den Schiessnachweis nach Artikel 45 Absatz 1 nicht erbracht hat;
+- b.[^47-2] deren Besitzerin oder Besitzer den Schiessnachweis nach Artikel 45 Absatz 1 nicht erbracht hat; sie oder er kann eine erneute Überprüfung durch die LBA innerhalb von 30 Tagen fordern;
 - c. deren Besitzerin oder Besitzer der Kontrollpflicht nach Artikel 46 Absatz 1 nach erfolgter Mahnung nicht nachgekommen ist;
 - d. eine Bezugseinschränkung nach Artikel 39 besteht.
 
-<sup>3</sup> Der Einzug nach Absatz 2 Buchstabe a ist definitiv. Der Einzug nach Absatz 2 Buchstabe c erfolgt für mindestens drei Jahre.
+<sup>3</sup> Der Einzug nach Absatz 2 Buchstabe a ist definitiv. Der Einzug nach Absatz 2 Buchstabe c erfolgt für mindestens ein Jahr.[^47-3]
 
 [^47-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Jan. 2013, in Kraft seit 1. März 2013 ([AS 2013 557](https://fedlex.data.admin.ch/eli/oc/2013/107)).
+[^47-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^47-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+
+#### Art. 47a
+
+**Schaden und Verlust**[^47a-1]
+
+Die Besitzerin oder der Besitzer ist für die ihr oder ihm anvertraute Leihwaffe verantwortlich und haftet für Schaden und Verlust.
+
+[^47a-1]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 3. Abschnitt: Unpersönliche Leihwaffen
 
@@ -642,7 +680,7 @@ Die LBA zieht die persönliche Leihwaffe insbesondere ein, wenn:
 
 <sup>1</sup> Die anerkannten Schiessvereine sind berechtigt, für die Durchführung von Jungschützenkursen Stgw 90 zu beziehen. Die Abgabebestimmungen werden durch die Gruppe Verteidigung erlassen.
 
-<sup>2</sup> Die Leihsturmgewehre sind drei Wochen vor Kursbeginn mithilfe des Systems der VVAdmin zu bestellen.[^48-1]
+<sup>2</sup> Die Leihsturmgewehre sind drei Wochen vor Kursbeginn mithilfe des SAT-Admin zu bestellen.[^48-1]
 
 <sup>3</sup> Die Leihsturmgewehre werden von den nächstgelegenen Retablierungsstellen der LBA ab dem 15. Februar des jeweiligen Kursjahres zur Abholung bereitgestellt. Die Abgabe erfolgt nur an Jungschützenleiterinnen und Jungschützenleiter, die sich als solche ausweisen und einen amtlichen Ausweis vorlegen können, oder an eine von der bestellenden Jungschützenleiterin oder dem bestellenden Jungschützenleiter bevollmächtigte Person unter Vorlage eines amtlichen Ausweises.[^48-2]
 
@@ -650,7 +688,7 @@ Die LBA zieht die persönliche Leihwaffe insbesondere ein, wenn:
 
 <sup>5</sup> Der Hin- und Rücktransport der Leihwaffen für Jungschützenkurse ist Sache des Schiessvereins.
 
-[^48-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^48-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 [^48-2]: Fassung gemäss Ziff. I der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 [^48-3]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
 
@@ -658,9 +696,11 @@ Die LBA zieht die persönliche Leihwaffe insbesondere ein, wenn:
 
 **Leihwaffen zur Ausbildung von Juniorinnen und Junioren im Pistolenschiessen**
 
-<sup>1</sup> An der Schweizerischen Pistolenschiessschule ausgebildete Trainerinnen und Trainer des SSV sind berechtigt, für die Juniorinnen und Junioren (Art. 18 Abs. 2), die an den Bundesübungen und freien Pistolenschiessen teilnehmen, Leihpistolen 75 zu beziehen.
+<sup>1</sup> Ausgebildete Leiterpersonen und Trainerinnen und Trainer des SSV sind berechtigt, für die Juniorinnen und Junioren, die an den Bundesübungen und freien Pistolenschiessen teilnehmen, Leihpistolen 75 zu beziehen.[^49-1]
 
 <sup>2</sup> Abgabegesuche sind mit Angabe der Personalien der betreffenden Juniorinnen und Junioren an die Gruppe Verteidigung zu stellen.
+
+[^49-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 50
 
@@ -726,13 +766,17 @@ Die Munition für das Schiesswesen ausser Dienst wird durch die Gruppe Verteidig
 
 <sup>2</sup> Die anerkannten Schiessvereine sind nach Massgabe von Anhang 4 berechtigt, jährlich im Rahmen der bewilligten Kredite Gratis- und Kaufmunition zur Deckung ihres Jahresbedarfs anzufordern.
 
+<sup>3</sup> Betreiber von Gemeinschaftsschiessanlagen können Ordonnanzmunition für Schiessen im Sinne dieser Verordnung beim VBS beziehen. Sie sorgen für eine angemessene Kontrolle der Munitionsabgabe.[^56-1]
+
+[^56-1]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+
 #### Art. 57
 
 **Verwendung**
 
 <sup>1</sup> Für das Schiesswesen ausser Dienst bezogene Munition darf nur auf den bewilligten Schiessanlagen oder Schiessgeländen verwendet werden.
 
-<sup>2</sup> und <sup>3</sup> …[^57-1]
+<sup>2 und <sup>3</sup></sup> …[^57-1]
 
 [^57-1]: Aufgehoben durch Ziff. I der V des VBS vom 4. Dez. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6797](https://fedlex.data.admin.ch/eli/oc/2007/872)).
 
@@ -768,7 +812,7 @@ Die anerkannten Schiessvereine müssen über bezogene, geschossene und zurückge
 
 <sup>1</sup>
 
-Bei Munitionsstörungen sind der Munitionsabgabestelle ohne Verzug zu übermitteln:
+Bei Munitionsstörungen sind der Gruppe Verteidigung ohne Verzug zu übermitteln:[^60-1]
 
 - a. die Patrone oder Hülse, bei der die Störung auftrat;
 - b. das Paket mit dem noch vorhandenen Rest der Munition sowie allenfalls die Papierumhüllung mit dem Aufdruck der Laborierdaten, die Plombe und der Packzettel;
@@ -782,15 +826,18 @@ Bei Munitionsstörungen sind der Munitionsabgabestelle ohne Verzug zu übermitte
   - 4\. Beschreibung des Lagerraums der Munition,
   - 5\. Personalien der Schützin oder des Schützen, der Schützenmeisterin oder des Schützenmeisters und der Vereinspräsidentin oder des Vereinspräsidenten.
 
-<sup>2</sup> Ist mit der Munitionsstörung gleichzeitig ein Waffendefekt eingetreten, so ist die Waffe in unverändertem und ungereinigtem Zustand, etikettiert und zusammen mit der Übermittlung nach Absatz 1 der nächstgelegenen Retablierungsstelle der LBA zur Abklärung zuzustellen.[^60-1]
+<sup>2</sup> Ist mit der Munitionsstörung gleichzeitig ein Waffendefekt an einer bundeseigenen Waffe eingetreten, so ist die Waffe in unverändertem und ungereinigtem Zustand, etikettiert und zusammen mit der Übermittlung nach Absatz 1 der nächstgelegenen Retablierungsstelle der LBA zur Abklärung zuzustellen.[^60-2]
 
-[^60-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^60-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+[^60-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 61
 
-**Munitions- und Verpackungsfehler**
+**Munitions- und Verpackungsfehler**[^61-1]
 
-Allfällige Munitions- und Verpackungsfehler sind unter Beilage des Lieferscheins und der Verpackung mit Etikette der betreffenden Sendung unverzüglich der Munitionsabgabestelle zu melden.
+Allfällige Munitions- und Verpackungsfehler sind unter Beilage des Lieferscheins und der Verpackung mit Etikette der betreffenden Sendung unverzüglich der Gruppe Verteidigung zu melden.
+
+[^61-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 62
 
@@ -828,9 +875,11 @@ Die Entschädigungen an den SSV werden gemäss Anhang 6 aufgrund der erhaltenen 
 
 <sup>1</sup> Die Bundesleistungen an die Vereine werden gemäss Anhang 6 ausgerichtet, wenn die Standblätter und die Schiessberichte vorschriftsgemäss ausgefüllt und termingerecht eingereicht worden sind.
 
-<sup>2</sup> Die Bundesleistungen werden jährlich einmal pro Bundesübung und nur für die vorschriftsgemäss geschossenen und beendeten Übungen ausgerichtet, sofern bei deren Absolventinnen und Absolventen eine Einteilung oder Zugehörigkeit nach Artikel 40 Absatz 2 der Schiessverordnung, zwischen dem 1. Januar und dem 31. August des laufenden Jahres, nachgewiesen werden kann.
+<sup>2</sup> Die Bundesleistungen werden jährlich einmal pro Bundesübung und nur für die vorschriftsgemäss geschossenen und beendeten Übungen ausgerichtet, sofern bei deren Absolventinnen und Absolventen eine Zugehörigkeit zu einer Kategorie nach Artikel 40 Absatz 2 der Schiessverordnung für den Zeitraum zwischen dem 1. Januar und dem 31. August des laufenden Jahres nachgewiesen werden kann.[^65-1]
 
 <sup>3</sup> In den Bundesleistungen an die Vereine inbegriffen ist eine Abgeltung des Versicherungsschutzes gegen die Folgen von Sachschäden und die Haftpflicht für die Teilnehmerinnen und Teilnehmer an Bundesübungen und Vorübungen dazu sowie an Schiesskursen nach Artikel 42 Absatz 2 der Schiessverordnung.
+
+[^65-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 66
 
@@ -880,11 +929,11 @@ Die Richtigkeit der Eintragungen ist durch ein Vorstandsmitglied unterschriftlic
 
 #### Art. 70
 
-**Meldung über die erfüllte Schiesspflicht**[^70-1]
+**Meldung über die Bundesübungen**[^70-1]
 
-Die Schiessvereine tragen sämtliche Personen, die gemäss Terminliste der Gruppe Verteidigung an den Bundesübungen teilnehmen, in das System der VVAdmin ein.
+Die Schiessvereine tragen sämtliche Personen, die gemäss Terminliste der Gruppe Verteidigung an den Bundesübungen teilnehmen, in das SAT-Admin ein.
 
-[^70-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^70-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 3. Abschnitt: Verbliebenenverzeichnis
 
@@ -892,9 +941,9 @@ Die Schiessvereine tragen sämtliche Personen, die gemäss Terminliste der Grupp
 
 [^71-1]
 
-Der Schiessverein meldet die Verbliebenen durch Eintrag in das System der VVAdmin dem zuständigen Mitglied der kantonalen Schiesskommission.
+Der Schiessverein meldet die Verbliebenen durch Eintrag im SAT-Admin dem zuständigen Mitglied der kantonalen Schiesskommission.
 
-[^71-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^71-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 4. Abschnitt: Schiessbericht
 
@@ -902,19 +951,19 @@ Der Schiessverein meldet die Verbliebenen durch Eintrag in das System der VVAdmi
 
 **Erstellung und Übermittlung des Schiessberichts**[^72-1]
 
-<sup>1</sup> Der Vereinsvorstand erstellt anhand der Standblätter den jährlichen Schiessbericht im System der VVAdmin.
+<sup>1</sup> Der Vereinsvorstand erstellt anhand der Standblätter den jährlichen Schiessbericht im SAT-Admin.
 
-<sup>2</sup> Der Vereinsvorstand bestätigt mit der Erfassung der Daten und der elektronischen Visierung im System der VVAdmin die Richtigkeit der Standblätter und des Schiessberichts.
+<sup>2</sup> Der Vereinsvorstand bestätigt mit der Erfassung der Daten und der elektronischen Visierung im SAT-Admin die Richtigkeit der Standblätter und des Schiessberichts.
 
 <sup>3</sup>
 
 Die Schiessvereine übermitteln jährlich innerhalb der vorgesehenen Fristen dem zuständigen Mitglied der kantonalen Schiesskommission:
 
 - a. die Standblätter der Bundesübungen und des Jungschützenkurses;
-- b. den Schiessbericht mithilfe des Systems der VVAdmin;
-- c. die Munitionsbestellung für das folgende Jahr mithilfe des Systems der VVAdmin.
+- b. den Schiessbericht mithilfe des Systems SAT-Admin;
+- c. die Munitionsbestellung für das folgende Jahr mithilfe des SAT-Admin.
 
-[^72-1]: Fassung gemäss Ziff. I der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^72-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 #### Art. 73
 
@@ -946,15 +995,27 @@ Die Information der Betroffenen und das Formularwesen sind in Anhang 5 geregelt.
 
 #### Art. 77
 
-**Jahresabrechnung**
+**Auszahlung von Bundesbeiträgen und Vergütung von Gratismunition**[^77-1]
 
-<sup>1</sup> Die Gruppe Verteidigung stellt bis Ende Jahr den Schiessvereinen die Jahresabrechnung zu. Diese weist die Guthaben für die Barbeiträge, die berechtigt verschossene Gratismunition und die Forderungen des Bundes für die bezogene Kaufmunition und allenfalls weitere Verrechnungsposten aus.
+<sup>1</sup> Die Gruppe Verteidigung stellt den Schiessvereinen bis Ende Jahr die Jahresabrechnung zu. Diese weist die Guthaben für die Barbeiträge und die berechtigt verschossene Gratismunition aus.
 
-<sup>2</sup> Schliesst die Jahresabrechnung zugunsten des Schiessvereins ab, so wird diesem sein Guthaben bis Ende Jahr ausbezahlt. Schliesst sie zugunsten des Bundes ab, so ist dessen Guthaben innerhalb von 30 Tagen nach Ausstellung zu begleichen.
+<sup>2</sup> Das Guthaben zugunsten des Schiessvereins wird diesem bis Ende Jahr ausbezahlt.
 
-<sup>3</sup> Säumige Vereine werden durch die Gruppe Verteidigung unter Fristansetzung einmal gemahnt. Hat diese Mahnung keinen Erfolg, so können gegen die betreffenden Vereine Massnahmen nach Artikel 51 Absatz 2 Schiessverordnung getroffen werden.
+<sup>3</sup> Einsprachen gegen die Jahresabrechnung oder gegen allfällige Revisionsentscheide sind innert zehn Tagen nach Empfang auf dem Dienstweg an die Gruppe Verteidigung zu richten.
 
-<sup>4</sup> Einsprachen gegen die Jahresabrechnung oder gegen allfällige Revisionsentscheide sind innert zehn Tagen nach Empfang auf dem Dienstweg an die Gruppe Verteidigung zu richten.
+<sup>4</sup> Die Gruppe Verteidigung stellt dem SSV bis Ende Jahr die Zahlen betreffend die bezogene Munition pro Verein zur Verfügung.
+
+[^77-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
+
+#### Art. 77a
+
+**Munitionsrechnung**[^77a-1]
+
+<sup>1</sup> Die im Vorjahr bestellte Ordonnanzmunition, inklusive Nachbestellungen, werden den Schiessvereinen durch die Gruppe Verteidigung in Rechnung gestellt.
+
+<sup>2</sup> Säumige Vereine werden durch die Gruppe Verteidigung unter Fristansetzung einmal gemahnt. Wird die Rechnung nicht innerhalb der Frist beglichen, so können gegen die betreffenden Vereine Massnahmen nach Artikel 51 Absatz 2 der Schiessverordnung getroffen werden.
+
+[^77a-1]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ## 11. Kapitel: Schlussbestimmungen
 
@@ -974,7 +1035,7 @@ Die Information der Betroffenen und das Formularwesen sind in Anhang 5 geregelt.
 
 Die Schiessordnung-VBS vom 29. Februar 1996[^79-1] wird aufgehoben.
 
-[^79-1]: [[AS 1996 1351](https://fedlex.data.admin.ch/eli/oc/1996/1351_1351_1351), [1999 1378](https://fedlex.data.admin.ch/eli/oc/1999/195), [2003 362](https://fedlex.data.admin.ch/eli/oc/2003/71)]
+[^79-1]: [[AS 1996 1351](https://fedlex.data.admin.ch/eli/oc/1996/1351_1351_1351); [1999 1378](https://fedlex.data.admin.ch/eli/oc/1999/195); [2003 362](https://fedlex.data.admin.ch/eli/oc/2003/71)]
 
 #### Art. 80
 
@@ -982,13 +1043,13 @@ Die Schiessordnung-VBS vom 29. Februar 1996[^79-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2004 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 17 Abs. 4)
 
 ## Bundesübungen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) und Ziff. II Abs. 1 der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-2]: Bereinigt gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)), Ziff. II Abs. 1 der V des VBS vom 14. Dez. 2015 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) und Ziff. II der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Allgemeines
 
@@ -1002,11 +1063,11 @@ Anhang 1*[^t-2]*
 
 ### 12 Stellungen
 
-<sup>1</sup> Mit Karabiner (Kar) oder Langgewehr können die einzelnen Übungen entweder liegend frei oder liegend aufgelegt geschossen werden. Mit Stgw 57 ist das Programm ab Mittel- oder Vorderstütze, mit Stgw 90 ab Zweibeinstütze zu schiessen.
+<sup>1</sup> Mit Karabiner (Kar) oder Langgewehr können die einzelnen Übungen entweder liegend frei, liegend aufgelegt oder ab Zweibeinstütze geschossen werden. Mit Stgw 57 ist das Programm ab Mittel- oder Vorderstütze, mit Stgw 90 ab Zweibeinstütze zu schiessen.
 
 <sup>2</sup> Bei der Stellung «liegend frei» mit Kar oder Langgewehr darf der Oberkörper nur auf beiden Ellbogen ruhen. Weder der Ober- noch der Unterarm noch der Handrücken noch der Abzugsbügel darf aufliegen. Die Verwendung von Kissen oder ähnlichen Polsterungen ist verboten.
 
-<sup>3</sup> Bei der Stellung «liegend aufgelegt» mit Kar oder Langgewehr muss die Waffe auf der Unterlage frei und ohne Befestigung aufliegen. Anstelle der direkten Auflage der Waffe kann auch die die Waffe haltende Hand auf der Unterlage aufliegen bzw. der Vorderarm an der Unterlage angelegt werden.
+<sup>3</sup> Bei der Stellung «liegend aufgelegt» mit Kar oder Langgewehr muss die Waffe auf der Unterlage frei und ohne Befestigung aufliegen. Anstelle der direkten Auflage der Waffe kann auch die die Waffe haltende Hand auf der Unterlage aufliegen bzw. der Vorderarm an der Unterlage angelegt werden. In diesem Fall darf das Gewehr die Unterlage nicht berühren. Der Oberarm darf weder auf- noch anliegen.
 
 <sup>4</sup> Als Unterlage können gepolsterte Holzkonstruktionen oder Stative und dergleichen verwendet werden. Unterlagen, die eine seitliche Stabilisierung der Waffe ermöglichen, sind verboten.
 
@@ -1014,7 +1075,7 @@ Anhang 1*[^t-2]*
 
 <sup>6</sup> Mit Faustfeuerwaffen darf nur freistehend und mit freien Armen ein- oder zweihändig geschossen werden. Die Waffe selbst (Pistolengriff) darf nur mit einer Hand gehalten werden. Die Benützung von Schlaufen ist verboten.
 
-<sup>7</sup> Beim Pistolenschiessen beginnt das Schiessen für alle zeitgebundenen Feuer und Programme aus der «Bereitstellung». Der Schiessarm bzw. die Schiessarme (beim zweihändigen Schiessen), dürfen von unten höchstens 45° von der Senkrechten abweichen und müssen in dieser Stellung gehalten werden. Wenn die Ladebank dies verhindert, müssen die Arme mindestens bis auf diese gesenkt werden.
+<sup>7</sup> Beim Pistolenschiessen beginnt das Schiessen für alle zeitgebundenen Feuer und Programme aus der «Bereitstellung». Der Schiessarm bzw. die Schiessarme (beim zweihändigen Schiessen) dürfen von unten höchstens 45° von der Senkrechten abweichen und müssen in dieser Stellung gehalten werden. Wenn die Ladebank dies verhindert, muss die Pistole respektive der Schiessarm mindestens auf diese abgesenkt werden, ohne sie zu berühren.
 
 <sup>8</sup> In der «Bereitstellung» wartet der Schütze mit abwärts gehaltener Waffe bis auf das Kommando (Kdo) «Feuer» oder auf das Erscheinen der Scheiben. Erst auf das Kdo «Feuer» oder wenn die Scheiben zu drehen beginnen, darf der Schütze die Waffe in Anschlag nehmen. Nach dem Abheben der Waffe darf das Ziel nur von unten anvisiert werden.
 
@@ -1210,7 +1271,7 @@ Anhang 2
 
 Die kombinierte Scheibe A hat einen weissen Grund von mindestens 150 cm Breite und 165 cm Höhe und als Zentrum einen schwarzen Kreis von 60 cm Durchmesser. Das Trefferfeld von 100 cm Durchmesser ist in fünf bzw. zehn gleichmässige Kreise eingeteilt.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/de/xml/image/image1.png)
 
 Kombinierte Scheibe A
 
@@ -1218,7 +1279,7 @@ Kombinierte Scheibe A
 
 Die kombinierte Feldscheibe B hat einen hellgrauen Grund von mindestens 150 cm Breite und 165 cm Höhe. Als Zentrum hat sie ein grünes Brustbild von 45 cm Breite und 50 cm Höhe, das bis 100 × 100 cm mit grauen und oliven Tarnfeldern umgeben ist. Das Trefferfeld von 100 cm Durchmesser ist in vier Felder bzw. zehn gleichmässige Kreise eingeteilt.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/de/xml/image/image2.png)
 
 Kombinierte Feldscheibe B
 
@@ -1226,7 +1287,7 @@ Kombinierte Feldscheibe B
 
 Die Kombinationsscheibe P hat einen weissen Grund von 100 × 100 cm Grösse und als Zentrum einen schwarzen Kreis von 20 cm Durchmesser. Das Trefferfeld von 100 cm Durchmesser ist in vier bzw. zehn Kreise eingeteilt.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/de/xml/image/image3.png)
 
 Kombinationsscheibe P
 
@@ -1234,7 +1295,7 @@ Kombinationsscheibe P
 
 Die kombinierte Pistolenscheibe B hat einen hellgrauen Grund von 100 × 100 cm Grösse und als Zentrum ein grünes Brustbild von 45 cm Breite und 50 cm Höhe. Das Trefferfeld von 100 cm Durchmesser ist in fünf Felder bzw. zehn Kreise eingeteilt.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/de/xml/image/image4.png)
 
 Kombinierte Pistolenscheibe B
 
@@ -1244,15 +1305,17 @@ Das schwarze Scheibenbild ist 76 cm hoch und 45 cm breit und von einem zirka 1 c
 
 Die Zehner-Wertungszone ist 10 cm breit und 15 cm hoch. Die Wertungszonen von neun bis sechs sind ähnlich geformt. Ihre Breite wird um jeweils 10 cm grösser (5 cm an jeder Seite) und die Höhe um 15 cm (7,5 cm oben und 7,5 cm unten). Die Wertungszonen sind mit Zahlen bezeichnet (Ausnahme Zehnerzone). Treffer im schwarzen Teil der Scheibe ausserhalb des Ringes sechs sind als Nuller zu werten.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20160101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/1/20230101/de/xml/image/image5.png)
 
 25 m Ordonnanz-Schnellfeuer-Pistolenscheibe
 
-Anhang 3
+Anhang 3[^t-3]
 
 (Art. 22 Abs. 2)
 
 ## Zeigerordnung
+
+[^t-3]: Bereinigt gemäss Ziff. II der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Allgemeines
 
@@ -1347,7 +1410,7 @@ Die Trefferwerte sind mit folgenden Zeigerkellen anzuzeigen:
 
 ### 10 Gültige Treffer
 
-<sup>1</sup> Die in der vorgeschriebenen Zeit nicht abgegebenen Schüsse sind auf dem Standblatt mit Null einzutragen. Ein Nachschiessen ist nur bei Materialbruch gestattet. Waffen- und Ladestörungen gehen zu Lasten des Schützen.
+<sup>1</sup> Die in der vorgeschriebenen Zeit nicht abgegebenen Schüsse sind auf dem Standblatt mit Null einzutragen. Ein Nachschiessen ist nur bei Materialbruch, Munitionsversagen oder Störungen, die der Schütze von sich aus nicht hätte verhindern können, gestattet.
 
 <sup>2</sup> Für zu spät abgegebene Schüsse im raschen Einzelfeuer muss die gleiche Zahl der besten Treffer gestrichen werden. Bei elektronischen Trefferanzeigeanlagen werden die letzten überzähligen Treffer gestrichen.
 
@@ -1363,13 +1426,13 @@ Die Trefferwerte sind mit folgenden Zeigerkellen anzuzeigen:
 
 <sup>6</sup> Auf Drehscheibenanlagen werden als gültige Treffer nur runde Schusslöcher gewertet. Angerissene Schusslöcher von mehr als 11 mm Länge, die von zu spät abgegebenen Schüssen herrühren, zählen als Null.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-4]
 
 (Art. 54, 56 Abs. 2, 58 Abs. 2)
 
 ## Bestellung und Rückschub der Munition
 
-[^t-3]: Bereinigt gemäss Ziff. I der V des VBS vom 4. Dez. 2007 ([AS 2007 6797](https://fedlex.data.admin.ch/eli/oc/2007/872)), Ziff. II der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) und Ziff. II Abs. 1 der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-4]: Bereinigt gemäss Ziff. I der V des VBS vom 4. Dez. 2007 ([AS 2007 6797](https://fedlex.data.admin.ch/eli/oc/2007/872)), Ziff. II der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)), Ziff. II Abs. 1 der V des VBS vom 14. Dez. 2015 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) und Ziff. II der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Munitionsbestellungen
 
@@ -1377,53 +1440,50 @@ Anhang 4*[^t-3]*
 
 <sup>1</sup> Der SSV hat seine Bestellungen der Gruppe Verteidigung einzureichen.
 
-<sup>2</sup> Organisationskomitees (OK), die im Auftrag des SSV einen Schiessanlass durchführen, haben die Bestellung unter Vorlage eines Versicherungsnachweises bei der Gruppe Verteidigung einzureichen.
+<sup>2</sup> Organisationskomitees (OK), die einen durch den SSV bewilligten Schiessanlass durchführen, haben die Bestellung unter Vorlage eines Versicherungsnachweises bei der Gruppe Verteidigung einzureichen.
 
-### 12 Anerkannte Schiessvereine
+### 12 Anerkannte Schiessvereine und Gemeinschaftsschiessanlagen
 
-<sup>1</sup> Die Munitionsbestellungen sind durch die Schiessvereine zusammen mit den Schiessberichten mithilfe des Systems der VVAdmin dem zuständigen Mitglied der kantonalen Schiesskommission zur Prüfung und Weiterleitung an die Präsidentin oder den Präsidenten (Präsident) der kantonalen Schiesskommission einzureichen. Der Präsident der kantonalen Schiesskommission leitet die Bestellungen mithilfe des Systems der VVAdmin bis zum 30. Oktober des laufenden Jahres an die Gruppe Verteidigung weiter.
+<sup>1</sup> Die Munitionsbestellungen sind durch die Schiessvereine zusammen mit den Schiessberichten bis jeweils zum 20. September mithilfe des SAT-Admin dem zuständigen Mitglied der kantonalen Schiesskommission zur Prüfung und Weiterleitung an die Präsidentin oder den Präsidenten der kantonalen Schiesskommission einzureichen. Die Präsidentin oder der Präsident der kantonalen Schiesskommission leitet die Bestellungen mithilfe des SAT-Admin bis zum 30. Oktober des laufenden Jahres an die Gruppe Verteidigung weiter.
 
-<sup>2</sup> Allfällige Nachbestellungen sind direkt über das System der VVAdmin abzuwickeln.
+<sup>2</sup> Die Munitionsbestellungen für Gemeinschaftsschiessanlagen sind jeweils bis zum 20. September mithilfe des Systems des SAT-Admin dem zuständigen Mitglied der kantonalen Schiesskommission zur Prüfung und Weiterleitung an die Präsidentin oder den Präsidenten der kantonalen Schiesskommission einzureichen. Die Präsidentin oder der Präsident der kantonalen Schiesskommission leitet die Bestellungen mithilfe des SAT-Admin bis zum 30. Oktober des laufenden Jahres an die Gruppe Verteidigung weiter.
 
-### 13 Organisation von Schiessen ausserhalb anerkannter Schiessvereine
+<sup>3</sup> Allfällige Nachbestellungen sind direkt über das SAT-Admin abzuwickeln.
 
-Die Munitionsbestellung ist zusammen mit dem Gesuch nach Artikel 4 an die Gruppe Verteidigung zu richten.
+### 13 Organisation von Schiessen ausserhalb anerkannter Schiessvereine oder von historischen Schiessen
 
-### 14 Jugendschiessen
+Die Munitionsbestellung ist zusammen mit dem Gesuch nach Artikel 4 beziehungsweise Artikel 4*a* an die Gruppe Verteidigung zu richten.
+
+### 14 Jugendschiessanlässe
 
 Die Munitionsbestellung ist zusammen mit dem Gesuch nach Artikel 3 an die Gruppe Verteidigung zu richten.
 
 ### 15 Kleinere Schiessanlässe
 
-<sup>1</sup> Munition für kleinere Schiessanlässe kann auf Gesuch hin, bis zu 5000 Schuss pro Munitionssorte, bei einem Schiessverein bezogen werden.
+<sup>1</sup> Munition für kleinere Schiessanlässe kann bis zu 5000 Schuss pro Munitionssorte bei einem Schiessverein bezogen werden.
 
-<sup>2</sup> Das Verfahren richtet sich nach Ziffer 3.
+<sup>2</sup> …
 
 ### 2 Munitionslieferung durch das Armeelogistik-Center Thun, Aussenstelle Zentrallager Uttigen (ALC-TH/AS ZL Uttigen)
 
 <table>
-<tr><td>Organisation</td><td>Gruppe</td><td>Bestellung/ Adressat</td><td>Termin</td><td>Lieferung</td><td>Rückschub</td><td>Rechnung</td></tr>
-<tr><td>21 SSV (oder in Vertretung durch das OK des betr. Anlasses)</td><td>A, B, C\*</td><td>Gruppe Verteidigung</td><td>gemäss Vorschriften des SSV</td><td>Lieferschein des LTHU/ AS ZL Uttigen</td><td>Rückschubliste/Transportpapier an LTHU/AS ZL Uttigen. Die Restmunition ist vollständig zurückzuschieben</td><td>Gruppe Verteidigung</td></tr>
+<tr><th>Organisation</th><th>Kategorie</th><th>Bestellung/ Adressat</th><th>Termin</th><th>Lieferung</th><th>Rückschub</th><th>Rechnung</th></tr>
+<tr><td>21 SSV (oder in Vertretung durch das OK des betr. Anlasses)</td><td>A, B, C\*</td><td>Gruppe Verteidigung</td><td>gemäss Vorschriften des SSV</td><td>Lieferschein des LTHU/ AS ZL Uttigen</td><td>Rückschubliste/Transportpapier an LTHU/AS ZL Uttigen. Die Restmunition ist vollständig zurückzuschieben.</td><td>Gruppe Verteidigung</td></tr>
 </table>
 
-Bei Munitionsbezügen über 30 000 Franken ist der Gruppe Verteidigung eine bis zur Bezahlung der Rechnung gültige Bankgarantie für den vollen Betrag zu stellen oder eine Anzahlung von 50 % der bestellten Munition zu leisten.
+Bei Munitionsbezügen über 30 000 Franken ist der Gruppe Verteidigung eine Anzahlung von 50 % der bestellten Munition zu leisten.
 
 \* A = Bundesübungen, B = Vereinswettkämpfe, C = Schützenfeste
 
 <table>
-<tr><th>Organisation</th><th>Gruppe</th><th>Bestellung/ Adressat</th><th>Termin</th><th>Lieferung</th><th>Rückschub</th><th>Rechnung</th></tr>
-<tr><td>22 Anerkannte Schiessvereine</td><td>A, B</td><td>VVAdmin</td><td>bis 20. 9. des Vorjahres</td><td>Lieferschein des LTHU AS/ZL Uttigen</td><td></td><td>Abrechnung via Jahresrechnung Bundesbeiträge und Munition</td></tr>
-<tr><td></td><td>C</td><td>VVAdmin</td><td>Weisungen des SSV</td><td></td><td></td><td>Gruppe Verteidigung</td></tr>
-<tr><td>Nachbestellungen</td><td>A, B</td><td>VVAdmin</td><td>bis 10. 9. des laufenden Jahres</td><td></td><td></td><td>Abrechnung via Jahresrechnung des Vereins</td></tr>
-<tr><td>23 Schiessanlässe ausserhalb der Schiessvereine</td><td>C</td><td>Gruppe Verteidigung</td><td>3 Monate vor dem Anlass</td><td>Lieferschein des LTHU AS/ZL Uttigen</td><td>Die Restmunition ist vollständig zurückzuschieben</td><td>Gruppe Verteidigung</td></tr>
+<tr><th>Organisation</th><th>Kategorie</th><th>Bestellung/ Adressat</th><th>Termin</th><th>Lieferung</th><th>Rückschub</th><th>Rechnung</th></tr>
+<tr><td>22 Anerkannte Schiessvereine und Gemeinschaftsschiessanlagen</td><td>A, B</td><td>SAT-Admin</td><td>bis 20. 9. des Vorjahres</td><td>Lieferschein des LTHU AS/ZL Uttigen</td><td></td><td>Rechnung durch Gruppe Verteidigung Rückerstattung der Gratismunition durch Gruppe Verteidigung</td></tr>
+<tr><td></td><td>C</td><td>Gruppe Verteidigung</td><td>Weisungen des SSV</td><td></td><td></td><td>Rechnung durch Gruppe Verteidigung</td></tr>
+<tr><td>Nachbestellungen</td><td>A, B</td><td>SAT-Admin</td><td>Im laufenden Jahr</td><td></td><td></td><td>Rechnung durch Gruppe Verteidigung</td></tr>
+<tr><td>23 Schiessanlässe ausserhalb der Schiessvereine und historische Schiessen</td><td>B, C</td><td>Einverständnis Schiessverein und Bewilligungsvermerk durch Gruppe Verteidigung zur Durchführung und zum Munitionsbezug</td><td>3 Monate vor dem Anlass</td><td>Lieferschein des LTHU AS/ZL Uttigen</td><td>Die Restmunition ist vollständig zurückzuschieben.</td><td>Rechnung durch Gruppe Verteidigung</td></tr>
 </table>
 
-### 3 Munitionsbezug bei einem anerkannten Schiessverein (bis zu 5000 Schuss pro Munitionssorte)
-
-<table>
-<tr><td>Organisation</td><td>Gruppe</td><td>Bestellung/ Adressat</td><td>Termin</td><td>Lieferung</td><td>Rückschub</td><td>Rechnung</td></tr>
-<tr><td>31 Schiessanlässe ausserhalb der Schiessvereine</td><td>B, C</td><td>Einverständnis Schiessverein und Bewilligungsvermerk durch Gruppe Verteidigung zur Durchführung und zum Munitionsbezug</td><td>3 Monate vor dem Anlass</td><td>Lieferung durch den Schiessverein</td><td>Restmunition und Packmaterial an Schiessverein</td><td>direkte Bezahlung an den Schiessverein</td></tr>
-</table>
+### 3 …
 
 ### 4 Transport
 
@@ -1461,32 +1521,21 @@ Die nicht verschossene Munition und das Packmaterial sind innert zehn Tagen nach
 
 <sup>3</sup> Dem Lieferschein ist eine Rückschubliste beigeheftet, welche nach Vordruck auszufüllen und der Abgabestelle bis zum 20. September des laufenden Jahres zuzustellen ist.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-5]
 
 (Art. 76)
 
 ## Vorschriften und Formulare
 
-[^t-4]: Bereinigt gemäss Ziff. II der V des VBS vom 16. Dez. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)).
+[^t-5]: Bereinigt gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) und vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
-### 1 Handbuch für das Schiesswesen ausser Dienst
+### 1 Elektronisches Handbuch für das Schiesswesen ausser Dienst
 
-<sup>1</sup> Das «Handbuch für das Schiesswesen ausser Dienst» beinhaltet die Vorschriften und Formulare für das Schiesswesen ausser Dienst. Es wird den folgenden Personen und Stellen abgegeben:
-
-- a. eidgenössischen Schiessoffizieren;
-- b. Präsidentinnen und Präsidenten sowie Mitgliedern der kantonalen Schiesskommissionen;
-- c. Militärverwaltungen der Kantone;
-- d. SSV;
-- e. anerkannten Schiessvereinen;
-- f. Standchefs grosser Schiessanlagen;
-- g. Schützenmeisterinnen und Schützenmeistern;
-- h. Jungschützenleiterinnen und Jungschützenleitern.
-
-<sup>2</sup> Die Vorschriften und Formulare gehören zu den Dienstakten. Diese sind nachzuführen und bei Funktionswechsel dem Nachfolger zu übergeben.
+Das elektronische «Handbuch für das Schiesswesen ausser Dienst» (App-SAT) beinhaltet die Vorschriften und Formulare für das Schiesswesen ausser Dienst.
 
 ### 2 Formulare und Drucksachen
 
-<sup>1</sup> Der jährliche Bedarf an Formularen, insbesondere die Standblätter, wird den Schiessvereinen aufgrund ihrer Bestellungen im System der VVAdmin im Auftrag der Gruppe Verteidigung durch das Bundesamt für Bauten und Logistik (BBL) spätestens Ende Februar zugestellt.
+<sup>1</sup> Der jährliche Bedarf an Formularen, insbesondere an Standblättern, wird den Schiessvereinen aufgrund ihrer Bestellungen im SAT-Admin im Auftrag der Gruppe Verteidigung durch das Bundesamt für Bauten und Logistik spätestens Ende Februar zugestellt.
 
 <sup>2</sup> Nachbestellungen von Drucksachen sind an die Gruppe Verteidigung zu richten.
 
@@ -1494,15 +1543,15 @@ Anhang 5*[^t-4]*
 
 <sup>4</sup> Den ESO, den kantonalen Schiesskommissionen und den Militärbehörden der Kantone werden die Muster der gültigen Formulare zugestellt.
 
-<sup>5</sup> Veraltete Formulare dürfen nicht mehr verwendet werden und sind zu vernichten. Die aktuellen Formulare können im Internet unter der Adresse www.armee.ch/SAT abgerufen werden.
+<sup>5</sup> Veraltete Formulare dürfen nicht mehr verwendet werden und sind zu vernichten. Die aktuellen Formulare können im Internet unter der Adresse www.armee.ch/SAT oder durch die App-SAT abgerufen werden.
 
-Anhang 6*[^t-5]*
+Anhang 6[^t-6]
 
 (Art. 64 und 65 Abs. 1)
 
 ## Entschädigungen
 
-[^t-5]: Bereinigt gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)) und Ziff. II Abs. 1 der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-6]: Bereinigt gemäss Ziff. II der V des VBS vom 16. Dez. 2011 ([AS 2011 6465](https://fedlex.data.admin.ch/eli/oc/2011/897)), Ziff. II Abs. 1 der V des VBS vom 14. Dez. 2015 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)) und Ziff. II der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 825](https://fedlex.data.admin.ch/eli/oc/2022/825)).
 
 ### 1 Schweizer Schiesssportverband (SSV)
 
@@ -1512,15 +1561,15 @@ Anhang 6*[^t-5]*
 
 - a.
 
-  pro obligatorisches Programm (OP), das mit dem Stgw 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Stgw 57, der Pistole 49 oder der Pistole 03 geschossen wurde von:
+  pro obligatorisches Programm (OP), das mit dem Stgw 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Stgw 57, der Pistole 49 oder der Pistole 12/15 geschossen wurde von:
 
-  - 1\. Angehörigen der Armee, ohne die der Armee zugewiesenen Personen,
+  - 1\. Angehörigen der Armee,
   - 2\. ESO,
   - 3\. Präsidenten und Präsidentinnen sowie Mitgliedern der kantonalen Schiesskommissionen,
   - 4\. Absolventinnen und Absolventen von Jungschützenkursen 300 m,
   - 5\. Absolventinnen und Absolventen von Pistolenkursen für Juniorinnen und Junioren;
 
-- b. pro Feldschiessen, das von den Teilnehmerinnen und Teilnehmern nach den Artikeln 17 und 18 schweizerischer Nationalität mit dem Stgw 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Stgw 57, der Pistole 49 oder der Pistole 03 geschossen wurde;
+- b. pro Feldschiessen, das von den Teilnehmerinnen und Teilnehmern nach den Artikeln 17 und 18 schweizerischer Nationalität mit dem Stgw 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Stgw 57, der Pistole 49 oder der Pistole 12/15 geschossen wurde;
 - c. pro Teilnehmende am Nachschiesskurs.
 
 ### 2 Anerkannte Schiessvereine
@@ -1532,9 +1581,9 @@ Anhang 6*[^t-5]*
 - a. 50 Franken als Grundbeitrag pro Jahr;
 - b.
 
-  20.50 Franken pro OP, das mit dem Stgw 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Stgw 57, der Pistole 49 oder der Pistole 03 geschossen wurde von:
+  20.50 Franken pro OP, das mit dem Stgw 90, der Pistole 75 oder, sofern damit ausgerüstet, mit dem Stgw 57, der Pistole 49 oder der Pistole 12/15 geschossen wurde von:
 
-  - 1\. Angehörigen der Armee, ohne die der Armee zugewiesenen Personen,
+  - 1\. Angehörigen der Armee,
   - 2\. ESO,
   - 3\. Präsidenten und Präsidentinnen sowie Mitgliedern der kantonalen Schiesskommissionen,
   - 4\. Absolventinnen und Absolventen von Jungschützenkursen 300 m,
@@ -1542,7 +1591,7 @@ Anhang 6*[^t-5]*
 
 - c. 6 Franken pro durch Schiesspflichtige wiederholtes OP.
 
-<sup>3</sup> Die Entschädigung für das Feldschiessen, das mit dem Stgw 90 oder 57 oder mit der Pistole 75, der Pistole 49 oder der Pistole 03 geschossen wurde, beträgt pro Teilnehmerin oder Teilnehmer nach den Artikeln 17 und 18 schweizerischer Nationalität 10 Franken.
+<sup>3</sup> Die Entschädigung für das Feldschiessen, das mit dem Stgw 90 oder 57 oder mit der Pistole 75, der Pistole 49 oder der Pistole 12/15 geschossen wurde, beträgt pro Teilnehmerin oder Teilnehmer nach den Artikeln 17 und 18 schweizerischer Nationalität 10 Franken.
 
 <sup>4</sup> Die Entschädigungen für die Jungschützenkurse betragen:
 
@@ -1557,17 +1606,17 @@ Anhang 6*[^t-5]*
 - b. 20.50 Franken pro im Kurs absolviertes OP;
 - c. 6 Franken pro im Kurs wiederholtes OP.
 
-### 3 Chefinnen und Chefs der kantonale Jungschützen
+### 3 Kantonale Jungschützenchefinnen und Jungschützenchefs
 
 Die kantonalen Jungschützenchefinnen und -chefs erhalten pro kantonalen Schiesskreis jährlich einen Beitrag von 150 Franken an die Auslagen für den Postversand.
 
-Anhang 7*[^t-6]*
+Anhang 7[^t-7]
 
 (Art. 2 Abs. 2)
 
 ## Verkaufspreis für Ordonnanzmunition
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
+[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V des VBS vom 14. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5643](https://fedlex.data.admin.ch/eli/oc/2015/884)).
 
 <sup>1</sup> Der Verkaufspreis der Ordonnanzmunition für Hand- und Faustfeuerwaffen wird folgendermassen festgelegt:
 
