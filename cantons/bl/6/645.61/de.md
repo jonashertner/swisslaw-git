@@ -4,13 +4,12 @@ number: "645.61"
 title: "Verordnung über die Lehrmittel, Schulmaterialien und Unterrichtshilfen für die Volksschulen"
 short: Lehrmittelverordnung
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-11-17
+version: 2023-01-01
+version_adopted: 2022-09-06
 adopted: 2019-12-03
 in_force: 2020-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645.61"
-pdf: "https://bl.clex.ch/api/de/versions/2792/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3410/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2792/pdf_file"
 
 (Lehrmittelverordnung)
 
-Vom 03.12.2019 (Stand 01.01.2021)
+Vom 03.12.2019 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -46,7 +45,7 @@ beschliesst:
 
 <sup>1</sup> Lehrmittel sind Lehr- und Lernmittel in analoger und digitaler Form.
 
-<sup>2</sup> Sie konkretisieren Lerninhalte bzw. Kompetenzen und bereiten Lerninhalte bzw. Kompetenzen didaktisch entlang des Lehrplans auf.
+<sup>2</sup> Sie konkretisieren Lerninhalte bzw. Kompetenzen und bereiten Lerninhalte bzw. Kompetenzen didaktisch entlang des Lehrplans auf und berücksichtigen allfällig behinderungsbedingte Anforderungen.
 
 <sup>3</sup> Sie dienen sowohl Schülerinnen und Schülern als auch Lehrerinnen und Lehrern.
 
@@ -90,7 +89,7 @@ beschliesst:
 <sup>2</sup> Das Lehrmittelkonzept beinhaltet:
 
 - a. die Bedarfserhebung;
-- b. die qualitativen und quantitativen Rahmenvorgaben;
+- b. die qualitativen und quantitativen Rahmenvorgaben; insbesondere auch Rahmenvorgaben zur Beschaffung geeigneter analoger und digitaler Lehrmittel für Schülerinnen und Schüler mit Behinderungen;
 - c. die Auswahlexpertise;
 - d. die Beschaffung;
 - e. die Distribution bzw. Lizenzierung;
@@ -104,9 +103,14 @@ beschliesst:
 
 **Finanzierung**
 
-<sup>1</sup> Der Kanton trägt die Kosten der obligatorischen Lehrmittel für die gesamte Volksschule sowie die Kosten für die empfohlenen fakultativen Lehrmittel auf der Sekundarstufe I.
+<sup>1</sup> Der Kanton trägt folgende Kosten:
 
-<sup>2</sup> Die Gemeinden tragen die Kosten für empfohlene fakultative Lehrmittel auf der Primarstufe.
+- a. für alle Lehrmittel auf der Sekundarstufe I sowie
+- b. für 1 obligatorisches Lehrmittel, inklusive der zugehörigen Arbeitshefte gemäss kantonaler Lehrmittelliste, pro Fach und Klasse auf der Primarstufe.
+
+<sup>1<sup>bis</sup></sup> Der Kanton legt im Rahmen der Aufgaben- und Finanzplanung Obergrenzen für die Kosten der Lehrmittel fest. Er orientiert sich am Mittelwert der Kosten der Lehrmittel je Fach.
+
+<sup>2</sup> Die Gemeinden tragen für ihre Schulen die Kosten für Lehrmittel soweit sie nicht gemäss Abs. 1 Bst. b vom Kanton getragen werden.
 
 #### § 7
 
@@ -126,7 +130,8 @@ beschliesst:
 - b. beschliesst die empfohlenen fakultativen und sich in Prüfung befindlichen Lehrmittel;
 - c. kann zu allen die Lehrmittel betreffenden Fragen Stellung nehmen;
 - d. kann Anträge die Lehrmittel betreffend an den Bildungsrat stellen;
-- e. berät und unterstützt das Amt für Volksschulen bei der Erarbeitung bzw. Umsetzung des Lehrmittelkonzepts.
+- e. berät und unterstützt das Amt für Volksschulen bei der Erarbeitung bzw. Umsetzung des Lehrmittelkonzepts;
+- f. sorgt dafür, dass geeignete analoge und digitale Lehrmittel für Schülerinnen und Schüler mit Behinderungen zur Verfügung stehen.
 
 <sup>3</sup> Das Amt für Volksschulen:
 
@@ -135,12 +140,12 @@ beschliesst:
 - c. führt die kantonale Lehrmittelliste;
 - d. informiert die Schulen regelmässig über die Arbeit und die Entscheide der Lehrmittelkommission und des Bildungsrats die Lehrmittel betreffend über die Webseite [www.bl.ch](https://www.bl.ch).
 
-<sup>4</sup> Der Stab Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion:
+<sup>4</sup> Die Abteilung Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion:
 
 - a. führt den Webshop zur online-Bestellung der Lehrmittel und des Schulmaterials für die Volksschule;
-- b. stellt an die Primarschulgemeinden Rechnung für Lehrmittel, die nicht vom Bildungsrat beschlossen worden sind.
+- b. stellt an die Primarschulgemeinden Rechnung für Lehrmittel, die nicht vom Kanton übernommen werden.
 
-<sup>5</sup> Die Schulen bestimmen in jeder Primar- und Sekundarschule eine Lehrmittelverantwortliche bzw. einen Lehrmittelverantwortlichen. Diese bzw. dieser ist für die Bestellung der Lehrmittel, Schulmaterialien und Unterrichtshilfen beim Stab Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion zuständig und verantwortlich.
+<sup>5</sup> Die Schulen bestimmen in jeder Primar- und Sekundarschule eine Lehrmittelverantwortliche bzw. einen Lehrmittelverantwortlichen. Diese bzw. dieser ist für die Bestellung der Lehrmittel, Schulmaterialien und Unterrichtshilfen bei der Abteilung Rechnungswesen, Einkauf und Logistik des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion zuständig und verantwortlich.
 
 #### § 8
 
@@ -153,9 +158,9 @@ beschliesst:
 - c. 2 Lehrpersonen der Sonderpädagogik,
 - d. je 1 Schulleitungsmitglied der Primar- und Sekundarstufe I,
 - e. 3 Vertretungen des Amts für Volksschulen,
-- f. 2 Vertretungen des Stabs Informatik BKSD,
+- f. 2 Vertretungen der Abteilung Informatik BKSD,
 - g. 1–2 Fachpersonen,
-- h. 1 Vertretung des Stabs Rechnungswesen, Einkauf und Logistik BKSD.
+- h. 1 Vertretung der Abteilung Rechnungswesen, Einkauf und Logistik BKSD.
 
 <sup>2</sup> Vorgeschlagen werden die Vertretungen:
 
@@ -163,7 +168,7 @@ beschliesst:
 - b. der Schulleitungen durch die Schulleitungskonferenzen der Stufen,
 - c. der Dienststellen bzw. Stäbe durch die jeweilige Leitung der Dienststelle bzw. des Stabes.
 
-<sup>3</sup> Die Lehrmittelkommission wird von einer Vertretung des Amts für Volksschulen geleitet. Deren Stellvertretung nimmt eine Vertretung des Stabs Informatik BKSD wahr.
+<sup>3</sup> Die Lehrmittelkommission wird von einer Vertretung des Amts für Volksschulen geleitet. Deren Stellvertretung nimmt eine Vertretung der Abteilung Informatik BKSD wahr.
 
 <sup>4</sup> Die Lehrmittelkommission kann in Stufenkommissionen tagen.
 
