@@ -4,18 +4,18 @@ title: Loi fédérale du 4 décembre 1947 de procédure civile fédérale
 short: PCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1948/485_473_421"
 language: fr
-version: 2013-05-01
+version: 2023-01-01
 adopted: 1947-12-04
 in_force: 1948-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20130501/fr/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20130501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20130501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1948/485_473_421/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1948-485_473_421-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale de procédure civile fédérale
 
-du 4 décembre 1947 (Etat le 1<sup>er</sup> mai 2013)
+du 4 décembre 1947 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -39,7 +39,7 @@ arrête:
 
 <sup>2</sup> Elle est complétée par les chap. 1, 2 et 6 LTF, sauf disposition contraire de la présente loi.
 
-[^1-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^1-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
 
 ### Compétence
@@ -51,7 +51,7 @@ arrête:
 <sup>2</sup> La prorogation de for en faveur d’un tribunal suisse ne lie pas le Tribunal fédéral, qui peut d’office éconduire le demandeur. Le Tribunal fédéral doit cependant se saisir de la cause lorsqu’une des parties a son domicile, sa résidence habituelle ou un établissement en Suisse, ou lorsqu’en vertu de la loi fédérale du 18 décembre 1987 sur le droit international privé[^2-1], le droit suisse est applicable au litige.[^2-2]
 
 [^2-1]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
-[^2-2]: Nouvelle teneur selon le ch. II 3 de l’annexe à la LF du 18 déc. 1987 sur le droit international privé, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 255](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^2-2]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 18 déc. 1987 sur le droit international privé, en vigueur depuis le 1<sup>er</sup> janv. 1989 ([RO 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 255](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ## Titre deuxième: Principes généraux de procédure
 
@@ -71,7 +71,7 @@ arrête:
 
 <sup>2</sup> Au besoin, le juge ordonne la traduction.
 
-[^4-1]: Nouvelle teneur selon le ch. II 2 de l’annexe à la loi du 5 oct. 2007 sur les langues, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821); [FF 2006 8505](https://fedlex.data.admin.ch/eli/fga/2006/1175)[8575](https://fedlex.data.admin.ch/eli/fga/2006/1177)).
+[^4-1]: Nouvelle teneur selon l’annexe ch. II 2 de la loi du 5 oct. 2007 sur les langues, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821); [FF 2006 8505](https://fedlex.data.admin.ch/eli/fga/2006/1175)[8575](https://fedlex.data.admin.ch/eli/fga/2006/1177)).
 
 ### Juge délégué à l’instruction
 
@@ -84,7 +84,7 @@ arrête:
 <sup>3</sup> Un second juge participe à l’audition des témoins, à l’inspection oculaire et à l’interrogatoire des parties.
 
 [^5-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^5-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Suspension du procès
 
@@ -148,7 +148,7 @@ Le juge fixe les délais qui ne sont pas prévus par la loi et procède aux cita
 
 #### Art. 12
 
-<sup>1</sup> A moins que la loi n’y attache d’autres effets, l’omission d’un acte de procédure a pour seule conséquence que l’instance suit son cours sans l’acte omis.
+<sup>1</sup> À moins que la loi n’y attache d’autres effets, l’omission d’un acte de procédure a pour seule conséquence que l’instance suit son cours sans l’acte omis.
 
 <sup>2</sup> Lorsqu’une partie fait défaut à une audience, celle-ci a néanmoins lieu. Les conclusions et moyens présentés jusqu’alors par la partie défaillante restent acquis.
 
@@ -219,10 +219,10 @@ Toute personne est capable d’ester en justice dans la mesure où elle a l’ex
 <sup>3</sup> Le juge annule d’office les actes de procédure faits par un mandataire sans pouvoirs et qui n’ont pas été ratifiés par le représenté. Les frais de l’instance sont mis à la charge du mandataire.
 
 [^18-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^18-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^18-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^18-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Titre cinquième: Echange des écritures
+## Titre cinquième: Échange des écritures
 
 ### Production des moyens de demande et de défense
 
@@ -238,7 +238,7 @@ Toute personne est capable d’ester en justice dans la mesure où elle a l’ex
 
 [^20-1]
 
-[^20-1]: Abrogé par le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^20-1]: Abrogé par l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Litispendance
 
@@ -318,7 +318,7 @@ Une action peut être intentée à l’effet de faire constater l’existence ou
 <sup>2</sup> Si le défendeur requiert des sûretés en garantie des dépens conformément à l’art. 62, al. 2, LTF[^28-1], le cours du délai pour la réponse est suspendu.[^28-2] Le juge fixe un nouveau délai pour la réponse dès qu’il a rejeté la requête ou que les sûretés ont été fournies.
 
 [^28-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^28-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^28-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Réponse à la demande
 
@@ -350,9 +350,9 @@ La réponse à la demande doit contenir:
 
 <sup>2</sup> La demande reconventionnelle demeure pendante même lorsque la demande principale devient caduque.
 
-[^31-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^31-1]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Echange ultérieur d’écritures
+### Échange ultérieur d’écritures
 
 #### Art. 32
 
@@ -460,11 +460,12 @@ Peuvent refuser de déposer:
 
 <sup>2</sup> Le juge peut dispenser le témoin de révéler d’autres secrets professionnels, ainsi qu’un secret d’affaires, lorsque, malgré les mesures de précaution de l’art. 38, l’intérêt du témoin à garder le secret l’emporte sur l’intérêt d’une partie à le révéler.
 
-<sup>3</sup> Les fonctionnaires ne sont tenus de témoigner sur des faits dont ils ont eu connaissance dans l’exercice de leurs fonctions que dans les limites du droit administratif fédéral ou cantonal.
+<sup>3</sup> Les fonctionnaires et leurs auxiliaires ne sont tenus de témoigner sur des faits dont ils ont eu connaissance dans l’exercice de leurs fonctions ou de leur activité auxiliaire que dans les limites du droit administratif fédéral ou cantonal.[^42-4]
 
-[^42-1]: Nouvelle teneur selon le ch. 15 de l’annexe à la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^42-1]: Nouvelle teneur selon l’annexe ch. 15 de la loi du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^42-2]: Introduite par le ch. I 2 de la LF du 23 juin 2000 sur l’adaptation de la législation fédérale à la garantie du secret de rédaction, en vigueur depuis le 1<sup>er</sup> fév. 2001 ([RO 2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
-[^42-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement "l’art. 28*a*".
+[^42-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement «l’art. 28*a*».
+[^42-4]: Nouvelle teneur selon l’annexe 1 ch. 6 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Citation du témoin
 
@@ -484,7 +485,7 @@ La citation énonce sommairement les faits sur lesquels le témoin sera entendu.
 
 <sup>4</sup> Le juge délégué statue sur le droit de refuser de témoigner et prononce la peine pour insoumission; aux débats, ces pouvoirs appartiennent au tribunal.
 
-[^44-1]: A partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^44-1]: À partir du 1<sup>er</sup> janv. 2007, les peines et les délais de prescription doivent être adaptés selon la clé de conversion de l’art. 333 al. 2 à 6 du code pénal ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), dans la teneur de la LF du 13 déc. 2002 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### Audition
 
@@ -561,7 +562,7 @@ L’obligation de produire des titres ne s’étend pas aux documents concernant
 
 <sup>2</sup> Avec l’autorisation du juge, les passages qui ne servent pas à la preuve peuvent être, par l’apposition de scellés ou d’une autre manière, soustraits à la vue du juge et des parties.
 
-[^52-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^52-1]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Consultation sur place
 
@@ -618,7 +619,7 @@ Les titres dont la production en justice n’est pas possible en raison de leur 
 <sup>2</sup> Le juge donne aux parties l’occasion de faire leurs objections contre les personnes qu’il se propose de désigner comme experts.
 
 [^58-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^58-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^58-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Obligations
 
@@ -629,7 +630,7 @@ Les titres dont la production en justice n’est pas possible en raison de leur 
 <sup>2</sup> L’expert qui s’acquitte négligemment de sa mission est passible d’une amende d’ordre conformément à l’art. 33, al. 1, LTF[^59-1].[^59-2]
 
 [^59-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^59-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^59-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Rapport
 
@@ -726,7 +727,7 @@ L’expert a droit au remboursement de ses débours, ainsi qu’à des honoraire
 <sup>3</sup> Les parties produisent avant le jugement l’état détaillé de leurs frais.
 
 [^69-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^69-2]: Nouvelle teneur selon le ch. 5 de l’annexe à la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^69-2]: Nouvelle teneur selon l’annexe ch. 5 de la loi du 17 juin 2005 sur le Tribunal fédéral, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Prononcé du jugement
 
@@ -888,7 +889,7 @@ Sont réservées les dispositions spéciales d’autres lois fédérales en mati
 
 ## Titre douzième: Dispositions finales et transitoires
 
-### Revision
+### Révision
 
 #### Art. 86
 
