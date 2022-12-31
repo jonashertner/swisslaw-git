@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 1997 relativa alla tassa d'incentivazione sui 
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: it
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220601/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/it"
 
 (OCOV)
 
-del 12 novembre 1997 (Stato 1° giugno 2022)
+del 12 novembre 1997 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -63,27 +63,30 @@ La legislazione doganale è applicabile per analogia alla riscossione e alla res
 L’UFAM:
 
 - a. esegue le disposizioni sulla distribuzione del prodotto della tassa (art. 23 a 23*b*);
-- b. aiuta la Direzione generale delle dogane nell’esecuzione delle disposizioni sull’esenzione dalla tassa grazie a provvedimenti per ridurre le emissioni (art. 9–9*h*);
+- b.[^4-2] …
 - c. esamina l’effetto sulla qualità dell’aria della tassa e dell’esenzione dalla tassa grazie a provvedimenti per ridurre le emissioni e pubblica a intervalli regolari i risultati.
 
-<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini[^4-2] mette a disposizione dell’UFAM i dati necessari.
+<sup>3</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) mette a disposizione dell’UFAM i documenti necessari.[^4-3]
 
 <sup>4</sup>
 
-I Cantoni aiutano le autorità esecutive, salvo quando l’obbligo di pagare la tassa riguarda la Confederazione. Essi verificano in particolare:
+I Cantoni aiutano le autorità esecutive della Confederazione, salvo quando l’obbligo di pagare la tassa riguarda la Confederazione. Essi assolvono in particolare i compiti seguenti:
 
-- a. i piani di provvedimenti secondo l’articolo 9*d* nonché il loro adeguamento (art. 9*f* e 9*g*);
-- b. le prove secondo l’articolo 9*h*;
-- c. i bilanci dei COV secondo l’articolo 10;
-- d.[^4-3] la domanda di proroga dei termini secondo l’articolo 9*i*.
+- a. *Abrogata*
+- b. la verifica delle prove secondo l’articolo 9*h*;
+- c. la verifica dei bilanci dei COV secondo l’articolo 10;
+- d. *Abrogata*
+- e. la conferma della riduzione delle emissioni diffuse secondo l’articolo 9*k.*[^4-4]
 
-<sup>5</sup> Le autorità esecutive ricevono insieme l’1,5 per cento del prodotto complessivo (prodotto lordo) a titolo di indennità per il lavoro svolto.
+<sup>5</sup> Le autorità esecutive della Confederazione ricevono ogni anno un indennizzo pari al 4,9 per cento del prodotto (prodotto lordo al netto delle restituzioni). All’occorrenza, l’entità dell’indennizzo è riesaminata e adeguata.[^4-5]
 
 <sup>6</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) emana, d’intesa con il Dipartimento federale delle finanze, prescrizioni sull’indennità da versare ai Cantoni per il loro aiuto nell’ambito dell’esecuzione.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RU 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), con effetto dal 1° gen. 2022.
-[^4-3]: Introdotta dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^4-2]: Abrogata dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-5]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 5
 
@@ -105,7 +108,7 @@ I Cantoni aiutano le autorità esecutive, salvo quando l’obbligo di pagare la 
 
 <sup>2</sup> Su richiesta, devono essere fornite alle autorità esecutive tutte le informazioni nonché presentati tutti i documenti necessari all’esecuzione della presente ordinanza.
 
-## Sezione 3:**** Aliquota della tassa
+## Sezione 3: Aliquota della tassa
 
 [^sec3-1]
 
@@ -130,11 +133,14 @@ L’aliquota della tassa è fissata a franchi 3 per ogni chilogrammo di COV.
 Sono esenti dalla tassa i COV presenti nelle seguenti miscele o oggetti:
 
 - a. in miscele o oggetti, nei quali il tenore di COV è al massimo del 3 per cento (% massa);
-- b. in miscele o oggetti prodotti nel territorio svizzero, che non figurano nell’elenco dei prodotti.
+- b.[^8-1] in miscele o oggetti che non figurano nell’elenco dei prodotti.
 
-<sup>2</sup> Se le miscele e gli oggetti ai sensi del capoverso 1 lettera a vengono importati, la tassa non è riscossa.
+<sup>2</sup> …[^8-2]
 
 <sup>3</sup> Se le miscele e gli oggetti ai sensi del capoverso 1 lettere a e b vengono prodotti in Svizzera, su domanda del fabbricante, i COV in essi presenti sono esenti dalla tassa.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^8-2]: Abrogato dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9
 
@@ -164,18 +170,20 @@ Su richiesta, più impianti stazionari possono essere riuniti in un gruppo di im
 
 <sup>3</sup>
 
-La composizione di un gruppo di impianti non può essere modificata durante il periodo di validità di cui all’articolo 9*c* capoverso 1 lettera b. Sono eccettuate:
+La composizione di un gruppo di impianti può essere modificata in caso di:
 
-- a. l’esclusione di impianti stazionari chiusi;
-- b. l’inclusione a posteriori di impianti stazionari nuovi o nuovamente messi in esercizio;
-- c. l’inclusione a posteriori di impianti stazionari che soddisfano già i requisiti secondo l’allegato 3.[^9a-3]
+- a. esclusione di impianti stazionari chiusi;
+- b. *Abrogata*
+- c. inclusione di impianti stazionari che soddisfano i requisiti di cui all’allegato 3;
+- d. vendita di impianti stazionari;
+- e. modifica dell’allegato 3: soltanto al momento dell’entrata in vigore della modifica.[^9a-3]
 
-<sup>4</sup> Se in un gruppo di impianti sono inclusi laboratori le cui emissioni di COV non sono evacuate mediante un dispositivo di abbattimento, essi devono soddisfare i requisiti secondo l’allegato 3 già al momento della loro inclusione.[^9a-4]
+<sup>4</sup> … [^9a-4]
 
 [^9a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9a-2]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
-[^9a-3]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
-[^9a-4]: Nuovo testo giusta il n. I dell’O del 13 feb. 2013, in vigore dal 1° mar. 2013 ([RU 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
+[^9a-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9a-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)). La correzione del 25 nov. 2022 della lett. e concerne soltanto il testo francese[https://www.fedlex.admin.ch/eli/oc/2022/680/it](https://www.fedlex.admin.ch/eli/oc/2022/680/it) ([RU 2022 714](https://fedlex.data.admin.ch/eli/oc/2022/714)).
+[^9a-4]: Abrogato dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9b
 
@@ -201,121 +209,69 @@ Se, a causa della sostituzione del dispositivo di abbattimento, durante un anno 
 
 #### Art. 9c
 
-**Riduzione delle emissioni diffuse di COV**[^9c-1]
+**Adeguamenti allo stato della tecnica**[^9c-1]
 
-<sup>1</sup>
+<sup>1</sup> Il DATEC adegua l’allegato 3 al progresso tecnico. Consulta dapprima i rami economici interessati e i Cantoni.
 
-L’articolo 9 capoverso 1 lettera c è soddisfatto se:
+<sup>2</sup> Le emissioni di COV da impianti stazionari che in seguito a un adeguamento secondo il capoverso 1 non sono più ridotte secondo i requisiti di cui all’allegato 3 rimangono esenti dalla tassa se l’impianto torna a soddisfare i requisiti dell’allegato 3 al più tardi entro tre anni dall’entrata in vigore degli adeguamenti.
 
-- a. l’impianto stazionario soddisfa già i requisiti secondo l’allegato 3; o
-- b.[^9c-2] le emissioni diffuse di COV dell’impianto stazionario sono ridotte conformemente a un piano di provvedimenti approvato dalla Direzione generale delle dogane, in modo tale da adempiere ai requisiti di cui all’allegato 3 entro il 31 dicembre 2022 (periodo di validità).
+[^9c-1]: Introdotto dal n. I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
-<sup>2</sup> Ogni cinque anni il DATEC adegua l’allegato 3 nonché il periodo di validità secondo il capoverso 1 lettera b dopo aver sentito i rami economici interessati e i Cantoni. Esso tiene conto del progresso tecnico.
+#### Art. 9d a 9f
 
-[^9c-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9c-2]: Nuovo testo giusta il n. I dell’O del DATEC del 28 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^9d9f-1]
 
-#### Art. 9d
-
-**Piano di provvedimenti**[^9d-1]
-
-<sup>1</sup>
-
-Il piano di provvedimenti secondo l’articolo 9*c* capoverso 1 lettera b comprende:
-
-- a. dati sul grado di adempimento dei requisiti secondo l’allegato 3 (analisi situazione auspicata-effettiva);
-- b. i provvedimenti previsti;
-- c. i tempi previsti per l’attuazione dei provvedimenti;
-- d. il potenziale di riduzione delle emissioni di ogni provvedimento.
-
-<sup>2</sup> Esso deve prevedere che almeno la metà della riduzione delle emissioni prevista sia attuata nei suoi primi tre anni di validità.
-
-[^9d-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-
-#### Art. 9e
-
-**Domanda di approvazione del piano di provvedimenti**[^9e-1]
-
-<sup>1</sup> Per un impianto stazionario esistente la domanda di approvazione del piano di provvedimenti deve essere presentata all’autorità cantonale entro il 30 aprile dell’anno precedente l’inizio dell’esenzione dalla tassa.
-
-<sup>2</sup> Per un nuovo impianto stazionario la domanda di approvazione del piano di provvedimenti può essere presentata all’autorità cantonale in ogni momento.
-
-<sup>3</sup> La domanda deve comprendere il piano di provvedimenti.
-
-<sup>4</sup> I gestori di impianti stazionari esistenti tenuti a inoltrare un bilancio dei COV secondo l’articolo 10 devono allegare tale bilancio al piano dei provvedimenti.
-
-[^9e-1]: Introdotto dal n. I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
-
-#### Art. 9f
-
-**Adeguamento del piano di provvedimenti in caso di provvedimenti equivalenti**[^9f-1]
-
-<sup>1</sup> Su richiesta, il piano di provvedimenti approvato può essere adeguato se uno o più provvedimenti possono essere sostituiti da altri provvedimenti di effetto almeno equivalente.
-
-<sup>2</sup> La domanda di adeguamento deve essere presentata all’autorità cantonale entro sei mesi prima dall’inizio dell’anno d’esercizio in cui sarà attuato il piano di provvedimenti adeguato.
-
-[^9f-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9d9f-1]: Introdotti dal n. I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Abrogati dal n. I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9g
 
-**Adeguamento del piano di provvedimenti in caso di modifiche dell’impianto stazionario**[^9g-1]
+**Modifica dell’impianto stazionario[^9g-2]**[^9g-1]
 
 <sup>1</sup> Le modifiche dell’impianto stazionario che hanno ripercussioni sulle emissioni diffuse di COV devono essere notificate immediatamente all’autorità cantonale.
 
-<sup>2</sup> Se necessario, il piano di provvedimenti è adeguato.
+<sup>2</sup> … [^9g-3]
 
 [^9g-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9g-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9g-3]: Abrogato dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9h
 
-**Prova per l’esenzione dalla tassa in caso di provvedimenti di riduzione delle emissioni**[^9h-1]
+**Prova per l’esenzione dalla tassa[^9h-2]**[^9h-1]
 
-<sup>1</sup>
-
-Chi rivendica l’esenzione dalla tassa ai sensi dell’articolo 35*a* capoverso 4 LPAmb deve provare annualmente che sono soddisfatte le condizioni di esenzione secondo l’articolo 9. In particolare bisogna fornire la prova che:
-
-- a. l’impianto stazionario soddisfa i requisiti secondo l’allegato 3; o
-- b.[^9h-2] i provvedimenti previsti nel piano di provvedimenti approvato per il corrispondente anno d’esercizio sono stati attuati entro il termine e l’impianto stazionario soddisfa i restanti requisiti secondo l’allegato 3.
+<sup>1</sup> Chi rivendica l’esenzione dalla tassa ai sensi dell’articolo 35*a* capoverso 4 LPAmb deve provare annualmente che sono soddisfatte le condizioni di esenzione di cui all’articolo 9.[^9h-3]
 
 <sup>2</sup> La prova deve essere presentata contemporaneamente al bilancio dei COV.
 
 <sup>3</sup> Se la prova non può essere fornita, durante il corrispondente anno d’esercizio l’esenzione dalla tassa per i COV impiegati nell’impianto stazionario è sospesa.
 
 [^9h-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9h-2]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^9h-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9h-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9i
 
-**Proroga dei termini nei casi di rigore**[^9i-1]
+[^9i-1]
 
-<sup>1</sup> Su domanda, la Direzione generale delle dogane può prorogare i termini per l’attuazione dei provvedimenti fissati nel piano di provvedimenti di cui all’articolo 9*d* al massimo fino alla scadenza del periodo di validità, se l’attuazione dei provvedimenti entro il termine potrebbe mettere in pericolo l’esistenza dell’impresa in cui è gestito l’impianto, senza colpa della stessa.
-
-<sup>2</sup>
-
-La domanda di proroga dei termini deve contenere in particolare le seguenti indicazioni:
-
-- a. il cambiamento fondamentale intervenuto dopo l’approvazione del piano di provvedimenti che in caso di attuazione del piano entro il termine previsto mette in pericolo l’esistenza dell’impresa, e le ripercussioni del cambiamento sull’impresa;
-- b la prova che il cambiamento fondamentale secondo la lettera a è avvenuto senza colpa;
-- c. tutti i provvedimenti già attuati per ridurre le emissioni diffuse di COV nell’impianto stazionario interessato;
-- d. una stima dei costi di ciascun provvedimento da posticipare;
-- e. il calendario per l’attuazione dei provvedimenti da posticipare.
-
-<sup>3</sup> La Direzione generale delle dogane può esigere ulteriori indicazioni.
-
-<sup>4</sup> La domanda deve essere presentata all’autorità cantonale fino a quattro mesi prima della fine del corrispondente anno d’esercizio.
-
-[^9i-1]: Introdotto dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^9i-1]: Introdotto dal n. I dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Abrogato dal n. I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9j
 
-**Inizio dell’esenzione per i nuovi impianti stazionari**[^9j-1]
+**Inizio dell’esenzione**[^9j-1]
 
-I nuovi impianti stazionari che soddisfano le condizioni di esenzione secondo l’articolo 9 sono esenti dalla tassa a partire:
+Gli impianti stazionari sono esenti dalla tassa a partire dal momento in cui soddisfano le condizioni di esenzione di cui all’articolo 9.
 
-- a. dall’entrata in esercizio, se l’impianto stazionario soddisfa già i requisiti secondo l’allegato 3;
-- b. dall’anno d’esercizio che segue la presentazione della domanda di approvazione del piano di provvedimenti, se l’impianto stazionario non soddisfa ancora i requisiti secondo l’allegato 3.
+[^9j-1]: Introdotto dal n. I dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
-[^9j-1]: Introdotto dal n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+#### Art. 9k
+
+**Conferma della riduzione delle emissioni diffuse**[^9k-1]
+
+<sup>1</sup> I Cantoni confermano su richiesta dei gestori che gli impianti stazionari soddisfano i requisiti di cui all’allegato 3.
+
+<sup>2</sup> Verificano le conferme almeno ogni cinque anni ed effettuano appositi sopralluoghi.
+
+[^9k-1]: Introdotto dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 10
 
@@ -333,13 +289,14 @@ Nel bilancio dei COV devono figurare:
 - d. le quantità eliminate o trasformate nella propria azienda o in aziende esterne;
 - e. le emissioni residue.
 
-<sup>3</sup> La Direzione generale delle dogane può esigere ulteriori indicazioni.
+<sup>3</sup> Le autorità esecutive possono esigere ulteriori indicazioni.[^10-2]
 
 <sup>4</sup> Il bilancio dei COV deve essere redatto su modulo ufficiale. La Direzione generale delle dogane può autorizzare altre forme.
 
 <sup>5</sup> Se l’onere necessario all’allestimento del bilancio dei COV è sproporzionato, la Direzione generale delle dogane può derogare ai capoversi 1 e 2.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## Sezione 5: Riscossione della tassa sul territorio nazionale
 
@@ -440,9 +397,11 @@ Il termine di prescrizione si interrompe:
 
 **Decadenza del diritto alla restituzione**
 
-<sup>1</sup> Il diritto alla restituzione, salvo che non sia in relazione con l’esportazione, decade se la relativa domanda non viene presentata entro sei mesi dalla fine dell’anno d’esercizio.
+<sup>1</sup> I diritti alla restituzione, salvo che non siano in relazione con l’esportazione, devono essere fatti valere entro sei mesi dalla fine dell’anno d’esercizio. Su domanda motivata fatta pervenire entro tale scadenza, l’UDSC può prorogare il termine di inoltro di 30 giorni.[^19-1]
 
 <sup>2</sup> Il diritto alla restituzione decade in ogni caso dopo due anni a contare dal momento in cui è sorto il motivo della restituzione.
+
+[^19-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 20
 
@@ -463,7 +422,7 @@ Nella domanda riguardante COV esportati devono figurare:
 - b. i rapporti di fabbricazione, campioni nell’imballaggio originale o altri documenti necessari per stabilire le quantità di COV esportati;
 - c. su richiesta della Direzione generale delle dogane, altre indicazioni necessarie per il calcolo dell’importo da restituire.
 
-## Sezione 7: Acquisto di COV temporaneamente non gravati dalla tassa (procedura di impegno volontario)****
+## Sezione 7: Acquisto di COV temporaneamente non gravati dalla tassa (procedura di impegno volontario)
 
 [^sec7-1]
 
@@ -475,12 +434,14 @@ Nella domanda riguardante COV esportati devono figurare:
 
 <sup>1</sup>
 
-La Direzione generale delle dogane può accordare un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa alle persone che per almeno 50 t di COV all’anno si impegnano:
+L’UDSC può accordare un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa alle persone che per almeno 25 t di COV all’anno si impegnano:[^21-2]
 
-- a. a utilizzarle o trattarle in modo che non possano pervenire nell’ambiente; oppure
-- b. a esportarle.[^21-2]
+- a. a utilizzarle o trattarle in modo che non possano pervenire nell’ambiente;
+- b. a esportarle;
+- c.[^21-3] a trasformarle in miscele o oggetti nei quali il tenore di COV è al massimo del 3 per cento (% massa); oppure
+- d.[^21-4] a trasformarle in miscele o oggetti che non figurano nell’elenco dei prodotti.[^21-5]
 
-<sup>1</sup> *<sup>a</sup>* ...[^21-3]
+<sup>1</sup> *<sup>a</sup>* …[^21-6]
 
 <sup>1bis</sup>
 
@@ -488,20 +449,23 @@ Essa può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 - a. la quota di questa sostanza costituisce almeno il 55 per cento del loro consumo totale di COV;
 - b. utilizzano annualmente almeno una tonnellata di tale sostanza; e
-- c. attraverso la trasformazione chimica indotta dalla procedura di utilizzazione, l’emissione di tale sostanza nell’ambiente raggiunge in media il 2 per cento al massimo.[^21-4]
+- c. attraverso la trasformazione chimica indotta dalla procedura di utilizzazione, l’emissione di tale sostanza nell’ambiente raggiunge in media il 2 per cento al massimo.[^21-7]
 
-<sup>2</sup> L’autorizzazione può essere accordata anche a persone che esercitano un commercio all’ingrosso di COV e provano di avere in media almeno 25 t di COV quali scorte di magazzino o un fatturato minimo annuo di 50 t di COV.[^21-5]
+<sup>2</sup> L’autorizzazione può essere accordata anche a persone che esercitano un commercio all’ingrosso di COV e provano di avere in media almeno 10 t di COV quali scorte di magazzino o un fatturato minimo annuo di 25 t di COV.[^21-8]
 
 <sup>3</sup> La dichiarazione di impegno volontario o la prova relativa alle scorte devono essere depositate presso la Direzione generale delle dogane.
 
-<sup>4</sup> La Direzione generale delle dogane tiene un registro pubblico delle persone che possiedono un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa.[^21-6]
+<sup>4</sup> La Direzione generale delle dogane tiene un registro pubblico delle persone che possiedono un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa.[^21-9]
 
 [^21-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
-[^21-3]: Introdotto dal n. I dell’O del 4 dic. 2000 ([RU 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Abrogato dal n. I dell’O del 27 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-4]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-5]: Nuovo testo giusta il n. I dell’O del 25 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
-[^21-6]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-3]: Introdotta dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-4]: Introdotta dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-5]: Nuovo testo giusta il n. I dell’O del 26 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
+[^21-6]: Introdotto dal n. I dell’O del 4 dic. 2000 ([RU 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Abrogato dal n. I dell’O del 27 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-7]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-8]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-9]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 
 #### Art. 22
 
@@ -511,7 +475,7 @@ Essa può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 <sup>2</sup> La tassa sui COV impiegati in modo che non siano esenti deve essere pagata posticipatamente.
 
-<sup>3</sup> ...[^22-1]
+<sup>3</sup> …[^22-1]
 
 <sup>4</sup> I documenti relativi alla procedura per l’acquisto di COV temporaneamente non gravati dalla tassa devono essere conservati per cinque anni a contare dall’inoltro del bilancio dei COV.[^22-2]
 
@@ -524,22 +488,45 @@ Essa può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 La persona soggetta all’obbligo di dichiarazione che richiede una nuova imposizione doganale conformemente all’articolo 34 capoverso 3 della legge del 18 marzo 2005[^22a-2] sulle dogane deve provare che, al momento della dichiarazione doganale originaria, vi era già un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa.
 
-[^22a-1]: Introdotto dall’all. 4 n. 43 all’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^22a-1]: Introdotto dell’all. 4 n. 43 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 #### Art. 22b
 
 **Presentazione di un bilancio dei COV incompleto**[^22b-1]
 
-<sup>1</sup> Se un bilancio dei COV è presentato in maniera incompleta o oltre il termine di scadenza, l’autorizzazione secondo l’articolo 21 è sospesa per tre anni a decorrere dall’inizio dell’anno d’esercizio successivo.
+<sup>1</sup> …[^22b-2]
 
-<sup>2</sup> La Direzione generale delle dogane stabilisce una proroga per la presentazione di un bilancio dei COV completo.
+<sup>2</sup> Se un bilancio dei COV è presentato in maniera incompleta o oltre il termine di inoltro, l’UDSC stabilisce una proroga per la presentazione di un bilancio debitamente stilato.[^22b-3]
 
 <sup>3</sup> Per le tasse che secondo l’articolo 22 capoverso 2 sono da pagare posticipatamente sulla base del bilancio presentato oltre il termine di scadenza è dovuto un interesse di mora. Tale interesse è dovuto a decorrere dalla scadenza del termine di consegna conformemente all’articolo 22 capoverso 1.
 
 <sup>4</sup> Se il periodo di proroga secondo il capoverso 2 trascorre inutilizzato, la Direzione generale delle dogane stabilisce la tassa da pagare posticipatamente in base a una valutazione coscienziosa e in considerazione delle uscite degli anni precedenti gravate dalla tassa.
 
 [^22b-1]: Introdotto dal n. I dell’O del 2 apr. 2008, in vigore dal 1° giu. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^22b-2]: Abrogato dal n. I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^22b-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+
+#### Art. 22c
+
+**Sospensione**[^22c-1]
+
+<sup>1</sup>
+
+L’UDSC sospende l’autorizzazione per la procedura di impegno volontario se:
+
+- a. sono violati gli obblighi di collaborare, in particolare se il bilancio dei COV non è presentato in maniera completa entro il termine di inoltro prorogato; oppure
+- b. il pagamento a posteriori della tassa per i COV temporaneamente esenti appare a rischio.
+
+<sup>2</sup>
+
+Il pagamento appare a rischio in particolare se:
+
+- a. la capacità di pagamento del titolare dell’autorizzazione appare incerta sulla base di una verifica della solvibilità;
+- b. il titolare dell’autorizzazione è in mora con il pagamento; oppure
+- c. il titolare dell’autorizzazione non ha il domicilio in Svizzera o prende disposizioni per abbandonare il domicilio, la sede sociale o lo stabilimento d’impresa in Svizzera o per farsi cancellare dal registro di commercio svizzero.
+
+[^22c-1]: Introdotto dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## Sezione 8: Distribuzione del prodotto della tassa
 
@@ -547,7 +534,7 @@ La persona soggetta all’obbligo di dichiarazione che richiede una nuova imposi
 
 **Principio**[^23-1]
 
-<sup>1</sup> Gli assicuratori distribuiscono il prodotto della tassa alla popolazione, su incarico e sotto la vigilanza dell’UFM.
+<sup>1</sup> Gli assicuratori distribuiscono il prodotto della tassa alla popolazione, su incarico e sotto la vigilanza dell’UFAM, al netto dei costi di esecuzione.[^23-2]
 
 <sup>2</sup> La distribuzione avviene due anni dopo (anno di distribuzione) in base al prodotto annuo dell’anno di riscossione.
 
@@ -557,8 +544,8 @@ La persona soggetta all’obbligo di dichiarazione che richiede una nuova imposi
 
 Per assicuratori si intendono:
 
-- a. gli assicuratori dell’assicurazione malattie obbligatoria secondo la legge federale del 18 marzo 1994[^23-2] sull’assicurazione malattie (LAMal);
-- b. l’assicurazione militare secondo la legge federale del 19 giugno 1992[^23-3] sull’assicurazione militare (LAM).
+- a. gli assicuratori dell’assicurazione malattie obbligatoria secondo la legge federale del 18 marzo 1994[^23-3] sull’assicurazione malattie (LAMal);
+- b. l’assicurazione militare secondo la legge federale del 19 giugno 1992[^23-4] sull’assicurazione militare (LAM).
 
 <sup>5</sup>
 
@@ -567,15 +554,16 @@ Gli assicuratori distribuiscono il prodotto annuo in importi uguali a tutte le p
 - a. sono assoggettate all’obbligo d’assicurazione secondo la LAMal o secondo l’articolo 2 capoverso 1 o 2 LAM; e
 - b. sono domiciliate o dimorano abitualmente in Svizzera.
 
-<sup>6</sup> Alle persone assicurate soltanto temporaneamente presso un assicuratore durante l’anno di distribuzione, gli importi sono distribuiti proporzionalmente a questo lasso di tempo.[^23-4]
+<sup>6</sup> Alle persone assicurate soltanto temporaneamente presso un assicuratore durante l’anno di distribuzione, gli importi sono distribuiti proporzionalmente a questo lasso di tempo.[^23-5]
 
-<sup>7</sup> Gli assicuratori detraggono gli importi dai premi degli assicurati esigibili nell’anno di distribuzione.[^23-5]
+<sup>7</sup> Gli assicuratori detraggono gli importi dai premi degli assicurati esigibili nell’anno di distribuzione.[^23-6]
 
 [^23-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore, ad eccezione del cpv. 7 primo periodo, dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
-[^23-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^23-4]: Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^23-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^23-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^23-5]: Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23-6]: Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
 #### Art. 23a
 
@@ -632,7 +620,7 @@ Le persone che fabbricano COV devono annunciarsi alla Direzione generale delle d
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
-## Disposizione transitoria del 27 luglio 2012****
+## Disposizione transitoria del 27 luglio 2012
 
 [^u1-1]
 
@@ -640,7 +628,7 @@ Le persone che fabbricano COV devono annunciarsi alla Direzione generale delle d
 
 La domanda di approvazione del piano di provvedimenti ai fini di un’esenzione dalla tassa nel 2013 deve essere presentata entro il 30 aprile 2013.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2 lett. a)
 
@@ -757,13 +745,13 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), Allegato
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2 lett. b)
 
 ## Elenco dei prodotti (composti organici volatili, COV, soggetti alla tassa)
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 2 apr. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Aggiornato dall’all. 3 n. 16 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. II cpv. 2 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), dall’all. 3 n. 10 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dall’all. 2 n. 6 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dal n. II cpv. 2 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)) e dall’all. 3 n. 13 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 2 apr. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Aggiornato dell’all. 3 n. 16 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. II cpv. 2 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), dell’all. 3 n. 10 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dell’all. 2 n. 6 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dal n. II cpv. 2 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)) e dell’all. 3 n. 13 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 
 <table>
 <tr><td>N. di tariffa[^annex2-lvlu1-1]</td><td>Prodotto(i)/Gruppo(i) di prodotti</td></tr>
@@ -1188,13 +1176,13 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),Allegato
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 9 lett. c)
 
 ## Riduzione delle emissioni diffuse di COV
 
-[^t-3]: Introdotto dal n. II cpv. 3 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Aggiornato dal n. II dell’O del DATEC del 28 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^t-3]: Introdotto dal n. II cpv. 3 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Aggiornato dai n. II dell’O del DATEC del 28 nov. 2016 ([RU 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)) e dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ### 1 Requisiti di esercizio per impianti stazionari
 
@@ -1243,10 +1231,7 @@ I contenitori contenenti COV devono essere dotati di una copertura adeguata.
 
 ### 115 Documentazione
 
-<sup>1</sup> Deve essere disponibile un inventario aggiornato delle fonti di emissioni diffuse di COV nonché dei flussi di aria in entrata e in uscita. Esso comprende in particolare:
-
-- a. uno schema della ventilazione;
-- b. una stima quantitativa delle emissioni per ogni singola fonte.
+<sup>1</sup> Deve essere disponibile un inventario aggiornato delle fonti di emissioni diffuse di COV nonché dei flussi di aria in entrata e in uscita. Esso comprende in particolare una stima quantitativa delle emissioni per ogni singola fonte.
 
 <sup>2</sup> Le emissioni diffuse di COV devono essere motivate.
 
@@ -1271,6 +1256,6 @@ Su richiesta i requisiti secondo il presente allegato possono essere sostituiti 
 
 <sup>1</sup> Per concretizzare i requisiti secondo il presente allegato, l’UFAM emana direttive specifiche per settore. Tali direttive possono prevedere requisiti supplementari specifici per settore.
 
-<sup>2</sup> Esso adegua le direttive ogni cinque anni.
+<sup>2</sup> Esso adegua le direttive al progresso tecnico.
 
-<sup>3</sup> Nell’emanare o nell’adeguare le direttive, esso sente i rami economici interessati e i Cantoni, tenendo conto del progresso tecnico.
+<sup>3</sup> Prima di emanare o adeguare le direttive, consulta i rami economici interessati e i Cantoni.

@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 1997 sur la taxe d'incitation sur les composé
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: fr
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/fr"
 
 (OCOV)
 
-du 12 novembre 1997 (Etat le 1<sup>er</sup> juin 2022)
+du 12 novembre 1997 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -63,27 +63,30 @@ La législation sur les douanes est applicable par analogie à la perception et 
 L’OFEV:
 
 - a. exécute les dispositions concernant la répartition du produit de la taxe (art. 23 à 23*b*);
-- b. soutient la DGD dans l’exécution des dispositions relatives à l’exonération de la taxe liée à des mesures prises pour réduire les émissions (art. 9 à 9*h*);
+- b.[^4-2] ...
 - c. examine les effets sur la qualité de l’air de la taxe et de l’exonération de la taxe liée à des mesures prises pour réduire les émissions et publie régulièrement les résultats obtenus.
 
-<sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières[^4-2] met à la disposition de l’OFEV les documents nécessaires.
+<sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) met à la disposition de l’OFEV les documents nécessaires.[^4-3]
 
 <sup>4</sup>
 
-Les cantons soutiennent les autorités d’exécution, pour autant que ce ne soit pas la Confédération qui est soumise à la taxe. Ils vérifient en particulier:
+Les cantons soutiennent les autorités d’exécution de la Confédération, pour autant que cette dernière ne soit pas soumise à la taxe. Ils accomplissent notamment les tâches suivantes:
 
-- a. les plans de mesures au sens de l’art. 9*d* et leur adaptation (art. 9*f* et 9*g*);
-- b. la preuve au sens de l’art. 9*h*;
-- c. les bilans de COV au sens de l’art. 10;
-- d.[^4-3] la demande de prolongation du délai visée à l’art. 9*i.*
+- a. *abrogée*
+- b. vérification de la preuve au sens de l’art. 9*h*;
+- c. vérification des bilans de COV au sens de l’art. 10;
+- d. *abrogée*
+- e. confirmation de la réduction des émissions diffuses au sens de l’art. 9*k.*[^4-4]
 
-<sup>5</sup> Les autorités d’exécution reçoivent ensemble 1,5 % des recettes totales (produit brut) à titre de dédommagement pour leur travail.
+<sup>5</sup> Chaque année, les autorités d’exécution de la Confédération sont indemnisées pour leur travail à hauteur de 4,9 % des recettes (recettes brutes après déduction des remboursements). Le montant de ce dédommagement est revu et adapté au besoin.[^4-5]
 
 <sup>6</sup> En accord avec le Département fédéral des finances, le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) édicte des prescriptions concernant l’indemnisation des cantons pour leur contribution à l’exécution de l’ordonnance.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RO 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022.
-[^4-3]: Introduite par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^4-2]: Abrogée par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-5]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 5
 
@@ -105,7 +108,7 @@ Les cantons soutiennent les autorités d’exécution, pour autant que ce ne soi
 
 <sup>2</sup> Tous les renseignements et documents nécessaires à l’exécution de la présente ordonnance doivent être fournis aux autorités d’exécution lorsqu’elles en font la demande.
 
-## Section 3**** Taux de la taxe
+## Section 3 Taux de la taxe
 
 [^sec3-1]
 
@@ -130,11 +133,14 @@ Le taux de la taxe est fixé à 3 francs par kilogramme de COV.
 Sont exonérés de la taxe les COV contenus dans les mélanges et les objets suivants:
 
 - a. les mélanges et les objets dont la teneur en COV ne dépasse pas 3 % (% masse);
-- b. les mélanges et les objets produits en Suisse qui ne sont pas mentionnés dans la liste positive des produits.
+- b.[^8-1] les mélanges et les objets qui ne sont pas mentionnés dans la liste positive des produits.
 
-<sup>2</sup> Si les mélanges et les objets visés à l’al. 1, let. a, sont importés, ils ne sont pas soumis à la taxe.
+<sup>2</sup> ...[^8-2]
 
 <sup>3</sup> Si les mélanges et les objets visés à l’al. 1, let. a et b, sont produits en Suisse, les COV qu’ils contiennent sont exonérés de la taxe sur demande du producteur.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^8-2]: Abrogé par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9
 
@@ -164,18 +170,21 @@ Plusieurs installations stationnaires peuvent, sur demande, être réunies en un
 
 <sup>3</sup>
 
-La composition d’un groupe d’installations ne peut être modifiée durant la période définie à l’art. 9*c*, al. 1, let. b. Sont exceptées:
+La composition d’un groupe d’installations peut être modifiée dans les cas suivants:
 
-- a. l’exclusion d’installations stationnaires mises à l’arrêt;
-- b. l’intégration ultérieure d’installations stationnaires nouvellement mises en service;
-- c. l’intégration ultérieure d’installations stationnaires remplissant déjà les exigences de l’annexe 3.[^9a-3]
+- a. exclusion d’installations stationnaires mises à l’arrêt;
+- b. *abrogée*
+- c. intégration d’installations stationnaires remplissant déjà les exigences de l’annexe 3;
+- d. vente d’installations stationnaires;
+- e.[^9a-3] modification de l’annexe 3, uniquement au moment de l’entrée en vigueur de ladite modification.[^9a-4]
 
-<sup>4</sup> Si des laboratoires dont les émissions de COV ne sont pas dirigées vers une installation d’épuration sont intégrés à un groupe d’installations, ils doivent déjà remplir les exigences de l’annexe 3 au moment de leur intégration.[^9a-4]
+<sup>4</sup> ...[^9a-5]
 
 [^9a-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 [^9a-2]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
-[^9a-3]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
-[^9a-4]: Nouvelle teneur selon le ch. I de l’O du 13 fév. 2013, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
+[^9a-3]: Erratum du 25 nov. 2022 ([RO 2022 714](https://fedlex.data.admin.ch/eli/oc/2022/714)).
+[^9a-4]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9a-5]: Abrogé par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9b
 
@@ -201,121 +210,69 @@ Si la disponibilité de l’installation d’épuration exigée à l’art. 9, a
 
 #### Art. 9c
 
-**Réduction des émissions diffuses de COV**[^9c-1]
+**Adaptation à l’état de la technique**[^9c-1]
 
-<sup>1</sup>
+<sup>1</sup> Le DETEC adapte l’annexe 3 à l’état de la technique après avoir consulté les secteurs économiques concernés et les cantons.
 
-La condition stipulée à l’art. 9, al. 1, let. c, est remplie si:
+<sup>2</sup> Les émissions de COV des installations stationnaires qui ne peuvent plus être réduites conformément aux exigences de l’annexe 3 en raison d’une adaptation au sens de l’al. 1 continuent d’être exonérées de la taxe si l’installation remplit à nouveau les exigences de l’annexe 3 dans un délai de trois ans.
 
-- a. l’installation stationnaire remplit déjà les exigences de l’annexe 3, ou si
-- b.[^9c-2] les émissions diffuses de COV de l’installation stationnaire sont réduites conformément à un plan de mesures approuvé par la DGD de manière à ce que l’installation stationnaire soit conforme aux exigences de l’annexe 3, au plus tard le 31 décembre 2022 (période de validité).
+[^9c-1]: Introduit par le ch. I de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
-<sup>2</sup> Le DETEC adapte l’annexe 3 et la période de validité fixée à l’al. 1, let. b, tous les cinq ans, après avoir consulté les secteurs économiques concernés et les cantons. Il tient compte de l’évolution de la technique.
+#### Art. 9d à 9f
 
-[^9c-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9c-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 28 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^9d9f-1]
 
-#### Art. 9d
-
-**Plan de mesures**[^9d-1]
-
-<sup>1</sup>
-
-Le plan de mesures exigé à l’art. 9*c*, al. 1, let. b, contient:
-
-- a. des données sur l’état de mise en œuvre des exigences de l’annexe 3 (analyse de l’état actuel et de l’état à atteindre);
-- b. les mesures planifiées;
-- c. la durée planifiée pour la mise en œuvre des mesures;
-- d. le potentiel de réduction des émissions de chaque mesure.
-
-<sup>2</sup> Il doit garantir qu’au moins la moitié de la réduction des émissions prévue sera réalisée au cours des trois premières années de sa durée de validité.
-
-[^9d-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-
-#### Art. 9e
-
-**Demande d’approbation du plan de mesures**[^9e-1]
-
-<sup>1</sup> La demande d’approbation du plan de mesures d’une installation stationnaire existante doit être remise à l’autorité cantonale au plus tard le 30 avril de l’année précédant l’exonération.
-
-<sup>2</sup> La demande d’approbation du plan de mesures d’une nouvelle installation stationnaire peut être remise à l’autorité cantonale à tout moment.
-
-<sup>3</sup> La demande doit contenir le plan de mesures.
-
-<sup>4</sup> Les exploitants d’installations stationnaires existantes qui sont tenus de remettre un bilan de COV selon l’art. 10 doivent le joindre au plan de mesures.
-
-[^9e-1]: Introduit par le ch. I de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
-
-#### Art. 9f
-
-**Adaptation du plan de mesures en cas de mesures ayant le même effet**[^9f-1]
-
-<sup>1</sup> Le plan de mesures approuvé peut être adapté sur demande si une ou plusieurs mesures peuvent être remplacées par d’autres mesures ayant au moins le même effet.
-
-<sup>2</sup> La demande d’adaptation doit être remise à l’autorité cantonale au plus tard six mois avant le début de l’exercice durant lequel le plan de mesures modifié doit être mis en œuvre.
-
-[^9f-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9d9f-1]: Introduits par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Abrogés par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9g
 
-**Adaptation du plan de mesures en cas de modifications apportées à l’installation stationnaire**[^9g-1]
+**Modification apportée à l’installation stationnaire[^9g-2]**[^9g-1]
 
 <sup>1</sup> Toute modification apportée à l’installation stationnaire qui a des répercussions sur les émissions diffuses de COV doit être immédiatement signalée à l’autorité cantonale.
 
-<sup>2</sup> Le plan de mesures est adapté si nécessaire.
+<sup>2</sup> ...[^9g-3]
 
 [^9g-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9g-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9g-3]: Abrogé par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9h
 
-**Preuve à fournir pour l’exonération de la taxe liée à des mesures prises pour réduire les émissions**[^9h-1]
+**Preuve à fournir pour l’exonération de la taxe[^9h-2]**[^9h-1]
 
-<sup>1</sup>
-
-Quiconque désire bénéficier d’une exonération de la taxe au sens de l’art. 35*a*, al. 4, LPE doit prouver chaque année que les conditions d’exonération au sens de l’art. 9 sont remplies. Il faut en particulier prouver que:
-
-- a. l’installation stationnaire remplit les exigences de l’annexe 3, ou que
-- b.[^9h-2] les mesures prévues dans le plan de mesures approuvé pour l’exercice concerné ont été mises en œuvre dans les délais et que l’installation stationnaire remplit les autres exigences de l’annexe 3.
+<sup>1</sup> Quiconque désire bénéficier d’une exonération de la taxe au sens de l’art. 35*a*, al. 4, LPE doit prouver chaque année que les conditions d’exonération selon l’art. 9 sont remplies.[^9h-3]
 
 <sup>2</sup> La preuve doit être remise en même temps que le bilan de COV.
 
 <sup>3</sup> Si la preuve ne peut être fournie, les COV utilisés dans l’installation stationnaire ne sont pas exonérés pour l’exercice concerné.
 
 [^9h-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9h-2]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^9h-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9h-3]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9i
 
-**Prolongation du délai pour les cas de rigueur**[^9i-1]
+[^9i-1]
 
-<sup>1</sup> La DGD peut, sur demande, prolonger au plus tard jusqu’à la fin de la période de validité les délais prévus pour mettre en œuvre les mesures contenues dans le plan de mesures visé à l’art. 9*d* si la mise en œuvre de ces mesures dans les délais impartis compromet l’existence de l’entreprise qui exploite l’installation sans qu’il y ait faute de sa part.
-
-<sup>2</sup>
-
-La demande de prolongation du délai doit contenir notamment les informations suivantes:
-
-- a. le changement fondamental qui s’est produit depuis l’approbation du plan de mesures et qui, si ce dernier est mis en œuvre dans les délais impartis, compromet l’existence de l’entreprise exploitant l’installation, ainsi que les conséquences de ce changement pour l’entreprise;
-- b. la preuve que le changement fondamental mentionné à la let. a s’est produit sans faute de l’entreprise;
-- c. toutes les mesures déjà mises en œuvre pour réduire les émissions diffuses de COV dans l’installation stationnaire concernée;
-- d. les coûts attendus pour chaque mesure qui doit être reportée;
-- e. le calendrier de mise en œuvre des mesures qui doivent être reportées.
-
-<sup>3</sup> La DGD peut exiger d’autres informations.
-
-<sup>4</sup> La demande doit être remise à l’autorité cantonale au plus tard quatre mois avant la fin de l’exercice concerné.
-
-[^9i-1]: Introduit par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^9i-1]: Introduit par le ch. I de l’O du 25 oct. 2017 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Abrogé par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9j
 
-**Moment de l’exonération pour les nouvelles installations stationnaires**[^9j-1]
+**Début de l’exonération**[^9j-1]
 
-Les nouvelles installations stationnaires qui remplissent les conditions fixées à l’art. 9 sont exonérées de la taxe:
+Les installations stationnaires sont exonérées de la taxe à partir du moment où elles remplissent les conditions d’exonération selon l’art. 9.
 
-- a. à partir de la mise en exploitation si l’installation stationnaire remplit déjà les exigences de l’annexe 3;
-- b. à partir de l’exercice qui suit le dépôt de la demande d’approbation du plan de mesures si l’installation stationnaire ne remplit pas encore les exigences de l’annexe 3.
+[^9j-1]: Introduit par le ch. I de l’O du 25 oct. 2017 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
-[^9j-1]: Introduit par le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+#### Art. 9k
+
+**Confirmation de la réduction des émissions diffuses**[^9k-1]
+
+<sup>1</sup> Les cantons confirment sur demande de l’exploitant que les installations stationnaires respectent les exigences de l’annexe 3.
+
+<sup>2</sup> Ils vérifient ces confirmations au moins tous les cinq ans et réalisent des inspections à cette fin.
+
+[^9k-1]: Introduit par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 10
 
@@ -333,13 +290,14 @@ Le bilan de COV comprend:
 - d. les quantités éliminées dans l’entreprise ou dans une entreprise externe, ou les quantités transformées;
 - e. les émissions restantes.
 
-<sup>3</sup> La DGD peut demander d’autres informations.
+<sup>3</sup> Les autorités d’exécution peuvent demander d’autres informations.[^10-2]
 
 <sup>4</sup> Le bilan de COV doit être établi sur un formulaire officiel. La DGD est habilitée à accepter d’autres formes.
 
 <sup>5</sup> Si les frais liés à l’établissement des bilans de COV sont disproportionnés, la DGD peut accorder des exceptions aux al. 1 et 2.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## Section 5 Perception de la taxe à l’intérieur du pays
 
@@ -440,9 +398,11 @@ La prescription est interrompue:
 
 **Forclusion des droits au remboursement**
 
-<sup>1</sup> Les demandes de remboursement qui ne concernent pas des COV exportés s’éteignent si elles ne sont pas déposées dans les six mois qui suivent la clôture de l’exercice.
+<sup>1</sup> Les demandes de remboursement qui ne concernent pas des COV exportés doivent être déposées dans les six mois qui suivent la clôture de l’exercice. En cas de demande justifiée, l’OFDF peut prolonger ce délai de 30 jours.[^19-1]
 
 <sup>2</sup> Le droit au remboursement s’éteint dans tous les cas deux ans après sa naissance.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 20
 
@@ -463,7 +423,7 @@ En ce qui concerne les COV exportés, la demande de remboursement doit comporter
 - b. les rapports de fabrication et des échantillons dans leur emballage original ou tout document permettant de calculer la quantité de COV exportés;
 - c. les autres renseignements demandés par la DGD pour le calcul du montant du remboursement.
 
-## Section 7 Acquisition de COV temporairement non soumis à la taxe (procédure d’engagement formel)****
+## Section 7 Acquisition de COV temporairement non soumis à la taxe (procédure d’engagement formel)
 
 [^sec7-1]
 
@@ -475,33 +435,38 @@ En ce qui concerne les COV exportés, la demande de remboursement doit comporter
 
 <sup>1</sup>
 
-La DGD peut autoriser des personnes à acquérir des COV temporairement non soumis à la taxe si celles-ci s’engagent, pour au moins 50 t de COV par an au total:
+L’OFDF peut autoriser des personnes à acquérir des COV temporairement non soumis à la taxe si elles s’engagent, pour au moins 25 t de COV par an au total:[^21-2]
 
-- a. à les utiliser ou à les traiter d’une façon telle qu’ils ne puissent pénétrer dans l’environnement, ou
-- b. à les exporter.[^21-2]
+- a. à les utiliser ou à les traiter d’une façon telle qu’ils ne puissent pénétrer dans l’environnement,
+- b. à les exporter;
+- c.[^21-3] à les utiliser dans des mélanges ou des objets dont la teneur en COV ne dépasse pas 3 % (% masse), ou
+- d.[^21-4] à les utiliser dans des mélanges ou des objets qui ne sont pas mentionnés dans la liste positive des produits.[^21-5]
 
-<sup>1</sup> *<sup>a</sup>* …[^21-3]
+<sup>1</sup> *<sup>a</sup>* …[^21-6]
 
 <sup>1bis</sup>
 
-Elle peut aussi accorder cette autorisation à des personnes utilisant une substance figurant à l’annexe 1 de la présente ordonnance lorsqu’elles attestent:
+Il peut aussi accorder cette autorisation à des personnes utilisant une substance figurant à l’annexe 1 de la présente ordonnance lorsqu’elles attestent:
 
 - a. que la part de cette substance représente au moins 55 % de leur consommation totale de COV;
 - b. qu’elles utilisent au moins une tonne de cette substance par an, et
-- c. que celle-ci ne peut pénétrer dans l’environnement à la suite de la transformation chimique due aux procédés d’utilisation qu’à raison de 2 % au plus en moyenne.[^21-4]
+- c. que celle-ci ne peut pénétrer dans l’environnement à la suite de la transformation chimique due aux procédés d’utilisation qu’à raison de 2 % au plus en moyenne.[^21-7]
 
-<sup>2</sup> L’autorisation peut aussi être accordée à des personnes qui pratiquent le commerce de gros de COV et qui prouvent qu’elles possèdent un stock moyen d’au moins 25 t de COV ou qu’elles vendent au moins 50 t de COV par an.[^21-5]
+<sup>2</sup> L’autorisation peut aussi être accordée à des personnes qui pratiquent le commerce de gros de COV et qui prouvent qu’elles possèdent un stock moyen d’au moins 10 t de COV ou qu’elles vendent au moins 25 t de COV par an.[^21-8]
 
 <sup>3</sup> La déclaration d’engagement ou l’attestation doit être déposée auprès de la DGD.
 
-<sup>4</sup> La DGD tient un registre public des personnes autorisées à acquérir des COV temporairement non soumis à la taxe.[^21-6]
+<sup>4</sup> La DGD tient un registre public des personnes autorisées à acquérir des COV temporairement non soumis à la taxe.[^21-9]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
-[^21-3]: Introduit par le ch. I de l’O du 4 déc. 2000 ([RO 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Abrogé par le ch. I de l’O du 27 juin 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-4]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-5]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
-[^21-6]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-3]: Introduite par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-4]: Introduite par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-5]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2002, en vigueur depuis le 1<sup>er</sup> déc. 2002 ([RO 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
+[^21-6]: Introduit par le ch. I de l’O du 4 déc. 2000 ([RO 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Abrogé par le ch. I de l’O du 27 juin 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-7]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-8]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-9]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 
 #### Art. 22
 
@@ -531,15 +496,38 @@ La personne assujettie à l’obligation de déclarer qui demande une nouvelle t
 
 **Bilans de COV incomplets ou remise tardive**[^22b-1]
 
-<sup>1</sup> Si le détenteur remet un bilan de COV incomplet ou ne tient pas le délai imparti, l’autorisation délivrée au sens de l’art. 21 est suspendue pendant trois ans à partir du début de l’exercice suivant.
+<sup>1</sup> ...[^22b-2]
 
-<sup>2</sup> La DGD fixe une prolongation de délai pour la remise ultérieure d’un bilan de COV complet.
+<sup>2</sup> Si le bilan de COV n’est pas complet ou n’est pas remis dans le délai imparti, l’OFDF fixe un délai supplémentaire.[^22b-3]
 
 <sup>3</sup> Un intérêt moratoire est dû sur la taxe devant être acquittée ultérieurement au sens de l’art. 22, al. 2, sur la base du bilan remis dans le délai prolongé. Il est dû à partir de l’échéance du délai de remise au sens de l’art. 22, al. 1.
 
 <sup>4</sup> Si le délai prolongé au sens de l’al. 2 expire sans remise ultérieure de bilan, la DGD fixe la taxe devant être acquittée ultérieurement dans les limites de son pouvoir d’appréciation et en tenant compte des sorties de COV taxées les années précédentes.
 
 [^22b-1]: Introduit par le ch. I de l’O du 2 avr. 2008, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^22b-2]: Abrogé par le ch. I de l’O du 23 fév. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^22b-3]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+
+#### Art. 22c
+
+**Suspension**[^22c-1]
+
+<sup>1</sup>
+
+L’OFDF suspend l’autorisation d’acquérir des COV temporairement non soumis à la taxe si:
+
+- a. des obligations de collaborer ne sont pas respectées, notamment si un bilan de COV complet n’est pas remis dans le délai supplémentaire imparti, ou
+- b. le paiement ultérieur de la taxe prélevée sur les COV temporairement non soumis à la taxe paraît compromis.
+
+<sup>2</sup>
+
+Le paiement paraît compromis notamment si:
+
+- a. la solvabilité du bénéficiaire de l’autorisation est mise en doute suite à un examen de la solvabilité;
+- b. le bénéficiaire de l’autorisation accuse un retard de paiement, ou
+- c. le bénéficiaire de l’autorisation n’a pas de domicile en Suisse ou prend des dispositions pour abandonner son domicile, son siège social ou ses établissements stables en Suisse ou se faire radier du registre du commerce suisse.
+
+[^22c-1]: Introduit par le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## Section 8 Répartition du produit de la taxe
 
@@ -547,7 +535,7 @@ La personne assujettie à l’obligation de déclarer qui demande une nouvelle t
 
 **Principe**[^23-1]
 
-<sup>1</sup> Les assureurs redistribuent le produit de la taxe à la population sur mandat et sous surveillance de l’OFEV.
+<sup>1</sup> Les assureurs redistribuent le produit de la taxe à la population après déduction des frais d’exécution, sur mandat et sous la surveillance de l’OFEV.[^23-2]
 
 <sup>2</sup> La redistribution a lieu deux ans après (année de redistribution) sur la base du produit annuel de l’année de prélèvement.
 
@@ -557,8 +545,8 @@ La personne assujettie à l’obligation de déclarer qui demande une nouvelle t
 
 On entend par assureurs:
 
-- a. ceux qui pratiquent l’assurance-maladie obligatoire selon la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^23-2];
-- b. l’assurance militaire selon la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^23-3].
+- a. ceux qui pratiquent l’assurance-maladie obligatoire selon la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^23-3];
+- b. l’assurance militaire selon la loi fédérale du 19 juin 1992 sur l’assurance militaire (LAM)[^23-4].
 
 <sup>5</sup>
 
@@ -567,15 +555,16 @@ Les assureurs redistribuent le produit annuel en montants égaux à toutes les p
 - a. sont tenues de s’assurer conformément à la LAMal ou à l’art. 2, al. 1 ou 2, LAM, et
 - b. sont domiciliées ou résident habituellement en Suisse.
 
-<sup>6</sup> Lorsque des personnes n’ont été assurées que temporairement auprès d’un assureur pendant l’année de redistribution, les montants sont redistribués au prorata de la durée d’affiliation.[^23-4]
+<sup>6</sup> Lorsque des personnes n’ont été assurées que temporairement auprès d’un assureur pendant l’année de redistribution, les montants sont redistribués au prorata de la durée d’affiliation.[^23-5]
 
-<sup>7</sup> Les assureurs déduisent les montants des primes exigibles durant l’année de redistribution.[^23-5]
+<sup>7</sup> Les assureurs déduisent les montants des primes exigibles durant l’année de redistribution.[^23-6]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012, sauf la 1<sup>re</sup> phrase de l’al. 7, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
-[^23-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^23-4]: Nouvelle teneur selon l’art. 137 de l’O du 30 nov. 2012 sur la réduction des émissions de CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^23-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^23-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^23-5]: Nouvelle teneur selon l’art. 137 de l’O du 30 nov. 2012 sur la réduction des émissions de CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23-6]: Nouvelle teneur selon l’art. 137 de l’O du 30 nov. 2012 sur la réduction des émissions de CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
 #### Art. 23a
 
@@ -632,7 +621,7 @@ Les personnes qui produisent des COV doivent se faire enregistrer à la DGD dans
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
-## Disposition transitoire de la modification du 27 juin 2012****
+## Disposition transitoire de la modification du 27 juin 2012
 
 [^u1-1]
 
@@ -640,7 +629,7 @@ Les personnes qui produisent des COV doivent se faire enregistrer à la DGD dans
 
 La demande d’approbation du plan de mesures en vue d’une exonération de la taxe en 2013 doit être déposée au plus tard le 30 avril 2013.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 2, let. a)
 
@@ -757,7 +746,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 2, let. b)
 
@@ -776,7 +765,7 @@ Annexe 2*[^t-2]*
 <tr><td></td><td>[tab] – autres:</td></tr>
 <tr><td>9010</td><td>[tab] – – alcool éthylique non dénaturé d’un titre alcoométrique volumique de moins de 80 % vol</td></tr>
 <tr><td>ex 2209. 0000</td><td>Vinaigres comestibles et succédanés de vinaigre comestibles obtenus à partir d’acide acétique, non destinés à la consommation</td></tr>
-<tr><td>2710.</td><td>huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base, *autres que celles contenant du biodi**e**sel* et autres que les déchets d’huiles:</td></tr>
+<tr><td>2710.</td><td>huiles de pétrole ou de minéraux bitumineux (autres que les huiles brutes) et préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base, *autres que celles contenant du biodiesel* et autres que les déchets d’huiles:</td></tr>
 <tr><td></td><td>[tab] – destinées à d’autres usages:</td></tr>
 <tr><td>1994</td><td>[tab] – – distillats d’huiles minérales dont moins de 20 % vol distillent avant 300 °C, mélangés</td></tr>
 <tr><td>1999</td><td>[tab] – – autres distillats et produits</td></tr>
@@ -1191,13 +1180,13 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 9, let. c)
 
 ## Réduction des émissions diffuses de COV
 
-[^t-3]: Introduite par le ch. II al. 3 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Mise à jour par le ch. II de l’O du DETEC du 28 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^t-3]: Introduite par le ch. II al. 3 de l’O du 27 juin 2012 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Mise à jour par le ch. II de l’O du DETEC du 28 nov. 2016 ([RO 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)) et le ch. II de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ### 1 Exigences applicables à l’exploitation d’installations stationnaires
 
@@ -1246,10 +1235,7 @@ Les récipients contenant des COV doivent être équipés d’un dispositif de f
 
 ### 115 Documentation
 
-<sup>1</sup> Un inventaire des sources d’émissions diffuses de COV et des flux entrants et sortants doit être dressé et tenu à jour. Il comprend notamment:
-
-- a. un plan d’aération;
-- b. une estimation des quantités de COV émis par chaque source.
+<sup>1</sup> Un inventaire des sources d’émissions diffuses de COV et des flux entrants et sortants doit être dressé et tenu à jour. Il comprend notamment une estimation des quantités de COV émis par chaque source.
 
 <sup>2</sup> Les émissions diffuses de COV doivent être justifiées.
 
@@ -1274,6 +1260,6 @@ Sur demande, les exigences de la présente annexe peuvent être remplacées par 
 
 <sup>1</sup> Pour concrétiser les exigences de la présente annexe, l’OFEV édicte des directives spécifiques aux branches. Selon la branche, ces directives peuvent contenir des exigences supplémentaires.
 
-<sup>2</sup> L’OFEV adapte les directives tous les cinq ans.
+<sup>2</sup> L’OFEV adapte les directives à l’état de la technique.
 
-<sup>3</sup> Lorsqu’il adopte ou modifie les directives, l’OFEV consulte les cantons et les branches économiques concernées et tient compte de l’évolution de la technologie.
+<sup>3</sup> Lorsqu’il édicte ou modifie les directives, il consulte au préalable les cantons et les secteurs économiques concernés.

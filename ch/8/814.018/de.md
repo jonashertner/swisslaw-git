@@ -4,11 +4,11 @@ title: Verordnung vom 12. November 1997 über die Lenkungsabgabe auf flüchtigen
 short: VOCV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: de
-version: 2022-06-01
+version: 2023-01-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20220601/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20220601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20220601/de"
 
 (VOCV)
 
-vom 12. November 1997 (Stand am 1. Juni 2022)
+vom 12. November 1997 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -63,27 +63,30 @@ Die Zollgesetzgebung findet sinngemäss Anwendung auf die Erhebung und Rückerst
 Das BAFU:
 
 - a. vollzieht die Bestimmungen über die Verteilung des Abgabeertrages (Art. 23–23*b*);
-- b. unterstützt die Oberzolldirektion beim Vollzug der Bestimmungen über die Abgabebefreiung bei Massnahmen zur Verminderung der Emissionen (Art. 9–9*h*);
+- b.[^4-2] …
 - c. untersucht die Wirkung der Abgabe und der Abgabebefreiung bei Massnahmen zur Verminderung der Emissionen auf die Luftqualität und veröffentlicht die Ergebnisse regelmässig.
 
-<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit[^4-2] stellt dem BAFU die benötigten Unterlagen zur Verfügung.
+<sup>3</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) stellt dem BAFU die benötigten Unterlagen zur Verfügung.[^4-3]
 
 <sup>4</sup>
 
-Die Kantone unterstützen die Vollzugsbehörden, soweit nicht der Bund abgabepflichtig ist. Sie überprüfen insbesondere:
+Die Kantone unterstützen die Vollzugsbehörden des Bundes, soweit nicht der Bund abgabepflichtig ist. Sie nehmen insbesondere folgende Aufgaben wahr:
 
-- a. die Massnahmenpläne nach Artikel 9*d* sowie ihre Anpassung (Art. 9*f* und 9*g*);
-- b. die Nachweise nach Artikel 9*h*;
-- c. die VOC-Bilanzen nach Artikel 10;
-- d.[^4-3] das Gesuch um Fristerstreckung nach Artikel 9*i.*
+- a. *Aufgehoben*
+- b. die Überprüfung der Nachweise nach Artikel 9*h*;
+- c. die Überprüfung der VOC-Bilanzen nach Artikel 10;
+- d. *Aufgehoben*
+- e. die Bestätigung der Verminderung diffuser Emissionen nach Artikel 9*k.*[^4-4]
 
-<sup>5</sup> Die Vollzugsbehörden erhalten zusammen 1,5 Prozent der Gesamteinnahmen (Bruttoertrag) als Entschädigung für ihren Aufwand.
+<sup>5</sup> Die Aufwände der Vollzugsbehörden des Bundes werden jährlich mit 4,9 Prozent der Einnahmen (Bruttoeinnahmen abzüglich Rückerstattungen) entschädigt. Die Höhe der Vollzugsentschädigung wird bei Bedarf überprüft und angepasst.[^4-5]
 
 <sup>6</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) erlässt im Einvernehmen mit dem Eidgenössischen Finanzdepartement Vorschriften über die Abgeltung der Kantone für die Unterstützung des Vollzugs.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)) auf den 1. Jan. 2022 angepasst.
-[^4-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^4-2]: Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 5
 
@@ -101,9 +104,11 @@ Die Kantone unterstützen die Vollzugsbehörden, soweit nicht der Bund abgabepfl
 
 **Kontrollen**
 
-<sup>1</sup> Die Vollzugsbehörden können unangemeldet Kontrollen durchführen, insbesondere bei Abgabepflichtigen sowie bei Personen, die eine VOC-Bilanz erstellen müssen oder die einen Rückerstattungsantrag stellen.
+<sup>1</sup> Die Vollzugsbehörden können unangemeldet Kontrollen durchführen, insbesondere bei Abgabepflichtigen sowie bei Personen, die eine VOC-Bilanz erstellen müssen oder die ein Gesuch um Rückerstattung[^6-1] stellen.
 
 <sup>2</sup> Den Vollzugsbehörden sind auf Verlangen alle Auskünfte zu erteilen und Unterlagen vorzulegen, die für den Vollzug dieser Verordnung erforderlich sind.
+
+[^6-1]: Ausdruck gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ## 3. Abschnitt: Abgabesatz
 
@@ -126,11 +131,15 @@ Der Abgabesatz beträgt 3 Franken je Kilogramm VOC.
 VOC in folgenden Gemischen und Gegenständen sind von der Abgabe befreit:
 
 - a. Gemische und Gegenstände, in denen der VOC-Anteil höchstens 3 Prozent (% Masse) beträgt;
-- b. Im Inland hergestellte Gemische und Gegenstände, die nicht auf der Produkte-Positivliste aufgeführt sind.
+- b.[^8-1] Gemische und Gegenstände, die nicht auf der Produkte-Positivliste aufgeführt sind.
 
-<sup>2</sup> Werden Gemische und Gegenstände nach Absatz 1 Buchstabe a eingeführt, so wird die Abgabe nicht erhoben.
+<sup>2</sup> …[^8-2]
 
-<sup>3</sup> Werden Gemische und Gegenstände nach Absatz 1 Buchstaben a und b im Inland hergestellt, so werden die darin enthaltenen VOC auf Antrag der Hersteller und Herstellerinnen von der Abgabe befreit.
+<sup>3</sup> Werden Gemische und Gegenstände nach Absatz 1 Buchstaben a und b im Inland hergestellt, so werden die darin enthaltenen VOC auf Gesuch[^8-3] der Hersteller und Herstellerinnen von der Abgabe befreit.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^8-2]: Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^8-3]: Ausdruck gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 9
 
@@ -160,18 +169,20 @@ Mehrere stationäre Anlagen können auf Gesuch zu einer Anlagengruppe zusammenge
 
 <sup>3</sup>
 
-Die Zusammensetzung einer Anlagengruppe kann während der Laufzeit nach Artikel 9*c* Absatz 1 Buchstabe b nicht geändert werden. Ausgenommen sind:
+Die Zusammensetzung einer Anlagengruppe kann in den folgenden Fällen geändert werden:
 
-- a. der Ausschluss stillgelegter stationärer Anlagen;
-- b. der nachträgliche Einbezug neu in Betrieb genommener stationärer Anlagen;
-- c. der nachträgliche Einbezug stationärer Anlagen, die bereits den Anforderungen nach Anhang 3 genügen.[^9a-3]
+- a. Ausschluss stillgelegter stationärer Anlagen;
+- b. *Aufgehoben*
+- c. Einbezug stationärer Anlagen, die den Anforderungen nach Anhang 3 genügen;
+- d. Verkauf stationärer Anlagen;
+- e. Änderung von Anhang 3; nur auf den Zeitpunkt des Inkrafttretens der Änderung.[^9a-3]
 
-<sup>4</sup> Werden Laboratorien, deren VOC-Emissionen nicht über eine ALURA geführt werden, in eine Anlagengruppe einbezogen, so müssen diese bereits zum Zeitpunkt ihres Einbezugs den Anforderungen nach Anhang 3 genügen.[^9a-4]
+<sup>4</sup> …[^9a-4]
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 [^9a-2]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
-[^9a-3]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
-[^9a-4]: Fassung gemäss Ziff. I der V vom 13. Febr. 2013, in Kraft seit 1. März 2013 ([AS 2013 573](https://fedlex.data.admin.ch/eli/oc/2013/112)).
+[^9a-3]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)). Die Berichtigung vom 25. Nov. 2022 von Bst. e betrifft nur den französischen Text ([AS 2022 714](https://fedlex.data.admin.ch/eli/oc/2022/714)).
+[^9a-4]: Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9b
 
@@ -197,121 +208,69 @@ Wurde die nach Artikel 9 Absatz 1 Buchstabe b verlangte Verfügbarkeit der ALURA
 
 #### Art. 9c
 
-**Verminderung der diffusen VOC-Emissionen**[^9c-1]
+**Anpassungen an den Stand der Technik**[^9c-1]
 
-<sup>1</sup>
+<sup>1</sup> Das UVEK passt Anhang 3 der technischen Entwicklung an. Es hört vorgängig die betroffenen Wirtschaftszweige und die Kantone an.
 
-Artikel 9 Absatz 1 Buchstabe c ist erfüllt, wenn:
+<sup>2</sup> Die VOC-Emissionen aus stationären Anlagen, die aufgrund einer Anpassung nach Absatz 1 nicht mehr nach den Anforderungen nach Anhang 3 vermindert werden, bleiben von der Abgabe befreit, wenn die Anlage spätestens innerhalb von drei Jahren ab dem Zeitpunkt des Inkrafttretens der Anpassung die Anforderungen von Anhang 3 wieder erfüllt.
 
-- a. die stationäre Anlage den Anforderungen nach Anhang 3 bereits genügt; oder
-- b.[^9c-2] die diffusen VOC-Emissionen nach Massgabe eines von der Oberzolldirektion genehmigten Massnahmenplans so vermindert werden, dass die stationäre Anlage spätestens am 31. Dezember 2022 (Laufzeit) den Anforderungen nach Anhang 3 genügt.
+[^9c-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
-<sup>2</sup> Das UVEK passt Anhang 3 sowie die Laufzeit nach Absatz 1 Buchstabe b alle fünf Jahre nach Anhörung der betroffenen Wirtschaftszweige und der Kantone an. Es berücksichtigt dabei die technische Entwicklung.
+#### Art. 9d–9f
 
-[^9c-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9c-2]: Fassung gemäss Ziff. I der V des UVEK vom 28. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^9d9f-1]
 
-#### Art. 9d
-
-**Massnahmenplan**[^9d-1]
-
-<sup>1</sup>
-
-Der Massnahmenplan nach Artikel 9*c* Absatz 1 Buchstabe b enthält:
-
-- a. Angaben über den Stand der Erfüllung der Anforderungen nach Anhang 3 (Soll-Ist Analyse);
-- b. die geplanten Massnahmen;
-- c. den geplanten Zeitrahmen der Umsetzung der Massnahmen;
-- d. das Emissionsreduktionspotenzial jeder Massnahme.
-
-<sup>2</sup> Er muss vorsehen, dass mindestens die Hälfte der geplanten Emissionsreduktion in den ersten drei Jahren seiner Dauer erbracht wird.
-
-[^9d-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-
-#### Art. 9e
-
-**Gesuch um Genehmigung des Massnahmenplans**[^9e-1]
-
-<sup>1</sup> Für eine bestehende stationäre Anlage ist das Gesuch um Genehmigung des Massnahmenplans der kantonalen Behörde spätestens am 30. April des Jahres vor Beginn der Abgabebefreiung einzureichen.
-
-<sup>2</sup> Für eine neue stationäre Anlage kann das Gesuch um Genehmigung des Massnahmenplans der kantonalen Behörde jederzeit eingereicht werden.
-
-<sup>3</sup> Das Gesuch muss den Massnahmenplan enthalten.
-
-<sup>4</sup> Betreiber von bestehenden stationären Anlagen, die eine VOC-Bilanz nach Artikel 10 einzureichen haben, müssen diese dem Massnahmenplan beilegen.
-
-[^9e-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
-
-#### Art. 9f
-
-**Anpassung des Massnahmenplans bei Massnahmen mit gleicher Wirkung**[^9f-1]
-
-<sup>1</sup> Der genehmigte Massnahmenplan kann auf Gesuch angepasst werden, wenn eine oder mehrere Massnahmen durch andere Massnahmen mit mindestens gleicher Wirkung ersetzt werden können.
-
-<sup>2</sup> Das Gesuch um Anpassung ist der kantonalen Behörde spätestens sechs Monate vor Beginn des Geschäftsjahres einzureichen, in dem der angepasste Massnahmenplan umgesetzt werden soll.
-
-[^9f-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9d9f-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9g
 
-**Anpassung des Massnahmenplans bei Änderungen an der stationären Anlage**[^9g-1]
+**Änderung an der stationären Anlage[^9g-2]**[^9g-1]
 
 <sup>1</sup> Änderungen an der stationären Anlage, die Auswirkungen auf die diffusen VOC-Emissionen haben, sind der kantonalen Behörde unverzüglich zu melden.
 
-<sup>2</sup> Soweit notwendig wird der Massnahmenplan angepasst.
+<sup>2</sup> …[^9g-3]
 
 [^9g-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9g-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9g-3]: Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9h
 
-**Nachweis für die Abgabebefreiung bei Massnahmen zur Verminderung der Emissionen**[^9h-1]
+**Nachweis für die Abgabebefreiung[^9h-2]**[^9h-1]
 
-<sup>1</sup>
-
-Wer eine Abgabebefreiung im Sinne von Artikel 35*a* Absatz 4 USG beansprucht, muss jährlich nachweisen, dass die Befreiungsvoraussetzungen nach Artikel 9 erfüllt sind. Insbesondere ist nachzuweisen, dass:
-
-- a. die stationäre Anlage den Anforderungen nach Anhang 3 genügt; oder
-- b.[^9h-2] die im genehmigten Massnahmenplan für das betreffende Geschäftsjahr vorgesehenen Massnahmen fristgerecht umgesetzt wurden und die stationäre Anlage den übrigen Anforderungen nach Anhang 3 genügt.
+<sup>1</sup> Wer eine Abgabebefreiung im Sinne von Artikel 35*a* Absatz 4 USG beansprucht, muss jährlich nachweisen, dass die Befreiungsvoraussetzungen nach Artikel 9 erfüllt sind.[^9h-3]
 
 <sup>2</sup> Der Nachweis ist gleichzeitig mit der VOC-Bilanz einzureichen.
 
 <sup>3</sup> Kann der Nachweis nicht erbracht werden, so entfällt die Abgabebefreiung für die in der stationären Anlage verwendeten VOC während dem betreffenden Geschäftsjahr.
 
 [^9h-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9h-2]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^9h-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9h-3]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9i
 
-**Fristerstreckung bei Härtefällen**[^9i-1]
+[^9i-1]
 
-<sup>1</sup> Die Oberzolldirektion kann auf Gesuch hin die Fristen zur Umsetzung der Massnahmen im Massnahmenplan nach Artikel 9*d* bis höchstens zum Ende der Laufzeit verlängern, wenn das Unternehmen, in dem die Anlage betrieben wird, durch die fristgerechte Umsetzung der Massnahmen unverschuldet in seiner Existenz gefährdet werden könnte.
-
-<sup>2</sup>
-
-Das Gesuch um Fristerstreckung muss insbesondere folgende Angaben enthalten:
-
-- a. die grundlegende Veränderung seit Genehmigung des Massnahmenplans, die bei dessen fristgerechter Umsetzung zur Existenzgefährdung führt, und deren Auswirkungen auf das Unternehmen;
-- b. den Nachweis, dass die grundlegende Veränderung nach Buchstabe a unverschuldet erfolgt ist;
-- c. sämtliche bereits umgesetzten Massnahmen zur Verminderung diffuser VOC-Emissionen in der betroffenen stationären Anlage;
-- d. die zu erwartenden Kosten jeder Massnahme, die zu verschieben ist;
-- e. den Zeitplan für die Umsetzung der Massnahmen, die zu verschieben sind.
-
-<sup>3</sup> Die Oberzolldirektion kann weitere Angaben verlangen.
-
-<sup>4</sup> Das Gesuch ist der kantonalen Behörde bis vier Monate vor Ablauf des betreffenden Geschäftsjahres einzureichen.
-
-[^9i-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+[^9i-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9j
 
-**Zeitpunkt der Befreiung bei neuen stationären Anlagen**[^9j-1]
+**Zeitpunkt der Befreiung**[^9j-1]
 
-Neue stationäre Anlagen, welche die Befreiungsvoraussetzungen nach Artikel 9 erfüllen, sind ab folgendem Zeitpunkt von der Abgabe befreit:
+Stationäre Anlagen sind ab dem Zeitpunkt von der Abgabe befreit, ab dem sie die Befreiungsvoraussetzungen nach Artikel 9 erfüllen.
 
-- a. wenn die stationäre Anlage den Anforderungen nach Anhang 3 bereits genügt: ab der Betriebsaufnahme;
-- b. wenn die stationäre Anlage den Anforderungen nach Anhang 3 noch nicht genügt: ab dem Geschäftsjahr, das auf die Einreichung des Gesuchs um Genehmigung des Massnahmenplans folgt.
+[^9j-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
-[^9j-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
+#### Art. 9k
+
+**Bestätigung der Verminderung diffuser Emissionen**[^9k-1]
+
+<sup>1</sup> Die Kantone bestätigen bei stationären Anlagen auf Anfrage des Betreibers die Einhaltung der Anforderungen nach Anhang 3.
+
+<sup>2</sup> Sie überprüfen die Bestätigungen mindestens alle fünf Jahre und führen dazu Begehungen durch.
+
+[^9k-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 10
 
@@ -329,13 +288,14 @@ Die VOC-Bilanz enthält:
 - d. im eigenen oder externen Betrieb eliminierte Mengen oder umgewandelte Mengen;
 - e. Restemissionen.
 
-<sup>3</sup> Die Oberzolldirektion kann weitere Angaben verlangen.
+<sup>3</sup> Die Vollzugsbehörden können weitere Angaben verlangen.[^10-2]
 
 <sup>4</sup> Die VOC-Bilanz ist auf einem amtlichen Formular zu erstellen. Die Oberzolldirektion kann andere Formen zulassen.
 
 <sup>5</sup> Ist der Aufwand für die Erstellung der VOC-Bilanzen unverhältnismässig hoch, so kann die Oberzolldirektion Ausnahmen von den Absätzen 1 und 2 gewähren.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## 5. Abschnitt: Abgabeerhebung im Inland
 
@@ -418,11 +378,11 @@ Die Verjährung wird unterbrochen:
 
 <sup>1</sup> Abgaben werden nur zurückerstattet, wenn die Berechtigten nachweisen, dass die VOC so verwendet wurden, dass diese von der Abgabe befreit sind.[^18-1]
 
-<sup>2</sup> Die Berechtigten müssen alle für die Begründung der Rückerstattung wesentlichen Unterlagen während fünf Jahren seit Einreichung des Rückerstattungsantrages aufbewahren.
+<sup>2</sup> Die Berechtigten müssen alle für die Begründung der Rückerstattung wesentlichen Unterlagen während fünf Jahren seit Einreichung des Gesuchs um Rückerstattung aufbewahren.
 
 <sup>3</sup> Beträgt der Rückerstattungsanspruch weniger als 3000 Franken, so wird er nicht ausbezahlt. Ausgenommen sind Rückerstattungsbeträge von mindestens 300 Franken für die Ausfuhr von VOC.
 
-<sup>3bis</sup> Mehrere Berechtigte können sich zu einer Gruppe zusammenschliessen und gemeinsam einen Rückerstattungsantrag stellen. Die Auszahlung des Rückerstattungsbetrags erfolgt an den von der Gruppe bezeichneten Vertreter.[^18-2]
+<sup>3bis</sup> Mehrere Berechtigte können sich zu einer Gruppe zusammenschliessen und gemeinsam ein Gesuch um Rückerstattung stellen. Die Auszahlung des Rückerstattungsbetrags erfolgt an den von der Gruppe bezeichneten Vertreter.[^18-2]
 
 <sup>4</sup> Die Berechtigten müssen nachweisen, dass die Abgabe entrichtet wurde.[^18-3]
 
@@ -436,30 +396,32 @@ Die Verjährung wird unterbrochen:
 
 **Verwirkung von Rückerstattungsansprüchen**
 
-<sup>1</sup> Rückerstattungsansprüche, soweit sie nicht die Ausfuhr betreffen, verwirken, wenn die entsprechenden Anträge nicht innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres gestellt werden.
+<sup>1</sup> Rückerstattungsansprüche, soweit sie nicht die Ausfuhr betreffen, sind innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres zu stellen. Das BAZG kann diese Frist in begründeten Fällen auf Gesuch hin um 30 Tage erstrecken.[^19-1]
 
 <sup>2</sup> Rückerstattungsansprüche erlöschen in jedem Fall zwei Jahre nach Eintritt des Rückerstattungsgrundes.
 
+[^19-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+
 #### Art. 20
 
-**Antrag auf Rückerstattung**
+**Gesuch auf Rückerstattung**
 
 <sup>1</sup>
 
-Für die Rückerstattung der Abgabe ist ein Antrag auf amtlichem Formular zu stellen und einzureichen bei:
+Für die Rückerstattung der Abgabe ist ein Gesuch auf amtlichem Formular zu stellen und einzureichen bei:
 
 - a. den kantonalen Behörden;
 - b. der Oberzolldirektion für ausgeführte VOC.
 
 <sup>2</sup>
 
-Der Antrag für ausgeführte VOC muss enthalten:
+Das Gesuch für ausgeführte VOC muss enthalten:
 
 - a. die auf den Ausfuhrdokumenten deklarierte Menge VOC, die während höchstens zwölf Monaten ausgeführt worden ist;
 - b. Fabrikationsrapporte, Muster in Originalverpackungen oder andere Unterlagen, die für die Feststellung der ausgeführten Menge VOC nötig sind;
 - c. weitere für die Berechnung der Rückerstattung erforderliche Angaben, welche die Oberzolldirektion verlangt.
 
-## 7. Abschnitt: Bezug von vorläufig abgabebefreiten VOC (Verpflichtungsverfahren)****
+## 7. Abschnitt: Bezug von vorläufig abgabebefreiten VOC (Verpflichtungsverfahren)
 
 [^sec7-1]
 
@@ -471,33 +433,38 @@ Der Antrag für ausgeführte VOC muss enthalten:
 
 <sup>1</sup>
 
-Die Oberzolldirektion kann Personen eine Bewilligung zum Bezug von vorläufig abgabebefreiten VOC erteilen, wenn sie sich verpflichten, insgesamt jährlich mindestens 50 t VOC:
+Das BAZG kann Personen eine Bewilligung zum Bezug von vorläufig abgabebefreiten VOC erteilen, wenn sie sich verpflichten, insgesamt jährlich mindestens 25 t VOC:[^21-2]
 
-- a. so zu verwenden oder so zu behandeln, dass sie nicht in die Umwelt gelangen können; oder
-- b. zu exportieren.[^21-2]
+- a. so zu verwenden oder so zu behandeln, dass sie nicht in die Umwelt gelangen können;
+- b. zu exportieren;
+- c.[^21-3] zu Gemischen und Gegenständen zu verarbeiten, in denen der VOC-Anteil höchstens 3 Prozent (% Masse) beträgt; oder
+- d.[^21-4] zu Gemischen und Gegenständen zu verarbeiten, die nicht auf der Produkte-Positivliste aufgeführt sind.[^21-5]
 
-<sup>1</sup> *<sup>a</sup>* …[^21-3]
+<sup>1</sup> *<sup>a</sup>* …[^21-6]
 
 <sup>1bis</sup>
 
-Sie kann diese Bewilligung auch Personen erteilen, die einen Stoff nach Anhang 1 dieser Verordnung verwenden, wenn sie nachweisen, dass:
+Es kann diese Bewilligung auch Personen erteilen, die einen Stoff nach Anhang 1 dieser Verordnung verwenden, wenn sie nachweisen, dass:
 
 - a. der Anteil dieses Stoffes an ihrem Gesamtverbrauch von VOC mindestens 55 Prozent beträgt;
 - b. sie jährlich mindestens 1 Tonne dieses Stoffes verwenden; und
-- c. durch verfahrensbedingte chemische Umwandlung bei Verwendung dieses Stoffes im Durchschnitt höchstens 2 Prozent in die Umwelt gelangen können.[^21-4]
+- c. durch verfahrensbedingte chemische Umwandlung bei Verwendung dieses Stoffes im Durchschnitt höchstens 2 Prozent in die Umwelt gelangen können.[^21-7]
 
-<sup>2</sup> Die Bewilligung kann auch Personen erteilt werden, die Grosshandel mit VOC betreiben und einen durchschnittlichen Lagerbestand von mindestens 25 t VOC oder einen jährlichen Mindestumsatz von 50 t VOC nachweisen.[^21-5]
+<sup>2</sup> Die Bewilligung kann auch Personen erteilt werden, die Grosshandel mit VOC betreiben und einen durchschnittlichen Lagerbestand von mindestens 10 t VOC oder einen jährlichen Mindestumsatz von 25 t VOC nachweisen.[^21-8]
 
 <sup>3</sup> Die Verpflichtung oder der Nachweis ist bei der Oberzolldirektion zu hinterlegen.
 
-<sup>4</sup> Die Oberzolldirektion führt ein öffentliches Register der Personen, die eine Bewilligung zum Bezug von vorläufig abgabebefreiten VOC haben.[^21-6]
+<sup>4</sup> Die Oberzolldirektion führt ein öffentliches Register der Personen, die eine Bewilligung zum Bezug von vorläufig abgabebefreiten VOC haben.[^21-9]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
-[^21-2]: Fassung gemäss Ziff. I der V vom 26. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
-[^21-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2000 ([AS 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Aufgehoben durch Ziff. I der V vom 27. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-4]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-5]: Fassung gemäss Ziff. I der V vom 25. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)).
-[^21-6]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-3]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-4]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-5]: Fassung gemäss Ziff. I der V vom 26. Juni 2002, in Kraft seit 1. Dez. 2002 ([AS 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
+[^21-6]: Eingefügt durch Ziff. I der V vom 4. Dez. 2000 ([AS 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Aufgehoben durch Ziff. I der V vom 27. Juni 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-7]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-8]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-9]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 
 #### Art. 22
 
@@ -527,15 +494,38 @@ Die anmeldepflichtige Person, die eine neue Zollveranlagung nach Artikel 34 Absa
 
 **Mangelhafte Einreichung der VOC-Bilanz**[^22b-1]
 
-<sup>1</sup> Wird die VOC-Bilanz nicht vollständig oder nicht fristgerecht eingereicht, so wird die Bewilligung nach Artikel 21 ab Beginn des kommenden Geschäftsjahres für drei Jahre sistiert.
+<sup>1</sup> …[^22b-2]
 
-<sup>2</sup> Die Oberzolldirektion setzt eine Nachfrist an zur Nachreichung einer vollständigen VOC-Bilanz.
+<sup>2</sup> Wird die VOC-Bilanz nicht vollständig oder nicht fristgerecht eingereicht, so setzt das BAZG eine Nachfrist zur Einreichung einer ordnungsgemässen Bilanz.[^22b-3]
 
 <sup>3</sup> Für die Abgaben, die nach Artikel 22 Absatz 2 aufgrund der nachgereichten Bilanz nachzubezahlen sind, ist ein Verzugszins geschuldet. Dieser ist ab dem Ablauf der Einreichungsfrist nach Artikel 22 Absatz 1 geschuldet.
 
 <sup>4</sup> Verstreicht die Nachfrist nach Absatz 2 unbenützt, so setzt die Oberzolldirektion die nachzubezahlende Abgabe nach pflichtgemässem Ermessen und unter Berücksichtigung der belasteten Ausgänge der Vorjahre fest.
 
 [^22b-1]: Eingefügt durch Ziff. I der V vom 2. April 2008, in Kraft seit 1. Juni 2008 ([AS 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262))
+[^22b-2]: Aufgehoben durch Ziff. I der V vom 23. Febr. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^22b-3]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+
+#### Art. 22c
+
+**Sistierung**[^22c-1]
+
+<sup>1</sup>
+
+Das BAZG sistiert die Bewilligung für das Verpflichtungsverfahren, wenn:
+
+- a. Mitwirkungspflichten verletzt werden, insbesondere wenn die VOC-Bilanz innerhalb der Nachfrist nicht vollständig eingereicht wird; oder
+- b. die nachträgliche Zahlung der Abgabe für die vorläufig abgabebefreiten VOC gefährdet erscheint.
+
+<sup>2</sup>
+
+Die Zahlung erscheint als gefährdet, wenn insbesondere:
+
+- a. die Zahlungsfähigkeit der Bewilligungsinhaberin oder des Bewilligungsinhabers aufgrund einer Bonitätsprüfung als fraglich erscheint;
+- b. die Bewilligungsinhaberin oder der Bewilligungsinhaber mit der Zahlung in Verzug ist; oder
+- c. die Bewilligungsinhaberin oder der Bewilligungsinhaber keinen Wohnsitz in der Schweiz hat oder Anstalten trifft, den Wohn- oder Geschäftssitz oder die Betriebsstätte in der Schweiz aufzugeben oder sich im schweizerischen Handelsregister löschen zu lassen.
+
+[^22c-1]: Eingefügt durch Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## 8. Abschnitt: Verteilung des Abgabeertrages
 
@@ -543,7 +533,7 @@ Die anmeldepflichtige Person, die eine neue Zollveranlagung nach Artikel 34 Absa
 
 **Grundsatz**[^23-1]
 
-<sup>1</sup> Die Versicherer verteilen im Auftrag und unter Aufsicht des BAFU den Abgabeertrag an die Bevölkerung.
+<sup>1</sup> Die Versicherer verteilen im Auftrag und unter Aufsicht des BAFU den Abgabeertrag nach Abzug der Vollzugskosten an die Bevölkerung.[^23-2]
 
 <sup>2</sup> Die Verteilung erfolgt jeweils im übernächsten Jahr (Verteilungsjahr) gestützt auf den Jahresertrag des Erhebungsjahrs.
 
@@ -553,8 +543,8 @@ Die anmeldepflichtige Person, die eine neue Zollveranlagung nach Artikel 34 Absa
 
 Als Versicherer gelten:
 
-- a. die Versicherer der obligatorischen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^23-2] über die Krankenversicherung (KVG);
-- b. die Militärversicherung nach dem Bundesgesetz vom 19. Juni 1992[^23-3] über die Militärversicherung (MVG).
+- a. die Versicherer der obligatorischen Krankenversicherung nach dem Bundesgesetz vom 18. März 1994[^23-3] über die Krankenversicherung (KVG);
+- b. die Militärversicherung nach dem Bundesgesetz vom 19. Juni 1992[^23-4] über die Militärversicherung (MVG).
 
 <sup>5</sup>
 
@@ -563,15 +553,16 @@ Die Versicherer verteilen den Jahresertrag in gleichmässigen Beträgen auf alle
 - a. der Versicherungspflicht nach KVG oder nach Artikel 2 Absatz 1 oder 2 MVG unterstehen; und
 - b. ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben.
 
-<sup>6</sup> An Personen, die während dem Verteilungsjahr nur zeitweise bei einem Versicherer versichert sind, werden die Beträge entsprechend dieser Zeitdauer verteilt.[^23-4]
+<sup>6</sup> An Personen, die während dem Verteilungsjahr nur zeitweise bei einem Versicherer versichert sind, werden die Beträge entsprechend dieser Zeitdauer verteilt.[^23-5]
 
-<sup>7</sup> Die Versicherer verrechnen die Beträge mit den im Verteilungsjahr fälligen Prämienrechnungen.[^23-5]
+<sup>7</sup> Die Versicherer verrechnen die Beträge mit den im Verteilungsjahr fälligen Prämienrechnungen.[^23-6]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Jan. 2012, mit Ausnahme von Abs. 7 erster Satz, in Kraft seit 1. Jan. 2011 ([AS 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
-[^23-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^23-4]: Fassung gemäss Art. 137 der CO<sub>2</sub>-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^23-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^23-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^23-5]: Fassung gemäss Art. 137 der CO<sub>2</sub>-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23-6]: Fassung gemäss Art. 137 der CO<sub>2</sub>-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
 #### Art. 23a
 
@@ -628,7 +619,7 @@ Personen, die VOC herstellen, müssen sich innerhalb von drei Monaten seit Inkra
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
-## Übergangsbestimmung der Änderung vom 27. Juni 2012****
+## Übergangsbestimmung der Änderung vom 27. Juni 2012
 
 [^u1-1]
 
@@ -636,7 +627,7 @@ Personen, die VOC herstellen, müssen sich innerhalb von drei Monaten seit Inkra
 
 Das Gesuch um Genehmigung des Massnahmenplans im Hinblick auf eine Abgabebefreiung im Jahr 2013 ist spätestens am 30. April 2013 einzureichen.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2 Bst. a)
 
@@ -753,7 +744,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2 Bst. b)
 
@@ -1185,13 +1176,13 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 9 Bst. c)
 
 ## Verminderung der diffusen VOC-Emissionen
 
-[^t-3]: Eingefügt gemäss Ziff. II Abs. 3 der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Bereinigt gemäss Ziff. II der V des UVEK vom 28. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)).
+[^t-3]: Eingefügt gemäss Ziff. II Abs. 3 der V vom 27. Juni 2012 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Bereinigt gemäss Ziff. II der V des UVEK vom 28. Nov. 2016 ([AS 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)) und Ziff. II der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ### 1 Anforderungen an den Betrieb von stationären Anlagen
 
@@ -1240,10 +1231,7 @@ Gebinde, die VOC enthalten, sind mit einer passenden Abdeckung auszurüsten.
 
 ### 115 Dokumentation
 
-<sup>1</sup> Es muss eine aktuelle Bestandsaufnahme der Quellen diffuser VOC-Emissionen sowie der Zu- und Abluftströme vorhanden sein. Diese beinhaltet insbesondere:
-
-- a. einen Lüftungsplan;
-- b. eine quantitative Abschätzung der Emissionen je Quelle.
+<sup>1</sup> Es muss eine aktuelle Bestandesaufnahme der Quellen diffuser VOC-Emissionen sowie der Zu- und Abluftströme vorhanden sein. Diese beinhaltet insbesondere eine quantitative Abschätzung der Emissionen je Quelle.
 
 <sup>2</sup> Diffuse VOC-Emissionen sind zu begründen.
 
@@ -1268,6 +1256,6 @@ Anforderungen nach diesem Anhang können auf Gesuch durch andere Anforderungen e
 
 <sup>1</sup> Das BAFU erlässt zur Konkretisierung der Anforderungen nach diesem Anhang branchenspezifische Richtlinien. Diese können branchenspezifisch zusätzliche Anforderungen vorsehen.
 
-<sup>2</sup> Es passt die Richtlinien alle fünf Jahre an.
+<sup>2</sup> Es passt die Richtlinien der technischen Entwicklung an.
 
-<sup>3</sup> Beim Erlass und bei der Anpassung der Richtlinien hört es die betroffenen Wirtschaftszweige und die Kantone an und berücksichtigt die technische Entwicklung.
+<sup>3</sup> Beim Erlass und bei der Anpassung der Richtlinien hört es vorgängig die betroffenen Wirtschaftszweige und die Kantone an.
