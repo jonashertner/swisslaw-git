@@ -4,20 +4,20 @@ title: "Ordonnance du 15 janvier 1971 sur les prestations complémentaires à l'
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les prestations complémentaires à l’assurance-vieillesse, survivants et invalidité
 
-(OPC-AVS/AI)**[^t-1]** **[^t-2]**
+(OPC-AVS/AI)[^t-1] [^t-2]
 
-du 15 janvier 1971 (Etat le 1<sup>er</sup> juillet 2021)
+du 15 janvier 1971 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. V de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 [^t-2]: Nouvelle abréviation selon le ch. I de l’O du 24 nov. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 2085](https://fedlex.data.admin.ch/eli/oc/1982/2085_2085_2085)).
@@ -32,7 +32,7 @@ arrête:
 [^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
-## Chapitre I Les prestations complémentaires****
+## Chapitre I Les prestations complémentaires
 
 [^chap1-1]
 
@@ -40,7 +40,7 @@ arrête:
 
 ### A. Le droit aux prestations complémentaires et les bases de calcul
 
-### I. Droit****
+### I. Droit
 
 [^chap1-lvlB-1]
 
@@ -50,7 +50,7 @@ arrête:
 
 **Interruption de la résidence habituelle en Suisse. Séjours à l’étranger sans motif important**[^1-1]
 
-<sup>1</sup> Si une personne séjourne à l’étranger sans motif important pendant plus de trois mois (90 jours) de manière ininterrompue ou pendant plus de 90 jours au total au cours d’une même année civile, le versement des prestations complémentaires est interrompu avec effet rétroactif au début du mois au cours duquel la personne a passé le 90<sup>e</sup> jour à l’étranger.
+<sup>1</sup> Si une personne séjourne à l’étranger sans motif important pendant plus de trois mois (90 jours) de manière ininterrompue ou pendant plus de 90 jours au total au cours d’une même année civile, le versement des prestations complémentaires est interrompu avec effet rétroactif au début du mois au cours duquel la personne a passé le 91<sup>e</sup> jour à l’étranger.[^1-2]
 
 <sup>2</sup> Si une personne retourne à l’étranger au cours d’une année civile pendant laquelle elle a déjà passé au moins 90 jours à l’étranger, le versement des prestations complémentaires est interrompu au début du mois au cours duquel elle a de nouveau quitté la Suisse.
 
@@ -59,6 +59,7 @@ arrête:
 <sup>4</sup> Les jours d’entrée et de sortie ne comptent pas comme séjour à l’étranger.
 
 [^1-1]: Introduit par le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 1a
 
@@ -128,7 +129,7 @@ Les époux sont considérés comme vivant séparés au sens des al. 1 et 2:[^3-6
 [^3-5]: Abrogé par le ch. I de l’O du 11 sept. 2002, avec effet au 1<sup>er</sup> janv. 2003 ([RO 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
 [^3-6]: Nouvelle teneur selon le ch. I de l’O du 12 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
 
-### II. Addition des dépenses reconnues, des revenus déterminants et de la fortune des membres de la famille****
+### II. Addition des dépenses reconnues, des revenus déterminants et de la fortune des membres de la famille
 
 [^chap1-lvlB-lvlI-1]
 
@@ -245,7 +246,7 @@ Les organes d’exécution examinent d’office s’il est prévisible qu’un b
 [^10a-1]: Introduit par l’annexe ch. 3 de l’O du 11 juin 2021 sur les prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 [^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
-### IIa. Revenus déterminants, dépenses reconnues et fortune****
+### IIa. Revenus déterminants, dépenses reconnues et fortune
 
 [^chap1-lvlB-lvlII-1]
 
@@ -421,12 +422,12 @@ Lorsqu’en vertu de l’art. 65*d*, al. 3, let. b, de la loi fédérale du 25 j
 
 <sup>2</sup> L’al. 1 s’applique également aux personnes qui bénéficient d’un usufruit ou qui sont titulaires d’un droit d’habitation sur l’immeuble qu’elles habitent.
 
-<sup>3</sup> Le montant du forfait s’élève à 2520 francs par année.[^16a-2]
+<sup>3</sup> Le montant du forfait s’élève à 3060 francs par année.[^16a-2]
 
 <sup>4</sup> Le montant maximum au sens de l’art. 10, al. 1, let. b, LPC, doit être respecté.[^16a-3]
 
 [^16a-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16a-2]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^16a-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 [^16a-3]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 16b
@@ -520,15 +521,14 @@ De la valeur d’un immeuble qui sert d’habitation au bénéficiaire de presta
 
 <sup>4</sup> Lorsque des immeubles ne servent pas d’habitation au requérant ou à une personne comprise dans le calcul de la prestation complémentaire, ils seront pris en compte à la valeur vénale.
 
-<sup>5</sup> En cas de dessaisissement d’un immeuble, à titre onéreux ou gratuit, est déterminante la valeur vénale pour savoir s’il y a renonciation à des parts de fortune au sens de l’art. 11, al. 1, let. g, LPC.[^17a-3] La valeur vénale n’est pas applicable si, légalement, il existe un droit d’acquérir l’immeuble à une valeur inférieure.[^17a-4]
+<sup>5</sup> En cas de dessaisissement d’un immeuble, à titre onéreux ou gratuit, est déterminante la valeur vénale pour savoir s’il y a renonciation à des parts de fortune au sens de l’art. 11*a*, al. 2, LPC. La valeur vénale n’est pas applicable si, légalement, il existe un droit d’acquérir l’immeuble à une valeur inférieure.[^17a-3]
 
-<sup>6</sup> En lieu et place de la valeur vénale, les cantons peuvent appliquer uniformément la valeur de répartition déterminante pour les répartitions intercantonales.[^17a-5]
+<sup>6</sup> En lieu et place de la valeur vénale, les cantons peuvent appliquer uniformément la valeur de répartition déterminante pour les répartitions intercantonales.[^17a-4]
 
 [^17a-1]: Anciennement art. 17. Nouvelle teneur selon le ch. I de l’O du 21 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2119](https://fedlex.data.admin.ch/eli/oc/1991/2119_2119_2119)).
 [^17a-2]: Abrogés par le ch. I de l’O du 16 sept. 1998, avec effet au 1<sup>er</sup> janv. 1999 ([RO 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
-[^17a-3]: Nouvelle teneur selon le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^17a-3]: Introduit par le ch. I de l’O du 16 sept. 1998 ([RO 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)). Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 [^17a-4]: Introduit par le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
-[^17a-5]: Introduit par le ch. I de l’O du 16 sept. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
 
 #### Art. 17b
 
@@ -599,7 +599,7 @@ Tant que le conjoint survivant n’a pas fait usage de son droit d’option sur 
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
 
-### III. Remboursement de frais de maladie et d’invalidité****
+### III. Remboursement de frais de maladie et d’invalidité
 
 [^chap1-lvlB-lvlIII-1]
 
@@ -641,7 +641,7 @@ Les frais de maladie et d’invalidité des enfants dont il n’est pas tenu com
 [^19b-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### IV.**** Dispositions diverses
+### IV. Dispositions diverses
 
 [^chap1-lvlB-lvlIV-1]
 
@@ -651,12 +651,13 @@ Les frais de maladie et d’invalidité des enfants dont il n’est pas tenu com
 
 **Exercice du droit**[^20-1]
 
-<sup>1</sup> La personne qui veut faire valoir un droit à une prestation complémentaire annuelle doit déposer une demande écrite. L’art. 67, al. 1, RAVS[^20-2], est applicable par analogie.
+<sup>1</sup> La personne qui veut faire valoir un droit à une prestation complémentaire annuelle doit déposer une demande au moyen de la formule officielle. L’art. 67, al. 1, RAVS[^20-2], est applicable par analogie.[^20-3]
 
 <sup>2</sup> La formule de demande doit donner des indications sur l’état civil de l’ayant droit et sur les conditions de revenu et de fortune de toutes les personnes comprises dans le calcul de la prestation complémentaire annuelle.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^20-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 21
 
@@ -836,14 +837,15 @@ Elle doit notamment indiquer:
 
 #### Art. 26b
 
-**Règle d’arrondissement des montants versés**[^26b-1]
+[^26b-1]
 
-<sup>1</sup> Les montants mensuels de la prestation complémentaire annuelle doivent être arrondis au franc supérieur; ils seront arrondis à 10 francs s’ils sont inférieurs à cette somme.
+<sup>1</sup> …[^26b-2]
 
-<sup>2</sup> ...[^26b-2]
+<sup>2</sup> …[^26b-3]
 
-[^26b-1]: Introduit par le ch. I de l’O du 26 nov. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^26b-2]: Abrogé par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^26b-1]: Introduit par le ch. I de l’O du 26 nov. 1997 ([RO 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^26b-2]: Abrogé par le ch. I de l’O du 12 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
+[^26b-3]: Abrogé par le ch. I 18 de l’O du 7 nov. 2007 (Réforme de la péréquation financière), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 27
 
@@ -897,7 +899,7 @@ La prestation transitoire visée à l’art. 32 LAI[^27d-2] est assimilable à u
 
 ### B. Organisation et procédure
 
-### I. Gestion et frais administratifs****
+### I. Gestion et frais administratifs
 
 [^chap1-lvlC-lvlI-1]
 
@@ -1037,7 +1039,7 @@ Les frais de revision font partie des frais administratifs au sens de l’art. 2
 
 ### C. Les subventions fédérales
 
-### I. Aux prestations complémentaires annuelles****
+### I. Aux prestations complémentaires annuelles
 
 [^chap1-lvlC-lvlI-2]
 
@@ -1124,7 +1126,7 @@ Les subventions versées à tort au titre des prestations complémentaires annue
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^42-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### II.**** Aux frais administratifs
+### II. Aux frais administratifs
 
 [^chap1-lvlC-lvlII-1]
 
@@ -1178,7 +1180,7 @@ Les subventions versées à tort au titre des frais administratifs doivent être
 [^42d-1]: Nouvelle teneur selon le ch. I de l’O du 29 janv. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^42d-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### III.**** Réduction de la participation de la Confédération aux frais administratifs
+### III. Réduction de la participation de la Confédération aux frais administratifs
 
 [^chap1-lvlC-lvlIII-1]
 
@@ -1202,7 +1204,7 @@ Dans les cas prévus à l’art. 24, al. 2, LPC, la participation de la Conféd�
 
 ## Chapitre II Les prestations des institutions d’utilité publique
 
-### I. Subventions de l’assurance-vieillesse, survivants et invalidité****
+### I. Subventions de l’assurance-vieillesse, survivants et invalidité
 
 [^chap2-lvlI-1]
 
@@ -1445,7 +1447,7 @@ La surveillance prévue à l’art. 28 LPC est exercée par l’office fédéral
 
 [^59-1]: [[RO 1965 1057](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)ch. II let. B ch. 6, **1969** 135 ch. V let. a]
 
-## Dispositions finales de la modification du 12 juin 1989****
+## Dispositions finales de la modification du 12 juin 1989
 
 [^u1-1]
 
@@ -1457,12 +1459,12 @@ a. Mise en œuvre du nouvel art. 17a (Dessaisissement de fortune)
 
 <sup>2</sup> ...[^u1-2]
 
-b. ...*[^u1-3]*
+b. ...[^u1-3]
 
 [^u1-2]: Abrogé par le ch. IV 46 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u1-3]: Abrogée par le ch. IV 46 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposition finale de la modification du 29 novembre 1995****
+## Disposition finale de la modification du 29 novembre 1995
 
 [^u2-1]
 
@@ -1472,7 +1474,7 @@ En présence d’une rente de vieillesse en cours pour couple versée en vertu d
 
 [^u2-2]: [RO 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)
 
-## Dispositions finales de la modification du 26 novembre 1997****
+## Dispositions finales de la modification du 26 novembre 1997
 
 [^u3-1]
 
@@ -1488,7 +1490,7 @@ a. Modification de l’art. 1a OPC
 
 [^u3-2]: Abrogée par le ch. IV 46 de l’O du 22 août 2007 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Dispositions finales de la modification du 28 septembre 2007****
+## Dispositions finales de la modification du 28 septembre 2007
 
 [^u4-1]
 
@@ -1503,7 +1505,7 @@ a. Modification de l’art. 1a OPC
 - a. l’enfant ne fait plus ménage commun avec le parent concerné;
 - b. les parents séparés reprennent la vie commune, ou le parent divorcé avec lequel l’enfant fait ménage commun se remarie.
 
-## Disposition finale de la modification du 29 janvier 2020****
+## Disposition finale de la modification du 29 janvier 2020
 
 [^u5-1]
 

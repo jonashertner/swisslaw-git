@@ -4,20 +4,20 @@ title: "Ordinanza del 15 gennaio 1971 sulle prestazioni complementari all'assicu
 short: OPC-AVS/AI
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: it
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità
 
-(OPC-AVS/AI)**[^t-1]** **[^t-2]**
+(OPC-AVS/AI)[^t-1] [^t-2]
 
-del 15 gennaio 1971 (Stato 1° luglio 2021) (Stato 1° luglio 2021)
+del 15 gennaio 1971 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo del tit. abbreviato giusta il n. I dell’O del 13 set. 1995, in vigore dal 1° gen. 1996 ([RU 1995 4385](https://fedlex.data.admin.ch/eli/oc/1995/4385_4385_4385)).
 [^t-2]: Nuovo tit. giusta il n. V dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i titoli marginali sono stati accentrati.
@@ -32,19 +32,19 @@ ordina:
 [^ingress-2]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^ingress-3]: Nuovo testo giusta il n. I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
-## Capo primo: Prestazioni complementari****
+## Capo primo: Prestazioni complementari
 
 [^chap1-1]
 
 [^chap1-1]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### A. Diritto e basi per il calcolo****
+### A. Diritto e basi per il calcolo
 
 [^chap1-lvlA-1]
 
 [^chap1-lvlA-1]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### I. Diritto ****
+### I. Diritto
 
 [^chap1-lvlA-lvlI-1]
 
@@ -54,7 +54,7 @@ ordina:
 
 **Interruzione della dimora abituale in Svizzera. Soggiorni all’estero senza un valido motivo**[^1-1]
 
-<sup>1</sup> Se una persona soggiorna all’estero ininterrottamente per oltre tre mesi (90 giorni) o per oltre 90 giorni complessivi nel corso di un anno civile senza un valido motivo, le prestazioni complementari sono sospese retroattivamente dall’inizio del mese in cui la persona ha trascorso il 90° giorno all’estero.
+<sup>1</sup> Se una persona soggiorna all’estero ininterrottamente per oltre tre mesi (90 giorni) o per oltre 90 giorni complessivi nel corso di un anno civile senza un valido motivo, le prestazioni complementari sono sospese retroattivamente dall’inizio del mese in cui la persona ha trascorso il 91° giorno all’estero.[^1-2]
 
 <sup>2</sup> Se una persona si reca nuovamente all’estero nel corso di un anno civile in cui ha già trascorso all’estero almeno 90 giorni, le prestazioni complementari vengono sospese dall’inizio del mese in cui la persona ha lasciato nuovamente la Svizzera.
 
@@ -63,6 +63,7 @@ ordina:
 <sup>4</sup> I giorni della partenza e del rientro non sono considerati come giorni di soggiorno all’estero.
 
 [^1-1]: Introdotto dal n. I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 1a
 
@@ -130,7 +131,7 @@ Se durante il termine d’attesa una persona soggiorna all’estero per uno dei 
 [^3-5]: Abrogato dal n. I dell’O dell’11 set. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
 [^3-6]: Nuovo testo giusta il n. I dell’O del 12 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
 
-### II. Somma delle spese riconosciute, dei redditi computabili e della sostanza dei membri della famiglia****
+### II. Somma delle spese riconosciute, dei redditi computabili e della sostanza dei membri della famiglia
 
 [^chap1-lvlA-lvlII-1]
 
@@ -245,10 +246,10 @@ Per il calcolo della prestazione complementare, non si tiene conto del coniuge o
 
 Gli organi esecutivi verificano d’ufficio se nel caso di una persona che riceve prestazioni transitorie in virtù della legge federale del 19 giugno 2020[^10a-2] sulle prestazioni transitorie per i disoccupati anziani sia prevedibile un diritto a prestazioni complementari al momento dell’età ordinaria di pensionamento.
 
-[^10a-1]: Introdotto dal’all. n. 3 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
+[^10a-1]: Introdotto dall’all. n. 3 dell’O dell’11 giu. 2021 sulle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° lug. 2021 ([RU 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 [^10a-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
-### **IIa.** **Redditi computabili, spese riconosciute e sostanza******
+### **IIa.** **Redditi computabili, spese riconosciute e sostanza**
 
 [^chap1-lvlA-lvlIIa-1]
 
@@ -425,12 +426,12 @@ Se in virtù dell’articolo 65*d* capoverso 3 lettera b della legge federale de
 
 <sup>2</sup> Il capoverso 1 si applica pure alle persone che beneficiano di un usufrutto o sono titolari di un diritto di abitazione sull’immobile che esse abitano.
 
-<sup>3</sup> L’importo annuo del forfait è di 2520 franchi.[^16a-2]
+<sup>3</sup> L’importo annuo del forfait è di 3060 franchi.[^16a-2]
 
 <sup>4</sup> La limitazione secondo l’articolo 10 capoverso 1 lettera b LPC deve essere rispettata.[^16a-3]
 
 [^16a-1]: Introdotto dal n. I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16a-2]: Nuovo testo giusta il n. I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^16a-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 [^16a-3]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 16b
@@ -524,15 +525,14 @@ Dal valore di un immobile di cui il beneficiario delle prestazioni complementari
 
 <sup>4</sup> La sostanza immobiliare che non serve di abitazione al richiedente o a una persona compresa nel calcolo delle PC deve essere computata al valore corrente.
 
-<sup>5</sup> In caso di alienazione di un immobile, a titolo oneroso o gratuito, il valore venale è determinante per sapere se ci si trova in presenza di una rinuncia a elementi patrimoniali ai sensi dell’articolo 11 capoverso 1 lettera g LPC.[^17a-3] Il valore venale non è applicabile se, per legge, esiste un diritto di acquisire un immobile a un valore inferiore.[^17a-4]
+<sup>5</sup> In caso di alienazione di un immobile, a titolo oneroso o gratuito, il valore venale è determinante per sapere se ci si trova in presenza di una rinuncia a elementi patrimoniali ai sensi dell’articolo 11*a* capoverso 2 LPC. Il valore venale non è applicabile se, per legge, esiste un diritto di acquisire un immobile a un valore inferiore.[^17a-3]
 
-<sup>6</sup> Invece del valore venale, i Cantoni possono applicare uniformemente il valore di ripartizione determinante per la ripartizione fiscale intercantonale.[^17a-5]
+<sup>6</sup> Invece del valore venale, i Cantoni possono applicare uniformemente il valore di ripartizione determinante per la ripartizione fiscale intercantonale.[^17a-4]
 
 [^17a-1]: Originario art. 17. Nuovo testo giusta il n. I dell’O del 21 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2119](https://fedlex.data.admin.ch/eli/oc/1991/2119_2119_2119)).
 [^17a-2]: Abrogati dal n. I dell’O del 16 set. 1998, con effetto dal 1° gen. 1999 ([RU 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
-[^17a-3]: Nuovo testo giusta il n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^17a-3]: Introdotto dal n. I dell’O del 16 set. 1998 ([RU 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)). Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 [^17a-4]: Introdotto dal n. I dell’O del 16 set. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
-[^17a-5]: Introdotto dal n. I dell’O del 16 set. 1998, in vigore dal 1° gen. 1999 ([RU 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
 
 #### Art. 17b
 
@@ -603,7 +603,7 @@ Fintanto che il coniuge superstite non ha fatto uso del suo diritto di opzione s
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 12 giu. 1989, in vigore dal 1° gen. 1990 ([RU 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
 
-### III. Rimborso di spese di malattia e di invalidità****
+### III. Rimborso di spese di malattia e di invalidità
 
 [^chap1-lvlA-lvlIII-1]
 
@@ -645,7 +645,7 @@ Le spese di malattia e d’invalidità per i figli di cui non si tiene conto con
 [^19b-2]: Nuovo testo giusta l’all. n. 1 dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Nuovo testo giusta l’all. n. 1 dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### IV. Disposizioni diverse****
+### IV. Disposizioni diverse
 
 [^chap1-lvlA-lvlIV-1]
 
@@ -655,12 +655,13 @@ Le spese di malattia e d’invalidità per i figli di cui non si tiene conto con
 
 **Esercizio del diritto**[^20-1]
 
-<sup>1</sup> La persona che vuol far valere il diritto a una prestazione complementare annua deve depositare una domanda scritta. L’articolo 67 capoverso 1 OAVS[^20-2] è applicabile per analogia.
+<sup>1</sup> La persona che vuol far valere il diritto a una prestazione complementare annua deve presentare una domanda tramite il modulo ufficiale. L’articolo 67 capoverso 1 OAVS[^20-2] è applicabile per analogia.[^20-3]
 
 <sup>2</sup> Il formulario di domanda deve dare indicazioni sulle generalità e sulle condizioni di reddito e di sostanza di tutte le persone incluse nel calcolo della prestazione complementare annua.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^20-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^20-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 21
 
@@ -840,14 +841,15 @@ Essa deve indicare in particolare:
 
 #### Art. 26b
 
-**Arrotondamento degli ammontari versati**[^26b-1]
+[^26b-1]
 
-<sup>1</sup> Gli ammontari mensili della prestazione complementare annua devono essere arrotondati al franco superiore e a 10 franchi se sono inferiori a quest’ultima somma.
+<sup>1</sup> ...[^26b-2]
 
-<sup>2</sup> ...[^26b-2]
+<sup>2</sup> ...[^26b-3]
 
 [^26b-1]: Introdotto dal n. I dell’O del 26 nov. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^26b-2]: Abrogato dal n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^26b-2]: Abrogato dal n. I dell’O del 12 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
+[^26b-3]: Abrogato dal n. I 18 dell’O del 7 nov. 2007 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 27
 
@@ -1037,7 +1039,7 @@ Le spese di revisione sono considerate spese amministrative ai sensi dell’arti
 
 ### C. Sussidi federali
 
-### I. Per le prestazioni complementari annue****
+### I. Per le prestazioni complementari annue
 
 [^chap1-lvlC-lvlI-1]
 
@@ -1124,7 +1126,7 @@ I sussidi per le prestazioni complementari annue indebitamente pagati devono ess
 [^42-1]: Nuovo testo giusta il n. I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^42-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### II.**** Per le spese amministrative
+### II. Per le spese amministrative
 
 [^chap1-lvlC-lvlII-1]
 
@@ -1178,7 +1180,7 @@ I sussidi per le spese amministrative indebitamente pagati devono essere restitu
 [^42d-1]: Nuovo testo giusta il n. I dell’O del 29 gen 2020, in vigore dal 1° gen. 2021 ([RU 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^42d-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### III.**** Riduzione dei sussidi federali per le spese amministrative
+### III. Riduzione dei sussidi federali per le spese amministrative
 
 [^chap1-lvlC-lvlIII-1]
 
@@ -1202,7 +1204,7 @@ Nei casi di cui all’articolo 24 capoverso 2 LPC i sussidi federali per le spes
 
 ## Capo secondo: Prestazioni delle istituzioni di utilità pubblica
 
-### I. Sussidi dell’assicurazione per la vecchiaia, i superstiti e l’invalidità****
+### I. Sussidi dell’assicurazione per la vecchiaia, i superstiti e l’invalidità
 
 [^chap2-lvlI-1]
 
@@ -1446,7 +1448,7 @@ La vigilanza di cui all’articolo 28 LPC è esercitata dall’Ufficio federale.
 
 [^59-1]: [[RU 1965 1041](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)n. II lett. B n. 6, **1969** 135 n. V lett. a]
 
-## Disposizioni finali della modifica del 12 giugno 1989****
+## Disposizioni finali della modifica del 12 giugno 1989
 
 [^u1-1]
 
@@ -1458,12 +1460,12 @@ a. Applicazione del nuovo articolo 17a (rinuncia alla sostanza)
 
 <sup>2</sup> ...[^u1-2]
 
-b. ...*[^u1-3]*
+b. ...[^u1-3]
 
 [^u1-2]: Abrogato dal n. IV 46 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u1-3]: Abrogata dal n. IV 46 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione finale della modifica del 29 novembre 1995****
+## Disposizione finale della modifica del 29 novembre 1995
 
 [^u2-1]
 
@@ -1473,7 +1475,7 @@ In caso di rendita di vecchiaia per coniugi in corso conformemente alle disposiz
 
 [^u2-2]: [RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)
 
-## Disposizioni finali della modifica del 26 novembre 1997****
+## Disposizioni finali della modifica del 26 novembre 1997
 
 [^u3-1]
 
@@ -1485,11 +1487,11 @@ a. Modifica dell’articolo 1a OPC-AVS/AI
 
 <sup>2</sup> Per le coppie ai sensi del capoverso 1, la limitazione prevista dall’articolo 3*a* capoverso 3 LPC non è applicabile al coniuge che vive in un ospizio o in un ospedale. In compenso, la prestazione complementare annua di detto coniuge è sottoposta ai limiti previsti nell’articolo 3*a* capoverso 2 LPC.
 
-b. ...*[^u3-2]*
+b. ...[^u3-2]
 
 [^u3-2]: Abrogata dal n. IV 46 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione finale della modifica del 28 settembre 2007****
+## Disposizione finale della modifica del 28 settembre 2007
 
 [^u4-1]
 
@@ -1504,7 +1506,7 @@ b. ...*[^u3-2]*
 - a. il figlio non convive più con il genitore;
 - b. i genitori separati tornano a convivere o il genitore con cui convive il figlio si risposa.
 
-## Disposizione finale della modifica del 29 gennaio 2020****
+## Disposizione finale della modifica del 29 gennaio 2020
 
 [^u5-1]
 

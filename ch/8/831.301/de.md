@@ -4,20 +4,20 @@ title: "Verordnung vom 15. Januar 1971 über die Ergänzungsleistungen zur Alter
 short: ELV
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/37_37_37"
 language: de
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1971-01-15
 in_force: 1971-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20210701/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/37_37_37/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1971-37_37_37-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/37_37_37/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
 
-(ELV)**[^t-1]**
+(ELV)[^t-1]
 
-vom 15. Januar 1971 (Stand am 1. Juli 2021)
+vom 15. Januar 1971 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. V der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmungen wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -31,19 +31,19 @@ verordnet:
 [^ingress-2]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 
-## Erster Abschnitt: Ergänzungsleistungen****
+## Erster Abschnitt: Ergänzungsleistungen
 
 [^chap1-1]
 
 [^chap1-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### A. Der Anspruch und die Berechnungsgrundlagen****
+### A. Der Anspruch und die Berechnungsgrundlagen
 
 [^chap1-lvlA-1]
 
 [^chap1-lvlA-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
-### I. Anspruch****
+### I. Anspruch
 
 [^chap1-lvlA-lvlI-1]
 
@@ -53,7 +53,7 @@ verordnet:
 
 **Unterbruch des gewöhnlichen Aufenthaltes in der Schweiz. Auslandaufenthalte ohne wichtigen Grund**[^1-1]
 
-<sup>1</sup> Hält sich eine Person ohne wichtigen Grund ununterbrochen mehr als drei Monate (90 Tage) oder in einem Kalenderjahr insgesamt mehr als 90 Tage im Ausland auf, so werden die Ergänzungsleistungen rückwirkend auf den Beginn des Monats eingestellt, in dem die Person den 90. Tag im Ausland verbracht hat.
+<sup>1</sup> Hält sich eine Person ohne wichtigen Grund ununterbrochen mehr als drei Monate (90 Tage) oder in einem Kalenderjahr insgesamt mehr als 90 Tage im Ausland auf, so werden die Ergänzungsleistungen rückwirkend auf den Beginn des Monats eingestellt, in dem die Person den 91. Tag im Ausland verbracht hat.[^1-2]
 
 <sup>2</sup> Begibt sich eine Person in einem Kalenderjahr, in dem sie bereits mindestens 90 Tage im Ausland verbracht hat, erneut ins Ausland, so werden die Ergänzungsleistungen auf den Beginn des Monats eingestellt, in dem die Person die Schweiz erneut verlassen hat.
 
@@ -62,6 +62,7 @@ verordnet:
 <sup>4</sup> Die Tage der Ein- und Ausreise gelten nicht als Auslandaufenthalt.
 
 [^1-1]: Eingefügt durch Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 607).
 
 #### Art. 1a
 
@@ -113,7 +114,7 @@ Hält sich eine Person während der Dauer der Karenzfrist aus einem Grund nach A
 
 <sup>2</sup> Ehegatten, die weder rentenberechtigt sind noch einen Anspruch auf Auszahlung der Zusatzrente der Alters- und Hinterlassenenversicherung begründen, haben bei Trennung der Ehe keinen Anspruch auf Ergänzungsleistungen.[^3-4]
 
-<sup>3</sup> ...[^3-5]
+<sup>3</sup> …[^3-5]
 
 <sup>4</sup>
 
@@ -131,7 +132,7 @@ Als getrennt lebend gelten im Sinne der Absätze 1 und 2 Ehegatten, wenn:[^3-6]
 [^3-5]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
 [^3-6]: Fassung gemäss Ziff. I der V vom 12. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
 
-### II. Zusammenrechnung der anerkannten Ausgaben und der anrechenbaren Einnahmen sowie des Vermögens von Familienmitgliedern****
+### II. Zusammenrechnung der anerkannten Ausgaben und der anrechenbaren Einnahmen sowie des Vermögens von Familienmitgliedern
 
 [^chap1-lvlA-lvlII-1]
 
@@ -248,7 +249,7 @@ Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Übe
 [^10a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 11. Juni 2021 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)).
 [^10a-2]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
 
-### II*a*. Anrechenbare Einnahmen, anerkannte Ausgaben und Vermögen****
+### II*a*. Anrechenbare Einnahmen, anerkannte Ausgaben und Vermögen
 
 [^chap1-lvlA-lvlIIa-1]
 
@@ -260,7 +261,7 @@ Die Durchführungsstellen prüfen von Amtes wegen, ob bei einer Person, die Übe
 
 <sup>1</sup> Das Naturaleinkommen wird gemäss den für die Alters- und Hinterlassenenversicherung geltenden Vorschriften bewertet. Bei Kindern, die der Beitragspflicht nach AHVG nicht unterliegen, sind für die Bewertung von Verpflegung und Unterkunft die halben Ansätze nach Artikel 11 AHVV[^11-1] massgebend.[^11-2]
 
-<sup>2</sup> ...[^11-3]
+<sup>2</sup> …[^11-3]
 
 [^11-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
 [^11-2]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
@@ -424,12 +425,12 @@ Wird gestützt auf Artikel 65*d* Absatz 3 Buchstabe b des Bundesgesetzes vom 25.
 
 <sup>2</sup> Absatz 1 gilt auch für Personen, denen die Nutzniessung oder ein Wohnrecht an der Liegenschaft zusteht, welche sie bewohnen.
 
-<sup>3</sup> Die Pauschale beträgt pro Jahr 2520 Franken.[^16a-2]
+<sup>3</sup> Die Pauschale beträgt pro Jahr 3060 Franken.[^16a-2]
 
 <sup>4</sup> Die Begrenzung nach Artikel 10 Absatz 1 Buchstabe b ELG ist zu beachten.[^16a-3]
 
 [^16a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^16a-2]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
+[^16a-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 [^16a-3]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 16b
@@ -519,19 +520,18 @@ Vom Wert einer Liegenschaft, die von der Bezügerin oder dem Bezüger oder einer
 
 <sup>1</sup> Das anrechenbare Vermögen ist nach den Grundsätzen der Gesetzgebung über die direkte kantonale Steuer für die Bewertung des Vermögens im Wohnsitzkanton zu bewerten.
 
-<sup>2</sup> und <sup>3</sup> ...[^17a-2]
+<sup>2</sup> und <sup>3</sup> …[^17a-2]
 
 <sup>4</sup> Dienen Grundstücke dem Bezüger oder einer Person, die in der EL-Berechnung eingeschlossen ist, nicht zu eigenen Wohnzwecken, so sind diese zum Verkehrswert einzusetzen.
 
-<sup>5</sup> Bei der entgeltlichen oder unentgeltlichen Entäusserung eines Grundstückes ist der Verkehrswert für die Prüfung, ob ein Vermögensverzicht im Sinne von Artikel 11 Absatz 1 Buchstabe g ELG vorliegt, massgebend.[^17a-3] Der Verkehrswert gelangt nicht zur Anwendung, wenn von Gesetzes wegen ein Rechtsanspruch auf den Erwerb zu einem tieferen Wert besteht.[^17a-4]
+<sup>5</sup> Bei der entgeltlichen oder unentgeltlichen Entäusserung eines Grundstückes ist der Verkehrswert für die Prüfung, ob ein Vermögensverzicht im Sinne von Artikel 11*a* Absatz 2 ELG vorliegt, massgebend. Der Verkehrswert gelangt nicht zur Anwendung, wenn von Gesetzes wegen ein Rechtsanspruch auf den Erwerb zu einem tieferen Wert besteht.[^17a-3]
 
-<sup>6</sup> Die Kantone können anstelle des Verkehrswertes einheitlich den für die interkantonale Steuerausscheidung massgebenden Repartitionswert anwenden.[^17a-5]
+<sup>6</sup> Die Kantone können anstelle des Verkehrswertes einheitlich den für die interkantonale Steuerausscheidung massgebenden Repartitionswert anwenden.[^17a-4]
 
 [^17a-1]: Ursprünglich: Art. 17. Fassung gemäss Ziff. I der V vom 21. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2119](https://fedlex.data.admin.ch/eli/oc/1991/2119_2119_2119)).
 [^17a-2]: Aufgehoben durch Ziff. I der V vom 16. Sept. 1998, mit Wirkung seit 1. Jan. 1999 ([AS 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
-[^17a-3]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^17a-3]: Eingefügt durch Ziff. I der V vom 16. Sept. 1998 ([AS 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)). Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 [^17a-4]: Eingefügt durch Ziff. I der V vom 16. Sept. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
-[^17a-5]: Eingefügt durch Ziff. I der V vom 16. Sept. 1998, in Kraft seit 1. Jan. 1999 ([AS 1998 2582](https://fedlex.data.admin.ch/eli/oc/1998/2582_2582_2582)).
 
 #### Art. 17b
 
@@ -602,7 +602,7 @@ Solange der überlebende Ehegatte von seinem Wahlrecht am Nachlass des vor dem 1
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 12. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 1238](https://fedlex.data.admin.ch/eli/oc/1989/1238_1238_1238)).
 
-### III. Vergütung von Krankheits- und Behinderungskosten****
+### III. Vergütung von Krankheits- und Behinderungskosten
 
 [^chap1-lvlA-lvlIII-1]
 
@@ -643,7 +643,7 @@ Krankheits- und Behinderungskosten von Kindern, die nach Artikel 8 Absatz 2 auss
 [^19b-2]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 [^19b-3]: Fassung gemäss Anhang Ziff. 1 der V vom 16. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5679](https://fedlex.data.admin.ch/eli/oc/2011/800)).
 
-### IV.**** Verschiedene Bestimmungen
+### IV. Verschiedene Bestimmungen
 
 [^chap1-lvlA-lvlIV-1]
 
@@ -653,12 +653,13 @@ Krankheits- und Behinderungskosten von Kindern, die nach Artikel 8 Absatz 2 auss
 
 **Geltendmachung des Anspruches**[^20-1]
 
-<sup>1</sup> Der Anspruch auf eine jährliche Ergänzungsleistung wird durch eine schriftliche Anmeldung geltend gemacht. Artikel 67 Absatz 1 AHVV[^20-2] ist sinngemäss anwendbar.
+<sup>1</sup> Der Anspruch auf eine jährliche Ergänzungsleistung ist durch Einreichen des Anmeldeformulars geltend zu machen. Artikel 67 Absatz 1 AHVV[^20-2] ist sinngemäss anwendbar.[^20-3]
 
 <sup>2</sup> Das Anmeldeformular hat Aufschluss zu geben über die Personalien und die Einkommens- und Vermögensverhältnisse aller in die Berechnung der jährlichen Ergänzungsleistung eingeschlossenen Personen.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
 [^20-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^20-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
 
 #### Art. 21
 
@@ -838,14 +839,15 @@ Er hat insbesondere zu umfassen:
 
 #### Art. 26b
 
-**Rundung der Auszahlungsbeträge**[^26b-1]
+[^26b-1]
 
-<sup>1</sup> Die Monatsbeträge der jährlichen Ergänzungsleistung sind auf den nächsten Franken und, falls sie weniger als 10 Franken betragen, auf 10 Franken aufzurunden.
+<sup>1</sup> …[^26b-2]
 
-<sup>2</sup> ...[^26b-2]
+<sup>2</sup> …[^26b-3]
 
-[^26b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
-[^26b-2]: Aufgehoben durch Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^26b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 1997 ([AS 1997 2961](https://fedlex.data.admin.ch/eli/oc/1997/2961_2961_2961)).
+[^26b-2]: Aufgehoben durch Ziff. I der V vom 12. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 607](https://fedlex.data.admin.ch/eli/oc/2022/607)).
+[^26b-3]: Aufgehoben durch Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 27
 
@@ -958,7 +960,7 @@ Die mit der Festsetzung und Auszahlung der Ergänzungsleistungen betrauten Stell
 
 **Verwaltungskosten**
 
-<sup>1</sup> ...[^32-1]
+<sup>1</sup> …[^32-1]
 
 <sup>2</sup> Hat ein Kanton die Festsetzung und Auszahlung der Ergänzungsleistungen seiner Ausgleichskasse übertragen, so hat er ihr die daraus erwachsenden Verwaltungskosten zu vergüten. Die Vergütungsregelung bedarf der Genehmigung des Bundesamtes.[^32-2]
 
@@ -1035,7 +1037,7 @@ Die Kosten der Revisionen gelten als Verwaltungskosten im Sinne von Artikel 24 E
 
 ### C. Die Beiträge des Bundes
 
-### I. An die jährlichen Ergänzungsleistungen****
+### I. An die jährlichen Ergänzungsleistungen
 
 [^chap1-lvlC-lvlI-1]
 
@@ -1122,7 +1124,7 @@ Zu Unrecht ausbezahlte Beiträge an die jährlichen Ergänzungsleistungen sind n
 [^42-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^42-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### II.**** An die Verwaltungskosten
+### II. An die Verwaltungskosten
 
 [^chap1-lvlC-lvlII-1]
 
@@ -1176,7 +1178,7 @@ Zu Unrecht an die Verwaltungskosten ausbezahlte Beiträge sind nach Artikel 28 A
 [^42d-1]: Fassung gemäss Ziff. I der V vom 29. Jan. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 599](https://fedlex.data.admin.ch/eli/oc/2020/112)).
 [^42d-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
-### III.**** Kürzung des Bundesbeitrags an die Verwaltungskosten
+### III. Kürzung des Bundesbeitrags an die Verwaltungskosten
 
 [^chap1-lvlC-lvlIII-1]
 
@@ -1200,7 +1202,7 @@ Der Bundesbeitrag an die Verwaltungskosten kann in den Fällen nach Artikel 24 A
 
 ## Zweiter Abschnitt: Die Leistungen der gemeinnützigen Institutionen
 
-### I. Beiträge der Alters-, Hinterlassenen- und Invalidenversicherung****
+### I. Beiträge der Alters-, Hinterlassenen- und Invalidenversicherung
 
 [^chap2-lvlI-1]
 
@@ -1333,7 +1335,7 @@ Jahresbericht und Jahresrechnung sind jeweils dem Bundesamt einzureichen. Dieses
 
 <sup>1</sup> Die Kantone haben Vorkehren zu treffen, um Doppelzahlungen von jährlichen Ergänzungsleistungen durch einen oder mehrere Kantone zu verhindern. Der Bundesbeitrag wird für den gleichen Zeitraum jeweils nur für eine Ergänzungsleistung gewährt. Das Bundesamt kann überdies von den Kantonen Vorkehren zur Feststellung und Vermeidung von Doppelzahlungen verlangen.[^52-1]
 
-<sup>2</sup> ...[^52-2]
+<sup>2</sup> …[^52-2]
 
 [^52-1]: Fassung gemäss Ziff. I 18 der V vom 7. Nov. 2007 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen, in Kraft seit 1. Jan. 2008 ([AS 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 [^52-2]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3726](https://fedlex.data.admin.ch/eli/oc/2002/577)).
@@ -1342,7 +1344,7 @@ Jahresbericht und Jahresrechnung sind jeweils dem Bundesamt einzureichen. Dieses
 
 **Zwischen kantonalen Stellen und gemeinnützigen Institutionen**
 
-<sup>1</sup> und <sup>2</sup> ...[^53-1]
+<sup>1</sup> und <sup>2</sup> …[^53-1]
 
 <sup>3</sup> Die Kantone können mit den gemeinnützigen Institutionen Vereinbarungen über die Koordination der Tätigkeit der für die Gewährung von Ergänzungsleistungen zuständigen kantonalen Stellen und der Organe der gemeinnützigen Institutionen treffen.
 
@@ -1352,7 +1354,7 @@ Jahresbericht und Jahresrechnung sind jeweils dem Bundesamt einzureichen. Dieses
 
 **Zwischen den Ausgleichskassen und den übrigen Stellen**
 
-<sup>1</sup> ...[^54-1]
+<sup>1</sup> …[^54-1]
 
 <sup>2</sup> Das Bundesamt kann die Ausgleichskassen verpflichten, über Änderungen, die im Rentenanspruch einer ihnen bekannten Person mit Ergänzungsleistungen eintreten, laufend den Durchführungsstellen Meldung zu erstatten.[^54-2]
 
@@ -1365,7 +1367,7 @@ Jahresbericht und Jahresrechnung sind jeweils dem Bundesamt einzureichen. Dieses
 
 <sup>1</sup> Die Kantone dürfen in der Abrechnung über die Ergänzungsleistungen die jährlichen Beträge für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d ELG nicht einsetzen.[^54a-2]
 
-<sup>2</sup> ...[^54a-3]
+<sup>2</sup> …[^54a-3]
 
 <sup>3</sup> Das Departement legt die jährlichen Pauschalbeträge für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d ELG spätestens Ende Oktober für das nächste Jahr fest.[^54a-4]
 
@@ -1443,7 +1445,7 @@ Die Aufsicht gemäss Artikel 28 ELG wird durch das Bundesamt ausgeübt.[^55-1] E
 
 [^59-1]: [[AS 1965 1045](https://fedlex.data.admin.ch/eli/oc/1965/1045_1057_1041), [1969 77](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)Ziff. II Bst. B Ziff. 6 125 Ziff. V Bst. a]
 
-## Schlussbestimmungen der Änderung vom 12. Juni 1989****
+## Schlussbestimmungen der Änderung vom 12. Juni 1989
 
 [^u1-1]
 
@@ -1453,14 +1455,14 @@ a. Anwendung des neuen Artikels 17a (Vermögensverzicht)
 
 <sup>1</sup> Vermögenswerte, auf die vor Inkrafttreten von Artikel 17*a* verzichtet worden ist, unterliegen erst ab 1. Januar 1990 der jährlichen Verminderung.
 
-<sup>2</sup> ...[^u1-2]
+<sup>2</sup> …[^u1-2]
 
-b. ...*[^u1-3]*
+b. …[^u1-3]
 
 [^u1-2]: Aufgehoben durch Ziff. IV 46 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 [^u1-3]: Aufgehoben durch Ziff. IV 46 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmung der Änderung vom 29. November 1995****
+## Schlussbestimmung der Änderung vom 29. November 1995
 
 [^u2-1]
 
@@ -1470,7 +1472,7 @@ Bei laufenden Ehepaar-Altersrenten gemäss Übergangsbestimmungen der zehnten AH
 
 [^u2-2]: [AS 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)
 
-## Schlussbestimmungen der Änderung vom 26. November 1997****
+## Schlussbestimmungen der Änderung vom 26. November 1997
 
 [^u3-1]
 
@@ -1482,11 +1484,11 @@ a. Änderung von Artikel 1a ELV
 
 <sup>2</sup> Bei Ehepaaren nach Absatz 1 findet für den Ehegatten, der im Heim oder Spital lebt, die Begrenzung nach Artikel 3*a* Absatz 3 ELG keine Anwendung. Stattdessen wird die jährliche Ergänzungsleistung dieses Ehegatten nach Artikel 3*a* Absatz 2 ELG begrenzt.
 
-b. ...*[^u3-2]*
+b. …[^u3-2]
 
 [^u3-2]: Aufgehoben durch Ziff. IV 46 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmung der Änderung vom 28. September 2007****
+## Schlussbestimmung der Änderung vom 28. September 2007
 
 [^u4-1]
 
@@ -1501,7 +1503,7 @@ b. ...*[^u3-2]*
 - a. das Kind nicht mehr mit dem Elternteil zusammenlebt;
 - b. die getrennten Eltern wieder zusammenleben oder der Elternteil, mit dem das Kind zusammenlebt, wieder heiratet.
 
-## Schlussbestimmung der Änderung vom 29. Januar 2020****
+## Schlussbestimmung der Änderung vom 29. Januar 2020
 
 [^u5-1]
 
