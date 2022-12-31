@@ -4,11 +4,11 @@ title: "Lescha federala dals 14 da december 2012 davart la promoziun da la persc
 short: LPPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: rm
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPI)
 
-dals 14 da december 2012 (versiun dals 15 d’avrigl 2022)
+dals 14 da december 2012 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -73,25 +73,27 @@ Organs da perscrutaziun tenor questa lescha èn:
 
 - a.
 
-  las suandantas instituziuns per promover la perscrutaziun:
+  las suandantas instituziuns da promoziun da la perscrutaziun:
 
   - 1\. il Fond naziunal svizzer per la perscrutaziun scientifica (FNS),
-  - 2\.
+  - 2\.[^4-1]
 
-    l’Associaziun da las Academias svizras che consista da:
+    las Academias svizras da las scienzas che consista:
 
-    - – l’Academia svizra da las scienzas natiralas (SCNAT)
-    - – l’Academia svizra da las scienzas umanas e socialas (ASSU)
-    - – l’Academia svizra da las scienzas medicalas (ASSM)
-    - – l’Academia svizra da las scienzas tecnicas (ASST);
+    - – da l’Academia svizra da las scienzas natiralas (SCNAT)
+    - – da l’Academia svizra da las scienzas umanas e socialas (ASSU)
+    - – da l’Academia svizra da las scienzas medicalas (ASSM)
+    - – da l’Academia svizra da las scienzas tecnicas (ASST)
+    - – dal center da cumpetenzas Science et Cité
+    - – dal center da cumpetenzas TA-SWISS;
 
-- b.[^4-1] l’Agentura svizra per la promoziun da l’innovaziun (Innosuisse) tenor la Lescha federala dals 17 da zercladur 2016[^4-2] davart l’agentura svizra per la promoziun da l’innovaziun;
+- b.[^4-2] l’Agentura svizra per la promoziun da l’innovaziun (Innosuisse) tenor la Lescha federala dals 17 da zercladur 2016[^4-3] davart l’agentura svizra per la promoziun da l’innovaziun;
 - c.
 
   ils suandants instituts da la perscrutaziun en scolas autas:
 
   - 1\. las Scolas politecnicas federalas (SPF) ed ils instituts da perscrutaziun dal sectur SPF,
-  - 2\. las scolas autas e las autras instituziuns dal sectur da las scolas autas ch’èn accreditadas tenor la Lescha federala dals 30 da settember 2011[^4-3] davart l’agid a las scolas autas e davart la coordinaziun en il sectur da las scolas autas svizras (LASA),
+  - 2\. las scolas autas e las autras instituziuns dal sectur da las scolas autas ch’èn accreditadas tenor la Lescha federala dals 30 da settember 2011[^4-4] davart l’agid a las scolas autas e davart la coordinaziun en il sectur da las scolas autas svizras (LASA),
   - 3\. ils instituts da perscrutaziun d’impurtanza naziunala che vegnan sustegnids da la Confederaziun tenor questa lescha (art. 15);
 
 - d.
@@ -101,15 +103,16 @@ Organs da perscrutaziun tenor questa lescha èn:
   - 1\. fa perscrutaziun da l’administraziun per ademplir sias incumbensas, u
   - 2\. ademplescha incumbensas per promover la perscrutaziun e l’innovaziun.
 
-[^4-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^4-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 5
 
-**Instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas**
+**Instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas**
 
-Tenor questa lescha èn instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas instituziuns cun purtaders privats u publics che n’èn betg organs da perscrutaziun tenor l’artitgel 4, che han l’intent da perscrutar e che adempleschan las suandantas premissas:
+Tenor questa lescha èn instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas instituziuns cun purtaders privats u publics che n’èn betg organs da perscrutaziun tenor l’artitgel 4, che han l’intent da perscrutar e che adempleschan las suandantas premissas:
 
 - a. ils purtaders ed ils proprietaris da l’instituziun n’obtegnan betg avantatgs pecuniars tras la perscrutaziun da l’instituziun;
 - b. il nivel e la qualitad da la perscrutaziun èn cumparegliabels cun la perscrutaziun d’instituts da la perscrutaziun en scolas autas.
@@ -156,7 +159,7 @@ La Confederaziun promova la perscrutaziun e l’innovaziun tenor questa lescha e
 
 - a. manar las duas Scolas politecnicas federalas ed ils instituts da perscrutaziun dal sectur SPF;
 - b. conceder contribuziuns tenor la LASA[^7-1];
-- c. conceder contribuziuns a las instituziuns per promover la perscrutaziun;
+- c. conceder contribuziuns a las instituziuns da promoziun da la perscrutaziun;
 - d. conceder contribuziuns ad instituts da perscrutaziun d’impurtanza naziunala;
 - e. far in’atgna perscrutaziun, inclusiv la constituziun e la gestiun d’instituts federals da perscrutaziun;
 - f.[^7-2] la gestiun da la Innosuisse ed autras mesiras per promover l’innovaziun;
@@ -164,14 +167,14 @@ La Confederaziun promova la perscrutaziun e l’innovaziun tenor questa lescha e
 
 <sup>2</sup> Per segirar la perscrutaziun ed il spiert innovativ en Svizra po ella sustegnair la constituziun d’in Parc svizzer d’innovaziun.
 
-<sup>3</sup> Il Cussegl federal po incumbensar las instituziuns per promover la perscrutaziun e la Innosuisse da realisar sulettas u cuminaivlamain programs da promoziun tematics.[^7-4]
+<sup>3</sup> Il Cussegl federal po incumbensar las instituziuns da promoziun da la perscrutaziun e la Innosuisse da realisar sulettas u cuminaivlamain programs spezials u programs da promoziun tematics.[^7-4]
 
-<sup>4</sup> El po incumbensar las instituziuns per promover la perscrutaziun e la Innosuisse da collavurar sin plaun internaziunal, nua ch’i dovra lur cumpetenza spezialisada.[^7-5]
+<sup>4</sup> El po incumbensar las instituziuns da promoziun da la perscrutaziun e la Innosuisse da collavurar sin plaun internaziunal, nua ch’i dovra lur cumpetenza spezialisada.[^7-5]
 
 [^7-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^7-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^7-4]: Versiun tenor la cifra II da la LF dals 30 da sett. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^7-4]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^7-5]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 8
@@ -182,23 +185,23 @@ La Confederaziun promova la perscrutaziun e l’innovaziun tenor questa lescha e
 
 <sup>2</sup> El po delegar questa cumpetenza al Departament federal d’economia, furmaziun e retschertga (DEFR) u a l’unitad administrativa cumpetenta.
 
-### 2. secziun Incumbensas, princips da promoziun e contribuziuns da las instituziuns per promover la perscrutaziun
+### 2. secziun Incumbensas, princips da promoziun e contribuziuns da las instituziuns da promoziun da la perscrutaziun
 
 #### Art. 9
 
 **Incumbensas e princips da promoziun en general**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun adempleschan incumbensas che ston vegnir liquidadas per motivs pratics en il rom da l’autonomia scientifica.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun adempleschan incumbensas che ston vegnir liquidadas per motivs pratics en il rom da l’autonomia scientifica.
 
 <sup>2</sup> Ellas promovan la perscrutaziun che na serva betg ad intents commerzials.
 
-<sup>3</sup> Ellas decreteschan las disposiziuns necessarias per la promoziun da la perscrutaziun en lur statuts e reglaments. Quels ston vegnir approvads dal Cussegl federal, sch’els reglan incumbensas, per las qualas vegnan duvrads meds finanzials federals. Las instituziuns per promover la perscrutaziun pon surdar ad organs subordinads l’incarica da decretar disposiziuns executivas d’impurtanza limitada tar ils statuts e reglaments ch’èn da laschar approvar. Questas disposiziuns èn exceptadas da l’approvaziun dal Cussegl federal.[^9-1]
+<sup>3</sup> Ellas decreteschan las disposiziuns necessarias per la promoziun da la perscrutaziun en lur statuts e reglaments. Quels ston vegnir approvads dal Cussegl federal, sch’els reglan incumbensas, per las qualas vegnan duvrads meds finanzials federals. Las instituziuns da promoziun da la perscrutaziun pon surdar ad organs subordinads l’incarica da decretar disposiziuns executivas d’impurtanza limitada tar ils statuts e reglaments ch’èn da laschar approvar. Questas disposiziuns èn exceptadas da l’approvaziun dal Cussegl federal.[^9-1]
 
-<sup>4</sup> Las instituziuns per promover la perscrutaziun dattan spezialmain paisa a la promoziun da la perscrutaziun da basa.
+<sup>4</sup> Las instituziuns da promoziun da la perscrutaziun dattan spezialmain paisa a la promoziun da la perscrutaziun da basa.
 
 <sup>5</sup>
 
-Ellas promovan la perscrutaziun ad instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas sut las suandantas premissas:
+Ellas promovan la perscrutaziun ad instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas sut las suandantas premissas:
 
 - a. L’independenza scientifica da las persunas ch’èn incumbensadas cun la perscrutaziun è garantida.
 - b. La perscrutaziun serva a la scolaziun ed a la furmaziun supplementara da la generaziun giuvna scientifica.
@@ -231,29 +234,32 @@ En il rom da las incumbensas e cumpetenzas che al vegnan attribuidas decida el d
 - c. infrastructuras da perscrutaziun che servan a sviluppar secturs spezials en Svizra e che na pertutgan betg la cumpetenza dals instituts da la perscrutaziun en scolas autas u da la Confederaziun;
 - d. la collavuraziun internaziunala en il sectur da la perscrutaziun resguardond las finamiras e mesiras respectivas da la Confederaziun.
 
-<sup>4</sup> En il rom da sia promoziun paja el als instituts da la perscrutaziun en scolas autas ed als instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas contribuziuns per indemnisar ils custs da perscrutaziun indirects che resultan per ils instituts (*overhead*). Il Cussegl federal regla ils princips per calcular las contribuziuns.
+<sup>4</sup> En il rom da sia promoziun paja el als instituts da la perscrutaziun en scolas autas ed als instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas contribuziuns per indemnisar ils custs da perscrutaziun indirects che resultan per ils instituts (*overhead*). Il Cussegl federal regla ils princips per calcular las contribuziuns.
 
 <sup>5</sup> Il FNS sa participescha a las proceduras che precedan ils conclus davart ils programs naziunals da promoziun, ils accents naziunals da promoziun ed ulteriurs programs da promoziun che al èn vegnids delegads.
 
-<sup>6</sup> Per garantir la cuntinuitad da sia promoziun da la perscrutaziun po el duvrar ina part da las contribuziuns federalas per furmar agen chapital en furma da reservas. Il total da las reservas na dastga surpassar en nagin onn da gestiun 10 pertschient da la contribuziun federala annuala respectiva.
+<sup>6</sup> Per garantir la cuntinuitad da sia promoziun da la perscrutaziun po el duvrar ina part da las contribuziuns federalas per furmar agen chapital en furma da reservas. L’onn da gestiun respectiv na dastgan las reservas betg surpassar 15 pertschient da la contribuziun federala annuala respectiva.[^10-1] En cas excepziunals e durant in temp limità po il Cussegl federal permetter in surpassament da questa tariffa maximala, sche las obligaziuns betg bilantschadas dal FNS per contribuziuns da promoziun da la perscrutaziun giustifitgeschan questa mesira.[^10-2]
 
 <sup>7</sup> Il Secretariat da stadi per furmaziun, retschertga ed innovaziun (SEFRI) fa periodicamain ina cunvegna da prestaziun cun il FNS sin basa dals conclus finanzials da l’Assamblea federala. En quella vegnan concretisadas er las incumbensas supplementaras ch’il Cussegl federal deleghescha.
 
+[^10-1]: Versiun da la segunda frasa tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Integrà la terza frasa tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
 #### Art. 11
 
-**Academias svizras**
+**Academias svizras da las scienzas[^11-1]**
 
-<sup>1</sup> L’Associaziun da las Academias svizras è l’organ da promoziun da la Confederaziun per rinforzar la collavuraziun en e tranter las disciplinas scientificas e per francar la scienza en la societad.
+<sup>1</sup> Las Academias svizras da las scienzas èn l’organ da promoziun da la Confederaziun per rinforzar la collavuraziun en e tranter tut las disciplinas scientificas e per francar la scienza en la societad.[^11-2]
 
 <sup>2</sup>
 
-Ella utilisescha las contribuziuns federalas en spezial per ils suandants intents:
+Ellas utiliseschan las contribuziuns federalas en spezial per ils suandants intents:
 
-- a. Ella realisescha e promova l’identificaziun tempriva da temas ch’èn relevants per la societad en il sectur da la furmaziun, da la perscrutaziun e da l’innovaziun.
-- b. Ella s’engascha per che tgi che fa u che applitgescha enconuschientschas respectia sia responsabladad etica.
-- c. Ella concepescha il dialog tranter la scienza e la societad e promova studis davart schanzas e ristgas da las innovaziuns e da las tecnologias.
+- a. Ellas realiseschan e promovan l’identificaziun tempriva da temas ch’èn relevants per la societad en il sectur da la furmaziun, da la perscrutaziun e da l’innovaziun.
+- b. Ellas s’engaschan per che las persunas che fan u applitgeschan enconuschientschas, respectian lur responsabladad etica.
+- c. Ellas concepeschan il dialog tranter la scienza e la societad e promovan studis davart schanzas e ristgas da las innovaziuns e da las tecnologias.[^11-3]
 
-<sup>3</sup> Las singulas Academias coordineschan lur activitads da promoziun en il rom da l’Associaziun e garanteschan la collavuraziun en spezial cun ils instituts da la perscrutaziun en scolas autas.
+<sup>3</sup> Las singulas instituziuns tenor l’artitgel 4 litera a cifra 2 coordineschan lur activitads da promoziun en il rom da las Academias svizras da las scienzas e garanteschan la collavuraziun en spezial cun ils instituts da la perscrutaziun en scolas autas.[^11-4]
 
 <sup>4</sup> Ellas promovan la collavuraziun da scienziads e d’experts en societads spezialisadas, en cumissiuns ed en ulteriuras furmas organisatoricas adattadas e tiran a niz questa collavuraziun per ademplir lur incumbensas.
 
@@ -261,13 +267,19 @@ Ella utilisescha las contribuziuns federalas en spezial per ils suandants intent
 
 <sup>6</sup> Ellas pon sustegnair collecziuns da datas, sistems da documentaziun, revistas scientificas, ediziuns u chaussas sumegliantas che servan sco infrastructuras da perscrutaziun a sviluppar champs spezialisads en Svizra e che na pertutgan betg la cumpetenza da promoziun dal FNS u dals instituts da la perscrutaziun en scolas autas u che na vegnan betg sustegnidas directamain da la Confederaziun.
 
-<sup>7</sup> Il SEFRI fa periodicamain ina cunvegna da prestaziun cun l’Associaziun da las Academias svizras, e quai sin basa dals conclus finanzials da l’Assamblea federala. Cun quella po el surdar a l’Associaziun ed a las singulas Academias en il rom da lur incumbensas tenor ils alineas 1–4 evaluaziuns, la realisaziun da projects scientifics, la gestiun d’instituziuns tenor l’alinea 6 ed ulteriuras incumbensas spezialas.
+<sup>7</sup> Il SEFRI fa periodicamain ina cunvegna da prestaziun cun las Academias svizras da las scienzas, e quai sin basa dals conclus finanzials da l’Assamblea federala. En questa cunvegna po il SEFRI incaricar ellas e las singulas instituziuns tenor l’alinea 4 litera a cifra 2 da far evaluaziuns, da realisar projects scientifics, da manar instituziuns tenor l’alinea 6 e da liquidar ulteriuras incumbensas spezialas en il rom da lur incumbensas e cumpetenzas tenor ils alineas 2–6.[^11-5]
+
+[^11-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-4]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
 **Integritad scientifica e buna pratica scientifica; sancziuns**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun fan attenziun che la perscrutaziun ch’ellas promovan vegnia realisada tenor las reglas da l’integritad scientifica e da la buna pratica scientifica.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun fan attenziun che la perscrutaziun ch’ellas promovan vegnia realisada tenor las reglas da l’integritad scientifica e da la buna pratica scientifica.
 
 <sup>2</sup> En cas d’in suspect motivà da violaziun da questas reglas pon ellas, en il rom da lur promoziun u da lur controllas, dumandar scleriments tar instituziuns svizras ed estras u tar persunas pertutgadas e dar scleriments a talas instituziuns u persunas.
 
@@ -291,7 +303,7 @@ En lur reglaments prevesan ellas sancziuns da dretg administrativ en cas da cunt
 
 **Procedura e protecziun giuridica**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun reglan lur proceduras per disposiziuns davart contribuziuns. Quellas ston correspunder a las pretensiuns tenor ils artitgels 10 e 26–38 da la Lescha federala dals 20 da december 1968[^13-1] davart la procedura administrativa (PA).
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun reglan lur proceduras per disposiziuns davart contribuziuns. Quellas ston correspunder a las pretensiuns tenor ils artitgels 10 e 26–38 da la Lescha federala dals 20 da december 1968[^13-1] davart la procedura administrativa (PA).
 
 <sup>2</sup> Per communitgar disposiziuns a petents a l’exteriur en cas da promoziuns transcunfinalas è applitgabel l’artitgel 11*b* PA.
 
@@ -355,29 +367,32 @@ La contribuziun federala importa:
 
 **Perscrutaziun da l’administraziun federala**
 
-<sup>1</sup> La perscrutaziun da l’administraziun è la perscrutaziun che vegn iniziada da l’administraziun federala, perquai che quella dovra ils resultats da questa perscrutaziun per ademplir sias incumbensas.
+<sup>1</sup> La perscrutaziun da l’administraziun è la perscrutaziun che vegn iniziada da l’administraziun federala; ses resultats vegnan duvrads da l’administraziun federala per ademplir sias incumbensas.[^16-1]
 
 <sup>2</sup>
 
 La perscrutaziun da l’administraziun po cumpigliar las suandantas mesiras:
 
-- a. manar agens instituts federals da perscrutaziun;
-- b. contribuziuns ad instituts da la perscrutaziun en scolas autas per realisar programs da perscrutaziun;
-- c. realisar agens programs da perscrutaziun, en spezial en collavuraziun cun instituts da la perscrutaziun en scolas autas, instituziuns per promover la perscrutaziun, la Innosuisse[^16-1] u ulteriuras organisaziuns da promoziun;
-- d. conceder incaricas da perscrutaziun (perscrutaziun per incumbensa).
+- a. conceder incaricas da perscrutaziun (perscrutaziun per incumbensa);
+- b. manar agens instituts federals da perscrutaziun;
+- c. realisar agens programs da perscrutaziun, en spezial en collavuraziun cun instituts da la perscrutaziun en scolas autas, instituziuns da promoziun da la perscrutaziun, la Innosuisse u ulteriuras organisaziuns da promoziun;
+- d. surdar contribuziuns ad instituts da la perscrutaziun en scolas autas per realisar programs da perscrutaziun.[^16-2]
 
-<sup>3</sup> Las instituziuns da perscrutaziun da l’administraziun che n’èn betg instituts federals da perscrutaziun, che ston però realisar agens projects da perscrutaziun sco cumplettaziun da las mesiras tenor l’alinea 2 per ademplir lur incumbensas en moda cunvegnenta, pon suttametter per quest intent a la Innosuisse sco er ad autras organisaziuns naziunalas ed internaziunalas da promoziun la dumonda da survegnir meds finanzials u da pudair sa participar a programs da talas organisaziuns.[^16-2]
+<sup>3</sup> Las instituziuns da perscrutaziun da l’administraziun che n’èn betg instituts federals da perscrutaziun, che ston però realisar agens projects da perscrutaziun sco cumplettaziun da las mesiras tenor l’alinea 2 per ademplir lur incumbensas en moda cunvegnenta, pon suttametter per quest intent a la Innosuisse[^16-3] sco er ad autras organisaziuns naziunalas ed internaziunalas da promoziun, la dumonda da survegnir meds finanzials u da pudair sa participar a programs.[^16-4]
 
 <sup>4</sup> La perscrutaziun da l’administraziun è suttamessa als princips tenor l’artitgel 6 alineas 1 literas a e c sco er 3 e 4.
 
 <sup>5</sup> Per la perscrutaziun da l’administraziun èn cumpetents ils departaments en lur champ d’incumbensas respectiv.
 
-<sup>6</sup> En cas da mesiras tenor l’alinea 2 literas b e c pajan las unitads administrativas cumpetentas contribuziuns per indemnisar ils custs da perscrutaziun indirects (*overhead*). Il Cussegl federal regla ils princips per calcular las contribuziuns.
+<sup>6</sup> En cas da mesiras tenor l’alinea 2 literas c e d pajan las unitads administrativas cumpetentas contribuziuns per indemnisar ils custs da perscrutaziun indirects (*overhead*). Il Cussegl federal regla ils princips per calcular las contribuziuns.[^16-5]
 
 <sup>7</sup> Las disposiziuns davart la finanziaziun tenor la 8. secziun na vegnan betg applitgadas per la perscrutaziun da l’administraziun.
 
-[^16-1]: Expressiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Questa midada è vegnida resguardada en l’entir decret.
-[^16-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-3]: Expressiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Questa midada è vegnida resguardada en l’entir decret.
+[^16-4]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-5]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 17
 
@@ -409,134 +424,172 @@ La perscrutaziun da l’administraziun po cumpigliar las suandantas mesiras:
 
 Ultra da quai po ella sustegnair:
 
-- a. mesiras per promover interpresas che sa basan sin la scienza;
+- a.[^18-1] mesiras per sviluppar e per rinforzar interpresas che sa basan sin la scienza;
 - b. mesiras per fundar u per constituir interpresas che sa basan sin la scienza;
+- b<sup>bis</sup>.[^18-2] mesiras per promover persunas fitg qualifitgadas en il sectur da l’innovaziun;
 - c. l’utilisaziun da la savida ed il transfer da savida e da tecnologia tranter las scolas autas, l’economia e la societad;
-- d.[^18-1] la generaziun giuvna en il sectur da l’innovaziun.
+- d.[^18-3] l’infurmaziun davart las pussaivladads da promoziun sin plaun naziunal ed internaziunal.
 
 <sup>3</sup> Ella elavura la basa per promover l’innovaziun.
 
 <sup>4</sup> Ella garantescha l’evaluaziun da la promoziun.
 
-[^18-1]: Integrà tras la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^18-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-2]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-3]: Integrà tras la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 19
 
 **Promoziun da projects d’innovaziun**
 
-<sup>1</sup> Sco organ da promoziun da la Confederaziun per l’innovaziun che sa basa sin la scienza tenor la Lescha Innosuisse dals 17 da zercladur 2016[^19-1] promova la Innosuisse projects d’innovaziun cun conceder contribuziuns ad instituts da perscrutaziun en scolas autas ed ad instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas.[^19-2]
+<sup>1</sup> Sco organ da promoziun da la Confederaziun per l’innovaziun che sa basa sin la scienza tenor la Lescha Innosuisse dals 17 da zercladur 2016[^19-1] po la Innosuisse promover projects d’innovaziun che vegnan realisads tras instituts da la perscrutaziun en scolas autas u tras instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas (partenaris da perscrutaziun) ensemen cun partenaris privats u publics, che procuran per l’utilisaziun (partenaris da realisaziun).[^19-2]
+
+<sup>1bis</sup> La contribuziun da la Innosuisse serva a cuvrir ils custs directs dals projects dals partenaris da perscrutaziun. En sia ordinaziun da contribuziuns po la Innosuisse prevair ch’i vegnian pajadas contribuziuns er als partenaris da realisaziun, sche quai vegn premess per ina collavuraziun internaziunala en il sectur da l’innovaziun che sa basa sin la scienza.[^19-3]
 
 <sup>2</sup>
 
 Contribuziuns vegnan mo concedidas, sche las suandantas premissas èn ademplidas:
 
-- a. il project vegn realisà ensemen cun in u cun plirs partenaris privats u publics che procuran per l’utilisaziun (partenaris da realisaziun);
+- a.[^19-4] ...
 - b. ina realisaziun efficazia dals resultats da perscrutaziun a favur da l’economia e da la societad po vegnir spetgada;
 - c. il project na po probablamain betg vegnir realisà senza la promoziun tras la Confederaziun;
-- d.
-
-  ils partenaris da realisaziun sa participeschan per la mesadad a la finanziaziun dal project. Il Cussegl federal po prevair excepziuns da questa regla da finanziaziun, en spezial per:
-
-  - 1\. projects che han in potenzial da success sur la media,
-  - 2\. projects, dals quals ils resultats pon servir ad in vast circul d’utilisaders,
-
+- d.[^19-5] ils partenaris da realisaziun sa participeschan al project cun atgnas prestaziuns u cun prestaziuns als partenaris da perscrutaziun, e quai en la dimensiun da 40–60 pertschient dals custs totals dal project;
 - e. il project contribuescha a la scolaziun pratica da la generaziun giuvna scientifica.
 
-<sup>3</sup> La Innosuisse po promover studis da realisabladad, prototips ed experiments er senza partenaris da realisaziun, sch’els vegnan realisads d’instituts da la perscrutaziun en scolas autas u d’instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas e sch’i sa tracta da projects che han in potenzial d’innovaziun considerabel.[^19-3]
+<sup>2bis</sup>
 
-<sup>3bis</sup> …[^19-4]
+En cas singuls po la Innosuisse pretender dal partenari da realisaziun ina participaziun da main che 40 pertschient, sch’ina da las suandantas premissas è ademplida:
 
-<sup>3ter</sup> Sche interpresas svizras vegnan exclusas da purschidas da promoziun da la Cumissiun europeica, las qualas èn destinadas a projects singuls, po la Innosuisse promover projects d’innovaziun d’interpresas giuvnas e d’interpresas pitschnas e mesaunas, sche quests projects cuntegnan in potenzial d’innovaziun impurtant, cun la finamira d’ina commerzialisaziun svelta ed efficazia e d’ina creschientscha correspundenta. La contribuziun da la Innosuisse serva a cuvrir parzialmain u totalmain tant ils custs directs dal project, ils quals resultan a l’interpresa sezza, sco er ils custs per prestaziuns da terzas persunas. En sia ordinaziun da contribuziuns fixescha la Innosuisse ils criteris da promoziun sco er ils criteris per determinar l’autezza da las atgnas prestaziuns da las interpresas.[^19-5]
+- a. il project cuntegna ristgas da realisaziun sur la media ed ha a medem temp in potenzial per in success economic sur la media u per in grond niz per la societad;
+- b. ils resultats spetgads han il potenzial da betg mo nizzegiar al partenari da realisaziun, mabain er ad in vast circul d’utilisaders che n’èn betg participads al project;
+- c. il mument da la concessiun da la contribuziun n’è il partenari da realisaziun betg en cas da contribuir finanzialmain al project en la dimensiun pretendia, ha dentant in potenzial sur la media da realisar ils resultats dal project cun success;
+- d. il project vegn realisà en il rom d’in program spezial da durada limitada tenor l’artitgel 7 alinea 3.[^19-6]
 
-<sup>4</sup> Ella po plinavant prevair instruments per la participaziun als custs per scleriments davart la realisabladad efficazia da projects da las interpresas.[^19-6]
+<sup>2ter</sup>
 
-<sup>5</sup> Ella promova en spezial projects tenor ils alineas 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> e 4 che gidan a realisar in’utilisaziun persistenta da las resursas.[^19-7]
+En cas singuls po la Innosuisse pretender dal partenari da realisaziun ina participaziun da passa 60 pertschient, sch’ina da las suandantas premissas è ademplida:
+
+- a. il project cuntegna pitschnas ristgas da realisaziun ed ha a medem temp in potenzial per in success economic sur la media per il partenari da realisaziun;
+- b. la capacitad economica dal partenari da realisaziun u las caracteristicas dal project giustifitgeschan ina participaziun pli auta, cunzunt sch’il partenari da realisaziun na finanziescha per part betg sez sia participaziun, perquai ch’el survegn auters sustegns.[^19-7]
+
+<sup>3</sup> La Innosuisse po promover projects d’innovaziun che vegnan realisads da partenaris da perscrutaziun senza partenari da realisaziun, sch’ils projects han in potenzial d’innovaziun impurtant, che n’è dentant betg anc determinà suffizientamain.[^19-8]
+
+<sup>3bis</sup> Ella po promover projects d’innovaziun d’interpresas giuvnas, sche las lavurs dal project èn necessarias per preparar questas interpresas per lur emprima entrada sin il martgà. La contribuziun da la Innosuisse serva a cuvrir parzialmain u totalmain tant ils custs directs dal project che van sin donn e cust da l’interpresa giuvna sezza, sco er ils custs per prestaziuns da terzs. En sia ordinaziun da contribuziuns fixescha la Innosuisse ils criteris per determinar l’autezza da las atgnas prestaziuns da las interpresas giuvnas. En quest connex resguarda ella cunzunt ils criteris tenor ils alineas 2<sup>bis</sup> e 2<sup>ter</sup>.[^19-9]
+
+<sup>3ter</sup> Sche interpresas svizras vegnan exclusas da purschidas da promoziun da la Cumissiun europeica, las qualas èn destinadas a projects singuls, po la Innosuisse promover projects d’innovaziun d’interpresas giuvnas e d’interpresas pitschnas e mesaunas, sche quests projects cuntegnan in potenzial d’innovaziun impurtant, cun la finamira d’ina commerzialisaziun svelta ed efficazia e d’ina creschientscha correspundenta. La contribuziun da la Innosuisse serva a cuvrir parzialmain u totalmain tant ils custs directs dal project, ils quals resultan a l’interpresa sezza, sco er ils custs per prestaziuns da terzas persunas. En sia ordinaziun da contribuziuns fixescha la Innosuisse ils criteris da promoziun sco er ils criteris per determinar l’autezza da las atgnas prestaziuns da las interpresas.[^19-10]
+
+<sup>4</sup> Ella po plinavant prevair instruments per la participaziun als custs per scleriments davart la realisabladad efficazia da projects da las interpresas.[^19-11]
+
+<sup>5</sup> Ella promova en spezial projects tenor ils alineas 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> e 4 che gidan a realisar in’utilisaziun persistenta da las resursas.[^19-12]
 
 <sup>6</sup> Ils projects promovids ston observar ils princips da l’integritad scientifica e da la buna pratica scientifica. En cas da cuntravenziuns valan las sancziuns e l’obligaziun d’infurmaziun tenor l’artitgel 12 alineas 2–4.
 
 [^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^19-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-3]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Entra en vigur il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-5]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi ils 15 d’avr. 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-6]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-7]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi ils 15 d’avr. 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-3]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-4]: Abolì tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), cun effect dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-7]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-8]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-9]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-10]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi ils 15 d’avr. 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-11]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-12]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi ils 15 d’avr. 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
-**Ulteriuras mesiras da sustegn**
+**Promoziun d’interpresas che sa basan sin la scienza**[^20-1]
 
-<sup>1</sup>
-
-La Innosuisse po sustegnair las interpresas che sa basan sin la scienza cun:[^20-1]
-
-- a.[^20-2] sensibilisar e scolar persunas che vulan fundar u che han fundà da nov ina interpresa u che vulan surpigliar la successiun en ina interpresa;
-- b. metter a disposiziun purschidas d’infurmaziun e da cussegliaziun.
+<sup>1</sup> La Innosuisse po sustegnair il svilup ed il rinforzament d’interpresas che sa basan sin la scienza tras mesiras da scolaziun e da sensibilisaziun sco er tras purschidas d’infurmaziun e da cussegliaziun per persunas che vulan fundar u han fundà ina interpresa, che surpiglian la successiun en ina interpresa u che vulan orientar da nov lur interpresa.
 
 <sup>2</sup>
 
-Ella po sustegnair la fundaziun e la constituziun d’interpresas che sa basan sin la scienza cun:[^20-3]
+Ella po promover la fundaziun ed il svilup d’interpresas che sa basan sin la scienza cun agid da:
 
-- a. accumpagnar, cussegliar ed assister interprendiders giuvens;
-- b. gidar a tschertgar pussaivladads da finanziaziun;
-- c. metter a disposiziun purschidas d’infurmaziun e da cussegliaziun.
+- a. coaching d’interpresas giuvnas e da lur fundaturs;
+- b. mesiras per facilitar l’access a martgads internaziunals, tras la participaziun a programs d’internaziunalisaziun u a fieras internaziunalas;
+- c. contribuziuns ad organisaziuns, ad instituziuns u a persunas che sustegnan la fundaziun ed il svilup d’interpresas giuvnas;
+- d. infurmaziun e cussegliaziun.
 
-<sup>3</sup> Ella po sustegnair l’utilisaziun da la savida ed il transfer da savida e da tecnologia en spezial cun promover il barat d’infurmaziuns tranter las scolas autas e l’economia.[^20-4]
+<sup>3</sup> Ella designescha ils furniturs da mesiras tenor l’alinea 2 litera a cun agid d’ina procedura da selecziun e maina ina glista publica dals furniturs disponibels.
 
-[^20-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-2]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-3]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-4]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
+#### Art. 20a
+
+**Promoziun da persunas fitg qualifitgadas**[^20a-1]
+
+<sup>1</sup> La Innosuisse po sustegnair persunas fitg qualifitgadas d’instituts da la perscrutaziun en scolas autas, d’instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas sco er d’interpresas pitschnas e mesaunas tar l’acquisiziun da cumpetenzas en il sectur da l’innovaziun.
+
+<sup>2</sup>
+
+Per quest intent po ella conceder contribuziuns, per che questas persunas possian:
+
+- a. far studis da realisabladad u projects sumegliants;
+- b. sa participar a programs da furmaziun supplementara;
+- c. absolver segiurns d’immersiun per promover il barat tranter la scienza e la pratica.
+
+<sup>3</sup> Las contribuziuns pon vegnir pajadas a la persuna fitg qualifitgada per cuvrir ils custs directs dal project, las taxas da participaziun u ils custs da viver ubain – en cas da segiurns d’immersiun – a ses patrun per cuvrir ils custs dal pajament cuntinuà dal salari. Ellas pon er vegnir pajadas en furma da stipendis u d’emprests senza tschains.
+
+<sup>4</sup> Las contribuziuns vegnan concedidas mo, sche la finamira da promoziun na po betg vegnir cuntanschida en il rom d’in project d’innovaziun tenor l’artitgel 19 u cun agid d’ina mesira tenor l’artitgel 20 alinea 1 u 2.
+
+[^20a-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 21
 
-**Indemnisaziun per l’accumpagnament, la cussegliaziun, il coaching ed il mentoring**[^21-1]
+**Promoziun dal transfer da savida e da tecnologia e da l’intermediaziun d’infurmaziuns**[^21-1]
 
-<sup>1</sup> Per l’accumpagnament, per la cussegliaziun e per il coaching tenor l’artitgel 20 alinea 2 litera a sco er per la promoziun dal barat d’infurmaziuns tranter las scolas autas e l’economia tenor l’artitgel 20 alinea 3 en furma dal mentoring d’innovaziuns vegnan indemnisadas mo prestaziuns da furniturs da prestaziuns ch’èn sa qualifitgads per quest intent en ina procedura da selecziun da la Innosuisse.
+<sup>1</sup>
 
-<sup>2</sup> La Innosuisse maina ina glista publica dals furniturs da prestaziuns qualifitgads.
+La Innosuisse po sustegnair l’utilisaziun da la savida ed il transfer da savida e da tecnologia cun:
 
-<sup>3</sup>
+- a. promover la colliaziun tranter ils acturs da l’innovaziun che sa basa sin la scienza, cun la finamira d’instradar projects d’innovaziun;
+- b. mesiras destinadas a rinforzar la forza innovativa d’interpresas pitschnas e mesaunas, sco mentoring d’innovaziuns, purschidas da furmaziun supplementara u plattafurmas da barat;
+- c. mesiras da sustegn destinadas a sclerir dumondas da la proprietad intellectuala;
+- d. mesiras da coordinaziun e da scolaziun en il rom da la realisaziun da projects d’innovaziun tenor l’artitgel 19.
 
-L’indemnisaziun vegn concedida per sustegnair:
+<sup>2</sup> Ella po designar ils furniturs da prestaziuns da mentoring tenor l’alinea 1 litera b cun agid d’ina procedura da selecziun e manar ina glista publica dals furniturs disponibels.
 
-- a. interprendiders giuvens u lur interpresas giuvnas per l’accumpagnament, per la cussegliaziun e per il coaching (art. 20 al. 2 lit. a);
-- b. interpresas per il mentoring d’innovaziuns (art. 20 al. 3).
+<sup>3</sup> En ses champ da cumpetenza po ella promover l’infurmaziun davart las pussaivladads da promoziun sin plaun naziunal ed internaziunal e davart l’inoltraziun da dumondas, en spezial cun conceder contribuziuns a terzs che mettan a disposiziun talas purschidas d’infurmaziun.
 
-<sup>4</sup> La prestaziun sustegnida da la Innosuisse e la summa maximala disponibla per quest intent vegnan fixadas en in contract cun ils retschaviders da las contribuziuns tenor l’alinea 3. En cas simpels vegn garantida l’indemnisaziun cun agid d’ina disposiziun.
-
-[^21-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^21-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 22
 
-**Promoziun da la generaziun giuvna**[^22-1]
+**Collavuraziun internaziunala en il sectur da l’innovaziun**[^22-1]
 
-<sup>1</sup> La Innosuisse po promover generaziun giuvna autamain qualifitgada en il sectur da l’innovaziun cun agid da stipendis u d’emprests senza tschains.
+<sup>1</sup> La Innosuisse po promover la collavuraziun internaziunala en il sectur da l’innovaziun che sa basa sin la scienza.
 
-<sup>2</sup>
+<sup>2</sup> En il rom da ses instruments tenor ils artitgels 19–21 po ella stabilir cooperaziuns cun organisaziuns u cun posts da promoziun da l’exteriur.
 
-Las contribuziuns tenor l’alinea 1 vegnan concedidas en il rom d’in program da promoziun individual che vegn fixà da la Innosuisse. Quest program prevesa ina dimora:
+<sup>3</sup> Ella po sa participar ad activitads da promoziun en il senn da l’artitgel 28 alinea 2 litera c.
 
-- a. en ina interpresa che sa basa sin la scienza cun l’intent d’acquistar cumpetenzas praticas; u
-- b. en in institut da perscrutaziun tenor l’artitgel 4 litera c u tenor l’artitgel 5 cun l’intent d’approfundar cumpetenzas en la perscrutaziun applitgada.
+[^22-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
-<sup>3</sup> Las contribuziuns tenor l’alinea 1 vegnan concedidas mo, sch’il program tenor l’alinea 2 na po betg vegnir realisà en il rom d’in project d’innovaziun tenor l’artitgel 19 u sco mesira tenor l’artitgel 20.
+#### Art. 22a
 
-<sup>4</sup> La dimora tenor l’alinea 2 dastga durar maximalmain 3 onns.
+**Collavuraziun cun auters organs da perscrutaziun**[^22a-1]
 
-<sup>5</sup> L’autezza dals stipendis, la participaziun finanziala da las interpresas sco er las modalitads da restituziun per emprests senza tschains vegnan regladas en l’ordinaziun da contribuziuns dad Innosuisse.
+<sup>1</sup> En il rom da ses instruments tenor ils artitgels 19–21 po la Innosuisse realisar mesiras da promoziun cuminaivlas ensemen cun auters organs da perscrutaziun.
 
-[^22-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018, al. 5 en vigur dapi il 1. da schan. 2017 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+<sup>2</sup> En reglaments cuminaivels fixeschan las partidas participadas las modalitads da la realisaziun e las cundiziuns da promoziun.
+
+[^22a-1]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 23
 
 **Indemnisaziun dals custs da perscrutaziun indirects**[^23-1]
 
-<sup>1</sup> En il rom da sia promoziun paja la Innosuisse als instituts da la perscrutaziun en scolas autas ed als instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas, contribuziuns per indemnisar ils custs da perscrutaziun indirects (*overhead*).
+<sup>1</sup> En il rom da sia promoziun paja la Innosuisse als instituts da la perscrutaziun en scolas autas ed als instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas, contribuziuns per indemnisar ils custs da perscrutaziun indirects (*overhead*).
 
-<sup>2</sup> Il Cussegl federal regla ils princips per calcular las contribuziuns.
+<sup>1bis</sup> Sch’igl è previs da fixar per ils centers da cumpetenzas tecnologicas che vegnan sustegnids da la Confederaziun (art. 15 al. 3 lit. c) ina tariffa maximala da contribuziun pli auta che per ils ulteriurs instituts da la perscrutaziun en scolas autas e per ils instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas, suttametta il Cussegl federal al Parlament ina proposta correspundenta cun il rom da pajaments tenor l’artitgel 36 litera c.[^23-2]
+
+<sup>2</sup> Dal rest regla il Cussegl federal ils princips per calcular las contribuziuns.[^23-3]
 
 [^23-1]: Versiun tenor la cifra 2 da l’agiunta da la Lescha Innosuisse dals 17 da zer. 2016, en vigur dapi il 1. da schan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^23-2]: Integrà tras la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 24
 
@@ -620,25 +673,34 @@ En il rom da las finamiras surordinadas da la politica internaziunala da perscru
 Il Cussegl federal po pajar las suandantas contribuziuns e prevair las suandantas mesiras en il rom dals credits permess:
 
 - a. contribuziuns a programs e projects da perscrutaziun e da tecnologia che permettan u faciliteschan la collavuraziun da la Svizra vi d’experiments e projects d’organisaziuns e programs internaziunals cun participaziun svizra sco er l’utilisaziun svizra d’instituts da perscrutaziun internaziunals;
-- b. contribuziuns ad instituts da la perscrutaziun en scolas autas ed ad instituts da perscrutaziun betg commerzials che na tutgan betg en il sectur da las scolas autas per permetter u facilitar la collavuraziun da la Svizra vi d’experiments e projects d’organisaziuns e da programs internaziunals;
-- c. contribuziuns ad instituts da la perscrutaziun en scolas autas per la collavuraziun bilaterala u multilaterala en il sectur da la perscrutaziun ordaifer ils programs e las organisaziuns internaziunalas; en quest connex po el colliar sias prestaziuns cun la premissa che las instituziuns benefiziarias furneschian atgnas prestaziuns adequatas en l’interess da la politica internaziunala da perscrutaziun e d’innovaziun da la Svizra;
-- d.[^29-1] contribuziuns ad interpresas svizras per l’elavuraziun da propostas da projects per la participaziun als programs generals da perscrutaziun da l’Uniun europeica;
-- e.[^29-2] contribuziuns ad interpresas svizras per la promoziun da lur participaziun als programs generals da perscrutaziun da l’Uniun europeica ed ad iniziativas e programs che vegnan confinanziads da quests programs generals, uschenavant ch’i vegn premess che las interpresas survegnan contribuziuns statalas per talas participaziuns;
-- f.[^29-3]
+- b.[^29-1]
+
+  contribuziuns a las suandantas instituziuns, per pussibilitar u facilitar la collavuraziun da la Svizra ad experiments ed a projects d’organisaziuns e da programs internaziunals:
+
+  - 1\. instituts da la perscrutaziun en scolas autas,
+  - 2\. instituts da perscrutaziun betg commerzials ordaifer il sectur da las scolas autas,
+  - 3\. ulteriuras instituziuns betg commerzialas che perscruteschan en in sectur specific u che sa participeschan ad activitads da perscrutaziun;
+
+- c.[^29-2] contribuziuns ad instituts tenor la litera b per la collavuraziun bilaterala u multilaterala en il sectur da la perscrutaziun ubain per activitads da perscrutaziun specificas a l’exteriur ordaifer ils programs e las organisaziuns internaziunalas; en quest connex po il Cussegl federal colliar sias prestaziuns cun la premissa che las instituziuns benefiziarias furneschian atgnas prestaziuns adequatas en l’interess da la politica internaziunala da perscrutaziun e d’innovaziun da la Svizra;
+- d.[^29-3] contribuziuns ad interpresas svizras per l’elavuraziun da propostas da projects per la participaziun als programs generals da perscrutaziun da l’Uniun europeica;
+- e.[^29-4] contribuziuns ad interpresas svizras per la promoziun da lur participaziun als programs generals da perscrutaziun da l’Uniun europeica ed ad iniziativas e programs che vegnan confinanziads da quests programs generals, uschenavant ch’i vegn premess che las interpresas survegnan contribuziuns statalas per talas participaziuns;
+- f.[^29-5]
 
   contribuziuns ad instituziuns ed ad organisaziuns betg commerzialas per las suandantas activitads, uschenavant che quellas na vegnan betg exequidas da la Confederaziun sezza:
 
   - 1\. infurmaziun da circuls interessads en Svizra davart activitads e programs da la collavuraziun scientifica internaziunala en il sectur da la perscrutaziun e da l’innovaziun,
   - 2\. cussegliaziun e sustegn da circuls interessads en Svizra tar l’elavuraziun e l’inoltraziun da dumondas concernent programs e projects internaziunals en il sectur da la perscrutaziun e da l’innovaziun;
 
-- g.[^29-4] ...
+- g.[^29-6] ...
 
 <sup>2</sup> Il Cussegl federal regla la calculaziun da las contribuziuns e la procedura.
 
-[^29-1]: Integrà tras la cifra I da la LF dals 27 da sett. 2013, en vigur dapi il 1. da mars 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-2]: Integrà tras la cifra I da la LF dals 27 da sett. 2013, en vigur dapi il 1. da mars 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-3]: Oriundamain: lit. d. Versiun tenor la cifra I da la LF dals 30 da sett. 2016, en vigur dapi il 1. da mars 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^29-4]: Oriundamain: lit. e. Abolì tras la cifra I da la LF dals 30 da sett. 2016, cun effect dapi il 1. da mars 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-2]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-3]: Integrà tras la cifra I da la LF dals 27 da sett. 2013, en vigur dapi il 1. da mars 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-4]: Integrà tras la cifra I da la LF dals 27 da sett. 2013, en vigur dapi il 1. da mars 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-5]: Oriundamain: lit. d. Versiun tenor la cifra I da la LF dals 30 da sett. 2016, en vigur dapi il 1. da mars 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-6]: Oriundamain: lit. e. Abolì tras la cifra I da la LF dals 30 da sett. 2016, cun effect dapi il 1. da mars 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 30
 
@@ -757,7 +819,7 @@ Il Cussegl federal suttametta a l’Assamblea federala:
 
 L’Assamblea federala permetta cun in conclus federal simpel mintgamai per ina perioda da plirs onns:
 
-- a. la limita d’expensas per las instituziuns per promover la perscrutaziun;
+- a. la limita d’expensas per las instituziuns da promoziun da la perscrutaziun;
 - b. la limita d’expensas per las contribuziuns als instituts da perscrutaziun d’impurtanza naziunala;
 - c.[^36-1] il rom da pajaments per la promoziun da l’innovaziun da la Innosuisse;
 - d. ils credits d’impegn per las contribuziuns en il rom da la collavuraziun internaziunala en il sectur da la perscrutaziun e da l’innovaziun;
@@ -770,7 +832,7 @@ L’Assamblea federala permetta cun in conclus federal simpel mintgamai per ina 
 
 **Deliberaziun e pajament dals meds finanzials**
 
-<sup>1</sup> Las contribuziuns federalas a las instituziuns per promover la perscrutaziun vegnan deliberadas sin basa dals plans da promoziun che vegnan preschentads mintga onn da las instituziuns ed approvads dals servetschs federals cumpetents (art. 48).
+<sup>1</sup> Las contribuziuns federalas a las instituziuns da promoziun da la perscrutaziun vegnan deliberadas sin basa dals plans da promoziun che vegnan preschentads mintga onn da las instituziuns ed approvads dals servetschs federals cumpetents (art. 48).
 
 <sup>2</sup> Las contribuziuns federalas als instituts da perscrutaziun d’impurtanza naziunala (art. 15) vegnan deliberadas tenor las prescripziuns da las disposiziuns da contribuziun e tenor las cunvegnas da prestaziun.
 
@@ -791,13 +853,13 @@ La deliberaziun ed il pajament da las contribuziuns federalas en il rom da la co
 
 **Restituziun en cas da violaziuns da l’obligaziun**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun pretendan enavos ils meds finanzials concedids, sch’els èn vegnids pajads nungiustifitgadamain u sch’il retschavider n’ha betg ademplì sias obligaziuns, malgrà ch’el è vegnì admonì.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun pretendan enavos ils meds finanzials concedids, sch’els èn vegnids pajads nungiustifitgadamain u sch’il retschavider n’ha betg ademplì sias obligaziuns, malgrà ch’el è vegnì admonì.
 
 <sup>2</sup> Il dretg da dumandar la restituziun surannescha 3 onns suenter ch’il creditur ha survegnì enconuschientscha da quel, en mintga cas dentant 10 onns suenter ch’il dretg è sa constituì.[^38-1]
 
 <sup>2bis</sup> Sch’il retschavider ha commess in malfatg tras ses cumportament, surannescha il dretg da dumandar ina restituziun il pli baud cun l’entrada da la surannaziun da la persecuziun penala. Sche la surannaziun da la persecuziun penala n’entra betg pli en consequenza d’ina sentenzia penala da l’emprima instanza, surannescha il dretg il pli baud 3 onns suenter la communicaziun da la sentenzia.[^38-2]
 
-<sup>3</sup> Las instituziuns per promover la perscrutaziun dovran ils meds finanzials restituids per finanziar las incumbensas delegadas ad ellas da la Confederaziun. Ellas infurmeschan en chaussa en lur rapports annuals.
+<sup>3</sup> Las instituziuns da promoziun da la perscrutaziun dovran ils meds finanzials restituids per finanziar las incumbensas delegadas ad ellas da la Confederaziun. Ellas infurmeschan en chaussa en lur rapports annuals.
 
 [^38-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^38-2]: Integrà tras la cifra 5 da l’agiunta da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
@@ -808,12 +870,12 @@ La deliberaziun ed il pajament da las contribuziuns federalas en il rom da la co
 
 <sup>1</sup>
 
-Sch’ils resultats da la perscrutaziun che vegn finanziada per part u dal tuttafatg cun meds finanzials federals vegnan tratgs a niz economicamain, pon las instituziuns per promover la perscrutaziun pretender:
+Sch’ils resultats da la perscrutaziun che vegn finanziada per part u dal tuttafatg cun meds finanzials federals vegnan tratgs a niz economicamain, pon las instituziuns da promoziun da la perscrutaziun pretender:
 
 - a. la restituziun dals meds finanzials concedids a norma dals retgavs realisads; ed
 - b. ina participaziun adequata al gudogn.
 
-<sup>2</sup> Las instituziuns per promover la perscrutaziun dovran ils meds finanzials restituids e las participaziuns al gudogn per finanziar las incumbensas delegadas ad ellas da la Confederaziun. Ellas infurmeschan en chaussa en lur rapports annuals.
+<sup>2</sup> Las instituziuns da promoziun da la perscrutaziun dovran ils meds finanzials restituids e las participaziuns al gudogn per finanziar las incumbensas delegadas ad ellas da la Confederaziun. Ellas infurmeschan en chaussa en lur rapports annuals.
 
 ## 3. chapitel Coordinaziun e planisaziun
 
@@ -825,7 +887,7 @@ Sch’ils resultats da la perscrutaziun che vegn finanziada per part u dal tutta
 
 <sup>2</sup> Ils organs da perscrutaziun coordineschan in cun l’auter lur activitads a temp util tras infurmaziuns vicendaivlas.
 
-<sup>3</sup> Las instituziuns per promover la perscrutaziun, la Innosuisse sco er l’administraziun federala, uschenavant ch’ella ademplescha incumbensas da la promoziun da la perscrutaziun e da l’innovaziun, coordineschan lur activitads accordond lur mesiras da promoziun e la collavuraziun en il rom da lur activitads da promoziun. Ellas resguardan tar lur stentas da coordinaziun ils basegns da l’instrucziun, la perscrutaziun che vegn realisada senza agid federal, la perscrutaziun a l’exteriur e la coordinaziun tenor la LASA[^40-1].
+<sup>3</sup> Las instituziuns da promoziun da la perscrutaziun, la Innosuisse sco er l’administraziun federala, uschenavant ch’ella ademplescha incumbensas da la promoziun da la perscrutaziun e da l’innovaziun, coordineschan lur activitads accordond lur mesiras da promoziun e la collavuraziun en il rom da lur activitads da promoziun. Ellas resguardan tar lur stentas da coordinaziun ils basegns da l’instrucziun, la perscrutaziun che vegn realisada senza agid federal, la perscrutaziun a l’exteriur e la coordinaziun tenor la LASA[^40-1].
 
 [^40-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
@@ -853,7 +915,7 @@ Plinavant prenda el, en spezial areguard las infrastructuras da perscrutaziun ch
 - a. la planisaziun da svilup en il sectur SPF; e
 - b. la coordinaziun naziunala da la politica da scola auta en general e la repartiziun da las incumbensas en secturs che chaschunan spezialmain gronds custs.
 
-<sup>5</sup> El coordinescha la planisaziun e la realisaziun d’iniziativas da promoziun naziunalas en il sectur da la perscrutaziun e da l’innovaziun che na pon, pervia da lur impurtanza organisatorica e finanziala, betg vegnir realisadas en il rom da las incumbensas da promoziun ordinarias da las instituziuns per promover la perscrutaziun e da la Innosuisse.
+<sup>5</sup> El coordinescha la planisaziun e la realisaziun d’iniziativas da promoziun naziunalas en il sectur da la perscrutaziun e da l’innovaziun che na pon, pervia da lur impurtanza organisatorica e finanziala, betg vegnir realisadas en il rom da las incumbensas da promoziun ordinarias da las instituziuns da promoziun da la perscrutaziun e da la Innosuisse.
 
 <sup>6</sup> El garantescha en quest connex ch’ils organs da perscrutaziun, la Conferenza universitara svizra ed il Cussegl da las Scolas politecnicas federalas vegnian integrads en la planisaziun. Dumondas concernent mesiras da promoziun tenor l’alinea 5 a l’Assamblea federala, inclusiv la fixaziun da la finanziaziun e da la realisaziun, fa el en enclegientscha cun la Conferenza universitara svizra.
 
@@ -910,7 +972,7 @@ Ils meds da la planisaziun da la perscrutaziun e da l’innovaziun èn:
 
 <sup>1</sup> A maun dals programs da plirs onns infurmeschan ils organs da perscrutaziun davart lur intenziuns areguard la politica da perscrutaziun e d’innovaziun sco er davart lur prioritads a media vista.
 
-<sup>2</sup> Ils programs da plirs onns servan a la coordinaziun ed a la collavuraziun tranter ils organs da perscrutaziun e cuntegnan las indicaziuns ch’èn necessarias per las missivas FPI e per la planisaziun da las finanzas da la Confederaziun. Ultra da quai servan els sco basa per las cunvegnas da prestaziun periodicas da la Confederaziun cun las instituziuns per promover la perscrutaziun.
+<sup>2</sup> Ils programs da plirs onns servan a la coordinaziun ed a la collavuraziun tranter ils organs da perscrutaziun e cuntegnan las indicaziuns ch’èn necessarias per las missivas FPI e per la planisaziun da las finanzas da la Confederaziun. Ultra da quai servan els sco basa per las cunvegnas da prestaziun periodicas da la Confederaziun cun las instituziuns da promoziun da la perscrutaziun.
 
 <sup>3</sup> Ils programs da plirs onns da la perscrutaziun da l’administraziun vegnan preschentads en furma da concepts da perscrutaziun interdisciplinars. L’administraziun federala infurmescha en quels davart ils accents planisads da la perscrutaziun da l’administraziun. En quest connex resguarda ella en spezial ils accents da perscrutaziun existents da las scolas autas, ils programs da promoziun dal FNS che vegnan realisads per incumbensa da la Confederaziun sco er las activitads da la Innosuisse.
 
@@ -922,7 +984,7 @@ Ils meds da la planisaziun da la perscrutaziun e da l’innovaziun èn:
 
 Obligads d’elavurar programs da plirs onns èn:
 
-- a. las instituziuns per promover la perscrutaziun;
+- a. las instituziuns da promoziun da la perscrutaziun;
 - b. la Innosuisse;
 - c. ils instituts da perscrutaziun d’impurtanza naziunala che vegnan sustegnids tenor questa lescha;
 - d. ils servetschs da l’administraziun federala ch’il Cussegl federal inditgescha.
@@ -956,7 +1018,7 @@ Ils programs da plirs onns ston vegnir suttamess:
 
 **Planisaziun annuala**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun fan in plan annual da promoziun e suttamettan quel al DEFR per l’approvaziun.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun fan in plan annual da promoziun e suttamettan quel al DEFR per l’approvaziun.
 
 <sup>2</sup> Il DEFR po delegar sia cumpetenza d’approvaziun a l’unitad administrativa responsabla.
 
@@ -968,7 +1030,7 @@ Ils programs da plirs onns ston vegnir suttamess:
 
 **Infurmaziun davart las activitads da promoziun**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun, la Innosuisse e l’administraziun federala infurmeschan la publicitad en furma adattada davart lur activitads da promoziun.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun, la Innosuisse e l’administraziun federala infurmeschan la publicitad en furma adattada davart lur activitads da promoziun.
 
 <sup>2</sup> Per quest intent mainan ellas sistems d’infurmaziun ch’èn accessibels publicamain davart ils projects ch’ellas promovan en il sectur da la perscrutaziun e da l’innovaziun.
 
@@ -976,13 +1038,13 @@ Ils programs da plirs onns ston vegnir suttamess:
 
 **Accessibladad dals resultats da la perscrutaziun**
 
-Las instituziuns per promover la perscrutaziun, la Innosuisse e l’administraziun federala procuran ch’ils resultats da perscrutaziun sajan accessibels a la publicitad en il rom da las disposiziuns legalas.
+Las instituziuns da promoziun da la perscrutaziun, la Innosuisse e l’administraziun federala procuran ch’ils resultats da perscrutaziun sajan accessibels a la publicitad en il rom da las disposiziuns legalas.
 
 #### Art. 51
 
 **Garanzia da la qualitad**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun e la Innosuisse mainan in sistem adattà per garantir la qualitad en las proceduras da decisiun ed en ils programs.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun e la Innosuisse mainan in sistem adattà per garantir la qualitad en las proceduras da decisiun ed en ils programs.
 
 <sup>2</sup> Ellas controllan ultra da quai periodicamain, en il rom da las incumbensas e cumpetenzas che las vegnan attribuidas, sch’ils instruments e la furma da la promoziun èn adattads.
 
@@ -992,7 +1054,7 @@ Las instituziuns per promover la perscrutaziun, la Innosuisse e l’administrazi
 
 **Rapport**
 
-<sup>1</sup> Las instituziuns per promover la perscrutaziun sco er l’administraziun federala, sch’ella perscrutescha sezza u promova la perscrutaziun, rapportan al Cussegl federal u al departament cumpetent periodicamain davart lur activitads e davart la realisaziun dals programs da plirs onns.
+<sup>1</sup> Las instituziuns da promoziun da la perscrutaziun sco er l’administraziun federala, sch’ella perscrutescha sezza u promova la perscrutaziun, rapportan al Cussegl federal u al departament cumpetent periodicamain davart lur activitads e davart la realisaziun dals programs da plirs onns.
 
 <sup>2</sup> Il departament cumpetent regla la furma, la dimensiun e la data dal rapport, eventualmain en il rom da las cunvegnas da prestaziun che vegnan mintgamai concludidas.
 
@@ -1031,7 +1093,7 @@ Per incumbensa dal Cussegl federal u dal DEFR ademplescha el las suandantas incu
 
   - 1\. las mesiras da promoziun da la Confederaziun;
   - 2\. ils organs da perscrutaziun areguard l’adempliment da lur incumbensas;
-  - 3\. ils instruments da promoziun da las instituziuns per promover la perscrutaziun e da la Innosuisse;
+  - 3\. ils instruments da promoziun da las instituziuns da promoziun da la perscrutaziun e da la Innosuisse;
   - 4\. las mesiras da la perscrutaziun da l’administraziun areguard lur efficacitad.
 
 - b. El prenda posiziun davart singuls projects u problems da la politica da perscrutaziun e d’innovaziun.
@@ -1049,7 +1111,9 @@ Per incumbensa dal Cussegl federal u dal DEFR ademplescha el las suandantas incu
 
 <sup>2</sup> Il CSS sa cumpona da 10 fin 15 commembers. Quels disponan da cumpetenzas interdisciplinaras cumprovadas en la scienza, en la furmaziun professiunala ed en l’innovaziun.
 
-<sup>3</sup> Il CSS ordinescha sia organisaziun e la gestiun da las fatschentas en in reglament. Quest reglament sto vegnir approvà dal Cussegl federal.
+<sup>3</sup> Il CSS regla sia organisaziun e sia gestiun en in’ordinaziun. Questa ordinaziun sto vegnir approvada dal Cussegl federal.[^55-1]
+
+[^55-1]: Versiun tenor la cifra I da la LF dals 17 da dec. 2021 (midadas tar la promoziun da l’innovaziun), en vigur dapi il 1. da schan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## 7. chapitel Disposiziuns finalas
 

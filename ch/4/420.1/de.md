@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 2012 über die Förderung der Forschung und
 short: FIFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: de
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/de"
 
 (FIFG)
 
-vom 14. Dezember 2012 (Stand am 15. April 2022)
+vom 14. Dezember 2012 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -74,22 +74,24 @@ Forschungsorgane nach diesem Gesetz sind:
   die folgenden Forschungsförderungsinstitutionen:
 
   - 1\. der Schweizerische Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF),
-  - 2\.
+  - 2\.[^4-1]
 
-    der Verbund der schweizerischen Akademien, bestehend aus:
+    die Akademien der Wissenschaften Schweiz, bestehend aus:
 
     - – der Akademie der Naturwissenschaften Schweiz (SCNAT)
     - – der Schweizerischen Akademie der Geistes- und Sozialwissenschaften (SAGW)
     - – der Schweizerischen Akademie der Medizinischen Wissenschaften (SAMW)
-    - – der Schweizerischen Akademie der Technischen Wissenschaften (SATW);
+    - – der Schweizerischen Akademie der Technischen Wissenschaften (SATW)
+    - – dem Kompetenzzentrum Science et Cité
+    - – dem Kompetenzzentrum TA-SWISS;
 
-- b.[^4-1] die Schweizerische Agentur für Innovationsförderung (Innosuisse) nach dem Innosuisse-Gesetz vom 17. Juni 2016[^4-2];
+- b.[^4-2] die Schweizerische Agentur für Innovationsförderung (Innosuisse) nach dem Innosuisse-Gesetz vom 17. Juni 2016[^4-3];
 - c.
 
   die folgenden Hochschulforschungsstätten:
 
   - 1\. die Eidgenössischen Technischen Hochschulen (ETH) und die Forschungsanstalten des ETH-Bereichs,
-  - 2\. die nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^4-3] (HFKG) akkreditierten Hochschulen und anderen Institutionen des Hochschulbereichs,
+  - 2\. die nach dem Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^4-4] (HFKG) akkreditierten Hochschulen und anderen Institutionen des Hochschulbereichs,
   - 3\. die nach diesem Gesetz vom Bund unterstützten Forschungseinrichtungen von nationaler Bedeutung (Art. 15);
 
 - d.
@@ -99,9 +101,10 @@ Forschungsorgane nach diesem Gesetz sind:
   - 1\. für die Erfüllung ihrer Aufgaben Ressortforschung betreibt, oder
   - 2\. Aufgaben der Forschungs- und Innovationsförderung wahrnimmt.
 
-[^4-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-2]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-3]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^4-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-3]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^4-4]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 5
 
@@ -162,14 +165,14 @@ Der Bund fördert die Forschung und die Innovation nach diesem Gesetz sowie nach
 
 <sup>2</sup> Zur Sicherung des Forschungs- und Innovationsstandortes Schweiz kann er die Errichtung eines schweizerischen Innovationsparks unterstützen.
 
-<sup>3</sup> Der Bundesrat kann die Forschungsförderungsinstitutionen und Innosuisse beauftragen, einzeln oder gemeinsam themenorientierte Förderprogramme durchzuführen.[^7-4]
+<sup>3</sup> Der Bundesrat kann die Forschungsförderungsinstitutionen und die Innosuisse beauftragen, einzeln oder gemeinsam Sonderprogramme oder themenorientierte Förderprogramme durchzuführen.[^7-4]
 
 <sup>4</sup> Er kann die Forschungsförderungsinstitutionen und die Innosuisse mit Aufgaben der internationalen Zusammenarbeit beauftragen, deren Erfüllung ihre Fachkompetenz erfordert.[^7-5]
 
 [^7-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^7-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^7-4]: Fassung gemäss Ziff. II des BG vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^7-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^7-5]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 8
@@ -233,25 +236,28 @@ Er entscheidet im Rahmen der ihm zugewiesenen Aufgaben und Zuständigkeiten übe
 
 <sup>5</sup> Der SNF beteiligt sich an den Verfahren, die den Beschlüssen zu den nationalen Forschungsprogrammen, den nationalen Forschungsschwerpunkten und weiteren an ihn übertragenen Förderprogrammen vorausgehen.
 
-<sup>6</sup> Er kann zur Sicherung der Kontinuität seiner Forschungsförderung einen Teil der Beiträge des Bundes zur Bildung von Eigenkapital in Form von Reserven verwenden. Das Total der Reserven darf in keinem Rechnungsjahr 10 Prozent des jeweiligen jährlichen Bundesbeitrages überschreiten.
+<sup>6</sup> Er kann zur Sicherung der Kontinuität seiner Forschungsförderung einen Teil der Beiträge des Bundes zur Bildung von Eigenkapital in Form von Reserven verwenden. Der Bestand der Reserven darf im jeweiligen Rechnungsjahr 15 Prozent des jeweiligen jährlichen Bundesbeitrags nicht überschreiten.[^10-1] Der Bundesrat kann vorsehen, dass dieser Höchstsatz in Ausnahmefällen und befristet überschritten werden kann, wenn die nicht bilanzierten Verpflichtungen des SNF für Forschungsförderungsbeiträge diese Massnahme rechtfertigen.[^10-2]
 
 <sup>7</sup> Das Staatssekretariat für Bildung, Forschung und Innovation (SBFI) schliesst mit dem SNF, gestützt auf die Finanzbeschlüsse der Bundesversammlung, periodisch eine Leistungsvereinbarung ab. Darin werden auch die vom Bundesrat übertragenen Zusatzaufgaben konkretisiert.
 
+[^10-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Dritter Satz eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
 #### Art. 11
 
-**Schweizerische Akademien**
+**Akademien der Wissenschaften Schweiz[^11-1]**
 
-<sup>1</sup> Der Verbund der schweizerischen Akademien ist das Förderorgan des Bundes für die Stärkung der Zusammenarbeit in und zwischen allen wissenschaftlichen Disziplinen und für die Verankerung der Wissenschaft in der Gesellschaft.
+<sup>1</sup> Die Akademien der Wissenschaften Schweiz sind das Förderorgan des Bundes für die Stärkung der Zusammenarbeit in und zwischen allen wissenschaftlichen Disziplinen und für die Verankerung der Wissenschaft in der Gesellschaft.[^11-2]
 
 <sup>2</sup>
 
-Er verwendet die ihm vom Bund gewährten Beiträge namentlich für folgende Zwecke:
+Sie verwenden die ihnen vom Bund gewährten Beiträge namentlich für folgende Zwecke:
 
-- a. Er betreibt und fördert die Früherkennung gesellschaftlich relevanter Themen in den Bereichen Bildung, Forschung und Innovation.
-- b. Er setzt sich dafür ein, dass, wer Erkenntnisse gewinnt oder anwendet, seine ethische Verantwortung wahrnimmt.
-- c. Er gestaltet den Dialog zwischen Wissenschaft und Gesellschaft; er fördert Studien zu Chancen und Risiken der Innovationen und Technologien.
+- a. Sie betreiben und fördern die Früherkennung gesellschaftlich relevanter Themen in den Bereichen Bildung, Forschung und Innovation.
+- b. Sie setzen sich dafür ein, dass, wer Erkenntnisse gewinnt oder anwendet, seine ethische Verantwortung wahrnimmt.
+- c. Sie gestalten den Dialog zwischen Wissenschaft und Gesellschaft; sie fördern Studien zu Chancen und Risiken der Innovationen und Technologien.[^11-3]
 
-<sup>3</sup> Die einzelnen Akademien koordinieren ihre Fördertätigkeiten im Rahmen des Verbundes und stellen die Zusammenarbeit namentlich mit den Hochschulforschungsstätten sicher.
+<sup>3</sup> Die einzelnen Institutionen gemäss Artikel 4 Buchstabe a Ziffer 2 koordinieren ihre Fördertätigkeiten im Rahmen der Akademien der Wissenschaften Schweiz und stellen die Zusammenarbeit namentlich mit den Hochschulforschungsstätten sicher.[^11-4]
 
 <sup>4</sup> Sie fördern die Zusammenarbeit von Wissenschaftlerinnen, Wissenschaftlern, Expertinnen und Experten in Fachgesellschaften, Kommissionen und weiteren geeigneten organisatorischen Formen und nutzen diese zur Erfüllung ihrer Aufgaben.
 
@@ -259,7 +265,13 @@ Er verwendet die ihm vom Bund gewährten Beiträge namentlich für folgende Zwec
 
 <sup>6</sup> Sie können Datensammlungen, Dokumentationssysteme, wissenschaftliche Zeitschriften, Editionen oder ähnliche Einrichtungen unterstützen, die als Forschungsinfrastrukturen der Entwicklung von Fachgebieten in der Schweiz dienen und die nicht in die Förderzuständigkeit des SNF oder der Hochschulforschungsstätten fallen oder direkt vom Bund unterstützt werden.
 
-<sup>7</sup> Das SBFI schliesst mit dem Verbund der schweizerischen Akademien, gestützt auf die Finanzbeschlüsse der Bundesversammlung, periodisch eine Leistungsvereinbarung ab. Darin kann es den Verbund und die einzelnen Akademien im Rahmen ihrer Aufgaben nach den Absätzen 1–4 mit Evaluationen, mit der Durchführung wissenschaftlicher Projekte, dem Betreiben von Einrichtungen nach Absatz 6 und mit weiteren Spezialaufgaben beauftragen.
+<sup>7</sup> Das SBFI schliesst mit den Akademien der Wissenschaften Schweiz, gestützt auf die Finanzbeschlüsse der Bundesversammlung, periodisch eine Leistungsvereinbarung ab. Darin kann das SBFI sie und die einzelnen Institutionen gemäss Artikel 4 Buchstabe a Ziffer 2 im Rahmen ihrer Aufgaben und Befugnisse nach den Absätzen 2–6 mit Evaluationen, mit der Durchführung wissenschaftlicher Projekte, dem Betreiben von Einrichtungen nach Absatz 6 und mit weiteren Spezialaufgaben beauftragen.[^11-5]
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
@@ -353,29 +365,32 @@ Die Höhe des Bundesbeitrages beträgt:
 
 **Ressortforschung des Bundes**
 
-<sup>1</sup> Ressortforschung ist Forschung, die von der Bundesverwaltung initiiert wird, weil diese die Resultate dieser Forschung zur Erfüllung ihrer Aufgaben benötigt.
+<sup>1</sup> Ressortforschung ist die Forschung, die von der Bundesverwaltung initiiert wird und deren Resultate die Bundesverwaltung zur Erfüllung ihrer Aufgaben benötigt.[^16-1]
 
 <sup>2</sup>
 
 Die Ressortforschung kann folgende Massnahmen umfassen:
 
-- a. Betrieb bundeseigener Forschungsanstalten;
-- b. Beiträge an Hochschulforschungsstätten für die Durchführung von Forschungsprogrammen;
-- c. Durchführung eigener Forschungsprogramme, namentlich in Zusammenarbeit mit Hochschulforschungsstätten, Forschungsförderungsinstitutionen, der Innosuisse[^16-1] oder weiteren Förderorganisationen;
-- d. die Erteilung von Forschungsaufträgen (Auftragsforschung).
+- a. die Erteilung von Forschungsaufträgen (Auftragsforschung);
+- b. den Betrieb bundeseigener Forschungsanstalten;
+- c. die Durchführung eigener Forschungsprogramme, namentlich in Zusammenarbeit mit Hochschulforschungsstätten, Forschungsförderungsinstitutionen, der Innosuisse oder weiteren Förderorganisationen;
+- d. die Vergabe von Beiträgen an Hochschulforschungsstätten für die Durchführung von Forschungsprogrammen.[^16-2]
 
-<sup>3</sup> Institutionen der Ressortforschung, die keine bundeseigenen Forschungsanstalten sind, die aber zur zweckmässigen Erfüllung ihrer Aufgaben, in Ergänzung zu den Massnahmen nach Absatz 2, eigene Forschungsprojekte durchführen müssen, können sich hierfür bei der Innosuisse sowie bei anderen nationalen und internationalen Förderorganisationen um Drittmittel oder um die Teilnahme an Programmen bewerben.[^16-2]
+<sup>3</sup> Institutionen der Ressortforschung, die keine bundeseigenen Forschungsanstalten sind, die aber zur zweckmässigen Erfüllung ihrer Aufgaben, in Ergänzung zu den Massnahmen nach Absatz 2, eigene Forschungsprojekte durchführen müssen, können sich hierfür bei der Innosuisse[^16-3] sowie bei anderen nationalen und internationalen Förderorganisationen um Drittmittel oder um die Teilnahme an Programmen bewerben.[^16-4]
 
 <sup>4</sup> Die Ressortforschung unterliegt den Grundsätzen nach Artikel 6 Absätze 1 Buchstaben a und c sowie 3 und 4.
 
 <sup>5</sup> Für die Ressortforschung sind die Departemente in ihrem jeweiligen Aufgabenbereich zuständig.
 
-<sup>6</sup> Bei Massnahmen nach Absatz 2 Buchstaben b und c entrichten die zuständigen Verwaltungseinheiten Beiträge zur Abgeltung der indirekten Forschungskosten (*Overhead*). Der Bundesrat regelt die Grundsätze der Beitragsbemessung.
+<sup>6</sup> Bei Massnahmen nach Absatz 2 Buchstaben c und d entrichten die zuständigen Verwaltungseinheiten Beiträge zur Abgeltung der indirekten Forschungskosten (*Overhead*). Der Bundesrat regelt die Grundsätze der Beitragsbemessung.[^16-5]
 
 <sup>7</sup> Die Bestimmungen über die Finanzierung nach dem 8. Abschnitt finden auf die Ressortforschung keine Anwendung.
 
-[^16-1]: Ausdruck gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Diese Änd. wurde im ganzen Erlass berücksichtig.
-[^16-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-3]: Ausdruck gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Diese Änd. wurde im ganzen Erlass berücksichtig.
+[^16-4]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-5]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 17
 
@@ -407,124 +422,158 @@ Die Ressortforschung kann folgende Massnahmen umfassen:
 
 Weiter kann er unterstützen:
 
-- a. Massnahmen zur Förderung des wissenschaftsbasierten Unternehmertums;
+- a.[^18-1] Massnahmen zur Entwicklung und Stärkung des wissenschaftsbasierten Unternehmertums;
 - b. Massnahmen zur Gründung und zum Aufbau wissenschaftsbasierter Unternehmen;
+- b<sup>bis</sup>.[^18-2] Massnahmen zur Förderung von hochqualifizierten Personen im Bereich der Innovation;
 - c. die Verwertung des Wissens und den Wissens- und Technologietransfer zwischen Hochschulen, Wirtschaft und Gesellschaft;
-- d.[^18-1] den Nachwuchs im Bereich der Innovation.
+- d.[^18-3] die Information über Fördermöglichkeiten auf nationaler und internationaler Ebene.
 
 <sup>3</sup> Er erarbeitet die Grundlagen für die Innovationsförderung.
 
 <sup>4</sup> Er stellt die Evaluation der Fördertätigkeit sicher.
 
-[^18-1]: Eingefügt durch Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^18-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-3]: Eingefügt durch Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 19
 
 **Förderung von Innovationsprojekten**
 
-<sup>1</sup> Die Innosuisse als Förderorgan des Bundes für die wissenschaftsbasierte Innovation nach dem Innosuisse-Gesetz vom 17. Juni 2016[^19-1] fördert Innovationsprojekte durch Beiträge an Hochschulforschungsstätten und an nichtkommerzielle Forschungsstätten ausserhalb des Hochschulbereichs.[^19-2]
+<sup>1</sup> Die Innosuisse als Förderorgan des Bundes für die wissenschaftsbasierte Innovation nach dem Innosuisse-Gesetz vom 17. Juni 2016[^19-1] kann Innovationsprojekte fördern, die von Hochschulforschungsstätten oder nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs (Forschungspartnern) zusammen mit privaten oder öffentlichen Partnern, die für die Verwertung sorgen (Umsetzungspartnern), durchgeführt werden.[^19-2]
+
+<sup>1bis</sup> Der Beitrag der Innosuisse dient zur Deckung der direkten Projektkosten der Forschungspartner. Die Innosuisse kann in ihrer Beitragsverordnung vorsehen, dass auch Beiträge an Umsetzungspartner geleistet werden, wenn dies für eine internationale Zusammenarbeit im Bereich der wissenschaftsbasierten Innovation vorausgesetzt wird.[^19-3]
 
 <sup>2</sup>
 
 Beiträge werden nur gewährt, wenn die folgenden Voraussetzungen erfüllt sind:
 
-- a. Das Projekt wird zusammen mit einem oder mehreren privaten oder öffentlichen Partnern durchgeführt, die für die Verwertung sorgen (Umsetzungspartner).
+- a.[^19-4] …
 - b. Eine wirkungsvolle Umsetzung der Forschungsresultate zugunsten der Wirtschaft und der Gesellschaft kann erwartet werden.
 - c. Das Projekt kann ohne die Förderung durch den Bund voraussichtlich nicht realisiert werden.
-- d.
-
-  Die Umsetzungspartner beteiligen sich hälftig an der Finanzierung des Projekts. Der Bundesrat kann Ausnahmen von dieser Finanzierungsregel vorsehen, namentlich für:
-
-  - 1\. Projekte mit einem überdurchschnittlichen Erfolgspotenzial;
-  - 2\. Projekte, deren Ergebnisse einem breiten Kreis von Nutzern zugutekommen können.
-
+- d.[^19-5] Die Umsetzungspartner beteiligen sich durch Eigenleistungen oder durch Leistungen an die Forschungspartner im Umfang von 40–60 Prozent der direkten Gesamtprojektkosten am Projekt.
 - e. Das Projekt trägt zur praxisorientierten Ausbildung des wissenschaftlichen Nachwuchses bei.
 
-<sup>3</sup> Die Innosuisse kann Machbarkeitsstudien, Prototypen und Versuchsanlagen auch ohne Umsetzungspartner fördern, wenn sie von Hochschulforschungsstätten oder nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs realisiert werden und es sich um Vorhaben mit bedeutendem Innovationspotenzial handelt.[^19-3]
+<sup>2bis</sup>
 
-<sup>3bis</sup> …[^19-4]
+Die Innosuisse kann in Einzelfällen vom Umsetzungspartner eine geringere Beteiligung als 40 Prozent verlangen, wenn eine der folgenden Voraussetzungen erfüllt ist:
 
-<sup>3ter</sup> Soweit Schweizer Unternehmen der Zugang zu Förderangeboten für Einzelprojekte der Europäischen Kommission verwehrt ist, kann die Innosuisse Innovationsprojekte mit bedeutendem Innovationspotenzial von Jungunternehmen und kleinen und mittleren Unternehmen mit dem Ziel einer raschen und effizienten Vermarktung und einem entsprechenden Wachstum fördern. Der Beitrag der Innosuisse dient zur teilweisen oder vollständigen Deckung sowohl der dem Unternehmen selbst entstehenden direkten Projektkosten als auch der Kosten für Drittleistungen. Die Innosuisse legt die Förderkriterien und die Kriterien für die Bestimmung der Höhe der Eigenleistungen der Unternehmen in ihrer Beitragsverordnung fest.[^19-5]
+- a. Das Projekt weist überdurchschnittlich hohe Realisierungsrisiken und gleichzeitig das Potenzial für einen überdurchschnittlichen wirtschaftlichen Erfolg oder für einen hohen gesellschaftlichen Nutzen auf.
+- b. Die zu erwartenden Ergebnisse haben das Potenzial, nicht allein dem Umsetzungspartner, sondern auch einem breiten, am Projekt nicht beteiligten Kreis von Nutzerinnen und Nutzern zugutezukommen.
+- c. Der Umsetzungspartner ist im Zeitpunkt der Beitragsgewährung finanziell nicht in der Lage, im geforderten Umfang zum Projekt beizutragen, verfügt jedoch über ein überdurchschnittliches Potenzial für eine erfolgreiche Umsetzung der Projektresultate.
+- d. Das Projekt wird im Rahmen eines befristeten Sonderprogramms nach Artikel 7 Absatz 3 durchgeführt.[^19-6]
 
-<sup>4</sup> Sie kann zudem Instrumente zur Beteiligung an den Kosten für Abklärungen der wirkungsvollen Umsetzbarkeit von Projekten der Unternehmen vorsehen.[^19-6]
+<sup>2ter</sup>
 
-<sup>5</sup> Sie fördert insbesondere Vorhaben nach den Absätzen 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> und 4, die einen Beitrag zur nachhaltigen Ressourcennutzung leisten.[^19-7]
+Sie kann in Einzelfällen vom Umsetzungspartner eine höhere Beteiligung als 60 Prozent verlangen, wenn eine der folgenden Voraussetzungen erfüllt ist:
+
+- a. Das Projekt weist geringe Realisierungsrisiken und für den Umsetzungspartner gleichzeitig ein überdurchschnittliches wirtschaftliches Erfolgspotenzial auf.
+- b. Die wirtschaftliche Leistungsfähigkeit des Umsetzungspartners oder die Eigenheiten des Projekts rechtfertigen eine höhere Beteiligung, insbesondere, wenn der Umsetzungspartner seine Beteiligung wegen anderweitiger Unterstützung teilweise nicht selber finanziert.[^19-7]
+
+<sup>3</sup> Sie kann Innovationsprojekte fördern, die von Forschungspartnern ohne Umsetzungspartner realisiert werden, sofern die Projekte ein bedeutendes, jedoch noch nicht hinreichend bestimmtes Innovationspotenzial aufweisen.[^19-8]
+
+<sup>3bis</sup> Sie kann Innovationsprojekte von Jungunternehmen fördern, wenn die Projektarbeiten zur Vorbereitung ihres erstmaligen Markteintritts erforderlich sind. Der Beitrag der Innosuisse dient zur teilweisen oder vollständigen Deckung sowohl der dem Jungunternehmen selbst entstehenden direkten Projektkosten als auch der Kosten für Drittleistungen. Die Innosuisse legt die Kriterien für die Bestimmung der Höhe der Eigenleistungen der Jungunternehmen in ihrer Beitragsverordnung fest. Sie berücksichtigt dabei insbesondere die Kriterien nach den Absätzen 2<sup>bis</sup> und 2<sup>ter</sup>.[^19-9]
+
+<sup>3ter</sup> Soweit Schweizer Unternehmen der Zugang zu Förderangeboten für Einzelprojekte der Europäischen Kommission verwehrt ist, kann die Innosuisse Innovationsprojekte mit bedeutendem Innovationspotenzial von Jungunternehmen und kleinen und mittleren Unternehmen mit dem Ziel einer raschen und effizienten Vermarktung und einem entsprechenden Wachstum fördern. Der Beitrag der Innosuisse dient zur teilweisen oder vollständigen Deckung sowohl der dem Unternehmen selbst entstehenden direkten Projektkosten als auch der Kosten für Drittleistungen. Die Innosuisse legt die Förderkriterien und die Kriterien für die Bestimmung der Höhe der Eigenleistungen der Unternehmen in ihrer Beitragsverordnung fest.[^19-10]
+
+<sup>4</sup> Sie kann zudem Instrumente zur Beteiligung an den Kosten für Abklärungen der wirkungsvollen Umsetzbarkeit von Projekten der Unternehmen vorsehen.[^19-11]
+
+<sup>5</sup> Sie fördert insbesondere Vorhaben nach den Absätzen 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> und 4, die einen Beitrag zur nachhaltigen Ressourcennutzung leisten.[^19-12]
 
 <sup>6</sup> Die geförderten Vorhaben müssen die Grundsätze der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis beachten. Bei Verstössen gelten die Sanktionen und die Informationspflicht nach Artikel 12 Absätze 2–4.
 
 [^19-1]: [SR 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^19-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-3]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Tritt am 1. Jan. 2023 in Kraft ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-5]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-6]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-7]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-4]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-7]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-8]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-9]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-10]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-11]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-12]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 15. April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
-**Weitere Unterstützungsmassnahmen**
+**Förderung des wissenschaftsbasierten Unternehmertums**[^20-1]
 
-<sup>1</sup>
-
-Die Innosuisse kann das wissenschaftsbasierte Unternehmertum unterstützen durch:[^20-1]
-
-- a.[^20-2] die Sensibilisierung und Schulung von Personen, welche ein Unternehmen gründen wollen oder neu gegründet haben oder die Nachfolge in einem Unternehmen antreten wollen;
-- b. Informations- und Beratungsangebote.
+<sup>1</sup> Die Innosuisse kann die Entwicklung und die Stärkung des wissenschaftsbasierten Unternehmertums durch Schulungs- und Sensibilisierungsmassnahmen sowie Informations- und Beratungsangebote für Personen unterstützen, die ein Unternehmen gründen wollen oder gegründet haben, die die Nachfolge in einem Unternehmen antreten oder die ihr Unternehmen neu ausrichten wollen.
 
 <sup>2</sup>
 
-Sie kann die Gründung und den Aufbau wissenschaftsbasierter Unternehmen unterstützen durch:[^20-3]
+Sie kann die Gründung und den Aufbau wissenschaftsbasierter Unternehmen fördern durch:
 
-- a. Begleitung, Beratung und Coaching von Jungunternehmerinnen und Jungunternehmern;
-- b. Hilfe bei der Suche nach Finanzierungsmöglichkeiten;
-- c. Informations- und Beratungsangebote.
+- a. Coaching von Jungunternehmen und deren Gründerinnen und Gründern;
+- b. Massnahmen zur Erleichterung des Einstiegs in internationale Märkte, durch die Teilnahme an Internationalisierungsprogrammen oder internationalen Messen;
+- c. Beiträge an Organisationen, Institutionen oder Personen, welche die Gründung und den Aufbau von Jungunternehmen unterstützen;
+- d. Information und Beratung.
 
-<sup>3</sup> Sie kann die Verwertung des Wissens und den Wissens- und Technologietransfer namentlich durch die Förderung des Informationsaustauschs zwischen den Hochschulen und der Wirtschaft unterstützen.[^20-4]
+<sup>3</sup> Sie bestimmt die Leistungserbringerinnen und -erbringer für Massnahmen nach Absatz 2 Buchstabe a mittels eines Auswahlverfahrens und führt eine öffentlich zugängliche Liste mit den zur Auswahl stehenden Leistungserbringerinnen und -erbringern.
 
-[^20-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-2]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-3]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-4]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
+#### Art. 20a
+
+**Förderung hochqualifizierter Personen**[^20a-1]
+
+<sup>1</sup> Die Innosuisse kann hochqualifizierte Personen aus Hochschulforschungsstätten, aus nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs sowie aus kleinen und mittleren Unternehmen bei der Aneignung von Kompetenzen im Bereich der Innovation unterstützen.
+
+<sup>2</sup>
+
+Zu diesem Zweck kann sie durch Beiträge ermöglichen, dass solche Personen:
+
+- a. Machbarkeitsstudien oder ähnliche Projekte durchführen;
+- b. an Weiterbildungsprogrammen teilnehmen;
+- c. Gastaufenthalte zur Förderung des Austauschs zwischen Wissenschaft und Praxis absolvieren.
+
+<sup>3</sup> Die Beiträge können der hochqualifizierten Person zur Deckung von direkten Projektkosten, von Teilnahmegebühren oder von Lebenshaltungskosten oder im Falle von Gastaufenthalten ihrem Arbeitgeber zur Deckung der Lohnfortzahlungskosten ausgerichtet werden. Sie können auch in Form von Stipendien oder zinslosen Darlehen ausgerichtet werden.
+
+<sup>4</sup> Die Beiträge werden nur gewährt, wenn das Förderziel nicht im Rahmen eines Innovationsprojekts nach Artikel 19 oder über eine Massnahme nach Artikel 20 Absatz 1 oder 2 erreicht werden kann.
+
+[^20a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 21
 
-**Vergütung für Begleitung, Beratung, Coaching und Mentoring**[^21-1]
+**Förderung des Wissens- und Technologietransfers und der Informationsvermittlung**[^21-1]
 
-<sup>1</sup> Für die Begleitung, die Beratung und das Coaching nach Artikel 20 Absatz 2 Buchstabe a sowie für die Förderung des Informationsaustauschs zwischen den Hochschulen und der Wirtschaft nach Artikel 20 Absatz 3 in Form des Innovationsmentorings werden nur Leistungen von Leistungserbringerinnen und -erbringern vergütet, die sich in einem Auswahlverfahren der Innosuisse dafür qualifiziert haben.
+<sup>1</sup>
 
-<sup>2</sup> Die Innosuisse führt eine öffentlich zugängliche Liste der qualifizierten Leistungserbringerinnen und -erbringer.
+Die Innosuisse kann die Verwertung des Wissens und den Wissens- und Technologietransfer unterstützen durch:
 
-<sup>3</sup>
+- a. die Förderung der Vernetzung der Akteure der wissenschaftsbasierten Innovation mit dem Ziel, Innovationsvorhaben anzubahnen;
+- b. Massnahmen für kleine und mittlere Unternehmen zur Stärkung ihrer Innovationskraft, wie Innovationsmentoring, Weiterbildungsangebote oder Austauschplattformen;
+- c. Massnahmen zur Unterstützung bei der Klärung von Fragen des geistigen Eigentums;
+- d. Koordinations- und Schulungsmassnahmen im Rahmen der Durchführung von Innovationsprojekten nach Artikel 19.
 
-Die Vergütung wird gewährt zur Unterstützung von:
+<sup>2</sup> Sie kann die Erbringerinnen und Erbringer von Mentoringleistungen nach Absatz 1 Buchstabe b mittels eines Auswahlverfahrens bestimmen und eine öffentlich zugängliche Liste mit den zur Auswahl stehenden Leistungserbringerinnen und -erbringern führen.
 
-- a. Jungunternehmerinnen und -unternehmern oder ihren Jungunternehmen für die Begleitung, die Beratung und das Coaching (Art. 20 Abs. 2 Bst. a);
-- b. Unternehmen für das Innovationsmentoring (Art. 20 Abs. 3).
+<sup>3</sup> Sie kann in ihrem Zuständigkeitsbereich die Information über Fördermöglichkeiten auf nationaler und internationaler Ebene und über die Einreichung von Gesuchen fördern, insbesondere durch Beiträge an Dritte, die solche Informationsangebote bereithalten.
 
-<sup>4</sup> Die von der Innosuisse unterstützte Leistung und der hierfür zur Verfügung stehende Höchstbetrag werden mit den Unterstützungsempfängerinnen und ‑empfängern nach Absatz 3 vertraglich festgelegt. In einfachen Fällen erfolgt die Vergütungszusicherung mit Verfügung.
-
-[^21-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^21-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 22
 
-**Nachwuchsförderung**[^22-1]
+**Internationale Zusammenarbeit im Bereich der Innovation**[^22-1]
 
-<sup>1</sup> Die Innosuisse kann hochqualifizierten Nachwuchs im Bereich der Innovation in Form von Stipendien oder zinslosen Darlehen fördern.
+<sup>1</sup> Die Innosuisse kann die internationale Zusammenarbeit im Bereich der wissenschaftsbasierten Innovation fördern.
 
-<sup>2</sup>
+<sup>2</sup> Sie kann im Rahmen ihrer Instrumente nach den Artikeln 19–21 mit ausländischen Förderorganisationen oder Förderstellen Kooperationen eingehen.
 
-Die Beiträge nach Absatz 1 werden gewährt im Rahmen eines von der Innosuisse individuell festgelegten Förderprogramms. Dieses sieht einen Aufenthalt vor:
+<sup>3</sup> Sie kann sich an Förderaktivitäten im Sinne von Artikel 28 Absatz 2 Buchstabe c beteiligen.
 
-- a. in einem wissenschaftsbasierten Unternehmen zum Erwerb von praxisorientierten Kompetenzen; oder
-- b. in einer Forschungsstätte nach Artikel 4 Buchstabe c oder Artikel 5 zur Vertiefung von Kompetenzen in der anwendungsorientierten Forschung.
+[^22-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
-<sup>3</sup> Die Beiträge nach Absatz 1 werden nur gewährt, wenn das Programm nach Absatz 2 nicht im Rahmen eines Innovationsprojekts nach Artikel 19 oder als Massnahme nach Artikel 20 durchgeführt werden kann.
+#### Art. 22a
 
-<sup>4</sup> Die Dauer des Aufenthaltes nach Absatz 2 darf höchstens 3 Jahre betragen.
+**Zusammenarbeit mit anderen Forschungsorganen**[^22a-1]
 
-<sup>5</sup> Die Höhe der Stipendien, die finanzielle Beteiligung der Unternehmen sowie die Rückzahlungsmodalitäten für die zinslosen Darlehen werden in der Beitragsverordnung der Innosuisse geregelt.
+<sup>1</sup> Die Innosuisse kann im Rahmen ihrer Instrumente nach den Artikeln 19–21 mit anderen Forschungsorganen gemeinsame Fördermassnahmen durchführen.
 
-[^22-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018, Abs. 5 in Kraft seit 1. Jan. 2017 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+<sup>2</sup> Die beteiligten Parteien regeln die Modalitäten der Durchführung sowie die Förderbedingungen in gemeinsamen Reglementen.
+
+[^22a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 23
 
@@ -532,9 +581,13 @@ Die Beiträge nach Absatz 1 werden gewährt im Rahmen eines von der Innosuisse i
 
 <sup>1</sup> Die Innosuisse entrichtet im Rahmen ihrer Förderung den Hochschulforschungsstätten und den nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs Beiträge zur Abgeltung der indirekten Forschungskosten (Overhead).
 
-<sup>2</sup> Der Bundesrat regelt die Grundsätze der Beitragsbemessung.
+<sup>1bis</sup> Soll für vom Bund unterstützte Technologiekompetenzzentren (Art. 15 Abs. 3 Bst. c) ein höherer Beitragshöchstsatz festgelegt werden als für die übrigen Hochschulforschungsstätten und für die nichtkommerziellen Forschungsstätten ausserhalb des Hochschulbereichs, so wird der Bundesrat dem Parlament einen entsprechenden Vorschlag mit dem Zahlungsrahmen nach Artikel 36 Buchstabe c unterbreiten.[^23-2]
+
+<sup>2</sup> Im Übrigen regelt der Bundesrat die Grundsätze der Beitragsbemessung.[^23-3]
 
 [^23-1]: Fassung gemäss Anhang Ziff. 2 des Innosuisse-Gesetzes vom 17. Juni 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [BBl 2015 9487](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^23-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 24
 
@@ -618,25 +671,34 @@ Er kann im Rahmen der übergeordneten Ziele der internationalen Forschungs- und 
 Der Bundesrat kann im Rahmen der bewilligten Kredite folgende Beiträge ausrichten und folgende Massnahmen vorsehen:
 
 - a. Beiträge an Forschungs- und Technologieprogramme und -projekte, welche die schweizerische Mitarbeit an Experimenten und Vorhaben internationaler Organisationen und Programme mit Schweizer Beteiligung sowie die schweizerische Nutzung internationaler Forschungseinrichtungen ermöglichen oder erleichtern;
-- b. Beiträge an Hochschulforschungsstätten und an nichtkommerzielle Forschungsstätten ausserhalb des Hochschulbereichs, um die schweizerische Mitarbeit an Experimenten und Vorhaben internationaler Organisationen und Programme zu ermöglichen oder zu erleichtern;
-- c. Beiträge an Hochschulforschungsstätten für die bilaterale oder multilaterale Zusammenarbeit im Forschungsbereich ausserhalb internationaler Programme und Organisationen; dabei kann er seine Leistungen von der Voraussetzung abhängig machen, dass die begünstigten Institutionen im Interesse der internationalen Forschungs- und Innovationspolitik der Schweiz angemessene Eigenleistungen erbringen;
-- d.[^29-1] Beiträge an Schweizer Unternehmen für die Ausarbeitung von Projektvorschlägen für die Teilnahme an den Forschungsrahmenprogrammen der Europäischen Union;
-- e.[^29-2] Beiträge an Schweizer Unternehmen zur Förderung von deren Beteiligung an den Forschungsrahmenprogrammen der Europäischen Union und an Initiativen und Programmen, die von diesen Rahmenprogrammen mitfinanziert werden, sofern für solche Beteiligungen vorausgesetzt wird, dass die Unternehmen staatliche Beiträge erhalten;
-- f.[^29-3]
+- b.[^29-1]
+
+  Beiträge an folgende Institutionen, um die schweizerische Mitarbeit an Experimenten und Vorhaben internationaler Organisationen und Programme zu ermöglichen oder zu erleichtern:
+
+  - 1\. Hochschulforschungsstätten,
+  - 2\. nichtkommerzielle Forschungsstätten ausserhalb des Hochschulbereichs,
+  - 3\. weitere nichtkommerzielle Institutionen, die in einem spezifischen Bereich Forschung betreiben oder sich an Forschungsaktivitäten beteiligen;
+
+- c.[^29-2] Beiträge an Institutionen nach Buchstabe b für die bilaterale oder multilaterale Zusammenarbeit im Forschungsbereich oder für spezifische Forschungsaktivitäten im Ausland ausserhalb internationaler Programme und Organisationen; dabei kann der Bundesrat seine Leistungen von der Voraussetzung abhängig machen, dass die begünstigten Institutionen im Interesse der internationalen Forschungs- und Innovationspolitik der Schweiz angemessene Eigenleistungen erbringen;
+- d.[^29-3] Beiträge an Schweizer Unternehmen für die Ausarbeitung von Projektvorschlägen für die Teilnahme an den Forschungsrahmenprogrammen der Europäischen Union;
+- e.[^29-4] Beiträge an Schweizer Unternehmen zur Förderung von deren Beteiligung an den Forschungsrahmenprogrammen der Europäischen Union und an Initiativen und Programmen, die von diesen Rahmenprogrammen mitfinanziert werden, sofern für solche Beteiligungen vorausgesetzt wird, dass die Unternehmen staatliche Beiträge erhalten;
+- f.[^29-5]
 
   Beiträge an nichtkommerzielle Institutionen und Organisationen für die folgenden Tätigkeiten, soweit diese nicht vom Bund selbst ausgeübt werden:
 
   - 1\. Information interessierter Kreise in der Schweiz über Aktivitäten und Programme der internationalen wissenschaftlichen Zusammenarbeit im Bereich von Forschung und Innovation,
   - 2\. Beratung und Unterstützung interessierter Kreise in der Schweiz bei der Erarbeitung und Einreichung von Gesuchen bezüglich internationaler Programme und Projekte im Bereich von Forschung und Innovation.
 
-- g.[^29-4] …
+- g.[^29-6] …
 
 <sup>2</sup> Der Bundesrat regelt die Bemessung der Beiträge und das Verfahren.
 
-[^29-1]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2013, in Kraft seit 1. März 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-2]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2013, in Kraft seit 1. März 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-3]: Ursprünglich: Bst. d. Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. März 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^29-4]: Ursprünglich: Bst. e. Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. März 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-3]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2013, in Kraft seit 1. März 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-4]: Eingefügt durch Ziff. I des BG vom 27. Sept. 2013, in Kraft seit 1. März 2014 ([AS 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [BBl 2013 1987](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-5]: Ursprünglich: Bst. d. Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. März 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-6]: Ursprünglich: Bst. e. Aufgehoben durch Ziff. I des BG vom 30. Sept. 2016, mit Wirkung seit 1. März 2017 ([AS 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 30
 
@@ -1047,7 +1109,9 @@ Er erfüllt im Auftrag des Bundesrates oder des WBF die folgenden Aufgaben:
 
 <sup>2</sup> Der SWR setzt sich aus 10–15 Mitgliedern zusammen. Diese verfügen über ausgewiesene fachübergreifende Kompetenzen in Wissenschaft, Berufsbildung und Innovation.
 
-<sup>3</sup> Der SWR ordnet seine Organisation und seine Geschäftsführung in einem Reglement. Dieses bedarf der Genehmigung durch den Bundesrat.
+<sup>3</sup> Der SWR ordnet seine Organisation und seine Geschäftsführung in einer Verordnung. Diese bedarf der Genehmigung durch den Bundesrat.[^55-1]
+
+[^55-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Änderungen bei der Innovationsförderung), in Kraft seit 1. Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## 7. Kapitel: Schlussbestimmungen
 

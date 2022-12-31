@@ -4,11 +4,11 @@ title: "Loi fédérale du 14 décembre 2012 sur l'encouragement de la recherche 
 short: LERI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: fr
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/fr"
 
 (LERI)
 
-du 14 décembre 2012 (Etat le 15 avril 2022)
+du 14 décembre 2012 (Etat le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -74,22 +74,24 @@ Les organes de recherche au sens de la présente loi sont:
   les institutions ci-après chargées d’encourager la recherche:
 
   - 1\. le Fonds national suisse de la recherche scientifique (FNS),
-  - 2\.
+  - 2\.[^4-1]
 
-    l’association Académies suisses des sciences, comprenant:
+    les Académies suisses des sciences, comprenant:
 
     - – l’Académie suisse des sciences naturelles (SCNAT)
     - – l’Académie suisse des sciences humaines et sociales (ASSH)
-    - – l’Académie suisse des sciences médicales (ASSM)
-    - – l’Académie suisse des sciences techniques (ASST);
+    - – l’Académie des sciences médicales (ASSM)
+    - – l’Académie des sciences techniques (ASST)
+    - – le centre de compétence Science et Cité
+    - – le centre de compétence TA-SWISS;
 
-- b.[^4-1] l’Agence suisse pour l’encouragement de l’innovation (Innosuisse) au sens de la loi du 17 juin 2016 sur Innosuisse[^4-2];
+- b.[^4-2] l’Agence suisse pour l’encouragement de l’innovation (Innosuisse) au sens de la loi du 17 juin 2016 sur Innosuisse[^4-3];
 - c.
 
   les établissements de recherche du domaine des hautes écoles ci-après:
 
   - 1\. les écoles polytechniques fédérales (EPF) et les établissements de recherche du domaine des EPF,
-  - 2\. les hautes écoles et les autres institutions du domaine des hautes écoles accréditées en vertu de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^4-3] (LEHE),
+  - 2\. les hautes écoles et les autres institutions du domaine des hautes écoles accréditées en vertu de la loi du 30 septembre 2011 sur l’encouragement et la coordination des hautes écoles[^4-4] (LEHE),
   - 3\. les établissements de recherche d’importance nationale soutenus par la Confédération en vertu de la présente loi (art. 15);
 
 - d.
@@ -99,9 +101,10 @@ Les organes de recherche au sens de la présente loi sont:
   - 1\. elle fait de la recherche dans le cadre de l’exécution de ses tâches (recherche de l’administration),
   - 2\. elle assume des tâches en matière d’encouragement de la recherche et de l’innovation.
 
-[^4-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-3]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^4-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 5
 
@@ -162,14 +165,14 @@ La Confédération encourage comme suit la recherche et l’innovation conformé
 
 <sup>2</sup> Afin d’asseoir la position de la Suisse en tant que pôle de recherche et d’innovation, la Confédération peut soutenir la création d’un parc suisse d’innovation.
 
-<sup>3</sup> Le Conseil fédéral peut charger les institutions chargées d’encourager la recherche ainsi qu’Innosuisse d’exécuter seules ou conjointement des programmes d’encouragement thématiques.[^7-4]
+<sup>3</sup> Le Conseil fédéral peut charger les institutions chargées d’encourager la recherche et Innosuisse d’exécuter seules ou conjointement des programmes spéciaux ou des programmes d’encouragement thématiques.[^7-4]
 
 <sup>4</sup> Il peut confier aux institutions chargées d’encourager la recherche et à Innosuisse des tâches de coopération internationale dont l’exécution requiert leurs compétences spécifiques.[^7-5]
 
 [^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^7-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^7-4]: Nouvelle teneur selon le ch. II de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^7-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^7-5]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 8
@@ -233,25 +236,28 @@ Dans le cadre des tâches et des compétences qui lui sont confiées, le FNS dé
 
 <sup>5</sup> Le FNS participe aux procédures qui précèdent les décisions relatives aux programmes nationaux de recherche, aux pôles de recherche nationaux et autres programmes de recherche qui lui sont confiés.
 
-<sup>6</sup> Il peut utiliser une part de la contribution fédérale à la constitution de réserves afin d’assurer la continuité de son encouragement de la recherche. Dans le compte annuel, le total des réserves ne doit pas dépasser 10 % de la contribution fédérale versée pour l’année concernée.
+<sup>6</sup> Il peut utiliser une part de la contribution fédérale à la constitution de réserves afin d’assurer la continuité de son encouragement de la recherche. Dans le compte annuel, le total des réserves ne doit pas dépasser 15 % de la contribution fédérale versée pour l’année concernée.[^10-1] Le Conseil fédéral peut exceptionnellement autoriser un dépassement temporaire de ce taux maximal si les engagements non portés au bilan du FNS au titre de contributions de recherche justifient une telle mesure.[^10-2]
 
 <sup>7</sup> Le Secrétariat d’état à la formation, à la recherche et à l’innovation (SEFRI) conclut périodiquement une convention de prestations avec le FNS, fondée sur les arrêtés financiers de l’Assemblée fédérale. La convention précise également les tâches supplémentaires qui lui sont confiées par le Conseil fédéral.
+
+[^10-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Phrase introduite par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 11
 
 **Académies suisses des sciences**
 
-<sup>1</sup> L’association Académies suisses des sciences est l’organe d’encouragement de la Confédération chargé de renforcer la coopération dans toutes les disciplines scientifiques et entre ces dernières et d’ancrer la science dans la société.
+<sup>1</sup> Les Académies suisses des sciences sont l’organe d’encouragement de la Confédération chargé de renforcer la coopération dans toutes les disciplines scientifiques et entre ces dernières et d’ancrer la science dans la société*.*[^11-1]
 
 <sup>2</sup>
 
-Elle utilise les contributions fédérales qui lui sont allouées notamment dans les buts suivants:
+Elles utilisent notamment aux fins suivantes les contributions fédérales qui leur sont allouées:[^11-2]
 
 - a. assurer et encourager la reconnaissance précoce de thèmes importants pour la société dans les domaines de la formation, de la recherche et de l’innovation;
 - b. renforcer l’exercice d’une responsabilité fondée sur l’éthique dans l’acquisition et l’application des connaissances scientifiques;
 - c. contribuer au dialogue entre science et société et promouvoir des études sur les chances et les risques liés aux innovations et aux technologies.
 
-<sup>3</sup> Les académies coordonnent leurs activités d’encouragement dans le cadre de l’association et assurent notamment la coopération avec les établissements de recherche du domaine des hautes écoles.
+<sup>3</sup> Les différentes institutions visées à l’art. 4, let. a, ch. 2, coordonnent leurs activités d’encouragement dans le cadre des Académies suisses des sciences et assurent notamment la coopération avec les établissements de recherche du domaine des hautes écoles.[^11-3]
 
 <sup>4</sup> Elles encouragent la coopération de scientifiques et d’experts dans des sociétés savantes, des commissions et d’autres formes d’organisation appropriées, et utilisent cette coopération dans la réalisation de leurs tâches.
 
@@ -259,7 +265,12 @@ Elle utilise les contributions fédérales qui lui sont allouées notamment dans
 
 <sup>6</sup> Elles peuvent soutenir des bases de données, des systèmes de documentation, des revues scientifiques, des éditions ou des structures analogues qui constituent des infrastructures de recherche utiles au développement de domaines scientifiques en Suisse et qui ne relèvent pas de la compétence du FNS ou des établissements de recherche du domaine des hautes écoles en matière d’encouragement ni ne sont soutenus directement par la Confédération.
 
-<sup>7</sup> Le SEFRI conclut périodiquement une convention de prestations avec l’association Académies suisses des sciences, fondée sur les arrêtés financiers de l’Assemblée fédérale. Il peut y charger l’association et des académies de la réalisation d’évaluations, de la conduite de projets scientifiques, de l’exploitation de structures au sens de l’al. 6 et d’autres tâches spéciales dans le cadre des tâches qui leur incombent en vertu des al. 1 à 4.
+<sup>7</sup> Le SEFRI conclut périodiquement une convention de prestations avec les Académies suisses des sciences sur la base des arrêtés financiers votés par l’Assemblée fédérale. Il peut y charger les Académies et les différentes institutions visées à l’art. 4, let. a, ch. 2, de la réalisation d’évaluations, de la conduite de projets scientifiques, de l’exploitation de structures au sens de l’al. 6 et d’autres tâches spéciales dans le cadre des tâches et des compétences qui leur sont dévolues en vertu des al. 2 à 6.[^11-4]
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
@@ -359,10 +370,10 @@ Le montant de la contribution fédérale représente:
 
 La recherche de l’administration peut comprendre les mesures suivantes:
 
-- a. exploitation d’établissements fédéraux de recherche;
-- b. allocation de contributions à des établissements de recherche du domaine des hautes écoles pour la réalisation de programmes de recherche;
-- c. réalisation de ses propres programmes de recherche, notamment en collaboration avec des établissements de recherche du domaine des hautes écoles, des institutions chargées d’encourager la recherche, Innosuisse[^16-1] et d’autres organismes d’encouragement;
-- d. octroi de mandats de recherche (recherche contractuelle).
+- a. l’octroi de mandats de recherche (recherche contractuelle);
+- b. l’exploitation d’établissements fédéraux de recherche;
+- c. la réalisation de programmes de recherche propres, notamment en collaboration avec les établissements de recherche du domaine des hautes écoles, les institutions chargées d’encourager la recherche, Innosuisse et les autres organismes d’encouragement;
+- d. l’allocation de contributions à des établissements de recherche du domaine des hautes écoles pour la réalisation de programmes de recherche.[^16-1]
 
 <sup>3</sup> Les institutions de la recherche de l’administration qui, sans être des établissements fédéraux de recherche, doivent mener, en complément des mesures visées à l’al. 2, leurs propres projets de recherche pour exécuter leurs tâches de manière judicieuse peuvent également participer à des concours auprès d’Innosuisse ou auprès d’autres organismes d’encouragement nationaux ou internationaux dans le but d’obtenir des fonds ou participer par voie de concours à des programmes de tels organismes.[^16-2]
 
@@ -370,12 +381,13 @@ La recherche de l’administration peut comprendre les mesures suivantes:
 
 <sup>5</sup> Les départements sont compétents en matière de recherche dans leur domaine d’activité respectif.
 
-<sup>6</sup> Dans le cadre des mesures visées à l’al. 2, let. b et c, les unités administratives compétentes allouent des contributions pour compenser les frais indirects de recherche (*overhead*) encourus. Le Conseil fédéral règle les principes de calcul.
+<sup>6</sup> Dans le cadre des mesures visées à l’al. 2, let. c et d, les unités administratives compétentes allouent des contributions pour compenser les coûts de recherche indirects *(overhead)*. Le Conseil fédéral règle les principes du calcul des contributions.[^16-3]
 
 <sup>7</sup> Les dispositions sur le financement visées à la section 8 ne s’appliquent pas à la recherche de l’administration.
 
-[^16-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup><sup>er</sup></sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^16-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 17
 
@@ -407,124 +419,158 @@ La recherche de l’administration peut comprendre les mesures suivantes:
 
 Elle peut également soutenir:
 
-- a. les mesures visant à promouvoir l’entrepreneuriat fondé sur la science;
+- a.[^18-1] les mesures visant à développer et à renforcer l’entrepreneuriat fondé sur la science;
+- b<sup>bis</sup>.[^18-2] les mesures visant à encourager les personnes hautement qualifiées dans le domaine de l’innovation;
 - b. les mesures en faveur de la création et du développement d’entreprises dont les activités sont fondées sur la science;
 - c. la mise en valeur du savoir et le transfert de savoir et de technologie entre les hautes écoles, les entreprises et la société;
-- d.[^18-1] la relève dans le domaine de l’innovation.
+- d.[^18-3] l’information sur les possibilités d’encouragement aux niveaux national et international.
 
 <sup>3</sup> La Confédération élabore les bases de l’encouragement de l’innovation.
 
 <sup>4</sup> Elle assure l’évaluation de ses activités en matière d’encouragement.
 
-[^18-1]: Introduite par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^18-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-2]: Introduite par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-3]: Introduite par l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 19
 
 **Encouragement de projets d’innovation**
 
-<sup>1</sup> En tant qu’organisme fédéral d’encouragement de l’innovation fondée sur la science au sens de la loi du 17 juin 2016 sur Innosuisse[^19-1], Innosuisse encourage des projets d’innovation en allouant des contributions à des établissements de recherche du domaine des hautes écoles et à des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles.[^19-2]
+<sup>1</sup> En tant qu’organe fédéral d’encouragement de l’innovation fondée sur la science au sens de la loi du 17 juin 2016 sur Innosuisse[^19-1], Innosuisse peut encourager les projets d’innovation qui sont menés par des établissements de recherche du domaine des hautes écoles ou par des établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles (partenaires de recherche) conjointement avec des partenaires privés ou publics chargés de la mise en valeur (partenaires chargés de la mise en valeur).[^19-2]
+
+<sup>1bis</sup> La contribution d’Innosuisse sert à couvrir les coûts de projet directs des partenaires de recherche. Innosuisse peut prévoir dans son ordonnance sur les contributions la possibilité d’allouer également des contributions à des partenaires chargés de la mise en valeur lorsque de telles contributions sont exigées pour une coopération internationale dans le domaine de l’innovation fondée sur la science.[^19-3]
 
 <sup>2</sup>
 
 Les contributions sont uniquement accordées si les conditions suivantes sont remplies:
 
-- a. le projet est mené conjointement avec un ou plusieurs partenaires privés ou publics chargés de la mise en valeur;
+- a.[^19-4] …
 - b. une mise en valeur efficace des résultats de la recherche en faveur de l’économie et de la société peut être escomptée;
 - c. le projet ne peut vraisemblablement pas être réalisé sans l’encouragement de la Confédération;
-- d.
-
-  les partenaires chargés de la mise en valeur participent pour moitié au financement du projet; le Conseil fédéral peut prévoir des exceptions à cette règle de financement, notamment pour:
-
-  - 1\. les projets dont les chances de succès sont supérieures à la moyenne,
-  - 2\. les projets dont les résultats sont susceptibles d’intéresser un large cercle d’utilisateurs;
-
+- d.[^19-5] les partenaires chargés de la mise en valeur participent au projet à hauteur de 40 % à 60 % de son coût total direct par des prestations propres ou des prestations en faveur des partenaires de recherche;
 - e. le projet contribue à la formation axée sur la pratique de la relève scientifique.
 
-<sup>3</sup> Innosuisse peut encourager des études de faisabilité ainsi que la réalisation de prototypes et de dispositifs pilotes sans qu’il y ait de partenaire chargé de la mise en valeur s’ils sont réalisés par des établissements de recherche du domaine des hautes écoles ou des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles et que leur potentiel d’innovation est important.[^19-3]
+<sup>2bis</sup>
 
-<sup>3bis</sup> …[^19-4]
+Dans des cas particuliers, Innosuisse peut réclamer au partenaire chargé de la mise en valeur une participation inférieure à 40 % si l’une des conditions suivantes est remplie:
 
-<sup>3ter</sup> Dans la mesure où les entreprises suisses se voient refuser l’accès aux offres d’encouragement de la Commission européenne destinées aux projets individuels, Innosuisse peut encourager les projets d’innovation de jeunes entreprises et de petites et moyennes entreprises, lorsqu’ils présentent un potentiel d’innovation important, afin d’assurer une commercialisation rapide et efficace et une croissance correspondante. La contribution d’Innosuisse sert à couvrir partiellement ou entièrement aussi bien les coûts directs du projet à la charge de l’entreprise elle-même que les coûts des prestations fournies par des tiers. Innosuisse fixe les critères d’encouragement et les critères déterminant le montant des prestations propres des entreprises dans son ordonnance sur les contributions.[^19-5]
+- a. le projet présente des risques de réalisation supérieurs à la moyenne mais simultanément un potentiel de succès économique supérieur à la moyenne ou de grande utilité sociale;
+- b. les résultats escomptés possèdent le potentiel de bénéficier non seulement au partenaire chargé de la mise en valeur, mais aussi à un grand nombre d’utilisateurs non associés au projet;
+- c. le partenaire chargé de la mise en valeur n’est pas en mesure, au moment de l’octroi de la contribution, de contribuer financièrement au projet à la hauteur requise, mais présente un potentiel de mise en valeur des résultats du projet supérieur à la moyenne;
+- d. le projet est réalisé dans le cadre d’un programme spécial à durée limitée en vertu de l’art. 7, al. 3.[^19-6]
 
-<sup>4</sup> Innosuisse peut en outre prévoir des instruments permettant de participer aux coûts d’études destinées à évaluer si les projets des entreprises peuvent être mis en œuvre de manière efficace.[^19-6]
+<sup>2ter</sup>
 
-<sup>5</sup> Elle encourage tout particulièrement des projets au sens des al. 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> et 4 qui apportent une contribution à l’utilisation durable des ressources.[^19-7]
+Dans des cas particuliers, Innosuisse peut réclamer une participation supérieure à 60 % de la part du partenaire chargé de la mise en valeur si l’une des conditions suivantes est remplie:
+
+- a. le projet présente de faibles risques de réalisation et simultanément un potentiel de succès économique supérieur à la moyenne pour le partenaire chargé de la mise en œuvre;
+- b. la capacité économique du partenaire chargé de la mise en valeur ou les caractéristiques du projet justifient une participation plus élevée, notamment si le partenaire chargé de la mise en valeur ne finance pas lui-même entièrement sa participation parce qu’il reçoit d’autres aides par ailleurs.[^19-7]
+
+<sup>3</sup> Elle peut encourager des projets d’innovation qui sont menés par des partenaires de recherche sans partenaire chargé de la mise en valeur lorsque ces projets présentent un potentiel d’innovation important mais n’ayant toutefois pas encore été suffisamment déterminé.[^19-8]
+
+<sup>3bis</sup> Elle peut encourager des projets d’innovation de jeunes entreprises lorsque les travaux sur le projet sont nécessaires pour préparer ces entreprises à leur première entrée sur le marché. La contribution d’Innosuisse sert à couvrir partiellement ou entièrement aussi bien les coûts directs du projet à la charge de la jeune entreprise elle-même que les coûts des prestations fournies par des tiers. Innosuisse fixe les critères déterminant le montant des prestations propres des jeunes entreprises dans son ordonnance sur les contributions. Ce faisant, elle tient compte notamment des critères visés aux al. 2<sup>bis</sup> et 2<sup>ter</sup>.[^19-9]
+
+<sup>3ter</sup> Dans la mesure où les entreprises suisses se voient refuser l’accès aux offres d’encouragement de la Commission européenne destinées aux projets individuels, Innosuisse peut encourager les projets d’innovation de jeunes entreprises et de petites et moyennes entreprises, lorsqu’ils présentent un potentiel d’innovation important, afin d’assurer une commercialisation rapide et efficace et une croissance correspondante. La contribution d’Innosuisse sert à couvrir partiellement ou entièrement aussi bien les coûts directs du projet à la charge de l’entreprise elle-même que les coûts des prestations fournies par des tiers. Innosuisse fixe les critères d’encouragement et les critères déterminant le montant des prestations propres des entreprises dans son ordonnance sur les contributions.[^19-10]
+
+<sup>4</sup> Innosuisse peut en outre prévoir des instruments permettant de participer aux coûts d’études destinées à évaluer si les projets des entreprises peuvent être mis en œuvre de manière efficace.[^19-11]
+
+<sup>5</sup> Elle encourage tout particulièrement des projets au sens des al. 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> et 4 qui apportent une contribution à l’utilisation durable des ressources.[^19-12]
 
 <sup>6</sup> Les projets encouragés doivent respecter les principes de l’intégrité scientifique et des bonnes pratiques scientifiques. Les sanctions et l’obligation d’informer au sens de l’art. 12, al. 2 à 4, s’appliquent aux infractions.
 
 [^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^19-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Entre en vigueur le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-5]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-6]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-7]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-3]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-4]: Abrogée par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-7]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-8]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-9]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-10]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-11]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^19-12]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
-**Autres mesures de soutien**
+**Encouragement de l’entrepreneuriat fondé sur la science**[^20-1]
 
-<sup>1</sup>
-
-Innosuisse peut soutenir l’entrepreneuriat fondé sur la science en prenant les mesures suivantes:[^20-1]
-
-- a.[^20-2] sensibilisation et formation des personnes qui souhaitent créer une entreprise ou qui viennent d’en créer une ou qui veulent en reprendre une;
-- b. mise en place d’offres d’information et de conseil.
+<sup>1</sup> Innosuisse peut soutenir le développement et le renforcement de l’entrepreneuriat fondé sur la science par des mesures de formation et de sensibilisation et des offres d’information et de conseil destinées aux personnes qui entendent créer une entreprise ou viennent d’en créer une, qui reprennent une entreprise ou souhaitent réorienter leur entreprise.
 
 <sup>2</sup>
 
-Elle peut soutenir la création et le développement d’entreprises dont les activités sont fondées sur la science en prenant les mesures suivantes:[^20-3]
+Elle peut encourager la création et le développement d’entreprises fondées sur la science:
 
-- a. encadrement, conseil et suivi des jeunes entrepreneurs;
-- b. assistance dans la recherche de sources de financement;
-- c. mise en place d’offres d’information et de conseil.
+- a. par le *coaching* de jeunes entreprises et de leurs créateurs;
+- b. par des mesures destinées à faciliter l’accès aux marchés internationaux par la participation à des programmes d’internationalisation ou à des salons internationaux;
+- c. par des contributions à des organisations, à des institutions ou à des personnes qui soutiennent la création et le développement de jeunes entreprises;
+- d. par des offres d’information et de conseil.
 
-<sup>3</sup> Elle peut soutenir la mise en valeur du savoir et le transfert de savoir et de technologie, notamment en encourageant l’échange d’informations entre les hautes écoles et les entreprises.[^20-4]
+<sup>3</sup> Elle désigne les prestataires des mesures au sens de l’al. 2, let. a, au moyen d’une procédure de sélection et établit une liste publique des prestataires à disposition.
 
-[^20-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-2]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-3]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-4]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
+#### Art. 20a
+
+**Encouragement de personnes hautement qualifiées**[^20a-1]
+
+<sup>1</sup> Innosuisse peut soutenir des personnes hautement qualifiées issues d’établissements de recherche du domaine des hautes écoles, d’établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles ou de petites et moyennes entreprises dans l’acquisition de compétences en matière d’innovation.
+
+<sup>2</sup>
+
+À cet effet, elle peut allouer à ces personnes des contributions leur permettant:
+
+- a. de réaliser des études de faisabilité ou des projets analogues;
+- b. de participer à des programmes de formation continue;
+- c. d’effectuer des séjours d’immersion pour promouvoir les échanges entre la science et la pratique.
+
+<sup>3</sup> Les contributions peuvent être versées aux personnes hautement qualifiées pour couvrir les coûts directs de projet, droits de participation ou frais de subsistance, ou, s’agissant des séjours d’immersion, à leur employeur pour couvrir les coûts de maintien du salaire. Elles peuvent aussi être allouées sous la forme de bourses ou de prêts sans intérêt.
+
+<sup>4</sup> Les contributions ne sont allouées que si l’objectif d’encouragement visé ne peut être atteint dans le cadre d’un projet d’innovation au sens de l’art. 19 ou au moyen d’une mesure au sens de l’art. 20, al. 1 ou 2.
+
+[^20a-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 21
 
-**Contributions pour l’encadrement, le conseil, le suivi et le conseil en innovation**[^21-1]
+**Encouragement du transfert de savoir et de technologie et de la diffusion d’information**[^21-1]
 
-<sup>1</sup> En ce qui concerne l’encadrement, le conseil et le suivi au sens de l’art. 20, al. 2, let. a, ainsi que l’encouragement de l’échange d’informations entre les hautes écoles et les entreprises sous la forme du conseil en innovation au sens de l’art. 20, al. 3, seules sont indemnisées les prestations de fournisseurs de prestation qui se sont qualifiés dans une procédure de sélection d’Innosuisse.
+<sup>1</sup>
 
-<sup>2</sup> Innosuisse tient un registre public des fournisseurs de prestation qualifiés.
+Innosuisse peut soutenir la mise en valeur du savoir et le transfert de savoir et de technologie:
 
-<sup>3</sup>
+- a. par l’encouragement de la mise en réseau des acteurs de l’innovation fondée sur la science, afin de favoriser l’émergence de projets d’innovation;
+- b. par des mesures destinées à renforcer la capacité d’innovation des petites et moyennes entreprises, telles que le mentorat dans le domaine de l’innovation, des offres de formation continue ou la mise à disposition de plateformes d’échanges;
+- c. par des mesures de soutien à l’éclaircissement de questions liées à la propriété intellectuelle;
+- d. par des mesures de coordination ou de formation dans le cadre de la réalisation de projets d’innovation au sens de l’art. 19.
 
-Les contributions sont versées:
+<sup>2</sup> Elle peut désigner les prestataires du mentorat au sens de l’al. 1, let. b, au moyen d’une procédure de sélection et établir une liste publique des prestataires à disposition.
 
-- a. aux jeunes entrepreneurs ou à leurs jeunes entreprises, pour financer l’encadrement, le conseil et le suivi (art. 20, al. 2, let. a);
-- b. aux entreprises, pour financer le conseil en innovation (art. 20, al. 3).
+<sup>3</sup> Elle peut promouvoir, dans son domaine de compétence, l’information sur les possibilités d’encouragement aux niveaux national et international et sur le dépôt des demandes, notamment par des contributions à des tiers qui proposent de telles offres d’information.
 
-<sup>4</sup> Les prestations soutenues par Innosuisse ainsi que le montant maximal disponible à cet effet sont déterminés dans un contrat passé avec les bénéficiaires des contributions visés à l’al. 3. Dans les cas simples, la contribution est accordée par voie de décision.
-
-[^21-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^21-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 22
 
-**Encouragement de la relève**[^22-1]
+**Coopération internationale en matière d’innovation**[^22-1]
 
-<sup>1</sup> Innosuisse peut encourager la relève hautement qualifiée dans le domaine de l’innovation sous la forme de bourses ou de prêts sans intérêt.
+<sup>1</sup> Innosuisse peut encourager la coopération internationale dans le domaine de l’innovation fondée sur la science.
 
-<sup>2</sup>
+<sup>2</sup> Elle peut, dans le cadre des instruments visés aux art. 19 à 21, établir des coopérations avec des organisations ou des agences d’encouragement étrangères.
 
-Les contributions visées à l’al. 1 sont allouées dans le cadre d’un programme d’encouragement personnalisé défini par Innosuisse. Ce programme prévoit un séjour:
+<sup>3</sup> Elle peut participer à des activités d’encouragement au sens de l’art. 28, al. 2, let. c.
 
-- a. dans une entreprise dont les activités sont fondées sur la science dans le but d’acquérir des compétences pratiques, ou
-- b. dans un établissement de recherche au sens des art. 4, let. c, ou 5 dans le but d’approfondir les compétences en recherche appliquée.
+[^22-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
-<sup>3</sup> Les contributions visées à l’al. 1 sont allouées uniquement si le programme visé à l’al. 2 ne peut pas être réalisé dans le cadre d’un projet d’innovation au sens de l’art. 19 ou comme mesure au sens de l’art. 20.
+#### Art. 22a
 
-<sup>4</sup> La durée maximale du séjour visé à l’al. 2 est de 3 ans.
+**Coopération avec d’autres organes de recherche**[^22a-1]
 
-<sup>5</sup> Le montant des bourses, la participation financière des entreprises ainsi que les modalités de remboursement des prêts sans intérêt sont fixés dans l’ordonnance sur les contributions d’Innosuisse.
+<sup>1</sup> Dans le cadre des instruments visés aux art. 19 à 21, Innosuisse peut mettre en œuvre des mesures d’encouragement conjointement avec d’autres organes de recherche.
 
-[^22-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018, al. 5 depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+<sup>2</sup> Les parties concernées arrêtent dans des règlements communs les modalités de la mise en œuvre et les conditions applicables à l’encouragement
+
+[^22a-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 23
 
@@ -532,9 +578,13 @@ Les contributions visées à l’al. 1 sont allouées dans le cadre d’un progr
 
 <sup>1</sup> Dans le cadre de ses activités d’encouragement, Innosuisse alloue des contributions aux établissements de recherche du domaine des hautes écoles et aux établissements de recherche à but non lucratif situés en-dehors du domaine des hautes écoles afin de compenser les coûts de recherche indirects (*overhead*).
 
-<sup>2</sup> Le Conseil fédéral arrête les principes du calcul des contributions.
+<sup>1bis</sup> S’il est prévu de fixer pour les centres de compétences technologiques soutenus par la Confédération (art. 15, al. 3, let. c) un taux maximal de contribution supérieur à celui appliqué aux autres établissements de recherche du domaine des hautes écoles et aux établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles, le Conseil fédéral soumet au Parlement une proposition en ce sens au moyen du plafond de dépenses visé à l’art. 36, let. c.[^23-2]
+
+<sup>2</sup> Au surplus, le Conseil fédéral règle les principes du calcul des contributions.[^23-3]
 
 [^23-1]: Nouvelle teneur selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^23-2]: Introduit par le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 24
 
@@ -618,25 +668,34 @@ Elle peut, dans le cadre des objectifs supérieurs de la politique international
 Dans la limite des crédits ouverts, le Conseil fédéral peut allouer les contributions et prendre les mesures suivantes:
 
 - a. contributions à des programmes et des projets de recherche et de technologie qui permettent ou facilitent la participation de la Suisse à des expériences et des projets d’organisations et de programmes internationaux ou l’utilisation par la Suisse d’installations de recherche internationales;
-- b. contributions à des établissements de recherche du domaine des hautes écoles et à des établissements de recherche sans but lucratif situés en dehors du domaine des hautes écoles afin de permettre ou de faciliter la participation de la Suisse à des expériences ou des projets d’organisations et de programmes internationaux;
-- c. contributions à des établissements de recherche du domaine des hautes écoles au titre de la coopération bilatérale ou multilatérale dans le domaine de la recherche, en dehors de programmes et d’organisations internationaux; le Conseil fédéral peut exiger en contrepartie que les bénéficiaires fournissent des prestations appropriées qui répondent aux intérêts de la politique internationale de la Suisse en matière de recherche et d’innovation;
-- d.[^29-1] contributions à des entreprises suisses pour l’élaboration de propositions de projets en vue de la participation aux programmes-cadres de recherche de l’Union européenne;
-- e.[^29-2] contributions à des entreprises suisses pour encourager leur participation aux programmes-cadres de recherche de l’Union européenne et à des initiatives et programmes cofinancés par ces programmes-cadres, dans la mesure où la participation suppose que les entreprises reçoivent des contributions de l’État;
-- f.[^29-3]
+- b.[^29-1]
+
+  contributions aux institutions suivantes, afin de permettre ou de faciliter la participation de la Suisse à des expériences ou à des projets d’organisations et de programmes internationaux:
+
+  - 1\. établissements de recherche du domaine des hautes écoles,
+  - 2\. établissements de recherche à but non lucratif situés en dehors du domaine des hautes écoles,
+  - 3\. autres institutions à but non lucratif menant des activités de recherche dans un domaine spécifique ou participant à des activités de recherche;
+
+- c.[^29-2] contributions à des institutions visées à la let. b au titre de la coopération bilatérale ou multilatérale dans le domaine de la recherche ou d’activités de recherche spécifiques menées à l’étranger en dehors de programmes et d’organisations internationaux; le Conseil fédéral peut exiger en contrepartie que les bénéficiaires fournissent des prestations appropriées qui répondent aux intérêts de la politique internationale de la Suisse en matière de recherche et d’innovation;
+- d.[^29-3] contributions à des entreprises suisses pour l’élaboration de propositions de projets en vue de la participation aux programmes-cadres de recherche de l’Union européenne;
+- e.[^29-4] contributions à des entreprises suisses pour encourager leur participation aux programmes-cadres de recherche de l’Union européenne et à des initiatives et programmes cofinancés par ces programmes-cadres, dans la mesure où la participation suppose que les entreprises reçoivent des contributions de l’État;
+- f.[^29-5]
 
   contributions à des institutions et organisations sans but lucratif pour les activités suivantes, dans la mesure où celles-ci ne sont pas exercées par la Confédération elle-même:
 
   - 1\. diffusion d’informations relatives aux activités et aux programmes de coopération scientifique internationale en matière de recherche et d’innovation dans les milieux intéressés en Suisse,
   - 2\. conseil et soutien aux milieux intéressés en Suisse pour l’élaboration et le dépôt des requêtes dans le cadre de programmes et de projets internationaux en matière de recherche et d’innovation;
 
-- g.[^29-4] …
+- g.[^29-6] …
 
 <sup>2</sup> Le Conseil fédéral règle le calcul des contributions et la procédure.
 
-[^29-1]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-2]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-3]: Anciennement let. d. Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^29-4]: Anciennement let. e. Abrogée par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-3]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-4]: Introduite par le ch. I de la LF du 27 sept. 2013, en vigueur depuis le 1<sup><sup>er</sup></sup> mars 2014 ([RO 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1759](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-5]: Anciennement let. d. Nouvelle teneur selon le ch. I de la LF du 30 sept. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-6]: Anciennement let. e. Abrogée par le ch. I de la LF du 30 sept. 2016, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2917](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 30
 
@@ -819,9 +878,10 @@ Lorsque les résultats de recherches financées en tout ou partie par la Conféd
 
 <sup>2</sup> Les organes de recherche coordonnent leurs activités en échangeant des informations à un stade précoce.
 
-<sup>3</sup> Les institutions chargées d’encourager la recherche, Innosuisse et l’administration fédérale, dans la mesure où elle assume des tâches d’encouragement de la recherche ou de l’innovation, coordonnent leurs activités en concertant leurs mesures d’encouragement et en coopérant dans le cadre de leurs activités d’encouragement. Elles tiennent compte dans leurs efforts de coordination des exigences de l’enseignement, de la recherche exécutée sans l’aide de la Confédération, de la recherche exécutée à l’étranger et de la coordination au sens de la LEHE[^40-1].
+<sup>3</sup> Les institutions chargées d’encourager la recherche, Innosuisse[^40-1] et l’administration fédérale, dans la mesure où elle assume des tâches d’encouragement de la recherche ou de l’innovation, coordonnent leurs activités en concertant leurs mesures d’encouragement et en coopérant dans le cadre de leurs activités d’encouragement. Elles tiennent compte dans leurs efforts de coordination des exigences de l’enseignement, de la recherche exécutée sans l’aide de la Confédération, de la recherche exécutée à l’étranger et de la coordination au sens de la LEHE[^40-2].
 
-[^40-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-1]: Nouvelle expression selon l’annexe ch. 2 de la L du 17 juin 2016 sur Innosuisse, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 8661](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Il a été tenu compte de cette mod. dans tout le texte.
+[^40-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 ### Section 2 Coordination par le Conseil fédéral
 
@@ -1043,7 +1103,9 @@ Sur mandat du gouvernement ou du DEFR, le CSS exerce les tâches suivantes:
 
 <sup>2</sup> Le CSS se compose de dix à quinze membres. Ces derniers disposent de compétences interdisciplinaires reconnues en matière de science, de formation professionnelle et d’innovation.
 
-<sup>3</sup> Le CSS se donne un règlement d’organisation et de gestion. Ce règlement est soumis à l’approbation du Conseil fédéral.
+<sup>3</sup> Le CSS arrête son organisation et sa gestion par voie d’ordonnance. Celle-ci est soumise à l’approbation du Conseil fédéral.[^55-1]
+
+[^55-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Chapitre 7 Dispositions finales
 

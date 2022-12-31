@@ -4,11 +4,11 @@ title: "Legge federale del 14 dicembre 2012 sulla promozione della ricerca e del
 short: LPRI
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/786"
 language: it
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2012-12-14
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20220415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/786/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-786-20230101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/786/20220415/it"
 
 (LPRI)
 
-del 14 dicembre 2012 (Stato 15 aprile 2022) (Stato 15 aprile 2022)
+del 14 dicembre 2012 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -74,22 +74,24 @@ Sono organi di ricerca ai sensi della presente legge:
   le seguenti istituzioni di promozione della ricerca:
 
   - 1\. il Fondo nazionale svizzero per la ricerca scientifica (FNS),
-  - 2\.
+  - 2\.[^4-1]
 
-    l’Associazione delle Accademie svizzere delle scienze, comprendente:
+    le Accademie svizzere delle scienze, che comprendono:
 
     - – l’Accademia svizzera di scienze naturali (SCNAT)
     - – l’Accademia svizzera di scienze umane e sociali (ASSU)
     - – l’Accademia svizzera delle scienze mediche (ASSM)
-    - – l’Accademia svizzera delle scienze tecniche (ASST);
+    - – l’Accademia svizzera delle scienze tecniche (ASST)
+    - – il centro di competenza Science et Cité
+    - – il centro di competenza TA-SWISS;
 
-- b.[^4-1] l’Agenzia svizzera per la promozione dell’innovazione (Innosuisse) secondo la legge del 17 giugno 2016[^4-2] su Innosuisse;
+- b.[^4-2] l’Agenzia svizzera per la promozione dell’innovazione (Innosuisse) secondo la legge del 17 giugno 2016[^4-3] su Innosuisse;
 - c.
 
   i centri di ricerca universitari seguenti:
 
   - 1\. i politecnici federali (PF) e gli istituti di ricerca del settore dei PF,
-  - 2\. le scuole universitarie e gli altri istituti accademici, accreditati secondo la legge federale del 30 settembre 2011[^4-3] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU),
+  - 2\. le scuole universitarie e gli altri istituti accademici, accreditati secondo la legge federale del 30 settembre 2011[^4-4] sulla promozione e sul coordinamento del settore universitario svizzero (LPSU),
   - 3\. le strutture di ricerca d’importanza nazionale sostenute dalla Confederazione in base alla presente legge (art. 15);
 
 - d.
@@ -99,9 +101,10 @@ Sono organi di ricerca ai sensi della presente legge:
   - 1\. svolga ricerche per l’adempimento dei propri compiti (ricerca del settore pubblico), o
   - 2\. svolga compiti di promozione della ricerca e dell’innovazione.
 
-[^4-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^4-2]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^4-3]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^4-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^4-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^4-3]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
+[^4-4]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 #### Art. 5
 
@@ -162,14 +165,14 @@ La Confederazione promuove la ricerca e l’innovazione secondo la presente legg
 
 <sup>2</sup> Per consolidare la posizione della Svizzera come polo di ricerca e d’innovazione, la Confederazione può sostenere l’istituzione di un parco svizzero dell’innovazione.
 
-<sup>3</sup> Il Consiglio federale può incaricare le istituzioni di promozione della ricerca e Innosuisse di realizzare, singolarmente o congiuntamente, programmi di promozione tematici.[^7-4]
+<sup>3</sup> Il Consiglio federale può incaricare le istituzioni di promozione della ricerca e Innosuisse di realizzare, singolarmente o congiuntamente, programmi speciali o programmi di promozione tematici.[^7-4]
 
 <sup>4</sup> Il Consiglio federale può affidare alle istituzioni di promozione della ricerca e a Innosuisse compiti nell’ambito della cooperazione internazionale il cui adempimento necessita della loro competenza specifica.[^7-5]
 
 [^7-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 [^7-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 [^7-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^7-4]: Nuovo testo giusta il n. II della LF del 30 set. 2016, in vigore dal 1° feb. 2018 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^7-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 [^7-5]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
 
 #### Art. 8
@@ -233,25 +236,28 @@ Nell’ambito dei compiti e delle competenze conferitigli, il FNS stabilisce gli
 
 <sup>5</sup> Il FNS partecipa alle procedure che precedono le decisioni sui programmi di ricerca nazionali, sui poli nazionali di ricerca e su altri programmi di promozione che gli sono stati affidati.
 
-<sup>6</sup> Per garantire la continuità delle sue attività di promozione della ricerca, il FNS può impiegare una parte dei sussidi della Confederazione per costituire un capitale proprio sotto forma di riserve. In un anno contabile il totale delle riserve non può eccedere il 10 per cento del sussidio federale annuo.
+<sup>6</sup> Per garantire la continuità delle sue attività di promozione della ricerca, il FNS può impiegare una parte dei sussidi della Confederazione per costituire un capitale proprio sotto forma di riserve. Nel rispettivo anno contabile l’ammontare delle riserve non può eccedere il 15 per cento del sussidio federale annuo.[^10-1] In casi eccezionali il Consiglio federale può autorizzare il superamento temporaneo di tale aliquota massima qualora gli oneri non iscritti nel bilancio del FNS per i sussidi di promozione della ricerca giustifichino siffatta misura.[^10-2]
 
 <sup>7</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI) conclude periodicamente con il FNS una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione sono specificati anche i compiti supplementari delegati dal Consiglio federale.
 
+[^10-1]: Nuovo testo del secondo per. giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Per. introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
 #### Art. 11
 
-**Accademie svizzere**
+**Accademie svizzere delle scienze[^11-1]**
 
-<sup>1</sup> L’Associazione delle Accademie svizzere è l’organo di promozione della Confederazione incaricato di rafforzare la cooperazione in tutte le discipline scientifiche e tra queste ultime nonché di radicare la scienza nella società.
+<sup>1</sup> Le Accademie svizzere delle scienze sono l’organo di promozione della Confederazione incaricato di rafforzare la cooperazione in tutte le discipline scientifiche e tra queste ultime nonché di radicare la scienza nella società.[^11-2]
 
 <sup>2</sup>
 
-Essa impiega i sussidi accordati dalla Confederazione segnatamente per i seguenti scopi:
+Impiegano i sussidi accordati loro dalla Confederazione segnatamente per i seguenti scopi:[^11-3]
 
 - a. assicurare e promuovere l’individuazione precoce di temi rilevanti per la società nei settori dell’educazione, della ricerca e dell’innovazione;
 - b. adoperarsi affinché chi acquisisce o applica conoscenze scientifiche assuma la propria responsabilità etica;
 - c. configurare il dialogo tra la scienza e la società e promuovere studi sulle opportunità e i rischi delle innovazioni e delle tecnologie.
 
-<sup>3</sup> Le singole accademie coordinano le loro attività di promozione nell’ambito dell’Associazione e assicurano la cooperazione, segnatamente con i centri di ricerca universitari.
+<sup>3</sup> Le singole istituzioni di cui all’articolo 4 lettera a numero 2 coordinano le loro attività di promozione nell’ambito delle Accademie svizzere delle scienze e assicurano la cooperazione, segnatamente con i centri di ricerca universitari.[^11-4]
 
 <sup>4</sup> Le Accademie svizzere promuovono la cooperazione tra scienziati ed esperti in seno a comitati scientifici, a commissioni e ad altre forme organizzative adeguate e si servono di tale cooperazione per adempiere i loro compiti.
 
@@ -259,7 +265,13 @@ Essa impiega i sussidi accordati dalla Confederazione segnatamente per i seguent
 
 <sup>6</sup> Possono sostenere collezioni di dati, sistemi di documentazione, riviste scientifiche, pubblicazioni o strutture analoghe che costituiscono infrastrutture di ricerca utili allo sviluppo di settori scientifici in Svizzera e non rientrano nell’ambito di competenza del FNS o dei centri di ricerca universitari o non sono sostenuti direttamente dalla Confederazione.
 
-<sup>7</sup> La SEFRI conclude periodicamente con l’Associazione delle Accademie svizzere una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione può incaricare l’Associazione o le singole Accademie di effettuare valutazioni, svolgere progetti scientifici, gestire strutture di cui al capoverso 6 e svolgere altri compiti speciali nell’ambito dei compiti di cui ai capoversi 1–4.
+<sup>7</sup> La SEFRI conclude periodicamente con le Accademie svizzere delle scienze una convenzione sulle prestazioni fondata sui decreti di finanziamento dell’Assemblea federale. In tale convenzione può incaricare le stesse Accademie e le singole istituzioni di cui all’articolo 4 lettera a numero 2 di effettuare valutazioni, svolgere progetti scientifici, gestire strutture di cui al capoverso 6 e svolgere altri compiti speciali nell’ambito dei compiti e delle competenze di cui ai capoversi 2–6.[^11-5]
+
+[^11-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^11-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 12
 
@@ -353,29 +365,31 @@ Il sussidio federale ammonta:
 
 **Ricerca del settore pubblico**
 
-<sup>1</sup> La ricerca del settore pubblico è la ricerca che l’Amministrazione federale avvia per ottenere i risultati di cui necessita per l’adempimento dei suoi compiti.
+<sup>1</sup> La ricerca del settore pubblico è la ricerca che l’Amministrazione federale avvia e dei cui risultati necessita per l’adempimento dei suoi compiti.[^16-1]
 
 <sup>2</sup>
 
 La ricerca del settore pubblico può contemplare i provvedimenti seguenti:
 
-- a. esercizio di centri federali di ricerca;
-- b. concessione di sussidi a centri di ricerca universitari per la realizzazione di programmi di ricerca;
-- c. realizzazione di propri programmi di ricerca, segnatamente in collaborazione con centri di ricerca universitari, istituzioni di promozione della ricerca, Innosuisse[^16-1] o altre organizzazioni di promozione;
-- d. conferimento di mandati di ricerca (ricerca su commissione).
+- a. il conferimento di mandati di ricerca (ricerca su commissione);
+- b. l’esercizio di centri federali di ricerca;
+- c. la realizzazione di propri programmi di ricerca, segnatamente in collaborazione con centri di ricerca universitari, istituzioni di promozione della ricerca, Innosuisse o altre organizzazioni di promozione;
+- d. la concessione di sussidi a centri di ricerca universitari per la realizzazione di programmi di ricerca.[^16-2]
 
-<sup>3</sup> Le istituzioni di ricerca del settore pubblico che non sono centri federali di ricerca, ma che, in aggiunta ai provvedimenti di cui al capoverso 2, devono svolgere propri progetti di ricerca per adempiere i loro compiti in modo appropriato, possono presentare domanda a Innosuisse e ad altre organizzazioni di promozione nazionali e internazionali per ottenere mezzi finanziari di terzi o per partecipare a programmi di tali organizzazioni.[^16-2]
+<sup>3</sup> Le istituzioni di ricerca del settore pubblico che non sono centri federali di ricerca, ma che, in aggiunta ai provvedimenti di cui al capoverso 2, devono svolgere propri progetti di ricerca per adempiere i loro compiti in modo appropriato, possono presentare domanda a Innosuisse e ad altre organizzazioni di promozione nazionali e internazionali per ottenere mezzi finanziari di terzi o per partecipare a programmi di tali organizzazioni.[^16-3]
 
 <sup>4</sup> La ricerca del settore pubblico si attiene ai principi di cui all’articolo 6 capoversi 1 lettere a e c, 3 e 4.
 
 <sup>5</sup> I Dipartimenti sono competenti per la ricerca del settore pubblico nei rispettivi settori di attività.
 
-<sup>6</sup> Nell’ambito dei provvedimenti di cui al capoverso 2 lettere b e c, le competenti unità amministrative versano sussidi volti a compensare i costi indiretti di ricerca (*overhead*). Il Consiglio federale disciplina i principi del calcolo dei sussidi.
+<sup>6</sup> Nell’ambito dei provvedimenti di cui al capoverso 2 lettere c e d, le competenti unità amministrative versano sussidi volti a compensare i costi indiretti di ricerca («overhead»). Il Consiglio federale disciplina i principi del calcolo dei sussidi.[^16-4]
 
 <sup>7</sup> Le disposizioni sul finanziamento di cui alla sezione 8 non si applicano alla ricerca del settore pubblico.
 
-[^16-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^16-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^16-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^16-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 17
 
@@ -407,123 +421,157 @@ La ricerca del settore pubblico può contemplare i provvedimenti seguenti:
 
 La Confederazione può inoltre sostenere:
 
-- a. provvedimenti per promuovere l’imprenditorialità fondata sulla scienza;
+- a.[^18-1] provvedimenti per sviluppare e rafforzare l’imprenditorialità fondata sulla scienza;
 - b. provvedimenti in favore della costituzione e dello sviluppo di imprese la cui attività è fondata sulla scienza;
+- b<sup>bis</sup>.[^18-2] provvedimenti per promuovere persone altamente qualificate nel settore dell’innovazione;
 - c. la valorizzazione del sapere e il trasferimento di sapere e tecnologie tra le scuole universitarie, l’economia e la società;
-- d.[^18-1] le nuove leve nel settore dell’innovazione.
+- d.[^18-3] l’attività di informazione sulle possibilità di promozione a livello nazionale e internazionale.
 
 <sup>3</sup> Elabora le basi per la promozione dell’innovazione.
 
 <sup>4</sup> Assicura la valutazione dell’attività di promozione.
 
-[^18-1]: Introdotta dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^18-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-2]: Introdotta dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^18-3]: Introdotta dall’all. n. 2 della L del 17 giu. 2016 su Innosuisse ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 19
 
 **Promozione di progetti d’innovazione**
 
-<sup>1</sup> Quale organo della Confederazione incaricato di promuovere l’innovazione fondata sulla scienza secondo la legge del 17 giugno 2016[^19-1] su Innosuisse, Innosuisse promuove progetti d’innovazione accordando sussidi ai centri di ricerca universitari e ai centri di ricerca extrauniversitari a scopo non lucrativo.[^19-2]
+<sup>1</sup> Quale organo della Confederazione incaricato di promuovere l’innovazione fondata sulla scienza secondo la legge del 17 giugno 2016[^19-1] su Innosuisse, Innosuisse può promuovere progetti d’innovazione condotti da centri di ricerca universitari o da centri di ricerca extrauniversitari a scopo non lucrativo (partner di ricerca) insieme a partner pubblici o privati che provvedono alla loro valorizzazione (partner attuatori).[^19-2]
+
+<sup>1bis</sup> Il sussidio di Innosuisse serve a coprire i costi diretti di progetto dei partner di ricerca. Nella sua ordinanza sui sussidi Innosuisse può prevedere di concedere sussidi anche ai partner attuatori se ciò è necessario per la cooperazione internazionale nel settore dell’innovazione fondata sulla scienza.[^19-3]
 
 <sup>2</sup>
 
 I sussidi sono accordati soltanto se sono adempiute le seguenti condizioni:
 
-- a. il progetto è condotto insieme a uno o più partner privati o pubblici che ne assicurano la valorizzazione (partner attuatore);
+- a.[^19-4] ...
 - b. i risultati della ricerca potranno presumibilmente essere sfruttati a favore dell’economia e della società;
 - c. il progetto non può verosimilmente essere realizzato senza il sostegno della Confederazione;
-- d.
-
-  i partner attuatori si assumono la metà del finanziamento del progetto. Il Consiglio federale può prevedere deroghe a questa regola segnatamente per:
-
-  - 1\. progetti con un potenziale di successo superiore alla media,
-  - 2\. progetti dai cui risultati può trarre beneficio un’ampia cerchia di utenti;
-
+- d.[^19-5] i partner attuatori partecipano al progetto con prestazioni proprie o con prestazioni a favore dei partner di ricerca nella misura del 40–60 per cento dei costi diretti complessivi del progetto;
 - e. il progetto contribuisce alla formazione orientata alla pratica delle nuove leve scientifiche.
 
-<sup>3</sup> Innosuisse può promuovere studi di fattibilità, prototipi e impianti sperimentali anche senza partner attuatori, se sono realizzati da centri di ricerca universitari o da centri di ricerca extrauniversitari a scopo non lucrativo e se presentano un notevole potenziale innovativo.[^19-3]
+<sup>2bis</sup>
 
-<sup>3bis</sup> ...[^19-4]
+In singoli casi Innosuisse può esigere dal partner attuatore una partecipazione inferiore al 40 per cento se è adempiuta una delle seguenti condizioni:
 
-<sup>3ter</sup> Qualora alle imprese svizzere sia precluso l’accesso alle offerte di promozione della Commissione europea destinate a progetti individuali, Innosuisse può promuovere i progetti d’innovazione di giovani imprese e di piccole e medie imprese che presentano un potenziale d’innovazione importante, allo scopo di assicurare una commercializzazione rapida ed efficace e una crescita corrispondente. Il sussidio di Innosuisse serve a coprire parzialmente o interamente sia i costi diretti di progetto a carico dell’impresa stessa sia i costi per prestazioni di terzi. Innosuisse stabilisce nella sua ordinanza sui sussidi i criteri per la promozione e i criteri per determinare l’importo delle prestazioni proprie delle imprese.[^19-5]
+- a. il progetto presenta rischi di realizzazione superiori alla media e nel contempo un potenziale di successo economico superiore alla media o di utilità sociale elevato;
+- b. dai risultati attesi possono potenzialmente trarre beneficio non soltanto il partner attuatore ma anche un’ampia cerchia di utenti non coinvolti nel progetto;
+- c. al momento della concessione del sussidio il partner attuatore non è finanziariamente in grado di partecipare al progetto nella misura richiesta, ma presenta un potenziale di successo superiore alla media per la realizzazione dei risultati del progetto;
+- d. il progetto si svolge nell’ambito di un programma speciale di durata limitata di cui all’articolo 7 capoverso 3.[^19-6]
+
+<sup>2ter</sup>
+
+In singoli casi può esigere dal partner attuatore una partecipazione superiore al 60 per cento se è adempiuta una delle seguenti condizioni:
+
+- a. il progetto presenta rischi di realizzazione bassi e nel contempo un potenziale di successo economico superiore alla media per il partner attuatore;
+- b. la capacità economica del partner attuatore o le caratteristiche del progetto giustificano una partecipazione più elevata, in particolare se il partner attuatore non finanzia interamente la sua partecipazione perché riceve altri contributi finanziari.[^19-7]
+
+<sup>3</sup> Può promuovere progetti d’innovazione realizzati da partner di ricerca senza partner attuatori qualora presentino un potenziale innovativo importante ma non ancora sufficientemente definito.[^19-8]
+
+<sup>3bis</sup> Può promuovere progetti d’innovazione di giovani imprese se i lavori di progetto sono necessari per preparare il loro primo ingresso sul mercato. Il sussidio di Innosuisse serve a coprire parzialmente o interamente sia i costi diretti di progetto a carico delle giovani imprese sia i costi per prestazioni di terzi. Innosuisse stabilisce nella sua ordinanza sui sussidi i criteri per determinare l’importo delle prestazioni proprie delle giovani imprese. A tal fine tiene conto in particolare dei criteri di cui ai capoversi 2<sup>bis</sup> e 2<sup>ter</sup>.[^19-9]
+
+<sup>3ter</sup> Qualora alle imprese svizzere sia precluso l’accesso alle offerte di promozione della Commissione europea destinate a progetti individuali, Innosuisse può promuovere i progetti d’innovazione di giovani imprese e di piccole e medie imprese che presentano un potenziale d’innovazione importante, allo scopo di assicurare una commercializzazione rapida ed efficace e una crescita corrispondente. Il sussidio di Innosuisse serve a coprire parzialmente o interamente sia i costi diretti di progetto a carico dell’impresa stessa sia i costi per prestazioni di terzi. Innosuisse stabilisce nella sua ordinanza sui sussidi i criteri per la promozione e i criteri per determinare l’importo delle prestazioni proprie delle imprese.[^19-10]
 
 <sup>4</sup> Essa può inoltre prevedere strumenti di partecipazione ai costi degli esami volti a valutare il potenziale di sfruttamento dei progetti delle imprese.
 
-<sup>5</sup> Promuove in particolare i progetti di cui ai capoversi 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> e 4 che contribuiscono a un uso sostenibile delle risorse.[^19-6]
+<sup>5</sup> Promuove in particolare i progetti di cui ai capoversi 1, 3, 3<sup>bis</sup>, 3<sup>ter</sup> e 4 che contribuiscono a un uso sostenibile delle risorse.[^19-11]
 
 <sup>6</sup> I progetti promossi devono rispettare i principi dell’integrità scientifica e della buona prassi scientifica. In caso di violazione di tali principi, si applicano le sanzioni e l’obbligo d’informare di cui all’articolo 12 capoversi 2–4.
 
 [^19-1]: [RS 420.2](https://fedlex.data.admin.ch/eli/cc/2016/712)
-[^19-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^19-4]: Entra in vigore il 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-5]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^19-6]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-3]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-4]: Abrogata dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), con effetto dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-6]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-7]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-8]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-9]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-10]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-11]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
-**Altri provvedimenti di sostegno**
+**Promozione dell’imprenditorialità fondata sulla scienza**[^20-1]
 
-<sup>1</sup>
-
-Innosuisse può sostenere l’imprenditorialità fondata sulla scienza mediante:[^20-1]
-
-- a.[^20-2] la sensibilizzazione e la formazione di persone che intendono costituire o hanno appena costituito un’impresa oppure intendono acquisirne una;
-- b. offerte di informazione e di consulenza.
+<sup>1</sup> Innosuisse può sostenere lo sviluppo e il rafforzamento dell’imprenditorialità fondata sulla scienza mediante provvedimenti di formazione e di sensibilizzazione nonché offerte di informazione e di consulenza per le persone che intendono costituire o hanno costituito un’impresa, intendono acquisirne una o vogliono riorientare la propria impresa.
 
 <sup>2</sup>
 
-Innosuisse può sostenere la costituzione e lo sviluppo di imprese la cui attività è fondata sulla scienza mediante: [^20-3]
+Può sostenere la costituzione e lo sviluppo di imprese la cui attività è fondata sulla scienza mediante:
 
-- a. l’assistenza, la consulenza e l’accompagnamento operativo destinati a giovani imprenditori;
-- b. l’aiuto nel reperimento di possibilità di finanziamento;
-- c. offerte di informazione e di consulenza.
+- a. l’accompagnamento operativo delle giovani imprese e dei loro fondatori;
+- b. provvedimenti per facilitare l’ingresso nei mercati internazionali attraverso la partecipazione a programmi di internazionalizzazione o a fiere internazionali;
+- c. sussidi a organizzazioni, istituzioni o persone che sostengono lo sviluppo e la costituzione di giovani imprese;
+- d. offerte di informazione e di consulenza.
 
-<sup>3</sup> Essa può sostenere la valorizzazione del sapere e il trasferimento di sapere e tecnologie, segnatamente promuovendo lo scambio di informazioni tra le scuole universitarie e l’economia.[^20-4]
+<sup>3</sup> Definisce i fornitori di prestazioni per i provvedimenti di cui al capoverso 2 lettera a mediante una procedura di selezione e tiene un elenco accessibile al pubblico dei fornitori selezionati.
 
-[^20-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-2]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-3]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
-[^20-4]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^20-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
+#### Art. 20a
+
+**Promozione di persone altamente qualificate**[^20a-1]
+
+<sup>1</sup> Innosuisse può sostenere persone altamente qualificate provenienti da centri di ricerca universitari e da centri di ricerca extrauniversitari a scopo non lucrativo nonché da piccole e medie imprese nell’acquisire competenze nel settore dell’innovazione.
+
+<sup>2</sup>
+
+A tal fine può concedere sussidi affinché queste persone abbiano la possibilità di:
+
+- a. realizzare studi di fattibilità o progetti simili;
+- b. partecipare a programmi di formazione continua;
+- c. partecipare a programmi di scambio per promuovere l’interazione tra scienza e pratica.
+
+<sup>3</sup> I sussidi possono essere versati alla persona altamente qualificata per coprire i costi diretti di progetto, le tasse di partecipazione o le spese di mantenimento oppure, in caso di programmi di scambio, al suo datore di lavoro per coprire i costi di mantenimento del salario. Possono essere versati anche sotto forma di borse di studio o mutui senza interessi.
+
+<sup>4</sup> I sussidi sono accordati soltanto se l’obiettivo di promozione non può essere raggiunto nell’ambito di un progetto d’innovazione di cui all’articolo 19 o di un provvedimento di cui all’articolo 20 capoverso 1 o 2.
+
+[^20a-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 21
 
-**Indennità per l’assistenza, la consulenza, l’accompagnamento operativo e il mentorato**[^21-1]
+**Promozione del trasferimento di sapere e di tecnologie e della trasmissione delle informazioni**[^21-1]
 
-<sup>1</sup> Per quanto riguarda l’assistenza, la consulenza e l’accompagnamento operativo secondo l’articolo 20 capoverso 2 lettera a nonché la promozione dello scambio di informazioni tra le scuole universitarie e l’economia secondo l’articolo 20 capoverso 3 sotto forma di mentorato per l’innovazione, sono indennizzate unicamente le prestazioni di fornitori di prestazioni che si sono qualificati in una procedura di selezione di Innosuisse.
+<sup>1</sup>
 
-<sup>2</sup> Innosuisse tiene un elenco accessibile al pubblico dei fornitori di prestazioni qualificati.
+Innosuisse può sostenere la valorizzazione del sapere e il trasferimento di sapere e di tecnologie mediante:
 
-<sup>3</sup>
+- a. la promozione dell’interazione tra gli operatori dell’innovazione fondata sulla scienza con l’obiettivo di stimolare l’avvio di progetti d’innovazione;
+- b. provvedimenti per le piccole e medie imprese volti a potenziare la loro forza innovativa, come il mentorato per l’innovazione, offerte di formazione continua o piattaforme di scambio;
+- c. misure di sostegno per chiarire aspetti riguardanti la proprietà intellettuale;
+- d. misure di coordinamento e di formazione nell’ambito dello svolgimento dei progetti d’innovazione di cui all’articolo 19.
 
-Le indennità sono accordate per sostenere:
+<sup>2</sup> Innosuisse può definire, mediante una procedura di selezione, i fornitori delle prestazioni di mentorato di cui al capoverso 1 lettera b e tenere un elenco accessibile al pubblico dei fornitori selezionati.
 
-- a. i giovani imprenditori o le giovani imprese, per finanziare l’assistenza, la consulenza e l’accompagnamento operativo (art. 20 cpv. 2 lett. a);
-- b. le imprese, per finanziare il mentorato per l’innovazione (art. 20 cpv. 3).
+<sup>3</sup> Nel suo ambito di competenza può promuovere l’informazione sulle possibilità di promozione a livello nazionale e internazionale e sulla presentazione di domande di sussidio, in particolare mediante sussidi a terzi che propongono tali offerte di informazione.
 
-<sup>4</sup> Innosuisse e i beneficiari dei sussidi di cui al capoverso 3 stabiliscono per contratto le prestazioni sostenute e l’importo massimo disponibile a tale scopo. In casi semplici l’indennità è accordata mediante decisione.
-
-[^21-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^21-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 22
 
-**Promozione delle nuove leve**[^22-1]
+**Cooperazione internazionale nel settore dell’innovazione**[^22-1]
 
-<sup>1</sup> Innosuisse può promuovere tramite borse di studio o mutui senza interessi le nuove leve altamente qualificate nel settore dell’innovazione.
+<sup>1</sup> Innosuisse può promuovere la cooperazione internazionale nel settore dell’innovazione fondata sulla scienza.
 
-<sup>2</sup>
+<sup>2</sup> Nell’ambito dei suoi strumenti di cui agli articoli 19–21 può avviare cooperazioni con organizzazioni od organismi di promozione esteri.
 
-I contributi di cui al capoverso 1 sono accordati nell’ambito di un programma di promozione individuale definito da Innosuisse. Quest’ultimo prevede un periodo da trascorrere:
+<sup>3</sup> Può partecipare ad attività di promozione ai sensi dell’articolo 28 capoverso 2 lettera c.
 
-- a. in un’impresa la cui attività è fondata sulla scienza, allo scopo di acquisire competenze pratiche; o
-- b. in un centro di ricerca secondo l’articolo 4 lettera c o l’articolo 5, allo scopo di approfondire competenze nella ricerca orientata all’applicazione.
+[^22-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
-<sup>3</sup> I contributi di cui al capoverso 1 sono accordati soltanto se il programma di cui al capoverso 2 non può essere realizzato nell’ambito di un progetto d’innovazione secondo l’articolo 19 o come provvedimento secondo l’articolo 20.
+#### Art. 22a
 
-<sup>4</sup> La durata del periodo di cui al capoverso 2 non può eccedere i tre anni.
+**Cooperazione con altri organi di ricerca**[^22a-1]
 
-<sup>5</sup> L’ammontare delle borse di studio, la partecipazione finanziaria delle imprese e le modalità di rimborso dei mutui senza interessi sono stabiliti nell’ordinanza sui sussidi di Innosuisse.
+<sup>1</sup> Nell’ambito dei suoi strumenti di cui agli articoli 19–21 Innosuisse può attuare provvedimenti di promozione comuni con altri organi di ricerca.
 
-[^22-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018, cpv. 5 in vigore dal 1° gen. 2017 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+<sup>2</sup> Le parti interessate disciplinano in regolamenti comuni le modalità di attuazione e le condizioni di promozione.
+
+[^22a-1]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 23
 
@@ -531,9 +579,13 @@ I contributi di cui al capoverso 1 sono accordati nell’ambito di un programma 
 
 <sup>1</sup> Nell’ambito delle sue attività di promozione, Innosuisse accorda ai centri di ricerca universitari e ai centri di ricerca extrauniversitari a scopo non lucrativo sussidi volti a compensare i costi indiretti di ricerca («overhead»).
 
-<sup>2</sup> Il Consiglio federale disciplina i principi del calcolo dei sussidi.
+<sup>1bis</sup> Se per i centri di competenza per la tecnologia sostenuti dalla Confederazione (art. 15 cpv. 3 lett. c) si prevede di fissare un’aliquota massima di sussidio più elevata rispetto a quella per gli altri centri di ricerca universitari e per i centri di ricerca extrauniversitari a scopo non lucrativo, il Consiglio federale presenta al Parlamento una proposta in tal senso con il limite di spesa di cui all’articolo 36 lettera c.[^23-2]
+
+<sup>2</sup> Per il resto il Consiglio federale disciplina i principi del calcolo dei sussidi.[^23-3]
 
 [^23-1]: Nuovo testo giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)).
+[^23-2]: Introdotto dal n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 24
 
@@ -617,25 +669,34 @@ Nell’ambito degli obiettivi superiori della politica internazionale nel settor
 Nei limiti dei crediti stanziati, il Consiglio federale può accordare i sussidi qui appresso e prevedere i seguenti provvedimenti:
 
 - a. sussidi a programmi e progetti di ricerca e tecnologici che permettono o facilitano la partecipazione svizzera a esperimenti e progetti di organizzazioni e programmi internazionali, come pure l’utilizzazione da parte svizzera di strutture di ricerca internazionali;
-- b. sussidi a centri di ricerca universitari e a centri di ricerca extrauniversitari a scopo non lucrativo, per permettere o facilitare la partecipazione svizzera a esperimenti e progetti di organizzazioni o programmi internazionali;
-- c. sussidi a centri di ricerca universitari per la cooperazione bilaterale o multilaterale nel settore della ricerca condotta al di fuori di programmi e organizzazioni internazionali; può esigere che le istituzioni beneficiarie forniscano adeguate prestazioni nell’interesse della politica internazionale della Svizzera in materia di ricerca e innovazione;
-- d.[^29-1] sussidi a imprese svizzere per l’elaborazione di proposte di progetti per la partecipazione ai programmi quadro di ricerca dell’Unione europea;
-- e.[^29-2] sussidi a imprese svizzere per promuovere la loro partecipazione a programmi quadro di ricerca dell’Unione europea, nonché a iniziative e programmi cofinanziati da tali programmi quadro, per quanto la partecipazione presupponga che le imprese ricevano un sussidio statale;
-- f.[^29-3]
+- b.[^29-1]
+
+  sussidi alle seguenti istituzioni per permettere o facilitare la partecipazione svizzera a esperimenti e progetti di organizzazioni o programmi internazionali:
+
+  - 1\. centri di ricerca universitari,
+  - 2\. centri di ricerca extrauniversitari a scopo non lucrativo,
+  - 3\. altre istituzioni a scopo non lucrativo che svolgono attività di ricerca in un settore specifico o che partecipano ad attività di ricerca;
+
+- c.[^29-2] sussidi alle istituzioni di cui alla lettera b per la cooperazione bilaterale o multilaterale nel settore della ricerca o per attività di ricerca specifiche all’estero condotte al di fuori di programmi e organizzazioni internazionali; il Consiglio federale può esigere che le istituzioni beneficiarie forniscano adeguate prestazioni nell’interesse della politica internazionale della Svizzera in materia di ricerca e innovazione;
+- d.[^29-3] sussidi a imprese svizzere per l’elaborazione di proposte di progetti per la partecipazione ai programmi quadro di ricerca dell’Unione europea;
+- e.[^29-4] sussidi a imprese svizzere per promuovere la loro partecipazione a programmi quadro di ricerca dell’Unione europea, nonché a iniziative e programmi cofinanziati da tali programmi quadro, per quanto la partecipazione presupponga che le imprese ricevano un sussidio statale;
+- f.[^29-5]
 
   sussidi a istituzioni e organizzazioni a scopo non lucrativo per le seguenti attività, nella misura in cui non vengono svolte direttamente dalla Confederazione:
 
   - 1\. informazione delle cerchie interessate in Svizzera su attività e programmi di cooperazione scientifica internazionale nel settore della ricerca e dell’innovazione,
   - 2\. consulenza e supporto alle cerchie interessate in Svizzera nell’elaborazione e nella presentazione di domande concernenti programmi e progetti internazionali nel settore della ricerca e dell’innovazione.
 
-- g.[^29-4] …
+- g.[^29-6] …
 
 <sup>2</sup> Il Consiglio federale disciplina il calcolo dei sussidi e la procedura.
 
-[^29-1]: Introdotta dal n. I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-2]: Introdotta dal n. I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
-[^29-3]: Originaria lett. d. Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^29-4]: Originaria lett. e. Abrogata dal n. I della LF del 30 set. 2016, con effetto dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^29-3]: Introdotta dal n. I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-4]: Introdotta dal n. I della LF del 27 set. 2013, in vigore dal 1° mar. 2014 ([RU 2014 463](https://fedlex.data.admin.ch/eli/oc/2014/79); [FF 2013 1687](https://fedlex.data.admin.ch/eli/fga/2013/360)).
+[^29-5]: Originaria lett. d. Nuovo testo giusta il n. I della LF del 30 set. 2016, in vigore dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
+[^29-6]: Originaria lett. e. Abrogata dal n. I della LF del 30 set. 2016, con effetto dal 1° mar. 2017 ([RU 2017 163](https://fedlex.data.admin.ch/eli/oc/2017/46); [FF 2016 2701](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 30
 
@@ -822,9 +883,10 @@ Se i risultati della ricerca finanziata in tutto o in parte dalla Confederazione
 
 <sup>2</sup> Gli organi di ricerca coordinano le attività tra di loro informandosi reciprocamente e tempestivamente.
 
-<sup>3</sup> Le istituzioni di promozione della ricerca, Innosuisse e l’Amministrazione federale, per quanto svolga compiti di promozione della ricerca o dell’innovazione, coordinano le loro attività armonizzando i provvedimenti di promozione e collaborando nell’ambito delle rispettive attività di promozione. Nei loro sforzi di coordinamento, tengono conto delle esigenze dell’insegnamento, della ricerca svolta senza l’aiuto della Confederazione, della ricerca condotta all’estero e del coordinamento secondo la LPSU[^40-1].
+<sup>3</sup> Le istituzioni di promozione della ricerca, Innosuisse[^40-1] e l’Amministrazione federale, per quanto svolga compiti di promozione della ricerca o dell’innovazione, coordinano le loro attività armonizzando i provvedimenti di promozione e collaborando nell’ambito delle rispettive attività di promozione. Nei loro sforzi di coordinamento, tengono conto delle esigenze dell’insegnamento, della ricerca svolta senza l’aiuto della Confederazione, della ricerca condotta all’estero e del coordinamento secondo la LPSU[^40-2].
 
-[^40-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^40-1]: Nuova espr. giusta l’all. n. 2 della L del 17 giu. 2016 su Innosuisse, in vigore dal 1° gen. 2018 ([RU 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712), [2017 131](https://fedlex.data.admin.ch/eli/oc/2017/39); [FF 2015 7833](https://fedlex.data.admin.ch/eli/fga/2015/2194)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^40-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
 
 ### Sezione 2: Coordinamento da parte del Consiglio federale
 
@@ -1046,7 +1108,9 @@ Su mandato del Consiglio federale o del DEFR, svolge i seguenti compiti:
 
 <sup>2</sup> Il CSS si compone di 10–15 membri. Questi dispongono di comprovate competenze interdisciplinari in materia di scienza, formazione professionale e innovazione.
 
-<sup>3</sup> Il CSS disciplina la sua organizzazione e la sua gestione in un regolamento. Questo sottostà all’approvazione del Consiglio federale.
+<sup>3</sup> Il CSS disciplina la sua organizzazione e la sua gestione in un’ordinanza. Questa sottostà all’approvazione del Consiglio federale.[^55-1]
+
+[^55-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Capitolo 7: Disposizioni finali
 
