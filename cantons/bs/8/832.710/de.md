@@ -4,13 +4,13 @@ number: "832.710"
 title: "Verordnung betreffend Ergänzungsleistungen und kantonale Beihilfen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: VELG
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-15
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-29
 adopted: 1989-12-12
 in_force: 1990-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/832.710"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5184/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5738/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ergänzungsleistungen zur AHV/ IV: Verordnung | AHV und IV / Alters- und Invalid
 
 (VELG)
 
-Vom 12. Dezember 1989 (Stand 1. Januar 2021)
+Vom 12. Dezember 1989 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -125,28 +125,28 @@ beschliesst:
 <sup>1</sup> Die Beträge für den allgemeinen Lebensbedarf für die kantonale Beihilfe an zu Hause Wohnende gemäss § 18 EG/ELG belaufen sich auf:
 
 - a) Alleinstehende
-  - aa) ohne Kinder — Fr. 20'610
-  - ab) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'260
-  - ac) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 6'840
-  - ad) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'420
-  - ae) 1. Kind vor dem 11. Altersjahr — Fr. 7'200
-  - af) 2. Kind vor dem 11. Altersjahr — Fr. 6'000
-  - ag) 3. Kind vor dem 11. Altersjahr — Fr. 5'000
-  - ah) 4. Kind vor dem 11. Altersjahr — Fr. 4'165
-  - ai) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'470
+  - aa) ohne Kinder — Fr. 21'100
+  - ab) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'515
+  - ac) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 7'010
+  - ad) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'505
+  - ae) 1. Kind vor dem 11. Altersjahr — Fr. 7'380
+  - af) 2. Kind vor dem 11. Altersjahr — Fr. 6'150
+  - ag) 3. Kind vor dem 11. Altersjahr — Fr. 5'125
+  - ah) 4. Kind vor dem 11. Altersjahr — Fr. 4'270
+  - ai) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'560
 - b) Ehepaare und eingetragene Partnerschaften
-  - ba) ohne Kinder — Fr. 30'915
-  - bb) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'260
-  - bc) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 6'840
-  - bd) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'420
-  - be) 1. Kind vor dem 11. Altersjahr — Fr. 7'200
-  - bf) 2. Kind vor dem 11. Altersjahr — Fr. 6'000
-  - bg) 3. Kind vor dem 11. Altersjahr — Fr. 5'000
-  - bh) 4. Kind vor dem 11. Altersjahr — Fr. 4'165
-  - bi) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'470
+  - ba) ohne Kinder — Fr. 31'650
+  - bb) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'515
+  - bc) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 7'010
+  - bd) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'505
+  - be) 1. Kind vor dem 11. Altersjahr — Fr. 7'380
+  - bf) 2. Kind vor dem 11. Altersjahr — Fr. 6'150
+  - bg) 3. Kind vor dem 11. Altersjahr — Fr. 5'125
+  - bh) 4. Kind vor dem 11. Altersjahr — Fr. 4'270
+  - bi) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'560
 - c) Waisen
-  - ca) nach dem 11. Altersjahr — Fr. 10'760
-  - cb) vor dem 11. Altersjahr — Fr. 7'700
+  - ca) nach dem 11. Altersjahr — Fr. 11'015
+  - cb) vor dem 11. Altersjahr — Fr. 7'880
 
 ### (I.)IX. Pflegebeihilfe
 
