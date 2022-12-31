@@ -3,10 +3,11 @@ canton: ZH
 number: "414.253.615"
 title: Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "105"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2023-04-01
 adopted: 2018-08-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_615-2018_08_23-2019_08_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_615-2018_08_23-2019_08_01-119.html"
 text: pdf
 ---
 
@@ -64,7 +65,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits werden während sechs Jahren 
 
 **1**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 ### B. Zulassung zum Studium
 
@@ -156,17 +157,17 @@ Der Mastertitel wird vergeben, wenn die Masterarbeit bestanden ist und insgesamt
 
 **3**
 
-- 1\. 7. 19 - 105 § 14. <sup>1</sup> Die Abschlussnote setzt sich aus allen promotionsrelevanten Modulnoten zusammen.
+- 1\. 1. 23 - 119 § 14. <sup>1</sup> Die Abschlussnote setzt sich aus allen promotionsrelevanten Modulnoten zusammen.
 
 **Abschlussnote**
 
 <sup>2</sup> Die Modulnoten werden nach ECTS-Credits gewichtet.
 
-#### § 15
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Sozialer Arbeit mit Vertiefung in Transitionen und Interventionen» abgeschlossen.
+§ 15.[^13-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Sozialer Arbeit mit Vertiefung in Transitionen und Interventionen» abgeschlossen.
+
+[^13-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### E. Schlussbestimmungen
 
@@ -191,3 +192,19 @@ Studierende, die ihr Studium vor dem Frühlingssemester 2016 begonnen haben, sch
 **Übergangsbestimmung vom 23. August 2018**
 
 Studierende, die ihr Studium bis Ende Frühlingssemester 2019 nicht abgeschlossen haben, werden in die Studienordnung vom 23. August 2018 überführt.
+
+[^18-1]: Eingefügt durch B vom 2. Juni 2022 (OS 77, 510; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+
+### Anhang zur Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
+
+[^18-1]
+
+Der Anhang zur Studienordnung für den Masterstudiengang in Sozialer Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
+
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
+
+bezogen oder unter www.zhaw.ch eingesehen werden.
+
+**5**
+
+- 1\. 1. 23 - 119
