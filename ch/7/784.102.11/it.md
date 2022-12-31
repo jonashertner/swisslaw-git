@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM del 18 novembre 2020 sull'utilizzazione dello spett
 short: OUUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2020-914-20230101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/it"
 
 (OUUS)
 
-del 18 novembre 2020 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 18 novembre 2020 (Stato 1° gennaio 2023)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -89,9 +89,9 @@ Le gamme di frequenze a disposizione dei titolari di un certificato di capacità
 <table>
 <tr><th>Ubicazione</th><th>Aggiunta per radiotelefonia</th><th>Aggiunta per telegrafia Morse</th></tr>
 <tr><td>Veicolo terrestre o battello della navigazione interna</td><td>«mobile»</td><td>«/M»</td></tr>
-<tr><td>Nave</td><td>««maritime mobile»</td><td>«/MM»</td></tr>
-<tr><td>Aeromobile</td><td>««aeronautical mobile»</td><td>«/AM»</td></tr>
-<tr><td>Altro luogo</td><td>««portable»</td><td>«/P»</td></tr>
+<tr><td>Nave</td><td>«maritime mobile»</td><td>«/MM»</td></tr>
+<tr><td>Aeromobile</td><td>«aeronautical mobile»</td><td>«/AM»</td></tr>
+<tr><td>Altro luogo</td><td>«portable»</td><td>«/P»</td></tr>
 </table>
 
 <sup>2</sup> Il titolare può utilizzare altre aggiunte se sono necessarie per l’esercizio e se sono separate dall’indicativo di chiamata con un trattino o una barra.
@@ -100,8 +100,8 @@ Le gamme di frequenze a disposizione dei titolari di un certificato di capacità
 
 Se esercita il suo impianto di radiocomunicazione nel Principato del Liechtenstein, il titolare di uno dei seguenti certificati di capacità deve anteporre al suo indicativo di chiamata l’aggiunta seguente:
 
-- a. certificati di capacità di cui all’articolo 44 capoverso 1 lettera a numeri 1–3 OUS: «HBØ/» (HB zero barra);
-- b. certificati di capacità di cui all’articolo 44 capoverso 1 lettera a numero 4 OUS: «HBØ/» (HB zero Yankee barra).
+- a. certificati di capacità di cui all’articolo 44 capoverso 1 lettera a numeri 1–3 OUS: «HBØ/» (HB zero barra obliqua);
+- b. certificati di capacità di cui all’articolo 44 capoverso 1 lettera a numero 4 OUS: «HBØY/» (HB zero Yankee barra obliqua).
 
 [^7-1]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
 
@@ -117,7 +117,7 @@ Se esercita il suo impianto di radiocomunicazione nel Principato del Liechtenste
 
 <sup>3</sup> All’esame è necessario portare con sé un documento personale ufficiale e una foto passaporto per il certificato di capacità di cui all’articolo 51 capoverso 1 lettere a–e OUS.
 
-<sup>4</sup> Gli apparecchi e i simulatori per effettuare gli esami pratici per l’ottenimento dei certificati di capacità di cui all’articolo 51 capoverso 1 lettere a e b OUS sono messi a disposizione dall’UFCOM.
+<sup>4</sup> Gli apparecchi e i simulatori per effettuare gli esami pratici per l’ottenimento dei certificati di capacità di cui all’articolo 1 capoverso 1 lettere a e b OUS sono messi a disposizione dall’UFCOM.
 
 <sup>5</sup> Gli esami non sono pubblici.
 
@@ -179,18 +179,18 @@ L’ordinanza dell’UFCOM del 9 marzo 2007[^15-1] sulla gestione delle frequenz
 
 La presente ordinanza entra in vigore il 1° gennaio 2021.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 cpv. 1)
 
-## Utilizzazioni di frequenze che non richiedono né una concessione, né una notifica preliminare, né un certificato di capacità conformemente all’articolo 8 capoverso 2 lettere a, b e d OUS****
+## Utilizzazioni di frequenze che non richiedono né una concessione, né una notifica preliminare, né un certificato di capacità conformemente all’articolo 8 capoverso 2 lettere a, b e d OUS
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFCOM dell’11 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2022 739](https://fedlex.data.admin.ch/eli/oc/2022/739)).
-[^annex1-lvlu1-1]: Il testo dell’all. 1 è pubblicato nella RU e nella RS mediante rimando (art. 5 cpv. 1 della legge del 18 giugno 2004 sulle pubblicazioni ufficiali [[RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Può essere ordinato gratuitamente presso l’Ufficio federale delle comunicazioni (UFCOM), Sezione KF-FK, rue de l’Avenir 44, casella postale 256, 2501 Bienne oppure consultato all’indirizzo www.ufcom.admin.ch &gt; Frequenze & antenne &gt; Utilizzo delle frequenze con o senza concessioni.
+[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFCOM dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS unicamente sotto forma di rinvio. È possibile consultarlo su: [https://fedlex.data.admin.ch/eli/oc/2022/671](https://fedlex.data.admin.ch/eli/oc/2022/671) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di un testo sotto forma di rinvio. Una copia stampata è ottenibile a pagamento presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna (www.pubblicazionifederali.admin.ch).
 
-Versione 4 dell’11 novembre 2021
+Versione 5 dell’8 novembre 2022
 
 Allegato 2
 
@@ -235,11 +235,13 @@ Allegato 3
 <tr><td>AIS</td><td>156.025 - 162.025 MHz</td><td>RIR0603-01</td></tr>
 </table>
 
-Allegato 4
+Allegato 4[^t-2]
 
 (art. 6)
 
 ## Utilizzazione di gamme di frequenze secondo l’articolo 44 OUS
+
+[^t-2]: Aggiornato dal n. I cpv. 2 dell’O dell’UFCOM dell’8 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
 
 ### 1. Gamme di frequenze per titolari di un certificato di capacità secondo l’articolo 44 capoverso 1 lettera a numeri 1–3 OUS
 
@@ -260,6 +262,8 @@ Allegato 4
 <tr><td>24890,000</td><td>–</td><td>24990,000 kHz</td><td>primaria</td><td>primaria</td><td>1000 W</td></tr>
 <tr><td>28000,000</td><td>–</td><td>29700,000 kHz</td><td>primaria</td><td>primaria</td><td>1000 W</td></tr>
 <tr><td>50,000</td><td>–</td><td>52,000 MHz</td><td>secondaria<sup>b</sup></td><td>non ammessa</td><td>100 W</td></tr>
+<tr><td>70,000</td><td>–</td><td>70,0375 MHz</td><td>secondaria<sup>b</sup></td><td>non ammessa</td><td>25 W ERP<sup>e</sup></td></tr>
+<tr><td>70,1125</td><td>–</td><td>70,500 MHz</td><td>secondaria<sup>b</sup></td><td>non ammessa</td><td>25 W ERP<sup>e</sup></td></tr>
 <tr><td>144,000</td><td>–</td><td>146,000 MHz</td><td>primaria</td><td>primaria</td><td>1000 W</td></tr>
 <tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>secondaria<sup>b</sup></td><td>non ammessa</td><td>1000 W</td></tr>
 <tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primaria</td><td>secondaria<sup>b</sup></td><td>1000 W</td></tr>
@@ -309,7 +313,7 @@ Allegato 5
 
 (art. 12)
 
-## Prescrizioni per l’esame volto all’ottenimento dei certificati di capacità secondo l’articolo 51 capoverso 1 OUS****
+## Prescrizioni per l’esame volto all’ottenimento dei certificati di capacità secondo l’articolo 51 capoverso 1 OUS
 
 [^annex4-lvlu2-1]
 

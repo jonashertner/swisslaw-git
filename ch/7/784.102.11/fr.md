@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 18 novembre 2020 sur l'utilisation du spectre d
 short: OOUS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/914"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2020-11-18
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/914/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-914-20230101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/914/20220101/fr"
 
 (OOUS)
 
-du 18 novembre 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 18 novembre 2020 (État le 1<sup>er</sup> janvier 2023)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -179,18 +179,18 @@ L’ordonnance de l’OFCOM du 9 mars 2007 sur la gestion des fréquences et les
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2021.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 1)
 
-## Utilisations de fréquences qui, en vertu de l’art. 8, al. 2, let. a, b et d, OUS, ne requièrent aucune concession, ni annonce préalable, ni certificat de capacité****
+## Utilisations de fréquences qui, en vertu de l’art. 8, al. 2, let. a, b et d, OUS, ne requièrent aucune concession, ni annonce préalable, ni certificat de capacité
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 11 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 739](https://fedlex.data.admin.ch/eli/oc/2021/739)).
-[^annex1-lvlu1-1]: Le texte de l’annexe 1 est publié dans le RO et dans le RS sous la forme d’un renvoi (art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles [[RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)]). Il peut être commandé gratuitement auprès de l’Office fédéral de la communication (OFCOM), section KF-FK, rue de l’Avenir 44, case postale 256, 2501 Bienne, ou être consulté à l’adresse www.ofcom.admin.ch &gt; Fréquences et antennes &gt; Utilisation des fréquences avec ou sans concessions.
+[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante : [https://fedlex.data.admin.ch/eli/oc/2022/671](https://fedlex.data.admin.ch/eli/oc/2022/671) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. Des tirés à part peuvent être obtenus contre paiement auprès de l’OFCL, Vente des publications fédérales, 3003 Berne (www.publicationsfederales.admin.ch).
 
-Version 4 du 11 novembre 2021
+Version 5 du 8 novembre 2022
 
 Annexe 2
 
@@ -235,11 +235,13 @@ Annexe 3
 <tr><td>AIS</td><td>156.025 – 162.025 MHz</td><td>RIR0603-01</td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-2]
 
 (art. 6)
 
 ## Utilisation des domaines de fréquences selon l’art. 44 OUS
+
+[^t-2]: Mise à jour par le ch. I al. 2 de l’O de l’OFCOM du 8 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 671](https://fedlex.data.admin.ch/eli/oc/2022/671)).
 
 ### 1. Domaines de fréquences utilisables par les titulaires d’un certificat de capacité selon l’art. 44, al. 1, let. a, ch. 1 à 3, OUS
 
@@ -260,6 +262,8 @@ Annexe 4
 <tr><td>24890,000</td><td>–</td><td>24990,000 kHz</td><td>primaire</td><td>primaire</td><td>1000 W</td></tr>
 <tr><td>28000,000</td><td>–</td><td>29700,000 kHz</td><td>primaire</td><td>primaire</td><td>1000 W</td></tr>
 <tr><td>50,000</td><td>–</td><td>52,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>100 W</td></tr>
+<tr><td>70,000</td><td>–</td><td>70,0375 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>25 W ERP<sup>e</sup></td></tr>
+<tr><td>70,1125</td><td>–</td><td>70,500 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>25 W ERP<sup>e</sup></td></tr>
 <tr><td>144,000</td><td>–</td><td>146,000 MHz</td><td>primaire</td><td>primaire</td><td>1000 W</td></tr>
 <tr><td>430,000</td><td>–</td><td>435,000 MHz</td><td>secondaire<sup>b</sup></td><td>non admis</td><td>1000 W</td></tr>
 <tr><td>435,000</td><td>–</td><td>438,000 MHz</td><td>primaire</td><td>secondaire<sup>b</sup></td><td>1000 W</td></tr>
