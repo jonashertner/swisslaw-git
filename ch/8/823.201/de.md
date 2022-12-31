@@ -4,11 +4,11 @@ title: Verordnung vom 21. Mai 2003 über die in die Schweiz entsandten Arbeitneh
 short: EntsV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: de
-version: 2020-04-01
+version: 2023-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2003-232-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2003-232-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20200401/de"
 
 (EntsV)
 
-vom 21. Mai 2003 (Stand am 1. April 2020)
+vom 21. Mai 2003 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat
 
@@ -165,7 +165,7 @@ Die Meldung muss auf einem offiziellen Formular erstattet werden. Sie muss entha
 [^6-5]: Eingefügt durch Ziff. I der V vom 16. April 2013, in Kraft seit 15. Mai 2013 ([AS 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
 [^6-6]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^6-7]: Eingefügt durch Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^6-8]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859), [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194), [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169), [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481), [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3,[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1,[2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3 [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4, [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Art. 23]. Siehe heute die V vom 12. April 2006 über das Zentrale Migrationsinformationssystem ([SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
+[^6-8]: [[AS 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194); [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169); [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481); [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 3;[2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)Art. 18 Ziff. 1;[2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)Ziff. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)Anhang Ziff. 4; [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Art. 23]. Siehe heute die V vom 12. April 2006 über das Zentrale Migrationsinformationssystem ([SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
 [^6-9]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^6-10]: Eingefügt durch Anhang 3 Ziff. 11 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, in Kraft seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
@@ -191,7 +191,7 @@ Die Kontrollorgane können vom ausländischen Arbeitgeber den Nachweis mittels e
 - b. der Arbeitgeber seiner Meldepflicht nach Artikel 6 des Gesetzes nicht unaufgefordert oder nur ungenügend nachgekommen ist;
 - c. andere Hinweise bestehen, welche bei der Behörde Zweifel über die Einhaltung des Gesetzes durch den Arbeitgeber aufkommen lassen.
 
-### 4. Abschnitt:**** Sorgfaltspflicht des Erstunternehmers bei der Weitervergabe von Arbeiten an Subunternehmer
+### 4. Abschnitt: Sorgfaltspflicht des Erstunternehmers bei der Weitervergabe von Arbeiten an Subunternehmer
 
 [^chap1-sec4-1]
 
@@ -215,7 +215,7 @@ Als Netto-Mindestlohn gilt der Mindestlohn nach Artikel 2 Absatz 1 Buchstabe a d
 
 <sup>1</sup>
 
-Der Erstunternehmer kann sich die Einhaltung der minimalen Lohnbedingungen gemäss Artikel 2 Absatz 1 Buchstabe a des Gesetzes durch den Subunternehmer insbesondere anhand der folgenden Dokumente darlegen lassen:
+Der Erstunternehmer kann sich die Einhaltung der minimalen Lohn- und Arbeitsbedingungen gemäss Artikel 2 Absatz 1 des Gesetzes durch den Subunternehmer insbesondere anhand der folgenden Dokumente darlegen lassen:[^8b-1]
 
 - a.
 
@@ -233,13 +233,8 @@ Der Erstunternehmer kann sich die Einhaltung der minimalen Lohnbedingungen gemä
   - 2\. der Angaben zur Einreihung in die Lohnklasse, zu den Mindestlöhnen und Arbeitszeiten gemäss dem anwendbaren allgemeinverbindlich erklärten Gesamtarbeitsvertrag,
   - 3\. der schriftlichen Bestätigung der Arbeitnehmerinnen und Arbeitnehmer, dass sie die für ihre Lohnklasse vorgeschriebene minimale Entlöhnung erhalten;
 
-- c. die Bestätigung der paritätischen Vollzugsorgane von allgemeinverbindlich erklärten Gesamtarbeitsverträgen, dass der Subunternehmer auf Einhaltung der Lohn- und Arbeitsbedingungen kontrolliert wurde und keine Verstösse festgestellt wurden;
-- d.
-
-  der Eintrag des Subunternehmers in einem von den Arbeitgebern und den Arbeitnehmerinnen und Arbeitnehmern oder von einer Behörde geführten Register (Berufsregister), welcher:
-
-  - 1\. aufgrund einer vorangehenden Kontrolle der Einhaltung der minimalen Lohn- und Arbeitsbedingungen erfolgt ist, und
-  - 2\. bestätigt, dass kein Verfahren wegen Verstosses gegen die minimalen Lohn- und Arbeitsbedingungen läuft und keine solchen Verstösse vorliegen.
+- c.[^8b-2] eine Bescheinigung der paritätischen Vollzugsorgane von allgemeinverbindlich erklärten Gesamtarbeitsverträgen, die Auskunft darüber gibt, ob der Subunternehmer kontrolliert wurde und ob er die Lohn- und Arbeitsbedingungen gemäss Artikel 2 Absatz 1 des Gesetzes einhält;
+- d.[^8b-3] der Eintrag des Subunternehmers in einem von den Arbeitgebern und den Arbeitnehmerinnen und Arbeitnehmern oder von einer Behörde geführten Register, der Auskunft darüber gibt, ob der Subunternehmer kontrolliert wurde und ob er die Lohn- und Arbeitsbedingungen gemäss Artikel 2 Absatz 1 des Gesetzes einhält.
 
 <sup>2</sup>
 
@@ -269,6 +264,10 @@ Als begründeter Anlass gelten insbesondere:
 - b. Änderungen in einem wesentlichen Teil der Stammbelegschaft in der Schweiz;
 - c. Änderungen in einem wesentlichen Teil der üblicherweise in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer;
 - d. ein Verstoss des Subunternehmers gegen zwingende Lohn- und Arbeitsbedingungen, von dem der Erstunternehmer Kenntnis hat.
+
+[^8b-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
 
 #### Art. 8c
 
@@ -397,7 +396,7 @@ Die tripartite Kommission kann Experten beiziehen. Sie kann zur Abklärung von b
 [^16-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 [^16-5]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 
-### 4. Abschnitt:**** Inspektorinnen und Inspektoren
+### 4. Abschnitt: Inspektorinnen und Inspektoren
 
 [^chap3-sec4-1]
 
@@ -467,7 +466,7 @@ Die Inspektionstätigkeit umfasst folgende Aufgaben:
 
 <sup>2</sup> Absatz 1 ist auch anwendbar, wenn eine Zusammenarbeit zwischen den kantonalen Behörden und den Sozialpartnern festgelegt wurde.
 
-### 5. Abschnitt:**** Anzahl Kontrollen
+### 5. Abschnitt: Anzahl Kontrollen
 
 [^chap3-sec5-1]
 
@@ -525,6 +524,6 @@ Das Staatsekretariat für Wirtschaft macht in einem Abrufverfahren eine Liste de
 
 <sup>2</sup> Die Artikel 1–9 sowie 17 und 18 treten am 1. Juni 2004 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 [^t-1]: Aufgehoben durch Anhang 3 Ziff. 11 der V vom 12. April 2006 über das Zentrale Migrationsinformationssystem, mit Wirkung seit 29. Mai 2006 ([AS 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).

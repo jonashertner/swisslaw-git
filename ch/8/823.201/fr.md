@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2003 sur les travailleurs détachés en Suisse (Odé
 short: Odét
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: fr
-version: 2020-04-01
+version: 2023-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-232-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-232-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20200401/fr"
 
 (Odét)
 
-du 21 mai 2003 (Etat le 1<sup>er</sup> avril 2020)
+du 21 mai 2003 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -167,7 +167,7 @@ L’annonce doit être faite au moyen d’un formulaire officiel. Elle porte en 
 [^6-7]: Introduit par le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^6-8]: [[RO 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859), [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194), [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169), [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481), [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 ch. 3, [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 ch. 1, [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)ch. II 3 [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)annexe ch. 4, [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)art. 23]. Voir actuellement O du 12 avr. 2006 sur le système d’information central sur la migration ([RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
 [^6-9]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^6-10]: Introduit par le ch. 11 de l’annexe 3 à l’O du 12 avr. 2006 sur le système d’information central sur la migration, en vigueur depuis le 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^6-10]: Introduit par l’annexe 3 ch. 11 de l’O du 12 avr. 2006 sur le système d’information central sur la migration, en vigueur depuis le 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
 #### Art. 7
 
@@ -191,7 +191,7 @@ Les organes de contrôle peuvent exiger de l’employeur étranger qu’il prouv
 - b. si l’employeur n’a pas satisfait spontanément ou n’a satisfait que de façon incomplète à l’obligation d’annoncer visée à l’art. 6 de la loi;
 - c. si d’autres éléments amènent l’autorité à douter que l’employeur ait respecté la loi.
 
-### Section 4**** Devoir de diligence de l’entrepreneur contractant lors de l’attribution de travaux à des sous-traitants
+### Section 4 Devoir de diligence de l’entrepreneur contractant lors de l’attribution de travaux à des sous-traitants
 
 [^chap1-sec4-1]
 
@@ -215,7 +215,7 @@ Le salaire minimum net est le salaire minimum selon l’art. 2, al. 1, let. a, d
 
 <sup>1</sup>
 
-L’entrepreneur contractant peut se faire présenter par le sous-traitant en particulier les documents suivants mettant en évidence que ce dernier respecte les conditions salariales minimales, conformément à l’art. 2, al. 1, let. a, de la loi:
+L’entrepreneur contractant peut se faire présenter par le sous-traitant en particulier les documents suivants mettant en évidence que ce dernier respecte les conditions minimales de salaire et de travail, conformément à l’art. 2, al. 1, de la loi:[^8b-1]
 
 - a.
 
@@ -233,13 +233,8 @@ L’entrepreneur contractant peut se faire présenter par le sous-traitant en pa
   - 2\. l’indication de l’affectation à la classe de salaire, des salaires minimaux et de la durée du travail fixés dans la convention collective de travail déclarée de force obligatoire applicable,
   - 3\. l’attestation écrite des travailleurs certifiant qu’ils reçoivent la rémunération minimale prescrite pour leur classe de salaire;
 
-- c. une attestation des organes d’exécution paritaires des conventions collectives de travail déclarées de force obligatoire applicables selon laquelle elles ont contrôlé le respect des conditions de salaire et de travail par le sous-traitant et qu’elles n’ont pas constaté d’infraction;
-- d.
-
-  la mention du sous-traitant dans un registre tenu par les employeurs et les travailleurs ou par une autorité (registre professionnel) qui:
-
-  - 1\. a été effectuée sur la base d’un contrôle préalable du respect des conditions minimales de salaire et de travail, et qui
-  - 2\. atteste l’absence de procédure en cours pour infraction à l’encontre des conditions minimales de salaire et de travail ainsi que l’absence de telles infractions.
+- c.[^8b-2] une attestation des organes d’exécution paritaires des conventions collectives de travail déclarées de force obligatoire, qui indique si le sous-traitant a été contrôlé et s’il respecte les conditions de salaire et de travail visées à l’art. 2, al. 1, de la loi;
+- d.[^8b-3] la mention du sous-traitant dans un registre tenu par les employeurs et les travailleurs ou par une autorité, qui indique si le sous-traitant a été contrôlé et s’il respecte les conditions de salaire et de travail visées à l’art. 2, al. 1, de la loi.
 
 <sup>2</sup>
 
@@ -269,6 +264,10 @@ Les occasions particulières sont notamment:
 - b. des modifications affectant une part importante du personnel régulier occupé en Suisse;
 - c. des modifications affectant une part importante des travailleurs habituellement détachés en Suisse;
 - d. la connaissance par l’entrepreneur contractant d’une infraction du sous-traitant à l’encontre des conditions impératives de salaire et de travail.
+
+[^8b-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
 
 #### Art. 8c
 
@@ -398,7 +397,7 @@ La commission tripartite peut faire appel à des experts. Elle peut créer des g
 [^16-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^16-5]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 
-### Section 4**** Inspecteurs
+### Section 4 Inspecteurs
 
 [^chap3-sec4-1]
 
@@ -468,7 +467,7 @@ Les activités de l’inspection portent sur les tâches suivantes:
 
 <sup>2</sup> L’al. 1 s’applique également lorsqu’une collaboration entre les autorités cantonales et les partenaires sociaux a été fixée.
 
-### Section 5**** Nombre de contrôles
+### Section 5 Nombre de contrôles
 
 [^chap3-sec5-1]
 
@@ -526,6 +525,6 @@ Le Secrétariat d’État à l’économie tient à jour une liste, accessible p
 
 <sup>2</sup> Les art. 1 à 9, 17 et 18 entrent en vigueur le 1<sup>er</sup> juin 2004.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
-[^t-1]: Abrogée par le ch. 11 de l’annexe 3 à l’O du 12 avr. 2006 sur le système d’information central sur la migration, avec effet au 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+[^t-1]: Abrogée par l’annexe 3 ch. 11 de l’O du 12 avr. 2006 sur le système d’information central sur la migration, avec effet au 29 mai 2006 ([RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).

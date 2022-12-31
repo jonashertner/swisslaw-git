@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2003 sui lavoratori distaccati in Svizzera (ODist
 short: ODist
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/232"
 language: it
-version: 2020-04-01
+version: 2023-01-01
 adopted: 2003-05-21
 in_force: 2003-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20200401/it/xml/fedlex-data-admin-ch-eli-cc-2003-232-20200401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20200401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/232/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2003-232-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/232/20200401/it"
 
 (ODist)
 
-del 21 maggio 2003 (Stato 1° aprile 2020)
+del 21 maggio 2003 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -165,7 +165,7 @@ La notifica avviene per mezzo di un modulo ufficiale. Essa comprende quanto segu
 [^6-5]: Introdotta dal n. I dell’O del 16 apr. 2013, in vigore dal 15 mag. 2013 ([RU 2013 1259](https://fedlex.data.admin.ch/eli/oc/2013/282)).
 [^6-6]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^6-7]: Introdotto dal n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^6-8]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859), [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194), [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169), [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481), [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3, [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1, [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 3 [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4, [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)art. 23]. Vedi ora l’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione ([RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
+[^6-8]: [[RU 1994 2859](https://fedlex.data.admin.ch/eli/oc/1994/2859_2859_2859); [1996 194](https://fedlex.data.admin.ch/eli/oc/1996/194_194_194); [1999 1240](https://fedlex.data.admin.ch/eli/oc/1999/169); [2001 3184](https://fedlex.data.admin.ch/eli/oc/2001/481); [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 3; [2003 1380](https://fedlex.data.admin.ch/eli/oc/2003/232)art. 18 n. 1; [2004 1569](https://fedlex.data.admin.ch/eli/oc/2004/186)n. II 3, [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 4; [2005 1321](https://fedlex.data.admin.ch/eli/oc/2005/203). [RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)art. 23]. Vedi ora l’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione ([RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)).
 [^6-9]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
 [^6-10]: Introdotto dall’all. 3 n. 11 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, in vigore dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
@@ -191,7 +191,7 @@ Gli organi di controllo possono esigere dal datore di lavoro estero l’esibizio
 - b. il datore di lavoro non soddisfa spontaneamente o soddisfa solo in modo incompleto all’obbligo di notifica ai sensi dell’articolo 6 della legge;
 - c. altri elementi fanno sorgere nell’autorità il dubbio sul mancato rispetto della legge da parte del datore di lavoro.
 
-### Sezione 4:**** Obbligo di diligenza dell’appaltatore primario nell’attribuzione di lavori ai subappaltatori
+### Sezione 4: Obbligo di diligenza dell’appaltatore primario nell’attribuzione di lavori ai subappaltatori
 
 [^chap1-sec4-1]
 
@@ -215,7 +215,7 @@ Gli organi di controllo possono esigere dal datore di lavoro estero l’esibizio
 
 <sup>1</sup>
 
-L’appaltatore primario può esigere che il subappaltatore dimostri che rispetta le condizioni salariali minime di cui all’articolo 2 capoverso 1 lettera a della legge in particolare sulla base dei seguenti documenti:
+L’appaltatore primario può esigere che il subappaltatore dimostri che rispetta le condizioni salariali e lavorative minime di cui all’articolo 2 capoverso 1 della legge in particolare sulla base dei seguenti documenti:[^8b-1]
 
 - a.
 
@@ -233,13 +233,8 @@ L’appaltatore primario può esigere che il subappaltatore dimostri che rispett
   - 2\. indicazioni concernenti l’assegnazione alla classe salariale, i salari minimi e i periodi di lavoro secondo il contratto collettivo di lavoro di obbligatorietà generale applicabile,
   - 3\. la conferma scritta dei lavoratori in cui dichiarano di ricevere la retribuzione minima prescritta per la loro classe salariale,
 
-- c. la conferma degli organi d’esecuzione paritetici previsti dai contratti collettivi di lavoro di obbligatorietà generale secondo cui il rispetto delle condizioni salariali e lavorative da parte del subappaltatore è stato controllato e non sono state riscontrate infrazioni;
-- d.
-
-  l’iscrizione del subappaltatore in un registro tenuto dai datori di lavoro e dai lavoratori o da un’autorità (registro professionale), che:
-
-  - 1\. è stata effettuata in seguito a un precedente controllo del rispetto delle condizioni salariali e lavorative minime, e
-  - 2\. attesta che non sono in corso procedimenti per infrazione alle condizioni salariali e lavorative minime e non sussistono simili infrazioni.
+- c.[^8b-2] un’attestazione degli organi d’esecuzione paritetici previsti dai contratti collettivi di lavoro di obbligatorietà generale, in cui figura se il subappaltatore è stato controllato e se rispetta le condizioni salariali e lavorative di cui all’articolo 2 capoverso 1 della legge;
+- d.[^8b-3] l’iscrizione del subappaltatore in un registro tenuto dai datori di lavoro e dai lavoratori o da un’autorità, in cui figura se il subappaltatore è stato controllato e se rispetta le condizioni salariali e lavorative di cui all’articolo 2 capoverso 1 della legge.
 
 <sup>2</sup>
 
@@ -269,6 +264,10 @@ Sono considerati casi motivati in particolare:
 - b. modifiche concernenti una parte sostanziale del personale fisso in Svizzera;
 - c. modifiche concernenti una parte sostanziale dei lavoratori abitualmente distaccati in Svizzera;
 - d. infrazioni a condizioni salariali e lavorative vincolanti commesse dal subappaltatore di cui l’appaltatore primario è a conoscenza.
+
+[^8b-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
+[^8b-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 779](https://fedlex.data.admin.ch/eli/oc/2022/779)).
 
 #### Art. 8c
 
@@ -398,7 +397,7 @@ La commissione tripartita può valersi dei servizi di periti. Può creare gruppi
 [^16-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
 [^16-5]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5655](https://fedlex.data.admin.ch/eli/oc/2009/682)).
 
-### Sezione 4:**** Ispettori
+### Sezione 4: Ispettori
 
 [^chap3-sec4-1]
 
@@ -468,7 +467,7 @@ L’attività d’ispezione comprende i seguenti compiti:
 
 <sup>2</sup> Il capoverso 1 si applica anche nel caso in cui sia stata stabilita una collaborazione tra le autorità cantonali e gli interlocutori sociali.
 
-### Sezione 5:**** Numero di controlli
+### Sezione 5: Numero di controlli
 
 [^chap3-sec5-1]
 
@@ -526,6 +525,6 @@ Il Segretariato di Stato dell’economia rende accessibile, mediante procedura d
 
 <sup>2</sup> Gli articoli 1–9 e 17–18 entrano in vigore il 1° giugno 2004.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 [^t-1]: Abrogato dall’all. 3 n. 11 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
