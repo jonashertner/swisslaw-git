@@ -4,13 +4,13 @@ number: "640.1"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz; StG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-27
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-22
 adopted: 1992-09-14
 in_force: 1993-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/640.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2184/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2769/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ StG
 
 (Steuergesetz; StG)
 
-vom 14.09.1992 (Stand 01.01.2022)
+vom 14.09.1992 (Stand 01.01.2023)
 
 ## 1. Teil: Staatssteuern
 
@@ -395,6 +395,10 @@ vom 14.09.1992 (Stand 01.01.2022)
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>8</sup> Absatz 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach Artikel 653s bis Artikel 653v des Obligationenrechts (OR)[^22-1] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbandes übersteigen.
+
+[^22-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
 #### § 22a
 
 **Besondere Fälle**
@@ -597,18 +601,18 @@ vom 14.09.1992 (Stand 01.01.2022)
 
 #### § 36
 
-**Sozialabzüge**
+**Sozialabzüge[^36-1]**
 
 <sup>1</sup> …
 
 <sup>2</sup> Vom Reineinkommen werden abgezogen:
 
 - 1\. für nicht selbständig besteuerte, für in Ausbildung stehende oder erwerbsunfähige Kinder, für deren Unterhalt der Steuerpflichtige aufkommt,
-  - a. je Kind — Fr. 7'000;
-  - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'000;
-  - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'000;
-- 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Abs. 2 Ziff. 1 gewährt wird, — Fr. 2'600;
-- 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'000; beträgt das Reineinkommen mehr als Fr. 16'000, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 23'000, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
+  - a. je Kind — Fr. 7'200
+  - b. der Abzug erhöht sich für jedes in Ausbildung stehende Kind nach Vollendung des 16. Altersjahres auf — Fr. 8'200
+  - c. und nach Vollendung des 20. Altersjahres bis höchstens zum vollendeten 26. Altersjahr auf — Fr. 10'300
+- 2\. für erwerbsunfähige und unterstützungsbedürftige Personen, für deren Unterhalt der Steuerpflichtige zur Hauptsache aufkommt; der Abzug kann nicht beansprucht werden für den Ehegatten und für Kinder, für die ein Abzug nach Abs. 2 Ziff. 1 gewährt wird, — Fr. 2'700
+- 3\. von im AHV-Alter stehenden, erwerbsunfähigen oder verwitweten Steuerpflichtigen Fr. 4'100; beträgt das Reineinkommen mehr als Fr. 16'400, bei Steuerpflichtigen in ungetrennter Ehe mehr als Fr. 23'600, ermässigt sich der Abzug je Fr. 1'000 Mehreinkommen um Fr. 200
 - 4\.–5. …
 
 <sup>3</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgesetzt.
@@ -621,24 +625,28 @@ vom 14.09.1992 (Stand 01.01.2022)
 
 <sup>7</sup> Erhält ein Elternteil für die unter seiner elterlichen Sorge stehenden Kinder Unterhaltsbeiträge, die er gemäss § 25 Ziff. 5 zu versteuern hat, stehen die Abzüge gemäss Abs. 2 Ziff. 1 ihm zu. Bei getrennt besteuerten Pflichtigen mit gemeinsamer elterlicher Sorge regelt der Regierungsrat die Zuteilung der Abzüge.
 
+[^36-1]: Anpassung der Beträge gemäss § 40 Abs. 2 StG und § 1 der Verordnung über den Ausgleich der kalten Progression (VAKP; RB [640.13](https://www.rechtsbuch.tg.ch/data/640.13/de)).
+
 ### 1.2.2.5. Steuerberechnung
 
 #### § 37
 
-**Tarif**
+**Tarif [^37-1]**
 
 <sup>1</sup> Die einfache Steuer vom Einkommen beträgt:
 
-- 1\. Fr. 0 bis Fr. 11'700 und 2 % für den Mehrbetrag
-- 2\. Fr. 46 bis Fr. 14'000 und 3 % für den Mehrbetrag
-- 3\. Fr. 106 bis Fr. 16'000 und 4 % für den Mehrbetrag
-- 4\. Fr. 186 bis Fr. 18'000 und 5 % für den Mehrbetrag
-- 5\. Fr. 286 bis Fr. 20'000 und 6 % für den Mehrbetrag
-- 6\. Fr. 1'186 bis Fr. 35'000 und 7% für den Mehrbetrag
-- 7\. Fr. 4'336 bis Fr. 80'000 und 7,5 % für den Mehrbetrag
-- 8\. Fr. 9'586 bis Fr. 150'000 und 8 % für den Mehrbetrag.
+- 1\. Fr. 0 bis Fr. 12'000 und 2 % für den Mehrbetrag
+- 2\. Fr. 46 bis Fr. 14'300 und 3 % für den Mehrbetrag
+- 3\. Fr. 109 bis Fr. 16'400 und 4 % für den Mehrbetrag
+- 4\. Fr. 189 bis Fr. 18'400 und 5 % für den Mehrbetrag
+- 5\. Fr. 294 bis Fr. 20'500 und 6 % für den Mehrbetrag
+- 6\. Fr. 1'218 bis Fr. 35'900 und 7 % für den Mehrbetrag
+- 7\. Fr. 4'445 bis Fr. 82'000 und 7.5 % für den Mehrbetrag
+- 8\. Fr. 9'837.50 bis Fr. 153'900 und 8 % für den Mehrbetrag
 
 <sup>2</sup> Für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, wird der Steuersatz ermittelt, indem das steuerbare Einkommen durch den Divisor 2,0 geteilt wird. Massgebend sind die Verhältnisse am Ende der Steuerperiode oder der Steuerpflicht.
+
+[^37-1]: Anpassung der Beträge gemäss § 40 Abs. 2 StG und § 2 der Verordnung über den Ausgleich der kalten Progression (VAKP; RB [640.13](https://www.rechtsbuch.tg.ch/data/640.13/de)).
 
 #### § 38
 
@@ -1348,6 +1356,8 @@ vom 14.09.1992 (Stand 01.01.2022)
 
 <sup>3</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
 
+<sup>4</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 #### § 106
 
 **Bemessung des Eigenkapitals**
@@ -1355,6 +1365,8 @@ vom 14.09.1992 (Stand 01.01.2022)
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
 
 <sup>2</sup> Bei unter- oder überjährigen Geschäftsabschlüssen wird eine der Dauer des Geschäftsjahres entsprechende Kapitalsteuer erhoben.
+
+<sup>3</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### § 107
 
@@ -1918,6 +1930,14 @@ vom 14.09.1992 (Stand 01.01.2022)
 
 <sup>1</sup> Die Steuerverwaltung regelt die Voraussetzungen für den elektronischen Austausch von Daten zwischen den Steuerpflichtigen und den Steuerbehörden, insbesondere für die elektronische Einreichung der Steuererklärung.
 
+<sup>2</sup> Die Steuererklärung samt Beilagen kann elektronisch eingereicht werden. Anstelle der persönlichen Unterzeichnung hat die steuerpflichtige Person elektronisch zu bestätigen, dass ihre Angaben vollständig und wahrheitsgetreu sind.
+
+<sup>3</sup> Weitere Eingaben wie Einsprachen oder Gesuche können ebenfalls elektronisch eingereicht werden. Anstelle der persönlichen Unterzeichnung hat die steuerpflichtige Person elektronisch zu bestätigen, dass ihre Angaben vollständig und wahrheitsgetreu sind.
+
+<sup>4</sup> Die Steuerbehörden können der steuerpflichtigen Person mit deren Einverständnis Unterlagen und Entscheide in elektronischer Form zustellen.
+
+<sup>5</sup> Bei der Datenübermittlung sind die Authentizität und Integrität zu beachten. Der Regierungsrat regelt die Einzelheiten.
+
 ### 1.7.1<sup>bis</sup> Elektronische Erfassung und Aufbewahrung
 
 #### § 153b
@@ -1978,13 +1998,16 @@ vom 14.09.1992 (Stand 01.01.2022)
 
 **Beilagen zur Steuererklärung**
 
-<sup>1</sup> Natürliche Personen haben der Steuererklärung insbesondere beizulegen:
+<sup>1</sup> Natürliche Personen müssen der Steuererklärung insbesondere beilegen:
 
 - 1\. Lohnausweise über alle Einkünfte aus unselbständiger Erwerbstätigkeit;
 - 2\. Ausweise über Bezüge als Mitglied der Verwaltung oder eines anderen Organs einer juristischen Person;
 - 3\. Verzeichnisse über sämtliche Wertschriften, Forderungen und Schulden.
 
-<sup>2</sup> Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen haben der Steuererklärung die unterzeichneten Jahresrechnungen der Bemessungsperiode oder, wenn nicht buchführungspflichtig, Aufstellungen über Aktiven und Passiven, Einnahmen und Ausgaben sowie Privatentnahmen und Privateinlagen beizulegen.
+<sup>2</sup> Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen müssen der Steuererklärung beilegen:
+
+- 1\. die unterzeichneten Jahresrechnungen (Bilanzen, Erfolgsrechnungen) der Steuerperiode oder
+- 2\. bei vereinfachter Buchführung nach Artikel 957 Absatz 2 OR Aufstellungen über Einnahmen und Ausgaben, über die Vermögenslage sowie über Privatentnahmen und -einlagen der Steuerperiode.
 
 #### § 157
 
