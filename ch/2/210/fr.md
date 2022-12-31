@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (Etat le 1<sup>er</sup> juillet 2022)
+du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -653,7 +653,7 @@ Si l’absent reparaît avant l’expiration du délai, si l’on a de ses nouve
 
 [^38-1]: Introduit par le ch. I 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Chapitre II:**** Des actes de l’état civil
+### Chapitre II: Des actes de l’état civil
 
 [^book1-tit1-chap2-1]
 
@@ -954,7 +954,7 @@ Les personnes morales ont l’exercice des droits civils dès qu’elles possèd
 
 Le siège des personnes morales est, sauf disposition contraire des statuts, au siège de leur administration.
 
-[^56-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^56-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### E. Suppression de la personnalité
 
@@ -1002,7 +1002,7 @@ Les biens des personnes morales sont liquidés en conformité des règles applic
 
 [^book1-tit2-chap2-lvlA-lvlII-1]
 
-[^book1-tit2-chap2-lvlA-lvlII-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^book1-tit2-chap2-lvlA-lvlII-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 61
 
@@ -1013,11 +1013,34 @@ Les biens des personnes morales sont liquidés en conformité des règles applic
 Est tenue de s’inscrire toute association:
 
 - 1\. qui, pour atteindre son but, exerce une industrie en la forme commerciale;
-- 2\. qui est soumise à l’obligation de faire réviser ses comptes.[^61-1]
+- 2\. qui est soumise à l’obligation de faire réviser ses comptes;
+- 3\.[^61-1] qui, à titre principal, collecte ou distribue directement ou indirectement des fonds à l’étranger à des fins caritatives, religieuses, culturelles, éducatives ou sociales.[^61-2]
 
-<sup>3</sup> Les statuts et l’état des membres de la direction sont joints à la demande d’inscription.
+<sup>2bis</sup> Le Conseil fédéral édicte les dispositions d’exécution concernant l’inscription obligatoire au registre du commerce.[^61-3]
 
-[^61-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2ter</sup> Il peut exempter des associations visées à l’al. 2, ch. 3, de l’obligation de s’inscrire si, compte tenu, en particulier, du montant des fonds collectés ou distribués, de la provenance ou de la destination des fonds collectés ou distribués ou de l’affectation des fonds collectés ou distribués, elles présentent un risque faible d’être exploitées à des fins de blanchiment d’argent ou de financement du terrorisme.[^61-4]
+
+<sup>3</sup> …[^61-5]
+
+[^61-1]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^61-3]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-4]: Introduit par l’annexe ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-5]: Abrogé par l’annexe 1 ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II*a.* Liste des membres
+
+#### Art. 61a
+
+[^61a-1]
+
+<sup>1</sup> Les associations tenues de s’inscrire au registre du commerce tiennent une liste des membres où sont mentionnés soit le prénom et le nom soit la raison sociale et l’adresse de chaque membre.
+
+<sup>2</sup> Elles tiennent cette liste de manière qu’il soit possible d’y accéder en tout temps en Suisse.
+
+<sup>3</sup> Elles conservent les informations relatives à chaque membre et les éventuelles pièces justificatives pendant cinq ans après la radiation du membre concerné.
+
+[^61a-1]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### III. Associations sans personnalité
 
@@ -1089,11 +1112,15 @@ Tout sociétaire est de par la loi privé de son droit de vote dans les décisio
 
 [^book1-tit2-chap2-lvlB-lvlII-lvl1-1]
 
-[^book1-tit2-chap2-lvlB-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^book1-tit2-chap2-lvlB-lvlII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 69
 
-La direction a le droit et le devoir de gérer les affaires de l’association et de la représenter en conformité des statuts.
+<sup>1</sup> La direction a le droit et le devoir de gérer les affaires de l’association et de la représenter en conformité des statuts.
+
+<sup>2</sup> Les associations tenues de s’inscrire au registre du commerce doivent pouvoir être représentées par une personne domiciliée en Suisse. Cette personne doit avoir accès à la liste des membres.[^69-1]
+
+[^69-1]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Comptabilité
 
@@ -1126,7 +1153,7 @@ L’association doit soumettre sa comptabilité au contrôle ordinaire d’un or
 
 <sup>4</sup> Dans les autres cas, les statuts et l’assemblée générale peuvent organiser le contrôle librement.
 
-[^69b-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^69b-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^69b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### IV. Carences dans l’organisation de l’association
@@ -1135,7 +1162,7 @@ L’association doit soumettre sa comptabilité au contrôle ordinaire d’un or
 
 [^69c-1]
 
-<sup>1</sup> Lorsque l’association ne possède pas l’un des organes prescrits ou n’a plus de domicile à son siège, un membre ou un créancier peut requérir du tribunal qu’il prenne les mesures nécessaires.[^69c-2]
+<sup>1</sup> Lorsque l’association ne possède pas l’un des organes prescrits, ne tient pas la liste des membres selon l’art. 61*a* ou n’a plus de domicile à son siège, un membre ou un créancier peut requérir du tribunal qu’il prenne les mesures nécessaires.[^69c-2]
 
 <sup>2</sup> Le juge peut notamment fixer à l’association un délai pour régulariser sa situation; si nécessaire, il nomme un commissaire.
 
@@ -1143,8 +1170,18 @@ L’association doit soumettre sa comptabilité au contrôle ordinaire d’un or
 
 <sup>4</sup> Pour de justes motifs, l’association peut demander au juge de révoquer une personne qu’il a nommée.
 
-[^69c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69c-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^69c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^69c-2]: Nouvelle teneur selon l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### B<sup>bis</sup>. Menace d’insolvabilité et surendettement
+
+#### Art. 69d
+
+[^69d-1]
+
+Les dispositions du droit de la société anonyme régissant la menace d’insolvabilité et le surendettement ainsi que la réévaluation des immeubles et des participations s’appliquent par analogie aux associations tenues de requérir leur inscription au registre du commerce.
+
+[^69d-1]: Introduit par l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Sociétaires
 
@@ -1304,7 +1341,7 @@ L’organe suprême de la fondation tient les livres de la fondation. Les dispos
 
 <sup>4</sup> Lorsque la fondation est tenue à un contrôle restreint, l’autorité de surveillance peut exiger un contrôle ordinaire, si cela est nécessaire pour révéler l’état du patrimoine et les résultats de la fondation.
 
-[^83b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^83b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^83b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### 2. Rapports avec l’autorité de surveillance
@@ -1315,7 +1352,7 @@ L’organe suprême de la fondation tient les livres de la fondation. Les dispos
 
 L’organe de révision transmet à l’autorité de surveillance une copie du rapport de révision ainsi que de l’ensemble des communications importantes adressées à la fondation.
 
-[^83c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^83c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### IV. Carences dans l’organisation de la fondation
 
@@ -1336,7 +1373,7 @@ Lorsque l’organisation prévue par l’acte de fondation n’est pas suffisant
 
 <sup>4</sup> Pour de justes motifs, la fondation peut demander à l’autorité de surveillance de révoquer une personne qu’elle a nommée.
 
-[^83d-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^83d-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^83d-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 mars 2017 (Droit du registre du commerce), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 3255](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
 ### C. Surveillance
@@ -1351,27 +1388,32 @@ Lorsque l’organisation prévue par l’acte de fondation n’est pas suffisant
 
 [^84-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### C<sup>bis</sup>. Mesures en cas de surendettement et d’insolvabilité
+### C<sup>bis</sup>. Menace d’insolvabilité et surendettement
 
 #### Art. 84a
 
 [^84a-1]
 
-<sup>1</sup> Si des raisons sérieuses laissent craindre que la fondation est surendettée ou qu’elle est insolvable à long terme, l’organe suprême de la fondation dresse un bilan intermédiaire fondé sur la valeur vénale des biens et le soumet pour examen à l’organe de révision. Si la fondation n’a pas d’organe de révision, l’organe suprême de la fondation soumet le bilan intermédiaire à l’autorité de surveillance
+<sup>1</sup> En cas de menace d’insolvabilité ou de surendettement, l’organe suprême de la fondation en avise sans délai l’autorité de surveillance.
 
-<sup>2</sup> Si l’organe de révision constate que la fondation est surendettée ou qu’elle est insolvable à long terme, il remet le bilan intermédiaire à l’autorité de surveillance.
+<sup>2</sup> Si l’organe de révision constate que la fondation est insolvable ou surendettée, il en informe l’autorité de surveillance.
 
-<sup>3</sup> L’autorité de surveillance ordonne à l’organe suprême de la fondation de prendre les mesures nécessaires. S’il ne le fait pas, l’autorité de surveillance prend elle-même les mesures qui s’imposent.
+<sup>3</sup> L’autorité de surveillance ordonne à l’organe suprême de la fondation de prendre les mesures nécessaires. S’il ne le fait pas, l’autorité de surveillance prend elle-même les mesures qui s’imposent ou avise le tribunal.
 
-<sup>4</sup> Au besoin, l’autorité de surveillance demande que des mesures d’exécution forcée soient prises; les dispositions du droit des sociétés anonymes relatives à l’ouverture ou l’ajournement de la faillite sont applicables par analogie.
+<sup>4</sup> Les dispositions du droit de la société anonyme régissant le surendettement ainsi que la réévaluation des immeubles et des participations sont applicables par analogie.
 
-[^84a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations), en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84a-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations) ([RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### C<sup>ter</sup>. Publicité des indemnités
 
 #### Art. 84b
 
 [^84b-1]
 
-[^84b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Abrogé par l’annexe ch.1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+L’organe suprême de la fondation communique tous les ans à l’autorité de surveillance séparément le montant global des indemnités au sens de l’art. 734*a*, al. 2, du code des obligations[^84b-2] qui lui ont été versées directement ou indirectement ainsi qu’à l’éventuelle direction.
+
+[^84b-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Droit des fondations; [RO 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7425](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7463](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### D. Modification
 
@@ -1495,7 +1537,7 @@ L’autorité fédérale ou cantonale compétente prononce la dissolution de la 
 
 <sup>6</sup>
 
-Les fondations de prévoyance en faveur du personnel dont l’activité s’étend au domaine de la prévoyance vieillesse, survivants et invalidité et qui sont soumises à la loi du 17 décembre 1993 sur le libre passage (LFLP)[^89a-6] sont en outre régies par les dispositions suivantes de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^89a-7] sur:[^89a-8]
+Les fondations de prévoyance en faveur du personnel dont l’activité s’étend au domaine de la prévoyance vieillesse, survivants et invalidité et qui sont soumises à la loi du 17 décembre 1993 sur le libre-passage (LFLP)[^89a-6] sont en outre régies par les dispositions suivantes de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP)[^89a-7] sur:[^89a-8]
 
 - 1\.[^89a-9] la définition et les principes de la prévoyance professionnelle et le salaire ou le revenu assuré (art. 1, 33*a* et 33*b*),
 - 2\.[^89a-10] l’assujettissement des personnes à l’AVS (art. 5, al. 1),
@@ -1519,12 +1561,12 @@ Les fondations de prévoyance en faveur du personnel dont l’activité s’éte
 - 15\. la transparence (art. 65*a*),
 - 16\. les réserves (art. 65*b*),
 - 17\. les contrats d’assurance entre institutions de prévoyance et institutions d’assurance (art. 68, al. 3 et 4),
-- 18\. l’administration de la fortune (art. 71),
+- 18\.[^89a-23] l’administration de la fortune (art. 71) et l’obligation de voter en qualité d’actionnaire (art. 71*a* et 71*b*);
 - 19\. le contentieux (art. 73 et 74),
 - 20\. les dispositions pénales (art. 75 à 79),
 - 21\. le rachat (art. 79*b*),
 - 22\. le salaire et le revenu assurable (art. 79*c*),
-- 23\. l’information des assurés (art. 86*b*).[^89a-23]
+- 23\. l’information des assurés (art. 86*b*).[^89a-24]
 
 <sup>7</sup>
 
@@ -1539,7 +1581,7 @@ Les fondations de prévoyance en faveur du personnel dont l’activité s’éte
 - 7\. la surveillance et la haute surveillance (art. 61 à 62*a* et 64 à 64*b*);
 - 8\. le contentieux (art. 73 et 74);
 - 9\. les dispositions pénales (art. 75 à 79);
-- 10\. le traitement fiscal (art. 80, 81, al. 1, et 83).[^89a-24]
+- 10\. le traitement fiscal (art. 80, 81, al. 1, et 83).[^89a-25]
 
 <sup>8</sup>
 
@@ -1547,7 +1589,7 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 
 - 1\. elles administrent leur fortune de manière à garantir la sécurité des placements, un rendement raisonnable et à disposer des liquidités nécessaires à l’exécution de leurs tâches;
 - 2\. l’autorité de surveillance décide, sur demande du conseil de fondation, de la liquidation partielle des fonds patronaux de prévoyance à prestations discrétionnaires;
-- 3\. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation.[^89a-25]
+- 3\. elles tiennent compte, par analogie, des principes de l’égalité de traitement et de l’adéquation.[^89a-26]
 
 [^89a-1]: Introduit par le ch. II de la LF du 21 mars 1958, en vigueur depuis le 1<sup>er</sup> juil. 1958 ([RO 1958 389](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [FF 1956 II 845](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Jusqu’à l’entrée en vigueur de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation) le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
 [^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1571,11 +1613,12 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 [^89a-20]: Nouvelle teneur selon le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-21]: Abrogé par le ch. II 1 de la LF du 19 mars 2010 (Réforme structurelle), avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-22]: Nouvelle teneur selon le ch. II 1 de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-23]: Introduit par le 1 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité ([RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 117](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), ch. 6, 7, 10 à 12, 14 ( à l’exception de l’art. 66 al. 4), 15, 17 à 20 et 23 en vigueur depuis le 1<sup>er</sup> avr. 2004, ch. 3 à 5, 8 et 9 13 14 (art. 66 al. 4), 16 en vigueur depuis le 1<sup>er</sup> janv. 2005, ch. 1, 21 et 22 en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-24]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-23]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-24]: Introduit par le 1 de la LF du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité ([RO 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 117](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), ch. 6, 7, 10 à 12, 14 ( à l’exception de l’art. 66 al. 4), 15, 17 à 20 et 23 en vigueur depuis le 1<sup>er</sup> avr. 2004, ch. 3 à 5, 8 et 9 13 14 (art. 66 al. 4), 16 en vigueur depuis le 1<sup>er</sup> janv. 2005, ch. 1, 21 et 22 en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-25]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-26]: Introduit par le ch. I de la LF du 25 sept. 2015 (Fondations de prévoyance en faveur du personnel), en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5929](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6399](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
-### Titre deuxième<sup>bis</sup>:**** Des fonds recueillis
+### Titre deuxième<sup>bis</sup>: Des fonds recueillis
 
 [^book1-tit2bis-1]
 
@@ -1603,7 +1646,7 @@ Les fondations de prévoyance visées à l’al. 7 sont en outre régies par les
 
 ### Première partie: Des époux
 
-### Titre troisième:**** Du mariage
+### Titre troisième: Du mariage
 
 [^book2-part1-tit3-1]
 
@@ -1867,7 +1910,7 @@ Un époux peut demander l’annulation du mariage:
 
 [^110-1]: Abrogé par l’annexe ch. II 3 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Titre quatrième:**** Du divorce et de la séparation de corps
+### Titre quatrième: Du divorce et de la séparation de corps
 
 [^book2-part1-tit4-1]
 
@@ -1975,7 +2018,17 @@ L’époux qui a changé de nom lors de la conclusion du mariage conserve ce nom
 
 <sup>1</sup> La liquidation du régime matrimonial est soumise aux dispositions sur le régime matrimonial.
 
-<sup>2</sup> Les époux divorcés cessent d’être les héritiers légaux l’un de l’autre et perdent tous les avantages résultant de dispositions pour cause de mort faites avant la litispendance de la procédure de divorce.
+<sup>2</sup> Les époux divorcés cessent d’être les héritiers légaux l’un de l’autre.[^120-1]
+
+<sup>3</sup>
+
+Sauf clause contraire, les époux perdent tous les avantages résultant de dispositions pour cause de mort:
+
+- 1\. au moment du divorce;
+- 2\. au moment du décès si une procédure de divorce entraînant la perte de la réserve du conjoint survivant est pendante.[^120-2]
+
+[^120-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^120-2]: Introduit par le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### C. Logement de la famille
 
@@ -2152,7 +2205,7 @@ Par convention, les époux peuvent exclure complètement ou partiellement la mod
 
 #### Art. 128
 
-Le juge peut décider que la contribution d’entretien sera augmentée ou réduite d’office en fonction de variations déterminées du coût de la vie.
+Le juge peut décider que la contribution d’entretien sera augmentée ouréduite d’office en fonction de variations déterminées du coût de la vie.
 
 ### 3. Modification par le juge
 
@@ -2259,7 +2312,7 @@ Le juge règle les droits et les devoirs des père et mère conformément aux di
 
 Abrogés
 
-### Titre cinquième:**** Des effets généraux du mariage
+### Titre cinquième: Des effets généraux du mariage
 
 [^book2-part1-tit5-1]
 
@@ -2506,7 +2559,7 @@ Lorsqu’un époux ne satisfait pas à son devoir d’entretien, le juge peut pr
 
 [^180-1]: Abrogé par l’annexe ch. 2 de la LF du 24 mars 2000 sur les fors, avec effet au 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 
-### Titre sixième:**** Du régime matrimonial
+### Titre sixième: Du régime matrimonial
 
 [^book2-part1-tit6-1]
 
@@ -2868,13 +2921,22 @@ Sont réunis aux acquêts, en valeur:
 
 <sup>1</sup> Par contrat de mariage, les époux peuvent convenir d’une autre participation au bénéfice.
 
-<sup>2</sup> Ces conventions ne peuvent porter atteinte à la réserve des enfants non communs et de leurs descendants.
+<sup>2</sup> La participation au bénéfice attribuée en sus de la moitié n’est pas prise en compte pour le calcul des réserves héréditaires du conjoint ou du partenaire enregistré survivant ainsi que des enfants communs et de leurs descendants.[^216-1]
+
+<sup>3</sup> Une telle convention ne peut porter atteinte à la réserve des enfants non communs et de leurs descendants.[^216-2]
+
+[^216-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^216-2]: Introduit par le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### b. En cas de divorce, de séparation de corps, de nullité de mariage ou de séparation de biens judiciaire
 
 #### Art. 217
 
-En cas de dissolution du régime pour cause de divorce, de séparation de corps, de nullité de mariage ou de séparation de biens judiciaire, les clauses qui modifient la participation légale au bénéfice ne s’appliquent pas, à moins que le contrat de mariage ne prévoie expressément le contraire.
+<sup>1</sup> En cas de dissolution du régime pour cause de divorce, de séparation de corps, de nullité de mariage ou de séparation de biens judiciaire, les clauses qui modifient la participation légale au bénéfice ne s’appliquent pas, à moins que le contrat de mariage ne prévoie expressément le contraire.
+
+<sup>2</sup> Il en va de même en cas de dissolution du régime pour cause de décès, lorsqu’une procédure de divorce entraînant la perte de la réserve du conjoint survivant est pendante.[^217-1]
+
+[^217-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### VI. Règlement de la créance de participation et de la part à la plus-value
 
@@ -3099,6 +3161,10 @@ Les biens communs existant à la dissolution sont estimés à leur valeur à l�
 
 <sup>3</sup> Ces conventions ne peuvent porter atteinte à la réserve des descendants.
 
+<sup>4</sup> Sauf clause contraire du contrat de mariage, la modification du partage légal ne s’applique pas en cas de décès lorsqu’une procédure de divorce entraînant la perte de la réserve du conjoint survivant est pendante.[^241-1]
+
+[^241-1]: Introduit par le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
 ### 2. Dans les autres cas
 
 #### Art. 242
@@ -3179,13 +3245,13 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 ### Deuxième partie: Des parents
 
-### Titre septième: De l’établissement de la filiation****
+### Titre septième: De l’établissement de la filiation
 
 [^book2-part2-tit7-1]
 
 [^book2-part2-tit7-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapitre I: Dispositions générales****
+### Chapitre I: Dispositions générales
 
 [^book2-part2-tit7-chap1-1]
 
@@ -3220,7 +3286,7 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 [^254-1]: Abrogé par l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Chapitre II: De la parentalité de l’époux ou de l’épouse****
+### Chapitre II: De la parentalité de l’époux ou de l’épouse
 
 [^book2-part2-tit7-chap2-1]
 
@@ -3230,9 +3296,9 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 ### I. De la parentalité de l’époux
 
-[^book2-part2-tit7-chap2-lvlI-1]
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3263,9 +3329,9 @@ Lorsqu’un bien est en copropriété, un époux peut, à la dissolution du rég
 
 ### I. Qualité pour agir
 
-[^book2-part2-tit7-chap2-lvlC-lvlI-1]
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlC-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Mariage pour tous), en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 8127](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1223](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -3375,7 +3441,7 @@ La reconnaissance peut être attaquée:
 
 [^259-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapitre III: De la reconnaissance et du jugement de paternité****
+### Chapitre III: De la reconnaissance et du jugement de paternité
 
 [^book2-part2-tit7-chap3-1]
 
@@ -3489,7 +3555,7 @@ L’action peut être intentée avant ou après la naissance de l’enfant, mais
 
 [^263-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapitre IV:**** De l’adoption
+### Chapitre IV: De l’adoption
 
 [^book2-part2-tit7-chap4-1]
 
@@ -3912,13 +3978,13 @@ L’action doit être intentée dans les six mois à compter du jour où le moti
 [^269c-2]: Nouvelle teneur selon le ch. I 2 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^269c-3]: Abrogé par l’annexe ch. 15 de la LF du 17 juin 2005 sur le TAF, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Titre huitième: Des effets de la filiation****
+### Titre huitième: Des effets de la filiation
 
 [^book2-part2-tit8-1]
 
 [^book2-part2-tit8-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapitre I: De la communauté entre les père et mère et les enfants****
+### Chapitre I: De la communauté entre les père et mère et les enfants
 
 [^book2-part2-tit8-chap1-1]
 
@@ -4061,7 +4127,7 @@ Les père et mère et l’enfant se doivent mutuellement l’aide, les égards e
 
 [^275a-1]: Introduit par le ch. I 4 de la LF du 26 juin 1998, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Chapitre II: De l’obligation d’entretien des père et mère****
+### Chapitre II: De l’obligation d’entretien des père et mère
 
 [^book2-part2-tit8-chap2-1]
 
@@ -4364,7 +4430,7 @@ La mère non mariée peut demander au père de l’enfant ou à ses héritiers, 
 [^295-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^295-2]: Nouvelle teneur selon l’annexe 1 ch. II 3 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Chapitre III: De l’autorité parentale****
+### Chapitre III: De l’autorité parentale
 
 [^book2-part2-tit8-chap3-1]
 
@@ -4747,7 +4813,7 @@ Un parent exerçant conjointement l’autorité parentale ne peut modifier le li
 
 Si d’autres mesures de protection de l’enfant sont demeurées sans résultat ou paraissent d’emblée insuffisantes, l’autorité de protection de l’enfant prononce le retrait de l’autorité parentale:[^311-2]
 
-- 1\. [^311-3] lorsque, pour cause d’inexpérience, de maladie, d’infirmité, d’absence, de violence ou d’autres motifs analogues, les père et mère ne sont pas en mesure d’exercer correctement l’autorité parentale;
+- 1\.[^311-3] lorsque, pour cause d’inexpérience, de maladie, d’infirmité, d’absence, de violence ou d’autres motifs analogues, les père et mère ne sont pas en mesure d’exercer correctement l’autorité parentale;
 - 2\. lorsque les père et mère ne se sont pas souciés sérieusement de l’enfant ou qu’ils ont manqué gravement à leurs devoirs envers lui.
 
 <sup>2</sup> Si le père et la mère sont déchus de l’autorité parentale, un tuteur est nommé à l’enfant.
@@ -4988,7 +5054,7 @@ Les cantons assurent, par des dispositions appropriées, une collaboration effic
 
 [^317-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapitre IV: Des biens des enfants****
+### Chapitre IV: Des biens des enfants
 
 [^book2-part2-tit8-chap4-1]
 
@@ -5128,7 +5194,7 @@ Dès que l’autorité parentale ou l’administration des père et mère prend 
 
 [^327-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapitre V:**** Des mineurs sous tutelle
+### Chapitre V: Des mineurs sous tutelle
 
 [^book2-part2-tit8-chap5-1]
 
@@ -5416,7 +5482,7 @@ L’indivision cesse:
 
 [^359-1]: Abrogé par le ch. II 21 de la LF du 15 déc. 1989 relative à l’approbation d’actes législatifs des cantons par la Confédération, avec effet au 1<sup>er</sup> fév. 1991 ([RO 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1293](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### Troisième partie:**** De la protection de l’adulte
+### Troisième partie: De la protection de l’adulte
 
 [^book2-part3-1]
 
@@ -6729,11 +6795,11 @@ Toute personne capable de discernement et âgée de 18 ans révolus a la facult�
 
 #### Art. 470
 
-<sup>1</sup> Celui qui laisse des descendants, ses père et mère, son conjoint ou son partenaire enregistré, a la faculté de disposer pour cause de mort de ce qui excède le montant de leur réserve.[^470-1]
+<sup>1</sup> Celui qui laisse des descendants, son conjoint ou son partenaire enregistré a la faculté de disposer pour cause de mort de ce qui excède le montant de leur réserve.[^470-1]
 
 <sup>2</sup> En dehors de ces cas, il peut disposer de toute la succession.
 
-[^470-1]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^470-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Réserve
 
@@ -6741,36 +6807,42 @@ Toute personne capable de discernement et âgée de 18 ans révolus a la facult�
 
 [^471-1]
 
-La réserve est:
+La réserve est de la moitié du droit de succession.
 
-- 1\. pour un descendant, des trois quarts de son droit de succession;
-- 2\. pour le père ou la mère, de la moitié;
-- 3\.[^471-2] pour le conjoint ou le partenaire enregistré survivant, de la moitié.
+[^471-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
-[^471-1]: Nouvelle teneur selon le ch. I 2 de la LF du 5 oct. 1984, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^471-2]: Nouvelle teneur selon l’annexe ch. 8 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### III. ...
+### III. Perte de la réserve en cas de procédure de divorce
 
 #### Art. 472
 
 [^472-1]
 
-[^472-1]: Abrogé par le ch. I 2 de la LF du 5 oct. 1984, avec effet au 1<sup>er</sup> janv. 1988 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>1</sup>
 
-### IV. Libéralités en faveur du conjoint survivant
+Le conjoint survivant perd sa réserve si au moment du décès une procédure de divorce est pendante et que:
+
+- 1\. la procédure a été introduite sur requête commune ou s’est poursuivie conformément aux dispositions relatives au divorce sur requête commune, ou
+- 2\. les époux ont vécu séparés durant deux ans au moins.
+
+<sup>2</sup> Dans un tel cas, les réserves se calculent comme si le défunt n’avait pas été marié.
+
+<sup>3</sup> Les al. 1 et 2 s’appliquent par analogie à la procédure de dissolution du partenariat enregistré.
+
+[^472-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### IV. Usufruit
 
 #### Art. 473
 
-<sup>1</sup> L’un des conjoints peut, par disposition pour cause de mort, laisser au survivant l’usufruit de toute la part dévolue à leurs enfants communs.[^473-1]
+[^473-1]
 
-<sup>2</sup> Cet usufruit tient lieu du droit de succession attribué par la loi au conjoint survivant en concours avec ces descendants. Outre cet usufruit, la quotité disponible est d’un quart de la succession.[^473-2]
+<sup>1</sup> Quel que soit l’usage qu’il fait de la quotité disponible, le conjoint ou le partenaire enregistré peut, par disposition pour cause de mort, laisser au survivant l’usufruit de toute la part dévolue à leurs descendants communs.
 
-<sup>3</sup> Si le conjoint survivant se remarie, son usufruit cesse de grever pour l’avenir la partie de la succession qui, au décès du testateur, n’aurait pas pu être l’objet du legs d’usufruit selon les règles ordinaires sur les réserves des descendants.[^473-3]
+<sup>2</sup> Cet usufruit tient lieu du droit de succession attribué par la loi au conjoint ou au partenaire enregistré survivant en concours avec ces descendants. Outre cet usufruit, la quotité disponible est de la moitié de la succession.
 
-[^473-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [FF 2001 1057](https://fedlex.data.admin.ch/eli/fga/2001/194)[1901](https://fedlex.data.admin.ch/eli/fga/2001/443)[1999](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-2]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [FF 2001 1057](https://fedlex.data.admin.ch/eli/fga/2001/194)[1901](https://fedlex.data.admin.ch/eli/fga/2001/443)[1999](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-3]: Nouvelle teneur selon le ch. I 2 de la LF du 5 oct. 1984, en vigueur depuis le 1<sup>er</sup> janv. 1988 ([RO 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1179](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>3</sup> Si le conjoint survivant se remarie ou conclut un partenariat enregistré, son usufruit cesse de grever pour l’avenir la partie de la succession qui, au décès du testateur, n’aurait pas pu être l’objet du legs d’usufruit selon les règles ordinaires sur les réserves des descendants. Cette disposition s’applique par analogie lorsque le partenaire enregistré survivant conclut un nouveau partenariat enregistré ou se marie.
+
+[^473-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### V. Calcul de la quotité disponible
 
@@ -6788,11 +6860,17 @@ La réserve est:
 
 Les libéralités entre vifs s’ajoutent aux biens existants, dans la mesure où elles sont sujettes à réduction.
 
-### 3. Assurances en cas de décès
+### 3. Assurances en cas de décès et prévoyance individuelle liée
 
 #### Art. 476
 
-Les assurances en cas de décès constituées sur la tête du défunt et qu’il a contractées ou dont il a disposé en faveur d’un tiers, par acte entre vifs ou pour cause de mort, ou qu’il a cédées gratuitement à une tierce personne de son vivant, ne sont comprises dans la succession que pour la valeur de rachat calculée au moment de la mort.
+[^476-1]
+
+<sup>1</sup> Les assurances en cas de décès constituées sur la tête du défunt, y compris dans le cadre de la prévoyance individuelle liée, qu’il a contractées ou dont il a disposé en faveur d’un tiers par acte entre vifs ou pour cause de mort, ou qu’il a cédées gratuitement à une tierce personne de son vivant, ne sont ajoutées à la succession que pour la valeur de rachat calculée au moment de la mort.
+
+<sup>2</sup> Sont également ajoutées à la succession les prétentions des bénéficiaires résultant de la prévoyance individuelle liée du défunt auprès d’une fondation bancaire.
+
+[^476-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### B. Exhérédation
 
@@ -6985,7 +7063,14 @@ Le disposant peut désigner une ou plusieurs personnes qui recueilleront la succ
 
 <sup>2</sup> Il continue à disposer librement de ses biens.
 
-<sup>3</sup> Peuvent être attaquées toutefois les dispositions pour cause de mort et les donations inconciliables avec les engagements résultant du pacte successoral.
+<sup>3</sup>
+
+Peuvent toutefois être attaquées les dispositions pour cause de mort et les libéralités entre vifs qui excèdent les présents d’usage, dans la mesure:
+
+- 1\. où elles sont inconciliables avec les engagements résultant du pacte successoral, notamment lorsqu’elles réduisent les avantages résultant de ce dernier, et
+- 2\. où elles n’ont pas été réservées dans ce pacte.[^494-1]
+
+[^494-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Pacte de renonciation
 
@@ -7269,15 +7354,29 @@ Lorsque l’indication de l’année, du mois ou du jour de l’établissement d
 
 #### Art. 522
 
-<sup>1</sup> Les héritiers qui ne reçoivent pas le montant de leur réserve ont l’action en réduction jusqu’à due concurrence contre les libéralités qui excédent la quotité disponible.
+[^522-1]
 
-<sup>2</sup> Les clauses relatives aux lots des héritiers légaux sont tenues pour de simples règles de partage, si la disposition ne révèle pas une intention contraire de son auteur.
+<sup>1</sup>
 
-### 2. Libéralités en faveur de réservataires
+Les héritiers qui reçoivent en valeur un montant inférieur à leur réserve ont l’action en réduction, jusqu’à ce que la réserve soit reconstituée, contre:
+
+- 1\. les acquisitions pour cause de mort résultant de la loi;
+- 2\. les libéralités pour cause de mort, et
+- 3\. les libéralités entre vifs.
+
+<sup>2</sup> Les dispositions pour cause de mort relatives aux lots des héritiers légaux sont tenues pour de simples règles de partage si elles ne révèlent pas une intention contraire de leur auteur.
+
+[^522-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### 2. Réservataires
 
 #### Art. 523
 
-Les libéralités faites par disposition pour cause de mort à quelques-uns des héritiers réservataires, et qui dépassent la quotité disponible, sont réductibles entre cohéritiers proportionnellement au montant de ce qui excède leur réserve.
+[^523-1]
+
+Les acquisitions pour cause de mort résultant de la loi et les libéralités pour cause de mort dont bénéficient les héritiers réservataires sont réductibles proportionnellement au montant de ce qui excède leur réserve.
+
+[^523-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 3. Droit des créanciers d’un héritier
 
@@ -7324,11 +7423,17 @@ Sont sujettes à réduction comme les libéralités pour cause de mort:
 
 <sup>2</sup> Si la partie gratifiée dans un pacte successoral a subi une réduction, elle est autorisée à répéter une part proportionnelle des contre-prestations faites au disposant.
 
-### 4. Assurances en cas de décès
+### 4. Assurances en cas de décès et prévoyance individuelle liée
 
 #### Art. 529
 
-Les assurances en cas de décès constituées sur la tête du défunt et qu’il a contractées ou dont il a disposé en faveur d’un tiers par acte entre vifs ou pour cause de mort, ou qu’il a cédées gratuitement à une tierce personne de son vivant, sont sujettes à réduction pour leur valeur de rachat.
+[^529-1]
+
+<sup>1</sup> Les assurances en cas de décès constituées sur la tête du défunt, y compris dans le cadre de la prévoyance individuelle liée, qu’il a contractées ou dont il a disposé en faveur d’un tiers par acte entre vifs ou pour cause de mort, ou qu’il a cédées gratuitement à une tierce personne de son vivant, sont sujettes à réduction pour leur valeur de rachat.
+
+<sup>2</sup> Sont également sujettes à réduction les prétentions des bénéficiaires résultant de la prévoyance individuelle liée du défunt auprès d’une fondation bancaire.
+
+[^529-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 5. À l’égard des libéralités d’usufruit ou de rente
 
@@ -7350,7 +7455,25 @@ Toutes clauses de substitution sont nulles à l’égard de l’héritier, dans 
 
 #### Art. 532
 
-La réduction s’exerce en première ligne sur les dispositions pour cause de mort, puis sur les libéralités entre vifs, en remontant de la libéralité la plus récente à la plus ancienne jusqu’à ce que la réserve soit reconstituée.
+[^532-1]
+
+<sup>1</sup>
+
+La réduction s’exerce dans l’ordre suivant jusqu’à ce que la réserve soit reconstituée:
+
+- 1\. sur les acquisitions pour cause de mort résultant de la loi;
+- 2\. sur les libéralités pour cause de mort;
+- 3\. sur les libéralités entre vifs.
+
+<sup>2</sup>
+
+Les libéralités entre vifs sont réduites dans l’ordre suivant:
+
+- 1\. les libéralités accordées par contrat de mariage ou par convention sur les biens qui sont prises en compte pour le calcul des réserves;
+- 2\. les libéralités librement révocables et les prestations de la prévoyance individuelle liée, dans une même proportion;
+- 3\. les autres libéralités, en remontant de la plus récente à la plus ancienne.
+
+[^532-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020 (Droit des successions), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 5865](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### IV. Prescription
 
@@ -9428,7 +9551,7 @@ La législation cantonale peut accorder à des voisins ou à d’autres personne
 
 L’expropriation du terrain situé autour de sources qui dépendent d’un service d’alimentation peut être demandée dans la mesure où elle est nécessaire pour empêcher que ces sources ne soient souillées.
 
-### Chapitre III: De la propriété par étages****
+### Chapitre III: De la propriété par étages
 
 [^book4-part1-tit19-chap3-1]
 
@@ -11176,7 +11299,7 @@ Les artisans et entrepreneurs au bénéfice d’hypothèques légales séparéme
 
 <sup>3</sup> Dès que le début des travaux a été mentionné au registre foncier sur l’avis d’un ayant droit, et jusqu’à la fin du délai d’inscription, aucun gage immobilier ne peut être inscrit, si ce n’est sous forme d’hypothèque.
 
-### Chapitre III:**** De la cédule hypothécaire
+### Chapitre III: De la cédule hypothécaire
 
 [^book4-part2-tit22-chap3-1]
 
@@ -11396,11 +11519,11 @@ Si le créancier ne se fait pas connaître dans les six mois et qu’il résulte
 
 #### Art. 865
 
-1 Lorsqu’un titre est perdu ou qu’il a été détruit sans intention d’éteindre la dette, le créancier peut requérir du juge qu’il en prononce l’annulation et en exige le paiement ou, si la créance n’est pas encore exigible, qu’il délivre un nouveau titre.
+<sup>1</sup> Lorsqu’un titre est perdu ou qu’il a été détruit sans intention d’éteindre la dette, le créancier peut requérir du juge qu’il en prononce l’annulation et en exige le paiement ou, si la créance n’est pas encore exigible, qu’il délivre un nouveau titre.
 
-2 L’annulation a lieu de la manière prescrite pour les titres au porteur; le délai d’opposition est de six mois.
+<sup>2</sup> L’annulation a lieu de la manière prescrite pour les titres au porteur; le délai d’opposition est de six mois.
 
-3 Le débiteur a pareillement le droit de faire prononcer l’annulation d’un titre acquitté qui ne peut être représenté.
+<sup>3</sup> Le débiteur a pareillement le droit de faire prononcer l’annulation d’un titre acquitté qui ne peut être représenté.
 
 #### Art. 866 à 874
 
@@ -11625,7 +11748,7 @@ L’engagement subséquent d’une créance déjà grevée d’un droit de gage 
 
 [^book4-part2-tit23-chap2-lvlC-lvlII-1]
 
-[^book4-part2-tit23-chap2-lvlC-lvlII-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^book4-part2-tit23-chap2-lvlC-lvlII-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 905
 
@@ -11633,7 +11756,7 @@ L’engagement subséquent d’une créance déjà grevée d’un droit de gage 
 
 <sup>2</sup> Les parts sociales d’une société à responsabilité limitée données en gage sont représentées dans l’assemblée des associés par l’associé lui-même et non par le créancier gagiste.[^905-1]
 
-[^905-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^905-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### III. Administration et remboursement
 
@@ -12085,21 +12208,27 @@ Le Conseil fédéral règle:
 
 [^949a-1]: Introduit par le ch. I de la LF du 4 oct. 1991 ([RO 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 889](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2003 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5423](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-### 4*a*. ...
+### 4*a*. Identifiant des personnes dans le registre foncier
 
 #### Art. 949b
 
 [^949b-1]
 
-[^949b-1]: Pas encore en vigueur ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+<sup>1</sup> Afin d’identifier les personnes, les offices du registre foncier utilisent de manière systématique le numéro AVS.
 
-### 4*b*. ...
+<sup>2</sup> Ils ne communiquent le numéro AVS qu’à d’autres services et institutions qui en ont besoin pour accomplir leurs tâches légales en relation avec le registre foncier et qui sont habilités à l’utiliser de manière systématique.
+
+[^949b-1]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+
+### 4*b*. Recherche d’immeubles sur tout le pays
 
 #### Art. 949c
 
 [^949c-1]
 
-[^949c-1]: Pas encore en vigueur ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+Le Conseil fédéral règle la recherche sur tout le pays, par les autorités qui y sont habilitées, des immeubles sur lesquels une personne identifiée sur la base du numéro AVS détient des droits.
+
+[^949c-1]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 (Enregistrement de l’état civil et registre foncier), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3395](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 4*c*. Recours à des délégataires privés dans l’exploitation du registre foncier informatisé
 
@@ -12210,7 +12339,7 @@ Les cantons qui tiennent le registre foncier au moyen de l’informatique peuven
 
 <sup>2</sup>
 
-A qualité pour recourir:
+À qualité pour recourir:
 
 - 1\. toute personne atteinte de manière particulière par une décision de l’office du registre foncier et ayant un intérêt digne de protection à ce qu’elle soit annulée ou modifiée;
 - 2\. l’autorité de surveillance administrative du canton dans la mesure où le droit cantonal lui accorde un droit de recours;
@@ -12679,7 +12808,7 @@ Les effets juridiques de faits qui se sont passés sous l’empire de la loi anc
 
 [^u1-chap1-lvlB-lvlIII-lvl1-1]
 
-[^u1-chap1-lvlB-lvlIII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^u1-chap1-lvlB-lvlIII-lvl1-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 6b
 
@@ -12696,6 +12825,16 @@ Les effets juridiques de faits qui se sont passés sous l’empire de la loi anc
 [^u1-6b-1]: Anciennement art. 7, puis 6*a*.
 [^u1-6b-2]: Introduit par le ch. I 1 de la LF du 12 déc. 2014 sur la mise en oeuvre des recommandations du Groupe d’action financière, révisées en 2012, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 585](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
+### 1*a*. Associations tenues de s’inscrire au registre du commerce
+
+#### Art. 6b<sup>bis</sup>
+
+[^u1-6bbis-1]
+
+Les associations existantes visées à l’art. 61, al. 2, doivent se conformer aux prescriptions des art. 61*a* et 69, al. 2, dans les 18 mois suivant l’entrée en vigueur de la modification du 19 mars 2021. Les associations existantes visées à l’art. 61, al. 2, ch. 3, doivent en outre, dans le même délai, s’inscrire au registre du commerce.
+
+[^u1-6bbis-1]: Introduit par l’annexe 1 ch. 1 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 5237](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ### 2. Comptabilité et organe de révision
 
 #### Art. 6c
@@ -12704,7 +12843,7 @@ Les effets juridiques de faits qui se sont passés sous l’empire de la loi anc
 
 Les dispositions de la modification du 16 décembre 2005[^u1-6c-2] concernant la comptabilité et l’organe de révision sont applicables dès l’exercice qui commence avec l’entrée en vigueur de la présente loi ou qui la suit.
 
-[^u1-6c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janvier 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^u1-6c-1]: Introduit par l’annexe ch. 1 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^u1-6c-2]: [RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ### IV. Protection de la personnalité contre la violence, les menaces et le harcèlement
@@ -13784,7 +13923,7 @@ Le code fédéral des obligations du 14 juin 1881[^u1-60-5].
 
 [^u1-61-1]: Nouvelle numérotation des quatre derniers articles, par suite de l’abrogation des art. 58 et 59 du texte original, selon le ch. I des disp. trans. CO, en vigueur depuis le 1<sup>er</sup> janv. 1912 ([RO 27 321](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); RS **2** 189; [FF 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 747](https://fedlex.data.admin.ch/eli/fga/1909/3__747_), [1911 I 695](https://fedlex.data.admin.ch/eli/fga/1911/1__695_)).
 
-## Teneur des anciennes dispositions du titre sixième****
+## Teneur des anciennes dispositions du titre sixième
 
 [^u2-1]
 

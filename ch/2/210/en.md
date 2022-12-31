@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 July 2022)
+of 10 December 1907 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -673,7 +673,7 @@ If the missing person comes forward within the set period or if news of the miss
 
 [^38-1]: Inserted by No I 4 of the FA of 26 June 1998, in force since 1 Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Chapter Two:**** Registration of Civil Status
+### Chapter Two: Registration of Civil Status
 
 [^book1-tit1-chap2-1]
 
@@ -887,7 +887,7 @@ In particular it regulates:
 
 <sup>2.</sup> the use of the OASI number[^48-1] in accordance with Article 50*c* of the Federal Act of 20 December 1946[^48-2] on the Old-Age and Survivors' Insurance for the purpose of electronic data exchange between official registers of persons;
 
-<sup>3.</sup> the maintenance of the register;
+\3. the maintenance of the register;
 
 - 4\. supervision.[^48-3]
 
@@ -1029,11 +1029,34 @@ The procedure for liquidating the assets of the legal entity is governed by the 
 The association must be registered if it:
 
 - 1\. conducts a commercial operation in pursuit of its objects;
-- 2\. is subject to an audit requirement.[^61-1]
+- 2\. is subject to an audit requirement;
+- 3\.[^61-1] primarily collects or distributes assets abroad, directly or indirectly, that are intended for charitable, religious, cultural, educational or social purposes.[^61-2]
 
-<sup>3</sup> The articles of association and a list of committee members must be enclosed with the application for registration.
+<sup>2bis</sup> The Federal Council shall issue the implementing provisions on the requirement to be entered in the commercial register.[^61-3]
 
-[^61-1]: Amended by Annex No 1 of the FA of 16 Dec. 2005 (Law on limited liability companies and modifications to the law on companies limited by shares, cooperatives, the commercial register and company names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2ter</sup> It may exempt associations in accordance with paragraph 2 number 3 from the requirement to be registered in particular if they are exposed to a low risk of abuse for the purpose of money laundering or the financing of terrorism because of the amount, origin, purpose or intended use of the assets collected or distributed.[^61-4]
+
+<sup>3</sup> ...[^61-5]
+
+[^61-1]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-2]: Amended by Annex No 1 of the FA of 16 Dec. 2005 (Law on limited liability companies and modifications to the law on companies limited by shares, cooperatives, the commercial register and company names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^61-3]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-4]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-5]: Repealed by Annex No 1 of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II*a*. List of members
+
+#### Art. 61a
+
+[^61a-1]
+
+<sup>1</sup> Associations that must be entered in the commercial register shall keep a list of their members, including their first and surnames, business names and addresses.
+
+<sup>2</sup> They shall keep the list so that it may be accessed at any time in Switzerland.
+
+<sup>3</sup> They shall retain the details of each member and any supporting documents for five years after the member has been removed from the list.
+
+[^61a-1]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### III. Associations lacking legal personality
 
@@ -1109,7 +1132,11 @@ Each member is by law excluded from voting on any resolution concerning a transa
 
 #### Art. 69
 
-The committee is entitled and obliged as defined under the articles of association to manage and represent the association.
+<sup>1</sup> The committee is entitled and obliged according to the powers that it is granted under the articles of association to manage and represent the association.
+
+<sup>2</sup> Associations that must be entered in the commercial register must be able to be represented by a person who is domiciled in Switzerland. This person must have access to the list of members.[^69-1]
+
+[^69-1]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Accounting
 
@@ -1152,7 +1179,7 @@ The association must submit its accounts to a full audit by external auditors if
 
 [^69c-1]
 
-<sup>1</sup> If the association lacks one of the prescribed governing bodies or if it is no longer legally domiciled at its seat, a member or a creditor may apply to the court for an order that the necessary measures be taken.[^69c-2]
+<sup>1</sup> If the association lacks one of the prescribed governing bodies or the list of members in accordance with Article 61*a* or if it is no longer legally domiciled at its seat, a member or a creditor may apply to the court for an order that the necessary measures be taken.[^69c-2]
 
 <sup>2</sup> In particular, the court may set the association a time limit in which to restore the situation required by law and may, if necessary, appoint an administrator.
 
@@ -1161,7 +1188,17 @@ The association must submit its accounts to a full audit by external auditors if
 <sup>4</sup> For good cause, the association may apply to the court for the removal of the persons it appointed.
 
 [^69c-1]: Inserted by Annex No 1 of the FA of 16 Dec. 2005 (Law on limited liability companies and modifications to the law on companies limited by shares, cooperatives, the commercial register and company names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69c-2]: Amended by Annex No I of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^69c-2]: Amended by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### B<sup>bis</sup>. Imminent insolvency and overindebtedness
+
+#### Art. 69d
+
+[^69d-1]
+
+For associations that require to be entered in the commercial register, the provisions of company law on imminent insolvency and on overindebtedness and on the revaluation of land, buildings and equity participations apply accordingly.
+
+[^69d-1]: Inserted by Annex No 1 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Membership
 
@@ -1368,27 +1405,32 @@ If the planned system of organisation proves inadequate, if the foundation lacks
 
 [^84-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law on Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### C<sup>bis</sup>. Measures in the event of overindebtedness and insolvency
+### C<sup>bis</sup>. Imminent insolvency and overindebtedness
 
 #### Art. 84a
 
 [^84a-1]
 
-<sup>1</sup> Where there are grounds for concern that the foundation is overindebted or will no longer be able to meet its obligations in the longer term, its board of trustees must draw up an interim balance sheet at liquidation values and submit it to the external auditors. If the foundation has no external auditors, the board of trustees must submit the interim balance sheet to the supervisory authority.
+<sup>1</sup> In the event of imminent insolvency or overindebtedness, the board of trustees must notify the supervisory authority immediately.
 
-<sup>2</sup> If the external auditors establish that the foundation is overindebted or will no longer be able to meet its obligations in the longer term, it must submit the interim balance sheet to the supervisory authority.
+<sup>2</sup> If the external auditors establish that the foundation is insolvent or overindebted, they shall notify the supervisory authority.
 
-<sup>3</sup> The supervisory authority shall direct the board of trustees to take the necessary measures. If it fails to do so, the supervisory authority takes such measures itself.
+<sup>3</sup> The supervisory authority shall direct the board of trustees to take the necessary measures. If it fails to do so, the supervisory authority shall take such measures itself or shall notify the court.
 
-<sup>4</sup> If necessary, the supervisory authority shall take legal enforcement measures; the provisions of company law on commencement or deferral of compulsory dissolution apply *mutatis mutandis*.
+<sup>4</sup> The provisions of company law on establishing overindebtedness and on the revaluation of land, buildings and equity participations apply accordingly.
 
-[^84a-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law on Foundations), in force since 1 Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84a-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law on Foundations) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Amended by Annex No 1 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### C<sup>ter</sup>. Disclosure of remuneration
 
 #### Art. 84b
 
 [^84b-1]
 
-[^84b-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law on Foundations) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Repealed by Annex No 1 of the FA of 16 Dec. 2005 (Law on limited liability companies and modifications to the law on companies limited by shares, cooperatives, the commercial register and company names), with effect from 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+The board of trustees must separately notify the supervisory authority annually of the total amount of remuneration within the meaning of Article 734*a* paragraph 2 of the Code of Obligations[^84b-2] that is paid, directly or indirectly, to the board of trustees and, if applicable, to the executive board.
+
+[^84b-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law on Foundations) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Amended by Annex No 1 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### D. Modification of the foundation
 
@@ -1536,12 +1578,12 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 - 15\. transparency (Art. 65*a*);
 - 16\. reserves (Art. 65*b*);
 - 17\. insurance contracts between occupational benefits schemes and insurance institutions (Art. 68 para. 3 and 4);
-- 18\. asset management (Art. 71);
+- 18\.[^89a-23] asset management (Art. 71) and the shareholder’s requirement to vote (Art. 71*a* and 71*b*);
 - 19\. legal recourse (Art. 73 and 74);
 - 20\. criminal provisions (Art. 75–79);
 - 21\. buy-in (Art. 79*b*);
 - 22\. insurable salary and income (Art. 79*c*);
-- 23\. provision of information to insured persons (Art. 86*b*).[^89a-23]
+- 23\. provision of information to insured persons (Art. 86*b*).[^89a-24]
 
 <sup>7</sup>
 
@@ -1556,7 +1598,7 @@ For employee benefits schemes providing old age, survivors’ and invalidity pen
 - 7\. supervision and oversight (Art. 61–62*a* and 64–64*b*);
 - 8\. legal recourse (Art. 73 and 74);
 - 9\. criminal provisions (Art. 75–79);
-- 10\. tax treatment (Art. 80, 81 para. 1 and 83).[^89a-24]
+- 10\. tax treatment (Art. 80, 81 para. 1 and 83).[^89a-25]
 
 <sup>8</sup>
 
@@ -1564,7 +1606,7 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 
 - 1\. they manage their assets so that security, an adequate yield on investments and the required liquidity for their tasks are guaranteed.
 - 2\. the supervisory authority shall rule on partial liquidation matters related to employer-sponsored welfare funds with discretionary benefits at the request of the foundation board.
-- 3\. they shall respect the principles of equal treatment and fairness *mutatis mutandis*.[^89a-25]
+- 3\. they shall respect the principles of equal treatment and fairness *mutatis mutandis*.[^89a-26]
 
 [^89a-1]: Inserted by No II of the FA of 21 March 1958, in force since 1 July 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Originally Art. 89<sup>bis</sup>, until the entry into force of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1588,11 +1630,12 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 [^89a-20]: Amended by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), in force since 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-21]: Repealed by No II 1 of the FA of 19 March 2010 (OPA Structural Reform), with effect from 1 Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-22]: Amended by No II 1 of the FA of 17 Dec. 2010 (Funding of benefits schemes for public corporations), in force since 1 Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-23]: Inserted by Annex No 1 of the FA of 25 June 1982 on Old Age, Survivors’ and Disability Insurance ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Amended by Annex No 1 of the FA of 3 Oct. 2003 (1<sup>st</sup> revision of OPA), No 6, 7, 10–12, 14 (with the exception of Art. 66 para. 4), 15, 17–20 and 23 in force since 1 April 2004, No 3–5, 8, 9, 13, 14 (Art. 66 para. 4) and 16 in force since 1 Jan. 2005, No 1, 21 and 22 in force since 1 Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-24]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-23]: Amended by Annex No 1 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-24]: Inserted by Annex No 1 of the FA of 25 June 1982 on Old Age, Survivors’ and Disability Insurance ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Amended by Annex No 1 of the FA of 3 Oct. 2003 (1<sup>st</sup> revision of OPA), No 6, 7, 10–12, 14 (with the exception of Art. 66 para. 4), 15, 17–20 and 23 in force since 1 April 2004, No 3–5, 8, 9, 13, 14 (Art. 66 para. 4) and 16 in force since 1 Jan. 2005, No 1, 21 and 22 in force since 1 Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-25]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-26]: Inserted by No I of the FA of 25 Sept. 2015 (Employee Benefits Schemes), in force since 1 April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
-### Title Two<sup>bis</sup>:******** Collective Assets
+### Title Two<sup>bis</sup>: Collective Assets
 
 [^book1-tit2bis-1][^book1-tit2bis-2]
 
@@ -1621,7 +1664,7 @@ For employee benefits schemes under paragraph 7, the following provisions also a
 
 ### Division One: Marital Law
 
-### Title Three:**** Marriage
+### Title Three: Marriage
 
 [^book2-part1-tit3-1]
 
@@ -1891,7 +1934,7 @@ A spouse may seek a declaration of annulment if he or she:
 
 [^110-1]: Repealed by Annex 1 No II 3 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Title Four:**** Divorce and Separation
+### Title Four: Divorce and Separation
 
 [^book2-part1-tit4-1]
 
@@ -1999,7 +2042,17 @@ Prior to the expiry of the two-year period, a spouse may petition for divorce if
 
 <sup>1</sup> The provisions of marital property law apply to the division of marital property.
 
-<sup>2</sup> Divorced spouses have no rights of inheritance in relation to each other and may not make claims based on testamentary dispositions made before their divorce proceedings were made pending.
+<sup>2</sup> Divorced spouses have no statutory rights of inheritance in relation to each other.[^120-1]
+
+<sup>3</sup>
+
+Unless there is an instruction to the contrary, spouses may not raise any claims based on testamentary dispositions:
+
+- 1\. after divorce;
+- 2\. after the death of a spouse during divorce proceedings that results in the surviving spouse losing his or her right to claim the statutory entitlement.[^120-2]
+
+[^120-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^120-2]: Inserted by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### C. Family home
 
@@ -2283,7 +2336,7 @@ The court regulates parental rights and obligations in accordance with the provi
 
 *Repealed*
 
-### Title Five:**** General Effects of Marriage
+### Title Five: General Effects of Marriage
 
 [^book2-part1-tit5-1]
 
@@ -2534,7 +2587,7 @@ If a spouse fails to fulfil his or her duty to maintain the family, the court ma
 
 [^180-1]: Repealed by Annex No 2 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### Title Six:**** Marital Property Law
+### Title Six: Marital Property Law
 
 [^book2-part1-tit6-1]
 
@@ -2880,7 +2933,7 @@ For the purpose of liquidating the marital property regime, assets are stated at
 
 <sup>2</sup> For assets added to the acquired property, the defining juncture is the date on which they were alienated.
 
-### V. Participation in the surplus
+### V. Share of the surplus
 
 ### 1. By law
 
@@ -2896,15 +2949,24 @@ For the purpose of liquidating the marital property regime, assets are stated at
 
 #### Art. 216
 
-<sup>1</sup> A different participation in the surplus may be agreed by marital agreement.
+<sup>1</sup> A different share of the surplus may be agreed by marital agreement.
 
-<sup>2</sup> Such agreements must not adversely affect the statutory inheritance entitlements of children who are not the common issue of the spouses or those of the issue of such children.
+<sup>2</sup> The share of the surplus allocated that exceeds one half shall not be included when calculating the statutory entitlements of the surviving spouse or registered partner, his or her common issue and the issue of those children.[^216-1]
+
+<sup>3</sup> Such an agreement must not adversely affect the right to claim the statutory entitlement held by children who are not the common issue of the spouses or those of the issue of such children.[^216-2]
+
+[^216-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^216-2]: Inserted by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### b. On divorce, separation, annulment of the marriage or separation of property by court order
 
 #### Art. 217
 
-In the case of divorce, separation, annulment of marriage or separation of property by court order, agreements varying the statutory participation in the surplus are valid only if the marital property agreement expressly so provides.
+<sup>1</sup> In the case of divorce, separation, annulment of marriage or separation of property by court order, agreements varying the statutory share of the surplus are valid only if the marital property agreement expressly so provides.
+
+<sup>2</sup> This also applies on the dissolution of the marital property regime by death when divorce proceedings are pending if that results in the surviving spouse losing his or her right to claim the statutory entitlement.[^217-1]
+
+[^217-1]: Inserted by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### VI. Payment of the participation claim and the share of the increased value
 
@@ -2988,7 +3050,7 @@ The marital property regime of community of property comprises the common proper
 
 <sup>2</sup> By law, items for the exclusive personal use of a spouse and claims for satisfaction constitute individual property.
 
-<sup>3</sup> A spouse’s statutory inheritance entitlement may not pass to him or her from his or her relatives as individual property where the marital agreement provides that such assets are common property.
+<sup>3</sup> A spouse’s right to claim the statutory entitlement may not pass to him or her from his or her relatives as individual property where the marital agreement provides that such assets are common property.
 
 ### IV. Proof
 
@@ -3127,7 +3189,11 @@ For the purpose of valuing the common property at hand at the time of the dissol
 
 <sup>2</sup> A different method of division may be agreed by marital agreement.
 
-<sup>3</sup> Such agreements must not adversely affect the statutory inheritance entitlements of the spouse’s issue.
+<sup>3</sup> Such agreements must not adversely affect the right to claim the statutory entitlements of the spouse’s issue.
+
+<sup>4</sup> Unless there is an instruction to the contrary in the marital agreement, agreements on a different method of division do not apply on the death of a spouse when divorce proceedings are pending that results in the surviving spouse losing his or her right to claim the statutory entitlement.[^241-1]
+
+[^241-1]: Inserted by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 2. In other cases
 
@@ -3209,13 +3275,13 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 ### Division Two: Kinship
 
-### Title Seven: Formation of the Parent-Child Relationship****
+### Title Seven: Formation of the Parent-Child Relationship
 
 [^book2-part2-tit7-1]
 
 [^book2-part2-tit7-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Chapter One: General Provisions****
+### Chapter One: General Provisions
 
 [^book2-part2-tit7-chap1-1]
 
@@ -3250,7 +3316,7 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 [^254-1]: Repealed by Annex 1 No II 3 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Chapter Two: Parental Status of the Husband or Wife****
+### Chapter Two: Parental Status of the Husband or Wife
 
 [^book2-part2-tit7-chap2-1]
 
@@ -3260,9 +3326,9 @@ Where one spouse shows an overriding interest in gaining sole possession of an o
 
 ### I. Parental Status of the husband
 
-[^book2-part2-tit7-chap2-lvlI-1]
+[^book2-part2-tit7-chap2-lvlB-1]
 
-[^book2-part2-tit7-chap2-lvlI-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlB-1]: Amended by No I of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3408,7 +3474,7 @@ Recognition may be challenged:
 [^259-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^259-2]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Chapter Three: Recognition and Court Declaration of Paternity****
+### Chapter Three: Recognition and Court Declaration of Paternity
 
 [^book2-part2-tit7-chap3-1]
 
@@ -3524,7 +3590,7 @@ The action is admissible both before and after the birth but must be brought:
 [^263-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^263-2]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Chapter Four:**** Adoption
+### Chapter Four: Adoption
 
 [^book2-part2-tit7-chap4-1]
 
@@ -3947,13 +4013,13 @@ An action to challenge the adoption must be brought within six months of discove
 [^269c-2]: Amended by No I 2 of the FA of 19 Dec. 2008 (Adult Protection Law, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^269c-3]: Repealed by Annex No 15 of the Federal Administrative Court Law of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Title Eight: Effects of the Parent-Child Relationship****
+### Title Eight: Effects of the Parent-Child Relationship
 
 [^book2-part2-tit8-1]
 
 [^book2-part2-tit8-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Section One: Community of Parents and Children****
+### Section One: Community of Parents and Children
 
 [^book2-part2-tit8-chap1-1]
 
@@ -4098,7 +4164,7 @@ Parents and children owe each other such support, consideration and respect as t
 
 [^275a-1]: Inserted by No I 4 of the FA of 26 June 1998, in force since 1 Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Section Two: Parents’ Duty of Maintenance****
+### Section Two: Parents’ Duty of Maintenance
 
 [^book2-part2-tit8-chap2-1]
 
@@ -4402,7 +4468,7 @@ Up to one year after the birth at the latest, the mother may file a claim agains
 [^295-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^295-2]: Amended by Annex 1 No II 3 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Section Three: Parental Responsibility****
+### Section Three: Parental Responsibility
 
 [^book2-part2-tit8-chap3-1]
 
@@ -5027,7 +5093,7 @@ The cantons issue such regulations as are required to ensure effective cooperati
 
 [^317-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Section Four: Property of the Child****
+### Section Four: Property of the Child
 
 [^book2-part2-tit8-chap4-1]
 
@@ -5093,7 +5159,7 @@ The cantons issue such regulations as are required to ensure effective cooperati
 
 [^322-1]
 
-<sup>1</sup> By testamentary disposition the child’s statutory inheritance entitlement may also be excluded from management by the parents.
+<sup>1</sup> By testamentary disposition the child’s right to claim the statutory entitlement may also be excluded from management by the parents.
 
 <sup>2</sup> If the testator appoints a third party to administer the bequest, the child protection authority may require the latter to carry out periodic accounting and reporting.
 
@@ -5167,7 +5233,7 @@ On termination of parental responsibility or the parents’ management, the pare
 
 [^327-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Section Five:**** Minors subject to Guardianship
+### Section Five: Minors subject to Guardianship
 
 [^book2-part2-tit8-chap5-1]
 
@@ -5457,7 +5523,7 @@ Joint ownership in undivided shares is dissolved:
 
 [^359-1]: Repealed by No II 21 of the FA of 15 Dec. 1989 on Approval of Cantonal Decrees by the Federal Government, with effect from 1 Feb. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### Division Three:**** The Protection of Adults
+### Division Three: The Protection of Adults
 
 [^book2-part3-1]
 
@@ -5666,7 +5732,7 @@ The exercise of the right to act as representative is governed by the provisions
 
 <sup>3</sup> If possible, the person lacking capacity of judgement shall also be involved in making the decision.
 
-<sup>4</sup> The treatment plan shall be adapted to ongoing developments.
+<sup>4</sup> The treatment plan shall be adapted to pending developments.
 
 ### B. The representative
 
@@ -5684,7 +5750,7 @@ The following persons are entitled in the following order to represent the perso
 - 6\. the parents, if they regularly and personally provide the person lacking capacity of judgement with support;
 - 7\. siblings, if they regularly and personally provide the person lacking capacity of judgement with support.
 
-<sup>2</sup> If two or more persons have the right to act as representative, the doctor, acting in good faith, may require that each act with the agreement of the others.
+<sup>2</sup> If more than one person has the right to act as the representative, the doctor, acting in good faith, may presume that each acts with the agreement of the others.
 
 <sup>3</sup> If a patient decree contains no instructions, the representative shall decide according to the presumed wishes and interests of the person lacking capacity of judgement.
 
@@ -6271,7 +6337,7 @@ Any person committed to an institution may appoint a person that he or she trust
 
 <sup>3</sup> The treatment plan shall be given to the patient so that he or she may consent. Where the patient is incapable of judgement, account must be taken of any patient decree.
 
-<sup>4</sup> The treatment plan is adjusted to take account of ongoing developments.
+<sup>4</sup> The treatment plan is adjusted to take account of pending developments.
 
 ### II. Treatment without consent
 
@@ -6363,7 +6429,7 @@ In the following cases, the patient or a closely related person may petition the
 
 #### Art. 442
 
-<sup>1</sup> The adult protection authority at the place of residence of the client has jurisdiction. In ongoing proceedings, the same authority retains jurisdiction until the case has been concluded.
+<sup>1</sup> The adult protection authority at the place of residence of the client has jurisdiction. In pending proceedings, the same authority retains jurisdiction until the case has been concluded.
 
 <sup>2</sup> In urgent cases, the authority where the client is actually residing has jurisdiction. If this authority carries out a measure, it shall notify the authority in the client's normal place of residence.
 
@@ -6659,7 +6725,7 @@ The liability of a person entrusted with another's care as well as that of a spo
 
 <sup>3</sup> A predeceased parent is replaced by his or her issue in all degrees per stirpes.
 
-<sup>4</sup> Where there are no issue on one side, the entire estate passes to the heirs on the other.
+<sup>4</sup> Where there is no issue on one side, the entire estate passes to the heirs on the other.
 
 ### III. Grandparental line
 
@@ -6769,11 +6835,11 @@ Any person who has the capacity of judgement and is at least 18 years old has th
 
 #### Art. 470
 
-<sup>1</sup> A person who is survived by issue, parents, a spouse or a registered partner may make a testamentary disposition of that part of his or her property which exceeds the statutory entitlement of the survivor or survivors.[^470-1]
+<sup>1</sup> A person who is survived by issue, a spouse or a registered partner may make a testamentary disposition of that part of his or her property which exceeds the statutory entitlement of the survivor or survivors.[^470-1]
 
 <sup>2</sup> A person who is not survived by any such heirs may dispose of his or her entire property by testamentary disposition.
 
-[^470-1]: Amended by Annex No 8 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^470-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Statutory entitlement
 
@@ -6781,36 +6847,42 @@ Any person who has the capacity of judgement and is at least 18 years old has th
 
 [^471-1]
 
-The statutory entitlement is:
+The statutory entitlement is one-half of the statutory succession rights.
 
-- 1\. for any issue, three-quarters of their statutory succession rights;
-- 2\. for each parent, one-half;
-- 3\.[^471-2] for the surviving spouse or registered partner, one-half.
+[^471-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
-[^471-1]: Amended by No I 2 of the FA of 5 Oct. 1984, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^471-2]: Amended by Annex No 8 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### III. ...
+### III. Loss of the right to claim the statutory entitlement in divorce proceedings
 
 #### Art. 472
 
 [^472-1]
 
-[^472-1]: Repealed by No I 2 of the FA of 5 Oct. 1984 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>1</sup>
 
-### IV. Dispositions in favour of the spouse
+If divorce proceedings are pending on the death of the testator, the surviving spouse loses his or her right to claim the statutory entitlement if:
+
+- 1\. the proceedings were instigated by joint request or continued by joint request in accordance with the rules on divorce; or
+- 2\. the spouses have lived apart for at least two years.
+
+<sup>2</sup> In such a case, the statutory entitlements apply as if the testator had never married.
+
+<sup>3</sup> Paragraphs 1 and 2 apply *mutatis mutandis* to proceedings to dissolve a registered partnership.
+
+[^472-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### IV. Usufruct
 
 #### Art. 473
 
-<sup>1</sup> By a testamentary disposition, the testator may grant the surviving spouse a usufruct of the entire part of the estate passing to their common issue.[^473-1]
+[^473-1]
 
-<sup>2</sup> This usufruct shall replace the statutory succession right due to the spouse where the common issue are co-heirs with the spouse. In addition to this usufruct, the disposable part is one-quarter of the estate.[^473-2]
+<sup>1</sup> Irrespective of any instruction with regard to the disposable part, the testator may by testamentary disposition grant the surviving spouse or the surviving registered partner a usufruct over the entire part of the estate passing to their common issue.
 
-<sup>3</sup> If the surviving spouse remarries, the usufruct ceases to apply to that part of the estate which, on succession, could not have been encumbered by a usufruct under the provisions ordinarily governing the statutory entitlements of the deceased’s issue.[^473-3]
+<sup>2</sup> This usufruct shall replace the statutory succession right due to the spouse or the registered partner where the common issue are co-heirs with the spouse. In addition to this usufruct, the disposable part is one-half of the estate.
 
-[^473-1]: Amended by No I of the Swiss Civil Code of 5 Oct. 2001, in force since 1 March 2002 ([AS 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [BBl 2001 1121](https://fedlex.data.admin.ch/eli/fga/2001/194)[2011](https://fedlex.data.admin.ch/eli/fga/2001/443)[2111](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-2]: Amended by No I of the Swiss Civil Code of 5 Oct. 2001, in force since 1 March 2002 ([AS 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [BBl 2001 1121](https://fedlex.data.admin.ch/eli/fga/2001/194)[2011](https://fedlex.data.admin.ch/eli/fga/2001/443)[2111](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-3]: Amended by No I 2 of the FA of 5 Oct. 1984, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>3</sup> If surviving spouse remarries or if he or she enters into a registered partnership, the usufruct ceases to apply to that part of the estate which, on succession, could not have been encumbered by a usufruct under the provisions ordinarily governing the statutory entitlements of the deceased’s issue. This provision applies *mutatis mutandis* if the surviving registered partner enters into a new registered partnership or marries.
+
+[^473-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### V. Calculation of the disposable part
 
@@ -6828,11 +6900,17 @@ The statutory entitlement is:
 
 Inter vivos gifts are added to the estate insofar as they are subject to an action in abatement.
 
-### 3. Insurance claims
+### 3. Insurance and restricted retirement savings
 
 #### Art. 476
 
-Where a life assurance claim maturing on the death of the deceased was established in favour of a third party by an inter vivos or testamentary disposition or mortis causa or was transferred by the deceased during his or her lifetime to a third party without valuable consideration, the redemption value of such insurance claim at the time of death is added to the estate.
+[^476-1]
+
+<sup>1</sup> Where a life assurance claim, including a claim arising from a restricted retirement savings plan, maturing on the death of the deceased was established in favour of a third party by an inter vivos or testamentary disposition or mortis causa or was transferred by the deceased during his or her lifetime to a third party without valuable consideration, the redemption value of such insurance claim at the time of death is added to the estate.
+
+<sup>2</sup> The testator’s estate also includes claims of beneficiaries arising from the testator’s restricted retirement savings plan with a bank foundation.
+
+[^476-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### B. Disinheritance
 
@@ -7025,7 +7103,14 @@ In his or her disposition, the testator may designate one or more persons to who
 
 <sup>2</sup> He or she is free to dispose of his or her property as he or she sees fit.
 
-<sup>3</sup> However, testamentary dispositions or gifts that are incompatible with obligations entered into under the contract of succession are subject to challenge.
+<sup>3</sup>
+
+Testamentary dispositions and inter vivos gifts, with the exception of customary occasional gifts, are subject to challenge, insofar as:
+
+- 1\. they are incompatible with obligations under the contract of succession, and in particular where they reduce benefits under the contract of succession; and
+- 2\. no provision is made for them in the contract of succession.[^494-1]
+
+[^494-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Renunciation of inheritance
 
@@ -7312,21 +7397,35 @@ If the formal defect in a holographic will consists in the day, month or year no
 
 #### Art. 522
 
-<sup>1</sup> Where the testator has exceeded his or her testamentary freedom, those heirs who do not receive the full value of their statutory entitlement may sue to have the disposition abated to the permitted amount.
+[^522-1]
 
-<sup>2</sup> Clauses contained in testamentary dispositions relating to the entitlements of the statutory heirs are deemed merely to be instructions for dividing the estate unless it is evident from the disposition that the testator intended otherwise.
+<sup>1</sup>
 
-### 2. Bequests in favour of heirs with a statutory entitlement
+The heirs who receive less than the value of their statutory entitlement may request the abatement of the following acquisitions and gifts until their statutory entitlement becomes available:
+
+- 1\. acquisitions in accordance with the law on intestate succession;
+- 2\. bequests;
+- 3\. inter vivos gifts.
+
+<sup>2</sup> Clauses in a testamentary disposition relating to the entitlements of the statutory heirs are deemed merely to be instructions for dividing the estate unless it is evident from the disposition that the testator intended otherwise.
+
+[^522-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### 2. Heirs with a statutory entitlement
 
 #### Art. 523
 
-Where a testamentary disposition contains legacies in favour of several heirs with a statutory entitlement and the testator has exceeded his or her testamentary freedom, such legacies shall be abated among the co-heirs in proportion to the amounts by which they exceed each co-heir’s statutory entitlement.
+[^523-1]
+
+In the case of heirs with a statutory entitlement, acquisitions in accordance with the law on intestate succession and bequests shall be abated in proportion to the amounts by which they exceed each co-heir’s statutory entitlement.
+
+[^523-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 3. Rights of creditors
 
 #### Art. 524
 
-<sup>1</sup> Where the testator has exceeded his or her testamentary freedom to the detriment of an heir and the latter fails to bring a action in abatement despite being instructed to do so by the bankruptcy administrators or by creditors holding unpaid debt certificates on succession, the administrators or creditors themselves may bring an action in abatement for the amount necessary to cover their claims within the same time limit that applies to the heir.
+<sup>1</sup> Where the testator has exceeded his or her testamentary freedom to the detriment of an heir and the latter fails to bring an action in abatement despite being instructed to do so by the bankruptcy administrators or by creditors holding unpaid debt certificates on succession, the administrators or creditors themselves may bring an action in abatement for the amount necessary to cover their claims within the same time limit that applies to the heir.
 
 <sup>2</sup> The same right applies in the case of a disinheritance not contested by the person disinherited.
 
@@ -7367,11 +7466,17 @@ The following are subject to abatement in the same manner as testamentary dispos
 
 <sup>2</sup> Where benefits conferred under a contract of succession are subject to abatement, the beneficiary is entitled to reclaim a proportionate amount of the counter-performance made to the testator.
 
-### 4. On assurance claims
+### 4. Insurance claims and restricted retirement savings
 
 #### Art. 529
 
-Where a life assurance claim maturing on the death of the deceased was established in favour of a third party by a disposition inter vivos or by a testamentary disposition or was transferred by the deceased during his or her lifetime to a third party without valuable consideration, such claim is subject to abatement at its redemption value.
+[^529-1]
+
+<sup>1</sup> Where a life assurance claim maturing on the death of the deceased, including a claim arising from a restricted retirement savings plan, was established in favour of a third party by a disposition inter vivos or by a testamentary disposition, or was transferred by the deceased during his or her lifetime to a third party without valuable consideration, such claim is subject to abatement at its redemption value.
+
+<sup>2</sup> The claims of beneficiaries arising from the restricted retirement savings plan of the testator with a bank foundation are also subject to abatement.
+
+[^529-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 5. On usufruct and annuities
 
@@ -7393,7 +7498,25 @@ The naming of a remainderman in respect of an heir entitled to a statutory entit
 
 #### Art. 532
 
-Abatement applies first to testamentary dispositions and thereafter to dispositions inter vivos in reverse chronological order until the statutory entitlement has been reconstituted.
+[^532-1]
+
+<sup>1</sup>
+
+The following are subject to abatement in the following order until the statutory entitlement becomes available:
+
+- 1\. acquisitions in accordance with the law on intestate succession;
+- 2\. bequests;
+- 3\. inter vivos gifts.
+
+<sup>2</sup>
+
+The inter vivos gifts shall be abated in the following order:
+
+- 1\. gifts subject to addition under a marital agreement or property agreement;
+- 2\. freely revocable gifts and the benefits arising from the restricted retirement savings plan, in the same proportion;
+- 3\. other gifts, the most recent before those made earlier.
+
+[^532-1]: Amended by No I of the FA of 18 Dec. 2020 (Law of Succession), in force since 1 Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### IV. Prescription
 
@@ -9467,7 +9590,7 @@ The cantons have the right to determine the extent to which privately owned spri
 
 Owners of drinking water utilities have the right to expropriate the land surrounding their springs to the extent necessary to protect them from contamination.
 
-### Chapter Three:**** Condominium
+### Chapter Three: Condominium
 
 [^book4-part1-tit19-chap3-1]
 
@@ -11213,7 +11336,7 @@ If more than one statutory building contractor’s lien is recorded in the land 
 
 <sup>3</sup> Once an interested party has had the beginning of the work noted in the land register, until the time limit for registration has expired, liens may only be registered in the form of mortgage contracts.
 
-### Chapter Three:**** Mortgage Certificates
+### Chapter Three: Mortgage Certificates
 
 [^book4-part2-tit22-chap3-1]
 
@@ -12122,21 +12245,27 @@ The Federal Council regulates:
 
 [^949a-1]: Inserted by No I of the FA of 4 Oct. 1991 on the Partial Revision of the Civil Code (Immovable Property Law) and of the Code of Obligations (Purchase of Land; [AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Amended by No 1 of the FA of 19 Dec. 2003 on Electronic Signatures, in force since 1 Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-### 4*a*. ...
+### 4*a*. Personal identifier in the land register
 
 #### Art. 949b
 
 [^949b-1]
 
-[^949b-1]: Not yet in force ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+<sup>1</sup> The land register offices shall systematically use the OASI number to identify persons.
 
-### 4*b*. ...
+<sup>2</sup> They shall only disclose the OASI number to other bodies and institutions that require the number in order to fulfil their statutory duties in connection with the land register and which are entitled to make systematic use of this number.
+
+[^949b-1]: Inserted by No I 2 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2023 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+
+### 4*b*. National immovable property search
 
 #### Art. 949c
 
 [^949c-1]
 
-[^949c-1]: Not yet in force ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+The Federal Council shall regulate the national search by the competent authorities for immovable properties in which a person identified by their OASI number holds rights.
+
+[^949c-1]: Inserted by No I 2 of the FA of 15 Dec. 2017 (Registration of Civil Status and Land Register), in force since 1 Jan. 2023 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 4*c*. Commissioning private individuals to use the electronic version of the land register
 
@@ -12150,7 +12279,7 @@ The cantons which maintain the land register electronically may commission priva
 
 - 1\. ensure access to the data in the land register in the retrieval process;
 - 2\. ensure public access to the data of the main register which can be viewed without proof of interest;
-- 3\. to carry out electronic transactions with the land registry.
+- 3\. to carry out electronic transactions with the land register office.
 
 <sup>2</sup> The commissioned individuals are subject to the oversight of the cantons and of the Confederation.
 
@@ -12189,13 +12318,13 @@ The cantons which maintain the land register electronically may commission priva
 
 <sup>2</sup> Entries which establish rights are to be made in the register of the district in which the largest part of the property is situated.
 
-<sup>3</sup> Entries in this land register will be notified by the registrar to the other land registries.
+<sup>3</sup> Entries in this land register will be notified by the registrar to the other land register offices.
 
-### 2. Land registries
+### 2. Land register offices
 
 #### Art. 953
 
-<sup>1</sup> The cantons are responsible for setting up the land registries, the demarcation of the districts, the appointment and remuneration of officials and supervision arrangements.
+<sup>1</sup> The cantons are responsible for setting up the land register offices, the demarcation of the districts, the appointment and remuneration of officials and supervision arrangements.
 
 <sup>2</sup> The regulations issued by the cantons, save for those concerning the appointment and remuneration of officials, are subject to approval by the Confederation.[^953-1]
 
@@ -12229,7 +12358,7 @@ The cantons which maintain the land register electronically may commission priva
 
 [^956-1]
 
-<sup>1</sup> The management of the land registries is subject to the administrative supervision of the cantons.
+<sup>1</sup> The management of the land register offices is subject to the administrative supervision of the cantons.
 
 <sup>2</sup> The Confederation exercises the supervisory control.
 
@@ -12243,13 +12372,13 @@ The cantons which maintain the land register electronically may commission priva
 
 [^956a-1]
 
-<sup>1</sup> A ruling issued by the land registry may be contested before an authority designated by the canton; a ruling includes the unlawful refusal to carry out or delay in carrying out an official act.
+<sup>1</sup> A ruling issued by the land register office may be contested before an authority designated by the canton; a ruling includes the unlawful refusal to carry out or delay in carrying out an official act.
 
 <sup>2</sup>
 
 The following persons are entitled to appeal:
 
-- 1\. any person who suffers particular prejudice due to a ruling issued by the land registry and who has a legitimate interest in its revocation or amendment;
+- 1\. any person who suffers particular prejudice due to a ruling issued by the land register office and who has a legitimate interest in its revocation or amendment;
 - 2\. the cantonal administrative supervisory authority it has a right of appeal under cantonal law;
 - 3\. the federal supervisory authority.
 
@@ -12265,7 +12394,7 @@ The following persons are entitled to appeal:
 
 <sup>1</sup> The period within which an appeal to the cantonal appellate authorities must be filed amounts to 30 days.
 
-<sup>2</sup> Where the land registry refuses to carry out or delays in carrying out a specific official act, however, an appeal may be filed at any time.
+<sup>2</sup> Where the land register office refuses to carry out or delays in carrying out a specific official act, however, an appeal may be filed at any time.
 
 [^956b-1]: Inserted by No I 1 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -12535,7 +12664,7 @@ A person is entitled to obtain the following information from the main register 
 
 <sup>1</sup> If a property is divided, the easements, priority notices and notes for each divided part must be revised.
 
-<sup>2</sup> The owner of the property being divided must advise the land registry which entries to delete and which to transfer to the divided parts. If this is not done, the application must be rejected.
+<sup>2</sup> The owner of the property being divided must advise the land register office which entries to delete and which to transfer to the divided parts. If this is not done, the application must be rejected.
 
 <sup>3</sup> Where an entry according to the supporting documents or the circumstances does not relate to a divided part, it must be deleted. The procedure is governed by the regulations on the deletion of an entry.
 
@@ -12596,7 +12725,7 @@ The land register may delete an entry *ex officio* if the entry:
 
 <sup>1</sup> If an entry in all probability has no legal importance, in particular because according to the supporting documents or the circumstances it does not relate to the property, then any person encumbered may request its deletion.
 
-<sup>2</sup> If the land registry regards the request as justified, it shall inform the beneficiary that it will delete the entry unless he or she files an objection with land registry within 30 days.
+<sup>2</sup> If the land register office regards the request as justified, it shall inform the beneficiary that it will delete the entry unless he or she files an objection with land register office within 30 days.
 
 [^976a-1]: Inserted by No I 1 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -12606,9 +12735,9 @@ The land register may delete an entry *ex officio* if the entry:
 
 [^976b-1]
 
-<sup>1</sup> If the beneficiary files an objection, the land registry shall reassess the request for deletion at the request of the encumbered person.
+<sup>1</sup> If the beneficiary files an objection, the land register office shall reassess the request for deletion at the request of the encumbered person.
 
-<sup>2</sup> If the land registry concludes that the request should be granted despite the objection, it shall notify the beneficiary that it will delete the entry from the main register unless the beneficiary brings a court action to declare that the entry is of legal significance.
+<sup>2</sup> If the land register office concludes that the request should be granted despite the objection, it shall notify the beneficiary that it will delete the entry from the main register unless the beneficiary brings a court action to declare that the entry is of legal significance.
 
 [^976b-1]: Inserted by No I 1 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and other amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
@@ -12640,13 +12769,13 @@ The land register may delete an entry *ex officio* if the entry:
 
 <sup>3</sup> The land registrar may correct typographical errors of his or her own accord in accordance with regulations to be issued by the Federal Council.
 
-## Final Title: Commencement and Implementing Provisions****
+## Final Title: Commencement and Implementing Provisions
 
 [^u1-1]
 
 [^u1-1]: Amended by No I 4 of the FA of 26 June 1998, in force since 1 Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Chapter One: Application of Former and New Law****
+### Chapter One: Application of Former and New Law
 
 [^u1-chap1-1]
 
@@ -12704,7 +12833,7 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 <sup>2</sup> When this Code comes into force, declarations of death or absence under the previous law have the same effects as a declaration of presumed death under the new law, but the consequences that have occurred under the previous law prior to this Code coming into force, such as succession or dissolution of marriage, remain valid.
 
-<sup>3</sup> Proceedings ongoing when the new law comes into force shall be restarted in accordance with the provisions of this Code, taking account of the time that has elapsed, or, if requested by the parties, concluded in accordance with the previous procedure, respecting the previous deadlines.
+<sup>3</sup> Proceedings pending when the new law comes into force shall be restarted in accordance with the provisions of this Code, taking account of the time that has elapsed, or, if requested by the parties, concluded in accordance with the previous procedure, respecting the previous deadlines.
 
 ### II*a*. Central civil register database
 
@@ -12724,7 +12853,7 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 [^u1-chap1-lvlB-lvlIII-lvl1-1]
 
-[^u1-chap1-lvlB-lvlIII-lvl1-1]: Amended by Annex No 1 of the FA of 16 Dec. 2005 (Law on limited liability companies and modifications to the law on companies limited by shares, cooperatives, the commercial register and company names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^u1-chap1-lvlB-lvlIII-lvl1-1]: Amended by Annex No 1 of the FA of 16 Dec. 2005 (Law on limited liability companies and modifications to the law on companies limited by shares, cooperatives, the commercial register and company names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685);[BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 6b
 
@@ -12740,6 +12869,16 @@ The legal effects of circumstances which occurred while the previous law was sti
 
 [^u1-6b-1]: Originally Art. 6*a*. Previously Art. 7.
 [^u1-6b-2]: Inserted by No I 1 of the FA of 12 Dec. 2014 on the Implementation of the 2012 Revision of the Recommendations of the Financial Action Task Force, in force since 1 Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+
+### 1*a*. Associations that must be entered in the commercial register
+
+#### Art. 6b<sup>bis</sup>
+
+[^u1-6bbis-1]
+
+Existing associations in accordance with Article 61 paragraph 2 must meet the requirements specified in Articles 61*a* und 69 paragraph 2 within 18 months of the Amendment of 19 March 2021 coming into force. Existing associations in accordance with Article 61 paragraph 2 number 3 must also be entered in the commercial register within this period.
+
+[^u1-6bbis-1]: Inserted by Annex 1 No 1 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Accounting and auditors
 
@@ -13006,7 +13145,7 @@ In the case of a separation of property established by operation of the law or b
 
 <sup>2</sup> The new regulations on the separation of property apply in future to the spouses' separate property.
 
-<sup>3</sup> Agreements on participation in a surplus or deficit in the case of a union of property regime must not adversely affect the statutory inheritance entitlements of children who are not the common issue of the spouses or those of the issue of such children.
+<sup>3</sup> Agreements on participation in a surplus or deficit in the case of a union of property regime must not adversely affect the right to claim the statutory entitlements of children who are not the common issue of the spouses or those of the issue of such children.
 
 [^u1-10-1]: Amended by No I 2 of the FA of 5 Oct. 1984, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
@@ -13030,7 +13169,7 @@ In the case of a separation of property established by operation of the law or b
 
 <sup>1</sup> Spouses subject to a union of property regime who have changed this marital property regime by marital agreement may by one year at the latest after the new law comes into force elect to make their legal rights subject to the new statutory marital property regime of participation in acquired property by filing of a joint written declaration with marital property register office at their domicile.
 
-<sup>2</sup> In this event, contractual participation in the surplus shall in future apply to the total amount of the surplus of both spouses, unless a marital property agreement provides otherwise.
+<sup>2</sup> In this event, the contractual share of the surplus shall in future apply to the total amount of the surplus of both spouses, unless a marital property agreement provides otherwise.
 
 [^u1-10b-1]: Inserted by No I 2 of the FA of 5 Oct. 1984, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 
@@ -13206,7 +13345,7 @@ Any person who attains majority due to the Federal Act of 7 October 1994 coming 
 
 The child may apply for the revision of any maintenance payments set in an approved maintenance agreement or in a decision before the amendment of 20 March 2015 came into force. If they were set at the same time as maintenance payments to one of the parents, payments shall only be revised if there has been a substantial change in circumstances.
 
-**Art. 13**c<sup>bis</sup> *[^u1-13c-2]*
+**Art. 13**c<sup>bis</sup> [^u1-13c-2]
 
 <sup>1</sup> The new legislation applies to proceedings that are pending at the time of the amendment of 20 March 2015 coming into force.
 
@@ -13646,7 +13785,7 @@ The property law under this Code in general comes into force even if the land re
 
 <sup>2</sup> Where the new law specifies a shorter period, the previous law applies.
 
-<sup>3</sup> The entry into force of the new law does not change the date on which an ongoing prescriptive period began, unless the law provides otherwise.
+<sup>3</sup> The entry into force of the new law does not change the date on which an pending prescriptive period began, unless the law provides otherwise.
 
 <sup>4</sup> Otherwise, the new law governs prescription from the time it comes into force.
 
@@ -13672,7 +13811,7 @@ On commencement of the Civil Code, cantonal civil law provisions are repealed un
 
 #### Art. 52
 
-<sup>1</sup> The cantons shall enact the provisions required to supplement the Civil Code, including in particular those governing the competent authorities[^u1-52-1] and the establishment of civil registries, guardianship authorities and land registries.
+<sup>1</sup> The cantons shall enact the provisions required to supplement the Civil Code, including in particular those governing the competent authorities[^u1-52-1] and the establishment of civil registries, guardianship authorities and land register offices.
 
 <sup>2</sup> The cantons shall enact any such supplementary provisions as are required to implement the Civil Code and may do so provisionally in the form of ordinances.[^u1-52-2]
 
@@ -13821,10 +13960,12 @@ Art. 7*a*–7*i*
 
 [^u1-61-1]: Last four articles renumbered owing to revocation of the original Art. 58 and 59, in accordance with No I of the Code of Obligations transitional provisions, in force since 1 Jan. 1912 ([AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); [BBl 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 725](https://fedlex.data.admin.ch/eli/fga/1909/3_725__), [1911 I 845](https://fedlex.data.admin.ch/eli/fga/1911/1_845__)).
 
-## Text of the Previous Provisions**** of Title Six
+## Text of the Previous Provisions of Title Six
 
 [^u2-1]
 
-[^u2-1]: BS **2** 3. These provisions apply as transitional law insofar as provided by Art. 9*a* ff. Final Title (Revision of Marital Law of 5 Oct. 1984). The provisions have not been translated into English..
+[^u2-1]: BS **2** 3. These provisions apply as transitional law insofar as provided by Art. 9*a* ff. Final Title (Revision of Marital Law of 5 Oct. 1984). The provisions have not been translated into English.
 
 ### Title Six: Marital Property Law
+
+## Title Six: Marital Property Law

@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. Juli 2022)
+vom 10. Dezember 1907 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -268,7 +268,7 @@ Die Handlungsfähigkeit kann durch eine Massnahme des Erwachsenenschutzes einges
 
 [^book1-tit1-chap1-lvlA-lvlIV-1]
 
-[^book1-tit1-chap1-lvlA-lvlIV-1]: Fassung des Randtit. gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653), **19****73** 92; [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
+[^book1-tit1-chap1-lvlA-lvlIV-1]: Fassung des Randtit. gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653), [1973 92](https://fedlex.data.admin.ch/eli/oc/1973/92__); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
 
 ### 1. Verwandtschaft
 
@@ -671,7 +671,7 @@ Meldet sich innerhalb der Frist der Verschwundene oder Abwesende, oder laufen Na
 
 [^38-1]: Eingefügt durch Ziff. I 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Zweiter Abschnitt:**** Die Beurkundung des Personenstandes
+### Zweiter Abschnitt: Die Beurkundung des Personenstandes
 
 [^book1-tit1-chap2-1]
 
@@ -1027,11 +1027,34 @@ Das Verfahren bei der Liquidation des Vermögens der juristischen Personen richt
 Der Verein ist zur Eintragung verpflichtet, wenn er:
 
 - 1\. für seinen Zweck ein nach kaufmännischer Art geführtes Gewerbe betreibt;
-- 2\. revisionspflichtig ist.[^61-1]
+- 2\. revisionspflichtig ist;
+- 3\.[^61-1] hauptsächlich Vermögenswerte im Ausland direkt oder indirekt sammelt oder verteilt, die für karitative, religiöse, kulturelle, erzieherische oder soziale Zwecke bestimmt sind.[^61-2]
 
-<sup>3</sup> Der Anmeldung sind die Statuten und das Verzeichnis der Vorstandsmitglieder beizufügen.
+<sup>2bis</sup> Der Bundesrat erlässt die Ausführungsvorschriften über die Pflicht zur Eintragung in das Handelsregister.[^61-3]
 
-[^61-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2ter</sup> Er kann Vereine nach Absatz 2 Ziffer 3 insbesondere dann von der Eintragungspflicht ausnehmen, wenn sie aufgrund von Höhe, Herkunft, Ziel oder Verwendungszweck der gesammelten oder verteilten Vermögenswerte einem geringen Risiko des Missbrauchs für Geldwäscherei oder Terrorismusfinanzierung ausgesetzt sind.[^61-4]
+
+<sup>3</sup> …[^61-5]
+
+[^61-1]: Eingefügt durch Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^61-3]: Eingefügt durch Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-4]: Eingefügt durch Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-5]: Aufgehoben durch Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II*a*. Mitgliederverzeichnis
+
+#### Art. 61a
+
+[^61a-1]
+
+<sup>1</sup> Vereine, die zur Eintragung in das Handelsregister verpflichtet sind, führen ein Verzeichnis, in das die Mitglieder mit Vor- und Nachnamen oder Firma sowie Adresse eingetragen werden.
+
+<sup>2</sup> Sie führen das Verzeichnis so, dass in der Schweiz jederzeit darauf zugegriffen werden kann.
+
+<sup>3</sup> Sie bewahren die Angaben über jedes Mitglied sowie allfällige Belege während fünf Jahren nach der Streichung des Mitglieds aus dem Verzeichnis auf.
+
+[^61a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### III. Vereine ohne Persönlichkeit
 
@@ -1107,7 +1130,11 @@ Jedes Mitglied ist von Gesetzes wegen vom Stimmrechte ausgeschlossen bei der Bes
 
 #### Art. 69
 
-Der Vorstand hat das Recht und die Pflicht, nach den Befugnissen, die die Statuten ihm einräumen, die Angelegenheiten des Vereins zu besorgen und den Verein zu vertreten.
+<sup>1</sup> Der Vorstand hat das Recht und die Pflicht, nach den Befugnissen, die die Statuten ihm einräumen, die Angelegenheiten des Vereins zu besorgen und den Verein zu vertreten.
+
+<sup>2</sup> Vereine, die zur Eintragung in das Handelsregister verpflichtet sind, müssen durch eine Person vertreten werden können, die Wohnsitz in der Schweiz hat. Diese Person muss Zugang zum Mitgliederverzeichnis haben.[^69-1]
+
+[^69-1]: Eingefügt durch Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Buchführung
 
@@ -1150,7 +1177,7 @@ Der Verein muss seine Buchführung durch eine Revisionsstelle ordentlich prüfen
 
 [^69c-1]
 
-<sup>1</sup> Fehlt dem Verein eines der vorgeschriebenen Organe oder verfügt er über kein Rechtsdomizil an seinem Sitz mehr, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.[^69c-2]
+<sup>1</sup> Fehlt dem Verein eines der vorgeschriebenen Organe oder das Mitgliederverzeichnis nach Artikel 61*a* oder verfügt er über kein Rechtsdomizil an seinem Sitz mehr, so kann ein Mitglied oder ein Gläubiger dem Gericht beantragen, die erforderlichen Massnahmen zu ergreifen.[^69c-2]
 
 <sup>2</sup> Das Gericht kann dem Verein insbesondere eine Frist zur Wiederherstellung des rechtmässigen Zustandes ansetzen und, wenn nötig, einen Sachwalter ernennen.
 
@@ -1159,7 +1186,17 @@ Der Verein muss seine Buchführung durch eine Revisionsstelle ordentlich prüfen
 <sup>4</sup> Liegt ein wichtiger Grund vor, so kann der Verein vom Gericht die Abberufung von Personen verlangen, die dieses eingesetzt hat.
 
 [^69c-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69c-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^69c-2]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### B<sup>bis</sup>. Drohende Zahlungsunfähigkeit und Überschuldung
+
+#### Art. 69d
+
+[^69d-1]
+
+Für Vereine, die verpflichtet sind, sich ins Handelsregister eintragen zu lassen, sind die Bestimmungen des Aktienrechts zur drohenden Zahlungsunfähigkeit und zur Überschuldung sowie zur Aufwertung von Grundstücken und Beteiligungen entsprechend anwendbar.
+
+[^69d-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Mitgliedschaft
 
@@ -1366,27 +1403,32 @@ Ist die vorgesehene Organisation nicht genügend, fehlt der Stiftung eines der v
 
 [^84-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### C<sup>bis</sup>. Massnahmen bei Überschuldung und Zahlungsunfähigkeit
+### C<sup>bis</sup>. Drohende Zahlungsunfähigkeit und Überschuldung
 
 #### Art. 84a
 
 [^84a-1]
 
-<sup>1</sup> Besteht begründete Besorgnis, dass die Stiftung überschuldet ist oder ihre Verbindlichkeiten längerfristig nicht mehr erfüllen kann, so stellt das oberste Stiftungsorgan auf Grund der Veräusserungswerte eine Zwischenbilanz auf und legt sie der Revisionsstelle zur Prüfung vor. Verfügt die Stiftung über keine Revisionsstelle, so legt das oberste Stiftungsorgan die Zwischenbilanz der Aufsichtsbehörde vor.
+<sup>1</sup> Bei drohender Zahlungsunfähigkeit oder Überschuldung muss das oberste Stiftungsorgan umgehend die Aufsichtsbehörde benachrichtigen.
 
-<sup>2</sup> Stellt die Revisionsstelle fest, dass die Stiftung überschuldet ist oder ihre Verbindlichkeiten längerfristig nicht erfüllen kann, so legt sie die Zwischenbilanz der Aufsichtsbehörde vor.
+<sup>2</sup> Stellt die Revisionsstelle fest, dass die Stiftung zahlungsunfähig oder überschuldet ist, so benachrichtigt sie die Aufsichtsbehörde.
 
-<sup>3</sup> Die Aufsichtsbehörde hält das oberste Stiftungsorgan zur Einleitung der erforderlichen Massnahmen an. Bleibt dieses untätig, so trifft die Aufsichtsbehörde die nötigen Massnahmen.
+<sup>3</sup> Die Aufsichtsbehörde hält das oberste Stiftungsorgan zur Einleitung der erforderlichen Massnahmen an. Bleibt dieses untätig, so trifft die Aufsichtsbehörde die nötigen Massnahmen oder benachrichtigt das Gericht.
 
-<sup>4</sup> Nötigenfalls beantragt die Aufsichtsbehörde vollstreckungsrechtliche Massnahmen; die aktienrechtlichen Bestimmungen über die Eröffnung oder den Aufschub des Konkurses sind sinngemäss anwendbar.
+<sup>4</sup> Die Bestimmungen des Aktienrechts zur Ermittlung der Überschuldung sowie zur Aufwertung von Grundstücken und Beteiligungen sind entsprechend anwendbar.
 
-[^84a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### C<sup>ter</sup>. Offenlegung von Vergütungen
 
 #### Art. 84b
 
 [^84b-1]
 
-[^84b-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Aufgehoben durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), mit Wirkung seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+Das oberste Stiftungsorgan muss der Aufsichtsbehörde jährlich den Gesamtbetrag der ihm und der allfälligen Geschäftsleitung direkt oder indirekt ausgerichteten Vergütungen im Sinne von Artikel 734*a* Absatz 2 des Obligationenrechts[^84b-2] gesondert bekannt geben.
+
+[^84b-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### D. Umwandlung der Stiftung
 
@@ -1432,7 +1474,7 @@ Die zuständige Bundes- oder Kantonsbehörde kann auf Antrag der Aufsichtsbehör
 
 <sup>5</sup> Die Behörde, welche die Verfügung von Todes wegen eröffnet, teilt der zuständigen Aufsichtsbehörde die Anordnung zur Änderung des Stiftungszwecks mit.
 
-[^86a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 (AS **200****5** 4545; [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^86a-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Stiftungsrecht), in Kraft seit 1. Jan. 2006 ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 [^86a-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 
 ### III. Unwesentliche Änderungen der Stiftungsurkunde
@@ -1512,34 +1554,34 @@ Die zuständige Bundes- oder Kantonsbehörde hebt die Stiftung auf Antrag oder v
 
 Für Personalfürsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen- und Invalidenvorsorge tätig sind und die dem Freizügigkeitsgesetz vom 17. Dezember 1993[^89a-6] (FZG) unterstellt sind, gelten überdies die folgenden Bestimmungen des Bundesgesetzes vom 25. Juni 1982[^89a-7] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) über:[^89a-8]
 
-- 1\.[^89a-9] die Definition und Grundsätze der beruflichen Vorsorge sowie des versicherbaren Lohnes oder des versicherbaren Einkommens (Art. 1, 33*a* und 33*b*),
-- 2\.[^89a-10] die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1),
-- 3\. die Begünstigten bei Hinterlassenenleistungen (Art. 20*a*),
-- 3*a*.[^89a-11] die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5),
-- 3*b*.[^89a-12] die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26*a*),
-- 4\.[^89a-13] die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4),
-- [tab] 4*a*.[^89a-14] die Zustimmung bei Kapitalabfindung (Art. 37*a*),
+- 1\.[^89a-9] die Definition und Grundsätze der beruflichen Vorsorge sowie des versicherbaren Lohnes oder des versicherbaren Einkommens (Art. 1, 33*a* und 33*b*);
+- 2\.[^89a-10] die Unterstellung der Personen unter die AHV (Art. 5 Abs. 1);
+- 3\. die Begünstigten bei Hinterlassenenleistungen (Art. 20*a*);
+- 3*a*.[^89a-11] die Anpassung der Invalidenrente nach dem Vorsorgeausgleich (Art. 24 Abs. 5);
+- 3*b*.[^89a-12] die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26*a*);
+- 4\.[^89a-13] die Anpassung der reglementarischen Leistungen an die Preisentwicklung (Art. 36 Abs. 2–4);
+- [tab] 4*a*.[^89a-14] die Zustimmung bei Kapitalabfindung (Art. 37*a*);
 - 4*b*.[^89a-15] die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
-- 5\. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41),
-- [tab] 5*a*.[^89a-16] die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85*a* Bst. f und Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>),
-- 6\. die Verantwortlichkeit (Art. 52),
-- 7\.[^89a-17] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*),
-- 8\.[^89a-18] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*),
-- 9\. die Teil- oder Gesamtliquidation (Art. 53*b*–53*d*),
-- 10\.[^89a-19] die Auflösung von Verträgen (Art. 53*e* und 53*f*),
-- 11\. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56*a*, 57 und 59),
-- 12\.[^89a-20] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*),
+- 5\. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41);
+- [tab] 5*a*.[^89a-16] die Verwendung, Bearbeitung und Bekanntgabe der AHV-Nummer (Art. 48 Abs. 4, Art. 85*a* Bst. f und Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
+- 6\. die Verantwortlichkeit (Art. 52);
+- 7\.[^89a-17] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
+- 8\.[^89a-18] die Integrität und Loyalität der Verantwortlichen, die Rechtsgeschäfte mit Nahestehenden und die Interessenkonflikte (Art. 51*b*, 51*c* und 53*a*);
+- 9\. die Teil- oder Gesamtliquidation (Art. 53*b*–53*d*);
+- 10\.[^89a-19] die Auflösung von Verträgen (Art. 53*e* und 53*f*);
+- 11\. den Sicherheitsfonds (Art. 56 Abs. 1 Bst. c und Abs. 2–5, Art. 56*a*, 57 und 59);
+- 12\.[^89a-20] die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*c*);
 - 13\.[^89a-21] …
-- 14\.[^89a-22] die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72*a*–72*g*),
-- 15\. die Transparenz (Art. 65*a*),
-- 16\. die Rückstellungen (Art. 65*b*),
-- 17\. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4),
-- 18\. die Vermögensverwaltung (Art. 71),
-- 19\. die Rechtspflege (Art. 73 und 74),
-- 20\. die Strafbestimmungen (Art. 75–79),
-- 21\. den Einkauf (Art. 79*b*),
-- 22\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*),
-- 23\. die Information der Versicherten (Art. 86*b*).[^89a-23]
+- 14\.[^89a-22] die finanzielle Sicherheit (Art. 65 Abs. 1, 3 und 4, Art. 66 Abs. 4, Art. 67 und Art. 72*a*–72*g*);
+- 15\. die Transparenz (Art. 65*a*);
+- 16\. die Rückstellungen (Art. 65*b*);
+- 17\. die Versicherungsverträge zwischen Vorsorgeeinrichtungen und Versicherungseinrichtungen (Art. 68 Abs. 3 und 4);
+- 18\.[^89a-23] die Vermögensverwaltung (Art. 71) und die Stimmpflicht als Aktionärin (Art. 71*a* und 71*b*);
+- 19\. die Rechtspflege (Art. 73 und 74);
+- 20\. die Strafbestimmungen (Art. 75–79);
+- 21\. den Einkauf (Art. 79*b*);
+- 22\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*);
+- 23\. die Information der Versicherten (Art. 86*b*).[^89a-24]
 
 <sup>7</sup>
 
@@ -1554,7 +1596,7 @@ Für Personalfürsorgestiftungen, die auf dem Gebiet der Alters-, Hinterlassenen
 - 7\. die Aufsicht und die Oberaufsicht (Art. 61–62*a* und 64–64*b*);
 - 8\. die Rechtspflege (Art. 73 und 74);
 - 9\. die Strafbestimmungen (Art. 75–79);
-- 10\. die steuerliche Behandlung (Art. 80, 81 Abs. 1 und 83).[^89a-24]
+- 10\. die steuerliche Behandlung (Art. 80, 81 Abs. 1 und 83).[^89a-25]
 
 <sup>8</sup>
 
@@ -1562,7 +1604,7 @@ Für Personalfürsorgestiftungen nach Absatz 7 gelten zudem die folgenden Bestim
 
 - 1\. Sie verwalten ihr Vermögen so, dass Sicherheit, genügender Ertrag auf den Anlagen und die für ihre Aufgaben benötigten flüssigen Mittel gewährleistet sind.
 - 2\. Über Teilliquidationssachverhalte von patronalen Wohlfahrtsfonds mit Ermessensleistungen verfügt die Aufsichtsbehörde auf Antrag des Stiftungsrats.
-- 3\. Sie beachten die Grundsätze der Gleichbehandlung und der Angemessenheit sinngemäss.[^89a-25]
+- 3\. Sie beachten die Grundsätze der Gleichbehandlung und der Angemessenheit sinngemäss.[^89a-26]
 
 [^89a-1]: Eingefügt durch Ziff. II des BG vom 21. März 1958, in Kraft seit 1. Juli 1958 ([AS 1958 379](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); [BBl 1956 II 825](https://fedlex.data.admin.ch/eli/fga/1956/2_825_845_)). Bis zum Inkrafttreten des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht) am 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): Art. 89<sup>bis</sup>*.*
 [^89a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1586,11 +1628,12 @@ Für Personalfürsorgestiftungen nach Absatz 7 gelten zudem die folgenden Bestim
 [^89a-20]: Fassung gemäss Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), in Kraft seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-21]: Aufgehoben durch Ziff. II 1 des BG vom 19. März 2010 (Strukturreform BVG), mit Wirkung seit 1. Jan. 2012 ([AS 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [BBl 2007 5669](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-22]: Fassung gemäss Ziff. II 1 des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-23]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Fassung gemäss Anhang Ziff. 1 des BG vom 3. Okt. 2003 (1. BVG-Revision), Ziff. 6, 7, 10–12, 14 (mit Ausnahme von Art. 66 Abs. 4), 15, 17–20 und 23 in Kraft seit 1. April 2004, Ziff. 3–5, 8, 9, 13, 14 (Art. 66 Abs. 4) und 16 in Kraft seit 1. Jan. 2005, Ziff. 1, 21 und 22 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^89a-24]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-23]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-24]: Eingefügt durch Anhang Ziff. 1 des BG vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge ([AS 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [BBl 1976 I 149](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Fassung gemäss Anhang Ziff. 1 des BG vom 3. Okt. 2003 (1. BVG-Revision), Ziff. 6, 7, 10–12, 14 (mit Ausnahme von Art. 66 Abs. 4), 15, 17–20 und 23 in Kraft seit 1. April 2004, Ziff. 3–5, 8, 9, 13, 14 (Art. 66 Abs. 4) und 16 in Kraft seit 1. Jan. 2005, Ziff. 1, 21 und 22 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^89a-25]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-26]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Personalfürsorgestiftungen), in Kraft seit 1. April 2016 ([AS 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [BBl 2014 6143](https://fedlex.data.admin.ch/eli/fga/2014/1295)[6649](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
-### Zweiter Titel<sup>bis</sup>:******** Die Sammelvermögen
+### Zweiter Titel<sup>bis</sup>: Die Sammelvermögen
 
 [^book1-tit2bis-1][^book1-tit2bis-2]
 
@@ -1619,7 +1662,7 @@ Für Personalfürsorgestiftungen nach Absatz 7 gelten zudem die folgenden Bestim
 
 ### Erste Abteilung: Das Eherecht
 
-### Dritter Titel:**** Die Eheschliessung
+### Dritter Titel: Die Eheschliessung
 
 [^book2-part1-tit3-1]
 
@@ -1683,7 +1726,7 @@ Die Ehe kann von zwei Personen eingegangen werden, die das 18. Altersjahr zurüc
 
 [^book2-part1-tit3-chap2-lvlB-lvlI-1]
 
-[^book2-part1-tit3-chap2-lvlB-lvlI-1]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); BBl **20****03** 1288).
+[^book2-part1-tit3-chap2-lvlB-lvlI-1]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 95
 
@@ -1764,7 +1807,7 @@ Das Zivilstandsamt prüft, ob:
 
 [^99-1]: Fassung gemäss Ziff. I 3 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^99-2]: Fassung gemäss Ziff. I des BG vom 28. Sept. 2018, in Kraft seit 1. Jan. 2020 ([AS 2019 3813](https://fedlex.data.admin.ch/eli/oc/2019/695); [BBl 2017 6769](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
-[^99-3]: Eingefügt durch Ziff. I des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
+[^99-3]: Eingefügt durch Ziff. I des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517), [2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
 
 ### III. Fristen
 
@@ -1889,7 +1932,7 @@ Ein Ehegatte kann verlangen, dass die Ehe für ungültig erklärt wird, wenn er:
 
 [^110-1]: Aufgehoben durch Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Vierter Titel:**** Die Ehescheidung und die Ehetrennung
+### Vierter Titel: Die Ehescheidung und die Ehetrennung
 
 [^book2-part1-tit4-1]
 
@@ -1997,7 +2040,17 @@ Der Ehegatte, der seinen Namen bei der Eheschliessung geändert hat, behält die
 
 <sup>1</sup> Für die güterrechtliche Auseinandersetzung gelten die Bestimmungen über das Güterrecht.
 
-<sup>2</sup> Geschiedene Ehegatten haben zueinander kein gesetzliches Erbrecht und können aus Verfügungen von Todes wegen, die sie vor der Rechtshängigkeit des Scheidungsverfahrens errichtet haben, keine Ansprüche erheben.
+<sup>2</sup> Geschiedene Ehegatten haben zueinander kein gesetzliches Erbrecht.[^120-1]
+
+<sup>3</sup>
+
+Unter Vorbehalt einer abweichenden Anordnung können Ehegatten keine Ansprüche aus Verfügungen von Todes wegen erheben:
+
+- 1\. nach der Scheidung;
+- 2\. nach dem Tod eines Ehegatten während eines Scheidungsverfahrens, das den Verlust des Pflichtteilsanspruchs des überlebenden Ehegatten bewirkt.[^120-2]
+
+[^120-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^120-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### C. Wohnung der Familie
 
@@ -2281,7 +2334,7 @@ Das Gericht regelt die Elternrechte und -pflichten nach den Bestimmungen über d
 
 Aufgehoben
 
-### Fünfter Titel:**** Die Wirkungen der Ehe im Allgemeinen
+### Fünfter Titel: Die Wirkungen der Ehe im Allgemeinen
 
 [^book2-part1-tit5-1]
 
@@ -2532,7 +2585,7 @@ Erfüllt ein Ehegatte seine Unterhaltspflicht gegenüber der Familie nicht, so k
 
 [^180-1]: Aufgehoben durch Anhang Ziff. 2 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
-### Sechster Titel:**** Das Güterrecht der Ehegatten
+### Sechster Titel: Das Güterrecht der Ehegatten
 
 [^book2-part1-tit6-1]
 
@@ -2896,13 +2949,22 @@ Bei der güterrechtlichen Auseinandersetzung sind die Vermögensgegenstände zu 
 
 <sup>1</sup> Durch Ehevertrag kann eine andere Beteiligung am Vorschlag vereinbart werden.
 
-<sup>2</sup> Solche Vereinbarungen dürfen die Pflichtteilsansprüche der nichtgemeinsamen Kinder und deren Nachkommen nicht beeinträchtigen.
+<sup>2</sup> Die über die Hälfte hinaus zugewiesene Beteiligung am Vorschlag wird bei der Berechnung der Pflichtteile des überlebenden Ehegatten oder eingetragenen Partners, der gemeinsamen Kinder und deren Nachkommen nicht hinzugerechnet.[^216-1]
+
+<sup>3</sup> Eine solche Vereinbarung darf die Pflichtteilsansprüche der nichtgemeinsamen Kinder und deren Nachkommen nicht beeinträchtigen.[^216-2]
+
+[^216-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^216-2]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### b. Bei Scheidung, Trennung, Ungültigerklärung der Ehe oder gerichtlicher Gütertrennung
 
 #### Art. 217
 
-Bei Scheidung, Trennung, Ungültigerklärung der Ehe oder gerichtlicher Anordnung der Gütertrennung gelten Vereinbarungen über die Änderung der gesetzlichen Beteiligung am Vorschlag nur, wenn der Ehevertrag dies ausdrücklich vorsieht.
+<sup>1</sup> Bei Scheidung, Trennung, Ungültigerklärung der Ehe oder gerichtlicher Anordnung der Gütertrennung gelten Vereinbarungen über die Änderung der gesetzlichen Beteiligung am Vorschlag nur, wenn der Ehevertrag dies ausdrücklich vorsieht.
+
+<sup>2</sup> Dies gilt auch bei Auflösung des Güterstands durch Tod, wenn ein Scheidungsverfahren hängig ist, das den Verlust des Pflichtteilsanspruchs des überlebenden Ehegatten bewirkt.[^217-1]
+
+[^217-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### VI. Bezahlung der Beteiligungsforderung und des Mehrwertanteils
 
@@ -3127,6 +3189,10 @@ Massgebend für den Wert des bei Auflösung des Güterstandes vorhandenen Gesamt
 
 <sup>3</sup> Solche Vereinbarungen dürfen die Pflichtteilsansprüche der Nachkommen nicht beeinträchtigen.
 
+<sup>4</sup> Unter Vorbehalt einer abweichenden Anordnung im Ehevertrag gelten die Vereinbarungen über eine andere Teilung im Todesfall nicht, wenn ein Scheidungsverfahren hängig ist, das den Verlust des Pflichtteilsanspruchs des überlebenden Ehegatten bewirkt.[^241-1]
+
+[^241-1]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
 ### 2. In den übrigen Fällen
 
 #### Art. 242
@@ -3207,13 +3273,13 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegende
 
 ### Zweite Abteilung: Die Verwandtschaft
 
-### Siebenter Titel: Die Entstehung des Kindesverhältnisses****
+### Siebenter Titel: Die Entstehung des Kindesverhältnisses
 
 [^book2-part2-tit7-1]
 
 [^book2-part2-tit7-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Erster Abschnitt: Allgemeine Bestimmungen****
+### Erster Abschnitt: Allgemeine Bestimmungen
 
 [^book2-part2-tit7-chap1-1]
 
@@ -3248,7 +3314,7 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegende
 
 [^254-1]: Aufgehoben durch Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Zweiter Abschnitt: Die Elternschaft des Ehemannes oder der Ehefrau****
+### Zweiter Abschnitt: Die Elternschaft des Ehemannes oder der Ehefrau
 
 [^book2-part2-tit7-chap2-1]
 
@@ -3291,9 +3357,9 @@ Steht ein Vermögenswert im Miteigentum und weist ein Ehegatte ein überwiegende
 
 ### I. Klagerecht
 
-[^book2-part2-tit7-chap2-lvlI-lvlI-1]
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlI-lvlI-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Ehe für alle), in Kraft seit 1. Juli 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -3406,7 +3472,7 @@ Die Anerkennung kann angefochten werden:
 [^259-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^259-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Dritter Abschnitt: Anerkennung und Vaterschaftsurteil****
+### Dritter Abschnitt: Anerkennung und Vaterschaftsurteil
 
 [^book2-part2-tit7-chap3-1]
 
@@ -3522,9 +3588,7 @@ Die Klage kann vor oder nach der Niederkunft angebracht werden, ist aber einzure
 [^263-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^263-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Vierter Abschnitt****: Die Adoption
-
-[^book2-part2-tit7-chap4-1]
+### Vierter Abschnitt[^book2-part2-tit7-chap4-1]: Die Adoption
 
 [^book2-part2-tit7-chap4-1]: Ursprünglich Dritter Abschnitt.
 
@@ -3762,7 +3826,7 @@ Das Bürgerrecht des minderjährigen Kindes bestimmt sich nach den Bestimmungen 
 <sup>5</sup> Der Adoptionsentscheid enthält alle für die Eintragung in das Personenstandsregister erforderlichen Angaben betreffend den Vornamen, den Namen und das Bürgerrecht der adoptierten Person.[^268-5]
 
 [^268-1]: Fassung gemäss Ziff. I 1 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
-[^268-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); BBl **2****015** 877).
+[^268-2]: Fassung gemäss Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^268-3]: Fassung gemäss Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^268-4]: Eingefügt durch Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 [^268-5]: Eingefügt durch Ziff. I des BG vom 17. Juni 2016 (Adoption), in Kraft seit 1. Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
@@ -3945,13 +4009,13 @@ Die Klage ist binnen sechs Monaten seit Entdeckung des Anfechtungsgrundes und in
 [^269c-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^269c-3]: Aufgehoben durch Anhang Ziff. 15 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Achter Titel: Die Wirkungen des Kindesverhältnisses****
+### Achter Titel: Die Wirkungen des Kindesverhältnisses
 
 [^book2-part2-tit8-1]
 
 [^book2-part2-tit8-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Erster Abschnitt: Die Gemeinschaft der Eltern und Kinder****
+### Erster Abschnitt: Die Gemeinschaft der Eltern und Kinder
 
 [^book2-part2-tit8-chap1-1]
 
@@ -4096,11 +4160,11 @@ Eltern und Kinder sind einander allen Beistand, alle Rücksicht und Achtung schu
 
 [^275a-1]: Eingefügt durch Ziff. I 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Zweiter Abschnitt: Die Unterhaltspflicht der Eltern****
+### Zweiter Abschnitt: Die Unterhaltspflicht der Eltern
 
 [^book2-part2-tit8-chap2-1]
 
-[^book2-part2-tit8-chap2-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); BBl **197****4** II 1).
+[^book2-part2-tit8-chap2-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. Allgemeines
 
@@ -4353,7 +4417,7 @@ Wenn die Eltern die Sorge für das Kind vernachlässigen, kann das Gericht ihre 
 
 Vernachlässigen die Eltern beharrlich die Erfüllung ihrer Unterhaltspflicht, oder ist anzunehmen, dass sie Anstalten zur Flucht treffen oder ihr Vermögen verschleudern oder beiseite schaffen, so kann das Gericht sie verpflichten, für die künftigen Unterhaltsbeiträge angemessene Sicherheit zu leisten.
 
-[^292-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 (AS **19****77** 237; [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^292-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### G. Öffentliches Recht
 
@@ -4400,7 +4464,7 @@ Die Mutter kann spätestens bis ein Jahr nach der Geburt gegen den Vater oder de
 [^295-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^295-2]: Fassung gemäss Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Dritter Abschnitt: Die elterliche Sorge****
+### Dritter Abschnitt: Die elterliche Sorge
 
 [^book2-part2-tit8-chap3-1]
 
@@ -4979,7 +5043,7 @@ Die Kindesschutzbehörde bleibt jedoch befugt:[^315a-3]
 
 [^315a-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Juni 1976 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)). Fassung gemäss Ziff. I 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 [^315a-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^315a-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 (AS **201****1** 725; [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
+[^315a-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### b. Abänderung gerichtlicher Anordnungen
 
@@ -5025,7 +5089,7 @@ Die Kantone sichern durch geeignete Vorschriften die zweckmässige Zusammenarbei
 
 [^317-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Vierter Abschnitt: Das Kindesvermögen****
+### Vierter Abschnitt: Das Kindesvermögen
 
 [^book2-part2-tit8-chap4-1]
 
@@ -5045,7 +5109,7 @@ Die Kantone sichern durch geeignete Vorschriften die zweckmässige Zusammenarbei
 
 [^318-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^318-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^318-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); BBl **20****06** 7001).
+[^318-3]: Fassung gemäss Ziff. I 2 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
 ### B. Verwendung der Erträge
 
@@ -5165,7 +5229,7 @@ Endet die elterliche Sorge oder Verwaltung, so haben die Eltern das Kindesvermö
 
 [^327-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Fünfter Abschnitt:**** Minderjährige unter Vormundschaft
+### Fünfter Abschnitt: Minderjährige unter Vormundschaft
 
 [^book2-part2-tit8-chap5-1]
 
@@ -5250,7 +5314,7 @@ Das Kind unter Vormundschaft hat die gleiche Rechtsstellung wie das Kind unter e
 
 <sup>2</sup> Die Hausgewalt erstreckt sich auf alle Personen, die als Verwandte[^331-1] und Verschwägerte oder auf Grund eines Vertragsverhältnisses als Arbeitnehmer oder in ähnlicher Stellung in dem gemeinsamen Haushalte leben.[^331-2]
 
-[^331-1]: Fassung dieses Wortes gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); BBl **19****71** I 1200).
+[^331-1]: Fassung dieses Wortes gemäss Ziff. I 3 des BG vom 30. Juni 1972, in Kraft seit 1. April 1973 ([AS 1972 2819](https://fedlex.data.admin.ch/eli/oc/1972/2819_2873_2653); [BBl 1971 I 1200](https://fedlex.data.admin.ch/eli/fga/1971/1_1200_1222_85)).
 [^331-2]: Fassung gemäss Ziff. II Art. 2 Ziff. 2 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)).
 
 ### B. Wirkung
@@ -5455,7 +5519,7 @@ Die Aufhebung der Gemeinderschaft erfolgt:
 
 [^359-1]: Aufgehoben durch Ziff. II 21 des BG vom 15. Dez. 1989 über die Genehmigung kantonaler Erlasse durch den Bund, mit Wirkung seit 1. Febr. 1991 ([AS 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [BBl 1988 II 1333](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### Dritte Abteilung:**** Der Erwachsenenschutz
+### Dritte Abteilung: Der Erwachsenenschutz
 
 [^book2-part3-1]
 
@@ -6767,11 +6831,11 @@ Wer urteilsfähig ist und das 18. Altersjahr zurückgelegt hat, ist befugt, unte
 
 #### Art. 470
 
-<sup>1</sup> Wer Nachkommen, Eltern, den Ehegatten, eine eingetragene Partnerin oder einen eingetragenen Partner hinterlässt, kann bis zu deren Pflichtteil über sein Vermögen von Todes wegen verfügen.[^470-1]
+<sup>1</sup> Wer Nachkommen, den Ehegatten, die eingetragene Partnerin oder den eingetragenen Partner hinterlässt, kann bis zu deren Pflichtteil über sein Vermögen von Todes wegen verfügen.[^470-1]
 
 <sup>2</sup> Wer keine der genannten Erben hinterlässt, kann über sein ganzes Vermögen von Todes wegen verfügen.
 
-[^470-1]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^470-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Pflichtteil
 
@@ -6779,36 +6843,42 @@ Wer urteilsfähig ist und das 18. Altersjahr zurückgelegt hat, ist befugt, unte
 
 [^471-1]
 
-Der Pflichtteil beträgt:
+Der Pflichtteil beträgt die Hälfte des gesetzlichen Erbanspruchs.
 
-- 1\. für einen Nachkommen drei Viertel des gesetzlichen Erbanspruches;
-- 2\. für jedes der Eltern die Hälfte;
-- 3\.[^471-2] für den überlebenden Ehegatten, die eingetragene Partnerin oder den eingetragenen Partner die Hälfte.
+[^471-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
-[^471-1]: Fassung gemäss Ziff. I 2 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^471-2]: Fassung gemäss Anhang Ziff. 8 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### III. …
+### III. Verlust des Pflichtteilsanspruchs im Scheidungsverfahren
 
 #### Art. 472
 
 [^472-1]
 
-[^472-1]: Aufgehoben durch Ziff. I 2 des BG vom 5. Okt. 1984, mit Wirkung seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>1</sup>
 
-### IV. Begünstigung des Ehegatten
+Ist beim Tod des Erblassers ein Scheidungsverfahren hängig, so verliert der überlebende Ehegatte seinen Pflichtteilsanspruch, wenn:
+
+- 1\. das Verfahren auf gemeinsames Begehren eingeleitet oder nach den Vorschriften über die Scheidung auf gemeinsames Begehren fortgesetzt wurde; oder
+- 2\. die Ehegatten mindestens zwei Jahre getrennt gelebt haben.
+
+<sup>2</sup> In einem solchen Fall gelten die Pflichtteile, wie wenn der Erblasser nicht verheiratet wäre.
+
+<sup>3</sup> Die Absätze 1 und 2 gelten bei Verfahren zur Auflösung einer eingetragenen Partnerschaft sinngemäss.
+
+[^472-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### IV. Nutzniessung
 
 #### Art. 473
 
-<sup>1</sup> Der Erblasser kann dem überlebenden Ehegatten durch Verfügung von Todes wegen gegenüber den gemeinsamen Nachkommen die Nutzniessung an dem ganzen ihnen zufallenden Teil der Erbschaft zuwenden.[^473-1]
+[^473-1]
 
-<sup>2</sup> Diese Nutzniessung tritt an die Stelle des dem Ehegatten neben diesen Nachkommen zustehenden gesetzlichen Erbrechts. Neben dieser Nutzniessung beträgt der verfügbare Teil einen Viertel des Nachlasses.[^473-2]
+<sup>1</sup> Unabhängig von einer allfälligen Verfügung über den verfügbaren Teil kann der Erblasser dem überlebenden Ehegatten, der überlebenden eingetragenen Partnerin oder dem überlebenden eingetragenen Partner durch Verfügung von Todes wegen gegenüber den gemeinsamen Nachkommen die Nutzniessung am ganzen ihnen zufallenden Teil der Erbschaft zuwenden.
 
-<sup>3</sup> Im Falle der Wiederverheiratung entfällt die Nutzniessung auf jenem Teil der Erbschaft, der im Zeitpunkt des Erbganges nach den ordentlichen Bestimmungen über den Pflichtteil der Nachkommen nicht hätte mit der Nutzniessung belastet werden können.[^473-3]
+<sup>2</sup> Diese Nutzniessung tritt an die Stelle des dem Ehegatten, der eingetragenen Partnerin oder dem eingetragenen Partner neben diesen Nachkommen zustehenden gesetzlichen Erbrechts. Neben dieser Nutzniessung beträgt der verfügbare Teil die Hälfte des Nachlasses.
 
-[^473-1]: Fassung gemäss Ziff. I des BG vom 5. Okt 2001, in Kraft seit 1. März 2002 ([AS 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [BBl 2001 1121](https://fedlex.data.admin.ch/eli/fga/2001/194)[2011](https://fedlex.data.admin.ch/eli/fga/2001/443)[2111](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-2]: Fassung gemäss Ziff. I des BG vom 5. Okt 2001, in Kraft seit 1. März 2002 ([AS 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [BBl 2001 1121](https://fedlex.data.admin.ch/eli/fga/2001/194)[2011](https://fedlex.data.admin.ch/eli/fga/2001/443)[2111](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-3]: Fassung gemäss Ziff. I 2 des BG vom 5. Okt. 1984, in Kraft seit 1. Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; BBl **197****9** II 1191).
+<sup>3</sup> Heiratet der überlebende Ehegatte wieder oder begründet er eine eingetragene Partnerschaft, so entfällt die Nutzniessung auf jenem Teil der Erbschaft, der im Zeitpunkt des Erbgangs nach den ordentlichen Bestimmungen über den Pflichtteil der Nachkommen nicht hätte mit der Nutzniessung belastet werden können. Diese Bestimmung gilt sinngemäss, wenn die überlebende eingetragene Partnerin oder der überlebende eingetragene Partner eine neue eingetragene Partnerschaft begründet oder heiratet.
+
+[^473-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### V. Berechnung des verfügbaren Teils
 
@@ -6826,11 +6896,17 @@ Der Pflichtteil beträgt:
 
 Die Zuwendungen unter Lebenden werden insoweit zum Vermögen hinzugerechnet, als sie der Herabsetzungsklage unterstellt sind.
 
-### 3. Versicherungsansprüche
+### 3. Versicherung und gebundene Selbstvorsorge
 
 #### Art. 476
 
-Ist ein auf den Tod des Erblassers gestellter Versicherungsanspruch mit Verfügung unter Lebenden oder von Todes wegen zugunsten eines Dritten begründet oder bei Lebzeiten des Erblassers unentgeltlich auf einen Dritten übertragen worden, so wird der Rückkaufswert des Versicherungsanspruches im Zeitpunkt des Todes des Erblassers zu dessen Vermögen gerechnet.
+[^476-1]
+
+<sup>1</sup> Ist ein auf den Tod des Erblassers gestellter Versicherungsanspruch, einschliesslich eines solchen Anspruchs aus der gebundenen Selbstvorsorge, mit Verfügung unter Lebenden oder von Todes wegen zugunsten eines Dritten begründet oder bei Lebzeiten des Erblassers unentgeltlich auf einen Dritten übertragen worden, so wird der Rückkaufswert des Versicherungsanspruchs im Zeitpunkt des Todes des Erblassers zu dessen Vermögen hinzugerechnet.
+
+<sup>2</sup> Ebenfalls zum Vermögen des Erblassers hinzugerechnet werden Ansprüche von Begünstigten aus der gebundenen Selbstvorsorge des Erblassers bei einer Bankstiftung.
+
+[^476-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### B. Enterbung
 
@@ -7023,7 +7099,14 @@ Der Erblasser kann in seiner Verfügung eine oder mehrere Personen bezeichnen, d
 
 <sup>2</sup> Er kann über sein Vermögen frei verfügen.
 
-<sup>3</sup> Verfügungen von Todes wegen oder Schenkungen, die mit seinen Verpflichtungen aus dem Erbvertrag nicht vereinbar sind, unterliegen jedoch der Anfechtung.
+<sup>3</sup>
+
+Verfügungen von Todes wegen und Zuwendungen unter Lebenden, mit Ausnahme der üblichen Gelegenheitsgeschenke, unterliegen jedoch der Anfechtung, soweit sie:
+
+- 1\. mit den Verpflichtungen aus dem Erbvertrag nicht vereinbar sind, namentlich wenn sie die erbvertraglichen Begünstigungen schmälern; und
+- 2\. im Erbvertrag nicht vorbehalten worden sind.[^494-1]
+
+[^494-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Erbverzicht
 
@@ -7310,15 +7393,29 @@ Liegt der Mangel einer eigenhändigen letztwilligen Verfügung darin, dass Jahr,
 
 #### Art. 522
 
-<sup>1</sup> Hat der Erblasser seine Verfügungsbefugnis überschritten, so können die Erben, die nicht dem Werte nach ihren Pflichtteil erhalten, die Herabsetzung der Verfügung auf das erlaubte Mass verlangen.
+[^522-1]
 
-<sup>2</sup> Enthält die Verfügung Bestimmungen über die Teile der gesetzlichen Erben, so sind sie, wenn kein anderer Wille des Erblassers aus der Verfügung ersichtlich ist, als blosse Teilungsvorschriften aufzufassen.
+<sup>1</sup>
 
-### 2. Begünstigung der Pflichtteilsberechtigten
+Die Erben, die dem Werte nach weniger als ihren Pflichtteil erhalten, können die Herabsetzung der folgenden Erwerbungen und Zuwendungen verlangen, bis der Pflichtteil hergestellt ist:
+
+- 1\. der Erwerbungen gemäss der gesetzlichen Erbfolge;
+- 2\. der Zuwendungen von Todes wegen;
+- 3\. der Zuwendungen unter Lebenden.
+
+<sup>2</sup> Enthält eine Verfügung von Todes wegen Bestimmungen über die Teile der gesetzlichen Erben, so sind sie als blosse Teilungsvorschriften aufzufassen, wenn kein anderer Wille des Erblassers aus der Verfügung ersichtlich ist.
+
+[^522-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### 2.Pflichtteilsberechtigte
 
 #### Art. 523
 
-Enthält eine Verfügung von Todes wegen Zuwendungen an mehrere pflichtteilsberechtigte Erben im Sinne einer Begünstigung, so findet bei Überschreitung der Verfügungsbefugnis unter den Miterben eine Herabsetzung im Verhältnis der Beträge statt, die ihnen über ihren Pflichtteil hinaus zugewendet sind.
+[^523-1]
+
+Bei pflichtteilsberechtigten Erben werden Erwerbungen gemäss der gesetzlichen Erbfolge und Zuwendungen von Todes wegen im Verhältnis der Beträge herabgesetzt, die ihren Pflichtteil übersteigen.
+
+[^523-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 3. Rechte der Gläubiger
 
@@ -7365,11 +7462,17 @@ Der Herabsetzung unterliegen wie die Verfügungen von Todes wegen:
 
 <sup>2</sup> Muss sich der durch Erbvertrag Bedachte eine Herabsetzung gefallen lassen, so ist er befugt, von der dem Erblasser gemachten Gegenleistung einen entsprechenden Betrag zurückzufordern.
 
-### 4. Versicherungsansprüche
+### 4. Versicherung und gebundene Selbstvorsorge
 
 #### Art. 529
 
-Versicherungsansprüche auf den Tod des Erblassers, die durch Verfügung unter Lebenden oder von Todes wegen zugunsten eines Dritten begründet oder bei Lebzeiten des Erblassers unentgeltlich auf einen Dritten übertragen worden sind, unterliegen der Herabsetzung mit ihrem Rückkaufswert.
+[^529-1]
+
+<sup>1</sup> Versicherungsansprüche auf den Tod des Erblassers, einschliesslich solcher Ansprüche aus der gebundenen Selbstvorsorge, die durch Verfügung unter Lebenden oder von Todes wegen zugunsten eines Dritten begründet oder bei Lebzeiten des Erblassers unentgeltlich auf einen Dritten übertragen worden sind, unterliegen der Herabsetzung mit ihrem Rückkaufswert.
+
+<sup>2</sup> Ebenfalls der Herabsetzung unterliegen Ansprüche von Begünstigten aus der gebundenen Selbstvorsorge des Erblassers bei einer Bankstiftung.
+
+[^529-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 5. Bei Nutzniessung und Renten
 
@@ -7391,7 +7494,25 @@ Eine Nacherbeneinsetzung ist gegenüber einem pflichtteilsberechtigten Erben im 
 
 #### Art. 532
 
-Der Herabsetzung unterliegen in erster Linie die Verfügungen von Todes wegen und sodann die Zuwendungen unter Lebenden, und zwar diese in der Weise, dass die spätern vor den frühern herabgesetzt werden, bis der Pflichtteil hergestellt ist.
+[^532-1]
+
+<sup>1</sup>
+
+Der Herabsetzung unterliegen wie folgt der Reihe nach, bis der Pflichtteil hergestellt ist:
+
+- 1\. die Erwerbungen gemäss der gesetzlichen Erbfolge;
+- 2\. die Zuwendungen von Todes wegen;
+- 3\. die Zuwendungen unter Lebenden.
+
+<sup>2</sup>
+
+Die Zuwendungen unter Lebenden werden wie folgt der Reihe nach herabgesetzt:
+
+- 1\. die der Hinzurechnung unterliegenden Zuwendungen aus Ehevertrag oder Vermögensvertrag;
+- 2\. die frei widerruflichen Zuwendungen und die Leistungen aus der gebundenen Selbstvorsorge, im gleichen Verhältnis;
+- 3\. die weiteren Zuwendungen, und zwar die späteren vor den früheren.
+
+[^532-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Erbrecht), in Kraft seit 1. Jan. 2023 ([AS 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [BBl 2018 5813](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### IV. Verjährung
 
@@ -7457,7 +7578,7 @@ Wird der Verzichtende auf Grund der Herabsetzung zu einer Rückleistung an die E
 
 <sup>2</sup> …[^538-1]
 
-[^538-1]: Aufgehoben durch Anhang Ziff. 2 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **199****9** 2829).
+[^538-1]: Aufgehoben durch Anhang Ziff. 2 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
 
 ### C. Voraussetzungen auf Seite des Erben
 
@@ -8273,7 +8394,7 @@ Grundstücke sind den Erben zum Verkehrswert anzurechnen, der ihnen im Zeitpunkt
 
 <sup>2</sup> …[^618-2]
 
-[^618-1]: Fassung gemäss Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS **20****10** 1739; [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^618-1]: Fassung gemäss Anhang 1 Ziff. II 3 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^618-2]: Aufgehoben durch Ziff. I 1 des BG vom 6. Okt. 1972, mit Wirkung seit 15. Febr. 1973 ([AS 1973 93](https://fedlex.data.admin.ch/eli/oc/1973/93_93_99); [BBl 1970 I 805](https://fedlex.data.admin.ch/eli/fga/1970/1_805_813_601), [1971 I 737](https://fedlex.data.admin.ch/eli/fga/1971/1_737__)).
 
 ### V. Landwirtschaftliche Gewerbe und Grundstücke
@@ -8776,7 +8897,7 @@ Als selbstständiges und dauerndes Recht kann eine Dienstbarkeit an einem Grunds
 - 2\. auf wenigstens 30 Jahre oder auf unbestimmte Zeit begründet ist.[^655-2]
 
 [^655-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
-[^655-2]: Eingefügt durch Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); BBl **20****07** 5283).
+[^655-2]: Eingefügt durch Ziff. I 1 des BG vom 11. Dez. 2009 (Register-Schuldbrief und weitere Änderungen im Sachenrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ### II. Unselbstständiges Eigentum
 
@@ -9140,7 +9261,7 @@ Fügt ein Grundeigentümer bei rechtmässiger Bewirtschaftung seines Grundstück
 
 <sup>3</sup> Der Vorkaufsberechtigte kann seinen Anspruch innerhalb dieser Fristen gegenüber jedem Eigentümer des Grundstücks geltend machen.
 
-[^681a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); BBl **198****8** III 953).
+[^681a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 3. Abänderung, Verzicht
 
@@ -9171,7 +9292,7 @@ Fügt ein Grundeigentümer bei rechtmässiger Bewirtschaftung seines Grundstück
 <sup>3</sup> …[^682-3]
 
 [^682-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 1963, in Kraft seit 1. Jan. 1965 ([AS 1964 993](https://fedlex.data.admin.ch/eli/oc/1964/993_989_1009); [BBl 1962 II 1461](https://fedlex.data.admin.ch/eli/fga/1962/2_1461_1445_)).
-[^682-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 (AS **1****993** 1404; [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^682-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 [^682-3]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), mit Wirkung seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### 5. Vorkaufsrecht an landwirtschaftlichen Gewerben und Grundstücken
@@ -9463,7 +9584,7 @@ Den Kantonen bleibt es vorbehalten, zu bestimmen, in welchem Umfange Quellen, Br
 
 Eigentümer von Trinkwasserversorgungen können auf dem Wege der Enteignung die Abtretung des umliegenden Bodens verlangen, soweit es zum Schutz ihrer Quellen gegen Verunreinigung notwendig ist.
 
-### Dritter Abschnitt:**** Das Stockwerkeigentum
+### Dritter Abschnitt: Das Stockwerkeigentum
 
 [^book4-part1-tit19-chap3-1]
 
@@ -9900,7 +10021,7 @@ Eine herrenlose Sache wird dadurch zu Eigentum erworben, dass jemand sie mit dem
 
 [^728-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002 (Grundsatzartikel Tiere), in Kraft seit 1. April 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^728-2]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^728-3]: Eingefügt durch Art. 32 Ziff. 1 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 (AS **2****005** 1869; [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
+[^728-3]: Eingefügt durch Art. 32 Ziff. 1 des Kulturgütertransfergesetzes vom 20. Juni 2003, in Kraft seit 1. Juni 2005 ([AS 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317); [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)).
 
 ### C. Verlust
 
@@ -10445,7 +10566,7 @@ Auf die Nutzniessung an Gegenständen, deren Nutzung in der Gewinnung von Bodenb
 
 Geht das Baurecht unter, so fallen die bestehenden Bauwerke dem Grundeigentümer heim, indem sie zu Bestandteilen seines Grundstückes werden.
 
-[^779c-1]: Eingefügt durch Ziff. I des BG vom 19. März 1965, in Kraft seit 1. Juli 1965 ([AS 1965 445](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); BBl **1****963** I 969).
+[^779c-1]: Eingefügt durch Ziff. I des BG vom 19. März 1965, in Kraft seit 1. Juli 1965 ([AS 1965 445](https://fedlex.data.admin.ch/eli/oc/1965/445_449_443); [BBl 1963 I 969](https://fedlex.data.admin.ch/eli/fga/1963/1_969_993_537)).
 
 ### 2. Entschädigung
 
@@ -10597,7 +10718,7 @@ Für im Grundbuch eingetragene Berechtigte einer Dienstbarkeit gelten die Bestim
 
 <sup>3</sup> Für Erwerb und Eintragung gelten, wo es nicht anders geordnet ist, die Bestimmungen über das Grundeigentum.
 
-### 2. Öffentlich-rechtliche Grundlasten
+### 2. Öffentlichrechtliche Grundlasten
 
 #### Art. 784
 
@@ -11209,7 +11330,7 @@ Gelangen mehrere gesetzliche Pfandrechte der Handwerker und Unternehmer zur Eint
 
 <sup>3</sup> Sobald der Beginn des Werkes auf Anzeige eines Berechtigten im Grundbuch angemerkt ist, dürfen bis zum Ablauf der Eintragungsfrist Pfandrechte nur als Grundpfandverschreibungen eingetragen werden.
 
-### Dritter Abschnitt:**** Der Schuldbrief
+### Dritter Abschnitt: Der Schuldbrief
 
 [^book4-part2-tit22-chap3-1]
 
@@ -12118,21 +12239,27 @@ Der Bundesrat regelt:
 
 [^949a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf) ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2003 über die elektronische Signatur, in Kraft seit 1. Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-### 4a. …
+### 4*a*. Personenidentifikator im Grundbuch
 
 #### Art. 949b
 
 [^949b-1]
 
-[^949b-1]: Noch nicht in Kraft ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+<sup>1</sup> Die Grundbuchämter verwenden zur Identifizierung von Personen systematisch die AHV-Nummer.
 
-### 4*b*. …
+<sup>2</sup> Sie geben die AHV-Nummer nur anderen Stellen und Institutionen bekannt, die sie zur Erfüllung ihrer gesetzlichen Aufgaben im Zusammenhang mit dem Grundbuch benötigen und zur systematischen Verwendung dieser Nummer berechtigt sind.
+
+[^949b-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2023 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+
+### 4*b*. Landesweite Grundstücksuche
 
 #### Art. 949c
 
 [^949c-1]
 
-[^949c-1]: Noch nicht in Kraft ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+Der Bundesrat regelt die landesweite Suche der berechtigten Behörden nach Grundstücken, an denen einer aufgrund der AHV-Nummer identifizierten Person Rechte zustehen.
+
+[^949c-1]: Eingefügt durch Ziff. I 2 des BG vom 15. Dez. 2017 (Beurkundung des Personenstands und Grundbuch), in Kraft seit 1. Jan. 2023 ([AS 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649); [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [BBl 2014 3551](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 4*c*. Beizug Privater zur Nutzung des informatisierten Grundbuchs
 
@@ -12636,13 +12763,13 @@ Das Grundbuchamt kann einen Eintrag von Amtes wegen löschen, wenn dieser:
 
 <sup>3</sup> Die Berichtigung blosser Schreibfehler erfolgt von Amtes wegen nach Massgabe einer hierüber vom Bundesrate zu erlassenden Verordnung.
 
-## Schlusstitel: Anwendungs- und Einführungsbestimmungen****
+## Schlusstitel: Anwendungs- und Einführungsbestimmungen
 
 [^u1-1]
 
 [^u1-1]: Fassung gemäss Ziff. I 4 des BG vom 26. Juni 1998, in Kraft seit 1. Jan. 2000 ([AS 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [BBl 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Erster Abschnitt: Die Anwendung bisherigen und neuen Rechts****
+### Erster Abschnitt: Die Anwendung bisherigen und neuen Rechts
 
 [^u1-chap1-1]
 
@@ -12737,6 +12864,16 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes eingetreten sind
 [^u1-6b-1]: Ursprünglich Art. 6a. Vorher Art. 7.
 [^u1-6b-2]: Eingefügt durch Ziff. I 1 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Jan. 2016 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
+### 1*a*. Zur Eintragung ins Handelsregister verpflichtete Vereine
+
+#### Art. 6b<sup>bis</sup>
+
+[^u1-6bbis-1]
+
+Bestehende Vereine nach Artikel 61 Absatz 2 müssen die Pflichten nach den Artikeln 61*a* und 69 Absatz 2 innerhalb von 18 Monaten ab Inkrafttreten der Änderung vom 19. März 2021 erfüllen. Bestehende Vereine nach Artikel 61 Absatz 2 Ziffer 3 müssen sich überdies innerhalb dieser Frist in das Handelsregister eintragen lassen.
+
+[^u1-6bbis-1]: Eingefügt durch Anhang 1 Ziff. 1 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
 ### 2. Buchführung und Revisionsstelle
 
 #### Art. 6c
@@ -12746,7 +12883,7 @@ Tatsachen, die zwar unter der Herrschaft des bisherigen Rechtes eingetreten sind
 Die Bestimmungen der Änderung vom 16. Dezember 2005[^u1-6c-2] betreffend die Buchführung und die Revisionsstelle gelten vom ersten Geschäftsjahr an, das mit dem Inkrafttreten dieses Gesetzes oder danach beginnt.
 
 [^u1-6c-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^u1-6c-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **2****004** 3969
+[^u1-6c-2]: [AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)
 
 ### IV. Schutz der Persönlichkeit vor Gewalt, Drohungen oder Nachstellungen
 
@@ -12813,8 +12950,8 @@ Auf Verfahren, die beim Inkrafttreten der Änderung vom 14. Dezember 2018 rechts
 
 Für Scheidungsprozesse, die beim Inkrafttreten der Änderung vom 19. Dezember 2003[^u1-7c-2] rechtshängig und die von einer kantonalen Instanz zu beurteilen sind, gilt die Trennungsfrist nach dem neuen Recht.
 
-[^u1-7c-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2003 (Trennungsfrist im Scheidungsrecht), in Kraft seit 1. Juni 2004 ([AS 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [BBl 2003 3927](https://fedlex.data.admin.ch/eli/fga/2003/581)[5825](https://fedlex.data.admin.ch/eli/fga/2003/893)).
-[^u1-7c-2]: AS **2004**2161
+[^u1-7c-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2003 (Trennungsfrist im Scheidungsrecht), in Kraft seit 1. Juni 2004 ([AS 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254); [BBl 2003 3927](https://fedlex.data.admin.ch/eli/fga/2003/581), [5825](https://fedlex.data.admin.ch/eli/fga/2003/893)).
+[^u1-7c-2]: [AS 2004 2161](https://fedlex.data.admin.ch/eli/oc/2004/254)
 
 ### 4. Berufliche Vorsorge
 
@@ -13820,7 +13957,7 @@ Das Bundesgesetz vom 11. April 1889[^u1-58-2] über Schuldbetreibung und Konkurs
 
 [^u1-61-1]: Neue Nummerierung der letzten vier Artikel als Folge der Aufhebung der ursprünglichen Art. 58 und 59, gemäss Ziff. I der UeB OR, in Kraft seit 1. Jan. 1912 ([AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377); BS **2** 199; [BBl 1905 II 1](https://fedlex.data.admin.ch/eli/fga/1905/2_1_1_), [1909 III 725](https://fedlex.data.admin.ch/eli/fga/1909/3_725__), [1911 I 845](https://fedlex.data.admin.ch/eli/fga/1911/1_845__)).
 
-## Wortlaut der früheren Bestimmungen**** des sechsten Titels
+## Wortlaut der früheren Bestimmungen des sechsten Titels
 
 [^u2-1]
 

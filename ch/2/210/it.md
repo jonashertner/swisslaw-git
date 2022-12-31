@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20220701/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20220701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20230101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20230101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° luglio 2022)
+del 10 dicembre 1907 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -652,7 +652,7 @@ L’istanza cade se, entro il termine indicato, la persona sparita od assente si
 
 [^38-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Capo secondo:**** Degli atti dello stato civile
+### Capo secondo: Degli atti dello stato civile
 
 [^book1-tit1-chap2-1]
 
@@ -1005,11 +1005,34 @@ La procedura di liquidazione del patrimonio di una persona giuridica avviene con
 L’iscrizione è obbligatoria se l’associazione:
 
 - 1\. per conseguire il suo fine esercita uno stabilimento d’indole commerciale;
-- 2\. sottostà all’obbligo di revisione.[^61-1]
+- 2\. sottostà all’obbligo di revisione.
+- 3\.[^61-1] raccoglie o distribuisce prevalentemente fondi all’estero, direttamente o indirettamente, per scopi caritatevoli, religiosi, culturali, educativi o sociali.[^61-2]
 
-<sup>3</sup> Per ottenere l’iscrizione devono essere deposti gli statuti ed indicati i membri della direzione.
+<sup>2bis</sup> Il Consiglio federale emana le norme esecutive sull’obbligo di iscrizione nel registro di commercio.[^61-3]
 
-[^61-1]: Nuovo testo giusta l’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2ter</sup> Può esonerare le associazioni di cui al capoverso 2 numero 3 dall’obbligo di iscrizione segnatamente se, in base all’importo, alla provenienza, alla destinazione o all’impiego previsto dei fondi raccolti o distribuiti, esse presentano un rischio esiguo di essere sfruttate per scopi di riciclaggio di denaro o di finanziamento del terrorismo.[^61-4]
+
+<sup>3</sup> ...[^61-5]
+
+[^61-1]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-2]: Nuovo testo giusta l’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^61-3]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-4]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^61-5]: Abrogato dall’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II*a*. Elenco dei soci
+
+#### Art. 61a
+
+[^61a-1]
+
+<sup>1</sup> Le associazioni tenute all’iscrizione nel registro di commercio tengono un elenco sul quale figurano il nome e il cognome o la ditta, nonché l’indirizzo dei soci.
+
+<sup>2</sup> Tengono l’elenco in modo che sia possibile accedervi in ogni momento in Svizzera.
+
+<sup>3</sup> Conservano le indicazioni su ciascun socio e gli eventuali documenti giustificativi per cinque anni a contare dalla cancellazione del socio dall’elenco.
+
+[^61a-1]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### III. Associazioni senza personalità
 
@@ -1085,7 +1108,11 @@ Nelle risoluzioni sociali concernenti un interesse privato od una controversia g
 
 #### Art. 69
 
-La direzione ha il diritto e il dovere di curare gli interessi dell’associazione e di rappresentarla secondo le facoltà concesse dagli statuti.
+<sup>1</sup> La direzione ha il diritto e il dovere di curare gli interessi dell’associazione e di rappresentarla secondo le facoltà concesse dagli statuti.
+
+<sup>2</sup> Le associazioni tenute all’iscrizione nel registro di commercio devono poter essere rappresentate da una persona domiciliata in Svizzera. Questa persona deve avere accesso all’elenco dei soci.[^69-1]
+
+[^69-1]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Contabilità
 
@@ -1128,7 +1155,7 @@ L’associazione deve far verificare la sua contabilità mediante revisione ordi
 
 [^69c-1]
 
-<sup>1</sup> Se l’associazione è priva di uno degli organi prescritti o non dispone più di un domicilio legale presso la sua sede, un socio o un creditore può chiedere al giudice di prendere le misure necessarie.[^69c-2]
+<sup>1</sup> Se l’associazione è priva di uno degli organi prescritti o dell’elenco dei soci di cui all’articolo 61*a* o non dispone più di un domicilio legale presso la sua sede, un socio o un creditore può chiedere al giudice di prendere le misure necessarie.[^69c-2]
 
 <sup>2</sup> Il giudice può segnatamente assegnare all’associazione un termine per ripristinare la situazione legale e, se necessario, nominare un commissario.
 
@@ -1137,7 +1164,17 @@ L’associazione deve far verificare la sua contabilità mediante revisione ordi
 <sup>4</sup> L’associazione può, per gravi motivi, chiedere al giudice la revoca di persone da lui nominate.
 
 [^69c-1]: Introdotto dall’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^69c-2]: Nuovo testo giusta l’all. n. 1 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^69c-2]: Nuovo testo giusta l’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+
+### B<sup>bis</sup>. Rischio di insolvenza ed eccedenza di debiti
+
+#### Art. 69d
+
+[^69d-1]
+
+Alle associazioni tenute a farsi iscrivere nel registro di commercio si applicano per analogia le disposizioni del diritto della società anonima concernenti il rischio d’insolvenza e l’eccedenza di debiti, nonché la rivalutazione di fondi e partecipazioni.
+
+[^69d-1]: Introdotto dall’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Diritti e doveri dei soci
 
@@ -1344,27 +1381,32 @@ Se l’organizzazione prevista non è sufficiente, se la fondazione è priva di 
 
 [^84-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
 
-### C<sup>bis</sup>. Misure in caso di eccedenza dei debiti e d’insolvenza
+### C<sup>bis</sup>. Rischio di insolvenza ed eccedenza di debiti
 
 #### Art. 84a
 
 [^84a-1]
 
-<sup>1</sup> Se esiste fondato timore che la fondazione abbia un’eccedenza di debiti o che per lungo tempo non sarà più in grado di far fronte ai propri impegni, l’organo superiore della fondazione stila un bilancio intermedio in base al valore di alienazione dei beni e lo sottopone per verifica all’ufficio di revisione. Se la fondazione non dispone di un ufficio di revisione, l’organo superiore della fondazione sottopone il bilancio intermedio all’autorità di vigilanza.
+<sup>1</sup> Se vi è rischio d’insolvenza o di eccedenza di debiti, l’organo superiore della fondazione deve avvisare senza indugio l’autorità di vigilanza.
 
-<sup>2</sup> Se constata che la fondazione ha un’eccedenza di debiti o che per lungo tempo non sarà più in grado di far fronte ai propri impegni, l’ufficio di revisione sottopone il bilancio intermedio all’autorità di vigilanza.
+<sup>2</sup> Se constata che la fondazione è insolvente o ha un’eccedenza di debiti, l’ufficio di revisione avvisa l’autorità di vigilanza.
 
-<sup>3</sup> L’autorità di vigilanza ordina al consiglio di fondazione di prendere le misure necessarie. Se il consiglio di fondazione non vi provvede, l’autorità di vigilanza prende essa stessa le misure occorrenti.
+<sup>3</sup> L’autorità di vigilanza ordina al consiglio di fondazione di prendere le misure necessarie. Se il consiglio di fondazione non vi provvede, l’autorità di vigilanza prende essa stessa le misure occorrenti o avvisa il giudice.
 
-<sup>4</sup> All’occorrenza, l’autorità di vigilanza chiede che siano prese misure di esecuzione forzata; le disposizioni del diritto della società anonima concernenti la dichiarazione o il differimento del fallimento sono applicabili per analogia.
+<sup>4</sup> Le disposizioni del diritto della società anonima sull’accertamento dell’eccedenza di debiti nonché sulla rivalutazione di fondi e partecipazioni sono applicabili per analogia.
 
-[^84a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni), in vigore dal 1° gen. 2006 ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)).
+[^84a-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### C<sup>ter</sup>. Pubblicità delle retribuzioni
 
 #### Art. 84b
 
 [^84b-1]
 
-[^84b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Abrogato dall’all. n. 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+Ogni anno l’organo superiore della fondazione comunica separatamente all’autorità di vigilanza l’importo totale delle retribuzioni ai sensi dell’articolo 734*a* capoverso 2 del Codice delle obbligazioni[^84b-2] direttamente o indirettamente corrisposte a lui o all’eventuale direzione.
+
+[^84b-1]: Introdotto dal n. I della LF dell’8 ott. 2004 (Diritto delle fondazioni ([RU 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [FF 2003 7053](https://fedlex.data.admin.ch/eli/fga/2003/1402)[7093](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^84b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### D. Modificazione
 
@@ -1512,12 +1554,12 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 15\. la trasparenza (art. 65*a*),
 - 16\. le riserve (art. 65*b*),
 - 17\. i contratti assicurativi tra istituti di previdenza e istituti d’assicurazione (art. 68 cpv. 3 e 4),
-- 18\. l’amministrazione del patrimonio (art. 71),
+- 18\.[^89a-22] l’amministrazione del patrimonio (art. 71) e l’obbligo di voto in quanto azionista (art. 71*a* e 71*b*);
 - 19\. il contenzioso (art. 73 e 74),
 - 20\. le disposizioni penali (art. 75–79),
 - 21\. il riscatto (art. 79*b*),
 - 22\. il salario assicurabile e il reddito assicurabile (art. 79*c*),
-- 23\. l’informazione degli assicurati (art. 86*b*).[^89a-22]
+- 23\. l’informazione degli assicurati (art. 86*b*).[^89a-23]
 
 <sup>7</sup>
 
@@ -1532,7 +1574,7 @@ Per le fondazioni di previdenza a favore del personale che operano nel campo del
 - 7\. la vigilanza e l’alta vigilanza (art. 61–62*a* e 64–64*b*);
 - 8\. il contenzioso (art. 73 e 74);
 - 9\. le disposizioni penali (art. 75–79);
-- 10\. il trattamento fiscale (art. 80, 81 cpv. 1 e 83).[^89a-23]
+- 10\. il trattamento fiscale (art. 80, 81 cpv. 1 e 83).[^89a-24]
 
 <sup>8</sup>
 
@@ -1540,7 +1582,7 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 - 1\. esse amministrano il loro patrimonio in modo da garantire la sicurezza degli investimenti, la loro sufficiente redditività e le liquidità necessarie all’adempimento dei propri compiti;
 - 2\. l’autorità di vigilanza decide, su richiesta del consiglio di fondazione, in merito a fatti concernenti la liquidazione parziale di fondi padronali di previdenza con prestazioni discrezionali;
-- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-24]
+- 3\. esse tengono conto, per analogia, dei principi della parità di trattamento e di adeguatezza.[^89a-25]
 
 [^89a-1]: Introdotto dal n. II della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393)). Fino all’entrata della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione) il 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114)): art. 89<sup>bis</sup>.
 [^89a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -1563,11 +1605,12 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 [^89a-19]: Nuovo testo giusta il n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-20]: Abrogato dal n. II 1 della LF del 19 mar. 2010 (Riforma strutturale), con effetto dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^89a-21]: Nuovo testo giusta il n. II 1 della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^89a-22]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
-[^89a-23]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
-[^89a-24]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-22]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^89a-23]: Introdotto dall’all. n. I della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)). Nuovo testo giusta l’all. n. 1 della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP); n. 6, 7, 10 a 12, 14 (ad eccezione dell’art. 66 cpv. 4), 15, 17 a 20 e 23 in vigore dal 1° apr. 2004; n. 3 a 5, 8, 9, 13, 14 (art. 66 cpv. 4) e 16 in vigore dal 1° gen. 2005; n. 1, 21 e 22 in vigore dal 1° gen. 2006 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2416](https://fedlex.data.admin.ch/eli/fga/2000/556)).
+[^89a-24]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2016 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
+[^89a-25]: Introdotto dal n. I della LF del 25 set. 2015 (Fondazioni di previdenza a favore del personale), in vigore dal 1° apr. 2015 ([RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163); [FF 2014 5295](https://fedlex.data.admin.ch/eli/fga/2014/1295)[5673](https://fedlex.data.admin.ch/eli/fga/2014/1500)).
 
-### Titolo secondo<sup>bis</sup>:**** Delle collette pubbliche
+### Titolo secondo<sup>bis</sup>: Delle collette pubbliche
 
 [^book1-tit2bis-1]
 
@@ -1595,7 +1638,7 @@ Per le fondazioni di previdenza a favore del personale di cui al capoverso 7 si 
 
 ### Parte prima: Del diritto matrimoniale
 
-### Titolo terzo:**** Del matrimonio
+### Titolo terzo: Del matrimonio
 
 [^book2-part1-tit3-1]
 
@@ -1859,7 +1902,7 @@ Un coniuge può domandare la nullità del matrimonio se:
 
 [^110-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Titolo quarto:**** Del divorzio e della separazione coniugale
+### Titolo quarto: Del divorzio e della separazione coniugale
 
 [^book2-part1-tit4-1]
 
@@ -1967,7 +2010,17 @@ Il coniuge che ha cambiato cognome in occasione del matrimonio conserva il nuovo
 
 <sup>1</sup> La liquidazione del regime dei beni è retta dalle disposizioni del diritto sul regime dei beni matrimoniali.
 
-<sup>2</sup> I coniugi divorziati cessano di essere eredi legittimi l’uno dell’altro e non possono avanzare pretese per disposizioni a causa di morte allestite prima della litispendenza della procedura di divorzio.
+<sup>2</sup> I coniugi divorziati cessano di essere eredi legittimi l’uno dell’altro.[^120-1]
+
+<sup>3</sup>
+
+Salvo clausola contraria, i coniugi non possono avanzare pretese per disposizioni a causa di morte:
+
+- 1\. dopo il divorzio;
+- 2\. dopo la morte di uno di essi durante una procedura di divorzio che implica la perdita della porzione legittima del coniuge superstite.[^120-2]
+
+[^120-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^120-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### C. Abitazione familiare
 
@@ -2251,9 +2304,7 @@ Il giudice disciplina i diritti e i doveri dei genitori secondo le disposizioni 
 
 Abrogati
 
-### Titolo quinto****: Degli effetti del matrimonio in generale
-
-[^book2-part1-tit5-1]
+### Titolo quinto[^book2-part1-tit5-1]: Degli effetti del matrimonio in generale
 
 [^book2-part1-tit5-1]: Nuovo testo del titolo quinto giusta il n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Vedi anche gli art. 8–8*b* del titolo finale, qui di seguito.
 
@@ -2497,7 +2548,7 @@ Se un coniuge non adempie il suo obbligo di mantenimento, il giudice può ordina
 
 [^180-1]: Abrogato dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 
-### Titolo sesto:**** Del regime dei beni fra i coniugi
+### Titolo sesto: Del regime dei beni fra i coniugi
 
 [^book2-part1-tit6-1]
 
@@ -2859,13 +2910,22 @@ In caso di liquidazione, i beni sono stimati secondo il valore venale.
 
 <sup>1</sup> Per convenzione matrimoniale può essere stabilita una diversa partecipazione all’aumento.
 
-<sup>2</sup> Tali convenzioni non devono pregiudicare i diritti alla legittima dei figli non comuni e dei loro discendenti.
+<sup>2</sup> La partecipazione all’aumento eccedente la metà non è presa in considerazione all’atto di determinare le porzioni legittime del coniuge o partner registrato superstite, nonché dei figli comuni e dei loro discendenti.[^216-1]
+
+<sup>3</sup> Tale convenzione non deve pregiudicare i diritti alla legittima dei figli non comuni e dei loro discendenti.[^216-2]
+
+[^216-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+[^216-2]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### b. In caso di divorzio, separazione, nullità del matrimonio o separazione dei beni giudiziale
 
 #### Art. 217
 
-In caso di divorzio, separazione, nullità del matrimonio o separazione dei beni giudiziale, le clausole che modificano la partecipazione legale all’aumento s’applicano soltanto se la convenzione matrimoniale lo prevede espressamente.
+<sup>1</sup> In caso di divorzio, separazione, nullità del matrimonio o separazione dei beni giudiziale, le clausole che modificano la partecipazione legale all’aumento s’applicano soltanto se la convenzione matrimoniale lo prevede espressamente.
+
+<sup>2</sup> Lo stesso vale in caso di morte di uno dei coniugi durante una procedura di divorzio che implica la perdita della porzione legittima del coniuge superstite. [^217-1]
+
+[^217-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### VI. Pagamento del credito di partecipazione e della quota di plusvalore
 
@@ -3090,6 +3150,10 @@ Per il valore dei beni comuni esistenti allo scioglimento del regime dei beni è
 
 <sup>3</sup> Tali convenzioni non devono pregiudicare i diritti alla legittima dei discendenti.
 
+<sup>4</sup> Salvo clausola contraria nella convenzione matrimoniale, la modifica della ripartizione legale non si applica in caso di morte di uno dei coniugi durante una procedura di divorzio che implica la perdita della porzione legittima del coniuge superstite.[^241-1]
+
+[^241-1]: Introdotto dal n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
 ### 2. Negli altri casi
 
 #### Art. 242
@@ -3170,13 +3234,13 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 ### Parte seconda: Della parentela
 
-### Titolo settimo: Del sorgere della filiazione****
+### Titolo settimo: Del sorgere della filiazione
 
 [^book2-part2-tit7-1]
 
 [^book2-part2-tit7-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Capo primo: Disposizioni generali****
+### Capo primo: Disposizioni generali
 
 [^book2-part2-tit7-chap1-1]
 
@@ -3211,7 +3275,7 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 [^254-1]: Abrogato dall’all. 1 n. II 3 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Capo secondo: Della genitorialità del marito o della moglie****
+### Capo secondo: Della genitorialità del marito o della moglie
 
 [^book2-part2-tit7-chap2-1]
 
@@ -3221,9 +3285,9 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 ### I. Della genitorialità del marito
 
-[^book2-part2-tit7-chap2-lvlI-1]
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlA-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 255
 
@@ -3254,9 +3318,9 @@ Se un bene è in comproprietà, il coniuge che provi d’avere un interesse prep
 
 ### I. Diritto all’azione
 
-[^book2-part2-tit7-chap2-lvlD-lvlI-1]
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]
 
-[^book2-part2-tit7-chap2-lvlD-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^book2-part2-tit7-chap2-lvlB-lvlI-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Matrimonio per tutti), in vigore dal 1° lug. 2022 ([RU 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [FF 2019 7151](https://fedlex.data.admin.ch/eli/fga/2019/2985), [2020 1135](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 #### Art. 256
 
@@ -3366,7 +3430,7 @@ Il riconoscimento può essere contestato:
 
 [^259-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Capo terzo: Del riconoscimento e della sentenza di paternità****
+### Capo terzo: Del riconoscimento e della sentenza di paternità
 
 [^book2-part2-tit7-chap3-1]
 
@@ -3480,9 +3544,9 @@ L’azione può essere proposta prima o dopo il parto, ma al più tardi:
 
 [^263-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Capo quarto****: Dell’adozione****
+### Capo quarto[^book2-part2-tit7-chap4-1]: Dell’adozione
 
-[^book2-part2-tit7-chap4-1][^book2-part2-tit7-chap4-2]
+[^book2-part2-tit7-chap4-2]
 
 [^book2-part2-tit7-chap4-1]: Originario capo terzo.
 [^book2-part2-tit7-chap4-2]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
@@ -3905,13 +3969,13 @@ L’azione deve essere proposta entro sei mesi dal momento in cui fu conosciuto 
 [^269c-2]: Nuovo testo giusta il n. I 2 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^269c-3]: Abrogato dall’all. n. 15 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### Titolo ottavo: Degli effetti della filiazione****
+### Titolo ottavo: Degli effetti della filiazione
 
 [^book2-part2-tit8-1]
 
 [^book2-part2-tit8-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Capo primo: Della comunione dei figli coi genitori****
+### Capo primo: Della comunione dei figli coi genitori
 
 [^book2-part2-tit8-chap1-1]
 
@@ -4054,7 +4118,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 [^275a-1]: Introdotto dal n. I 4 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); [FF 1996 I 1](https://fedlex.data.admin.ch/eli/fga/1996/1_1_1_1)).
 
-### Capo secondo: Del mantenimento da parte dei genitori****
+### Capo secondo: Del mantenimento da parte dei genitori
 
 [^book2-part2-tit8-chap2-1]
 
@@ -4133,7 +4197,7 @@ I genitori ed i figli si devono vicendevolmente l’assistenza, i riguardi e il 
 
 <sup>1</sup> Il figlio può proporre azione contro il padre o la madre o contro ambedue per chiedere il mantenimento futuro e quello per l’anno precedente l’azione.
 
-<sup>2</sup> e <sup>3</sup> ...[^279-2]
+<sup>2</sup> e <sup>3</sup> …[^279-2]
 
 [^279-1]: Nuovo testo il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Abrogati dall’all. n. 2 della L del 24 mar. 2000 sul foro, con effetto dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
@@ -4359,7 +4423,7 @@ La madre può, entro un anno dalla nascita del figlio, convenirne il padre o i s
 [^295-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^295-2]: Nuovo testo giusta l’all.1 n. II 3 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Capo terzo: Dell’autorità parentale****
+### Capo terzo: Dell’autorità parentale
 
 [^book2-part2-tit8-chap3-1]
 
@@ -4982,7 +5046,7 @@ I Cantoni assicurano con appropriate prescrizioni l’acconcia cooperazione fra 
 
 [^317-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Capo quarto: Della sostanza del figlio****
+### Capo quarto: Della sostanza del figlio
 
 [^book2-part2-tit8-chap4-1]
 
@@ -5122,7 +5186,7 @@ Cessando l’autorità o l’amministrazione parentale, i genitori devono conseg
 
 [^327-1]: Nuovo testo giusta il n. I 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
-### Capo quinto:**** Dei minorenni sotto tutela
+### Capo quinto: Dei minorenni sotto tutela
 
 [^book2-part2-tit8-chap5-1]
 
@@ -5411,7 +5475,7 @@ L’indivisione si scioglie:
 
 [^359-1]: Abrogato dal n. II 21 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
-### Parte terza:**** Della protezione degli adulti
+### Parte terza: Della protezione degli adulti
 
 [^book2-part3-1]
 
@@ -6585,7 +6649,7 @@ La responsabilità del mandatario designato con mandato precauzionale, nonché q
 
 ### Parte prima: Degli eredi
 
-### Titolo tredicesimo: Degli eredi legittimi****
+### Titolo tredicesimo: Degli eredi legittimi
 
 [^book3-part1-tit13-1]
 
@@ -6728,11 +6792,11 @@ Chi è capace di discernimento ed ha compito gli anni diciotto può, nei limiti 
 
 #### Art. 470
 
-<sup>1</sup> Chi muore lasciando discendenti, genitori, il coniuge o il partner registrato può disporre per causa di morte della parte dei suoi beni eccedente la loro porzione legittima.[^470-1]
+<sup>1</sup> Chi muore lasciando discendenti, il coniuge o il partner registrato può disporre per causa di morte della parte dei suoi beni eccedente la loro porzione legittima.[^470-1]
 
 <sup>2</sup> Chi non lascia eredi in questi gradi può disporre per causa di morte di tutti i suoi beni.
 
-[^470-1]: Nuovo testo giusta l’all. n. 8 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^470-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Porzione legittima
 
@@ -6740,36 +6804,42 @@ Chi è capace di discernimento ed ha compito gli anni diciotto può, nei limiti 
 
 [^471-1]
 
-La porzione legittima è:
+La porzione legittima è della metà della quota ereditaria.
 
-- 1\. di tre quarti della quota ereditaria per i discendenti;
-- 2\. della metà per ciascuno dei genitori;
-- 3\.[^471-2] della metà per il coniuge superstite o il partner registrato superstite.
+[^471-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
-[^471-1]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^471-2]: Nuovo testo giusta l’all. n. 8 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### III. …
+### III. Perdita della porzione legittima durante la procedura di divorzio
 
 #### Art. 472
 
 [^472-1]
 
-[^472-1]: Abrogato dal n. I 2 della LF del 5 ott. 1984, con effetto dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>1</sup>
 
-### IV. Liberalità al coniuge superstite
+In caso di morte del disponente durante una procedura di divorzio, il coniuge superstite perde la porzione legittima se:
+
+- 1\. la procedura è stata introdotta su richiesta comune o continuata conformemente alle disposizioni sul divorzio su richiesta comune; o
+- 2\. i coniugi hanno vissuto separati per due anni almeno.
+
+<sup>2</sup> In tal caso le porzioni legittime sono calcolate come se il disponente non fosse stato sposato.
+
+<sup>3</sup> I capoversi 1 e 2 si applicano per analogia allo scioglimento dell’unione domestica registrata.
+
+[^472-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### IV. Usufrutto
 
 #### Art. 473
 
-<sup>1</sup> Mediante disposizione a causa di morte, il disponente può lasciare al coniuge superstite, in concorso con i discendenti comuni, l’usufrutto di tutta la porzione che competerebbe a questi.[^473-1]
+[^473-1]
 
-<sup>2</sup> Questo usufrutto tien luogo della legittima del coniuge in concorso con questi discendenti. Oltre a tale usufrutto, la porzione disponibile è di un quarto della successione.[^473-2]
+<sup>1</sup> A prescindere dall’uso che fa della quota disponibile, il disponente può, mediante disposizione a causa di morte, lasciare al coniuge o al partner registrato superstite, in concorso con i discendenti comuni, l’usufrutto di tutta la porzione che competerebbe a questi ultimi.
 
-<sup>3</sup> Passando ad altre nozze, il coniuge superstite perde l’usufrutto di quella parte della successione che, al momento dell’aperta successione, non avrebbe potuto essere gravata di usufrutto secondo le disposizioni ordinarie sulla legittima dei discendenti.[^473-3]
+<sup>2</sup> Questo usufrutto tien luogo della quota ereditaria legale del coniuge o del partner registrato in concorso con questi discendenti. Oltre a tale usufrutto, la porzione disponibile è della metà della successione.
 
-[^473-1]: Nuovo testo giusta il n. I della LF del 5 ott. 2001, in vigore dal 1° mar. 2002 ([RU 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [FF 2001 985](https://fedlex.data.admin.ch/eli/fga/2001/194)[1764](https://fedlex.data.admin.ch/eli/fga/2001/443)[1855](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-2]: Nuovo testo giusta il n. I della LF del 5 ott. 2001, in vigore dal 1° mar. 2002 ([RU 2002 269](https://fedlex.data.admin.ch/eli/oc/2002/57); [FF 2001 985](https://fedlex.data.admin.ch/eli/fga/2001/194)[1764](https://fedlex.data.admin.ch/eli/fga/2001/443)[1855](https://fedlex.data.admin.ch/eli/fga/2001/463)).
-[^473-3]: Nuovo testo giusta il n. I 2 della LF del 5 ott. 1984, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+<sup>3</sup> Passando ad altre nozze o costituendo un’unione domestica registrata, il coniuge superstite perde l’usufrutto di quella parte della successione che, al momento dell’aperta successione, non avrebbe potuto essere gravata di usufrutto secondo le disposizioni ordinarie sulla legittima dei discendenti. La presente disposizione si applica per analogia se il partner registrato superstite costituisce una nuova unione domestica registrata o si sposa.
+
+[^473-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### V. Computo della porzione disponibile
 
@@ -6787,11 +6857,17 @@ La porzione legittima è:
 
 Le liberalità fra vivi sono computate nella sostanza in quanto sono soggette all’azione di riduzione.
 
-### 3. Polizze di assicurazione
+### 3. Polizze di assicurazione e previdenza individuale vincolata
 
 #### Art. 476
 
-Le polizze di assicurazione sulla vita del disponente, costituite a favore di un terzo con atto tra i vivi o con disposizione a causa di morte, e quelle che vivendo il disponente furono trasferite a titolo gratuito ad un terzo, sono computate nella successione per il valore di riscatto al momento della morte del disponente stesso.
+[^476-1]
+
+<sup>1</sup> Le polizze di assicurazione sulla vita del disponente, comprese quelle sottoscritte nell’ambito della previdenza individuale vincolata, costituite a favore di un terzo con atto tra i vivi o con disposizione a causa di morte, e quelle che vivendo il disponente furono trasferite a titolo gratuito ad un terzo, sono computate nella successione per il valore di riscatto al momento della morte del disponente stesso.
+
+<sup>2</sup> Sono computate nella successione anche le pretese dei beneficiari derivanti dalla previdenza individuale vincolata del defunto presso una fondazione bancaria.
+
+[^476-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### B. Diseredazione
 
@@ -6982,7 +7058,14 @@ Il disponente può designare una o più persone, a cui debbano essere devoluti l
 
 <sup>2</sup> Egli conserva la libera disposizione del suo patrimonio.
 
-<sup>3</sup> Le disposizioni a causa di morte e le donazioni incompatibili con le sue obbligazioni derivanti dal contratto successorio possono essere contestate.
+<sup>3</sup>
+
+Le disposizioni a causa di morte e le liberalità tra vivi, eccettuati i regali d’uso, possono tuttavia essere contestate nella misura in cui:
+
+- 1\. siano incompatibili con le obbligazioni derivanti dal contratto successorio, segnatamente se riducono i benefici che ne derivano; e
+- 2\. non siano state fatte salve in tale contratto.[^494-1]
+
+[^494-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### II. Rinuncia d’eredità
 
@@ -7267,15 +7350,29 @@ Se l’indicazione dell’anno, del mese e del giorno della confezione di un tes
 
 #### Art. 522
 
-<sup>1</sup> Gli eredi che non ottengono l’importo della loro legittima possono pretendere che le disposizioni eccedenti la porzione disponibile sieno ridotte alla giusta misura.
+[^522-1]
 
-<sup>2</sup> Se la disposizione contiene delle prescrizioni circa le quote dei singoli eredi legittimi, queste si devono considerare come semplici prescrizioni relative alla divisione, eccettoché una diversa intenzione non risulti dalla disposizione stessa.
+<sup>1</sup>
 
-### 2. Per gli eredi legittimari
+Gli eredi che ottengono un importo inferiore alla loro legittima possono proporre l’azione di riduzione, finché sia reintegrata la legittima, contro:
+
+- 1\. gli acquisti a causa di morte risultanti dalla legge;
+- 2\. le liberalità a causa di morte; e
+- 3\. le liberalità fra vivi.
+
+<sup>2</sup> Se una disposizione a causa di morte contiene prescrizioni circa le quote dei singoli eredi legittimi, queste si devono considerare come semplici prescrizioni relative alla divisione, eccettoché una diversa intenzione non risulti dalla disposizione stessa.
+
+[^522-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
+
+### 2. Eredi legittimari
 
 #### Art. 523
 
-Se la disposizione a causa di morte contiene liberalità a favore di più eredi legittimari, la riduzione in caso di sorpasso della porzione disponibile avviene tra i coeredi in proporzione degli importi attribuiti a ciascun d’essi in più della sua legittima.
+[^523-1]
+
+Gli acquisti a causa di morte risultanti dalla legge e le liberalità a causa di morte di cui beneficiano gli eredi legittimari possono essere ridotti in proporzione all’importo eccedente la loro legittima.
+
+[^523-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 3. Diritti dei creditori
 
@@ -7322,11 +7419,17 @@ Soggiacciono alla riduzione come le disposizioni a causa di morte:
 
 <sup>2</sup> Se la riduzione dev’essere sopportata dal beneficato di un contratto successorio, egli può ripetere una corrispondente parte della controprestazione fatta al disponente.
 
-### 4. Polizze di assicurazione
+### 4. Polizze di assicurazione e previdenza individuale vincolata
 
 #### Art. 529
 
-Le polizze d’assicurazione sulla vita del disponente, costituite a favore di un terzo per atto tra i vivi o per disposizione a causa di morte e quelle che vivendo il disponente furono trasferite a titolo gratuito ad un terzo, sono soggette all’azione di riduzione per il loro valore di riscatto.
+[^529-1]
+
+<sup>1</sup> Le polizze di assicurazione sulla vita del disponente, comprese quelle sottoscritte nell’ambito della previdenza individuale vincolata, costituite a favore di un terzo con atto tra i vivi o con disposizione a causa di morte e quelle che vivendo il disponente furono trasferite a titolo gratuito ad un terzo, sono soggette all’azione di riduzione per il loro valore di riscatto.
+
+<sup>2</sup> Sono soggette a riduzione anche le pretese dei beneficiari derivanti dalla previdenza individuale vincolata del defunto presso una fondazione bancaria.
+
+[^529-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### 5. Usufrutti e rendite
 
@@ -7348,7 +7451,25 @@ La sostituzione fedecommissaria è nulla riguardo all’erede legittimario in qu
 
 #### Art. 532
 
-Soggiacciono alla riduzione anzitutto le disposizioni a causa di morte, poscia le liberalità tra i vivi, procedendo dalla più recente alla più remota, finché sia reintegrata la legittima.
+[^532-1]
+
+<sup>1</sup>
+
+Soggiacciono alla riduzione, nel seguente ordine, finché sia reintegrata la legittima:
+
+- 1\. gli acquisti a causa di morte risultanti dalla legge;
+- 2\. le liberalità a causa di morte;
+- 3\. le liberalità fra vivi.
+
+<sup>2</sup>
+
+Le liberalità fra vivi sono ridotte nell’ordine seguente:
+
+- 1\. le liberalità concesse mediante convenzione matrimoniale o convenzione patrimoniale di cui è tenuto conto per il calcolo delle porzioni legittime;
+- 2\. le liberalità liberamente revocabili e le prestazioni della previdenza individuale vincolata, nella stessa proporzione;
+- 3\. le altre liberalità, procedendo dalla più recente alla più remota.
+
+[^532-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Diritto successorio), in vigore dal 1° gen. 2023 ([RU 2021 312](https://fedlex.data.admin.ch/eli/oc/2021/312); [FF 2018 4901](https://fedlex.data.admin.ch/eli/fga/2018/2131)).
 
 ### IV. Prescrizione dell’azione
 
@@ -9419,7 +9540,7 @@ Rimane riservata alla Confederazione, ai Cantoni ed ai Comuni la facoltà di ema
 
 I proprietari di servizi d’acqua potabile possono domandare in via di espropriazione i terreni circostanti alle loro sorgenti, necessari ad impedire che sieno inquinate.
 
-### Capo terzo:**** Della proprietà per piani
+### Capo terzo: Della proprietà per piani
 
 [^book4-part1-tit19-chap3-1]
 
@@ -9994,9 +10115,9 @@ L’estensione dei diritti di passaggio, quali i sentieri nei campi e nei boschi
 
 ### III. Spostamento della servitù
 
-[^book4-part2-tit21-chap1-lvlC-lvlII-lvlIII-1]
+[^book4-part2-tit21-chap1-lvlC-lvlIII-1]
 
-[^book4-part2-tit21-chap1-lvlC-lvlII-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^book4-part2-tit21-chap1-lvlC-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 #### Art. 742
 
@@ -11171,7 +11292,7 @@ Essendo iscritte più ipoteche legali di artigiani ed imprenditori esse danno eg
 
 <sup>3</sup> Dal momento in cui il principiare dei lavori è menzionato nel registro fondiario ad istanza di un interessato, non si possono inscrivere, fino a decorrenza del termine, altri pegni immobiliari fuorché le ipoteche.
 
-### Capo terzo:**** Della cartella ipotecaria
+### Capo terzo: Della cartella ipotecaria
 
 [^book4-part2-tit22-chap3-1]
 
@@ -12082,21 +12203,27 @@ Il Consiglio federale disciplina:
 
 [^949a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2003 sulla firma elettronica, in vigore dal 1° gen. 2005 ([RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [FF 2001 5109](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
-### 4*a*. ...
+### 4*a*. Identificatore per le persone fisiche nel registro fondiario
 
 #### Art. 949b
 
 [^949b-1]
 
-[^949b-1]: Non ancora in vigore ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+<sup>1</sup> Per identificare le persone, gli uffici del registro fondiario utilizzano sistematicamente il numero AVS.
 
-### 4*b*. ...
+<sup>2</sup> Comunicano il numero AVS soltanto ad altri servizi e istituzioni che ne hanno bisogno per adempiere i loro compiti legali in relazione al registro fondiario e che sono autorizzati a utilizzare sistematicamente tale numero.
+
+[^949b-1]: Introdotto dal n. I 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2023 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649), [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
+
+### 4*b*. Ricerca di fondi su scala nazionale
 
 #### Art. 949c
 
 [^949c-1]
 
-[^949c-1]: Non ancora in vigore ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649)).
+Il Consiglio federale disciplina la ricerca su scala nazionale, da parte delle autorità abilitate, dei fondi sui quali una persona identificata in base al numero AVS vanta diritti.
+
+[^949c-1]: Introdotto dal n. I 2 della LF del 15 dic. 2017 (Atti dello stato civile e registro fondiario), in vigore dal 1° gen. 2023 ([RU 2018 4017](https://fedlex.data.admin.ch/eli/oc/2018/649), [2021 917](https://fedlex.data.admin.ch/eli/oc/2021/917); [FF 2014 3059](https://fedlex.data.admin.ch/eli/fga/2014/785)).
 
 ### 4*c*. Ricorso a privati per l’uso del registro fondiario informatizzato
 
@@ -12692,6 +12819,16 @@ I fatti verificatisi sotto l’impero del diritto anteriore, ma dai quali al mom
 
 [^u1-6b-1]: Originario art. 7 e art. 6*a*.
 [^u1-6b-2]: Introdotto dal n. I 1 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+
+### 1*a*. Associazioni tenute all’iscrizione nel registro di commercio
+
+#### Art. 6b<sup>bis</sup>
+
+[^u1-6bbis-1]
+
+Le associazioni già esistenti di cui all’articolo 61 capoverso 2 devono adempiere gli obblighi secondo gli articoli 61*a* e 69 capoverso 2 entro 18 mesi dall’entrata in vigore della modifica del 19 marzo 2021. Le associazioni già esistenti di cui all’articolo 61 capoverso 2 numero 3 devono inoltre, entro tale termine, farsi iscrivere nel registro di commercio.
+
+[^u1-6bbis-1]: Introdotto dall’all. 1 n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2023 ([RU 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [FF 2019 4539](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 
 ### 2. Contabilità e ufficio di revisione
 
@@ -13776,7 +13913,7 @@ Il Codice federale delle obbligazioni del 14 giugno 1881[^u1-60-4].
 
 [^u1-61-1]: Nuova numerazione degli ultimi quattro articoli, risultante dall’abrogazione degli articoli 58 e 59 originari, giusta il n. I delle disp. trans. del CO, in vigore dal 1° gen. 1912 ([RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)e CS **2** 193; ediz. ted. BBl **1905** II 1, **1909** III 725, **1911** I 845, ediz. franc. FF **1905** II 1, **1909** III 747, **1911** I 695).
 
-## Testo delle disposizioni previgenti del titolo sesto****
+## Testo delle disposizioni previgenti del titolo sesto
 
 [^u2-1]
 
