@@ -4,20 +4,20 @@ title: Verordnung des BAV vom 14. Mai 2012 über den Eisenbahn-Netzzugang (NZV-B
 short: NZV-BAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-371-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-371-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des BAV über den Eisenbahn-Netzzugang****
+# Verordnung des BAV über den Eisenbahn-Netzzugang
 
 (NZV-BAV)[^t-1]
 
-vom 14. Mai 2012 (Stand am 1. Januar 2021)
+vom 14. Mai 2012 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V des BAV vom 21. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-1]: [SR 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
 [^ingress-2]: Fassung gemäss Ziff. I der V des BAV vom 7. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
-## 1. Abschnitt: Trassenpreis****
+## 1. Abschnitt: Trassenpreis
 
 [^sec1-1]
 
@@ -101,7 +101,7 @@ Für Fahrten auf Normalspurstrecken berechnet sich der Basispreis Verschleiss pr
 
 ### (Art. 20*a* NZV)
 
-<sup>1</sup> Der Preis für den Bezug von Energie ab Fahrdraht (Strompreis) beträgt 11 Rp./kWh. Er wird täglich von 22 bis 6 Uhr um 40 Prozent gesenkt sowie von Montag bis Freitag von 6 bis 9 Uhr und von 16 bis 19 Uhr um 20 Prozent erhöht.[^3-2]
+<sup>1</sup> Der Preis für den Bezug von Energie ab Fahrdraht (Strompreis) beträgt 14 Rp./kWh. Er wird täglich von 22 bis 6 Uhr um 40 Prozent gesenkt sowie von Montag bis Freitag von 6 bis 9 Uhr und von 16 bis 19 Uhr um 20 Prozent erhöht.[^3-2]
 
 <sup>2</sup> Das BAV bewilligt den Gleichstrombahnen einen abweichenden Strompreis, wenn diese die abweichenden Kosten nachweisen.
 
@@ -115,7 +115,7 @@ Für Fahrzeuge ohne Rekuperationsbremsen werden diese Ansätze mit folgenden Fak
 - b. Faktor 1,15 für übrige Fahrten.[^3-4]
 
 [^3-1]: Fassung gemäss Ziff. I der V des BAV vom 21. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^3-2]: Fassung gemäss Ziff. I der V des BAV vom 19. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^3-2]: Fassung gemäss Ziff. I der V des BAV vom 15. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
 [^3-3]: Fassung gemäss Ziff. I der V des BAV vom 19. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 [^3-4]: Fassung gemäss Ziff. I der V des BAV vom 19. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 
@@ -143,7 +143,7 @@ Es muss enthalten:
 
 <sup>4</sup> Gestützt auf die Bewilligung des BAV erstattet die Infrastrukturbetreiberin dieser Strecke den ETCS-Rabatt der Netzbenutzerin.
 
-## 2. Abschnitt: Zusatzleistungen, Publikation****
+## 2. Abschnitt: Zusatzleistungen, Publikation
 
 [^sec2-1]
 
@@ -192,7 +192,7 @@ Die Infrastrukturbetreiberin muss die Publikationen nach Artikel 10 Absatz 1 Buc
 
 <sup>2</sup> Sie muss die Berechnungsgrundlagen für die Festlegung der Preise für Zusatzleistungen bekanntgeben.
 
-## 3. Abschnitt: Trassenzuteilung****
+## 3. Abschnitt: Trassenzuteilung
 
 [^sec3-1]
 
@@ -273,7 +273,7 @@ Bei Bestellkonflikten, die nicht ausschliesslich Trassen des Personenverkehrs be
 
 [^10-1]: Eingefügt durch Ziff. I der V des BAV vom 7. Febr. 2017, in Kraft seit 1. März 2017 ([AS 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
-## 4. Abschnitt:**** Streckensperrungen für Bauarbeiten
+## 4. Abschnitt: Streckensperrungen für Bauarbeiten
 
 [^sec4-1]
 
@@ -327,7 +327,7 @@ Die Eisenbahnverkehrsunternehmen tragen bei Streckensperrungen die eigenen Koste
 
 <sup>2</sup> Ist eine Umleitung auf der Schiene nicht möglich, so beträgt die Pauschale 3000 Franken pro betroffenen Zug.
 
-## 5. Abschnitt: Schlussbestimmungen****
+## 5. Abschnitt: Schlussbestimmungen
 
 [^sec5-1]
 
@@ -340,7 +340,7 @@ Die Eisenbahnverkehrsunternehmen tragen bei Streckensperrungen die eigenen Koste
 Die Ausführungsbestimmungen vom 7. Juni 1999[^11-2] zur Eisenbahn-Netzzugangsverordnung werden aufgehoben.
 
 [^11-1]: Ursprünglich Art. 8.
-[^11-2]: [[AS 2000 1037](https://fedlex.data.admin.ch/eli/oc/2000/163), [2002 196](https://fedlex.data.admin.ch/eli/oc/2002/33), [2006 4801](https://fedlex.data.admin.ch/eli/oc/2006/736), [2007 4655](https://fedlex.data.admin.ch/eli/oc/2007/655), [2009 5815](https://fedlex.data.admin.ch/eli/oc/2009/702), [2011 1249](https://fedlex.data.admin.ch/eli/oc/2011/187)]
+[^11-2]: [[AS 2000 1037](https://fedlex.data.admin.ch/eli/oc/2000/163); [2002 196](https://fedlex.data.admin.ch/eli/oc/2002/33); [2006 4801](https://fedlex.data.admin.ch/eli/oc/2006/736); [2007 4655](https://fedlex.data.admin.ch/eli/oc/2007/655); [2009 5815](https://fedlex.data.admin.ch/eli/oc/2009/702); [2011 1249](https://fedlex.data.admin.ch/eli/oc/2011/187)]
 
 #### Art. 12
 
@@ -359,6 +359,15 @@ Für Fahrzeuge, für die beim Inkrafttreten der Änderung vom 14. November 2019 
 
 [^12a-1]: Eingefügt durch Ziff. I der V des BAV vom 14. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 
+#### Art. 12b
+
+**Übergangsbestimmung zur Änderung vom 15. Dezember 2022**[^12b-1]
+
+Für Züge des abgeltungsberechtigten regionalen Personenverkehrs nach Artikel 28 des Personenbeförderungsgesetzes vom 20. März 2009[^12b-2], des Autoverlads und des Güterverkehrs, einschliesslich der zugehörigen Leerfahrten und Lokzüge, beträgt der Strompreis nach Artikel 3 Absatz 1 dieser Verordnung bis zum 31. Dezember 2023 12 Rp./kWh.
+
+[^12b-1]: Eingefügt durch Ziff. I der V des BAV vom 15. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
+[^12b-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+
 #### Art. 13
 
 **Inkrafttreten**[^13-1]
@@ -367,7 +376,7 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 [^13-1]: Ursprünglich Art. 9.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 1 Abs. 2)
 
@@ -613,7 +622,7 @@ Anhang 1*[^t-2]*
 <tr><td>[tab]</td><td>759.2 Limmattalbahn</td></tr>
 </table>
 
-Anhang 1a*[^t-3]*
+Anhang 1a[^t-3]
 
 (Art. 1 Abs. 4)
 
@@ -647,7 +656,7 @@ Dabei gelten:
 
 [^annex1a-lvlu1-1]: Die Anleitung für die Berechnung des Basispreises Verschleiss einschliesslich der Parameterwerte kann kostenlos unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Verordnungen des UVEK und des BAV eingesehen werden.
 
-Anhang 1b*[^t-4]*
+Anhang 1b[^t-4]
 
 (Art. 1 Abs. 4 Bst. a)
 
@@ -657,43 +666,43 @@ Anhang 1b*[^t-4]*
 
 \1. Geschwindigkeitsbänder für Geraden (Radien r &gt; 1200 m):
 
-- a. v80 = 0...80 km/h
-- b. v100 = 81...100 km/h
-- c. v120 = 101...120 km/h
-- d. v140 = 121...140 km/h
-- e. v160 = 141...160 km/h
-- f. v200 = 161...200 km/h
+- a. v80 = 0…80 km/h
+- b. v100 = 81…100 km/h
+- c. v120 = 101…120 km/h
+- d. v140 = 121…140 km/h
+- e. v160 = 141…160 km/h
+- f. v200 = 161…200 km/h
 
 \2. Radienbänder für Kurven (Radien r ≤ 1200 m):
 
-- a. r1200 = 601...1200 m
-- b. r600 = 401...600 m
-- c. r400 = 301...400 m
+- a. r1200 = 601…1200 m
+- b. r600 = 401…600 m
+- c. r400 = 301…400 m
 - d. r300 ≤ 300 m
 
-Anhang 1c*[^t-5]*
+Anhang 1c[^t-5]
 
 (Art. 1 Abs. 4 Bst. b)
 
-## Basispreis Verschleiss: Preise der Fahrzeugtypen pro Geschwindigkeits- und Radienband nach Anhang 1*b*****
+## Basispreis Verschleiss: Preise der Fahrzeugtypen pro Geschwindigkeits- und Radienband nach Anhang 1*b*
 
 [^annex1c-lvlu1-1]
 
 [^t-5]: Eingefügt durch Ziff. II Abs. 1 der V des BAV vom 21. Sept. 2016 ([AS 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)). Fassung gemäss Ziff. II Abs. 1 der V des BAV vom 19. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 [^annex1c-lvlu1-1]: Der Text dieses Anhangs wird nicht in der AS publiziert. Er kann kostenlos eingesehen werden unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Verordnungen des UVEK und des BAV.
 
-Anhang 1d*[^t-6]*
+Anhang 1d[^t-6]
 
 (Art. 1 Abs. 4 Bst. c)
 
-## Basispreis Verschleiss: historische Fahrzeuge****
+## Basispreis Verschleiss: historische Fahrzeuge
 
 [^annex1d-lvlu1-1]
 
 [^t-6]: Eingefügt durch Ziff. II Abs. 1 der V des BAV vom 21. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^annex1d-lvlu1-1]: Der Text dieses Anhangs wird nicht in der AS publiziert. Er kann kostenlos unter www.bav.admin.ch &gt; Rechtliches &gt; Weitere Rechtsgrundlagen und Vorschriften &gt; Verordnungen des UVEK und des BAV eingesehen werden.
 
-Anhang 2*[^t-7]*
+Anhang 2[^t-7]
 
 (Art. 2)
 
@@ -862,7 +871,7 @@ Anhang 2*[^t-7]*
 <tr><td>Zürich Wiedikon</td><td></td></tr>
 </table>
 
-Anhang 3*[^t-8]*
+Anhang 3[^t-8]
 
 [^t-8]: Aufgehoben durch Ziff. II Abs. 2 der V des BAV vom 7. Febr. 2017, mit Wirkung seit 1. März 2017 ([AS 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
@@ -879,7 +888,7 @@ Anhang 4
 - 5\. Basel (Grenze) – Bözberg – Othmarsingen – Rotkreuz – Giubiasco – Chiasso (Grenze)
 - 6\. Giubiasco – Pino-Tronzano (Grenze)
 
-Anhang 5*[^t-9]*
+Anhang 5[^t-9]
 
 (Art. 3 Abs. 3)
 

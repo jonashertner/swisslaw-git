@@ -4,20 +4,20 @@ title: "Ordonnance de l'OFT du 14 mai 2012 sur l'accès au réseau ferroviaire (
 short: OARF-OFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-371-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’OFT sur l’accès au réseau ferroviaire****
+# Ordonnance de l’OFT sur l’accès au réseau ferroviaire
 
 (OARF-OFT)[^t-1]
 
-du 14 mai 2012 (Etat le 1<sup>er</sup> janvier 2021)
+du 14 mai 2012 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
-## Section 1 Prix du sillon****
+## Section 1 Prix du sillon
 
 [^sec1-1]
 
@@ -101,7 +101,7 @@ Pour les courses sur les tronçons à voie normale, le prix de base lié à l’
 
 ### (art. 20*a* OARF)
 
-<sup>1</sup> Le prix de l’énergie au fil de contact (prix de l’électricité) est fixé à 11 ct./kWh. Il est réduit de 40 % entre 22 h et 6 h et augmenté de 20 % du lundi au vendredi de 6 h à 9 h et de 16 h à 19 h.[^3-2]
+<sup>1</sup> Le prix de l’énergie au fil de contact (prix de l’électricité) est fixé à 14 ct./kWh. Il est réduit de 40 % entre 22 h et 6 h et augmenté de 20 % du lundi au vendredi de 6 h à 9 h et de 16 h à 19 h.[^3-2]
 
 <sup>2</sup> L’OFT autorise les chemins de fer à courant continu à payer un prix du courant différent lorsque ceux-ci attestent de coûts différents.
 
@@ -115,7 +115,7 @@ Pour les véhicules sans freins à récupération, ces taux sont multipliés:
 - b. par 1,15 pour les autres courses.[^3-4]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 
@@ -143,7 +143,7 @@ Elle contient:
 
 <sup>4</sup> Sur la base de la demande approuvée par l’OFT, le gestionnaire d’infrastructure accorde le rabais ETCS à l’utilisateur du réseau.
 
-## Section 2 Prestations complémentaires, publication****
+## Section 2 Prestations complémentaires, publication
 
 [^sec2-1]
 
@@ -192,7 +192,7 @@ Il incombe au gestionnaire d’infrastructure:
 
 <sup>2</sup> Le gestionnaire d’infrastructure communique les bases de calcul des prix des prestations complémentaires.
 
-## Section 3 Attribution des sillons****
+## Section 3 Attribution des sillons
 
 [^sec3-1]
 
@@ -273,7 +273,7 @@ En cas de conflit de commande qui ne concerne pas que des sillons du trafic voya
 
 [^10-1]: Introduit par le ch. I de l’O de l’OFT du 7 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
-## Section 4**** Fermetures de tronçons pour travaux de construction
+## Section 4 Fermetures de tronçons pour travaux de construction
 
 [^sec4-1]
 
@@ -327,7 +327,7 @@ En cas de fermetures de tronçons, les entreprises de transport ferroviaire assu
 
 <sup>2</sup> Si une déviation sur le rail n’est pas possible, le forfait s'élève à 3000 francs par train concerné.
 
-## Section 5 Dispositions finales****
+## Section 5 Dispositions finales
 
 [^sec5-1]
 
@@ -359,6 +359,15 @@ Le supplément selon l’art. 20*a*, al. 3, OARF n’est pas perçu jusqu’au 3
 
 [^12a-1]: Introduit par le ch. I de l’O de l’OFT du 14 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 
+#### Art. 12b
+
+**Disposition transitoire de la modification du 15 décembre 2022**[^12b-1]
+
+Pour les trains du transport régional de voyageurs indemnisé conformément à l’art. 28 de la loi du 20 mars 2009 sur le transport de voyageurs[^12b-2] et pour ceux du chargement des automobiles et du transport de marchandises, y compris les courses à vide et trains de locomotives correspondants, le prix de l’électricité conformément à l’art. 3, al. 1, est fixé à 12 ct./kWh jusqu’au 31 décembre 2023.
+
+[^12b-1]: Introduit par le ch. I de l’O de l’OFT du 15 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
+[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+
 #### Art. 13
 
 **Entrée en vigueur**[^13-1]
@@ -367,7 +376,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2013.
 
 [^13-1]: Anciennement art. 9.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 1, al. 2)
 
@@ -613,7 +622,7 @@ Annexe 1*[^t-2]*
 <tr><td>[tab]</td><td>759.2 Limmattalbahn</td></tr>
 </table>
 
-Annexe 1a*[^t-3]*
+Annexe 1a[^t-3]
 
 (art. 1, al. 4)
 
@@ -647,7 +656,7 @@ Les variables sont:
 
 [^annex1a-lvlu1-1]: Les instructions de calcul du prix de base lié à l’usure, y compris les valeurs des paramètres sont disponibles gratuitement sur www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
 
-Annexe 1b*[^t-4]*
+Annexe 1b[^t-4]
 
 (art. 1, al. 4, let. a)
 
@@ -671,29 +680,29 @@ Annexe 1b*[^t-4]*
 - c. r400 = 301...400 m
 - d. r300 ≤ 300 m
 
-Annexe 1c*[^t-5]*
+Annexe 1c[^t-5]
 
 (art. 1, al. 4, let. b)
 
-## Prix de base lié à l’usure: prix des types de véhicule par catégorie de vitesse et de rayon conformément à l’annexe 1*b*****
+## Prix de base lié à l’usure: prix des types de véhicule par catégorie de vitesse et de rayon conformément à l’annexe 1*b*
 
 [^annex1c-lvlu1-1]
 
 [^t-5]: Introduite par le ch. II al. 1 de l’O de l’OFT du 21 sept. 2016 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)). Nouvelle teneur selon le ch. II al. 1 de l’O de l’OFT du 19 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 [^annex1c-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il est disponible gratuitement sur www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
 
-Annexe 1d*[^t-6]*
+Annexe 1d[^t-6]
 
 (art. 1, al. 4, let. c)
 
-## Prix de base lié à l’usure: véhicules historiques****
+## Prix de base lié à l’usure: véhicules historiques
 
 [^annex1d-lvlu1-1]
 
 [^t-6]: Introduite par le ch. II al. 1 de l’O de l’OFT du 21 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^annex1d-lvlu1-1]: Le texte de cette annexe n’est pas publié au RO. Il est disponible gratuitement sur www.oft.admin.ch &gt; Droit &gt; Autres bases légales et prescriptions &gt; Ordonnances du DETEC et de l’OFT.
 
-Annexe 2*[^t-7]*
+Annexe 2[^t-7]
 
 (art. 2)
 
@@ -862,7 +871,7 @@ Annexe 2*[^t-7]*
 <tr><td>Zürich Wiedikon</td><td></td></tr>
 </table>
 
-Annexe 3*[^t-8]*
+Annexe 3[^t-8]
 
 [^t-8]: Abrogée par le ch. II de l’O de l’OFT du 7 fév. 2017, avec effet au 1<sup>er</sup> mars 2017 ([RO 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
@@ -879,7 +888,7 @@ Annexe 4
 - 5\. Basel (frontière) – Bözberg – Othmarsingen – Rotkreuz – Giubiasco – Chiasso (frontière)
 - 6\. Giubiasco – Pino-Tronzano (frontière)
 
-Annexe 5*[^t-9]*
+Annexe 5[^t-9]
 
 (art. 3, al. 3)
 

@@ -4,20 +4,20 @@ title: "Ordinanza dell'UFT del 14 maggio 2012 concernente l'accesso alla rete fe
 short: OARF-UFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/371"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2012-05-14
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/371/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-371-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/371/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’UFT concernente l’accesso alla rete ferroviaria****
+# Ordinanza dell’UFT concernente l’accesso alla rete ferroviaria
 
 (OARF-UFT)[^t-1]
 
-del 14 maggio 2012 (Stato 1° gennaio 2021)
+del 14 maggio 2012 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’UFT 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-1]: [RS 742.122](https://fedlex.data.admin.ch/eli/cc/1999/142)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
-## Sezione 1: Prezzo delle tracce****
+## Sezione 1: Prezzo delle tracce
 
 [^sec1-1]
 
@@ -101,7 +101,7 @@ Per corse effettuate su tratte a scartamento normale il prezzo di base in funzio
 
 ### (art. 20*a* OARF)
 
-<sup>1</sup> Il prezzo per la captazione di energia elettrica dalla linea di contatto (prezzo dell’energia elettrica) è di 11 ct./kWh. È ridotto del 40 per cento tutti i giorni dalle 22.00 alle 6.00 e aumentato del 20 per cento dal lunedì al venerdì dalle 6.00 alle 9.00 e dalle 16.00 alle 19.00.[^3-2]
+<sup>1</sup> Il prezzo per la captazione di energia elettrica dalla linea di contatto (prezzo dell’energia elettrica) è di 14 ct./kWh. È ridotto del 40 per cento tutti i giorni dalle 22.00 alle 6.00 e aumentato del 20 per cento dal lunedì al venerdì dalle 6.00 alle 9.00 e dalle 16.00 alle 19.00.[^3-2]
 
 <sup>2</sup> L’UFT approva un prezzo diverso dell’energia elettrica per le ferrovie a corrente continua qualora esse attestino una differenza di costi.
 
@@ -115,7 +115,7 @@ Per i veicoli privi di freni rigenerativi tali valori di riferimento sono moltip
 - b. fattore 1,15 per le altre corse.[^3-4]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
-[^3-2]: Nuovo testo giusta il n. I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
+[^3-2]: Nuovo testo giusta il n. I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
 [^3-3]: Nuovo testo giusta il n. I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 [^3-4]: Nuovo testo giusta il n. I dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 
@@ -143,7 +143,7 @@ Essa deve comprendere:
 
 <sup>4</sup> In base all’autorizzazione dell’UFT, il gestore dell’infrastruttura della tratta interessata versa all’utente della rete l’importo corrispondente alla riduzione ETCS.
 
-## Sezione 2: Prestazioni supplementari, pubblicazione****
+## Sezione 2: Prestazioni supplementari, pubblicazione
 
 [^sec2-1]
 
@@ -192,7 +192,7 @@ Il gestore dell’infrastruttura è tenuto:
 
 <sup>2</sup> Il gestore dell’infrastruttura deve rendere note le basi di calcolo dei prezzi delle prestazioni supplementari.
 
-## Sezione 3: Attribuzione delle tracce****
+## Sezione 3: Attribuzione delle tracce
 
 [^sec3-1]
 
@@ -273,7 +273,7 @@ In caso di conflitti d’ordinazione che non è possibile risolvere secondo il c
 
 [^10-1]: Introdotto dal n. I dell’O dell’UFT del 7 feb. 2017, in vigore dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
-## Sezione 4:**** Chiusura di tratte per lavori di costruzione
+## Sezione 4: Chiusura di tratte per lavori di costruzione
 
 [^sec4-1]
 
@@ -327,7 +327,7 @@ In caso di chiusura di tratte le imprese di trasporto ferroviario si assumono i 
 
 <sup>2</sup> Se la deviazione su rotaia non è possibile, l’importo forfettario è di 3000 franchi per treno interessato.
 
-## Sezione 5: Disposizioni finali****
+## Sezione 5: Disposizioni finali
 
 [^sec5-1]
 
@@ -359,6 +359,15 @@ Per veicoli per i quali all’entrata in vigore della modifica del 14 novembre 2
 
 [^12a-1]: Introdotto dal n. I dell’O dell’UFT del 14 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4229](https://fedlex.data.admin.ch/eli/oc/2019/728)).
 
+#### Art. 12b
+
+**Disposizione transitoria concernente la modifica del 15 dicembre 2022**[^12b-1]
+
+Per i treni del traffico regionale viaggiatori beneficiario di indennità secondo l’articolo 28 della legge del 20 marzo 2009[^12b-2] sul trasporto di viaggiatori, del carico di autoveicoli e del traffico merci, compresi i relativi treni di locomotive e corse a vuoto, fino al 31 dicembre 2023 il prezzo dell’energia elettrica secondo l’articolo 3 capoverso 1 è di 12 ct./kWh.
+
+[^12b-1]: Introdotto dal n. I dell’O dell’UFT del 15 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 829](https://fedlex.data.admin.ch/eli/oc/2022/829)).
+[^12b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+
 #### Art. 13
 
 **Entrata in vigore**[^13-1]
@@ -367,7 +376,7 @@ La presente ordinanza entra in vigore il 1° gennaio 2013.
 
 [^13-1]: Originario art. 9.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 1 cpv. 2)
 
@@ -613,7 +622,7 @@ Allegato 1*[^t-2]*
 <tr><td>[tab]</td><td>759.2 Limmattalbahn</td></tr>
 </table>
 
-Allegato 1a*[^t-3]*
+Allegato 1a[^t-3]
 
 (art. 1 cpv. 4)
 
@@ -647,7 +656,7 @@ S’intendono per:
 
 [^annex1a-lvlu1-1]: Le istruzioni per calcolare il prezzo di base in funzione dell’usura, compresi i valori parametrici, sono consultabili gratuitamente sul sito dell’UFT: www.bav.admin.ch &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Ordinanze del DATEC e dell’UFT.
 
-Allegato 1b*[^t-4]*
+Allegato 1b[^t-4]
 
 (art. 1 cpv. 4 lett. a)
 
@@ -671,29 +680,29 @@ Allegato 1b*[^t-4]*
 - c. r400 = 301...400 m
 - d. r300 ≤ 300 m
 
-Allegato 1c*[^t-5]*
+Allegato 1c[^t-5]
 
 (art. 1 cpv. 4 lett. b)
 
-## Prezzo di base in funzione dell’usura: prezzi dei tipi di veicoli per intervalli di velocità e intervalli di raggi secondo l’allegato 1*b*****
+## Prezzo di base in funzione dell’usura: prezzi dei tipi di veicoli per intervalli di velocità e intervalli di raggi secondo l’allegato 1*b*
 
 [^annex1c-lvlu1-1]
 
 [^t-5]: Introdotto dal n. II cpv. 1 dell’O dell’UFT del 21 set. 2016 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)). Nuovo testo giusta il n. II cpv. 1 dell’O dell’UFT del 19 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2019 29](https://fedlex.data.admin.ch/eli/oc/2019/7)).
 [^annex1c-lvlu1-1]: Non pubblicato nella RU. Consultabile gratuitamente sul sito dell’UFT: www.bav.admin.ch &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Ordinanze del DATEC e dell’UFT.
 
-Allegato 1d*[^t-6]*
+Allegato 1d[^t-6]
 
 (art. 1 cpv. 4 lett. c)
 
-## Prezzo di base in funzione dell’usura: veicoli d’epoca****
+## Prezzo di base in funzione dell’usura: veicoli d’epoca
 
 [^annex1d-lvlu1-1]
 
 [^t-6]: Introdotto dal n. II cpv. 1 dell’O dell’UFT del 21 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3469](https://fedlex.data.admin.ch/eli/oc/2016/585)).
 [^annex1d-lvlu1-1]: Non pubblicato nella RU. Consultabile gratuitamente sul sito dell’UFT: www.bav.admin.ch &gt; Diritto &gt; Altre basi giuridiche e prescrizioni &gt; Ordinanze del DATEC e dell’UFT.
 
-Allegato 2*[^t-7]*
+Allegato 2[^t-7]
 
 (art. 2)
 
@@ -862,7 +871,7 @@ Allegato 2*[^t-7]*
 <tr><td>Zürich Wiedikon</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-8]*
+Allegato 3[^t-8]
 
 [^t-8]: Abrogato dal n. II cpv. 2 dell’O dell’UFT del 7 feb. 2017, con effetto dal 1° mar. 2017 ([RU 2017 615](https://fedlex.data.admin.ch/eli/oc/2017/105)).
 
@@ -879,7 +888,7 @@ Allegato 4
 - 5\. Basel (frontiera) – Bözberg – Othmarsingen – Rotkreuz – Giubiasco – Chiasso (frontiera)
 - 6\. Giubiasco – Pino-Tronzano (frontiera)
 
-Allegato 5*[^t-9]*
+Allegato 5[^t-9]
 
 (art. 3 cpv. 3)
 
