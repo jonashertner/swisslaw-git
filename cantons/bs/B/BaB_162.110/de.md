@@ -3,13 +3,13 @@ canton: BS
 number: BaB 162.110
 title: Reglement zur Anstellungsordnung
 language: de
-version: 2022-01-13
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+valid_until: 2023-06-30
+version_adopted: 2022-09-27
 adopted: 1999-01-12
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5421/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5421/pdf_file"
 
 Gemeindepersonal
 
-Vom 12. Januar 1999 (Stand 13. Januar 2022)
+Vom 12. Januar 1999 (Stand 1. Januar 2023)
 
 Der Bürgerrat der Stadt Basel erlässt in Ausführung von § 28 der Ordnung betreffend die Anstellungsverhältnisse bei der Bürgergemeinde der Stadt Basel (Anstellungsordnung, AO) vom 28. April 1998[^ingress-1] folgendes Reglement:
 
@@ -485,15 +485,46 @@ Bürgerliches Waisenhaus
 
 <sup>3</sup> Bei der Krankentaggeldversicherung und der Nichtberufsunfallversicherung legt der Bürgerrat die Prämiensätze des Personals jährlich einheitlich fest.
 
-## 16. Öffentliche Ämter (§ 24 AO)
+## 16. Nebenbeschäftigung (§ 23 AO)
+
+#### § 36a
+
+**Meldepflicht**
+
+<sup>1</sup> Ab einem Beschäftigungsgrad von 50 % melden die Mitarbeitenden ihrem Personaldienst neben dem Anstellungsverhältnis ausgeübte entgeltliche Tätigkeiten und die Ausübung eines öffentlichen Amtes.
+
+<sup>2</sup> Die Kadermitarbeitenden der Institutionen der Bürgergemeinde und der Zentralen Dienste melden ihrem Personaldienst zudem auch die neben dem Anstellungsverhältnis unentgeltlich ausgeübten Tätigkeiten, sofern ein Interessenkonflikt nicht ausgeschlossen werden kann.
+
+#### § 36b
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Die Ausübung einer Nebenbeschäftigung bedarf der vorgängigen Bewilligung, wenn:
+
+- a) die oder der Mitarbeitende in einem Umfang beansprucht wird, der die Leistungsfähigkeit vermindern oder die Aufgabenerfüllung beeinträchtigen kann;
+- b) aufgrund der Art der Tätigkeit die Möglichkeit eines Konfliktes mit den dienstlichen Interessen besteht.
+
+<sup>2</sup> Die Bewilligung kann verweigert werden, wenn eine Beeinträchtigung der Leistungsfähigkeit, der Aufgabenerfüllung oder ein Interessenkonflikt nicht ausgeschlossen werden kann.
+
+#### § 36c
+
+**Bewilligungsinstanzen**
+
+<sup>1</sup> Die Leitungsausschüsse bewilligen entgeltliche und unentgeltliche Tätigkeiten und die Ausübung eines öffentlichen Amtes der Institutionsleitenden und der Direktorin oder des Direktors der Zentralen Dienste.
+
+<sup>2</sup> Die Institutionsleitenden und die Direktorin oder der Direktor der Zentralen Dienste bewilligen entgeltliche und unentgeltliche Tätigkeiten und die Ausübung eines öffentlichen Amtes des Kaders.
+
+<sup>3</sup> Die Personaldienste bewilligen eine entgeltliche Tätigkeit und die Ausübung eines öffentlichen Amtes der übrigen Mitarbeitenden.
+
+<sup>4</sup> Die Bewilligungen gemäss Abs. 1 und Abs. 2 sind den Zentralen Personaldiensten zur Kenntnis zu bringen.
 
 #### § 37
 
-**Urlaubsgewährung**
+**Öffentliches Amt**
 
-<sup>1</sup> Für die durch die Institutionsleitung bewilligte Ausübung eines politischen Amts wird der erforderliche Urlaub gewährt.
+<sup>1</sup> Für die bewilligte Ausübung eines öffentlichen Amtes wird der erforderliche Urlaub gewährt.
 
-<sup>2</sup> Die Institutionsleitung kann die Bewilligung von einer Kompensation der entfallenden Arbeitszeit oder von einer Lohnreduktion abhängig machen. Bei der Festlegung dieser Bedingungen sind die Interessen der Bürgergemeinde an der Mandatsausübung zu berücksichtigen.
+<sup>2</sup> Die Bewilligung kann von einer Kompensation der entfallenden Arbeitszeit oder von einer Lohnreduktion abhängig gemacht werden. Bei der Festlegung dieser Bedingungen sind die Interessen der Bürgergemeinde an der Mandatsausübung zu berücksichtigen.
 
 ## 17. Geschenke (§ 25 AO)
 
