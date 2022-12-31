@@ -4,20 +4,20 @@ title: Verordnung vom 24. November 2004 über die medizinische Beurteilung der M
 short: VMBM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2004-11-24
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2004-748-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die medizinische Beurteilung der Militärdiensttauglichkeit und der Militärdienstfähigkeit
 
-(VMBM)**[^t-1]**
+(VMBM)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Januar 2021)
+vom 24. November 2004 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
@@ -141,7 +141,7 @@ Können die medizinischen UC auf Grund ihrer eigenen Untersuchungen oder der Akt
 [^9-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Berichtigung vom 16. Jan. 2018 ([AS 2018 85](https://fedlex.data.admin.ch/eli/oc/2018/27)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
-## 4. Abschnitt: Persönlichkeitsschutz****
+## 4. Abschnitt: Persönlichkeitsschutz
 
 [^sec4-1]
 
@@ -211,9 +211,9 @@ Das Beschwerdeverfahren ist kostenlos.
 
 <sup>1</sup> Die Verordnung vom 9. September 1998[^17-1] über die medizinische Beurteilung der Diensttauglichkeit und Dienstfähigkeit wird aufgehoben.
 
-<sup>2</sup> ...[^17-2]
+<sup>2</sup> …[^17-2]
 
-[^17-1]: [[AS 1998 2656](https://fedlex.data.admin.ch/eli/oc/1998/2656_2656_2656),[2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 3]
+[^17-1]: [[AS 1998 2656](https://fedlex.data.admin.ch/eli/oc/1998/2656_2656_2656);[2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 3]
 [^17-2]: Die Änderung kann unter [AS 2004 4955](https://fedlex.data.admin.ch/eli/oc/2004/748)konsultiert werden.
 
 #### Art. 18
@@ -222,13 +222,13 @@ Das Beschwerdeverfahren ist kostenlos.
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 (Art. 9 Abs. 1)
 
 ## Entscheide der UC betreffend Militärdiensttauglichkeit
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Die Berichtigung vom 9. Okt. 2018 betrifft nur den französischen Text ([AS 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Bereinigt gemäss Anhang 7 Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 Die Entscheide der UC betreffend die Militärdiensttauglichkeit lauten wie folgt und haben folgende Bedeutung:
 
@@ -263,27 +263,28 @@ Die Entscheide der UC betreffend die Militärdiensttauglichkeit lauten wie folgt
 - Die beurteilte Person ist militärdiensttauglich, darf aber aus medizinischen Gründen nicht für Beförderungsdienste aufgeboten werden.
 - 3\.2 *«Militärdiensttauglich nur für Ausbildung und Support»:*
 - Die beurteilte Person ist militärdiensttauglich, darf aber nur in eine Formation Ausbildung und Support eingeteilt werden. Ihre Marsch-, Trag- und/oder Hebefähigkeit ist aus medizinischen Gründen leicht oder erheblich eingeschränkt. Die beurteilte Person wird nur in bestimmten Funktionen ausgebildet und eingesetzt.
-- 3\.3 *«Dispensiert bis ...»:*
+- 3\.3 *«Dispensiert bis …»:*
 - Eine Dispensation ist für die Dauer von höchstens zwei Jahren zulässig. Während der Dispensation ist die beurteilte Person aus medizinischen Gründen vom Militärdienst und von den ausserdienstlichen Pflichten befreit, mit Ausnahme der Meldepflicht und der Pflicht zur Aufbewahrung und zum Unterhalt der persönlichen Ausrüstung. Nach Ablauf der Frist ist sie wieder militärdiensttauglich.
-- 3\.4 *«Dispensiert bis ... mit Neubeurteilung»:*
+- 3\.4 *«Dispensiert bis … mit Neubeurteilung»:*
 - Wie «dispensiert»: Die beurteilte Person wird vor Ablauf der Frist nochmals aufgeboten und von der UC beurteilt.
 
 ### 4. Entscheid der Spezial UC
 
-- *«Militärdiensttauglich nur für besondere Funktionen, mit Auflagen, schies**s**untauglich»:*
-- Die beurteilte Person müsste grundsätzlich aus medizinischen Gründen militär- und schutzdienstuntauglich erklärt werden. Falls sie ersatzpflichtig ist und ihren Dienstwillen ausdrücklich schriftlich bekundet hat, kann sie von einer speziell gebildeten UC als Betriebssoldat in eine Formation Ausbildung und Support Betriebssoldat (Betriebsdetachement [Betr Det]) eingeteilt werden. Die Anforderungen des Dienstes müssen auf die zivile Tätigkeit sowie die körperlichen und geistigen Fähigkeiten der betroffenen Person abgestimmt werden. Der vorsitzende Arzt oder die vorsitzende Ärztin der UC kann verbindliche Auflagen für die Dienstausübung machen. Als Auflagen immer zu prüfen sind folgende Punkte: Sportaktivitäten und die Notwendigkeit zu Hause zu übernachten. Die betroffene Person erhält keine persönliche Waffe bzw. muss diese abgeben.
+- *«Militärdiensttauglich nur für besondere Funktionen, mit Auflagen, schiessuntauglich»:*
+
+Die beurteilte Person müsste grundsätzlich aus medizinischen Gründen militär- und schutzdienstuntauglich erklärt werden. Falls sie ersatzpflichtig ist oder sich der Armee freiwillig als zugeteilte oder zugewiesene Person zur Verfügung stellen will und ihren Dienstwillen ausdrücklich schriftlich bekundet hat, kann sie von einer speziell gebildeten UC als Betriebssoldat oder Betriebssoldatin in eine Formation Ausbildung und Support Betriebssoldat und Betriebssoldatin (Betriebsdetachement) eingeteilt werden. Die Anforderungen des Dienstes müssen auf die zivile Tätigkeit sowie die körperlichen und geistigen Fähigkeiten der betroffenen Person abgestimmt werden. Der vorsitzende Arzt oder die vorsitzende Ärztin der UC kann verbindliche Auflagen für die Dienstausübung machen. Als Auflagen immer zu prüfen sind folgende Punkte: Sportaktivitäten und die Notwendigkeit zu Hause zu übernachten. Die betroffene Person erhält keine persönliche Waffe bzw. muss diese abgeben.
 
 ### 5. Kombinationsentscheide
 
 - 5\.1 *Stellungspflichtige und Angehörige der Armee*
-- Die Entscheide *«militärdiensttauglich, schiessuntauglich»*, *«militärdiens**t**tauglich, kein Führen von militärischen Motorfahrzeugen»*, *«militärdiens**t**tauglich mit Einschränkungen»*, *«militärdiensttauglich, nur für rückwärtigen Dienst»* können miteinander kombiniert werden.
+- Die Entscheide *«militärdiensttauglich, schiessuntauglich»*, *«militärdiensttauglich, kein Führen von militärischen Motorfahrzeugen»*, *«militärdiensttauglich mit Einschränkungen»*, *«militärdiensttauglich, nur für rückwärtigen Dienst»* können miteinander kombiniert werden.
 - 5\.2 *Zusätzliche Möglichkeit für Angehörige der Armee*
-- Der Entscheid *«militärdiensttauglich, für Beförderungsdienst untauglich»* kann mit den Entscheiden *«militärdiensttauglich, schiessuntauglich»*, *«mil**i**tärdiensttauglich, kein Führen von militärischen Motorfahrzeugen»*, *«mil**i**tärdiensttauglich mit Einschränkungen», «militärdiensttauglich, nur für rückwärtigen Dienst»* kombiniert werden.
-- Der Entscheid *«militärdiensttauglich, nur für Ausbildung und Support»* kann mit den Entscheiden *«militärdiensttauglich, schiessuntauglich», «militä**r**diensttauglich, kein Führen von militärischen Motorfahrzeugen»,* kombiniert werden.
+- Der Entscheid *«militärdiensttauglich, für Beförderungsdienst untauglich»* kann mit den Entscheiden *«militärdiensttauglich, schiessuntauglich»*, *«militärdiensttauglich, kein Führen von militärischen Motorfahrzeugen»*, *«militärdiensttauglich mit Einschränkungen», «militärdiensttauglich, nur für rückwärtigen Dienst»* kombiniert werden.
+- Der Entscheid *«militärdiensttauglich, nur für Ausbildung und Support»* kann mit den Entscheiden *«militärdiensttauglich, schiessuntauglich», «militärdiensttauglich, kein Führen von militärischen Motorfahrzeugen»,* kombiniert werden.
 - 5\.3 *Entscheid der Spez UC*
-- Der Entscheid *«militärdiensttauglich nur für besondere Funktionen, mit Auf**lagen, schiessuntauglich»* kann mit dem Entscheid *«militärdiensttau**g**lich, kein Führen von militärischen Motorfahrzeugen»* kombiniert werden.
+- Der Entscheid *«militärdiensttauglich nur für besondere Funktionen, mit Auf**lagen, schiessuntauglich»* kann mit dem Entscheid *«militärdiensttauglich, kein Führen von militärischen Motorfahrzeugen»* kombiniert werden.
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 [^t-3]: Aufgehoben durch Anhang 36 Ziff. 4 der V vom 16. Dez. 2009 über die militärischen Informationssysteme, mit Wirkung seit 1. Jan. 2010 ([AS 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
 
@@ -293,6 +294,6 @@ Anhang 3
 
 ## Änderung bisherigen Rechts
 
-...[^annex3-lvlu1-1]
+…[^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Die Änderung kann unter [AS 2004 4955](https://fedlex.data.admin.ch/eli/oc/2004/748)konsultiert werden.

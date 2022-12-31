@@ -4,20 +4,20 @@ title: "Ordinanza del 24 novembre 2004 concernente l'apprezzamento medico dell'i
 short: OAMM
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2004-11-24
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2004-748-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’apprezzamento medico dell’idoneità al servizio militare e dell’idoneità a prestare servizio militare
 
-(OAMM)**[^t-1]**
+(OAMM)[^t-1]
 
-del 24 novembre 2004 (Stato 1° gennaio 2021)
+del 24 novembre 2004 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
@@ -141,7 +141,7 @@ Se non sono in grado di prendere una decisione definitiva fondandosi sull’esit
 [^9-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Correzione del 16 gen. 2018 ([RU 2018 85](https://fedlex.data.admin.ch/eli/oc/2018/27)).
 [^9-2]: Nuovo testo giusta il n. I dell’O del 14 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
-## Sezione 4: Protezione della personalità****
+## Sezione 4: Protezione della personalità
 
 [^sec4-1]
 
@@ -214,7 +214,7 @@ La procedura di ricorso è gratuita.
 <sup>2</sup> L’ordinanza del 10 aprile 2002[^17-2] sul reclutamento è modificata secondo la versione dell’allegato 3.
 
 [^17-1]: [[RU 1998 2656](https://fedlex.data.admin.ch/eli/oc/1998/2656_2656_2656), [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n.3]
-[^17-2]: [[RU 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141), [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 n. 1 [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24, [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7 [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)all. 3 [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44, [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)n. III 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 35, [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)n. I II, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 3, [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3), [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 2. RU **2018** 7405 all. 7 n. I 1]
+[^17-2]: [[RU 2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141); [2003 4599](https://fedlex.data.admin.ch/eli/oc/2003/678)art. 9 n. 1, [5179](https://fedlex.data.admin.ch/eli/oc/2003/762)art. 24; [2004 4357](https://fedlex.data.admin.ch/eli/oc/2004/659)art. 7, [4955](https://fedlex.data.admin.ch/eli/oc/2004/748)all. 3, [5299](https://fedlex.data.admin.ch/eli/oc/2004/817)art. 44; [2005 5099](https://fedlex.data.admin.ch/eli/oc/2005/709)n. III 2; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 35; [2007 389](https://fedlex.data.admin.ch/eli/oc/2007/76)n. I II; [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 3; [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[5](https://fedlex.data.admin.ch/eli/oc/2011/3); [2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)n. I 2. RU **2018** 7405 all. 7 n. I 1]
 
 #### Art. 18
 
@@ -222,13 +222,13 @@ La procedura di ricorso è gratuita.
 
 La presente ordinanza entra in vigore il 1° gennaio 2005.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 9 cpv. 1)
 
 ## Decisioni delle CVS in merito all’idoneità al servizio militare
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). La correzione del 9 ott. 2018 concerne soltanto il testo francese ([RU 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)).
+[^t-2]: Nuovo testo giusta il n. II dell’O del 22 nov. 2017 ([RU 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Aggiornato dalla correzione del 9 ott. 2018, concerne soltanto il testo francese ([RU 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)) e dall’all. 7 n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 Le decisioni delle CVS in merito all’idoneità al servizio militare hanno il tenore e il significato seguenti:
 
@@ -271,7 +271,7 @@ Le decisioni delle CVS in merito all’idoneità al servizio militare hanno il t
 ### 4. Decisione della CVS speciale
 
 - *«Abile al servizio militare unicamente per funzioni particolari, con oneri, inabile al tiro»:*
-- per motivi medici la persona esaminata dovrebbe essere di principio dichiarata inabile al servizio militare e al servizio di protezione civile. Se è tenuta a pagare la tassa d’esenzione dall’obbligo militare e comunica esplicitamente per scritto la sua disponibilità a prestare servizio, può essere incorporata, da una CVS appositamente istituita, come soldato d’esercizio in una formazione Istruzione e supporto soldato d’esercizio (distaccamento d’esercizio [Dist eser]). Le esigenze del servizio devono essere adeguate all’attività civile e alle attitudini fisiche e intellettuali della persona interessata. Il medico che presiede la CVS può stabilire oneri vincolanti per lo svolgimento del servizio. Relativamente agli oneri, occorre sempre verificare i punti seguenti: attività sportive e necessità di pernottare al domicilio. La persona interessata non riceve un’arma personale oppure deve riconsegnarla.
+- per motivi medici la persona esaminata dovrebbe essere di principio dichiarata inabile al servizio militare e al servizio di protezione civile. Se è tenuta a pagare la tassa d’esenzione dall’obbligo militare oppure vuole mettersi volontariamente a disposizione dell’esercito come persona attribuita o assegnata e ha comunicato esplicitamente per scritto la sua disponibilità a prestare servizio, può essere incorporata, da una CVS appositamente istituita, come soldato d’esercizio in una formazione Istruzione e supporto soldato d’esercizio (distaccamento d’esercizio). Le esigenze del servizio devono essere adeguate all’attività civile come pure alle attitudini fisiche e intellettuali della persona interessata. Il medico che presiede la CVS può stabilire oneri vincolanti per lo svolgimento del servizio. Relativamente agli oneri, occorre sempre verificare i punti seguenti: attività sportive e necessità di pernottare al domicilio. La persona interessata non riceve un’arma personale oppure deve riconsegnarla.
 
 ### 5. Decisioni combinate
 
@@ -283,7 +283,7 @@ Le decisioni delle CVS in merito all’idoneità al servizio militare hanno il t
 - 5\.3 *Decisione della CVS speciale*
 - La decisione *«abile al servizio militare unicamente per funzioni particolari, con oneri, inabile al tiro»* può essere combinata con la decisione *«abile al servizio militare, non può condurre veicoli a motore militari».*
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 [^t-3]: Abrogato dal n. 4 dell’all. 36 dell’O del 16 dic. 2009 sui sistemi d’informazione militari, con effetto dal 1° gen. 2010 ([RU 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
 

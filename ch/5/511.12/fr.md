@@ -4,20 +4,20 @@ title: "Ordonnance du 24 novembre 2004 concernant l'appréciation médicale de l
 short: OAMAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/748"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2004-11-24
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-748-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/748/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-748-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/748/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’appréciation médicale de l’aptitude au service militaire et de l’aptitude à faire du service militaire
 
-(OAMAS)**[^t-1]**
+(OAMAS)[^t-1]
 
-du 24 novembre 2004 (Etat le 1<sup>er</sup> janvier 2021)
+du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
@@ -145,7 +145,7 @@ Les CVS peuvent ordonner des investigations complémentaires si elles ne sont pa
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Erratum du 16 janv. 2018 ([RO 2018 85](https://fedlex.data.admin.ch/eli/oc/2018/27)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)).
 
-## Section 4 Protection de la personnalité****
+## Section 4 Protection de la personnalité
 
 [^sec4-1]
 
@@ -226,13 +226,13 @@ La procédure de recours est gratuite.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2005.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 (art. 9, al. 1)
 
 ## Décisions des CVS concernant l’aptitude au service militaire
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Erratum du 9 oct. 2018 ([RO 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du 22 nov. 2017 ([RO 2017 7397](https://fedlex.data.admin.ch/eli/oc/2017/808)). Erratum du 9 oct. 2018 ([RO 2018 3341](https://fedlex.data.admin.ch/eli/oc/2018/540)). Mise à jour par l’annexe 7 ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 Les décisions des CVS concernant l’aptitude au service militaire ont la teneur et les effets suivants:
 
@@ -274,8 +274,8 @@ Les décisions des CVS concernant l’aptitude au service militaire ont la teneu
 
 ### 4. Décision de la CVS spéciale
 
-- *«Apte au service militaire uniquement dans des fonctions particulières, sous réserve, inapte au tir»*
-- En principe, la personne examinée devrait être déclarée inapte au service militaire et au service de protection civile pour des raisons médicales. Si elle est assujettie à la taxe d’exemption et qu’elle a exprimé par écrit sa volonté d’effectuer du service, elle peut être incorporée comme soldat d’exploitation dans une formation de l’instruction et du support (détachement d’exploitation [dét exploit]) par une CVS constituée spécialement à cet effet. Les exigences du service doivent correspondre à l’activité civile ainsi qu’aux aptitudes physiques et intellectuelles de la personne concernée. Le médecin qui préside la CVS peut émettre des réserves contraignantes en vue de l’accomplissement du service. Il convient de vérifier systématiquement les points suivants en tant que contraintes: activités sportives et nécessité de loger chez soi. La personne concernée ne reçoit pas d’arme personnelle ou doit la restituer.
+- *«Apte au service militaire uniquement dans des fonctions particulières, sous réserve, inapte au tir»:*
+- En principe, la personne examinée devrait être déclarée inapte au service militaire et au service de protection civile pour des raisons médicales. Si elle est assujettie à la taxe d’exemption ou qu’elle veut se mettre volontairement à la disposition de l’armée en tant que personne attribuée ou affectée et qu’elle a exprimé par écrit sa volonté d’effectuer du service, elle peut être incorporée comme soldat d’exploitation dans une formation de l’instruction et du support (détachement d’exploitation) par une CVS constituée spécialement à cet effet. Les exigences du service doivent correspondre à l’activité civile ainsi qu’aux capacités physiques et intellectuelles de la personne concernée. Le médecin qui préside la CVS peut émettre des réserves contraignantes en vue de l’accomplissement du service. Il y a lieu d’examiner systématiquement les contraintes ci-après: activités sportives et nécessité de loger chez soi. La personne concernée ne reçoit pas d’arme personnelle ou doit la restituer.
 
 ### 5. Décisions combinées
 
@@ -287,7 +287,7 @@ Les décisions des CVS concernant l’aptitude au service militaire ont la teneu
 - 5\.3 *Décision de la CVS spéciale*
 - La décision *«apte au service militaire uniquement dans des fonctions particulières, sous réserve, inapte au tir»* peut être combinée avec la décision *«apte au service militaire, inapte à la fonction militaire de chauffeur».*
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 [^t-3]: Abrogée par l’annexe 36 ch. 4 de l’O du 16 déc. 2009 sur les systèmes d’information de l’armée, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)).
 
