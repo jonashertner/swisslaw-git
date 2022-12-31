@@ -1,423 +1,532 @@
 ---
 canton: BE
 number: "622.1"
-title: Gesetz über die Finanzkontrolle
-short: "Kantonales Finanzkontrollgesetz, KFKG"
+title: Kantonales Finanzkontrollgesetz
+short: KFKG
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-08
+version: 2023-01-01
+valid_until: 2025-03-29
+version_adopted: 2022-03-07
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2463/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Finanzkontrolle
+# Kantonales Finanzkontrollgesetz
 
-(Kantonales Finanzkontrollgesetz, KFKG)
+(KFKG)
 
-vom 01.12.1999 (Stand 01.02.2022)
+vom 07.03.2022 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
+
+gestützt auf Artikel 106 der Kantonsverfassung (KV)[^ingress-1],
 
 auf Antrag des Regierungsrates,
 
 beschliesst:
 
-## 1 Grundsätzliches
+[^ingress-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
+
+## 1 Allgemeines
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt die Finanzaufsicht durch die Finanzkontrolle, insbesondere deren Organisation, Aufgaben und Kompetenzen.
+<sup>1</sup> Dieses Gesetz regelt die Stellung, Organisation, Aufgaben und Kompetenzen der Finanzkontrolle.
 
 #### Art. 2
 
-**Zweck**
+**Stellung**
 
-<sup>1</sup> Die Finanzkontrolle gewährleistet die unabhängige Prüfung der Haushalts- und Rechnungsführung der Behörden, der Verwaltung und der Anstalten des Kantons.
+<sup>1</sup> Die Finanzkontrolle ist das oberste Finanzaufsichtsorgan des Kantons und bildet eine selbstständige Organisationseinheit.
 
-#### Art. 3
+<sup>2</sup> Sie ist fachlich unabhängig, nicht weisungsgebunden und nur der Verfassung und dem Gesetz verpflichtet.
 
-**Finanzaufsicht**
-
-<sup>1</sup> Die Finanzkontrolle übt ihre Tätigkeit nach den Bestimmungen dieses Gesetzes und nach anerkannten Revisionsgrundsätzen aus.
-
-<sup>2</sup> Die Finanzkontrolle prüft die Ordnungsmässigkeit der Rechnungsführung und der Rechnungslegung, die Rechtmässigkeit, die Sparsamkeit und Wirtschaftlichkeit, die Zweckmässigkeit sowie die Wirksamkeit der Haushaltsführung.
-
-<sup>3</sup> Sie darf nicht mit Vollzugsaufgaben beauftragt werden.
+<sup>3</sup> Sie unterstützt gleichermassen den Grossen Rat, den Regierungsrat und die Justizverwaltungsleitung.
 
 ## 2 Organisation
 
-#### Art. 4
-
-**Stellung der Finanzkontrolle**
-
-<sup>1</sup> Die Finanzkontrolle ist das oberste Fachorgan der Finanzaufsicht. Sie unterstützt gleichermassen den Grossen Rat und den Regierungsrat.
-
-<sup>2</sup> Sie ist fachlich unabhängig und in ihrer Tätigkeit nur der Verfassung und dem Gesetz verpflichtet.
-
-<sup>3</sup> Sie bildet eine selbstständige Organisationseinheit innerhalb der Verwaltung.
-
-#### Art. 5
+#### Art. 3
 
 **Leitung**
 
-<sup>1</sup> Der Regierungsrat ernennt nach Anhören der Finanzkommission des Grossen Rates eine Person mit Revisionsfachkenntnissen als Vorsteherin oder Vorsteher der Finanzkontrolle auf eine Amtsdauer von vier Jahren. Die Ernennung bedarf der Bestätigung durch den Grossen Rat.
+<sup>1</sup> Der Grosse Rat wählt auf Vorschlag des Finanzkontrollgremiums (Art. 34 bis 37) die Vorsteherin oder den Vorsteher der Finanzkontrolle für eine Amtsdauer von vier Jahren.
 
-<sup>2</sup> Die Bestimmungen des Personalgesetzes vom 16. September 2004 (PG[^5-1]) über das Arbeitsverhältnis der hauptamtlichen Behördenmitglieder (Art. 37 ff.) finden sinngemäss Anwendung.
+<sup>2</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle ist eine im Bereich Wirtschaftsprüfung ausgewiesene Fachperson mit guten Kenntnissen beider Amtssprachen.
 
-[^5-1]: BSG 153.01
+<sup>3</sup> Sie oder er hat die personalrechtliche Stellung einer Direktionsvorsteherin oder eines Direktionsvorstehers. Im Übrigen finden die Bestimmungen des Personalgesetzes vom 16. September 2004 (PG)[^3-1] über das Arbeitsverhältnis der hauptamtlichen Behördenmitglieder sinngemäss Anwendung.
 
-#### Art. 6
+[^3-1]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
+
+#### Art. 4
+
+**Aufsicht über die Leitung**
+
+<sup>1</sup> Aufsichtsbehörde für die Vorsteherin oder den Vorsteher der Finanzkontrolle ist die Finanzkommission.
+
+<sup>2</sup> Die Finanzkommission nimmt vor der Anordnung von aufsichtsrechtlichen Massnahmen Rücksprache mit dem Finanzkontrollgremium.
+
+#### Art. 5
 
 **Personal**
 
-<sup>1</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle stellt das Personal der Finanzkontrolle nach den Bestimmungen der kantonalen Personalgesetzgebung an.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle stellt das Personal der Finanzkontrolle nach den Bestimmungen der Personalgesetzgebung an.
 
-<sup>2</sup> Ernennungen und Beförderungen sind im Rahmen des vom Grossen Rat genehmigten Voranschlags möglich.
+<sup>2</sup> Anstellungen und Beförderungen sind im Rahmen des vom Grossen Rat genehmigten Budgets möglich.
 
-<sup>3</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle hat die personalrechtliche Stellung einer Direktionsvorsteherin oder eines Direktionsvorstehers.
+#### Art. 6
+
+**Beizug von Sachverständigen**
+
+<sup>1</sup> Die Finanzkontrolle kann Sachverständige beiziehen, sofern die Erfüllung ihrer Aufgaben besondere Fachkenntnisse erfordert oder mit dem verfügbaren Personalbestand nicht gewährleistet werden kann.
 
 #### Art. 7
 
-**Revisionsstelle**
+**Budget, Aufgaben- und Finanzplan**
 
-<sup>1</sup> Im Einvernehmen mit dem Regierungsrat bestimmt die Finanzkommission eine externe Revisionsstelle und erteilt ihr das Mandat. Kommt keine Einigung zu Stande, entscheidet der Grosse Rat.
+<sup>1</sup> Die Finanzkontrolle erstellt ihr jährliches Budget sowie ihren Aufgaben- und Finanzplan.
 
-<sup>2</sup> Die Revisionsstelle prüft die Besondere Rechnung der Finanzkontrolle und führt eine regelmässige Qualitäts- und Leistungsbeurteilung durch.
-
-<sup>3</sup> Die Revisionsstelle informiert die Finanzkommission und den Regierungsrat über die Ergebnisse.
-
-## 3 Planung und Finanzierung
+<sup>2</sup> Der Regierungsrat übernimmt diese unverändert in das Budget sowie in den Aufgaben- und Finanzplan des Kantons.
 
 #### Art. 8
 
 **Haushaltsführung**
 
-<sup>1</sup> Für die Haushaltsführung der Finanzkontrolle gilt die Gesetzgebung über die Steuerung von Finanzen und Leistungen, soweit dieses Gesetz keine besonderen Vorschriften enthält.
+<sup>1</sup> Für die Haushaltsführung der Finanzkontrolle gilt die Finanzhaushaltsgesetzgebung, soweit dieses Gesetz keine besonderen Vorschriften enthält.
 
-<sup>2</sup> Die Finanzkontrolle bewilligt die laufenden Betriebsausgaben im Rahmen des Voranschlags und der Leistungsvereinbarung abschliessend. Für Investitionen gelten die ordentlichen Ausgabenbefugnisse.
+<sup>2</sup> Die Finanzkontrolle
 
-<sup>3</sup> Sie führt eine Besondere Rechnung.
+- a bewilligt die laufenden Ausgaben im Rahmen des Budgets abschliessend, wobei für Investitionen die ordentlichen Ausgabenbefugnisse gelten,
+- b führt eine Besondere Rechnung.
+
+<sup>3</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle kann mit Zustimmung der Finanzkommission
+
+- a nachkreditspflichtige Abweichungen der im Budget beschlossenen Saldi bewilligen, wenn diese eine Million Franken pro Produktgruppe nicht übersteigen,
+- b Verpflichtungen bereits vor der Bewilligung eines Nachkredits eingehen, wenn ein Aufschub erhebliche nachteilige Folgen für den Kanton hätte.
 
 #### Art. 9
 
-**Voranschlag, Aufgaben- und Finanzplan**
+**Revisionsstelle**
 
-<sup>1</sup> Die Finanzkontrolle erstellt den jährlichen Voranschlag und den Aufgaben- und Finanzplan. Der Regierungsrat übernimmt diese unverändert in den Voranschlag und den Aufgaben- und Finanzplan des Kantons.
+<sup>1</sup> Die Finanzkommission bestimmt eine externe Revisionsstelle, welche die Besondere Rechnung der Finanzkontrolle prüft.
+
+<sup>2</sup> Die Revisionsstelle erstattet der Finanzkommission und dem Regierungsrat Bericht über die Ergebnisse.
+
+## 3 Aufgaben
 
 #### Art. 10
 
-**Leistungsvereinbarung**
+**Aufsichtsbereich**
 
-<sup>1</sup> In einer Leistungsvereinbarung werden die Produktgruppe «Finanzaufsicht», bestehend aus den Produkten «Kernaufgaben», «Spezialprüfungen», «Sonderprüfungen» und «Beratung», sowie die Leistungsstandards, die Leistungsindikatoren und die für die Erfüllung der Leistungsvereinbarung nötigen finanziellen Mittel festgelegt.
-
-<sup>2</sup> Die finanziellen Mittel werden so festgelegt, dass die Kernaufgaben und die Spezialprüfungen vorweg sichergestellt sind und dass die in Artikel 16a Absatz 2 genannten Behörden und Organisationseinheiten bei der Finanzkontrolle Sonderprüfungen in Auftrag geben und Beratungsdienstleistungen beanspruchen können.
-
-<sup>3</sup> Der Grosse Rat beschliesst die Leistungsvereinbarung auf Antrag des Regierungsrates und der Finanzkommission.
-
-#### Art. 11
-
-**Honorare**
-
-<sup>1</sup> Die Finanzkontrolle stellt für die Prüfung als Revisionsstelle bei Organisationen gemäss Artikel 16 Buchstabe b und für die Prüfung kantonaler Anstalten gemäss Artikel 15 Absatz 1 Buchstabe e Honorare nach marktüblichen Ansätzen in Rechnung.
-
-<sup>2</sup> Der Regierungsrat kann die Finanzkontrolle davon entbinden, kantonalen Anstalten gemäss Artikel 15 Absatz 1 Buchstabe e Honorare in Rechnung zu stellen.
-
-## 4 Zusammenarbeit
-
-#### Art. 12
-
-**Beizug von Sachverständigen und Wirtschaftsprüfungsgesellschaften**
-
-<sup>1</sup> Die Finanzkontrolle kann Sachverständige oder Wirtschaftsprüfungsgesellschaften beiziehen, sofern die Durchführung ihrer Aufgaben besondere Fachkenntnisse erfordert oder mit ihrem ordentlichen Personalbestand nicht gewährleistet werden kann.
-
-#### Art. 13
-
-**Zusammenarbeit mit Dritten**
-
-<sup>1</sup> Der Kanton kann zur gemeinsamen Lösung von Aufgaben der Finanzkontrolle mit privaten oder öffentlichen Institutionen zusammenarbeiten und interkantonalen Vereinbarungen beitreten.
-
-<sup>2</sup> Der Grosse Rat ist zum Abschluss von Vereinbarungen in diesem Bereich abschliessend zuständig.
-
-## 5 Aufgaben
-
-#### Art. 14
-
-**Kontrollbereich**
-
-<sup>1</sup> Der Aufsicht der Finanzkontrolle unterliegen
+<sup>1</sup> Dem Aufsichtsbereich der Finanzkontrolle unterliegen
 
 - a die kantonale Verwaltung,
 - b die Gerichtsbehörden und die Staatsanwaltschaft,
-- c die kantonalen Anstalten, sofern die besondere Gesetzgebung keine andere Bestimmung enthält,
-- d Organisationen und Personen ausserhalb der kantonalen Verwaltung, denen der Kanton öffentliche Aufgaben übertragen hat,
-- e Organisationen und Personen, die kantonale Leistungen empfangen.
+- c die kantonalen Anstalten,
+- d Organisationen und Personen, die Staatsbeiträge oder andere kantonale Leistungen im Rahmen eines öffentlich-rechtlichen Verhältnisses empfangen, nach Massgabe von Artikel 14 Absatz 2,
+- e Organisationen und Personen, denen der Kanton öffentliche Aufgaben übertragen hat, nach Massgabe von Artikel 14 Absatz 3,
+- f Organisationen des öffentlichen Rechts und des Privatrechts, an denen der Kanton beteiligt ist, nach Massgabe von Artikel 14 Absatz 3.
+
+#### Art. 11
+
+**Aufgaben**
+
+<sup>1</sup> Die Finanzkontrolle nimmt hauptsächlich die Aufgaben der Abschlussprüfung (Art. 13), der Finanzaufsicht (Art. 14) und der Meldestelle Missstände (Art. 40 bis 43) wahr.
+
+<sup>2</sup> Sie darf nicht mit Vollzugsaufgaben beauftragt werden.
+
+#### Art. 12
+
+**Grundsätze der Aufgabenerfüllung**
+
+<sup>1</sup> Die Finanzkontrolle
+
+- a übt ihre Tätigkeit risikoorientiert nach den Bestimmungen dieses Gesetzes und nach den allgemein anerkannten berufsständischen Grundsätzen der Wirtschaftsprüfung aus,
+- b koordiniert ihre Tätigkeit mit den für die Aufsicht verantwortlichen Stellen,
+- c wahrt bei ihren Prüfungstätigkeiten den Grundsatz der Verhältnismässigkeit.
+
+#### Art. 13
+
+**Abschlussprüfungen**
+
+<sup>1</sup> Die Finanzkontrolle prüft die vom Regierungsrat vorgelegte Jahresrechnung.
+
+<sup>2</sup> Sie prüft die Jahresrechnungen von kantonalen Anstalten, soweit die Spezialgesetzgebung nichts anderes vorsieht.
+
+<sup>3</sup> Sie kann als Revisionsstelle Mandate für weitere Abschlussprüfungen annehmen, soweit dafür ein besonderes öffentliches Interesse besteht. In diesem Fall stellt sie Honorare nach branchenüblichen Ansätzen in Rechnung.
+
+#### Art. 14
+
+**Finanzaufsicht**
+
+<sup>1</sup> Die Finanzaufsicht der Finanzkontrolle umfasst die Prüfung der Ordnungs- und Rechtmässigkeit sowie der Wirtschaftlichkeit des Haushaltsvollzugs.
+
+<sup>2</sup> Sie umfasst bei Organisationen und Personen gemäss Artikel 10 Absatz 1 Buchstabe d die Prüfung der Ordnungs- und Rechtmässigkeit sowie der Zweckmässigkeit der Mittelverwendung.
+
+<sup>3</sup> Sie beschränkt sich bei Organisationen und Personen gemäss Artikel 10 Absatz 1 Buchstaben e und f auf die Überprüfung der Wahrnehmung der Aufsichts- und Controllingaufgaben durch die zuständigen kantonalen Stellen.
 
 #### Art. 15
 
-**Kernaufgaben**
+**Sonderprüfungen**
 
-<sup>1</sup> Die Kernaufgaben der Finanzkontrolle sind die
+<sup>1</sup> Die folgenden Behörden können die Finanzkontrolle zur Unterstützung ihrer Oberaufsicht oder Aufsicht mit Sonderprüfungen beauftragen:
 
-- a Prüfung der Jahresrechnung,
-- b Prüfung der Rechnungsführung und Rechnungslegung sowie der Haushaltsführung der Organisationseinheiten (Dienststellenrevision),
-- c Prüfung von Planungs- und Bauleistungen im Zusammenhang mit der kantonalen Bautätigkeit (Baurevision),
-- d Prüfung der finanzrelevanten Informatiksysteme,
-- e Prüfung der Jahresrechnung kantonaler Anstalten,
-- f Prüfungen im Auftrag des Bundes,
-- g laufende Information und fachtechnische Beratung des Regierungsrates und der Finanzkommission.
+- a die parlamentarischen Untersuchungskommissionen,
+- b die Aufsichtskommissionen des Grossen Rates,
+- c der Regierungsrat,
+- d die Direktionen und die Staatskanzlei,
+- e die Justizverwaltungsleitung, die obersten kantonalen Gerichte und die Generalstaatsanwaltschaft.
 
-<sup>2</sup> Die Finanzkontrolle kann Aufträge für Sonderprüfungen (Art. 16a Abs. 2) und für Beratungen (Art. 17) ablehnen, wenn diese die Erfüllung der Kernaufgaben gefährden.
+<sup>2</sup> Die Finanzkontrolle kann Sonderprüfungen ablehnen, wenn diese die Wahrnehmung ihrer gesetzlichen Aufgaben gefährden.
 
 #### Art. 16
 
-**Spezialprüfungen**
+**Prüfungsplan**
 
-<sup>1</sup> Die Finanzkontrolle nimmt folgende Spezialprüfungen vor:
+<sup>1</sup> Die Finanzkontrolle legt jährlich auf der Basis von Prüfungsschwerpunkten einen Prüfungsplan fest.
 
-- a Prüfung der Verwendung von Staatsbeiträgen,
-- b Prüfungen als Revisionsstelle bei Organisationen, soweit ein überwiegendes öffentliches Interesse besteht.
+<sup>2</sup> Sie koordiniert ihre Prüfungen mit den entsprechenden Aktivitäten der Aufsichtskommissionen des Grossen Rates sowie der kantonalen Datenschutzaufsichtsstelle.
 
-#### Art. 16a
-
-**Sonderprüfungen**
-
-<sup>1</sup> Sonderprüfungen erfolgen durch die Finanzkontrolle oder Dritte.
-
-<sup>2</sup> Sie erfolgen
-
-- a auf Anordnung der Finanzkommission, der Geschäftsprüfungskommission, der Justizkommission, des Regierungsrates oder der Justizleitung,
-- b auf Antrag einer Direktion, der Staatskanzlei, der obersten Gerichte oder der Generalstaatsanwaltschaft.
-
-<sup>3</sup> Sonderprüfungsaufträge an Dritte erteilt die Finanzkommission, die Geschäftsprüfungskommission, die Justizkommission, der Regierungsrat oder die Justizleitung. Dritte sind vertraglich auf Verfassung und Gesetz zu verpflichten, insbesondere auf die Geheimhaltung der gewonnenen Informationen und Erkenntnisse.
+<sup>3</sup> Sie bringt den Prüfungsplan den Aufsichtskommissionen des Grossen Rates, dem Regierungsrat sowie der Justizverwaltungsleitung zur Kenntnis.
 
 #### Art. 17
 
-**Beratung**
+**Fachtechnische Unterstützung**
 
-<sup>1</sup> Die Finanzkommission, die Geschäftsprüfungskommission, die Justizkommission, der Regierungsrat, die Justizleitung, die Direktionen, die Staatskanzlei, die obersten Gerichte und die Generalstaatsanwaltschaft können sich in Fachfragen von der Finanzkontrolle beraten lassen.
+<sup>1</sup> Die Behörden gemäss Artikel 15 Absatz 1 können die Finanzkontrolle bei Bedarf mit einer fachlichen Stellungnahme beauftragen.
 
-#### Art. 17a
+<sup>2</sup> Die Finanzkontrolle kann die fachtechnische Unterstützung ablehnen, wenn diese ihre Unabhängigkeit beeinträchtigt.
 
-**Meldestelle Missstände**
+## 4 Ergebnisse der Prüfungstätigkeiten und Berichterstattung
 
-<sup>1</sup> Die Finanzkontrolle ist Meldestelle für Meldungen von Mitarbeiterinnen und Mitarbeitern des Kantons über Missstände wie Verstösse gegen rechtliche Bestimmungen oder andere Unregelmässigkeiten im Tätigkeitsbereich der kantonalen Verwaltung, der Gerichtsbehörden und der Staatsanwaltschaft.
-
-<sup>2</sup> Die Meldestelle
-
-- a klärt die meldende Mitarbeiterin oder den meldenden Mitarbeiter über das Verfahren sowie über deren oder dessen Rechte und Pflichten im Rahmen des Verfahrens auf,
-- b nimmt den Sachverhalt auf und prüft die Meldung auf ihre Begründetheit,
-- c informiert in sinngemässer Anwendung von Artikel 24 die zuständigen Stellen, wenn sie einen Missstand festgestellt hat,
-- d vernichtet die Akten zu einem gemeldeten Missstand spätestens ein Jahr nach Abschluss der Abklärungen, wenn sie keine Anhaltspunkte für das Vorliegen eines solchen gefunden hat.
-
-<sup>3</sup> Es besteht kein Anspruch auf Abklärung des gemeldeten Sachverhalts.
-
-<sup>4</sup> Die Meldestelle behandelt die Meldungen vertraulich. Ohne Einverständnis der meldenden Mitarbeiterin oder des meldenden Mitarbeiters gibt sie keine Informationen zu deren oder dessen Person bekannt.
-
-<sup>5</sup> Im Einvernehmen mit der Finanzkontrolle kann der Regierungsrat durch Verordnung vorsehen, dass die Finanzkontrolle Aufgaben gemäss Absatz 1 auch für die Mitarbeiterinnen und Mitarbeiter anderer Behörden wahrnimmt.
-
-## 6 Geschäftsverkehr
+### 4.1 Ergebnisse der Prüfungstätigkeiten
 
 #### Art. 18
 
-**Grundsatz**
+**Vorgängige Stellungnahme zum Entwurf des Prüfungsberichts**
 
-<sup>1</sup> Die Finanzkontrolle verkehrt direkt mit den Institutionen und Personen, die sie kontrolliert.
+<sup>1</sup> Die Finanzkontrolle gibt der geprüften Stelle Gelegenheit, sich zum Entwurf des Prüfungsberichts zu äussern.
+
+<sup>2</sup> Sie berücksichtigt die Stellungnahme der geprüften Stelle angemessen.
 
 #### Art. 19
 
-**Mitwirkungspflicht**
+**Ergebnisse der Abschlussprüfungen**
 
-<sup>1</sup> Institutionen und Personen, die von der Finanzkontrolle kontrolliert werden, haben ihr Auskunft zu erteilen, in die Akten Einsicht zu geben und überhaupt jede Unterstützung bei der Wahrnehmung der Kontrolle zu gewähren. Sie können sich nicht auf gesetzliche Geheimhaltungspflichten berufen.
+<sup>1</sup> Die Finanzkontrolle
 
-<sup>2</sup> Die Finanzkontrolle kann die für die Wahrnehmung der Finanzaufsicht erforderlichen Daten aus den entsprechenden Finanzinformationssystemen abrufen. Soweit notwendig erstreckt sich das Zugriffsrecht auch auf besonders schützenswerte Personendaten. Die Zugriffe sind zu protokollieren. Nach Abschluss des Revisionsverfahrens sind die Daten zu vernichten.
+- a teilt die Ergebnisse der Prüfung der Jahresrechnung gemäss Artikel 13 Absatz 1, unter Einschluss des Prüfungstestats, der Finanzkommission, der Geschäftsprüfungskommission, dem Regierungsrat sowie den Direktionen und der Staatskanzlei mit,
+- b erstattet der Justizkommission und der Justizverwaltungsleitung Bericht über die sie betreffenden Ergebnisse.
 
-<sup>3</sup> Soweit die Finanzkontrolle Kenntnis von Tatsachen erhält, die gesetzlichen Geheimhaltungsbestimmungen unterliegen, ist sie ihrerseits daran gebunden. Diese Geheimhaltungspflicht gilt auch für beigezogene Sachverständige oder Wirtschaftsprüfungsgesellschaften (Art. 12).[^19-1]
-
-[^19-1]: Entspricht dem bisherigen Absatz 2
-
-#### Art. 19a
-
-**Rechtliches Gehör**
-
-<sup>1</sup> Wem bei einer Prüfung ein pflichtwidriges Verhalten vorgeworfen wird, kann
-
-- a in die sie oder ihn betreffenden Akten Einsicht nehmen, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen, und
-- b sich vor Abschluss der Prüfung zu den sie oder ihn betreffenden Punkten äussern.
+<sup>2</sup> Sie teilt die Ergebnisse der Prüfung der Jahresrechnung von kantonalen Anstalten gemäss Artikel 13 Absatz 2, unter Einschluss des Prüfungstestats, der Anstalt sowie der zuständigen Direktion mit.
 
 #### Art. 20
 
-**Dokumentation**
+**Ergebnisse der Finanzaufsicht**
 
-<sup>1</sup> Die Staatskanzlei stellt der Finanzkontrolle alle Beschlüsse des Volkes, des Grossen Rates und des Regierungsrates zu, welche die Haushaltsführung betreffen.
+<sup>1</sup> Die Finanzkontrolle teilt die Ergebnisse ihrer Prüfungen im Rahmen der Finanzaufsicht gemäss Artikel 14 der geprüften Stelle sowie der zuständigen Direktion, der Staatskanzlei, dem betroffenen obersten kantonalen Gericht oder der Generalstaatsanwaltschaft mit.
 
 #### Art. 21
 
-**Geschäftsverkehr mit dem Regierungsrat und der Justizleitung**
+**Ergebnisse der Sonderprüfungen**
 
-<sup>1</sup> Die Finanzkontrolle verkehrt direkt mit dem Regierungsrat und der Justizleitung.
-
-<sup>2</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle trifft sich periodisch mit dem Regierungsrat bzw. der Justizleitung zu einer Aussprache.
+<sup>1</sup> Die Finanzkontrolle teilt die Ergebnisse von Sonderprüfungen gemäss Artikel 15 der auftraggebenden Stelle, der geprüften Stelle sowie der zuständigen Direktion, Staatskanzlei oder Justizverwaltungsleitung mit.
 
 #### Art. 22
 
-**Geschäftsverkehr mit dem Grossen Rat**
+**Stellungnahme zu den Prüfungsergebnissen und Information**
 
-<sup>1</sup> Die Finanzkontrolle verkehrt direkt mit der Finanzkommission, der Geschäftsprüfungskommission und der Justizkommission.
-
-<sup>2</sup> Sie verkehrt nach Orientierung der Finanzkommission direkt mit weiteren Organen des Grossen Rates.
-
-<sup>3</sup> Die Vorsteherin oder der Vorsteher der Finanzkontrolle trifft sich periodisch mit der Finanzkommission und der Geschäftsprüfungskommission zu einer Aussprache.
-
-#### Art. 22a
-
-**Finanzkontrollgremium**
-
-<sup>1</sup> Der Geschäftsverkehr der Finanzkontrolle in eigener Sache mit dem Regierungsrat und dem Grossen Rat erfolgt über das Finanzkontrollgremium.
-
-<sup>2</sup> Ihm gehören drei Mitglieder des Regierungsrates und drei bis fünf Mitglieder der Finanzkommission an.
-
-<sup>3</sup> Die Finanzkontrolle führt das Sekretariat. Sie koordiniert die Geschäfte und führt eine Geschäftskontrolle.
+<sup>1</sup> Die geprüfte Stelle nimmt Stellung zu den Prüfungsergebnissen der Finanzkontrolle und informiert diese über Massnahmen und Termine.
 
 #### Art. 23
 
-**Tätigkeitsbericht**
+**Verantwortlichkeiten**
 
-<sup>1</sup> Die Finanzkontrolle erstattet dem Grossen Rat und dem Regierungsrat jährlich einen Bericht über ihre Tätigkeit.
+<sup>1</sup> Die Verantwortung, ob und wie Massnahmen aufgrund von Prüfungsfeststellungen der Finanzkontrolle ergriffen werden, liegt bei der geprüften Stelle. Ist diese nicht Teil der kantonalen Verwaltung, so prüft die zuständige kantonale Stelle allfällige Massnahmen.
 
-## 7 Berichterstattung und Beanstandungen
+<sup>2</sup> Der Entscheid der geprüften Stelle, Massnahmen aufgrund von Prüfungsfeststellungen von mittlerer Wesentlichkeit nicht oder nur teilweise umzusetzen, erfordert die Genehmigung
 
-### 7.1 Berichterstattung
+- a der Direktionsvorsteherin oder des Direktionsvorstehers für die Direktionen und für die Regierungsstatthalterämter,
+- b der Staatsschreiberin oder des Staatsschreibers für die Staatskanzlei,
+- c der Präsidentin oder des Präsidenten des Obergerichts für die kantonalen Zivil- und Strafgerichte,
+- d der Präsidentin oder des Präsidenten des Verwaltungsgerichts für die verwaltungsunabhängigen Justizbehörden,
+- e der Generalstaatsanwältin oder des Generalstaatsanwalts für die Staatsanwaltschaft.
+
+<sup>3</sup> Die Finanzkontrolle qualifiziert Prüfungsfeststellungen über gravierende oder wiederholte Rechtsverletzungen sowie über Sachverhalte, die erhebliche Auswirkungen auf den Finanzhaushalt haben, als von hoher Wesentlichkeit.
+
+<sup>4</sup> Zu Prüfungsfeststellungen von hoher Wesentlichkeit nimmt der Regierungsrat oder die Justizverwaltungsleitung Stellung und beschliesst allfällige Massnahmen und Termine.
+
+### 4.2 Berichterstattung
 
 #### Art. 24
 
-<sup>1</sup> Die Finanzkontrolle teilt der geprüften Stelle und der betroffenen Direktion, der Staatskanzlei, den obersten Gerichten, der Generalstaatsanwaltschaft oder der betroffenen kantonalen Anstalt die Ergebnisse ihrer Prüfung schriftlich mit.
+**Periodische Berichterstattung**
 
-<sup>2</sup> Bei der Prüfung von Organisationen und Personen ausserhalb der kantonalen Verwaltung werden die Ergebnisse der Prüfung zusätzlich auch dem zuständigen Amt mitgeteilt.
+<sup>1</sup> Die Finanzkontrolle erstattet den folgenden Behörden periodisch Bericht über ihre Prüfungstätigkeiten sowie über Prüfungsfeststellungen von hoher Wesentlichkeit:
 
-<sup>3</sup> Die Ergebnisse der Prüfung der Jahresrechnung teilt die Finanzkontrolle der Finanzkommission, der Geschäftsprüfungskommission, dem Regierungsrat, den Direktionen und der Staatskanzlei mit. Der Justizkommission und der Justizleitung werden die sie betreffenden Ergebnisse mitgeteilt.
+- a der Finanzkommission, der Geschäftsprüfungskommission und dem Regierungsrat,
+- b der Justizkommission und der Justizverwaltungsleitung, wenn sie betroffen sind.
 
-<sup>4</sup> Die Ergebnisse der Prüfung der Jahresrechnung kantonaler Anstalten teilt die Finanzkontrolle der Anstalt, der Finanzkommission, der Geschäftsprüfungskommission , dem Regierungsrat und der zuständigen Direktion mit.
-
-<sup>5</sup> Die Ergebnisse von Spezialprüfungen gemäss Artikel 16 Buchstabe a teilt sie der geprüften Stelle und der zuständigen Direktion mit.
-
-<sup>6</sup> Die Ergebnisse von Sonderprüfungen teilt sie der auftraggebenden Stelle und der zuständigen Direktion, der Staatskanzlei oder der Justizleitung sowie der geprüften Stelle mit.
-
-<sup>7</sup> Die wesentlichen Ergebnisse der Prüfungen teilt sie im Rahmen ihrer Quartalsberichte der Finanzkommission, der Geschäftsprüfungskommission und dem Regierungsrat mit. Der Justizkommission und der Justizleitung werden die sie betreffenden wesentlichen Ergebnisse mitgeteilt.
-
-<sup>8</sup> Bestehen Hinweise auf strafbare Handlungen, meldet die Finanzkontrolle diese der zuständigen Direktion, der Staatskanzlei oder der Justizleitung. Wird die zuständige Direktion, die Staatskanzlei oder die Justizleitung nicht innert angemessener Frist tätig, kann die Finanzkontrolle direkt an die für die Strafverfolgung zuständige Gerichtsbehörde gelangen. Sie informiert darüber den Regierungsrat, die Finanzkommission und die Justizkommission, soweit diese betroffen ist.
-
-### 7.2 Verfahren bei Beanstandungen
+<sup>2</sup> Der Bericht enthält die Stellungnahmen des Regierungsrates bzw. der Justizverwaltungsleitung gemäss Artikel 23 Absatz 4.
 
 #### Art. 25
 
-**Geringfügige Beanstandungen**
+**Tätigkeitsbericht**
 
-<sup>1</sup> Mängel und Fehler von geringer Bedeutung, die nicht bereits im Rahmen der Prüfung behoben werden können, sind innert einer von der Finanzkontrolle anzusetzenden Frist zu beheben. Die geprüfte Stelle meldet den Vollzug der Finanzkontrolle schriftlich vor Ablauf dieser Frist.
+<sup>1</sup> Die Finanzkontrolle erstattet dem Grossen Rat und dem Regierungsrat jährlich einen Bericht über ihre Tätigkeiten und die durchgeführten Prüfungen.
 
 #### Art. 26
 
-**Wesentliche Beanstandungen**
+**Öffentlichkeit**
 
-<sup>1</sup> Bei Beanstandungen von wesentlicher Bedeutung weist die Finanzkontrolle die geprüfte Stelle an, innert angemessener Frist auf dem Dienstweg schriftlich Stellung zu nehmen und Auskunft über die getroffenen Massnahmen zu erteilen.
-
-#### Art. 27
-
-**Unerledigte Beanstandungen**
-
-<sup>1</sup> Werden die im Prüfungsbericht erwähnten Beanstandungen bestritten oder die festgestellten Mängel innert der angesetzten Frist nicht behoben, so entscheidet der Regierungsrat auf Antrag der Finanzkontrolle über die notwendigen Massnahmen. Der Entscheid des Regierungsrates wird der geprüften Stelle und der Finanzkontrolle mitgeteilt.
-
-<sup>2</sup> Das Verfahren vor dem Regierungsrat wird von der Direktion für Inneres und Justiz instruiert. Betrifft die Beanstandung die Direktion für Inneres und Justiz, erfolgt die Instruktion durch die Staatskanzlei. Das Verfahren richtet sich sinngemäss nach den Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^27-1]).
-
-<sup>3</sup> Ist die Finanzkontrolle mit der Erledigung durch den Regierungsrat nicht einverstanden, unterbreitet sie dessen Entscheid mit ihrer Stellungnahme und ihrem Antrag der Finanzkommission oder der Geschäftsprüfungskommission, wenn diese eine Sonderprüfung angeordnet hat.
-
-[^27-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
-
-### 7.3 Öffentlichkeit
-
-#### Art. 28
-
-**Akteneinsicht**
-
-<sup>1</sup> Die Akten und die Berichterstattung der Finanzkontrolle sowie die Akten des Verfahrens bei Beanstandungen sind nicht öffentlich.
+<sup>1</sup> Die Prüfungsberichte der Finanzkontrolle und die dazugehörenden Akten sind nicht öffentlich.
 
 <sup>2</sup> Öffentlich sind
 
-- a die Zusammenfassung über das Ergebnis der Prüfung der Jahresrechnung,
-- b …
-- c die Akten der Finanzkontrolle, die nicht die Finanzaufsicht betreffen, unter Vorbehalt von Artikel 27 ff. des Gesetzes vom 2. November 1993 über die Information der Bevölkerung[^28-1] (Informationsgesetz, IG),
-- d der jährliche Tätigkeitsbericht.
+- a das Prüfungstestat zur Jahresrechnung des Kantons,
+- b Prüfungstestate zu Jahresrechnungen kantonaler Anstalten, soweit die Spezialgesetzgebung nichts anderes vorsieht,
+- c der Tätigkeitsbericht der Finanzkontrolle.
 
-[^28-1]: BSG 107.1
-
-#### Art. 29
+#### Art. 27
 
 **Information**
 
-<sup>1</sup> In besonderen Fällen, die von grundsätzlicher Bedeutung und von erheblichem öffentlichen Interesse sind, kann die Vorsteherin oder der Vorsteher der Finanzkontrolle nach vorgängiger Konsultation der Finanzkommission und des Regierungsrates die Öffentlichkeit direkt informieren.
+<sup>1</sup> In besonderen Fällen, die von grundsätzlicher Bedeutung und von erheblichem öffentlichem Interesse sind, kann die Vorsteherin oder der Vorsteher der Finanzkontrolle nach vorgängiger Konsultation der zuständigen Aufsichtskommissionen des Grossen Rates sowie des Regierungsrates die Öffentlichkeit direkt informieren.
+
+## 5 Verfahren
+
+#### Art. 28
+
+**Mitwirkungs- und Datenlieferungspflicht**
+
+<sup>1</sup> Die geprüften Stellen haben die Finanzkontrolle bei ihrer Aufgabenerfüllung zu unterstützen und ihr die nötigen Auskünfte zu erteilen.
+
+<sup>2</sup> Sie haben ihr die für die Aufgabenerfüllung erforderlichen Informationen und Daten, einschliesslich besonders schützenswerter Personendaten, soweit diese für die Aufgabenerfüllung geeignet und zwingend erforderlich sind, zur Verfügung zu stellen oder ihr zu diesem Zweck Zugriff auf Datensammlungen zu gewähren.
+
+<sup>3</sup> Sie können sich nicht auf gesetzliche Geheimhaltungspflichten berufen.
+
+#### Art. 29
+
+**Differenzen betreffend die Mitwirkungs- und Datenlieferungspflicht**
+
+<sup>1</sup> Kommen die geprüften Stellen ihrer Mitwirkungs- und Datenlieferungspflicht nicht nach, erlässt die Finanzkontrolle nach erfolgloser Mahnung eine Verfügung. Darin kann sie die Mitwirkung und die Herausgabe von Daten anordnen.
+
+<sup>2</sup> Gegen die Verfügung kann Beschwerde beim Verwaltungsgericht geführt werden.
+
+#### Art. 30
+
+**Dokumentationspflicht sowie Dauer der Datenaufbewahrung und -speicherung**
+
+<sup>1</sup> Zugriffe auf Datensammlungen sowie die damit verfolgten Zwecke müssen dokumentiert werden.
+
+<sup>2</sup> Die Finanzkontrolle darf die ihr gemäss Artikel 28 Absatz 2 zur Kenntnis gebrachten Personendaten nur bis zum Abschluss des jeweiligen Prüfungsverfahrens aufbewahren oder speichern. Vorbehalten bleiben die gesetzlichen Aufbewahrungs- und die berufsständischen Dokumentationspflichten.
+
+#### Art. 31
+
+**Geheimhaltungspflicht**
+
+<sup>1</sup> Soweit die Finanzkontrolle Kenntnis von Tatsachen erhält, die gesetzlichen Geheimhaltungsbestimmungen unterliegen, ist sie ihrerseits daran gebunden.
+
+<sup>2</sup> Diese Geheimhaltungspflicht gilt auch für beigezogene Sachverständige gemäss Artikel 6.
+
+<sup>3</sup> Wer über die Berichterstattung der Finanzkontrolle Kenntnis von Tatsachen erhält, die gesetzlichen Geheimhaltungspflichten unterliegen, ist seinerseits zur Geheimhaltung verpflichtet.
+
+#### Art. 32
+
+**Einbezug Dritter**
+
+<sup>1</sup> Im Rahmen von Sonderprüfungen gemäss Artikel 15 gibt die auftraggebende Behörde Dritten, die nicht der geprüften Stelle angehören und denen ein pflichtwidriges Verhalten vorgeworfen wird oder die anderweitig in ihren Interessen unmittelbar und erheblich betroffen sind, die Gelegenheit, sich zu den sie betreffenden Punkten zu äussern.
+
+<sup>2</sup> Dritte gemäss Absatz 1 haben die Vertraulichkeit des Prüfungsverfahrens zu wahren.
+
+#### Art. 33
+
+**Strafbare Handlungen**
+
+<sup>1</sup> Ergibt eine Prüfung Hinweise auf strafbare Handlungen, meldet die Finanzkontrolle diese der zuständigen Direktion, der Staatskanzlei oder der Justizverwaltungsleitung.
+
+<sup>2</sup> Im Übrigen findet Artikel 48 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^33-1] Anwendung.
+
+[^33-1]: BSG [271.1](https://www.belex.sites.be.ch/data/271.1/de)
+
+## 6 Zusammenwirken mit anderen Behörden
+
+### 6.1 Finanzkontrollgremium
+
+#### Art. 34
+
+**Zusammensetzung**
+
+<sup>1</sup> Dem Finanzkontrollgremium gehören an
+
+- a die Präsidentin oder der Präsident der Finanzkommission,
+- b die Präsidentin oder der Präsident der Geschäftsprüfungskommission,
+- c die Finanzdirektorin oder der Finanzdirektor,
+- d ein weiteres Mitglied des Regierungsrates,
+- e die Vorsteherin oder der Vorsteher der Finanzkontrolle.
+
+<sup>2</sup> Die Staatsschreiberin oder der Staatsschreiber sowie die Sekretärin oder der Sekretär der Finanzkommission nehmen an den Sitzungen des Finanzkontrollgremiums teil.
+
+<sup>3</sup> Das Finanzkontrollgremium kann weitere Personen beratend beiziehen.
+
+#### Art. 35
+
+**Leitung und Stimmrecht**
+
+<sup>1</sup> Die Präsidentin oder der Präsident der Finanzkommission hat den Vorsitz und bei Stimmengleichstand den Stichentscheid.
+
+<sup>2</sup> Kein Stimmrecht haben
+
+- a die Vorsteherin oder der Vorsteher der Finanzkontrolle,
+- b die Staatsschreiberin oder der Staatsschreiber,
+- c die Sekretärin oder der Sekretär der Finanzkommission.
+
+<sup>3</sup> Die Sekretärin oder der Sekretär der Finanzkommission führt das Sekretariat.
+
+#### Art. 36
+
+**Funktion und Aufgaben**
+
+<sup>1</sup> Das Finanzkontrollgremium dient dem Zusammenwirken zwischen der Finanzkontrolle, dem Regierungsrat und dem Grossen Rat.
+
+<sup>2</sup> Ihm obliegen insbesondere
+
+- a der Vorschlag zur Wahl oder Wiederwahl der Vorsteherin oder des Vorstehers der Finanzkontrolle durch den Grossen Rat,
+- b die Erteilung von Aufträgen für die periodische Qualitätsbeurteilung,
+- c die Besprechung der Schwerpunkte der Jahresaktivitäten,
+- d die Besprechung aktueller Entwicklungen.
+
+#### Art. 37
+
+**Qualitätsbeurteilung**
+
+<sup>1</sup> Das Finanzkontrollgremium lässt mindestens alle fünf Jahre eine Qualitätsbeurteilung der Finanzkontrolle durch eine externe Stelle durchführen.
+
+<sup>2</sup> Die Qualitätsbeurteilung umfasst insbesondere
+
+- a die Einhaltung der berufsständischen Grundsätze,
+- b die Organisation und Führung der Finanzkontrolle,
+- c die Aufgabenerfüllung.
+
+<sup>3</sup> Die Stelle gemäss Absatz 1 erstattet dem Finanzkontrollgremium Bericht.
+
+### 6.2 Andere Behörden
+
+#### Art. 38
+
+**Geschäftsverkehr**
+
+<sup>1</sup> Die Finanzkontrolle verkehrt direkt mit der Finanzkommission, der Geschäftsprüfungskommission, dem Regierungsrat, der Justizverwaltungsleitung sowie bei Bedarf mit der Justizkommission.
+
+<sup>2</sup> Sie kann nach Orientierung der Finanzkommission direkt mit weiteren Organen des Grossen Rates verkehren.
+
+<sup>3</sup> Die Aufsichtskommissionen des Grossen Rates können abgeschlossene Prüfungsberichte sowie allfällige Stellungnahmen der geprüften Stelle direkt bei der Finanzkontrolle verlangen. Sie orientieren in diesen Fällen den Regierungsrat über die Einsicht in den Prüfungsbericht.
+
+<sup>4</sup> Die kantonale Datenschutzaufsichtsstelle kann direkt bei der Finanzkontrolle abgeschlossene Prüfungsberichte sowie allfällige Stellungnahmen der geprüften Stelle verlangen, soweit diese zur Erfüllung ihrer Aufgaben von Bedeutung sind. Sie orientiert in diesen Fällen die zuständige Direktion, die Staatskanzlei, das betroffene oberste kantonale Gericht oder die Generalstaatsanwaltschaft über die Einsicht in den Prüfungsbericht.
+
+#### Art. 39
+
+**Dokumentation**
+
+<sup>1</sup> Die Staatskanzlei stellt der Finanzkontrolle alle Beschlüsse des Regierungsrates zu, die Auswirkungen auf den Finanzhaushalt haben.
+
+## 7 Meldestelle Missstände
+
+#### Art. 40
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Finanzkontrolle ist Meldestelle für die Mitarbeiterinnen und Mitarbeiter des Kantons über Missstände in der kantonalen Verwaltung, bei Gerichtsbehörden und der Staatsanwaltschaft («Whistleblowingstelle»).
+
+<sup>2</sup> Im Einvernehmen mit der Finanzkontrolle kann der Regierungsrat die Finanzkontrolle durch Verordnung als Meldestelle für die Mitarbeiterinnen und Mitarbeiter von kantonalen Anstalten bezeichnen.
+
+#### Art. 41
+
+**Missstände**
+
+<sup>1</sup> Als Missstände im Tätigkeitsbereich der Behörden und der kantonalen Anstalten gemäss Artikel 40 gelten insbesondere
+
+- a Verstösse gegen rechtliche Bestimmungen,
+- b Unregelmässigkeiten.
+
+#### Art. 42
+
+**Verfahren**
+
+<sup>1</sup> Die Meldestelle
+
+- a klärt die meldende Mitarbeiterin oder den meldenden Mitarbeiter über das Verfahren sowie über deren oder dessen Rechte und Pflichten im Rahmen des Verfahrens auf,
+- b nimmt den Sachverhalt auf und prüft die Meldung auf ihre Begründetheit,
+- c informiert die zuständigen Stellen in sinngemässer Anwendung von Artikel 20, wenn sie einen Missstand festgestellt hat,
+- d vernichtet die Akten zu einem gemeldeten Missstand spätestens ein Jahr nach Abschluss der Abklärungen, wenn sie keine Anhaltspunkte für das Vorliegen eines solchen gefunden hat.
+
+#### Art. 43
+
+**Sachverhaltsabklärung und Vertraulichkeit**
+
+<sup>1</sup> Es besteht kein Anspruch auf Abklärung des gemeldeten Sachverhalts.
+
+<sup>2</sup> Die Meldestelle behandelt die Meldungen vertraulich. Ohne Einverständnis der meldenden Mitarbeiterin oder des meldenden Mitarbeiters gibt sie keine Informationen zu deren oder dessen Person bekannt.
 
 ## 8 Schlussbestimmungen
 
-#### Art. 30
+#### Art. 44
 
 **Änderung von Erlassen**
 
 <sup>1</sup> Folgende Erlasse werden geändert:
 
-- 1\. Gesetz vom 8. November 1988 über den Grossen Rat (Grossratsgesetz; GRG)[^30-1]
-- 2\. Gesetz vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^30-2]
-- 3\. Gesetz vom 10. November 1987 über den Finanzhaushalt (Finanzhaushaltgesetz, FHG)[^30-3]
-- 4\. Einführungsgesetz vom 23. Juni 1993 zum Bundesgesetz über die Alters- und Hinterlassenenversicherung (EG AHVG)[^30-4]
-- 5\. Einführungsgesetz vom 23. Juni 1993 zum Bundesgesetz über die Invalidenversicherung (EG IVG)[^30-5]
-- 6\. Lotteriegesetz vom 4. Mai 1993[^30-6]
+- 1\. Gesetz vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^44-1],
+- 2\. Gesetz vom 5. Juni 2002 über die Aktiengesellschaft Bedag Informatik (Bedag-Gesetz, BIG)[^44-2],
+- 3\. Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^44-3],
+- 4\. Personalgesetz vom 16. September 2004 (PG)[^44-4],
+- 5\. Spitalversorgungsgesetz vom 13. Juni 2013 (SpVG)[^44-5].
 
-[^30-1]: Aufgehoben durch G vom 4. 6. 2013 über den Grossen Rat, BSG 151.21
-[^30-2]: BSG 152.01
-[^30-3]: Aufgehoben durch G vom 26. 3. 2002 über die Steuerung von Finanzen und Leistungen, BSG 620.0
-[^30-4]: BSG 841.11
-[^30-5]: BSG 841.21
-[^30-6]: BSG 935.52
+[^44-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
+[^44-2]: BSG [152.031.2](https://www.belex.sites.be.ch/data/152.031.2/de)
+[^44-3]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+[^44-4]: BSG [153.01](https://www.belex.sites.be.ch/data/153.01/de)
+[^44-5]: BSG [812.11](https://www.belex.sites.be.ch/data/812.11/de)
 
-#### Art. 31
+#### Art. 45
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Das Gesetz vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^45-1] wird aufgehoben.
+
+[^45-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
+
+#### Art. 46
 
 **Inkrafttreten**
 
-<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens. Die Inkraftsetzung kann zeitlich gestaffelt erfolgen.
+<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
-<sup>2</sup> Der Regierungsrat legt für jede Anstalt den Zeitpunkt fest, ab welchem die Prüfung im Sinne von Artikel 15 Absatz 1 Buchstabe e durch die Finanzkontrolle erfolgt.
-
-Bern, 1. Dezember 1999
+Bern, 7. März 2022
 
 Im Namen des Grossen Rates
 
-Der Präsident: Neuenschwander
+Der Präsident: Gullotti
 
-Der Vizestaatsschreiber: Krähenbühl
+Der Generalsekretär: Trees
 
-RRB Nr. 1459 vom 10. Mai 2000:
+Auszug aus dem Protokoll des Regierungsrates vom 17. August 2022
 
-gestützt auf Artikel 31, Absatz 1 des Gesetzes vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz; KFKG)beschliesst:
+Der Regierungsrat stellt fest, dass vom Referendumsrecht zum Kantonalen Finanzkontrollgesetz (KFKG) innerhalb der festgesetzten Frist kein Gebrauch gemacht worden ist.
 
-\1. Auf den 1. Juni 2000 werden die folgenden Artikel des kantonalen Finanzkontrollgesetzes in Kraft gesetzt: Artikel 5, 6, 7 Absatz 1, Artikel 10, Artikel 15 Absatz 1 Buchstabe a, Artikel 24 Absätze 3 und 7 und Artikel 31 Absatz 1.
+Das Gesetz ist in die Bernische Amtliche Gesetzessammlung aufzunehmen.
 
-\2. Die übrigen Artikel werden zu einem späteren Zeitpunkt mit separatem Regierungsratsbeschluss in Kraft gesetzt.
+Für getreuen Protokollauszug
 
-\3. Aufhebung von Artikeln: Auf den 1. Juni 2000 wird aufgehoben: Artikel 47 Absatz 2 Buchstabe a des Gesetzes vom 8. November 1988 über den Grossen Rat (Grossratsgesetz; GRG).
+Der Staatsschreiber: Auer
 
-RRB 3358 vom 1. November 2000:
+RRB Nr. 1042 vom 19. Oktober 2022:
 
-Gestützt auf die vorangehenden Ausführungen und auf Artikel 31 Absatz 1 KFKG beschliesst der Regierungsrat:
+Inkraftsetzung auf den 1. Januar 2023
 
-\1. Auf den 1. Januar 2001 werden mit Ausnahme der nachfolgend unter Ziffer 2 und 3 erwähnten Bestimmungen alle noch nicht in Kraft gesetzten Artikel des KFKG in Kraft gesetzt.
-
-\2. Auf den 1. Januar 2002 wird in Kraft gesetzt: Artikel 8 Absatz 3 KFKG.
-
-\3. Nicht in Kraft gesetzt wird die nachfolgende Bestimmung: Artikel 30, Ziffer 5. Änderung des Einführungsgesetzes vom 23. Juni 1993 zum Bundesgesetz über die Invalidenversicherung, Artikel 7 Absatz 4.
-
-00-29
+22-086

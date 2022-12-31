@@ -4,13 +4,13 @@ number: "622.1"
 title: Loi cantonale sur le Contrôle des finances
 short: LCCF
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-08
+version: 2023-01-01
+valid_until: 2025-03-29
+version_adopted: 2022-03-07
 adopted: 2022-03-07
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/622.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2463/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2683/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,405 +19,514 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2463/pdf_file"
 
 (LCCF)
 
-du 01.12.1999 (état au 01.02.2022)
+du 07.03.2022 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
+
+vu l'article 106 de la Constitution cantonale (ConstC)[^ingress-1],
 
 sur proposition du Conseil-exécutif,
 
 arrête:
 
-## 1 Dispositions générales
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+
+## 1 Généralités
 
 #### Art. 1
 
 **Objet**
 
-<sup>1</sup> La présente loi règle la surveillance des finances par le Contrôle des finances, en particulier son organisation, ses tâches et ses compétences.
+<sup>1</sup> La présente loi règle le statut, l'organisation, les tâches et les compétences du Contrôle des finances.
 
 #### Art. 2
 
-**But**
+**Statut**
 
-<sup>1</sup> Le Contrôle des finances assure la vérification indépendante de la gestion financière et de la comptabilité des autorités, de l'administration et des établissements du canton.
+<sup>1</sup> Le Contrôle des finances est l'organe suprême de surveillance financière du canton et constitue une unité administrative indépendante.
 
-#### Art. 3
+<sup>2</sup> Il est autonome dans l'accomplissement de ses fonctions, n'est lié à aucune directive et soumis uniquement à la Constitution et à la loi.
 
-**Surveillance des finances**
-
-<sup>1</sup> Le Contrôle des finances exerce son activité selon les dispositions de la présente loi et dans le respect des principes reconnus de la révision.
-
-<sup>2</sup> Il vérifie la régularité de la comptabilité et de la reddition des comptes, la légalité, l'emploi économe des moyens et la rentabilité, l'opportunité ainsi que l'efficacité de la gestion financière.
-
-<sup>3</sup> Il ne peut pas être chargé de tâches d'exécution.
+<sup>3</sup> Il soutient tant le Grand Conseil que le Conseil-exécutif et la Direction administrative de la magistrature.
 
 ## 2 Organisation
 
-#### Art. 4
-
-**Statut du Contrôle des finances**
-
-<sup>1</sup> Le Contrôle des finances est l’organe spécialisé suprême chargé de la surveillance des finances. Il seconde tant le Grand Conseil que le Conseil-exécutif.
-
-<sup>2</sup> Il est autonome dans l'accomplissement de ses fonctions. Il est soumis uniquement à la Constitution et à la loi.
-
-<sup>3</sup> Il constitue une unité administrative indépendante au sein de l’administration.
-
-#### Art. 5
+#### Art. 3
 
 **Direction**
 
-<sup>1</sup> Le Conseil-exécutif nomme un ou une spécialiste de la révision en tant que chef ou cheffe du Contrôle des finances pour une période de fonction de quatre ans, après avoir entendu la Commission des finances du Grand Conseil. La nomination doit être confirmée par le Grand Conseil.
+<sup>1</sup> Le Grand Conseil élit le chef ou la cheffe du Contrôle des finances pour une période de fonction de quatre ans, sur proposition du Comité Contrôle des finances (art. 34 à 37).
 
-<sup>2</sup> Les dispositions de la loi du 16 septembre 2004 sur le personnel (LPers)[^5-1] relatives aux rapports de travail des membres d’autorité à titre principal (art. 37 ss) sont applicables par analogie.
+<sup>2</sup> Le chef ou la cheffe du Contrôle des finances est un spécialiste reconnu ou une spécialiste reconnue dans le domaine de l'audit et dispose de bonnes connaissances des deux langues officielles.
 
-[^5-1]: RSB 153.01
+<sup>3</sup> En droit du personnel, il ou elle a le statut d'un directeur ou d'une directrice. Au surplus, les dispositions de la loi du 16 septembre 2004 sur le personnel (LPers)[^3-1] relatives aux rapports de travail des membres d'autorité à titre principal sont applicables par analogie.
 
-#### Art. 6
+[^3-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
+
+#### Art. 4
+
+**Surveillance sur la direction**
+
+<sup>1</sup> La Commission des finances est l'autorité qui exerce la surveillance sur le chef ou la cheffe du Contrôle des finances.
+
+<sup>2</sup> Avant d'ordonner des mesures relevant du droit de la surveillance, la Commission des finances prend contact avec le Comité Contrôle des finances.
+
+#### Art. 5
 
 **Personnel**
 
-<sup>1</sup> Le chef ou la cheffe du Contrôle des finances engage le personnel du Contrôle des finances selon les dispositions de la législation cantonale sur le personnel.
+<sup>1</sup> Le chef ou la cheffe du Contrôle des finances engage le personnel du Contrôle des finances selon les dispositions de la législation sur le personnel.
 
-<sup>2</sup> Les nominations et les promotions sont possibles, dans les limites du budget voté par le Grand Conseil.
+<sup>2</sup> Les engagements et les promotions sont possibles dans les limites du budget voté par le Grand Conseil.
 
-<sup>3</sup> En droit du personnel, le statut du chef ou de la cheffe du Contrôle des finances est celui d’un chef ou d’une cheffe de Direction.
+#### Art. 6
+
+**Recours à des experts ou des expertes**
+
+<sup>1</sup> Le Contrôle des finances peut faire appel à des experts ou des expertes si l'accomplissement de ses tâches requiert des connaissances particulières ou qu'il ne peut pas mener à bien ses tâches avec l'effectif ordinaire de son personnel.
 
 #### Art. 7
 
-**Service de révision**
+**Budget et plan intégré mission-financement**
 
-<sup>1</sup> La Commission des finances désigne un service de révision externe et lui attribue un mandat, d'entente avec le Conseil-exécutif. Le Grand Conseil tranche en cas de désaccord.
+<sup>1</sup> Le Contrôle des finances établit son budget annuel et son plan intégré mission-financement.
 
-<sup>2</sup> Le service de révision vérifie le compte spécial du Contrôle des finances et procède régulièrement au contrôle de la qualité et à l'évaluation des prestations.
-
-<sup>3</sup> Le service de révision informe la Commission des finances et le Conseil-exécutif des résultats de ses activités.
-
-## 3 Planification et financement
+<sup>2</sup> Le Conseil-exécutif les reprend sans modification respectivement dans le budget et dans le plan intégré mission-financement du canton.
 
 #### Art. 8
 
 **Gestion financière**
 
-<sup>1</sup> La gestion financière du Contrôle des finances est régie par la législation sur le pilotage des finances et des prestations, sauf disposition contraire de la présente loi.
+<sup>1</sup> La gestion financière du Contrôle des finances est régie par la législation sur les finances, sauf disposition contraire de la présente loi.
 
-<sup>2</sup> Le Contrôle des finances est seul compétent pour arrêter les dépenses de fonctionnement dans le cadre du budget et de la convention de prestations. Les compétences ordinaires en matière d'autorisation de dépenses s'appliquent aux investissements.
+<sup>2</sup> Le Contrôle des finances
 
-<sup>3</sup> Il gère un compte spécial.
+- a arrête seul les dépenses courantes dans le cadre du budget, les compétences ordinaires en matière d'autorisation de dépenses s'appliquant aux investissements;
+- b gère un compte spécial.
+
+<sup>3</sup> Après approbation de la Commission des finances, le chef ou la cheffe du Contrôle des finances peut
+
+- a autoriser des écarts soumis à crédit supplémentaire par rapport aux soldes arrêtés dans le budget si l'écart ne dépasse pas un million de francs par groupe de produits;
+- b avant l'autorisation du crédit supplémentaire déjà, contracter des engagements qu'il est impossible de différer sans entraîner pour le canton des conséquences particulièrement préjudiciables.
 
 #### Art. 9
 
-**Budget, plan intégré «mission-financement»**
+**Service de révision**
 
-<sup>1</sup> Le Contrôle des finances établit son budget annuel et son plan intégré «mission-financement». Le Conseil-exécutif les reprend sans modification dans le budget et dans le plan intégré «mission-financement» du canton.
+<sup>1</sup> La Commission des finances désigne un service de révision externe qui vérifie le compte spécial du Contrôle des finances.
+
+<sup>2</sup> Le service de révision présente les résultats de sa révision dans un rapport adressé à la Commission des finances et au Conseil-exécutif.
+
+## 3 Tâches
 
 #### Art. 10
 
-**Convention de prestations**
-
-<sup>1</sup> Le groupe de produits «surveillance des finances», composé des produits «tâches essentielles», «mandats de contrôle spécial», «mandats de contrôle extraordinaire» et «conseil», ainsi que les normes et les indicateurs de prestations sont définis dans la convention de prestations, de même que les ressources financières nécessaires à son exécution.
-
-<sup>2</sup> Les ressources financières sont fixées de telle sorte que le Contrôle des finances soit toujours en mesure d’assumer les tâches essentielles et les mandats de contrôle spécial, et que les autorités et unités administratives citées à l’article 16a, alinéa 2 puissent lui attribuer des mandats de contrôle extraordinaire ou recourir à ses conseils.
-
-<sup>3</sup> Le Grand Conseil arrête la convention de prestations sur proposition du Conseil-exécutif et de la Commission des finances.
-
-#### Art. 11
-
-**Honoraires**
-
-<sup>1</sup> Le Contrôle des finances facture des honoraires conformes aux tarifs du marché pour le contrôle en tant que service de révision auprès d’organisations au sens de l’article 16, lettre b et pour la révision des comptes des établissements cantonaux au sens de l’article 15, alinéa 1, lettre e.
-
-<sup>2</sup> Le Conseil-exécutif peut dispenser le Contrôle des finances de facturer ses honoraires aux établissements cantonaux au sens de l’article 15, alinéa 1, lettre e.
-
-## 4 Collaboration
-
-#### Art. 12
-
-**Recours à des experts, des expertes ou à des sociétés d’audit**
-
-<sup>1</sup> Le Contrôle des finances peut recourir à des experts, des expertes ou à des sociétés d’audit si l’exécution de ses tâches requiert des connaissances particulières ou qu’il ne puisse pas les assumer avec l’effectif ordinaire de son personnel.
-
-#### Art. 13
-
-**Collaboration avec des tiers**
-
-<sup>1</sup> Pour assumer les tâches du Contrôle des finances, le canton peut collaborer avec des institutions publiques ou privées ou adhérer à des conventions intercantonales.
-
-<sup>2</sup> Le Grand Conseil est seul compétent pour conclure des conventions dans ce domaine.
-
-## 5 Tâches
-
-#### Art. 14
-
-**Etendue du contrôle**
+**Champ de la surveillance**
 
 <sup>1</sup> Sont soumis à la surveillance du Contrôle des finances
 
-- a l'administration cantonale,
-- b les autorités judiciaires et le Ministère public,
-- c les établissements cantonaux, pour autant que la législation spéciale ne contienne pas de disposition contraire,
-- d les organisations et personnes extérieures à l'administration cantonale auxquelles le canton confie des tâches publiques,
-- e les organisations et personnes bénéficiant de prestations cantonales.
+- a l'administration cantonale;
+- b les autorités judiciaires et le Ministère public;
+- c les établissements cantonaux;
+- d les organisations et les personnes qui touchent des subventions ou d'autres prestations cantonales dans le cadre d'un rapport de droit public, conformément à l'article 14, alinéa 2;
+- e les organisations et personnes auxquelles le canton a délégué des tâches publiques, conformément à l'article 14, alinéa 3;
+- f les organisations de droit public ou de droit privé dans lesquelles le canton détient des participations, conformément à l'article 14, alinéa 3.
+
+#### Art. 11
+
+**Tâches**
+
+<sup>1</sup> Le Contrôle des finances est principalement chargé de la révision de la clôture des comptes (art. 13), de la surveillance financière (art. 14) et de l'enregistrement des irrégularités (art. 40 à 43).
+
+<sup>2</sup> Il ne peut pas être chargé de tâches d'exécution.
+
+#### Art. 12
+
+**Principes de l'accomplissement des tâches**
+
+<sup>1</sup> Le Contrôle des finances
+
+- a exerce son activité selon une approche basée sur le risque et selon les dispositions de la présente loi et dans le respect des principes de l'audit généralement reconnus;
+- b coordonne son activité avec les instances compétentes pour la surveillance;
+- c respecte le principe de proportionnalité dans l'exercice de son activité de contrôle.
+
+#### Art. 13
+
+**Contrôles de clôture des comptes**
+
+<sup>1</sup> Le Contrôle des finances examine les comptes annuels soumis par le Conseil-exécutif.
+
+<sup>2</sup> Il examine les comptes annuels des établissements cantonaux, pour autant que la législation spéciale n'en dispose pas autrement.
+
+<sup>3</sup> Le Contrôle des finances peut accepter des mandats de service de révision des comptes pour autant qu'un intérêt public particulier le justifie. Dans ce cas, il facture des honoraires conformes aux tarifs de la branche.
+
+#### Art. 14
+
+**Surveillance financière**
+
+<sup>1</sup> La surveillance financière du Contrôle des finances comprend le contrôle de la régularité, de la légalité et de l'efficience économique de la mise en œuvre du budget.
+
+<sup>2</sup> Pour les organisations et les personnes définies à l'article 10, alinéa 1, lettre d, elle s'entend comme le contrôle de la régularité et de la légalité de la gestion financière, ainsi que de l'utilisation appropriée des moyens.
+
+<sup>3</sup> Pour les organisations et personnes définies à l'article 10, alinéa 1, lettres e et f, elle se limite à vérifier l'accomplissement des tâches de surveillance et de contrôle de gestion par les services cantonaux compétents.
 
 #### Art. 15
 
-**Tâches essentielles**
+**Mandats de contrôle extraordinaire**
 
-<sup>1</sup> Le Contrôle des finances a pour tâches essentielles
+<sup>1</sup> Les autorités suivantes peuvent attribuer des mandats de contrôle extraordinaire au Contrôle des finances afin que celui-ci leur apporte son soutien dans l'accomplissement de leur tâche de haute surveillance ou de surveillance:
 
-- a de procéder à la révision des comptes annuels;
-- b de contrôler la comptabilité et la reddition des comptes ainsi que la gestion financière des unités administratives (révision des services);
-- c de contrôler les planifications et les projets de construction en rapport avec les activités de construction du canton (révision des constructions);
-- d de contrôler les systèmes informatiques qui touchent aux finances;
-- e de procéder à la révision des comptes annuels des établissements cantonaux;
-- f de remplir les mandats de contrôle attribués par la Confédération;
-- g d'assurer l'information courante du Conseil-exécutif et de la Commission des finances et de leur fournir des conseils spécialisés.
+- a les commissions d'enquête parlementaires,
+- b les commissions de surveillance du Grand Conseil,
+- c le Conseil-exécutif,
+- d les Directions et la Chancellerie d'Etat,
+- e la Direction administrative de la magistrature, les tribunaux suprêmes cantonaux et le Parquet général.
 
-<sup>2</sup> Le Contrôle des finances peut refuser les mandats de contrôle extraordinaire (art. 16a, al. 2) et les demandes de conseil (art. 17) qui compromettraient l'accomplissement des tâches essentielles.
+<sup>2</sup> Le Contrôle des finances peut refuser des mandats de contrôle extraordinaire si ceux-ci compromettent l'accomplissement de ses tâches légales.
 
 #### Art. 16
 
-**Mandats de contrôle spécial**
+**Planification des contrôles**
 
-<sup>1</sup> Le Contrôle des finances assume les mandats de contrôle spécial suivants:
+<sup>1</sup> Le Contrôle des finances établit chaque année une planification des contrôles sur la base des activités de révision prioritaires.
 
-- a contrôle de l’utilisation des subventions cantonales,
-- b contrôles en tant que service de révision auprès d’organisations pour autant qu’un intérêt public prépondérant les justifie.
+<sup>2</sup> Il coordonne ses contrôles avec les activités correspondantes des commissions de surveillance du Grand Conseil et du Bureau pour la surveillance de la protection des données.
 
-#### Art. 16a
-
-**Mandats de contrôle extraordinaire**
-
-<sup>1</sup> Les mandats de contrôle extraordinaire sont menés par le Contrôle des finances ou par des tiers.
-
-<sup>2</sup> Les mandats de contrôle extraordinaire sont menés
-
-- a sur ordre de la Commission des finances, de la Commission de gestion, de la Commission de justice, du Conseil-exécutif ou de la Direction de la magistrature,
-- b sur demande d’une Direction, de la Chancellerie d’Etat, des tribunaux suprêmes ou du Parquet général.
-
-<sup>3</sup> La Commission des finances, la Commission de gestion, la Commission de justice, le Conseil-exécutif ou la Direction de la magistrature sont compétents pour attribuer des mandats de contrôle extraordinaire à des tiers. Ces derniers seront aussi liés par contrat à la Constitution et à la loi, notamment à l’obligation de garder le secret sur les informations obtenues et les conclusions dégagées.
+<sup>3</sup> Il communique la planification des contrôles aux commissions de surveillance du Grand Conseil, au Conseil-exécutif et à la Direction administrative de la magistrature.
 
 #### Art. 17
 
-**Activités de conseil**
+**Soutien technique spécialisé**
 
-<sup>1</sup> La Commission des finances, la Commission de gestion, la Commission de justice, le Conseil-exécutif, la Direction de la magistrature, les Directions, la Chancellerie d’Etat, les tribunaux suprêmes et le Parquet général peuvent demander au Contrôle des finances des conseils techniques.
+<sup>1</sup> Les autorités énumérées à l'article 15, alinéa 1 peuvent au besoin demander l'expertise technique du Contrôle des finances.
 
-#### Art. 17a
+<sup>2</sup> Le Contrôle des finances peut refuser le soutien technique si celui-ci compromet son indépendance.
 
-**Enregistrement d'irrégularités**
+## 4 Résultats des contrôles et rapports
 
-<sup>1</sup> Le Contrôle des finances enregistre les irrégularités qui lui sont signalées par les collaborateurs et collaboratrices du canton, telles que des actes contraires aux règles du droit ou d'autres irrégularités dans le domaine d'activité de l'administration cantonale, des autorités judiciaires ou du Ministère public.
-
-<sup>2</sup> Le service chargé d'enregistrer les irrégularités
-
-- a explique la procédure au collaborateur ou à la collaboratrice qui a signalé l'irrégularité ainsi que les droits et devoirs qui sont les siens dans le cadre de la procédure;
-- b examine les faits signalés et s'assure de la pertinence de l'avis;
-- c informe les services compétents en application par analogie de l'article 24 quand il a établi l'existence d'une irrégularité;
-- d détruit les documents concernant une irrégularité qui lui a été signalée au plus tard un an après la clôture de ses investigations s'il ne constate aucun fait étayant l'existence réelle d'une telle irrégularité.
-
-<sup>3</sup> Nul ne peut faire valoir le droit à la clarification d'une irrégularité signalée.
-
-<sup>4</sup> Le service d'enregistrement traite les avis de manière confidentielle. Il ne révèle aucune information concernant le collaborateur ou la collaboratrice qui l'a avisé sans l'accord de cette personne.
-
-<sup>5</sup> D'entente avec le Contrôle des finances, le Conseil-exécutif peut prévoir par voie d'ordonnance que le Contrôle des finances assume aussi pour les collaborateurs et collaboratrices d'autres autorités les tâches mentionnées à l'alinéa 1.
-
-## 6 Relations avec les autorités et les institutions
+### 4.1 Résultats des contrôles
 
 #### Art. 18
 
-**Principe**
+**Prise de position préalable sur le projet de rapport de révision**
 
-<sup>1</sup> Le Contrôle des finances traite directement avec les institutions et les personnes soumises à sa surveillance.
+<sup>1</sup> Le Contrôle des finances permet au service contrôlé de se prononcer sur le projet du rapport de révision.
+
+<sup>2</sup> Il tient compte de manière appropriée de la prise de position du service contrôlé.
 
 #### Art. 19
 
-**Obligation de collaborer**
+**Résultats des contrôles de clôture des comptes**
 
-<sup>1</sup> Les institutions et les personnes soumises à la surveillance du Contrôle des finances sont tenues de le renseigner, de lui permettre de consulter des documents et plus généralement de l'assister dans l'accomplissement de ses tâches. Elles ne peuvent invoquer aucune obligation légale de garder le secret.
+<sup>1</sup> Le Contrôle des finances
 
-<sup>2</sup> Le Contrôle des finances peut accéder aux données nécessaires à l’exercice de la surveillance financière que renferment les systèmes d’informations financières. Cet accès peut au besoin s’étendre aux données particulièrement dignes de protection. Il doit être consigné dans un procès-verbal. A l’issue de la procédure de révision, les données sont détruites.
+- a communique les résultats du contrôle des comptes annuels prévu à l'article 13, alinéa 1 et transmet l'attestation d'audit à la Commission des finances, à la Commission de gestion, au Conseil-exécutif ainsi qu'aux Directions et à la Chancellerie d'Etat;
+- b adresse un rapport à la Commission de justice et à la Direction administrative de la magistrature pour les résultats les concernant.
 
-<sup>3</sup> Si le Contrôle des finances a connaissance de faits soumis au secret, il est lui-même tenu au secret. Cette obligation vaut également pour les experts ou les expertes et les sociétés d’audit auxquels recourt le Contrôle des finances (art. 12).[^19-1]
-
-[^19-1]: Ancien alinéa 2
-
-#### Art. 19a
-
-**Droit d’être entendu**
-
-<sup>1</sup> Toute personne à qui, lors d’un contrôle, il est fait grief d’avoir failli à ses obligations a le droit
-
-- a de consulter les dossiers la concernant, pour autant qu’aucun intérêt public ou privé prépondérant ne s’y oppose, et
-- b de se prononcer sur les points la concernant avant la fin du contrôle.
+<sup>2</sup> Il communique les résultats du contrôle des comptes annuels des établissements cantonaux prévu à l'article 13, alinéa 2 et transmet l'attestation d'audit auxdits établissements et à la Direction compétente.
 
 #### Art. 20
 
-**Documentation**
+**Résultats de la surveillance financière**
 
-<sup>1</sup> La Chancellerie d'Etat remet au Contrôle des finances tous les arrêtés populaires, arrêtés du Grand Conseil et arrêtés du Conseil-exécutif qui concernent la gestion des finances.
+<sup>1</sup> Le Contrôle des finances communique les résultats des contrôles menés dans le cadre de la surveillance financière définie à l'article 14 au service contrôlé ainsi qu'à la Direction concernée, à la Chancellerie d'Etat, au tribunal suprême concerné ou au Parquet général.
 
 #### Art. 21
 
-**Relations avec le Conseil-exécutif et la Direction de la magistrature**
+**Résultats des mandats de contrôle extraordinaire**
 
-<sup>1</sup> Le Contrôle des finances traite directement avec le Conseil-exécutif et la Direction de la magistrature.
-
-<sup>2</sup> Le chef ou la cheffe du Contrôle des finances rencontre régulièrement le Conseil-exécutif et la Direction de la magistrature pour un entretien.
+<sup>1</sup> Le Contrôle des finances communique les résultats des mandats de contrôle extraordinaire prévus à l'article 15 au mandant ou à la mandante, au service contrôlé, à la Direction concernée, à la Chancellerie d'Etat ou à la Direction administrative de la magistrature.
 
 #### Art. 22
 
-**Relations avec le Grand Conseil**
+**Prise de position sur les résultats du contrôle et information**
 
-<sup>1</sup> Le Contrôle des finances traite directement avec la Commission des finances, la Commission de gestion et la Commission de justice.
-
-<sup>2</sup> Il traite directement avec les autres organes du Grand Conseil après en avoir informé la Commission des finances.
-
-<sup>3</sup> Le chef ou la cheffe du Contrôle des finances rencontre régulièrement la Commission des finances et la Commission de gestion pour un entretien.
-
-#### Art. 22a
-
-**Comité Contrôle des finances**
-
-<sup>1</sup> Dans les affaires le concernant, le Contrôle des finances traite avec le Conseil-exécutif et le Grand Conseil par l’intermédiaire du Comité Contrôle des finances.
-
-<sup>2</sup> Le Comité Contrôle des finances est composé de trois membres du Conseil-exécutif et de trois à cinq membres de la Commission des finances.
-
-<sup>3</sup> Le Contrôle des finances assure le secrétariat. Il coordonne les affaires et assure leur gestion.
+<sup>1</sup> Le service contrôlé prend position sur les résultats du Contrôle des finances et l'informe sur les mesures prévues et leur calendrier.
 
 #### Art. 23
 
-**Rapport d'activité**
+**Responsabilités**
 
-<sup>1</sup> Le Contrôle des finances fournit chaque année au Grand Conseil et au Conseil-exécutif un rapport sur ses activités.
+<sup>1</sup> Il incombe au service contrôlé de décider de prendre des mesures en réponse à un constat d'audit du Contrôle des finances et, le cas échéant, de définir celles-ci. Si le service contrôlé n'appartient pas à l'administration cantonale, le service cantonal responsable contrôle les éventuelles mesures prises.
 
-## 7 Rapports et contestations
+<sup>2</sup> La décision du service contrôlé de ne pas mettre en œuvre ou de ne mettre en œuvre que partiellement des mesures en réponse à un constat d'audit d'importance moyenne requiert l'approbation
 
-### 7.1 Rapports
+- a du directeur ou de la directrice pour une Direction et pour les préfectures,
+- b du chancelier ou de la chancelière pour la Chancellerie d'Etat,
+- c du président ou de la présidente de la Cour suprême pour les tribunaux civils et pénaux,
+- d du président ou de la présidente du Tribunal administratif pour les autorités de justice indépendantes de l'administration,
+- e du procureur général ou de la procureure générale pour le Ministère public.
+
+<sup>3</sup> Le Contrôle des finances qualifie de constats d’audit d’importance considérable ceux portant sur des faits constituant une violation du droit grave ou répétée ou ayant des répercussions considérables sur les finances cantonales.
+
+<sup>4</sup> Pour les constats d'audit d'importance considérable, il revient au Conseil-exécutif ou à la Direction administrative de la magistrature de se prononcer et de décider d'éventuelles mesures et de leur calendrier.
+
+### 4.2 Rapports
 
 #### Art. 24
 
-<sup>1</sup> Le Contrôle des finances communique par écrit les résultats de ses révisions aux services qu’il a examinés et à la Direction concernée, à la Chancellerie d’Etat, aux tribunaux suprêmes, au Parquet général ou à l’établissement cantonal concerné.
+**Rapports périodiques**
 
-<sup>2</sup> Lorsque la révision concerne une organisation ou une personne externes à l'administration cantonale, les résultats sont aussi communiqués à l'office compétent.
+<sup>1</sup> Le Contrôle des finances remet périodiquement un rapport présentant les contrôles qu'il a menés et les constats d'audit d'importance considérable qu'il a observés aux autorités suivantes:
 
-<sup>3</sup> Le Contrôle des finances communique les résultats de la révision des comptes annuels à la Commission des finances, à la Commission de gestion, au Conseil-exécutif, aux Directions et à la Chancellerie d’Etat. La Commission de justice et la Direction de la magistrature sont informées des résultats les concernant.
+- a la Commission des finances, la Commission de gestion et le Conseil-exécutif,
+- b la Commission de justice et la Direction administrative de la magistrature, si celles-ci sont concernées.
 
-<sup>4</sup> Le Contrôle des finances communique les résultats de la révision des comptes annuels des établissements cantonaux aux établissements concernés, à la Commission des finances, à la Commission de gestion, au Conseil-exécutif et à la Direction compétente.
-
-<sup>5</sup> Il communique les résultats des mandats de contrôle spécial selon l’article 16, lettre a aux services concernés et à la Direction compétente.
-
-<sup>6</sup> Il communique les résultats des mandats de contrôle extraordinaire aux mandants ou aux mandantes et à la Direction compétente, à la Chancellerie d’Etat ou à la Direction de la magistrature, ainsi qu’au service concerné.
-
-<sup>7</sup> Lors de son rapport trimestriel, il communique les résultats importants des contrôles à la Commission des finances, à la Commission de gestion et au Conseil-exécutif. La Commission de justice et la Direction de la magistrature sont informées des résultats importants les concernant.
-
-<sup>8</sup> En cas de soupçon d’actes punissables, le Contrôle des finances informe la Direction compétente, la Chancellerie d’Etat ou la Direction de la magistrature. Si la Direction compétente, la Chancellerie d’Etat ou la Direction de la magistrature n’agit pas dans un délai raisonnable, le Contrôle des finances peut s’adresser directement à l’autorité judiciaire compétente en matière de poursuite pénale. Il en informe le Conseil-exécutif, la Commission des finances et la Commission de justice, dans la mesure où cette dernière est concernée.
-
-### 7.2 Procédure en cas de contestations
+<sup>2</sup> Le rapport présente également la prise de position du Conseil-exécutif ou de la Direction administrative de la magistrature selon l'article 23, alinéa 4.
 
 #### Art. 25
 
-**Contestations de peu d'importance**
+**Rapport d'activité**
 
-<sup>1</sup> Les irrégularités ou les erreurs de peu d'importance qui n'ont pas pu être éliminées lors de la révision doivent l'être dans le délai fixé par le Contrôle des finances. Le service contrôlé annonce par écrit au Contrôle des finances qu'il a exécuté les mesures requises avant l'expiration de ce délai.
+<sup>1</sup> Le Contrôle des finances remet chaque année au Grand Conseil et au Conseil-exécutif un rapport sur ses activités et sur les contrôles qu'il a menés.
 
 #### Art. 26
 
-**Contestations d'une importance considérable**
+**Publicité**
 
-<sup>1</sup> Lorsque les irrégularités constatées sont d'une importance considérable, le Contrôle des finances impartit au service contrôlé un délai approprié pour se prononcer par écrit, en suivant la voie de service, sur les contestations faites et indiquer les mesures qu'il a prises.
+<sup>1</sup> Les rapports de révision du Contrôle des finances et les documents s'y rapportant ne sont pas publics.
+
+<sup>2</sup> Sont cependant publics
+
+- a l'attestation d'audit relative au contrôle des comptes annuels du canton;
+- b l'attestation d'audit relative au contrôle des comptes annuels des établissements cantonaux, pour autant que la législation spéciale n'en dispose pas autrement;
+- c le rapport d'activité du Contrôle des finances.
 
 #### Art. 27
 
-**Règlement des contestations**
+**Information**
 
-<sup>1</sup> Lorsque le service contrôlé conteste les observations figurant dans le rapport de révision ou qu'il n'élimine pas dans le délai imparti les irrégularités constatées, le Conseil-exécutif statue sur les mesures à prendre, sur proposition du Contrôle des finances. La décision du Conseil-exécutif est communiquée au service concerné et au Contrôle des finances.
+<sup>1</sup> Dans des cas particuliers qui revêtent une importance fondamentale et un intérêt public considérable, le chef ou la cheffe du Contrôle des finances peut, après avoir consulté les commissions de surveillance du Grand Conseil compétentes et le Conseil-exécutif, informer directement le public.
 
-<sup>2</sup> La Direction de l'intérieur et de la justice instruit la procédure devant le Conseil-exécutif. Lorsque la contestation la concerne, l’instruction est menée par la Chancellerie d’Etat. Les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^27-1] sont applicables par analogie à la procédure.
-
-<sup>3</sup> S’il n’est pas d’accord avec les mesures arrêtées par le Conseil-exécutif, le Contrôle des finances soumet la décision gouvernementale accompagnée de son propre avis et d’une proposition à la Commission des finances ou à la Commission de gestion, lorsque celle-ci a donné un mandat de contrôle extraordinaire.
-
-[^27-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
-
-### 7.3 Publicité
+## 5 Procédure
 
 #### Art. 28
 
-**Consultation des documents**
+**Obligation de collaborer et de remettre les données**
 
-<sup>1</sup> Les documents et les rapports du Contrôle des finances ainsi que les documents relatifs aux procédures en cas de contestations ne sont pas publics.
+<sup>1</sup> Les services contrôlés sont tenus d'assister le Contrôle des finances dans l'accomplissement de ses tâches et de lui remettre toutes les informations nécessaires à cette fin.
 
-<sup>2</sup> Les documents suivants sont publics:
+<sup>2</sup> Ils mettent à sa disposition les informations et les données nécessaires à l'accomplissement de ses tâches, y compris les données personnelles particulièrement dignes de protection, dans la mesure où celles-ci sont appropriées et impérativement nécessaires, ou accordent l'accès à leurs fichiers de données à cette fin.
 
-- a le résumé des résultats de la révision des comptes annuels,
-- b …
-- c les documents du Contrôle des finances qui ne concernent pas la surveillance des finances, sous réserve des articles 27ss de la loi du 2 novembre 1993 sur l'information du public (loi sur l'information, LIn)[^28-1],
-- d le rapport d'activité annuel.
-
-[^28-1]: RSB 107.1
+<sup>3</sup> Ils ne peuvent invoquer aucune obligation légale de garder le secret.
 
 #### Art. 29
 
-**Information**
+**Différends portant sur l'obligation de collaborer et de remettre les données**
 
-<sup>1</sup> Dans des cas particuliers qui revêtent une importance fondamentale et un intérêt public considérable, le chef ou la cheffe du Contrôle des finances peut, après avoir consulté la Commission des finances et le Conseil-exécutif, informer directement le public.
+<sup>1</sup> Si les services contrôlés ne satisfont pas à leur obligation de collaborer et de remettre les données, le Contrôle des finances rend, après sommation infructueuse, une décision dans laquelle il peut ordonner à ces services de collaborer et de remettre leurs données.
+
+<sup>2</sup> La décision est susceptible de recours devant le Tribunal administratif.
+
+#### Art. 30
+
+**Devoir de documentation et durée de conservation ou d'enregistrement des données**
+
+<sup>1</sup> Les consultations de fichiers de données ainsi que les buts de ces consultations doivent être consignés.
+
+<sup>2</sup> Le Contrôle des finances n'est autorisé à conserver ou à enregistrer les données portées à sa connaissance selon l'article 28, alinéa 2 que jusqu'à la fin de la procédure de révision. Sont réservées les obligations légales de conservation des données et les obligations de documentation de la profession.
+
+#### Art. 31
+
+**Obligation de garder le secret**
+
+<sup>1</sup> Dans la mesure où le Contrôle des finances a connaissance de faits soumis à une obligation légale de garder le secret, il y est lui-même soumis.
+
+<sup>2</sup> Cette obligation vaut également pour les experts et les expertes auxquels le Contrôle des finances fait appel selon l'article 6.
+
+<sup>3</sup> Quiconque a pris connaissance dans des rapports du Contrôle des finances de faits soumis à une obligation légale de garder le secret y est lui-même soumis.
+
+#### Art. 32
+
+**Implication de tiers**
+
+<sup>1</sup> Dans le cadre de contrôles extraordinaires selon l’article 15, l’autorité mandante donne aux tiers qui n'appartiennent pas au service contrôlé et auxquels il est reproché un manquement à leurs devoirs ou dont les intérêts sont directement et considérablement touchés la possibilité de se prononcer sur les faits qui les concernent.
+
+<sup>2</sup> Les tiers mentionnés à l'alinéa 1 sont tenus de garantir la confidentialité de la procédure de révision.
+
+#### Art. 33
+
+**Infractions**
+
+<sup>1</sup> Si un contrôle donne lieu à un soupçon d'actes punissables, le Contrôle des finances informe la Direction compétente, la Chancellerie d'Etat ou la Direction administrative de la magistrature.
+
+<sup>2</sup> Au surplus, l'article 48 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^33-1] est applicable.
+
+[^33-1]: RSB [271.1](https://www.belex.sites.be.ch/data/271.1/fr)
+
+## 6 Collaboration avec d'autres autorités
+
+### 6.1 Comité Contrôle des finances
+
+#### Art. 34
+
+**Composition**
+
+<sup>1</sup> Le Comité Contrôle des finances se compose
+
+- a du président ou de la présidente de la Commission des finances,
+- b du président ou de la présidente de la Commission de gestion,
+- c du directeur ou de la directrice des finances,
+- d d'un autre membre du Conseil-exécutif,
+- e du chef ou de la cheffe du Contrôle des finances.
+
+<sup>2</sup> Le chancelier ou la chancelière ainsi que le ou la secrétaire de la Commission des finances participent aux séances du Comité Contrôle des finances.
+
+<sup>3</sup> Le Comité Contrôle des finances peut recourir aux conseils de tiers.
+
+#### Art. 35
+
+**Conduite et droit de vote**
+
+<sup>1</sup> Le président ou la présidente de la Commission des finances assure la présidence du Comité Contrôle des finances et tranche en cas d'égalité des voix.
+
+<sup>2</sup> Ne disposent pas du droit de vote
+
+- a le chef ou la cheffe du Contrôle des finances,
+- b le chancelier ou la chancelière,
+- c le ou la secrétaire de la Commission des finances.
+
+<sup>3</sup> Le ou la secrétaire de la Commission des finances assure le secrétariat du Comité Contrôle des finances.
+
+#### Art. 36
+
+**Fonction et tâches**
+
+<sup>1</sup> Le Comité Contrôle des finances permet la collaboration entre le Contrôle des finances, le Conseil-exécutif et le Grand Conseil.
+
+<sup>2</sup> Il lui incombe en particulier de
+
+- a faire une proposition pour l'élection ou la réélection du chef ou de la cheffe du Contrôle des finances par le Grand Conseil;
+- b confier des mandats pour l'évaluation périodique de la qualité;
+- c discuter des points forts des activités annuelles de révision;
+- d discuter des développements en cours.
+
+#### Art. 37
+
+**Evaluation de la qualité**
+
+<sup>1</sup> Le Comité Contrôle des finances fait évaluer la qualité du Contrôle des finances par un service externe au moins une fois tous les cinq ans.
+
+<sup>2</sup> L'évaluation de la qualité porte en particulier sur
+
+- a le respect des principes de la profession,
+- b l'organisation et la direction du Contrôle de finances,
+- c l'accomplissement des tâches.
+
+<sup>3</sup> Le service selon l'alinéa 1 rapporte ses observations au Comité Contrôle des finances.
+
+### 6.2 Autres autorités
+
+#### Art. 38
+
+**Relations avec les autorités**
+
+<sup>1</sup> Le Contrôle des finances traite directement avec la Commission des finances, la Commission de gestion, le Conseil-exécutif, la Direction administrative de la magistrature et, au besoin, avec la Commission de justice.
+
+<sup>2</sup> Il peut traiter directement avec d'autres organes du Grand Conseil après avoir préalablement informé la Commission des finances.
+
+<sup>3</sup> Les commissions de surveillance du Grand Conseil peuvent demander directement au Contrôle des finances à voir des rapports de révision et des prises de positions des services contrôlés pour des audits terminés. Elles informent le Conseil-exécutif de la consultation d'un rapport de révision.
+
+<sup>4</sup> L’autorité cantonale de surveillance de la protection des données peut demander directement au Contrôle des finances à voir des rapports de révision et les éventuelles prises de position des services contrôlés pour des audits terminés, dans la mesure où ils revêtent de l’importance pour l’accomplissement de ses tâches. Dans ces cas, elle informe la Direction compétente, la Chancellerie d’Etat, le tribunal cantonal suprême concerné ou le Parquet général de la consultation d’un rapport de révision.
+
+#### Art. 39
+
+**Documentation**
+
+<sup>1</sup> La Chancellerie d'Etat remet au Contrôle des finances tous les arrêtés du Conseil-exécutif ayant des répercussions sur les finances cantonales.
+
+## 7 Enregistrement d'irrégularités
+
+#### Art. 40
+
+**Compétence**
+
+<sup>1</sup> Le Contrôle des finances enregistre les irrégularités qui lui sont signalées par les collaborateurs et collaboratrices du canton dans le domaine d'activité de l'administration cantonale, des autorités judiciaires ou du Ministère public («service chargé d’enregistrer les irrégularités»).
+
+<sup>2</sup> D'entente avec le Contrôle des finances, le Conseil-exécutif peut prévoir par voie d'ordonnance que le Contrôle des finances enregistre aussi les irrégularités signalées par les collaborateurs et collaboratrices des établissements cantonaux.
+
+#### Art. 41
+
+**Irrégularités**
+
+<sup>1</sup> Sont en particulier considérés comme des irrégularités dans le domaine d'activité des autorités et des établissements cantonaux au sens de l'article 40
+
+- a les actes contraires aux règles du droit,
+- b d'autres irrégularités.
+
+#### Art. 42
+
+**Procédure**
+
+<sup>1</sup> Le service chargé d'enregistrer les irrégularités
+
+- a explique au collaborateur ou à la collaboratrice qui a signalé l'irrégularité la procédure ainsi que ses droits et devoirs dans le cadre de la procédure;
+- b examine les faits signalés et s'assure de la pertinence de l'avis;
+- c informe les services compétents en application par analogie de l'article 20 quand il a établi l'existence d'une irrégularité;
+- d détruit les documents concernant une irrégularité qui lui a été signalée au plus tard un an après la clôture de ses investigations s'il ne constate aucun fait étayant l'existence réelle d'une telle irrégularité.
+
+#### Art. 43
+
+**Etablissement des faits et confidentialité**
+
+<sup>1</sup> Nul ne peut faire valoir un droit à la clarification d'une irrégularité signalée.
+
+<sup>2</sup> Le service d'enregistrement traite les avis de manière confidentielle. Il ne révèle aucune information concernant le collaborateur ou la collaboratrice qui l'a avisé sans l'accord de cette personne.
 
 ## 8 Dispositions finales
 
-#### Art. 30
+#### Art. 44
 
 **Modification d'actes législatifs**
 
 <sup>1</sup> Les actes législatifs suivants sont modifiés:
 
-- 1\. Loi du 8 novembre 1988 sur le Grand Conseil (LGC):[^30-1]
-- 2\. Loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA):[^30-2]
-- 3\. Loi du 10 novembre 1987 sur les finances (LF):[^30-3]
-- 4\. Loi du 23 juin 1993 portant introduction de la loi fédérale sur l'assurance-vieillesse et survivants (LiLAVS):[^30-4]
-- 5\. Loi du 23 juin 1993 portant introduction de la loi fédérale sur l'assurance-invalidité (LiLAI):[^30-5]
-- 6\. Loi du 4 mai 1993 sur les loteries:[^30-6]
+- 1\. loi du 20 juin 1995 sur l'organisation du Conseil-exécutif et de l'administration (loi d'organisation, LOCA)[^44-1],
+- 2\. loi du 5 juin 2002 sur la société anonyme Bedag Informatique (loi sur la Bedag, LBI)[^44-2],
+- 3\. loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^44-3],
+- 4\. loi du 16 septembre 2004 sur le personnel (LPers)[^44-4],
+- 5\. loi du 13 juin 2013 sur les soins hospitaliers (LSH)[^44-5].
 
-[^30-1]: Abrogée par L du 4. 6. 2013 sur le Grand Conseil (LGC); RSB 151.21
-[^30-2]: RSB 152.01
-[^30-3]: Abrogée par L du 26. 3. 2002 sur le pilotage des finances et des prestations (LFP); RSB 620.0
-[^30-4]: RSB 841.11
-[^30-5]: RSB 841.21
-[^30-6]: RSB 935.52
+[^44-1]: RSB [152.01](https://www.belex.sites.be.ch/data/152.01/fr)
+[^44-2]: RSB [152.031.2](https://www.belex.sites.be.ch/data/152.031.2/fr)
+[^44-3]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+[^44-4]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
+[^44-5]: RSB [812.11](https://www.belex.sites.be.ch/data/812.11/fr)
 
-#### Art. 31
+#### Art. 45
+
+**Abrogation d'un acte législatif**
+
+<sup>1</sup> La loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^45-1] est abrogée.
+
+[^45-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
+
+#### Art. 46
 
 **Entrée en vigueur**
 
-<sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi. L'entrée en vigueur peut être échelonnée.
+<sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
 
-<sup>2</sup> Le Conseil-exécutif fixe pour chaque établissement cantonal la date à partir de laquelle le Contrôle des finances assume la révision des comptes annuels au sens de l'article 15, 1er alinéa, lettre e.
-
-Berne, 1er décembre 1999
+Berne, le 7 mars 2022
 
 Au nom du Grand Conseil,
 
-le président: Neuenschwander
+le président: Gullotti
 
-le vice-chancelier: Krähenbühl
+le secrétaire général: Trees
 
-ACE n° 1459 du 10 mai 2000:
+Extrait du procès-verbal du Conseil-exécutif du 17 août 2022
 
-Le Conseil-exécutif du canton de Berne,vu l'article 31, 1<sup>er</sup> alinéa de la loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF),arrête:
+Le Conseil-exécutif constate que durant le délai référendaire il n’a pas été fait usage du droit de demander le vote populaire contre la loi cantonale sur le Contrôle des finances (LCCF).
 
-\1. Les articles énumérés ci-après de la loi cantonale sur le Contrôle des finances entrent en vigueur le 1<sup>er</sup> juin 2000: article 5, article 6, article 7, 1<sup>er</sup> alinéa, article 10, article 15, 1<sup>er</sup> alinéa, lettre a, article 24, 3<sup>e</sup> et 7<sup>e</sup> alinéas et article 31, 1<sup>er</sup> alinéa.
+La loi doit être insérée dans le Recueil officiel des lois bernoises.
 
-\2. Les autres articles entreront en vigueur ultérieurement, à une date fixée par arrêté du Conseil-exécutif distinct.
+Certifié exact
 
-\3. Abrogation: La disposition ci-après est abrogée à compter du 1<sup>er</sup> juin 2000: article 47, 2<sup>e</sup> alinéa, lettre a de la loi du 8 novembre 1988 sur le Grand Conseil (LGC).
+Le chancelier: Auer
 
-ACE n° 3358 du 1<sup>er</sup> novembre 2000:
+ACE n° 1042 du 19 octobre 2022:
 
-vu ce qui précède et vu l'article 31, alinéa 1 LCCF, le Conseil-exécutif arrête:
+entrée en vigueur le 1<sup>er</sup> janvier 2023
 
-\1. Toutes les dispositions de la LCCF qui ne sont pas encore entrées en vigueur entreront en vigueur le 1<sup>er</sup> janvier 2001, à l'exception des articles mentionnés sous chiffres 2 et 3 ci-après.
-
-\2. L'article 8, alinéa 3 LCCF entre en vigueur le 1<sup>er</sup> janvier 2002.
-
-\3. L'article 30, chiffre 5, modification de la loi du 23 juin 1993 portant introduction de la loi fédérale sur l'assurance-invalidité, article 7, alinéa 4, n'entre pas en vigueur.
-
-00-29
+22-086
