@@ -3,20 +3,19 @@ canton: GL
 number: IV G/2/1
 title: Verordnung über die Gewährung von Kantons- und Gemeindebeiträgen im Bereich Denkmalpflege und Ortsbildschutz
 language: de
-version: 2006-05-07
-valid_until: 2022-12-31
-version_adopted: 2006-03-21
+version: 2023-01-01
+version_adopted: 2022-05-03
 adopted: 1991-12-09
 in_force: 1992-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-G.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/976/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2338/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gewährung von Kantons- und Gemeindebeiträgen im Bereich Denkmalpflege und Ortsbildschutz
 
-Vom 09.12.1991 (Stand 07.05.2006)
+Vom 09.12.1991 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -69,11 +68,9 @@ beschliesst:
 
 **Beitragszusicherung**
 
-<sup>1</sup> Die Zuständigkeiten zur Zusicherung von Beiträgen richten sich nach dem kantonalen Finanzhaushaltgesetz[^5-1].
+<sup>1</sup> Über Beiträge entscheidet bis 25 000 Franken das zuständige Departement, über höhere Beiträge beschliesst der Regierungsrat.
 
 <sup>2</sup> Bei Objekten, für welche Bundesbeiträge geleistet werden, erfolgt die Zusicherung, sobald die Höhe des zu erwartenden Bundesbeitrages bekannt ist.
-
-[^5-1]: GS [VI A/1/2](https://gesetze.gl.ch/data/VI-A.1.2/de)
 
 #### Art. 6
 
