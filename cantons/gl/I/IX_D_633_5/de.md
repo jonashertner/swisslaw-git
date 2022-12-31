@@ -2,24 +2,24 @@
 canton: GL
 number: IX D/633/5
 title: Verordnung über die Viehsteuer
-short: "Viehsteuerverordnung, ViehStv"
+short: "Viehsteuerverordnung, ViehStV"
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-06-26
+version: 2023-01-01
+valid_until: 2024-05-31
+version_adopted: 2023-01-24
 adopted: 2014-04-22
 in_force: 2014-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.633.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2030/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Viehsteuer
 
-(Viehsteuerverordnung, ViehStv)
+(Viehsteuerverordnung, ViehStV)
 
-Vom 22.04.2014 (Stand 01.01.2018)
+Vom 22.04.2014 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -37,9 +37,9 @@ verordnet:
 
 - a. Pferd, Maulesel, Maultier — 5.00 Franken;
 - b. Pony, Kleinpferde, Esel — 2.50 Franken;
-- c. Rindvieh älter als 120 Tage — 2.50 Franken;
+- c. Rindvieh — 2.50 Franken;
 - d. Schwein (ohne Saugferkel) — 1.00 Franken;
-- e. Schaf und Ziegen älter als sechs Monate — 0.60 Franken;
+- e. Schaf und Ziegen — 0.60 Franken;
 - f. Hirsch, Lama, Alpaka — 1.80 Franken;
 - g. Kaninchen (jeden Alters) für Bestände mit mehr als 50 Zuchttieren — 0.10 Franken;
 - h. Geflügel für Bestände mit mehr als 250 Lege- oder Zuchttieren — 0.10 Franken.
