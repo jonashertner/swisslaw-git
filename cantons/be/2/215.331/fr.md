@@ -3,20 +3,19 @@ canton: BE
 number: "215.331"
 title: "Ordonnance sur le registre des droits d'alpage"
 language: fr
-version: 2010-11-01
-valid_until: 2022-12-31
-version_adopted: 2010-08-25
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2002-11-20
 in_force: 2003-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.331"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/399/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2695/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le registre des droits d'alpage
 
-du 20.11.2002 (état au 01.11.2010)
+du 20.11.2002 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -135,7 +134,7 @@ arrête:
 
 **2. Dépôt public**
 
-<sup>1</sup> Une fois établi, le registre des droits d'alpage doit être déposé publiquement pendant 30 jours au bureau du registre foncier. Le dépôt public sera publié deux fois dans la Feuille officielle cantonale ainsi que dans la feuille officielle d'avis. Le texte de la publication mentionnera le droit de former opposition.
+<sup>1</sup> Une fois établi, le registre des droits d'alpage doit être déposé publiquement pendant 30 jours au bureau du registre foncier. Le dépôt public sera communiqué deux fois dans la Feuille officielle cantonale ainsi que dans l'organe de publication officiel de la commune. Le texte de la publication mentionnera le droit de former opposition.
 
 <sup>2</sup> Les oppositions doivent être adressées au bureau du registre foncier par écrit, motifs à l'appui, dans un délai de 30 jours à compter de la seconde publication.
 

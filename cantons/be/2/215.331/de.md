@@ -4,13 +4,12 @@ number: "215.331"
 title: Verordnung über das Seybuch
 short: SeyV
 language: de
-version: 2010-11-01
-valid_until: 2022-12-31
-version_adopted: 2010-08-25
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 2002-11-20
 in_force: 2003-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.331"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/399/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2695/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/399/pdf_file"
 
 (SeyV)
 
-vom 20.11.2002 (Stand 01.11.2010)
+vom 20.11.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -138,7 +137,7 @@ beschliesst:
 
 **2. Auflage**
 
-<sup>1</sup> Nach erfolgter Anlage ist das Seybuch während 30 Tagen auf dem Grundbuchamt öffentlich aufzulegen. Diese Auflage ist durch zweimalige Veröffentlichung im Amtsblatt und im amtlichen Anzeiger bekannt zu machen. Der Bekanntmachung ist der Hinweis auf das Recht zur Einsprache beizufügen.
+<sup>1</sup> Nach erfolgter Anlage ist das Seybuch während 30 Tagen auf dem Grundbuchamt öffentlich aufzulegen. Diese Auflage ist durch zweimalige Veröffentlichung im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde bekannt zu machen. Der Bekanntmachung ist der Hinweis auf das Recht zur Einsprache beizufügen.
 
 <sup>2</sup> Einsprachen sind innert 30 Tagen seit Erscheinen der zweiten Veröffentlichung schriftlich und begründet beim Grundbuchamt einzureichen.
 
