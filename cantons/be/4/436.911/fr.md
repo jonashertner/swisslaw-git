@@ -4,13 +4,13 @@ number: "436.911"
 title: Ordonnance sur la Haute école pédagogique germanophone
 short: OHEP
 language: fr
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-11-16
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.911"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1860/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2724/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,17 +19,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1860/pdf_file"
 
 (OHEP)
 
-du 13.04.2005 (état au 01.07.2020)
+du 16.11.2022 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 5, alinéa 4, 19, alinéa 2, 20, alinéa 6, 21, alinéa 2, 22, alinéa 4, 23, alinéa 4, 24, alinéa 2, 25, alinéa 2, 26, alinéa 2, 27, alinéa 2, 30, alinéa 4, 31, alinéa 4, 41, alinéa 3, 42, alinéa 4, 53, alinéa 4, 54, alinéa 3, 56, alinéa 3, 57, alinéa 4, 61, alinéa 1, lettre b et alinéas 2 et 4 de de la loi du 8 septembre 2004 sur la Haute école pédagogique germanophone (LHEP)[^ingress-1],
+vu les articles 5, alinéa 4, 19, alinéa 2, 19a, alinéas 1 et 2, 20, alinéa 6, 21, alinéa 2, 22, alinéa 4, 23, alinéa 4, 24, alinéa 2, 25, alinéa 2, 26, alinéa 2, 27, alinéa 2, 30, alinéa 4, 31, alinéa 4, 31a, alinéa 2, 41, alinéa 3, 42, alinéa 4, 50, alinéa 3, 53, alinéa 6, 54, alinéa 3, 55, alinéa 3, 55a, alinéa 3, 56, alinéa 3, 57, alinéa 4, 67d, alinéa 4, 73, alinéa 4, 73a, alinéa 4, 74c, alinéa 2, 74d, alinéas 1 et 2 de la loi du 8 septembre 2004 sur la Haute école pédagogique germanophone (LHEP)[^ingress-1],
 
-sur proposition de la Direction de l'instruction publique,
+sur proposition de la Direction de l'instruction publique et de la culture,
 
 arrête:
 
-[^ingress-1]: RSB 436.91
+[^ingress-1]: RSB [436.91](https://www.belex.sites.be.ch/data/436.91/fr)
 
 ## 1 Dispositions générales
 
@@ -40,681 +40,698 @@ arrête:
 <sup>1</sup> La présente ordonnance régit
 
 - a les formations de base et le cours préparatoire aux formations de base,
-- b le statut des collaborateurs et des collaboratrices,
-- c l’admission aux formations de base,
-- d l’indemnisation des membres du conseil de l’école,
-- e l’administration de la Haute école pédagogique,
+- b le statut des collaboratrices et des collaborateurs,
+- c l'admission aux formations de base,
+- d l'indemnisation relative au conseil de l'école,
+- e l'administration de la Haute école pédagogique,
 - f la commission de recours,
 - g le plan de développement, le pilotage et le financement,
 - h le droit disciplinaire.
 
 #### Art. 2
 
-**Institutions de formation du corps enseignant sous la responsabilité d’organismes privés**
+**Dispositions applicables à l'institution de formation du corps enseignant de l'association NMS Bern**
 
-<sup>1</sup> Les dispositions des articles 34 à 40 s’appliquent aux institutions de formation du corps enseignant rattachées et placées sous la responsabilité d’organismes privés.
+<sup>1</sup> Concernant l'institution de formation du corps enseignant de l'association NMS Bern,
+
+- a les articles 75 à 80 et 85 s'appliquent;
+- b les articles 46, 47 à 51, 54 à 56, 82 et 89 à 93 s'appliquent par analogie.
 
 ## 2 Formations de base et cours préparatoire aux formations de base
 
 #### Art. 3
 
-**Filières d’études des formations de base**
+**Filières d'études des formations de base**
 
-<sup>1</sup> La Haute école pédagogique propose les filières d’études suivantes pour les formations de base:
+<sup>1</sup> La Haute école pédagogique propose les filières d'études suivantes pour les formations de base:
 
-- a degré préscolaire et degré primaire,
+- a degré primaire,
 - b degré secondaire I,
 - c degré secondaire II,
-- d pédagogie curative scolaire.
+- d enseignement spécialisé.
 
-<sup>2</sup> Les objectifs à atteindre dans les filières d’études des formations de base sont fixés dans les objectifs et les directives du Conseil-exécutif.
+<sup>2</sup> Les objectifs à atteindre dans les filières d'études des formations de base sont fixés dans les objectifs et les directives du Conseil-exécutif.
 
 #### Art. 4
 
 **Cours préparatoire aux formations de base**
 
-<sup>1</sup> La Haute école pédagogique propose un cours préparant aux examens complémentaires nécessaires dans le cadre des procédures d’admission de personnes disposant des diplômes visés à l’article 35, alinéa 1, lettres c et d et à l’article 35a, alinéa 1, lettre b.
+<sup>1</sup> La Haute école pédagogique propose un cours préparant aux examens complémentaires nécessaires dans le cadre des procédures d'admission.
 
-## 3 Statut des collaborateurs et des collaboratrices
+## 3 Statut des collaboratrices et des collaborateurs
 
 ### 3.1 Dispositions communes
 
-#### Art. 4a
-
-**Gestion des postes**
-
-<sup>1</sup> Le recteur ou la rectrice est responsable de la gestion des postes et du controlling du personnel.
-
-<sup>2</sup> Il ou elle gère l’état des postes.
-
 #### Art. 5
-
-**Traitement**
-
-<sup>1</sup> Le conseil de l’école fixe le traitement initial du recteur ou de la rectrice et des responsables d’institut conformément à la législation sur le personnel.
-
-<sup>2</sup> L’autorité d’engagement compétente fixe le traitement initial des autres collaborateurs et collaboratrices conformément à la législation sur le personnel.
-
-#### Art. 6
-
-**Activités annexes 1. Compétence d’autorisation**
-
-<sup>1</sup> La compétence d’autoriser les activités annexes soumises à autorisation est dévolue aux responsables des collaborateurs et des collaboratrices concernés.
-
-<sup>2</sup> …
-
-<sup>3</sup> La demande d’autorisation doit être présentée en temps utile avant le commencement des activités annexes.
-
-#### Art. 7
-
-**2. Déclaration personnelle**
-
-<sup>1</sup> Les collaborateurs et les collaboratrices ayant un degré d’occupation d’au moins 20 pour cent communiquent chaque année au recteur ou à la rectrice sous forme de déclaration personnelle
-
-- a les activités annexes soumises à autorisation,
-- b le temps qui a été consacré à ces activités et à d’autres activités annexes,
-- c les revenus qui ont découlé de l’ensemble des activités annexes,
-- d l’infrastructure qu’ils ont utilisée à la Haute école pédagogique.
-
-<sup>2</sup> Le recteur ou la rectrice établit chaque année un rapport consolidé sur les activités annexes et le transmet pour information à l’Office de l’enseignement supérieur.
-
-<sup>3</sup> …
-
-#### Art. 8
-
-**3. Interdiction de remplacement**
-
-<sup>1</sup> Il n’est pas permis de se faire remplacer en raison d’une activité annexe.
-
-#### Art. 9
-
-**4. Indemnité pour l’utilisation de l’infrastructure**
-
-<sup>1</sup> Quiconque utilise l’infrastructure de la Haute école pédagogique pour l’exercice d’activités annexes doit verser une indemnité couvrant les coûts.
-
-<sup>2</sup> Il y a utilisation de l’infrastructure de la Haute école pédagogique notamment lorsque
-
-- a d’autres collaborateurs et collaboratrices fournissent des prestations pour les activités annexes ou effectuent des travaux supplémentaires découlant de ces activités,
-- b des appareils ou du matériel sont utilisés ou
-- c des locaux sont occupés.
-
-<sup>3</sup> S’il est prévisible que l’exercice d’une activité annexe nécessitera une utilisation de l’infrastructure de longue durée, l’indemnité doit être fixée par contrat entre le recteur ou la rectrice et le collaborateur ou la collaboratrice.
-
-<sup>4</sup> L’indemnité peut être calculée sur une base forfaitaire en fonction de valeurs de référence. Le recteur ou la rectrice fixe les valeurs de référence.
-
-#### Art. 10
-
-**Titre de professeur ou de professeure**
-
-<sup>1</sup> Le conseil de l’école fixe les conditions que les collaborateurs et les collaboratrices de la Haute école pédagogique doivent remplir pour avoir le droit de porter le titre de professeur ou de professeure. Le règlement est porté à la connaissance de la Direction de l’instruction publique et de la culture.
-
-<sup>2</sup> Le droit de porter le titre de professeur ou de professeure s’éteint en cas de cessation de l’activité à la Haute école pédagogique.
-
-#### Art. 10a
-
-**Assurance collective pour indemnités journalières en cas de maladie pour les collaborateurs et collaboratrices rétribués par des contributions de tiers**
-
-<sup>1</sup> La Haute école pédagogique peut conclure une assurance collective pour indemnités journalières en cas de maladie pour les collaborateurs et collaboratrices dont le traitement est financé par des contributions de tiers.
-
-<sup>2</sup> Si une assurance collective pour indemnités journalières en cas de maladie est conclue, les coûts doivent être financés au moyen du compte de contributions de tiers correspondant.
-
-<sup>3</sup> La participation à la prime est la même pour les collaborateurs et les collaboratrices dont le traitement est financé par des contributions de tiers que pour les collaborateurs et collaboratrices dont le traitement est financé par des fonds publics.
-
-#### Art. 10b
-
-**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps**
-
-<sup>1</sup> Les membres de la direction d’école ainsi que les enseignants et les enseignantes ne sont pas concernés par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire telles qu’elles sont prévues par la législation sur le personnel et n’ont pas de compte épargne-temps.
-
-### 3.2 Enseignants et enseignantes
-
-#### Art. 11
-
-**Mandat**
-
-<sup>1</sup> Les enseignants et les enseignantes exercent une activité dans l’enseignement et en règle générale dans des projets de recherche appliquée et de développement ou dans le domaine des prestations de service.
-
-<sup>2</sup> Ils sont tenus de collaborer et de participer à l’organisation et au fonctionnement de la Haute école pédagogique.
-
-<sup>3</sup> Ils sont tenus de se perfectionner en permanence dans leur domaine d’activité.
-
-<sup>4</sup> Le volume de chaque domaine d’activité est fixé dans chaque description de poste. Celle-ci est revue chaque année et adaptée selon les besoins.
-
-#### Art. 12
-
-**Temps de travail**
-
-<sup>1</sup> Le temps de travail annuel des enseignants et des enseignantes correspond en principe à celui du personnel de l’administration cantonale bernoise.
-
-<sup>2</sup> Un mandat d’enseignant ou d’enseignante de 16 heures hebdomadaires correspond en principe à un degré d’occupation de 100 pour cent.
-
-<sup>3</sup> Le conseil de l’école fixe les prestations contenues dans le mandat d’enseignant ou d’enseignante ainsi que le nombre d’heures hebdomadaires dérogeant au principe énoncé à l’alinéa 2 et consacré à des formes d’enseignement particulières. Le règlement requiert l’approbation de la Direction de l’instruction publique et de la culture.
-
-<sup>4</sup> Les enseignants et les enseignantes ayant un degré d’occupation de 100 pour cent sont déchargés de certaines parties de leur mandat d’enseignement s’ils travaillent à des projets de recherche et de développement ou dans le domaine des prestations de service. La décharge est proportionnelle au volume de leur activité dans ces projets ou au degré d’occupation dans le domaine des prestations de service.
-
-<sup>5</sup> Les enseignants et les enseignantes dont le degré d’occupation est inférieur à 100 pour cent peuvent être déchargés de certaines parties de leur mandat d’enseignement ou être engagés en plus de leur mandat, s’ils travaillent à des projets de recherche et de développement ou dans le domaine des prestations de service.
-
-#### Art. 12a
-
-**Taux d’occupation des enseignants et des enseignantes pratiquant une forme d’enseignement particulière**
-
-<sup>1</sup> Les enseignants et les enseignantes pratiquant une forme d’enseignement particulière peuvent être engagés à un taux d’occupation fluctuant dans une fourchette de 20 pour cent.
-
-<sup>2</sup> L’engagement des enseignants et des enseignantes peut être adapté à l’intérieur de la fourchette au début de chaque semestre moyennant un préavis de 30 jours.
-
-<sup>3</sup> Dans la législation sur le personnel et sur la Haute école pédagogique germanophone, le taux d’occupation effectif moyen des cinq dernières années est en principe déterminant pour les dispositions relatives au taux d’occupation.
-
-<sup>4</sup> Pour le calcul du droit aux vacances, aux jours de congé et à la formation continue, c’est le taux d’occupation effectif actuel à l’intérieur de la fourchette qui est déterminant.
-
-#### Art. 13
-
-**Exigences**
-
-<sup>1</sup> Les enseignants et les enseignantes de la formation de base pour le degré préscolaire et le degré primaire et de la formation continue qui ne remplissent pas les conditions énoncées à l’article 21, alinéa 1 LHEP peuvent être engagés à titre exceptionnel s’ils
-
-- a peuvent fournir autrement que par un diplôme de haute école dans la spécialité à enseigner la preuve de leurs aptitudes à exercer dans cette spécialité;
-- b peuvent fournir autrement que par un diplôme d’enseignement la preuve d’une expérience de l’enseignement de plusieurs années dans le domaine d’activité correspondant ou dans un domaine d’activité comparable.
-
-#### Art. 14
-
-**Classement**
-
-<sup>1</sup> Le classement des enseignants et des enseignantes est fixé conformément aux dispositions de la législation sur le personnel.
-
-<sup>2</sup> Les enseignants et les enseignantes auxquels un mandat d’enseignement à durée déterminée a été confié pour un semestre ou une année académique peuvent percevoir une rémunération forfaitaire ou être rétribués à la leçon.
-
-<sup>3</sup> Le tarif par leçon visé à l’alinéa 2 est de 85 à 260 francs selon la satisfaction des exigences techniques, méthodologiques et didactiques. Ni allocation familiale, ni allocation d’entretien ni 13e mois ne sont versés.
-
-#### Art. 15
-
-**Octroi d’indemnités de fonction**
-
-<sup>1</sup> Les enseignants et les enseignantes qui assument une fonction de direction dans l’enseignement, la recherche et le développement, les services ou la formation continue, peuvent être déchargés de certaines parties de leur mandat et perçoivent une indemnité de fonction annuelle de 2000 à 12 000 francs.
-
-<sup>2</sup> Le conseil de l’école fixe l’ampleur de l’allégement et le montant de l’indemnité de fonction. Le règlement est porté à la connaissance de la Direction de l’instruction publique et de la culture et de la Direction des finances.
-
-#### Art. 15a
-
-**…**
-
-#### Art. 15b
-
-**Engagement à durée déterminée**
-
-<sup>1</sup> L’article 16a, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^15b-1] ne s’applique pas aux enseignants et aux enseignantes.
-
-<sup>2</sup> Les enseignants et les enseignantes engagés pour une durée déterminée à la Haute école pédagogique germanophone depuis plus de cinq ans sans interruption ont droit aux rentes particulières prévues à l’article 33 LPers en cas de résiliation non fautive de leurs rapports de travail. Les articles 33 à 35 LPers s’appliquent par analogie.
-
-<sup>3</sup> La durée des engagements en tant qu’assistant ou assistante ou formateur ou formatrice en établissement n’entre pas dans le calcul de la durée d’engagement visée à l’alinéa 2.
-
-<sup>4</sup> La fin de rapports de travail à durée déterminée causée par l’expiration du contrat est assimilée à une résiliation non fautive des rapports de travail au sens de l’alinéa 2.
-
-<sup>5</sup> Si aucun nouveau contrat de travail n’est conclu après la fin de rapports de travail à durée déterminée au sens de l’alinéa 2, le supérieur ou la supérieure hiérarchique doit en informer l’enseignant ou l’enseignante concernée au moins trois mois avant la fin du contrat. En cas de manquement à cette obligation, les rapports de travail sont prolongés de trois mois.
-
-<sup>6</sup> La Haute école pédagogique germanophone indemnise l’institution de prévoyance compétente pour les prestations et la charge administrative supplémentaires ainsi que les pertes de recettes résultant des droits à des rentes particulières visés à l’alinéa 2.
-
-[^15b-1]: RSB 153.01
-
-#### Art. 16
-
-**Fin de l’engagement**
-
-<sup>1</sup> Les enseignants et les enseignantes ainsi que l’autorité d'engagement peuvent résilier par écrit l’engagement pour la fin d’un semestre, moyennant un préavis de trois mois.
-
-<sup>2</sup> Les parties peuvent s’entendre sur un autre terme ou délai de préavis que ceux mentionnés à l’alinéa 1.
-
-#### Art. 17
-
-**Départ à la retraite**
-
-<sup>1</sup> Les enseignants et les enseignantes prennent en règle générale leur retraite au plus tard à la fin du semestre au cours duquel ils atteignent l’âge de 65 ans.
-
-<sup>2</sup> Dans des cas motivés, l’autorité d'engagement peut autoriser un enseignant ou une enseignante à prendre sa retraite à la fin du mois au cours duquel il ou elle atteint l’âge de 65 ans.
-
-#### Art. 18
-
-**Congés de recherche ou de formation 1. Principe et compétence**
-
-<sup>1</sup> Des congés de recherche ou de formation sont accordés afin que les enseignants et les enseignantes puissent se consacrer à des travaux scientifiques et à une formation continue dans leur domaine de spécialité en étant déchargés de toute obligation d’enseignement.
-
-<sup>2</sup> L’élargissement ou le développement des compétences que vise l’enseignant ou l’enseignante en prenant le congé de recherche ou de formation doit présenter un intérêt pour la Haute école pédagogique.
-
-<sup>3</sup> La compétence d’accorder des congés de recherche ou de formation à des enseignants ou enseignantes est dévolue au recteur ou à la rectrice.
-
-<sup>4</sup> Le ou la responsable d’institut coordonne les demandes de congé des membres de son corps enseignant et veille à ce que les activités d’enseignement et de recherche ainsi que les services et les tâches administratives continuent d’être assurés.
-
-#### Art. 19
-
-**2. Nombre et durée**
-
-<sup>1</sup> Un enseignant ou une enseignante ne peut obtenir plus de 18 mois de congé pendant toute la durée de son engagement à la Haute école pédagogique.
-
-<sup>2</sup> Un congé de recherche ou de formation dure en règle générale un semestre.
-
-#### Art. 20
-
-**3. Demande, rapports**
-
-<sup>1</sup> En règle générale, un enseignant ou une enseignante doit faire parvenir sa demande de congé au recteur ou à la rectrice par la voie de service au moins une année avant le début du congé.
-
-<sup>2</sup> La demande de congé doit être motivée. Elle doit en particulier contenir des indications sur le projet envisagé.
-
-<sup>3</sup> Une fois le congé terminé, il doit faire l’objet d’un rapport écrit au recteur ou à la rectrice.
-
-#### Art. 21
-
-**4. Conditions**
-
-<sup>1</sup> Les conditions d’octroi d’un congé de recherche ou de formation sont
-
-- a un degré d’occupation de 50 pour cent au moins,
-- b un engagement à durée indéterminée,
-- c l’accomplissement de six années de service révolues et
-- d la satisfaction de l’exigence formulée à l’article 18, alinéa 2.
-
-<sup>2</sup> Pour le calcul des années de service, les années accomplies dans les instituts de formation du personnel enseignant du canton de Berne ainsi qu’à la section du «Höheres Lehramt» de l’Université de Berne doivent être prises en compte. Les congés de recherche ou de formation ne sont pas comptabilisés dans les années de service.
-
-<sup>3</sup> Le dernier congé de recherche ou de formation doit normalement être commencé au plus tard trois ans avant que la limite d’âge soit atteinte.
-
-<sup>4</sup> A titre exceptionnel et pour de justes motifs, il peut être dérogé aux conditions énoncées à l’alinéa 1.
-
-#### Art. 22
-
-**5. Remplacement**
-
-<sup>1</sup> Le ou la responsable d’institut veille à ce que les remplacements soient assurés pendant les congés.
-
-<sup>2</sup> Les remplacements sont financés par la réduction salariale de dix pour cent et par d’autres fonds de la Haute école pédagogique.
-
-#### Art. 23
-
-**6. Ajournement**
-
-<sup>1</sup> Si un congé de recherche ou de formation doit être ajourné pour un juste motif, la durée d’attente avant le prochain congé peut être réduite en conséquence.
-
-<sup>2</sup> Si un congé de recherche ou de formation doit être avancé pour un juste motif, la durée d’attente avant le prochain congé peut être prolongée en conséquence.
-
-#### Art. 24
-
-**7. Obligation de rembourser**
-
-<sup>1</sup> Si l’enseignant ou l’enseignante quitte le service du canton pendant le congé ou dans les deux ans suivant le congé, le traitement perçu pendant le congé (allocations familiales et allocations d’entretien exclues) doit être remboursé dans les proportions suivantes:
-
-- a 100 pour cent s’il ou si elle quitte le service du canton pendant le congé;
-- b 50 pour cent s’il ou si elle quitte le service du canton dans l’année qui suit le congé;
-- c 25 pour cent s’il ou si elle quitte le service du canton au cours de la deuxième année qui suit le congé.
-
-<sup>2</sup> L’obligation de rembourser ne s’applique pas en cas de décès ou d’invalidité de l’enseignant ou de l’enseignante.
-
-<sup>3</sup> Si l’obligation de rembourser constitue une situation de rigueur particulière pour l’enseignant ou l’enseignante, le recteur ou la rectrice peut renoncer totalement ou partiellement au remboursement.
-
-#### Art. 25
-
-**Activités annexes**
-
-<sup>1</sup> Les activités annexes suivantes, exercées dans le domaine de spécialité d’un enseignant ou d’une enseignante, ne sont pas soumises à autorisation:
-
-- a les mandats d’enseignement dans d’autres hautes écoles suisses, s’ils ne représentent pas plus de deux leçons par semaine,
-- b les mandats d’enseignement dans d’autres écoles suisses, s’ils ne représentent pas plus de deux leçons par semaine,
-- c les charges d’enseignement occasionnelles pour la formation continue en dehors de la Haute école pédagogique,
-- d les prestations de service fournies occasionnellement, telles que les exposés, les publications scientifiques, l’activité d’expert ou d’experte d’examen ainsi que la collaboration à des instances scientifiques, artistiques et spécialisées en dehors de la Haute école pédagogique.
-
-<sup>2</sup> Toutes les autres activités annexes, notamment des mandats permanents en matière de conseil ou de formation continue ainsi que des mandats d’administrateur ou d’administratrice sont régies par les dispositions des articles 6 à 9.
-
-### 3.3 Assistants et assistantes
-
-#### Art. 26
 
 **Catégories**
 
-<sup>1</sup> Les assistants et assistantes se répartissent en
+<sup>1</sup> Il convient de distinguer les catégories suivantes de collaboratrices et de collaborateurs:
 
-- a maîtres assistants et maîtres assistantes,
-- b assistants et assistantes scientifiques,
-- c assistants et assistantes auxiliaires.
+- a enseignantes et enseignants,
+- b assistantes et assistants,
+- c formatrices et formateurs en établissement avec mandat de base ou mandat élargi,
+- d autres collaboratrices et collaborateurs.
+
+<sup>2</sup> Le personnel financé par des fonds de tiers au sens de l'article 11, alinéa 3 LHEP fait partie, selon ses qualifications et son statut, de l'une des catégories visées à l'alinéa 1.
+
+#### Art. 6
+
+**Gestion des postes et controlling du personnel**
+
+<sup>1</sup> La rectrice ou le recteur assume la responsabilité générale de la gestion des postes et du controlling du personnel au sein de la Haute école pédagogique.
+
+#### Art. 7
+
+**Compétences en matière d'engagement**
+
+<sup>1</sup> Sont compétents
+
+- a le conseil de l'école pour l'engagement de la rectrice ou du recteur et des membres de la direction de l'école habilités à voter,
+- b la rectrice ou le recteur pour l'engagement des autres collaboratrices et collaborateurs.
+
+<sup>2</sup> Dans les statuts, la compétence de la rectrice ou du recteur peut être déléguée aux unités administratives qui lui sont directement subordonnées.
+
+#### Art. 8
+
+**Compétences en matière de fixation des traitements**
+
+<sup>1</sup> Le conseil de l'école fixe, conformément à la législation sur le personnel, le traitement initial de la rectrice ou du recteur et des membres de la direction de l'école habilités à voter.
+
+<sup>2</sup> L'autorité d'engagement compétente fixe le traitement initial des autres collaboratrices et collaborateurs conformément à la législation sur le personnel.
+
+#### Art. 9
+
+**Durée du contrat**
+
+<sup>1</sup> L'article 16a, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^9-1] ne s'applique pas
+
+- a aux assistantes et aux assistants,
+- b aux formatrices et aux formateurs en établissement avec mandat élargi,
+- c au personnel financé par des fonds de tiers.
+
+[^9-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
+
+#### Art. 10
+
+**Libération des fonctions d'une collaboratrice ou d'un collaborateur engagé pour une durée déterminée**
+
+<sup>1</sup> L'autorité d'engagement peut libérer de ses fonctions, avant la ​fin de ses rapports de travail, une collaboratrice ou un collaborateur engagé pour une durée déterminée lorsque cette libération est dans l’intérêt public.
+
+<sup>2</sup> Une collaboratrice ou un collaborateur peut être libéré de ses fonctions au plus tôt trois mois avant la fin des rapports de travail par expiration du contrat.
+
+<sup>3</sup> Au surplus, les dispositions de la législation sur le personnel concernant la libération des fonctions s'appliquent par analogie.
+
+#### Art. 11
+
+**Conséquences de la fin des rapports de travail**
+
+<sup>1</sup> À la fin des rapports de travail, les personnes suivantes n'ont pas droit aux indemnités et rentes prévues aux articles 32 et 33 LPers:
+
+- a les assistantes et les assistants,
+- b les formatrices et les formateurs en établissement avec mandat élargi,
+- c le personnel financé par des fonds de tiers.
+
+#### Art. 12
+
+**Degré d'occupation**
+
+<sup>1</sup> Le degré d'occupation des collaboratrices et des collaborateurs peut être défini par un pourcentage ou par une fourchette.
+
+<sup>2</sup> Si le degré d'occupation est défini par une fourchette, la différence entre la valeur supérieure et la valeur inférieure de cette fourchette ne peut pas dépasser 20 pour cent.
+
+#### Art. 13
+
+**Entretien d'évaluation périodique**
+
+<sup>1</sup> Les supérieures et les supérieurs ont à intervalles réguliers avec chacune de leurs collaboratrices et chacun de leurs collaborateurs un entretien d'évaluation périodique au cours duquel est dressé un bilan.
+
+<sup>2</sup> L'entretien d'évaluation périodique porte essentiellement sur la détermination des objectifs à atteindre, les conditions et l’ambiance de travail, l’évolution et les perspectives professionnelles ainsi que sur l’évaluation des performances et du comportement de la collaboratrice ou du collaborateur concerné.
+
+<sup>3</sup> Il est mené une fois par an, si le traitement de la collaboratrice ou du collaborateur concerné dépend de l'évaluation des performances et du comportement.
+
+#### Art. 14
+
+**Révision de l'appréciation résultant de l'entretien d'évaluation périodique**
+
+<sup>1</sup> Si elle ou il estime que l'appréciation de ses performances et de son comportement est incorrecte ou contraire à la réalité, une collaboratrice ou un collaborateur peut s'adresser à la supérieure ou au supérieur de sa supérieure ou de son supérieur hiérarchique dans un délai de dix jours suivant la réception des résultats écrits de l'entretien d'évaluation périodique afin d'en demander la révision.
+
+<sup>2</sup> La révision au sens de l'alinéa 1 est réalisée dans le cadre d'un entretien dont le résultat est consigné par écrit.
+
+<sup>3</sup> Si elle ou il n'est pas d'accord avec le résultat de la révision, la collaboratrice ou le collaborateur peut remettre une déclaration écrite en ce sens pour son dossier personnel.
+
+#### Art. 15
+
+**Financement de la progression du traitement**
+
+<sup>1</sup> La part de la ​masse salariale que le Conseil-exécutif alloue chaque année à la progression générale et à la ​progression individuelle des traitements s'applique par analogie à la Haute école pédagogique.
+
+#### Art. 16
+
+**Organisation de l’entretien d’évaluation périodique, de l’évaluation des performances et du comportement ainsi que de la progression individuelle du traitement**
+
+<sup>1</sup> Au surplus, le conseil de l'école définit, par voie de règlement, les modalités relatives à l'entretien d'évaluation périodique, à l'évaluation des performances et du comportement ainsi qu'à la progression individuelle du traitement.
+
+#### Art. 17
+
+**Modèle de temps de travail**
+
+<sup>1</sup> Le conseil de l'école édicte, par voie de règlement, les dispositions dérogeant à la législation sur le personnel dans les domaines suivants pour les collaboratrices et les collaborateurs concernés par des rapports de travail spécifiques à la haute école:
+
+- a l'indemnisation des soldes de vacances et des soldes horaires,
+- b les comptes épargne-temps,
+- c le droit à des indemnités supplémentaires pour le travail effectué dans des conditions spéciales et leur montant,
+- d le report maximum du solde d'heures de travail annuel,
+- e la saisie du temps de travail et les vacances,
+- f les congés de courte durée,
+- g la prime de fidélité.
+
+<sup>2</sup> Le conseil de l'école informe en temps utile les associations de personnel de toutes les dispositions dérogeant à la législation sur le personnel dans les domaines énumérés à l'alinéa 1.
+
+<sup>3</sup> Il consulte les associations de personnel avant d’édicter des dérogations importantes et entretient, en fonction des besoins, un dialogue avec elles.
+
+#### Art. 18
+
+**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps des membres de la direction habilités à voter ainsi que des enseignantes et des enseignants**
+
+<sup>1</sup> Les membres de la direction de l’école habilités à voter ainsi que les enseignantes et les enseignants ne sont ni concernés par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire et n’ont pas de compte épargne-temps.
+
+#### Art. 19
+
+**Travail de nuit et de fin de semaine**
+
+<sup>1</sup> Pour fixer le cadre de l'horaire de travail de nuit et de fin de semaine, les normes minimales suivantes s'appliquent:
+
+- a Est considéré comme travail de nuit le travail accompli entre 23 heures et 6 heures.
+- b Est considéré comme travail de fin de semaine le travail accompli le dimanche et les jours fériés officiels entre 6 heures et 23 heures.
+
+#### Art. 20
+
+**Report et compensation du solde annuel d'heures de travail**
+
+<sup>1</sup> Le conseil de l'école fixe, par voie de règlement, le report et la compensation du solde annuel d'heures de travail à la fin de la période annuelle de décompte pour les collaboratrices et les collaborateurs concernés par des rapports de travail spécifiques à la haute école.
+
+<sup>2</sup> Un solde maximal de 200 heures en plus ou en moins ne peut pas être dépassé par période de décompte. Dans des cas exceptionnels motivés, le report d'un solde horaire supérieur sur l'année suivante est possible avec l'autorisation de la rectrice ou du recteur.
+
+#### Art. 21
+
+**Remboursement des frais**
+
+<sup>1</sup> Les frais occasionnés aux collaboratrices et aux collaborateurs par l'accomplissement de leurs tâches leur sont remboursés.
+
+<sup>2</sup> Le conseil de l'école fixe les modalités de détail par voie de règlement. Celui-ci est porté à la connaissance de la Direction de l'instruction publique et de la culture.
+
+#### Art. 22
+
+**Activités annexes**
+
+<sup>1</sup> Les activités annexes sont autorisées pour autant qu'elles n'entravent ni l'accomplissement des tâches des collaboratrices et des collaborateurs, ni le fonctionnement de la Haute école pédagogique. Il y a entrave en particulier lorsque l'activité annexe est incompatible avec la fonction, qu'il y a un conflit d'intérêts ou que la capacité de travail de la collaboratrice ou du collaborateur est mise à contribution durablement et considérablement.
+
+<sup>2</sup> Le conseil de l'école fixe les modalités de détail par voie de règlement, en particulier concernant l'obligation d'autoriser, de déclarer et de publier, ainsi que l'indemnisation. Le règlement est porté à la connaissance de la Direction de l'instruction publique et de la culture.
+
+<sup>3</sup> La rectrice ou le recteur
+
+- a vérifie les déclarations annuelles concernant les activités annexes et informe le conseil de l'école des résultats;
+- b rédige chaque année un rapport sur les activités annexes ainsi que sur les éventuelles mesures prises et le porte à la connaissance de l'Office de l'enseignement supérieur.
+
+#### Art. 23
+
+**Publication des mandats exercés dans des conseils de fondation ou dans des conseils d'administration**
+
+<sup>1</sup> Les mandats exercés dans des conseils de fondation ou des conseils d'administration par des membres de la direction de l'école ou par des enseignantes ou des enseignants ayant un degré d'occupation élevé sont publiés chaque année sur le site Internet de la Haute école pédagogique.
+
+#### Art. 24
+
+**Désignation de la fonction de professeure ou de professeur**
+
+<sup>1</sup> Le conseil de l'école fixe, par voie de règlement, les conditions que les collaboratrices et les collaborateurs de la Haute école pédagogique doivent remplir pour avoir le droit d'être appelés professeure ou professeur. Le règlement est porté à la connaissance de la Direction de l'instruction publique et de la culture.
+
+<sup>2</sup> Le droit d'être appelée professeure ou professeur s'éteint à la cessation de l'activité dans la Haute école pédagogique.
+
+### 3.2 Enseignantes et enseignants
+
+#### Art. 25
+
+**Mandat**
+
+<sup>1</sup> Les enseignantes et les enseignants exercent une activité dans l'enseignement et en règle générale dans des projets de recherche appliquée et de développement ou dans le domaine des prestations de service.
+
+<sup>2</sup> Ils sont tenus
+
+- a de collaborer et de participer à l'organisation et au fonctionnement de la Haute école pédagogique;
+- b de se perfectionner en permanence dans leur domaine d'activité.
+
+<sup>3</sup> Le volume de chaque domaine d'activité est fixé dans chaque description de poste. Celle-ci est revue tous les ans et adaptée selon les besoins.
+
+#### Art. 26
+
+**Temps de travail**
+
+<sup>1</sup> Le temps de travail annuel des enseignantes et des enseignants correspond en principe à celui du personnel de l'administration cantonale bernoise.
+
+<sup>2</sup> Un mandat d'enseignante ou d'enseignant de 16 heures hebdomadaires correspond en principe à un degré d'occupation de 100 pour cent.
+
+<sup>3</sup> Le conseil de l'école fixe, par voie de règlement, les prestations contenues dans le mandat d'enseignante ou d'enseignant ainsi que le nombre d'heures hebdomadaires dérogeant au principe énoncé à l'alinéa 2 et consacré à des formes d'enseignement particulières.
 
 #### Art. 27
 
-**Exigences**
+**Décharge du mandat**
 
-<sup>1</sup> L’engagement comme maître assistant ou maître assistante requiert un doctorat.
+<sup>1</sup> Les enseignantes et les enseignants ayant un degré d'occupation de 100 pour cent sont déchargés de certaines parties de leur mandat d'enseignement s'ils travaillent à des projets de recherche et développement ou dans le domaine des prestations de service. La décharge est fonction du volume de leur activité dans ces projets ou du degré d'occupation dans le domaine des prestations de service.
 
-<sup>2</sup> L’engagement comme assistant ou assistante scientifique requiert un master, un diplôme universitaire équivalent, un examen d’Etat équivalent ou un autre titre de fin d’études au degré tertiaire.
-
-<sup>3</sup> L’engagement comme assistant ou assistante auxiliaire requiert l’immatriculation en tant qu’étudiant ou étudiante dans une haute école.
+<sup>2</sup> Les enseignantes et les enseignants dont le degré d'occupation est inférieur à 100 pour cent peuvent être déchargés de certaines parties de leur mandat d'enseignement ou être engagés en plus de leur mandat, s'ils travaillent à des projets de recherche et développement ou dans le domaine des prestations de service.
 
 #### Art. 28
 
-**Mandat 1. Maîtres assistants et maîtres assistantes, assistants et assistantes scientifiques**
+**Exigences**
 
-<sup>1</sup> Les maîtres assistants et maîtres assistantes ainsi que les assistants et les assistantes scientifiques peuvent en particulier être employés pour
+<sup>1</sup> Les enseignantes et les enseignants de la formation de base pour le degré primaire et de la formation continue qui ne remplissent pas les conditions énoncées à l’article 21, alinéa 1 LHEP peuvent être engagés à titre exceptionnel s’ils
 
-- a participer à la préparation, à la conduite et à l’évaluation de cours,
-- b conduire des cours dispensés en parallèle,
-- c collaborer à des projets de recherche et de développement,
-- d accomplir des mandats dans le domaine des prestations de service.
-
-<sup>2</sup> En règle générale, ils poursuivent simultanément leurs propres travaux scientifiques, notamment la thèse ou l’habilitation.
-
-<sup>3</sup> Ils ont le droit de consacrer un tiers de leur temps de travail à leurs propres travaux scientifiques.
+- a peuvent fournir autrement que par un diplôme de haute école dans la spécialité à enseigner la preuve de leurs aptitudes à exercer dans cette spécialité;
+- b peuvent fournir autrement que par un diplôme d’enseignement la preuve d'une expérience de l'enseignement de plusieurs années dans le domaine d'activité correspondant ou dans un domaine d'activité comparable.
 
 #### Art. 29
 
-**2. Assistants et assistantes auxiliaires**
+**Classement**
 
-<sup>1</sup> Les assistants et les assistantes auxiliaires sont employés en fonction de leurs compétences et de leur niveau de formation, en particulier pour
+<sup>1</sup> Le classement des enseignantes et des enseignants est fixé conformément aux dispositions de la législation sur le personnel.
 
-- a participer à la préparation, à la conduite et à l’évaluation de cours;
-- b collaborer à des projets de recherche et de développement;
-- c accomplir des mandats dans le domaine des prestations de service.
+<sup>2</sup> Les enseignantes et les enseignants auxquels un mandat d'enseignement à durée déterminée a été confié pour un semestre ou une année académique peuvent percevoir une rémunération forfaitaire ou être rétribués à la leçon.
+
+<sup>3</sup> Le tarif par leçon visé à l'alinéa 2 est de 85 à 260 francs selon la satisfaction des exigences techniques, méthodologiques et didactiques. Ni allocation familiale, ni allocation d'entretien, ni 13<sup>e</sup> mois ne sont versés.
 
 #### Art. 30
 
-**Durée de l’engagement**
+**Octroi d'indemnités de fonction**
 
-<sup>1</sup> La durée d’engagement des maîtres assistants et des maîtres assistantes ainsi que des assistants et des assistantes scientifiques est limitée à six ans.
+<sup>1</sup> Les enseignantes et les enseignants qui assument des fonctions de direction dans l'enseignement, la recherche et développement, les services ou la formation continue peuvent être déchargés de certaines parties de leur mandat et perçoivent une indemnité de fonction annuelle de 2000 à 12'000 francs.
 
-<sup>2</sup> La durée totale des engagements en tant que maître assistant ou maître assistante et assistant ou assistante scientifique est de dix ans au plus. L’autorité d'engagement peut, pour de justes motifs, prolonger la durée de l’engagement de deux ans au plus.
-
-<sup>3</sup> La durée de l’engagement en tant qu’assistant ou assistante auxiliaire est de cinq ans au plus.
-
-#### Art. 30a
-
-**Engagement à durée déterminée**
-
-<sup>1</sup> L’article 16a, alinéa 2 LPers ne s’applique pas aux assistants et aux assistantes.
+<sup>2</sup> Le conseil de l'école fixe l'ampleur de l'allégement et le montant de l'indemnité de fonction par voie de règlement. Celui-ci est porté à la connaissance de la Direction de l’instruction publique et de la culture.
 
 #### Art. 31
 
-**Fin de l’engagement**
+**Résiliation des rapports de travail**
 
-<sup>1</sup> Chacune des parties peut, avant l’échéance de l’engagement à durée déterminée, résilier celui-ci pour la fin d’un mois moyennant les délais de préavis suivants:
+<sup>1</sup> L'autorité d'engagement ainsi que les enseignantes et les enseignants peuvent résilier les rapports de travail par écrit pour la fin d’un semestre, moyennant un préavis de trois mois.
 
-- a un mois lorsque l’engagement a duré un an au maximum,
-- b deux mois lorsque l’engagement a duré plus d’un an.
-
-### 3.4 Formateurs et formatrices en établissement
+<sup>2</sup> Les parties peuvent s'entendre sur un autre terme de résiliation ou un autre délai de préavis.
 
 #### Art. 32
 
-**Catégories et mandat**
+**Départ à la retraite**
 
-<sup>1</sup> Les formateurs et formatrices en établissement se répartissent en
+<sup>1</sup> Les enseignantes et les enseignants prennent en règle générale leur retraite au plus tard à la fin du semestre au cours duquel ils atteignent l'âge de 65 ans.
 
-- a formateurs et formatrices en établissement avec mandat élargi,
-- b formateurs et formatrices en établissement avec mandat de base.
-
-<sup>2</sup> Le mandat élargi comprend la collaboration à la planification de la formation professionnelle pratique, la collaboration à des unités de formation qui préparent aux stages et dans le cadre desquelles ceux-ci sont évalués et d’autres tâches qui découlent de la collaboration avec les enseignants et les enseignantes.
-
-<sup>3</sup> Le mandat de base comprend la préparation, la conduite et l’évaluation des stages des étudiants et des étudiantes.
+<sup>2</sup> Dans des cas motivés, l'autorité d'engagement peut autoriser une enseignante ou un enseignant à prendre sa retraite à la fin du mois au cours duquel elle ou il atteint l'âge de 65 ans.
 
 #### Art. 33
 
-**Classement**
+**Congés de recherche ou de formation**
 
-<sup>1</sup> Le classement des formateurs et des formatrices en établissement avec mandat élargi est fixé conformément aux dispositions de la législation sur le personnel.
+<sup>1</sup> Un congé de recherche ou de formation permet à une enseignante ou à un enseignant de se consacrer à des travaux scientifiques ou à une formation continue dans son domaine de spécialité en étant déchargé de toute obligation liée à son mandat.
 
-<sup>2</sup> Une indemnité de 350 francs par semaine de stage est versée aux formateurs et aux formatrices en établissement avec mandat de base qui s’occupent totalement de l’encadrement d’un étudiant ou d’une étudiante pendant son stage.
+<sup>2</sup> L'élargissement ou le développement des compétences que vise l'enseignante ou l'enseignant en prenant le congé de recherche ou de formation doit présenter un intérêt pour la Haute école pédagogique.
 
-<sup>3</sup> Pour l’encadrement simultané de plus d’un étudiant ou d’une étudiante, une indemnité de 200 à 300 francs par étudiant ou étudiante et par semaine de stage est versée.
+<sup>3</sup> Le conseil de l'école fixe, par voie de règlement, les modalités de détail concernant l'octroi et la durée du congé de recherche ou de formation ainsi que les droits et les obligations qui y sont liés.
 
-<sup>4</sup> Le conseil de l’école fixe les indemnités pour les différentes formes de stage conformément à l’alinéa 3 ainsi que les indemnités versées en cas d’encadrement à temps partiel. Le règlement édicté est porté à la connaissance de la Direction de l’instruction publique et de la culture.
-
-#### Art. 33a
-
-**Engagement à durée déterminée**
-
-<sup>1</sup> L’article 16a, alinéa 2 LPers ne s’applique pas aux formateurs et aux formatrices en établissement avec mandat élargi.
-
-## 4 Admission aux formations de base
-
-### 4.1 Conditions d’admission
+### 3.3 Assistantes et assistants
 
 #### Art. 34
 
-**Principe**
+**Catégories**
 
-<sup>1</sup> Quiconque désire étudier et passer des examens à la Haute école pédagogique doit satisfaire aux conditions d’admission et être immatriculé.
+<sup>1</sup> Les assistantes et les assistants se répartissent en
+
+- a maîtres assistantes et maîtres assistants,
+- b assistantes et assistants scientifiques,
+- c assistantes et assistants auxiliaires.
 
 #### Art. 35
 
-**Degré préscolaire et degré primaire**
+**Exigences**
 
-<sup>1</sup> Est admis aux études pour le degré préscolaire et le degré primaire quiconque a accompli une formation préalable sanctionnée par
+<sup>1</sup> L'engagement comme maître assistante ou maître assistant requiert un doctorat.
 
-- a une maturité fédérale ou une maturité gymnasiale reconnue à l’échelon national,
-- b une maturité spécialisée orientation pédagogie,
-- c une maturité professionnelle conforme aux conditions fixées par le Conseil suisse des hautes écoles sur la base du droit fédéral ou
-- d un diplôme équivalent aux formations préalables mentionnées aux lettres a à c.
+<sup>2</sup> L'engagement comme assistante ou assistant scientifique requiert un master, un diplôme universitaire équivalent, un examen d'État équivalent ou un autre titre de fin d'études au degré tertiaire.
 
-<sup>2</sup> Le recteur ou la rectrice statue sur la reconnaissance de l’équivalence d’un diplôme au sens de l’alinéa 1, lettre d. A cet effet, il ou elle se base sur les directives du Conseil suisse des hautes écoles.
-
-<sup>3</sup> Les règlements relatifs aux examens complémentaires nécessaires dans le cadre des procédures d’admission de personnes disposant des diplômes visés à l’alinéa 1, lettre c et d sont édictés par le conseil de l’école. Ils requièrent l’approbation de la Direction de l’instruction publique et de la culture.
-
-<sup>4</sup> …
-
-#### Art. 35a
-
-**Degré secondaire I**
-
-<sup>1</sup> Est admis aux études pour le degré secondaire I quiconque a accompli une formation préalable sanctionnée par
-
-- a une maturité fédérale ou une maturité gymnasiale reconnue à l’échelon national ou
-- b un diplôme équivalent aux formations préalables mentionnées à la lettre a.
-
-<sup>2</sup> Le recteur ou la rectrice statue sur la reconnaissance de l’équivalence d’un diplôme au sens de l’alinéa 1, lettre b. A cet effet, il ou elle se base sur les directives du Conseil suisse des hautes écoles.
-
-<sup>3</sup> Les règlements relatifs aux examens complémentaires nécessaires dans le cadre des procédures d’admission de personnes disposant des diplômes visés à l’alinéa 1, lettre b sont édictés par le conseil de l’école. Ils requièrent l’approbation de la Direction de l’instruction publique et de la culture.
+<sup>3</sup> L'engagement comme assistante ou assistant auxiliaire requiert l'immatriculation en tant qu'étudiante ou étudiant dans une haute école.
 
 #### Art. 36
 
-**Degré secondaire II**
+**Mandat des maîtres assistantes et des maîtres assistants ainsi que des assistantes et des assistants scientifiques**
 
-<sup>1</sup> Est admis aux études pour le degré secondaire II quiconque a au moins obtenu un diplôme universitaire intermédiaire dans les disciplines ayant trait à la formation ou un diplôme intermédiaire d’une haute école spécialisée dans des domaines dans lesquels aucune formation universitaire n’est proposée.
+<sup>1</sup> Les maîtres assistantes et maîtres assistants ainsi que les assistantes et les assistants scientifiques peuvent en particulier
 
-<sup>2</sup> Avant l’obtention du diplôme de la Haute école pédagogique germanophone, il faut avoir achevé ses études dans les disciplines spécialisées au sens de l’alinéa 1 en ayant obtenu un master ou un diplôme équivalent.
+- a participer à la préparation, à la tenue et à l'évaluation de cours;
+- b donner des cours dispensés en parallèle;
+- c collaborer à des projets de recherche et développement;
+- d accomplir des mandats dans le domaine des prestations de service.
 
-<sup>3</sup> Si le diplôme de la Haute école pédagogique germanophone est obtenu dans une spécialité, il faut avoir réussi ses études dans cette spécialité en tant que branche principale ou major avec au moins 120 points ECTS.
+<sup>2</sup> En règle générale, ils poursuivent simultanément leurs propres travaux scientifiques, notamment la thèse ou l'habilitation.
 
-<sup>4</sup> Si le diplôme de la Haute école pédagogique germanophone est obtenu dans deux spécialités, il faut avoir réussi ses études dans la première spécialité en tant que branche principale ou major avec au moins 120 points ECTS et dans la seconde spécialité en tant que branche secondaire ou minor avec au moins 90 points ECTS.
-
-<sup>5</sup> Si le diplôme obtenu à la Haute école pédagogique germanophone constitue un diplôme additionnel, il faut avoir réussi ses études dans la spécialité correspondante en tant que branche secondaire ou minor avec au moins 90 points ECTS.
-
-<sup>6</sup> Le recteur ou la rectrice statue sur la reconnaissance de l’équivalence d’un diplôme au sens de l’alinéa 2.
+<sup>3</sup> Ils ont le droit de consacrer un tiers de leur temps de travail à leurs propres travaux scientifiques.
 
 #### Art. 37
 
-**Pédagogie curative scolaire**
+**Mandat des assistantes et des assistants auxiliaires**
 
-<sup>1</sup> …
+<sup>1</sup> Les assistantes et les assistants auxiliaires sont employés en fonction de leurs compétences et de leur niveau de formation, en particulier pour
 
-<sup>2</sup> Le recteur ou la rectrice statue sur la reconnaissance de l’équivalence des formations préalables, visées à l'article 27, alinéa 1 LHEP, sanctionnées par un diplôme étranger.
+- a participer à la préparation, à la tenue et à l’évaluation de cours;
+- b collaborer à des projets de recherche et développement;
+- c accomplir des mandats dans le domaine des prestations de service.
 
 #### Art. 38
 
-**…**
+**Durée de l'engagement**
 
-#### Art. 38a
+<sup>1</sup> La durée d'engagement des maîtres assistantes et des maîtres assistants ainsi que des assistantes et des assistants scientifiques est limitée à six ans.
 
-**Admission après exclusion définitive**
+<sup>2</sup> La durée totale des engagements en tant que maître assistante ou maître assistant et en tant qu'assistante ou assistant scientifique est de dix ans au maximum. L'autorité d'engagement peut, pour de justes motifs, prolonger la durée de l'engagement de deux ans au maximum.
 
-<sup>1</sup> A l’expiration d’un délai de carence de deux ans après l’exclusion définitive d’une autre haute école au sens de l’article 27a LHEP, peut être admis à la même filière d’études quiconque peut prouver que les lacunes ayant conduit à l’exclusion ont été comblées depuis lors.
-
-<sup>2</sup> Une admission immédiate est possible si l’exclusion a été prononcée par l’autre haute école en raison de l’échec à une discipline ou un module qui n’est pas proposé dans la filière correspondante de la Haute école pédagogique germanophone.
-
-<sup>3</sup> Les autres conditions d’admission sont réservées.
-
-### 4.2 Restrictions d’admission
+<sup>3</sup> La durée de l'engagement en tant qu'assistante ou assistant auxiliaire est de cinq ans au maximum.
 
 #### Art. 39
 
-**Principe**
+**Résiliation des rapports de travail**
 
-<sup>1</sup> Tous les moyens permettant aux candidats et aux candidates d’accéder à des filières d’études menacées de restrictions d’admission doivent être mis en œuvre, pour autant que le financement puisse être assuré et que la qualité de l’enseignement reste acceptable.
+<sup>1</sup> Chacune des parties peut, avant l'échéance de l'engagement à durée déterminée, résilier celui-ci pour la fin d'un mois moyennant les délais de préavis suivants:
 
-<sup>2</sup> Le Conseil-exécutif peut, sur proposition du conseil de l’école et aux conditions de l’alinéa 1 et de l’article 30, alinéa 2 LHEP[^39-1], fixer le nombre de places pour la filière d’études concernée et décider que les candidats et candidates à cette filière doivent se soumettre à une procédure permettant de déterminer leurs aptitudes à y être admis.
+- a un mois pendant la première année de service,
+- b deux mois à partir de la deuxième année de service.
 
-[^39-1]: RSB 436.91
+### 3.4 Formatrices et formateurs en établissement
 
 #### Art. 40
 
-**Procédure permettant de déterminer les aptitudes**
+**Catégories et mandat**
 
-<sup>1</sup> Sur proposition de la direction d’école, le conseil de l’école édicte un règlement qui fixe sur le plan du contenu et de l’organisation la procédure permettant de déterminer les aptitudes. Ce règlement requiert l’approbation de la Direction de l’instruction publique et de la culture.
+<sup>1</sup> Les formatrices et les formateurs en établissement se répartissent en
 
-## 5 Indemnisation des membres du conseil de l’école
+- a formatrices et formateurs en établissement avec mandat de base,
+- b formatrices et formateurs en établissement avec mandat élargi.
+
+<sup>2</sup> Le mandat de base comprend la préparation, la conduite et l'évaluation des stages des étudiantes et des étudiants.
+
+<sup>3</sup> Le mandat élargi comprend la collaboration à la planification de la formation professionnelle pratique, la collaboration à des unités de formation qui préparent aux stages et dans le cadre desquelles ceux-ci sont évalués et d'autres tâches qui découlent de la collaboration avec les enseignantes et les enseignants.
 
 #### Art. 41
 
-<sup>1</sup> L’indemnité journalière des membres du conseil de l’école qui disposent du droit de vote et ne sont pas des collaborateurs et collaboratrices de la Haute école pédagogique se monte à 250 francs par séance.
+**Classement**
 
-<sup>2</sup> Les indemnités forfaitaires annuelles suivantes sont versées en sus:
+<sup>1</sup> Une indemnité de 350 francs par semaine de stage est versée aux formatrices et aux formateurs en établissement avec mandat de base qui s'occupent totalement de l'encadrement d'une étudiante ou d'un étudiant pendant son stage.
 
-- a 12 000 francs pour le président ou la présidente,
-- b 6 000 francs pour le vice-président ou la vice-présidente,
-- c 2 400 francs pour les autres membres disposant du droit de vote et ne faisant pas partie du personnel de la Haute école pédagogique.
+<sup>2</sup> Pour l'encadrement simultané de plus d'une étudiante ou d'un étudiant, une indemnité de 200 à 300 francs par étudiante ou étudiant et par semaine de stage est versée.
 
-<sup>3</sup> Les indemnités journalières et annuelles sont imputées aux ressources financières ordinaires de la Haute école pédagogique.
+<sup>3</sup> Le conseil de l'école fixe, par voie de règlement, les indemnités pour les différentes formes de stage conformément à l'alinéa 2 ainsi que les indemnités versées en cas d'encadrement à temps partiel. Le règlement est porté à la connaissance de la Direction de l’instruction publique et de la culture.
 
-<sup>4</sup> Au surplus, l’ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^41-1] est applicable.
+<sup>4</sup> Le classement des formatrices et des formateurs en établissement avec mandat élargi est fixé conformément aux dispositions de la législation sur le personnel.
 
-[^41-1]: RSB 152.256
-
-## 6 Administration de la Haute école pédagogique
+### 3.5 Personnel financé par des fonds de tiers
 
 #### Art. 42
 
-<sup>1</sup> Le ou la responsable de l’administration dirige l’administration.
+**Assurance d'indemnités journalières en cas de maladie**
 
-<sup>2</sup> La Haute école pédagogique fixe les modalités de détail concernant l’administration, en particulier ses tâches et son organisation, dans les statuts.
+<sup>1</sup> La Haute école pédagogique peut conclure une assurance d'indemnités journalières en cas de maladie pour le personnel financé par des fonds de tiers.
 
-## 7 Commission de recours
+<sup>2</sup> Si une assurance collective pour indemnités journalières en cas de maladie est conclue, les coûts doivent être financés au moyen du compte de fonds de tiers correspondant.
+
+<sup>3</sup> La participation à la prime est la même pour le personnel financé par des fonds de tiers que pour le personnel financé par des fonds publics.
 
 #### Art. 43
 
-**Composition**
+**Fin des rapports de travail**
 
-<sup>1</sup> La commission de recours est composée de
+<sup>1</sup> La supérieure ou le supérieur hiérarchique doit informer la collaboratrice ou le collaborateur financé par des fonds de tiers de la fin de l’engagement au moins trois mois avant l'échéance du contrat si
 
-- a trois enseignants et enseignantes,
-- b un autre collaborateur ou une autre collaboratrice,
-- c un étudiant ou une étudiante.
+- a aucun nouveau contrat de travail n'est conclu et si
+- b la collaboratrice ou le collaborateur financé par des fonds de tiers est engagé à durée déterminée et a travaillé plus de cinq ans sans interruption à la Haute école pédagogique.
+
+<sup>2</sup> Si la fin de l'engagement est communiquée plus tard, les rapports de travail s'achèvent à la fin du troisième mois suivant cette annonce, mais au plus tard trois mois après la date de fin d'engagement convenue initialement.
 
 #### Art. 44
+
+**Droits en cas de fin des rapports de travail**
+
+<sup>1</sup> Une collaboratrice ou un collaborateur financé par des fonds de tiers a droit à une indemnité de départ si
+
+- a les rapports de travail ont pris fin dans le délai fixé par le contrat de travail ou en raison de l'épuisement des fonds de tiers;
+- b elle ou il a travaillé pendant au moins dix ans sans interruption à la Haute école pédagogique et si
+- c la Haute école pédagogique ne peut lui proposer aucun poste acceptable.
+
+<sup>2</sup> Le calcul de l'indemnité de départ est régi par l'article 123, alinéas 2 et 3 de l'ordonnance du 18 mai 2005 sur le personnel (OPers)[^44-1]. L'indemnité ne doit pas dépasser le montant correspondant à 18 mois de traitement de la personne concernée.
+
+<sup>3</sup> La durée d'exercice d'une fonction selon l'article 9, alinéa 1, lettres a et b n'est pas prise en compte pour l'octroi du droit à une indemnité de départ. Cette durée est considérée comme une interruption de l'engagement.
+
+[^44-1]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+
+#### Art. 45
+
+**Versement de l'indemnité de départ**
+
+<sup>1</sup> En cas d'octroi d'une indemnité de départ, celle-ci est versée en mensualités. Une mensualité correspond au traitement mensuel brut calculé selon l'article 44, alinéa 2, déduction faite des cotisations aux assurances sociales.
+
+<sup>2</sup> La personne concernée doit déclarer par écrit à la Haute école pédagogique, au plus tard le 10 du mois, qu'elle n'est engagée nulle part ailleurs à un poste acceptable ou qu'elle ne perçoit aucun revenu de remplacement comparable.
+
+<sup>3</sup> Si la personne concernée trouve, dans les 18 mois suivant la résiliation de ses rapports de travail, un poste acceptable au sein de la Haute école pédagogique ou chez un autre employeur, ou qu'elle perçoit un revenu de remplacement comparable, l'indemnité de départ est réduite ou supprimée.
+
+<sup>4</sup> Si le nouvel engagement à un poste acceptable est résilié durant la période probatoire ou que l'engagement auprès de la Haute école pédagogique ou d'un autre employeur s'avère ne pas être acceptable, l'ancienne collaboratrice ou l'ancien collaborateur a de nouveau droit à l'indemnité de départ comme si elle ou il n’avait pas encore trouvé de nouveau poste acceptable.
+
+<sup>5</sup> L'article 31 LPers ainsi que les dispositions de l'ordonnance du 16 septembre 2020 sur le placement de personnel (OPlac)[^45-1] sont déterminants pour juger de l'acceptabilité d'un autre poste.
+
+[^45-1]: RSB [153.011.2](https://www.belex.sites.be.ch/data/153.011.2/fr)
+
+## 4 Admission aux formations de base
+
+### 4.1 Conditions d'admission
+
+#### Art. 46
+
+**Principe**
+
+<sup>1</sup> Quiconque désire étudier et passer des examens à la Haute école pédagogique doit satisfaire aux conditions d'admission fixées dans la LHEP et être immatriculé.
+
+#### Art. 47
+
+**Examens complémentaires**
+
+<sup>1</sup> Les règlements relatifs aux examens complémentaires nécessaires dans le cadre des procédures d'admission sont édictés par le conseil de l'école. Ils requièrent l'approbation de la Direction de l'instruction publique et de la culture.
+
+#### Art. 48
+
+**Admission après une exclusion définitive**
+
+<sup>1</sup> Après une exclusion définitive telle que prévue à l'article 27a, alinéa 1 LHEP, toute personne peut être admise dans la même filière d'études à l'expiration d'un délai de deux ans. La rectrice ou le recteur fixe les conditions et règle la procédure.
+
+<sup>2</sup> Une admission immédiate est possible si l'exclusion a été prononcée en raison de l'échec à une discipline ou un module qui n'est pas proposé dans la filière correspondante de la Haute école pédagogique.
+
+<sup>3</sup> Les autres conditions d'admission sont réservées.
+
+#### Art. 49
+
+**Non-admission et exclusion**
+
+<sup>1</sup> Le conseil de l'école fixe, par voie de règlement, la procédure de non-admission ou d'exclusion des personnes qui ne remplissent pas les conditions personnelles requises pour exercer la profession d'enseignante ou d'enseignant en respectant l'intégrité des élèves qui leur sont confiés.
+
+<sup>2</sup> La procédure doit être achevée au plus tard avant l'obtention du diplôme.
+
+<sup>3</sup> Les conditions personnelles ne sont pas remplies en particulier
+
+- a si les étudiantes ou les étudiants ont été condamnés pour avoir commis une des infractions énumérées à l'article 67, alinéa 3 du Code pénal suisse du 21 décembre 1937 (CP)[^49-1] ou
+- b s'il existe des handicaps psychiques ou physiques graves, attestés par un certificat médical, qui rendent impossible l'exercice de la profession visée.
+
+<sup>4</sup> S'il existe uniquement une légère limitation des conditions personnelles requises pour exercer la profession d'enseignante ou d'enseignant, en particulier en raison d'un handicap physique, le diplôme d’enseignement doit en faire mention de manière transparente.
+
+[^49-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+
+### 4.2 Restrictions d'admission
+
+#### Art. 50
+
+**Principe**
+
+<sup>1</sup> Si une filière d'études est menacée de restrictions d'admission, tous les moyens permettant aux candidates et aux candidats d'accéder aux études doivent être mis en œuvre, pour autant que le financement puisse être assuré et que la qualité de l'enseignement reste acceptable.
+
+<sup>2</sup> Le Conseil-exécutif peut, sur proposition du conseil de l'école et aux conditions de l'alinéa 1 et de l'article 30, alinéa 2 LHEP, fixer le nombre de places pour la filière d'études concernée et décider que les candidates et les candidats à cette filière doivent se soumettre à un examen permettant de déterminer leurs aptitudes à y être admis.
+
+#### Art. 51
+
+**Examen d'aptitude**
+
+<sup>1</sup> Sur proposition de la direction de l'école, le conseil de l'école édicte un règlement qui fixe le contenu et les modalités de l'examen d'aptitude. Ce règlement requiert l'approbation de la Direction de l'instruction publique et de la culture.
+
+## 5 Indemnisation relative au conseil de l'école
+
+#### Art. 52
+
+<sup>1</sup> L'indemnité journalière des membres du conseil de l'école qui ne font pas partie du personnel de la Haute école pédagogique ou du canton ainsi que de la représentante ou du représentant des étudiantes et des étudiants se monte à 250 francs par séance.
+
+<sup>2</sup> Les indemnités forfaitaires annuelles suivantes sont versées en sus:
+
+- a 12'000 francs pour la présidente ou le président,
+- b 6000 francs pour la vice-présidente ou le vice-président,
+- c 2400 francs pour les autres membres ne faisant pas partie du personnel de la Haute école pédagogique ou du canton et pour la représentante ou le représentant des étudiantes et des étudiants.
+
+<sup>3</sup> Les indemnités journalières et annuelles sont imputées aux ressources financières ordinaires de la Haute école pédagogique.
+
+<sup>4</sup> Au surplus, l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres des commissions cantonales[^52-1] est applicable.
+
+[^52-1]: RSB [152.256](https://www.belex.sites.be.ch/data/152.256/fr)
+
+## 6 Administration de la Haute école pédagogique
+
+#### Art. 53
+
+<sup>1</sup> La ou le responsable de l'administration dirige l'administration de la Haute école pédagogique.
+
+<sup>2</sup> La Haute école pédagogique fixe les modalités de détail concernant l'administration, en particulier ses tâches et son organisation, dans les statuts.
+
+## 7 Commission de recours
+
+#### Art. 54
+
+**Composition**
+
+<sup>1</sup> La commission de recours est composée
+
+- a de trois enseignantes et enseignants,
+- b d'une autre collaboratrice ou d'un autre collaborateur,
+- c d'une étudiante ou d'un étudiant.
+
+#### Art. 55
 
 **Quorum et prise de décision**
 
 <sup>1</sup> Le quorum de la commission de recours est de trois membres.
 
-<sup>2</sup> La commission de recours prend ses décisions à la majorité des voix exprimées.
+<sup>2</sup> La commission de recours prend ses décisions à la majorité des membres présents.
 
-<sup>3</sup> Le président ou la présidente participe au vote. En cas d’égalité des voix, la sienne est prépondérante.
+<sup>3</sup> La présidente ou le président participe au vote. En cas d'égalité des voix, sa voix est prépondérante.
 
-#### Art. 45
+#### Art. 56
 
 **Règlement**
 
-<sup>1</sup> Le conseil de l’école édicte un règlement concernant la commission de recours, qui fixe en particulier son mode de travail et qui est approuvé par la Direction de l’instruction publique et de la culture.
+<sup>1</sup> Le conseil de l'école édicte un règlement concernant la commission de recours, lequel est soumis à l'approbation de la Direction de l'instruction publique et de la culture. Celui-ci fixe en particulier le mode de travail de la commission ainsi que l'indemnisation de la présidente ou du président et des autres membres.
 
 ## 8 Plan de développement, pilotage et financement
 
-### 8.1 Plan de développement de la Haute école pédagogique
+### 8.1 Plan de développement
 
-#### Art. 46
+#### Art. 57
 
-<sup>1</sup> Le plan de développement de la Haute école pédagogique tient compte du programme de législature et du plan financier du canton ainsi que des objectifs et évolutions de la politique scientifique et financière dans le domaine des hautes écoles à l’échelle suisse.
+<sup>1</sup> Le plan de développement de la Haute école pédagogique tient compte du programme de législature et du plan financier du canton ainsi que des objectifs et évolutions de la politique scientifique et financière dans le domaine des hautes écoles à l'échelle suisse.
 
-<sup>2</sup> Il contribue à coordonner la politique cantonale de l’enseignement supérieur et constitue la base de la participation du canton de Berne au plan de développement fédéral des hautes écoles.
+<sup>2</sup> Il contribue à coordonner la politique cantonale de l'enseignement supérieur et constitue la base de la participation du canton de Berne au plan de développement fédéral des hautes écoles.
 
-<sup>3</sup> La Direction de l’instruction publique et de la culture assure la collaboration des Directions concernées, la direction de la Haute école pédagogique celle des unités administratives concernées.
+<sup>3</sup> La Direction de l'instruction publique et de la culture assure la collaboration des Directions concernées, la direction de la Haute école pédagogique celle des unités administratives concernées.
 
-### 8.1a Mandat de prestations
+### 8.2 Mandat de prestations
 
-#### Art. 47
+### 8.2.1 Mandat de prestations du Conseil-exécutif
 
-**Mandat de prestations du Conseil-exécutif**
+#### Art. 58
 
-<sup>1</sup> Le mandat de prestations du Conseil-exécutif est en général conclu pour une période de quatre ans.
+**Compétences**
 
-<sup>2</sup> La Direction de l’instruction publique et de la culture élabore le mandat de prestations en collaboration avec la Haute école pédagogique.
+<sup>1</sup> Le mandat de prestations du Conseil-exécutif est en règle générale conclu pour une période de quatre ans.
 
-<sup>3</sup> Les valeurs financières de référence liées à la fourniture des prestations sont fixées conformément à l’article 48e, alinéas 2 et 3.
+<sup>2</sup> La Direction de l'instruction publique et de la culture élabore le mandat de prestations en collaboration avec la Haute école pédagogique.
 
-<sup>4</sup> Des indicateurs et des valeurs cibles permettant d’évaluer la réalisation des objectifs sont fixés dans le mandat de prestations.
+#### Art. 59
 
-<sup>5</sup> Si des coupes sont pratiquées dans le cadre de mesures visant à maintenir l’équilibre des finances, le Conseil-exécutif adapte le mandat de prestations en conséquence.
+**Aspects financiers**
 
-#### Art. 47a
+<sup>1</sup> Les valeurs financières de référence liées à la fourniture des prestations sont définies conformément à l'article 68, alinéas 2 et 3.
 
-**Mandat de prestations de la Direction de l’instruction publique et de la culture**
+<sup>2</sup> Des indicateurs et des valeurs cibles permettant d'évaluer la réalisation des objectifs sont fixés dans le mandat de prestations.
 
-<sup>1</sup> La Direction de l’instruction publique et de la culture édicte un mandat de prestations détaillé dans les domaines de la formation continue et des prestations de service pour le corps enseignant et les directions d’école.
+<sup>3</sup> Si des coupes sont pratiquées dans le cadre de mesures visant à maintenir l'équilibre des finances, le Conseil-exécutif adapte le mandat de prestations en conséquence.
 
-<sup>2</sup> Le mandat de prestations est en général conclu pour une période de quatre ans, mais peut être actualisé chaque année en fonction des besoins.
+### 8.2.2 Mandat de prestations de la Direction de l'instruction publique et de la culture
 
-<sup>3</sup> Les valeurs financières de référence liées à la fourniture des prestations sont fixées conformément à l’article 48e, alinéa 2, lettre b et alinéa 3.
+#### Art. 60
 
-<sup>4</sup> Les dispositions de l’article 47, alinéas 2, 4 et 5 sont applicables par analogie.
+**Compétences**
 
-### 8.1b Rapports
+<sup>1</sup> La Direction de l'instruction publique et de la culture édicte un mandat de prestations détaillé dans les domaines de la formation continue et des prestations de service pour le corps enseignant et les directrices et les directeurs d'école.
 
-### 8.1b.1 Rapport de gestion
+<sup>2</sup> Le mandat de prestations est en règle générale conclu pour une période de quatre ans, mais peut être actualisé chaque année en fonction des besoins.
 
-#### Art. 48
+#### Art. 61
+
+**Aspects financiers**
+
+<sup>1</sup> Les valeurs financières de référence liées à la fourniture des prestations sont fixées conformément à l'article 68, alinéa 2, lettre b et alinéa 3.
+
+<sup>2</sup> Les dispositions des articles 58, alinéa 2 et 59, alinéas 2 et 3 s'appliquent par analogie.
+
+### 8.3 Rapports
+
+### 8.3.1 Rapport de gestion
+
+#### Art. 62
 
 **Remise**
 
-<sup>1</sup> La Haute école pédagogique présente chaque année à l’Office de l’enseignement supérieur son rapport de gestion comportant les priorités de l’exercice et l’état des comptes annuels.
+<sup>1</sup> La Haute école pédagogique présente chaque année à l'Office de l’enseignement supérieur son rapport de gestion comportant les priorités de l'exercice et les comptes annuels.
 
-<sup>2</sup> La Direction de l’instruction publique et de la culture détermine la date de la remise du rapport de gestion en tenant compte des processus cantonaux.
+<sup>2</sup> La Direction de l'instruction publique et de la culture détermine la date de la remise du rapport de gestion en tenant compte des processus cantonaux.
 
-<sup>3</sup> Le rapport de gestion est porté à la connaissance du Grand Conseil en même temps que le rapport de révision des comptes annuels élaboré par le Contrôle des finances et l’arrêté d’approbation du Conseil-exécutif.
+<sup>3</sup> Le rapport de gestion est porté à la connaissance du Grand Conseil en même temps que le rapport de révision des comptes annuels élaboré par le Contrôle des finances et l'arrêté d'approbation du Conseil-exécutif.
 
-#### Art. 48a
+#### Art. 63
 
-**Priorités de l’exercice**
+**Priorités de l'exercice**
 
-<sup>1</sup> Les priorités de l’exercice présentées dans le rapport de gestion de la Haute école pédagogique comprennent un tour d’horizon des évolutions générales et des évènements qui ont marqué l’année sous revue.
+<sup>1</sup> Les priorités de l'exercice présentées dans le rapport de gestion comprennent un tour d'horizon des évolutions générales et des évènements qui ont marqué l'année sous revue.
 
-#### Art. 48b
+#### Art. 64
 
 **Comptes annuels**
 
-<sup>1</sup> Les comptes annuels de la Haute école pédagogique se composent du bilan, du compte de résultat, du tableau des flux de trésorerie et d’une annexe.
+<sup>1</sup> Les comptes annuels se composent du bilan, du compte de résultats, du tableau des flux de trésorerie et d'une annexe.
 
-<sup>2</sup> L’annexe contient des informations complémentaires et explicatives conformes aux normes de présentation des comptes de la comptabilité financière visées à l’article 48g, alinéa 2.
+<sup>2</sup> L'annexe contient des informations complémentaires et explicatives conformes aux normes de présentation des comptes de la comptabilité financière visées à l'article 70, alinéa 1, lettre a.
 
-<sup>3</sup> Les comptes annuels sont révisés par le Contrôle des finances du canton dans le délai fixé par la Direction de l’instruction publique et de la culture sur la base des processus cantonaux.
+<sup>3</sup> Les comptes annuels sont révisés par le Contrôle des finances du canton dans le délai fixé par la Direction de l'instruction publique et de la culture sur la base des processus cantonaux.
 
-<sup>4</sup> La Direction de l’instruction publique et de la culture présente les comptes annuels au Conseil-exécutif pour approbation accompagnés du rapport du Contrôle des finances.
+<sup>4</sup> La Direction de l'instruction publique et de la culture présente les comptes annuels au Conseil-exécutif pour approbation, accompagnés du rapport du Contrôle des finances.
 
-### 8.1b.2 Rapport sur l’exécution des prestations et rapports intermédiaires
+### 8.3.2 Rapport sur l'exécution des prestations et rapports intermédiaires
 
-#### Art. 48c
+#### Art. 65
 
-<sup>1</sup> La Haute école pédagogique présente chaque année à la Direction de l’instruction publique et de la culture un rapport intermédiaire rendant compte du niveau d’exécution du mandat de prestations.
+<sup>1</sup> La Haute école pédagogique présente à la Direction de l'instruction publique et de la culture un rapport sur l’exécution des prestations au cours de l'année précédant la fin du mandat de prestations du Conseil-exécutif et lui présente chaque année un rapport intermédiaire rendant compte du niveau d'exécution du mandat de prestations.
 
-<sup>2</sup> En règle générale, il n’est pas nécessaire de réaliser un rapport intermédiaire durant l’année de parution du rapport sur l’exécution des prestations.
+<sup>2</sup> En règle générale, il n'est pas nécessaire de réaliser un rapport intermédiaire durant l'année de parution du rapport sur l'exécution des prestations.
 
-### 8.1c Procédure de controlling
+### 8.4 Procédure de controlling
 
-#### Art. 48d
+#### Art. 66
 
-<sup>1</sup> Au moins un entretien de controlling est organisé chaque année entre la Direction de l’instruction publique et de la culture et la Haute école pédagogique.
+**Entretien de controlling**
 
-<sup>2</sup> L’entretien de controlling permet d’évaluer le niveau de réalisation des objectifs contenus dans le mandat de prestations.
+<sup>1</sup> Au moins un entretien de controlling est organisé chaque année entre la Direction de l'instruction publique et de la culture et la Haute école pédagogique.
 
-<sup>3</sup> Les rapports présentés par la Haute école pédagogique constituent la base de l’entretien.
+<sup>2</sup> L'entretien de controlling permet d’évaluer le niveau de réalisation des objectifs définis dans le mandat de prestations.
 
-<sup>4</sup> Chaque année, dans le cadre de l’approbation des comptes annuels et de la lecture du rapport de gestion, la Direction de l’instruction publique et de la culture établit un rapport à l’intention du Conseil-exécutif, dans lequel elle évalue le niveau de réalisation des objectifs.
+<sup>3</sup> Les rapports présentés par la Haute école pédagogique constituent la base de l'entretien.
 
-<sup>5</sup> Le Conseil-exécutif mène en règle générale un entretien annuel avec la direction de la Haute école pédagogique à propos des enjeux et des priorités de la politique de la formation.
+#### Art. 67
 
-<sup>6</sup> La Direction de l’instruction publique et de la culture assure la collaboration des Directions concernées.
+**Controlling par le Conseil-exécutif**
 
-### 8.1d Financement
+<sup>1</sup> Chaque année, dans le cadre de l'approbation des comptes annuels et de la lecture du rapport de gestion, la Direction de l'instruction publique et de la culture établit un rapport à l'intention du Conseil-exécutif, dans lequel elle évalue le niveau de réalisation des objectifs.
 
-#### Art. 48e
+<sup>2</sup> Le Conseil-exécutif mène périodiquement un entretien avec la Haute école pédagogique à propos des enjeux et des priorités de la politique de la formation.
+
+<sup>3</sup> La Direction de l'instruction publique et de la culture assure la participation des Directions concernées.
+
+### 8.5 Financement
+
+#### Art. 68
 
 **Subvention cantonale annuelle**
 
@@ -722,8 +739,8 @@ arrête:
 
 <sup>2</sup> La subvention cantonale annuelle comprend
 
-- a une indemnisation pour la formation de base, calculée sur la base du nombre d’étudiants et d’étudiantes et des coûts moyens des filières de formation à l’échelle suisse, et
-- b une indemnisation forfaitaire pour les domaines de la formation continue et des prestations de service pour le corps enseignant et les directions d’école, calculée en fonction des coûts prévus pour les offres de formation continue et de prestations de service fixées dans le mandat de prestations de la Direction de l’instruction publique et de la culture.
+- a une indemnisation pour la formation de base, calculée sur la base du nombre d'étudiantes et d'étudiants et des coûts moyens des filières de formation à l'échelle suisse et
+- b une indemnisation pour les domaines de la formation continue et des prestations de service pour le corps enseignant et les directrices et les directeurs d'école, calculée sur la base des coûts moyens à l'échelle suisse disponibles dans ces domaines.
 
 <sup>3</sup> Les facteurs suivants sont également pris en compte dans le calcul de la subvention cantonale annuelle:
 
@@ -731,36 +748,35 @@ arrête:
 - b les prescriptions cantonales en matière de droit du personnel et de salaires,
 - c les comptes annuels de la Haute école pédagogique.
 
-<sup>4</sup> Le remboursement d’une subvention cantonale arrêtée ou son augmentation sont exclus en cas d’excédents ou de découverts.
+<sup>4</sup> Le remboursement ou l'augmentation d'une subvention cantonale arrêtée sont exclus en cas d'excédents ou de découverts.
 
-#### Art. 48f
+#### Art. 69
 
 **Autres moyens financiers**
 
-<sup>1</sup> La Haute école pédagogique se finance au travers de la subvention cantonale annuelle ainsi que d’autres sources telles que les contributions qui lui sont versées par étudiant et étudiante en vertu de conventions intercantonales et les fonds de tiers.
+<sup>1</sup> Le financement de la Haute école pédagogique est assuré par la subvention cantonale annuelle ainsi que par d’autres sources de financement telles que les contributions qui lui sont versées par étudiante et étudiant en vertu de conventions intercantonales et les fonds de tiers.
 
-<sup>2</sup> L’ensemble des moyens financiers font partie de la fortune de la Haute école pédagogique.
+<sup>2</sup> L'ensemble des moyens financiers font partie de la fortune de la Haute école pédagogique.
 
 <sup>3</sup> La Haute école pédagogique réglemente la gestion de ses moyens.
 
-#### Art. 48g
+#### Art. 70
 
 **Principes de présentation des comptes**
 
-<sup>1</sup> La Haute école pédagogique établit sa propre comptabilité. Celle-ci comprend une comptabilité financière et une comptabilité analytique d’exploitation.
+<sup>1</sup> La Haute école pédagogique établit sa propre comptabilité. Celle-ci comprend
 
-<sup>2</sup> La comptabilité financière est établie selon les normes de présentation des comptes SWISS GAAP RPC[^48g-1].
+- a une comptabilité financière établie selon les normes de présentation des comptes SWISS GAAP RPC[^70-1],
+- b une comptabilité analytique d’exploitation fondée sur le manuel de la Conférence suisse des rectrices et recteurs des hautes écoles pédagogiques sur le calcul des coûts dans les hautes écoles pédagogiques[^70-2].
 
-<sup>3</sup> La comptabilité analytique d’exploitation se fonde sur le manuel de la Conférence suisse des rectrices et recteurs des hautes écoles pédagogiques sur le calcul des coûts dans les hautes écoles pédagogiques [^48g-2].
+<sup>2</sup> Les comptes sont clos au 31 décembre.
 
-<sup>4</sup> Les comptes sont clos au 31 décembre.
+<sup>3</sup> La Haute école pédagogique élabore un manuel relatif à la présentation des comptes, qui doit être vérifié par le Contrôle des finances et approuvé par la Direction de l'instruction publique et de la culture.
 
-<sup>5</sup> La Haute école pédagogique élabore un manuel relatif à la présentation des comptes, qui doit être vérifié par le Contrôle des finances et approuvé par la Direction de l’instruction publique et de la culture.
+[^70-1]: Recommandations relatives à la présentation des comptes (Swiss GAAP RPC)
+[^70-2]: [https://www.swissuniversities.ch/fr/organisation/documentation](https://www.swissuniversities.ch/fr/organisation/documentation)
 
-[^48g-1]: Swiss Generally Accepted Accounting Principles – Recommandations relatives à la présentation des comptes SWISS GAAP RPC, disponibles sur [http://www.verlagskv.ch/](http://www.verlagskv.ch/) (Webshop).
-[^48g-2]: Disponible auprès de la Conférence suisse des rectrices et recteurs des hautes écoles pédagogiques (COHEP), Thunstrasse 43a, 3005 Berne, [http://www.cohep.ch/](http://www.cohep.ch/)
-
-#### Art. 48h
+#### Art. 71
 
 **Gestion des liquidités**
 
@@ -770,302 +786,261 @@ arrête:
 
 <sup>3</sup> Le canton et la Haute école pédagogique concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
 
-#### Art. 48i
+#### Art. 72
 
 **Gestion des assurances**
 
 <sup>1</sup> Le canton assure la gestion des assurances de la Haute école pédagogique.
 
-<sup>2</sup> La gestion des assurances de la Haute école pédagogique s’effectue via la Gestion centrale des assurances du canton de Berne rattachée à la Direction des finances.
+<sup>2</sup> La gestion des assurances de la Haute école pédagogique est effectuée par le service spécialisé en gestion des assurances rattaché à la Direction des finances.
 
 <sup>3</sup> Le canton et la Haute école pédagogique concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
 
-#### Art. 48k
+#### Art. 73
 
 **Administration des traitements**
 
-<sup>1</sup> L’Office du personnel du canton assure le versement des traitements et l’affiliation de la Haute école pédagogique aux assurances sociales.
+<sup>1</sup> Pour l'administration, le décompte et le versement des traitements, la Haute école pédagogique peut utiliser le système d'information du personnel du canton.
 
-<sup>2</sup> L’administration des traitements est effectuée par la Haute école pédagogique au moyen du système d’information sur le personnel du canton de Berne.
+<sup>2</sup> Le canton et la Haute école pédagogique concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
 
-<sup>3</sup> Le canton et la Haute école pédagogique concluent un contrat stipulant les prestations à fournir ainsi que leurs droits et obligations.
+### 8.6 Immeubles
 
-### 8.1e Immeubles
+#### Art. 74
 
-#### Art. 48l
+<sup>1</sup> L'Office de l'enseignement supérieur contrôle le plan de développement immobilier et demande à l'Office des immeubles et des constructions de mettre à disposition les locaux nécessaires.
 
-<sup>1</sup> La Haute école pédagogique coordonne ses besoins en locaux et établit un plan de développement immobilier périodique à l’intention de la Direction de l’instruction publique et de la culture en tenant compte du plan de développement des hautes écoles et du mandat de prestations.
+<sup>2</sup> Si, dans le cadre de l'exécution de mandats de tiers, la Haute école pédagogique loue des immeubles pour une durée limitée à la charge des moyens correspondants, le contrat de location applicable doit être porté à la connaissance de la Direction de l'instruction publique et de la culture et de la Direction des travaux publics et des transports.
 
-<sup>2</sup> Dans le cadre de la procédure de controlling, elle rend compte de sa consommation de surface durant la période sous revue.
+<sup>3</sup> La Haute école pédagogique
 
-<sup>3</sup> L’Office de l’enseignement supérieur contrôle le plan de développement immobilier et demande à l’Office des immeubles et des constructions qu’il mette à disposition les locaux nécessaires.
+- a coordonne ses besoins en locaux et établit un plan de développement immobilier périodique à l'intention de la Direction de l'instruction publique et de la culture en tenant compte du plan de développement des hautes écoles et du mandat de prestations;
+- b rend compte, dans le cadre de la procédure de controlling, de sa consommation de surface durant la période sous revue;
+- c indique à l'Office de l’enseignement supérieur ainsi qu’à l'Office des immeubles et des constructions les immeubles dont la propriété lui a été transférée par legs ou donation.
 
-<sup>4</sup> La Haute école pédagogique indique à l’Office de l’enseignement supérieur ainsi qu’à l’Office des immeubles et des constructions les immeubles dont la propriété lui a été transférée par legs ou donation.
+### 8.7 Taxes et redevances
 
-<sup>5</sup> Si, dans le cadre de l’exécution de mandats de tiers, la Haute école pédagogique loue des immeubles pour une durée limitée à la charge des moyens correspondants, le contrat de location applicable doit être porté à la connaissance de la Direction de l’instruction publique et de la culture et de la Direction des travaux publics et des transports.
+### 8.7.1 Taxes pour le cours préparatoire, la procédure d'admission et l'examen d'aptitude
 
-### 8.2 Taxes et redevances
-
-#### Art. 49
-
-**Formations de base 1. Taxe d’inscription et taxe d’immatriculation**
-
-<sup>1</sup> La taxe d’inscription aux études s’élève à 100 francs.
-
-<sup>2</sup> La taxe d’immatriculation s’élève à 100 francs.
-
-<sup>3</sup> Si l’inscription aboutit à l’immatriculation, la taxe d’inscription tient lieu de taxe d’immatriculation.
-
-#### Art. 50
-
-**2. Taxe d’études**
-
-<sup>1</sup> La taxe d’études s’élève à 750 francs par semestre.
-
-<sup>2</sup> …
-
-#### Art. 51
-
-**3. Taxes d'examen**
-
-<sup>1</sup> Les taxes d’examen perçues pour une filière d’études achevée sans répétition d’examen ne doivent pas excéder un montant total de 500 francs.
-
-<sup>2</sup> Les taxes perçues pour les différents examens sont fixées dans les règlements d’études.
-
-<sup>3</sup> Si un candidat ou une candidate retire à temps son inscription à l’examen, la taxe d’examen lui est remboursée. Le délai de retrait admis est fixé dans les règlements d’études.
-
-<sup>4</sup> Les taxes d’examen perçues ne sont pas considérées commes des fonds de tiers.
-
-#### Art. 52
+#### Art. 75
 
 **Cours préparatoire aux formations de base**
 
-<sup>1</sup> La taxe d’inscription au cours préparatoire s’élève à 100 francs.
+<sup>1</sup> La taxe d'inscription au cours préparatoire s'élève à 100 francs.
 
-<sup>2</sup> La taxe perçue pour le cours préparatoire aux formations de base s’élève à 750 francs par semestre.
+<sup>2</sup> La taxe perçue pour le cours préparatoire s'élève à 750 francs par semestre.
 
-<sup>3</sup> La taxe perçue pour le cours préparatoire aux formations de base s’élève à 3 500 francs par semestre pour les personnes dont le domicile légal en matière de subsides de formation se situe dans un autre canton ou un autre pays.
+<sup>3</sup> La taxe perçue pour le cours préparatoire s'élève à 3500 francs par semestre pour les personnes dont le domicile légal en matière de subsides de formation se situe dans un autre canton ou un autre pays.
 
-#### Art. 53
+#### Art. 76
 
-**Procédure d’admission**
+**Procédure d'admission**
 
-<sup>1</sup> La taxe perçue pour les examens complémentaires nécessaires dans le cadre des procédures d’admission de personnes disposant des diplômes visés à l’article 35, alinéa 1, lettres c et d et à l’article 35a, alinéa 1, lettre b s’élève à 200 francs.
+<sup>1</sup> La taxe maximale perçue pour les examens complémentaires nécessaires dans le cadre des procédures d'admission s'élève à 300 francs.
 
-<sup>2</sup> La taxe perçue pour la procédure d’admission sur dossier au sens de l’article 5, alinéa 2, lettre c du règlement de la Conférence suisse des directeurs cantonaux de l’instruction publique (CDIP) du 10 juin 1999 concernant la reconnaissance des diplômes de hautes écoles pour les enseignantes et enseignants des degrés préscolaire et primaire[^53-1] et de l’article 4, alinéa 3 du règlement de la CDIP du 26 août 1999 concernant la reconnaissance des diplômes de hautes écoles pour les enseignantes et enseignants du degré secondaire I[^53-2] s’élève à 600 francs.
+<sup>2</sup> Le conseil de l'école
 
-[^53-1]: Recueil des bases légales de la CDIP, ch. 4.2.2.3
-[^53-2]: Recueil des bases légales de la CDIP, ch. 4.2.2.4
+- a fixe le montant des taxes par voie de règlement;
+- b peut prévoir une réduction de taxe pour les participantes et les participants au cours préparatoire.
 
-#### Art. 54
+<sup>3</sup> La taxe perçue pour la procédure d'admission sur dossier selon l'article 4, alinéa 3, lettre b du règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP) du 28 mars 2019 concernant la reconnaissance des diplômes d'enseignement du degré primaire, du degré secondaire I et pour les écoles de maturité[^76-1] s'élève à 600 francs.
 
-**Procédure servant à déterminer les aptitudes**
+[^76-1]: Recueil des bases légales de la CDIP, ch. 4.2.2.10
 
-<sup>1</sup> La taxe perçue pour la procédure servant à déterminer les aptitudes s’élève à 200 francs.
+#### Art. 77
 
-#### Art. 55
+**Examen d'aptitude**
 
-**Auditeurs et auditrices**
+<sup>1</sup> La taxe perçue pour l'examen d'aptitude s'élève à 200 francs.
 
-<sup>1</sup> Les auditeurs et les auditrices sont des personnes qui fréquentent certains cours des formations de base pour lesquels elles manifestent un intérêt. Ils s’acquittent de 50 francs par heure de cours hebdomadaire sur un semestre, mais de 750 francs par semestre au plus.
+### 8.7.2 Taxe d'inscription, taxe d'immatriculation et taxe d'études
 
-#### Art. 56
+#### Art. 78
+
+**Taxe d'inscription et taxe d'immatriculation pour les formations de base**
+
+<sup>1</sup> La taxe d'inscription aux études s'élève à 100 francs.
+
+<sup>2</sup> La taxe d'immatriculation s'élève à 100 francs.
+
+<sup>3</sup> Si l'inscription aboutit à l'immatriculation, la taxe d'inscription tient lieu de taxe d'immatriculation.
+
+#### Art. 79
+
+**Taxe d'études pour les formations de base**
+
+<sup>1</sup> La taxe d'études s'élève à 750 francs par semestre.
+
+<sup>2</sup> Les étudiantes étrangères et les étudiants étrangers non titulaires d'un permis d’établissement au moment de l'admission aux études s'acquittent d'une taxe couvrant les coûts au tarif de l'accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^79-1]; l'alinéa 3 est réservé. Une fois en possession d'un permis d'établissement, ces personnes s'acquittent de la taxe d'études prévue à l'alinéa 1 à partir du semestre qui suit l'obtention du permis.
+
+<sup>3</sup> Les étudiantes étrangères et les étudiants étrangers inscrits dans une filière d'études dont le diplôme leur permet d'enseigner uniquement dans les écoles en Suisse s'acquittent de la taxe prévue à l'alinéa 1.
+
+[^79-1]: RSB [439.21-1](https://www.belex.sites.be.ch/data/439.21-1/fr)
+
+### 8.7.3 Taxes d'examen et taxes pour la formation continue
+
+#### Art. 80
+
+**Taxes d'examen pour les formations de base**
+
+<sup>1</sup> Les taxes d'examen perçues pour une filière d'études ne doivent pas excéder un total de 500 francs.
+
+<sup>2</sup> Les taxes d'examens sont fixées dans les règlements d'études.
+
+<sup>3</sup> Si une candidate ou un candidat ne se présente pas à l'examen, la taxe d'examen ne lui est en règle générale pas remboursée. La ou le responsable d'institut statue sur les exceptions pour de justes motifs.
+
+<sup>4</sup> Les taxes d'examen perçues ne sont pas considérées comme des fonds de tiers.
+
+#### Art. 81
 
 **Formation continue du corps enseignant**
 
-<sup>1</sup> Le conseil de l’école fixe les taxes pour la formation continue du corps enseignant. Le règlement requiert l’approbation de la Direction de l’instruction publique et de la culture.
+<sup>1</sup> Le conseil de l'école fixe les taxes pour la formation continue du corps enseignant par voie de règlement. Celui-ci requiert l'approbation de la Direction de l'instruction publique et de la culture.
 
-#### Art. 56a
+### 8.7.4 Taxe de mise en congé et exemption de taxes
 
-**Prestations de service et cours de formation continue pour des tiers**
-
-<sup>1</sup> Le conseil de l’école fixe les taxes pour les prestations de service fournies à des tiers et les cours de formation continue dispensés à des tiers.
-
-#### Art. 57
-
-**Prestations de services fournies dans le domaine des médias didactiques**
-
-<sup>1</sup> Le conseil de l’école fixe les taxes pour l’utilisation des prestations de services dans le domaine des médias didactiques. Le règlement requiert l’approbation de la Direction de l’instruction publique et de la culture.
-
-#### Art. 58
-
-**Redevance pour les institutions sociales et culturelles**
-
-<sup>1</sup> A l’exception des assistants et des assistantes auxiliaires immatriculés comme étudiants et étudiantes, les collaborateurs et les collaboratrices de la Haute école pédagogique versent une redevance annuelle correspondant à un pour mille de leur traitement annuel (13e mois compris, mais allocations familiales et allocations d’entretien exclues) pour contribuer au financement des institutions sociales, culturelles et sportives désignées dans les statuts de l’école.
-
-<sup>2</sup> Les étudiants et les étudiantes versent une redevance de 24 francs par semestre pour les institutions sociales, culturelles et sportives désignées dans les statuts de l’école.
-
-#### Art. 58a
+#### Art. 82
 
 **Taxe de mise en congé**
 
-<sup>1</sup> La taxe de mise en congé s’élève à 100 francs par semestre.
+<sup>1</sup> La taxe de mise en congé s'élève à 100 francs par semestre.
 
-<sup>2</sup> Les étudiants et étudiantes qui bénéficient d’une mise en congé et font partie de l’Association des étudiants et des étudiantes de la Haute école pédagogique s’acquittent de surcroît de la taxe visée à l’article 33, alinéa 3 LHEP[^58a-1].
+<sup>2</sup> Les étudiantes et les étudiants qui bénéficient d'une mise en congé et qui font partie de l'Association des étudiants et des étudiantes de la Haute école pédagogique s'acquittent de surcroît de la taxe visée à l'article 33, alinéa 3 LHEP.
 
-[^58a-1]: RSB 436.91
-
-#### Art. 58b
-
-**Taxe administrative**
-
-<sup>1</sup> Une taxe d’un montant maximal de 100 francs est prélevée pour les prestations particulières qui ne relèvent pas de la procédure ordinaire d’immatriculation ou de mise en congé, notamment pour l’établissement de duplicatas et la réalisation de traductions.
-
-<sup>2</sup> Le recteur ou la rectrice fixe la taxe dans un règlement.
-
-#### Art. 59
+#### Art. 83
 
 **Exemption de taxes**
 
-<sup>1</sup> Les étudiants et les étudiantes immatriculés dans une autre haute école et qui étudient en même temps à la Haute école pédagogique dans le cadre d’une convention sont exemptés des taxes d’inscription et d’immatriculation, de la taxe d’études et de la redevance pour les institutions sociales et culturelles.
+<sup>1</sup> La Haute école pédagogique peut exempter, en vertu d'une convention, totalement ou partiellement des taxes d’inscription et d’immatriculation, de la taxe d'études, des taxes d'examen et de la redevance pour les institutions sociales et culturelles les étudiantes et les étudiants qui étudient à la fois à la Haute école pédagogique et dans une autre haute école.
 
-### 8.3 Legs et fondations non autonomes
+### 8.7.5 Taxe administrative
 
-#### Art. 59a
+#### Art. 84
 
-<sup>1</sup> Le conseil de l’école édicte un règlement pour chaque legs et fondation non autonome au sens de l’article 59 LHEP[^59a-1], en le portant à la connaissance de la Direction de l’instruction publique et de la culture.
+<sup>1</sup> Une taxe d'un montant maximal de 100 francs est prélevée pour les prestations particulières qui ne relèvent pas de la procédure ordinaire d'immatriculation ou de mise en congé, notamment pour l'établissement de duplicatas et la réalisation de traductions.
 
-[^59a-1]: RSB [436.91](https://www.belex.sites.be.ch/data/436.91/fr)
+<sup>2</sup> La rectrice ou le recteur fixe la taxe par voie de règlement.
 
-## 8a Droit disciplinaire
+### 8.7.6 Autres taxes et redevances
 
-#### Art. 59b
+#### Art. 85
 
-<sup>1</sup> Il y a infraction au règlement disciplinaire lorsque des étudiants ou des étudiantes contreviennent aux règlements internes ou aux règlements d’études ou enfreignent, pendant leurs études, les interdictions ou prescriptions légales ainsi que les consignes données par le recteur ou la rectrice, la direction de l’école, les responsables d’instituts ou les enseignants et les enseignantes.
+**Auditrices et auditeurs**
 
-<sup>2</sup> Il y a infraction au principe d’intégrité de la science lorsque des étudiants ou des étudiantes
+<sup>1</sup> Les auditrices et les auditeurs sont des personnes qui fréquentent certains cours pour lesquels elles manifestent un intérêt, à l'exclusion des cours de formation continue.
 
-- a utilisent les résultats de recherche de tiers sans en citer la source et les font passer ainsi pour les leurs;
-- b falsifient des résultats de recherche en présentant intentionnellement de manière erronée le processus de recherche ou
-- c contreviennent d’une autre manière aux règles de bonne pratique scientifique.
+<sup>2</sup> Ils versent une taxe d'inscription unique d'un montant maximal de 100 francs ainsi qu'une taxe de cours calculée selon le nombre de cours suivis, mais au maximum de 750 francs par semestre. Le conseil de l'école fixe le montant de la taxe de cours par voie de règlement.
 
-<sup>3</sup> En cas d’infraction mineure au règlement disciplinaire ou au principe d’intégrité de la science, le ou la responsable d’institut compétents peut donner un avertissement à la personne fautive.
+#### Art. 86
 
-<sup>4</sup> En cas d’infractions graves ou répétées au règlement disciplinaire ou au principe d’intégrité de la science, le recteur ou la rectrice peut décider
+**Prestations de service et cours de formation continue pour des tiers**
 
-- a de donner un avertissement à la personne fautive;
-- b d’exclure de certains cours la personne fautive et lui interdire d’utiliser certaines installations de la Haute école pédagogique germanophone pour une durée d’un ou plusieurs semestres, ces deux sanctions pouvant être cumulées;
-- c d’exclure temporairement ou définitivement la personne fautive de la Haute école pédagogique germanophone.
+<sup>1</sup> Le conseil de l'école fixe, par voie de règlement, les taxes pour les prestations de service fournies à des tiers et pour les cours de formation continue dispensés à des tiers.
 
-<sup>5</sup> Si les circonstances l’exigent, le recteur ou la rectrice peut décider, en complément ou en remplacement de la sanction prévue à l’alinéa 4, de prendre d’autres mesures administratives ou organisationnelles propres à maintenir la bonne marche de la haute école.
+#### Art. 87
 
-<sup>6</sup> D’autres mesures juridiques comme l’engagement d’une poursuite pénale ou le retrait de titres sont réservées.
+**Prestations de service fournies dans le domaine des médias didactiques**
 
-## 9 Dispositions transitoires et dispositions finales
+<sup>1</sup> Le conseil de l'école fixe les taxes pour l'utilisation des prestations de service dans le domaine des médias didactiques par voie de règlement. Celui-ci requiert l'approbation de la Direction de l'instruction publique et de la culture.
 
-#### Art. 60
+#### Art. 88
 
-**Profil requis des enseignants et des enseignantes**
+**Redevance pour les institutions sociales et culturelles**
 
-<sup>1</sup> Les enseignants et les enseignantes qui étaient engagés jusqu’ici dans les instituts de formation du corps enseignant, à la section du «Höheres Lehramt» de l’Université de Berne ou à la «Zentralstelle für Lehrerinnen- und Lehrerfortbildung» et au Centre média Schulwarte Berne ainsi que les animateurs et les animatrices de cours peuvent être engagés comme enseignants et enseignantes à la Haute école pédagogique, par dérogation aux conditions fixées à l’article 13 de la présente ordonnance et à l’article 21, alinéa 1 LHEP[^60-1].
+<sup>1</sup> À l'exception des assistantes et des assistants auxiliaires immatriculés comme étudiantes et étudiants, les collaboratrices et les collaborateurs de la Haute école pédagogique versent une redevance annuelle correspondant à un pour mille de leur traitement annuel (13<sup>e</sup> mois compris, mais allocations familiales et allocations d'entretien exclues) pour contribuer au financement des institutions sociales, culturelles et sportives désignées dans les statuts de l'école.
 
-[^60-1]: RSB 436.91
+<sup>2</sup> Les étudiantes et les étudiants versent une redevance de 24 francs par semestre pour les institutions sociales, culturelles et sportives désignées dans les statuts de l'école.
 
-#### Art. 61
+## 9 Droit disciplinaire
 
-**Etudiants et étudiantes soumis à l’ancien droit**
+#### Art. 89
 
-<sup>1</sup> La Haute école pédagogique veille à ce que les étudiants et les étudiants des institutions de formation du personnel enseignant en place jusqu’ici, qui ont commencé leurs études avant le 31 août 2005 puissent les poursuivre et les achever dans le délai approprié conformément au plan d’études et au règlement d’examen en vigueur jusqu’ici.
+**Infraction au règlement disciplinaire**
 
-<sup>2</sup> Le délai visé à l’alinéa 1 expire en règle générale deux ans après la date normale de fin des études à plein-temps. Dans des cas motivés, le ou la responsable d’institut peut prolonger ce délai.
+<sup>1</sup> Il y a infraction au règlement disciplinaire lorsque des étudiantes ou des étudiants contreviennent aux règlements internes ou aux règlements d'études ou enfreignent, pendant leurs études, les interdictions ou prescriptions légales ainsi que les consignes données par la rectrice ou le recteur, la direction de l'école, les responsables d'instituts ou les enseignantes et les enseignants.
 
-#### Art. 62
+#### Art. 90
 
-**Premiers examens d’admission**
+**Infraction à l'intégrité scientifique**
 
-<sup>1</sup> Le conseil de l’école fondateur/premier conseil de l’école édicte le règlement visé à l’article 38, alinéa 4 dans un délai permettant l’organisation des premiers examens d’admission avant le début du semestre d’hiver 2005/2006.
+<sup>1</sup> Il y a infraction à l'intégrité scientifique lorsque des étudiantes ou des étudiants contreviennent aux règles relatives à l'intégrité scientifique et aux bonnes pratiques scientifiques fixées dans le règlement correspondant de la Haute école pédagogique.
 
-#### Art. 63
+#### Art. 91
 
-**Modification d’actes législatifs**
+**Infraction grave**
 
-<sup>1</sup> Les actes législatifs suivants sont modifiés:
+<sup>1</sup> En cas d'infraction grave ou répétée au règlement disciplinaire ou aux règles relatives à l’intégrité scientifique, la rectrice ou le recteur peut
 
-- 1\. Ordonnance du 21 décembre 1994 sur le statut du personnel enseignant (OSE):[^63-1]
-- 2\. Ordonnance du 27 mai 1998 sur l’Université (OUni):[^63-2]
-- 3\. Ordonnance du 5 mai 2004 sur la Haute école spécialisée bernoise (OHESB):[^63-3]
+- a donner un avertissement;
+- b exclure de certains cours la personne fautive et lui interdire d'utiliser certaines installations de la Haute école pédagogique pour une durée d'un ou de plusieurs semestres, ces deux sanctions pouvant être cumulées;
+- c exclure temporairement ou définitivement la personne fautive de la Haute école pédagogique.
 
-[^63-1]: Abrogée par O du 28.3.2007 sur le statut du corps enseignant (OSE); RSB 430.251.0; ROB 07–57
-[^63-2]: Abrogée par O du 12.9.2012 sur l'Université (OUni); RSB 436.111.1
-[^63-3]: RSB 436.811
+#### Art. 92
 
-#### Art. 64
+**Infraction mineure**
 
-**Abrogation d’actes législatifs**
+<sup>1</sup> En cas d'infraction mineure au règlement disciplinaire ou aux règles relatives à l'intégrité scientifique, la ou le responsable d'institut compétent peut donner un avertissement à la personne fautive.
 
-<sup>1</sup> Les actes législatifs suivants sont abrogés:
+#### Art. 93
 
-- 1\. Verordnung vom 15. August 2001 über die deutschsprachige Lehrerinnen- und Lehrerbildung (LLBV) (RSB 430.210.131, seulement en allemand),
-- 2\. Ordonnance du 7 janvier 1976 concernant les commissions chargées du perfectionnement du corps enseignant et le Centre de formation continue du corps enseignant de langue allemande (Zentralstelle für die Lehrerinnen- und Lehrfortbildung) (RSB 430.210.42),
-- 3\. Ordonnance du 21 août 1985 concernant l’Ecole normale de pédagogie spécialisée pour la partie germanophone du canton de Berne (RSB 430.210.511),
-- 4\. Verordnung vom 26. Juni 2002 über die Ausbildung der Lehrkräfte für Schulische Heilpädagogik (RSB 430.210.71, seulement en allemand),
-- 5\. Ordonnance du 22 novembre 1977 sur la formation, les examens et le brevet de maître de l’enseignement secondaire supérieur (RSB 430.214.11),
-- 6\. Ordonnance du 16 septembre 1992 concernant la formation, les examens et le diplôme des maîtres et maîtresses de branches économiques (magister rerum politicarum) (RSB 430.215.1).
+**Autres mesures**
 
-#### Art. 65
+<sup>1</sup> Si les circonstances l'exigent, la rectrice ou le recteur peut décider, en complément ou en remplacement de la sanction prévue à l'article 91, de prendre d'autres mesures administratives ou organisationnelles propres à maintenir la bonne marche de la haute école.
 
-**Abrogation d’arrêtés du Conseil-exécutif**
+<sup>2</sup> D'autres mesures juridiques comme l'engagement d'une poursuite pénale ou le retrait de titres sont réservées.
 
-<sup>1</sup> Les arrêtés du Conseil-exécutif suivants sont abrogés:
+## 10 Dispositions transitoires et dispositions finales
 
-- 1\. Regierungsratsbeschluss 1499 vom 25. Juni 1997 über die Universität; Abteilung für das Höhere Lehramt, Vergütungen für Lehrpraktika,
-- 2\. Regierungsratsbeschluss 2570 vom 29. August 2001 über die Genehmigung der Aufsichtskommission des Institutes für Lehrerinnen- und Lehrerbildung Pädagogisches Ausbildungszentrum NMS,
-- 3\. Regierungsratsbeschluss 1558 vom 8. Mai 2002 über die Aufsichtskommission des Institutes für Schulische Heilpädagogik; Wahl der Kommissionsmitglieder,
-- 4\. Regierungsratsbeschluss 2546 vom 3. Juli 2002 über das Amt für Lehrerinnen-, Lehrer- und Erwachsenenbildung: Aufsichtskommission des Institutes für Allgemeinbildende Studien (ASFB),
-- 5\. Regierungsratsbeschluss 3087 vom 28. August 2002 über die Aufsichtskommission des Institutes für die Grundausbildung der Lehrpersonen für die Sekundarstufe I,
-- 6\. Regierungsratsbeschluss 3088 vom 28. August 2002 über die Kantonale Diplomprüfungs- und Diplomanerkennungskommission,
-- 7\. Regierungsratsbeschluss 3514 vom 16. Oktober 2002 über die Aufsichtskommission des Institutes für die Grundausbildung der Lehrpersonen für den Kindergarten und die Primarstufe Bern Marzili,
-- 8\. Regierungsratsbeschluss 0438 vom 11. Februar 2004 über den Stellenplan der Institute und Organe der Lehrerinnen- und Lehrerbildung,
-- 9\. Regierungsratsbeschluss 0769 vom 10. März 2004 über die Kantonale Konferenz der Lehrerinnen- und Lehrerbildung (KKLLB); Rücktritt Präsident und Vizepräsident; Neuwahl Präsidium und Vizepräsidium.
+#### Art. 94
 
-#### Art. 66
+**Dispositions applicables à l'institution de formation du corps enseignant de l'association NMS Bern**
+
+<sup>1</sup> L'article 2 s'applique à partir du 1<sup>er</sup> février 2023.
+
+#### Art. 95
+
+**Droit aux rentes particulières**
+
+<sup>1</sup> Les collaboratrices et les collaborateurs dont les rapports de travail ont été résiliés ou non prolongés avant le 1<sup>er</sup> janvier 2023 et qui, au moment de la résiliation des rapports de travail, remplissent les conditions requises pour avoir droit aux rentes particulières selon l'ancien droit (art. 15b, al. 2 à 4 OHEP) conservent ce droit après l'entrée en vigueur de la présente modification.
+
+#### Art. 96
+
+**Calcul de la durée d'engagement**
+
+<sup>1</sup> La durée des engagements conclus selon l’ancien droit est imputable au calcul de la durée d’engagement visée à l’article 44, alinéa 1, lettre b.
+
+#### Art. 97
+
+**Taxe d'études pour les étudiantes étrangères et les étudiants étrangers**
+
+<sup>1</sup> La taxe d'études visée à l'article 79, alinéa 2 est prélevée pour la première fois au semestre d'automne 2023.
+
+#### Art. 98
+
+**Adaptation des rapports de travail existants de la Haute école pédagogique**
+
+<sup>1</sup> Le conseil de l'école fixe, par voie de règlement, les adaptations nécessaires des rapports de travail existants de la Haute école pédagogique au nouveau droit.
+
+#### Art. 99
+
+**Abrogation**
+
+<sup>1</sup> L'ordonnance du 13 avril 2005 sur la Haute école pédagogique germanophone (OHEP)[^99-1] est abrogée.
+
+[^99-1]: RSB [436.911](https://www.belex.sites.be.ch/data/436.911/fr)
+
+#### Art. 100
 
 **Entrée en vigueur**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2005.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2023.
 
-## T1 Dispositions transitoires de la modification du 12.03.2008
-
-#### Art. T1-1
-
-<sup>1</sup> Les demandes d'exercer une activité annexe soumise à autorisation, déposées par des enseignants ou des enseignantes avant le 1<sup>er</sup> juin 2008, relèvent de la compétence de l'Office de l'enseignement supérieur.
-
-<sup>2</sup> Les soldes horaires antérieurs au 1<sup>er</sup> juin 2008 peuvent faire l'objet d'une indemnisation financière selon l'article 15a.
-
-## T2 Dispositions transitoires de la modification du 25.05.2011
-
-#### Art. T2-1
-
-<sup>1</sup> L'article 38a est applicable à partir de l'année d'études 2011/2012.
-
-<sup>2</sup> Les taxes sont applicables à partir du semestre de printemps 2012 conformément aux dispositions de la présente modification.
-
-## T3 Dispositions transitoires de la modification du 09.11.2011
-
-#### Art. T3-1
-
-<sup>1</sup> Les émoluments prévus aux articles 50, 52 et 55 sont prélevés selon le nouveau tarif à partir du semestre de printemps 2012.
-
-## T4 Dispositions transitoires de la modification du 6.05.2015
-
-#### Art. T4-1
-
-<sup>1</sup> Le solde du compte épargne-temps des membres de la direction d’école ainsi que des enseignants et des enseignantes doit être compensé ou indemnisé dans les cinq ans qui suivent l’entrée envigueur de la présente modification. Sur demande, le versement de l’indemnisation financière peut être échelonné.
-
-<sup>2</sup> Les élèves du degré secondaire II qui ont commencé leurs études dans les disciplines spécialisées avant le 1<sup>er</sup> janvier 2016 et qui démarrent leur formation à la Haute école pédagogique pendant ces études ou juste après, mais au plus tard lors du semestre de printemps 2020, peuvent accomplir leur formation sur la base des dispositions de l’ancien droit.
-
-## T5 Dispositions transitoires de la modification du 22.06.2016
-
-#### Art. T5-1
-
-<sup>1</sup> La durée des engagements conclus selon l’ancien droit entre dans le calcul de la durée d’engagement visée à l’article 15b, alinéa 2 OHEP.
-
-Berne, le 13 avril 2005
+Berne, le 16 novembre 2022
 
 Au nom du Conseil-exécutif,
 
-la présidente: Egger-Jenzer
+la présidente: Häsler
 
-le chancelier: Nuspliger
+le chancelier: Auer
 
-05-34
+22-102
