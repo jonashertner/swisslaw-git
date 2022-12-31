@@ -4,11 +4,11 @@ title: Ordonnance du 23 septembre 2011 sur le registre foncier (ORF)
 short: ORF
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/667"
 language: fr
-version: 2020-07-01
+version: 2023-01-01
 adopted: 2011-09-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2011-667-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-667-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20200701/fr"
 
 (ORF)
 
-du 23 septembre 2011 (Etat le 1<sup>er</sup> juillet 2020)
+du 23 septembre 2011 (Etat le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu les art*.* 943, al. 2, 945, al. 2, 949, al. 1, 949*a*, al. 2, 962, al. 3, 967, al. 3, 970, al. 3, 977, al. 3, et l’art. 18, al. 2, du titre final du code civil (CC)[^ingress-1], l’art. 102, let. b, de la loi du 3 octobre 2003 sur la fusion (LFus)[^ingress-2] et les art. 5, 6, 13, al. 1 à 4, et 24, al. 2, de la loi du 5 octobre 2007 sur la géoinformation (LGéo)[^ingress-3],
+vu les art*.* 943, al. 2, 945, al. 2, 949, al. 1, 949*a*, al. 2, 949*c*, 962, al. 3, 967, al. 3, 970, al. 3 et 977, al. 3, et l’art. 18, al. 2, du titre final du code civil (CC)[^ingress-1], vu l’art. 102, let. b, de la loi du 3 octobre 2003 sur la fusion (LFus)[^ingress-2] vu les art. 5, 6, 13, al. 1 à 4, et 24, al. 2, de la loi du 5 octobre 2007 sur la géoinformation (LGéo)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^ingress-3]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 ## Titre 1 Dispositions générales
 
@@ -43,7 +44,12 @@ La présente ordonnance règle:
 - b. la structure, le contenu et les effets juridiques du registre foncier;
 - c. les communications et les transactions électroniques avec l’office du registre foncier;
 - d. la procédure à suivre pour l’inscription, la modification et la radiation des droits réels immobiliers, de même que celle pour l’inscription, la modification et la radiation des annotations et des mentions;
-- e. la délivrance des renseignements et la consultation du registre foncier.
+- e. la délivrance des renseignements et la consultation du registre foncier;
+- f.[^1-1] l’identification des personnes physiques titulaires de droits sur des immeubles au moyen du numéro AVS;
+- g.[^1-2] la recherche d’immeubles à l’échelle nationale par les autorités habilitées.
+
+[^1-1]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^1-2]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 2
 
@@ -100,7 +106,7 @@ Dans la mesure où la présente ordonnance ne prévoit rien d’autre, l’une o
 <sup>2</sup> L’utilisation de documents électroniques présuppose que le canton ait autorisé l’office du registre foncier concerné à communiquer et à conduire des transactions par voie électronique (art. 39).
 
 [^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-2]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^3-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^3-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 ### Chapitre 2 Autorités, langue officielle et notification des décisions
@@ -154,7 +160,11 @@ Il peut en particulier:
 
 Toutes les instances cantonales notifient immédiatement et gratuitement leurs décisions rendues sur recours à l’OFRF.
 
-### Chapitre 3 Tenue, contenu et effets juridiques du registre foncier
+### Chapitre 3 Tenue et contenu du registre foncier
+
+[^tit1-chap3-1]
+
+[^tit1-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 8
 
@@ -197,13 +207,15 @@ Les données du feuillet du grand livre doivent pouvoir être présentées dans 
 
 #### Art. 11
 
-**Registre des propriétaires**
+**Registre des propriétaires dans le registre foncier tenu sur papier[^11-1]**
 
 Dans le registre foncier tenu sur papier, le registre des propriétaires contient le nom des propriétaires inscrits par ordre alphabétique et la désignation des immeubles qui leur appartiennent.
 
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 12
 
-**Registre des créanciers**
+**Registre des créanciers dans le registre foncier tenu sur papier[^12-1]**
 
 <sup>1</sup>
 
@@ -214,13 +226,25 @@ Lorsque le registre foncier est tenu sur papier, on indique dans le registre des
 
 <sup>2</sup> Au lieu d’être inscrits dans le registre des créanciers, ces créanciers peuvent l’être au feuillet du grand livre dans la rubrique «gages immobiliers».
 
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 12a
+
+**Registre des identifiants de personnes du registre foncier informatisé**[^12a-1]
+
+Les modalités de tenue du registre des identifiants de personnes du registre foncier informatisé sont réglées au chapitre 4*a*.
+
+[^12a-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 13
 
-**Registres accessoires**
+**Autres registres accessoires[^13-1]**
 
 <sup>1</sup> L’office du registre foncier peut tenir un registre des adresses des ayants droit et d’autres registres accessoires tels que des registres des rues ou des bâtiments.
 
 <sup>2</sup> Il peut prélever les données destinées à ces registres auprès d’autres systèmes d’informations.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 14
 
@@ -343,7 +367,7 @@ Les droits suivants sont immatriculés comme immeubles au registre foncier sur d
 
 Une part de copropriété est immatriculée comme immeuble au registre foncier:
 
-- a. lorsqu’elle est grevée d’un gage immobilier; ou
+- a. lorsqu’elle est grevée d’un gage immobilier, ou
 - b. lorsqu’il s’agit d’une part de copropriété en propriété par étages.
 
 <sup>2</sup> Elle peut être immatriculée comme immeuble au registre foncier lorsque cela sert à la clarté et à la précision des écritures.
@@ -352,14 +376,14 @@ Une part de copropriété est immatriculée comme immeuble au registre foncier:
 
 Les parts de copropriété sont immatriculées:
 
-- a. par l’inscription, dans la rubrique «propriété» du feuillet du grand livre de l’immeuble de base, de la désignation des parts de copropriété en lieu et place du nom du propriétaire; et
+- a. par l’inscription, dans la rubrique «propriété» du feuillet du grand livre de l’immeuble de base, de la désignation des parts de copropriété en lieu et place du nom du propriétaire, et
 - b. par l’ouverture d’un feuillet du grand livre pour chaque part de copropriété.
 
 <sup>4</sup>
 
 Une part de copropriété en propriété par étages est immatriculée:
 
-- a. par l’inscription sur le feuillet du grand livre de l’immeuble de base des données prévues à l’art. 97; et
+- a. par l’inscription sur le feuillet du grand livre de l’immeuble de base des données prévues à l’art. 97, et
 - b. par l’ouverture d’un feuillet du grand livre pour chaque unité d’étage avec son état descriptif.
 
 <sup>5</sup>
@@ -369,6 +393,87 @@ Le feuillet du grand livre de la part à immatriculer indique:
 - a. la désignation de l’immeuble de base;
 - b. en cas de copropriété: la quote-part de l’immeuble de base;
 - c. en cas de copropriété en propriété par étages: l’indication qu’il s’agit d’une part de copropriété en propriété par étages ainsi que la quote-part.
+
+### Chapitre 4*a* Identification des personnes physiques titulaires de droits sur des immeubles au moyen du numéro AVS
+
+[^tit1-chap4a-1]
+
+[^tit1-chap4a-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 23a
+
+**Registre des identifiants de personnes**
+
+<sup>1</sup> Toute personne physique titulaire d’un droit sur un immeuble inscrit dans le grand livre est enregistrée avec son numéro AVS dans le registre des identifiants de personnes du registre foncier informatisé. Le numéro AVS ne peut figurer ni dans le grand livre ni dans le journal ni dans les registres accessoires prévus à l’art. 13.
+
+<sup>2</sup> Les données enregistrées dans le registre des identifiants de personnes sont reliées aux écritures correspondantes du grand livre. À des fins d’identification, elles peuvent être reliées aux écritures des registres accessoires prévus à l’art. 13.
+
+<sup>3</sup>
+
+Le registre des identifiants de personnes contient, pour toute personne inscrite:
+
+- a. le nom et le nom de célibataire s’il s’en distingue, les prénoms, la date de naissance, le lieu de naissance, le sexe et la nationalité;
+- b. le numéro AVS;
+- c. le statut de l’enregistrement du numéro AVS;
+- d. la référence technique nécessaire à la mise en relation avec le grand livre, avec les registres accessoires prévus à l’art. 13 et avec les sources de données.
+
+#### Art. 23b
+
+**Sources de données**
+
+Pour la tenue du registre des identifiants de personnes, l’office du registre foncier acquiert les données mentionnées à l’art. 23*a*, al. 3, let. a et b, depuis l’une des sources suivantes:
+
+- a. le registre des assurés tenu par la Centrale de compensation (CdC), selon une des procédures visées à l’art. 134<sup>quater</sup>, al. 2 à 4, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS)[^23b-1];
+- b. les systèmes cantonaux qui comparent régulièrement ces données avec la CdC.
+
+[^23b-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23c
+
+**Enregistrement du numéro AVS lors de la procédure de traitement**
+
+<sup>1</sup> L’office du registre foncier enregistre une personne avec son numéro AVS dans le registre des identifiants de personnes au cours de la procédure de traitement, dès qu’il a identifié cette personne de manière suffisamment fiable.
+
+<sup>2</sup> À cet effet, il interroge les sources de données sur la base des indications au sens de l’art. 51, al. 1, let. a, dont il dispose.
+
+<sup>3</sup>
+
+S’il ne peut identifier la personne concernée de manière suffisamment fiable en interrogeant les sources de données, il procède à des investigations supplémentaires. Il peut:
+
+- a. demander à la personne concernée de lui donner tous les renseignements et de lui fournir toutes les pièces appropriées et nécessaires pour l’enregistrement du numéro AVS comme identifiant univoque;
+- b. vérifier individuellement le numéro AVS en collaboration avec la CdC (art. 134<sup>quarter</sup>, al. 4 et 5, RAVS[^23c-1]).
+
+<sup>4</sup> S’il constate que la CdC n’a pas encore attribué de numéro AVS à la personne concernée, il lui demande de le faire.
+
+<sup>5</sup> S’il ne peut identifier la personne concernée de manière suffisamment fiable ou qu’il ne soit pas possible de lui attribuer un numéro AVS, il le signale dans le registre des identifiants de personnes. Un enregistrement ultérieur du numéro AVS est possible à tout moment.
+
+<sup>6</sup> Le traitement peut se poursuivre et s’achever indépendamment de l’enregistrement du numéro AVS.
+
+[^23c-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23d
+
+**Vérification périodique**
+
+<sup>1</sup> L’office du registre foncier reprend du registre des identifiants de personnes les résultats des vérifications périodiques de l’exactitude des numéros AVS faites par la CdC (art. 134<sup>quinquies</sup>, al. 3, RAVS[^23d-1]).
+
+<sup>2</sup> À l’exception de la radiation des numéros AVS annulés par la CdC, la mise à jour des données dans le registre des identifiants de personnes est effectuée automatiquement.
+
+<sup>3</sup> Si un numéro AVS est annulé par la CdC, l’enregistrement du numéro AVS concerné est supprimé par l’office du registre foncier, et il est procédé à un nouvel enregistrement.
+
+<sup>4</sup> En cas de nouvel enregistrement ou de doute, l’office du registre foncier procède selon l’art. 23*c*, al. 3 à 5.
+
+[^23d-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23e
+
+**Modalités techniques**
+
+Le DFJP et le DDPS règlent conjointement les aspects techniques, notamment en ce qui concerne:
+
+- a. les interfaces avec la CdC;
+- b. les procédures de reprise et de mise à jour des données;
+- c. la journalisation de la reprise et de la mise à jour des données.
 
 ### Chapitre 5 Remplacement et clôture du feuillet du grand livre
 
@@ -436,7 +541,8 @@ Toute personne a le droit, sans être tenue de rendre vraisemblable un intérêt
 Les cantons peuvent prévoir de rendre accessible en ligne les données du grand livre, du journal, des registres accessoires et des pièces justificatives aux personnes et autorités ci-après sans qu’elles soient tenues de rendre vraisemblable un intérêt en l’espèce:
 
 - a. les personnes habilitées à dresser des actes authentiques et leurs auxiliaires, les ingénieurs géomètres inscrits au registre des géomètres et leurs auxiliaires, les autorités fiscales et d’autres autorités fédérales, cantonales et communales, s’agissant des données dont ils ont besoin pour accomplir leurs tâches légales;
-- b. les banques, les caisses de pensions, les assurances, les institutions reconnues par la Confédération conformément à l’art. 76, al. 1, let. a, de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR)[^28-2] et la Société suisse de crédit hôtelier selon la loi fédérale du 20 juin 2003 sur l’encouragement du secteur de l’hébergement[^28-3], s’agissant des données dont elles ont besoin pour accomplir leurs tâches dans le domaine hypothécaire;
+- b.[^28-2] les banques, les institutions de prévoyance, les assurances, les institutions reconnues par la Confédération conformément à l’art. 76, al. 1, let. a, de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR)[^28-3] et la Société suisse de crédit hôtelier selon la loi fédérale du 20 juin 2003 sur l’encouragement du secteur de l’hébergement[^28-4], s’agissant des données dont elles ont besoin pour accomplir leurs tâches dans le domaine hypothécaire;
+- b<sup>bis</sup>.[^28-5] les institutions de prévoyance, s’agissant des données dont elles ont besoin pour assurer le but de la prévoyance prévu à l’art. 30*e*, al. 2, LPP[^28-6];
 - c. les avocats inscrits au registre des avocats, s’agissant des données nécessaires à l’exercice de leur profession, en rapport avec les actes juridiques concernant des immeubles;
 - d.
 
@@ -447,11 +553,18 @@ Les cantons peuvent prévoir de rendre accessible en ligne les données du grand
 
 - e. les gérances immobilières habilitées à effectuer des consultations en tant qu’auxiliaires des personnes visées à la let. d.
 
-<sup>2</sup> Ils ne peuvent donner un accès aux pièces justificatives qu’aux titulaires du droit au sens de l’al. 1, let. a et d, ch. 1. Ils prennent des mesures pour assurer la confidentialité des pièces justificatives.
+<sup>2</sup> Ils ne peuvent donner un accès aux pièces justificatives qu’aux titulaires du droit au sens de l’al. 1, let. a et d, ch. 1. Ils prennent des mesures pour assurer le respect de l’art. 949*b*, al. 2, CC et la confidentialité des pièces justificatives.[^28-7]
+
+<sup>3</sup> Sont exclus de l’accès les documents joints pour l’identification conformément à l’art. 51, al. 1, let. a.[^28-8]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 2019, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 3049](https://fedlex.data.admin.ch/eli/oc/2019/556)).
-[^28-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^28-3]: [RS 935.12](https://fedlex.data.admin.ch/eli/cc/2003/642)
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-3]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^28-4]: [RS 935.12](https://fedlex.data.admin.ch/eli/cc/2003/642)
+[^28-5]: Introduite par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^28-7]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-8]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 29
 
@@ -530,7 +643,7 @@ Il contient en outre:
 
 <sup>4</sup> Les cantons peuvent proposer des extraits officiels électroniques du registre foncier tenu sur papier. Dans un tel cas, leur établissement obéit à l’OAAE.
 
-[^32-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 [^32-2]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
 
 #### Art. 33
@@ -544,6 +657,194 @@ Il contient en outre:
 **Publication électronique des transferts de propriété**
 
 Les cantons peuvent rendre publiques sous forme électronique les données destinées à la publication conformément à l’art. 970*a*, al. 1, CC.
+
+### Chapitre 6*a* Recherche d’immeubles à l’échelle nationale par les autorités habilitées
+
+[^tit1-chap6a-1]
+
+[^tit1-chap6a-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 34a
+
+**Principe**
+
+Les autorités de la Confédération, des cantons et des communes qui en ont besoin pour accomplir leurs tâches légales (autorités habilitées) peuvent faire une recherche à l’échelle nationale pour trouver sur quels immeubles une personne désignée selon l’art. 90, al. 1, a des droits en vertu du grand livre du registre foncier informatisé.
+
+#### Art. 34b
+
+**Service de recherche d’immeubles à l’échelle nationale**
+
+<sup>1</sup> L’OFRF gère un service de recherche d’immeubles à l’échelle nationale (service de recherche d’immeubles).
+
+<sup>2</sup> Les autorités habilitées l’interrogent au moyen d’un masque de recherche ou d’une interface informatique. Le service compare les demandes avec les données du grand livre ayant des effets juridiques de tous les cantons qui sont disponibles électroniquement au moment de la recherche ainsi qu’avec les données du registre des identifiants de personnes et fournit à l’autorité requérante le résultat de cette dernière.
+
+<sup>3</sup> Les autorités habilitées ont besoin d’une autorisation de l’OFRF pour utiliser l’interface visée à l’al. 2.
+
+<sup>4</sup> Le service de recherche d’immeubles ne tient pas de données du registre foncier.
+
+<sup>5</sup>
+
+Afin de ne pas grever les serveurs informatiques des cantons par des recherches redondantes, il tient un index de recherche. Celui-ci contient les données suivantes:
+
+- a. les informations nécessaires à l’identification de l’office du registre foncier compétent;
+- b.
+
+  sous une forme permettant au service de recherche de déceler dans un système du registre foncier un résultat positif à une demande sans qu’il soit possible de faire un lien plus précis avec une personne (forme pseudonymisée):
+
+  - 1\. les données mentionnées à l’art. 90, al. 1,
+  - 2\. pour les personnes physiques, le numéro AVS.
+
+<sup>6</sup> Pour permettre la tenue de la statistique des enregistrements, l’index de recherche contient en outre le statut de l’enregistrement des numéros AVS selon l’art. 23*c*, al. 5.
+
+<sup>7</sup>
+
+Le DFJP et le DDPS règlent ensemble les modalités d’utilisation de l’interface; ils déterminent en particulier:
+
+- a. les exigences techniques qui doivent être remplies;
+- b. les informations qui doivent être jointes à la demande.
+
+#### Art. 34c
+
+**Accès du service de recherche d’immeubles aux données du grand livre ayant des effets juridiques ainsi qu’aux données du registre des identifiants de personnes et transmission des données à l’index de recherche**
+
+<sup>1</sup> Les cantons permettent au service de recherche d’immeubles d’accéder à leurs données du grand livre ayant des effets juridiques et aux données du registre des identifiants de personnes au moyen d’une interface au sens de l’art. 949*a*, al. 3, CC.
+
+<sup>2</sup> Ils veillent à ce que ces données soient immédiatement accessibles. Ils assurent le fonctionnement technique et la disponibilité de l’interface durant les heures ouvrables de leurs offices du registre foncier.
+
+<sup>3</sup> À l’invitation de l’OFRF, ils transmettent à l’index de recherche du service de recherche d’immeubles toutes les données visées à l’art. 34*b*, al. 5 et 6. Ils lui transmettent au moins une fois par jour les modifications opérées depuis la dernière transmission.
+
+<sup>4</sup> Ils indiquent à l’OFRF si les données visées à l’art. 34*b*, al. 5, let. b, qu’ils transmettent sont pseudonymisées ou si le service de recherche d’immeubles doit encore les convertir sous cette forme.
+
+<sup>5</sup>
+
+Le DFJP et le DDPS fixent ensemble les modalités techniques, notamment en ce qui concerne:
+
+- a. l’interface permettant au service de recherche des immeubles d’accéder aux données du grand livre ayant des effets juridiques et aux données du registre des identifiants de personnes;
+- b. l’interface avec l’index de recherche.
+
+<sup>6</sup> Ils peuvent mettre à la disposition des cantons une implémentation de l’interface au sens de l’al. 5, let. b.
+
+#### Art. 34d
+
+**Accès des autorités habilitées en général**
+
+<sup>1</sup> Sur demande motivée de l’autorité habilitée, l’OFRF attribue aux collaborateurs de celle-ci les autorisations d’accès au service de recherche d’immeubles dont ils ont besoin pour accomplir leurs tâches.
+
+<sup>2</sup>
+
+La demande doit comporter:
+
+- a. les noms de tous les collaborateurs qui doivent obtenir une autorisation d’accès;
+- b. la mention de la tâche légale de l’autorité requérante que les personnes concernées doivent accomplir ainsi que les dispositions légales applicables;
+- c. une justification quant aux données du grand livre visées à l’art. 34*e* , al. 3, let. d, pour lesquelles l’accès au service de recherche d’immeubles est nécessaire pour accomplir la tâche légale;
+- d. une prise de position de l’autorité de surveillance du registre foncier compétente au siège de l’autorité habilitée concernant la demande d’autorisation d’accès de cette dernière au service de recherche d’immeubles;
+- e. la confirmation de la CdC quant à la licéité de l’utilisation systématique du numéro AVS.
+
+<sup>3</sup> Les changements susceptibles d’avoir une incidence sur les autorisations d’accès doivent être signalés à l’OFRF spontanément et sans délai.
+
+<sup>4</sup>
+
+L’OFRF met à la disposition des autorités cantonales du registre foncier la liste des autorités habilitées, qui contient les informations suivantes:
+
+- a. la désignation de l’autorité;
+- b. l’étendue de l’accès selon l’art. 34*e*, al. 3, let. d.
+
+#### Art. 34e
+
+**Critères de recherche autorisés et délimitation des résultats**
+
+<sup>1</sup> Les personnes habilitées peuvent faire une recherche sur la base des données mentionnées à l’art. 90, al. 1.
+
+<sup>2</sup>
+
+Sur demande motivée de l’autorité, l’OFRF donne aux personnes habilitées un accès leur permettant:
+
+- a. de faire une recherche à partir du numéro AVS et de recevoir le numéro AVS dans les résultats de la recherche;
+- b. de recevoir les données du grand livre ayant des effets juridiques si elles en ont besoin pour accomplir leurs tâches légales.
+
+<sup>3</sup>
+
+Les personnes habilitées ne reçoivent pas d’autres données que les suivantes:
+
+- a. les données mentionnées à l’art. 90, al. 1, relatives à la personne;
+- b. concernant les personnes physiques, l’indication que l’office du registre foncier les a enregistrées avec leur numéro AVS ou non;
+- c. la désignation de l’immeuble;
+- d.
+
+  la désignation du droit sous une des formes suivantes:
+
+  - 1\. propriété,
+  - 2\. servitude,
+  - 3\. charge foncière,
+  - 4\. gage immobilier,
+  - 5\. droit annoté.
+
+#### Art. 34f
+
+**Journalisation des demandes par le service de recherche d’immeubles**
+
+<sup>1</sup> Le service de recherche d’immeubles journalise automatiquement les demandes pour que l’OFRF puisse contrôler les accès et percevoir les émoluments.
+
+<sup>2</sup>
+
+Les fichiers journaux contiennent les données suivantes:
+
+- a. la désignation, l’identification et la fonction de l’autorité;
+- b. le numéro d’identification du collaborateur de l’autorité;
+- c. les critères de recherche employés;
+- d. la date et l’heure de la consultation;
+- e. les résultats de recherche.
+
+<sup>3</sup> Ils sont conservés pendant deux ans.
+
+<sup>4</sup> La consultation des fichiers journaux est régie par la loi du 19 juin 1992 sur la protection des données [^34f-1].
+
+[^34f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 34g
+
+**Contrôle des accès par les cantons et droit des propriétaires fonciers d’obtenir des renseignements**
+
+<sup>1</sup> Les recherches effectuées au moyen du service de recherche d’immeubles sont journalisées automatiquement par le système cantonal interrogé. Si le système cantonal ne permet pas une telle journalisation, le service de recherche d’immeubles met à la disposition du canton qui le demande les extraits du fichier journal prévu à l’art. 34*f* le concernant.
+
+<sup>2</sup> Si le canton constate que les recherches effectuées par une autorité sont de nature à susciter des doutes quant à l’utilisation des données aux fins de l’accomplissement de sa tâche légale, il en informe l’OFRF sans délai.[^34g-1]
+
+<sup>3</sup> Le droit des propriétaires fonciers d’obtenir des renseignements est régi par l’art. 30, al. 2.
+
+[^34g-1]: Erratum du 3 mars 2022 ([RO 2022 148](https://fedlex.data.admin.ch/eli/oc/2022/148)).
+
+#### Art. 34h
+
+**Retrait de l’autorisation d’accès**
+
+<sup>1</sup> Si les conditions de l’accès ne sont plus remplies, l’OFRF retire l’autorisation d’accès au collaborateur concerné.
+
+<sup>2</sup>
+
+Il peut retirer l’autorisation d’accès:
+
+- a. si les changements visés à l’art. 34*d*, al. 3, ne sont pas signalés;
+- b. si le service de recherche d’immeubles est utilisé de manière abusive.
+
+#### Art. 34i
+
+**Émoluments**
+
+<sup>1</sup> L’OFRF perçoit auprès des autorités habilitées des cantons et des communes des émoluments annuels pour l’utilisation du service de recherche d’immeubles.
+
+<sup>2</sup> Le montant des émoluments d’une autorité est calculé selon la formule suivante:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/fr/xml/image/image1.png)
+
+<sup>3</sup> Il est toutefois de 2 francs au plus par recherche.
+
+<sup>4</sup> Les chiffres déterminants pour le coût et le nombre des recherches sont ceux de l’année précédente.
+
+<sup>5</sup> L’OFRF perçoit un émolument en fonction du temps consacré aux autorisations visées à l’art. 34*b*, al. 3. Le taux horaire est de 250 francs.
+
+<sup>6</sup> Pour le surplus, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^34i-1] sont applicables.
+
+[^34i-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ### Chapitre 7 Sécurité des données et obligation de conserver
 
@@ -633,7 +934,7 @@ Les requêtes électroniques peuvent être transmises aux offices du registre fo
 <sup>2</sup> Le DFJP peut réglementer le déroulement et l’automatisation des communications et des transactions électroniques, notamment au moyen de formulaires, de formats de données, de structures des données, de processus et de procédures de transmission d’autre nature.
 
 [^40-1]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
-[^40-2]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^40-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^40-3]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 41
@@ -678,10 +979,10 @@ Les certificats doivent contenir les éléments suivants:[^44-5]
 <sup>5</sup> La notification par voie électronique peut avoir lieu lorsque la partie concernée s’est fait enregistrer sur une plateforme de messagerie et qu’elle a déclaré à l’office du registre foncier consentir à cette forme d’envoi.
 
 [^44-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
-[^44-2]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^44-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 [^44-3]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
-[^44-4]: Introduit par le ch. II 3 de l’annexe à l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
-[^44-5]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^44-4]: Introduit par l’annexe ch. II 3 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^44-5]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
 
 #### Art. 45
 
@@ -765,13 +1066,24 @@ L’exécuteur testamentaire qui peut justifier de sa qualité par une attestati
 
 Les pièces justificatives accompagnant la réquisition doivent contenir les indications suivantes, relatives aux personnes du disposant et de l’acquéreur:
 
-- a. pour les personnes physiques: le nom, les prénoms, la date de naissance, le sexe, le lieu de domicile, le lieu d’origine ou la nationalité; une copie du passeport ou de la carte d’identité doit être jointe aux pièces justificatives accompagnant la réquisition; après la saisie des données personnelles, cette copie doit être détruite;
+- a.[^51-1]
+
+  pour les personnes physiques: le nom, les prénoms, la date de naissance, le sexe, le lieu de domicile, le lieu d’origine ou la nationalité; doivent être joints aux pièces justificatives accompagnant la réquisition une copie du passeport ou de la carte d’identité ainsi que l’un des documents suivants:
+
+  - 1\. une copie du certificat d’assurance visé à l’art. 135<sup>bis</sup> RAVS[^51-2],
+  - 2\. une copie de la carte d’assuré visée à l’art. 1 de l’ordonnance du 14 février 2007 sur la carte d’assuré pour l’assurance obligatoire de soins[^51-3],
+  - 3\. une déclaration écrite de la personne indiquant son lieu de naissance, son nom de famille, son numéro AVS, les prénoms de ses parents et, si elle est mariée, son nom de célibataire;
+
 - b. pour les personnes morales ainsi que pour les sociétés en nom collectif et en commandite: la raison sociale ou le nom, le siège, la forme juridique lorsque la raison sociale ou le nom n’en font pas état, ainsi que le numéro d’identification des entreprises (IDE);
 - c. pour les autres sociétés et communautés dont les membres sont liés entre eux par une disposition légale ou un contrat et sont propriétaires en main commune: les données mentionnées à la let. a ou b pour chacun d’eux.
 
 <sup>2</sup> Elles doivent en outre contenir les indications permettant d’apprécier si l’autorisation d’une autorité ou le consentement de tiers (par ex. celui du conjoint) est nécessaire pour disposer de l’immeuble.
 
 <sup>3</sup> En cas d’acquisition en régime de propriété collective, elles doivent comporter les indications nécessaires à la présentation de ce rapport de propriété collective conformément à l’art. 96.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^51-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^51-3]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 
 ### Section 2 Réquisition d’hypothèques légales directes
 
@@ -781,7 +1093,7 @@ Les pièces justificatives accompagnant la réquisition doivent contenir les ind
 
 Les hypothèques légales directes prévues par le CC (art. 808, al. 4, 810, al. 3, 819 al. 2, CC) sont inscrites sur réquisition du créancier titulaire du gage immobilier lorsque:
 
-- a. le propriétaire a reconnu le montant garanti par le gage; ou
+- a. le propriétaire a reconnu le montant garanti par le gage, ou
 - b. le tribunal a fixé le montant garanti par le gage.
 
 <sup>2</sup> Le délai d’inscription est sauvegardé par une annotation d’une inscription provisoire destinée à la conservation de droits réels allégués (art. 961, al. 1, ch. 1, CC).
@@ -922,7 +1234,7 @@ Le droit cantonal peut prévoir que les droits de passage permanents directement
 
 Les actes authentiques et les légalisations faits à l’étranger sont reconnus lorsqu’ils:
 
-- a. sont munis d’une attestation de l’autorité compétente au lieu de l’instrumentation, certifiant qu’ils ont été effectués par une personne compétente habilitée à dresser des actes authentiques (apostille); et
+- a. sont munis d’une attestation de l’autorité compétente au lieu de l’instrumentation, certifiant qu’ils ont été effectués par une personne compétente habilitée à dresser des actes authentiques (apostille), et
 - b. sont complétés par une légalisation du gouvernement étranger et de la représentation diplomatique ou consulaire compétente suisse, à moins qu’un traité international n’en dispose autrement.
 
 ### Section 2 Propriété
@@ -968,7 +1280,7 @@ Lorsque l’acquisition de la propriété intervient avant l’inscription au re
 Dans les autres cas, le justificatif relatif au titre de l’acquisition de la propriété avant l’inscription au registre foncier consiste:
 
 - a. dans le titre dans la forme prévue par la loi pour l’acte en cause;
-- b. dans une décision entrée en force; ou
+- b. dans une décision entrée en force, ou
 - c. dans le prononcé entré en force.
 
 #### Art. 66
@@ -1253,7 +1565,7 @@ Lorsque la réquisition émane d’une autorité ou d’une personne investie d�
 <sup>3</sup> La légalisation électronique d’une signature électronique obéit à l’OAAE[^86-1], en particulier à son art. 16.[^86-2]
 
 [^86-1]: [RS 211.435.1](https://fedlex.data.admin.ch/eli/cc/2018/29)
-[^86-2]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
+[^86-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique, en vigueur depuis le 1<sup>er</sup> fév. 2018 ([RO 2018 89](https://fedlex.data.admin.ch/eli/oc/2018/29)).
 
 #### Art. 87
 
@@ -1323,7 +1635,7 @@ L’office du registre foncier met fin à la procédure de traitement par un ord
 
 - a. que l’inscription, la modification ou la radiation des données du grand livre entre en force;
 - b. que le rejet de la réquisition entre en force;
-- c. que la réquisition a été retirée; ou
+- c. que la réquisition a été retirée, ou
 - d. que l’inscription portée au journal par erreur n’est pas valable.
 
 #### Art. 92
@@ -1777,7 +2089,7 @@ Les inscriptions provisoires sont désignées comme telles et contiennent:
 
 Après l’abornement, l’ingénieur-géomètre compétent communique à l’office du registre foncier:
 
-- a. que la mention peut être radiée; ou
+- a. que la mention peut être radiée, ou
 - b. qu’une mutation de correction aura lieu et que la mention ne pourra être radiée qu’une fois celle-ci exécutée.
 
 #### Art. 127
@@ -1897,7 +2209,7 @@ La radiation de la mention d’un lien avec un trust requiert que soit apportée
 
 - a. du consentement d’une personne habilitée par le constituant pour le faire;
 - b. du consentement des bénéficiaires;
-- c. de l’approbation de l’autorité étrangère de surveillance du trust; ou
+- c. de l’approbation de l’autorité étrangère de surveillance du trust, ou
 - d. d’une décision émanant d’un tribunal suisse.
 
 <sup>2</sup> L’office du registre foncier peut exiger la production d’un acte émanant d’une personne suisse habilitée à dresser des actes authentiques constatant l’existence d’une telle preuve.
@@ -2006,14 +2318,14 @@ Le titre de gage est dressé conformément au modèle établi par l’OFRF. Il c
 
 Lorsque plusieurs immeubles sont constitués en gage pour la même cédule hypothécaire, il n’est délivré qu’un seul titre à condition:
 
-- a. que les immeubles grevés soient réunis sur un feuillet collectif; ou
+- a. que les immeubles grevés soient réunis sur un feuillet collectif, ou
 - b. qu’il s’agisse d’un droit de gage collectif (art. 110).
 
 <sup>2</sup>
 
 Dans les autres cas (art. 113), on peut:
 
-- a. émettre un titre spécial pour la part de créance grevant chaque immeuble; ou
+- a. émettre un titre spécial pour la part de créance grevant chaque immeuble, ou
 - b. pour autant que le titre demeure lisible, faire figurer les différents immeubles sur un titre unique, en indiquant la part pour laquelle chacun d’eux est grevé.
 
 #### Art. 146
@@ -2184,6 +2496,16 @@ Le DFJP autorise le canton à tenir le registre foncier informatisé lorsque:
 
 [^160-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
+#### Art. 160a
+
+**Remplacement, renouvellement complet et modifications essentielles du système**[^160a-1]
+
+<sup>1</sup> Les art. 159 et 160 s’appliquent par analogie lorsqu’un canton, après avoir obtenu une autorisation de tenir le registre foncier informatisé, remplace le système, le renouvelle complètement ou y apporte des modifications essentielles (art. 15).
+
+<sup>2</sup> Le renouvellement du système est complet lorsque l’étendue des travaux de renouvellement équivaut à un remplacement du système.
+
+[^160a-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 161
 
 **Abrogation du droit en vigueur**
@@ -2209,6 +2531,55 @@ Les gages immobiliers inscrits au registre foncier comme cédules hypothécaires
 **Restrictions de droit public de la propriété existantes**
 
 Les restrictions de droit public de la propriété ordonnées et entrées en force avant le 1<sup>er</sup> janvier 2012 n’ont pas besoin d’être mentionnées au registre foncier.
+
+#### Art. 164a
+
+**Dispositions transitoires de la modification du 10 décembre 2021 enregistrement du numéro AVS des personnes déjà inscrites au grand livre**[^164a-1]
+
+<sup>1</sup> L’office du registre foncier enregistre les numéros AVS des personnes physiques titulaires d’un droit sur un immeuble qui sont déjà inscrites au grand livre au moment de l’entrée en vigueur de la modification du 10 décembre 2021 selon la procédure standard pour les collections de données entières visée à l’art. 134<sup>quater</sup>, al. 2, RAVS[^164a-2].
+
+<sup>2</sup> À cet effet, il transmet en bloc à la CdC les données relatives à ces personnes mentionnées à l’art. 90, al. 1, let. a. La transmission initiale doit avoir lieu dans les deux ans qui suivent l’entrée en vigueur de cette modification.
+
+<sup>3</sup> L’office du registre foncier reprend les données vérifiées par la CdC dans le registre des identifiants de personnes sans contrôle supplémentaire.
+
+<sup>4</sup> En cas de doute, il procède selon l’art. 23*c*, al. 3 à 5.
+
+<sup>5</sup>
+
+Les cantons veillent à ce que les personnes déjà inscrites au grand livre soient enregistrées avec leur numéro AVS dans les délais suivants:
+
+- a. pour les personnes inscrites depuis le 1<sup>er</sup> janvier 2012: dans les trois ans qui suivent l’entrée en vigueur de cette modification;
+- b. pour les personnes inscrites entre le 1<sup>er</sup> janvier 1948 et le 31 décembre 2011: dans les cinq ans qui suivent l’entrée en vigueur de cette modification;
+- c. pour les personnes inscrites avant le 1<sup>er</sup> janvier 1948: dans les sept ans qui suivent l’entrée en vigueur de cette modification.
+
+[^164a-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^164a-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 164b
+
+**Dispositions transitoires de la modification du 10 décembre 2021 accès du service de recherche d’immeubles aux données du grand livre ayant des effets juridiques et transmission des données à l’index de recherche**[^164b-1]
+
+<sup>1</sup> Les cantons veillent à ce que l’interface permettant d’accéder aux données depuis le service de recherche d’immeubles (art. 34*c*, al. 1) soit opérationnelle dans un délai d’un an après l’entrée en vigueur de la modification du 10 décembre 2021.
+
+<sup>2</sup> Ils procèdent dans le même délai à la transmission initiale et intégrale des données visées à l’art. 34*b*, al. 5 et 6, à l’index de recherche du service de recherche d’immeubles.
+
+[^164b-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 164c
+
+**Dispositions transitoires de la modification du 10 décembre 2021 émoluments**[^164c-1]
+
+Aucun émolument n’est perçu pour l’utilisation du service de recherche d’immeubles au cours de la première année qui suit l’entrée en vigueur de la modification du 10 décembre 2021.
+
+[^164c-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 164d
+
+**Dispositions transitoires de la modification du 10 décembre 2021 prolongation des délais en cas de remplacement ou de renouvellement complet du système**[^164d-1]
+
+Si, au cours des deux années qui ont précédé l’entrée en vigueur de la modification du 10 décembre 2021, un canton a remplacé le système utilisé pour le registre foncier informatisé, l’a complètement renouvelé ou s’il a décidé de le remplacer ou de le renouveler, il peut prévoir dans sa législation une prolongation appropriée des délais prévus à l’art. 164*a*, al. 2 et 5, ainsi qu’à l’art. 164*b*.
+
+[^164d-1]: Introduit par le ch. I de l’O du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 165
 

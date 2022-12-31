@@ -4,11 +4,11 @@ title: Grundbuchverordnung vom 23. September 2011 (GBV)
 short: GBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/667"
 language: de
-version: 2020-07-01
+version: 2023-01-01
 adopted: 2011-09-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2011-667-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2011-667-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20200701/de"
 
 (GBV)
 
-vom 23. September 2011 (Stand am 1. Juli 2020)
+vom 23. September 2011 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 943 Absatz 2, 945 Absatz 2, 949 Absatz 1, 949*a* Absatz 2, 962 Absatz 3, 967 Absatz 3, 970 Absatz 3, 977 Absatz 3 und Schlusstitel Artikel 18 Absatz 2 des Zivilgesetzbuchs[^ingress-1] (ZGB), Artikel 102 Buchstabe b des Fusionsgesetzes vom 3. Oktober 2003[^ingress-2] (FusG) und die Artikel 5, 6, 13 Absätze 1–4 und 24 Absatz 2 des Geoinformationsgesetzes vom 5. Oktober 2007[^ingress-3] (GeoIG),
+gestützt auf die Artikel 943 Absatz 2, 945 Absatz 2, 949 Absatz 1, 949*a* Absatz 2, 949*c*, 962 Absatz 3, 967 Absatz 3, 970 Absatz 3, 977 Absatz 3 und Schlusstitel Artikel 18 Absatz 2 des Zivilgesetzbuchs (ZGB)[^ingress-1], Artikel 102 Buchstabe b des Fusionsgesetzes vom 3. Oktober 2003[^ingress-2] (FusG) und die Artikel 5, 6, 13 Absätze 1–4 und 24 Absatz 2 des Geoinformationsgesetzes vom 5. Oktober 2007[^ingress-3] (GeoIG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^ingress-3]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -43,7 +44,12 @@ Diese Verordnung regelt:
 - b. den Aufbau, den Inhalt und die Rechtswirkungen des Grundbuchs;
 - c. den elektronischen Geschäftsverkehr mit dem Grundbuchamt;
 - d. das Verfahren zur Eintragung, Änderung und Löschung von dinglichen Rechten an Grundstücken sowie von Vormerkungen und Anmerkungen;
-- e. die Auskunftserteilung und die Einsichtnahme in das Grundbuch.
+- e. die Auskunftserteilung und die Einsichtnahme in das Grundbuch;
+- f.[^1-1] die Identifikation von natürlichen Personen mit Rechten an Grundstücken durch Zuordnung der AHV-Nummer;
+- g.[^1-2] die landesweite Grundstücksuche der berechtigten Behörden.
+
+[^1-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^1-2]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 2
 
@@ -154,7 +160,11 @@ Es kann insbesondere:
 
 Alle kantonalen Instanzen eröffnen dem EGBA ihre Beschwerdeentscheide in Grundbuchsachen sofort und unentgeltlich.
 
-### 3. Kapitel: Führung, Inhalt und Rechtswirkungen des Grundbuchs
+### 3. Kapitel: Führung und Inhalt des Grundbuchs
+
+[^tit1-chap3-1]
+
+[^tit1-chap3-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 8
 
@@ -197,13 +207,15 @@ Die Daten des Hauptbuchblatts, einschliesslich der jeweils rechtserheblichen Bem
 
 #### Art. 11
 
-**Eigentümerregister**
+**Eigentümerregister des Papiergrundbuchs[^11-1]**
 
 Das Eigentümerregister des Papiergrundbuchs enthält die Namen der Eigentümerinnen und Eigentümer in alphabetischer Reihenfolge sowie die Bezeichnungen der ihnen gehörenden Grundstücke.
 
+[^11-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 12
 
-**Gläubigerregister**
+**Gläubigerregister des Papiergrundbuchs[^12-1]**
 
 <sup>1</sup>
 
@@ -214,13 +226,25 @@ In das Gläubigerregister des Papiergrundbuchs eingetragen werden, jeweils auf A
 
 <sup>2</sup> Statt in das Gläubigerregister können diese Gläubiger und Gläubigerinnen auf dem Hauptbuchblatt in die Abteilung «Grundpfandrechte» eingetragen werden.
 
+[^12-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 12a
+
+**Personenidentifikationsregister des informatisierten Grundbuchs**[^12a-1]
+
+Das Personenidentifikationsregister des informatisierten Grundbuchs ist im 4*a*. Kapitel geregelt.
+
+[^12a-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 13
 
-**Hilfsregister**
+**Weitere Hilfsregister[^13-1]**
 
 <sup>1</sup> Das Grundbuchamt kann Verzeichnisse über die Adressen der berechtigten Personen und andere Hilfsregister wie Strassenverzeichnisse und Gebäuderegister führen.
 
 <sup>2</sup> Es kann die Daten für diese Register aus anderen Informationssystemen beziehen.
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 14
 
@@ -370,6 +394,87 @@ Das Hauptbuchblatt des aufzunehmenden Anteils enthält folgende Angaben:
 - b. bei Miteigentum: den Anteil am Stammgrundstück;
 - c. bei Stockwerkeigentum: die Bezeichnung des Eigentumsverhältnisses als Stockwerkeigentum und die Wertquote.
 
+### 4*a*. Kapitel: Identifikation von natürlichen Personen mit Rechten an Grundstücken durch Zuordnung der AHV-Nummer
+
+[^tit1-chap4a-1]
+
+[^tit1-chap4a-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 23a
+
+**Personenidentifikationsregister**
+
+<sup>1</sup> Im Personenidentifikationsregister des informatisierten Grundbuchs wird jeder natürlichen Person, der ein Recht an einem Grundstück zusteht, das aus dem Hauptbuch hervorgeht, ihre AHV-Nummer zugeordnet. DieAHV-Nummer wird weder im Hauptbuch noch im Tagebuch noch in den Hilfsregistern nach Artikel 13 geführt.
+
+<sup>2</sup> Die Einträge des Personenidentifikationsregisters werden mit den entsprechenden Einträgen des Hauptbuchs verknüpft. Zum Zweck der Identifikation können sie mit den Einträgen der Hilfsregister nach Artikel 13 verknüpft werden.
+
+<sup>3</sup>
+
+Das Personenidentifikationsregister enthält die folgenden Daten zu den erfassten Personen:
+
+- a. den Namen und gegebenenfalls den davon abweichenden Ledignamen, die Vornamen, das Geburtsdatum, den Geburtsort, das Geschlecht sowie die Staatsangehörigkeit;
+- b. die AHV-Nummer;
+- c. den Status der Zuordnung der AHV-Nummer;
+- d. die für die Verknüpfungen mit dem Hauptbuch, den Hilfsregistern nach Artikel 13 sowie den Datenquellen notwendige technische Referenz.
+
+#### Art. 23b
+
+**Datenquellen**
+
+Das Grundbuchamt bezieht für das Personenidentifikationsregister die Angaben nach Artikel 23*a* Absatz 3 Buchstaben a und b aus:
+
+- a. dem von der Zentralen Ausgleichsstelle (ZAS) geführten Versichertenregister in einem Verfahren nach Artikel 134<sup>quater</sup> Absätze 2–4 der Verordnung vom 31. Oktober 1947[^23b-1] über die Alters- und Hinterlassenenversicherung (AHVV);
+- b. kantonalen Systemen, die diese Angaben regelmässig mit der ZAS abgleichen.
+
+[^23b-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23c
+
+**Zuordnung der AHV-Nummer im Bearbeitungsverfahren**
+
+<sup>1</sup> Das Grundbuchamt ordnet einer Person im Bearbeitungsverfahren ihre AHV-Nummer im Personenidentifikationsregister zu, sobald es die Person mit ausreichender Sicherheit identifiziert hat.
+
+<sup>2</sup> Zu diesem Zweck fragt es die Datenquellen ab, indem es die ihm zur Verfügung stehenden Angaben nach Artikel 51 Absatz 1 Buchstabe a eingibt.
+
+<sup>3</sup>
+
+Kann es durch Abfrage der Datenquellen die Person nicht mit ausreichender Sicherheit identifizieren, so nimmt es zusätzliche Abklärungen vor. Es kann:
+
+- a. die betroffene Person auffordern, Auskunft über alle Tatsachen zu erteilen und Belege zu liefern, die geeignet und erforderlich sind, um die AHV-Nummer eindeutig zuzuordnen;
+- b. in Zusammenarbeit mit der ZAS eine individuelle Verifizierung der AHV-Nummer vornehmen (Art. 134<sup>quater</sup> Abs. 4 und 5 AHVV[^23c-1]).
+
+<sup>4</sup> Stellt es fest, dass die ZAS der Person noch keine AHV-Nummer zugewiesen hat, so ersucht es die ZAS, dieser Person eine AHV-Nummer zuzuweisen.
+
+<sup>5</sup> Kann es die Person nicht mit ausreichender Sicherheit identifizieren oder kann der Person keine AHV-Nummer zugewiesen werden, so hält es dies im Personenidentifikationsregister fest. Eine spätere Zuordnung der AHV-Nummer ist jederzeit möglich.
+
+<sup>6</sup> Die Fortsetzung und der Abschluss des Bearbeitungsverfahrens sind unabhängig von der Zuordnung der AHV-Nummer.
+
+[^23c-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23d
+
+**Periodische Überprüfung**
+
+<sup>1</sup> Das Grundbuchamt übernimmt die Ergebnisse der periodischen Überprüfungen der Richtigkeit der erfassten AHV-Nummern durch die ZAS (Art. 134<sup>quinquies</sup> Abs. 3 AHVV[^23d-1]) in das Personenidentifikationsregister.
+
+<sup>2</sup> Mit Ausnahme der Löschung von durch die ZAS annullierten AHV-Nummern erfolgt die Aktualisierung von Daten im Personenidentifikationsregister automatisch.
+
+<sup>3</sup> Annulliert die ZAS eine AHV-Nummer, so löscht das Grundbuchamt die betroffene Zuordnung der AHV-Nummer im Personenidentifikationsregister und nimmt eine Neuzuordnung vor.
+
+<sup>4</sup> Bei Neuzuordnungen sowie bei Unklarheiten geht das Grundbuchamt nach Artikel 23*c* Absätze 3–5 vor.
+
+[^23d-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23e
+
+**Technische Einzelheiten**
+
+Das EJPD und das VBS regeln gemeinsam die technischen Einzelheiten, insbesondere:
+
+- a. die Schnittstellen zur ZAS;
+- b. die Verfahren der Übernahme und Aktualisierung von Daten;
+- c. die Protokollierung der Übernahme und Aktualisierung von Daten.
+
 ### 5. Kapitel: Übertragung und Schliessung eines Hauptbuchblatts
 
 #### Art. 24
@@ -436,7 +541,8 @@ Jede Person kann vom Grundbuchamt, ohne ein Interesse glaubhaft zu machen, Ausku
 Die Kantone können vorsehen, dass die Daten des Hauptbuchs, des Tagebuchs und der Hilfsregister den folgenden Personen und Behörden ohne Interessennachweis im Einzelfall elektronisch zugänglich gemacht werden:
 
 - a. Urkundspersonen und ihren Hilfspersonen, im Geometerregister eingetragenen Ingenieur-Geometerinnen und -Geometern und ihren Hilfspersonen, Steuerbehörden und anderen Behörden des Bundes, der Kantone und der Gemeinden die Daten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen;
-- b. Banken, Pensionskassen, Versicherungen und vom Bund anerkannten Institutionen nach Artikel 76 Absatz 1 Buchstabe a des Bundesgesetzes vom 4. Oktober 1991[^28-2] über das bäuerliche Bodenrecht (BGBB) sowie der Schweizerischen Gesellschaft für Hotelkredit nach dem Bundesgesetz vom 20. Juni 2003[^28-3] über die Förderung der Beherbergungswirtschaft die Daten, die sie zur Erfüllung ihrer Aufgaben im Hypothekargeschäft benötigen;
+- b.[^28-2] Banken, Vorsorgeeinrichtungen, Versicherungen und vom Bund anerkannten Institutionen nach Artikel 76 Absatz 1 Buchstabe a des Bundesgesetzes vom 4. Oktober 1991[^28-3] über das bäuerliche Bodenrecht (BGBB) sowie der Schweizerischen Gesellschaft für Hotelkredit nach dem Bundesgesetz vom 20. Juni 2003[^28-4] über die Förderung der Beherbergungswirtschaft die Daten, die sie zur Erfüllung ihrer Aufgaben im Hypothekargeschäft benötigen;
+- b<sup>bis</sup>.[^28-5] Vorsorgeeinrichtungen die Daten, die sie zur Sicherung des Vorsorgezwecks nach Artikel 30*e* Absatz 2 BVG[^28-6] benötigen;
 - c. im Anwaltsregister eingetragenen Rechtsanwältinnen und Rechtsanwälten die Daten, die sie zur Ausübung des Berufs im Zusammenhang mit grundstücksbezogenen Geschäften benötigen;
 - d.
 
@@ -447,11 +553,18 @@ Die Kantone können vorsehen, dass die Daten des Hauptbuchs, des Tagebuchs und d
 
 - e. Immobilienverwalterinnen und -verwaltern, die durch Personen nach Buchstabe d als Hilfspersonen zum Zugang ermächtigt worden sind.
 
-<sup>2</sup> Zugang zu den Belegen können sie nur den Berechtigten nach Absatz 1 Buchstaben a und d Ziffer 1 gewähren. Sie treffen Massnahmen, um die Vertraulichkeit der Belege zu gewährleisten.
+<sup>2</sup> Zugang zu den Belegen können sie nur den Berechtigten nach Absatz 1 Buchstaben a und d Ziffer 1 gewähren. Sie treffen Massnahmen zur Einhaltung von Artikel 949*b* Absatz 2 ZGB sowie zur Gewährleistung der Vertraulichkeit der Belege.[^28-7]
+
+<sup>3</sup> Vom Zugang ausgeschlossen sind die zur Identifizierung beigelegten Dokumente nach Artikel 51 Absatz 1 Buchstabe a.[^28-8]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 2019, in Kraft seit 1. Juli 2020 ([AS 2019 3049](https://fedlex.data.admin.ch/eli/oc/2019/556)).
-[^28-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^28-3]: [SR 935.12](https://fedlex.data.admin.ch/eli/cc/2003/642)
+[^28-2]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-3]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^28-4]: [SR 935.12](https://fedlex.data.admin.ch/eli/cc/2003/642)
+[^28-5]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^28-7]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-8]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 29
 
@@ -544,6 +657,192 @@ Das Grundbuchamt kann zu Informationszwecken auch nichtbeglaubigte Ausdrucke aus
 **Elektronische Veröffentlichung der Handänderungen**
 
 Die Kantone können die Daten, die sie nach Artikel 970*a* Absatz 1 ZGB zur Veröffentlichung vorsehen, in elektronischer Form öffentlich zugänglich machen.
+
+### 6*a*. Kapitel: Landesweite Grundstücksuche der berechtigten Behörden
+
+[^tit1-chap6a-1]
+
+[^tit1-chap6a-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 34a
+
+**Grundsatz**
+
+Die landesweite Grundstücksuche dient den Behörden des Bundes, der Kantone und der Gemeinden, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen (berechtigte Behörden), zum Auffinden von Informationen darüber, an welchen Grundstücken einer nach Artikel 90 Absatz 1 bezeichneten Person gemäss dem Hauptbuch im informatisierten Grundbuch Rechte zustehen.
+
+#### Art. 34b
+
+**Dienst für landesweite Grundstücksuche**
+
+<sup>1</sup> Das EGBA betreibt einen Dienst für die landesweite Grundstücksuche (Grundstücksuchdienst).
+
+<sup>2</sup> Der Grundstücksuchdienst nimmt über eine elektronische Suchmaske oder über eine Schnittstelle Abfragen der berechtigten Behörden entgegen. Er gleicht die Abfragen mit den zum Abfragezeitpunkt elektronisch verfügbaren rechtswirksamen Daten des Hauptbuchs sowie mit den Daten des Personenidentifikationsregisters in allen Kantonen ab und gibt die Suchergebnisse aus.
+
+<sup>3</sup> Die berechtigten Behörden bedürfen für die Verwendung der Schnittstelle nach Absatz 2 einer Bewilligung des EGBA.
+
+<sup>4</sup> Der Grundstücksuchdienst führt keine Grundbuchdaten.
+
+<sup>5</sup>
+
+Zur Entlastung der kantonalen Serverinfrastrukturen vor redundanten Abfragen führt er einen Suchindex. Dieser enthält:
+
+- a. die zur Identifikation des zuständigen Grundbuchamts nötigen Angaben;
+- b.
+
+  in einer Form, die es dem Suchdienst erlaubt, festzustellen, ob zu einer Anfrage Treffer in einem Grundbuchsystem vorhanden sind, es aber nicht ermöglicht, einen weitergehenden Personenbezug herzustellen (pseudonymisierte Form):
+
+  - 1\. die Angaben nach Artikel 90 Absatz 1,
+  - 2\. bei natürlichen Personen zudem die AHV-Nummer.
+
+<sup>6</sup> Zur Führung der Zuordnungsstatistik enthält der Suchindex zudem den Status der Zuordnung der AHV-Nummern nach Artikel 23*c* Absatz 5.
+
+<sup>7</sup>
+
+Das EJPD und das VBS regeln gemeinsam die Einzelheiten für die Nutzung der Schnittstelle; insbesondere legen sie fest:
+
+- a. welche technischen Anforderungen zu erfüllen sind;
+- b. welche Angaben mit dem Gesuch einzureichen sind.
+
+#### Art. 34c
+
+**Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und zu den Daten des Personenidentifikationsregisters sowie Übermittlung von Daten an den Suchindex**
+
+<sup>1</sup> Die Kantone gewähren dem Grundstücksuchdienst über eine Schnittstelle nach Artikel 949*a* Absatz 3 ZGB Zugang zu ihren rechtswirksamen Daten des Hauptbuchs und zu den Daten des Personenidentifikationsregisters.
+
+<sup>2</sup> Sie sorgen dafür, dass diese Daten sofort abrufbar sind. Sie stellen die technische Funktionalität und die Verfügbarkeit der Schnittstelle während den Öffnungszeiten ihrer Grundbuchämter sicher.
+
+<sup>3</sup> Sie übermitteln dem Suchindex des Grundstücksuchdienstes auf Aufforderung des EGBA die gesamten Daten nach Artikel 34*b* Absätze 5 und 6. Änderungen dieser Daten übermitteln sie mindestens einmal täglich.
+
+<sup>4</sup> Sie teilen dem EGBA mit, ob sie die Angaben nach Artikel 34*b* Absatz 5 Buchstabe b in pseudonymisierter Form übermitteln oder ob diese Angaben durch den Grundstücksuchdienst in diese Form gebracht werden sollen.
+
+<sup>5</sup>
+
+Das EJPD und das VBS regeln gemeinsam die technischen Einzelheiten, insbesondere:
+
+- a. die Schnittstelle für den Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und zu den Daten des Personenidentifikationsregisters;
+- b. die Schnittstelle zum Suchindex.
+
+<sup>6</sup> Sie können den Kantonen eine Implementierung der Schnittstelle nach Absatz 5 Buchstabe b zur Verfügung stellen*.*
+
+#### Art. 34d
+
+**Zugriff der berechtigten Behörden im Allgemeinen**
+
+<sup>1</sup> Das EGBA erteilt den Mitarbeiterinnen und Mitarbeitern der berechtigten Behörde auf begründetes Gesuch der Behörde die Zugriffsberechtigung auf den Grundstücksuchdienst, die sie zur Erfüllung der gesetzlichen Aufgaben der Behörde benötigen.
+
+<sup>2</sup>
+
+Das Gesuch muss enthalten:
+
+- a. die Namen aller Mitarbeiterinnen und Mitarbeiter, die die Zugriffsberechtigung erhalten sollen;
+- b. die Angabe, welche gesetzliche Aufgabe der Behörde die betreffenden Personen zu erfüllen haben, sowie die anwendbaren Gesetzesbestimmungen;
+- c. die Begründung, für welche Daten des Hauptbuchs nach Artikel 34*e* Absatz 3 Buchstabe d ein Zugriff auf den Grundstücksuchdienst zur Erfüllung der gesetzlichen Aufgabe notwendig ist;
+- d. eine Stellungnahme der am Sitz der Behörde zuständigen kantonalen Aufsichtsbehörde über das Grundbuch zur ersuchten Zugriffsberechtigung auf den Grundstücksuchdienst;
+- e. die Bestätigung der ZAS über die Zulässigkeit der systematischen Verwendung der AHV-Nummer.
+
+<sup>3</sup> Änderungen der Verhältnisse, die sich auf die Zugriffsberechtigungen auswirken, sind dem EGBA sofort und unaufgefordert mitzuteilen.
+
+<sup>4</sup>
+
+Das EGBA stellt den kantonalen Aufsichtsbehörden über das Grundbuch die Liste der berechtigten Behörden mit folgenden Angaben zur Verfügung:
+
+- a. Bezeichnung der Behörde;
+- b. Umfang des Zugriffs nach Artikel 34*e* Absatz 3 Buchstabe d.
+
+#### Art. 34e
+
+**Zulässige Suchkriterien und Umfang der Suchresultate**
+
+<sup>1</sup> Die Zugriffsberechtigten dürfen mittels der Angaben nach Artikel 90 Absatz 1 suchen.
+
+<sup>2</sup>
+
+Das EGBA erteilt den Zugriffsberechtigten auf begründetes Gesuch der Behörde einen Zugang, mit dem sie:
+
+- a. mittels der AHV-Nummer suchen können und in den Suchresultaten die Angabe der AHV-Nummer erhalten;
+- b. Suchresultate aus den rechtswirksamen Daten des Hauptbuchs erhalten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+
+<sup>3</sup>
+
+Es werden höchstens die folgenden Suchresultate ausgegeben:
+
+- a. die Angaben nach Artikel 90 Absatz 1 zur Person;
+- b. bei einer natürlichen Person die Angabe, ob ihr das Grundbuchamt ihre AHV-Nummer zugeordnet hat;
+- c. die Bezeichnung des Grundstücks;
+- d.
+
+  zur Beschreibung des Rechts eine der folgenden Bezeichnungen:
+
+  - 1\. Eigentum an einem Grundstück,
+  - 2\. Dienstbarkeit,
+  - 3\. Grundlast,
+  - 4\. Grundpfandrecht,
+  - 5\. vorgemerktes Recht.
+
+#### Art. 34f
+
+**Protokollierung der Abfragen durch den Grundstücksuchdienst**
+
+<sup>1</sup> Abfragen werden vom Grundstücksuchdienst automatisch protokolliert und dienen dem EGBA zur Zugriffskontrolle sowie zur Gebührenerhebung.
+
+<sup>2</sup>
+
+Die Protokolle enthalten folgende Angaben:
+
+- a. die Bezeichnung, die Identifikation und die Funktion der Behörde;
+- b. die Identifikationsnummer der Behördenmitarbeiterin oder des Behördenmitarbeiters;
+- c. die eingegebenen Suchkriterien;
+- d. den Zugriffszeitpunkt;
+- e. die Suchresultate.
+
+<sup>3</sup> Sie werden während zwei Jahren aufbewahrt.
+
+<sup>4</sup> Die Einsicht in die Protokolle richtet sich nach dem Bundesgesetz vom 19. Juni 1992[^34f-1] über den Datenschutz.
+
+[^34f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 34g
+
+**Zugriffskontrolle durch die Kantone, Auskunftsrechte der Grundeigentümerinnen und Grundeigentümer**
+
+<sup>1</sup> Abfragen über den Grundstücksuchdienst werden vom abgefragten kantonalen System automatisch protokolliert. Ist das kantonale System dazu nicht in der Lage, so stellt der Grundstücksuchdienst auf Anfrage die den anfragenden Kanton betreffenden Auszüge aus dem Protokoll nach Artikel 34*f* zur Verfügung.
+
+<sup>2</sup> Stellt der Kanton fest, dass das Abfrageverhalten einer Behörde geeignet ist, Zweifel über die Verwendung der Grundstücksuche zur Erfüllung ihrer gesetzlichen Aufgabe aufkommen zu lassen, so benachrichtigt er unverzüglich das EGBA.
+
+<sup>3</sup> Die Auskunftsrechte der Grundeigentümerinnen und Grundeigentümer richten sich nach Artikel 30 Absatz 2.
+
+#### Art. 34h
+
+**Entzug der Zugriffsberechtigung**
+
+<sup>1</sup> Das EGBA entzieht der betreffenden Behördenmitarbeiterin oder dem betreffenden Behördenmitarbeiter die Zugriffsberechtigung, wenn die Voraussetzungen nicht mehr erfüllt sind.
+
+<sup>2</sup>
+
+Es kann die Zugriffsberechtigung entziehen, wenn:
+
+- a. Änderungen der Verhältnisse nicht nach Artikel 34*d* Absatz 3 mitgeteilt werden;
+- b. der Grundstücksuchdienst missbräuchlich benützt wird.
+
+#### Art. 34i
+
+**Gebühren**
+
+<sup>1</sup> Das EGBA erhebt für die Nutzung des Grundstücksuchdienstes von den berechtigten Behörden der Kantone und der Gemeinden jährliche Gebühren.
+
+<sup>2</sup> Der Gebührenbetrag einer Behörde errechnet sich aufgrund folgender Formel:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/de/xml/image/image1.png)
+
+<sup>3</sup> Er beträgt aber höchstens 2 Franken pro Abfrage.
+
+<sup>4</sup> Massgebend sind die Kosten und Nutzungszahlen des Vorjahres.
+
+<sup>5</sup> Das EGBA erhebt für Bewilligungen nach Artikel 34*b* Absatz 3 eine Gebühr nach Zeitaufwand. Der Stundenansatz beträgt 250 Franken.
+
+<sup>6</sup> Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^34i-1].
+
+[^34i-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ### 7. Kapitel: Datensicherheit und Aufbewahrungspflicht
 
@@ -765,13 +1064,24 @@ Wer sich mit einer Bestätigung der zuständigen Behörde als Willensvollstrecke
 
 Die Anmeldungsbelege müssen folgende Angaben über die verfügende Person und die erwerbende Person enthalten:
 
-- a. für natürliche Personen: den Namen, die Vornamen, das Geburtsdatum, das Geschlecht, den Wohnort, den Heimatort oder die Staatsangehörigkeit; den Anmeldungsbelegen ist eine Kopie des Passes oder der Identitätskarte beizulegen; nach Erfassung der Personalien wird die Kopie vernichtet;
+- a.[^51-1]
+
+  für natürliche Personen: den Namen, die Vornamen, das Geburtsdatum, das Geschlecht, den Wohnort, den Heimatort oder die Staatsangehörigkeit; den Anmeldungsbelegen sind zur Identifizierung eine Kopie des Passes oder der Identitätskarte sowie eines der nachfolgenden Dokumente beizulegen:
+
+  - 1\. eine Kopie des Versicherungsausweises nach Artikel 135<sup>bis</sup> AHVV[^51-2],
+  - 2\. eine Kopie der Versichertenkarte nach Artikel 1 der Verordnung vom 14. Februar 2007[^51-3] über die Versichertenkarte für die obligatorische Krankenversicherung,
+  - 3\. eine schriftliche Erklärung der Person, aus welcher ihr Geburtsort, ihr Familienname, ihre AHV-Nummer und die Vornamen der Eltern sowie bei Verheirateten ihr Ledigname hervorgehen;
+
 - b. für juristische Personen sowie Kollektiv- und Kommanditgesellschaften: die Firma oder den Namen, den Sitz, die Rechtsform, wenn diese nicht aus der Firma oder dem Namen hervorgeht, sowie die Unternehmens-Identifikationsnummer (UID);
 - c. für andere Gesellschaften und Gemeinschaften, in denen die beteiligten Personen durch Gesetzesvorschrift oder Vertrag verbunden und Gesamteigentümer sind: die Angaben über die daran beteiligten Personen nach Buchstabe a oder b.
 
 <sup>2</sup> Sie müssen zudem die Angaben zur Beurteilung enthalten, ob für die Verfügung über ein Grundstück die Bewilligung einer Behörde oder die Zustimmung Dritter (z.B. des Ehegatten) nötig ist.
 
 <sup>3</sup> Beim Erwerb von gemeinschaftlichem Eigentum sind die Angaben zu machen, die für die Darstellung des Gemeinschaftsverhältnisses nach Artikel 96 erforderlich sind.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^51-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^51-3]: [SR 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 
 ### 2. Abschnitt: Anmeldung von unmittelbaren gesetzlichen Pfandrechten
 
@@ -2182,13 +2492,23 @@ Das EJPD ermächtigt den Kanton zur Führung des informatisierten Grundbuchs, we
 
 [^160-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
+#### Art. 160a
+
+**Austausch, vollständige Erneuerung und wesentliche Änderungen am System**[^160a-1]
+
+<sup>1</sup> Die Artikel 159 und 160 gelten sinngemäss, wenn ein Kanton, nachdem er eine Ermächtigung zur Führung des informatisierten Grundbuchs erhalten hat, das System austauscht oder vollständig erneuert oder am System wesentliche Änderungen vornimmt (Art. 15).
+
+<sup>2</sup> Vollständig ist die Erneuerung des Systems, wenn der Umfang der Erneuerungsarbeiten einem Austausch des Systems gleichkommt.
+
+[^160a-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 161
 
 **Aufhebung bisherigen Rechts**
 
 Die Verordnung vom 22. Februar 1910[^161-1] betreffend das Grundbuch wird aufgehoben.
 
-[^161-1]: [BS **2** 530; [AS 1964 413](https://fedlex.data.admin.ch/eli/oc/1964/413_409_409)[456](https://fedlex.data.admin.ch/eli/oc/1964/456_452_452), [1965 467](https://fedlex.data.admin.ch/eli/oc/1965/467_471_465)[1255](https://fedlex.data.admin.ch/eli/oc/1965/1255_1268_1256), [1987 1600](https://fedlex.data.admin.ch/eli/oc/1987/1600_1600_1600), [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/876_876_), [1993 2904](https://fedlex.data.admin.ch/eli/oc/1993/2904_2904_2904)Art. 7 Ziff. 1, [1995 14](https://fedlex.data.admin.ch/eli/oc/1995/14_14_14), [1996 3106](https://fedlex.data.admin.ch/eli/oc/1996/3106_3106_3106), [2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)Anhang Ziff. 2, [2005 1343](https://fedlex.data.admin.ch/eli/oc/2005/206), [2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)Anhang 2 Ziff. 3 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 19, [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)Anhang Ziff. I, [2009 4723](https://fedlex.data.admin.ch/eli/oc/2009/553)Anhang Ziff. I]
+[^161-1]: [BS **2** 530; [AS 1964 413](https://fedlex.data.admin.ch/eli/oc/1964/413_409_409), [456](https://fedlex.data.admin.ch/eli/oc/1964/456_452_452); [1965 467](https://fedlex.data.admin.ch/eli/oc/1965/467_471_465), [1255](https://fedlex.data.admin.ch/eli/oc/1965/1255_1268_1256); [1987 1600](https://fedlex.data.admin.ch/eli/oc/1987/1600_1600_1600); [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/876_876_); [1993 2904](https://fedlex.data.admin.ch/eli/oc/1993/2904_2904_2904)Art. 7 Ziff. 1; [1995 14](https://fedlex.data.admin.ch/eli/oc/1995/14_14_14); [1996 3106](https://fedlex.data.admin.ch/eli/oc/1996/3106_3106_3106); [2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)Anhang Ziff. 2; [2005 1343](https://fedlex.data.admin.ch/eli/oc/2005/206); [2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)Anhang 2 Ziff. 3, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 19; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)Anhang Ziff. I; [2009 4723](https://fedlex.data.admin.ch/eli/oc/2009/553)Anhang Ziff. I]
 
 #### Art. 162
 
@@ -2207,6 +2527,55 @@ Die im Grundbuch vor dem 1. Januar 2012 eingetragenen, als Schuldbrief bezeichne
 **Bestehende öffentlich-rechtliche Eigentumsbeschränkungen**
 
 Öffentlich-rechtliche Eigentumsbeschränkungen, die vor dem 1. Januar 2012 rechtskräftig angeordnet wurden, müssen im Grundbuch nicht angemerkt werden.
+
+#### Art. 164a
+
+**Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Zuordnung der AHV-Nummern bereits im Hauptbuch eingetragener Personen**[^164a-1]
+
+<sup>1</sup> Das Grundbuchamt ordnet den natürlichen Personen, denen ein Recht an einem Grundstück zusteht und die bei Inkrafttreten der Änderung vom 10. Dezember 2021 bereits im Hauptbuch eingetragen sind, ihre AHV-Nummern im Standardverfahren für ganze Datenbestände nach Artikel 134<sup>quater</sup> Absatz 2 AHVV[^164a-2] zu.
+
+<sup>2</sup> Zu diesem Zweck übermittelt es der ZAS den Bestand der Daten nach Artikel 90 Absatz 1 Buchstabe a zu diesen Personen. Die erstmalige Übermittlung ist innert zwei Jahren nach Inkrafttreten dieser Änderung vorzunehmen.
+
+<sup>3</sup> Von der ZAS verifizierte Angaben übernimmt das Grundbuchamt ohne weitere Prüfung in das Personenidentifikationsregister.
+
+<sup>4</sup> Bei Unklarheiten geht es nach Artikel 23*c* Absätze 3–5 vor.
+
+<sup>5</sup>
+
+Die Kantone sorgen dafür, dass den im Hauptbuch bereits eingetragenen natürlichen Personen die AHV-Nummer innert folgenden Fristen zugeordnet wird:
+
+- a. den Personen, die seit dem 1. Januar 2012 in das Hauptbuch eingetragen worden sind: innert drei Jahren nach Inkrafttreten dieser Änderung;
+- b. den Personen, die zwischen dem 1. Januar 1948 und dem 31. Dezember 2011 in das Hauptbuch eingetragen worden sind: innert fünf Jahren nach Inkrafttreten dieser Änderung;
+- c. den Personen, die vor dem 1. Januar 1948 in das Hauptbuch eingetragen worden sind: innert sieben Jahren nach Inkrafttreten dieser Änderung.
+
+[^164a-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^164a-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 164b
+
+**Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und Übermittlung von Daten an den Suchindex**[^164b-1]
+
+<sup>1</sup> Die Kantone stellen innert einem Jahr nach Inkrafttreten der Änderung vom 10. Dezember 2021 die Funktionsfähigkeit der Schnittstelle für den Datenabruf durch den Grundstücksuchdienst (Art. 34*c* Abs. 1) sicher.
+
+<sup>2</sup> Innerhalb derselben Frist liefern sie dem Suchindex des Grundstücksuchdienstes erstmalig den gesamten Bestand der Daten nach Artikel 34*b* Absätze 5 und 6.
+
+[^164b-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 164c
+
+**Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Gebühren**[^164c-1]
+
+Im ersten Jahr nach Inkrafttreten der Änderung vom 10. Dezember 2021 werden für die Nutzung des Grundstücksuchdienstes keine Gebühren erhoben.
+
+[^164c-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 164d
+
+**Übergangsbestimmungen zur Änderung vom 10. Dezember 2021: Fristverlängerungen bei Austausch oder vollständiger Erneuerung des Systems**[^164d-1]
+
+Hat ein Kanton innerhalb der letzten zwei Jahre vor Inkrafttreten der Änderung vom 10. Dezember 2021 das für das informatisierte Grundbuch verwendete System durch ein neues System ausgetauscht, vollständig erneuert oder den Austausch oder die Erneuerung beschlossen, so kann er in seiner Gesetzgebung eine angemessene Verlängerung der in Artikel 164*a* Absätze 2 und 5 sowie in Artikel 164*b* vorgesehenen Fristen vorsehen.
+
+[^164d-1]: Eingefügt durch Ziff. I der V vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 165
 

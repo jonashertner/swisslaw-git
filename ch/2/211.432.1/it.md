@@ -4,11 +4,11 @@ title: Ordinanza del 23 settembre 2011 sul registro fondiario (ORF)
 short: ORF
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/667"
 language: it
-version: 2020-07-01
+version: 2023-01-01
 adopted: 2011-09-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2011-667-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2011-667-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/667/20200701/it"
 
 (ORF)
 
-del 23 settembre 2011 (Stato 1° luglio 2020)
+del 23 settembre 2011 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 943 capoverso 2, 945 capoverso 2, 949 capoverso 1, 949*a* capoverso 2, 962 capoverso 3, 967 capoverso 3, 970 capoverso 3, 977 capoverso 3 e l’articolo 18 capoverso 2 del titolo finale del Codice civile[^ingress-1] (CC); visto l’articolo 102 lettera b della legge del 3 ottobre 2003[^ingress-2] sulla fusione (LFus); visti gli articoli 5, 6, 13 capoversi 1–4 e 24 capoverso 2 della legge del 5 ottobre 2007[^ingress-3] sulla geoinformazione (LGI),
+visti gli articoli 943 capoverso 2, 945 capoverso 2, 949 capoverso 1, 949*a* capoverso 2, 949*c*, 962 capoverso 3, 967 capoverso 3, 970 capoverso 3, 977 capoverso 3 e l’articolo 18 capoverso 2 del titolo finale del Codice civile (CC)[^ingress-1]; visto l’articolo 102 lettera b della legge del 3 ottobre 2003[^ingress-2] sulla fusione (LFus); visti gli articoli 5, 6, 13 capoversi 1–4 e 24 capoverso 2 della legge del 5 ottobre 2007[^ingress-3] sulla geoinformazione (LGI),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^ingress-3]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 ## Titolo primo: Disposizioni generali
 
@@ -43,7 +44,12 @@ La presente ordinanza disciplina:
 - b. la struttura, il contenuto e gli effetti giuridici del registro fondiario;
 - c. la comunicazione elettronica con l’ufficio del registro fondiario;
 - d. la procedura d’iscrizione, modifica e cancellazione di diritti reali immobiliari, nonché di annotazioni e menzioni;
-- e. il rilascio di informazioni e la consultazione del registro fondiario.
+- e. il rilascio di informazioni e la consultazione del registro fondiario;
+- f.[^1-1] l’identificazione in base al numero AVS di persone fisiche titolari di diritti immobiliari;
+- g.[^1-2] la ricerca di fondi su scala nazionale da parte delle autorità abilitate.
+
+[^1-1]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^1-2]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 2
 
@@ -154,7 +160,11 @@ Può in particolare:
 
 Tutte le autorità cantonali notificano all’UFRF immediatamente e gratuitamente le proprie decisioni riguardanti i ricorsi in materia di registro fondiario.
 
-### Capitolo 3: Tenuta, contenuto ed effetti giuridici del registro fondiario
+### Capitolo 3: Tenuta e contenuto del registro fondiario
+
+[^tit1-chap3-1]
+
+[^tit1-chap3-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 8
 
@@ -197,13 +207,15 @@ I dati del foglio del libro mastro, assieme alle rispettive osservazioni giuridi
 
 #### Art. 11
 
-**Registro dei proprietari**
+**Registro dei proprietari del registro fondiario cartaceo[^11-1]**
 
 Il registro dei proprietari del registro fondiario cartaceo contiene i nomi dei proprietari in ordine alfabetico e la designazione dei fondi di loro proprietà.
 
+[^11-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 12
 
-**Registro dei creditori**
+**Registro dei creditori del registro fondiario cartaceo[^12-1]**
 
 <sup>1</sup>
 
@@ -214,13 +226,25 @@ Su richiesta dell’avente diritto, nel registro dei creditori del registro fond
 
 <sup>2</sup> Invece che nel registro dei creditori, tali creditori possono essere iscritti sul foglio del libro mastro alla rubrica «Diritti di pegno».
 
+[^12-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 12a
+
+**Registro degli identificatori di persone del registro fondiario informatizzato**[^12a-1]
+
+Il registro degli identificatori di persone del registro fondiario informatizzato è disciplinato nel capitolo 4*a*.
+
+[^12a-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 13
 
-**Registri ausiliari**
+**Altri registri ausiliari[^13-1]**
 
 <sup>1</sup> L’ufficio del registro fondiario può tenere elenchi relativi agli indirizzi degli aventi diritto e altri registri ausiliari quali elenchi stradali e registri di edifici.
 
 <sup>2</sup> Può estrarre i dati per questi registri da altri sistemi di informazione.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 14
 
@@ -370,6 +394,87 @@ Il foglio del libro mastro della quota da intavolare contiene i seguenti dati:
 - b. in caso di comproprietà: la quota del fondo di base;
 - c. in caso di proprietà per piani: la designazione della proprietà come proprietà per piani e la quota di valore.
 
+### Capitolo 4*a*: Identificazione in base al numero AVS di persone fisiche titolari di diritti immobiliari
+
+[^tit1-chap4a-1]
+
+[^tit1-chap4a-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 23a
+
+**Registro degli identificatori di persone**
+
+<sup>1</sup> Ogni persona fisica titolare di un diritto immobiliare che risulta dal libro mastro è iscritta con il proprio numero AVS nel registro degli identificatori di persone del registro fondiario informatizzato. Il numero AVS non figura né nel libro mastro né nel libro giornale né nei registri ausiliari di cui all’articolo 13.
+
+<sup>2</sup> Le iscrizioni del registro degli identificatori di persone sono collegate con le corrispondenti iscrizioni del libro mastro. A scopo d’identificazione possono essere collegate con le iscrizioni dei registri ausiliari di cui all’articolo 13.
+
+<sup>3</sup>
+
+Il registro degli identificatori di persone contiene, per ogni persona iscritta:
+
+- a. il cognome e, se divergente, il cognome da nubile o celibe, i nomi, la data di nascita, il luogo di nascita, il sesso e la cittadinanza;
+- b. il numero AVS;
+- c. lo stato dell’attribuzione del numero AVS;
+- d. la referenza tecnica necessaria al collegamento con il libro mastro, i registri ausiliari di cui all’articolo 13 e le fonti di dati.
+
+#### Art. 23b
+
+**Fonti di dati**
+
+L’ufficio del registro fondiario estrae i dati necessari per l’attribuzione del numero AVS e i dati di cui all’articolo 23*a* capoverso 3 lettere a e b:
+
+- a. dal registro degli assicurati tenuto dall'Ufficio centrale di compensazione (UCC), secondo una delle procedure di cui all’articolo 134<sup>quarter</sup> capoversi 2–4 dell’ordinanza del 31 ottobre 1947[^23b-1] sull’assicurazione per la vecchiaia e i superstiti (OAVS);
+- b. dai sistemi cantonali che confrontano periodicamente i loro dati con l’UCC.
+
+[^23b-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23c
+
+**Attribuzione del numero AVS nella procedura di trattamento**
+
+<sup>1</sup> Nella procedura di trattamento l’ufficio del registro fondiario attribuisce a una persona il suo numero AVS nel registro degli identificatori di persone non appena ha identificato tale persona in modo sufficientemente sicuro.
+
+<sup>2</sup> A tal fine interroga le fonti di dati inserendo i dati di cui all’articolo 51 capoverso 1 lettera a di cui dispone.
+
+<sup>3</sup>
+
+Se, interrogando le fonti di dati, non può identificare l’interessato in modo sufficientemente sicuro, effettua ulteriori accertamenti. Può:
+
+- a. chiedere all’interessato di fornire informazioni su tutti i fatti e di produrre i documenti giustificativi idonei e necessari per attribuire il numero AVS in modo univoco;
+- b. verificare individualmente il numero AVS in collaborazione con l’UCC (art. 134<sup>quarter</sup> cpv. 4 e 5 OAVS[^23c-1]).
+
+<sup>4</sup> Se constata che l’UCC non ha ancora assegnato un numero AVS alla persona interessata, gli chiede di farlo.
+
+<sup>5</sup> Se non può identificare la persona interessata in modo sufficientemente sicuro o attribuirle un numero AVS, lo annota nel registro degli identificatori di persone. L’attribuzione successiva del numero AVS è possibile in qualsiasi momento.
+
+<sup>6</sup> La prosecuzione e la conclusione della procedura di trattamento sono indipendenti dall’attribuzione del numero AVS.
+
+[^23c-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23d
+
+**Verifica periodica**
+
+<sup>1</sup> L’ufficio del registro fondiario riprende nel registro degli identificatori di persone i risultati delle verifiche periodiche della correttezza dei numeri AVS effettuate dall’UCC (art. 134<sup>quinquies</sup> cpv. 3 OAVS[^23d-1]).
+
+<sup>2</sup> Eccettuata la cancellazione dei numeri AVS annullati dall’UCC, l’aggiornamento dei dati del registro degli identificatori di persone è effettuato automaticamente.
+
+<sup>3</sup> Se l’UCC annulla un numero AVS, l’ufficio del registro fondiario cancella la relativa attribuzione del numero AVS nel registro degli identificatori di persone e procede a una nuova attribuzione.
+
+<sup>4</sup> In caso di nuova attribuzione o di incertezze l’ufficio del registro fondiario procede conformemente all’articolo 23*c* capoversi 3–5.
+
+[^23d-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 23e
+
+**Dettagli tecnici**
+
+Il DFGP e il DDPS definiscono di comune accordo i dettagli tecnici, in particolare:
+
+- a. le interfacce con l’UCC;
+- b. le procedure di ripresa e aggiornamento dei dati;
+- c. la protocollazione della ripresa e dell’aggiornamento dei dati.
+
 ### Capitolo 5: Trascrizione e chiusura di un foglio del libro mastro
 
 #### Art. 24
@@ -419,7 +524,7 @@ Anche senza far valere un interesse, ognuno ha diritto di ottenere informazioni 
 
 <sup>2</sup> Essi garantiscono che i dati possano essere richiamati soltanto in relazione con un fondo determinato e che i sistemi d’informazione siano protetti dalle interrogazioni in serie.
 
-<sup>3</sup> ... [^27-3]
+<sup>3</sup> ...[^27-3]
 
 <sup>4</sup> I Cantoni mettono a disposizione i dati per il tramite dell’interfaccia di cui all’articolo 949*a* capoverso 3 CC.
 
@@ -436,7 +541,8 @@ Anche senza far valere un interesse, ognuno ha diritto di ottenere informazioni 
 I Cantoni possono prevedere di consentire l’accesso per via elettronica ai dati del libro mastro, del libro giornale e dei registri ausiliari alle persone e autorità seguenti senza che nel singolo caso debbano far valere un interesse:
 
 - a. i pubblici ufficiali e i loro ausiliari, gli ingegneri geometri iscritti nel registro dei geometri e i loro ausiliari, le autorità fiscali e altre autorità federali, cantonali e comunali, ai dati necessari per l’adempimento dei loro compiti legali;
-- b. le banche, le casse pensioni, le assicurazioni e le istituzioni riconosciute dalla Confederazione ai sensi dell’articolo 76 capoverso 1 lettera a della legge federale del 4 ottobre 1991[^28-2] sul diritto fondiario rurale (LDFR) nonché la Società svizzera di credito alberghiero secondo la legge federale del 20 giugno 2003[^28-3] sulla promozione del credito alberghiero, ai dati necessari per l’adempimento dei loro compiti in materia di ipoteche;
+- b.[^28-2] le banche, gli istituti di previdenza, le assicurazioni e le istituzioni riconosciute dalla Confederazione ai sensi dell’articolo 76 capoverso 1 lettera a della legge federale del 4 ottobre 1991[^28-3] sul diritto fondiario rurale (LDFR) nonché la Società svizzera di credito alberghiero secondo la legge federale del 20 giugno 2003[^28-4] sulla promozione del credito alberghiero, ai dati necessari per l’adempimento dei loro compiti in materia di ipoteche;
+- b<sup>bis</sup>.[^28-5] gli istituti di previdenza, ai dati necessari per la garanzia dello scopo di previdenza di cui all’articolo 30*e* capoverso 2 LPP[^28-6];
 - c. gli avvocati iscritti nel registro degli avvocati, ai dati necessari all’esercizio della loro attività professionale in riferimento ad affari riguardanti fondi;
 - d.
 
@@ -446,12 +552,18 @@ I Cantoni possono prevedere di consentire l’accesso per via elettronica ai dat
   - 2\. sui quali hanno diritti, se tali dati sono necessari all’esercizio della loro attività o dei loro diritti;
 
 - e. gli amministratori immobiliari autorizzati all’accesso dalle persone di cui alla lettera d, in quanto ausiliari di questi ultimi.
+- [tab] <sup>2</sup> I Cantoni possono concedere l’accesso ai documenti giustificativi soltanto agli aventi diritto di cui al capoverso 1 lettere a e d numero 1. Adottano misure volte a garantire il rispetto dell’articolo 949*b* capoverso 2 CC e la confidenzialità dei documenti giustificativi.[^28-7]
 
-<sup>2</sup> I Cantoni possono concedere l’accesso ai documenti giustificativi soltanto agli aventi diritto di cui al capoverso 1 lettera a e lettera d numero 1. Adottano misure a tutela della confidenzialità dei documenti giustificativi.
+<sup>3</sup> Sono esclusi dall’accesso i documenti allegati per l’identificazione secondo l’articolo 51 capoverso 1 lettera a.[^28-8]
 
 [^28-1]: Nuovo testo giusta il n. I dell’O del 20 set. 2019, in vigore dal 1° lug. 2020 ([RU 2019 3049](https://fedlex.data.admin.ch/eli/oc/2019/556)).
-[^28-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
-[^28-3]: [RS 935.12](https://fedlex.data.admin.ch/eli/cc/2003/642)
+[^28-2]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-3]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^28-4]: [RS 935.12](https://fedlex.data.admin.ch/eli/cc/2003/642)
+[^28-5]: Introdotta dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^28-7]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^28-8]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 29
 
@@ -544,6 +656,192 @@ L’ufficio del registro fondiario può rilasciare a scopo informativo stampe no
 **Pubblicazione elettronica dei trapassi di proprietà**
 
 I Cantoni possono rendere accessibili al pubblico in forma elettronica i dati destinati alla pubblicazione secondo l’articolo 970*a* capoverso 1 CC.
+
+### Capitolo 6*a*: Ricerca di fondi su scala nazionale da parte delle autorità abilitate
+
+[^tit1-chap6a-1]
+
+[^tit1-chap6a-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 34a
+
+**Principio**
+
+La ricerca di fondi su scala nazionale serve alle autorità federali, cantonali e comunali che ne hanno bisogno per adempiere i loro compiti (autorità abilitate) per reperire i fondi su cui una persona designata secondo l’articolo 90 capoverso 1 vanta diritti in virtù del libro mastro del registro fondiario informatizzato.
+
+#### Art. 34b
+
+**Servizio di ricerca di fondi su scala nazionale**
+
+<sup>1</sup> L’UFRF gestisce un servizio di ricerca di fondi su scala nazionale (servizio di ricerca di fondi).
+
+<sup>2</sup> Il servizio di ricerca di fondi riceve le interrogazioni delle autorità abilitate mediante una maschera di ricerca elettronica o un’interfaccia. Confronta le interrogazioni con i dati giuridicamente efficaci del libro mastro disponibili elettronicamente al momento dell’interrogazione nonché con i dati del registro degli identificatori di persone in tutti i Cantoni e fornisce i risultati della ricerca.
+
+<sup>3</sup> Per utilizzare l’interfaccia di cui al capoverso 2, le autorità abilitate necessitano dell’autorizzazione dell’UFRF.
+
+<sup>4</sup> Il servizio di ricerca di fondi non tiene dati del registro fondiario.
+
+<sup>5</sup>
+
+Per sgravare i server dei Cantoni da interrogazioni ridondanti, il servizio di ricerca di fondi tiene un indice di ricerca. Quest’ultimo contiene:
+
+- a. le informazioni necessarie per identificare l’ufficio del registro fondiario competente;
+- b.
+
+  in una forma che consenta al servizio di ricerca di constatare se in un sistema di registro fondiario vi siano risposte positive a un’interrogazione, ma che non permetta di stabilire un ulteriore riferimento a una persona (forma pseudonimizzata):
+
+  - 1\. i dati di cui all’articolo 90 capoverso 1,
+  - 2\. per le persone fisiche, inoltre il numero AVS.
+
+<sup>6</sup> Per permettere di tenere la statistica delle attribuzioni, l’indice di ricerca contiene lo stato dell’attribuzione del numero AVS secondo l’articolo 23*c* capoverso 5.
+
+<sup>7</sup>
+
+Il DFGP e il DDPS definiscono di comune accordo i dettagli per l’uso dell’interfaccia; stabiliscono in particolare:
+
+- a. i requisiti tecnici che devono essere soddisfatti;
+- b. le informazioni da allegare alla domanda.
+
+#### Art. 34c
+
+**Accesso del servizio di ricerca di fondi ai dati giuridicamente efficaci iscritti nel libro mastro e ai dati del registro degli identificatori di persone nonché trasmissione dei dati all’indice di ricerca**
+
+<sup>1</sup> I Cantoni consentono al servizio di ricerca di fondi di accedere ai loro dati giuridicamente efficaci iscritti nel libro mastro e ai dati del registro degli identificatori di persone per il tramite di un’interfaccia ai sensi dell’articolo 949*a* capoverso 3 CC.
+
+<sup>2</sup> Provvedono affinché tali dati siano consultabili immediatamente. Assicurano l’operatività e la disponibilità dell’interfaccia durante gli orari di apertura dei loro uffici del registro fondiario.
+
+<sup>3</sup> Su richiesta dell’UFRF, trasmettono all’indice di ricerca del servizio di ricerca di fondi i dati di cui all’articolo 34*b* capoversi 5 e 6. Trasmettono almeno una volta al giorno le modifiche di tali dati.
+
+<sup>4</sup> Comunicano all’UFRF se i dati di cui all’articolo 34*b* capoverso 5 lettera b sono trasmessi in forma pseudonimizzata o se devono ancora essere pseudonimizzati dal servizio di ricerca di fondi.
+
+<sup>5</sup>
+
+Il DFGP e il DDPS definiscono di comune accordo i dettagli tecnici, in particolare:
+
+- a. l’interfaccia per l’accesso del servizio di ricerca di fondi ai dati giuridicamente efficaci del libro mastro e ai dati del registro degli identificatori di persone;
+- b. l’interfaccia con l’indice di ricerca.
+
+<sup>6</sup> Possono mettere a disposizione dei Cantoni un’implementazione dell’interfaccia di cui al capoverso 5 lettera b.
+
+#### Art. 34d
+
+**Accesso delle autorità abilitate in generale**
+
+<sup>1</sup> L’UFRF assegna ai collaboratori delle autorità abilitate, su domanda motivata di quest’ultime, i diritti d’accesso al servizio di ricerca di fondi di cui necessitano per adempiere i loro compiti legali.
+
+<sup>2</sup>
+
+La domanda contiene:
+
+- a. i nomi di tutti i collaboratori che devono ottenere il diritto d’accesso;
+- b. l’indicazione del compito legale dell’autorità che i collaboratori devono adempiere nonché le disposizioni di legge applicabili;
+- c. la giustificazione riguardante i dati del libro mastro di cui all’articolo 34*e* capoverso 3 lettera d per i quali è necessario l’accesso al servizio di ricerca di fondi per l’adempimento dei compiti legali;
+- d. il parere dell’autorità cantonale di vigilanza sul registro fondiario competente nel luogo dell’autorità richiedente in merito alla richiesta d’accesso al servizio di ricerca di fondi;
+- e. la conferma dell’UCC della liceità dell’uso sistematico del numero AVS.
+
+<sup>3</sup> I cambiamenti che si ripercuotono sui diritti d’accesso devono essere comunicati spontaneamente e senza indugio all’UFRF.
+
+<sup>4</sup>
+
+L’UFRF mette a disposizione delle autorità cantonali di vigilanza sul registro fondiario l’elenco delle autorità abilitate con le seguenti informazioni:
+
+- a. designazione dell’autorità;
+- b. delimitazione dell’accesso secondo l’articolo 34*e* capoverso 3 lettera d.
+
+#### Art. 34e
+
+**Criteri di ricerca ammessi e delimitazione dei risultati della ricerca**
+
+<sup>1</sup> Le persone abilitate possono effettuare una ricerca in base ai dati di cui all’articolo 90 capoverso 1.
+
+<sup>2</sup>
+
+Su domanda motivata dell’autorità, l’UFRF concede alle persone un accesso che permette loro di:
+
+- a. effettuare una ricerca in base al numero AVS e ottenere il numero AVS nei risultati della ricerca;
+- b. ottenere dati giuridicamente efficaci iscritti nel libro mastro di cui hanno bisogno per adempiere i loro compiti legali.
+
+<sup>3</sup>
+
+Le persone abilitate ricevono al massimo i seguenti risultati della ricerca:
+
+- a. i dati di cui all’articolo 90 capoverso 1 relativi alla persona;
+- b. per una persona fisica: l’indicazione se l’ufficio del registro fondiario le abbia attribuito il numero AVS;
+- c. la designazione del fondo;
+- d.
+
+  per la descrizione del diritto, una delle seguenti indicazioni:
+
+  - 1\. proprietà di un fondo,
+  - 2\. servitù,
+  - 3\. onere fondiario,
+  - 4\. diritto di pegno,
+  - 5\. diritto annotato.
+
+#### Art. 34f
+
+**Protocollazione delle interrogazioni da parte del servizio di ricerca di fondi**
+
+<sup>1</sup> Le interrogazioni sono protocollate automaticamente dal servizio di ricerca di fondi e servono all’UFRF per controllare gli accessi e per riscuotere gli emolumenti.
+
+<sup>2</sup>
+
+I protocolli contengono i seguenti dati:
+
+- a. la designazione, l’identificazione e la funzione dell’autorità;
+- b. il numero d’identificazione del collaboratore dell’autorità;
+- c. i criteri di ricerca inseriti;
+- d. il momento dell’accesso;
+- e. i risultati della ricerca.
+
+<sup>3</sup> I protocolli sono conservati per due anni.
+
+<sup>4</sup> La consultazione dei protocolli è retta dalla legge federale del 19 giugno 1992[^34f-1] sulla protezione dei dati.
+
+[^34f-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+
+#### Art. 34g
+
+**Controllo dell’accesso da parte dei Cantoni, diritto dei proprietari di fondi di ottenere informazioni**
+
+<sup>1</sup> Il sistema cantonale interrogato protocolla automaticamente le interrogazioni effettuate mediante il servizio di ricerca di fondi. Se il sistema cantonale non è in grado di farlo, il servizio di ricerca di fondi mette a disposizione, su richiesta, gli estratti del protocollo di cui all’articolo 34*f* concernenti il Cantone interessato.
+
+<sup>2</sup> Se constata che l’interrogazione effettuata da un’autorità solleva dubbi circa l’uso della ricerca di fondi per l’adempimento dei compiti legali, il Cantone informa senza indugio l’UFRF.
+
+<sup>3</sup> Il diritto dei proprietari di fondi di ottenere informazioni è retto dall’articolo 30 capoverso 2.
+
+#### Art. 34h
+
+**Revoca del diritto d’accesso**
+
+<sup>1</sup> Se non sono più soddisfatte le relative condizioni, l’UFRF revoca il diritto d’accesso al collaboratore dell’autorità interessata.
+
+<sup>2</sup>
+
+Può revocare il diritto d’accesso se:
+
+- a. i cambiamenti di cui all’articolo 34*d* capoverso 3 non sono comunicati;
+- b. il servizio di ricerca di fondi è utilizzato in modo abusivo.
+
+#### Art. 34i
+
+**Emolumenti**
+
+<sup>1</sup> L’UFRF riscuote dalle autorità cantonali e comunali abilitate emolumenti annuali per l’utilizzazione del servizio di ricerca di fondi.
+
+<sup>2</sup> L’importo degli emolumenti di un’autorità è calcolato in base alla seguente formula:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/667/20230101/it/xml/image/image1.png)
+
+<sup>3</sup> L’importo ammonta tuttavia al massimo a due franchi per interrogazione.
+
+<sup>4</sup> Sono determinanti i costi e le cifre sulzl’utilizzazione dell’anno precedente.
+
+<sup>5</sup> Per le autorizzazioni di cui all’articolo 34*b* capoverso 3 l’UFRF riscuote un emolumento in funzione del tempo impiegato. La tariffa oraria ammonta a 250 franchi.
+
+<sup>6</sup> Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^34i-1] sugli emolumenti.
+
+[^34i-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ### Capitolo 7: Sicurezza dei dati e obbligo di conservazione
 
@@ -765,13 +1063,24 @@ Chiunque, mediante un’attestazione dell’autorità competente, si identifichi
 
 I documenti giustificativi devono contenere i seguenti dati sul disponente e sull’acquirente:
 
-- a. per le persone fisiche: il cognome, i nomi, la data di nascita, il sesso, il domicilio, l’attinenza o la cittadinanza; ai documenti giustificativi va allegata una copia del passaporto o della carta di identità; una volta rilevati i dati personali, la copia viene distrutta;
+- a.[^51-1]
+
+  per le persone fisiche: il cognome, i nomi, la data di nascita, il sesso, il domicilio, l’attinenza o la cittadinanza; ai fini dell’identificazione, ai documenti giustificativi vanno allegati una copia del passaporto o della carta d’identità e uno dei seguenti documenti:
+
+  - 1\. una copia del certificato di assicurazione di cui all’articolo 135<sup>bis</sup> OAVS[^51-2],
+  - 2\. una copia della tessera d’assicurato di cui all’articolo 1 dell’ordinanza del 14 febbraio 2007[^51-3] sulla tessera d’assicurato per l’assicurazione obbligatoria delle cure medico-sanitarie,
+  - 3\. una dichiarazione scritta della persona recante il suo luogo di nascita, il suo cognome, il suo numero AVS, i nomi dei genitori e, se è sposata, il suo cognome da celibe o da nubile;
+
 - b. per le persone giuridiche e le società in nome collettivo e in accomandita: la ragione sociale o il nome, la sede, la forma giuridica ove questa non risulti dalla ragione sociale o dal nome, il numero d’identificazione dell’impresa (IDI);
 - c. per le altre società e comunioni i cui membri sono vincolati tra loro per legge o contratto e sono proprietari in comune: i dati menzionati alle lettere a o b per ciascun membro.
 
 <sup>2</sup> I documenti giustificativi devono inoltre contenere le indicazioni che permettono di valutare se per decisioni in merito a un fondo sia necessaria l’autorizzazione di un’autorità o il consenso di un terzo (p. es. il coniuge).
 
 <sup>3</sup> In caso d’acquisto di una proprietà collettiva, occorre indicare i dati necessari alla descrizione dei rapporti collettivi di proprietà conformemente all’articolo 96.
+
+[^51-1]: Nuovo testo giusta il n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^51-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^51-3]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 
 ### Sezione 2: Notificazione di ipoteche legali dirette
 
@@ -2182,13 +2491,23 @@ Il DFGP autorizza il Cantone a tenere il registro fondiario informatizzato se:
 
 [^160-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
+#### Art. 160a
+
+**Sostituzione, rinnovo completo e modifiche rilevanti del sistema**[^160a-1]
+
+<sup>1</sup> Se, dopo aver ottenuto l’autorizzazione a tenere il registro fondiario informatizzato, un Cantone sostituisce o rinnova completamente il sistema o vi apporta modifiche rilevanti (art. 15), gli articoli 159 e 160 si applicano per analogia.
+
+<sup>2</sup> Il rinnovo del sistema è considerato completo se la portata dei relativi lavori equivale a una sostituzione del sistema.
+
+[^160a-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
 #### Art. 161
 
 **Diritto previgente: abrogazione**
 
 Il regolamento del 22 febbraio 1910[^161-1] per il registro fondiario è abrogato.
 
-[^161-1]: [CS **2** 516; [RU 1964 409](https://fedlex.data.admin.ch/eli/oc/1964/413_409_409), [1965 465](https://fedlex.data.admin.ch/eli/oc/1965/467_471_465)[1256](https://fedlex.data.admin.ch/eli/oc/1965/1255_1268_1256), [1987 1600](https://fedlex.data.admin.ch/eli/oc/1987/1600_1600_1600), [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876), [1993 2904](https://fedlex.data.admin.ch/eli/oc/1993/2904_2904_2904)art. 7 n. 1, [1995 14](https://fedlex.data.admin.ch/eli/oc/1995/14_14_14), [1996 3106](https://fedlex.data.admin.ch/eli/oc/1996/3106_3106_3106), [2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)all. n. 2, [2005 1343](https://fedlex.data.admin.ch/eli/oc/2005/206), [2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)all. 2 n. 3 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 19, [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)all. n. I, [2009 4723](https://fedlex.data.admin.ch/eli/oc/2009/553)all. n. I]
+[^161-1]: [CS **2** 516; [RU 1964 409](https://fedlex.data.admin.ch/eli/oc/1964/413_409_409); [1965 465](https://fedlex.data.admin.ch/eli/oc/1965/467_471_465), [1256](https://fedlex.data.admin.ch/eli/oc/1965/1255_1268_1256); [1987 1600](https://fedlex.data.admin.ch/eli/oc/1987/1600_1600_1600); [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876); [1993 2904](https://fedlex.data.admin.ch/eli/oc/1993/2904_2904_2904)art. 7 n. 1; [1995 14](https://fedlex.data.admin.ch/eli/oc/1995/14_14_14); [1996 3106](https://fedlex.data.admin.ch/eli/oc/1996/3106_3106_3106); [2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)all. n. 2; [2005 1343](https://fedlex.data.admin.ch/eli/oc/2005/206); [2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)all. 2 n. 3, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 19; [2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)all. n. I; [2009 4723](https://fedlex.data.admin.ch/eli/oc/2009/553)all. n. I]
 
 #### Art. 162
 
@@ -2207,6 +2526,55 @@ I diritti di pegno immobiliare iscritti nel registro fondiario prima del 1° gen
 **Restrizioni di diritto pubblico della proprietà esistenti**
 
 Le restrizioni di diritto pubblico della proprietà ordinate con decisione passata in giudicato prima del 1° gennaio 2012, non devono essere iscritte nel registro fondiario.
+
+#### Art. 164a
+
+**Disposizioni transitorie della modifica del 10 dicembre 2021: attribuzione del numero AVS a persone già iscritte nel libro mastro**[^164a-1]
+
+<sup>1</sup> L’ufficio del registro fondiario attribuisce i rispettivi numeri AVS alle persone fisiche titolari di un diritto immobiliare già iscritte nel libro mastro al momento dell’entrata in vigore della modifica del 10 dicembre 2021 secondo la procedura standard per interi complessi di dati di cui all’articolo 134<sup>quarter</sup> capoverso 2 OAVS[^164a-2].
+
+<sup>2</sup> A tal fine trasmette all’UCC il complesso di dati di cui all’articolo 90 capoverso 1 lettera a relativo a tali persone. La prima trasmissione deve essere effettuata entro due anni dall’entrata in vigore della modifica del 10 dicembre 2021.
+
+<sup>3</sup> L’ufficio del registro fondiario riprende nel registro degli identificatori di persone, senza ulteriori controlli, i dati verificati dall’UCC.
+
+<sup>4</sup> In caso di dubbi procede secondo l’articolo 23*c* capoversi 3–5.
+
+<sup>5</sup>
+
+I Cantoni provvedono affinché alle persone fisiche già iscritte nel libro mastro sia attribuito il loro numero AVS entro i seguenti termini:
+
+- a. per le persone iscritte nel libro mastro dal 1° gennaio 2012: entro tre anni dall’entrata in vigore della modifica del 10 dicembre 2021;
+- b. per le persone iscritte nel libro mastro tra il 1° gennaio 1948 e il 31 dicembre 2011: entro cinque anni dall’entrata in vigore della modifica del 10 dicembre 2021;
+- c. per le persone iscritte nel libro mastro prima del 1° gennaio 1948: entro sette anni dall’entrata in vigore della modifica del 10 dicembre 2021.
+
+[^164a-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+[^164a-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+
+#### Art. 164b
+
+**Disposizioni transitorie della modifica del 10 dicembre 2021: accesso del servizio di ricerca di fondi ai dati giuridicamente efficaci iscritti nel libro mastro e trasmissione dei dati all’indice di ricerca**[^164b-1]
+
+<sup>1</sup> I Cantoni assicurano entro un anno dall’entrata in vigore della modifica del 10 dicembre 2021 l’operatività dell’interfaccia che permette al servizio di ricerca di fondi di accedere ai dati (art. 34*c* cpv. 1).
+
+<sup>2</sup> Effettuano entro lo stesso termine la trasmissione iniziale dell’intero complesso di dati di cui all’articolo 34*b* capoversi 5 e 6 all’indice di ricerca del servizio di ricerca di fondi.
+
+[^164b-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 164c
+
+**Disposizioni transitorie della modifica del 10 dicembre 2021: emolumenti**[^164c-1]
+
+Gli emolumenti per l’utilizzo del servizio di ricerca di fondi non sono riscossi durante il primo anno dall’entrata in vigore della modifica del 10 dicembre 2021.
+
+[^164c-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
+
+#### Art. 164d
+
+**Disposizioni transitorie della modifica del 10 dicembre 2021: proroga del termine in caso di sostituzione o rinnovo completo dei sistemi**[^164d-1]
+
+Se, nei due anni prima dell’entrata in vigore della modifica del 10 dicembre 2021, ha sostituito o rinnovato completamente il sistema utilizzato per il registro fondiario informatizzato o ha deciso di sostituirlo o rinnovarlo, il Cantone può prevedere nella propria legislazione una proroga ragionevole dei termini stabiliti negli articoli 164*a* capoversi 2 e 5 nonché 164*b*.
+
+[^164d-1]: Introdotto dal n. I dell’O del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 918](https://fedlex.data.admin.ch/eli/oc/2021/918)).
 
 #### Art. 165
 
