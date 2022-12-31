@@ -3,18 +3,18 @@ sr: "741.437"
 title: Verordnung des UVEK vom 21. August 2002 über Wartung und Nachkontrolle von Motorwagen betreffend Abgas- und Rauchemissionen
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/596"
 language: de
-version: 2019-02-01
+version: 2023-01-01
 adopted: 2002-08-21
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/596/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2002-596-20190201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/596/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/596/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-596-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/596/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des UVEK über Wartung und Nachkontrolle von Motorwagen betreffend Abgas- und Rauchemissionen
 
-vom 21. August 2002 (Stand am 1. Februar 2019)
+vom 21. August 2002 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -29,11 +29,12 @@ verordnet:
 
 ### 1.1 Messgeräte
 
-- 1\.1.1 Es dürfen nur die unter den Ziffern 2.4 und 3.2 beschriebenen Messgeräte verwendet werden.
+- 1\.1.1[^lvl1-lvl11-1] Es dürfen nur die unter den Ziffern 2.4, 3.2 und 3*a* beschriebenen Messgeräte verwendet werden.
 - 1\.1.2 Der Betrieb, der die Abgaswartung durchführt, muss kein eigenes Abgasmessgerät besitzen. Er muss jedoch dessen Verfügbarkeit glaubhaft machen können.
-- 1\.1.3[^lvl1-lvl11-1] …
+- 1\.1.3[^lvl1-lvl11-2] …
 
-[^lvl1-lvl11-1]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl1-lvl11-1]: Fassung gemäss Ziff. I der V des UVEK vom 10. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+[^lvl1-lvl11-2]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 
 ### 1.2 Abgas-Wartungsdokument
 
@@ -43,7 +44,7 @@ verordnet:
 - *1.2.2* *Beschaffung*
 - 1\.2.2.1 Für bereits im Verkehr stehende Fahrzeuge hat der Fahrzeughalter oder die Fahrzeughalterin das Abgas-Wartungsdokument bei einem schweizerischen Vertreter der entsprechenden Fahrzeugmarke zu beschaffen und die Eintragung der Kontrolldaten, Messbedingungen und Sollwerte vornehmen zu lassen.
 - 1\.2.2.2 Die Hersteller und die Inhaber der schweizerischen Typengenehmigungen sind verpflichtet, den Markenvertretern rechtzeitig die entsprechenden Wartungsdokumente und die einzutragenden Daten zur Verfügung zu stellen.
-- 1\.2.3 Abgabe bei Fehlen des Inhabers der Typengenehmigung oder des Markenvertreters; von der Typengenehmigung befreite Fahrzeuge
+- *1.2.3* *Abgabe bei Fehlen des Inhabers der Typengenehmigung oder des Markenvertreters; von der Typengenehmigung befreite Fahrzeuge*
 - 1\.2.3.1[^lvl1-lvl12-2] Für Fahrzeuge, für die in der Schweiz kein Inhaber einer Typengenehmigung oder kein Markenvertreter besteht, kann das Wartungsdokument beispielsweise bei den unten aufgeführten Organisationen bezogen werden. Das Wartungsdokument ist nach den vorhandenen technischen Daten auszufüllen. Sind diese nicht vorhanden, so werden für leichte Motorwagen mit Fremdzündungsmotor die Richtwerte nach Ziffer 2.3 als Sollwerte eingetragen, für Motorwagen mit Selbstzündungsmotor werden die Sollwerte nach Ziffer 3.3 ermittelt.
 
 <table>
@@ -92,13 +93,14 @@ verordnet:
 - Bei Abgas-Nachkontrollen an Fahrzeugen mit OBD-System ist die Funktion der Fehlerfunktionsanzeige und der Fehlerspeicher auf allenfalls gespeicherte Fehlercodes zu überprüfen.
 - *1.5.1* *Abgas-Nachkontrolle vor der ersten Inverkehrsetzung*
 - Vor der ersten Inverkehrsetzung ist eine Abgas-Nachkontrolle nach Artikel 36 VTS durchzuführen. Können dabei die Sollwerte nicht eingehalten werden, so ist diese Nachkontrolle innerhalb von 3000 km oder innerhalb von 100 Betriebsstunden bei Fahrzeugen ohne Kilometerzähler, spätestens jedoch ein Jahr nach der ersten Inverkehrsetzung, durchzuführen. Die gemessenen Werte sind im Abgas-Wartungsdokument in der Rubrik «0–3000 km» oder «0–100 h» einzutragen.
-- *1.5.2**[^lvl1-lvl15-1]* *Abgas-Nachkontrollen durch die Zulassungsbehörden und die Polizei*
-- Sind bei Abgas-Nachkontrollen durch die Zulassungsbehörden und die Polizei die Sollwerte (inkl. Toleranzen) oder die unten aufgeführten Bedingungen nicht eingehalten, so ist nach Artikel 36 Absatz 3 VTS eine erneute Abgaswartung und Nachkontrolle anzuordnen. Der Fahrzeughalter oder die Fahrzeughalterin untersteht dabei keiner Strafdrohung, wenn das Fahrzeug termingerecht gewartet wurde. Eine erneute Abgaswartung und Abgas-Nachkontrolle ist anzuordnen, wenn die Abgaswartung nicht korrekt vorgenommen wurde oder wenn Defekte oder Mängel an der abgasrelevanten Ausrüstung vorliegen.
+- *1.5.2*[^lvl1-lvl15-1] *Abgas-Nachkontrollen durch die Zulassungsbehörden und die Polizei*
+- Sind bei Abgas-Nachkontrollen durch die Zulassungsbehörden und die Polizei die Sollwerte (inkl. Toleranzen) oder die unten aufgeführten Bedingungen nicht eingehalten, so ist nach Artikel 36 Absatz 3 Buchstabe c VTS eine erneute Abgaswartung oder Abgas-Nachkontrolle anzuordnen. Der Fahrzeughalter oder die Fahrzeughalterin untersteht dabei keiner Strafdrohung, wenn das Fahrzeug termingerecht gewartet wurde. Eine erneute Abgaswartung oder Abgas-Nachkontrolle ist anzuordnen, wenn die Abgaswartung nicht korrekt vorgenommen wurde oder wenn Defekte oder Mängel an der abgasrelevanten Ausrüstung vorliegen.
 - Werden die massgebenden Werte erheblich unter- oder überschritten, so kann für die Beurteilung auf ein vereinfachtes Verfahren abgestellt werden.
 - Bei Fahrzeugen mit Fremdzündungsmotor und OBD-System ist nebst der Überprüfung der Fehlerfunktionsanzeige und des Fehlerspeichers eine Messung der Abgasemissionen nach Ziffer 2.1.2 vorzunehmen. Liegen keine Angaben vor, darf der Wert für die CO-Emission 0,2 % vol nicht überschreiten.
 - Bei Fahrzeugen mit Selbstzündungsmotor und OBD-System ist nebst der Überprüfung der Fehlerfunktionsanzeige und des Fehlerspeichers eine Messung der Rauchemission nach Ziffer 3.2.2 vorzunehmen. Der Trübungskoeffizient darf den auf der Genehmigungsplakette am Motor, auf der Typengenehmigung oder im Fahrzeugausweis eingetragenen Wert nicht überschreiten.
+- Bei Fahrzeugen mit vorgeschriebenem Partikelfilter ist mindestens eine Messung der Partikelanzahlkonzentration nach Ziffer 3*a* vorzunehmen. Als Fahrzeuge mit vorgeschriebenem Partikelfilter gelten Fahrzeuge, für die in den Abgasvorschriften nach Artikel 52 Absatz 5 VTS ein Grenzwert für die Partikelanzahl festgelegt ist.
 
-[^lvl1-lvl15-1]: Fassung gemäss Ziff. I der V des UVEK vom 22. Aug. 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4621](https://fedlex.data.admin.ch/eli/oc/2005/601)).
+[^lvl1-lvl15-1]: Fassung gemäss Ziff. I der V des UVEK vom 10. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
 
 ## 2 Bestimmungen für Fahrzeuge mit Fremdzündungsmotoren
 
@@ -124,7 +126,7 @@ verordnet:
 [^lvl2-lvl21-1]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 [^lvl2-lvl21-2]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 
-### 2.2**** Sollwerte
+### 2.2 Sollwerte
 
 [^lvl2-lvl22-1]
 
@@ -161,8 +163,7 @@ verordnet:
 
 - 2\.4.1[^lvl2-lvl24-1] Es dürfen nur Messgeräte verwendet werden, die nach der Verordnung des EJPD vom 19. März 2006[^lvl2-lvl24-2] über Abgasmessgeräte für Verbrennungsmotoren zugelassen und geeicht sind.
 - 2\.4.2[^lvl2-lvl24-3] Reparierte Messgeräte sind nach der Messmittelverordnung vom 15. Februar 2006[^lvl2-lvl24-4] der zuständigen Stelle zur Nacheichung am Einsatzort zu melden.
-
-2.4.3[^lvl2-lvl24-5] …
+- 2\.4.3[^lvl2-lvl24-5] …
 
 [^lvl2-lvl24-1]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 [^lvl2-lvl24-2]: [SR 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
@@ -184,7 +185,7 @@ verordnet:
 
 ## 3 Bestimmungen für Fahrzeuge mit Selbstzündungsmotoren
 
-### 3.1**** Umfang der Wartung
+### 3.1 Umfang der Wartung
 
 [^lvl3-lvl31-1]
 
@@ -206,23 +207,23 @@ Bei der Abgaswartung sind nach den Herstellerangaben mindestens die folgenden Ar
 - *3.2.1* *Allgemeine Messbedingungen*
 - 3\.2.1.1 Der Motor muss nach den Angaben des Herstellers eingestellt sein und normale Betriebstemperatur aufweisen.
 - 3\.2.1.2 Die Messung erfolgt am stehenden Fahrzeug, das Getriebe in Neutralstellung. Es muss handelsüblicher Treibstoff ohne rauchmindernde Zusätze verwendet werden.
-- 3\.2.1.3 Die Auspuffanlage muss dicht sein. Verfügt ein Fahrzeug über mehrere Auspuffendrohre, ist an jedem eine Messreihe vorzunehmen. Massgebend ist die Messreihe mit dem höchsten Resultat.
+- 3\.2.1.3[^lvl3-lvl32-1] Die Auspuffanlage darf weder ein Leck noch eine Vorrichtung aufweisen, das oder die eine Verdünnung der Abgase zur Folge hat. Verfügt ein Fahrzeug über mehrere Auspuffendrohre, ist an jedem eine Messreihe vorzunehmen. Massgebend ist die Messreihe mit dem höchsten Resultat.
 - 3\.2.1.4 Bei Motoren mit zu- und abschaltbarer Aufladung hat die Rauchentnahme ohne und mit Aufladung zu erfolgen. Das festzuhaltende Messergebnis ist das höhere der beiden Messreihen.
 - *3.2.2* *Messung nach der Trübungsmethode*
-- Werden die Rauchemissionen bei freier Beschleunigung als Trübungskoeffizient k (m<sup>–1</sup>) gemessen, so ist nach den gleichwertigen Anforderungen des Anhanges 5 des ECE-Reglements Nr. 24[^lvl3-lvl32-1], des Anhanges 4 der Richtlinie Nr. 72/306 des Rates vom 2. August 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen oder des Anhanges 4 der Richtlinie Nr. 77/537 des Rates vom 28. Juni 1977 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern<sup>8</sup> zu verfahren.
+- Werden die Rauchemissionen bei freier Beschleunigung als Trübungskoeffizient k (m<sup>–1</sup>) gemessen, so ist nach den gleichwertigen Anforderungen des Anhanges 5 des ECE-Reglements Nr. 24[^lvl3-lvl32-2], des Anhanges 4 der Richtlinie Nr. 72/306 des Rates vom 2. August 1972 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von Fahrzeugen oder des Anhanges 4 der Richtlinie Nr. 77/537 des Rates vom 28. Juni 1977 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission verunreinigender Stoffe aus Dieselmotoren zum Antrieb von land- oder forstwirtschaftlichen Zugmaschinen auf Rädern<sup>8</sup> zu verfahren.
 
 3.2.2.1 Messgeräte
 
-- 3\.2.2.1.1[^lvl3-lvl32-2] Es dürfen nur Messgeräte verwendet werden, die nach der Verordnung des EJPD vom 19. März 2006[^lvl3-lvl32-3] über Abgasmessgeräte für Verbrennungsmotoren zugelassen und geeicht sind.
-- 3\.2.2.1.2[^lvl3-lvl32-4] Reparierte Messgeräte sind nach der Messmittelverordnung vom 15. Februar 2006[^lvl3-lvl32-5] der zuständigen Stelle zur Nacheichung am Einsatzort zu melden.
-- [tab] 3.2.2.1.3[^lvl3-lvl32-6]…
+- 3\.2.2.1.1[^lvl3-lvl32-3] Es dürfen nur Messgeräte verwendet werden, die nach der Verordnung des EJPD vom 19. März 2006[^lvl3-lvl32-4] über Abgasmessgeräte für Verbrennungsmotoren zugelassen und geeicht sind.
+- 3\.2.2.1.2[^lvl3-lvl32-5] Reparierte Messgeräte sind nach der Messmittelverordnung vom 15. Februar 2006[^lvl3-lvl32-6] der zuständigen Stelle zur Nacheichung am Einsatzort zu melden.
+- 3\.2.2.1.3[^lvl3-lvl32-7] …
 - 3\.2.2.2 Durchführung der Messung
 - 3\.2.2.2.1 Das Messgerät ist nach der Betriebsanleitung des Geräteherstellers zu handhaben.
 - 3\.2.2.2.2 Bei Leerlauf des Motors ist das Gaspedal schnell und stossfrei niederzutreten. Sobald die obere Leerlaufdrehzahl ohne Last (Abregeldrehzahl) erreicht ist, wird das Gaspedal losgelassen, bis der Motor wieder den Leerlauf erreicht hat und das Messgerät wieder messbereit ist. Die Werte, die während des Leerlaufs des Motors auftreten, sind nicht zu berücksichtigen.
 - *3.2.3* *Messung nach der Filtermethode (Bacharach)*
 - 3\.2.3.1 Messgeräte
 - 3\.2.3.1.1 Es ist die Bosch-Integrier-Filterpumpe EFAW 65 B, Pumpeninhalt 330 cm<sup>3</sup>, Filterfläche 1,1 cm<sup>2</sup> (Durchmesser 12 mm), Saugzeit 6–8 Sekunden, angeschlossen an eine Bosch-Sonde mit Sondenschlauch, Innendurchmesser 4 mm, Länge 6 m zu verwenden. Die Auswertung hat mit der Bacharach-Russbildskala oder mit dem Bosch-Auswertegerät ETD 020.51 zu erfolgen.
-- 3\.2.3.1.2 Der Unterhalt und die Kontrolle des Gerätes erfolgen nach der Gebrauchsanweisung des Herstellers und nach den Vorschriften des Eidgenössischen Instituts für Metrologie (METAS)[^lvl3-lvl32-7].
+- 3\.2.3.1.2 Der Unterhalt und die Kontrolle des Gerätes erfolgen nach der Gebrauchsanweisung des Herstellers und nach den Vorschriften des Eidgenössischen Instituts für Metrologie (METAS)[^lvl3-lvl32-8].
 - 3\.2.3.1.3 Das Bundesamt für Strassen (ASTRA) kann in Absprache mit dem METAS andere Geräte anerkennen, wenn sie gleichwertige Resultate erbringen.
 - 3\.2.3.2 Durchführung der Messung
 - 3\.2.3.2.1 Das Messgerät ist nach der Betriebsanleitung des Geräteherstellers zu handhaben.
@@ -230,13 +231,14 @@ Bei der Abgaswartung sind nach den Herstellerangaben mindestens die folgenden Ar
 - 3\.2.3.3 Anzahl der Messungen
 - Es sind so viele Messungen vorzunehmen, bis drei aufeinanderfolgende Schwärzungsbilder nicht um mehr als eine halbe Bacharach-Einheit voneinander abweichen; massgebend ist das dunkelste dieser drei Schwärzungsbilder.
 
-[^lvl3-lvl32-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)Anhang 2
-[^lvl3-lvl32-2]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl3-lvl32-3]: [SR 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
-[^lvl3-lvl32-4]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl3-lvl32-5]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^lvl3-lvl32-6]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl3-lvl32-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^lvl3-lvl32-1]: Fassung gemäss Ziff. I der V des UVEK vom 10. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+[^lvl3-lvl32-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)Anhang 2
+[^lvl3-lvl32-3]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl3-lvl32-4]: [SR 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+[^lvl3-lvl32-5]: Fassung gemäss Ziff. I der V des UVEK vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl3-lvl32-6]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^lvl3-lvl32-7]: Aufgehoben durch Ziff. I der V des UVEK vom 30. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl3-lvl32-8]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 ### 3.3 Sollwerte
 
@@ -262,17 +264,60 @@ Bei der Abgaswartung sind nach den Herstellerangaben mindestens die folgenden Ar
 - 3\.4.2 Erfolgen die Messungen in grösseren Höhen, sind zur Berücksichtigung des Höheneinflusses bei Fahrzeugen ohne Druckkorrektur je 0,25 m<sup>–1</sup> bzw. 0,5 Bacharach pro 400 m grössere Höhe von dem nach Ziffer 3.2 ermittelten Wert abzuziehen.
 - 3\.4.3 Im Wartungsdokument ist der korrigierte Wert einzutragen.
 
+## 3*a* Bestimmungen für Fahrzeuge mit vorgeschriebenem Partikelfilter
+
+[^lvl3a-1]
+
+[^lvl3a-1]: Eingefügt durch Ziff. I der V des UVEK vom 10. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+
+### 3 *a*.1Messgeräte
+
+- 3*a*.1.1 Für die Messung der Partikelanzahlkonzentration dürfen nur Messmittel verwendet werden, die nach der Verordnung des EJPD vom 19. März 2006[^lvl3a-lvl3-1] über Abgasmessmittel für Verbrennungsmotoren zugelassen und geeicht sind.
+- 3*a*.1.2 Reparierte Messmittel sind nach der Messmittelverordnung vom 15. Februar 2006[^lvl3a-lvl3-2] der zuständigen Stelle zur Nacheichung zu übergeben.
+
+[^lvl3a-lvl3-1]: [SR 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+[^lvl3a-lvl3-2]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+
+### 3 *a*.2Messung der Partikelanzahlkonzentration
+
+- *3a.2.1* *Allgemeine Messbedingungen*
+- 3*a*.2.1.1 Der Motor muss nach den Angaben des Herstellers gewartet und eingestellt sein und die vom Hersteller angegebene Betriebstemperatur aufweisen.
+- 3*a*.2.1.2 Die Messung erfolgt am stehenden Fahrzeug, das Getriebe in Neutralstellung. Es muss handelsüblicher Treibstoff ohne Zusätze verwendet werden.
+- 3*a*.2.1.3 Die Auspuffanlage darf weder ein Leck noch eine Vorrichtung aufweisen, das oder die eine Verdünnung der Abgase zur Folge hat. Verfügt ein Fahrzeug über mehrere Auspuffendrohre, so ist an jedem eine Messreihe vorzunehmen. Massgebend ist die Messreihe mit dem höchsten Resultat.
+- 3*a*.2.1.4
+
+  Die Messung erfolgt in der Regel am Auspuffende. Wenn die Messung dort nicht möglich ist, so ist sie an einer Stelle durchzuführen, an der die folgenden Kriterien erfüllt sind:
+
+  - – Die Abgaszusammensetzung ist für die Emissionen repräsentativ.
+  - – Die Schadstoffverteilung ist über den Messquerschnitt homogen.
+  - – Die Entnahmesonde wird in Fortsetzung des Strömungsverlaufs mittig in das Abgasrohr gehalten.
+
+- 3*a*.2.1.5 Die Entnahmesonde ist in der Regel ca. 50 mm in das Abgasrohr einzuführen. Die Positionierung der Entnahmesonde im Abgasrohr darf keine Verdünnung der Abgase zur Folge haben.
+- *3a.2.2* *Durchführung der Messung*
+- 3*a*.2.2.1 Die Partikelanzahlkonzentration wird bei Fahrzeugen der Klassen M und N bei 2000 Umdrehungen/min gemessen. Bei allen anderen Strassenfahrzeugen wird im oberen Leerlauf ohne Last (Abregeldrehzahl) des Motors gemessen (massgebender Betriebspunkt). Wenn die Abregeldrehzahl im Stand nicht erreicht werden kann, ist bei einer wiederholbaren Drehzahl ohne Last, zwischen Leerlaufdrehzahl und Abregeldrehzahl, zu messen. Wenn weder die Abregeldrehzahl noch eine wiederholbare Drehzahl ohne Last erreicht werden kann, so ist eine Messung unter Last, zum Beispiel durch Erbringen einer hydraulischen Leistung, zulässig, sofern der eingestellte Betriebspunkt wiederholbar und reproduzierbar ist. Die gewählte Drehzahl und allenfalls die Last sind entsprechend zu notieren.
+- 3*a*.2.2.2 Die Messung der Partikelanzahlkonzentration ist durchzuführen, sobald der eingestellte Betriebspunkt konstant ist. Es sind drei Messungen durchzuführen, die vom Messmittel selbständig ausgelöst werden.
+- *3a.2.3* *Messresultat*
+- 3*a*.2.2.3 Als Messresultat gilt der arithmetische Mittelwert der offiziellen Messung gemäss Anhang 4 Ziffer 7.2 der Verordnung des EJPD vom 19. März 2006[^lvl3a-lvl3-3] über Abgasmessmittel für Verbrennungsmotoren. Vom angezeigten Messwert darf kein Abzug gemacht werden.
+
+[^lvl3a-lvl3-3]: [SR 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+
+### 3 *a*.3Sollwert
+
+- 3*a*.3.1 Das Messresultat darf den Sollwert von 2,5 × 10<sup>5</sup> Partikel/cm<sup>3</sup> (250 000 Partikel/cm<sup>3</sup>) nicht überschreiten.
+- *3a.3.2* *Vereinfachtes Verfahren*
+- Der Sollwert nach Ziffer 3*a*.3.1 gilt als eingehalten, wenn eine vereinfachte Messung im unteren Leerlauf ohne Last nicht mehr als 1 × 10<sup>5</sup> Partikel/cm<sup>3</sup> (100 000 Partikel/cm<sup>3</sup>) ergibt.
+
 ## 4 Aufhebung von bisherigem Recht
 
 - Die Verordnung vom 22. Dezember 1993[^lvl4-1] über Wartung und Nachkontrolle von Motorwagen betreffend Abgas- und Rauchemissionen wird aufgehoben.
 
-[^lvl4-1]: [[AS 1994 176](https://fedlex.data.admin.ch/eli/oc/1994/176_176_176), [1998 1788](https://fedlex.data.admin.ch/eli/oc/1998/1788_1788_1788), [1999 3138](https://fedlex.data.admin.ch/eli/oc/1999/479)]
+[^lvl4-1]: [[AS 1994 176](https://fedlex.data.admin.ch/eli/oc/1994/176_176_176); [1998 1788](https://fedlex.data.admin.ch/eli/oc/1998/1788_1788_1788); [1999 3138](https://fedlex.data.admin.ch/eli/oc/1999/479)]
 
 ## 5 Inkrafttreten
 
 - Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Ziff. 1.2.1)
 

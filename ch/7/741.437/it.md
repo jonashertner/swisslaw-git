@@ -3,18 +3,18 @@ sr: "741.437"
 title: Ordinanza del DATEC del 21 agosto 2002 sulla manutenzione e il controllo successivo degli autoveicoli per quanto concerne le emissioni dei gas di scarico e di fumo
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/596"
 language: it
-version: 2019-02-01
+version: 2023-01-01
 adopted: 2002-08-21
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/596/20190201/it/xml/fedlex-data-admin-ch-eli-cc-2002-596-20190201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/596/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/596/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-596-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/596/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DATEC sulla manutenzione e il controllo successivo degli autoveicoli per quanto concerne le emissioni dei gas di scarico e di fumo
 
-del 21 agosto 2002 (Stato 1° febbraio 2019)
+del 21 agosto 2002 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -29,11 +29,12 @@ ordina:
 
 ### 1.1 Strumenti di misurazione
 
-- 1\.1.1 Possono essere usati soltanto gli strumenti di misurazione descritti ai numeri 2.4 e 3.2.
+- 1\.1.1[^lvl1-lvl11-1] Possono essere usati soltanto gli strumenti di misurazione descritti ai numeri 2.4, 3.2 e 3*a*.
 - 1\.1.2 L’azienda che esegue la manutenzione del sistema antinquinamento non è obbligata a possedere uno strumento di misurazione proprio. Tuttavia deve poter renderne attendibile la disponibilità.
-- 1\.1.3[^lvl1-lvl11-1] ...
+- 1\.1.3[^lvl1-lvl11-2] ...
 
-[^lvl1-lvl11-1]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl1-lvl11-1]: Nuovo testo giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+[^lvl1-lvl11-2]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 
 ### 1.2 Documento di manutenzione del sistema antinquinamento
 
@@ -55,8 +56,8 @@ ordina:
 - 1\.2.3.2 Per i veicoli dispensati dall’approvazione del tipo, il documento di manutenzione del sistema antinquinamento dev’essere richiesto a un rappresentante della rispettiva marca in Svizzera o conformemente a quanto indicato al numero 1.2.3.1.
 - 1\.2.3.3 Per i veicoli dispensati dall’approvazione del tipo e per i quali il titolare dell’approvazione svizzera del tipo attesta la conformità al tipo di veicolo omologato in Svizzera, questi può rilasciare il documento di manutenzione del sistema antinquinamento. Sono determinanti i dati per il corrispondente tipo di veicoli omologato.
 - *1.2.4* *Veicoli trasformati*
-- 1\.2.4.1. Per i veicoli ai quali, in parti d’importanza determinante in materia di gas inquinanti, sono state apportate modificazioni, verificate e iscritte nella licenza di circolazione, chi ha effettuato la trasformazione deve indicare i valori di riferimento. Se questi non sono più disponibili, come valori di riferimento per gli autoveicoli leggeri equipaggiati di un motore ad accensione comandata si applicano i valori indicativi conformemente al numero 2.3; per gli autoveicoli equipaggiati di un motore ad accensione per compressione, i valori indicativi conformemente al numero 3.3.
-- 1\.2.4.2 Se durante il servizio di manutenzione del sistema antinquinamento sono constatate modificazioni, non verificate e non iscritte nella licenza di circolazione, a parti d’importanza determinante in materia di gas inquinanti, la manutenzione del sistema antinquinamento non può essere attestata. Deve essere apportata successivamente la prova del rispetto delle disposizioni sui gas di scarico.
+- 1\.2.4.1. Per i veicoli ai quali, in parti di incidenza sui gas di scarico[^lvl1-lvl12-3], sono state apportate modificazioni, verificate e iscritte nella licenza di circolazione, chi ha effettuato la trasformazione deve indicare i valori di riferimento. Se questi non sono più disponibili, come valori di riferimento per gli autoveicoli leggeri equipaggiati di un motore ad accensione comandata si applicano i valori indicativi conformemente al numero 2.3; per gli autoveicoli equipaggiati di un motore ad accensione per compressione, i valori indicativi conformemente al numero 3.3.
+- 1\.2.4.2 Se durante il servizio di manutenzione del sistema antinquinamento sono constatate modificazioni, non verificate e non iscritte nella licenza di circolazione, a parti di incidenza sui gas di scarico, la manutenzione del sistema antinquinamento non può essere attestata. Deve essere apportata successivamente la prova del rispetto delle disposizioni sui gas di scarico.
 - *1.2.5* *Attestazione*
 - Dopo ogni servizio di manutenzione del sistema antinquinamento, il documento di manutenzione del sistema antinquinamento deve essere compilato e firmato dalla persona che ha proceduto ai lavori o da una persona responsabile dell’azienda interessata.
 - *1.2.6* *Conservazione* *dei risultati delle misurazioni*
@@ -68,11 +69,12 @@ ordina:
 - 1\.2.8.1 Un veicolo equipaggiato con catalizzatore ai sensi della presente ordinanza dispone di un catalizzatore per i gas di scarico a tre vie, a due vie oppure aggiunto successivamente.
 - 1\.2.8.2 Per i veicoli già in circolazione, il titolare dell’approvazione svizzera del tipo o il rappresentante della marca conferma con timbro e firma nonché con l’iscrizione «Veicolo equipaggiato con catalizzatore» nel documento di manutenzione del sistema antinquinamento che il veicolo in questione è equipaggiato con un catalizzatore.
 - 1\.2.8.3 Per i veicoli per i quali non esiste un titolare di un’approvazione del tipo o un rappresentante della marca in Svizzera, la persona responsabile della manutenzione del sistema antinquinamento dell’azienda in cui è effettuata di consuetudine la manutenzione può procedere alla conferma secondo il numero 1.2.8.2.
-- *1.2.9* [^lvl1-lvl12-3] *...*
+- *1.2.9*[^lvl1-lvl12-4] *...*
 
 [^lvl1-lvl12-1]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 [^lvl1-lvl12-2]: Nuovo testo giusta il n. I dell’O del DATEC del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 319](https://fedlex.data.admin.ch/eli/oc/2019/47)).
-[^lvl1-lvl12-3]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl1-lvl12-3]: Nuova espr. giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^lvl1-lvl12-4]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 
 ### 1.3 Autoadesivo
 
@@ -92,13 +94,14 @@ ordina:
 - In occasione dei controlli successivi dei gas di scarico eseguiti su veicoli con sistemi OBD, è necessario controllare l’indicatore di disfunzione e il memorizzatore per localizzare eventuali codici d’errore memorizzati.
 - *1.5.1* *Controllo* *successivo* *dei gas di scarico avanti la prima messa in* *circolazione*
 - Avanti la prima messa in circolazione deve essere effettuato un controllo successivo dei gas di scarico giusta l’articolo 36 OETV. Se però non possono essere rispettati i valori di riferimento, questo controllo successivo deve essere effettuato prima di aver percorso 3000 km o entro il termine di 100 ore d’esercizio per i veicoli privi di contachilometri, tuttavia al più tardi un anno dopo la prima messa in circolazione. I valori misurati devono essere iscritti nel documento di manutenzione del sistema antinquinamento alla rubrica «0–3000 km» oppure «0–100 h».
-- *1.5.2*[^lvl1-lvl15-1] *Controllo successivo dei gas di scarico eseguito dalle autorità* *d**’**immatricolazione* *e dalla polizia*
-- Se, in occasione dei controlli successivi dei gas di scarico eseguiti dalle autorità d’immatricolazione e dalla polizia, i valori di riferimento (tolleranze comprese) o le condizioni elencate sotto non vengono rispettati, sono ordinati un nuovo servizio di manutenzione del sistema antinquinamento e un nuovo controllo successivo secondo l’articolo 36 capoverso 3 OETV. Il detentore del veicolo non soggiace a sanzione alcuna se il veicolo è stato sottoposto al servizio di manutenzione del sistema antinquinamento entro i termini fissati. Sono ordinati un nuovo servizio di manutenzione e un nuovo controllo successivo anche se il servizio di manutenzione del sistema antinquinamento non è stato effettuato correttamente oppure se vi sono difetti o lacune nell’equipaggiamento d’importanza determinante in materia di gas di scarico.
-- Se i valori determinanti risultano di gran lunga troppo elevati o troppo bassi, l’esame può essere svolto secondo una procedura semplificata.
-- Nel caso di veicoli equipaggiati con un motore ad accensione comandata con sistemi OBD, oltre all’esame dell’indicatore di disfunzione e del memorizzatore di errori, va effettuata una misurazione delle emissioni di gas di scarico secondo il numero 2.1.2. In assenza di indicazioni al riguardo, il valore delle emissioni di CO non deve superare lo 0,2 % del volume.
-- Nel caso di veicoli equipaggiati con un motore ad accensione per compressione con sistemi OBD, oltre all’esame dell’indicatore di disfunzione e del memorizzatore di errori, va effettuata una misurazione delle emissioni di fumo secondo il numero 3.2.2. Il coefficiente d’opacità non deve superare il valore riportato sulla targhetta d’approvazione del motore, sull’approvazione del tipo o nella licenza di circolazione.
+- *1.5.2*[^lvl1-lvl15-1] *Controllo successivo dei gas di scarico eseguito dalle autorità d’immatricolazione e dalla polizia*
+- Se, in occasione dei controlli successivi dei gas di scarico eseguiti dalle autorità d’immatricolazione e dalla polizia, i valori di riferimento (tolleranze comprese) o le condizioni elencate sotto non vengono rispettati, è ordinato un nuovo servizio di manutenzione del sistema antinquinamento o un nuovo controllo successivo secondo l’articolo 36 capoverso 3 lettera c OETV. Il detentore del veicolo non soggiace a sanzione alcuna se il veicolo è stato sottoposto a manutenzione entro i termini fissati. È ordinato un nuovo servizio di manutenzione del sistema antinquinamento o un nuovo controllo successivo se la manutenzione non è stata effettuata correttamente oppure se vi sono difetti o lacune nell’equipaggiamento relativo ai gas di scarico.
+- Se i valori determinanti risultano di gran lunga troppo elevati o troppo bassi, la valutazione si può basare su una procedura semplificata.
+- Nel caso di veicoli equipaggiati con motore ad accensione comandata e sistema OBD, oltre all’esame dell’indicatore di disfunzione e del memorizzatore di errori, va effettuata una misurazione delle emissioni di gas di scarico secondo il numero 2.1.2. In assenza di indicazioni al riguardo, il valore delle emissioni di CO non deve superare lo 0,2 % del volume.
+- Nel caso di veicoli equipaggiati con motore ad accensione per compressione e sistema OBD, oltre all’esame dell’indicatore di disfunzione e del memorizzatore di errori, va effettuata una misurazione delle emissioni di fumo secondo il numero 3.2.2. Il coefficiente di opacità non deve superare il valore riportato sulla targhetta d’approvazione del motore, sull’approvazione del tipo o nella licenza di circolazione.
+- Nel caso di veicoli equipaggiati con filtro antiparticolato prescritto va effettuata almeno una misurazione della concentrazione numerica di particelle secondo il numero 3*a*. Sono equipaggiati con filtro antiparticolato prescritto i veicoli per i quali è fissato un valore limite del numero di particelle nelle prescrizioni sui gas di scarico di cui all’articolo 52 capoverso 5 OETV.
 
-[^lvl1-lvl15-1]: Nuovo testo giusta il n. I dell’O del DATEC del 22 ago. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4621](https://fedlex.data.admin.ch/eli/oc/2005/601)).
+[^lvl1-lvl15-1]: Nuovo testo giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
 
 ## 2 Disposizioni per veicoli equipaggiati di un motore ad accensione comandata
 
@@ -110,7 +113,7 @@ ordina:
 
   - – il filtro dell’aria;
   - – il sistema di formazione della miscela;
-  - – il dispositivo di scappamento;
+  - – l’impianto di scarico[^lvl2-lvl21-2];
   - – il sistema di controllo delle emissioni (p. es. il dispositivo di av viamento a freddo, il sistema di reaspirazione dei gas di scarico, il dispositivo d’iniezione dell’aria, il catalizzatore e la sonda lambda);
   - – l’accensione (se del caso, il ruttore, il punto d’accensione dina mico e statico);
   - – la ventilazione del carter;
@@ -119,12 +122,13 @@ ordina:
 - Occorre inoltre controllare, regolare e misurare il regime del minimo.
 - Infine, devono essere misurati i valori d’emissione (CO, CO<sub>2</sub> e HC) in regime al minimo, conformemente alle condizioni di misurazione fissate dal costruttore. I valori di riferimento riportati nel documento di manutenzione del sistema antinquinamento devono essere rispettati.
 - 2\.1.2 Per i veicoli con catalizzatore a tre vie regolato va effettuata inoltre una misurazione delle emissioni di gas di scarico a un regime del minimo elevato secondo le indicazioni del costruttore (min. 2000 min<sup>–1</sup>). Se nel documento di manutenzione del sistema antinquinamento non figurano altre indicazioni per questa misurazione, prima della misurazione il motore deve girare a un regime del minimo elevato per 20–30 secondi. Se il costruttore non indica altri valori, la misurazione deve avvenire a un regime di 2500 min<sup>–1</sup> ± 100 min<sup>–1</sup>; per CO e HC vigono i medesimi valori di riferimento come al regime del minimo. Non è necessario iscrivere i risultati di questa misurazione nel documento di manutenzione del sistema antinquinamento se non vi è la rubrica corrispondente. Se la misurazione è effettuata a un regime del minimo elevato immediatamente dopo la misurazione con marcia al minimo, non è necessario un aggiustamento elettrico dello strumento di misurazione dei gas di scarico.
-- 2\.1.3[^lvl2-lvl21-2] ...
+- 2\.1.3[^lvl2-lvl21-3] ...
 
 [^lvl2-lvl21-1]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl2-lvl21-2]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl2-lvl21-2]: Nuova espr. giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^lvl2-lvl21-3]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
 
-### 2.2**** Valori di riferimento
+### 2.2 Valori di riferimento
 
 [^lvl2-lvl22-1]
 
@@ -148,7 +152,7 @@ ordina:
 <tr><td>1.10.1980–30.9.1982</td><td>≤3,0</td><td>≤400</td><td>≥12,0</td></tr>
 <tr><td>1.10.1982–30.9.1986</td><td>≤2,5<sup>1</sup></td><td>≤300<sup>2</sup></td><td>≥12,0<sup>1</sup></td></tr>
 <tr><td>1.10.1986–30.9.1987/88</td><td>≤1,0</td><td>≤200</td><td>≥12,0<sup>3</sup></td></tr>
-<tr><td>Veicoli del gruppo I dal 1° ottobre 1987 (veicoli secondo l’O del 22 ott. 1986 sull’emissione di gas di scarico degli auto- veicoli leggeri (OEA 1)[^lvl2-lvl23-1] gruppo I come anche veicoli della classe M<sub>1</sub> fino a 2500 kg di peso totale, veicoli della classe N<sub>1</sub> fino a 1225 kg di peso a vuoto e veicoli della classe M<sub>2</sub>)</td><td>≤0,5</td><td>≤100</td><td>≥12,0<sup>3</sup></td></tr>
+<tr><td>Veicoli del gruppo I dal 1° ottobre 1987 (veicoli secondo l’O del 22 ott. 1986 sull’emissione di gas di scarico degli auto- veicoli leggeri (OEA 1)[^lvl2-lvl23-1] gruppo I come anche veicoli della categoria[^lvl2-lvl23-2] M<sub>1</sub> fino a 2500 kg di peso totale, veicoli della categoria N<sub>1</sub> fino a 1225 kg di peso a vuoto e veicoli della categoria M<sub>2</sub>)</td><td>≤0,5</td><td>≤100</td><td>≥12,0<sup>3</sup></td></tr>
 <tr><td>Veicoli del gruppo II dal 1° ottobre 1988 (veicoli secondo OEA 1 gruppo II come anche gli altri veicoli)</td><td>≤1,0</td><td>≤200</td><td>≥12,0<sup>3</sup></td></tr>
 <tr><td colspan="4"><sup>1</sup> Veicoli muniti di un dispositivo secondario d’iniezione d’aria (p. es. di una pompa ad aria, di un «pulsair»): CO ≤ 1,5 % vol, CO<sub>2</sub> = 4–12 % vol.</td></tr>
 <tr><td colspan="4"><sup>2</sup> Veicoli di cilindrata superiore a 2500 cm<sup>3</sup>: HC ≤ 400 ppm.</td></tr>
@@ -158,6 +162,7 @@ ordina:
 - 2\.3.2 In singoli casi particolari, possono essere iscritti dall’*auto-suisse* (cfr. n. 1.2.3.1) valori indicativi più elevati (p. es. in caso di veicoli che beneficiano di una dispensa dalla prova di conformità alle prescrizioni sui gas di scarico oppure se è fornita la prova che le prescrizioni determinanti sui gas di scarico sono comunque rispettate).
 
 [^lvl2-lvl23-1]: [[RU 1986 1836](https://fedlex.data.admin.ch/eli/oc/1986/1836_1836_1836), [1987 1168](https://fedlex.data.admin.ch/eli/oc/1987/1168_1168_1168), [1990 1488](https://fedlex.data.admin.ch/eli/oc/1990/1488_1488_1488), [1993 3127](https://fedlex.data.admin.ch/eli/oc/1993/3127_3127_3127), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)n. IV, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. II 7, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. I 1. [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)]
+[^lvl2-lvl23-2]: Nuova espr. giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### 2.4 Strumenti di misurazione dei gas di scarico
 
@@ -185,7 +190,7 @@ ordina:
 
 ## 3 Disposizioni applicabili ai veicoli equipaggiati di un motore ad accensione per compressione
 
-### 3.1**** Portata della manutenzione del sistema antinquinamento
+### 3.1 Portata della manutenzione del sistema antinquinamento
 
 [^lvl3-lvl31-1]
 
@@ -195,49 +200,54 @@ ordina:
 
   La manutenzione del sistema antinquinamento deve comprendere almeno i seguenti lavori secondo le indicazioni del costruttore del veicolo:
 
-  - – verifica visiva dello stato e dell’ermeticità del sistema d’aspirazione/di sovralimentazione (incl. filtro dell’aria), dell’impianto ad iniezione e del dispositivo di scappamento;
+  - – verifica visiva dello stato e dell’ermeticità del sistema d’aspirazione/di sovralimentazione (incl. filtro dell’aria), dell’impianto ad iniezione e dell’impianto di scarico;
   - – controllo circa la presenza e l’integrità dei piombi e dei sigilli indicati nel documento di manutenzione del sistema antinquinamento;
   - – controllo circa l’inizio mandata, il dispositivo d’arresto con mo tore sotto sforzo e, se del caso, altri elementi di regolazione della pompa ad iniezione;
   - – controllo degli iniettori (se necessario);
-  - – controllo del regime del minimo e del regime massimo, a vuoto, (limitatore del regime massimo);
+  - – controllo del regime del minimo e del regime massimo, a vuoto, (regime massimo consentito dal regolatore[^lvl3-lvl31-2]);
   - – verifica dello stato e del funzionamento dei dispositivi comple mentari, quali la reaspirazione dei gas di scarico o il filtro per particelle e rispettive installazioni di regolazione;
   - – regolazione, messa a punto e all’occorrenza sostituzione dei pezzi difettosi;
   - – misurazione finale delle emissioni di fumo ad accelerazione libera secondo il procedimento descritto al n. 3.2; il valore di riferimento iscritto nel documento di manutenzione del sistema antinquinamento non deve essere superato.
 
+[^lvl3-lvl31-2]: Nuova espr. giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)). Di detta mod. é tenuto conto in tutto il presente testo.
+
 ### 3.2 Misurazione delle emissioni di fumo
 
 - *3.2.1* *Condizioni* *generali* *di misurazione*
-- 3\.2.1.1 Il motore deve essere regolato secondo le istruzioni del costruttore e deve avere la temperatura normale di funzionamento.
+- 3\.2.1.1[^lvl3-lvl32-1] Il motore deve risultare regolato secondo le indicazioni del costruttore e presentare la temperatura normale di funzionamento.
 - 3\.2.1.2 La misurazione è effettuata su veicolo fermo, con le marce disinnestate. Deve essere impiegato un carburante ordinario senza additivi che riducono l’emissione di fumo.
-- 3\.2.1.3 Il dispositivo di scarico deve essere a tenuta stagna. Se un veicolo è munito di più tubi di scappamento, deve essere effettuata una serie di misurazioni ad ognuno di essi. È determinante la serie di misurazioni con i risultati più elevati.
+- 3\.2.1.3[^lvl3-lvl32-2] L’impianto di scarico non deve avere falle né dispositivi che comportino una diluizione dei gas di scarico. Se un veicolo è munito di più tubi di scappamento, deve essere effettuata una serie di misurazioni a ognuno di essi. È determinante la serie di misurazioni con i risultati più elevati.
 - 3\.2.1.4 In caso di motori provvisti di un dispositivo di sovralimentazione che può essere inserito a volontà, il prelievo di fumo è effettuato con e senza sovralimentazione. Il risultato da considerare è quello con il valore più alto.
 - *3.2.2* *Misurazione secondo il metodo d**’**opacità*
-- Se le emissioni di fumo in accelerazione libera sono misurate secondo un coefficiente d’opacità k (m<sup>–1</sup>), si deve procedere conformemente alle esigenze equivalenti dell’allegato 5 del regolamento ECE n. 24[^lvl3-lvl32-1], dell’allegato 4 della direttiva n. 72/306 del Consiglio, del 2 agosto 1972, per il ravvicinamento delle legislazioni degli Stati membri relative alle misure da adottare contro l’inquinamento prodotto dai motori diesel destinati alla propulsione dei veicoli oppure a quelle dell’allegato 4 della direttiva n. 77/537 del Consiglio, del 28 giugno 1977, per il ravvicinamento delle legislazioni degli Stati membri relative alle misure da adottare contro l’inquinamento prodotto dai motori diesel destinati alla propulsione dei trattori agricoli o forestali su ruote.
+- Se le emissioni di fumo in accelerazione libera sono misurate secondo un coefficiente d’opacità k (m<sup>–1</sup>), si deve procedere conformemente alle esigenze equivalenti dell’allegato 5 del regolamento ECE n. 24[^lvl3-lvl32-3], dell’allegato 4 della direttiva n. 72/306 del Consiglio, del 2 agosto 1972, per il ravvicinamento delle legislazioni degli Stati membri relative alle misure da adottare contro l’inquinamento prodotto dai motori diesel destinati alla propulsione dei veicoli oppure a quelle dell’allegato 4 della direttiva n. 77/537 del Consiglio, del 28 giugno 1977, per il ravvicinamento delle legislazioni degli Stati membri relative alle misure da adottare contro l’inquinamento prodotto dai motori diesel destinati alla propulsione dei trattori agricoli o forestali su ruote.
 - 3\.2.2.1 Strumenti di misurazione
-- [tab] 3.2.2.1.1[^lvl3-lvl32-2] Possono essere usati soltanto apparecchi di misurazione ammessi e sottoposti a verificazione conformemente all’ordinanza del DFGP del 19 marzo 2006[^lvl3-lvl32-3] sugli strumenti di misurazione dei gas di scarico dei motori a combustione.
-- [tab] 3.2.2.1.2[^lvl3-lvl32-4] Gli strumenti di misurazione riparati vanno annunciati conformemente all’ordinanza del 15 febbraio 2006[^lvl3-lvl32-5] sugli strumenti di misurazione al servizio competente affinché proceda a una verificazione successiva sul luogo di impiego.
-- [tab] 3.2.2.1.3[^lvl3-lvl32-6]...
+- [tab] 3.2.2.1.1[^lvl3-lvl32-4] Possono essere usati soltanto apparecchi di misurazione ammessi e sottoposti a verificazione conformemente all’ordinanza del DFGP del 19 marzo 2006[^lvl3-lvl32-5] sugli strumenti di misurazione dei gas di scarico dei motori a combustione.
+- [tab] 3.2.2.1.2[^lvl3-lvl32-6] Gli strumenti di misurazione riparati vanno annunciati conformemente all’ordinanza del 15 febbraio 2006[^lvl3-lvl32-7] sugli strumenti di misurazione al servizio competente affinché proceda a una verificazione successiva sul luogo di impiego.
+- [tab] 3.2.2.1.3[^lvl3-lvl32-8]...
 - 3\.2.2.2 Esecuzione della misurazione
 - 3\.2.2.2.1 Lo strumento di misurazione deve essere utilizzato conformemente alle istruzioni del suo costruttore.
-- 3\.2.2.2.2 Con motore al regime del minimo l’acceleratore va premuto a fondo rapidamente e senza scatti. Quando il motore raggiunge il regime massimo, a vuoto (limitatore del regime massimo), l’acceleratore va lasciato finché il motore gira al minimo e lo strumento di misurazione è nuovamente pronto per la misurazione. Non si tiene conto dei valori riscontrati con motore al regime del minimo.
+- 3\.2.2.2.2 Con motore al regime del minimo l’acceleratore va premuto a fondo rapidamente e senza scatti. Quando il motore raggiunge il regime massimo, a vuoto (regime massimo consentito dal regolatore), l’acceleratore va lasciato finché il motore gira al minimo e lo strumento di misurazione è nuovamente pronto per la misurazione. Non si tiene conto dei valori riscontrati con motore al regime del minimo.
 - *3.2.3* *Misurazione secondo il metodo di filtraggio (Bacharach)*
 - 3\.2.3.1 Strumenti di misurazione
 - 3\.2.3.1.1 Va impiegata la pompa a filtro integrante Bosch EFAW 65 B, contenuto della pompa 330 cm<sup>3</sup>, superficie del filtro 1,1 cm<sup>2</sup> (diametro 12 mm), durata del sondaggio 6–8 secondi, connessa con una sonda Bosch con un tubo del diametro interno di 4 mm e lungo 6 m. La lettura va fatta mediante la tavola di confronto Bacharach o con l’apparecchio di lettura Bosch ETD 020.51.
-- 3\.2.3.1.2 La manutenzione e il controllo dell’apparecchio sono effettuati secondo il modo d’uso del costruttore e conformemente alle prescrizioni dell’Istituto di metrologia (METAS)[^lvl3-lvl32-7].
+- 3\.2.3.1.2 La manutenzione e il controllo dell’apparecchio sono effettuati secondo il modo d’uso del costruttore e conformemente alle prescrizioni dell’Istituto di metrologia (METAS)[^lvl3-lvl32-9].
 - 3\.2.3.1.3 L’Ufficio federale delle strade (USTRA), d’intesa con il METAS, può ammettere altri strumenti se danno risultati equivalenti.
 - 3\.2.3.2 Esecuzione della misurazione
 - 3\.2.3.2.1 Lo strumento di misurazione va impiegato conformemente alle istruzioni del suo costruttore.
-- 3\.2.3.2.2 Anzitutto va premuto a fondo l’acceleratore, almeno tre volte in rapide successioni finché il motore raggiunga il regime massimo, a vuoto (limitatore del regime massimo). Quindi si effettua la misurazione premendo il più rapidamente possibile l’acceleratore e azionando contemporaneamente l’apparecchio di misurazione. Non appena il motore ha raggiunto il regime massimo, a vuoto (limitatore del regime massimo), l’acceleratore deve essere ricondotto nella posizione del minimo.
+- 3\.2.3.2.2 Anzitutto va premuto a fondo l’acceleratore, almeno tre volte in rapide successioni finché il motore raggiunga il regime massimo, a vuoto (regime massimo consentito dal regolatore). Quindi si effettua la misurazione premendo il più rapidamente possibile l’acceleratore e azionando contemporaneamente lo strumento di misurazione[^lvl3-lvl32-10]. Non appena il motore ha raggiunto il regime massimo, a vuoto (regime massimo consentito dal regolatore), l’acceleratore deve essere ricondotto nella posizione del minimo.
 - 3\.2.3.3 Numero di misurazioni
 - Deve essere effettuato un numero sufficiente di misurazioni ovverosia finché tre campioni successivi non presentino una differenza superiore a una mezza unità Bacharach; il risultato determinante è fornito dal campione più scuro.
 
-[^lvl3-lvl32-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425), All.
-[^lvl3-lvl32-2]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl3-lvl32-3]: [RS 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+[^lvl3-lvl32-1]: Nuovo testo giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+[^lvl3-lvl32-2]: Nuovo testo giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+[^lvl3-lvl32-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425), All.
 [^lvl3-lvl32-4]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl3-lvl32-5]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^lvl3-lvl32-6]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
-[^lvl3-lvl32-7]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+[^lvl3-lvl32-5]: [RS 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+[^lvl3-lvl32-6]: Nuovo testo giusta il n. I dell’O del DATEC del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl3-lvl32-7]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^lvl3-lvl32-8]: Abrogato dal n. I dell’O del DATEC del 30 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 7141](https://fedlex.data.admin.ch/eli/oc/2012/862)).
+[^lvl3-lvl32-9]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+[^lvl3-lvl32-10]: Nuova espr. giusta il n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
 
 ### 3.3 Valori di riferimento
 
@@ -263,6 +273,49 @@ Grado di annerimento; tolleranza = 1 Bacharach
 - 3\.4.2 Se le misurazioni sono effettuate ad altitudini superiori, per tener conto dell’influenza dell’altitudine sui veicoli senza correttore di pressione si deducono dal risultato ottenuto secondo il numero 3.2 rispettivamente 0,25 m<sup>–1</sup> o 0,5 unità d’annerimento Bacharach per ogni 400 metri in più.
 - 3\.4.3 Nel documento di manutenzione del sistema antinquinamento va iscritto il valore corretto.
 
+## 3*a* Disposizioni per veicoli equipaggiati con filtro antiparticolato prescritto
+
+[^lvl3a-1]
+
+[^lvl3a-1]: Introdotta dal n. I dell’O del DATEC del 10 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 159](https://fedlex.data.admin.ch/eli/oc/2022/159)).
+
+### 3 *a*.1Strumenti di misurazione
+
+- 3*a*.1.1 Per la misurazione della concentrazione numerica di particelle possono essere usati soltanto strumenti di misurazione ammessi e sottoposti a verificazione conformemente all’ordinanza del DFGP del 19 marzo 2006[^lvl3a-lvl3-1] sugli strumenti di misurazione dei gas di scarico dei motori a combustione.
+- 3*a*.1.2 Gli strumenti di misurazione riparati devono essere consegnati conformemente all’ordinanza del 15 febbraio 2006[^lvl3a-lvl3-2] sugli strumenti di misurazione al servizio competente affinché proceda a una verificazione successiva.
+
+[^lvl3a-lvl3-1]: [RS 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+[^lvl3a-lvl3-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+
+### 3 *a*.2Misurazione della concentrazione numerica di particelle
+
+- *3a.2.1* *Condizioni generali di misurazione*
+- 3*a*.2.1.1 Il motore deve risultare manutenzionato e regolato nonché presentare la temperatura di funzionamento secondo le indicazioni del costruttore.
+- 3*a*.2.1.2 La misurazione è effettuata su veicolo fermo, con le marce disinnestate. Deve essere impiegato un carburante ordinario senza additivi.
+- 3*a*.2.1.3 L’impianto di scarico non deve avere falle né dispositivi che comportino una diluizione dei gas di scarico. Se un veicolo è munito di più tubi di scappamento, deve essere effettuata una serie di misurazioni a ognuno di essi. È determinante la serie di misurazioni con i risultati più elevati.
+- 3*a*.2.1.4
+
+  La misurazione è effettuata di norma all’uscita del tubo di scappamento. Se ciò non è possibile, deve essere effettuata in un punto in cui sono soddisfatti i seguenti criteri:
+
+  - – la composizione dei gas di scarico è rappresentativa per le emissioni;
+  - – la ripartizione degli inquinanti è omogenea in tutta la sezione di misurazione;
+  - – la sonda di prelievo è tenuta al centro del tubo di scarico, nel punto in cui giunge il flusso di corrente.
+
+- 3*a*.2.1.5 La sonda di prelievo va di norma inserita nel tubo di scarico per circa 50 mm. La collocazione della sonda nel tubo di scarico non deve comportare la diluizione dei gas di scarico.
+- *3a.2.2* *Esecuzione della misurazione*
+- 3*a*.2.2.1 La concentrazione numerica di particelle è misurata per i veicoli delle categorie M e N al regime di 2000 giri/min. Per tutti gli altri veicoli stradali è misurata portando il motore al regime di massima potenza a vuoto (regime massimo consentito dal regolatore; punto di funzionamento determinante). Se il regime massimo consentito dal regolatore non può essere raggiunto da fermo, occorre effettuare la misurazione a un regime a vuoto ripetibile, compreso tra il regime del minimo e il regime massimo consentito dal regolatore. Se non si può raggiungere il regime massimo consentito dal regolatore né un regime a vuoto ripetibile, è consentita una misurazione con motore sotto carico, ad esempio applicando una potenza idraulica, purché il punto di funzionamento stabilito sia ripetibile e riproducibile. Occorre annotare il regime scelto e l’eventuale carico applicato.
+- 3*a*.2.2.2 La misurazione della concentrazione numerica di particelle deve essere effettuata non appena il punto di funzionamento stabilito è costante. Si devono eseguire tre misurazioni avviate autonomamente dallo strumento.
+- *3a.2.3* *Risultato della misurazione*
+- 3*a*.2.2.3 Quale risultato di misurazione vale la media aritmetica della misurazione ufficiale ai sensi del numero 7.2 dell’allegato 4 dell’ordinanza del DFGP del 19 marzo 2006[^lvl3a-lvl3-3] sugli strumenti di misurazione dei gas di scarico dei motori a combustione. Non è consentito effettuare detrazioni dal valore indicato.
+
+[^lvl3a-lvl3-3]: [RS 941.242](https://fedlex.data.admin.ch/eli/cc/2006/251)
+
+### 3 *a*.3Valore di riferimento
+
+- 3*a*.3.1 Il risultato della misurazione non deve superare il valore di riferimento di 2,5 × 10<sup>5</sup> particelle/cm<sup>3</sup> (250 000 particelle/cm<sup>3</sup>).
+- *3a.3.2* *Procedura semplificata*
+- Il valore di riferimento di cui al numero 3*a*.3.1 è rispettato se da una misurazione semplificata al regime del minimo a vuoto non risultano più di 1 × 10<sup>5</sup> particelle/cm<sup>3</sup> (100 000 particelle/cm<sup>3</sup>).
+
 ## 4 Abrogazione del diritto precedente
 
 - L’ordinanza del 22 dicembre 1993[^lvl4-1] sulla manutenzione e il controllo successivo degli autoveicoli per quanto concerne le emissioni dei gas di scarico e di fumo è abrogata.
@@ -273,7 +326,7 @@ Grado di annerimento; tolleranza = 1 Bacharach
 
 - La presente ordinanza entra in vigore il 1° gennaio 2003.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (n. 1.2.1)
 
@@ -342,7 +395,7 @@ per gli autoveicoli equipaggiati con un motore ad accensione per compressione\*
 <tr><td>– statico (corsa pompa a iniezione/KW)</td><td>[tab]</td></tr>
 <tr><td>– dinamico (KW/min)</td><td>[tab]</td></tr>
 <tr><td>– regime del minimo (min<sup>–1</sup>)</td><td>[tab]</td></tr>
-<tr><td>– Regime massimo, a vuoto (min<sup>–1</sup>) (limitatore del regime massimo)</td><td>[tab]</td></tr>
+<tr><td>– Regime massimo, a vuoto (min<sup>–1</sup>) (regime massimo consentito dal regolatore)</td><td>[tab]</td></tr>
 </table>
 
 \4. Valori delle emissioni di fumo
@@ -394,21 +447,21 @@ Il firmatario attesta di aver effettuato il servizio di manutenzione del sistema
 Per autoveicoli equipaggiati con unmotore ad accensione per compressione
 
 <table>
-<tr><td colspan="2"></td><td colspan="9">Valori misurati</td></tr>
-<tr><td colspan="2"></td><td colspan="2">0–3000 km (0–100 h)</td><td colspan="7">dopo il servizio di manutenzione del sistema antinquinamento</td></tr>
-<tr><td>Indicazioni di regolazione</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Inizio mandata</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td colspan="2">– statico (corsa pompa a iniezione/KW)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– dinamico (KW/min)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Regime massimo, a vuoto (min<sup>–1</sup>) (limitatore del regime massimo)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– Regime del minimo (min<sup>–1</sup>)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>Valori delle emissioni di fumo</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– coefficiente d’opacità (min<sup>–1</sup>)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>– grado di annerimento (Bacharach)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab] Chilometraggio (risp. ore di esercizio)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab] Data</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab] Firma</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>[tab] Indirizzo/Timbro</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="3"></td><td colspan="9">Valori misurati</td></tr>
+<tr><td colspan="3"></td><td colspan="2">0–3000 km (0–100 h)</td><td colspan="7">dopo il servizio di manutenzione del sistema antinquinamento</td></tr>
+<tr><td>Indicazioni di regolazione</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– Inizio mandata</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="3">– statico (corsa pompa a iniezione/KW)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– dinamico (KW/min)</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td colspan="2">– Regime massimo, a vuoto (min<sup>–1</sup>) (regime massimo consentito dal regolatore)</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Regime del minimo (min<sup>–1</sup>)</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>Valori delle emissioni di fumo</td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– coefficiente d’opacità (min<sup>–1</sup>)</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– grado di annerimento (Bacharach)</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>[tab] Chilometraggio (risp. ore di esercizio)</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>[tab] Data</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>[tab] Firma</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>[tab] Indirizzo/Timbro</td><td colspan="2">[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
 Attestazione
