@@ -4,13 +4,13 @@ number: "152.200"
 title: "Gesetz über die Organisation des Grossen Rates und über den Verkehr zwischen dem Grossen Rat, dem Regierungsrat und der Justizleitung"
 short: "Geschäftsverkehrsgesetz, GVG"
 language: de
-version: 2018-05-01
-valid_until: 2022-12-31
-version_adopted: 2017-12-12
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-01-18
 adopted: 1990-06-19
 in_force: 1991-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2585/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3256/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2585/pdf_file"
 
 (Geschäftsverkehrsgesetz, GVG)
 
-Vom 19.06.1990 (Stand 01.05.2018)
+Vom 19.06.1990 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -69,7 +69,7 @@ beschliesst:
 
 <sup>2</sup> Die Gelöbnisformel lautet: «Ich gelobe, als Mitglied des Grossen Rates meine Verantwortung gegenüber Mensch, Gemeinschaft und Umwelt wahrzunehmen, die Wohlfahrt des Kantons Aargau und der Schweizerischen Eidgenossenschaft zu fördern und der Verfassung und den Gesetzen gemäss nach bestem Wissen und Gewissen zu handeln.»
 
-<sup>3</sup> Das gleiche Gelöbnis leisten jene Mitglieder, die nach der konstituierenden Sitzung in den Rat eintreten.
+<sup>3</sup> Das gleiche Gelöbnis leisten jene Mitglieder, die nach der konstituierenden Sitzung in den Rat eintreten, sowie die Vertretungen gemäss § 7a.
 
 #### § 6
 
@@ -92,6 +92,22 @@ beschliesst:
 
 <sup>3</sup> Das Register über die Interessenbindungen ist öffentlich.
 
+#### § 7a
+
+**Vertretung**
+
+<sup>1</sup> Die Mitglieder des Grossen Rates können sich bei Verhinderung infolge Mutterschaft, Krankheit oder Unfall jeweils während drei bis zwölf Monaten vertreten lassen. Eine entsprechende Vertretung für die als Vertretung bestimmte Person ist ausgeschlossen.
+
+<sup>2</sup> Der Wille, sich vertreten zu lassen, ist dem Präsidium des Grossen Rates möglichst vorgängig zur Verhinderung und unter Einreichung der entsprechenden Belege zur Kenntnis zu bringen. Das Präsidium prüft die Belege und bestimmt die Vertretung.
+
+<sup>3</sup> Die Bestimmung der Vertretung erfolgt in der Regel nach den Grundsätzen über das Nachrücken gemäss § 18 des Gesetzes über die Wahl des Grossen Rates (Grossratswahlgesetz) vom 8. März 1988[^7a-1]. Der Grosse Rat kann Ausnahmen durch Dekret regeln.
+
+<sup>4</sup> Der Vertretung kommen dieselben Rechte und Pflichten wie dem vertretenen Mitglied zu.
+
+<sup>5</sup> Während der Vertretung ruhen die Rechte und Pflichten des vertretenen Mitglieds. Es erhält Zugang zu den allgemeinen Informationen für Mitglieder des Grossen Rates.
+
+[^7a-1]: SAR [152.100](https://gesetzessammlungen.ag.ch/data/152.100/de)
+
 #### § 8
 
 **Geschäftsführung**
@@ -113,9 +129,21 @@ beschliesst:
 
 ### 2.1. Das Präsidium
 
+#### § 9a
+
+**Wahl**
+
+<sup>1</sup> Der Präsident sowie der erste und zweite Vizepräsident werden in der konstituierenden Sitzung nach der Inpflichtnahme des Grossen Rates und dann jeweils zu Beginn der ersten Sitzung des neuen Amtsjahres für ein Jahr gewählt.
+
+#### § 9b
+
+**Eröffnung des Amtsjahres**
+
+<sup>1</sup> Der Präsident des vorangehenden Amtsjahres eröffnet die erste Sitzung des neuen Amtsjahres und sorgt für die Durchführung der Präsidiumswahlen. Nach Abschluss des Wahlgeschäfts obliegt die Sitzungsleitung dem neu gewählten Präsidium.
+
 #### § 10
 
-**Vorsitz**
+**Zusammensetzung und Zuständigkeit**
 
 <sup>1</sup> Der Präsident bereitet die Sitzungen des Grossen Rates und des Büros vor, leitet sie und sorgt für ihren geordneten Verlauf.
 
@@ -131,13 +159,13 @@ beschliesst:
 
 #### § 11
 
-**Zusammensetzung, Wahl und Zuständigkeit**
+**Zusammensetzung und Zuständigkeit**
 
 <sup>1</sup> Das Büro des Grossen Rates besteht aus Präsident, beiden Vizepräsidenten und je einem Vertreter der Fraktionen. Die Gewichtung der Stimmen der Fraktionsvertreter erfolgt grundsätzlich im Verhältnis der Mitgliederzahlen der Fraktionen.
 
-<sup>2</sup> Der Präsident, der erste und der zweite Vizepräsident werden in der konstituierenden Sitzung nach der Inpflichtnahme des Rates und dann jeweils zu Beginn der ersten Sitzung des Amtsjahrs für ein Jahr gewählt.
+<sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Der Präsident des vorangehenden Amtsjahrs eröffnet die erste Sitzung des neuen Amtsjahrs und sorgt für die Durchführung der Präsidiumswahlen. Nach Abschluss des Wahlgeschäfts obliegt die Sitzungsleitung dem neu gewählten Präsidium.
+<sup>2<sup>bis</sup></sup> …
 
 <sup>3</sup> Die Fraktionen bestimmen ihren Vertreter selber.
 
@@ -495,7 +523,7 @@ beschliesst:
 
 #### § 42
 
-**Behandlung und Erledigung**
+**Behandlung, Erledigung und Fristwahrung**
 
 <sup>1</sup> Der Regierungsrat erstattet dem Grossen Rat innert drei Monaten nach Einreichung Bericht und Antrag zu Motionen und Postulaten. Lehnt er ihre Entgegennahme ab, hat er dies schriftlich zu begründen. Innert der gleichen Frist beantwortet er Interpellationen.
 
@@ -503,9 +531,14 @@ beschliesst:
 
 <sup>2</sup> Wird ein hängiger parlamentarischer Vorstoss vom Erstunterzeichnenden zurückgezogen, ist das Geschäft erledigt. Scheidet der Erstunterzeichnende aus dem Rat aus, ist das Geschäft erledigt, wenn nicht ein Ratsmitglied innert vier Wochen den Vorstoss übernimmt.
 
-<sup>3</sup> Überwiesene Motionen und Postulate, für die der Grosse Rat keine besondere Frist angesetzt hat, erledigt der Regierungsrat innert drei Jahren.
+<sup>3</sup> Hat der Grosse Rat für überwiesene Motionen und Postulate keine besonderen Fristen angesetzt, hat der Regierungsrat innert folgender Fristen die entsprechenden Vorlagen zu unterbreiten beziehungsweise die entsprechenden Massnahmen zu treffen:
 
-<sup>4</sup> Kann der Regierungsrat diese Fristen nicht einhalten, so hat er dies zu begründen und neue Fristen für die Erledigung vorzuschlagen.
+- a) drei Jahre, sofern zur Umsetzung eine Verfassungs- oder Gesetzesänderung erforderlich ist,
+- b) zwei Jahre in allen übrigen Fällen.
+
+<sup>3<sup>bis</sup></sup> Bei überwiesenen parlamentarischen Vorstössen, die zur Umsetzung eine Verfassungs-, Gesetzes- oder Dekretsänderung erfordern, gelten die jeweiligen Fristen mit der Vorlage der Botschaft zur ersten Beratung im Grossen Rat als gewahrt.
+
+<sup>4</sup> Kann der Regierungsrat die Fristen nicht wahren, hat er dies zu begründen und dem Grossen Rat mit dem Jahresbericht oder einer anderen Vorlage neue Fristen zu beantragen.
 
 #### § 43
 
