@@ -4,11 +4,11 @@ number: "415.21"
 title: Personalverordnung der Universität Zürich (PVO-UZH)
 short: PVO-UZH
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2025-08-01
 adopted: 2014-09-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_21-2014_09_29-2015_04_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_21-2014_09_29-2015_04_01-119.html"
 text: pdf
 ---
 
@@ -70,7 +70,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 21 - 111 § 5.[^3-1] <sup>1</sup> Die Universitätsleitung stellt das Universitätspersonal an.
+- 1\. 1. 23 - 119 § 5.[^3-1] <sup>1</sup> Die Universitätsleitung stellt das Universitätspersonal an.
 
 **c. Universitätsleitung**
 
@@ -162,7 +162,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 21 - 111 § 13.[^12-1] Arbeitsverhältnisse von Förderungsprofessorinnen und -professoren sind befristet. Die Dauer der Anstellung richtet sich nach dem Förderungsprojekt.
+- 1\. 1. 23 - 119 § 13.[^12-1] Arbeitsverhältnisse von Förderungsprofessorinnen und -professoren sind befristet. Die Dauer der Anstellung richtet sich nach dem Förderungsprojekt.
 
 **d. Förderungsprofessorinnen und -professoren**
 
@@ -184,11 +184,22 @@ beschliesst:
 
 <sup>5</sup> Die Fakultäten regeln die Einzelheiten, insbesondere bezüglich des Beschäftigungsgrades, unter Berücksichtigung der besonderen Verhältnisse in ihrem Bereich.
 
+**g. Ärztinnen und Ärzte**
+
+§ 15 a.[^12-2] <sup>1</sup> Arbeitsverhältnisse von Assistenzärztinnen und Assistenzärzten sind in der Regel auf höchstens sechs Jahre befristet. Sie können bis zu einer Gesamtdauer von neun Jahren verlängert werden. Die berufliche Weiterbildung und die wissenschaftliche Qualifikation sind angemessen zu berücksichtigen.
+
+<sup>2</sup> Arbeitsverhältnisse von Oberärztinnen und Oberärzten sind in der Regel auf höchstens drei Jahre befristet. Sie können bis zu einer Gesamtdauer von neun Jahren verlängert werden. Die berufliche und wissenschaftliche Situation ist angemessen zu berücksichtigen. Bei einer vorgängigen Anstellung gemäss Abs. 1 dürfen insgesamt 15 Jahre nicht überschritten werden.
+
+<sup>3</sup> Arbeitsverhältnisse von Assistenzärztinnen und Assistenzärzten sowie von Oberärztinnen und Oberärzten können auf begründeten Antrag über die in Abs. 1 und 2 festgelegte Gesamtdauer hinaus angemessen verlängert werden. § 15 Abs. 4 gilt sinngemäss.
+
+<sup>4</sup> Oberärztinnen und Oberärzte sowie Assistenzärztinnen und Assistenzärzte können mit Zustimmung der Dekanin oder des Dekans unbefristet angestellt werden, sofern sie hauptsächlich Dienstleistungsaufgaben erfüllen. Den Interessen des akademischen Nachwuchses und dessen Förderung ist angemessen Rechnung zu tragen.
+
 [^12-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^12-2]: Eingefügt durch URB vom 9. Juni 2022 (OS 77, 523; ABl 2022-06-17). In Kraft seit 1. Januar 2023.
 
 #### § 16
 
-**g. Hilfsassistierende**
+**h.17 Hilfsassistierende**
 
 Studierende, die Hilfsarbeiten für Professorinnen und Professoren, Institute oder Fakultäten ausführen, werden befristet angestellt.
 
@@ -218,17 +229,21 @@ Für Professorinnen und Professoren besteht keine Probezeit.
 
 <sup>4</sup> Bei Professorinnen und Professoren, deren Ernennung mit einer Anstellung an einem universitären Vertragsspital verknüpft wurde, bildet die Auflösung des Arbeitsverhältnisses am universitären Vertragsspital einen sachlich zureichenden Grund im Sinne von § 18 Abs. 2 PG für eine Kündigung der Anstellung an der Universität.
 
-[^18-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+**5**
 
-#### § 20
+- 1\. 1. 23 - 119 § 20. <sup>1</sup> Universitätspersonal kann von dem für die Anstellung zuständigen Organ versetzt werden, wenn[^18-1]
 
 **Versetzung**
 
-<sup>1</sup> Universitätspersonal kann von dem für die Anstellung zuständigen Organ versetzt werden, wenn[^18-1] a. es der Betrieb oder der wirtschaftliche Personaleinsatz erfordert und b. die Versetzung zumutbar ist.
+- a. es der Betrieb oder der wirtschaftliche Personaleinsatz erfordert und
+
+- b. die Versetzung zumutbar ist.
 
 <sup>2</sup> Die Versetzung von Professorinnen und Professoren ist nur zumutbar, wenn sie innerhalb des Lehrgebietes erfolgt.
 
 <sup>3</sup> Eine tiefere Lohneinstufung als Folge der Versetzung wird erst nach Ablauf der regulären Kündigungsfrist wirksam.
+
+[^18-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 ### 3. Abschnitt: Rechte und Pflichten des Universitätspersonals und
 
@@ -250,11 +265,9 @@ Die lohnmässige Einreihung des Personals der Universität richtet sich nach den
 
 Die Rektorin oder der Rektor wird in die Lohnklasse 29 eingereiht. Der Universitätsrat legt die Funktionszulage fest.
 
-**5**
-
-- 1\. 1. 21 - 111 § 23.[^22-1] <sup>1</sup> Die Professorinnen und Professoren werden wie folgt eingereiht:
-
 **Professorinnen und Professoren12**
+
+§ 23.[^22-1] <sup>1</sup> Die Professorinnen und Professoren werden wie folgt eingereiht:
 
 - a. ordentliche Professorinnen und Professoren: Lohnklasse 27,
 
@@ -341,6 +354,10 @@ Hilfsassistierende werden in Lohnklasse 10 eingereiht. Verfügen sie über einen
 
 <sup>2</sup> Die Universitätsleitung legt fest, wer innerhalb der Universität befugt ist, Pikettdienst im Sinne von § 133 Abs. 2 VVO anzuordnen.
 
+**7**
+
+- 1\. 1. 23 - 119
+
 [^32-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 [^32-2]: Eingefügt durch URB vom 29. August 2016 (OS 72, 2; ABl 2016-09-16). In Kraft seit 1. August 2017.
 [^32-3]: LS 177.111.
@@ -373,16 +390,14 @@ Hilfsassistierende werden in Lohnklasse 10 eingereiht. Verfügen sie über einen
 
 §§ 35 und 36.[^34-1]
 
-**7**
+**c. Vernehmlassungen**
 
-- 1\. 1. 21 - 111 § 37.[^34-2] Den Standesorganisationen, der Personalkommission und den universitären Personalverbänden steht vor dem Erlass und der Änderung von personalrechtlichen Bestimmungen das Recht auf Vernehmlassung zu.
+§ 37.[^34-2] Den Standesorganisationen, der Personalkommission und den universitären Personalverbänden steht vor dem Erlass und der Änderung von personalrechtlichen Bestimmungen das Recht auf Vernehmlassung zu.
 
-[^34-1]: Aufgehoben durch URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021. 1. 1. 21 - 111 19
+[^34-1]: Aufgehoben durch URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 [^34-2]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 #### § 38
-
-**c. Vernehmlassungen**
 
 **Beurteilung des Personals**
 
@@ -443,6 +458,10 @@ Die Universitätsverwaltung übergibt den Angestellten bei Beginn des Arbeitsver
 
 - b. 4–6 Semesterwochenstunden für ausserordentliche Professorinnen und Professoren,
 
+**9**
+
+- 1\. 1. 23 - 119
+
 - c. 2–4 Semesterwochenstunden für Assistenzprofessorinnen und -professoren sowie für Förderungsprofessorinnen und -professoren.
 
 <sup>3</sup> Die Universitätsleitung kann in begründeten Fällen Abweichungen verfügen.
@@ -477,11 +496,9 @@ Lehrveranstaltungen im Rahmen von Weiterbildungsangeboten der Universität werde
 
 <sup>2</sup> Sie nehmen an den Sitzungen des Senats und der Fakultät teil.
 
-**9**
-
-- 1\. 1. 21 - 111 § 47.[^45-1] <sup>1</sup> Professorinnen und Professoren haben durchschnittlich jedes neunte Semester Anspruch auf ein Forschungssemester. Im Forschungssemester sind sie insbesondere von der Lehrverpflichtung entbunden.
-
 **Forschungssemester**
+
+§ 47.[^45-1] <sup>1</sup> Professorinnen und Professoren haben durchschnittlich jedes neunte Semester Anspruch auf ein Forschungssemester. Im Forschungssemester sind sie insbesondere von der Lehrverpflichtung entbunden.
 
 <sup>2</sup> In den letzten beiden Jahren vor dem Altersrücktritt besteht kein Anspruch auf Bezug eines Forschungssemesters.
 
@@ -535,16 +552,16 @@ Lehrveranstaltungen im Rahmen von Weiterbildungsangeboten der Universität werde
 
 <sup>8</sup> Die Universitätsleitung regelt die Einzelheiten.
 
-[^50-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
-[^50-2]: Eingefügt durch URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+**11**
 
-#### § 52
+- 1\. 1. 23 - 119 § 52. <sup>1</sup> Hat sich der Kanton oder die Universität an der Einkaufssumme beteiligt, ist der Altersrücktritt vor Vollendung des 65. Altersjahres in der Regel erst nach 15 tatsächlichen Dienstjahren möglich, frühestens auf das der Vollendung des 60. Altersjahres folgende Semesterende.
 
 **b. Vorzeitiger Rücktritt**
 
-<sup>1</sup> Hat sich der Kanton oder die Universität an der Einkaufssumme beteiligt, ist der Altersrücktritt vor Vollendung des 65. Altersjahres in der Regel erst nach 15 tatsächlichen Dienstjahren möglich, frühestens auf das der Vollendung des 60. Altersjahres folgende Semesterende.
-
 <sup>2</sup> Wer vor dem 65. Altersjahr zurücktreten will, teilt dies der Universitätsleitung zwei Jahre im Voraus mit.
+
+[^50-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^50-2]: Eingefügt durch URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 ### 4. Abschnitt: Nebenbeschäftigungen, Erfindungen und urheberrecht-
 
@@ -559,10 +576,6 @@ lich geschützte Werke
 <sup>2</sup> Sie unterstützt die Entwicklung und Verwertung von Erfindungen und setzt sich für den Schutz des geistigen Eigentums ein.
 
 <sup>3</sup> Die Universitätsleitung erlässt ein Reglement zu den Nebenbeschäftigungen von Professorinnen und Professoren.
-
-**11**
-
-- 1\. 1. 21 - 111
 
 ### B. Nebenbeschäftigungen
 
@@ -637,11 +650,11 @@ Die Universitätsleitung kann die Bewilligung entziehen, wenn die Voraussetzunge
 
 - e. weitere Kosten für die Universität.
 
-#### § 60
+**13**
+
+- 1\. 1. 23 - 119 § 60. <sup>1</sup> Wer eine Nebenbeschäftigung ausübt, ist gegenüber der Universität in der Regel abgabepflichtig.
 
 **Abgabepflicht**
-
-<sup>1</sup> Wer eine Nebenbeschäftigung ausübt, ist gegenüber der Universität in der Regel abgabepflichtig.
 
 <sup>2</sup> Nettoeinnahmen aus Nebenbeschäftigungen bis Fr. 50 000 sind von der Abgabepflicht befreit (Freibetrag). Für die den Freibetrag übersteigenden Nettoeinnahmen gilt ein Abgabesatz von 10%. Bei Beschäftigten mit Teilpensum reduziert sich der Freibetrag entsprechend ihrem Beschäftigungsgrad.
 
@@ -664,10 +677,6 @@ Die Universitätsleitung kann die Bewilligung entziehen, wenn die Voraussetzunge
 - c. die erzielten Einnahmen.
 
 <sup>3</sup> Die Universitätsleitung regelt die Einzelheiten.[^61-1]
-
-**13**
-
-- 1\. 1. 21 - 111
 
 [^61-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
@@ -725,11 +734,11 @@ Die Universitätsleitung kann die Bewilligung entziehen, wenn die Voraussetzunge
 
 <sup>2</sup> Die Urheberin oder der Urheber teilt der Universitätsleitung Erträge von mehr als Fr. 30 000 mit und gibt ihr über die Inanspruchnahme von Personal und Infrastruktur der Universität Auskunft.
 
-#### § 67
+**15**
+
+- 1\. 1. 23 - 119 § 67. <sup>1</sup> Die Universitätsleitung legt die Abgabe fest.
 
 **Höhe der Abgabe**
-
-<sup>1</sup> Die Universitätsleitung legt die Abgabe fest.
 
 <sup>2</sup> Diese beträgt in der Regel 10% der Nettoeinnahmen. Sie kann in besonderen Fällen bis auf 30% der Nettoeinnahmen erhöht werden.
 
@@ -753,19 +762,21 @@ Die Abteilung Finanzen der Universität erhebt die von der Universitätsleitung 
 
 <sup>3</sup> Sofern im Falle einer kombinierten Anstellung der bei der BVK versicherte Lohn höher ist als der bei der VSAO zu versichernde, können Angehörige der genannten Personenkreise gesamthaft bei der BVK versichert werden. Im umgekehrten Fall kann die Versicherung gesamthaft bei der VSAO erfolgen.
 
-**15**
+[^h5AbschnittVorsor-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
-- 1\. 1. 21 - 111 § 71. <sup>1</sup> Der Universitätsrat beschliesst die Ruhegehaltsverordnung der Professorinnen und Professoren, die bei der Witwen-, Waisen- und Pensionskasse der Professoren versichert sind.
+#### § 71
 
 **Professorinnen und Professoren mit Ruhegehaltsanspruch**
 
+<sup>1</sup> Der Universitätsrat beschliesst die Ruhegehaltsverordnung der Professorinnen und Professoren, die bei der Witwen-, Waisen- und Pensionskasse der Professoren versichert sind.
+
 <sup>2</sup> Die Ruhegehaltsverordnung bedarf der Genehmigung durch den Regierungsrat.
 
-[^h5AbschnittVorsor-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
+[^71-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 
 ### 6. Abschnitt: Personalkommission sowie Beratungs- und Schlichtungsstelle
 
-[^h5AbschnittVorsor-1]
+[^71-1]
 
 **Personalkommission a. Aufgaben**
 
@@ -813,6 +824,10 @@ Die Abteilung Finanzen der Universität erhebt die von der Universitätsleitung 
 
 § 75.[^h6AbschnittPerson-1] <sup>1</sup> Die Universitätsleitung setzt eine Beratungs- und Schlichtungsstelle für die Mitarbeitenden der Universität ein. Die Beratungs- und Schlichtungsstelle ist administrativ der Universitätsleitung zugeordnet.
 
+**17**
+
+- 1\. 1. 23 - 119
+
 <sup>2</sup> Die Beratungs- und Schlichtungsstelle dient der Unterstützung bei arbeitsbezogenen Problemen sowie der Lösung von arbeitsbezogenen Konflikten.
 
 <sup>3</sup> Die Inanspruchnahme der Beratungs- und Schlichtungsstelle ist freiwillig.
@@ -843,11 +858,9 @@ Die Abteilung Finanzen der Universität erhebt die von der Universitätsleitung 
 
 § 77.[^h6AbschnittPerson-1] Die Fachpersonen unterliegen dem Amtsgeheimnis. Vorbehalten bleiben berufliche Schweigepflichten.
 
-**17**
-
-- 1\. 1. 21 - 111 § 77 a.[^h6AbschnittPerson-3] Die Universitätsleitung erlässt eine Geschäftsordnung.
-
 **e. Geschäftsordnung**
+
+§ 77 a.[^h6AbschnittPerson-3] Die Universitätsleitung erlässt eine Geschäftsordnung.
 
 [^h6AbschnittPerson-1]: Fassung gemäss URB vom 24. August 2020 (OS 75, 581; ABl 2020-10-23). In Kraft seit 1. Januar 2021.
 [^h6AbschnittPerson-2]: LS 415.111.2.
@@ -874,3 +887,4 @@ Hilfsassistierende, die im Zeitpunkt des Inkrafttretens dieser Verordnung in die
 ## Weitere Fussnoten
 
 - [9] LS 415.211.
+- [17] Fassung gemäss URB vom 9. Juni 2022 (OS 77, 523; ABl 2022-06-17). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 19
