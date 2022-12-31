@@ -3,13 +3,12 @@ canton: FR
 number: "414.4"
 title: "Gesetz über Beiträge an Schulbauten für den Kindergarten, die Primarschule und die Orientierungsschule"
 language: de
-version: 2011-09-01
-valid_until: 2022-12-31
-version_adopted: 2011-06-09
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 2005-10-11
 in_force: 2006-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/414.4"
-pdf: "https://bdlf.fr.ch/api/de/versions/7195/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7195/pdf_file"
 
 Schulbauten, Beiträge – G
 
-vom 11.10.2005 (Fassung in Kraft getreten am 01.09.2011)
+vom 11.10.2005 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -101,7 +100,7 @@ beschliesst:
 
 <sup>3</sup> Sie übt die Befugnisse aus, die nicht einem anderen Organ übertragen sind.
 
-[^6-1]: Heute: Direktion für Bildung und kulturelle Angelegenheiten.
+[^6-1]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 [^6-2]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 7
@@ -135,6 +134,10 @@ beschliesst:
 - a) bei Kindergärten und Primarschulen: durch die Direktion;
 - b) bei Orientierungsschulen: durch den Staatsrat, auf Antrag der Direktion;
 - c) bei Räumen für die ausserschulische Betreuung: durch die Direktion.
+
+<sup>2</sup> In der Planung, beim Bau oder dem Ausbau einer Schule wird die Schulmobilität integriert; dabei wird soweit möglich die sanfte Mobilität gefördert.
+
+<sup>3</sup> Ein Plan für die Schulmobilität wird erstellt.
 
 #### Art. 9
 
@@ -258,9 +261,11 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Die in Anwendung dieses Gesetzes getroffenen Entscheide können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>1</sup> Die in Anwendung dieses Gesetzes getroffenen Entscheide können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege[^24-1] angefochten werden.
 
 <sup>2</sup> Ein Entscheid über die Genehmigung eines definitiven Projekts oder über die Gewährung oder die Verweigerung einer Subvention kann jedoch mit Einsprache bei der Behörde, die den Entscheid getroffen hat, angefochten werden.
+
+[^24-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ## 6 Schlussbestimmungen
 

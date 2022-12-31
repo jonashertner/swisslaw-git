@@ -3,13 +3,12 @@ canton: FR
 number: "414.4"
 title: "Loi relative aux subventions pour les constructions d'écoles enfantines, primaires et du cycle d'orientation"
 language: fr
-version: 2011-09-01
-valid_until: 2022-12-31
-version_adopted: 2011-06-09
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 2005-10-11
 in_force: 2006-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/414.4"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7195/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8520/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7195/pdf_file"
 
 Constructions scolaires, subventions – L
 
-du 11.10.2005 (version entrée en vigueur le 01.09.2011)
+du 11.10.2005 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -101,7 +100,7 @@ Décrète:
 
 <sup>3</sup> Elle exerce les attributions qui ne sont pas confiées à un autre organe.
 
-[^6-1]: Actuellement: Direction de la formation et des affaires culturelles.
+[^6-1]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 [^6-2]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
 
 #### Art. 7
@@ -135,6 +134,10 @@ Décrète:
 - a) pour les écoles enfantines et primaires, par la Direction;
 - b) pour les écoles du cycle d'orientation, par le Conseil d'Etat, sur le préavis de la Direction;
 - c) pour les locaux destinés aux accueils extrascolaires, par la Direction.
+
+<sup>2</sup> La planification de la construction ou du réaménagement d'un établissement scolaire intègre la mobilité scolaire, en favorisant, dans la mesure du possible, la mobilité douce.
+
+<sup>3</sup> Un plan de mobilité scolaire est établi.
 
 #### Art. 9
 
@@ -258,9 +261,11 @@ Décrète:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions rendues en application de la présente loi sont sujettes à recours, conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les décisions rendues en application de la présente loi sont sujettes à recours, conformément au code de procédure et de juridiction administrative[^24-1].
 
 <sup>2</sup> Toutefois, la décision relative à l'approbation d'un projet définitif ou à l'octroi ou au refus d'une subvention peut faire l'objet d'une réclamation auprès de l'autorité qui a pris la décision.
+
+[^24-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ## 6 Dispositions finales
 
