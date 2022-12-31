@@ -4,11 +4,11 @@ title: Ordonnance du 27 avril 2022 concernant les systèmes d’information de l
 short: O-SICAL
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: fr
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20220601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/fr"
 
 (O-SICAL)
 
-du 27 avril 2022 (Etat le 1<sup>er</sup> juin 2022)
+du 27 avril 2022 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -343,13 +343,31 @@ Il assume les tâches suivantes:
 
 <sup>4</sup> Il peut donner des mandats aux services spécialisés et les obliger à instituer pour des questions spécifiques un ou plusieurs comités spécialisés composés de représentants des cantons et d’autres offices fédéraux. Il peut en outre faire appel à des experts externes.
 
-## Section 5 ...
+## Section 5 Financement
 
-#### Art. 21 et 22
+#### Art. 21
 
-[^2122-1]
+**Financement des systèmes d’information**
 
-[^2122-1]: En vigueur le 1<sup>er</sup> janv. 2023 (art. 30, al. 2).
+<sup>1</sup> Dans leur totalité, les coûts d’exploitation d’ASAN, d’ARES et de Fleko sont supportés à raison d’un tiers par la Confédération et de deux tiers par les cantons.
+
+<sup>2</sup> La contribution de chaque canton est proportionnelle au nombre de licences d’accès aux systèmes d’information qui lui sont attribuées.
+
+<sup>3</sup> Une licence permet d’accéder aux trois systèmes d’information.
+
+<sup>4</sup> Chaque canton paie trois licences au moins. Si plusieurs cantons ont la même autorité d’exécution, le nombre minimal de trois licences vaut pour l’ensemble de ces cantons, qui assument le paiement en commun.
+
+<sup>5</sup> Des contributions réduites sont prévues pour les licences supplémentaires.
+
+<sup>6</sup> Le paiement des licences est réglé dans la convention d’utilisation conclue entre l’OSAV et le canton.
+
+<sup>7</sup> Si le paiement des licences ne permet pas de couvrir la part due par les cantons pour financer l’exploitation des systèmes, le montant restant est reparti entre les cantons, proportionnellement au nombre de licences à leur disposition.
+
+#### Art. 22
+
+**Co-financement des services spécialisés**
+
+Les cantons participent à hauteur de 350 000 francs en tout par an aux coûts des services spécialisés.
 
 ## Section 6 Évaluation et analyse des données
 

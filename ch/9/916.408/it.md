@@ -4,11 +4,11 @@ title: Ordinanza del 27 aprile 2022 concernente i sistemi d’informazione dell�
 short: O-SIFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: it
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/it"
 
 (O-SIFA)
 
-del 27 aprile 2022 (Stato 1° giugno 2022)
+del 27 aprile 2022 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -343,13 +343,31 @@ Esso svolge i compiti seguenti:
 
 <sup>4</sup> Esso può assegnare incarichi ai servizi specializzati e obbligarli a istituire per determinate questioni specifiche uno o più comitati di esperti composti da rappresentanti dei Cantoni e di altri uffici federali. Può ricorrere inoltre a esperti esterni.
 
-## Sezione 5: ...
+## Sezione 5: Finanziamento
 
-#### Art. 21 e 22
+#### Art. 21
 
-[^2122-1]
+**Finanziamento dei sistemi d’informazione**
 
-[^2122-1]: In vigore il 1° gen. 2023 (art. 30 cpv. 2).
+<sup>1</sup> I costi di gestione totali di ASAN, ARES e Fleko sono sostenuti in ragione di un terzo dalla Confederazione e di due terzi dai Cantoni.
+
+<sup>2</sup> I contributi dei singoli Cantoni sono calcolati in base al numero di licenze assegnate loro per l’accesso ai sistemi d’informazione.
+
+<sup>3</sup> Una licenza permette di accedere a tutti e tre i sistemi d’informazione.
+
+<sup>4</sup> Ciascun Cantone si assume il pagamento di almeno tre licenze di accesso. Se più Cantoni hanno un’autorità di esecuzione comune, il numero minimo di tre licenze si applica a questi Cantoni complessivamente ed essi si assumono congiuntamente il pagamento degli importi.
+
+<sup>5</sup> Per le licenze supplementari sono previsti importi ridotti.
+
+<sup>6</sup> Il pagamento degli importi per le licenze è disciplinato nell’accordo di utilizzazione concluso tra l’USAV e il Cantone.
+
+<sup>7</sup> Se il pagamento degli importi per le licenze non copre la quota dovuta dai Cantoni per i costi di gestione del sistema, l’importo restante viene suddiviso tra i singoli Cantoni in proporzione alle licenze di cui dispongono.
+
+#### Art. 22
+
+**Cofinanziamento dei servizi specializzati**
+
+I Cantoni partecipano ai costi per i servizi specializzati con un importo annuo totale di 350 000 franchi.
 
 ## Sezione 6: Valutazione e analisi dei dati
 

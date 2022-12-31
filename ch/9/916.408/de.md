@@ -4,11 +4,11 @@ title: Verordnung vom 27. April 2022 über Informationssysteme des BLV für die 
 short: ISLK-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: de
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20220601/de"
 
 (ISLK-V)
 
-vom 27. April 2022 (Stand am 1. Juni 2022)
+vom 27. April 2022 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -343,13 +343,31 @@ Er nimmt die folgenden Aufgaben wahr:
 
 <sup>4</sup> Er kann den Fachstellen Aufträge erteilen und sie verpflichten, für spezifische Fragestellungen einen oder mehrere Fachausschüsse mit Vertreterinnen und Vertretern der Kantone und anderer Bundesämter einzusetzen. Er kann zudem externe Expertinnen und Experten beiziehen.
 
-## 5. Abschnitt: …
+## 5. Abschnitt: Finanzierung
 
-#### Art. 21 und 22
+#### Art. 21
 
-[^2122-1]
+**Finanzierung der Informationssysteme**
 
-[^2122-1]: Treten am 1. Jan. 2023 in Kraft (Art. 30 Abs. 2).
+<sup>1</sup> Die Gesamtkosten für den Betrieb des ASAN, des ARES und des Fleko gehen zu einem Drittel zulasten des Bundes und zu zwei Dritteln zulasten der Kantone.
+
+<sup>2</sup> Die Beiträge der einzelnen Kantone berechnen sich im Verhältnis zur Anzahl Lizenzen, die für den Zugriff auf die Informationssysteme an sie vergeben werden.
+
+<sup>3</sup> Eine Lizenz ermöglicht den Zugriff auf alle drei Informationssysteme.
+
+<sup>4</sup> Jeder Kanton trägt das Entgelt für mindestens drei Lizenzen. Haben mehrere Kantone eine gemeinsame Vollzugsbehörde, so gilt die Mindestzahl von drei Lizenzen für diese Kantone zusammen und sie tragen das Entgelt gemeinsam.
+
+<sup>5</sup> Für zusätzliche Lizenzen werden reduzierte Beiträge vorgesehen.
+
+<sup>6</sup> Das Entgelt für die Lizenzen wird in der Nutzungsvereinbarung zwischen dem BLV und dem Kanton geregelt.
+
+<sup>7</sup> Deckt das Entgelt für die Lizenzen den Anteil der Kantone an den Kosten des Systembetriebs nicht, so wird der restliche Betrag auf die einzelnen Kantone aufgeteilt im Verhältnis der ihnen zur Verfügung stehenden Lizenzen.
+
+#### Art. 22
+
+**Mitfinanzierung der Fachstellen**
+
+An den Kosten für die Fachstellen beteiligen sich die Kantone mit insgesamt 350 000 Franken jährlich.
 
 ## 6. Abschnitt: Auswertung und Analyse von Daten
 
