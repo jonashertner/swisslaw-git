@@ -3,22 +3,22 @@ sr: "910.18"
 title: Ordinance of 22 September 1997 on Organic Farming and the Labelling of Organically Produced Products and Foodstuffs (Organic Farming Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2498_2498_2498-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2498_2498_2498/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Ordinance on Organic Farming and the Labelling of Organically Produced Products and Foodstuffs****
+# Ordinance on Organic Farming and the Labelling of Organically Produced Products and Foodstuffs
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.[^t-1]
 
 (Organic Farming Ordinance)
 
-of 22 September 1997 (Status as of 1 January 2022)
+of 22 September 1997 (Status as of 1 January 2023)
 
 [^t-1]: Amended by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
@@ -45,17 +45,16 @@ This Ordinance applies to the labelling of the following products as organic pro
 
 - a. unprocessed agricultural crop and livestock products and production animals;
 - b. processed agricultural crop and livestock products intended for human consumption, prepared essentially from ingredients of plant and/or animal origin;
-- c.[^1-2] feed materials[^1-3], compound feedingstuffs and feedingstuffs not covered under letter a. and which are used for the feeding of production animals.
+- c.[^1-2] animal feed materials, compound feedingstuffs and feedingstuffs not covered under letter a and which are used for the feeding of production animals and pets.
 
-<sup>2</sup> It also applies to yeasts used for foodstuffs or animal feedingstuffs.[^1-4]
+<sup>2</sup> It also applies to essential oils und to yeasts used for foodstuffs or animal feedingstuffs.[^1-3]
 
-<sup>3</sup> It does not apply to insects as defined in the foodstuffs legislation and to products from hunting, fishing and aquaculture.[^1-5]
+<sup>3</sup> It does not apply to insects as defined in the foodstuffs legislation and to products from hunting, fishing and aquaculture.[^1-4]
 
 [^1-1]: Amended by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
-[^1-2]: Amended by No I of the O of 30 Oct. 2002, in force since 1 Jan. 2003 ([AS 2002 3731](https://fedlex.data.admin.ch/eli/oc/2002/580)).
-[^1-3]: Term in accordance with No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)). This amendment has been made throughout the text.
-[^1-4]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
-[^1-5]: Inserted by No I of the O of 18 Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
+[^1-2]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^1-3]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^1-4]: Inserted by No I of the O of 18 Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
 #### Art. 2
 
@@ -86,7 +85,7 @@ The following do not require certification:
 - b. the preparation of foodstuffs and dishes in restaurant and catering facilities;
 - c. the storage and marketing of products packaged ready for sale and labelled which are intended solely for Switzerland, provided they do not undergo further preparation before delivery to consumers;
 - d. the preparation of certified semi-finished products at the point of sale, provided that no further ingredients are required;
-- e. [^2-6] the portioning of openly sold foodstuffs in front of the customer;
+- e.[^2-6] the portioning of openly sold foodstuffs in front of the customer;
 - f.[^2-7] the slaughter of animals in slaughterhouses;
 - g.[^2-8] internal trade with animals of the bovine species.[^2-9]
 
@@ -113,13 +112,13 @@ The production, preparation and marketing of organic products is governed by the
 - b. The use of synthetic agrochemicals and ingredients is avoided.
 - c.[^3-3]
 
-  The following may not be used in foodstuffs or feedingstuffs or as foodstuffs, feedingstuffs, technical aids, plant protection products, fertilisers, soil conditioners, plant propagating material, microorganisms or animals:
+  The following may not be used in foodstuffs or feedingstuffs or as foodstuffs, feedingstuffs, processing aids, plant protection products, fertilisers, soil conditioners, plant propagating material, microorganisms or animals:
 
   - 1\. genetically modified organisms;
   - 2\. products that have been produced from genetically modified organisms;
   - 3\. products that have been produced by genetically modified organisms.
 
-- d. The products are not treated with ionizing radiation and no irradiated products are used.
+- d. The products are not treated with ionising radiation and no irradiated products are used.
 - e.[^3-4] The number of production animals must be adjusted in accordance with the holding’s own or rented agricultural acreage suitable for the use of farmyard manure.
 - f.[^3-5] Throughout their whole life on organic holdings, production animals are kept in accordance with the requirements of this Ordinance and are fed with feedingstuffs which have been produced in accordance with this Ordinance.
 - g.[^3-6] The provisions of the Animal Protection Act of 9 March 1978[^3-7], Waters Protection Act of 24 January 1991[^3-8], Environmental Protection Act of 7 October 1983[^3-9] and the Federal Act of 1 July 1966[^3-10] on Nature and Cultural Heritage Act which are relevant for agricultural production are complied with.
@@ -288,10 +287,23 @@ The fertility and biological activity of the soil shall be maintained and, if po
 - d. in land cultivation, soil cover shall be sufficient to ensure that soil erosion, and losses of nutrients and plant protection products are kept to the minimum;
 - e. the intensity of the production of fodder crops shall be varied and adapted to the location.
 
-<sup>2</sup> Hydroculture is not permitted.[^10-2]
+<sup>2</sup> Organic plant production shall be practised in living soil in connection with the subsoil and bedrock.[^10-2]
+
+<sup>3</sup> Cultivation methods in which plants that do not naturally grow in water have their roots in a nutrient solution only or in an inert medium to which a nutrient solution is added (hydroponic production) are prohibited.[^10-3]
+
+<sup>4</sup>
+
+By way of derogation from paragraph 2, the following practices shall be allowed:
+
+- a. growing plants for the production of ornamentals and herbs in pots to be sold together with the pots to consumers;
+- b. growing seedlings or saplings in containers for further transplanting;
+- c. producing germinated seeds, in particular shoots, sprouts and cress, that rely exclusively on the seed nutrient reserves, by moistening of seeds in clear water, provided that the seeds meet the requirements of this Ordinance;
+- d. producing forced chicory, including by dipping in clear water, provided that the plant propagating material and the substrate meet the requirements of this Ordinance.[^10-4]
 
 [^10-1]: Term in accordance with Annex 2 No 6 of the Plant Protection Products Act of 23 June 1999, in force since 1 Aug. 1999 ([AS 1999 2045](https://fedlex.data.admin.ch/eli/oc/1999/321)). This modification has been made throughout the text.
-[^10-2]: Inserted by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^10-2]: Inserted by No I of the O of 18 Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^10-3]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^10-4]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 11
 
@@ -303,18 +315,19 @@ Pests, diseases and weeds must be controlled by a combination of different measu
 
 - a. a choice of appropriate species and varieties;
 - b. appropriate crop rotation;
-- c. mechanical cultivation procedures;
+- c.[^11-1] physical cultivation procedures;
 - d. thermal procedures where steaming of the soil is restricted to market gardening under cover and production of seedlings;
 - e. promotion and protection of natural enemies of pests through provisions favourable to them (e.g. hedges, nesting sites, release of predators).
 
-<sup>2</sup> The Department shall specify authorised plant protection products and instructions for their use. Substances which are not of plant, animal, microbial or mineral origin and are not identical to their natural form shall only be authorised if their conditions of use preclude any contact with the edible parts of the plant. This applies without prejudice to the authorisation procedure laid down in the Plant Protection Products Ordinance of 18 May 2005[^11-1].[^11-2]
+<sup>2</sup> The Department shall specify authorised plant protection products and instructions for their use. Substances which are not of plant, animal, microbial or mineral origin and are not identical to their natural form shall only be authorised if their conditions of use preclude any contact with the edible parts of the plant. This applies without prejudice to the authorisation procedure laid down in the Plant Protection Products Ordinance of 18 May 2005[^11-2].[^11-3]
 
 <sup>3</sup> Plant protection products may only be used in the case of immediate danger threatening the crops.
 
 <sup>4</sup> The use of growth regulators, wilting products and herbicides is not permitted.
 
-[^11-1]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11, 527; [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: the O of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^11-2]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^11-1]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^11-2]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: the O of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^11-3]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 11a
 
@@ -335,7 +348,7 @@ The requirements on the spray test and the rinse water tank for power take-off o
 
 <sup>3</sup> Fertiliser requirements have to be proved on the basis of a nutrient balance according to Article 13 DPO[^12-2] and the requirements according to Annex 1 number 2 DPO.[^12-3]
 
-<sup>4</sup> The quantity of nutrients applied per hectare (own farmyard manure and manure from other farms, bought fertilizers) may, under the most favourable valley conditions, correspond to no more than 2.5 livestock manure units (LMU). It shall be graded according to soil load capacity, altitude and topographical conditions. If maximum values laid down by the Canton under water pollution control legislation are lower, these apply.
+<sup>4</sup> The quantity of nutrients applied per hectare (own farmyard manure and manure from other farms, bought fertilisers) may, under the most favourable valley conditions, correspond to no more than 2.5 livestock manure units (LMU). It shall be graded according to soil load capacity, altitude and topographical conditions. If maximum values laid down by the Canton under water pollution control legislation are lower, these apply.
 
 <sup>5</sup> Suitable products based on microorganisms or plants such as biodynamic preparations, and mineral powders may be used to activate compost or soil.
 
@@ -379,14 +392,14 @@ Any person who wishes to use non-organic seeds or plant propagating material mus
 
 <sup>3</sup> Any person who uses non-organic seeds or plant propagating material must notify the operator of the information system described in Article 33*a* of the quantity of seed or plant propagating material used and the variety.
 
-<sup>4</sup> In the case of species or sub-species for which there is no supply or only a very small supply of organically produced seeds or plant propagating material, non-organic seeds or plant propagating material may be used without the evidence required under paragraph 2 and without the notification required under paragraph 3. The operator of the information system shall indicate the relevant varieties and species in the information system in accordance with FOAG[^13a-2] instructions.
+<sup>4</sup> In the case of species or sub-species for which there is no supply or only a very small supply of organically produced seeds or plant propagating material, non-organic seeds or plant propagating material may be used without the evidence required under paragraph 2 and without the notification required under paragraph 3. The operator of the information system shall indicate the relevant varieties and species in the information system as instructed by the Federal Office for Agriculture (FOAG).[^13a-2]
 
 <sup>5</sup> In the case of species and sub-species referred to in Article 13 paragraph 3<sup>bis</sup>, non-organic seeds and plant propagating material may only be used if FOAG authorises the use of non-organic seeds and plant propagating material. Authorisation shall only be issued if the seeds or plant propagating material are to be used for research purposes, for tests carried out as part of small-scale field trials or to preserve varieties.
 
 <sup>6</sup> Non-organic seeds and non-organic seed potatoes may only be used if they have not been treated with plant protection products; this does not apply to treatment with plant protection products which are authorised for organic farming and chemical treatments which for reasons of plant health have been prescribed for all varieties of a particular species in the production area.[^13a-3]
 
 [^13a-1]: Inserted by No I of the O of 26 Nov. 2003, in force since 1 Jan. 2004 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)).
-[^13a-2]: Term in accordance with No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). This amendment has been made throughout the text.
+[^13a-2]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 [^13a-3]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
 #### Art. 14
@@ -474,11 +487,11 @@ If animals are put to summer pasture, the summer pasture must be on organic hold
 
 <sup>1</sup> The Department shall lay down which feedingstuffs are permitted and how feedingstuffs are used.
 
-<sup>2</sup> It may prohibit the use of certain feed additives and technical aids, and certain processing methods.[^16a-2]
+<sup>2</sup> It may prohibit the use of certain feed additives and processing aids, and certain processing methods.[^16a-2]
 
 <sup>3</sup>
 
-In derogation from the principle laid down in Article 3 letter c, it may authorise feed additives and technical aids which have been produced using genetically modified organisms if:
+In derogation from the principle laid down in Article 3 letter c, it may authorise feed additives and processing aids which have been produced using genetically modified organisms if:
 
 - a. they cannot be replaced by other substances; and
 - b. they are not available on the market manufactured in any other way.[^16a-3]
@@ -686,7 +699,7 @@ For poultry, the minimum age at slaughter shall be:
 
 [^16h-1]: Inserted by No I of the O of 7 Nov. 2001, in force since 1 Jan. 2002 ([AS 2001 3542](https://fedlex.data.admin.ch/eli/oc/2001/526)).
 
-## Chapter 2*a***** Requirements for the Processing of Foodstuffs and Animal Feedingstuffs
+## Chapter 2*a* Requirements for the Processing of Foodstuffs and Animal Feedingstuffs
 
 [^chap2a-1]
 
@@ -699,9 +712,12 @@ For poultry, the minimum age at slaughter shall be:
 In addition to the general principles laid down in Article 3, the following principles apply to the production of processed organic foodstuffs:
 
 - a. Organic foodstuffs must be made from organically produced ingredients, unless an ingredient is not available on the market as an organic product.
-- b. The use of foodstuff additives, non-organic ingredients with primarily technical and sensory functions, micronutrients and technical aids must be kept to a minimum and limited to cases where this is a major technological requirement or is for particular nutritional purposes.
+- b. The use of foodstuff additives, non-organic ingredients with primarily technical and sensory functions, micronutrients and processing aids must be kept to a minimum and limited to cases where this is a major technological requirement or is for particular nutritional purposes.
 - c. Substances and production processes which could be misleading with regard to the actual nature of the product are not permitted.
 - d. The foodstuffs must be processed with care, preferably using organic, mechanical and physical methods.
+- e.[^16i-1] The use of ingredients or substances that contain or consist of engineered nanomaterials is prohibited.
+
+[^16i-1]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 16j
 
@@ -713,22 +729,26 @@ In addition to the general principles laid down in Article 3, the following prin
 
 Processed organic foodstuffs must meet the following requirements:
 
-- a. The product must be made predominantly from ingredients of agricultural origin; added water and sodium chloride are not taken into account when deciding whether a product is made predominantly from ingredients of agricultural origin. Yeast and yeast products shall be included as ingredients of agricultural origin.
-- b.[^16j-1] Additives, technical aids, flavourings, water, salt, preparations of microorganisms and enzymes, minerals (including trace elements), vitamins and amino acids, and other micronutrients in foodstuffs shall only be used if they have been authorised for use in organic production in accordance with Article 16*k*.
-- c. Only non-organically produced ingredients[^16j-2] which have been authorised according to Article 16*k* are used.
+- a.[^16j-1] The product must be made predominantly from ingredients of agricultural origin; added water and sodium chloride are not taken into account when deciding whether a product is made predominantly from ingredients of agricultural origin. Yeast and yeast products as well as flavourings shall be included as ingredients of agricultural origin.
+- b.[^16j-2] Additives, processing aids, flavouring substances and flavouring preparations, water, salt, preparations of microorganisms and enzymes, minerals (including trace elements), vitamins and amino acids, and other micronutrients in foodstuffs shall only be used if they have been authorised for use in organic production in accordance with Article 16*k*.
+- c. Only non-organically produced ingredients[^16j-3] which have been authorised according to Article 16*k* are used.
 - d. An organic ingredient may not be used together with the same non-organic ingredient or one produced during conversion.
-- e.[^16j-3] ...
-- f. the product or its ingredients have not been treated with ionizing radiation.
+- e.[^16j-4] ...
+- f. the product or its ingredients have not been treated with ionising radiation.
 
-<sup>2</sup> No substances may be used and no processes applied which restore properties lost in the processing and storage of organic foodstuffs or correct the result of negligent processing, or could otherwise be misleading with regard to the actual quality of these products.
+<sup>3</sup> No substances may be used and no processes applied which restore properties lost in the processing and storage of organic foodstuffs or correct the result of negligent processing, or could otherwise be misleading with regard to the actual quality of these products.
 
-[^16j-1]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
-[^16j-2]: Term in accordance with No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
-[^16j-3]: Repealed by Annex No 1 of the O of 27 May 2020, with effect from 1 July 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+<sup>4</sup> The EAER may restrict or prohibit the use of certain processes and treatments.[^16j-5]
+
+[^16j-1]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16j-2]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16j-3]: Term in accordance with No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16j-4]: Repealed by Annex No 1 of the O of 27 May 2020, with effect from 1 July 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^16j-5]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 16k
 
-**Criteria for the authorization of products and substances under Article 16*j* paragraph 2 letters b and c for processing**
+**Criteria for the authorisation of products and substances under Article 16*j* paragraph 2 letters b and c for processing**
 
 <sup>1</sup>
 
@@ -746,14 +766,23 @@ In derogation from the principle laid down in Article 3 letter c, the EAER may a
 - a. they cannot be replaced by other substances; and
 - b. they are not available on the market manufactured in any other way.[^16k-1]
 
-<sup>3</sup> Where an ingredient of agricultural origin has not been authorised by the Department under Article 16*j* paragraph 2 letter c, FOAG may authorise its use for a limited period or quantity on application if the provisions of the legislation on foodstuffs are complied with and there is a shortage. The application must show
+<sup>3</sup>
+
+Where an ingredient of agricultural origin has not been authorised by the EAER under Article 16*j* paragraph 2 letter c, FOAG may authorise its use in certain end products for a maximum period of six months on application if the provisions of the legislation on foodstuffs are complied with and there is a temporary shortage. The application must show:
 
 - a. that a shortage exists;
 - b. that the end product cannot be manufactured in any other way;
 - c. details of the probable duration of the shortage;
-- d. what measures are to be taken to remedy it.
+- d. what measures are to be taken to remedy it.[^16k-2]
+
+<sup>4</sup> The authorisation under paragraph 3 may be renewed twice for a maximum of six months each time.[^16k-3]
+
+<sup>5</sup> The EAER may set out further criteria for authorisation or withdrawal of authorisation for products and substances under paragraph 3.[^16k-4]
 
 [^16k-1]: Inserted by No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
+[^16k-2]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16k-3]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^16k-4]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 16k<sup>bis</sup>
 
@@ -761,7 +790,7 @@ In derogation from the principle laid down in Article 3 letter c, the EAER may a
 
 In addition to the general principles laid down in Article 3, the following principles apply to the production of processed organic animal feedingstuffs:
 
-- a. The use of feed additives and technical aids must be kept to the minimum and limited to cases where this is an essential technological or zootechnical imperative or serves particular nutritional purposes.
+- a. The use of feed additives and processing aids must be kept to the minimum and limited to cases where this is an essential technological or zootechnical imperative or serves particular nutritional purposes.
 - b. Substances and production methods which could be misleading with regard to the actual quality of the product are not permitted.
 - c. Animal feedingstuffs must be processed with care, if possible using organic, mechanical and physical methods
 
@@ -799,7 +828,7 @@ Only organically produced substrates may be used for the production of organic y
 [^16n-1]: Inserted by No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 [^16n-2]: Amended by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 
-## Chapter 3**** Labelling
+## Chapter 3 Labelling
 
 [^chap3-1]
 
@@ -857,6 +886,14 @@ The indications laid down in Article 2 paragraph 2 may be used in the list of in
 
 [^18-1]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
 
+#### Art. 18a
+
+**Flavourings**[^18a-1]
+
+For flavourings, the indications specified in Article 2 paragraph 2 may be used only if they are flavouring preparations or natural flavouring substances authorised for processing in accordance with Article 16*k* and their flavouring components and carriers are all organic.
+
+[^18a-1]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+
 #### Art. 19
 
 [^19-1]
@@ -867,13 +904,13 @@ The indications laid down in Article 2 paragraph 2 may be used in the list of in
 
 **Products from holdings under conversion[^20-1]**
 
-<sup>1</sup> Products labelled in accordance with Articles 17 or 18 paragraph 1 which were produced in holdings under conversion must also be marked with the indication «produced during conversion to organic farming».[^20-2]
+<sup>1</sup> Products labelled in accordance with Articles 17 or 18 paragraph 1 which were produced in holdings under conversion must also be marked with the indication ‘produced during conversion to organic farming’.[^20-2]
 
 <sup>2</sup> Products from holdings under conversion may not be labelled as organic products until four months after the date of conversion.
 
 <sup>3</sup> Such products must not give the impression that they come from fully converted holdings.
 
-<sup>4</sup> The colour, size and style of lettering of the reference to conversion may not be more prominent than the product description. The words «organic farming» may not stand out more than the words «produced during conversion to»; the colour, size and style of lettering of references to organic farming may not be more prominent than the reference to conversion.
+<sup>4</sup> The colour, size and style of lettering of the reference to conversion may not be more prominent than the product description. The words ‘organic farming’ may not stand out more than the words ‘produced during conversion to’; the colour, size and style of lettering of references to organic farming may not be more prominent than the reference to conversion.
 
 <sup>5</sup> Ingredients of agricultural origin produced in holdings under conversion may be indicated as such by reference to the conversion in the other indications laid down in Article 18 paragraphs 2 and 3. They may not be included in the total percentage of organic ingredients laid down in Article 18 paragraph 5.[^20-3]
 
@@ -904,7 +941,7 @@ The indications laid down in Article 2 paragraph 2 may be used on processed anim
 - b. All ingredients of plant or animal origin contained in the processed animal feedingstuff consist of organic animal feed materials.
 - c. At least 95 per cent of the dry matter of the product consists of animal feed materials of organic origin.
 
-<sup>2</sup> In the case of processed animal feedingstuffs which do not comply with one of the requirements laid down in paragraph 1 letters b or c, only the indication «may be used in organic farming in accordance with the Organic Farming Ordinance» may be used.
+<sup>2</sup> In the case of processed animal feedingstuffs which do not comply with one of the requirements laid down in paragraph 1 letters b or c, only the indication ‘may be used in organic farming in accordance with the Organic Farming Ordinance’ may be used.
 
 [^21a-1]: Inserted by No I of the O of 26 Nov. 2003 ([AS 2003 5347](https://fedlex.data.admin.ch/eli/oc/2003/779)). Amended by No I of the O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6353](https://fedlex.data.admin.ch/eli/oc/2012/756)).
 
@@ -949,9 +986,11 @@ The code number of the certification body responsible for the operator who carri
 Imported products may be labelled as organic products if:
 
 - a.[^22-1] they have been produced and prepared in accordance with rules which are equivalent to those laid down in Chapters 2, 2*a* and 3;
-- b. production is subject to an inspection procedure which is equivalent to that laid down in Chapter 5.
+- b.[^22-2] their production is subject to an inspection and certification procedure which is equivalent to that laid down in Chapter 5 or corresponds to the inspection and certification procedure for groups of operators under Articles 34–36 of Regulation (EU) 2018/848.[^22-3]
 
 [^22-1]: Amended by No I of the O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)).
+[^22-2]: Amended by No I of the O of 2. Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+[^22-3]: Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, OJ L 150 of 14.6.2018, p. 1; last amended by Commission Delegated Regulation (EU) 2022/474, OJ L 98 of 25.3.2022, p. 1.
 
 #### Art. 23
 
@@ -967,13 +1006,13 @@ Imported products may be labelled as organic products if:
 
 **Recognition of certification bodies and inspection authorities not on the list of countries**[^23a-1]
 
-<sup>1</sup> Certification bodies and inspection authorities which, on the basis of the procedure laid down in Article 16 of Regulation (EC) No 1235/2008[^23a-2], are included in the list referred to in Article 10 of that Regulation and in Annex IV referred to therein, as amended from time to time in the EU, are recognised. They may certify that the imported products meet the conditions laid down in Article 22 letter a.[^23a-3]
+<sup>1</sup> Certification bodies and inspection authorities which, on the basis of the procedure laid down in Article 46 of Regulation (EU) 2018/848[^23a-2] have been recognised by the EU and are included in Annex II to Commission Implementing Regulation (EU) 2021/2325[^23a-3] as amended from time to time, are recognised. They may certify that the imported products meet the conditions laid down in Article 22 letter a.[^23a-4]
 
-<sup>2</sup> FOAG may on request recognise further certification bodies and inspection authorities by including them on a list where they are not on the list in accordance with paragraph 1 and not included in the list referred to in Article 23, provided the certification bodies and inspection authorities can prove that the products in question meet the conditions laid down in Article 22.[^23a-4]
+<sup>2</sup> FOAG may on request recognise further certification bodies and inspection authorities by including them on a list where they are not on the list in accordance with paragraph 1 and not included in the list referred to in Article 23, provided the certification bodies and inspection authorities can prove that the products in question meet the conditions laid down in Article 22.[^23a-5]
 
-<sup>3</sup> Requests to be included on the list must be submitted to FOAG. The documentation must contain all the information required to verify whether the certification bodies and inspection authorities meet the conditions of Article 22.[^23a-5]
+<sup>3</sup> Requests to be included on the list must be submitted to FOAG. The documentation must contain all the information required to verify whether the certification bodies and inspection authorities meet the conditions of Article 22.[^23a-6]
 
-<sup>4</sup> For each certification body and inspection authority under paragraph 2, FOAG shall detail in the list the relevant countries, code numbers, product categories and exceptions and any restriction on the term of validity.[^23a-6]
+<sup>4</sup> For each certification body and inspection authority under paragraph 2, FOAG shall detail in the list the relevant countries, code numbers, product categories and exceptions and any restriction on the term of validity.[^23a-7]
 
 <sup>5</sup>
 
@@ -990,17 +1029,18 @@ The recognised certification bodies and inspection authorities are obliged:
 <sup>8</sup> They must submit an annual report to FOAG by 31 March of each year.
 
 [^23a-1]: Inserted by No I of the O of 18 Nov. 2009 ([AS 2009 6317](https://fedlex.data.admin.ch/eli/oc/2009/770)). Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^23a-2]: Commission Regulation (EC) No 1235/2008 of 8 Dec. 2008 aying down detailed rules for implementation of Council Regulation (EC) No 834/2007 as regards the arrangements for imports of organic products from third countries. OJ L 334 of 12.12.2008, p. 25; last amended by Commission Implementing Regulation (EU) 2020/786, OJ L 190 of 16.6.2020, p. 20.
-[^23a-3]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
-[^23a-4]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-2]: See footnote to Art. 22 let. b.
+[^23a-3]: Commission Implementing Regulation (EU) 2021/2325 of 16 December 2021 establishing, pursuant to Regulation (EU) 2018/848 of the European Parliament and of the Council, the list of third countries and the list of control authorities and control bodies that have been recognised under Article 33(2) and (3) of Council Regulation (EC) No 834/2007 for the purpose of importing organic products into the Union; amended by OJ L 465 of 29.12.2021, p. 8.
+[^23a-4]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 [^23a-5]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 [^23a-6]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^23a-7]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 
 #### Art. 24
 
-**Certificate of Inspection**[^24-1]
+**Certificate of inspection**[^24-1]
 
-<sup>1</sup> For imports, a certificate of inspection must be issued in the EU system for the electronic certification of the import of organic products (Traces) in accordance with Regulation (EC) 1235/2008[^24-2]. Where a consignment is to be split into several batches before assessment, an extract from the certificate of inspection in Traces must be issued for each batch resulting from the split.
+<sup>1</sup> For imports, a certificate of inspection must be issued in the EU system for the electronic certification of the import of organic products (Traces) in accordance with Commission Delegated Regulation (EU) 2021/2306.[^24-2] Where a consignment is to be split into several batches before assessment, an extract from the certificate of inspection in Traces must be issued for each batch resulting from the split.[^24-3]
 
 <sup>2</sup> Switzerland uses the EU’s Traces information system.
 
@@ -1008,14 +1048,15 @@ The recognised certification bodies and inspection authorities are obliged:
 
 <sup>4</sup> In cases in which the Traces information system does not work, certificates of inspection and extracts from certificates of inspection may be issued and endorsed without using Traces.
 
-<sup>5</sup> The EAER shall regulate the certificates of inspection and extracts from certificates of inspection in Traces as well as the procedures.[^24-3]
+<sup>5</sup> The EAER shall regulate the certificates of inspection and extracts from certificates of inspection in Traces as well as the procedures.[^24-4]
 
-<sup>6</sup> FOAG may facilitate or cancel the obligation to issue the certificate of inspection for imports from countries under Article 23 or for imports that have been certified by bodies under Article 23*a* paragraph 2.[^24-4]
+<sup>6</sup> FOAG may facilitate or cancel the obligation to issue the certificate of inspection for imports from countries under Article 23 or for imports that have been certified by bodies under Article 23*a* paragraph 2.[^24-5]
 
 [^24-1]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
-[^24-2]: Commission Regulation (EC) No 1235/2008 of 8 December 2008 laying down detailed rules for the implementation of Council Regulation (EC) No 834/2007 as regards the arrangements for imports of organic products from third countries, OJ L 334 of 12.12.2008, p. 25; last amended by Commission Implementing Regulation (EU) 2017/1473, OJ L 210 of 15.8.2017, p. 4.
-[^24-3]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^24-2]: Commission Delegated Regulation (EU) 2021/2306 of 21 October 2021 supplementing Regulation (EU) 2018/848 of the European Parliament and of the Council with rules on the official controls in respect of consignments of organic products and in-conversion products intended for import into the Union and on the certificate of inspection, OJ L 461 of 27.12.2021, p. 13; last amended by Commission Delegated Regulation (EU) 2022/760, OJ L 139 of 18.5.2022, p. 13.
+[^24-3]: Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 [^24-4]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
+[^24-5]: Amended by No I of the O of 11 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 5459](https://fedlex.data.admin.ch/eli/oc/2020/952)).
 
 #### Art. 24a
 
@@ -1117,7 +1158,7 @@ Marketing operators and storage operators are obliged:[^27-2]
 
 [^27a-1]: Inserted by No I of the O of 23 Aug. 2000, in force since 1 Jan. 2001 ([AS 2000 2491](https://fedlex.data.admin.ch/eli/oc/2000/398)).
 
-### Section 2 Requirements for Certification Bodies****
+### Section 2 Requirements for Certification Bodies
 
 [^chap5-sec2-1]
 
@@ -1169,7 +1210,7 @@ In particular, the certification bodies must:
 
 FOAG may place a time limit on approval and make it subject to conditions. In particular, it may impose the following conditions on the certification body:
 
-- a. that it accepts and supports FOAG‘s supervision of activities carried out in Switzerland, in particular the measures laid down in Articles 32–33*a*;
+- a. that it accepts and supports FOAG’s supervision of activities carried out in Switzerland, in particular the measures laid down in Articles 32–33*a*;
 - b. that it submits a detailed report of its activities in Switzerland to FOAG in accordance with Article 30*d* paragraph 3;
 - c. that it uses data and information obtained during its inspections solely for inspection purposes and that it complies with the Swiss regulations on data protection;
 - d. that any planned modification of facts which have a bearing on approval are agreed with FOAG first;
@@ -1182,7 +1223,7 @@ FOAG may place a time limit on approval and make it subject to conditions. In pa
 [^29-3]: Amended by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 [^29-4]: Repealed by No I of the O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
-### Section 3 Obligations of Certification Bodies****
+### Section 3 Obligations of Certification Bodies
 
 [^chap5-sec3-1]
 
@@ -1229,13 +1270,24 @@ The certification bodies shall submit to FOAG documentation concerning their ris
 
 **Certificate**[^30ater-1]
 
-<sup>1</sup> The certification body under Articles 23*a*, 28 or 29 or, if appropriate, the inspection authority under Article 23*a* shall issue a relevant certificate to each operator subject to its inspections which meets the requirements of this Ordinance in its areas of operations. The certificate must provide details of the identity of the operator, the type or range of products and the expiry date of the certificate.
+<sup>1</sup> The certification body under Articles 23*a*, 28 or 29 or, if appropriate, the inspection authority under Article 23*a* shall issue a relevant certificate to each operator subject to its inspections which meets the requirements of this Ordinance in its area of operations. The certificate must indicate, as a minimum, the identity of the operator, the category of products to which the certificate applies and the expiry date of the certificate.
 
-<sup>2</sup> The certificate may also be issued in electronic form provided that its authenticity is guaranteed by a recognised electronic method which is proof against forgery.
+<sup>2</sup>
 
-<sup>3</sup> The certification bodies have a duty to publish a general, up-to-date list of valid certificates. FOAG may specify where the certificates must be published.
+Product categories are:
 
-[^30ater-1]: Inserted by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
+- a. unprocessed plants and plant products, including seeds and other plant propagating material;
+- b. animals and unprocessed animal products;
+- c. processed agricultural products intended for use as food;
+- d. feedingstuffs;
+- e. wine;
+- f. other products.
+
+<sup>3</sup> The certificate may also be issued in electronic form provided that its authenticity is guaranteed by a recognised electronic method which is proof against forgery.
+
+<sup>4</sup> The certification bodies have a duty to publish a general, up-to-date list of valid certificates. FOAG may specify where the certificates must be published.
+
+[^30ater-1]: Inserted by No I of the O of 29 Oct. 2014 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)). Amended by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
 
 #### Art. 30b
 
@@ -1306,7 +1358,7 @@ In the following cases, the certification body shall notify FOAG and the compete
 [^30e-1]: Inserted by No I of the O of 27 Oct. 2010 ([AS 2010 5859](https://fedlex.data.admin.ch/eli/oc/2010/836)). Amended by No I of the O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3969](https://fedlex.data.admin.ch/eli/oc/2014/671)).
 [^30e-2]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
-## Chapters 6 and 7**** ...
+## Chapters 6 and 7 ...
 
 [^lvlu7-1]
 
@@ -1386,7 +1438,7 @@ FOAG shall conduct an annual inspection of the certification bodies authorised i
 
 <sup>1</sup>
 
-The Research Institute of Organic Farming (FiBL) Frick operates an information system «OrganicXseeds» for organic seeds and plant propagating material. This information system:
+The Research Institute of Organic Farming (FiBL) Frick operates an information system ‘OrganicXseeds’ for organic seeds and plant propagating material. This information system:
 
 - a. makes it possible to register organically produced propagating material; new registrations must be applied for by the supplier;
 - b. provides evidence of current availability of organically produced propagating material.
@@ -1591,13 +1643,21 @@ If FOAG has issued an individual authorisation under Article 24 of the current l
 
 [^39m-1]: Inserted by No I of the O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6083](https://fedlex.data.admin.ch/eli/oc/2017/667)).
 
+#### Art. 39n
+
+**Transitional provision to the Amendment of 2 November 2022**[^39n-1]
+
+Until 31 December 2023, certificates may be issued under Article 30*a*<sup>ter</sup> of the previous law.
+
+[^39n-1]: Inserted by No I of the O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 738](https://fedlex.data.admin.ch/eli/oc/2022/738)).
+
 ### Section 4 Commencement
 
 #### Art. 40
 
 This Ordinance comes into force on 1 January 1998.
 
-Annex 1*[^t-2]*
+Annex 1[^t-2]
 
 (Art. 9 para.3, 24*a*<sup>bis</sup>, 25 para. 2, 26 para. 3, 27 para. 2, 27*a* para. 2 and 28 para. 2)
 
@@ -1662,7 +1722,7 @@ Where an operator runs several production units, the units for non-organic produ
 
 \4. Each year, before the date indicated by the certification body, the operator shall notify that body of its cultivation schedule, giving a breakdown by parcel.
 
-\5. If a holding does not farm all parts of the holding according to the production rules laid down in this Ordinance, the parcels on which plants are not produced in accordance with this Ordinance and the storage areas for production materials (such as fertilizers, plant protection products, seeds) shall also be subject to the inspection regulations laid down in Numbers 1–4 of this Annex. Only products which are clearly distinguishable shall be produced on these parcels.
+\5. If a holding does not farm all parts of the holding according to the production rules laid down in this Ordinance, the parcels on which plants are not produced in accordance with this Ordinance and the storage areas for production materials (such as fertilisers, plant protection products, seeds) shall also be subject to the inspection regulations laid down in Numbers 1–4 of this Annex. Only products which are clearly distinguishable shall be produced on these parcels.
 
 \6. If fruit- or wine-growing conversion takes place in stages, or a wine-growing holding only carries out organic production on individual parcels independently from the rest of the holding, or in the case of areas authorised for agricultural research, by way of exception, the same varieties may be cultivated on the same holding according to different production rules, if:
 
@@ -1856,6 +1916,6 @@ When taking delivery of an organic product imported from a third country, the fi
 - b. all necessary measures shall be taken to ensure identification of the consignments and to prevent any mixing or confusion with non-organic products;
 - c. before organic products are stored, a suitable cleaning process whose effectiveness has been checked shall be carried out; operators shall keep a record of such cleaning processes.
 
-Annex 2*[^t-3]*
+Annex 2[^t-3]
 
 [^t-3]: Repealed by No II of the O of 7 Dec. 1998, with effect from 1 Jan. 1999 ([AS 1999 399](https://fedlex.data.admin.ch/eli/oc/1999/45)).
