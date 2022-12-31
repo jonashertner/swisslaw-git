@@ -4,13 +4,12 @@ number: II E/2/1
 title: Korporationsverordnung
 short: KorpV
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-12-04
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2017-05-23
 in_force: 2017-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-E.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2071/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2071/pdf_file"
 
 (KorpV)
 
-Vom 23.05.2017 (Stand 01.01.2019)
+Vom 23.05.2017 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -36,13 +35,12 @@ erlässt:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für die privatrechtlichen und öffentlich-rechtlichen Korporationen des kantonalen Rechts im Sinne der Artikel 59 und 703 des Schweizerischen Zivilgesetzbuches[^1-1] bzw. der Artikel 34 ff. und 161 ff. des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^1-2]. Für diese gilt das Gesetz über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden[^1-3] nicht.
+<sup>1</sup> Diese Verordnung gilt für die privatrechtlichen und öffentlich-rechtlichen Korporationen des kantonalen Rechts im Sinne der Artikel 59 und 703 des Schweizerischen Zivilgesetzbuches[^1-1] bzw. der Artikel 34 ff. und 161 ff. des Einführungsgesetzes zum Zivilgesetzbuch[^1-2].
 
 <sup>2</sup> Sie regelt das Aufsichts- und das Genehmigungsverfahren.
 
 [^1-1]: SR 210
-[^1-2]: GS III B/1/1
-[^1-3]: GS VI A/1/2
+[^1-2]: GS [III B/1/1](https://gesetze.gl.ch/data/III-B.1.1/de)
 
 #### Art. 2
 
@@ -146,8 +144,8 @@ erlässt:
 <sup>4</sup> Ausserordentliche Aufwendungen werden wie folgt verrechnet:
 
 - a. Mahnungen einfach: — je 100 Franken;
-- b. Bekanntgabe von Daten (Art. 8 Abs. 2), pro Datensatz: — 10 Franken;
-- c. Erstellen von Fotokopien (je Kopie): — 10 Rappen;
+- b. Bekanntgabe von Daten (Art. 8 Abs. 2), je Datensatz: — 10 Franken;
+- c. Erstellen von Fotokopien, je Kopie: — 10 Rappen;
 - d. Spesen und Barauslagen: — nach Aufwand.
 
 SBE 2017 07
