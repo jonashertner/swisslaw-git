@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 2 luglio 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -28,7 +28,7 @@ ordina:
 [^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
-## Capitolo 1: Definizioni****
+## Capitolo 1: Definizioni
 
 [^chap1-1]
 
@@ -65,7 +65,7 @@ Sono considerati armi gli spray destinati all’autodifesa contenenti le sostanz
 
 I dispositivi che producono un elettrochoc sono considerati armi se non sono conformi alle disposizioni dell’ordinanza del 9 aprile 1997[^2-1] sui prodotti elettrici a bassa tensione. In caso di dubbio decide l’Ufficio centrale Armi.
 
-[^2-1]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^2-1]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. I 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
 
 #### Art. 3
 
@@ -229,13 +229,13 @@ Per mediazione s’intende la creazione delle condizioni essenziali per la concl
 
 [^9a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-## Capitolo 1*a*: Divieti e restrizioni generali, nonché autorizzazioni eccezionali****
+## Capitolo 1*a*: Divieti e restrizioni generali, nonché autorizzazioni eccezionali
 
 [^chap1a-1]
 
 [^chap1a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-### Sezione 1: In generale****
+### Sezione 1: In generale
 
 [^chap1a-sec1-1]
 
@@ -364,7 +364,7 @@ Per essere identificabile, l’offerente deve:
 - a. se l’offerta appare in forma anonima, inviare, prima della pubblicazione, una copia del proprio passaporto valido o della propria carta d’identità valida all’organo di pubblicazione, che dovrà conservarla per tutta la durata della pubblicazione, ma almeno per sei mesi;
 - b. se l’offerta non appare in forma anonima, indicare nell’offerta almeno il proprio nome, cognome e domicilio.
 
-### Sezione 2:**** Coltelli e pugnali, dispositivi contundenti e da lancio
+### Sezione 2: Coltelli e pugnali, dispositivi contundenti e da lancio
 
 [^chap1a-sec2-1]
 
@@ -397,7 +397,7 @@ Sono vietati l’alienazione, l’acquisto, la mediazione per destinatari in Svi
 
 Le autorità cantonali competenti rilasciano autorizzazioni eccezionali per armi di cui all’articolo 5 capoverso 2 lettera b LArm in particolare se si tratta di armi da sport utilizzate da membri di scuole o società sportive.
 
-### Sezione 3:**** Autorizzazioni eccezionali per tiratori sportivi
+### Sezione 3: Autorizzazioni eccezionali per tiratori sportivi
 
 [^chap1a-sec3-1]
 
@@ -464,7 +464,7 @@ Per fornire la prova, la persona interessata deve inviare alla competente autori
 
 [^13f-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
-### Sezione 4:**** Autorizzazioni eccezionali per collezionisti e musei
+### Sezione 4: Autorizzazioni eccezionali per collezionisti e musei
 
 [^chap1a-sec4-1]
 
@@ -701,7 +701,7 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 
 <sup>3</sup> Se, considerate le circostanze, dubita che le condizioni per l’alienazione dell’arma siano adempite, l’alienante deve esigere dall’acquirente un estratto del casellario giudiziale svizzero, rilasciato al massimo tre mesi prima dell’alienazione, o chiedere, con il consenso scritto dell’alienante, le necessarie informazioni presso le autorità o persone competenti.
 
-### Sezione 4:**** Acquisto di caricatori ad alta capacità di colpi
+### Sezione 4: Acquisto di caricatori ad alta capacità di colpi
 
 [^chap2-sec4-1]
 
@@ -715,7 +715,7 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 
 <sup>2</sup> I caricatori con una capacità compresa tra le 11 e le 20 cartucce che possono essere utilizzati sia con armi da fuoco portatili sia con armi da fuoco corte, possono essere alienati se all’acquirente è stata rilasciata un’autorizzazione eccezionale, una conferma ai sensi del capoverso 1, un permesso d’acquisto di armi o una carta europea d’arma da fuoco per un’arma da fuoco corta compatibile.
 
-## Capitolo 3: Omologazioni****
+## Capitolo 3: Omologazioni
 
 [^chap3-1]
 
@@ -761,7 +761,7 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 
 [^25a-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
-## Capitolo 3*a*: Munizioni vietate****
+## Capitolo 3*a*: Munizioni vietate
 
 [^chap3a-1]
 
@@ -1650,6 +1650,8 @@ Ai fini dell’esecuzione della legislazione sulle armi, le seguenti autorità p
 - b. le autorità cantonali di polizia;
 - c. le autorità doganali.
 
+<sup>1a</sup> Fedpol può accedere ai dati della DEBBWA e della DAWA per mezzo di una procedura di richiamo, al fine di trattare domande di autorizzazione di acquisto e di autorizzazione eccezionale concernenti i precursori di sostanze esplodenti, di verificare tali autorizzazioni e di trattare segnalazioni di eventi sospetti secondo la legge federale del 25 settembre 2020[^61-2] sui precursori di sostanze esplodenti.[^61-3]
+
 <sup>2</sup>
 
 Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di una procedura di richiamo:
@@ -1661,21 +1663,23 @@ Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di
 - e. la Protezione delle informazioni e delle opere;
 - f. i comandi di circondario cantonali.
 
-<sup>3</sup> La Polizia giudiziaria federale e la Cooperazione internazionale di polizia di fedpol possono accedere ai dati della DEWA, della DEBBWA, della DAWA, della DANTRAG e del sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco per mezzo di una procedura di richiamo, al fine di adempiere i propri compiti sanciti dalla legge federale del 7 ottobre 1994[^61-2] sugli Uffici centrali di polizia giudiziaria della Confederazione, dal Codice di procedura penale[^61-3] e dalla legge federale del 23 dicembre 2011[^61-4] sulla protezione extraprocessuale dei testimoni.
+<sup>3</sup> La Polizia giudiziaria federale e la Cooperazione internazionale di polizia di fedpol possono accedere ai dati della DEWA, della DEBBWA, della DAWA, della DANTRAG e del sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco per mezzo di una procedura di richiamo, al fine di adempiere i propri compiti sanciti dalla legge federale del 7 ottobre 1994[^61-4] sugli Uffici centrali di polizia giudiziaria della Confederazione, dal Codice di procedura penale[^61-5] e dalla legge federale del 23 dicembre 2011[^61-6] sulla protezione extraprocessuale dei testimoni.
 
 <sup>4</sup> Le autorità di perseguimento penale cantonali possono essere autorizzate ad accedere ai dati della DEWA, della DEBBWA, della DAWA, della DANTRAG e del sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco per mezzo di una procedura di richiamo, al fine di adempiere i propri compiti sanciti dal Codice di procedura penale.
 
 <sup>5</sup> Ai dati della DEWS può accedere unicamente l’Ufficio centrale Armi.
 
-<sup>5bis</sup> Le autorità competenti per il rilascio di autorizzazioni ai sensi della LArm possono accedere ai dati dei sistemi d’informazione elettronici sull’acquisto e il possesso di armi da fuoco e del sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco fino a dieci anni dopo la distruzione dell’arma. Le autorità che operano nell’ambito della prevenzione o del perseguimento di reati possono accedere a tali dati fino alla loro cancellazione.[^61-5]
+<sup>5bis</sup> Le autorità competenti per il rilascio di autorizzazioni ai sensi della LArm possono accedere ai dati dei sistemi d’informazione elettronici sull’acquisto e il possesso di armi da fuoco e del sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco fino a dieci anni dopo la distruzione dell’arma. Le autorità che operano nell’ambito della prevenzione o del perseguimento di reati possono accedere a tali dati fino alla loro cancellazione.[^61-7]
 
 <sup>6</sup> I dettagli dei diritti d’accesso sono disciplinati nell’allegato 3.
 
 [^61-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^61-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^61-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^61-4]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^61-5]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^61-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^61-3]: Introdotto dall’all. 2 n. 9 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^61-4]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^61-5]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^61-6]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^61-7]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 62
 
@@ -1924,7 +1928,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 La presente ordinanza entra in vigore il 12 dicembre 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 55)
 
@@ -2006,13 +2010,13 @@ Sono considerate sostanze irritanti:
 - c. CN (ω-cloroacetofenone);
 - d. CR (dibenzo(b,f)-1,4-oxazepina).
 
-Allegato 3*[^t-2]*
+Allegato 3[^t-2]
 
 (art. 61 cpv. 6)
 
 ## Diritti d’accesso
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Aggiornato dall’all. 2 n. 9 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = consultare
 
@@ -2031,11 +2035,12 @@ vuoto = nessun accesso
 <tr><td>Consulente per la protezione dei dati</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
-### Sistemi di polizia e identificazione fedpol
+Sistemi di polizia e identificazione fedpol
 
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Sistema d’informazione di cui all’art. 32*a* cpv. 3 LArm</th></tr>
 <tr><td>Ufficio centrale Armi</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>Aa</td></tr>
+<tr><td>Ufficio centrale Esplosivi</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Fornitore di servizi informatici fedpol
@@ -2105,6 +2110,6 @@ Le ordinanze qui appresso sono modificate come segue:
 
 ...[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RU 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549), [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146), [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)n. II [2671](https://fedlex.data.admin.ch/eli/oc/2002/374), [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 4, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 11]
+[^annex4-lvlu1-1]: [[RU 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)n. II, [2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 11]
 [^annex4-lvlu1-2]: [[RU 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]
 [^annex4-lvlu1-3]: Le mod. possono essere consultate alla [RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767).

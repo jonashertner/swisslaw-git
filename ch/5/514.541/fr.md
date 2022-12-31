@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 2 juillet 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
-## Chapitre 1 Définitions****
+## Chapitre 1 Définitions
 
 [^chap1-1]
 
@@ -229,13 +229,13 @@ Par courtage, on entend la création des conditions essentielles pour la conclus
 
 [^9a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-## Chapitre 1*a* Interdictions et restrictions de portée générale, autorisations exceptionnelles****
+## Chapitre 1*a* Interdictions et restrictions de portée générale, autorisations exceptionnelles
 
 [^chap1a-1]
 
 [^chap1a-1]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-### Section 1 Généralités****
+### Section 1 Généralités
 
 [^chap1a-sec1-1]
 
@@ -364,7 +364,7 @@ Afin d’être identifiable, l’offreur doit:
 - a. si son offre paraît sous une forme anonyme, envoyer une copie de son passeport ou de sa carte d’identité en cours de validité au responsable de la publication avant que celle-ci ait lieu; ledit responsable conserve la copie pour toute la durée de publication, mais au moins pendant six mois;
 - b. si son offre ne paraît pas sous une forme anonyme, y indiquer au moins son nom, son prénom et son domicile.
 
-### Section 2**** Couteaux, poignards et engins de frappe ou de jet
+### Section 2 Couteaux, poignards et engins de frappe ou de jet
 
 [^chap1a-sec2-1]
 
@@ -397,7 +397,7 @@ Sont interdits l’aliénation, l’acquisition, le courtage pour des destinatai
 
 Les autorités cantonales compétentes délivrent des autorisations exceptionnelles pour les armes visées à l’art. 5, al. 2, let. b, LArm en particulier s’il s’agit d’armes de sport utilisées par des membres d’écoles de sport ou de sociétés sportives.
 
-### Section 3**** Autorisations exceptionnelles pour les tireurs sportifs
+### Section 3 Autorisations exceptionnelles pour les tireurs sportifs
 
 [^chap1a-sec3-1]
 
@@ -464,7 +464,7 @@ Pour apporter la démonstration, la personne concernée doit remettre le formula
 
 [^13f-1]: [RS 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
-### Section 4**** Autorisations exceptionnelles pour les collectionneurs et les musées
+### Section 4 Autorisations exceptionnelles pour les collectionneurs et les musées
 
 [^chap1a-sec4-1]
 
@@ -703,7 +703,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 <sup>3</sup> Si les circonstances font douter l’aliénateur que les conditions permettant l’aliénation soient remplies, il doit exiger de l’acquéreur un extrait du casier judiciaire suisse établi trois mois au plus avant l’aliénation ou demander, avec l’accord écrit de l’acquéreur, les informations nécessaires aux autorités ou aux personnes compétentes.
 
-### Section 4**** Acquisition de chargeurs de grande capacité
+### Section 4 Acquisition de chargeurs de grande capacité
 
 [^chap2-sec4-1]
 
@@ -717,7 +717,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 <sup>2</sup> Les chargeurs d’une capacité allant de 11 à 20 cartouches pouvant être utilisés tant avec des armes à feu à épauler que des armes à feu de poing peuvent être aliénés si l’acquéreur s’est vu délivrer une autorisation exceptionnelle ou une confirmation visée à l’al. 1 ou un permis d’acquisition d’armes ou une carte européenne d’arme à feu pour une arme à feu de poing correspondante.
 
-## Chapitre 3 Homologations****
+## Chapitre 3 Homologations
 
 [^chap3-1]
 
@@ -763,7 +763,7 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 [^25a-1]: Introduit par le ch. I de l’O du 24 juin 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
-## Chapitre 3*a* Munitions prohibées****
+## Chapitre 3*a* Munitions prohibées
 
 [^chap3a-1]
 
@@ -1661,6 +1661,8 @@ Aux fins d’exécution de la législation sur les armes, les autorités suivant
 - b. les autorités cantonales de police;
 - c. les autorités douanières.
 
+<sup>1a</sup> fedpol peut consulter en ligne les données du DEBBWA et du DAWA pour traiter les demandes d’autorisation d’acquisition et d’autorisation exceptionnelle relatives à des précurseurs de substances explosibles, vérifier ces autorisations et traiter les signalements d’événements suspects en vertu de la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^61-2].[^61-3]
+
 <sup>2</sup>
 
 En outre, les autorités suivantes peuvent consulter en ligne les données du DEBBWA:
@@ -1672,21 +1674,23 @@ En outre, les autorités suivantes peuvent consulter en ligne les données du DE
 - e. la Division de la protection des informations et des objets;
 - f. les commandements cantonaux d’arrondissement.
 
-<sup>3</sup> Aux fins d’exécution de leurs tâches en vertu de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^61-2], du code de procédure pénale[^61-3] et de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^61-4], la Police judiciaire fédérale et la Coopération policière internationale de fedpol peuvent consulter en ligne les données du DEWA, du DEBBWA, du DAWA, du DANTRAG et du système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu.
+<sup>3</sup> Aux fins d’exécution de leurs tâches en vertu de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^61-4], du code de procédure pénale[^61-5] et de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^61-6], la Police judiciaire fédérale et la Coopération policière internationale de fedpol peuvent consulter en ligne les données du DEWA, du DEBBWA, du DAWA, du DANTRAG et du système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu.
 
 <sup>4</sup> Aux fins d’exécution de leurs tâches en vertu du code de procédure pénale, les autorités cantonales de poursuite pénale peuvent être autorisées à consulter en ligne les données du DEWA, du DEBBWA, du DAWA, du DANTRAG et du système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu.
 
 <sup>5</sup> Seul l’OCA est autorisé à accéder aux données du DEWS.
 
-<sup>5bis</sup> Les autorités qui ont la compétence de délivrer des autorisations en vertu de la LArm peuvent, jusqu’à 10 ans après la destruction de l’arme, accéder aux données du système d’information électronique relatif à l’acquisition et à la possession d’armes à feu et à celles du système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu. Les autorités qui agissent dans le domaine de la prévention des infractions et de la poursuite des infractions peuvent accéder à ces données jusqu’à leur effacement.[^61-5]
+<sup>5bis</sup> Les autorités qui ont la compétence de délivrer des autorisations en vertu de la LArm peuvent, jusqu’à 10 ans après la destruction de l’arme, accéder aux données du système d’information électronique relatif à l’acquisition et à la possession d’armes à feu et à celles du système d’information harmonisé commun relatif à l’acquisition et à la possession d’armes à feu. Les autorités qui agissent dans le domaine de la prévention des infractions et de la poursuite des infractions peuvent accéder à ces données jusqu’à leur effacement.[^61-7]
 
 <sup>6</sup> Les droits d’accès sont réglés à l’annexe 3.
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^61-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^61-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^61-4]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^61-5]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 14 déc. 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^61-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^61-3]: Introduit par l’annexe 2 ch. 9 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^61-4]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^61-5]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^61-6]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^61-7]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 14 déc. 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 62
 
@@ -1934,7 +1938,7 @@ L’abrogation et la modification du droit en vigueur sont réglées à l’anne
 
 La présente ordonnance entre en vigueur le 12 décembre 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 55)
 
@@ -2016,13 +2020,13 @@ Sont réputées irritantes les substances suivantes:
 - c. CN (ω-chloroacétophénone);
 - d. CR (dibenz(b,f)-1,4-oxazépine).
 
-Annexe 3*[^t-2]*
+Annexe 3[^t-2]
 
 (art. 61, al. 6)
 
 ## Droits d’accès
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 14 juin 2019, en vigueur depuis le 14 déc. 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 14 juin 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Mise à jour par l’annexe 2 ch. 9 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = consulter
 
@@ -2046,6 +2050,7 @@ vide = pas d’accès
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Système d’information visé à l’art. 32*a*, al. 3, LArm</th></tr>
 <tr><td>Office central des armes</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>Aa</td></tr>
+<tr><td>Office central des explosifs</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Fournisseur de prestations informatiques fedpol

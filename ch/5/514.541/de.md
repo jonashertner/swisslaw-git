@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20220101/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 1. Januar 2022)
+vom 2. Juli 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -28,7 +28,7 @@ verordnet:
 [^ingress-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
 [^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 
-## 1. Kapitel: Begriffe****
+## 1. Kapitel: Begriffe
 
 [^chap1-1]
 
@@ -229,13 +229,13 @@ Als Vermitteln gilt die Schaffung der wesentlichen Voraussetzungen für den Absc
 
 [^9a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-## 1*a*. Kapitel: Allgemeine Verbote und Einschränkungen sowie Ausnahmebewilligungen****
+## 1*a*. Kapitel: Allgemeine Verbote und Einschränkungen sowie Ausnahmebewilligungen
 
 [^chap1a-1]
 
 [^chap1a-1]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
-### 1. Abschnitt: Allgemeines****
+### 1. Abschnitt: Allgemeines
 
 [^chap1a-sec1-1]
 
@@ -364,7 +364,7 @@ Um identifizierbar zu sein, muss die anbietende Person:
 - a. falls ihr Angebot anonym erscheint, bevor es veröffentlicht wird, eine Kopie ihres gültigen Passes oder ihrer gültigen Identitätskarte dem Veröffentlicher senden, der sie während der Dauer der Veröffentlichung, mindestens aber während sechs Monaten aufbewahren muss;
 - b. falls ihr Angebot nicht anonym erscheint, mindestens ihren Namen, Vornamen und Wohnsitz im Angebot erwähnen.
 
-### 2. Abschnitt:**** Messer und Dolche, Schlag- und Wurfgeräte
+### 2. Abschnitt: Messer und Dolche, Schlag- und Wurfgeräte
 
 [^chap1a-sec2-1]
 
@@ -397,7 +397,7 @@ Nicht übertragen, erworben, an Empfänger und Empfängerinnen im Inland vermitt
 
 Die zuständigen kantonalen Behörden erteilen Ausnahmebewilligungen für Waffen nach Artikel 5 Absatz 2 Buchstabe b WG insbesondere, wenn es sich um Sportwaffen handelt, die durch Mitglieder von Sportschulen oder -vereinen verwendet werden.
 
-### 3. Abschnitt:**** Ausnahmebewilligungen für Sportschützen und ‑schützinnen
+### 3. Abschnitt: Ausnahmebewilligungen für Sportschützen und ‑schützinnen
 
 [^chap1a-sec3-1]
 
@@ -464,7 +464,7 @@ Um den Nachweis zu erbringen, muss die betreffende Person der zuständigen kanto
 
 [^13f-1]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
 
-### 4. Abschnitt:**** Ausnahmebewilligungen für Sammler und Sammlerinnen sowie Museen
+### 4. Abschnitt: Ausnahmebewilligungen für Sammler und Sammlerinnen sowie Museen
 
 [^chap1a-sec4-1]
 
@@ -701,7 +701,7 @@ Die übertragende Person darf davon ausgehen, dass kein Hinderungsgrund gegeben 
 
 <sup>3</sup> Muss die übertragende Person aufgrund der Umstände daran zweifeln, dass die Voraussetzungen für die Übertragung erfüllt sind, so muss sie von der erwerbenden Person einen Auszug aus dem schweizerischen Strafregister, der höchstens drei Monate vor der Übertragung ausgestellt wurde, oder mit dem schriftlichen Einverständnis der erwerbenden Person die erforderlichen Informationen von den zuständigen Behörden oder Personen verlangen.
 
-### 4. Abschnitt:**** Erwerb von Ladevorrichtungen mit hoher Kapazität
+### 4. Abschnitt: Erwerb von Ladevorrichtungen mit hoher Kapazität
 
 [^chap2-sec4-1]
 
@@ -715,7 +715,7 @@ Die übertragende Person darf davon ausgehen, dass kein Hinderungsgrund gegeben 
 
 <sup>2</sup> Ladevorrichtungen mit einer Kapazität von 11 bis 20 Patronen, die sowohl mit Handfeuerwaffen als auch mit Faustfeuerwaffen verwendet werden können, dürfen übertragen werden, wenn der erwerbenden Person eine Ausnahmebewilligung oder Bestätigung nach Absatz 1 oder ein Waffenerwerbsschein oder europäischer Feuerwaffenpass für eine passende Faustfeuerwaffe ausgestellt wurde.
 
-## 3. Kapitel: Typenprüfungen****
+## 3. Kapitel: Typenprüfungen
 
 [^chap3-1]
 
@@ -761,7 +761,7 @@ Die übertragende Person darf davon ausgehen, dass kein Hinderungsgrund gegeben 
 
 [^25a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
-## 3*a*. Kapitel: Verbotene Munition****
+## 3*a*. Kapitel: Verbotene Munition
 
 [^chap3a-1]
 
@@ -1652,6 +1652,8 @@ Die folgenden Behörden haben für den Vollzug der Waffengesetzgebung im Abrufve
 - b. die kantonalen Polizeibehörden;
 - c. die Zollbehörden.
 
+<sup>1a</sup> Fedpol hat für die Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, zur Überprüfung dieser Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem Vorläuferstoffgesetz vom 25. September 2020[^61-2] im Abrufverfahren Zugriff auf die Daten der DEBBWA und der DAWA.[^61-3]
+
 <sup>2</sup>
 
 Auf die Daten der DEBBWA haben ausserdem folgende Behörden im Abrufverfahren Zugriff:
@@ -1663,21 +1665,23 @@ Auf die Daten der DEBBWA haben ausserdem folgende Behörden im Abrufverfahren Zu
 - e. die Informations- und Objektsicherheit;
 - f. die kantonalen Kreiskommandos.
 
-<sup>3</sup> Die Bundeskriminalpolizei und die Internationale Polizeikooperation von fedpol haben zur Erfüllung ihrer Aufgaben nach dem Bundesgesetz vom 7. Oktober 1994[^61-2] über kriminalpolizeiliche Zentralstellen des Bundes, der Strafprozessordnung[^61-3] und dem Bundesgesetz vom 23. Dezember 2011[^61-4] über den ausserprozessualen Zeugenschutz im Abrufverfahren Zugriff auf die Daten der DEWA, der DEBBWA, der DAWA, der DANTRAG und des gemeinsamen harmonisierten Informationssystems über den Erwerb und den Besitz von Feuerwaffen.
+<sup>3</sup> Die Bundeskriminalpolizei und die Internationale Polizeikooperation von fedpol haben zur Erfüllung ihrer Aufgaben nach dem Bundesgesetz vom 7. Oktober 1994[^61-4] über kriminalpolizeiliche Zentralstellen des Bundes, der Strafprozessordnung[^61-5] und dem Bundesgesetz vom 23. Dezember 2011[^61-6] über den ausserprozessualen Zeugenschutz im Abrufverfahren Zugriff auf die Daten der DEWA, der DEBBWA, der DAWA, der DANTRAG und des gemeinsamen harmonisierten Informationssystems über den Erwerb und den Besitz von Feuerwaffen.
 
 <sup>4</sup> Den kantonalen Strafverfolgungsbehörden kann zur Erfüllung ihrer Aufgaben nach der Strafprozessordnung im Abrufverfahren Zugriff auf die Daten der DEWA, der DEBBWA, der DAWA der DANTRAG und des gemeinsamen harmonisierten Informationssystems über den Erwerb und den Besitz von Feuerwaffen gewährt werden.
 
 <sup>5</sup> Auf die Daten der DEWS darf nur die Zentralstelle Waffen zugreifen.
 
-<sup>5bis</sup> Die Behörden, die für die Erteilung von Bewilligungen nach dem WG zuständig sind, dürfen bis 10 Jahre nach Vernichtung der Waffe auf die Daten der elektronischen Informationssysteme über den Erwerb und den Besitz von Feuerwaffen und des gemeinsamen harmonisierten Informationssystems über den Erwerb und den Besitz von Feuerwaffen zugreifen. Die Behörden, die im Bereich der Prävention von Straftaten oder der Verfolgung von Straftaten tätig sind, dürfen bis zur Löschung darauf zugreifen.[^61-5]
+<sup>5bis</sup> Die Behörden, die für die Erteilung von Bewilligungen nach dem WG zuständig sind, dürfen bis 10 Jahre nach Vernichtung der Waffe auf die Daten der elektronischen Informationssysteme über den Erwerb und den Besitz von Feuerwaffen und des gemeinsamen harmonisierten Informationssystems über den Erwerb und den Besitz von Feuerwaffen zugreifen. Die Behörden, die im Bereich der Prävention von Straftaten oder der Verfolgung von Straftaten tätig sind, dürfen bis zur Löschung darauf zugreifen.[^61-7]
 
 <sup>6</sup> Die Einzelheiten der Zugriffsrechte sind in Anhang 3 geregelt.
 
 [^61-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^61-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^61-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^61-4]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^61-5]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 14. Dez. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^61-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^61-3]: Eingefügt durch Anhang 2 Ziff. 9 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^61-4]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^61-5]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^61-6]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^61-7]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 14. Dez. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 62
 
@@ -1926,7 +1930,7 @@ Die Aufhebung und die Änderung bisherigen Rechts werden in Anhang 4 geregelt.
 
 Diese Verordnung tritt am 12. Dezember 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 55)
 
@@ -1996,7 +2000,7 @@ Für die Behandlung von Bewilligungsgesuchen und für das Aufbewahren von beschl
 <tr><td>[tab]</td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 1 und 26 Abs. 1 Bst. c)
 
@@ -2011,13 +2015,13 @@ Als Reizstoffe gelten:
 - c. CN (ω-Chloracetophenon);
 - d. CR (Dibenz(b,f)-1,4-oxazepin).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 61 Abs. 6)
 
 ## Zugriffsrechte
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 14. Juni 2019, in Kraft seit 14. Dez. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 14. Juni 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Bereinigt gemäss Anhang 2 Ziff. 9 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353))
 
 A = Abfrage online
 
@@ -2041,6 +2045,7 @@ leer = kein Zugriff
 <table>
 <tr><th></th><th>DEWA</th><th>DEWS</th><th>DEBBWA</th><th>DAWA</th><th>DARUE</th><th>DANTRAG</th><th>Informationssystem nach Art. 32*a* Abs. 3 WG</th></tr>
 <tr><td>Zentralstelle Waffen</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>Aa</td></tr>
+<tr><td>Zentralstelle Explosivstoffe</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 </table>
 
 ### Informatik-Leistungserbringer fedpol
