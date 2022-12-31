@@ -3,11 +3,11 @@ sr: "0.814.295"
 title: Convention internationale de 2001 du 5 octobre 2001 sur le contrôle des systèmes antisalissure nuisibles sur les navires (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/889"
 language: fr
-version: 2019-08-21
+version: 2023-01-01
 adopted: 2001-10-05
 in_force: 2013-12-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20190821/fr/xml/fedlex-data-admin-ch-eli-cc-2013-889-20190821-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20190821/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/889/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-889-20230101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/889/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 24 septembre 2013
 
 Entrée en vigueur pour la Suisse le 24 décembre 2013
 
-(Etat le 21 août 2019)
+(État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Art. 1 al. 1 let. c de l’AF du 22 mars 2013 ([RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886))
 
@@ -400,409 +400,11 @@ La présente Convention est établie en un seul exemplaire original en langues a
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont signé la présente Convention. Fait à Londres, ce cinq octobre deux mille un. (Suivent les signatures)
 
-Annexe 1
+Annexes 1 à 4[^t-2]
 
-## Mesures de contrôle des systèmes antisalissure
+[^t-2]: Les annexes et leurs amendements ne sont plus publiés dans le RO et le RS ([RO 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Les textes en anglais peuvent être consultés sur le site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Ils y sont mis à jour dans les résolutions du comité compétent de l’OMI. Les textes français ainsi qu’une version anglaise consolidée peuvent être consultés auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
-<table>
-<tr><td>Système antisalissure</td><td>Mesures de contrôle</td><td>Application</td><td>Date à laquelle la mesure prend effet</td></tr>
-<tr><td>Composés organostanniques agissant en tant que biocides dans les systèmes antisalissure</td><td>Les navires ne doivent pas appliquer ni réappliquer ces composés</td><td>Tous les navires</td><td>1<sup>er</sup> janvier 2003</td></tr>
-<tr><td>Composés organostanniques agissant en tant que biocides dans les systèmes antisalissure</td><td>Les navires: soit 1. ne doivent pas avoir de tels composés sur leur coque ou sur leurs parties ou surfaces extérieures; soit 2. doivent avoir un revêtement qui forme une protection empêchant la lixiviation des composés provenant des systèmes antisalissure sousjacents non conformes</td><td>Tous les navires (à l’exception des plates‑formes fixes et flottantes, des FSU et des FPSO qui ont été construites avant le 1<sup>er</sup> janvier 2003 et qui ne sont pas passées en cale sèche le 1<sup>er</sup> janvier 2003 ou après cette date)</td><td>1<sup>er</sup> janvier 2008</td></tr>
-</table>
-
-Annexe 2
-
-## Éléments à inclure dans une proposition initiale
-
-<sup>1</sup> Une proposition initiale doit comprendre une documentation adéquate contenant au moins ce qui suit:
-
-- a) l’identification du système antisalissure visé dans la proposition: désignation du système antisalissure; nom des ingrédients actifs et, le cas échéant, numéro de registre des Chemical Abstract Services (numéro CAS), ou composants du système dont on soupçonne qu’ils causent des effets défavorables préoccupants;
-- b) la caractérisation des renseignements qui laissent penser que le système antisalissure ou ses produits de transformation peuvent présenter un risque pour la santé de l’homme ou causer des effets défavorables chez les organismes non ciblés aux concentrations susceptibles d’être constatées dans l’environnement, (par exemple résultats des études de toxicité sur des espèces représentatives ou données relatives à la bioaccumulation);
-- c) des preuves du risque d’apparition de composants toxiques du système antisalissure ou de ses produits de transformation dans l’environnement à des concentrations qui pourraient entraîner des effets défavorables chez des organismes non ciblés, sur la santé de l’homme ou sur la qualité de l’eau (par exemple données sur la persistance dans la colonne d’eau, les sédiments et le biote; taux de libération de composants toxiques des surfaces traitées mesuré dans le cadre d’études ou dans des conditions réelles d’utilisation; ou données rassemblées dans le cadre d’un programme de surveillance, (le cas échéant);
-- d) une analyse du lien entre le système antisalissure, les effets défavorables produits, et les concentrations observées ou attendues dans l’environnement, et
-- e) une recommandation préliminaire sur le type de restrictions qui pourraient être efficaces pour réduire les risques liés au système antisalissure.
-
-<sup>2</sup> Une proposition initiale doit être soumise conformément aux règles et procédures établies par l’Organisation.
-
-Annexe 3
-
-## Éléments à inclure dans une proposition détaillée
-
-<sup>1</sup> Une proposition détaillée doit comprendre une documentation adéquate contenant ce qui suit:
-
-- a) les éléments nouveaux par rapport aux données citées dans la proposition initiale;
-- b) les conclusions tirées des catégories de données énumérées aux al. 3 a), b) et c) selon le cas, en fonction du sujet de la proposition et l’identification ou la description des méthodes qui ont servi à l’établissement des données;
-- c) un résumé des résultats des études effectuées sur les effets défavorables du système antisalissure;
-- d) un résumé des résultats de tout programme de surveillance qui aurait pu être exécuté, y compris des renseignements sur le trafic maritime dans la zone surveillée et une description générale de cette zone;
-- e) un résumé des données disponibles sur l’exposition environnementale ou écologique et les estimations des concentrations dans l’environnement que l’on aurait pu obtenir en appliquant des modèles mathématiques utilisant tous les paramètres disponibles du devenir dans l’environnement, et de préférence ceux qui ont été déterminés expérimentalement, ainsi qu’une identification ou description de la méthode de modélisation;
-- f) une évaluation du lien entre le système antisalissure en question, les effets défavorables produits, et les concentrations observées ou prévues dans l’environnement;
-- g) une indication qualitative du degré d’incertitude de l’évaluation visée à l’al. f);
-- h) les mesures de contrôle spécifiques recommandées en vue de réduire les risques liés au système antisalissure, et
-- i) un résumé des résultats des études disponibles sur les effets potentiels des mesures de contrôle recommandées eu égard à la qualité de l’air, aux conditions dans les chantiers navals, aux transports maritimes internationaux et autres secteurs intéressés, ainsi que sur les solutions de rechange appropriées qui pourraient exister.
-
-<sup>2</sup> Une proposition détaillée doit comporter également des renseignements sur chacune des propriétés physiques et chimiques suivantes du ou des composants préoccupants, le cas échéant:
-
-- – point de fusion;
-- – point d’ébullition;
-- – densité (densité relative);
-- – pression de vapeur;
-- – hydrosolubilité /pH / constante de dissociation (pKa);
-- – potentiel d’oxydation/de réduction;
-- – masse moléculaire;
-- – structure moléculaire, et
-- – autres propriétés physiques et chimiques identifiées dans la proposition initiale.
-
-<sup>3</sup> Aux fins de l’al. 1) b) ci-dessus, les catégories de données sont les suivantes:
-
-- a)
-
-  Les données sur le devenir dans l’environnement et les effets sur l’environnement:
-
-  - – modes de dégradation/dissipation (par exemple hydrolyse/photodégradation/biodégradation);
-  - – persistance dans les milieux pertinents (par exemple colonne d’eau/ sédiments/biote);
-  - – partage sédiments/eau;
-  - – taux de lixiviation des biocides ou ingrédients actifs;
-  - – bilan de masse;
-  - – bioaccumulation, coefficient de partage, coefficient octanol/eau, et
-  - – toutes réactions nouvelles provoquées par la libération ou tous effets interactifs connus.
-
-- b)
-
-  Les données concernant les effets involontaires sur les plantes aquatiques, les invertébrés, les poissons, les oiseaux de mer, les mammifères marins, les espèces menacées d’extinction, d’autres biotes, la qualité de l’eau, les fonds marins ou l’habitat d’organismes non ciblés, y compris des organismes vulnérables et représentatifs:
-
-  - – toxicité aiguë;
-  - – toxicité chronique;
-  - – toxicité au niveau du développement et de la reproduction;
-  - – troubles endocriniens;
-  - – toxicité des sédiments;
-  - – biodisponibilité/bioamplification/bioconcentration;
-  - – réseau alimentaire/effets sur les populations;
-  - – observations d’effets défavorables sur le terrain/poissons morts/ échoués/analyse des tissus, et
-  - – résidus dans les aliments d’origine marine.
-
-- Ces données doivent concerner un ou plusieurs types d’organismes non ciblés, tels que les plantes aquatiques, les invertébrés, les poissons, les oiseaux, les mammifères et les espèces menacées d’extinction.
-- c) Les données concernant l’ampleur possible des effets sur la santé de l’homme (y compris, sans toutefois s’y limiter, en cas de consommation d’aliments d’origine marine affectés).
-
-<sup>4</sup> Une proposition détaillée doit comprendre une description des méthodologies utilisées ainsi que de toutes mesures pertinentes prises aux fins de l’assurance de la qualité et de tout examen des études effectué par des spécialistes.
-
-Annexe 4
-
-## Prescriptions en matière de visites et de délivrance des certificats applicables aux systèmes antisalissure
-
-#### Règle 1
-
-**Visites**
-
-<sup>1</sup>
-
-Les navires d’une jauge brute égale ou supérieure à 400 visés à l’art. 3 1) a), qui effectuent des voyages internationaux, à l’exclusion des plates-formes fixes ou flottantes, des FSU et des FPSO, doivent être soumis aux visites spécifiées ci-après:
-
-- a) une visite initiale effectuée avant la mise en service du navire ou avant que le certificat international du système antisalissure (le certificat) prescrit en vertu des règles 2 ou 3 ne soit délivré pour la première fois, et
-- b) une visite effectuée lors du changement ou du remplacement des systèmes antisalissure. Ces visites doivent être portées sur le certificat délivré en vertu des règles 2 ou 3.
-
-<sup>2</sup> La visite doit permettre de garantir que le système antisalissure du navire satisfait pleinement à la présente Convention.
-
-<sup>3</sup> L’Administration doit établir les mesures appropriées à appliquer aux navires qui ne sont pas soumis aux dispositions du par. 1) de la présente règle, pour garantir le respect de la présente Convention.
-
-- <sup>4</sup> a) En ce qui concerne la mise en application de la présente Convention, les visites de navires doivent être effectuées par des fonctionnaires dûment autorisés par l’Administration ou de la manière prévue à la règle 3 1), compte tenu des directives sur les visites élaborées par l’Organisation[^annex4-lvlu1-1-1]. L’Administration peut aussi confier les visites prescrites par la présente Convention soit à des inspecteurs désignés à cet effet, soit à des organismes reconnus par elle.
-- b)
-
-  Une Administration qui désigne des inspecteurs ou des organismes reconnus[^annex4-lvlu1-1-2] pour effectuer des visites doit au moins habiliter tout inspecteur désigné ou tout organisme reconnu à:
-
-  - i) exiger qu’un navire soumis à une visite satisfasse aux dispositions de l’Annexe 1, et
-  - ii) effectuer des visites si les autorités compétentes d’un État du port qui est Partie à la présente Convention le lui demandent.
-
-- c) Lorsque l’Administration, un inspecteur désigné ou un organisme reconnu détermine que le système antisalissure du navire ne correspond pas aux indications du certificat prescrit en vertu des règles 2 ou 3 ou aux prescriptions de la présente Convention, l’Administration, l’inspecteur ou l’organisme doit veiller immédiatement à ce que des mesures correctives soient prises pour rendre le navire conforme. L’inspecteur ou l’organisme doit également en informer l’Administration en temps utile. Si les mesures correctives requises ne sont pas prises, l’Administration doit être informée sur-le-champ et faire en sorte que le certificat ne soit pas délivré ou soit retiré, selon le cas.
-- d) Dans la situation décrite à l’al. c), si le navire se trouve dans un port d’une autre Partie, les autorités compétentes de l’État du port doivent être informées sur-le-champ. Lorsque l’Administration, un inspecteur désigné ou un organisme reconnu a informé les autorités compétentes de l’État du port, le gouvernement de l’État du port intéressé doit prêter à l’Administration, à l’inspecteur ou à l’organisme en question toute l’assistance nécessaire pour lui permettre de s’acquitter de ses obligations en vertu de la présente règle, y compris de prendre les mesures décrites aux art. 11 ou 12.
-
-[^annex4-lvlu1-1-1]: Directives à élaborer.
-[^annex4-lvlu1-1-2]: Se reporter aux directives que l’Organisation a adoptées par la résolution A.739(18), telles qu’elles pourraient être modifiées par l’Organisation et aux spécifications que l’Organisation a adoptées par la résolution A.789(19), telles qu’elles pourraient être modifiées par l’Organisation.
-
-#### Règle 2
-
-**Délivrance d’un certificat international du système antisalissure ou apposition d’un visa**
-
-<sup>1</sup> L’Administration doit exiger qu’un certificat soit délivré à tout navire auquel s’applique la règle 1 et qui a subi avec succès une visite conformément à la règle 1. Un certificat délivré sous l’autorité d’une Partie doit être accepté par les autres Parties et être considéré, à toutes les fins visées par la présente Convention, comme ayant la même valeur qu’un certificat délivré par elles.
-
-<sup>2</sup> Les certificats doivent être délivrés ou visés soit par l’Administration, soit par tout agent ou organisme dûment autorisé par elle. Dans tous les cas, l’Administration assume l’entière responsabilité du certificat.
-
-<sup>3</sup> Dans le cas des navires dotés d’un système antisalissure soumis à une mesure de contrôle en vertu de l’Annexe 1, lequel a été appliqué avant la date d’entrée en vigueur de cette mesure de contrôle, l’Administration doit délivrer un certificat conformément aux par. 2) et 3) de la présente règle au plus tard deux ans après l’entrée en vigueur de la mesure de contrôle. Le présent paragraphe ne porte pas atteinte à l’obligation qu’a un navire de satisfaire à l’Annexe 1.
-
-<sup>4</sup> Le certificat doit être établi selon le modèle qui figure à l’appendice 1 de la présente Annexe et être rédigé au moins en anglais, en français ou en espagnol. Si une langue officielle de l’État qui le délivre est également utilisée, celle-ci prévaut en cas de différend ou de désaccord.
-
-#### Règle 3
-
-**Délivrance d’un certificat international du système antisalissure ou apposition d’un visa par une autre Partie**
-
-<sup>1</sup> À la demande de l’Administration, une autre Partie peut soumettre un navire à une visite et, si elle estime qu’il satisfait à la présente Convention, elle lui délivre un certificat ou en autorise la délivrance et, selon le cas, appose un visa ou autorise l’apposition d’un visa sur ce certificat, conformément à la présente Convention.
-
-<sup>2</sup> Une copie du certificat et une copie du rapport de visite doivent être adressées dès que possible à l’Administration qui a fait la demande.
-
-<sup>3</sup> Un certificat ainsi délivré doit comporter une déclaration indiquant qu’il a été délivré à la demande de l’Administration visée au par. 1); il a la même valeur qu’un certificat délivré par l’Administration, et doit être reconnu comme tel.
-
-<sup>4</sup> Il ne doit pas être délivré de certificat à un navire qui est autorisé à battre le pavillon d’un État non Partie.
-
-#### Règle 4
-
-**Validité d’un certificat international du système antisalissure**
-
-<sup>1</sup>
-
-Un certificat délivré en vertu des règles 2 ou 3 cesse d’être valable dans l’un ou l’autre des cas suivants:
-
-- a) si le système antisalissure est modifié ou remplacé et le certificat n’est pas visé conformément à la présente Convention, ou
-- b) si un navire passe sous le pavillon d’un autre État. Un nouveau certificat ne doit être délivré que si la Partie qui le délivre a la certitude que le navire satisfait à la présente Convention. Dans le cas d’un transfert de pavillon entre Parties, si la demande lui en est faite dans un délai de trois mois à compter du transfert, la Partie dont le navire était autorisé précédemment à battre le pavillon adresse dès que possible à l’Administration une copie des certificats dont le navire était muni avant le transfert, ainsi qu’une copie des rapports de visite pertinents, le cas échéant.
-
-<sup>2</sup> La délivrance par une Partie d’un nouveau certificat à un navire transféré d’une autre Partie peut être effectuée sur la base d’une nouvelle visite ou d’un certificat en cours de validité délivré par la Partie dont le navire était précédemment autorisé à battre le pavillon.
-
-#### Règle 5
-
-**Déclaration relative au système antisalissure**
-
-<sup>1</sup> L’Administration doit exiger qu’un navire d’une longueur égale ou supérieure à 24 mètres mais d’une jauge brute inférieure à 400 qui effectue des voyages internationaux et auquel s’applique l’art. 3 1) a) (à l’exclusion des plates-formes fixes ou flottantes, des FSU et des FPSO) soit muni d’une déclaration, signée par le propriétaire ou son agent autorisé. Cette déclaration doit être accompagnée de la documentation appropriée (par exemple un reçu pour la peinture ou une facture d’entreprise) ou contenir une attestation satisfaisante.
-
-<sup>2</sup> La déclaration doit être établie selon le modèle qui figure à l’appendice 2 de la présente Annexe et être rédigée au moins en anglais, en français ou en espagnol. Si une langue officielle de l’État dont le navire est autorisé à battre le pavillon est également utilisée, celle-ci prévaut en cas de différend ou de désaccord.
-
-Appendice 1 de l’annexe 4
-
-## Modèle du certificat international du système antisalissure
-
-**Certificat international du système antisalissure**
-
-(Le présent certificat doit être complété par une fiche de systèmes antisalissure)
-
-<table>
-<tr><td>(Cachet officiel)</td><td>(État)</td></tr>
-</table>
-
-***Délivré en vertu*** **de la Convention internationale sur le contrôle des systèmes antisalissure nuisibles sur les nav****i****res**
-
-*sous l’autorité du Gouvernement*
-
-<table>
-<tr><td></td><td>……………………………………………</td><td></td></tr>
-</table>
-
-*(Nom de l’État)*
-
-par
-
-<table>
-<tr><td></td><td>……………………………………………</td><td></td></tr>
-</table>
-
-*(Personne ou organisme autorisé)*
-
-Lorsqu’un certificat a été délivré précédemment, le présent certificat remplace le certificat délivré le ………………………………………… .
-
-**Caractéristiques du navire**<sup>1</sup>
-
-Nom du navire …….………….…………………………………………………………………
-
-Numéro ou lettres distinctifs …….……..…….…………………………………………………
-
-Port d’immatriculation ………………………………………………….………………………
-
-Jauge brute …………….………….………………………….….………………………………
-
-Numéro OMI<sup>2</sup> ……………………………….….…………….…………………………………
-
-Un système antisalissure soumis à une mesure de contrôle en vertu de l’Annexe 1 n’a pas été appliqué pendant ou après la construction du navire ………………………………………… [F0A3]
-
-<table>
-<tr><td><sup>1</sup></td><td>Les caractéristiques du navire peuvent aussi être présentées horizontalement dans des cases.</td></tr>
-<tr><td><sup>2</sup></td><td>Conformément au Système de numéros OMI d’identification des navires que l’Organisation a adopté par la résolution A.600(15) de l’Assemblée.</td></tr>
-</table>
-
-Un système antisalissure soumis à une mesure de contrôle en vertu de l’Annexe 1 a été appliqué précédemment sur le navire, mais a été enlevé par …………………………….……… (*nom de l’installation*) le ………………………………… (*date*) ……………………………… ………………………………………………………………………………………………… [F0A3]
-
-Un système antisalissure soumis à une mesure de contrôle en vertu de l’Annexe 1 a été appliqué précédemment sur le navire, mais a été recouvert d’un revêtement isolant appliqué par………………………………………… (*nom de l’installation*) le ……………………… (*date*)……………………….……………………………………………………………….… [F0A3]
-
-Un système antisalissure soumis à une mesure de contrôle en vertu de l’Annexe 1 a été appliqué sur le navire avant le ………………………… (*date*)<sup>3</sup>, mais doit être enlevé ou recouvert d’un revêtement isolant avant le ……………………. (*date*)<sup>4</sup> ………………….……….…… [F0A3]
-
-**Il est certifié:**
-
-\1. que le navire a été soumis à une visite conformément à la règle 1 de l’Annexe 4 de la Convention, et
-
-\2. qu’à la suite de cette visite, il a été constaté que le système antisalissure utilisé sur le navire satisfaisait aux prescriptions applicables de l’Annexe 1 de la Convention.
-
-Délivré à ….………………………………………………………………………………………
-
-(*Lieu de délivrance du certificat*)
-
-Le ………………………… …………………………………………………………………
-
-(*Date de délivrance*) (*Signature de l’agent autorisé qui délivre le certificat*)
-
-Date d’achèvement de la visite à la suite de laquelle le présent certificat est délivré: …………………………………………..………
-
-<table>
-<tr><td><sup>3</sup></td><td>Date de l’entrée en vigueur de la mesure de contrôle.</td></tr>
-<tr><td><sup>4</sup></td><td>Date d’expiration de toute période spécifiée à l’art. 4 2) ou à l’Annexe 1.</td></tr>
-</table>
-
-## Modèle de la fiche de systèmes antisalissure
-
-**Fiche de systèmes antisalissure**
-
-(La présente fiche doit être jointe en permanence au certificat international du système antisalissure)
-
-**Caractéristiques du navire**
-
-Nom du navire ……….……………………….…………………………………………………
-
-Numéro ou lettres distincifs …….………………………………………………………………
-
-Numéro OMI ………………………………….…………………………………………………
-
-*Détails du ou des systèmes antisalissure appliqués* ……….……….…….………………………
-
-Type(s) de système(s) antisalissure utilisé(s) ……………………………………………………
-
-……………………………………………………………………………………………………
-
-Date(s) d’application du ou des systèmes antisalissure ……………….…………………………
-
-……………………………………………………………………………………………………
-
-Nom(s) de la ou des compagnies et installations/lieu(x) où a été effectuée l’application ……………………………………………………………………………………………………
-
-……………………………………………………………………………………………………
-
-Nom(s) du ou des fabricants du ou des systèmes antisalissure …………………………………
-
-……………………………………………………………………………………………………
-
-Nom(s) et couleur(s) du ou des systèmes antisalissure …………………………………………
-
-……………………………………………………………………………………………………
-
-Ingrédient(s) actif(s) et leur(s) numéro(s) de registre des Chemical Abstract Services (numéro(s) CAS) ………………………………………………………………………………………
-
-……………………………………………………………………………………………………
-
-Type(s) de revêtement isolant, le cas échéant ……………………………………………………
-
-Nom(s) et couleur(s) du revêtement isolant appliqué, le cas échéant ……………………………
-
-……………………………………………………………………………………………………
-
-Date d’application du revêtement isolant ………………………………………………………
-
-**Il est certifié** que la présente fiche est correcte à tous égards.
-
-Délivrée à ……………………………………………………………………………………….
-
-(*Lieu de délivrance de la fiche*)
-
-Le …………………… …………………………………………………………………….
-
-(*Date de délivrance*) (*Signature de l’agent autorisé qui délivre la fiche*)
-
-**Visa de la fiche**<sup>5</sup>
-
-**Il est certifié** que, lors d’une visite prescrite conformément à la règle 1 1) b) de l’Annexe 4 de la Convention, il a été constaté que le navire satisfaisait à la Convention.
-
-*Détails du ou des systèmes antisalissure appliqués*
-
-Type(s) de système(s) antisalissure utilisé(s) ……………………………………………………
-
-Date(s) d’application du ou des systèmes antisalissure ………………………………………….
-
-Nom(s) de la ou des compagnies et installations/lieu(x) où a été effectuée l’application ……………………………………………………………………………………………………
-
-……………………………………………………………………………………………………
-
-Nom(s) du ou des fabricants du ou des systèmes antisalissure …………………………………
-
-Nom(s) et couleur(s) du ou des systèmes antisalissure ………………………………………….
-
-Ingrédient(s) actif(s) et leur(s) numéro(s) de registre des Chemical Abstract Services (numéro(s) CAS) ……………………………………………………………………………………………………
-
-……………………………………………………………………………………………………
-
-Type(s) de revêtement isolant, le cas échéant ……………………………………………………
-
-Nom(s) et couleur(s) du revêtement isolant appliqué, le cas échéant …………………………..
-
-Date d’application du revêtement isolant ………………………………………………………
-
-Signé: …………………………………………………………………………………………….
-
-(*Signature de l’agent autorisé qui délivre la fiche*)
-
-Lieu: …….……………………………………………………………………………………….
-
-Date<sup>6</sup>: ……….………………….…………………………………………………………………
-
-(*Cachet ou tampon de l’autorité*)
-
-<table>
-<tr><td><sup>5</sup></td><td>La présente page de la fiche doit être reproduite et ajoutée à la fiche, si l’Administration le juge nécessaire.</td></tr>
-<tr><td><sup>6</sup></td><td>Date de l’achèvement de la visite à la suite de laquelle le présent visa est établi.</td></tr>
-</table>
-
-Appendice 2 de l’annexe 4
-
-## Modèle de déclaration relative au système antisalissure
-
-**Déclaration relative au système antisalissure**
-
-***Établie en vertu de la*** **Convention internationale sur le contrôle des systèmes antisalissure nuisibles sur les navires**
-
-Nom du navire …….…………….………………………………………………………………
-
-Numéro ou lettres distinctifs ………….………………………………………………………
-
-Port d’immatriculation .…………………………………………………………………………
-
-Longueur …………………………………………………………………………………………
-
-Jauge brute …………….….………..……………………………………………………………
-
-Numéro OMI (le cas échéant) …………….…………………….………………………………
-
-Je déclare que le système antisalissure utilisé sur le navire satisfait à l’Annexe 1 de la Convention.
-
-<table>
-<tr><td>……………….……</td><td>…………………………………………………………………………..</td></tr>
-</table>
-
-(*Date*) (*Signature du propriétaire ou de son agent autorisé*)
-
-*Attestation du/des système(s) antisalissure appliqué(s*)
-
-Type(s) de système(s) antisalissure utilisé(s) et date(s) d’application. …………….……………
-
-………………………………………………………….…………………………………………
-
-<table>
-<tr><td>……………….……</td><td>…………………………………………………………………………..</td></tr>
-</table>
-
-(*Date*) (*Signature du propriétaire ou de son agent autorisé*)
-
-Type(s) de système(s) antisalissure utilisé(s) et date(s) d’application. …………….……………
-
-……………………………….……………………………………………………………………
-
-<table>
-<tr><td>……………….……</td><td>…………………………………………………………………………..</td></tr>
-</table>
-
-(*Date*) (*Signature du propriétaire ou de son agent autorisé*)
-
-Type(s) de système(s) antisalissure utilisé(s) et date(s) d’application. …………….……………
-
-…………………………………………………………………………….………………………
-
-<table>
-<tr><td>……………….……</td><td>…………………………………………………………………………..</td></tr>
-</table>
-
-(*Date*) (*Signature du propriétaire ou de son agent autorisé*)
-
-Champ d’application le 21 août 2019**[^t-2]**
+Champ d’application le 21 août 2019[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -827,12 +429,12 @@ Champ d’application le 21 août 2019**[^t-2]**
 <tr><td>Congo (Kinshasa)</td><td>19 mai</td><td>2014</td><td>19 août</td><td>2014</td></tr>
 <tr><td>Corée (Sud)</td><td>24 juillet</td><td>2008 A</td><td>24 octobre</td><td>2008</td></tr>
 <tr><td>Croatie</td><td>2 décembre</td><td>2006 A</td><td>17 septembre</td><td>2008</td></tr>
-<tr><td>Danemark<sup>\*</sup> <sup>a</sup></td><td>19 février</td><td>2003 Si</td><td>17 septembre</td><td>2008</td></tr>
+<tr><td>Danemark\* <sup>a</sup></td><td>19 février</td><td>2003 Si</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Îles Féroé</td><td>4 juin</td><td>2010</td><td>4 juin</td><td>2010</td></tr>
-<tr><td>Égypte<sup>\*</sup></td><td>26 septembre</td><td>2012 A</td><td>26 décembre</td><td>2012</td></tr>
+<tr><td>Égypte\*</td><td>26 septembre</td><td>2012 A</td><td>26 décembre</td><td>2012</td></tr>
 <tr><td>Espagne</td><td>16 février</td><td>2004 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Estonie</td><td>23 janvier</td><td>2009 A</td><td>23 avril</td><td>2009</td></tr>
-<tr><td>États-Unis<sup>\*</sup></td><td>21 août</td><td>2012</td><td>21 novembre</td><td>2012</td></tr>
+<tr><td>États-Unis\*</td><td>21 août</td><td>2012</td><td>21 novembre</td><td>2012</td></tr>
 <tr><td>Éthiopie</td><td>14 juillet</td><td>2009 A</td><td>14 octobre</td><td>2009</td></tr>
 <tr><td>Fidji</td><td>8 mars</td><td>2016 A</td><td>8 juin</td><td>2016</td></tr>
 <tr><td>Finlande</td><td>9 juillet</td><td>2010</td><td>9 juillet</td><td>2010</td></tr>
@@ -847,7 +449,7 @@ Champ d’application le 21 août 2019**[^t-2]**
 <tr><td>Îles Marshall</td><td>9 mai</td><td>2008 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Inde</td><td>24 avril</td><td>2015</td><td>27 juillet</td><td>2015</td></tr>
 <tr><td>Indonésie</td><td>11 septembre</td><td>2014 A</td><td>11 décembre</td><td>2014</td></tr>
-<tr><td>Iran<sup>\*</sup></td><td>6 avril</td><td>2011 A</td><td>6 juillet</td><td>2011</td></tr>
+<tr><td>Iran\*</td><td>6 avril</td><td>2011 A</td><td>6 juillet</td><td>2011</td></tr>
 <tr><td>Irlande</td><td>20 octobre</td><td>2011 A</td><td>20 janvier</td><td>2012</td></tr>
 <tr><td>Italie</td><td>21 janvier</td><td>2013 A</td><td>21 avril</td><td>2013</td></tr>
 <tr><td>Japon</td><td>8 juillet</td><td>2003 A</td><td>17 septembre</td><td>2008</td></tr>
@@ -872,7 +474,7 @@ Champ d’application le 21 août 2019**[^t-2]**
 <tr><td>Oman</td><td>6 mars</td><td>2019 A</td><td>6 juin</td><td>2019</td></tr>
 <tr><td>Palaos</td><td>28 septembre</td><td>2011 A</td><td>28 décembre</td><td>2011</td></tr>
 <tr><td>Panama</td><td>17 septembre</td><td>2007 A</td><td>17 septembre</td><td>2008</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>16 avril</td><td>2008 A</td><td>17 septembre</td><td>2008</td></tr>
+<tr><td>Pays-Bas\*</td><td>16 avril</td><td>2008 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Pérou</td><td>2 juillet</td><td>2019 A</td><td>2 octobre</td><td>2019</td></tr>
 <tr><td>Philippines</td><td>6 juin</td><td>2018 A</td><td>6 septembre</td><td>2018</td></tr>
@@ -891,7 +493,7 @@ Champ d’application le 21 août 2019**[^t-2]**
 <tr><td>Slovénie</td><td>18 mai</td><td>2007 A</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Suède</td><td>10 décembre</td><td>2003</td><td>17 septembre</td><td>2008</td></tr>
 <tr><td>Suisse</td><td>24 septembre</td><td>2013 A</td><td>24 décembre</td><td>2013</td></tr>
-<tr><td>Syrie<sup>\*</sup></td><td>24 avril</td><td>2009 A</td><td>24 juillet</td><td>2009</td></tr>
+<tr><td>Syrie\*</td><td>24 avril</td><td>2009 A</td><td>24 juillet</td><td>2009</td></tr>
 <tr><td>Togo</td><td>6 février</td><td>2017 A</td><td>6 mai</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>16 avril</td><td>2014 A</td><td>16 juillet</td><td>2014</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>3 janvier</td><td>2012</td><td>3 avril</td><td>2012</td></tr>
@@ -902,7 +504,7 @@ Champ d’application le 21 août 2019**[^t-2]**
 <tr><td>Uruguay</td><td>26 mars</td><td>2013 A</td><td>26 juin</td><td>2013</td></tr>
 <tr><td>Vanuatu</td><td>20 août</td><td>2008</td><td>20 novembre</td><td>2008</td></tr>
 <tr><td>Vietnam</td><td>27 novembre</td><td>2015 A</td><td>27 février</td><td>2015</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groënland.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](https://www.imo.org/) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groënland.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889), [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402), [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476), [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2013 5543](https://fedlex.data.admin.ch/eli/oc/2013/889); [2016 2555](https://fedlex.data.admin.ch/eli/oc/2016/402); [2018 3033](https://fedlex.data.admin.ch/eli/oc/2018/476); [2019 2705](https://fedlex.data.admin.ch/eli/oc/2019/510). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
