@@ -4,13 +4,13 @@ number: "762.413"
 title: Verordnung über die regionalen Verkehrskonferenzen
 short: RVKV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/762.413"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2418/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2763/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2418/pdf_file"
 
 (RVKV)
 
-vom 24.10.2007 (Stand 01.01.2022)
+vom 24.10.2007 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -160,7 +160,7 @@ Aefligen, Affoltern im Emmental, Alchenstorf, Arni (BE) (bis spätestens 31.12.2
 
 <sup>1</sup> Gemeinden der RVK 4 / Regionalkonferenz Bern- Mittelland:
 
-Allmendingen, Arni (BE) (spätestens ab 1.1.2010)[^A14-1], Bangerten (bis spätestens 31.12.2009), Bäriswil, Bätterkinden (bis spätestens 31.12.2009), Belp, Bern, Biglen (spätestens ab 1.1.2010)[^A14-2], Bolligen, Bowil (spätestens ab 1.1.2010)[^A14-3], Bremgarten bei Bern, Brenzikofen (spätestens ab 1.1.2010)[^A14-4], Deisswil bei Münchenbuchsee, Diemerswil, Ferenbalm, Fraubrunnen, Frauenkappelen, Freimettigen (spätestens ab 1.1.2010)[^A14-5], Gerzensee, Grosshöchstetten (spätestens ab 1.1.2010)[^A14-6], Guggisberg, Gurbrü, Häutligen (spätestens ab 1.1.2010)[^A14-7], Herbligen (spätestens ab 1.1.2010)[^A14-8], Hindelbank (bis spätestens 31.12.2009), Iffwil, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kernenried (bis spätestens 31.12.2009), Kiesen, Kirchdorf (BE), Kirchlindach, Köniz, Konolfingen (spätestens ab 1.1.2010)[^A14-9], Krauchthal (bis spätestens 31.12.2009), Kriechenwil, Landiswil (spätestens ab 1.1.2010)[^A14-10], Laupen, Linden (spätestens ab 1.1.2010)[^A14-11], Mattstetten, Meikirch, Mirchel (spätestens ab 1.1.2010)[^A14-12], Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Münsingen, Muri bei Bern, Neuenegg, Niederhünigen (spätestens ab 1.1.2010)[^A14-13], Niedermuhlern, Oberbalm, Oberdiessbach (spätestens ab 1.1.2010)[^A14-14], Oberhünigen (spätestens ab 1.1.2010)[^A14-15], Oberthal (spätestens ab 1.1.2010)[^A14-16], Oppligen, Ostermundigen, Rapperswil (BE) (bis spätestens 31.12.2009), Riggisberg, Rubigen, Rüeggisberg, Rüschegg, Schüpfen (bis spätestens 31.12.2009), Schwarzenburg, Stettlen, Thurnen, Toffen, Urtenen-Schönbühl, Vechigen, Wald (BE), Walkringen (spätestens ab 1.1.2010)[^A14-17], Wichtrach, Wiggiswil, Wileroltigen, Wohlen bei Bern, Worb, Zäziwil (spätestens ab 1.1.2010)[^A14-18], Zollikofen, Zuzwil (BE).
+Allmendingen, Arni (BE) (spätestens ab 1.1.2010)[^A14-1], Bangerten (bis spätestens 31.12.2009), Bäriswil, Bätterkinden (bis spätestens 31.12.2009), Belp, Bern, Biglen (spätestens ab 1.1.2010)[^A14-2], Bolligen, Bowil (spätestens ab 1.1.2010)[^A14-3], Bremgarten bei Bern, Brenzikofen (spätestens ab 1.1.2010)[^A14-4], Deisswil bei Münchenbuchsee, Ferenbalm, Fraubrunnen, Frauenkappelen, Freimettigen (spätestens ab 1.1.2010)[^A14-5], Gerzensee, Grosshöchstetten (spätestens ab 1.1.2010)[^A14-6], Guggisberg, Gurbrü, Häutligen (spätestens ab 1.1.2010)[^A14-7], Herbligen (spätestens ab 1.1.2010)[^A14-8], Hindelbank (bis spätestens 31.12.2009), Iffwil, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kernenried (bis spätestens 31.12.2009), Kiesen, Kirchdorf (BE), Kirchlindach, Köniz, Konolfingen (spätestens ab 1.1.2010)[^A14-9], Krauchthal (bis spätestens 31.12.2009), Kriechenwil, Landiswil (spätestens ab 1.1.2010)[^A14-10], Laupen, Linden (spätestens ab 1.1.2010)[^A14-11], Mattstetten, Meikirch, Mirchel (spätestens ab 1.1.2010)[^A14-12], Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Münsingen, Muri bei Bern, Neuenegg, Niederhünigen (spätestens ab 1.1.2010)[^A14-13], Niedermuhlern, Oberbalm, Oberdiessbach (spätestens ab 1.1.2010)[^A14-14], Oberhünigen (spätestens ab 1.1.2010)[^A14-15], Oberthal (spätestens ab 1.1.2010)[^A14-16], Oppligen, Ostermundigen, Rapperswil (BE) (bis spätestens 31.12.2009), Riggisberg, Rubigen, Rüeggisberg, Rüschegg, Schüpfen (bis spätestens 31.12.2009), Schwarzenburg, Stettlen, Thurnen, Toffen, Urtenen-Schönbühl, Vechigen, Wald (BE), Walkringen (spätestens ab 1.1.2010)[^A14-17], Wichtrach, Wiggiswil, Wileroltigen, Wohlen bei Bern, Worb, Zäziwil (spätestens ab 1.1.2010)[^A14-18], Zollikofen, Zuzwil (BE).
 
 [^A14-1]: bisher: RVK Emmental
 [^A14-2]: bisher: RVK Emmental

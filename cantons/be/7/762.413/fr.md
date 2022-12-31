@@ -4,13 +4,13 @@ number: "762.413"
 title: Ordonnance sur les conférences régionales des transports
 short: OCRT
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/762.413"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2418/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2763/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2418/pdf_file"
 
 (OCRT)
 
-du 24.10.2007 (état au 01.01.2022)
+du 24.10.2007 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -160,7 +160,7 @@ Aefligen, Affoltern im Emmental, Alchenstorf, Arni (BE) (au plus tard jusqu'au 3
 
 <sup>1</sup> Communes de la CRT 4 / Conférence régionale de Berne-Mittelland:
 
-Allmendingen, Arni (BE) (au plus tard dès le 1.1.2010)[^A14-1], Bangerten (au plus tard jusqu'au 31.12.2009), Bäriswil, Bätterkinden (au plus tard jusqu'au 31.12.2009), Belp, Bern, Biglen (au plus tard dès le 1.1.2010)[^A14-2], Bolligen, Bowil (au plus tard dès le 1.1.2010)[^A14-3], Bremgarten bei Bern, Brenzikofen (au plus tard dès le 1.1.2010)[^A14-4], Deisswil bei Münchenbuchsee, Diemerswil, Ferenbalm, Fraubrunnen, Frauenkappelen, Freimettigen (au plus tard dès le 1.1.2010)[^A14-5], Gerzensee, Grosshöchstetten (au plus tard dès le 1.1.2010)[^A14-6], Guggisberg, Gurbrü, Häutligen (au plus tard dès le 1.1.2010)[^A14-7], Herbligen (au plus tard dès le 1.1.2010)[^A14-8], Hindelbank (au plus tard jusqu'au 31.12.2009), Iffwil, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kernenried (au plus tard jusqu'au 31.12.2009), Kiesen, Kirchdorf (BE), Kirchlindach, Köniz, Konolfingen (au plus tard jusqu'au 31.12.2009), Krauchthal (au plus tard jusqu'au 31.12.2009), Kriechenwil, Landiswil (au plus tard dès le 1.1.2010)[^A14-9], Laupen, Linden (au plus tard dès le 1.1.2010)[^A14-10], Mattstetten, Meikirch, Mirchel (au plus tard dès le 1.1.2010)[^A14-11], Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Münsingen, Muri bei Bern, Neuenegg, Niederhünigen (au plus tard dès le 1.1.2010)[^A14-12], Niedermuhlern, Oberbalm, Oberdiessbach (au plus tard dès le 1.1.2010)[^A14-13], Oberhünigen (au plus tard dès le 1.1.2010)[^A14-14], Oberthal (au plus tard dès le 1.1.2010)[^A14-15], Oppligen, Ostermundigen, Rapperswil (BE) (au plus tard jusqu'au 31.12.2009), Riggisberg, Rubigen, Rüeggisberg, Rüschegg, Schüpfen (au plus tard jusqu'au 31.12.2009), Schwarzenburg, Stettlen, Thurnen, Toffen, Urtenen-Schönbühl, Vechigen, Wald (BE), Walkringen (au plus tard dès le 1.1.2010)[^A14-16], Wichtrach, Wiggiswil, Wileroltigen, Wohlen bei Bern, Worb, Zäziwil (au plus tard dès le 1.1.2010)[^A14-17], Zollikofen, Zuzwil (BE).
+Allmendingen, Arni (BE) (au plus tard dès le 1.1.2010)[^A14-1], Bangerten (au plus tard jusqu'au 31.12.2009), Bäriswil, Bätterkinden (au plus tard jusqu'au 31.12.2009), Belp, Bern, Biglen (au plus tard dès le 1.1.2010)[^A14-2], Bolligen, Bowil (au plus tard dès le 1.1.2010)[^A14-3], Bremgarten bei Bern, Brenzikofen (au plus tard dès le 1.1.2010)[^A14-4], Deisswil bei Münchenbuchsee, Ferenbalm, Fraubrunnen, Frauenkappelen, Freimettigen (au plus tard dès le 1.1.2010)[^A14-5], Gerzensee, Grosshöchstetten (au plus tard dès le 1.1.2010)[^A14-6], Guggisberg, Gurbrü, Häutligen (au plus tard dès le 1.1.2010)[^A14-7], Herbligen (au plus tard dès le 1.1.2010)[^A14-8], Hindelbank (au plus tard jusqu'au 31.12.2009), Iffwil, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kernenried (au plus tard jusqu'au 31.12.2009), Kiesen, Kirchdorf (BE), Kirchlindach, Köniz, Konolfingen (au plus tard jusqu'au 31.12.2009), Krauchthal (au plus tard jusqu'au 31.12.2009), Kriechenwil, Landiswil (au plus tard dès le 1.1.2010)[^A14-9], Laupen, Linden (au plus tard dès le 1.1.2010)[^A14-10], Mattstetten, Meikirch, Mirchel (au plus tard dès le 1.1.2010)[^A14-11], Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Münsingen, Muri bei Bern, Neuenegg, Niederhünigen (au plus tard dès le 1.1.2010)[^A14-12], Niedermuhlern, Oberbalm, Oberdiessbach (au plus tard dès le 1.1.2010)[^A14-13], Oberhünigen (au plus tard dès le 1.1.2010)[^A14-14], Oberthal (au plus tard dès le 1.1.2010)[^A14-15], Oppligen, Ostermundigen, Rapperswil (BE) (au plus tard jusqu'au 31.12.2009), Riggisberg, Rubigen, Rüeggisberg, Rüschegg, Schüpfen (au plus tard jusqu'au 31.12.2009), Schwarzenburg, Stettlen, Thurnen, Toffen, Urtenen-Schönbühl, Vechigen, Wald (BE), Walkringen (au plus tard dès le 1.1.2010)[^A14-16], Wichtrach, Wiggiswil, Wileroltigen, Wohlen bei Bern, Worb, Zäziwil (au plus tard dès le 1.1.2010)[^A14-17], Zollikofen, Zuzwil (BE).
 
 [^A14-1]: auparavant: CRT Emmental
 [^A14-2]: auparavant: CRT Emmental
