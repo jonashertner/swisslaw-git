@@ -3,13 +3,13 @@ canton: FR
 number: "122.28.56"
 title: Verordnung über die Gebühren des Tiefbauamts
 language: de
-version: 2016-05-01
-valid_until: 2022-12-31
-version_adopted: 2016-09-12
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-20
 adopted: 2003-12-16
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.28.56"
-pdf: "https://bdlf.fr.ch/api/de/versions/5012/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7690/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5012/pdf_file"
 
 Tiefbauamt, Gebühren – V
 
-vom 16.12.2003 (Fassung in Kraft getreten am 01.05.2016)
+vom 16.12.2003 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,7 +35,7 @@ beschliesst:
 <sup>1</sup> Diese Verordnung regelt die Gebühren des Tiefbauamts (TBA) für folgende Verrichtungen:
 
 - a) Baubewilligungsgesuch, Ortsplanung, Detailbebauungsplan, Güterumlegung, genereller Entwässerungsplan;
-- b) Strassenplan (Ausbau von Gemeindestrassen, Trottoirs usw.);
+- b) Mobilitätsinfrastrukturplan;
 - c) Strassensignalisation;
 - d) Strassenreklamen;
 - e) Nutzungsbewilligung für öffentliche Strassen oder deren Zubehör;
@@ -65,7 +65,7 @@ beschliesst:
 
 <sup>2</sup> Die Grundgebühr beträgt für (pro Fall):
 
-- a) Ortsplanungen, Detailbebauungspläne, Güterumlegungen, generelle Entwässerungspläne, Strassenplanungen (Ausbau von Gemeindestrassen, Trottoirs usw.): Fr. 300
+- a) Ortsplanung, Detailbebauungsplan, Güterumlegung, genereller Entwässerungsplan, Mobilitätsinfrastrukturplan: Fr. 300
 - b) Baubewilligungsgesuche für Dossiers, deren projektierte Arbeiten über 20'000 Franken liegen: Fr. 300
 - c) Baubewilligungsgesuche für Dossiers, deren projektierte Arbeiten unter 20'000 Franken liegen: Fr. 100
 - d) Strassensignalisationen: Fr. 100

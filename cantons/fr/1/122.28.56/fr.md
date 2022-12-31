@@ -3,13 +3,13 @@ canton: FR
 number: "122.28.56"
 title: Ordonnance fixant les émoluments du Service des ponts et chaussées
 language: fr
-version: 2016-05-01
-valid_until: 2022-12-31
-version_adopted: 2016-09-12
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-20
 adopted: 2003-12-16
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.28.56"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5012/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7690/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5012/pdf_file"
 
 Service des ponts et chaussées, émoluments – O
 
-du 16.12.2003 (version entrée en vigueur le 01.05.2016)
+du 16.12.2003 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,7 +35,7 @@ Arrête:
 <sup>1</sup> La présente ordonnance fixe les émoluments du Service des ponts et chaussées (SPC) pour les activités suivantes:
 
 - a) demande de permis de construire, plan d'aménagement local, plan d'aménagement de détail, remaniements parcellaires, plans généraux d'évacuation des eaux;
-- b) plan de route (aménagement de routes communales, trottoirs, etc.);
+- b) plan d'infrastructure de mobilité
 - c) signalisation routière;
 - d) réclames routières;
 - e) autorisation d'utilisation du domaine public des routes ou de ses dépendances;
@@ -65,7 +65,7 @@ Arrête:
 
 <sup>2</sup> L'émolument de base est fixé comme il suit (par cas):
 
-- a) plan d'aménagement local, plan d'aménagement de détail, remaniements parcellaires, plans généraux d'évacuation des eaux, plan de route (aménagement de routes communales, trottoirs, etc.): Fr. 300
+- a) plan d'aménagement local, plan d'aménagement de détail, remaniements parcellaires, plans généraux d'évacuation des eaux, plan d'infrastructure de mobilité: Fr. 300
 - b) demande de permis de construire, pour un dossier supérieur à 20'000 francs: Fr. 300
 - c) demande de permis de construire, pour un dossier inférieur à 20'000 francs: Fr. 100
 - d) signalisation routière: Fr. 100
