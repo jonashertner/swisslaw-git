@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.711"
 title: Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2020-10-01"
-nachtrag: "110"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "121"
+valid_until: 2023-04-01
 adopted: 2010-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_711-2010_03_25-2010_06_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_711-2010_03_25-2010_06_01-121.html"
 text: pdf
 ---
 
@@ -29,30 +29,33 @@ beschliesst:
 ### A. Allgemeine Bestimmungen
 
 [^hAAllgemeineBestim-1]: LS 414.252.3.
-[^hAAllgemeineBestim-2]: Fassung gemäss B vom 4. Juni 2020 (OS 75, 442; ABl 2020-07-17). In Kraft seit 1. Oktober 2020.
-[^hAAllgemeineBestim-3]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
-[^hAAllgemeineBestim-4]: Fassung gemäss B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
-[^hAAllgemeineBestim-5]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1.10. 20 - 110 7
-[^hAAllgemeineBestim-6]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^hAAllgemeineBestim-7]: Fassung gemäss B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
+[^hAAllgemeineBestim-2]: Fassung gemäss B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
 #### § 1
 
 **Gegenstand**
 
-Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29.Januar 2008 (RPO)[^hAAllgemeineBestim-1] die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering), die in Vertiefungen durchgeführt werden können:[^hAAllgemeineBestim-2] a.[^hAAllgemeineBestim-3] Aviatik b. Data Science c.[^hAAllgemeineBestim-4] Elektrotechnik d.[^hAAllgemeineBestim-5] Energie- und Umwelttechnik e. Informatik f.[^hAAllgemeineBestim-6] Maschinentechnik g.[^hAAllgemeineBestim-7] Systemtechnik mit Vertiefung in – Robotik und Mechatronik – Medizintechnik h.[^hAAllgemeineBestim-3] Verkehrssysteme i.[^hAAllgemeineBestim-6] Wirtschaftsingenieurwesen mit Vertiefung in – Wirtschaftsmathematik – Industrial Engineering – Data & Service Engineering
+Diese Studienordnung mit Anhang regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften vom 29. Januar 2008 (RPO)[^hAAllgemeineBestim-1] die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering), die in Vertiefungen durchgeführt werden können[^hAAllgemeineBestim-2]:
+
+a.[^1-1] Aviatik b. Data Science c.[^1-2] Elektrotechnik d.[^1-3] Energie- und Umwelttechnik e. Informatik f.[^1-4] Maschinentechnik g.[^1-5] Medizininformatik h.[^1-6] Systemtechnik mit Vertiefung in – Robotik und Mechatronik – Medizintechnik i.[^1-1] Verkehrssysteme j.[^1-4] Wirtschaftsingenieurwesen mit Vertiefung in – Wirtschaftsmathematik – Industrial Engineering – Data & Service Engineering
 
 **1**
 
-1.10. 20 - 110 § 2. Einzelheiten zu den Studiengängen, insbesondere zu den zu belegenden Modulen, werden im Anhang geregelt.
+- 1\. 1. 23 - 119 § 2. Einzelheiten zu den Studiengängen, insbesondere zu den zu belegenden Modulen, werden im Anhang geregelt.
 
 **Anhang**
 
 **Voll- und Teilzeitstudium**
 
-§ 3.[^1-1] Die Bachelorstudiengänge können als Vollzeitstudium und als Teilzeitstudium geführt werden. Ein Wechsel vom Teilzeit- zum Vollzeitstudium und umgekehrt ist auf Antrag der oder des Studierenden an die Studiengangleitung möglich.
+§ 3.[^1-7] Die Bachelorstudiengänge können als Vollzeitstudium und als Teilzeitstudium geführt werden. Ein Wechsel vom Teilzeit- zum Vollzeitstudium und umgekehrt ist auf Antrag der oder des Studierenden an die Studiengangleitung möglich.
 
-[^1-1]: Fassung gemäss B vom 4. Juni 2020 (OS 75, 442; ABl 2020-07-17). In Kraft seit 1. Oktober 2020.
+[^1-1]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
+[^1-2]: Fassung gemäss B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
+[^1-3]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1. 1. 23 - 119 7
+[^1-4]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^1-5]: Eingefügt durch B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^1-6]: Fassung gemäss B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
+[^1-7]: Fassung gemäss B vom 4. Juni 2020 (OS 75, 442; ABl 2020-07-17). In Kraft seit 1. Oktober 2020.
 
 #### § 4
 
@@ -147,7 +150,7 @@ Das Bachelorstudium ist bestanden, wenn a. alle Pflicht- und die erforderlichen 
 
 **3**
 
-1.10. 20 - 110 § 15.[^14-1] Die Abschlussnote errechnet sich aus sämtlichen promotionsrelevanten Pflicht- und Wahlpflichtmodulen. Die Module werden nach ECTS-Credits gewichtet.
+- 1\. 1. 23 - 119 § 15.[^14-1] Die Abschlussnote errechnet sich aus sämtlichen promotionsrelevanten Pflicht- und Wahlpflichtmodulen. Die Module werden nach ECTS-Credits gewichtet.
 
 **Abschlussnote**
 
@@ -165,24 +168,25 @@ Das Bachelorstudium ist bestanden, wenn a. alle Pflicht- und die erforderlichen 
 
 [^14-1]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 [^14-2]: Eingefügt durch B vom 4. Juni 2020 (OS 75, 442; ABl 2020-07-17). In Kraft seit 1. Oktober 2020.
-[^14-3]: Fassung gemäss B vom 4. Juni 2020 (OS 75, 442; ABl 2020-07-17). In Kraft seit 1. Oktober 2020.
+[^14-3]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 512; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 [^14-4]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
 
 #### § 16
 
 **Titel**
 
-Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen: Bachelor of Science ZFH in[^14-3] a.[^14-4] Aviatik,
+Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen: Bachelor of Science ZHAW in[^14-3] a.[^14-4] Aviatik,
 
 - b. Data Science, c.[^16-1] Elektrotechnik, d.[^16-2] Energie- und Umwelttechnik,
 
-- e. Informatik, f.[^16-3] Maschinentechnik, g.[^16-4] Systemtechnik mit Vertiefung in [Robotik und Mechatronik oder Medizintechnik], h.[^16-5] Verkehrssysteme, i.[^16-3] Wirtschaftsingenieurwesen mit Vertiefung in [Wirtschaftsmathematik, Industrial Engineering oder Data & Service Engineering].
+- e. Informatik, f.[^16-3] Maschinentechnik, g.[^16-4] Medizininformatik, h.[^16-5] Systemtechnik mit Vertiefung in [Robotik und Mechatronik oder Medizintechnik], i.[^16-6] Verkehrssysteme, j.[^16-3] Wirtschaftsingenieurwesen mit Vertiefung in [Wirtschaftsmathematik, Industrial Engineering oder Data & Service Engineering].
 
 [^16-1]: Fassung gemäss B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
-[^16-2]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1.10. 20 - 110 7
+[^16-2]: Eingefügt durch B vom 5. Juli 2012 (OS 67, 494; ABl 2012-09-07). In Kraft seit 1. September 2012. 1. 1. 23 - 119 7
 [^16-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 33; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^16-4]: Fassung gemäss B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
-[^16-5]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
+[^16-4]: Eingefügt durch B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^16-5]: Fassung gemäss B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
+[^16-6]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 15; ABl 2014-12-19). In Kraft seit 1. April 2015.
 
 ### G. Übergangsbestimmungen
 
@@ -242,7 +246,7 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 **5**
 
-1.10. 20 - 110
+- 1\. 1. 23 - 119
 
 [^22-1]: Eingefügt durch B vom 18. Oktober 2012 (OS 68, 91; ABl 2012-12-21). In Kraft seit 1. September 2013.
 
@@ -304,7 +308,7 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 <sup>3</sup> Im Übrigen gilt mit Ausnahme der in den §§ 23–26 festgelegten Regelungen zu den Vertiefungstiteln die Studienordnung gemäss Änderung vom 22. August 2019.
 
 [^hLÜbergangsbestimmu-1]: Eingefügt durch B vom 22. August 2019 (OS 74, 566; ABl 2019-10-11). In Kraft seit 1. Dezember 2019.
-[^hLÜbergangsbestimmu-2]: Eingefügt durch B vom 21. März 2013 (OS 68, 274; ABl 2013-04-26). In Kraft seit 1. September 2013.
+[^hLÜbergangsbestimmu-2]: Fassung gemäss B vom 1. September 2022 (OS 77, 569; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -312,10 +316,14 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge des Departements Technik und Informatik (School of Engineering) an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **9**
 
-1.10. 20 - 110
+- 1\. 1. 23 - 119
+
+## Weitere Fussnoten
+
+- [6] Eingefügt durch B vom 21. März 2013 (OS 68, 274; ABl 2013-04-26). In Kraft seit 1. September 2013.
