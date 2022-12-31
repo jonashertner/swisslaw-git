@@ -3,20 +3,20 @@ canton: ZG
 number: "414.311"
 title: Zentralschweizer Fachhochschul-Verordnung
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-19
+version: 2023-01-01
+valid_until: 2026-03-31
+version_adopted: 2022-12-22
 adopted: 2012-12-14
 in_force: 2013-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.311"
-pdf: "https://bgs.zg.ch/api/de/versions/2227/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Zentralschweizer Fachhochschul-Verordnung
 
-Vom 14. Dezember 2012 (Stand 1. Januar 2021)
+Vom 14. Dezember 2012 (Stand 1. Januar 2023)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -118,6 +118,8 @@ beschliesst:
 **Kompetenzen für den Abschluss von Mietverträgen**
 
 <sup>1</sup> Mietverträge mit einer Mietzinssumme von über 200 000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
+
+<sup>2</sup> Davon ausgenommen sind Mietverträge für Studierendenwohnungen, welche die Fachhochschule ohne Genehmigung durch den Konkordatsrat abschliessen kann.
 
 #### Art. 11
 
