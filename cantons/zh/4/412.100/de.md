@@ -4,11 +4,11 @@ number: "412.100"
 title: Volksschulgesetz (VSG)
 short: VSG
 language: de
-version: "2022-01-01"
-nachtrag: "117"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-08-01
 adopted: 2005-02-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_100-2005_02_07-2006_08_21-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_100-2005_02_07-2006_08_21-119.html"
 text: pdf
 ---
 
@@ -16,16 +16,13 @@ text: pdf
 
 # Volksschulgesetz (VSG)
 
-(vom 7. Februar 2005)[^t-1]
+(vom 7. Februar 2005)<sup>1</sup>
 
 Der Kantonsrat,
 
-nach Einsichtnahme in den Antrag der Kommission für Bildung und Kultur vom 31. August 2004[^t-2],
+nach Einsichtnahme in den Antrag der Kommission für Bildung und Kultur vom 31. August 2004<sup>2</sup>,
 
 beschliesst:
-
-[^t-1]: OS 61, 194; Inkraftsetzung siehe LS 412.100.1.
-[^t-2]: ABl 2004, 927.
 
 ### 1. Teil: Grundlagen
 
@@ -51,11 +48,11 @@ beschliesst:
 
 **Recht auf Schulbesuch und Schulpflicht**
 
-§ 3.[^2-1] <sup>1</sup> Alle Kinder mit Aufenthalt im Kanton haben das Recht, die öffentliche Volksschule zu besuchen.
+§ 3.<sup>21</sup> <sup>1</sup> Alle Kinder mit Aufenthalt im Kanton haben das Recht, die öffentliche Volksschule zu besuchen.
 
 **1**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Kinder, die bis zum 31. Juli eines Jahres das vierte Altersjahr vollenden, werden auf Beginn des nächsten Schuljahres schulpflichtig. Die Schulpflicht dauert elf Jahre, längstens jedoch bis zum Abschluss der Volksschule.<sup>33</sup>
 
@@ -92,8 +89,6 @@ beschliesst:
 § 3 d.<sup>48</sup> <sup>1</sup> Die Direktion und die schulpsychologischen Dienste gewähren sich für ihre Aufgaben nach §§ 36 Abs. 4 und 38 direkten elektronischen Zugriff auf Daten, einschliesslich Personendaten und besonderer Personendaten.
 
 <sup>2</sup> Die Direktion regelt die Zugriffsrechte und erlässt Datensicherheitsvorschriften.
-
-[^2-1]: Inkrafttreten: 18. August 2008.
 
 ### 2. Teil: Öffentliche Volksschule
 
@@ -135,11 +130,9 @@ Die öffentliche Volksschule besteht aus der Kindergartenstufe, der Primarstufe 
 
 **Jahreskurse**
 
-§ 8.<sup>26</sup> Das letzte Jahr der Schulpflicht kann auch durch den Besuch von Berufsvorbereitungsjahren gemäss § 5 Abs.1 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14.Januar 2008[^7-1] erfüllt werden.
+§ 8.<sup>26</sup> Das letzte Jahr der Schulpflicht kann auch durch den Besuch von Berufsvorbereitungsjahren gemäss § 5 Abs.1 des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14.Januar 2008<sup>13</sup> erfüllt werden.
 
 § 9.<sup>27</sup>
-
-[^7-1]: LS 413.31.
 
 ### B. Schulort und Unentgeltlichkeit
 
@@ -151,7 +144,7 @@ Der Anspruch auf den Schulbesuch gilt am Wohnort. Halten sich Schülerinnen und 
 
 **3**
 
-- 1\. 7. 22 - 117 § 11. <sup>1</sup> Der Unterricht ist am Schulort unentgeltlich. Wird der Unterricht ausserhalb des Schulortes besucht, kann von den Eltern oder der abgebenden Gemeinde ein Schulgeld erhoben werden.
+- 1\. 1. 23 - 119 § 11. <sup>1</sup> Der Unterricht ist am Schulort unentgeltlich. Wird der Unterricht ausserhalb des Schulortes besucht, kann von den Eltern oder der abgebenden Gemeinde ein Schulgeld erhoben werden.
 
 **Unentgeltlichkeit und Elternbeiträge**
 
@@ -195,13 +188,9 @@ Der Regierungsrat kann für besonders begabte Schülerinnen und Schüler Schulen
 
 <sup>2</sup> Die Verordnung regelt die Voraussetzungen der Anerkennung und deren Folgen.
 
-#### § 16
+**Musikalische Grundbildung**
 
-**Musikschulen**
-
-<sup>1</sup> Die Musikschulen bieten als Ergänzung zum Musikunterricht an der Volksschule eine musikalische Ausbildung an.
-
-<sup>2</sup> Die musikalische Früherziehung kann im Rahmen der koordinierten Unterrichtszeiten gemäss § 27 Abs. 2 erteilt werden.
+§ 16.<sup>68</sup> Die musikalische Grundbildung kann im Rahmen der koordinierten Unterrichtszeiten gemäss § 27 Abs. 2 erteilt werden.
 
 #### § 17
 
@@ -239,10 +228,6 @@ Die Gemeinden bieten im Rahmen ihrer Möglichkeiten freiwilligen Schulsport an.
 
 <sup>2</sup> Die Verordnung regelt Art und Umfang der durchzuführenden Untersuchungen und Massnahmen. Die freie Arztwahl ist gewährleistet.
 
-**5**
-
-- 1\. 7. 22 - 117
-
 ### 2. Abschnitt: Schulbetrieb
 
 ### A. Inhalt
@@ -252,6 +237,10 @@ Die Gemeinden bieten im Rahmen ihrer Möglichkeiten freiwilligen Schulsport an.
 **Lehrplan**
 
 <sup>1</sup> Der Bildungsrat erlässt den Lehrplan. Dieser regelt verbindlich die Stufenziele und die grundlegenden Inhalte des Unterrichts. Er kann für einzelne Fächer verbindliche Jahresziele festlegen. Der Lehrplan gewährleistet, dass die Stufenziele und Inhalte der Folgestufe nicht vorweggenommen werden.
+
+**5**
+
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Der Lehrplan umfasst die Lektionentafeln, welche die Unterrichtszeit und den Rahmen für deren Aufteilung auf die Fächer bestimmen.
 
@@ -331,17 +320,15 @@ Die Schulen führen öffentliche Besuchstage durch. Diese können auch an Samsta
 
 Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen jährlich. Die Verordnung regelt die Berechnung der Ferien.
 
-**7**
-
-- 1\. 7. 22 - 117
-
 ### C. Tagesstrukturen<sup>55</sup>
 
-**Grundsatz**
-
-§ 30 a.<sup>55</sup> <sup>1</sup> Tagesstrukturen sind Betreuungsangebote, die Schülerinnen und Schüler ergänzend zum Unterricht besuchen können.
+§ 30 a.<sup>55</sup> <sup>1</sup> Tagesstrukturen sind Betreuungsangebote, die Schüle- Grundsatz rinnen und Schüler ergänzend zum Unterricht besuchen können.
 
 <sup>2</sup> Die Gemeinden ermitteln den Bedarf nach Tagesstrukturen regelmässig und stellen ein entsprechendes Angebot zur Verfügung.
+
+**7**
+
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Sie können Dritte mit dem Betrieb von Tagesstrukturen beauftragen.
 
@@ -363,7 +350,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **Kinderhorte a. Bewilligungspflicht**
 
-§ 30 c.<sup>55</sup> <sup>1</sup> Kinderhorte gemäss Art. 13 Abs. 1 Bst. b der Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (PAVO)[^hCTagesstrukturens-1] für schulpflichtige Kinder benötigen eine Bewilligung ihrer Standortgemeinde und unterstehen deren Aufsicht.
+§ 30 c.<sup>55</sup> <sup>1</sup> Kinderhorte gemäss Art. 13 Abs. 1 Bst. b der Verordnung vom 19. Oktober 1977 über die Aufnahme von Pflegekindern (PAVO)<sup>16</sup> für schulpflichtige Kinder benötigen eine Bewilligung ihrer Standortgemeinde und unterstehen deren Aufsicht.
 
 <sup>2</sup> Bewilligungen sind erforderlich, sofern die Einrichtung gegen Entgelt wöchentlich mindestens 25 Stunden Betreuungsdienst und regelmässig sieben oder mehr Plätze anbietet.
 
@@ -393,8 +380,6 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>3</sup> Von Abs. 1 abweichende Betreuungskonzepte sind möglich, wenn a. das Betreuungsverhältnis gemäss Abs. 2 gewährleistet ist und b. den Bedürfnissen der betreuten Kinder mit besonderen Massnahmen Rechnung getragen wird.
 
-[^hCTagesstrukturens-1]: SR 211.222.338.
-
 ### D.<sup>56</sup> Beurteilung und Promotion
 
 #### § 31
@@ -415,7 +400,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Schullaufbahnentscheide werden aufgrund einer Gesamtbeurteilung getroffen. Grundlage für die Gesamtbeurteilung bilden die Schulleistungen.
 
@@ -423,13 +408,13 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **Zweck**
 
-§ 33.[^h3AbschnittSonder-1] <sup>1</sup> Die sonderpädagogischen Massnahmen dienen der Schulung von Schülerinnen und Schülern mit besonderen pädagogischen Bedürfnissen. Die Schülerinnen und Schüler werden wenn möglich in der Regelklasse unterrichtet.
+§ 33.<sup>21</sup> <sup>1</sup> Die sonderpädagogischen Massnahmen dienen der Schulung von Schülerinnen und Schülern mit besonderen pädagogischen Bedürfnissen. Die Schülerinnen und Schüler werden wenn möglich in der Regelklasse unterrichtet.
 
 <sup>2</sup> Die Verordnung regelt die Einzelheiten und den Umfang der sonderpädagogischen Massnahmen gemäss § 34.
 
 **Arten**
 
-§ 34.[^h3AbschnittSonder-1] <sup>1</sup> Sonderpädagogische Massnahmen sind Integrative Förderung, Therapie, Aufnahmeunterricht, Besondere Klassen und Sonderschulung.
+§ 34.<sup>21</sup> <sup>1</sup> Sonderpädagogische Massnahmen sind Integrative Förderung, Therapie, Aufnahmeunterricht, Besondere Klassen und Sonderschulung.
 
 <sup>2</sup> Integrative Förderung ist die Unterstützung der Schülerinnen und Schüler durch die Förder- und Regellehrpersonen.
 
@@ -443,7 +428,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **Aufgaben der Gemeinden**
 
-§ 35.[^h3AbschnittSonder-1] Die Gemeinden bieten Integrative Förderung, Therapien und Aufnahmeunterricht an. Sie können auch Besondere Klassen führen. Sie gewährleisten die Sonderschulung.
+§ 35.<sup>21</sup> Die Gemeinden bieten Integrative Förderung, Therapien und Aufnahmeunterricht an. Sie können auch Besondere Klassen führen. Sie gewährleisten die Sonderschulung.
 
 **Bestimmungen für die Sonderschulung a. Im Allgemeinen**
 
@@ -479,8 +464,6 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 § 36 a.<sup>64</sup> Bei der integrierten Sonderschulung gemäss § 36 Abs. 1 lit. c und d findet der Unterricht mehrheitlich in einer Regelklasse statt.
 
-[^h3AbschnittSonder-1]: Inkrafttreten: 18. August 2008.
-
 #### § 37
 
 **Zuweisungsverfahren**
@@ -493,7 +476,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **Schulpsychologische Abklärung**
 
-§ 38.[^37-1] <sup>1</sup> Kann keine Einigung über die sonderpädagogische Massnahme erzielt werden oder bestehen Unklarheiten, wird eine schulpsychologische Abklärung durchgeführt. Diese kann von der Schulpflege auch gegen den Willen der Eltern angeordnet werden. Die Zuweisung zum Aufnahmeunterricht oder zu einer Aufnahmeklasse kann ohne Abklärung erfolgen.
+§ 38.<sup>21</sup> <sup>1</sup> Kann keine Einigung über die sonderpädagogische Massnahme erzielt werden oder bestehen Unklarheiten, wird eine schulpsychologische Abklärung durchgeführt. Diese kann von der Schulpflege auch gegen den Willen der Eltern angeordnet werden. Die Zuweisung zum Aufnahmeunterricht oder zu einer Aufnahmeklasse kann ohne Abklärung erfolgen.
 
 <sup>2</sup> Die schulpsychologische Abklärung erfolgt im Rahmen eines von der Direktion bezeichneten Klassifikationssystems.
 
@@ -501,17 +484,15 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **11**
 
-- 1\. 7. 22 - 117 § 39.[^37-1] Wird nach durchgeführter schulpsychologischer Abklärung unter den Beteiligten keine Einigung erzielt, entscheidet die Schulpflege. Sie berücksichtigt dabei das Kindeswohl und die Auswirkungen auf den Schulbetrieb.
+- 1\. 1. 23 - 119 § 39.<sup>21</sup> Wird nach durchgeführter schulpsychologischer Abklärung unter den Beteiligten keine Einigung erzielt, entscheidet die Schulpflege. Sie berücksichtigt dabei das Kindeswohl und die Auswirkungen auf den Schulbetrieb.
 
 **Beschluss**
 
 **Überprüfung**
 
-§ 40.[^37-1] <sup>1</sup> Die Gemeinden sorgen für die Überprüfung der angeordneten Massnahmen auf ihre Notwendigkeit und Wirksamkeit.
+§ 40.<sup>21</sup> <sup>1</sup> Die Gemeinden sorgen für die Überprüfung der angeordneten Massnahmen auf ihre Notwendigkeit und Wirksamkeit.
 
 <sup>2</sup> Im Auftrag einer Gemeinde kann der schulpsychologische Dienst die Überprüfung vornehmen, soweit dadurch die Erfüllung seiner Aufgaben gemäss § 19 Abs. 1<sup>50</sup> nicht beeinträchtigt wird.<sup>40</sup>
-
-[^37-1]: Inkrafttreten: 18. August 2008.
 
 ### 4. Abschnitt: Organisation und Organe
 
@@ -561,7 +542,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>4</sup> Die Schulpflege kann Aufgaben zur selbstständigen Erledigung übertragen an:
 
-- a. unterstellte Kommissionen unter Vorbehalt oder in sinngemässer Anwendung von § 50 des Gemeindegesetzes vom 20. April 2015[^41-1],
+- a. unterstellte Kommissionen unter Vorbehalt oder in sinngemässer Anwendung von § 50 des Gemeindegesetzes vom 20. April 2015<sup>3</sup>,
 
 - b. Gemeindeangestellte, sofern eine Grundlage in der Gemeindeordnung besteht und die Aufgaben und Entscheidungsbefugnisse im Organisationsstatut festgelegt werden.
 
@@ -581,8 +562,6 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>2</sup> Der Leitung Bildung können Aufgaben der Schulpflege oder der Schulverwaltung übertragen werden. Die zugewiesenen Aufgaben und Kompetenzen werden im Organisationsstatut festgelegt.
 
-[^41-1]: LS 131.1.
-
 #### § 44
 
 **Schulleitung**
@@ -597,7 +576,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **13**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - 4\. Festlegen der Stundenpläne,
 
@@ -627,15 +606,11 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>2</sup> Die Schulpflege regelt die Einzelheiten im Organisationsstatut.
 
-[^45-1]: Inkrafttreten: 20. August 2007.
-
-### 5. Abschnitt: Qualitätssicherung
-
-[^45-1]
+### 5. Abschnitt: Qualitätssicherung<sup>18</sup>
 
 **Verantwortung**
 
-§ 47.[^h5AbschnittQualit-1] <sup>1</sup> Der Bildungsrat legt die Qualitätsstandards fest.
+§ 47.<sup>18</sup> <sup>1</sup> Der Bildungsrat legt die Qualitätsstandards fest.
 
 <sup>2</sup> Die Schulen und die Schulpflegen sind für die Qualitätssicherung verantwortlich.
 
@@ -653,9 +628,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **Gesamtbericht**
 
-§ 49.[^h5AbschnittQualit-1] Die Fachstelle erstattet dem Regierungsrat jährlich einen Gesamtbericht über den Stand der Schulen.
-
-[^h5AbschnittQualit-1]: Inkrafttreten: 20. August 2007.
+§ 49.<sup>18</sup> Die Fachstelle erstattet dem Regierungsrat jährlich einen Gesamtbericht über den Stand der Schulen.
 
 ### 6. Abschnitt: Stellung der Schülerinnen und Schüler sowie der Eltern
 
@@ -671,13 +644,11 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>3</sup> Die Schülerinnen und Schüler werden an den sie betreffenden Entscheiden beteiligt, soweit nicht ihr Alter oder andere wichtige Gründe dagegen sprechen. Das Organisationsstatut und das Schulprogramm sehen eine dem Alter und dem Entwicklungsstand entsprechende Mitverantwortung und Mitsprache der Schülerinnen und Schüler vor.
 
-[^50-1]: SR 210.
-
 #### § 51
 
 **Meldepflicht**
 
-Ist das Wohl einer Schülerin oder eines Schülers im Sinne von Art. 307 ZGB[^50-1] gefährdet, informiert die Schulpflege die für Kindesschutzmassnahmen zuständige Behörde.
+Ist das Wohl einer Schülerin oder eines Schülers im Sinne von Art. 307 ZGB<sup>15</sup> gefährdet, informiert die Schulpflege die für Kindesschutzmassnahmen zuständige Behörde.
 
 #### § 52
 
@@ -699,7 +670,7 @@ Ist das Wohl einer Schülerin oder eines Schülers im Sinne von Art. 307 ZGB[^50
 
 **15**
 
-- 1\. 7. 22 - 117
+- 1\. 1. 23 - 119
 
 - 3\. Versetzung in eine andere Schule,
 
@@ -769,7 +740,7 @@ Die Eltern und Dritte, denen eine Schülerin oder ein Schüler anvertraut ist, s
 
 **Lehrpersonenkonferenz der Volksschule**
 
-§ 58.<sup>38</sup> Die an der öffentlichen Volksschule unterrichtenden Lehrpersonen im Sinne von § 1 Abs. 1 des Lehrpersonalgesetzes vom 15. Mai 1999[^h7AbschnittLehrer-1] bilden die Lehrpersonenkonferenz der Volksschule.
+§ 58.<sup>38</sup> Die an der öffentlichen Volksschule unterrichtenden Lehrpersonen im Sinne von § 1 Abs. 1 des Lehrpersonalgesetzes vom 15. Mai 1999<sup>8</sup> bilden die Lehrpersonenkonferenz der Volksschule.
 
 **Delegiertenversammlung a. Durchführung**
 
@@ -787,7 +758,7 @@ Die Eltern und Dritte, denen eine Schülerin oder ein Schüler anvertraut ist, s
 
 **17**
 
-- 1\. 7. 22 - 117 § 59.<sup>38</sup> <sup>1</sup> Die Delegiertenversammlung nimmt zu wichtigen schulischen Fragen Stellung, insbesondere:
+- 1\. 1. 23 - 119 § 59.<sup>38</sup> <sup>1</sup> Die Delegiertenversammlung nimmt zu wichtigen schulischen Fragen Stellung, insbesondere:
 
 **c. Aufgaben**
 
@@ -817,23 +788,17 @@ Die Eltern und Dritte, denen eine Schülerin oder ein Schüler anvertraut ist, s
 
 <sup>3</sup> Die Präsidentin oder der Präsident ist Mitglied des Vorstandes der Schulsynode.
 
-[^h7AbschnittLehrer-1]: LS 412.31. Heute: Lehrpersonalgesetz.
-
 #### § 60
 
 **Private Organisationen**
 
 Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion das Mitwirkungsrecht privaten Organisationen übertragen, die diesen Teil der Lehrerschaft vertreten, oder andere Formen der Mitwirkung vorsehen.
 
-[^60-1]: Inkrafttreten: 1. Januar 2008.
-
-### 8. Abschnitt: Finanzen
-
-[^60-1]
+### 8. Abschnitt: Finanzen<sup>20</sup>
 
 **Kostenanteil des Kantons**
 
-§ 61.<sup>45</sup> <sup>1</sup> Der Kanton übernimmt insgesamt 20% der Besoldung der dem Lehrpersonalgesetz[^h8AbschnittFinanz-1] unterstehenden Lehrpersonen, Schulleiterinnen und Schulleiter, die im Rahmen der zugewiesenen oder gewährten Vollzeiteinheiten angestellt sind. Er übernimmt den gleichen Anteil an den Aufwendungen für berufliche Vorsorge, Versicherungen, Abfindungen, Kosten für Fallbegleitung und Entschädigungen.
+§ 61.<sup>45</sup> <sup>1</sup> Der Kanton übernimmt insgesamt 20% der Besoldung der dem Lehrpersonalgesetz<sup>8</sup> unterstehenden Lehrpersonen, Schulleiterinnen und Schulleiter, die im Rahmen der zugewiesenen oder gewährten Vollzeiteinheiten angestellt sind. Er übernimmt den gleichen Anteil an den Aufwendungen für berufliche Vorsorge, Versicherungen, Abfindungen, Kosten für Fallbegleitung und Entschädigungen.
 
 <sup>2</sup> . . .<sup>60</sup> § 62.<sup>30</sup> <sup>1</sup> Der Kanton leistet den Gemeinden einen Kostenanteil, der dem geltenden Beitragssatz für die Besoldung der Lehrpersonen entspricht, für a. die besonderen Schulen gemäss § 14,
 
@@ -867,21 +832,15 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 - d. die Abrechnungs- und Berichterstattungspflicht der Leistungserbringer.
 
-**Beiträge an Musikschulen**
-
-§ 63.[^h8AbschnittFinanz-2] <sup>1</sup> Kanton und Gemeinden leisten Kostenanteile an die Musikschulen, sofern diese die vom Regierungsrat erlassenen Bedingungen und Auflagen erfüllen. Der Kanton entrichtet seine Beiträge als Schülerpauschalen.
-
-<sup>2</sup> Der Regierungsrat regelt die Aufteilung der Kosten unter Kanton, Gemeinden und Eltern.
+§ 63.<sup>69</sup>
 
 **19**
 
-- 1\. 7. 22 - 117
-
-<sup>3</sup> Er kann Höchstansätze festlegen und bestimmen, dass Beiträge unter einem Mindestbetrag nicht ausgerichtet werden.
+- 1\. 1. 23 - 119 § 64.<sup>64</sup> <sup>1</sup> Die Kosten der Sonderschulung umfassen die Kosten für
 
 **Kosten der Sonderschulung a. Massgebende Kosten**
 
-§ 64.<sup>64</sup> <sup>1</sup> Die Kosten der Sonderschulung umfassen die Kosten für a. Unterricht,
+- a. Unterricht,
 
 - b. Therapien,
 
@@ -963,15 +922,15 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 <sup>3</sup> Die Verordnung regelt insbesondere die anrechenbaren Kosten und die Bemessung der Höhe des Kostenanteils.
 
-**21**
-
-- 1\. 7. 22 - 117 § 65 e.<sup>40,</sup> <sup>66</sup> Der Regierungsrat kann mit anderen Kantonen Vereinbarungen treffen über die Beteiligung am Betriebsdefizit von Institutionen der Sonderschulung. Gestützt auf solche Vereinbarungen leistet der Kanton anderen Kantonen oder ausserkantonalen Sonderschulen Kostenanteile bis zur vollen Höhe der beitragsberechtigten Ausgaben für zürcherische Kinder und Jugendliche.
-
 **h. Interkantonale Vereinbarungen**
 
-**Kosten des Nachhilfeunterrichts**
+§ 65 e.<sup>40,</sup> <sup>66</sup> Der Regierungsrat kann mit anderen Kantonen Vereinbarungen treffen über die Beteiligung am Betriebsdefizit von Institutionen der Sonderschulung. Gestützt auf solche Vereinbarungen leistet der Kanton anderen Kantonen oder ausserkantonalen Sonderschulen Kostenanteile bis zur vollen Höhe der beitragsberechtigten Ausgaben für zürcherische Kinder und Jugendliche.
 
-§ 65 f.<sup>32,</sup> <sup>67</sup> Die Gemeinden tragen die Kosten.
+**21**
+
+- 1\. 1. 23 - 119 § 65 f.<sup>32,</sup> <sup>67</sup> Die Gemeinden tragen die Kosten.
+
+**Kosten des Nachhilfeunterrichts**
 
 **Kosten der Auszeit**
 
@@ -987,11 +946,11 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 **Mitteleinsatz der Gemeinden**
 
-§ 66.[^h8AbschnittFinanz-2] Gefährdet der Mitteleinsatz einer Gemeinde die Chancengleichheit, insbesondere durch Unter- oder Überschreitung der zugeteilten Vollzeiteinheiten gemäss § 3 des Lehrerpersonalgesetzes[^h8AbschnittFinanz-1], kann der Regierungsrat die Gemeinde zur Senkung oder Erhöhung ihres Mitteleinsatzes anhalten. Kommt die Gemeinde dieser Aufforderung nicht nach, können der Anteil des Kantons an den Lehrerbesoldungen oder die übrigen Kostenbeiträge gekürzt oder verweigert werden.
+§ 66.<sup>20</sup> Gefährdet der Mitteleinsatz einer Gemeinde die Chancengleichheit, insbesondere durch Unter- oder Überschreitung der zugeteilten Vollzeiteinheiten gemäss § 3 des Lehrerpersonalgesetzes<sup>8</sup>, kann der Regierungsrat die Gemeinde zur Senkung oder Erhöhung ihres Mitteleinsatzes anhalten. Kommt die Gemeinde dieser Aufforderung nicht nach, können der Anteil des Kantons an den Lehrerbesoldungen oder die übrigen Kostenbeiträge gekürzt oder verweigert werden.
 
 **Drittmittel**
 
-§ 67.[^h8AbschnittFinanz-2] <sup>1</sup> Die Unterstützung der Schulen durch Dritte ist zulässig, soweit diese keinen Einfluss auf den Schulbetrieb nehmen können und die zur Verfügung gestellten Mittel nur ergänzenden Charakter haben.
+§ 67.<sup>20</sup> <sup>1</sup> Die Unterstützung der Schulen durch Dritte ist zulässig, soweit diese keinen Einfluss auf den Schulbetrieb nehmen können und die zur Verfügung gestellten Mittel nur ergänzenden Charakter haben.
 
 <sup>2</sup> Die Herkunft der Mittel darf dem Ansehen der Volksschule und deren Zweck nicht widersprechen.
 
@@ -1001,17 +960,11 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 § 67 a.<sup>32</sup> Übernimmt der Kanton gestützt auf interkantonale Verträge anstelle der Gemeinden Kosten für die Erfüllung der Schulpflicht oder werden ihm solche vergütet, verrechnet er diese den Gemeinden weiter.
 
-[^h8AbschnittFinanz-1]: LS 412.31. Heute: Lehrpersonalgesetz.
-[^h8AbschnittFinanz-2]: Inkrafttreten: 1. Januar 2008.
-[^h8AbschnittFinanz-3]: Inkrafttreten: 20. August 2007.
-
-### 3. Teil: Privatschulen und Privatunterricht
-
-[^h8AbschnittFinanz-3]
+### 3. Teil: Privatschulen und Privatunterricht<sup>18</sup>
 
 **Privatschulen**
 
-§ 68.[^h3TeilPrivatschul-1] <sup>1</sup> Privatschulen, an denen die Schulpflicht erfüllt werden kann, benötigen eine Bewilligung der Direktion. Diese wird erteilt, wenn die dort angebotene Bildung gleichwertig ist wie die Bildung an der öffentlichen Volksschule.
+§ 68.<sup>18</sup> <sup>1</sup> Privatschulen, an denen die Schulpflicht erfüllt werden kann, benötigen eine Bewilligung der Direktion. Diese wird erteilt, wenn die dort angebotene Bildung gleichwertig ist wie die Bildung an der öffentlichen Volksschule.
 
 <sup>2</sup> Die Direktion kann Privatschulen, die den Lehrplan nur teilweise erfüllen, bewilligen, wenn dort vorwiegend in einer Fremdsprache unterrichtet wird. Sie legt die Voraussetzungen für die Aufnahme von Schülerinnen und Schülern fest.
 
@@ -1019,7 +972,7 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 **Privatunterricht**
 
-§ 69.[^h3TeilPrivatschul-1] <sup>1</sup> Als Privatunterricht gelten der Einzelunterricht und der Unterricht in einer Gruppe bis zu fünf Schülerinnen und Schülern.
+§ 69.<sup>18</sup> <sup>1</sup> Als Privatunterricht gelten der Einzelunterricht und der Unterricht in einer Gruppe bis zu fünf Schülerinnen und Schülern.
 
 <sup>2</sup> Die Eltern melden der Gemeinde ihres Wohnortes und der Direktion die Umstände des Privatunterrichts, insbesondere die unterrichtende Person, den Stundenplan und die Räumlichkeiten.
 
@@ -1035,22 +988,19 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 **Weitere Leistungen**
 
-§ 71.[^h3TeilPrivatschul-2] <sup>1</sup> Schülerinnen und Schüler, die eine Privatschule besuchen oder privat unterrichtet werden, können bei der Gemeinde an ihrem Wohnort die in der Volksschule abgegebenen obligatorischen Lehrmittel unentgeltlich beziehen, die Musikschulen besuchen und die Angebote des freiwilligen Schulsports benutzen.
+§ 71.<sup>21</sup> <sup>1</sup> Schülerinnen und Schüler, die eine Privatschule besuchen oder privat unterrichtet werden, können bei der Gemeinde an ihrem Wohnort die in der Volksschule abgegebenen obligatorischen Lehrmittel unentgeltlich beziehen, die Musikschulen besuchen und die Angebote des freiwilligen Schulsports benutzen.
 
 <sup>2</sup> Sie haben an ihrem Wohnort Anspruch auf Therapien gemäss § 34 Abs. 3, einschliesslich der dafür notwendigen Abklärungen. Die Schulpflege entscheidet über Art und Umfang der Leistungen.
-
-**23**
-
-- 1\. 7. 22 - 117
 
 <sup>3</sup> Im Übrigen besteht kein Anspruch auf die ausserhalb des ordentlichen Unterrichts von der öffentlichen Volksschule zur Verfügung gestellten Leistungen.
 
 **Subventionierung von besonderen Privatschulen**
 
-§ 72.[^h3TeilPrivatschul-1] Der Regierungsrat kann an die Schulen gemäss § 68 Abs. 2, sofern deren Bestand für den Kanton einen besonderen Nutzen bietet, Beiträge bis zur Hälfte der anrechenbaren Kosten für den Neu- und Umbau von Gebäuden ausrichten. Er kann die Ausrichtung der Beiträge mit Auflagen verbinden.
+§ 72.<sup>18</sup> Der Regierungsrat kann an die Schulen gemäss § 68 Abs. 2, sofern deren Bestand für den Kanton einen besonderen Nutzen bietet, Beiträge bis zur Hälfte der anrechenbaren Kosten für den Neu- und Umbau von Gebäuden ausrichten. Er kann die Ausrichtung der Beiträge mit Auflagen verbinden.
 
-[^h3TeilPrivatschul-1]: Inkrafttreten: 20. August 2007.
-[^h3TeilPrivatschul-2]: Inkrafttreten: 18. August 2008.
+**23**
+
+- 1\. 1. 23 - 119
 
 ### 4. Teil: Aufsicht, Rechtsschutz und Strafbestimmungen
 
@@ -1070,17 +1020,13 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 <sup>2</sup> Die Schulpflege entscheidet in der Regel innerhalb von 30 Tagen nach Eingang des Begehrens.
 
-[^74-1]: LS 412.31. Heute: Lehrpersonalgesetz.
-
 #### § 75
 
 **Rekursinstanzen**
 
-<sup>1</sup> Anordnungen der Schulpflege können mit Rekurs beim Bezirksrat angefochten werden. Hat die Schulpflege einzelnen Mitgliedern oder Ausschüssen aus ihrer Mitte in einem Behördenerlass Aufgaben zur selbstständigen und abschliessenden Erledigung übertragen, können deren Anordnungen ebenfalls mit Rekurs beim Bezirksrat angefochten werden. Vorbehalten bleibt § 10 des Lehrpersonalgesetzes[^74-1].<sup>59</sup>
+<sup>1</sup> Anordnungen der Schulpflege können mit Rekurs beim Bezirksrat angefochten werden. Hat die Schulpflege einzelnen Mitgliedern oder Ausschüssen aus ihrer Mitte in einem Behördenerlass Aufgaben zur selbstständigen und abschliessenden Erledigung übertragen, können deren Anordnungen ebenfalls mit Rekurs beim Bezirksrat angefochten werden. Vorbehalten bleibt § 10 des Lehrpersonalgesetzes<sup>8</sup>.<sup>59</sup>
 
-<sup>2</sup> Rekursentscheide des Bezirksrates unterliegen nach Massgabe des Verwaltungsrechtspflegegesetzes[^75-1] der Beschwerde an das Verwaltungsgericht.
-
-[^75-1]: LS 175.2.
+<sup>2</sup> Rekursentscheide des Bezirksrates unterliegen nach Massgabe des Verwaltungsrechtspflegegesetzes<sup>4</sup> der Beschwerde an das Verwaltungsgericht.
 
 #### § 76
 
@@ -1104,7 +1050,7 @@ Standortgemeinde: Die Gemeinde, in der ein Kinderhort gemäss § 30 c Abs. 1 sei
 
 Wohngemeinde: Die Gemeinde, in der die Person gemäss Art. 23–
 
-26 ZGB[^h5TeilSchlussun-1] ihren Wohnsitz hat.
+26 ZGB<sup>15</sup> ihren Wohnsitz hat.
 
 Eltern: Eltern oder ein Elternteil, denen oder dem die elterliche Sorge zusteht, bzw. die Erziehungsberechtigten.
 
@@ -1114,24 +1060,17 @@ Sonderschulen: Private oder öffentliche Einrichtungen oder Gemeinden, die Sonde
 
 **Höhe der Kostenanteile**
 
-§ 78.[^h5TeilSchlussun-2] <sup>1</sup> Die Kostenanteile gemäss § 61, die der Kanton den Gemeinden erstmals nach Inkrafttreten dieses Gesetzes ausrichtet, sollen gesamthaft der Summe entsprechen, die ihnen der Kanton gestützt auf folgende Bestimmungen des früheren Rechts ausbezahlt hat:
+§ 78.<sup>20</sup> <sup>1</sup> Die Kostenanteile gemäss § 61, die der Kanton den Gemeinden erstmals nach Inkrafttreten dieses Gesetzes ausrichtet, sollen gesamthaft der Summe entsprechen, die ihnen der Kanton gestützt auf folgende Bestimmungen des früheren Rechts ausbezahlt hat:
 
-- 1\. § 1 Abs. 1 lit. a Ziffer 1 des Schulleistungsgesetzes[^h5TeilSchlussun-3],
+- 1\. § 1 Abs. 1 lit. a Ziffer 1 des Schulleistungsgesetzes<sup>10</sup>,
 
-- 2\. § 29 der Schulleistungsverordnung[^h5TeilSchlussun-4],
+- 2\. § 29 der Schulleistungsverordnung<sup>11</sup>,
 
-- 3\. § 4 Abs. 1 des Lehrerpersonalgesetzes[^h5TeilSchlussun-5],
+- 3\. § 4 Abs. 1 des Lehrerpersonalgesetzes<sup>8</sup>,
 
-- 4\. § 22 der Lehrerpersonalverordnung[^h5TeilSchlussun-6].
+- 4\. § 22 der Lehrerpersonalverordnung<sup>9</sup>.
 
 <sup>2</sup> Zu diesem Zweck kann der Regierungsrat vom Prozentsatz gemäss § 61 um höchstens 0,75 Prozent abweichen.
-
-[^h5TeilSchlussun-1]: SR 210.
-[^h5TeilSchlussun-2]: Inkrafttreten: 1. Januar 2008.
-[^h5TeilSchlussun-3]: Aufgehoben seit 31. Dezember 2007 (OS 61, 220).
-[^h5TeilSchlussun-4]: Aufgehoben seit 1. Januar 2008 (OS 62, 557).
-[^h5TeilSchlussun-5]: LS 412.31. Heute: Lehrpersonalgesetz.
-[^h5TeilSchlussun-6]: LS 412.311. Heute: Lehrpersonalverordnung.
 
 #### § 79
 
@@ -1147,37 +1086,23 @@ Sonderschulen: Private oder öffentliche Einrichtungen oder Gemeinden, die Sonde
 
 Mit Inkrafttreten dieses Gesetzes werden folgende Gesetze aufgehoben:
 
-a.[^80-1] das Volksschulgesetz vom 11. Juni 1899[^80-2], b.[^80-3] das Schulleistungsgesetz vom 2. Februar 1919[^80-4].
+a.<sup>22</sup> das Volksschulgesetz vom 11. Juni 1899<sup>7</sup>, b.<sup>19</sup> das Schulleistungsgesetz vom 2. Februar 1919<sup>10</sup>.
 
-**25**
-
-- 1\. 7. 22 - 117 § 81. Die nachfolgenden Gesetze werden wie folgt geändert: . . .[^80-5]
+#### § 81
 
 **Änderung bisherigen Rechts**
 
-- a. Das Gemeindegesetz vom 6. Juni 1926[^80-6]: . . .[^80-5]
+Die nachfolgenden Gesetze werden wie folgt geändert: . . .<sup>17</sup> a. Das Gemeindegesetz vom 6. Juni 1926<sup>3</sup>: . . .<sup>17</sup> b. Das Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>4</sup>: . . .<sup>17</sup> c. Das EG zum ZGB vom 2. April 1911<sup>5</sup>: . . .<sup>17</sup>
 
-- b. Das Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^80-7]: . . .[^80-5]
+**25**
 
-- c. Das EG zum ZGB vom 2. April 1911[^80-8]: . . .[^80-5]
+- 1\. 1. 23 - 119
 
-- d. Das Lehrerpersonalgesetz vom 10. Mai 1999[^80-9]: . . .[^80-5]
+- d. Das Lehrerpersonalgesetz vom 10. Mai 1999<sup>8</sup>: . . .<sup>17</sup>
 
-- e. Das Mittelschulgesetz vom 13. Juni 1999[^80-10]: . . .[^80-5]
+- e. Das Mittelschulgesetz vom 13. Juni 1999<sup>12</sup>: . . .<sup>17</sup>
 
-- f. Das Gesetz über die Pädagogische Hochschule vom 25. Oktober 1999[^80-11]: . . .[^80-5]
-
-[^80-1]: Inkrafttreten: 15. August 2010. 1. 7. 22 - 117 27
-[^80-2]: LS 412.11.
-[^80-3]: Inkrafttreten: 31. Dezember 2007.
-[^80-4]: Aufgehoben seit 31. Dezember 2007 (OS 61, 220).
-[^80-5]: Text siehe OS 61, 194; Inkraftsetzung siehe LS 412.100.1.
-[^80-6]: LS 131.1.
-[^80-7]: LS 175.2.
-[^80-8]: LS 230.
-[^80-9]: LS 412.31. Heute: Lehrpersonalgesetz.
-[^80-10]: LS 413.21.
-[^80-11]: LS 414.41.
+- f. Das Gesetz über die Pädagogische Hochschule vom 25. Oktober 1999<sup>14</sup>: . . .<sup>17</sup>
 
 ### Übergangsbestimmungen zur Änderung vom 1. Oktober 2007
 
@@ -1203,13 +1128,63 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 
 § 1. <sup>1</sup> Befristete Bewilligungen für Kinderhorte, die gestützt auf bisheriges Recht erteilt wurden, bleiben gültig. Unbefristete Bewilligungen bleiben während vier Jahren nach Inkrafttreten des neuen Rechts gültig.
 
-<sup>2</sup> Bewilligungsanpassungen richten sich nach neuem Recht. § 2.<sup>63</sup> <sup>1</sup> Bewilligungen für öffentliche und private Sonderschulen und Schulheime, die gestützt auf bisheriges Recht erteilt wurden, bleiben gültig. Unbefristete Bewilligungen bleiben während längstens vier Jahren nach Inkrafttreten des neuen Rechts gültig. Bewilligungsanpassungen und -erneuerungen richten sich nach neuem Recht.
+<sup>2</sup> Bewilligungsanpassungen richten sich nach neuem Recht.
+
+§ 2.<sup>63</sup> <sup>1</sup> Bewilligungen für öffentliche und private Sonderschulen und Schulheime, die gestützt auf bisheriges Recht erteilt wurden, bleiben gültig. Unbefristete Bewilligungen bleiben während längstens vier Jahren nach Inkrafttreten des neuen Rechts gültig. Bewilligungsanpassungen und -erneuerungen richten sich nach neuem Recht.
 
 <sup>2</sup> Kostenanteile an die beitragsberechtigten Investitionskosten gemäss § 65 Abs. 2 lit. a Ziff. 2 und 3 in der Fassung vor Inkrafttreten der Änderung vom 27. November 2017 und gemäss § 8 Abs. 1 lit. a des Gesetzes über die Jugendheime und die Pflegekinderfürsorge vom 1. April 1962, die öffentliche und private Trägerschaften oder Gemeinden vom Kanton für von ihnen geführte, beitragsberechtigte Sonderschulen erhalten haben, werden bei der Abgeltung von Leistungen gemäss § 65 des Gesetzes angemessen berücksichtigt.
+
+<sup>1</sup> OS 61, 194; Inkraftsetzung siehe LS 412.100.1.
+
+<sup>2</sup> ABl 2004, 927.
+
+<sup>3</sup> LS 131.1.
+
+<sup>4</sup> LS 175.2.
+
+<sup>5</sup> LS 230.
+
+<sup>6</sup> Obsolet.
+
+<sup>7</sup> LS 412.11.
+
+<sup>8</sup> LS 412.31. Heute: Lehrpersonalgesetz.
+
+<sup>9</sup> LS 412.311. Heute: Lehrpersonalverordnung.
+
+<sup>10</sup> Aufgehoben seit 31. Dezember 2007 (OS 61, 220).
+
+<sup>11</sup> Aufgehoben seit 1. Januar 2008 (OS 62, 557).
+
+<sup>12</sup> LS 413.21.
+
+<sup>13</sup> LS 413.31.
+
+<sup>14</sup> LS 414.41.
+
+<sup>15</sup> SR 210.
+
+<sup>16</sup> SR 211.222.338.
+
+<sup>17</sup> Text siehe OS 61, 194; Inkraftsetzung siehe LS 412.100.1.
+
+<sup>18</sup> Inkrafttreten: 20. August 2007.
+
+<sup>19</sup> Inkrafttreten: 31. Dezember 2007.
+
+<sup>20</sup> Inkrafttreten: 1. Januar 2008.
+
+<sup>21</sup> Inkrafttreten: 18. August 2008.
+
+<sup>22</sup> Inkrafttreten: 15. August 2010.
 
 <sup>23</sup> Eingefügt durch G über die Ablösung der Leistungen der Invalidenversicherung an die Sonderpädagogik vom 1. Oktober 2007 (OS 62, 565; ABl 2007, 835). In Kraft seit 1. Januar 2008.
 
 <sup>24</sup> Fassung gemäss G über die Ablösung der Leistungen der Invalidenversicherung an die Sonderpädagogik vom 1. Oktober 2007 (OS 62, 565; ABl 2007, 835). In Kraft seit 1. Januar 2008.
+
+**27**
+
+- 1\. 1. 23 - 119
 
 <sup>25</sup> Eingefügt durch G vom 12. März 2007 (OS 63, 474; ABl 2006, 1). In Kraft seit 16. August 2008.
 
@@ -1287,20 +1262,20 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 
 <sup>62</sup> Fassung gemäss G über die Spitalschulen auf der Sekundarstufe II vom 2. September 2019 (OS 76, 564; ABl 2018-07-13). In Kraft seit 1. Januar 2022.
 
-**29**
-
-- 1\. 7. 22 - 117
-
 <sup>63</sup> Eingefügt durch Kinder- und Jugendheimgesetz vom 27. November 2017 (OS 74, 322; ABl 2015-08-28). In Kraft seit 1. Januar 2022 (OS 76, 622).
 
 <sup>64</sup> Fassung gemäss Kinder- und Jugendheimgesetz vom 27. November 2017 (OS 74, 322; ABl 2015-08-28). In Kraft seit 1. Januar 2022 (OS 76, 622).
 
 <sup>65</sup> Aufgehoben durch Kinder- und Jugendheimgesetz vom 27. November 2017 (OS 74, 322; ABl 2015-08-28). In Kraft seit 1. Januar 2022 (OS 76, 622).
 
+**29**
+
+- 1\. 1. 23 - 119
+
 <sup>66</sup> Nummerierung gemäss Kinder- und Jugendheimgesetz vom 27. November 2017 (OS 74, 322; ABl 2015-08-28). In Kraft seit 1. Januar 2022 (OS 76, 622).
 
 <sup>67</sup> Fassung gemäss Berichtigung vom 28. Oktober 2021 (OS 76, 623). In Kraft seit 1. Januar 2022.
 
-## Weitere Fussnoten
+<sup>68</sup> Fassung gemäss Musikschulgesetz vom 11. November 2019 (OS 77, 533; ABl 2018-11-09). In Kraft seit 1. Januar 2023.
 
-- [6] Obsolet.
+<sup>69</sup> Aufgehoben durch Musikschulgesetz vom 11. November 2019 (OS 77, 533; ABl 2018-11-09). In Kraft seit 1. Januar 2023.
