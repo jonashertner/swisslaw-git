@@ -4,30 +4,31 @@ title: "Ordinanza del 19 dicembre 1966 sull'imposta preventiva (OIPrev)"
 short: OIPrev
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1966-12-19
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1585_1641_1624/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1585_1641_1624-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1585_1641_1624/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’imposta preventiva
 
-(OIPrev)**[^t-1]**
+(OIPrev)[^t-1]
 
-del 19 dicembre 1966 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 19 dicembre 1966 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 73 capoverso 1 della legge federale del 13 ottobre 1965[^ingress-1] su l’imposta preventiva (detta qui di seguito «legge»),
+visto l’articolo 73 capoverso 1 della legge federale del 13 ottobre 1965[^ingress-1] sull’imposta preventiva (LIP),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^ingress-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 ## Titolo I. Riscossione dell’imposta
 
@@ -37,11 +38,12 @@ ordina:
 
 #### Art. 1
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni emana le istruzioni generali e prende le decisioni particolari necessarie alla riscossione dell’imposta preventiva; essa stabilisce la forma e il contenuto dei moduli per l’iscrizione come contribuente, per i rendiconti, le dichiarazioni d’imposta e i questionari.
+<sup>1</sup> L’Amministrazione federale delle contribuzioni (AFC) emana le istruzioni generali e prende le decisioni particolari necessarie alla riscossione dell’imposta preventiva; essa stabilisce la forma e il contenuto dei moduli per l’iscrizione come contribuente, per i rendiconti, le dichiarazioni d’imposta e i questionari.[^1-1]
 
-<sup>2</sup> Ha facoltà di ricorrere davanti al Tribunale federale.[^1-1]
+<sup>2</sup> Ha facoltà di ricorrere davanti al Tribunale federale.[^1-2]
 
-[^1-1]: Introdotto dal n. II 46 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^1-1]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^1-2]: Introdotto dal n. II 46 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 ### II. Obblighi del contribuente
 
@@ -53,7 +55,10 @@ ordina:
 
 <sup>2</sup> Se il contribuente impiega nella sua contabilità il sistema dell’elaborazione automatica od elettronica dei dati, questo genere di contabilità è ammesso, ai fini della riscossione della imposta preventiva, solo se è garantita l’elaborazione completa ed esatta di tutte le operazioni e cifre fiscalmente essenziali a partire dal documento contabile originale sino ai conti annuali e al rendiconto d’imposta, e se i giustificativi necessari al calcolo dell’imposta dovuta sono chiaramente ordinati e leggibili.
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni può consentire al contribuente, con gli oneri e alle condizioni da essa stabiliti, di conservare i giustificativi in forma di microfilms. In tal caso, è fatto obbligo al contribuente di presentare, a sue spese, gli ingrandimenti dei giustificativi chiesti dall’Amministrazione federale delle contribuzioni e, in occasione della verifica contabile prevista all’articolo 40 della legge, di mettere a disposizione degli ispettori, su loro richiesta, un apparecchio di proiezione con il necessario personale servente.
+<sup>3</sup> L’AFC[^2-1] può consentire al contribuente, con gli oneri e alle condizioni da essa stabiliti, di conservare i giustificativi in forma di microfilms. In tal caso, è fatto obbligo al contribuente di presentare, a sue spese, gli ingrandimenti dei giustificativi chiesti dall’AFC e, in occasione della verifica contabile prevista all’articolo 40 LIP[^2-2], di mettere a disposizione degli ispettori, su loro richiesta, un apparecchio di proiezione con il necessario personale servente.
+
+[^2-1]: Nuova espr. giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: Nuova espr. giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 2. Rendiconto e attestazione quanto alla deduzione d’imposta
 
@@ -63,7 +68,7 @@ ordina:
 
 <sup>2</sup>
 
-Quando il beneficiario della prestazione imponibile chiede un’attestazione speciale (art. 14 cpv. 2 della legge), essa deve menzionare:
+Quando il beneficiario della prestazione imponibile chiede un’attestazione speciale (art. 14 cpv. 2 LIP), essa deve menzionare:
 
 - a. i dati personali del beneficiario e l’indirizzo noto a colui che rilascia l’attestazione;
 - b. il genere e l’ammontare nominale del valore patrimoniale che ha fruttato la prestazione imponibile;
@@ -73,7 +78,7 @@ Quando il beneficiario della prestazione imponibile chiede un’attestazione spe
 
 <sup>3</sup> Il contribuente deve rilasciare una sola attestazione per una medesima prestazione imponibile; le copie e le attestazioni sostitutive devono essere designate come tali.
 
-<sup>4</sup> L’Amministrazione federale delle contribuzioni può accettare, con gli oneri e alle condizioni da essa stabiliti, attestazioni non firmate o fatte direttamente su l’istanza di rimborso.
+<sup>4</sup> L’AFC può accettare, con gli oneri e alle condizioni da essa stabiliti, attestazioni non firmate o fatte direttamente su l’istanza di rimborso.
 
 ### 3. Prestazioni in valuta estera
 
@@ -89,9 +94,9 @@ Quando il beneficiario della prestazione imponibile chiede un’attestazione spe
 
 #### Art. 5
 
-<sup>1</sup> Se, per insolvibilità, il debitore non è in grado di eseguire la prestazione imponibile alla sua scadenza, o se ha ottenuto una dilazione in base alla legislazione federale, egli ne deve informare spontaneamente l’Amministrazione federale delle contribuzioni, comunicandole quando la prestazione sarà presumibilmente pagabile.
+<sup>1</sup> Se, per insolvibilità, il debitore non è in grado di eseguire la prestazione imponibile alla sua scadenza, o se ha ottenuto una dilazione in base alla legislazione federale, egli ne deve informare spontaneamente l’AFC, comunicandole quando la prestazione sarà presumibilmente pagabile.
 
-<sup>2</sup> Se il contribuente è dichiarato fallito, l’amministrazione del fallimento deve stabilire il rendiconto prescritto per l’imposta scaduta all’atto della dichiarazione del fallimento (art. 16 cpv. 3 della legge) e inviarlo all’Amministrazione federale delle contribuzioni, corredato dei giustificativi (art. 38 cpv. 2 della legge).
+<sup>2</sup> Se il contribuente è dichiarato fallito, l’amministrazione del fallimento deve stabilire il rendiconto prescritto per l’imposta scaduta all’atto della dichiarazione del fallimento (art. 16 cpv. 3 LIP) e inviarlo all’AFC, corredato dei giustificativi (art. 38 cpv. 2 LIP).
 
 ### III. Procedura di riscossione
 
@@ -99,19 +104,19 @@ Quando il beneficiario della prestazione imponibile chiede un’attestazione spe
 
 #### Art. 6
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni può chiedere informazioni scritte od orali e convocare il contribuente per un’audizione.
+<sup>1</sup> L’AFC può chiedere informazioni scritte od orali e convocare il contribuente per un’audizione.
 
 <sup>2</sup> Quando sembri opportuno, le informazioni date sono messe a verbale in presenza della persona escussa; il processo verbale deve essere firmato da essa e dal funzionario inquirente e, in caso, da colui che l’ha tenuto.
 
-<sup>3</sup> Prima di ogni audizione secondo il capoverso 2, la persona da escutere deve essere invitata a dire la verità ed avvertita delle conseguenze che implica il fatto di fornire informazioni inesatte (art. 62 cpv. 1 lett. *d* della legge).
+<sup>3</sup> Prima di ogni audizione secondo il capoverso 2, la persona da escutere deve essere invitata a dire la verità ed avvertita delle conseguenze che implica il fatto di fornire informazioni inesatte (art. 62 cpv. 1 lett. *d* LIP).
 
 ### 2. Verifica dei libri di commercio
 
 #### Art. 7
 
-<sup>1</sup> Il contribuente può, e su richiesta dell’Amministrazione federale delle contribuzioni deve, assistere alla verifica dei libri di commercio (art. 40 cpv. 2 della legge) e dare le spiegazioni necessarie.
+<sup>1</sup> Il contribuente può, e su richiesta dell’AFC deve, assistere alla verifica dei libri di commercio (art. 40 cpv. 2 LIP) e dare le spiegazioni necessarie.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni non è obbligata a preavvisare il contribuente della sua intenzione di procedere ad una verifica dei libri di commercio.
+<sup>2</sup> L’AFC non è obbligata a preavvisare il contribuente della sua intenzione di procedere ad una verifica dei libri di commercio.
 
 ### IV. Esazione e garanzie dell’imposta
 
@@ -119,7 +124,7 @@ Quando il beneficiario della prestazione imponibile chiede un’attestazione spe
 
 #### Art. 8
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni ha la competenza di promuovere esecuzioni quanto ai crediti vantati dalla Confederazione a titolo di imposta preventiva, interessi, spese e multe, di insinuare i crediti nel fallimento, di chiedere il rigetto dell’opposizione e di prendere tutti i provvedimenti necessari alla garanzia e all’esazione dei crediti.
+<sup>1</sup> L’AFC ha la competenza di promuovere esecuzioni quanto ai crediti vantati dalla Confederazione a titolo di imposta preventiva, interessi, spese e multe, di insinuare i crediti nel fallimento, di chiedere il rigetto dell’opposizione e di prendere tutti i provvedimenti necessari alla garanzia e all’esazione dei crediti.
 
 <sup>2</sup> È riservata la competenza dell’Amministrazione federale delle finanze quanto alla conservazione degli attestati di carenza di beni e all’esecuzione di un credito accertato mediante un attestato di carenza di beni.
 
@@ -135,7 +140,7 @@ l’attivo principale della società si trova all’estero o è costituito preva
 
 la società non distribuisce ogni anno, come dividendo o quota dell’utile, una parte adeguata del reddito netto ai portatori di azioni, di quote sociali o di buoni di godimento,
 
-l’Amministrazione federale delle contribuzioni può esigere delle garanzie, l’esazione dell’imposta apparendo in pericolo (art. 47 cpv. 1 lett. *a* della legge).
+l’AFC può esigere delle garanzie, l’esazione dell’imposta apparendo in pericolo (art. 47 cpv. 1 lett. *a* LIP).
 
 <sup>2</sup> L’ammontare da garantire deve corrispondere all’imposta che dovrebbe essere pagata in caso di liquidazione della società; se necessario, esso va determinato di nuovo ogni anno in base al conto annuale.
 
@@ -143,7 +148,7 @@ l’Amministrazione federale delle contribuzioni può esigere delle garanzie, l�
 
 #### Art. 10
 
-<sup>1</sup> Le garanzie chieste ai termini dell’articolo 47 della legge devono essere costituite da garanzie reali, da fideiussioni, da assicurazioni di fideiussione o altre, in conformità dell’ordinanza del 21 giugno 1957[^10-1] concernente la costituzione di garanzie a favore della Confederazione.
+<sup>1</sup> Le garanzie chieste ai termini dell’articolo 47 LIP devono essere costituite da garanzie reali, da fideiussioni, da assicurazioni di fideiussione o altre, in conformità dell’ordinanza del 21 giugno 1957[^10-1] concernente la costituzione di garanzie a favore della Confederazione.
 
 <sup>2</sup> Le garanzie fornite sono svincolate non appena siano stati pagati le imposte, gli interessi e le spese che esse cautelavano o non si dia più il motivo della garanzia.
 
@@ -156,9 +161,9 @@ l’Amministrazione federale delle contribuzioni può esigere delle garanzie, l�
 
 #### Art. 11
 
-<sup>1</sup> Le società anonime, a responsabilità limitata o cooperative possono essere radiate dal registro di commercio soltanto se l’Amministrazione federale delle contribuzioni ha informato l’ufficio cantonale del registro di commercio che l’imposta preventiva dovuta è stata pagata.
+<sup>1</sup> Le società anonime, a responsabilità limitata o cooperative possono essere radiate dal registro di commercio soltanto se l’AFC ha informato l’ufficio cantonale del registro di commercio che l’imposta preventiva dovuta è stata pagata.
 
-<sup>2</sup> Il capoverso 1 è applicabile alla radiazione di un altro ente giuridico di cui all’articolo 2 lettera a dell’ordinanza del 17 ottobre 2007[^11-1] sul registro di commercio, se l’Amministrazione federale delle contribuzioni ha comunicato all’Ufficio cantonale del registro di commercio che l’ente giuridico è diventato contribuente in base alla legge.[^11-2]
+<sup>2</sup> Il capoverso 1 è applicabile alla radiazione di un altro ente giuridico di cui all’articolo 2 lettera a dell’ordinanza del 17 ottobre 2007[^11-1] sul registro di commercio, se l’AFC ha comunicato all’Ufficio cantonale del registro di commercio che l’ente giuridico è diventato contribuente in base alla legge.[^11-2]
 
 [^11-1]: [RS 221.411](https://fedlex.data.admin.ch/eli/cc/2007/686)
 [^11-2]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
@@ -167,21 +172,23 @@ l’Amministrazione federale delle contribuzioni può esigere delle garanzie, l�
 
 #### Art. 12
 
-<sup>1</sup> Le imposte e gli interessi pagati, che non sono stati determinati con una decisione dell’Amministrazione federale delle contribuzioni, sono restituiti non appena è accertato che non erano dovuti.
+<sup>1</sup> Le imposte e gli interessi pagati, che non sono stati determinati con una decisione dell’AFC, sono restituiti non appena è accertato che non erano dovuti.
 
-<sup>2</sup> Se un’imposta non dovuta è già stata trasferita (art. 14 cpv. 1 della legge), la restituzione è concessa soltanto se è accertato che la persona cui l’imposta è stata trasferita non ne ha ottenuto il rimborso con la procedura ordinaria di rimborso e che tale persona verrà messa al benefico della restituzione secondo il capoverso 1.
+<sup>2</sup> Se un’imposta non dovuta è già stata trasferita (art. 14 cpv. 1 LIP), la restituzione è concessa soltanto se è accertato che la persona cui l’imposta è stata trasferita non ne ha ottenuto il rimborso con la procedura ordinaria di rimborso e che tale persona verrà messa al benefico della restituzione secondo il capoverso 1.
 
 <sup>3</sup> Se l’istante si avvale di fatti da cui risulta che un’altra imposta federale era dovuta, anche se nel frattempo prescritta, la restituzione è concessa soltanto per l’ammontare eccedente detta imposta.
 
 <sup>4</sup> Il diritto alla restituzione si prescrive in cinque anni dalla fine dell’anno civile nel quale il pagamento è stato fatto.
 
-<sup>5</sup> Le disposizioni della legge e dell’ordinanza quanto alla riscossione dell’imposta si applicano per analogia; se l’istante non soddisfa agli obblighi di fornire informazioni e se il diritto alla restituzione non può essere accertato senza le informazioni chieste dall’Amministrazione federale delle contribuzioni, l’istanza è respinta.
+<sup>5</sup> Le disposizioni della LIP e della presente ordinanza[^12-1] quanto alla riscossione dell’imposta si applicano per analogia; se l’istante non soddisfa agli obblighi di fornire informazioni e se il diritto alla restituzione non può essere accertato senza le informazioni chieste dall’AFC, l’istanza è respinta.
+
+[^12-1]: Nuova espr. giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 ### VI. Compensazione
 
 #### Art. 13
 
-L’Amministrazione federale delle contribuzioni può compensare con l’imposta preventiva, di cui il debitore chiede il rimborso, un credito fiscale maturato la cui esazione è in pericolo.
+L’AFC può compensare con l’imposta preventiva, di cui il debitore chiede il rimborso, un credito fiscale maturato la cui esazione è in pericolo.
 
 ### Capo secondo: Imposta sui redditi di capitali mobili
 
@@ -205,7 +212,7 @@ L’Amministrazione federale delle contribuzioni può compensare con l’imposta
 
 [^14a-1]
 
-<sup>1</sup> Indipendentemente dalla loro durata, dalla loro valuta e dal loro tasso d’interesse, gli averi tra le società di un gruppo non sono considerati né obbligazioni secondo l’articolo 4 capoverso 1 lettera a né averi di clienti secondo l’articolo 4 capoverso 1 lettera d della legge.
+<sup>1</sup> Indipendentemente dalla loro durata, dalla loro valuta e dal loro tasso d’interesse, gli averi tra le società di un gruppo non sono considerati né obbligazioni secondo l’articolo 4 capoverso 1 lettera a né averi di clienti secondo l’articolo 4 capoverso 1 lettera d LIP.
 
 <sup>2</sup> Sono considerate società di un gruppo le società i cui conti annuali sono integralmente o in parte consolidati nel conto di gruppo conformemente a standard contabili riconosciuti.[^14a-2]
 
@@ -239,7 +246,7 @@ Si considerano obbligazioni, al portatore, all’ordine o nominative:
 
 [^16-1]
 
-La franchigia di cui all’articolo 5 capoverso 1 lettera c della legge è applicabile agli interessi versati una volta per anno civile per gli averi di clienti.
+La franchigia di cui all’articolo 5 capoverso 1 lettera c LIP è applicabile agli interessi versati una volta per anno civile per gli averi di clienti.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 
@@ -247,13 +254,13 @@ La franchigia di cui all’articolo 5 capoverso 1 lettera c della legge è appli
 
 #### Art. 17
 
-<sup>1</sup> La persona domiciliata in Svizzera (art. 9 cpv. 1 della legge) che emette obbligazioni, cartelle ipotecarie e rendite fondiarie in serie, che offre pubblicamente di accettare denari fruttiferi o accetta in modo continuo denari dietro interesse è tenuta, prima di iniziare la sua attività e senza esservi sollecitata, ad annunciarsi presso l’Amministrazione federale delle contribuzioni.[^17-1]
+<sup>1</sup> La persona domiciliata in Svizzera (art. 9 cpv. 1 LIP) che emette obbligazioni, cartelle ipotecarie e rendite fondiarie in serie, che offre pubblicamente di accettare denari fruttiferi o accetta in modo continuo denari dietro interesse è tenuta, prima di iniziare la sua attività e senza esservi sollecitata, ad annunciarsi presso l’AFC.[^17-1]
 
 <sup>2</sup> La dichiarazione deve menzionare: il nome (ragione sociale) e la sede dell’impresa, come pure tutte le succursali in Svizzera che soddisfano alle condizioni del capoverso 1, o se si tratta di una persona giuridica, di una società commerciale senza personalità giuridica la cui sede statutaria si trova all’estero, la ragione sociale ed il luogo della sede principale, con l’indirizzo della direzione in Svizzera; il genere e l’inizio dell’attività; l’esercizio contabile e la data di scadenza degli interessi. La dichiarazione deve essere corredata dei giustificativi necessari al controllo dell’obbligazione fiscale (prospetto di emissione, regolamento per i libretti di risparmio o i depositi, ecc.).
 
-<sup>3</sup> Le modificazioni sopravvenute dopo l’inizio dell’attività relativamente ai fatti da dichiarare o ai giustificativi da inviare conformemente al capoverso 2, in particolare l’apertura di nuove succursali e le modificazioni apportate ai regolamenti, devono essere dichiarate spontaneamente all’Amministrazione federale delle contribuzioni.
+<sup>3</sup> Le modificazioni sopravvenute dopo l’inizio dell’attività relativamente ai fatti da dichiarare o ai giustificativi da inviare conformemente al capoverso 2, in particolare l’apertura di nuove succursali e le modificazioni apportate ai regolamenti, devono essere dichiarate spontaneamente all’AFC.
 
-<sup>4</sup> Quando un’impresa che si è già annunciata come contribuente all’Amministrazione federale delle contribuzioni emette nuovi titoli o crea nuove possibilità d’investimento, il cui reddito è soggetto all’imposta preventiva, la dichiarazione può limitarsi a questi fatti.
+<sup>4</sup> Quando un’impresa che si è già annunciata come contribuente all’AFC emette nuovi titoli o crea nuove possibilità d’investimento, il cui reddito è soggetto all’imposta preventiva, la dichiarazione può limitarsi a questi fatti.
 
 [^17-1]: Nuovo testo giusta il n. II dell’O del 15 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
 
@@ -263,27 +270,27 @@ La franchigia di cui all’articolo 5 capoverso 1 lettera c della legge è appli
 
 #### Art. 18
 
-L’imposta sui redditi delle obbligazioni di prestiti, come pure delle obbligazioni, cartelle ipotecarie e rendite fondiarie emesse in serie che l’Amministrazione federale delle contribuzioni equipara alle obbligazioni di prestiti ai fini del rendiconto d’imposta, ed anche quella sui redditi degli averi iscritti nel libro del debito pubblico, deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dalla scadenza del reddito (scadenza della cedola), in base a un rendiconto da farsi su modulo ufficiale.
+L’imposta sui redditi delle obbligazioni di prestiti, come pure delle obbligazioni, cartelle ipotecarie e rendite fondiarie emesse in serie che l’AFC equipara alle obbligazioni di prestiti ai fini del rendiconto d’imposta, ed anche quella sui redditi degli averi iscritti nel libro del debito pubblico, deve essere pagata spontaneamente all’AFC entro 30 giorni dalla scadenza del reddito (scadenza della cedola), in base a un rendiconto da farsi su modulo ufficiale.
 
 ### 2. Obbligazioni di cassa, ecc.; averi di clienti
 
 #### Art. 19
 
-<sup>1</sup> L’imposta sul reddito delle obbligazioni di cassa, dei buoni di cassa e di deposito, dei titoli di credito affini alle cambiali e degli altri valori scontabili, come pure delle obbligazioni, delle cartelle ipotecarie e rendite fondiarie emesse in serie che l’Amministrazione federale delle contribuzioni equipara alle obbligazioni di cassa ai fini del rendiconto d’imposta, ed anche quella sul reddito degli averi di clienti presso banche e casse di risparmio, deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni nei 30 giorni successivi alla fine di ogni trimestre commerciale, per gli interessi ed altri redditi maturati nel trimestre, in base a un rendiconto da farsi su modulo speciale.
+<sup>1</sup> L’imposta sul reddito delle obbligazioni di cassa, dei buoni di cassa e di deposito, dei titoli di credito affini alle cambiali e degli altri valori scontabili, come pure delle obbligazioni, delle cartelle ipotecarie e rendite fondiarie emesse in serie che l’AFC equipara alle obbligazioni di cassa ai fini del rendiconto d’imposta, ed anche quella sul reddito degli averi di clienti presso banche e casse di risparmio, deve essere pagata spontaneamente all’AFC nei 30 giorni successivi alla fine di ogni trimestre commerciale, per gli interessi ed altri redditi maturati nel trimestre, in base a un rendiconto da farsi su modulo speciale.
 
 <sup>2</sup>
 
-Per evitare complicazioni sproporzionate, l’Amministrazione federale delle contribuzioni può consentire o prescrivere che il rendiconto d’imposta deroghi al capoverso 1; in particolare, essa può concedere:
+Per evitare complicazioni sproporzionate, l’AFC può consentire o prescrivere che il rendiconto d’imposta deroghi al capoverso 1; in particolare, essa può concedere:
 
 - a. che l’imposta scaduta nei primi tre trimestri civili venga accertata in modo approssimativo e quella scaduta per tutto l’anno conteggiata definitivamente soltanto dopo la fine dell’ultimo trimestre civile;
 - b.[^19-1] che, quando il valore nominale complessivo delle obbligazioni e degli averi in banca, intesi nel senso del capoverso 1, non eccede 1 000 000 di franchi, l’imposta sui redditi fruttati venga conteggiata una sola volta l’anno.
 
-<sup>3</sup> Il contribuente deve far figurare separatamente nei suoi libri di commercio, insieme ai redditi relativi, la consistenza: delle obbligazioni di cassa (comprese obbligazioni, cartelle ipotecarie e rendite fondiarie emesse in serie loro equiparate ai fini del rendiconto d’imposta); dei titoli di credito affini alle cambiali e degli altri titoli scontabili nonché degli averi di clienti, suddivisi in averi i cui redditi non sono soggetti all’imposta preventiva (art. 5 cpv. 1 lett. c della legge) e in averi i cui redditi sono soggetti all’imposta.[^19-2]
+<sup>3</sup> Il contribuente deve far figurare separatamente nei suoi libri di commercio, insieme ai redditi relativi, la consistenza: delle obbligazioni di cassa (comprese obbligazioni, cartelle ipotecarie e rendite fondiarie emesse in serie loro equiparate ai fini del rendiconto d’imposta); dei titoli di credito affini alle cambiali e degli altri titoli scontabili nonché degli averi di clienti, suddivisi in averi i cui redditi non sono soggetti all’imposta preventiva (art. 5 cpv. 1 lett. c LIP) e in averi i cui redditi sono soggetti all’imposta.[^19-2]
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2994](https://fedlex.data.admin.ch/eli/oc/2000/542)).
 [^19-2]: Nuovo testo giusta il n. II dell’O del 15 feb. 2012, in vigore dal 1° mar. 2012 ([RU 2012 791](https://fedlex.data.admin.ch/eli/oc/2012/119)).
 
-### B. Imposta sul reddito di azioni, quote sociali in società a garanzia limitata e in società cooperative, buoni di partecipazione di banche cooperative e buoni di godimento****
+### B. Imposta sul reddito di azioni, quote sociali in società a garanzia limitata e in società cooperative, buoni di partecipazione di banche cooperative e buoni di godimento
 
 [^tit1-chap2-lvlB-1]
 
@@ -297,11 +304,11 @@ Per evitare complicazioni sproporzionate, l’Amministrazione federale delle con
 
 <sup>2</sup> Si considera reddito imponibile di buoni di partecipazione, buoni di godimento e buoni di partecipazione di una banca cooperativa ogni prestazione valutabile in denaro corrisposta ai titolari di buoni di partecipazione, buoni di godimento o buoni di partecipazione di una banca cooperativa; il rimborso del valore nominale dei buoni di partecipazione o dei buoni di partecipazione di una banca cooperativa emessi gratuitamente non costituisce reddito imponibile in quanto la società o la banca cooperativa provi di aver pagato l’imposta preventiva sul valore nominale al momento dell’emissione dei titoli.[^20-2]
 
-<sup>3</sup> Non si applica l’articolo 4 capoverso 2 della legge ai trasferimenti di sede che divengono efficaci conformemente all’articolo 10 del decreto del Consiglio federale 12 aprile 1957[^20-3], concernente misure preventive di protezione delle persone giuridiche, società di persone e ditte individuali.
+<sup>3</sup> ...[^20-3]
 
 [^20-1]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 [^20-2]: Nuovo testo giusta l’all. 1 n. II 5 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-3]: [[RU 1957 351](https://fedlex.data.admin.ch/eli/oc/1957/337_337_351), [1958 409](https://fedlex.data.admin.ch/eli/oc/1958/395_409_409), [1982 527](https://fedlex.data.admin.ch/eli/oc/1982/527_527_527), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 43, [2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)allegato 1 n. 6. [RU 2017 3121](https://fedlex.data.admin.ch/eli/oc/2017/309)art. 46 n. 5]
+[^20-3]: Abrogato dal n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, con effetto dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 ### II. Rendiconto d’imposta
 
@@ -313,7 +320,7 @@ Per evitare complicazioni sproporzionate, l’Amministrazione federale delle con
 
 <sup>1</sup>
 
-Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 della legge) è tenuta a consegnare spontaneamente all’Amministrazione federale delle contribuzioni, nei 30 giorni successivi all’approvazione del conto annuale, il rapporto di gestione o una copia firmata del conto annuale (bilancio e conto dei profitti e delle perdite), come pure una distinta su modulo ufficiale che indichi il capitale esistente alla fine dell’esercizio, la data dell’assemblea generale, l’ammontare e la scadenza della ripartizione dell’utile, e a pagare l’imposta sui redditi maturati in seguito all’approvazione del conto annuale, se:
+Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 LIP) è tenuta a consegnare spontaneamente all’AFC, nei 30 giorni successivi all’approvazione del conto annuale, il rapporto di gestione o una copia firmata del conto annuale (bilancio e conto dei profitti e delle perdite), come pure una distinta su modulo ufficiale che indichi il capitale esistente alla fine dell’esercizio, la data dell’assemblea generale, l’ammontare e la scadenza della ripartizione dell’utile, e a pagare l’imposta sui redditi maturati in seguito all’approvazione del conto annuale, se:
 
 - a. la somma di bilancio ammonta a oltre cinque milioni di franchi;
 - b. dalla decisione di ripartizione dell'utile deriva una prestazione imponibile;
@@ -321,13 +328,13 @@ Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 del
 - d. la società è tassata in base all’articolo 69 della legge federale del 14 dicembre 1990[^21-1] sull’imposta federale diretta o all’articolo 28 della legge federale del 14 dicembre 1990[^21-2] sull’armonizzazione delle imposte dirette dei Comuni e dei Cantoni; oppure
 - e. la società ha fatto valere una convenzione di doppia imposizione conclusa dalla Svizzera con un altro Stato.[^21-3]
 
-<sup>1bis</sup> Negli altri casi i documenti vanno presentati su richiesta dell’Amministrazione federale delle contribuzioni.[^21-4]
+<sup>1bis</sup> Negli altri casi i documenti vanno presentati su richiesta dell’AFC.[^21-4]
 
-<sup>2</sup> L’imposta sui redditi non maturati in seguito all’approvazione del conto annuale o che non sono versati in base al conto annuale (acconti di dividendo, interessi per il periodo di avviamento, azioni gratuite, eccedenze di liquidazione, riscatto di buoni di godimento, prestazioni valutabili in denaro di altro genere) deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni nei 30 giorni successivi alla scadenza del reddito, in base ad un rendiconto da farsi su modulo ufficiale.
+<sup>2</sup> L’imposta sui redditi non maturati in seguito all’approvazione del conto annuale o che non sono versati in base al conto annuale (acconti di dividendo, interessi per il periodo di avviamento, azioni gratuite, eccedenze di liquidazione, riscatto di buoni di godimento, prestazioni valutabili in denaro di altro genere) deve essere pagata spontaneamente all’AFC nei 30 giorni successivi alla scadenza del reddito, in base ad un rendiconto da farsi su modulo ufficiale.
 
 <sup>3</sup> Se non è stabilita la data di scadenza del reddito, il termine di 30 giorni decorre dal giorno in cui viene deliberata la distribuzione o, non dandosi una deliberazione, dal giorno della distribuzione del reddito.
 
-<sup>4</sup> Se il conto annuale non è approvato nei sei mesi successivi alla fine del relativo esercizio, la società è tenuta ad informare l’Amministrazione federale delle contribuzioni, prima della scadenza del settimo mese, dei motivi del ritardo e della data alla quale i conti verranno presumibilmente approvati.
+<sup>4</sup> Se il conto annuale non è approvato nei sei mesi successivi alla fine del relativo esercizio, la società è tenuta ad informare l’AFC, prima della scadenza del settimo mese, dei motivi del ritardo e della data alla quale i conti verranno presumibilmente approvati.
 
 [^21-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
 [^21-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
@@ -338,15 +345,15 @@ Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 del
 
 #### Art. 22
 
-<sup>1</sup> Se una società anonima o a garanzia limitata viene sciolta (art. 736 e 820 Codice delle obbligazioni[^22-1]), essa deve informarne senza indugio l’Amministrazione federale delle contribuzioni.
+<sup>1</sup> Se una società anonima o a garanzia limitata viene sciolta (art. 736 e 820 Codice delle obbligazioni[^22-1]), essa deve informarne senza indugio l’AFC.
 
-<sup>2</sup> La società disciolta è tenuta ad inviare all’Amministrazione federale delle contribuzioni una copia firmata del bilancio compilato dai liquidatori e ad informarla regolarmente, secondo le istruzioni da essa impartite, quanto allo stato della liquidazione e, segnatamente, quanto all’impiego dell’attivo; terminata la liquidazione, una copia firmata del conto di liquidazione, corredata di una distinta concernente la ripartizione dell’eccedenza che ne risulta, deve essere inviata all’Amministrazione federale delle contribuzioni.
+<sup>2</sup> La società disciolta è tenuta ad inviare all’AFC una copia firmata del bilancio compilato dai liquidatori e ad informarla regolarmente, secondo le istruzioni da essa impartite, quanto allo stato della liquidazione e, segnatamente, quanto all’impiego dell’attivo; terminata la liquidazione, una copia firmata del conto di liquidazione, corredata di una distinta concernente la ripartizione dell’eccedenza che ne risulta, deve essere inviata all’AFC.
 
 <sup>3</sup> La società è tenuta a pagare spontaneamente l’imposta in base a un rendiconto speciale, nei 30 giorni successivi ad ogni distribuzione di una parte dell’eccedenza di liquidazione.
 
 <sup>4</sup> Le disposizioni dei capoversi 1 a 3 si applicano per analogia quando la società si scioglie senza entrare in liquidazione.
 
-<sup>5</sup> Se vuol trasferire la sede all’estero, la società deve informarne senza indugio l’Amministrazione federale delle contribuzioni, inviarle il bilancio e il conto dei profitti e delle perdite compilati al giorno del trasferimento della sede e, in pari tempo, pagare l’imposta dovuta sulla sostanza eccedente il capitale sociale versato. Tale disposizione si applica parimente alla società che, avendo la sede statutaria all’estero, vi vuole trasferire anche la direzione effettiva.
+<sup>5</sup> Se vuol trasferire la sede all’estero, la società deve informarne senza indugio l’AFC, inviarle il bilancio e il conto dei profitti e delle perdite compilati al giorno del trasferimento della sede e, in pari tempo, pagare l’imposta dovuta sulla sostanza eccedente il capitale sociale versato. Tale disposizione si applica parimente alla società che, avendo la sede statutaria all’estero, vi vuole trasferire anche la direzione effettiva.
 
 [^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
@@ -354,7 +361,7 @@ Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 del
 
 #### Art. 23
 
-<sup>1</sup> Ogni società cooperativa svizzera i cui statuti prevedono delle prestazioni pecuniarie dei soci o la costituzione di capitale mediante quote sociali e ogni banca cooperativa i cui statuti prevedono la costituzione di capitale di partecipazione mediante buoni di partecipazione è tenuta ad annunciarsi all’Amministrazione federale delle contribuzioni, spontaneamente e senza indugio, non appena sia iscritta nel registro di commercio o le relative disposizioni siano riprese negli statuti; la dichiarazione deve essere corredata di una copia firmata degli statuti.[^23-1]
+<sup>1</sup> Ogni società cooperativa svizzera i cui statuti prevedono delle prestazioni pecuniarie dei soci o la costituzione di capitale mediante quote sociali e ogni banca cooperativa i cui statuti prevedono la costituzione di capitale di partecipazione mediante buoni di partecipazione è tenuta ad annunciarsi all’AFC, spontaneamente e senza indugio, non appena sia iscritta nel registro di commercio o le relative disposizioni siano riprese negli statuti; la dichiarazione deve essere corredata di una copia firmata degli statuti.[^23-1]
 
 <sup>2</sup> Gli articoli 21 e 22 si applicano per analogia al rendiconto d’imposta, alla presentazione del conto annuale e allo scioglimento della società cooperativa.[^23-2]
 
@@ -372,14 +379,16 @@ Ogni società anonima o società a garanzia limitata svizzera (art. 9 cpv. 1 del
 
 <sup>1</sup>
 
-La società può essere autorizzata, su richiesta, a soddisfare alle sue obbligazioni fiscali mediante la notifica della prestazione imponibile (art. 20 della legge) quando:
+La società può essere autorizzata, su richiesta, a soddisfare alle sue obbligazioni fiscali mediante la notifica della prestazione imponibile (art. 20 LIP) quando:
 
 - a. l’imposta accertata in occasione di un controllo ufficiale o di una verifica dei libri di commercio riguarda prestazioni maturate in anni anteriori;
 - b. si dia emissione o aumento del valore nominale di azioni di quote sociali o di certificati di quote in società cooperative mediante scioglimento di riserve della società (azioni gratuite, ecc.);
 - c. si dia distribuzione di dividendi in natura o di eccedenze di liquidazione mediante cessione dell’attivo;
 - d. si dia trasferimento della sede all’estero.
 
-<sup>2</sup> La procedura della notifica è ammessa soltanto se è accertato che le persone a carico delle quali l’imposta dovrebbe essere trasferita (beneficiari della prestazione) avrebbero diritto al suo rimborso, ai termini della legge o dell’ordinanza, e se il loro numero non supera venti persone.
+<sup>2</sup> La procedura della notifica è ammessa soltanto se è accertato che le persone a carico delle quali l’imposta dovrebbe essere trasferita (beneficiari della prestazione) avrebbero diritto al suo rimborso, ai termini della LIP o della presente ordinanza[^24-1], e se il loro numero non supera venti persone.
+
+[^24-1]: Nuova espr. giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 ### 2. Notifica nel caso di riscatto dei propri diritti di partecipazione
 
@@ -389,7 +398,7 @@ La società può essere autorizzata, su richiesta, a soddisfare alle sue obbliga
 
 La società o la società cooperativa può essere autorizzata, su richiesta, a soddisfare ai suoi obblighi fiscali mediante la notifica della prestazione imponibile se:
 
-- a. l’imposta è dovuta giusta l’articolo 4*a* capoverso 2 della legge;
+- a. l’imposta è dovuta giusta l’articolo 4*a* capoverso 2 LIP;
 - b. la società contribuente prova che i diritti di partecipazione riscattati provengono dalla sostanza commerciale del venditore;
 - c. al momento della vendita il venditore era assoggettato illimitatamente all’imposta in Svizzera; e
 - d. la vendita è stata contabilizzata correttamente dal venditore.
@@ -406,12 +415,12 @@ La società o la società cooperativa può essere autorizzata, su richiesta, a s
 
 <sup>1</sup>
 
-L’istanza deve essere presentata per iscritto all’Amministrazione federale delle contribuzioni; essa deve menzionare:
+L’istanza deve essere presentata per iscritto all’AFC; essa deve menzionare:
 
 - a. i dati personali dei beneficiari della prestazione e il luogo del domicilio o della dimora alla scadenza della prestazione;
 - b. il genere e l’ammontare lordo della prestazione spettante a ciascun beneficiario, la data della scadenza ed, eventualmente, il periodo a cui si riferisce la prestazione.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni chiarisce la fattispecie e prende la sua decisione; essa può subordinare l’accoglimento dell’istanza ad oneri e condizioni. La decisione quanto a prestazioni non ancora maturate è presa con riserva del controllo successivo del diritto al rimborso spettante al beneficiario alla scadenza della prestazione.
+<sup>2</sup> L’AFC chiarisce la fattispecie e prende la sua decisione; essa può subordinare l’accoglimento dell’istanza ad oneri e condizioni. La decisione quanto a prestazioni non ancora maturate è presa con riserva del controllo successivo del diritto al rimborso spettante al beneficiario alla scadenza della prestazione.
 
 <sup>3</sup> L’autorizzazione non dispensa la società dall’obbligo di assicurarsi, prima di fare la notifica, che il beneficiario aveva ancora in Svizzera il domicilio o la dimora durevole alla scadenza della prestazione.
 
@@ -423,13 +432,13 @@ L’istanza deve essere presentata per iscritto all’Amministrazione federale d
 
 #### Art. 26
 
-<sup>1</sup> La notifica della prestazione imponibile, con tutti i dati enumerati all’articolo 3 capoverso 2, deve essere presentata all’Amministrazione federale delle contribuzioni in tanti duplicati quanti sono i beneficiari, nel termine previsto all’articolo 21, corredata dei giustificativi ivi prescritti.
+<sup>1</sup> La notifica della prestazione imponibile, con tutti i dati enumerati all’articolo 3 capoverso 2, deve essere presentata all’AFC in tanti duplicati quanti sono i beneficiari, nel termine previsto all’articolo 21, corredata dei giustificativi ivi prescritti.
 
 <sup>2</sup> Se l’istanza, di cui all’articolo 25 capoverso 1, soddisfa alle esigenze poste dal capoverso precedente quanto al contenuto e al numero degli esemplari chiesti, si rende superfluo presentare una nuova notifica; in caso contrario, la notifica sostitutiva del pagamento dell’imposta (art. 24 cpv. 1 lett. *a*) deve essere presentata nei 30 giorni successivi all’autorizzazione.
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni trasmette le notifiche alle autorità cantonali competenti. Queste sono tenute, in quanto l’Amministrazione federale delle contribuzioni lo disponga in seguito ad una riserva di cui all’articolo 25 capoverso 2, ad informarla se il beneficiario della prestazione potrebbe ottenere il rimborso dell’imposta.
+<sup>3</sup> L’AFC trasmette le notifiche alle autorità cantonali competenti. Queste sono tenute, in quanto l’AFC lo disponga in seguito ad una riserva di cui all’articolo 25 capoverso 2, ad informarla se il beneficiario della prestazione potrebbe ottenere il rimborso dell’imposta.
 
-<sup>4</sup> Se al beneficiario della prestazione non compete il diritto al rimborso dell’imposta, l’Amministrazione federale delle contribuzioni esige l’imposta dalla società o dai corresponsabili. È riservata l’apertura del procedimento penale.
+<sup>4</sup> Se al beneficiario della prestazione non compete il diritto al rimborso dell’imposta, l’AFC esige l’imposta dalla società o dai corresponsabili. È riservata l’apertura del procedimento penale.
 
 ### 5. Notifica sostitutiva del pagamento dell’imposta per i dividendi all’interno di un gruppo
 
@@ -437,27 +446,27 @@ L’istanza deve essere presentata per iscritto all’Amministrazione federale d
 
 [^26a-1]
 
-<sup>1</sup> La società di capitali, la società cooperativa, l’investimento collettivo di capitale o l’ente pubblico ai sensi dell’articolo 24 capoverso 1 della legge che partecipa direttamente per almeno il 20 per cento al capitale sociale di una società di capitali o di una società cooperativa può ordinare a quest'ultima, tramite istanza redatta su modulo ufficiale, di versarle i dividendi senza dedurre l’imposta preventiva.[^26a-2]
+<sup>1</sup> La persona giuridica, l’investimento collettivo di capitale o l’ente pubblico ai sensi dell’articolo 24 capoverso 1 LIP che partecipa direttamente per almeno il 10 per cento al capitale sociale di una società di capitali o di una società cooperativa può ordinare a quest’ultima, tramite istanza redatta su modulo ufficiale, di versarle i dividendi senza dedurre l’imposta preventiva.[^26a-2]
 
-<sup>2</sup> La società contribuente, da parte sua, completa l’istanza e la presenta spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dalla scadenza dei dividendi unitamente al modulo ufficiale da allegare al conto annuale. È applicabile l’articolo 21.
+<sup>2</sup> La società contribuente, da parte sua, completa l’istanza e la presenta spontaneamente all’AFC entro 30 giorni dalla scadenza dei dividendi unitamente al modulo ufficiale da allegare al conto annuale. È applicabile l’articolo 21.
 
-<sup>3</sup> La procedura di notifica è ammessa soltanto se è accertato che la società di capitali, la società cooperativa, l’investimento collettivo di capitale oppure l’ente pubblico, a carico della o del quale l’imposta dovrebbe essere trasferita, avrebbe diritto al suo rimborso secondo la legge o l’ordinanza.[^26a-3]
+<sup>3</sup> La procedura di notifica è ammessa soltanto se è accertato che la persona giuridica, l’investimento collettivo di capitale oppure l’ente pubblico, a carico della o del quale l’imposta dovrebbe essere trasferita, avrebbe diritto al suo rimborso secondo la LIP o la presente ordinanza.[^26a-3]
 
-<sup>4</sup> Se dal controllo dell’Amministrazione federale delle contribuzioni risulta che si è a torto usato della procedura di notifica, l’imposta preventiva deve essere riscossa posticipatamente; se il credito fiscale è contestato, l’Amministrazione federale delle contribuzioni emana una corrispondente decisione. È fatta salva l’apertura di un procedimento penale.
+<sup>4</sup> Se dal controllo dell’AFC risulta che si è a torto usato della procedura di notifica, l’imposta preventiva deve essere riscossa posticipatamente; se il credito fiscale è contestato, l’AFC emana una corrispondente decisione. È fatta salva l’apertura di un procedimento penale.
 
 [^26a-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2994](https://fedlex.data.admin.ch/eli/oc/2000/542)).
-[^26a-2]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
-[^26a-3]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^26a-2]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^26a-3]: Nuovo testo giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### IV. Condono
 
 #### Art. 27
 
-<sup>1</sup> L’istanza di condono del credito fiscale, giusta l’articolo 18 della legge, deve essere presentata all’Amministrazione federale delle contribuzioni al più tardi insieme con il rendiconto dell’imposta scaduta (art. 21) o con la dichiarazione d’imposta (art. 23 cpv. 2).
+<sup>1</sup> L’istanza di condono del credito fiscale, giusta l’articolo 18 LIP, deve essere presentata all’AFC al più tardi insieme con il rendiconto dell’imposta scaduta (art. 21) o con la dichiarazione d’imposta (art. 23 cpv. 2).
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni può esigere dall’istante le informazioni e i documenti giustificativi necessari quanto a tutti i fatti che potrebbero essere di qualche momento per il condono; l’istanza è respinta se il richiedente non soddisfa agli obblighi impostigli.
+<sup>2</sup> L’AFC può esigere dall’istante le informazioni e i documenti giustificativi necessari quanto a tutti i fatti che potrebbero essere di qualche momento per il condono; l’istanza è respinta se il richiedente non soddisfa agli obblighi impostigli.
 
-### C. Imposta sui redditi delle quote in investimento collettivo di capitale****
+### C. Imposta sui redditi delle quote in investimento collettivo di capitale
 
 [^tit1-chap2-lvlC-1]
 
@@ -471,7 +480,7 @@ L’istanza deve essere presentata per iscritto all’Amministrazione federale d
 
 [^28-1]
 
-<sup>1</sup> Si considera reddito imponibile di quote in un investimento collettivo di capitale ogni prestazione valutabile in denaro, fondata sulle quote, corrisposta al loro portatore, la quale non è versata mediante cedola che serve esclusivamente alla distribuzione di profitti in capitale, di proventi derivanti dal possesso fondiario diretto o al rimborso di versamenti di capitale (art. 5 cpv. 1 lett. b della legge).
+<sup>1</sup> Si considera reddito imponibile di quote in un investimento collettivo di capitale ogni prestazione valutabile in denaro, fondata sulle quote, corrisposta al loro portatore, la quale non è versata mediante cedola che serve esclusivamente alla distribuzione di profitti in capitale, di proventi derivanti dal possesso fondiario diretto o al rimborso di versamenti di capitale (art. 5 cpv. 1 lett. b LIP).
 
 <sup>2</sup> In caso di ripresa delle quote l’imposta è riscossa soltanto se la ripresa è dovuta a scioglimento o liquidazione dell’investimento collettivo di capitale.
 
@@ -503,9 +512,9 @@ Le perdite subite da un investimento collettivo di capitale e le spese relative 
 
 #### Art. 31
 
-<sup>1</sup> La persona domiciliata in Svizzera che è contribuente ai termini dell’articolo 10 capoverso 2 della legge è tenuta, prima di iniziare l’emissione delle quote e senza esservi sollecitata, a dichiararsi come contribuente all’Amministrazione federale delle contribuzioni.[^31-1]
+<sup>1</sup> La persona domiciliata in Svizzera che è contribuente ai termini dell’articolo 10 capoverso 2 LIP è tenuta, prima di iniziare l’emissione delle quote e senza esservi sollecitata, a dichiararsi come contribuente all’AFC.[^31-1]
 
-<sup>2</sup> La dichiarazione deve indicare: il nome (ditta) e la sede della direzione del fondo, quelli della banca depositaria e, se l’una e l’altra si trovano all’estero, quelli della persona domiciliata in Svizzera che ha emesso unitamente a loro le quote, come pure quelli di qualsiasi persona che presta in Svizzera la sua opera come ufficio di pagamento (art. 10 cpv. 2 della legge); il nome dell'investimento collettivo di capitale; la data alla quale s’inizierà l’emissione delle quote; l’esercizio contabile e la durata del fondo.[^31-2]
+<sup>2</sup> La dichiarazione deve indicare: il nome (ditta) e la sede della direzione del fondo, quelli della banca depositaria e, se l’una e l’altra si trovano all’estero, quelli della persona domiciliata in Svizzera che ha emesso unitamente a loro le quote, come pure quelli di qualsiasi persona che presta in Svizzera la sua opera come ufficio di pagamento (art. 10 cpv. 2 LIP); il nome dell'investimento collettivo di capitale; la data alla quale s’inizierà l’emissione delle quote; l’esercizio contabile e la durata del fondo.[^31-2]
 
 <sup>2bis</sup>
 
@@ -516,9 +525,9 @@ La dichiarazione deve essere corredata dei seguenti documenti:
 - c. il contratto di società della società in accomandita per investimenti collettivi di capitale;
 - d. gli statuti e il regolamento di investimento della società di investimento a capitale fisso (SICAF).[^31-3]
 
-<sup>3</sup> Le modificazioni sopravvenute dopo l’inizio dell’attività relativamente ai dati o ai documenti di cui ai capoversi 2 e 2<sup>bis</sup>, in particolare l’apertura di nuovi uffici di pagamento, devono essere dichiarate spontaneamente all’Amministrazione federale delle contribuzioni.[^31-4]
+<sup>3</sup> Le modificazioni sopravvenute dopo l’inizio dell’attività relativamente ai dati o ai documenti di cui ai capoversi 2 e 2<sup>bis</sup>, in particolare l’apertura di nuovi uffici di pagamento, devono essere dichiarate spontaneamente all’AFC.[^31-4]
 
-<sup>4</sup> Se delle quote vengono emesse da una persona domiciliata all’estero unitamente a una persona domiciliata in Svizzera, quest’ultima è tenuta, su richiesta dell’Amministrazione federale delle contribuzioni, a presentare la contabilità dell'investimento collettivo di capitale, corredata dei documenti giustificativi.
+<sup>4</sup> Se delle quote vengono emesse da una persona domiciliata all’estero unitamente a una persona domiciliata in Svizzera, quest’ultima è tenuta, su richiesta dell’AFC, a presentare la contabilità dell'investimento collettivo di capitale, corredata dei documenti giustificativi.
 
 [^31-1]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 [^31-2]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
@@ -531,13 +540,13 @@ La dichiarazione deve essere corredata dei seguenti documenti:
 
 #### Art. 32
 
-<sup>1</sup> Il contribuente, inteso ai termini dell’articolo 10 capoverso 2 della legge, deve pagare spontaneamente l’imposta all’Amministrazione federale delle contribuzioni entro 30 giorni dalla scadenza del reddito (scadenza della cedola), in base a un rendiconto da farsi su modulo ufficiale.
+<sup>1</sup> Il contribuente, inteso ai termini dell’articolo 10 capoverso 2 LIP, deve pagare spontaneamente l’imposta all’AFC entro 30 giorni dalla scadenza del reddito (scadenza della cedola), in base a un rendiconto da farsi su modulo ufficiale.
 
-<sup>2</sup> Nei sei mesi successivi alla fine dell’esercizio, il contribuente è tenuto a consegnare spontaneamente all’Amministrazione federale delle contribuzioni il rapporto annuale e il conto annuale dell’investimento collettivo di capitale di cui alla legge federale del 23 giugno 2006[^32-1] sugli investimenti collettivi di capitale (LICol).[^32-2]
+<sup>2</sup> Nei sei mesi successivi alla fine dell’esercizio, il contribuente è tenuto a consegnare spontaneamente all’AFC il rapporto annuale e il conto annuale dell’investimento collettivo di capitale di cui alla legge federale del 23 giugno 2006[^32-1] sugli investimenti collettivi di capitale (LICol).[^32-2]
 
 <sup>3</sup> Il conto annuale da consegnarsi conformemente al capoverso 2 indicherà quale parte dei profitti in capitale che vi figurano è stata conseguita in società che appartengono al fondo.
 
-<sup>4</sup> Se il rapporto annuale e il conto annuale non sono stati ancora compilati nei sei mesi successivi alla fine dell’esercizio, il contribuente è tenuto a informare l’Amministrazione federale delle contribuzioni, prima della scadenza del settimo mese, dei motivi del ritardo e della data in cui verranno presumibilmente compilati il rapporto annuale e il conto annuale.[^32-3]
+<sup>4</sup> Se il rapporto annuale e il conto annuale non sono stati ancora compilati nei sei mesi successivi alla fine dell’esercizio, il contribuente è tenuto a informare l’AFC, prima della scadenza del settimo mese, dei motivi del ritardo e della data in cui verranno presumibilmente compilati il rapporto annuale e il conto annuale.[^32-3]
 
 [^32-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 [^32-2]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
@@ -547,13 +556,13 @@ La dichiarazione deve essere corredata dei seguenti documenti:
 
 #### Art. 33
 
-<sup>1</sup> Se un investimento collettivo di capitale viene sciolto, il contribuente deve informarne l’Amministrazione federale delle contribuzioni prima di procedere a qualsiasi operazione di liquidazione.
+<sup>1</sup> Se un investimento collettivo di capitale viene sciolto, il contribuente deve informarne l’AFC prima di procedere a qualsiasi operazione di liquidazione.
 
 <sup>2</sup> La negoziazione delle quote in sedi di negoziazione o in sistemi organizzati di negoziazione sarà sospesa a partire dal momento in cui il fondo viene sciolto.[^33-1]
 
-<sup>3</sup> La ripartizione del ricavato della liquidazione è consentita soltanto dopo che l’Amministrazione federale delle contribuzioni vi abbia dato il suo assenso.
+<sup>3</sup> La ripartizione del ricavato della liquidazione è consentita soltanto dopo che l’AFC vi abbia dato il suo assenso.
 
-<sup>4</sup> Se il contribuente vuol trasferire la sede all’estero e se un’altra persona domiciliata in Svizzera non gli succede nelle sue obbligazioni fiscali, conformemente all’articolo 10 capoverso 2 della legge, egli è tenuto ad informarne senza indugio l’Amministrazione federale delle contribuzioni.
+<sup>4</sup> Se il contribuente vuol trasferire la sede all’estero e se un’altra persona domiciliata in Svizzera non gli succede nelle sue obbligazioni fiscali, conformemente all’articolo 10 capoverso 2 LIP, egli è tenuto ad informarne senza indugio l’AFC.
 
 [^33-1]: Nuovo testo giusta l’all. 1 n. 9 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
@@ -567,11 +576,11 @@ La dichiarazione deve essere corredata dei seguenti documenti:
 
 #### Art. 34
 
-<sup>1</sup> Se il contribuente rende plausibile che il reddito imponibile delle quote in un investimento collettivo di capitale perverrà almeno per l’80 per cento da fonti estere, per un periodo presunto durevole, l’Amministrazione federale delle contribuzioni può autorizzarlo, su richiesta, a non pagare l’imposta nella misura in cui il reddito è pagato, girato o accreditato a stranieri dietro presentazione di una dichiarazione di domicilio (affidavit).
+<sup>1</sup> Se il contribuente rende plausibile che il reddito imponibile delle quote in un investimento collettivo di capitale perverrà almeno per l’80 per cento da fonti estere, per un periodo presunto durevole, l’AFC può autorizzarlo, su richiesta, a non pagare l’imposta nella misura in cui il reddito è pagato, girato o accreditato a stranieri dietro presentazione di una dichiarazione di domicilio (affidavit).
 
 <sup>2</sup> L’autorizzazione è concessa se il contribuente dà tutte le garanzie per un controllo efficace dei conti annuali e delle dichiarazioni di domicilio che gli vengono consegnate; essa può essere limitata alle dichiarazioni di determinati istituti.[^34-1]
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni revoca la autorizzazione se non sono più garantiti il suo uso corretto o il controllo.
+<sup>3</sup> L’AFC revoca la autorizzazione se non sono più garantiti il suo uso corretto o il controllo.
 
 [^34-1]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 
@@ -607,13 +616,13 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 - b. alla scadenza del reddito imponibile la quota si trovava presso di essa in deposito aperto;
 - c. il reddito imponibile è stato accreditato ad un conto da essa tenuto per detto straniero.
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni delimita le categorie di stranieri a favore dei quali può essere rilasciata una dichiarazione di domicilio.
+<sup>3</sup> L’AFC delimita le categorie di stranieri a favore dei quali può essere rilasciata una dichiarazione di domicilio.
 
 <sup>4</sup> Un istituto che, alla scadenza del reddito imponibile, non detiene le quote in deposito proprio può rilasciare una dichiarazione di domicilio solo fondandosi su una dichiarazione corrispondente di un altro istituto svizzero.[^36-8]
 
-<sup>5</sup> L’Amministrazione federale delle contribuzioni può accettare anche le dichiarazioni di domicilio di una banca o di un depositario esteri sottoposti a vigilanza ufficiale.[^36-9]
+<sup>5</sup> L’AFC può accettare anche le dichiarazioni di domicilio di una banca o di un depositario esteri sottoposti a vigilanza ufficiale.[^36-9]
 
-<sup>6</sup> Le dichiarazioni di domicilio possono essere consegnate in formato elettronico solo su autorizzazione dell’Amministrazione federale delle contribuzioni.[^36-10]
+<sup>6</sup> Le dichiarazioni di domicilio possono essere consegnate in formato elettronico solo su autorizzazione dell’AFC.[^36-10]
 
 [^36-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^36-2]: Nuovo testo giusta l’all. 1 n. II 5 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
@@ -630,9 +639,9 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 #### Art. 37
 
-<sup>1</sup> L’istituto che rilascia una dichiarazione di domicilio deve presentare, su richiesta dell’Amministrazione federale delle contribuzioni, i documenti giustificativi necessari al controllo, compresi quelli che, se del caso, deve procurarsi presso la banca o il depositario esteri (art. 36 cpv. 5).[^37-1]
+<sup>1</sup> L’istituto che rilascia una dichiarazione di domicilio deve presentare, su richiesta dell’AFC, i documenti giustificativi necessari al controllo, compresi quelli che, se del caso, deve procurarsi presso la banca o il depositario esteri (art. 36 cpv. 5).[^37-1]
 
-<sup>2</sup> Se l’istituto si rifiuta di presentare i documenti giustificativi, se quelli presentati sono insufficienti o se esso rilascia una dichiarazione inesatta, l’imposta deve essere pagata. L’Amministrazione federale delle contribuzioni può interdire all’istituto di rilasciare dichiarazioni; in questo caso informa gli altri istituti e il contribuente che, in avvenire, le dichiarazioni di detto istituto sono inefficaci. È fatta salva l’apertura di un procedimento penale.[^37-2]
+<sup>2</sup> Se l’istituto si rifiuta di presentare i documenti giustificativi, se quelli presentati sono insufficienti o se esso rilascia una dichiarazione inesatta, l’imposta deve essere pagata. L’AFC può interdire all’istituto di rilasciare dichiarazioni; in questo caso informa gli altri istituti e il contribuente che, in avvenire, le dichiarazioni di detto istituto sono inefficaci. È fatta salva l’apertura di un procedimento penale.[^37-2]
 
 [^37-1]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
 [^37-2]: Nuovo testo giusta il n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
@@ -653,13 +662,14 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 [^38a-1]
 
-<sup>1</sup> Su richiesta, l’Amministrazione federale delle contribuzioni può autorizzare l’investimento collettivo di capitale a soddisfare ai suoi obblighi fiscali mediante la notifica dei redditi imponibili, se i suoi investitori sono esclusivamente istituti svizzeri di previdenza professionale o di previdenza vincolata, istituti di libero passaggio, assicurazioni sociali o casse di compensazione esentati dalle imposte nonché società d'assicurazione sulla vita soggette alla vigilanza della Confederazione oppure società svizzere d'assicurazione sulla vita di diritto pubblico.
+<sup>1</sup> Su richiesta, l’AFC può autorizzare l’investimento collettivo di capitale a soddisfare ai suoi obblighi fiscali mediante la notifica dei redditi imponibili, se i suoi investitori sono esclusivamente istituti svizzeri di previdenza professionale o di previdenza vincolata, istituti di libero passaggio, assicurazioni sociali o casse di compensazione esentati dalle imposte nonché società d’assicurazione sulla vita soggette alla vigilanza della Confederazione oppure società svizzere d'assicurazione sulla vita di diritto pubblico.
 
-<sup>2</sup> La procedura di notifica è ammessa soltanto se è accertato che i beneficiari delle prestazioni a carico dei quali l’imposta dovrebbe essere trasferita avrebbero diritto al suo rimborso secondo la legge o l’ordinanza. La procedura è retta per analogia dagli articoli 25 e 26 capoversi 1, 2 e 4.
+<sup>2</sup> La procedura di notifica è ammessa soltanto se è accertato che i beneficiari delle prestazioni a carico dei quali l’imposta dovrebbe essere trasferita avrebbero diritto al suo rimborso secondo la LIP o la presente ordinanza[^38a-2]. La procedura è retta per analogia dagli articoli 25 e 26 capoversi 1, 2 e 4.
 
 [^38a-1]: Introdotto dal n. I 2 dell’O del 15 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5073](https://fedlex.data.admin.ch/eli/oc/2008/703)).
+[^38a-2]: Nuova espr. giusta il n. I 1 dell’O del 4 mag. 2022 sulla procedura di notifica all’interno di un gruppo ai fini dell’imposta preventiva, in vigore dal 1° gen. 2023 ([RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
-### Capo terzo: Imposta sulle vincite ai giochi in denaro, alle lotterie e ai giochi di destrezza destinati a promuovere le vendite (art. 6 LIP)****
+### Capo terzo: Imposta sulle vincite ai giochi in denaro, alle lotterie e ai giochi di destrezza destinati a promuovere le vendite (art. 6 LIP)
 
 [^tit1-chap3-1]
 
@@ -685,9 +695,9 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 #### Art. 41
 
-<sup>1</sup> L’imposta è calcolata sull’ammontare delle singole vincite in denaro risultanti dalla partecipazione a giochi in denaro di oltre un milione di franchi. Essa deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.[^41-1]
+<sup>1</sup> L’imposta è calcolata sull’ammontare delle singole vincite in denaro risultanti dalla partecipazione a giochi in denaro di oltre un milione di franchi. Essa deve essere pagata spontaneamente all’AFC entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.[^41-1]
 
-<sup>2</sup> Se desidera procedere all’estrazione prima che si sia iniziata o terminata la vendita dei biglietti, l’organizzatore deve informarne l’Amministrazione federale delle contribuzioni. Essa stabilisce, allora, i termini per il pagamento dell’imposta.
+<sup>2</sup> Se desidera procedere all’estrazione prima che si sia iniziata o terminata la vendita dei biglietti, l’organizzatore deve informarne l’AFC. Essa stabilisce, allora, i termini per il pagamento dell’imposta.
 
 <sup>3</sup> …[^41-2]
 
@@ -700,7 +710,7 @@ Nella dichiarazione l’istituto è tenuto ad attestare per iscritto che:[^36-7]
 
 [^41a-1]
 
-Le vincite in natura superiori a un milione di franchi risultanti dalla partecipazione a giochi in denaro devono essere dichiarate spontaneamente su modulo ufficiale all’Amministrazione federale delle contribuzioni entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore. L’articolo 41 capoverso 2 è applicabile per analogia.
+Le vincite in natura superiori a un milione di franchi risultanti dalla partecipazione a giochi in denaro devono essere dichiarate spontaneamente su modulo ufficiale all’AFC entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore. L’articolo 41 capoverso 2 è applicabile per analogia.
 
 [^41a-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
@@ -712,7 +722,7 @@ Le vincite in natura superiori a un milione di franchi risultanti dalla partecip
 
 [^41b-1]
 
-L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a lotterie e giochi di destrezza destinati a promuovere le vendite. Essa deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.
+L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a lotterie e giochi di destrezza destinati a promuovere le vendite. Essa deve essere pagata spontaneamente all’AFC entro 30 giorni dalla determinazione del risultato sulla base di un rendiconto su modulo ufficiale.
 
 [^41b-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
@@ -722,7 +732,7 @@ L’imposta è calcolata sulle singole vincite in denaro di oltre 1000 franchi a
 
 [^41c-1]
 
-Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie destinati a promuovere le vendite devono essere dichiarate spontaneamente su modulo ufficiale all’Amministrazione federale delle contribuzioni entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore.
+Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie destinati a promuovere le vendite devono essere dichiarate spontaneamente su modulo ufficiale all’AFC entro 90 giorni dalla determinazione del risultato. Al modulo va allegato un certificato di domicilio valido del vincitore.
 
 [^41c-1]: Introdotto dall’all. 2 n. II 3 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
@@ -730,7 +740,7 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 #### Art. 42
 
-<sup>1</sup> Scaduto il termine di prescrizione dei premi non ritirati, l’organizzatore può chiedere all’Amministrazione federale delle contribuzioni il rimborso dell’imposta che è in grado di provare d’aver pagata sui premi non ritirati o, d’intesa con l’Amministrazione, computare tale imposta nel prossimo rendiconto.
+<sup>1</sup> Scaduto il termine di prescrizione dei premi non ritirati, l’organizzatore può chiedere all’AFC il rimborso dell’imposta che è in grado di provare d’aver pagata sui premi non ritirati o, d’intesa con l’Amministrazione, computare tale imposta nel prossimo rendiconto.
 
 <sup>2</sup> L’organizzatore è tenuto ad allegare all’istanza di rimborso o al rendiconto d’imposta una distinta nella quale devono figurare la designazione dell’organizzazione, la data dell’estrazione, il numero del biglietto non ritirato e l’ammontare della vincita al lordo dell’imposta; in pari tempo, l’organizzatore è tenuto a certificare per iscritto che l’imposta rimborsata o computata sarà devoluta all’opera alla quale è destinata la lotteria e che verrà allibrata in conseguenza.
 
@@ -748,7 +758,7 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 <sup>2</sup> Se la risoluzione anticipata porta su tutta o su parte dell’assicurazione e la prestazione che ne deriva, da sola o addizionata alle somme già versate in base alla stessa assicurazione, eccede 5000 franchi, la prestazione è assoggettata all’imposta, comprese le prestazioni anteriori non ancora tassate.
 
-<sup>3</sup> Se un’assicurazione è trasferita da un portafoglio svizzero ad un portafoglio estero o se una persona domiciliata in Svizzera cede i suoi diritti derivanti dall’assicurazione ad una persona domiciliata all’estero (art. 7 cpv. 2 della legge), l’imposta è calcolata sull’ammontare più alto delle prestazioni in capitale concordate per l’avverarsi dell’evento assicurato o, se si tratta di rendite e di pensioni, sul loro valore monetario al giorno concordato per l’inizio del pagamento.
+<sup>3</sup> Se un’assicurazione è trasferita da un portafoglio svizzero ad un portafoglio estero o se una persona domiciliata in Svizzera cede i suoi diritti derivanti dall’assicurazione ad una persona domiciliata all’estero (art. 7 cpv. 2 LIP), l’imposta è calcolata sull’ammontare più alto delle prestazioni in capitale concordate per l’avverarsi dell’evento assicurato o, se si tratta di rendite e di pensioni, sul loro valore monetario al giorno concordato per l’inizio del pagamento.
 
 ### 2. Partecipazioni agli utili
 
@@ -756,7 +766,7 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 <sup>1</sup> Le partecipazioni agli utili non sono assoggettate all’imposta se vengono impiegate come premi per un’assicurazione supplementare, computate volta per volta su premi dovuti o versate all’avente diritto.
 
-<sup>2</sup> Se le partecipazioni agli utili vengono accreditate con interesse continuo all’avente diritto che ne può disporre liberamente, gli importi accreditati costituiscono averi di clienti ai termini dell’articolo 4 capoverso 1 lettera *d* della legge.
+<sup>2</sup> Se le partecipazioni agli utili vengono accreditate con interesse continuo all’avente diritto che ne può disporre liberamente, gli importi accreditati costituiscono averi di clienti ai termini dell’articolo 4 capoverso 1 lettera *d* LIP.
 
 <sup>3</sup> Le altre partecipazioni agli utili sono assoggettate alla imposta, a titolo di prestazioni d’assicurazione, all’atto del versamento.
 
@@ -764,11 +774,11 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 #### Art. 45
 
-<sup>1</sup> Per le assicurazioni di gruppo, al fine di evitare complicazioni sproporzionate, l’Amministrazione federale delle contribuzioni può, con gli oneri e alle condizioni da essa stabiliti, liberare dall’obbligazione fiscale le prestazioni dell’assicuratore di gruppo o quelle dello stipulante dell’assicurazione di gruppo.
+<sup>1</sup> Per le assicurazioni di gruppo, al fine di evitare complicazioni sproporzionate, l’AFC può, con gli oneri e alle condizioni da essa stabiliti, liberare dall’obbligazione fiscale le prestazioni dell’assicuratore di gruppo o quelle dello stipulante dell’assicurazione di gruppo.
 
 <sup>2</sup> Se l’assicuratore di gruppo versa la sua prestazione direttamente all’assicurato o ad un avente diritto, egli deve indicare nella dichiarazione della prestazione imponibile anche lo stipulante dell’assicurazione di gruppo.
 
-<sup>3</sup> L’assicuratore di gruppo o lo stipulante dell’assicurazione di gruppo che è esente dall’obbligazione fiscale (cpv. 1), non è dispensato dal tenere la contabilità conformemente all’articolo 2. Dandosi il caso del capoverso 2, lo stipulante dell’assicurazione di gruppo è tenuto a presentare, su richiesta dell’Amministrazione federale delle contribuzioni, i documenti giustificativi quanto al rapporto assicurativo.
+<sup>3</sup> L’assicuratore di gruppo o lo stipulante dell’assicurazione di gruppo che è esente dall’obbligazione fiscale (cpv. 1), non è dispensato dal tenere la contabilità conformemente all’articolo 2. Dandosi il caso del capoverso 2, lo stipulante dell’assicurazione di gruppo è tenuto a presentare, su richiesta dell’AFC, i documenti giustificativi quanto al rapporto assicurativo.
 
 <sup>4</sup> La liquidazione di buonuscita versata ad un assicurato in caso di resiliazione anticipata del rapporto di servizio è liberata dall’imposta se è trasferita direttamente, ai fini del riscatto, dall’istituzione assicurativa del vecchio datore di lavoro a quella del nuovo datore di lavoro.
 
@@ -778,13 +788,13 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 #### Art. 46
 
-<sup>1</sup> Chiunque pratica in Svizzera l’assicurazione sulla vita o l’assicurazione di rendite e di pensioni ha l’obbligo, prima di iniziare la sua attività, di dichiararsi spontaneamente all’Amministrazione federale delle contribuzioni; la dichiarazione può essere collegata con quella richiesta per la tassa di bollo sulle quietanze dei premi d’assicurazione.
+<sup>1</sup> Chiunque pratica in Svizzera l’assicurazione sulla vita o l’assicurazione di rendite e di pensioni ha l’obbligo, prima di iniziare la sua attività, di dichiararsi spontaneamente all’AFC; la dichiarazione può essere collegata con quella richiesta per la tassa di bollo sulle quietanze dei premi d’assicurazione.
 
 <sup>2</sup> La dichiarazione delle compagnie d’assicurazione concessionarie menzionerà: il nome (ditta) e la sede della compagnia; i rami assicurativi praticati e l’inizio dell’attività.
 
 <sup>3</sup> Il capoverso 2 si applica per analogia agli istituti, casse ed altri enti aventi per scopo l’assicurazione per la vecchiaia, l’invalidità, i superstiti o la previdenza sociale, nonché ai datori di lavoro e alle associazioni di categoria professionale che hanno istituzioni di previdenza o d’assicurazione; essi invieranno, con la dichiarazione, gli statuti, il regolamento e ogni altro documento necessario al controllo dell’obbligazione fiscale e, in caso, indicheranno l’assicuratore di gruppo.
 
-<sup>4</sup> Le modificazioni sopravvenute dopo l’inizio dell’attività relativamente ai fatti da dichiarare o ai giustificativi da inviare conformemente ai capoversi 2 e 3, in particolare la partecipazione di nuovi assicuratori di gruppo, devono essere dichiarate spontaneamente all’Amministrazione federale delle contribuzioni.
+<sup>4</sup> Le modificazioni sopravvenute dopo l’inizio dell’attività relativamente ai fatti da dichiarare o ai giustificativi da inviare conformemente ai capoversi 2 e 3, in particolare la partecipazione di nuovi assicuratori di gruppo, devono essere dichiarate spontaneamente all’AFC.
 
 ### III. Notifica sostitutiva del pagamento dell’imposta
 
@@ -792,9 +802,9 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 #### Art. 47
 
-<sup>1</sup> L’assicuratore deve consegnare spontaneamente le notifiche previste all’articolo 19 della legge servendosi dei moduli prescritti.
+<sup>1</sup> L’assicuratore deve consegnare spontaneamente le notifiche previste all’articolo 19 LIP servendosi dei moduli prescritti.
 
-<sup>2</sup> L’Amministrazione federale delle contribuzioni può accettare, con gli oneri e alle condizioni da essa stabiliti, notifiche non firmate.
+<sup>2</sup> L’AFC può accettare, con gli oneri e alle condizioni da essa stabiliti, notifiche non firmate.
 
 <sup>3</sup> Se più prestazioni in capitale devono essere corrisposte successivamente in base alla medesima assicurazione, la notifica della prima prestazione menzionerà quelle che verranno a scadere più tardi.
 
@@ -816,7 +826,7 @@ Le vincite in natura superiori a 1000 franchi a giochi di destrezza o lotterie d
 
 #### Art. 49
 
-L’imposta sulle prestazioni d’assicurazione, alla cui notifica è stata fatta opposizione, deve essere pagata spontaneamente all’Amministrazione federale delle contribuzioni entro 30 giorni dopo la fine di ogni mese, per le prestazioni eseguite nello stesso, in base a un rendiconto da farsi su modulo ufficiale.
+L’imposta sulle prestazioni d’assicurazione, alla cui notifica è stata fatta opposizione, deve essere pagata spontaneamente all’AFC entro 30 giorni dopo la fine di ogni mese, per le prestazioni eseguite nello stesso, in base a un rendiconto da farsi su modulo ufficiale.
 
 ### 2. Attestazione quanto alla deduzione dell’imposta
 
@@ -850,7 +860,7 @@ L’imposta sulle prestazioni d’assicurazione, alla cui notifica è stata fatt
 
 <sup>1</sup> Le persone al servizio della Confederazione che, alla scadenza della prestazione imponibile, erano domiciliate o soggiornavano all’estero e vi erano esentate dalle imposte dirette in virtù di una convenzione o dell’uso internazionale, hanno diritto al rimborso dell’imposta preventiva dedotta da questa prestazione.
 
-<sup>2</sup> L’istanza di rimborso, redatta su modulo ufficiale, deve essere presentata all’Amministrazione federale delle contribuzioni.
+<sup>2</sup> L’istanza di rimborso, redatta su modulo ufficiale, deve essere presentata all’AFC.
 
 <sup>3</sup> ...[^52-1]
 
@@ -862,21 +872,21 @@ L’imposta sulle prestazioni d’assicurazione, alla cui notifica è stata fatt
 
 <sup>1</sup> Istituti, casse ed altri enti aventi per scopo l’assicurazione per la vecchiaia, l’invalidità, i superstiti o la previdenza sociale, hanno diritto al rimborso dell’imposta preventiva dedotta dai redditi fruttati dai loro propri investimenti o da quelli da essi fatti a nome dei loro depositanti.
 
-<sup>2</sup> L’istanza deve essere presentata all’Amministrazione federale delle contribuzioni; se comprende anche redditi fruttati da investimenti fatti a nome di depositanti, essa deve essere corredata di una distinta menzionante i dati personali e l’indirizzo dei depositanti, l’ammontare dei loro investimenti e il reddito lordo da essi fruttato.
+<sup>2</sup> L’istanza deve essere presentata all’AFC; se comprende anche redditi fruttati da investimenti fatti a nome di depositanti, essa deve essere corredata di una distinta menzionante i dati personali e l’indirizzo dei depositanti, l’ammontare dei loro investimenti e il reddito lordo da essi fruttato.
 
 <sup>3</sup> I singoli depositanti non hanno, in proprio, alcun diritto al rimborso dell’imposta preventiva da chiedersi conformemente al capoverso 1, e nessuna attestazione può essergli rilasciata per esercitare un diritto del genere.
 
-<sup>4</sup> L’articolo 25 della legge, concernente la perdita del diritto al rimborso quando non si dia registrazione dei redditi, si applica per analogia alle istituzioni che non sono giuridicamente indipendenti.
+<sup>4</sup> L’articolo 25 LIP, concernente la perdita del diritto al rimborso quando non si dia registrazione dei redditi, si applica per analogia alle istituzioni che non sono giuridicamente indipendenti.
 
 ### 4. Associazioni di risparmio e casse di risparmio aziendali
 
 #### Art. 54
 
-<sup>1</sup> Un’associazione di risparmio o una cassa di risparmio ai sensi dell’articolo 9 capoverso 2 della legge ha diritto al rimborso dell’imposta preventiva per conto del depositante se la sua quota al reddito lordo non eccede 200 franchi per anno civile. L’istanza deve essere presentata all’Amministrazione federale delle contribuzioni.[^54-1]
+<sup>1</sup> Un’associazione di risparmio o una cassa di risparmio ai sensi dell’articolo 9 capoverso 2 LIP ha diritto al rimborso dell’imposta preventiva per conto del depositante se la sua quota al reddito lordo non eccede 200 franchi per anno civile. L’istanza deve essere presentata all’AFC.[^54-1]
 
 <sup>2</sup> Se l’ammontare della quota eccede 200 franchi, l’associazione o la cassa informa il depositante che egli deve chiedere in proprio il rimborso dell’imposta preventiva e che esso gli sarà concesso soltanto in base a un’attestazione secondo l’articolo 3 capoverso 2. L’attestazione è rilasciata dall’associazione o dalla cassa su richiesta del depositante.[^54-2]
 
-<sup>3</sup> Per evitare complicazioni sproporzionate, l’Amministrazione federale delle contribuzioni può, con gli oneri e alle condizioni da essa stabiliti, consentire che un’associazione o una cassa chieda il rimborso senza tener conto dell’ammontare della quota ai redditi spettanti ai depositanti.
+<sup>3</sup> Per evitare complicazioni sproporzionate, l’AFC può, con gli oneri e alle condizioni da essa stabiliti, consentire che un’associazione o una cassa chieda il rimborso senza tener conto dell’ammontare della quota ai redditi spettanti ai depositanti.
 
 [^54-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
 [^54-2]: Nuovo testo giusta il n. I dell’O del 24 giu. 2009, in vigore dal 1° gen. 2010 ([RU 2009 3471](https://fedlex.data.admin.ch/eli/oc/2009/427)).
@@ -900,9 +910,9 @@ Alla stessa stregua delle persone giuridiche hanno diritto al rimborso dell’im
 
 #### Art. 56
 
-<sup>1</sup> I banchieri privati sottoposti alla legge federale dell’8 novembre 1934[^56-1] su le banche e le casse di risparmio, che esercitano la loro attività come ditta individuale, devono presentare all’Amministrazione federale delle contribuzioni l’istanza di rimborso dell’imposta preventiva dedotta dai redditi fruttati dall’attivo dell’impresa.
+<sup>1</sup> I banchieri privati sottoposti alla legge federale dell’8 novembre 1934[^56-1] su le banche e le casse di risparmio, che esercitano la loro attività come ditta individuale, devono presentare all’AFC l’istanza di rimborso dell’imposta preventiva dedotta dai redditi fruttati dall’attivo dell’impresa.
 
-<sup>2</sup> Le disposizioni dell’articolo 25 della legge, concernenti la perdita del diritto al rimborso quando non si dia registrazione dei redditi nei libri di commercio, si applicano all’imposta preventiva dedotta dai redditi fruttati dall’attivo dell’impresa.
+<sup>2</sup> Le disposizioni dell’articolo 25 LIP, concernenti la perdita del diritto al rimborso quando non si dia registrazione dei redditi nei libri di commercio, si applicano all’imposta preventiva dedotta dai redditi fruttati dall’attivo dell’impresa.
 
 [^56-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
@@ -948,7 +958,7 @@ Alla stessa stregua delle persone giuridiche hanno diritto al rimborso dell’im
 
 #### Art. 60
 
-<sup>1</sup> Se venti persone, al massimo, sono legate fra di loro per contratto allo scopo di effettuare ed amministrare in comune degli investimenti in titoli (club d’investimento), l’Amministrazione federale delle contribuzioni può consentire, con gli oneri e alle condizioni da essa stabiliti, che il rimborso dell’imposta preventiva dedotta dal reddito dei titoli venga chiesto con istanza comune da presentarsi alla Confederazione.
+<sup>1</sup> Se venti persone, al massimo, sono legate fra di loro per contratto allo scopo di effettuare ed amministrare in comune degli investimenti in titoli (club d’investimento), l’AFC può consentire, con gli oneri e alle condizioni da essa stabiliti, che il rimborso dell’imposta preventiva dedotta dal reddito dei titoli venga chiesto con istanza comune da presentarsi alla Confederazione.
 
 <sup>2</sup> Se, con una partecipazione comune, più persone hanno realizzato una vincita da cui è stata dedotta l’imposta preventiva a un gioco in denaro oppure a una lotteria o un gioco di destrezza destinati a promuovere le vendite, il rimborso deve essere richiesto da tutti i partecipanti in funzione della loro quota di vincita; l’istanza deve essere corredata di un’attestazione firmata dal titolare dell’attestazione originale (art. 3 cpv. 2), nella quale devono figurare tutte le informazioni dell’attestazione originale e la quota della vincita che spetta all’istante. Se tutti i partecipanti sono assoggettati ad imposta nel medesimo Cantone, l’autorità cantonale competente può consentire, secondo gli oneri e alle condizioni da essa stabiliti, che il rimborso venga chiesto mediante istanza comune.[^60-1]
 
@@ -974,11 +984,11 @@ Se il reddito fruttato da un titolo che è oggetto di un’operazione a termine 
 
 ### Capo secondo: Rimborso da parte della Confederazione
 
-### I. Amministrazione federale delle contribuzioni
+### I. AFC
 
 #### Art. 63
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni emana le istruzioni generali e prende le decisioni particolari necessarie al rimborso dell’imposta preventiva da parte della Confederazione; essa stabilisce la forma e il contenuto dei moduli per le istanze di rimborso e dei questionari e designa i documenti giustificativi da allegare alle istanze.
+<sup>1</sup> L’AFC emana le istruzioni generali e prende le decisioni particolari necessarie al rimborso dell’imposta preventiva da parte della Confederazione; essa stabilisce la forma e il contenuto dei moduli per le istanze di rimborso e dei questionari e designa i documenti giustificativi da allegare alle istanze.
 
 <sup>2</sup> Gli articoli 6 e 7, concernenti le richieste d’informazioni, le audizioni e la verifica dei libri di commercio, si applicano per analogia alla procedura di rimborso.
 
@@ -986,9 +996,9 @@ Se il reddito fruttato da un titolo che è oggetto di un’operazione a termine 
 
 #### Art. 64
 
-<sup>1</sup> L’istanza di rimborso deve essere presentata all’Amministrazione federale delle contribuzioni su modulo ufficiale.
+<sup>1</sup> L’istanza di rimborso deve essere presentata all’AFC su modulo ufficiale.
 
-<sup>2</sup> Un medesimo avente diritto al rimborso può, di regola, presentare una sola istanza l’anno; sono riservate le istanze di cui agli articoli 29 capoverso 3, e 32 capoverso 2 della legge.
+<sup>2</sup> Un medesimo avente diritto al rimborso può, di regola, presentare una sola istanza l’anno; sono riservate le istanze di cui agli articoli 29 capoverso 3, e 32 capoverso 2 LIP.
 
 <sup>3</sup> Gli istanti che hanno l’obbligo di avere i libri di commercio devono organizzare e tenere la contabilità in modo che, senza particolari difficoltà, sia possibile accertare e provare con certezza i fatti determinanti per il diritto al rimborso; l’articolo 2 capoversi 2 e 3 si applica per analogia.
 
@@ -1002,7 +1012,7 @@ Se il reddito fruttato da un titolo che è oggetto di un’operazione a termine 
 
 #### Art. 65
 
-<sup>1</sup> Se l’avente diritto rende plausibile che il suo diritto al rimborso calcolato per l’anno intiero è di almeno 4000 franchi, l’Amministrazione federale delle contribuzioni gli concede, a richiesta, dei rimborsi per acconti.
+<sup>1</sup> Se l’avente diritto rende plausibile che il suo diritto al rimborso calcolato per l’anno intiero è di almeno 4000 franchi, l’AFC gli concede, a richiesta, dei rimborsi per acconti.
 
 <sup>2</sup> …[^65-1]
 
@@ -1020,7 +1030,7 @@ Se il reddito fruttato da un titolo che è oggetto di un’operazione a termine 
 
 <sup>2</sup> Se le scadenze dei redditi gravati dall’imposta preventiva sopravvengono prevalentemente in un trimestre dell’anno civile o dell’esercizio commerciale, occorre tenerne conto per il calcolo dei rimborsi per acconti.
 
-<sup>3</sup> Nel calcolo dei rimborsi per acconti i diritti al rimborso dell’imposta preventiva non vengono presi in considerazione nella misura in cui i corrispondenti importi dell’imposta preventiva da pagare all’Amministrazione federale delle contribuzioni siano esigibili solo nel successivo anno civile o esercizio commerciale.
+<sup>3</sup> Nel calcolo dei rimborsi per acconti i diritti al rimborso dell’imposta preventiva non vengono presi in considerazione nella misura in cui i corrispondenti importi dell’imposta preventiva da pagare all’AFC siano esigibili solo nel successivo anno civile o esercizio commerciale.
 
 [^65a-1]: Introdotto dal n. I dell’O del 22 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2994](https://fedlex.data.admin.ch/eli/oc/2000/542)).
 
@@ -1028,22 +1038,22 @@ Se il reddito fruttato da un titolo che è oggetto di un’operazione a termine 
 
 ### I. Autorità
 
-### 1. Amministrazione federale delle contribuzioni
+### 1. AFC
 
 #### Art. 66
 
-<sup>1</sup> L’Amministrazione federale delle contribuzioni esercita la vigilanza della Confederazione quanto al rimborso dell’imposta preventiva da parte di Cantoni.
+<sup>1</sup> L’AFC esercita la vigilanza della Confederazione quanto al rimborso dell’imposta preventiva da parte di Cantoni.
 
 <sup>2</sup>
 
-L’Amministrazione federale delle contribuzioni vigila che le prescrizioni federali siano applicate in modo uniforme ed emana le istruzioni generali necessarie ad uso delle autorità cantonali. Essa è autorizzata, segnatamente, a:
+L’AFC vigila che le prescrizioni federali siano applicate in modo uniforme ed emana le istruzioni generali necessarie ad uso delle autorità cantonali. Essa è autorizzata, segnatamente, a:
 
 - a. prescrivere l’uso di moduli determinati;
 - b. esaminare ogni documento dei Cantoni, distretti, circoli e Comuni e, in casi particolari, disporre altre indagini o far uso in proprio dei poteri d’indagine di un ufficio cantonale dell’imposta preventiva;
 - c. prendere parte alla procedura dinanzi all’autorità di ricorso e a presentare le sue conclusioni;
 - d. chiedere la revisione di una procedura chiusa con decisioni passata in giudicato.
 
-<sup>3</sup> L’Amministrazione federale delle contribuzioni ha facoltà di ricorrere davanti al Tribunale federale.[^66-1]
+<sup>3</sup> L’AFC ha facoltà di ricorrere davanti al Tribunale federale.[^66-1]
 
 [^66-1]: Nuovo testo giusta il n. II 46 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -1053,11 +1063,11 @@ L’Amministrazione federale delle contribuzioni vigila che le prescrizioni fede
 
 <sup>1</sup> L’autorità designata dal Cantone vigila che le prescrizioni federali siano applicate in modo uniforme sul territorio cantonale ed esercita la sorveglianza sugli uffici cui compete il rimborso dell’imposta preventiva.
 
-<sup>2</sup> I Cantoni, prima della stampa, devono sottoporre all’approvazione dell’Amministrazione federale delle contribuzioni i moduli previsti per le istanze di rimborso dell’imposta preventiva.
+<sup>2</sup> I Cantoni, prima della stampa, devono sottoporre all’approvazione dell’AFC i moduli previsti per le istanze di rimborso dell’imposta preventiva.
 
 <sup>3</sup> I rimborsi concessi devono essere iscritti in un apposito registro; le istanze di rimborso evase e i mezzi di prova devono essere conservati, in buon ordine, per cinque anni dalla fine dell’anno civile nel quale la decisione di rimborso è passata in giudicato.
 
-<sup>4</sup> Se un’autorità cantonale vuol far verificare, conformemente all’articolo 50 capoverso 2 della legge, un’attestazione relativa alla deduzione dell’imposta presso la persona che l’ha rilasciata, come anche le informazioni complementari che ha dato, essa ne deve presentare richiesta scritta all’Amministrazione federale delle contribuzioni.
+<sup>4</sup> Se un’autorità cantonale vuol far verificare, conformemente all’articolo 50 capoverso 2 LIP, un’attestazione relativa alla deduzione dell’imposta presso la persona che l’ha rilasciata, come anche le informazioni complementari che ha dato, essa ne deve presentare richiesta scritta all’AFC.
 
 ### II. Procedura
 
@@ -1100,17 +1110,17 @@ Un’attestazione relativa alla deduzione dell’imposta (art. 3 cpv. 2) deve es
 [^70-4]: [[RU 1951 1314](https://fedlex.data.admin.ch/eli/oc/1951/1274_1282_1314)]
 [^70-5]: [CS **6** 356]
 
-## Disposizioni finali della modifica del 22 novembre 2000****
+## Disposizioni finali della modifica del 22 novembre 2000
 
 [^u1-1]
 
 [^u1-1]: [RU 2000 2994](https://fedlex.data.admin.ch/eli/oc/2000/542)
 
-<sup>1</sup> Le nuove disposizioni sono applicabili alle prestazioni imponibili che scadono dopo il 31 dicembre 2000. L’articolo 24*a* è applicabile ai casi in cui il termine secondo l’articolo 4*a* capoverso 2 della legge decorre dopo il 31 dicembre 2000.
+<sup>1</sup> Le nuove disposizioni sono applicabili alle prestazioni imponibili che scadono dopo il 31 dicembre 2000. L’articolo 24*a* è applicabile ai casi in cui il termine secondo l’articolo 4*a* capoverso 2 LIP decorre dopo il 31 dicembre 2000.
 
 <sup>2</sup> L’abrogazione dell’articolo 14 capoverso 2 vale per le obbligazioni, le cartelle ipotecarie e le rendite fondiarie emesse in serie dopo il 31 dicembre 2000.
 
-## Disposizione transitoria della modifica del 15 ottobre 2008****
+## Disposizione transitoria della modifica del 15 ottobre 2008
 
 [^u2-1]
 
@@ -1118,7 +1128,7 @@ Un’attestazione relativa alla deduzione dell’imposta (art. 3 cpv. 2) deve es
 
 La presente modifica è applicabile alle prestazioni imponibili che scadono dopo il 31 dicembre 2008.
 
-## Disposizione transitoria della modifica del 18 giugno 2010****
+## Disposizione transitoria della modifica del 18 giugno 2010
 
 [^u3-1]
 
@@ -1126,10 +1136,18 @@ La presente modifica è applicabile alle prestazioni imponibili che scadono dopo
 
 Le disposizioni modificate sono applicabili alle prestazioni imponibili che scadono dopo il 31 luglio 2010.
 
-## Disposizione transitoria della modifica del 3 febbraio 2021****
+## Disposizione transitoria della modifica del 3 febbraio 2021
 
 [^u4-1]
 
 [^u4-1]: [RU 2021 77](https://fedlex.data.admin.ch/eli/oc/2021/77)
 
 La presente modifica è applicabile alle prestazioni imponibili che scadono a decorrere dal 1° gennaio 2022.
+
+## Disposizione transitoria della modifica del 4 maggio 2022
+
+[^u5-1]
+
+[^u5-1]: [RU 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)
+
+Alle istanze pendenti al momento dell’entrata in vigore della modifica del 4 maggio 2022 è applicabile l’articolo 26*a* capoversi 1 e 3 del diritto anteriore.
