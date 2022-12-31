@@ -3,20 +3,19 @@ canton: SG
 number: "912.121"
 title: Beschluss des Departementes des Innern über die Zivilstandskreise und die Amtssitze
 language: de
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2010-12-08
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2010-12-08
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/912.121"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/487/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3416/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss des Departementes des Innern über die Zivilstandskreise und die Amtssitze
 
-vom 08.12.2010 (Stand 01.01.2011)
+vom 08.12.2010 (Stand 01.01.2023)
 
 Das Departement des Innern des Kantons St.Gallen
 
@@ -43,11 +42,11 @@ als Beschluss:[^ingress-3]
 <tr><td>Rheintal</td><td>Au, Berneck, Balgach, Diepoldsau, Widnau, Rebstein, Marbach, Altstätten, Eichberg, Oberriet, Rüthi</td><td>Altstätten</td></tr>
 <tr><td>Werdenberg</td><td>Sennwald, Gams, Grabs, Buchs, Sevelen, Wartau</td><td>Buchs</td></tr>
 <tr><td>Sarganserland</td><td>Sargans, Vilters-Wangs, Bad Ragaz, Pfäfers, Mels, Flums, Walenstadt, Quarten</td><td>Vilters-Wangs</td></tr>
-<tr><td>Uznach</td><td>Amden, Weesen, Schänis, Benken, Kaltbrunn, Rieden, Gommiswald, Ernetschwil, Uznach, Schmerikon</td><td>Uznach</td></tr>
-<tr><td>See-Linth</td><td>Rapperswil-Jona, Eschenbach, Goldingen, St.Gallenkappel</td><td>Rapperswil-Jona</td></tr>
-<tr><td>Toggenburg</td><td>Wildhaus-Alt St.Johann, Stein, Nesslau-Krummenau, Ebnat-Kappel, Wattwil, Lichtensteig, Oberhelfenschwil, Neckertal, Hemberg, Krinau, Bütschwil, Lütisburg, Mosnang, Ganterschwil</td><td>Wattwil</td></tr>
+<tr><td>Uznach</td><td>Amden, Weesen, Schänis, Benken, Kaltbrunn, Gommiswald, Uznach, Schmerikon</td><td>Uznach</td></tr>
+<tr><td>Rapperswil-Jona</td><td>Rapperswil-Jona, Eschenbach</td><td>Rapperswil-Jona</td></tr>
+<tr><td>Toggenburg</td><td>Wildhaus-Alt St.Johann, Nesslau, Ebnat-Kappel, Wattwil, Lichtensteig, Neckertal, Bütschwil-Ganterschwil, Lütisburg, Mosnang</td><td>Wattwil</td></tr>
 <tr><td>Uzwil</td><td>Jonschwil, Oberuzwil, Uzwil, Flawil, Oberbüren</td><td>Uzwil</td></tr>
-<tr><td>Wil</td><td>Kirchberg, Wil, Bronschhofen, Zuzwil, Niederhelfenschwil</td><td>Wil</td></tr>
+<tr><td>Wil</td><td>Kirchberg, Wil, Zuzwil, Niederhelfenschwil</td><td>Wil</td></tr>
 <tr><td>Gossau</td><td>Niederbüren, Waldkirch, Andwil, Gossau, Gaiserwald</td><td>Gossau</td></tr>
 </table>
 
