@@ -4,13 +4,13 @@ number: "811.01"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2021-12-02
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2473/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2473/pdf_file"
 
 (GesG)
 
-vom 02.12.1984 (Stand 01.01.2022)
+vom 02.12.1984 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -80,9 +80,9 @@ beschliesst:
 
 **2.3 Übertragbare Krankheiten**
 
-<sup>1</sup> Die Bekämpfung der übertragbaren Krankheiten des Menschen gemäss eidgenössischer Epidemien- und Tuberkulosegesetzgebung wird durch Verordnung des Regierungsrates geregelt.
+<sup>1</sup> Die Bekämpfung der übertragbaren Krankheiten des Menschen im Sinne der eidgenössischen Epidemiengesetzgebung wird durch Verordnung des Regierungsrates geregelt.
 
-<sup>2</sup> Beiträge für die Bekämpfung der übertragbaren Krankheiten des Menschen werden gemäss der eidgenössischen und kantonalen Epidemien- und Tuberkulosegesetzgebung ausgerichtet.
+<sup>2</sup> Beiträge für die Bekämpfung der übertragbaren Krankheiten des Menschen werden nach den Bestimmungen der eidgenössischen und kantonalen Epidemiengesetzgebung ausgerichtet.
 
 #### Art. 5
 
@@ -129,13 +129,13 @@ beschliesst:
 
 #### Art. 9
 
-**3 Sanitätskollegium; besondere Kommissionen**
+**3 Kommissionen**
 
-<sup>1</sup> Das Sanitätskollegium berät den Regierungsrat, die zuständigen Direktionen sowie die Polizei- und Gerichtsbehörden in Fachfragen im Rahmen dieses Gesetzes. Die Mitglieder werden auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion vom Regierungsrat gewählt.
+<sup>1</sup> …
 
-<sup>2</sup> Der Regierungsrat ist ermächtigt, für besondere Fragen des Gesundheitswesens weitere Kommissionen einzusetzen.
+<sup>2</sup> Der Regierungsrat ist ermächtigt, für besondere Fragen des Gesundheitswesens Kommissionen einzusetzen.
 
-<sup>3</sup> Der Regierungsrat regelt durch Verordnung Aufgaben, Organisation und Geschäftsgang des Sanitätskollegiums und der Kommissionen.
+<sup>3</sup> Er regelt Aufgaben, Organisation und Geschäftsgang der Kommissionen durch Verordnung.
 
 #### Art. 10
 
@@ -197,9 +197,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bestimmt die einzelnen bewilligungspflichtigen Tätigkeiten oder Berufe.
 
-<sup>3</sup> Vorbehalten bleibt die Bewilligungspflicht für die selbstständige Ausübung eines universitären Medizinalberufs nach den Bestimmungen des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG[^15-1]).
-
-[^15-1]: SR 811.11
+<sup>3</sup> Vorbehalten bleibt die Bewilligungspflicht für die durch das Bundesrecht geregelten Gesundheits-, Psychologie- und universitären Medizinalberufe.
 
 #### Art. 15a
 
@@ -218,11 +216,13 @@ beschliesst:
 <sup>1</sup> Die Berufsausübungsbewilligung wird erteilt, wenn die Fachperson
 
 - a einen nach Staatsvertrag, Bundesrecht, interkantonalem oder kantonalem Recht anerkannten Fähigkeitsausweis besitzt,
-- b die erforderliche praktische Erfahrung hat,
-- c vertrauenswürdig ist sowie physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet.
+- b …
+- c vertrauenswürdig ist,
+- c1 physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet,
+- c2 eine Amtssprache beherrscht.
 - d–g …
 
-<sup>2</sup> Die Bewilligungsvoraussetzungen für die selbstständige Ausübung eines universitären Medizinalberufs richten sich nach Artikel 36 MedBG.
+<sup>2</sup> Die Bewilligungsvoraussetzungen für die Ausübung eines durch das Bundesrecht geregelten Gesundheits-, Psychologie- oder universitären Medizinalberufs richten sich nach dem jeweils anwendbaren Bundesgesetz.
 
 <sup>3</sup> Die Bewilligung kann mit bestimmten Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen verbunden werden.
 
@@ -245,7 +245,9 @@ beschliesst:
 
 **2 Ausnahmen**
 
-<sup>1</sup> Keine Betriebsbewilligung nach diesem Gesetz benötigen diejenigen Betriebe, die im Besitz einer Betriebsbewilligung nach der Spitalgesetzgebung, der Gesetzgebung über die sozialen Leistungsangebote oder nach anderen kantonalen oder eidgenössischen Spezialbestimmungen sind.
+<sup>1</sup> Keine Betriebsbewilligung nach diesem Gesetz benötigen diejenigen Betriebe, die im Besitz einer Betriebsbewilligung nach der Spitalversorgungsgesetzgebung, der Gesetzgebung über die sozialen Leistungsangebote oder nach anderen kantonalen oder eidgenössischen Spezialbestimmungen sind.[^16a-1]
+
+[^16a-1]: Durch die Redaktionskommission am 19.08.2022 in Anwendung von Artikel 25 des Publikationsgesetzes berichtigt.
 
 #### Art. 16b
 
@@ -264,7 +266,7 @@ beschliesst:
 
 #### Art. 17
 
-**Administrative Massnahmen 1 Entzug der Bewilligung**
+**Aufsichtsrechtliche Massnahmen 1 Entzug der Bewilligung**
 
 <sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entzieht eine Berufsausübungs- oder eine Betriebsbewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, auf Grund derer sie hätte verweigert werden müssen.
 
@@ -272,7 +274,11 @@ beschliesst:
 
 **2 Disziplinarmassnahmen**
 
-<sup>1</sup> Bei Verletzung beruflicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die in Artikel 43 MedBG vorgesehenen Disziplinarmassnahmen gegen die Inhaberin oder den Inhaber einer Berufsausübungsbewilligung anordnen.
+<sup>1</sup> Bei Verletzung beruflicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die im jeweils anwendbaren Bundesgesetz vorgesehenen Disziplinarmassnahmen gegen die Inhaberin oder den Inhaber einer Berufsausübungsbewilligung anordnen.
+
+<sup>2</sup> Die im Bundesgesetz vom 30. September 2016 über die Gesundheitsberufe (Gesundheitsberufegesetz, GesBG)[^17a-1] vorgesehenen Disziplinarmassnahmen können sinngemäss auch gegen die Inhaberin oder den Inhaber einer gestützt auf das kantonale Recht erteilten Berufsausübungsbewilligung angeordnet werden, sofern diese oder dieser berufliche Pflichten oder andere gesundheitsrechtliche Vorschriften verletzt hat.
+
+[^17a-1]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
 
 #### Art. 17b
 
@@ -286,6 +292,23 @@ beschliesst:
 
 <sup>2</sup> Bei schwerer oder wiederholter Verletzung betrieblicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann eine Betriebsbewilligung entzogen werden.
 
+#### Art. 17b1
+
+**3a Inspektionen und betriebliche Massnahmen**
+
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann bei konkreten Hinweisen auf eine Gefährdung der öffentlichen Gesundheit Inspektionen in ambulanten Gesundheitsbetrieben durchführen oder durchführen lassen, in denen bewilligungspflichtige Tätigkeiten ausgeübt werden, und die dafür erforderlichen Daten bearbeiten.
+
+<sup>2</sup> Die für die Führung des Gesundheitsbetriebs verantwortlichen Personen und die im Gesundheitsbetrieb mitwirkenden Personen sind verpflichtet, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist,
+
+- a der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion oder den von ihr beauftragten Personen unentgeltlich Auskünfte zu erteilen,
+- b ihnen unentgeltlich Einsicht in Akten, wenn nötig auch in besonders schützenswerte Personendaten, zu gewähren,
+- c ihnen Zutritt zu den Räumlichkeiten und Einrichtungen zu verschaffen,
+- d sie in allen Belangen zu unterstützen.
+
+<sup>3</sup> Sie können sich gegenüber der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion oder den von ihr beauftragten Personen nicht auf gesetzliche oder vertragliche Geheimhaltungspflichten berufen.
+
+<sup>4</sup> Bei Gefährdung der öffentlichen Gesundheit kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die Benützung von Räumlichkeiten oder Einrichtungen oder die Ausübung bestimmter Tätigkeiten verbieten und in schwerwiegenden Fällen den Gesundheitsbetrieb schliessen.
+
 #### Art. 17c
 
 **4 Meldepflicht**
@@ -296,7 +319,9 @@ beschliesst:
 
 **5 Verjährung**
 
-<sup>1</sup> Die Verfolgungsverjährung richtet sich nach Artikel 46 MedBG.
+<sup>1</sup> Die Verfolgungsverjährung richtet sich nach dem jeweils anwendbaren Bundesgesetz.
+
+<sup>2</sup> Für die Verfolgung von Widerhandlungen im Sinne von Artikel 17a Absatz 2 und Artikel 17b finden die Verjährungsvorschriften des GesBG sinngemäss Anwendung.
 
 #### Art. 19
 
@@ -314,9 +339,9 @@ beschliesst:
 
 #### Art. 19a
 
-**2 Aufsichtsrechtliche Massnahmen**
+**2 Inspektionen und aufsichtsrechtliche Massnahmen**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann eine bewilligungsfreie Tätigkeit verbieten oder einschränken, wenn sie die Gesundheit der behandelten Personen gefährdet oder schädigt.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann bei konkreten Hinweisen Inspektionen vor Ort durchführen und eine bewilligungsfreie Tätigkeit einschränken oder verbieten, wenn diese die Gesundheit der behandelten Personen gefährdet oder schädigt.
 
 <sup>2</sup> Bei begründetem Verdacht auf eine Gesundheitsgefährdung kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den Nachweis der Gesundheitsverträglichkeit verlangen. Sie kann die Tätigkeit vorsorglich verbieten, wenn das zum Schutz der Betroffenen notwendig erscheint.
 
@@ -324,7 +349,12 @@ beschliesst:
 
 **Mitteilungen, Veröffentlichung**
 
-<sup>1</sup> Fachpersonen, die für ihre Tätigkeit einer Bewilligung bedürfen, haben der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion das Praxisdomizil sowie die definitive Aufgabe ihrer Tätigkeit zu melden.
+<sup>1</sup> Fachpersonen, die für ihre Tätigkeit einer Bewilligung bedürfen, haben der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion die folgenden Angaben zu melden und diese periodisch zu aktualisieren:
+
+- a die Kontaktdaten,
+- b Art und Umfang der ausgeübten Tätigkeit,
+- c den aktuellen Ort ihrer beruflichen Tätigkeit,
+- d die definitive Aufgabe ihrer Tätigkeit.
 
 <sup>2</sup> Inhaberinnen und Inhaber einer Berufsausübungs- oder Betriebsbewilligung werden in einem öffentlichen Register der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion aufgeführt. Die Einsichtnahme ist kostenlos.
 
@@ -348,9 +378,11 @@ beschliesst:
 
 **Berufspflichten**
 
-<sup>1</sup> Die Berufspflichten der Fachpersonen richten sich nach Artikel 40 MedBG.
+<sup>1</sup> Die Berufspflichten richten sich nach dem für die Fachperson jeweils anwendbaren Bundesgesetz.
 
-<sup>2</sup> Vorbehalten bleiben die nachfolgenden Bestimmungen dieses Abschnitts sowie die Vorschriften über die Rechte der Patientinnen und Patienten.
+<sup>1a</sup> Für Fachpersonen, die gestützt auf das kantonale Recht einer Berufsausübungsbewilligung bedürfen, gelten die Berufspflichten des GesBG sinngemäss.
+
+<sup>2</sup> Vorbehalten bleiben die nachfolgenden Bestimmungen dieses Unterabschnitts sowie die Vorschriften über die Rechte der Patientinnen und Patienten.
 
 #### Art. 23
 
@@ -372,7 +404,7 @@ beschliesst:
 
 <sup>2</sup> Sie darf sich nur durch eine andere Fachperson vertreten lassen, die als Inhaberin oder Inhaber einer Berufsausübungsbewilligung zur Ausübung derselben Tätigkeit berechtigt ist.
 
-<sup>3</sup> Sie kann wegen Krankheit, Ferien oder anderweitiger vorübergehender Verhinderung mit Bewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion durch eine Person vertreten werden, welche die fachlichen Voraussetzungen erfüllt, aber nicht Inhaberin oder Inhaber einer Berufsausübungsbewilligung ist.
+<sup>3</sup> Die Fachperson kann wegen Krankheit, Ferien oder anderweitiger vorübergehender Verhinderung mit Bewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion durch eine Person vertreten werden, die die fachlichen Voraussetzungen erfüllt, aber nicht Inhaberin einer Berufsausübungsbewilligung ist.
 
 #### Art. 26
 
@@ -380,7 +412,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachperson hat über die Behandlung einer Patientin oder eines Patienten fortlaufend Aufzeichnungen zu führen und den Behandlungsverlauf angemessen zu dokumentieren. Die Dokumentation muss insbesondere die Sachverhaltsfeststellungen, die Diagnose, die angeordneten Therapieformen sowie Ablauf und Gegenstand der Aufklärung enthalten.
 
-<sup>2</sup> Die Behandlungsdokumentation ist unter Beachtung der erforderlichen Sicherheitsmassnahmen so lange aufzubewahren, als sie für die Gesundheit der Patientin oder des Patienten von Interesse ist, mindestens aber während zehn Jahren. Der Regierungsrat kann für bestimmte Tätigkeiten längere Aufbewahrungsfristen vorsehen, wenn dies im Interesse der Patientinnen und Patienten liegt.
+<sup>2</sup> Die Behandlungsdokumentation ist unter Beachtung der erforderlichen Sicherheitsmassnahmen so lange aufzubewahren, als sie für die Gesundheit der Patientin oder des Patienten von Interesse ist, mindestens aber während zwanzig Jahren.
 
 <sup>3</sup> Bei Praxisaufgabe besteht die Aufbewahrungspflicht im Rahmen von Absatz 2 weiter. Die Fachperson hat zu gewährleisten, dass die Behandlungsdokumentation unter Wahrung der Schweigepflicht verwaltet und den berechtigten Patientinnen und Patienten der Zugang dazu ermöglicht wird.
 
@@ -421,23 +453,47 @@ beschliesst:
 
 #### Art. 30a
 
-**Notfalldienstpflicht 1 Grundsatz**
+**Ambulanter Notfalldienst 1 Notfalldienstpflicht**
 
-<sup>1</sup> Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte sowie Hebammen und Entbindungspfleger mit Berufsausübungsbewilligung sind verpflichtet, sich an einem Notfalldienst zu beteiligen. Sie sind für die Organisation des ambulanten Notfalldienstes selbst besorgt oder können dessen Organisation den Berufsverbänden übertragen.
+<sup>1</sup> Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte, Apothekerinnen und Apotheker sowie Hebammen und Entbindungspfleger mit Berufsausübungsbewilligung sind verpflichtet, sich an einem ambulanten Notfalldienst zu beteiligen.
 
 <sup>2</sup> In Ortschaften mit mindestens zwei öffentlichen Apotheken sind deren Inhaberinnen und Inhaber verpflichtet, die Notfallversorgung mit Heilmitteln zu gewährleisten.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ist über die Organisation des ambulanten Notfalldienstes zu orientieren. Sie regelt die Organisation des ambulanten Notfalldienstes, wenn diese nicht anderweitig sichergestellt ist, und entscheidet bei Streitigkeiten aus der Notfalldienstpflicht.
+<sup>3</sup> Notfalldienstpflichtige Fachpersonen können auf Gesuch hin von der Notfalldienstleistung befreit oder ausgeschlossen werden, wenn ein wichtiger Grund vorliegt.
 
 #### Art. 30b
 
-**2 Ausnahmen**
+**2 Organisation**
 
-<sup>1</sup> Die Organisatoren des Notfalldienstes können bei Vorliegen eines wichtigen Grundes eine Person auf Gesuch hin von der Notfalldienstpflicht befreien oder sie von dieser Pflicht ausschliessen.
+<sup>1</sup> Für die Organisation des ambulanten Notfalldienstes sind die Berufsverbände der Berufsgruppen nach Artikel 30a verantwortlich.
 
-<sup>2</sup> Von der Notfalldienstpflicht befreite oder ausgeschlossene Fachpersonen können wieder in Pflicht genommen werden, wenn der Befreiungs- oder Ausschlussgrund weggefallen oder wenn es zur Sicherstellung der Versorgung notwendig ist.
+<sup>2</sup> Sie erlassen Notfalldienstreglemente, die für alle notfalldienstpflichtigen Fachpersonen verbindlich sind.
 
-<sup>3</sup> Fachpersonen, die keinen Notfalldienst leisten, haben eine Ersatzabgabe an die Organisatoren des Notfalldienstes zu entrichten. Die Ersatzabgabe beträgt 500 Franken pro Notfalldienst, jedoch höchstens 15'000 Franken pro Jahr.
+<sup>3</sup> Sie setzen die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion über erlassene Notfalldienstreglemente und deren Änderungen unverzüglich in Kenntnis.
+
+<sup>4</sup> Ist die Organisation des ambulanten Notfalldienstes nicht mehr gewährleistet, kann die Gesundheits-, Sozial- und Integrationsdirektion die erforderlichen Massnahmen einschliesslich der Erhebung und der Verwendung der Ersatzabgaben nach Artikel 30c Absatz 1 zur Sicherstellung der ambulanten Notfallversorgung der Bevölkerung anordnen.
+
+#### Art. 30c
+
+**3 Ersatzabgabe**
+
+<sup>1</sup> Fachpersonen, die keinen ambulanten Notfalldienst leisten, haben eine Ersatzabgabe von höchstens 500 Franken pro Notfalldienst und höchstens 15'000 Franken pro Jahr an die Organisatoren des ambulanten Notfalldienstes zu entrichten.
+
+<sup>2</sup> Die erhobenen Ersatzabgaben sind zweckgebunden für die Sicherstellung des kantonalen ambulanten Notfalldienstes zu verwenden.
+
+<sup>3</sup> Die Organisatoren des ambulanten Notfalldienstes informieren die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion in einer jährlichen Zusammenstellung über die Höhe und die Verwendung der erhobenen Ersatzabgaben sowie über die Anzahl der von der Notfalldienstleistung befreiten oder ausgeschlossenen Fachpersonen einschliesslich der Gründe dafür.
+
+#### Art. 30d
+
+**4 Streitigkeiten**
+
+<sup>1</sup> Bei Streitigkeiten aus der Notfalldienstpflicht können die betroffene Fachperson und der betroffene Berufsverband bei der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion in einer begründeten Eingabe um verbindliche Beilegung der Streitigkeit nachsuchen.
+
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion erlässt eine Verfügung.
+
+<sup>3</sup> Die betroffene Fachperson und der betroffene Berufsverband haben Parteistellung. Im Übrigen richten sich das Verfahren und der Rechtsschutz nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^30d-1].
+
+[^30d-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 #### Art. 31
 
@@ -616,10 +672,9 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Für Rechtsmittel gegen Verfügungen und für Klagen gegenüber Staat und Gemeinden gelten die Vorschriften des Gesetzes über die Verwaltungsrechtspflege[^46-1] und des Gemeindegesetzes[^46-2].
+<sup>1</sup> Für Rechtsmittel gegen Verfügungen und für Klagen gegenüber Kanton und Gemeinden gelten die Vorschriften des VRPG und des Gemeindegesetzes vom 16. März 1998 (GG)[^46-1].
 
-[^46-1]: BSG 155.21
-[^46-2]: BSG 170.11
+[^46-1]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
 
 #### Art. 47
 

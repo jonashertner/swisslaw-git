@@ -4,13 +4,13 @@ number: "811.01"
 title: "Loi sur la santé publique *"
 short: LSP
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-09
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2021-12-02
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2473/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2661/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2473/pdf_file"
 
 (LSP)
 
-du 02.12.1984 (état au 01.01.2022)
+du 02.12.1984 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -39,7 +39,7 @@ arrête:
 
 <sup>2</sup> Ils accomplissent leurs tâches en tenant compte de l'activité des institutions publiques et privées de la santé publique.
 
-<sup>3</sup> Sont réservées les dispositions spéciales du droit fédéral, du droit cantonal et des conventions intercantonales en matière de santé publique et de prévoyance sociale, en particulier la législation sur les hôpitaux, sur les épidémies et sur les œuvres sociales.
+<sup>3</sup> Sont réservées les dispositions spéciales du droit fédéral, du droit cantonal et des conventions intercantonales en matière de santé publique et de prévoyance sociale, en particulier la législation sur les soins hospitaliers, sur les épidémies et sur l'aide sociale.
 
 #### Art. 2
 
@@ -80,9 +80,9 @@ arrête:
 
 **2.3 Maladies transmissibles**
 
-<sup>1</sup> Le Conseil-exécutif règle par voie d'ordonnance la lutte contre les maladies transmissibles de l'homme prescrite par la législation fédérale sur les épidémies et la tuberculose.
+<sup>1</sup> Le Conseil-exécutif règle par voie d'ordonnance la lutte contre les maladies transmissibles de l'homme au sens de la législation fédérale sur les épidémies.
 
-<sup>2</sup> Les subventions en faveur de la lutte contre les maladies transmissibles de l'homme sont versées conformément aux législations fédérale et cantonale sur les épidémies et la tuberculose.
+<sup>2</sup> Les subventions en faveur de la lutte contre les maladies transmissibles de l'homme sont versées conformément aux dispositions des législations fédérale et cantonale sur les épidémies.
 
 #### Art. 5
 
@@ -99,7 +99,7 @@ arrête:
 - e les piscines et
 - f les inhumations.
 
-### 1.2 L'organisation des services de la santé publique
+### 1.2 Organisation des services de la santé publique
 
 #### Art. 6
 
@@ -129,13 +129,13 @@ arrête:
 
 #### Art. 9
 
-**3 Collège de santé; commissions spéciales**
+**3 Commissions**
 
-<sup>1</sup> Le Collège de santé assiste le Conseil-exécutif, les Directions compétentes ainsi que les autorités de police et les autorités judiciaires dans les domaines spécialisés régis par la présente loi. Les membres en sont nommés par le Conseil-exécutif sur proposition de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>1</sup> …
 
-<sup>2</sup> Le Conseil-exécutif est autorisé à constituer d'autres commissions pour l'étude de questions spécifiques dans le domaine de la santé publique.
+<sup>2</sup> Le Conseil-exécutif est habilité à constituer des commissions pour l'étude de questions spécifiques dans le domaine de la santé publique.
 
-<sup>3</sup> Le Conseil-exécutif arrête par voie d'ordonnance les tâches, l'organisation et le règlement interne du Collège de santé et des commissions.
+<sup>3</sup> Il arrête les tâches, l'organisation et la marche des affaires des commissions par voie d'ordonnance.
 
 #### Art. 10
 
@@ -145,7 +145,7 @@ arrête:
 
 <sup>2</sup> Les principes de la planification de la santé publique sont soumis à l'approbation du Grand Conseil.
 
-<sup>3</sup> Les institutions de la santé publique qui bénéficient du soutien financier des pouvoirs publics se doivent de mettre à la disposition de la Direction de la santé, des affaires sociales et de l’intégration , tout en garantissant la protection de la personnalité, les informations qui sont nécessaires à la planification et à l'évaluation. Lorsque les institutions non subventionnées fournissent spontanément les informations nécessaires, elles peuvent recevoir une indemnité appropriée pour le travail effectué.
+<sup>3</sup> Les institutions de la santé publique qui bénéficient du soutien financier des pouvoirs publics se doivent de mettre à la disposition de la Direction de la santé, des affaires sociales et de l’intégration, tout en garantissant la protection de la personnalité, les informations qui sont nécessaires à la planification et à l'évaluation. Lorsque les institutions non subventionnées fournissent spontanément les informations nécessaires, elles peuvent recevoir une indemnité appropriée pour le travail effectué.
 
 #### Art. 11
 
@@ -193,13 +193,11 @@ arrête:
 
 **Autorisation d'exercer 1 Principe**
 
-<sup>1</sup> Celui ou celle qui exerce une activité sanitaire soumise à des exigences particulières pour assurer la qualité des soins médicaux doit requérir l'autorisation au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
+<sup>1</sup> Celui ou celle qui exerce une activité sanitaire soumise à des exigences particulières pour assurer la qualité des soins médicaux doit requérir l'autorisation du service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Le Conseil-exécutif désigne les activités ou professions qui requièrent une autorisation.
 
-<sup>3</sup> Les conditions requises pour l’octroi de l’autorisation d’exercer une profession médicale universitaire à titre indépendant prévues par les dispositions de la loi fédérale du 23 juin 2006 sur les professions médicales universitaires (loi sur les professions médicales, LPMéd)[^15-1] sont réservées.
-
-[^15-1]: RS 811.11
+<sup>3</sup> L'obligation de disposer d'une autorisation pour exercer les professions de la santé, les professions de la psychologie et les professions médicales universitaires régies par le droit fédéral est réservée.
 
 #### Art. 15a
 
@@ -218,11 +216,13 @@ arrête:
 <sup>1</sup> L'autorisation d'exercer est accordée aux professionnels de la santé à condition qu'ils
 
 - a soient titulaires d'un certificat de capacité reconnu par le droit fédéral, intercantonal ou cantonal ou par un accord international;
-- b bénéficient de l'expérience pratique requise;
-- c soient dignes de confiance et présentent, tant physiquement que psychiquement, les garanties nécessaires à un exercice irréprochable de la profession;
+- b …
+- c soient dignes de confiance;
+- c1 présentent, tant physiquement que psychiquement, les garanties nécessaires à un exercice irréprochable de la profession;
+- c2 maîtrisent une langue officielle.
 - d–g …
 
-<sup>2</sup> L’autorisation d’exercer une profession médicale universitaire à titre indépendant est octroyée conformément aux conditions fixées à l’article 36 LPMéd.
+<sup>2</sup> Les conditions d'octroi de l’autorisation d’exercer une profession de la santé, une profession de la psychologie ou une profession médicale universitaire régies par le droit fédéral sont déterminées par la loi fédérale applicable en l'espèce.
 
 <sup>3</sup> L’autorisation peut être soumise à des restrictions temporelles, géographiques ou techniques ainsi qu’à des charges.
 
@@ -245,7 +245,9 @@ arrête:
 
 **2 Exceptions**
 
-<sup>1</sup> Les entreprises titulaires d’une autorisation d’exploiter en vertu de la législation sur les soins hospitaliers ou sur les programmes d’action sociale ou d’autres dispositions spéciales cantonales ou fédérales sont dispensées d’une autorisation au sens de la présente loi.
+<sup>1</sup> Les entreprises titulaires d'une autorisation d'exploiter en vertu de la législation sur les soins hospitaliers ou sur les programmes d'action sociale ou d'autres dispositions spéciales cantonales ou fédérales sont dispensées d'une autorisation au sens de la présente loi.[^16a-1]
+
+[^16a-1]: Rectifié par la Commission de rédaction le 19.08.2022 en application de l’article 25 de la loi sur les publications officielles.
 
 #### Art. 16b
 
@@ -264,7 +266,7 @@ arrête:
 
 #### Art. 17
 
-**Mesures administratives 1 Retrait de l’autorisation**
+**Mesures de l'autorité de surveillance 1 Retrait de l’autorisation**
 
 <sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration retire une autorisation d’exercer ou d’exploiter si les conditions requises pour son octroi ne sont plus remplies ou s’il constate, ultérieurement, que celle-ci n’aurait pas dû être délivrée.
 
@@ -272,7 +274,11 @@ arrête:
 
 **2 Mesures disciplinaires**
 
-<sup>1</sup> En cas de violation des devoirs professionnels ou d’autres prescriptions de santé publique, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exercer les mesures disciplinaires prévues à l’article 43 LPMéd.
+<sup>1</sup> En cas de violation des devoirs professionnels ou d’autres prescriptions de santé publique, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exercer les mesures disciplinaires prévues par la loi fédérale applicable.
+
+<sup>2</sup> Les mesures disciplinaires prévues par la loi fédérale du 30 septembre 2016 sur les professions de la santé (LPSan)[^17a-1] peuvent aussi être ordonnées par analogie à l'encontre du ou de la titulaire d'une autorisation d'exercer octroyée en vertu du droit cantonal en cas de violation des devoirs professionnels ou d’autres prescriptions de santé publique.
+
+[^17a-1]: RS [811.21](https://db.clex.ch/link/Bund/811.21/fr)
 
 #### Art. 17b
 
@@ -286,6 +292,23 @@ arrête:
 
 <sup>2</sup> En cas de violation grave ou répétée du devoir de diligence lié à l’entreprise ou d’autres prescriptions de santé publique, l’autorisation d’exploiter peut être retirée.
 
+#### Art. 17b1
+
+**3a Inspections et mesures d’exploitation**
+
+<sup>1</sup> En cas d'indices concrets de mise en danger de la santé publique, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut effectuer ou faire effectuer des inspections dans des établissements de santé ambulatoires dans lesquels sont exercées des activités soumises à autorisation et traiter les données requises à cet effet.
+
+<sup>2</sup> Les personnes responsables de la gestion de l'établissement de santé et celles qui y travaillent sont tenues, dans la mesure nécessaire à l'exercice de la surveillance,
+
+- a de fournir gratuitement des renseignements au service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou aux personnes mandatées par ce dernier;
+- b de leur permettre de consulter sans frais les dossiers, y compris si nécessaire les données personnelles particulièrement dignes de protection;
+- c de leur donner accès aux locaux et aux équipements;
+- d de les soutenir dans tous les domaines.
+
+<sup>3</sup> Elles ne peuvent pas invoquer d’obligations légales ou contractuelles de garder le secret vis-à-vis du service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou des personnes mandatées par ce dernier.
+
+<sup>4</sup> En cas de risque pour la santé publique, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut interdire l’usage de locaux ou d'équipements ou l’exercice de certaines activités et, dans les cas graves, fermer l’établissement de santé.
+
 #### Art. 17c
 
 **4 Obligation d’informer**
@@ -296,7 +319,9 @@ arrête:
 
 **5 Prescription**
 
-<sup>1</sup> La poursuite se prescrit conformément aux dispositions de l’article 46 LPMéd.
+<sup>1</sup> La poursuite se prescrit conformément à la loi fédérale applicable.
+
+<sup>2</sup> Les dispositions de la LPSan en matière de prescription s’appliquent par analogie à la poursuite des infractions visées aux articles 17a, alinéa 2 et 17b.
 
 #### Art. 19
 
@@ -314,9 +339,9 @@ arrête:
 
 #### Art. 19a
 
-**2 Mesures de l'autorité de surveillance**
+**2 Inspections et mesures de l'autorité de surveillance**
 
-<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut interdire ou restreindre le libre exercice d'une activité sanitaire si elle met en danger la santé des personnes traitées ou y porte atteinte.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l'intégration peut, en cas d'indices concrets, effectuer des inspections sur place et restreindre ou interdire le libre exercice d'une activité sanitaire si celle-ci met en danger la santé des personnes traitées ou y porte atteinte.
 
 <sup>2</sup> Lorsqu'il existe une présomption sérieuse qu'une activité mette la santé en danger, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut exiger la preuve de son caractère inoffensif. A titre préventif, il peut en interdire l'exercice si cela s'avère nécessaire pour protéger les personnes traitées.
 
@@ -324,7 +349,12 @@ arrête:
 
 **Communications, publication**
 
-<sup>1</sup> Les professionnels de la santé dont l'activité requiert une autorisation communiquent au service compétent de la Direction de la santé, des affaires sociales et de l’intégration l'adresse de leur cabinet et l'arrêt définitif de leur activité.
+<sup>1</sup> Les professionnels de la santé dont l'activité requiert une autorisation sont tenus de communiquer au service compétent de la Direction de la santé, des affaires sociales et de l'intégration les informations suivantes et de les actualiser périodiquement:
+
+- a leurs coordonnées,
+- b la nature et l'étendue de leur activité,
+- c le lieu d'exercice de celle-ci,
+- d son arrêt définitif.
 
 <sup>2</sup> Les titulaires d'une autorisation d'exercer ou d'exploiter sont inscrits dans un registre officiel tenu par le service compétent de la Direction de la santé, des affaires sociales et de l’intégration, dont la consultation est gratuite.
 
@@ -348,9 +378,11 @@ arrête:
 
 **Devoirs professionnels**
 
-<sup>1</sup> Les professionnels de la santé sont tenus d’observer les devoirs professionnels énumérés à l’article 40 LPMéd.
+<sup>1</sup> Les devoirs professionnels sont régis par la loi fédérale applicable à l'activité en question.
 
-<sup>2</sup> Les dispositions de la présente section ainsi que les prescriptions sur les droits des patients et des patientes sont réservées.
+<sup>1a</sup> Les devoirs professionnels prescrits par la LPSan s'appliquent par analogie aux professionnels de la santé qui doivent disposer d'une autorisation d'exercer en vertu du droit cantonal.
+
+<sup>2</sup> Les dispositions de la présente sous-section ainsi que les prescriptions sur les droits de la patientèle sont réservées.
 
 #### Art. 23
 
@@ -380,7 +412,7 @@ arrête:
 
 <sup>1</sup> Les professionnels de la santé sont tenus de noter régulièrement les données essentielles relatives au traitement de leurs patients et patientes et d'en consigner le déroulement de manière adéquate. Ils doivent y consigner leurs observations, le diagnostic, les formes thérapeutiques prescrites, ainsi que le détail des informations fournies aux patients et patientes.
 
-<sup>2</sup> Les dossiers doivent être conservés en toute sécurité aussi longtemps qu'ils revêtent de l'importance pour la santé du patient ou de la patiente, mais au minimum pendant dix ans. Le Conseil-exécutif peut fixer des durées plus longues pour certaines activités si l'intérêt du patient ou de la patiente le justifie.
+<sup>2</sup> Les dossiers doivent être conservés en toute sécurité aussi longtemps qu'ils revêtent de l'importance pour la santé du patient ou de la patiente, mais au minimum pendant vingt ans.
 
 <sup>3</sup> La durée de l'obligation fixée au 2<sup>e</sup> alinéa est également valable en cas de cessation d'activité. Les professionnels de la santé doivent alors s'assurer que les dossiers sont conservés conformément au devoir de discrétion et qu'ils sont accessibles aux patients et patientes.
 
@@ -408,7 +440,7 @@ arrête:
 
 <sup>3a</sup> Dans le cadre de l'exécution judiciaire, ils sont soumis à l'obligation d'annonce figurant à l'article 27 de la loi du 23 janvier 2018 sur l'exécution judiciaire (LEJ)[^28-1].
 
-<sup>4</sup> Ils sont libérés de l’obligation de dénoncer au Ministère public les crimes poursuivis d’office qui est inscrite à l’article 48 alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^28-2].
+<sup>4</sup> Ils sont libérés de l’obligation de dénoncer au Ministère public les crimes poursuivis d’office qui est inscrite à l’article 48, alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^28-2].
 
 <sup>5</sup> D'autres droits et obligations d'informer prévus dans la législation spéciale sont réservés.
 
@@ -421,23 +453,47 @@ arrête:
 
 #### Art. 30a
 
-**Service des urgences 1 Principe**
+**Service d'urgence ambulatoire 1 Obligation**
 
-<sup>1</sup> Les médecins et les dentistes ainsi que les maïeuticiens et les sages-femmes titulaires d'une autorisation d'exercer sont tenus de participer à un service des urgences. Ils en assurent eux-mêmes l'organisation ou la confient aux associations professionnelles.
+<sup>1</sup> Les médecins, les dentistes, les pharmaciens et les pharmaciennes ainsi que les maïeuticiens et les sages-femmes titulaires d'une autorisation d'exercer sont tenus de participer à un service d'urgence ambulatoire.
 
 <sup>2</sup> Dans les localités comptant au moins deux pharmacies publiques, celles-ci sont tenues d'assurer une permanence pour l'approvisionnement en médicaments.
 
-<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration doit être informé de l'organisation du service des urgences. Il la règle lui-même si elle n'est pas assurée par une personne ou une association désignée à cet effet et tranche les différends y relatifs.
+<sup>3</sup> Les professionnels de la santé astreints au service d'urgence ambulatoire peuvent en être dispensés ou exclus sur demande, pour de justes motifs.
 
 #### Art. 30b
 
-**2 Exceptions**
+**2 Organisation**
 
-<sup>1</sup> L'obligation de participer au service des urgences disparaît si, pour de justes motifs, les organisateurs du service en ont libéré une personne à sa demande ou l'en ont exclue.
+<sup>1</sup> L'organisation du service d'urgence ambulatoire est de la responsabilité des associations professionnelles des secteurs visés à l'article 30a.
 
-<sup>2</sup> Les personnes dispensées ou exclues du service des urgences peuvent être obligées d'y participer ultérieurement si le motif de la dispense ou de l'exclusion devient caduc ou si cela s'avère nécessaire pour assurer l'assistance médicale.
+<sup>2</sup> Ces associations édictent des règlements relatifs au service d'urgence ambulatoire qui sont contraignants pour l'ensemble des professionnels de la santé tenus d'y participer.
 
-<sup>3</sup> Les professionnels de la santé ne participant pas au service des urgences sont tenus de verser une taxe d’exemption aux organisateurs de ce service. Celle-ci se monte à 500 francs par garde, mais au plus à 15'000 francs par année.
+<sup>3</sup> Elles informent immédiatement le service compétent de la Direction de la santé, des affaires sociales et de l'intégration des règlements relatifs au service d'urgence ambulatoire édictés et de leurs modifications.
+
+<sup>4</sup> Si l'organisation du service d'urgence ambulatoire n'est plus assurée, la Direction de la santé, des affaires sociales et de l'intégration peut ordonner les mesures requises pour couvrir les besoins de la population en la matière, y compris la perception et l'utilisation des taxes de compensation au sens de l'article 30c, alinéa 1.
+
+#### Art. 30c
+
+**3 Taxe de compensation**
+
+<sup>1</sup> Les professionnels de la santé ne participant pas au service d'urgence ambulatoire sont tenus de verser aux organisateurs de ce service une taxe de compensation se montant au plus à 500 francs par garde et 15'000 francs par année.
+
+<sup>2</sup> Les taxes de compensation prélevées doivent servir à garantir le service d'urgence ambulatoire cantonal.
+
+<sup>3</sup> Les organisateurs du service d'urgence ambulatoire informent chaque année le service compétent de la Direction de la santé, des affaires sociales et de l'intégration, par un relevé, du montant et de l'utilisation des taxes de compensation perçues ainsi que du nombre de professionnels de la santé dispensés ou exclus de la participation à ce service, en précisant les motifs d'exemption ou d'exclusion.
+
+#### Art. 30d
+
+**4 Litiges**
+
+<sup>1</sup> En cas de litige concernant l'obligation de participer au service d'urgence ambulatoire, la personne et l'association professionnelle concernées peuvent demander, motifs à l'appui, au service compétent de la Direction de la santé, des affaires sociales et de l'intégration de régler le litige de manière contraignante.
+
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l'intégration rend une décision.
+
+<sup>3</sup> La personne et l'association professionnelle concernées ont qualité de partie. Au surplus, la procédure et les voies de droit sont régies par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^30d-1].
+
+[^30d-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 #### Art. 31
 
@@ -618,10 +674,9 @@ arrête:
 
 **Voies de recours**
 
-<sup>1</sup> Les voies de recours contre des décisions ainsi que les actions intentées contre l'Etat et les communes sont régies par les dispositions de la loi sur la procédure et la juridiction administratives[^46-1] et les dispositions de la loi sur les communes[^46-2].
+<sup>1</sup> Les voies de recours contre des décisions ainsi que les actions intentées contre le canton et les communes sont régies par la LPJA et la loi du 16 mars 1998 sur les communes[^46-1].
 
-[^46-1]: RSB 155.21
-[^46-2]: RSB 170.11
+[^46-1]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
 
 #### Art. 47
 
