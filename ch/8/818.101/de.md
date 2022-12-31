@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 28. September 2012 über die Bekämpfung übertragbarer
 short: EpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/de"
 
 (Epidemiengesetz, EpG)
 
-vom 28. September 2012 (Stand am 1. Juli 2022)
+vom 28. September 2012 (Stand am 1. Januar 2023)
 
 *Die Bundesversammlung der Schweizerischen Eidgenossenschaft,*
 
@@ -784,33 +784,38 @@ Das Informationssystem dient:
 
 #### Art. 60a
 
-**Proximity-Tracing-System für das Coronavirus**[^60a-1]
+**Proximity- und Presence-Tracing-System für das Coronavirus Sars‑CoV‑2**[^60a-1]
 
-<sup>1</sup> Das BAG betreibt neben dem Informationssystem nach Artikel 60 ein Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (PT-System). Das PT-System zeichnet Annäherungen zwischen Mobiltelefonen von Personen, die am System teilnehmen, auf und benachrichtigt diese, wenn sie potenziell dem Coronavirus ausgesetzt waren.
+<sup>1</sup>
 
-<sup>2</sup> Das PT-System und die mit ihm bearbeiteten Daten dienen dazu, die Personen nach Absatz 1 zu benachrichtigen und Statistiken zum PT-System zu erstellen. Das PT-System und die Daten dürfen nicht zu anderen Zwecken verwendet werden, insbesondere nicht zur Anordnung und Durchsetzung von Massnahmen nach den Artikeln 33–38 durch kantonale Behörden oder zur polizeilichen, strafrechtlichen oder nachrichtendienstlichen Verwertung.
+Das BAG betreibt die folgenden Systeme zur Benachrichtigung von Personen, die potenziell dem Coronavirus Sars-CoV-2 ausgesetzt waren:
 
-<sup>3</sup> Die Teilnahme am PT-System ist für alle Personen freiwillig. Behörden, Unternehmen und Einzelpersonen dürfen keine Person aufgrund ihrer Teilnahme oder Nichtteilnahme am PT-System bevorzugen oder benachteiligen; abweichende Vereinbarungen sind unwirksam.
+- a. ein System, das Annäherungen zwischen Mobiltelefonen von Personen, die am System teilnehmen, aufzeichnet (Proximity-Tracing-System);
+- b. ein System, das Besucherinnen und Besucher von Veranstaltungen und Einrichtungen dazu verwenden können, ihre Anwesenheit ohne Angabe von Personendaten zu erfassen (Presence-Tracing-System).
 
-<sup>4</sup> Eine Person, die durch das PT-System darüber benachrichtigt wurde, dass sie potenziell dem Coronavirus ausgesetzt war, kann gegen Nachweis der Benachrichtigung kostenlos Tests auf Infektion mit dem Coronavirus und auf Antikörper gegen das Coronavirus durchführen lassen.
+<sup>2</sup> Die Systeme und die bearbeiteten Daten dürfen ausschliesslich zur Benachrichtigung von Personen, die potenziell dem Coronavirus Sars-CoV-2 ausgesetzt waren, und zur Erstellung diesbezüglicher Statistiken verwendet werden. Sie dürfen insbesondere nicht zur Anordnung und Durchsetzung von Massnahmen nach den Artikeln 33–38 durch kantonale Behörden oder zur polizeilichen, strafrechtlichen oder nachrichtendienstlichen Verwertung verwendet werden.
+
+<sup>3</sup> Die Teilnahme an den Systemen ist für alle Personen freiwillig. Behörden, Unternehmen und Einzelpersonen dürfen keine Person aufgrund ihrer Teilnahme oder Nichtteilnahme bevorzugen oder benachteiligen; abweichende Vereinbarungen sind unwirksam.
+
+<sup>4</sup> Eine Person, die von einem der Systeme darüber benachrichtigt wurde, dass sie potenziell dem Coronavirus Sars-CoV-2 ausgesetzt war, kann gegen Nachweis der Benachrichtigung kostenlos Tests auf Infektion mit dem Coronavirus durchführen lassen.
 
 <sup>5</sup>
 
-Das PT-System ist nach folgenden Grundsätzen ausgestaltet:
+Die Systeme sind nach folgenden Grundsätzen ausgestaltet:
 
-- a. Bei der Datenbearbeitung sind alle angemessenen technischen und organisatorischen Massnahmen zu treffen, um zu verhindern, dass die teilnehmenden Personen bestimmbar sind.
+- a. Bei der Datenbearbeitung werden alle angemessenen technischen und organisatorischen Massnahmen getroffen, um zu verhindern, dass die teilnehmenden Personen bestimmbar sind.
 - b. Die Daten werden so weit wie möglich auf dezentralen Komponenten, die von den teilnehmenden Personen auf ihren Mobiltelefonen installiert werden, bearbeitet. Insbesondere dürfen Daten, die auf dem Mobiltelefon einer teilnehmenden Person über andere Personen erfasst werden, ausschliesslich auf diesem Mobiltelefon bearbeitet und gespeichert werden.
-- c. Es werden nur Daten beschafft oder in anderer Art und Weise bearbeitet, die zur Bestimmung der Distanz und der Zeit der Annäherungen und zur Ausgabe der Benachrichtigungen erforderlich sind, nicht aber Standortdaten.
+- c. Durch das Proximity-Tracing-System werden nur Daten beschafft oder bearbeitet, die zur Bestimmung der Distanz und der Zeit der Annäherungen und zur Ausgabe der Benachrichtigungen erforderlich sind; es werden insbesondere keine Standortdaten erfasst.
 - d. Die Daten werden vernichtet, sobald sie für die Benachrichtigung nicht mehr erforderlich sind.
-- e. Der Quellcode und die technischen Spezifikationen aller Komponenten des PT-Systems sind öffentlich. Die maschinenlesbaren Programme müssen nachweislich aus diesem Quellcode erstellt worden sein.
+- e. Der Quellcode und die technischen Spezifikationen aller Komponenten der Systeme sind öffentlich; die maschinenlesbaren Programme müssen nachweislich aus diesem Quellcode erstellt worden sein.
 
 <sup>6</sup> Die Bundesgesetzgebung über den Datenschutz ist anwendbar.
 
-<sup>7</sup> Der Bundesrat regelt die Einzelheiten der Organisation und des Betriebs des PT-Systems sowie der Bearbeitung der Daten.
+<sup>7</sup> Der Bundesrat regelt die Einzelheiten der Organisation und des Betriebs der Systeme sowie der Bearbeitung der Daten.
 
-<sup>8</sup> Der Bundesrat sieht die Einstellung des PT-Systems, namentlich die Deaktivierung oder Deinstallation aller auf den Mobiltelefonen installierten Komponenten vor, sobald das PT-System zur Bewältigung der durch das Coronavirus verursachten Epidemie nicht mehr erforderlich ist oder sich als ungenügend wirksam erweist.
+<sup>8</sup> Er sieht die Einstellung der Systeme vor, namentlich die Deaktivierung oder Deinstallation aller auf den Mobiltelefonen installierten Komponenten, sobald die Systeme zur Bewältigung der durch das Coronavirus Sars-CoV-2 verursachten Epidemie nicht mehr erforderlich sind oder sich als ungenügend wirksam erweisen.
 
-[^60a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^60a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 61
 
@@ -846,14 +851,14 @@ Fehlt eine Gesetzgebung, die einen angemessenen Schutz gewährleistet, so könne
 
 #### Art. 62a
 
-**Verbindung des PT-Systems mit ausländischen Systemen**[^62a-1]
+**Verbindung des Proximity- und des Presence-Tracing-Systems mit ausländischen Systemen**[^62a-1]
 
-Das PT-System nach Artikel 60*a* kann mit entsprechenden ausländischen Systemen verbunden werden, wenn ein angemessener Schutz der Persönlichkeit im betreffenden Staat gewährleistet wird, durch:
+Das Proximity- und das Presence-Tracing-System nach Artikel 60*a* können mit entsprechenden ausländischen Systemen verbunden werden, wenn ein angemessener Schutz der Persönlichkeit im betreffenden Staat gewährleistet wird, durch:
 
 - a. die Gesetzgebung; oder
 - b. hinreichende Garantien, insbesondere durch Vertrag.
 
-[^62a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^62a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 ## 8. Kapitel: Entschädigung
 
@@ -1047,13 +1052,13 @@ Der Bundesrat kann völkerrechtliche Vereinbarungen abschliessen über:
 - c. die sofortige Benachrichtigung, wenn die Gefahr droht, dass übertragbare Krankheiten die Landesgrenze überschreiten;
 - d. die Harmonisierung der Massnahmen zur Erkennung, Überwachung, Verhütung und Bekämpfung übertragbarer Krankheiten;
 - e. den Leichentransport über die Landesgrenze hinweg;
-- f.[^80-1] die Verbindung des PT-Systems nach Artikel 60*a* mit entsprechenden ausländischen Systemen.
+- f.[^80-1] die Verbindung des Proximity‑ und des Presence‑Tracing-Systems nach Artikel 60*a* mit entsprechenden ausländischen Systemen.
 
 <sup>2</sup> Die zuständigen Bundesstellen arbeiten mit ausländischen Behörden und Institutionen sowie mit internationalen Organisationen zusammen.
 
 <sup>3</sup> Das BAG übernimmt die Aufgaben der nationalen Anlaufstelle nach den Internationalen Gesundheitsvorschriften (2005) vom 23. Mai 2005[^80-2]. Insbesondere meldet es der WHO Ereignisse, die zu einer gesundheitlichen Notlage von internationaler Tragweite führen können.
 
-[^80-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^80-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 [^80-2]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1102,11 +1107,11 @@ Mit Busse wird bestraft, wer vorsätzlich:
 - k. die Vorschriften über die Ein- oder Ausreise verletzt (Art. 41);
 - l. Mitwirkungspflichten verletzt (Art. 43, 47 Abs. 2 und 48 Abs. 2);
 - m. die Vorschriften über den Transport sowie die Ein-, Aus- und Durchfuhr von Waren verletzt (Art. 45);
-- n.[^83-1] eine von ihr oder ihm angebotene Leistung, die für die Allgemeinheit bestimmt ist, einer Person verweigert, weil diese am PT-System nicht teilnimmt (Art. 60*a* Abs. 3).
+- n.[^83-1] eine von ihr oder ihm angebotene Leistung, die für die Allgemeinheit bestimmt ist, einer Person verweigert, weil diese nicht am Proximity‑ oder am Presence-Tracing-System teilnimmt (Art. 60*a* Abs. 3).
 
 <sup>2</sup> Wer fahrlässig handelt, wird für Übertretungen nach Absatz 1 mit Busse bis zu 5000 Franken bestraft.
 
-[^83-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft vom 25. Juni 2020 bis zum 30. Juni 2022, verlängert bis zum 31. Dez. 2022 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^83-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 ([AS 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)Ziff. III 3; [BBl 2020 4461](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Fassung gemäss Anhang Ziff. 2 des BG vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 30. Juni 2024 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 84
 
@@ -1138,7 +1143,7 @@ Folgende Bundesgesetze werden aufgehoben:
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^86-1]
+…[^86-1]
 
 [^86-1]: Die Änderungen können unter [AS 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)konsultiert werden.
 

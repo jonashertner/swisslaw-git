@@ -4,11 +4,11 @@ title: "Loi fédérale du 28 septembre 2012 sur la lutte contre les maladies tra
 short: LEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/297"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2012-09-28
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/297/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-297-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/297/20220701/fr"
 
 (Loi sur les épidémies, LEp)
 
-du 28 septembre 2012 (Etat le 1<sup>er</sup> juillet 2022)
+du 28 septembre 2012 (État le 1<sup>er</sup> janvier 2023)
 
 *L’Assemblée fédérale de la Confédération suisse,*
 
@@ -387,7 +387,7 @@ Le Conseil fédéral peut édicter les dispositions suivantes:
 - c.[^29-1] fixer les conditions auxquelles doivent répondre l’équipement du milieu confiné ainsi que la formation et la formation continue des personnes qui utilisent des agents pathogènes;
 - d. prescrire que les contenants renfermant des agents pathogènes doivent porter une marque distinctive.
 
-[^29-1]: Nouvelle teneur selon le ch. 34 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 34 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 ## Chapitre 5 Mesures de lutte
 
@@ -783,33 +783,38 @@ Le système d’information sert les tâches suivantes:
 
 #### Art. 60a
 
-**Système de traçage de proximité pour le coronavirus**[^60a-1]
+**Systèmes de traçage de proximité et de traçage de présence pour le coronavirus SARS-CoV-2**[^60a-1]
 
-<sup>1</sup> En plus du système d’information visé à l’art. 60, l’OFSP exploite un système de traçage de proximité pour le coronavirus SARS-CoV-2 (système TP). Le système TP enregistre les rapprochements entre les téléphones portables de personnes qui participent au système et les informe si elles ont été potentiellement exposées au coronavirus.
+<sup>1</sup>
 
-<sup>2</sup> Le système TP et les données qu’il traite servent à informer les personnes visées à l’al. 1 et à établir des statistiques concernant le système. Le système TP et les données ne peuvent pas être utilisés à d’autres fins; ils ne peuvent pas en particulier servir aux autorités cantonales à ordonner ou à mettre en œuvre des mesures au sens des art. 33 à 38, ni à la police, aux autorités pénales ou aux services de renseignement.
+L’OFSP exploite les systèmes suivants servant à informer les personnes qui ont été potentiellement exposées au coronavirus SARS-CoV-2:
 
-<sup>3</sup> La participation au système TP est volontaire pour tous. Les autorités, les entreprises et les particuliers ne peuvent pas favoriser ou désavantager une personne en raison de sa participation ou de sa non-participation au système TP; les conventions contraires sont sans effet.
+- a. un système qui enregistre les rapprochements entre les téléphones portables de personnes qui participent au système (système de traçage de proximité);
+- b. un système que peuvent utiliser les personnes lorsqu’elles fréquentent une manifestation ou un établissement afin de saisir leur présence sans indiquer de données personnelles (système de traçage de présence).
 
-<sup>4</sup> Toute personne qui a été informée par le système TP de son exposition potentielle au coronavirus peut, sur présentation du message du système TP, se soumettre gratuitement à un test d’identification du coronavirus et à un test sérologique de mise en évidence des anticorps au coronavirus.
+<sup>2</sup> Les systèmes et les données traitées peuvent être utilisés uniquement pour informer les personnes qui ont été potentiellement exposées au coronavirus SARS-CoV-2 et pour établir des statistiques à cet égard. Ils ne peuvent pas en particulier servir aux autorités cantonales à ordonner ou à mettre en œuvre des mesures au sens des art. 33 à 38, ni à la police, aux autorités pénales ou aux services de renseignement.
+
+<sup>3</sup> La participation aux systèmes est volontaire pour tous. Les autorités, les entreprises et les particuliers ne peuvent pas favoriser ou désavantager une personne en raison de sa participation ou de sa non-participation; les conventions contraires sont sans effet.
+
+<sup>4</sup> Toute personne qui a été informée par un des systèmes de son exposition potentielle au coronavirus SARS-CoV-2 peut, sur présentation du message d’information reçu, se soumettre gratuitement à un test d’identification du coronavirus.
 
 <sup>5</sup>
 
-Le système TP est conçu selon les principes suivants:
+Les systèmes sont conçus selon les principes suivants:
 
-- a. lors du traitement des données, toutes les mesures techniques et organisationnelles appropriées doivent être prises pour éviter que les participants ne puissent être identifiés;
+- a. lors du traitement des données, toutes les mesures techniques et organisationnelles appropriées sont prises pour éviter que les participants puissent être identifiés;
 - b. dans la mesure du possible, les données sont traitées sur des composants décentralisés que les participants installent sur leur téléphone portable; en particulier, les données enregistrées sur le téléphone portable d’un participant concernant d’autres participants sont traitées et enregistrées exclusivement sur ce téléphone;
-- c. seules les données nécessaires au calcul de la distance et du temps de rapprochement et à l’émission des messages d’information sont collectées ou traitées; aucune donnée de géolocalisation n’est collectée ni traitée de quelque façon que ce soit;
+- c. le système de traçage de proximité ne collecte ou ne traite que les données nécessaires au calcul de la distance et du temps de rapprochement ainsi qu’à l’envoi de notifications; en particulier, aucune donnée de géolocalisation n’est saisie;
 - d. les données sont supprimées dès qu’elles ne sont plus nécessaires aux messages d’information;
-- e. le code source et les spécifications techniques de tous les composants du système TP sont publics; les programmes lisibles par une machine doivent avoir été élaborés, de manière avérée, au moyen de ce code source.
+- e. le code source et les spécifications techniques de tous les composants des systèmes sont publics; il doit être possible de prouver que les programmes lisibles par une machine ont été élaborés au moyen de ce code source.
 
 <sup>6</sup> La législation fédérale relative à la protection des données s’applique.
 
-<sup>7</sup> Le Conseil fédéral règle les modalités de l’organisation et de l’exploitation du système TP ainsi que du traitement des données.
+<sup>7</sup> Le Conseil fédéral règle les modalités de l’organisation et de l’exploitation des systèmes ainsi que du traitement des données.
 
-<sup>8</sup> Le Conseil fédéral prévoit l’arrêt du système TP, en particulier la désactivation ou la désinstallation de tous les composants installés sur les téléphones portables, dès que le système TP n’est plus requis ou qu’il ne se révèle pas suffisamment efficace pour lutter contre l’épidémie causée par le coronavirus.
+<sup>8</sup> Il prévoit l’arrêt des systèmes, en particulier la désactivation ou la désinstallation de tous les composants installés sur les téléphones portables, dès que les systèmes ne sont plus requis ou qu’ils ne se révèlent pas suffisamment efficaces pour lutter contre l’épidémie causée par le coronavirus SARS-CoV-2.
 
-[^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongé jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^60a-1]: Introduit par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 61
 
@@ -845,14 +850,14 @@ En l’absence de législation assurant un niveau de protection adéquat, il n�
 
 #### Art. 62a
 
-**Liaison du système TP avec des systèmes étrangers**[^62a-1]
+**Liaison des systèmes de traçage de proximité et de traçage de présence avec des systèmes étrangers**[^62a-1]
 
-Le système TP visé à l’art. 60*a* peut être relié à des système étrangers correspondants, pour autant qu’un niveau adéquat de protection de la personnalité soit assuré dans l’État concerné par:
+Les systèmes visés à l’art. 60*a* peuvent être reliés à des systèmes étrangers correspondants, pour autant qu’un niveau adéquat de protection de la personnalité soit assuré dans l’État concerné par:
 
 - a. la législation, ou
 - b. des garanties suffisantes, notamment contractuelles.
 
-[^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongé jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^62a-1]: Introduit par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 ## Chapitre 8 Indemnisation
 
@@ -1046,13 +1051,13 @@ Le Conseil fédéral peut conclure des accords internationaux concernant:
 - c. l’information immédiate en cas de risque de propagation transfrontalière d’une maladie transmissible;
 - d. l’harmonisation des mesures visant à détecter, à surveiller, à prévenir ou à combattre les maladies transmissibles;
 - e. le transport transfrontalier de cadavres;
-- f.[^80-1] la liaison du système TP visé à l’art. 60*a* avec des systèmes étrangers correspondants.
+- f.[^80-1] la liaison des systèmes de traçage de proximité et de traçage de présence visés à l’art. 60*a* avec des systèmes étrangers correspondants.
 
 <sup>2</sup> Les services fédéraux compétents coopèrent avec les autorités et les institutions étrangères ainsi qu’avec les organisations internationales.
 
 <sup>3</sup> L’OFSP assume les tâches du «point focal national» conformément au Règlement sanitaire international (2005) du 23 mai 2005[^80-2]. Il signale en particulier à l’OMS les événements susceptibles de présenter une urgence de santé publique de portée internationale.
 
-[^80-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongée jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^80-1]: Introduite par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 [^80-2]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
 
 #### Art. 81
@@ -1099,11 +1104,11 @@ Est puni d’une amende quiconque, intentionnellement:
 - k. enfreint les dispositions sur l’entrée et la sortie du pays (art. 41);
 - l. enfreint l’obligation de collaborer (art. 43, 47, al. 2, et 48, al. 2);
 - m. enfreint les dispositions sur le transport ainsi que sur l’importation, l’exportation ou le transit de marchandises (art. 45);
-- n.[^83-1] refuse une prestation destinée à l’usage public à une personne en raison de sa non-participation au système TP (art. 60*a*, al. 3).
+- n.[^83-1] refuse une prestation destinée à l’usage public à une personne en raison de sa non-participation au système de traçage de proximité ou au système de traçage de présence (art. 60*a*, al. 3).
 
 <sup>2</sup> Quiconque agit par négligence est puni d’une amende de 5000 francs au plus pour les contraventions visées à l’al. 1.
 
-[^83-1]: Introduite par le ch. I de la LF du 19 juin 2020, en vigueur du 25 juin 2020 au 30 juin 2022, prolongée jusqu’au 31 déc. 2022 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)).
+[^83-1]: Introduite par le ch. I de la LF du 19 juin 2020 ([RO 2020 2191](https://fedlex.data.admin.ch/eli/oc/2020/437), [2727](https://fedlex.data.admin.ch/eli/oc/2020/492); [2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878)ch. III 3; [FF 2020 4361](https://fedlex.data.admin.ch/eli/fga/2020/1024); [2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 30 juin 2024 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
 #### Art. 84
 
