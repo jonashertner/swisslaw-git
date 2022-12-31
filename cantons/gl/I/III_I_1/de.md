@@ -3,20 +3,19 @@ canton: GL
 number: III I/1
 title: Anwaltsgesetz des Kantons Glarus
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
 version_adopted: 2021-09-05
 adopted: 2002-05-05
 in_force: 2002-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-I.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2287/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2355/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Anwaltsgesetz des Kantons Glarus
 
-Vom 05.05.2002 (Stand 01.07.2022)
+Vom 05.05.2002 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -37,6 +36,14 @@ beschliesst:
 **Geltungsbereich**
 
 <sup>1</sup> Dieses Gesetz gilt für Personen, die über ein Anwaltspatent verfügen und Parteien vor glarnerischen Gerichten vertreten oder im Kanton Glarus mit entsprechender Berufsbezeichnung beratend tätig sind.
+
+#### Art. 2a
+
+**Zugang zu amtlichen Dokumenten**
+
+<sup>1</sup> Die Bestimmungen über den informationsrechtlichen Zugang zu amtlichen Dokumenten nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^2a-1] finden im Aufgabenbereich der Anwaltskommission keine Anwendung.
+
+[^2a-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 3
 
