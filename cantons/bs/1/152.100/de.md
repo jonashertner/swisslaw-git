@@ -4,13 +4,13 @@ number: "152.100"
 title: Gesetz über die Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2021-10-24
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2023-07-31
 version_adopted: 2021-10-20
 adopted: 2006-06-29
 in_force: 2006-09-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5803/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5823/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Geschäftsordnung des Grossen Rates | Grosser Rat / Ombudsman
 
 (GO)
 
-Vom 29. Juni 2006 (Stand 24. Oktober 2021)
+Vom 29. Juni 2006 (Stand 1. Januar 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -54,15 +54,7 @@ erlässt folgendes Gesetz:
 
 #### § 1a
 
-**Covid-19-Zertifikatspflicht**
-
-<sup>1</sup> Personen ab 16 Jahren erhalten nur mit einem gültigen Covid-19-Zertifikat gemäss Art. 6a des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz) vom 25. September 2020 an Sitzungsdaten des Grossen Rates Zutritt zum Rathaus und zu den Sitzungsräumen von Sitzungen des Ratsbüros oder von Kommissionen. Lässt es die epidemiologische Lage zu, kann das Ratsbüro diese Massnahme aussetzen.
-
-<sup>2</sup> Personen, die zwingend Zutritt zum Rathaus oder einem anderen Sitzungsraum gemäss Abs. 1 benötigen, werden die Kosten für die allenfalls notwendigen Tests für die Ausstellung des Zertifikats vergütet. Das Ratsbüro legt fest, welche Personengruppen Anspruch auf eine Vergütung der Tests haben.
-
-<sup>3</sup> Das Ratsbüro regelt die Kontrolle der Covid-19-Zertifikate.
-
-<sup>4</sup> Mitglieder des Grossen Rates und des Regierungsrates, die kein Covid-19-Zertifikat vorweisen, erhalten Zutritt zum Ratssaal respektive Sitzungsraum, wenn sie eine Maske tragen. Der Parlamentsdienst führt eine Liste dieser Personen. Das Ratsbüro kann Einzelheiten regeln.
+**…**
 
 #### § 2
 
