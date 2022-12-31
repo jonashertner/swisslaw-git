@@ -4,13 +4,13 @@ number: "164.100"
 title: Gesetz betreffend Einreihung und Entlöhnung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 short: Lohngesetz
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 1995-01-18
 in_force: 1995-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5719/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Lohn und Entschädigungen
 
 (Lohngesetz)
 
-Vom 18. Januar 1995 (Stand 1. Januar 2022)
+Vom 18. Januar 1995 (Stand 1. Januar 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
