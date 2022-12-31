@@ -4,13 +4,13 @@ number: "935.520"
 title: Kantonale Geldspielverordnung
 short: KGSV
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-25
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-16
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2610/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2741/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2610/pdf_file"
 
 (KGSV)
 
-vom 02.12.2020 (Stand 01.07.2022)
+vom 02.12.2020 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1054,11 +1054,11 @@ beschliesst:
 
 **Anwendbare Bestimmungen**
 
-<sup>1</sup> Die folgenden Vorschriften des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^90-1] sind auf den Lotterie- und den Sportfonds sinngemäss anwendbar:
+<sup>1</sup> Die folgenden Vorschriften des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^90-1] sind auf den Lotterie- und den Sportfonds sinngemäss anwendbar:
 
-- a Artikel 46 Absatz 2 und 4 FLG,
-- b Artikel 52 FLG,
-- c Artikel 68 bis 74 FLG mit Ausnahme von Artikel 71 FLG.
+- a Artikel 29 Absatz 2 und 3 FHG,
+- b Artikel 33 FHG,
+- c Artikel 58 bis 63 mit Ausnahme von Artikel 61 Absatz 3 FHG.
 
 [^90-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
@@ -1087,7 +1087,7 @@ beschliesst:
 
 <sup>2</sup> Die Verwaltungskosten werden dem Fonds belastet und im Rahmen der Jahresrechnung vom Regierungsrat und vom Grossen Rat genehmigt.
 
-<sup>3</sup> Über die Mittel darf nur mit Doppelunterschrift verfügt werden. Die entsprechenden Bestimmungen der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV)[^93-1] gelten sinngemäss.
+<sup>3</sup> Über die Mittel darf nur mit Doppelunterschrift verfügt werden. Die entsprechenden Bestimmungen der Finanzhaushaltsverordnung vom 16. November 2022 (FHaV)[^93-1] gelten sinngemäss.
 
 [^93-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 

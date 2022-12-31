@@ -4,13 +4,13 @@ number: "935.520"
 title: "Ordonnance cantonale sur les jeux d'argent"
 short: OCJAr
 language: fr
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-25
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-11-16
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2610/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2741/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2610/pdf_file"
 
 (OCJAr)
 
-du 02.12.2020 (état au 01.07.2022)
+du 02.12.2020 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1054,11 +1054,11 @@ arrête:
 
 **Dispositions applicables**
 
-<sup>1</sup> Les dispositions suivantes de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^90-1] s'appliquent par analogie au Fonds de loterie et au Fonds du sport:
+<sup>1</sup> Les dispositions suivantes de la loi du 15 juin 2022 sur les finances (LFin)[^90-1] s'appliquent par analogie au Fonds de loterie et au Fonds du sport:
 
-- a article 46, alinéas 2 et 4 LFP,
-- b article 52 LFP,
-- c articles 68 à 74 LFP, exception faite de l'article 71 LFP.
+- a article 29, alinéas 2 et 3 LFin,
+- b article 33 LFin,
+- c articles 58 à 63 LFin, exception faite de l'article 61, alinéa 3 LFin.
 
 [^90-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
@@ -1087,7 +1087,7 @@ arrête:
 
 <sup>2</sup> Les frais de gestion sont mis à la charge des fonds et approuvés par le Conseil-exécutif et le Grand Conseil dans le cadre des comptes annuels.
 
-<sup>3</sup> La double signature est nécessaire pour disposer des moyens des fonds. Les dispositions pertinentes de l'ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^93-1] s'appliquent par analogie.
+<sup>3</sup> La double signature est nécessaire pour disposer des moyens des fonds. Les dispositions pertinentes de l'ordonnance du 16 novembre 2022 sur les finances (OFin)[^93-1] s'appliquent par analogie.
 
 [^93-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
