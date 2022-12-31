@@ -4,11 +4,11 @@ title: Kernenergiehaftpflichtverordnung vom 25. März 2015 (KHV)
 short: KHV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/860"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-03-25
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-860-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-860-20230101-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20220101/de"
 
 (KHV)
 
-vom 25. März 2015 (Stand am 1. Januar 2022)
+vom 25. März 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -35,7 +35,7 @@ verordnet:
 
 ### (Art. 8 Abs. 2 KHG)
 
-Der Gesamtbetrag der Deckung beträgt 1200 Millionen Euro zuzüglich zehn Prozent des Gesamtbetrages für Zinsen und gerichtlich zuerkannte Kosten:
+Der Gesamtbetrag der Deckung beträgt 1200 Millionen Euro zuzüglich zehn Prozent des Gesamtbetrages für Zinsen und für gerichtlich zuerkannte Kosten:[^1-1]
 
 - a. für Kernkraftwerke;
 - b. für das Zwischenlager Würenlingen (ZWILAG);
@@ -44,7 +44,10 @@ Der Gesamtbetrag der Deckung beträgt 1200 Millionen Euro zuzüglich zehn Prozen
   je Transport von:
 
   - 1\. bestrahlten Kernbrennstoffen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg,
-  - 2\. verglasten Spaltproduktlösungen aus der Wiederaufbereitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg.
+  - 2\.[^1-2] verglasten Spaltproduktlösungen aus der Wiederaufarbeitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 2
 
@@ -54,17 +57,19 @@ Der Gesamtbetrag der Deckung beträgt 1200 Millionen Euro zuzüglich zehn Prozen
 
 <sup>1</sup>
 
-Der Gesamtbetrag der Deckung beträgt 70 Millionen Euro zuzüglich zehn Prozent dieses Betrages für Zinsen und gerichtlich zuerkannte Kosten:
+Der Gesamtbetrag der Deckung beträgt 70 Millionen Euro zuzüglich zehn Prozent dieses Betrags für Zinsen und für gerichtlich zuerkannte Kosten:[^2-1]
 
 - a. für Anlagen zur Nuklearforschung;
 - b. für das Bundeszwischenlager (BZL);
-- c.[^2-1] für Anlagen, in denen radioaktive Abfälle aus Kernanlagen zum Abklingen gelagert werden (Abklinglager).
+- c.[^2-2] für Anlagen, in denen radioaktive Abfälle aus Kernanlagen zum Abklingen gelagert werden (Abklinglager).
 
 <sup>2</sup> Dieser Deckungsbetrag gilt auch dann, wenn zwei oder mehrere solche Anlagen aufgrund von Artikel 2 Buchstabe a KHG als eine einzige Kernanlage gelten.
 
-<sup>3</sup> Der Gesamtbetrag der Deckung beträgt je Transport von Kernmaterialien, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind, 80 Millionen Euro zuzüglich zehn Prozent dieses Betrages für Zinsen und gerichtlich zuerkannte Kosten.
+<sup>3</sup> Der Gesamtbetrag der Deckung beträgt je Transport von Kernmaterialien, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind, 80 Millionen Euro zuzüglich zehn Prozent dieses Betrages für Zinsen und für gerichtlich zuerkannte Kosten.[^2-3]
 
-[^2-1]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2022 ([AS 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2022 ([AS 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 ## 2. Abschnitt: Private Deckung
 
@@ -80,7 +85,7 @@ Die Deckungssumme, über die der Deckungsvertrag nach Artikel 9 Absatz 1 KHG abg
 
 <sup>1</sup>
 
-Der Grundbetrag beträgt 1 Milliarde Schweizerfranken:
+Der Grundbetrag beträgt 1200 Millionen Euro:[^4-1]
 
 - a. für Kernkraftwerke;
 - b. für das ZWILAG;
@@ -89,9 +94,9 @@ Der Grundbetrag beträgt 1 Milliarde Schweizerfranken:
   je Transport von:
 
   - 1\. bestrahlten Kernbrennstoffen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg,
-  - 2\. verglasten Spaltproduktlösungen aus der Wiederaufbereitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg.
+  - 2\.[^4-2] verglasten Spaltproduktlösungen aus der Wiederaufarbeitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg.
 
-<sup>2</sup> Entspricht dieser Grundbetrag weniger als 700 Millionen Euro, so ist der Betrag in Schweizerfranken entsprechend zu erhöhen.
+<sup>2</sup> …[^4-3]
 
 <sup>3</sup> Der Grundbetrag beträgt je Transport von Kernmaterialien, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind, 80 Millionen Euro.
 
@@ -101,9 +106,12 @@ Der Grundbetrag beträgt 70 Millionen Euro:
 
 - a. für Anlagen zur Nuklearforschung;
 - b. für das BZL;
-- c.[^4-1] für Abklinglager.
+- c.[^4-4] für Abklinglager.
 
-[^4-1]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2022 ([AS 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^4-3]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^4-4]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2022 ([AS 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
 
 #### Art. 5
 
@@ -150,13 +158,17 @@ Der private Deckungsgeber darf gegenüber dem Geschädigten von der Deckung nach
 
 <sup>2</sup>
 
-Ferner darf der private Deckungsgeber gegenüber dem Geschädigten folgende Schäden und Kosten von der Deckung nach den Artikeln 4 und 5 ausschliessen, soweit diese gesamthaft über den Betrag von 50 Prozent der Deckungssumme nach Artikel 4 Absätze 1 und 2 und Artikel 5 hinausgehen:
+Ferner darf er gegenüber dem Geschädigten folgende Schäden und Kosten von der Deckung nach Artikel 4 Absatz 1 und 5 ausschliessen, soweit diese gesamthaft über den Betrag von 50 Prozent der Deckungssumme nach Artikel 4 Absatz 1 und Artikel 5 hinausgehen:[^7-1]
 
-- a. die Kosten von Massnahmen zur Wiederherstellung geschädigter Umwelt gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummer 4 des Pariser Übereinkommens[^7-1];
+- a. die Kosten von Massnahmen zur Wiederherstellung geschädigter Umwelt gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummer 4 des Pariser Übereinkommens[^7-2];
 - b. Einkommensverlust aus einem unmittelbaren wirtschaftlichen Interesse an der Nutzung oder dem Genuss der Umwelt gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummer 5 des Pariser Übereinkommens;
 - c. die Kosten von Vorsorgemassnahmen gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummer 6 des Pariser Übereinkommens, soweit sich diese auf die Buchstaben a und b beziehen.
 
-[^7-1]: Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004 ([BBl 2007 5471](https://fedlex.data.admin.ch/eli/fga/2007/763))
+<sup>3</sup> Er kann den Umfang seiner Ausschlüsse jeweils auf das folgende Kalenderjahr anpassen, sofern die jeweilige Mindestdeckung nicht unterschritten wird.[^7-3]
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^7-2]: Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964, des Protokolls vom 16. November 1982 und des Protokolls vom 12. Februar 2004 ([BBl 2007 5471](https://fedlex.data.admin.ch/eli/fga/2007/763))
+[^7-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 ## 3. Abschnitt: Deckung durch den Bund
 
@@ -168,7 +180,9 @@ Ferner darf der private Deckungsgeber gegenüber dem Geschädigten folgende Sch�
 
 <sup>1</sup> Die Beiträge, die die Inhaber von Kernanlagen dem Bund für die Deckung von durch ihre Kernanlage verursachten nuklearen Schäden jährlich entrichten müssen, berechnen sich gemäss den Anhängen 1 und 3.
 
-<sup>2</sup> Diese Beiträge werden für das Folgejahr spätestens auf den 15. Dezember veranlagt.
+<sup>2</sup> Diese Beiträge werden für das Folgejahr spätestens auf den 15. Dezember veranlagt. Passt der private Deckungsgeber seine Deckung gemäss Artikel 7 Absatz 3 an, so verlängert sich diese Frist bis spätestens auf den 15. Februar des Folgejahres.[^8-1]
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 9
 
@@ -178,11 +192,14 @@ Ferner darf der private Deckungsgeber gegenüber dem Geschädigten folgende Sch�
 
 <sup>1</sup> Die Beiträge, die diejenigen Personen, die für den Transport von Kernmaterialien haften, dem Bund für die Deckung von nuklearen Schäden entrichten müssen, berechnen sich gemäss den Anhängen 2 und 3.
 
-<sup>2</sup> Das Bundesamt für Energie (BFE) schätzt und erhebt die Beiträge für das Rechnungsjahr jeweils im Voraus.
+<sup>2</sup> Das Bundesamt für Energie (BFE) schätzt und erhebt die Beiträge für das Rechnungsjahr jeweils im Voraus und spätestens auf den 15. Dezember des Vorjahres.[^9-1]
 
 <sup>3</sup> Das BFE unterscheidet bei der einstweiligen Schätzung der Beiträge zwischen Kernmaterialien nach Artikel 1 Buchstabe c und Kernmaterialien nach Artikel 2 Absatz 3.
 
-<sup>4</sup> Nach Ablauf des Rechnungsjahres berechnet das BFE die endgültigen Beiträge. Ein Mehr- oder Minderbetrag gegenüber den nach den Absätzen 2 und 3 geschätzten und geleisteten Beiträgen wird nachträglich erhoben oder zurückerstattet.
+<sup>4</sup> Nach Ablauf des Rechnungsjahres berechnet das BFE die endgültigen Beiträge und veranlagt diese bis spätestens auf den 28. Februar. Ein Mehr- oder Minderbetrag gegenüber den nach den Absätzen 2 und 3 geschätzten und geleisteten Beiträgen wird nachträglich erhoben oder zurückerstattet.[^9-2]
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 10
 
@@ -209,6 +226,10 @@ Für Transporte von Kernmaterialien melden die privaten Deckungsgeber dem BFE:
   - 2\. die Anzahl der von diesen Inhabern für das Folgejahr voraussichtlich durchzuführenden Transporte.
 
 <sup>3</sup> Die Meldung nach Absatz 2 weist Kernmaterialien nach Artikel 1 Buchstabe c und Kernmaterialien nach Artikel 2 Absatz 3 separat aus.
+
+<sup>4</sup> Passt der private Deckungsgeber seine Deckung für ausgenommene Risiken gemäss Artikel 7 Absatz 3 an, so verlängert sich die Meldefrist gemäss den Absätzen 1 und 2 Buchstabe b bis zum 15. Dezember.[^10-1]
+
+[^10-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 11
 
@@ -338,77 +359,85 @@ Zuständige Stelle nach Artikel 31 Absatz 2 KHG ist das BFE.
 
 Diese Verordnung tritt am 1. Januar 2022 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 8 Abs. 1)
 
 ## Kernkraftwerke und ZWILAG
 
+[^t-1]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+
 Die Beiträge für die Deckung nuklearer Schäden, die durch Kernkraftwerke sowie durch das ZWILAG verursacht werden, berechnen sich wie folgt:
 
 <table>
-<tr><td>Beitrag an den Bund =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image1.png)</td></tr>
+<tr><td>Beitrag an den Bund =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image1.png)</td></tr>
 </table>
 
 mit:
 
 <table>
 <tr><td>Z<sub>Bund</sub></td><td>=</td><td>in den Bruttoprämien des Bundes enthaltener Zuschlag auf die reine Risikoprämie;</td></tr>
-<tr><td>L<sub>1</sub></td><td>=</td><td>obere Limite der Schäden, die vom Bund gedeckt werden. Die Höhe der Limite entspricht dem Gesamtbetrag der Deckung gemäss Artikel 1 (1200 Mio. EUR);</td></tr>
-<tr><td>L<sub>0</sub></td><td>=</td><td>untere Limite 1. Teil. Die Höhe der Limite entspricht der privaten Deckung gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 (1 Mrd. CHF bzw. 700 Mio. EUR);</td></tr>
-<tr><td>S<sub>0</sub></td><td>=</td><td>untere Sublimite für Schäden, die durch terroristische Gewaltakte verursacht werden. Die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 1 (500 Mio. CHF bzw. 350 Mio. EUR);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image2.png)</td><td>=</td><td>untere Sublimite für Schäden, die entstehen, obwohl die jeweils gel-tenden Grenzwerte für Radioaktivität eingehalten worden sind. Die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 2 (500 Mio. CHF bzw. 350 Mio. EUR);</td></tr>
-<tr><td>p<sup>Teil1</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 (1 Mrd. CHF bzw. 700 Mio. EUR) gedeckt wird;</td></tr>
+<tr><td>L<sub>1</sub></td><td>=</td><td>obere Limite der Schäden, die vom Bund gedeckt werden; die Höhe der Limite entspricht dem Gesamtbetrag der Deckung gemäss Artikel 1 (1200 Mio. EUR);</td></tr>
+<tr><td>L<sub>0</sub></td><td>=</td><td>untere Limite 1. Teil; die Höhe der Limite entspricht der privaten Deckung gemäss Artikel 4 Absätze 1 und 2 und Artikel 5;</td></tr>
+<tr><td>S0</td><td>=</td><td>untere Sublimite für Schäden, die durch terroristische Gewaltakte verursacht werden; die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 1;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image2.png)</td><td>=</td><td>untere Sublimite für Schäden, die entstehen, obwohl die jeweils geltenden Grenzwerte für Radioaktivität eingehalten worden sind; die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 2;</td></tr>
+<tr><td>p<sup>Teil1</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gedeckt wird;</td></tr>
 <tr><td>p<sup>Teil2</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der vollständig von der privaten Deckung ausgeschlossen ist;</td></tr>
-<tr><td>p<sup>Teil3</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 1 vom privaten Deckungsgeber bis zum Betrag von 50 % der Deckungssumme nach Artikel 4 Absätze 1 und 2 und Artikel 5 (500 Mio. CHF bzw. 350 Mio. EUR) gedeckt wird;</td></tr>
-<tr><td>p<sup>Teil4</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 2 vom privaten Deckungsgeber bis zum Betrag von 50 % der Deckungssumme nach Artikel 4 Absätze 1 und 2 und Artikel 5 (500 Mio. CHF bzw. 350 Mio. EUR) gedeckt wird;</td></tr>
-<tr><td>P<sub>U</sub></td><td>=</td><td>Prämie für die Deckung von nuklearem Schaden gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummern 4-6 des Pariser Übereinkommens, welche der private Deckungsgeber gesamthaft bis zum Betrag von 50 % der Deckungssumme nach Artikel 4 Absätze 1 und 2 und Artikel 5 gewährleistet (Art. 7 Abs. 2 Bst. a–c).</td></tr>
+<tr><td>p<sup>Teil3</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 1 vom privaten Deckungsgeber bis zum Betrag von mindestens 50 Prozent der Deckungssumme gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gedeckt wird;</td></tr>
+<tr><td>p<sup>Teil4</sup></td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 2 vom privaten Deckungsgeber bis zum Betrag von mindestens 50 Prozent der Deckungssumme gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gedeckt wird;</td></tr>
+<tr><td>P<sub>U</sub></td><td>=</td><td>Prämie für die Deckung von nuklearem Schaden gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummern 4–6 des Übereinkommens vom 29. Juli 1960[^annex1-lvlu1-1] über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie, die der private Deckungsgeber gesamthaft bis zum Betrag von mindestens 50 Prozent der Deckungssumme gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gewährleistet (Art. 7 Abs. 2 Bst. a–c).</td></tr>
 </table>
 
-Die genannten Deckungsbeträge verstehen sich zuzüglich 10 Prozent des Betrages für Zinsen und gerichtlich zuerkannte Kosten.
+Die genannten Deckungsbeträge verstehen sich zuzüglich 10 Prozent des Betrages für Zinsen und für gerichtlich zuerkannte Kosten.
 
-Anhang 2
+[^annex1-lvlu1-1]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+
+Anhang 2[^t-2]
 
 (Art. 9 Abs. 1)
 
-## Transporte von bestrahlten Kernbrennstoffen und verglasten Spaltproduktlösungen aus der Wiederaufbereitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg
+## Transporte von bestrahlten Kernbrennstoffen und verglasten Spaltproduktlösungen aus der Wiederaufarbeitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg.
 
-Die Beiträge für die Deckung nuklearer Schäden, die durch Transporte bestrahlter Kernbrennstoffe und verglaster Spaltproduktlösungen aus der Wiederaufbereitung abgebrannter Brennelemente mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg verursacht werden, berechnen sich wie folgt:
+[^t-2]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+
+Die Beiträge für die Deckung nuklearer Schäden, die durch Transporte bestrahlter Kernbrennstoffe und verglaster Spaltproduktlösungen aus der Wiederaufarbeitung abgebrannter Brennelemente mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg verursacht werden, berechnen sich wie folgt:
 
 <table>
-<tr><td>Beitrag an den Bund =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image3.png)</td></tr>
+<tr><td>Beitrag an den Bund =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image3.png)</td></tr>
 </table>
 
 mit:
 
 <table>
 <tr><td>Z<sub>Bund</sub></td><td>=</td><td>in den Bruttoprämien des Bundes enthaltener Zuschlag auf die reine Risikoprämie;</td></tr>
-<tr><td>L<sub>1</sub></td><td>=</td><td>obere Limite der Schäden, die vom Bund gedeckt werden. Die Höhe der Limite entspricht dem Gesamtbetrag der Deckung gemäss Artikel 1 (1200 Mio. EUR);</td></tr>
-<tr><td>L<sub>0</sub></td><td>=</td><td>untere Limite 1. Teil. Die Höhe der Limite entspricht der privaten Deckung gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 (1 Mrd. CHF bzw. 700 Mio. EUR);</td></tr>
-<tr><td>S<sub>0</sub></td><td>=</td><td>untere Sublimite für Schäden, die durch terroristische Gewaltakte verursacht werden. Die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 1 (500 Mio. CHF bzw. 350 Mio. EUR);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image6.png)</td><td>=</td><td>untere Sublimite für Schäden, die entstehen, obwohl die jeweils gel-tenden Grenzwerte für Radioaktivität eingehalten worden sind. Die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 2 (500 Mio. CHF bzw. 350 Mio. EUR);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image7.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und welcher vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 (1 Mrd. CHF bzw. 700 Mio. EUR) gedeckt wird;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image8.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und welcher vollständig von der privaten Deckung ausgeschlossen ist;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image9.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, den ein schweizerisches Kernkraftwerk infolge eines terroristischen Gewaltakts verursacht;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image10.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und welcher entsteht, obwohl die jeweils geltenden Grenzwerte für Radioaktivität eingehalten worden sind;</td></tr>
-<tr><td>q<sup>Teil1</sup></td><td>=</td><td>Wahrscheinlichkeit, dass beim Transport von bestrahlten Kernbrennstoffen oder verglasten Spaltproduktlösungen aus der Wiederaufbereitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg ein nuklearer Schaden eintritt, welcher vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 (1 Mrd. CHF bzw. 700 Mio. EUR) gedeckt wird;</td></tr>
-<tr><td>P<sub>U</sub></td><td>=</td><td>Prämie für die Deckung von nuklearem Schaden gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummern 4–6 des Pariser Übereinkommens , welche der private Deckungsgeber gesamthaft bis zum Betrag von 50 % der Deckungssumme nach Artikel 4 Absätze 1 und 2 und Artikel 5 gewährleistet (Art. 7 Abs. 2 Bst. a–c).</td></tr>
+<tr><td>L<sub>1</sub></td><td>=</td><td>obere Limite der Schäden, die vom Bund gedeckt werden; die Höhe der Limite entspricht dem Gesamtbetrag der Deckung gemäss Artikel 1;</td></tr>
+<tr><td>L<sub>0</sub></td><td>=</td><td>untere Limite 1. Teil; die Höhe der Limite entspricht der privaten Deckung gemäss Artikel 4 Absätze 1 und 2 und Artikel 5;</td></tr>
+<tr><td>S<sub>0</sub></td><td>=</td><td>untere Sublimite für Schäden, die durch terroristische Gewaltakte verursacht werden; die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 1;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image6.png)</td><td>=</td><td>untere Sublimite für Schäden, die entstehen, obwohl die jeweils geltenden Grenzwerte für Radioaktivität eingehalten worden sind; die Höhe dieser Limite entspricht der privaten Deckung gemäss Artikel 7 Absatz 1 Buchstabe b Ziffer 2;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image7.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gedeckt wird;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image8.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der vollständig von der privaten Deckung ausgeschlossen ist;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image9.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, den ein schweizerisches Kernkraftwerk infolge eines terroristischen Gewaltakts verursacht;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image10.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der entsteht, obwohl die jeweils geltenden Grenzwerte für Radioaktivität eingehalten worden sind.</td></tr>
+<tr><td>q<sup>Teil1</sup></td><td>=</td><td>Wahrscheinlichkeit, dass beim Transport von bestrahlten Kernbrennstoffen oder verglasten Spaltproduktlösungen aus der Wiederaufarbeitung von abgebrannten Brennelementen mit einem Gesamtgewicht der Kernmaterialien von mehr als 100 kg ein nuklearer Schaden eintritt, der vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gedeckt wird.</td></tr>
+<tr><td>P<sub>U</sub></td><td>=</td><td>Prämie für die Deckung von nuklearem Schaden gemäss Artikel 1 Absatz (a) Ziffer (vii) Nummern 4–6 des Übereinkommens vom 29. Juli 1960[^annex2-lvlu1-1] über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie, die der private Deckungsgeber gesamthaft bis zum Betrag von mindestens 50 Prozent der Deckungssumme gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gewährleistet (Art. 7 Abs. 2 Bst. a–c).</td></tr>
 </table>
 
-Die genannten Deckungsbeträge verstehen sich zuzüglich 10 Prozent des Betrages für Zinsen und gerichtlich zuerkannte Kosten.
+Die genannten Deckungsbeträge verstehen sich zuzüglich 10 Prozent des Betrages für Zinsen und für gerichtlich zuerkannte Kosten.
 
-Anhang 3*[^t-1]*
+[^annex2-lvlu1-1]: [SR 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+
+Anhang 3[^t-3]
 
 (Art. 8 Abs. 1 und 9 Abs. 1)
 
 ## Berechnung der Deckungsbeiträge für Anlagen zur Nuklearforschung, BZL, Abklinglager und Transporte von Kernmaterialien, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 7. Dez. 2018, in Kraft seit 1. Jan. 2022 ([AS 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
-Die Beiträge für die Deckung von nuklearen Schäden, die durch Anlagen zur Nuklearforschung, durch das BZL, durch Abklinglager und durch Transporte von Kernmaterialien, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind, verursacht werden, berechnen sich wie folgt:
+Die Beiträge für die Deckung von nuklearen Schäden, die durch Anlagen zur Nuklearforschung, durch das BZL, durch Abklinglager und durch Transporte von Kernmaterialien verursacht werden, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind, berechnen sich wie folgt:
 
 <table>
-<tr><td>Beitrag an den Bund =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image11.png)</td></tr>
+<tr><td>Beitrag an den Bund =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image11.png)</td></tr>
 </table>
 
 mit:
@@ -416,10 +445,10 @@ mit:
 <table>
 <tr><td>Z<sub>Bund</sub></td><td>=</td><td>in den Bruttoprämien des Bundes enthaltener Zuschlag auf die reine Risikoprämie;</td></tr>
 <tr><td>L<sub>1</sub></td><td>=</td><td>obere Limite der Schäden, die vom Bund gedeckt werden; die Höhe der Limite entspricht dem herabgesetzten Gesamtbetrag der Deckung gemäss Artikel 2 (70 bzw. 80 Mio. EUR);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image13.png)</td><td>=</td><td>Wahrscheinlichkeiten des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 (1 Mrd. CHF bzw. 700 Mio. EUR) gedeckt wird;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image14.png)</td><td>=</td><td>Wahrscheinlichkeiten des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der vollständig von der privaten Deckung ausgeschlossen ist;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/de/xml/image/image15.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der entsteht, obwohl die jeweils geltenden Grenzwerte für Radioaktivität eingehalten worden sind;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image13.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der vom privaten Deckungsgeber bis zum Betrag gemäss Artikel 4 Absätze 1 und 2 und Artikel 5 gedeckt wird;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image14.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der vollständig von der privaten Deckung ausgeschlossen ist;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/de/xml/image/image15.png)</td><td>=</td><td>Wahrscheinlichkeit des Eintretens eines nuklearen Schadens, der durch ein schweizerisches Kernkraftwerk verursacht wird und der entsteht, obwohl die jeweils geltenden Grenzwerte für Radioaktivität eingehalten worden sind;</td></tr>
 <tr><td>q<sup>Teil1</sup></td><td>=</td><td>Wahrscheinlichkeit, dass bei Anlagen zur Nuklearforschung, beim BZL, bei Abklinglagern und beim Transport von Kernmaterialien, die nicht in Artikel 1 Buchstabe c Ziffern 1 und 2 erwähnt sind, ein nuklearer Schaden eintritt, der vom privaten Deckungsgeber bis zum herabgesetzten Gesamtbetrag der Deckung gemäss Artikel 2 (70 bzw. 80 Mio. EUR) gedeckt wird.</td></tr>
 </table>
 
-Die genannten Deckungsbeträge verstehen sich zuzüglich 10 Prozent des Betrags für Zinsen und gerichtlich zuerkannte Kosten.
+Die genannten Deckungsbeträge verstehen sich zuzüglich 10 Prozent des Betrags für Zinsen und für gerichtlich zuerkannte Kosten.

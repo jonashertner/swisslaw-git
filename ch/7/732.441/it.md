@@ -4,11 +4,11 @@ title: Ordinanza del 25 marzo 2015 sulla responsabilità civile in materia nucle
 short: ORCN
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/860"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2015-03-25
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-860-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-860-20230101-it-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/860/20220101/it"
 
 (ORCN)
 
-del 25 marzo 2015 (Stato 1° gennaio 2022)
+del 25 marzo 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -80,7 +80,7 @@ La somma di copertura prevista nel contratto concluso conformemente all’artico
 
 <sup>1</sup>
 
-L’importo di base ammonta a un miliardo di franchi svizzeri:
+L’importo di base ammonta a 1200 milioni di euro:[^4-1]
 
 - a. per le centrali nucleari;
 - b. per lo ZWILAG;
@@ -91,7 +91,7 @@ L’importo di base ammonta a un miliardo di franchi svizzeri:
   - 1\. combustibili nucleari irradiati, con un peso complessivo delle sostanze nucleari superiore a 100 kg
   - 2\. prodotti di fissione vetrificati risultanti dal ritrattamento di elementi di combustibile esausti, con un peso complessivo delle sostanze nucleari superiore a 100 kg.
 
-<sup>2</sup> Se, convertito in euro, è inferiore a 700 milioni, tale importo di base va aumentato di conseguenza.
+<sup>2</sup> ...[^4-2]
 
 <sup>3</sup> L’importo di base ammonta a 80 milioni di euro per ciascun trasporto di sostanze nucleari che non rientrano nei criteri di cui all’articolo 1 lettera c numeri 1 e 2.
 
@@ -101,9 +101,11 @@ L’importo di base ammonta a 70 milioni di euro:
 
 - a. per gli impianti di ricerca nucleare;
 - b. per il DFS;
-- c.[^4-1] per i depositi di decadimento.
+- c.[^4-3] per i depositi di decadimento.
 
-[^4-1]: Introdotta dal n. I dell’O del 7 dic. 2018, in vigore dal 1° gen. 2022 ([RU 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^4-2]: Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^4-3]: Introdotta dal n. I dell’O del 7 dic. 2018, in vigore dal 1° gen. 2022 ([RU 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
 
 #### Art. 5
 
@@ -147,13 +149,17 @@ Il fornitore della copertura privata può escludere dalla copertura nei confront
 
 <sup>2</sup>
 
-Il fornitore della copertura privata può escludere dalla copertura nei confronti del danneggiato conformemente agli articoli 4 e 5 i danni e le spese menzionati qui di seguito se, complessivamente, superano il 50 per cento delle somme di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5:
+Può escludere dalla copertura nei confronti del danneggiato conformemente agli articoli 4 e 5 i danni e le spese menzionati qui di seguito se, complessivamente, superano il 50 per cento delle somme di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5:[^7-1]
 
-- a. il costo delle misure di reintegro di un ambiente degradato ai sensi dell’articolo 1 paragrafo (a) capoverso (vii) numero 4 della Convenzione di Parigi[^7-1];
+- a. il costo delle misure di reintegro di un ambiente degradato ai sensi dell’articolo 1 paragrafo (a) capoverso (vii) numero 4 della Convenzione di Parigi[^7-2];
 - b. il mancato guadagno collegato con un interesse economico diretto in qualsiasi uso o godimento dell’ambiente ai sensi dell’articolo 1 paragrafo (a) capoverso (vii) numero 5 della Convenzione di Parigi;
 - c. il costo delle misure preventive ai sensi dell’articolo 1 paragrafo (a) capoverso (vii) numero 6 della Convenzione di Parigi nella misura in cui riguardino le lettere a e b.
 
-[^7-1]: Convenzione del 29 luglio 1960 sulla responsabilità civile nel campo dell’energia nucleare, emendata dal Protocollo addizionale del 28 gennaio 1964, dal Protocollo del 16 novembre 1982 e dal Protocollo del 12 febbraio 2004 ([FF 2007 5027](https://fedlex.data.admin.ch/eli/fga/2007/763))
+<sup>3</sup> Può adeguare l’estensione delle sue esclusioni per l’anno civile seguente, a condizione di non scendere sotto la copertura minima.[^7-3]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^7-2]: Conv. del 29 lugl. 1960 sulla responsabilità civile nel campo dell’energia nucleare, emendata dal Prot. addizionale del 28 gen. 1964, dal Prot. del 16 nov. 1982 e dal Prot. del 12 feb. 2004 ([FF 2007 5027](https://fedlex.data.admin.ch/eli/fga/2007/763)).
+[^7-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 ## Sezione 3: Copertura della Confederazione
 
@@ -165,7 +171,9 @@ Il fornitore della copertura privata può escludere dalla copertura nei confront
 
 <sup>1</sup> Il calcolo dei contributi che gli esercenti di impianti nucleari devono versare ogni anno alla Confederazione per la copertura dei danni nucleari causati dall’impianto è disciplinato negli allegati 1 e 3.
 
-<sup>2</sup> I contributi da versare per l’anno successivo sono fissati al più tardi entro il 15 dicembre.
+<sup>2</sup> I contributi da versare per l’anno successivo sono fissati al più tardi entro il 15 dicembre. Se il fornitore della copertura privata adegua la propria copertura ai sensi dell’articolo 7 capoverso 3, tale termine è prorogato al più tardi fino al 15 febbraio dell’anno successivo.[^8-1]
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 9
 
@@ -175,11 +183,14 @@ Il fornitore della copertura privata può escludere dalla copertura nei confront
 
 <sup>1</sup> Il calcolo dei contributi per la copertura dei danni nucleari che sono tenuti a versare alla Confederazione coloro che rispondono del trasporto di sostanze nucleari è disciplinato negli allegati 2 e 3.
 
-<sup>2</sup> L’Ufficio federale dell’energia (UFE) stima e riscuote in anticipo i contributi per ciascun esercizio annuale.
+<sup>2</sup> L’Ufficio federale dell’energia (UFE) stima e riscuote in anticipo i contributi per ciascun esercizio annuale, ma al più tardi entro il 15 dicembre dell’anno precedente.[^9-1]
 
 <sup>3</sup> Nella stima provvisoria dei contributi, l’UFE distingue fra sostanze nucleari ai sensi dell’articolo 1 lettera c e sostanze nucleari ai sensi dell’articolo 2 capoverso 3.
 
-<sup>4</sup> L’UFE calcola i contributi definitivi al termine dell’esercizio annuale. Eventuali differenze rispetto ai contributi stimati e versati ai sensi dei capoversi 2 e 3 sono rimborsate o riscosse successivamente.
+<sup>4</sup> L’UFE calcola i contributi definitivi al termine dell’esercizio annuale e li fissa entro il 28 febbraio. Eventuali differenze rispetto ai contributi stimati e versati ai sensi dei capoversi 2 e 3 sono rimborsate o riscosse successivamente.[^9-2]
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 10
 
@@ -206,6 +217,10 @@ Per i trasporti di sostanze nucleari, i fornitori della copertura privata notifi
   - 2\. il numero di trasporti che si presume saranno effettuati da tale esercente l’anno successivo.
 
 <sup>3</sup> Nella notifica di cui al capoverso 2 sono indicate separatamente le sostanze nucleari ai sensi dell’articolo 1 lettera c e le sostanze nucleari ai sensi dell’articolo 2 capoverso 3.
+
+<sup>4</sup> Se il fornitore della copertura privata adegua la propria copertura per i rischi esclusi ai sensi dell’articolo 7 capoverso 3, il termine di notifica di cui ai capoversi 1 e 2 lettera b sono prorogati al 15 dicembre.[^10-1]
+
+[^10-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 #### Art. 11
 
@@ -314,7 +329,7 @@ L’UFE è il servizio competente secondo l’articolo 31 capoverso 2 LRCN.
 
 <sup>1</sup> L’ordinanza del 5 dicembre 1983[^21-1] sulla responsabilità civile in materia nucleare è abrogata.
 
-<sup>2</sup> ... [^21-2]
+<sup>2</sup> ...[^21-2]
 
 [^21-1]: [[RU 1983 1898](https://fedlex.data.admin.ch/eli/oc/1983/1898_1898_1898); [1985 1981](https://fedlex.data.admin.ch/eli/oc/1985/1981_1981_1981); [1987 1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484)n. III; [1997 2497](https://fedlex.data.admin.ch/eli/oc/1997/2497_2497_2497); [2001 322](https://fedlex.data.admin.ch/eli/oc/2001/70); [2003 2478](https://fedlex.data.admin.ch/eli/oc/2003/367); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 21; [2015 315](https://fedlex.data.admin.ch/eli/oc/2015/35)]
 [^21-2]: La mod. può esere consultata alla [RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860).
@@ -335,88 +350,96 @@ L’UFE è il servizio competente secondo l’articolo 31 capoverso 2 LRCN.
 
 La presente ordinanza entra in vigore il 1° gennaio 2022
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 8 cpv. 1)
 
 ## Centrali nucleari e ZWILAG
 
+[^t-1]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+
 I contributi per la copertura dei danni nucleari cagionati dalle centrali nucleari e dallo ZWILAG sono calcolati come segue:
 
 <table>
-<tr><td>Contributo alla Confederazione =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image1.png)</td></tr>
+<tr><td>Contributo alla Confederazione =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image1.png)</td></tr>
 </table>
 
 dove:
 
 <table>
 <tr><td>S<sub>Conf</sub></td><td>=</td><td>supplemento sui premi puri di rischio contenuto nei premi lordi della Confederazione;</td></tr>
-<tr><td>L<sub>1</sub></td><td>=</td><td>limite massimo dei danni coperti dalla Confederazione. Questo importo corrisponde all’ammontare totale della copertura secondo l’articolo 1 (1200 milioni di euro);</td></tr>
-<tr><td>L<sub>0</sub></td><td>=</td><td>limite minimo Parte 1. Questo importo corrisponde alla copertura privata secondo l’articolo 4 capoversi 1 e 2 e l’articolo 5 (1 miliardo di franchi o 700 milioni di euro);</td></tr>
-<tr><td>L<sub>Inf</sub></td><td>=</td><td>sottolimite inferiore per i danni nucleari cagionati da atti terroristici. Questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 1 (500 milioni di franchi o 350 milioni di euro);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image2.png)</td><td>=</td><td>sottolimite inferiore per i danni che si verificano sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati. Questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 2 (500 milioni di franchi o 350 milioni di euro);</td></tr>
-<tr><td>p<sup>Parte1</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (1 miliardo di franchi o 700 milioni di euro);</td></tr>
-<tr><td>p<sup>Parte2</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare escluso completamente dalla copertura privata;</td></tr>
-<tr><td>p<sup>Parte3</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare che, secondo l’articolo 7 capoverso 1 lettera b numero 1, è coperto dal fornitore della copertura privata fino al 50 per cento della somma di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (500 milioni di franchi o 350 milioni di euro);</td></tr>
-<tr><td>p<sup>Parte4</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare che, secondo l’articolo 7 capoverso 1 lettera b numero 2, è coperto dal fornitore della copertura privata fino al 50 per cento della somma di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (500 milioni di franchi o 350 milioni di euro);</td></tr>
-<tr><td>P<sub>A</sub></td><td>=</td><td>premio per la copertura del danno nucleare secondo l’articolo 1 paragrafo (a) capoverso (vii) numeri 4−6 della Convenzione di Parigi garantita complessivamente dal fornitore della copertura privata fino al 50 per cento della somma di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (art. 7 cpv. 2 lett. a−c).</td></tr>
+<tr><td>L<sub>1</sub></td><td>=</td><td>limite massimo dei danni coperti dalla Confederazione; questo importo corrisponde all’ammontare totale della copertura secondo l’articolo 1 (1200 milioni di euro);</td></tr>
+<tr><td>L<sub>0</sub></td><td>=</td><td>limite minimo Parte 1; questo importo corrisponde alla copertura privata secondo l’articolo 4 capoversi 1 e 2 e l’articolo 5;</td></tr>
+<tr><td>L<sub>Inf</sub></td><td>=</td><td>sottolimite inferiore per i danni nucleari cagionati da atti terroristici; questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 1;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image2.png)</td><td>=</td><td>sottolimite inferiore per i danni che si verificano sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati; questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 2;</td></tr>
+<tr><td>p<sup>Parte1</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5;</td></tr>
+<tr><td>p<sup>Parte2</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare escluso completa-mente dalla copertura privata;</td></tr>
+<tr><td>p<sup>Parte3</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare che, secondo l’articolo 7 capoverso 1 lettera b numero 1, è coperto dal fornitore della copertura privata almeno fino al 50 per cento della somma di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5;</td></tr>
+<tr><td>p<sup>Parte4</sup></td><td>=</td><td>probabilità di accadimento di un danno nucleare che, secondo l’articolo 7 capoverso 1 lettera b numero 2, è coperto dal fornitore della copertura privata almeno fino al 50 per cento della somma di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5;</td></tr>
+<tr><td>P<sub>A</sub></td><td>=</td><td>premio per la copertura del danno nucleare secondo l’articolo 1 paragrafo (a) capoverso (vii) numeri 4−6 della Convenzione del 29 luglio 1960[^annex1-lvlu1-1] sulla responsabilità civile nel campo dell’energia nucleare, garantita complessivamente dal fornitore della copertura privata almeno fino al 50 per cento della somma di copertura di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (art. 7 cpv. 2 lett. a–c).</td></tr>
 </table>
 
-Ai succitati importi di copertura va aggiunto il 10 per cento per gli interessi e le spese riconosciute in giudizio.
+Ai succitati importi di copertura va aggiunto il 10 per cento per gli interessi e per le spese riconosciute in giudizio.
 
-Allegato 2
+[^annex1-lvlu1-1]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
+
+Allegato 2[^t-2]
 
 (art. 9 cpv. 1)
 
 ## Trasporti di combustibili nucleari irradiati e di prodotti di fissione vetrificati risultanti dal ritrattamento di elementi di combustibile esausti, con un peso complessivo delle sostanze nucleari superiore a 100 kg
 
+[^t-2]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
+
 I contributi per la copertura dei danni nucleari cagionati da trasporti di combustibili nucleari irradiati e di prodotti di fissione vetrificati risultanti dal ritrattamento di elementi di combustibile esausti, con un peso complessivo delle sostanze nucleari superiore a 100 kg sono calcolati come segue:
 
 <table>
-<tr><td>Contributo alla Confederazione =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image3.png)</td></tr>
+<tr><td>Contributo alla Confederazione =</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image3.png)</td></tr>
 </table>
 
 dove:
 
 <table>
 <tr><td>S<sub>Conf</sub></td><td>=</td><td>supplemento sui premi puri di rischio contenuto nei premi lordi della Confederazione;</td></tr>
-<tr><td>L<sub>1</sub></td><td>=</td><td>limite massimo dei danni coperti dalla Confederazione. Questo importo corrisponde all’ammontare totale della copertura secondo l’articolo 1 (1200 milioni di euro);</td></tr>
-<tr><td>L<sub>0</sub></td><td>=</td><td>limite minimo Parte 1. Questo importo corrisponde alla copertura privata secondo l’articolo 4 capoversi 1 e 2 e l’articolo 5 (1 miliardo di franchi o 700 milioni di euro);</td></tr>
-<tr><td>L<sub>Inf</sub></td><td>=</td><td>sottolimite inferiore per i danni nucleari cagionati da atti terroristici. Questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 1 (500 milioni di franchi o 350 milioni di euro);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image6.png)</td><td>=</td><td>sottolimite inferiore per i danni che si verificano sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati. Questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 1 (500 milioni di franchi o 350 milioni di euro);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image7.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (1 miliardo di franchi o 700 milioni di euro);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image8.png)</td><td></td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera ed escluso completamente dalla copertura privata;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image9.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera in seguito ad atti terroristici;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image10.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e che si verifica sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati;</td></tr>
-<tr><td>q<sup>Parte1</sup></td><td>=</td><td>probabilità di accadimento, nell’ambito del trasporto di combustibili nucleari irradiati e di prodotti di fissione vetrificati risultanti dal ritrattamento di elementi di combustibile esausti, con un peso complessivo delle sostanze nucleari superiore a 100 kg, di un danno nucleare coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (1 miliardo di franchi o 700 milioni di euro);</td></tr>
-<tr><td>P<sub>C</sub></td><td>=</td><td>premio per la copertura di danni nucleari ai sensi dell’articolo 1 paragrafo (a) capoverso (vii) numeri 4–6 della Convenzione di Parigi, garantita dai fornitori della copertura privata fino a concorrenza del 50% dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (art. 7 cpv. 2 lett. a–c).</td></tr>
+<tr><td>L<sub>1</sub></td><td>=</td><td>limite massimo dei danni coperti dalla Confederazione; questo importo corrisponde all’ammontare totale della copertura secondo l’articolo 1;</td></tr>
+<tr><td>L<sub>0</sub></td><td>=</td><td>limite minimo Parte 1; questo importo corrisponde alla copertura privata secondo l’articolo 4 capoversi 1 e 2 e l’articolo 5;</td></tr>
+<tr><td>L<sub>Inf</sub></td><td>=</td><td>sottolimite inferiore per i danni nucleari cagionati da atti terroristici; questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 1;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image2.png)</td><td>=</td><td>sottolimite inferiore per i danni che si verificano sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati; questo importo corrisponde alla copertura privata secondo l’articolo 7 capoverso 1 lettera b numero 2;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image6.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image7.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera ed escluso completamente dalla copertura privata;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image8.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera in seguito ad atti terroristici;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image9.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e che si verifica sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati;</td></tr>
+<tr><td>q<sup>Parte1</sup></td><td>=</td><td>probabilità di accadimento, nell’ambito del trasporto di combustibili nucleari irradiati e di prodotti di fissione vetrificati risultanti dal ritrattamento di elementi di combustibile esausti, con un peso complessivo delle sostanze nucleari superiore a 100 kg, di un danno nucleare coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5;</td></tr>
+<tr><td>P<sub>C</sub></td><td>=</td><td>premio per la copertura di danni nucleari ai sensi dell’articolo 1 paragrafo (a) capoverso (vii) numeri 4–6 della Convenzione del 29 luglio 1960[^annex2-lvlu1-1] sulla responsabilità civile nel campo dell’energia nucleare, garantita dai fornitori della copertura privata almeno fino a concorrenza del 50 per cento dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (art. 7 cpv. 2 lett. a–c).</td></tr>
 </table>
 
-Ai succitati importi di copertura va aggiunto il 10 per cento per gli interessi e le spese riconosciute in giudizio.
+Ai succitati importi di copertura va aggiunto il 10 per cento per gli interessi e per le spese riconosciute in giudizio.
 
-Allegato 3*[^t-1]*
+[^annex2-lvlu1-1]: [RS 0.732.44](https://fedlex.data.admin.ch/eli/cc/2022/44)
 
-(art. 8 cpv. 1, 9 cpv. 1)
+Allegato 3[^t-3]
+
+(art. 8 cpv. 1 e 9 cpv. 1)
 
 ## Calcolo dei contributi di copertura per impianti di ricerca nucleare, DFS, depositi di decadimento e trasporti di sostanze nucleari non menzionati nell’articolo 1 lettera c numeri 1 e 2
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 7 dic. 2018, in vigore dal 1° gen. 2022 ([RU 2021 861](https://fedlex.data.admin.ch/eli/oc/2021/861)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 812](https://fedlex.data.admin.ch/eli/oc/2022/812)).
 
 I contributi per la copertura dei danni nucleari cagionati dagli impianti di ricerca nucleare, dal DFS, dai depositi di decadimento e dai trasporti di sostanze nucleari non menzionati nell’articolo 1 lettera c numeri 1 e 2 sono calcolati come segue:
 
 <table>
-<tr><td>Contributo alla Confederazione =</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image11.png)</td></tr>
+<tr><td>Contributo alla Confederazione =</td><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image10.png)</td></tr>
 </table>
 
 dove:
 
 <table>
 <tr><td>S<sub>Conf</sub></td><td>=</td><td>supplemento sui premi puri di rischio contenuto nei premi lordi della Confederazione;</td></tr>
-<tr><td>L<sub>1</sub></td><td>=</td><td>limite massimo dei danni coperti dalla Confederazione. Questo importo corrisponde all’ammontare totale ridotto della copertura secondo l’articolo 2 (70 o 80 milioni di euro);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image13.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5 (1 miliardo di franchi o 700 milioni di euro);</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image14.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera escluso completamente dalla copertura privata;</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20220101/it/xml/image/image15.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e che si verifica sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati;</td></tr>
+<tr><td>L<sub>1</sub></td><td>=</td><td>limite massimo dei danni coperti dalla Confederazione; questo importo corrisponde all’ammontare totale ridotto della copertura secondo l’articolo 2 (70 o 80 milioni di euro);</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image6.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e coperto dal fornitore della copertura privata fino a concorrenza dell’importo di cui all’articolo 4 capoversi 1 e 2 e all’articolo 5;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image7.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera ed escluso completamente dalla copertura privata;</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/860/20230101/it/xml/image/image12.png)</td><td>=</td><td>probabilità di accadimento di un danno nucleare cagionato da una centrale nucleare svizzera e che si verifica sebbene i valori limite di radioattività di volta in volta vigenti siano stati rispettati;</td></tr>
 <tr><td>q<sup>Parte1</sup></td><td>=</td><td>probabilità di accadimento, in un impianto di ricerca nucleare, nel DFS, nei depositi di decadimento e nell’ambito di trasporti di sostanze nucleari non menzionati nell’articolo 1 lettera c numeri 1 e 2, di un danno nucleare coperto dal fornitore della copertura privata fino a concorrenza dell’ammontare totale ridotto di cui all’articolo 2 (70 o 80 milioni di euro).</td></tr>
 </table>
 
-Ai succitati importi di copertura va aggiunto il 10 per cento per gli interessi e le spese riconosciute in giudizio.
+Ai succitati importi di copertura va aggiunto il 10 per cento per gli interessi e per le spese riconosciute in giudizio.
