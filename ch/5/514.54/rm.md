@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da zercladur 1997 davart las armas, ils accessor
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: rm
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 20 da zercladur 1997 (versiun dal 1. da schaner 2022)
+dals 20 da zercladur 1997 (versiun dals 1 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -231,13 +231,13 @@ Il Cussegl federal po scumandar a burgais da tscherts stadis d’acquistar, da p
 
 [^7b-1]: Integrà tras la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## 2. chapitel Acquist e possess d’armas e da parts essenzialas d’armas****
+## 2. chapitel Acquist e possess d’armas e da parts essenzialas d’armas
 
 [^chap2-1]
 
 [^chap2-1]: Versiun tenor l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### 1. secziun Acquist d’armas e da parts essenzialas d’armas****
+### 1. secziun Acquist d’armas e da parts essenzialas d’armas
 
 [^chap2-sec1-1]
 
@@ -392,7 +392,7 @@ Il contract sto cuntegnair las suandantas indicaziuns:
 
 [^11a-1]: Integrà tras la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### 2. secziun Possess d’armas e da parts essenzialas d’armas****
+### 2. secziun Possess d’armas e da parts essenzialas d’armas
 
 [^chap2-sec2-1]
 
@@ -412,7 +412,7 @@ Il dretg da posseder in’arma, ina part essenziala d’ina arma u ina part d’
 
 [^1314-1]: Abolì tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, cun effect dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## 3. chapitel Acquist e possess da muniziun e d’elements da muniziun****
+## 3. chapitel Acquist e possess da muniziun e d’elements da muniziun
 
 [^chap3-1]
 
@@ -449,7 +449,7 @@ Il dretg da posseder muniziun u elements da muniziun ha quella persuna che ha ac
 
 [^16a-1]: Integrà tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## 3*a*. chapitel**** Acquist e possess d’indrizs per chargiar da gronda capacitad
+## 3*a*. chapitel Acquist e possess d’indrizs per chargiar da gronda capacitad
 
 [^chap3a-1]
 
@@ -600,7 +600,7 @@ Ils documents ston vegnir surdads a l’autoritad chantunala cumpetenta per la g
 
 Ils titulars da permissiuns per il commerzi cun armas e lur persunal èn obligads da dar a las autoritads da controlla tut las infurmaziuns ch’èn necessarias per ina controlla adequata.
 
-## 5. chapitel Fatschentas cun l’exteriur****
+## 5. chapitel Fatschentas cun l’exteriur
 
 [^chap5-1]
 
@@ -757,7 +757,7 @@ Il Cussegl federal po prevair excepziuns da l’obligaziun da permissiun per:
 [^25b-1]: Integrà tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^25b-2]: Versiun tenor la cifra I da la LF dals 11 da dec. 2009 (adattaziun da la realisaziun da l’acquist da Schengen), en vigur dapi ils 28 da fan. 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
-## 6. chapitel Metter en salv, purtar e transportar armas e muniziun, purtar abusivamain objects privlus****
+## 6. chapitel Metter en salv, purtar e transportar armas e muniziun, purtar abusivamain objects privlus
 
 [^chap6-1]
 
@@ -850,13 +850,13 @@ Igl è scumandà da purtar objects privlus en lieus accessibels a la publicitad 
 
 [^28a-1]: Integrà tras la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## 7. chapitel Permissiuns excepziunalas, controlla, sancziuns administrativas e taxas****
+## 7. chapitel Permissiuns excepziunalas, controlla, sancziuns administrativas e taxas
 
 [^chap7-1]
 
 [^chap7-1]: Versiun tenor la cifra I da la LF dals 22 da zer. 2007, en vigur dapi ils 12 da dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lit. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### 1. secziun Permissiuns excepziunalas****
+### 1. secziun Permissiuns excepziunalas
 
 [^chap7-sec1-1]
 
@@ -943,7 +943,7 @@ Ils collecziunaders ed ils museums ston:
 
 [^28e-1]: Integrà tras l’agiunta dal COF dals 28 da sett. 2018 davart l’approvaziun e la realisaziun dal barat da notas tranter la Svizra e la UE concernent la surpigliada da la directiva (UE) 2017/853 per midar la directiva da la UE davart las armas, en vigur dapi ils 15 d’avust 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
-### 2. secziun Controlla, sancziuns administrativas e taxas****
+### 2. secziun Controlla, sancziuns administrativas e taxas
 
 [^chap7-sec2-1]
 
@@ -1111,13 +1111,13 @@ Il Cussegl federal fixescha las taxa per:
 [^32-2]: Versiun tenor la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^32-3]: Integrà tras la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
-## 7*a*. chapitel**** Elavuraziun da datas e protecziun da datas
+## 7*a*. chapitel Elavuraziun da datas e protecziun da datas
 
 [^chap7a-1]
 
 [^chap7a-1]: Integrà tras l’art. 3 cifra 6 dal COF dals 17 da dec. 2004 davart l’approvaziun e la realisaziun da las cunvegnas bilateralas tranter la Svizra e la UE per l’associaziun a la reglamentaziun da Schengen e da Dublin, en vigur dapi ils 12 da dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lit. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### 1. secziun**** Elavuraziun da datas
+### 1. secziun Elavuraziun da datas
 
 [^chap7a-sec1-1]
 
@@ -1243,7 +1243,7 @@ Tut las datas da la DEWA, da la DEBBWA e da la DARUE pon vegnir communitgadas a 
 
 <sup>2</sup> Tut las datas da la DEWA, da la DEBBWA, da la DAWA e da la DARUE pon vegnir rendidas accessiblas a las autoritads da persecuziun penala da la Confederaziun e dals chantuns, a las autoritads da polizia dals chantuns sco er a las autoritads da duana cun agid d’ina procedura d’invista.
 
-<sup>3</sup> Tut las datas da la DEBBWA pon vegnir rendidas accessiblas als posts cumpetents da l’administraziun militara cun agid d’ina procedura d’invista.
+<sup>3</sup> Tut las datas da la DEBBWA e da la DAWA pon vegnir rendidas accessiblas cun agid d’ina procedura d’invista als posts cumpetents da l’administraziun militara ed als posts cumpetents per l’execuziun da la Lescha federala dals 25 da settember 2020[^32c-2] davart ils precursurs da substanzas explosivas.[^32c-3]
 
 <sup>4</sup> Il post central communitgescha immediatamain als posts cumpetents da l’administraziun militara ils appartegnents da l’armada e las persunas obligadas da far la mustra ch’èn vegnids inscrits da nov en la DEBBWA, sch’ina permissiun è vegnida revocada u refusada u sch’ina arma è vegnida sequestrada dad els. La communicaziun al Sistem d’infurmaziun per la gestiun integrada da las resursas (PSN) vegn fatga en ina procedura automatisada.
 
@@ -1256,8 +1256,10 @@ Tut las datas da la DEWA, da la DEBBWA e da la DARUE pon vegnir communitgadas a 
 <sup>8</sup> Il Cussegl federal regla en tge dimensiun che las datas duain vegnir communitgadas a las autoritads da la Confederaziun e dals chantuns sco er lur controlla, lur conservaziun, lur rectificaziun e lur stizzada.
 
 [^32c-1]: Versiun tenor la cifra I 5 da la LF dals 25 da sett. 2015 davart meglieraziuns dal barat d’infurmaziuns tranter autoritads en quai che concerna armas, en vigur dapi il 1. da fan. 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32c-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^32c-3]: Versiun tenor la cifra 4 da l’agiunta da la LF dals 25 da sett. 2020 davart ils precursurs da substanzas explosivas, en vigur dapi il 1. da schan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
-### 2. secziun Elavuraziun da datas e protecziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Schengen****
+### 2. secziun Elavuraziun da datas e protecziun da datas en il rom da las cunvegnas d’associaziun a la reglamentaziun da Schengen
 
 [^chap7a-sec2-1]
 
@@ -1309,7 +1311,7 @@ Il dretg da dar infurmaziuns sa drizza tenor las disposiziuns davart la proteczi
 
 [^32h32i-1]: Abolì tras la cifra 6 da la LF dals 19 da mars 2010 davart la realisaziun dal Conclus da basa 2008/977/JI davart la protecziun da datas da persunas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### 3. secziun**** Obligaziuns d’annunzia
+### 3. secziun Obligaziuns d’annunzia
 
 [^chap7a-sec3-1]
 
@@ -1542,7 +1544,7 @@ Data da l’entrada en vigur: 1. da schaner 1999[^43-1]
 
 [^43-1]: COCF dals 21 da sett. 1998.
 
-Agiunta*[^t-1]*
+Agiunta[^t-1]
 
 (art. 4 al. 2<sup>bis</sup>)
 

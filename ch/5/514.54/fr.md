@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 1997 sur les armes, les accessoires d'armes et
 short: LArm
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/fr"
 
 (Loi sur les armes, LArm)
 
-du 20 juin 1997 (Etat le 1<sup>er</sup> janvier 2022)
+du 20 juin 1997 (Etat le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -232,13 +232,13 @@ Le Conseil fédéral peut interdire l’acquisition, la possession, l’offre, l
 
 [^7b-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d) ; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280).
 
-## Chapitre 2 Acquisition et possession d’armes et d’éléments essentiels d’armes****
+## Chapitre 2 Acquisition et possession d’armes et d’éléments essentiels d’armes
 
 [^chap2-1]
 
 [^chap2-1]: Nouvelle teneur selon l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### Section 1 Acquisition d’armes et d’éléments essentiels d’armes****
+### Section 1 Acquisition d’armes et d’éléments essentiels d’armes
 
 [^chap2-sec1-1]
 
@@ -394,7 +394,7 @@ Le contrat doit contenir les indications suivantes:
 
 [^11a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### Section 2 Possession d’armes et d’éléments essentiels d’armes****
+### Section 2 Possession d’armes et d’éléments essentiels d’armes
 
 [^chap2-sec2-1]
 
@@ -414,7 +414,7 @@ Toute personne ayant acquis légalement une arme, un élément essentiel d’arm
 
 [^1314-1]: Abrogés par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, avec effet au 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## Chapitre 3 Acquisition et possession de munitions et d’éléments de munitions****
+## Chapitre 3 Acquisition et possession de munitions et d’éléments de munitions
 
 [^chap3-1]
 
@@ -451,7 +451,7 @@ Toute personne qui a acquis en toute légalité des munitions ou des éléments 
 
 [^16a-1]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## Chapitre 3*a***** Acquisition et possession de chargeurs de grande capacité
+## Chapitre 3*a* Acquisition et possession de chargeurs de grande capacité
 
 [^chap3a-1]
 
@@ -602,7 +602,7 @@ Les documents sont remis à l’autorité cantonale compétente pour la gestion 
 
 Le titulaire d’une patente de commerce d’armes et son personnel sont tenus de fournir aux autorités de surveillance tous les renseignements nécessaires à un contrôle approprié.
 
-## Chapitre 5 Opérations avec l’étranger****
+## Chapitre 5 Opérations avec l’étranger
 
 [^chap5-1]
 
@@ -760,7 +760,7 @@ Le Conseil fédéral peut prévoir des dérogations au régime de l’autorisati
 [^25b-1]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^25b-2]: Nouvelle teneur selon le ch. I de la LF du 11 déc. 2009 (Adaptation de la mise en œuvre de l’acquis de Schengen), en vigueur depuis le 28 juil. 2010 ([RO 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [FF 2009 3181](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
-## Chapitre 6 Conservation, port et transport d’armes et de munitions, port abusif d’objets dangereux****
+## Chapitre 6 Conservation, port et transport d’armes et de munitions, port abusif d’objets dangereux
 
 [^chap6-1]
 
@@ -853,13 +853,13 @@ Le port d’objets dangereux dans les lieux accessibles au public et la détenti
 
 [^28a-1]: Introduit par le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## Chapitre 7 Autorisations exceptionnelles, contrôle, sanctions administratives et émoluments****
+## Chapitre 7 Autorisations exceptionnelles, contrôle, sanctions administratives et émoluments
 
 [^chap7-1]
 
 [^chap7-1]: Nouvelle teneur selon le ch. I de la LF du 22 juin 2007, en vigueur depuis le 12 déc. 2008 ([RO 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. d; [FF 2006 2643](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### Section 1 Autorisations exceptionnelles****
+### Section 1 Autorisations exceptionnelles
 
 [^chap7-sec1-1]
 
@@ -946,7 +946,7 @@ Les collectionneurs et les musées doivent:
 
 [^28e-1]: Introduit par l’annexe de l’AF du 28 sept. 2018 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise de la directive (UE) 2017/853 modifiant la directive de l’UE sur les armes, en vigueur depuis le 15 août 2019 ([RO 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [FF 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
-### Section 2 Contrôle, sanctions administratives et émoluments****
+### Section 2 Contrôle, sanctions administratives et émoluments
 
 [^chap7-sec2-1]
 
@@ -1113,13 +1113,13 @@ Le Conseil fédéral fixe les émoluments perçus:
 [^32-2]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^32-3]: Introduite par le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
-## Chapitre 7*a***** Traitement et protection des données
+## Chapitre 7*a* Traitement et protection des données
 
 [^chap7a-1]
 
 [^chap7a-1]: Introduit par l’art. 3 ch. 6 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 12 déc. 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 let. e; [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### Section 1**** Traitement des données
+### Section 1 Traitement des données
 
 [^chap7a-sec1-1]
 
@@ -1244,7 +1244,7 @@ Toutes les données des banques de données DEWA, DEBBWA et DARUE peuvent être 
 
 <sup>2</sup> Toutes les données des banques de données DEWA, DEBBWA, DAWA et DARUE peuvent être mises à la disposition des autorités de poursuite pénale fédérales et cantonales, des autorités policières cantonales et des autorités douanières par un système d’accès en ligne.
 
-<sup>3</sup> Toutes les données des banques de données DEBBWA peuvent être mises à la disposition des services compétents de l’administration militaire par un système d’accès en ligne.
+<sup>3</sup> Toutes les données des banques de données DEBBWA et DAWA peuvent être mises à la disposition des services compétents de l’administration militaire et des services chargés de l’exécution de la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^32c-2] par un système d’accès en ligne.[^32c-3]
 
 <sup>4</sup> L’office central communique immédiatement aux services compétents de l’administration militaire l’enregistrement dans la banque de données DEBBWA des conscrits et des militaires qui se sont vu refuser ou retirer une autorisation, ou dont une arme a été mise sous séquestre. La communication au Système d’information pour la gestion intégrée des ressources (PSN) s’effectue par une procédure automatisée.
 
@@ -1257,8 +1257,10 @@ Toutes les données des banques de données DEWA, DEBBWA et DARUE peuvent être 
 <sup>8</sup> Le Conseil fédéral définit les données communiquées aux autorités fédérales et cantonales et règle leur contrôle, leur conservation, leur rectification et leur effacement.
 
 [^32c-1]: Nouvelle teneur selon le ch. I 5 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32c-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^32c-3]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2020 153](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
-### Section 2 Traitement et protection des données dans le cadre des accords d’association à Schengen****
+### Section 2 Traitement et protection des données dans le cadre des accords d’association à Schengen
 
 [^chap7a-sec2-1]
 
@@ -1310,7 +1312,7 @@ Le droit d’accès est régi par les dispositions fédérales ou cantonales de 
 
 [^32h32i-1]: Abrogés par le ch. 6 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, avec effet au 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### Section 3**** Obligation de communiquer
+### Section 3 Obligation de communiquer
 
 [^chap7a-sec3-1]
 
@@ -1543,7 +1545,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 1999[^43-1]
 
 [^43-1]: ACF du 21 sept. 1998
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 4, al. 2<sup>bis</sup>)
 

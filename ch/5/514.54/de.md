@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 20. Juni 1997 über Waffen, Waffenzubehör und Munition
 short: WG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über Waffen, Waffenzubehör und Munition (Waffengesetz, WG)
 
-vom 20. Juni 1997 (Stand am 1. Januar 2022)
+vom 20. Juni 1997 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -229,13 +229,13 @@ Der Bundesrat kann den Erwerb, den Besitz, das Anbieten, das Vermitteln und die 
 
 [^7b-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## 2. Kapitel: Erwerb und Besitz von Waffen und wesentlichen Waffenbestandteilen****
+## 2. Kapitel: Erwerb und Besitz von Waffen und wesentlichen Waffenbestandteilen
 
 [^chap2-1]
 
 [^chap2-1]: Fassung gemäss Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### 1. Abschnitt: Erwerb von Waffen und wesentlichen Waffenbestandteilen****
+### 1. Abschnitt: Erwerb von Waffen und wesentlichen Waffenbestandteilen
 
 [^chap2-sec1-1]
 
@@ -260,7 +260,7 @@ Keinen Waffenerwerbsschein erhalten Personen, die:
 
 <sup>2bis</sup> Personen, die Feuerwaffen oder wesentliche Waffenbestandteile durch Erbgang erwerben, müssen innerhalb von sechs Monaten einen Waffenerwerbsschein beantragen, sofern die Gegenstände nicht innerhalb dieser Frist einer berechtigten Person übertragen werden.[^8-5]
 
-<sup>3–5</sup> ...[^8-6]
+<sup>3–5</sup> …[^8-6]
 
 [^8-1]: Fassung gemäss Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-2]: Fassung gemäss Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
@@ -390,7 +390,7 @@ Der Vertrag muss folgende Angaben enthalten:
 
 [^11a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### 2. Abschnitt: Besitz von Waffen und wesentlichen Waffenbestandteilen****
+### 2. Abschnitt: Besitz von Waffen und wesentlichen Waffenbestandteilen
 
 [^chap2-sec2-1]
 
@@ -410,7 +410,7 @@ Zum Besitz einer Waffe, eines wesentlichen oder eines besonders konstruierten Wa
 
 [^1314-1]: Aufgehoben durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, mit Wirkung seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## 3. Kapitel: Erwerb und Besitz von Munition und Munitionsbestandteilen****
+## 3. Kapitel: Erwerb und Besitz von Munition und Munitionsbestandteilen
 
 [^chap3-1]
 
@@ -447,7 +447,7 @@ Zum Besitz von Munition oder Munitionsbestandteilen ist berechtigt, wer die Gege
 
 [^16a-1]: Eingefügt durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## 3*a**.* Kapitel:**** Erwerb und Besitz von Ladevorrichtungen mit hoher Kapazität
+## 3*a**.* Kapitel: Erwerb und Besitz von Ladevorrichtungen mit hoher Kapazität
 
 [^chap3a-1]
 
@@ -517,7 +517,7 @@ Eine Waffenhandelsbewilligung benötigt, wer gewerbsmässig:
 
 **Markierung von Feuerwaffen**[^18a-1]
 
-<sup>1</sup> Die Hersteller und Herstellerinnen von Feuerwaffen sowie von deren wesentlichen Bestandteilen oder von deren Zubehör müssen diese Gegenstände zum Zweck der Identifizierung und der Rückverfolgbarkeit einzeln und unterschiedlich markieren. ... .[^18a-2] [^18a-3]
+<sup>1</sup> Die Hersteller und Herstellerinnen von Feuerwaffen sowie von deren wesentlichen Bestandteilen oder von deren Zubehör müssen diese Gegenstände zum Zweck der Identifizierung und der Rückverfolgbarkeit einzeln und unterschiedlich markieren. … .[^18a-2] [^18a-3]
 
 <sup>2</sup> Feuerwaffen und deren wesentliche Bestandteile und deren Zubehör, die in das schweizerische Staatsgebiet verbracht werden, müssen einzeln und unterschiedlich markiert sein.
 
@@ -598,7 +598,7 @@ Die Unterlagen sind der für die Führung des Informationssystems (Art. 32*a* Ab
 
 Die Inhaber oder Inhaberinnen von Waffenhandelsbewilligungen und deren Personal sind verpflichtet, den Kontrollbehörden alle Auskünfte zu erteilen, die für eine sachgemässe Kontrolle erforderlich sind.
 
-## 5. Kapitel: Auslandsgeschäfte****
+## 5. Kapitel: Auslandsgeschäfte
 
 [^chap5-1]
 
@@ -755,7 +755,7 @@ Der Bundesrat kann Ausnahmen von der Bewilligungspflicht vorsehen für:
 [^25b-1]: Eingefügt durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^25b-2]: Fassung gemäss Ziff. I des BG vom 11. Dez. 2009 (Anpassung der Umsetzung des Schengen-Besitzstands), in Kraft seit 28. Juli 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
-## 6. Kapitel: Aufbewahren, Tragen und Transportieren von Waffen und Munition, missbräuchliches Tragen gefährlicher Gegenstände****
+## 6. Kapitel: Aufbewahren, Tragen und Transportieren von Waffen und Munition, missbräuchliches Tragen gefährlicher Gegenstände
 
 [^chap6-1]
 
@@ -848,13 +848,13 @@ Das Tragen gefährlicher Gegenstände an öffentlich zugänglichen Orten und das
 
 [^28a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## 7. Kapitel: Ausnahmebewilligungen, Kontrolle, administrative Sanktionen und Gebühren****
+## 7. Kapitel: Ausnahmebewilligungen, Kontrolle, administrative Sanktionen und Gebühren
 
 [^chap7-1]
 
 [^chap7-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### 1. Abschnitt: Ausnahmebewilligungen****
+### 1. Abschnitt: Ausnahmebewilligungen
 
 [^chap7-sec1-1]
 
@@ -941,7 +941,7 @@ Sammler und Sammlerinnen sowie Museen müssen:
 
 [^28e-1]: Eingefügt durch Anhang des BB vom 28. Sept. 2018 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Richtlinie (EU) 2017/853 zur Änderung der EU-Waffenrichtlinie, in Kraft seit 15. Aug. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
-### 2. Abschnitt: Kontrolle, administrative Sanktionen und Gebühren****
+### 2. Abschnitt: Kontrolle, administrative Sanktionen und Gebühren
 
 [^chap7-sec2-1]
 
@@ -975,7 +975,7 @@ Die zuständige Behörde entzieht eine Bewilligung, wenn:
 - a. die Voraussetzungen für deren Erteilung nicht mehr erfüllt sind;
 - b. die mit der Bewilligung verknüpften Auflagen nicht mehr eingehalten werden.
 
-<sup>2</sup> ...[^30-1]
+<sup>2</sup> …[^30-1]
 
 [^30-1]: Aufgehoben durch Ziff. I des BG vom 22. Juni 2007, mit Wirkung seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
@@ -1109,13 +1109,13 @@ Der Bundesrat legt die Gebühren fest für:
 [^32-2]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^32-3]: Eingefügt durch Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
-## 7*a*. Kapitel:**** Datenbearbeitung und Datenschutz
+## 7*a*. Kapitel: Datenbearbeitung und Datenschutz
 
 [^chap7a-1]
 
 [^chap7a-1]: Eingefügt durch Art. 3 Ziff. 6 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### 1. Abschnitt:**** Datenbearbeitung
+### 1. Abschnitt: Datenbearbeitung
 
 [^chap7a-sec1-1]
 
@@ -1241,7 +1241,7 @@ Sämtliche Daten der DEWA, der DEBBWA und der DARUE können folgenden Behörden 
 
 <sup>2</sup> Sämtliche Daten der DEWA, der DEBBWA, der DAWA und der DARUE können den Strafverfolgungsbehörden des Bundes und der Kantone, den Polizeibehörden der Kantone sowie den Zollbehörden mittels eines Abrufverfahrens zugänglich gemacht werden.
 
-<sup>3</sup> Sämtliche Daten der DEBBWA können den zuständigen Stellen der Militärverwaltung mittels eines Abrufverfahrens zugänglich gemacht werden.
+<sup>3</sup> Sämtliche Daten der DEBBWA und der DAWA können den zuständigen Stellen der Militärverwaltung und den für den Vollzug des Vorläuferstoffgesetzes vom 25. September 2020[^32c-2] zuständigen Stellen mittels eines Abrufverfahrens zugänglich gemacht werden.[^32c-3]
 
 <sup>4</sup> Die Zentralstelle meldet den zuständigen Stellen der Militärverwaltung unverzüglich neu in der DEBBWA eingetragene Angehörige der Armee und Stellungspflichtige, denen eine Bewilligung entzogen oder verweigert oder bei denen eine Waffe beschlagnahmt wurde. Die Meldung an das Informationssystem integrierte Ressourcenbewirtschaftung (PSN) erfolgt im automatisierten Verfahren.
 
@@ -1254,8 +1254,10 @@ Sämtliche Daten der DEWA, der DEBBWA und der DARUE können folgenden Behörden 
 <sup>8</sup> Der Bundesrat regelt den Umfang der Bekanntgabe von Daten an die Behörden des Bundes und der Kantone sowie die Kontrolle, Aufbewahrung, Berichtigung und Löschung der Daten.
 
 [^32c-1]: Fassung gemäss Ziff. I 5 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32c-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^32c-3]: Fassung gemäss Anhang Ziff. 4 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
-### 2. Abschnitt: Datenbearbeitung und Datenschutz im Rahmen der Schengen-Assoziierungsabkommen****
+### 2. Abschnitt: Datenbearbeitung und Datenschutz im Rahmen der Schengen-Assoziierungsabkommen
 
 [^chap7a-sec2-1]
 
@@ -1307,7 +1309,7 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 [^32h32i-1]: Aufgehoben durch Ziff. 6 des BG vom 19. März 2010 über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, mit Wirkung seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### 3. Abschnitt:**** Meldepflichten
+### 3. Abschnitt: Meldepflichten
 
 [^chap7a-sec3-1]
 
@@ -1317,7 +1319,7 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 **Meldungen im Bereich der Militärverwaltung**
 
-<sup>1</sup> ...[^32j-1]
+<sup>1</sup> …[^32j-1]
 
 <sup>2</sup>
 
@@ -1372,7 +1374,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer vorsätzlich und gewerbsmässig ohne Berechtigung:
 
 - a.[^33-6] Waffen, wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör, Munition oder Munitionsbestandteile anbietet, überträgt, vermittelt, herstellt, repariert, abändert, umbaut, in einen Schengen-Staat ausführt oder in das schweizerische Staatsgebiet verbringt;
-- b.[^33-7] ...
+- b.[^33-7] …
 - c.[^33-8] nicht gemäss Artikel 18*a* oder 18*b* markierte oder unrechtmässig ins schweizerische Staatsgebiet verbrachte Feuerwaffen, deren wesentliche oder besonders konstruierte Waffenbestandteile, Waffenzubehör oder Munition anbietet, erwirbt, überträgt oder vermittelt.
 
 [^33-1]: Fassung gemäss Ziff. I des BG vom 22. Juni 2007, in Kraft seit 12. Dez. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
@@ -1540,7 +1542,7 @@ Datum des Inkrafttreten: 1. Januar 1999[^43-1]
 
 [^43-1]: BRB vom 21. Sept. 1998
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 4 Abs. 2<sup>bis</sup>)
 

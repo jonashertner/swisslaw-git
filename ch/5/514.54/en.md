@@ -4,11 +4,11 @@ title: "Federal Act of 20 June 1997 on Weapons, Weapon Accessories and Ammunitio
 short: WA
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-06-20
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20220101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1998-2535_2535_2535-20230101-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/2535_2535_2535/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 20 June 1997 (Status as of 1 January 2022)
+of 20 June 1997 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -231,13 +231,13 @@ The Federal Council may prohibit the acquisition, possession, offering for acqui
 
 [^7b-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## Chapter 2 Acquisition and Possession of Weapons and Essential Weapon Components****
+## Chapter 2 Acquisition and Possession of Weapons and Essential Weapon Components
 
 [^chap2-1]
 
 [^chap2-1]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### Section 1 Acquisition of Weapons and Essential Weapon Components ****
+### Section 1 Acquisition of Weapons and Essential Weapon Components
 
 [^chap2-sec1-1]
 
@@ -268,7 +268,7 @@ A weapon acquisition permit will not be issued to any person:
 [^8-2]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-3]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-4]: Amended by Annex No 17 of the FA of 19 Dec. 2008 (Adult protection, law of persons and law of children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^8-5]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 (AS **2****00****8** 447 5405 Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^8-5]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^8-6]: Repealed by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, with effect from 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 9
@@ -392,11 +392,11 @@ The contract must contain the following details:
 
 [^11a-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### Section 2 Possession of Weapons and Essential Weapon Components****
+### Section 2 Possession of Weapons and Essential Weapon Components
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 (AS **2****008** 447 5405 Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^chap2-sec2-1]: Amended by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
 #### Art. 12
 
@@ -412,7 +412,7 @@ Any person who has lawfully acquired a weapon or an essential or specially desig
 
 [^1314-1]: Repealed by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, with effect from 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## Chapter 3 Acquisition and Possession of Ammunition and Ammunition Components****
+## Chapter 3 Acquisition and Possession of Ammunition and Ammunition Components
 
 [^chap3-1]
 
@@ -447,9 +447,9 @@ Any person who has lawfully acquired a weapon or an essential or specially desig
 
 Any person who has lawfully acquired ammunition or ammunition components is authorised to possess the same.
 
-[^16a-1]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; BBl **20****04**5965).
+[^16a-1]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-## Chapter 3*a***** Acquisition and Possession of High Capacity Loading Devices
+## Chapter 3*a* Acquisition and Possession of High Capacity Loading Devices
 
 [^chap3a-1]
 
@@ -600,7 +600,7 @@ The documents must be submitted to the cantonal authority responsible for operat
 
 Holders of weapons trading permits and their employees are required to disclose to the supervisory authorities all information necessary for proper control.
 
-## Chapter 5 Foreign Transactions****
+## Chapter 5 Foreign Transactions
 
 [^chap5-1]
 
@@ -757,7 +757,7 @@ The Federal Council may make exceptions to the permit requirement for:
 [^25b-1]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^25b-2]: Amended by No I of the FA of 11 Dec. 2009 (Adaptation of the Implementation of the Schengen Acquis), in force since 28 July 2010 ([AS 2010 2823](https://fedlex.data.admin.ch/eli/oc/2010/369); [BBl 2009 3649](https://fedlex.data.admin.ch/eli/fga/2009/730)).
 
-## Chapter 6 Storing, Carrying and Transporting Weapons and Ammunition, Improper Carrying of Dangerous Objects****
+## Chapter 6 Storing, Carrying and Transporting Weapons and Ammunition, Improper Carrying of Dangerous Objects
 
 [^chap6-1]
 
@@ -850,13 +850,13 @@ It is prohibited to carry dangerous objects in publicly accessible places and to
 
 [^28a-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-## Chapter 7 Exemption Permits, Control, Administrative Sanctions and Fees****
+## Chapter 7 Exemption Permits, Control, Administrative Sanctions and Fees
 
 [^chap7-1]
 
 [^chap7-1]: Amended by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 
-### Section 1 Exemption Permits****
+### Section 1 Exemption Permits
 
 [^chap7-sec1-1]
 
@@ -941,7 +941,7 @@ Collectors and museums must:
 
 [^28e-1]: Inserted by the Annex to the FD of 28 Sept. 2018 on the approval and the implementation of the exchange of notes between Switzerland and the EU on the adoption of Directive (EU) 2017/853 on the Amendment of the EU Weapons Directive, in force since 15 Aug. 2019 ([AS 2019 2415](https://fedlex.data.admin.ch/eli/oc/2019/449); [BBl 2018 1881](https://fedlex.data.admin.ch/eli/fga/2018/731)).
 
-### Section 2 Control, Administrative Sanctions and Fees****
+### Section 2 Control, Administrative Sanctions and Fees
 
 [^chap7-sec2-1]
 
@@ -1082,7 +1082,7 @@ Besides the mandate under Articles 9*a* paragraph 2, 22*b*, 24 paragraphs 3 and 
 
 <sup>3</sup> The Federal Council regulates the details of the central office’s activities.
 
-[^31c-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; BBl **200****6** 2713).
+[^31c-1]: Inserted by No I of the FA of 22 June 2007, in force since 12 Dec. 2008 ([AS 2008 5499](https://fedlex.data.admin.ch/eli/oc/2008/766)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 let. d; [BBl 2006 2713](https://fedlex.data.admin.ch/eli/fga/2006/280)).
 [^31c-2]: Inserted by Art. 2 of the FD of 23 Dec. 2011 on the Adoption and Implementation of the UN Firearms Protocol, in force since 1 Jan. 2013 ([AS 2012 6777](https://fedlex.data.admin.ch/eli/oc/2012/819); [BBl 2011 4555](https://fedlex.data.admin.ch/eli/fga/2011/715)).
 
 #### Art. 31d
@@ -1109,13 +1109,13 @@ The Federal Council determines the fees for:
 [^32-2]: Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^32-3]: Inserted by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
-## Chapter 7*a***** Data Processing and Data Protection
+## Chapter 7*a* Data Processing and Data Protection
 
 [^chap7a-1]
 
 [^chap7a-1]: Inserted by Art. 3 No 6 of the FD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association with Schengen and Dublin, in force since 12 Dec. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 let. e; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 
-### Section 1**** Data Processing
+### Section 1 Data Processing
 
 [^chap7a-sec1-1]
 
@@ -1241,7 +1241,7 @@ All data contained in the DEWA, DEBBWA and DARUE databases may be disclosed to t
 
 <sup>2</sup> Federal and cantonal law enforcement services, cantonal police authorities and the customs authorities may access all data contained in the DEWA, DEBBWA, DAWA and DARUE databases by means of an online access procedure.
 
-<sup>3</sup> The military authorities may access all data contained in the DEBBWA database by means of an online access procedure.
+<sup>3</sup> The military authorities and the authorities responsible for implementing the Precursors Act of 25 September 2020[^32c-2] may access all data contained in the DEBBWA and DAWA database by means of an online access procedure.[^32c-3]
 
 <sup>4</sup> The Central Office shall notify the competent departments of the military authorities immediately of any member of the armed forces or person required to enlist who is newly registered in the DEBBWA database and whose permit has been withdrawn, who has been refused a permit, or whose weapon has been seized. Notification is sent to the Integrated Resources Management Information System (PSN) through an automated process.
 
@@ -1254,8 +1254,10 @@ All data contained in the DEWA, DEBBWA and DARUE databases may be disclosed to t
 <sup>8</sup> The Federal Council regulates the scope of data disclosure to the federal and cantonal authorities. It also regulates the control, storage, correction and deletion of the data.
 
 [^32c-1]: Amended by No I 5 of the FA of 25 Sept. 2015 on Improving the Exchange of Information between Authorities in relation to Weapons, in force since 1 July 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^32c-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^32c-3]: Amended by Annex No 4 of the Precursors Act of 25 Sept. 2020, in force since 1 Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)).
 
-### Section 2 Data Processing and Data Protection under the Schengen Association Agreements****
+### Section 2 Data Processing and Data Protection under the Schengen Association Agreements
 
 [^chap7a-sec2-1]
 
@@ -1307,7 +1309,7 @@ The right to information is based on the federal or cantonal data protection pro
 
 [^32h32i-1]: Repealed by No 6 of the FA of 19 March 2010 on the implementation of Framework Decision 2008/977/JI on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, with effect from 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-### Section 3**** Notification Requirements
+### Section 3 Notification Requirements
 
 [^chap7a-sec3-1]
 
@@ -1541,7 +1543,7 @@ Commencement date: 1 January 1999[^43-1]
 
 [^43-1]: FCD of 21 Sept. 1998.
 
-Annex*[^t-1]*
+Annex[^t-1]
 
 (Art. 4 para. 2<sup>bis</sup>)
 
@@ -1555,7 +1557,7 @@ The Schengen Association Agreements comprise:
 - b. the Agreement of 26 October 2004[^annexu1-lvlu1-2] in the form of an exchange of letters between the Council of the European Union and the Swiss Confederation on the Committees that assist the European Commission in the exercise of its executive powers;
 - c. the Agreement of 17 December 2004[^annexu1-lvlu1-3] between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the implementation, application and development of the Schengen Acquis and on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway;
 - d. Agreement of 28 April 2005[^annexu1-lvlu1-4] between the Swiss Confederation and the Kingdom of Denmark on the implementation, application and development of those parts of the Schengen Acquis that are based on the provisions of Title IV of the Treaty establishing the European Community;
-- e. the Protocol of 28 February 2008[^annexu1-lvlu1-5] between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen Acquis..
+- e. the Protocol of 28 February 2008[^annexu1-lvlu1-5] between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen Acquis.
 
 [^annexu1-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
 [^annexu1-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
