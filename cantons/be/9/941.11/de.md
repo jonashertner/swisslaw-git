@@ -4,13 +4,13 @@ number: "941.11"
 title: Verordnung über das Mass- und Gewichtswesen
 short: MGV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-23
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2419/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2764/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2419/pdf_file"
 
 (MGV)
 
-vom 16.08.2000 (Stand 01.01.2022)
+vom 16.08.2000 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -142,7 +142,7 @@ beschliesst:
 
 **Eichamt BE+4**
 
-<sup>1</sup> Aefligen, Alchenstorf, Bäriswil, Bätterkinden, Burgdorf, Deisswil b. M´buchsee, Diemerswil, Ersigen, Fraubrunnen, Heimiswil, Hellsau, Hindelbank, Höchstetten, Iffwil, Jegenstorf, Kernenried, Kirchberg (BE), Koppigen, Lyssach, Mattstetten, Moosseedorf, Münchenbuchsee, Rüdtligen-Alchenflüh, Rumendingen, Rüti b. Lyssach, Urtenen-Schönbühl, Utzenstorf, Wiggiswil, Wiler b. Utzenstorf, Willadingen, Wynigen, Zielebach, Zuzwil (BE).
+<sup>1</sup> Aefligen, Alchenstorf, Bäriswil, Bätterkinden, Burgdorf, Deisswil b. Münchenbuchsee, Ersigen, Fraubrunnen, Heimiswil, Hellsau, Hindelbank, Höchstetten, Iffwil, Jegenstorf, Kernenried, Kirchberg (BE), Koppigen, Lyssach, Mattstetten, Moosseedorf, Münchenbuchsee, Rüdtligen-Alchenflüh, Rumendingen, Rüti b. Lyssach, Urtenen-Schönbühl, Utzenstorf, Wiggiswil, Wiler b. Utzenstorf, Willadingen, Wynigen, Zielebach, Zuzwil (BE).
 
 Bern, 16. August 2000
 

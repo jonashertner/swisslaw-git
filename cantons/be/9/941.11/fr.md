@@ -4,13 +4,13 @@ number: "941.11"
 title: Ordonnance sur les poids et mesures
 short: OPM
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-23
 adopted: 2000-08-16
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/941.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2419/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2764/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2419/pdf_file"
 
 (OPM)
 
-du 16.08.2000 (état au 01.01.2022)
+du 16.08.2000 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -140,7 +140,7 @@ arrête:
 
 **Office de vérification BE+4**
 
-<sup>1</sup> Aefligen, Alchenstorf, Bäriswil, Bätterkinden, Burgdorf, Deisswil b. M´buchsee, Diemerswil, Ersigen, Fraubrunnen, Heimiswil, Hellsau, Hindelbank, Höchstetten, Iffwil, Jegenstorf, Kernenried, Kirchberg (BE), Koppigen, Lyssach, Mattstetten, Moosseedorf, Münchenbuchsee, Rüdtligen-Alchenflüh, Rumendingen, Rüti b. Lyssach, Urtenen-Schönbühl, Utzenstorf, Wiggiswil, Wiler b. Utzenstorf, Willadingen, Wynigen, Zielebach, Zuzwil (BE).
+<sup>1</sup> Aefligen, Alchenstorf, Bäriswil, Bätterkinden, Burgdorf, Deisswil b. Münchenbuchsee, Ersigen, Fraubrunnen, Heimiswil, Hellsau, Hindelbank, Höchstetten, Iffwil, Jegenstorf, Kernenried, Kirchberg (BE), Koppigen, Lyssach, Mattstetten, Moosseedorf, Münchenbuchsee, Rüdtligen-Alchenflüh, Rumendingen, Rüti b. Lyssach, Urtenen-Schönbühl, Utzenstorf, Wiggiswil, Wiler b. Utzenstorf, Willadingen, Wynigen, Zielebach, Zuzwil (BE).
 
 Berne, le 16 août 2000
 
