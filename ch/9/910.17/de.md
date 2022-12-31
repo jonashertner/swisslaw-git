@@ -4,20 +4,20 @@ title: "Verordnung vom 23. Oktober 2013 über Einzelkulturbeiträge im Pflanzenb
 short: EKBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: de
-version: 2022-03-01
+version: 2023-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220301/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-873-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über Einzelkulturbeiträge im Pflanzenbau und die Zulage für Getreide****
+# Verordnung über Einzelkulturbeiträge im Pflanzenbau und die Zulage für Getreide
 
 (Einzelkulturbeitragsverordnung, EKBV)[^t-1]
 
-vom 23. Oktober 2013 (Stand am 1. März 2022)
+vom 23. Oktober 2013 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
-## 1. Abschnitt:**** Einzelkulturbeiträge
+## 1. Abschnitt: Einzelkulturbeiträge
 
 [^sec1-1]
 
@@ -47,17 +47,17 @@ Einzelkulturbeiträge werden für Flächen mit den folgenden Kulturen ausgericht
 - a. Raps, Sonnenblumen, Ölkürbisse, Öllein, Mohn und Saflor;
 - b. Saatgut von Kartoffeln, Mais, Futtergräsern und Futterleguminosen;
 - c. Soja;
-- d. Ackerbohnen, Eiweisserbsen und Lupinen zu Futterzwecken;
+- d.[^1-1] Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*);
 - e. Zuckerrüben zur Zuckerherstellung.
 
-<sup>2</sup> Einzelkulturbeiträge werden auch für angestammte Flächen in der ausländischen Grenzzone nach Artikel 17 Absatz 2 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^1-1] (LBV) ausgerichtet.
+<sup>2</sup> Einzelkulturbeiträge werden auch für angestammte Flächen in der ausländischen Grenzzone nach Artikel 17 Absatz 2 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^1-2] (LBV) ausgerichtet.
 
 <sup>2bis</sup>
 
 Der Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung wird ausgerichtet, wenn auch einer der folgenden Beiträge ausgerichtet wird:
 
-- a. Beitrag für biologische Landwirtschaft nach Artikel 66 der Direktzahlungsverordnung vom 23. Oktober 2013[^1-2] (DZV);
-- b. Beitrag für den Verzicht auf Fungizide und Insektizide nach Anhang 6*a* Ziffer 3.2 DZV.[^1-3]
+- a. Beitrag für biologische Landwirtschaft nach Artikel 66 der Direktzahlungsverordnung vom 23. Oktober 2013[^1-3] (DZV);
+- b. Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau nach Artikel 68 DZV.[^1-4]
 
 <sup>3</sup>
 
@@ -65,14 +65,16 @@ Keine Beiträge werden ausgerichtet für:
 
 - a. Flächen ausserhalb der landwirtschaftlichen Nutzfläche;
 - b. Parzellen oder Parzellenteile mit hohem Besatz an Problempflanzen, insbesondere Blacken, Ackerkratzdisteln, Quecken, Flughafer, Jakobs-Kreuzkraut und invasive Neophyten;
-- c. Flächen mit Raps, Sonnenblumen, Ölkürbissen, Öllein, Mohn, Saflor, Soja, Ackerbohnen, Eiweisserbsen und Lupinen, die vor ihrem Reifezustand oder nicht zur Körnergewinnung geerntet werden;
+- c.[^1-5] Flächen mit Raps, Sonnenblumen, Ölkürbissen, Öllein, Mohn, Saflor, Soja, Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*), die vor ihrem druschreifen Zustand oder nicht zur Körnergewinnung geerntet werden;
 - d. Flächen mit Ölkürbissen, die nicht auf dem Feld ausgedroschen werden;
-- e.[^1-4] Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j DZV.
+- e.[^1-6] Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j DZV.
 
-[^1-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^1-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-3]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^1-4]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^1-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-4]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Fassung gemäss Anhang Ziff. 2 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^1-5]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-6]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -86,13 +88,14 @@ Der Einzelkulturbeitrag beträgt pro Hektare und Jahr für:
 <tr><td>b. Saatgut von Kartoffeln und Mais</td><td>700</td></tr>
 <tr><td>c. Saatgut von Futtergräsern und Futterleguminosen</td><td>1000</td></tr>
 <tr><td>d. Soja</td><td>1000</td></tr>
-<tr><td>e. Ackerbohnen, Eiweisserbsen und Lupinen zu Futterzwecken sowie Mischungen nach Artikel 6*b* Absatz 2</td><td>1000</td></tr>
-<tr><td>f.[^2-1] Zuckerrüben zur Zuckerherstellung</td><td>2100</td></tr>
-<tr><td>g.[^2-2] Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung</td><td>200</td></tr>
+<tr><td>e.[^2-1] Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*) sowie Mischungen nach Artikel 6*b* Absatz 2</td><td>1000</td></tr>
+<tr><td>f.[^2-2] Zuckerrüben zur Zuckerherstellung</td><td>2100</td></tr>
+<tr><td>g.[^2-3] Zusatzbeitrag für Zuckerrüben zur Zuckerherstellung</td><td>200</td></tr>
 </table>
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-2]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-3]: Eingefügt durch Ziff. I der V vom 2. Febr. 2022, in Kraft vom 1. März 2022 bis zum 31. Dez. 2026 ([AS 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -104,11 +107,11 @@ Der Einzelkulturbeitrag beträgt pro Hektare und Jahr für:
 
 [^3-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
-## 2. Abschnitt:**** Getreidezulage
+## 2. Abschnitt: Getreidezulage
 
 [^sec2-1]
 
-[^sec2-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
+[^sec2-1]: Fassung gemäss Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
 #### Art. 4
 
@@ -137,7 +140,7 @@ Keine Zulage wird ausgerichtet für:
 
 Die Getreidezulage pro Hektare und Jahr errechnet sich aus den für die Zulage bewilligten Mitteln und der zur Zulage berechtigenden Getreidefläche. Das Resultat wird auf ganze Franken abgerundet.
 
-## 2*a*. Abschnitt: Voraussetzungen****
+## 2*a*. Abschnitt: Voraussetzungen
 
 [^sec2a-1]
 
@@ -185,12 +188,13 @@ Einzelkulturbeiträge und die Getreidezulage werden ausgerichtet, wenn:
 
 <sup>1</sup> Voraussetzung für die Gewährung des Beitrags für Saatgut von Kartoffeln, Mais, Futtergräsern und Futterleguminosen ist die schriftliche Festlegung einer bestimmten Fläche zwischen dem Bewirtschafter oder der Bewirtschafterin und einer zugelassenen Saatgutvermehrungsorganisation. Die Fläche muss die gestützt auf Artikel 23 Absatz 1 der Saat- und Pflanzgut-Verordnung des WBF vom 7. Dezember 1998[^6b-2] festgelegten Anforderungen erfüllen.
 
-<sup>2</sup> Voraussetzung für die Gewährung des Beitrags für Mischungen von Ackerbohnen, Eiweisserbsen und Lupinen zu Futterzwecken mit Getreide ist ein Gewichtsanteil der zu Beiträgen berechtigenden Kulturen von mindestens 30 Prozent im Erntegut.
+<sup>2</sup> Voraussetzung für die Gewährung des Beitrags für Mischungen von Bohnen (*Phaseolus*), Erbsen (*Pisum*), Lupinen (*Lupinus*), Wicken (*Vicia*), Kichererbsen (*Cicer*) und Linsen (*Lens*) mit Getreide oder Leindotter ist ein Gewichtsanteil der zu Beiträgen berechtigenden Kulturen von mindestens 30 Prozent im Erntegut.[^6b-3]
 
 <sup>3</sup> Voraussetzung für die Gewährung des Beitrags für Zuckerrüben ist die Festlegung einer bestimmten Liefermenge in einem schriftlichen Vertrag zwischen der Zuckerfabrik einerseits und dem Bewirtschafter oder der Bewirtschafterin oder den Mitgliedern einer Betriebszweiggemeinschaft oder einer Produzentengemeinschaft andererseits.
 
 [^6b-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 [^6b-2]: [SR 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+[^6b-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 
 ## 3. Abschnitt: Verfahren
 
@@ -420,7 +424,7 @@ Als höhere Gewalt gelten insbesondere:
 
 Die Ackerbaubeitragsverordnung vom 7. Dezember 1998[^26-1] wird aufgehoben.
 
-[^26-1]: [[AS 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44)[1698](https://fedlex.data.admin.ch/eli/oc/1999/259), [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51)[2507](https://fedlex.data.admin.ch/eli/oc/2001/370), [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778), [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154)[4829](https://fedlex.data.admin.ch/eli/oc/2006/745), [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821), [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513)[5821](https://fedlex.data.admin.ch/eli/oc/2008/801), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)Ziff. II 2, [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 2, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 5]
+[^26-1]: [[AS 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44), [1698](https://fedlex.data.admin.ch/eli/oc/1999/259); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)Ziff. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 5]
 
 #### Art. 27
 
@@ -430,7 +434,7 @@ Die Ackerbaubeitragsverordnung vom 7. Dezember 1998[^26-1] wird aufgehoben.
 
 <sup>2</sup> Bei Personengesellschaften, die im Jahr 2013 Beiträge nach der Ackerbaubeitragsverordnung vom 7. Dezember 1998 erhalten haben, ist bis Ende 2015 das Alter des jüngsten Bewirtschafters oder der jüngsten Bewirtschafterin massgebend.
 
-[^27-1]: [[AS 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44)[1698](https://fedlex.data.admin.ch/eli/oc/1999/259), [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51)[2507](https://fedlex.data.admin.ch/eli/oc/2001/370), [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778), [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154)[4829](https://fedlex.data.admin.ch/eli/oc/2006/745), [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821), [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513)[5821](https://fedlex.data.admin.ch/eli/oc/2008/801), [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)Ziff. II 2, [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 2, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 5]
+[^27-1]: [[AS 1999 393](https://fedlex.data.admin.ch/eli/oc/1999/44), [1698](https://fedlex.data.admin.ch/eli/oc/1999/259); [2001 250](https://fedlex.data.admin.ch/eli/oc/2001/51), [2507](https://fedlex.data.admin.ch/eli/oc/2001/370); [2003 5345](https://fedlex.data.admin.ch/eli/oc/2003/778); [2006 885](https://fedlex.data.admin.ch/eli/oc/2006/154), [4829](https://fedlex.data.admin.ch/eli/oc/2006/745); [2007 6175](https://fedlex.data.admin.ch/eli/oc/2007/821); [2008 3809](https://fedlex.data.admin.ch/eli/oc/2008/513), [5821](https://fedlex.data.admin.ch/eli/oc/2008/801); [2009 2575](https://fedlex.data.admin.ch/eli/oc/2009/338)Ziff. II 2; [2010 5855](https://fedlex.data.admin.ch/eli/oc/2010/835)Ziff. II 2; [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Anhang 2 Ziff. 5]
 
 #### Art. 28
 
@@ -438,7 +442,7 @@ Die Ackerbaubeitragsverordnung vom 7. Dezember 1998[^26-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2014 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 18 Abs. 1)
 

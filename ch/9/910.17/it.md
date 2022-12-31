@@ -4,20 +4,20 @@ title: "Ordinanza del 23 ottobre 2013 concernente i contributi per singole coltu
 short: OCSC
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: it
-version: 2022-03-01
+version: 2023-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220301/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-873-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente i contributi per singole colture nella produzione vegetale e il supplemento per i cereali
 
-(Ordinanza sui contributi per singole colture, OCSC)**[^t-1]**
+(Ordinanza sui contributi per singole colture, OCSC)[^t-1]
 
-del 23 ottobre 2013 (Stato 1° marzo 2022)
+del 23 ottobre 2013 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -30,7 +30,7 @@ ordina:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Nuovo testo giusta il n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
-## Sezione 1:**** Contributi per singole colture
+## Sezione 1: Contributi per singole colture
 
 [^sec1-1]
 
@@ -47,17 +47,17 @@ I contributi per singole colture sono versati per superfici con le seguenti colt
 - a. colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero e cartamo;
 - b. sementi di patate, mais, graminacee da foraggio e leguminose da foraggio;
 - c. soia;
-- d. favette, piselli proteici e lupini a scopo foraggero;
+- d.[^1-1] fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*);
 - e. barbabietole da zucchero per la produzione di zucchero.
 
-<sup>2</sup> I contributi per singole colture sono versati anche per le superfici coltivate per tradizione familiare nella zona di confine estera ai sensi dell’articolo 17 capoverso 2 dell’ordinanza del 7 dicembre 1998[^1-1] sulla terminologia agricola (OTerm).
+<sup>2</sup> I contributi per singole colture sono versati anche per le superfici coltivate per tradizione familiare nella zona di confine estera ai sensi dell’articolo 17 capoverso 2 dell’ordinanza del 7 dicembre 1998[^1-2] sulla terminologia agricola (OTerm).
 
 <sup>2bis</sup>
 
 Il contributo supplementare per barbabietole da zucchero per la produzione di zucchero è versato se è versato anche uno dei seguenti contributi:
 
-- a. contributo per l’agricoltura biologica secondo l’articolo 66 dell’ordinanza del 23 ottobre 2013[^1-2] sui pagamenti diretti (OPD);
-- b. contributo per la rinuncia a fungicidi e insetticidi secondo l’allegato 6*a* numero 3.2 OPD.[^1-3]
+- a. contributo per l’agricoltura biologica ai sensi dell’articolo 66 dell’ordinanza del 23 ottobre 2013[^1-3] sui pagamenti diretti (OPD);
+- b. contributo per la rinuncia a prodotti fitosanitari in campicoltura ai sensi dell’articolo 68 OPD.[^1-4]
 
 <sup>3</sup>
 
@@ -65,14 +65,16 @@ Non sono versati contributi per:
 
 - a. superfici al di fuori della superficie agricola utile;
 - b. particelle o parti di particelle caratterizzate da un’elevata presenza di piante problematiche, in particolare romice, stoppione («cardo dei campi»), agropiro («gramigna»), avena selvatica, erba di San Giacomo e neofite invasive;
-- c. superfici con colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero, cartamo, soia, favette, piselli proteici e lupini, raccolti prima della loro maturazione o non per l’estrazione dei granelli;
+- c.[^1-5] superfici con colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero, cartamo, soia, fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), raccolti prima della loro maturazione o non per l’estrazione dei granelli;
 - d. superfici con zucche per l’estrazione di olio che non sono trebbiate sul campo;
-- e.[^1-4] fasce di colture estensive in campicoltura secondo l’articolo 55 capoverso 1 lettera j OPD.
+- e.[^1-6] fasce di colture estensive in campicoltura secondo l’articolo 55 capoverso 1 lettera j OPD.
 
-[^1-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^1-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-3]: Introdotto dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^1-4]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-4]: Introdotto dal n. I dell’O del 2 feb. 2022 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nuovo testo giusta l’all. n. 2 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^1-5]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-6]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -81,18 +83,19 @@ Non sono versati contributi per:
 Per ettaro e anno il contributo per singole colture ammonta a:
 
 <table>
-<tr><td></td><td>franchi</td></tr>
+<tr><th></th><th>franchi</th></tr>
 <tr><td>a. colza, girasoli, zucche per l’estrazione di olio, lino per l’estrazione di olio, papavero e cartamo</td><td>700</td></tr>
 <tr><td>b. sementi di patate e mais</td><td>700</td></tr>
 <tr><td>c. sementi di graminacee da foraggio e leguminose da foraggio</td><td>1000</td></tr>
 <tr><td>d. soia</td><td>1000</td></tr>
-<tr><td>e. favette, piselli proteici e lupini a scopo foraggero, nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
-<tr><td>f.[^2-1] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
-<tr><td>g.[^2-2] contributo supplementare per le barbabietole da zucchero per la produzione di zucchero</td><td>200</td></tr>
+<tr><td>e*.*[^2-1] fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*), nonché miscele ai sensi dell’articolo 6*b* capoverso 2</td><td>1000</td></tr>
+<tr><td>f.[^2-2] barbabietole da zucchero per la produzione di zucchero</td><td>2100</td></tr>
+<tr><td>g.[^2-3] contributo supplementare per le barbabietole da zucchero per la produzione di zucchero</td><td>200</td></tr>
 </table>
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-2]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-3]: Introdotta dal n. I dell’O del 2 feb. 2022, in vigore dal 1° mar. 2022 al 31 dic. 2026 ([RU 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -104,7 +107,7 @@ Per ettaro e anno il contributo per singole colture ammonta a:
 
 [^3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
-## Sezione 2:**** Supplemento per i cereali
+## Sezione 2: Supplemento per i cereali
 
 [^sec2-1]
 
@@ -137,7 +140,7 @@ Non è versato alcun supplemento per:
 
 Il supplemento per i cereali per ettaro e anno è calcolato in base ai fondi approvati per il supplemento e alla superficie cerealicola che dà diritto al supplemento. Il risultato è arrotondato per difetto al franco intero.
 
-## Sezione 2*a*: Condizioni****
+## Sezione 2*a*: Condizioni
 
 [^sec2a-1]
 
@@ -185,12 +188,13 @@ I contributi per singole colture e il supplemento per i cereali sono versati se:
 
 <sup>1</sup> Il contributo per sementi di patate, mais, graminacee da foraggio e leguminose da foraggio è concesso soltanto se il gestore ha stabilito per scritto una determinata superficie con un’organizzazione di moltiplicazione delle sementi autorizzata. La superficie deve soddisfare le esigenze stabilite in virtù dell’articolo 23 capoverso 1 dell’ordinanza del DEFR del 7 dicembre 1998[^6b-2] sulle sementi e i tuberi-seme.
 
-<sup>2</sup> Il contributo per miscele di favette, piselli proteici e lupini a scopo foraggero con cereali è concesso soltanto se la proporzione in peso delle colture che danno diritto a contributi nel raccolto è di almeno il 30 per cento.
+<sup>2</sup> Il contributo per miscele di fagioli (*Phaseolus*), piselli (*Pisum*), lupini (*Lupinus*), vecce (*Vicia*), ceci (*Cicer*) e lenticchie (*Lens*) con cereali o dorella è concesso soltanto se la proporzione in peso delle colture che danno diritto a contributi nel raccolto è di almeno il 30 per cento.[^6b-3]
 
 <sup>3</sup> Il contributo per le barbabietole da zucchero è concesso soltanto se in un contratto scritto tra lo zuccherificio da un lato e il gestore oppure i membri di una comunità aziendale settoriale o di una comunità di produttori dall’altro è stato stabilito un determinato quantitativo da fornire.
 
 [^6b-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 [^6b-2]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+[^6b-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 
 ## Sezione 3: Procedura
 
@@ -437,7 +441,7 @@ L’ordinanza del 7 dicembre 1998[^26-1] sui contributi nella campicoltura è ab
 
 La presente ordinanza entra in vigore il 1° gennaio 2014.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 18 cpv. 1)
 

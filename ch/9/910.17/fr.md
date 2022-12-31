@@ -4,20 +4,20 @@ title: "Ordonnance du 23 octobre 2013 sur les contributions à des cultures part
 short: OCCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/873"
 language: fr
-version: 2022-03-01
+version: 2023-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20220301/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20220301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20220301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/873/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-873-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/873/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les contributions à des cultures particulières dans la production végétale et sur le supplément pour les céréales
 
-(Ordonnance sur les contributions à des cultures particulières, OCCP)**[^t-1]**
+(Ordonnance sur les contributions à des cultures particulières, OCCP)[^t-1]
 
-du 23 octobre 2013 (Etat le 1<sup>er</sup> mars 2022)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
@@ -30,7 +30,7 @@ arrête:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 
-## Section 1**** Contributions à des cultures particulières
+## Section 1 Contributions à des cultures particulières
 
 [^sec1-1]
 
@@ -47,17 +47,17 @@ Les contributions à des cultures particulières sont versées pour les surfaces
 - a. colza, tournesol, courges à huile, lin oléagineux, pavot et carthame des teinturiers;
 - b. plants de pommes de terre et semences de maïs, de graminées fourragères et de légumineuses fourragères;
 - c. soja;
-- d. féveroles, pois protéagineux et lupins destinés à l’affouragement;
+- d.[^1-1] haricots (*Phaseolus*), pois (*Pisum*), lupins (*Lupinus*), vesces (*Vicia*), pois chiches (*Cicer*) et lentilles (*Lens*);
 - e. betteraves sucrières destinées à la fabrication de sucre.
 
-<sup>2</sup> Les contributions à des cultures particulières sont également versées pour les surfaces cultivées par tradition dans la zone limitrophe étrangère visées à l’art. 17, al. 2, de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^1-1].
+<sup>2</sup> Les contributions à des cultures particulières sont également versées pour les surfaces cultivées par tradition dans la zone limitrophe étrangère visées à l’art. 17, al. 2, de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^1-2].
 
 <sup>2bis</sup>
 
-Le supplément pour les betteraves sucrières destinées à la fabrication de sucre est versé à la condition qu’une des contributions suivantes soit versée:
+La contribution supplémentaire pour les betteraves destinées à la production de sucre est octroyée à condition que l’une des contributions suivantes soit également octroyée:
 
-- a. la contribution pour l’agriculture biologique conformément à l’art. 66 de de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-2];
-- b. la contribution pour le non-recours aux fongicides et aux insecticides conformément à l’annexe 6a, ch. 3.2, OPD.[^1-3]
+- a. contribution pour l’agriculture biologique selon l’art. 66 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-3];
+- b. contribution pour le non-recours aux produits phytosanitaires dans les grandes cultures selon l’art. 68 OPD.[^1-4]
 
 <sup>3</sup>
 
@@ -65,14 +65,16 @@ Aucune contribution n’est versée pour:
 
 - a. les surfaces situées en dehors de la surface agricole utile;
 - b. les parcelles ou parties de parcelles fortement envahies par des mauvaises herbes posant des problèmes, telles que le rumex, le chardon des champs, le chiendent, la folle avoine, le séneçon jacobée et les plantes néophytes envahissantes;
-- c. les surfaces affectées aux cultures de colza, tournesol, courges à huile, lin oléagineux, pavot, carthame des teinturiers, soja, féveroles, pois protéagineux et lupins, qui sont récoltées avant maturité ou non pour les graines;
+- c.[^1-5] les surfaces affectées aux cultures de colza, tournesol, courges à huile, lin oléagineux, pavot, carthame des teinturiers, soja, haricots (*Phaseolus*), pois (*Pisum*), lupins (*Lupinus*), vesces (*Vicia*), pois chiches (*Cicer*) et lentilles (*Lens*) qui sont récoltées avant la maturité pour le battage ou qui ne sont pas récoltés pour les graines;
 - d. les surfaces affectées à la culture de courges à huile qui ne sont pas battues sur le champ;
-- e.[^1-4] les bandes culturales extensives visées à l’art. 55, al. 1, let. j, OPD.
+- e.[^1-6] les bandes culturales extensives visées à l’art. 55, al. 1, let. j, OPD.
 
-[^1-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^1-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^1-3]: Introduit par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^1-4]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-4]: Introduit par le ch. I de l’O du 2 fév. 2022 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^1-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^1-6]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 2
 
@@ -86,13 +88,14 @@ La contribution à des cultures particulières, par hectare et par an, s’élè
 <tr><td>b. pour les plants de pommes de terre et les semences de maïs:</td><td>700</td></tr>
 <tr><td>c. pour les semences de graminées fourragères et de légumineuses fourragères:</td><td>1000</td></tr>
 <tr><td>d. pour le soja:</td><td>1000</td></tr>
-<tr><td>e. pour les féveroles, les pois protéagineux et les lupins destinés à l’affouragement et pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
-<tr><td>f.[^2-1] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
-<tr><td>g.[^2-2] contribution supplémentaire pour les betteraves sucrières destinées à la fabrication de sucre</td><td>200</td></tr>
+<tr><td>e*.*[^2-1] pour les haricots (*Phaseolus*), les pois (*Pisum*), les lupins (*Lupinus*), les vesces (*Vicia*), les pois chiches (*Cicer*) et les lentilles (*Lens*) ainsi que pour les mélanges visés à l’art. 6*b*, al. 2:</td><td>1000</td></tr>
+<tr><td>f.[^2-2] pour les betteraves sucrières destinées à la fabrication de sucre</td><td>2100</td></tr>
+<tr><td>g.[^2-3] contribution supplémentaire pour les betteraves sucrières destinées à la fabrication de sucre</td><td>200</td></tr>
 </table>
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
-[^2-2]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
+[^2-3]: Introduite par le ch. I de l’O du 2 fév. 2022, en vigueur du 1<sup>er</sup> mars 2022 au 31 déc. 2026 ([RO 2022 86](https://fedlex.data.admin.ch/eli/oc/2022/86)).
 
 #### Art. 3
 
@@ -104,7 +107,7 @@ La contribution à des cultures particulières, par hectare et par an, s’élè
 
 [^3-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
-## Section 2**** Supplément pour les céréales
+## Section 2 Supplément pour les céréales
 
 [^sec2-1]
 
@@ -137,7 +140,7 @@ Aucun supplément n’est versé pour:
 
 Le supplément pour les céréales par hectare et par an est calculé sur la base des moyens autorisés pour le supplément et de la superficie céréalière donnant droit au supplément. Le résultat est arrondi au franc inférieur.
 
-## Section 2*a* Conditions****
+## Section 2*a* Conditions
 
 [^sec2a-1]
 
@@ -185,12 +188,13 @@ Les contributions à des cultures particulières et le supplément pour les cér
 
 <sup>1</sup> L’octroi de la contribution pour les plants de pommes de terre, les semences de maïs, les semences de graminées fourragères et les semences de légumineuses fourragères est lié à la condition qu’une surface déterminée soit convenue par écrit entre l’exploitant et l’organisation reconnue de multiplication de semences. La surface doit satisfaire aux exigences mentionnées à l’art. 23, al. 1, de l’ordonnance du DEFR du 7 décembre 1998 sur les semences et plants[^6b-2].
 
-<sup>2</sup> L’octroi de la contribution pour les mélanges de féveroles, de pois protéagineux et de lupins avec des céréales destinés à l’affouragement est lié à la condition que la part en poids des cultures donnant droit aux contributions représente au moins 30 % du produit de la récolte.
+<sup>2</sup> L’octroi de la contribution pour les mélanges de haricots (*Phaseolus*), de pois (*Pisum*), de lupins (*Lupinus*), de vesces (*Vicia*), de pois chiches (*Cicer*) et de lentilles (*Lens*) avec des céréales ou de la caméline est lié à la condition que la part en poids des cultures donnant droit aux contributions représente au moins 30 % du produit de la récolte.[^6b-3]
 
 <sup>3</sup> L’octroi de la contribution pour les betteraves est lié à la condition qu’une quantité déterminée à livrer soit convenue par écrit dans un contrat entre la sucrerie, d’une part, et l’exploitant ou les membres d’une communauté d’exploitation ou d’un groupement de producteurs, d’autre part.
 
 [^6b-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3943](https://fedlex.data.admin.ch/eli/oc/2018/633)).
 [^6b-2]: [RS 916.151.1](https://fedlex.data.admin.ch/eli/cc/1999/121)
+[^6b-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 752](https://fedlex.data.admin.ch/eli/oc/2022/752)).
 
 ## Section 3 Procédure
 
@@ -211,7 +215,7 @@ La demande doit comprendre notamment les indications suivantes:
 - c. les mutations de surfaces et l’adresse des exploitations concernées avec indication du nom de l’ancien et du nouvel exploitant;
 - d. les paiements directs de l’Union européenne touchés l’année précédente pour les surfaces exploitées par tradition dans la zone limitrophe étrangère.
 
-<sup>4</sup> A la demande du canton, les exploitants d’entreprises agricoles ayant des surfaces exploitées par tradition dans la zone limitrophe étrangère doivent produire une attestation du service officiel étranger chargé du versement, sur laquelle figure le montant des paiements directs octroyés par l’UE.
+<sup>4</sup> À la demande du canton, les exploitants d’entreprises agricoles ayant des surfaces exploitées par tradition dans la zone limitrophe étrangère doivent produire une attestation du service officiel étranger chargé du versement, sur laquelle figure le montant des paiements directs octroyés par l’UE.
 
 <sup>5</sup> L’exploitant confirme, dans la demande et dans les formulaires de relevé, l’exactitude des données indiquées. La confirmation peut se faire par signature manuelle ou par signature électronique, selon les instructions du canton.
 
@@ -438,7 +442,7 @@ L’ordonnance du 7 décembre 1998 sur les contributions à la culture des champ
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2014.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 18, al. 1)
 
