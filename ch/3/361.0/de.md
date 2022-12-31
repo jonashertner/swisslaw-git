@@ -3,11 +3,11 @@ sr: "361.0"
 title: Verordnung vom 26. Oktober 2016 über das automatisierte Polizeifahndungssystem (RIPOL-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: de
-version: 2022-11-22
+version: 2023-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20221122-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20221122/de"
 
 (RIPOL-Verordnung)
 
-vom 26. Oktober 2016 (Stand am 22. November 2022)
+vom 26. Oktober 2016 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -101,15 +101,17 @@ Folgende Behörden können fedpol Ausschreibungen für die Eingabe in das RIPOL 
 - k.[^4-9] der Nachrichtendienst des Bundes (NDB) für Zwecke nach Artikel 15 Absatz 1 Buchstabe k BPI;
 - l. die Vollzugsstelle des Bundes für den Zivildienst[^4-10] für Zwecke nach Artikel 15 Absatz 1 Buchstabe a BPI;
 - m.[^4-11] …
+- n.[^4-12] fedpol als Verwaltungsstrafbehörde für Zwecke nach Artikel 15 Absatz 1 Buchstaben a und g BPI.
 
 <sup>2</sup>
 
 Folgende am RIPOL beteiligte Behörden können Ausschreibungen im Rahmen der gesetzlichen Aufgaben auch direkt in das RIPOL eingeben:
 
 - a. fedpol zur Bekämpfung des organisierten Verbrechens, für Fernhaltemassnahmen gegenüber Ausländern, welche die innere oder äussere Sicherheit gefährden, sowie auf Ersuchen einer Behörde des Auslandes, des Bundes oder der Kantone für Zwecke nach Artikel 15 Absatz 1 BPI;
+- a<sup>bis</sup>.[^4-13] fedpol als Verwaltungsstrafbehörde für Zwecke nach Artikel 15 Absatz 1 Buchstaben a und g BPI;
 - b. die Polizeibehörden der Kantone nach Artikel 15 Absatz 1 BPI;
 - c. die Strassenverkehrsämter für Kennzeichen;
-- d.[^4-12] …
+- d.[^4-14] …
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
@@ -122,7 +124,9 @@ Folgende am RIPOL beteiligte Behörden können Ausschreibungen im Rahmen der ges
 [^4-9]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-10]: Seit 1.1.2019: Bundesamt für Zivildienst.
 [^4-11]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2022, mit Wirkung seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^4-12]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2022, mit Wirkung seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^4-12]: Eingefügt durch Anhang 2 Ziff. 6 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^4-13]: Eingefügt durch Anhang 2 Ziff. 6 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^4-14]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2022, mit Wirkung seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 
 #### Art. 5
 
@@ -140,48 +144,58 @@ Die Zivilstandsämter sind verpflichtet, fedpol und den ausschreibenden Behörde
 
 Folgende Behörden können zur Erfüllung ihrer gesetzlichen Aufgaben Daten mittels Abrufverfahren direkt abfragen:
 
-- a. fedpol, die Bundesanwaltschaft, das BAZG sowie die Polizeibehörden der Kantone: nach Ausschreibungen von Personen und ungeklärten Straftaten;
+- a.[^6-1] die Bundesanwaltschaft, das BAZG sowie die Polizeibehörden der Kantone: nach Ausschreibungen von Personen und ungeklärten Straftaten;
+- a<sup>bis</sup>.[^6-2]
+
+  fedpol:
+
+  - 1\. als Verwaltungsstrafbehörde: nach Ausschreibungen von Personen und ungeklärten Straftaten,
+  - 2\. zur Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, zur Überprüfung dieser Bewilligungen und zur Bearbeitung von Verdachtsmeldungen nach dem Vorläuferstoffgesetz vom 25. September 2020[^6-3]: nach Ausschreibungen von Personen und Ausweisen;
+
 - b. die Schweizerischen Vertretungen im Ausland mit konsularischen Aufgaben: nach Ausschreibungen von Personen und Ausweisen;
 - c. das Bundesamt für Justiz, der Beschwerdedienst des Eidgenössischen Justiz- und Polizeidepartements (EJPD) und die Militärjustizbehörden: nach Ausschreibungen von Personen und Ausweisen;
 - d. das Staatssekretariat für Migration: nach Ausschreibungen von Personen und Ausweisen;
 - e. das Staatssekretariat für Wirtschaft (SECO), die kantonalen und kommunalen Arbeitsmarktbehörden sowie diejenigen kantonalen oder kommunalen Behörden, die ausländerrechtliche Aufgaben wahrnehmen, nach Ausschreibungen von Ausweisen und ausländischen Personen;
-- f.[^6-1] die Strassenverkehrs- und Schifffahrtsämter: nach Ausschreibungen von Fahrzeugen, Sachen und Ausweisen;
+- f.[^6-4] die Strassenverkehrs- und Schifffahrtsämter: nach Ausschreibungen von Fahrzeugen, Sachen und Ausweisen;
 - g. das Interpol-Generalsekretariat und die ausländischen Interpol-Stellen: nach Ausschreibungen von Fahrzeugen, Sachen und Ausweisen, mit Ausnahme der personenbezogenen Daten;
-- h. die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 4 Buchstabe c des Bundesgesetzes vom 21. März 1997[^6-2] über Massnahmen zur Wahrung der inneren Sicherheit: nach Ausschreibungen von Personen und Ausweisen;
-- i. die ausstellenden Behörden gemäss dem Ausweisgesetz vom 22. Juni 2001[^6-3]: nach Ausschreibungen von Personen und Ausweisen zur Abklärung allfälliger Verweigerungsgründe;
-- j.[^6-4] der NDB: nach Ausschreibungen von Personen, nach ungeklärten Straftaten zur Feststellung des Aufenthaltsorts von Personen und des Standorts von Fahrzeugen sowie zur verdeckten Registrierung, zur Ermittlungsanfrage oder zur gezielten Kontrolle von Personen und Fahrzeugen zur Abwehr von Bedrohungen für die öffentliche Sicherheit: nach dem Nachrichtendienstgesetz vom 25. September 2015[^6-5];
+- h. die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 4 Buchstabe c des Bundesgesetzes vom 21. März 1997[^6-5] über Massnahmen zur Wahrung der inneren Sicherheit: nach Ausschreibungen von Personen und Ausweisen;
+- i. die ausstellenden Behörden gemäss dem Ausweisgesetz vom 22. Juni 2001[^6-6]: nach Ausschreibungen von Personen und Ausweisen zur Abklärung allfälliger Verweigerungsgründe;
+- j.[^6-7] der NDB: nach Ausschreibungen von Personen, nach ungeklärten Straftaten zur Feststellung des Aufenthaltsorts von Personen und des Standorts von Fahrzeugen sowie zur verdeckten Registrierung, zur Ermittlungsanfrage oder zur gezielten Kontrolle von Personen und Fahrzeugen zur Abwehr von Bedrohungen für die öffentliche Sicherheit: nach dem Nachrichtendienstgesetz vom 25. September 2015[^6-8];
 - k. die Straf- und Massnahmenvollzugsbehörden: nach Ausschreibungen von Personen sowie ungeklärten Straftaten;
-- l. die Vollzugsstelle des Bundes für den Zivildienst[^6-6]: nach Ausschreibungen von Personen;
+- l. die Vollzugsstelle des Bundes für den Zivildienst[^6-9]: nach Ausschreibungen von Personen;
 - m. die Eidgenössische Spielbankenkommission: nach Ausschreibungen von Personen sowie ungeklärten Straftaten;
 - n die zentrale Inkassostelle der Finanzverwaltung: nach Ausschreibungen von Personen und Ausweisen zur Beurteilung der Uneinbringlichkeit von Forderungen und Verlustscheinen;
 - o. die Militärische Sicherheit (Mil Sich) bei Erfüllung kriminalpolizeilicher Tätigkeiten und Strassenverkehrskontrollen: nach Ausschreibungen von ungeklärten Straftaten;
 - p. die Konsularische Direktion nach Ausschreibungen von Personen;
 - q. Swissmedic, Abteilung Strafrecht: nach Ausschreibungen von Personen und Ausweisen;
-- r.[^6-7] die für den Vollzug von Landesverweisungen nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Schweizerischen Strafgesetzbuches[^6-8] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^6-9] zuständigen Behörden: nach Ausschreibungen von Personen;
-- s.[^6-10] das Protokoll EDA nach Ausschreibungen von Personen;
-- t.[^6-11] die ständige Mission der Schweiz beim Büro der Vereinten Nationen und den anderen internationalen Organisationen in Genf nach Ausschreibungen von Personen;
-- u.[^6-12] die Transportpolizei: nach Ausschreibungen von Personen und ungeklärten Straftaten.
-- v.[^6-13] das Bundesamt für Zivilluftfahrt BAZL: nach Ausschreibungen von Fahrzeugen und Sachen;
-- w.[^6-14] das SECO, die Zentralstelle Waffen (fedpol) und die kantonalen Waffenbüros: nach Ausschreibungen von Sachen und Personen;
-- x.[^6-15] die Einbürgerungs- und Migrationsbehörden der Kantone: nach Ausschreibungen von Personen.
+- r.[^6-10] die für den Vollzug von Landesverweisungen nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Schweizerischen Strafgesetzbuches[^6-11] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^6-12] zuständigen Behörden: nach Ausschreibungen von Personen;
+- s.[^6-13] das Protokoll EDA nach Ausschreibungen von Personen;
+- t.[^6-14] die ständige Mission der Schweiz beim Büro der Vereinten Nationen und den anderen internationalen Organisationen in Genf nach Ausschreibungen von Personen;
+- u.[^6-15] die Transportpolizei: nach Ausschreibungen von Personen und ungeklärten Straftaten.
+- v.[^6-16] das Bundesamt für Zivilluftfahrt BAZL: nach Ausschreibungen von Fahrzeugen und Sachen;
+- w.[^6-17] das SECO, die Zentralstelle Waffen (fedpol) und die kantonalen Waffenbüros: nach Ausschreibungen von Sachen und Personen;
+- x.[^6-18] die Einbürgerungs- und Migrationsbehörden der Kantone: nach Ausschreibungen von Personen.
 
 <sup>2</sup> Führt die Anfrage zu einem Treffer, so sind der abfragenden Behörde alle Informationen, die mit der Person oder mit der ungeklärten Straftat zusammenhängen, zu übermitteln.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-2]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-3]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^6-1]: Fassung gemäss Anhang 2 Ziff. 6 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^6-2]: Eingefügt durch Anhang 2 Ziff. 6 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^6-3]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 [^6-4]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-5]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^6-6]: Seit 1.1.2019: Bundesamt für Zivildienst.
-[^6-7]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-8]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^6-9]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^6-10]: Eingefügt durch Art. 17 Ziff. 1 der Ordipro-Verordnung vom 22. März 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^6-11]: Eingefügt durch Art. 17 Ziff. 1 der Ordipro-Verordnung vom 22. März 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^6-12]: Eingefügt durch Ziff. I 10 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-13]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
-[^6-14]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
-[^6-15]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-5]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-6]: [SR 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^6-7]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^6-8]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^6-9]: Seit 1.1.2019: Bundesamt für Zivildienst.
+[^6-10]: Eingefügt durch Ziff. I 11 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^6-11]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^6-12]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^6-13]: Eingefügt durch Art. 17 Ziff. 1 der Ordipro-Verordnung vom 22. März 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^6-14]: Eingefügt durch Art. 17 Ziff. 1 der Ordipro-Verordnung vom 22. März 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^6-15]: Eingefügt durch Ziff. I 10 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-16]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-17]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-18]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
 
 #### Art. 7
 

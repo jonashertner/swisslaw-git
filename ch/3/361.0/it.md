@@ -3,11 +3,11 @@ sr: "361.0"
 title: Ordinanza del 26 ottobre 2016 sul sistema di ricerca informatizzato di polizia (Ordinanza RIPOL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/665"
 language: it
-version: 2022-11-22
+version: 2023-01-01
 adopted: 2016-10-26
 in_force: 2016-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20221122-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20221122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/665/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-665-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/665/20221122/it"
 
 (Ordinanza RIPOL)
 
-del 26 ottobre 2016 (Stato 22 novembre 2022)
+del 26 ottobre 2016 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -101,15 +101,17 @@ Le autorità seguenti possono notificare a fedpol le segnalazioni in vista del l
 - k.[^4-9] il Servizio delle attività informative della Confederazione (SIC) per gli scopi di cui all’articolo 15 capoverso 1 lettera k LSIP;
 - l. l’organo federale incaricato dell’esecuzione del servizio civile[^4-10] per gli scopi di cui all’articolo 15 capoverso 1 lettera a LSIP;
 - m.[^4-11] ...
+- n.[^4-12] fedpol, in qualità di autorità penale amministrativa, per gli scopi di cui all’articolo 15 capoverso 1 lettere a e g LSIP.
 
 <sup>2</sup>
 
 Nell’ambito dei loro compiti legali, anche le seguenti autorità partecipanti al RIPOL possono inserire le segnalazioni direttamente nel RIPOL:
 
 - a. fedpol per la lotta contro la criminalità organizzata, per le misure di allontanamento nei confronti degli stranieri che mettono in pericolo la sicurezza interna o esterna della Svizzera nonché su richiesta di un’autorità estera o di un’autorità federale o cantonale per gli scopi di cui all’articolo 15 capoverso 1 LSIP;
+- a<sup>bis</sup>.[^4-13] fedpol, in qualità di autorità penale amministrativa, per gli scopi di cui all’articolo 15 capoverso 1 lettere a e g LSIP;
 - b. le autorità di polizia dei Cantoni in virtù dell’articolo 15 capoverso 1 LSIP;
 - c. gli uffici della circolazione stradale per le targhe di controllo;
-- d.[^4-12] ...
+- d.[^4-14] le autorità competenti per l’esecuzione dell’espulsione giudiziaria per gli scopi di cui all’articolo 15 capoverso 1 lettera d LSIP.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
@@ -122,7 +124,9 @@ Nell’ambito dei loro compiti legali, anche le seguenti autorità partecipanti 
 [^4-9]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
 [^4-10]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
 [^4-11]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Abrogata dal n. I dell’O del 19 ott. 2022, con effetto dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^4-12]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Abrogata dal n. I dell’O del 19 ott. 2022, con effetto dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^4-12]: Introdotta dall’all. 2 n. 6 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^4-13]: Introdotta dall’all. 2 n. 6 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^4-14]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 5
 
@@ -140,48 +144,58 @@ Gli uffici dello stato civile sono tenuti a fornire a fedpol e alle autorità pr
 
 Per svolgere i loro compiti legali, le autorità seguenti possono consultare direttamente i dati mediante procedura di richiamo:
 
-- a. fedpol, il Ministero pubblico della Confederazione, l’Ufficio federale della dogana e della sicurezza dei confini nonché le autorità di polizia dei Cantoni: in relazione a segnalazioni di persone e di reati non chiariti;
+- a.[^6-1] il Ministero pubblico della Confederazione, l’Ufficio federale della dogana e della sicurezza dei confini nonché le autorità di polizia dei Cantoni: in relazione a segnalazioni di persone e di reati non chiariti;
+- a<sup>bis</sup>.[^6-2]
+
+  fedpol:
+
+  - 1\. in qualità di autorità penale amministrativa: in relazione a segnalazioni di persone e di reati non chiariti,
+  - 2\. per trattare domande di autorizzazione di acquisto e di autorizzazione eccezionale concernenti i precursori di sostanze esplodenti, per verificare tali autorizzazioni e per trattare segnalazioni di eventi sospetti secondo la legge federale del 25 settembre 2020[^6-3] sui precursori di sostanze esplodenti: in relazione a segnalazioni di persone e di documenti d’identità;
+
 - b. le rappresentanze svizzere all’estero che adempiono compiti consolari: in relazione a segnalazioni di persone e di documenti d’identità;
 - c. l’Ufficio federale di giustizia, il Servizio dei ricorsi del Dipartimento federale di giustizia e polizia (DFGP) e le autorità della giustizia militare: in relazione a segnalazioni di persone e di documenti d’identità;
 - d. la Segreteria di Stato della migrazione: in relazione a segnalazioni di persone e di documenti d’identità;
 - e. la Segreteria di Stato dell’economia (SECO), le autorità cantonali e comunali preposte al mercato del lavoro nonché le autorità cantonali e comunali che adempiono compiti in materia di diritto degli stranieri: in relazione a segnalazioni di documenti d’identità e di persone straniere;
-- f.[^6-1] gli uffici della circolazione stradale e della navigazione: in relazione a segnalazioni di veicoli, di oggetti e di documenti d’identità;
+- f.[^6-4] gli uffici della circolazione stradale e della navigazione: in relazione a segnalazioni di veicoli, di oggetti e di documenti d’identità;
 - g. il Segretariato generale Interpol e i servizi esteri Interpol: in relazione a segnalazioni di veicoli, di oggetti e di documenti d’identità, ad eccezione dei dati relativi alle persone;
-- h. le autorità federali competenti per l’esecuzione dei controlli di sicurezza relativi alle persone ai sensi dell’articolo 2 capoverso 4 lettera c della legge federale del 21 marzo 1997[^6-2] sulle misure per la salvaguardia della sicurezza interna: in relazione a segnalazioni di persone e di documenti d’identità;
-- i. le autorità di rilascio secondo la legge del 22 giugno 2001[^6-3] sui documenti d’identità: in relazione a segnalazioni di persone e di documenti d’identità per verificare eventuali motivi di rifiuto;
-- j.[^6-4] il SIC: in relazione a segnalazioni di persone e di reati non chiariti per la ricerca del luogo di dimora di persone e per la ricerca di veicoli nonché per procedere alla sorveglianza discreta, al controllo d’indagine o al controllo mirato di persone e veicoli al fine di prevenire minacce alla sicurezza pubblica: secondo la legge federale del 25 settembre 2015[^6-5] sulle attività informative;
+- h. le autorità federali competenti per l’esecuzione dei controlli di sicurezza relativi alle persone ai sensi dell’articolo 2 capoverso 4 lettera c della legge federale del 21 marzo 1997[^6-5] sulle misure per la salvaguardia della sicurezza interna: in relazione a segnalazioni di persone e di documenti d’identità;
+- i. le autorità di rilascio secondo la legge del 22 giugno 2001[^6-6] sui documenti d’identità: in relazione a segnalazioni di persone e di documenti d’identità per verificare eventuali motivi di rifiuto;
+- j.[^6-7] il SIC: in relazione a segnalazioni di persone e di reati non chiariti per la ricerca del luogo di dimora di persone e per la ricerca di veicoli nonché per procedere alla sorveglianza discreta, al controllo d’indagine o al controllo mirato di persone e veicoli al fine di prevenire minacce alla sicurezza pubblica: secondo la legge federale del 25 settembre 2015[^6-8] sulle attività informative;
 - k. le autorità preposte all’esecuzione delle pene e delle misure: in relazione a segnalazioni di persone e di reati non chiariti;
-- l. l’organo federale incaricato dell’esecuzione del servizio civile[^6-6]: in relazione a segnalazioni di persone;
+- l. l’organo federale incaricato dell’esecuzione del servizio civile[^6-9]: in relazione a segnalazioni di persone;
 - m. la Commissione federale delle case da gioco: in relazione a segnalazioni di persone e di reati non chiariti;
 - n. il Servizio centrale d’incasso dell’Amministrazione delle finanze: in relazione a segnalazioni di persone e di documenti d’identità per valutare l’impossibilità di recuperare crediti e attestati di carenza di beni;
 - o. la Sicurezza militare (Sic mil) durante l’adempimento di attività di polizia giudiziaria e di controlli della circolazione stradale: in relazione a segnalazioni di reati non chiariti;
 - p. la Direzione consolare: in relazione a segnalazioni di persone;
 - q. Swissmedic, Divisione Diritto penale: in relazione a segnalazioni di persone e di documenti d’identità;
-- r.[^6-7] le autorità competenti per l’esecuzione dell’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^6-8] oppure 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^6-9]: in relazione a segnalazioni di persone;
-- s.[^6-10] il Protocollo DFAE: in relazione a segnalazioni di persone;
-- t.[^6-11] la Missione permanente della Svizzera presso l’Ufficio delle Nazioni Unite e le altre organizzazioni internazionali a Ginevra: in relazione a segnalazioni di persone;
-- u.[^6-12] a polizia dei trasporti: in relazione a segnalazioni di persone e di reati non chiariti;
-- v.[^6-13] l’Ufficio federale dell’aviazione civile (UFAC): in relazione a segnalazioni di veicoli e di oggetti;
-- w.[^6-14] la SECO, l’Ufficio centrale Armi di fedpol e gli uffici cantonali delle armi: in relazione a segnalazioni di oggetti e di persone;
-- x.[^6-15] le autorità cantonali in materia di naturalizzazione e migrazione: in relazione a segnalazioni di persone.
+- r.[^6-10] le autorità competenti per l’esecuzione dell’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale[^6-11] oppure 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^6-12]: in relazione a segnalazioni di persone;
+- s.[^6-13] il Protocollo DFAE: in relazione a segnalazioni di persone;
+- t.[^6-14] la Missione permanente della Svizzera presso l’Ufficio delle Nazioni Unite e le altre organizzazioni internazionali a Ginevra: in relazione a segnalazioni di persone;
+- u.[^6-15] a polizia dei trasporti: in relazione a segnalazioni di persone e di reati non chiariti;
+- v.[^6-16] l’Ufficio federale dell’aviazione civile (UFAC): in relazione a segnalazioni di veicoli e di oggetti;
+- w.[^6-17] la SECO, l’Ufficio centrale Armi di fedpol e gli uffici cantonali delle armi: in relazione a segnalazioni di oggetti e di persone;
+- x.[^6-18] le autorità cantonali in materia di naturalizzazione e migrazione: in relazione a segnalazioni di persone.
 
 <sup>2</sup> In caso di riscontro positivo, occorre trasmettere all’autorità che ha effettuato la consultazione tutte le informazioni correlate alla persona o al reato non chiarito.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-2]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^6-3]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^6-1]: Nuovo testo giusta l’all. 2 n. 6 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^6-2]: Introdotta dall’all. 2 n. 6 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^6-3]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 [^6-4]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-5]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^6-6]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
-[^6-7]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
-[^6-8]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^6-9]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^6-10]: Introdotta dall’art 17 n. 1 dell’O Ordipro del 22 mar. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^6-11]: Introdotta dall’art 17 n. 1 dell’O Ordipro del 22 mar. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
-[^6-12]: Introdotta dal n. I 10 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^6-13]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
-[^6-14]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
-[^6-15]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-5]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^6-6]: [RS 143.1](https://fedlex.data.admin.ch/eli/cc/2002/441)
+[^6-7]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^6-8]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^6-9]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
+[^6-10]: Introdotta dal n. I 11 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)). Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649)).
+[^6-11]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^6-12]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^6-13]: Introdotta dall’art 17 n. 1 dell’O Ordipro del 22 mar. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^6-14]: Introdotta dall’art 17 n. 1 dell’O Ordipro del 22 mar. 2019, in vigore dal 1° mag. 2019 ([RU 2019 1089](https://fedlex.data.admin.ch/eli/oc/2019/209)).
+[^6-15]: Introdotta dal n. I 10 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^6-16]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-17]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
+[^6-18]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 649](https://fedlex.data.admin.ch/eli/oc/2022/649), [675](https://fedlex.data.admin.ch/eli/oc/2022/675)).
 
 #### Art. 7
 
