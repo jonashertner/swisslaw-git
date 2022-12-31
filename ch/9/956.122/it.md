@@ -4,11 +4,11 @@ title: "Ordinanza del 15 ottobre 2008 sulla riscossione di emolumenti e tasse da
 short: Oem-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: it
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20210801/it/xml/fedlex-data-admin-ch-eli-cc-2008-749-20210801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-749-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/it"
 
 (Ordinanza sugli emolumenti e sulle tasse della FINMA, Oem-FINMA)
 
-del 15 ottobre 2008 (Stato 1° agosto 2021) (Stato 1° agosto 2021)
+del 15 ottobre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -36,8 +36,10 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. la riscossione degli emolumenti e delle tasse di vigilanza da parte della FINMA;
+- a.[^1-1] la riscossione degli emolumenti e delle tasse di vigilanza da parte dell’Autorità federale di vigilanza sui mercati finanziari (FINMA);
 - b. la costituzione di riserve da parte della FINMA.
+
+[^1-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 2
 
@@ -105,9 +107,12 @@ Per quanto possibile, la FINMA imputa i suoi costi direttamente agli ambiti di v
 
 - a. occasiona una decisione;
 - b. occasiona una procedura di vigilanza che si conclude senza una decisione o che viene archiviata;
+- b<sup>bis</sup>.[^5-1] in qualità di assoggettato alla vigilanza è oggetto di una verifica da parte della FINMA conformemente alle leggi sui mercati finanziari;
 - c. chiede una prestazione della FINMA.
 
 <sup>2</sup> Le autorità federali, cantonali e comunali non pagano emolumenti per le prestazioni fornite dalla FINMA nell’ambito dell’assistenza amministrativa e giudiziaria.
+
+[^5-1]: Introdotta dall’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 6
 
@@ -135,29 +140,34 @@ Sempreché la presente ordinanza non preveda una regolamentazione specifica, si 
 
 <sup>2</sup> La FINMA fissa gli emolumenti dovuti attenendosi alle tariffe quadro contenute nell’allegato, in funzione del tempo medio impiegato per svolgere operazioni analoghe e dell’importanza dell’affare per la persona assoggettata.
 
-<sup>3</sup> Per decisioni, procedure di vigilanza e prestazioni per le quali non è fissata alcuna aliquota nell’allegato, l’emolumento è calcolato in funzione del tempo impiegato e dell’importanza dell’affare per la persona assoggettata.
+<sup>3</sup> Per decisioni, procedure di vigilanza, verifiche e prestazioni per le quali non è fissata alcuna aliquota nell’allegato, l’emolumento è calcolato in funzione del tempo impiegato e dell’importanza dell’affare per la persona assoggettata.[^8-1]
 
 <sup>4</sup> La tariffa oraria prevista per gli emolumenti varia tra i 100 e i 500 franchi, a seconda della funzione che la persona incaricata del disbrigo dell’affare riveste in seno alla FINMA e dell’importanza dell’affare per la persona assoggettata.
 
-<sup>5</sup> Per decisioni o procedure di vigilanza che si rivelano di portata straordinaria o che presentano difficoltà particolari, l’emolumento può essere calcolato non secondo l’aliquota contenuta nell’allegato ma in funzione del tempo impiegato.
+<sup>5</sup> Per decisioni, procedure di vigilanza e verifiche che presentano una portata straordinaria o difficoltà particolari, l’emolumento può essere calcolato non secondo l’aliquota contenuta nell’allegato ma in funzione del tempo impiegato.[^8-2]
 
-<sup>6</sup> Per il rilascio di informazioni telefoniche la FINMA può predisporre servizi a valore aggiunto.[^8-1]
+<sup>6</sup> Per il rilascio di informazioni telefoniche la FINMA può predisporre servizi a valore aggiunto.[^8-3]
 
-[^8-1]: Introdotto dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^8-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^8-2]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^8-3]: Introdotto dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 9
 
-**Supplemento sugli emolumenti**
+**Supplemento sugli emolumenti**[^9-1]
 
-La FINMA può riscuotere un supplemento che può ammontare fino al 50 per cento dell’emolumento ordinario per decisioni, procedure di vigilanza e prestazioni che, a richiesta, emana, esegue o fornisce d’urgenza o all’infuori del normale orario di lavoro.
+La FINMA può riscuotere un supplemento che può ammontare fino al 50 per cento dell’emolumento ordinario per decisioni, procedure di vigilanza, verifiche e prestazioni che, a richiesta, emana, esegue o fornisce d’urgenza o all’infuori del normale orario di lavoro.
+
+[^9-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 10
 
-**Fatturazione e decisione relativa all’emolumento per le procedure di vigilanza**
+**Fatturazione e decisione relativa all’emolumento per verifiche e procedure di vigilanza**[^10-1]
 
-Nel caso in cui una procedura di vigilanza si concluda senza una decisione, la fatturazione e la decisione relativa all’emolumento sono rette dalle disposizioni sulle prestazioni conformemente all’articolo 11 dell’ordinanza generale dell’8 settembre 2004[^10-1] sugli emolumenti.
+Per le verifiche e le procedure di vigilanza che si concludono senza una decisione, la fatturazione e la decisione relativa all’emolumento sono rette dalle disposizioni sulle prestazioni conformemente all’articolo 11 dell’ordinanza generale dell’8 settembre 2004[^10-2] sugli emolumenti.
 
-[^10-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^10-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^10-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Capitolo 3: Tasse di vigilanza
 
@@ -194,7 +204,7 @@ Nel caso in cui una procedura di vigilanza si concluda senza una decisione, la f
 
 <sup>1</sup> L’assoggettamento inizia con il rilascio dell’autorizzazione, dell’abilitazione o del riconoscimento e termina con la loro revoca o con la liberazione dalla vigilanza.
 
-<sup>2</sup> Se l’assoggettamento non inizia o non termina contemporaneamente all’anno contabile, la tassa è dovuta *pro rata temp**o**ris*.
+<sup>2</sup> Se l’assoggettamento non inizia o non termina contemporaneamente all’anno contabile, la tassa è dovuta *pro rata temporis*.
 
 <sup>3</sup> Alla fine dell’assoggettamento, un diritto al rimborso in virtù del capoverso 2 sorge solo a partire da un importo di 1000 franchi.[^13-1]
 
@@ -224,7 +234,7 @@ Nel caso in cui una procedura di vigilanza si concluda senza una decisione, la f
 
 [^15-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-### Sezione 2:**** Grandi banche, altre banche e società di intermediazione mobiliare****
+### Sezione 2: Grandi banche, altre banche e società di intermediazione mobiliare
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -259,10 +269,14 @@ La tassa di base ammonta annualmente a:
 
 <sup>2</sup> Le centrali d’emissione di obbligazioni fondiarie sono assoggettate soltanto alla tassa di base.[^16-4]
 
+<sup>3</sup> La tassa di base annua di cui al capoverso 1 è aumentata di 3000 franchi per ciascun gestore patrimoniale o trustee per il quale la vigilanza continua è esercitata esclusivamente nell’ambito della vigilanza sul gruppo secondo l’articolo 83 capoverso 1 dell’ordinanza del 6 novembre 2019[^16-5] sugli istituti finanziari.[^16-6]
+
 [^16-1]: Nuovo testo giusta l’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2015 ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^16-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^16-3]: Abrogata dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, con effetto dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^16-4]: Nuovo testo giusta l’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^16-5]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^16-6]: Introdotto dall’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 17
 
@@ -281,10 +295,9 @@ La tassa di base ammonta annualmente a:
 
 <sup>1</sup> Per il calcolo della tassa complementare in funzione del totale di bilancio è determinante il totale di bilancio dell’assoggettato, così come riportato dal conto annuale approvato dell’anno che precede l’anno di assoggettamento.
 
-<sup>2</sup> Per il calcolo della tassa complementare in funzione della cifra d’affari realizzata con i valori mobiliari sono determinanti il numero delle transazioni e il volume totale dell’anno che precede l’anno di assoggettamento, che devono essere annunciati alle borse conformemente all’ordinanza della FINMA del 3 dicembre 2015[^18-1] sull’infrastruttura finanziaria.[^18-2]
+<sup>2</sup> Per il calcolo della tassa complementare in funzione della cifra d’affari realizzata con i valori patrimoniali è determinante il volume totale delle chiusure dell’anno che precede l’anno di assoggettamento che devono essere annunciate alle sedi di negoziazione.[^18-1]
 
-[^18-1]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
-[^18-2]: Nuovo testo giusta l’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^18-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 19
 
@@ -294,7 +307,7 @@ Le banche estere e i società di intermediazione mobiliare esteri sono assoggett
 
 [^19-1]: Nuovo testo giusta l’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
-### Sezione 2*a*:**** Infrastrutture del mercato finanziario
+### Sezione 2*a*: Infrastrutture del mercato finanziario
 
 [^chap3-sec2a-1]
 
@@ -389,7 +402,7 @@ Il ricavo lordo comprende tutti i ricavi ai sensi dell’articolo 959*b* del Cod
 
 [^19d-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Sezione 2*b*:**** Persone di cui all’articolo 1*b* LBCR
+### Sezione 2*b*: Persone di cui all’articolo 1*b* LBCR
 
 [^chap3-sec2b-1]
 
@@ -443,7 +456,7 @@ La tassa di base ammonta annualmente a:
 
 - c. 5000 franchi per le SICAV con gestione di terzi, le società in accomandita per investimenti collettivi di capitale e le società di investimento a capitale fisso (SICAF);
 - d. 5000 franchi per rappresentanti di investimenti collettivi di capitale esteri;
-- e.[^20-1] 750 franchi per investimenti collettivi di capitale svizzeri ed esteri per ciascun investimento collettivo di capitale mono-comparto o per ciascun segmento patrimoniale;
+- e.[^20-1] 600 franchi per investimenti collettivi di capitale svizzeri ed esteri per ciascun investimento collettivo di capitale mono-comparto o per ciascun segmento patrimoniale;
 - f.[^20-2] ...
 - g.[^20-3]
 
@@ -468,7 +481,7 @@ La tassa di base per gli investimenti collettivi di capitale svizzeri è versata
 
 <sup>4</sup> Il ricavo lordo comprende tutti i ricavi ai sensi dell’articolo 959*b* del Codice delle obbligazioni[^20-6].[^20-7]
 
-[^20-1]: Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-1]: Nuovo testo giusta l’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20-2]: Abrogata dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-3]: Nuovo testo giusta l’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
@@ -648,7 +661,7 @@ Il ricavo lordo comprende tutti i ricavi ai sensi dell’articolo 959*b* del Cod
 [^31-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^31-4]: Introdotta dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### Sezione 6*a*:**** Organismi di vigilanza secondo il titolo terzo LFINMA
+### Sezione 6*a*: Organismi di vigilanza secondo il titolo terzo LFINMA
 
 [^chap3-sec6a-1]
 
@@ -707,7 +720,7 @@ Sono abrogate:
 
 <sup>2</sup> ...[^38-3]
 
-[^38-1]: [[RU 1997 38](https://fedlex.data.admin.ch/eli/oc/1997/38_38_38), [2003 3701](https://fedlex.data.admin.ch/eli/oc/2003/526), [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)all. 7 n. 3 [5343](https://fedlex.data.admin.ch/eli/oc/2006/812)]
+[^38-1]: [[RU 1997 38](https://fedlex.data.admin.ch/eli/oc/1997/38_38_38); [2003 3701](https://fedlex.data.admin.ch/eli/oc/2003/526); [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)all. 7 n. 3, [5343](https://fedlex.data.admin.ch/eli/oc/2006/812)]
 [^38-2]: [[RU 2005 5047](https://fedlex.data.admin.ch/eli/oc/2005/704)]
 [^38-3]: La mod. può essere consultata alla [RU 2008 5343](https://fedlex.data.admin.ch/eli/oc/2008/749).
 
@@ -748,76 +761,77 @@ La FINMA esamina le tasse di base di cui all’articolo 19*a* capoverso 1 letter
 
 La presente ordinanza entra in vigore il 1° gennaio 2009.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 7 cpv. 2 e 8 cpv. 1)
 
 ## Tariffe quadro ed esborsi
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 21 nov. 2012 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Aggiornato dall’all. n. 1 dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), dall’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)) e dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 21 nov. 2012 ([RU 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Aggiornato dall’all. n. 1 dell’O del 13 feb. 2013 ([RU 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), dall’all. n. 5 dell’O del 5 nov. 2014 sugli audit dei mercati finanziari ([RU 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), dall’all. 1 n. 13 dell’O del 25 nov. 2015 sull’infrastruttura finanziaria ([RU 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)), dall’all. 1 n. II 13 dell’O del 6 nov. 2019 sugli istituti finanziari ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)) e dall’all. n. 4 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
-<tr><th colspan="2"></th><th>in franchi</th></tr>
-<tr><td colspan="2">1 Ambito delle banche e delle società di intermediazione mobiliare</td><td></td></tr>
-<tr><td colspan="2">1.1 Decisione concernente il conferimento di un’autorizzazione in quanto banca o società di intermediazione mobiliare (art. 2 e 3 LBCR[^annexu1-lvlu1-1]; art. 5 e 41 segg. LIsFi[^annexu1-lvlu1-2]<sup>)</sup></td><td colspan="2">10 000–100 000</td></tr>
-<tr><td colspan="2">1.2 Decisione concernente il conferimento di un’autorizzazione complementare per banche o società di intermediazione mobiliare e decisione concernente una partecipazione qualificata (art. 3 cpv. 5 e 3<sup>ter</sup> LBCR; art. 8 e 11 cpv. 5 LIsFi)</td><td colspan="2">3 000–30 000</td></tr>
-<tr><td colspan="2">1.3 Decisione concernente il riconoscimento di un’agenzia di rating (art. 6 cpv. 1 dell’ordinanza del 1° giu. 2012[^annexu1-lvlu1-3] sui fondi propri, OFoP)</td><td>5 000–30 000</td></tr>
-<tr><td colspan="2">1.4 Decisione concernente il ritiro del riconoscimento di un’agenzia di rating (art. 6 cpv. 3 OFoP)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">1.5 ...</td><td></td></tr>
-<tr><td colspan="2">1.6 Decisione concernente la modifica di statuti, contratti di società o regolamenti di una banca o di una società di intermediazione mobiliare (art. 3 cpv. 3 LBCR; art. 8 LIsFi)</td><td colspan="2">500–10 000</td></tr>
-<tr><td colspan="2">1.6*a* Decisione concernente l’autorizzazione di un mutamento di grande importanza per banche o società di intermediazione mobiliare (art. 8*a* cpv. 2 OBCR[^annexu1-lvlu1-4]; art. 8 cpv. 2 LIsFi)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">1.7 Decisione in relazione a richieste di decisione preliminare, di deroghe o di agevolazioni in merito alla pubblicità delle partecipazioni secondo gli articoli 120 segg. della legge del 19 giugno 2015[^annexu1-lvlu1-5] sull’infrastruttura finanziaria</td><td colspan="2">3 000–30 000</td></tr>
-<tr><td colspan="2">1.8 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA) per rappresentanze di banche estere e società di intermediazione mobiliare esteri</td><td colspan="2">500–1 000</td></tr>
-<tr><td colspan="2">1.9 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA) per banche, società di intermediazione mobiliare nonché succursali di banche estere e di società di intermediazione mobiliare esteri</td><td colspan="2">3 000–30 000</td></tr>
-<tr><td colspan="2">1.10 Comunicazione della prevista istituzione di una presenza o dell’avvio di un’attività all’estero (art. 3 cpv. 7 LBCR e art. 20 OBCR; art. 15 LIsFi)</td><td colspan="2">3 000–30 000</td></tr>
-<tr><td colspan="2">2 Ambito degli investimenti collettivi di capitale</td><td></td></tr>
-<tr><td colspan="2">2.1 Decisione concernente il conferimento di un’autorizzazione in quanto direzione di fondo, gestore di patrimoni collettivi o banca depositaria (art. 5, 24 segg. e 32 segg. LIsFi; art. 13 LICol[^annexu1-lvlu1-6])</td><td>4 000–50 000</td></tr>
-<tr><td colspan="2">2.1*a* Decisione concernente il conferimento di un’autorizzazione in quanto SICAV, società in accomandita per investimenti collettivi di capitale o SICAF (art. 13 LICol)</td><td>4 000–30 000</td></tr>
-<tr><td colspan="2">2.2 Decisione concernente il conferimento di un’autorizzazione in quanto rappresentante di investimenti collettivi di capitale esteri (art. 13 LICol)</td><td>2000–20 000</td></tr>
-<tr><td colspan="2">2.3 Decisione concernente l’approvazione della modifica dei documenti organizzativi (statuti, regolamento di organizzazione, regolamento di investimento, contratto della società) della direzione di un fondo, SICAV, società in accomandita per investimenti collettivi di capitale, SICAF, gestore di patrimoni collettivi o di un rappresentante di investimenti collettivi di capitale esteri (art. 15 cpv. 1 e 16 LICol; art. 8 LIsFi)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">2.4 Decisione concernente l’approvazione del contratto del fondo o degli statuti e del regolamento di investimento o del contratto di società di investimenti collettivi di capitale aperti o chiusi (fondi di investimento, SICAV, SICAF, società in accomandita per investimenti collettivi di capitale) per ciascun investimento collettivo di capitale mono-comparto o per ciascun segmento patrimoniale (art. 15 cpv. 1 lett. a–d e cpv. 2 LICol)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">2.5 Decisione concernente l’approvazione della modifica del contratto del fondo o degli statuti e del regolamento di investimento o del contratto di società di investimenti collettivi di capitale aperti o chiusi (art. 16 e 27 LICol)</td><td>1 000–10 000</td></tr>
-<tr><td colspan="2">2.6 Decisione concernente l’approvazione dell’offerta di un investimento collettivo di capitale estero a investitori non qualificati per ciascun investimento collettivo di capitale mono-comparto o per ciascun segmento patrimoniale (art. 15 cpv. 1 lett. e in comb. disp. con art. 120 LICol)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">2.7 Decisione concernente l’accertamento della legalità della modifica dei documenti di un investimento collettivo di capitale estero (art. 15 cpv. 1 lett. e LICol)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">2.8 ...</td><td></td></tr>
-<tr><td colspan="2">2.9 Decisione concernente l’approvazione dell’attribuzione di mandati a periti incaricati delle stime di fondi immobiliari (art. 64 LICol)</td><td>1 000–5 000</td></tr>
-<tr><td colspan="2">2.10 ...</td><td></td></tr>
-<tr><td colspan="2">2.11 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA)</td><td>2 000–5 000</td></tr>
-<tr><td colspan="2">3 Ambito delle imprese di assicurazione</td><td></td></tr>
-<tr><td colspan="2">3.1 Decisione concernente il rilascio dell’autorizzazione ad avviare l’attività assicurativa (art. 3 cpv. 1 e 4 LSA[^annexu1-lvlu1-7])</td><td>5 000–50 000</td></tr>
-<tr><td colspan="2">3.2 Decisione concernente il conferimento dell’autorizzazione a esercitare l’attività in un ulteriore ramo assicurativo (art. 3 cpv. 1 e 4 LSA)</td><td>2 000–10 000</td></tr>
-<tr><td colspan="2">3.3 Decisione concernente l’approvazione di tariffe e condizioni generali d’assicurazione (art. 4 cpv. 2 lett. r LSA)</td><td>1 000–12 000</td></tr>
-<tr><td colspan="2">3.4 Decisione concernente l’approvazione di valori di liquidazione nell’assicurazione sulla vita al di fuori della previdenza professionale, per valore di liquidazione (art. 91 cpv. 2 della legge del 2 apr. 1908[^annexu1-lvlu1-8] sul contratto d’assicurazione, LCA e art. 127 OS[^annexu1-lvlu1-9])</td><td>500–5 000</td></tr>
-<tr><td colspan="2">3.5 Decisione concernente l’approvazione di valori di liquidazione nella previdenza professionale (art. 91 cpv. 2 LCA e art. 127 OS)</td><td>1 000–12 000</td></tr>
-<tr><td colspan="2">3.6 Decisione concernente le partecipazioni e i trasferimenti nonché le modifiche del piano d’esercizio in relazione con tali transazioni (art. 3 cpv. 2, 4 cpv. 2, 21 e 62 LSA)</td><td>5 000–50 000</td></tr>
-<tr><td colspan="2">3.7 Decisioni concernenti altre modifiche del piano d’esercizio e modifiche nell’attività e nell’organizzazione (art. 4 cpv. 2, 11 cpv. 2 e 27 cpv. 2 LSA; art. 11 cpv. 1, 13 cpv. 2, 19 cpv. 2 e 99 cpv. 2 OS)</td><td>500–12 500</td></tr>
-<tr><td colspan="2">3.8 Decisioni in relazione al patrimonio vincolato e alle disposizioni sugli investimenti (art. 70–95 OS)</td><td>500–12 500</td></tr>
-<tr><td colspan="2">3.9 Controlli in loco e ispezioni su ordine delle imprese di assicurazione (art. 47 cpv. 1 LSA)</td><td>5 000–50 000</td></tr>
-<tr><td colspan="2">3.10 Provvedimenti conservativi (art. 51 segg. LSA)</td><td>1 000–10 000</td></tr>
-<tr><td colspan="2">3.11 Decisione in relazione alla cessazione volontaria dell’attività dell’azienda (art. 60 LSA)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">3.12 Attestazioni di solvibilità e altre attestazioni (art. 1 LSA)</td><td>300–1 000</td></tr>
-<tr><td colspan="2">3.13 ...</td><td></td></tr>
-<tr><td colspan="2">3.14 Verifiche speciali dei rapporti annuali (art. 25 LSA)</td><td>1 000–10 000</td></tr>
-<tr><td colspan="2">4 Ambito degli intermediari assicurativi</td><td></td></tr>
-<tr><td colspan="2">4.1 Iscrizione nel registro degli intermediari assicurativi, per persona fisica (art. 43 cpv. 1 LSA)</td><td>300–3 000</td></tr>
-<tr><td colspan="2">4.2 Iscrizione nel registro degli intermediari assicurativi, per persona giuridica (art. 43 cpv. 1 LSA)</td><td>300–3 000</td></tr>
-<tr><td colspan="2">4.3 Intervento in caso di attività d’intermediazione proibite (art. 41 e 51 cpv. 2 lett. g LSA; Acc. del 19 dic. 1996[^annexu1-lvlu1-10] con il Liechtenstein concernente l’assicurazione diretta e l’intermediazione assicurativa)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">4.4 Controlli in loco e ispezioni (art. 47 cpv. 1 LSA)</td><td>2 000–30 000</td></tr>
-<tr><td colspan="2">5 Ambito degli organismi di autodisciplina</td><td></td></tr>
-<tr><td colspan="2">5.1 Procedura di riconoscimento (art. 18 cpv. 1 lett. a e art. 24 segg. LRD[^annexu1-lvlu1-11])</td><td>9 000–20 000</td></tr>
-<tr><td colspan="2">5.2 Mutazioni (art. 24 e 25 LRD)</td><td>200–10 000</td></tr>
-<tr><td colspan="2">5.3 ...</td><td></td></tr>
-<tr><td colspan="2">5.4 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA)</td><td>500–5 000</td></tr>
-<tr><td colspan="2">6 Ambito degli organismi di vigilanza secondo il titolo terzo LFINMA**[^annexu1-lvlu1-12]**</td><td></td></tr>
-<tr><td colspan="2">6.1 Decisione concernente il conferimento di un’autorizzazione in quanto gestore patrimoniale o trustee (art. 5 e 17 segg. LIsFi)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">6.2 Decisione concernente l’autorizzazione di un mutamento di grande importanza in seno a gestori patrimoniali o trustee (art. 8 cpv. 2 LIsFi)</td><td>200–4 000</td></tr>
-<tr><td colspan="2">6.3 Procedura in relazione alla cessazione volontaria dell’attività di gestore patrimoniale o trustee</td><td>500–5 000</td></tr>
-<tr><td colspan="2">7 ...</td><td></td></tr>
-<tr><td colspan="2">8 Emolumenti generali</td><td></td></tr>
-<tr><td colspan="2">8.1 Decisione concernente una richiesta secondo gli articoli 42 o 43 LFINMA</td><td colspan="2">3 000–15 000</td></tr>
-<tr><td colspan="2">8.2 Tassa per il riconoscimento di decreti d’insolvenza esteri</td><td colspan="2">3 000–10 000</td></tr>
-<tr><td colspan="2">9 Esborsi</td><td></td></tr>
-<tr><td colspan="2">9.1 I costi per le fotocopie ammontano a 50 centesimi per pagina</td><td colspan="2"></td></tr>
+<tr><th colspan="3"></th><th colspan="2">in franchi</th></tr>
+<tr><td colspan="3">1 Ambito delle banche e delle società di intermediazione mobiliare</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1.1 Decisione concernente il conferimento di un’autorizzazione in quanto banca o società di intermediazione mobiliare oppure in quanto succursale di una banca estera o una società di intermediazione mobiliare estera (art. 2 e 3 LBCR[^annexu1-lvlu1-1]; art. 5 e 41–51 della legge del 15 giugno 2018[^annexu1-lvlu1-2] sugli istituti finanziari [LIsFi])</td><td colspan="3">10 000–100 000</td></tr>
+<tr><td colspan="2">1.1*a* Decisione concernente il conferimento di un’autorizzazione in quanto rappresentanza di banche o società di intermediazione mobiliare estere (art. 2 LBCR; art. 58 LIsFi)</td><td colspan="3">5 000–30 000</td></tr>
+<tr><td colspan="2">1.2 Decisione concernente il conferimento di un’autorizzazione complementare per banche o società di intermediazione mobiliare e decisione concernente una partecipazione qualificata (art. 3 cpv. 5 e 3<sup>ter</sup> LBCR; art. 8 e 11 cpv. 5 LIsFi)</td><td colspan="3">1 000–30 000</td></tr>
+<tr><td colspan="2">1.3 Decisione concernente il riconoscimento di un’agenzia di rating (art. 6 cpv. 1 dell’ordinanza del 1° giu. 2012[^annexu1-lvlu1-3] sui fondi propri, OFoP)</td><td colspan="2">5 000–30 000</td></tr>
+<tr><td colspan="2">1.4 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1.5 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1.6 Decisione concernente la modifica di statuti, contratti di società o regolamenti di una banca o di una società di intermediazione mobiliare (art. 3 cpv. 3 LBCR; art. 8 LIsFi)</td><td colspan="3">500–10 000</td></tr>
+<tr><td colspan="2">1.6*a* Decisione concernente l’autorizzazione di un mutamento di grande importanza per banche o società di intermediazione mobiliare (art. 8*a* cpv. 2 OBCR[^annexu1-lvlu1-4]; art. 8 cpv. 2 LisFi)</td><td colspan="2">200–4 000</td></tr>
+<tr><td colspan="2">1.7 Decisione in relazione a richieste di decisione preliminare, di deroghe o di agevolazioni in merito alla pubblicità delle partecipazioni secondo gli articoli 120 segg. della legge del 19 giugno 2015[^annexu1-lvlu1-5] sull’infrastruttura finanziaria</td><td colspan="3">3 000–30 000</td></tr>
+<tr><td colspan="2">1.8 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA) per rappresentanze di banche estere e società di intermediazione mobiliare esteri</td><td colspan="3">500–1 000</td></tr>
+<tr><td colspan="2">1.9 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA) per banche, società di intermediazione mobiliare nonché succursali di banche estere e di società di intermediazione mobiliare esteri</td><td colspan="3">3 000–30 000</td></tr>
+<tr><td colspan="2">1.10 Comunicazione della prevista istituzione di una presenza o dell’avvio di un’attività all’estero (art. 3 cpv. 7 LBCR e art. 20 OBCR; art. 15 LIsFi)</td><td colspan="3">1 000–30 000</td></tr>
+<tr><td colspan="2">2 Ambito degli investimenti collettivi di capitale</td><td colspan="2"></td></tr>
+<tr><td colspan="2">2.1 Decisione concernente il conferimento di un’autorizzazione in quanto direzione di fondo, gestore di patrimoni collettivi o banca depositaria (art. 5, 24 segg. e 32 segg. LIsFi; art. 13 LICol[^annexu1-lvlu1-6])</td><td colspan="2">4 000–50 000</td></tr>
+<tr><td colspan="2">2.1*a* Decisione concernente il conferimento di un’autorizzazione in quanto SICAV, società in accomandita per investimenti collettivi di capitale o SICAF (art. 13 LICol)</td><td colspan="2">4 000–30 000</td></tr>
+<tr><td colspan="2">2.2 Decisione concernente il conferimento di un’autorizzazione in quanto rappresentante di investimenti collettivi di capitale esteri (art. 13 LICol)</td><td colspan="2">2000–20 000</td></tr>
+<tr><td colspan="2">2.3 Decisione concernente l’approvazione della modifica dei documenti organizzativi (statuti, regolamento di organizzazione, regolamento di investimento, contratto della società) della direzione di un fondo, SICAV, società in accomandita per investimenti collettivi di capitale, SICAF, gestore di patrimoni collettivi o di un rappresentante di investimenti collettivi di capitale esteri (art. 15 cpv. 1 e 16 LICol; art. 8 LIsFi)</td><td colspan="2">500–10 000</td></tr>
+<tr><td colspan="2">2.4 Decisione concernente l’approvazione del contratto del fondo o degli statuti e del regolamento di investimento o del contratto di società di investimenti collettivi di capitale aperti o chiusi (art. 15 cpv. 1 lett. a–d e 2 LICol)</td><td colspan="2">1 000–10 000</td></tr>
+<tr><td colspan="2">2.5 Decisione concernente l’approvazione della modifica del contratto del fondo o degli statuti e del regolamento di investimento o del contratto di società di investimenti collettivi di capitale aperti o chiusi (art. 16 e 27 LICol)</td><td colspan="2">500–5 000</td></tr>
+<tr><td colspan="2">2.6 Decisione concernente l’approvazione dell’offerta di un investimento collettivo di capitale estero a investitori non qualificati (art. 15 cpv. 1 lett. e in combinato disposto con art. 120 LICol)</td><td colspan="2">1 000–10 000</td></tr>
+<tr><td colspan="2">2.7 Decisione concernente l’accertamento della legalità della modifica dei documenti di un investimento collettivo di capitale estero (art. 15 cpv. 1 lett. e LICol)</td><td colspan="2">300–5 000</td></tr>
+<tr><td colspan="2">2.8 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">2.9 Decisione concernente l’approvazione dell’attribuzione di mandati a periti incaricati delle stime di fondi immobiliari (art. 64 LICol)</td><td colspan="2">1 000–5 000</td></tr>
+<tr><td colspan="2">2.10 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">2.11 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA)</td><td colspan="2">1 000–5 000</td></tr>
+<tr><td colspan="2">3 Ambito delle imprese di assicurazione</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3.1 Decisione concernente il rilascio dell’autorizzazione ad avviare l’attività assicurativa (art. 3 cpv. 1 e 4 LSA[^annexu1-lvlu1-7])</td><td colspan="2">5 000–50 000</td></tr>
+<tr><td colspan="2">3.2 Decisione concernente il conferimento dell’autorizzazione a esercitare l’attività in un ulteriore ramo assicurativo (art. 3 cpv. 1 e 4 LSA)</td><td colspan="2">2 000–10 000</td></tr>
+<tr><td colspan="2">3.3 Decisione concernente l’approvazione di tariffe e condizioni generali d’assicurazione (art. 4 cpv. 2 lett. r LSA)</td><td colspan="2">1 000–12 000</td></tr>
+<tr><td colspan="2">3.4 Decisione concernente l’approvazione di valori di liquidazione nell’assicurazione sulla vita al di fuori della previdenza professionale, per valore di liquidazione (art. 91 cpv. 2 della legge del 2 apr. 1908[^annexu1-lvlu1-8] sul contratto d’assicurazione, LCA e art. 127 OS[^annexu1-lvlu1-9])</td><td colspan="2">500–5 000</td></tr>
+<tr><td colspan="2">3.5 Decisione concernente l’approvazione di valori di liquidazione nella previdenza professionale (art. 91 cpv. 2 LCA e art. 127 OS)</td><td colspan="2">1 000–12 000</td></tr>
+<tr><td colspan="2">3.6 Decisione concernente le partecipazioni e i trasferimenti nonché le modifiche del piano d’esercizio in relazione con tali transazioni (art. 3 cpv. 2, 4 cpv. 2, 21 e 62 LSA)</td><td colspan="2">5 000–50 000</td></tr>
+<tr><td colspan="2">3.7 Decisioni concernenti altre modifiche del piano d’esercizio e modifiche nell’attività e nell’organizzazione (art. 4 cpv. 2, 11 cpv. 2 e 27 cpv. 2 LSA; art. 11 cpv. 1, 13 cpv. 2, 19 cpv. 2 e 99 cpv. 2 OS)</td><td colspan="2">500–12 500</td></tr>
+<tr><td colspan="2">3.8 Decisioni in relazione al patrimonio vincolato e alle disposizioni sugli investimenti (art. 70–95 OS)</td><td colspan="2">500–12 500</td></tr>
+<tr><td colspan="2">3.9 Controlli in loco e ispezioni su ordine delle imprese di assicurazione (art. 47 cpv. 1 LSA)</td><td colspan="2">5 000–50 000</td></tr>
+<tr><td colspan="2">3.10 Provvedimenti conservativi (art. 51 segg. LSA)</td><td colspan="2">1 000–10 000</td></tr>
+<tr><td colspan="2">3.11 Decisione in relazione alla cessazione volontaria dell’attività dell’azienda (art. 60 LSA)</td><td colspan="2">500–10 000</td></tr>
+<tr><td colspan="2">3.12 Attestazioni di solvibilità e altre attestazioni (art. 1 LSA)</td><td colspan="2">300–1 000</td></tr>
+<tr><td colspan="2">3.13 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">3.14 Verifiche speciali dei rapporti annuali (art. 25 LSA)</td><td colspan="2">1 000–10 000</td></tr>
+<tr><td colspan="2">4 Ambito degli intermediari assicurativi</td><td colspan="2"></td></tr>
+<tr><td colspan="2">4.1 Iscrizione nel registro degli intermediari assicurativi, per persona fisica (art. 43 cpv. 1 LSA)</td><td colspan="2">300–3 000</td></tr>
+<tr><td colspan="2">4.2 Iscrizione nel registro degli intermediari assicurativi, per persona giuridica (art. 43 cpv. 1 LSA)</td><td colspan="2">300–3 000</td></tr>
+<tr><td colspan="2">4.3 Intervento in caso di attività d’intermediazione proibite (art. 41 e 51 cpv. 2 lett. g LSA; Acc. del 19 dic. 1996[^annexu1-lvlu1-10] con il Liechtenstein concernente l’assicurazione diretta e l’intermediazione assicurativa)</td><td colspan="2">500–10 000</td></tr>
+<tr><td colspan="2">4.4 Controlli in loco e ispezioni (art. 47 cpv. 1 LSA)</td><td colspan="2">2 000–30 000</td></tr>
+<tr><td colspan="2">5 Ambito degli organismi di autodisciplina</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5.1 Procedura di riconoscimento (art. 18 cpv. 1 lett. a e art. 24 segg. LRD[^annexu1-lvlu1-11])</td><td colspan="2">9 000–20 000</td></tr>
+<tr><td colspan="2">5.2 Mutazioni (art. 24 e 25 LRD)</td><td colspan="2">200–10 000</td></tr>
+<tr><td colspan="2">5.3 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5.4 Procedura in relazione alla cessazione volontaria dell’attività dell’azienda (art. 37 LFINMA)</td><td colspan="2">500–5 000</td></tr>
+<tr><td colspan="2">6 Ambito degli organismi di vigilanza secondo il titolo terzo LFINMA[^annexu1-lvlu1-12]</td><td colspan="2"></td></tr>
+<tr><td colspan="2">6.1 Decisione concernente il conferimento di un’autorizzazione in quanto gestore patrimoniale o trustee (art. 5 e 17 segg. LIsFi)</td><td colspan="2">2 000–20 000</td></tr>
+<tr><td colspan="2">6.2 Decisione concernente l’autorizzazione di un mutamento di grande importanza in seno a gestori patrimoniali o trustee (art. 8 cpv. 2 LIsFi)</td><td colspan="2">200–4 000</td></tr>
+<tr><td colspan="2">6.3 Procedura in relazione alla cessazione volontaria dell’attività di gestore patrimoniale o trustee</td><td colspan="2">500–5 000</td></tr>
+<tr><td colspan="2">7 ...</td><td colspan="2"></td></tr>
+<tr><td colspan="2">8 Emolumenti generali</td><td colspan="2"></td></tr>
+<tr><td colspan="2">8.1 Decisione concernente una richiesta secondo gli articoli 42 o 43 LFINMA</td><td colspan="3">3 000–15 000</td></tr>
+<tr><td colspan="2">8.2 Tassa per il riconoscimento di decreti d’insolvenza esteri</td><td colspan="3">3 000–10 000</td></tr>
+<tr><td colspan="2">9 Esborsi</td><td colspan="2"></td></tr>
+<tr><td colspan="2">9.1 I costi per le fotocopie ammontano a 50 centesimi per pagina</td><td colspan="3"></td></tr>
 </table>
 
 [^annexu1-lvlu1-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)

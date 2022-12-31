@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Oktober 2008 über die Erhebung von Gebühren und Abg
 short: FINMA-GebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20210801/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20210801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-749-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/de"
 
 (FINMA-Gebühren- und Abgabenverordnung, FINMA-GebV)
 
-vom 15. Oktober 2008 (Stand am 1. August 2021)
+vom 15. Oktober 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -36,8 +36,10 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. die Erhebung der Gebühren und Aufsichtsabgaben durch die FINMA;
+- a.[^1-1] die Erhebung der Gebühren und Aufsichtsabgaben durch die Eidgenössische Finanzmarktaufsicht (FINMA);
 - b. die Bildung von Reserven durch die FINMA.
+
+[^1-1]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 2
 
@@ -58,7 +60,7 @@ Die FINMA ordnet ihre Kosten so weit als möglich folgenden Aufsichtsbereichen d
 
 - a.[^3-2] dem Bereich der Grossbanken und der mit ihnen als Finanzgruppe verbundenen Gesellschaften (Art. 15 Abs. 2 Bst. a FINMAG);
 - a<sup>bis</sup>.[^3-3] dem Bereich der übrigen Banken und Wertpapierhäuser[^3-4] (Art. 15 Abs. 2 Bst. a FINMAG);
-- a<sup>ter</sup><sup>ter</sup>.[^3-5] ...
+- a<sup>ter</sup><sup>ter</sup>.[^3-5] …
 - a<sup>quater</sup>.[^3-6] dem Bereich der Handelsplätze und der Handelssysteme für Distributed Ledger Technology-Effekten (DLT-Handelssysteme) (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
 - a<sup>quinquies</sup>.[^3-7] dem Bereich der zentralen Gegenparteien, Zentralverwahrer, Transaktionsregister und Zahlungssysteme (Art. 15 Abs. 2 Bst. a<sup>ter</sup> FINMAG);
 - a<sup>sexies</sup>.[^3-8] dem Bereich der Personen nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^3-9] (BankG);
@@ -66,8 +68,8 @@ Die FINMA ordnet ihre Kosten so weit als möglich folgenden Aufsichtsbereichen d
 - c. dem Bereich der Versicherungsunternehmen (Art. 15 Abs. 2 Bst. c FINMAG);
 - d. dem Bereich der ungebundenen Versicherungsvermittlerinnen und Versicherungsvermittler (Art. 15 Abs. 2 Bst. c FINMAG);
 - e. dem Bereich der Selbstregulierungsorganisationen (Art. 15 Abs. 2 Bst. d FINMAG); und
-- f.[^3-11] ...
-- g.[^3-12] ...
+- f.[^3-11] …
+- g.[^3-12] …
 - h.[^3-13] dem Bereich der Aufsichtsorganisationen nach dem 3. Titel des FINMAG (Art. 15 Abs. 2 Bst. e FINMAG).
 
 <sup>2</sup> Sie teilt die Strukturkosten im Verhältnis der direkt zugeordneten Kosten auf die Aufsichtsbereiche auf.
@@ -106,9 +108,12 @@ Gebührenpflichtig ist, wer:
 
 - a. eine Verfügung veranlasst;
 - b. ein Aufsichtsverfahren veranlasst, das nicht mit einer Verfügung endet oder das eingestellt wird;
+- b<sup>bis</sup>.[^5-1] als Beaufsichtigte oder Beaufsichtigter nach Massgabe der Finanzmarktgesetze durch die FINMA geprüft wird;
 - c. eine Dienstleistung der FINMA beansprucht.
 
 <sup>2</sup> Keine Gebühren bezahlen Bundes-, Kantons- und Gemeindebehörden für Leistungen der FINMA im Bereich der Amts- und Rechtshilfe.
+
+[^5-1]: Eingefügt durch Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 6
 
@@ -136,29 +141,34 @@ Soweit die vorliegende Verordnung keine besondere Regelung enthält, gelten die 
 
 <sup>2</sup> Ist im Anhang ein Rahmen festgelegt, so setzt die FINMA die konkret zu bezahlende Gebühr innerhalb des Rahmens anhand des durchschnittlichen Zeitaufwandes für gleichartige Verrichtungen und der Bedeutung der Sache für die gebührenpflichtige Person fest.
 
-<sup>3</sup> Für Verfügungen, Aufsichtsverfahren und Dienstleistungen, für die im Anhang kein Ansatz festgelegt ist, bemisst sich die Gebühr nach dem Zeitaufwand und der Bedeutung der Sache für die gebührenpflichtige Person.
+<sup>3</sup> Für Verfügungen, Aufsichtsverfahren, Prüfungen und Dienstleistungen, für die im Anhang kein Ansatz festgelegt ist, bemisst sich die Gebühr nach dem Zeitaufwand und der Bedeutung der Sache für die gebührenpflichtige Person.[^8-1]
 
 <sup>4</sup> Der Stundenansatz für die Gebühren beträgt je nach Funktionsstufe der ausführenden Person innerhalb der FINMA und Bedeutung der Sache für die gebührenpflichtige Person 100–500 Franken.
 
-<sup>5</sup> Für Verfügungen und Aufsichtsverfahren, die sich durch einen aussergewöhnlichen Umfang oder besondere Schwierigkeiten auszeichnen, kann die Gebühr anstatt nach dem Ansatz im Anhang nach Zeitaufwand abgerechnet werden.
+<sup>5</sup> Für Verfügungen, Aufsichtsverfahren und Prüfungen, die einen aussergewöhnlichen Umfang oder besondere Schwierigkeiten aufweisen, kann die Gebühr anstatt nach dem Ansatz im Anhang nach Zeitaufwand abgerechnet werden.[^8-2]
 
-<sup>6</sup> Für die Erteilung von telefonischen Auskünften kann die FINMA Mehrwertdienste einrichten.[^8-1]
+<sup>6</sup> Für die Erteilung von telefonischen Auskünften kann die FINMA Mehrwertdienste einrichten.[^8-3]
 
-[^8-1]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^8-1]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^8-2]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^8-3]: Eingefügt durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 9
 
-**Gebührenzuschlag**
+**Gebührenzuschlag**[^9-1]
 
-Die FINMA kann einen Zuschlag von bis zu 50 Prozent der ordentlichen Gebühr für Verfügungen, Aufsichtsverfahren und Dienstleistungen erheben, die sie auf Ersuchen hin dringlich oder ausserhalb der normalen Arbeitszeit erlässt, durchführt oder verrichtet.
+Die FINMA kann einen Zuschlag von bis zu 50 Prozent der ordentlichen Gebühr für Verfügungen, Aufsichtsverfahren, Prüfungen und Dienstleistungen erheben, die sie auf Ersuchen hin dringlich oder ausserhalb der normalen Arbeitszeit erlässt, durchführt oder verrichtet.
+
+[^9-1]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 10
 
-**Rechnungsstellung und Gebührenverfügung bei Aufsichtsverfahren**
+**Rechnungsstellung und Gebührenverfügung bei Prüfungen und Aufsichtsverfahren**[^10-1]
 
-Endet ein Aufsichtsverfahren ohne Verfügung, so richten sich Rechnungsstellung und Gebührenverfügung nach den Regeln für Dienstleistungen gemäss Artikel 11 AllgGebV [^10-1].
+Für Prüfungen und Aufsichtsverfahren, die ohne Verfügung enden, richten sich Rechnungsstellung und Gebührenverfügung nach den Regeln für Dienstleistungen gemäss Artikel 11 AllgGebV[^10-2].
 
-[^10-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^10-1]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^10-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## 3. Kapitel: Aufsichtsabgaben
 
@@ -184,7 +194,7 @@ Endet ein Aufsichtsverfahren ohne Verfügung, so richten sich Rechnungsstellung 
 
 <sup>2</sup> Die Zusatzabgabe deckt die Kosten, soweit diese nicht aus dem Ertrag der Grundabgabe gedeckt sind.
 
-<sup>3</sup> ...[^12-2]
+<sup>3</sup> …[^12-2]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 [^12-2]: Aufgehoben durch Ziff. I der V vom 25. März 2009, mit Wirkung seit 1. Jan. 2009 ([AS 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
@@ -225,7 +235,7 @@ Endet ein Aufsichtsverfahren ohne Verfügung, so richten sich Rechnungsstellung 
 
 [^15-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-### 2. Abschnitt:**** Grossbanken, übrige Banken und Wertpapierhäuser****
+### 2. Abschnitt: Grossbanken, übrige Banken und Wertpapierhäuser
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -256,14 +266,18 @@ Die Grundabgabe beträgt pro Jahr:
   - 2\. 10 000 Franken je Wertpapierhaus,
   - 3\.[^16-1] 150 000 Franken pauschal für mehr als zehn nach Artikel 17 Buchstabe a der Bankenverordnung vom 30. April 2014[^16-2] (BankV) zusammengeschlossene Banken und Wertpapierhäuser;
 
-- c.[^16-3] ...
+- c.[^16-3] …
 
 <sup>2</sup> Die Pfandbriefzentralen entrichten einzig die Grundabgabe.[^16-4]
+
+<sup>3</sup> Die jährliche Grundabgabe nach Absatz 1 wird um 3000 Franken je Vermögensverwalter oder Trustee erhöht, für den nach Artikel 83 Absatz 1 der Finanzinstitutsverordnung vom 6. November 2019[^16-5] die laufende Aufsicht ausschliesslich im Rahmen der Gruppenaufsicht ausgeübt wird.[^16-6]
 
 [^16-1]: Fassung gemäss Anhang Ziff. 5 der Finanzmarktprüfverordnung vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^16-2]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^16-3]: Aufgehoben durch Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^16-4]: Fassung gemäss Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^16-5]: [SR 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^16-6]: Eingefügt durch Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 17
 
@@ -282,10 +296,9 @@ Die Grundabgabe beträgt pro Jahr:
 
 <sup>1</sup> Für die Berechnung der Zusatzabgabe nach Bilanzsumme ist die Bilanzsumme des Abgabepflichtigen massgebend, wie sie die genehmigte Jahresrechnung des dem Abgabejahr vorangehenden Jahres ausweist.
 
-<sup>2</sup> Für die Berechnung der Zusatzabgabe nach Effektenumsatz sind die Anzahl Transaktionen und das Gesamtvolumen des dem Abgabejahr vorangehenden Jahres massgebend, die den Börsen nach der Finanzmarktinfrastrukturverordnung-FINMA vom 3. Dezember 2015[^18-1] gemeldet werden müssen.[^18-2]
+<sup>2</sup> Für die Berechnung der Zusatzabgabe nach Effektenumsatz ist das Gesamtvolumen der Abschlüsse des dem Abgabejahr vorangehenden Jahres massgebend, die den Handelsplätzen gemeldet werden müssen.[^18-1]
 
-[^18-1]: [SR 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
-[^18-2]: Fassung gemäss Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^18-1]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 19
 
@@ -295,7 +308,7 @@ Ausländische Banken und Wertpapierhäuser müssen Grundabgabe und Zusatzabgabe 
 
 [^19-1]: Fassung gemäss Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
-### 2*a*. Abschnitt:**** Finanzmarktinfrastrukturen
+### 2*a*. Abschnitt: Finanzmarktinfrastrukturen
 
 [^chap3-sec2a-1]
 
@@ -390,7 +403,7 @@ Der Bruttoertrag umfasst sämtliche Erlöse und Erträge nach Artikel 959*b* des
 
 [^19d-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### 2*b*. Abschnitt:**** Personen nach Artikel 1*b* BankG
+### 2*b*. Abschnitt: Personen nach Artikel 1*b* BankG
 
 [^chap3-sec2b-1]
 
@@ -444,8 +457,8 @@ Die Grundabgabe beträgt pro Jahr:
 
 - c. 5000 Franken für fremdverwaltete SICAV, für Kommanditgesellschaften für kollektive Kapitalanlagen und für Investmentgesellschaften mit festem Kapital (SICAF);
 - d. 5000 Franken für Vertreter ausländischer kollektiver Kapitalanlagen;
-- e.[^20-1] 750 Franken für schweizerische und für ausländische kollektive Kapitalanlagen pro kollektive Kapitalanlage ohne Teilvermögen oder pro Teilvermögen;
-- f.[^20-2] ...
+- e.[^20-1] 600 Franken für schweizerische und für ausländische kollektive Kapitalanlagen pro kollektive Kapitalanlage ohne Teilvermögen oder pro Teilvermögen;
+- f.[^20-2] …
 - g.[^20-3]
 
   für Verwalter von Kollektivvermögen, die der Aufsicht der FINMA unterstehen:
@@ -469,7 +482,7 @@ Die Grundabgabe betreffend schweizerische kollektive Kapitalanlagen wird entrich
 
 <sup>4</sup> Der Bruttoertrag umfasst sämtliche Erlöse und Erträge nach Artikel 959*b* des Obligationenrechts[^20-6].[^20-7]
 
-[^20-1]: Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-1]: Fassung gemäss Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 [^20-2]: Aufgehoben durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-3]: Fassung gemäss Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
@@ -649,7 +662,7 @@ Der Bruttoertrag umfasst sämtlichen Erlöse und Erträge nach Artikel 959*b* de
 [^31-3]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^31-4]: Eingefügt durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### 6*a*. Abschnitt:**** Aufsichtsorganisationen nach dem 3. Titel des FINMAG
+### 6*a*. Abschnitt: Aufsichtsorganisationen nach dem 3. Titel des FINMAG
 
 [^chap3-sec6a-1]
 
@@ -671,7 +684,7 @@ Die Grundabgabe beträgt 3000 Franken je Aufsichtsorganisation und Jahr.
 
 <sup>3</sup> Für die Anzahl der von einer Aufsichtsorganisation beaufsichtigen Vermögensverwalter und Trustees ist der Stand am 31. Dezember des dem Abgabejahr vorangehenden Jahres massgebend.
 
-### 7. Abschnitt: ...
+### 7. Abschnitt: …
 
 #### Art. 32–34
 
@@ -679,7 +692,7 @@ Die Grundabgabe beträgt 3000 Franken je Aufsichtsorganisation und Jahr.
 
 [^3234-1]: Aufgehoben durch Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### 8. Abschnitt: ...
+### 8. Abschnitt: …
 
 #### Art. 35 und 36
 
@@ -706,7 +719,7 @@ Es werden aufgehoben:
 - a. die Verordnung vom 2. Dezember 1996[^38-1] über die Erhebung von Abgaben und Gebühren durch die Eidgenössische Bankenkommission;
 - b. die Verordnung vom 26. Oktober 2005[^38-2] über die Aufsichtsabgabe und die Gebühren der Kontrollstelle für die Bekämpfung der Geldwäscherei.
 
-<sup>2</sup> ...[^38-3]
+<sup>2</sup> …[^38-3]
 
 [^38-1]: [[AS 1997 38](https://fedlex.data.admin.ch/eli/oc/1997/38_38_38), [2003 3701](https://fedlex.data.admin.ch/eli/oc/2003/526), [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)Anhang 7 Ziff. 3 [5343](https://fedlex.data.admin.ch/eli/oc/2006/812)Art. 38 Abs. 1 Bst. a]
 [^38-2]: [[AS 2005 5047](https://fedlex.data.admin.ch/eli/oc/2005/704)]
@@ -749,40 +762,41 @@ Die FINMA evaluiert die Grundabgaben nach Artikel 19*a* Absatz 1 Buchstaben f un
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 7 Abs. 2 und 8 Abs. 1)
 
 ## Rahmentarife und Auslagen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 21. Nov. 2012 ([AS 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Bereinigt gemäss Anhang Ziff. 1 der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), Anhang Ziff. 5 der Finanzmarktprüfverordnung vom 5. Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)) und Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 21. Nov. 2012 ([AS 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Bereinigt gemäss Anhang Ziff. 1 der V vom 13. Febr. 2013 ([AS 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), Anhang Ziff. 5 der Finanzmarktprüfverordnung vom 5. Nov. 2014 ([AS 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), Anhang 1 Ziff. 13 der Finanzmarktinfrastrukturverordnung vom 25. Nov. 2015 ([AS 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)), Anhang 1 Ziff. II 13 der Finanzinstitutsverordnung vom 6. Nov. 2019 ([AS 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)) und Anhang Ziff. 4 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th colspan="2"></th><th>in Franken</th></tr>
-<tr><td colspan="2">1 Bereich der Banken</td><td></td></tr>
-<tr><td colspan="2">1.1 Verfügung über die Erteilung einer Bewilligung als Bank oder Wertpapierhaus (Art. 2 und 3 BankG[^annexu1-lvlu1-1]; Art. 5 und 41 ff. FINIG[^annexu1-lvlu1-2])</td><td>10 000–100 000</td></tr>
-<tr><td colspan="2">1.2 Verfügung über die Erteilung einer Zusatzbewilligung für Banken oder Wertpapierhäuser und Verfügung über eine qualifizierte Beteiligung (Art. 3 Abs. 5 und 3<sup>ter</sup> BankG; Art. 8 und 11 Abs. 5 FINIG)</td><td>3 000–30 000</td></tr>
-<tr><td colspan="2">1.4 Verfügung über den Entzug der Anerkennung als Ratingagentur (Art. 6 Abs. 3 ERV)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">1.5 ...</td><td></td></tr>
+<tr><td colspan="2">1 Bereich der Banken und Wertpapierhäuser</td><td></td></tr>
+<tr><td colspan="2">1.1 Verfügung über die Erteilung einer Bewilligung als Bank oder Wertpapierhaus oder als Zweigniederlassung einer ausländischen Bank oder eines ausländischen Wertpapierhauses (Art. 2 und 3 BankG[^annexu1-lvlu1-1]; Art. 5 und 41–51 des Finanzinstitutsgesetzes vom 15. Juni 2018[^annexu1-lvlu1-2] [FINIG])</td><td>10 000–100 000</td></tr>
+<tr><td colspan="2">1.1*a* Verfügung über die Erteilung einer Bewilligung als Vertretung ausländischer Banken und Wertpapierhäuser (Art. 2 BankG; Art. 58 FINIG)</td><td>5 000–30 000</td></tr>
+<tr><td colspan="2">1.2 Verfügung über die Erteilung einer Zusatzbewilligung für Banken oder Wertpapierhäuser und Verfügung über eine qualifizierte Beteiligung (Art. 3 Abs. 5 und 3<sup>ter</sup> BankG; Art. 8 und 11 Abs. 5 FINIG)</td><td>1 000–30 000</td></tr>
+<tr><td colspan="2">1.4 …</td><td></td></tr>
+<tr><td colspan="2">1.5 …</td><td></td></tr>
 <tr><td colspan="2">1.6 Verfügung über die Änderung von Statuten, Gesellschaftsverträgen oder Reglementen einer Bank oder eines Wertpapierhauses (Art. 3 Abs. 3 BankG; Art. 8 FINIG)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">1.6*a* Verfügung über die Bewilligung einer Änderung von wesentlicher Bedeutung bei Banken oder Wertpapierhäusern (Art. 8*a* Abs. 2 BankV[^annexu1-lvlu1-3]; Art. 8 Abs. 2 FINIG)</td><td>500–10 000</td></tr>
+<tr><td colspan="2">1.6*a* Verfügung über die Bewilligung einer Änderung von wesentlicher Bedeutung bei Banken oder Wertpapierhäusern (Art. 8*a* Abs. 2 BankV[^annexu1-lvlu1-3]; Art. 8 Abs. 2 FINIG)</td><td>200–4 000</td></tr>
 <tr><td colspan="2">1.7 Verfügung im Zusammenhang mit Gesuchen um Vorabentscheid, Ausnahme oder Erleichterung zur Offenlegung von Beteiligungen nach den Artikeln 120 ff. des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^annexu1-lvlu1-4]</td><td>3 000–30 000</td></tr>
 <tr><td colspan="2">1.8 Verfahren im Zusammenhang mit der freiwilligen Beendigung des Geschäftsbetriebs (Art. 37 FINMAG) bei Vertretungen ausländischer Banken und Wertpapierhäuser</td><td>500–1 000</td></tr>
 <tr><td colspan="2">1.9 Verfahren im Zusammenhang mit der freiwilligen Beendigung des Geschäftsbetriebs (Art. 37 FINMAG) bei Banken, Wertpapierhäuser sowie Zweigniederlassungen ausländischer Banken und Wertpapierhäuser</td><td>3 000–30 000</td></tr>
-<tr><td colspan="2">1.10 Meldung über die geplante Errichtung einer Präsenz oder die Aufnahme einer Tätigkeit im Ausland (Art. 3 Abs. 7 BankG und Art. 20 BankV; Art. 15 FINIG)</td><td>3 000–30 000</td></tr>
+<tr><td colspan="2">1.10 Meldung über die geplante Errichtung einer Präsenz oder die Aufnahme einer Tätigkeit im Ausland (Art. 3 Abs. 7 BankG und Art. 20 BankV; Art. 15 FINIG)</td><td>1 000–30 000</td></tr>
 <tr><td colspan="2">2 Bereich der kollektiven Kapitalanlagen</td><td></td></tr>
 <tr><td colspan="2">2.1 Verfügung über die Erteilung einer Bewilligung als Fondsleitung, Verwalter von Kollektivvermögen oder Depotbank (Art. 5, 24 ff. und 32 ff. FINIG; Art. 13 KAG[^annexu1-lvlu1-5])</td><td>4 000–50 000</td></tr>
 <tr><td colspan="2">2.1*a* Verfügung über die Erteilung einer Bewilligung als SICAV, Kommanditgesellschaft für kollektive Kapitalanlagen oder SICAF (Art. 13 KAG)</td><td>4 000–30 000</td></tr>
 <tr><td colspan="2">2.2 Verfügung über die Erteilung einer Bewilligung als Vertreter ausländischer kollektiver Kapitalanlagen (Art. 13 KAG)</td><td>2000–20 000</td></tr>
 <tr><td colspan="2">2.3 Verfügung über die Genehmigung der Änderung der Organisationsdokumente (Statuten, Organisationsreglement, Anlagereglement, Gesellschaftsvertrag) einer Fondsleitung, SICAV, Kommanditgesellschaft für kollektive Kapitalanlagen, SICAF, eines Verwalters von Kollektivvermögen oder eines Vertreters einer ausländischen kollektiven Kapitalanlage (Art. 15 Abs. 1 und 16 KAG; Art. 8 FINIG)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">2.4 Verfügung über die Genehmigung des Fondsvertrags oder der Statuten und des Anlagereglements oder des Gesellschaftsvertrags offener oder geschlossener kollektiver Kapitalanlagen (Anlagefonds, SICAV, SICAF, Kommanditgesellschaft für kollektive Kapitalanlagen) pro kollektive Kapitalanlage ohne Teilvermögen oder pro Teilvermögen (Art. 15 Abs. 1 Bst. a–d und 2 KAG)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">2.5 Verfügung über die Genehmigung der Änderung des Fondsvertrags oder der Statuten und des Anlagereglements oder Gesellschaftsvertrags offener oder geschlossener kollektiver Kapitalanlagen (Art. 16 und 27 KAG)</td><td>1 000–10 000</td></tr>
-<tr><td colspan="2">2.6 Verfügung über die Genehmigung zum Angebot einer ausländischen kollektiven Kapitalanlage an nicht qualifizierte Anlegerinnen und Anleger pro kollektive Kapitalanlage ohne Teilvermögen oder pro Teilvermögen (Art. 15 Abs. 1 Bst. e i.V.m. 120 KAG)</td><td>2 000–20 000</td></tr>
-<tr><td colspan="2">2.7 Verfügung über die Feststellung der Gesetzeskonformität der Änderung der Dokumente einer ausländischen kollektiven Kapitalanlage (Art. 15 Abs. 1 Bst. e KAG)</td><td>500–10 000</td></tr>
-<tr><td colspan="2">2.8 ...</td><td></td></tr>
+<tr><td colspan="2">2.4 Verfügung über die Genehmigung des Fondsvertrags oder der Statuten und des Anlagereglements oder des Gesellschaftsvertrags offener oder geschlossener kollektiver Kapitalanlagen (Art. 15 Abs. 1 Bst. a–d und 2 KAG)</td><td>1 000–10 000</td></tr>
+<tr><td colspan="2">2.5 Verfügung über die Genehmigung der Änderung des Fondsvertrags oder der Statuten und des Anlagereglements oder des Gesellschaftsvertrags offener oder geschlossener kollektiver Kapitalanlagen (Art. 16 und 27 KAG)</td><td>500–5 000</td></tr>
+<tr><td colspan="2">2.6 Verfügung über die Genehmigung zum Angebot einer ausländischen kollektiven Kapitalanlage an nicht qualifizierte Anlegerinnen und Anleger (Art. 15 Abs. 1 Bst. e in Verbindung mit Art. 120 KAG)</td><td>1 000–10 000</td></tr>
+<tr><td colspan="2">2.7 Verfügung über die Feststellung der Gesetzeskonformität der Änderung der Dokumente einer ausländischen kollektiven Kapitalanlage (Art. 15 Abs. 1 Bst. e KAG)</td><td>300–5 000</td></tr>
+<tr><td colspan="2">2.8 …</td><td></td></tr>
 <tr><td colspan="2">2.9 Verfügung über die Genehmigung der Beauftragung von Schätzungsexperten für Immobilienfonds (Art. 64 KAG)</td><td>1 000– 5 000</td></tr>
-<tr><td colspan="2">2.10 ...</td><td></td></tr>
-<tr><td colspan="2">2.11 Verfahren im Zusammenhang mit der freiwilligen Beendigung des Geschäftsbetriebs (Art. 37 FINMAG)</td><td>2 000– 5 000</td></tr>
+<tr><td colspan="2">2.10 …</td><td></td></tr>
+<tr><td colspan="2">2.11 Verfahren im Zusammenhang mit der freiwilligen Beendigung des Geschäftsbetriebs (Art. 37 FINMAG)</td><td>1 000–5 000</td></tr>
 <tr><td colspan="2">3 Bereich der Versicherungsunternehmen</td><td></td></tr>
 <tr><td colspan="2">3.1 Verfügung über die Erteilung der Bewilligung zur Auf-nahme der Versicherungstätigkeit (Art. 3 Abs. 1 und Art. 4 VAG[^annexu1-lvlu1-6])</td><td>5 000–50 000</td></tr>
 <tr><td colspan="2">3.2 Verfügung über die Erteilung der Bewilligung zum Betrieb eines zusätzlichen Versicherungszweiges (Art. 3 Abs. 1 und Art. 4 VAG)</td><td>2 000–10 000</td></tr>
@@ -796,7 +810,7 @@ Anhang*[^t-1]*
 <tr><td colspan="2">3.10 Sichernde Massnahmen (Art. 51 ff. VAG)</td><td>1 000–10 000</td></tr>
 <tr><td colspan="2">3.11 Verfügungen in Zusammenhang mit freiwilliger Beendigung des Geschäftsbetriebs (Art. 60 VAG)</td><td>500–10 000</td></tr>
 <tr><td colspan="2">3.12 Solvabilitäts- und andere Bescheinigungen (Art. 1 VAG)</td><td>300– 1 000</td></tr>
-<tr><td colspan="2">3.13 ...</td><td></td></tr>
+<tr><td colspan="2">3.13 …</td><td></td></tr>
 <tr><td colspan="2">3.14 Sonderprüfungen der Jahresberichte (Art. 25 VAG)</td><td>1 000–10 000</td></tr>
 <tr><td colspan="2">4 Bereich der Versicherungsvermittler</td><td></td></tr>
 <tr><td colspan="2">4.1 Eintragung ins Vermittlerregister, je natürliche Person (Art. 43 Abs. 1 VAG)</td><td>300– 3 000</td></tr>
@@ -806,13 +820,13 @@ Anhang*[^t-1]*
 <tr><td colspan="2">5 Bereich der Selbstregulierungsorganisationen</td><td></td></tr>
 <tr><td colspan="2">5.1 Anerkennungsverfahren (Art. 18 Abs. 1 Bst. a und Art. 24 ff. GwG[^annexu1-lvlu1-10])</td><td>9 000–20 000</td></tr>
 <tr><td colspan="2">5.2 Mutationen (Art. 24 und 25 GwG)</td><td>200–10 000</td></tr>
-<tr><td colspan="2">5.3 ...</td><td></td></tr>
+<tr><td colspan="2">5.3 …</td><td></td></tr>
 <tr><td colspan="2">5.4 Verfahren im Zusammenhang mit der freiwilligen Beendigung des Geschäftsbetriebs (Art. 37 FINMAG)</td><td>500– 5 000</td></tr>
-<tr><td colspan="2">6 Bereich der Aufsichtsorganisationen nach dem 3. Titel des FINMAG**[^annexu1-lvlu1-11]**</td><td></td></tr>
+<tr><td colspan="2">6 Bereich der Aufsichtsorganisationen nach dem 3. Titel des FINMAG[^annexu1-lvlu1-11]</td><td></td></tr>
 <tr><td colspan="2">6.1 Verfügung über die Erteilung einer Bewilligung als Vermögensverwalter oder Trustee (Art. 5 und 17 ff. FINIG)</td><td>2 000–20 000</td></tr>
 <tr><td colspan="2">6.2 Verfügung über die Bewilligung einer Änderung von wesentlicher Bedeutung bei Vermögensverwaltern oder Trustees (Art. 8 Abs. 2 FINIG)</td><td>200–4 000</td></tr>
 <tr><td colspan="2">6.3 Verfahren im Zusammenhang mit der freiwilligen Beendigung des Geschäftsbetriebs als Vermögensverwalter oder Trustee</td><td>500–5 000</td></tr>
-<tr><td colspan="2">7 ...</td><td></td></tr>
+<tr><td colspan="2">7 …</td><td></td></tr>
 <tr><td colspan="2">8 Allgemeine Gebühren</td><td></td></tr>
 <tr><td colspan="2">8.1 Verfügung über ein Ersuchen nach Artikel 42 oder 43 FINMAG</td><td>3 000–15 000</td></tr>
 <tr><td colspan="2">8.2 Kosten für die Anerkennung ausländischer Insolvenzdekrete</td><td>3 000–10 000</td></tr>

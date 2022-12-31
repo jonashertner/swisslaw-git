@@ -4,11 +4,11 @@ title: "Ordonnance du 15 octobre 2008 réglant la perception d'émoluments et de
 short: Oém-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/749"
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20210801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/749/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-749-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/749/20210801/fr"
 
 (Ordonnance sur les émoluments et les taxes de la FINMA, Oém-FINMA)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> août 2021)
+du 15 octobre 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -36,8 +36,10 @@ arrête:
 
 La présente ordonnance règle:
 
-- a. la perception des émoluments et des taxes de surveillance par la FINMA;
+- a.[^1-1] la perception des émoluments et des taxes de surveillance par l’Autorité fédérale de surveillance des marchés financiers (FINMA);
 - b. la constitution de réserves par la FINMA.
+
+[^1-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 2
 
@@ -58,7 +60,7 @@ Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines 
 
 - a.[^3-1] domaine des grandes banques et des sociétés qui font partie du même groupe financier (art. 15, al. 2, let. a, LFINMA);
 - a<sup>bis</sup>.[^3-2] domaine des autres banques et maisons de titres[^3-3] (art. 15, al. 2, let. a, LFINMA);
-- a<sup>ter</sup>.[^3-4] ...
+- a<sup>ter</sup>.[^3-4] …
 - a<sup>quater</sup>[^3-5] domaine des plates-formes de négociation et des systèmes de négociation pour les valeurs mobilières fondées sur la technologie des registres distribués (systèmes de négociation fondés sur la TRD) (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
 - a<sup>quinquies</sup>.[^3-6] domaine des contreparties centrales, des dépositaires centraux, des référentiels centraux et des systèmes de paiement (art. 15, al. 2, let. a<sup>ter</sup>, LFINMA);
 - [tab] a<sup>sexies</sup>.[^3-7] domaine des personnes visées à l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^3-8];
@@ -66,8 +68,8 @@ Dans la mesure du possible, la FINMA impute ses coûts directement aux domaines 
 - c. domaine des entreprises d’assurance (art. 15, al. 2, let. c, LFINMA);
 - d. domaine des intermédiaires en assurance non liés à une entreprise (art. 15, al. 2, let. c, LFINMA);
 - e. domaine des organismes d’autorégulation (art. 15, al. 2, let. d, LFINMA);
-- f.[^3-10] ...
-- g.[^3-11] ...
+- f.[^3-10] …
+- g.[^3-11] …
 - h.[^3-12] domaine des organismes de surveillance au sens du titre 3 LFINMA (art. 15, al. 2, let. e, LFINMA).
 
 <sup>2</sup> Elle répartit les coûts structurels entre les domaines de surveillance proportionnellement aux coûts qui leur sont directement imputés.
@@ -105,9 +107,12 @@ Est tenue de payer des émoluments toute personne qui:
 
 - a. provoque une décision;
 - b. provoque une procédure de surveillance qui ne débouche pas sur une décision ou qui est classée;
+- b<sup>bis</sup>.[^5-1] fait l’objet, en sa qualité d’assujettie, d’un audit de la FINMA conformément aux lois sur les marchés financiers;
 - c. sollicite une prestation de la FINMA.
 
 <sup>2</sup> Les autorités fédérales, cantonales et communales ne paient pas d’émoluments pour les prestations de la FINMA dans le domaine de l’entraide administrative et judiciaire.
+
+[^5-1]: Introduite par l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 6
 
@@ -135,29 +140,34 @@ Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émolu
 
 <sup>2</sup> La FINMA fixe les émoluments à payer dans le respect des tarifs-cadres fixés dans l’annexe, en fonction du temps moyen consacré à une tâche de même nature et de l’importance de l’affaire pour la personne assujettie.
 
-<sup>3</sup> Pour les décisions, les procédures de surveillance et les prestations pour lesquelles aucun tarif n’est fixé dans l’annexe, l’émolument est calculé en fonction du temps consacré et de l’importance de l’affaire pour la personne assujettie.
+<sup>3</sup> Pour les décisions, les procédures de surveillance, les audits et les prestations pour lesquels aucun tarif n’est fixé dans l’annexe, l’émolument est calculé en fonction du temps consacré et de l’importance de l’affaire pour la personne assujettie.[^8-1]
 
 <sup>4</sup> Le tarif horaire prévu pour les émoluments varie de 100 à 500 francs selon la fonction occupée au sein de la FINMA par les personnes chargées de l’affaire et l’importance de l’affaire pour la personne assujettie.
 
-<sup>5</sup> Pour les décisions et les procédures de surveillance qui requièrent une charge de travail extraordinaire ou se caractérisent par des difficultés particulières, l’émolument peut être fixé non pas selon le tarif prévu dans l’annexe, mais en fonction du temps consacré.
+<sup>5</sup> Pour les décisions, les procédures de surveillance et les audits qui requièrent une charge de travail extraordinaire ou présentent des difficultés particulières, l’émolument peut être fixé non pas selon le tarif prévu dans l’annexe, mais en fonction du temps consacré.[^8-2]
 
-<sup>6</sup> La FINMA peut créer des services à valeur ajoutée pour la fourniture de renseignements téléphoniques.[^8-1]
+<sup>6</sup> La FINMA peut créer des services à valeur ajoutée pour la fourniture de renseignements téléphoniques.[^8-3]
 
-[^8-1]: Introduit par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^8-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^8-3]: Introduit par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
 #### Art. 9
 
-**Majoration de l’émolument**
+**Majoration de l’émolument**[^9-1]
 
-La FINMA peut majorer l’émolument de 50 % au plus de l’émolument ordinaire pour les décisions, les procédures de surveillance et les prestations qu’elle prononce, exécute ou fournit sur demande à titre urgent ou en dehors des heures de travail ordinaires.
+La FINMA peut majorer l’émolument de 50 % au plus de l’émolument ordinaire pour les décisions, les procédures de surveillance, les audits et les prestations qu’elle prononce, exécute ou fournit sur demande à titre urgent ou en dehors des heures de travail ordinaires.
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 10
 
-**Facturation et décision d’émolument pour les procédures de surveillance**
+**Facturation et décision d’émolument pour les audits et les procédures de surveillance**[^10-1]
 
-Lorsqu’une procédure de surveillance s’achève sans décision, la facturation et la décision d’émolument sont régies par l’art. 11 de l’OGEmol[^10-1].
+Lorsqu’un audit ou une procédure de surveillance s’achève sans décision, la facturation et la décision d’émolument sont régies par l’art. 11 OGEmol[^10-2].
 
-[^10-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^10-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^10-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Chapitre 3 Taxes de surveillance
 
@@ -183,7 +193,7 @@ Lorsqu’une procédure de surveillance s’achève sans décision, la facturati
 
 <sup>2</sup> La taxe complémentaire couvre les coûts qui ne sont pas couverts par les recettes de la taxe de base.
 
-<sup>3</sup> ...[^12-2]
+<sup>3</sup> …[^12-2]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5597](https://fedlex.data.admin.ch/eli/oc/2010/799)).
 [^12-2]: Abrogé par le ch. I de l’O du 25 mars 2009, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2009 1559](https://fedlex.data.admin.ch/eli/oc/2009/224)).
@@ -224,7 +234,7 @@ Lorsqu’une procédure de surveillance s’achève sans décision, la facturati
 
 [^15-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
-### Section 2**** Grandes banques, autres banques et maisons de titres et bourses****
+### Section 2 Grandes banques, autres banques et maisons de titres et bourses
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -255,14 +265,18 @@ La taxe de base annuelle s’élève à:
   - 2\. 10 000 francs par maison de titres,
   - 3\.[^16-1] 150 000 francs à titre forfaitaire pour plus de dix banques et maisons de titres constitués en groupe conformément à l’art. 17, let. a, de l’ordonnance du 30 avril 2014 sur les banques (OB)[^16-2].
 
-- c.[^16-3] ...
+- c.[^16-3] …
 
 <sup>2</sup> Les centrales d’émission de lettres de gage sont uniquement astreintes au paiement de la taxe de base.[^16-4]
+
+<sup>3</sup> La taxe de base annuelle visée à l’al. 1 est majorée de 3000 francs pour tout gestionnaire de fortune ou trustee dont la surveillance courante est exercée exclusivement dans le cadre de la surveillance du groupe, conformément à l’art. 83, al. 1, de l’ordonnance du 6 novembre 2019 sur les établissements financiers[^16-5].[^16-6]
 
 [^16-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)).
 [^16-2]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
 [^16-3]: Abrogée par l’annexe 1 ch. 13 de l’O du 25 nov. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 [^16-4]: Nouvelle teneur selon l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^16-5]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+[^16-6]: Introduit par l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 17
 
@@ -280,10 +294,9 @@ La taxe de base annuelle s’élève à:
 
 <sup>1</sup> La taxe complémentaire perçue sur le total du bilan est calculée sur la base du total du bilan de l’assujetti à la taxe tel qu’il ressort des comptes annuels approuvés de l’année qui précède l’année de taxation.
 
-<sup>2</sup> La taxe complémentaire sur le chiffre d’affaires réalisé sur les transactions sur valeurs mobilières est fixée en fonction du nombre de transactions et du volume total de l’année qui précède l’année de taxation, qui doivent être communiqués aux bourses conformément à l’ordonnance de la FINMA du 3 décembre 2015 sur l’infrastructure des marchés financiers[^18-1].[^18-2]
+<sup>2</sup> La taxe complémentaire sur le chiffre d’affaires réalisé sur les transactions sur valeurs mobilières est fixée en fonction du volume total des transactions de l’année qui précède l’année de taxation, qui doivent être communiquées aux plates-formes de négociation.[^18-1]
 
-[^18-1]: [RS 958.111](https://fedlex.data.admin.ch/eli/cc/2015/855)
-[^18-2]: Nouvelle teneur selon l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
+[^18-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 19
 
@@ -293,7 +306,7 @@ Les banques et les maisons de titres ne sont astreints au paiement de la taxe de
 
 [^19-1]: Nouvelle teneur selon l’annexe 1 ch. 13 de l’O du 25 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)).
 
-### Section 2*a***** Infrastructures des marchés financiers
+### Section 2*a* Infrastructures des marchés financiers
 
 [^chap3-sec2a-1]
 
@@ -388,7 +401,7 @@ Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* 
 
 [^19d-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-### Section 2*b***** Personnes visées à l’art. 1*b* LB
+### Section 2*b* Personnes visées à l’art. 1*b* LB
 
 [^chap3-sec2b-1]
 
@@ -442,8 +455,8 @@ La taxe de base annuelle s’élève à:
 
 - c. 5000 francs pour les SICAV à gestion externe, pour les sociétés en commandite de placements collectifs et pour les sociétés d’investissement à capital fixe (SICAF);
 - d. 5000 francs pour les représentants de placements collectifs étrangers;
-- e.[^20-1] 750 francs pour les placements collectifs suisses et les placements collectifs étrangers, par placement collectif sans compartiment ou par compartiment;
-- f.[^20-2] ...
+- e.[^20-1] 600 francs pour les placements collectifs suisses et les placements collectifs étrangers, par placement collectif sans compartiment ou par compartiment;
+- f.[^20-2] …
 - g.[^20-3]
 
   pour les gestionnaires de fortune collective soumis à la surveillance de la FINMA:
@@ -467,8 +480,8 @@ La taxe de base concernant les placements collectifs suisses est payée par:
 
 <sup>4</sup> Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* du code des obligations[^20-6].[^20-7]
 
-[^20-1]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
-[^20-2]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements fi-nanciers, avec effet au 1er janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^20-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^20-2]: Abrogée par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1er janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-3]: Nouvelle teneur selon l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^20-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)).
 [^20-5]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
@@ -647,7 +660,7 @@ Le produit brut comprend tous les produits et revenus cités à l’art. 959*b* 
 [^31-3]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
 [^31-4]: Introduite par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### Section 6*a***** Organismes de surveillance au sens du titre 3 LFINMA
+### Section 6*a* Organismes de surveillance au sens du titre 3 LFINMA
 
 [^chap3-sec6a-1]
 
@@ -669,7 +682,7 @@ La taxe de base annuelle s’élève à 3000 francs par organisme de surveillanc
 
 <sup>3</sup> Le nombre total des gestionnaires de fortune et des trustees assujettis à un organisme de surveillance est déterminé au 31 décembre de l’année précédant l’année de taxation.
 
-### Section 7 ...
+### Section 7 …
 
 #### Art. 32 à 34
 
@@ -677,7 +690,7 @@ La taxe de base annuelle s’élève à 3000 francs par organisme de surveillanc
 
 [^3234-1]: Abrogés par l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
-### Section 8 ...
+### Section 8 …
 
 #### Art. 35 et 36
 
@@ -704,7 +717,7 @@ Sont abrogées:
 - a. l’ordonnance du 2 décembre 1996 réglant la perception de taxes et d’émoluments par la Commission fédérale des banques[^38-1];
 - b. l’ordonnance du 26 octobre 2005 sur la taxe de surveillance et les émoluments de l’Autorité de contrôle en matière de lutte contre le blanchiment d’argent[^38-2].
 
-<sup>2</sup> ...[^38-3]
+<sup>2</sup> …[^38-3]
 
 [^38-1]: [[RO 1997 38](https://fedlex.data.admin.ch/eli/oc/1997/38_38_38), [2003 3701](https://fedlex.data.admin.ch/eli/oc/2003/526), [2006 4307](https://fedlex.data.admin.ch/eli/oc/2006/662)annexe 7 ch. 3 [5343](https://fedlex.data.admin.ch/eli/oc/2006/812)]
 [^38-2]: [[RO 2005 5047](https://fedlex.data.admin.ch/eli/oc/2005/704)]
@@ -747,74 +760,75 @@ La FINMA évalue les taxes de base visées à l’art. 19*a*, al. 1, let. f et g
 
 La présente modification entre en vigueur le 1<sup>er</sup> janvier 2009.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 7, al. 2, et 8, al. 1)
 
 ## Tarifs-cadres et débours
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 21 nov. 2012 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Mise à jour par l’annexe ch. 1 de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)) et l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)) et l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 21 nov. 2012 ([RO 2012 6915](https://fedlex.data.admin.ch/eli/oc/2012/834)). Mise à jour par l’annexe ch. 1 de l’O du 13 fév. 2013 ([RO 2013 607](https://fedlex.data.admin.ch/eli/oc/2013/117)), l’annexe ch. 5 de l’O du 5 nov. 2014 sur les audits des marchés financiers ([RO 2014 4295](https://fedlex.data.admin.ch/eli/oc/2014/708)), l’annexe 1 ch. 13 de l’O du 25 nov. 2015 ([RO 2015 5413](https://fedlex.data.admin.ch/eli/oc/2015/854)), l’annexe 1 ch. II 13 de l’O du 6 nov. 2019 sur les établissements financiers ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)) et l’annexe ch. 4 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th></th><th>francs</th></tr>
 <tr><td>1 Domaine des banques et des maisons de titres</td><td></td></tr>
-<tr><td>1.1 Décision concernant l’octroi d’une autorisation en tant que banque ou maison de titres (art. 2 et 3 LB[^annexu1-lvlu1-1]; art. 5 et 41 ss LEFin[^annexu1-lvlu1-2])</td><td>10 000–100 000</td></tr>
-<tr><td>1.2 Décision concernant l’octroi d’une autorisation complémentaire pour les banques ou les maisons de titres et décision sur une participation qualifiée (art. 3, al. 5, et 3<sup>ter</sup> LB; art. 8 et 11, al. 5, LEFin)</td><td>3 000– 30 000</td></tr>
-<tr><td>1.3 Décision sur la reconnaissance d’une agence de notation (art. 6, al. 1, de l’O du 1<sup>er</sup> juin 2012 sur les fonds propres, OFR[^annexu1-lvlu1-3])</td><td>5 000– 30 000</td></tr>
-<tr><td>1.4 Décision sur le retrait de la reconnaissance en tant qu’agence de notation (art. 6, al. 3, OFR)</td><td>2 000– 20 000</td></tr>
-<tr><td>1.5 ...</td><td></td></tr>
-<tr><td>1.6 Décision sur la modification des statuts, des contrats de société ou des règlements d’une banque ou d’une maison de titres (art. 3, al. 3, LB; art. 8 LEFin)</td><td>500– 10 000</td></tr>
-<tr><td>1.6*a* Décision sur l’autorisation d’une modification significative pour les banques ou les maisons de titres (art. 8*a*, al. 2 OB[^annexu1-lvlu1-4]; art. 8, al. 2, LEFin)</td><td>500– 10 000</td></tr>
-<tr><td>1.7 Décision en relation avec des demandes de décision préalable, de dérogation ou d’assouplissement concernant la publicité de participations, selon les art. 120 ss de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^annexu1-lvlu1-5]</td><td>3 000– 30 000</td></tr>
-<tr><td>1.8 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA) pour les représentations de banques et de maisons de titres étrangères</td><td>500– 1 000</td></tr>
-<tr><td>1.9 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA) pour les banques, les maisons de titres ainsi que les succursales de banques et de maisons de titres étrangères</td><td>3 000– 30 000</td></tr>
-<tr><td>1.10 Annonce en vue de l’ouverture d’une présence ou de l’exercice d’une activité à l’étranger (art. 3, al. 7, LB et 20 OB; art. 15 LEFin)</td><td>3 000– 30 000</td></tr>
+<tr><td>1.1 Décision concernant l’octroi d’une autorisation en tant que banque ou maison de titres ou en tant que succursale d’une banque ou maison de titres étrangère (art. 2 et 3 LB[^annexu1-lvlu1-1]; art. 5 et 41 à 51 de la loi fédérale du 15 juin 2018 sur les établissements financiers [LEFin][^annexu1-lvlu1-2])</td><td>10 000–100 000</td></tr>
+<tr><td>1.1*a* Décision concernant l’octroi d’une autorisation en tant que représentation de banques et de maisons de titres étrangères (art. 2 LB; art. 58 LEFin)</td><td>5 000–30 000</td></tr>
+<tr><td>1.2 Décision concernant l’octroi d’une autorisation complémentaire pour les banques ou les maisons de titres et décision sur une participation qualifiée (art. 3, al. 5, et 3<sup>ter</sup> LB; art. 8 et 11, al. 5, LEFin)</td><td>1 000–30 000</td></tr>
+<tr><td>1.3 Décision sur la reconnaissance d’une agence de notation (art. 6, al. 1, de l’O du 1<sup>er</sup> juin 2012 sur les fonds propres, OFR[^annexu1-lvlu1-3])</td><td>5 000–30 000</td></tr>
+<tr><td>1.4 …</td><td></td></tr>
+<tr><td>1.5 …</td><td></td></tr>
+<tr><td>1.6 Décision sur la modification des statuts, des contrats de société ou des règlements d’une banque ou d’une maison de titres (art. 3, al. 3, LB; art. 8 LEFin)</td><td>500–10 000</td></tr>
+<tr><td>1.6*a* Décision sur l’autorisation d’une modification significative pour les banques ou les maisons de titres (art. 8*a*, al. 2, OB[^annexu1-lvlu1-4]; art. 8, al. 2, LEFin)</td><td>200–4 000</td></tr>
+<tr><td>1.7 Décision en relation avec des demandes de décision préalable, de dérogation ou d’assouplissement concernant la publicité de participations, selon les art. 120 ss de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^annexu1-lvlu1-5]</td><td>3 000–30 000</td></tr>
+<tr><td>1.8 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA) pour les représentations de banques et de maisons de titres étrangères</td><td>500–1 000</td></tr>
+<tr><td>1.9 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA) pour les banques, les maisons de titres ainsi que les succursales de banques et de maisons de titres étrangères</td><td>3 000–30 000</td></tr>
+<tr><td>1.10 Annonce en vue de l’ouverture d’une présence ou de l’exercice d’une activité à l’étranger (art. 3, al. 7, LB et art. 20 OB; art. 15 LEFin)</td><td>1 000–30 000</td></tr>
 <tr><td>2 Domaine des placements collectifs de capitaux</td><td></td></tr>
-<tr><td>2.1 Décision concernant l’octroi d’une autorisation en tant que direction de fonds, gestionnaire de fortune collective ou banque dépositaire (art. 5, 24 ss et 32 ss LEFin; art. 13 LPCC[^annexu1-lvlu1-6])</td><td>4 000– 50 000</td></tr>
-<tr><td>2.1*a* Décision concernant l’octroi d’une autorisation en tant que SICAV, société en commandite de placements collectifs ou SICAF (art. 13 LPCC)</td><td>4 000– 30 000</td></tr>
-<tr><td>2.2 Décision concernant l’octroi d’une autorisation en tant que représentant de placements collectifs étrangers (art. 13 LPCC)</td><td>2 000– 20 000</td></tr>
-<tr><td>2.3 Décision sur l’approbation de la modification des documents d’organisation (statuts, règlement d’organisation, règlement de placement, contrat de société) d’une direction de fonds, d’une SICAV, d’une société en commandite de placements collectifs, d’une SICAF, d’un gestionnaire de fortune collective ou d’un représentant d’un placement collectif étranger (art. 15, al. 1, et 16 LPCC; art. 8 LEFin)</td><td>500– 10 000</td></tr>
-<tr><td>2.4 Décision sur l’approbation du contrat de fonds de placement ou des statuts et du règlement de placement ou du contrat de société de placements collectifs ouverts ou fermés (fonds de placement, SICAV, SICAF, société en commandite de placements collectifs), par placement collectif sans compartiment ou par compartiment (art. 15, al. 1, let. a à d, et al. 2, LPCC)</td><td>2 000– 20 000</td></tr>
-<tr><td>2.5 Décision sur l’approbation de la modification du contrat de fonds de placement ou des statuts et du règlement de placement ou du contrat de société de placements collectifs ouverts ou fermés (art. 16 et 27 LPCC)</td><td>1 000– 10 000</td></tr>
-<tr><td>2.6 Décision sur l’approbation de l’offre à des investisseurs non qualifiés d’un placement collectif étranger, par placement collectif sans compartiment ou par compartiment (art. 15, al. 1, let. e, en relation avec l’art. 120 LPCC)</td><td>2 000– 20 000</td></tr>
-<tr><td>2.7 Décision concernant la constatation de la conformité à la loi de la modification des documents d’un placement collectif étranger (art. 15, al. 1, let. e, LPCC)</td><td>500– 10 000</td></tr>
-<tr><td>2.8 ...</td><td></td></tr>
-<tr><td>2.9 Décision concernant l’approbation du mandat d’experts chargés des estimations pour les fonds immobiliers (art. 64 LPCC)</td><td>1 000– 5 000</td></tr>
-<tr><td>2.10 ...</td><td></td></tr>
-<tr><td>2.11 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA)</td><td>2 000– 5 000</td></tr>
+<tr><td>2.1 Décision concernant l’octroi d’une autorisation en tant que direction de fonds, gestionnaire de fortune collective ou banque dépositaire (art. 5, 24 ss et 32 ss LEFin; art. 13 LPCC[^annexu1-lvlu1-6])</td><td>4 000–50 000</td></tr>
+<tr><td>2.1*a* Décision concernant l’octroi d’une autorisation en tant que SICAV, société en commandite de placements collectifs ou SICAF (art. 13 LPCC)</td><td>4 000–30 000</td></tr>
+<tr><td>2.2 Décision concernant l’octroi d’une autorisation en tant que représentant de placements collectifs étrangers (art. 13 LPCC)</td><td>2 000–20 000</td></tr>
+<tr><td>2.3 Décision sur l’approbation de la modification des documents d’organisation (statuts, règlement d’organisation, règlement de placement, contrat de société) d’une direction de fonds, d’une SICAV, d’une société en commandite de placements collectifs, d’une SICAF, d’un gestionnaire de fortune collective ou d’un représentant d’un placement collectif étranger (art. 15, al. 1, et 16 LPCC; art. 8 LEFin)</td><td>500–10 000</td></tr>
+<tr><td>2.4 Décision sur l’approbation du contrat de fonds de placement ou des statuts et du règlement de placement ou du contrat de société de placements collectifs ouverts ou fermés (art. 15, al. 1, let. a à d, et al. 2, LPCC)</td><td>1 000–10 000</td></tr>
+<tr><td>2.5 Décision sur l’approbation de la modification du contrat de fonds de placement ou des statuts et du règlement de placement ou du contrat de société de placements collectifs ouverts ou fermés (art. 16 et 27 LPCC)</td><td>500–5 000</td></tr>
+<tr><td>2.6 Décision sur l’approbation de l’offre à des investisseurs non qualifiés d’un placement collectif étranger (art. 15, al. 1, let. e, en relation avec l’art. 120 LPCC)</td><td>1 000–10 000</td></tr>
+<tr><td>2.7 Décision concernant la constatation de la conformité à la loi de la modification des documents d’un placement collectif étranger (art. 15, al. 1, let. e, LPCC)</td><td>300–5 000</td></tr>
+<tr><td>2.8 …</td><td></td></tr>
+<tr><td>2.9 Décision concernant l’approbation du mandat d’experts chargés des estimations pour les fonds immobiliers (art. 64 LPCC)</td><td>1 000–5 000</td></tr>
+<tr><td>2.10 …</td><td></td></tr>
+<tr><td>2.11 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA)</td><td>1 000–5 000</td></tr>
 <tr><td>3 Domaine des entreprises d’assurance</td><td></td></tr>
-<tr><td>3.1 Décision concernant l’octroi de l’autorisation d’exercer l’activité d’assurance (art. 3, al. 1, et art. 4 LSA[^annexu1-lvlu1-7])</td><td>5 000– 50 000</td></tr>
-<tr><td>3.2 Décision concernant l’octroi de l’autorisation d’exploiter une branche d’assurance supplémentaire (art. 3, al. 1, et art. 4 LSA)</td><td>2 000– 10 000</td></tr>
-<tr><td>3.3 Décision concernant l’approbation des tarifs et conditions générales (art. 4, al. 2, let. r, LSA)</td><td>1 000– 12 000</td></tr>
+<tr><td>3.1 Décision concernant l’octroi de l’autorisation d’exercer l’activité d’assurance (art. 3, al. 1, et art. 4 LSA[^annexu1-lvlu1-7])</td><td>5 000–50 000</td></tr>
+<tr><td>3.2 Décision concernant l’octroi de l’autorisation d’exploiter une branche d’assurance supplémentaire (art. 3, al. 1, et art. 4 LSA)</td><td>2 000–10 000</td></tr>
+<tr><td>3.3 Décision concernant l’approbation des tarifs et conditions générales (art. 4, al. 2, let. r, LSA)</td><td>1 000–12 000</td></tr>
 <tr><td>3.4 Décision concernant l’approbation des valeurs de règlement dans l’assurance-vie en dehors de la prévoyance professionnelle, par valeur de règlement (art. 91, al. 2, de la loi du 2 avril 1908 sur le contrat d’assurance, LCA[^annexu1-lvlu1-8] et art. 127 OS[^annexu1-lvlu1-9])</td><td>500– 5 000</td></tr>
-<tr><td>3.5 Décision concernant l’approbation des valeurs de règlement dans le cadre de la prévoyance professionnelle (art. 91, al. 2, LCA et art. 127 OS)</td><td>1 000– 12 000</td></tr>
-<tr><td>3.6 Décision concernant les participations et les transferts ainsi que les modifications du plan d’exploitation en relation avec de telles transactions (art. 3, al. 2, 4, al. 2, 21 et 62 LSA)</td><td>5 000– 50 000</td></tr>
-<tr><td>3.7 Décisions concernant d’autres modifications du plan d’exploitation, ainsi que des modifications de l’activité et de l’organisation de l’entreprise (art. 4, al. 2, 11, al. 2, et 27, al. 2, LSA; art. 11, al. 1, 13, al. 2, 19, al. 2, et 99, al. 2, OS)</td><td>500– 12 500</td></tr>
-<tr><td>3.8 Décisions en relation avec la fortune liée et les prescriptions de placement (art. 70 à 95 OS)</td><td>500– 12 500</td></tr>
-<tr><td>3.9 Contrôles sur place et inspections sollicitées par l’entreprise d’assurance (art. 47, al. 1, LSA)</td><td>5 000– 50 000</td></tr>
-<tr><td>3.10 Mesures conservatoires (art. 51 ss LSA)</td><td>1 000– 10 000</td></tr>
-<tr><td>3.11 Décisions en relation avec la cessation volontaire de l’activité de l’entreprise (art. 60 LSA)</td><td>500– 10 000</td></tr>
-<tr><td>3.12 Attestations de solvabilité et autres attestations (art. 1 LSA)</td><td>300– 1 000</td></tr>
-<tr><td>3.13 ...</td><td></td></tr>
-<tr><td>3.14 Contrôles particuliers des rapports annuels (art. 25 LSA)</td><td>1 000– 10 000</td></tr>
+<tr><td>3.5 Décision concernant l’approbation des valeurs de règlement dans le cadre de la prévoyance professionnelle (art. 91, al. 2, LCA et art. 127 OS)</td><td>1 000–12 000</td></tr>
+<tr><td>3.6 Décision concernant les participations et les transferts ainsi que les modifications du plan d’exploitation en relation avec de telles transactions (art. 3, al. 2, 4, al. 2, 21 et 62 LSA)</td><td>5 000–50 000</td></tr>
+<tr><td>3.7 Décisions concernant d’autres modifications du plan d’exploitation, ainsi que des modifications de l’activité et de l’organisation de l’entreprise (art. 4, al. 2, 11, al. 2, et 27, al. 2, LSA; art. 11, al. 1, 13, al. 2, 19, al. 2, et 99, al. 2, OS)</td><td>500–12 500</td></tr>
+<tr><td>3.8 Décisions en relation avec la fortune liée et les prescriptions de placement (art. 70 à 95 OS)</td><td>500–12 500</td></tr>
+<tr><td>3.9 Contrôles sur place et inspections sollicitées par l’entreprise d’assurance (art. 47, al. 1, LSA)</td><td>5 000–50 000</td></tr>
+<tr><td>3.10 Mesures conservatoires (art. 51 ss LSA)</td><td>1 000–10 000</td></tr>
+<tr><td>3.11 Décisions en relation avec la cessation volontaire de l’activité de l’entreprise (art. 60 LSA)</td><td>500–10 000</td></tr>
+<tr><td>3.12 Attestations de solvabilité et autres attestations (art. 1 LSA)</td><td>300–1 000</td></tr>
+<tr><td>3.13 …</td><td></td></tr>
+<tr><td>3.14 Contrôles particuliers des rapports annuels (art. 25 LSA)</td><td>1 000–10 000</td></tr>
 <tr><td>4 Domaine des intermédiaires d’assurances</td><td></td></tr>
-<tr><td>4.1 Inscription dans le registre, par personne physique (art. 43, al. 1, LSA)</td><td>300– 3 000</td></tr>
-<tr><td>4.2 Inscription dans le registre, par personne morale (art. 43, al. 1, LSA)</td><td>300– 3 000</td></tr>
-<tr><td>4.3 Intervention en cas d’activité d’intermédiaire prohibée (art. 41 et 51, al. 2, let. g, LSA; ac. du 19 déc. 1996 sur l’assurance directe et l’intermédiation en assurance entre la Confédération suisse et la Principauté de Liechtenstein[^annexu1-lvlu1-10])</td><td>500– 10 000</td></tr>
-<tr><td>4.4 Contrôles sur place et inspections (art. 47, al. 1, LSA)</td><td>2 000– 30 000</td></tr>
+<tr><td>4.1 Inscription dans le registre, par personne physique (art. 43, al. 1, LSA)</td><td>300–3 000</td></tr>
+<tr><td>4.2 Inscription dans le registre, par personne morale (art. 43, al. 1, LSA)</td><td>300–3 000</td></tr>
+<tr><td>4.3 Intervention en cas d’activité d’intermédiaire prohibée (art. 41 et 51, al. 2, let. g, LSA; ac. du 19 déc. 1996 sur l’assurance directe et l’intermédiation en assurance entre la Confédération suisse et la Principauté de Liechtenstein[^annexu1-lvlu1-10])</td><td>500–10 000</td></tr>
+<tr><td>4.4 Contrôles sur place et inspections (art. 47, al. 1, LSA)</td><td>2 000–30 000</td></tr>
 <tr><td>5 Domaine des organismes d’autorégulation</td><td></td></tr>
-<tr><td>5.1 Procédure de reconnaissance (art. 18, al. 1, let. a, et art. 24 ss LBA[^annexu1-lvlu1-11])</td><td>9 000– 20 000</td></tr>
-<tr><td>5.2 Mutations (art. 24 et 25 LBA)</td><td>200– 10 000</td></tr>
-<tr><td>5.3 ...</td><td></td></tr>
-<tr><td>5.4 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA)</td><td>500– 5 000</td></tr>
-<tr><td>6 Domaine des organismes de surveillance au sens du titre 3 LFINMA**[^annexu1-lvlu1-12]**</td><td></td></tr>
-<tr><td>6.1 Décision concernant l’octroi d’une autorisation en tant que gestionnaire de fortune ou trustee (art. 5 et 17 ss LEFin)</td><td>2 000– 20 000</td></tr>
-<tr><td>6.2 Décision concernant l’autorisation en cas de modification significative chez un gestionnaire de fortune ou un trustee (art. 8, al. 2, LEFin)</td><td>200– 4 000</td></tr>
-<tr><td>6.3 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise en tant que gestionnaire de fortune ou de trustee</td><td>500– 5 000</td></tr>
-<tr><td>7 ...</td><td></td></tr>
+<tr><td>5.1 Procédure de reconnaissance (art. 18, al. 1, let. a, et art. 24 ss LBA[^annexu1-lvlu1-11])</td><td>9 000–20 000</td></tr>
+<tr><td>5.2 Mutations (art. 24 et 25 LBA)</td><td>200–10 000</td></tr>
+<tr><td>5.3 …</td><td></td></tr>
+<tr><td>5.4 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise (art. 37 LFINMA)</td><td>500–5 000</td></tr>
+<tr><td>6 Domaine des organismes de surveillance au sens du titre 3 LFINMA[^annexu1-lvlu1-12]</td><td></td></tr>
+<tr><td>6.1 Décision concernant l’octroi d’une autorisation en tant que gestionnaire de fortune ou trustee (art. 5 et 17 ss LEFin)</td><td>2 000–20 000</td></tr>
+<tr><td>6.2 Décision concernant l’autorisation en cas de modification significative chez un gestionnaire de fortune ou un trustee (art. 8, al. 2, LEFin)</td><td>200–4 000</td></tr>
+<tr><td>6.3 Procédure en relation avec la cessation volontaire de l’activité de l’entreprise en tant que gestionnaire de fortune ou de trustee</td><td>500–5 000</td></tr>
+<tr><td>7 …</td><td></td></tr>
 <tr><td>8 Émoluments généraux</td><td></td></tr>
-<tr><td>8.1 Décision sur une demande selon l’art. 42 ou 43 LFINMA</td><td>3 000– 15 000</td></tr>
-<tr><td>8.2 Coûts pour la reconnaissance de décisions d’insolvabilité étrangères</td><td>3 000– 10 000</td></tr>
+<tr><td>8.1 Décision sur une demande selon l’art. 42 ou 43 LFINMA</td><td>3 000–15 000</td></tr>
+<tr><td>8.2 Coûts pour la reconnaissance de décisions d’insolvabilité étrangères</td><td>3 000–10 000</td></tr>
 <tr><td>9 Débours</td><td></td></tr>
 <tr><td>9.1 Les coûts pour photocopies s’élèvent à 50 centimes par page.</td><td></td></tr>
 </table>
