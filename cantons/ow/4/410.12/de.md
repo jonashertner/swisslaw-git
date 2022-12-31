@@ -4,13 +4,13 @@ number: "410.12"
 title: Verordnung über das Anstellungsverhältnis der Lehrpersonen
 short: "Lehrpersonenverordnung, LPV"
 language: de
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-05-27
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-20
 adopted: 2008-04-25
 in_force: 2008-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.12"
-pdf: "http://gdb.ow.ch/api/de/versions/1715/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1760/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1715/pdf_file"
 
 (Lehrpersonenverordnung, LPV)
 
-vom 25.04.2008 (Stand 01.08.2021)
+vom 25.04.2008 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -540,13 +540,15 @@ geändert durch
 
 \- Nachtrag vom 10. Dezember 2013, in Kraft seit 1. Januar 2014 (OGS 2013, 51),\* \*\*
 
-\- Nachtrag vom 29. Juni 2018 (OGS 2014, 24), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratsprotokoll vom 25. Mai und 29. Juni 2018 (23.18.04), in Kraft seit 1. August 2019 (OGS 2018, 29),
+\- Nachtrag vom 29. Juni 2018 (OGS 2018, 24), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratsprotokoll vom 25. Mai und 29. Juni 2018 (23.18.04), in Kraft seit 1. August 2019 (OGS 2018, 29),
 
 \- Nachtrag zum Bildungsgesetz vom 29. Juni 2018 (OGS 2018, 26), Botschaft und Vorlage des Regierungsrats vom 27. März 2018, Kantonsratssitzungen vom 25. Mai und 29. Juni 2018 (22.18.04), in Kraft seit 1. Januar 2020 (OGS 2018, 28)
 
 \- Nachtrag vom 10. September 2020 (OGS 2020, 38), Botschaft und Vorlage des Regierungsrats vom 23. Juni 2020, Kantonsratssitzung vom 10. September 2020 (23.20.03), in Kraft seit 1. August 2021
 
-\- Nachtrag zur Personalverordnung vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27)
+\- Nachtrag zur Personalverordnung vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27),
+
+\- Nachtrag vom 20. September 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 31 und 35) \*
 
 \* Änderung des Anhangs 2 durch den Regierungsrat
 
