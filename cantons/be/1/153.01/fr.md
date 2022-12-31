@@ -4,13 +4,13 @@ number: "153.01"
 title: Loi sur le personnel
 short: LPers
 language: fr
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-10
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-06-15
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2656/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3022/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2656/pdf_file"
 
 (LPers)
 
-du 16.09.2004 (état au 01.05.2021)
+du 16.09.2004 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -261,6 +261,53 @@ arrête:
 - b la procédure de traitement des données,
 - c l'accès aux données et les compétences correspondantes,
 - d les mesures techniques et organisationnelles visant à garantir la sécurité des données et à empêcher toute utilisation abusive.
+
+### 1.5 Traitement de données personnelles
+
+#### Art. 12f
+
+**Système d’information sur le personnel**
+
+<sup>1</sup> La Direction des finances exploite, dans le cadre d’un progiciel de gestion intégré (PGI), un système d’information sur le personnel dans lequel sont traitées les données personnelles nécessaires à l'accomplissement des tâches au sens de la présente loi.
+
+<sup>2</sup> Le numéro AVS selon la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants (LAVS)[^12f-1] est traité dans le système d'information sur le personnel.
+
+<sup>3</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches au sens de la présente loi, sont traitées dans le système d'information sur le personnel des données personnelles particulièrement dignes de protection concernant
+
+- a l'appartenance religieuse,
+- b les opinions et l'appartenance politiques,
+- c l'évaluation des performances,
+- d l'état de santé,
+- e les mesures d'aide sociales ou d'assistance,
+- f les procédures pénales ainsi que les sanctions administratives ou pénales.
+
+<sup>4</sup> Dans la mesure où cela est impérativement nécessaire à l'accomplissement des tâches légales,
+
+- a il est possible d'accéder, dans le système d'information sur le personnel, à des données particulièrement dignes de protection de fichiers centralisés de données personnelles du canton selon l’alinéa 3, y compris à des données antérieures;
+- b un profilage conforme à la législation en vigueur est admissible dans le système d’information sur le personnel.
+
+[^12f-1]: RS [831.10](https://db.clex.ch/link/Bund/831.10/fr)
+
+#### Art. 12g
+
+**Communication de données personnelles**
+
+<sup>1</sup> Sous réserve des obligations particulières de garder le secret, les autorités et institutions chargées d'exécuter la présente loi
+
+- a peuvent communiquer des données personnelles à d'autres services cantonaux dans la mesure où cela est nécessaire à l’accomplissement des tâches;
+- b peuvent communiquer des données particulièrement dignes de protection à d'autres service cantonaux dans la mesure où cela est impérativement nécessaire à l’accomplissement des tâches.
+
+#### Art. 12h
+
+**Responsabilité**
+
+<sup>1</sup> Les autorités et institutions chargées de l'exécution de la présente loi répondent du respect de la législation sur la protection des données.
+
+#### Art. 12i
+
+**Exigences supplémentaires de protection des données**
+
+<sup>1</sup> Le Conseil-exécutif règle par voie d'ordonnance les exigences supplémentaires de protection des données relatives au système d’information sur le personnel.
 
 ## 2 Création, modification et résiliation des rapports de travail
 
@@ -677,11 +724,11 @@ arrête:
 
 **Droit de signaler des irrégularités et protection**
 
-<sup>1</sup> Quiconque signale de bonne foi une irrégularité au service d’enregistrement au sens de l’article 17a de la loi du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (loi cantonale sur le Contrôle des finances, LCCF)[^50a-1] ou l’aide dans l’établissement des faits ne doit subir aucun préjudice dans ses rapports de service. Sont en particulier considérés comme préjudice un licenciement, un déclassement dans la hiérarchie, une mutation, le refus d'une promotion ou de la progression salariale ainsi qu’une atteinte délibérée de nature psychique ou le fait de la tolérer.
+<sup>1</sup> Quiconque signale de bonne foi une irrégularité au service d’enregistrement au sens des articles 40 à 43 de la loi du 7 mars 2022 sur le Contrôle des finances (LCCF)[^50a-1] ou l’aide dans l’établissement des faits ne doit subir aucun préjudice dans ses rapports de service. Sont en particulier considérés comme préjudice un licenciement, un déclassement dans la hiérarchie, une mutation, le refus d'une promotion ou de la progression salariale ainsi qu’une atteinte délibérée de nature psychique ou le fait de la tolérer.
 
 <sup>2</sup> Quiconque subit un préjudice au sens de l’alinéa 1 en raison d’un tel avis ou de l’aide offerte dans l’établissement des faits peut exiger de l’autorité compétente qu’elle le lève.
 
-[^50a-1]: RSB 622.1
+[^50a-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 
 #### Art. 51
 

@@ -4,13 +4,13 @@ number: "153.01"
 title: Personalgesetz
 short: PG
 language: de
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-10
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-06-15
 adopted: 2004-09-16
 in_force: 2005-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2656/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3022/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2656/pdf_file"
 
 (PG)
 
-vom 16.09.2004 (Stand 01.05.2021)
+vom 16.09.2004 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -261,6 +261,53 @@ beschliesst:
 - b das Verfahren der Datenbearbeitung,
 - c den Zugriff auf die Daten und die entsprechenden Zuständigkeiten,
 - d die technischen und die organisatorischen Massnahmen zur Gewährleistung der Datensicherheit und zur Verhinderung von Missbräuchen.
+
+### 1.5 Bearbeitung von Personendaten
+
+#### Art. 12f
+
+**Personalinformationssystem**
+
+<sup>1</sup> Die Finanzdirektion betreibt im Rahmen eines Enterprise Resource Planning Systems (ERP) ein Personalinformationssystem, in dem Daten über Personen bearbeitet werden, die zur Aufgabenerfüllung gemäss diesem Gesetz notwendig sind.
+
+<sup>2</sup> Im Personalinformationssystem wird die Versichertennummer nach dem Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^12f-1] bearbeitet.
+
+<sup>3</sup> Soweit es zur Aufgabenerfüllung gemäss diesem Gesetz zwingend notwendig ist, werden im Personalinformationssystem besonders schützenswerte Personendaten über Folgendes bearbeitet:
+
+- a die religiöse Zugehörigkeit,
+- b die politischen Ansichten und Zugehörigkeiten,
+- c die Leistungsbeurteilung,
+- d die Gesundheit,
+- e Massnahmen zur sozialen Hilfe oder fürsorgerischen Betreuung,
+- f Strafverfahren sowie administrative und strafrechtliche Sanktionen.
+
+<sup>4</sup> Soweit es zur Aufgabenerfüllung gemäss diesem Gesetz zwingend notwendig ist,
+
+- a können im Personalinformationssystem aus zentralen Personendatensammlungen des Kantons besonders schützenswerte Daten nach Absatz 3 abgerufen werden, einschliesslich früherer Daten,
+- b darf im Personalinformationssystem ein Profiling nach der anwendbaren Gesetzgebung vorgenommen werden.
+
+[^12f-1]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
+
+#### Art. 12g
+
+**Bekanntgabe von Personendaten**
+
+<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden und Institutionen, unter Vorbehalt besonderer Geheimhaltungspflichten,
+
+- a können Personendaten anderen kantonalen Stellen bekanntgeben, soweit dies für die Aufgabenerfüllung notwendig ist,
+- b dürfen besonders schützenswerte Daten anderen kantonalen Stellen bekannt geben, soweit es für die Aufgabenerfüllung zwingend notwendig ist.
+
+#### Art. 12h
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Behörden und Institutionen sind für die Einhaltung der Datenschutzvorschriften verantwortlich.
+
+#### Art. 12i
+
+**Weitergehende Datenschutzanforderungen**
+
+<sup>1</sup> Weitergehende Datenschutzanforderungen an das Personalinformationssystem regelt der Regierungsrat durch Verordnung.
 
 ## 2 Begründung, Änderung und Beendigung des Arbeitsverhältnisses
 
@@ -677,11 +724,11 @@ beschliesst:
 
 **Melderecht bei Missständen und Schutz**
 
-<sup>1</sup> Wer der Meldestelle für Missstände gemäss Artikel 17a des Gesetzes vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^50a-1] eine Meldung im guten Glauben erstattet oder bei der Abklärung Unterstützung leistet, darf deswegen im Anstellungsverhältnis nicht benachteiligt werden. Als Benachteiligung gelten insbesondere Kündigung, Zurückstufung in der Hierarchie, Versetzung, Verweigerung der Beförderung oder des Gehaltsaufstiegs sowie die bewusste Beeinträchtigung psychischer Art und deren Duldung.
+<sup>1</sup> Wer der Meldestelle Missstände gemäss Artikel 40 bis 43 des Kantonalen Finanzkontrollgesetzes vom 7. März 2022 (KFKG)[^50a-1] eine Meldung im guten Glauben erstattet oder bei der Abklärung Unterstützung leistet, darf deswegen im Anstellungsverhältnis nicht benachteiligt werden. Als Benachteiligung gelten insbesondere Kündigung, Zurückstufung in der Hierarchie, Versetzung, Verweigerung der Beförderung oder des Gehaltsaufstiegs sowie die bewusste Beeinträchtigung psychischer Art und deren Duldung.
 
 <sup>2</sup> Wer wegen einer solchen Meldung oder der Unterstützung bei der Abklärung von einer Benachteiligung im Sinne von Absatz 1 betroffen ist, kann von der zuständigen Behörde deren Beseitigung verlangen.
 
-[^50a-1]: BSG 622.1
+[^50a-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 
 #### Art. 51
 
