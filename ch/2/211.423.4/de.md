@@ -4,20 +4,20 @@ title: Pfandbriefgesetz vom 25. Juni 1930 (PfG)
 short: PfG
 eli: "https://fedlex.data.admin.ch/eli/cc/47/109_113_57"
 language: de
-version: 2015-01-01
+version: 2023-01-01
 adopted: 1930-06-25
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20150101/de/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20150101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20230101/de/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Pfandbriefgesetz
 
-(PfG)**[^t-1]**
+(PfG)[^t-1]
 
-vom 25. Juni 1930 (Stand am 1. Januar 2015)
+vom 25. Juni 1930 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 19. März 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [BBl 1981 III 197](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
 
@@ -417,17 +417,33 @@ Die Artikel 33–35 und 37 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^3
 [^39-1]: Fassung gemäss Anhang Ziff. 6 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^39-2]: SR [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-### VI. Aushändigung der Deckungswerte
+### VI. Prüfung und Verwaltung der Deckung
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> Die FINMA kann die Aushändigung der Deckungswerte anordnen, wenn eine Pfandbriefzentrale oder ein Mitglied, das einer Pfandbriefzentrale Darlehen schuldet, wiederholt Vorschriften schwer verletzt oder das Vertrauen in sie ernsthaft beeinträchtigt ist.
+<sup>1</sup> Wenn eine Pfandbriefzentrale oder ein Mitglied, das einer Pfandbriefzentrale Darlehen schuldet, gesetzliche Vorschriften, namentlich Eigenmittelvorschriften, verletzt oder das Vertrauen in sie ernsthaft beeinträchtigt ist, kann die FINMA einen Untersuchungsbeauftragten einsetzen und die Aushändigung der Deckungswerte anordnen.
 
-<sup>2</sup> Bis zur Wiederherstellung des ordnungsgemässen Zustands kann sie einen Untersuchungsbeauftragten mit der Verwaltung der Deckungswerte auf Kosten der Pfandbriefzentrale oder des Mitglieds beauftragen.
+<sup>2</sup> Die FINMA kann den Untersuchungsbeauftragten mit der Prüfung und Verwaltung der Deckung auf Kosten der Pfandbriefzentrale oder des Mitglieds beauftragen.
 
-[^40-1]: Fassung gemäss Anhang Ziff. 6 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^40-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+### VI*a*. Separierung von Darlehen und Deckung
+
+#### Art. 40a
+
+[^40a-1]
+
+<sup>1</sup> Wird über ein Mitglied der Konkurs eröffnet, so ordnet die FINMA die Separierung der Darlehen und der Deckung, einschliesslich der eingehenden Zinsen und Rückzahlungen, an. Die Darlehen werden durch die Konkurseröffnung nicht fällig.
+
+<sup>2</sup> Die FINMA setzt zur Verwaltung der Darlehen und der Deckung einen Beauftragten ein. Dieser trifft alle Massnahmen, die erforderlich sind, um die vollständige und fristgerechte Erfüllung der Pflichten aus den Darlehen, einschliesslich Zins- und Rückzahlungen, zu gewährleisten.
+
+<sup>3</sup> Die FINMA kann die ganze oder teilweise Übertragung von Darlehen und der Deckung genehmigen.
+
+<sup>4</sup> Nach der Rückzahlung oder Übertragung der Darlehen hat der Beauftragte darüber abzurechnen, wie weit die Deckung beansprucht wurde.
+
+[^40a-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### VII. Entzug der Ermächtigung
 

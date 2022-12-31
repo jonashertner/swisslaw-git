@@ -4,20 +4,20 @@ title: "Loi du 25 juin 1930 sur l'émission de lettres de gage (LLG)"
 short: LLG
 eli: "https://fedlex.data.admin.ch/eli/cc/47/109_113_57"
 language: fr
-version: 2015-01-01
+version: 2023-01-01
 adopted: 1930-06-25
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20150101/fr/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20150101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20150101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi sur l’émission de lettres de gage
 
-(LLG)**[^t-1]**
+(LLG)[^t-1]
 
-du 25 juin 1930 (Etat le 1<sup>er</sup> janvier 2015)
+du 25 juin 1930 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de la LF du 19 mars 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [FF 1981 III 181](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
 
@@ -88,7 +88,7 @@ La sphère d’activité des centrales comprend:
 - 4\. d’autres opérations de banque à court terme, mais uniquement dans la mesure nécessitée par l’émission des lettres de gage et par l’octroi des prêts.
 
 [^5-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1967, en vigueur depuis le 15 fév. 1968 ([RO 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 649](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
-[^5-2]: Nouvelle teneur selon le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### VI. Exonération de l’impôt
 
@@ -98,7 +98,7 @@ La sphère d’activité des centrales comprend:
 
 <sup>2</sup> Les prêts consentis par les centrales conformément aux art. 11 et 12, de même que les intérêts qu’ils produisent ne sont soumis à aucun impôt fédéral du timbre.
 
-## Chapitre 2 Emission de lettres de gage et octroi de prêts
+## Chapitre 2 Émission de lettres de gage et octroi de prêts
 
 ### I. Lettres de gage
 
@@ -118,7 +118,7 @@ La sphère d’activité des centrales comprend:
 
 <sup>5</sup> Dans les rapports avec la centrale, est seul légitimé celui qui est au bénéfice d’une inscription dans le registre.
 
-[^7-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la loi du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^7-1]: Nouvelle teneur selon l’annexe ch. 2 de la loi du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### b. Contenu
 
@@ -128,7 +128,7 @@ La sphère d’activité des centrales comprend:
 
 Le Conseil fédéral peut édicter des dispositions relatives au contenu des lettres de gage.
 
-[^8-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la loi du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 2 de la loi du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### c. Attestation de la couverture légale
 
@@ -138,7 +138,7 @@ Le Conseil fédéral peut édicter des dispositions relatives au contenu des let
 
 Les organes responsables attestent avant l’émission des lettres de gage que la couverture légale existe.
 
-[^9-1]: Nouvelle teneur selon le ch. 2 de l’annexe à la loi du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 2 de la loi du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### d. Montant de l’émission
 
@@ -160,7 +160,7 @@ Les centrales sont tenues de limiter l’émission des lettres de gage de façon
 
 <sup>2</sup> Elles peuvent également accorder à d’autres établissements de crédit des prêts dont la couverture est fixée à l’art. 26.
 
-### b. Echéance et remboursement anticipé
+### b. Échéance et remboursement anticipé
 
 #### Art. 12
 
@@ -256,7 +256,7 @@ Lorsque les intérêts de la couverture fournie par un membre sont inférieurs �
 
 Les prêts faits par les centrales et les intérêts non encore versés jouissent d’un droit de gage sur la couverture inscrite au registre des gages des membres sans qu’il y ait lieu de conclure un contrat spécial de nantissement, de remettre la couverture aux centrales ou à leurs représentants ou de procéder à une inscription au registre foncier.
 
-[^23-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
 ### f. Reddition des comptes
 
@@ -298,7 +298,7 @@ La poursuite contre les centrales pour créances des détenteurs de lettres de g
 
 [^28-1]
 
-[^28-1]: Abrogé par le ch. 5 de l’annexe à la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^28-1]: Abrogé par l’annexe ch. 5 de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### III. Rang des créances
 
@@ -308,7 +308,7 @@ La poursuite contre les centrales pour créances des détenteurs de lettres de g
 
 Quelle que soit la date de leur émission, toutes les lettres de gage d’une centrale sont garanties au même rang par la couverture.
 
-[^29-1]: Nouvelle teneur selon le ch. 5 de l’annexe à la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^29-1]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### IV. Communauté des créanciers
 
@@ -332,7 +332,7 @@ Lorsqu’un prêt a été consenti conformément à l’art. 26, la centrale peu
 
 <sup>2</sup> L’Autorité fédérale de surveillance des marchés financiers (FINMA) peut exiger une nouvelle estimation des biens-fonds lorsque la valeur de l’argent ou les conditions économiques se sont profondément modifiées.[^32-1]
 
-[^32-1]: Nouvelle teneur selon le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### II. Base de l’estimation
 
@@ -387,9 +387,9 @@ Le Conseil fédéral prescrit la forme sous laquelle les bilans annuels et les c
 
 <sup>1</sup> Les centrales d’émission de lettres de gage chargent une société d’audit agréée par l’Autorité fédérale de surveillance en matière de révision selon l’art. 9*a*, al. 1, de la loi du 16 décembre 2005 sur la surveillance de la révision[^38a-2] de procéder à un audit conformément à l’art. 24 de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^38a-3].
 
-<sup>2</sup> Les centrales d’émission de lettres de gage doivent faire réviser leurs comptes annuels et, le cas échéant, leurs comptes de groupe par une entreprise de révision soumise à la surveillance de l’Etat selon les principes du contrôle ordinaire du code des obligations[^38a-4].
+<sup>2</sup> Les centrales d’émission de lettres de gage doivent faire réviser leurs comptes annuels et, le cas échéant, leurs comptes de groupe par une entreprise de révision soumise à la surveillance de l’État selon les principes du contrôle ordinaire du code des obligations[^38a-4].
 
-[^38a-1]: Introduit par le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)). Nouvelle teneur selon le ch. 3 de l’annexe à la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^38a-1]: Introduit par l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)). Nouvelle teneur selon l’annexe ch. 3 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^38a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^38a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^38a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -404,7 +404,7 @@ Le Conseil fédéral prescrit la forme sous laquelle les bilans annuels et les c
 
 <sup>2</sup> Elles consignent les résultats de leur audit dans un rapport à l’intention des centrales et des sociétés d’audit mandatées par ces dernières.
 
-[^38b-1]: Introduit par le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^38b-1]: Introduit par l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### V. Surveillance
 
@@ -414,20 +414,36 @@ Le Conseil fédéral prescrit la forme sous laquelle les bilans annuels et les c
 
 Les art. 33 à 35 et 37 de la loi du 22 juin 2007 sur la surveillance des marchés financiers[^39-2] ne sont pas applicables.
 
-[^39-1]: Nouvelle teneur selon le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^39-1]: Nouvelle teneur selon l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^39-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-### VI. Remise des valeurs de couverture
+### VI. Contrôle et gestion de la couverture
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> La FINMA peut ordonner la remise des valeurs de couverture lorsqu’une centrale ou un membre qui en a obtenu un prêt viole les prescriptions de façon grave et répétée ou compromet sérieusement la confiance qui lui est faite.
+<sup>1</sup> Lorsqu’une centrale ou un membre qui en a obtenu un prêt viole les prescriptions légales, notamment celles qui concernent les fonds propres, ou compromet sérieusement la confiance qui lui est faite, la FINMA peut nommer un chargé d’enquête et ordonner la remise des valeurs de couverture.
 
-<sup>2</sup> La FINMA peut confier la gestion des valeurs de couverture à un chargé d’enquête, aux frais de la centrale ou du membre concernés, jusqu’à ce que la situation soit rétablie.
+<sup>2</sup> Elle peut confier le contrôle et la gestion de la couverture au chargé d’enquête, aux frais de la centrale ou du membre concernés.
 
-[^40-1]: Nouvelle teneur selon le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^40-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+### VI*a*. Séparation des prêts et de la couverture
+
+#### Art. 40a
+
+[^40a-1]
+
+<sup>1</sup> Si un membre est déclaré en faillite, la FINMA ordonne la séparation des prêts et de la couverture, dans laquelle les intérêts et remboursements encaissés sont inclus. L’ouverture de la faillite n’entraîne pas l’exigibilité des prêts.
+
+<sup>2</sup> La FINMA nomme une personne chargée de la gestion des prêts et de la couverture. Celle-ci prend toutes les mesures propres à garantir le respect des obligations découlant des prêts, y compris le paiement des intérêts et les remboursements, dans leur intégralité et dans les délais impartis.
+
+<sup>3</sup> La FINMA peut autoriser le transfert partiel ou total des prêts et de la couverture.
+
+<sup>4</sup> Après le remboursement ou le transfert des prêts, la personne chargée de la gestion des prêts et de la couverture établit un décompte de l’utilisation de la couverture.
+
+[^40a-1]: Introduit par l’annexe ch. 1 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### VII. Retrait de l’autorisation
 
@@ -442,7 +458,7 @@ Les art. 33 à 35 et 37 de la loi du 22 juin 2007 sur la surveillance des march�
 Si une centrale s’oppose de façon répétée aux mesures ordonnées par l’autorité de surveillance, la FINMA[^41-2] peut proposer au Conseil fédéral de lui retirer l’autorisation d’émettre des lettres de gage.
 
 [^41-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 1982, en vigueur depuis le 1<sup>er</sup> janv. 1983 ([RO 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [FF 1981 III 181](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
-[^41-2]: Nouvelle expression selon le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^41-2]: Nouvelle expression selon l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### VIII. Application des dispositions sur l’insolvabilité bancaire
 
@@ -452,14 +468,14 @@ Si une centrale s’oppose de façon répétée aux mesures ordonnées par l’a
 
 Les art. 25 à 37*g* de la loi du 8 novembre 1934 sur les banques[^42-2] sont applicables par analogie.
 
-[^42-1]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^42-1]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^42-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 #### Art. 43
 
 [^43-1]
 
-[^43-1]: Abrogé par le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^43-1]: Abrogé par l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ## Chapitre 7 Responsabilité et dispositions pénales
 
@@ -485,7 +501,7 @@ est, si le code pénal[^45-2] ne prévoit pas une peine plus sévère, puni de l
 
 <sup>2.</sup> Lorsque l’auteur aura agi par négligence, la peine sera l’amende jusqu’à concurrence de 30 000 francs.
 
-[^45-1]: Nouvelle teneur selon le ch. 3 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-1]: Nouvelle teneur selon l’annexe ch. 3 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^45-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^45-3]: Nouvelle teneur selon l’art. 333 du code pénal, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
@@ -505,20 +521,20 @@ sera puni d’une amende d’ordre de 5000 francs au plus.
 
 <sup>2</sup> En cas d’infraction au sens de l’al. 1, let. c, la poursuite pénale conformément à l’art. 285 du code pénal suisse[^46-2] est réservée.
 
-[^46-1]: Nouvelle teneur selon le ch. 3 de l’annexe au DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^46-1]: Nouvelle teneur selon l’annexe ch. 3 du DPA, en vigueur depuis le 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^46-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogé par le ch. 6 de l’annexe à la loi du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^47-1]: Abrogé par l’annexe ch. 6 de la loi du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 48 et 49
 
 [^4849-1]
 
-[^4849-1]: Abrogés par le ch. 3 de l’annexe du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^4849-1]: Abrogés par l’annexe ch. 3 du DPA, avec effet au 1<sup>er</sup> janv. 1975 ([RO 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 1017](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ## Chapitre 8 Dispositions transitoires et finales
 
@@ -528,7 +544,7 @@ sera puni d’une amende d’ordre de 5000 francs au plus.
 
 [^50-1]
 
-[^50-1]: Abrogé par le ch. 5 de l’annexe à la LF du 16 déc. 1994, avec effet az 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^50-1]: Abrogé par l’annexe ch. 5 de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### II. Lettres de gage de droit cantonal
 
@@ -547,5 +563,5 @@ La présente loi n’a aucun effet sur les lettres de gage de droit cantonal ém
 Date de l’entrée en vigueur: 1<sup>er</sup> février 1931[^52-3]
 
 [^52-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^52-2]: Phrase abrogée par le ch. I de la LF du 5 oct. 1967, avec effet az 15 fév. 1968 ([RO 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 649](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
+[^52-2]: Phrase abrogée par le ch. I de la LF du 5 oct. 1967, avec effet au 15 fév. 1968 ([RO 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 649](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
 [^52-3]: ACF du 23 janv. 1931

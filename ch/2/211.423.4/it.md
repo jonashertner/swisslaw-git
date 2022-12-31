@@ -4,20 +4,20 @@ title: Legge del 25 giugno 1930 sulle obbligazioni fondiarie (LOF)
 short: LOF
 eli: "https://fedlex.data.admin.ch/eli/cc/47/109_113_57"
 language: it
-version: 2015-01-01
+version: 2023-01-01
 adopted: 1930-06-25
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20150101/it/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20150101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/109_113_57/20230101/it/xml/fedlex-data-admin-ch-eli-cc-47-109_113_57-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/109_113_57/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge sulle obbligazioni fondiarie
 
-(LOF)**[^t-1]**
+(LOF)[^t-1]
 
-del 25 giugno 1930 (Stato 1° gennaio 2015)
+del 25 giugno 1930 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo tit. giusta il n. I della LF del 19 mar. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [FF 1981 III 165](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
 
@@ -86,7 +86,7 @@ La sfera d’affari della centrale comprende:
 - 3\.[^5-2] Il collocamento di capitale proprio e di capitale di terzi in crediti garantiti da pegno immobiliare fino a concorrenza dei due terzi del loro valore venale e, per le cartelle di rendita fondiaria, del valore di reddito del pegno immobiliare in Svizzera, in effetti pensionabili presso la Banca nazionale svizzera e in obbligazioni di debitori svizzeri trattate su un mercato rappresentativo, in depositi a vista o a termine sia presso loro membri, sia presso altre banche svizzere, come pure in fondi, in vista dell’erezione di locali commerciali in proprio.
 
 [^5-1]: Nuovo testo giusta il n. I della LF del 5 ott. 1967, in vigore dal 15 feb. 1968 ([RU 1968 225](https://fedlex.data.admin.ch/eli/oc/1968/209_225_225); [FF 1967 I 381](https://fedlex.data.admin.ch/eli/fga/1967/1_625_649_381)).
-[^5-2]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^5-2]: Nuovo testo giusta l’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### VI. Esenzione dall’imposta
 
@@ -116,7 +116,7 @@ La sfera d’affari della centrale comprende:
 
 <sup>5</sup> Nei confronti della centrale è considerato avente diritto chi è iscritto nel registro.
 
-[^7-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^7-1]: Nuovo testo giusta l’all. n. 2 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### b. Contenuto
 
@@ -126,7 +126,7 @@ La sfera d’affari della centrale comprende:
 
 Il Consiglio federale può emanare disposizioni concernenti il contenuto delle obbligazioni fondiarie.
 
-[^8-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^8-1]: Nuovo testo giusta l’all. n. 2 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### c. Attestazione della copertura legale
 
@@ -136,7 +136,7 @@ Il Consiglio federale può emanare disposizioni concernenti il contenuto delle o
 
 Prima dell’emissione delle obbligazioni fondiarie, gli organi responsabili attestano l’esistenza della copertura legale.
 
-[^9-1]: Nuovo testo giusta il n. 2 dell’all. alla L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^9-1]: Nuovo testo giusta l’all. n. 2 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### d. Ammontare dell’emissione
 
@@ -254,7 +254,7 @@ Quando la copertura fornita da un membro frutti interessi inferiori a quelli dei
 
 I mutui fatti dalle centrali, con gli interessi non ancora versati, fruiscono di un diritto di pegno sulla copertura iscritta nel registro di pegni dei membri, senza che sia necessario concludere uno speciale contratto di pegno e consegnare la copertura alle centrali o ai loro rappresentanti o sia necessaria un’iscrizione nel registro fondiario.
 
-[^23-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^23-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
 ### f. Rendimento dei conti
 
@@ -296,7 +296,7 @@ L’esecuzione contro le centrali, per crediti dei possessori di obbligazioni fo
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. 5 dell’all. della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^28-1]: Abrogato dall’all. n. 5 della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### III. Grado dei crediti
 
@@ -306,7 +306,7 @@ L’esecuzione contro le centrali, per crediti dei possessori di obbligazioni fo
 
 Indipendentemente dalla data della loro emissione, tutte le obbligazioni fondiarie di una centrale sono garantite nel medesimo grado dalla copertura.
 
-[^29-1]: Nuovo testo giusta il n. 5 dell’all. della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^29-1]: Nuovo testo giusta l’all. n. 5 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### IV. Comunione di creditori
 
@@ -330,7 +330,7 @@ Se una centrale d’emissione ha concesso un mutuo in conformità dell’articol
 
 <sup>2</sup> L’Autorità federale di vigilanza sui mercati finanziari (FINMA) può esigere una nuova stima dei fondi, quando il valore del denaro o le condizioni economiche si siano profondamente modificati.[^32-1]
 
-[^32-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^32-1]: Nuovo testo giusta l’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### II. Base della valutazione
 
@@ -387,7 +387,7 @@ Il Consiglio federale determina in quale forma debbano venir compilati e pubblic
 
 <sup>2</sup> Le centrali d’emissione di obbligazioni fondiarie devono sottoporre il loro conto annuale ed eventualmente il loro conto di gruppo alla verifica di un’impresa di revisione sotto sorveglianza statale secondo i principi della revisione ordinaria del Codice delle obbligazioni[^38a-4].
 
-[^38a-1]: Introdotto dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Nuovo testo giusta il n. 3 dell’all. alla L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
+[^38a-1]: Introdotto dall’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)). Nuovo testo giusta l’all. n. 3 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 [^38a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 [^38a-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^38a-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -402,7 +402,7 @@ Il Consiglio federale determina in quale forma debbano venir compilati e pubblic
 
 <sup>2</sup> Le società di audit presentano un rapporto sulle loro verifiche alle centrali di emissione di obbligazioni fondiarie e alle società di audit da esse incaricate.
 
-[^38b-1]: Introdotto dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^38b-1]: Introdotto dall’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### V. Vigilanza
 
@@ -412,26 +412,42 @@ Il Consiglio federale determina in quale forma debbano venir compilati e pubblic
 
 Gli articoli 33*–*35 e 37 della legge del 22 giugno 2007[^39-2] sulla vigilanza dei mercati finanziari non sono applicabili.
 
-[^39-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^39-1]: Nuovo testo giusta l’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^39-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-### VI. Consegna dei valori di copertura
+### VI. Verifica e gestione della copertura
 
 #### Art. 40
 
 [^40-1]
 
-<sup>1</sup> La FINMA può ordinare la consegna dei valori di copertura qualora una centrale o un membro, che ne sia mutuatario, violi reiteratamente e gravemente le prescrizioni o comprometta seriamente la fiducia in essa riposta.
+<sup>1</sup> Se una centrale o un membro, che ne sia mutuatario, viola le prescrizioni legali, segnatamente le prescrizioni relative ai fondi propri, o se la fiducia riposta nella centrale o nel membro è seriamente compromessa, la FINMA può designare un incaricato dell’inchiesta e ordinare la consegna dei valori di copertura.
 
-<sup>2</sup> La FINMA può affidare la gestione dei valori di copertura a un incaricato dell’inchiesta, a spese della centrale o del membro, fino al ripristino della situazione conforme.
+<sup>2</sup> La FINMA può affidare la verifica e la gestione della copertura all’incaricato dell’inchiesta, a spese della centrale o del membro.
 
-[^40-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^40-1]: Nuovo testo giusta l’all. n. 1 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+### VI*a*. Separazione dei mutui e della copertura
+
+#### Art. 40a
+
+[^40a-1]
+
+<sup>1</sup> Se è dichiarato il fallimento di un membro, la FINMA ordina la separazione dei mutui e della copertura, ivi compresi gli interessi e i rimborsi incassati. Con la dichiarazione di fallimento i mutui non diventano esigibili.
+
+<sup>2</sup> La FINMA designa un incaricato per la gestione dei mutui e della copertura. Esso adotta tutti i provvedimenti necessari a garantire l’adempimento integrale e tempestivo degli obblighi derivanti dai mutui, ivi compresi il pagamento di interessi e i rimborsi.
+
+<sup>3</sup> La FINMA può autorizzare il trasferimento integrale o parziale dei mutui e della copertura.
+
+<sup>4</sup> Dopo il rimborso o il trasferimento dei mutui l’incaricato determina in che misura è stata utilizzata la copertura.
+
+[^40a-1]: Introdotto dall’all. n. 1 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### VII. Revoca dell’autorizza- zione
 
 [^chapVI-lvlVII-1]
 
-[^chapVI-lvlVII-1]: Nuovo testo giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^chapVI-lvlVII-1]: Nuovo testo giusta l’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 41
 
@@ -440,7 +456,7 @@ Gli articoli 33*–*35 e 37 della legge del 22 giugno 2007[^39-2] sulla vigilanz
 Se la centrale rifiuta reiteratamente di sottoporsi ai provvedimenti ordinati dall’autorità di vigilanza, la FINMA[^41-2] può proporre al Consiglio federale di revocarle l’autorizzazione d’emettere obbligazioni fondiarie.
 
 [^41-1]: Nuovo testo giusta il n. I della LF del 19 mar. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1876](https://fedlex.data.admin.ch/eli/oc/1982/1876_1876_1876); [FF 1981 III 165](https://fedlex.data.admin.ch/eli/fga/1981/3_197_181_165)).
-[^41-2]: Nuova espr. giusta il n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^41-2]: Nuova espr. giusta l’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ### VIII. Applica- zione delle disposizioni sull’insolvenza bancaria
 
@@ -450,14 +466,14 @@ Se la centrale rifiuta reiteratamente di sottoporsi ai provvedimenti ordinati da
 
 Gli articoli 25–37*g* della legge dell’8 novembre 1934[^42-2] sulle banche si applicano per analogia.
 
-[^42-1]: Nuovo testo giusta il n. 1 dell’all. alla LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^42-1]: Nuovo testo giusta l’all. n. 1 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^42-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 #### Art. 43
 
 [^43-1]
 
-[^43-1]: Abrogato dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^43-1]: Abrogato dall’all. n. 2 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 ## Capo VII: Responsabili e disposizioni penali
 
@@ -480,7 +496,7 @@ Chiunque trasgredisce la presente legge o l’ordinanza d’esecuzione è respon
 - è punito, in quanto non ricorrano gli estremi per una pena più severa in virtù del Codice penale svizzero[^45-2], con una multa sino a 50 000 franchi.[^45-3]
 - 2\. Se l’autore ha agito per negligenza, la pena è della multa fino a 30000 franchi.
 
-[^45-1]: Nuovo testo giusta il n. 3 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^45-1]: Nuovo testo giusta l’all. n. 3 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^45-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^45-3]: Nuovo testo giusta l’art. 333 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
@@ -499,20 +515,20 @@ Chiunque trasgredisce la presente legge o l’ordinanza d’esecuzione è respon
 
 <sup>2</sup> In caso di infrazione a tenore del capoverso 1 lettera *c*, rimane riservata l’azione penale secondo l’articolo 285 del Codice penale svizzero[^46-2].
 
-[^46-1]: Nuovo testo giusta il n. 3 dell’all. al DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^46-1]: Nuovo testo giusta l’all. n. 3 del DPA, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 [^46-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. 6 dell’all. alla LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^47-1]: Abrogato dall’all. n. 6 della LF del 22 giu. 2007 concernente l’Autorità federale di vigilanza sui mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
 #### Art. 48 e 49
 
 [^4849-1]
 
-[^4849-1]: Abrogati dal n. 3 dell’all. alla LF del 22 mar. 1974 sul diritto penale amministrativo, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
+[^4849-1]: Abrogati dall’all. n. 3 della LF del 22 mar. 1974 sul diritto penale amministrativo, con effetto dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
 
 ## Capo VIII: Disposizioni transitorie e finali
 
@@ -522,7 +538,7 @@ Chiunque trasgredisce la presente legge o l’ordinanza d’esecuzione è respon
 
 [^50-1]
 
-[^50-1]: Abrogato dal n. 5 dell’all. della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^50-1]: Abrogato dall’all. n. 5 della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### II. Obbligazioni fondiarie del diritto cantonale
 
