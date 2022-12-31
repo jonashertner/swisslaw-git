@@ -4,13 +4,13 @@ number: "170.211"
 title: Verordnung über die Regionalkonferenzen
 short: RKV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2416/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2760/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2416/pdf_file"
 
 (RKV)
 
-vom 24.10.2007 (Stand 01.01.2022)
+vom 24.10.2007 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -187,7 +187,7 @@ beschliesst:
 
 <sup>1</sup> Perimeter: Die Regionalkonferenz Bern-Mittelland umfasst das Gebiet des Verwaltungskreises Bern-Mittelland (Verwaltungsregion Bern-Mittelland) mit den nachfolgend aufgeführten Gemeinden.
 
-<sup>2</sup> Allmendingen, Arni (BE), Bäriswil, Belp, Bern, Biglen, Bolligen, Bowil, Bremgarten bei Bern, Brenzikofen, Deisswil bei Münchenbuchsee, Diemerswil, Ferenbalm, Fraubrunnen, Frauenkappelen, Freimettigen, Gerzensee, Grosshöchstetten, Guggisberg, Gurbrü, Häutligen, Herbligen, Iffwil, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Köniz, Konolfingen, Kriechenwil, Landiswil, Laupen, Linden, Mattstetten, Meikirch, Mirchel, Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Münsingen, Muri bei Bern, Neuenegg, Niederhünigen, Niedermuhlern, Oberbalm, Oberdiessbach, Oberhünigen, Oberthal, Oppligen, Ostermundigen, Riggisberg, Rubigen, Rüeggisberg, Rüschegg, Schwarzenburg, Stettlen, Thurnen, Toffen, Urtenen-Schönbühl, Vechigen, Wald (BE), Walkringen, Wichtrach, Wiggiswil, Wileroltigen, Wohlen bei Bern, Worb, Zäziwil, Zollikofen, Zuzwil (BE).
+<sup>2</sup> Allmendingen, Arni (BE), Bäriswil, Belp, Bern, Biglen, Bolligen, Bowil, Bremgarten bei Bern, Brenzikofen, Deisswil bei Münchenbuchsee, Ferenbalm, Fraubrunnen, Frauenkappelen, Freimettigen, Gerzensee, Grosshöchstetten, Guggisberg, Gurbrü, Häutligen, Herbligen, Iffwil, Ittigen, Jaberg, Jegenstorf, Kaufdorf, Kehrsatz, Kiesen, Kirchdorf (BE), Kirchlindach, Köniz, Konolfingen, Kriechenwil, Landiswil, Laupen, Linden, Mattstetten, Meikirch, Mirchel, Moosseedorf, Mühleberg, Münchenbuchsee, Münchenwiler, Münsingen, Muri bei Bern, Neuenegg, Niederhünigen, Niedermuhlern, Oberbalm, Oberdiessbach, Oberhünigen, Oberthal, Oppligen, Ostermundigen, Riggisberg, Rubigen, Rüeggisberg, Rüschegg, Schwarzenburg, Stettlen, Thurnen, Toffen, Urtenen-Schönbühl, Vechigen, Wald (BE), Walkringen, Wichtrach, Wiggiswil, Wileroltigen, Wohlen bei Bern, Worb, Zäziwil, Zollikofen, Zuzwil (BE).
 
 #### Art. A1-5
 
