@@ -1,170 +1,123 @@
 ---
 canton: GR
 number: "914.350"
-title: Tariffa da taxas per incumbensas en il sectur da la sanadad dals animals
+title: "Tariffa d'indemnisaziun per incumbensas en il sectur da la sanadad dals animals"
 language: rm
-version: 2013-10-01
-corrected: 2014-10-09
-version_adopted: 2013-09-03
+version: 2023-01-01
+version_adopted: 2022-12-13
 adopted: 2022-12-13
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/914.350"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1881/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3287/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Tariffa da taxas per incumbensas en il sectur da la sanadad dals animals
+# Tariffa d'indemnisaziun per incumbensas en il sectur da la sanadad dals animals
 
-sa basond sin l'art. 45 da la constituziun chantunala[^t-1],
+dals 13-12-2022 (versiun dals 01-01-2023)
 
-relaschada da la regenza ils 3 da settember 2013
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
-[^t-1]: DG 110.100 1-10-2013 1
+relaschada da la Regenza ils 13 da december 2022
+
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
 #### Art. 1
 
-**Pajament da las indemnisaziuns**
+**Champ d'applicaziun**
 
-Las indemnisaziuns vegnan mo pajadas, sche las funcziuns vegnan ademplidas en concordanza cun las disposiziuns legalas e cun las disposiziuns da l'uffizi.
+<sup>1</sup> Questa tariffa d'indemnisaziun vala per las spezialistas ed ils spezialists che vegnan incumbensads da l'uffizi per ademplir activitads uffizialas, particularmain per las veterinarias ed ils veterinaris cun incumbensas spezialas, per la cumissaria u il cumissari d'avieuls sco er per las inspecturas ed ils inspecturs d'avieuls.
 
 #### Art. 2
 
-**Inoltraziun dals quints**
+**Pajament da las indemnisaziuns**
 
-Las veterinarias ed ils veterinaris che han incumbensas spezialas, la cumissaria ed il cumissari d'avieuls sco er las inspecturas ed ils inspecturs d'avieuls ston inoltrar a l'uffizi ils quints per regla mintga 2 mais suenter la conclusiun da las lavurs.
+<sup>1</sup> Las indemnisaziuns vegnan pajadas mo, sche las funcziuns vegnan ademplidas en concordanza cun las disposiziuns legalas e cun las directivas da l'uffizi.
+
+<sup>2</sup> Ils quints ston vegnir inoltrads a l'uffizi per regla mintga 2 mais suenter avair terminà las lavurs.
 
 #### Art. 3
 
-**Veterinarias e veterinaris che han incumbensas spezialas 1. indemnisaziun da basa**
+**Veterinarias e veterinaris cun incumbensas spezialas 1. indemnisaziun da basa**
 
-L'indemnisaziun da basa annuala importa:
-
-- a) 900 francs per titularas e titulars sulets d'ina pratica da veterinari;
-
-- b) 600 francs per titularas e titulars parzials, che possedan mintgamai la mesadad d'ina pratica da veterinari;
-
-- c) 400 francs per titularas e titulars d'ina pratica da veterinari che ha pli che 2 titulars.
+<sup>1</sup> L'indemnisaziun da basa annuala per las veterinarias ed ils veterinaris cun incumbensas spezialas importa 1300 puncts da taxa per pratica.
 
 #### Art. 4
 
-**2. controllas dals effectivs**
+**2. examinaziuns totalas e parzialas**
 
-<sup>1</sup> La tariffa da questa disposiziun vala, sch'i vegn dà l'incumbensa da far ina controlla totala u parziala dals effectivs ubain ina vaccinaziun generala en ina vischnanca u en ina fracziun.
+<sup>1</sup> La tariffa da questa disposiziun vala, sch'i vegn surdà l'incarica da far in'examinaziun totala u parziala u ina vaccinaziun generala dals effectivs en ina vischnanca u en ina fracziun.
 
-<sup>2</sup> La taxa da basa inclusiv l'indemnisaziun da viadi per far provas da l'effectiv che servan a controllar epidemias u malsognas ch'èn suttamessas a l'obligaziun d'annunzia u per far ina vaccinaziun en cas da vaccinaziuns da l'effectiv en il rom da campagnas da vaccinaziun ordinadas, importa (en puncts da taxa):
+<sup>2</sup> La visita d'in effectiv vegn indemnisada cun mintgamai 30 puncts da taxa. Quest import cumpiglia tranter auter l'indemnisaziun per il temp da viadi, per l'organisaziun da la lavur, per la tscherna e per l'identificaziun dals animals, per l'emissiun e per la consegna dals rapports d'examinaziun e da vaccinaziun sco er per la spediziun da las provas al labor d'analisa.
 
-**26 7 7 5 7**
+<sup>3</sup> Las prestaziuns d'examinaziun vegnan indemnisadas sco suonda (en puncts da taxa):
 
-- a) per effectiv
-
-- b) per animal controllà
-
-- c) per prova da sang
-
-- d) per prova da latg
-
-- e) per prova da latg collectiva da 2 fin 5 animals
-
-**6 4**
-
-- f) per prova da punschar l'ureglia
-
-- g) per animal vaccinà
-
-<sup>3</sup> En questas tariffas è inclusa l'indemnisaziun per la marcaziun dals animals, per la cumpilaziun e per la spediziun dals rapports d'analisa e da vaccinaziun sco er per la spediziun da las provas al labor d'analisa. Ils custs da porto pon vegnir mess a quint separadamain.
+- a) per prelevaziun da sang: 10
+- b) per prova da latg: 7
+- c) per prova cun perfurar l'ureglia: 10
+- d) diagnosa da la tuberculosa, inclusiv controlla da l'emprim animal e controlla d'ulteriurs animals, per animal: 10
+- e) en cas da vaccinaziuns, per injecziun (senza custs dal vaccin): 5
+- f) per prender provas per l'examinaziun da la zoppina da nursas, per effectiv: 140
 
 #### Art. 5
 
-**3. controlla singula en cas d'in suspect d'epidemia u da malsogna**
+**3. examinaziuns individualas**
 
-<sup>1</sup> La tariffa da questa disposiziun vala, sch'il privel u il cumbat d'ina epidemia u d'ina malsogna pretenda la visita immediata, betg suspendibla.
+<sup>1</sup> La tariffa da questa disposiziun vala, sche l'incarica da surveglianza u da scleriment ubain il cumbat cunter in'epidemia u ina malsogna pretenda la visita sistematica da singuls manaschis.
 
-<sup>2</sup> La taxa da basa per la visita importa 26 puncts da taxa. Las ulteriuras prestaziuns vegnan indemnisadas (en puncts da taxa) sco suonda:
+<sup>2</sup> La visita d'in effectiv vegn indemnisada cun mintgamai 30 puncts da taxa. Quest import cumpiglia tranter auter l'indemnisaziun per l'organisaziun da la lavur, per la tscherna e per l'identificaziun dals animals, per l'emissiun e per la consegna dals rapports d'examinaziun e da vaccinaziun sco er per la spediziun da las provas al labor d'analisa.
 
-**7 18 5 7 15**
+<sup>3</sup> Las prestaziuns d'examinaziun vegnan indemnisadas sco suonda (en puncts da taxa):
 
-- a) prova da sang
+- a) per prelevaziun da sang: 10
+- b) per (mintga) part da la placenta: 20
+- c) per prova da latg: 7
+- d) per examinaziun clinica: 20
+- e) diagnosa da la tuberculosa, inclusiv controlla da l'emprim animal e controlla d'ulteriurs animals, per animal: 10
+- f) en cas da vaccinaziuns, per injecziun (senza custs dal vaccin): 5
+- g) ulteriuras prelevaziuns da provas (prova cun perfurar l'ureglia, provas a tampun, material dal tscharvè, provas d'excrements e.u.v.), per prelevaziun: 10
 
-- b) trametter en parts da mundadira
-
-- c) provas da latg
-
-- d) per prova da latg collectiva da 2 fin 5 animals
-
-- e) analisas clinicas
-
-**7 4 10 7**
-
-- f) vaccinar cunter la tuberculosa, inclusiv la controlla da l'emprim animal e la controlla d'ulteriurs animals
-
-- g) vaccinaziun senza vaccin respectivamain injecziun
-
-- h) prova da material respectivamain provas a tampun
-
-- i) provas d'excrements
-
-- k) provas collectivas d'excrements, tampun per puglinas da giaglinom 10
-
-<sup>3</sup> L'indemnisaziun da viadi importa 2 puncts da taxa per kilometer. Ils viadis sco veterinaria u veterinari da controlla ordaifer il territori assegnà na vegnan betg indemnisads.
-
-<sup>4</sup> Las ulteriuras lavurs per incumbensa da l'uffizi vegnan indemnisadas tenor l'artitgel 6 sin basa dal temp impundì.
-
-<sup>5</sup> Las prestaziuns menziunadas qua survart includan il fatg che l'instrumentari vegn mess a disposiziun, che la dumonda da controlla vegn fatga e che las provas da controlla vegnan spedidas per posta. Ils custs da porto pon vegnir mess a quint separadamain.
+<sup>4</sup> Il temp da viadi vegn indemnisà cun 1,3 puncts da taxa per kilometer. Per viadis sco veterinaria u veterinari da controlla ordaifer il territori attribuì vegn dentant resguardà il temp da viadi mo en il rom dal servetsch d'urgenza organisà.
 
 #### Art. 6
 
 **4. indemnisaziun tenor il temp impundì**
 
-<sup>1</sup> L'indemnisaziun importa (en puncts da taxa):
+<sup>1</sup> Las prestaziuns che na vegnan betg messas a quint tenor las disposiziuns precedentas, vegnan indemnisadas cun 140 puncts da taxa per ura (temp da lavur e temp da viadi). Per las acziuns che vegnan ordinadas da l'uffizi e che han lieu las dumengias ed ils firads chantunals, vegn pajà in supplement da 50 pertschient.
 
-**120**
-
-- a) per lavurs che na pon betg vegnir messas a quint tenor las disposiziuns qua survart, per ura
-
-- b) per acziuns a favur da mesiras che servan al cumbat cunter epidemias d'animals privlusas sin clamada da l'uffizi, per ura (cun in supplement da 50 pertschient tar acziuns las dumengias ed ils firads)
-
-**140**
-
-**200**
-
-- c) per la participaziun – ordinada da l'uffizi – a conferenzas, a dietas specificas u a curs, per mez di
-
-**2**
-
-1-10-2013
-
-<sup>2</sup> Las indemnisaziuns da viadi (viadis da servetsch) e l'indemnisaziun per pernottaziuns necessarias ordaifer sa drizzan tenor l'ordinaziun dal persunal[^6-1].
-
-[^6-1]: DG 170.410 1-10-2013 3
+<sup>2</sup> Per la participaziun a curs da scolaziun ordinads da l'uffizi importa l'indemnisaziun 250 puncts da taxa per mez di.
 
 #### Art. 7
 
-**Cumissariat ed inspecturat d'avieuls**
+**Cumissariat d'avieuls ed inspecturat d'avieuls**
 
-<sup>1</sup> La cumissaria u il cumissari d'avieuls vegn indemnisà cun in import da basa annual da 1000 francs sco er tenor il temp impundì cun 50 puncts da taxa per ura. Per la participaziun a curs da scolaziun e per las spesas da viadi e da porto valan ils alineas 2 e 3.
+<sup>1</sup> L'indemnisaziun da basa annuala per la cumissaria u il cumissari d'avieuls importa 1300 puncts da taxa. Las prestaziuns vegnan indemnisadas cun 50 puncts da taxa per ura (temp da lavur e temp da viadi).
 
-<sup>2</sup> Las inspecturas ed ils inspecturs d'avieuls vegnan indemnisads (en puncts da taxa) sco suonda:
+<sup>2</sup> Las inspecturas ed ils inspecturs d'avieuls vegnan indemnisads cun 35 puncts da taxa per ura (temp da lavur e temp da viadi) per il cumbat cunter malsognas d'avieuls ch'èn suttamessas a l'obligaziun d'annunzia.
 
-**27 80**
-
-- a) funcziuns per cumbatter cunter malsognas d'avieuls ch'èn suttamessas a l'obligaziun d'annunzia, per ura
-
-- b) participaziun a curs da scolaziun, per mez di
-
-<sup>3</sup> L'indemnisaziun da viadi (spesas da viadi) sa drizza tenor l'ordinaziun dal persunal. Ils custs da porto pon vegnir mess a quint separadamain.
+<sup>3</sup> Per la participaziun a curs da scolaziun ordinads da l'uffizi importa l'indemnisaziun 120 puncts da taxa per mez di.
 
 #### Art. 8
 
-**Indexaziun**
+**Ulteriuras spezialistas ed ulteriurs spezialists incumbensads**
 
-La valur dals puncts da taxa che vegnan menziunads en quest relasch sa basa sin l'index naziunal dals pretschs da consum (basa matg 1993 = 100 puncts, 1 punct da taxa correspunda ad 1 franc) e vegn fixada mintgamai da nov sin il 1. da schaner correspundentamain a l'index dals salaris da l'administraziun chantunala.
+<sup>1</sup> Ulteriuras spezialistas ed ulteriurs spezialists incumbensads vegnan indemnisadas tenor il temp impundì cun 50 puncts da taxa per ura (temp da lavur e temp da viadi).
+
+<sup>2</sup> Per la participaziun a curs da scolaziun ordinads da l'uffizi importa l'indemnisaziun 120 puncts da taxa per mez di.
 
 #### Art. 9
 
-**Aboliziun dal dretg vertent ed entrada en vigur**
+**Spesas e custs da porto**
 
-<sup>1</sup> La tariffa da taxas per ils veterinaris uffizials ed ils inspecturs da muvel e d'avieuls dals 2 da fanadur 1996 vegn abolida.
+<sup>1</sup> L'indemnisaziun da las spesas da viadi sco er da las spesas d'alimentaziun e da pernottaziun en connex cun curs da scolaziun ordinads da l'uffizi sa drizza tenor l'Ordinaziun dal persunal[^9-1]. Ils custs da porto pon vegnir mess a quint separadamain.
 
-<sup>2</sup> Questa tariffa da taxas entra en vigur il 1. d'october 2013.
+[^9-1]: DG [170.410](https://www.gr-lex.gr.ch/data/170.410/rm)
+
+#### Art. 10
+
+**Indexaziun**
+
+<sup>1</sup> La valur dals puncts da taxa che figureschan en quest relasch sa basa sin l'index naziunal dals pretschs da consum (basa matg 1993 = 100 puncts, 1 franc per punct da taxa) e vegn mintgamai fixada da nov sin il 1. da schaner confurm a l'index dals salaris da l'administraziun chantunala.
+
+2022-044

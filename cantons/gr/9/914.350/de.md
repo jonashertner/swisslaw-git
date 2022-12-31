@@ -1,168 +1,123 @@
 ---
 canton: GR
 number: "914.350"
-title: Gebührentarif für Aufgaben im Bereich der Tiergesundheit
+title: Entschädigungstarif für Aufgaben im Bereich der Tiergesundheit
 language: de
-version: 2013-10-01
-corrected: 2014-10-09
-version_adopted: 2013-09-03
+version: 2023-01-01
+version_adopted: 2022-12-13
 adopted: 2022-12-13
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/914.350"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1881/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3287/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gebührentarif für Aufgaben im Bereich der Tiergesundheit
+# Entschädigungstarif für Aufgaben im Bereich der Tiergesundheit
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1],
+Vom 13.12.2022 (Stand 01.01.2023)
 
-von der Regierung erlassen am 3. September 2013
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
-[^t-1]: BR 110.100 01.10.2013 1
+von der Regierung erlassen am 13. Dezember 2022
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
 #### Art. 1
 
-**Ausrichtung der Entschädigungen**
+**Geltungsbereich**
 
-Die Entschädigungen werden nur ausgerichtet, wenn die Funktionen in Übereinstimmung mit den gesetzlichen Bestimmungen und den Weisungen des Amts ausgeübt werden.
+<sup>1</sup> Dieser Entschädigungstarif gilt für Fachpersonen, die vom Amt mit der Durchführung von amtlichen Tätigkeiten beauftragt werden, insbesondere für die Tierärztinnen und Tierärzte mit Spezialaufgaben, für die Bienenkommissärin oder den Bienenkommissär sowie die Bieneninspektorinnen und Bieneninspektoren.
 
 #### Art. 2
 
-**Einreichung der Rechnungen**
+**Ausrichtung der Entschädigungen**
 
-Die Rechnungen sind von den Tierärztinnen und Tierärzten mit Spezialaufgaben, von der Bienenkommissärin oder vom Bienenkommissär sowie von den Bieneninspektorinnen und Bieneninspektoren in der Regel alle zwei Monate nach Abschluss der Arbeiten dem Amt einzureichen.
+<sup>1</sup> Die Entschädigungen werden nur ausgerichtet, wenn die Funktionen in Übereinstimmung mit den gesetzlichen Bestimmungen und den Weisungen des Amts ausgeübt werden.
+
+<sup>2</sup> Die Rechnungen sind in der Regel alle zwei Monate nach Abschluss der Arbeiten dem Amt einzureichen.
 
 #### Art. 3
 
 **Tierärztinnen und Tierärzte mit Spezialaufgaben 1. Grundentschädigung**
 
-Die jährliche Grundentschädigung beträgt:
-
-- a) 900 Franken für Alleininhabende einer tierärztlichen Praxis;
-
-- b) 600 Franken für hälftige Teilinhabende einer tierärztlichen Praxis;
-
-- c) 400 Franken für Inhabende einer tierärztlichen Praxis mit mehr als zwei Inhabenden.
+<sup>1</sup> Die jährliche Grundentschädigung für die Tierärztinnen und Tierärzte mit Spezialaufgaben beträgt pro Praxis 1300 Taxpunkte.
 
 #### Art. 4
 
-**2. Bestandesuntersuchungen**
+**2. Gesamt- und Teiluntersuchungen**
 
-<sup>1</sup> Der Tarif dieser Bestimmung gilt, wenn in einer Gemeinde oder in einer Fraktion der Auftrag zur Gesamt- oder Teiluntersuchung oder einer flächendeckenden Impfung der Bestände erteilt wird.
+<sup>1</sup> Der Tarif dieser Bestimmung gilt, wenn in einer Gemeinde oder in einer Fraktion der Auftrag zu einer Gesamt- oder Teiluntersuchung oder zu einer flächendeckenden Impfung der Bestände erteilt wird.
 
-<sup>2</sup> Die Grundtaxe inklusive Wegentschädigung für die Erhebung von Bestandsproben zur Untersuchung von anzeigepflichtigen Seuchen oder Krankheiten oder für die Impfung bei Bestandesimpfungen im Rahmen von angeordneten Impfkampagnen beträgt (in Taxpunkten):
+<sup>2</sup> Der Besuch eines Bestandes wird mit jeweils 30 Taxpunkten entschädigt. Darin ist unter anderem die Entschädigung für die Fahrzeit, für die Organisation der Tätigkeit, für die Auswahl und Identifikation der Tiere, für das Ausfertigen und Zustellen der Untersuchungs- und Impfberichte sowie für das Versenden der Proben an das Untersuchungslabor eingeschlossen.
 
-**26 7 7 5 7**
+<sup>3</sup> Die Untersuchungsleistungen werden wie folgt entschädigt (in Taxpunkten):
 
-- a) je Bestand
-
-- b) je untersuchtes Tier
-
-- c) je Blutentnahme
-
-- d) je Milchprobe
-
-- e) je Sammelmilchprobe von zwei bis fünf Tieren
-
-**6 4**
-
-- f) je Ohrstanzprobe
-
-- g) je geimpftes Tier
-
-<sup>3</sup> In diesen Ansätzen ist die Entschädigung für das Markieren der Tiere, für das Ausfertigen und Zustellen der Untersuchungs- und Impfberichte sowie für das Versenden der Proben an das Untersuchungslabor eingeschlossen, wobei die Portokosten separat verrechnet werden können.
+- a) je Blutentnahme: 10
+- b) je Milchprobe: 7
+- c) je Ohrstanzprobe: 10
+- d) Tuberkulinisierung, einschliesslich Kontrolle des ersten Tieres und Kontrolle weiterer Tiere, je Tier: 10
+- e) bei Impfungen je Injektion (ohne Impfstoffkosten): 5
+- f) für die Probenahmen bei der Untersuchung auf Moderhinke je Bestand: 140
 
 #### Art. 5
 
-**3. Einzeluntersuchung bei Seuchen- oder Krankheitsverdacht**
+**3. Einzeluntersuchungen**
 
-<sup>1</sup> Der Tarif dieser Bestimmung gilt, wenn die Gefahr oder die Bekämpfung einer Seuche oder Krankheit den sofortigen, nicht aufschiebbaren Besuch erfordert.
+<sup>1</sup> Der Tarif dieser Bestimmung gilt, wenn ein Überwachungs- oder Abklärungsauftrag oder die Bekämpfung einer Seuche oder Krankheit den gezielten Besuch einzelner Betriebe erfordert.
 
-<sup>2</sup> Die Grundtaxe für den Besuch beträgt 26 Taxpunkte. Weitere Leistungen werden wie folgt entschädigt (in Taxpunkten):
+<sup>2</sup> Der Besuch eines Bestandes wird mit jeweils 30 Taxpunkten entschädigt. Darin ist unter anderem die Entschädigung für die Organisation der Tätigkeit, für die Auswahl und Identifikation der Tiere, für das Ausfertigen und Zustellen der Untersuchungs- und Impfberichte sowie für das Versenden der Proben an das Untersuchungslabor eingeschlossen.
 
-**7 18 5 7 15**
+<sup>3</sup> Die Untersuchungsleistungen werden wie folgt entschädigt (in Taxpunkten):
 
-- a) Blutentnahme
+- a) je Blutentnahme: 10
+- b) je Nachgeburtsteile: 20
+- c) je Milchprobe: 7
+- d) je klinische Untersuchung: 20
+- e) Tuberkulinisierung, einschliesslich Kontrolle des ersten Tieres und Kontrolle weiterer Tiere, je Tier: 10
+- f) bei Impfungen je Injektion (ohne Impfstoffkosten): 5
+- g) übrige Probenentnahmen (Ohrstanzprobe, Tupferprobe, Hirnmaterial, Kotprobe etc.) je Entnahme: 10
 
-- b) Einsenden von Nachgeburtsteilen
-
-- c) Milchproben
-
-- d) je Sammelmilchprobe von zwei bis fünf Tieren
-
-- e) klinische Untersuchungen
-
-**7 4 10 7 10**
-
-- f) Tuberkulinisieren, einschliesslich Kontrolle des ersten Tieres und Kontrolle weiterer Tiere
-
-- g) Impfung ohne Impfstoff beziehungsweise Injektion
-
-- h) Materialentnahme beziehungsweise Tupferproben
-
-- i) Kotproben
-
-- k) Sammelkotproben, Schlepptupfer
-
-<sup>3</sup> Die Wegentschädigung beträgt 2 Taxpunkte pro Kilometer. Fahrten ausserhalb des zugeteilten Gebiets als Kontrolltierärztin oder Kontrolltierarzt werden nicht entschädigt.
-
-<sup>4</sup> Weitere Arbeiten im Auftrag des Amts werden nach Zeitaufwand gemäss Artikel 6 entschädigt.
-
-<sup>5</sup> Die oben aufgeführten Leistungen schliessen das Zurverfügungstellen des Instrumentariums, das Erstellen des Untersuchungsantrags und das Versenden der Untersuchungsproben ein. Die Portokosten können separat verrechnet werden.
+<sup>4</sup> Die Fahrzeit wird mit 1,3 Taxpunkten pro Kilometer entschädigt. Für Fahrten ausserhalb des zugeteilten Gebiets als Kontrolltierärztin oder Kontrolltierarzt wird die Fahrzeit jedoch nur im Rahmen des organisierten Notfalldienstes berücksichtigt.
 
 #### Art. 6
 
 **4. Entschädigung nach Zeitaufwand**
 
-<sup>1</sup> Die Entschädigung beträgt (in Taxpunkten):
+<sup>1</sup> Leistungen, welche nicht nach den vorstehenden Bestimmungen abzurechnen sind, werden mit 140 Taxpunkten pro Stunde (Arbeits- und Fahrzeit) entschädigt. Für vom Amt angeordnete Einsätze an Sonntagen und an kantonalen Feiertagen erfolgt ein Zuschlag von 50 Prozent.
 
-**120**
-
-- a) für Arbeiten, welche nicht nach den vorstehenden Bestimmungen abgerechnet werden können, pro Stunde
-
-- b) für Einsätze für Bekämpfungsmassnahmen gegen gefährliche Tierseuchen gemäss Aufgebot des Amts, pro Stunde (mit Zuschlag von 50 Prozent bei Einsätzen an Sonn- und Feiertagen)
-
-**140**
-
-**2**
-
-01.10.2013 c) für die vom Amt angeordnete Teilnahme an Konferenzen, Fachtagungen oder Kursen, pro Halbtag
-
-**200**
-
-<sup>2</sup> Die Wegentschädigungen (Dienstfahrten) und die Entschädigung für notwendiges auswärtiges Übernachten richten sich nach der Personalverordnung[^6-1].
-
-[^6-1]: BR 170.410 01.10.2013 3
+<sup>2</sup> Für die vom Amt angeordnete Teilnahme an Ausbildungskursen beträgt die Entschädigung 250 Taxpunkte pro Halbtag.
 
 #### Art. 7
 
-**Bienenkommissariat und -inspektorat**
+**Bienenkommissariat und Bieneninspektorat**
 
-<sup>1</sup> Die Bienenkommissärin oder der Bienenkommissär wird mit einem jährlichen Grundbetrag von 1000 Franken sowie nach Zeitaufwand mit 50 Taxpunkten pro Stunde entschädigt. Für die Teilnahme an Ausbildungskursen und für Fahr- und Portospesen gelten die Absätze 2 und 3.
+<sup>1</sup> Die jährliche Grundentschädigung für die Bienenkommissärin oder den Bienenkommissär beträgt 1300 Taxpunkte. Die Leistungen werden mit 50 Taxpunkten pro Stunde (Arbeits- und Fahrzeit) entschädigt.
 
-<sup>2</sup> Die Bieneninspektorinnen und Bieneninspektoren werden wie folgt entschädigt (in Taxpunkten):
+<sup>2</sup> Die Bieneninspektorinnen und Bieneninspektoren werden für die Bekämpfung anzeigepflichtiger Bienenkrankheiten mit 35 Taxpunkten pro Stunde (Arbeits- und Fahrzeit) entschädigt.
 
-**27 80**
-
-- a) Funktionen bei der Bekämpfung anzeigepflichtiger Bienenkrankheiten, pro Stunde
-
-- b) Teilnahme an Ausbildungskursen, pro Halbtag
-
-<sup>3</sup> Die Wegentschädigung (Fahrspesen) richtet sich nach der Personalverordnung. Portokosten können separat verrechnet werden.
+<sup>3</sup> Für die vom Amt angeordnete Teilnahme an Ausbildungskursen beträgt die Entschädigung 120 Taxpunkte pro Halbtag.
 
 #### Art. 8
 
-**Indexierung**
+**Weitere beauftragte Fachpersonen**
 
-Der Wert für die in diesem Erlass aufgeführten Taxpunkte basiert auf dem Landesindex der Konsumentenpreise (Basis Mai 1993 = 100 Punkte, entsprechend 1 Franken je Taxpunkt) und wird jeweils auf den 1. Januar entsprechend dem Lohnindex der kantonalen Verwaltung neu festgesetzt.
+<sup>1</sup> Weitere beauftragte Fachpersonen werden nach Zeitaufwand mit 50 Taxpunkten pro Stunde (Arbeits- und Fahrzeit) entschädigt.
+
+<sup>2</sup> Für die vom Amt angeordnete Teilnahme an Ausbildungskursen beträgt die Entschädigung 120 Taxpunkte pro Halbtag.
 
 #### Art. 9
 
-**Aufhebung bisherigen Rechts und Inkrafttreten**
+**Spesen und Portokosten**
 
-<sup>1</sup> Der Gebührentarif für Amtstierärzte, Vieh- und Bieneninspektoren vom 2. Juli 1996 wird aufgehoben.
+<sup>1</sup> Die Vergütung von Fahrspesen sowie von anlässlich von angeordneten Ausbildungskursen anfallenden Verpflegungs- und Übernachtungsspesen richtet sich nach der Personalverordnung[^9-1]. Portokosten können separat abgerechnet werden.
 
-<sup>2</sup> Dieser Gebührentarif tritt am 1. Oktober 2013 in Kraft.
+[^9-1]: BR [170.410](https://www.gr-lex.gr.ch/data/170.410/de)
+
+#### Art. 10
+
+**Indexierung**
+
+<sup>1</sup> Der Wert für die in diesem Erlass aufgeführten Taxpunkte basiert auf dem Landesindex der Konsumentenpreise (Basis Mai 1993 = 100 Punkte, entsprechend 1 Franken je Taxpunkt) und wird jeweils auf den 1. Januar entsprechend dem Lohnindex der kantonalen Verwaltung neu festgesetzt.
+
+2022-044
