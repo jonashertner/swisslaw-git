@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über die Koordination der Kontrollen auf
 short: VKKL
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: de
-version: 2020-07-01
+version: 2023-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-673-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20200701/de"
 
 (VKKL)
 
-vom 31. Oktober 2018 (Stand am 1. Juli 2020)
+vom 31. Oktober 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -40,7 +40,7 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 - a. Gewässerschutzverordnung vom 28. Oktober 1998[^1-2];
 - b. Direktzahlungsverordnung vom 23. Oktober 2013[^1-3] (DZV);
 - c. Einzelkulturbeitragsverordnung vom 23. Oktober 2013[^1-4];
-- d. Tierzuchtverordnung vom 31. Oktober 2012[^1-5].
+- d.[^1-5] …
 
 <sup>3</sup> Ausgenommen von Absatz 2 ist die Kontrolle der Dichtheit der Lagereinrichtungen für Hofdünger und flüssiges Gärgut.
 
@@ -50,7 +50,7 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 [^1-2]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^1-3]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-4]: [SR 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
-[^1-5]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^1-5]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 2
 
@@ -74,7 +74,7 @@ Sie gilt für Kontrollen nach den folgenden Verordnungen:
 
 <sup>4</sup> Ein Ganzjahresbetrieb muss innerhalb von acht Jahren mindestens zweimal vor Ort kontrolliert werden.
 
-<sup>5</sup> Mindestens 40 Prozent aller Grundkontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.
+<sup>5</sup> Mindestens 40 Prozent aller jährlichen Grundkontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^3-1]
 
 <sup>6</sup>
 
@@ -82,6 +82,8 @@ Die Kantone sorgen für die Koordination der Grundkontrollen, sodass ein Betrieb
 
 - a. Grundkontrollen, bei denen die Anwesenheit des Bewirtschafters oder der Bewirtschafterin nicht erforderlich ist;
 - b. Grundkontrollen für Biodiversitätsbeiträge der Qualitätsstufe II und für die Vernetzung.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 
@@ -106,21 +108,25 @@ Zusätzlich zu den Grundkontrollen werden risikobasierte Kontrollen durchgeführ
 
 <sup>2</sup> Sömmerungsbetriebe mit Mängeln in einer Grundkontrolle oder einer risikobasierten Kontrolle müssen innerhalb der folgenden drei Kalenderjahre nach der Kontrolle erneut kontrolliert werden. Im Falle von Verbuschung oder Vergandung und sofern ein entsprechender Sanierungsplan vorliegt, gilt eine Frist von fünf Kalenderjahren.
 
-<sup>3</sup> Jedes Jahr müssen mindestens 5 Prozent der Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetriebe aufgrund der Kriterien nach Artikel 4 Absatz 1 Buchstaben b–d vor Ort kontrolliert werden.
+<sup>3</sup> Jedes Jahr müssen mindestens 5 Prozent der Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetriebe aufgrund der Kriterien nach Artikel 4 Absatz 1 Buchstaben b und d vor Ort kontrolliert werden.[^5-1]
 
 <sup>4</sup>
 
 Bei einer Neuanmeldung für eine bestimmte Direktzahlungsart oder bei einer Wiederanmeldung nach einem Unterbruch ist eine risikobasierte Kontrolle im ersten Beitragsjahr durchzuführen. Für folgende Direktzahlungsarten gelten abweichende Regelungen:
 
 - a. Beitrag für graslandbasierte Milch- und Fleischproduktion: erste risikobasierte Kontrolle im zweiten Beitragsjahr nach der Neu- oder Wiederanmeldung;
-- b. Biodiversitätsbeitrag der Qualitätsstufe I, ohne Blühstreifen für Bestäuber und andere Nützlinge und ohne Rotationsbrachen: erste risikobasierte Kontrolle innerhalb der ersten zwei Beitragsjahre;
+- b.[^5-2] Biodiversitätsbeitrag der Qualitätsstufe I, ohne Rotationsbrachen: erste risikobasierte Kontrolle innerhalb der ersten zwei Beitragsjahre;
 - c. Vernetzungsbeitrag: erste risikobasierte Kontrolle innerhalb der ersten acht Beitragsjahre.
 
 <sup>5</sup> Eine erneute Kontrolle nach Absatz 1 ist nicht vorzunehmen bei Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetrieben, die eine Kürzung der Direktzahlungen oder Einzelkulturbeiträge von 200 Franken oder weniger zur Folge hatten.
 
-<sup>6</sup> Mindestens 40 Prozent aller risikobasierten Kontrollen für Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.
+<sup>6</sup> Mindestens 40 Prozent aller jährlichen risikobasierten Kontrollen für die Tierwohlbeiträge sind in jedem einzelnen Kanton unangemeldet durchzuführen.[^5-3]
 
 <sup>7</sup> Ausgenommen von den Absätzen 1–6 sind Kontrollen nach der Gewässerschutzgesetzgebung.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^5-2]: Fassung gemäss Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 6
 
@@ -138,19 +144,20 @@ Für Ganzjahresbetriebe mit weniger als 0,2 Standardarbeitskräften gelten die B
 
 Privatrechtliche Stellen müssen gestützt auf die Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^7-1] nach der Norm «SN EN ISO/IEC 17020 Allgemeine Kriterien für den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen»[^7-2] akkreditiert sein. Dies gilt nicht für die Kontrolle der Flächendaten, der Einzelkulturbeiträge sowie der folgenden Direktzahlungsarten:
 
-- a. Beitrag für die extensive Produktion von Getreide, Sonnenblumen, Leguminosen, Lupinen und Raps;
+- a.[^7-3] Beiträge für den Verzicht auf Pflanzenschutzmittel, für die funktionale Biodiversität, für die Verbesserung der Bodenfruchtbarkeit, für den effizienten Stickstoffeinsatz im Ackerbau und für die längere Nutzungsdauer von Kühen;
 - b. Biodiversitätsbeiträge der Qualitätsstufe II und für die Vernetzung;
 - c. Landschaftsqualitätsbeitrag;
 - d. Ressourceneffizienzbeiträge.
 
 <sup>3</sup> Massgebend sind zudem allfällige weitere Bestimmungen zur Akkreditierung in den für den jeweiligen Bereich relevanten rechtlichen Grundlagen.
 
-<sup>4</sup> Stellt eine Kontrollperson einen offensichtlichen Verstoss gegen eine Bestimmung einer Verordnung nach Artikel 1 Absatz 2 dieser Verordnung oder nach Artikel 10 Absatz 1 der Verordnung vom 27. Mai 2020[^7-3] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (MNKPV) fest, so ist der Verstoss den dafür zuständigen Vollzugsbehörden zu melden, selbst wenn die Kontrollperson nicht den Auftrag hatte, die Einhaltung der betreffenden Bestimmungen zu kontrollieren.[^7-4]
+<sup>4</sup> Stellt eine Kontrollperson einen offensichtlichen Verstoss gegen eine Bestimmung einer Verordnung nach Artikel 1 Absatz 2 dieser Verordnung oder nach Artikel 10 Absatz 1 der Verordnung vom 27. Mai 2020[^7-4] über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände (MNKPV) fest, so ist der Verstoss den dafür zuständigen Vollzugsbehörden zu melden, selbst wenn die Kontrollperson nicht den Auftrag hatte, die Einhaltung der betreffenden Bestimmungen zu kontrollieren.[^7-5]
 
 [^7-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^7-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^7-3]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
-[^7-4]: Fassung gemäss Anhang 4 Ziff. 4 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^7-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^7-4]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-5]: Fassung gemäss Anhang 4 Ziff. 4 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 #### Art. 8
 
@@ -192,6 +199,15 @@ Das BLW und das BAFU können in ihren jeweiligen Zuständigkeitsbereichen nach R
 - a. Listen erstellen mit Punkten, die es bei Grundkontrollen und risikobasierten Kontrollen zu überprüfen gilt, und mit Beurteilungskriterien für diese Punkte;
 - b. Weisungen erlassen über die Durchführung der Grundkontrollen und der risikobasierten Kontrollen.
 
+#### Art. 9a
+
+**Übergangsbestimmung zur Änderung vom 13. April 2022**[^9a-1]
+
+Bei einer Anmeldung für Beiträge nach den Artikeln 55 Absatz 1 Buchstabe q, 70, 71, 71*a*–71*e,* 75*a,* 82*b* und 82*c* DZV[^9a-2] in den Jahren 2023–2025 ist die erste risikobasierte Kontrolle nach Artikel 5 Absatz 4 bis Ende 2026 durchzuführen.
+
+[^9a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^9a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 10
 
 **Aufhebung und Änderung anderer Erlasse**
@@ -200,7 +216,7 @@ Das BLW und das BAFU können in ihren jeweiligen Zuständigkeitsbereichen nach R
 
 <sup>2</sup> Die Änderung anderer Erlasse wird in Anhang 2 geregelt.
 
-[^10-1]: [[[AS 2013 3867](http://intranet.admin.ch/ch/d/as/2013/3867.pdf)](https://fedlex.data.admin.ch/eli/oc/2013/712), [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753), [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)Ziff. III, [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)Anhang 3 Ziff. 4]
+[^10-1]: [[[AS 2013 3867](http://intranet.admin.ch/ch/d/as/2013/3867.pdf)](https://fedlex.data.admin.ch/eli/oc/2013/712); [2015 4517](https://fedlex.data.admin.ch/eli/oc/2015/753); [2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)Ziff. III; [2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)Anhang 3 Ziff. 4]
 
 #### Art. 11
 
@@ -208,22 +224,20 @@ Das BLW und das BAFU können in ihren jeweiligen Zuständigkeitsbereichen nach R
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 2 Abs. 2)
 
-## Anweisungen zu den Grundkontrollen der Tierbestände, der Flächendaten, der Flächen mit Einzelkulturbeiträgen oder mit einem Beitrag für extensive Produktion sowie der Biodiversitätsförderflächen
+## Anweisungen zu den Grundkontrollen der Tierbestände und der Biodiversitätsförderflächen
+
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 ### 1. Grundkontrollen der Tierbestände
 
 - 1\.1 *Bestände an Tieren der Rindergattung und Wasserbüffeln, Tieren der Pferdegattung sowie Bisons:* Allfällige Differenzen zwischen den vor Ort anwesenden Beständen und den Beständen gemäss aktueller Tierliste der Tierverkehrsdatenbank sind zu klären und zu dokumentieren.
 - 1\.2 *Übrige Tierbestände (ohne Tiere der Rindergattung und Wasserbüffel, Tiere der Pferdegattung sowie Bisons):* Allfällige Differenzen zwischen den vor Ort anwesenden Beständen und den im Gesuch deklarierten Beständen sind im Zweifelsfall zu klären und zu dokumentieren.
 
-### 2. Grundkontrollen der Flächendaten sowie der Flächen mit Einzelkulturbeiträgen oder mit einem Beitrag für extensive Produktion
-
-- 2\.1 *Flächendaten:* Die deklarierten Kulturen sind vor Ort zu überprüfen.
-- 2\.2 *Flächen mit Einzelkulturbeiträgen:* Die deklarierten Kulturen und die Einhaltung der Ernteverpflichtung sind vor Ort zu überprüfen.
-- 2\.3 *Flächen mit einem Beitrag für extensive Produktion:* Die deklarierten Kulturen und die Einhaltung der Ernteverpflichtung sowie die Einhaltung der anderen Bedingungen und Bewirtschaftungsauflagen sind vor Ort zu überprüfen.
+### 2. …
 
 ### 3. Grundkontrollen der Biodiversitätsförderflächen (BFF)
 
@@ -242,6 +256,6 @@ Anhang 2
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2018 4171](https://fedlex.data.admin.ch/eli/oc/2018/673)konsultiert werden.

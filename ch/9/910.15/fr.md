@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2018 sur la coordination des contrôles dans les
 short: OCCEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/673"
 language: fr
-version: 2020-07-01
+version: 2023-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/673/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-673-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/673/20200701/fr"
 
 (OCCEA)
 
-du 31 octobre 2018 (Etat le 1<sup>er</sup> juillet 2020)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -40,7 +40,7 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 - a. ordonnance du 28 octobre 1998 sur la protection des eaux[^1-2];
 - b. ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^1-3];
 - c. ordonnance du 23 octobre 2013 sur les contributions à des cultures particulières[^1-4];
-- d. ordonnance du 31 octobre 2012 sur l’élevage[^1-5].
+- d.[^1-5] …
 
 <sup>3</sup> L’al. 2 ne s’applique pas au contrôle de l’étanchéité des installations de stockage des engrais de ferme et des digestats liquides.
 
@@ -50,7 +50,7 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 [^1-2]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 [^1-3]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 [^1-4]: [RS 910.17](https://fedlex.data.admin.ch/eli/cc/2013/873)
-[^1-5]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^1-5]: Abrogée par le ch. I de l’O du 2 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 2
 
@@ -74,7 +74,7 @@ Elle s’applique aux contrôles réalisés en vertu des ordonnances suivantes:
 
 <sup>4</sup> Une exploitation à l’année doit faire l’objet d’un contrôle sur place au moins deux fois en l’espace de huit ans.
 
-<sup>5</sup> Au moins 40 % de tous les contrôles de base concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.
+<sup>5</sup> Au moins 40 % de tous les contrôles de base annuels concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^3-1]
 
 <sup>6</sup>
 
@@ -82,6 +82,8 @@ Les cantons veillent à la coordination des contrôles de base de manière à ce
 
 - a. les contrôles de base qui ne requièrent pas la présence de l’exploitant;
 - b. les contrôles de base portant sur les contributions à la biodiversité du niveau de qualité II et pour la mise en réseau.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 4
 
@@ -106,21 +108,25 @@ Des contrôles en fonction des risques sont effectués en plus des contrôles de
 
 <sup>2</sup> Les exploitations d’estivage dans lesquelles des manquements ont été constatés lors d’un contrôle de base ou d’un contrôle en fonction des risques doivent faire l’objet d’un nouveau contrôle au cours des trois années civiles suivant le contrôle. En cas d’embroussaillement ou de friche, un délai de cinq années civiles est appliqué, à condition qu’un plan d’assainissement correspondant existe.
 
-<sup>3</sup> Chaque année, au moins 5 % des exploitations à l’année, d’estivage et de pâturages communautaires doivent être contrôlées sur place en fonction des critères visés à l’art. 4, al. 1, let. b à d.
+<sup>3</sup> Chaque année, au moins 5 % des exploitations à l’année, des exploitations d’estivage et des exploitations de pâturages communautaires doivent être contrôlées sur place en fonction des critères visés à l’art. 4, al. 1, let. b et d.[^5-1]
 
 <sup>4</sup>
 
 Si un exploitant sollicite pour la première fois un certain type de paiements directs ou s’il se réinscrit après une interruption, un contrôle en fonction des risques doit avoir lieu au cours de la première année de contributions. Des réglementations dérogatoires s’appliquent aux types de paiements directs suivants:
 
 - a. contribution pour la production de lait et de viande basée sur les herbages: premier contrôle en fonction des risques pendant la deuxième année de contributions après l’inscription ou la réinscription;
-- b. contribution à la biodiversité pour la qualité du niveau I sans les bandes fleuries pour les pollinisateurs et les autres organismes utiles et sans les jachères tournantes: premier contrôle en fonction des risques pendant les deux premières années de contributions;
+- b.[^5-2] contribution à la biodiversité du niveau de qualité I, sans les jachères tournantes: premier contrôle en fonction des risques pendant les deux premières années de contributions;
 - c. contribution pour la mise en réseau: premier contrôle en fonction des risques pendant les huit premières années de contributions.
 
 <sup>5</sup> Un nouveau contrôle selon l’al. 1 ne doit pas être effectué dans les exploitations à l’année, les exploitations d’estivage et les exploitations de pâturages communautaires qui ont fait l’objet d’une réduction des paiements directs ou des contributions à des cultures particulières égale ou inférieure à 200 francs.
 
-<sup>6</sup> Au moins 40 % de tous les contrôles en fonction des risques concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.
+<sup>6</sup> Au moins 40 % de tous les contrôles annuels basés sur les risques concernant les contributions au bien-être des animaux doivent être effectués sans préavis dans chaque canton.[^5-3]
 
 <sup>7</sup> Les al. 1 à 6 ne s’appliquent pas aux contrôles réalisés en vertu de la législation sur la protection des eaux.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 #### Art. 6
 
@@ -138,19 +144,20 @@ Les exploitations à l’année comptant moins de 0,2 unité de main-d’œuvre 
 
 Les organes de droit privé doivent être accrédités conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^7-1] selon la norme «SN EN ISO/IEC 17020 Critères généraux pour le fonctionnement de différents types d’organismes procédant à l’inspection»[^7-2]. Cette disposition ne s’applique pas au contrôle des données sur les surfaces, des contributions à des cultures particulières et des types de paiements directs suivants:
 
-- a. contribution pour la culture extensive de céréales, de tournesols, de légumineuses, de lupins et de colza;
+- a.[^7-3] contributions pour le non-recours aux produits phytosanitaires, pour la biodiversité fonctionnelle, pour l’amélioration de la fertilité du sol, pour une utilisation efficiente de l’azote dans les grandes cultures et pour une durée de vie productive plus longue des vaches;
 - b. contributions à la biodiversité pour le niveau de qualité II et pour la mise en réseau;
 - c. contribution à la qualité du paysage;
 - d. contributions à l’efficience des ressources.
 
 <sup>3</sup> Sont également déterminantes d’autres dispositions concernant l’accréditation découlant, le cas échéant, des bases légales spécifiques aux différents domaines.
 
-<sup>4</sup> Si la personne chargée du contrôle constate un manquement manifeste aux dispositions de l’une des ordonnances visées à l’art. 1, al. 2, de la présente ordonnance ou à l’art. 10, al. 1, de l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels (OPCNP)[^7-3], ce manquement doit être annoncé aux autorités d’exécution compétentes, même si cette personne n’a pas été chargée de contrôler le respect des dispositions concernées.[^7-4]
+<sup>4</sup> Si la personne chargée du contrôle constate un manquement manifeste aux dispositions de l’une des ordonnances visées à l’art. 1, al. 2, de la présente ordonnance ou à l’art. 10, al. 1, de l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels (OPCNP)[^7-4], ce manquement doit être annoncé aux autorités d’exécution compétentes, même si cette personne n’a pas été chargée de contrôler le respect des dispositions concernées.[^7-5]
 
 [^7-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^7-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^7-3]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
-[^7-4]: Nouvelle teneur selon l’annexe 4 ch. 4 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
+[^7-4]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^7-5]: Nouvelle teneur selon l’annexe 4 ch. 4 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 
 #### Art. 8
 
@@ -192,6 +199,15 @@ L’OFAG et l’OFEV peuvent, dans leurs domaines de compétence respectifs, apr
 - a. créer des listes comprenant des points à vérifier lors des contrôles de base et des contrôles en fonction des risques, ainsi que des critères d’évaluation pour ces points;
 - b. établir des guides sur la réalisation des contrôles de base et des contrôles en fonction des risques.
 
+#### Art. 9a
+
+**Disposition transitoire relative à la modification du 13 avril 2022**[^9a-1]
+
+Dans le cas d’une inscription aux contributions selon les art. 55, al. 1, let. q, 70, 71, 71*a* à 71*e,* 75*a,* 82*b* et 82*c* OPD[^9a-2] au cours des années 2023 à 2025, le premier contrôle en fonction des risques visé à l’art. 5, al. 4, doit être effectué avant fin 2026.
+
+[^9a-1]: Introduit par l’annexe ch. 1 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^9a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 #### Art. 10
 
 **Abrogation et modification d’autres actes**
@@ -208,22 +224,20 @@ L’OFAG et l’OFEV peuvent, dans leurs domaines de compétence respectifs, apr
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 2, al. 2)
 
-## Instructions relatives aux contrôles de base des effectifs d’animaux, des données sur les surfaces, des surfaces donnant droit à des contributions à des cultures particulières ou à une contribution pour culture extensive ainsi que des surfaces de promotion de la biodiversité
+## Instructions relatives aux contrôles de base des effectifs d’animaux et des surfaces de promotion de la biodiversité
+
+[^t-1]: Mise à jour par le ch. II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 751](https://fedlex.data.admin.ch/eli/oc/2022/751)).
 
 ### 1. Contrôles de base des effectifs d’animaux
 
 - 1\.1 *Effectifs de bovins, de buffles d’Asie, d’équidés et de bisons:* les différences entre les effectifs présents sur place et les effectifs figurant dans la liste mise à jour des animaux de la banque de données sur le trafic des animaux doivent, le cas échéant, être expliquées et documentées.
 - 1\.2 *Autres effectifs d’animaux (sans les bovins, buffles d’Asie, équidés et bisons):* les différences entre les effectifs présents sur place et les effectifs déclarés dans la demande doivent, en cas de doute, être expliquées et documentées.
 
-### 2. Contrôles de base des données sur les surfaces ainsi que des surfaces donnant droit à des contributions à des cultures particulières ou à une contribution pour culture extensive
-
-- 2\.1 *Données sur les surfaces:* les cultures déclarées doivent être vérifiées sur place.
-- 2\.2 *Surfaces donnant droit à des contributions à des cultures particulières:* les cultures déclarées et le respect des obligations en matière de récolte doivent être vérifiés sur place.
-- 2\.3 *Surfaces donnant droit à une contribution pour culture extensive:* les cultures déclarées, le respect des obligations en matière de récolte et le respect des autres conditions et des charges d’exploitation doivent être vérifiés sur place.
+### 2. …
 
 ### 3. Contrôles de base des surfaces de promotion de la biodiversité (SPB)
 
