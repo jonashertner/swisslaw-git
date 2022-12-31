@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2022-11-01
+version: 2023-01-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20221101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 1<sup>er</sup> novembre 2022)
+du 27 juin 1995 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -1510,20 +1510,23 @@ Lors de l’apparition d’une épizootie pouvant se transmettre par le lait, le
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^47-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
-### Section 3 Médicaments, produits immunobiologiques et microorganismes pathogènes pour les animaux
+### Section 3 Médicaments, produits immunologiques et microorganismes pathogènes pour les animaux
+
+[^tit2-chap2-sec3-1]
+
+[^tit2-chap2-sec3-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
-**Produits servant au diagnostic, à la prévention et au traitement des épizooties**
+**Produits servant au diagnostic, à la prévention et au traitement des épizooties**[^48-1]
 
-<sup>1</sup> Seuls les produits immunobiologiques dont l’emploi est conforme à la législation sur les produits thérapeutiques et, de plus, autorisé par l’OSAV peuvent être utilisés pour le diagnostic d’une épizootie chez l’animal, la prévention et le traitement d’épizooties. Ces produits ne peuvent être livrés qu’à des vétérinaires et à des autorités.[^48-1]
+<sup>1</sup> Seuls les produits immunologiques dont l’emploi est autorisé par l’Institut suisse des produits thérapeutiques conformément à la législation sur les produits thérapeutiques et, de plus, approuvé par l’OSAV peuvent être utilisés pour le diagnostic, la prévention et le traitement d’une épizootie chez l’animal. L’OSAV donne son approbation lorsque leur emploi n’est pas interdit par la présente ordonnance. Les produits ne peuvent être remis qu’à des vétérinaires et à des autorités.
 
-<sup>2</sup> L’OSAV publie périodiquement la liste des produits immunobiologiques autorisés à cette fin.[^48-2]
+<sup>2</sup> L’OSAV publie périodiquement la liste des produits immunologiques approuvés à cette fin.
 
 <sup>3</sup> L’OSAV peut interdire l’offre de substances ou de préparations pour la prévention ou le traitement d’épizooties lorsque leur efficacité n’est pas scientifiquement établie.
 
-[^48-1]: Nouvelle teneur selon le ch. II 15 de l’O du 17 oct. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)).
-[^48-2]: Nouvelle teneur selon le ch. II 15 de l’O du 17 oct. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)).
+[^48-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 49
 
@@ -2345,11 +2348,13 @@ Le vétérinaire cantonal veille:
 
 <sup>5</sup> Le détenteur d’animaux informe le vétérinaire officiel lorsque des animaux ont péri ou ont été tués dans son troupeau. Le vétérinaire officiel décide si les cadavres doivent être examinés. Au cas où les cadavres doivent être éliminés ou examinés en dehors de la zone de protection, il ordonne les mesures préventives.
 
-**Art. 90***a*[^90-1] Trafic des marchandises dans la zone de protection
+#### Art. 90a
+
+**Trafic des marchandises dans la zone de protection**[^90a-1]
 
 Les denrées alimentaires d’origine animale produites dans la zone de protection, ainsi que d’autres produits ou objets agricoles susceptibles de transmettre l’épizootie ne peuvent être emportés hors de la zone. Le vétérinaire cantonal peut accorder des exceptions s’il ordonne en même temps les mesures de sécurité qui s’imposent.
 
-[^90-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^90a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 91
 
@@ -3234,13 +3239,14 @@ S’il a accordé les dérogations selon l’al. 2, le vétérinaire cantonal ve
 
 <sup>1</sup> Si la maladie de Newcastle apparaît chez des pigeons, les dispositions concernant les zones de protection et de surveillance ne sont pas applicables.
 
-<sup>2</sup> En dérogation à l’art. 81, la vaccination des pigeons au moyen d’un vaccin inactivé, autorisé par l’OSAV, est admise.
+<sup>2</sup> En dérogation à l’art. 81, la vaccination des pigeons au moyen d’un vaccin inactivé, autorisé par l’Institut suisse des produits thérapeutique et approuvé par l’OSAV, est admise.[^124-2]
 
 <sup>3</sup> Les pigeons voyageurs présentés à des manifestations, telles que marchés, concours et autres événements, doivent avoir été vaccinés au moyen d’un vaccin visé à l’al. 2. Un certificat vétérinaire portant le numéro des bagues doit attester que les pigeons voyageurs ont été vaccinés au moins trois semaines et au plus sept mois avant la manifestation.
 
 <sup>4</sup> En concertation avec l’OSAV, le vétérinaire cantonal peut accorder des dérogations à l’obligation de mettre les pigeons à mort qu’exigerait l’art. 85, al. 2, let. b.
 
 [^124-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^124-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 125
 
@@ -6077,7 +6083,9 @@ L’OSAV peut édicter, en accord avec le Centre de recherches apicoles, des dis
 
 Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a, b et d, LFE.
 
-**Art. 274**h[^274g-1]Apinella
+#### Art. 274h
+
+**Apinella**[^274h-1]
 
 <sup>1</sup>
 
@@ -6102,14 +6110,14 @@ Pour les données visées à l’al. 1, les droits d’accès suivants sont appl
 
 <sup>3</sup> L’OSAV est responsable du respect des prescriptions en matière de protection des données, de sécurité des données et de sécurité informatique.
 
-<sup>4</sup> Les données peuvent être conservées 30 ans au plus dans le système informatique. L’archivage est régi par les dispositions de la loi du 26 juin 1998 sur l’archivage[^274g-2]. Les données anonymisées peuvent être conservées au-delà du délai de 30 ans.
+<sup>4</sup> Les données peuvent être conservées 30 ans au plus dans le système informatique. L’archivage est régi par les dispositions de la loi du 26 juin 1998 sur l’archivage[^274h-2]. Les données anonymisées peuvent être conservées au-delà du délai de 30 ans.
 
 <sup>5</sup> Le vétérinaire cantonal est tenu de recruter des apiculteurs disposés à utiliser Apinella. Leur sélection doit, dans la mesure du possible, permettre d’obtenir un tableau représentatif de la présence du petit coléoptère de la ruche dans le canton. Le vétérinaire cantonal communique à l’OSAV les données visées à l’al. 1, let. a.
 
 <sup>6</sup> Les apiculteurs disposés à utiliser Apinella doivent contrôler leurs colonies d’abeilles toutes les deux semaines entre mai et octobre à l’égard de l’infestation par le petit coléoptère de la ruche et saisir les résultats des contrôles dans Apinella.
 
-[^274g-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^274g-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^274h-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^274h-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
 
 ### Chapitre 5 Épizooties des animaux aquatiques
 

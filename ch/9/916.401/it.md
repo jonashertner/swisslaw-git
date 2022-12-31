@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2022-11-01
+version: 2023-01-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20221101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20221101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° novembre 2022)
+del 27 giugno 1995 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1517,20 +1517,23 @@ Nel caso dell’insorgenza di un’epizoozia che può essere propagata mediante 
 [^47-1]: Nuovo testo giusta il n. I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^47-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
-### Sezione 3: Medicamenti, prodotti immunobiologici e microrganismi patogeni per gli animali
+### Sezione 3: Medicamenti, prodotti immunologici e microrganismi patogeni per gli animali
+
+[^tit2-chap2-sec3-1]
+
+[^tit2-chap2-sec3-1]: Nuovo testo giusta l’all. n. 5 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
-**Prodotti destinati alla diagnosi, alla prevenzione e alla cura di epizoozie**
+**Prodotti destinati alla diagnosi, alla prevenzione e alla cura di epizoozie**[^48-1]
 
-<sup>1</sup> Ai fini della diagnosi, della prevenzione e della cura di epizoozie possono essere utilizzati soltanto prodotti immunobiologici ammessi dalla legislazione sugli agenti terapeutici e inoltre dall’USAV. Tali prodotti possono essere forniti soltanto a veterinari e ad autorità.[^48-1]
+<sup>1</sup> Ai fini della diagnosi, della prevenzione e della cura di epizoozie possono essere utilizzati soltanto prodotti immunologici omologati dall’Istituto svizzero per gli agenti terapeutici in conformità alla legislazione sugli agenti terapeutici e inoltre approvati dall’USAV. L’USAV rilascia l’approvazione, nella misura in cui l’utilizzo del prodotto immunologico non è vietato in base alla presente ordinanza. I prodotti immunologici possono essere forniti soltanto a veterinari e ad autorità.
 
-<sup>2</sup> L’USAV pubblica periodicamente l’elenco dei preparati immunobiologici ammessi a tale scopo.[^48-2]
+<sup>2</sup> L’USAV pubblica periodicamente l’elenco dei preparati immunologici approvati a tale scopo.
 
 <sup>3</sup> L’USAV può vietare l’offerta di sostanze o di prodotti per la prevenzione o la cura di epizoozie, qualora non ne sia stata accertata scientificamente l’efficacia.
 
-[^48-1]: Nuovo testo giusta il n. II 15 dell’O del 17 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)).
-[^48-2]: Nuovo testo giusta il n. II 15 dell’O del 17 ott. 2001, in vigore dal 1° gen. 2002 ([RU 2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)).
+[^48-1]: Nuovo testo giusta l’all. n. 5 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 49
 
@@ -3236,13 +3239,14 @@ Se autorizza le deroghe di cui al capoverso 2, il veterinario cantonale provvede
 
 <sup>1</sup> Se la malattia di Newcastle si manifesta nei piccioni, le prescrizioni relative alle zone di protezione e di sorveglianza non si applicano.
 
-<sup>2</sup> In deroga all’articolo 81 è ammessa la vaccinazione di piccioni con un vaccino inattivato autorizzato dall’USAV.
+<sup>2</sup> In deroga all’articolo 81 è ammessa la vaccinazione di piccioni con un vaccino inattivato omologato dall’Istituto svizzero per gli agenti terapeutici e approvato dall’USAV.[^124-2]
 
 <sup>3</sup> I piccioni viaggiatori che partecipano a manifestazioni come fiere o gare di volo devono essere vaccinati con un vaccino ai sensi del capoverso 2. In merito alla vaccinazione suddetta, un certificato veterinario recante il numero dell’anello apposto alla zampa deve attestare che i piccioni viaggiatori sono stati vaccinati entro i sette mesi che precedono la manifestazione ma almeno tre settimane prima di quest’ultima.
 
 <sup>4</sup> D’intesa con l’USAV, il veterinario cantonale può concedere deroghe all’uccisione di piccioni prevista dall’articolo 85 capoverso 2 lettera b.
 
 [^124-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^124-2]: Nuovo testo giusta l’all. n. 5 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 125
 

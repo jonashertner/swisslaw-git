@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2022-11-01
+version: 2023-01-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20221101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20221101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20230101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. November 2022)
+vom 27. Juni 1995 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -1507,20 +1507,23 @@ Beim Auftreten einer Seuche, die durch Milch verbreitet werden kann, schreibt de
 [^47-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^47-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
-### 3. Abschnitt: Behandlungsmittel, immunbiologische Erzeugnisse und tierpathogene Mikroorganismen
+### 3. Abschnitt: Behandlungsmittel, immunologische Erzeugnisse und tierpathogene Mikroorganismen
+
+[^tit2-chap2-sec3-1]
+
+[^tit2-chap2-sec3-1]: Fassung gemäss Anhang Ziff. 5 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
-**Mittel zur Erkennung, Vorbeugung und Behandlung von Tierseuchen**
+**Mittel zur Erkennung, Vorbeugung und Behandlung von Tierseuchen**[^48-1]
 
-<sup>1</sup> Zur Erkennung einer Seuche am Tier und zur Vorbeugung und Behandlung von Tierseuchen dürfen nur immunbiologische Erzeugnisse verwendet werden, die nach der Heilmittelgesetzgebung und zusätzlich vom BLV zugelassen sind. Sie dürfen nur an Tierärzte und Behörden abgegeben werden.[^48-1]
+<sup>1</sup> Zur Erkennung einer Seuche am Tier und zur Vorbeugung und Behandlung von Tierseuchen dürfen nur immunologische Erzeugnisse verwendet werden, die vom Schweizerischen Heilmittelinstitut nach der Heilmittelgesetzgebung zugelassen und zusätzlich vom BLV genehmigt sind. Das BLV erteilt die Genehmigung, sofern die Verwendung des immunologischen Erzeugnisses nach der vorliegenden Verordnung nicht verboten ist. Die immunologischen Erzeugnisse dürfen nur an Tierärztinnen und Tierärzte und an Behörden abgegeben werden.
 
-<sup>2</sup> Das BLV veröffentlicht periodisch das Verzeichnis der zu diesem Zweck zugelassenen immunbiologischen Erzeugnisse.[^48-2]
+<sup>2</sup> Das BLV veröffentlicht periodisch das Verzeichnis der zu diesem Zweck genehmigten immunologischen Erzeugnisse.
 
 <sup>3</sup> Das BLV kann das Anpreisen von Stoffen und Präparaten zur Vorbeugung und Behandlung von Tierseuchen verbieten, wenn deren Wirkung wissenschaftlich nicht begründet ist.
 
-[^48-1]: Fassung gemäss Ziff. II 15 der V vom 17. Okt. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)).
-[^48-2]: Fassung gemäss Ziff. II 15 der V vom 17. Okt. 2001, in Kraft seit 1. Jan. 2002 ([AS 2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)).
+[^48-1]: SR **817.02** Fassung gemäss Anhang Ziff. 5 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 (AS **2022** 723).
 
 #### Art. 49
 
@@ -3229,13 +3232,14 @@ Hat der Kantonstierarzt Abweichungen nach Absatz 2 bewilligt, so sorgt er für:
 
 <sup>1</sup> Tritt die Newcastle-Krankheit bei Tauben auf, so finden die Vorschriften betreffend die Schutz- und Überwachungszonen keine Anwendung.
 
-<sup>2</sup> In Abweichung von Artikel 81 ist die Impfung von Tauben mit einem vom BLV zugelassenen Totimpfstoff erlaubt.
+<sup>2</sup> In Abweichung von Artikel 81 ist die Impfung von Tauben mit einem vom Schweizerischen Heilmittelinstitut zugelassenen und vom BLV genehmigt Totimpfstoff erlaubt.[^124-2]
 
 <sup>3</sup> Brieftauben, die an Veranstaltungen wie Märkten oder Wettflügen teilnehmen, müssen mit einem Impfstoff nach Absatz 2 geimpft worden sein. Dabei muss ein tierärztliches Zeugnis mit Angabe der Fussringnummer bestätigen, dass die Brieftauben mindestens drei Wochen und längstens sieben Monate vor der Veranstaltung geimpft worden sind.
 
 <sup>4</sup> Der Kantonstierarzt kann in Absprache mit dem BLV Ausnahmen von der nach Artikel 85 Absatz 2 Buchstabe b anzuordnenden Tötung der Tauben gewähren.
 
 [^124-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^124-2]: SR **817.02** Fassung gemäss Anhang Ziff. 5 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 (AS **2022** 723).
 
 #### Art. 125
 
