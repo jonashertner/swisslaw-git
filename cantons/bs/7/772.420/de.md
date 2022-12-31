@@ -3,13 +3,13 @@ canton: BS
 number: "772.420"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-25
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-06-30
 adopted: 2025-07-03
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5346/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5774/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5346/pdf_file"
 
 Netznutzung elektrische Energie: Gebührentarif | Energie- und Wasserversorgung
 
-Vom 4. Juli 2011 (Stand 1. Januar 2022)
+Vom 4. Juli 2011 (Stand 1. Januar 2023)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -36,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Für eine transparente Zuweisung der Netzkosten wird das Schweizerische Übertragungs- und Verteilnetz in vier Spannungs- und drei Transformationsebenen und somit also in sieben Netzebenen aufgeteilt. Zusätzlich zu den sieben Netzebenen führen die IWB für die Versorgung des öffentlichen Verkehrs eine separate Netzebene (auf Gleichspannung).
 
-<sup>2</sup> Die Kriterien des Netzzugangs sind kundensegmentunabhängig und sind in den Ausführungsbestimmungen betreffend die Abgabe von Elektrizität festgelegt.
+<sup>2</sup> Die Kriterien des Netzzugangs sind kundensegmentunabhängig und sind in den Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität vom 21. Februar 2020 festgelegt.
 
 <sup>3</sup> Über die Zuteilung einer Verbrauchsstelle zu einer Netzebene entscheiden die IWB aufgrund netztopologischer Anforderungen abschliessend.
 
@@ -48,7 +48,7 @@ beschliesst:
 
 <sup>2</sup> Für Bezugsstellen mit einer Bezügersicherung kleiner 100 A ist für die Bemessung des Netznutzungsentgelts die Höhe des Wirkenergieverbrauchs massgebend.
 
-<sup>3</sup> Für Bezugsstellen mit einer Bezügersicherung gleich 100 A ist für die Bemessung des Netznutzungsentgelts zusätzlich die höchste monatlich beanspruchte viertelstündige Wirkleistung während der Normaltarifzeit massgebend.
+<sup>3</sup> Für Bezugsstellen mit einer Bezügersicherung gleich 100 A ist für die Bemessung des Netznutzungsentgelts zusätzlich die höchste monatlich beanspruchte viertelstündliche Wirkleistung während der Normaltarifzeit massgebend.
 
 <sup>4</sup> Für Bezugsstellen mit einer Bezügersicherung grösser 100 A kann für die Bemessung des Netznutzungsentgelts zusätzlich die Höhe des Blindenergieverbrauchs berücksichtigt werden.
 
@@ -56,11 +56,11 @@ beschliesst:
 
 <sup>6</sup> Die Tarife für elektrische Energie sind im Gebührentarif für elektrische Energie geregelt.
 
-<sup>7</sup> Die IWB können zu gross oder zu klein dimensionierte Messeinrichtungen von Netznutzerinnen und Netznutzern auf die tatsächlich bezogene Leistung jederzeit zu Lasten der Netznutzerin resp. des Netznutzers umbauen lassen. Die jährliche Höchstleistung bei einer Bezügersicherung von grösser oder gleich 300A muss mindestens 145 kW betragen.
+<sup>7</sup> Die IWB kann zu gross oder zu klein dimensionierte Messeinrichtungen von Netznutzenden auf die tatsächlich bezogene Leistung jederzeit zu Lasten der netznutzenden Person umbauen lassen. Der jährlich gemessene Höchstwert der Wirkleistung bei einer Bezügersicherung von grösser oder gleich 300 A muss mindestens 145 kW betragen.
 
-<sup>8</sup> Beim Tarif für unterbrechbare Stromlieferungen wird der Netzzugang bis zu dreimal täglich für bis zu zwei Stunden durch die IWB unterbrochen. Der Zeitpunkt und die Dauer der Unterbrechungen werden durch die IWB bestimmt. Die Freigabezeit zwischen zwei aufeinander folgenden Unterbrechungen beträgt mindestens zwei Stunden.
+<sup>8</sup> Beim Wahltarif für unterbrechbare Stromlieferungen wird der Netzzugang bis zu dreimal täglich für bis zu zwei Stunden durch die IWB unterbrochen. Der Zeitpunkt und die Dauer der Unterbrechungen werden durch die IWB bestimmt. Die Freigabezeit zwischen zwei aufeinander folgenden Unterbrechungen beträgt mindestens zwei Stunden.
 
-<sup>9</sup> Beim Tarif für unterbrechbare Stromlieferungen für Elektromobilitäts- und Wärmepumpenkundinnen und -kunden wird der Netzzugang zweimal täglich für zwei Stunden durch die IWB unterbrochen. Die Unterbrechungszeiten sind auf 11.30 Uhr bis 13.30 Uhr und 17.00 Uhr bis 19.00 Uhr festgelegt.
+<sup>9</sup> Beim Wahltarif für unterbrechbare Stromlieferungen für Elektromobilität und Wärmepumpen wird der Netzzugang zweimal täglich für zwei Stunden durch die IWB unterbrochen. Die Unterbrechungszeiten sind auf 11.30 Uhr bis 13.30 Uhr und 17.00 Uhr bis 19.00 Uhr festgelegt.
 
 #### § 3
 
@@ -72,23 +72,23 @@ beschliesst:
 
 **Messeinrichtungen**
 
-<sup>1</sup> Die IWB installieren pro Netzanschluss eine Messeinrichtung für die Erfassung der Verbrauchsdaten der allgemeinen Gebäudeinfrastruktur.
+<sup>1</sup> Die Messung und Messdatenbereitstellung richtet sich nach §§ 39 ff. der Ausführungsbestimmungen von IWB für Leistungen im Bereich Elektrizität.
 
-<sup>2</sup> Jede weitere Netznutzerin und jeder weitere Netznutzer eines Netzanschlusses wird von den IWB zusätzlich mit einer Messeinrichtung ausgestattet.
+<sup>2</sup> …
 
-<sup>3</sup> Die IWB legen fest, welche Bezugsstellen mit einer Steuerung ausgerüstet werden müssen, damit bestimmte Verbrauchsapparate lediglich in den Spartarifzeiten betrieben werden können.
+<sup>3</sup> Die IWB legt fest, welche Bezugsstellen mit einer Steuerung ausgerüstet werden müssen, damit bestimmte Verbrauchsapparate lediglich in den Spartarifzeiten betrieben werden können.
 
 #### § 5
 
-**Bestimmung der Höchstleistung**
+**Bestimmung der Wirkleistung**
 
-<sup>1</sup> Die beanspruchte viertelstündige Höchstleistung wird monatlich während der Normaltarifzeit ermittelt.
+<sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich während der Normaltarifzeit ermittelt.
 
 #### § 6
 
 **Blindenergiebezug**
 
-<sup>1</sup> Ist der Blindenergiebezug grösser als 50% des Wirkenergiebezuges, wird der die Hälfte des Wirkenergiebezuges übersteigende Blindenergiebezug mit 3.00 Rp./kVarh in Rechnung gestellt.
+<sup>1</sup> Ist der Blindenergiebezug grösser als 50 % des Wirkenergiebezuges, wird der die Hälfte des Wirkenergiebezuges übersteigende Blindenergiebezug mit 3.00 Rp./kVarh in Rechnung gestellt.
 
 #### § 7
 
@@ -121,7 +121,7 @@ beschliesst:
 
 <sup>3</sup> Kosten für Systemdienstleistungen an die Swissgrid:
 
-- - Systemdienstleistung — 0.16 Rp./kWh
+- - Systemdienstleistung — 0.46 Rp./kWh
 
 ## II. Netznutzungsentgelt Netzebene 7 (Niederspannungsebene)
 
@@ -137,13 +137,13 @@ beschliesst:
 
 **Einfachtarif**
 
-<sup>1</sup> Der Einfachtarif beträgt 13.20 Rp./kWh.
+<sup>1</sup> Der Einfachtarif beträgt 13.60 Rp./kWh.
 
 #### § 10a
 
 **Tarif für unterbrechbare Verbraucher**
 
-<sup>1</sup> Für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 beträgt der Tarif 7.90 Rp./kWh. Falls im Notfall die Unterbrechung aufgehoben wird, gilt in diesem Zeitraum ein erhöhtes Entgelt in Höhe von 33.50 Rp./kWh. Dies entspricht dem Zweieinhalbfachen des Normaltarifs gemäss § 11 Abs. 1 lit. a.
+<sup>1</sup> Für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 beträgt der Tarif 8.55 Rp./kWh. Falls im Notfall die Unterbrechung aufgehoben wird, gilt in diesem Zeitraum ein erhöhtes Entgelt in Höhe von 41.40 Rp./kWh. Dies entspricht dem Dreifachen des Normaltarifs gemäss § 11 Abs. 1 lit. a.
 
 #### § 10b
 
@@ -153,10 +153,10 @@ beschliesst:
 
 **Doppeltarif**
 
-<sup>1</sup> Der Doppeltarif beträgt
+<sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 13.40 Rp./kWh
-- b) als Spartarif — 7.90 Rp./kWh
+- a) als Normaltarif — 13.80 Rp./kWh
+- b) als Spartarif — 8.55 Rp./kWh
 
 #### § 12
 
@@ -172,25 +172,25 @@ beschliesst:
 
 **Definition**
 
-<sup>1</sup> Die Bestimmungen dieser Netzebene kommen beim Verteilnetz kleiner 1'000 Volt AC mit direktem Anschluss an das öffentliche Versorgungsnetz sowie einer Bezugsstelle mit einer Bezügersicherung grösser oder gleich 100A zur Anwendung. Die Tarife richten sich nach den folgenden §§ 14 bis 16.
+<sup>1</sup> Die Bestimmungen dieser Netzebene kommen beim Verteilnetz kleiner 1'000 Volt AC mit direktem Anschluss an das öffentliche Versorgungsnetz sowie einer Bezugsstelle mit einer Bezügersicherung grösser oder gleich 100 A zur Anwendung. Die Tarife richten sich nach den folgenden §§ 14 bis 16.
 
 #### § 14
 
 **Doppeltarif**
 
-<sup>1</sup> Der Doppeltarif beträgt
+<sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif bis und mit 50'000 kWh — 7.50 Rp./kWh
-- b) als Normaltarif ab 50'000 kWh — 4.80 Rp./kWh
-- c) als Spartarif bis und mit 50'000 kWh — 5.30 Rp./kWh
-- d) als Spartarif ab 50'000 kWh — 3.40 Rp./kWh
+- a) als Normaltarif bis und mit 50'000 kWh — 8.40 Rp./kWh
+- b) als Normaltarif ab 50'000 kWh — 5.30 Rp./kWh
+- c) als Spartarif bis und mit 50'000 kWh — 5.60 Rp./kWh
+- d) als Spartarif ab 50'000 kWh — 3.60 Rp./kWh
 
 #### § 15
 
-<sup>1</sup> Die viertelstündige monatliche Höchstleistung beträgt:
+<sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich ermittelt und beträgt:
 
-- a) bis und mit 27 kW — 11.70 CHF/kW
-- b) ab 27 kW — 8.40 CHF/kW
+- a) bis und mit 27 kW — 13.90 CHF/kW
+- b) ab 27 kW — 10.00 CHF/kW
 
 #### § 16
 
@@ -216,19 +216,19 @@ beschliesst:
 
 **…**
 
-### C. Baustellen und temporäre Netznutzerinnen und Netznutzer auf Netzebene 7
+### C. Baustellen und temporäre Netzanschlüsse auf Netzebene 7
 
 #### § 21
 
 **Definition**
 
-<sup>1</sup> Baustellen und temporäre Netznutzerinnen und Netznutzer werden immer auf der Netzebene 7 mit Energie versorgt.
+<sup>1</sup> Baustellen und temporäre Netzanschlüsse werden immer auf der Netzebene 7 mit Energie versorgt.
 
 #### § 22
 
 **Einfachtarif**
 
-<sup>1</sup> Für Baustellen und temporäre Netznutzerinnen und Netznutzer mit einer Bezugstelle mit einer Bezügersicherung bis und mit 100A wird ein Einfachtarif festgelegt. Er beträgt 13.20 Rp./kWh.
+<sup>1</sup> Für Baustellen und temporäre Netzanschlüsse mit einer Bezugsstelle mit einer Bezügersicherung bis und mit 100 A wird ein Einfachtarif festgelegt. Er beträgt 13.60 Rp./kWh.
 
 #### § 23
 
@@ -240,17 +240,17 @@ beschliesst:
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> Für Anschlüsse auf Baustellen oder von temporären Netznutzerinnen und Netznutzern mit Bezügersicherungen von grösser 100 A können die IWB eine Leistungsmessung verlangen. In diesem Fall kommen die Tarife gemäss § 14 bis § 20 zur Anwendung.
+<sup>1</sup> Für Anschlüsse auf Baustellen oder für temporäre Netzanschlüsse mit Bezügersicherungen von grösser 100 A kann die IWB eine Leistungsmessung verlangen. In diesem Fall kommen die Tarife gemäss §§ 14 - 20 zur Anwendung.
 
-<sup>2</sup> Die Kosten der Montage und Demontage der Messeinrichtungen werden von den IWB zusätzlich in Rechnung gestellt.
+<sup>2</sup> Die Kosten der Montage und Demontage der Messeinrichtungen werden von der IWB zusätzlich in Rechnung gestellt.
 
 ### D. Pauschalen auf Netzebene 7
 
 #### § 25
 
-<sup>1</sup> Ist die Installation eines Messzählers unverhältnismässig, können die IWB mit den Netznutzerinnen und Netznutzern individuelle Pauschalen pro Bezugstelle vereinbaren.
+<sup>1</sup> Ist die Installation einer Messeinrichtung unverhältnismässig, kann die IWB mit den Netznutzenden individuelle Pauschalen pro Bezugstelle vereinbaren.
 
-<sup>2</sup> Änderungen der vereinbarten Bezugssituation sind den IWB schriftlich zu melden.
+<sup>2</sup> Änderungen der vereinbarten Bezugssituation sind der IWB schriftlich zu melden.
 
 ## III. Netznutzungsentgelt Netzebene 5 (Mittelspannungsebene)
 
@@ -258,7 +258,7 @@ beschliesst:
 
 **Definition**
 
-<sup>1</sup> Die Bestimmungen der Netzebene 5 kommen zur Anwendung, wenn die Netznutzerinnen und Netznutzer die Energie direkt ab Mittelspannung (11'700 Volt AC) beziehen und eine eigene Transformatorenstation nutzen. Die Tarife richten sich nach den folgenden §§ 27 bis 29.
+<sup>1</sup> Die Bestimmungen der Netzebene 5 kommen zur Anwendung, wenn die Netznutzenden die Energie direkt ab Mittelspannung (11'700 Volt AC) beziehen und eine eigene Transformatorenstation nutzen. Die Tarife richten sich nach den folgenden §§ 27 - 29.
 
 #### § 27
 
@@ -266,14 +266,14 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 4.50 Rp./kWh
-- b) als Spartarif — 3.00 Rp./kWh
+- a) als Normaltarif — 4.80 Rp./kWh
+- b) als Spartarif — 3.20 Rp./kWh
 
 #### § 28
 
 **Leistungstarif**
 
-<sup>1</sup> Die viertelstündige monatliche Höchstleistung wird mit 8.40 CHF/kW verrechnet.
+<sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich ermittelt und mit 10.00 CHF/kW verrechnet.
 
 <sup>2</sup> Beim Tarif für unterbrechbare Stromlieferungen gemäss § 2 Abs. 8 und Abs. 9 kommt der Leistungstarif nur bei Notbetrieb zur Anwendung. Andernfalls wird kein Leistungsentgelt erhoben.
 
@@ -289,7 +289,7 @@ beschliesst:
 
 **Anwendung**
 
-<sup>1</sup> Die Bestimmungen der Netzebene 3 kommen zur Anwendung, wenn die Netznutzerinnen und Netznutzer die Energie direkt ab Hochspannung (50'000/150'000 Volt AC) beziehen und ein eigenes Unterwerk mit Transformierung nutzen. Die Tarife richten sich nach den folgenden §§ 31 bis 33.
+<sup>1</sup> Die Bestimmungen der Netzebene 3 kommen zur Anwendung, wenn die Netznutzenden die Energie direkt ab Hochspannung (50'000/150'000 Volt AC) beziehen und ein eigenes Unterwerk mit Transformierung nutzen. Die Tarife richten sich nach den folgenden §§ 31 - 33.
 
 #### § 31
 
@@ -297,14 +297,14 @@ beschliesst:
 
 <sup>1</sup> Der Doppeltarif beträgt:
 
-- a) als Normaltarif — 3.20 Rp./kWh
-- b) als Spartarif — 1.90 Rp./kWh
+- a) als Normaltarif — 3.40 Rp./kWh
+- b) als Spartarif — 2.20 Rp./kWh
 
 #### § 32
 
 **Leistungstarif**
 
-<sup>1</sup> Die viertelstündige monatliche Höchstleistung wird mit 5.30 CHF/kW verrechnet.
+<sup>1</sup> Der viertelstündliche Höchstwert der bezogenen Wirkleistung wird monatlich ermittelt und mit 6.30 CHF/kW verrechnet.
 
 #### § 33
 
@@ -316,7 +316,7 @@ beschliesst:
 
 #### § 34
 
-<sup>1</sup> Die IWB schliessen mit Netznutzerinnen und Netznutzern auf der Netzebene «öffentlicher Verkehr» individuelle Netznutzungsverträge ab.
+<sup>1</sup> Die IWB schliesst mit Netznutzenden auf der Netzebene «öffentlicher Verkehr» individuelle Netznutzungsverträge ab.
 
 ## V<sup>bis</sup>. Anschlussgebühren und Netzkostenbeiträge
 
@@ -330,7 +330,7 @@ beschliesst:
 
 **Anschlussgebühren der Netzebene 3 oder 5**
 
-<sup>1</sup> Hochspannungskabel der Netzebene 3 oder 5 werden auf Kundenwunsch hin offeriert und gegen Aufwand verrechnet.
+<sup>1</sup> Hochspannungskabel der Netzebene 3 oder 5 werden auf Kundschaftswunsch hin offeriert und gegen Aufwand verrechnet.
 
 #### § 34c
 
