@@ -4,13 +4,13 @@ number: "435.111"
 title: "Verordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerV
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-22
+version: 2023-01-01
+valid_until: 2023-01-31
+version_adopted: 2022-11-16
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2628/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2731/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2628/pdf_file"
 
 (BerV)
 
-vom 09.11.2005 (Stand 01.08.2022)
+vom 09.11.2005 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1358,7 +1358,7 @@ beschliesst:
 
 <sup>1</sup> Das Mittelschul- und Berufsbildungsamt schliesst mit kantonalen Anbietern Leistungsvereinbarungen und mit privaten Anbietern Leistungsverträge ab.
 
-<sup>2</sup> Bei mehrjährigen Leistungsvereinbarungen oder Leistungsverträgen erfolgt der Abschluss unter Vorbehalt der Genehmigung des Voranschlags durch den Grossen Rat.
+<sup>2</sup> Bei mehrjährigen Leistungsvereinbarungen oder Leistungsverträgen erfolgt der Abschluss unter Vorbehalt der Genehmigung des Budgets durch den Grossen Rat.
 
 <sup>3</sup> Das Mittelschul- und Berufsbildungsamt kann auf den Abschluss eines Leistungsvertrags mit Weiterbildungsanbietern verzichten, wenn der jährliche Beitrag unter 50 000 Franken liegt.
 
