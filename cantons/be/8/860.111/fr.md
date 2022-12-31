@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-08-23
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2533/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2862/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2533/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.01.2022)
+du 24.10.2001 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -186,7 +186,7 @@ arrête:
 
 <sup>1</sup> Les concepts et normes de calcul de l'aide sociale édictés par la Conférence suisse des institutions d'action sociale (normes CSIAS)[^8-1], dans leur version du 1<sup>er</sup> janvier 2021 (5<sup>e</sup> édition), ont force obligatoire pour l’exécution de l’aide sociale individuelle, sauf réglementation contraire de la LASoc et de la présente ordonnance.
 
-<sup>2</sup> Le forfait pour l’entretien est fixé par mois, selon la taille du ménage, comme suit, sous réserve des alinéas 3 à 5:
+<sup>2</sup> Le forfait pour l’entretien est fixé comme suit par mois, selon la taille du ménage, sous réserve des alinéas 3 à 5:
 
 - a une personne — CHF 977
 - b deux personnes — CHF 1495
@@ -195,18 +195,18 @@ arrête:
 - e cinq personnes — CHF 2364
 - f par personne supplémentaire — + CHF 200
 
-<sup>3</sup> Le forfait pour l’entretien en faveur des jeunes adultes est calculé par mois en fonction du type de résidence:
+<sup>3</sup> Le forfait pour l’entretien en faveur des jeunes adultes est calculé comme suit par mois, en fonction du type de ménage:
 
-- a quote-part du forfait pour l’entretien pour les jeunes adultes vivant chez leurs parents ou dans une autre communauté de type familial, le montant total pour le ménage étant divisé par le nombre de personnes qui y vivent;
-- b forfait de 748 francs pour les jeunes adultes vivant dans une communauté de résidence d’intérêts;
-- c forfait de 782 francs pour les jeunes adultes qui, pour de justes motifs, tiennent leur propre ménage;
-- d ou qui, selon l’alinéa 2, vivent dans leur propre ménage à condition qu’ils
-  - 1 suivent une formation ou une mesure visant l’insertion sur le marché de l’emploi;
-  - 2 exercent une activité lucrative adéquate ou
-  - 3 aient des enfants à charge;
-- e forfait de 748 francs pour les jeunes adultes qui tiennent leur propre ménage mais ne remplissent pas les conditions énoncées aux lettres c et d.
+- a quote-part du forfait pour l’entretien pour les jeunes adultes vivant chez leurs parents ou dans une autre communauté de type familial, le montant total pour le ménage étant divisé par le nombre de personnes qui y cohabitent;
+- b forfait de 748 francs pour les jeunes adultes vivant en colocation;
+- c forfait de 782 francs pour les jeunes adultes tenant leur propre ménage pour de justes motifs;
+- d forfait selon l’alinéa 2 pour les jeunes adultes tenant leur propre ménage lorsque ces personnes
+  - 1 suivent une formation ou participent à une mesure visant l’insertion sur le marché du travail,
+  - 2 exercent une activité lucrative appropriée ou
+  - 3 s’occupent de leurs enfants;
+- e forfait de 748 francs pour les jeunes adultes tenant leur propre ménage mais ne remplissant pas les conditions énoncées aux lettres c et d.
 
-<sup>4</sup> Le forfait pour l'entretien en faveur des personnes visées à l'article 46a, alinéa 1, lettre c LASoc (personnes admises à titre provisoire) est fixé par mois, indépendamment de l'âge, selon la taille du ménage, comme suit:
+<sup>4</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre c LASoc (personnes admises à titre provisoire) est fixé comme suit par mois, sous réserve de l’alinéa 4c, selon la taille du ménage, avant l’échéance de la période de dix ans suivant la décision d’admission provisoire:
 
 - a une personne — CHF 696
 - b deux personnes — CHF 1065
@@ -216,7 +216,30 @@ arrête:
 - f six personnes — CHF 1825
 - g par personne supplémentaire — + CHF 141
 
-<sup>5</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre a LASoc (personnes apatrides reconnues ou réfugiées) qui vivent dans un centre d’hébergement collectif est fixé par mois, indépendamment de l’âge, selon la taille de l’unité d’assistance, comme suit:
+<sup>4a</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre c LASoc (personnes admises à titre provisoire) est fixé comme suit par mois, sous réserve de l’alinéa 4b, selon la taille du ménage, après l'échéance de la période de dix ans suivant la décision d’admission provisoire:
+
+- a une personne — CHF 830
+- b deux personnes — CHF 1271
+- c trois personnes — CHF 1545
+- d quatre personnes — CHF 1777
+- e cinq personnes — CHF 2009
+- f six personnes — CHF 2179
+- g par personne supplémentaire — + CHF 170
+
+<sup>4b</sup> Le forfait pour l’entretien en faveur des jeunes adultes faisant partie des personnes visées à l’alinéa 4a est calculé comme suit par mois, en fonction du type de ménage:
+
+- a quote-part du forfait pour l’entretien selon l’alinéa 4a pour les jeunes adultes vivant chez leurs parents ou dans une autre communauté de type familial, le montant total pour le ménage étant divisé par le nombre de personnes qui y cohabitent;
+- b forfait de 730 francs pour les jeunes adultes vivant en colocation;
+- c forfait de 770 francs pour les jeunes adultes tenant leur propre ménage pour de justes motifs;
+- d forfait selon l’alinéa 4a pour les jeunes adultes tenant leur propre ménage lorsque ces personnes
+  - 1 suivent une formation ou participent à une mesure visant l’insertion sur le marché du travail,
+  - 2 exercent une activité lucrative appropriée ou
+  - 3 s’occupent de leurs enfants;
+- e forfait de 730 francs pour les jeunes adultes tenant leur propre ménage mais ne remplissant pas les conditions énoncées aux lettres c et d.
+
+<sup>4c</sup> Le forfait pour l’entretien en faveur des personnes mineures admises à titre provisoire est régi par l’alinéa 4a, indépendamment de la durée écoulée depuis la décision d’admission provisoire. Il est régi par l’alinéa 4b si ces personnes atteignent la majorité pendant qu’elles bénéficient du forfait pour l’entretien selon l’alinéa 4a.
+
+<sup>5</sup> Le forfait pour l’entretien en faveur des personnes visées à l’article 46a, alinéa 1, lettre a LASoc (personnes apatrides reconnues ou réfugiées) qui vivent dans un centre d’hébergement collectif est fixé comme suit par mois, indépendamment de l’âge, selon la taille de l’unité d’assistance:
 
 - a une personne — CHF 582
 - b deux personnes — CHF 891
@@ -317,7 +340,7 @@ arrête:
 
 <sup>2a</sup> Les bénéficiaires de l’aide sociale venant d’un autre canton qui, jusqu’à la fin de l’année civile, ne touchent pas de leur canton de domicile précédent de réduction de leurs primes ou reçoivent à ce titre un montant inférieur à la réduction ordinaire selon l’article 11 OCAMal se voient accorder, en plus de la somme octroyée conformément à l’alinéa 1, la différence par rapport au montant de la réduction ordinaire.
 
-<sup>3</sup> La part de la prime dépassant le montant de la réduction ordinaire est versée directement à l’assureur-maladie par le service social.
+<sup>3</sup> Les services sociaux s’acquittent auprès des assureurs-maladie des montants correspondant à l’intégralité des primes, sans réduction.
 
 [^8h-1]: RSB [842.111.1](https://www.belex.sites.be.ch/data/842.111.1/fr)
 
@@ -927,7 +950,7 @@ arrête:
 
 **Forfait d'aide matérielle**
 
-<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2358 francs.
+<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2386 francs.
 
 <sup>2</sup> Est considérée comme cas d'aide matérielle l'unité d'assistance à laquelle est versée l'aide matérielle au cours de l'année civile.
 
@@ -948,7 +971,7 @@ arrête:
 
 **Forfait de consultation préventive**
 
-<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1179 francs.
+<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1193 francs.
 
 <sup>2</sup> Est considérée comme cas de consultation préventive l'assistance à une personne nécessitant de l'aide ou à une unité d'assistance dans un cas au moins, lorsque
 
@@ -964,7 +987,7 @@ arrête:
 
 **Forfait de recouvrement des contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas de recouvrement s'élève à 382 francs.
+<sup>1</sup> Le forfait par cas de recouvrement s'élève à 387 francs.
 
 <sup>2</sup> Est considérée comme cas de recouvrement l'activité au sens de l'article 1 ou 1a de la loi du 6 février 1980 sur l’aide au recouvrement et les avances de contributions d’entretien[^34f-1] ou de l'article 37 LASoc.
 
@@ -976,7 +999,7 @@ arrête:
 
 **Forfait d'avance de contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 496 francs.
+<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 502 francs.
 
 <sup>2</sup> Est considérée comme cas d'avance de contribution d'entretien l'avance faite au sens de l'article 3 de la loi sur l’aide au recouvrement et les avances de contributions d’entretien.
 
@@ -1181,6 +1204,12 @@ arrête:
 **Franchise sur les revenus**
 
 <sup>1</sup> Les services sociaux redéfinissent d’ici le 31 décembre 2020 au plus tard les prestations à verser selon les articles 8d et 8e.
+
+## T8 Disposition transitoire de la modification du 07.12.2020
+
+#### Art. T8-1
+
+<sup>1</sup> Les services sociaux redéfinissent d’ici le 1<sup>er</sup> avril 2023 au plus tard les prestations à verser selon les nouvelles dispositions de l’article 8, alinéas 4a et 4b aux personnes visées à l’article 46a, alinéa 1, lettre c LASoc qui, avant l’entrée en vigueur de la modification du 7 décembre 2022, percevaient déjà une aide matérielle en vertu de la LASoc.
 
 Berne, le 24 octobre 2001
 

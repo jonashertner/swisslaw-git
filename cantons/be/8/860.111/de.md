@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-08-23
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2533/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2862/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2533/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.01.2022)
+vom 24.10.2001 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -206,9 +206,9 @@ beschliesst:
   - 1 an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnehmen,
   - 2 einer angemessenen Erwerbstätigkeit nachgehen oder
   - 3 eigene Kinder betreuen,
-- e Pauschale von 748 Franken bei eigenem Haushalt, ohne die Voraussetzungen nach den Buchstaben c und d zu erfüllen.
+- e Pauschale von 748 Franken bei eigenem Haushalt, ohne die Voraussetzungen gemäss den Buchstaben c und d zu erfüllen.
 
-<sup>4</sup> Der Grundbedarf für den Lebensunterhalt für Personen nach Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) wird unabhängig ihres Alters nach Haushaltsgrösse festgelegt. Er beträgt pro Monat für
+<sup>4</sup> Der Grundbedarf für den Lebensunterhalt für Personen gemäss Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) wird vor Ablauf von zehn Jahren nach Erteilung der vorläufigen Aufnahme, unter Vorbehalt von Absatz 4c, nach Haushaltsgrösse festgelegt. Er beträgt pro Monat für
 
 - a eine Person — CHF 696
 - b zwei Personen — CHF 1065
@@ -218,7 +218,30 @@ beschliesst:
 - f sechs Personen — CHF 1825
 - g für jede weitere Person — + CHF 141
 
-<sup>5</sup> Der Grundbedarf für den Lebensunterhalt für Personen nach Artikel 46a Absatz 1 Buchstabe a SHG (Flüchtlinge und anerkannte Staatenlose), die in einer Kollektivunterkunft leben, wird unabhängig ihres Alters nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für
+<sup>4a</sup> Der Grundbedarf für den Lebensunterhalt für Personen gemäss Artikel 46a Absatz 1 Buchstabe c SHG (vorläufig Aufgenommene) beträgt nach Ablauf von zehn Jahren nach Erteilung der vorläufigen Aufnahme nach Haushaltsgrösse pro Monat, unter Vorbehalt von Absatz 4b, für
+
+- a eine Person — CHF 830
+- b zwei Personen — CHF 1271
+- c drei Personen — CHF 1545
+- d vier Personen — CHF 1777
+- e fünf Personen — CHF 2009
+- f sechs Personen — CHF 2179
+- g für jede weitere Person — + CHF 170
+
+<sup>4b</sup> Bei jungen Erwachsenen gemäss Absatz 4a wird der Grundbedarf für den Lebensunterhalt nach Lebens- und Wohnform pro Monat wie folgt festgelegt:
+
+- a entsprechender Anteil gemäss Absatz 4a bei einer Hausgemeinschaft mit den Eltern oder in einer familienähnlichen Gemeinschaft, wobei sich dieser nach dem Grundbedarf für den gesamten Haushalt, geteilt durch die Anzahl der im Haushalt lebenden Personen, bestimmt,
+- b Pauschale von 730 Franken bei einer Zweckwohngemeinschaft,
+- c Pauschale von 770 Franken bei eigenem Haushalt aus wichtigen Gründen,
+- d gemäss Absatz 4a bei eigenem Haushalt, wenn sie
+  - 1 an einer auf die arbeitsmarktliche Integration ausgerichteten Ausbildung oder Massnahme teilnehmen,
+  - 2 einer angemessenen Erwerbstätigkeit nachgehen oder
+  - 3 eigene Kinder betreuen,
+- e Pauschale von 730 Franken bei eigenem Haushalt, ohne die Voraussetzungen gemäss den Buchstaben c und d zu erfüllen.
+
+<sup>4c</sup> Bei minderjährigen vorläufig Aufgenommenen richtet sich der Grundbedarf für den Lebensunterhalt unabhängig von der Dauer ihrer vorläufigen Aufnahme gemäss Absatz 4a. Tritt im Verlauf der Unterstützung gemäss Absatz 4a die Volljährigkeit ein, richtet sich die Unterstützung gemäss Absatz 4b.
+
+<sup>5</sup> Der Grundbedarf für den Lebensunterhalt für Personen gemäss Artikel 46a Absatz 1 Buchstabe a SHG (Flüchtlinge und anerkannte Staatenlose), die in einer Kollektivunterkunft leben, wird unabhängig ihres Alters nach Unterstützungseinheit festgelegt. Er beträgt pro Monat für
 
 - a eine Person — CHF 582
 - b zwei Personen — CHF 891
@@ -319,7 +342,7 @@ beschliesst:
 
 <sup>2a</sup> Personen, die Leistungen der Sozialhilfe beziehen und wegen des Zuzugs aus einem andern Kanton bis Ende des Kalenderjahres vom früheren Wohnkanton keine oder eine Prämienverbilligung erhalten, die tiefer ist als die ordentliche Prämienverbilligung gemäss Artikel 11 KKVV, wird die Differenz zur ordentlichen Prämienverbilligung zusätzlich zum Prämienanteil gemäss Absatz 1 gewährt.
 
-<sup>3</sup> Der Sozialdienst richtet die Prämienanteile, welche die ordentliche Prämienverbilligung übersteigen, direkt dem Krankenversicherer aus.
+<sup>3</sup> Die Sozialdienste bezahlen den Krankenversicherern die vollen, nicht verbilligten Prämienrechnungen.
 
 [^8h-1]: BSG [842.111.1](https://www.belex.sites.be.ch/data/842.111.1/de)
 
@@ -931,7 +954,7 @@ beschliesst:
 
 **Pauschale für die wirtschaftliche Hilfe**
 
-<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2358 Franken.
+<sup>1</sup> Die Pauschale pro Fall wirtschaftlicher Hilfe beträgt 2386 Franken.
 
 <sup>2</sup> Als Fall wirtschaftlicher Hilfe gilt eine Unterstützungseinheit, der im Laufe des Kalenderjahres wirtschaftliche Hilfe ausgerichtet wird.
 
@@ -952,7 +975,7 @@ beschliesst:
 
 **Pauschale für die präventive Beratung**
 
-<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1179 Franken.
+<sup>1</sup> Die Pauschale pro Fall präventiver Beratung beträgt 1193 Franken.
 
 <sup>2</sup> Als Fall präventiver Beratung gilt die Unterstützung einer hilfesuchenden Person bzw. einer Unterstützungseinheit bei mindestens einer Problemlage, wenn
 
@@ -968,7 +991,7 @@ beschliesst:
 
 **Pauschale für das Inkasso von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Inkassofall beträgt 382 Franken.
+<sup>1</sup> Die Pauschale pro Inkassofall beträgt 387 Franken.
 
 <sup>2</sup> Als Inkassofall gilt die Tätigkeit gestützt auf Artikel 1 oder 1a des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^34f-1] oder auf Artikel 37 SHG.
 
@@ -980,7 +1003,7 @@ beschliesst:
 
 **Pauschale für die Bevorschussung von Unterhaltsbeiträgen**
 
-<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 496 Franken.
+<sup>1</sup> Die Pauschale pro Bevorschussungsfall beträgt 502 Franken.
 
 <sup>2</sup> Als Bevorschussungsfall gilt die Bevorschussung von Unterhaltsbeiträgen gestützt auf Artikel 3 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen.
 
@@ -1187,6 +1210,12 @@ beschliesst:
 **Einkommensfreibeträge**
 
 <sup>1</sup> Die Sozialdienste setzen die Leistungen nach Artikel 8d und 8e bis spätestens 31. Dezember 2020 neu fest.
+
+## T8 Übergangsbestimmung der Änderung vom 07.12.2022
+
+#### Art. T8-1
+
+<sup>1</sup> Die Sozialdienste setzen die Leistungen für Personen nach Artikel 46a Absatz 1 Buchstabe c SHG, die bereits vor Inkrafttreten der Änderung vom 7. Dezember 2022 wirtschaftliche Hilfe gestützt auf die Bestimmungen des SHG erhalten haben, aufgrund der neuen Vorschriften von Artikel 8 Absätze 4a und 4b bis spätestens 1. April 2023 neu fest.
 
 Bern, 24. Oktober 2001
 
