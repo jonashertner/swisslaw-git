@@ -3,20 +3,20 @@ canton: LU
 number: "373"
 title: Verordnung über den Gebührenbezug im Zivilschutz
 language: de
-version: 2017-07-01
-valid_until: 2022-12-31
-version_adopted: 2017-05-30
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-08
 adopted: 1988-06-24
 in_force: 1988-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/373"
-pdf: "https://srl.lu.ch/api/de/versions/3071/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3988/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Gebührenbezug im Zivilschutz
 
-vom 24.06.1988 (Stand 01.07.2017)
+vom 24.06.1988 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -84,7 +84,7 @@ beschliesst:
 
 **Nachkontrolle bei periodischer Schutzraumkontrolle**
 
-<sup>1</sup> Für jede Nachkontrolle der kantonalen Behörde, die nach der periodischen Schutzraumkontrolle durch die Organe des Zivilschutzes der Gemeinden nötig wird, beträgt die Gebühr mindestens 200 Franken.
+<sup>1</sup> Für jede Nachkontrolle der kantonalen Behörde, die nach der periodischen Schutzraumkontrolle nötig wird, beträgt die Gebühr mindestens 200 Franken.
 
 ## 3
 
