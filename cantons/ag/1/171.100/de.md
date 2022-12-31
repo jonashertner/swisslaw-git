@@ -4,13 +4,13 @@ number: "171.100"
 title: Gesetz über die Einwohnergemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-12-10
+version: 2023-01-01
+valid_until: 2024-06-30
+version_adopted: 2022-01-18
 adopted: 1978-12-19
 in_force: 1981-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3034/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3255/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3034/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 19.12.1978 (Stand 01.01.2022)
+Vom 19.12.1978 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -270,8 +270,8 @@ beschliesst:
 - b) …
 - c) …
 - d) Wahlkreise für von der Gemeinde zu treffende Wahlen;
-- e) die Erhöhung der Zahl der Unterschriften beim fakultativen Referendum;
-- f) die Zuständigkeit des Gemeinderates für die Zusicherung des Gemeindebürgerrechts an Ausländerinnen und Ausländer.
+- e) die Erhöhung oder Herabsetzung der Zahl der Unterschriften bei Referendums- und Initiativbegehren;
+- f) die Zuständigkeit des Gemeinderats für die Zusicherung des Gemeindebürgerrechts an Ausländerinnen und Ausländer.
 
 ### 2.2. Die Organisation mit Gemeindeversammlung
 
@@ -326,7 +326,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeindeversammlung wird durch den Gemeinderat einberufen.
 
-<sup>2</sup> Durch begründetes schriftliches Begehren kann ein Zehntel der Stimmberechtigten die Behandlung eines Gegenstandes in der Versammlung verlangen. Gleichzeitig kann die Einberufung einer ausserordentlichen Versammlung verlangt werden.
+<sup>2</sup> Durch begründetes schriftliches Begehren können 10 % der Stimmberechtigten die Behandlung eines Gegenstandes in der Versammlung verlangen. Gleichzeitig kann die Einberufung einer ausserordentlichen Versammlung verlangt werden.
+
+<sup>2<sup>bis</sup></sup> Die Gemeindeordnung kann die Zahl der gemäss Absatz 2 erforderlichen Unterschriften bis auf 5 % der Stimmberechtigten reduzieren.
 
 <sup>3</sup> Die Gemeindeversammlung ist verhandlungsfähig, wenn sie ordnungsgemäss einberufen worden ist.
 
@@ -368,7 +370,7 @@ beschliesst:
 
 <sup>1</sup> Jeder Stimmberechtigte hat das Recht, zu den in der Traktandenliste aufgeführten Sachgeschäften Anträge zur Geschäftsordnung und zur Sache zu stellen.
 
-<sup>2</sup> Abstimmungen werden offen vorgenommen, wenn nicht ein Viertel der anwesenden Stimmberechtigten geheime Abstimmung verlangt. Es entscheidet die Mehrheit der Stimmenden. Bei Stimmengleichheit gibt bei offenen Abstimmungen der Vorsitzende den Stichentscheid.
+<sup>2</sup> Abstimmungen werden offen vorgenommen, wenn nicht 25 % der anwesenden Stimmberechtigten eine geheime Abstimmung verlangen. Es entscheidet die Mehrheit der Stimmenden. Bei Stimmengleichheit gibt bei offenen Abstimmungen der Vorsitzende den Stichentscheid.
 
 #### § 28
 
@@ -388,15 +390,15 @@ beschliesst:
 
 **5. Abschliessende Beschlussfassung**
 
-<sup>1</sup> Die Gemeindeversammlung entscheidet über die zur Behandlung stehenden Sachgeschäfte abschliessend, wenn die beschliessende Mehrheit wenigstens einen Fünftel der Stimmberechtigten ausmacht.
+<sup>1</sup> Die Gemeindeversammlung entscheidet über die zur Behandlung stehenden Sachgeschäfte abschliessend, wenn die beschliessende Mehrheit wenigstens 20 % der Stimmberechtigten ausmacht.
 
 #### § 31
 
 **6. Fakultatives Referendum**
 
-<sup>1</sup> Positive und negative Beschlüsse der Gemeindeversammlung sind der Urnenabstimmung zu unterstellen, wenn dies von einem Zehntel der Stimmberechtigten innert 30 Tagen, gerechnet ab Veröffentlichung, schriftlich verlangt wird.
+<sup>1</sup> Positive und negative Beschlüsse der Gemeindeversammlung sind der Urnenabstimmung zu unterstellen, wenn dies 10 % der Stimmberechtigten innert 30 Tagen, gerechnet ab Veröffentlichung, schriftlich verlangen.
 
-<sup>2</sup> Die Gemeindeordnung kann die Zahl der erforderlichen Unterschriften auf höchstens einen Viertel der Stimmberechtigten erhöhen.
+<sup>2</sup> Die Gemeindeordnung kann die Zahl der gemäss Absatz 1 erforderlichen Unterschriften bis auf 25 % der Stimmberechtigten erhöhen beziehungsweise bis auf 5 % der Stimmberechtigten reduzieren.
 
 #### § 32
 
@@ -611,7 +613,7 @@ beschliesst:
 
 <sup>1</sup> Die Einführung der Organisation mit Einwohnerrat ist durch einen Grundsatzbeschluss an der Urne zu fassen.
 
-<sup>2</sup> Die Durchführung der Urnenabstimmung können der Gemeinderat, die Gemeindeversammlung oder ein Fünftel der Stimmberechtigten durch schriftliches Begehren verlangen.
+<sup>2</sup> Die Durchführung der Urnenabstimmung können der Gemeinderat, die Gemeindeversammlung oder 20 % der Stimmberechtigten durch schriftliches Begehren verlangen.
 
 #### § 53
 
@@ -663,7 +665,7 @@ beschliesst:
 
 **3. Fakultatives Referendum**
 
-<sup>1</sup> Gegen alle übrigen positiven und negativen Beschlüsse des Einwohnerrates kann von einem Zehntel der Stimmberechtigten innert 30 Tagen, von der Veröffentlichung an gerechnet, das Referendum ergriffen werden, soweit der Einwohnerrat nicht eine endgültige Entscheidungsbefugnis besitzt.
+<sup>1</sup> Gegen alle übrigen positiven und negativen Beschlüsse des Einwohnerrats können 5 % der Stimmberechtigten innert 30 Tagen, von der Veröffentlichung an gerechnet, das Referendum ergreifen, soweit der Einwohnerrat nicht eine endgültige Entscheidungsbefugnis besitzt.
 
 <sup>2</sup> Der Einwohnerrat kann ein Sachgeschäft auch von sich aus der Urnenabstimmung unterstellen.
 
@@ -679,7 +681,7 @@ beschliesst:
 
 **5. Initiative a) Voraussetzung**
 
-<sup>1</sup> Ein Zehntel der Stimmberechtigten kann in Form einer allgemeinen Anregung oder eines ausgearbeiteten Entwurfes die Behandlung von Gegenständen, die in die Zuständigkeit der Gesamtheit der Stimmberechtigten oder des Einwohnerrates fallen, beim Präsidenten des Einwohnerrates verlangen.
+<sup>1</sup> 5 % der Stimmberechtigten können in Form einer allgemeinen Anregung oder eines ausgearbeiteten Entwurfes die Behandlung von Gegenständen, die in die Zuständigkeit der Gesamtheit der Stimmberechtigten oder des Einwohnerrats fallen, beim Präsidenten des Einwohnerrats verlangen.
 
 #### § 61
 
@@ -715,7 +717,7 @@ beschliesst:
 
 #### § 65
 
-**III. Der Einwohnerrat 1. Zusammensetzung, Wahl**
+**III. Der Einwohnerrat 1. Zusammensetzung, Wahl und Vertretung**
 
 <sup>1</sup> Der Einwohnerrat besteht aus mindestens 30 und höchstens 80 Mitgliedern. Die Gemeindeordnung bestimmt die Mitgliederzahl. Diese darf während der Amtsdauer nicht verändert werden.
 
@@ -724,6 +726,10 @@ beschliesst:
 <sup>3</sup> Die Gemeindeordnung kann für das Gemeindepersonal die Unvereinbarkeit mit der Mitgliedschaft im Einwohnerrat vorsehen.
 
 <sup>4</sup> Die Wahl erfolgt nach den Grundsätzen für die Wahl des Grossen Rates. Die Festlegung eines Quorums ist nicht zulässig. Organisation und Vorverfahren der Wahl regelt der Regierungsrat durch Verordnung.
+
+<sup>5</sup> Die Gemeindeordnung kann die Vertretung längerfristig verhinderter Mitglieder des Einwohnerrates vorsehen. Die Bestimmungen über die Vertretung längerfristig verhinderter Mitglieder des Grossen Rates gemäss § 7a des Gesetzes über die Organisation des Grossen Rates und über den Verkehr zwischen dem Grossen Rat, dem Regierungsrat und der Justizleitung (Geschäftsverkehrsgesetz, GVG) vom 19. Juni 1990[^65-1] kommen sinngemäss zur Anwendung.
+
+[^65-1]: SAR [152.200](https://gesetzessammlungen.ag.ch/data/152.200/de)
 
 #### § 66
 
@@ -759,7 +765,7 @@ beschliesst:
 
 - a) zur Behandlung des Budgets, der Jahresrechnung mit Rechenschaftsbericht und der Kreditabrechnungen,
 - b) wenn es der Präsident für notwendig erachtet,
-- c) auf Begehren eines Fünftels der Ratsmitglieder oder eines Zehntels der Stimmberechtigten unter Angabe der Gründe,
+- c) auf Begehren von 20 % der Ratsmitglieder oder 5 % der Stimmberechtigten unter Angabe der Gründe,
 - d) auf Begehren des Gemeinderates.
 
 #### § 70
@@ -930,13 +936,13 @@ beschliesst:
 
 **Referendum**
 
-<sup>1</sup> Beschlüsse der Abgeordnetenversammlung oder, sofern die Satzungen keine solche vorsehen, des Vorstandes, werden der Volksabstimmung unterbreitet, wenn
+<sup>1</sup> Beschlüsse der Abgeordnetenversammlung oder, sofern die Satzungen keine solche vorsehen, des Vorstands, werden der Volksabstimmung unterbreitet, wenn
 
 - a) 5 % der Stimmberechtigten der Verbandsgemeinden beziehungsweise 1'500 Stimmberechtigte dies innert 60 Tagen, von der Veröffentlichung an gerechnet, verlangen,
-- b) die Gemeinderäte von einem Viertel der Verbandsgemeinden dies innert 60 Tagen, von der Veröffentlichung an gerechnet, verlangen,
+- b) die Gemeinderäte von 25 % der Verbandsgemeinden dies innert 60 Tagen, von der Veröffentlichung an gerechnet, verlangen,
 - c) die Abgeordnetenversammlung oder, sofern die Satzungen keine solche vorsehen, der Vorstand dies beschliesst.
 
-<sup>2</sup> Die Satzungen können die Zahl der gemäss Absatz 1 lit. a erforderlichen Unterschriften auf 10 % der Stimmberechtigten der Verbandsgemeinden, höchstens aber auf 3'000 Stimmberechtigte, erhöhen.
+<sup>2</sup> Die Satzungen können die Zahl der gemäss Absatz 1 lit. a erforderlichen Unterschriften bis auf 10 % der Stimmberechtigten der Verbandsgemeinden, höchstens aber auf 3'000 Stimmberechtigte, erhöhen.
 
 <sup>3</sup> Die Satzungen können das fakultative Referendum ausschliessen, mit Ausnahme von Beschlüssen zu folgenden Geschäften:
 
@@ -949,11 +955,11 @@ beschliesst:
 
 **Initiative**
 
-<sup>1</sup> 5 % der Stimmberechtigten der Verbandsgemeinden beziehungsweise 1'500 Stimmberechtigte oder die Gemeinderäte von einem Viertel der Verbandsgemeinden können in Form einer allgemeinen Anregung oder eines ausgearbeiteten Entwurfs die Behandlung von Gegenständen verlangen, die in die Zuständigkeit der Abgeordnetenversammlung oder, sofern die Satzungen keine solche vorsehen, des Vorstandes fallen.
+<sup>1</sup> 5 % der Stimmberechtigten der Verbandsgemeinden beziehungsweise 1'500 Stimmberechtigte oder die Gemeinderäte von 25 % der Verbandsgemeinden können in Form einer allgemeinen Anregung oder eines ausgearbeiteten Entwurfs die Behandlung von Gegenständen verlangen, die in die Zuständigkeit der Abgeordnetenversammlung oder, sofern die Satzungen keine solche vorsehen, des Vorstands fallen.
 
 <sup>2</sup> Für das Verfahren gelten die Bestimmungen über das Initiativrecht in Gemeinden mit Einwohnerrat sinngemäss.
 
-<sup>3</sup> Die Satzungen können die Zahl der gemäss Absatz 1 erforderlichen Unterschriften auf 10 % der Stimmberechtigten der Verbandsgemeinden, höchstens aber auf 3'000 Stimmberechtigte, erhöhen.
+<sup>3</sup> Die Satzungen können die Zahl der gemäss Absatz 1 erforderlichen Unterschriften bis auf 10 % der Stimmberechtigten der Verbandsgemeinden, höchstens aber auf 3'000 Stimmberechtigte, erhöhen.
 
 #### § 78
 
