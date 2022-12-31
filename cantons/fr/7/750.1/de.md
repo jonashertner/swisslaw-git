@@ -4,13 +4,12 @@ number: "750.1"
 title: Gesetz über die öffentlichen Sachen
 short: ÖSG
 language: de
-version: 2012-07-01
-valid_until: 2022-12-31
-version_adopted: 2011-10-06
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1972-02-04
 in_force: 1972-02-04
 url: "https://bdlf.fr.ch/app/de/texts_of_law/750.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8559/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8561/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8559/pdf_file"
 
 (ÖSG)
 
-vom 04.02.1972 (Fassung in Kraft getreten am 01.07.2012)
+vom 04.02.1972 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -41,7 +40,7 @@ beschliesst:
 
 <sup>2</sup> Dieses Gesetz bezieht sich vorbehältlich gegenteiliger Bestimmungen ausschliesslich auf die Liegenschaften.
 
-<sup>3.</sup> Vorbehalten bleibt die Spezialgesetzgebung, namentlich das Strassengesetz, das Gewässergesetz sowie die Gesetze über die Ausübung der Jagd, der Fischerei, über die Ausbeutung von Bodenschätzen (Gesetz über den Betrieb der Minen, Gesetz über die Schürfung und Ausbeutung von Kohlenwasserstoffen) und über den Wald.
+<sup>3.</sup> Vorbehalten bleibt die Spezialgesetzgebung, namentlich das Mobilitätsgesetz, das Gewässergesetz sowie die Gesetze über die Ausübung der Jagd, der Fischerei, über die Ausbeutung von Bodenschätzen (Gesetz über den Betrieb der Minen, Gesetz über die Schürfung und Ausbeutung von Kohlenwasserstoffen) und über den Wald.
 
 #### Art. 2
 
@@ -57,13 +56,15 @@ beschliesst:
 
 - 1\. der der öffentlichen Verwaltung gewidmeten Grundstücke;
 - 2\. der Sachen, die naturgemäss dem öffentlichen Gebrauch dienen, namentlich der öffentlichen Gewässer;
-- 3\. der Sachen, die tatsächlich oder durch rechtliche Verfügung dem Gemeingebrauch zugewiesen und zu diesem Zwecke hergerichtet sind, wie Strassen, Plätze, Brücken, Häfen, ganz allgemein der öffentlichen Verkehrswege und der dazugehörigen Bauten;
-- 4\. der herrenlosen Sachen im Sinne des Privatrechtes, vorbehältlich der Bestimmungen über die Aneignung.
+- 3\. der Sachen, die tatsächlich oder durch rechtliche Verfügung dem Gemeingebrauch zugewiesen und zu diesem Zwecke hergerichtet sind, wie Mobilitätsinfrastrukturen;
+- 3a. von allem, was das Gesetz ihm zuschlägt.
+- 4\. …
 
 <sup>2</sup> Die Gemeinde ist Eigentümerin der kommunalen öffentlichen Sachen, nämlich:
 
 - 1\. der der Gemeindeverwaltung gewidmeten Grundstücke;
-- 2\. der auf Gemeindegebiet gelegenen Sachen, die tatsächlich oder durch Gemeindeverfügung dem Gemeingebrauch gewidmet sind und von der Gemeinde zu diesem Zwecke hergerichtet wurden, wie Gemeindestrassen, Wege, Plätze, Brücken, ganz allgemein der auf Gemeindegebiet gelegenen öffentlichen Verkehrswege und der dazugehörigen Bauten;
+- 2\. der auf Gemeindegebiet gelegenen Sachen, die tatsächlich oder durch Gemeindeverfügung dem Gemeingebrauch gewidmet sind und von der Gemeinde zu diesem Zwecke hergerichtet wurden, wie Mobilitätsinfrastrukturen, für die von der Gemeinde ein Mobilitätsinfrastrukturplan erstellt wurde;
+- 2a. der herrenlosen Sachen im Sinne des Zivilrechts; die Vorschriften über die Aneignung bleiben vorbehalten;
 - 3\. von allem, was das Gesetz ihr zuschlägt.
 
 #### Art. 4
@@ -161,7 +162,7 @@ beschliesst:
 
 <sup>1</sup> Das Gemeinwesen muss als Eigentümer oder Dienstbarkeitsberechtigter die Verfügungsgewalt über eine Sache haben, welche es dem Gemeingebrauch widmen will.
 
-<sup>2</sup> Vorbehalten bleiben die Bestimmungen des Strassengesetzes betreffend die Widmung von Privatstrassen für den Gemeingebrauch (Art. 17ff des Strassengesetzes).
+<sup>2</sup> Die Bestimmungen des Mobilitätsgesetzes betreffend die Privatstrassen in öffentlicher Nutzung bleiben vorbehalten.
 
 #### Art. 16
 

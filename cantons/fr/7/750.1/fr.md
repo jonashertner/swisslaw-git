@@ -4,13 +4,12 @@ number: "750.1"
 title: Loi sur le domaine public
 short: LDP
 language: fr
-version: 2012-07-01
-valid_until: 2022-12-31
-version_adopted: 2011-10-06
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1972-02-04
 in_force: 1972-02-04
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/750.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8559/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8561/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Domaine public – L
 
 (LDP)
 
-du 04.02.1972 (version entrée en vigueur le 01.07.2012)
+du 04.02.1972 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -41,7 +40,7 @@ Décrète:
 
 <sup>2</sup> La présente loi ne s'applique, sauf disposition contraire, qu'aux biens immobiliers.
 
-<sup>3.</sup> Est réservée la législation spéciale, en particulier la loi sur les routes, la loi sur les eaux et les lois relatives à la régale de la chasse, de la pêche et des mines (loi sur l'exploitation des mines, loi sur la recherche et l'exploitation des hydrocarbures) et aux forêts.
+<sup>3.</sup> Est réservée la législation spéciale, en particulier la loi sur la mobilité, la loi sur les eaux et les lois relatives à la régale de la chasse, de la pêche et des mines (loi sur l'exploitation des mines, loi sur la recherche et l'exploitation des hydrocarbures) et aux forêts.
 
 #### Art. 2
 
@@ -57,13 +56,15 @@ Décrète:
 
 - 1\. des immeubles affectés à l'administration publique;
 - 2\. des choses destinées par nature à l'usage commun, en particulier des eaux publiques;
-- 3\. des choses affectées, par le fait ou par décision, à l'usage commun et aménagées à cette fin, tels les routes, places, ponts, ports, de manière générale les voies de communication et ouvrages annexes;
-- 4\. des choses sans maître au sens du droit civil, sous réserve des règles relatives à leur acquisition par occupation.
+- 3\. des choses affectées, par le fait ou par décision, à l'usage commun et aménagées à cette fin, telles que les infrastructures de mobilité;
+- 3a. de tout ce que la loi y rattache.
+- 4\. …
 
 <sup>2</sup> La commune est propriétaire au titre du domaine public communal:
 
 - 1\. des immeubles affectés à l'administration communale;
-- 2\. des choses sises sur le territoire de la commune, affectées, par le fait ou par décision de la commune, à l'usage commun et aménagées par la commune à cette fin, tels les routes communales, rues, places, ponts, de manière générale les voies de communication empruntant le territoire communal et leurs ouvrages annexes;
+- 2\. des choses sises sur le territoire de la commune, affectées, par le fait ou par décision de la commune, à l'usage commun et aménagées par la commune à cette fin, telles que les infrastructures de mobilité dont le plan d'infrastructure de mobilité relève de la compétence communale;
+- 2a. des choses sans maître au sens du droit civil, sous réserve des règles relatives à leur acquisition par occupation;
 - 3\. de tout ce que la loi y rattache.
 
 #### Art. 4
@@ -161,7 +162,7 @@ Décrète:
 
 <sup>1</sup> La corporation publique doit pouvoir disposer, comme propriétaire ou titulaire d'une servitude, de la chose qu'elle entend affecter à l'usage commun.
 
-<sup>2</sup> Sont réservées les dispositions de la loi sur les routes relatives à l'affectation des routes privées à l'usage commun (art. 17ss de la loi sur les routes).
+<sup>2</sup> Sont réservées les dispositions de la loi sur la mobilité relatives aux routes privées à usage public.
 
 #### Art. 16
 
