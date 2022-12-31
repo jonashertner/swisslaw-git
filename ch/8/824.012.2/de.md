@@ -4,11 +4,11 @@ title: Verordnung des WBF vom 15. November 2017 über den zivilen Ersatzdienst (
 short: ZDV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20210101/de"
 
 (ZDV-WBF)
 
-vom 15. November 2017 (Stand am 1. Januar 2021)
+vom 15. November 2017 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF),
 
@@ -47,7 +47,7 @@ Zur Anlage und Pflege von Biodiversitätsförderflächen nach Artikel 55 der Dir
 - d. 14 Diensttage pro Hektare Waldweiden;
 - e. 14 Diensttage pro Hektare Streueflächen;
 - f. 42 Diensttage pro Hektare Hecken, Feld- und Ufergehölze;
-- g. 14 Diensttage pro Hektare Uferwiesen entlang von Fliessgewässern;
+- g.[^1-2] 14 Diensttage pro Hektare Uferwiesen;
 - h. 7 Diensttage pro Hektare Buntbrachen;
 - i. 5 Diensttage pro Hektare Rotationsbrachen;
 - j. 5 Diensttage pro Hektare Ackerschonstreifen;
@@ -64,6 +64,7 @@ Zur Anlage und zur Pflege von Biodiversitätsförderflächen nach Artikel 55 DZV
 - b. einheimische standortgerechte Einzelbäume und Bäume in Alleen.
 
 [^1-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 #### Art. 2
 
@@ -107,14 +108,14 @@ Landwirtschaftlichen Betrieben, die Projekte oder Programme nach Artikel 6 Absat
 
 ### (Art. 6 Abs. 1 Bst. c ZDV)
 
-<sup>1</sup> Landwirtschaftlichen Betrieben, die Investitionshilfen zur Strukturverbesserung im Rahmen von Projekten nach den Artikeln 14 und 18 der Strukturverbesserungsverordnung vom 7. Dezember 1998[^5-1] (SVV) erhalten, stehen pro 20 000 Franken Projektkosten 7 Diensttage zu, unabhängig davon, ob der Betrieb Investitionskredite nach der SVV erhält oder nicht.[^5-2]
+<sup>1</sup> Landwirtschaftlichen Betrieben, die Finanzhilfen zur Strukturverbesserung im Rahmen von Projekten nach Artikel 1 Absatz 1 Buchstaben a und b der Strukturverbesserungsverordnung vom 2. November 2022[^5-1] (SVV) erhalten, stehen pro 20 000 Franken Projektkosten 7 Diensttage zu.[^5-2]
 
 <sup>2</sup> Die Diensttage werden einmalig für die Dauer des jeweiligen Projekts gesprochen.
 
 <sup>3</sup> Verteilt sich die Projektdauer über mehrere Kalenderjahre, so kann der Einsatzbetrieb frei wählen, wie er die erhaltenen Diensttage innerhalb der Projektdauer einsetzen will.
 
 [^5-1]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-2]: Fassung gemäss Ziff. I der V des WBF vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5435](https://fedlex.data.admin.ch/eli/oc/2020/946)).
+[^5-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 ### 2. Abschnitt: Gemeinschaftsweide- und Sömmerungsbetriebe
 
@@ -132,13 +133,14 @@ Die den Gemeinschaftsweide- und Sömmerungsbetrieben zustehende Anzahl Diensttag
 
 ### (Art. 6 Abs. 1 Bst. c und 3 ZDV)
 
-<sup>1</sup> Gemeinschaftsweide- und Sömmerungsbetrieben, die Investitionshilfen zur Strukturverbesserung im Rahmen von Projekten nach den Artikeln 14 und 18 SVV[^7-1] oder Investitionskredite nach Artikel 51 Absatz 7 SVV erhalten, stehen pro 20 000 Franken Projektkosten 7 Diensttage zu.
+<sup>1</sup> Gemeinschaftsweide- und Sömmerungsbetrieben, die Finanzhilfen zur Strukturverbesserung im Rahmen von Projekten nach dem Artikel 1 Absatz 1 Buchstaben a und b SVV[^7-1] erhalten, stehen pro 20 000 Franken Projektkosten 7 Diensttage zu.[^7-2]
 
 <sup>2</sup> Die Diensttage werden einmalig für die Dauer des jeweiligen Projekts gesprochen.
 
 <sup>3</sup> Verteilt sich die Projektdauer über mehrere Kalenderjahre, so kann der Einsatzbetrieb frei wählen, wie er die erhaltenen Diensttage innerhalb der Projektdauer in den nach Artikel 6 Absatz 3 ZDV zulässigen Einsatzzeiträumen einsetzen will.
 
 [^7-1]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^7-2]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 ## 2. Kapitel: Geldleistungen zugunsten zivildienstleistender Personen
 

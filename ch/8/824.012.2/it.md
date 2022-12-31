@@ -4,11 +4,11 @@ title: Ordinanza del DEFR del 15 novembre 2017 sul servizio civile (OSCi-DEFR)
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20210101/it"
 
 (OSCi-DEFR)
 
-del 15 novembre 2017 (Stato 1° gennaio 2021)
+del 15 novembre 2017 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR),
 
@@ -47,7 +47,7 @@ Per lavori di sistemazione e manutenzione di superfici per la promozione della b
 - d. 14 giorni di servizio per ettaro di pascoli boschivi;
 - e. 14 giorni di servizio per ettaro di terreni da strame;
 - f. 42 giorni di servizio per ettaro di siepi, boschetti campestri e rivieraschi;
-- g. 14 giorni di servizio per ettaro di prati rivieraschi lungo i corsi d’acqua;
+- g.[^1-2] 14 giorni di servizio per ettaro di prati rivieraschi;
 - h. 7 giorni di servizio per ettaro di maggesi fioriti;
 - i. 5 giorni di servizio per ettaro di maggesi da rotazione;
 - j. 5 giorni di servizio per ettaro di fasce di colture estensive in campicoltura;
@@ -64,6 +64,7 @@ Per lavori di sistemazione e manutenzione di superfici per la promozione della b
 - b. alberi indigeni isolati adatti al luogo e alberi in viali alberati.
 
 [^1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 #### Art. 2
 
@@ -107,14 +108,14 @@ Per lavori nell’ambito d’attività «protezione dell’ambiente e della natu
 
 ### (art. 6 cpv. 1 lett. c OSCi)
 
-<sup>1</sup> Le aziende agricole che ricevono aiuti agli investimenti per miglioramenti strutturali nel quadro di progetti di cui agli articoli 14 e 18 dell’ordinanza del 7 dicembre 1998[^5-1] sui miglioramenti strutturali (OMSt) hanno diritto a 7 giorni di servizio ogni 20 000 franchi di costi di progetto, indipendentemente dal fatto che ricevano o no crediti d’investimento secondo l’OMSt.[^5-2]
+<sup>1</sup> Le aziende agricole che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b dell’ordinanza del 2 novembre 2022[^5-1] sui miglioramenti strutturali (OMSt) hanno diritto a 7 giorni di servizio ogni 20 000 franchi di costi di progetto.[^5-2]
 
 <sup>2</sup> I giorni di servizio sono assegnati una sola volta per la durata del progetto.
 
 <sup>3</sup> Se il progetto si estende su più anni civili, l’istituto d’impiego può decidere liberamente come ripartire sulla durata del progetto i giorni di servizio che gli sono stati assegnati.
 
 [^5-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5435](https://fedlex.data.admin.ch/eli/oc/2020/946)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 ### Sezione 2: Aziende con pascoli comunitari e aziende d’estivazione
 
@@ -132,13 +133,14 @@ Il numero di giorni di servizio a cui le aziende con pascoli comunitari e le azi
 
 ### (art. 6 cpv. 1 lett. c e 3 OSCi)
 
-<sup>1</sup> Le aziende con pascoli comunitari e le aziende d’estivazione che ricevono aiuti agli investimenti per miglioramenti strutturali nel quadro di progetti di cui agli articoli 14 e 18 OMSt[^7-1] o crediti d’investimento di cui all’articolo 51 capoverso 7 OMSt hanno diritto a 7 giorni di servizio ogni 20 000 franchi di costi di progetto.
+<sup>1</sup> Le aziende con pascoli comunitari e le aziende d’estivazione che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b OMSt[^7-1] hanno diritto a 7 giorni di servizio ogni 20 000 franchi di costi di progetto.[^7-2]
 
 <sup>2</sup> I giorni di servizio sono assegnati una sola volta per la durata del progetto.
 
 <sup>3</sup> Se il progetto si estende su più anni civili, l’istituto d’impiego può decidere liberamente come ripartire sulla durata del progetto i giorni di servizio che gli sono stati assegnati entro i periodi d’impiego ammessi secondo l’articolo 6 capoverso 3 OSCi.
 
 [^7-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^7-2]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 ## Capitolo 2: Prestazioni in denaro a favore delle persone che prestano servizio civile
 

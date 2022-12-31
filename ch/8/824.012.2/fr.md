@@ -4,11 +4,11 @@ title: Ordonnance du DEFR du 15 novembre 2017 sur le service civil de remplaceme
 short: OSCi-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/745"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-745-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/745/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-745-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/745/20210101/fr"
 
 (OSCi-DEFR)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> janvier 2021)
+du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR),
 
@@ -47,7 +47,7 @@ Les établissements d’affectation ont droit au nombre de jours de service suiv
 - d. 14 jours de service par hectare de pâturage boisé;
 - e. 14 jours de service par hectare de surface à litière;
 - f. 42 jours de service par hectare de haie, bosquet champêtre et berge boisée;
-- g. 14 jours de service par hectare de prairie riveraine d’un cours d’eau;
+- g.[^1-2] 14 jours de service par hectare de prairie riveraine;
 - h. 7 jours de service par hectare de jachère florale;
 - i. 5 jours de service par hectare de jachère tournante;
 - j. 5 jours de service par hectare de bande culturale extensive;
@@ -64,6 +64,7 @@ Ils ont droit au même titre à 0,21 jour de service par arbre pour les arbres s
 - b. les arbres isolés indigènes adaptés au site et les arbres des allées d’arbres.
 
 [^1-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 #### Art. 2
 
@@ -107,14 +108,14 @@ Les exploitations agricoles qui mènent à bien des projets ou programmes visés
 
 ### (art. 6, al. 1, let. c, OSCi)
 
-<sup>1</sup> Les exploitations agricoles qui reçoivent des aides à l’investissement pour des améliorations structurelles dans le cadre de projets au sens des art. 14 et 18 de l’ordonnance du 7 décembre 1998 sur les améliorations structurelles (OAS)[^5-1] ont droit à 7 jours de service par tranche de 20 000 francs de coûts de projet, que l’exploitation reçoive ou non les crédits d’investissements visés dans l’OAS.[^5-2]
+<sup>1</sup> Les exploitations agricoles qui reçoivent des aides financières pour des améliorations structurelles dans le cadre de projets au sens de l’art. 1, al. 1, let. a et b, de l’ordonnance du 2 novembre 2022 sur les améliorations structurelles (OAS)[^5-1] ont droit à 7 jours de service par tranche de 20 000 francs de coûts de projet.[^5-2]
 
 <sup>2</sup> Les jours sont attribués en une fois pour la durée du projet.
 
 <sup>3</sup> Si le projet s’étend sur plusieurs années civiles, l’établissement d’affectation a libre choix de la manière de répartir les jours de service qui lui ont été attribués sur la durée du projet.
 
 [^5-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
-[^5-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5435](https://fedlex.data.admin.ch/eli/oc/2020/946)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 ### Section 2 Exploitations de pâturages communautaires et d’estivage
 
@@ -132,13 +133,14 @@ Le nombre de jours de service auquel les exploitations de pâturages communautai
 
 ### (art. 6, al. 1, let. c, et 3, OSCi)
 
-<sup>1</sup> Les exploitations de pâturages communautaires et d’estivage qui reçoivent des aides à l’investissement pour des améliorations structurelles dans le cadre de projets au sens des art. 14 et 18 OAS[^7-1] ou des crédits d’investissements au sens de l’art. 51, al. 7, de ladite ordonnance ont droit à 7 jours de service par tranche de 20 000 francs de coûts de projet.
+<sup>1</sup> Les exploitations de pâturages communautaires et d’estivage qui reçoivent des aides financières pour des améliorations structurelles dans le cadre de projets au sens de l’art. 1, al. 1, let. a et b, OAS[^7-1] ont droit à 7 jours de service par tranche de 20 000 francs de coûts de projet.[^7-2]
 
 <sup>2</sup> Les jours de service sont attribués en une fois pour la durée du projet.
 
 <sup>3</sup> Si le projet s’étend sur plusieurs années civiles, l’établissement d’affectation peut répartir comme il l’entend les jours de service qui lui ont été attribués sur la durée du projet, pendant les périodes au cours desquelles l’art. 6, al. 3, OSCi permet des affectations.
 
 [^7-1]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 741](https://fedlex.data.admin.ch/eli/oc/2022/741)).
 
 ## Chapitre 2 Prestations en espèces versées aux personnes en service
 
@@ -206,7 +208,7 @@ Si la personne en service doit utiliser son véhicule à moteur pour se rendre a
 
 L’ordonnance du DEFR du 15 avril 2004 sur les prestations en espèces en faveur des personnes effectuant le service civil[^13-1] est abrogée.
 
-[^13-1]: [[RO 2004 2083](https://fedlex.data.admin.ch/eli/oc/2004/239), [2007 3783](https://fedlex.data.admin.ch/eli/oc/2007/491), [2009 1127](https://fedlex.data.admin.ch/eli/oc/2009/179), [2011 159](https://fedlex.data.admin.ch/eli/oc/2011/22), [2016 1941](https://fedlex.data.admin.ch/eli/oc/2016/333)]
+[^13-1]: [[RO 2004 2083](https://fedlex.data.admin.ch/eli/oc/2004/239); [2007 3783](https://fedlex.data.admin.ch/eli/oc/2007/491); [2009 1127](https://fedlex.data.admin.ch/eli/oc/2009/179); [2011 159](https://fedlex.data.admin.ch/eli/oc/2011/22); [2016 1941](https://fedlex.data.admin.ch/eli/oc/2016/333)]
 
 #### Art. 14
 
