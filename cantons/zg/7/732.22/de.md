@@ -1,26 +1,26 @@
 ---
 canton: ZG
 number: "732.22"
-title: Reglement über die Abfallbewirtschaftung des ZEBA
+title: Reglement über die Abfallbewirtschaftung des Zeba
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-11-05
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-05-18
 adopted: 2005-05-19
 in_force: 2005-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/732.22"
-pdf: "https://bgs.zg.ch/api/de/versions/1847/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2395/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Abfallbewirtschaftung des ZEBA
+# Reglement über die Abfallbewirtschaftung des Zeba
 
-Vom 19. Mai 2005 (Stand 1. Januar 2019)
+Vom 19. Mai 2005 (Stand 1. Januar 2023)
 
 Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle,
 
-gestützt auf das Bundesgesetz über den Umweltschutz vom 7. Oktober 1983 (Umweltschutzgesetz, USG)[^ingress-1], die Verordnung über die Vermeidung und die Entsorgung von Abfällen vom 4. Dezember 2015 (Abfallverordnung, VVEA)[^ingress-2], das Einführungsgesetz zum Bundesgesetz über den Umweltschutz vom 29. Januar 1998 (EG USG)[^ingress-3], die Verordnung zum Einführungsgesetz zum Bundesgesetz über den Umweltschutz vom 5. Mai 1998 (V EG USG)[^ingress-4], die Verbandsordnung des Zweckverbands der Zuger Einwohnergemeinden für die Bewirtschaftung von Abfällen (ZEBA) vom 20. Dezember 1994[^ingress-5], das Übertretungsstrafgesetz vom 23. Mai 2013 (ÜStG)[^ingress-6] sowie auf das Gesetz über den Rechtsschutz in Verwaltungssachen vom 1. April 1976 (Verwaltungsrechtspflegegesetz, VRG)[^ingress-7],
+gestützt auf das Bundesgesetz über den Umweltschutz vom 7. Oktober 1983 (Umweltschutzgesetz, USG)[^ingress-1], die Verordnung über die Vermeidung und die Entsorgung von Abfällen vom 4. Dezember 2015 (Abfallverordnung, VVEA)[^ingress-2], das Einführungsgesetz zum Bundesgesetz über den Umweltschutz vom 29. Januar 1998 (EG USG)[^ingress-3], die Verordnung zum Einführungsgesetz zum Bundesgesetz über den Umweltschutz vom 5. Mai 1998 (V EG USG)[^ingress-4], die Verbandsordnung des Zweckverbands der Zuger Einwohnergemeinden für die Bewirtschaftung von Abfällen (Zeba) vom 20. Dezember 1994[^ingress-5], das Übertretungsstrafgesetz vom 23. Mai 2013 (ÜStG)[^ingress-6] sowie auf das Gesetz über den Rechtsschutz in Verwaltungssachen vom 1. April 1976 (Verwaltungsrechtspflegegesetz, VRG)[^ingress-7],
 
 beschliesst:
 
@@ -38,13 +38,13 @@ beschliesst:
 
 **Zweck und Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement ordnet die kommunale Abfallbewirtschaftung, welche der Zweckverband der Zuger Einwohnergemeinden für die Bewirtschaftung von Abfällen (ZEBA) im öffentlichen Interesse auszuführen hat. Es gilt für alle Verbandsgemeinden des ZEBA oder Gemeindegebiete, die dem ZEBA angeschlossen sind.
+<sup>1</sup> Dieses Reglement ordnet die kommunale Abfallbewirtschaftung, welche der Zweckverband der Zuger Einwohnergemeinden für die Bewirtschaftung von Abfällen (Zeba) im öffentlichen Interesse auszuführen hat. Es gilt für alle Verbandsgemeinden des Zeba oder Gemeindegebiete, die dem Zeba angeschlossen sind.
 
 #### § 2
 
 **Grundsätze**
 
-<sup>1</sup> Der ZEBA, die Verbandsgemeinden und die Abfallinhaber tragen durch vorbildliches Verhalten zur Vermeidung, Verminderung, Verwertung und umweltgerechten Entsorgung der Abfälle bei. Schadstoffreiche Stoffe und Materialien sind, wo immer möglich, durch schadstoffarme zu ersetzen.
+<sup>1</sup> Der Zeba, die Verbandsgemeinden und die Abfallinhaber tragen durch vorbildliches Verhalten zur Vermeidung, Verminderung, Verwertung und umweltgerechten Entsorgung der Abfälle bei. Schadstoffreiche Stoffe und Materialien sind, wo immer möglich, durch schadstoffarme zu ersetzen.
 
 <sup>2</sup> Die Abfallbewirtschaftung erfolgt effizient und kostenbewusst und deren Finanzierung weitestgehend verursacherorientiert.
 
@@ -72,14 +72,15 @@ beschliesst:
 
 #### § 5
 
-**Aufgaben des ZEBA**
+**Aufgaben des Zeba**
 
-<sup>1</sup> Der ZEBA
+<sup>1</sup> Der Zeba
 
 - a) betreibt eine umweltschonende, kundenfreundliche und verursacherorientierte Abfallbewirtschaftung;
 - b) organisiert und unterstützt die ökologische Bewirtschaftung und die umweltgerechte Beseitigung von Siedlungsabfällen;
 - c) erteilt Auskünfte und Beratungen;
-- d) betreibt Öffentlichkeitsarbeit.
+- d) betreibt Öffentlichkeitsarbeit;
+- e) erstellt unter Einbezug der Gemeinden ein Recyclingmerkblatt.
 
 #### § 6
 
@@ -90,8 +91,8 @@ beschliesst:
 - a) erfüllt die erforderlichen Rahmenbedingungen für eine sichere, ökologische und wirtschaftliche Durchführung der Hauskehricht- und der Separatsammlungen;
 - b) kann mit Dritten, anderen Gemeinden oder öffentlichen Körperschaften im Rahmen dieses Reglements Verträge abschliessen;
 - c) sorgt für den Betrieb eines Ökihofs;
-- d) sorgt für das Aufstellen und die regelmässige Leerung von Abfallbehältern auf öffentlichem Grund;
-- e) erstellt jährlich ein Entsorgungsmerkblatt für die Bevölkerung.
+- d) sorgt für das Aufstellen und die regelmässige Leerung von Abfallbehältern auf öffentlichem Grund.
+- e) …
 
 #### § 7
 
@@ -111,7 +112,7 @@ beschliesst:
 
 <sup>2</sup> Der Kehrichtabfuhr dürfen nur Hauskehricht, Betriebskehricht und Sperrgut mitgegeben werden.
 
-<sup>3</sup> Betriebskehricht ist der gemeindlichen Sammlung zuzuführen. Ausnahmen bedürfen der schriftlichen Bewilligung durch den ZEBA.
+<sup>3</sup> Betriebskehricht ist der gemeindlichen Sammlung zuzuführen. Ausnahmen bedürfen der schriftlichen Bewilligung durch den Zeba.
 
 <sup>4</sup> Kompostierbare Abfälle können der gemeindlichen Sammlung mitgegeben, einer Kompostieranlage zugeführt oder vor Ort selbst kompostiert werden.
 
@@ -165,7 +166,7 @@ beschliesst:
 
 <sup>2</sup> Auf öffentlichem Grund darf das Sammelgut erst am Abfuhrtag bereitgestellt werden. Container sind nach dem Entleeren so rasch als möglich an den Standplatz zurückzustellen.
 
-<sup>3</sup> Sperrgut ist gemäss den Anweisungen in den jährlich erscheinenden gemeindlichen Entsorgungsmerkblättern zu entsorgen.
+<sup>3</sup> Sperrgut ist gemäss den Anweisungen in den jährlich erscheinenden gemeindlichen Recyclingmerkblättern zu entsorgen.
 
 #### § 15
 
@@ -179,13 +180,13 @@ beschliesst:
 
 **Kehrichtpressen**
 
-<sup>1</sup> Der Einsatz von Kehrichtpressen, Kehrichtshreddern und dergleichen bedarf der schriftlichen Bewilligung des ZEBA. Für die Bewilligung sind die geltenden Gesetze und Vorschriften zu befolgen.
+<sup>1</sup> Der Einsatz von Kehrichtpressen, Kehrichtshreddern und dergleichen bedarf der schriftlichen Bewilligung des Zeba. Für die Bewilligung sind die geltenden Gesetze und Vorschriften zu befolgen.
 
 #### § 16a
 
 **Unterflur- und Halbunterfluranlagen**
 
-<sup>1</sup> Für Wohnsiedlungen ab 30 Wohneinheiten sowie für einzelne oder mehrere Strassenzüge kann die Verbandsgemeinde die Errichtung einer Unterflur- oder einer Halbunterfluranlage anordnen. Für die Erstellung der Anlage ist ein Baubewilligungsverfahren durchzuführen.
+<sup>1</sup> Für geplante Wohnsiedlungen ab 30 Wohneinheiten und bei logistischem Bedarf für bestehende Wohnsiedlungen sowie für einzelne oder mehrere Strassenzüge kann die Verbandsgemeinde die Errichtung einer Unterflur- oder einer Halbunterfluranlage anordnen.
 
 <sup>2</sup> …
 
@@ -197,7 +198,7 @@ beschliesst:
 
 **Standort von Unterflur- und Halbunterfluranlagen**
 
-<sup>1</sup> Die Verbandsgemeinde legt nach Anhörung des ZEBA den Standort sowie das Einzugsgebiet der Sammelanlage fest.
+<sup>1</sup> Die Verbandsgemeinde legt nach Anhörung des Zeba den Standort sowie das Einzugsgebiet der Sammelanlage fest.
 
 <sup>2</sup> Der Standort soll eine sichere, ökologische und wirtschaftliche Durchführung der Abfallentsorgung gewährleisten. Bei der Standortwahl sind die Ausführungsvorschriften gemäss § 19 Abs. 1 des Anhangs[^16b-1] dieses Reglements zu beachten.
 
@@ -205,7 +206,7 @@ beschliesst:
 
 <sup>4</sup> Unter den Voraussetzungen des 8. Abschnittes des Planungs- und Baugesetzes vom 26. November 1998 (PBG)[^16b-2] kommt der Verbandsgemeinde bei der Standortfestsetzung das Enteignungsrecht zu.
 
-<sup>5</sup> Mitarbeitern des ZEBA oder Personen, die im Auftrag des ZEBA handeln, ist der Zutritt zur Sammelstelle auf privatem Grund zu gewähren.
+<sup>5</sup> Mitarbeitern des Zeba oder Personen, die im Auftrag des Zeba handeln, ist der Zutritt zur Sammelstelle auf privatem Grund zu gewähren.
 
 [^16b-1]: BGS [732.22-A1](https://bgs.zg.ch/data/732.22-A1/de)
 [^16b-2]: BGS [721.11](https://bgs.zg.ch/data/721.11/de)
@@ -214,19 +215,19 @@ beschliesst:
 
 **Erstellungs- und Betriebskosten**
 
-<sup>1</sup> Die Unterflur- und Halbunterfluranlagen für Hauskehricht werden vom ZEBA beschafft, finanziert, franko Baustelle geliefert, in die Baugrube gesetzt und in Betrieb genommen.
+<sup>1</sup> Die Unterflur- und Halbunterfluranlagen für Haus- und Betriebskehricht werden vom Zeba beschafft, finanziert, franko Baustelle geliefert, in die Baugrube gesetzt und in Betrieb genommen.
 
 <sup>2</sup> Die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient, erbringen die bauseitigen Vorleistungen für die Erstellung der Unterflur- oder Halbunterfluranlage und tragen sämtliche damit zusammenhängenden Kosten (namentlich Baubewilligung, Aushub, Anschlüsse, Leitungsverlegung, Verankerung, Kanalisation, Denkmal- und Ortsbildauflagen, Umgebungsgestaltung). Die Verbandsgemeinde kann zu diesem Zweck ein Perimeterverfahren durchführen.
 
-<sup>2a</sup> An die Baukosten der Unterflur-Sammelanlagen für Hauskehricht entrichtet der ZEBA einen Beitrag in der Höhe von maximal 10'000 Franken pro Säule. Die Baukosten beinhalten Aushub, Hinterfüllung, Umgebungsarbeiten, Oberflächenbelege, Anschlüsse, Leitungsverlegungen, Kanalisation sowie weitere Nebenkosten inklusive Anteil Bauleitungskosten.
+<sup>2a</sup> An die Baukosten der Unterflur-Sammelanlagen für Haus- und Betriebskehricht entrichtet der Zeba einen Beitrag in der Höhe von maximal 10'000 Franken pro Säule. Die Baukosten beinhalten Aushub, Hinterfüllung, Umgebungsarbeiten, Oberflächenbelege, Anschlüsse, Leitungsverlegungen, Kanalisation sowie weitere Nebenkosten inklusive Anteil Bauleitungskosten.
 
 <sup>2b</sup> Der Baukostenbeitrag gemäss Bst. 2a wird an die Teuerung angepasst (Zürcher Index der Wohnbaupreise: Basis April 2018).
 
-<sup>3</sup> Der ZEBA übernimmt die Kosten des Betriebes, der Reinigung, der Wartung, der Reparatur sowie des Ersatzes und der Entsorgung der Unterflur- und Halbunterfluranlagen für Hauskehricht. Der ZEBA in Absprache mit der Verbandsgemeinde übernimmt die Entsorgungs- und Rückbaukosten der ausser Betrieb genommenen Unterflur- und Halbunterfluranlagen für Hauskehricht.
+<sup>3</sup> Der Zeba übernimmt die Kosten des Betriebes, der Reinigung, der Wartung, der Reparatur sowie des Ersatzes und der Entsorgung der Unterflur- und Halbunterfluranlagen für Haus- und Betriebskehricht. Der Zeba in Absprache mit der Verbandsgemeinde übernimmt die Entsorgungs- und Rückbaukosten der ausser Betrieb genommenen Unterflur- und Halbunterfluranlagen für Haus- und Betriebskehricht.
 
 <sup>4</sup> Die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient, tragen die Kosten des Umgebungsunterhaltes und besorgen den Winterdienst. Die Verbandsgemeinde kann zu diesem Zweck ein Perimeterverfahren durchführen.
 
-<sup>5</sup> Aus wichtigen Gründen kann die Verbandsgemeinde und/oder der ZEBA die Erstellungskosten von Unterflur-Sammelanlagen nach Absatz 2 vollständig und die Betriebskosten nach Absatz 4 ganz oder teilweise übernehmen.
+<sup>5</sup> Aus wichtigen Gründen kann die Verbandsgemeinde und/oder der Zeba die Erstellungskosten von Unterflur-Sammelanlagen nach Abs. 2 vollständig und die Betriebskosten nach Abs. 4 ganz oder teilweise übernehmen.
 
 ## 7. Organisation der Entsorgung
 
@@ -234,19 +235,19 @@ beschliesst:
 
 **Zu sammelnde Fraktionen**
 
-<sup>1</sup> Der ZEBA bestimmt, welche Siedlungsabfälle separat zu sammeln sind.
+<sup>1</sup> Der Zeba bestimmt, welche Siedlungsabfälle separat zu sammeln sind.
 
 #### § 18
 
 **Problemabfälle**
 
-<sup>1</sup> Der ZEBA bezeichnet die Problemabfälle. Er kann in Einzelfällen eine besondere Entsorgung verlangen oder selbst eine gebührenpflichtige Entsorgung durchführen.
+<sup>1</sup> Der Zeba bezeichnet die Problemabfälle. Er kann in Einzelfällen eine besondere Entsorgung verlangen oder selbst eine gebührenpflichtige Entsorgung durchführen.
 
 #### § 19
 
 **Berechtigung**
 
-<sup>1</sup> Abfuhren und Sammelstellen stehen ausschliesslich den auf dem ZEBA-Gebiet ansässigen Personen und Betrieben zur Verfügung. Abfälle, welche nicht auf dem Gebiet des ZEBA anfallen, dürfen nicht über diese Entsorgungseinrichtungen entsorgt werden.
+<sup>1</sup> Abfuhren und Sammelstellen stehen ausschliesslich den auf dem Zeba-Gebiet ansässigen Personen und Betrieben zur Verfügung. Abfälle, welche nicht auf dem Gebiet des Zeba anfallen, dürfen nicht über diese Entsorgungseinrichtungen entsorgt werden.
 
 ## 8. Entsorgung von Bauabfällen, Sonderabfällen und Tierkadavern
 
@@ -262,7 +263,7 @@ beschliesst:
 
 **Sonderabfälle**
 
-<sup>1</sup> Kleinmengen von Sonderabfällen können gemäss § 9 an speziell bezeichneten Sammelstellen abgegeben werden. Der ZEBA bestimmt, welche Sonderabfälle an welchen Sammelstellen angenommen werden.
+<sup>1</sup> Kleinmengen von Sonderabfällen können gemäss § 9 an speziell bezeichneten Sammelstellen abgegeben werden. Der Zeba bestimmt, welche Sonderabfälle an welchen Sammelstellen angenommen werden.
 
 #### § 22
 
@@ -284,7 +285,7 @@ beschliesst:
 
 **Beschwerderecht**
 
-<sup>1</sup> Gegen Verfügungen des ZEBA oder einer Verbandsgemeinde kann nach Massgabe des VRG[^24-1] innert 20 Tagen beim Regierungsrat des Kantons Zug Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen des Zeba oder einer Verbandsgemeinde kann nach Massgabe des VRG[^24-1] innert 20 Tagen beim Regierungsrat des Kantons Zug Beschwerde geführt werden.
 
 [^24-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
@@ -296,14 +297,6 @@ beschliesst:
 
 #### § 25
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement wurde an der Delegiertenversammlung des ZEBA vom 19. Mai 2005 beschlossen.
-
-<sup>2</sup> Das Reglement tritt nach der Genehmigung durch den Kanton am 1. Juli 2005 in Kraft.
-
-<sup>3</sup> Mit Inkrafttreten dieses Reglements werden die gemeindlichen Abfallreglemente ausser Kraft gesetzt.
-
-Von der Baudirektion des Kantons Zug genehmigt am 14. Juni 2005
+**…**
 
 GS 28, 603
