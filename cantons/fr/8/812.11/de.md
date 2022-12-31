@@ -4,13 +4,13 @@ number: "812.11"
 title: Gewässerreglement
 short: GewR
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-01
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2022-12-20
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7401/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7703/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gewässerreglement
 
 (GewR)
 
-vom 21.06.2011 (Fassung in Kraft getreten am 01.02.2022)
+vom 21.06.2011 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -440,63 +440,45 @@ beschliesst:
 
 **Benachrichtigung**
 
-<sup>1</sup> Zeugen von Verschmutzungen und Unfällen, die eine Bedrohung für Gewässer darstellen, benachrichtigen die Einsatz- und Alarmzentrale der Kantonspolizei (EAZ).
+<sup>1</sup> Zeugen von Verschmutzungen und Unfällen, die eine Bedrohung für Gewässer oder die Umwelt darstellen, benachrichtigen die Einsatz- und Alarmzentrale der Kantonspolizei (EAZ).
 
 <sup>2</sup> Einsatzkräfte, die direkt über ein Ereignis informiert werden, melden dies unverzüglich der EAZ.
 
 #### Art. 38
 
-**Einsatzarten – Feuerwehrstützpunkt**
-
-<sup>1</sup> Die Feuerwehrstützpunkte (StP) von Freiburg, Bulle und Murten sind zuständig bei Störfällen oder Verschmutzungen infolge von Chemikalien (Chemie-StP).
-
-<sup>2</sup> Die StP von Freiburg, Düdingen, Bulle, Murten, Romont, Estavayer-le-Lac und Châtel-Saint-Denis sind zuständig bei Störfällen und Verschmutzungen mit Kohlenwasserstoffen oder anderen verunreinigenden Flüssigkeiten (Öl-StP).
-
-<sup>3</sup> Der StP Freiburg verfügt über eine Messgruppe. Diese hat die Aufgabe, bei Störfällen oder Verschmutzungen infolge von Chemikalien die Art und das Ausmass anhand von Proben zu bestimmen.
+**…**
 
 #### Art. 39
 
-**Einsatzarten – Kommando**
-
-<sup>1</sup> Der Kommandant des StP oder der von ihm bezeichnete Offizier leitet den Einsatz, legt die notwendigen Mittel fest und ordnet die erforderlichen Massnahmen an. Über die EAZ kann er die Hilfe anderer Instanzen anfordern.
+**…**
 
 #### Art. 40
 
-**Einsatzarten – Ausrüstung und Ausbildung**
-
-<sup>1</sup> Staat und Gemeinden rüsten die StP mit dem Material und den Geräten aus, die nötig sind, damit die StP die ihnen in diesem Reglement übertragenen Aufgaben erfüllen können.
-
-<sup>2</sup> Die StP planen die Ausrüstung und Ausbildung und unterbreiten diese Planung der Kantonalen Gebäudeversicherung (KGV) und dem AfU zur Genehmigung.
-
-<sup>3</sup> Die KGV überwacht die Ausbildung und die Einsätze der StP. Sie kann Richtlinien erlassen und stellt die Einsatzbereitschaft der StP sicher.
+**…**
 
 #### Art. 41
 
-**Einsatzarten – Ortsfeuerwehr**
-
-<sup>1</sup> Die Ortsfeuerwehr greift nur auf Befehl des zuständigen StP ein und führt die Aufgaben aus, die ihr vom StP übertragen werden.
+**…**
 
 #### Art. 42
 
 **Unterstützungsdienst bei Verschmutzungen**
 
-<sup>1</sup> Innerhalb des AfU wird ein Unterstützungsdienst bei Verschmutzungen (UDV) eingerichtet.
+<sup>1</sup> Es wird ein Unterstützungsdienst bei Verschmutzungen (UDV) innerhalb des AfU eingerichtet, das dessen Aufgaben einem Dritten übertragen kann.
 
 <sup>2</sup> Er hilft bei einer Verschmutzung und berät bei der Wahl der Massnahmen gegen die Umweltverschmutzung und der Sofortmassnahmen zur Abfallentsorgung.
 
-<sup>3</sup> Bei Gewässerverschmutzungen ohne Einsatz eines StP oder der Ortsfeuerwehr legen der UDV und das Amt für Wald und Natur die notwendigen Massnahmen fest.
+<sup>3</sup> …
 
 #### Art. 43
 
-**Verschmutzung auf den Nationalstrassen**
-
-<sup>1</sup> Bei Verschmutzungen auf den Nationalstrassen ist der Beschluss über die Einsätze der Feuerwehren und der Ölwehren auf den Nationalstrassen massgebend.
+**…**
 
 #### Art. 44
 
-**Einsatzkosten – bei Umweltverschmutzungen**
+**Einsatzkosten**
 
-<sup>1</sup> Die Rechnungen der StP, die vorgängig von den StP kontrollierten Rechnungen der Ortsfeuerwehren, die auf Anordnung eines StP eingesetzt wurden, die Rechnungen der Dienststellen sowie die allenfalls von Dritten ausgestellten Rechnungen werden dem AfU übermittelt, das die Rechnungen kontrolliert und in Form eines Kostenvorschusses begleicht.
+<sup>1</sup> Rechnungen von allfälligen Dritten, die das AfU beauftragt hat, werden diesem übermittelt. Das AfU begleicht die Rechnungen in Form eines Kostenvorschusses.
 
 <sup>2</sup> Das AfU legt per Verfügung die Kosten zulasten der Störerin oder des Störers fest. Sind mehrere Störerinnen oder Störer beteiligt, so regelt das Amt die Aufteilung der Kosten unter ihnen. Es zieht ausserdem die Kosten ein.
 
@@ -504,39 +486,28 @@ beschliesst:
 
 <sup>4</sup> Wird die Einwirkung während der Arbeit durch eine Arbeitnehmerin oder einen Arbeitnehmer oder eine Hilfskraft verursacht, so gehen die Einsatzkosten zulasten des Arbeitgebers (Art. 55 OR).
 
-<sup>5</sup> Ist die Störerin oder der Störer unbekannt oder zahlungsunfähig, konnte der Ursprung nicht präzise einer Gemeinde zugeordnet werden und können sich die Gemeinden nicht einigen, so erlässt die RIMU eine Verfügung, in der die Kosten angemessen unter den betroffenen Gemeinden aufgeteilt werden.
+<sup>5</sup> …
 
 #### Art. 45
 
-**Einsatzkosten – bei Einsätzen auf Strassen und ohne Umweltverschmutzung**
-
-<sup>1</sup> Die Rechnungen der StP, die vorgängig von den StP kontrollierten Rechnungen der Ortsfeuerwehren, die auf Anordnung eines StP eingesetzt wurden, die Rechnungen der Dienststellen sowie die allenfalls von Dritten ausgestellten Rechnungen werden übermittelt an:
-
-- a) die KGV bei einem Einsatz auf einer Nationalstrasse;
-- b) das TBA bei einem Einsatz auf einer Kantonsstrasse;
-- c) die Gemeinde bei einem Einsatz auf einer Gemeindestrasse.
-
-<sup>2</sup> Erfolgt der Einsatz auf Strassen unterschiedlicher Kategorien, so stellt die für die höchstklassierte Strasse zuständige Instanz die administrative Begleitung sicher.
-
-<sup>3</sup> Die Instanz nach Absatz 1 kontrolliert die Rechnungen und begleicht sie in Form eines Kostenvorschusses. Sie erlässt eine Verfügung, in der die Kosten zulasten der Störerin oder des Störers festgelegt werden. Sind mehrere Störerinnen oder Störer beteiligt, so regelt sie die Aufteilung der Kosten unter ihnen.
+**…**
 
 #### Art. 46
 
-**Aufwendungen des StP**
+**Aufwendungen der Feuerwehr für Umweltschutz und Ölwehr**
 
-<sup>1</sup> Die Kosten der StP werden nach Abzug des Beitrags der KGV in der Höhe von 50 % je hälftig zwischen Kanton und Gemeinden aufgeteilt, wobei der Brandversicherungswert der Gebäude auf dem Gebiet der einzelnen Gemeinde als Grundlage für die durch das AfU festgelegte Verteilung auf die Gemeinden dient. Die Finanzverwaltung ist mit dem Einziehen der Kostenanteile der Gemeinden beauftragt.
+<sup>1</sup> Die Aufwendungen der Feuerwehr für Umweltschutz und Ölwehr werden nach Abzug des Restbetrags der Bundesbeiträge, welche die KGV für den Nationalstrassenfonds erhält, vom Staat übernommen. Diese Kosten umfassen:
 
-<sup>2</sup> Die StP stellen die voraussehbaren Ausgaben für Ausbildung, Ausrüstung und Betrieb auf und legen sie der KGV und dem AfU zur Genehmigung vor. Das AfU stellt die voraussehbaren Ausgaben in seinem Voranschlag ein.
+- a) den Unterhalt der Fahrzeuge und Geräte;
+- b) die Ausbildungskosten;
+- c) den Kauf und die Erneuerung von Material und Ausrüstung;
+- d) die Haftpflicht- und Kaskoversicherungen für die Fahrzeuge.
 
-<sup>3</sup> Die Unterhalts- und Betriebskosten der StP im Zusammenhang mit diesem Reglement betreffen einzig die Bekämpfung von Verschmutzungen durch Kohlenwasserstoffverbindungen und andere chemische Stoffe. Diese Kosten umfassen:
+<sup>2</sup> Die Kosten für die Anschaffung von Fahrzeugen und Geräten werden nach Abzug des Beitrags der KGV in der Höhe von 50 % vom Staat übernommen.
 
-- a) die Ausbildungskosten einschliesslich der Besoldung des nichtständigen Personals, das die Fahrzeuge in Ausbildungs- und Übungskursen bedient;
-- b) den Kauf und die Erneuerung von Material und Ausrüstung;
-- c) den Unterhalt der Fahrzeuge und die laufenden Reparaturen;
-- d) die Lagerung von Material und Ausrüstung;
-- e) die Haftpflicht- und Kaskoversicherungen für die Fahrzeuge.
+<sup>3</sup> …
 
-<sup>4</sup> Die StP übermitteln die Vierteljahresabrechnungen der KGV; diese prüft die Abrechnungen und leitet sie an das AfU weiter. Das AfU stellt deren Begleichung sicher und beantragt die Subventionen.
+<sup>4</sup> …
 
 ### 2.7 Abflussmengen und Wasserentnahmen
 
@@ -776,23 +747,15 @@ beschliesst:
 
 <sup>1</sup> Wird ein Wasserbauprojekt nach der Ausarbeitung des Vorprojekts unterbrochen, so werden die Kosten je zur Hälfte auf den Staat und die betroffenen Gemeinden verteilt.
 
-### 4.3 Bauwerke für die konzessionierte Schifffahrt
+### 4.3
 
 #### Art. 66
 
-**Kosten**
-
-<sup>1</sup> Stellt ein Hafen oder ein Anlegeplatz für weitere Gemeinden oder Dritte einen besonderen Vorteil dar, so wird deren finanzielle Beteiligung aufgrund der Höhe der entstehenden Vorteile berechnet.
-
-<sup>2</sup> Entsprechend der Entfernung vom Bauwerk werden vier Einflussperimeter festgelegt: bis 1 km, bis 2 km, bis 3 km und bis 4 km. Die finanzielle Beteiligung einer Gemeinde wird aufgrund des Verhältnisses zwischen ihrer Fläche innerhalb der Einflussperimeter und der Gesamtfläche der Perimeter festgelegt.
-
-<sup>3</sup> Vereinbarungen über eine andere Kostenaufteilung bleiben vorbehalten.
+**…**
 
 #### Art. 67
 
-**Subventionen**
-
-<sup>1</sup> Der Beitragssatz für den Bau, den Wiederaufbau und die Sanierung von Bauwerken für die konzessionierte Schifffahrt beträgt 30 %.
+**…**
 
 ## 5 Zugang zu Daten
 

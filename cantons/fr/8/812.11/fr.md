@@ -4,13 +4,13 @@ number: "812.11"
 title: Règlement sur les eaux
 short: RCEaux
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-01
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2022-12-20
 adopted: 2011-06-21
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7401/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7703/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Eaux – R
 
 (RCEaux)
 
-du 21.06.2011 (version entrée en vigueur le 01.02.2022)
+du 21.06.2011 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -440,103 +440,74 @@ Arrête:
 
 **Annonce**
 
-<sup>1</sup> Quiconque est témoin d'une pollution ou d'un accident mettant en cause la protection des eaux informe le centre d'engagement et d'alarmes de la police cantonale (ci-après: CEA).
+<sup>1</sup> Quiconque est témoin d'une pollution ou d'un accident mettant en cause la protection des eaux ou de l'environnement informe le centre d'engagement et d'alarmes de la police cantonale (ci-après: CEA).
 
 <sup>2</sup> Tout service d'intervention alerté directement par un informateur ou une informatrice avertit immédiatement le CEA.
 
 #### Art. 38
 
-**Modalités d'intervention – Centres de renfort**
-
-<sup>1</sup> Les centres de renfort (ci-après: CR) de Fribourg, Bulle et Morat sont compétents pour intervenir en cas de pollution ou d'accident impliquant des substances chimiques (CR chimiques).
-
-<sup>2</sup> Les CR de Fribourg, Düdingen, Bulle, Morat, Romont, Estavayer-le-Lac et Châtel-Saint-Denis sont compétents pour intervenir en cas de pollution ou d'accident impliquant des hydrocarbures ou d'autres substances polluantes (CR hydrocarbures).
-
-<sup>3</sup> Le CR de Fribourg dispose d'un groupe de mesures. Celui-ci a pour mission de qualifier et quantifier des échantillons en cas de pollution ou d'accident impliquant des substances chimiques.
+**…**
 
 #### Art. 39
 
-**Modalités d'intervention – Commandement**
-
-<sup>1</sup> Le commandant du CR ou l'officier désigné par lui dirige les interventions, décide des moyens à mettre en œuvre et ordonne les mesures nécessaires. Il peut demander le concours d'autres instances par l'intermédiaire du CEA.
+**…**
 
 #### Art. 40
 
-**Modalités d'intervention – Equipement et instruction**
-
-<sup>1</sup> Les CR sont dotés par l'Etat et les communes du matériel et des engins nécessaires à l'accomplissement des tâches fixées dans le présent règlement.
-
-<sup>2</sup> Les CR établissent une planification de l'équipement et de l'instruction. Ils la soumettent pour accord à l'Etablissement cantonal d'assurance des bâtiments (ci-après: ECAB) et au SEn.
-
-<sup>3</sup> L'ECAB supervise l'instruction et l'intervention des CR. Il peut établir des directives et s'assure de l'état de préparation des CR.
+**…**
 
 #### Art. 41
 
-**Modalités d'intervention – Corps des sapeurs-pompiers local**
-
-<sup>1</sup> Le corps des sapeurs-pompiers local n'intervient que sur ordre du CR compétent et exécute les tâches qui lui sont confiées par celui-ci.
+**…**
 
 #### Art. 42
 
 **Service d'assistance en cas de pollution**
 
-<sup>1</sup> Un service d'assistance en cas de pollution (ci-après: SAPo) est mis sur pied au sein du SEn.
+<sup>1</sup> Un service d'assistance en cas de pollution (ci-après: SAPo) est mis sur pied au sein du SEn, lequel peut en déléguer la mission à un tiers.
 
 <sup>2</sup> Il est chargé de porter assistance en cas de pollution et de conseiller sur les mesures de lutte contre la pollution et les mesures immédiates d'élimination des déchets.
 
-<sup>3</sup> Pour les cas de pollution des eaux où il n'y a pas intervention d'un CR ou d'un corps de sapeurs-pompiers local, le SAPo et le Service des forêts et de la nature définissent les mesures nécessaires.
+<sup>3</sup> …
 
 #### Art. 43
 
-**Pollution sur les routes nationales**
-
-<sup>1</sup> Les cas de pollution par hydrocarbures sur les routes nationales sont régis par l'arrêté concernant la lutte contre le feu et la pollution par hydrocarbures sur les routes nationales.
+**…**
 
 #### Art. 44
 
-**Frais d'intervention – en cas de pollution environnementale**
+**Frais d'intervention**
 
-<sup>1</sup> Les factures des CR, celles des sapeurs-pompiers locaux intervenus sur ordre d'un CR et préalablement contrôlées par celui-ci, celles des services et celles d'éventuels tiers sont transmises au SEn. Celui-ci procède à leur contrôle et à leur règlement à titre d'avance de frais.
+<sup>1</sup> Les factures d'éventuels tiers mandatés par le SEn lui sont transmises. Il procède à leur règlement à titre d'avance de frais.
 
 <sup>2</sup> Le SEn rend une décision fixant les frais à la charge du perturbateur ou de la perturbatrice. Il fixe la répartition des frais en cas de pluralité de perturbateurs ou de perturbatrices. Il procède au recouvrement des frais.
 
 <sup>3</sup> Le risque de pollution ayant nécessité une intervention est assimilé à un cas de pollution.
 
-<sup>4</sup> Les frais d'intervention sont à la charge de l'employeur lorsque l'atteinte est le fait d'un de ses travailleurs ou d'une de ses travailleuses ou autres auxiliaires dans l'accomplissement du travail (art. 55 CO).
+<sup>4</sup> Ces frais d'intervention sont à la charge de l'employeur lorsque l'atteinte est le fait d'un de ses travailleurs ou d'une de ses travailleuses ou autres auxiliaires dans l'accomplissement du travail (art. 55 CO).
 
-<sup>5</sup> Lorsque le perturbateur ou la perturbatrice est inconnu-e ou insolvable et que l'origine de la pollution ne peut être attribuée précisément à une commune, la DIME rend une décision fixant une répartition équitable de la part communale entre les communes concernées si celles-ci n'ont pas trouvé une entente.
+<sup>5</sup> …
 
 #### Art. 45
 
-**Frais d'intervention – sur les routes et sans pollution environnementale**
-
-<sup>1</sup> Les factures des CR, celles des sapeurs-pompiers locaux intervenus sur ordre d'un CR et préalablement contrôlées par celui-ci, celles des services et celles d'éventuels tiers sont transmises:
-
-- a) à l'ECAB, pour les interventions sur une route nationale;
-- b) au SPC, pour les interventions sur une route cantonale;
-- c) à la commune, pour les interventions sur une route communale.
-
-<sup>2</sup> Si l'intervention concerne plusieurs routes de diverses catégories, c'est l'instance responsable de la catégorie supérieure qui assure le suivi administratif.
-
-<sup>3</sup> L'organe responsable selon l'alinéa 1 procède au contrôle des factures et les règle à titre d'avance de frais. Il rend une décision fixant les frais à la charge du perturbateur ou de la perturbatrice, le cas échéant leur répartition en cas de pluralité de perturbateurs ou perturbatrices.
+**…**
 
 #### Art. 46
 
-**Frais des CR**
+**Frais des sapeurs-pompiers liés à la lutte contre la pollution et les hydrocarbures**
 
-<sup>1</sup> Les frais des CR sont répartis à parts égales entre l'Etat et les communes, déduction faite d'une subvention de l'ECAB de 50 % des frais. La part de chaque commune est fixée par le SEn sur la base de la valeur d'assurance-incendie des bâtiments situés sur son territoire. L'Administration des finances est chargée du recouvrement des participations communales.
+<sup>1</sup> Les frais des sapeurs-pompiers liés à la lutte contre la pollution et les hydrocarbures sont assumés par l'Etat, déduction faite du solde de la part perçue par l'ECAB pour le fonds des routes nationales. Ils comprennent:
 
-<sup>2</sup> Les dépenses prévisibles d'instruction, d'équipement et d'exploitation sont proposées par les CR et approuvées par l'ECAB et le SEn. Ce dernier les intègre dans son budget.
+- a) l'entretien des véhicules et des engins;
+- b) les frais de formation;
+- c) l'achat et le renouvellement du matériel et des équipements;
+- d) les assurances en responsabilité civile et casco des véhicules.
 
-<sup>3</sup> Les frais d'entretien et d'exploitation des CR en relation avec le présent règlement ne concernent que la lutte contre les hydrocarbures et les substances chimiques. Ils comprennent:
+<sup>2</sup> Les frais d'acquisition des véhicules et engins sont assumés par l'Etat, déduction faite d'une subvention de l'ECAB de 50 % des frais.
 
-- a) les frais d'instruction, y compris la solde du personnel non permanent desservant les véhicules lors des cours d'instruction ou lors d'exercices;
-- b) l'achat et le renouvellement du matériel et des équipements;
-- c) l'entretien des véhicules et les réparations;
-- d) l'entreposage du matériel et des équipements;
-- e) les assurances en responsabilité civile et casco des véhicules.
+<sup>3</sup> …
 
-<sup>4</sup> Les CR font parvenir le décompte trimestriel de leurs frais à l'ECAB qui le contrôle et le transmet au SEn. Celui-ci en assure le règlement et requiert les subventions.
+<sup>4</sup> …
 
 ### 2.7 Débits et prélèvements
 
@@ -776,23 +747,15 @@ Arrête:
 
 <sup>1</sup> Dans le cas où un projet d'aménagement de cours d'eau est interrompu après l'établissement de l'avant-projet, les frais sont pris en charge à parts égales entre l'Etat et les communes concernées.
 
-### 4.3 Ouvrages pour la navigation concessionnée
+### 4.3
 
 #### Art. 66
 
-**Coût**
-
-<sup>1</sup> Lorsqu'un port ou débarcadère représente un avantage particulier pour d'autres communes ou des tiers, leur participation financière est calculée selon leur degré d'intérêt.
-
-<sup>2</sup> Quatre périmètres d'influence sont définis à partir de l'ouvrage selon l'éloignement: distance inférieure à 1 km, à 2 km, à 3 km et à 4 km. La participation financière de chaque commune est déterminée selon le rapport entre la surface de son territoire comprise dans les périmètres d'influence et la surface totale de ces périmètres.
-
-<sup>3</sup> Est réservée toute convention fixant une autre répartition des frais.
+**…**
 
 #### Art. 67
 
-**Subvention**
-
-<sup>1</sup> En cas de construction, de reconstruction et de réfection d'ouvrage pour la navigation concessionnée, le taux de la subvention est de 30 %.
+**…**
 
 ## 5 Accès aux données
 
