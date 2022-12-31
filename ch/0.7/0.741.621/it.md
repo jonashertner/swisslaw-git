@@ -4,16 +4,16 @@ title: Accordo del 30 settembre 1957 relativo al trasporto internazionale su str
 short: ADR
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249"
 language: it
-version: 2022-07-22
+version: 2023-01-01
 adopted: 1957-09-30
 in_force: 1972-07-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20220722/it/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20220722-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20220722/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1972-1073_1085_1249-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/1073_1085_1249/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Accordo relativo al trasporto internazionale su strada delle merci pericolose****
+# Accordo relativo al trasporto internazionale su strada delle merci pericolose
 
 Traduzione[^t-1]
 
@@ -21,7 +21,7 @@ Traduzione[^t-1]
 
 Conchiuso a Ginevra, il 30 settembre 1957 Approvato dall’Assemblea federale il 4 dicembre 1969[^t-2] Istrumento di ratificazione depositato il 20 giugno 1972 Entrata in vigore per la Svizzera il 20 luglio 1972 Allegati A e B emendati il 29 gennaio 1968, 26 ottobre 1970 e 30 dicembre 1971
 
-(Stato 22 luglio 2022)
+(Stato 1° gennaio 2023)
 
 [^t-1]: [RU 1972 1249](https://fedlex.data.admin.ch/eli/oc/1972/1073_1085_1249); [FF 1969 II 1](https://fedlex.data.admin.ch/eli/fga/1969/2_1_1_1)
 [^t-2]: <sup>1</sup> Correzione del 23 feb. 2022 (RU **2022** 127). RU **1972** 1245
@@ -191,11 +191,11 @@ Al momento di firmare l’Accordo europeo relativo al trasporto internazionale s
 
 (Seguono le firme)
 
-Allegati A e B*[^t-3]*
+Allegati A e B[^t-3]
 
-[^t-3]: Gli all. A e B non son pubblicati nella RU (RU **1972** 1258 1556, [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339), [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843)[1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395), [1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441), [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494), [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625), [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486), [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191), [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422), [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115), [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102)[4363](https://fedlex.data.admin.ch/eli/oc/2002/712), [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800), [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16), [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716), [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485), [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803), [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794), [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636), [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617)e [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785)). Il testo può essere ordinato presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni federali, 3003 Berna.
+[^t-3]: Il contenuto degli all. A e B non è pubblicato nella RU e nella RS soltanto mediante rimando (RU **1972** 1258 1556, [1973 1339](https://fedlex.data.admin.ch/eli/oc/1973/1339_1339_1339), [1974 843](https://fedlex.data.admin.ch/eli/oc/1974/843_843_843)[1395](https://fedlex.data.admin.ch/eli/oc/1974/1395_1395_1395), [1975 1607](https://fedlex.data.admin.ch/eli/oc/1975/1609_1607_1607), [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610), [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222), [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300), [1983 441](https://fedlex.data.admin.ch/eli/oc/1983/441_441_441), [1985 494](https://fedlex.data.admin.ch/eli/oc/1985/494_494_494), [1987 1625](https://fedlex.data.admin.ch/eli/oc/1987/1625_1625_1625), [1989 2486](https://fedlex.data.admin.ch/eli/oc/1989/2486_2486_2486), [1993 191](https://fedlex.data.admin.ch/eli/oc/1993/191_191_191), [1994 2856](https://fedlex.data.admin.ch/eli/oc/1994/2856_2856_2856), [1997 422](https://fedlex.data.admin.ch/eli/oc/1997/422_422_422), [1999 751](https://fedlex.data.admin.ch/eli/oc/1999/115), [2002 455](https://fedlex.data.admin.ch/eli/oc/2002/102)[4363](https://fedlex.data.admin.ch/eli/oc/2002/712), [2004 5201](https://fedlex.data.admin.ch/eli/oc/2004/800), [2007 69](https://fedlex.data.admin.ch/eli/oc/2007/16), [2008 5123](https://fedlex.data.admin.ch/eli/oc/2008/716), [2011 3553](https://fedlex.data.admin.ch/eli/oc/2011/485), [2012 6657](https://fedlex.data.admin.ch/eli/oc/2012/803), [2014 4707](https://fedlex.data.admin.ch/eli/oc/2014/794), [2016 3805](https://fedlex.data.admin.ch/eli/oc/2016/636), [2018 3893](https://fedlex.data.admin.ch/eli/oc/2018/617); [2020 4473](https://fedlex.data.admin.ch/eli/oc/2020/785); [2022 869](https://fedlex.data.admin.ch/eli/oc/2022/869)). Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/869](https://fedlex.data.admin.ch/eli/oc/2022/869) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Campo d’applicazione il 22 luglio 2022**[^t-4]**
+Campo d’applicazione il 22 luglio 2022[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -252,8 +252,7 @@ Campo d’applicazione il 22 luglio 2022**[^t-4]**
 <tr><td>Ucraina</td><td>1° maggio</td><td>2000 A</td><td>1° giugno</td><td>2000</td></tr>
 <tr><td>Ungheria\*</td><td>19 luglio</td><td>1979 A</td><td>19 agosto</td><td>1979</td></tr>
 <tr><td>Uzbekistan</td><td>24 gennaio</td><td>2020 A</td><td>24 febbraio</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-4]: RU **1975** 1627; [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365); [2022 429](https://fedlex.data.admin.ch/eli/oc/2022/429). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: RU **1975** 1627; [1978 1610](https://fedlex.data.admin.ch/eli/oc/1978/1610_1610_1610); [1980 222](https://fedlex.data.admin.ch/eli/oc/1980/222_222_222); [1982 300](https://fedlex.data.admin.ch/eli/oc/1982/300_300_300); [1987 1144](https://fedlex.data.admin.ch/eli/oc/1987/1144_1144_1144); [2005 1237](https://fedlex.data.admin.ch/eli/oc/2005/181); [2008 4939](https://fedlex.data.admin.ch/eli/oc/2008/692); [2012 4571](https://fedlex.data.admin.ch/eli/oc/2012/550); [2019 2003](https://fedlex.data.admin.ch/eli/oc/2019/365); [2022 429](https://fedlex.data.admin.ch/eli/oc/2022/429). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
