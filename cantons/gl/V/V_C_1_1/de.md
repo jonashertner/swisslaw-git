@@ -4,13 +4,13 @@ number: V C/1/1
 title: Gesetz über den Brandschutz und die Feuerwehr
 short: Brandschutzgesetz
 language: de
-version: 2014-09-01
-valid_until: 2022-12-31
-version_adopted: 2014-05-04
+version: 2023-01-01
+valid_until: 2023-11-30
+version_adopted: 2021-09-05
 adopted: 1995-05-07
 in_force: 1996-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1654/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2357/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1654/pdf_file"
 
 (Brandschutzgesetz)
 
-Vom 07.05.1995 (Stand 01.09.2014)
+Vom 07.05.1995 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 7. Mai 1995)
 
@@ -62,6 +62,12 @@ Vom 07.05.1995 (Stand 01.09.2014)
 **Zuständigkeit der Gemeinden**
 
 <sup>1</sup> Im Rahmen dieses Gesetzes obliegen den Gemeinden alle Massnahmen, die nicht vom Kanton wahrgenommen werden.
+
+#### Art. 6a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Glarnersach und die Gemeinden sind befugt, die zur Erfüllung ihrer Aufgaben geeigneten und erforderlichen Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten. Sie dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, an Dritte bekanntgeben, sofern dies zur Erfüllung ihrer Aufgaben erforderlich ist.
 
 #### Art. 7
 
