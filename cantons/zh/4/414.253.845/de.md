@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.845"
 title: Studienordnung für den Masterstudiengang Management and Law an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-12-01
 adopted: 2013-10-31
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_845-2013_10_31-2014_03_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_845-2013_10_31-2014_03_01-119.html"
 text: pdf
 ---
 
@@ -68,7 +68,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits[^2-2] werden während sechs J
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 - b. in Business Administration mit Studienrichtung Management and Law (mit Auflagen zur Nachqualifikation im rechtswissenschaftlichen Bereich),
 
@@ -164,23 +164,22 @@ Mit der Masterarbeit kann begonnen werden, wenn 50 ECTS-Credits[^12-3] erreicht 
 
 ### E. Studienabschluss und Masterdiplom
 
-#### § 15
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Management and Law» abgeschlossen.
+§ 15.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Management and Law» abgeschlossen.
 
-[^15-1]: Fassung gemäss B vom 23. August 2018 (OS 74, 38; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 520; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^hEStudienabschluss-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 38; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 
 #### § 16
 
 **Abschluss des Studiums**
 
-Der Mastertitel wird vergeben, wenn a.[^15-1] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^15-1] erreicht sind.
+Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^hEStudienabschluss-2] erreicht sind.
 
 **3**
 
-- 1\. 4. 20 - 108 § 17.[^16-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+- 1\. 1. 23 - 119 § 17.[^16-1] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
 
 **Abschlussnote**
 
@@ -203,13 +202,13 @@ Der Mastertitel wird vergeben, wenn a.[^15-1] alle erforderlichen Pflichtmodule 
 
 Der Anhang zur Studienordnung für den Masterstudiengang Management and Law an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
