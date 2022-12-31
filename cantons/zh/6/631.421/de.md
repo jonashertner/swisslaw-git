@@ -3,10 +3,11 @@ canton: ZH
 number: "631.421"
 title: Verordnung der Finanzdirektion über die Tarife für quellensteuerpflichtige Arbeitnehmerinnen und Arbeitnehmer
 language: de
-nachtrag: "111"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "120"
+valid_until: 2026-01-26
 adopted: 2020-09-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_421-2020_09_10-2021_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_421-2020_09_10-2021_01_01-120.html"
 text: pdf
 ---
 
@@ -53,7 +54,7 @@ verfügt:
 
 **1**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 23 - 120
 
 - j. Tarif P für Grenzgängerinnen und Grenzgänger nach dem DBA-D, welche die Voraussetzungen für eine Einstufung zum Tarif H erfüllen würden,
 
@@ -66,7 +67,7 @@ verfügt:
 <sup>4</sup> Erzielt eine quellensteuerpflichtige Person mehrere Einkommen aus unselbstständiger Erwerbstätigkeit, muss jede Schuldnerin und jeder Schuldner der steuerbaren Leistung den nach dem massgebenden Quellensteuertarif anwendbaren Steuersatz aufgrund des tatsächlichen Gesamteinkommens, des tatsächlichen Gesamtbeschäftigungsgrades oder unter Hochrechnung auf ein 100%-Pensum festlegen. Ist eine solche Hochrechnung nicht möglich, ist das satzbestimmende Einkommen durch Hinzurechnung des im Anhang dieser Verordnung publizierten Betrags zu ermitteln.
 
 [^1-1]: LS 631.1.
-[^1-2]: SR 0.672.913.62. 1. 1. 21 - 111 3
+[^1-2]: SR 0.672.913.62.
 
 #### § 2
 
@@ -98,11 +99,12 @@ Für kirchensteuerpflichtige Personen werden die Quellensteuertarife A, B, C und
 
 Die Quellensteuertarife A, B, C, G und H werden im Anhang dieser Verordnung durch Verweisung publiziert. Die in den Tarifen gemäss § 2 eingerechneten Pauschalen werden zusammen mit den Tarifen veröffentlicht.
 
-#### § 5
-
 **Spezialtarife a. Tarif G**
 
-Der Tarif G wird auf der Basis des Grundtarifs nach § 35 Abs. 1 StG berechnet. Er ist ein Pauschaltarif, bei dem pauschalisierte Abzüge in der Höhe von Fr. 3000 einberechnet werden, aber keine Kirchensteuern enthalten sind. Für die Staatssteuern wird der massgebende Steuerfuss und für die Gemeindesteuern das gewogene Mittel der Gemeindesteuerfüsse im Kanton eingerechnet.
+§ 5.[^4-1] Der Tarif G wird auf der Basis des Grundtarifs nach § 35 Abs. 1 StG[^4-2] berechnet. Er ist ein Pauschaltarif, bei dem pauschalisierte Abzüge in der Höhe von Fr. 6000 einberechnet werden, aber keine Kirchensteuern enthalten sind. Für die Staatssteuern wird der massgebende Steuerfuss und für die Gemeindesteuern das gewogene Mittel der Gemeindesteuerfüsse im Kanton eingerechnet.
+
+[^4-1]: Fassung gemäss Vfg. vom 14. Dezember 2022 (OS 78, 79; ABl 2023-01-27). In Kraft seit 1. Januar 2023. 1. 4. 23 - 120 3
+[^4-2]: LS 631.1.
 
 #### § 6
 
