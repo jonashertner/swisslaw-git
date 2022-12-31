@@ -4,7 +4,7 @@ number: "730.01.4"
 title: RÈGLEMENT du 24.08.2016 sur le certificat énergétique cantonal des bâtiments (R-CECB)
 short: R-CECB
 language: fr
-version: 2017-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01.4?id=3b3f1467-31d5-46e8-95bf-68372d321413"
 ---
 
@@ -40,7 +40,7 @@ arrête
 
 <sup>1</sup> L'établissement d'un CECB est obligatoire lors de la vente d'un bâtiment d'habitation.
 
-<sup>2</sup> Il est également obligatoire lors du remplacement d'une installation de chauffage par une nouvelle installation fonctionnant au gaz, au mazout ou au charbon pour les catégories d'ouvrages issues de la norme SIA 380/1, édition 2009, soit les bâtiments d'habitations individuelles et collectives, les bâtiments administratifs et les bâtiments scolaires.
+<sup>2</sup> Il est également obligatoire lors du remplacement d'une installation de chauffage par une nouvelle installation fonctionnant au gaz, au mazout ou au charbon pour les catégories d'ouvrages issues de la norme SIA 380/1, édition 2016, soit les bâtiments d'habitations individuelles et collectives, les bâtiments administratifs et les bâtiments scolaires.
 
 <sup>3</sup> L'établissement d'un CECB n'est lié à aucune obligation d'assainissement énergétique du bâtiment.
 
@@ -58,7 +58,7 @@ arrête
 
 **Définitions [^3-1]**
 
-<sup>1</sup> Les définitions formulées dans la norme SIA 380/1, édition 2009, font foi.
+<sup>1</sup> Les définitions formulées dans la norme SIA 380/1, édition 2016, font foi.
 
 <sup>2</sup> Sont en outre admises les définitions suivantes :
 
@@ -120,7 +120,7 @@ arrête
 
 <sup>1</sup> Par vente d'un bâtiment d'habitation, on entend le transfert entre vifs à titre onéreux d'un bâtiment d'habitation existant.
 
-<sup>2</sup> Par bâtiment d'habitation existant, on entend un bâtiment dont la surface de référence énergétique sert majoritairement à l'habitation et faisant partie de la catégorie des bâtiments d'habitations individuelles ou collectives au sens de la norme SIA 380/1, édition 2009.
+<sup>2</sup> Par bâtiment d'habitation existant, on entend un bâtiment dont la surface de référence énergétique sert majoritairement à l'habitation et faisant partie de la catégorie des bâtiments d'habitations individuelles ou collectives au sens de la norme SIA 380/1, édition 2016.
 
 <sup>3</sup> Sont exclus les donations, les donations mixtes, les cessions en lieu de partage, les ventes de bâtiments d'habitation non encore construits, les transferts de propriété par succession (dévolution d'hérédité, partage successoral, legs) ainsi que les transferts de propriété entre époux en rapport avec le régime matrimonial ou en cas de dédommagement de contributions extraordinaires d'un époux à l'entretien de la famille ou de prétentions découlant du droit du divorce.
 
