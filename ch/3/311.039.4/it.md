@@ -3,18 +3,18 @@ sr: "311.039.4"
 title: Ordinanza del 18 novembre 2015 sulle misure di prevenzione dei reati in materia di prostituzione
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/800"
 language: it
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/800/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2015-800-20160101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/800/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/800/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-800-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/800/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle misure di prevenzione dei reati in materia di prostituzione
 
-del 18 novembre 2015 (Stato 1° gennaio 2016)
+del 18 novembre 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -110,7 +110,11 @@ Non sono concessi aiuti finanziari a misure che:
 
 **Aliquota massima**
 
-Gli aiuti finanziari ammontano al massimo al 50 per cento dei costi computabili della relativa misura. Sono computabili i costi direttamente connessi alla preparazione, all’attuazione e alla valutazione della misura.
+<sup>1</sup> Gli aiuti finanziari ammontano al massimo al 50 per cento dei costi computabili della relativa misura. Sono computabili i costi direttamente connessi alla preparazione, all’attuazione e alla valutazione della misura.
+
+<sup>2</sup> Gli aiuti finanziari per il sostegno a misure ricorrenti ammontano al massimo al 25 per cento dei costi di tali misure.[^6-1]
+
+[^6-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 773](https://fedlex.data.admin.ch/eli/oc/2022/773)).
 
 #### Art. 7
 
@@ -160,7 +164,7 @@ La decisione formale o il contratto definiscono segnatamente:
 
 **Richieste**
 
-<sup>1</sup> Le richieste di aiuti finanziari devono essere presentate a fedpol entro il 31 luglio dell’anno precedente l’inizio del periodo per cui è pianificato l’aiuto finanziario.
+<sup>1</sup> Le richieste di aiuti finanziari per misure la cui realizzazione è prevista l’anno successivo devono essere presentate a fedpol entro il 31 luglio. Una richiesta di aiuti finanziari per un progetto i cui costi complessivi non superano i 10 000 franchi può essere presentata in qualsiasi momento.[^10-1]
 
 <sup>2</sup>
 
@@ -172,6 +176,8 @@ Le richieste devono permettere una valutazione completa dell’effetto preventiv
 - d. un preventivo dettagliato dei costi.
 
 <sup>3</sup> Fedpol stabilisce in una direttiva i dettagli della procedura di richiesta.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 773](https://fedlex.data.admin.ch/eli/oc/2022/773)).
 
 #### Art. 11
 

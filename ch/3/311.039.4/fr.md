@@ -3,18 +3,18 @@ sr: "311.039.4"
 title: Ordonnance du 18 novembre 2015 sur les mesures de prévention des infractions liées à la prostitution
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/800"
 language: fr
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/800/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-800-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/800/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/800/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-800-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/800/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les mesures de prévention des infractions liées à la prostitution
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2016)
+du 18 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -110,7 +110,11 @@ Aucune aide financière n’est octroyée pour les mesures qui:
 
 **Taux maximal**
 
-Les aides financières couvrent au maximum 50 % des coûts imputables de chaque mesure. Sont imputables les coûts directement liées à la préparation, à la réalisation et à l’évaluation de la mesure.
+<sup>1</sup> Les aides financières couvrent au maximum 50 % des coûts imputables de chaque mesure. Sont imputables les coûts directement liées à la préparation, à la réalisation et à l’évaluation de la mesure.
+
+<sup>2</sup> S’il s’agit d’un soutien à la réalisation de mesures récurrentes, la proportion des aides financières atteint au maximum 25 % des coûts de ces mesures.[^6-1]
+
+[^6-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 773](https://fedlex.data.admin.ch/eli/oc/2022/773)).
 
 #### Art. 7
 
@@ -160,7 +164,7 @@ La décision ou le contrat fixe notamment:
 
 **Demandes**
 
-<sup>1</sup> Les demandes d’aides financières sont déposées auprès de fedpol jusqu’au 31 juillet de l’année précédant la période où l’aide financière est planifiée.
+<sup>1</sup> Les demandes d’aides financières concernant des mesures planifiées pour l’année civile à venir doivent être déposées auprès de fedpol jusqu’au 31 juillet. Si le coût total d’un projet est inférieur à 10 000 francs, la demande peut être déposée à tout moment.[^10-1]
 
 <sup>2</sup>
 
@@ -172,6 +176,8 @@ Les demandes sont présentées de manière à permettre une évaluation détaill
 - d. un devis détaillé.
 
 <sup>3</sup> Fedpol règle dans une directive les modalités de la procédure de demande.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 773](https://fedlex.data.admin.ch/eli/oc/2022/773)).
 
 #### Art. 11
 
@@ -203,7 +209,7 @@ L’octroi d’aides financières peut être assorti de conditions et d’obliga
 
 Les bénéficiaires d’aides financières sont tenus de mentionner les aides financières octroyées par fedpol dans leur rapport annuel et dans les documents de projet destinés au grand public.
 
-## Section 5 Evaluation
+## Section 5 Évaluation
 
 #### Art. 15
 

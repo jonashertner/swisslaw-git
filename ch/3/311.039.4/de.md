@@ -3,18 +3,18 @@ sr: "311.039.4"
 title: Verordnung vom 18. November 2015 über Massnahmen zur Verhütung von Straftaten im Zusammenhang mit Prostitution
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/800"
 language: de
-version: 2016-01-01
+version: 2023-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/800/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-800-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/800/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/800/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-800-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/800/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen zur Verhütung von Straftaten im Zusammenhang mit Prostitution
 
-vom 18. November 2015 (Stand am 1. Januar 2016)
+vom 18. November 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -110,7 +110,11 @@ Es werden keine Massnahmen unterstützt, die:
 
 **Höchstansatz**
 
-Die Finanzhilfen betragen höchstens 50 Prozent der anrechenbaren Kosten der jeweiligen Massnahme. Anrechenbar sind jene Kosten, die unmittelbar mit der Vorbereitung, der Durchführung und der Evaluation der Massnahme zusammenhängen.
+<sup>1</sup> Die Finanzhilfen betragen höchstens 50 Prozent der anrechenbaren Kosten der jeweiligen Massnahme. Anrechenbar sind jene Kosten, die unmittelbar mit der Vorbereitung, der Durchführung und der Evaluation der Massnahme zusammenhängen.
+
+<sup>2</sup> Handelt es sich um eine Unterstützung von wiederkehrenden Massnahmen, so darf der Anteil der Finanzhilfe höchstens 25 Prozent der Kosten dieser wiederkehrenden Massnahmen betragen.[^6-1]
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 773](https://fedlex.data.admin.ch/eli/oc/2022/773)).
 
 #### Art. 7
 
@@ -160,7 +164,7 @@ In der Verfügung oder im Vertrag werden namentlich festgelegt:
 
 **Gesuche**
 
-<sup>1</sup> Gesuche um Finanzhilfe sind bei fedpol bis zum 31. Juli des Vorjahres vor dem Beginn des geplanten Unterstützungszeitraums einzureichen.
+<sup>1</sup> Gesuche um Finanzhilfe für Massnahmen, deren Durchführung im folgenden Kalenderjahr geplant ist, sind fedpol bis zum 31. Juli einzureichen. Betragen die Gesamtkosten für ein Projekt weniger als 10 000 Franken, so kann das Gesuch jederzeit eingereicht werden.[^10-1]
 
 <sup>2</sup>
 
@@ -172,6 +176,8 @@ Die Gesuche müssen eine umfassende Beurteilung der beabsichtigten Präventionsw
 - d. einen detaillierten Kostenvoranschlag.
 
 <sup>3</sup> Fedpol bestimmt die Einzelheiten des Gesuchsverfahrens in einer Richtlinie.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 773](https://fedlex.data.admin.ch/eli/oc/2022/773)).
 
 #### Art. 11
 
