@@ -1,51 +1,96 @@
 ---
 canton: FR
 number: "731.3.11"
-title: Übergangsreglement über die Brandbekämpfung und die Hilfeleistungen
-short: BBHÜR
+title: Reglement über die Brandbekämpfung und die Hilfeleistungen
+short: BBHR
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-21
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2022-07-04
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/731.3.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6871/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7688/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Übergangsreglement über die Brandbekämpfung und die Hilfeleistungen
+# Reglement über die Brandbekämpfung und die Hilfeleistungen
 
-Brandbekämpfung und Hilfeleistungen – ÜR
+Brandbekämpfung und Hilfeleistungen – R
 
-(BBHÜR)
+(BBHR)
 
-vom 21.06.2021 (Fassung in Kraft getreten am 01.07.2021)
+vom 04.07.2022 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 26. März 2021 über die Brandbekämpfung und die Hilfeleistungen (BBHG);
+gestützt auf das Gesetz vom 26. März 2021 über die Brandbekämpfung und die Hilfeleistungen (BBHG),
 
-auf Antrag der Sicherheits- und Justizdirektion,
+auf Antrag der Sicherheits-, Justiz- und Sportdirektion,
 
 beschliesst:
 
-## 1 Provisorische Kommission
+## 1 Behörden
+
+### 1.1 Kantonale Kommission für Brandbekämpfung und Hilfeleistungen
 
 #### Art. 1
 
-<sup>1</sup> Die provisorische kantonale Kommission für Brandbekämpfung und Hilfeleistungen (die provisorische BBHK) tagt so oft wie nötig. Sie tritt ausserdem zusammen, wenn ihre Präsidentin oder ihr Präsident sie einberuft oder wenn drei Mitglieder darum ersuchen.
+**Zusammensetzung**
 
-<sup>2</sup> Sie fällt ihre Entscheide in der Sitzung. In dringenden Fällen kann sie jedoch auf dem Zirkularweg entscheiden.
+<sup>1</sup> Der kantonalen Kommission für Brandbekämpfung und Hilfeleistungen (BBHK) gehören mindestens eine Vertreterin oder ein Vertreter des Freiburger Gemeindeverbands, mindestens eine Vertreterin oder ein Vertreter der Gemeindeverbände, eine Vertreterin oder ein Vertreter der Kantonalen Gebäudeversicherung (KGV) und die kantonale Feuerwehrinspektorin oder der kantonale Feuerwehrinspektor an.
 
-<sup>3</sup> Sie kann Fachpersonen beiziehen, die jedoch kein Stimmrecht haben.
+<sup>2</sup> Sie bestimmt eines ihrer Mitglieder als Vizepräsidentin oder Vizepräsidenten.
 
-<sup>4</sup> Im Übrigen organisiert sich die provisorische BBHK selbst.
-
-## 2 Allgemeine Organisation
+<sup>3</sup> Der Staatsrat kann auch Partnerinnen und Partner der Rettungskette zu Mitgliedern mit beratender Stimme ernennen.
 
 #### Art. 2
+
+**Organisation**
+
+<sup>1</sup> Die BBHK tagt so oft wie nötig, jedoch mindestens einmal im Jahr. Sie tritt ausserdem zusammen, wenn ihre Präsidentin oder ihr Präsident sie einberuft oder wenn drei Mitglieder darum ersuchen.
+
+<sup>2</sup> Sie kann Subkommissionen bilden.
+
+<sup>3</sup> Sie fällt ihre Entscheide in der Sitzung. In dringenden Fällen kann sie jedoch auf dem Zirkularweg entscheiden.
+
+<sup>4</sup> Sie kann Fachpersonen beiziehen, die jedoch kein Stimmrecht haben.
+
+<sup>5</sup> Im Übrigen organisiert sich die BBHK selbst.
+
+### 1.2 Kantonale Gebäudeversicherung
+
+#### Art. 3
+
+<sup>1</sup> Die KGV übt ihre Befugnisse wie folgt aus:
+
+- a) Sie erstellt Berichte und Analysen für die BBHK.
+- b) Sie informiert und berät die Gemeinden, die Gemeindeverbände und die Feuerwehr.
+- c) Sie nimmt die nötigen Inspektionen vor.
+- d) Sie übernimmt die Rolle der Ansprechpartnerin für die Partner der Rettungskette.
+
+<sup>2</sup> Die übrigen Kompetenzen der KGV, die in der Gesetzgebung über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden vorgesehen sind, bleiben vorbehalten.
+
+### 1.3 Gemeindeverbände
+
+#### Art. 4
+
+<sup>1</sup> Die Gemeindeverbände üben ihre Befugnisse wie folgt aus:
+
+- a) Sie ernennen mit vorgängiger Zustimmung der KGV die Kommandantin oder den Kommandanten des Bataillons sowie die Kommandantinnen und Kommandanten der Feuerwehrkompanien.
+- b) Sie ernennen die Offizierinnen und Offiziere und die Mitglieder des Bataillonsstabs.
+- c) Sie stellen das festangestellte Personal ein, das für den operativen und administrativen Betrieb benötigt wird.
+- d) Sie stellen Dritten die Einsätze in Rechnung und sorgen für die Bezahlung der Einsatzkosten.
+- e) Sie beschliessen auf Vorschlag des Bataillons die Zusammenlegung mehrerer Ausrückstandorte in einer Kompanie.
+- f) Sie reichen der BBHK ihren Voranschlag, ihre Rechnung und ihre Jahresberichte ein.
+
+<sup>2</sup> Sie können eine Konferenz der Gemeindeverbände bilden, um die Organisation ihrer Zusammenarbeit auf kantonaler Ebene zu regeln.
+
+## 2 Organisation der Brandbekämpfung und der Hilfeleistungen
+
+### 2.1 Allgemeine Bestimmungen
+
+#### Art. 5
 
 **Gefahren in der Zuständigkeit der Feuerwehr**
 
@@ -55,17 +100,17 @@ beschliesst:
 - b) Naturgefahren;
 - c) Einstürze;
 - d) Umwelteinwirkungen;
-- e) atomare, biologische und chemische Gefährdungen.
+- e) radioaktive, biologische und chemische Gefährdungen.
 
-#### Art. 3
+#### Art. 6
 
 **Risikoanalyse**
 
-<sup>1</sup> Die Risikoanalyse berücksichtigt gewichtete Kriterien in Zusammenhang mit der Bevölkerungs- und Beschäftigtendichte, besonderen Risiken und Naturgefahren.
+<sup>1</sup> Die Risikoanalyse berücksichtigt gewichtete Kriterien in Zusammenhang mit der Bevölkerungs- und Arbeitsplatzdichte, besonderen Risiken und Naturgefahren.
 
 <sup>2</sup> Sie wird für jeden Quadratkilometer des gesamten Kantonsgebiets vorgenommen.
 
-#### Art. 4
+#### Art. 7
 
 **Leistungsziele**
 
@@ -73,9 +118,9 @@ beschliesst:
 
 <sup>2</sup> Bei der Festlegung der Leistungsziele werden die entsprechenden Empfehlungen der Feuerwehr Koordination Schweiz berücksichtigt.
 
-<sup>3</sup> Die Leistungsziele dienen den Behörden als Indikatoren für die Effizienz des Dispositivs, stellen aber in keiner Weise Mindeststandards für die Sicherheit der Bürgerinnen und Bürger dar.
+<sup>3</sup> Die Leistungsziele dienen den Behörden als Indikatoren für die Effizienz des Dispositivs und stellen in keiner Weise Mindeststandards für die Sicherheit der Bürgerinnen und Bürger dar.
 
-#### Art. 5
+#### Art. 8
 
 **Risikodeckung – Im Allgemeinen**
 
@@ -83,25 +128,25 @@ beschliesst:
 
 <sup>2</sup> Zudem muss für die Deckung der grössten Risiken rasch ein zweiter Ausrückstandort eingesetzt werden können.
 
-<sup>3</sup> Die provisorische BBHK legt fest, ab welcher Risikostufe die Leistungsziele nicht mehr gelten.
+<sup>3</sup> Die BBHK legt fest, ab welcher Risikostufe die Leistungsziele nicht mehr gelten.
 
-#### Art. 6
+#### Art. 9
 
 **Risikodeckung – Ausrückstandorte**
 
-<sup>1</sup> Ein Ausrückstandort deckt die Risiken eines Perimeters, der insbesondere durch die Aufgaben und die entsprechenden Leistungsziele des Ausrückstandortes definiert wird.
+<sup>1</sup> Ein Ausrückstandort deckt die Risiken eines Perimeters, der insbesondere durch seine Aufgaben und die entsprechenden Leistungsziele definiert wird, ab.
 
-#### Art. 7
+#### Art. 10
 
 **Risikodeckung – Grenzgebiete**
 
-<sup>1</sup> Für die Grenzgebiete legt die provisorische BBHK mit Unterstützung der betroffenen Oberamtspersonen den Standort der Ausrückstandorte fest oder wählt und anerkennt die Feuerwehr-Dispositive anderer Kantone, die Einsätze zugunsten eines Teils des Freiburger Territoriums leisten. Gegebenenfalls genehmigt der Staatsrat nach Stellungnahme der Kantonalen Gebäudeversicherung (KGV) die dafür notwendigen interkantonalen Vereinbarungen gemäss der Spezialgesetzgebung.
+<sup>1</sup> Für die Grenzgebiete legt die BBHK mit Unterstützung der betroffenen Oberamtspersonen den Standort der Ausrückstandorte fest oder wählt und anerkennt die Feuerwehr-Dispositive anderer Kantone, die Einsätze zugunsten eines Teils des Freiburger Territoriums leisten. Gegebenenfalls genehmigt der Staatsrat nach Stellungnahme der KGV die dafür notwendigen interkantonalen Vereinbarungen gemäss der Spezialgesetzgebung.
 
 <sup>2</sup> Die Freiburger Ausrückstandorte können in Absprache mit den betroffenen Kantonen ebenfalls der Brandbekämpfung und der Hilfeleistung in den Grenzgebieten dienen.
 
-## 3 Politische und administrative Steuerung
+### 2.2 Politische und administrative Steuerung
 
-#### Art. 8
+#### Art. 11
 
 **Institutionelle Einteilung**
 
@@ -109,44 +154,44 @@ beschliesst:
 
 <sup>2</sup> Bevor die Oberamtmännerkonferenz die institutionelle Einteilung erstellt und beantragt, berücksichtigt sie die Meinung der Gemeinden.
 
-#### Art. 9
+#### Art. 12
 
 **Organisation der Gemeindeverbände**
 
-<sup>1</sup> Jede Gemeinde gehört zu einem oder mehreren Gemeindeverbänden; Absatz 2 bleibt vorbehalten. Bei Mehrfachzugehörigkeit muss die Kostenverteilung gerecht sein und die Zugehörigkeit zu mehreren Verbänden berücksichtigen.
+<sup>1</sup> Jede Gemeinde gehört einem oder mehreren Gemeindeverbänden an; Absatz 2 bleibt vorbehalten. Bei Mehrfachzugehörigkeit muss die Kostenverteilung gerecht sein und die doppelte Verbandszugehörigkeit berücksichtigen.
 
 <sup>2</sup> Die freiburgischen Grenzgemeinden dürfen ausserkantonalen Feuerwehrgruppierungen angehören; die vorgängige Genehmigung des Staatsrats und die Stellungnahme der KGV bleiben vorbehalten. Diese Gemeinden werden von der Pflicht der Mitgliedschaft in einem Freiburger Gemeindeverband befreit. Sie haben jedoch ihren Anteil an den zusammengelegten Einsatzkosten zu tragen, sofern keine anderslautenden Vereinbarungen bestehen.
 
 <sup>3</sup> Ausserkantonale Gemeinden können ebenfalls einem Freiburger Gemeindeverband beitreten. Sie übernehmen ihren Anteil an den zusammengelegten Einsatzkosten, sofern keine anderslautenden Vereinbarungen bestehen.
 
-## 4 Einsatzorganisation
+### 2.3 Einsatzorganisation
 
-#### Art. 10
+#### Art. 13
 
 **Kantonale Organisation der Feuerwehr**
 
 <sup>1</sup> Der Perimeter eines Gemeindeverbands besteht aus einem Bataillon.
 
-#### Art. 11
+#### Art. 14
 
 **Einsatzorganisation der Feuerwehr**
 
-<sup>1</sup> Je nach den Aufgaben und Beständen, die einem Ausrückstandort zugewiesen sind, kann die Kompanie, im Sinne von Artikel 26 Abs. 2 BBHG, Sektionen und Gruppen bilden, die für ihre Tätigkeit notwendig sind.
+<sup>1</sup> Entsprechend den Aufgaben und Beständen, die einem Ausrückstandort zugewiesen sind, kann die betreffende Kompanie Sektionen und Gruppen bilden, die für ihre Tätigkeit notwendig sind.
 
-#### Art. 12
+#### Art. 15
 
 **Kantonaler Feuerwehrstab**
 
-<sup>1</sup> Der kantonale Feuerwehrstab wird gemäss der Gesetzgebung über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden gebildet. Er übernimmt bei der Brandbekämpfung und den Hilfeleistungen folgende Aufgaben:
+<sup>1</sup> Der kantonale Feuerwehrstab, der mit dem Reglement über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden eingesetzt wurde, übernimmt bei der Brandbekämpfung und den Hilfeleistungen folgende Aufgaben:
 
-- a) Er sorgt entsprechend den hierfür geltenden Anforderungen für die Erstellung von Einsatzplänen und für die kantonale Koordination zur Verhinderung von Katastrophen und Grossereignissen.
+- a) Er sorgt entsprechend den hierfür geltenden Anforderungen für die Erstellung von kantonalen Einsatz- und Koordinationsplänen zur Verhinderung von Katastrophen und Grossereignissen.
 - b) Er hält sich für Einsätze bei Katastrophen und Grossereignissen bereit.
 - c) Er beschliesst und trifft bei Katastrophen und Grossereignissen alle nötigen Massnahmen.
 - d) Er führt die Entscheide des kantonalen Führungsorgans aus.
 
-<sup>2</sup> Seine übrigen Befugnisse werden in der Gesetzgebung über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden geregelt.
+<sup>2</sup> Seine übrigen Befugnisse werden im Reglement über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden geregelt.
 
-#### Art. 13
+#### Art. 16
 
 **Feuerwehrbataillone**
 
@@ -154,15 +199,15 @@ beschliesst:
 
 <sup>2</sup> Dem Stab eines Bataillons gehören an:
 
-- a) die Kommandantin oder der Kommandant des Bataillons;
+- a) die Bataillonskommandantin oder der Bataillonskommandant;
 - b) eine Stellvertreterin oder ein Stellvertreter;
 - c) die Kommandantinnen und Kommandanten der Kompanien;
 - d) die Verantwortlichen für Material und Ausbildung;
 - e) bei Bedarf die Verantwortlichen für Administration, Finanzen und andere spezifische Aufgaben.
 
-#### Art. 14
+#### Art. 17
 
-**Bataillonskommandant/in**
+**Bataillonskommandantin oder Bataillonskommandant**
 
 <sup>1</sup> Die Bataillonskommandantinnen und Bataillonskommandanten haben namentlich folgende Befugnisse:
 
@@ -171,9 +216,9 @@ beschliesst:
 
 <sup>2</sup> Ihre übrigen Befugnisse werden von der KGV näher bestimmt.
 
-<sup>3</sup> Die Bataillonskommandantinnen und ‑kommandanten werden bei der Ausübung ihrer Befugnisse von ihrem Stab unterstützt.
+<sup>3</sup> Die Kommandantinnen und Kommandanten werden bei der Ausübung ihrer Befugnisse von ihrem Stab unterstützt.
 
-#### Art. 15
+#### Art. 18
 
 **Feuerwehrkompanien**
 
@@ -181,7 +226,7 @@ beschliesst:
 
 <sup>2</sup> Die Kompanien werden von einer Kompaniekommandantin oder einem Kompaniekommandanten geführt.
 
-<sup>3</sup> Eine Kompanien besteht aus:
+<sup>3</sup> Eine Kompanie besteht aus:
 
 - a) einer Kompaniekommandantin oder einem Kompaniekommandanten;
 - b) einer Stellvertreterin oder einem Stellvertreter;
@@ -190,9 +235,9 @@ beschliesst:
 - e) Spezialistinnen und Spezialisten;
 - f) Feuerwehrleuten.
 
-#### Art. 16
+#### Art. 19
 
-**Kompaniekommandant/in**
+**Kompaniekommandantin oder Kompaniekommandant**
 
 <sup>1</sup> Die Kompaniekommandantinnen und Kompaniekommandanten haben namentlich folgende Befugnisse:
 
@@ -202,14 +247,96 @@ beschliesst:
 
 <sup>2</sup> Ihre übrigen Befugnisse werden von der KGV näher bestimmt.
 
-<sup>3</sup> Die Kompaniekommandantinnen und ‑kommandanten werden bei der Ausübung ihrer Befugnisse von ihren Kaderleuten unterstützt.
+<sup>3</sup> Die Kommandantinnen und Kommandanten werden bei der Ausübung ihrer Befugnisse von ihren Kaderleuten unterstützt.
 
-#### Art. 17
+#### Art. 20
 
 **Feuerwehrausrückstandorte**
 
 <sup>1</sup> Der Personalbestand eines Ausrückstandorts hängt von den ihm zugewiesenen Aufgaben ab.
 
-<sup>2</sup> Die provisorische BBHK legt die erforderlichen Bestände fest.
+<sup>2</sup> Die BBHK legt die erforderlichen Bestände fest.
 
-2021\_073
+#### Art. 21
+
+**Pflichten der Feuerwehrleute**
+
+<sup>1</sup> Die Feuerwehrleute haben namentlich folgende Pflichten:
+
+- a) Sie befolgen Befehle von höheren Hierarchiestufen.
+- b) Sie reagieren auf die einem Mobilisierungsbefehl gleichkommenden Alarme.
+- c) Sie unterlassen es, Angelegenheiten zu verbreiten, von denen sie in Ausübung ihrer Funktion Kenntnis erhalten und die ihrer Natur und den Umständen nach oder gemäss besonderen Vorschriften geheim zu halten sind.
+- d) Sie verhalten sich jederzeit angemessen und pflegen das positive Bild, das sie vermitteln.
+- e) Sie halten sich an die für ihre Tätigkeit geltenden Regeln und Richtlinien.
+
+<sup>2</sup> Die Gemeindeverbände können für die Feuerwehrleute ihres Perimeters weitere Pflichten vorsehen. Sie sind auch dafür zuständig, allfällige disziplinarische Massnahmen festzulegen, die gegen Feuerwehrleute verhängt werden.
+
+#### Art. 22
+
+**Feuerwehreinsätze**
+
+<sup>1</sup> Bei allen Ereignissen, die zu den Kernaufgaben oder den subsidiären Aufgaben der Feuerwehr gehören, leitet eine Einsatzleiterin oder ein Einsatzleiter der Feuerwehr deren Einsatz.
+
+<sup>2</sup> Bei Ereignissen, die zu den freiwilligen Aufgaben gehören, leitet eine Detachementsleiterin oder ein Detachementsleiter den Einsatz.
+
+#### Art. 23
+
+**Kompetenzen der Einsatzleiterinnen und Einsatzleiter der Feuerwehr**
+
+<sup>1</sup> Die Einsatzleiterinnen und Einsatzleiter haben namentlich folgende Befugnisse:
+
+- a) Sie leiten den Einsatz gemäss den hierfür geltenden Regeln.
+- b) Sie beschliessen Sofortmassnahmen, namentlich um die Sicherheit der im Einsatz stehenden Personen zu gewährleisten, und fordern wenn nötig die Unterstützung der Kantonspolizei an.
+- c) Sie schlagen der zuständigen Behörde die nötigen Massnahmen in deren Zuständigkeit vor, namentlich im Bereich der Baupolizei.
+- d) Sie arbeiten mit der kantonalen Pikettoffizierin oder dem kantonalen Pikettoffizier zusammen.
+- e) Sie wirken bei der Untersuchung von Schadenfällen mit.
+- f) Sie bestimmen das Ende eines Einsatzes.
+- g) Sie erstellen innert 48 Stunden nach dem Ende eines Einsatzes den Einsatzrapport.
+
+<sup>2</sup> Bei Schwierigkeiten oder komplexen Schadenfällen fordern sie die Unterstützung des kantonalen Feuerwehrstabs an, der die nötigen Schritte einleitet.
+
+<sup>3</sup> Bei einem Grossunfall befolgen sie die Anweisungen des kantonalen Feuerwehrstabs.
+
+#### Art. 24
+
+**Einteilung der Feuerwehrleute**
+
+<sup>1</sup> Die Einteilung und der Verbleib der Feuerwehrleute in ihrer Funktion hängen von einer ärztlichen Untersuchung sowie von einem oder mehreren Eignungstests ab.
+
+<sup>2</sup> Die KGV regelt die Einzelheiten.
+
+#### Art. 25
+
+**Spezialmassnahmen für Risikobetriebe**
+
+<sup>1</sup> Bei der Ermittlung der erforderlichen organisatorischen Massnahmen müssen sich die Betriebsleitungen nach den Normen der Vereinigung Kantonaler Feuerversicherungen (VKF) und den besonderen Bundesverordnungen, namentlich nach den Verordnungen über den Schutz vor Störfällen (StFV) sowie jenen zum Umweltschutz und zum Arbeitnehmerschutz richten.
+
+<sup>2</sup> Die KGV legt in ihrer Spezialgesetzgebung die Anforderungen und die organisatorischen Aspekte für Sicherheits- und Einsatzgruppen von Risikobetrieben, namentlich Betriebsfeuerwehren, fest.
+
+## 3 Finanzen
+
+#### Art. 26
+
+<sup>1</sup> Die KGV trägt die Kosten für den Unterhalt der Einsatzfahrzeuge und ‑geräte und für die Erneuerung des Einsatzmaterials, welche die Ausrückstandorte benötigen, namentlich mit der Zahlung von Pauschalen an die Gemeindeverbände.
+
+<sup>2</sup> Um die Zahlungen über mehrere Jahre verwalten zu können, richten die Gemeindeverbände für diese Kosten Spezialfonds ein.
+
+<sup>3</sup> Die KGV kann von den Pauschalen, die sie den Gemeindeverbänden zahlt, jene Kosten in Abzug bringen, die allenfalls für die Materialbeschaffung auf deren Rechnung anfallen, namentlich bei Sammelbestellungen.
+
+## 4 Alte Gemeindereglemente
+
+#### Art. 27
+
+<sup>1</sup> Die Gemeindereglemente über die Brandbekämpfung und die Hilfeleistungen, die vor Inkrafttreten des Gesetzes vom 26. März 2021 über die Brandbekämpfung und die Hilfeleistungen (BBHG) beschlossen wurden und nun gegenstandslos sind, gelten ab Inkrafttreten dieses Reglements von Amtes wegen als aufgehoben; sie werden aus den Sammlungen des Gemeinderechts entfernt.
+
+## 5 Übergangsrecht
+
+#### Art. 28
+
+<sup>1</sup> Wenn der Gemeindeverband, der gemäss BBHG für die Brandbekämpfung und die Hilfeleistungen zuständig ist, am 1. Januar 2023 nicht in Funktion treten kann, bezeichnet der Staatsrat auf Vorschlag der betroffenen Oberamtspersonen das Gemeinwesen (Gemeinde oder Gemeindeverband), das in der Zwischenzeit dessen Aufgaben übernimmt, insbesondere diejenigen nach den Artikeln 14 BBHG und 4 BBHR.
+
+<sup>2</sup> Die Kosten, welche die für diese Aufgaben bezeichnete Einheit übernimmt, einschliesslich der allfälligen Implementierungskosten, werden vom Gemeindeverband rückwirkend zurückerstattet, sobald dieser konstituiert ist.
+
+<sup>3</sup> Sobald der Gemeindeverband konstituiert ist, übernimmt er von Rechts wegen die Rechte und Pflichten, die bis dahin vom bezeichneten Gemeinwesen wahrgenommen wurden.
+
+2022\_088
