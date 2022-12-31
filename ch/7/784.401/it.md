@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sulla radiotelevisione (ORTV)
 short: ORTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/it"
 
 (ORTV)
 
-del 9 marzo 2007 (Stato 1° gennaio 2022)
+del 9 marzo 2007 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -753,7 +753,7 @@ L’UFCOM può:
 
 <sup>6</sup> L’UFCOM verifica le entrate lorde notificate e stabilisce l’importo della tassa mediante decisione formale. Esso può affidare la verifica a periti esterni.
 
-### Capitolo 2:**** Accordo sulle prestazioni relativo all’offerta della SSR destinata all’estero
+### Capitolo 2: Accordo sulle prestazioni relativo all’offerta della SSR destinata all’estero
 
 [^tit2-chap2-1]
 
@@ -775,7 +775,9 @@ L’accordo tra il Consiglio federale e la SSR sull’offerta editoriale destina
 
 <sup>1</sup> Una programmazione radiofonica complementare senza scopo di lucro deve differenziarsi a livello tematico, culturale e musicale dagli altri programmi radiofonici di emittenti concessionarie che sono captati nella zona di copertura interessata. Una simile programmazione deve in particolare tener conto delle minoranze linguistiche e culturali nella zona di copertura interessata.
 
-<sup>2</sup> In una simile programmazione radiofonica la diffusione della pubblicità non è ammessa, ad eccezione dell’autopromozione che serve prevalentemente a consolidare il legame con il pubblico, compresi i riferimenti a partenariati ai sensi dell’articolo 22 capoverso 6. La concessione può prevedere la diffusione di pubblicità per le emittenti che forniscono un contributo particolare alla formazione di operatori dei media in una zona di copertura con meno di 75 000 abitanti di almeno 15 anni d’età.
+<sup>2</sup> In una simile programmazione radiofonica la diffusione della pubblicità non è ammessa, ad eccezione dell’autopromozione che serve prevalentemente a consolidare il legame con il pubblico, compresi i riferimenti a partenariati ai sensi dell’articolo 22 capoverso 6.[^36-1]
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 #### Art. 37
 
@@ -898,7 +900,7 @@ Il concorso pubblico relativo a una concessione deve indicare perlomeno:
 
 [^44-1]: Nuovo testo giusta il n. I dell’O del 12 mar. 2010, in vigore dal 1° apr. 2010 ([RU 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
-### Capitolo 4:**** Accordi sulle prestazioni con agenzie di stampa d’importanza nazionale
+### Capitolo 4: Accordi sulle prestazioni con agenzie di stampa d’importanza nazionale
 
 [^tit2-chap4-1]
 
@@ -1135,7 +1137,7 @@ Il numero massimo di programmi che devono essere diffusi gratuitamente su linea 
 
 <sup>4</sup> Il fornitore di servizi di telecomunicazione non può utilizzare per altri scopi i dati ricevuti in relazione all’applicazione del capoverso 3 e in particolare non può trasmetterli ad altre unità aziendali, filiali, imprese partner o a terzi.
 
-## Titolo quarto:**** Canone radiotelevisivo
+## Titolo quarto: Canone radiotelevisivo
 
 [^tit4-1]
 
@@ -1684,7 +1686,7 @@ Per il resto si applicano le disposizioni dell’ordinanza generale dell’8 set
 
 ## Titolo ottavo: Disposizioni finali
 
-### Capitolo 1: Esecuzione e abrogazione del diritto previgente****
+### Capitolo 1: Esecuzione e abrogazione del diritto previgente
 
 [^tit8-chap1-1]
 
@@ -1717,7 +1719,7 @@ L’ordinanza del 6 ottobre 1997[^81-1] sulla radiotelevisione è abrogata.
 
 [^81-1]: [[RU 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302), [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258), [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)art. 20 [3482](https://fedlex.data.admin.ch/eli/oc/2002/516), [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172)[4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
-### Capitolo 2:**** Disposizioni transitorie relative alla modifica del 25 maggio 2016
+### Capitolo 2: Disposizioni transitorie relative alla modifica del 25 maggio 2016
 
 [^tit8-chap2-1]
 
@@ -1982,7 +1984,7 @@ Apparecchi atti alla ricezione di programmi radiofonici o televisivi sono:
 
 <sup>4</sup> L’organo di riscossione informa l’UFCOM delle nuove economie domestiche assoggettate al canone e dei relativi componenti.
 
-### Capitolo 2*a*:**** Disposizione transitoria relativa alla modifica del 25 ottobre 2017
+### Capitolo 2*a*: Disposizione transitoria relativa alla modifica del 25 ottobre 2017
 
 [^tit8-chap2a-1]
 
@@ -1996,6 +1998,18 @@ Apparecchi atti alla ricezione di programmi radiofonici o televisivi sono:
 
 <sup>2</sup> Alla data di scadenza della concessione, il DATEC può modificare le attuali concessioni o rifiutarne la proroga senza indennizzo, a condizione che ciò sia necessario a causa delle mutate condizioni di fatto o di diritto.
 
+### Capitolo 2*b*: Disposizione transitoria relativa alla modifica del 16 settembre 2022
+
+[^tit8-chap2b-1]
+
+[^tit8-chap2b-1]: Introdotto dal n. I dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+
+#### Art. 96b
+
+Alle concessioni di cui agli articoli 38 e 43 LRTV vigenti al momento dell’entrata in vigore della presente ordinanza si applicano le previgenti versioni degli allegati 1 e 2[^96b-1] sino al 31 dicembre 2024.
+
+[^96b-1]: [RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
+
 ### Capitolo 3: Entrata in vigore
 
 ### (art. 114 cpv. 2 LRTV)
@@ -2008,305 +2022,146 @@ La presente ordinanza entra in vigore il 1° aprile 2007.
 
 [^97-1]: Originario art. 83.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 38 lett. a)
 
-## Emittenti radiofoniche con mandato di prestazioni e diffusione nella banda OUC; principi generali di pianificazione e d’esercizio e zone di copertura
+## Modalità di diffusione e zone di copertura per la diffusione via etere di programmi radiofonici con mandato di prestazioni e partecipazione al canone
 
-[^t-1]: Introdotto dal n. II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Aggiornato dai n. II delle O del 5 nov. 2014 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)), del 25 mag. 2016 ([RU 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)) e del 25 ott. 2017, in vigore dal 1° dic. 2017 (RU 2017 5931).
+[^t-1]: Introdotto dal n. II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Nuovo testo giusta il n. II dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 ### 1 Definizioni
 
 Nel presente allegato, s’intende per:
 
-- a. OUC: onde ultra corte (banda II; 87.5 – 108.0 MHz);
-- a<sup>bis</sup>. DAB+: Digital Audio Broadcasting plus (standard radiofonico digitale con codifica audio migliorata);
-- b. nucleo: il nucleo con un potenziale significativo di ascoltatori in una zona di copertura locale o regionale;
-- c. agglomerati: zone correlate di più Comuni con un nucleo; definizione e portata sulla base del censimento 2000 dell’Ufficio federale di statistica;
-- d. ricezione stazionaria: captazione mediante un ricevitore domestico stazionario, collegato a antenna singola, a un’antenna collettiva o a una più vasta rete di diffusione via cavo;
-- e. ricezione portatile: captazione mediante un ricevitore portatile, all’interno o all’esterno di edifici;
-- f. ricezione mobile: captazione mediante un ricevitore montato su un veicolo in movimento provvisto di un’adeguata antenna esterna (a ca. 1,5 m dal suolo).
+- a. DAB+: Digital Audio Broadcasting plus (banda VHF III, canali 5–12, 174–230 MHz);
+- b. PI95: valore auspicato per la ricezione all’interno degli edifici (portable indoor) con una probabilità di ricezione del 95 per cento a domicilio per almeno il 98 per cento della popolazione;
+- c. MO99: valore auspicato per la ricezione con un terminale mobile all’esterno degli edifici (mobile outdoor) con una probabilità di ricezione del 99 per cento su almeno il 98 per cento della rete stradale nazionale e cantonale;
+- d. Agglomerato: definizione secondo l’Ufficio federale di statistica (UST), «Agglomérations 2012» (il testo è disponibile unicamente in tedesco e francese);
+- e. Nucleo principale d’agglomerato: raggruppamento dei Comuni-nucleo principali all’interno di uno spazio a carattere urbano secondo la pubblicazione dell’UST «Lo spazio a carattere urbano in Svizzera nel 2012».
 
-### 2 Principi per l’attribuzione delle frequenze OUC, l’esercizio degli impianti di trasmissione OUC e la misurazione della qualità della copertura
+### 2 Tecnologia di diffusione e responsabilità
 
-<sup>1</sup> L’Ufficio federale delle comunicazioni (UFCOM) attribuisce le frequenze OUC secondo il piano internazionale delle frequenze (Convenzione di Ginevra 84), le raccomandazioni determinanti dell’Unione internazionale delle telecomunicazioni (UIT) e le disposizioni svizzere. Nella coordinazione delle frequenze, per l’UFCOM sono determinanti gli articoli 4 e 5 della Convenzione di Ginevra 84.
+- 2\.1 La diffusione via etere dei programmi radiofonici avviene in standard DAB+ in base al Piano nazionale di attribuzione delle frequenze[^annex1-lvlu1-lvl2-1].
+- 2\.2 L’autorità concedente attribuisce le frequenze DAB+ in base all’articolo 22 capoverso 2 lettera a della legge del 30 aprile 1997[^annex1-lvlu1-lvl2-2] sulle telecomunicazioni.
+- 2\.3 L’autorità concedente stabilisce nella concessione di radiocomunicazione DAB+ i parametri tecnici e le capacità di trasmissione.
+- 2\.4 Il concessionario di radiocomunicazione è autorizzato a utilizzare lo spettro delle frequenze conformemente alle caratteristiche tecniche e d’esercizio stabilite nella descrizione tecnica della rete ai sensi dell’articolo 18 dell’ordinanza del 18 novembre 2020[^annex1-lvlu1-lvl2-3] sull’utilizzazione dello spettro delle radiofrequenze.
+- 2\.5 La descrizione tecnica della rete è rilasciata dall’autorità concedente. Se la Commissione federale delle comunicazioni è l’autorità concedente, può delegare questo compito all’UFCOM.
 
-<sup>2</sup> Per l’esercizio degli impianti di trasmissione OUC l’UFCOM tollera una deviazione di frequenza massima di +/–75 kHz con un tasso di deviazione massimo del 10 per cento nella gamma tra i +/–75 kHz e i +/–85 kHz e una potenza di modulazione (potenza del segnale multiplex) massima di +3 dBr. Per le misurazioni di questi parametri va applicata la raccomandazione UIT-R SM.1268-3[^annex1-lvlu1-lvl2-1] dell’Unione internazionale delle telecomunicazioni.
+[^annex1-lvlu1-lvl2-1]: Il Piano nazionale di attribuzione delle frequenze può essere consultato gratuitamente sul sito dell’Ufficio federale delle comunicazioni all’indirizzo seguente: www.bakom.admin.ch &gt; Frequenze e antenne &gt; Piano nazionale di attribuzione delle frequenze.
+[^annex1-lvlu1-lvl2-2]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^annex1-lvlu1-lvl2-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
-<sup>2bis</sup> La deviazione di frequenza va misurata per una durata di almeno 20 minuti e il valore di picco va determinato in un intervallo di tempo di al massimo 10 secondi. Per la distribuzione cumulativa occorre applicare il metodo di misurazione 1E-5.
+### 3 Obblighi di diffusione per i concessionari di radiocomunicazione
 
-<sup>2ter</sup> La potenza del segnale multiplex va misurata per una durata di almeno 20 minuti. La media del valore massimo viene determinata ogni secondo in un intervallo di tempo di 60 secondi. La misurazione avviene durante la diffusione di contenuti tipici di programma.
+### 3.1 Obblighi generali del concessionario di radiocomunicazione
 
-<sup>3</sup> La qualità della trasmissione è misurata con il sistema AO (registrazione automatica dell’analisi oggettiva). Le registrazioni AO sono effettuate per la ricezione mobile. Valgono anche per la ricezione stazionaria e quella portatile.
+- 3\.1.1 Il concessionario di radiocomunicazione è obbligato a garantire un diritto di accesso alle emittenti definite dall’autorità concedente secondo il numero 4.
+- 3\.1.2 Diffonde il segnale in base alla concessione e in qualità sufficiente.
 
-<sup>4</sup> L’UFCOM determina i parametri tecnici del sistema AO e la portata delle misurazioni. Suddivide la qualità di ricezione in cinque livelli: molto buona, buona, sufficiente, insufficiente, molto insufficiente.
+### 3.2 Obblighi della SSR
 
-[^annex1-lvlu1-lvl2-1]: Il testo di questa raccomandazione è disponibile in francese o inglese all’indirizzo www.itu.int.
+- 3\.2.1 La SSR diffonde in primo luogo programmi radiofonici propri in base alla concessione SSR[^annex1-lvlu1-lvl3-lvl32-1] nonché programmi di terzi con diritto di accesso secondo il numero 4. Può diffondere programmi di terzi senza diritto di accesso a patto che le esigenze relative ai programmi radiofonici propri e a quelli che beneficiano di diritti di accesso siano soddisfatte.
+- 3\.2.2 La SSR, d’intesa con le autorità competenti, mette a disposizione lo spettro delle frequenze anche per i servizi di dati non commerciali finalizzati a proteggere la popolazione, ad es. l’allarme diffuso dalle sirene. Tale utilizzo presuppone un’autorizzazione da parte dell’UFCOM e non deve pregiudicare la diffusione dei programmi radiofonici di cui al numero 3.2.1.
+- 3\.2.3 Per la diffusione dei programmi ai sensi della concessione SSR, la SSR deve garantire un obiettivo di ricezione PI95 per almeno il 99 per cento della popolazione a livello regionale, locale e di regione linguistica.
+- 3\.2.4 Per la diffusione dei programmi deve garantire un obiettivo di ricezione MO99 per almeno il 99 per cento della rete stradale nazionale e cantonale.
 
-### 3 Diffusione nella zona di copertura
+[^annex1-lvlu1-lvl3-lvl32-1]: Il testo della concessione SSR può essere consultato al seguente indirizzo: [www.bakom.admin.ch](http://www.bakom.admin.ch) &gt; Media elettronici &gt; Info sulle emittenti &gt; SRG SSR &gt; Rilascio della concessione.
 
-### 3.1 Stato tecnico di realizzazione delle reti della SSR nelle diverse regioni linguistiche
+### 3.3 Obblighi di diffusione per radio locali
 
-<sup>1</sup> La SSR garantisce la diffusione sulle sue prime reti linguistiche regionali e, in base alla disponibilità di frequenze, anche sulle sue seconde e terze reti linguistiche regionali in tutte le località con oltre 200 abitanti.
+- 3\.3.1 Le emittenti titolari di una concessione secondo il numero 4 devono incaricare un concessionario di radiocomunicazione di diffondere il proprio programma. Se la copertura di una zona comporta un onere eccessivo per il concessionario, l’autorità concedente può obbligare la SSR a garantire alle emittenti private di cui al numero 4 l’accesso alle sue reti.
+- 3\.3.2 L’autorità concedente rilascia le concessioni di radiocomunicazione in modo tale che ciascuna delle zone menzionate al numero 4 sia coperta da una zona di diffusione DAB+. L’estensione di tali zone di diffusione deve equivalere almeno ad una o più zone di copertura di cui al numero 4.
+- 3\.3.3 L’autorità concedente determina quali emittenti nella zona di diffusione in questione di cui al numero 4 ricevono un diritto di accesso. Sono ammessi accordi che prevedono una diffusione più ampia.
+- 3\.3.4 Per le zone di copertura di cui al numero 4 il concessionario di radiocomunicazione deve garantire al minimo un grado di copertura del 97 per cento della popolazione. Deve garantire la qualità di copertura PI95 per la copertura di tutte le località con oltre 200 abitanti. Lungo la rete stradale nazionale e cantonale deve garantire la qualità di copertura MO99.
+- 3\.3.5 Il concessionario di radiocomunicazione presenta alle autorità concedenti un regolamento che disciplina i diritti e gli obblighi in merito all’attribuzione degli spazi di programma e all’ordine di priorità delle emittenti aventi diritto di accesso. Le disposizioni sottostanno ad autorizzazione.
 
-<sup>2</sup> In base alla disponibilità di frequenze la SSR garantisce la diffusione sulla sua quarta rete nel Cantone dei Grigioni in retoromancio sino a copertura di tutte le località con oltre 200 abitanti.
+### 4 Zone di copertura per radio locali
 
-<sup>3</sup> Nelle sue regioni linguistiche la SSR garantisce la ricezione stazionaria, portatile e mobile di regola di qualità buona o sufficiente dei programmi destinati alle regioni linguistiche.
+### 4.1 Radio locali commerciali
 
-### 3.2 Copertura tecnica delle zone di copertura da parte delle emittenti locali o regionali
-
-Nel nucleo delle proprie zone di copertura locali o regionali, le emittenti ai sensi del numero 4 garantiscono la ricezione stazionaria, portatile e mobile di regola di qualità buona o sufficiente. Nell’intera zona di copertura locale o regionale è garantita possibilmente su tutto il territorio una sufficiente qualità di copertura e ricezione.
-
-### 3.3 Rinuncia alle frequenze OUC
-
-<sup>1</sup> Su domanda l’autorità competente può esonerare l’emittente dall’obbligo di servire la sua zona di copertura con frequenze OUC nella misura in cui essa copre la zona interessata via etere terrestre tramite DAB+.
-
-<sup>2</sup> Se un’emittente rinuncia all’utilizzazione di singole frequenze OUC, esse non verranno più attribuite per la diffusione di programmi radiofonici*.*
-
-### 4 Zone di copertura per la diffusione via etere
-
-Sono rilasciate concessioni per la diffusione via etere a emittenti radiofoniche con mandato di prestazioni e partecipazione al canone nelle seguenti zone di copertura:
+È rilasciata una concessione per la diffusione di un programma radiofonico commerciale locale con mandato di prestazioni, partecipazione al canone e diffusione via DAB+ per ciascuna delle zone di copertura seguenti:
 
 <table>
-<tr><td colspan="4">1. *Regione Ginevra*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 programma complementare senza scopo di lucro</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="8">agglomerato Ginevra</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Ginevra</td></tr>
-<tr><td colspan="4">2. *Regione Arco Lemanico*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittenti:</td><td colspan="8">4</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantone Ginevra e Vaud (senza distretti Pays-d’Enhaut e Aigle); distretto La Broye (FR); Comune Villeneuve (VD)</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Ginevra, Losanna e Yverdon-les-Bains; circondario Vevey; Comuni Payerne e Villeneuve; autostrada A1 Nyon – Yverdon-les-Bains, autostrada A9 Vevey – Vallorbe</td></tr>
-<tr><td>3. *Regione Chablais*</td><td colspan="8"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari Monthey, Aigle, Pays d’Enhaut e Vevey; autostrada A9 Ardon – Lausanne-Belmont</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Monthey-Aigle; Comune St-Maurice; autostrada A9 St-Maurice – Vevey</td></tr>
-<tr><td colspan="4">4. *Regione Basso Vallese*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Basso Vallese tra Sierre e St-Maurice; autostrada A9 Visp – Aigle</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Sion e Sierre; Comuni Martigny, Orsières e Verbier; autostrada A9 Sion – Evionnaz</td></tr>
-<tr><td colspan="4">5. *Regione Alto Vallese*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Alto Vallese fino a Sierre, autostrada A9 Salgesch – Sion</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">valle del Rodano da Fiesch a Salgesch; Comuni Stalden, Zermatt, Saas-Fee, Leukerbad</td></tr>
-<tr><td colspan="4">6. *Regione Arco giurassiano*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittenti:</td><td colspan="8">2</td></tr>
-<tr><td>[tab] Concessione 1:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone;</td></tr>
-<tr><td>[tab] Onere:</td><td colspan="8">la concessione obbliga l’emittente a fornire quotidiana-mente per i Cantoni Neuchâtel e Giura e per i circondari del Cantone di Berna prestazioni informative che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td>[tab] Concessione 2:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantoni Neuchâtel e Giura; circondari La Neuveville, Courtelary, Moutier e Bienne (BE); agglomerato Yverdon; Comuni in riva al lago di Neuchâtel, Comuni sulla riva sinistra del lago di Bienne tra Bienne e La Neuveville</td></tr>
-<tr><td>[tab] Nucleo 1:</td><td colspan="8">agglomerato Neuchâtel; Comuni Le Locle e La-Chaux-de-Fonds; Val-de-Travers e Val-de-Ruz, tratte La-Chaux-de-Fonds – St.Imier, La-Chaux-de-Fonds – Les Bois</td></tr>
-<tr><td>[tab] Nucleo 2:</td><td colspan="8">Comuni Porrentruy e Delémont, autostrada A16 nel Cantone del Giura, tratte Delémont – La-Chaux-de-Fonds, Delémont – Moutier</td></tr>
-<tr><td>[tab] Nucleo 3:</td><td colspan="8">Comuni St-Imier, Tramelan, Tavannes e Moutier; autostrada A16 Moutier – Péry-Reuchenette; tratte Sonceboz – La Chaux-de-Fonds, Moutier –Delémont</td></tr>
-<tr><td colspan="7">7. *Regione Friburgo (programma in lingua francese)*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (parte integrante di un programma bilingue)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari La Broye, La Sarine, La Glâne, La Veveyse, La Gruyère (FR), Payerne e Avenches (VD); agglomerato Friburgo; circondario See ad ovest della linea Muntelier – Barberêche</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Friburgo, autostrada A12 Düdingen – Châtel-St-Denis</td></tr>
-<tr><td colspan="8">8. *Regione Friburgo (programma in lingua tedesca)*</td><td></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (parte integrante di un programma bilingue)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari La Sarine, See e Sense; autostrada A 12 Thörishaus – Berna-Forsthaus, autostrada A1 Kerzers – Berna-Forsthaus</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Friburgo; Comuni Morat e Kerzers; autostrada A1 Morat – Berna-Brünnen, autostrada A12 Friburgo – Thörishaus</td></tr>
-<tr><td colspan="4">9. *Regione Biel/Bienne*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (due programmi paralleli in lingua tedesca e francese)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">agglomerati Bienne e Grenchen; circondari Nidau, Büren, Aarberg (senza il Comune di Meikirch), La Neuveville e Erlach; Comuni Kerzers e Fräschels</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Bienne; Comune Lyss; tratta Bienne – La Neuveville</td></tr>
-<tr><td colspan="4">10. *Regione Berna*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittenti:</td><td colspan="8">2</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari Berna, Fraubrunnen, Konolfingen, Seftigen, Schwarzenburg e Laupen; Comune Meikirch; autostrada A1 Berna – Koppigen, autostrada A6 Berna – Thun-Nord</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato di Berna</td></tr>
-<tr><td colspan="4">11. *Regione città di Berna*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (programma complementare senza scopo di lucro)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari Berna e Fraubrunnen; Comuni Meikirch, Frauenkappelen e Kehrsatz; autostrada A1 Berna – Koppigen, autostrada A6 Berna – Thun-Nord</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Berna a nord-ovest sino a Münchenbuchsee e Schönbühl, a sud sino a Köniz/Kehrsatz</td></tr>
-<tr><td colspan="4">12*. Regione Oberland bernese*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari Thun, Niedersimmental, Obersimmental, Saanen, Frutigen, Interlaken e Oberhasli; autostrada A6 Thun – Berna-Ostring, Gürbetal sino a Belp</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Thun e Interlaken, Comuni sulle rive dei laghi di Thun e di Brienz; Comuni di Saanen, Gstaad, Schönried, Zweisimmen, Lenk, Adelboden, Frutigen, Kandersteg, Lauterbrunnen, Wengen, Mürren, Grindelwald e Meiringen</td></tr>
-<tr><td colspan="4">13. *Regione Emmental*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari Fraubrunnen, Burgdorf, Trachselwald, Konolfingen, Signau e Entlebuch; circondari Wangen e Aarwangen a sud della strada cantonale Herzogenbuchsee – Langenthal; parte sud del circondario di Willisau, delimitato dalla strada cantonale Huttwil – Ettiswil; Comune di Wolhusen; autostrada A6/A1 Thun-Nord – Berna-Wankdorf – Schönbühl nonché i Comuni che si trovano a est nel circondario di Berna</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">circondari Entlebuch, Signau e Trachselwald; Comuni Rohrbach, Burgdorf e Oberburg; tratta Signau – Oberdiessbach</td></tr>
-<tr><td colspan="4">14. *Regione Soletta/Olten*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantone di Soletta senza i circondari Thierstein e Dorneck; circondari Wangen a. A. e Büren (senza Comuni a sud ovest di Büren a. A.); circondari Aarwangen e Fraubrunnen a nord della linea Langenthal – Fraubrunnen; Comuni Aarau, Aarburg, Rothrist, Oftringen e Zofingen; autostrada A1 Berna-Wankdorf – Suhr</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">zona pedemontana meridionale del Giura da Grenchen sino a Olten; Comuni Herzogenbuchsee, Langenthal, Aarburg, Rothrist, Oftringen e Zofingen; autostrada A1 Oftringen – Rüdtligen</td></tr>
-<tr><td colspan="4">15. *Regione Argovia*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantone Argovia; circondari Gösgen, Olten (SO) e Dietikon (ZH); zona Zurigo-Höngg/Altstetten; tratta Sursee – Zofingen</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Aarau, Lenzburg, Wohlen, Baden-Brugg e Olten-Zofingen (senza i Comuni a ovest della linea Trimbach – Rothrist); Comuni nella valle della Limmat da Neuenhof a Spreitenbach; autostrada A3 dalla biforcazione Birrfeld a Stein AG</td></tr>
-<tr><td colspan="4">16. *Regione Argovia centrale*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (programma complementare senza scopo di lucro)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">agglomerati Aarau, Lenzburg, Baden-Brugg e Olten-Zofingen (senza i Comuni a ovest della linea Trimbach – Rothrist); autostrada A1 Aarburg – Wettingen/Baden; tratta Lenzburg – Wohlen</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Aarau, Lenzburg, Baden-Brugg e Olten-Zofingen (senza i Comuni a ovest della linea Trimbach – Rothrist); autostrada A1 da Aarburg – Wettingen/Baden</td></tr>
-<tr><td colspan="4">17*. Regione Basilea*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittenti:</td><td colspan="8">2</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantoni Basilea-città, Basilea-campagna; circondari Dorneck, Thierstein (SO), Rheinfelden e Laufenburg (AG)</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Basilea, a sud sino ad Aesch, a est sino a Rheinfelden; Comuni Liestal, Sissach e Gelterkinden; autostrada A 2 Basilea sino alla galleria del Belchen compresa</td></tr>
-<tr><td colspan="4">18. *Regione Basilea-città*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (programma complementare senza scopo di lucro)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">agglomerato Basilea, senza i Comuni a sud della linea Dornach – Liestal; senza i Comuni a est della linea Rheinfelden – Gelterkinden; autostrada A 2 Basilea sino alla galleria del Belchen compresa</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Basilea, a sud sino ad Aesch, a sud-ovest sino a Liestal, a est sino a Kaiseraugst</td></tr>
-<tr><td colspan="5">19. *Regione occidentale della Svizzera centrale*</td><td colspan="4"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantoni Lucerna, Obvaldo e Nidvaldo e Zugo; agglomerato Svitto; circondari Küssnacht a. R. e Gersau (SZ); Comuni Arth, Lauerz e Steinerberg; autostrada A2 Beckenried – Altdorf, tratta Brunnen – Altdorf</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">Cantone di Zugo; agglomerati Lucerna e Svitto; autostrada A2 Dagmersellen – Altdorf; tratte Brunnen – Altdorf, Hergiswil – Passo del Brünig, Stans – Sarnen, Stans – Engelberg</td></tr>
-<tr><td colspan="4">20. *Regione Lucerna*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (programma complementare senza scopo di lucro)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">agglomerato di Lucerna; Cantone Obvaldo (senza Comune Lungern)</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Lucerna</td></tr>
-<tr><td colspan="4">21. *Regione nord della Svizzera centrale*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantoni Zugo e Nidvaldo e Svitto (senza circondari Höfe e March); circondari Lucerna, Willisau, Sursee, Hochdorf (LU), circondari Affoltern (ZH) e Muri (AG); Comune Engelberg; autostrada A2 Beckenried – Altdorf; tratte Brunnen –Altdorf, Hergiswil – Giswil, Stans – Sarnen, Sihlbrugg –Adliswil</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">Cantone Zugo; circondari Lucerna, Hochdorf (LU), Affoltern (ZH), Küssnacht a. R, Einsiedeln (SZ); agglomerato Svitto; autostrada A2 Dagmersellen – Altdorf; tratte Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Stans – Wolfenschiessen</td></tr>
-<tr><td colspan="4">22. *Regione sud della Svizzera centrale*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantoni Zugo, Svitto, Glarona, Uri, Nidvaldo e Obvaldo; circondari Lucerna, Sursee, Willisau e Hochdorf (LU), circondario elettorale See-Gaster (SG)</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">Cantoni Zugo e Svitto; circondario Lucerna; Comune Glarona; autostrada A2 da Lucerna sino alla galleria del Gottardo compresa; tratte Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Stans – Wolfenschiessen, Ziegelbrücke – Linthal, Schwanden – Elm</td></tr>
-<tr><td colspan="4">23. *Regione Zurigo-Glarona*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittenti:</td><td colspan="8">3</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantoni Zurigo e Glarona; circondari Höfe, March (SZ); circondario elettorale See-Gaster (SG); autostrada A1 Zurigo – Neuenhof; Freiamt meridionale tra Bünzen e Auw</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">circondari Zurigo, Dietikon, Horgen, Meilen, Uster e Pfäffikon; circondari Bülach e Dielsdorf a sud della linea Steinmaur – Neerach – Teufen; Comuni Winterthur, Rapperswil-Jona e Glarus, autostrada A3/A53 Wollerau – Tuggen – Ziegelbrücke, tratta Ziegelbrücke – Linthal</td></tr>
-<tr><td colspan="4">24. *Regione Zurigo*</td><td colspan="5"></td></tr>
-<tr><td>[tab] Emittenti:</td><td colspan="8">2</td></tr>
-<tr><td>[tab] Concessione 1:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Concessione 2</td><td colspan="8">programma complementare senza scopo di lucro con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondari Zurigo, Dietikon, Dielsdorf (senza i Comuni a nord della linea Otelfingen – Steinmaur – Neerach), Bülach (senza i Comuni a nord di Hochfelden e Bülach ovvero a nord-ovest della linea Bülach – Winkel –Nürensdorf), Pfäffikon (solo i Comuni di Lindau e Effretikon-Illnau), Uster, Meilen (senza i Comuni a sud-est di Meilen), Horgen (senza i Comuni a sud-est di Hirzel e Horgen) e Affoltern (senza i Comuni a sud della linea Affoltern – Aeugst); valle della Limmatt sino a Neuenhof; autostrada A1 Zurigo – Neuenhof</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">circondari Zurigo (nonché i Comuni circostanti fino a Rümlang, Kloten, Bassersdorf, Lindau, Effretikon compresi), Dietikon, Meilen (senza i Comuni a sud-est di Meilen), Horgen (senza i Comuni a sud-est di Hirzel e Horgen), Affoltern (senza i Comuni a sud della linea Affoltern – Aeugst); valle della Limmatt sino a Neuenhof</td></tr>
-<tr><td colspan="3">25. *Regione città di Zurigo*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 radio per i giovani</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Città di Zurigo, Limmattal tra Schlieren e Neuenhof</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">Città di Zurigo</td></tr>
-<tr><td colspan="3">26. *Regione Winterthur*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (programma complementare senza scopo di lucro)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">circondario di Winterthur</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">Città di Winterthur</td></tr>
-<tr><td colspan="3">27. *Regione Sciaffusa*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantone Sciaffusa; circondari Diessenhofen (TG) e Andelfingen; Comuni a nord di Eglisau; tratta Rheinklingen – Eschenz; autostrada A4 Andelfingen – Winterthur-Wülflingen</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerato Sciaffusa; circondario Diessenhofen; tratta Rheinklingen – Eschenz; autostrada A4 Sciaffusa – Winterthur-Wülflingen</td></tr>
-<tr><td colspan="3">28. *Regione città di Sciaffusa*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1 (programma complementare senza scopo di lucro)</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">agglomerato di Sciaffusa</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">città di Sciaffusa</td></tr>
-<tr><td colspan="6">29. *Regione Svizzera orientale – zona Ovest*</td><td colspan="3"></td></tr>
-<tr><td>[tab] Emittente</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Onere:</td><td colspan="8">la concessione obbliga l’emittente a fornire quotidiana-mente per ciascuna sua zona di copertura nei Cantoni Zurigo/Sciaffusa, Turgovia e S. Gallo prestazioni informa-tive che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantone Turgovia; circondari Winterthur, Bülach (senza Comuni a nord della linea Eglisau –Glattfelden), Andelfingen, Pfäffikon, Uster e Hinwil (ZH); circondari elettorali Toggenburg, S. Gallo, Wil, Rorschach e See-Gaster (SG); agglomerato Sciaffusa; città di Zurigo</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Winterthur, Frauenfeld e Kreuzlingen; circondari Pfäffikon, Bülach (senza Comuni a nord della linea Eglisau –Glattfelden), Uster (ZH) e Münchwilen (TG); circondario elettorale Wil; Comuni Weinfelden, Amriswil, Bischofszell, Arbon e Romanshorn; tratte Winterthur – Andelfingen, Frauenfeld – Kreuzlingen, Frauenfeld –Amriswil, Weinfelden – Kreuzlingen – Amriswil</td></tr>
-<tr><td colspan="3">30. *Regione Svizzera orientale zona Est*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni</td></tr>
-<tr><td>[tab] Onere:</td><td colspan="8">la concessione obbliga l’emittente a fornire quotidiana-mente nella Valle del Reno prestazioni informative che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Cantone S. Gallo, Appenzello Interno e Appenzello Esterno; circondari Arbon, Bischofszell (TG) e Landquart (GR); circondari Seewis e Schiers (GR); tratta Walenstadt – Weesen – Amden</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati S. Gallo e Arbon-Rorschach; circondari elettorali Sarganserland, Werdenberg e Rheintal; tratta S. Gallo – Appenzello; Comuni sulla riva sinistra del Lago di Walen</td></tr>
-<tr><td colspan="3">31. *Regione della città di S. Gallo*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1, programma complementare senza scopo di lucro</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Onere:</td><td colspan="8">la concessione obbliga l’emittente a fornire un particolare contributo alla formazione degli operatori dei media conformemente all’art. 36 cpv. 2 ORTV</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">città di S. Gallo</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">città di S. Gallo</td></tr>
-<tr><td colspan="3">32. *Regione Svizzera sud-est*</td><td colspan="6"></td></tr>
-<tr><td colspan="2">[tab] Emittente:</td><td colspan="7">1;</td></tr>
-<tr><td colspan="2">[tab] Concessione:</td><td colspan="7">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td colspan="2">[tab] Onere:</td><td colspan="7">a. la concessione obbliga l’emittente a fornire quotidia-namente nei circondari Maloja, Bernina e Inn presta-zioni informative che tengano conto delle rispettive caratteristiche politiche, economiche e culturali; b. la concessione obbliga l’emittente a diffondere una determinata quota minima delle trasmissioni in retoromancio e in italiano, e a collaborare con le organizzazioni culturali e linguistiche Lia Rumantscha e Pro Grigioni Italiano</td></tr>
-<tr><td colspan="2">[tab] Zone di copertura:</td><td colspan="7">Cantone Grigioni e Glarona (senza Comune di Bilten); autostrada A13 Landquart sino a Sargans, autostrada A3 Sargans – Walenstadt – Lago di Walen</td></tr>
-<tr><td colspan="2">[tab] Nucleo:</td><td colspan="7">agglomerati Coira e St. Moritz; Surselva da Disentis a Tamins; Hinterrheintal da Thusis a Tamins; Comuni Langwies, Arosa, Klosters, Davos, Lenzerheide, Zernez, Scuol, Tarasp, Samnaun, Poschiavo e Glarona; tratte Ardez – Ramosch e Tschierv – Müstair</td></tr>
-<tr><td colspan="3">33. *Regione Sopraceneri*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Sopraceneri, circondari Lugano e Moesa (GR); autostrada A2 Lugano – Chiasso</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Locarno e Bellinzona, Comuni in riva al Lago Maggiore sino al confine; autostrada A2 Airolo – Monte Ceneri</td></tr>
-<tr><td colspan="3">34. *Regione Sottoceneri*</td><td colspan="6"></td></tr>
-<tr><td>[tab] Emittente:</td><td colspan="8">1</td></tr>
-<tr><td>[tab] Concessione:</td><td colspan="8">con mandato di prestazioni e partecipazione al canone</td></tr>
-<tr><td>[tab] Zone di copertura:</td><td colspan="8">Sottoceneri; agglomerati Locarno e Bellinzona; autostrada A2 Airolo – Bellinzona</td></tr>
-<tr><td>[tab] Nucleo:</td><td colspan="8">agglomerati Lugano e Chiasso – Mendrisio; autostrada A2 Monte Ceneri – Chiasso</td></tr>
+<tr><th></th><th>Regione</th><th>Zona di copertura</th></tr>
+<tr><td>a.</td><td>Chablais</td><td>Cantone del Vallese: circondari di Monthey e Saint-Maurice Cantone di Vaud: circondari di Aigle e Riviera-Pays d’Enhaut</td></tr>
+<tr><td>b.</td><td>Basso Vallese</td><td>Cantone del Vallese: circondari di Saint-Maurice, Martigny, Entremont, Hérens, Conthey, Sion e Sierre</td></tr>
+<tr><td>c.</td><td>Alto Vallese</td><td>Cantone del Vallese: circondari di Leuk, Visp, Raron, Briga, Goms, Sierre e Sion</td></tr>
+<tr><td>d.</td><td>Neuchâtel</td><td>Cantone di Neuchâtel</td></tr>
+<tr><td>e.</td><td>Giura</td><td>Cantone del Giura</td></tr>
+<tr><td>f.</td><td>Biel/Bienne – Giura Bernese</td><td>Cantone di Berna: circondari amministrativi di Biel/Bienne e Giura Bernese</td></tr>
+<tr><td></td><td>Oneri:</td><td>Il programma è diffuso in lingua francese.</td></tr>
+<tr><td>g.</td><td>Biel/Bienne – Seeland</td><td>Cantone di Berna: regione amministrativa Seeland Cantone di Soletta: agglomerato di Grenchen</td></tr>
+<tr><td></td><td>Oneri:</td><td>Il programma è diffuso in lingua tedesca.</td></tr>
+<tr><td>h.</td><td>Friburgo</td><td>Cantone di Friburgo Cantone di Vaud: circondario di Broye-Vully</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente a diffondere un programma in lingua tedesca per la parte germanofona della zona di copertura e un programma in lingua francese per la parte francofona della zona di copertura.</td></tr>
+<tr><td>i.</td><td>Oberland bernese</td><td>Cantone di Berna: regione amministrativa Oberland</td></tr>
+<tr><td>j.</td><td>Emmental-Oberaargau</td><td>Cantone di Berna: regione amministrativa Emmental-Oberaargau e circondario amministrativo Bern-Mittelland ad est e a nord delle autostrade A6 e A1</td></tr>
+<tr><td>k.</td><td>Svizzera centrale</td><td>Cantone di Lucerna Cantone di Nidvaldo Cantone di Obvaldo Cantone di Svitto Cantone di Uri Cantone di Zugo Cantone di Glarona</td></tr>
+<tr><td>l.</td><td>Sciaffusa</td><td>Cantone di Sciaffusa Cantone di Zurigo: circondario di Andelfingen e circondario di Bülach a nord del Reno Cantone di Turgovia: parte nordoccidentale del circondario di Frauenfeld fino a Wagenhausen</td></tr>
+<tr><td>m.</td><td>Svizzera sud orientale – Glarona</td><td>Cantone dei Grigioni Cantone di Glarona Cantone di San Gallo: circondari elettorali di Sarganserland e Werdenberg</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente a diffondere una determinata quota minima delle trasmissioni in retoromancio e in italiano.</td></tr>
+<tr><td>n.</td><td>Sopraceneri</td><td>Cantone Ticino Cantone dei Grigioni: circondario Moesa</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente, sotto il profilo giornalistico, a porre l’accento del proprio programma sul Sopraceneri.</td></tr>
+<tr><td>o.</td><td>Sottoceneri</td><td>Cantone Ticino</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente, sotto il profilo giornalistico, a porre l’accento del proprio programma sul Sottoceneri.</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+### 4.2 Radio locali complementari senza scopo di lucro
+
+È rilasciata una concessione per la diffusione di un programma radiofonico complementare, senza scopo di lucro, con mandato di prestazioni, partecipazione al canone e diffusione via DAB+ in ciascuna delle zone di copertura seguenti:
+
+<table>
+<tr><th></th><th>Regione</th><th>Zona di copertura</th></tr>
+<tr><td>a.</td><td>Ginevra</td><td>Cantone di Ginevra Cantone di Vaud: circondario di Nyon</td></tr>
+<tr><td>b.</td><td>Berna</td><td>Cantone di Berna: regione amministrativa Bern-Mittelland</td></tr>
+<tr><td>c.</td><td>Argovia centrale</td><td>Cantone di Argovia: circondari di Zofingen, Olten, Gösgen, Aarau, Brugg, agglomerati di Lenzburg e Baden-Brugg</td></tr>
+<tr><td>d.</td><td>Basilea</td><td>Cantoni di Basilea Città e Basilea Campagna: agglomerato di Basilea</td></tr>
+<tr><td>e.</td><td>Lucerna</td><td>Cantone di Lucerna: agglomerato di Lucerna Cantone di Svitto: circondario di Küssnacht Cantone di Obvaldo: Comuni di Alpnach e Sarnen</td></tr>
+<tr><td>f.</td><td>Zurigo</td><td>Cantone di Zurigo: Nucleo principale d’agglomerato di Zurigo, circondari di Dielsdorf e Bülach senza i Comuni a nord della linea Embrach-Dielsdorf</td></tr>
+<tr><td>g.</td><td>Winterthur</td><td>Cantone di Zurigo: circondari di Winterthur e Pfäffikon</td></tr>
+<tr><td>h.</td><td>Sciaffusa</td><td>Cantone di Sciaffusa: agglomerato di Sciaffusa</td></tr>
+<tr><td>i.</td><td>San Gallo</td><td>Cantone di San Gallo: Nucleo principale d’agglomerato di San Gallo</td></tr>
+<tr><td>j.</td><td>Lugano</td><td>Cantone Ticino: agglomerato di Lugano</td></tr>
+</table>
+
+Allegato 2[^t-2]
 
 (art. 38 lett. b)
 
-## Emittenti televisive regionali con partecipazione al canone; zone di copertura
+## Modalità di diffusione e zone di copertura per emittenti televisive regionali con mandato di prestazioni e partecipazione al canone
 
-[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Aggiornato dai n. II dell’O del 15 giu. 2012 ([RU 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)) e del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)).
+[^t-2]: Introdotto dal n. II cpv. 1 dell’O del 4 lug. 2007 ([RU 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Nuovo testo giusta il n. II dell’O del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
-### 1 Principi generali sulla diffusione
+### 1 Modalità di diffusione
 
-<sup>1</sup> I programmi delle emittenti televisive con partecipazione al canone sono diffusi su linea conformemente all’articolo 59 capoverso 1 lettera b LRTV. Nei casi espressamente previsti al numero 2, la diffusione avviene anche conformemente all’articolo 53 lettera b LRTV via etere in standard digitale DVB-T (Digital Video Broadcasting – Terrestrial).
-
-<sup>2</sup> e <sup>3</sup> ...
+I programmi televisivi regionali con mandato di prestazioni e partecipazione al canone sono diffusi su linea conformemente all’articolo 59 capoverso 1 lettera b LRTV.
 
 ### 2 Zone di copertura
 
-Le concessioni sono rilasciate a emittenti televisive con partecipazione al canone nelle seguenti zone di copertura:
+È rilasciata una concessione per la diffusione di un programma televisivo regionale con mandato di prestazioni e partecipazione al canone per ciascuna delle zone di copertura seguenti:
 
 <table>
-<tr><td colspan="2">1. *Regione Ginevra*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantone di Ginevra, circondario Nyon (VD)</td></tr>
-<tr><td>[tab] Diffusione:</td><td colspan="3">su linee e in digitale via etere</td></tr>
-<tr><td colspan="2">2. *Regione Vaud – Friburgo*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Vaud e Friburgo; circondario Monthey (VS); Comune Céligny (GE)</td></tr>
-<tr><td>[tab] Oneri:</td><td colspan="3">la concessione obbliga l’emittente a fornire prestazioni informative per il Cantone Friburgo, che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td colspan="2">3. *Regione Vallese*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantone Vallese, circondario Aigle (VD)</td></tr>
-<tr><td>[tab] Diffusione:</td><td colspan="3">su linee e in digitale via etere</td></tr>
-<tr><td>[tab] Oneri:</td><td colspan="3">la concessione obbliga l’emittente a fornire due programmi informativi per la zona di copertura, uno per la parte di lingua tedesca e uno per quella di lingua francese, che tengano conto delle rispettive caratteristiche politiche, economiche e culturali. I programmi devono essere prodotti nelle rispettive zone linguistiche.</td></tr>
-<tr><td colspan="2">4. *Regione Arco giurassiano*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Jura e Neuchâtel; circondari La Neuveville, Courtelary, Moutier (BE), Grandson e Yverdon (VD)</td></tr>
-<tr><td colspan="2">5. *Regione Berna*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantone Berna (senza circondari La Neuveville, Courtelary e Moutier); circondari Soletta, Lebern, Wasseramt; Bucheggberg (SO), See, Sense, Gruyères, Sarine, La Broye (FR), Avenches, Payerne (VD) e circondario Entlebuch (LU)</td></tr>
-<tr><td colspan="2">6. *Regione Biel/Bienne*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">circondari Biel/Bienne, Nidau, Erlach, Aarberg, Büren, La Neuveville, Courtelary, Moutier (BE), Lac (FR); agglomerato Grenchen</td></tr>
-<tr><td>[tab] Oneri:</td><td colspan="3">la concessione obbliga l’emittente a fornire due programmi informativi per la zona di copertura, uno per la parte di lingua tedesca e uno per quella di lingua francese, che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td colspan="2">7. *Regione Basilea*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Basilea Città e Basilea Campagna; circondari Rheinfelden, Laufenburg (AG), Thierstein e Dorneck (SO)</td></tr>
-<tr><td colspan="2">8. *Regione Argovia – Soletta*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Argovia e Soletta; circondari Wangen, Aarwangen (BE), Willisau, Sursee (LU), Dielsdorf e Dietikon (ZH)</td></tr>
-<tr><td colspan="2">9. *Regione Svizzera centrale*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Lucerna, Zugo, Obvaldo e Nidvaldo, Svitto e Uri; circondari Zofingen, Kulm, Muri (AG) e Affoltern (ZH)</td></tr>
-<tr><td colspan="3">10. *Regione Zurigo-Svizzera nord orientale*</td><td></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Zurigo, Sciaffusa e Turgovia; circondario elettorale Wil (SG)</td></tr>
-<tr><td>[tab] Oneri:</td><td colspan="3">la concessione obbliga l’emittente a fornire prestazioni informative per ognuno dei due Cantoni Sciaffusa e Turgovia, che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td colspan="2">11. *Regione Svizzera orientale*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni San Gallo, Appenzello Esterno e Appenzello Interno; circondari Arbon e Bischofszell (TG)</td></tr>
-<tr><td colspan="2">12. *Regione Svizzera sud orientale*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantoni Grigioni e Glarona; circondari elettorali Sarganserland e Werdenberg (SG)</td></tr>
-<tr><td>[tab] Oneri:</td><td colspan="3">la concessione obbliga l’emittente a fornire prestazioni informative per il Cantone Glarona, che tengano conto delle rispettive caratteristiche politiche, economiche e culturali.</td></tr>
-<tr><td>[tab] Diffusione:</td><td colspan="3">su linee e in digitale via etere</td></tr>
-<tr><td colspan="2">13. *Regione Ticino*</td><td colspan="2"></td></tr>
-<tr><td>[tab] Zona di copertura:</td><td colspan="3">Cantone Ticino; circondario Moesa (GR)</td></tr>
-<tr><td>[tab] Diffusione:</td><td colspan="3">su linee e in digitale via etere</td></tr>
+<tr><th></th><th>Regione</th><th>Zona di copertura</th></tr>
+<tr><td>a.</td><td>Ginevra</td><td>Cantone di Ginevra Cantone di Vaud: circondario di Nyon</td></tr>
+<tr><td>b.</td><td>Vaud – Friburgo</td><td>Cantone di Vaud Cantone di Friburgo Cantone del Vallese: circondario di Monthey</td></tr>
+<tr><td>c.</td><td>Vallese</td><td>Cantone del Vallese Cantone di Vaud: circondario di Aigle</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente a fornire due programmi informativi per la zona di copertura: uno per la parte di lingua tedesca e uno per quella di lingua francese. I programmi devono essere prodotti nelle rispettive zone linguistiche.</td></tr>
+<tr><td>d.</td><td>Arco giurassiano</td><td>Cantone di Neuchâtel Cantone del Giura Cantone di Vaud: agglomerato di Yverdon-les-Bains e circondario Jura-Nord vaudois a nord dell’autostrada A9</td></tr>
+<tr><td>e.</td><td>Berna</td><td>Cantone di Berna, senza la regione amministrativa del Giura bernese Cantone di Friburgo: circondari di See e Sense</td></tr>
+<tr><td>f.</td><td>Biel/Bienne</td><td>Cantone di Berna: regioni amministrative Seeland e Giura bernese Cantone di Soletta: agglomerato di Grenchen Cantone di Friburgo: circondario di See</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente a fornire due programmi informativi per la zona di copertura: uno in lingua tedesca e uno in lingua francese.</td></tr>
+<tr><td>g.</td><td>Basilea</td><td>Cantone di Basilea Città Cantone di Basilea Campagna Cantone di Soletta: circondari di Thierstein e Dorneck Cantone di Argovia: circondari di Rheinfelden e Laufenburg</td></tr>
+<tr><td>h.</td><td>Argovia – Soletta</td><td>Cantone di Argovia Cantone di Soletta Cantone di Berna: circondario amministrativo di Oberaargau</td></tr>
+<tr><td>i.</td><td>Svizzera centrale</td><td>Cantone di Lucerna Cantone di Zugo Cantone di Obvaldo Cantone di Nidvaldo Cantone di Uri Cantone di Svitto</td></tr>
+<tr><td>j.</td><td>Zurigo – Svizzera nord orientale</td><td>Cantone di Zurigo Cantone di Sciaffusa Cantone di Turgovia</td></tr>
+<tr><td>k.</td><td>Svizzera orientale</td><td>Cantone di San Gallo Cantone di Appenzello Interno Cantone di Appenzello Esterno Cantone di Turgovia</td></tr>
+<tr><td>l.</td><td>Svizzera sud orientale – Glarona</td><td>Cantone dei Grigioni Cantone di Glarona Cantone di San Gallo: circondari elettorali di Sargans e Werdenberg</td></tr>
+<tr><td></td><td>Oneri:</td><td>La concessione obbliga l’emittente a diffondere una determinata quota minima delle trasmissioni in romancio e in italiano.</td></tr>
+<tr><td>m.</td><td>Ticino</td><td>Cantone Ticino Cantone dei Grigioni: circondario Moesa</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 52 cpv. 2)
 

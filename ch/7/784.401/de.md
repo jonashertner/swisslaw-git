@@ -4,11 +4,11 @@ title: Radio- und Fernsehverordnung vom 9. März 2007 (RTVV)
 short: RTVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/de"
 
 (RTVV)
 
-vom 9. März 2007 (Stand am 1. Januar 2022)
+vom 9. März 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -753,7 +753,7 @@ Das BAKOM kann:
 
 <sup>6</sup> Das BAKOM überprüft die gemeldeten Bruttoeinnahmen und erlässt die Abgabeverfügung. Mit der Überprüfung kann das BAKOM aussenstehende Sachverständige betrauen.
 
-### 2. Kapitel: Leistungsvereinbarung über das Auslandangebot der SRG****
+### 2. Kapitel: Leistungsvereinbarung über das Auslandangebot der SRG
 
 [^tit2-chap2-1]
 
@@ -775,7 +775,9 @@ Die Vereinbarung zwischen dem Bundesrat und der SRG über das publizistische Ang
 
 <sup>1</sup> Ein komplementäres nicht gewinnorientiertes Radioprogramm muss sich thematisch, kulturell und musikalisch von anderen konzessionierten Radioprogrammen unterscheiden, die im fraglichen Versorgungsgebiet zu empfangen sind. Insbesondere muss ein solches Programm die sprachlichen und kulturellen Minderheiten im Versorgungsgebiet berücksichtigen.
 
-<sup>2</sup> In einem solchen Radioprogramm ist die Ausstrahlung von Werbung nicht zulässig, mit Ausnahme von Eigenwerbung, die überwiegend der Publikumsbindung dient, einschliesslich Hinweisen auf Medienpartnerschaften im Sinne von Artikel 22 Absatz 6. Die Konzession kann die Ausstrahlung von Werbung für Veranstalter vorsehen, die in einem Versorgungsgebiet mit weniger als 75 000 Einwohnern und Einwohnerinnen ab 15 Jahren einen besonderen Beitrag zur Ausbildung von Medienschaffenden leisten.
+<sup>2</sup> In einem solchen Radioprogramm ist die Ausstrahlung von Werbung nicht zulässig, mit Ausnahme von Eigenwerbung, die überwiegend der Publikumsbindung dient, einschliesslich Hinweisen auf Medienpartnerschaften im Sinne von Artikel 22 Absatz 6.[^36-1]
+
+[^36-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 #### Art. 37
 
@@ -900,7 +902,7 @@ Die öffentliche Ausschreibung einer Konzession muss mindestens enthalten:
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 12. März 2010, in Kraft seit 1. April 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
-### 4. Kapitel:**** Leistungsvereinbarung mit einer Nachrichtenagentur von nationaler Bedeutung
+### 4. Kapitel: Leistungsvereinbarung mit einer Nachrichtenagentur von nationaler Bedeutung
 
 [^tit2-chap4-1]
 
@@ -1137,7 +1139,7 @@ Die Höchstzahl der nach den Artikeln 59 und 60 RTVG in einem bestimmten Gebiet 
 
 <sup>4</sup> Die Fernmeldedienstanbieterin darf Daten, die sie im Zusammenhang mit der Umsetzung von Absatz 3 erhalten hat, nicht zu anderen Zwecken verwenden und insbesondere nicht an andere Geschäftseinheiten, Tochtergesellschaften, Partnerunternehmen und Dritte weitergeben.
 
-## 4. Titel:**** Abgabe für Radio und Fernsehen
+## 4. Titel: Abgabe für Radio und Fernsehen
 
 [^tit4-1]
 
@@ -1232,7 +1234,7 @@ Von der Abgabepflicht befreit sind:
 
 <sup>1</sup> Für die Übertragung der Erhebung der Haushaltabgabe auf eine Stelle ausserhalb der Bundesverwaltung ist das UVEK zuständig.
 
-<sup>2</sup> Wird eine solche Stelle eingesetzt, so führt diese die offizielle Bezeichnung «*Schweizerische Erhebung**s**stelle für die Radio- und Fernsehabgabe*».
+<sup>2</sup> Wird eine solche Stelle eingesetzt, so führt diese die offizielle Bezeichnung «*Schweizerische Erhebungsstelle für die Radio- und Fernsehabgabe*».
 
 <sup>3</sup> Das UVEK und die Erhebungsstelle regeln die Einzelheiten des Leistungsauftrages und die Entschädigung der Erhebungsstelle in einem Vertrag.
 
@@ -1686,7 +1688,7 @@ Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. S
 
 ## 8. Titel: Schlussbestimmungen
 
-### 1. Kapitel: Vollzug und Aufhebung bisherigen Rechts****
+### 1. Kapitel: Vollzug und Aufhebung bisherigen Rechts
 
 [^tit8-chap1-1]
 
@@ -1719,7 +1721,7 @@ Die Radio- und Fernsehverordnung vom 6. Oktober 1997[^81-1] wird aufgehoben.
 
 [^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302); [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258); [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20, [3482](https://fedlex.data.admin.ch/eli/oc/2002/516); [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172), [4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
-### 2. Kapitel:**** Übergangsbestimmungen zur Änderung vom 25. Mai 2016
+### 2. Kapitel: Übergangsbestimmungen zur Änderung vom 25. Mai 2016
 
 [^tit8-chap2-1]
 
@@ -1984,7 +1986,7 @@ Zum Empfang von Radio- oder Fernsehprogrammen geeignete Geräte sind:
 
 <sup>4</sup> Die Erhebungsstelle informiert das BAKOM über die neu abgabepflichtigen Haushalte und deren Mitglieder.
 
-### 2*a*. Kapitel:**** Übergangsbestimmung zur Änderung vom 25. Oktober 2017
+### 2*a*. Kapitel: Übergangsbestimmung zur Änderung vom 25. Oktober 2017
 
 [^tit8-chap2a-1]
 
@@ -1998,6 +2000,18 @@ Zum Empfang von Radio- oder Fernsehprogrammen geeignete Geräte sind:
 
 <sup>2</sup> Das UVEK kann die bisherigen Konzessionen auf den Zeitpunkt, in dem die ursprüngliche Konzession geendet hätte, entschädigungslos abändern oder die Verlängerung verweigern, sofern dies aufgrund von veränderten tatsächlichen oder rechtlichen Verhältnissen erforderlich ist.
 
+### 2*b*. Kapitel: Übergangsbestimmung zur Änderung vom 16. September 2022
+
+[^tit8-chap2b-1]
+
+[^tit8-chap2b-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+
+**Art. 96**b
+
+Für die im Zeitpunkt des Inkrafttretens bestehenden Konzessionen nach den Artikeln 38 und 43 RTVG gelten bis zum 31. Dezember 2024 die bisherigen Fassungen der Anhänge 1 und 2[^tit8-chap2b-2].
+
+[^tit8-chap2b-2]: [AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
+
 ### 3. Kapitel: Inkrafttreten
 
 ### (Art. 114 Abs. 2 RTVG)
@@ -2010,303 +2024,146 @@ Diese Verordnung tritt am 1. April 2007 in Kraft.
 
 [^97-1]: Ursprünglich: Art. 83
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 38 Bst. a)
 
-## Radioveranstalter mit Leistungsauftrag und Verbreitung im UKW-Band; Planungs- und Betriebsgrundsätze und Versorgungsgebiete
+## Verbreitungsart und Versorgungsgebiete für die drahtlos terrestrische Verbreitung von Radioprogrammen mit Leistungsauftrag und Abgabenanteil
 
-[^t-1]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Juli 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Bereinigt gemäss Ziff. II der V vom 5. Nov. 2014 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)), vom 25. Mai 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)) und vom 25. Okt. 2017, in Kraft seit 1. Dez. 2017 ([AS 2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)).
+[^t-1]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Juli 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Fassung gemäss Ziff. II der V vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 ### 1 Begriffe
 
 In diesem Anhang bedeuten:
 
-- a. UKW: Ultrakurzwellen (Band II; 87.5–108.0 MHz);
-- a<sup>bis</sup>. DAB+: Digital Audio Broadcasting plus (Digitalradiostandard mit verbesserter Audiocodierung);
-- b. Kernzone: Zone mit signifikantem Hörerpotenzial innerhalb eines lokalen oder regionalen Versorgungsgebietes;
-- c. Agglomerationen: zusammenhängende Gebiete mehrerer Gemeinden mit einer Kernzone; Definition und Umfang auf der Basis der Volkszählung 2000 gemäss Bundesamt für Statistik;
-- d. stationärer Empfang: Empfang mit einem fest installierten Heimempfangsgerät, das an eine Empfangsantenne, eine Gemeinschaftsempfangsantenne oder an eine grössere Kabelverteilanlage angeschlossen ist;
-- e. portabler Empfang: Empfang mit einem tragbaren Gerät innerhalb oder ausserhalb von Gebäuden;
-- f. mobiler Empfang: Empfang mit einem Gerät im fahrenden Fahrzeug mit geeigneter Aussenantenne (rund 1,5 m über Grund).
+- a. DAB+: Digital Audio Broadcasting plus (VHF-Band III, Kanäle 5–12, 174–230 MHz);
+- b. PI95: Zielwert für den Empfang innerhalb von Gebäuden *(portable indoor)* mit einer Ortswahrscheinlichkeit von 95 Prozent am Wohnort von mindestens 98 Prozent der Bevölkerung;
+- c. MO99: Zielwert für den Empfang mit einem mobilen Gerät ausserhalb von Gebäuden (mobile outdoor) mit einer Ortswahrscheinlichkeit von 99 Prozent für mindestens 98 Prozent des National- und Kantonsstrassennetzes;
+- d. Agglomeration: Definition gemäss Bundesamt für Statistik (BFS), «Agglomerationen 2012»;
+- e. Agglomerationshauptkern: Ansammlung von Hauptkerngemeinden innerhalb eines Raums mit städtischem Charakter nach der Publikation des BFS «Raum mit städtischem Charakter der Schweiz 2012».
 
-### 2 Grundsätze für die UKW-Frequenzzuteilung, den Betrieb der UKW-Sendeanlagen und die Messung der Versorgungsqualität
+### 2 Verbreitungstechnologie und Zuständigkeiten
 
-<sup>1</sup> Das Bundesamt für Kommunikation (BAKOM) nimmt die UKW-Frequenzzuteilung gemäss dem internationalen Wellenplan (Genfer Abkommen 84), den massgebenden Empfehlungen der internationalen Fernmeldeunion (ITU) sowie schweizerischen Vorgaben vor. Bei der Frequenzkoordination sind für das BAKOM die Artikel 4 und 5 des Genfer Abkommens 84 massgebend.
+- 2\.1 Die drahtlos-terrestrische Verbreitung der Radioprogramme erfolgt im DAB+-Standard nach dem nationalen Frequenzzuweisungsplan.[^annex1-lvlu1-lvl2-1]
+- 2\.2 Die Konzessionsbehörde teilt die DAB+-Frequenzen nach Artikel 22 Absatz 2 Buchstabe a des Fernmeldegesetzes vom 30. April 1997[^annex1-lvlu1-lvl2-2] zu.
+- 2\.3 Die Konzessionsbehörde legt in der DAB+-Funkkonzession die technischen Parameter und die Übertragungskapazitäten fest.
+- 2\.4 Die Funkkonzessionärin ist berechtigt, das Frequenzspektrum nach den technischen und betrieblichen Merkmalen zu nutzen, wie sie im funktechnischen Netzbeschrieb nach Artikel 18 der Verordnung vom 18. November 2020[^annex1-lvlu1-lvl2-3] über die Nutzung des Funkfrequenzspektrums festgelegt sind.
+- 2\.5 Der funktechnische Netzbeschrieb wird von der Konzessionsbehörde erteilt. Ist die Eidgenössische Kommunikationskommission die Konzessionsbehörde, so kann sie diese Aufgabe an das BAKOM delegieren.
 
-<sup>2</sup> Das BAKOM toleriert beim Betrieb von UKW-Sendeanlagen einen maximalen Frequenzhub von +/–75 kHz bei einem maximalen Hubanteil von 10 Prozent im Bereich zwischen +/–75 kHz und +/–85 kHz sowie eine Modulationsleistung (Multiplexleistung) von maximal +3 dBr. Für die Messungen dieser Parameter ist die Empfehlung ITU-R SM.1268-3[^annex1-lvlu1-lvl2-1] der Internationalen Fernmeldeunion anzuwenden.
+[^annex1-lvlu1-lvl2-1]: Der Nationale Frequenzzuweisungsplan kann beim Bundesamt für Kommunikation kostenlos abgerufen werden unter [www.bakom.admin.ch](http://www.bakom.admin.ch) &gt; Frequenzen und Antennen &gt; Nationaler Frequenzzuweisungsplan.
+[^annex1-lvlu1-lvl2-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^annex1-lvlu1-lvl2-3]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
 
-<sup>2bis</sup> Die Messzeit für den Frequenzhub beträgt minimal 20 Minuten, wobei für die Spitzenwert-Ermittlung je ein Messfenster von maximal 10 Sekunden angewendet wird. Für die kumulative Verteilung ist die Messmethode 1E-5 anzuwenden.
+### 3 Verbreitungspflichten für Funkkonzessionärinnen
 
-<sup>2ter</sup> Die Messzeit für die Multiplexleistung beträgt minimal 20 Minuten. Der Maximalwert wird in einem gleitenden Messfenster jede Sekunde über 60 Sekunden gemittelt. Die Messung erfolgt während der Aussendung von programmtypischen Inhalten.
+### 3.1 Allgemeine Pflichten der Funkkonzessionärin
 
-<sup>3</sup> Die Versorgungsqualität wird durch das OBB-System (automatische Registrierung der objektiven Beurteilung) gemessen. Die OBB-Messungen erfolgen für den mobilen Empfang. Sie gelten auch für den stationären und den portablen Empfang.
+- 3\.1.1 Die Funkkonzessionärin ist verpflichtet, den von der Konzessionsbehörde bestimmten Veranstaltern nach Ziffer 4 ein Zugangsrecht zu gewähren.
+- 3\.1.2 Sie verbreitet das Signal nach Massgabe der Veranstalterkonzession in ausreichender Qualität.
 
-<sup>4</sup> Das BAKOM legt die technischen Parameter des OBB-Systems und den Umfang der Messungen fest. Es unterteilt die Empfangsqualität in fünf Stufen: sehr gut, gut, genügend, schlecht und sehr schlecht.
+### 3.2 Pflichten der SRG
 
-[^annex1-lvlu1-lvl2-1]: Der Text dieser Empfehlungen kann auf Französisch oder Englisch unter www.itu.int eingesehen werden.
+- 3\.2.1 Die SRG verbreitet in erster Linie eigene Radioprogramme nach der SRG-Konzession[^annex1-lvlu1-lvl3-lvl32-1] sowie zugangsberechtigte Drittprogramme nach Ziffer 4. Sie kann Drittprogramme ohne Zugangsrechte verbreiten, wenn die Bedürfnisse für eigene und zugangsberechtigte Radioprogramme abgedeckt sind.
+- 3\.2.2 Die SRG stellt in Absprache mit den zuständigen Behörden das Frequenzspektrum auch für Datendienste zur Verfügung, die dem Schutz der Bevölkerung dienen und nicht kommerziell sind, z. B. den Sirenenalarm. Diese Nutzung setzt die Bewilligung des BAKOM voraus und darf die Verbreitung von Radioprogrammen nach Ziffer 3.2.1 nicht beeinträchtigen.
+- 3\.2.3 Die SRG muss für die Verbreitung der Programme nach der SRG-Konzession ein Empfangsziel von PI95 für mindestens 99 Prozent der Bevölkerung in den sprachregionalen, regionalen und lokalen Gebieten gewährleisten.
+- 3\.2.4 Sie muss für die Verbreitung der Programme ein Empfangsziel von MO99 für mindestens 99 Prozent des National- und Kantonsstrassennetzes gewährleisten.
 
-### 3 Verbreitung im Versorgungsgebiet
+[^annex1-lvlu1-lvl3-lvl32-1]: Der Text der SRG-Konzession ist abrufbar unter: [www.bakom.admin.ch](http://www.bakom.admin.ch) &gt; Elektronische Medien &gt; Infos über Programmveranstalter &gt; SRG SSR &gt; Konzessionierung.
 
-### 3.1 Technischer Ausbaustand der Senderketten der SRG in ihren Sprachregionen
+### 3.3 Verbreitungspflichten für Lokalradios
 
-<sup>1</sup> Die SRG gewährleistet die Verbreitung auf ihren ersten sprachregionalen Senderketten sowie, nach Massgabe der frequenztechnischen Möglichkeiten, auf ihren zweiten und dritten sprachregionalen Senderketten in allen Ortschaften mit über 200 Einwohnerinnen und Einwohnern.
+- 3\.3.1 Konzessionierte Veranstalter nach Ziffer 4 müssen eine Funkkonzessionärin mit der Verbreitung ihres Programms beauftragen. Ist die Abdeckung eines Versorgungsgebiets für eine Funkkonzessionärin unverhältnismässig, so kann die Konzessionsbehörde die SRG dazu verpflichten, privaten Veranstaltern nach Ziffer 4 auf ihren Netzen ein Zugangsrecht zu gewähren.
+- 3\.3.2 Die Konzessionsbehörde erteilt die Funkkonzessionen so, dass jedes der unter Ziffer 4 genannten Versorgungsgebiete von einem DAB+-Verbreitungsgebiet abgedeckt ist. Diese Verbreitungsgebiete müssen in ihrer Ausdehnung mindestens deckungsgleich sein mit einem oder mehreren Versorgungsgebieten nach Ziffer 4.
+- 3\.3.3 Die Konzessionsbehörde bestimmt, welche Veranstalter im betreffenden Verbreitungsgebiet nach Ziffer 4 ein Zugangsrecht erhalten. Vereinbarungen, die eine darüber hinausreichende Verbreitung vorsehen, sind zulässig.
+- 3\.3.4 Die Funkkonzessionärin hat für die Versorgungsgebiete nach Ziffer 4 einen Versorgungsgrad von mindestens 97 Prozent der Bevölkerung sicherzustellen. Sie muss die Versorgung aller Ortschaften mit über 200 Einwohnerinnen und Einwohnern in der Versorgungsqualität PI95 gewährleisten. Entlang des National- und Kantonsstrassennetzes muss sie die Versorgungsqualität MO99 gewährleisten.
+- 3\.3.5 Die Funkkonzessionärin legt der Konzessionsbehörde ein Reglement vor, das die Rechte und Pflichten bei der Vergabe von Programmplätzen sowie die Priorisierung der zugangsberechtige Veranstalter regelt. Die Bestimmungen sind genehmigungspflichtig.
 
-<sup>2</sup> Nach Massgabe der frequenztechnischen Möglichkeiten gewährleistet die SRG die Verbreitung auf ihrer vierten Senderkette im Kanton Graubünden in rätoromanischer Sprache bis zur Bedienung aller Ortschaften mit über 200 Einwohnerinnen und Einwohnern.
+### 4 Versorgungsgebiete für Lokalradios
 
-<sup>3</sup> In ihren Sprachregionen gewährleistet die SRG den stationären, portablen und mobilen Empfang der sprachregionalen Programme in der Regel in guter oder genügender Qualität.
+### 4.1 Kommerzielle Lokalradios
 
-### 3.2 Technische Bedienung der Versorgungsgebiete durch die lokalen oder regionalen Veranstalter
-
-Veranstalter nach Ziffer 4 gewährleisten in der Kernzone ihrer lokalen oder regionalen Versorgungsgebiete den stationären, portablen und mobilen Empfang in der Regel in guter oder genügender Qualität. Im gesamten lokalen oder regionalen Versorgungsgebiet ist möglichst flächendeckend eine genügende Versorgungs- und Empfangsqualität zu gewährleisten.
-
-### 3.3 Verzicht auf UKW-Frequenzen
-
-<sup>1</sup> Auf Gesuch hin kann die zuständige Behörde den Veranstalter von seiner Pflicht, sein Versorgungsgebiet mittels UKW-Frequenzen zu bedienen, in dem Masse entbinden, als er die betreffende Zone drahtlos-terrestrisch über DAB+ versorgt.
-
-<sup>2</sup> Verzichtet ein Veranstalter auf die Nutzung einzelner UKW-Frequenzen, so werden diese nicht mehr für die Verbreitung von Radioprogrammen vergeben*.*
-
-### 4 Versorgungsgebiete für die drahtlos-terrestrische Verbreitung
-
-Konzessionen für die drahtlos-terrestrische Verbreitung werden an Radioveranstalter mit Leistungsauftrag und Abgabenanteil in folgenden Versorgungsgebieten erteilt:
+Je eine Konzession für die Veranstaltung eines kommerziellen lokalen Radioprogramms mit Leistungsauftrag und Abgabenanteil mit Verbreitung über DAB+ wird für die folgenden Versorgungsgebiete erteilt:
 
 <table>
-<tr><td colspan="2">1. Region Genf</td></tr>
-<tr><td>Veranstalter:</td><td>1 komplementäres, nicht gewinnorientiertes Programm</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Agglomeration Genf</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Genf</td></tr>
-<tr><td colspan="2">2. Region Arc Lémanique</td></tr>
-<tr><td>Veranstalter:</td><td>4</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Genf und Waadt (ohne Bezirke Pays-d’Enhaut und Aigle); Bezirk La Broye (FR); Gemeinde Villeneuve (VD)</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Genf, Lausanne und Yverdon-les- Bains; Bezirk Vevey; Gemeinden Payerne und Villeneuve; Autobahnen A1 Nyon – Yverdons-les-Bains und A9 Vevey – Vallorbe</td></tr>
-<tr><td colspan="2">3. Region Chablais</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Monthey, Aigle, Pays d’Enhaut und Vevey; Autobahn A9 Ardon – Lausanne-Belmont</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Monthey-Aigle; Gemeinde St-Maurice; Autobahn A9 St-Maurice – Vevey</td></tr>
-<tr><td colspan="2">4. Region Unterwallis</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Unterwallis zwischen Siders und St-Maurice; Autobahn A9 Visp – Aigle</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Sitten und Siders; Gemeinden Martigny, Orsières und Verbier; Autobahn A9 Sitten – Evionnaz</td></tr>
-<tr><td colspan="2">5. Region Oberwallis</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Oberwallis bis Siders, Autobahn A9 Salgesch – Sitten</td></tr>
-<tr><td>Kernzone:</td><td>Rhonetal von Fiesch bis Salgesch; Gemeinden Stalden, Zermatt, Saas-Fee und Leukerbad</td></tr>
-<tr><td colspan="2">6. Region Arc Jurassien</td></tr>
-<tr><td>Veranstalter:</td><td>2</td></tr>
-<tr><td>Konzession 1:</td><td>mit Leistungsauftrag und Abgabenanteil;</td></tr>
-<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für die drei Regionen Kanton Neuenburg, Kanton Jura sowie die Bezirke im Kanton Bern Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen.</td></tr>
-<tr><td>Konzession 2:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Neuenburg und Jura; Bezirke Neuenstadt, Courtelary, Moutier und Biel (BE); Agglomeration Yverdon; Gemeinden rund um den Neuenburgersee, Gemeinden am linken Bielerseeufer zwischen Biel und Neuenstadt</td></tr>
-<tr><td>Kernzone 1:</td><td>Agglomeration Neuenburg; Gemeinden Le Locle und La Chaux-de-Fonds; Val-de-Travers und Val-de-Ruz; Strecken La Chaux-de-Fonds – St. Imier, La Chaux- de-Fonds – Les Bois</td></tr>
-<tr><td>Kernzone 2:</td><td>Gemeinden Pruntrut und Delsberg, Autobahn A16 im Kanton Jura, Strecken Delsberg – La Chaux-de-Fonds, Delsberg – Moutier</td></tr>
-<tr><td>Kernzone 3:</td><td>Gemeinden St-Imier, Tramelan, Tavannes und Moutier; Autobahn A16 Moutier – Péry-Reuchenette; Strecken Sonceboz – La Chaux-de-Fonds, Moutier – Delsberg</td></tr>
-<tr><td colspan="2">7. Region Freiburg (französischsprachiges Programm)</td></tr>
-<tr><td>Veranstalter:</td><td>1 (integrierter Bestandteil eines zweisprachigen Radios)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke La Broye, La Sarine, La Glâne, La Veveyse, La Gruyère (FR), Payerne und Avenches (VD); Agglomeration Freiburg; Bezirk See westlich der Linie Muntelier – Barberêche</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Freiburg, Autobahn A12 Düdingen –Châtel-St-Denis</td></tr>
-<tr><td colspan="2">8. Region Freiburg (deutschsprachiges Programm)</td></tr>
-<tr><td>Veranstalter:</td><td>1 (integraler Bestandteil eines zweisprachigen Radios)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke La Sarine, See und Sense; Autobahn A 12 Thörishaus – Bern-Forsthaus, Autobahn A1 Kerzers – Bern-Forsthaus</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Freiburg; Gemeinden Murten und Kerzers; Autobahn A1 Murten – Bern-Brünnen, Autobahn A12 Freiburg – Thörishaus</td></tr>
-<tr><td colspan="2">9. Region Biel</td></tr>
-<tr><td>Veranstalter:</td><td>1 (zwei parallele Programme in deutscher und französischer Sprache)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Agglomerationen Biel und Grenchen; Bezirke Nidau, Büren, Aarberg (ohne Gemeinde Meikirch), Neuenstadt und Erlach; Gemeinden Kerzers und Fräschels</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Biel; Gemeinde Lyss; Strecke Biel – Neuenstadt</td></tr>
-<tr><td colspan="2">10. Region Bern</td></tr>
-<tr><td>Veranstalter:</td><td>2</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Bern, Fraubrunnen, Konolfingen, Seftigen, Schwarzenburg und Laupen; Gemeinde Meikirch; Autobahn A1 Bern – Koppigen, Autobahn A6 Bern – Thun-Nord</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Bern</td></tr>
-<tr><td colspan="2">11. Region Bern-Stadt</td></tr>
-<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Bern und Fraubrunnen; Gemeinden Meikirch, Frauenkappelen und Kehrsatz; Autobahn A1 Bern – Koppigen, Autobahn A 6 Bern – Thun-Nord</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Bern nordöstlich bis Münchenbuchsee und Schönbühl, südlich bis Köniz/Kehrsatz</td></tr>
-<tr><td colspan="2">12. Region Berner Oberland</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Thun, Niedersimmental, Obersimmental, Saanen, Frutigen, Interlaken und Oberhasli; Autobahn A6 Thun – Bern-Ostring, Gürbetal bis Belp</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Thun und Interlaken, Gemeinden rund um den Thuner- und Brienzersee; Gemeinden Saanen, Gstaad, Schönried, Zweisimmen, Lenk, Adelboden, Frutigen, Kandersteg, Lauterbrunnen, Wengen, Mürren, Grindelwald und Meiringen</td></tr>
-<tr><td colspan="2">13. Region Emmental</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Fraubrunnen, Burgdorf, Trachselwald, Konolfingen, Signau und Entlebuch; Bezirke Wangen und Aarwangen südlich der Kantonsstrasse Herzogenbuchsee – Langenthal; südlicher Teil des Bezirks Willisau, begrenzt durch die Kantonsstrasse Huttwil – Ettiswil; Gemeinde Wolhusen; Autobahn A6/A1 Thun-Nord – Bern-Wankdorf – Schönbühl sowie die östlich davon liegenden Gemeinden im Bezirk Bern</td></tr>
-<tr><td>Kernzone:</td><td>Bezirke Entlebuch, Signau und Trachselwald; Gemeinden Rohrbach, Burgdorf und Oberburg; Strecke Signau – Oberdiessbach</td></tr>
-<tr><td colspan="2">14. Region Solothurn-Olten</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Solothurn ohne Bezirke Thierstein und Dorneck; Bezirke Wangen a. A. und Büren (ohne Gemeinden süd- westlich von Büren a. A.); Bezirke Aarwangen und Fraubrunnen nördlich der Linie Langenthal – Fraubrunnen; Gemeinden Aarau, Aarburg, Rothrist, Oftringen und Zofingen; Autobahn A1 Bern-Wankdorf – Suhr</td></tr>
-<tr><td>Kernzone:</td><td>Jurasüdfuss von Grenchen bis Olten; Gemeinden Herzogenbuchsee, Langenthal, Aarburg, Rothrist, Oftringen und Zofingen; Autobahn A1 Oftringen – Rüdtligen</td></tr>
-<tr><td colspan="2">15. Region Aargau</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Aargau; Bezirke Gösgen, Olten (SO) und Dietikon (ZH); Raum Zürich-Höngg/Altstetten; Strecke Sursee – Zofingen</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Aarau, Lenzburg, Wohlen, Baden –Brugg und Olten – Zofingen (ohne Gemeinden westlich der Linie Trimbach – Rothrist); Gemeinden im Limmattal von Neuenhof bis Spreitenbach; Autobahn A3 von der Verzweigung Birrfeld bis Stein AG</td></tr>
-<tr><td colspan="2">16. Region Aargau-Mitte</td></tr>
-<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Agglomerationen Aarau, Lenzburg, Baden –Brugg und Olten – Zofingen (ohne Gemeinden westlich der Linie Trimbach – Rothrist); Autobahn A1 Aarburg – Wettingen/Baden; Strecke Lenzburg – Wohlen</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Aarau, Lenzburg, Baden – Brugg und Olten – Zofingen (ohne Gemeinden westlich der Linie Trimbach – Rothrist); Autobahn A1 Aarburg – Wettingen/Baden</td></tr>
-<tr><td colspan="2">17. Region Basel</td></tr>
-<tr><td>Veranstalter:</td><td>2</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Basel-Stadt und Basel-Landschaft; Bezirke Dorneck, Thierstein (SO), Rheinfelden und Laufenburg (AG)</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Basel, südlich bis Aesch, östlich bis Rheinfelden; Gemeinden Liestal, Sissach und Gelterkinden; Autobahn A 2 Basel bis und mit Belchentunnel</td></tr>
-<tr><td colspan="2">18. Region Basel-Stadt</td></tr>
-<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet</td><td>Agglomeration Basel ohne Gemeinden südlich der Linie Dornach – Liestal; ohne Gemeinden östlich der Linie Rheinfelden – Gelterkinden; Autobahn A 2 Basel bis und mit Belchentunnel</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Basel, südlich bis Aesch, südöstlich bis Liestal, östlich bis Kaiseraugst</td></tr>
-<tr><td colspan="2">19. Region Innerschweiz West</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Luzern, Ob- und Nidwalden und Zug; Agglomeration Schwyz; Bezirke Küssnacht a. R. und Gersau (SZ); Gemeinden Arth, Lauerz und Steinerberg; Autobahn A2 Beckenried – Altdorf, Strecke Brunnen – Altdorf</td></tr>
-<tr><td>Kernzone:</td><td>Kanton Zug; Agglomerationen Luzern und Schwyz; Autobahn A2 Dagmersellen – Altdorf; Strecken Brunnen – Altdorf, Hergiswil – Brünigpass, Stans – Sarnen, Stans – Engelberg</td></tr>
-<tr><td colspan="2">20. Region Luzern</td></tr>
-<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Agglomeration Luzern; Kanton Obwalden (ohne Gemeinde Lungern)</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Luzern</td></tr>
-<tr><td colspan="2">21. Region Innerschweiz Nord</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Zug, Nidwalden und Schwyz (ohne Bezirke Höfe und March); Ämter Luzern, Willisau, Sursee und Hochdorf (LU); Bezirke Affoltern (ZH) und Muri (AG); Gemeinde Engelberg; Autobahn A2 Beckenried – Altdorf; Strecken Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Sihlbrugg – Adliswil</td></tr>
-<tr><td>Kernzone:</td><td>Kanton Zug; Ämter Luzern und Hochdorf; Bezirke Affoltern, Küssnacht a. R. und Einsiedeln; Agglomeration Schwyz; Autobahn A2 Dagmersellen – Altdorf; Strecken Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Stans – Wolfenschiessen</td></tr>
-<tr><td colspan="2">22. Region Innerschweiz Süd</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Zug, Schwyz, Glarus, Uri; Nidwalden und Obwalden; Ämter Luzern, Sursee, Willisau und Hochdorf (LU); Wahlkreis See-Gaster (SG)</td></tr>
-<tr><td>Kernzone:</td><td>Kantone Zug und Schwyz; Amt Luzern; Gemeinde Glarus; Autobahn A2 von Luzern bis und mit Gotthardtunnel; Strecken Brunnen – Altdorf, Hergiswil – Giswil, Stans – Sarnen, Stans – Wolfenschiessen, Ziegelbrücke – Linthal, Schwanden – Elm</td></tr>
-<tr><td colspan="2">23. Region Zürich-Glarus</td></tr>
-<tr><td>Veranstalter:</td><td>3</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Zürich und Glarus; Bezirke Höfe und March (SZ); Wahlkreis See-Gaster; Autobahn A1 Zürich – Neuenhof; südliches Freiamt zwischen Bünzen und Auw</td></tr>
-<tr><td>Kernzone:</td><td>Bezirke Zürich, Dietikon, Horgen, Meilen, Uster und Pfäffikon; Bezirke Bülach und Dielsdorf südlich der Linie Steinmaur – Neerach – Teufen; Gemeinden Winterthur, Rapperswil-Jona und Glarus, Autobahn A3/A53 Wollerau – Tuggen – Ziegelbrücke, Strecke Ziegelbrücke – Linthal</td></tr>
-<tr><td colspan="2">24. Region Zürich</td></tr>
-<tr><td>Veranstalter:</td><td>2</td></tr>
-<tr><td>Konzession 1:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Konzession 2:</td><td>komplementäres, nicht gewinnorientiertes Programm mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Zürich, Dietikon, Dielsdorf (ohne Gemeinden nördlich der Linie Otelfingen – Steinmaur – Neerach), Bülach (ohne Gemeinden nördlich von Hochfelden und Bülach bzw. nordöstlich der Linie Bülach – Winkel – Nürensdorf), Pfäffikon (nur Gemeinden Lindau und Effretikon-Illnau), Uster, Meilen (ohne Gemeinden südöstlich von Meilen), Horgen (ohne Gemeinden südöstlich von Hirzel und Horgen) und Affoltern (ohne Gemeinden südlich der Linie Affoltern – Aeugst); Limmattal bis Neuenhof; Autobahn A1 Zürich – Neuenhof</td></tr>
-<tr><td>Kernzone:</td><td>Bezirke Zürich (sowie die umliegenden Gemeinden begrenzt durch Rümlang, Kloten, Bassersdorf, Lindau, Effretikon), Dietikon, Meilen (ohne Gemeinden südöstlich von Meilen), Horgen (ohne Gemeinden südöstlich von Hirzel und Horgen) und Affoltern (ohne Gemeinden südlich der Linie Affoltern – Aeugst); Limmattal bis Neuenhof</td></tr>
-<tr><td colspan="2">25. Region Stadt Zürich</td></tr>
-<tr><td>Veranstalter:</td><td>1 Jugendradio</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Stadt Zürich, Limmattal zwischen Schlieren und Neuenhof</td></tr>
-<tr><td>Kernzone:</td><td>Stadt Zürich</td></tr>
-<tr><td colspan="2">26. Region Winterthur</td></tr>
-<tr><td>Veranstalter</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirk Winterthur</td></tr>
-<tr><td>Kernzone:</td><td>Stadt Winterthur</td></tr>
-<tr><td colspan="2">27. Region Schaffhausen</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Schaffhausen; Bezirke Diessenhofen (TG) und Andelfingen (ZH); Gemeinden nördlich von Eglisau; Strecke Rheinklingen – Eschenz; Autobahn A4 Andelfingen – Winterthur-Wülflingen</td></tr>
-<tr><td>Kernzone:</td><td>Agglomeration Schaffhausen; Bezirk Diessenhofen; Strecke Rheinklingen – Eschenz; Autobahn A4 Schaffhausen – Winterthur-Wülflingen</td></tr>
-<tr><td colspan="2">28. Region Stadt Schaffhausen</td></tr>
-<tr><td>Veranstalter</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Agglomeration Schaffhausen</td></tr>
-<tr><td>Kernzone:</td><td>Stadt Schaffhausen</td></tr>
-<tr><td colspan="2">29. Region Ostschweiz West</td></tr>
-<tr><td>Veranstalter</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für die bedienten Regionen in den Kantonen Zürich/Schaffhausen, Thurgau sowie St. Gallen Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen.</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Thurgau; Bezirke Winterthur, Bülach (ohne Gemeinden nördlich der Linie Eglisau – Glattfelden), Andelfingen, Pfäffikon, Uster und Hinwil (ZH); Wahlkreise Toggenburg, St. Gallen, Wil, Rorschach, See-Gaster (SG); Agglomeration Schaffhausen; Stadt Zürich</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Winterthur, Frauenfeld und Kreuzlingen; Bezirke Pfäffikon, Bülach (ohne Gemeinden nördlich der Linie Eglisau – Glattfelden), Uster (ZH), Münchwilen (TG); Wahlkreis Wil (SG); Gemeinden Weinfelden, Amriswil, Bischofszell, Arbon und Romanshorn; Strecken Winterthur – Andelfingen, Frauenfeld – Kreuzlingen, Frauenfeld – Amriswil, Weinfelden – Kreuzlingen – Amriswil</td></tr>
-<tr><td colspan="2">30. Region Ostschweiz Ost</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag</td></tr>
-<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für das Rheintal Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieses Teilgebietes beziehen.</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton St. Gallen; Halbkantone Appenzell; Bezirke Arbon, Bischofszell (TG) und Landquart (GR); Kreise Seewis und Schiers (GR); Strecke Walenstadt – Weesen – Amden</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen St. Gallen und Arbon-Rorschach; Wahlkreise Sarganserland, Werdenberg und Rheintal; Strecke St. Gallen – Appenzell; Gemeinden am linken Ufer des Walensees</td></tr>
-<tr><td colspan="2">31. Region Stadt St. Gallen</td></tr>
-<tr><td>Veranstalter:</td><td>1 (komplementäres, nicht gewinnorientiertes Programm)</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Auflage:</td><td>der Veranstalter wird konzessionsrechtlich verpflichtet, einen besonderen Beitrag zur Ausbildung von Medienschaffenden nach Art. 33 Abs. 2 RTVV zu leisten.</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Stadt St. Gallen</td></tr>
-<tr><td>Kernzone:</td><td>Stadt St. Gallen</td></tr>
-<tr><td colspan="2">32. Region Südostschweiz</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Auflagen:</td><td>a. der Veranstalter wird konzessionsrechtlich verpflichtet, täglich für die Bezirke Maloja, Bernina und Inn Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen; b. der Veranstalter wird konzessionsrechtlich verpflichtet, einen bestimmten Mindestanteil von Sendungen in rätoromanischer und italienischer Sprache zu verbreiten sowie die Zusammenarbeit mit den sprachlich- kulturellen Organisationen Lia Rumantscha und Pro Grigioni Italiano zu pflegen.</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Graubünden und Glarus (ohne Gemeinde Bilten); Autobahn A 13 Landquart – Sargans, Autobahn A3 Sargans – Walenstadt – Walensee</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Chur und St. Moritz; Surselva von Disentis bis Tamins; Hinterrheintal von Thusis bis Tamins; Gemeinden Langwies, Arosa, Klosters, Davos, Lenzerheide, Zernez, Scuol, Tarasp, Samnaun, Poschiavo und Glarus; Strecken Ardez – Ramosch und Tschierv – Müstair</td></tr>
-<tr><td colspan="2">33. Region Sopraceneri</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Sopraceneri, Bezirke Lugano und Moesa (GR); Autobahn A2 Lugano – Chiasso</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Locarno und Bellinzona; Gemeinden rund um den Lago Maggiore bis Landesgrenze; Autobahn A2 Airolo – Monte Ceneri</td></tr>
-<tr><td colspan="2">34. Region Sottoceneri</td></tr>
-<tr><td>Veranstalter:</td><td>1</td></tr>
-<tr><td>Konzession:</td><td>mit Leistungsauftrag und Abgabenanteil</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Sottoceneri; Agglomerationen Locarno und Bellinzona; Autobahn A2 Airolo – Bellinzona</td></tr>
-<tr><td>Kernzone:</td><td>Agglomerationen Lugano und Chiasso-Mendrisio; Autobahn A2 Monte Ceneri – Chiasso</td></tr>
+<tr><th></th><th>Region</th><th>Versorgungsgebiet</th></tr>
+<tr><td>a.</td><td>Chablais</td><td>Kanton Wallis: Bezirke Monthey und Saint- Maurice Kanton Waadt: Bezirke Aigle und Riviera-Pays d’Enhaut</td></tr>
+<tr><td>b.</td><td>Unterwallis</td><td>Kanton Wallis: Bezirke Saint-Maurice, Martinach, Entremont, Ering, Gundis, Sitten und Siders</td></tr>
+<tr><td>c.</td><td>Oberwallis</td><td>Kanton Wallis: Bezirke Leuk, Visp, Raron, Brig, Goms, Siders und Sitten</td></tr>
+<tr><td>d.</td><td>Neuenburg</td><td>Kanton Neuenburg</td></tr>
+<tr><td>e.</td><td>Jura</td><td>Kanton Jura</td></tr>
+<tr><td>f.</td><td>Biel/Bienne – Berner Jura</td><td>Kanton Bern: Verwaltungskreise Biel/Bienne und Berner Jura</td></tr>
+<tr><td></td><td>Auflage:</td><td>Das Programm wird in französischer Sprache verbreitet.</td></tr>
+<tr><td>g.</td><td>Biel/Bienne – Seeland</td><td>Kanton Bern: Verwaltungsregion Seeland Kanton Solothurn: Agglomeration Grenchen</td></tr>
+<tr><td></td><td>Auflage:</td><td>Das Programm wird in deutscher Sprache verbreitet.</td></tr>
+<tr><td>h.</td><td>Freiburg/Fribourg</td><td>Kanton Freiburg Kanton Waadt: Bezirk Broye-Vully</td></tr>
+<tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, ein deutschsprachiges Programm für den deutschsprachigen Teil des Versorgungsgebiets sowie ein französischsprachiges Programm für den französischsprachigen Teil des Versorgungsgebiets zu veranstalten.</td></tr>
+<tr><td>i.</td><td>Berner Oberland</td><td>Kanton Bern: Verwaltungsregion Oberland</td></tr>
+<tr><td>j.</td><td>Emmental-Oberaargau</td><td>Kanton Bern: Verwaltungsregion Emmental-Oberaargau und Verwaltungskreis Bern-Mittelland östlich bzw. nördlich der Autobahnen A6 und A1</td></tr>
+<tr><td>k.</td><td>Zentralschweiz</td><td>Kanton Luzern Kanton Nidwalden Kanton Obwalden Kanton Schwyz Kanton Uri Kanton Zug Kanton Glarus</td></tr>
+<tr><td>l.</td><td>Schaffhausen</td><td>Kanton Schaffhausen Kanton Zürich: Bezirk Andelfingen und Bezirk Bülach nördlich des Rheins Kanton Thurgau: nordwestlicher Teil des Bezirks Frauenfeld bis Wagenhausen</td></tr>
+<tr><td>m.</td><td>Südostschweiz – Glarus</td><td>Kanton Graubünden Kanton Glarus Kanton St. Gallen: Wahlkreise Sarganserland und Werdenberg</td></tr>
+<tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, einen bestimmten Mindestanteil von Sendungen in rätoromanischer und italienischer Sprache zu verbreiten.</td></tr>
+<tr><td>n.</td><td>Sopraceneri</td><td>Kanton Tessin Kanton Graubünden: Bezirk Moesa</td></tr>
+<tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, in seinem Programm den publizistischen Schwerpunkt im Sopraceneri zu setzen.</td></tr>
+<tr><td>o.</td><td>Sottoceneri</td><td>Kanton Tessin</td></tr>
+<tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, in seinem Programm den publizistischen Schwerpunkt im Sottoceneri zu setzen.</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+### 4.2 Komplementäre nicht gewinnorientierte Lokalradios
+
+Je eine Konzession für die Veranstaltung eines komplementären nicht gewinnorientierten Radioprogramms mit Leistungsauftrag und Abgabenanteil und Verbreitung über DAB+ wird in den folgenden Versorgungsgebieten erteilt:
+
+<table>
+<tr><th></th><th>Region</th><th>Versorgungsgebiet</th></tr>
+<tr><td>a.</td><td>Genf</td><td>Kanton Genf Kanton Waadt: Bezirk Nyon</td></tr>
+<tr><td>b.</td><td>Bern</td><td>Kanton Bern: Verwaltungsregion Bern-Mittelland</td></tr>
+<tr><td>c.</td><td>Aargau-Mitte</td><td>Kanton Aargau: Bezirke Zofingen, Olten, Gösgen, Aarau, Brugg, Agglomerationen Lenzburg und Baden-Brugg</td></tr>
+<tr><td>d.</td><td>Basel</td><td>Kantone Basel-Stadt und Basel-Land: Agglomeration Basel</td></tr>
+<tr><td>e.</td><td>Luzern</td><td>Kanton Luzern: Agglomeration Luzern Kanton Schwyz: Bezirk Küssnacht Kanton Obwalden: Gemeinden Alpnach und Sarnen</td></tr>
+<tr><td>f.</td><td>Zürich</td><td>Kanton Zürich: Agglomerationshauptkern Zürich, Bezirke Dielsdorf und Bülach je ohne die Gemeinden nördlich der Linie Embrach-Dielsdorf</td></tr>
+<tr><td>g.</td><td>Winterthur</td><td>Kanton Zürich: Bezirke Winterthur und Pfäffikon</td></tr>
+<tr><td>h.</td><td>Schaffhausen</td><td>Kanton Schaffhausen: Agglomeration Schaffhausen</td></tr>
+<tr><td>i.</td><td>St. Gallen</td><td>Kanton St. Gallen: Agglomerationshauptkern St. Gallen</td></tr>
+<tr><td>j.</td><td>Lugano</td><td>Kanton Tessin: Agglomeration Lugano</td></tr>
+</table>
+
+Anhang 2[^t-2]
 
 (Art. 38 Bst. b)
 
-## Regionale Fernsehveranstalter mit Abgabenanteil; Versorgungsgebiete
+## Verbreitungsart und Versorgungsgebiete für Regionalfernsehveranstalter mit Leistungsauftrag und Abgabenanteil
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Juli 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Bereinigt gemäss Ziff. II der V vom 15. Juni 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)), der V vom 5. Nov. 2014 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)) und Ziff. I (Ersatz von Ausdrücken) der V vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)).
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 4. Juli 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Fassung gemäss Ziff. II der V vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
-### 1 Allgemeine Verbreitungsgrundsätze
+### 1 Verbreitungsart
 
-Die Verbreitung der Programme von Fernsehveranstaltern mit Abgabenanteil erfolgt über Leitungen nach Artikel 59 Absatz 1 Buchstabe b RTVG. In den in Ziffer 2 ausdrücklich vermerkten Fällen erfolgt die Verbreitung ausserdem nach Artikel 53 Buchstabe b RTVG drahtlos-terrestrisch im digitalen DVB-T-Standard (Digital Video Broadcasting – Terrestrial).
+Die Verbreitung der regionalen Fernsehprogramme mit Leistungsauftrag und Abgabenanteil erfolgt über Leitungen nach Artikel 59 Absatz 1 Buchstabe b RTVG.
 
 ### 2 Versorgungsgebiete
 
-Konzessionen werden an Fernsehveranstalter mit Abgabenanteil in folgenden Versorgungsgebieten erteilt:
+Je eine Konzession für die Veranstaltung eines regionalen Fernsehprogramms mit Leistungsauftrag und Abgabenanteil wird für die folgenden Versorgungsgebiete erteilt:
 
 <table>
-<tr><td colspan="2">1. Region Genf</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Genf, Bezirk Nyon (VD)</td></tr>
-<tr><td>Verbreitung:</td><td>über Leitungen und digital drahtlos-terrestrisch</td></tr>
-<tr><td colspan="2">2. Region Waadt – Freiburg</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Waadt und Freiburg; Bezirk Monthey (VS); Gemeinde Céligny (GE)</td></tr>
-<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, für den Kanton Freiburg Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieses Teilgebietes beziehen.</td></tr>
-<tr><td colspan="2">3. Region Wallis</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Wallis, Bezirk Aigle (VD)</td></tr>
-<tr><td>Verbreitung:</td><td>über Leitungen und digital drahtlos-terrestrisch</td></tr>
-<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, je für den deutsch- und den französischsprachigen Teil des Versorgungsgebietes Informationsleistungen zu er- bringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten des Teilgebietes beziehen. Die Programme sind im entsprechenden Teilgebiet zu produzieren.</td></tr>
-<tr><td colspan="2">4. Region Arc Jurassien</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Jura und Neuenburg; Bezirke La Neuveville, Courtelary, Moutier (BE), Grandson und Yverdon (VD)</td></tr>
-<tr><td colspan="2">5. Region Bern</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Bern (ohne Bezirke La Neuveville, Courtelary und Moutier); Bezirke Solothurn, Lebern, Wasseramt; Bucheggberg (SO), See, Sense, Greyerz, Saane und La Broye (FR), Avenches und Payerne (VD); Amt Entlebuch (LU)</td></tr>
-<tr><td colspan="2">6. Region Biel/Bienne</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Bezirke Biel/Bienne, Nidau, Erlach, Aarberg, Büren, La Neuveville, Courtelary, Moutier (BE), See (FR); Agglomeration Grenchen</td></tr>
-<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, je für den deutsch- und den französischsprachigen Teil des Versorgungsgebietes Informationsleistungen zu erbringen, welche sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten des Teilgebietes beziehen.</td></tr>
-<tr><td colspan="2">7. Region Basel</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Basel-Stadt und Basel-Landschaft; Bezirke Rheinfelden und Laufenburg (AG), Thierstein und Dorneck (SO)</td></tr>
-<tr><td colspan="2">8. Region Aargau – Solothurn</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Aargau und Solothurn; Bezirke Wangen, Aarwangen (BE), Willisau, Sursee (LU), Dielsdorf und Dietikon (ZH)</td></tr>
-<tr><td colspan="2">9. Region Innerschweiz</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Luzern, Zug, Ob- und Nidwalden, Schwyz und Uri; Bezirke Zofingen, Kulm, Muri (AG) und Affoltern (ZH)</td></tr>
-<tr><td colspan="2">10. Region Zürich-Nordostschweiz</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Zürich, Schaffhausen und Thurgau; Wahlkreis Wil (SG)</td></tr>
-<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, für die Kantone Schaffhausen und Thurgau Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieser Teilgebiete beziehen.</td></tr>
-<tr><td colspan="2">11. Region Ostschweiz</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone St. Gallen, Appenzell Ausserrhoden und Appenzell Innerrhoden; Bezirke Arbon und Bischofszell (TG)</td></tr>
-<tr><td colspan="2">12. Region Südostschweiz</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kantone Graubünden und Glarus; Wahlkreise Sarganserland und Werdenberg (SG)</td></tr>
-<tr><td>Auflagen:</td><td>Der Veranstalter wird konzessionsrechtlich verpflichtet, für den Kanton Glarus Informationsleistungen zu erbringen, die sich auf die politischen, wirtschaftlichen und kulturellen Besonderheiten dieses Teilgebietes beziehen.</td></tr>
-<tr><td>Verbreitung:</td><td>über Leitungen und drahtlos-terrestrisch</td></tr>
-<tr><td colspan="2">13. Region Tessin</td></tr>
-<tr><td>Versorgungsgebiet:</td><td>Kanton Tessin; Bezirk Moesa (GR)</td></tr>
-<tr><td>Verbreitung:</td><td>über Leitungen und drahtlos-terrestrisch</td></tr>
+<tr><th></th><th>Region</th><th>Versorgungsgebiet</th></tr>
+<tr><td>a.</td><td>Genf</td><td>Kanton Genf Kanton Waadt: Bezirk Nyon</td></tr>
+<tr><td>b.</td><td>Waadt – Freiburg</td><td>Kanton Waadt Kanton Freiburg Kanton Wallis: Bezirk Monthey</td></tr>
+<tr><td>c.</td><td>Wallis</td><td>Kanton Wallis Kanton Waadt: Bezirk Aigle</td></tr>
+<tr><td></td><td>Auflagen:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, je für den deutsch- und den französischsprachigen Teil des Versorgungsgebiets Informationsleistungen zu verbreiten. Die Programme sind im entsprechenden Teilgebiet zu produzieren.</td></tr>
+<tr><td>d.</td><td>Arc Jurassien</td><td>Kanton Neuenburg Kanton Jura Kanton Waadt: Agglomeration Yverdon-les-Bains und Bezirk Jura-Nord vaudois nördlich der A9</td></tr>
+<tr><td>e.</td><td>Bern</td><td>Kanton Bern, ohne Verwaltungsregion Berner Jura Kanton Freiburg: Bezirke See und Sense</td></tr>
+<tr><td>f.</td><td>Biel/Bienne</td><td>Kanton Bern: Verwaltungsregionen Seeland und Berner Jura Kanton Solothurn: Agglomeration Grenchen Kanton Freiburg: Bezirk See</td></tr>
+<tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, je für den deutsch- und den französischsprachigen Teil des Versorgungsgebiets Informationsleistungen zu verbreiten.</td></tr>
+<tr><td>g.</td><td>Basel</td><td>Kanton Basel-Stadt Kanton Basel-Land Kanton Solothurn: Bezirke Thierstein und Dorneck Kanton Aargau: Bezirke Rheinfelden und Laufenburg</td></tr>
+<tr><td>h.</td><td>Aargau – Solothurn</td><td>Kanton Aargau Kanton Solothurn Kanton Bern: Verwaltungskreis Oberaargau</td></tr>
+<tr><td>i.</td><td>Zentralschweiz</td><td>Kanton Luzern Kanton Zug Kanton Obwalden Kanton Nidwalden Kanton Uri Kanton Schwyz</td></tr>
+<tr><td>j.</td><td>Zürich – Nordostschweiz</td><td>Kanton Zürich Kanton Schaffhausen Kanton Thurgau</td></tr>
+<tr><td>k.</td><td>Ostschweiz</td><td>Kanton St. Gallen Kanton Appenzell I. Rh. Kanton Appenzell A. Rh. Kanton Thurgau</td></tr>
+<tr><td>l.</td><td>Südostschweiz – Glarus</td><td>Kanton Graubünden Kanton Glarus Kanton St. Gallen: Wahlkreise Sargans und Werdenberg</td></tr>
+<tr><td></td><td>Auflage:</td><td>Der Veranstalter wird mit der Konzession verpflichtet, einen bestimmten Mindestanteil von Sendungen in rätoromanischer und italienischer Sprache zu verbreiten.</td></tr>
+<tr><td>m.</td><td>Tessin</td><td>Kanton Tessin Kanton Graubünden: Bezirk Moesa</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 52 Abs. 2)
 

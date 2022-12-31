@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Radio and Television (RTVO)
 short: RTVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/151"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/151/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2007-151-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/151/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVO)
 
-of 9 March 2007 (Status as of 1 January 2022)
+of 9 March 2007 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -757,7 +757,7 @@ OFCOM may:
 
 <sup>6</sup> OFCOM shall verify the reported gross revenues and issue the decision concerning the fee. OFCOM may commission external experts to carry out this verification.
 
-### Chapter 2 Service Agreement on the Swiss Broadcasting Corporation (SRG SSR) Offering for Foreign Countries****
+### Chapter 2 Service Agreement on the Swiss Broadcasting Corporation (SRG SSR) Offering for Foreign Countries
 
 [^tit2-chap2-1]
 
@@ -779,7 +779,9 @@ The agreement between the Federal Council and SRG SSR on the editorial offering 
 
 <sup>1</sup> A complementary non-profit-oriented radio programme service must differentiate itself thematically, culturally and musically from other licensed radio programme services that can be received in the same coverage area. In particular, a non-profit-oriented programme service must take account of the linguistic and cultural minorities in the coverage area.
 
-<sup>2</sup> In a non-profit-oriented radio programme service, the broadcasting of advertising is not permitted, with the exception of self-advertising, which predominantly serves to build audience loyalty, including references to media partnerships as defined in Article 22 paragraph 6. The licence may provide for the broadcasting of advertising for broadcasters which make a special contribution to the training of media workers in a coverage area with fewer than 75,000 inhabitants aged 15 or more.
+<sup>2</sup> In a non-profit-oriented radio programme service, the broadcasting of advertising is not permitted, with the exception of self-advertising, which predominantly serves to build audience loyalty, including references to media partnerships as defined in Article 22 paragraph 6.[^36-1]
+
+[^36-1]: Amended by No I of the O of 16 Sept. 2022, in force since 1 Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
 #### Art. 37
 
@@ -904,7 +906,7 @@ The public invitation to tender for a licence must include at least:
 
 [^44-1]: Amended by No I of the O of 12 March 2010, in force since 1 Apr. 2010 ([AS 2010 965](https://fedlex.data.admin.ch/eli/oc/2010/156)).
 
-### Chapter 4**** Service Agreement with a News Agency of National Importance
+### Chapter 4 Service Agreement with a News Agency of National Importance
 
 [^tit2-chap4-1]
 
@@ -1141,7 +1143,7 @@ The maximum number of programme services to be broadcast by wire free of charge 
 
 <sup>4</sup> The telecommunications service provider may not use data that it has acquired in connection with the implementation of paragraph 3 for other purposes and in particular may not forward it to other business units, subsidiary companies, partnership undertakings and third parties.
 
-## Title 4**** Radio and Television Fee
+## Title 4 Radio and Television Fee
 
 [^tit4-1]
 
@@ -1692,7 +1694,7 @@ Otherwise, the provisions of the General Fees Ordinance of 8 September 2004[^80-
 
 ## Title 8 Final Provisions
 
-### Chapter 1 Implementation and Repeal of Previous Law****
+### Chapter 1 Implementation and Repeal of Previous Law
 
 [^tit8-chap1-1]
 
@@ -1725,7 +1727,7 @@ The Ordinance of 6 October 1997[^81-1] on Radio and Television is repealed.
 
 [^81-1]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [1999 1845](https://fedlex.data.admin.ch/eli/oc/1999/302); [2001 1680](https://fedlex.data.admin.ch/eli/oc/2001/258); [2002 1915](https://fedlex.data.admin.ch/eli/oc/2002/284)Art. 20 [3482](https://fedlex.data.admin.ch/eli/oc/2002/516); [2003 4789](https://fedlex.data.admin.ch/eli/oc/2003/701); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 959](https://fedlex.data.admin.ch/eli/oc/2006/172), [4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
-### Chapter 2**** Transitional Provisions to the Amendment of 25 May 2016
+### Chapter 2 Transitional Provisions to the Amendment of 25 May 2016
 
 [^tit8-chap2-1]
 
@@ -1990,7 +1992,7 @@ Devices suitable for receiving radio or television programme services are:
 
 <sup>4</sup> The collection agency shall notify OFCOM of households newly liable to pay the fee and of their members.
 
-### Chapter 2*a***** Transitional Provision to the Amendment of 25 October 2017
+### Chapter 2*a* Transitional Provision to the Amendment of 25 October 2017
 
 [^tit8-chap2a-1]
 
@@ -2004,6 +2006,18 @@ Devices suitable for receiving radio or television programme services are:
 
 <sup>2</sup> DETEC may amend an existing licence without compensation as per the date that the original licence would have expired or refuse to extend the licence if this is necessary due to a change in the factual or legal circumstances.
 
+### Chapter 2*b* Transitional Provision to the Amendment of 16 September 2022
+
+[^tit8-chap2b-1]
+
+[^tit8-chap2b-1]: Inserted by No I of the O of 16 Sept. 2022, in force since 1 Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
+
+**Art. 96**b
+
+The previous versions of Annexes 1 and 2[^tit8-chap2b-2] apply until 31 December 2024 to licences in accordance with Articles 38 and 43 RTVA in existence at the time the Amendment comes into force.
+
+[^tit8-chap2b-2]: [AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438); [2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420); [2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660); [2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346); [2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)
+
 ### Chapter 3 Commencement
 
 ### (Art. 114 para. 2 RTVA)
@@ -2016,23 +2030,23 @@ This Ordinance comes into force on 1 April 2007.
 
 [^97-1]: Originally Art. 83.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 38 let. a)
 
 (Not available in English)
 
-[^t-1]: Inserted by No II para. 1 of the O of 4 July 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Revised by No II of the O of 5 Nov. 2014 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)), 25 May 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346)), und 25 Oct. 2017, in force since 1 Dec. 2017 ([AS 2017 5931](https://fedlex.data.admin.ch/eli/oc/2017/649)).
+[^t-1]: Inserted by No II para. 1 of the O of 4 July 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Amended by No II of the O of 16 Sept. 2022, in force since 1 Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 38 let. b)
 
 (Not available in English)
 
-[^t-2]: Inserted by No II para. 1 of the O of 4 July 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Revised by No II of the O of 15 June 2012 ([AS 2012 3667](https://fedlex.data.admin.ch/eli/oc/2012/420)), of 5 Nov. 2014 ([AS 2014 3849](https://fedlex.data.admin.ch/eli/oc/2014/660)) and by No I of the O of 25 May 2016, in force since 1 July 2016 ([AS 2016 2151](https://fedlex.data.admin.ch/eli/oc/2016/346))
+[^t-2]: Inserted by No II para. 1 of the O of 4 July 2007 ([AS 2007 3555](https://fedlex.data.admin.ch/eli/oc/2007/438)). Amended by No II of the O of 16 Sept. 2022, in force since 1 Jan. 2023 ([AS 2022 526](https://fedlex.data.admin.ch/eli/oc/2022/526)).
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 52 para. 2)
 
