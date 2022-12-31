@@ -3,11 +3,11 @@ sr: "910.184"
 title: FOAG Ordinance of 11 November 2020 on Organic Farming
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/954"
 language: en
-version: 2022-03-15
+version: 2023-01-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20220315/en/xml/fedlex-data-admin-ch-eli-cc-2020-954-20220315-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20220315/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/954/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2020-954-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/954/20220315/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
-of 11 November 2020 (Status as of 15 March 2022)
+of 11 November 2020 (Status as of 1 January 2023)
 
 The Federal Office for Agriculture (FOAG),
 
-based on Articles 23 para. 1, 23a para. 2 and 24 para. 6 of the organic farming ordinance of 22 September 1997*[^ingress-1]*,
+based on Articles 23 para. 1, 23a para. 2 and 24 para. 6 of the organic farming ordinance of 22 September 1997[^ingress-1],
 
 ordains:
 
@@ -44,19 +44,19 @@ The certification bodies and inspection authorities recognised under Article 23a
 
 This Ordinance comes into force on 1 January 2021.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 1)
 
 ## List of countries
 
-[^t-1]: Revised by No I of the FOAG O of 6 May 2021 ([AS 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)) und of 10 Feb. 2022, in force since 15 March 2022 ([AS 2022 92](https://fedlex.data.admin.ch/eli/oc/2022/92)).
+[^t-1]: Revised by No I of the FOAG O of 6 May 2021 ([AS 2021 272](https://fedlex.data.admin.ch/eli/oc/2021/272)), of 10 Feb. 2022 ([AS 2022 92](https://fedlex.data.admin.ch/eli/oc/2022/92)) and of 27 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 665](https://fedlex.data.admin.ch/eli/oc/2022/665)).
 
 ## 1 Introduction
 
 ### 1.1 Product categories
 
-The product categories shall be identified by the following codes in accordance with Regulation (EC) 1235/2008[^annex1-lvl1-lvl11-1]:
+The product categories shall be identified by the following codes in accordance with Annex I to the Commission Implementing Regulation (EU) 2021/2325[^annex1-lvl1-lvl11-1]:
 
 <table>
 <tr><th>Product category</th><th>Code</th></tr>
@@ -69,7 +69,7 @@ The product categories shall be identified by the following codes in accordance 
 <tr><td colspan="2"><sup>a</sup> In accordance with Article 1 paragraph 3 of the Organic Farming Ordinance, aquaculture is not included within the scope of this provision.</td></tr>
 </table>
 
-[^annex1-lvl1-lvl11-1]: Commission Regulation (EC) No 1235/2008 of 8 December 20081 laying down detailed rules for implementation of Council Regulation (EC) No 834/2007 as regards the arrangements for imports of organic products from third countries, OJ. L 334 of 12.12.2008, p. 25; last amended by Implementing Regulation (EU) 2020/479, OJ L 102 of 2.4.2020, p. 4.
+[^annex1-lvl1-lvl11-1]: Commission Implementing Regulation (EU) 2021/2325 of 16 December 2021 establishing, pursuant to Regulation (EU) 2018/848 of the European Parliament and of the Council, the list of third countries and the list of control authorities and control bodies that have been recognised under Article 33(2) and (3) of Council Regulation (EC) No 834/2007 for the purpose of importing organic products into the Union, last amended by OJ L 465 of 29.12.2021, p. 8.
 
 ### 1.2 Exclusion from recognition of products during the conversion period
 
@@ -107,14 +107,14 @@ Servicio Nacional de Sanidad y Calidad Agroalimentaria SENASA, www.senasa.gov.ar
 <table>
 <tr><th>Code number</th><th>Name</th><th>Internet address</th></tr>
 <tr><td>AR-BIO-001</td><td>Food Safety S.A.</td><td>www.foodsafety.com.ar</td></tr>
-<tr><td>AR-BIO-002</td><td>Instituto Argentino para la Certificación y Promoción de Productos Agropecuarios Orgánicos S.A. (Argencert)</td><td>www.argencert.com</td></tr>
+<tr><td>AR-BIO-002</td><td>Ecocert Argentina SA</td><td>www.ecocert.com/er-AR</td></tr>
 <tr><td>AR-BIO-003</td><td>Letis S.A.</td><td>www.letis.org</td></tr>
 <tr><td>AR-BIO-004</td><td>Organización Internacional Agropecuaria (OIA)</td><td>www.oia.com.ar</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2022.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### Australia
 
@@ -149,11 +149,12 @@ Department of Agriculture and Water Resources, www.agriculture.gov.au/export/con
 <tr><td>AU-BIO-004</td><td>NASAA Certified Organic (NCO)</td><td>www.nasaa.com.au</td></tr>
 <tr><td>AU-BIO-005</td><td>Organic Food Chain Pty Ltd. (OFC)</td><td>www.organicfoodchain.com.au</td></tr>
 <tr><td>AU-BIO-006</td><td>AUS-QUAL Pty Ltd.</td><td>www.ausqual.com.au</td></tr>
+<tr><td>AU-BIO-007</td><td>Southern Cross Certified Australia Pty Ltd.</td><td>www.sxcertified.com.au</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### Chile
 
@@ -194,7 +195,7 @@ Servicio Agricola y Ganadero (SAG), Ministry of Agriculture, www.sag.cl/ambitos-
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 [^annex1-lvl2-lvlu3-1]: The document is available in English at: www.blw.admin.ch &gt; Instrumente &gt; Biolandbau.
 
@@ -228,14 +229,12 @@ Servicio Fitosanitario del Estado, Ministerio de Agricultura y Ganadería, www.s
 <tr><th>Code number</th><th>Name</th><th>Internet address</th></tr>
 <tr><td>CR-BIO-002</td><td>Kiwa BCS Costa Rica Limitada</td><td>www.kiwa.lat</td></tr>
 <tr><td>CR-BIO-003</td><td>Eco-LOGICA</td><td>www.eco-logica.com</td></tr>
-<tr><td>CR-BIO-004</td><td>Control Union Perú</td><td>www.cuperu.com</td></tr>
-<tr><td>CR-BIO-006</td><td>PrimusLabs.com CR S.A.</td><td>www.primusauditingops.com</td></tr>
 <tr><td>CR-BIO-007</td><td>Primus Auditing Operations de Costa Rica S.A.</td><td>www.primusauditingops.com</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### EU Member States
 
@@ -250,13 +249,13 @@ Servicio Fitosanitario del Estado, Ministerio de Agricultura y Ganadería, www.s
 <tr><td>Vegetative propagating material and seeds for cultivation</td><td>F</td><td></td></tr>
 </table>
 
-\2. Origin:
+\2. Origin
 
 Products of categories A and F, which were produced in the EU, and products of categories D and E, which were processed in the EU with organic ingredients, which were produced in the EU or imported into the EU:
 
-- a. from Switzerland; or
-- b. from a third country recognised under Article 33 (2), Article 38 (d) and Article 40 of Regulation (EC) No 834/2007[^annex1-lvl2-lvlu5-1] in conjunction with Annex III of Regulation (EC) No 1235/2008, provided this recognition applies to the product in question; or
-- c. from a third country; the products must be certified by an inspection authority or inspection body recognised as equivalent by the EU in accordance with Article 33 (3) of Regulation (EC) No 834/2007 in conjunction with Annex IV of Regulation (EC) No 1235/2008, and this recognition must apply for the product category concerned and the geographical scope.
+- a. from Switzerland;
+- b. from a third country recognised under Article 46 of Regulation (EU) 2018/848[^annex1-lvl2-lvlu5-1] in conjunction with Annex I of Regulation (EU) 2021/2325, provided this recognition applies to the product in question; or
+- c. from a third country; products must be certified by an inspection authority or inspection body recognised as equivalent by the EU in accordance with Article 46 of Regulation (EU) 2018/848 in conjunction with Annex II of Regulation (EU) 2021/2325, and this recognition must apply for the product category concerned and the geographical scope.
 
 \3. Production standards:
 
@@ -272,9 +271,9 @@ Inspection bodies or authorities laid down in Article 27 of Regulation (EC) No 8
 
 \6. Body issuing certificate of inspection: No certificate of inspection is required.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
-[^annex1-lvl2-lvlu5-1]: Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91, OJ. L 189 of 20.7.2007, p. 1; last amended by Regulation (EU) No 517/2013, OJ L 158 of 10.6.2013, p. 1.
+[^annex1-lvl2-lvlu5-1]: Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, amended by OJ L 150 of 14.6.2018, p. 1.; last amended by Delegated Regulation (EU) 2022/474, OJ L 98 of 25.3.2022, p. 1.
 
 ### India
 
@@ -308,15 +307,12 @@ Agricultural and Processed Food Products Export Development Authority (APEDA), w
 <tr><td>IN-ORG-006</td><td>Food Cert India Pvt. Ltd.</td><td>www.foodcert.in</td></tr>
 <tr><td>IN-ORG-007</td><td>IMO Control Private Limited</td><td>www.imocontrol.in</td></tr>
 <tr><td></td><td>Indian Organic Certification Agency (Indocert)</td><td>www.indocert.org</td></tr>
-<tr><td>IN-ORG-009</td><td>ISCOP (Indian Society for Certification of Organic Products)</td><td>www.iscoporganiccertification.org</td></tr>
 <tr><td>IN-ORG-011</td><td>Natural Organic Certification Agro Pvt. Ltd.</td><td>www.nocaagro.com</td></tr>
 <tr><td>IN-ORG-013</td><td>SGS India Pvt. Ltd.</td><td>www.sgsgroup.in</td></tr>
 <tr><td>IN-ORG-014</td><td>Uttarakhand State Organic Certification Agency (USOCA)</td><td>www.organicuttarakhand.org/ certification.html</td></tr>
-<tr><td>IN-ORG-015</td><td>Vedic Organic Certification Agency</td><td>www.vediccertification.com</td></tr>
 <tr><td>IN-ORG-016</td><td>Rajasthan Organic Certification Agency (ROCA)</td><td>www.krishi.rajasthan.gov.in</td></tr>
 <tr><td>IN-ORG-017</td><td>Chhattisgarh Certification Society (CGCERT)</td><td>www.cgcert.com</td></tr>
 <tr><td>IN-ORG-018</td><td>Tamil Nadu Organic Certification Department (TNOCD)</td><td>www.tnocd.net</td></tr>
-<tr><td>IN-ORG-020</td><td>Intertek India Pvt. Ltd.</td><td>www.intertek.com</td></tr>
 <tr><td>IN-ORG-021</td><td>Madhya Pradesh State Organic Certification Agency (MPSOCA)</td><td>www.mpkrishi.org</td></tr>
 <tr><td>IN-ORG-023</td><td>Faircert Certification Services Pvt. Ltd.</td><td>www.faircert.com</td></tr>
 <tr><td>IN-ORG-024</td><td>Odisha State Organic Certification Agency</td><td>www.ossopca.nic.in</td></tr>
@@ -334,7 +330,7 @@ Agricultural and Processed Food Products Export Development Authority (APEDA), w
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### Israel
 
@@ -345,7 +341,7 @@ Agricultural and Processed Food Products Export Development Authority (APEDA), w
 <tr><td>Unprocessed crop products</td><td>A</td><td></td></tr>
 <tr><td>Processed agricultural products for use as food <sup>a</sup></td><td>D</td><td>With the exception of livestock products, or their processing products.</td></tr>
 <tr><td>Vegetative propagating material and seeds for cultivation</td><td>F</td><td></td></tr>
-<tr><td><sup>a</sup> Wine/Yeast/Wine, yeast not included Wine, yeast not included Wine, yeast not included Wine, yeast not included</td><td></td><td></td></tr>
+<tr><td colspan="3"><sup>a</sup> Wine/Yeast/Wine, yeast not included</td></tr>
 </table>
 
 \2. Origin:
@@ -375,7 +371,7 @@ Plant Protection and Inspection Services (PPIS), www.ppis.moag.gov.il
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### Japan
 
@@ -435,7 +431,6 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-027</td><td>NPO Kumamoto Organic Agriculture Association</td><td>www.kumayuken.org/jas/ certification/index.html</td></tr>
 <tr><td>JP-BIO-028</td><td>Hokkaido Organic Promoters Association</td><td>www.hosk.jp/CCP.html</td></tr>
 <tr><td>JP-BIO-029</td><td>Association of organic agriculture certification Kochi corporation NPO</td><td>www8.ocn.ne.jp/~koaa/jisseki.html</td></tr>
-<tr><td>JP-BIO-030</td><td>LIFE Co., Ltd.</td><td>www.life-silver.com/jas/"</td></tr>
 <tr><td>JP-BIO-031</td><td>Wakayama Organic Certified Association</td><td>www.vaw.ne.jp/aso/woca</td></tr>
 <tr><td>JP-BIO-032</td><td>Shimane Organic Agriculture Association</td><td>www.shimane-yuki.or.jp/ index.html</td></tr>
 <tr><td>JP-BIO-034</td><td>International Nature Farming Research Center</td><td>www.infrc.or.jp</td></tr>
@@ -446,12 +441,11 @@ Food Manufacture Affairs Division, Food Industry Affairs Bureau, Ministry of Agr
 <tr><td>JP-BIO-039</td><td>Japan Grain Inspection Association</td><td>www.kokken.or.jp</td></tr>
 <tr><td>JP-BIO-040</td><td>Okayama Agriculture Devlopment Institute</td><td>www.nokaiken.or.jp</td></tr>
 <tr><td>JP-BIO-041</td><td>Japan Agricultural Standard Certification Alliance</td><td>http://jascert.or.hp/</td></tr>
-<tr><td>JP-BIO-042</td><td>Agriculture and Forestry Research Foundation of Nagano Prefecture</td><td>www.iijan.or.jp/nourin/ authorization/index.php</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### Canada
 
@@ -488,7 +482,6 @@ Canadian Food Inspection Agency (CFIA), www.inspection.gc.ca
 <tr><td>CA-ORG-005</td><td>Consorzio per il Controllo dei Prodotti Biologici Società a responsabilità limitata (CCPB SRL)</td><td>www.ccpb.it</td></tr>
 <tr><td>CA-ORG-006</td><td>Ecocert Canada</td><td>www.ecocertcanada.com</td></tr>
 <tr><td>CA-ORG-007</td><td>Fraser Valley Organic Producers Association (FVOPA)</td><td>www.fvopa.ca</td></tr>
-<tr><td>CA-ORG-008</td><td>Global Organic Alliance</td><td>www.goa-online.org</td></tr>
 <tr><td>CA-ORG-009</td><td>International Certification Services Incorporated (ICS)</td><td>www.ics-intl.com</td></tr>
 <tr><td>CA-ORG-010</td><td>LETIS SA</td><td>www.letis.org</td></tr>
 <tr><td>CA-ORG-013</td><td>Organic Crop Improvement Association (OCIA)</td><td>www.ocia.org</td></tr>
@@ -503,7 +496,7 @@ Canadian Food Inspection Agency (CFIA), www.inspection.gc.ca
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### New Zealand
 
@@ -545,7 +538,7 @@ Ministry for Primary Industries (MPI), www.mpi.govt.nz/exporting/food/organics
 
 \6. Body issuing certificate of inspection: as specified in Number 4.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### Tunisia
 
@@ -584,7 +577,7 @@ Ministère de l’Agriculture, des Ressources Hydrauliques et de la Pêche, www.
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
 ### United States of America
 
@@ -615,25 +608,26 @@ United States Department of Agriculture (USDA), Agricultural Marketing Service (
 
 <table>
 <tr><th>Code number</th><th>Name</th><th>Internet address</th></tr>
-<tr><td>US-ORG-001</td><td>A Bee Organic</td><td>www.abeeorganic.com</td></tr>
-<tr><td>US-ORG-002</td><td>Agricultural Services</td><td>www.ascorganic.com</td></tr>
+<tr><td>US-ORG-001</td><td>Where Food Comes From Organic</td><td>www.wfcforganic.com</td></tr>
+<tr><td>US-ORG-002</td><td>Agricultural Services Certified Organic</td><td>www.ascorganic.com</td></tr>
 <tr><td>US-ORG-003</td><td>Baystate Organic Certifiers</td><td>www.baystateorganic.org</td></tr>
 <tr><td>US-ORG-004</td><td>Kiwa BCS Öko-Garantie GmbH</td><td>www.bcs-oeko.com</td></tr>
-<tr><td>US-ORG-005</td><td>BioAgriCert</td><td>www.bioagricert.org/English/ index.php</td></tr>
+<tr><td>US-ORG-005</td><td>BioAgriCert</td><td>www.bioagricert.org/English/</td></tr>
 <tr><td>US-ORG-006</td><td>CCOF Certification Services</td><td>www.ccof.org</td></tr>
 <tr><td>US-ORG-007</td><td>Colorado Department of Agriculture</td><td>www.colorado.gov</td></tr>
 <tr><td>US-ORG-008</td><td>Control Union Certifications</td><td>www.skalint.com</td></tr>
-<tr><td>US-ORG-009</td><td>Clemson University</td><td>www.clemson.edu/public/ regulatory/plant\_industry/ organic\_certification</td></tr>
+<tr><td>US-ORG-009</td><td>Departement of Plant Industry – Clemson University</td><td>www.clemson.edu/organic</td></tr>
 <tr><td>US-ORG-010</td><td>Ecocert S.A.</td><td>www.ecocert.com</td></tr>
 <tr><td>US-ORG-011</td><td>Georgia Crop Improvement Association, Inc.</td><td>www.certifiedseed.org</td></tr>
+<tr><td>US-ORG-013</td><td>Global Organic Alliance, Inc</td><td>www.goa-online.org</td></tr>
 <tr><td>US-ORG-015</td><td>Idaho State Department of Agriculture</td><td>www.agri.idaho.gov/ Categories/PlantsInsects/ Organic/indexOrganicHome. php</td></tr>
 <tr><td>US-ORG-016</td><td>Ecocert ICO, LLC</td><td>www.ecocertico.com</td></tr>
 <tr><td>US-ORG-017</td><td>International Certification Services, Inc.</td><td>www.ics-intl.com</td></tr>
-<tr><td>US-ORG-018</td><td>Iowa Department of Agriculture and Country Stewardship</td><td>www.agriculture.state.ia.us</td></tr>
+<tr><td>US-ORG-018</td><td>Iowa Department of Agriculture and Land Stewardship</td><td>www.iowaagriculture.gov</td></tr>
 <tr><td>US-ORG-019</td><td>Kentucky Department of Agriculture</td><td>www.kyagr.com/marketing/ plantmktg/organic/index.htm</td></tr>
 <tr><td>US-ORG-020</td><td>LACON GmbH</td><td>www.lacon-institut.com</td></tr>
 <tr><td>US-ORG-022</td><td>Marin Organic Certified Agriculture</td><td>www.marincounty.org/depts/ag/moca</td></tr>
-<tr><td>US-ORG-023</td><td>Maryland Department of Agriculture</td><td>www.mda.state.md.us/ md\_products/certified\_md\_ organic\_farms/index.php</td></tr>
+<tr><td>US-ORG-023</td><td>Maryland Department of Agriculture</td><td>http://mda.maryland.gov/</td></tr>
 <tr><td>US-ORG-024</td><td>Mayacert S.A.</td><td>www.mayacert.com</td></tr>
 <tr><td>US-ORG-025</td><td>Midwest Organic Services Association, Inc.</td><td>www.mosaorganic.org</td></tr>
 <tr><td>US-ORG-026</td><td>Minnesota Crop Improvement Association</td><td>www.mncia.org</td></tr>
@@ -642,13 +636,13 @@ United States Department of Agriculture (USDA), Agricultural Marketing Service (
 <tr><td>US-ORG-029</td><td>Monterey County Certified Organic</td><td>www.ag.co.monterey.ca.us/ pages/organics</td></tr>
 <tr><td>US-ORG-030</td><td>Natural Food Certifiers</td><td>www.nfccertification.com</td></tr>
 <tr><td>US-ORG-031</td><td>Nature’s International Certification Services</td><td>www.naturesinternational.com/</td></tr>
-<tr><td>US-ORG-033</td><td>New Hampshire Department of Agriculture, Division of Regulatory Services,</td><td>http://agriculture.nh.gov/ divisions/markets/ organic\_certification.htm</td></tr>
-<tr><td>US-ORG-034</td><td>New Jersey Department of Agriculture</td><td>www.state.nj.us/agriculture/</td></tr>
+<tr><td>US-ORG-033</td><td>New Hampshire Department of Agriculture, Division of Regulatory Services,</td><td>http://agriculture.nh.gov/</td></tr>
+<tr><td>US-ORG-034</td><td>New Jersey Department of Agriculture</td><td>www.nj.us/agriculture/division</td></tr>
 <tr><td>US-ORG-035</td><td>New Mexico Department of Agriculture, Organic Program</td><td>http://nmdaweb.nmsu.edu/ organics-program/ Organic%20Program.html</td></tr>
-<tr><td>US-ORG-036</td><td>NOFA—New York Certified Organic, LLC</td><td>www.nofany.org</td></tr>
+<tr><td>US-ORG-036</td><td>NOFA - New York Certified Organic, LLC</td><td>www.nofany.org</td></tr>
 <tr><td>US-ORG-037</td><td>Ohio Ecological Food and Farm Association</td><td>www.oeffa.org</td></tr>
-<tr><td>US-ORG-038</td><td>American International (AI)</td><td>www.americertorganic.com</td></tr>
-<tr><td>US-ORG-039</td><td>Oklahoma Department of Agriculture</td><td>www.oda.state.ok.us</td></tr>
+<tr><td>US-ORG-038</td><td>American International</td><td>www.americertorganic.com</td></tr>
+<tr><td>US-ORG-039</td><td>Oklahoma Department of Agriculture Food and Forestry</td><td>www.oda.state.ok.us</td></tr>
 <tr><td>US-ORG-040</td><td>OneCert</td><td>www.onecert.com</td></tr>
 <tr><td>US-ORG-041</td><td>Oregon Department of Agriculture</td><td>www.oregon.gov/ODA/CID</td></tr>
 <tr><td>US-ORG-042</td><td>Oregon Tilth Certified Organic</td><td>www.tilth.org</td></tr>
@@ -656,28 +650,37 @@ United States Department of Agriculture (USDA), Agricultural Marketing Service (
 <tr><td>US-ORG-044</td><td>Organic Crop Improvement Association</td><td>www.ocia.org</td></tr>
 <tr><td>US-ORG-046</td><td>Organizacion Internacional Agropecuraria</td><td>www.oia.com.ar</td></tr>
 <tr><td>US-ORG-047</td><td>Pennsylvania Certified Organic</td><td>www.paorganic.org</td></tr>
-<tr><td>US-ORG-048</td><td>Primuslabs.com</td><td>www.primuslabs.com</td></tr>
+<tr><td>US-ORG-048</td><td>Primus Auditing Operations</td><td>www.primusauditingops.com</td></tr>
 <tr><td>US-ORG-049</td><td>Pro-Cert Organic Systems, Ltd</td><td>www.pro-cert.org</td></tr>
 <tr><td>US-ORG-050</td><td>Quality Assurance International</td><td>www.qai-inc.com</td></tr>
 <tr><td>US-ORG-051</td><td>Quality Certification Services</td><td>www.QCSinfo.org</td></tr>
 <tr><td>US-ORG-052</td><td>Rhode Island Department of Environmental Management</td><td>www.dem.ri.gov/programs/ bnatres/agricult/orgcert.htm</td></tr>
-<tr><td>US-ORG-053</td><td>Scientific Certification Systems</td><td>www.SCScertified.com</td></tr>
-<tr><td>US-ORG-055</td><td>Texas Department of Agriculture</td><td>www.agr.state.tx.us</td></tr>
+<tr><td>US-ORG-053</td><td>SCS Global Services, Inc.</td><td>www.scs.globalservices.com</td></tr>
+<tr><td>US-ORG-055</td><td>Texas Department of Agriculture</td><td>www.texasagriculture.gov/</td></tr>
 <tr><td>US-ORG-056</td><td>Utah Department of Agriculture</td><td>http://ag.utah.gov/divisions/ plant/organic/index.html</td></tr>
 <tr><td>US-ORG-057</td><td>Vermont Organic Farmers, LLC</td><td>www.nofavt.org</td></tr>
-<tr><td>US-ORG-058</td><td>Washington State Department of Agriculture</td><td>http://agr.wa.gov/FoodAnimal?Organic/default.htm</td></tr>
-<tr><td>US-ORG-059</td><td>Yolo County Department of Agriculture</td><td>www.yolocounty.org/ Index.aspx?page=501</td></tr>
+<tr><td>US-ORG-058</td><td>Washington State Department of Agriculture</td><td>http://agr.wa.gov/FoodAnimal/Organic</td></tr>
+<tr><td>US-ORG-059</td><td>Yolo County Department of Agriculture</td><td>www.yolocounty.org/general-governement</td></tr>
+<tr><td>US-ORG-062</td><td>CERES</td><td>http://www.ceres-cert.com/</td></tr>
+<tr><td>US-ORG-063</td><td>Eco-Logica S.A</td><td>http://www.eco-logica-com/</td></tr>
+<tr><td>US-ORG-064</td><td>Food Safety S.A</td><td>http://www.foodsafety.com.ar/</td></tr>
+<tr><td>US-ORG-065</td><td>IBD Certifications</td><td>http://www.ibd.com.br/</td></tr>
+<tr><td>US-ORG-066</td><td>Istituto per la Certificazione Etica e Ambientale (ICEA)</td><td>http://www.icea.info/</td></tr>
+<tr><td>US-ORG-067</td><td>OnMark Certification Services</td><td>http://onmarkcertification.com/</td></tr>
+<tr><td>US-ORG-068</td><td>Perry Johnson Registrar Food Safety, Inc.</td><td>http://www.pjrfsi.com/</td></tr>
 </table>
 
 \6. Body issuing certificate of inspection: as specified in Number 5.
 
-\7. Time limit for inclusion: by 31 December 2025.
+\7. Time limit for inclusion: by 31 December 2026.
 
-Annex 2
+Annex 2[^t-2]
 
 (Art. 2)
 
 ## List of recognised certification bodies and inspection authorities outside the list of countries
+
+[^t-2]: Revised by No I of the FOAG O of 27 Oct. 2022, in force since 1 Jan. 2023 ([AS 2022 665](https://fedlex.data.admin.ch/eli/oc/2022/665)).
 
 ### Biodynamic Association Certification
 
@@ -691,6 +694,22 @@ Annex 2
 <tr><th>Country</th><th>Code number</th><th colspan="2">Product category</th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><th></th><th></th><th>A</th><th colspan="2">B</th><th>C</th><th>D</th><th>E</th><th>F</th></tr>
 <tr><td>United Kingdom</td><td>GB-ORG-06</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td>X</td><td>X</td></tr>
+</table>
+
+\4. Exceptions: Conversion products.
+
+### Global Trust Certification Ltd
+
+\1. Address: 3rd Floor Block 3, Quayside Business Park, Mill Street Dundalk, Co. Louth Republic of Ireland, A91 WNHI
+
+\2. Internet address: https://www.saiglobal.com
+
+\3. Countries, Code numbers and Product categories:
+
+<table>
+<tr><th>Country</th><th>Code number</th><th colspan="2">Product category</th><th></th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th></tr>
+<tr><td>United Kingdom</td><td>GB-ORG-16</td><td>X</td><td>X</td><td>–</td><td>X</td><td>X</td><td>X</td></tr>
 </table>
 
 \4. Exceptions: Conversion products.
