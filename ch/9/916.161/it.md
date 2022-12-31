@@ -4,11 +4,11 @@ title: "Ordinanza del 12 maggio 2010 concernente l'immissione sul mercato di pro
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-340-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20220701/it"
 
 (Ordinanza sui prodotti fitosanitari, OPF)
 
-del 12 maggio 2010 (Stato 1° luglio 2022)
+del 12 maggio 2010 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -173,7 +173,7 @@ Ai fini della presente ordinanza si intende per:
 [^3a-2]: Nuova espressione giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)). Di detta mod. è tenuto conto in tutto il testo, eccettuato nell’art. 75.
 [^3a-3]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
-## Capitolo 2: Principi attivi, sostanze di base, fitoprotettori, sinergizzanti e coformulanti****
+## Capitolo 2: Principi attivi, sostanze di base, fitoprotettori, sinergizzanti e coformulanti
 
 [^chap2-1]
 
@@ -337,7 +337,7 @@ Il fascicolo sintetico include quanto segue:
 [^10-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^10-4]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
-### Sezione 1*a*:**** Criteri e procedura di approvazione delle sostanze di base
+### Sezione 1*a*: Criteri e procedura di approvazione delle sostanze di base
 
 [^chap2-sec1a-1]
 
@@ -512,13 +512,15 @@ Fatto salvo l’articolo 34, un prodotto fitosanitario è autorizzato soltanto s
 
 <sup>1bis</sup> In aggiunta ai requisiti di cui al capoverso 1, un prodotto fitosanitario deve adempiere le prescrizioni per il livello minimo di purezza del principio attivo e per la natura e il tenore massimo di certe impurezze conformemente al regolamento di esecuzione (UE) n. 540/2011[^17-4].[^17-5]
 
-<sup>2</sup> Il richiedente deve dimostrare che i requisiti previsti dal capoverso 1 lettere a–h sono soddisfatti.
+<sup>1ter</sup> Un prodotto fitosanitario è autorizzato per un uso non professionale solo se, oltre ai capoversi 1 e 1<sup>bis</sup>, sono adempiuti anche i requisiti di cui all’allegato 12 numero 1.[^17-6]
+
+<sup>2</sup> Il richiedente deve dimostrare che i requisiti di cui al capoverso 1 lettere a–h sono soddisfatti e, nel caso dei prodotti fitosanitari per uso non professionale, anche i requisiti di cui all’allegato 12 numero 1; sono escluse dall’obbligo della prova le parti dei requisiti che riguardano la classificazione e l’etichettatura del prodotto.[^17-7]
 
 <sup>3</sup> Il rispetto dei requisiti di cui al capoverso 1 lettera b e lettere d–h, è stabilito mediante test e analisi ufficiali, o ufficialmente riconosciuti, effettuati in condizioni agricole, fitosanitarie e ambientali pertinenti rispetto all’impiego del prodotto fitosanitario in questione e rappresentative delle condizioni d’uso.
 
 <sup>4</sup> Riguardo al capoverso 1 lettera f, l il servizio d’omologazione può definire metodi armonizzati tenendo conto, a tal fine, di quelli adottati dall’UE.
 
-<sup>5</sup> I principi uniformi di valutazione e autorizzazione dei prodotti fitosanitari sono fissati nell’allegato 9 e precisano i criteri di cui al capoverso 1. D’intesa con il DEFR e il Dipartimento federale dellʼambiente, dei trasporti, dellʼenergia e delle comunicazioni, il DFI può adattare l’allegato 9. Per quanto riguarda la partecipazione dei dipartimenti si applicano gli articoli 62*a* e 62*b* LOGA[^17-6].[^17-7]
+<sup>5</sup> I principi uniformi di valutazione e autorizzazione dei prodotti fitosanitari sono fissati nell’allegato 9 e precisano i criteri di cui al capoverso 1. D’intesa con il DEFR e il Dipartimento federale dellʼambiente, dei trasporti, dellʼenergia e delle comunicazioni, il DFI può adattare l’allegato 9. Per quanto riguarda la partecipazione dei dipartimenti si applicano gli articoli 62*a* e 62*b* LOGA[^17-8].[^17-9]
 
 <sup>6</sup> In fase di valutazione dei prodotti fitosanitari bisogna considerare l’interazione tra il principio attivo, i fitoprotettori, i sinergizzanti e i coformulanti.
 
@@ -526,7 +528,7 @@ Fatto salvo l’articolo 34, un prodotto fitosanitario è autorizzato soltanto s
 
 Un prodotto fitosanitario, inoltre, è autorizzato solo se:
 
-- a. non contiene organismi considerati organismi alloctoni invasivi ai sensi dell’articolo 3 lettera h OEDA[^17-8] o che figurano nell’allegato 2 OEDA;
+- a. non contiene organismi considerati organismi alloctoni invasivi ai sensi dell’articolo 3 lettera h OEDA[^17-10] o che figurano nell’allegato 2 OEDA;
 - b. l’identità e le proprietà biologiche dei microrganismi e macrorganismi in esso contenuti sono sufficientemente conosciuti;
 - c. non contiene una miscela di principi attivi per combattere gruppi diversi di organismi nocivi, quali insetti, funghi o malerbe.
 
@@ -543,9 +545,11 @@ Un prodotto fitosanitario, inoltre, è autorizzato solo se:
 [^17-3]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
 [^17-4]: Cfr. nota ad art. 10 cpv. 1.
 [^17-5]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
-[^17-6]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^17-7]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^17-8]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^17-6]: Introdotto dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
+[^17-7]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
+[^17-8]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^17-9]: Nuovo testo giusta il n. I dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^17-10]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 
 #### Art. 18
 
@@ -997,7 +1001,7 @@ Il servizio d’omologazione decide lo stralcio di un prodotto fitosanitario dal
 
 <sup>6</sup> Il servizio d’omologazione informa le autorità esecutive cantonali delle omologazioni accordate per far fronte a situazioni d’emergenza.
 
-### Sezione 6*a*:**** Omologazione di prodotti fitosanitari contenenti esclusivamente sostanze di base approvate
+### Sezione 6*a*: Omologazione di prodotti fitosanitari contenenti esclusivamente sostanze di base approvate
 
 [^chap3-sec6a-1]
 
@@ -1480,12 +1484,12 @@ I prodotti fitosanitari devono essere conservati secondo gli articoli 57 e 62 OP
 
 <sup>3</sup> I prodotti fitosanitari la cui etichettatura contiene un elemento di cui all’allegato 5 numero 1.2 lettera a o b oppure numero 2.2 lettera a o b OPChim non possono essere forniti a utilizzatori privati. Per la fornitura a titolo professionale a utilizzatori professionali si applicano per analogia gli articoli 65 capoverso 1 e 66 capoverso 1 lettera a OPChim.[^64-3]
 
-<sup>4</sup> Possono essere forniti a utilizzatori non professionali esclusivamente i prodotti fitosanitari autorizzati per uso non professionale.[^64-4]
+<sup>4</sup> Possono essere forniti a utilizzatori non professionali esclusivamente i prodotti fitosanitari autorizzati per un uso non professionale. I coadiuvanti di cui all’articolo 2 capoverso 3 lettera d non possono essere consegnati ad utilizzatori non professionali.[^64-4]
 
 [^64-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
 [^64-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 [^64-3]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
-[^64-4]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
+[^64-4]: Introdotto dal n. I dell’O dell’11 nov. 2020 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)). Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
 
 #### Art. 65
 
@@ -1518,7 +1522,9 @@ Se il servizio d’omologazione o un servizio di valutazione ritiene che il pote
 
 <sup>3</sup> Il servizio d’omologazione pubblica e tiene aggiornato l’elenco dei prodotti fitosanitari che non possono essere impiegati nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee.[^68-4]
 
-<sup>4</sup> L’uso di prodotti fitosanitari la cui etichettatura contiene un elemento di cui all’allegato 5 numero 1.1 o numero 1.2 lettera a o b oppure numero 2.1 o numero 2.2 lettera a o b OPChim[^68-5] è vietato nelle zone d’insediamento su superfici quali parchi, giardini, impianti sportivi e per il tempo libero, cortili delle scuole o parchi giochi, nonché nelle immediate vicinanze di infrastrutture sanitarie. Il divieto non si applica all’uso su superfici di produzione agricola in zone d’insediamento.[^68-6]
+<sup>4</sup> Un prodotto fitosanitario secondo l’articolo 2 capoverso 1 o un coadiuvante secondo l’articolo 2 capoverso 3 lettera d può essere impiegato da utilizzatori professionali nelle zone d’insediamento su superfici quali parchi, giardini, impianti sportivi e per il tempo libero, cortili delle scuole o parchi giochi nonché nelle immediate vicinanze di infrastrutture sanitarie solo se non soddisfa nessuno dei criteri indicati nell’allegato 12 numero 2.[^68-5]
+
+<sup>4bis</sup> La restrizione di cui al capoverso 4 non si applica all’uso su superfici di produzione agricola in zone d’insediamento.[^68-6]
 
 <sup>5</sup> Le autorità cantonali possono concedere deroghe alle disposizioni di cui al capoverso 4 qualora non esistano altri mezzi di lotta. In tal caso, si prendono misure adeguate per garantire la protezione di coloro che frequentano le zone rispettive utilizzate dal pubblico.
 
@@ -1530,8 +1536,8 @@ Se il servizio d’omologazione o un servizio di valutazione ritiene che il pote
 [^68-2]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
 [^68-3]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 [^68-4]: Nuovo testo giusta l’all. n. 4 dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4791](https://fedlex.data.admin.ch/eli/oc/2015/786)).
-[^68-5]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^68-6]: Nuovo testo giusta il n. I dell’O del 20 mag. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1781](https://fedlex.data.admin.ch/eli/oc/2015/349)).
+[^68-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
+[^68-6]: Introdotto dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
 [^68-7]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 #### Art. 69
@@ -1959,14 +1965,13 @@ I prodotti fitosanitari contenenti principi attivi stralciati dall’allegato 1 
 
 #### Art. 86h
 
-**Disposizione transitoria della modifica del 31 maggio 2022**[^86h-1]
+**Disposizione transitoria concernente la modifica del 16 novembre 2022**[^86h-1]
 
-I prodotti fitosanitari contenenti il principio attivo indoxacarb possono:
+<sup>1</sup> I prodotti fitosanitari destinati a un uso non professionale e autorizzati prima del 16 novembre 2022 sono riesaminati entro il 31 dicembre 2024 secondo i criteri di cui all’articolo 17 capoverso 1<sup>ter</sup>. Dopo un’eventuale revoca dell’autorizzazione, le scorte dei prodotti interessati possono essere immesse sul mercato ancora per un periodo di dodici mesi e, successivamente, utilizzate ancora per altri dodici mesi.
 
-- a. essere immessi sul mercato sino al 1° ottobre 2022;
-- b. essere utilizzati sino al 1° aprile 2023.
+<sup>2</sup> Le autorizzazioni dei coadiuvanti destinati a un uso non professionale che sono state rilasciate prima del 16 novembre 2022 verranno revocate entro il 31 dicembre 2024. Le scorte esistenti possono essere ancora immesse sul mercato durante un periodo di dodici mesi dalla revoca e in seguito utilizzate ancora per altri dodici mesi.
 
-[^86h-1]: Introdotto dal n. I dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)).
+[^86h-1]: Introdotto dal n. I dell’O del DFI del 31 mag. 2022 ([RU 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)). Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
 
 ### Sezione 3: Entrata in vigore
 
@@ -1974,13 +1979,13 @@ I prodotti fitosanitari contenenti il principio attivo indoxacarb possono:
 
 La presente ordinanza entra in vigore il 1° luglio 2011.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5, 10, 10*b*, 10*e,* 17, 21, 23, 40*a*, 55*a*, 61, 72 e 86)
 
 ## Principi attivi approvati, la cui incorporazione nei prodotti fitosanitari è autorizzata
 
-[^t-1]: Aggiornato dal n. I dell’O del DEFR del 17 giu. 2011 ([RU 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), dal n. II cpv. 1 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), dai n. I delle O del DEFR dell’11 dic. 2012 ([RU 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), del 12 nov. 2014 ([RU 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), dal n. II delle O del DEFR 28 ott. 2015 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), del 28 ott. 2015 ([RU 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), dal n. I cpv. 1 dell’O del DEFR del 16 set. 2016 ([RU 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), dai n. I delle O del DEFR del 9 giu. 2017 ([RU 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), del 28 mag. 2018 ([RU 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), del 31 ott. 2018 ([RU 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), del 25 giu. 2019 ([RU 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), del 12 nov. 2019 ([RU 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), del 2 giu. 2020 ([RU 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), dal n. II dell’O DEFR del 17 mag. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), del 30 nov. 2021 ([RU 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)) e dal n. II dell’O del DFI del 31 mag. 2022, in vigore dal 1° lug. 2022 ([RU 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)).
+[^t-1]: Aggiornato dal n. I dell’O del DEFR del 17 giu. 2011 ([RU 2011 2927](https://fedlex.data.admin.ch/eli/oc/2011/381)), dal n. II cpv. 1 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)), dal n. I delle O del DEFR dell’11 dic. 2012 ([RU 2013 249](https://fedlex.data.admin.ch/eli/oc/2013/34)), del 12 nov. 2014 ([RU 2014 4215](https://fedlex.data.admin.ch/eli/oc/2014/703)), dal n. II delle O del DEFR 28 ott. 2015 ([RU 2015 4551](https://fedlex.data.admin.ch/eli/oc/2015/764)), del 28 ott. 2015 ([RU 2015 4555](https://fedlex.data.admin.ch/eli/oc/2015/765)), dal n. I cpv. 1 dell’O del DEFR del 16 set. 2016 ([RU 2016 3345](https://fedlex.data.admin.ch/eli/oc/2016/568)), dal n. I delle O del DEFR del 9 giu. 2017 ([RU 2017 3501](https://fedlex.data.admin.ch/eli/oc/2017/381)), del 28 mag. 2018 ([RU 2018 2377](https://fedlex.data.admin.ch/eli/oc/2018/341)), del 31 ott. 2018 ([RU 2018 4421](https://fedlex.data.admin.ch/eli/oc/2018/705)), del 25 giu. 2019 ([RU 2019 2091](https://fedlex.data.admin.ch/eli/oc/2019/383)), del 12 nov. 2019 ([RU 2019 4263](https://fedlex.data.admin.ch/eli/oc/2019/734)), del 2 giu. 2020 ([RU 2020 2165](https://fedlex.data.admin.ch/eli/oc/2020/427)), dal n. II dell’O DEFR del 17 mag. 2021 ([RU 2021 321](https://fedlex.data.admin.ch/eli/oc/2021/321)), del 30 nov. 2021 ([RU 2021 795](https://fedlex.data.admin.ch/eli/oc/2021/795)), dal n. II dell’O del DFI del 31 mag. 2022 ([RU 2022 338](https://fedlex.data.admin.ch/eli/oc/2022/338)) e dal n. I dell’O del DFI del 21 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 746](https://fedlex.data.admin.ch/eli/oc/2022/746)).
 
 ### Parte A: Sostanze chimiche
 
@@ -2024,7 +2029,6 @@ Allegato 1*[^t-1]*
 <tr><td>Azadiractina A</td><td>dimethyl (2aR,3S,4S,4aR,5S,7aS,8S,10R,10aS,10bR)-10-(acetyloxy)octahydro-3,5-dihydroxy-4-methyl-8-[[(2E)-2-methyl-1-oxo-2-butenyl]oxy]-4-[(1aR,2S,3aS,6aS,7S,7aS)-3a,6a,7,7a-tetrahydro-6a hydroxy-7a-methyl-2,7-methanofuro[2,3-b]oxireno[e]oxepin-1a(2H)-yl]-1H,7H-naphtho[1,8-bc:4,4a-c’]difuran-5,10a(8H)-dicarboxylate</td><td>11141-17-6</td><td>627</td><td>insetticida</td></tr>
 <tr><td>Azossistrobina</td><td>methyl (E)-2-{2[6-(2-cyanophenoxy)pyrimidin-4-yloxy]phenyl}-3-methoxyacrylate</td><td>131860-33-8</td><td>571</td><td>fungicida</td></tr>
 <tr><td>Beflubutamid</td><td>(RS)-N-benzyl-2-(α,α,α,4-tetrafluoro-m-tolyloxy)butyramide</td><td>113614-08-7</td><td>662</td><td>erbicida</td></tr>
-<tr><td>Bicarbonato di potassio</td><td>Potassium hydrogencarbonate</td><td>298-14-6</td><td>–</td><td>fungicida</td></tr>
 <tr><td>Benalaxil-M</td><td>methyl N-(phenylacetyl)-N-(2,6-xylyl)-D-alaninate</td><td>98243-83-5</td><td>766</td><td>fungicida</td></tr>
 <tr><td>Benoxacor</td><td>(±)-4-dichloroacetyl-3,4-dihydro-3-methyl-2H-1,4-benzoxamine</td><td>98730-04-2</td><td>‑</td><td>erbicida «safener»</td></tr>
 <tr><td>Bentazone</td><td>3-isopropyl-1H-2,1,3-benzothiadiazin-4(3H)-one 2,2-dioxide</td><td>25057-89-0</td><td>366</td><td>erbicida</td></tr>
@@ -2039,7 +2043,7 @@ Allegato 1*[^t-1]*
 <tr><td>Buprofezin</td><td>(Z)-2-tert-butylimino-3-isopropyl-5-phenyl-1,3,5-thiadiazinan-4-one</td><td>953030-84-7</td><td>681</td><td>insetticida</td></tr>
 <tr><td>Calcio-proesadione</td><td>calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate</td><td>127277-53-6</td><td>567.020</td><td>fitoregolatore</td></tr>
 <tr><td>Captano</td><td>N-(trichloromethylthio)cyclohex-4-ene-1,2-dicarboximide</td><td>133-06-2</td><td>40</td><td>fungicida</td></tr>
-<tr><td>Carbonato di calcio</td><td>calcium carbonate</td><td>471-34-1</td><td>‑</td><td>insetticida, repellente antiselvaggina</td></tr>
+<tr><td>Carbonato di calcio</td><td>calcium carbonate</td><td>471-34-1</td><td>843</td><td>insetticida, repellente antiselvaggina, sostanza a basso rischio</td></tr>
 <tr><td>Carfentrazone-etile</td><td>Ethyl 2-chloro-3-(2-chloro-4-fluoro-5-[4-(difluoromethyl)-4,5,dihydro-3-methyl-5-oxo-1H 1,2,4,triazol-1-yl]phenyl)propanoate</td><td>128639-02-1</td><td>587.202</td><td>erbicida</td></tr>
 <tr><td>Cerevisane</td><td></td><td></td><td>980</td><td>stimolatore di difese naturali, sostanza a basso rischio</td></tr>
 <tr><td>Chalcogran</td><td>2-Ethyl-1,6-dioxaspiro[4,4]nonan</td><td></td><td>‑</td><td>feromone</td></tr>
@@ -2065,6 +2069,7 @@ Allegato 1*[^t-1]*
 <tr><td>Copolimeri stirene-butilacrilati</td><td></td><td></td><td>‑</td><td>repellente antiselvaggina</td></tr>
 <tr><td>Copolimeri vinilici</td><td></td><td></td><td>‑</td><td>repellente antiselvaggina</td></tr>
 <tr><td>COS-OGA</td><td>Copolimero lineare di acidi α-1,4-D-galattopiranosiluronici e di acidi galattopiranosiluronici metilesterificati (da 9 a 20 residui) con copolimero lineare di 2-ammino-2-deossi-D-glucopiranosi con legame β-1,4 e di 2-acetamido-2-deossi-D-glucopiranosi (da 5 a 10 residui)</td><td></td><td>979</td><td>fungicida, sostanza a basso rischio</td></tr>
+<tr><td>Cyantraniliprole</td><td>3-bromo-1-(3-chloro-2-pyridyl)-4'-cyano-2'-methyl-6'-(methylcarbamoyl)pyrazole-5-carboxanilide</td><td>736994-63-1</td><td>998</td><td>insetticida</td></tr>
 <tr><td>Cyflufenamid</td><td>(Z)-N-[α-(cyclopropylmethoxyimino)-2,3-difluoro-6-(trifluoromethyl)benzyl]-2-phenylacetamide</td><td>180409-60-3</td><td>759</td><td>fungicida</td></tr>
 <tr><td>Daminozide</td><td>N-dimethylaminosuccinamic acid</td><td>1596-84-5</td><td>330</td><td>fitoregolatore</td></tr>
 <tr><td>Dazomet (DMTT)</td><td>3,5-dimethyl-1,3,5-thiadiazinane-2-thione</td><td>533-74-4</td><td>146</td><td>nematicida, fungicida, erbicida, insetticida</td></tr>
@@ -2114,7 +2119,7 @@ Allegato 1*[^t-1]*
 <tr><td>Fluazinam</td><td>3-chloro-N-(3-chloro-5-trifluoromethyl-2-pyridyl)-α,α,α-trifluoro-2,6-dinitro-p-toluidine</td><td>79622-59-6</td><td>521</td><td>fungicida</td></tr>
 <tr><td>Fludioxonil</td><td>4-(2,2-difluoro-1,3-benzodioxol-4-yl)pyrrole-3-carbonitrile</td><td>131341-86-1</td><td>522</td><td>fungicida</td></tr>
 <tr><td>Flufenacet</td><td>N-(4-fluoro-phenyl)-N-isopropyl-2-(5-trifluoro-methyl-[1,3,4]thiadiazol-2-yloxy)-acetamide</td><td>142459-58-3</td><td>588</td><td>erbicida</td></tr>
-<tr><td>Flumiossazina</td><td>7-fluoro-6-[(3,4,5,6-tetrahydro)phtalimido]-4- (2-propynyl)-1,4-benzoxazion-3(2H)-one</td><td>103361-09-7</td><td>578</td><td>erbicida</td></tr>
+<tr><td>Flumiossazina</td><td>N-(7-fluoro-3,4-dihydro-3-oxo-4-prop-2-ynyl-2H-1,4-benzoxazin-6-yl)cyclohex-1-ene-1,2-dicarboximide</td><td>103361-09-7</td><td>578</td><td>erbicida</td></tr>
 <tr><td>Fluopicolide</td><td>2,6-dichloro-N-[3-chloro-5-(trifluorométhyl)- 2-pyridylméthyl]benzamide</td><td>239110-15-7</td><td>787</td><td>fungicida</td></tr>
 <tr><td>Fluopyram</td><td>N-{2-[3-chloro-5-(trifluoromethyl)-2-pyridyl]ethyl}-á,á,á-trifluoro-o-toluamide</td><td>658066-35-4</td><td>807</td><td>fungicida</td></tr>
 <tr><td>Fluoxastrobin</td><td>(E)-{2-[6-(2-chlorophenoxy)-5-fluoropyrimidin-4-yloxy]phenyl}(5,6-dihydro-1,4,2-dioxazin-3-yl)methanone O-methyloxime</td><td>361377-29-9</td><td>746</td><td>fungicida</td></tr>
@@ -2133,9 +2138,10 @@ Allegato 1*[^t-1]*
 <tr><td>Glifosato</td><td>N-(phosphonomethyl)glycine</td><td>1071-83-6</td><td>284</td><td>erbicida</td></tr>
 <tr><td>Glifosato-trimesium</td><td>N-(Phosphonomethyl)-glycin-trimethylsulfoniumsalz</td><td>81591-81-3</td><td>284.114</td><td>erbicida</td></tr>
 <tr><td>Grasso di lana</td><td></td><td></td><td>‑</td><td>repellente antiselvaggina</td></tr>
-<tr><td>Grasso di pecora</td><td></td><td></td><td></td><td>repellente antiselvaggina</td></tr>
+<tr><td>Grasso di pecora</td><td>sheep fat</td><td>98999-15-6</td><td>919</td><td>repellente antiselvaggina, sostanza a basso rischio</td></tr>
 <tr><td>Halauxifen-methyl</td><td>4-amino-3-chloro-6-(4- chloro-2-fluoro-3-methoxyphenyl)pyridine-2-carboxylate di metile</td><td>943831-98-9</td><td>970.201</td><td>erbicida</td></tr>
 <tr><td>Hymexazol</td><td>5-methylisoxazol-3-ol</td><td>10004-44-1</td><td>528</td><td>disinfettante per semenza</td></tr>
+<tr><td>Idrogenocarbonato di potassio</td><td>potassium hydrogencarbonate</td><td>298-14-6</td><td>853</td><td>fungicida, insetticida, fitoregolatore, sostanza a basso rischio</td></tr>
 <tr><td>Idrossido di calcio (calce idrata, calce spenta)</td><td>Ca(OH)<sub>2</sub></td><td>1305-62-0</td><td>‑</td><td>pasta cicatrizzante</td></tr>
 <tr><td>Idrazide maleica</td><td>6-hydroxy-2H-pyridazine-3-one</td><td>123-33-1</td><td>310</td><td>fitoregolatore</td></tr>
 <tr><td>Imazalil</td><td>(±)-1-(β-allyloxy-2,4-dichlorophenylethyl)imidazole</td><td>35554-44-0</td><td>335</td><td>fungicida</td></tr>
@@ -2285,7 +2291,8 @@ Allegato 1*[^t-1]*
 <tr><th>Nome comune, numero d’identificazione</th><th>Descrizione</th><th>Organismo</th><th>Funzioni/condizioni specifiche e limitazioni</th></tr>
 <tr><td>Ampelomyces quisqualis – ceppo M10</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida</td></tr>
 <tr><td>Aureobasidium pullulans – ceppi DSM 14940, DSM 14941</td><td>Fungo antagonista</td><td>Funghi</td><td>battericida</td></tr>
-<tr><td>Bacillus amyloliquefaciens – ceppi QST 713, FZB24</td><td>Batterio antagonista</td><td>Batteri</td><td>battericida, fungicida</td></tr>
+<tr><td>Bacillus amyloliquefaciens – ceppo FZB24</td><td>Batterio antagonista</td><td>Batteri</td><td>battericida, fungicida, sostanza a basso rischio</td></tr>
+<tr><td>Bacillus amyloliquefaciens – ceppo QST 713</td><td>Batterio antagonista</td><td>Batteri</td><td>battericida, fungicida</td></tr>
 <tr><td>Bacillus amyloliquefaciens sp plantarum – ceppo D747</td><td>Batterio antagonista</td><td>Batteri</td><td>fungicida</td></tr>
 <tr><td>Bacillus firmus – ceppi I-1582, I-1583</td><td>Batterio patogeno</td><td>Batteri</td><td>nematocida</td></tr>
 <tr><td>Bacillus thuringiensis var. aizawai – ceppi GC-91, ABTS-1857</td><td>Batterio entomopatogeno</td><td>Batteri</td><td>insetticida</td></tr>
@@ -2294,13 +2301,14 @@ Allegato 1*[^t-1]*
 <tr><td>Bacillus thuringiensis var. tenebrionis – ceppi EG 2424, NB125, NB176</td><td>Batterio entomopatogeno</td><td>Batteri</td><td>insetticida</td></tr>
 <tr><td>Beauveria bassiana – ceppo ATCC 74040</td><td>Fungo entomopatogeno</td><td>Funghi</td><td>insetticida</td></tr>
 <tr><td>Beauveria brongniartii – ceppi BIPESCO2, BIPESCO4 (FAL 546)</td><td>Fungo entomopatogeno</td><td>Funghi</td><td>insetticida</td></tr>
-<tr><td>Coniothyrium minitans – ceppi CON/M/91-08, K1</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida</td></tr>
-<tr><td>Gliocladium catenulatum – ceppo J1446</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida</td></tr>
+<tr><td>Coniothyrium minitans – ceppo CON/M/91-08</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida, sostanza a basso rischio</td></tr>
+<tr><td>Coniothyrium minitans – ceppo K1</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida</td></tr>
+<tr><td>Gliocladium catenulatum – ceppo J1446</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida, sostanza a basso rischio</td></tr>
 <tr><td>Metarhizium anisopliae – ceppi BIPESCO5 (F52), FAL 997</td><td>Fungo entomopatogeno</td><td>Funghi</td><td>insetticida</td></tr>
 <tr><td>Paecilomyces fumosoroseus</td><td>Fungo entomopatogeno</td><td>Funghi</td><td>insetticida</td></tr>
 <tr><td>Paecilomyces lilacinus – ceppo 251</td><td>Fungo patogeno</td><td>Funghi</td><td>nematocida</td></tr>
 <tr><td>Pepino mosaic virus – ceppo CH2, isolato 1906</td><td>Virus antagonista</td><td>Virus</td><td>virucida, sostanza a basso rischio, è autorizzato solo l’impiego in serra</td></tr>
-<tr><td>Phlebiopsis gigantea – ceppo VRA 1835</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida</td></tr>
+<tr><td>Phlebiopsis gigantea – ceppo VRA 1835</td><td>Fungo antagonista</td><td>Funghi</td><td>fungicida, sostanza a basso rischio</td></tr>
 <tr><td>Photorhabdus luminescens – ceppo ATCC 29999</td><td>Batteri entomopatogeni</td><td>Batteri</td><td>insetticida</td></tr>
 <tr><td>Pseudomonas chlororaphis – ceppo MA342</td><td>Batteri antagonisti</td><td>Batteri</td><td>disinfettante per semenza</td></tr>
 <tr><td>Pseudomonas sp. – ceppo DSMZ 13134</td><td>Batteri antagonisti</td><td>Batteri</td><td>fungicida</td></tr>
@@ -2319,6 +2327,7 @@ Allegato 1*[^t-1]*
 <table>
 <tr><th>Nome comune, numero d’identificazione</th><th>Descrizione</th><th>Organismo</th><th>Funzione/Condizioni specifiche e limitazioni</th></tr>
 <tr><td>Adalia bipunctata</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida</td></tr>
+<tr><td>[tab] Amblyseius andersoni</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida</td></tr>
 <tr><td>Amblyseius barkeri (mackenziei)</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 <tr><td>Amblyseius californicus</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 <tr><td>Amblyseius degenerans</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
@@ -2368,6 +2377,7 @@ Allegato 1*[^t-1]*
 <tr><td>Trichogramma brassicae Bezdenko</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Trichogramma cacoeciae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Trichogramma evanescens</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
+<tr><td>[tab] Trichopria drosophilae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td></tr>
 <tr><td>Typhlodromips swirskii</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td></tr>
 </table>
 
@@ -2426,7 +2436,6 @@ Allegato 1*[^t-1]*
 <tr><td>Famoxadone</td><td>131807-57-3</td></tr>
 <tr><td>Fludioxonil</td><td>131341-86-1</td></tr>
 <tr><td>Flufenacet</td><td>142459-58-3</td></tr>
-<tr><td>Flumiossazina</td><td>103361-09-7</td></tr>
 <tr><td>Fluopicolide</td><td>239110-15-7</td></tr>
 <tr><td>Flurocloridone</td><td>61213-25-0</td></tr>
 <tr><td>Imazamox</td><td>114311-32-9</td></tr>
@@ -2443,6 +2452,7 @@ Allegato 1*[^t-1]*
 <tr><td>Pendimetalin</td><td>40487-42-1</td></tr>
 <tr><td>Pirimicarb</td><td>23103-98-2</td></tr>
 <tr><td>Procloraz</td><td>67747-09-5</td></tr>
+<tr><td>Propizamide</td><td>23950-58-5</td></tr>
 <tr><td>Prosulfuron</td><td>94125-34-5</td></tr>
 <tr><td>Sulcotrione</td><td>99105-77-8</td></tr>
 <tr><td>Tebuconazolo</td><td>107534-96-3</td></tr>
@@ -2452,7 +2462,7 @@ Allegato 1*[^t-1]*
 <tr><td>Ziram</td><td>137-30-4</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 e 5)
 
@@ -2528,7 +2538,7 @@ Un principio attivo è approvato come sostanza candidata alla sostituzione a nor
 [^annex3-lvlu1-lvl5-1]: Cfr. nota ad art. 3 cpv. 1 lett. d.
 [^annex3-lvlu1-lvl5-2]: Direttiva 2000/60/CE del Parlamento europeo e del Consiglio, del 23 ottobre 2000, che istituisce un quadro per l’azione comunitaria in materia di acque, GU L 327 del 22.12.2000, pag. 1.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 13, 17 e 22)
 
@@ -2552,7 +2562,7 @@ La procedura di valutazione comparativa di un prodotto fitosanitario contenente 
 
 [^annex5-lvlu1-1]: Cfr. nota ad art. 3 cpv. 2.
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-4]
 
 (art. 7 cpv. 4, 10 cpv. 1 lett. b, 11, 21 cpv. 5 e 52 cpv. 3 lett. g e h)
 
@@ -2575,7 +2585,7 @@ Allegato 5*[^t-4]*
   - 1\. non vengano forniti dati o informazioni particolari, superflui in considerazione della natura del prodotto o del proposto uso dello stesso, oppure
   - 2\. non sia scientificamente necessario o tecnicamente possibile fornire i dati e le informazioni richieste;
 
-- f. se del caso, essere state ottenute secondo le disposizioni della legge federale del 16 dicembre 2005[^annex6-lvlu1-lvl1-1] sulla protezione degli animali (LPDA).
+- f. se del caso, essere state ottenute secondo le disposizioni della legge federale del 16 dicembre 2005[^annex6-lvlu1-lvl1-1] sulla protezione degli animali (LPAn).
 
 <sup>1bis</sup> Nel caso di principi attivi che contengono un nanomateriale di cui all’articolo 2 capoverso 2 lettera q OPChim[^annex6-lvlu1-lvl1-2], le informazioni devono inoltre contenere la composizione del nanomateriale, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie-volume, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
 
@@ -2589,24 +2599,21 @@ Allegato 5*[^t-4]*
 
 <sup>1</sup> I requisiti cui devono adempiere i fascicoli riguardanti la domanda d’autorizzazione di un prodotto fitosanitario contenente sostanze chimiche o microrganismi corrispondono a quelli fissati nell’allegato del regolamento (UE) n. 283/2013[^annex6-lvlu1-lvl2-1].
 
-<sup>2</sup> Per i prodotti fitosanitari che contengono nanomateriali di cui all’articolo 2 capoverso 2 lettera q OPChim[^annex6-lvlu1-lvl2-2], le informazioni devono inoltre contenere la composizione del nanomateriale, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie-volume, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
+<sup>2</sup> Per i prodotti fitosanitari che contengono nanomateriali di cui all’articolo 2 capoverso 2 lettera q OPChim, le informazioni devono inoltre contenere la composizione del nanomateriale, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie-volume, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
 
 <sup>3</sup> Le espressioni e gli atti normativi riportati di seguito utilizzati nell’allegato del regolamento (UE) n. 283/2013 hanno gli equivalenti seguenti:
 
 <table>
-<tr><td>**UE**</td><td>**Svizzera**</td></tr>
+<tr><td>UE</td><td>Svizzera</td></tr>
 <tr><td>le autorità europee competenti (n. 1.6 e 1.7)</td><td>Servizio d’omologazione</td></tr>
 <tr><td>le autorità competenti (n. 3.2.3)</td><td>Servizio d’omologazione</td></tr>
-<tr><td>direttiva (CE) n. 2010/63/UE (n. 1.10)</td><td>Legge federale del 16 dicembre 2005[^annex6-lvlu1-lvl2-3] sulla protezione degli animali (LPAn)</td></tr>
-<tr><td>direttiva (CE) n. 2004/10/CE (n. 3.1)</td><td>Ordinanza del 18 maggio 2005[^annex6-lvlu1-lvl2-4] sulla buona prassi di laboratorio (OBPL)</td></tr>
-<tr><td>regolamento (CE) n. 396/2005/CE (n. 1.11, lett. s)</td><td>Ordinanza del DFI del 16 dicembre 2016[^annex6-lvlu1-lvl2-5] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale (OAOVA)</td></tr>
+<tr><td>direttiva (CE) n. 2010/63/UE (n. 1.10)</td><td>Legge federale del 16 dicembre 2005 sulla protezione degli animali (LPAn)</td></tr>
+<tr><td>direttiva (CE) n. 2004/10/CE (n. 3.1)</td><td>Ordinanza del 18 maggio 2005 sulla buona prassi di laboratorio (OBPL)</td></tr>
+<tr><td>regolamento (CE) n. 396/2005/CE (n. 1.11, lett. s)</td><td>Ordinanza del DFI del 16 dicembre 2016[^annex6-lvlu1-lvl2-2] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale (OAOVA)</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl2-1]: Regolamento (UE) n. 283/2013 della Commissione, dell’1° marzo 2013, che stabilisce i requisiti relativi ai dati applicabili alle sostanze attive, conformemente al regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio relativo all’immissione sul mercato dei prodotti fitosanitari, versione della GU L 93 del 3.4.2013, pag. 1.
-[^annex6-lvlu1-lvl2-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^annex6-lvlu1-lvl2-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^annex6-lvlu1-lvl2-4]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
-[^annex6-lvlu1-lvl2-5]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex6-lvlu1-lvl2-2]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 3. Microrganismi
 
@@ -2615,14 +2622,14 @@ Allegato 5*[^t-4]*
 <sup>2</sup> Ai fini della corretta interpretazione dell’allegato parte B del regolamento (UE) n. 544/2011 si applicano le seguenti equivalenze terminologiche:
 
 <table>
-<tr><td>**Espressione UE**</td><td>**Espressione svizzera**</td></tr>
+<tr><td>Espressione UE</td><td>Espressione svizzera</td></tr>
 <tr><td>Commissione e Stati membri (n. 1.2 e 1.4.1)</td><td>Servizio d’omologazione</td></tr>
 <tr><td>Autorità competente dello Stato membro (n. 9)</td><td>Servizio d’omologazione</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl3-1]: Cfr. nota a n. 2 cpv. 1.
 
-Allegato 6*[^t-5]*
+Allegato 6[^t-5]
 
 (art. 7, 11, 21 e 52)
 
@@ -2645,7 +2652,7 @@ Allegato 6*[^t-5]*
   - 1\. non vengano forniti dati o informazioni particolari, superflui in considerazione della natura del prodotto o del proposto uso dello stesso, oppure
   - 2\. non sia scientificamente necessario o tecnicamente possibile fornire i dati e le informazioni richieste;
 
-- f. se del caso, essere state ottenute secondo le disposizioni della LPDA[^annex7-lvlu1-lvlu1-1].
+- f. se del caso, essere state ottenute secondo le disposizioni della LPAn[^annex7-lvlu1-lvlu1-1].
 
 <sup>1bis</sup> Nel caso di prodotti fitosanitari che contengono un nanomateriale di cui all’articolo 2 capoverso 2 lettera q OPChim[^annex7-lvlu1-lvlu1-2], le informazioni devono inoltre contenere la composizione del nanomateriale, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie specifica-volume, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
 
@@ -2667,25 +2674,22 @@ Allegato 6*[^t-5]*
 
 <sup>1</sup> I requisiti cui devono adempiere i fascicoli riguardanti la domanda d’autorizzazione di un prodotto fitosanitario contenente sostanze chimiche o microrganismi corrispondono a quelli fissati nell’allegato del regolamento (UE) n. 284/2013[^annex7-lvlu1-lvl2-1].
 
-<sup>2</sup> Per i prodotti fitosanitari che contengono nanomateriali di cui all’articolo 2 capoverso 2 lettera q OPChim[^annex7-lvlu1-lvl2-2], le informazioni devono inoltre contenere la composizione del nanomateriale, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie-volume, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
+<sup>2</sup> Per i prodotti fitosanitari che contengono nanomateriali di cui all’articolo 2 capoverso 2 lettera q OPChim, le informazioni devono inoltre contenere la composizione del nanomateriale, la forma delle particelle e la grandezza media dei granuli, nonché, se disponibili, la distribuzione dimensionale numerica, il rapporto superficie-volume, lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
 
 <sup>3</sup> Le espressioni e gli atti normativi riportati di seguito utilizzati nell’allegato del regolamento (UE) n. 284/2013 hanno gli equivalenti seguenti:
 
 <table>
-<tr><td>**UE**</td><td>**Svizzera**</td></tr>
+<tr><td>UE</td><td>Svizzera</td></tr>
 <tr><td>l’autorità europea competente (n. 1.6)</td><td>Servizio d’omologazione</td></tr>
 <tr><td>le autorità competenti (n. 1.11, 2, 3.2 lett. e, 3.3, 3.4.2)</td><td>Servizio d’omologazione</td></tr>
 <tr><td>l’autorità nazionale interessata (n. 3.3)</td><td>Servizio d’omologazione</td></tr>
 <tr><td>in uno Stato membro (n. 3.2 lett. g)</td><td>in Svizzera</td></tr>
 <tr><td>ogni Stato membro (n. 3.3)</td><td>la Svizzera</td></tr>
-<tr><td>direttiva (CE) n. 2010/63/UE (n. 1.8)</td><td>Legge federale del 16 dicembre 2005[^annex7-lvlu1-lvl2-3] sulla protezione degli animali (LPAn)</td></tr>
-<tr><td>direttiva (CE) n. 2004/10/UE (n. 3.1)</td><td>Ordinanza del 18 maggio 2005[^annex7-lvlu1-lvl2-4] sulla buona prassi di laboratorio (OBPL)</td></tr>
+<tr><td>direttiva (CE) n. 2010/63/UE (n. 1.8)</td><td>Legge federale del 16 dicembre 2005 sulla protezione degli animali (LPAn)</td></tr>
+<tr><td>direttiva (CE) n. 2004/10/UE (n. 3.1)</td><td>Ordinanza del 18 maggio 2005 sulla buona prassi di laboratorio (OBPL)</td></tr>
 </table>
 
 [^annex7-lvlu1-lvl2-1]: Regolamento (UE) n. 284/2013 della Commissione, dell’1° marzo 2013, che stabilisce i requisiti relativi ai dati applicabili ai prodotti fitosanitari, conformemente al regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio relativo all’immissione sul mercato dei prodotti fitosanitari, versione della GU L 93 del 3.4.2013, pag. 85.
-[^annex7-lvlu1-lvl2-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^annex7-lvlu1-lvl2-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^annex7-lvlu1-lvl2-4]: [RS 813.112.1](https://fedlex.data.admin.ch/eli/cc/2005/467)
 
 ### 3. Prodotti fitosanitari contenenti microrganismi
 
@@ -2694,13 +2698,13 @@ Allegato 6*[^t-5]*
 <sup>2</sup> Ai fini della corretta interpretazione dell’allegato parte B del regolamento (UE) n. 545/2011 si applicano le seguenti equivalenze terminologiche:
 
 <table>
-<tr><td>**Espressione UE**</td><td>**Espressione svizzera**</td></tr>
+<tr><td>Espressione UE</td><td>Espressione svizzera</td></tr>
 <tr><td>Autorità competente dello Stato membro (n. 11)</td><td>Servizio d’omologazione</td></tr>
 </table>
 
 [^annex7-lvlu1-lvl3-1]: Cfr. nota a n. 2 cpv. 1.
 
-Allegato 7*[^t-6]*
+Allegato 7[^t-6]
 
 (art. 55)
 
@@ -2729,7 +2733,7 @@ Allegato 7*[^t-6]*
 [^annex8-lvlu1-lvlu1-4]: Cfr. nota a piè di pagina relativa all’all. 6 n. 2 cpv. 1.
 [^annex8-lvlu1-lvlu1-5]: [RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594), [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)[3857](https://fedlex.data.admin.ch/eli/oc/2014/661)
 
-Allegato 8*[^t-7]*
+Allegato 8[^t-7]
 
 (art. 55)
 
@@ -2803,7 +2807,7 @@ Tutti i prodotti fitosanitari devono recare sull’etichetta la seguente frase, 
 <tr><td>SPr 3</td><td>I roditori morti devono essere rimossi quotidianamente dalla zona del trattamento per tutta la durata dello stesso. Non devono essere gettati nei rifiuti o nelle discariche.</td><td>Per evitare l’avvelenamento secondario di animali, questa frase deve essere utilizzata per tutti i rodenticidi contenenti anticoagulanti come principi attivi.</td></tr>
 </table>
 
-Allegato 9*[^t-8]*
+Allegato 9[^t-8]
 
 (art. 17 e 24)
 
@@ -3045,9 +3049,9 @@ I servizi di valutazione valutano, tenendo conto dei modelli statistici appropri
 
 ### 9BI-2.4.2.4Residui presenti nei prodotti di origine animale
 
-I servizi di valutazione valutano le concentrazioni di residui nei prodotti di origine animale tenendo in considerazione le informazioni di cui all’allegato III parte A numero 8.4 della direttiva 91/414/CEE[^annex10-partI-lvlu2-lvld4e1119-lvlu22-1] e i residui originati da altri usi.
+I servizi di valutazione valutano le concentrazioni di residui nei prodotti di origine animale tenendo in considerazione le informazioni di cui all’allegato III parte A numero 8.4 della direttiva 91/414/CEE[^annex10-partI-lvlu2-lvld4e1128-lvlu22-1] e i residui originati da altri usi.
 
-[^annex10-partI-lvlu2-lvld4e1119-lvlu22-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
+[^annex10-partI-lvlu2-lvld4e1128-lvlu22-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
 
 ### 9BI-2.4.2.5Potenziale esposizione dei consumatori attraverso la dieta
 
@@ -3065,7 +3069,7 @@ Nella valutazione del destino e della distribuzione del prodotto fitosanitario n
 
 ### 9BI-2.5.1.1Destino e distribuzione nel suolo
 
-<sup>1</sup> I servizi di valutazione vagliano la possibilità che il prodotto fitosanitario nelle condizioni d’uso proposte raggiunga il suolo; se esiste questa possibilità, essi valutano il tasso e il meccanismo di degradazione nel suolo, la mobilità nel suolo e la variazione della concentrazione totale del principio attivo (residui estraibili e non estraibili[^annex10-partI-lvlu2-lvld4e1119-lvlu27-1]), dei metaboliti e dei prodotti di degradazione e di reazione prevedibili nel suolo nella zona d’uso prevista dopo l’impiego del prodotto fitosanitario secondo le modalità proposte.
+<sup>1</sup> I servizi di valutazione vagliano la possibilità che il prodotto fitosanitario nelle condizioni d’uso proposte raggiunga il suolo; se esiste questa possibilità, essi valutano il tasso e il meccanismo di degradazione nel suolo, la mobilità nel suolo e la variazione della concentrazione totale del principio attivo (residui estraibili e non estraibili[^annex10-partI-lvlu2-lvld4e1128-lvlu27-1]), dei metaboliti e dei prodotti di degradazione e di reazione prevedibili nel suolo nella zona d’uso prevista dopo l’impiego del prodotto fitosanitario secondo le modalità proposte.
 
 <sup>2</sup> Questa valutazione prende in considerazione quanto segue:
 
@@ -3086,7 +3090,7 @@ Nella valutazione del destino e della distribuzione del prodotto fitosanitario n
 - c. tutte le informazioni riguardanti il prodotto fitosanitario di cui all’allegato 6 numero 2, incluse quelle sulla distribuzione e dissipazione nel suolo;
 - d. se del caso, altri usi autorizzati nella zona di applicazione proposta per prodotti fitosanitari contenenti lo stesso principio attivo o che danno origine agli stessi residui.
 
-[^annex10-partI-lvlu2-lvld4e1119-lvlu27-1]: I residui non estraibili nei vegetali e nei suoli sono quei prodotti chimici originati dagli antiparassitari usati secondo la buona pratica agricola, che non possono essere estratti senza che ne risulti significativamente alterata la natura chimica. Ai residui di questo tipo non appartengono i metaboliti che vengono trasformati in prodotti naturali.
+[^annex10-partI-lvlu2-lvld4e1128-lvlu27-1]: I residui non estraibili nei vegetali e nei suoli sono quei prodotti chimici originati dagli antiparassitari usati secondo la buona pratica agricola, che non possono essere estratti senza che ne risulti significativamente alterata la natura chimica. Ai residui di questo tipo non appartengono i metaboliti che vengono trasformati in prodotti naturali.
 
 ### 9BI-2.5.1.2Destino e distribuzione nelle acque sotterranee
 
@@ -3369,14 +3373,14 @@ I servizi di valutazione valutano l’effettivo tenore di principio attivo del p
 <sup>1</sup> I servizi di valutazione valutano le proprietà fisiche e chimiche del prodotto fitosanitario e in particolare:
 
 - a. se esiste una specifica FAO appropriata, le proprietà fisiche e chimiche indicate nella stessa;
-- b. se non esistono specifiche FAO appropriate, tutte le proprietà fisiche e chimiche pertinenti per la formulazione citata nel «*Manual on the development and use of FAO specifications for plant protection products»*[^annex10-partI-lvlu2-lvld4e1119-lvlu44-1].
+- b. se non esistono specifiche FAO appropriate, tutte le proprietà fisiche e chimiche pertinenti per la formulazione citata nel «*Manual on the development and use of FAO specifications for plant protection products»*[^annex10-partI-lvlu2-lvld4e1128-lvlu44-1].
 
 <sup>2</sup> Questa valutazione prende in considerazione quanto segue:
 
 - a. i dati relativi alle proprietà fisiche e chimiche del principio attivo di cui all’allegato 5 numero 2 e i risultati della loro valutazione;
 - b. i dati relativi a proprietà fisiche e chimiche del prodotto fitosanitario di cui all’allegato 6 numero 2.
 
-[^annex10-partI-lvlu2-lvld4e1119-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
+[^annex10-partI-lvlu2-lvld4e1128-lvlu44-1]: Manual on Development and Use of FAO Specifications for Plant Protection Products. Fifth Edition, prepared by the Group on Specifications of the FAO panel of Experts on Pesticide Specifications, Registration Requirements and Application Standards and Prior Informed Consent, January 1999.
 
 ### 9BI-2.7.3Miscela estemporanea
 
@@ -3492,9 +3496,9 @@ Le istruzioni proposte per la pulizia delle attrezzature per l’applicazione de
 
 <sup>1</sup> L’autorizzazione non viene concessa se il grado di esposizione dell’operatore nella manipolazione e nell’impiego del prodotto fitosanitario secondo le modalità proposte, ivi compresi le dosi e il metodo di applicazione, supera il livello di AOEL.
 
-<sup>2</sup> Inoltre, la concessione dell’autorizzazione è subordinata al rispetto del valore limite stabilito per il principio attivo e/o per i componenti tossici presenti nel prodotto in applicazione dell’ordinanza del DFI del 16 dicembre 2016[^annex10-partI-lvlu3-lvld4e1172-lvlu19-1] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale.
+<sup>2</sup> Inoltre, la concessione dell’autorizzazione è subordinata al rispetto del valore limite stabilito per il principio attivo e/o per i componenti tossici presenti nel prodotto in applicazione dell’ordinanza del DFI del 16 dicembre 2016[^annex10-partI-lvlu3-lvld4e1181-lvlu19-1] concernente i livelli massimi per i residui di antiparassitari nei o sui prodotti di origine vegetale e animale.
 
-[^annex10-partI-lvlu3-lvld4e1172-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex10-partI-lvlu3-lvld4e1181-lvlu19-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.1.2Indumenti o dispositivi di protezione
 
@@ -3526,9 +3530,9 @@ Le autorizzazioni devono assicurare che i residui provengano dalle quantità min
 
 <sup>1</sup> I servizi di valutazione, nel caso non esista una concentrazione massima di residui (LMR), ne stabiliscono una provvisoria. Le conclusioni relative ai livelli fissati devono essere valide per tutte le circostanze che possono influenzare la concentrazione di residui nella coltura, come i tempi e le dosi di applicazione, la frequenza e la modalità d’uso.
 
-<sup>2</sup> Basandosi sulla valutazione di potenziali residui in e su parti commestibili di vegetali e prodotti vegetali a opera del servizio di valutazione responsabile e sull’OAOVA[^annex10-partI-lvlu3-lvld4e1172-lvlu27-1], l’USAV stabilisce le concentrazioni massime di principi attivi.
+<sup>2</sup> Basandosi sulla valutazione di potenziali residui in e su parti commestibili di vegetali e prodotti vegetali a opera del servizio di valutazione responsabile e sull’OAOVA[^annex10-partI-lvlu3-lvld4e1181-lvlu27-1], l’USAV stabilisce le concentrazioni massime di principi attivi.
 
-[^annex10-partI-lvlu3-lvld4e1172-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
+[^annex10-partI-lvlu3-lvld4e1181-lvlu27-1]: [RS 817.021.23](https://fedlex.data.admin.ch/eli/cc/2017/151)
 
 ### 9CI-2.4.2.3Dose giornaliera ammissibile (DGA)
 
@@ -3559,9 +3563,9 @@ Quando i vegetali o i prodotti vegetali trattati sono destinati all’alimentazi
 
 ### 9CI-2.5.1.2Destino e comportamento nelle acque sotterranee
 
-L’autorizzazione non viene concessa se si può prevedere che, in seguito all’uso del prodotto fitosanitario nelle condizioni proposte, la concentrazione del principio attivo o dei pertinenti metaboliti, prodotti di degradazione o di reazione nelle acque sotterranee utilizzate come acqua potabile o previste a tal fine, non risponda ai requisiti dell’allegato 2 numero 22 OPAc[^annex10-partI-lvlu3-lvld4e1172-lvlu34-1].
+L’autorizzazione non viene concessa se si può prevedere che, in seguito all’uso del prodotto fitosanitario nelle condizioni proposte, la concentrazione del principio attivo o dei pertinenti metaboliti, prodotti di degradazione o di reazione nelle acque sotterranee utilizzate come acqua potabile o previste a tal fine, non risponda ai requisiti dell’allegato 2 numero 22 OPAc[^annex10-partI-lvlu3-lvld4e1181-lvlu34-1].
 
-[^annex10-partI-lvlu3-lvld4e1172-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex10-partI-lvlu3-lvld4e1181-lvlu34-1]: [RS 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
 
 ### 9CI-2.5.1.3Destino e comportamento nelle acque superficiali
 
@@ -4185,11 +4189,11 @@ Occorre tener conto dei vari stadi di sviluppo/del ciclo di vita del microrganis
 
 <sup>2</sup> La base di una valutazione del destino e del comportamento ambientale è costituita da informazioni sull’origine e le proprietà (p. es. la specificità) del microrganismo/dei metaboliti/tossine residui e sull’impiego previsto. Il meccanismo d’azione del microrganismo va preso in considerazione.
 
-<sup>3</sup> Si deve procedere a una valutazione del destino e del comportamento dei metaboliti rilevanti noti che sono prodotti dal microrganismo. La valutazione, prevista per ciascun comparto ambientale, è effettuata in base ai criteri di cui alla sezione 7, punto iv), dell’allegato IIB della direttiva 91/414/CEE[^annex10-partII-lvlu2-lvld4e1232-lvlu44-1].
+<sup>3</sup> Si deve procedere a una valutazione del destino e del comportamento dei metaboliti rilevanti noti che sono prodotti dal microrganismo. La valutazione, prevista per ciascun comparto ambientale, è effettuata in base ai criteri di cui alla sezione 7, punto iv), dell’allegato IIB della direttiva 91/414/CEE[^annex10-partII-lvlu2-lvld4e1241-lvlu44-1].
 
 <sup>4</sup> Nella valutazione del destino e del comportamento ambientale del prodotto fitosanitario, i servizi di valutazione considerano tutti gli aspetti ambientali, inclusi flora e fauna. Il potenziale di persistenza e di moltiplicazione del microrganismo deve essere valutato in tutti i comparti ambientali, tranne qualora si possa dimostrare che un particolare microrganismo non raggiungerà un determinato comparto. La mobilità dei microrganismi e dei loro metaboliti/tossine residui deve essere presa in considerazione.
 
-[^annex10-partII-lvlu2-lvld4e1232-lvlu44-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
+[^annex10-partII-lvlu2-lvld4e1241-lvlu44-1]: Cfr. nota ad art. 86 cpv. 1 lett. a.
 
 ### 9BII-2.7.1Rischio per le acque
 
@@ -4414,9 +4418,9 @@ Il servizio d’omologazione informa i richiedenti circa le misure precisate all
 
 <sup>10</sup> Nessuna autorizzazione viene concessa se nel prodotto fitosanitario sono presenti metaboliti/tossine rilevanti (ossia che comportano un rischio per la salute umana e/o per l’ambiente) che si sa essere formati dal microrganismo e/o dai contaminanti microbici, tranne qualora si possa dimostrare che la quantità presente rimane a un livello accettabile prima e dopo l’uso proposto.
 
-<sup>11</sup> Il servizio d’omologazione provvede affinché siano applicate misure adeguate di controllo della qualità allo scopo di accertare l’identità del microrganismo e il contenuto del prodotto fitosanitario. Tali misure devono includere l’analisi dei rischi e dei punti critici di controllo (HACCP)[^annex10-partII-lvlu3-lvld4e1309-1] o un sistema equivalente.
+<sup>11</sup> Il servizio d’omologazione provvede affinché siano applicate misure adeguate di controllo della qualità allo scopo di accertare l’identità del microrganismo e il contenuto del prodotto fitosanitario. Tali misure devono includere l’analisi dei rischi e dei punti critici di controllo (HACCP)[^annex10-partII-lvlu3-lvld4e1318-1] o un sistema equivalente.
 
-[^annex10-partII-lvlu3-lvld4e1309-1]: FAO & WHO. 2003. *Recommended international codex of practice. General principles of food hygiene*, CAC/RCP 1 - 1969, Rev. 4-2003, *including «Annex on Hazard Analysis Critical Control Point* (HACCP) *System and Guidelines for its Application*
+[^annex10-partII-lvlu3-lvld4e1318-1]: FAO & WHO. 2003. *Recommended international codex of practice. General principles of food hygiene*, CAC/RCP 1 - 1969, Rev. 4-2003, *including «Annex on Hazard Analysis Critical Control Point* (HACCP) *System and Guidelines for its Application*
 
 ### 9CII-2 Principi specifici
 
@@ -4430,9 +4434,9 @@ Ai fini della concessione di un’autorizzazione, il servizio d’omologazione d
 
 ### 9CII-2.2.1Tenore minimo e massimo dei microrganismi
 
-Occorre disporre di informazioni sufficienti per permettere la valutazione del tenore minimo e massimo del microrganismo nel materiale utilizzato per la fabbricazione del prodotto fitosanitario e nel prodotto fitosanitario stesso. Il tenore di altri componenti e formulanti del prodotto fitosanitario e i microrganismi contaminanti derivati dal processo di produzione devono essere per quanto possibile definiti. Il servizio d’omologazione provvede affinché il livello di organismi contaminanti sia mantenuto entro limiti accettabili. Occorre inoltre indicare lo stato fisico e la natura del prodotto fitosanitario, di preferenza secondo il *«**Catalogue of pesticide formulation types and international coding system**»*[^annex10-partII-lvlu3-lvld4e1310-lvlu3-1].
+Occorre disporre di informazioni sufficienti per permettere la valutazione del tenore minimo e massimo del microrganismo nel materiale utilizzato per la fabbricazione del prodotto fitosanitario e nel prodotto fitosanitario stesso. Il tenore di altri componenti e formulanti del prodotto fitosanitario e i microrganismi contaminanti derivati dal processo di produzione devono essere per quanto possibile definiti. Il servizio d’omologazione provvede affinché il livello di organismi contaminanti sia mantenuto entro limiti accettabili. Occorre inoltre indicare lo stato fisico e la natura del prodotto fitosanitario, di preferenza secondo il *«**Catalogue of pesticide formulation types and international coding system**»*[^annex10-partII-lvlu3-lvld4e1319-lvlu3-1].
 
-[^annex10-partII-lvlu3-lvld4e1310-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
+[^annex10-partII-lvlu3-lvld4e1319-lvlu3-1]: CropLife International: Technical Monograf No. 2, 5<sup>th</sup> Edition, 2002
 
 ### 9CII-2.2.2Resistenza
 
@@ -4567,12 +4571,12 @@ I tempi di rientro e i periodi di attesa o altre precauzioni volte ad escludere 
 
 ### 9CII-2.6.1.9Condizioni di autorizzazione
 
-Le condizioni di autorizzazione devono essere conformi alla direttiva 98/24/CE[^annex10-partII-lvlu3-lvld4e1310-lvlu37-1], e alla direttiva 2000/54/CE[^annex10-partII-lvlu3-lvld4e1310-lvlu37-2]. Devono essere esaminati i dati sperimentali e le informazioni pertinenti per il riconoscimento dei sintomi di infezione o patogenicità e relative all’efficacia delle previste misure di pronto soccorso e terapeutiche. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 2004/37/CE[^annex10-partII-lvlu3-lvld4e1310-lvlu37-3]. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 89/656/CEE[^annex10-partII-lvlu3-lvld4e1310-lvlu37-4].
+Le condizioni di autorizzazione devono essere conformi alla direttiva 98/24/CE[^annex10-partII-lvlu3-lvld4e1319-lvlu37-1], e alla direttiva 2000/54/CE[^annex10-partII-lvlu3-lvld4e1319-lvlu37-2]. Devono essere esaminati i dati sperimentali e le informazioni pertinenti per il riconoscimento dei sintomi di infezione o patogenicità e relative all’efficacia delle previste misure di pronto soccorso e terapeutiche. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 2004/37/CE[^annex10-partII-lvlu3-lvld4e1319-lvlu37-3]. Le condizioni di autorizzazione devono essere inoltre conformi alla direttiva 89/656/CEE[^annex10-partII-lvlu3-lvld4e1319-lvlu37-4].
 
-[^annex10-partII-lvlu3-lvld4e1310-lvlu37-1]: Direttiva 98/24/CE del Consiglio del 7 apr. 1998 sulla protezione della salute e della sicurezza dei lavoratori contro i rischi derivanti da agenti chimici durante il lavoro, GU L 131 del 5 mag. 1998, pag. 11, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
-[^annex10-partII-lvlu3-lvld4e1310-lvlu37-2]: Direttiva 2000/54/CE del Parlamento europeo e del Consiglio del 18 set. 2000 relativa alla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti biologici durante il lavoro, versione GU L 262 del 17 ott. 2000, pag. 21.
-[^annex10-partII-lvlu3-lvld4e1310-lvlu37-3]: Direttiva 2004/37/CE del Parlamento europeo e del Consiglio del 29 apr. 2004 sulla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti cancerogeni o mutageni durante il lavoro, versione GU L 204 del 4 ago. 2007, pag. 28.
-[^annex10-partII-lvlu3-lvld4e1310-lvlu37-4]: Direttiva 89/656/CEE del Consiglio del 30 nov. 1989 relativa alle prescrizioni minime in materia di sicurezza e salute per l’uso da parte dei lavoratori di attrezzature di protezione individuale durante il lavoro, GU L 393 del 30 dic. 1989, pag. 18, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
+[^annex10-partII-lvlu3-lvld4e1319-lvlu37-1]: Direttiva 98/24/CE del Consiglio del 7 apr. 1998 sulla protezione della salute e della sicurezza dei lavoratori contro i rischi derivanti da agenti chimici durante il lavoro, GU L 131 del 5 mag. 1998, pag. 11, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
+[^annex10-partII-lvlu3-lvld4e1319-lvlu37-2]: Direttiva 2000/54/CE del Parlamento europeo e del Consiglio del 18 set. 2000 relativa alla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti biologici durante il lavoro, versione GU L 262 del 17 ott. 2000, pag. 21.
+[^annex10-partII-lvlu3-lvld4e1319-lvlu37-3]: Direttiva 2004/37/CE del Parlamento europeo e del Consiglio del 29 apr. 2004 sulla protezione dei lavoratori contro i rischi derivanti da un’esposizione ad agenti cancerogeni o mutageni durante il lavoro, versione GU L 204 del 4 ago. 2007, pag. 28.
+[^annex10-partII-lvlu3-lvld4e1319-lvlu37-4]: Direttiva 89/656/CEE del Consiglio del 30 nov. 1989 relativa alle prescrizioni minime in materia di sicurezza e salute per l’uso da parte dei lavoratori di attrezzature di protezione individuale durante il lavoro, GU L 393 del 30 dic. 1989, pag. 18, modificata da ultimo dalla direttiva 2007/30/CE, GU L 165 del 27 giu. 2007, pag. 21.
 
 ### 9CII-2.6.2Impatto sulla salute dell’uomo e degli animali dovuto ai residui
 
@@ -4661,23 +4665,23 @@ Se esiste la possibilità che i lombrichi siano esposti, l’autorizzazione non 
 
 Se esiste la possibilità che i microrganismi non bersaglio del suolo siano esposti, l’autorizzazione è concessa soltanto se gli effetti sui procedimenti di mineralizzazione in azoto o carbonio nell’ambito di studi di laboratorio sono superiori al 25 per cento dopo 100 giorni, tranne qualora sia chiaramente stabilito mediante un’idonea valutazione del rischio che, in condizioni reali, non sussiste un impatto inaccettabile sulla comunità microbica dopo l’impiego del prodotto fitosanitario secondo le modalità previste, tenuto conto della capacità dei microrganismi di moltiplicarsi.
 
-Allegato 10*[^t-9]*
+Allegato 10[^t-9]
 
 [^t-9]: Abrogato dal n. II cpv. 2 dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5563](https://fedlex.data.admin.ch/eli/oc/2020/962)).
 
-Allegato 11*[^t-10]*
+Allegato 11[^t-10]
 
 (art. 55 e 56)
 
 ## Indicazioni sugli imballaggi dei prodotti fitosanitari
 
-[^t-10]: Introdotto dal n. I cpv. 2 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)). Aggiornato dal n. II dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6135](https://fedlex.data.admin.ch/eli/oc/2017/677)).
+[^t-10]: Introdotto dal n. I cpv. 2 dell’O del 23 mag. 2012 ([RU 2012 3451](https://fedlex.data.admin.ch/eli/oc/2012/390)). Aggiornato dal n. II delle O del 18 ott. 2017 ([RU 2017 6135](https://fedlex.data.admin.ch/eli/oc/2017/677)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
 
 Ogni imballaggio di un prodotto fitosanitario deve recare in modo chiaramente leggibile e indelebile le seguenti indicazioni:
 
 - 1\. il nome commerciale del prodotto fitosanitario;
 - 2\. il nome e l’indirizzo del titolare dell’autorizzazione o del permesso di vendita, il numero d’omologazione del prodotto fitosanitario e, se si tratta di un’altra persona, il nome e l’indirizzo dei responsabili dell’imballaggio e dell’etichettatura finali del prodotto fitosanitario;
-- 3\. il nome di ogni principio attivo, con indicazione precisa della forma chimica; il principio attivo deve essere indicato con il nome menzionato nell’allegato 1 oppure, se il principio attivo non vi figura, con la sua denominazione comune secondo l’Organizzazione internazionale di normazione (ISO *Common Name*); se questa non è disponibile, il principio attivo va indicato con la sua designazione chimica secondo le norme dell’Unione internazionale di chimica pura e applicata (norme IUPAC)[^annex11-lvlu1-1]; se il principio attivo è un microrganismo, deve essere indicato il nome della specie e del ceppo, dell’isolato o del biotipo; se il principio attivo è un macrorganismo, deve essere indicato il nome della specie e della selezione;
+- 3\. il nome di ogni principio attivo, con indicazione precisa della forma chimica; il principio attivo deve essere indicato con il nome menzionato nell’allegato 1 oppure, se il principio attivo non vi figura, con la sua denominazione comune secondo l’Organizzazione internazionale di normazione (ISO *Common Name*); se questa non è disponibile, il principio attivo va indicato con la sua designazione chimica secondo le norme dell’Unione internazionale di chimica pura e applicata (norme IUPAC)[^annex12-lvlu1-1]; se il principio attivo è un microrganismo, deve essere indicato il nome della specie e del ceppo, dell’isolato o del biotipo; se il principio attivo è un macrorganismo, deve essere indicato il nome della specie e della selezione;
 - 4\.
 
   la concentrazione di ciascun principio attivo espressa come segue:
@@ -4702,7 +4706,13 @@ Ogni imballaggio di un prodotto fitosanitario deve recare in modo chiaramente le
 - 10\. il tipo di azione del prodotto fitosanitario ad esempio «insetticida», «regolatore di crescita», «erbicida», «fungicida» e il meccanismo d’azione;
 - 11\. il tipo di preparazione, ad esempio polvere bagnabile, concentrato emulsionabile;
 - 12\. gli impieghi per i quali il prodotto fitosanitario è stato omologato e tutte le condizioni specifiche agricole, fitosanitarie e ambientali in cui il prodotto può o non deve essere utilizzato;
-- 13\. le indicazioni seguenti contenute nell’autorizzazione secondo l’articolo 18: istruzioni, condizioni per l’uso e oneri nonché dose di applicazione, se del caso compresa la dose massima di applicazione per ettaro e il numero massimo di applicazioni all’anno; la dose di applicazione è espressa in unità metriche per ciascuna applicazione;
+- 13\.
+
+  le indicazioni seguenti contenute nell’autorizzazione secondo l’articolo 18: istruzioni, condizioni per l’uso e oneri nonché dose di applicazione, se del caso compresa la dose massima di applicazione per superficie e per applicazione e il numero massimo di applicazioni all’anno; la dose di applicazione è espressa in unità metriche per ciascuna applicazione:
+
+  - – per i prodotti destinati all’uso professionale in quantità per ettaro,
+  - – per i prodotti destinati all’uso non professionale in quantità per metro quadrato;
+
 - 14\.
 
   se del caso, l’intervallo di sicurezza da rispettare per ciascun impiego tra l’ultima applicazione del prodotto fitosanitario e:
@@ -4721,4 +4731,56 @@ Ogni imballaggio di un prodotto fitosanitario deve recare in modo chiaramente le
 - 20\. i pittogrammi di pericolo, le avvertenze, le frasi di rischio e i consigli di prudenza necessari in base alla classificazione secondo l’articolo 18 cpv. 4;
 - 21\. se del caso, le categorie di utilizzatori autorizzati a utilizzare il prodotto fitosanitario.
 
-[^annex11-lvlu1-1]: Le norme IUPAC possono essere scaricate dal sito Internet dell’Unione internazionale di chimica pura e applicata: www.iupac.org
+[^annex12-lvlu1-1]: Le norme IUPAC possono essere scaricate dal sito Internet dell’Unione internazionale di chimica pura e applicata: www.iupac.org
+
+Allegato 12[^t-11]
+
+(art. 17, 64 e 68)
+
+## Requisiti per prodotti fitosanitari destinati a usi non professionali e restrizioni per l’uso di prodotti fitosanitari e coadiuvanti nelle zone d’insediamento
+
+[^t-11]: Introdotto dal n. III dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
+
+### 1. Requisiti ai sensi dell’articolo 17 capoverso 1*<sup>ter</sup>* per un prodotto fitosanitario ai fini dell’autorizzazione per uso non professionale
+
+- a. non contiene alcun principio attivo elencato nell’allegato 1 parte E;
+- b. se è destinato a eliminare vegetali indesiderati o parti di vegetali oppure a influire sulla crescita indesiderata di vegetali, non contiene alcun principio attivo ad azione sistemica;
+- c.
+
+  l’etichettatura del prodotto non comprende alcun elemento di cui all’allegato 7 e secondo l’allegato 1 parti 2–5 del regolamento (CE) n. 1272/2008[^annex12-lvlu1-lvl1-1] non è classificato o non va classificato in una delle categorie seguenti:
+
+  - 1\. cancerogeno di categoria 1A, 1B o 2,
+  - 2\. mutageno di categoria 1A, 1B o 2,
+  - 3\. tossico per la riproduzione di categoria 1A, 1B o 2,
+  - 4\. sensibilizzante della pelle di categoria 1,
+  - 5\. lesioni oculari gravi di categoria 1,
+  - 6\. sensibilizzante delle vie respiratorie di categoria 1,
+  - 7\. tossicità acuta di categoria 1, 2 o 3,
+  - 8\. tossicità specifica per alcuni organi bersaglio di categoria 1 o 2,
+  - 9\. esplosivo,
+  - 10\. corrosivo per la pelle di categoria 1A, 1B o 1C,
+  - 11\. pericolo acuto per l’ambiente acquatico di categoria 1,
+  - 12\. pericolo cronico per l’ambiente acquatico di categoria 1 o 2;
+
+- d. secondo la valutazione dei rischi non è pericoloso per le api;
+- e. non esiste un uso per il quale è richiesta una misura specifica per ridurre il rischio non alimentare, eccetto l’impiego di un dispositivo di protezione individuale da parte dell’utilizzatore. Il dispositivo di protezione deve essere ragionevolmente esigibile per l’utilizzatore privato e può includere solo calzature robuste, guanti, occhiali, indumenti a maniche lunghe o copricapo.
+
+[^annex12-lvlu1-lvl1-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1 lett. d.
+
+### 2. Criteri di divieto ai sensi dell’articolo 68 capoverso 4 per l’uso di prodotti fitosanitari e coadiuvanti nelle zone d’insediamento
+
+- a. contengono un principio attivo elencato nell’allegato 1 parte E, tranne nel caso in cui figuri nell’allegato 1 dell’ordinanza del DEFR del 22 settembre 1997[^annex12-lvlu1-lvl2-1] sull’agricoltura biologica;
+- b.
+
+  l’etichettatura del prodotto contiene un elemento di cui all’allegato 7 o il prodotto è classificato o va classificato secondo l’allegato 1 parti 2–5 del regolamento (CE) n. 1272/2008[^annex12-lvlu1-lvl2-2] in una delle categorie seguenti:
+
+  - 1\. cancerogeno di categoria 1A, 1B o 2,
+  - 2\. mutageno di categoria 1A, 1B o 2,
+  - 3\. tossico per la riproduzione di categoria 1A, 1B o 2,
+  - 4\. sensibilizzante della pelle di categoria 1,
+  - 5\. sensibilizzante delle vie respiratorie di categoria 1,
+  - 6\. tossicità acuta di categoria 1, 2 o 3,
+  - 7\. esplosivo.
+
+[^annex12-lvlu1-lvl2-1]: [RS 910.181](https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519)
+[^annex12-lvlu1-lvl2-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1 lett. d.
