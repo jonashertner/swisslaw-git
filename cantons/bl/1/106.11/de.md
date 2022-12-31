@@ -1,103 +1,118 @@
 ---
 canton: BL
 number: "106.11"
-title: Verordnung über das Amtsblatt
+title: Verordnung zum Publikationsgesetz
 short: Vo PublG
 language: de
-version: 2016-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-12-08
+version: 2023-01-01
+version_adopted: 2022-11-29
 adopted: 2022-11-29
 in_force: 2023-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/106.11"
-pdf: "https://bl.clex.ch/api/de/versions/1428/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das Amtsblatt
+# Verordnung zum Publikationsgesetz
 
-Vom 25.11.1980 (Stand 01.01.2016)
+(Vo PublG)
+
+Vom 29.11.2022 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 22 der Staatsverfassung[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Publikationsgesetz (PublG) vom 30. Juni 2022[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: Aufgehoben. Heute: Kantonsverfassung vom 17. Mai 1984 (SGS [100](https://bl.clex.ch/data/100/de), GS 29.276)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 106](https://bl.clex.ch/data/106/de)
 
 #### § 1
 
-<sup>1</sup> Mit der Herausgabe und Administration (Rechnungstellung, Versand usw.) «des Amtsblattes des Kantons Basel-Landschaft» wird die Landeskanzlei beauftragt.
+**Gegenstand**
 
-<sup>2</sup> Das Amtsblatt enthält neben den amtlichen und halbamtlichen Publikationen auch kommerzielle Inserate.
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Publikationsgesetzes vom 30. Juni 2022[^1-1] betreffend das Amtsblatt sowie die chronologische und die systematische Gesetzessammlung.
 
-<sup>3</sup> Die Landeskanzlei verpachtet den kommerziellen Inseratenteil des Amtsblattes.
+<sup>2</sup> Der Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster) ist in der kantonalen Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (KÖREBKV) vom 12. Dezember 2017[^1-2] geregelt.
+
+[^1-1]: [SGS 106](https://bl.clex.ch/data/106/de)
+[^1-2]: [SGS 211.59](https://bl.clex.ch/data/211.59/de)
 
 #### § 2
 
-<sup>1</sup> Der Abonnementspreis des Amtsblattes inkl. Beilagen Gesetzessammlung und Register beträgt CHF 100 im Jahr, die Zustellung durch die Post im Gebiet der Schweiz inbegriffen, beginnend jeweils am 1. Januar. Für das angebrochene Jahr wird der Preis pro Monat durch die Landeskanzlei festgelegt. Preis bei Auslandzustellung CHF 120.
+**Zuständigkeit der Landeskanzlei**
 
-<sup>2</sup> Der Preis der Einzelnummer des Amtsblattes inkl. Porto beträgt CHF 4.
+<sup>1</sup> Die Landeskanzlei ist zuständig für die Herausgabe des Amtsblatts sowie der chronologischen und der systematischen Gesetzessammlung.
 
-<sup>3</sup> Der Preis der Einzelbroschüre Gesetzessammlung inkl. Porto beträgt CHF 5.
+<sup>2</sup> Die Landeskanzlei stellt mit einer Leistungsvereinbarung sicher, dass:
 
-<sup>4</sup> Die kantonalen Instanzen, Mitglieder kantonaler Behörden und öffentlich-rechtliche Institutionen, an welchen der Kanton allein oder mehrheitlich beteiligt ist, erhalten das Amtsblatt unentgeltlich.
+- a. ein sicherer und datenschutzkonformer Betrieb der Plattformen für die Veröffentlichung des Amtsblatts sowie der chronologischen und der systematischen Gesetzessammlung gewährleistet wird;
+- b. die Modalitäten der Aufgabenerfüllung durch den Plattformbetreibenden und die Zugriffsrechte auf die Plattformen zur Veröffentlichung der amtlichen Publikationen geregelt werden.
+
+<sup>3</sup> Die Landeskanzlei legt die Rubriken des Amtsblatts und der systematischen Gesetzessammlung fest.
 
 #### § 3
 
-<sup>1</sup> Der Zeilenpreis für folgende Publikationen beträgt CHF 4, pro Publikation aber mindestens CHF 15:
+**Erfassen von amtlichen Bekanntmachungen**
 
-- a. allgemeine Bekanntmachungen;
-- b. ausserkantonale Publikationen;
-- c. kirchliche Publikationen;
-- d. ...
-- e. Stellenausschreibungen;
-- f. gerichtliche Publikationen, ausgenommen der in Absatz 2 Buchstabe b genannten Vorladungen, Verbotsbewilligungen und Konkurseröffnungen bevorstehend;
-- g. Betreibungs- und Konkursämter.
+<sup>1</sup> Die öffentlichen Organe gemäss Gesetz über die Information und den Datenschutz[^3-1] sind als Meldestellen für die Erfassung von amtlichen Bekanntmachungen in ihrem Aufgabenbereich auf der Publikationsplattform zuständig.
 
-<sup>2</sup> Die Pauschale für folgende Publikationen beträgt:
+<sup>2</sup> In Ausnahmefällen kann die Landeskanzlei mit der Erfassung einer amtlichen Bekanntmachung beauftragt werden.
 
-- a. pro Planauflage CHF 42;
-- b. gerichtliche Publikationen:
-  - 1\. für eine Vorladung CHF 24;
-  - 2\. für eine Verbotsbewilligung CHF 36;
-  - 3\. für eine Konkurseröffnung bevorstehend CHF 24;
-- c. pro Submission CHF 108 bzw. Zeilenpreis;
-- d. pro Erbenaufruf oder Erbschaftsausschlagung CHF 25.
-
-<sup>3</sup> Für 3-malige Publikation der übrigen erbschaftsamtlichen Publikationen wird eine Pauschale von CHF 78 erhoben.
+[^3-1]: [SGS 162](https://bl.clex.ch/data/162/de)
 
 #### § 4
 
-<sup>1</sup> Die Publikationspreise sind zu entrichten für:
+**Unkostenbeitrag für die Veröffentlichung amtlicher Bekanntmachungen im Amtsblatt**
 
-- a. die Veröffentlichung von Vorladungen, Urteilen, Verschollenerklärungen, Namensänderungen, Versteigerungen, Konzessionsgesuchen usw. durch die Zentral- und Bezirksverwaltung sowie die richterlichen Behörden,
-- b. die Bekanntmachungen der Gemeinden,
-- c. die Bekanntmachungen ausserkantonaler Amtsstellen und öffentlich-rechtlicher Anstalten,
-- d. alle anderen amtlichen und halbamtlichen Publikationen.
+<sup>1</sup> Für amtliche Bekanntmachungen wird den Meldestellen pro Publikation ein Unkostenbeitrag von CHF 19.50 durch den Betreibenden der Publikationsplattform in Rechnung gestellt.
+
+<sup>2</sup> Die Meldestellen können den Unkostenbeitrag den natürlichen und juristischen Personen weiterverrechnen, die die Publikation der amtlichen Bekanntmachung verursacht haben.
+
+<sup>3</sup> Die Weiterverrechnung des Unkostenbeitrags setzt eine genügende Rechtsgrundlage zur Erhebung von Gebühren für die zugrundeliegende Amtshandlung voraus.
 
 #### § 5
 
-**…**
+**Zeitpunkt der Veröffentlichung von amtlichen Bekanntmachungen im Amtsblatt**
 
-#### § 5a
-
-<sup>1</sup> Die Preise gemäss §§ 2 und 3 verstehen sich inklusive Mehrwertsteuer.
+<sup>1</sup> Amtliche Bekanntmachungen werden auf der Publikationsplattform in der Regel jeweils montags und donnerstags veröffentlicht.
 
 #### § 6
 
-<sup>1</sup> Es werden aufgehoben:
+**Bezug von amtlichen Bekanntmachungen**
 
-- a. die Regierungsratsverordnung vom 2. November 1976[^6-1] über die Abonnements- und Publikationspreise für das Amtsblatt,
-- b. der Regierungsratsbeschluss Nr. 3355 vom 15. Oktober 1974[^6-2] betreffend Verwaltungsbeiträge an die Kosten des Amtsblattes.
+<sup>1</sup> Der Zugang zum Amtsblatt und der chronologischen Gesetzessammlung im Internet ist unentgeltlich.
 
-[^6-1]: GS 26.207, 226
-[^6-2]: Nicht publiziert.
+<sup>2</sup> Ein Zusammenzug der in der chronologischen Gesetzessammlung veröffentlichten Erlasse, Erlassänderungen und -aufhebungen des laufenden Monats ist jeweils am Ende des Monats im Internet kostenlos verfügbar.
+
+<sup>3</sup> Die veröffentlichten amtlichen Bekanntmachungen der laufenden Woche können bei der Landeskanzlei ab Donnerstag gegen eine Gebühr von CHF 6.– (inkl. Porto) in gedruckter Form bezogen werden.
+
+<sup>4</sup> Der monatliche Zusammenzug der in der chronologischen Gesetzessammlung veröffentlichten Erlasse, Erlassänderungen und -aufhebungen kann bei der Landeskanzlei gegen eine Gebühr von CHF 6.– (inkl. Porto) jeweils am Ende des Monats in gedruckter Form bezogen werden.
 
 #### § 7
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1981 in Kraft.
+**Informationssicherheit und Datenschutz**
 
-GS 27.607
+<sup>1</sup> Die Informationen des Amtsblatts werden mit einer elektronischen Signatur oder einem elektronischen Siegel gemäss Art. 8 Abs. 2 der Verordnung über das Schweizerische Handelsamtsblatt (VSHAB) vom 15. Februar 2006[^7-1] versehen.
+
+<sup>2</sup> Der Zugriff auf Meldungen mit Personendaten ist nur so lange für die Öffentlichkeit möglich, bis der Zweck der Veröffentlichung erfüllt ist.
+
+<sup>3</sup> Die Meldestelle bestimmt die Zeitdauer der Veröffentlichung bei amtlichen Texten mit Personendaten.
+
+<sup>4</sup> Die Dauer des Zugriffs auf Meldungen, die sowohl im Amtsblatt als auch im SHAB veröffentlicht werden, bestimmt sich nach Art. 11 Abs. 2 und 3 VSHAB.
+
+[^7-1]: [SR 221.415](https://db.clex.ch/link/Bund/221.415/de)
+
+#### § 8
+
+**Archivierung**
+
+<sup>1</sup> Die Archivierung der amtlichen Meldungen aus dem Amtsblatt und der Inhalte der chronologischen Gesetzessammlung erfolgt jährlich durch das Staatsarchiv.
+
+<sup>2</sup> Von den im Amtsblatt veröffentlichten Texten werden alle Daten aufbewahrt, die notwendig sind, um die ursprünglich veröffentlichten Texte wiederherzustellen («abgeschlossene Daten»).
+
+<sup>3</sup> Die abgeschlossenen Daten werden getrennt von den öffentlich zugänglichen Kommunikationsnetzen im Staatsarchiv des Kantons aufbewahrt.
+
+GS 2022.089
