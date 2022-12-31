@@ -4,22 +4,24 @@ number: "815.100"
 title: Gesetz betreffend Tagesbetreuung von Kindern
 short: "Tagesbetreuungsgesetz, TBG"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-05-08
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2023-09-20
 adopted: 2019-05-08
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5345/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6064/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend Tagesbetreuung von Kindern
 
+Kinderbetreuung
+
 (Tagesbetreuungsgesetz, TBG)
 
-Vom 8. Mai 2019 (Stand 1. Januar 2022)
+Vom 8. Mai 2019 (Stand 1. Januar 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -180,8 +182,9 @@ beschliesst:
 - e) im Rahmen ihrer Möglichkeiten Ausbildungsplätze anbieten;
 - f) ein angemessenes Verhältnis zwischen Praktikums- und Ausbildungsplätzen aufweisen;
 - g) die branchenüblichen Anstellungsbedingungen einhalten;
-- h) Kinder mindestens während der Hälfte der anwesenden Zeit in deutscher Sprache betreuen und
-- i) ihren Betrieb langfristig finanzieren können.
+- h) Kinder mindestens während der Hälfte der anwesenden Zeit in deutscher Sprache betreuen;
+- i) ihren Betrieb langfristig finanzieren können und
+- j) einen nach § 18a gewährten Teuerungsausgleich ihren Mitarbeitenden weitergeben.
 
 <sup>2</sup> Sie hat im Rahmen der Bewilligung in geeigneter Form nachzuweisen, dass sie diese Anforderungen erfüllt.
 
@@ -226,6 +229,12 @@ beschliesst:
 <sup>1</sup> Der Kanton oder die Gemeinden können Kindertagesstätten, die Plätze mit Betreuungsbeiträgen anbieten wollen, oder Kindertagesstätten mit Betreuungsbeiträgen Investitionsbeiträge und Beiträge zur Anschubfinanzierung gewähren.
 
 <sup>2</sup> Der Kanton oder die Gemeinden können Kindertagesstätten, deren Liegenschaftskosten nachgewiesen und begründet überdurchschnittlich hoch sind, Beiträge an die Liegenschaftskosten gewähren.
+
+#### § 18a
+
+**Teuerung**
+
+<sup>1</sup> Kindertagesstätten mit Betreuungsbeiträgen wird jährlich ein Teuerungsausgleich auf den Lohnkosten gewährt, der sich nach der Entwicklung der Personalteuerung beim Kanton richtet.
 
 ### 3. Tagesfamilien mit Betreuungsbeiträgen
 
