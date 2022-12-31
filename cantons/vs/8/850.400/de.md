@@ -4,13 +4,12 @@ number: "850.400"
 title: Verordnung betreffend verschiedene Einrichtungen für die Jugend
 short: VJ
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+version_adopted: 2023-03-01
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.400"
-pdf: "https://lex.vs.ch/api/de/versions/2981/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3181/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2981/pdf_file"
 
 (VJ)
 
-vom 09.05.2001 (Stand 01.01.2022)
+vom 09.05.2001 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -449,7 +448,7 @@ verordnet:
 
 **Integration von behinderten Kindern**
 
-<sup>1</sup> Das Departement kann die Integration von behinderten Kindern in Strukturen, welche in den Artikeln 25 und 26 aufgeführt sind, unterstützen.
+<sup>1</sup> Das Departement kann die Integration von behinderten Kindern in Strukturen, welche in den Artikeln 28 und 29 aufgeführt sind, unterstützen.
 
 ### 5.2 Bewilligung und Aufsicht
 
@@ -615,7 +614,7 @@ verordnet:
 
 **Tageseltern**
 
-<sup>1</sup> Das Departement kann Vereinbarungen oder einen Leistungsvertrag mit einem Walliser Dachverband für familienexterne Tagesbetreuung durch Tageseltern abschliessen, um ihm die Aufsicht und die Evaluation der Tagesfamilien zu delegieren.
+<sup>1</sup> …
 
 <sup>2</sup> Der Kanton übernimmt 30 Prozent der Gehälter der Personen, die eine Tätigkeit als Tageseltern ausüben.
 
@@ -625,7 +624,7 @@ verordnet:
 
 <sup>5</sup> Ein Staatsratsentscheid, welcher im Amtsblatt veröffentlicht wird, legt die Stundenansätze, die anerkannten Ausbildungen, die Gehaltsstufe der Koordinatorinnen, welche für die Berechnung der Beteiligung des Kantons berücksichtigt wird, sowie die Finanzierungsmodalitäten, fest.
 
-<sup>6</sup> Für den Kauf und die Erneuerung des anerkannten Erziehungsmaterials leistet der Kanton eine Pauschale von 25 Franken pro Jahr und Tageseltern. Dieser Pauschalbetrag wird an die Entwicklung der Lebenshaltungskosten angepasst und wird dem Walliser Dachverband für Tageseltern überwiesen.
+<sup>6</sup> Für den Kauf und die Erneuerung des anerkannten Erziehungsmaterials leistet der Kanton eine Pauschale von 90 Franken pro Jahr und Tageseltern. Dieser Pauschalbetrag wird an die Entwicklung der Lebenshaltungskosten angepasst und wird dem Walliser Dachverband für Tageseltern überwiesen.
 
 <sup>7</sup> Der Kanton kann Kontrollen durchführen, um sich zu vergewissern, dass die entsprechende Pauschale effektiv zum Kauf von Erziehungsmaterial verwendet wird.
 
@@ -688,14 +687,14 @@ verordnet:
 
 <sup>1</sup> Die Pflegeeltern müssen im Besitz einer Aufnahmebewilligung sein, welche von der Dienststelle erteilt wird.
 
-<sup>2</sup> Die Bewilligung ist drei Jahre gültig und wird erteilt nach Prüfung der Persönlichkeit, der erzieherischen Eignung, der wirtschaftlichen Situation, der Gesundheit sowie der Wohnverhältnisse der Pflegeeltern und deren Mitbewohner. Die Prüfung oben erwähnter Bedingungen muss eine gute Pflege, Erziehung und Ausbildung des Kindes sowie das Wohl anderer in der Pflegefamilie lebender Kinder gewährleisten. Zu diesem Zweck verlangt unter anderem die Dienststelle von den Pflegeeltern folgende Unterlagen:
+<sup>2</sup> Die Bewilligung ist 3 Jahre gültig und wird erteilt nach Prüfung der Persönlichkeit, der erzieherischen Eignung, der wirtschaftlichen Situation, der Gesundheit sowie der Wohnverhältnisse der Pflegeeltern und deren Mitbewohner. Die Prüfung oben erwähnter Bedingungen muss eine gute Pflege, Erziehung und Ausbildung des Kindes sowie das Wohl anderer in der Pflegefamilie lebender Kinder gewährleisten. Zu diesem Zweck verlangt die Dienststelle von den Pflegeeltern bei der Erstzulassung insbesondere folgende Unterlagen:
 
 - a) ein Arztzeugnis, aus dem hervorgeht, dass die Mitglieder der Pflegefamilie und jede in ihrem Haushalt lebende Person nicht an einer körperlichen oder geistigen Erkrankung leiden, aus der sich ungünstige Bedingungen für die Pflege des Kindes ergeben können;
 - b) ein Privatauszug aus dem Strafregister, inklusive der volljährigen Mitbewohner. Das Verlangen eines Sonderprivatauszugs aus dem Strafregister bleibt vorbehalten;
 - c) die letzte Steuerveranlagung;
-- d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.
+- d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind, die für die gesamte Bewilligungsdauer gilt.
 
-<sup>3</sup> Sie werden von der Dienststelle beaufsichtigt.
+<sup>3</sup> Sie werden von der Dienststelle beaufsichtigt, die den Pflegeeltern mindestens einmal pro Jahr einen Hausbesuch abstattet. Die Bewilligung wird erneuert, wenn die Dienststelle feststellt, dass die Aufnahmebedingungen weiterhin gegeben sind.
 
 #### Art. 50
 
@@ -728,14 +727,14 @@ verordnet:
 - g) das Wohl anderer in der Pflegefamilie lebender Kinder gewährleistet ist;
 - h) die Gewissheit besteht, dass kein Personal für erzieherische Aufgaben angestellt wird.
 
-<sup>3</sup> Hierfür verlangt die Dienststelle von den Pflegeeltern folgende Unterlagen:
+<sup>3</sup> Hierfür verlangt die Dienststelle von den Pflegeeltern bei der Erstzulassung insbesondere folgende Unterlagen:
 
 - a) ein Arztzeugnis, aus dem hervorgeht, dass die Mitglieder der Pflegefamilie und jede in ihrem Haushalt lebende Person nicht an einer körperlichen oder geistigen Erkrankung leiden, aus der sich ungünstige Bedingungen für die Pflege des Kindes ergeben können;
 - b) ein Privatauszug aus dem Strafregister, inklusive der volljährigen Mitbewohner. Das Verlangen eines Sonderprivatauszugs aus dem Strafregister bleibt vorbehalten;
 - c) die letzte Steuerveranlagung;
-- d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.
+- d) eine schriftliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienststellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind, die für die gesamte Bewilligungsdauer gilt.
 
-<sup>4</sup> Die professionellen Pflegeeltern werden von der Dienststelle beaufsichtigt.
+<sup>4</sup> Die professionellen Pflegeeltern werden von der Dienststelle beaufsichtigt, die mindestens einmal pro Jahr einen Besuch abstattet. Die Bewilligung wird erneuert, wenn die Dienstelle feststellt, dass die Aufnahmebedingungen weiterhin gegeben sind.
 
 #### Art. 53
 
@@ -783,9 +782,9 @@ verordnet:
 
 #### Art. 57
 
-<sup>1</sup> Als Ferienkolonie oder Ferienhaus gilt jede Beherbergungsstätte für Kinder, die während den Schulferien oder für kurze Zeitdauer Unterkunft anbietet und auf dem Territorium des Kantons Wallis sich befindet.
+<sup>1</sup> Als Ferienkolonie oder Ferienhaus gilt jede Beherbergungsstätte auf dem Kantonsgebiet des Wallis für Kinder ohne Begleitung ihres gesetzlichen Vertreters.
 
-<sup>2</sup> Als Lager gilt jeder Aufenthalt der Kinder von mehr als drei Tagen, welcher für Walliser Kinder angeboten wird.
+<sup>2</sup> Als Ferienlager gilt jeder Aufenthalt in einer Ferienkolonie, welcher für Kinder angeboten wird.
 
 ### 7.1 Bewilligung
 
@@ -796,7 +795,7 @@ verordnet:
 <sup>1</sup> Das Bewilligungsgesuch muss Folgendes enthalten:
 
 - a) den Namen des Eigentümers der Wohnstruktur, wenn es sich um eine natürliche Person handelt, oder die Statuten und den Namen des Präsidenten des Direktionsorgans, wenn es sich um eine juristische Person handelt;
-- b) für den Betriebsführer einen Privatauszug und Sonderprivatauszug aus dem Strafregister, die nicht mehr als sechs Monate vor der Gesuchstellung ausgestellt wurden;
+- b) für den Betriebsführer, seine Familienangehörigen im Alter von über 10 Jahren und das Personal der Unterkunft, die mit Minderjährigen in Kontakt kommen können, einen Privatauszug und Sonderprivatauszug aus dem Strafregister, die nicht mehr als 6 Monate vor der Gesuchstellung ausgestellt wurden;
 - c) die Anzahl der Kinder, welche in der Unterkunft aufgenommen werden können;
 - d) den Plan der Räumlichkeiten und Einrichtungen;
 - e) die positiven Vormeinungen der kantonalen Dienststellen, welche auf dem Gesuchsformular für die Bewilligung aufgeführt sind.
@@ -817,9 +816,13 @@ verordnet:
 
 **Erneuerung der Bewilligung**
 
-<sup>1</sup> Die Gemeinde ist zuständig für die Erneuerung der Betriebsbewilligung.
+<sup>1</sup> Die Gemeinde ist zuständig für die Erneuerung der Betriebsbewilligung. Ist die Unterkunft Eigentum der Gemeinde oder der Burgergemeinde, bleibt die Dienstelle für die Erneuerung der Bewilligung zuständig.
 
-<sup>2</sup> Wenn die Grundvorschriften eingehalten sind, wird die Gemeinde die Bewilligung für weitere vier Jahre erneuern.
+<sup>2</sup> Die Bewilligung wird unter den folgenden Bedingungen für weitere 4 Jahre erneuert:
+
+- a) die in der Grundbewilligung vorgesehenen Vorschriften werden eingehalten;
+- b) die Einrichtung erfüllt die Vorschriften im Bereich der Baupolizei, Feuerpolizei, Hygiene und Lebensmittel;
+- c) der Betriebsführer, seine Familienangehörigen im Alter von über 10 Jahren und das Personal der Unterkunft, die mit Minderjährigen in Kontakt kommen können, haben einen Privatauszug und Sonderprivatauszug aus dem Strafregister vorgelegt, die nicht mehr als 6 Monate vor dem Erneueerungsgesuch ausgestellt wurden.
 
 <sup>3</sup> Sie ist beauftragt zu überwachen, dass die in der Grundbewilligung vorgesehenen Vorschriften eingehalten werden.
 
@@ -845,7 +848,7 @@ verordnet:
 
 **Anzahl**
 
-<sup>1</sup> Die zuständigen Verantwortlichen für die Organisation und Durchführung von Ferienkolonien und Ferienlager sind verpflichtet dafür zu sorgen, dass die betreuten Kinder eine ihren Bedürfnissen und ihrem Alter entsprechende, sowie den jeweiligen Situationen angemessene Betreuung erhalten.
+<sup>1</sup> Die zuständigen Verantwortlichen für die Organisation und Durchführung von Ferienlagern in der Kolonie sind verpflichtet dafür zu sorgen, dass die betreuten Kinder eine ihren Bedürfnissen und ihrem Alter entsprechende, sowie den jeweiligen Situationen angemessene Betreuung erhalten.
 
 <sup>2</sup> Die empfohlene Mindestanzahl an Betreuern beträgt einen Leiter für acht Kinder im obligatorischen Schulalter (Lagerverantwortliche, Leiter, Hilfsleiter, Pfleger, Koch, Mitarbeiter für besondere Tätigkeiten).
 
@@ -868,13 +871,16 @@ verordnet:
 
 **Ausbildung**
 
-<sup>1</sup> Es wird empfohlen, dass die verantwortlichen Personen für die Betreuung der Kinder sowie die Gruppenhilfsleiter im Besitz einer spezifischen Grundausbildung sind, welche durch eine vom Kanton anerkannte Stelle erteilt wird.
+<sup>1</sup> Die verantwortlichen Personen für die Betreuung der Kinder sowie die Gruppenleiter und Gruppenhilfsleiter müssen im Besitz einer spezifischen Grundausbildung sein, welche durch eine vom Kanton anerkannte Stelle erteilt wird.
 
-<sup>2</sup> Anerkannte Ausbildungen sind:
+<sup>1<sup>bis</sup></sup> Diese Ausbildung wird dringend empfohlen für Personen, die von Vereinen organisierte Lager betreuen, die in regelmässigem Kontakt mit Minderjährigen stehen und diese ganzjährig betreuen (insbesondere in Sport- oder Musikvereinen).
+
+<sup>2</sup> Als ausgebildete Personen sind namentlich anerkannt:
 
 - a) Studenten der Psychologie, Erziehungswissenschaften, Pädagogik oder ähnliches;
 - b) Studenten der Fachhochschulen für Soziales und der pädagogischen Hochschulen;
-- c) Lehrpersonen, welche die pädagogische Hochschule oder das Lehrerseminar besucht haben.
+- c) Lehrpersonen, welche die pädagogische Hochschule oder das Lehrerseminar besucht haben;
+- d) Personen mit einer anderen Ausbildung, die als gleichwertig angesehen wird.
 
 <sup>3</sup> Der Kanton kann durch konkrete Massnahmen Grundausbildungs- und Weiterbildungskurse fördern.
 
@@ -890,15 +896,15 @@ verordnet:
 
 **Erholungsräume in Ferienkolonien und Ferienhäusern**
 
-<sup>1</sup> Die Räume, die zur Erholung dienen, müssen der Mindestnorm von 10 m³ pro Kind entsprechen.
+<sup>1</sup> Es wird empfohlen, dass die Räume, die zur Erholung dienen, der Mindestnorm von 10 m³ pro Kind entsprechen, Gänge und sanitäre Anlagen nicht inbegriffen.
 
-<sup>2</sup> In Gebäuden die vor 1976 erbaut worden sind, kann eine Mindestnorm von 8 m³ anerkannt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Während der Sommerzeit und wenn zusätzlich der Aufenthalt der Gruppen nicht länger als eine Woche dauert, kann das Volumen von 6 m³ pro Kind zugelassen werden.
+<sup>3</sup> …
 
-<sup>4</sup> Diese Volumen umfassen nicht die Gänge und die sanitären Einrichtungen.
+<sup>4</sup> …
 
-<sup>5</sup> Die Schlafräume müssen über genügend natürliches Licht und Luftumlauf verfügen.
+<sup>5</sup> Diese Räume müssen leicht zugänglich sein und über genügend Tageslicht und natürliche Belüftung verfügen.
 
 <sup>6</sup> Es ist verboten, Kinder im Untergeschoss oder im Estrich unterzubringen, falls diese keinen natürlichen Luftumlauf, kein natürliches Tageslicht und keinen leichten Zugang aufweisen.
 
@@ -924,9 +930,9 @@ verordnet:
 
 **Technische Installationen**
 
-<sup>1</sup> Der Betrieb muss über Stromzufuhr und Telephonanschluss verfügen sowie ausreichend mit gutem Trinkwasser versorgt sein.
+<sup>1</sup> Der Betrieb muss über Stromzufuhr verfügen sowie ausreichend mit gutem Trinkwasser versorgt sein.
 
-<sup>2</sup> Die Notrufnummer muss in unmittelbarer Nähe des Telephonapparates deutlich angeschrieben sein.
+<sup>2</sup> Die Notrufnummern müssen deutlich angeschrieben sein.
 
 #### Art. 70
 
@@ -934,17 +940,19 @@ verordnet:
 
 <sup>1</sup> Das Gebäude darf sich weder in einer Gefahrenzone für natürliche Gefahren, noch in unmittelbarer Nähe eines gefährlichen Ortes befinden und darf nicht Beeinträchtigungen ausgesetzt sein, die der Gesetzgebung für den Umweltschutz widersprechen.
 
-<sup>2</sup> Die Türen müssen sich nach aussen öffnen und müssen vor Schneeanhäufungen geschützt sein (für die Gebäude, welche vor 1976 gebaut wurden, können Ausnahmen gewährt werden).
+<sup>1<sup>bis</sup></sup> Das Gebäude muss die Anforderungen an die Sicherheit und Brandbekämpfung sowie die Standards für Lebensmittelhygiene einhalten.
 
-<sup>3</sup> Die Zugänge zu den Haupttreppen müssen direkt nach aussen führen und eine Minimalbreite von 1.20 Metern aufweisen.
+<sup>2</sup> …
 
-<sup>4</sup> Die Notausgänge müssen mit einer Vorrichtung ausgerüstet sein, die vor dem Aufkommen von Panik schützt und gemäss den Instruktionen der hierfür zuständigen Dienststelle gekennzeichnet sein.
+<sup>3</sup> …
 
-<sup>5</sup> Das Gebäude muss so eingerichtet sein, dass die Bekämpfung des Feuers im Haus (Feuerlöscher) und ausserhalb durch eine Feuerbekämpfungseinrichtung möglich ist und es muss ein Hydrant vorhanden sein, welcher höchstens 50 Metern vom Gebäude entfernt sein darf.
+<sup>4</sup> …
 
-<sup>6</sup> Das Gebäude muss mit einem Blitzableiter, einer automatischen Sicherheitsbeleuchtung und mit Feuermelder versehen sein.
+<sup>5</sup> …
 
-<sup>7</sup> Die elektrischen Einrichtungen müssen kontrolliert sein und den geltenden Vorschriften entsprechen.
+<sup>6</sup> …
+
+<sup>7</sup> …
 
 #### Art. 71
 
@@ -1024,10 +1032,10 @@ verordnet:
 
 **Erholungsräume für Internate und Kinderheime**
 
-<sup>1</sup> Die Räume, welche der Erholung dienen, müssen folgenden Mindestnormen entsprechen:
+<sup>1</sup> Die Räume, welche der Erholung dienen, müssen der Mindestnorm von 10m³ pro Kind entsprechen.
 
-- a) für Zimmer mit mehreren Betten: 10 Kubikmeter pro Kind bis zum erfüllten 14. Lebensjahr und 12 Kubikmeter für ältere Kinder. Für Gebäude, die vor 1976 erbaut wurden, können, unabhängig des Alters der Kinder, 10 Kubikmeter pro Kind zugelassen werden;
-- b) für Zimmer mit einem Bett: 14 Kubikmeter im Minimum pro Kind.
+- a) …
+- b) …
 
 <sup>2</sup> Die Fensteroberfläche muss 10 Prozent der Zimmerfläche entsprechen.
 
@@ -1057,17 +1065,19 @@ verordnet:
 
 <sup>1</sup> Das Gebäude darf sich weder in einer Gefahrenzone für natürliche Gefahren, noch in unmittelbarer Nähe eines gefährlichen Ortes befinden und darf nicht Beeinträchtigungen ausgesetzt sein, die der Gesetzgebung für den Umweltschutz widersprechen.
 
-<sup>2</sup> Die Türen müssen sich nach aussen öffnen und müssen vor Schneeanhäufungen geschützt sein (für die Gebäude, welche vor 1976 gebaut wurden, können Ausnahmen gewährt werden).
+<sup>1<sup>bis</sup></sup> Das Gebäude muss die Anforderungen an die Sicherheit und Brandbekämpfung sowie die Standards für Lebensmittelhygiene einhalten.
 
-<sup>3</sup> Die Zugänge zu den Haupttreppen müssen direkt nach aussen führen und eine Minimalbreite von 1,20 m aufweisen.
+<sup>2</sup> …
 
-<sup>4</sup> Die Notausgänge müssen mit einer Vorrichtung ausgerüstet sein, die vor dem Aufkommen von Panik schützt und müssen gemäss den Instruktionen der hierfür zuständigen Dienststelle gekennzeichnet sein.
+<sup>3</sup> …
 
-<sup>5</sup> Das Gebäude muss so eingerichtet sein, dass die Bekämpfung des Feuers im Haus (Feuerlöscher) und ausserhalb durch eine Feuerbekämpfungseinrichtung möglich ist und es muss ein Hydrant vorhanden sein, welcher höchstens 50 Meter vom Gebäude entfernt sein darf.
+<sup>4</sup> …
 
-<sup>6</sup> Das Gebäude muss mit einem Blitzableiter versehen sein, einer automatischen Sicherheitsbeleuchtung und mit Feuermelder.
+<sup>5</sup> …
 
-<sup>7</sup> Die elektrischen Einrichtungen müssen kontrolliert sein und den geltenden Vorschriften entsprechen.
+<sup>6</sup> …
+
+<sup>7</sup> …
 
 #### Art. 83
 
@@ -1112,11 +1122,15 @@ verordnet:
 
 **Bewilligung und Aufsicht**
 
-<sup>1</sup> Alle sozialpädagogischen Einrichtungen, die sich auf dem Territorium des Kantons Wallis befinden, sind bewilligungspflichtig. Die Bewilligung wird durch den Staatsrat gemäss Artikel 12 bis 20 der Verordnung über die Aufnahme von Pflegekindern vom 19. Oktober 1977 (Pflegekinderverordnung, PAVO; Bundesverordnung) erteilt.
+<sup>1</sup> Alle sozialpädagogischen Einrichtungen, die sich auf dem Territorium des Kantons Wallis befinden, sind bewilligungspflichtig. Die Bewilligung wird durch den Staatsrat gemäss Artikel 12 bis 20 der Bundesverordnung erteilt. Die Bewilligung erfolgt in Form eines Leistungsauftrags.
 
-<sup>2</sup> Das Bewilligungsgesuch muss die diversen Elemente, wie sie in Artikel 14 der Bundesverordnung aufgeführt sind, beinhalten.
+<sup>2</sup> Das Bewilligungsgesuch muss die diversen Elemente, wie sie in Artikel 14 der Bundesverordnung aufgeführt sind, beinhalten. Darüber hinaus müssen der Betriebsleiter und seine Mitarbeiter folgende Unterlagen vorlegen:
 
-<sup>3</sup> Die Einrichtung muss die Normen dieser Verordnung bezüglich Hygiene, Sicherheit für den Betrieb eines Internats oder Kinderheimes erfüllen.
+- a) ein Privatauszug und ein Sonderprivatauszug aus dem Strafregister, die nicht mehr als 6 Monate vor der Gesuchstellung ausgestellt wurden;
+- b) ein Arztzeugnis, aus dem hervorgeht, dass der Betriebsleiter und das Betriebspersonal nicht an einer körperlichen oder geistigen Erkrankung leiden, aus der sich ungünstige Bedingungen für die Betreuung des Kindes ergeben können. Bei der Anstellung von Praktikanten wird kein Arztzeugnis verlangt;
+- c) eine schrifliche Einwilligung zur Einholung von Auskünften bei Personen, Behörden und Dienstellen, die Informationen liefern können, welche für die Prüfung der oben erwähnten Bedingungen nützlich sind.
+
+<sup>3</sup> …
 
 <sup>4</sup> Die sozialpädagogischen Einrichtungen sind unter die Aufsicht der Dienststelle gemäss Artikel 19 der Bundesverordnung gestellt.
 
@@ -1126,12 +1140,15 @@ verordnet:
 
 **Anerkennung der sozialpädagogischen Einrichtungen**
 
-<sup>1</sup> Der Staatsrat kann eine Institution als sozialpädagogische Einrichtung anerkennen und mit ihr eine Vereinbarung treffen, wenn :
+<sup>1</sup> Der Staatsrat kann eine Institution als sozialpädagogische Einrichtung anerkennen und ihr einen Leistungsauftrag erteilen, wenn:
 
 - a) der Bedarfsnachweis gemäss der kantonalen Planung der sozialpädagogischen Einrichtungen für Kinder offensichtlich ist;
 - b) die Bedingungen gemäss Artikel 15 der Bundesverordnung erfüllt sind;
 - c) die Einrichtung von einer juristischen Person abhängig ist;
-- d) das Organigramm des Erziehungspersonals, der Werklehrer, der Sozialpädagogen und anderer Fachleute, die sich um Kinder kümmern, genehmigt worden ist.
+- d) das Organigramm des Erziehungspersonals, der Werklehrer, der Sozialpädagogen und anderer Fachleute, die sich um Kinder kümmern, genehmigt worden ist;
+- e) die Betreuungseinrichtung die Normen dieser Verordnung bezüglich Hygiene und Sicherheit für den Betrieb eines Internats oder Kinderheimes erfüllt.
+
+<sup>2</sup> Dieser Leistungsauftrag beinhaltet die zu erbringenden Leistungen, die Einführung von Qualitätsstandards und das erforderliche Personal.
 
 #### Art. 88
 
@@ -1187,23 +1204,17 @@ verordnet:
 
 **Beitrag an die Betriebskosten der anerkannten sozialpädagogischen Einrichtungen**
 
-<sup>1</sup> Der Staat beteiligt sich an den Betriebskosten mit einer Betriebssubvention, welche höchstens 75 Prozent der anerkannten Betriebskosten betragen darf. Die Subventionierung stützt sich auf die Anzahl Tage der platzierten und im Wallis wohnhaften Kinder. Diese Betriebssubvention kann nicht 100 Prozent der Kosten der anerkannten Leistungen überschreiten.
+<sup>1</sup> Der Staat beteiligt sich an den Betriebskosten mit einer Subvention, die den Betriebskosten entspricht, welche aufgrund der Anzahl Tage der platzierten und im Wallis wohnhaften Kinder anerkannt wurden. Diese Betriebssubvention kann nicht 100 Prozent der Kosten der anerkannten Leistungen überschreiten.
+
+<sup>1<sup>bis</sup></sup> Von dieser Subvention werden alle Einnahmen abgezogen, die namentlich aus der Beteiligung des Kindes oder seiner Eltern, aus Platzierungen von Kindern mit Wohnsitz ausserhalb des Kantons und aus der Beteiligung des Bundesamtes für Justiz stammen.
 
 <sup>2</sup> …
 
-<sup>3</sup> Der Staatsrat kann einen Leistungsvertrag mit den sozialpädagogischen Einrichtungen abschliessen. Dieser Vertrag beinhaltet die zu erbringenden Leistungen, die Einführung von Qualitätsstandards, das erforderliche Personal und ein Globalbudget.
+<sup>3</sup> …
 
 #### Art. 93a
 
-**Beitrag an die Betriebskosten der sozialpädagogischen Einrichtungen anerkannt nur durch den Kanton**
-
-<sup>1</sup> Der Staat beteiligt sich an den anerkannten Betriebskosten. Die Subventionierung stützt sich auf die Anzahl Tage der platzierten und im Wallis wohnhaften Kinder. Diese Betriebssubvention kann nicht 100 Prozent der Kosten der anerkannten Leistungen überschreiten.
-
-<sup>2</sup> Die Platzierungskosten, welche einem Beherbergungsbeitrag und dem persönlichen Budget entsprechen, werden in erster Linie durch das Kind oder seine Eltern getragen und erst subsidiär durch die verantwortliche Körperschaft gemäss den kantonalen Bestimmungen über die Eingliederung und die Sozialhilfe übernommen.
-
-<sup>3</sup> Der Betrag zu Lasten des Kindes oder seiner Eltern wird durch einen Beschluss des Staatsrates, welcher im Amtsblatt veröffentlicht wird, festgelegt.
-
-<sup>4</sup> Der Staatsrat kann einen Leistungsvertrag mit den sozialpädagogischen Einrichtungen abschliessen. Dieser Vertrag beinhaltet die zu erbringenden Leistungen, die Einführung von Qualitätsstandards und das erforderliche Personal.
+**…**
 
 #### Art. 94
 
@@ -1237,7 +1248,7 @@ verordnet:
 
 <sup>3</sup> Mit Bauabschluss wird eine detaillierte Abrechnung mit allen Belegen dem Departement abgegeben.
 
-<sup>4</sup> Eine Schlussabrechnung wird erstellt und muss durch den Staatsrat genehmigt werden.
+<sup>4</sup> Eine Schlussabrechnung wird erstellt und muss durch die zuständige kantonale Behörde genehmigt werden.
 
 #### Art. 97
 
@@ -1245,13 +1256,13 @@ verordnet:
 
 <sup>1</sup> Wenn der Betrieb einer Einrichtung aufgegeben wird oder wenn diese zweckentfremdet oder veräussert wird, fordert der Staatsrat die Rückzahlung der Investitionssubvention samt Zins, berechnet ab dem Zeitpunkt des Eintretens des Rückforderungsgrunds.
 
-<sup>2</sup> Der Rückforderungsbetrag berechnet sich proportional im Verhältnis der effektiven Dauer, in welcher der Empfänger die Einrichtung zweckmässig gebraucht hat und der zwanzigjährigen Dauer der Zweckbindung.
+<sup>2</sup> Der Rückforderungsbetrag berechnet sich proportional im Verhältnis der effektiven Dauer, in welcher der Empfänger die Einrichtung zweckmässig gebraucht hat und der fünfundzwanzigjährigen Dauer der Zweckbindung.
 
 <sup>3</sup> In Härtefällen kann auf die Rückzahlung teilweise oder ganz verzichtet werden.
 
 <sup>4</sup> Im Falle der Veräusserung kann der Staatsrat auf eine Rückzahlung teilweise oder ganz verzichten, wenn der Käufer eine privat- oder öffentlichrechtliche Institution ist, welche sozialpädagogische Ziele anstrebt, die Subventionsanforderungen erfüllt und die Verpflichtungen als Empfänger übernimmt.
 
-<sup>5</sup> Der Subventionsempfänger muss umgehend und schriftlich den Staatsrat von jeglicher Zweckentfremdung oder Veräusserung benachrichtigen.
+<sup>5</sup> Jede Zweckentfremdung oder Veräusserung muss vorher vom Staatsrat genehmigt werden.
 
 #### Art. 98
 

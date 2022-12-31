@@ -4,13 +4,12 @@ number: "850.400"
 title: Ordonnance sur les différentes structures en faveur de la jeunesse
 short: OJe
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-24
+version: 2023-01-01
+version_adopted: 2023-03-01
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.400"
-pdf: "https://lex.vs.ch/api/fr/versions/2981/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3181/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2981/pdf_file"
 
 (OJe)
 
-du 09.05.2001 (état 01.01.2022)
+du 09.05.2001 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -449,7 +448,7 @@ ordonne:
 
 **Intégration d'enfants présentant un handicap**
 
-<sup>1</sup> Le département peut soutenir l'intégration dans les structures définies aux art. 25 et 26 d'enfants présentant un handicap.
+<sup>1</sup> Le département peut soutenir l'intégration dans les structures définies aux articles 28 et 29 d'enfants présentant un handicap.
 
 ### 5.2 Autorisation et surveillance
 
@@ -615,7 +614,7 @@ ordonne:
 
 **Réseaux d'accueil familial à la journée**
 
-<sup>1</sup> Le département peut passer une convention ou un contrat de prestations avec une fédération valaisanne d'accueil familial à la journée afin de lui déléguer la surveillance et l'évaluation des familles d'accueil.
+<sup>1</sup> …
 
 <sup>2</sup> Le canton prend en charge le 30 pour cent du salaire des personnes exerçant l'activité de parent d'accueil à la journée.
 
@@ -625,7 +624,7 @@ ordonne:
 
 <sup>5</sup> Une décision du Conseil d'Etat publiée au Bulletin officiel précise les salaires horaires, les formations reconnues, l'échelle salariale des coordinateurs prise en compte pour le calcul de la participation du canton, ainsi que les modalités de financement.
 
-<sup>6</sup> Le canton prend en charge un forfait de 25 francs par année et par parent d'accueil pour l'achat et renouvellement du matériel éducatif reconnu. Ce montant forfaitaire sera adapté à l'évolution du coût de la vie et sera versé à la Fédération valaisanne de l'accueil familial de jour.
+<sup>6</sup> Le canton prend en charge un forfait de 90 francs par année et par parent d'accueil pour l'achat et renouvellement du matériel éducatif reconnu. Ce montant forfaitaire sera adapté à l'évolution du coût de la vie et sera versé à la Fédération valaisanne de l'accueil familial de jour.
 
 <sup>7</sup> Le canton pourra effectuer des contrôles afin de s'assurer que le forfait en question soit alloué à l'achat de matériel éducatif.
 
@@ -688,14 +687,14 @@ ordonne:
 
 <sup>1</sup> Les familles d'accueil doivent être au bénéfice d'une autorisation d'accueil délivrée par le service.
 
-<sup>2</sup> L'autorisation est valable trois ans et délivrée après examen des qualités personnelles, des aptitudes éducatives, de la situation économique, de l'état de santé et des conditions de logement de toutes les personnes constituant la famille d'accueil et/ou faisant ménage commun avec ces dernières. L'examen des conditions ci-avant doit offrir toutes les garanties que l'enfant placé bénéficiera de soins, d'une éducation et d'une formation adéquats et que le bien-être des autres enfants vivant dans la famille est sauvegardé. Dans ce but le service exige notamment les documents suivants des familles d'accueil:
+<sup>2</sup> L'autorisation est valable 3 ans et délivrée après examen des qualités personnelles, des aptitudes éducatives, de la situation économique, de l'état de santé et des conditions de logement de toutes les personnes constituant la famille d'accueil et/ou faisant ménage commun avec ces dernières. L'examen des conditions ci-avant doit offrir toutes les garanties que l'enfant placé bénéficiera de soins, d'une éducation et d'une formation adéquats et que le bien-être des autres enfants vivant dans la famille est sauvegardé. Dans ce but le service exige notamment les documents suivants des familles d'accueil lors de l'agrément initial:
 
 - a) un certificat médical attestant que les personnes constituant la famille d’accueil et chaque personne vivant dans leur ménage ne souffrent d’aucune affection physique et psychique pouvant constituer des conditions défavorables à l’accueil de l’enfant;
 - b) un extrait ordinaire du casier judiciaire, y compris les autres personnes majeures vivant dans leur ménage. La demande d'un extrait spécial du casier judiciaire demeure réservée;
 - c) la dernière taxation d'impôt;
-- d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités.
+- d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités, valable pour toute la durée de l'autorisation.
 
-<sup>3</sup> Elles sont soumises à la surveillance du service.
+<sup>3</sup> Elles sont soumises à la surveillance du service qui effectue des visites au domicile de la famille d’accueil au moins une fois par année. L’autorisation est renouvelée si le service constate que les conditions d’accueil sont toujours réunies.
 
 #### Art. 50
 
@@ -728,14 +727,14 @@ ordonne:
 - g) le bien-être des autres enfants vivant dans la famille est sauvegardé;
 - h) la famille s'engage à ne pas recourir à du personnel pour les tâches éducatives.
 
-<sup>3</sup> Dans ce but le service exige notamment les documents suivants des familles d'accueil:
+<sup>3</sup> Dans ce but le service exige notamment les documents suivants des familles d'accueil lors de l'agrément initial:
 
 - a) un certificat médical attestant que les personnes constituant la famille d’accueil et chaque personne vivant dans leur ménage ne souffrent d’aucune affection physique et psychique pouvant constituer des conditions défavorables à l’accueil de l’enfant;
 - b) un extrait ordinaire du casier judiciaire, y compris les autres personnes majeures vivant dans leur ménage. La demande d'un extrait spécial du casier judiciaire demeure réservée;
 - c) la dernière taxation d'impôt;
-- d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités.
+- d) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l'examen des conditions précités, valable pour toute la durée de l'autorisation.
 
-<sup>4</sup> Les familles d'accueil professionnelles sont soumises à la surveillance du service.
+<sup>4</sup> Les familles d'accueil professionnelles sont soumises à la surveillance du service qui effectue des visites au moins une fois par année. L’autorisation est renouvelée si le service constate que les conditions d’accueil sont toujours réunies.
 
 #### Art. 53
 
@@ -783,9 +782,9 @@ ordonne:
 
 #### Art. 57
 
-<sup>1</sup> Par colonie ou maison de vacances, il faut entendre tout établissement situé sur le territoire du canton du Valais hébergeant des enfants durant les vacances scolaires ou pour de courtes périodes.
+<sup>1</sup> Par colonie ou maison de vacances, il faut entendre tout établissement situé sur le territoire du canton du Valais hébergeant des enfants non accompagnés du représentant légal.
 
-<sup>2</sup> Par camp, il faut entendre tout séjour de plus de trois jours offert à des enfants valaisans.
+<sup>2</sup> Par camp de vacances, il faut entendre tout séjour en colonie offert à des enfants.
 
 ### 7.1 Autorisation
 
@@ -796,7 +795,7 @@ ordonne:
 <sup>1</sup> La demande d'autorisation doit contenir:
 
 - a) le nom du propriétaire de la structure s'il s'agit d'une personne physique, ou les statuts et le nom du président de l'organe de direction s'il s'agit d'une personne morale;
-- b) un extrait ordinaire et spécial du casier judiciaire de l'exploitant établis six mois au plus avant le dépôt de la demande;
+- b) un extrait ordinaire et spécial du casier judiciaire de l'exploitant, des membres de sa famille âgés de plus de 10 ans et du personnel présents dans l'établissement susceptibles d'être en contact avec les mineurs établis 6 mois au plus avant le dépôt de la demande;
 - c) le nombre des enfants pouvant être accueillis dans l'établissement;
 - d) le plan des locaux et des équipements;
 - e) le préavis positif de la part des services cantonaux tel que prévu dans le formulaire de demande d'autorisation.
@@ -817,9 +816,13 @@ ordonne:
 
 **Renouvellement de l'autorisation**
 
-<sup>1</sup> La commune est compétente pour le renouvellement de l'autorisation d'exploitation.
+<sup>1</sup> La commune est compétente pour le renouvellement de l'autorisation d'exploitation. Si l'établissement est propriété de la commune ou de la bourgeoisie, le service reste compétent pour le renouvellement de l'autorisation.
 
-<sup>2</sup> Si les prescriptions de base sont respectées, la commune renouvellera l'autorisation pour quatre ans.
+<sup>2</sup> L'autorisation est renouvelée pour 4 ans aux conditions suivantes:
+
+- a) les prescriptions prévues dans l'autorisation de base sont respectées;
+- b) la structure respecte les prescriptions en matière de police des constructions, du feu, d'hygiène, des denrées alimentaires;
+- c) l'exploitant, les membres de sa famille âgés de plus de 10 ans et le personnel présents dans l'établissement susceptibles d'être en contact avec les mineurs ont fourni un extrait ordinaire et spécial du casier judiciaire établis 6 mois au plus avant le dépôt de la demande de renouvellement.
 
 <sup>3</sup> Elle est chargée de veiller à ce que les prescriptions prévues dans l'autorisation de base soient respectées.
 
@@ -845,7 +848,7 @@ ordonne:
 
 **Nombre**
 
-<sup>1</sup> Les responsables de l'organisation de séjours en colonies ou camps de vacances ont l'obligation de veiller à ce que les mineurs accueillis bénéficient d'un encadrement et de soins adéquats en relation à leurs besoins, en tenant compte de leur âge et de leur capacité de discernement.
+<sup>1</sup> Les responsables de l'organisation des camps de vacances en colonie ont l'obligation de veiller à ce que les mineurs accueillis bénéficient d'un encadrement et de soins adéquats en relation à leurs besoins, en tenant compte de leur âge et de leur capacité de discernement.
 
 <sup>2</sup> Le nombre minimum d'accompagnants recommandés est d'un moniteur pour huit enfants en âge de scolarité obligatoire (responsable du camp, moniteur, aide-moniteur, infirmier, cuisinier et intervenant pour des activités spécifiques).
 
@@ -868,13 +871,16 @@ ordonne:
 
 **Formation**
 
-<sup>1</sup> Il est recommandé que les personnes responsables de l'encadrement des enfants, ainsi que les aide-moniteurs, soient au bénéfice d'une formation spécifique de base dispensée par un organisme reconnu par le canton.
+<sup>1</sup> Les personnes responsables de l'encadrement des enfants, ainsi que les moniteurs et les aide-moniteurs, doivent être au bénéfice d'une formation spécifique de base dispensée par un organisme reconnu par le canton.
+
+<sup>1<sup>bis</sup></sup> Cette formation est fortement recommandée pour les personnes qui s'occupent de l'encadrement de camps qui se déroulent dans un contexte associatif et qui offrent aux participants mineurs une prise en charge sur l'ensemble de l'année et avec lesquels il y a un contact régulier (notamment associations sportives ou de musique).
 
 <sup>2</sup> Sont notamment reconnus comme personnes formées les:
 
 - a) étudiants en psychologie, sciences de l'éducation, pédagogie ou assimilés;
 - b) étudiants des hautes écoles spécialisées du domaine social et des hautes écoles pédagogiques;
-- c) enseignants ayant suivi leur formation à la Haute école pédagogique ou à l'Ecole normale.
+- c) enseignants ayant suivi leur formation à la Haute école pédagogique ou à l'Ecole normale;
+- d) les personnes au bénéfice d'une autre formation jugée équivalente.
 
 <sup>3</sup> Le canton peut encourager par des mesures concrètes l'organisation de cours de formation de base ou de perfectionnement.
 
@@ -890,15 +896,15 @@ ordonne:
 
 **Locaux servant au repos dans les colonies et les maisons de vacances**
 
-<sup>1</sup> Les locaux servant au repos doivent répondre à la norme minimale de 10 mètres cubes par enfant.
+<sup>1</sup> Il est recommandé que les locaux servant au repos répondent à la norme de 10 m³ par enfant, couloirs et sanitaires non compris.
 
-<sup>2</sup> Dans les bâtiments construits avant 1976, il peut être toléré 8 mètres cubes par enfant.
+<sup>2</sup> …
 
-<sup>3</sup> Pour les périodes estivales, si les camps durent moins d'une semaine, le volume de 6 mètres cubes peut être admis.
+<sup>3</sup> …
 
-<sup>4</sup> Ces volumes ne comprennent pas les couloirs et les sanitaires.
+<sup>4</sup> …
 
-<sup>5</sup> Ces locaux doivent bénéficier d'un éclairage naturel suffisant.
+<sup>5</sup> Ces locaux doivent être aisément accessibles et bénéficier d'un éclairage et d'une ventilation naturels suffisants.
 
 <sup>6</sup> Il est fait interdiction de loger des enfants dans les sous-sols et les combles si ceux-ci ne sont pas ventilés naturellement, d'un accès aisé et ne jouissent pas de lumière naturelle.
 
@@ -924,9 +930,9 @@ ordonne:
 
 **Installations techniques**
 
-<sup>1</sup> L'établissement doit être desservi par l'électricité et le téléphone et alimenté en eau en quantité et qualité suffisante.
+<sup>1</sup> L'établissement doit être desservi par l'électricité et alimenté en eau en quantité et qualité suffisante.
 
-<sup>2</sup> Les numéros d'appel de secours doivent être clairement indiqués à proximité du téléphone.
+<sup>2</sup> Les numéros d'appel de secours doivent être clairement indiqués.
 
 #### Art. 70
 
@@ -934,17 +940,19 @@ ordonne:
 
 <sup>1</sup> Le bâtiment ne peut en aucun cas être situé dans une zone menacée par des dangers naturels, ni à proximité immédiate de lieux dangereux et ne doit pas être exposé à des nuisances dans une mesure incompatible avec les législations relatives à la protection de l'environnement.
 
-<sup>2</sup> Les portes doivent s'ouvrir vers l'extérieur et être protégées des accumulations de neige (les constructions antérieures à 1976 peuvent faire l'objet de dérogations sur ce point).
+<sup>1<sup>bis</sup></sup> Le bâtiment doit respecter les exigences en matière de sécurité et de lutte contre les incendies et les normes relatives à l'hygiène des denrées alimentaires.
 
-<sup>3</sup> Les voies d'accès aux escaliers principaux doivent déboucher directement sur l'extérieur et avoir une largeur minimale de 1.20 mètre.
+<sup>2</sup> …
 
-<sup>4</sup> Les sorties de secours sont dotées d'un dispositif anti-panique et clairement indiquées selon les instructions du service compétent.
+<sup>3</sup> …
 
-<sup>5</sup> Le bâtiment doit être aménagé afin de permettre une défense incendie intérieure (extincteurs) et extérieure adéquate par l'installation de postes à incendie dans le bâtiment et d'une borne hydrante, à 50 mètres de l'immeuble au maximum.
+<sup>4</sup> …
 
-<sup>6</sup> Le bâtiment doit être pourvu d'un paratonnerre, d'un éclairage de secours automatique et de détecteurs de fumée.
+<sup>5</sup> …
 
-<sup>7</sup> Les circuits électriques doivent être contrôlés et conformes aux normes en vigueur.
+<sup>6</sup> …
+
+<sup>7</sup> …
 
 #### Art. 71
 
@@ -1024,10 +1032,10 @@ ordonne:
 
 **Locaux servant au repos pour les internats et homes d'enfants**
 
-<sup>1</sup> Les locaux servant au repos doivent répondre aux normes minimales suivantes:
+<sup>1</sup> Les locaux servant au repos doivent répondre à la norme minimale de 10 m³ par enfant.
 
-- a) pour les chambres à plusieurs lits: 10 mètres cubes par enfant jusqu'à 14 ans révolus et 12 mètres cubes au-dessus; dans les bâtiments construits avant 1976, il peut être toléré 10 mètres cubes par enfant indépendamment de l'âge;
-- b) pour les chambres à un lit: 14 mètres cubes au minimum par enfant.
+- a) …
+- b) …
 
 <sup>2</sup> La surface des fenêtres doit représenter le 10 pour cent de la chambre.
 
@@ -1057,17 +1065,19 @@ ordonne:
 
 <sup>1</sup> Le bâtiment ne peut en aucun cas être situé dans une zone menacée par des dangers naturels, ni à proximité immédiate de lieux dangereux et ne doit pas être exposé à des nuisances dans une mesure incompatible avec les législations relatives à la protection de l'environnement.
 
-<sup>2</sup> Les portes doivent s'ouvrir vers l'extérieur et être protégées des accumulations de neige (les constructions antérieures à 1976 peuvent faire l'objet de dérogations sur ce point).
+<sup>1<sup>bis</sup></sup> Le bâtiment doit respecter les exigences en matière de sécurité et de lutte contre les incendies et les normes relatives à l'hygiène des denrées alimentaires.
 
-<sup>3</sup> Les voies d'accès aux escaliers principaux doivent déboucher directement sur l'extérieur et avoir une largeur minimale de 1.20 mètre.
+<sup>2</sup> …
 
-<sup>4</sup> Les sorties de secours sont dotées d'un dispositif anti-panique et clairement indiquées selon les instructions du service compétent.
+<sup>3</sup> …
 
-<sup>5</sup> Le bâtiment doit être aménagé afin de permettre une défense incendie intérieure (extincteurs) et extérieure adéquate par l'installation de postes à incendie dans le bâtiment et d'une borne hydrante, à 50 mètres de l'immeuble au maximum.
+<sup>4</sup> …
 
-<sup>6</sup> Le bâtiment doit être pourvu d'un paratonnerre, d'un éclairage de secours automatique et de détecteurs de fumée.
+<sup>5</sup> …
 
-<sup>7</sup> Les circuits électriques doivent être contrôlés et conformes aux normes en vigueur.
+<sup>6</sup> …
+
+<sup>7</sup> …
 
 #### Art. 83
 
@@ -1112,11 +1122,15 @@ ordonne:
 
 **Autorisation et surveillance**
 
-<sup>1</sup> Toutes les institutions d'éducation spécialisée situées sur le territoire du canton du Valais sont soumises à une autorisation du Conseil d'Etat, conformément aux art. 12 à 20 de l'ordonnance fédérale.
+<sup>1</sup> Toutes les institutions d'éducation spécialisée situées sur le territoire du canton du Valais sont soumises à une autorisation du Conseil d'Etat, conformément aux articles 12 à 20 de l'ordonnance fédérale. L'autorisation prend la forme d'un mandat de prestations.
 
-<sup>2</sup> La demande d'autorisation doit contenir les divers éléments mentionnés à l'art. 14 de l'ordonnance fédérale.
+<sup>2</sup> La demande d'autorisation doit contenir les divers éléments mentionnés à l'article 14 de l'ordonnance fédérale. En outre, le directeur de l'établissement et ses collaborateurs doivent fournir les documents suivants:
 
-<sup>3</sup> La structure d'accueil doit répondre aux normes de la présente ordonnance concernant l'hygiène, la sécurité et l'aménagement pour l'exploitation d'un internat ou d'un home d'enfants.
+- a) un extrait ordinaire et spécial du casier judiciaire établis 6 mois au plus avant le dépôt de la demande;
+- b) un certificat médical attestant que le directeur et le personnel de l’institution ne souffrent d’aucune affection physique et psychique pouvant constituer des conditions défavorables à l’accueil de l’enfant. Le certificat médical n’est pas demandé à l’engagement des stagiaires;
+- c) une autorisation écrite de prise de renseignements auprès de personnes, autorités et services susceptibles de fournir des informations utiles à l’examen des conditions précitées.
+
+<sup>3</sup> …
 
 <sup>4</sup> Les institutions d'éducation spécialisée sont soumises à la surveillance du service, conformément à l'art. 19 de l'ordonnance fédérale.
 
@@ -1126,12 +1140,15 @@ ordonne:
 
 **Reconnaissance des institutions d'éducation spécialisée**
 
-<sup>1</sup> Le Conseil d'Etat peut reconnaître à un établissement la qualité d'institution d'éducation spécialisée et passer avec celui-ci une convention lorsque:
+<sup>1</sup> Le Conseil d'Etat peut reconnaître à un établissement la qualité d'institution d'éducation spécialisée et passer avec celui-ci un mandat de prestations lorsque:
 
 - a) la reconnaissance d'un besoin est mise en évidence par la planification cantonale des institutions d'éducation spécialisée pour enfants;
-- b) les conditions prévues à l'art. 15 de l'ordonnance fédérale réglant le placement d'enfants sont réunies;
+- b) les conditions prévues à l'article 15 de l'ordonnance fédérale sont réunies;
 - c) l'institution dépend d'une personne morale;
-- d) l'organigramme du personnel éducatif, des maîtres socioprofessionnels, des enseignants spécialisés et des autres spécialistes s'occupant des enfants a été approuvé.
+- d) l'organigramme du personnel éducatif, des maîtres socioprofessionnels, des enseignants spécialisés et des autres spécialistes s'occupant des enfants a été approuvé;
+- e) la structure d’accueil répond aux normes de la présente ordonnance concernant l’hygiène, la sécurité et l’aménagement pour l’exploitation d’un internat ou d’un home d’enfants.
+
+<sup>2</sup> Le mandat de prestations prévoit notamment les prestations à fournir, l'introduction de standards de qualité et le personnel nécessaire.
 
 #### Art. 88
 
@@ -1187,23 +1204,17 @@ ordonne:
 
 **Contribution aux frais d'exploitation des institutions d'éducation spécialisée reconnues**
 
-<sup>1</sup> L’Etat participe aux frais d’exploitation par une subvention pouvant atteindre au maximum 75 pour cent des charges d’exploitation reconnues du nombre de journées concernant les enfants placés qui sont domiciliés en Valais. Cette subvention ne peut cependant pas excéder 100 pour cent du coût des prestations reconnues.
+<sup>1</sup> L’Etat participe aux frais d’exploitation par une subvention correspondant aux charges d’exploitation reconnues du nombre de journées concernant les enfants placés qui sont domiciliés en Valais. Cette subvention ne peut cependant pas excéder 100 pour cent du coût des prestations reconnues.
+
+<sup>1<sup>bis</sup></sup> Sont déduites de cette subvention toutes les recettes provenant notamment de la participation de l’enfant ou de ses parents, des placements d’enfants domiciliés hors-canton et de la participation de l’Office fédéral de la justice.
 
 <sup>2</sup> …
 
-<sup>3</sup> Le Conseil d'Etat peut passer un contrat de prestations avec les institutions d'éducation spécialisée. Ce dernier prévoit notamment les prestations à fournir, l'introduction de standards de qualité, le personnel nécessaire et le montant de l'enveloppe budgétaire à disposition.
+<sup>3</sup> …
 
 #### Art. 93a
 
-**Contribution aux frais d'exploitation des institutions d'éducation spécialisée reconnues uniquement par le canton**
-
-<sup>1</sup> L’Etat participe aux frais d’exploitation sur la base des charges d’exploitation reconnues du nombre de journées concernant les enfants placés qui sont domiciliés en Valais. Cette subvention ne peut cependant pas excéder 100 pour cent du coût des prestations reconnues.
-
-<sup>2</sup> Les frais de placement correspondant à une participation aux frais d'hébergement ainsi qu'au budget personnel sont supportés en premier lieu par l'enfant ou ses parents, subsidiairement par les corporations responsables selon les dispositions cantonales réglant l'intégration et l'aide sociale.
-
-<sup>3</sup> Le montant à la charge de l'enfant ou de ses parents est fixé par un arrêté du Conseil d'Etat publié dans le Bulletin officiel.
-
-<sup>4</sup> Le Conseil d'Etat peut passer un contrat de prestations avec les institutions d'éducation spécialisée. Ce dernier prévoit notamment les prestations à fournir, l'introduction de standards de qualité et le personnel nécessaire.
+**…**
 
 #### Art. 94
 
@@ -1237,7 +1248,7 @@ ordonne:
 
 <sup>3</sup> A la fin des travaux, un décompte détaillé, accompagné des pièces justificatives, est remis au département.
 
-<sup>4</sup> Un décompte final est établi et doit être approuvé par le Conseil d'Etat.
+<sup>4</sup> Un décompte final est établi et doit être approuvé par l'instance cantonale compétente.
 
 #### Art. 97
 
@@ -1245,13 +1256,13 @@ ordonne:
 
 <sup>1</sup> Lorsque l'exploitation d'une institution est abandonnée ou lorsque celle-ci est désaffectée ou aliénée, le Conseil d'Etat demande la restitution de la subvention d'investissement avec intérêts à partir de la naissance du droit à la restitution.
 
-<sup>2</sup> Le montant à restituer se calcule proportionnellement entre la durée effective pendant laquelle le destinataire a utilisé l'objet conformément à son affectation et la durée de son affectation prévue pour 20 ans.
+<sup>2</sup> Le montant à restituer se calcule proportionnellement entre la durée effective pendant laquelle le destinataire a utilisé l'objet conformément à son affectation et la durée de son affectation prévue pour 25 ans.
 
 <sup>3</sup> Dans les cas de rigueur, il peut être renoncé à tout ou partie de la restitution.
 
 <sup>4</sup> En cas d'aliénation, le Conseil d'Etat peut renoncer à tout ou partie de la restitution lorsque l'acquéreur est un organisme de droit privé ou de droit public visant des buts d'éducation spécialisée et qu'il remplit les conditions donnant droit à la subvention et assume toutes les obligations du destinataire.
 
-<sup>5</sup> Le destinataire de la subvention doit informer sans tarder et par écrit le Conseil d'Etat de toute désaffectation ou aliénation.
+<sup>5</sup> Toute désaffectation ou aliénation doit être préalablement approuvée par le Conseil d'Etat.
 
 #### Art. 98
 
