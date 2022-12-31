@@ -4,13 +4,12 @@ number: "134.11"
 title: "Ordonnance sur la médiation en matière civile, pénale et pénale pour les mineurs"
 short: OMed
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2010-12-06
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/134.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7247/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8404/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Médiation en matière civile, pénale et pénale pour les mineurs – O
 
 (OMed)
 
-du 06.12.2010 (version entrée en vigueur le 01.02.2022)
+du 06.12.2010 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +36,9 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance fixe les modalités de la mise en œuvre, dans le cadre d'une procédure judiciaire, de la médiation civile, pénale et pénale pour les mineurs prévue dans la loi sur la justice.
+<sup>1</sup> La présente ordonnance fixe les modalités de la mise en œuvre, dans le cadre d'une procédure judiciaire, de la médiation civile, pénale et pénale pour les mineurs prévue dans la loi sur la justice[^1-1].
+
+[^1-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 2
 
@@ -47,62 +48,72 @@ Arrête:
 
 <sup>2</sup> La médiation peut avoir lieu sur l'initiative d'une autorité judiciaire ou d'une ou plusieurs parties.
 
-## 2 Surveillance et discipline
+## 2 Commission de la médiation en matière civile, pénale et pénale pour les mineurs
 
 #### Art. 3
 
-**Commission de la médiation en matière civile, pénale et pénale pour les mineurs – Organisation et fonctionnement**
+**Organisation et fonctionnement**
 
 <sup>1</sup> Une Commission de la médiation en matière civile, pénale et pénale pour les mineurs (ci-après: la Commission) est instituée par le Conseil d'Etat. Elle est composée:
 
 - a) du conseiller d'Etat-Directeur ou de la conseillère d'Etat-Directrice de la sécurité, de la justice et du sport, qui la préside;
 - b) de deux magistrats ou magistrates du Pouvoir judiciaire et de deux suppléants ou suppléantes;
 - c) de deux médiateurs ou médiatrices et de deux suppléants ou suppléantes;
-- d) d'une personne représentant l'Ordre des avocats fribourgeois et d'un suppléant ou d'une suppléante.
+- d) d'une personne représentant l'Ordre des Avocats Fribourgeois et d'un suppléant ou d'une suppléante.
 
 <sup>2</sup> La Commission est nommée pour une période administrative conformément à la législation sur la durée des fonctions publiques accessoires.
 
 <sup>3</sup> Elle est rattachée administrativement à la Direction de la sécurité, de la justice et du sport. Son secrétariat est assuré par le Service de la justice.
 
-<sup>4</sup> Pour le surplus, l'organisation et le fonctionnement de la Commission sont régis par le règlement du 31 octobre 2005 sur l'organisation et le fonctionnement des commissions de l'Etat.
+<sup>4</sup> Pour le surplus, l'organisation et le fonctionnement de la Commission sont régis par le règlement du 31 octobre 2005 sur l'organisation et le fonctionnement des commissions de l'Etat[^3-1].
+
+[^3-1]: RSF [122.0.61](https://bdlf.fr.ch/data/122.0.61/fr)
 
 #### Art. 4
 
-**Commission de la médiation en matière civile, pénale et pénale pour les mineurs – Mission**
+**Mission**
 
-<sup>1</sup> La Commission exerce la surveillance générale sur les personnes soumises à la présente ordonnance.
+<sup>1</sup> La Commission exerce la surveillance générale sur les personnes assermentées soumises à la présente ordonnance.
 
 <sup>2</sup> Elle a en outre les attributions suivantes:
 
 - a) elle décide des inscriptions, mises à jour et radiations à effectuer au tableau des médiateurs et médiatrices assermentés;
-- b) elle surveille la conformité de l'activité des médiateurs et médiatrices à leur serment ou à leur promesse solennelle;
+- b) elle surveille que les médiateurs et médiatrices assermentés exercent leur activité conformément à leur serment ou leur promesse formelle;
 - c) elle exerce le pouvoir disciplinaire;
 - d) elle édicte les directives nécessaires.
 
 #### Art. 5
 
-**Commission de la médiation en matière civile, pénale et pénale pour les mineurs – Exercice**
+**Exercice**
 
 <sup>1</sup> La Commission peut déléguer à l'un de ses membres ou au Service de la justice l'instruction et la préparation de ses décisions.
 
-<sup>2</sup> Sauf si l'un de ses membres s'y oppose, la Commission peut statuer par voie de circulation lorsqu'elle décide des inscriptions, mises à jour et radiations au tableau des médiateurs et médiatrices.
+<sup>2</sup> Sauf si l'un de ses membres s'y oppose, la Commission peut statuer par voie de circulation lorsqu'elle décide des inscriptions, mises à jour et radiations au tableau des médiateurs et médiatrices assermentés.
+
+### 2a Médiateurs et médiatrices assermentés
 
 #### Art. 6
 
-**Autorisation**
+**Champ d'application personnel**
 
-<sup>1</sup> L'exercice de la fonction de médiateur ou médiatrice est subordonné à une autorisation de la Commission.
+<sup>1</sup> L'exercice de la fonction de médiateur ou médiatrice assermenté-e est subordonné à une inscription au tableau des médiateurs et médiatrices assermentés.
+
+<sup>2</sup> Seul-e un médiateur ou une médiatrice assermenté-e peut réaliser les médiations qui sont initiées par les instances judicaires civiles et dont les frais sont appelés à être pris en charge par l'Etat au sens de l'article 218 al. 2 et 3 du code de procédure civile[^6-1].
+
+<sup>3</sup> En matière pénale, la médiation ne peut être exercée que par un médiateur ou une médiatrice assermenté-e.
+
+[^6-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
 
 #### Art. 7
 
 **Conditions d'exercice – En général**
 
-<sup>1</sup> L'exercice de la fonction de médiateur ou médiatrice est réservé aux personnes qui:
+<sup>1</sup> L'exercice de la fonction de médiateur ou médiatrice assermenté-e est réservé aux personnes qui:
 
 - a) sont âgées de 30 ans au moins;
 - b) sont au bénéfice d'un diplôme universitaire ou d'une formation jugée équivalente;
 - c) disposent d'une bonne expérience professionnelle;
-- d) disposent d'une formation spécifique attestée par une association reconnue en Suisse dans le domaine de la médiation (notamment la Chambre suisse de médiation commerciale, la Fédération suisse des associations de médiation, la Fédération suisse des avocats ou l'Association suisse pour la médiation) et d'aptitudes certifiées en matière de médiation;
+- d) disposent d'une formation, initiale et continue, spécifique attestée par une association reconnue en Suisse dans le domaine de la médiation (notamment la Chambre Suisse de Médiation Commerciale, la Fédération Suisse des Associations de Médiation, la Fédération Suisse des Avocats ou l'Association Suisse pour la Médiation Familiale) et d'aptitudes certifiées en matière de médiation;
 - e) disposent, pour justifier l'inscription au tableau, de qualifications particulières ou de domaines de spécialité, d'une expérience ou de connaissances suffisantes dans le domaine d'activité concerné;
 - f) ne font l'objet d'aucune inscription au casier judiciaire pour une infraction intentionnelle portant atteinte à la probité et à l'honneur.
 
@@ -110,7 +121,9 @@ Arrête:
 
 **Conditions d'exercice – Médiation familiale**
 
-<sup>1</sup> En plus de remplir les conditions d'exercice visées à l'article 7, le médiateur ou la médiatrice familial-e devra disposer du titre de médiateur ou médiatrice familial-e de l'Association suisse pour la médiation et satisfaire aux exigences de l'article 126 al. 3 LJ, à savoir posséder des connaissances approfondies en matière de psychologie de l'enfance, d'éducation des enfants ou de travail social.
+<sup>1</sup> En plus de remplir les conditions d'exercice visées à l'article 7, le médiateur ou la médiatrice familial-e devra disposer du titre de médiateur ou médiatrice FSM avec spécialisation en médiation familiale de la Fédération Suisse des Associations de Médiation et satisfaire aux exigences de l'article 126 al. 3 LJ[^8-1], à savoir posséder des connaissances approfondies en matière de psychologie de l'enfance, d'éducation des enfants ou de travail social.
+
+[^8-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 9
 
@@ -136,9 +149,13 @@ Arrête:
 
 <sup>2</sup> Lors d'une demande d'inscription, la Commission examine si la personne candidate remplit les conditions énumérées à l'article 7 et, le cas échéant, à l'article 8. Si nécessaire, elle entend l'intéressé-e.
 
-<sup>3</sup> Le Service de la justice procède aux inscriptions, mises à jour et radiations.
+<sup>3</sup> Le Service de la justice procède aux inscriptions, mises à jour, radiations et à la publication du tableau sur internet.
 
-<sup>4</sup> Le tableau mentionne les qualifications particulières ou les domaines de spécialité du médiateur ou de la médiatrice et, le cas échéant, l'office de médiation dont il ou elle dépend.
+<sup>4</sup> Le tableau mentionne les qualifications particulières ou les domaines de spécialité du médiateur ou de la médiatrice assermenté-e et, le cas échéant, l'office de médiation dont il ou elle dépend.
+
+<sup>5</sup> Les médiateurs et médiatrices assermentés sont invités à confirmer leur souhait de rester inscrits sur le tableau une fois par législature au moins.
+
+<sup>6</sup> A cette occasion, la Commission examine si les médiateurs et médiatrices assermentés remplissent toujours les conditions énumérées à l'article 7, et le cas échéant, à l'article 8.
 
 #### Art. 11
 
@@ -151,8 +168,8 @@ Arrête:
 - a) un avertissement;
 - b) un blâme;
 - c) une amende jusqu'à 10 000 francs;
-- d) une suspension pour une durée maximale de deux ans;
-- e) un retrait de l'autorisation d'exercer.
+- d) une interdiction d'exercer pour une durée maximale de deux ans;
+- e) une radiation du tableau.
 
 <sup>3</sup> L'avertissement et le blâme peuvent être accompagnés d'une menace de radiation.
 
@@ -178,7 +195,7 @@ Arrête:
 
 **Mesures**
 
-<sup>1</sup> Outre la suspension et le retrait pour motifs disciplinaires, la Commission retire l'autorisation d'exercer sa fonction au médiateur ou à la médiatrice qui:
+<sup>1</sup> Outre l'interdiction d'exercer ou la radiation du tableau pour motifs disciplinaires, la Commission radie du tableau le médiateur ou la médiatrice assermenté-e qui:
 
 - a) ne remplit pas ou ne remplit plus les conditions énumérées à l'article 7;
 - b) est incapable de l'exercer notamment en raison de son état de santé.
@@ -187,7 +204,9 @@ Arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions prises en application de la présente ordonnance peuvent faire l'objet d'un recours conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les décisions prises en application de la présente ordonnance peuvent faire l'objet d'un recours conformément au code de procédure et de juridiction administrative[^15-1].
+
+[^15-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ## 3 Droits et obligations des médiateurs et médiatrices
 
@@ -195,7 +214,7 @@ Arrête:
 
 **Libre choix**
 
-<sup>1</sup> Les parties choisissent librement le médiateur ou la médiatrice parmi les personnes autorisées. Les articles 8 et 30 de la présente ordonnance ainsi que les dispositions relatives à l'assistance judiciaire sont réservés.
+<sup>1</sup> Les parties choisissent librement le médiateur ou la médiatrice. Les articles 6 à 8 et 30 de la présente ordonnance ainsi que les dispositions relatives à l'assistance judiciaire sont réservés.
 
 <sup>2</sup> Le médiateur ou la médiatrice s'engage à garantir le libre choix du médiateur ou de la médiatrice par les parties.
 
@@ -243,7 +262,7 @@ Arrête:
 
 **Déontologie**
 
-<sup>1</sup> Pour le surplus, les règles de déontologie applicables sont celles de la Fédération suisse des associations de médiation.
+<sup>1</sup> Pour le surplus, les règles de déontologie applicables sont celles de la Fédération Suisse des Associations de Médiation.
 
 ## 4 Processus de médiation
 
@@ -261,7 +280,7 @@ Arrête:
 
 <sup>2</sup> La médiation peut être interrompue en tout temps, autant par les parties que par le médiateur ou la médiatrice.
 
-<sup>3</sup> L'interruption du processus de médiation doit être communiquée sans délai par écrit aux divers intervenants.
+<sup>3</sup> L'interruption du processus de médiation doit être communiquée sans délai par écrit aux divers intervenants et intervenantes.
 
 #### Art. 25
 
@@ -293,11 +312,16 @@ Arrête:
 
 **Frais de procédure**
 
-<sup>1</sup> Les frais de la procédure de médiation sont régis par la loi sur la justice et le droit de procédure applicable.
+<sup>1</sup> Les frais de la procédure de médiation sont régis par la loi sur la justice[^29-1] et le droit de procédure applicable.
 
-<sup>2</sup> Le montant des frais de la médiation et le montant des indemnités à verser aux médiateurs et médiatrices en cas d'assistance judiciaire sont fixés par le règlement sur la justice.
+<sup>2</sup> En cas d'assistance judiciaire, l'indemnité horaire du médiateur ou de la médiatrice assermenté-e est fixée à 130 francs.
 
-<sup>3</sup> En cas d'assistance judiciaire et dans les cas découlant de la première phrase de l'article 127 al. 2 LJ, le Service de la justice est compétent pour exiger le remboursement des frais, dans un délai de dix ans, conformément aux codes de procédure.
+<sup>2a</sup> Les débours sont facturés en sus.
+
+<sup>3</sup> En cas d'assistance judiciaire et dans les cas découlant de la première phrase de l'article 127 al. 2 LJ[^29-2], le Service de la justice est compétent pour exiger le remboursement des frais, dans un délai de dix ans, conformément aux codes de procédure.
+
+[^29-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^29-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 ## 5 Médiation en procédure pénale des mineurs
 
@@ -333,9 +357,11 @@ Arrête:
 - b) les faits constitutifs de l'infraction sont pour l'essentiel établis;
 - c) ces faits ont été globalement reconnus par l'auteur-e.
 
-<sup>2</sup> Si l'auteur-e paraît s'être rendu-e coupable d'une infraction pour laquelle le code pénal prévoit une peine privative de liberté minimale d'un an, la médiation est soumise à l'accord préalable du Ministère public. L'accord doit être mentionné dans la décision de transmission du dossier au médiateur ou à la médiatrice. A défaut d'accord, le processus de médiation ne peut pas être mis en œuvre.
+<sup>2</sup> Si l'auteur-e paraît s'être rendu-e coupable d'une infraction pour laquelle le code pénal[^33-1] prévoit une peine privative de liberté minimale d'un an, la médiation est soumise à l'accord préalable du Ministère public. L'accord doit être mentionné dans la décision de transmission du dossier au médiateur ou à la médiatrice. A défaut d'accord, le processus de médiation ne peut pas être mis en œuvre.
 
 <sup>3</sup> Dans certains cas, le ou la juge peut, avant de recourir à la médiation, demander l'avis du médiateur ou de la médiatrice.
+
+[^33-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 34
 
@@ -369,7 +395,9 @@ Arrête:
 
 **Conséquences sur la procédure pénale**
 
-<sup>1</sup> Si la médiation aboutit, l'autorité pénale classe la procédure en application de l'article 17 al. 2 de la loi fédérale sur la procédure pénale applicable aux mineurs.
+<sup>1</sup> Si la médiation aboutit, l'autorité pénale classe la procédure en application de l'article 17 al. 2 de la loi fédérale sur la procédure pénale applicable aux mineurs[^37-1].
+
+[^37-1]: RS [312.1](https://db.clex.ch/link/Bund/312.1/fr)
 
 #### Art. 38
 
@@ -383,7 +411,10 @@ Arrête:
 
 **Procédure**
 
-<sup>1</sup> La médiation civile est régie par le code de procédure civile suisse et la loi sur la justice.
+<sup>1</sup> La médiation civile est régie par le code de procédure civile suisse[^39-1] et la loi sur la justice[^39-2].
+
+[^39-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
+[^39-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 40
 
@@ -393,7 +424,9 @@ Arrête:
 
 <sup>2</sup> La médiation est gratuite si les conditions de l'assistance judiciaire sont remplies et que l'autorité judiciaire recommande le recours à la médiation.
 
-<sup>3</sup> Dans les affaires non pécuniaires relevant du droit de l'enfant et de la famille, la médiation est gratuite si les parties ne disposent pas des moyens nécessaires et que l'autorité judiciaire recommande le recours à la médiation.
+<sup>3</sup> Dans les affaires relevant du droit de l'enfant et de la famille, la médiation est gratuite si les parties ne disposent pas des moyens nécessaires et que l'autorité judiciaire recommande le recours à la médiation.
+
+<sup>3a</sup> Dans les cas découlant de l'alinéa 3, l'indemnité horaire du médiateur ou de la médiatrice est la même qu'en cas d'assistance judiciaire.
 
 <sup>4</sup> Dans les cas découlant des alinéas 2 et 3, le Service de la justice est compétent pour exiger le remboursement des frais, dans un délai de dix ans, conformément aux codes de procédure.
 
@@ -403,15 +436,25 @@ Arrête:
 
 **Procédure**
 
-<sup>1</sup> Pour les infractions pénales poursuivies sur plainte, la médiation pénale peut intervenir dans le cadre de la procédure de conciliation de l'article 316 du code de procédure pénale suisse.
+<sup>1</sup> Pour les infractions pénales poursuivies sur plainte, la médiation pénale peut intervenir dans le cadre de la procédure de conciliation de l'article 316 du code de procédure pénale suisse[^41-1].
 
-<sup>2</sup> Dans les affaires pénales poursuivies d'office, les parties peuvent recourir à la médiation en ce qui concerne les aspects civils ou la réparation de l'article 53 du code pénal suisse, à la condition que l'autorité judiciaire saisie accepte la médiation.
+<sup>2</sup> Dans les affaires pénales poursuivies d'office, les parties peuvent recourir à la médiation en ce qui concerne les aspects civils ou la réparation de l'article 53 du code pénal suisse[^41-2], à la condition que l'autorité judiciaire saisie accepte la médiation.
+
+[^41-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^41-2]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 42
 
 **Frais**
 
-<sup>1</sup> En application de l'article 427 al. 3 du code de procédure pénale suisse, la médiation est gratuite si elle aboutit à un retrait de plainte. Dans les autres cas, les frais de la médiation sont fixés conformément aux articles 422 et suivants du code de procédure pénale suisse.
+<sup>1</sup> En application de l'article 427 al. 3 du code de procédure pénale suisse[^42-1], la médiation est gratuite si elle aboutit à un retrait de plainte. Dans les autres cas, les frais de la médiation sont fixés conformément aux articles 422 et suivants du code de procédure pénale suisse[^42-2].
+
+<sup>2</sup> Les honoraires du médiateur ou de la médiatrice, dans le cadre d'une procédure judiciaire pénale, sont fixés par l'autorité compétente au fond, sur la base d'un tarif horaire de 150 francs.
+
+<sup>3</sup> Les débours sont facturés en sus.
+
+[^42-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^42-2]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
 
 ## 8 Disposition finale
 

@@ -4,13 +4,12 @@ number: "134.11"
 title: "Verordnung über die Mediation in Zivil-, Straf- und Jugendstrafsachen"
 short: MedV
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2010-12-06
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/134.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7247/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mediation in Zivil-, Straf- und Jugendstrafsachen – V
 
 (MedV)
 
-vom 06.12.2010 (Fassung in Kraft getreten am 01.02.2022)
+vom 06.12.2010 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +36,9 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung setzt die Modalitäten für die Schaffung der im Justizgesetz vorgesehenen Mediation in Zivil-, Straf- und Jugendstrafsachen im Rahmen eines Gerichtsverfahrens fest.
+<sup>1</sup> Diese Verordnung setzt die Modalitäten für die Schaffung der im Justizgesetz[^1-1] vorgesehenen Mediation in Zivil-, Straf- und Jugendstrafsachen im Rahmen eines Gerichtsverfahrens fest.
+
+[^1-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 2
 
@@ -47,11 +48,11 @@ beschliesst:
 
 <sup>2</sup> Die Mediation kann auf Initiative einer richterlichen Behörde oder einer oder mehrerer Parteien stattfinden.
 
-## 2 Aufsicht und Disziplinarordnung
+## 2 Kommission für Mediation in Zivil‑, Straf‑ und Jugendstrafsachen
 
 #### Art. 3
 
-**Kommission für Mediation in Zivil-, Straf- und Jugendstrafsachen – Organisation und Arbeitsweise**
+**Organisation und Arbeitsweise**
 
 <sup>1</sup> Es wird eine Kommission für Mediation in Zivil-, Straf- und Jugendstrafsachen (die Kommission) durch den Staatsrat eingesetzt. Ihr gehören an:
 
@@ -64,45 +65,55 @@ beschliesst:
 
 <sup>3</sup> Sie ist der Sicherheits-, Justiz- und Sportdirektion administrativ zugewiesen. Das Amt für Justiz führt ihr Sekretariat.
 
-<sup>4</sup> Im Übrigen richten sich Organisation und Arbeitsweise nach dem Reglement vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates.
+<sup>4</sup> Im Übrigen richten sich Organisation und Arbeitsweise nach dem Reglement vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates[^3-1].
+
+[^3-1]: SGF [122.0.61](https://bdlf.fr.ch/data/122.0.61/de)
 
 #### Art. 4
 
-**Kommission für Mediation in Zivil-, Straf- und Jugendstrafsachen – Auftrag**
+**Auftrag**
 
-<sup>1</sup> Die Kommission übt die Oberaufsicht über die dieser Verordnung unterstellten Personen aus.
+<sup>1</sup> Die Kommission übt die Oberaufsicht über die dieser Verordnung unterstellten vereidigten Personen aus.
 
 <sup>2</sup> Sie hat ferner die folgenden Aufgaben und Befugnisse:
 
-- a) Sie entscheidet über Eintragungen, Nachführungen und Streichungen im Register der Mediatorinnen und Mediatoren.
-- b) Sie wacht darüber, ob die Mediatorinnen und Mediatoren ihre Tätigkeit gemäss ihrem Eid oder ihrem feierlichen Versprechen ausüben.
+- a) Sie entscheidet über Eintragungen, Nachführungen und Streichungen im Register der vereidigten Mediatorinnen und Mediatoren.
+- b) Sie wacht darüber, dass die Mediatorinnen und Mediatoren ihre Tätigkeit gemäss ihrem Eid oder ihrem feierlichen Versprechen ausüben.
 - c) Sie übt die Disziplinargewalt aus.
 - d) Sie erlässt die notwendigen Weisungen.
 
 #### Art. 5
 
-**Kommission für Mediation in Zivil-, Straf- und Jugendstrafsachen – Tätigkeit**
+**Tätigkeit**
 
 <sup>1</sup> Die Kommission kann die Instruktion und die Vorbereitung der Entscheide an eines ihrer Mitglieder oder an das Amt für Justiz delegieren.
 
-<sup>2</sup> Sofern sich kein Mitglied dem widersetzt, kann die Kommission über Eintragungen, Nachführungen und Streichungen im Register der Mediatorinnen und Mediatoren auf dem Zirkularweg entscheiden.
+<sup>2</sup> Sofern sich kein Mitglied dem widersetzt, kann die Kommission über Eintragungen, Nachführungen und Streichungen im Register der vereidigten Mediatorinnen und Mediatoren auf dem Zirkularweg entscheiden.
+
+### 2a Vereidigte Mediatorinnen und Mediatoren
 
 #### Art. 6
 
-**Bewilligung**
+**Persönlicher Geltungsbereich**
 
-<sup>1</sup> Für die Ausübung des Amtes einer Mediatorin oder eines Mediators bedarf es einer Bewilligung der Kommission.
+<sup>1</sup> Das Amt einer vereidigten Mediatorin oder eines vereidigten Mediators dürfen nur Personen ausüben, die im Register der vereidigten Mediatorinnen und Mediatoren eingetragen sind.
+
+<sup>2</sup> Nur vereidigte Mediatorinnen und Mediatoren sind berechtigt, Mediationen durchzuführen, die von zivilgerichtlichen Instanzen angeordnet werden und deren Kosten gemäss Artikel 218 Abs. 2 und 3 der Zivilprozessordnung[^6-1] vom Staat übernommen werden.
+
+<sup>3</sup> In Strafsachen darf eine Mediation nur von einer vereidigten Mediatorin oder einem vereidigten Mediator durchgeführt werden.
+
+[^6-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 7
 
 **Voraussetzungen für die Amtsausübung – Allgemeines**
 
-<sup>1</sup> Das Amt einer Mediatorin oder eines Mediators dürfen nur Personen ausüben, die folgende Voraussetzungen erfüllen:
+<sup>1</sup> Das Amt einer vereidigten Mediatorin oder eines vereidigten Mediators dürfen nur Personen ausüben, die folgende Voraussetzungen erfüllen:
 
 - a) Sie sind mindestens 30 Jahre alt.
 - b) Sie sind im Besitz eines Hochschulabschlusses oder einer als gleichwertig erachteten Ausbildung.
 - c) Sie verfügen über eine gute Berufserfahrung.
-- d) Sie verfügen über eine fachliche Ausbildung, die von einer in der Schweiz auf dem Gebiet der Mediation anerkannten Vereinigung (namentlich Schweizerische Kammer für Wirtschaftsmediation, Schweizerischer Dachverband Mediation, Schweizerischer Anwaltsverband oder Schweizerischer Verein für Mediation) anerkannt wird, und können sich über Fähigkeiten im Mediationsbereich ausweisen.
+- d) Sie verfügen über eine Fachausbildung (Grundausbildung und Weiterbildung), die von einer in der Schweiz auf dem Gebiet der Mediation anerkannten Vereinigung (namentlich Schweizerische Kammer für Wirtschaftsmediation, Schweizerischer Dachverband Mediation, Schweizerischer Anwaltsverband oder Schweizerischer Verein für Familienmediation) anerkannt wird, und können sich über Fähigkeiten im Mediationsbereich ausweisen.
 - e) Sie verfügen über genügend Erfahrung und Kenntnisse im betroffenen Fachgebiet, die die Aufnahme ins Register mit den Tätigkeitsgebieten oder besonderen Qualifikationen rechtfertigen.
 - f) Sie sind nicht im Strafregister eingetragen für eine vorsätzlich begangene Widerhandlung gegen Redlichkeit und Ehre.
 
@@ -110,7 +121,9 @@ beschliesst:
 
 **Voraussetzungen für die Amtsausübung – Familienmediation**
 
-<sup>1</sup> Die Familienmediatorin oder der Familienmediator muss zusätzlich zu den Voraussetzungen nach Artikel 7 im Besitz des Titels Familienmediatorin oder Familienmediator des Schweizerischen Vereins für Mediation sein und die Voraussetzungen von Artikel 126 Abs. 3 JG erfüllen, das heisst über vertiefte Kenntnisse in Kinderpsychologie, Kindererziehung oder Sozialarbeit verfügen.
+<sup>1</sup> Die Familienmediatorin oder der Familienmediator muss zusätzlich zu den Voraussetzungen nach Artikel 7 im Besitz des Titels Mediatorin oder Mediator SDM mit Spezialisierung in Familienmediation des Schweizerischen Dachverbands Mediation sein und die Voraussetzungen von Artikel 126 Abs. 3 JG[^8-1] erfüllen, das heisst über vertiefte Kenntnisse in Kinderpsychologie, Kindererziehung oder Sozialarbeit verfügen.
+
+[^8-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 9
 
@@ -136,9 +149,13 @@ beschliesst:
 
 <sup>2</sup> Wird ein Eintragungsgesuch eingereicht, so prüft die Kommission, ob die Kandidatin oder der Kandidat die Voraussetzungen nach Artikel 7 und gegebenenfalls nach Artikel 8 erfüllt. Wenn nötig, hört sie die betroffene Person an.
 
-<sup>3</sup> Das Amt für Justiz nimmt die Eintragungen, Nachführungen und Streichungen vor.
+<sup>3</sup> Das Amt für Justiz nimmt die Eintragungen, Nachführungen, Streichungen und die Publikation des Registers im Internet vor.
 
-<sup>4</sup> Im Register werden die besonderen Qualifikationen oder die Fachgebiete der Mediatorin oder des Mediators und gegebenenfalls das Mediationsbüro, dem sie oder er angehört, aufgeführt.
+<sup>4</sup> Im Register werden die besonderen Qualifikationen oder die Fachgebiete der vereidigten Mediatorin oder des vereidigten Mediators und gegebenenfalls das Mediationsbüro, dem sie oder er angehört, aufgeführt.
+
+<sup>5</sup> Die vereidigten Mediatorinnen und Mediatoren werden mindestens einmal pro Legislaturperiode gebeten zu bestätigen, dass sie weiterhin im Register aufgeführt werden möchten.
+
+<sup>6</sup> Bei dieser Gelegenheit prüft die Kommission, ob die vereidigten Mediatorinnen und Mediatoren die Bedingungen nach Artikel 7 und gegebenenfalls Artikel 8 noch erfüllen.
 
 #### Art. 11
 
@@ -151,8 +168,8 @@ beschliesst:
 - a) in einer Verwarnung;
 - b) in einem Verweis;
 - c) in einer Busse bis zu 10 000 Franken;
-- d) in der Einstellung für längstens zwei Jahre;
-- e) im Entzug der Berufsausübungsbewilligung.
+- d) in einem Berufsverbot für höchstens zwei Jahre;
+- e) in der Streichung aus dem Register.
 
 <sup>3</sup> Zusammen mit der Verwarnung und dem Verweis kann die Streichung aus dem Register angedroht werden.
 
@@ -178,7 +195,7 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Abgesehen von der Einstellung oder dem Entzug der Berufsausübungsbewilligung aus disziplinarischen Gründen entzieht die Kommission einer Mediatorin oder einem Mediator die Bewilligung zur Ausübung des Amtes, wenn sie oder er:
+<sup>1</sup> Abgesehen vom Berufsverbot oder von der Streichung aus dem Register aus disziplinarischen Gründen entzieht die Kommission einer vereidigten Mediatorin oder einem vereidigten Mediator die Bewilligung zur Ausübung des Amtes, wenn sie oder er:
 
 - a) die Voraussetzungen nach Artikel 7 nicht mehr erfüllt;
 - b) namentlich aufgrund des Gesundheitszustandes nicht in der Lage ist, das Amt auszuüben.
@@ -187,7 +204,9 @@ beschliesst:
 
 **Rechtsmittel**
 
-<sup>1</sup> Die in Anwendung dieser Verordnung getroffenen Entscheide können gemäss dem Gesetz über die Verwaltungsrechtspflege mit Beschwerde angefochten werden.
+<sup>1</sup> Die in Anwendung dieser Verordnung getroffenen Entscheide können gemäss dem Gesetz über die Verwaltungsrechtspflege[^15-1] mit Beschwerde angefochten werden.
+
+[^15-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ## 3 Rechte und Pflichten der Mediatorinnen und Mediatoren
 
@@ -195,7 +214,7 @@ beschliesst:
 
 **Freie Wahl**
 
-<sup>1</sup> Die Parteien wählen die Mediatorin oder den Mediator frei unter den zugelassenen Personen. Die Artikel 8 und 30 dieser Verordnung und die Bestimmungen über die unentgeltliche Rechtspflege bleiben vorbehalten.
+<sup>1</sup> Die Parteien wählen die Mediatorin oder den Mediator frei. Die Artikel 6–8 und 30 dieser Verordnung und die Bestimmungen über die unentgeltliche Rechtspflege bleiben vorbehalten.
 
 <sup>2</sup> Die Mediatorin oder der Mediator verpflichtet sich, die freie Wahl der Mediatorin oder des Mediators durch die Parteien zu gewährleisten.
 
@@ -293,11 +312,16 @@ beschliesst:
 
 **Kosten des Verfahrens**
 
-<sup>1</sup> Die Kosten des Mediationsverfahrens sind im Justizgesetz und im anwendbaren Verfahrensgesetz geregelt.
+<sup>1</sup> Die Kosten des Mediationsverfahrens sind im Justizgesetz[^29-1] und im anwendbaren Verfahrensgesetz geregelt.
 
-<sup>2</sup> Der Betrag der Kosten für die Mediation und der Betrag der Entschädigung der Mediatorinnen und Mediatoren bei unentgeltlicher Rechtspflege richten sich nach dem Justizreglement.
+<sup>2</sup> Bei unentgeltlicher Rechtspflege beträgt die Entschädigung der vereidigten Mediatorin oder des vereidigten Mediators 130 Franken pro Stunde.
 
-<sup>3</sup> Bei unentgeltlicher Rechtspflege und in den Fällen von Artikel 127 Abs. 2, 1. Satz, JG kann das Amt für Justiz gemäss den Prozessordnungen innert zehn Jahren die Rückerstattung der Kosten verlangen.
+<sup>2a</sup> Die Auslagen werden zusätzlich in Rechnung gestellt.
+
+<sup>3</sup> Bei unentgeltlicher Rechtspflege und in den Fällen von Artikel 127 Abs. 2, 1. Satz, JG[^29-2] kann das Amt für Justiz gemäss den Prozessordnungen innert zehn Jahren die Rückerstattung der Kosten verlangen.
+
+[^29-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^29-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 ## 5 Mediation im Jugendstrafverfahren
 
@@ -333,9 +357,11 @@ beschliesst:
 - b) Die wesentlichen strafrechtlichen Tatbestände sind ermittelt worden.
 - c) Die Täterin oder der Täter hat die wesentlichen Tatbestände anerkannt.
 
-<sup>2</sup> Wenn sich die Täterin oder der Täter einer Straftat schuldig gemacht zu haben scheint, für die das Strafgesetzbuch eine Freiheitsstrafe von mindestens einem Jahr vorsieht, bedarf die Mediation der vorgängigen Genehmigung durch die Staatsanwaltschaft. Die Genehmigung ist in der Übermittlungsverfügung zuhanden der Mediatorin oder des Mediators festzuhalten. Ohne Genehmigung kann das Mediationsverfahren nicht durchgeführt werden.
+<sup>2</sup> Wenn sich die Täterin oder der Täter einer Straftat schuldig gemacht zu haben scheint, für die das Strafgesetzbuch[^33-1] eine Freiheitsstrafe von mindestens einem Jahr vorsieht, bedarf die Mediation der vorgängigen Genehmigung durch die Staatsanwaltschaft. Die Genehmigung ist in der Übermittlungsverfügung zuhanden der Mediatorin oder des Mediators festzuhalten. Ohne Genehmigung kann das Mediationsverfahren nicht durchgeführt werden.
 
 <sup>3</sup> In bestimmten Fällen kann die Richterin oder der Richter die Stellungnahme der Mediatorin oder des Mediators einholen, bevor sie oder er die Mediation anordnet.
+
+[^33-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 34
 
@@ -369,7 +395,9 @@ beschliesst:
 
 **Folgen für das Strafverfahren**
 
-<sup>1</sup> Ist die Mediation erfolgreich, so stellt die Strafbehörde das Verfahren in Anwendung von Artikel 17 Abs. 2 der Schweizerischen Jugendstrafprozessordnung ein.
+<sup>1</sup> Ist die Mediation erfolgreich, so stellt die Strafbehörde das Verfahren in Anwendung von Artikel 17 Abs. 2 der Schweizerischen Jugendstrafprozessordnung[^37-1] ein.
+
+[^37-1]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### Art. 38
 
@@ -383,7 +411,10 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Die Mediation im Zivilverfahren richtet sich nach der Schweizerischen Zivilprozessordnung und dem Justizgesetz.
+<sup>1</sup> Die Mediation im Zivilverfahren richtet sich nach der Schweizerischen Zivilprozessordnung[^39-1] und dem Justizgesetz[^39-2].
+
+[^39-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^39-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 40
 
@@ -393,7 +424,9 @@ beschliesst:
 
 <sup>2</sup> Die Mediation ist jedoch unentgeltlich, wenn die Voraussetzungen der unentgeltlichen Rechtspflege erfüllt sind und die Gerichtsbehörde die Durchführung einer Mediation empfiehlt.
 
-<sup>3</sup> In kindes- und familienrechtlichen Angelegenheiten nichtvermögensrechtlicher Natur ist die Mediation unentgeltlich, wenn den Parteien die erforderlichen Mittel fehlen und das Gericht die Durchführung einer Mediation empfiehlt.
+<sup>3</sup> In kindes‑ und familienrechtlichen Angelegenheiten ist die Mediation unentgeltlich, wenn den Parteien die erforderlichen Mittel fehlen und das Gericht die Durchführung einer Mediation empfiehlt.
+
+<sup>3a</sup> In den Fällen nach Absatz 3 ist die Entschädigung der Mediatorin oder des Mediators gleich hoch wie bei der unentgeltlichen Rechtspflege.
 
 <sup>4</sup> In den Fällen nach den Absätzen 2 und 3 kann das Amt für Justiz innert zehn Jahren gemäss den Prozessordnungen die Rückerstattung der Kosten verlangen.
 
@@ -403,15 +436,25 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Bei Antragsdelikten kann die strafrechtliche Mediation im Rahmen des Vergleichsverfahrens nach Artikel 316 der Schweizerischen Strafprozessordnung durchgeführt werden.
+<sup>1</sup> Bei Antragsdelikten kann die strafrechtliche Mediation im Rahmen des Vergleichsverfahrens nach Artikel 316 der Schweizerischen Strafprozessordnung[^41-1] durchgeführt werden.
 
-<sup>2</sup> In strafrechtlichen Angelegenheiten, die von Amtes wegen verfolgt werden, können die Parteien in Bezug auf den zivilrechtlichen Aspekt oder die Wiedergutmachung nach Artikel 53 des Schweizerischen Strafgesetzbuches die Durchführung einer Mediation beanspruchen, soweit die mit der Angelegenheit befasste gerichtliche Behörde der Mediation zustimmt.
+<sup>2</sup> In strafrechtlichen Angelegenheiten, die von Amtes wegen verfolgt werden, können die Parteien in Bezug auf den zivilrechtlichen Aspekt oder die Wiedergutmachung nach Artikel 53 des Schweizerischen Strafgesetzbuches[^41-2] die Durchführung einer Mediation beanspruchen, soweit die mit der Angelegenheit befasste gerichtliche Behörde der Mediation zustimmt.
+
+[^41-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^41-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 42
 
 **Kosten**
 
-<sup>1</sup> In Anwendung von Artikel 427 Abs. 3 der Schweizerischen Strafprozessordnung ist die Mediation unentgeltlich, wenn sie zu einem Rückzug des Strafantrags führt. In den übrigen Fällen werden die Kosten der Mediation gemäss den Artikeln 422 ff. der Schweizerischen Strafprozessordnung festgesetzt.
+<sup>1</sup> In Anwendung von Artikel 427 Abs. 3 der Schweizerischen Strafprozessordnung[^42-1] ist die Mediation unentgeltlich, wenn sie zu einem Rückzug des Strafantrags führt. In den übrigen Fällen werden die Kosten der Mediation gemäss den Artikeln 422 ff. der Schweizerischen Strafprozessordnung[^42-2] festgesetzt.
+
+<sup>2</sup> Das Honorar der Mediatorin oder des Mediators im Rahmen eines gerichtlichen Strafverfahrens wird von der in der Sache zuständigen Behörde aufgrund eines Stundentarifs von 150 Franken festgesetzt.
+
+<sup>3</sup> Die Auslagen werden zusätzlich in Rechnung gestellt.
+
+[^42-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^42-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 ## 8 Schlussbestimmung
 
