@@ -4,11 +4,10 @@ number: "921.11"
 title: Kantonale Waldverordnung (KWaV)
 short: KWaV
 language: de
-version: "2013-04-01"
-nachtrag: "81"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 1998-10-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-921_11-1998_10_28-1999_04_01-081.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-921_11-1998_10_28-1999_04_01-119.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ Rückegassen und Trampelpfade gelten nicht als Strassen oder Wege gemäss § 6 d
 
 **1**
 
-- 1\. 4. 13 - 80
+- 1\. 1. 23 - 119
 
 - d. bezeichnen die Flächen, bei denen Interessenkonflikte bestehen,
 
@@ -152,26 +151,41 @@ Rückegassen und Trampelpfade gelten nicht als Strassen oder Wege gemäss § 6 d
 
 Wildschadenverhütungskonzepte werden unter Leitung des kantonalen Forstdienstes in Zusammenarbeit mit den betroffenen kantonalen Amtsstellen, der Gemeinde, den Waldbesitzerinnen und Waldbesitzern sowie der Jagdgesellschaft ausgearbeitet. Der Kanton[^12-2] übernimmt die Konzeptkosten.
 
+**Beiträge an Massnahmen zur Wildschadenverhütung**
+
+§ 13 a.[^13-1] <sup>1</sup> Das Amt für Landschaft und Natur (ALN) richtet Beiträge an Massnahmen im Rahmen des naturnahen Waldbaus aus.
+
+<sup>2</sup> Massnahmen in Ersatz- und in freiwilligen Neuaufforstungen sind nicht beitragsberechtigt.
+
+<sup>3</sup> Das ALN erlässt Richtlinien.
+
+**Beseitigung von Schutzeinrichtungen**
+
+§ 13 b.[^13-1] <sup>1</sup> Schutzeinrichtungen für Jungwald werden beseitigt, wenn a. der Jungwald nicht mehr gefährdet ist oder b. die Schutzeinrichtungen den Schutz nicht mehr gewährleisten, weil sie nicht mehr unterhalten werden.
+
+**3**
+
+- 1\. 1. 23 - 119
+
+<sup>2</sup> Auf Antrag kann das ALN auf Kosten der Verursacherin oder des Verursachers den Abbruch verfügen. Antragsberechtigt sind die Jagdgesellschaft und der Forstdienst.
+
 - 3\. Finanzierung
 
 **Kosten für die Jungwaldpflege**
 
 § 14. Beitragsberechtigt sind die anrechenbaren Kosten für die Mischungsregulierung und die Auslese in den Entwicklungsstufen Dickung und Stangenholz. Die Massnahmen sind gemäss den Weisungen des kantonalen Forstdienstes auszuführen.
 
-§ 15.[^13-1]
-
-**3**
-
-- 1\. 4. 13 - 80
+§ 15.[^13-2]
 
 - 4\. Schluss- und Übergangsbestimmungen
 
 **Vollzug**
 
-§ 16.[^13-2] Soweit nichts anderes bestimmt ist, obliegt der Vollzug der Waldgesetzgebung dem Amt für Landschaft und Natur.
+§ 16.[^13-3] Soweit nichts anderes bestimmt ist, obliegt der Vollzug der Waldgesetzgebung dem ALN.
 
-[^13-1]: Aufgehoben durch RRB vom 8. Dezember 2004 (OS 60, 131). In Kraft seit 1. Januar 2005.
-[^13-2]: Fassung gemäss RRB vom 11. Juli 2012 (OS 68, 129; ABl 2012-07-20). In Kraft seit 1. April 2013.
+[^13-1]: Eingefügt durch RRB vom 5. Oktober 2022 (OS 77, 636; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
+[^13-2]: Aufgehoben durch RRB vom 8. Dezember 2004 (OS 60, 131). In Kraft seit 1. Januar 2005.
+[^13-3]: Fassung gemäss RRB vom 5. Oktober 2022 (OS 77, 636; ABl 2022-11-04). In Kraft seit 1. Januar 2023.
 
 #### § 17
 
