@@ -3,13 +3,12 @@ canton: FR
 number: "116.1"
 title: Loi sur le droit de pétition
 language: fr
-version: 2007-01-01
-valid_until: 2022-12-31
-version_adopted: 2006-09-07
+version: 2023-01-01
+version_adopted: 2022-10-13
 adopted: 1987-05-21
 in_force: 1988-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/116.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4987/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7656/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/4987/pdf_file"
 
 Droit de pétition – L
 
-du 21.05.1987 (version entrée en vigueur le 01.01.2007)
+du 21.05.1987 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -70,7 +69,11 @@ Décrète:
 
 <sup>2</sup> Les autres autorités ainsi que leurs services doivent apporter leur collaboration à l'étude de la pétition, dans les limites de leur compétence.
 
-<sup>3</sup> La pétition adressée au Grand Conseil est transmise à la commission permanente concernée, qui l'étudie et formule des propositions motivées en principe dans les cinq mois qui suivent la réception. Le Grand Conseil se prononce durant la session pour laquelle la commission lui a remis son rapport. S'il apparaît que la pétition est manifestement irrecevable ou mal fondée, la commission permanente est compétente pour la classer et en informe le pétitionnaire.
+<sup>3</sup> La pétition adressée au Grand Conseil est transmise à la Commission des grâces, des pétitions et des motions populaires, qui l'étudie et formule des propositions motivées en principe dans les cinq mois qui suivent la réception. S'il apparaît que la pétition est manifestement irrecevable ou mal fondée, la Commission la classe et en informe le ou la pétitionnaire.
+
+<sup>4</sup> La Commission adresse au Conseil d'Etat une copie de son rapport au Grand Conseil.
+
+<sup>5</sup> Le Grand Conseil se prononce sur la pétition qui lui est adressée durant la session pour laquelle la commission lui a remis son rapport.
 
 #### Art. 6
 

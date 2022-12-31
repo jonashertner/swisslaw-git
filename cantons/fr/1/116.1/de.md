@@ -3,13 +3,12 @@ canton: FR
 number: "116.1"
 title: Gesetz über das Petitionsrecht
 language: de
-version: 2007-01-01
-valid_until: 2022-12-31
-version_adopted: 2006-09-07
+version: 2023-01-01
+version_adopted: 2022-10-13
 adopted: 1987-05-21
 in_force: 1988-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/116.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/4987/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/4987/pdf_file"
 
 Petitionsrecht – G
 
-vom 21.05.1987 (Fassung in Kraft getreten am 01.01.2007)
+vom 21.05.1987 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -70,7 +69,11 @@ beschliesst:
 
 <sup>2</sup> Die anderen Behörden und ihre Dienststellen wirken im Rahmen ihrer Kompetenzen bei der Prüfung der Petition mit.
 
-<sup>3</sup> Die an den Grossen Rat gerichtete Petition wird der betreffenden ständigen Kommission überwiesen; diese prüft sie und formuliert grundsätzlich innerhalb von fünf Monaten nach Empfang der Petition begründete Anträge. Der Grosse Rat äussert sich während der Session, für die ihm die Kommission den Bericht überwiesen hat. Wenn die Petition offensichtlich unzulässig oder unbegründet ist, hat die ständige Kommission die Befugnis, die Petition abzuschreiben; sie teilt dies dem Bittsteller mit.
+<sup>3</sup> Eine an den Grossen Rat gerichtete Petition wird der Begnadigungs-, Petitions- und Volksmotionskommission überwiesen; diese prüft sie grundsätzlich innerhalb von 5 Monaten nach Eingang und formuliert begründete Anträge. Stellt sich heraus, dass die Petition offensichtlich unzulässig oder unbegründet ist, so schreibt die Kommission sie ab, und teilt dies dem Verfasser der Petition mit.
+
+<sup>4</sup> Die Kommission überweist dem Staatsrat eine Kopie ihres Berichts an den Grossen Rat.
+
+<sup>5</sup> Der Grosse Rat äussert sich zu der an ihn gerichteten Petition während der Session, für die ihm die Kommission den Bericht überwiesen hat.
 
 #### Art. 6
 
