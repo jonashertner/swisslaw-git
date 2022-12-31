@@ -3,18 +3,18 @@ sr: "831.201.74"
 title: "Ordonnance de l'OFAS du 17 octobre 2018 sur le projet pilote «Intervention précoce intensive auprès des enfants atteints d'autisme infantile»"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/615"
 language: fr
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-10-17
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-615-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-615-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFAS sur le projet pilote «Intervention précoce intensive auprès des enfants atteints d’autisme infantile»
 
-du 17 octobre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 17 octobre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 L’Office fédéral des assurances sociales (OFAS),
 
@@ -39,11 +39,13 @@ La présente ordonnance règle:
 
 **But du projet pilote**
 
-Le projet pilote a pour but de développer:
+Le projet pilote a pour but de développer et de concrétiser:[^2-1]
 
 - a. un modèle de programme uniforme d’intervention précoce intensive (modèle de programme);
 - b. un modèle d’établissement de l’effet à long terme de l’intervention précoce intensive (modèle de résultats);
 - c. un modèle de financement des coûts de l’intervention précoce intensive (modèle de coûts).
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 ## Section 2 Participation des enfants atteints d’autisme infantile
 
@@ -55,7 +57,7 @@ Le projet pilote a pour but de développer:
 
 Peuvent participer au projet pilote les enfants assurés conformément à la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^3-1]:
 
-- a. pour lesquels un médecin spécialiste en neuropédiatrie ou en psychiatrie et psychothérapie de l’enfance et de la jeunesse a posé un diagnostic d’autisme infantile selon le code F84.0 de la classification CIM-10, version 2016[^3-2], sans comorbidités pour lesquelles une intervention précoce intensive est contre-indiquée, et
+- a.[^3-2] pour lesquels un médecin spécialiste en psychiatrie et psychothérapie de l’enfance et de la jeunesse, un médecin spécialiste en pédiatrie avec formation approfondie en neuropédiatrie ou un médecin spécialiste en pédiatrie avec formation approfondie en pédiatrie du développement a posé un diagnostic d’autisme infantile selon le code F84.0 de la classification CIM-10, version 2016[^3-3], sans comorbidités pour lesquelles une intervention précoce intensive est contre-indiquée, et
 - b. qui sont âgés de 2 à 4 ans au moment du début du traitement.
 
 <sup>2</sup>
@@ -69,7 +71,8 @@ Les détenteurs de l’autorité parentale doivent:
 <sup>3</sup> La participation au projet pilote a lieu sur demande des détenteurs de l’autorité parentale.
 
 [^3-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^3-2]: La «Classification statistique internationale des maladies et des problèmes de santé connexes», 10<sup>e</sup> révision, German Modification, version 2016 (CIM-10-GM) peut être consultée sur le site www.statistique.admin.ch &gt; Trouver des statistiques &gt; 14-Santé &gt; Bases statistiques et enquêtes &gt; Nomenclatures &gt; Classifications et codages médicaux &gt; Instruments pour le codage médical &gt; CIM-10-GM.
+[^3-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^3-3]: La «Classification statistique internationale des maladies et des problèmes de santé connexes», 10<sup>e</sup> révision, German Modification, version 2016 (CIM-10-GM) peut être consultée sur le site www.statistique.admin.ch &gt; Trouver des statistiques &gt; 14 - Santé &gt; Bases statistiques et enquêtes &gt; Nomenclatures &gt; Classifications et codages médicaux &gt; Instruments pour le codage médical &gt; CIM-10-GM.
 
 #### Art. 4
 
@@ -91,7 +94,9 @@ Les détenteurs de l’autorité parentale doivent:
 
 <sup>1</sup> La demande de participation de l’enfant au projet pilote doit être présentée par écrit à l’office AI compétent par les détenteurs de l’autorité parentale.
 
-<sup>2</sup> Toute demande de prolongation de la participation doit être motivée par un médecin spécialiste en neuropédiatrie ou en psychiatrie et psychothérapie de l’enfance et de la jeunesse.
+<sup>2</sup> Toute demande de prolongation de la participation doit être motivée par un médecin spécialiste en psychiatrie et psychothérapie de l’enfance et de la jeunesse, un médecin spécialiste en pédiatrie avec formation approfondie en neuropédiatrie ou un médecin spécialiste en pédiatrie avec formation approfondie en pédiatrie du développement.[^5-1]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 6
 
@@ -118,7 +123,8 @@ La reconnaissance est accordée si le fournisseur de prestations propose une mé
 - a. qui est scientifiquement reconnue;
 - b. qui suit une approche axée sur la thérapie comportementale ou sur le développement, ou une combinaison des deux;
 - c. qui englobe les domaines de la cognition, de la communication et du langage, de l’interaction sociale et du développement affectif;
-- d. dont l’intensité est d’au moins 20 heures par semaine, mais qui peut être moindre en cas de prolongation au sens de l’art. 4, al. 2;
+- d.[^7-1] dont l’intensité est d’au moins 15 heures par semaine en moyenne, mais qui peut être moindre en cas de prolongation au sens de l’art. 4, al. 2;
+- d<sup>bis</sup>.[^7-2] qui est axée sur une thérapie d’une durée de deux ans;
 - e. qui implique les détenteurs de l’autorité parentale, et
 - f. qui est appliquée par une équipe interdisciplinaire.
 
@@ -127,13 +133,22 @@ La reconnaissance est accordée si le fournisseur de prestations propose une mé
 Le fournisseur de prestations doit remplir en outre les conditions suivantes:
 
 - a. être rattaché à une institution de droit public;
-- b. être dirigé par un médecin spécialiste en neuropédiatrie ou en psychiatrie et psychothérapie de l’enfance et de l’adolescence ou, à défaut, les mesures médicales qu’il fournit doivent être supervisées par un médecin spécialiste de ces disciplines;
+- b.[^7-3] être dirigé par un médecin spécialiste en psychiatrie et psychothérapie de l’enfance et de la jeunesse, un médecin spécialiste en pédiatrie avec formation approfondie en neuropédiatrie ou un médecin spécialiste en pédiatrie avec formation approfondie en pédiatrie du développement ou, à défaut, les mesures médicales qu’il fournit doivent être supervisées par un médecin spécialiste de ces disciplines;
 - c. avoir son financement assuré pour toute la durée du projet pilote;
 - d. disposer d’un système de gestion de la qualité;
-- e. avoir un personnel composé à 30 % au moins de personnel médical et 30 % au moins de personnel pédago-thérapeutique;
+- e.[^7-4] avoir un personnel composé à 20 % au moins de personnel médical et à 30 % au moins de personnel pédago-thérapeutique;
 - f. ne pas compter plus de 30 % (en équivalents plein temps) de personnes en formation ni au sein du personnel médical ni au sein du personnel pédago-thérapeutique.
 
-<sup>5</sup> Pour la détermination de l’intensité de la thérapie, les heures de thérapie effectuées par les détenteurs de l’autorité parentale sont prises en compte à raison de deux heures par jour au maximum.
+<sup>5</sup> La reconnaissance est aussi accordée aux fournisseurs de prestations ayant conclu avec le canton dans lequel ils se situent une convention relative à la réalisation de l’intervention précoce intensive, pour autant qu’ils remplissent les conditions prévues aux al. 3 et 4.[^7-5]
+
+<sup>6</sup> Pour la détermination de l’intensité de la thérapie, les heures de thérapie effectuées par les détenteurs de l’autorité parentale ne sont pas prises en compte.[^7-6]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-2]: Introduite par le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-3]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-4]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-5]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-6]: Introduit par le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 8
 
@@ -153,7 +168,9 @@ Le fournisseur de prestations doit remplir en outre les conditions suivantes:
 
 <sup>3</sup> Une sortie du projet pilote est possible à tout moment avec un préavis de six mois. Elle doit être dûment justifiée par écrit auprès de l’OFAS.
 
-<sup>4</sup> L’OFAS peut en tout temps résilier la convention conclue avec un fournisseur de prestations moyennant un préavis de six mois, s’il paraît évident que les modèles visés à l’art. 2 ne peuvent être développés.
+<sup>4</sup> L’OFAS peut en tout temps résilier la convention conclue avec un fournisseur de prestations moyennant un préavis de six mois, s’il paraît évident que les modèles visés à l’art. 2 ne peuvent être développés et concrétisés.[^9-1]
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 ## Section 4 Prise en charge des prestations
 
@@ -209,14 +226,28 @@ Les heures de thérapie effectuées par les détenteurs de l’autorité parenta
 
 #### Art. 15
 
-**Dispositions transitoires**
+[^15-1]
 
-<sup>1</sup> Les enfants qui, à l’entrée en vigueur de la présente ordonnance, étaient déjà traités dans un centre de traitement de l’autisme ayant conclu auparavant avec l’OFAS une convention relative à l’intervention précoce intensive peuvent poursuivre leur traitement dans le cadre du projet pilote si les détenteurs de l’autorité parentale en font la demande. L’art. 3, al. 1, let. b, n’est pas applicable.
+[^15-1]: Abrogé par le ch. I de l’O de l’OFAS du 20 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
-<sup>2</sup> Les enfants qui, à l’entrée en vigueur de la présente ordonnance, étaient déjà traités dans un centre de traitement de l’autisme n’ayant pas encore conclu de convention avec l’OFAS peuvent participer au projet pilote si le centre est reconnu par l’OFAS et conclut avec lui une convention. Le traitement peut être poursuivi dans le cadre d’un projet pilote si les détenteurs de l’autorité parentale en font la demande. L’art. 3, al. 1, let. b, n’est pas applicable. Le forfait par cas est versé en proportion de la durée restante du traitement.
+#### Art. 15a
+
+**Dispositions transitoires de la modification du 20 octobre 2022**[^15a-1]
+
+<sup>1</sup> Les fournisseurs de prestations reconnus qui ont conclu avec l’OFAS une convention au sens de l’art. 8 entre le 1<sup>er</sup> janvier 2019 et le 31 décembre 2022 doivent en conclure une nouvelle. Celle-ci peut prévoir que certaines des conditions prévues à l’art. 7 ne doivent pas être remplies ou qu’elles doivent l’être au terme d’un délai transitoire.
+
+<sup>2</sup> Les enfants qui, à l’entrée en vigueur de la modification du 20 octobre 2022, étaient déjà traités dans un centre de traitement de l’autisme ayant conclu auparavant avec l’OFAS une convention relative à l’intervention précoce intensive peuvent poursuivre leur traitement pour autant que le centre conclue une nouvelle convention avec l’OFAS. Le forfait par cas est versé en proportion de la durée restante du traitement.
+
+<sup>3</sup> Les enfants qui, à l’entrée en vigueur de la modification du 20 octobre 2022, étaient déjà traités dans un centre de traitement de l’autisme n’ayant pas encore conclu de convention avec l’OFAS peuvent participer au projet pilote si le centre est reconnu par l’OFAS et conclut avec lui une convention. Le traitement peut être poursuivi dans le cadre d’un projet pilote si les détenteurs de l’autorité parentale en font la demande. Le forfait par cas est versé en proportion de la durée restante du traitement.
+
+[^15a-1]: Introduit par le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 16
 
 **Entrée en vigueur et durée de validité**
 
-La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2019 et a effet jusqu’au 31 décembre 2022.
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2019 et a effet jusqu’au 31 décembre 2022.
+
+<sup>2</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2026.[^16-1]
+
+[^16-1]: Introduit par le ch. I de l’O de l’OFAS du 20 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).

@@ -3,18 +3,18 @@ sr: "831.201.74"
 title: "Ordinanza dell'UFAS del 17 ottobre 2018 concernente il progetto pilota «Intervento precoce intensivo per i bambini affetti da autismo infantile»"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/615"
 language: it
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-10-17
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-615-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-615-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’UFAS concernente il progetto pilota «Intervento precoce intensivo per i bambini affetti da autismo infantile»
 
-del 17 ottobre 2018 (Stato 1° gennaio 2019)
+del 17 ottobre 2018 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 L’Ufficio federale delle assicurazioni sociali (UFAS),
 
@@ -39,11 +39,13 @@ La presente ordinanza disciplina:
 
 **Scopo del progetto pilota**
 
-Con il progetto pilota si intendono sviluppare i modelli seguenti:
+Con il progetto pilota si intendono sviluppare e concretizzare i modelli seguenti:[^2-1]
 
 - a. un modello per programmi d’intervento precoce intensivo uniformi (modello di programma);
 - b. un modello per la prova dell’efficacia dell’intervento precoce intensivo a lungo termine (modello di risultato);
 - c. un modello per il finanziamento dei costi dell’intervento precoce intensivo (modello di finanziamento).
+
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 ## Sezione 2: Partecipazione dei bambini affetti da autismo infantile
 
@@ -55,7 +57,7 @@ Con il progetto pilota si intendono sviluppare i modelli seguenti:
 
 Sono ammessi a partecipare al progetto pilota i bambini assicurati secondo la legge federale del 19 giugno 1959[^3-1] sull’assicurazione per l’invalidità (LAI):
 
-- a. per i quali un medico specialista in neuropediatria o psichiatria e psicoterapia dell’infanzia e dell’adolescenza ha emesso una diagnosi di autismo infantile secondo il codice F84.0 della classificazione ICD-10, versione 2016[^3-2], senza comorbidità per le quali sia controindicato un intervento precoce intensivo; e
+- a.[^3-2] per i quali un medico specialista in psichiatria e psicoterapia dell’infanzia e dell’adolescenza oppure un medico specialista in medicina dell’infanzia e dell’adolescenza con specializzazione in neuropediatria o in pediatria dello sviluppo ha emesso una diagnosi di autismo infantile secondo il codice F84.0 della classificazione ICD-10, versione 2016[^3-3], senza comorbidità per le quali sia controindicato un intervento precoce intensivo; e
 - b. che all’inizio del trattamento hanno un’età compresa tra due e quattro anni.
 
 <sup>2</sup>
@@ -69,7 +71,8 @@ I detentori dell’autorità parentale devono:
 <sup>3</sup> La partecipazione al progetto pilota ha luogo su richiesta dei detentori dell’autorità parentale.
 
 [^3-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^3-2]: La Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, decima revisione, German Modification, versione 2016 (ICD-10-GM, Version 2016) può essere consultata sul sito www.bfs.admin.ch &gt; Trovare statistiche &gt; Salute &gt; Basi statistiche e rilevazioni &gt; Nomenclature &gt; Classificazioni e codifica mediche &gt; Strumenti di codifica medica &gt; ICD-10-GM.
+[^3-2]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^3-3]: La Classificazione statistica internazionale delle malattie e dei problemi sanitari correlati, decima revisione, German Modification, versione 2016 (ICD-10-GM, Version 2016) può essere consultata sul sito www.bfs.admin.ch &gt; Trovare statistiche &gt; Salute &gt; Basi statistiche e rilevazioni &gt; Nomenclature &gt; Classificazioni e codifica mediche &gt; Strumenti di codifica medica &gt; ICD-10-GM.
 
 #### Art. 4
 
@@ -91,7 +94,9 @@ I detentori dell’autorità parentale devono:
 
 <sup>1</sup> La richiesta per la partecipazione di un bambino al progetto pilota deve essere inoltrata per scritto dai detentori dell’autorità parentale al competente ufficio AI.
 
-<sup>2</sup> Una richiesta di proroga della durata di partecipazione deve essere motivata da un medico specialista in neuropediatria o psichiatria e psicoterapia dell’infanzia e dell’adolescenza.
+<sup>2</sup> Una richiesta di proroga della durata di partecipazione deve essere motivata da un medico specialista in psichiatria e psicoterapia dell’infanzia e dell’adolescenza oppure da un medico specialista in medicina dell’infanzia e dell’adolescenza con specializzazione in neuropediatria o in pediatria dello sviluppo.[^5-1]
+
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 6
 
@@ -118,7 +123,8 @@ Il riconoscimento è accordato se il fornitore di prestazioni offre un metodo d�
 - a. è scientificamente riconosciuto;
 - b. prevede un approccio basato sulla terapia comportamentale o sullo sviluppo oppure una combinazione di questi due approcci;
 - c. comprende gli ambiti della cognizione, della comunicazione e del linguaggio, dell’interazione sociale e dello sviluppo emotivo;
-- d. ha un’intensità di almeno 20 ore alla settimana, che può tuttavia essere inferiore in caso di proroga secondo l’articolo 4 capoverso 2;
+- d.[^7-1] ha un’intensità di almeno 15 ore alla settimana, che può tuttavia essere inferiore in caso di proroga secondo l’articolo 4 capoverso 2;
+- d<sup>bis</sup>.[^7-2] prevede una durata della terapia di due anni;
 - e. coinvolge i detentori dell’autorità parentale; e
 - f. è applicato da un gruppo interdisciplinare.
 
@@ -127,13 +133,22 @@ Il riconoscimento è accordato se il fornitore di prestazioni offre un metodo d�
 Il fornitore di prestazioni deve inoltre adempiere le condizioni seguenti:
 
 - a. fare capo a un’istituzione di diritto pubblico;
-- b. essere diretto da un medico specialista in neuropediatria o psichiatria e psicoterapia dell’infanzia e dell’adolescenza oppure prevedere che un medico con una specializzazione in tali discipline segua i provvedimenti sanitari svolti dal fornitore di prestazioni;
+- b.[^7-3] essere diretto da un medico specialista in psichiatria e psicoterapia dell’infanzia e dell’adolescenza oppure da un medico specialista in medicina dell’infanzia e dell’adolescenza con specializzazione in neuropediatria o in pediatria dello sviluppo oppure prevedere che un medico con una specializzazione in tali discipline segua i provvedimenti sanitari svolti dal fornitore di prestazioni;
 - c. avere un finanziamento garantito per l’intera durata del progetto pilota;
 - d. disporre di un sistema di gestione della qualità;
-- e. avere un organico composto almeno al 30 per cento da personale medico e al 30 per cento da personale pedagogico-terapeutico;
+- e.[^7-4] avere un organico composto almeno al 20 per cento da personale medico e al 30 per cento da personale pedagogico-terapeutico;
 - f. provvedere affinché i posti per il personale medico e quelli per il personale pedagogico-terapeutico siano occupati da persone in formazione in misura non superiore al 30 per cento degli equivalenti a tempo pieno.
 
-<sup>5</sup> Per la determinazione dell’intensità della terapia, sono computate al massimo due ore al giorno di terapia fornite dai detentori dell’autorità parentale.
+<sup>5</sup> Il riconoscimento è accordato anche ai fornitori di prestazioni che hanno concluso con il Cantone di ubicazione una convenzione sullo svolgimento dell’intervento precoce intensivo, se le condizioni di cui ai capoversi 3 e 4 sono adempiute.[^7-5]
+
+<sup>6</sup> Per la determinazione dell’intensità della terapia non sono computate le ore di terapia fornite dai detentori dell’autorità parentale.[^7-6]
+
+[^7-1]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-2]: Introdotta dal n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-3]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-4]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-5]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-6]: Introdotto dal n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 8
 
@@ -153,7 +168,9 @@ Il fornitore di prestazioni deve inoltre adempiere le condizioni seguenti:
 
 <sup>3</sup> La partecipazione al progetto può essere interrotta in qualsiasi momento con un preavviso di sei mesi. L’interruzione va comunicata per scritto all’UFAS con la relativa motivazione.
 
-<sup>4</sup> L’UFAS può disdire la convenzione con un fornitore di prestazioni in qualsiasi momento, con un preavviso di sei mesi, se lo sviluppo dei modelli di cui all’articolo 2 non è più realistico.
+<sup>4</sup> L’UFAS può disdire la convenzione con un fornitore di prestazioni in qualsiasi momento, con un preavviso di sei mesi, se lo sviluppo e la concretizzazione dei modelli di cui all’articolo 2 non sono più realistici.[^9-1]
+
+[^9-1]: Nuovo testo giusta il n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 ## Sezione 4: Rimborso delle prestazioni
 
@@ -209,14 +226,28 @@ Le ore di terapia fornite dai detentori dell’autorità parentale non sono rimb
 
 #### Art. 15
 
-**Disposizioni transitorie**
+[^15-1]
 
-<sup>1</sup> I bambini che all’entrata in vigore della presente ordinanza erano già in cura presso un centro per l’autismo con cui l’UFAS ha concluso in precedenza una convenzione sullo svolgimento dell’intervento precoce intensivo possono continuare il trattamento nel quadro del progetto pilota se i detentori dell’autorità parentale presentano una richiesta in tal senso. Non si applica l’articolo 3 capoverso 1 lettera b.
+[^15-1]: Abrogato dal n. I dell’O dell’UFAS del 20 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
-<sup>2</sup> I bambini che all’entrata in vigore della presente ordinanza erano già in cura presso un centro per l’autismo che in quel momento non ha ancora concluso una convenzione con l’UFAS possono partecipare al progetto pilota se il centro viene riconosciuto dall’UFAS e conclude una convenzione con esso. Il trattamento può proseguire nell’ambito del progetto pilota se i detentori dell’autorità parentale presentano una richiesta in tal senso. Non si applica l’articolo 3 capoverso 1 lettera b. L’importo forfettario per singolo caso è versato proporzionalmente per la durata restante del trattamento.
+#### Art. 15a
+
+**Disposizioni transitorie della modifica del 20 ottobre 2022**[^15a-1]
+
+<sup>1</sup> I fornitori di prestazioni riconosciuti che hanno concluso con l’UFAS una convenzione secondo l’articolo 8 tra il 1° gennaio 2019 e il 31 dicembre 2022 devono concludere con il medesimo una nuova convenzione. La convenzione può prevedere che non sia necessario adempiere determinate condizioni di cui all’articolo 7 o che per l’adempimento di queste condizioni si applichi un periodo transitorio.
+
+<sup>2</sup> I bambini che all’entrata in vigore della modifica del 20 ottobre 2022 erano già in cura presso un centro per l’autismo con cui l’UFAS aveva concluso prima di tale entrata in vigore una convenzione sullo svolgimento dell’intervento precoce intensivo possono continuare il trattamento se il centro conclude con l’UFAS una nuova convenzione. L’importo forfettario per singolo caso è versato proporzionalmente per la durata residua del trattamento.
+
+<sup>3</sup> I bambini che all’entrata in vigore della modifica del 20 ottobre 2022 erano già in cura presso un centro per l’autismo che in quel momento non aveva ancora concluso una convenzione con l’UFAS possono partecipare al progetto pilota se il centro viene riconosciuto dall’UFAS e conclude una convenzione con esso. Il trattamento può proseguire nell’ambito del progetto pilota se i detentori dell’autorità parentale presentano una richiesta in tal senso. L’importo forfettario per singolo caso è versato proporzionalmente per la durata residua del trattamento.
+
+[^15a-1]: Introdotto dal n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 16
 
 **Entrata in vigore e durata di validità**
 
-La presente ordinanza entra in vigore il 1° gennaio 2019 con effetto sino al 31 dicembre 2022.
+<sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2019 con effetto sino al 31 dicembre 2022.
+
+<sup>2</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2026.[^16-1]
+
+[^16-1]: Introdotto dal n. I dell’O dell’UFAS del 20 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).

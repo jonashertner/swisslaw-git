@@ -3,18 +3,18 @@ sr: "831.201.74"
 title: Verordnung des BSV vom 17. Oktober 2018 über den Pilotversuch «Intensive Frühintervention bei Kindern mit frühkindlichem Autismus»
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/615"
 language: de
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-10-17
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-615-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/615/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-615-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/615/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BSV über den Pilotversuch «Intensive Frühintervention bei Kindern mit frühkindlichem Autismus»
 
-vom 17. Oktober 2018 (Stand am 1. Januar 2019)
+vom 17. Oktober 2018 (Stand am 1. Januar 2023)
 
 Das Bundesamt für Sozialversicherungen (BSV),
 
@@ -39,11 +39,13 @@ Diese Verordnung regelt:
 
 **Zweck des Pilotversuchs**
 
-Mit dem Pilotversuch sollen folgende Modelle entwickelt werden:
+Mit dem Pilotversuch sollen folgende Modelle entwickelt und konkretisiert werden:[^2-1]
 
 - a. ein Modell für einheitliche Programme der intensiven Frühintervention (Programm-Modell);
 - b. ein Modell für den langfristigen Nachweis der Wirkung der intensiven Frühintervention (Ergebnis-Modell);
 - c. ein Modell für die Finanzierung der Kosten der intensiven Frühintervention (Kosten-Modell).
+
+[^2-1]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 ## 2. Abschnitt: Teilnahme von Kindern mit frühkindlichem Autismus
 
@@ -53,9 +55,9 @@ Mit dem Pilotversuch sollen folgende Modelle entwickelt werden:
 
 <sup>1</sup>
 
-Zur Teilnahme am Pilotversuch können Kinder, die nach dem Bundesgesetz vom 19. Juni 1959[^3-1] über die Invalidenversicherung versichert sind, zugelassen werden:
+Zur Teilnahme am Pilotversuch können Kinder, die nach dem Bundesgesetz vom 19. Juni 1959[^3-1] über die Invalidenversicherung (IVG) versichert sind, zugelassen werden:
 
-- a. bei denen eine Fachärztin oder ein Facharzt für Neuropädiatrie oder Kinder- und Jugendpsychiatrie und -psychotherapie einen frühkindlichen Autismus nach dem Code F84.0 gemäss der Klassifikation ICD 10, Version 2016[^3-2] diagnostiziert hat, ohne dass Komorbiditäten bestehen, bei denen eine intensive Frühintervention kontraindiziert ist; und
+- a.[^3-2] bei denen eine Fachärztin oder ein Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie, eine Fachärztin oder ein Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder eine Fachärztin oder ein Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Entwicklungspädiatrie einen frühkindlichen Autismus nach dem Code F84.0 gemäss der Klassifikation ICD 10, Version 2016[^3-3] diagnostiziert hat, ohne dass Komorbiditäten bestehen, bei denen eine intensive Frühintervention kontraindiziert ist; und
 - b. die beim Eintritt in die Behandlung 2–4 Jahre alt sind.
 
 <sup>2</sup>
@@ -69,7 +71,8 @@ Die Inhaberinnen und Inhaber der elterlichen Sorge müssen:
 <sup>3</sup> Die Teilnahme am Pilotversuch findet auf Gesuch der Inhaberinnen und Inhaber der elterlichen Sorge statt.
 
 [^3-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^3-2]: Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification, Version 2016 (ICD-10-GM, Version 2016) ist einsehbar unter: www.bfs.admin.ch &gt; Statistiken finden &gt; Gesundheit &gt; Grund-lagen und Erhebungen &gt; Nomenklaturen &gt; Medizinische Kodierung und Klassifikationen &gt; Instrumente zur medizinischen Kodierung &gt; ICD-10-GM.
+[^3-2]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^3-3]: Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 10. Revision, German Modification, Version 2016 (ICD-10-GM, Version 2016) ist einsehbar unter: www.bfs.admin.ch &gt; Statistiken finden &gt; Gesundheit &gt; Grund-lagen und Erhebungen &gt; Nomenklaturen &gt; Medizinische Kodierung und Klassifikationen &gt; Instrumente zur medizinischen Kodierung &gt; ICD-10-GM.
 
 #### Art. 4
 
@@ -91,7 +94,9 @@ Die Inhaberinnen und Inhaber der elterlichen Sorge müssen:
 
 <sup>1</sup> Das Gesuch um Teilnahme des Kindes am Pilotversuch muss von den Inhaberinnen und Inhabern der elterlichen Sorge bei der zuständigen IV-Stelle schriftlich eingereicht werden.
 
-<sup>2</sup> Ein Gesuch um Verlängerung der Teilnahme muss von einer Fachärztin oder einem Facharzt für Neuropädiatrie oder Kinder- und Jugendpsychiatrie und -psychotherapie begründet werden.
+<sup>2</sup> Ein Gesuch um Verlängerung der Teilnahme muss von einer Fachärztin oder einem Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie, einer Fachärztin oder einem Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder einer Fachärztin oder einem Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Entwicklungspädiatrie begründet werden.[^5-1]
+
+[^5-1]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 6
 
@@ -118,18 +123,28 @@ Die Anerkennung wird erteilt, wenn der Leistungserbringer eine Methode zur inten
 - a. wissenschaftlich anerkannt ist;
 - b. einen verhaltenstherapeutischen oder einen entwicklungsorientierten Ansatz oder eine Kombination dieser beiden Ansätze verfolgt;
 - c. die Bereiche Kognition, Kommunikation und Sprache, soziale Interaktion und emotionale Entwicklung umfasst;
-- d. eine Intensität von mindestens 20 Wochenstunden hat, wobei die Intensität während einer Verlängerung nach Artikel 4 Absatz 2 weniger gross sein kann;
+- d.[^7-1] eine Intensität von durchschnittlich mindestens 15 Wochenstunden hat, wobei die Intensität während einer Verlängerung nach Artikel 4 Absatz 2 weniger gross sein kann;
+- d<sup>bis</sup>.[^7-2] auf eine Therapiedauer von zwei Jahren ausgerichtet ist;
 - e. die Inhaberinnen und Inhaber der elterlichen Sorge einbezieht; und
 - f. von einem interdisziplinär zusammengesetzten Team durchgeführt wird.
 - [tab] <sup>4</sup> Der Leistungserbringer muss zudem folgende Voraussetzungen erfüllen:
 - a. Er muss an eine öffentlich-rechtliche Institution angegliedert sein.
-- b. Er muss entweder durch eine Fachärztin oder einen Facharzt für Neuropädiatrie oder Kinder- und Jugendpsychiatrie und -psychotherapie geführt werden oder die vom Leistungserbringer durchgeführten medizinischen Massnahmen müssen durch eine solche Fachärztin oder einen solchen Facharzt begleitet werden.
+- b.[^7-3] Er muss entweder durch eine Fachärztin oder einen Facharzt für Kinder- und Jugendpsychiatrie und -psychotherapie, eine Fachärztin oder einen Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Neuropädiatrie oder eine Fachärztin oder einen Facharzt für Kinder- und Jugendmedizin mit Schwerpunkt Entwicklungspädiatrie geführt werden oder die vom Leistungserbringer durchgeführten medizinischen Massnahmen müssen durch eine solche Fachärztin oder einen solchen Facharzt begleitet werden.
 - c. Seine Finanzierung muss über die ganze Dauer des Pilotversuchs gesichert sein.
 - d. Er muss über ein Qualitätsmanagementsystem verfügen.
-- e. Das medizinische Personal und das pädagogisch-therapeutische Personal müssen mindestens je 30 Prozent des gesamten Personals ausmachen.
+- e.[^7-4] Das medizinische Personal muss mindestens 20 Prozent und das pädagogisch-therapeutische Personal mindestens 30 Prozent des gesamten Personals ausmachen.
 - f. Sowohl innerhalb seines medizinischen Personals als auch innerhalb seines pädagogisch-therapeutischen Personals dürfen nicht mehr als 30 Prozent der Vollzeitäquivalente durch Personen in Ausbildung besetzt sein.
 
-<sup>5</sup> Für die Bestimmung der Intensität der Therapie werden Therapiestunden, die von den Inhaberinnen und Inhabern der elterlichen Sorge erbracht werden, mit höchstens zwei Stunden pro Tag angerechnet.
+<sup>5</sup> Die Anerkennung wird auch Leistungserbringern erteilt, die mit dem Standortkanton eine Vereinbarung über die Durchführung der intensiven Frühintervention abgeschlossen haben, sofern sie die Voraussetzungen nach den Absätzen 3 und 4 erfüllen.[^7-5]
+
+<sup>6</sup> Für die Bestimmung der Intensität der Therapie werden Therapiestunden, die von den Inhaberinnen und Inhabern der elterlichen Sorge erbracht werden, nicht angerechnet.[^7-6]
+
+[^7-1]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-2]: Eingefügt durch Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-3]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-4]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-5]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
+[^7-6]: Eingefügt durch Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 8
 
@@ -149,7 +164,9 @@ Die Anerkennung wird erteilt, wenn der Leistungserbringer eine Methode zur inten
 
 <sup>3</sup> Ein Austritt aus dem Pilotversuch ist mit einer Frist von sechs Monaten jederzeit möglich. Der Austritt ist dem BSV schriftlich und mit Begründung mitzuteilen.
 
-<sup>4</sup> Das BSV kann die Vereinbarung mit einem Leistungserbringer unter Einhaltung einer Frist von sechs Monaten jederzeit kündigen, wenn die Entwicklung der Modelle nach Artikel 2 nicht mehr realistisch ist.
+<sup>4</sup> Das BSV kann die Vereinbarung mit einem Leistungserbringer unter Einhaltung einer Frist von sechs Monaten jederzeit kündigen, wenn die Entwicklung und Konkretisierung der Modelle nach Artikel 2 nicht mehr realistisch ist.[^9-1]
+
+[^9-1]: Fassung gemäss Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 ## 4. Abschnitt: Vergütung der Leistungen
 
@@ -205,14 +222,28 @@ Therapiestunden, die von den Inhaberinnen und Inhaber der elterlichen Sorge erbr
 
 #### Art. 15
 
-**Übergangsbestimmungen**
+[^15-1]
 
-<sup>1</sup> Kinder, die beim Inkrafttreten dieser Verordnung schon in einem Autismuszentrum, mit dem das BSV vor Inkrafttreten dieser Verordnung bereits eine Vereinbarung über die Durchführung der intensiven Frühintervention abgeschlossen hat, behandelt werden, können ihre Behandlung im Rahmen des Pilotversuchs fortsetzen, wenn die Inhaberinnen und Inhaber der elterlichen Sorge dies beantragen. Artikel 3 Absatz 1 Buchstabe b ist nicht anwendbar.
+[^15-1]: Aufgehoben durch Ziff. I der V des BSV vom 20. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
-<sup>2</sup> Kinder, die beim Inkrafttreten dieser Verordnung schon in einem Autismuszentrum behandelt werden, das beim Inkrafttreten dieser Verordnung noch keine Vereinbarung mit dem BSV abgeschlossen hat, können am Pilotversuch teilnehmen, wenn das Zentrum vom BSV anerkannt wird und mit dem BSV eine Vereinbarung abschliesst. Die Behandlung kann im Rahmen des Pilotversuchs fortgesetzt werden, wenn die Inhaberinnen und Inhaber der elterlichen Sorge dies beantragen. Artikel 3 Absatz 1 Buchstabe b ist nicht anwendbar. Die Fallpauschale wird anteilsmässig für die verbleibende Dauer der Behandlung ausbezahlt.
+#### Art. 15a
+
+**Übergangsbestimmungen zur Änderung vom 20. Oktober 2022**[^15a-1]
+
+<sup>1</sup> Anerkannte Leistungserbringer, die zwischen dem 1. Januar 2019 und dem 31. Dezember 2022 eine Vereinbarung nach Artikel 8 mit dem BSV abgeschlossen haben, müssen mit diesem eine neue Vereinbarung abschliessen. Die Vereinbarung kann vorsehen, dass bestimmte Voraussetzungen nach Artikel 7 nicht erfüllt werden müssen oder dass für die Erfüllung der Voraussetzungen eine Übergangsfrist gilt.
+
+<sup>2</sup> Kinder, die beim Inkrafttreten der Änderung vom 20. Oktober 2022 bereits in einem Autismuszentrum behandelt werden, mit dem das BSV vor dem Inkrafttreten dieser Änderung eine Vereinbarung über die Durchführung der intensiven Frühintervention abgeschlossen hat, können ihre Behandlung fortsetzen, sofern das Zentrum mit dem BSV eine neue Vereinbarung abschliesst. Die Fallpauschale wird anteilsmässig für die verbleibende Dauer der Behandlung ausbezahlt.
+
+<sup>3</sup> Kinder, die beim Inkrafttreten der Änderung vom 20. Oktober 2022 bereits in einem Autismuszentrum behandelt werden, das beim Inkrafttreten dieser Änderung noch keine Vereinbarung mit dem BSV abgeschlossen hat, können am Pilotversuch teilnehmen, wenn das Zentrum vom BSV anerkannt wird und mit dem BSV eine Vereinbarung abschliesst. Die Behandlung kann im Rahmen des Pilotversuchs fortgesetzt werden, wenn die Inhaberinnen und Inhaber der elterlichen Sorge dies beantragen. Die Fallpauschale wird anteilsmässig für die verbleibende Dauer der Behandlung ausbezahlt.
+
+[^15a-1]: Eingefügt durch Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
 
 #### Art. 16
 
 **Inkrafttreten und Geltungsdauer**
 
-Diese Verordnung tritt am 1. Januar 2019 in Kraft und gilt bis zum 31. Dezember 2022.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2019 in Kraft und gilt bis zum 31. Dezember 2022.
+
+<sup>2</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2026 verlängert.[^16-1]
+
+[^16-1]: Eingefügt durch Ziff. I der V des BSV vom 20. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 623](https://fedlex.data.admin.ch/eli/oc/2022/623)).
