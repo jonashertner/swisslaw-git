@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 6. Oktober 2006 über Ergänzungsleistungen zur Alters-
 short: ELG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20220101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/de"
 
 (ELG)
 
-vom 6. Oktober 2006 (Stand am 1. Januar 2022)
+vom 6. Oktober 2006 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -240,25 +240,25 @@ Bei Personen, die nicht dauernd oder nicht länger als drei Monate in einem Heim
 
   als Betrag für den allgemeinen Lebensbedarf pro Jahr:
 
-  - 1\. bei alleinstehenden Personen: 19 610 Franken,
-  - 2\. bei Ehepaaren: 29 415 Franken,
-  - 3\.[^10-3] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr vollendet haben: 10 260 Franken; dabei gelten für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrages,
-  - 4\.[^10-4] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr noch nicht vollendet haben: 7200 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrages; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
+  - 1\. bei alleinstehenden Personen: 20 100 Franken,
+  - 2\. bei Ehepaaren: 30 150 Franken,
+  - 3\.[^10-3] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr vollendet haben: 10 515 Franken; dabei gelten für die ersten zwei Kinder der volle Betrag, für zwei weitere Kinder je zwei Drittel und für die übrigen Kinder je ein Drittel dieses Betrages,
+  - 4\.[^10-4] bei rentenberechtigten Waisen und bei Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen und das 11. Altersjahr noch nicht vollendet haben: 7380 Franken; dabei gilt für das erste Kind der volle Betrag; für jedes weitere Kind reduziert er sich um einen Sechstel des vorangehenden Betrages; der Betrag für das fünfte Kind gilt auch für weitere Kinder;
 
 - b.[^10-5]
 
   der Mietzins einer Wohnung und die damit zusammenhängenden Nebenkosten; wird eine Schlussabrechnung für die Nebenkosten erstellt, so ist weder eine Nach- noch eine Rückzahlung zu berücksichtigen; als jährlicher Höchstbetrag werden anerkannt:
 
-  - 1\. für eine allein lebende Person: 16 440 Franken in der Region 1, 15 900 Franken in der Region 2 und 14 520 Franken in der Region 3,
+  - 1\. für eine allein lebende Person: 17 580 Franken in der Region 1, 17 040 Franken in der Region 2 und 15 540 Franken in der Region 3,
   - 2\.
 
     bei mehreren im gleichen Haushalt lebenden Personen:
 
-    - – für die zweite Person zusätzlich: 3000 Franken in allen 3 Regionen
-    - – für die dritte Person zusätzlich: 2160 Franken in der Region 1 und 1800 Franken in den Regionen 2 und 3
-    - – für die vierte Person zusätzlich: 1920 Franken in der Region 1, 1800 Franken in der Region 2 und 1560 Franken in der Region 3,
+    - – für die zweite Person zusätzlich: 3240 Franken in der Region 1, 3180 Franken in der Region 2 und 3240 Franken in der Region 3
+    - – für die dritte Person zusätzlich: 2280 Franken in der Region 1 und 1920 Franken in den Regionen 2 und 3
+    - – für die vierte Person zusätzlich: 2100 Franken in der Region 1, 1980 Franken in der Region 2 und 1680 Franken in der Region 3,
 
-  - 3\. bei der notwendigen Miete einer rollstuhlgängigen Wohnung: zusätzlich 6000 Franken;
+  - 3\. bei der notwendigen Miete einer rollstuhlgängigen Wohnung: zusätzlich 6420 Franken;
 
 - c.[^10-6] anstelle des Mietzinses der Mietwert der Liegenschaft bei Personen, die eine Liegenschaft bewohnen, an der sie oder eine andere Person, die in die Berechnung der Ergänzungsleistung eingeschlossen ist, das Eigentum, die Nutzniessung oder ein Wohnrecht haben; Buchstabe b gilt sinngemäss.
 
@@ -298,10 +298,10 @@ Bei allen Personen werden zudem als Ausgaben anerkannt:
 - f.[^10-16] Netto-Betreuungskosten für die notwendige und ausgewiesene familienergänzende Betreuung von Kindern, die das 11. Altersjahr noch nicht vollendet haben.
 
 [^10-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Beträge angepasst gemäss Art. 1 der V 21 vom 14. Okt. 2020 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV, in Kraft seit 1. Jan. 2021 ([AS 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823)).
+[^10-2]: Beträge angepasst gemäss Art. 1 der V 23 vom 12. Okt. 2022 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Jan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-3]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Fassung gemäss Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Beträge angepasst gemäss Art. 2 der V 23 vom 12. Okt. 2022 über Anpassungen bei den Ergänzungsleistungen zur AHV/IV und bei den Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Jan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-6]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-7]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform), in Kraft seit 1. Jan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-8]: Eingefügt durch Ziff. I des BG vom 22. März 2019 (EL-Reform) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Fassung gemäss Ziff. III des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
@@ -328,7 +328,7 @@ Als Einnahmen werden angerechnet:
 - d. Renten, Pensionen und andere wiederkehrende Leistungen, einschliesslich der Renten der AHV und der IV;
 - e. Leistungen aus Verpfründungsvertrag und ähnlichen Vereinbarungen;
 - f. Familienzulagen;
-- g.[^11-4] ...
+- g.[^11-4] …
 - h. familienrechtliche Unterhaltsbeiträge;
 - i.[^11-5] die Prämienverbilligung für die Zeitspanne, für die rückwirkend eine Ergänzungsleistung ausgerichtet wird.
 
@@ -656,7 +656,7 @@ Die folgenden Bestimmungen des AHVG[^26-2] mit ihren allfälligen Abweichungen v
 - b. die Datenbekanntgabe (Art. 50*a* AHVG);
 - c.[^26-5] die AHV-Nummer (Art. 50*c* AHVG);
 - d.[^26-6] die systematische Verwendung der AHV-Nummer (Art. 153*b*–153*i* AHVG);
-- e. und f.[^26-7] ...
+- e. und f.[^26-7] …
 
 <sup>2</sup> Die Organe nach Artikel 21 Absatz 2 haben durch Abrufverfahren Zugriff auf das zentrale Register der laufenden Leistungen der Zentralen Ausgleichsstelle (Art. 50*b* AHVG).
 

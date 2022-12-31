@@ -4,11 +4,11 @@ title: "Lescha federala dals 6 d’october 2006 davart las prestaziuns supplemen
 short: LPS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: rm
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20220101-rm-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-rm-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPS)
 
-dals 6 d’october 2006 (versiun dal 1. da schaner 2022)
+dals 6 d’october 2006 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -242,33 +242,33 @@ Tar persunas che na vivan betg permanentamain u betg pli ditg che 3 mais en ina 
 
   sco import per ils bains generals necessaris per viver, per onn:
 
-  - 1\. per persunas che vivan sulettas: 19 610 francs,
-  - 2\. per conjugals: 29 415 francs,
-  - 3\.[^10-3] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che han cumplenì il 11. onn da vegliadetgna: 10 260 francs; en quest connex vala l’import cumplain per ils emprims dus uffants, mintgamai dus terzs da quest import per dus ulteriurs uffants e mintgamai in terz da quest import per ils ulteriurs uffants,
-  - 4\.[^10-4] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che n’han betg anc cumplenì il 11. onn da vegliadetgna: 7200 francs; en quest connex vala l’import cumplain per l’emprim uffant; per mintga ulteriur uffant sa reducescha quest import per in sisavel da l’import precedent; l’import per il tschintgavel uffant vala er per ils ulteriurs uffants;
+  - 1\. per persunas che vivan sulettas: 20 100 francs,
+  - 2\. per conjugals: 30 150 francs,
+  - 3\.[^10-3] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che han cumplenì il 11. onn da vegliadetgna: 10 515 francs; en quest connex vala l’import cumplain per ils emprims dus uffants, mintgamai dus terzs da quest import per dus ulteriurs uffants e mintgamai in terz da quest import per ils ulteriurs uffants,
+  - 4\.[^10-4] per orfens che han il dretg d’ina renta, e per uffants che han il dretg d’ina renta per uffants da la AVS u da la AI e che n’han betg anc cumplenì il 11. onn da vegliadetgna: 7380 francs; en quest connex vala l’import cumplain per l’emprim uffant; per mintga ulteriur uffant sa reducescha quest import per in sisavel da l’import precedent; l’import per il tschintgavel uffant vala er per ils ulteriurs uffants;
 
 - b.[^10-5]
 
   il tschains da locaziun d’ina abitaziun ed ils custs accessorics respectivs; sch’i vegn emess in rendaquint final per ils custs accessorics, na vegn resguardà ni in pajament posteriur ni in rembursament; sco import maximal annual vegnan renconuschids:
 
-  - 1\. per ina persuna che viva suletta: 16 440 francs en la regiun 1, 15 900 francs en la regiun 2 e 14 520 francs en la regiun 3,
+  - 1\. per ina persuna che viva suletta: 17 580 francs en la regiun 1, 17 040 francs en la regiun 2 e 15 540 francs en la regiun 3,
   - 2\.
 
     sche pliras persunas vivan en la medema chasada:
 
-    - – per la segunda persuna supplementarmain: 3000 francs en tut las trais regiuns
-    - – per la terza persuna supplementarmain: 2160 francs en la regiun 1 e 1800 francs en las regiuns 2 e 3
-    - – per la quarta persuna supplementarmain: 1920 francs en la regiun 1, 1800 francs en la regiun 2 e 1560 francs en la regiun 3,
+    - – per la segunda persuna supplementarmain: 3240 francs en la regiun 1, 3180 francs en la regiun 2 e 3240 francs en la regiun 3
+    - – per la terza persuna supplementarmain: 2280 francs en la regiun 1 e 1920 francs en las regiuns 2 e 3
+    - – per la quarta persuna supplementarmain: 2100 francs en la regiun 1, 1980 francs en la regiun 2 e 1680 francs en la regiun 3,
 
-  - 3\. sch’igl è necessari da prender en locaziun in’abitaziun accessibla en sutga cun rodas: supplementarmain 6000 francs;
+  - 3\. sch’igl è necessari da prender en locaziun in’abitaziun accessibla en sutga cun rodas: supplementarmain 6420 francs;
 
 - c.[^10-6] empè dal tschains da locaziun: la valur da locaziun da l’immobiglia per persunas che abitan en ina immobiglia, sin la quala ellas u in’autra persuna ch’è inclusa en la calculaziun da la prestaziun supplementara, han in dretg da proprietad, da giudida u d’abitar; la litera b vala tenor il senn.
 
 <sup>1bis</sup> Sche pliras persunas vivan en la medema chasada, vegn l’import maximal dals custs da locaziun renconuschids fixà individualmain per mintga persuna che ha il dretg da prestaziuns supplementaras u che vegn inclusa en la calculaziun cuminaivla da las prestaziuns supplementaras tenor l’artitgel 9 alinea 2, e la summa dals imports renconuschids vegn dividida tras il dumber da tut las persunas che vivan en la chasada. Imports supplementars vegnan concedids mo per la segunda fin quarta persuna.[^10-7]
 
-<sup>1te</sup>
+<sup>1ter</sup>
 
-<sup>r</sup> Per persunas che vivan en furmas d’abitar cuminaivlas e per las qualas i na vegn fatga nagina calculaziun cuminaivla tenor l’artitgel 9 alinea 2, correspunda l’import maximal annual dals custs da locaziun renconuschids a l’import per ina persuna che viva en ina chasada da duas persunas. Il Cussegl federal fixescha, co che l’import maximal vegn calculà per:
+Per persunas che vivan en furmas d’abitar cuminaivlas e per las qualas i na vegn fatga nagina calculaziun cuminaivla tenor l’artitgel 9 alinea 2, correspunda l’import maximal annual dals custs da locaziun renconuschids a l’import per ina persuna che viva en ina chasada da duas persunas. Il Cussegl federal fixescha, co che l’import maximal vegn calculà per:
 
 - a. conjugals che vivan omadus ensemen en ina furma d’abitar cuminaivla;
 - b. persunas che vivan en ina furma d’abitar cuminaivla ensemen cun orfens che han il dretg d’ina renta, u cun uffants che han il dretg d’ina renta per uffants da la AVS u da la AI.[^10-8]
@@ -300,10 +300,10 @@ Per tut las persunas vegnan plinavant renconuschids sco expensas:
 - f.[^10-16] ils custs d’assistenza nets per la tgira d’uffants cumplementara a la famiglia necessaria e cumprovada per uffants che n’han betg anc cumplenì il 11. onn da vegliadetgna.
 
 [^10-1]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Imports adattads tenor l’art. 1 da l’O 21 dals 14 d’oct. 2020 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI, en vigur dapi il 1. da schan. 2021 ([AS 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823)).
+[^10-2]: Imports adattads tenor l’art. 1 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads, en vigur dapi il 1. da schan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-3]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Versiun tenor la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Imports adattads tenor l’art. 2 da l’O 23 dals 12 d’oct. 2022 davart adattaziuns da las prestaziuns supplementaras tar la AVS/AI e da las prestaziuns transitoricas per ils dischoccupads pli attempads, en vigur dapi il 1. da schan. 2023 ([AS 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-6]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-7]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras), en vigur dapi il 1. da schan. 2021 ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-8]: Integrà tras la cifra I da la LF dals 22 da mars 2019 (refurma da las prestaziuns supplementaras) ([AS 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [BBl 2016 7465](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Versiun tenor la cifra III da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Guardar er disp. trans. da questa midada a la fin dal text.
@@ -402,7 +402,7 @@ Betg quintà na vegn il suandant:
 
 <sup>1</sup> Las prestaziuns supplementaras annualas vegnan finanziadas per tschintg otgavels da la Confederaziun e per trais otgavels dals chantuns.
 
-<sup>2</sup> En cas da persunas che vivan en ina chasa da dimora u en in ospital surpiglia la Confederaziun tschintg otgavels da las prestaziuns supplementaras annualas, uschènavant che la summa da l’import per ils bains necessaris per viver generals tenor l’artitgel 10 alinea 1 litera a cifra 1, da l’import da 13 200 francs per il tschains da locaziun e dals imports per las expensas renconuschidas tenor l’artitgel 10 alinea 3 n’è betg cuvrida tras las entradas imputablas; las entradas che han in connex direct cun la dimora en la chasa da dimora u en l’ospital na vegnan betg resguardadas en quest connex. Il rest vegn finanzià dals chantuns.[^13-1]
+<sup>2</sup> En cas da persunas che vivan en ina chasa da dimora u en in ospital surpiglia la Confederaziun tschintg otgavels da las prestaziuns supplementaras annualas, uschenavant che la summa da l’import per ils bains necessaris per viver generals tenor l’artitgel 10 alinea 1 litera a cifra 1, da l’import da 13 200 francs per il tschains da locaziun e dals imports per las expensas renconuschidas tenor l’artitgel 10 alinea 3 n’è betg cuvrida tras las entradas imputablas; las entradas che han in connex direct cun la dimora en la chasa da dimora u en l’ospital na vegnan betg resguardadas en quest connex. Il rest vegn finanzià dals chantuns.[^13-1]
 
 <sup>3</sup> Las contribuziuns da la Confederaziun vegnan finanziadas cun meds generals, uschenavant ch’ellas na pon betg vegnir retratgas da la retenziun tenor l’artitgel 111 LAVS[^13-2].
 
@@ -471,7 +471,7 @@ Ils custs da malsogna e d’impediment vegnan indemnisads, sche:
 
 Ils chantuns finanzieschan las prestaziuns tenor l’artitgel 14.
 
-### 5. secziun**** Restituziun da prestaziuns retratgas legalmain
+### 5. secziun Restituziun da prestaziuns retratgas legalmain
 
 [^chap2-sec5-1]
 
@@ -677,7 +677,7 @@ Las suandantas disposiziuns da la LAVS[^26-2] cun lur eventualas divergenzas da 
 Per examinar las premissas per la reuniun da la famiglia en Svizra sco er il dretg da dimora en Svizra annunzian ils organs ch’èn cumpetents per fixar e per pajar, senza vegnir intimads, las prestaziuns supplementaras a las autoritads da migraziun – tenor l’artitgel 97 alinea 3 litera d<sup>ter</sup> da la Lescha federala dals 16 da december 2005[^26a-2] davart las persunas estras e l’integraziun ed en divergenza da l’artitgel 33 LPGA[^26a-3] – la retratga d’ina prestaziun supplementara annuala tras persunas estras tenor l’artitgel 3 alinea 1 litera a. Sch’i vegnan indemnisads mo custs da malsogna u d’impediment tenor l’artitgel 3 alinea 1 litera b, ston vegnir annunziads a las autoritads da migraziun ils cas d’indemnisaziuns pli grondas.
 
 [^26a-1]: Integrà tras la cifra 1 da l’agiunta da la LF dals 16 da dec. 2016 (regulaziun da l’immigraziun e meglieraziuns da l’execuziun tar las cunvegnas davart la libra circulaziun da persunas), en vigur dapi il 1. da fan. 2018 ([AS 2018 733](https://fedlex.data.admin.ch/eli/oc/2018/93); [BBl 2016 3007](https://fedlex.data.admin.ch/eli/fga/2016/574)).
-[^26a-2]: SR **142****.****20**
+[^26a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^26a-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 26b
@@ -758,7 +758,7 @@ Sch’i n’è betg avant maun in causal tenor l’alinea 1, vegn chastià cun i
 <sup>3</sup> L’artitgel 90 LAVS[^31-4] è applitgabel.
 
 [^31-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^31-2]: Integrà tenor la cifra IV da la LF dals 6 d’oct. 2006, en vigur dapi il 1. da schan. 2008 (AS **2****007** 5129; [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
+[^31-2]: Integrà tenor la cifra IV da la LF dals 6 d’oct. 2006, en vigur dapi il 1. da schan. 2008 ([AS 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [BBl 2005 4459](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^31-3]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^31-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
@@ -823,10 +823,10 @@ La Lescha federala dals 19 da mars 1965[^35-1] davart las prestaziuns supplement
 
 Data da l’entrada en vigur: 1. da schaner 2008[^35-2]
 
-[^35-1]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); **19****72** 2483 cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8]
+[^35-1]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)agiunta cifra 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)agiunta cifra 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)agiunta cifra 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 cifra 8]
 [^35-2]: COCF dals 7 da nov. 2007.
 
-## Disposiziun transitorica da la midada dals 19 da mars 2010****
+## Disposiziun transitorica da la midada dals 19 da mars 2010
 
 [^u1-1]
 
@@ -836,7 +836,7 @@ Ils chantuns èn autorisads d’applitgar l’artitgel 21*a* pir cun la midada d
 
 [^u1-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-## Disposiziuns transitoricas da la midada dals 22 da mars 2019 (refurma da las prestaziuns supplementaras)****
+## Disposiziuns transitoricas da la midada dals 22 da mars 2019 (refurma da las prestaziuns supplementaras)
 
 [^u2-1]
 
@@ -848,7 +848,7 @@ Ils chantuns èn autorisads d’applitgar l’artitgel 21*a* pir cun la midada d
 
 <sup>3</sup> L’artitgel 11*a* alineas 3 e 4 vala mo per la facultad ch’è vegnida consumada suenter l’entrada en vigur da questa midada.
 
-## Disposiziun transitorica da la midada dals 20 da december 2019****
+## Disposiziun transitorica da la midada dals 20 da december 2019
 
 [^u3-1]
 

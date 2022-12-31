@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 2006 sulle prestazioni complementari all'as
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20220101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/it"
 
 (LPC)
 
-del 6 ottobre 2006 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 6 ottobre 2006 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -26,7 +26,7 @@ visti gli articoli 112*a* e 112*c* capoverso 2 della Costituzione federale[^ingr
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: FF **200****5** 5349
+[^ingress-2]: [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)
 
 ## Capitolo 1: Applicabilità della LPGA
 
@@ -203,9 +203,9 @@ Il Consiglio federale disciplina:
 - h. la nozione di istituto ai sensi della presente legge.
 
 [^9-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-2]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); FF **201****6** 6705).
+[^9-2]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-4]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); FF **20****16** 6705).
+[^9-4]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 9a
@@ -237,25 +237,25 @@ Per le persone che non vivono durevolmente o per oltre tre mesi in un istituto o
 
   importo destinato alla copertura del fabbisogno generale vitale, per anno:
 
-  - 1\. 19 610 franchi per le persone sole,
-  - 2\. 29 415 franchi per i coniugi,
-  - 3\.[^10-3] 10 260 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e hanno compiuto gli 11 anni di età; per i due primi figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
-  - 4\.[^10-4] 7200 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante; per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
+  - 1\. 20 100 franchi per le persone sole,
+  - 2\. 30 150 franchi per i coniugi,
+  - 3\.[^10-3] 10 515 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e hanno compiuto gli 11 anni di età; per i due primi figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
+  - 4\.[^10-4] 7380 franchi per gli orfani che hanno diritto a una rendita e per i figli che danno diritto a una rendita per figli dell’AVS o dell’AI e non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante; per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
 
 - b.[^10-5]
 
   la pigione di un appartamento e le relative spese accessorie; in caso di conguaglio per le spese accessorie, non si tiene conto né del saldo attivo né di quello passivo; l’importo massimo annuo riconosciuto è il seguente:
 
-  - 1\. 16 440 franchi nella regione 1, 15 900 franchi nella regione 2 e 14 520 franchi nella regione 3 per le persone che vivono sole,
+  - 1\. 17 580 franchi nella regione 1, 17 040 franchi nella regione 2 e 15 540 franchi nella regione 3 per le persone che vivono sole,
   - 2\.
 
     se più persone vivono nella stessa economia domestica:
 
-    - – un supplemento di 3000 franchi in tutte e tre le regioni per la seconda persona
-    - – un supplemento di 2160 franchi nella regione 1 e di 1800 franchi nelle regioni 2 e 3 per la terza persona
-    - – un supplemento di 1920 franchi nella regione 1, di 1800 franchi nella regione 2 e di 1560 franchi nella regione 3 per la quarta persona,
+    - – un supplemento di 3240 franchi nella regione 1, 3180 franchi nella regione 2 e 3240 franchi nella regione 3 per la seconda persona
+    - – un supplemento di 2280 franchi nella regione 1 e 1920 franchi nelle regioni 2 e 3 per la terza persona
+    - – un supplemento di 2100 franchi nella regione 1, 1980 franchi nella regione 2 e 1680 franchi nella regione 3 per la quarta persona.
 
-  - 3\. 6000 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
+  - 3\. 6420 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
 
 - c.[^10-6] in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo delle prestazioni complementari sono proprietarie, usufruttuarie o usuarie; la lettera b si applica per analogia.
 
@@ -294,11 +294,11 @@ Per tutte le persone sono inoltre riconosciute le spese seguenti:
 - e. pensioni alimentari versate in virtù del diritto di famiglia;
 - f.[^10-16] spese nette per la custodia complementare alla famiglia di figli che non hanno ancora compiuto gli 11 anni di età, sempre che la custodia sia necessaria e comprovata.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 (RU **20****20** 585; [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Nuovi importi giusta l’art. 1 dell’O 21 del 14 ott. 2020 sull’adeguamento delle prestazioni complementari all’AVS/AI, in vigore dal 1° gen. 2021 ([RU 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823)).
+[^10-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-2]: Importi adeguati dall’art. 1 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^10-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Importi adeguati dall’art. 2 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-6]: Introdotta dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-7]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC), in vigore dal 1° gen. 2021 ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Correzione della Commissione di redazione dell’AF del 30 giu. 2020, pubblicata il 7 lug. 2020 ([RU 2020 2827](https://fedlex.data.admin.ch/eli/oc/2020/513)).
 [^10-8]: Introdotto dal n. I della LF del 22 mar. 2019 (Riforma della PC) ([RU 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 6705](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nuovo testo giusta il n. III della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
@@ -465,7 +465,7 @@ Le spese di malattia e d’invalidità sono rimborsate se:
 
 I Cantoni finanziano le prestazioni di cui all’articolo 14.
 
-### Sezione 5:**** Restituzione delle prestazioni percepite legalmente
+### Sezione 5: Restituzione delle prestazioni percepite legalmente
 
 [^chap2-sec5-1]
 
@@ -786,10 +786,10 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 <sup>4</sup> Nella presente legge le espressioni «Stati membri dell’Unione europea», «Stati membri della Comunità europea», «Stati dell’Unione europea» e «Stati della Comunità europea» designano gli Stati cui si applica l’Accordo sulla libera circolazione delle persone.
 
 [^32-1]: Nuovo testo giusta l’all. n. 3 del DF del 17 giu. 2016 (estensione alla Croazia dell’Accordo sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^32-2]: RS **0.142****.****112.681**
+[^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^32-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^32-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
-[^32-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), **20****08** 4219 4273, [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
+[^32-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
 [^32-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^32-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
@@ -821,7 +821,7 @@ Data dell’entrata in vigore: 1° gennaio 2008[^35-2]
 [^35-1]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535),[1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)n. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)n. IV].
 [^35-2]: DCF del 7 nov. 2007.
 
-## Disposizione transitoria della modifica del 19 marzo 2010****
+## Disposizione transitoria della modifica del 19 marzo 2010
 
 [^u1-1]
 
@@ -831,7 +831,7 @@ I Cantoni sono autorizzati ad applicare l’articolo 21*a* soltanto a partire da
 
 [^u1-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-## Disposizioni transitorie della modifica del 22 marzo 2019 (Riforma delle PC)****
+## Disposizioni transitorie della modifica del 22 marzo 2019 (Riforma delle PC)
 
 [^u2-1]
 
@@ -843,7 +843,7 @@ I Cantoni sono autorizzati ad applicare l’articolo 21*a* soltanto a partire da
 
 <sup>3</sup> L’articolo 11*a* capoversi 3 e 4 si applica soltanto alla sostanza spesa dopo l’entrata in vigore della presente modifica.
 
-## Disposizione transitoria della modifica del 20 dicembre 2019****
+## Disposizione transitoria della modifica del 20 dicembre 2019
 
 [^u3-1]
 

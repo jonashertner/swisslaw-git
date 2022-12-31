@@ -4,20 +4,20 @@ title: "Loi fédérale du 6 octobre 2006 sur les prestations complémentaires à
 short: LPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/804"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2006-10-06
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20220101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/804/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-804-20230101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/804/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les prestations complémentaires à l’AVS et à l’AI**<sup>∗</sup>**
+# Loi fédérale sur les prestations complémentaires à l’AVS et à l’AI<sup></sup>
 
 (Loi sur les prestations complémentaires, LPC)[^t-1]
 
-du 6 octobre 2006[^t-2] (Etat le 1<sup>er</sup> janvier 2022)
+du 6 octobre 2006[^t-2] (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Ch. I 3 de la LF concernant l’adoption et la modification d’actes dans le cadre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT; [RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)).
@@ -110,7 +110,7 @@ La résidence habituelle en Suisse au sens de l’al. 1 est considérée comme i
 [^4-6]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 17 juin 2011 (Amélioration de la mise en oeuvre), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 519](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^4-7]: Nouvelle teneur selon le ch. IV de la loi du 6 oct. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 4215](https://fedlex.data.admin.ch/eli/fga/2005/719)).
 [^4-8]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^4-9]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^4-9]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^4-10]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 
 #### Art. 5
@@ -162,7 +162,7 @@ Le droit aux prestations complémentaires est indépendant de la durée de domic
 
 Les prestations complémentaires sont refusées temporairement ou définitivement si une rente a été refusée sur la base de l’art. 21, al. 1 ou 2, LPGA[^8-1].
 
-[^8-1]: RS **83****0.1**
+[^8-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 ### Section 3 Prestation complémentaire annuelle
 
@@ -206,9 +206,9 @@ Le Conseil fédéral édicte des dispositions sur:
 - h. la définition de la notion de home.
 
 [^9-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur de-puis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-2]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **20****20** 585; [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-2]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^9-4]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^9-4]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^9-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 9a
@@ -243,25 +243,25 @@ Pour les personnes qui ne vivent pas en permanence ni pour une période de plus 
 
   les montants destinés à la couverture des besoins vitaux, soit, par année:
 
-  - 1\. 19 610 francs pour les personnes seules,
-  - 2\. 29 415 francs pour les couples,
-  - 3\.[^10-3] 10 260 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
-  - 4\.[^10-4] 7 200 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
+  - 1\. 20 100 francs pour les personnes seules,
+  - 2\. 30 150 francs pour les couples,
+  - 3\.[^10-3] 10 515 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 4\.[^10-4] 7380 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
 - b.[^10-5]
 
   le loyer d’un appartement et les frais accessoires y relatifs; en cas de présentation d’un décompte final des frais accessoires, ni demande de restitution, ni paiement rétroactif ne peuvent être pris en considération; le montant annuel maximal reconnu est de:
 
-  - 1\. pour une personne vivant seule: 16 440 francs dans la région 1, 15 900 francs dans la région 2 et 14 520 francs dans la région 3,
+  - 1\. pour une personne vivant seule: 17 580 francs dans la région 1, 17 040 francs dans la région 2 et 15 540 francs dans la région 3,
   - 2\.
 
     si plusieurs personnes vivent dans le même ménage:
 
-    - – pour la deuxième personne: un supplément de 3000 francs dans chacune des trois régions
-    - – pour la troisième personne: un supplément de 2160 francs dans la région 1 et de 1800 francs dans les régions 2 et 3
-    - – pour la quatrième personne: un supplément de 1920 francs dans la région 1, 1800 francs dans la région 2 et 1560 francs dans la région 3,
+    - – pour la deuxième personne: un supplément de 3240 francs dans la région 1, 3180 francs dans la région 2 et 3240 francs dans la région 3
+    - – pour la troisième personne: un supplément de 2280 francs dans la région 1 et de 1920 francs dans les régions 2 et 3
+    - – pour la quatrième personne: un supplément de 2100 francs dans la région 1, 1980 francs dans la région 2 et 1680 francs dans la région 3,
 
-  - 3\. 6000 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
+  - 3\. 6420 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
 
 - c.[^10-6] la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie.
 
@@ -301,13 +301,13 @@ Sont en outre reconnus comme dépenses, pour toutes les personnes:
 - f.[^10-16] les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.
 
 [^10-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-2]: Montants adaptés selon l’art. 1 de l’O 21 du 14 oct. 2020 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823)).
+[^10-2]: Montants adaptés selon l’art. 1 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
 [^10-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-4]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-6]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); FF **20****16** 7249).
+[^10-5]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1er janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Montants adaptés selon l’art. 2 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^10-6]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^10-7]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^10-8]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) (RO **2****020** 585; [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^10-8]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 [^10-9]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-10]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^10-11]: Introduit par le ch. I de la LF du 22 mars 2019 (Réforme des PC) ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Nouvelle teneur selon le ch. III de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
@@ -331,7 +331,7 @@ Les revenus déterminants comprennent:
 - d. les rentes, pensions et autres prestations périodiques, y compris les rentes de l’AVS et de l’AI;
 - e. les prestations touchées en vertu d’un contrat d’entretien viager ou de toute autre convention analogue;
 - f. les allocations familiales;
-- g.[^11-4] ...
+- g.[^11-4] …
 - h. les pensions alimentaires prévues par le droit de la famille;
 - i.[^11-5] la réduction des primes accordée pour une période pour laquelle des prestations complémentaires sont attribuées avec effet rétroactif.
 
@@ -359,7 +359,7 @@ Ne sont pas pris en compte:
 <sup>4</sup> Le Conseil fédéral détermine les cas dans lesquels les allocations pour impotents des assurances sociales doivent être prises en compte dans les revenus déterminants.
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
-[^11-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **20****20** 585; [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^11-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-4]: Abrogée par le ch. I de la LF du 22 mars 2019 (Réforme des PC), avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^11-5]: Introduite par le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
@@ -409,7 +409,7 @@ Ne sont pas pris en compte:
 
 <sup>4</sup> Le Conseil fédéral peut prévoir des procédures simplifiées pour déterminer la part fédérale et fixe la procédure à suivre pour son versement.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>e</sup><sup>r</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^13-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
 ### Section 4 Remboursement des frais de maladie et d’invalidité par les cantons
@@ -470,7 +470,7 @@ Les frais de maladie et d’invalidité sont remboursés aux conditions suivante
 
 Les cantons financent les prestations prévues à l’art. 14.
 
-## Section 5**** Restitution des prestations légalement perçues
+## Section 5 Restitution des prestations légalement perçues
 
 [^chap3-1]
 
@@ -564,7 +564,7 @@ Les créances en restitution peuvent être compensées avec les prestations suiv
 
 <sup>4</sup> Si un organe d’exécution a annoncé la compensation d’une prestation échue à une autre assurance sociale ou à une autre institution de prévoyance, cet organisme ne peut plus se libérer en versant la prestation à l’assuré à concurrence de la compensation.
 
-[^20-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); FF **20****16** 7249).
+[^20-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)).
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 21
@@ -625,7 +625,7 @@ Le Conseil fédéral édicte les dispositions nécessaires concernant la comptab
 <sup>4</sup> L’Office fédéral des assurances sociales (OFAS)[^23-2] est autorisé à procéder si nécessaire lui-même à des révisions complémentaires ou à confier ces révisions à d’autres services.
 
 [^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^23-2]: Nouvelle expression selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 (RO **202****0** 585; [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^23-2]: Nouvelle expression selon le ch. I de la LF du 22 mars 2019 (Réforme des PC), en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 585](https://fedlex.data.admin.ch/eli/oc/2020/111); [FF 2016 7249](https://fedlex.data.admin.ch/eli/fga/2016/1620)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 24
 
@@ -788,12 +788,12 @@ Pour les personnes qui sont ou qui ont été soumises à la législation sur la 
 
 <sup>4</sup> Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Commu-nauté européenne» figurant dans la présente loi les États auxquels s’applique l’accord sur la libre circulation des personnes.
 
-[^32-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 (RO **2****016** 5233; [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^32-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 [^32-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^32-3]: Règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
 [^32-4]: Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 16 septembre 2009 fixant les modalités d’application du règlement (CE) n<sup>o</sup> 883/2004 portant sur la coordination des systèmes de sécurité sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
 [^32-5]: Règlement (CEE) n<sup>o</sup> 1408/71 du Conseil du 14 juin 1971 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) et la Conv. AELE révisée.
-[^32-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), **200****9** 6214845) et la Conv. AELE révisée.
+[^32-6]: Règlement (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 fixant les modalités d’application du Règlement (CEE) 1408/71 relatif à l’application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l’intérieur de la Communauté; dans la dernière version en vigueur selon l’accord sur la libre circulation des personnes ([RO 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) et la Conv. AELE révisée.
 [^32-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 ## Chapitre 6 Dispositions finales
@@ -824,7 +824,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2008[^35-2]
 [^35-1]: [[RO 1965 541](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2537](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)ch. III, [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589), [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)ch. II 2, [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017), [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699), [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)annexe ch. 4, [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952), [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441), [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 5 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)annexe ch. 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511), [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)annexe ch. 4, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 8, [2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747)ch. IV].
 [^35-2]: ACF du 7 nov. 2007
 
-## Disposition transitoire de la modification du 19 mars 2010****
+## Disposition transitoire de la modification du 19 mars 2010
 
 [^u1-1]
 
@@ -834,7 +834,7 @@ Les cantons sont autorisés à appliquer l’art. 21*a* dès la mise en œuvre d
 
 [^u1-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
-## Dispositions transitoires de la modification du 22 mars 2019 (Réforme des PC)****
+## Dispositions transitoires de la modification du 22 mars 2019 (Réforme des PC)
 
 [^u2-1]
 
@@ -846,10 +846,10 @@ Les cantons sont autorisés à appliquer l’art. 21*a* dès la mise en œuvre d
 
 <sup>3</sup> L’art. 11*a*, al. 3 et 4, ne s’applique qu’à la fortune qui a été dépensée après l’entrée en vigueur de la présente modification.
 
-## Disposition transitoire de la modification du 20 décembre 2019****
+## Disposition transitoire de la modification du 20 décembre 2019
 
 [^u3-1]
 
-[^u3-1]: RO **20****20** 4525; [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)
+[^u3-1]: [RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)
 
 Les personnes qui percevaient déjà une prestation complémentaire annuelle au moment de l’entrée en vigueur de la modification du 22 mars 2019 (réforme des PC) se verront appliquer les dispositions inscrites à l’art. 10, al. 1<sup>ter</sup>, à la fin de la période de trois ans prévue dans les dispositions transitoires de la modification du 22 mars 2019.
