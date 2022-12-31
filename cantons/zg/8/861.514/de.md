@@ -4,20 +4,20 @@ number: "861.514"
 title: Reglement über die Bemessung der Eigenleistung von betreuten Personen an die Kosten für den Aufenthalt in einer sozialen Einrichtung
 short: "Reglement Eigenleistung, RegE"
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-14
 adopted: 2011-02-02
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.514"
-pdf: "https://bgs.zg.ch/api/de/versions/2200/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Bemessung der Eigenleistung von betreuten Personen an die Kosten für den Aufenthalt in einer sozialen Einrichtung
 
-Vom 2. Februar 2011 (Stand 1. Januar 2021)
+Vom 2. Februar 2011 (Stand 1. Januar 2023)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -40,11 +40,11 @@ verfügt:
 - d) Minderjährigen nach Abschluss der Schulberechtigung und Erwachsenen ohne Anspruch auf Ergänzungsleistungen mit Aufenthalt in einer stationären Einrichtung in Form von Pauschalbeträgen.
 - e) …
 
-<sup>2</sup> Für die Arbeit in Werkstätten (sog. Tagesstruktur mit Lohn) sowie bei einer von zu Hause aus besuchten Ausbildung (sog. Attestausbildung bzw. -lehre) wird keine Eigenleistung erhoben.
+<sup>2</sup> Für die Arbeit in Werkstätten (sog. Tagesstruktur mit Lohn) sowie für den Besuch einer Tages- oder Beschäftigungsstätte (sog. Tagesstruktur ohne Lohn) durch Personen, die nicht in der gleichen Einrichtung wohnen, wird keine Eigenleistung erhoben.
 
 <sup>3</sup> Individuelle Nebenkosten, die im Rahmen eines Aufenthalts in einer stationären Einrichtung anfallen, werden der betreuten Person zusätzlich zur Eigenleistung in Rechnung gestellt.
 
-<sup>4</sup> Besteht für eine betreute Person eine Kostenübernahmegarantie (KÜG) sowohl für den Aufenthalt in einer stationären Einrichtung wie auch für den Aufenthalt in einer Tages- oder Beschäftigungsstätte, so werden die jeweiligen Aufenthaltskosten zusammengezählt und die Eigenleistung wird von diesem Gesamtbetrag erhoben.
+<sup>4</sup> Bei einem Aufenthalt in einer stationären Einrichtung mit gleichzeitiger Nutzung einer Tages- oder Beschäftigungsstätte (sog. Tagesstruktur ohne Lohn) der gleichen Einrichtung werden die jeweiligen Aufenthaltskosten zusammengezählt und die Eigenleistung wird von diesem Gesamtbetrag erhoben.
 
 #### § 1a
 
@@ -72,19 +72,15 @@ verfügt:
 
 #### § 3
 
-**Erwachsene mit Aufenthalt in einer Tages- oder Beschäftigungsstätte**
-
-<sup>1</sup> Die Eigenleistung für den Aufenthalt in einer Tages- oder Beschäftigungsstätte (sog. Tagesstruktur ohne Lohn) beträgt Fr. 35.– pro Anwesenheitstag.
-
-<sup>2</sup> Es wird keine Herabsetzung der Eigenleistung bei Abwesenheit gewährt.
+**…**
 
 #### § 4
 
 **Erwachsene mit Anspruch auf Ergänzungsleistungen mit Aufenthalt in einer stationären Einrichtung**
 
-<sup>1</sup> Die Eigenleistung für den Aufenthalt in einer stationären Einrichtung für Personen mit Behinderung (Behindertenwohnheime) beträgt Fr. 186.45 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
+<sup>1</sup> Die Eigenleistung für den Aufenthalt in einer stationären Einrichtung für Personen mit Behinderung (Behindertenwohnheime) beträgt Fr. 191.10 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
 
-<sup>1a</sup> Die Eigenleistung für den Aufenthalt in einer anderen stationären Einrichtung beträgt Fr. 134.30 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
+<sup>1a</sup> Die Eigenleistung für den Aufenthalt in einer anderen stationären Einrichtung beträgt Fr. 137.65 pro Kalendertag zuzüglich einer allfälligen Hilflosenentschädigung (HE) pro Aufenthaltstag.
 
 <sup>2</sup> Die Herabsetzung der Eigenleistung bei Abwesenheit beträgt Fr. 30.– pro Tag.
 
@@ -110,14 +106,12 @@ verfügt:
 
 #### § 8
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Reglement tritt rückwirkend am 1. Januar 2011 in Kraft.
+**…**
 
 #### § 9
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Betreffend die am 1. Januar 2021 gültigen individuellen Kostenübernahmegarantien (KÜG) gelangen die Eigenleistungen und deren Herabsetzungen bei Abwesenheit gemäss diesem Reglement rückwirkend per 1. Januar 2021 zur Anwendung.
+<sup>1</sup> Für die vor dem 1. Januar 2023 verfügten individuellen Kostenübernahmegarantien (KÜG), gelangen ab 1. Januar 2023 die Eigenleistungen und deren Herabsetzungen bei Abwesenheiten gemäss dem vorliegenden Reglement zur Anwendung.
 
 GS 31, 49
