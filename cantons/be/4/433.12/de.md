@@ -4,13 +4,13 @@ number: "433.12"
 title: Mittelschulgesetz
 short: MiSG
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-16
+version: 2023-01-01
+valid_until: 2026-08-31
+version_adopted: 2022-03-08
 adopted: 2007-03-27
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.12"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2019/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2019/pdf_file"
 
 (MiSG)
 
-vom 27.03.2007 (Stand 01.11.2020)
+vom 27.03.2007 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -542,6 +542,8 @@ beschliesst:
 - c mit Abschlussprüfungen unter der Verantwortung einer kantonalen Kommission und nach den kantonalen Bestimmungen abgeschlossen werden.
 
 <sup>5</sup> Der Regierungsrat regelt die Anerkennung durch Verordnung.
+
+<sup>6</sup> Der Regierungsrat regelt die Verfügungsbefugnisse der privaten Anbieter im Bereich der Ausbildungsabschlüsse durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
 
 ## 4 Gewähren von Beiträgen
 

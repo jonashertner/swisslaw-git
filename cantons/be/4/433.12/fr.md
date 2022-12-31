@@ -4,13 +4,13 @@ number: "433.12"
 title: Loi sur les écoles moyennes
 short: LEM
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-16
+version: 2023-01-01
+valid_until: 2026-08-31
+version_adopted: 2022-03-08
 adopted: 2007-03-27
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2019/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2668/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2019/pdf_file"
 
 (LEM)
 
-du 27.03.2007 (état au 01.11.2020)
+du 27.03.2007 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -542,6 +542,8 @@ arrête:
 - c se terminent par des examens se déroulant sous la responsabilité d’une commission cantonale et conformément aux dispositions cantonales.
 
 <sup>5</sup> Le Conseil-exécutif règle la reconnaissance par voie d’ordonnance.
+
+<sup>6</sup> Le Conseil-exécutif règle par voie d’ordonnance les compétences décisionnelles des institutions privées en matière de diplômes. Il peut déléguer totalement ou partiellement cette compétence à la Direction de l’instruction publique et de la culture.
 
 ## 4 Octroi de subventions
 
