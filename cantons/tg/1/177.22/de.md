@@ -4,13 +4,13 @@ number: "177.22"
 title: Verordnung des Grossen Rates über die Besoldung des Staatspersonals
 short: Besoldungsverordnung; BesVO
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-08-31
 adopted: 1998-11-18
 in_force: 2000-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.22"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2464/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2619/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ BesVO
 
 (Besoldungsverordnung; BesVO)
 
-vom 18.11.1998 (Stand 01.01.2022)
+vom 18.11.1998 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -45,13 +45,13 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>1</sup> Der Regierungsrat regelt insbesondere:
 
-- 1\. Besoldungen und Entschädigungen von Kommissionsmitgliedern, Expertinnen und Experten sowie Inhaberinnen und Inhabern einzelner Nebenämter;
-- 2\. Besoldungen für bis zu einem Jahr befristet angestellte Mitarbeiterinnen und Mitarbeiter, für Praktikantinnen und Praktikanten sowie für Auszubildende;
-- 3\. Inkonvenienzzulagen;
-- 4\. Funktionszulagen;
+- 1\. Besoldungen und Entschädigungen von Kommissionsmitgliedern, Expertinnen und Experten sowie Inhaberinnen und Inhabern einzelner Nebenämter
+- 2\. Besoldungen für bis zu einem Jahr befristet angestellte Mitarbeiterinnen und Mitarbeiter, für Praktikantinnen und Praktikanten sowie für Auszubildende
+- 3\. Inkonvenienzzulagen
+- 4\. Funktionszulagen
 - 5\. …
-- 6\. Entschädigungen für Auslagen zu dienstlichen Zwecken;
-- 7\. Entschädigungen im Zusammenhang mit der Wohnsitzpflicht für Polizeibeamtinnen und Polizeibeamte.
+- 6\. Entschädigungen für Auslagen zu dienstlichen Zwecken
+- 7\. Entschädigungen im Zusammenhang mit der Wohnsitzpflicht für Polizeibeamtinnen und Polizeibeamte
 
 #### § 3
 
@@ -67,15 +67,15 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>1</sup> Magistratspersonen sind:
 
-- 1\. die Mitglieder des Regierungsrates, des Obergerichtes und des Verwaltungsgerichtes;
-- 2\. die Staatsschreiberin oder der Staatsschreiber.
+- 1\. die Mitglieder des Regierungsrates, des Obergerichtes und des Verwaltungsgerichtes
+- 2\. die Staatsschreiberin oder der Staatsschreiber
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter sind:
 
-- 1\. Angestellte, die unbefristet oder befristet in einem Dienstverhältnis beim Kanton stehen;
-- 2\. auf Amtsdauer gewählte Personen;
-- 3\. Auszubildende;
-- 4\. Praktikantinnen und Praktikanten.
+- 1\. Angestellte, die unbefristet oder befristet in einem Dienstverhältnis beim Kanton stehen
+- 2\. auf Amtsdauer gewählte Personen
+- 3\. Auszubildende
+- 4\. Praktikantinnen und Praktikanten
 
 #### § 5
 
@@ -91,9 +91,9 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>1</sup> Die Besoldung des Staatspersonals besteht aus:
 
-- 1\. Grundbesoldung;
-- 2\. Sozialzulagen (Familienzulage, Kinderzulage, Ausbildungszulage)[^6-1];
-- 3\. Zulagen gemäss § 2 dieser Verordnung.
+- 1\. Grundbesoldung
+- 2\. Sozialzulagen (Familienzulage, Kinderzulage, Ausbildungszulage)[^6-1]
+- 3\. Zulagen gemäss § 2 dieser Verordnung
 
 <sup>2</sup> Als Grundbesoldung gelten der Ansatz nach der Besoldungsklasse sowie die Ansätze nach den Besonderen Bestimmungen dieser Verordnung, soweit diese nicht als Zulagen bezeichnet werden.
 
@@ -147,11 +147,11 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>2</sup> Die Festlegung erfolgt im Rahmen des Voranschlages. Massgebend sind insbesondere folgende Kriterien:
 
-- 1\. Entwicklung der Lebenshaltungskosten;
-- 2\. Finanzlage des Kantons;
-- 3\. allgemeine Wirtschaftslage;
-- 4\. Wettbewerbsfähigkeit des Kantons auf dem Arbeitsmarkt;
-- 5\. allgemeine Lohnentwicklung in den öffentlichen Verwaltungen und der Privatwirtschaft.
+- 1\. Entwicklung der Lebenshaltungskosten
+- 2\. Finanzlage des Kantons
+- 3\. allgemeine Wirtschaftslage
+- 4\. Wettbewerbsfähigkeit des Kantons auf dem Arbeitsmarkt
+- 5\. allgemeine Lohnentwicklung in den öffentlichen Verwaltungen und der Privatwirtschaft
 
 #### § 11
 
@@ -159,9 +159,9 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>1</sup> Der Regierungsrat beantragt dem Grossen Rat im Rahmen des Voranschlages den vorgesehenen prozentualen Anteil an der Gesamtlohnsumme für individuelle Besoldungsanpassungen. Massgebend sind insbesondere:
 
-- 1\. allgemeine Lohnentwicklung in den öffentlichen Verwaltungen und der Privatwirtschaft;
-- 2\. Wettbewerbsfähigkeit des Kantons auf dem Arbeitsmarkt;
-- 3\. Finanzlage des Kantons.
+- 1\. allgemeine Lohnentwicklung in den öffentlichen Verwaltungen und der Privatwirtschaft
+- 2\. Wettbewerbsfähigkeit des Kantons auf dem Arbeitsmarkt
+- 3\. Finanzlage des Kantons
 
 <sup>2</sup> Für individuelle Besoldungsanpassungen stehen dem Regierungsrat jährlich bis zu 1 % der Gesamtlohnsumme zur Verfügung. Der Grosse Rat beschliesst im Rahmen des Voranschlages vor Ende November über einen allfällig höheren Prozentsatz.
 
@@ -177,7 +177,7 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>2</sup> Grundlage für die Besoldungsanpassung ist die jährliche Mitarbeiterbeurteilung. Zudem sind die bisherige Lohnentwicklung und das Lohnniveau zu berücksichtigen.
 
-<sup>3</sup> Lohnerhöhungen setzen gute Leistungen voraus.
+<sup>3</sup> Lohnerhöhungen setzen erfüllte Leistungen voraus.
 
 <sup>4</sup> Bei mangelhaften Leistungen sind pro Jahr Lohnsenkungen bis zu 5 % des aktuellen Lohnes vorzusehen.
 
@@ -249,11 +249,11 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>3</sup> Der Regierungsrat regelt insbesondere:
 
-- 1\. Leistungsvoraussetzungen;
-- 2\. Kürzung oder Aufhebung der Leistungen bei vorsätzlicher oder grobfahrlässiger Herbeiführung von Krankheit oder Unfall;
-- 3\. Leistungsanspruch bei Wiedererlangung der Arbeitsfähigkeit;
-- 4\. Sonderregelungen bei Berufskrankheit und -unfall sowie zur Vermeidung von Härtefällen;
-- 5\. Leistungsanspruch von Mitarbeiterinnen und Mitarbeitern mit unregelmässigem Beschäftigungsgrad, die infolge Krankheit oder Unfalls arbeitsunfähig sind.
+- 1\. Leistungsvoraussetzungen
+- 2\. Kürzung oder Aufhebung der Leistungen bei vorsätzlicher oder grobfahrlässiger Herbeiführung von Krankheit oder Unfall
+- 3\. Leistungsanspruch bei Wiedererlangung der Arbeitsfähigkeit
+- 4\. Sonderregelungen bei Berufskrankheit und -unfall sowie zur Vermeidung von Härtefällen
+- 5\. Leistungsanspruch von Mitarbeiterinnen und Mitarbeitern mit unregelmässigem Beschäftigungsgrad, die infolge Krankheit oder Unfalls arbeitsunfähig sind
 
 #### § 21
 
@@ -277,10 +277,10 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>4</sup> Der Regierungsrat regelt insbesondere:
 
-- 1\. den Anspruch auf Lohnfortzahlung bei schwangerschaftsbedingter Arbeitsunfähigkeit vor Beginn des Urlaubes;
-- 2\. den Beginn des Urlaubes in besonderen Fällen, namentlich bei Niederkunft vor oder nach dem errechneten Termin;
-- 3\. die Folgen der vorzeitigen Beendigung des Schwangerschafts- und Mutterschaftsurlaubes;
-- 4\. die Anrechnung von Sozialversicherungsleistungen.
+- 1\. den Anspruch auf Lohnfortzahlung bei schwangerschaftsbedingter Arbeitsunfähigkeit vor Beginn des Urlaubes
+- 2\. den Beginn des Urlaubes in besonderen Fällen, namentlich bei Niederkunft vor oder nach dem errechneten Termin
+- 3\. die Folgen der vorzeitigen Beendigung des Schwangerschafts- und Mutterschaftsurlaubes
+- 4\. die Anrechnung von Sozialversicherungsleistungen
 
 [^22-1]: SR [834.1](https://db.clex.ch/link/Bund/834.1/de)
 
@@ -294,8 +294,8 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>3</sup> Der Regierungsrat regelt insbesondere:
 
-- 1\. den Anspruch auf Nachgewährung des Urlaubs bei Krankheit oder Unfall;
-- 2\. weitere Bezugsmodalitäten sowie die Folgen eines unvollständigen Bezugs des Urlaubs bis zum Austritt.
+- 1\. den Anspruch auf Nachgewährung des Urlaubs bei Krankheit oder Unfall
+- 2\. weitere Bezugsmodalitäten sowie die Folgen eines unvollständigen Bezugs des Urlaubs bis zum Austritt
 
 #### § 22b
 
@@ -309,8 +309,8 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>4</sup> Der Regierungsrat regelt insbesondere:
 
-- 1\. den Anspruch auf Nachgewährung bei Krankheit oder Unfall;
-- 2\. weitere Bezugsmodalitäten.
+- 1\. den Anspruch auf Nachgewährung bei Krankheit oder Unfall
+- 2\. weitere Bezugsmodalitäten
 
 #### § 23
 
@@ -475,17 +475,9 @@ vom 18.11.1998 (Stand 01.01.2022)
 
 <sup>2</sup> Er kann den Besitzstand gewähren.
 
-#### § 39
+#### § 39–39a
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Grossen Rates über den Teuerungsausgleich für das Staatspersonal und die Lehrkräfte an Volksschule und Kindergärten vom 4. Juni 1993 wird aufgehoben.
-
-#### § 39a
-
-**...[^39a-1]**
-
-[^39a-1]: Änderung bisherigen Rechtes, ABl. 2003, Seite 2281.
+**…**
 
 #### § 39b
 
