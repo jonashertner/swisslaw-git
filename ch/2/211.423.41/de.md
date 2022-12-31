@@ -4,20 +4,20 @@ title: Pfandbriefverordnung vom 23. Januar 1931 (PfV)
 short: PfV
 eli: "https://fedlex.data.admin.ch/eli/cc/47/121_125_70"
 language: de
-version: 2015-01-01
+version: 2023-01-01
 adopted: 1931-01-23
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20150101/de/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20150101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20150101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20230101/de/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Pfandbriefverordnung
 
-(PfV)**[^t-1]**
+(PfV)[^t-1]
 
-vom 23. Januar 1931 (Stand am 1. Januar 2015)
+vom 23. Januar 1931 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I der V vom 20. Okt. 1982, in Kraft seit 1. Jan. 1983 ([AS 1982 1879](https://fedlex.data.admin.ch/eli/oc/1982/1879_1879_1879)).
 
@@ -49,15 +49,17 @@ Der Verwaltungsrat oder Vorstand der Pfandbriefzentralen besteht aus höchstens 
 
 <sup>1</sup> Der Verwaltungsrat oder Vorstand der Pfandbriefzentralen ist (unter Vorbehalt von Art. 37 des Gesetzes) aus Vertretern der Mitgliedanstalten zu bestellen.
 
-<sup>2</sup> Für die Mitglieder des Verwaltungsrates einer als Aktiengesellschaft er richteten Pfandbriefzentrale hinterlegen die vertretenen Mitgliedanstalten die erforderlichen Aktien (Art. 658 OR[^4-1]).
+<sup>2</sup> …[^4-1]
 
-[^4-1]: Siehe heute Tit. 26 des OR, in der Fassung vom 4. Okt. 1991.
+[^4-1]: Aufgehoben durch Anhang Ziff. 1 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 5
 
 <sup>1</sup> Für die vom Bundesrat als Vertreter der Grundpfandschuldner ernannten Mitglieder des Verwaltungsrates oder Vorstandes der Pfandbriefzentralen gilt eine Amtsdauer von vier Jahren.
 
-<sup>2</sup> Diese Mitglieder sind von der Hinterlage von Aktien befreit.
+<sup>2</sup> …[^5-1]
+
+[^5-1]: Aufgehoben durch Anhang Ziff. 1 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 6
 
@@ -73,7 +75,7 @@ Wortlaut und äussere Gestaltung des Pfandbriefes unterliegen der Genehmigung de
 
 [^7-1]: Fassung gemäss BRB vom 2. Juli 1948, in Kraft seit 2. Juli 1948 ([AS 1948 808](https://fedlex.data.admin.ch/eli/oc/1948/808_788_757)).
 
-## III. Entkräftung und vorzeitige Ablieferung von Pfandbriefen****
+## III. Entkräftung und vorzeitige Ablieferung von Pfandbriefen
 
 [^lvlIII-1]
 
@@ -118,7 +120,7 @@ Das Pfandregister der Mitglieder einer Zentrale (Art. 21 des Gesetzes) setzt sic
   - 7\. den Pfandort;
   - 8\. die Art des Pfandes;
   - 9\. die Fläche des Grundstücks;
-  - 10\. den Versicherungswert;
+  - 10\.[^11-2] …
   - 11\. den Schätzungswert;
   - 12\. die Belehnungsgrenze;
   - 13\. Bemerkungen zu Pfandänderungen.
@@ -144,10 +146,14 @@ Das Pfandregister der Mitglieder einer Zentrale (Art. 21 des Gesetzes) setzt sic
 
 <sup>5</sup> Die Mitglieder einer Zentrale können zusätzlich zur elektronischen Speicherung nach Absatz 4 auch das Inventar gemäss Absatz 1 Buchstabe *a* EDV-mässig führen. In diesem Falle müssen die Angaben nach Absatz 1 Buchstabe *a* Ziffern 1–6 jederzeit nachgeführt und abrufbar und die Deckungswerte, die seit Ende Vorjahr erhöht oder neu in das Inventar aufgenommen wurden, gekennzeichnet sein. Die in Absatz 1 Buchstabe *a* Ziffern 7–13 geforderten Angaben können in anderer Form jederzeit griffbereit gehalten werden.
 
-<sup>6</sup> …[^11-2]
+<sup>6</sup> …[^11-3]
+
+<sup>7</sup> Die Zentralen sind berechtigt, bei ihren Mitgliedern jederzeit Einsicht zu nehmen in oder Auskunft zu erhalten über Daten des Pfandregisters der Mitglieder oder über weitere Daten, die zur Erfüllung von gesetzlichen oder regulatorischen Pflichten der Zentralen erforderlich sind.[^11-4]
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 16. April 1986, in Kraft seit 1. Juli 1986 ([AS 1986 694](https://fedlex.data.admin.ch/eli/oc/1986/694_694_694)).
-[^11-2]: Aufgehoben durch Anhang Ziff. 4 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^11-2]: Aufgehoben durch Anhang Ziff. 1 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^11-3]: Aufgehoben durch Anhang Ziff. 4 der Finanzmarktprüfverordnung vom 15. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^11-4]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 12
 
@@ -159,11 +165,27 @@ Das Pfandregister der Zentralen (Art. 16 des Gesetzes) ist gleich anzuordnen wie
 
 #### Art. 14
 
-<sup>1</sup> Die Pfandbriefdeckung (Art. 17, 22 und 25 des Gesetzes) ist von allen andern Vermögenswerten abzusondern, als solche zu bezeichnen, in Normal und in Ergänzungsdeckung auszuscheiden und an einem sichern Ort aufzubewahren.[^14-1]
+**Verwaltung der Deckung**[^14-1]
 
-<sup>2</sup> Als Geld, das im Sinne von Artikel 25 des Gesetzes zur Ergänzung der Deckung verwendet werden kann, gelten schweizerische Münzen und Banknoten.
+<sup>1</sup> Die Deckung der Pfandbriefe und der Darlehen (Art. 17, 22 und 25 des Gesetzes) ist von allen andern Vermögenswerten abzusondern, als solche zu kennzeichnen, in Normal- und in Ergänzungsdeckung auszuscheiden und an einem sicheren Ort im Inland aufzubewahren.
 
-[^14-1]: Fassung gemäss Art. 1 des BRB vom 3. Juni 1949, in Kraft seit 9. Juni 1949 (AS **1949** I 510).
+<sup>2</sup> Bei physisch vorhandener Deckung der Pfandbriefe und der Darlehen ist die Aufbewahrung zusammen mit anderen Vermögenswerten zulässig, wenn die erforderlichen Vorkehrungen getroffen sind, damit die Deckung auf Anordnung der Zentrale, der Revisionsstelle oder der Aufsichtsbehörde jederzeit und sofort separiert und der Zugriff gesperrt werden kann.
+
+<sup>3</sup> Bei treuhänderischer Verwaltung von Registerschuldbriefen gilt Absatz 2 sinngemäss.
+
+<sup>4</sup> Drittverwahrung und treuhänderische Verwaltung sind nur zulässig, wenn der Drittverwahrer oder der Treuhänder auf sämtliche gesetzlichen und vertraglichen Sicherungs- und Zurückbehaltungsrechte, einschliesslich Pfandrechte und obligatorische Retentionsrechte, Leistungsverweigerungsrechte oder ähnliche Rechte in Bezug auf die verwahrte Pfandbriefdeckung, verzichtet. Auf Verlangen ist der Verzicht der Zentrale nachzuweisen.
+
+[^14-1]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 14a
+
+**Ergänzung der Deckung**[^14a-1]
+
+<sup>1</sup> Als Geld, das im Sinne von Artikel 25 des Gesetzes zur Ergänzung der Deckung verwendet werden kann, gelten gesetzliche Schweizer Zahlungsmittel, namentlich auf Franken lautende Sichtguthaben bei der Schweizerischen Nationalbank (SNB). Ebenfalls anrechenbar sind auf Franken lautende Sichtguthaben bei Schweizer Banken.
+
+<sup>2</sup> Als Ergänzung der Deckung im Sinne von Artikel 25 des Gesetzes sind auch durch den Bund garantierte oder verbürgte börsenkotierte Schuldverschreibungen zugelassen.
+
+[^14a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 15
 
@@ -185,11 +207,15 @@ Das Pfandregister der Zentralen (Art. 16 des Gesetzes) ist gleich anzuordnen wie
 
 Unter Faustpfandforderungen im Sinne von Artikel 19 des Gesetzes sind durch Faustpfand gesicherte Darlehen mit festen Schuldsummen und festen Verfallzeiten oder mit Kündigungsfristen von mindestens drei Monaten zu verstehen.
 
-## V. Bilanz, Gewinn- und Verlustrechnung und Geschäftsbericht
+## V. Bilanz, Erfolgsrechnung und Geschäftsbericht
+
+[^lvlV-1]
+
+[^lvlV-1]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 18
 
-[^18-1]
+**Zwischenbilanzen[^18-2]**[^18-1]
 
 <sup>1</sup>
 
@@ -200,20 +226,20 @@ Die beiden Pfandbriefzentralen haben drei Zwischenbilanzen auf die ersten drei V
 - 1\.1.1 Darlehen an Mitglieder
 - 1\.1.2 Darlehen an Nichtmitglieder
 - 1\.1.3 Schuldverschreibungen des Bundes, der Kantone und der Gemeinden
-- 1\.1.4 Bargeld
+- 1\.1.4[^18-3] Geld
 - 1\.1.5 Gülten
 - 1\.2 Freie Aktiven:
 - 1\.2.1 Hypothekaranlagen (andere Gülten, Schuldbriefe, Grundpfandverschreibungen)
-- 1\.2.2 Faustpfanddarlehen
-- 1\.2.3 Nationalbankfähige Wechsel (Diskonten)
-- 1\.2.4 Nationalbankfähige Wertpapiere (Lombarden)
-- 1\.2.5 Eigene Pfandbriefe
-- 1\.2.6 Bankendebitoren auf Sicht
-- 1\.2.7 Bankendebitoren auf Zeit
-- 1\.2.8 Kassa, Giro- und Postcheckguthaben[^18-2]
-- 1\.2.9 Eigene Liegenschaften
-- 1\.2.10 Zu tilgende Emissionskosten
-- 1\.2.11 Sonstige Aktiven
+- 1\.2.2[^18-4] Bei der SNB repofähige Effekten
+- 1\.2.3[^18-5] Eigene Pfandbriefe
+- 1\.2.4[^18-6] Obligationen Inland
+- 1\.2.5[^18-7] Bankendebitoren auf Sicht
+- 1\.2.6[^18-8] Bankendebitoren auf Zeit
+- 1\.2.7[^18-9] Kassa, Giroguthaben
+- 1\.2.8[^18-10] Eigene Liegenschaften
+- 1\.2.9[^18-11] Zu tilgende Emissionskosten
+- 1\.2.10[^18-12] Sonstige Aktiven
+- 1\.2.11[^18-13] …
 - 1\.3 Nicht einbezahltes Aktien- oder Genossenschaftskapital
 - 1\.4 Verlustvortrag
 - 1\.5 *Bilanzsumme*
@@ -232,13 +258,24 @@ Die beiden Pfandbriefzentralen haben drei Zwischenbilanzen auf die ersten drei V
 
 <sup>2</sup> Zum Eigenkapital im Sinne von Artikel 10 des Gesetzes gehören, ausser dem einbezahlten Aktien- oder Genossenschaftskapital, den ausgewiesenen Reserven und dem Aktivsaldo, 75 Prozent des nicht einbezahlten Aktien- oder Genossenschaftskapitals, für das Verpflichtungsscheine vorhanden sind.
 
-<sup>2bis</sup> und <sup>2ter</sup> ...[^18-3]
+<sup>2bis</sup> und <sup>2ter</sup> …[^18-14]
 
 <sup>3</sup> Jeder Zwischenbilanz ist beizufügen: die Summe der Jahreszinslast der Pfandbriefe und des Jahreszinsertrages der Pfandbriefdeckung sowie das Verhältnis des Eigenkapitals zum gesamten Fremdkapital.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 26. Sept. 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1708](https://fedlex.data.admin.ch/eli/oc/1988/1708_1708_1708)).
-[^18-2]: Infolge des BRB vom 7. Juni 2013 ([BBl 2013 4645](https://fedlex.data.admin.ch/eli/fga/2013/866)) der die Anstalt Post in die spezialgesetzliche Schweizerische Post AG umgewandelt und die PostFinance in eine privatrechtliche Aktiengesellschaft ausgegliedert hat, ist der Hinweis auf die Postcheckguthaben seit dem 26. Juni 2013 gegenstandslos.
-[^18-3]: Eingefügt durch Ziff. I der V vom 18. Febr. 2009, in Kraft vom 1. März 2009 bis 31. Dez. 2014 ([AS 2009 823](https://fedlex.data.admin.ch/eli/oc/2009/135)).
+[^18-2]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-3]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-4]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-5]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-6]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-7]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-8]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-9]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-10]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-11]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-12]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-13]: Aufgehoben durch Anhang Ziff. 1 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-14]: Eingefügt durch Ziff. I der V vom 18. Febr. 2009, in Kraft vom 1. März 2009 bis 31. Dez. 2014 ([AS 2009 823](https://fedlex.data.admin.ch/eli/oc/2009/135)).
 
 #### Art. 19
 
@@ -250,9 +287,9 @@ Die Jahresschlussbilanz der beiden Zentralen hat die gleichen Posten wie die Zwi
 
 #### Art. 20
 
-[^20-1]
+**Erfolgsrechnung[^20-2]**[^20-1]
 
-Die Gewinn- und Verlustrechnung der beiden Zentralen ist mindestens wie folgt zu gliedern:
+Die Erfolgsrechnung der beiden Zentralen ist mindestens wie folgt zu gliedern:[^20-3]
 
 - 1\. Ertrag
 - 1\.1 Aktivzinsen auf
@@ -261,14 +298,13 @@ Die Gewinn- und Verlustrechnung der beiden Zentralen ist mindestens wie folgt zu
 - 1\.1.1.2 Darlehen an Nichtmitglieder
 - 1\.1.1.3 Schuldverschreibungen des Bundes, der Kantone und der Gemeinden
 - 1\.1.1.4 Gülten
-- 1\.1.2 Freien Aktiven
-- 1\.1.2.1 Hypothekaranlagen (andern Gülten, Schuldbriefen, Grundpfandverschreibungen)
-- 1\.1.2.2 Faustpfanddarlehen
-- 1\.1.2.3 Nationalbankfähigen Wechseln
-- 1\.1.2.4 Nationalbankfähigen Wertpapieren
-- 1\.1.2.5 Eigenen Pfandbriefen
-- 1\.1.2.6 Bankendebitoren
-- 1\.1.2.7 Sonstigen Aktiven
+- 1\.1.2[^20-4] Freien Aktiven
+- 1\.1.2.1 Hypothekaranlagen (andere Gülten, Schuldbriefe, Grundpfandverschreibungen)
+- 1\.1.2.2 Bei der SNB repofähige Effekten
+- 1\.1.2.3 Eigene Pfandbriefe
+- 1\.1.2.4 Obligationen Inland
+- 1\.1.2.5 Bankendebitoren
+- 1\.1.2.6 Sonstige Aktiven
 - 1\.2 Kommissionsertrag
 - 1\.3 Sonstiger Ertrag
 - 1\.4 Jahresverlust
@@ -290,6 +326,9 @@ Die Gewinn- und Verlustrechnung der beiden Zentralen ist mindestens wie folgt zu
 - 2\.9 *Total*
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 26. Sept. 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1708](https://fedlex.data.admin.ch/eli/oc/1988/1708_1708_1708)).
+[^20-2]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^20-3]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^20-4]: Fassung gemäss Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 21
 
@@ -305,7 +344,19 @@ Die Gewinn- und Verlustrechnung der beiden Zentralen ist mindestens wie folgt zu
 
 [^21-1]: Fassung gemäss Anhang Ziff. 4 der Finanzmarktprüfverordnung vom 15. Okt. 2008, in Kraft seit 1. Jan. 2009 (SR [AS 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
-## VI. Inkrafttreten****
+## V*a*. Informationen durch die beauftragte Person bei Massnahmen der Eidgenössischen Finanzmarktaufsicht
+
+[^lvlVa-1]
+
+[^lvlVa-1]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 21a
+
+<sup>1</sup> Ordnet die Eidgenössische Finanzmarktaufsicht (FINMA) gegen ein Mitglied Massnahmen nach den Artikeln 40 und 40*a* des Gesetzes an, so kann die von der FINMA beauftragte Person den Pfandbriefzentralen alle Auskünfte erteilen, die diese zur Erfüllung ihrer Aufgaben benötigen.
+
+<sup>2</sup> Die beauftragte Person informiert die Pfandbriefzentralen regelmässig über den Stand des Verfahrens, soweit sie davon betroffen sind.
+
+## VI. Inkrafttreten
 
 [^lvlVI-1]
 
@@ -323,6 +374,6 @@ Diese Verordnung tritt gleichzeitig mit dem Bundesgesetz vom 25. Juni 1930[^25-1
 
 [^25-1]: Heute: Pfandbriefgesetz.
 
-Formulare Nr. 1–3*[^t-2]*
+Formulare Nr. 1–3[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. I der V vom 16. April 1986, mit Wirkung seit 1. Juli 1986 ([AS 1986 694](https://fedlex.data.admin.ch/eli/oc/1986/694_694_694)).

@@ -4,18 +4,18 @@ title: "Ordinanza del 23 gennaio 1931 sull'emissione di obbligazioni fondiarie (
 short: OOF
 eli: "https://fedlex.data.admin.ch/eli/cc/47/121_125_70"
 language: it
-version: 2015-01-01
+version: 2023-01-01
 adopted: 1931-01-23
 in_force: 1931-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20150101/it/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20150101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20150101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/47/121_125_70/20230101/it/xml/fedlex-data-admin-ch-eli-cc-47-121_125_70-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/47/121_125_70/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza sull’emissione di obbligazioni fondiarie (OOF)****
+# Ordinanza sull’emissione di obbligazioni fondiarie (OOF)
 
-del 23 gennaio 1931 (Stato 1° gennaio 2015)[^t-1]
+del 23 gennaio 1931 (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Nuovo tit. giusta il n. I dell’O del 20 ott. 1982, in vigore dal 1° gen. 1983 ([RU 1982 1879](https://fedlex.data.admin.ch/eli/oc/1982/1879_1879_1879)).
 
@@ -47,15 +47,17 @@ Il consiglio d’amministrazione o il comitato direttivo delle centrali d’emis
 
 <sup>1</sup> Il consiglio d’amministrazione o il comitato direttivo delle centrali sarà costituito di rappresentanti degl’istituti che fanno parte di quest’ultime. Resta riservato l’articolo 37 della legge.
 
-<sup>2</sup> Gli istituti rappresentati nel consiglio d’amministrazione di una centrale costituita in società anonima depositeranno per i loro rappresentanti le azioni richieste (art. 658 CO[^4-1]).
+<sup>2</sup> ...[^4-1]
 
-[^4-1]: Vedi ora il tit. XXV del CO, nel testo del 4 ott. 1991.
+[^4-1]: Abrogato dall’all. n.1 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 5
 
 <sup>1</sup> I membri del consiglio d’amministrazione o del comitato direttivo delle centrali designati dal Consiglio federale a rappresentare i debitori ipotecari stanno in carica quattro anni.
 
-<sup>2</sup> Questi membri non sono tenuti a depositare azioni.
+<sup>2</sup> ...[^5-1]
+
+[^5-1]: Abrogato dall’all. n. 1dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 6
 
@@ -71,7 +73,7 @@ Il testo e la forma delle obbligazioni fondiarie sono sottoposte all’approvazi
 
 [^7-1]: Nuovo testo giusta il DCF del 2 lug. 1948, in vigore dal 2 lug. 1948 ([RU 1948 757](https://fedlex.data.admin.ch/eli/oc/1948/808_788_757)).
 
-## III. Annullamento e ritorno anticipato delle obbligazioni fondiarie****
+## III. Annullamento e ritorno anticipato delle obbligazioni fondiarie
 
 [^lvlIII-1]
 
@@ -116,7 +118,7 @@ Il registro dei pegni dei membri di una centrale (art. 21 della legge) si compon
   - 7\. il luogo di situazione del pegno;
   - 8\. la natura del pegno;
   - 9\. la superficie del fondo;
-  - 10\. il valore assicurato;
+  - [tab] 10.[^11-2] ...
   - 11\. il valore di stima;
   - 12\. il limite di prestito;
   - 13\. osservazioni circa eventuali modificazioni del pegno.
@@ -141,10 +143,14 @@ Il registro dei pegni dei membri di una centrale (art. 21 della legge) si compon
 
 <sup>5</sup> Oltre alla registrazione elettronica di cui al capoverso 4, i membri di una centrale possono gestire elettronicamente anche l’inventario di cui al capoverso 1 lettera *a*. In tal caso, i dati secondo il capoverso 1 lettera *a* numeri 1-6 devono essere continuativamente aggiornati e ognora richiamabili e i valori di copertura, aumentati o accolti nell’inventario dopo la fine dell’anno precedente, essere contrassegnati come tali. I dati di cui al capoverso 1 lettera *a* numeri 7–13 possono essere tenuti anche in altra forma, purché siano sempre a portata di mano.
 
-<sup>6</sup> ...[^11-2]
+<sup>6</sup> ...[^11-3]
+
+<sup>7</sup> Le centrali hanno il diritto di esigere in ogni momento dai loro membri di consultare dati del registro dei pegni dei membri o altri dati necessari all’adempimento di obblighi legali o regolamentari imposti alle centrali o di ottenere le relative informazioni.[^11-4]
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 16 apr. 1986, in vigore dal 1° lug. 1986 ([RU 1986 694](https://fedlex.data.admin.ch/eli/oc/1986/694_694_694)).
-[^11-2]: Abrogato dal n. 4 dell’all. all’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^11-2]: Abrogato dall’all. n. dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^11-3]: Abrogato dall’all. n. 4 dell’O del 15 ott. 2008 sugli audit dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^11-4]: Introdotto dall’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 12
 
@@ -156,11 +162,27 @@ Il registro dei pegni delle centrali (art. 16 della legge) va disposto nello ste
 
 #### Art. 14
 
-<sup>1</sup> La copertura delle obbligazioni fondiarie (art. 17, 22 e 25 della legge) dev’essere separata da tutti gli altri valori. Essa sarà designata come tale, distinta in copertura normale e copertura completiva e conservata in luogo sicuro.[^14-1]
+**Gestione della copertura**[^14-1]
 
-<sup>2</sup> Per denaro contante che può essere usato a completare la copertura, in conformità dell’articolo 25 della legge, s’intendono monete e biglietti di banca svizzeri.
+<sup>1</sup> La copertura delle obbligazioni fondiarie e dei mutui (art. 17, 22 e 25 della legge) deve essere separata da tutti gli altri valori, designata come tale, distinta in copertura normale e copertura completiva e conservata in Svizzera in luogo sicuro.
 
-[^14-1]: Nuovo testo giusta l’art. 1 del DCF del 3 giu. 1949, in vigore dal 9 giu. 1949 (RU **1949** I 514).
+<sup>2</sup> In presenza di una copertura delle obbligazioni fondiarie e dei mutui in forma fisica, la conservazione è ammessa assieme ad altri valori se sono adottati i provvedimenti necessari affinché, su ordine della centrale, dell’ufficio di revisione o dell’autorità di vigilanza, la copertura possa essere separata in ogni momento e immediatamente bloccandone l’accesso.
+
+<sup>3</sup> Il capoverso 2 si applica per analogia alla gestione fiduciaria di cartelle ipotecarie registrali.
+
+<sup>4</sup> La subcustodia e la gestione fiduciaria sono ammesse solo se il subcustode o il fiduciario rinuncia a qualsiasi diritto legale o contrattuale di garanzia o di ritenzione, compresi i diritti di pegno e i diritti di ritenzione obbligatori, il diritto di rifiutare una prestazione o diritti analoghi in relazione alla copertura delle obbligazioni fondiarie custodita. La rinuncia deve essere dimostrata alla centrale su richiesta.
+
+[^14-1]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+#### Art. 14a
+
+**Copertura completiva**[^14a-1]
+
+<sup>1</sup> Per contanti utilizzabili per completare la copertura conformemente all’articolo 25 della legge s’intendono mezzi legali di pagamento svizzeri, segnatamente depositi a vista in franchi presso la Banca nazionale svizzera (BNS). Sono parimenti computabili i depositi a vista in franchi presso banche svizzere.
+
+<sup>2</sup> Come copertura completiva ai sensi dell’articolo 25 della legge sono ammesse anche le ricognizioni di debito quotate in borsa per le quali la Confederazione ha accordato una garanzia o una fideiussione.
+
+[^14a-1]: Introdotto dall’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 15
 
@@ -182,11 +204,15 @@ Il registro dei pegni delle centrali (art. 16 della legge) va disposto nello ste
 
 Per i crediti su pegni manuali a’ sensi dell’articolo 19 della legge si intendono dei mutui di somme fisse a scadenze fisse o disdicibili entro tre mesi almeno e garantiti da pegno manuale.
 
-## V. Bilancio, conto profitti e perdite e rapporto sulla gestione
+## V. Bilancio, conto economico e rapporto di gestione
+
+[^lvlV-1]
+
+[^lvlV-1]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 18
 
-[^18-1]
+**Bilanci intermedi[^18-2]**[^18-1]
 
 <sup>1</sup>
 
@@ -201,14 +227,16 @@ Le due centrali sono tenute ad allestire un bilancio intermedio alla fine di ogn
 - 1\.1.5 Cartelle di rendita fondiaria
 - 1\.2 Attivi disponibili:
 - 1\.2.1 Investimenti ipotecari (altre cartelle di rendita fondiaria, cartelle ipotecarie e ipoteche)
-- 1\.2.2 Mutui garantiti da pegni manuali
-- 1\.2.3 Effetti scontabili presso la Banca nazionale svizzera (sconto)
-- 1\.2.4 Valori che possono essere accettati in pegno dalla Banca nazionale svizzera (prestiti su pegno)
-- 1\.2.5 Obbligazioni fondiarie emesse dalla centrale
-- 1\.2.6 Crediti a vista presso banche
-- 1\.2.7 Crediti a termine presso banche
-- 1\.2.8 Cassa, conti correnti bancari e postali[^18-2]
-- 1\.2.9 Immobili appartenenti alla centrale
+- 1\.2.2[^18-3] Valori mobiliari che possono essere oggetto di repo nei confronti della BNS
+- 1\.2.3[^18-4] Obbligazioni fondiarie emesse dalla centrale
+- 1\.2.4[^18-5] Obbligazioni svizzere
+- 1\.2.5[^18-6] Crediti a vista presso banche
+- 1\.2.6[^18-7] Crediti a termine presso banche
+- 1\.2.7[^18-8] Cassa, conti correnti
+- 1\.2.8[^18-9] Immobili appartenenti alla centrale
+- 1\.2.9[^18-10] Costi d’emissione da ammortizzare
+- [tab] 1.2.10[^18-11]Altri attivi
+- [tab] 1.2.11[^18-12]*...*
 - 1\.2.10 Costi d’emissione da ammortizzare
 - 1\.2.11 Altri attivi
 - 1\.3 Capitale sociale non versato
@@ -229,13 +257,23 @@ Le due centrali sono tenute ad allestire un bilancio intermedio alla fine di ogn
 
 <sup>2</sup> Fanno parte del capitale proprio, nel senso dell’articolo 10 della legge, oltre al capitale sociale versato, alle riserve portate in bilancio e al saldo attivo riportato dall’esercizio precedente, il 75 per cento del capitale sociale non versato per il quale la centrale è in possesso di un impegno scritto dei membri.
 
-<sup>2bis</sup> e <sup>2ter</sup> ...[^18-3]
+<sup>2bis</sup> e <sup>2ter</sup> ...[^18-13]
 
 <sup>3</sup> In ogni bilancio intermedio dovrà inoltre figurare la somma degli interessi annui versati sulle obbligazioni fondiarie e il prodotto degli interessi annui della loro copertura, come pure la proporzione tra i mezzi propri e la totalità dei fondi di terzi.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 26 set. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1708](https://fedlex.data.admin.ch/eli/oc/1988/1708_1708_1708)).
-[^18-2]: Con la trasformazione dell’ente della Posta nella società anonima di diritto speciale con ragione sociale "Posta Svizzera SA" e della Postfinance in una società anonima di diritto privato (DCF del 7 giugno 2013; [FF 2013 3973](https://fedlex.data.admin.ch/eli/fga/2013/866)), dal 26 giugno 2013 il riferimento ai conti postali è divenuto privo d'oggetto.
-[^18-3]: Introdotti dal n. I dell’O del 18 feb. 2009, in vigore dal 1° mar. 2009 al 31 dic. 2014 ([RU 2009 823](https://fedlex.data.admin.ch/eli/oc/2009/135)).
+[^18-2]: Introdotto dall’all. n. 1dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-3]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-4]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-5]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-6]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-7]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-8]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-9]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-10]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-11]: Nuovo testo giusta l’all. n.1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-12]: Abrogato dall’all. n. 1 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-13]: Introdotti dal n. I dell’O del 18 feb. 2009, in vigore dal 1° mar. 2009 al 31 dic. 2014 ([RU 2009 823](https://fedlex.data.admin.ch/eli/oc/2009/135)).
 
 #### Art. 19
 
@@ -247,9 +285,9 @@ Il bilancio annuale delle due centrali conterrà le medesime rubriche dei bilanc
 
 #### Art. 20
 
-[^20-1]
+**Conto economico[^20-2]**[^20-1]
 
-Il conto profitti e perdite delle due centrali conterrà almeno le seguenti rubriche:
+Il conto economico delle due centrali conterrà almeno le seguenti rubriche:[^20-3]
 
 - 1\. Entrate
 - 1\.1 Interessi attivi su
@@ -258,13 +296,13 @@ Il conto profitti e perdite delle due centrali conterrà almeno le seguenti rubr
 - 1\.1.1.2 Mutui a istituti che non fanno parte della centrale
 - 1\.1.1.3 Rescrizioni della Confederazione, dei Cantoni e dei Comuni
 - 1\.1.1.4 Cartelle di rendita fondiaria
-- 1\.1.2 Attivi disponibili 1.1.2.1 Investimenti ipotecari (altre cartelle di rendita fondiaria, cartelle ipotecarie e ipoteche)
-- 1\.1.2.2 Mutui garantiti da pegni manuali
-- 1\.1.2.3 Effetti scontabili presso la Banca nazionale svizzera
-- 1\.1.2.4 Valori che possono essere accettati in pegno dalla Banca nazionale svizzera
-- 1\.1.2.5 Obbligazioni fondiarie emesse dalla centrale
-- 1\.1.2.6 Crediti bancari
-- 1\.1.2.7 Altri attivi
+- 1\.1.2[^20-4] Attivi disponibili
+- 1\.1.2.1 Investimenti ipotecari (altre cartelle di rendita fondiaria, cartelle ipotecarie e ipoteche)
+- 1\.1.2.2 Valori mobiliari che possono essere oggetto di repo nei confronti della BNS
+- 1\.1.2.3 Obbligazioni fondiarie emesse dalla centrale
+- 1\.1.2.4 Obbligazioni svizzere
+- 1\.1.2.5 Crediti bancari
+- 1\.1.2.6 Altri attivi
 - 1\.2 Provvigioni
 - 1\.3 Diversi
 - 1\.4 Perdita dell’esercizio
@@ -286,6 +324,9 @@ Il conto profitti e perdite delle due centrali conterrà almeno le seguenti rubr
 - 2\.9 *Totale*
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 26 set. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1708](https://fedlex.data.admin.ch/eli/oc/1988/1708_1708_1708)).
+[^20-2]: Introdotto dall’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^20-3]: Nuovo testo giusta l’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^20-4]: Nuovo testo giusta l’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 21
 
@@ -299,9 +340,21 @@ Il conto profitti e perdite delle due centrali conterrà almeno le seguenti rubr
 
 <sup>4</sup> L’attestato della società di audit deve essere riprodotto nel rapporto di gestione.
 
-[^21-1]: Nuovo testo giusta il n. 4 dell’all. all’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
+[^21-1]: Nuovo testo giusta l’all. n. 4 all’O del 15 ott. 2008 sugli audit dei mercati finanziari, in vigore dal 1° gen. 2009 ([RU 2008 5363](https://fedlex.data.admin.ch/eli/oc/2008/750)).
 
-## VI. Entrata in vigore****
+## V*a*. Informazioni fornite dalla persona incaricata in caso di provvedimenti dell’Autorità federale di vigilanza sui mercati finanziari
+
+[^lvlVa-1]
+
+[^lvlVa-1]: Introdotta dall’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+
+**Art. 21**a
+
+<sup>1</sup> Se l’Autorità federale di vigilanza sui mercati finanziari (FINMA) ordina nei confronti di un membro provvedimenti secondo gli articoli 40 e 40*a* della legge, la persona incaricata dalla FINMA può fornire alle centrali tutte le informazioni necessarie all’adempimento dei loro compiti.
+
+<sup>2</sup> La persona incaricata informa periodicamente le centrali sull’applicazione dei provvedimenti, qualora ne sia interessata.
+
+## VI. Entrata in vigore
 
 [^lvlVI-1]
 
@@ -319,6 +372,6 @@ La presente ordinanza entra in vigore il 1° febbraio 1931, contemporaneamente a
 
 [^25-1]: Ora: L sulle obbligazioni fondiarie.
 
-Moduli N. 1 a 3*[^t-2]*
+Moduli N. 1 a 3[^t-2]
 
 [^t-2]: Abrogati dal n. I dellO del 16 apr. 1986, con effetto dal 1° lug. 1986 ([RU 1986 694](https://fedlex.data.admin.ch/eli/oc/1986/694_694_694)).
