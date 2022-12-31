@@ -1,27 +1,29 @@
 ---
 canton: VS
 number: "420.104"
-title: "Reglement betreffend die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private, vom Staat Wallis nicht subventionierte Leistungserbringer"
-short: RTPHS
+title: "Reglement über die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private, vom Staat Wallis nicht subventionierte Leistungserbringer *"
+short: RABTP
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-31
+version: 2023-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-02-01
 adopted: 2026-06-24
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/420.104"
-pdf: "https://lex.vs.ch/api/de/versions/2874/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private, vom Staat Wallis nicht subventionierte Leistungserbringer
+# Reglement über die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private, vom Staat Wallis nicht subventionierte Leistungserbringer
 
-vom 31.03.2021 (Stand 01.04.2021)
+(RABTP)
 
-Der Staatsrat des Kantons Wallis:
+vom 31.03.2021 (Stand 01.01.2023)
 
-eingesehen die Artikel 29 und 76 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (Hochschulförderungs- und Koordinationsgesetz, HFKG);
+Der Staatsrat des Kantons Wallis
+
+eingesehen die Artikel 29 und 63 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (Hochschulförderungs- und Koordinationsgesetz, HFKG);
 
 eingesehen die Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen vom 29. November 2019;
 
@@ -47,7 +49,7 @@ auf Antrag des für die Bildung zuständigen Departements,
 
 verordnet: [^ingress-1]
 
-[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Statuts, oder der Funktion in gleicher Weise für Frau und Mann.
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status, oder der Funktion in gleicher Weise für Frau und Mann.
 
 ## 1 Allgemeine Bestimmungen
 
@@ -149,7 +151,7 @@ verordnet: [^ingress-1]
 
 <sup>1</sup> Falls der private Leistungserbringer eine unklare, unkorrekte oder irreführende Information an Dritte liefert oder wesentliche Informationen vorenthält, verordnet die verantwortliche Dienststelle eine unverzügliche, regelkonforme Anpassung, verbunden mit einer Sanktion.
 
-<sup>2</sup> Die verantwortliche Dienststelle spricht die Sanktion in Form einer Busse im Sinne von Artikel 27 Absatz 3 Buchstaben a des Gesetzes über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten aus. Vor jeder Sanktion wird der betroffene private Leistungserbringer angehört.
+<sup>2</sup> Die verantwortliche Dienststelle spricht die Sanktion in Form einer Busse im Sinne von Artikel 63 HFKG in Bezug auf den Bezeichnungsschutz (Art. 6) beziehungsweise Artikel 27 Absatz 3 Buchstabe a des Gesetzes über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten in Bezug auf den Titelschutz (Art. 7) aus. Vor jeder Sanktion wird der betroffene private Leistungserbringer angehört.
 
 <sup>3</sup> Das Departement kann die Einstellung der Bildungstätigkeiten anordnen (Schliessung der Institution des betreffenden privaten Leistungserbringers), wenn eine der folgenden Bedingungen erfüllt ist:
 
@@ -157,7 +159,9 @@ verordnet: [^ingress-1]
 - b) nach einer Aufforderung zur regelkonformen Anpassung veröffentlicht der private Leistungserbringer erneut eine missbräuchliche und irreführende Information, oder
 - c) für alle anderen, schwerwiegenden Verstösse.
 
-<sup>4</sup> Die Nichteinhaltung der Artikel 6 und 7 des vorliegenden Reglements wird mit einer Busse in der Höhe von maximal 10'000 Franken geahndet.
+<sup>4</sup> Die Nichteinhaltung des Artikels 6 des vorliegenden Reglements wird mit einer Busse von bis zu 200'000 Franken geahndet, wenn der private Leistungserbringer vorsätzlich gehandelt hat oder mit einer Busse von bis zu 100'000 Franken geahndet, wenn er fahrlässig gehandelt hat.
+
+<sup>5</sup> Die Nichteinhaltung des Artikels 7 des vorliegenden Reglements wird mit einer Busse von bis zu 10'000 Franken geahndet.
 
 #### Art. 10
 

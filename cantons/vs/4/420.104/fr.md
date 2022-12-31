@@ -2,32 +2,34 @@
 canton: VS
 number: "420.104"
 title: Règlement concernant l’exercice d’activités de formation tertiaire par des prestataires privés non subventionnés par l’Etat du Valais
-short: RAPHE
+short: RAFTP
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-31
+version: 2023-01-01
+valid_until: 2026-06-30
+version_adopted: 2023-02-01
 adopted: 2026-06-24
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/420.104"
-pdf: "https://lex.vs.ch/api/fr/versions/2874/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3164/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant l’exercice d’activités de formation tertiaire par des prestataires privés non subventionnés par l’Etat du Valais
 
-du 31.03.2021 (état 01.04.2021)
+(RAFTP)
+
+du 31.03.2021 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les articles 29 et 76 de la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (loi sur l'encouragement et la coordination des hautes écoles, LEHE);
+vu les articles 29 et 63 de la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (loi sur l'encouragement et la coordination des hautes écoles, LEHE);
 
 vu l'ordonnance du Conseil des Hautes écoles sur la coordination de l'enseignement dans les hautes écoles suisses du 29 novembre 2019;
 
 vu les articles 67 et suivants de la loi fédérale sur la poursuite pour dettes et la faillite du 11 avril 1889 (LP);
 
-vu l'article 106 du code pénal suisse du 21 décembre 1937 (CPS);
+vu l'article 106 du code pénal suisse du 21 décembre 1937 (CP);
 
 vu les articles 12, 17 et 357 du code de procédure pénale suisse du 5 octobre 2007 (CPP);
 
@@ -149,7 +151,7 @@ ordonne: [^ingress-1]
 
 <sup>1</sup> Si le prestataire privé fournit à des tiers une information peu claire, incorrecte ou trompeuse ou qu'il omet des informations essentielles, le service responsable lui ordonne une mise en conformité immédiate, assortie d'une sanction.
 
-<sup>2</sup> Le service responsable prononce la sanction sous la forme d'une amende au sens de l'article 27 alinéa 3 lettre a LFRU. Avant toute sanction, le prestataire privé en cause est entendu.
+<sup>2</sup> Le service responsable prononce la sanction sous la forme d'une amende au sens de l'article 63 LEHE pour ce qui est de la protection des appellations (art. 6) respectivement de l'article 27 alinéa 3 lettre a LFRU s'agissant de la protection des titres (art. 7). Avant toute sanction, le prestataire privé en cause est entendu.
 
 <sup>3</sup> Le département peut ordonner la cessation des activités de formation (fermeture de l'établissement du prestataire privé concerné) si l'une des conditions suivantes est remplie:
 
@@ -157,7 +159,9 @@ ordonne: [^ingress-1]
 - b) après demande de mise en conformité et la prononciation d'une sanction, le prestataire privé diffuse à nouveau une information abusive et mensongère, ou
 - c) pour toutes autres contraventions graves.
 
-<sup>4</sup> Le non-respect des articles 6 et 7 du présent règlement est passible d'une amende d'un montant maximal de 10'000 francs.
+<sup>4</sup> Le non-respect de l'article 6 du présent règlement est passible d'une amende de 200'000 francs au plus si le prestataire privé agit intentionnellement, ou d'une amende de 100'000 francs au plus s'il agit par négligence.
+
+<sup>5</sup> Le non-respect de l'article 7 du présent règlement est passible d'une amende de 10'000 francs au plus.
 
 #### Art. 10
 
