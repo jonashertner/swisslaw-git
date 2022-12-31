@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 3 décembre 2007 de la Caisse de prévoyance
 short: RP-EPF 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/191"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2012-191-20220701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-191-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20220701/fr"
 
 (RP-EPF 1)
 
-du 3 décembre 2007 (Etat le 1<sup>er</sup> juillet 2022)
+du 3 décembre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 L’organe paritaire de la caisse de prévoyance du domaine des EPF (OP EPF),
 
@@ -48,7 +48,7 @@ arrête:
 <sup>2</sup> Il s’applique également aux personnes auxquelles PUBLICA verse des prestations suite à un divorce.
 
 [^2-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
-[^2-2]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^2-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 3
 
@@ -199,7 +199,7 @@ L’assurance prend fin:
 
 <sup>2</sup> La personne concernée reste toutefois assurée à PUBLICA contre les risques de décès et d’invalidité pendant un mois après la résiliation des rapports de travail. Les prestations correspondent aux prestations assurées à la fin des rapports de travail. Si une nouvelle relation de prévoyance prend naissance avant la fin de ce délai, la nouvelle institution de prévoyance est compétente.
 
-[^18-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^18-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 [^18-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^18-3]: Abrogée par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 
@@ -257,7 +257,7 @@ Si l’assurance prend fin en raison de sa résiliation par la personne assurée
 - a. versée sous forme de prestation de vieillesse à la personne assurée si cette dernière a atteint l’âge de 60 ans;
 - b. transférée à une institution de libre passage si la personne assurée n’a pas encore atteint l’âge de 60 ans.
 
-[^18d-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^18d-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 ## Chapitre 3 Bases de calcul
 
@@ -421,7 +421,7 @@ Les différents plans de prévoyance fixent les cotisations d’épargne suivant
 <sup>3</sup> Le paiement de la prime de risque en cas de maintien de l’assurance selon l’art. 18*d* est réservé.[^26-2]
 
 [^26-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
-[^26-2]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^26-2]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 27
 
@@ -447,8 +447,8 @@ Elle prend fin:
 
 <sup>5</sup> L’art. 28 est réservé.
 
-[^27-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
-[^27-2]: Introduite par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^27-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^27-2]: Introduite par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 28
 
@@ -513,7 +513,7 @@ Les prestations de sortie d’autres institutions de prévoyance et les avoirs a
 [^32-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^32-3]: Abrogé par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^32-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
-[^32-5]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^32-5]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 32a
 
@@ -604,7 +604,7 @@ La perception des contributions d’assainissement est:
 
 <sup>3</sup> En cas de maintien de l’assurance selon l’art. 18*d*, la personne assurée répond de sa contribution d’assainissement. Celle-ci lui est facturée.[^35-1]
 
-[^35-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^35-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 ## Chapitre 6 Prestations
 
@@ -685,7 +685,7 @@ Sont déduits de l’avoir de vieillesse:
 
 [^38-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^38-2]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
-[^38-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 (RO **201****2** 2091).
+[^38-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 
 #### Art. 39
 
@@ -717,11 +717,11 @@ Sont déduits de l’avoir de vieillesse:
 
 <sup>6</sup> Le retrait sous forme de capital est exclu si le maintien de l’assurance selon l’art. 18*d* a duré plus de deux ans.[^40-5]
 
-[^40-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
-[^40-2]: Abrogé par par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^40-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^40-2]: Abrogé par par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 [^40-3]: Introduit par le ch. I de la D de l’OP EPF du 24 mars 2012, approuvée par le CF le 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2013 993](https://fedlex.data.admin.ch/eli/oc/2013/210)).
 [^40-4]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
-[^40-5]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^40-5]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 41
 
@@ -806,8 +806,8 @@ Concernant le droit à la rente selon l’al. 1, le conjoint divorcé est assimi
 
 <sup>7</sup> Le conjoint divorcé n’a pas droit à l’indemnité unique au sens de l’al. 2.
 
-[^44-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
-[^44-2]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^44-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^44-2]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 [^44-3]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
 [^44-4]: Introduit par le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
 
@@ -1073,7 +1073,7 @@ Le montant de la rente pour enfant de bénéficiaire d’une rente d’invalidit
 
 [^59-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 1<sup>er</sup> déc. 2016, approuvée par le Conseil des EPF le 7 déc. 2016 et par le CF le 10 mai 2017, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
 
-## Chapitre 7 Rente transitoire et plan social****
+## Chapitre 7 Rente transitoire et plan social
 
 [^chap7-1]
 
@@ -1128,7 +1128,27 @@ La personne assurée communique à PUBLICA, au plus tard trois mois avant de per
 
 #### Art. 64
 
-Si l’employeur résilie le contrat de travail d’une personne assurée âgée de plus de 58 ans, sans qu’il y ait faute de cette dernière, la personne assurée a droit à une rente de vieillesse à vie et à une rente transitoire financée par l’employeur conformément à l’art. 61. Le montant de la rente de vieillesse est calculé selon l’art. 63, al. 2. L’art. 62, al. 10, est applicable par analogie au financement de la rente de vieillesse et de la rente transitoire.
+[^64-1]
+
+<sup>1</sup> Si, compte tenu des dispositions relatives au droit du travail (art. 21 à 23 OPers-EPF), les rapports de travail d’une personne assurée qui a atteint l’âge de 60 ans sont résiliés selon un plan social, elle a droit à une rente de vieillesse à vie et à une rente transitoire selon l’art. 61, intégralement financée par l’employeur.
+
+<sup>2</sup>
+
+Si la personne assurée est âgée de moins de 63 ans au moment de la naissance du droit aux prestations de vieillesse, elle perçoit la rente de vieillesse qui lui reviendrait en cas de départ à la retraite après l’âge de 63 ans. Est déterminant le taux de conversion selon l’annexe 4 au moment de la naissance du droit à la rente. L’avoir de vieillesse pris en compte se compose:
+
+- a. de l’avoir de vieillesse selon l’art. 36 que la personne assurée a accumulé jusqu’à la naissance du droit aux prestations de vieillesse;
+- b. de la somme des bonifications de vieillesse selon l’art. 24, depuis la naissance du droit aux prestations de vieillesse jusqu’à l’âge de 63 ans; le gain assuré immédiatement avant la naissance du droit aux prestations de vieillesse est déterminant pour le moment des bonifications de vieillesse; et
+- c. de l’intérêt de 2 % par année pour la période allant du début du droit à des prestations de vieillesse au moment où la personne assurée atteint l’âge de 63 ans; l’art. 36, al. 4, 5 et 7, s’applique par analogie.
+
+<sup>3</sup> Si la personne assurée a atteint l’âge de 63 ans au moment de la naissance du droit aux prestations de vieillesse, elle perçoit la rente de vieillesse selon l’art. 39.
+
+<sup>4</sup> Un éventuel avoir issu du compte PC (art. 25) peut être utilisé pour augmenter la rente de vieillesse définie selon les al. 2 et 3.
+
+<sup>5</sup> L’avoir de vieillesse selon l’art. 36 et l’éventuel avoir issu du compte PC peuvent être prélevés sous la forme d’une indemnité unique en capital conformément à l’art. 40. En cas de droit à la rente de vieillesse au sens de l’al. 2, l’avoir de vieillesse est projeté selon l’al. 2, let. c, puis réduit en fonction du retrait de l’avoir sous la forme d’une indemnité en capital, et la rente de vieillesse est calculée sur cette nouvelle base.
+
+<sup>6</sup> L’employeur verse à PUBLICA la réserve mathématique manquante nécessaire au financement de la rente de vieillesse selon l’al. 2 et de la rente transitoire.
+
+[^64-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 19 août 2022, approuvée par le CF le 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 749](https://fedlex.data.admin.ch/eli/oc/2022/749)).
 
 ## Chapitre 8 Dispositions communes relatives aux prestations
 
@@ -1286,7 +1306,7 @@ Si les rapports de travail cessent avant le 1er janvier de l’année suivant le
 
 Si l’assurance prend fin sans qu’un cas de prévoyance ne soit survenu, le droit à la prestation de sortie est régi par l’art. 18*d*, al. 6 et 7.
 
-[^81a-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^81a-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 82
 
@@ -1333,7 +1353,7 @@ La personne assurée doit fournir les justificatifs autorisant le paiement en es
 
 <sup>7</sup> Si, au cours des trois dernières années précédant le versement en espèces, la personne assurée a effectué un rachat pour améliorer sa couverture d’assurance, les éventuelles restrictions légales sur le paiement sont réservées.
 
-[^83-1]: Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^83-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 [^83-2]: Abrogé par par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 84
@@ -1350,7 +1370,7 @@ Si les rapports de travail d’une personne assurée âgée de plus de 60 ans r�
 
 <sup>2</sup> Les personnes assurées qui ont atteint l’âge de 65 ans ne peuvent demander le transfert de la prestation de sortie selon l’al. 1, let. a, que si selon le règlement de l’institution de prévoyance de leur nouvel employeur, elles sont admises dans l’assurance et maintiennent leur prévoyance conformément à l’art. 33*b* LPP.[^84-3]
 
-[^84-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 (RO **201****2** 2091).
+[^84-1]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^84-2]: Introduite par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^84-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 
@@ -1387,10 +1407,10 @@ Le montant minimum au sens de l’art. 17 LFLP, déduction faite des versements 
 
 <sup>5</sup> La majoration prévue à l’al. 2, let. b, ne s’applique pas aux cotisations d’épargne que la personne assurée a versées en lieu et place de l’employeur lors d’un congé non payé selon l’art. 18*a*, en cas de maintien de la prévoyance selon l’art. 18*c* ou en cas de maintien de l’assurance selon l’art. 18*d*.[^85-5]
 
-[^85-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 (RO **201****8** 4751).
+[^85-1]: Nouvelle teneur selon le ch. I de la D de l’OP EPF du 24 sept. 2018, approuvée par le CF le 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4751](https://fedlex.data.admin.ch/eli/oc/2018/755)).
 [^85-2]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)). Abrogé par le ch. I de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
 [^85-3]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
-[^85-4]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 (RO **2****012** 2091).
+[^85-4]: Nouvelle teneur selon le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)).
 [^85-5]: Introduit par le ch. I des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)). Nouvelle teneur selon le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 86
@@ -1453,7 +1473,7 @@ Si la personne assurée passe de la caisse de prévoyance du domaine des EPF à 
 
 <sup>2</sup> PUBLICA peut percevoir des frais administratifs pour les montants accordés à titre de versement anticipé et de mise en gage dans le cadre de l’encouragement à la propriété du logement. Ces frais sont définis dans le règlement relatif aux émoluments. Sur demande préalable, la personne assurée sera informée de leur montant.
 
-[^91-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^91-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 #### Art. 92
 
@@ -1819,7 +1839,7 @@ Les personnes assurées qui ont atteint l’âge de 62 ans avant le 1<sup>er</su
 - a. ne peuvent plus rembourser ces versements anticipés; les obligations visées à l’art. 93, al. 1, ne s’appliquent plus;
 - b. peuvent effectuer des rachats pour autant que leur montant, additionné à celui des versements anticipés, n’excède pas les prestations maximales établies par le présent règlement.
 
-[^107h-1]: Introduit par le ch. I des D de l'OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
+[^107h-1]: Introduit par le ch. I des D de l’OP EPF des 26 mars/20 nov. 2020, approuvée par le CF le 26 janv. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2022 74](https://fedlex.data.admin.ch/eli/oc/2022/74)).
 
 ### Section 2 Entrée en vigueur
 
@@ -1831,7 +1851,7 @@ Les personnes assurées qui ont atteint l’âge de 62 ans avant le 1<sup>er</su
 
 <sup>2</sup> Des modifications du règlement de prévoyance entraînent une modification du contrat d’affiliation. Pour être valables, elles nécessitent l’approbation des partenaires du contrat d’affiliation et de l’organe paritaire ainsi que la ratification par le Conseil fédéral.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 8)
 
@@ -1860,11 +1880,11 @@ Le taux minimum LPP pour l’année 2017 est 1,00 %.
 
 [^annex1-lvlu1-1]: Les taux d’intérêts actuels peuvent être consultés sur le site Internet de PUBLICA.
 
-Annexe 1a*[^t-2]*
+Annexe 1a[^t-2]
 
 [^t-2]: Introduite par le ch. II, al. 3, des D de l’OP EPF des 31 mars/10 mai 2011, approuvées par le Conseil des EPF les 6/7 juil. 2011 et par le CF le 19 oct. 2011 ([RO 2012 2119](https://fedlex.data.admin.ch/eli/oc/2012/277)). Abrogée par le ch. II al. 1 de la D de l’OP EPF du 30 nov. 2017, approuvée par le Conseil des EPF les 13/14 déc. 2017 et par le CF le 25 avr. 2018, avec effet au 1<sup>er</sup> mai 2018 ([RO 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 27, al. 2)
 
@@ -1875,7 +1895,7 @@ Annexe 2*[^t-3]*
 - a. Plan standard pour les personnes salariées jusqu’à l’échelon de fonction 9 compris et pour les personnes rémunérées par un forfait:
 
 <table>
-<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime** **de risque (art. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
+<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
 <tr><td>22–34</td><td>4,80</td><td>0,55</td><td>5,35</td><td>8,45</td><td>**(au moins 0,55)**</td></tr>
 <tr><td>35–44</td><td>6,05</td><td>0,55</td><td>6,60</td><td>10,70</td><td></td></tr>
 <tr><td>45–54</td><td>9,45</td><td>0,55</td><td>10,00</td><td>16,75</td><td></td></tr>
@@ -1885,7 +1905,7 @@ Annexe 2*[^t-3]*
 - b. Plan pour cadres 1 pour les personnes salariées des échelons de fonction 10 à 12 compris:
 
 <table>
-<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art.** **26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
+<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
 <tr><td>22–34</td><td>4,80</td><td>0,55</td><td>5,35</td><td>8,45</td><td>**(au moins 0,55%)**</td></tr>
 <tr><td>35–44</td><td>6,05</td><td>0,55</td><td>6,60</td><td>10,70</td><td></td></tr>
 <tr><td>45–54</td><td>10,50</td><td>0,55</td><td>11,05</td><td>18,60</td><td></td></tr>
@@ -1895,14 +1915,14 @@ Annexe 2*[^t-3]*
 - c. Plan pour cadres 2 pour les personnes salariées des échelons de fonction 13 et plus:
 
 <table>
-<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (ar****t. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
+<tr><th>Classe d’âge (classe de cotisation)</th><th>**Cotisation d’épargne (art. 24) de la personne salariée (%)**</th><th>**Prime de risque (art. 26) de la personne salariée (%)**</th><th>**Total**</th><th>**Cotisation d’épargne (art. 24) de l’employeur (%)**</th><th>**En sus: prime de risque de l’employeur (%)**</th></tr>
 <tr><td>22–34</td><td>5,80</td><td>0,55</td><td>6,35</td><td>10,30</td><td>**(au moins 0,55%)**</td></tr>
 <tr><td>35–44</td><td>7,05</td><td>0,55</td><td>7,60</td><td>12,50</td><td></td></tr>
 <tr><td>45–54</td><td>11,50</td><td>0,55</td><td>12,05</td><td>20,50</td><td></td></tr>
 <tr><td>55–70</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
 </table>
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 32)
 
@@ -1965,7 +1985,7 @@ Homme, né le 15 mai 1980, gain assuré(Ga) = 50 000 francs, assuré dans le pla
 
 - 1\. Date de calcul: 1<sup>er</sup> janvier 2019 Avoir de vieillesse acquis 20 000 francs 🡪 âge LPP – 1 = 38 🡪 taux = 239,25 % 🡪 rachat max. = 239,25 % × 50 000 – 20 000 = 99 625 francs
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 (art. 39, 46 et 57)
 
@@ -1988,7 +2008,7 @@ Annexe 4*[^t-5]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Annexe 5*[^t-6]*
+Annexe 5[^t-6]
 
 (art. 60, al. 4, let. a et c)
 
@@ -2097,7 +2117,7 @@ Calcul:
 - a. âge AVS 65: 22,579 × 241,85 × 12 = **65 528,75 francs**
 - b. âge AVS 64: 21,346 × 207,85 × 12 = **53 241,20 francs**
 
-Annexe 6*[^t-7]*
+Annexe 6[^t-7]
 
 (art. 60, al. 4, let. b, et 5)
 
@@ -2176,7 +2196,7 @@ Montant selon les tableaux a ou b × participation de la personne salariée × (
 - a. âge AVS 65: 267,65 × 0,5 × 2,32 = **310,45 francs**
 - b. âge AVS 64: 219,20 × 0,5 × 2,32 = **254,25 francs**
 
-**II. Réduction des rente****s pour survivants (art. 60, al. 5)**
+**II. Réduction des rentes pour survivants (art. 60, al. 5)**
 
 <table>
 <tr><th></th><th colspan="2">Diminution annuelle de la réduction différée (pour la différence entre l’âge ordinaire de l’AVS et l’âge au moment du décès)</th></tr>
@@ -2201,7 +2221,7 @@ B. Calcul/réduction de la rente d’orphelin:
 
 La rente d’orphelin se monte à un sixième de la rente de vieillesse réduite, soit 952,85 francs.
 
-Annexe 7*[^t-8]*
+Annexe 7[^t-8]
 
 (art. 102, al. 2, 107*a*, al. 1, 107*b*, al. 1, et 107*f*, al. 1)
 
@@ -2345,7 +2365,7 @@ Montant selon tableau a ou b × part. salarié × (RT mensuelle/1000) = réducti
 - a. âge AVS 65: 338.25 × 0.5 × 2.32 = **392 fr. 35**
 - b. âge AVS 64: 271.95 × 0.5 × 2.32 = **315 fr. 45**
 
-**IV. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil****lesse née entre le 1****<sup>er</sup>** **janvier 2015 et le 31 décembre 2018 (art. 107*****f*****, al. 1)**
+**IV. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1****<sup>er</sup>** **janvier 2015 et le 31 décembre 2018 (art. 107*****f*****, al. 1)**
 
 a) âge AVS 65
 
@@ -2413,7 +2433,7 @@ Facteur selon les tableaux a et b × (RT mensuelle/1000) = réduction mensuelle 
 - a. 196,40 × 2,21 = **434,05 francs**
 - b. 149,30 × 2,21 = **329,95 francs**
 
-Annexe 8*[^t-9]*
+Annexe 8[^t-9]
 
 (art. 5)
 

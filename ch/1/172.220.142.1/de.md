@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 3. Dezember 2007 des Vorsorgewerks ETH-Bereich für
 short: VR-ETH 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/191"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2012-191-20220701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-191-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20220701/de"
 
 (VR-ETH 1)
 
-vom 3. Dezember 2007 (Stand am 1. Juli 2022)
+vom 3. Dezember 2007 (Stand am 1. Januar 2023)
 
 Das paritätische Organ des Vorsorgewerks ETH-Bereich (PO ETH),
 
@@ -1073,7 +1073,7 @@ Die Invaliden-Kinderrente beträgt einen Sechstel der Invalidenrente; bei Scheid
 
 [^59-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 1. Dez. 2016, genehmigt vom ETH-Rat am 7. Dez. 2016 und vom BR am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
 
-## 7. Kapitel: Überbrückungsrente und Sozialplan****
+## 7. Kapitel: Überbrückungsrente und Sozialplan
 
 [^chap7-1]
 
@@ -1128,7 +1128,27 @@ Die versicherte Person teilt PUBLICA spätestens drei Monate vor dem Bezug der �
 
 #### Art. 64
 
-Beendet der Arbeitgeber das Arbeitsverhältnis einer versicherten Person, die das 58. Altersjahr beendet hat, ohne dass sie daran ein Verschulden trifft, so entsteht ein Anspruch auf eine lebenslängliche Altersrente und eine vom Arbeitgeber finanzierte Überbrückungsrente gemäss Artikel 61. Die Höhe der Altersrente richtet sich nach Artikel 63 Absatz 2. Für die Finanzierung der Altersrente und der Überbrückungsrente findet Artikel 62 Absatz 10 sinngemäss Anwendung.
+[^64-1]
+
+<sup>1</sup> Wird das Arbeitsverhältnis einer versicherten Person, die das 60. Altersjahr vollendet hat, gemäss den arbeitsrechtlichen Bestimmungen (Art. 21-23 PVO-ETH) nach Sozialplan beendet, so entsteht ein Anspruch auf eine lebenslängliche Altersrente und eine vom Arbeitgeber vollständig finanzierte Überbrückungsrente gemäss Artikel 61.
+
+<sup>2</sup>
+
+Hat die versicherte Person bei Beginn des Anspruchs auf Altersleistungen das 63. Altersjahr noch nicht vollendet, so erhält sie die Altersrente, die ihr im Falle der Pensionierung bei Vollendung des 63. Altersjahres zustünde. Massgebend ist der Umwandlungssatz gemäss Anhang 4 im Zeitpunkt der Entstehung des Rentenanspruchs. Als Altersguthaben werden angerechnet:
+
+- a. das Altersguthaben nach Artikel 36, das die versicherte Person bis zum Beginn des Anspruchs auf Altersleistungen erworben hat;
+- b. die Summe der Altersgutschriften nach Artikel 24 ab Beginn des Anspruchs auf Altersleistungen bis zur Vollendung des 63. Altersjahres; massgebend für die Höhe der Altersgutschriften ist der versicherte Verdienst unmittelbar vor Beginn des Anspruchs auf Altersleistungen; und
+- c. der Zins von zwei Prozent pro Jahr für die Zeit vom Beginn des Anspruchs auf Altersleistungen bis zur Vollendung des 63. Altersjahres; Artikel 36 Absätze 4, 5 und 7 gilt sinngemäss.
+
+<sup>3</sup> Hat die versicherte Person bei Beginn des Anspruchs auf Altersleistungen das 63. Altersjahr vollendet, so erhält sie die Altersrente nach Artikel 39.
+
+<sup>4</sup> Ein allfälliges Guthaben aus dem ZP-Konto (Art. 25) kann zur Erhöhung der nach den Absätzen 2 und 3 festgelegten Altersrente verwendet werden.
+
+<sup>5</sup> Das Altersguthaben nach Artikel 36 und das Guthaben aus dem ZP-Konto können in Anwendung von Artikel 40 als einmalige Kapitalabfindung bezogen werden. Bei einem Anspruch auf die Altersrente nach Absatz 2 wird das Altersguthaben gemäss Absatz 2 Buchstabe c projiziert, danach im Umfang des Bezugs des Altersguthabens als Kapitalabfindung reduziert und die Altersrente auf dieser neuen Basis berechnet.
+
+<sup>6</sup> Der Arbeitgeber überweist PUBLICA das für die Finanzierung der Altersrente nach Absatz 2 und der Überbrückungsrente fehlende Deckungskapital.
+
+[^64-1]: Fassung gemäss Ziff. I des Beschlusses des PO ETH vom 19. Aug. 2022, vom BR genehmigt am 23. Nov. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 749](https://fedlex.data.admin.ch/eli/oc/2022/749)).
 
 ## 8. Kapitel: Gemeinsame Bestimmungen zu den Leistungen
 
@@ -1833,7 +1853,7 @@ Versicherte, die vor dem 1. Dezember 2020 das 62. Altersjahr vollendet und vor d
 
 <sup>2</sup> Änderungen des Vorsorgereglements stellen eine Änderung des Anschlussvertrags dar. Sie bedürfen zu ihrer Gültigkeit der Zustimmung der Vertragspartner des Anschlussvertrags und des paritätischen Organs sowie der Genehmigung durch den Bundesrat.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 8)
 
@@ -1860,11 +1880,11 @@ Der BVG-Mindestzins im Jahr 2017 beträgt: 1,00 %.
 
 [^annex1-lvlu1-1]: Die aktuellen Zinssätze sind auf der Homepage von PUBLICA abrufbar.
 
-Anhang 1a*[^t-2]*
+Anhang 1a[^t-2]
 
 [^t-2]: Eingefügt durch Ziff. II Abs. 1 der Beschlüsse des PO ETH vom 31. März/10. Mai 2011, genehmigt vom ETH-Rat am 6./7. Juli 2011 und vom BR am 19. Okt. 2011 ([AS 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)). Aufgehoben durch Ziff. II Abs. 1 des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, mit Wirkung seit 1. Mai 2018 ([AS 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 (Art. 27 Abs. 2)
 
@@ -1875,7 +1895,7 @@ Anhang 2*[^t-3]*
 - a. Standardplan für angestellte Personen bis und mit Funktionsstufe 9 und für die pauschal entschädigten Personen:
 
 <table>
-<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag (Art. 24) der angestellten Pe****r****son (%)**</th><th>**Risikoprämie (Art. 26) der angestellten Pe****r****son (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitg****e****bers (%)**</th><th>**zuzüglich Risik****o****prämie des A****r****beit****gebers (%)**</th></tr>
+<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag (Art. 24) der angestellten Person (%)**</th><th>**Risikoprämie (Art. 26) der angestellten Person (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitgebers (%)**</th><th>**zuzüglich Risikoprämie des Arbeit****gebers (%)**</th></tr>
 <tr><td>22–34</td><td>4,80</td><td>0,55</td><td>5,35</td><td>8,45</td><td>**(mind. 0,55 %)**</td></tr>
 <tr><td>35–44</td><td>6,05</td><td>0,55</td><td>6,60</td><td>10,70</td><td></td></tr>
 <tr><td>45–54</td><td>9,45</td><td>0,55</td><td>10,00</td><td>16,75</td><td></td></tr>
@@ -1885,7 +1905,7 @@ Anhang 2*[^t-3]*
 - b. Kaderplan 1 für angestellte Personen ab Funktionsstufe 10 bis und mit Funktionsstufe 12:
 
 <table>
-<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag der angestellten Pe****r****son (%)**</th><th>**Risikoprämie (Art. 26) der angestel****l****ten Person (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitg****e****bers (%)**</th><th>**zuzüglich Risik****o****prämie des A****r****beit****gebers (%)**</th></tr>
+<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag der angestellten Person (%)**</th><th>**Risikoprämie (Art. 26) der angestellten Person (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitgebers (%)**</th><th>**zuzüglich Risikoprämie des Arbeit****gebers (%)**</th></tr>
 <tr><td>22–34</td><td>4,80</td><td>0,55</td><td>5,35</td><td>8,45</td><td>**(mind. 0,55 %)**</td></tr>
 <tr><td>35–44</td><td>6,05</td><td>0,55</td><td>6,60</td><td>10,70</td><td></td></tr>
 <tr><td>45–54</td><td>10,50</td><td>0,55</td><td>11,05</td><td>18,60</td><td></td></tr>
@@ -1895,14 +1915,14 @@ Anhang 2*[^t-3]*
 - c. Kaderplan 2 für angestellte Personen ab Funktionsstufe 13:
 
 <table>
-<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbe****i****trag der angestellten Pe****r****son (%)**</th><th>**Risikoprämie (Art. 26) der angestellten Pe****r****son (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitg****e****bers (%)**</th><th>**zuzüglich Risik****o****prämie des A****r****beit****gebers (%)**</th></tr>
+<tr><th>Altersstaffelung (Beitragsklasse)</th><th>**Sparbeitrag der angestellten Person (%)**</th><th>**Risikoprämie (Art. 26) der angestellten Person (%)**</th><th>**Total**</th><th>**Sparbeitrag (Art. 24) des Arbeitgebers (%)**</th><th>**zuzüglich Risikoprämie des Arbeit****gebers (%)**</th></tr>
 <tr><td>22–34</td><td>5,80</td><td>0,55</td><td>6,35</td><td>10,30</td><td>**(mind. 0,55 %)**</td></tr>
 <tr><td>35–44</td><td>7,05</td><td>0,55</td><td>7,60</td><td>12,50</td><td></td></tr>
 <tr><td>45–54</td><td>11,50</td><td>0,55</td><td>12,05</td><td>20,50</td><td></td></tr>
 <tr><td>55–70</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
 </table>
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 (Art. 32)
 
@@ -1965,7 +1985,7 @@ Mann, geboren am 15. Mai 1980, versicherter Verdienst = Fr. 50 000.–, versiche
 
 - 1\. Datum der Berechnung: 1. Januar 2019 erworbenes Altersguthaben Fr. 20 000.– 🡪BVG Alter -1 = 38 🡪 Satz = 239,25 % 🡪 max. Einkauf = 239,25 % × 50 000 – 20 000 = Fr. 99 625.–.
 
-Anhang 4*[^t-5]*
+Anhang 4[^t-5]
 
 (Art. 39, 46 und 57)
 
@@ -1988,7 +2008,7 @@ Anhang 4*[^t-5]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Anhang 5*[^t-6]*
+Anhang 5[^t-6]
 
 (Art. 60 Abs. 4 Bst. a und c)
 
@@ -2069,7 +2089,7 @@ Betrag gemäss Tabelle 1a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/1
 
 Tabelle 2:
 
-**Auskauf der Kürzung der** **monatlichen** **Altersrente bei sofort beginnender lebenslänglicher Kürzung (Art. 60 Abs. 4 Bst. c)**
+**Auskauf der Kürzung der** **monatlichen** **Altersrente bei sofort beginnender** **lebenslänglicher Kürzung (Art. 60 Abs. 4 Bst. c)**
 
 <table>
 <tr><th colspan="3">Barwerte für den Auskauf der Rentenkürzung</th></tr>
@@ -2097,7 +2117,7 @@ Berechnung:
 - a. AHV-Alter 65: 22.579 × 241.85 × 12 = **Fr. 65 528.75**
 - b. AHV-Alter 64: 21.346 × 207.85 × 12 = **Fr. 53 241.20**
 
-Anhang 6*[^t-7]*
+Anhang 6[^t-7]
 
 (Art. 60 Abs. 4 Bst. b und 5)
 
@@ -2105,7 +2125,7 @@ Anhang 6*[^t-7]*
 
 [^t-7]: Fassung gemäss Ziff. II Abs 2 des Beschlusses des PO ETH vom 30. Nov. 2017, genehmigt vom ETH-Rat am 13./14. Dez. 2017 und vom BR am 25. April 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
 
-**Kürzung der monatlichen Altersrente beim Bezug der Überbrückungsrente (ÜR) und Auskauf der Rentenkürzung – lebenslängliche Kürzung nach Erre****i****chen des AHV-Alters**
+**Kürzung der monatlichen Altersrente beim Bezug der Überbrückungsrente (ÜR) und Auskauf der Rentenkürzung – lebenslängliche Kürzung nach Erreichen des AHV-Alters**
 
 I. **Lebenslängliche** Kürzung nach Erreichen des AHV-Alters
 
@@ -2201,7 +2221,7 @@ B. Berechnung/Kürzung der Waisenrente:
 
 Die Waisenrente beträgt einen Sechstel der gekürzten Altersrente, also Fr. 952.85.
 
-Anhang 7*[^t-8]*
+Anhang 7[^t-8]
 
 (Art. 102 Abs. 2, 107*a* Abs. 1, 107*b* Abs. 1 und 107*f* Abs. 1)
 
@@ -2278,7 +2298,7 @@ Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/10
 - a. AHV-Alter 65: 368.20 × 0.5 × 2.21 = **Fr. 406.85**
 - b. AHV-Alter 64: 280.30 × 0.5 × 2.21 = **Fr. 309.75**
 
-**III. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem 31. Dezember 2014 entstandenen monatl****i****chen Altersrente wegen bezogener Überbrückungsrente (Art. 107b Abs. 1**
+**III. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Juli 2012 und dem 31. Dezember 2014 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art. 107b Abs. 1**
 
 Tabelle:
 
@@ -2345,7 +2365,7 @@ Betrag gemäss Tabelle a oder b × Anteil des Arbeitnehmers × (ÜR pro Monat/10
 - a. AHV-Alter 65: 338.25 × 0.5 × 2.32 = **Fr. 392.35**
 - b. AHV-Alter 64: 271.95 × 0.5 × 2.32 = **Fr. 315.45**
 
-**IV. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Januar 2015 und dem 31. Dezember 2018 entstandenen monatlichen Altersrente wegen bezog****e****ner Überbrückungsrente (Art.** **107*****f*** **Abs. 1****)**
+**IV. Bei Erreichen des AHV-Alters beginnende lebenslängliche Kürzung der zwischen dem 1. Januar 2015 und dem 31. Dezember 2018 entstandenen monatlichen Altersrente wegen bezogener Überbrückungsrente (Art.** **107*****f*** **Abs. 1****)**
 
 a) AHV-Alter 65
 
@@ -2413,7 +2433,7 @@ Faktor gemäss Tabellen a und b × (ÜR pro Monat/1000) = lebenslängliche Kürz
 - a. 196.40 × 2.21 = **Fr. 434.05**
 - b. 149.30 × 2.21 = **Fr. 329.95**
 
-Anhang 8*[^t-9]*
+Anhang 8[^t-9]
 
 (Art. 5)
 

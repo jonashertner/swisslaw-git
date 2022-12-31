@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 3 dicembre 2007 della Cassa di previdenza d
 short: RP-PF 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/191"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-12-03
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-191-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/191/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-191-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/191/20220701/it"
 
 (RP-PF 1)
 
-del 3 dicembre 2007 (Stato 1° luglio 2022)
+del 3 dicembre 2007 (Stato 1° gennaio 2023)
 
 L’organo paritetico della Cassa di previdenza del Settore dei PF (OP PF),
 
@@ -1073,7 +1073,7 @@ La rendita per figli del beneficiario di una rendita di invalidità ammonta a un
 
 [^59-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 1° dic. 2016, approvata dal Consiglio dei PF il 7 dic. 2016 e dal CF il 10 mag. 2017, in vigore il 1° gen. 2017 ([RU 2017 3291](https://fedlex.data.admin.ch/eli/oc/2017/344)).
 
-## Capitolo 7: Rendita transitoria e piano sociale****
+## Capitolo 7: Rendita transitoria e piano sociale
 
 [^chap7-1]
 
@@ -1128,7 +1128,27 @@ La persona assicurata comunica a PUBLICA, al più tardi tre mesi prima della ris
 
 #### Art. 64
 
-Se il datore di lavoro scioglie il rapporto di lavoro con una persona assicurata che ha compiuto il 58° anno di età, senza che questa ne abbia colpa, è dato diritto a una rendita di vecchiaia a vita e a una rendita transitoria ai sensi dell’articolo 61, finanziata dal datore di lavoro. L’entità della rendita di vecchiaia è retta dall’articolo 63 capoverso 2. L’articolo 62 capoverso 10 si applica per analogia al finanziamento della rendita di vecchiaia e della rendita transitoria.
+[^64-1]
+
+<sup>1</sup> Se il rapporto di lavoro di una persona assicurata che ha compiuto il 60° anno di età cessa conformemente alle disposizioni del diritto del lavoro (art. 21–23 OPers PF) secondo il piano sociale, nasce il diritto a una rendita di vecchiaia vitalizia e a una rendita transitoria ai sensi dell’articolo 61 finanziata integralmente dal datore di lavoro.
+
+<sup>2</sup>
+
+Se all’inizio del diritto alle prestazioni di vecchiaia la persona assicurata non ha ancora compiuto il 63° anno di età, riceve la rendita di vecchiaia che le spetterebbe in caso di pensionamento dopo il compimento dei 63 anni. Determinante è l’aliquota di conversione ai sensi dell’allegato 4 al momento in cui sorge il diritto alla rendita. Sono computati come avere di vecchiaia:
+
+- a. l’avere di vecchiaia ai sensi dell’articolo 36 che la persona assicurata ha acquisito fino all’inizio del diritto alle prestazioni di vecchiaia;
+- b. la somma degli accrediti di vecchiaia secondo l’articolo 24 a contare dall’inizio del diritto alle prestazioni di vecchiaia fino al compimento del 63° anno di età; ai fini dell’entità degli accrediti di vecchiaia è determinante il guadagno assicurato immediatamente prima dell’inizio del diritto alle prestazioni di vecchiaia; e
+- c. l’interesse del due per cento l’anno a contare dall’inizio del diritto alle prestazioni di vecchiaia fino al compimento del 63° anno di età; l’articolo 36 capoversi 4, 5 e 7 si applica per analogia.
+
+<sup>3</sup> Se la persona assicurata ha compiuto il 63° anno di età all’inizio del diritto alle prestazioni di vecchiaia, percepisce la rendita di vecchiaia ai sensi dell’articolo 39.
+
+<sup>4</sup> Un eventuale avere proveniente dal conto del PC (art. 25) può essere utilizzato per aumentare la rendita di vecchiaia stabilita conformemente ai capoversi 2 e 3.
+
+<sup>5</sup> L’avere di vecchiaia ai sensi dell’articolo 36 e un avere proveniente dal conto del PC possono essere prelevati come liquidazione unica in capitale in applicazione dell’articolo 40. In caso di un diritto alla rendita di vecchiaia ai sensi del capoverso 2, l’avere di vecchiaia è proiettato secondo il capoverso 2 lettera c, quindi ridotto in misura corrispondente alla liquidazione in capitale ottenuta e la rendita di vecchiaia viene calcolata su questa nuova base.
+
+<sup>6</sup> Il datore di lavoro trasferisce a PUBLICA il capitale di copertura mancante per il finanziamento della rendita di vecchiaia ai sensi del capoverso 2 e della rendita transitoria.
+
+[^64-1]: Nuovo testo giusta il n. I della Dec. dell’OP PF del 19 ago. 2022, approvata dal CF il 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 749](https://fedlex.data.admin.ch/eli/oc/2022/749)).
 
 ## Capitolo 8: Disposizioni comuni concernenti le prestazioni
 
@@ -1832,7 +1852,7 @@ Gli assicurati che hanno compiuto il 62° anno di età prima del 1° dicembre 20
 
 <sup>2</sup> Le modifiche del regolamento di previdenza costituiscono una modifica del contratto di affiliazione. La loro validità è subordinata al consenso della parte contraente al contratto di affiliazione e dell’organo paritetico nonché all’approvazione del Consiglio federale.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 8)
 
@@ -1859,11 +1879,11 @@ Nel 2017 l’interesse minimo LPP ammonta a: 1,00 %.
 
 [^annex1-lvlu1-1]: Gli interessi attuali sono disponibili sul sito di PUBLICA.
 
-Allegato 1a*[^t-2]*
+Allegato 1a[^t-2]
 
 [^t-2]: Introdotto dal n. II cpv. 3 delle Dec. dell’OP PF del 31 mar./10 mag. 2011, approvate dal Consiglio dei PF il 6/7 lug. 2011 e dal CF il 19 ott. 2011 ([RU 2012 2091](https://fedlex.data.admin.ch/eli/oc/2012/276)). Abrogato dal n. II cpv. 1 della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF il 13/14 dic. 2017 e dal CF il 25 apr. 2018, con effetto dal 1° mag. 2018 ([RU 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 27 cpv. 2)
 
@@ -1901,7 +1921,7 @@ Allegato 2*[^t-3]*
 <tr><td>55–70</td><td>14,25</td><td>0,55</td><td>14,80</td><td>25,30</td><td></td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 32)
 
@@ -1964,7 +1984,7 @@ Uomo, nato il 15 maggio 1980, guadagno assicurato = fr. 50 000.–, assicurato n
 
 - 1\. Data del calcolo: 1° gennaio 2019 avere di vecchiaia acquisito fr. 20 000.– 🡪 età LPP – 1 = 38 🡪 tasso = 239,25 % 🡪 riscatto max. = 239,25 % × 50 000 – 20 000 = fr. 99 625.–
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 39, 46 e 57)
 
@@ -1987,7 +2007,7 @@ Allegato 4*[^t-5]*
 <tr><td>70</td><td>5,96 %</td></tr>
 </table>
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 60 cpv. 4 lett. a e c)
 
@@ -1995,7 +2015,7 @@ Allegato 5*[^t-6]*
 
 [^t-6]: Nuovo testo giusta il n. II cpv. 2 della Dec. dell’OP PF del 30 nov. 2017, approvata dal Consiglio dei PF il 13/14 dic. 2017 e dal CF il 25 apr. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2465](https://fedlex.data.admin.ch/eli/oc/2018/354)).
 
-**Riduzione della rendita mensile di vecchiaia all’ottenimento della rendita transitoria (RT) e riscatto della riduzione di rendita – riduzione a vita imm****e****diata**
+**Riduzione della rendita mensile di vecchiaia all’ottenimento della rendita transitoria (RT) e riscatto della riduzione di rendita – riduzione a vita immediata**
 
 Tabella 1:
 
@@ -2096,7 +2116,7 @@ Calcolo:
 - a. età AVS 65: 22.579 × 241.85 × 12 = **fr. 65 528.75**
 - b. età AVS 64: 21.346 × 207.85 × 12 = **fr. 53 241.20**
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 60 cpv. 4 lett. b e 5)
 
@@ -2106,7 +2126,7 @@ Allegato 6*[^t-7]*
 
 **Riduzione della rendita mensile di vecchiaia all’ottenimento della rendita transitoria (RT) e riscatto della riduzione di rendita – riduzione a vita a partire dal raggiungimento dell’età AVS**
 
-I. **Riduzione a vita a partire dal raggiungimento dell’età AVS (art. 60 cpv. 4 lett. b)**
+I. **Riduzione a vita a partire dal raggiungimento dell’età AVS** **(art. 60 cpv. 4 lett. b)**
 
 Tabella:
 
@@ -2198,7 +2218,7 @@ B. Calcolo/riduzione della rendita per orfani:
 
 La rendita per orfani ammonta a un sesto della rendita di vecchiaia ridotta, ovvero a fr. 952.85.
 
-Allegato 7*[^t-8]*
+Allegato 7[^t-8]
 
 (art. 102 cpv. 2, 107*a* cpv. 1, 107*b* cpv. 1 e 107*f* cpv. 1)
 
@@ -2306,7 +2326,7 @@ a) età AVS 65
 b) età AVS 64
 
 <table>
-<tr><td></td><td colspan="7">Mese</td></tr>
+<tr><th></th><th colspan="7">Mese</th></tr>
 <tr><td></td><td></td><td>**0**</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>
 <tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>**271.95**</td><td>265.95</td><td>259.95</td><td>254.00</td><td>248.00</td><td>242.00</td></tr>
 <tr><td></td><td>**61**</td><td>**200.05**</td><td>194.30</td><td>188.50</td><td>182.75</td><td>176.95</td><td>171.20</td></tr>
@@ -2383,7 +2403,7 @@ b) età AVS 64
 </table>
 
 <table>
-<tr><td></td><td colspan="7">Mese</td></tr>
+<tr><th></th><th colspan="7">Mese</th></tr>
 <tr><td></td><td></td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr>
 <tr><td>Età all'inizio dell'ottenimento della rendita</td><td>60</td><td>214.65</td><td>209.25</td><td>203.90</td><td>198.50</td><td>193.10</td><td>187.75</td></tr>
 <tr><td></td><td>**61**</td><td>151.00</td><td>145.80</td><td>140.55</td><td>135.35</td><td>130.10</td><td>124.90</td></tr>
@@ -2412,7 +2432,7 @@ Fattore secondo le tabelle a e b x (RT al mese/1000) = riduzione a vita della re
 - a. 196.40 × 2.21 = **fr. 434.05**
 - b. 149.30 × 2.21 = **fr. 329.95**
 
-Allegato 8*[^t-9]*
+Allegato 8[^t-9]
 
 (art. 5)
 
