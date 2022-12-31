@@ -4,7 +4,7 @@ number: "850.053"
 title: LOI du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (LPCFam)
 short: LPCFam
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed"
 ---
 
@@ -34,20 +34,21 @@ décrète
 
 **Autorités compétentes [^1-1]**
 
-<sup>1</sup> Le département en charge de l'action sociale (ci-après : le département)[^1a-1], par le service en charge des assurances sociales (ci-après : le service) est l'autorité compétente pour exécuter la loi lorsque celle-ci n'en dispose pas autrement.
+<sup>1</sup> Le département en charge de l'action sociale (ci-après : le département), par la direction en charge de la cohésion sociale est l'autorité compétente pour exécuter la loi lorsque celle-ci n'en dispose pas autrement.
 
-[^1-1]: Modif. 3 du 08.12.2015: Introduction Art. 1a; entrée en vigueur au 01.01.2016 · Modif. 10 du 20.12.2022: Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 1b, Al. 1bis; entrée en vigueur au 01.01.2023
-[^1a-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^1-1]: Modif. 3 du 08.12.2015: Introduction Art. 1a; entrée en vigueur au 01.01.2016 · Modif. 10 du 20.12.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 1b
 
-**Organisation et délégation [^1a-2]**
+**Organisation et délégation [^1a-1]**
 
 <sup>1</sup> Le Conseil d'Etat délègue à un ou plusieurs organes décisionnels décentralisés (ci-après : organes décisionnels) l'exécution des tâches relatives aux prestations régies par la présente loi, à l'exception de celles prévues par l'article 27b.
 
+<sup>1bis</sup> La direction en charge de la cohésion sociale a la compétence de dénoncer aux autorités pénales compétentes les infractions à la présente loi ou de porter plainte, avec tous les droits au sens de l'article 104, alinéa 2 CPP, contre toute personne responsable de violations à la présente loi. La direction en charge de la cohésion sociale peut déléguer cette compétence à l'agence d'assurance sociale de Lausanne, par son organe décisionnel.
+
 <sup>2</sup> Les organes décisionnels sont rattachés à des collectivités publiques ou à des personnes morales de droit public.
 
-[^1a-2]: Modif. 3 du 08.12.2015: Introduction Art. 1b; entrée en vigueur au 01.01.2016 · Modif. 6 du 11.12.2018: Modification Al. 1; entrée en vigueur au 01.03.2019 · Modif. 10 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
+[^1a-1]: Modif. 3 du 08.12.2015: Introduction Art. 1b; entrée en vigueur au 01.01.2016 · Modif. 6 du 11.12.2018: Modification Al. 1; entrée en vigueur au 01.03.2019 · Modif. 10 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
 
 #### Art. 1c
 
