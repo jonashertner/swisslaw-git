@@ -4,13 +4,12 @@ number: "411.0.11"
 title: Reglement zum Gesetz über die obligatorische Schule
 short: SchR
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-14
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2016-04-19
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7573/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Obligatorische Schule – R
 
 (SchR)
 
-vom 19.04.2016 (Fassung in Kraft getreten am 01.08.2022)
+vom 19.04.2016 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -41,23 +40,27 @@ beschliesst:
 
 #### Art. 1
 
-**Beginn der Schulpflicht (Art. 6 Abs. 1 SchG)**
+**Beginn der Schulpflicht (Art. 6 Abs. 1 SchG[^1-1])**
 
 <sup>1</sup> Die Gemeinden erstellen jährlich die Liste der auf ihrem Gebiet wohnhaften Kinder, welche die obligatorische Schule beginnen sollen, und benachrichtigen die betroffenen Eltern bis zum 31. Januar.
 
 <sup>2</sup> Die Schuldirektion stellt zu Schuljahresbeginn sicher, dass die Schulpflicht auf der Grundlage der von den Gemeinden gelieferten Informationen erfüllt wird.
 
+[^1-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 2
 
-**Ausnahme vom Schuleintrittsalter (Art. 6 Abs. 2 SchG)**
+**Ausnahme vom Schuleintrittsalter (Art. 6 Abs. 2 SchG[^2-1])**
 
 <sup>1</sup> Die Eltern können bis zum 30. März ein schriftliches Gesuch an das Schulinspektorat richten, um das Schuleintrittsalter ihres Kindes aufzuschieben.
 
 <sup>2</sup> Das Schulinspektorat bespricht sich mit den Eltern, bevor es die Ausnahme schriftlich bewilligt; eine Kopie der Bewilligung geht an die Schuldirektion und an die Gemeinde, in der das Kind seinen Wohnsitz oder ständigen Aufenthalt hat.
 
+[^2-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 3
 
-**Änderung des Wohnorts oder der Unterrichtsform (Art. 5 Abs. 1 und Art. 13 SchG)**
+**Änderung des Wohnorts oder der Unterrichtsform (Art. 5 Abs. 1 und Art. 13 SchG[^3-1])**
 
 <sup>1</sup> Wechselt eine Schülerin oder ein Schüler den Wohnsitz oder ständigen Aufenthaltsort, so benachrichtigen die Eltern unverzüglich die Gemeinde des neuen Wohnsitzes oder des neuen ständigen Aufenthaltsortes.
 
@@ -69,9 +72,11 @@ beschliesst:
 
 <sup>5</sup> Die Schuldirektion entscheidet über die Klassenzuteilung.
 
+[^3-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 4
 
-**Ständiger Aufenthaltsort (Art. 13 Abs. 1 SchG)**
+**Ständiger Aufenthaltsort (Art. 13 Abs. 1 SchG[^4-1])**
 
 <sup>1</sup> Der ständige Aufenthaltsort eines Kindes, das nicht bei seinen Eltern wohnt, befindet sich in der Gemeinde, wo sich das Kind mindestens zwischen Montag und Freitag, tagsüber und in der Nacht, üblicherweise und dauerhaft aufhält.
 
@@ -81,9 +86,11 @@ beschliesst:
 
 <sup>4</sup> Im Falle der gemeinsamen elterlichen Sorge nach einer Trennung bestimmen die Eltern eine ihrer Wohnsitzgemeinden als Schulort des Kindes.
 
+[^4-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 5
 
-**Schulkreiswechsel (Art. 14 SchG) – Verfahren**
+**Schulkreiswechsel (Art. 14 SchG[^5-1]) – Verfahren**
 
 <sup>1</sup> Das für den Wohnsitz oder ständigen Aufenthaltsort der Schülerin oder des Schülers zuständige Schulinspektorat entscheidet auf begründetes schriftliches Gesuch der Eltern, der Schuldirektion oder der Kinderschutzbehörde hin über einen Schulkreiswechsel. Geht das Gesuch nicht von den Eltern aus, so werden diese angehört.
 
@@ -95,25 +102,32 @@ beschliesst:
 
 <sup>5</sup> Bei jedem Entscheid über einen angeordneten Schulkreiswechsel berücksichtigt das Schulinspektorat die Durchführbarkeit und die Kosten des Schülertransports unter Berücksichtigung des Verhältnismässigkeitsprinzips.
 
+[^5-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 6
 
-**Schulkreiswechsel (Art. 14 SchG) – Kosten (Art. 15 und 16 SchG)**
+**Schulkreiswechsel (Art. 14 SchG[^6-1]) – Kosten (Art. 15 und 16 SchG[^6-2])**
 
 <sup>1</sup> Die Höchstbeträge, die unter den Gemeinden sowie den Eltern verrechnet werden dürfen, werden per Verordnung festgelegt.
+
+[^6-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^6-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 7
 
 **Wechsel des Schulhauses innerhalb eines Schulkreises**
 
-<sup>1</sup> Das Schulinspektorat kann eine Schülerin oder einen Schüler ermächtigen oder verpflichten, ein anderes Schulhaus des gleichen Schulkreises im Sinne von Artikel 50 Abs. 3 des Schulgesetzes zu besuchen, wenn dies in ihrem oder seinem Interesse oder im Interesse der Schule liegt.
+<sup>1</sup> Das Schulinspektorat kann eine Schülerin oder einen Schüler ermächtigen oder verpflichten, ein anderes Schulhaus des gleichen Schulkreises im Sinne von Artikel 50 Abs. 3 des Schulgesetzes[^7-1] zu besuchen, wenn dies in ihrem oder seinem Interesse oder im Interesse der Schule liegt.
 
 <sup>2</sup> Artikel 5 gilt sinngemäss.
 
 <sup>3</sup> Im Entscheid wird vermerkt, welches Schulhaus die Schülerin oder den Schüler aufnehmen muss. Die Kosten und die Organisation eines allfälligen Schülertransports übernehmen die Eltern, ausser wenn der Wechsel des Schulhauses angeordnet wird. In diesem Fall übernimmt die Gemeinde oder übernehmen die Gemeinden des Schulkreises die Kosten und die Organisation des Schülertransports.
 
+[^7-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 8
 
-**Interkantonaler Schulbesuch (Art. 13 Abs. 2 SchG)**
+**Interkantonaler Schulbesuch (Art. 13 Abs. 2 SchG[^8-1])**
 
 <sup>1</sup> In Übereinstimmung mit den interkantonalen Vereinbarungen kann die Direktion, wenn stichhaltige Gründe vorliegen, den Besuch einer ausserkantonalen Schule bewilligen und eine Kostengutsprache für die verlangten Schulgeldbeiträge leisten.
 
@@ -121,13 +135,16 @@ beschliesst:
 
 <sup>3</sup> Die Schulgeldbeiträge für Schülerinnen und Schüler mit zivilrechtlichem Wohnsitz ausserhalb des Kantons richten sich nach den Tarifen der interkantonalen Vereinbarungen. Sie können auf denjenigen Betrag reduziert werden, den der Wohnsitzkanton für die Aufnahme von Freiburger Schülerinnen und Schülern verlangt.
 
-<sup>4</sup> Die Direktion verteilt innerhalb des Kantons die bezahlten und eingenommenen Schulgeldbeiträge gemäss den Artikeln 67 und 72 des Schulgesetzes.
+<sup>4</sup> Die Direktion verteilt innerhalb des Kantons die bezahlten und eingenommenen Schulgeldbeiträge gemäss den Artikeln 67 und 72 des Schulgesetzes[^8-2].
 
 <sup>5</sup> Die Gemeinden dürfen bei den Eltern der ausserkantonalen Schülerinnen und Schüler neben den Kosten, die üblicherweise den Eltern des Schulkreises in Rechnung gestellt werden, keine weiteren Kosten erheben.
 
+[^8-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^8-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 9
 
-**Elternbeiträge (Art. 10 Abs. 3–6 SchG)**
+**Elternbeiträge (Art. 10 Abs. 3–6 SchG[^9-1])**
 
 <sup>1</sup> …
 
@@ -135,7 +152,13 @@ beschliesst:
 
 <sup>3</sup> Die Höchstbeiträge, die den Eltern in Rechnung gestellt werden dürfen, werden per Verordnung festgelegt.
 
+[^9-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 ### 1.2 Schülertransporte (Art. 17 SchG)
+
+[^9-2]
+
+[^9-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 10
 
@@ -176,13 +199,15 @@ beschliesst:
 
 **Anerkennung – Zuständigkeit**
 
-<sup>1</sup> Für die Anerkennung eines unentgeltlichen Schülertransports im Sinne von Artikel 17 des Schulgesetzes sind die Gemeinden zuständig.
+<sup>1</sup> Für die Anerkennung eines unentgeltlichen Schülertransports im Sinne von Artikel 17 des Schulgesetzes[^15-1] sind die Gemeinden zuständig.
+
+[^15-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 16
 
 **Modalitäten der Unentgeltlichkeit**
 
-<sup>1</sup> Ist ein Schülertransport anerkannt, so hat die Schülerin oder der Schüler Anspruch auf die Rückerstattung des Fahrpreises der öffentlichen Verkehrsmittel.
+<sup>1</sup> Ist ein Schülertransport anerkannt, so hat die Schülerin oder der Schüler Anspruch auf die Rückerstattung des Fahrpreises der öffentlichen Verkehrsmittel. Ausserdem sorgen die Gemeinden bei Schülerinnen und Schülern unter 7 Jahren für eine geeignete Begleitung im Bus.
 
 <sup>2</sup> Stehen auf der betreffenden Strecke keine ausreichenden öffentlichen Verkehrsmittel zur Verfügung, so erstreckt sich der Anspruch in der Regel auf einen Gruppentransport vom Zentrum der Ortschaft des Wohnsitzes oder des ständigen Aufenthaltsortes zur Schule oder alternativ auf eine Entschädigung für die Benützung eines privaten Fahrzeuges durch die Eltern.
 
@@ -194,9 +219,12 @@ beschliesst:
 
 <sup>1</sup> Ebenfalls unentgeltlich sind für Schülerinnen und Schüler die Transporte von einem Unterrichtsort zum anderen während der Unterrichtszeit, namentlich zum Unterricht in Turnen und Sport, gestalterischen Aktivitäten und Religion.
 
-<sup>2</sup> Die Unentgeltlichkeit erstreckt sich nicht auf freiwillige Aktivitäten nach Artikel 10 Abs. 4 des Schulgesetzes, auf kostenpflichtige Aktivitäten, die im Rahmen einer Projektwoche mit frei wählbaren Angeboten nach Artikel 10 Abs. 5 des Schulgesetzes angeboten werden, und auf die ausserschulische Betreuung.
+<sup>2</sup> Die Unentgeltlichkeit erstreckt sich nicht auf freiwillige Aktivitäten nach Artikel 10 Abs. 4 des Schulgesetzes[^17-1], auf kostenpflichtige Aktivitäten, die im Rahmen einer Projektwoche mit frei wählbaren Angeboten nach Artikel 10 Abs. 5 des Schulgesetzes[^17-2] angeboten werden, und auf die ausserschulische Betreuung.
 
 <sup>3</sup> Die Bestimmungen zur Förderung der Partnersprache sowie über die Unterstützungsmassnahmen bleiben vorbehalten.
+
+[^17-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^17-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 18
 
@@ -212,7 +240,7 @@ beschliesst:
 
 #### Art. 19
 
-**Schulmediation und Schulsozialarbeit (Art. 4 Abs. 2 SchG)**
+**Schulmediation und Schulsozialarbeit (Art. 4 Abs. 2 SchG[^19-1])**
 
 <sup>1</sup> Schulmediation und Schulsozialarbeit gehören zu den Angeboten, welche die Schulen zur Verbesserung und Erhaltung eines guten Schulklimas nutzen können.
 
@@ -228,9 +256,11 @@ beschliesst:
 
 <sup>7</sup> Sie können in einer oder mehreren Schulen tätig sein.
 
+[^19-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 20
 
-**Fachstelle für Gesundheit in der Schule (Art. 41 Abs. 1 SchG)**
+**Fachstelle für Gesundheit in der Schule (Art. 41 Abs. 1 SchG[^20-1])**
 
 <sup>1</sup> Eine direktionsübergreifende Fachstelle «Gesundheit in der Schule» koordiniert die Gesundheitsförderung und -prävention in den Schulen. Die Fachstelle arbeitet mit Institutionen des Gesundheitswesens zusammen, die über eine entsprechende Genehmigung verfügen. Diese stehen den Schulen zur Verfügung für:
 
@@ -240,9 +270,11 @@ beschliesst:
 - d) das Einreichen und Prüfen von Genehmigungsgesuchen für schulexterne Personen;
 - e) die Koordination der Aktivitäten des Netzwerks Gesundheitsfördernder Schulen Freiburg.
 
+[^20-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 21
 
-**Erster Zyklus (Art. 8 Abs. 2 SchG)**
+**Erster Zyklus (Art. 8 Abs. 2 SchG[^21-1])**
 
 <sup>1</sup> Die Gemeinde oder Gemeinden eines Schulkreises können auf Antrag der Schuldirektion beschliessen, die Schülerinnen und Schüler des ersten Zyklus (1–4H) in einer einzigen Klasse gemeinsam zu unterrichten, sofern folgende Voraussetzungen erfüllt sind:
 
@@ -258,9 +290,11 @@ beschliesst:
 
 <sup>4</sup> Die Gemeinde oder die Gemeinden des betreffenden Schulkreises tragen die Mehrkosten des Beschäftigungsgrades für eine solche Klasse im Vergleich zu den mittleren kantonalen Kosten einer regulären Klasse.
 
+[^21-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 22
 
-**Klassentypen an der Orientierungsschule (Art. 9 SchG)**
+**Klassentypen an der Orientierungsschule (Art. 9 SchG[^22-1])**
 
 <sup>1</sup> Die Orientierungsschule umfasst folgende Klassentypen:
 
@@ -272,9 +306,11 @@ beschliesst:
 
 <sup>3</sup> Die Schuldirektion kann für allgemeine Fächer sowie Kunst- und Sportfächer einen gemeinsamen Unterricht organisieren, der unabhängig ist vom Klassentypus. Die Schuldirektion bestimmt die Modalitäten der Unterrichtsgruppen und legt sie dem Schulinspektorat zur Genehmigung vor.
 
+[^22-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 23
 
-**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG) – Sprachaustausche**
+**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG[^23-1]) – Sprachaustausche**
 
 <sup>1</sup> Um die Kenntnisse und Fertigkeiten der Schülerinnen und Schüler in der Partnersprache zu verbessern und zu festigen, können die Lehrpersonen Sprachaustausche in unterschiedlicher Form je nach Alter der Schülerinnen und Schüler organisieren. Der Austausch kann mit einer Schule des anderssprachigen Teils des Kantons oder der Schweiz oder aber im Ausland erfolgen.
 
@@ -284,9 +320,11 @@ beschliesst:
 
 <sup>4</sup> Finden die Sprachaufenthalte in der Schweiz statt, so sind sie für die Schülerinnen und Schüler obligatorisch und unentgeltlich. Die Eltern tragen einzig die Verpflegungskosten innerhalb der vom Staatsrat gesetzten Grenzen.
 
+[^23-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 24
 
-**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG) – 12. partnersprachliches Schuljahr**
+**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG[^24-1]) – 12. partnersprachliches Schuljahr**
 
 <sup>1</sup> Nach Abschluss der obligatorischen Schulzeit kann einer Schülerin oder einem Schüler ein 12. partnersprachliches Schuljahr, ausnahmsweise ein 13., in einer Schule des anderssprachigen Kantonsteils bewilligt werden.
 
@@ -298,11 +336,14 @@ beschliesst:
 
 <sup>5</sup> Die Verpflegungskosten sowie die Kosten und die Organisation des Schülertransports übernehmen die Eltern.
 
-<sup>6</sup> Vorbehalten sind die interkantonalen Vereinbarungen über den Schulbesuch ausserhalb des Wohnsitzkantons (Art. 13 Abs. 2 SchG und Art. 8 SchR).
+<sup>6</sup> Vorbehalten sind die interkantonalen Vereinbarungen über den Schulbesuch ausserhalb des Wohnsitzkantons (Art. 13 Abs. 2 SchG[^24-2] und Art. 8 SchR).
+
+[^24-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^24-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 25
 
-**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG) – Unterrichtsaktivitäten oder -sequenzen in der Partnersprache**
+**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG[^25-1]) – Unterrichtsaktivitäten oder -sequenzen in der Partnersprache**
 
 <sup>1</sup> Aktivitäten oder Unterrichtssequenzen können nicht nur im spezifischen Fremdsprachenunterricht, sondern auch in anderen Fächern in der Partnersprache unterrichtet werden.
 
@@ -312,9 +353,11 @@ beschliesst:
 
 <sup>4</sup> Die Evaluation der Kenntnisse und Fertigkeiten der Schülerinnen und Schüler erfolgt in der Regel in der Hauptunterrichtssprache (L1), kann aber auch in der Partnersprache (L2) durchgeführt werden.
 
+[^25-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 26
 
-**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG) – Zweisprachige Klassen**
+**Unterrichtsformen für die Partnersprache (Art. 12 Abs. 2 SchG[^26-1]) – Zweisprachige Klassen**
 
 <sup>1</sup> Es können zweisprachige Klassen gebildet werden, wobei die Sprachkenntnisse der Schülerinnen und Schüler und die lokalen Gegebenheiten, insbesondere die Verfügbarkeit von Lehrpersonen, berücksichtigt werden.
 
@@ -327,6 +370,8 @@ beschliesst:
 <sup>5</sup> Übersteigt die Zahl der in Frage kommenden Schülerinnen und Schüler die Aufnahmekapazität, so entscheidet das Los.
 
 <sup>6</sup> Die Kenntnisse und Fertigkeiten der Schülerinnen und Schüler werden in den beiden Unterrichtssprachen geprüft, entsprechend der in der L1 oder L2 besuchten Lektionen.
+
+[^26-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 2 Allgemeiner Schulbetrieb
 
@@ -354,7 +399,9 @@ beschliesst:
 
 <sup>3</sup> Bestehen Zweifel hinsichtlich der Zweckmässigkeit oder Qualität einer Mitwirkung oder bei regelmässiger Mitwirkung, leitet die Schuldirektion das Gesuch an das Amt für obligatorischen Unterricht (das Amt) weiter.
 
-<sup>4</sup> Die gesetzlich berechtigten oder von der Direktion anerkannten Partner sind von Amtes wegen befugt, in den Schulen mitzuwirken. Vorbehalten bleibt das Genehmigungsverfahren nach Artikel 8 des Reglements vom 14. Juni 2004 über Gesundheitsförderung und Prävention.
+<sup>4</sup> Die gesetzlich berechtigten oder von der Direktion anerkannten Partner sind von Amtes wegen befugt, in den Schulen mitzuwirken. Vorbehalten bleibt das Genehmigungsverfahren nach Artikel 8 des Reglements vom 14. Juni 2004 über Gesundheitsförderung und Prävention[^28-1].
+
+[^28-1]: SGF [821.0.11](https://bdlf.fr.ch/data/821.0.11/de)
 
 #### Art. 29
 
@@ -366,7 +413,7 @@ beschliesst:
 
 #### Art. 30
 
-**Wöchentliche Unterrichtslektionen (Art. 18 Abs. 4 SchG)**
+**Wöchentliche Unterrichtslektionen (Art. 18 Abs. 4 SchG[^30-1])**
 
 <sup>1</sup> Der wöchentliche Stundenplan umfasst folgende Anzahl Unterrichtslektionen von jeweils 50 Minuten Dauer:
 
@@ -382,6 +429,8 @@ beschliesst:
 <sup>3</sup> Halbe Lektionen sind möglich.
 
 <sup>4</sup> Eine Lektion kann um die für den Wechsel nötige Zeit verkürzt werden, wenn eine Klasse die Lehrperson oder den Unterrichtsort wechselt.
+
+[^30-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 31
 
@@ -409,7 +458,7 @@ beschliesst:
 
 #### Art. 33
 
-**Schulische Aktivitäten (Art. 10 Abs. 2–6 SchG)**
+**Schulische Aktivitäten (Art. 10 Abs. 2–6 SchG[^33-1])**
 
 <sup>1</sup> Der Unterricht kann namentlich in Form von Schulausflügen, Schulreisen, Landschulwochen, Projektwochen, Studienreisen, Schullagern, Sport- oder Kulturtagen durchgeführt werden, jedoch pro Schuljahr höchstens während 10 Tagen. Diese Aktivitäten müssen Ziele verfolgen, die einen Bezug zu den Lehrplänen aufweisen.
 
@@ -423,6 +472,8 @@ beschliesst:
 
 <sup>6</sup> Die Direktion kann Richtlinien zu den schulischen Aktivitäten erlassen oder Empfehlungen dazu abgeben.
 
+[^33-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 34
 
 **Freifächer an der Orientierungsschule**
@@ -433,7 +484,7 @@ beschliesst:
 
 #### Art. 35
 
-**Schulfreie Wochenhalbtage in der Primarschule (Art. 20 Abs. 1 SchG)**
+**Schulfreie Wochenhalbtage in der Primarschule (Art. 20 Abs. 1 SchG[^35-1])**
 
 <sup>1</sup> Zusätzlich zum Mittwochnachmittag beträgt die Zahl der schulfreien Wochenhalbtage:
 
@@ -446,9 +497,11 @@ beschliesst:
 
 <sup>3</sup> In Klassen mit einem niedrigen Bestand kann der alternierende Unterricht auf Entscheid des Schulinspektorats aufgehoben werden.
 
+[^35-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 36
 
-**Urlaub für eine Klasse, eine Schule oder einen Schulkreis (Art. 21 SchG)**
+**Urlaub für eine Klasse, eine Schule oder einen Schulkreis (Art. 21 SchG[^36-1])**
 
 <sup>1</sup> Das Schulinspektorat kann in begründeten Ausnahmefällen einer Klasse, einer Schule oder einem Schulkreis höchstens einen Tag Urlaub pro Schuljahr gewähren.
 
@@ -458,9 +511,11 @@ beschliesst:
 
 <sup>4</sup> Den Eltern und Gemeinden wird so früh wie möglich mitgeteilt, wann die Schülerinnen und Schüler schulfrei haben.
 
+[^36-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 36a
 
-**Jokertage (Art. 21 Abs. 2 SchG)**
+**Jokertage (Art. 21 Abs. 2 SchG[^36a-1])**
 
 <sup>1</sup> Jokertage dürfen nicht am ersten Schultag des Schuljahres, während schulischer Aktivitäten im Sinne von Artikel 33 und der Durchführung von kantonalen, interkantonalen oder internationalen Referenztests bezogen werden.
 
@@ -474,9 +529,11 @@ beschliesst:
 
 <sup>6</sup> Die Eltern tragen die Verantwortung für den Urlaub, den sie für ihre Kinder beantragen und sorgen dafür, dass ihre Kinder dem Lernprogramm folgen. Auf Verlangen der Schule holen die Schülerinnen und Schüler den Stoff und die verpassten Prüfungen nach.
 
+[^36a-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 37
 
-**Urlaub für eine Schülerin oder einen Schüler (Art. 21 SchG) – Grundsätze**
+**Urlaub für eine Schülerin oder einen Schüler (Art. 21 SchG[^37-1]) – Grundsätze**
 
 <sup>1</sup> Einer Schülerin oder einem Schüler kann ein Urlaub gewährt werden, wenn stichhaltige Gründe vorliegen. Berücksichtigt werden dabei nur hinreichend nachgewiesene Gründe, die in Ausnahmefällen Vorrang vor der Schulpflicht haben können, namentlich:
 
@@ -487,9 +544,11 @@ beschliesst:
 
 <sup>2</sup> …
 
+[^37-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 38
 
-**Urlaub für eine Schülerin oder einen Schüler (Art. 21 SchG) – Verfahren**
+**Urlaub für eine Schülerin oder einen Schüler (Art. 21 SchG[^38-1]) – Verfahren**
 
 <sup>1</sup> Das Urlaubsgesuch muss rechtzeitig im Voraus, spätestens, wenn der Grund bekannt ist, in schriftlicher Form bei der Schuldirektion eingereicht werden. Das begründete Gesuch wird gegebenenfalls mit Unterlagen belegt und von den Eltern unterzeichnet.
 
@@ -500,6 +559,8 @@ beschliesst:
 <sup>4</sup> Die Eltern tragen die Verantwortung für die Urlaube, die sie für ihre Kinder beantragen, und sorgen dafür, dass die Lernprogramme weitergeführt werden. Auf Verlangen der Schule holen die Schülerinnen und Schüler den Stoff und die verpassten Prüfungen nach. Überlagert sich der Urlaub mit einer ordentlichen Prüfungsperiode, so müssen besondere Massnahmen getroffen werden.
 
 <sup>5</sup> Die Schuldirektionen sind für Entscheide über einen Urlaub von bis zu vier Wochen oder 20 Tagen pro Schuljahr zuständig. Über längere Urlaube entscheidet die Direktion.
+
+[^38-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 38a
 
@@ -541,13 +602,15 @@ beschliesst:
 
 #### Art. 40
 
-**Absenzen auf Veranlassung der Eltern (Art. 32 SchG)**
+**Absenzen auf Veranlassung der Eltern (Art. 32 SchG[^40-1])**
 
 <sup>1</sup> Bleibt eine Schülerin oder ein Schüler auf Veranlassung der Eltern ungerechtfertigt der Schule fern oder trifft sie oder er wiederholt verspätet zum Unterricht ein oder wurde ein Urlaub gestützt auf unwahren Angaben gewährt, so verzeigt die Schuldirektion die Eltern beim Oberamt.
 
 <sup>2</sup> Die Direktion setzt die Schuldirektion über den Ausgang einer Anzeige wegen Verletzung der Schulpflicht in Kenntnis.
 
 <sup>3</sup> Vorbehalten bleibt eine Meldung an die Kinderschutzbehörde gemäss Artikel 102.
+
+[^40-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 41
 
@@ -557,7 +620,7 @@ beschliesst:
 
 #### Art. 42
 
-**Konfessioneller Religionsunterricht (Art. 23 SchG)**
+**Konfessioneller Religionsunterricht (Art. 23 SchG[^42-1])**
 
 <sup>1</sup> Die Direktion setzt die Anzahl Unterrichtslektionen für den Religionsunterricht fest und holt dazu vorab die Stellungnahme der anerkannten Kirchen und Religionsgemeinschaften ein.
 
@@ -567,9 +630,11 @@ beschliesst:
 
 <sup>4</sup> Die dispensierten Schülerinnen und Schüler stehen unter der Verantwortung und Aufsicht der Schule.
 
+[^42-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 43
 
-**Projekte zur Schulentwicklung (Art. 24 SchG)**
+**Projekte zur Schulentwicklung (Art. 24 SchG[^43-1])**
 
 <sup>1</sup> Als Projekt zur Schulentwicklung gilt ein Projekt, dessen Zielsetzung im Einklang steht mit den Zielen der Lehrpläne und das zu deren Erreichung beiträgt oder in organisatorischer, pädagogisch-didaktischer oder erzieherischer Hinsicht einen Beitrag zur Schulentwicklung leistet. Das Projekt kann eine Gruppe von Schülerinnen und Schülern, eine Schule, eine Region oder den gesamten Kanton betreffen.
 
@@ -579,13 +644,15 @@ beschliesst:
 
 <sup>4</sup> Berührt das Projekt die Organisation oder den Betrieb des Schulkreises, so werden die betreffenden Gemeinden vorab konsultiert.
 
+[^43-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 44
 
-**Klassenbestände (Art. 26 und 27 SchG) – Primarschule a) Klassenbestände der 1H und 2H**
+**Klassenbestände (Art. 26 und 27 SchG[^44-1]) – Primarschule a) Klassenbestände der 1H und 2H**
 
 <sup>1</sup> Die Schülerinnen und Schüler der 1H und 2H werden in einer einzigen Klasse gemeinsam unterrichtet.
 
-<sup>2</sup> Die Anzahl Klassen jedes Schulkreises oder jeder Schule im Sinne von Artikel 50 Abs. 3 des Schulgesetzes wird auf der Grundlage der Gesamtzahl der Schülerinnen und Schüler der 1H und 2H wie folgt bestimmt:
+<sup>2</sup> Die Anzahl Klassen jedes Schulkreises oder jeder Schule im Sinne von Artikel 50 Abs. 3 des Schulgesetzes[^44-2] wird auf der Grundlage der Gesamtzahl der Schülerinnen und Schüler der 1H und 2H wie folgt bestimmt:
 
 <table>
 <tr><th>Anzahl Schüler/innen</th><th>Anzahl Klassen</th></tr>
@@ -604,11 +671,14 @@ beschliesst:
 
 <sup>3</sup> Jede Schülerin und jeder Schüler, die oder der in eine Regelklasse integriert ist und verstärkte sonderpädagogische Massnahmen erhält, wird im Schulkreis oder in der Schule dreifach gezählt.
 
+[^44-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^44-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 45
 
-**Klassenbestände (Art. 26 und 27 SchG) – Primarschule b) Klassenbestände der 3H bis 8H**
+**Klassenbestände (Art. 26 und 27 SchG[^45-1]) – Primarschule b) Klassenbestände der 3H bis 8H**
 
-<sup>1</sup> Die Anzahl Klassen jedes Schulkreises oder jeder Schule im Sinne von Artikel 50 Abs. 3 des Schulgesetzes wird auf der Grundlage der jeweiligen Gesamtzahl der Schülerinnen und Schüler (3H–8H) festgelegt.
+<sup>1</sup> Die Anzahl Klassen jedes Schulkreises oder jeder Schule im Sinne von Artikel 50 Abs. 3 des Schulgesetzes[^45-2] wird auf der Grundlage der jeweiligen Gesamtzahl der Schülerinnen und Schüler (3H–8H) festgelegt.
 
 <sup>2</sup> Die Anzahl Klassen wird wie folgt bestimmt:
 
@@ -670,9 +740,12 @@ beschliesst:
 <tr><td>...</td><td></td></tr>
 </table>
 
+[^45-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^45-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 46
 
-**Klassenbestände (Art. 26 und 27 SchG) – Primarschule c) Kommission für Schülerbestände in der Primarschule**
+**Klassenbestände (Art. 26 und 27 SchG[^46-1]) – Primarschule c) Kommission für Schülerbestände in der Primarschule**
 
 <sup>1</sup> In Anwendung von Artikel 53 Abs. 1 und 2 sowie von Artikel 54 kann von den Klassenbeständen nach den Artikeln 44 und 45 auf Grundlage von Zielsetzungen, die der Staatsrat festlegt, abgewichen werden. In diesem Fall holt die Direktion die Stellungnahme der Kommission für Schülerbestände ein.
 
@@ -682,17 +755,21 @@ beschliesst:
 
 <sup>4</sup> Können die vom Staatsrat festgelegten Ziele nicht vernünftigerweise erreicht werden, informiert die Direktion den Staatsrat darüber.
 
+[^46-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 47
 
-**Klassenbestände (Art. 26 und 27 SchG) – Primarschule d) Verteilung der Primarklassen**
+**Klassenbestände (Art. 26 und 27 SchG[^47-1]) – Primarschule d) Verteilung der Primarklassen**
 
 <sup>1</sup> Die Schuldirektion organisiert die Klassen gemäss der dem Schulkreis oder der Schule zugewiesenen Anzahl Klassen. Sie verteilt ebenfalls die Schülerinnen und Schüler auf die Klassen und die Klassen auf die Schulräume. Diese Verteilung wird den Gemeinden und dem Schulinspektorat zur Genehmigung vorgelegt.
 
 <sup>2</sup> Die Schuldirektion teilt die Klassen den Lehrerinnen und Lehrern zu.
 
+[^47-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 48
 
-**Klassenbestände (Art. 26 und 27 SchG) – Orientierungsschule a) Bestände nach Klassentypus**
+**Klassenbestände (Art. 26 und 27 SchG[^48-1]) – Orientierungsschule a) Bestände nach Klassentypus**
 
 <sup>1</sup> Eine Progymnasialklasse zählt mindestens 15 und höchstens 29 Schülerinnen und Schüler. Die Anzahl Klassen wird wie folgt bestimmt:
 
@@ -735,21 +812,27 @@ beschliesst:
 
 <sup>5</sup> Jede Schülerin und jeder Schüler, die oder der in eine Regelklasse integriert ist und verstärkte sonderpädagogische Massnahmen erhält, wird im Schulkreis oder in der Schule dreifach gezählt.
 
+[^48-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 49
 
-**Klassenbestände (Art. 26 und 27 SchG) – Orientierungsschule b) Wahlfächer und Freifächer an der Orientierungsschule**
+**Klassenbestände (Art. 26 und 27 SchG[^49-1]) – Orientierungsschule b) Wahlfächer und Freifächer an der Orientierungsschule**
 
 <sup>1</sup> Ein Wahl- oder Freifachkurs umfasst mindestens 8 Schülerinnen und Schüler.
 
 <sup>2</sup> Die Direktion kann von dieser Mindestzahl abweichen, wenn dies durch besondere Umstände gerechtfertigt ist.
 
+[^49-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 50
 
-**Klassenbestände (Art. 26 und 27 SchG) – Orientierungsschule c) Verteilung der Klassen an der Orientierungsschule**
+**Klassenbestände (Art. 26 und 27 SchG[^50-1]) – Orientierungsschule c) Verteilung der Klassen an der Orientierungsschule**
 
 <sup>1</sup> Die Schuldirektion organisiert die Klassen gemäss der ihrer Schule zugewiesenen Anzahl Klassen. Sie verteilt ebenfalls die Schülerinnen und Schüler auf die Klassen und die Klassen auf die Schulräume. Diese Verteilung wird den Gemeinden und dem Schulinspektorat zur Genehmigung vorgelegt.
 
 <sup>2</sup> Die Schuldirektion teilt die Klassen den Lehrerinnen und Lehrern zu.
+
+[^50-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 51
 
@@ -767,7 +850,7 @@ beschliesst:
 
 #### Art. 53
 
-**Eröffnung und Schliessung von Klassen (Art. 27 SchG)**
+**Eröffnung und Schliessung von Klassen (Art. 27 SchG[^53-1])**
 
 <sup>1</sup> Die Eröffnung oder Schliessung einer Klasse wird gemäss den Artikeln 44–51 gestützt auf die am 15. Mai festgelegten Schülerzahlen beschlossen.
 
@@ -775,9 +858,11 @@ beschliesst:
 
 <sup>3</sup> Ausnahmsweise kann die Direktion auch nach dem 15. Mai die Eröffnung einer Klasse bewilligen, vor allem bei einer starken Zuwanderung.
 
+[^53-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 54
 
-**Beibehaltung einer Klasse (Art. 27 SchG)**
+**Beibehaltung einer Klasse (Art. 27 SchG[^54-1])**
 
 <sup>1</sup> Eine Klasse kann beibehalten werden, obwohl ihr Bestand den vorgesehenen Klassenbestand unterschreitet:
 
@@ -786,13 +871,16 @@ beschliesst:
 - c) an der Primarschule: wenn ihre Aufhebung die Bildung von Klassen mit mehr als zwei aufeinanderfolgenden Schuljahren zur Folge hätte;
 - d) an der Orientierungsschule: wenn sie die einzige ihres Klassentypus ist.
 
-<sup>2</sup> Überdies bleibt Artikel 27 Absatz 3 des Schulgesetzes vorbehalten.
+<sup>2</sup> Überdies bleibt Artikel 27 Absatz 3 des Schulgesetzes[^54-2] vorbehalten.
+
+[^54-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^54-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 3 Eltern
 
 #### Art. 55
 
-**Information der Eltern (Art. 30 SchG)**
+**Information der Eltern (Art. 30 SchG[^55-1])**
 
 <sup>1</sup> Die Eltern werden in persönlichen Gesprächen und mit Hilfe des Schulzeugnisses regelmässig über die Schullaufbahn ihres Kindes informiert. Für den Kontakt zwischen Schule und Eltern können weitere Informationsmittel eingesetzt werden.
 
@@ -800,17 +888,21 @@ beschliesst:
 
 <sup>3</sup> Die Eltern sind in den Elternräten vertreten.
 
+[^55-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 56
 
-**Dolmetschen (Art. 30 SchG)**
+**Dolmetschen (Art. 30 SchG[^56-1])**
 
 <sup>1</sup> Erweist sich die Verständigung mit fremdsprachigen Eltern, die in der Regel seit weniger als zwei Jahren im Kanton niedergelassen sind, oder mit gehörlosen Eltern als erheblich eingeschränkt, so können die Schulen Fachpersonen für interkulturelles Dolmetschen oder Gebärdensprachdolmetschen beiziehen.
 
 <sup>2</sup> Die Direktion bezeichnet in Zusammenarbeit mit den Gemeinden die Partner, die zum Dolmetscherdienst zugelassen werden, und legt mit den Gemeinden die Modalitäten des Leistungsvertrags fest.
 
+[^56-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 57
 
-**Zusammenarbeit von Eltern und Schule (Art. 30 SchG)**
+**Zusammenarbeit von Eltern und Schule (Art. 30 SchG[^57-1])**
 
 <sup>1</sup> Die Eltern ermuntern und unterstützen ihr Kind beim Lernen, indem sie ein günstiges Lernumfeld schaffen und darauf achten, dass die ausserschulischen Aktivitäten des Kindes die Schularbeit nicht beeinträchtigen.
 
@@ -828,17 +920,21 @@ beschliesst:
 
 <sup>8</sup> Bei Schwierigkeiten in der Zusammenarbeit können die Schuldirektion oder die Eltern ein Gespräch verlangen.
 
+[^57-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 58
 
-**Elternrat (Art. 31 SchG) – Rolle**
+**Elternrat (Art. 31 SchG[^58-1]) – Rolle**
 
 <sup>1</sup> Der Elternrat ermöglicht den Austausch von Informationen und die Diskussion über Vorschläge zwischen Eltern, Schule und Gemeinden. Er vertritt die Anliegen der Eltern sowie die Interessen der Schülerinnen und Schüler im Allgemeinen. Der Elternrat wird weder über Einzelfälle informiert noch befasst er sich mit solchen.
 
 <sup>2</sup> Der Elternrat kann Aufgaben übernehmen, die das Schulleben betreffen. Er kann in Absprache mit der Schuldirektion verschiedene Aktionen oder Aktivitäten organisieren, an denen er teilnimmt.
 
+[^58-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 59
 
-**Elternrat (Art. 31 SchG) – Bildung**
+**Elternrat (Art. 31 SchG[^59-1]) – Bildung**
 
 <sup>1</sup> Die Gemeinden bilden in Zusammenarbeit mit der Schuldirektion den Elternrat. Das Schulreglement der Gemeinde regelt namentlich die Anzahl Mitglieder und die Ernennung der Mitglieder sowie allgemein die Organisation und die Arbeitsweise.
 
@@ -846,19 +942,25 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden können eine Person, die der Arbeitsweise oder dem Ansehen des Elternrates oder der Schule schadet, ihres Amtes entheben. Dieser Verfügung muss, ausser in schweren Fällen, eine Verwarnung vorausgehen.
 
+[^59-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 60
 
-**Elternrat (Art. 31 SchG) – Versammlungen**
+**Elternrat (Art. 31 SchG[^60-1]) – Versammlungen**
 
 <sup>1</sup> Der Elternrat versammelt sich mindestens zweimal im Schuljahr. Die Versammlungen des Elternrates sind nicht öffentlich.
 
+[^60-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 61
 
-**Elternrat (Art. 31 SchG) – Information der Öffentlichkeit**
+**Elternrat (Art. 31 SchG[^61-1]) – Information der Öffentlichkeit**
 
 <sup>1</sup> Die oder der Vorsitzende ist Sprecherin oder Sprecher des Rates. Sie oder er ist dafür zuständig, die Zugangsgesuche zu den Dokumenten des Elternrates gemäss der entsprechenden kantonalen Gesetzgebung zu behandeln.
 
 <sup>2</sup> Auf Verlangen der oder des Vorsitzenden können die Mitglieder sowie die Person, die das Sekretariat führt, zur Verschwiegenheit über die an den Sitzungen behandelten Geschäfte verpflichtet werden.
+
+[^61-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 4 Schülerinnen und Schüler
 
@@ -866,15 +968,17 @@ beschliesst:
 
 #### Art. 62
 
-**Rechtsgleichheit zwischen Mädchen und Knaben (Art. 33 Abs. 2 SchG)**
+**Rechtsgleichheit zwischen Mädchen und Knaben (Art. 33 Abs. 2 SchG[^62-1])**
 
 <sup>1</sup> Mädchen und Knaben erhalten den gleichen Unterricht und besuchen dieselben obligatorischen Lektionen in gemischten Klassen.
 
 <sup>2</sup> Der Turn- und Sportunterricht kann Mädchen und Knaben separat erteilt werden.
 
+[^62-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 63
 
-**Rechte (Art. 33 SchG)**
+**Rechte (Art. 33 SchG[^63-1])**
 
 <sup>1</sup> Die Schülerinnen und Schüler werden über das allgemeine Klassen- und Schulleben informiert und darin einbezogen; sie haben die Möglichkeit, ihre Meinung zu äussern und Vorschläge zu machen. Die Modalitäten der Mitwirkung am Schulleben werden in der Schulordnung festgelegt.
 
@@ -882,9 +986,11 @@ beschliesst:
 
 <sup>3</sup> Damit die Schülerin oder der Schüler in den Lernprozess einbezogen wird, nimmt sie oder er in der Regel an den Elterngesprächen teil.
 
+[^63-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 64
 
-**Pflichten (Art. 34 SchG)**
+**Pflichten (Art. 34 SchG[^64-1])**
 
 <sup>1</sup> Die Schülerinnen und Schüler besuchen die Schule zu den festgelegten Zeiten.
 
@@ -893,6 +999,8 @@ beschliesst:
 <sup>3</sup> Sie tragen zu einem guten Klassenklima bei.
 
 <sup>4</sup> Sie tragen Sorge zum bereitgestellten Material und Mobiliar sowie zu den Räumlichkeiten, die ihnen zur Verfügung gestellt werden. Bei Diebstahl, Schaden oder Verlust sind sie für ihre persönlichen Effekten verantwortlich.
+
+[^64-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 65
 
@@ -942,7 +1050,7 @@ beschliesst:
 
 #### Art. 68
 
-**Disziplinarmassnahmen (Art. 39 SchG)**
+**Disziplinarmassnahmen (Art. 39 SchG[^68-1])**
 
 <sup>1</sup> Die Schuldirektion ist für folgende Disziplinarmassnahmen zuständig:
 
@@ -967,6 +1075,8 @@ beschliesst:
 <sup>7</sup> Der Entscheid wird den Eltern schriftlich mitgeteilt.
 
 <sup>8</sup> Strafrechtliche und kinderschutzrechtliche Bestimmungen bleiben vorbehalten.
+
+[^68-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 69
 
@@ -1000,6 +1110,10 @@ beschliesst:
 <sup>4</sup> Die Schuldirektion kann die Kindesschutzbehörde zur Zusammenarbeit beiziehen.
 
 ### 4.2 Beurteilung der Schularbeit (Art. 37 und 38 SchG)
+
+[^71-1]
+
+[^71-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 72
 
@@ -1053,13 +1167,15 @@ beschliesst:
 
 #### Art. 76
 
-**Referenztests (Art. 37 Abs. 2 SchG)**
+**Referenztests (Art. 37 Abs. 2 SchG[^76-1])**
 
 <sup>1</sup> Während der obligatorischen Schulzeit werden Referenztests durchgeführt, die von allen oder einem Teil der Schülerinnen und Schüler gleichzeitig abgelegt werden. Es können kantonale, interkantonale oder internationale Referenztests durchgeführt werden.
 
 <sup>2</sup> Die Direktion legt die Ziele der Referenztests sowie die Einzelheiten für die Durchführung, die Korrektur, die Bekanntgabe und die Anrechnung der Resultate des Referenztests in der Beurteilung der Schülerin oder des Schülers fest.
 
 <sup>3</sup> Bei einer Schülerin oder einem Schüler mit besonderem Bildungsbedarf entscheidet das Schulinspektorat, ob sie oder er die Referenztests ablegen muss. Vor dem Entscheid werden die beteiligten Fachpersonen angehört.
+
+[^76-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 77
 
@@ -1097,7 +1213,7 @@ beschliesst:
 
 #### Art. 80
 
-**Übertritt von der Primar- zur Orientierungsschule (Art. 9 Abs. 2 SchG)**
+**Übertritt von der Primar- zur Orientierungsschule (Art. 9 Abs. 2 SchG[^80-1])**
 
 <sup>1</sup> In einem Übertrittsverfahren von der Primarschule in die Orientierungsschule wird der Klassentypus bestimmt, in dem die pädagogische Betreuung den Kenntnissen und Fähigkeiten der Schülerin oder des Schülers am besten entspricht.
 
@@ -1111,9 +1227,11 @@ beschliesst:
 
 <sup>6</sup> Über die Erstzuweisung von Schülerinnen und Schülern aus anderen Kantonen, aus dem Ausland oder aus dem privaten Unterricht entscheidet die Schuldirektion.
 
+[^80-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 81
 
-**Wechsel des Klassentypus (Art. 9 Abs. 3 SchG)**
+**Wechsel des Klassentypus (Art. 9 Abs. 3 SchG[^81-1])**
 
 <sup>1</sup> Ein Wechsel des Klassentypus ist möglich, sofern die schulische Arbeit sowie die Kenntnisse und Fertigkeiten der Schülerin oder des Schülers einen solchen rechtfertigen.
 
@@ -1125,16 +1243,24 @@ beschliesst:
 
 <sup>5</sup> Die Direktion legt die Bedingungen für einen Wechsel des Klassentypus fest.
 
+[^81-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 82
 
-**Wahl des weiteren Bildungswegs (Art. 9 Abs. 3 SchG)**
+**Wahl des weiteren Bildungswegs (Art. 9 Abs. 3 SchG[^82-1])**
 
 <sup>1</sup> Die Wahl des weiteren Bildungswegs der Schülerinnen und Schüler wird unterstützt:
 
 - a) durch eine regelmässige Absprache unter der Schuldirektion, den Lehrpersonen, den Eltern und der Schülerin oder dem Schüler; andere beteiligte Fachpersonen können beigezogen werden;
 - b) durch die Information der Schülerinnen und Schüler und ihrer Eltern über die Bedingungen für einen Wechsel des Klassentypus sowie über die Ausbildungsmöglichkeiten, die Zulassungsbedingungen und die Berufsaussichten, die sich dadurch eröffnen.
 
+[^82-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 ### 4.3 Unterstützungsmassnahmen(Art. 35 SchG)
+
+[^82-2]
+
+[^82-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 83
 
@@ -1348,6 +1474,10 @@ beschliesst:
 
 ### 4.4 Bearbeiten von Personendaten der Schülerinnen und Schüler (Art. 43 SchG)
 
+[^102-1]
+
+[^102-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 103
 
 **Inhalt der Datenbanken oder Schülerdateien**
@@ -1416,7 +1546,9 @@ beschliesst:
 
 <sup>1</sup> Die Schuldirektionen dürfen im Einzelfall Personendaten von Schülerinnen und Schülern ohne die Zustimmung der betroffenen Personen bekanntgeben, wenn der Datenempfänger eine öffentliche, dem Kindesinteresse dienende Funktion ausübt. Es werden ausschliesslich diejenigen Daten bekanntgegeben, die nötig sind, damit der Datenempfänger seine Funktion ausüben kann.
 
-<sup>2</sup> Die besonderen Schweigepflichten (Art. 42 SchG) sowie die Grundsätze der Datenschutzgesetzgebung bleiben vorbehalten.
+<sup>2</sup> Die besonderen Schweigepflichten (Art. 42 SchG[^107-1]) sowie die Grundsätze der Datenschutzgesetzgebung bleiben vorbehalten.
+
+[^107-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 108
 
@@ -1447,6 +1579,10 @@ beschliesst:
 ## 5 Schulbehörden
 
 ### 5.1 Leitung der Schule (Art. 50, 51, 54 und 55 SchG)
+
+[^109-1]
+
+[^109-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 110
 
@@ -1514,6 +1650,10 @@ beschliesst:
 
 ### 5.2 Schulinspektorinnen und Schulinspektoren (Art. 52–55 SchG)
 
+[^117-1]
+
+[^117-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 118
 
 **Dienstverhältnis**
@@ -1542,9 +1682,11 @@ beschliesst:
 
 #### Art. 121
 
-**Zusammenlegen von Schulräumen und Schulanlagen (Art. 57 Abs. 2 Bst. b SchG)**
+**Zusammenlegen von Schulräumen und Schulanlagen (Art. 57 Abs. 2 Bst. b SchG[^121-1])**
 
 <sup>1</sup> Die Gemeinden legen nach Möglichkeit die Schulräume und Schulanlagen zusammen, um den Schülerinnen und Schülern Verschiebungen während der Unterrichtszeit zu ersparen.
+
+[^121-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 122
 
@@ -1554,19 +1696,24 @@ beschliesst:
 
 #### Art. 123
 
-**Zustand der Schulräume und Schulanlagen (Art. 41 Abs. 3 SchG)**
+**Zustand der Schulräume und Schulanlagen (Art. 41 Abs. 3 SchG[^123-1])**
 
-<sup>1</sup> Die Gemeinden kontrollieren regelmässig, ob der Zustand der Schulräume und Schulanlagen den Anforderungen von Artikel 41 Abs. 3 des Schulgesetzes entspricht, und informieren die Schuldirektionen darüber.
+<sup>1</sup> Die Gemeinden kontrollieren regelmässig, ob der Zustand der Schulräume und Schulanlagen den Anforderungen von Artikel 41 Abs. 3 des Schulgesetzes[^123-2] entspricht, und informieren die Schuldirektionen darüber.
 
 <sup>2</sup> Die Schuldirektionen melden alle Mängel den Gemeinden und wenden sich nach Bedarf an die Direktion, damit diese einschreitet.
 
+[^123-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^123-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 124
 
-**Zugang zu den Schulräumen und Schulanlagen (Art. 94 SchG)**
+**Zugang zu den Schulräumen und Schulanlagen (Art. 94 SchG[^124-1])**
 
 <sup>1</sup> Während der Schulzeit ist der Zugang zu den Schulräumen und Schulanlagen den Schülerinnen und Schülern, dem Personal der Schule und anderen berechtigten Personen vorbehalten.
 
 <sup>2</sup> Die Gemeinden und/oder die Schuldirektion können, unter Androhung einer Strafanzeige, allen Personen, die den Unterricht oder den Schulbetrieb stören, den Zugang zum Schulgelände untersagen.
+
+[^124-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 125
 
@@ -1592,15 +1739,17 @@ beschliesst:
 
 #### Art. 128
 
-**Administratives und technisches Personal (Art. 57 Abs. 2 Bst. c SchG)**
+**Administratives und technisches Personal (Art. 57 Abs. 2 Bst. c SchG[^128-1])**
 
 <sup>1</sup> Das administrative und technische Personal wird von den Gemeinden angestellt. Diese legen nach Anhörung der Schuldirektion sein Pflichtenheft fest. Die Schuldirektion sowie das administrative und technische Personal arbeiten eng zusammen.
+
+[^128-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 7 Logopädische, psychologische und psychomotorische Dienste
 
 #### Art. 129
 
-**Anerkennung von logopädischen, psychologischen und psychomotorischen Diensten (Art. 63 und 65 SchG)**
+**Anerkennung von logopädischen, psychologischen und psychomotorischen Diensten (Art. 63 und 65 SchG[^129-1])**
 
 <sup>1</sup> Die Gewährung eines Beitrags des Staates setzt einen Entscheid der Direktion voraus, der den logopädischen, psychologischen und psychomotorischen Dienst anerkennt.
 
@@ -1612,6 +1761,8 @@ beschliesst:
 - b) und wenn die Einrichtung des betreffenden Dienstes den Anforderungen einer rationellen Aufteilung der logopädischen, psychologischen und psychomotorischen Dienste im Kanton entspricht.
 
 <sup>4</sup> Die Anerkennung wird entzogen, wenn die Voraussetzungen ihrer Gewährung nicht mehr erfüllt sind.
+
+[^129-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 130
 
@@ -1627,15 +1778,17 @@ beschliesst:
 
 #### Art. 131
 
-**Inanspruchnahme der Dienste (Art. 64 SchG)**
+**Inanspruchnahme der Dienste (Art. 64 SchG[^131-1])**
 
 <sup>1</sup> Die Inanspruchnahme der logopädischen, psychologischen und psychomotorischen Dienste wird von den Eltern, nach Möglichkeit in Zusammenarbeit mit der Lehrperson, bei der Leitung der besagten Dienste beantragt. Sie können sich gegebenenfalls von den beteiligten Fachpersonen beraten lassen, um ihren Antrag zu stellen.
 
 <sup>2</sup> Die Leitung der logopädischen, psychologischen und psychomotorischen Dienste teilt der Schuldirektion ihren Entscheid mit.
 
+[^131-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 132
 
-**Beitrag des Staates (Art. 65 SchG)**
+**Beitrag des Staates (Art. 65 SchG[^132-1])**
 
 <sup>1</sup> Die anerkannten Dienste erstellen auf den 31. Dezember eine Abrechnung der Logopädie-, Psychologie- und Psychomotorikkosten sowie der diesbezüglichen Leistungen Dritter für das abgelaufene Kalenderjahr.
 
@@ -1643,11 +1796,13 @@ beschliesst:
 
 <sup>3</sup> Die Beiträge des Staates werden gemäss der Subventionsgesetzgebung ausbezahlt.
 
+[^132-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 ## 8 Finanzierung der Schule
 
 #### Art. 133
 
-**Kosten der Lehrmittel und des übrigen Schulmaterials (Art. 22 Abs. 2, 66 Abs. 2 und 71 Abs. 2 SchG)**
+**Kosten der Lehrmittel und des übrigen Schulmaterials (Art. 22 Abs. 2, 66 Abs. 2 und 71 Abs. 2 SchG[^133-1])**
 
 <sup>1</sup> Die Direktion erstellt jährlich für die jeweilige Unterrichtsstufe die Liste der anerkannten Lehrmittel und des Schulmaterials.
 
@@ -1659,9 +1814,11 @@ beschliesst:
 
 <sup>5</sup> Die Lehrmittel und das Schulmaterial können den Eltern in Rechnung gestellt werden, wenn ihr Kind sie verliert oder nicht mit der üblichen Sorgfalt behandelt.
 
+[^133-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 134
 
-**Lohnkosten der Lehrpersonen und des sozialpädagogischen Personals (Art. 67 Abs. 1 Bst. a, b und c und 72 Abs. 1 Bst. a, b und c SchG)**
+**Lohnkosten der Lehrpersonen und des sozialpädagogischen Personals (Art. 67 Abs. 1 Bst. a, b und c und 72 Abs. 1 Bst. a, b und c SchG[^134-1])**
 
 <sup>1</sup> Die Lohnkosten bestehen aus:
 
@@ -1681,9 +1838,11 @@ beschliesst:
 - d) der Erwerbsersatz bei Mutterschaft;
 - e) der Anteil am Ertrag der CO<sub>2</sub>-Abgabe.
 
+[^134-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 135
 
-**Lohnnebenkosten (Art. 67 Abs. 1 Bst. a, b und c und Art. 72 Abs. 1 Bst. a, b und c SchG)**
+**Lohnnebenkosten (Art. 67 Abs. 1 Bst. a, b und c und Art. 72 Abs. 1 Bst. a, b und c SchG[^135-1])**
 
 <sup>1</sup> Die Lohnnebenkosten bestehen aus:
 
@@ -1698,13 +1857,17 @@ beschliesst:
 - i) den Verwaltungskosten für die Alters- und Hinterlassenenversicherung und die Invalidenversicherung sowie die Erwerbsausfallentschädigungen;
 - j) den Verwaltungskosten für die Bezahlung und Rückforderung der Lohnkosten.
 
+[^135-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 136
 
-**Fahrkostenentschädigungen (Art. 67 Abs. 1 Bst. d SchG)**
+**Fahrkostenentschädigungen (Art. 67 Abs. 1 Bst. d SchG[^136-1])**
 
 <sup>1</sup> Zu den mobilen Lehrpersonen oder zum mobilen sozialpädagogischen Personal gehört das Personal, das von der Direktion in eigenständiger Funktion angestellt wird und an mehreren Schulen tätig ist.
 
 <sup>2</sup> Die Fahrkostenentschädigung wird gegen Vorweisung einer Abrechnung ausbezahlt.
+
+[^136-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 137
 
@@ -1714,19 +1877,25 @@ beschliesst:
 
 #### Art. 138
 
-**Verfahren (Art. 68 und 69 Abs. 2 SchG)**
+**Verfahren (Art. 68 und 69 Abs. 2 SchG[^138-1])**
 
 <sup>1</sup> Auf Primarschulstufe wird die Kostenabrechnung für jede Gemeinde auf der Grundlage der gesetzlichen Einwohnerzahl erstellt, die in dem Jahr veröffentlicht worden ist, das dem Abrechnungsjahr vorausgegangen ist.
 
 <sup>2</sup> Die Gemeinden bezahlen die Rechnungen innert dreissig Tagen.
 
+[^138-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 ## 9 Privater Unterricht
 
 ### 9.1 Privatschulen (Art. 76–80 SchG)
 
+[^138-2]
+
+[^138-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 139
 
-**Bewilligung (Art. 76 SchG)**
+**Bewilligung (Art. 76 SchG[^139-1])**
 
 <sup>1</sup> Für die Erteilung der Bewilligung zur Eröffnung einer Privatschule ist bis 31. Dezember für das folgende Schuljahr ein Gesuch einzureichen. Dem Gesuch müssen namentlich folgende Unterlagen beigelegt werden:
 
@@ -1737,6 +1906,8 @@ beschliesst:
 - e) die Zulassungsbedingungen und das Einschreibeformular für die Schülerinnen und Schüler;
 - f) das Unterrichtsprogramm, der wöchentliche Stundenplan und die Unterrichtssprache;
 - g) ein Exemplar des Schulzeugnisses oder des Dokuments, in dem die Schulergebnisse ausgewiesen werden, sowie des von der Schule ausgestellten Zertifikats, Diploms oder Ausweises.
+
+[^139-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 140
 
@@ -1754,13 +1925,15 @@ beschliesst:
 
 #### Art. 142
 
-**Erreichen der Lernziele (Art. 76 Abs. 2 Bst. c SchG)**
+**Erreichen der Lernziele (Art. 76 Abs. 2 Bst. c SchG[^142-1])**
 
 <sup>1</sup> Die Direktion überprüft mindestens einmal jährlich, ob mit der erteilten Ausbildung die in den Lehrplänen der öffentlichen Schule festgelegten Ziele erreicht werden.
 
 <sup>2</sup> Erscheint die Ausbildung als ungenügend, so kann die Direktion verlangen, dass die Schülerinnen und Schüler Prüfungen ablegen.
 
 <sup>3</sup> Ist die Ausbildung nachweislich ungenügend, so fordert die Direktion die Leitung der Privatschule auf, die Mängel innert einer bestimmten Frist zu beheben. Bleiben die Mängel bestehen, so kann sie die Einweisung der Schülerinnen und Schüler in die öffentliche Schule anordnen.
+
+[^142-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 143
 
@@ -1770,9 +1943,13 @@ beschliesst:
 
 ### 9.2 Unterricht zu Hause (Art. 81–85 SchG)
 
+[^143-1]
+
+[^143-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 144
 
-**Bewilligung (Art. 81 SchG)**
+**Bewilligung (Art. 81 SchG[^144-1])**
 
 <sup>1</sup> Für die Erteilung der Bewilligung für den Unterricht zu Hause ist ein Gesuch mit namentlich folgenden Unterlagen einzureichen:
 
@@ -1787,11 +1964,15 @@ beschliesst:
 
 <sup>4</sup> Die Eltern tragen die Verantwortung für die Ausbildung ihres Kindes oder ihrer Kinder.
 
+[^144-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 145
 
-**Erreichen der Lernziele (Art. 81 Abs. 4 SchG)**
+**Erreichen der Lernziele (Art. 81 Abs. 4 SchG[^145-1])**
 
 <sup>1</sup> Artikel 142 gilt sinngemäss.
+
+[^145-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 10 Rechtsmittel
 
@@ -1809,7 +1990,7 @@ beschliesst:
 
 #### Art. 147
 
-**Einspracheverfahren (Art. 86 SchG)**
+**Einspracheverfahren (Art. 86 SchG[^147-1])**
 
 <sup>1</sup> Die Einsprache enthält eine kurze Darstellung des Sachverhalts, eine Begründung sowie ein Rechtsbegehren.
 
@@ -1819,15 +2000,20 @@ beschliesst:
 
 <sup>4</sup> Der Einspracheentscheid erfolgt schriftlich und wird kurz begründet.
 
+[^147-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 148
 
-**In Vertretung getroffene Entscheide (Art. 87 SchG)**
+**In Vertretung getroffene Entscheide (Art. 87 SchG[^148-1])**
 
-<sup>1</sup> Die Entscheide von Stellvertreterinnen und Stellvertretern der Schuldirektion, welche die Stellung einer Schülerin oder eines Schülers beeinträchtigen oder zu beeinträchtigen vermögen, können nach Artikel 87 des Schulgesetzes bei der Direktion angefochten werden.
+<sup>1</sup> Die Entscheide von Stellvertreterinnen und Stellvertretern der Schuldirektion, welche die Stellung einer Schülerin oder eines Schülers beeinträchtigen oder zu beeinträchtigen vermögen, können nach Artikel 87 des Schulgesetzes[^148-2] bei der Direktion angefochten werden.
+
+[^148-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^148-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 #### Art. 149
 
-**Aufsichtsbeschwerde der Eltern (Art. 88 SchG) – Zuständige Beschwerdeinstanzen**
+**Aufsichtsbeschwerde der Eltern (Art. 88 SchG[^149-1]) – Zuständige Beschwerdeinstanzen**
 
 <sup>1</sup> Aufsichtsbeschwerdebehörden sind:
 
@@ -1837,9 +2023,11 @@ beschliesst:
 
 <sup>2</sup> Die Direktion ist zuständig für die Beurteilung einer Beschwerde gegen den Entscheid der Schulbehörde, mit dem die Aufsichtsbeschwerde für unzulässig oder unbegründet erklärt wird oder der Beschwerdeführerin oder dem Beschwerdeführer Verfahrenskosten auferlegt werden.
 
+[^149-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 150
 
-**Aufsichtsbeschwerde der Eltern (Art. 88 SchG) – Verfahren**
+**Aufsichtsbeschwerde der Eltern (Art. 88 SchG[^150-1]) – Verfahren**
 
 <sup>1</sup> Die Aufsichtsbeschwerde wird in schriftlicher Form, mit Datum versehen und eigenhändig unterschrieben bei der zuständigen Behörde eingereicht. Sie enthält eine kurze Darlegung des Sachverhalts und der Gründe.
 
@@ -1847,15 +2035,19 @@ beschliesst:
 
 <sup>3</sup> Der Entscheid über die Aufsichtsbeschwerde erfolgt schriftlich und wird kurz begründet.
 
+[^150-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 151
 
-**Aufsichtsbeschwerde der Eltern (Art. 88 SchG) – Verfahrenskosten**
+**Aufsichtsbeschwerde der Eltern (Art. 88 SchG[^151-1]) – Verfahrenskosten**
 
 <sup>1</sup> Verfahrenskosten sind die aus der Instruktion hervorgegangenen Auslagen, insbesondere die Kosten für die Beweiserhebung, die Reiseentschädigungen und die Honorare Dritter.
 
+[^151-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 152
 
-**Einsprache gegen Finanzierungsentscheide (Art. 91 SchG)**
+**Einsprache gegen Finanzierungsentscheide (Art. 91 SchG[^152-1])**
 
 <sup>1</sup> Die Einsprache gegen einen Entscheid in finanziellen Angelegenheiten enthält eine Darlegung der Tatsachen, der Gründe und der Beweismittel sowie ein Rechtsbegehren.
 
@@ -1863,29 +2055,40 @@ beschliesst:
 
 <sup>3</sup> Der Einspracheentscheid erfolgt schriftlich und wird kurz begründet.
 
+[^152-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+
 #### Art. 153
 
-**Entscheide zur Organisation und zum Betrieb der Schulkreise (Art. 92 Abs. 2 SchG)**
+**Entscheide zur Organisation und zum Betrieb der Schulkreise (Art. 92 Abs. 2 SchG[^153-1])**
 
 <sup>1</sup> Entscheide zur Organisation und zum Betrieb der Schulkreise sind:
 
 - a) die Eröffnung, Schliessung oder Beibehaltung von Klassen (Art. 52–54);
-- b) die Abweichung von den Bedingungen eines Schulkreises (Art. 59 Abs. 2 SchG);
-- c) die Genehmigung zur Zusammenarbeit mit Gemeinden anderer Kantone für die Bildung eines Schulkreises (Art. 59 Abs. 3 SchG);
-- d) die Verfügung zur Bildung eines Schulkreises (Art. 60 Abs. 2 SchG);
-- e) die Genehmigung der geografischen Grenzen der Schulen eines Schulkreises (Art. 60 Abs. 3 SchG);
-- f) die Bewilligung einer Gemeindeübereinkunft für die Schaffung und den Betrieb einer Orientierungsschule und die Genehmigung der entsprechenden Vereinbarung (Art. 61 Abs. 2 SchG);
+- b) die Abweichung von den Bedingungen eines Schulkreises (Art. 59 Abs. 2 SchG[^153-2]);
+- c) die Genehmigung zur Zusammenarbeit mit Gemeinden anderer Kantone für die Bildung eines Schulkreises (Art. 59 Abs. 3 SchG[^153-3]);
+- d) die Verfügung zur Bildung eines Schulkreises (Art. 60 Abs. 2 SchG[^153-4]);
+- e) die Genehmigung der geografischen Grenzen der Schulen eines Schulkreises (Art. 60 Abs. 3 SchG[^153-5]);
+- f) die Bewilligung einer Gemeindeübereinkunft für die Schaffung und den Betrieb einer Orientierungsschule und die Genehmigung der entsprechenden Vereinbarung (Art. 61 Abs. 2 SchG[^153-6]);
 - g) die Anerkennung logopädischer, psychologischer und psychomotorischen Dienste (Art. 129).
+
+[^153-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^153-2]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^153-3]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^153-4]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^153-5]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
+[^153-6]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 11 Kantonale Behörden
 
 #### Art. 154
 
-**Monitoring des Schulsystems (Art. 96 Abs. 1 SchG)**
+**Monitoring des Schulsystems (Art. 96 Abs. 1 SchG[^154-1])**
 
 <sup>1</sup> Das Schulsystem wird regelmässig evaluiert, um damit zur Qualitätssicherung beizutragen.
 
 <sup>2</sup> Die Direktion richtet ein Evaluationskonzept mit quantitativen und qualitativen Indikatoren ein, mit denen das Schulsystem beobachtet, analysiert und reguliert werden kann.
+
+[^154-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/de)
 
 ## 12 Schlussbestimmungen
 

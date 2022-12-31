@@ -4,13 +4,12 @@ number: "411.0.11"
 title: Règlement de la loi sur la scolarité obligatoire
 short: RLS
 language: fr
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-14
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2016-04-19
 in_force: 2016-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7573/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8485/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Scolarité obligatoire – R
 
 (RLS)
 
-du 19.04.2016 (version entrée en vigueur le 01.08.2022)
+du 19.04.2016 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -41,23 +40,27 @@ Arrête:
 
 #### Art. 1
 
-**Début de la scolarité obligatoire (art. 6 al. 1 LS)**
+**Début de la scolarité obligatoire (art. 6 al. 1 LS[^1-1])**
 
 <sup>1</sup> Les communes établissent chaque année la liste des enfants domiciliés sur leur territoire devant commencer l'école obligatoire et en informent les parents concernés jusqu'au 31 janvier.
 
 <sup>2</sup> A la rentrée scolaire, la direction d'établissement s'assure que l'obligation scolaire est respectée sur la base des informations fournies par les communes.
 
+[^1-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 2
 
-**Dérogation à l'âge d'entrée (art. 6 al. 2 LS)**
+**Dérogation à l'âge d'entrée (art. 6 al. 2 LS[^2-1])**
 
 <sup>1</sup> Les parents peuvent adresser par écrit, jusqu'au 30 mars, une demande à l'inspecteur ou à l'inspectrice scolaire afin de reporter l'âge d'entrée de leur enfant à l'école.
 
 <sup>2</sup> L'inspecteur ou l'inspectrice scolaire s'entretient avec les parents avant d'accorder par écrit la dérogation, dont une copie est adressée à la direction d'établissement et à la commune de domicile ou de résidence habituelle de l'enfant.
 
+[^2-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 3
 
-**Changement de domicile ou de type d'enseignement (art. 5 al. 1 et 13 LS)**
+**Changement de domicile ou de type d'enseignement (art. 5 al. 1 et 13 LS[^3-1])**
 
 <sup>1</sup> Lorsqu'un ou une élève change de domicile ou de résidence habituelle, ses parents en informent sans délai la commune du nouveau domicile ou de la nouvelle résidence habituelle.
 
@@ -69,9 +72,11 @@ Arrête:
 
 <sup>5</sup> L'attribution de la classe est décidée par la direction d'établissement.
 
+[^3-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 4
 
-**Résidence habituelle (art. 13 al. 1 LS)**
+**Résidence habituelle (art. 13 al. 1 LS[^4-1])**
 
 <sup>1</sup> L'enfant qui ne vit pas au domicile de ses parents a sa résidence dans la commune où il ou elle séjourne habituellement et durablement au moins du lundi au vendredi, nuitées comprises.
 
@@ -81,9 +86,11 @@ Arrête:
 
 <sup>4</sup> En cas de garde partagée lors d'une séparation, les parents désignent l'une de leurs communes de domicile comme lieu de scolarisation pour leur enfant.
 
+[^4-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 5
 
-**Changement de cercle scolaire (art. 14 LS) – Procédure**
+**Changement de cercle scolaire (art. 14 LS[^5-1]) – Procédure**
 
 <sup>1</sup> L'inspecteur ou l'inspectrice scolaire du domicile ou de la résidence habituelle de l'élève statue sur requête écrite et motivée des parents, de la direction d'établissement ou de l'autorité de protection de l'enfant. Les parents sont entendus lorsque la requête n'émane pas d'eux.
 
@@ -95,25 +102,32 @@ Arrête:
 
 <sup>5</sup> Avant toute décision de changement de cercle scolaire imposé, l'inspecteur ou l'inspectrice scolaire tient compte du coût et de la faisabilité du transport scolaire suivant le principe de la proportionnalité.
 
+[^5-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 6
 
-**Changement de cercle scolaire (art. 14 LS) – Frais (art. 15 et 16 LS)**
+**Changement de cercle scolaire (art. 14 LS[^6-1]) – Frais (art. 15 et 16 LS[^6-2])**
 
 <sup>1</sup> Les montants maximaux pouvant être facturés entre communes et aux parents sont fixés par voie d'ordonnance.
+
+[^6-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^6-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 7
 
 **Changement d'établissement à l'intérieur d'un cercle scolaire**
 
-<sup>1</sup> L'inspecteur ou l'inspectrice scolaire peut autoriser ou obliger un ou une élève à fréquenter un autre établissement du même cercle scolaire, au sens de l'article 50 al. 3 de la loi scolaire, si l'intérêt de l'élève ou de l'école le commande.
+<sup>1</sup> L'inspecteur ou l'inspectrice scolaire peut autoriser ou obliger un ou une élève à fréquenter un autre établissement du même cercle scolaire, au sens de l'article 50 al. 3 de la loi scolaire[^7-1], si l'intérêt de l'élève ou de l'école le commande.
 
 <sup>2</sup> L'article 5 s'applique par analogie.
 
 <sup>3</sup> La décision indique quel établissement doit accueillir l'élève. Le coût et l'organisation d'un transport scolaire éventuel sont à la charge des parents, sauf lorsque le changement d'établissement est imposé. Dans ce cas, le coût et l'organisation du transport scolaire sont à la charge de la ou des communes du cercle scolaire.
 
+[^7-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 8
 
-**Fréquentation scolaire intercantonale (art. 13 al. 2 LS)**
+**Fréquentation scolaire intercantonale (art. 13 al. 2 LS[^8-1])**
 
 <sup>1</sup> Conformément aux conventions intercantonales, la Direction peut, pour de justes motifs, autoriser la fréquentation d'un établissement situé dans un autre canton et émettre une garantie de prise en charge pour les contributions aux écolages demandées.
 
@@ -121,13 +135,16 @@ Arrête:
 
 <sup>3</sup> Le montant des contributions aux écolages pour les élèves ayant leur domicile civil en dehors du canton est conforme aux tarifs fixés dans les conventions intercantonales. Il peut être réduit pour correspondre au montant que le canton de domicile demande pour accueillir dans ses établissements les élèves fribourgeois.
 
-<sup>4</sup> La Direction répartit à l'intérieur du canton, conformément aux articles 67 et 72 de la loi scolaire, les contributions aux écolages versées et perçues.
+<sup>4</sup> La Direction répartit à l'intérieur du canton, conformément aux articles 67 et 72 de la loi scolaire[^8-2], les contributions aux écolages versées et perçues.
 
 <sup>5</sup> Les communes ne peuvent pas percevoir auprès des parents des élèves extracantonaux d'autres montants que ceux qui sont habituellement perçus auprès des parents du cercle scolaire.
 
+[^8-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^8-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 9
 
-**Contributions des parents (art. 10 al. 3 à 6 LS)**
+**Contributions des parents (art. 10 al. 3 à 6 LS[^9-1])**
 
 <sup>1</sup> …
 
@@ -135,7 +152,13 @@ Arrête:
 
 <sup>3</sup> Les montants maximaux pouvant être facturés aux parents sont fixés par voie d'ordonnance.
 
+[^9-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 ### 1.2 Transports scolaires (art. 17 LS)
+
+[^9-2]
+
+[^9-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 10
 
@@ -176,13 +199,15 @@ Arrête:
 
 **Reconnaissance – Compétence**
 
-<sup>1</sup> Les communes sont compétentes pour reconnaître les transports gratuits au sens de l'article 17 de la loi scolaire.
+<sup>1</sup> Les communes sont compétentes pour reconnaître les transports gratuits au sens de l'article 17 de la loi scolaire[^15-1].
+
+[^15-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 16
 
 **Modalités de la gratuité**
 
-<sup>1</sup> Lorsqu'un transport scolaire est reconnu, l'élève a droit au remboursement du titre du transport public.
+<sup>1</sup> Lorsqu'un transport scolaire est reconnu, l'élève a droit au remboursement du titre du transport public. En outre, les communes assurent un accompagnant adéquat dans le bus pour les élèves de moins de 7 ans.
 
 <sup>2</sup> A défaut de courses publiques suffisantes, son droit s'étend, en principe, à un transport collectif du centre de la localité de son domicile ou de sa résidence habituelle à son établissement ou, alternativement, à une indemnité pour l'utilisation d'un véhicule privé par les parents.
 
@@ -194,9 +219,12 @@ Arrête:
 
 <sup>1</sup> Sont gratuits pour les élèves les déplacements, durant le temps scolaire, d'un lieu d'enseignement à un autre, notamment pour se rendre aux lieux de l'éducation physique et sportive, des activités créatrices ou de l'enseignement religieux.
 
-<sup>2</sup> La gratuité ne s'applique pas aux déplacements pour se rendre à une activité facultative au sens de l'article 10 al. 4 de la loi scolaire, à une activité payante proposée lors d'une semaine thématique à options au sens de l'article 10 al. 5 de la loi scolaire et aux structures d'accueil extrascolaire.
+<sup>2</sup> La gratuité ne s'applique pas aux déplacements pour se rendre à une activité facultative au sens de l'article 10 al. 4 de la loi scolaire[^17-1], à une activité payante proposée lors d'une semaine thématique à options au sens de l'article 10 al. 5 de la loi scolaire[^17-2] et aux structures d'accueil extrascolaire.
 
 <sup>3</sup> Les dispositions relatives aux dispositifs d'apprentissage de la langue partenaire et aux mesures de soutien sont réservées.
+
+[^17-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^17-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 18
 
@@ -212,7 +240,7 @@ Arrête:
 
 #### Art. 19
 
-**Médiation et travail social en milieu scolaire (art. 4 al. 2 LS)**
+**Médiation et travail social en milieu scolaire (art. 4 al. 2 LS[^19-1])**
 
 <sup>1</sup> La médiation et le travail social en milieu scolaire comptent parmi les dispositifs dont les établissements peuvent bénéficier afin de développer et maintenir un climat scolaire de qualité.
 
@@ -228,9 +256,11 @@ Arrête:
 
 <sup>7</sup> Elles peuvent exercer leur mission dans un ou plusieurs établissements.
 
+[^19-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 20
 
-**Bureau «santé à l'école» (art. 41 al. 1 LS)**
+**Bureau «santé à l'école» (art. 41 al. 1 LS[^20-1])**
 
 <sup>1</sup> Le bureau inter-directions «santé à l'école» coordonne les activités de promotion de la santé et de prévention dans les écoles. Travaillant de concert avec les diverses institutions de santé au bénéfice d'un agrément, il est à la disposition des établissements pour:
 
@@ -240,9 +270,11 @@ Arrête:
 - d) recevoir et étudier les demandes d'agrément pour les intervenants ou intervenantes externes à l'école;
 - e) coordonner les activités du Réseau fribourgeois d'écoles en santé.
 
+[^20-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 21
 
-**Premier cycle (art. 8 al. 2 LS)**
+**Premier cycle (art. 8 al. 2 LS[^21-1])**
 
 <sup>1</sup> La ou les communes d'un cercle scolaire, sur la proposition de la direction d'établissement, peuvent décider de réunir les élèves du premier cycle (1–4H) dans une même classe dans la mesure où:
 
@@ -258,9 +290,11 @@ Arrête:
 
 <sup>4</sup> La ou les communes du cercle scolaire concerné supportent le coût du taux d'activité supplémentaire d'une telle classe par rapport au coût moyen cantonal d'une classe ordinaire.
 
+[^21-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 22
 
-**Types de classes à l'école du cycle d'orientation (art. 9 LS)**
+**Types de classes à l'école du cycle d'orientation (art. 9 LS[^22-1])**
 
 <sup>1</sup> L'école du cycle d'orientation comprend les types de classes suivants:
 
@@ -272,9 +306,11 @@ Arrête:
 
 <sup>3</sup> La direction d'établissement peut organiser un enseignement commun pour des disciplines générales, artistiques et sportives, sans distinction de types de classes. La direction d'établissement définit les modalités des groupes d'enseignement et les soumet pour approbation à l'inspecteur ou à l'inspectrice scolaire.
 
+[^22-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 23
 
-**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS) – Echanges linguistiques**
+**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS[^23-1]) – Echanges linguistiques**
 
 <sup>1</sup> Afin d'améliorer et de consolider les connaissances et compétences des élèves dans la langue partenaire, les enseignants et enseignantes peuvent organiser des échanges linguistiques dont les formes varient en fonction de l'âge des élèves. L'échange peut avoir lieu avec un établissement de l'autre partie linguistique du canton, de la Suisse ou de l'étranger.
 
@@ -284,9 +320,11 @@ Arrête:
 
 <sup>4</sup> Lorsqu'ils sont organisés en Suisse, les séjours linguistiques sont obligatoires et gratuits pour les élèves. Seuls les frais de repas sont à la charge des parents, dans les limites fixées par le Conseil d'Etat.
 
+[^23-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 24
 
-**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS) – 12<sup>e</sup> année linguistique**
+**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS[^24-1]) – 12<sup>e</sup> année linguistique**
 
 <sup>1</sup> L'élève ayant achevé sa scolarité obligatoire peut être autorisé-e à effectuer une 12<sup>e</sup> année linguistique, exceptionnellement une 13<sup>e</sup> année, dans un établissement de l'autre partie linguistique du canton.
 
@@ -298,11 +336,14 @@ Arrête:
 
 <sup>5</sup> Les frais de repas ainsi que le coût et l'organisation du transport sont à la charge des parents.
 
-<sup>6</sup> Les conventions intercantonales en matière de fréquentation d'une école située dans un autre canton sont réservées (art. 13 al. 2 LS et 8 RLS).
+<sup>6</sup> Les conventions intercantonales en matière de fréquentation d'une école située dans un autre canton sont réservées (art. 13 al. 2 LS[^24-2] et 8 RLS).
+
+[^24-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^24-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 25
 
-**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS) – Activités ou séquences d'enseignement dans la langue partenaire**
+**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS[^25-1]) – Activités ou séquences d'enseignement dans la langue partenaire**
 
 <sup>1</sup> Des activités ou des séquences d'enseignement dans les disciplines autres que celles qui sont destinées spécifiquement aux langues peuvent être dispensées dans la langue partenaire.
 
@@ -312,9 +353,11 @@ Arrête:
 
 <sup>4</sup> Les connaissances et les compétences des élèves sont évaluées en principe dans la langue d'enseignement principale (L1), mais peuvent également l'être dans la langue partenaire (L2).
 
+[^25-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 26
 
-**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS) – Classes bilingues**
+**Dispositifs d'apprentissage de la langue partenaire (art. 12 al. 2 LS[^26-1]) – Classes bilingues**
 
 <sup>1</sup> Des classes bilingues peuvent être constituées en fonction des savoirs linguistiques des élèves et des contingences locales, en particulier des ressources disponibles au sein du corps enseignant.
 
@@ -327,6 +370,8 @@ Arrête:
 <sup>5</sup> Lorsque les admissions dépassent la capacité d'accueil, un tirage au sort est effectué.
 
 <sup>6</sup> Les connaissances et les compétences des élèves sont évaluées dans les deux langues d'enseignement en fonction des cours suivis en L1 ou en L2.
+
+[^26-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 2 Fonctionnement général de l'école
 
@@ -354,7 +399,9 @@ Arrête:
 
 <sup>3</sup> En cas de doute sur l'opportunité ou la qualité d'une intervention, ou en cas d'interventions régulières, la direction d'établissement transmet la demande au Service de l'enseignement obligatoire (ci-après: le Service).
 
-<sup>4</sup> Les partenaires légitimés par une législation ou par la Direction sont de fait autorisés à intervenir dans les établissements. La procédure d'agrément prévue à l'article 8 du règlement du 14 juin 2004 concernant la promotion de la santé et la prévention est réservée.
+<sup>4</sup> Les partenaires légitimés par une législation ou par la Direction sont de fait autorisés à intervenir dans les établissements. La procédure d'agrément prévue à l'article 8 du règlement du 14 juin 2004 concernant la promotion de la santé et la prévention[^28-1] est réservée.
+
+[^28-1]: RSF [821.0.11](https://bdlf.fr.ch/data/821.0.11/fr)
 
 #### Art. 29
 
@@ -366,7 +413,7 @@ Arrête:
 
 #### Art. 30
 
-**Temps hebdomadaire d'enseignement (art. 18 al. 4 LS)**
+**Temps hebdomadaire d'enseignement (art. 18 al. 4 LS[^30-1])**
 
 <sup>1</sup> L'horaire hebdomadaire compte les unités d'enseignement suivantes, de cinquante minutes:
 
@@ -382,6 +429,8 @@ Arrête:
 <sup>3</sup> Les demi-unités sont possibles.
 
 <sup>4</sup> Une unité d'enseignement peut être écourtée du temps nécessaire au déplacement lorsqu'une classe change d'enseignant ou d'enseignante ou de lieu d'enseignement.
+
+[^30-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 31
 
@@ -409,7 +458,7 @@ Arrête:
 
 #### Art. 33
 
-**Activités scolaires (art. 10 al. 2 à 6 LS)**
+**Activités scolaires (art. 10 al. 2 à 6 LS[^33-1])**
 
 <sup>1</sup> L'enseignement peut être organisé, durant dix jours de classe au maximum par année scolaire, sous forme notamment d'excursions, de courses d'école, de classes vertes, de semaines thématiques, de voyages d'étude, de camps, de journées sportives ou culturelles. Ces activités doivent poursuivre des objectifs en lien avec les plans d'études.
 
@@ -423,6 +472,8 @@ Arrête:
 
 <sup>6</sup> La Direction peut émettre des directives ou des recommandations sur les activités scolaires.
 
+[^33-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 34
 
 **Cours facultatifs à l'école du cycle d'orientation**
@@ -433,7 +484,7 @@ Arrête:
 
 #### Art. 35
 
-**Demi-jours de congé hebdomadaire à l'école primaire (art. 20 al. 1 LS)**
+**Demi-jours de congé hebdomadaire à l'école primaire (art. 20 al. 1 LS[^35-1])**
 
 <sup>1</sup> En plus du mercredi après-midi, le nombre de demi-jours de congé hebdomadaire est le suivant:
 
@@ -446,9 +497,11 @@ Arrête:
 
 <sup>3</sup> Dans les classes à petit effectif, l'enseignement alterné peut être supprimé sur décision de l'inspecteur ou de l'inspectrice scolaire.
 
+[^35-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 36
 
-**Congé à une classe, à un établissement ou à un cercle scolaire (art. 21 LS)**
+**Congé à une classe, à un établissement ou à un cercle scolaire (art. 21 LS[^36-1])**
 
 <sup>1</sup> L'inspecteur ou l'inspectrice scolaire peut octroyer à une classe, à un établissement ou à un cercle scolaire un congé d'un jour au maximum par année scolaire, lorsque des circonstances exceptionnelles le justifient.
 
@@ -458,9 +511,11 @@ Arrête:
 
 <sup>4</sup> Les parents et les communes sont informés au plus tôt de la mise en congé des élèves.
 
+[^36-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 36a
 
-**Jours joker (art. 21 al.2 LS)**
+**Jours joker (art. 21 al.2 LS[^36a-1])**
 
 <sup>1</sup> Les jours joker ne peuvent pas être utilisés le premier jour d'école de l'année scolaire, lors des activités scolaires définies à l'article 33 et durant les jours de tests de référence cantonale, intercantonale ou internationale.
 
@@ -474,9 +529,11 @@ Arrête:
 
 <sup>6</sup> Les parents sont responsables des congés qu'ils sollicitent pour leurs enfants et assument le suivi des programmes. A la demande de l'école, les élèves rattrapent la matière et les évaluations manquées.
 
+[^36a-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 37
 
-**Congé à un ou une élève (art. 21 LS) – Principes**
+**Congé à un ou une élève (art. 21 LS[^37-1]) – Principes**
 
 <sup>1</sup> Un congé peut être octroyé à un ou une élève pour des motifs justifiés. Sont seuls pris en considération les motifs dûment attestés pouvant exceptionnellement l'emporter sur l'obligation de fréquenter l'école tels que:
 
@@ -487,9 +544,11 @@ Arrête:
 
 <sup>2</sup> …
 
+[^37-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 38
 
-**Congé à un ou une élève (art. 21 LS) – Procédure**
+**Congé à un ou une élève (art. 21 LS[^38-1]) – Procédure**
 
 <sup>1</sup> La demande de congé est présentée par écrit suffisamment à l'avance, à tout le moins dès que le motif est connu, à la direction d'établissement. Elle est motivée, le cas échéant, avec une pièce justificative, et signée des parents.
 
@@ -500,6 +559,8 @@ Arrête:
 <sup>4</sup> Les parents sont responsables des congés qu'ils sollicitent pour leurs enfants et assument le suivi des programmes. A la demande de l'école, les élèves rattrapent la matière et les évaluations manquées. Si le congé interfère avec une période d'examens officiels, des mesures spécifiques doivent être prises.
 
 <sup>5</sup> Les directions d'établissement sont compétentes pour décider des congés jusqu'à quatre semaines ou vingt jours par année scolaire. Au-delà, la Direction est compétente.
+
+[^38-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 38a
 
@@ -541,13 +602,15 @@ Arrête:
 
 #### Art. 40
 
-**Absences imputables aux parents (art. 32 LS)**
+**Absences imputables aux parents (art. 32 LS[^40-1])**
 
 <sup>1</sup> Lorsqu'une absence illégitime ou des arrivées tardives et répétées d'un ou d'une élève sont dues au fait des parents ou lorsqu'un congé a été obtenu sur la base de fausses déclarations, la direction d'établissement dénonce les parents à la préfecture.
 
 <sup>2</sup> La Direction informe la direction d'établissement de l'issue d'une dénonciation en matière de violation des obligations scolaires.
 
 <sup>3</sup> Un avis à l'autorité de protection de l'enfant au sens de l'article 102 est réservé.
+
+[^40-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 41
 
@@ -557,19 +620,21 @@ Arrête:
 
 #### Art. 42
 
-**Enseignement religieux confessionnel (art. 23 LS)**
+**Enseignement religieux confessionnel (art. 23 LS[^42-1])**
 
 <sup>1</sup> La Direction détermine le nombre d'unités réservé à l'enseignement religieux confessionnel, après avoir pris l'avis des Eglises et des communautés religieuses reconnues.
 
-<sup>2</sup> A la demande des autorités ecclésiastiques compétentes, la direction d'établissement accorde aux élèves qui souhaitent se préparer aux actes cultuels importants jusqu'à deux jours de congé par acte, choisis d'un commun accord.
+<sup>2</sup> A la demande des autorités ecclésiastiques compétentes, la direction d'établissement accorde aux élèves qui souhaitent se préparer aux actes culturels importants jusqu'à deux jours de congé par acte, choisis d'un commun accord.
 
 <sup>3</sup> La déclaration écrite des parents selon laquelle leur enfant ne suivra pas le cours d'enseignement religieux confessionnel est adressée, avant le début de l'année scolaire, à la direction d'établissement. Les élèves âgés de 16 ans révolus peuvent agir par eux-mêmes.
 
 <sup>4</sup> Les élèves dispensés restent sous la responsabilité et la surveillance de l'école.
 
+[^42-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 43
 
-**Projets pédagogiques (art. 24 LS)**
+**Projets pédagogiques (art. 24 LS[^43-1])**
 
 <sup>1</sup> Est considéré comme projet pédagogique un projet dont les buts sont en adéquation avec les objectifs des plans d'études et qui concourt à les faire atteindre ou qui servent au développement de l'école sur le plan organisationnel, pédagogique, didactique ou éducatif. Le projet peut concerner un groupe d'élèves, un établissement, une région ou l'ensemble du canton.
 
@@ -579,13 +644,15 @@ Arrête:
 
 <sup>4</sup> Les communes sont consultées au préalable lorsque le projet touche à l'organisation et au fonctionnement de leur cercle scolaire.
 
+[^43-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 44
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole primaire a) Effectifs des 1H et 2H**
+**Effectifs des classes (art. 26 et 27 LS[^44-1]) – Ecole primaire a) Effectifs des 1H et 2H**
 
 <sup>1</sup> Les élèves en 1H et 2H sont regroupés dans une même classe.
 
-<sup>2</sup> Le nombre de classes de chaque cercle scolaire ou établissement au sens de l'article 50 al. 3 de la loi scolaire est établi en fonction du nombre total d'élèves de 1H et 2H comme il suit:
+<sup>2</sup> Le nombre de classes de chaque cercle scolaire ou établissement au sens de l'article 50 al. 3 de la loi scolaire[^44-2] est établi en fonction du nombre total d'élèves de 1H et 2H comme il suit:
 
 <table>
 <tr><th>Nombre d'élèves</th><th>Nombre de classes</th></tr>
@@ -604,11 +671,14 @@ Arrête:
 
 <sup>3</sup> Chaque élève au bénéfice d'une mesure d'aide renforcée de pédagogie spécialisée et intégré-e en classe ordinaire compte pour trois élèves dans le cercle scolaire ou dans l'établissement.
 
+[^44-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^44-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 45
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole primaire b) Effectifs des 3H à 8H**
+**Effectifs des classes (art. 26 et 27 LS[^45-1]) – Ecole primaire b) Effectifs des 3H à 8H**
 
-<sup>1</sup> Le nombre de classes de chaque cercle scolaire ou établissement au sens de l'article 50 al. 3 de la loi scolaire est établi en fonction du nombre total d'élèves de la 3H à la 8H.
+<sup>1</sup> Le nombre de classes de chaque cercle scolaire ou établissement au sens de l'article 50 al. 3 de la loi scolaire[^45-2] est établi en fonction du nombre total d'élèves de la 3H à la 8H.
 
 <sup>2</sup> Le nombre de classes est déterminé comme il suit:
 
@@ -670,9 +740,12 @@ Arrête:
 <tr><td>...</td><td></td></tr>
 </table>
 
+[^45-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^45-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 46
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole primaire c) Commission des effectifs scolaires primaires**
+**Effectifs des classes (art. 26 et 27 LS[^46-1]) – Ecole primaire c) Commission des effectifs scolaires primaires**
 
 <sup>1</sup> En application des articles 53 al. 1 et 2 et 54, il peut être dérogé aux effectifs fixés aux articles 44 et 45 sur la base d'objectifs fixés par le Conseil d'Etat. La Direction prend alors l'avis de la commission des effectifs scolaires.
 
@@ -682,17 +755,21 @@ Arrête:
 
 <sup>4</sup> Si les objectifs fixés par le Conseil d'Etat ne peuvent être raisonnablement atteints, la Direction en informe le Conseil d'Etat.
 
+[^46-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 47
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole primaire d) Répartition des classes primaires**
+**Effectifs des classes (art. 26 et 27 LS[^47-1]) – Ecole primaire d) Répartition des classes primaires**
 
 <sup>1</sup> La direction d'établissement répartit les classes par année d'enseignement en fonction du nombre de classes attribué au cercle scolaire ou à l'établissement. Elle répartit également les élèves dans les classes et les classes dans les locaux scolaires. Ces répartitions sont soumises pour approbation aux communes et à l'inspecteur ou à l'inspectrice scolaire.
 
 <sup>2</sup> Les classes sont attribuées aux enseignants et enseignantes par la direction d'établissement.
 
+[^47-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 48
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole du cycle d'orientation a) Effectifs des types de classes**
+**Effectifs des classes (art. 26 et 27 LS[^48-1]) – Ecole du cycle d'orientation a) Effectifs des types de classes**
 
 <sup>1</sup> Une classe prégymnasiale doit comprendre au minimum 15 élèves et au maximum 29 élèves. Le nombre de classes est déterminé comme il suit:
 
@@ -735,21 +812,27 @@ Arrête:
 
 <sup>5</sup> Chaque élève au bénéfice d'une mesure d'aide renforcée de pédagogie spécialisée et intégré-e en classe ordinaire compte pour trois élèves dans sa classe.
 
+[^48-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 49
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole du cycle d'orientation b) Cours à option et cours facultatifs à l'école du cycle d'orientation**
+**Effectifs des classes (art. 26 et 27 LS[^49-1]) – Ecole du cycle d'orientation b) Cours à option et cours facultatifs à l'école du cycle d'orientation**
 
 <sup>1</sup> Un cours à option ou un cours facultatif doit comprendre au moins 8 élèves.
 
 <sup>2</sup> Lorsque des circonstances particulières le justifient, la Direction peut déroger à cette limite.
 
+[^49-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 50
 
-**Effectifs des classes (art. 26 et 27 LS) – Ecole du cycle d'orientation c) Répartition des classes du cycle d'orientation**
+**Effectifs des classes (art. 26 et 27 LS[^50-1]) – Ecole du cycle d'orientation c) Répartition des classes du cycle d'orientation**
 
 <sup>1</sup> La direction d'établissement répartit les classes par année d'enseignement en fonction du nombre de classes attribué à l'établissement. Elle répartit également les élèves dans les classes et les classes dans les locaux scolaires. Ces répartitions sont soumises pour approbation aux communes et à l'inspecteur ou à l'inspectrice scolaire.
 
 <sup>2</sup> Les classes sont attribuées aux enseignants et enseignantes par la direction d'établissement.
+
+[^50-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 51
 
@@ -767,7 +850,7 @@ Arrête:
 
 #### Art. 53
 
-**Ouverture et fermeture d'une classe (art. 27 LS)**
+**Ouverture et fermeture d'une classe (art. 27 LS[^53-1])**
 
 <sup>1</sup> L'ouverture ou la fermeture d'une classe est décidée sur la base des effectifs arrêtés au 15 mai selon les articles 44 à 51.
 
@@ -775,9 +858,11 @@ Arrête:
 
 <sup>3</sup> Exceptionnellement, la Direction peut décider de l'ouverture d'une classe après le 15 mai, notamment en raison d'un flux migratoire important.
 
+[^53-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 54
 
-**Maintien d'une classe (art. 27 LS)**
+**Maintien d'une classe (art. 27 LS[^54-1])**
 
 <sup>1</sup> Une classe peut être maintenue malgré un effectif inférieur à celui qui était prévu:
 
@@ -786,13 +871,16 @@ Arrête:
 - c) à l'école primaire, lorsque sa fermeture impliquerait la création de classes à plus de deux années successives;
 - d) à l'école du cycle d'orientation, lorsqu'elle est la seule de ce type.
 
-<sup>2</sup> Est en outre réservé l'article 27 al. 3 de la loi scolaire.
+<sup>2</sup> Est en outre réservé l'article 27 al. 3 de la loi scolaire[^54-2].
+
+[^54-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^54-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 3 Parents
 
 #### Art. 55
 
-**Information des parents (art. 30 LS)**
+**Information des parents (art. 30 LS[^55-1])**
 
 <sup>1</sup> Les parents sont régulièrement informés du parcours scolaire de leur enfant au travers d'entretiens individuels et du bulletin scolaire. D'autres moyens d'information peuvent faire le lien entre l'école et les parents.
 
@@ -800,17 +888,21 @@ Arrête:
 
 <sup>3</sup> Les parents sont représentés dans les conseils de parents.
 
+[^55-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 56
 
-**Interprétariat (art. 30 LS)**
+**Interprétariat (art. 30 LS[^56-1])**
 
 <sup>1</sup> Lorsque la communication avec des parents allophones établis dans le canton en principe depuis moins de deux ans ou avec des parents atteints de surdité s'avère insuffisante, les établissements peuvent faire appel à des interprètes interculturels ou en langue des signes.
 
 <sup>2</sup> La Direction, en collaboration avec les communes, désigne les partenaires habilités à l'interprétariat et fixe avec elles les modalités du contrat de prestation.
 
+[^56-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 57
 
-**Collaboration entre l'école et les parents (art. 30 LS)**
+**Collaboration entre l'école et les parents (art. 30 LS[^57-1])**
 
 <sup>1</sup> Les parents encouragent et soutiennent leur enfant dans ses apprentissages en créant un environnement propice au travail scolaire et en veillant à ce que ses occupations en dehors de l'école ne nuisent pas à son travail scolaire.
 
@@ -828,17 +920,21 @@ Arrête:
 
 <sup>8</sup> En cas de difficulté de collaboration, la direction d'établissement ou les parents peuvent exiger un entretien.
 
+[^57-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 58
 
-**Conseil des parents (art. 31 LS) – Rôle**
+**Conseil des parents (art. 31 LS[^58-1]) – Rôle**
 
 <sup>1</sup> Le conseil des parents permet l'échange d'informations et le débat de propositions entre les parents, l'établissement et les communes. Il défend les préoccupations des parents et l'intérêt des élèves en général. Le conseil des parents n'est informé ni ne traite d'aucune situation individuelle.
 
 <sup>2</sup> Le conseil des parents peut remplir des tâches en lien avec la vie de l'établissement. Il peut, après concertation avec la direction d'établissement, organiser différentes actions ou activités auxquelles il participe.
 
+[^58-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 59
 
-**Conseil des parents (art. 31 LS) – Constitution**
+**Conseil des parents (art. 31 LS[^59-1]) – Constitution**
 
 <sup>1</sup> Les communes, en collaboration avec la direction d'établissement, constituent le conseil des parents. Le règlement scolaire communal fixe notamment le nombre de membres, le mode de désignation ainsi que les règles générales d'organisation et de fonctionnement.
 
@@ -846,19 +942,25 @@ Arrête:
 
 <sup>3</sup> Les communes peuvent démettre une personne qui nuit au fonctionnement ou à l'image du conseil des parents ou de l'école. Sauf cas grave, cette décision est précédée d'un avertissement.
 
+[^59-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 60
 
-**Conseil des parents (art. 31 LS) – Réunions**
+**Conseil des parents (art. 31 LS[^60-1]) – Réunions**
 
 <sup>1</sup> Le conseil des parents se réunit au moins deux fois par année scolaire. Les réunions du conseil ne sont pas publiques.
 
+[^60-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 61
 
-**Conseil des parents (art. 31 LS) – Information du public**
+**Conseil des parents (art. 31 LS[^61-1]) – Information du public**
 
 <sup>1</sup> La présidence est la porte-parole du conseil. Elle est compétente pour traiter, conformément à la législation cantonale y relative, les demandes d'accès aux documents du conseil.
 
 <sup>2</sup> A la demande de la présidence, les membres ainsi que la personne qui assure le secrétariat sont tenus à la discrétion sur les objets traités en séance.
+
+[^61-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 4 Elèves
 
@@ -866,15 +968,17 @@ Arrête:
 
 #### Art. 62
 
-**Egalité des droits entre garçons et filles (art. 33 al. 2 LS)**
+**Egalité des droits entre garçons et filles (art. 33 al. 2 LS[^62-1])**
 
 <sup>1</sup> Les garçons et les filles reçoivent un enseignement identique et suivent les mêmes cours obligatoires dispensés dans des classes mixtes.
 
 <sup>2</sup> L'enseignement de l'éducation physique et sportive peut être donné séparément aux garçons et aux filles.
 
+[^62-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 63
 
-**Droits (art. 33 LS)**
+**Droits (art. 33 LS[^63-1])**
 
 <sup>1</sup> Les élèves sont informés et associés à la vie générale de la classe et de l'établissement, et possibilité leur est donnée d'exprimer leur avis et d'émettre des propositions. Les modalités de participation à la vie scolaire sont définies dans le règlement d'établissement.
 
@@ -882,9 +986,11 @@ Arrête:
 
 <sup>3</sup> Pour que l'élève soit impliqué-e dans ses apprentissages, il ou elle participe en principe aux entretiens entre l'école et ses parents.
 
+[^63-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 64
 
-**Obligations (art. 34 LS)**
+**Obligations (art. 34 LS[^64-1])**
 
 <sup>1</sup> Les élèves fréquentent l'école aux horaires établis.
 
@@ -893,6 +999,8 @@ Arrête:
 <sup>3</sup> Ils contribuent au bon climat de la classe.
 
 <sup>4</sup> Ils prennent soin du matériel, du mobilier et des locaux mis à leur disposition. Ils sont responsables de leurs objets et effets personnels en cas de vol, dommage ou perte.
+
+[^64-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 65
 
@@ -942,7 +1050,7 @@ Arrête:
 
 #### Art. 68
 
-**Sanctions disciplinaires (art. 39 LS)**
+**Sanctions disciplinaires (art. 39 LS[^68-1])**
 
 <sup>1</sup> Sont de la compétence de la direction d'établissement les sanctions suivantes:
 
@@ -967,6 +1075,8 @@ Arrête:
 <sup>7</sup> La décision est communiquée aux parents par écrit.
 
 <sup>8</sup> Les dispositions du droit pénal et du droit concernant la protection de l'enfant sont réservées.
+
+[^68-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 69
 
@@ -1000,6 +1110,10 @@ Arrête:
 <sup>4</sup> La direction d'établissement peut demander la collaboration de l'autorité de protection de l'enfant.
 
 ### 4.2 Evaluation du travail scolaire (art. 37 et 38 LS)
+
+[^71-1]
+
+[^71-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 72
 
@@ -1053,13 +1167,15 @@ Arrête:
 
 #### Art. 76
 
-**Tests de référence (art. 37 al. 2 LS)**
+**Tests de référence (art. 37 al. 2 LS[^76-1])**
 
 <sup>1</sup> Des tests de référence passés simultanément par tout ou partie des élèves ont lieu au cours de leur scolarité. Ces tests peuvent être de portée cantonale, intercantonale ou internationale.
 
 <sup>2</sup> La Direction fixe le but des tests de référence ainsi que leurs modalités d'exécution, de correction, de communication et de prise en compte des résultats dans l'évaluation de l'élève.
 
 <sup>3</sup> Lorsqu'un ou une élève présente des besoins scolaires particuliers, l'inspecteur ou l'inspectrice scolaire décide de lui faire passer ou non les tests de référence, après avoir consulté les professionnel-le-s intervenant auprès de l'élève.
+
+[^76-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 77
 
@@ -1097,7 +1213,7 @@ Arrête:
 
 #### Art. 80
 
-**Passage de l'école primaire à l'école du cycle d'orientation (art. 9 al. 2 LS)**
+**Passage de l'école primaire à l'école du cycle d'orientation (art. 9 al. 2 LS[^80-1])**
 
 <sup>1</sup> Une procédure de passage de l'école primaire à l'école du cycle d'orientation détermine le type de classe assurant l'encadrement pédagogique le mieux approprié aux connaissances et compétences de l'élève.
 
@@ -1111,9 +1227,11 @@ Arrête:
 
 <sup>6</sup> La préorientation des élèves provenant d'autres cantons, de l'étranger ou de l'enseignement privé est décidée par la direction d'établissement.
 
+[^80-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 81
 
-**Changement de type de classe (art. 9 al. 3 LS)**
+**Changement de type de classe (art. 9 al. 3 LS[^81-1])**
 
 <sup>1</sup> Un changement de type de classe peut être effectué dans la mesure où le travail scolaire, les connaissances et les compétences de l'élève le justifient.
 
@@ -1125,16 +1243,24 @@ Arrête:
 
 <sup>5</sup> La Direction fixe les conditions d'un changement de type de classe.
 
+[^81-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 82
 
-**Orientation continue (art. 9 al. 3 LS)**
+**Orientation continue (art. 9 al. 3 LS[^82-1])**
 
 <sup>1</sup> L'orientation continue des élèves est favorisée:
 
 - a) par une concertation régulière entre la direction d'établissement, le corps enseignant, les parents et l'élève; d'autres professionnel-le-s intervenant auprès de l'élève peuvent être amenés à collaborer;
 - b) par une information des élèves et des parents sur les conditions d'un changement de type de classe ainsi que sur les possibilités de formation, de leurs conditions d'accès et des débouchés qu'elles permettent.
 
+[^82-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 ### 4.3 Mesures de soutien (art. 35 LS)
+
+[^82-2]
+
+[^82-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 83
 
@@ -1348,6 +1474,10 @@ Arrête:
 
 ### 4.4 Traitement des données personnelles des élèves (art. 43 LS)
 
+[^102-1]
+
+[^102-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 103
 
 **Contenus des banques de données ou fichiers d'élèves**
@@ -1408,7 +1538,7 @@ Arrête:
 - d) le rôle ou la fonction;
 - e) l'établissement scolaire, la voie de formation et le degré;
 - f) le canton de domicile;
-- g) l'identificateur technique (NAVS 13).
+- g) l'identificateur technique (NAVS13).
 
 #### Art. 107
 
@@ -1416,7 +1546,9 @@ Arrête:
 
 <sup>1</sup> Les directions d'établissement peuvent communiquer, dans un cas d'espèce, des données personnelles d'un ou d'une élève, sans le consentement des personnes concernées, si le ou la destinataire exerce une tâche publique qui sert l'intérêt de l'enfant et que les données communiquées lui soient absolument nécessaires pour l'accomplissement de sa fonction.
 
-<sup>2</sup> Sont réservés les obligations particulières de garder le secret (art. 42 LS) ainsi que les principes régissant le traitement de données personnelles selon la législation y relative.
+<sup>2</sup> Sont réservés les obligations particulières de garder le secret (art. 42 LS[^107-1]) ainsi que les principes régissant le traitement de données personnelles selon la législation y relative.
+
+[^107-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 108
 
@@ -1447,6 +1579,10 @@ Arrête:
 ## 5 Autorités scolaires
 
 ### 5.1 Directions d'établissement (art. 50, 51, 54 et 55 LS)
+
+[^109-1]
+
+[^109-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 110
 
@@ -1514,6 +1650,10 @@ Arrête:
 
 ### 5.2 Inspecteurs et inspectrices scolaires (art. 52 à 55 LS)
 
+[^117-1]
+
+[^117-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 118
 
 **Statut**
@@ -1542,9 +1682,11 @@ Arrête:
 
 #### Art. 121
 
-**Regroupement des locaux et installations scolaires (art. 57 al. 2 let. b LS)**
+**Regroupement des locaux et installations scolaires (art. 57 al. 2 let. b LS[^121-1])**
 
 <sup>1</sup> Dans la mesure du possible, les communes regroupent les locaux et installations scolaires de manière à éviter aux élèves des déplacements durant le temps consacré à l'enseignement.
+
+[^121-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 122
 
@@ -1554,19 +1696,24 @@ Arrête:
 
 #### Art. 123
 
-**Etat des locaux et installations scolaires (art. 41 al. 3 LS)**
+**Etat des locaux et installations scolaires (art. 41 al. 3 LS[^123-1])**
 
-<sup>1</sup> Les communes contrôlent régulièrement si l'état des locaux et des installations scolaires répond aux exigences de l'article 41 al. 3 de la loi scolaire et en informent la direction d'établissement.
+<sup>1</sup> Les communes contrôlent régulièrement si l'état des locaux et des installations scolaires répond aux exigences de l'article 41 al. 3 de la loi scolaire[^123-2] et en informent la direction d'établissement.
 
 <sup>2</sup> La direction d'établissement signale toute insuffisance aux communes et peut requérir au besoin l'intervention de la Direction.
 
+[^123-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^123-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 124
 
-**Accès aux locaux et installations scolaires (art. 94 LS)**
+**Accès aux locaux et installations scolaires (art. 94 LS[^124-1])**
 
 <sup>1</sup> L'accès aux locaux et installations scolaires durant le temps scolaire est réservé aux élèves, au personnel de l'établissement et aux autres personnes dûment légitimées.
 
 <sup>2</sup> Les communes et/ou la direction d'établissement peuvent interdire, sous peine de plainte pénale, l'accès au périmètre scolaire à toute personne qui perturbe l'enseignement ou le bon fonctionnement de l'école.
+
+[^124-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 125
 
@@ -1592,15 +1739,17 @@ Arrête:
 
 #### Art. 128
 
-**Personnel administratif et technique (art. 57 al. 2 let. c LS)**
+**Personnel administratif et technique (art. 57 al. 2 let. c LS[^128-1])**
 
 <sup>1</sup> Le personnel administratif et technique est engagé par les communes. Ces dernières fixent son cahier des charges après consultation de la direction d'établissement. La direction d'établissement et le personnel administratif et technique travaillent en étroite collaboration.
+
+[^128-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 7 Services de logopédie, psychologie et psychomotricité
 
 #### Art. 129
 
-**Reconnaissance des services de logopédie, psychologie et psychomotricité (art. 63 et 65 LS)**
+**Reconnaissance des services de logopédie, psychologie et psychomotricité (art. 63 et 65 LS[^129-1])**
 
 <sup>1</sup> L'octroi de la subvention de l'Etat est subordonné à une décision de reconnaissance, par la Direction, du service de logopédie, psychologie et psychomotricité.
 
@@ -1612,6 +1761,8 @@ Arrête:
 - b) et si la mise en place du service concerné répond aux exigences d'une répartition rationnelle des services de logopédie, psychologie et psychomotricité dans le canton.
 
 <sup>4</sup> La reconnaissance est retirée si les conditions de son octroi ne sont plus remplies.
+
+[^129-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 130
 
@@ -1627,15 +1778,17 @@ Arrête:
 
 #### Art. 131
 
-**Recours aux services (art. 64 LS)**
+**Recours aux services (art. 64 LS[^131-1])**
 
 <sup>1</sup> Pour avoir recours aux services de logopédie, psychologie et psychomotricité, les parents, si possible en collaboration avec l'enseignant ou l'enseignante, adressent une demande à la direction desdits services. Le cas échéant, ils peuvent bénéficier des conseils des professionnel-le-s intervenant auprès de l'élève pour formuler leur demande.
 
 <sup>2</sup> La direction des services de logopédie, psychologie et psychomotricité informe la direction d'établissement de sa décision.
 
+[^131-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 132
 
-**Subvention de l'Etat (art. 65 LS)**
+**Subvention de l'Etat (art. 65 LS[^132-1])**
 
 <sup>1</sup> Les services reconnus établissent le décompte, au 31 décembre, des frais de logopédie, psychologie et psychomotricité ainsi que des prestations de tiers y relatives pour l'année civile écoulée.
 
@@ -1643,11 +1796,13 @@ Arrête:
 
 <sup>3</sup> La subvention de l'Etat est versée conformément à la législation sur les subventions.
 
+[^132-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 ## 8 Financement de l'école
 
 #### Art. 133
 
-**Frais des moyens d'enseignement et des fournitures scolaires (art. 22 al. 2, 66 al. 2 et 71 al. 2 LS)**
+**Frais des moyens d'enseignement et des fournitures scolaires (art. 22 al. 2, 66 al. 2 et 71 al. 2 LS[^133-1])**
 
 <sup>1</sup> La Direction établit annuellement et par degré d'enseignement la liste des moyens d'enseignement reconnus et des fournitures scolaires.
 
@@ -1659,9 +1814,11 @@ Arrête:
 
 <sup>5</sup> Les moyens d'enseignement et les fournitures scolaires peuvent être facturés aux parents dans la mesure où leur enfant les perd ou n'en prend pas normalement soin.
 
+[^133-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 134
 
-**Frais de traitement du corps enseignant et du personnel socio-éducatif (art. 67 al. 1 let. a, b et c et 72 al. 1 let. a, b et c LS)**
+**Frais de traitement du corps enseignant et du personnel socio-éducatif (art. 67 al. 1 let. a, b et c et 72 al. 1 let. a, b et c LS[^134-1])**
 
 <sup>1</sup> Les frais de traitement comprennent:
 
@@ -1681,9 +1838,11 @@ Arrête:
 - d) les allocations pour perte de gain en cas de maternité;
 - e) la part au produit de la taxe CO<sub>2</sub>.
 
+[^134-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 135
 
-**Charges relatives aux frais de traitement (art. 67 al. 1 let. a, b et c et 72 al. 1 let. a, b et c LS)**
+**Charges relatives aux frais de traitement (art. 67 al. 1 let. a, b et c et 72 al. 1 let. a, b et c LS[^135-1])**
 
 <sup>1</sup> Les charges relatives aux frais de traitement comprennent:
 
@@ -1698,13 +1857,17 @@ Arrête:
 - i) les frais administratifs relatifs à l'assurance-vieillesse et survivants, à l'assurance-invalidité et aux allocations pour perte de gain;
 - j) les frais administratifs relatifs au paiement et à la récupération des frais de traitement.
 
+[^135-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 136
 
-**Indemnités de déplacement (art. 67 al. 1 let. d LS)**
+**Indemnités de déplacement (art. 67 al. 1 let. d LS[^136-1])**
 
 <sup>1</sup> Le corps enseignant ou le personnel socio-éducatif itinérants est le personnel dont la fonction est instituée par la Direction comme fonction unique, obligeant toutefois à l'exercer dans plusieurs établissements.
 
 <sup>2</sup> L'indemnité de déplacement est versée sur présentation d'un décompte.
+
+[^136-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 137
 
@@ -1714,19 +1877,25 @@ Arrête:
 
 #### Art. 138
 
-**Procédure (art. 68 et 69 al. 2 LS)**
+**Procédure (art. 68 et 69 al. 2 LS[^138-1])**
 
 <sup>1</sup> A l'école primaire, le décompte des frais incombant à chaque commune est établi sur la base du chiffre de la population dite légale publié l'année précédant l'année de décompte.
 
 <sup>2</sup> Les communes paient les factures dans les trente jours.
 
+[^138-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 ## 9 Enseignement privé
 
 ### 9.1 Ecoles privées (art. 76 à 80 LS)
 
+[^138-2]
+
+[^138-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 139
 
-**Autorisation (art. 76 LS)**
+**Autorisation (art. 76 LS[^139-1])**
 
 <sup>1</sup> La demande d'autorisation pour l'ouverture d'une école privée doit être déposée au plus tard le 31 décembre pour l'année scolaire suivante. Elle doit comprendre notamment les éléments suivants:
 
@@ -1737,6 +1906,8 @@ Arrête:
 - e) les conditions d'admission et la formule d'inscription des élèves;
 - f) le programme d'enseignement, la répartition hebdomadaire des unités d'enseignement et la langue d'enseignement;
 - g) un exemplaire du bulletin scolaire ou du document consignant les résultats scolaires ainsi qu'un exemplaire du certificat, du diplôme ou de l'attestation que l'école délivre.
+
+[^139-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 140
 
@@ -1754,13 +1925,15 @@ Arrête:
 
 #### Art. 142
 
-**Atteinte des objectifs d'apprentissage (art. 76 al. 2 let. c LS)**
+**Atteinte des objectifs d'apprentissage (art. 76 al. 2 let. c LS[^142-1])**
 
 <sup>1</sup> La Direction vérifie au moins une fois par année si la formation dispensée permet l'atteinte des objectifs fixés par les plans d'études en vigueur à l'école publique.
 
 <sup>2</sup> Lorsque la formation semble insuffisante, la Direction peut soumettre les élèves à des évaluations.
 
 <sup>3</sup> En cas d'insuffisance avérée, la Direction met en demeure la direction de l'école privée d'y remédier dans un délai déterminé. Si les insuffisances persistent, elle peut ordonner la scolarisation des élèves à l'école publique.
+
+[^142-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 143
 
@@ -1770,9 +1943,13 @@ Arrête:
 
 ### 9.2 Enseignement à domicile (art. 81 à 85 LS)
 
+[^143-1]
+
+[^143-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 144
 
-**Autorisation (art. 81 LS)**
+**Autorisation (art. 81 LS[^144-1])**
 
 <sup>1</sup> La demande d'autorisation d'enseignement à domicile doit notamment comprendre les éléments suivants:
 
@@ -1787,11 +1964,15 @@ Arrête:
 
 <sup>4</sup> Les parents sont responsables de l'enseignement dispensé à leurs enfants.
 
+[^144-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 145
 
-**Atteinte des objectifs d'apprentissage (art. 81 al. 4 LS)**
+**Atteinte des objectifs d'apprentissage (art. 81 al. 4 LS[^145-1])**
 
 <sup>1</sup> L'article 142 s'applique par analogie.
+
+[^145-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 10 Voies de droit
 
@@ -1809,7 +1990,7 @@ Arrête:
 
 #### Art. 147
 
-**Procédure de réclamation (art. 86 LS)**
+**Procédure de réclamation (art. 86 LS[^147-1])**
 
 <sup>1</sup> La réclamation contient un bref exposé des faits et des motifs ainsi que l'énoncé des conclusions.
 
@@ -1819,15 +2000,20 @@ Arrête:
 
 <sup>4</sup> La décision sur réclamation est rendue par écrit; elle est brièvement motivée.
 
+[^147-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 148
 
-**Décisions prises sur délégation (art. 87 LS)**
+**Décisions prises sur délégation (art. 87 LS[^148-1])**
 
-<sup>1</sup> Les décisions des adjoints et adjointes de direction qui affectent ou peuvent affecter le statut de l'élève sont susceptibles de recours à la Direction conformément à l'article 87 de la loi scolaire.
+<sup>1</sup> Les décisions des adjoints et adjointes de direction qui affectent ou peuvent affecter le statut de l'élève sont susceptibles de recours à la Direction conformément à l'article 87 de la loi scolaire[^148-2].
+
+[^148-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^148-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 #### Art. 149
 
-**Plainte des parents (art. 88 LS) – Autorités compétentes**
+**Plainte des parents (art. 88 LS[^149-1]) – Autorités compétentes**
 
 <sup>1</sup> Les autorités de plainte sont:
 
@@ -1837,9 +2023,11 @@ Arrête:
 
 <sup>2</sup> La Direction est l'autorité de recours contre la décision de l'autorité scolaire qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à la charge du plaignant ou de la plaignante.
 
+[^149-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 150
 
-**Plainte des parents (art. 88 LS) – Procédure**
+**Plainte des parents (art. 88 LS[^150-1]) – Procédure**
 
 <sup>1</sup> La plainte est déposée par écrit, datée et signée, auprès de l'autorité compétente. Elle contient un bref exposé des faits et des motifs.
 
@@ -1847,15 +2035,19 @@ Arrête:
 
 <sup>3</sup> La décision sur plainte est rendue par écrit; elle est brièvement motivée.
 
+[^150-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 151
 
-**Plainte des parents (art. 88 LS) – Frais de procédure**
+**Plainte des parents (art. 88 LS[^151-1]) – Frais de procédure**
 
 <sup>1</sup> Constituent des frais de procédure les dépenses occasionnées spécialement par l'instruction de la plainte, notamment les frais causés par l'administration de preuves, les indemnités de déplacement et les honoraires de tiers.
 
+[^151-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 152
 
-**Réclamation en matière de financement (art. 91 LS)**
+**Réclamation en matière de financement (art. 91 LS[^152-1])**
 
 <sup>1</sup> La réclamation contre une décision en matière de financement contient un exposé des faits, des motifs et moyens de preuve ainsi que l'énoncé des conclusions.
 
@@ -1863,29 +2055,40 @@ Arrête:
 
 <sup>3</sup> La décision sur réclamation est rendue par écrit; elle est brièvement motivée.
 
+[^152-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+
 #### Art. 153
 
-**Décisions concernant l'organisation et le fonctionnement des cercles scolaires (art. 92 al. 2 LS)**
+**Décisions concernant l'organisation et le fonctionnement des cercles scolaires (art. 92 al. 2 LS[^153-1])**
 
 <sup>1</sup> Sont des décisions concernant l'organisation et le fonctionnement des cercles scolaires:
 
 - a) l'ouverture, la fermeture ou le maintien de classes (art. 52 à 54);
-- b) la dérogation aux conditions d'un cercle scolaire (art. 59 al. 2 LS);
-- c) l'autorisation de collaborer avec des communes d'autres cantons pour la formation d'un cercle scolaire (art. 59 al. 3 LS);
-- d) la constitution imposée d'un cercle scolaire (art. 60 al. 2 LS);
-- e) la ratification des limites géographiques des établissements d'un cercle scolaire (art. 60 al. 3 LS);
-- f) l'autorisation de conclure une entente intercommunale pour la création et la gestion d'une école du cycle d'orientation et l'approbation de la convention y relative (art. 61 al. 2 LS);
+- b) la dérogation aux conditions d'un cercle scolaire (art. 59 al. 2 LS[^153-2]);
+- c) l'autorisation de collaborer avec des communes d'autres cantons pour la formation d'un cercle scolaire (art. 59 al. 3 LS[^153-3]);
+- d) la constitution imposée d'un cercle scolaire (art. 60 al. 2 LS[^153-4]);
+- e) la ratification des limites géographiques des établissements d'un cercle scolaire (art. 60 al. 3 LS[^153-5]);
+- f) l'autorisation de conclure une entente intercommunale pour la création et la gestion d'une école du cycle d'orientation et l'approbation de la convention y relative (art. 61 al. 2 LS[^153-6]);
 - g) la reconnaissance des services de logopédie, psychologie et psychomotricité (art. 129).
+
+[^153-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^153-2]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^153-3]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^153-4]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^153-5]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^153-6]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 11 Autorités cantonales
 
 #### Art. 154
 
-**Evaluation du système scolaire (art. 96 al. 1 LS)**
+**Evaluation du système scolaire (art. 96 al. 1 LS[^154-1])**
 
 <sup>1</sup> Le système scolaire fait l'objet d'une évaluation régulière qui contribue à sa qualité.
 
 <sup>2</sup> La Direction met en place un dispositif d'évaluation à l'aide d'indicateurs quantitatifs et qualitatifs permettant l'observation, l'analyse et la régulation du système scolaire.
+
+[^154-1]: RSF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
 
 ## 12 Dispositions finales
 
