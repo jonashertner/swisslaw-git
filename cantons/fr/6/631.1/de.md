@@ -4,13 +4,13 @@ number: "631.1"
 title: Gesetz über die direkten Kantonssteuern
 short: DStG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-03
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-12
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7058/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7713/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Direkte Kantonssteuern – G
 
 (DStG)
 
-vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2022)
+vom 06.06.2000 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -387,6 +387,8 @@ beschliesst:
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>8</sup> Absatz 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
 #### Art. 21a
 
 **Erträge aus beweglichem Vermögen – Besondere Fälle**
@@ -454,7 +456,8 @@ beschliesst:
 - i) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - i<sup>bis</sup>) die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - i<sup>ter</sup>) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- j) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Abs. 2 Bst. d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+- j) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Abs. 2 Bst. d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird;
+- k) die Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose.
 
 ### 2.2.3 Abzüge
 
@@ -470,7 +473,7 @@ beschliesst:
 
 <sup>1</sup> Als Berufskosten werden abgezogen:
 
-- a) die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte;
+- a) die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte bis zu einem Höchstbetrag von 12'000 Franken;
 - b) die notwendigen Mehrkosten für Verpflegung ausserhalb der Wohnstätte und bei Schichtarbeit;
 - c) die übrigen für die Ausübung des Berufes erforderlichen Kosten; Artikel 34 Abs. 1 Bst. j bleibt vorbehalten;
 - d) ...
@@ -631,9 +634,9 @@ beschliesst:
 
 <sup>1</sup> Vom Reineinkommen werden abgezogen:
 
-- a) 8500 Franken für jedes Kind, das minderjährig ist oder sich in der Lehre oder im Studium befindet, wenn das Kind ausschliesslich von der steuerpflichtigen Person unterhalten wird und deren Reineinkommen den anrechenbaren Grenzbetrag nicht übersteigt. Dieser Abzug beträgt für das dritte und jedes weitere Kind 9500 Franken. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken, das den anrechenbaren Grenzbetrag übersteigt, um 100 Franken gekürzt. Er beträgt jedoch für das erste und zweite Kind mindestens 7000 Franken und 8000 Franken für das dritte und jedes weitere Kind. Die anrechenbare Einkommensgrenze beträgt 62'000 Franken für das erste Kind; sie erhöht sich für jedes zusätzliche Kind um 10'000 Franken;
-- b) 8500 Franken vom Einkommen der Vollwaise, die minderjährig ist oder sich in Lehre oder Studium befindet und deren Reineinkommen 62'000 Franken nicht übersteigt. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken um 100 Franken gekürzt. Der Abzug beträgt jedoch mindestens 7000 Franken;
-- c) 1000 Franken für jede andere erwerbsunfähige Person, für deren Unterhalt die steuerpflichtige Person hauptsächlich aufkommt;
+- a) 8600 Franken für jedes Kind, das minderjährig ist oder sich in der Lehre oder im Studium befindet, wenn das Kind von der steuerpflichtigen Person unterhalten wird und deren Reineinkommen den anrechenbaren Grenzbetrag nicht übersteigt. Dieser Abzug beträgt für das dritte und jedes weitere Kind 9600 Franken. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken, das den anrechenbaren Grenzbetrag übersteigt, um 100 Franken gekürzt. Er beträgt jedoch für das erste und zweite Kind mindestens 7100 Franken und 8100 Franken für das dritte und jedes weitere Kind. Die anrechenbare Einkommensgrenze beträgt 62'700 Franken für das erste Kind; sie erhöht sich für jedes zusätzliche Kind um 10'100 Franken;
+- b) 8600 Franken vom Einkommen der Vollwaise, die minderjährig ist oder sich in Lehre oder Studium befindet und deren Reineinkommen 62'700 Franken nicht übersteigt. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken um 100 Franken gekürzt. Der Abzug beträgt jedoch mindestens 7100 Franken;
+- c) 5000 Franken für jede andere erwerbsunfähige Person, für deren Unterhalt die steuerpflichtige Person aufkommt;
 - d) 3600 Franken vom Lohn der steuerpflichtigen Person, die sich in der Lehre oder im Studium befindet, bis zu deren erfülltem 25. Altersjahr;
 - e) 2500 Franken für jede erwerbstätige steuerpflichtige Person im Rollstuhl, die keine AHV/IV-Rente bezieht;
 - f) …
@@ -646,10 +649,10 @@ beschliesst:
 
 <sup>2</sup> Zusätzlich werden abgezogen:
 
-- a) ein Betrag von 4000 Franken für jede steuerpflichtige Person ohne Unterhaltslast, mit Ausnahme der Empfänger von AHV/IV-Leistungen, deren Einkommen, nach Abzug der Beträge nach Absatz 1, 20'000 Franken nicht übersteigt. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken um 200 Franken gekürzt;
-- b) ein Betrag von 5000 Franken für jede steuerpflichtige Person mit Unterhaltslast, mit Ausnahme der Empfänger von AHV/IV-Leistungen, deren Einkommen, nach Abzug der Beträge nach Absatz 1, 24'000 Franken nicht übersteigt. Der Abzug wird um 200 Franken für jedes zusätzliche Einkommen von 1000 Franken gekürzt;
-- c) ein Betrag von 9000 Franken für jeden Empfänger von AHV/IV-Leistungen ohne Unterhaltslast, dessen Einkommen, nach Abzug der Beträge nach Absatz 1, 24'000 Franken nicht übersteigt. Der Abzug wird um 300 Franken für jedes zusätzliche Einkommen von 1000 Franken gekürzt;
-- d) ein Betrag von 11'000 Franken für jeden Empfänger von AHV/IV-Leistungen mit Unterhaltslast, dessen Einkommen, nach Abzug der Beträge nach Absatz 1, 30'000 Franken nicht übersteigt. Der Abzug wird um 400 Franken für jedes zusätzliche Einkommen von 1000 Franken gekürzt.
+- a) ein Betrag von 4100 Franken für jede steuerpflichtige Person ohne Unterhaltslast, mit Ausnahme der Empfänger von AHV/IV-Leistungen, deren Einkommen, nach Abzug der Beträge nach Absatz 1, 20'300 Franken nicht übersteigt. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken um 200 Franken gekürzt;
+- b) ein Betrag von 5100 Franken für jede steuerpflichtige Person mit Unterhaltslast, mit Ausnahme der Empfänger von AHV/IV-Leistungen, deren Einkommen, nach Abzug der Beträge nach Absatz 1, 24'300 Franken nicht übersteigt. Der Abzug wird für jedes zusätzliche Einkommen von 1000 Franken um 200 Franken gekürzt;
+- c) ein Betrag von 9100 Franken für jeden Empfänger von AHV/IV-Leistungen ohne Unterhaltslast, dessen Einkommen, nach Abzug der Beträge nach Absatz 1, 24'300 Franken nicht übersteigt. Der Abzug wird um 300 Franken für jedes zusätzliche Einkommen von 1000 Franken gekürzt;
+- d) ein Betrag von 11'100 Franken für jeden Empfänger von AHV/IV-Leistungen mit Unterhaltslast, dessen Einkommen, nach Abzug der Beträge nach Absatz 1, 30'300 Franken nicht übersteigt. Der Abzug wird um 400 Franken für jedes zusätzliche Einkommen von 1000 Franken gekürzt.
 
 <sup>3</sup> Wird der Unterhalt von mehreren steuerpflichtigen Personen bestritten, so wird der Abzug für Kinder und unterhaltsbedürftige Personen verhältnismässig aufgeteilt.
 
@@ -667,17 +670,17 @@ beschliesst:
 
 <table>
 <tr><th>%</th><th>Fr.</th></tr>
-<tr><td>von 1,0000 bis 4,1581</td><td>von 5100 bis 17'299</td></tr>
-<tr><td>von 4,1730 bis 6,1994</td><td>von 17'300 bis 30'999</td></tr>
-<tr><td>von 6,2104 bis 8,0364</td><td>von 31'000 bis 47'699</td></tr>
-<tr><td>von 8,0433 bis 9,0921</td><td>von 47'700 bis 62'999</td></tr>
-<tr><td>von 9,0986 bis 9,9826</td><td>von 63'000 bis 76'699</td></tr>
-<tr><td>von 9,9862 bis 10,8538</td><td>von 76'700 bis 100'899</td></tr>
-<tr><td>von 10,8571 bis 11,7217</td><td>von 100'900 bis 127'199</td></tr>
-<tr><td>von 11,7247 bis 12,5317</td><td>von 127'200 bis 154'199</td></tr>
-<tr><td>von 12,5340 bis 13,0998</td><td>von 154'200 bis 178'899</td></tr>
-<tr><td>von 13,1014 bis 13,4998</td><td>von 178'900 bis 203'899</td></tr>
-<tr><td>13,5000</td><td>für 203'900 und mehr</td></tr>
+<tr><td>von 1,0000 bis 4,1598</td><td>von 5200 bis 17'499</td></tr>
+<tr><td>von 4,1745 bis 6,2031</td><td>von 17'500 bis 31'399</td></tr>
+<tr><td>von 6,2139 bis 8,0283</td><td>von 31'400 bis 48'299</td></tr>
+<tr><td>von 8,0352 bis 9,0978</td><td>von 48'300 bis 63'799</td></tr>
+<tr><td>von 9,1042 bis 9,981</td><td>von 63'800 bis 77'599</td></tr>
+<tr><td>von 9,9846 bis 10,8630</td><td>von 77'600 bis 102'099</td></tr>
+<tr><td>von 10,8662 bis 11,7142</td><td>von 102'100 bis 128'699</td></tr>
+<tr><td>von 11,7172 bis 12,5332</td><td>von 128'700 bis 155'999</td></tr>
+<tr><td>von 12,5355 bis 13,1082</td><td>von 156'000 bis 180'999</td></tr>
+<tr><td>von 13,1097 bis 13,4997</td><td>von 181'000 bis 207'099</td></tr>
+<tr><td>13,5000</td><td>für 207'100 und mehr</td></tr>
 </table>
 
 <sup>2</sup> …
@@ -728,17 +731,17 @@ beschliesst:
 
 <sup>2</sup> Die Steuer beträgt:
 
-- a) 2 % für die ersten 40'000 Franken;
-- b) 3 % für die nächsten 40'000 Franken;
-- c) 4 % für die nächsten 50'000 Franken;
-- d) 5 % für die nächsten 60'000 Franken;
-- e) 6 % für die übrigen Beträge.
+- a) 1 % für die ersten 50'000 Franken;
+- b) 2 % für die nächsten 50'000 Franken;
+- c) 3 % für die nächsten 50'000 Franken;
+- d) 4 % für die nächsten 50'000 Franken;
+- e) 5 % für die übrigen Beträge.
 
-<sup>2<sup>bis</sup></sup> Ein Abzug von 5000 Franken wird gewährt auf den Kapitalleistungen, die an Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, ausgezahlt werden.
+<sup>2<sup>bis</sup></sup> Ein Abzug von 10'000 Franken wird gewährt auf den Kapitalleistungen, die an Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, ausgezahlt werden.
 
 <sup>3</sup> Die Sozialabzüge nach Artikel 36 werden nicht gewährt.
 
-<sup>4</sup> Alle Kapitalleistungen, deren Ausrichtung innerhalb eines gleichen Ziviljahres erfolgt, werden zusammengerechnet. Kapitalleistungen, die gesamthaft jährlich unter 5000 Franken liegen, werden nicht besteuert.
+<sup>4</sup> Alle Kapitalleistungen, deren Ausrichtung innerhalb eines gleichen Ziviljahres erfolgt, werden zusammengerechnet. Kapitalleistungen, die gesamthaft jährlich unter 10'000 Franken liegen, werden nicht besteuert.
 
 <sup>5</sup> Eine Ermässigung von 50 % wird für die Steuer auf der Kapitalleistung aus Erwerbsausfall im Falle von Invalidität gewährt.
 
@@ -1282,13 +1285,13 @@ beschliesst:
 
 <sup>3</sup> Die Steuer beträgt bei Renten 9 % der steuerbaren Einkünfte. Bei Kapitalleistungen beträgt die Steuer:
 
-- a) 4 % für die ersten 40'000 Franken;
-- b) 6 % für die nächsten 40'000 Franken;
-- c) 8 % für die nächsten 50'000 Franken;
-- d) 10 % für die nächsten 60'000 Franken;
-- e) 12 % für die übrigen Beträge.
+- a) 2 % für die ersten 50'000 Franken;
+- b) 4 % für die nächsten 50'000 Franken;
+- c) 6 % für die nächsten 50'000 Franken;
+- d) 8 % für die nächsten 50'000 Franken;
+- e) 10 % für die übrigen Beträge.
 
-<sup>3<sup>bis</sup></sup> Ein Abzug von 5000 Franken wird gewährt auf den Kapitalleistungen, die an Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, ausgezahlt werden.
+<sup>3<sup>bis</sup></sup> Ein Abzug von 10'000 Franken wird gewährt auf den Kapitalleistungen, die an Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, ausgezahlt werden.
 
 <sup>4</sup> Der Staatsrat setzt die Bedingungen für die Rückerstattung der Steuer fest, wenn ein Doppelbesteuerungsabkommen die Befugnis zur Besteuerung der Personen nach Absatz 1 dem Ansässigkeitsstaat zuweist.
 
@@ -1906,6 +1909,8 @@ beschliesst:
 
 <sup>1</sup> Der steuerbare Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
 
+<sup>1a</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Schweizer Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 <sup>2</sup> Umfasst ein Geschäftsjahr mehr oder weniger als 12 Monate, so bestimmt sich der Steuersatz nach dem auf 12 Monate berechneten Reingewinn.
 
 <sup>3</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, so werden die aus nicht versteuertem Gewinn gebildeten stillen Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
@@ -1915,6 +1920,8 @@ beschliesst:
 **Bemessung des Eigenkapitals**
 
 <sup>1</sup> Das steuerbare Eigenkapital bemisst sich nach dem Stand am Ende der Steuerperiode.
+
+<sup>2</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Schweizer Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 #### Art. 134
 
@@ -2579,7 +2586,7 @@ beschliesst:
 
 **Ordentliche Nachsteuer**
 
-<sup>1</sup> Ergibt sich auf Grund von Tatsachen oder Beweismitteln, die der Steuerbehörde nicht bekannt waren, dass eine Veranlagung zu Unrecht unterblieben oder eine rechtskräftige Veranlagung unvollständig ist, oder ist eine unterbliebene oder unvollständige Veranlagung auf ein Verbrechen oder ein Vergehen gegen die Steuerbehörde zurückzuführen, so wird die nicht erhobene Steuer samt Zins als Nachsteuer eingefordert.
+<sup>1</sup> Ergibt sich auf Grund von Tatsachen oder Beweismitteln, die der Steuerbehörde nicht bekannt waren, dass eine Veranlagung zu Unrecht unterblieben oder eine rechtskräftige Veranlagung unvollständig ist, oder ist eine unterbliebene oder unvollständige Veranlagung auf ein Verbrechen oder ein Vergehen gegen die Steuerbehörde zurückzuführen, so wird die nicht erhobene Steuer samt Verzugszins als Nachsteuer eingefordert.
 
 <sup>2</sup> Hat die steuerpflichtige Person die steuerbaren Elemente in ihrer Steuererklärung vollständig und genau angegeben und waren die für die Bewertung der einzelnen Bestandteile erforderlichen Grundlagen der Steuerbehörde bekannt, so kann wegen ungenügender Bewertung keine Nachsteuer erhoben werden.
 
@@ -2777,7 +2784,7 @@ beschliesst:
 - a) Vergütungszinsen für im Voraus bezahlte Akontozahlungen;
 - b) Verzugszinsen für nicht bezahlte oder zu spät bezahlte Akontozahlungen;
 - c) Vergütungszinsen für zuviel bezahlte Beträge;
-- d) Ausgleichszinsen für beim allgemeinen Fälligkeitstermin der Steuer nicht bezahlte Steuern;
+- d) …
 - e) Verzugszinsen für die verspätete Zahlung der Schlussabrechnung.
 
 <sup>2</sup> Die Direktion legt die Bedingungen fest, unter denen auf die Berechnung eines Zinses aus Billigkeitsgründen oder zur Vermeidung unnötiger Umtriebe verzichtet wird.

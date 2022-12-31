@@ -4,13 +4,13 @@ number: "631.1"
 title: Loi sur les impôts cantonaux directs
 short: LICD
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-03
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-12
 adopted: 2000-06-06
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7058/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7713/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Impôts cantonaux directs – L
 
 (LICD)
 
-du 06.06.2000 (version entrée en vigueur le 01.01.2022)
+du 06.06.2000 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -387,6 +387,8 @@ Décrète:
 
 <sup>7</sup> Si, lors de la vente de droits de participation à une société de capitaux ou une société coopérative qui est cotée dans une bourse suisse et qui les a émis, le remboursement des réserves issues d'apports de capital ne correspond pas au moins à la moitié de l'excédent de liquidation obtenu, la part de cet excédent de liquidation imposable est réduite d'un montant correspondant à la moitié de la différence entre cette part et le remboursement, mais au plus au montant des réserves qui sont imputables à ces droits de participation et qui sont disponibles dans la société.
 
+<sup>8</sup> L'alinéa 3 ne s'applique aux apports et aux agios qui sont versés pendant la durée d'une marge de fluctuation du capital au sens des articles 653s ss du code des obligations que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.
+
 #### Art. 21a
 
 **Rendement de la fortune mobilière – Cas particuliers**
@@ -455,6 +457,7 @@ Décrète:
 - i<sup>bis</sup>) les gains unitaires jusqu'à concurrence d'un montant de 1 million de francs provenant de la participation à un jeu de grande envergure autorisé par la LJAr et de la participation en ligne à des jeux de casino autorisés par la LJAr;
 - i<sup>ter</sup>) les gains provenant d'un jeu de petite envergure autorisé par la LJAr;
 - j) les gains unitaires jusqu'à concurrence d'un montant de 1000 francs provenant d'un jeu d'adresse ou d'une loterie destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l'article 1 al. 2 let. d et e de cette loi.
+- k) les revenus perçus en vertu de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés.
 
 ### 2.2.3 Déductions
 
@@ -470,7 +473,7 @@ Décrète:
 
 <sup>1</sup> Les frais professionnels qui peuvent être déduits sont:
 
-- a) les frais de déplacement nécessaires entre le domicile et le lieu de travail;
+- a) les frais de déplacement nécessaires entre le domicile et le lieu de travail jusqu'à concurrence de 12'000 francs;
 - b) les frais supplémentaires résultant des repas pris hors du domicile et du travail par équipes;
 - c) les autres frais indispensables à l'exercice de la profession; l'article 34 al. 1 let. j est réservé;
 - d)
@@ -631,9 +634,9 @@ Décrète:
 
 <sup>1</sup> Sont déduits du revenu net:
 
-- a) 8500 francs pour chaque enfant mineur ou faisant un apprentissage ou des études, si l'enfant est à la charge exclusive du contribuable et que le revenu net n'excède pas la limite déterminante; la déduction est portée à 9500 francs dès et y compris le troisième enfant. La déduction est réduite de 100 francs pour chaque tranche de 1000 francs de revenu dépassant la limite déterminante; elle ne peut toutefois être inférieure à 7000 francs pour chaque enfant, montant porté à 8000 francs dès et y compris le troisième enfant. La limite de revenu déterminante est de 62'000 francs pour le premier enfant; elle est augmentée de 10'000 francs pour chaque enfant supplémentaire;
-- b) 8500 francs du revenu de l'orphelin de père et mère, s'il est mineur, aux études ou en apprentissage et que son revenu net n'excède pas 62'000 francs. La déduction est réduite de 100 francs pour chaque tranche de 1000 francs de revenu en plus. La déduction ne peut toutefois être inférieure à 7000 francs;
-- c) 1000 francs pour toute autre personne incapable de subvenir à ses besoins, dont le contribuable supporte la principale charge d'entretien;
+- a) 8600 francs pour chaque enfant mineur ou faisant un apprentissage ou des études, si l'enfant est à la charge du contribuable et que le revenu net n'excède pas la limite déterminante; la déduction est portée à 9600 francs dès et y compris le troisième enfant. La déduction est réduite de 100 francs pour chaque tranche de 1000 francs de revenu dépassant la limite déterminante; elle ne peut toutefois être inférieure à 7100 francs pour chaque enfant, montant porté à 8100 francs dès et y compris le troisième enfant. La limite de revenu déterminante est de 62'700 francs pour le premier enfant; elle est augmentée de 10'100 francs pour chaque enfant supplémentaire;
+- b) 8600 francs du revenu de l'orphelin de père et mère, s'il est mineur, aux études ou en apprentissage et que son revenu net n'excède pas 62'700 francs. La déduction est réduite de 100 francs pour chaque tranche de 1000 francs de revenu en plus. La déduction ne peut toutefois être inférieure à 7100 francs;
+- c) 5000 francs pour toute autre personne incapable de subvenir à ses besoins, dont le contribuable supporte la charge d'entretien;
 - d) un montant de 3600 francs du salaire du contribuable aux études ou en apprentissage jusqu'à l'âge de 25 ans révolus;
 - e) un montant de 2500 francs pour tout contribuable en fauteuil roulant qui exerce une activité lucrative sans être au bénéfice d'une rente AVS/AI;
 - f) …
@@ -646,10 +649,10 @@ Décrète:
 
 <sup>2</sup> Sont en outre déductibles:
 
-- a) un montant de 4000 francs pour tout contribuable n'ayant pas de charge d'entretien, à l'exclusion des bénéficiaires de prestations AVS/AI, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 20'000 francs. La déduction est réduite de 200 francs pour chaque tranche de 1000 francs de revenu en plus;
-- b) un montant de 5000 francs pour tout contribuable ayant charge d'entretien, à l'exclusion des bénéficiaires de prestations AVS/AI, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 24'000 francs. La déduction est réduite de 200 francs pour chaque tranche de 1000 francs de revenu en plus;
-- c) un montant de 9000 francs pour tout bénéficiaire de prestations AVS/AI n'ayant pas de charge d'entretien, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 24'000 francs. La déduction est réduite de 300 francs pour chaque tranche de 1000 francs de revenu en plus;
-- d) un montant de 11'000 francs pour tout bénéficiaire de prestations AVS/AI ayant charge d'entretien, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 30'000 francs. La déduction est réduite de 400 francs pour chaque tranche de 1000 francs de revenu en plus.
+- a) un montant de 4100 francs pour tout contribuable n'ayant pas de charge d'entretien, à l'exclusion des bénéficiaires de prestations AVS/AI, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 20'300 francs. La déduction est réduite de 200 francs pour chaque tranche de 1000 francs de revenu en plus;
+- b) un montant de 5100 francs pour tout contribuable ayant charge d'entretien, à l'exclusion des bénéficiaires de prestations AVS/AI, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 24'300 francs. La déduction est réduite de 200 francs pour chaque tranche de 1000 francs de revenu en plus;
+- c) un montant de 9100 francs pour tout bénéficiaire de prestations AVS/AI n'ayant pas de charge d'entretien, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 24'300 francs. La déduction est réduite de 300 francs pour chaque tranche de 1000 francs de revenu en plus;
+- d) un montant de 11'100 francs pour tout bénéficiaire de prestations AVS/AI ayant charge d'entretien, dont le revenu, après déduction des montants selon l'alinéa 1 ci-dessus, n'excède pas 30'300 francs. La déduction est réduite de 400 francs pour chaque tranche de 1000 francs de revenu en plus.
 
 <sup>3</sup> Le montant de la déduction pour enfants et personnes à charge est réparti proportionnellement lorsque la charge est assumée par plusieurs contribuables.
 
@@ -667,17 +670,17 @@ Décrète:
 
 <table>
 <tr><th>%</th><th>Fr.</th></tr>
-<tr><td>de 1,0000 à 4,1581</td><td>de 5100 à 17'299</td></tr>
-<tr><td>de 4,1730 à 6,1994</td><td>de 17'300 à 30'999</td></tr>
-<tr><td>de 6,2104 à 8,0364</td><td>de 31'000 à 47'699</td></tr>
-<tr><td>de 8,0433 à 9,0921</td><td>de 47'700 à 62'999</td></tr>
-<tr><td>de 9,0986 à 9,9826</td><td>de 63'000 à 76'699</td></tr>
-<tr><td>de 9,9862 à 10,8538</td><td>de 76'700 à 100'899</td></tr>
-<tr><td>de 10,8571 à 11,7217</td><td>de 100'900 à 127'199</td></tr>
-<tr><td>de 11,7247 à 12,5317</td><td>de 127'200 à 154'199</td></tr>
-<tr><td>de 12,5340 à 13,0998</td><td>de 154'200 à 178'899</td></tr>
-<tr><td>de 13,1014 à 13,4998</td><td>de 178'900 à 203'899</td></tr>
-<tr><td>13,5000</td><td>de 203'900 et au-delà</td></tr>
+<tr><td>de 1,0000 à 4,1598</td><td>de 5200 à 17'499</td></tr>
+<tr><td>de 4,1745 à 6,2031</td><td>de 17'500 à 31'399</td></tr>
+<tr><td>de 6,2139 à 8,0283</td><td>de 31'400 à 48'299</td></tr>
+<tr><td>de 8,0352 à 9,0978</td><td>de 48'300 à 63'799</td></tr>
+<tr><td>de 9,1042 à 9,981</td><td>de 63'800 à 77'599</td></tr>
+<tr><td>de 9,9846 à 10,8630</td><td>de 77'600 à 102'099</td></tr>
+<tr><td>de 10,8662 à 11,7142</td><td>de 102'100 à 128'699</td></tr>
+<tr><td>de 11,7172 à 12,5332</td><td>de 128'700 à 155'999</td></tr>
+<tr><td>de 12,5355 à 13,1082</td><td>de 156'000 à 180'999</td></tr>
+<tr><td>de 13,1097 à 13,4997</td><td>de 181'000 à 207'099</td></tr>
+<tr><td>13,5000</td><td>de 207'100 et au-delà</td></tr>
 </table>
 
 <sup>2</sup> …
@@ -728,17 +731,17 @@ Décrète:
 
 <sup>2</sup> L'impôt se monte à:
 
-- a) 2 % pour les premiers 40'000 francs;
-- b) 3 % pour les prochains 40'000 francs;
-- c) 4 % pour les prochains 50'000 francs;
-- d) 5 % pour les prochains 60'000 francs;
-- e) 6 % pour tous les autres montants.
+- a) 1 % pour les premiers 50'000 francs;
+- b) 2 % pour les prochains 50'000 francs;
+- c) 3 % pour les prochains 50'000 francs;
+- d) 4 % pour les prochains 50'000 francs;
+- e) 5 % pour tous les autres montants.
 
-<sup>2<sup>bis</sup></sup> Une déduction de 5000 francs est accordée sur les prestations en capital versées à des personnes mariées vivant en ménage commun ou à des contribuables veufs, séparés, divorcés ou célibataires qui font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils assurent pour l'essentiel l'entretien.
+<sup>2<sup>bis</sup></sup> Une déduction de 10'000 francs est accordée sur les prestations en capital versées à des personnes mariées vivant en ménage commun ou à des contribuables veufs, séparés, divorcés ou célibataires qui font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils assurent pour l'essentiel l'entretien.
 
 <sup>3</sup> Les déductions sociales prévues à l'article 36 ne sont pas autorisées.
 
-<sup>4</sup> Toutes les prestations en capital acquises pendant la même année civile sont additionnées. Les prestations en capital dont le total annuel net est inférieur à 5000 francs sont exonérées d'impôt.
+<sup>4</sup> Toutes les prestations en capital acquises pendant la même année civile sont additionnées. Les prestations en capital dont le total annuel net est inférieur à 10'000 francs sont exonérées d'impôt.
 
 <sup>5</sup> Une déduction de 50 % est accordée sur la part de l'impôt afférent aux prestations en capital versées pour perte de gain en cas d'invalidité.
 
@@ -1282,13 +1285,13 @@ Décrète:
 
 <sup>3</sup> Le taux de l'impôt pour les rentes s'élève à 9 % du revenu imposable. S'il s'agit de prestations en capital, l'impôt s'élève à:
 
-- a) 4 % pour les premiers 40'000 francs;
-- b) 6 % pour les prochains 40'000 francs;
-- c) 8 % pour les prochains 50'000 francs;
-- d) 10 % pour les prochains 60'000 francs;
-- e) 12 % pour tous les autres montants.
+- a) 2 % pour les premiers 50'000 francs;
+- b) 4 % pour les prochains 50'000 francs;
+- c) 6 % pour les prochains 50'000 francs;
+- d) 8 % pour les prochains 50'000 francs;
+- e) 10 % pour tous les autres montants.
 
-<sup>3<sup>bis</sup></sup> Une déduction de 5000 francs est accordée sur les prestations en capital versées à des personnes mariées vivant en ménage commun ou à des contribuables veufs, séparés, divorcés ou célibataires qui font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils assurent pour l'essentiel l'entretien.
+<sup>3<sup>bis</sup></sup> Une déduction de 10'000 francs est accordée sur les prestations en capital versées à des personnes mariées vivant en ménage commun ou à des contribuables veufs, séparés, divorcés ou célibataires qui font ménage commun avec des enfants ou des personnes nécessiteuses et dont ils assurent pour l'essentiel l'entretien.
 
 <sup>4</sup> Le Conseil d'Etat arrête les conditions de restitution de l'impôt lorsqu'une convention de double imposition attribue la compétence d'imposer à l'Etat de résidence des personnes visées à l'alinéa 1.
 
@@ -1906,6 +1909,8 @@ Décrète:
 
 <sup>1</sup> L'impôt sur le bénéfice net est calculé sur la base du bénéfice net réalisé pendant la période fiscale.
 
+<sup>1a</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le bénéfice net imposable doit être converti en francs suisses. Le taux de change moyen (vente) de la période fiscale est déterminant.
+
 <sup>2</sup> Lorsque l'exercice comprend plus ou moins de douze mois, le taux de l'impôt est fixé sur la base d'un bénéfice net calculé sur douze mois.
 
 <sup>3</sup> Lors de la liquidation d'une personne morale ou du transfert de son siège, de son administration, d'une entreprise ou d'un établissement stable à l'étranger, les réserves latentes constituées au moyen de bénéfices non soumis à l'impôt sont imposées avec le bénéfice net du dernier exercice.
@@ -1915,6 +1920,8 @@ Décrète:
 **Détermination du capital propre**
 
 <sup>1</sup> L'impôt sur le capital propre est calculé sur la base du capital propre existant à la fin de la période fiscale.
+
+<sup>2</sup> Si les comptes annuels sont établis dans une monnaie étrangère, le capital propre imposable doit être converti en francs suisses. Le taux de change (vente) à la fin de la période fiscale est déterminant.
 
 #### Art. 134
 
@@ -2579,7 +2586,7 @@ Décrète:
 
 **Rappel d'impôt ordinaire**
 
-<sup>1</sup> Lorsque des moyens de preuve ou des faits jusque-là inconnus de l'autorité fiscale lui permettent d'établir qu'une taxation n'a pas été effectuée, alors qu'elle aurait dû l'être, ou qu'une taxation entrée en force est incomplète ou qu'une taxation non effectuée ou incomplète est due à un crime ou à un délit commis contre l'autorité fiscale, cette dernière procède au rappel de l'impôt qui n'a pas été perçu, y compris les intérêts.
+<sup>1</sup> Lorsque des moyens de preuve ou des faits jusque-là inconnus de l'autorité fiscale lui permettent d'établir qu'une taxation n'a pas été effectuée, alors qu'elle aurait dû l'être, ou qu'une taxation entrée en force est incomplète ou qu'une taxation non effectuée ou incomplète est due à un crime ou à un délit commis contre l'autorité fiscale, cette dernière procède au rappel de l'impôt qui n'a pas été perçu, y compris les intérêts moratoires.
 
 <sup>2</sup> Lorsque le contribuable a déposé une déclaration complète et précise concernant ses éléments imposables et que les bases indispensables à l'évaluation des éléments imposables étaient connues de l'autorité fiscale, un rappel d'impôt est exclu lorsqu'il y a sous-évaluation de ces éléments.
 
@@ -2777,7 +2784,7 @@ Décrète:
 - a) intérêts rémunératoires sur les acomptes payés de manière anticipée;
 - b) intérêts moratoires sur les acomptes impayés ou payés tardivement;
 - c) intérêts rémunératoires sur les montants payés en trop;
-- d) intérêts compensatoires sur les impôts non payés au terme général d'échéance de l'impôt;
+- d) …
 - e) intérêts moratoires sur le décompte final acquitté tardivement.
 
 <sup>2</sup> La Direction détermine les conditions auxquelles il n'est pas compté d'intérêt pour des raisons d'économie ou par simplification administrative.
