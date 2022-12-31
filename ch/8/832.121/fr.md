@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2021-06-01
+version: 2023-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> juin 2021)
+du 18 novembre 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -67,13 +67,15 @@ Deux entreprises ou plus forment un groupe d’assurance si les conditions suiva
 
 <sup>1</sup>
 
-Un assureur peut exceptionnellement être exempté de tout ou partie de l’obligation d’offrir aux personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège la possibilité de s’affilier à l’assurance-maladie sociale si les conditions suivantes sont remplies:
+Un assureur peut exceptionnellement être exempté de tout ou partie de l’obligation d’offrir aux personnes tenues de s’assurer qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni la possibilité de s’affilier à l’assurance-maladie sociale si les conditions suivantes sont remplies:[^4-1]
 
 - a. il compte moins de 500 000 assurés;
 - b. il ne veut pratiquer l’assurance-maladie sociale dans aucun de ces États ou seulement dans une partie d’entre eux;
 - c. ses effectifs d’assurés dans les États en question sont très peu importants.
 
 <sup>2</sup> Il doit présenter une demande d’exemption à l’autorité de surveillance le 30 juin au plus tard. L’exemption prend effet le 1<sup>er</sup> janvier de l’année suivante.
+
+[^4-1]: Nouvelle teneur selon le ch. I 6 de l’O du 26 oct. 2022 sur les modifications d’ordonnances en matière d’assurance-maladie concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 5
 
@@ -354,11 +356,13 @@ Le produit de la fortune liée sert en premier lieu à couvrir les créances dé
 
 <sup>2</sup> Les coûts au sens de l’art. 16, al. 3, LSAMal comprennent tous les coûts de l’assureur dans le canton en question, après déduction d’une quote-part des revenus de ses capitaux.
 
-<sup>3</sup> Les primes des assurés qui résident dans un État membre de l’Union européenne, en Islande ou en Norvège doivent couvrir les coûts engendrés par les assurés de l’ensemble de ces États pour l’assureur, après déduction d’une quote-part des revenus de ses capitaux. Pour fixer les primes applicables aux assurés de ces États, l’assureur prend en compte les différences de coûts entre les États.
+<sup>3</sup> Les primes des assurés qui résident dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni doivent couvrir les coûts engendrés par les assurés de l’ensemble de ces États pour l’assureur, après déduction d’une quote-part des revenus de ses capitaux. Pour fixer les primes applicables aux assurés de ces États, l’assureur prend en compte les différences de coûts entre les États.[^25-1]
 
 <sup>4</sup> Pour déterminer la quote-part visée aux al. 2 et 3, l’assureur ne peut utiliser que les revenus de ses capitaux qui ne dépassent pas la moyenne des revenus des capitaux qu’il a réalisés durant les dix dernières années. La quote-part est fixée en fonction de l’estimation des recettes de primes dans le canton ou l’État concerné.
 
 <sup>5</sup> Les réserves sont excessives au sens de l’art. 16, al. 4, let. d, LSAMal lorsque la couverture du niveau minimal des réserves de l’assureur serait garantie à long terme avec un niveau inférieur de réserves. Pour en juger, l’autorité de surveillance se fonde sur le plan d’exploitation et sur les indications visées à l’art. 12, al. 3.
+
+[^25-1]: Nouvelle teneur selon le ch. I 6 de l’O du 26 oct. 2022 sur les modifications d’ordonnances en matière d’assurance-maladie concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 26
 
@@ -816,6 +820,63 @@ L’autorité de surveillance et l’Autorité fédérale de surveillance des ma
 
 <sup>2</sup> L’autorité de surveillance et l’Autorité fédérale de surveillance des marchés financiers peuvent également coordonner leurs activités de surveillance en procédant à des échanges réguliers d’informations sur les entités soumises à leur surveillance.
 
+#### Art. 62a
+
+**Données des assureurs**[^62a-1]
+
+<sup>1</sup>
+
+Les données par assuré qui doivent être transmises par les assureurs conformément à l’art. 35, al. 2, LSAMal servent à:
+
+- a. surveiller l’application uniforme de la LAMal[^62a-2] et de la LSAMal;
+- b. garantir l’égalité de traitement des assurés;
+- c. garantir que les différences de primes correspondent aux différences de coûts cantonales et régionales et que les ressources de l’assurance sociale sont exclusivement affectées aux buts de celle-ci;
+- d. examiner les primes des assureurs afin de garantir que la prime appliquée corresponde à la prime approuvée;
+- e. examiner les primes des réassureurs;
+- f. procéder à l’analyse des effets de la LAMal et de la LSAMal et de leur application, et préparer les bases de décision pour les modifications de loi et des dispositions d’exécution de loi.
+
+<sup>2</sup>
+
+Les assureurs transmettent régulièrement à l’autorité de surveillance, en vue de l’accomplissement de leurs tâches visées à l’al. 1 les données suivantes par assuré:
+
+- a.
+
+  données sociodémographiques:
+
+  - 1\. code de liaison,
+  - 2\. âge, sexe et lieu de résidence,
+  - 3\. groupe de risques au sens de l’art. 11 de l’ordonnance du 19 octobre 2016 sur la compensation des risques (OCoR)[^62a-3] et répartition des assurés en groupes de coûts pharmaceutiques au sens de l’art. 12 OCoR;
+
+- b.
+
+  données sur la couverture d’assurance:
+
+  - 1\. début et fin de couverture,
+  - 2\. propriétés de la prime, telles que champ territorial d’activité de l’assureur, région de prime, catégorie des formes particulières d’assurance au sens des art. 93 à 101 OAMal[^62a-4], forme d’assurance, désignation du modèle d’assurance et son abréviation, appartenance de la personne assurée à un ménage comportant plusieurs enfants ou jeunes adultes, barème de primes dans l’assurance avec bonus, hauteur de la franchise et couverture des accidents,
+  - 3\. indication du montant de la prime avec et sans la contribution du canton, supplément de prime au sens de l’art. 8 OAMal, réductions de primes et autres rabais,
+  - 4\. indication si la couverture d’assurance au sens de l’art. 3, al. 4, LAMal est suspendue ou non,
+  - 5\. indication si l’assuré est soumis à la compensation des risques ou non,
+  - 6\. raisons des mutations de couverture, telles qu’entrée et sortie, naissance, décès, changement d’assureur et changement interne,
+  - 7\. coûts totaux des prestations rémunérées et participation aux coûts,
+  - 8\. pour les assurés qui sont sortis l’une des années antérieures, date de sortie.
+
+<sup>3</sup> Ils fournissent à l’autorité de surveillance toutes les données par voie électronique, qu’il s’agisse de données agrégées ou par assuré. En cas d’adaptation des relevés, ils peuvent en être dispensés par l’autorité de surveillance, à leur demande et pour une période limitée, s’ils ne disposent pas des moyens techniques nécessaires.
+
+<sup>4</sup> Les assureurs fournissent à l’autorité de surveillance les données visées à l’al. 3 à leurs frais, de manière exacte et complète et dans les délais impartis.
+
+<sup>5</sup> L’autorité de surveillance veille à ce que la communication des données requises occasionne aussi peu de travail que possible aux assureurs.
+
+<sup>6</sup> Afin de limiter les coûts, l’autorité de surveillance peut apparier les données visées à l’al. 2 avec d’autres sources de données pour autant que l’accomplissement des tâches visées à l’al. 1 le requière. Elle ne peut les apparier pour l’accomplissement d’autres tâches que si les données visées à l’al. 2 ont été anonymisées.
+
+<sup>7</sup> L’autorité de surveillance émet, après avoir consulté les assureurs, des directives sur les mesures à prendre en vertu des al. 1 à 4.
+
+<sup>8</sup> L’exploitation des données au sens de l’art. 35, al. 2, LSAMal comprend toute forme de traitement au sens du droit fédéral de la protection des données, y compris la communication de données.
+
+[^62a-1]: Introduit par l’annexe ch. 1 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
 #### Art. 63
 
 **Annonce de faits de grande importance**
@@ -942,18 +1003,18 @@ Avant la date visée à l’al. 4, les assureurs dont les réserves n’atteigne
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 30*a*, al. 2)
 
-## Formule du calcul de l’écart-type****
+## Formule du calcul de l’écart-type
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Introduite par le ch. II de l’O du 14 avr.2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 [^annex1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la formule du calcul de l’écart-type n’est pas publiée dans le RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 72)
 

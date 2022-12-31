@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2021-06-01
+version: 2023-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 1. Juni 2021)
+vom 18. November 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -67,13 +67,15 @@ Als Versicherungsgruppe gilt eine Gruppe von zwei oder mehreren Unternehmen, die
 
 <sup>1</sup>
 
-Ein Versicherer kann ausnahmsweise von der Pflicht, die soziale Krankenversicherung auch versicherungspflichtigen Personen anzubieten, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen, ganz oder teilweise befreit werden, wenn er:
+Ein Versicherer kann ausnahmsweise von der Pflicht, die soziale Krankenversicherung auch versicherungspflichtigen Personen anzubieten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, ganz oder teilweise befreit werden, wenn er:[^4-1]
 
 - a. weniger als 500 000 Personen versichert;
 - b. in keinem oder nur in einem Teil dieser Staaten die soziale Krankenversicherung durchführen will; und
 - c. in den betreffenden Staaten nur sehr kleine Bestände versichert hat.
 
 <sup>2</sup> Er muss das Gesuch um Befreiung von der Pflicht bis zum 30. Juni bei der Aufsichtsbehörde einreichen. Die Befreiung wird auf den 1. Januar des folgenden Jahres wirksam.
+
+[^4-1]: Fassung gemäss Ziff. I 6 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 5
 
@@ -354,11 +356,13 @@ Aus dem Erlös des gebundenen Vermögens werden vorweg die Ansprüche aus den Ve
 
 <sup>2</sup> Die Kosten im Sinne von Artikel 16 Absatz 3 KVAG umfassen sämtliche Kosten, die dem Versicherer im entsprechenden Kanton entstehen, abzüglich eines Anteils an den Kapitalerträgen.
 
-<sup>3</sup> Die Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen decken die Kosten, die dem Versicherer für die Versicherten dieser Staaten insgesamt entstehen, abzüglich eines Anteils an den Kapitalerträgen. Bei der Festlegung der Prämien für die einzelnen Staaten beachtet der Versicherer die Kostenunterschiede zwischen den verschiedenen Staaten.
+<sup>3</sup> Die Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich decken die Kosten, die dem Versicherer für die Versicherten dieser Staaten insgesamt entstehen, abzüglich eines Anteils an den Kapitalerträgen. Bei der Festlegung der Prämien für die einzelnen Staaten beachtet der Versicherer die Kostenunterschiede zwischen den verschiedenen Staaten.[^25-1]
 
 <sup>4</sup> Um den Anteil aus den Kapitalerträgen nach den Absätzen 2 und 3 zu bestimmen, darf der Versicherer nur die Erträge aus seinem Kapital verwenden, die den Prozentsatz, den er in den zehn letzten Jahren durchschnittlich erwirtschaftet hat, nicht überschreiten. Der Anteil wird entsprechend den geschätzten Prämieneinnahmen im jeweiligen Kanton oder im jeweiligen Staat festgelegt.
 
 <sup>5</sup> Reserven sind übermässig im Sinne von Artikel 16 Absatz 4 Buchstabe d KVAG, wenn die Deckung der Mindesthöhe der Reserven des Versicherers auch bei tieferen Reserven langfristig gewährleistet ist. Für die Beurteilung stützt sich die Aufsichtsbehörde auf den Geschäftsplan und die Angaben nach Artikel 12 Absatz 3.
+
+[^25-1]: Fassung gemäss Ziff. I 6 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 26
 
@@ -816,6 +820,63 @@ Die Aufsichtsbehörde und die FINMA koordinieren ihre Aufsichtstätigkeiten, wen
 
 <sup>2</sup> Die Aufsichtsbehörde und die FINMA können ihre Aufsichtstätigkeiten auch im Rahmen eines regelmässigen Informationsaustauschs über die ihrer Aufsicht unterstellten Rechtsträger koordinieren.
 
+#### Art. 62a
+
+**Daten der Versicherer**[^62a-1]
+
+<sup>1</sup>
+
+Die Daten, die von den Versicherern nach Artikel 35 Absatz 2 KVAG pro versicherte Person weitergegeben werden müssen, dienen dazu:
+
+- a. die einheitliche Anwendung des KVG[^62a-2] und des KVAG zu überwachen;
+- b. die Gleichbehandlung der Versicherten sicherzustellen;
+- c. sicherzustellen, dass die Prämienunterschiede den kantonalen und regionalen Kostenunterschieden entsprechen und die Mittel der sozialen Krankenversicherung ausschliesslich zu deren Zwecken eingesetzt werden;
+- d. die Prämien der Versicherer zu überprüfen und sicherzustellen, dass die angewandte Prämie der genehmigten Prämie entspricht;
+- e. die Prämien der Rückversicherer zu überprüfen;
+- f. eine Wirkungsanalyse des KVG und des KVAG und des Vollzugs dieser Gesetze vorzunehmen und Entscheidgrundlagen für Gesetzes- und Gesetzesvollzugsänderungen bereitzustellen.
+
+<sup>2</sup>
+
+Die Versicherer müssen der Aufsichtsbehörde zur Erfüllung der Aufgaben nach Absatz 1 regelmässig pro versicherte Person folgende Daten weitergeben:
+
+- a.
+
+  soziodemografische Angaben:
+
+  - 1\. Verbindungscode,
+  - 2\. Alter, Geschlecht und Wohnort,
+  - 3\. Risikogruppe nach Artikel 11 der Verordnung vom 19. Oktober 2016[^62a-3] über den Risikoausgleich (VORA) und Einteilung der versicherten Person in eine pharmazeutische Kostengruppe nach Artikel 12 VORA;
+
+- b.
+
+  Angaben zur Versicherungsdeckung:
+
+  - 1\. Beginn und Ende der Deckungsperiode,
+  - 2\. Prämieneigenschaften, wie örtlicher Tätigkeitsbereich des Versicherers, Prämienregion, Kategorie der besonderen Versicherungsformen nach den Artikeln 93–101 KVV[^62a-4], Versicherungsform, Modellbezeichnung und dessen Abkürzung, Zugehörigkeit der versicherten Person zu einem Haushalt mit mehreren Kindern oder jungen Erwachsenen, Prämienstufe in der Bonusversicherung, Höhe der Franchise und Unfalldeckung,
+  - 3\. Höhe der Prämie, mit und ohne Beitrag des Kantons, Prämienzuschlag nach Artikel 8 KVV, Prämienermässigungen und andere Abschläge,
+  - 4\. Angabe, ob die Versicherungsdeckung nach Artikel 3 Absatz 4 KVG sistiert ist oder nicht,
+  - 5\. Angabe, ob die versicherte Person dem Risikoausgleich unterstellt ist oder nicht,
+  - 6\. Mutationsgründe bezogen auf die Versicherungsdeckung, wie Eintritt und Austritt, Geburt, Tod, Versichererwechsel und interner Wechsel,
+  - 7\. Gesamtkosten der vergüteten Leistungen und die Kostenbeteiligung,
+  - 8\. für Versicherte mit einem Austritt in einem der Vorjahre: Austrittsdatum.
+
+<sup>3</sup> Sie müssen der Aufsichtsbehörde alle Daten, die sie aggregiert oder pro versicherte Person weitergeben müssen, elektronisch zur Verfügung stellen. Die Aufsichtsbehörde kann sie bei Erhebungsanpassungen auf Gesuch hin davon für eine befristete Zeit befreien, wenn ihnen die Lieferung aufgrund fehlender technischer Voraussetzungen nicht möglich ist.
+
+<sup>4</sup> Die Versicherer müssen der Aufsichtsbehörde die Daten nach Absatz 3 korrekt, vollständig, fristgerecht und auf eigene Kosten liefern.
+
+<sup>5</sup> Die Aufsichtsbehörde sorgt dafür, dass den Versicherern durch die Bereitstellung der Daten möglichst wenig Aufwand entsteht.
+
+<sup>6</sup> Zur Aufwandverminderung kann sie die Daten nach Absatz 2 mit anderen Datenquellen verknüpfen, sofern dies zur Erfüllung ihrer Aufgaben nach Absatz 1 erforderlich ist. Zur Erfüllung weiterer Aufgaben darf sie die Daten nach Absatz 2 nur mit anderen Datenquellen verknüpfen, wenn die Daten anonymisiert wurden.
+
+<sup>7</sup> Die Aufsichtsbehörde erlässt nach Anhören der Versicherer Weisungen zu den nach den Absätzen 1–4 zu treffenden Vorkehren.
+
+<sup>8</sup> Die Datenverwendung im Sinne von Artikel 35 Absatz 2 KVAG umfasst jede Form von Datenbearbeitung im Sinne des Datenschutzrechts des Bundes, einschliesslich der Datenbekanntgabe.
+
+[^62a-1]: Eingefügt durch Anhang Ziff. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^62a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^62a-3]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^62a-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+
 #### Art. 63
 
 **Meldung von Vorkommnissen von wesentlicher Bedeutung**
@@ -942,18 +1003,18 @@ Vor dem Zeitpunkt nach Absatz 4 müssen Versicherer, deren Reserven die Mindesth
 
 Diese Verordnung tritt am 1. Januar 2016 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 30*a* Abs. 2)
 
-## Berechnungsformel für die Standardabweichung****
+## Berechnungsformel für die Standardabweichung
 
 [^annex1-lvlu1-1]
 
 [^t-1]: Eingefügt durch Ziff. II der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 [^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 72)
 
@@ -963,6 +1024,6 @@ Anhang 2*[^t-2]*
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änderungen können unter [AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)konsultiert werden.

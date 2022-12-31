@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazio
 short: OVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: it
-version: 2021-06-01
+version: 2023-01-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20210601/it"
 
 (Ordinanza sulla vigilanza sull’assicurazione malattie, OVAMal)
 
-del 18 novembre 2015 (Stato 1° giugno 2021) (Stato 1° giugno 2021)
+del 18 novembre 2015 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -67,13 +67,15 @@ Due o più imprese formano un gruppo assicurativo se:
 
 <sup>1</sup>
 
-Un assicuratore può, in via eccezionale, essere esentato completamente o in parte dall’obbligo di offrire l’assicurazione sociale malattie anche a persone tenute ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia, se:
+Un assicuratore può, in via eccezionale, essere esentato completamente o in parte dall’obbligo di offrire l’assicurazione sociale malattie anche a persone tenute ad assicurarsi che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito, se:[^4-1]
 
 - a. conta meno di 500 000 assicurati;
 - b. non vuole esercitare l’assicurazione sociale malattie in nessuno di questi Stati o vuole esercitarla solo in alcuni di essi; e
 - c. ha assicurato negli Stati in questione solo effettivi molto piccoli.
 
 <sup>2</sup> La domanda di esenzione dall’obbligo in questione va presentata all’autorità di vigilanza entro il 30 giugno. L’esenzione ha effetto a partire dal 1°gennaio dell’anno seguente.
+
+[^4-1]: Nuovo testo giusta il n. I 6 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 5
 
@@ -351,11 +353,13 @@ Il ricavato del patrimonio vincolato viene utilizzato innanzitutto per coprire l
 
 <sup>2</sup> I costi ai sensi dell’articolo 16 capoverso 3 LVAMal comprendono tutti i costi a carico dell’assicuratore nel Cantone interessato, dedotta una parte dei redditi da capitale.
 
-<sup>3</sup> I premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia coprono i costi che l’assicuratore deve sostenere per gli assicurati di questi Stati nel loro insieme, dedotta una parte dei redditi da capitale. Per fissare i premi per ciascuno Stato, l’assicuratore tiene conto delle differenze di costi tra i diversi Stati.
+<sup>3</sup> I premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito coprono i costi che l’assicuratore deve sostenere per gli assicurati di questi Stati nel loro insieme, dedotta una parte dei redditi da capitale. Per fissare i premi per ciascuno Stato, l’assicuratore tiene conto delle differenze di costi tra i diversi Stati.[^25-1]
 
 <sup>4</sup> Per definire la parte dei redditi da capitale di cui ai capoversi 2 e 3, l’assicuratore può utilizzare solo i redditi generati dal suo capitale che non superano la percentuale da lui conseguita in media negli ultimi dieci anni. Tale parte viene fissata in funzione della stima dei premi incassati nel Cantone o nello Stato in questione.
 
 <sup>5</sup> Le riserve sono eccessive ai sensi dell’articolo 16 capoverso 4 lettera d LVAMal quando la copertura dell’ammontare minimo delle riserve dell’assicuratore è garantita a lungo termine anche con riserve più basse. Per la valutazione l’autorità di vigilanza si basa sul piano d’esercizio e sulle indicazioni di cui all’articolo 12 capoverso 3.
+
+[^25-1]: Nuovo testo giusta il n. I 6 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 26
 
@@ -789,6 +793,7 @@ L’autorizzazione a esercitare la riassicurazione ha effetto a partire dall’i
 È considerato abuso ai sensi dell’articolo 34 capoverso 1 lettera e LVAMal il pregiudizio arrecato:
 
 - a. ripetutamente a un assicurato;
+
 - b. a un assicurato attraverso una notevole disparità di trattamento non giustificabile dal punto di vista giuridico o attuariale;
 - c. sistematicamente a un gruppo di assicurati.
 
@@ -812,6 +817,63 @@ L’autorità di vigilanza e la FINMA coordinano le loro attività di vigilanza 
 - j. una violazione delle disposizioni in materia di vigilanza.
 
 <sup>2</sup> L’autorità di vigilanza e la FINMA possono coordinare le loro attività di vigilanza anche nel quadro di un regolare scambio di informazioni sui soggetti giuridici sottoposti alla loro vigilanza.
+
+#### Art. 62a
+
+**Dati degli assicuratori**[^62a-1]
+
+<sup>1</sup>
+
+I dati che devono essere comunicati dagli assicuratori conformemente all’articolo 35 capoverso 2 LVAMal per ogni assicurato servono a:
+
+- a. sorvegliare l’applicazione uniforme della LAMal[^62a-2] e della LVAMal;
+- b. garantire la parità di trattamento degli assicurati;
+- c. garantire che le differenze di premio corrispondano alle differenze dei costi cantonali e regionali e che le risorse dell’assicurazione sociale malattie siano utilizzate esclusivamente per i suoi scopi;
+- d. verificare i premi fatturati dagli assicuratori e garantire che il premio applicato corrisponda a quello approvato;
+- e. verificare i premi dei riassicuratori;
+- f. analizzare gli effetti della LAMal e della LVAMal e della loro esecuzione, nonché predisporre le basi decisionali per le modifiche della legge e della sua relativa esecuzione.
+
+<sup>2</sup>
+
+Per adempiere i compiti di cui al capoverso 1, gli assicuratori comunicano regolarmente all’autorità di vigilanza i seguenti dati di ogni assicurato:
+
+- a.
+
+  dati sociodemografici:
+
+  - 1\. il codice di collegamento,
+  - 2\. l’età, il sesso e il domicilio,
+  - 3\. il gruppo di rischio secondo l’articolo 11 dell’ordinanza del 19 ottobre 2016[^62a-3] sulla compensazione dei rischi nell’assicurazione malattie (OCoR) e la ripartizione dell’assicurato in un gruppo di costo farmaceutico secondo l’articolo 12 OCoR;
+
+- b.
+
+  informazioni sulla copertura assicurativa:
+
+  - 1\. l’inizio e la fine del periodo di copertura,
+  - 2\. le caratteristiche dei premi, quali il raggio d’attività territoriale dell’assicuratore, la regione di premio, la categoria delle forme particolari d’assicurazione di cui agli articoli 93–101 OAMal[^62a-4], la forma di assicurazione, la denominazione del modello e la sua abbreviazione, l’appartenenza dell’assicurato a un’economia domestica con più minorenni o giovani adulti, il grado di premi nell’assicurazione con bonus, l’ammontare della franchigia e la copertura dell’infortunio,
+  - 3\. l’ammontare del premio con e senza il contributo del Cantone, il supplemento di premio di cui all’articolo 8 OAMal, le riduzioni di premi e altri ribassi,
+  - 4\. l’indicazione se la copertura assicurativa di cui all’articolo 3 capoverso 4 LAMal sia sospesa o meno,
+  - 5\. l’indicazione se l’assicurato sia assoggettato alla compensazione dei rischi o meno,
+  - 6\. i motivi del cambiamento riferiti alla copertura assicurativa, quali ammissione e dimissione, nascita, decesso, cambiamento d’assicuratore e cambiamento interno,
+  - 7\. i costi complessivi delle prestazioni rimunerate e la partecipazione ai costi,
+  - 8\. per gli assicurati con una dimissione in uno degli anni precedenti: la data di dimissione.
+
+<sup>3</sup> Gli assicurati forniscono all’autorità di vigilanza tutti i dati in formato elettronico, in forma aggregata o per ogni assicurato. In caso di adeguamento delle rilevazioni possono, su richiesta e per un periodo limitato, esserne dispensati dall’autorità di vigilanza se non dispongono dei mezzi tecnici adeguati.
+
+<sup>4</sup> Gli assicuratori forniscono all’autorità di vigilanza i dati di cui al capoverso 3 in modo corretto, completo, tempestivo e a proprie spese.
+
+<sup>5</sup> L’autorità di vigilanza provvede affinché la fornitura dei dati provochi agli assicuratori il minore aggravio di lavoro possibile.
+
+<sup>6</sup> Per ridurre tale aggravio, l’autorità di vigilanza può collegare i dati di cui al capoverso 2 con altre fonti di dati, laddove questo risulti necessario per adempiere i propri compiti di cui al capoverso 1. Per adempiere ulteriori compiti, può collegare i dati di cui al capoverso 2 con altre fonti di dati, soltanto se tali dati sono stati anonimizzati.
+
+<sup>7</sup> L’autorità di vigilanza, consultati gli assicuratori, stabilisce direttive sulle misure di cui ai capoversi 1–4.
+
+<sup>8</sup> L’utilizzazione dei dati ai sensi dell’articolo 35 capoverso 2 LVAMal comprende qualsiasi forma di trattamento degli stessi in virtù del diritto in materia di protezione dei dati della Confederazione, compresa la loro comunicazione.
+
+[^62a-1]: Introdotto dall’all. n. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^62a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^62a-3]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
+[^62a-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
 #### Art. 63
 
@@ -939,7 +1001,7 @@ Prima del termine di cui al capoverso 4, gli assicuratori le cui riserve non rag
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 30*a* cpv. 2)
 
@@ -948,7 +1010,7 @@ Allegato 1*[^t-1]*
 [^t-1]: Introdotto dal n. II dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 [^t-2]: La formula di calcolo della deviazione standard non è pubblicata nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultata all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 72)
 
