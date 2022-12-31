@@ -4,13 +4,13 @@ number: "732.1.1"
 title: "Gesetz über die Gebäudeversicherung, die Prävention und die Hilfeleistungen bei Brand und Elementarschäden"
 short: KGVG
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-06-30
 version_adopted: 2021-03-26
 adopted: 2016-09-09
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/732.1.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6834/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gebäudeversicherung, Prävention und Hilfeleistungen bei Brand – G
 
 (KGVG)
 
-vom 09.09.2016 (Fassung in Kraft getreten am 01.07.2021)
+vom 09.09.2016 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -230,8 +230,8 @@ beschliesst:
 
 <sup>1</sup> Die Oberamtsperson ist in ihrem Bezirk:
 
-- a) Aufsichtsbehörde für die Bekämpfung von Bränden und Elementarschäden;
-- b) zuständige Behörde im Schadenfall;
+- a) …
+- b) …
 - c) Entscheidungsorgan bei Sicherheitsproblemen.
 
 <sup>2</sup> Die Oberamtsperson übermittelt der KGV eine Kopie sämtlicher Entscheide, die sie beim Bau von Gebäuden und in den weiteren Zuständigkeitsbereichen der KGV fällt.
@@ -244,7 +244,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde ist zuständig für:
 
-- a) die Umsetzung und die Kontrolle der ihr laut Gesetz und Ausführungsverordnung obliegenden Aufgaben bei der Bekämpfung von Bränden und Elementarschäden auf Gemeindegebiet;
+- a) das Beschliessen und Ergreifen aller Präventionsmassnahmen zur Vermeidung der Entstehung von Schäden, namentlich durch die Sicherstellung des Unterhalts der Kanalisationen für die Abwasserbeseitigung sowie der Fliessgewässer und der stehenden Gewässer;
 - b) die Verabschiedung der notwendigen kommunalen Reglemente;
 - c) die Durchführung der Kontrollen von Gebäuden und anderer Anlagen gemäss Ausführungsgesetzgebung;
 - d) die Anordnung von Feuerungsverboten in den Anlagen;
@@ -316,7 +316,7 @@ beschliesst:
 
 <sup>1</sup> Wenn das Ergebnis eines Geschäftsjahrs günstig ausfällt und die Reserven die erforderliche Höhe erreicht haben, kann der Überschuss ganz oder teilweise an den Staat und in Form einer Prämiensenkung an die Versicherten weitergegeben werden.
 
-### 3.2 Versicherungsprämie und Präventionsbeitrag
+### 3.2 Versicherungsprämie und Beitrag zu Prävention, Brandbekämpfung und Hilfeleistungen
 
 #### Art. 32
 
@@ -324,7 +324,7 @@ beschliesst:
 
 <sup>1</sup> Die KGV erhebt Jahresprämien bei den Hauseigentümern und achtet dabei auf eine angemessene Solidarität.
 
-<sup>2</sup> Die Prämien setzen sich aus der eigentlichen Versicherungsprämie und einem Präventionsbeitrag zusammen.
+<sup>2</sup> Die Prämien setzen sich aus der eigentlichen Versicherungsprämie und einem Beitrag zur Prävention, zur Brandbekämpfung und zu den Hilfeleistungen zusammen.
 
 <sup>3</sup> Die Prämie und der Beitrag werden so festgelegt, dass die Einnahmen insgesamt Folgendes decken: Die Entschädigungen nach Schadenereignis, die Ausgaben im Zusammenhang mit der Versicherung, die Bildung von Reserven sowie eine angemessene Beteiligung an Prävention und Bekämpfung von Schäden, die von der KGV versichert werden.
 
@@ -338,9 +338,9 @@ beschliesst:
 
 #### Art. 34
 
-**Präventionsbeitrag**
+**Beitrag zu Prävention, Brandbekämpfung und Hilfeleistungen**
 
-<sup>1</sup> Die Obergrenze des Präventionsbeitrags zulasten des Eigentümers oder der Eigentümerin wird in der Ausführungsverordnung festgelegt.
+<sup>1</sup> Die Obergrenze des Beitrags zur Prävention, zur Brandbekämpfung und zu den Hilfeleistungen zulasten des Eigentümers oder der Eigentümerin wird in der Ausführungsverordnung festgelegt.
 
 #### Art. 35
 
@@ -548,191 +548,91 @@ beschliesst:
 
 <sup>1</sup> Die KGV ist die Fachstelle und Vollzugsbehörde auf kantonaler Ebene für den Bereich Erdbebensicherheit.
 
-## 5 Bekämpfung von Bränden und Elementarschäden
+## 5 Brandbekämpfung und Hilfeleistungen
 
-### 5.1 Brandbekämpfungsdienst
+### 5.1
 
 #### Art. 58
 
-**Organisation**
+**Rolle und Zuständigkeiten der KGV**
 
-<sup>1</sup> Jede Gemeinde muss auf ihre Kosten ein Feuerwehrkorps einrichten, ausbilden und unterhalten.
+<sup>1</sup> Die KGV setzt die Spezialgesetzgebung im Bereich der Brandbekämpfung und der Hilfeleistungen um.
 
-<sup>2</sup> Dieses Korps muss jederzeit in der Lage sein, im Schadenfall einen raschen und wirksamen Einsatz zu leisten.
+<sup>2</sup> Sie setzt dafür ein Kompetenzzentrum für Brandbekämpfung und Hilfeleistungen ein. Dessen Aufgaben und Zuständigkeiten werden in einem besonderen Reglement festgelegt.
 
 #### Art. 59
 
-**Zusammenschluss mehrerer Gemeinden**
-
-<sup>1</sup> Nach Stellungnahme der Gebäudeversicherung kann die Oberamtsperson unter gewissen Bedingungen mehreren Gemeinden gestatten oder mehrere Gemeinden verpflichten, einen gemeinsamen Brandbekämpfungsdienst zu organisieren.
+**…**
 
 #### Art. 60
 
-**Stützpunkte – Aufgaben**
-
-<sup>1</sup> In jedem Bezirk erfüllt ein Feuerwehrkorps zusätzlich zu seinen örtlichen Aufgaben die Aufgaben eines Stützpunkts.
-
-<sup>2</sup> Es sind die folgenden Aufgaben:
-
-- a) Unterstützung der Ortsfeuerwehren, wenn deren Mittel bei einem Schadenfall nicht genügen;
-- b) Einsatz zur Rettung von Personen, wenn Spezialgeräte dafür nötig sind;
-- c) Einsatz auf den Nationalstrassen;
-- d) Einsatz bei speziellen Schadenfällen, insbesondere bei Verunreinigungen durch Kohlenwasserstoffe oder andere Stoffe.
-
-<sup>3</sup> Der Staatsrat kann einigen oder allen Stützpunkten weitere Aufgaben übertragen.
+**…**
 
 #### Art. 61
 
-**Stützpunkte – Organisation und Arbeitsweise**
-
-<sup>1</sup> Der Staatsrat bezeichnet nach Stellungnahme der Gebäudeversicherung die Feuerwehrkorps, denen die Aufgaben eines Stützpunkts übertragen werden.
-
-<sup>2</sup> Er regelt auf dem Verordnungsweg Organisation, Ausrüstung und Arbeitsweise der Stützpunkte.
-
-<sup>3</sup> Er kann der Gebäudeversicherung die Befugnis erteilen, den Einsatz der Stützpunkte und die Ausbildung der ihnen zugeteilten Feuerwehrleute in Richtlinien zu regeln.
+**…**
 
 #### Art. 62
 
-**Stützpunkte – Finanzierung**
-
-<sup>1</sup> Die KGV übernimmt die Investitions- und Betriebskosten, die den Sitzgemeinden aus der Erfüllung der Stützpunktaufgaben erwachsen.
-
-<sup>2</sup> Die Sitzgemeinden beteiligen sich an diesen Kosten in dem Ausmass, in dem ihre Feuerwehrkorps bei der Erfüllung ihrer örtlichen Aufgaben aus den Mitteln des Stützpunkts Nutzen ziehen. Der Staatsrat regelt den Vollzug dieser Bestimmung auf dem Verordnungsweg.
-
-<sup>3</sup> Besondere Bestimmungen, welche die Kostenübernahme durch den Staat, durch die Gemeinden oder durch Dritte vorsehen, bleiben vorbehalten.
+**…**
 
 #### Art. 63
 
-**Gemeindereglement**
-
-<sup>1</sup> Die Gemeinden erlassen ein Reglement über den Brandbekämpfungsdienst.
-
-<sup>2</sup> Dieses Reglement wird der Oberamtsperson zur Genehmigung unterbreitet; sie holt eine Stellungnahme der Gebäudeversicherung ein.
+**…**
 
 #### Art. 64
 
-**Ausrüstung und Material**
-
-<sup>1</sup> Die Gemeinden besorgen die Ausrüstungen der Feuerwehr, das Material, die Geräte und die nötigen Räumlichkeiten.
+**…**
 
 #### Art. 65
 
-**Spezialmassnahmen in Risikobetrieben**
-
-<sup>1</sup> In der Ausführungsverordnung werden die Massnahmen festgelegt, die Inhaberinnen und Inhaber von Risikobetrieben beim Personal zur Gewährleistung ausreichender Brandsicherheit zu treffen haben, wenn Brandgefahren, Personenbelegung oder Grösse des Betriebs es erfordern.
-
-<sup>2</sup> Die Oberamtsperson kann von diesen Betrieben die Bildung von Löschgruppen oder, wenn es die Verhältnisse erfordern, von Betriebsfeuerwehren verlangen; sie holt vorgängig die Stellungnahmen der Gemeindebehörde und der KGV ein. Die KGV kann Betriebe, von denen eine besondere Brandgefahr ausgeht, ebenfalls verpflichten, sich einem Brandverhütungsdienst anzuschliessen.
+**…**
 
 #### Art. 66
 
-**Wachtdienst**
-
-<sup>1</sup> Der Gemeinderat kann Wachtdienste organisieren, namentlich Pikettdienste bei Sturmwetter, grossen Trockenperioden, öffentlichen Veranstaltungen oder wenn besondere Umstände es erfordern.
-
-<sup>2</sup> Die Oberamtsperson kann diesen Wachtdienst für eine bestimmte Zeitspanne anordnen.
-
-<sup>3</sup> Der Gemeinderat bietet das Feuerwehrkorps bei Überschwemmungen, Erdbeben, Erdrutschungen, Lawinen, Entgleisungen oder anderen Katastrophen auf.
-
-<sup>4</sup> Der Gemeinderat und die Oberamtsperson sind ausserdem befugt, Zivilpersonen zur Unterstützung der Feuerwehr aufzubieten.
+**…**
 
 #### Art. 67
 
-**Ausbildung der Feuerwehr**
-
-<sup>1</sup> Für die Ausbildung der Feuerwehrleute sind zuständig:
-
-- a) die Kommandantinnen und Kommandanten und die Kader der Feuerwehrkorps;
-- b) die KGV, in Zusammenarbeit mit den Instruktorinnen und Instruktoren der Feuerwehr.
-
-<sup>2</sup> Die Kommandantin oder der Kommandant des Feuerwehrkorps ist für die Ausbildung verantwortlich. Sie oder er erstellt das Übungsprogramm und sorgt dafür, dass die Feuerwehrleute die für sie vorgesehenen Ausbildungskurse absolvieren.
-
-<sup>3</sup> Die KGV leitet die Ausbildung auf kantonaler Ebene. Sie hat insbesondere folgende Aufgaben:
-
-- a) Sie legt die Ziele der Ausbildung fest.
-- b) Sie stellt die Infrastruktur für die Ausbildung und für die Übungen zur Verfügung.
-- c) Sie sorgt für die Rekrutierung, die Ausbildung und die Betreuung der Instruktorinnen und Instruktoren.
-- d) Sie organisiert die kantonalen Ausbildungskurse und legt deren Rahmenbedingungen fest.
-
-<sup>4</sup> Die KGV wird bei der Erfüllung ihrer Aufgaben von einer Kommission unterstützt, deren Zusammensetzung und Befugnisse im Reglement festgelegt werden.
+**…**
 
 #### Art. 68
 
-**Löschkosten**
-
-<sup>1</sup> Die Rettungs-, Lösch- und Wachtkosten gehen bei Schadenfällen zulasten der Gemeinden. Diese haben das Recht, die Erstattung ihrer Kosten von der Urheberin oder vom Urheber eines böswillig oder grobfahrlässig verursachten Brandes oder von deren Anstifterinnen oder Anstiftern zurückzuverlangen.
+**…**
 
 #### Art. 69
 
-**Brände ausserhalb des Gemeindegebiets**
-
-<sup>1</sup> Die Gemeinden sind gehalten, den Nachbarorten zu helfen, wenn dort ein grosser Brand ausgebrochen ist und Hilfe angefordert wird.
-
-<sup>2</sup> Die Gemeinden, welche die Dienste anderer Gemeinden nachsuchen, müssen die Kosten tragen.
-
-<sup>3</sup> Vereinbarungen unter den Gemeinden bleiben vorbehalten.
+**…**
 
 #### Art. 70
 
-**Dienstpflicht**
-
-<sup>1</sup> Alle in der Gemeinde ansässigen Frauen und Männer, gleich welcher Nationalität, können durch Einteilung in das Feuerwehrkorps verpflichtet werden, Feuerwehrdienst zu leisten.
-
-<sup>2</sup> Diese Verpflichtung kann allen Frauen und allen Männern auferlegt werden, die das 20. Altersjahr vollendet haben und noch nicht 52 Jahre alt sind. Im Bedarfsfall können die Altersgrenzen auf 18 und 60 Jahre festgesetzt werden.
+**…**
 
 #### Art. 71
 
-**Einteilung**
-
-<sup>1</sup> Die Gemeinden setzen nach ihren Bedürfnissen die Altersklassen fest, die zum Feuerwehrdienst eingezogen werden können.
-
-<sup>2</sup> Zur Erhaltung des notwendigen Personenbestandes teilen sie in das Korps regelmässig genügend Frauen und Männer ein.
-
-<sup>3</sup> Niemand hat einen Anspruch auf Einteilung in das Feuerwehrkorps.
+**…**
 
 #### Art. 72
 
-**Feuerwehr-Ersatzabgabe**
-
-<sup>1</sup> Dienstpflichtige Frauen und Männer, die nicht beim Feuerwehrdienst eingeteilt sind, können verpflichtet werden, eine jährliche Feuerwehr-Ersatzabgabe zu entrichten.
-
-<sup>2</sup> Die Bemessungsgrundlage und die Höhe der Abgabe sowie die Kategorien von Personen, die von dieser Verpflichtung befreit werden können, werden von den Gemeinden festgesetzt.
-
-<sup>3</sup> Im Übrigen gelten die Bestimmungen des Gesetzes über die Gemeindesteuern.
+**…**
 
 #### Art. 73
 
-**Aufgebot von Fahrzeugen**
-
-<sup>1</sup> Auf Begehren der Gemeindebehörde sind die Eigentümerinnen und Eigentümer von Fahrzeugen jeder Art sowie von Pferden verpflichtet, diese für den Ernstfall oder zu Übungszwecken dem Feuerwehrkorps gegen angemessene Entschädigung zur Verfügung zu stellen.
+**…**
 
 #### Art. 74
 
-**Aufgebot von Zivilpersonen**
-
-<sup>1</sup> Die Oberamtsperson, die Gemeindebehörden oder die Kommandantin oder der Kommandant der Feuerwehr können im Ernstfall auch Personen, die nicht im Korps eingeteilt sind, für die Bekämpfung von Bränden oder Elementarschäden aufbieten.
+**…**
 
 #### Art. 75
 
-**Versicherung der Angehörigen der Feuerwehr und der aufgebotenen Zivilpersonen**
+**…**
 
-<sup>1</sup> Jede Gemeinde muss die Mitglieder ihres Korps bei der Hilfskasse des Schweizerischen Feuerwehrverbands gegen Unfälle oder Krankheiten infolge von Übungen, Schadenfall- und Wachtdiensten versichern.
-
-<sup>2</sup> Die KGV versichert die freiwilligen Helferinnen und Helfer und die aufgebotenen Zivilpersonen gegen Unfall bei Schadenfall- und Wachtdiensten.
-
-<sup>3</sup> Die KGV deckt ebenfalls die Haftpflicht der Gemeinden für die Tätigkeit ihrer Feuerwehrkorps, der freiwilligen Helferinnen und Helfer und der erforderlichen Zivilpersonen, sofern diese Haftpflicht durch die Gemeinde nicht oder nur ungenügend gedeckt ist.
-
-<sup>4</sup> Die privaten Anstalten versichern ihre eigenen Feuerwehren selbst.
-
-### 5.2 Brandbekämpfungsinfrastrukturen
+### 5.2
 
 #### Art. 76
 
-<sup>1</sup> Die Gemeinden sind verpflichtet, die erforderlichen infrastrukturellen Massnahmen zu ergreifen, um die Feuerbekämpfung auf dem ganzen Gemeindegebiet sicherzustellen, insbesondere:
-
-- a) durch die Trinkwasserinfrastrukturen;
-- b) durch die Bildung und den Unterhalt von Wasserreserven und ‑bezugsstellen entsprechend den zu schützenden Objekten.
-
-<sup>2</sup> Wenn Arbeiten an diesen Infrastrukturen nötig sind, passen sie ihre bestehenden Trinkwasserinfrastrukturen soweit möglich den Anforderungen der Feuerbekämpfung an.
+**…**
 
 ## 6 Gebäudeversicherung
 

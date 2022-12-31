@@ -4,13 +4,13 @@ number: "732.1.1"
 title: "Loi sur l'assurance immobilière, la prévention et les secours en matière de feu et d'éléments naturels"
 short: LECAB
 language: fr
-version: 2021-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-06-30
 version_adopted: 2021-03-26
 adopted: 2016-09-09
 in_force: 2018-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/732.1.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6834/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7609/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Assurance immobilière, prévention et secours en matière de feu – L
 
 (LECAB)
 
-du 09.09.2016 (version entrée en vigueur le 01.07.2021)
+du 09.09.2016 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -230,8 +230,8 @@ Décrète:
 
 <sup>1</sup> Le préfet est, dans son district:
 
-- a) autorité de surveillance dans le domaine de l'organisation de la défense contre les incendies et les éléments naturels;
-- b) organe de référence en cas de sinistre;
+- a) …
+- b) …
 - c) organe de décision en cas de problème de sécurité.
 
 <sup>2</sup> Le préfet transmet à l'Etablissement une copie de toutes les décisions qu'il rend dans le domaine de la construction des bâtiments ainsi que dans les autres domaines relevant de la compétence de l'Etablissement.
@@ -244,7 +244,7 @@ Décrète:
 
 <sup>1</sup> La commune est responsable:
 
-- a) de mettre en œuvre la surveillance, sur son territoire, des tâches qui lui incombent en vertu de la loi et de la réglementation d'exécution dans le domaine de la défense contre les incendies et les éléments naturels;
+- a) de prononcer et de prendre toutes les mesures préventives propres à éviter la survenance de sinistres, notamment en veillant à l'entretien des canalisations d'évacuation des eaux, des cours d'eau et des plans d'eau;
 - b) d'adopter les règlements communaux nécessaires;
 - c) de procéder aux contrôles des bâtiments et autres installations selon la législation d'exécution;
 - d) de prononcer les interdictions de faire du feu dans les installations;
@@ -316,7 +316,7 @@ Décrète:
 
 <sup>1</sup> Si le résultat d'un exercice est favorable et que les réserves aient atteint le niveau requis, l'excédent peut, en tout ou partie, être redistribué à l'Etat et aux assuré‑e‑s sous forme de réduction de primes.
 
-### 3.2 Prime d'assurance et contribution à la prévention
+### 3.2 Prime d'assurance et contribution à la prévention, à la défense incendie et aux secours
 
 #### Art. 32
 
@@ -324,7 +324,7 @@ Décrète:
 
 <sup>1</sup> L'Etablissement perçoit des primes annuelles auprès des propriétaires de bâtiments en veillant à une solidarité convenable.
 
-<sup>2</sup> Les primes sont composées de la prime d'assurance proprement dite et d'une contribution à la prévention.
+<sup>2</sup> Les primes sont composées de la prime d'assurance proprement dite et d'une contribution à la prévention, à la défense incendie et aux secours.
 
 <sup>3</sup> La prime et la contribution sont fixées de manière que l'ensemble des recettes couvre les indemnités après sinistre, les charges liées à l'assurance, la constitution des réserves ainsi qu'une participation équitable à la prévention et à la défense contre les dommages assurés par l'Etablissement.
 
@@ -338,9 +338,9 @@ Décrète:
 
 #### Art. 34
 
-**Contribution à la prévention**
+**Contribution à la prévention, à la défense incendie et aux secours**
 
-<sup>1</sup> Le taux maximal de la contribution à la prévention à la charge des propriétaires est fixé dans le règlement d'exécution.
+<sup>1</sup> Le taux maximal de la contribution à la prévention, à la défense incendie et aux secours à la charge des propriétaires est fixé dans le règlement d'exécution.
 
 #### Art. 35
 
@@ -548,191 +548,91 @@ Décrète:
 
 <sup>1</sup> L'Etablissement est le centre de compétence et l'autorité d'exécution sur le plan cantonal en ce qui concerne la sécurité parasismique.
 
-## 5 Défense contre le feu et les éléments naturels
+## 5 Défense incendie et secours
 
-### 5.1 Service de défense contre l'incendie
+### 5.1
 
 #### Art. 58
 
-**Organisation**
+**Rôle et compétences de l'Etablissement**
 
-<sup>1</sup> Chaque commune a l'obligation d'organiser, d'instruire et d'entretenir, à ses frais, un corps de sapeurs-pompiers.
+<sup>1</sup> L'Etablissement met en œuvre la législation spéciale en matière de défense incendie et de secours.
 
-<sup>2</sup> Ce service doit pouvoir assurer, en tout temps, une intervention rapide et efficace en cas de sinistre.
+<sup>2</sup> Il se dote d'un centre de compétence dans le domaine de la défense incendie et des secours. Ses tâches et compétences sont fixées dans la réglementation particulière.
 
 #### Art. 59
 
-**Groupement de communes**
-
-<sup>1</sup> Sur le préavis de l'Etablissement, le préfet peut, sous certaines conditions, autoriser ou obliger plusieurs communes à organiser en commun le service de défense contre l'incendie.
+**…**
 
 #### Art. 60
 
-**Centres de renfort – Tâches**
-
-<sup>1</sup> Dans chaque district, un corps de sapeurs-pompiers remplit, en plus de ses tâches locales, les tâches d'un centre de renfort.
-
-<sup>2</sup> Ces tâches sont les suivantes:
-
-- a) l'appui aux corps locaux, lorsqu'un sinistre dépasse leurs possibilités;
-- b) l'intervention pour le sauvetage de personnes, lorsqu'elle nécessite des engins spéciaux;
-- c) l'intervention sur les routes nationales;
-- d) l'intervention lors de sinistres spéciaux, notamment en cas de pollution par des hydrocarbures ou d'autres produits.
-
-<sup>3</sup> Le Conseil d'Etat peut attribuer d'autres tâches aux centres de renfort ou à certains d'entre eux.
+**…**
 
 #### Art. 61
 
-**Centres de renfort – Organisation et fonctionnement**
-
-<sup>1</sup> Le Conseil d'Etat désigne, sur le préavis de l'Etablissement, les corps de sapeurs-pompiers qui sont chargés de remplir les tâches d'un centre de renfort.
-
-<sup>2</sup> Il règle par voie d'ordonnance l'organisation, l'équipement et le fonctionnement des centres de renfort.
-
-<sup>3</sup> Il peut déléguer à l'Etablissement la compétence de régler, par des directives, l'engagement des centres de renfort ainsi que l'instruction des sapeurs-pompiers qui leur sont attribués.
+**…**
 
 #### Art. 62
 
-**Centres de renfort – Financement**
-
-<sup>1</sup> L'Etablissement prend en charge les frais d'investissement et les frais de fonctionnement qui résultent, pour les communes-siège, de l'accomplissement des tâches de centre de renfort.
-
-<sup>2</sup> Les communes-siège participent à ces frais, dans la mesure où leurs corps de sapeurs-pompiers bénéficient des moyens du centre de renfort dans l'accomplissement de leurs tâches locales. Le Conseil d'Etat règle, par voie d'ordonnance, l'application de cette disposition.
-
-<sup>3</sup> Sont réservées les dispositions particulières prévoyant la prise en charge de frais par l'Etat, par les communes ou par des tiers.
+**…**
 
 #### Art. 63
 
-**Règlement communal**
-
-<sup>1</sup> Les communes établissent un règlement sur le service de défense contre l'incendie.
-
-<sup>2</sup> Ce règlement est soumis à l'approbation du préfet qui demande le préavis de l'Etablissement.
+**…**
 
 #### Art. 64
 
-**Equipement et matériel**
-
-<sup>1</sup> Les communes fournissent l'équipement des sapeurs-pompiers, le matériel, les engins et les locaux nécessaires.
+**…**
 
 #### Art. 65
 
-**Mesures spéciales dans les établissements à risque**
-
-<sup>1</sup> Le règlement d'exécution détermine les mesures que les exploitants et exploitantes d'établissements doivent prendre sur le plan du personnel pour assurer une sécurité incendie suffisante lorsque les dangers d'incendie, le taux d'occupation ou les dimensions de l'exploitation l'exigent.
-
-<sup>2</sup> Le préfet est compétent, sur le préavis de l'autorité communale et de l'Etablissement, pour exiger de ces établissements la création de groupes d'extinction ou, si nécessaire, de sapeurs-pompiers d'entreprise. L'Etablissement peut aussi obliger les établissements dont l'exploitation présente des dangers d'incendie spéciaux à s'affilier à un service de prévention contre l'incendie.
+**…**
 
 #### Art. 66
 
-**Service de garde**
-
-<sup>1</sup> Le conseil communal peut organiser des services de surveillance tels que piquets en temps d'orage, lors de grandes sécheresses, lors de manifestations publiques ou lorsque des circonstances spéciales l'exigent.
-
-<sup>2</sup> Le préfet peut ordonner ce service de garde durant une période déterminée.
-
-<sup>3</sup> Le conseil communal met sur pied le corps de sapeurs-pompiers en cas d'inondations, de tremblements de terre, d'éboulements, d'avalanches, de déraillements ou autres catastrophes.
-
-<sup>4</sup> Le conseil communal et le préfet peuvent aussi réquisitionner des civil‑e‑s pour porter aide aux sapeurs-pompiers.
+**…**
 
 #### Art. 67
 
-**Instruction des sapeurs-pompiers**
-
-<sup>1</sup> L'instruction des sapeurs-pompiers incombe:
-
-- a) aux commandants et commandantes et aux cadres des corps de sapeurs-pompiers;
-- b) à l'Etablissement, avec la collaboration des instructeurs et instructrices sapeurs-pompiers.
-
-<sup>2</sup> Le commandant ou la commandante du corps de sapeurs-pompiers est responsable de l'instruction. Il ou elle établit le programme des exercices et fait suivre aux sapeurs-pompiers les cours de formation qui leur sont destinés.
-
-<sup>3</sup> L'Etablissement dirige l'instruction sur le plan cantonal. Il a pour tâches, en particulier:
-
-- a) de définir les objectifs de l'instruction;
-- b) de fournir une infrastructure pour la formation et les exercices;
-- c) d'assurer le recrutement, la formation et l'encadrement des instructeurs et instructrices;
-- d) d'organiser les cours cantonaux de formation et d'en fixer les conditions cadres.
-
-<sup>4</sup> L'Etablissement est secondé, dans l'accomplissement de ses tâches, par une commission dont la composition et les attributions sont fixées dans le règlement.
+**…**
 
 #### Art. 68
 
-**Frais d'extinction**
-
-<sup>1</sup> Les frais de sauvetage, d'extinction et de garde en cas de sinistre sont à la charge des communes. Celles-ci ont le droit de réclamer le remboursement de leurs frais aux auteur‑e‑s de l'incendie par malveillance ou négligence grave ou à leurs instigateurs ou instigatrices.
+**…**
 
 #### Art. 69
 
-**Sinistres en dehors de la commune**
-
-<sup>1</sup> Les communes sont tenues de porter secours aux localités voisines s'il s'y déclare un incendie important et si leur aide est requise.
-
-<sup>2</sup> Les communes qui sollicitent les services particuliers d'autres communes en supportent les frais.
-
-<sup>3</sup> Les conventions entre communes sont réservées.
+**…**
 
 #### Art. 70
 
-**Obligation de faire le service**
-
-<sup>1</sup> Les hommes et les femmes domiciliés sur le territoire de la commune peuvent, quelle que soit leur nationalité, être astreints à coopérer au service de défense contre l'incendie par leur incorporation dans le corps de sapeurs-pompiers.
-
-<sup>2</sup> Cette obligation peut être imposée à tout homme ou à toute femme ayant l'âge de 20 ans révolus et n'ayant pas atteint 52 ans. En cas de nécessité, les limites d'âge peuvent être fixées à 18 et 60 ans.
+**…**
 
 #### Art. 71
 
-**Incorporation**
-
-<sup>1</sup> Les communes déterminent les classes d'âge qui sont astreintes au service de défense contre l'incendie, en tenant compte des besoins.
-
-<sup>2</sup> Elles incorporent dans le corps des sapeurs-pompiers un nombre d'hommes et de femmes suffisant pour obtenir l'effectif nécessaire.
-
-<sup>3</sup> Nul ne peut exiger son incorporation dans le corps des sapeurs-pompiers.
+**…**
 
 #### Art. 72
 
-**Taxe d'exemption**
-
-<sup>1</sup> Les hommes et les femmes soumis à l'obligation de faire le service et qui ne sont pas incorporés dans le corps des sapeurs-pompiers peuvent être soumis au paiement d'une taxe annuelle d'exemption.
-
-<sup>2</sup> L'assiette et le montant de la taxe ainsi que les catégories de personnes qui peuvent en être exemptées sont déterminés par les communes.
-
-<sup>3</sup> Les dispositions de la loi sur les impôts communaux s'appliquent pour le surplus.
+**…**
 
 #### Art. 73
 
-**Réquisition de véhicules**
-
-<sup>1</sup> Sur réquisition de l'autorité communale, les propriétaires de véhicules de tout genre et de chevaux sont tenus de les mettre à la disposition des sapeurs-pompiers en cas de sinistre ou d'exercice. Il leur est alloué une indemnité équitable.
+**…**
 
 #### Art. 74
 
-**Réquisition des civil-e-s**
-
-<sup>1</sup> En cas de sinistre, le préfet, l'autorité communale ou le commandant ou la commandante des sapeurs-pompiers peuvent requérir le concours de personnes ne faisant pas partie du corps de sapeurs-pompiers pour la défense contre l'incendie et les éléments naturels.
+**…**
 
 #### Art. 75
 
-**Assurance des sapeurs-pompiers et des civil-e-s requis**
+**…**
 
-<sup>1</sup> Chaque commune doit assurer auprès de la Caisse de secours de la Fédération suisse des sapeurs-pompiers tous les membres de son corps de sapeurs-pompiers contre les conséquences d'accidents survenus ou de maladies contractées lors d'exercices, de sinistres et de service de garde.
-
-<sup>2</sup> L'Etablissement assure contre les accidents les premiers intervenants et intervenantes bénévoles et les civil‑e‑s appelés à collaborer lors de sinistres ou de services de garde.
-
-<sup>3</sup> L'Etablissement couvre également la responsabilité civile des communes résultant de l'activité de leur corps de sapeurs-pompiers, des premiers intervenants et intervenantes bénévoles et des civil‑e‑s requis, en tant que cette responsabilité n'est pas ou n'est qu'insuffisamment couverte par la commune.
-
-<sup>4</sup> Les établissements privés assurent eux-mêmes leurs corps de sapeurs-pompiers.
-
-### 5.2 Infrastructures de défense contre l'incendie
+### 5.2
 
 #### Art. 76
 
-<sup>1</sup> Les communes ont l'obligation de prendre les mesures infrastructurelles nécessaires pour assurer leur défense contre l'incendie sur l'ensemble de leur territoire, à savoir:
-
-- a) par les infrastructures d'eau potable;
-- b) par la création et l'entretien de réserves et de prises d'eau en rapport avec les objets à défendre.
-
-<sup>2</sup> Elles adaptent autant que possible leurs infrastructures d'eau potable existantes aux exigences en matière de défense contre l'incendie lorsque des interventions s'imposent sur ces infrastructures.
+**…**
 
 ## 6 Assurance immobilière
 
