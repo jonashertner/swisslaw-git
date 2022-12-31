@@ -4,13 +4,13 @@ number: "860.22"
 title: "Ordonnance sur les programmes de soutien à l’enfance, à la jeunesse et à la famille"
 short: OEJF
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-31
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2534/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2803/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2534/pdf_file"
 
 (OEJF)
 
-du 24.11.2021 (état au 01.01.2022)
+du 24.11.2021 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1156,7 +1156,7 @@ arrête:
 
 <sup>1</sup> Les dépenses imputables maximales se composent
 
-- a d’un montant de base de 80,89 francs multiplié par le nombre d’enfants et d’adolescents jusqu’à l’âge de 20 ans appartenant au bassin de population considéré et
+- a d’un montant de base de 81,86 francs multiplié par le nombre d’enfants et d’adolescents jusqu’à l’âge de 20 ans appartenant au bassin de population considéré et
 - b d’un montant supplémentaire calculé en fonction de l’indice de charges sociales.
 
 <sup>2</sup> L’indice de charges sociales sert à répartir une somme composée de montants supplémentaires définie par la DSSI par voie d’ordonnance de Direction.

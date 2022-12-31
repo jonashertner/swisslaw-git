@@ -4,13 +4,13 @@ number: "860.22"
 title: "Verordnung über die Leistungsangebote der Familien-, Kinder- und Jugendförderung"
 short: FKJV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-01
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-31
 adopted: 2021-11-24
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2534/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2534/pdf_file"
 
 (FKJV)
 
-vom 24.11.2021 (Stand 01.01.2022)
+vom 24.11.2021 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1156,7 +1156,7 @@ beschliesst:
 
 <sup>1</sup> Der Höchstbetrag der anrechenbaren Aufwendungen besteht aus
 
-- a einem Grundbetrag von 80.89 Franken multipliziert mit der Anzahl Kinder und Jugendliche bis zum vollendeten 20. Lebensjahr im entsprechenden Einzugsgebiet und
+- a einem Grundbetrag von 81.86 Franken multipliziert mit der Anzahl Kinder und Jugendliche bis zum vollendeten 20. Lebensjahr im entsprechenden Einzugsgebiet und
 - b einem Zusatzbetrag gemäss Soziallastenindex.
 
 <sup>2</sup> Der Soziallastenindex wird zur Verteilung einer von der GSI in einer Direktionsverordnung definierten Gesamtsumme der Zusatzbeträge verwendet.
