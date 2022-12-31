@@ -4,11 +4,11 @@ title: "Federal Act of 23 June 2006 on Collective Investment Schemes (Collective
 short: CISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: en
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2006-822-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2006-822-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Collective Investment Schemes Act, CISA)
 
-of 23 June 2006 (Status as of 1 January 2020)
+of 23 June 2006 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -211,7 +211,7 @@ The following must apply for authorisation:
 - c. limited partnerships for collective investment;
 - d. SICAFs;
 - e.[^13-3] the custodian bank;
-- [tab] f. und g.[^13-4] ...
+- [tab] f. and g.[^13-4] ...
 - h. representatives of foreign collective investment schemes.
 
 <sup>3</sup> Representatives who are already subject to other equivalent official supervision may be granted exemption from the duty to obtain authorisation by the Federal Council.[^13-5]
@@ -311,7 +311,7 @@ The Federal Council may specify a simplified authorisation and approval procedur
 
 [^19-1]: Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Chapter 4 Protection of Investors' Interests****
+### Chapter 4 Protection of Investors' Interests
 
 [^tit1-chap3-chap4-1]
 
@@ -587,7 +587,7 @@ The provisions on public takeover offers (Arts. 125 to 141 of the Financial Mark
 [^45-1]: Amended by Annex No 9 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^45-2]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
-### Section 2 Shareholders' Rights and Obligations****
+### Section 2 Shareholders' Rights and Obligations
 
 [^tit2-chap2-sec2-1]
 
@@ -1551,7 +1551,7 @@ The place of jurisdiction is:
 [^125-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^125-3]: Inserted by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-## Title 5 Audit**** and Supervision
+## Title 5 Audit and Supervision
 
 [^tit5-1]
 
@@ -1676,15 +1676,16 @@ Licensees from which authorisation has been withdrawn or collective investment s
 
 <sup>1</sup> Where there is justified concern that an authorised parties as defined in Article 13 paragraph 2 letters b–d is excessively indebted or has serious liquidity problems and there is no prospect of restructuring or restructuring has failed, FINMA shall withdraw authorisation from the financial institution, initiate bankruptcy proceedings and make this public.[^137-2]
 
-<sup>2</sup> The provisions on composition proceedings (Art. 293–336 of the Federal Act of 11 April 1889[^137-3] on Debt Enforcement and Bankruptcy, DEBA), on a stay of proceedings for companies (Art. 725 and 725*a* of the Code of Obligations[^137-4]) and on notification of the court (Art. 728*c* para. 3 of the Code of Obligations) do not apply to the licensee referred to in paragraph 1.
+<sup>2</sup> The provisions on composition proceedings (Art. 293–336 of the Federal Act of 11 April 1889[^137-3] on Debt Enforcement and Bankruptcy, DEBA) and on notification of the court (Art. 716*a* para. 1 no. 8, 725*a* para. 3, 725*b* para. 3 and 728*c* para. 3 of the Code of Obligations[^137-4]) do not apply to the licensee referred to in paragraph 1.[^137-5]
 
-<sup>3</sup> FINMA appoints one or more bankruptcy liquidators. These are subject to supervi- sory control by FINMA and shall provide FINMA with a report if requested.[^137-5]
+<sup>3</sup> FINMA appoints one or more bankruptcy liquidators. These are subject to supervi- sory control by FINMA and shall provide FINMA with a report if requested.[^137-6]
 
 [^137-1]: Amended by Annex No 3 of the FA of 18 March 2011 (Securing Investments), in force since 1 Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^137-2]: Amended by Annex No II 13 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^137-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^137-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^137-5]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^137-5]: Amended by Annex No 11 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^137-6]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 138
 
@@ -1954,13 +1955,13 @@ Any person who wilfully does any of the following is liable to a fine not exceed
 
 [^151-1]: Repealed by Annex No 14 of the Financial Market Supervision Act of 22 June 2007, with effect from 1 Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Title 7 Final Provisions****
+## Title 7 Final Provisions
 
 [^tit7-1]
 
 [^tit7-1]: Amended by No I of the FA of 28 Sept. 2012, in force since 1 March 2013 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
-### Chapter 1 Implementation; Repeal and Amendment of Existing Legislation****
+### Chapter 1 Implementation; Repeal and Amendment of Existing Legislation
 
 [^tit7-chap1-1]
 
@@ -1998,7 +1999,7 @@ The repeal and amendment of the existing legislation are set out in the Annex.
 
 [^158a158e-1]: Inserted by No I of the FA of 28 Sept. 2012 ([AS 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [BBl 2012 3639](https://fedlex.data.admin.ch/eli/fga/2012/495)). Repealed by Annex No II 13 of the Financial Institutions Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141))
 
-### Chapter 4 Referendum and Commencement****
+### Chapter 4 Referendum and Commencement
 
 [^tit7-chap4-1]
 

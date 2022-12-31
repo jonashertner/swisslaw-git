@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sugli investimenti collettivi di capit
 short: LICol
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: it
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2006-822-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-822-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20200101/it"
 
 (Legge sugli investimenti collettivi, LICol)
 
-del 23 giugno 2006 (Stato 1° gennaio 2020)
+del 23 giugno 2006 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera;
 
@@ -308,7 +308,7 @@ Il Consiglio federale può prevedere una procedura semplificata di autorizzazion
 
 [^19-1]: Abrogato dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Capitolo 4: Tutela degli interessi degli investitori****
+### Capitolo 4: Tutela degli interessi degli investitori
 
 [^tit1-chap4-1]
 
@@ -582,7 +582,7 @@ Le disposizioni sulle offerte pubbliche di acquisto (art. 125–141 della L del 
 [^45-1]: Nuovo testo giusta l’all. n. 9 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^45-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
-### Sezione 2: Diritti e obblighi degli azionisti****
+### Sezione 2: Diritti e obblighi degli azionisti
 
 [^tit2-chap2-sec2-1]
 
@@ -1665,15 +1665,16 @@ La FINMA può disporre la liquidazione di titolari dell’autorizzazione ai qual
 
 <sup>1</sup> Ove vi sia il timore fondato che il titolare dell’autorizzazione di cui all’articolo 13 capoverso 2 lettere b–d sia eccessivamente indebitato o abbia seri problemi di liquidità e se non vi è alcuna prospettiva di risanamento o il risanamento è fallito, la FINMA revoca all’istituto finanziario l’autorizzazione, dichiara il fallimento e lo rende pubblico.[^137-2]
 
-<sup>2</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 della LF dell’11 apr. 1889 sulla esecuzione e sul fallimento, LEF[^137-3]), alla moratoria del diritto della società anonima (art. 725 e 725*a* del Codice delle obbligazioni[^137-4]) e all’avviso al giudice (art. 728*c* cpv. 3 del Codice delle obbligazioni) non si applicano al titolare dell’autorizzazione di cui al capoverso 1.
+<sup>2</sup> Le disposizioni relative alla procedura concordataria (art. 293–336 della legge federale dell’11 aprile 1889[^137-3] sulla esecuzione e sul fallimento, LEF) e all’avviso al giudice (art. 716*a* cpv. 1 n. 8, 725*a* cpv. 3, 725*b* cpv. 3 e 728*c* cpv. 3 del Codice delle obbligazioni[^137-4]) non si applicano al titolare dell’autorizzazione di cui al capoverso 1.[^137-5]
 
-<sup>3</sup> La FINMA nomina uno o più liquidatori del fallimento. Essi sottostanno alla sua vigilanza e su richiesta le fanno rapporto.[^137-5]
+<sup>3</sup> La FINMA nomina uno o più liquidatori del fallimento. Essi sottostanno alla sua vigilanza e su richiesta le fanno rapporto.[^137-6]
 
 [^137-1]: Nuovo testo giusta l’all. n. 3 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^137-2]: Nuovo testo giusta l’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^137-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^137-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^137-5]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^137-5]: Nuovo testo giusta l’all. n. 11 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^137-6]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 138
 
@@ -1942,13 +1943,13 @@ Chiunque viola i suoi obblighi risponde del danno causato alla società, ai sing
 
 [^151-1]: Abrogato dall’all. n. 14 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, con effetto dal 1° gen. 2009 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Titolo settimo: Disposizioni finali****
+## Titolo settimo: Disposizioni finali
 
 [^tit7-1]
 
 [^tit7-1]: Nuovo testo giusta il n. I della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
-### Capitolo 1: Esecuzione; abrogazione e modifica del diritto vigente****
+### Capitolo 1: Esecuzione; abrogazione e modifica del diritto vigente
 
 [^tit7-chap1-1]
 
@@ -1986,7 +1987,7 @@ L’abrogazione e la modifica del diritto vigente sono disciplinate nell’alleg
 
 [^158a158e-1]: Introdotti dal n. I della LF del 28 set. 2012 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogati dall’all. n. II 13 della L del 15 giu. 2018 sugli istituti finanziari, con effetto dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Capitolo 4: Referendum ed entrata in vigore****
+### Capitolo 4: Referendum ed entrata in vigore
 
 [^tit7-chap4-1]
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 23 juin 2006 sur les placements collectifs de capitaux
 short: LPCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/822"
 language: fr
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2006-06-23
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-822-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/822/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-822-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/822/20200101/fr"
 
 (Loi sur les placements collectifs, LPCC)
 
-du 23 juin 2006 (Etat le 1<sup>er</sup> janvier 2020)
+du 23 juin 2006 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -312,7 +312,7 @@ Le Conseil fédéral peut prévoir une procédure simplifiée d’autorisation e
 
 [^19-1]: Abrogé par l’annexe ch. II 13 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Chapitre 4 Protection des intérêts des investisseurs****
+### Chapitre 4 Protection des intérêts des investisseurs
 
 [^tit1-chap4-1]
 
@@ -589,7 +589,7 @@ Les dispositions concernant les offres publiques d’acquisition (art. 125 à 14
 [^45-1]: Nouvelle teneur selon l’annexe ch. 9 de la L du 19 juin 2015 sur l’intrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^45-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 
-### Section 2 Droits et obligations des actionnaires****
+### Section 2 Droits et obligations des actionnaires
 
 [^tit2-chap2-sec2-1]
 
@@ -1441,7 +1441,7 @@ L’art. 89, al. 1, let. a et c à i, al. 2 à 4 ainsi que l’art. 90 s’appli
 
 **Société d’audit**
 
-La SICAF désigne société d’audit (art. 125 ss).
+La SICAF désigne une société d’audit (art. 125 ss).
 
 ## Titre 4 Placements collectifs étrangers
 
@@ -1551,7 +1551,7 @@ Le for est:
 [^125-2]: Nouvelle teneur selon l’annexe ch. II 13 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^125-3]: Introduit par l’annexe ch. II 13 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-## Titre 5 Audit**** et surveillance
+## Titre 5 Audit et surveillance
 
 [^tit5-1]
 
@@ -1676,15 +1676,16 @@ La FINMA peut mettre en liquidation des titulaires auxquels elle a retiré son a
 
 <sup>1</sup> Si des raisons sérieuses font craindre que le titulaire d’une autorisation visé à l’art. 13, al. 2, let. b à d, ne soit surendetté ou n’ait des problèmes de liquidité importants, la FINMA, à défaut de perspectives d’assainissement ou si l’assainissement a échoué, retire l’autorisation, prononce la faillite et la publie.[^137-2]
 
-<sup>2</sup> Les dispositions relatives à la procédure concordataire (art. 293 à 336 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite, LP[^137-3]), à l’ajournement de la faillite des sociétés anonymes (art. 725 et 725*a* CO[^137-4]) ainsi qu’à l’obligation d’aviser le juge (art. 728*c*, al. 3, CO) ne s’appliquent pas aux titulaires d’une autorisation visés à l’al. 1.
+<sup>2</sup> Les dispositions sur la procédure concordataire (art. 293 à 336 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite, LP[^137-3]) et sur l’obligation d’aviser le tribunal (art. 716*a*, al. 1, ch. 8, 725*a*, al. 3, 725*b*, al. 3, et 728*c*, al. 3, du code des obligations[^137-4]) ne s’appliquent pas aux titulaires d’une autorisation visés à l’al. 1.[^137-5]
 
-<sup>3</sup> La FINMA nomme un ou plusieurs liquidateurs de la faillite. Ceux-ci sont soumis à sa surveillance et lui font rapport à sa demande.[^137-5]
+<sup>3</sup> La FINMA nomme un ou plusieurs liquidateurs de la faillite. Ceux-ci sont soumis à sa surveillance et lui font rapport à sa demande.[^137-6]
 
 [^137-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^137-2]: Nouvelle teneur selon l’annexe ch. II 13 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^137-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^137-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^137-5]: Nouvelle teneur selon le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^137-5]: Nouvelle teneur selon l’annexe ch. 11 de la LF du 19 juin 2020 (Droit de la société anonyme), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 353](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^137-6]: Nouvelle teneur selon le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 138
 
@@ -1954,13 +1955,13 @@ Est puni d’une amende de 500 000 francs au plus quiconque, intentionnellement:
 
 [^151-1]: Abrogé par l’annexe ch. 14 de la L du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Titre 7 Dispositions finales****
+## Titre 7 Dispositions finales
 
 [^tit7-1]
 
 [^tit7-1]: Nouvelle teneur selon le ch. I de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
-### Chapitre 1 Exécution; abrogation et modification du droit en vigueur****
+### Chapitre 1 Exécution; abrogation et modification du droit en vigueur
 
 [^tit7-chap1-1]
 
@@ -1998,7 +1999,7 @@ L’abrogation et la modification du droit en vigueur sont réglées dans l’an
 
 [^158a158e-1]: Introduits par le ch. I de la LF du 28 sept. 2012 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)). Abrogés par l’annexe ch. II 13 de la LF du 15 juin 2018 sur les établissements financiers, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Chapitre 4 Référendum et entrée en vigueur****
+### Chapitre 4 Référendum et entrée en vigueur
 
 [^tit7-chap4-1]
 
@@ -2033,5 +2034,5 @@ Les lois fédérales mentionnées ci-après sont modifiées comme suit:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 1994 2523](https://fedlex.data.admin.ch/eli/oc/1994/2523_2523_2523), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 27, [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 4]
+[^annexu1-lvlu1-1]: [[RO 1994 2523](https://fedlex.data.admin.ch/eli/oc/1994/2523_2523_2523); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 27; [2004 1985](https://fedlex.data.admin.ch/eli/oc/2004/221)annexe ch. II 4]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822).
