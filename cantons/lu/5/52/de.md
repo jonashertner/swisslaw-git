@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-29
+version: 2023-01-01
+valid_until: 2023-07-31
+version_adopted: 2022-12-13
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/3949/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4022/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3949/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.08.2022)
+vom 24.09.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -577,7 +577,7 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Die Angestellte hat Anspruch auf einen besoldeten Mutterschaftsurlaub von insgesamt 16 Wochen, der frühestens zwei Wochen vor der Geburt beginnt. Wird die Tätigkeit wegen schwangerschaftsbedingter Beschwerden früher niedergelegt, werden die letzten zwei Wochen der Abwesenheit vor der Geburt an den Mutterschaftsurlaub angerechnet. Die Besoldung richtet sich nach dem Beschäftigungsgrad bei Antritt des Urlaubs.
+<sup>1</sup> Die Angestellte hat Anspruch auf einen besoldeten Mutterschaftsurlaub von insgesamt 16 Wochen, den sie frühestens zwei Wochen vor der Geburt antreten kann. Die Besoldung richtet sich nach dem Beschäftigungsgrad bei Antritt des Urlaubs.
 
 <sup>1<sup>bis</sup></sup> Verlängert sich der Anspruch auf Mutterschaftsentschädigung gemäss Artikel 16c des Erwerbsersatzgesetzes vom 25. September 1952[^44-1], weil das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zweier Wochen im Spital bleiben muss, verlängert sich der Anspruch auf besoldeten Mutterschaftsurlaub entsprechend.
 
@@ -733,11 +733,15 @@ beschliesst:
 
 **Führung des Personalhilfsfonds**
 
-<sup>1</sup> Der Personalhilfsfonds wird durch Einlagen im Rahmen des Staatsvoranschlags geäufnet.
+<sup>1</sup> Der Personalhilfsfonds wird durch Einlagen im Rahmen des Staatsvoranschlags geäufnet. Die Führung des Personalhilfsfonds wird aufgeteilt auf die Angestellten des Kantons und auf die Lehrpersonen der kommunalen Volksschulen und der Musikschulen sowie die Fachpersonen der schulischen Dienste.
 
-<sup>2</sup> Der Regierungsrat wählt auf Amtsdauer eine Fonds-Kommission. Diese besteht aus je einer Vertretung der Dienststelle Personal und der Personalorganisationen sowie einer Vertretung der zuständigen Behörde. Die Personalorganisationen haben für die Wahl ihrer Vertretung ein Vorschlagsrecht.
+<sup>2</sup> Der Regierungsrat wählt auf Amtsdauer eine Fonds-Kommission für den Personalhilfsfonds zugunsten der Angestellten des Kantons. Diese besteht aus je einer Vertretung der Dienststelle Personal und der Personalorganisationen. Die Personalorganisationen haben für die Wahl ihrer Vertretung ein Vorschlagsrecht. Zusätzlich nimmt für die Begutachtung eines Gesuchs der Departementssekretär oder die Departementssekretärin des nach Herkunft des Gesuchs zuständigen Departementes von Amtes wegen Einsitz in die Fonds-Kommission.
 
-<sup>3</sup> Die Fonds-Kommission begutachtet die Hilfsgesuche und stellt Antrag. Über Gesuche um Leistungen bis 30 000 Franken entscheidet die Dienststelle Personal, bis 100 000 Franken das Finanzdepartement und über höhere Leistungen der Regierungsrat. Die Entscheide werden von der Dienststelle Personal vollzogen.
+<sup>2<sup>bis</sup></sup> Der Regierungsrat wählt auf Amtsdauer eine Fonds-Kommission für den Personalhilfsfonds zugunsten der Lehrpersonen der kommunalen Volksschulen und der Musikschulen sowie der Fachpersonen der schulischen Dienste. Diese besteht aus je einer Vertretung der Dienststelle Volksschulbildung und der Personalorganisationen sowie dem Departementssekretär oder der Departementssekretärin des Bildungs- und Kulturdepartementes. Die Personalorganisationen haben für die Wahl ihrer Vertretung ein Vorschlagsrecht.
+
+<sup>3</sup> Die Fonds-Kommissionen begutachten die Hilfsgesuche ihrer Anspruchsgruppen und stellen Antrag. Über Gesuche um Leistungen von kantonalen Angestellten entscheidet die Dienststelle Personal, über Gesuche von Lehrpersonen oder Fachpersonen der schulischen Dienste die Dienststelle Volksschulbildung jeweils im Rahmen ihrer Ausgabenbefugnis.
+
+<sup>4</sup> Die Entscheide werden von der Dienststelle Personal beziehungsweise von der Dienststelle Volksschulbildung vollzogen.
 
 #### § 54
 
