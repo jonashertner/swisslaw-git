@@ -1,181 +1,433 @@
 ---
 canton: BS
 number: "724.910"
-title: Verordnung zum Allmendgebührengesetz
+title: Gebührenverordnung zum Gesetz über die Nutzung des öffentlichen Raumes
 short: GebV NöRG
 language: de
-version: 2016-07-01
-valid_until: 2022-12-31
-version_adopted: 2016-06-28
+version: 2023-01-01
+version_adopted: 2022-11-01
 adopted: 2022-11-01
 in_force: 2023-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/724.910"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3887/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Allmendgebührengesetz
+# Gebührenverordnung zum Gesetz über die Nutzung des öffentlichen Raumes
 
-Allmendgebühren: Verordnung | Allmend
+Öffentlicher Raum
 
-Vom 26. November 2002 (Stand 1. Juli 2016)
+(GebV NöRG)
+
+Vom 1. November 2022 (Stand 1. Januar 2023)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
-gestützt auf § 5 des Allmendgebührengesetzes vom 16. Dezember 1992[^ingress-1],
+gestützt auf § 50 des Gesetzes über die Nutzung des öffentlichen Raumes (NöRG) vom 16. Oktober 2013[^ingress-1], unter Verweis auf seine Erläuterungen Nr. [P211047](https://www.regierungsrat.bs.ch/geschaefte/regierungsratsbeschluesse.html?previousAction1=sitzung&previousAction2=sitzungen&previousAction3=search&previousAction4=&action=geschaeft&geschaeftId=6a19b00546de4b8cb00a4bb05d51f563&sitzungId=accabb379e824c0d84100fc1ca4434b0),
 
-beschliesst:
+beschliesst
 
-[^ingress-1]: Dieses Gesetz ist aufgehoben. Massgebend ist jetzt das Gesetz über die Nutzung des öffentlichen Raumes (NöRG) vom 16. 10. 2013 (SG [724.100](https://www.gesetzessammlung.bs.ch/data/724.100/de).)
+[^ingress-1]: SG [724.100](https://www.gesetzessammlung.bs.ch/data/724.100/de)
 
-## A. Gebühren für die vorübergehende Inanspruchnahme von Allmend
+## 1. Allgemeine Bestimmungen
 
 #### § 1
 
-**1. Bauplatzinstallationen (§ 6 des Gesetzes)**
+**Gegenstand**
 
-<sup>1</sup> Die Gebühren für die Benutzung der Allmend durch Bauplatzinstallationen betragen:
+<sup>1</sup> Diese Verordnung regelt die Gebühren für die Nutzung des öffentlichen Raums zu Sonderzwecken sowie die Gebühren für die damit zusammenhängenden Verfahren und Tätigkeiten der Verwaltung.
 
-- 1\. Für Baracken, Mulden, Gerüste und dergleichen:[^1-1]
-  - a) pro m² und Woche — CHF 2.20;
-  - b) Mindestgebühr pro Bewilligung — CHF 22.
-- 2\. Für Kabel- und Rohrüberführungen:
-  - a) pro Laufmeter und Woche — CHF 1.10.
-- 3\. Für Baureklamen:
-  - a) pro m² und Woche — CHF 7.70;
-  - b) Mindestgebühr pro Bewilligung — CHF 22.
-- 4\. Für Erdanker:
-  - a) pro Laufmeter — CHF 33;
-  - b) Erinnerungsgebühr; pro Bewilligung und Jahr — CHF 55.
-
-<sup>2</sup> Angebrochene Wochen zählen als ganze.
-
-<sup>3</sup> Gebührenfrei sind Tafeln einzelner am Bau beteiligter Unternehmen bis zu einer Oberfläche von 10 m² pro Baustelle.
-
-[^1-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern oder -buchstaben.
+<sup>2</sup> Vorbehalten bleiben spezielle Gebührenvorschriften betreffend die Nutzung des öffentlichen Raums zu Sonderzwecken.
 
 #### § 2
 
-**2. Allmendbenutzung aus besonderem Anlass**
+**Verhältnis zu den Gemeinden Bettingen und Riehen**
 
-<sup>1</sup> Die Gebühren für die Allmendbenutzung aus besonderem Anlass betragen:
+<sup>1</sup> Die Gemeinden Bettingen und Riehen bestimmen die Gebühren für die Nutzung des öffentlichen Raums zu Sonderzwecken in ihrem Gemeindegebiet selber.
 
-- 1\. Für Reklamen und Veranstaltungen, die der Werbung dienen:
-  - a) im Raum, der dem Gemeingebrauch zur Verfügung steht; pro m² und Tag — CHF 3.30;
-  - b) ausserhalb dieses Raumes; pro m² und Tag — CHF 1.10;
-  - c) Mindestgebühr pro Anlass — CHF 110.
-- 2\. Für Verkäufe:
-  - a) auf Verkehrsflächen; pro m² und Tag — CHF 22;
-  - b) auf Flächen, die für den Verkehr ungeeignet sind; pro m² und Tag — CHF 11;
-  - c) Mindestgebühr pro Tag — CHF 55.
-- 2\.1. Während der Fasnacht und anderen Grossveranstaltungen werden die Gebühren für Verkäufe um 50% erhöht.
-- 3\. Für Veranstaltungen, die der Bildung, der Unterhaltung, der Geselligkeit oder ähnlichen Zwecken dienen:
-  - a)
-  - aa) Festveranstaltungen, Konzerte, Filmvorführungen, Informationsveranstaltungen, Anwohnerstrassenfeste und dergleichen; pro m² und Tag — CHF 1.10
-  - ab) pro Anlass mindestens — CHF 55;
-  - ac) Informationsstände; pro Standort und Tag mindestens — CHF 22;
-  - b) Strassentheater, Strassenzirkus; pro Tag — CHF 110;
-  - c) Zirkusse; pro Tag — CHF 650.
+<sup>2</sup> Soweit die Gemeinden Bettingen und Riehen eigene Vorschriften im Sinn von Abs. 1 erlassen, gelten diese auch für Kantonsstrassen in den Gemeindegebieten.
 
-## B. Gebühren für die dauernde Inanspruchnahme von Allmend zu gewerblichen Zwecken (§ 10 des Gesetzes)
+<sup>3</sup> Machen die Gemeinden Bettingen und Riehen von ihrer Regelungskompetenz keinen Gebrauch, gelten die Bestimmungen dieser Verordnung in ihrem gesamten Gemeindegebiet.
 
 #### § 3
 
-**1. Bei Verdrängung einer anderen Nutzung**
+**Gebührenschuldnerin oder Gebührenschuldner**
 
-<sup>1</sup> Für die dauernde Inanspruchnahme des Raumes, der nach einem Nutzungsplan oder einer Vorschrift einer anderen Nutzung zur Verfügung steht, werden folgende Gebühren erhoben:
+<sup>1</sup> Zur Zahlung der Gebühren ist verpflichtet, wer als Gesuchstellerin oder Gesuchsteller die Nutzung des öffentlichen Raums zu Sonderzwecken beantragt oder als Nutzerin oder Nutzer hätte beantragen müssen.
 
-- 1\. Für unbediente Warenauslagen, Ständer für Gratiszeitungen und Werbematerial, Reklameeinrichtungen und Automaten:
-  - a) pro m² und Jahr — CHF 330;
-  - b) Mindestgebühr pro Jahr — CHF 550.
-- 2\. Für Verkaufsstände und bediente Warenauslagen:
-  - a) pro m² und Jahr — CHF 330;
-  - b) Mindestgebühr pro Monat — CHF 330.
-- 3\. Für Boulevard-Restaurants und Boulevard-Cafés:
-  - a) pro m² und Jahr — CHF 88.
-- 4\. Für Objekte zum Verkauf von Tageszeitungen und Presseerzeugnissen mit vergleichbarem Inhalt:
-  - a) pro m² und Jahr — CHF 165;
-  - b) Mindestgebühr pro Jahr — CHF 165.
-- 5\. Für Verkaufswagen und -container während Umbauten vor entsprechender Liegenschaft; pro m² und Tag — CHF –.90.
+<sup>2</sup> Keine Nutzungsgebühren gemäss dieser Verordnung schuldet, wer gesetzlich von der Zahlung von Nutzungsgebühren befreit ist oder gestützt auf spezialgesetzliche Grundlagen Nutzungs- oder Konzessionsgebühren bezahlt. Die Erhebung von Bearbeitungsgebühren bleibt auch in diesen Fällen vorbehalten.
+
+<sup>3</sup> Wird in der Verfügung nichts anderes festgelegt, haften mehrere Gebührenschuldnerinnen oder Gebührenschuldner für die gesamten Gebühren solidarisch.
 
 #### § 4
 
-**2. Ohne Verdrängung einer anderen Nutzung (§§ 8–10 des Gesetzes)**
+**Kanton und Einwohnergemeinden**
 
-<sup>1</sup> Die Gebühr für Reklamen und andere Objekte ausserhalb des Raumes, der nach einem Nutzungsplan oder einer Vorschrift dem Verkehr oder einer anderen Nutzung zur Verfügung steht, beträgt CHF 132 pro m² und Jahr, mindestens aber CHF 264 pro Jahr.
-
-<sup>2</sup> Die Gebühr für die Beanspruchung von Allmend durch Anlagen zur drahtlosen Kommunikation richtet sich mit Ausnahme der Richtfunkantennen nach der äquivalenten Strahlungsleistung (ERP) pro Antenne. Massgebend für die ERP ist für jede Antenne die bewilligte Sendeleistung.
-
-Die Gebühr pro Jahr setzt sich zusammen aus:
-
-- a) CHF 100 pro Antenne mit einer ERP von weniger als 1 Watt;
-- b) CHF 500 pro Antenne mit einer ERP von mindestens 1 Watt und weniger als 6 Watt;
-- c) CHF 700 pro Antenne mit einer ERP von mindestens 6 Watt und maximal 54 Watt;
-- d) CHF 1'000 für Antennen mit einer ERP von mehr als 54 Watt und zusätzlich CHF 0.50 pro Watt ERP;
-- e) CHF 100 pro Richtfunkantenne.
+<sup>1</sup> Wer die Hoheit über den öffentlichen Raum innehat, ist für dessen Nutzung zu Sonderzwecken von Nutzungs- und Bearbeitungsgebühren gemäss dieser Verordnung befreit.
 
 #### § 5
 
-**3. Gebührenfreie Reklamen**
+**Gebührenfestsetzung**
 
-<sup>1</sup> Firmenanschriften und Eigenreklamen bis zu einer Oberfläche von 0,5 m² sind gebührenfrei, wenn sie nicht mehr als 3 cm über die Gebäudeteile vorstehen, an denen sie angebracht sind.
+<sup>1</sup> Sind in einer Verfügung mehrere Gebühren festzusetzen, so sind sie einzeln auszuweisen.
 
-<sup>2</sup> Pro Nutzeinheit ist eine gebührenfreie Firmenanschrift oder Eigenreklame zulässig.
-
-## C. Gebühren für Fischergalgen und Bootsliegeplätze (§ 11 des Gesetzes)
+<sup>2</sup> Jährlich wiederkehrende Nutzungsgebühren können von Amtes wegen oder auf Antrag für die gesamte Dauer des eingeräumten Nutzungsrechts kapitalisiert als Einmalgebühr erhoben werden. Bei vorzeitigem Verzicht auf das Nutzungsrecht oder bei Widerruf des Nutzungsrechts erfolgt eine Gebührenrückerstattung, wenn dies innert Jahresfrist nach dem Verzicht oder dem Widerruf schriftlich verlangt wird. Die Gebühren werden nur für die Nutzungsdauer rückerstattet, die ab dem Zeitpunkt der vorschriftsgemässen Beendigung der Nutzung zu Sonderzwecken verbleibt.
 
 #### § 6
 
-<sup>1</sup> Die Gebühren für Fischergalgen und Bootsliegeplätze betragen:
+**Veranstalterbewilligung**
 
-- 1\. Für Fischergalgen — pro Jahr CHF 200;
-- 2\. Für Fischergalgen mit Fischerhaus — pro Jahr CHF 530;
-- 3\. Für Bootsliegeplätze — pro Jahr CHF 790.
+<sup>1</sup> Eine Veranstalterin oder ein Veranstalter kann davon absehen, von Dritten Gebühren zu erheben, auch wenn sie oder er mit der Veranstalterbewilligung zur Bezahlung von Gebühren verpflichtet wurde.
 
-## D. Zuschläge (§ 3 des Gesetzes)
+<sup>2</sup> Die Summe der Nutzungsgebühren, die eine Veranstalterin oder ein Veranstalter von Dritten erhebt, darf die in der Veranstalterbewilligung festgesetzte Nutzungsgebühr nicht übersteigen.
+
+<sup>3</sup> Die Veranstalterin oder der Veranstalter hat die Nutzungsgebühren, die sie oder er von Dritten erhebt, auf dieselbe Art zu berechnen, wie die ihr respektive ihm auferlegte Nutzungsgebühr berechnet wurde.
+
+<sup>4</sup> Eine Veranstalterin oder ein Veranstalter ist dazu berechtigt, von jedem und jeder Dritten entsprechend ihrem respektive seinem Bearbeitungsaufwand eine Bewilligungsgebühr von maximal Fr. 200 zu verlangen.
+
+## 2. Gebührenfreie Nutzungen
 
 #### § 7
 
-<sup>1</sup> Wenn der Aufwand das Durchschnittsmass nicht übersteigt, werden anstelle der tatsächlichen Kosten folgende Gebühren erhoben:
+**Meldepflichtige Nutzungen und Nutzungen ohne Melde- oder Bewilligungspflicht**
 
-- 1\. Für eine Kontrolle einschliesslich Mahnung — CHF 33;
-- 2\. Für eine Überweisung mit Antrag an die Staatsanwaltschaft — CHF 220.
+<sup>1</sup> Für Nutzungen zu Sonderzwecken, die aufgrund ihrer Geringfügigkeit lediglich einer Meldepflicht unterliegen, und für Nutzungen, für die weder eine Bewilligungspflicht noch eine Meldepflicht besteht, werden weder Nutzungs- noch Bewilligungsgebühren erhoben.
 
-## E. Verwaltungsgebühren
+<sup>2</sup> Ergibt die Prüfung einer Nutzung zu Sonderzwecken in einem Bewilligungsverfahren, dass diese höchstens meldepflichtig im Sinn von § 11 Abs. 1 der Verordnung zum Gesetz über die Nutzung des öffentlichen Raums (NöRV) vom 14. Februar 2017 ist, werden keine Nutzungsgebühren erhoben.
 
 #### § 8
 
-<sup>1</sup> Für die Prüfung von Gesuchen um Erteilung von Bewilligungen zur Erstellung, Änderung oder Beseitigung von Leitungen zur fernmeldetechnischen Übertragung von Informationen wird eine Gebühr von CHF 800 erhoben.
+**Wohltätige, gemeinnützige, kulturelle oder sportliche Nutzungen**
 
-<sup>2</sup> In einfachen Fällen werden die Gebühren dem geringeren Verwaltungsaufwand entsprechend ermässigt.
+<sup>1</sup> Für Nutzungen des öffentlichen Raums zu Sonderzwecken mit wohltätigem, gemeinnützigem, kulturellem oder sportlichem Charakter, die keinen oder nur einen sehr untergeordneten kommerziellen Aspekt aufweisen, werden weder Nutzungs- noch Bewilligungsgebühren erhoben.
 
-<sup>3</sup> Für die Abklärung von Koordinationsmöglichkeiten mit anderen Bauvorhaben sowie für die Einmessung und die Eintragung der Leitungen in den Kataster der Leitungen zur fernmeldetechnischen Übertragung von Informationen und zur Weiterverbreitung von Radio- und Fernsehprogrammen stellt die vom Tiefbauamt bestimmte Koordinationsstelle nach Zeitaufwand Rechnung. Massgebend sind die vom Bau- und Verkehrsdepartement anerkannten Honoraransätze für Ingenieur- und Architekturaufträge. Auf Verlangen der Pflichtigen setzt das Tiefbauamt das Entgelt durch Verfügung fest.
+<sup>2</sup> Gebührenbefreit im Sinn von Abs. 1 sind insbesondere:
 
-<sup>4</sup> Die Bearbeitungsgebühr für das Entfernen von unrechtmässig auf Allmend angebrachten Plakaten und für die Ermittlung der Verursacherin oder des Verursachers beträgt CHF 100 pro entferntem Plakat. Die Maximalgebühr beträgt CHF 10'000.
-
-## F. Verzugszins, Mahngebühren
+- a) Anwohnerstrassenfeste;
+- b) Märkte mit Quartieranlasscharakter;
+- c) öffentlich zugängliche Kunstobjekte und Kunstinstallationen;
+- d) stadtrelevante Feste;
+- e) Sportanlässe ohne Promotionscharakter.
 
 #### § 9
 
-<sup>1</sup> Die Zahlungsfrist von Gebühren beträgt 30 Tage.
+**Veranstaltungen mit Swisslos-Fonds- oder Swisslos-Sportfonds-Beiträgen**
 
-<sup>2</sup> Nach Ablauf der Zahlungsfrist kann ein Verzugszins von 5% erhoben werden.
-
-<sup>3</sup> Für nicht rechtzeitig bezahlte Gebühren können Mahngebühren und Umtriebsgebühren für Inkassomassnahmen erhoben werden. Diese betragen:
-
-- a) erste Mahnung — gratis;
-- b) Mahngebühren ab zweiter Mahnung — je CHF 40;
-- c) Umtriebsgebühr für Inkassomassnahmen — CHF 50.
-
-<sup>4</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
-
-## G. Kautionen
+<sup>1</sup> Veranstaltungen im öffentlichen Raum, denen Swisslos-Fonds- oder Swisslos-Sportfonds-Beiträge gewährt werden, sind von Nutzungs- und Bewilligungsgebühren befreit.
 
 #### § 10
 
-<sup>1</sup> Bei Anlässen können Kautionen zur Sicherstellung von Schadenersatzansprüchen, Aufwendungen für Reinigungen und dergleichen verlangt werden. Die Kautionen müssen vor Beginn der Veranstaltung geleistet werden.
+**Ausübung politischer Kommunikationsgrundrechte**
 
-Diese Verordnung ist zu publizieren; sie wird am 1. Januar 2003 wirksam. Die Verordnung zum Allmendgebührengesetz vom 19. Januar 1993 ist aufgehoben.
+<sup>1</sup> Nutzungen des öffentlichen Raums zu Sonderzwecken im Rahmen der Ausübung politischer Kommunikationsgrundrechte sind unter Vorbehalt von Abs. 2 von Nutzungs- und Bewilligungsgebühren befreit.
 
-KB 04.12.2002
+<sup>2</sup> Kommerzielle Nutzungen Dritter im Rahmen gebührenbefreiter Nutzungen gemäss Abs. 1, insbesondere Verkaufsstände, sind gebührenpflichtig.
+
+#### § 11
+
+**Überragende Bauteile**
+
+<sup>1</sup> Folgende Bauteile, die von einem angrenzenden Privatgrundstück in den öffentlichen Raum hineinragen, sind von Nutzungs- und Bewilligungsgebühren befreit:
+
+- a) unbeachtliche Bauteile gemäss § 33 des Bau- und Planungsgesetzes (BPG) vom 17. November 1999;
+- b) Wärme- und Schalldämmungen bestehender Gebäude gemäss § 78 BPG;
+- c) unterirdische Bauten und Bauteile, die höchstens 40 cm über die Grundstücksgrenze hinausragen.
+
+#### § 12
+
+**Hindernisfreier Zugang**
+
+<sup>1</sup> Kann ein hindernisfreier Zugang zu einer Liegenschaft für Menschen mit Behinderungen nur unter Inanspruchnahme des öffentlichen Raums realisiert werden, ist die entsprechende Nutzung von Nutzungs- und Bewilligungsgebühren befreit.
+
+#### § 13
+
+**Ausnahmsweise Gebührenbefreiung**
+
+<sup>1</sup> Bei Vorliegen wichtiger Gründe und wenn die öffentlichen Interessen gewahrt werden, kann ausnahmsweise auf die Erhebung eines Teils oder der ganzen Nutzungs- und Bearbeitungsgebühren verzichtet werden.
+
+<sup>2</sup> Ein wichtiger Grund liegt insbesondere dann vor, wenn der beabsichtigten Nutzung eine besonders standortfördernde Wirkung zukommt.
+
+## 3. Nutzungsgebühren
+
+### 3.1 Nutzungen ohne fest mit dem Boden verbundene Bauten und Anlagen
+
+#### § 14
+
+**Grundtarif**
+
+<sup>1</sup> Wird die Nutzungsgebühr für eine Nutzung des öffentlichen Raums zu Sonderzwecken ohne fest mit dem Boden verbundene Bauten und Anlagen in dieser Verordnung nicht speziell geregelt, beträgt sie Fr. 1 pro m² und Tag bzw. Fr. 365 pro m² und Jahr.
+
+#### § 15
+
+**Bemessung der beanspruchten Fläche**
+
+<sup>1</sup> Grundsätzlich ist die dem schlichten Gemeingebrauch entzogene Fläche massgeblich.
+
+<sup>2</sup> Wird eine Fläche für eine Sondernutzung vom übrigen öffentlichen Raum so abgegrenzt, dass sie nur durch einen besonderen Eingang und gegen Entrichtung eines Entgelts betreten werden kann, kann die Nutzungsgebühr gestützt auf die gesamte abgegrenzte Fläche berechnet werden.
+
+#### § 16
+
+**Bemessung der Dauer der Sondernutzung**
+
+<sup>1</sup> Kommt die Beanspruchung des öffentlichen Raums während des Auf- und Abbaus der Installationen, die für die eigentliche Veranstaltung benötigt werden, einer Sondernutzung gleich, können für die Dauer des Auf- und Abbaus ebenfalls Nutzungsgebühren erhoben werden.
+
+#### § 17
+
+**Zuschläge**
+
+<sup>1</sup> Für Nutzungen des öffentlichen Raums zu Sonderzwecken mit überwiegend kommerziellem Charakter, bei denen ein grosses Publikumsaufkommen zu erwarten ist oder die mehrheitlich der Werbung dienen, kann die gemäss den §§ 14 - 16 berechnete Nutzungsgebühr bis auf das Dreifache erhöht werden.
+
+#### § 18
+
+**Spezielle Tarife**
+
+<sup>1</sup> Der Tarif für die Nutzung des öffentlichen Raums beträgt:
+
+- a) für temporäre Verkaufsstände im Rahmen von Veranstaltungen mit grossem Publikumsaufkommen — Fr. 20 pro m² und Tag
+- b) für permanente Verkaufsstände mit einer Fläche bis 12 m² — Fr. 3'700 pro Jahr
+- c) für permanente Verkaufsstände mit einer Fläche grösser als 12 m² — Fr. 320 pro m² und Jahr
+- d) für Boulevardrestaurants — Fr. 80 pro m² und Jahr
+- e) für Trottoirauslagen — Fr. 375 pro m² und Jahr
+- f) für Wanderzirkusse — Fr. 0.10 pro m² und Tag
+- g) für Weihnachtsbaumverkäufe — Fr. 0.05 pro m² und Tag
+- h) für Bauinstallationen bis zu 10 m²
+  - 1\. 1 bis 20 Tage — gebührenfrei
+  - 2\. ab 21 Tagen — Fr. 0.15 pro m² und Tag
+- i) für Bauinstallationen von 11 bis 40 m²
+  - 1\. 1 bis 20 Tage — Fr. 0.15 pro m² und Tag
+  - 2\. ab 21 Tagen — Fr. 0.25 pro m² und Tag
+- j) für Bauinstallationen ab 41 m²
+  - 1\. 1 bis 20 Tage — Fr. 0.15 pro m² und Tag
+  - 2\. 21 bis 40 Tage — Fr. 0.25 pro m² und Tag
+  - 3\. ab 41 Tagen — Fr. 0.30 pro m² und Tag
+- k) für Buvetten (März bis Oktober) — Fr. 75 pro m² und Saison
+
+#### § 19
+
+**Reduktion**
+
+<sup>1</sup> Für Boulevardrestaurants, Verkaufsstände und Trottoirauslagen in der Zone II gemäss dem Plan im Anhang werden die nach den §§ 14 - 18 berechneten Nutzungsgebühren um 25 % reduziert.
+
+<sup>2</sup> Unabhängig vom Standort kann die Gebühr für Sondernutzungen des öffentlichen Raums, die der umweltfreundlichen Mobilität dienen, wie beispielsweise Carsharing-Standplätze, um bis zu 80 % reduziert werden.
+
+### 3.2 Nutzungen mit fest mit dem Boden verbundenen Bauten und Anlagen
+
+#### § 20
+
+**Bemessungsgrundsatz**
+
+<sup>1</sup> Wird die Nutzungsgebühr für eine Nutzung des öffentlichen Raums zu Sonderzwecken mit fest mit dem Boden verbundenen Bauten und Anlagen in dieser Verordnung nicht speziell geregelt, ist sie nach den für die Bewertung von Baurechten massgebenden Grundsätzen zu berechnen.
+
+<sup>2</sup> Sie wird für die Dauer der Bewilligung als jährlich wiederkehrende Gebühr festgesetzt.
+
+#### § 21
+
+**Pauschalsätze**
+
+<sup>1</sup> In folgenden Fällen beträgt die Nutzungsgebühr für die in Anspruch genommene Fläche jährlich 1.5 % des durchschnittlichen Landwerts im betreffenden Quartier:
+
+- a) Lüftungsschächte;
+- b) Lichtschächte;
+- c) Warenlifte;
+- d) Leitungstunnel.
+
+<sup>2</sup> Für Leitungen beträgt die Nutzungsgebühr für die in Anspruch genommene Fläche jährlich 0.5 % des durchschnittlichen Landwerts im betreffenden Quartier.
+
+<sup>3</sup> Der durchschnittliche Landwert beträgt für die Quartiere Altstadt Grossbasel, Altstadt Kleinbasel und Vorstädte Fr. 7'000 pro m² und für die Quartiere Am Ring, Breite, St. Alban, Gundeldingen, Bruderholz, Bachletten, Gotthelf, Iselin, St. Johann, Clara, Wettstein, Hirzbrunnen, Rosental, Matthäus, Klybeck und Kleinhüningen Fr. 2'300 pro m².
+
+#### § 22
+
+**Pauschaltarife**
+
+<sup>1</sup> Die Nutzungsgebühr für Fluchttunnel beträgt für eine maximale Dauer von 50 Jahren einmalig Fr. 1'500 pro Stück.
+
+<sup>2</sup> Die Nutzungsgebühr für Erdanker, Ankernägel, Micropfähle und vergleichbare Verankerungssysteme beträgt einmalig Fr. 33 pro Laufmeter.
+
+#### § 23
+
+**Bemessung der beanspruchten Fläche**
+
+<sup>1</sup> Die von horizontalen unterirdischen Leitungen beanspruchte Fläche entspricht dem Produkt aus dem horizontal gemessenen Durchmesser der Leitung plus 0.6 m und der Länge der Leitung.
+
+<sup>2</sup> Die von einer Sickeranlage beanspruchte Fläche entspricht dem Produkt aus dem horizontal gemessenen Durchmesser der Sickeranlage plus der Tiefe, in der die Sickeranlage liegt, und der Länge der Sickeranlage.
+
+#### § 24
+
+**Antennenanlagen**
+
+<sup>1</sup> Die Nutzungsgebühr für Anlagen zur drahtlosen Kommunikation im öffentlichen Raum richtet sich mit Ausnahme der Richtfunkantennen nach der äquivalenten Strahlungsleistung (ERP) pro Antenne. Massgebend für die ERP ist für jede Antenne die bewilligte Sendeleistung.
+
+<sup>2</sup> Die Nutzungsgebühr pro Jahr setzt sich zusammen aus:
+
+- a) Fr. 100 pro Antenne mit einer ERP von weniger als 1 Watt;
+- b) Fr. 500 pro Antenne mit einer ERP von mindestens 1 Watt und weniger als 6 Watt;
+- c) Fr. 700 pro Antenne mit einer ERP von mindestens 6 Watt und weniger als 54 Watt;
+- d) Fr. 1‘000 pro Antenne mit einer ERP von mehr als 54 Watt und zusätzlich Fr. 0.50 pro Watt ERP;
+- e) Fr. 100 pro Richtfunkantenne.
+
+<sup>3</sup> Für Anlagen, welche nachweislich weniger als 800 Stunden pro Jahr senden, reduziert sich die ERP-abhängige Nutzungsgebühr auf 10 %.
+
+<sup>4</sup> Soweit das technische Equipment zu einer Antenne (Funksende-/Empfangsanlage [RBS] und Elektroverteiler [EV]) überwiegend nicht öffentlichen Grund beansprucht, kann die Nutzungsgebühr entsprechend reduziert werden.
+
+#### § 25
+
+**Fischergalgen und Bootsliegeplätze an Bojen**
+
+<sup>1</sup> Die jährliche Nutzungsgebühr für Fischergalgen beträgt:
+
+- a) bei Fischergalgen ohne Fischerhaus — Fr. 200
+- b) bei Fischergalgen mit Fischerhaus — Fr. 530
+
+<sup>2</sup> Die Nutzungsgebühr für Bootsliegeplätze an Bojen beträgt Fr. 790 pro Jahr.
+
+### 3.3 Nutzungen mit Reklamen
+
+#### § 26
+
+**Reklamen**
+
+<sup>1</sup> Reklamen umfassen Werbeflächen im öffentlichen Raum oder mit Wirkung im öffentlichen Raum. Dazu gehören insbesondere Reklameschilder wie Geschäftsschilder, Stechschilder und Leuchtkästen sowie Reklamereiter, strassenüberspannende Museumsbanner und -transparente, Flaggen und Werbung an Baugerüsten.
+
+<sup>2</sup> Für die Bemessung der Nutzungsgebühr für Reklamen im öffentlichen Raum ist die Werbefläche massgeblich.
+
+<sup>3</sup> Eigenwerbung an der Fassade der eigenen Liegenschaft bis gesamthaft 0.5 m², Firmenanschriften am Bau beteiligter Unternehmen an Bauinstallationen bis zu einer Gesamtfläche von 10 m² sowie Apothekenkreuze sind nicht gebührenpflichtig.
+
+#### § 27
+
+**Reklametarife**
+
+<sup>1</sup> Die jährliche Nutzungsgebühr beträgt pro m²:
+
+- a) bei Reklamereitern — Fr. 500
+- b) bei Reklameschildern — Fr. 180
+
+<sup>2</sup> Die Nutzungsgebühr für alle anderen Werbeflächen beträgt Fr. 1 pro m² und Tag bzw. Fr. 365 pro m² und Jahr. Bei Fremdwerbung kann diese Gebühr bis auf das Dreifache erhöht werden.
+
+## 4. Bearbeitungsgebühren und Kosten
+
+### 4.1 Bewilligungsgebühren
+
+#### § 28
+
+**Nutzungsbewilligungsgebühr**
+
+<sup>1</sup> Die Nutzungsbewilligungsgebühr wird pauschalisiert erhoben. Sie beträgt je nach Komplexität des Nutzungsgesuchs zwischen Fr. 100 und Fr. 1'500.
+
+#### § 29
+
+**Erhöhte Nutzungsbewilligungsgebühr**
+
+<sup>1</sup> Verursacht ein Bewilligungsverfahren ausserordentlichen Aufwand, insbesondere weil erforderliche Unterlagen nachgefordert werden müssen, bei Projektänderungen während des Verfahrens oder im Fall von nachträglichen Bewilligungsverfahren, kann der Höchstsatz gemäss § 28 bis auf das Doppelte erhöht werden.
+
+#### § 30
+
+**Ermässigte Nutzungsbewilligungsgebühr**
+
+<sup>1</sup> Verursacht ein Gesuch nur geringfügigen Aufwand, insbesondere wenn es zurückgezogen wird, eine bewilligte Nutzung ohne Unterbruch verlängert werden soll oder ein wiederkehrendes Gesuch unter unveränderten rechtlichen und tatsächlichen Umständen zu beurteilen ist, kann die Bewilligungsgebühr gemäss § 28 angemessen reduziert oder gänzlich erlassen werden.
+
+#### § 31
+
+**Kombinierte Bau- und Nutzungsbewilligung**
+
+<sup>1</sup> Bedarf ein Vorhaben neben einer Nutzungsbewilligung auch einer Baubewilligung, werden sowohl die Nutzungsbewilligungsgebühren gemäss dieser Verordnung, als auch die Baubewilligungsgebühren gemäss der Verordnung über die Gebühren der Baubewilligungsbehörden (Baugebührenverordnung; BauGebV) vom 12. November 2002 erhoben.
+
+### 4.2 Weitere Gebühren
+
+#### § 32
+
+**Gebühren für andere Entscheide**
+
+<sup>1</sup> Die Gebühr für alle anderen Entscheide beträgt je nach Zeitaufwand Fr. 100 bis Fr. 5'000.
+
+#### § 33
+
+**Kontrollgebühren**
+
+<sup>1</sup> Wird der öffentliche Raum ohne die erforderliche Bewilligung in Anspruch genommen oder wird die erteilte Bewilligung nicht eingehalten, wird für die nötige Kontrolle eine Gebühr von pauschal Fr. 100 erhoben.
+
+<sup>2</sup> Übersteigt der Kontrollaufwand das Durchschnittsmass, ist anstelle der Pauschalgebühr gemäss Abs. 1 hiervor der tatsächliche Zeitaufwand zu bezahlen. Die Maximalgebühr beträgt Fr. 5'000.
+
+#### § 34
+
+**Gebühren bei unrechtmässigem Plakatieren**
+
+<sup>1</sup> Die Gebühr für das Entfernen von unrechtmässig im öffentlichen Raum angebrachten Plakaten und für die Ermittlung der Verursacherin oder des Verursachers beträgt Fr. 100 pro entferntem Plakat. Die Maximalgebühr beträgt Fr. 10'000.
+
+#### § 35
+
+**Gebühren für polizeiliche Ermittlungsverfahren**
+
+<sup>1</sup> In polizeilichen Ermittlungsverfahren beantragt die zuständige Behörde je nach dem ihr entstandenen Zeitaufwand in der Überweisung mit Antrag an die Staatsanwaltschaft die Auferlegung einer Gebühr von Fr. 100 bis Fr. 5'000.
+
+#### § 36
+
+**Gebühren nach Zeitaufwand**
+
+<sup>1</sup> Sind Gebühren nach Zeitaufwand zu bemessen, beträgt der Stundenansatz je nach erforderlicher Sachkenntnis Fr. 90 bis Fr. 250.
+
+<sup>2</sup> Für notwendige Arbeiten zwischen abends 19 Uhr und morgens 7 Uhr sowie an Samstagen sowie Sonn- und Feiertagen wird auf den Stundensätzen ein Zuschlag von 50 % erhoben.
+
+### 4.3. Kosten
+
+#### § 37
+
+**Expertisen**
+
+<sup>1</sup> Ist für die Prüfung eines Nutzungsgesuchs zur Nutzung des öffentlichen Raums zu Sonderzwecken eine Expertise nötig, so gehen die Kosten der Expertise zulasten der Gesuchstellerin oder des Gesuchstellers.
+
+## 5. Ergänzende Bestimmungen
+
+#### § 38
+
+**Fälligkeit**
+
+<sup>1</sup> Sofern nichts anderes verfügt wurde und unter Vorbehalt von Abs. 2 hiernach, beträgt die Zahlungsfrist für Gebühren 30 Tage ab Rechtskraft der Verfügung.
+
+<sup>2</sup> Für jährlich wiederkehrende Gebühren beträgt die Zahlungsfrist 30 Tage ab Rechnungsdatum.
+
+<sup>3</sup> Nach Ablauf der Zahlungsfrist schuldet die Gebührenschuldnerin oder der Gebührenschuldner einen Verzugszins von 5 %.
+
+#### § 39
+
+**Mahnung und Inkasso**
+
+<sup>1</sup> Für nicht rechtzeitig bezahlte Gebühren können Mahngebühren und eine Umtriebsgebühr für Inkassomassnahmen erhoben werden. Diese betragen:
+
+- a) für die erste Mahnung — gebührenfrei
+- b) für jede weitere Mahnung — Fr. 40
+- c) Umtriebsgebühr für Inkassomassnahmen — Fr. 50
+
+<sup>2</sup> Vorbehalten bleibt die Einforderung weiterer Gebühren im Zusammenhang mit Betreibungsverfahren.
+
+#### § 40
+
+**Vorschuss oder Vorauszahlung**
+
+<sup>1</sup> In begründeten Fällen, insbesondere bei Wohnsitz im Ausland oder bei Zahlungsrückständen, kann von der Gebührenschuldnerin oder vom Gebührenschuldner die Bezahlung eines angemessenen Vorschusses oder die Vorauszahlung der Gebühren verlangt werden.
+
+#### § 41
+
+**Kaution**
+
+<sup>1</sup> Die Bewilligungsnehmerin oder der Bewilligungsnehmer kann zur Zahlung einer Kaution zur Sicherstellung der Erfüllung von Bewilligungsauflagen, von Schadenersatzansprüchen, von Reinigungskosten oder dergleichen verpflichtet werden.
+
+<sup>2</sup> Das gewährte Nutzungsrecht darf erst ausgeübt werden, wenn die Kaution geleistet worden ist.
+
+## 6. Übergangs- und Schlussbestimmungen
+
+#### § 42
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die Gebühren- und Kostensätze dieser Verordnung werden unter Vorbehalt der Regelungen der Abs. 2 und 3 auf alle Nutzungen des öffentlichen Raums zu Sonderzwecken ab dem Inkrafttreten angewandt. Dies gilt auch für Nutzungen, die vor dem Inkrafttreten für die Dauer von mehr als einem Jahr rechtskräftig bewilligt wurden.
+
+<sup>2</sup> In Rechtsmittelverfahren kommen die Bestimmungen zur Anwendung, die im Zeitpunkt des Erlasses der erstinstanzlichen Verfügung in Kraft standen.
+
+<sup>3</sup> Werden fest mit dem Boden verbundene Bauten, Bauteile und Anlagen, die bis anhin gebührenfrei waren, aufgrund der neuen Bestimmungen dieser Verordnung gebührenpflichtig, sind sie auch künftig nicht gebührenpflichtig, sofern sie baulich nicht verändert werden. Eine Nutzungsgebühr ist ab dem Zeitpunkt geschuldet, in dem an diesen Bauten, Bauteilen und Anlagen baubewilligungspflichtige Massnahmen ausgeführt werden.
+
+*Schlussbestimmung*
+
+Diese Verordnung ist zu publizieren; sie tritt am 1. Januar 2023 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung zum Allmendgebührengesetz vom 26. November 2002 aufgehoben.
+
+KB 05.11.2022
