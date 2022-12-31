@@ -4,20 +4,20 @@ title: "Ordinanza del 30 novembre 2012 sulla liquidità delle banche e delle soc
 short: OLiq
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/883"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/883/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-883-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/883/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla liquidità delle banche e delle società di intermediazione mobiliare
 
-(Ordinanza sulla liquidità, OLiq)**[^t-1]**
+(Ordinanza sulla liquidità, OLiq)[^t-1]
 
-del 30 novembre 2012 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 30 novembre 2012 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta l’all. 1 n. II 11 dell’O del 6 nov. 2019 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 
@@ -107,7 +107,7 @@ Le banche adottano misure per ridurre i loro rischi di liquidità. Esse devono s
 
 <sup>1</sup> Per quanto concerne i rischi di liquidità ciascuna banca deve riprodurre diversi scenari di stress ed eseguire stress test sul proprio stato di liquidità in base a questi scenari. A questo proposito, essa considera i flussi di pagamento da posizioni di fuori bilancio e altri impegni eventuali, compresi quelli derivanti da società veicolo di cartolarizzazione e altre società veicolo, alle quali fornisce liquidità o che deve sostenere materialmente per motivi contrattuali o di reputazione.
 
-<sup>1bis</sup> Per gli stress test le banche delle categorie 4 e 5 secondo l’allegato 3 OBCR[^9-1] devono considerare esclusivamente lo scenario di stress di cui all’articolo 12 capoverso 1.[^9-2]
+<sup>1bis</sup> Per gli stress test le banche delle categorie 4 e 5 secondo l’allegato 3 dell’ordinanza del 30 aprile 2014[^9-1] sulle banche (OBCR) devono considerare esclusivamente lo scenario di stress di cui all’articolo 12 capoverso 1.[^9-2]
 
 <sup>2</sup>
 
@@ -139,7 +139,7 @@ La scelta degli scenari di stress deve tener conto dei seguenti elementi:
 
 La società di audit è tenuta a confermare l’adempimento delle esigenze qualitative conformemente alle disposizioni tecniche di esecuzione della FINMA riguardanti gli articoli 5–10.
 
-### Sezione 2:**** Esigenze quantitative: quota di liquidità a breve termine****
+### Sezione 2: Esigenze quantitative: quota di liquidità a breve termine
 
 [^chap3-sec2-1][^chap3-sec2-2]
 
@@ -184,7 +184,7 @@ La FINMA stabilisce:
 
 - a. in che misura le società holding con una banca quale filiale possano essere esonerate dall’adempimento del requisito LCR, qualora tale adempimento non si riveli opportuno dal profilo della normativa sulla vigilanza;
 - b. in che misura la società madre quale istituto singolo possa essere esonerata dall’adempimento del requisito LCR in caso di gruppi finanziari con struttura di holding;
-- c.[^14-2] in che misura per le banche delle categorie 4 e 5 secondo l’allegato 3 dell’ordinanza del 30 aprile 2014[^14-3] sulle banche (OBCR) si possano prevedere agevolazioni relative alla comprova dell’adempimento del requisito LCR.
+- c.[^14-2] in che misura per le banche delle categorie 4 e 5 secondo l’allegato 3 dell’OBCR[^14-3] si possano prevedere agevolazioni relative alla comprova dell’adempimento del requisito LCR.
 
 <sup>4</sup>
 
@@ -509,7 +509,7 @@ Per i deflussi e gli afflussi di fondi tra una società madre e le filiali dello
 
 [^17e-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 
-### Sezione 2*a*: Esigenze quantitative: quota di finanziamento****
+### Sezione 2*a*: Esigenze quantitative: quota di finanziamento
 
 [^chap3-sec2a-1]
 
@@ -745,7 +745,7 @@ Per finanziamenti interni allo stesso gruppo finanziario, la FINMA può stabilir
 
 [^17s-1]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
 
-### Sezione 2*b*:**** Semplificazioni per banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
+### Sezione 2*b*: Semplificazioni per banche particolarmente liquide e ben capitalizzate delle categorie 4 e 5
 
 [^chap3-sec2b-1]
 
@@ -772,17 +772,19 @@ Le banche comunicano alla FINMA, nell’ambito delle procedure generali di notif
 - b. depositi ai sensi della lettera a, considerati privilegiati conformemente all’articolo 37*a* LBCR;
 - c. depositi ai sensi della lettera b, considerati garantiti conformemente all’articolo 37*h* LBCR.
 
-<sup>2</sup> Sulla base dei dati comunicati conformemente al capoverso 1 lettera c, la FINMA calcola le quote rispetto all’importo massimo della garanzia dei depositi di cui all’articolo 37*h* capoverso 3 lettera b LBCR e le comunica alle singole banche.
+<sup>2</sup> Sulla base dei dati comunicati conformemente al capoverso 1 lettera c, la FINMA calcola gli impegni contributivi delle singole banche per la garanzia dei depositi di cui all’articolo 37*h* capoverso 3 lettera b LBCR e li comunica alle singole banche.[^18-4]
 
-<sup>3</sup> Per il computo del requisito LCR le banche considerano le loro quote rispetto all’importo massimo quali «linee di credito e di liquidità confermate e inutilizzate nei confronti del sistema svizzero di garanzia dei depositi» di cui all’allegato 2 numero 8.1.5.
+<sup>3</sup> Per il computo del requisito LCR le banche considerano i loro impegni contributivi quali «impegno irrevocabile di versamento per la raccolta di fondi nei confronti del responsabile della garanzia dei depositi» di cui all’allegato 2 numero 8.1.5.[^18-5]
 
 <sup>4</sup> La FINMA può eccezionalmente esigere che singole banche pubblichino in maniera appropriata la somma da comunicare secondo il capoverso 1 lettera c, se tale misura appare necessaria per tutelare i creditori non privilegiati.
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 25 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)).
 [^18-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)).
 [^18-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^18-4]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^18-5]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
-### Sezione 4:**** Indicatori di osservazione
+### Sezione 4: Indicatori di osservazione
 
 [^chap3-sec4-1]
 
@@ -792,7 +794,7 @@ Le banche comunicano alla FINMA, nell’ambito delle procedure generali di notif
 
 Oltre alle informazioni relative agli indicatori LCR e NSFR, la FINMA può raccogliere informazioni su altri indicatori di osservazione a livello di gruppo finanziario e di singolo istituto, tenendo conto delle dimensioni nonché del genere, dell’entità, della complessità e del contenuto di rischio delle attività di una banca, purché siano necessarie all’attuazione della presente ordinanza.
 
-### Sezione 5:**** Compiti della società di audit
+### Sezione 5: Compiti della società di audit
 
 [^chap3-sec5-1]
 
@@ -862,7 +864,7 @@ Per soddisfare le esigenze particolari in materia di liquidità sono computabili
 
 Un’esplicita garanzia dello Stato rilasciata da un Cantone o un meccanismo analogo sono computabili, se la garanzia o il meccanismo:
 
-- a. sono considerati secondo l’articolo 132*a* OFoP[^20a-2] per l’adempimento delle esigenze relative ai fondi supplementari in grado di assorbire le perdite; e
+- a.[^20a-2] sono considerati secondo l’articolo 132*b* OFoP[^20a-3] per l’adempimento delle esigenze relative ai fondi supplementari in grado di assorbire le perdite; e
 - b. qualora utilizzati in caso di crisi, conducessero in tempi brevi a un afflusso di liquidità computabile; la FINMA decide nel singolo caso se questa condizione è soddisfatta.
 
 <sup>4</sup>
@@ -878,7 +880,8 @@ Il 30 per cento dell’importo ottenuto dal seguente calcolo, se positivo, è co
 <sup>6</sup> I valori patrimoniali computabili non possono essere computati nello stesso tempo come afflussi di fondi.
 
 [^20a-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
-[^20a-2]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
+[^20a-2]: Nuovo testo giusta l’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
+[^20a-3]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
 #### Art. 20b
 
@@ -895,7 +898,7 @@ La banca soddisfa le esigenze conformemente al presente capitolo, se:
 
 [^20b-1]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
 
-### Sezione 2:**** Esigenze di base
+### Sezione 2: Esigenze di base
 
 [^chap4-sec2-1]
 
@@ -942,7 +945,7 @@ Per le posizioni di cui al capoverso 1 lettera a i deflussi di fondi per i giorn
 
 Per l’adempimento delle esigenze secondo l’articolo 23 i titoli menzionati nell’allegato 8, se negoziabili e liberamente disponibili, possono essere computati al valore attuale di mercato, al netto della rispettiva riduzione del valore. Il computo è possibile fino a un limite massimo del 30 per cento della somma dei deflussi netti di fondi di cui all’articolo 23 capoversi 2 e 3.
 
-### Sezione 2*a*: Esigenze aggiuntive specifiche all’istituto****
+### Sezione 2*a*: Esigenze aggiuntive specifiche all’istituto
 
 [^chap4-sec2a-1]
 
@@ -1041,12 +1044,10 @@ Nell’ambito dell’esecuzione della presente ordinanza, la FINMA consulta la B
 
 [^31a-1]
 
-**Art. 31**b*[^31a-2]* Disposizione transitoria concernente la modifica dell’11 settembre 2020
-
-Il Dipartimento federale delle finanze esaminerà gli articoli 17*h* capoverso 3, 17*p* capoverso 2 lettera b e i fattori RSF secondo l’allegato 5 numeri 2 e 3.4 nell’ottica della loro comparabilità e del loro grado di attuazione negli ordinamenti giuridici delle principali piazze finanziarie estere. Non appena avrà acquisito solide conoscenze in merito, ma al più tardi a giugno 2022, presenterà un rapporto al Consiglio federale e indicherà l’eventuale necessità di adeguamento normativo.
+**Art. 31**b[^31a-2]
 
 [^31a-1]: Introdotto dal n. I dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Abrogato dal n. I dell’O del 3 giu. 2022, con effetto dal 1° lug. 2022 ([RU 2022 359](https://fedlex.data.admin.ch/eli/oc/2022/359)).
-[^31a-2]: Introdotto dal n. I dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^31a-2]: Introdotto dal n. I dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)). Abrogato dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 #### Art. 31c
 
@@ -1078,7 +1079,7 @@ Il Dipartimento federale delle finanze esaminerà gli articoli 17*h* capoverso 3
 
 <sup>3</sup> Le disposizioni del quarto capitolo entrano in vigore il 15° giorno del mese successivo alla loro approvazione da parte dell’Assemblea federale.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 (art. 15*a* cpv. 2 lett. c e 15*b* cpv. 2 lett. b)
 
@@ -1118,22 +1119,22 @@ B. Sono considerate quale istituto finanziario anche le strutture holding nelle 
 
 C. Non sono considerate quale istituto finanziario le filiali di istituti non finanziari che non dispongono dell’autorizzazione di esercitare come banca e che forniscono una o più delle attività sopracitate esclusivamente a società di gruppo.
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 (art. 16 cpv. 3)
 
 ## Deflussi di fondi e tassi di deflusso
 
-[^t-3]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)) e dal n. II cpv. 1 dell’O dell’11 set. 2020, in vigore dal 1° lug. 2021 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)).
+[^t-3]: Introdotto dal n. II dell’O del 25 giu. 2014 ([RU 2014 2321](https://fedlex.data.admin.ch/eli/oc/2014/394)). Aggiornato dal n. II dell’O del 22 nov. 2017 ([RU 2017 7635](https://fedlex.data.admin.ch/eli/oc/2017/828)), dal n. II cpv. 1 dell’O dell’11 set. 2020 ([RU 2020 3921](https://fedlex.data.admin.ch/eli/oc/2020/730)) e dall’all. n. 3 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 804](https://fedlex.data.admin.ch/eli/oc/2022/804)).
 
 <table>
 <tr><th>Categorie di deflusso</th><th>Tasso di deflusso (percentuale)</th></tr>
-<tr><td>**1. Depositi di clienti privati**</td><td></td></tr>
+<tr><td>1. Depositi di clienti privati</td><td></td></tr>
 <tr><td>1.1 I depositi di clienti privati comprendono tutti i depositi a vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario. Depositi a termine con una durata residua superiore a 30 giorni di calendario non sono presi in considerazione.</td><td></td></tr>
 <tr><td>1.1.1 depositi stabili</td><td>5</td></tr>
 <tr><td>1.1.2 depositi meno stabili</td><td>10</td></tr>
 <tr><td>1.2 Depositi di clienti privati che ammontano a più di 1,5 milioni di franchi svizzeri. Sono compresi tutti i depositia vista e a termine con una durata residua o un termine di disdetta fino a 30 giorni di calendario.</td><td>20</td></tr>
-<tr><td>**2. Mezzi finanziari non garantiti, messi a disposizione da clienti commerciali o da grandi clienti**</td><td></td></tr>
+<tr><td>2. Mezzi finanziari non garantiti, messi a disposizione da clienti commerciali o da grandi clienti</td><td></td></tr>
 <tr><td>2.1 Depositi a vista e a termine di piccole imprese con una durata residua o un termine di disdetta fino a 30 giorni di calendario</td><td></td></tr>
 <tr><td>2.1.1 depositi stabili</td><td>5</td></tr>
 <tr><td>2.1.2 depositi meno stabili</td><td>10</td></tr>
@@ -1148,7 +1149,7 @@ Allegato 2*[^t-3]*
 <tr><td>2.5 Depositi a vista e a termine di istituti finanziari ai sensi dell’allegato 1 comprese le società ad essi correlate, di tutte le altre persone giuridiche e dei clienti commerciali quali le casse pensioni, con una durata residua o un termine di disdetta fino a 30 giorni di calendario</td><td>100</td></tr>
 <tr><td>2.6 Titoli di credito non garantiti</td><td>100</td></tr>
 <tr><td>2.7 Ulteriori apporti necessari alle riserve delle banche centrali</td><td>100</td></tr>
-<tr><td>**3. Transazioni garantite e collateral swap che scadono entro 30 giorni di calendario e le cui garanzie non sono utilizzate per la copertura di short position**</td><td></td></tr>
+<tr><td>3. Transazioni garantite e collateral swap che scadono entro 30 giorni di calendario e le cui garanzie non sono utilizzate per la copertura di short position</td><td></td></tr>
 <tr><td>3.1 Operazioni di finanziamento garantite attuate con la BNS e garantite mediante attivi della categoria 2*b* o attivi non considerati HQLA («attivi non HQLA») e collateral swap che comprendono lo scambio di attivi della stessa categoria e non sono pareggiati</td><td>0</td></tr>
 <tr><td>3.2 Operazioni di finanziamento garantite tramite attivi della categoria 2b o attivi non HQLA e la cui controparte è:</td><td></td></tr>
 <tr><td>– il proprio Governo centrale o banche multilaterali di sviluppo; o</td><td></td></tr>
@@ -1158,14 +1159,14 @@ Allegato 2*[^t-3]*
 <tr><td>3.5 Collateral swap che comprendono lo scambio di attivi della categoria 2b con attivi della categoria 1 oppure di attivi non HQLA con attivi della categoria 2b</td><td>50</td></tr>
 <tr><td>3.6 Collateral swap che comprendono lo scambio di attivi non HQLA con attivi della categoria 2a</td><td>85</td></tr>
 <tr><td>3.7 Tutte le restanti operazioni di finanziamento garantite mediante attivi non HQLA e tutti i collateral swap che comprendono lo scambio di attivi non HQLA con attivi della categoria 1</td><td>100</td></tr>
-<tr><td>**4.** **Collateral swap, se le garanzie sono utilizzate per coprire short position**</td><td></td></tr>
+<tr><td>4. Collateral swap, se le garanzie sono utilizzate per coprire short position</td><td></td></tr>
 <tr><td>4.1 Collateral swap che comprendono lo scambio di attivi della stessa categoria</td><td>0</td></tr>
 <tr><td>4.2 Collateral swap che comprendono lo scambio di attivi della categoria 2a con attivi della categoria 1</td><td>15</td></tr>
 <tr><td>4.3 Collateral swap che comprendono lo scambio di attivi della categoria 2b con attivi della categoria 2a</td><td>35</td></tr>
 <tr><td>4.4 Collateral swap che comprendono lo scambio di attivi della categoria 2b con attivi della categoria 1 oppure di attivi non HQLA con attivi della categoria 2b</td><td>50</td></tr>
 <tr><td>4.5 Collateral swap che comprendono lo scambio di attivi non HQLA con attivi della categoria 2a</td><td>85</td></tr>
 <tr><td>4.6 Collateral swap che comprendono lo scambio di attivi non HQLA con attivi della categoria 1</td><td>100</td></tr>
-<tr><td>**5.** **Derivati e altre transazioni**</td><td></td></tr>
+<tr><td>5. Derivati e altre transazioni</td><td></td></tr>
 <tr><td>5.1 Deflusso netto di fondi provenienti da operazioni su derivati</td><td>100</td></tr>
 <tr><td>5.2 Maggiore fabbisogno di liquidità in relazione a valori soglia di rating inerenti a operazioni finanziarie e su derivati e altre transazioni</td><td>100</td></tr>
 <tr><td>5.3 Maggiore fabbisogno di liquidità dovuto a garanzie eccedentarie detenute da una banca in relazione a operazioni su derivati e altre transazioni e contrattualmente revocabili in ogni momento dalla controparte</td><td>100</td></tr>
@@ -1173,12 +1174,12 @@ Allegato 2*[^t-3]*
 <tr><td>5.5 Maggiore fabbisogno di liquidità in relazione a operazioni su derivati e altre transazioni che permettono alla controparte di sostituire le garanzie con attivi non HQLA</td><td>100</td></tr>
 <tr><td>5.6 Maggiore fabbisogno dovuto a variazioni del valore di mercato di operazioni su derivati e altre transazioni</td><td>100 % del valore più alto in termini assoluti del deflusso netto di garanzie nell’arco di 30 giorni di calendario durante gli ultimi 24 mesi o 100 % sulla base di un modello interno</td></tr>
 <tr><td>5.7 Maggiore fabbisogno di liquidità dovuto a variazioni di valutazione di garanzie a copertura di operazioni su derivati e altre transazioni e che non rappresentano attivi della categoria 1</td><td>20</td></tr>
-<tr><td>**6.** **Perdita di possibilità di finanziamento in caso di titoli garantiti da attivi** ***(asset-backed securities, ABS)*****, titoli di credito garantiti e altri strumenti di finanziamento strutturati** (questo vale per tutti gli importi che giungono a scadenza e i valori patrimoniali restituiti entro 30 giorni di calendario)</td><td>100</td></tr>
-<tr><td>**7** **Perdita di possibilità di finanziamento derivante da titoli del mercato monetario garantiti da attivi** ***(asset-backed commercial papers, ABCP)*****, società veicolo** ***(conduit),*** **veicoli di finanziamento su titoli** ***(securities investment vehicle)*** **e altre linee di finanziamento simili**</td><td></td></tr>
+<tr><td>6. Perdita di possibilità di finanziamento in caso di titoli garantiti da attivi *(asset-backed securities, ABS)*, titoli di credito garantiti e altri strumenti di finanziamento strutturati (questo vale per tutti gli importi che giungono a scadenza e i valori patrimoniali restituiti entro 30 giorni di calendario)</td><td>100</td></tr>
+<tr><td>7 Perdita di possibilità di finanziamento derivante da titoli del mercato monetario garantiti da attivi *(asset-backed commercial papers, ABCP)*, società veicolo *(conduit),* veicoli di finanziamento su titoli *(securities investment vehicle)* e altre linee di finanziamento simili</td><td></td></tr>
 <tr><td>7.1 Importi che scadono entro 30 giorni</td><td>100</td></tr>
 <tr><td>7.2 Altre possibili perdite di possibilità di finanziamento</td><td>100</td></tr>
 <tr><td>7.3 Opzioni inserite in convenzioni di finanziamento che prevedono la restituzione di crediti o un potenziale sostegno alla liquidità entro 30 giorni</td><td>100</td></tr>
-<tr><td>**8.** **Linee di credito e di liquidità**</td><td></td></tr>
+<tr><td>8. Linee di credito e di liquidità</td><td></td></tr>
 <tr><td>8.1 Parte inutilizzata di linee di credito e di liquidità revocabili con riserva o irrevocabili nonché transazioni con titoli sintetici equiparabili, nei confronti di:</td><td></td></tr>
 <tr><td>8.1.1 clienti privati e piccole imprese</td><td>5</td></tr>
 <tr><td>8.1.2 istituti non finanziari, Governi centrali, banche centrali, enti territoriali subordinati e altri enti di diritto pubblico e banche multilaterali di sviluppo</td><td></td></tr>
@@ -1188,10 +1189,10 @@ Allegato 2*[^t-3]*
 <tr><td>8.1.4 tutti gli altri istituti finanziari ai sensi dell’allegato 1 (comprese banche estere che non sottostanno a una regolamentazione del requisito LCR statuita da un’autorità estera, imprese di investimento, assicurazioni, società fiduciarie nonché beneficiari)</td><td></td></tr>
 <tr><td>8.1.4.1 linee di credito</td><td>40</td></tr>
 <tr><td>8.1.4.2 linee di liquidità</td><td>100</td></tr>
-<tr><td>8.1.5 il sistema svizzero di garanzia dei depositi</td><td>50</td></tr>
+<tr><td>8.1.5 il responsabile della garanzia dei depositi sotto forma di un impegno irrevocabile di versamento per la raccolta di fondi</td><td>10</td></tr>
 <tr><td>8.1.6 tutte le altre persone giuridiche e i clienti commerciali comprese le società correlate a istituti finanziari</td><td>100</td></tr>
 <tr><td>8.2 Obblighi derivanti da linee di credito e di liquidità revocabili senza condizioni, inutilizzate e non confermate</td><td>0</td></tr>
-<tr><td>**9.** **Altri impegni eventuali volti allo stanziamento di fondi, quali garanzie e crediti documentari**</td><td></td></tr>
+<tr><td>9. Altri impegni eventuali volti allo stanziamento di fondi, quali garanzie e crediti documentari</td><td></td></tr>
 <tr><td>9.1 Finanziamento di operazioni commerciali (approccio retrospettivo)</td><td>100 per cento del deflusso netto medio sull’intero portafoglio nell’arco di 30 giorni di calendario durante gli ultimi 24 mesi oppure 5 per cento del valore nominale dell’importo non ancora versato</td></tr>
 <tr><td>9.2 Garanzie e crediti documentari non correlati a finanziamenti di operazioni commerciali (approccio retrospettivo)</td><td>100 per cento del deflusso netto medio sull’intero portafoglio nell’arco di 30 giorni di calendario durante gli ultimi 24 mesi oppure 5 per cento del valore nominale dell’importo non ancora versato</td></tr>
 <tr><td>9.3 Obblighi non contrattuali quali:</td><td></td></tr>
@@ -1201,17 +1202,17 @@ Allegato 2*[^t-3]*
 <tr><td>9.3.4 prodotti strutturati e titoli sintetici equiparabili aventi particolari requisiti in materia di liquidità, in particolare prodotti per i quali la banca assicura una buona negoziabilità. Sono esclusi i prodotti che non generano alcun funding della banca e che possono essere ridotti senza incidere sulla liquidità</td><td>5 per cento del volume di emissione</td></tr>
 <tr><td>9.3.5 fondi del mercato monetario amministrati e gestiti allo scopo di mantenere un valore stabile, come i fondi constant-net-asset-value del mercato monetario</td><td>5 per cento del volume di emissione</td></tr>
 <tr><td>9.3.6 altri obblighi non contrattuali</td><td>0</td></tr>
-<tr><td>**10.** **Potenziale richiesta di riacquisto di titoli di credito della stessa banca con durata (residua) superiore a 30 giorni tramite commercianti di valori mob****i****liari o market makers ad essa correlati**</td><td>0</td></tr>
-<tr><td>**11.** **Short position di clienti, coperte da garanzie di altri clienti non considerate** **HQLA**</td><td>50</td></tr>
-<tr><td>**12. Short position della banca coperte da operazioni di finanziamento garantite**</td><td>0</td></tr>
-<tr><td>**13. Altri deflussi di fondi contrattuali entro 30 giorni (ad es. deflussi a copertura di finanziamenti di titoli non assicurati, short position non coperte, dividendi o versamenti contrattuali di interessi)**</td><td>100</td></tr>
-<tr><td>**14. Obblighi contrattuali di rinnovare concessioni di credito** ***(«rollover»),*** **se tali obblighi non sono già stati considerati in altre categorie di deflusso:**</td><td></td></tr>
+<tr><td>10. Potenziale richiesta di riacquisto di titoli di credito della stessa banca con durata (residua) superiore a 30 giorni tramite commercianti di valori mobiliari o market makers ad essa correlati</td><td>0</td></tr>
+<tr><td>11. Short position di clienti, coperte da garanzie di altri clienti non considerate HQLA</td><td>50</td></tr>
+<tr><td>12. Short position della banca coperte da operazioni di finanziamento garantite</td><td>0</td></tr>
+<tr><td>13. Altri deflussi di fondi contrattuali entro 30 giorni (ad es. deflussi a copertura di finanziamenti di titoli non assicurati, short position non coperte, dividendi o versamenti contrattuali di interessi)</td><td>100</td></tr>
+<tr><td>14. Obblighi contrattuali di rinnovare concessioni di credito *(«rollover»),* se tali obblighi non sono già stati considerati in altre categorie di deflusso:</td><td></td></tr>
 <tr><td>14.1 nei confronti di clienti privati, piccole imprese, imprese non finanziarie e altre persone giuridiche comprese società collegate a istituti finanziari</td><td>100 per cento, se la differenza tra i deflussi ai sensi del numero 14.1 e la metà degli afflussi contrattuali ai sensi dell’allegato 3, numeri 5.1 e 5.2 risulta positiva 0 per cento, se la differenza tra i deflussi ai sensi del numero 14.1 e la metà degli afflussi contrattuali ai sensi dell’allegato 3, numeri 5.1 e 5.2 risulta negativa</td></tr>
 <tr><td>14.2 nei confronti di istituti finanziari</td><td>100</td></tr>
-<tr><td>**15. Deflussi di fondi interni al gruppo (solo per il sing****o****lo istituto)**</td><td>100</td></tr>
+<tr><td>15. Deflussi di fondi interni al gruppo (solo per il singolo istituto)</td><td>100</td></tr>
 </table>
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 (art. 16 cpv. 5)
 
@@ -1221,17 +1222,17 @@ Allegato 3*[^t-4]*
 
 <table>
 <tr><th>Categorie di afflusso</th><th>Tasso di afflusso (percentuale)</th></tr>
-<tr><td>**1.** **Operazioni di finanziamento garantite che scadono entro 30 giorni di calendario e sono coperte dalle garanzie ele****n****cate ai numeri da 1.1 a 1.6 e collateral swap, se le loro garanzie non sono utilizzate per coprire short position**</td><td></td></tr>
+<tr><td>1. Operazioni di finanziamento garantite che scadono entro 30 giorni di calendario e sono coperte dalle garanzie elencate ai numeri da 1.1 a 1.6 e collateral swap, se le loro garanzie non sono utilizzate per coprire short position</td><td></td></tr>
 <tr><td>1.1 Collateral swap che comprendono lo scambio di attivi della stessa categoria e non sono pareggiati</td><td>0</td></tr>
 <tr><td>1.2 Collateral swap che comprendono lo scambio di attivi della categoria 2a con attivi della categoria 2b</td><td>35</td></tr>
 <tr><td>1.3 Operazioni di finanziamento garantite mediante attivi della categoria 2b e collateral swap che comprendono lo scambio di attivi della categoria 1 con attivi della categoria 2b o lo scambio di attivi della categoria 2b con attivi non HQLA</td><td>50</td></tr>
 <tr><td>1.4 Prestiti marginali coperti da garanzie considerate attivi non HQLA</td><td>50</td></tr>
 <tr><td>1.5 Collateral swap che comprendono lo scambio di attivi della categoria 2a con attivi non HQLA</td><td>85</td></tr>
 <tr><td>1.6 Tutte le restanti operazioni di finanziamento garantite mediante attivi non HQLA, e collateral swap che comprendono lo scambio di attivi della categoria 1 con attivi non HQLA</td><td>100</td></tr>
-<tr><td>**2.** **Operazioni di finanziamento, prestiti marginali e collat****e****ral swap che scadono entro 30 giorni di calendario e g****a****rantiti, se le garanzie sono utilizzate per coprire short position**</td><td>0</td></tr>
-<tr><td>**3.** **Linee di credito e di liquidità concesse alla banca dichiara****n****te**</td><td>0</td></tr>
-<tr><td>**4.** **Depositi operativi presso altri istituti finanziari (compresi i depositi presso l’istituto centrale di un sistema finanziario)**</td><td>0</td></tr>
-<tr><td>**5. Altri afflussi, suddivisi secondo la controparte, entro 30 giorni di calendario**</td><td></td></tr>
+<tr><td>2. Operazioni di finanziamento, prestiti marginali e collateral swap che scadono entro 30 giorni di calendario e garantiti, se le garanzie sono utilizzate per coprire short position</td><td>0</td></tr>
+<tr><td>3. Linee di credito e di liquidità concesse alla banca dichiarante</td><td>0</td></tr>
+<tr><td>4. Depositi operativi presso altri istituti finanziari (compresi i depositi presso l’istituto centrale di un sistema finanziario)</td><td>0</td></tr>
+<tr><td>5. Altri afflussi, suddivisi secondo la controparte, entro 30 giorni di calendario</td><td></td></tr>
 <tr><td>5.1 Crediti contrattuali nei confronti di clienti privati e piccole imprese</td><td>50</td></tr>
 <tr><td>5.2 Crediti contrattuali nei confronti di istituti non finanziari e di tutte le altre persone giuridiche derivanti da operazioni non menzionate nelle categorie di afflusso precedenti</td><td>50</td></tr>
 <tr><td>5.3 Crediti contrattuali nei confronti di istituti finanziari e banche centrali derivanti da operazioni non menzionate nelle categorie di afflusso precedenti</td><td>100</td></tr>
@@ -1239,10 +1240,10 @@ Allegato 3*[^t-4]*
 <tr><td>6.1 Afflusso netto di fondi provenienti da operazioni su derivati</td><td>100</td></tr>
 <tr><td>6.2 Afflussi contrattuali provenienti da titoli che scadono entro 30 giorni di calendario, che non sono considerati HQLA e che non sono già stati presi in considerazione altrove</td><td>100</td></tr>
 <tr><td>6.3 Afflussi di fondi irrevocabili conclusi contrattualmente che non sono già presi in considerazione altrove entro i 30 giorni di calendario seguenti</td><td>100</td></tr>
-<tr><td>**7. Afflussi di fondi infragruppo entro 30 giorni di calendario (solo per il singolo istituto)**</td><td>100</td></tr>
+<tr><td>7. Afflussi di fondi infragruppo entro 30 giorni di calendario (solo per il singolo istituto)</td><td>100</td></tr>
 </table>
 
-Allegato 4*[^t-5]*
+Allegato 4[^t-5]
 
 (art. 17*k*)
 
@@ -1276,7 +1277,7 @@ Allegato 4*[^t-5]*
 
 [^annex4-lvlu1-1]: [RS 952.03](https://fedlex.data.admin.ch/eli/cc/2012/629)
 
-Allegato 5*[^t-6]*
+Allegato 5[^t-6]
 
 (art. 17*m*)
 
@@ -1334,7 +1335,7 @@ Allegato 5*[^t-6]*
 <tr><td>9.2 Impegni eventuali da garanzie e crediti documentari non correlati a finanziamenti di operazioni commerciali</td><td colspan="2">5 % del valore nominale in sospeso</td></tr>
 </table>
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 23 cpv. 3)
 
@@ -1361,7 +1362,7 @@ Allegato 6*[^t-7]*
 <tr><td>– con una durata residua o un termine di disdetta da 61 a 90 giorni di calendario</td><td>50</td></tr>
 </table>
 
-Allegato 7*[^t-8]*
+Allegato 7[^t-8]
 
 (art. 23 cpv. 3)
 
@@ -1382,7 +1383,7 @@ Allegato 7*[^t-8]*
 <tr><td>– da 61 a 90 giorni di calendario</td><td>50</td></tr>
 </table>
 
-Allegato 8*[^t-9]*
+Allegato 8[^t-9]
 
 (art. 24)
 
