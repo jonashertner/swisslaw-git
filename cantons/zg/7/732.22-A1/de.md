@@ -1,26 +1,30 @@
 ---
 canton: ZG
 number: 732.22-A1
-title: Reglement über die Abfallbewirtschaftung des ZEBA (Anhang)
+title: Reglement über die Abfallbewirtschaftung des Zeba (Anhang)
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-11-05
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-05-18
 adopted: 2005-05-19
 in_force: 2005-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/732.22-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/1848/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2396/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Abfallbewirtschaftung des ZEBA (Anhang)
+# Reglement über die Abfallbewirtschaftung des Zeba (Anhang)
 
-Vom 19. Mai 2005 (Stand 1. Januar 2019)
+Vom 19. Mai 2005 (Stand 1. Januar 2023)
 
-Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle
+Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle,
+
+gestützt auf § 4 Abs. 2 des Reglements über die Abfallbewirtschaftung des Zeba vom 19. Mai 2005[^ingress-1],
 
 beschliesst:
+
+[^ingress-1]: BGS [732.22](https://bgs.zg.ch/data/732.22/de)
 
 ## 1. Begriffe
 
@@ -131,9 +135,9 @@ beschliesst:
 
 <sup>1</sup> Bereitstellungsarten
 
-- a) in gebührenpflichtigen Kehrichtsäcken des ZEBA
-- b) in Containern, Unterflur- und Halbunterfluranlagen mit gebührenpflichtigen Kehrichtsäcken des ZEBA
-- c) in Containern, Unterflur- und Halbunterfluranlagen mit offiziellen Erkennungs-Chips des ZEBA zur gewichtsabhängigen Entsorgung
+- a) in gebührenpflichtigen Kehrichtsäcken des Zeba
+- b) in Containern, Unterflur- und Halbunterfluranlagen mit gebührenpflichtigen Kehrichtsäcken des Zeba
+- c) in Containern, Unterflur- und Halbunterfluranlagen mit offiziellen Erkennungs-Chips des Zeba zur gewichtsabhängigen Entsorgung
 - d) …
 
 <sup>2</sup> Zulässige Gebinde
@@ -147,7 +151,7 @@ beschliesst:
 
 <sup>1</sup> Bereitstellungsarten
 
-- a) Pflanzliche Abfälle aus Garten und Küche sowie Speiseresten sind in einem Container mit dichten Wänden und Deckel bereitzustellen.
+- a) Pflanzliche Abfälle aus Garten und Küche sowie Speiseresten sind in einem Container mit dichten Wänden und Deckel oder im Zeba-Grüngutsack bereitzustellen.
 - b) Astmaterial, Strauch- und Gebüschschnitt kann gebündelt bereitgestellt werden. Die maximale Länge beträgt 1,5 Meter, das maximale Gewicht 20 Kilogramm.
 
 <sup>2</sup> Zulässige Gebinde
@@ -174,13 +178,13 @@ beschliesst:
 
 **Zufahrt**
 
-<sup>1</sup> Sammelplätze sind entlang von durchgehenden, zweispurigen Strassen (Sammelstrassen und Quartier Erschliessungsstrassen mit unbeschränkter Fahrzeugbreite und Gewichtslimite) anzuordnen. In Ausnahmefällen sind bei Stichstrassen die Sammelplätze bei Einmündungen von Zufahrtsstrassen anzuordnen. Rückwärtsfahrten sind nur im Zusammenhang mit Wendemanövern zulässig. Der Wendeplatz richtet sich nach der SN 640 271a und SN 640 052. Über Ausnahmen beschliesst die Verbandsgemeinde nach Absprache mit dem ZEBA.
+<sup>1</sup> Sammelplätze sind entlang von durchgehenden, zweispurigen Strassen (Sammelstrassen und Quartier Erschliessungsstrassen mit unbeschränkter Fahrzeugbreite und Gewichtslimite) anzuordnen. In Ausnahmefällen sind bei Stichstrassen die Sammelplätze bei Einmündungen von Zufahrtsstrassen anzuordnen. Rückwärtsfahrten sind nur im Zusammenhang mit Wendemanövern zulässig. Der Wendeplatz richtet sich nach der SN 640 271a und SN 640 052. Über Ausnahmen beschliesst die Verbandsgemeinde nach Absprache mit dem Zeba.
 
 #### § 19
 
 **Standort**
 
-<sup>1</sup> Die Dimensionierung und Anordnung der Sammelstelle richtet sich nach den Normalien Unterflursammelstelle (UFC). Der gesamte Schwenkbereich des Sammelfahrzeuges, mithin mindestens 2 Meter rund um die Unterflursammelstelle (UFC), ist bis auf eine Lichthöhe von 11 Metern freizuhalten. Über Ausnahmen beschliesst die Verbandsgemeinde nach Absprache mit dem ZEBA.
+<sup>1</sup> Die Dimensionierung und Anordnung der Sammelstelle richtet sich nach den Normalien Unterflursammelstelle (UFC). Der gesamte Schwenkbereich des Sammelfahrzeuges, mithin mindestens 2 Meter rund um die Unterflursammelstelle (UFC), ist bis auf eine Lichthöhe von 11 Metern freizuhalten. Über Ausnahmen beschliesst die Verbandsgemeinde nach Absprache mit dem Zeba.
 
 #### § 20
 
@@ -198,13 +202,13 @@ beschliesst:
 
 **Betrieb**
 
-<sup>1</sup> Der ZEBA ist für die Leerung zuständig.
+<sup>1</sup> Der Zeba ist für die Leerung zuständig.
 
 #### § 23
 
 **Reinigung**
 
-<sup>1</sup> Die Reinigung der Unterflursammelstelle (UFC) ohne Umgebung erfolgt durch den ZEBA respektive durch dessen Beauftragte. Die Reinigung erfolgt nach Bedarf, mindestens aber einmal jährlich.
+<sup>1</sup> Die Reinigung der Unterflursammelstelle (UFC) ohne Umgebung erfolgt durch den Zeba respektive durch dessen Beauftragte. Die Reinigung erfolgt nach Bedarf, mindestens aber einmal jährlich.
 
 <sup>2</sup> Die Reinigung der Oberflächen-Anlage sowie der Umgebung erfolgt durch die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient.
 
