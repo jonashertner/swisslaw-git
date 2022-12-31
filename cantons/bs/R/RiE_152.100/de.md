@@ -3,13 +3,13 @@ canton: BS
 number: RiE 152.100
 title: Geschäftsordnung des Einwohnerrats der Einwohnergemeinde Riehen
 language: de
-version: 2021-10-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-28
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-12-15
 adopted: 2002-10-24
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5326/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5326/pdf_file"
 
 Geschäftsordnung des Einwohnerrates | Riehen: Einwohnergemeinde
 
-Vom 24. Oktober 2002 (Stand 1. Oktober 2021)
+Vom 24. Oktober 2002 (Stand 1. Januar 2023)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -34,10 +34,10 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>1</sup> Der Einwohnerrat tagt in der Regel einmal im Monat. Das Ratsbüro setzt im Einvernehmen mit dem Gemeinderat im Oktober die Sitzungsdaten für das folgende Jahr fest.
 
-<sup>2</sup> Ausserordentliche Sitzungen werden einberufen[^1-1]
+<sup>2</sup> Ausserordentliche Sitzungen werden einberufen:[^1-1]
 
-- a) auf Beschluss des Rats, des Ratsbüros oder der Präsidentin oder des Präsidenten
-- b) auf Beschluss des Gemeinderats
+- a) auf Beschluss des Rats, des Ratsbüros oder der Präsidentin oder des Präsidenten;
+- b) auf Beschluss des Gemeinderats;
 - c) wenn dies mindestens zehn Ratsmitglieder unter Angabe des Verhandlungsgegenstandes schriftlich verlangen.
 
 [^1-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern oder -buchstaben.
@@ -76,6 +76,8 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>2</sup> Mitglieder des Einwohnerrats verlassen vor der Beschlussfassung den Saal, wenn sie am behandelten Geschäft ein unmittelbares persönliches Interesse haben oder wenn das Geschäft die unmittelbaren persönlichen Interessen von natürlichen oder juristischen Personen betrifft, die sie gesetzlich, statutarisch oder vertraglich vertreten. Sie können in solchen Angelegenheiten auch keine parlamentarischen Vorstösse unternehmen.
 
+<sup>2<sup>bis</sup></sup> In den Kommissionen gilt die Ausstandspflicht für die Vorbereitung, Beratung und Beschlussfassung.
+
 <sup>3</sup> Differenzen bereinigt der Rat auf Antrag der Präsidentin oder des Präsidenten ohne Diskussion.
 
 #### § 6
@@ -100,7 +102,14 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Entschädigung**
 
-<sup>1</sup> Für die Teilnahme an den Sitzungen des Einwohnerrats oder einer seiner Kommissionen wird ein Sitzungsgeld ausgerichtet, dessen Höhe durch den Rat mit dem entsprechenden Leistungsauftrag festgesetzt wird. Einzelheiten regelt das Ratsbüro.
+<sup>1</sup> Die Mitglieder des Einwohnerrats erhalten für jede Sitzung im Plenum oder in Kommissionen folgendes Sitzungsgeld:
+
+- a) Präsidentin oder Präsident: CHF 275;
+- b) übrige Mitglieder des Einwohnerrats: CHF 135.
+
+<sup>1<sup>bis</sup></sup> Die Ansätze gelten für eine Sitzungsdauer von bis zu drei Stunden. Jede weitere angebrochene Stunde wird mit CHF 50 entschädigt.
+
+<sup>1<sup>ter</sup></sup> Die Mitglieder des Einwohnerrats erhalten überdies pro Amtsjahr einen Grundbetrag von CHF 1'000 als Spesenpauschale. Für das Präsidium des Einwohnerrats beträgt der Grundbetrag CHF 2'000. Die Auszahlungen erfolgen halbjährlich. Die obligatorischen Sozialversicherungsleistungen werden von der Gemeinde übernommen.
 
 <sup>2</sup> Ratsmitglieder, denen durch die Teilnahme an Sitzungen ein Erwerbsausfall oder sonstige ausserordentliche Auslagen entstehen, können einen angemessenen Ausgleich beanspruchen. Über derartige Anträge entscheidet das Ratsbüro.
 
@@ -136,13 +145,14 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Aufgaben des Präsidiums**
 
-<sup>1</sup> Die Präsidentin oder der Präsident des Einwohnerrats
+<sup>1</sup> Die Präsidentin oder der Präsident des Einwohnerrats:
 
-- a) beruft die Ratssitzungen ein und leitet sie
-- b) sorgt für die Einhaltung der Geschäftsordnung und für einen störungsfreien Ablauf der Sitzung
-- c) vertritt den Einwohnerrat nach aussen, empfängt alle an diesen gerichteten Eingaben und gibt dem Rat davon Kenntnis
-- d) vertritt den Einwohnerrat gegenüber dem Gemeinderat
-- e) überwacht die Arbeiten der Kommissionen.
+- a) beruft die Ratssitzungen ein und leitet sie;
+- b) sorgt für die Einhaltung der Geschäftsordnung und für einen störungsfreien Ablauf der Sitzung;
+- c) vertritt den Einwohnerrat nach aussen, empfängt alle an diesen gerichteten Eingaben und gibt dem Rat davon Kenntnis;
+- d) vertritt den Einwohnerrat gegenüber dem Gemeinderat;
+- e) überwacht die Arbeiten der Kommissionen;
+- f) unterzeichnet zusammen mit der Ratsekretärin oder dem Ratsekretär für den Einwohnerrat.
 
 <sup>2</sup> Das Ratsbüro kann der Präsidentin oder dem Präsidenten weitere Aufgaben übertragen.
 
@@ -162,9 +172,9 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>2</sup> Dem Ratsdienst obliegen insbesondere folgende Aufgaben:
 
-- a) Organisation und Protokollierung der Sitzungen des Rats und seiner Kommissionen
-- b) Beratung der Präsidentin oder des Präsidenten, der Kommissionen und der Ratsmitglieder in rechtlichen und organisatorischen Fragen
-- c) Beschaffung und Archivierung von Unterlagen
+- a) Organisation und Protokollierung der Sitzungen des Rats und seiner Kommissionen;
+- b) Beratung der Präsidentin oder des Präsidenten, der Kommissionen und der Ratsmitglieder in rechtlichen und organisatorischen Fragen;
+- c) Beschaffung und Archivierung von Unterlagen;
 - d) Erledigung der administrativen Aufgaben.
 
 <sup>3</sup> Der Generalsekretärin oder dem Generalsekretär obliegt in der Regel die Protokollführung an den Sitzungen des Einwohnerrats und des Ratsbüros.
@@ -175,11 +185,11 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>1</sup> Die Verhandlungen des Einwohnerrats werden auf Tonträger aufgezeichnet. Zudem wird ein schriftliches Beschlussprotokoll erstellt.
 
-<sup>2</sup> Das Beschlussprotokoll enthält
+<sup>2</sup> Das Beschlussprotokoll enthält:
 
-- a) die Traktandenliste
-- b) die Namen der Anwesenden
-- c) Gegenstand und Ergebnisse von Abstimmungen über Sachanträge
+- a) die Traktandenliste;
+- b) die Namen der Anwesenden;
+- c) Gegenstand und Ergebnisse von Abstimmungen über Sachanträge;
 - d) Ergebnisse von Wahlen.
 
 <sup>3</sup> Das Beschlussprotokoll wird auf der Website der Gemeinde veröffentlicht.
@@ -202,13 +212,13 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Beratung**
 
-<sup>1</sup> Das Ratsbüro entscheidet, ob Vorlagen und Berichte des Gemeinderats zuerst im Plenum behandelt oder durch eine oder gegebenenfalls mehrere Kommissionen vorberaten werden. In der Regel werden diese Geschäfte durch die zuständige Sachkommission oder, falls das Geschäft in deren Zuständigkeitsbereich fällt, durch die Geschäftsprüfungskommission oder die Finanzkoordinationskommission vorberaten.
+<sup>1</sup> Das Ratsbüro entscheidet, ob Vorlagen und Berichte des Gemeinderats zuerst im Plenum behandelt oder durch eine oder gegebenenfalls mehrere Kommissionen vorberaten werden. In der Regel werden diese Geschäfte durch die zuständige Sachkommission oder, falls das Geschäft in deren Zuständigkeitsbereich fällt, durch die Geschäftsprüfungskommission oder die Finanzkommission vorberaten.
 
 <sup>2</sup> Für die Behandlung von Volksinitiativen gelten die §§ 37 bis 41 der Ordnung der politischen Rechte.
 
 <sup>3</sup> Die Präsidentin oder der Präsident überweist eine Volksanregung oder eine an den Einwohnerrat gerichtete Petition direkt an die Kommission für Volksanregungen und Petitionen.
 
-<sup>4</sup> Für die Behandlung von Volksanregungen im Einwohnerrat gelten sinngemäss die Bestimmungen über die Motion (§ 36).
+<sup>4</sup> Für die Behandlung von Volksanregungen im Plenum gelten sinngemäss die Bestimmungen über die Motion (§ 36).
 
 #### § 19
 
@@ -277,9 +287,9 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Präsenzkontrolle, Stimmenzählende, Traktandenliste**
 
-<sup>1</sup> Die Ratssekretärin oder der Ratssekretär stellt zu Beginn der Sitzung die Präsenz der Ratsmitglieder fest und gibt Entschuldigungen bekannt.
+<sup>1</sup> Die Präsidentin oder der Präsident stellt zu Beginn der Sitzung die Präsenz der Ratsmitglieder fest und gibt Entschuldigungen bekannt.
 
-<sup>2</sup> Die Präsidentin oder der Präsident bezeichnet bei Bedarf zwei Mitglieder als Stimmenzählende. Diese stehen unter der Aufsicht eines Mitglieds des Ratsbüros. Für Wahlen kann die Präsidentin oder der Präsident weitere Stimmenzählende bezeichnen.
+<sup>2</sup> Die Präsidentin oder der Präsident bezeichnet bei Bedarf zwei Mitglieder als Stimmenzählende. Diese stehen unter der Aufsicht der Statthalterin oder des Statthalters. Für Wahlen kann die Präsidentin oder der Präsident weitere Stimmenzählende bezeichnen.
 
 <sup>3</sup> Der Einwohnerrat bereinigt sodann die Traktandenliste.
 
@@ -289,7 +299,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>1</sup> Bei der Behandlung einer Vorlage wird zuerst darüber beraten, ob auf sie einzutreten sei. Nichteintreten bedeutet Ablehnung.
 
-<sup>2</sup> Nichteintreten ist ausgeschlossen bei der Behandlung von Volksinitiativen, Volksanregungen und Petitionen sowie von Leistungsaufträgen, Budget, Rechnung, Geschäftsbericht des Gemeinderats und periodischen Leistungs- und Rechenschaftsberichten in den einzelnen Politikbereichen.
+<sup>2</sup> Nichteintreten ist ausgeschlossen bei der Behandlung von Volksinitiativen, Volksanregungen und Petitionen sowie der Budgetkredite und des Jahresberichts.
 
 <sup>3</sup> Jede Fraktion kann sich in der Eintretensdebatte mindestens einmal äussern.
 
@@ -307,7 +317,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Zweite Lesung**
 
-<sup>1</sup> Bei der Beratung einer Ordnung oder eines Leistungsauftrags wird frühestens in der folgenden Sitzung eine zweite Lesung durchgeführt, sofern nicht zwei Drittel der im Saal anwesenden Mitglieder einem Antrag auf Verzicht auf zweite Lesung zustimmen.
+<sup>1</sup> Bei der Beratung einer Ordnung wird frühestens in der folgenden Sitzung eine zweite Lesung durchgeführt, sofern nicht zwei Drittel der im Saal anwesenden Mitglieder einem Antrag auf Verzicht auf zweite Lesung zustimmen.
 
 #### § 28
 
@@ -403,11 +413,11 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>3</sup> Der Einwohnerrat entscheidet über die Überweisung. Er kann eine Motion auch als Anzug überweisen. Wenn weder aus dem Rat noch seitens des Gemeinderats dagegen opponiert wird, gilt sie als überwiesen. Eine überwiesene Motion kann nicht mehr zurückgezogen werden.
 
-<sup>4</sup> Der Gemeinderat unterbreitet eine entsprechende Vorlage innert 12 Monaten. Diese Frist kann aufgrund eines Zwischenberichts um ein Jahr verlängert werden.
+<sup>4</sup> Der Gemeinderat unterbreitet eine entsprechende Vorlage innert 12 Monaten. Diese Frist kann aufgrund eines Zwischenberichts einmalig um ein Jahr verlängert werden.
 
 <sup>5</sup> Tritt der Einwohnerrat auf die Vorlage ein, gilt die Motion als erfüllt und sie wird abgeschrieben.
 
-<sup>6</sup> Der Gemeinderat berichtet jedes Jahr mit dem Geschäftsbericht über nicht erledigte Motionen.
+<sup>6</sup> Der Gemeinderat berichtet jedes Jahr mit dem Jahresbericht über nicht erledigte Motionen.
 
 #### § 37
 
@@ -425,26 +435,26 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>6</sup> Ein Anzug wird durch Abschreibungsbeschluss erledigt. Lehnt der Rat einen entsprechenden Antrag ab, so ist innert Jahresfrist ein neuer Bericht mit Antrag vorzulegen.
 
-<sup>7</sup> Der Gemeinderat und die Kommissionen berichten jedes Jahr über nicht erledigte Anzüge.
+<sup>7</sup> Der Gemeinderat und die Kommissionen berichten jedes Jahr mit dem Jahresbericht über nicht erledigte Anzüge.
 
 #### § 38
 
 **Planungsauftrag**
 
-<sup>1</sup> Mit einem Planungsauftrag nimmt der Einwohnerrat Einfluss auf die beabsichtigte Wirkung und die wirkungsorientierte Aufgabenerfüllung, namentlich auf den Politikplan, auf die Leistungsaufträge, auf die Globalkredite sowie auf Menge und Qualität der Leistungen.
+<sup>1</sup> Mit einem Planungsauftrag nimmt der Einwohnerrat Einfluss auf die mittelfristige Planung im Aufgaben- und Finanzplan.
 
-<sup>2</sup> Der Planungsauftrag verpflichtet den Gemeinderat, entweder
+<sup>2</sup> Ein Planungsauftrag muss schriftlich und durch mindestens ein Mitglied des Einwohnerrats oder durch eine Kommission unterzeichnet spätestens am zwanzigsten Tag vor der nächsten Sitzung bis 12 Uhr beim Ratsdienst eingetroffen sein. Er wird zusammen mit der Stellungnahme des Gemeinderats für die übernächste Einwohnerratssitzung traktandiert. Planungsaufträge, welche bis zum 31. Januar um 12 Uhr beim Ratsdienst eingetroffen sind, werden für die Märzsitzung des Einwohnerrats traktandiert.
 
-- a) dem Einwohnerrat eine Vorlage zu einem Geschäft zu unterbreiten, welches in die Zuständigkeit des Einwohnerrats fällt, oder
-- b) zu prüfen und zu berichten, ob eine Massnahme im Zuständigkeitsbereich des Gemeinderats zu treffen sei.
+- a) …
+- b) …
 
-<sup>3</sup> Ein Planungsauftrag muss schriftlich und durch mindestens ein Mitglied des Einwohnerrats oder durch eine Kommission unterzeichnet spätestens am zwanzigsten Tag vor der nächsten Sitzung bis 12 Uhr beim Ratsdienst eingetroffen sein. Er wird zusammen mit der Stellungnahme des Gemeinderats für die übernächste Einwohnerratssitzung traktandiert.
+<sup>3</sup> Der Einwohnerrat entscheidet über die Überweisung. Er kann den Planungsauftrag abändern.
 
-<sup>4</sup> Der Einwohnerrat entscheidet über die Überweisung. Er kann den Planungsauftrag abändern und, falls nicht bereits der eingereichte Auftrag eine Frist enthält, dem Gemeinderat eine angemessene Frist zur Erledigung setzen. Der Gemeinderat kann zum Auftrag Stellung nehmen und Anträge stellen.
+<sup>4</sup> Damit der Planungsauftrag im nächsten Aufgaben- und Finanzplan berücksichtigt werden kann, muss er spätestens Ende März überwiesen werden. Der Einwohnerrat führt im März zwingend eine Sitzung durch.
 
-<sup>5</sup> Der Gemeinderat unterbreitet dem Einwohnerrat innert der gesetzten Frist je nach Inhalt des Planungsauftrags die verlangte Vorlage oder einen Bericht über das Ergebnis seiner Prüfung, in dem er gegebenenfalls auch darlegt, aus welchen Gründen er dem Begehren nicht folgen will. Die Frist für die Erfüllung des Planungsauftrags kann aufgrund eines Zwischenberichts verlängert werden.
+<sup>5</sup> Der Planungsauftrag verpflichtet den Gemeinderat, die Planung im Aufgaben- und Finanzplan anzupassen und darin Bericht zu erstatten, wie der Planungsauftrag umgesetzt wurde.
 
-<sup>6</sup> Der Planungsauftrag gilt als erledigt, wenn der Gemeinderat dem Einwohnerrat die Vorlage unterbreitet oder über das Ergebnis seiner Prüfung berichtet. Der Einwohnerrat entscheidet, ob er den Planungsauftrag abschreiben oder stehen lassen will.
+<sup>6</sup> Der Einwohnerrat entscheidet, ob er den Planungsauftrag abschreiben oder stehen lassen will.
 
 #### § 39
 
@@ -494,15 +504,15 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Geschäftsprüfungskommission**
 
-<sup>1</sup> Die Geschäftsprüfungskommission besteht aus sieben Mitgliedern. Sie wählt für zwei Amtsjahre ihre Präsidentin oder ihren Präsidenten und ihre Vizepräsidentin oder ihren Vizepräsidenten. Eine unmittelbare Wiederwahl in dasselbe Amt ist nicht möglich.
+<sup>1</sup> Die Geschäftsprüfungskommission besteht aus mindestens sieben Mitgliedern.
 
 <sup>2</sup> Die Geschäftsprüfungskommission unterstützt den Einwohnerrat in der Oberaufsicht über die gesamte Gemeindeverwaltung.
 
-<sup>3</sup> Sie prüft die Tätigkeit von Gemeinderat und Verwaltung im Allgemeinen und würdigt zuhanden des Einwohnerrats das Ergebnis der Rechnungsprüfung und den Geschäftsbericht. Sie überwacht insbesondere
+<sup>3</sup> Sie prüft die Tätigkeit von Gemeinderat und Verwaltung im Allgemeinen und hat insbesondere folgende Aufgaben:
 
-- a) die richtige Anwendung der gesetzlichen Vorschriften;
-- b) die allgemeine Handhabung der Leistungs- und Kostenerfassung und des Berichtswesens;
-- c) den ordnungsgemässen Vollzug der Beschlüsse des Einwohnerrats.
+- a) sie überwacht die richtige Anwendung der gesetzlichen Vorschriften sowie den ordnungsgemässen Vollzug der Beschlüsse des Einwohnerrats und führt zu diesem Zweck Erhebungen durch;
+- b) sie prüft den Jahresbericht aus Sicht der Geschäftstätigkeit und auf die Übereinstimmung mit den Strategien und Zielsetzungen.
+- c) …
 
 <sup>4</sup> Der Geschäftsprüfungskommission steht das Recht auf Akteneinsicht zu, soweit diese zur Erfüllung ihrer Aufgabe notwendig ist. Sie trifft Vorkehrungen zum Geheimnisschutz.
 
@@ -512,11 +522,31 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 #### § 43a
 
-**Finanzkoordinationskommission**
+**Finanzkommission**
 
-<sup>1</sup> Die Finanzkoordinationskommission besteht aus der Statthalterin oder dem Statthalter des Einwohnerrats als Vorsitz sowie den Präsidentinnen oder Präsidenten der Geschäftsprüfungskommission und der Sachkommissionen. Die Kommissionspräsidien können sich durch die Vizepräsidentinnen oder Vizepräsidenten vertreten lassen.
+<sup>1</sup> Die Finanzkommission besteht in der Regel aus sieben bis elf Mitgliedern. Bei der Zusammensetzung der Kommission berücksichtigt der Einwohnerrat die Stärke der Fraktionen.
 
-<sup>2</sup> Die Finanzkoordinationskommission berät zuhanden des Einwohnerrats das jährliche Produktsummenbudget und den Steuerfuss sowie weitere finanzpolitische Fragen.
+<sup>2</sup> Der Finanzkommission obliegt die Aufsicht über den Finanzhaushalt der Gemeinde. Sie hat insbesondere folgende Aufgaben:
+
+- a) Prüfung, Berichterstattung und Antragsstellung an den Einwohnerrat:
+  - 1\. zum Aufgaben- und Finanzplan, Budget und Jahresbericht aus finanzieller Sicht,
+  - 2\. zu den finanziell orientierten Entwicklungszielen,
+  - 3\. zu weiteren Geschäften und Berichten, soweit aus übergeordneter finanzpolitischer Sicht ein Bedarf besteht;
+- b) Diskussion der Finanzstrategie und der Planungsrichtlinien und Unterbreitung von Empfehlungen an den Gemeinderat.
+
+#### § 43b
+
+**Präsidien der Geschäftsprüfungskommission und der Finanzkommission**
+
+<sup>1</sup> Der Einwohnerrat bestimmt die Präsidien der Geschäftsprüfungskommission und der Finanzkommission.
+
+<sup>2</sup> Die Präsidien der Geschäftsprüfungskommission und der Finanzkommission dürfen nicht der gleichen Fraktion angehören.
+
+#### § 43c
+
+**Aufgaben- und Finanzplan sowie Jahresbericht**
+
+<sup>1</sup> Der Aufgaben- und Finanzplan muss spätestens am 1. Oktober im Besitz der Präsidien der Finanzkommission und der Geschäftsprüfungskommission sein; der Jahresbericht spätestens am 30. April.
 
 #### § 44
 
@@ -538,9 +568,9 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Allgemeines**
 
-<sup>1</sup> Der Einwohnerrat bestellt für die Behandlung und Vorberatung von Geschäften der verschiedenen Politikbereiche Sachkommissionen.
+<sup>1</sup> Der Einwohnerrat bestellt Sachkommissionen für die Behandlung und Vorberatung von Geschäften aus bestimmten Sachbereichen.
 
-<sup>2</sup> Er bestimmt in seiner konstituierenden Sitzung Anzahl und Grösse der Kommissionen und weist jeder Sachkommission einen oder mehrere Politikbereiche zu. Die Kommissionen sollen in der Regel nicht weniger als fünf und nicht mehr als neun Mitglieder aufweisen. Der Einwohnerrat kann die Zuweisung der Politikbereiche im Verlauf einer Amtsdauer verändern.
+<sup>2</sup> Er bestimmt in seiner konstituierenden Sitzung Anzahl, Grösse und Sachbereiche der Kommissionen. Sie bestehen in der Regel aus fünf bis neun Mitgliedern.
 
 <sup>3</sup> Die Sachkommissionen pflegen den Kontakt zum Gemeinderat und zur Gemeindeverwaltung. Sie laden in der Regel eine Vertretung des Gemeinderats und der Verwaltung zu ihren Sitzungen ein.
 
@@ -548,15 +578,21 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 #### § 47
 
-**Zuständigkeiten**
+**Aufgaben**
 
-<sup>1</sup> Die Sachkommissionen behandeln zu Handen des Einwohnerrats alle Fragen aus den ihnen zugewiesenen Politikbereichen, soweit diese in die Zuständigkeit des Einwohnerrats fallen.
+<sup>1</sup> Die Sachkommissionen haben in ihren Sachbereichen insbesondere folgende Aufgaben:
 
-<sup>2</sup> Zu ihren Aufgaben gehören insbesondere
+- a) sie beraten die ihnen überwiesenen Geschäfte und stellen dem Einwohnerrat dazu Antrag;
+- b) sie diskutieren die Entwürfe der Sachstrategien und können dem Gemeinderat dazu Empfehlungen unterbreiten;
+- c) sie beraten die Entwicklungsziele, die inhaltlichen und finanziellen Planungen sowie die Budgetkredite im Aufgaben- und Finanzplan und können dem Einwohnerrat dazu Antrag stellen;
+- d) sie können zum Jahresbericht, soweit er den Stand der Zielerreichung betrifft, einen Bericht verfassen;
+- e) sie können parlamentarische Vorstösse einreichen.
 
-- a) die Vorberatung der Leistungsaufträge zu Handen des Rats
-- b) die Antragstellung betreffend Erlass und Änderung von Leistungsaufträgen
-- c) die Vorberatung der Verpflichtungskredite
+<sup>2</sup> Zu ihren Aufgaben gehören insbesondere:
+
+- a) die Vorberatung der Leistungsaufträge zu Handen des Rats;
+- b) die Antragstellung betreffend Erlass und Änderung von Leistungsaufträgen;
+- c) die Vorberatung der Verpflichtungskredite;
 - d) die Wirkungskontrolle anhand der periodischen Leistungsberichte.
 
 <sup>3</sup> Die Sachkommissionen können innerhalb ihres Aufgabenbereichs von sich aus Themen aufgreifen und parlamentarische Vorstösse einreichen.
@@ -607,17 +643,17 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 <sup>1</sup> Der Einwohnerrat wählt in der konstituierenden Sitzung auf die gesamte Amtsdauer von vier Jahren die Mitglieder der ständigen Kommissionen sowie allfällige Delegierte in andere Gremien.
 
-<sup>2</sup> Die Zusammensetzung der Finanzkoordinationskommission richtet sich nach § 43a.
+<sup>2</sup> Die Zusammensetzung der Finanzkommission richtet sich nach § 43a.
 
 <sup>3</sup> Bei der Zusammensetzung der Kommissionen berücksichtigt der Einwohnerrat, soweit nicht besondere Gründe vorliegen, die Stärke der Fraktionen.
 
-<sup>4</sup> Falls ein Mitglied einer Sachkommission, der Wahlprüfungskommission, der Kommission für Volksanregungen und Petitionen oder einer Spezialkommission aus persönlichen oder beruflichen Gründen länger als zwei Monate verhindert ist, an der Ratstätigkeit teilzunehmen, kann die Fraktion eine Stellvertretung bezeichnen. Die Dauer der Abwesenheit und die Stellvertretung sind dem Einwohnerrat schriftlich mitzuteilen. Die Regelung gilt ab diesem Datum. Dauert die Stellvertretung länger als sechs Monate, so muss der Einwohnerrat die Stellvertretung genehmigen.
+<sup>4</sup> Falls ein Mitglied der Finanzkommission, einer Sachkommission, der Wahlprüfungskommission, der Kommission für Volksanregungen und Petitionen oder einer Spezialkommission aus persönlichen oder beruflichen Gründen länger als zwei Monate verhindert ist, an der Ratstätigkeit teilzunehmen, kann die Fraktion eine Stellvertretung bezeichnen. Die Dauer der Abwesenheit und die Stellvertretung sind dem Einwohnerrat schriftlich mitzuteilen. Die Regelung gilt ab diesem Datum. Dauert die Stellvertretung länger als sechs Monate, so muss der Einwohnerrat die Stellvertretung genehmigen.
 
 #### § 51
 
 **Konstituierung und Beschlussfähigkeit**
 
-<sup>1</sup> Die Kommissionen konstituieren sich selbst. Bis zur Wahl des Präsidiums führt ein Mitglied des Ratsdienstes den Vorsitz.
+<sup>1</sup> Die Wahl der Präsidien der Geschäftsprüfungskommission und der Finanzkommission richtet sich nach § 43b. Ansonsten konstituieren sich die Kommissionen selbst. Bis zur Wahl des Präsidiums führt ein Mitglied des Ratsdienstes den Vorsitz.
 
 <sup>2</sup> Die Kommissionen sind beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist. Die Präsidentin oder der Präsident stimmt mit und fällt bei Stimmengleichheit den Stichentscheid.
 
@@ -688,6 +724,16 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 #### § 58
 
 <sup>1</sup> In Verfahrensfragen kann der Einwohnerrat befristet von dieser Geschäftsordnung abweichen, sofern zwei Drittel der anwesenden Mitglieder zustimmen.
+
+#### § 58a
+
+**Übergangsbestimmungen zur Änderung vom 15. Dezember 2021**
+
+<sup>1</sup> Die bisherigen Regelungen über die Aufgaben des Einwohnerrats und seiner Kommissionen im Zusammenhang mit den Leistungsaufträge mit Globalkrediten und den Verpflichtungskrediten gelten weiterhin im ersten Jahr des Inkrafttretens der Änderung.
+
+<sup>2</sup> Die bisherigen Regelungen über die Aufgaben des Einwohnerrats und seiner Kommissionen beim Geschäftsbericht gelten weiterhin in den ersten beiden Jahren des Inkrafttretens.
+
+<sup>3</sup> Die Aufgaben der Kommissionen werden von den nach dem neuen Recht gebildeten Kommissionen wahrgenommen. Die Aufgaben der Finanzkoordinationskommission übernimmt die Finanzkommission.
 
 #### § 59
 
