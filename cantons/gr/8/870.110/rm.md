@@ -5,12 +5,12 @@ title: Ordinaziun tar la lescha introductiva tar la lescha federala davart il tr
 short: ORtLItLTV
 language: rm
 version: 2023-01-01
-corrected: 2022-10-26
+corrected: 2022-11-23
 version_adopted: 2022-11-22
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3243/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3272/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -186,8 +186,8 @@ relaschada da la regenza ils 8 da december 2008
 
 <sup>1</sup> La taglia da traffic vegn reducida:
 
-- a) per 60 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 105 g/km (tenor NEDC[^15-1]) respectivamain 125 g/km (tenor WLTP[^15-2]);
-- b) per 80 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 90 g/km (tenor NEDC) respectivamain 110 g/km (tenor WLTP);
+- a) per 60 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 95 g/km (tenor NEDC[^15-1]) respectivamain 110 g/km (tenor WLTP[^15-2]);
+- b) per 80 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 dad 80 g/km (tenor NEDC) respectivamain 100 g/km (tenor WLTP);
 - c) per 80 pertschient per vehichels a motor grevs cun il code d'emissiun mintgamai il pli actual ch'è da survegnir sin il martgà svizzer e che ademplescha la classa EURO la pli severa.
 
 <sup>2</sup> Ultra da quai na dastga la svapur da pulvra fina betg surpassar 0,01 g/km tar vehichels a motor levs tenor l'alinea 1 cun motors da diesel.

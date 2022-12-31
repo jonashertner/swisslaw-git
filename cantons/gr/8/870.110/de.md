@@ -5,12 +5,12 @@ title: Verordnung zum Einführungsgesetz zum Bundesgesetz über den Strassenverk
 short: RVzEGzSVG
 language: de
 version: 2023-01-01
-corrected: 2022-10-26
+corrected: 2022-11-23
 version_adopted: 2022-11-22
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3243/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3272/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -186,8 +186,8 @@ von der Regierung erlassen am 8. Dezember 2008
 
 <sup>1</sup> Die Verkehrssteuer wird ermässigt:
 
-- a) um 60 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 105 g/km (nach NEFZ[^15-1]) beziehungsweise 125 g/km (nach WLTP[^15-2]);
-- b) um 80 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 90 g/km (nach NEFZ) beziehungsweise 110 g/km (nach WLTP);
+- a) um 60 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 95 g/km (nach NEFZ[^15-1]) beziehungsweise 110 g/km (nach WLTP[^15-2]);
+- b) um 80 Prozent für leichte Motorfahrzeuge mit einem maximalen CO2-Ausstoss von 80 g/km (nach NEFZ) beziehungsweise 100 g/km (nach WLTP);
 - c) um 80 Prozent für schwere Motorfahrzeuge des jeweils aktuellsten auf dem Schweizer Markt erhältlichen Emissionscodes der strengsten EURO-Klasse.
 
 <sup>2</sup> Leichte Motorfahrzeuge gemäss Absatz 1 mit Dieselmotoren dürfen überdies einen Feinstaubausstoss von 0.01 g/km nicht überschreiten.

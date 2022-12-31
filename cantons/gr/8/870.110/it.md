@@ -5,12 +5,12 @@ title: "Ordinanza della legge d'applicazione della legge federale sulla circolaz
 short: OLALCStr
 language: it
 version: 2023-01-01
-corrected: 2022-10-26
+corrected: 2022-11-23
 version_adopted: 2022-11-22
 adopted: 2008-12-08
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/870.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3243/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3272/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -186,8 +186,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> L'imposta di circolazione viene ridotta:
 
-- a) del 60 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 105 g/km (secondo il NEDC[^15-1]) o di 125 g/km (secondo la WLTP[^15-2]);
-- b) dell'80 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 90 g/km (secondo il NEDC) o di 110 g/km (secondo la WLTP);
+- a) del 60 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 95 g/km (secondo il NEDC[^15-1]) o di 110 g/km (secondo la WLTP[^15-2]);
+- b) dell'80 per cento per veicoli a motore leggeri con emissioni massime di CO2 di 80 g/km (secondo il NEDC) o di 100 g/km (secondo la WLTP);
 - c) dell'80 per cento per veicoli a motore pesanti del codice emissioni più recente della classe EURO con i limiti più severi ottenibile sul mercato svizzero.
 
 <sup>2</sup> Veicoli a motore leggeri conformemente al capoverso 1 con motori diesel non possono inoltre superare emissioni di polveri fini di 0,01 g/km.
