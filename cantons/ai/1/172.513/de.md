@@ -4,13 +4,13 @@ number: "172.513"
 title: Gebührentarif
 short: GebT
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-09-13
 adopted: 2019-09-17
 in_force: 2020-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.513"
-pdf: "https://ai.clex.ch/api/de/versions/1983/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1983/pdf_file"
 
 (GebT)
 
-vom 17.09.2019 (Stand 01.01.2022)
+vom 17.09.2019 (Stand 01.01.2023)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -630,19 +630,27 @@ beschliesst:
 
 <sup>1</sup> Die amtlichen Reiseauslagen werden pauschal entschädigt (Art. 6 EichgebV) bei Eichungen und Kontrollen:
 
-- 1\. von Tanksäulen und Abgasmessgeräten: pro Betrieb mit — 25.--;
-- 2\. von anderen Messmitteln: pro Betrieb mit — 15.--.
+- 1\. von Tanksäulen
+  - a. je Betrieb mit 1 bis 2 Zapfhähnen mit — 45.--
+  - b. je Betrieb mit 3 bis 5 Zapfhähnen mit — 55.--
+  - c. je Betrieb mit 6 bis 9 Zapfhähnen mit — 65.--
+  - d. je Betrieb mit 10 oder mehr Zapfhähnen mit — 75.--
+- 2\. von Abgasmessgeräten
+  - a. je Betrieb mit 1 Gerät mit — 40.--
+  - b. je Betrieb mit 2 oder mehr Geräten mit — 55.--
+  - c. Graufilterzuschlag — 40.--
+- 3\. von anderen Messmitteln: je Betrieb mit — 15.--
 
 <sup>2</sup> Die amtlichen Auslagen im Eichwesen für die Reise und für den Transport von Gewichten zur Eichung und die Kontrollen von Waagen mit einer Wiegefähigkeit bis 2000 kg werden pauschal entschädigt. Sind in einem Betrieb mehrere Waagen zu eichen, wird die Pauschale für die Waage mit der höchsten Wiegefähigkeit erhoben und für jede weitere Waage ein Zuschlag von 10% der für sie gültigen Pauschale. Die Pauschale beträgt bei Wiegefähigkeit:
 
-- 1\. bis 20 kg — 15.--
-- 2\. 20 kg bis 50 kg — 19.--
-- 3\. 50 kg bis 100 kg — 25.--
-- 4\. 100 kg bis 200 kg — 35.--
-- 5\. 200 kg bis 500 kg — 40.--
-- 6\. 500 kg bis 1000 kg — 51.--
-- 7\. 1000 kg bis 1500 kg — 62.--
-- 8\. 1500 kg bis 2000 kg — 78.--
+- 1\. bis 20 kg — 22.--
+- 2\. 20 kg bis 50 kg — 28.--
+- 3\. 50 kg bis 100 kg — 37.--
+- 4\. 100 kg bis 200 kg — 52.--
+- 5\. 200 kg bis 500 kg — 60.--
+- 6\. 500 kg bis 1000 kg — 96.--
+- 7\. 1000 kg bis 1500 kg — 113.--
+- 8\. 1500 kg bis 2000 kg — 137.--
 
 <sup>3</sup> Die übrigen amtlichen Auslagen im Eichwesen werden nach Aufwand erhoben.
 
