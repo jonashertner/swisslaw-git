@@ -4,11 +4,10 @@ number: "813.16"
 title: Gesetz über das Kantonsspital Winterthur (KSWG)
 short: KSWG
 language: de
-version: "2019-01-01"
-nachtrag: "104"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2005-09-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_16-2005_09_19-2007_01_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_16-2005_09_19-2007_01_01-119.html"
 text: pdf
 ---
 
@@ -57,7 +56,7 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 **1**
 
-- 1\. 4. 19 - 104 § 6. Das Kantonsspital Winterthur kann mit Genehmigung des Regierungsrates und unter Berücksichtigung von § 3 Abs. 3[^2-1]
+- 1\. 1. 23 - 119 § 6. Das Kantonsspital Winterthur kann mit Genehmigung des Regierungsrates und unter Berücksichtigung von § 3 Abs. 3[^2-1]
 
 **Beteiligung und Auslagerung**
 
@@ -127,7 +126,7 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 - 10\. überprüft die Eigentümerstrategie mindestens alle vier Jahre und führt sie nach.
 
-[^hIKantonaleBehörde-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019. 1. 4. 19 - 104 9
+[^hIKantonaleBehörde-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019.
 
 ### II. Organe des Kantonsspitals Winterthur
 
@@ -151,7 +150,7 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Spitalrat 1. schliesst Leistungsvereinbarungen mit den zuständigen Direktionen des Regierungsrates ab,
 
@@ -181,7 +180,7 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 - 15\. sorgt für ein angemessenes Risikomanagement und ein internes Kontrollsystem.
 
-[^9-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019. 1. 4. 19 - 104 9
+[^9-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019.
 [^9-2]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
 
 #### § 11
@@ -213,21 +212,38 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 <sup>2</sup> Für das öffentlich-rechtlich angestellte Personal gelten die für das Staatspersonal anwendbaren Bestimmungen. Das Personalreglement kann von den für das Staatspersonal geltenden Bestimmungen abweichen, soweit dies aus betrieblichen Gründen erforderlich ist.
 
-**Ärztliche Zusatzhonorare**
+<sup>3</sup> Für das ärztliche Personal ab Stufe Oberärztin und Oberarzt (ärztliches Kader) kann das Personalreglement[^12-1] zudem abweichende Regelungen betreffend Vergütung und Beendigung des Arbeitsverhältnisses vorsehen.[^12-2]
 
-§ 13.[^12-1] Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten sich nach dem Gesetz über die ärztlichen Zusatzhonorare[^12-2].
+**Vergütung des ärztlichen Kaders**
 
-[^12-1]: Fassung gemäss G vom 14. Januar 2008 (OS 63, 201; ABl 2007, 1607). In Kraft seit 1. Januar 2008.
-[^12-2]: LS 813.14.
-[^12-3]: Fassung gemäss G über die Nachführung des Personalrechts im Hinblick auf die Verselbstständigung der Versicherungskasse für das Staatspersonal vom 20. Oktober 2014 (OS 70, 83; ABl 2013-12-27). In Kraft seit 1. Mai 2015.
+§ 13.[^12-3] <sup>1</sup> Das Personalreglement[^12-1] legt die höchstens zulässige Gesamtvergütung der Angehörigen des ärztlichen Kaders fest. Die Gesamtvergütung darf 1 Mio. Franken pro Jahr nicht übersteigen.
+
+<sup>2</sup> Die Vergütung kann einen variablen Bestandteil enthalten. Dieser beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Der variable Bestandteil wird durch folgende Faktoren bestimmt, die höchstens zum genannten Anteil berücksichtigt werden können:
+
+- a. Qualität des Spitals und der Klinik bis zu 60%,
+
+- b. wirtschaftlicher Erfolg des Spitals und der Klinik bis zu 60%,
+
+- c. individuelle Leistung der oder des Angestellten bis zu 60%.
+
+[^12-1]: LS 813.162.
+[^12-2]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^12-3]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 9
+[^12-4]: Fassung gemäss G über die Nachführung des Personalrechts im Hinblick auf die Verselbstständigung der Versicherungskasse für das Staatspersonal vom 20. Oktober 2014 (OS 70, 83; ABl 2013-12-27). In Kraft seit 1. Mai 2015.
 
 #### § 14
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Das Personal wird bei der BVK Personalvorsorge des Kantons Zürich versichert.[^12-3]
+<sup>1</sup> Das Personal wird bei der BVK Personalvorsorge des Kantons Zürich versichert.[^12-4]
 
 <sup>2</sup> Die Assistenz- und Oberärzte sowie die Assistenten und Oberassistenten werden in der Regel bei der Vorsorgestiftung Verband Schweizerischer Assistenz- und Oberärzte (VSAO) versichert.
+
+**5**
+
+- 1\. 1. 23 - 119
 
 ### D. Mittel
 
@@ -237,19 +253,28 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 <sup>2</sup> Der Kanton kann dem Kantonsspital Winterthur für bestimmte Zwecke weitere Mittel zur Verfügung stellen. Sie gelten als neue Ausgabe gemäss § 37 Abs. 1 des Gesetzes über Controlling und Rechnungslegung vom 9. Januar 2006[^hDMittel-2].
 
-§ 16.[^hDMittel-3]
+**Erträge aus ärztlichen Zusatzleistungen**
 
-**5**
+§ 16.[^hDMittel-3],[^hDMittel-4] <sup>1</sup> Erträge aus ärztlichen Zusatzleistungen für Patientinnen und Patienten fliessen in die Betriebsrechnung des Spitals.
 
-- 1\. 4. 19 - 104 § 17. Die Erfüllung weiterer Leistungen gemäss § 3 Abs. 3 finanziert das Kantonsspital Winterthur aus Eigen- oder Drittmitteln.
+<sup>2</sup> 5% bis 10% dieser Erträge werden für Einmalzulagen des nichtärztlichen und des nicht zum ärztlichen Kader gehörenden Personals eingesetzt.
+
+[^hDMittel-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019.
+[^hDMittel-2]: LS 611.
+[^hDMittel-3]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
+[^hDMittel-4]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+
+#### § 17
 
 **Finanzierung weiterer Leistungen10**
 
-§§ 18–20.[^hDMittel-3]
+Die Erfüllung weiterer Leistungen gemäss § 3 Abs. 3 finanziert das Kantonsspital Winterthur aus Eigen- oder Drittmitteln.
+
+§§ 18–20.[^17-1]
 
 **Baurechte**
 
-§ 21.[^hDMittel-1] <sup>1</sup> Der Kanton räumt dem Kantonsspital Winterthur an den von ihm für die Erfüllung des gesetzlichen Zweckes gemäss § 2 benötigten Grundstücken Baurechte ein.
+§ 21.[^17-2] <sup>1</sup> Der Kanton räumt dem Kantonsspital Winterthur an den von ihm für die Erfüllung des gesetzlichen Zweckes gemäss § 2 benötigten Grundstücken Baurechte ein.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die betroffenen Grundstücke und regelt die Einzelheiten der Baurechte vertraglich.
 
@@ -261,19 +286,18 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 **Strategische Koordination**
 
-§ 22.[^hDMittel-3], <sup>14</sup> Das Kantonsspital Winterthur koordiniert die Planung seiner Immobilien mit jener des Regierungsrates.
+§ 22.[^17-1], <sup>14</sup> Das Kantonsspital Winterthur koordiniert die Planung seiner Immobilien mit jener des Regierungsrates.
 
 **Fremdmittel**
 
-§ 23.[^hDMittel-1] Das Kantonsspital Winterthur darf in dem in der Eigentümerstrategie festgelegten Rahmen Fremdmittel aufnehmen.
+§ 23.[^17-2] Das Kantonsspital Winterthur darf in dem in der Eigentümerstrategie festgelegten Rahmen Fremdmittel aufnehmen.
 
-[^hDMittel-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019. 1. 4. 19 - 104 9
-[^hDMittel-2]: LS 611.
-[^hDMittel-3]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
+[^17-1]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
+[^17-2]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019.
 
 ### E. Rechnungslegung und Rechnungsführung
 
-[^hDMittel-1]
+[^17-2]
 
 **Rechnungslegung**
 
@@ -283,7 +307,7 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 § 25.[^hERechnungslegungu-1] Das Kantonsspital Winterthur erstellt jährlich eine mittelfristige Planerfolgsrechnung und eine mittelfristige Planbilanz und informiert den Regierungsrat darüber.
 
-[^hERechnungslegungu-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019. 1. 4. 19 - 104 9
+[^hERechnungslegungu-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019.
 
 #### § 26
 
@@ -291,7 +315,7 @@ Das Kantonsspital Winterthur 1. dient der überregionalen medizinischen Versorgu
 
 Für jeden Drittmittelkredit wird eine separate Rechnung geführt.
 
-[^26-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019. 1. 4. 19 - 104 9
+[^26-1]: Fassung gemäss G vom 29. Oktober 2018 (OS 74, 75; ABl 2017-10-06). In Kraft seit 1. Januar 2019.
 
 #### § 27
 
@@ -327,6 +351,10 @@ Anordnungen des Spitalrates können mit Beschwerde beim Verwaltungsgericht angef
 
 <sup>3</sup> Im Übrigen richtet sich das Verfahren nach den Vorschriften des Verwaltungsrechtspflegegesetzes[^30-1], unter Vorbehalt der Bestimmungen der Patientenrechtsgesetzgebung[^30-2].
 
+**7**
+
+- 1\. 1. 23 - 119
+
 [^30-1]: LS 175.2.
 [^30-2]: LS 813.13.
 
@@ -341,10 +369,6 @@ Anordnungen des Spitalrates können mit Beschwerde beim Verwaltungsgericht angef
 - 2\. gehen die Rechte und Pflichten des heutigen Kantonsspitals Winterthur, insbesondere das Eigentum an den Betriebseinrichtungen, auf die selbstständige öffentlich-rechtliche Anstalt über, vorbehalten bleibt das Eigentum an den Liegenschaften,
 
 - 3\. gehen die Rechtsverhältnisse des heutigen Kantonsspitals Winterthur, insbesondere die Anstellungsverhältnisse, auf die selbstständige öffentlich-rechtliche Anstalt über.
-
-**7**
-
-- 1\. 4. 19 - 104
 
 <sup>2</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes 1. legt der Regierungsrat die Eröffnungsbilanz fest,
 
@@ -375,6 +399,10 @@ II. <sup>1</sup> Auf den Zeitpunkt der Übertragung der Bauten und Anlagen auf d
 III. <sup>1</sup> Das Darlehen gemäss Ziff. II Abs. 2 wird zum internen Zinssatz des Kantons verzinst.
 
 <sup>2</sup> Die jährliche Amortisation des Darlehens hat mindestens dem Wertverlust der Bauten und Anlagen bei Anwendung branchenüblicher Abschreibungssätze zu entsprechen. Darüber hinausgehende Amortisationen sind unter Einhaltung einer Kündigungsfrist von 30 Tagen auf Ende eines Monats möglich.
+
+### Übergangsbestimmung zur Änderung vom 5. Juli 2021 (OS 76, 612)
+
+Das Kantonsspital Winterthur führt das neue Anstellungs- und Vergütungssystem gemäss §§ 12 Abs. 3, 13 und 16 kostenneutral ein.
 
 ## Weitere Fussnoten
 
