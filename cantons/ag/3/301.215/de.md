@@ -4,13 +4,13 @@ number: "301.215"
 title: Pflegeverordnung
 short: PflV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-15
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-21
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3148/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3148/pdf_file"
 
 (PflV)
 
-Vom 21.11.2012 (Stand 01.01.2022)
+Vom 21.11.2012 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Aargau,
 
