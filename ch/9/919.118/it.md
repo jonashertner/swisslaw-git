@@ -3,26 +3,27 @@ sr: "919.118"
 title: "Ordinanza del 7 dicembre 1998 concernente l'analisi della sostenibilità in agricoltura"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: it
-version: 1999-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/19990101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-19990101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/19990101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-58-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’analisi della sostenibilità in agricoltura
 
-del 7 dicembre 1998 (Stato 1° gennaio 1999)
+del 7 dicembre 1998 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 185 capoverso 2 della legge sull’agricoltura[^ingress-1],
+visti gli articoli 6*a* capoverso 2, 6*b* capoverso 3 e 185 capoverso 2 della legge del 29 aprile 1998[^ingress-1] sull’agricoltura (LAgr),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -30,11 +31,19 @@ ordina:
 
 **Oggetto e campo d’applicazione**
 
-<sup>1</sup> La presente ordinanza disciplina l’analisi della politica agricola e delle prestazioni dell’agricoltura dal profilo della sostenibilità.
+<sup>1</sup>
+
+La presente ordinanza disciplina:
+
+- a. l’analisi della politica agricola e delle prestazioni dell’agricoltura dal profilo della sostenibilità;
+- b. gli obiettivi di riduzione per le perdite di sostanze nutritive; e
+- c. i metodi per il calcolo delle perdite di azoto e di fosforo nonché dei rischi associati all’uso di prodotti fitosanitari.[^1-1]
 
 <sup>2</sup> L’analisi considera le ripercussioni economiche, ecologiche e sociali della politica agricola e delle prestazioni dell’agricoltura. È effettuata periodicamente.
 
 <sup>3</sup> La verifica e l’analisi dei provvedimenti di politica agricola da parte di istituti di ricerca pubblici e da parte di terzi sono indennizzate entro i limiti di credito approvati.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 #### Art. 2
 
@@ -147,6 +156,50 @@ Per l’analisi ecologica l’Ufficio federale si fonda sui seguenti indicatori:
 <sup>1</sup> L’Ufficio federale analizza l’evoluzione delle strutture agricole e delle condizioni sociali nell’agricoltura considerando in particolare i compiti di interesse generale che essa è chiamata a svolgere.
 
 <sup>2</sup> Osserva e analizza l’evoluzione dei relativi indicatori.
+
+## Sezione 3*a*: Perdite di sostanze nutritive nell’agricoltura e rischi associati all’uso di prodotti fitosanitari
+
+[^sec3a-1]
+
+[^sec3a-1]: Introdotta dal n. I dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+
+#### Art. 10a
+
+**Obiettivo di riduzione per le perdite di azoto e di fosforo**
+
+Rispetto al valore medio degli anni 2014–2016, entro il 2030 le perdite sono ridotte come segue:
+
+- a. azoto: di almeno il 10 per cento;
+- b. fosforo: di almeno il 20 per cento.
+
+#### Art. 10b
+
+**Metodo per il calcolo delle perdite di azoto e di fosforo**
+
+Per calcolare le perdite di azoto e di fosforo di cui all’articolo 10*a* si utilizza un metodo di bilancio nazionale input-output per l’agricoltura svizzera. È determinante il metodo di calcolo descritto nella pubblicazione «Bilancio delle sostanze nutritive dell’agricoltura svizzera per gli anni 1975–2018»[^10b-1].
+
+[^10b-1]: Agroscope (2020): Bilancio delle sostanze nutritive dell’agricoltura svizzera per gli anni 1975–2018, capitolo 2 (Materiale e metodi). Agroscope Science N. 100 / 2020, consultabile sotto www. agroscope.admin.ch &gt; Pubblicazioni &gt; Agroscope Science.
+
+#### Art. 10c
+
+**Metodo per il calcolo dei rischi associati all’uso di prodotti fitosanitari**
+
+<sup>1</sup> I rischi di cui all’articolo 6*b* LAgr sono determinati addizionando i rischi correlati all’utilizzo dei singoli principi attivi.
+
+<sup>2</sup>
+
+Sono calcolati valori di rischio per ogni principio attivo. Il calcolo avviene come segue:
+
+- a. per le acque superficiali e per gli habitat seminaturali: in base alla quantità del principio attivo che durante l’applicazione può potenzialmente finire in tali ambienti e in base alla tossicità del principio attivo;
+- b. per le acque sotterranee: in base alla quantità dei metaboliti del principio attivo che durante l’applicazione può potenzialmente finire nelle acque sotterranee.
+
+<sup>3</sup>
+
+I rischi sono calcolati annualmente per principio attivo come segue:
+
+- a. per le acque superficiali: moltiplicando il valore di rischio per gli organismi acquatici per la superficie trattata e per il fattore d’esposizione dipendente dalle condizioni d’uso;
+- b. per gli habitat seminaturali: moltiplicando il valore di rischio per gli organismi non bersaglio per la superficie trattata e per il fattore d’esposizione dipendente dalle condizioni d’uso;
+- c. per le acque sotterranee: moltiplicando il valore di rischio correlato al potenziale carico di metaboliti nelle acque sotterranee per la superfice trattata.
 
 ## Sezione 4: Rapporto
 

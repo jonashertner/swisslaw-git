@@ -3,26 +3,27 @@ sr: "919.118"
 title: "Ordonnance du 7 décembre 1998 sur l'évaluation de la durabilité de l'agriculture"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/58"
 language: fr
-version: 1999-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/19990101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-19990101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/58/19990101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/58/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-58-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/58/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur l’évaluation de la durabilité de l’agriculture
 
-du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 1999)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 185, al. 2, de la loi sur l’agriculture[^ingress-1],
+vu les art. 6*a*, al. 2, 6*b*, al. 3, et 185, al. 2, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 ## Section 1 Dispositions générales
 
@@ -30,11 +31,19 @@ arrête:
 
 **Objet et champ d’application**
 
-<sup>1</sup> La présente ordonnance règle l’évaluation de la politique agricole et des prestations de l’agriculture sous l’angle de la durabilité.
+<sup>1</sup>
+
+La présente ordonnance règle:
+
+- a. l’évaluation de la politique agricole et des prestations de l’agriculture sous l’angle de la durabilité;
+- b. les objectifs de réduction des pertes d’éléments fertilisants, et
+- c. les méthodes de calcul des pertes d’azote et de phosphore et des risques liés à l’utilisation de produits phytosanitaires.[^1-1]
 
 <sup>2</sup> L’évaluation porte sur les implications économiques, écologiques et sociales de la politique agricole et des prestations de l’agriculture. Elle est effectuée périodiquement.
 
 <sup>3</sup> Les analyses et évaluations des mesures de politique agricole réalisées par des institutions publiques de recherches ou par des tiers sont financées dans les limites des crédits autorisés.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
 
 #### Art. 2
 
@@ -63,7 +72,7 @@ L’Office fédéral de l’agriculture (office) utilise à cet effet les instru
 
 <sup>3</sup> Il se fonde sur les évaluations effectuées par les stations de recherches agronomiques. Il peut s’assurer le concours d’autres services fédéraux ou organisations privées.
 
-## Section 2 Evaluation de la situation économique
+## Section 2 Évaluation de la situation économique
 
 #### Art. 3
 
@@ -79,7 +88,7 @@ L’office analyse l’évolution économique du secteur agricole en se basant e
 
 <sup>2</sup>
 
-A cet effet, il:
+À cet effet, il:
 
 - a. compare le revenu du travail paysan au salaire comparable;
 - b. examine l’évolution et la dispersion des indicateurs de productivité et de viabilité des exploitations agricoles.
@@ -106,7 +115,7 @@ A cet effet, il:
 
 #### Art. 7
 
-**Evaluation régionale**
+**Évaluation régionale**
 
 <sup>1</sup> L’office évalue la situation économique de l’agriculture selon les régions.
 
@@ -114,7 +123,7 @@ A cet effet, il:
 
 [^7-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
 
-## Section 3 Evaluation sous les aspects écologiques et sociaux
+## Section 3 Évaluation sous les aspects écologiques et sociaux
 
 #### Art. 8
 
@@ -142,11 +151,55 @@ L’office se base pour l’évaluation écologique notamment sur les indicateur
 
 #### Art. 10
 
-**Evaluation de la situation sociale**
+**Évaluation de la situation sociale**
 
 <sup>1</sup> L’office analyse l’évolution des structures de l’agriculture et de ses conditions sociales, notamment au regard des tâches d’intérêt général.
 
 <sup>2</sup> Il observe et analyse l’évolution d’indicateurs relatifs aux critères sociaux.
+
+## Section 3*a* Pertes d’éléments fertilisants dans l’agriculture et risques liés à l’utilisation de produits phytosanitaires
+
+[^sec3a-1]
+
+[^sec3a-1]: Introduite par le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 266](https://fedlex.data.admin.ch/eli/oc/2022/266)).
+
+#### Art. 10a
+
+**Objectif de réduction des pertes d’azote et de phosphore**
+
+D’ici à 2030, les pertes doivent être réduites comme suit par rapport à la valeur moyenne des années 2014 à 2016:
+
+- a. au moins 20 % pour l’azote;
+- b. au moins 20 % pour le phosphore.
+
+#### Art. 10b
+
+**Méthode de calcul des pertes d’azote et de phosphore**
+
+Les pertes d’azote et de phosphore visées à l’art. 10*a* sont calculées à l’aide d’une méthode nationale basée sur le bilan des intrants et des extrants pour l’agriculture suisse. La méthode déterminante est décrite dans la publication «Bilan de fumure de l’agriculture suisse pour les années 1975 à 2018»[^10b-1].
+
+[^10b-1]: Agroscope (2020): Bilan de fumure de l’agriculture suisse pour les années 1975 à 2018, chap. 2 (Matériel et méthodes). Agroscope Science n<sup>o</sup> 100 / 2020, disponible sous www.agroscope.admin.ch &gt; Publications &gt; Agroscope Science.
+
+#### Art. 10c
+
+**Méthode de calcul des risques liés à l’utilisation de produits phytosanitaires**
+
+<sup>1</sup> Les risques visés à l’art. 6*b* LAgr sont déterminés en additionnant les risques liés à l’usage des différentes substances actives.
+
+<sup>2</sup>
+
+Des scores de risque sont calculés pour chaque substance active. Ils se fondent sur les critères suivants:
+
+- a. concernant les eaux superficielles et les habitats proches de l’état naturel: sur la quantité de substance active qui peut parvenir dans l’environnement lors de l’utilisation et sur la toxicité de la substance active;
+- b. concernant les eaux souterraines: sur la quantité de métabolites de la substance active qui peut parvenir dans les eaux souterraines lors de l’utilisation.
+
+<sup>3</sup>
+
+Les risques sont calculés chaque année comme suit pour chaque substance active:
+
+- a. concernant les eaux superficielles: en multipliant le score de risque pour les organismes aquatiques par la surface traitée et par le facteur d’exposition lié aux conditions d’utilisation;
+- b. concernant les habitats proches de l’état naturel: en multipliant le score de risque pour les organismes non cibles par la surface traitée et par le facteur d’exposition lié aux conditions d’utilisation;
+- c. concernant les eaux souterraines: en multipliant le score de risque lié à la charge potentielle en métabolites dans les eaux souterraines par la surface traitée.
 
 ## Section 4 Rapport
 
