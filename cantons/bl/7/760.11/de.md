@@ -4,13 +4,12 @@ number: "760.11"
 title: Verordnung über die Feuerwehr
 short: FWV
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-08-27
+version: 2023-01-01
+version_adopted: 2023-01-10
 adopted: 2013-08-27
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/760.11"
-pdf: "https://bl.clex.ch/api/de/versions/83/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,15 @@ pdf: "https://bl.clex.ch/api/de/versions/83/pdf_file"
 
 (FWV)
 
-Vom 27.08.2013 (Stand 01.01.2014)
+Vom 27.08.2013 (Stand 01.01.2023)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 3, 14, 26 Absatz 2 sowie 35 Absatz 2 des Gesetzes vom 7. Februar 2013[^ingress-1] über die Feuerwehr (FWG), beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 38.237, SGS 760
+gestützt auf die §§ 2 Abs. 3, 14, 26 Abs. 2 sowie 35 Abs. 2 des Gesetzes über die Feuerwehr (FWG) vom 7. Februar 2013[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: [SGS 760](https://bl.clex.ch/data/760/de/art2)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -31,15 +34,15 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 
 
 **Regelungen der BGV (§ 2 Abs. 3, § 23 Abs. 1, § 31 Abs. 1 und § 38 Abs. 1 FWG)**
 
-<sup>1</sup> Die Verwaltungskommission der Basellandschaftlichen Gebäudeversicherung (kurz: BGV) erlässt die notwendigen Reglemente zum Vollzug der Feuerwehrgesetzgebung insbesondere über die Stützpunktfeuerwehren sowie über die Beiträge und den Kostenersatz an die Einwohnergemeinden und an die Betriebe.
+<sup>1</sup> Der Verwaltungsrat der Basellandschaftlichen Gebäudeversicherung («BGV») erlässt die notwendigen Reglemente zum Vollzug der Feuerwehrgesetzgebung, insbesondere über die Stützpunktfeuerwehren sowie über die Beiträge und den Kostenersatz an die Einwohnergemeinden und an die Betriebe.
 
-<sup>2</sup> Die Direktion der BGV legt die Vorgaben an die Feuerwehren der Einwohnergemeinden und der Betriebe in einem Regelwerk fest (kurz: Kommandoakten).
+<sup>2</sup> Die Geschäftsleitung der BGV legt die Vorgaben an die Feuerwehren der Einwohnergemeinden und der Betriebe in einem Regelwerk fest («Kommandoakten»).
 
 #### § 2
 
 **Verfügungen der BGV**
 
-<sup>1</sup> Verfügungen der BGV werden von deren Direktion erlassen.
+<sup>1</sup> Verfügungen der BGV werden von deren Geschäftsleitung erlassen.
 
 #### § 3
 
@@ -55,42 +58,42 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 
 
 <sup>1</sup> Der Grundeinsatz umfasst im Rahmen der Mittel gemäss § 5 folgende Aufgaben:
 
-- a. Einsatzleitung,
-- b. Absperrung und Einweisung,
-- c. Rettung von Menschen und Tieren,
-- d. Schutz von Umwelt und Sachen,
+- a. Einsatzleitung;
+- b. Absperrung und Einweisung;
+- c. Rettung von Menschen und Tieren;
+- d. Schutz von Umwelt und Sachen;
 - e. Abschluss des Einsatzes.
 
 <sup>2</sup> Er umfasst bei Brandereignissen zusätzlich:
 
-- a. Begrenzung des Brandes,
-- b. Löschen des Brandes,
+- a. Begrenzung des Brandes;
+- b. Löschen des Brandes;
 - c. Brandwache.
 
 #### § 5
 
 **Einsatzmittel**
 
-<sup>1</sup> Der Mannschaftsbestand für den Grundeinsatz umfasst mindestens 20 Feuerwehrangehörige, die den kantonalen Grundkurs absolviert haben. Davon müssen zudem mindestens 18 Atemschutz-, mindestens 10 Fahrer- und mindestens drei Einsatzleitungsausbildung aufweisen.
+<sup>1</sup> Der Mannschaftsbestand für den Grundeinsatz umfasst mindestens 20 Feuerwehrangehörige, die den kantonalen Grundkurs absolviert haben. Davon müssen zudem mindestens 18 Atemschutz-, mindestens 10 Fahrer- und mindestens 3 Einsatzleitungsausbildung aufweisen.
 
 <sup>2</sup> Er umfasst an Korpsmaterial:
 
-- a. ein Lösch- oder Hilfeleistungsfahrzeug sowie zwei weitere Fahrzeuge;
+- a. 1 Lösch- oder Hilfeleistungsfahrzeug sowie 2 weitere Fahrzeuge;
 - b. Rettungs-, Sanitäts-, Pionier-, Lösch- und ABC-Material, soweit dieses nicht auf dem Stützpunkt für den Ergänzungseinsatz vorgehalten ist;
-- c. mindestens acht Atemschutzgeräte;
-- d. mindestens ein Lüfter;
-- e. mindestens eine Motorspritze;
-- f. mindestens eine Wärmebildkamera;
+- c. mindestens 8 Atemschutzgeräte;
+- d. mindestens 1 Lüfter;
+- e. mindestens 1 Motorspritze;
+- f. mindestens 1 Wärmebildkamera;
 - g. Funk;
 - h. Einsatzpläne.
 
-<sup>3</sup> Betreiben mehrere Einwohnergemeinden die Feuerwehr gemeinsam, erhöht die Direktion der BGV die Zahl der Fahrzeuge gemäss Absatz 2 Buchstabe a, sofern die Gewährleistung des Grundeinsatzes oder die Erfüllung der Anforderungen gemäss § 7 Absatz 1 dies erfordert.
+<sup>3</sup> Betreiben mehrere Einwohnergemeinden die Feuerwehr gemeinsam, erhöht die Geschäftsleitung der BGV die Zahl der Fahrzeuge gemäss Abs. 2 Bst. a, sofern die Gewährleistung des Grundeinsatzes oder die Erfüllung der Anforderungen gemäss § 7 Abs. 1 dies erfordert.
 
 #### § 6
 
 **Beiträge und Finanzierung**
 
-<sup>1</sup> Die BGV leistet aufgrund von § 25 Absatz 3 FWG Beiträge an die Beschaffungskosten für das Korpsmaterial gemäss § 5 Absatz 2 bzw. 3.
+<sup>1</sup> Die BGV leistet aufgrund von § 25 Abs. 3 FWG Beiträge an die Beschaffungskosten für das Korpsmaterial gemäss § 5 Abs. 2 bzw. 3.
 
 <sup>2</sup> Die Einwohnergemeinden können weiteres Korpsmaterial auf eigene Kosten beschaffen.
 
@@ -100,13 +103,13 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 
 
 <sup>1</sup> Beim Grundeinsatz im Siedlungsgebiet müssen die Feuerwehren innert 10 Minuten seit ihrer Alarmierung mit dem Ersteinsatzfahrzeug und einem Ersteinsatztrupp am Einsatzort sein.
 
-<sup>2</sup> Eine längere Dauer als 10 Minuten ist nur bei besonderen Einsatzbedingungen wie Witterung, Strassenverhältnisse oder Paralleleinsätze zulässig.
+<sup>2</sup> Eine längere Dauer als 10 Minuten ist nur bei besonderen Einsatzbedingungen wie Witterung, Strassenverhältnissen oder Paralleleinsätzen zulässig.
 
 <sup>3</sup> Der Ersteinsatztrupp umfasst:
 
-- a. ein Einsatzleiter oder eine Einsatzleiterin,
-- b. sechs atemschutzausgebildete und -ausgerüstete Feuerwehrangehörige,
-- c. ein Fahrer oder eine Fahrerin.
+- a. 1 Einsatzleiter oder Einsatzleiterin;
+- b. 6 atemschutzausgebildete und -ausgerüstete Feuerwehrangehörige;
+- c. 1 Fahrer oder Fahrerin.
 
 ## 3 Weitere Bestimmungen
 
@@ -116,10 +119,10 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 
 
 <sup>1</sup> Als anerkannte Feuerwehrorganisation für die Erfüllung der Feuerwehrdienstpflicht gelten:
 
-- a. die Feuerwehren der basellandschaftlichen und der ausserkantonalen Gemeinden,
+- a. die Feuerwehren der basellandschaftlichen und der ausserkantonalen Gemeinden;
 - b. die Berufsfeuerwehr Basel-Stadt.
 
-<sup>2</sup> Die Direktion der BGV kann im Einzelfall weitere Feuerwehrorganisationen anerkennen, so insbesondere inner- und ausserkantonale Betriebsfeuerwehren.
+<sup>2</sup> Die Geschäftsleitung der BGV kann im Einzelfall weitere Feuerwehrorganisationen anerkennen, so insbesondere inner- und ausserkantonale Betriebsfeuerwehren.
 
 #### § 9
 
@@ -136,13 +139,13 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 
 
 **Löschwasser (§ 26 Abs. 2 FWG)**
 
-<sup>1</sup> Die Einwohnergemeinden stellen sicher, dass im Siedlungsgebiet Löschwasser in der Regel in Abständen von 150m - 250m verfügbar ist.
+<sup>1</sup> Die Einwohnergemeinden stellen sicher, dass im Siedlungsgebiet Löschwasser in der Regel in Abständen von 150 m–250 m verfügbar ist.
 
 #### § 11
 
 **Alarmierungspflicht der Betriebsfeuerwehren (§ 29 Abs. 2 FWG)**
 
-<sup>1</sup> Die Betriebsfeuerwehr hat die Alarmierung gemäss § 29 Absatz 2 FWG dann vorzunehmen, wenn das Ereignis oder eine seiner Auswirkungen ausserhalb des Betriebsareals wahrnehmbar ist.
+<sup>1</sup> Die Betriebsfeuerwehr hat die Alarmierung gemäss § 29 Abs. 2 FWG dann vorzunehmen, wenn das Ereignis oder eine seiner Auswirkungen ausserhalb des Betriebsareals wahrnehmbar ist.
 
 <sup>2</sup> Die Alarmierung hat unverzüglich zu erfolgen.
 
@@ -152,18 +155,18 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf die §§ 2 Absatz 
 
 <sup>1</sup> Die Materialkommission umfasst:
 
-- a. zwei Vertreter oder Vertreterinnen des Feuerwehrinspektorats;
-- b. ein Vertreter oder eine Vertreterin des Amts für Militär und Bevölkerungsschutz;
-- c. zwei Vertreter oder Vertreterinnen basellandschaftlicher Gemeinderäte;
-- d. drei Vertreter oder Vertreterinnen von Gemeindefeuerwehren, davon eine mit Stützpunktfunktion;
-- e. ein Vertreter oder eine Vertreterin einer Betriebsfeuerwehr,
-- f. ein Vertreter oder eine Vertreterin des Feuerwehrverbands.
+- a. 2 Vertreter oder Vertreterinnen des Feuerwehrinspektorats;
+- b. 1 Vertreter oder Vertreterin des Amts für Militär und Bevölkerungsschutz;
+- c. 2 Vertreter oder Vertreterinnen basellandschaftlicher Gemeinderäte;
+- d. 3 Vertreter oder Vertreterinnen von Gemeindefeuerwehren, davon 1 mit Stützpunktfunktion;
+- e. 1 Vertreter oder Vertreterin einer Betriebsfeuerwehr;
+- f. 1 Vertreter oder Vertreterin des Feuerwehrverbands.
 
 <sup>2</sup> Die BGV führt den Vorsitz und das Aktuariat.
 
-<sup>3</sup> Sie vergütet den Kommissionsmitgliedern gemäss Absatz 1 Buchstaben c - f die Kommissionstätigkeit und richtet sich dabei nach der Verordnung vom 30. März 2004[^12-1] über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen.
+<sup>3</sup> Sie vergütet den Kommissionsmitgliedern gemäss Abs. 1 Bst. c–f die Kommissionstätigkeit und richtet sich dabei nach der Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen vom 30. März 2004[^12-1].
 
-[^12-1]: GS 35.65, SGS 158.12
+[^12-1]: [SGS 158.12](https://bl.clex.ch/data/158.12/de)
 
 ## 4 Schlussbestimmungen
 
