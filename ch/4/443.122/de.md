@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 21. April 2016 über die Förderung der internatio
 short: IPFiV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-292-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-292-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20220101/de"
 
 (IPFiV)
 
-vom 21. April 2016 (Stand am 1. Januar 2022)
+vom 21. April 2016 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -37,7 +37,10 @@ verordnet:
 Diese Verordnung regelt die Voraussetzungen und das Verfahren für die Gewährung von:
 
 - a. Finanzhilfen, die zur Förderung der internationalen Präsenz des schweizerischen Filmschaffens gewährt werden;
-- b. Finanzhilfen, die der Schweizer Filmbranche als Ersatz für die Nichtteilnahme am MEDIA-Programm der Europäischen Union im Hinblick auf den Wiedereinstieg der Schweiz ins MEDIA-Programm gewährt werden (MEDIA-Ersatz-Massnahmen).
+- b. Finanzhilfen, die der Schweizer Filmbranche als Ersatz für die Nichtteilnahme am MEDIA-Programm der Europäischen Union im Hinblick auf den Wiedereinstieg der Schweiz ins MEDIA-Programm gewährt werden (MEDIA-Ersatz-Massnahmen);
+- c.[^1-1] Finanzhilfen, die zur Förderung der gemeinsamen Projektentwicklung (Koentwicklung) von schweizerisch-ausländischen Koproduktionen mit einer verantwortlichen ausländischen Produktionsfirma gewährt werden.
+
+[^1-1]: Eingefügt durch Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 2
 
@@ -487,7 +490,13 @@ Ein Gesuch um Finanzhilfen der selektiven Filmförderung in Form der Einzelproje
 
 <sup>1</sup> Förderbar sind Projekte, die voraussichtlich als Schweizer Filme oder als schweizerisch-ausländische Koproduktionen anerkannt werden können.
 
-<sup>2</sup> Koproduzierte Projekte müssen auf Initiative und unter der Verantwortung der gesuchstellenden Schweizer Produktionsfirma gemeinsam mit einer oder mehreren Produktionsfirmen aus Ländern, welche das Europäische Übereinkommen vom 2. Oktober 1992[^30-1] über die Gemeinschaftsproduktion von Kinofilmen oder das Übereinkommen des Europarats vom 30. Januar 2017[^30-2] über die Gemeinschaftsproduktion von Kinofilmen ratifiziert haben, konzipiert und entwickelt werden.[^30-3]
+<sup>2</sup>
+
+Koproduzierte Projekte müssen auf Initiative und unter der Verantwortung der gesuchstellenden Schweizer Produktionsfirma gemeinsam mit einer oder mehreren Produktionsfirmen aus Ländern konzipiert und entwickelt werden, die:
+
+- a. das Europäische Übereinkommen vom 2. Oktober 1992[^30-1] über die Gemeinschaftsproduktion von Kinofilmen ratifiziert haben;
+- b. das Übereinkommen des Europarats vom 30. Januar 2017[^30-2] über die Gemeinschaftsproduktion von Kinofilmen ratifiziert haben; oder
+- c. mit der Schweiz ein Koproduktionsabkommen abgeschlossen haben.[^30-3]
 
 <sup>3</sup>
 
@@ -521,7 +530,7 @@ Für folgende Projekte werden keine Finanzhilfen gewährt:
 
 [^30-1]: [SR 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
 [^30-2]: [SR 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
-[^30-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-3]: Fassung gemäss Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 [^30-4]: Eingefügt durch Ziff. I der V des EDI vom 8. Juni 2018 ([AS 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^30-5]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^30-6]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
@@ -538,7 +547,7 @@ Werden für ein Filmprojekt Förderinstrumente des BAK kumuliert, so ist zum Bud
 
 Anrechenbar sind die voraussichtlichen Kosten der Projektentwicklung ab Gesuchseinreichung bis Drehbeginn für folgende Budgetposten:[^32-1]
 
-- a.[^32-2] Erwerb von Autorenrechten;
+- a.[^32-2] Erwerb von Autorenrechten, einschliesslich der Kosten, die bereits angefallen sind und in den zwölf Monaten vor Gesuchseinreichung bezahlt wurden;
 - b. Recherchen;
 - c. Schreiben des Drehbuchs (Treatment bis definitive Fassung);
 - d. Vorkosten für die Besetzung der wichtigsten Posten der Crew und des Casts;
@@ -550,7 +559,7 @@ Anrechenbar sind die voraussichtlichen Kosten der Projektentwicklung ab Gesuchse
 - j. höchstens 7 Prozent Handlungsunkosten, sofern die entsprechenden Aufwendungen nicht separat budgetiert sind.
 
 [^32-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^32-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^32-2]: Fassung gemäss Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 33
 
@@ -561,7 +570,7 @@ Anrechenbar sind die voraussichtlichen Kosten der Projektentwicklung ab Gesuchse
 <sup>2</sup> Die Gewichtung der Kriterien wird gemäss folgender Tabelle vorgenommen:
 
 <table>
-<tr><td>Kriterien</td><td>Punkte</td></tr>
+<tr><th>Kriterien</th><th>Punkte</th></tr>
 <tr><td>Qualität des Projekts und dessen Potenzial, das europäische und internationale Publikum zu erreichen</td><td>55</td></tr>
 <tr><td>Qualität der Entwicklungsstrategie</td><td>10</td></tr>
 <tr><td>Qualität der europäischen und internationalen Vertriebs- und Marketingstrategie</td><td>25</td></tr>
@@ -735,48 +744,49 @@ Finanzhilfen können für lange Spiel-, Dokumentar- und Animationsfilme gewährt
 - a. die überwiegend von einer Produktionsfirma aus einem MEDIA-Land hergestellt wurden;
 - b. an deren Herstellung zu einem wesentlichen Teil künstlerische und technische Mitarbeiterinnen und Mitarbeiter beteiligt waren, die aus MEDIA-Ländern stammen;
 - c. die in den drei der Gesuchseinreichung vorangehenden Kalenderjahren fertiggestellt wurden;
-- d.[^45-1] die nachweislich in mindestens sechs MEDIA-Ländern zur Kinovorführung verkauft wurden, darunter in mindestens zwei Ländern mit mittlerer oder hoher Produktionskapazität wie Frankreich, Deutschland, Grossbritannien, Italien, Spanien, Österreich, Belgien, Polen oder die Niederlande, und in mindestens zwei Ländern mit geringer Produktionskapazität; und
+- d.[^45-1] die nachweislich in mindestens sechs MEDIA-Ländern ausser dem Produktionsland zur Kinovorführung verkauft wurden, darunter in mindestens zwei Ländern mit mittlerer oder hoher Produktionskapazität, wie Frankreich, Deutschland, Grossbritannien, Italien, Spanien, Österreich, Belgien, Polen oder die Niederlande, und in mindestens zwei Ländern mit geringer Produktionskapazität; und
 - e. für die eine Verleihförderung nach dieser Verordnung höchstens einmal abgelehnt wurde.
 
 <sup>2</sup> Der Anteil der Mitarbeiterinnen und Mitarbeiter nach Absatz 1 Buchstabe b gilt als wesentlich, wenn mehr als die Hälfte der möglichen Punkte gemäss folgender Tabelle erreicht werden:
 
 <table>
-<tr><th>Funktion</th><th>Punkte</th></tr>
-<tr><td>Regie</td><td>3</td></tr>
-<tr><td>Drehbuch</td><td>3</td></tr>
-<tr><td>Musik/Komposition</td><td>1</td></tr>
-<tr><td>Hauptrolle</td><td>2</td></tr>
-<tr><td>Zweite Hauptrolle</td><td>2</td></tr>
-<tr><td>Dritte Hauptrolle</td><td>2</td></tr>
-<tr><td>Ausstattung</td><td>1</td></tr>
-<tr><td>Kamera</td><td>1</td></tr>
-<tr><td>Schnitt</td><td>1</td></tr>
-<tr><td>Ton</td><td>1</td></tr>
-<tr><td>Drehort</td><td>1</td></tr>
-<tr><td>Labor/Postproduktion</td><td>1</td></tr>
+<tr><th>**Funktion** Spiel- und Dokumentarfilm</th><th>Animationsfilm</th><th>**Punkte**</th></tr>
+<tr><td colspan="2">Regie</td><td>3</td></tr>
+<tr><td colspan="2">Drehbuch</td><td>3</td></tr>
+<tr><td colspan="2">Musik/Komposition</td><td>1</td></tr>
+<tr><td>Hauptrolle</td><td>Storyboard</td><td>2</td></tr>
+<tr><td>Zweite Hauptrolle</td><td>Character Design</td><td>2</td></tr>
+<tr><td>Dritte Hauptrolle</td><td>Supervision</td><td>2</td></tr>
+<tr><td>Ausstattung</td><td>künstlerische Leitung</td><td>1</td></tr>
+<tr><td>Kamera</td><td>technische Leitung</td><td>1</td></tr>
+<tr><td colspan="2">Schnitt</td><td>1</td></tr>
+<tr><td colspan="2">Ton</td><td>1</td></tr>
+<tr><td>Drehort</td><td>Studio</td><td>1</td></tr>
+<tr><td colspan="2">Labor/Postproduktion</td><td>1.[^45-2]</td></tr>
 </table>
 
 <sup>3</sup>
 
 Keine Finanzhilfen werden gewährt für:
 
-- a.[^45-2] Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie;
-- b.[^45-3] Filme aus MEDIA-Ländern, deren Herstellungskosten 16 Millionen Franken übersteigen;
+- a.[^45-3] Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie;
+- b.[^45-4] Filme aus MEDIA-Ländern, deren Herstellungskosten 16 Millionen Franken übersteigen;
 - c. Filme, deren Schweizer Kinostart bereits mehr als zwei Monate vor Gesuchseinreichung stattfand oder erst nach dem nächsten Eingabetermin stattfinden soll;
 - d. Live-Aufnahmen oder Aufzeichnungen von Aufführungen von Werken wie Opern und Konzerte;
 - e. Filme mit Auftrags- oder Werbecharakter, Filme mit vorwiegend didaktischer Zielsetzung und Filme, die die Menschenwürde verletzen, diskriminierend sind, Gewalt verherrlichen oder verharmlosen oder die pornografisch sind (Art. 16 FiG);
-- f.[^45-4] Filme, für die Gutschriften der erfolgsabhängigen Verleihförderung nach dieser Verordnung in die Promotionstätigkeit oder in den Ankauf von Kopien reinvestiert werden, es sei denn, es handelt sich um Reinvestitionen in Form von Minimumgarantien oder Koproduktionsbeiträgen;
-- g.[^45-5] …
-- h.[^45-6] Filme, deren Verleih aus dem Filmförderungsfonds des Europarats «EURIMAGES»[^45-7] gefördert wurde, wenn der Finanzierungsanteil des Bundes zusammen mit dem Finanzierungsanteil aus dem Filmförderungsfond «EURIMAGES» 50 Prozent der Verleihkosten übersteigt;
+- f.[^45-5] Filme, für die Gutschriften der erfolgsabhängigen Verleihförderung nach dieser Verordnung in die Promotionstätigkeit oder in den Ankauf von Kopien reinvestiert werden, es sei denn, es handelt sich um Reinvestitionen in Form von Minimumgarantien oder Koproduktionsbeiträgen;
+- g.[^45-6] …
+- h.[^45-7] Filme, deren Verleih aus dem Filmförderungsfonds des Europarats «EURIMAGES»[^45-8] gefördert wurde, wenn der Finanzierungsanteil des Bundes zusammen mit dem Finanzierungsanteil aus dem Filmförderungsfond «EURIMAGES» 50 Prozent der Verleihkosten übersteigt;
 - i. Filme, deren Verleihförderung nach dieser Verordnung zweimal abgelehnt wurden.
 
-[^45-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^45-2]: Fassung gemäss Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 [^45-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^45-4]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-5]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-6]: Fassung gemäss Ziff. I der V des EDI vom 8. Juni 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
-[^45-7]: Règles 2017–2018 – Programme de soutien à la distribution vom 13. März 2017, kann im Internet kostenlos abgerufen werden unter: www.coe.int/ &gt; FR &gt; Démocratie &gt; Eurimages &gt; Programmes &gt; Distribution &gt; Réglementation en vigueur
+[^45-5]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-6]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-7]: Fassung gemäss Ziff. I der V des EDI vom 8. Juni 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
+[^45-8]: Règles 2017–2018 – Programme de soutien à la distribution vom 13. März 2017, kann im Internet kostenlos abgerufen werden unter: www.coe.int/ &gt; FR &gt; Démocratie &gt; Eurimages &gt; Programmes &gt; Distribution &gt; Réglementation en vigueur
 
 #### Art. 46
 
@@ -828,7 +838,7 @@ Filme werden nach Massgabe ihrer Herstellungskosten in folgende Kategorien einge
 <sup>2</sup> Die Finanzhilfe richtet sich nach der Anzahl Leinwände. Es gelten die folgenden Höchstbeiträge:
 
 <table>
-<tr><td>Anzahl Leinwände</td><td>Höchstbeitrag in Franken</td></tr>
+<tr><th>Anzahl Leinwände</th><th>Höchstbeitrag in Franken</th></tr>
 <tr><td>1–7</td><td>10 000</td></tr>
 <tr><td>8–14</td><td>15 000</td></tr>
 <tr><td>15–24</td><td>25 000</td></tr>
@@ -899,15 +909,15 @@ Nicht zur erfolgsabhängigen Verleihförderung zugelassen sind:[^51-1]
 
 <sup>2</sup> Die Eintritte in Liechtenstein werden in die Berechnung der Gutschriften einbezogen, wenn die Rechte für Liechtenstein nachweislich beim Schweizer Verleiher liegen und die Eintritte nachgewiesen sind.
 
-<sup>3</sup> Pro Film sind höchstens 200 000 Eintritte anrechenbar.
+<sup>3</sup> Pro Film sind höchstens 100 000 Eintritte anrechenbar.[^52-1]
 
 <sup>4</sup> Je nach Herkunftsland des Films gelten folgende Ansätze:
 
 <table>
-<tr><td>Herkunftsland</td><td>Grundbetrag pro Eintritt (in Franken)</td><td>1–25 000 Eintritte (150 % des Grundbetrags, in Franken)</td><td>25 001–100 000 Eintritte (100 % des Grundbetrags, in Franken)</td><td>100 001–200 000 Eintritte (35 % des Grundbetrags, in Franken)</td></tr>
-<tr><td>Frankreich, Grossbritannien</td><td>0.50</td><td>0.75</td><td>0.50</td><td>0.17</td></tr>
-<tr><td>Deutschland, Italien, Spanien</td><td>0.65</td><td>0.98</td><td>0.65</td><td>0.22</td></tr>
-<tr><td>Andere MEDIA-Länder</td><td>0.90</td><td>1.35</td><td>0.90</td><td>0.31.[^52-1]</td></tr>
+<tr><td>Herkunftsland</td><td>Grundbetrag pro Eintritt (in Franken)</td><td>1–25 000 Eintritte (150 % des Grundbetrags, in Franken)</td><td>25 001–100 000 Eintritte (100 % des Grundbetrags, in Franken)</td></tr>
+<tr><td>Frankreich, Grossbritannien</td><td>0.65</td><td>1.00</td><td>0.65</td></tr>
+<tr><td>Deutschland, Italien, Spanien</td><td>0.85</td><td>1.30</td><td>0.85</td></tr>
+<tr><td>Andere MEDIA-Länder</td><td>1.15</td><td>1.70</td><td>1.15.[^52-2]</td></tr>
 </table>
 
 <sup>5</sup> Übersteigt der Gesamtbetrag aller Gutschriften eines Kalenderjahrs die zur Verfügung stehenden Mittel, so werden die Gutschriften proportional gekürzt.
@@ -916,7 +926,8 @@ Nicht zur erfolgsabhängigen Verleihförderung zugelassen sind:[^51-1]
 
 <sup>7</sup> Pro Verleihfirma und Jahr werden nicht mehr als 350 000 Franken gutgeschrieben.
 
-[^52-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^52-1]: Fassung gemäss Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^52-2]: Fassung gemäss Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 
 #### Art. 53
 
@@ -1327,7 +1338,7 @@ Nicht anrechenbar sind:
 
 [^76-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
-### 9. Abschnitt:**** Förderung der europäischen Zusammenarbeit in der Filmvermittlung
+### 9. Abschnitt: Förderung der europäischen Zusammenarbeit in der Filmvermittlung
 
 [^chap3-sec9-1]
 
@@ -1436,6 +1447,160 @@ Anrechenbar sind folgende Kosten:
 
 [^76g-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
+## 3*a*. Kapitel: Förderung der Koentwicklung von schweizerisch-ausländischen Koproduktionen mit einer verantwortlichen ausländischen Produktionsfirma
+
+[^chap3a-1]
+
+[^chap3a-1]: Eingefügt durch Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+
+#### Art. 76h
+
+**Zuständigkeit**
+
+<sup>1</sup> Zuständig für die Bewilligung von Finanzhilfen nach diesem Kapitel ist das BAK.
+
+<sup>2</sup> Wenn es dem BAK an der nötigen Sachkenntnis fehlt, lässt es die Gesuche von Experten und Expertinnen begutachten, die über Fachkompetenz in der Produktion des jeweiligen Filmgenres und entsprechende internationale Erfahrung aufweisen.
+
+<sup>3</sup>
+
+Dem Verein «Creative Europe – MEDIA Desk Suisse» werden die folgenden Aufgaben übertragen:
+
+- a. Information der Filmbranche über die Massnahme zur Förderung der Koentwicklung von schweizerisch-ausländischen Koproduktionen nach diesem Kapitel;
+- b. Entgegennahme und Vorprüfung der Finanzhilfe-Gesuche;
+- c. Organisation der Expertise;
+- d. Vorprüfung der Abrechnung und der Einhaltung weiterer subventionsrechtlicher Verpflichtungen.
+
+<sup>4</sup> Der Umfang der Aufgaben, die Entschädigung sowie die Art und Weise der Zusammenarbeit und der staatlichen Kontrolle werden in der Leistungsvereinbarung zwischen dem Verein «Creative Europe – MEDIA Desk Suisse» und dem BAK geregelt (Art. 28 Abs. 4).
+
+#### Art. 76i
+
+**Förderungsinstrument**
+
+Die Koentwicklung von schweizerisch-ausländischen Koproduktionen einer schweizerischen Produktionsfirma mit einer verantwortlichen ausländischen Produktionsfirma kann gefördert werden durch Finanzhilfen der selektiven Filmförderung.
+
+#### Art. 76j
+
+**Anforderungen an die gesuchstellende Firma**
+
+Ein Gesuch um Finanzhilfen der selektiven Filmförderung für die Koentwicklung kann eine unabhängige Schweizer Produktionsfirma stellen, die:
+
+- a. ihre Haupttätigkeit in der Filmherstellung hat;
+- b. zum Zeitpunkt der Gesuchseinreichung seit mindestens 36 Monaten existiert und dies mit Urkunden belegt;
+- c. in den fünf Kalenderjahren vor dem Jahr der Gesuchseinreichung mindestens einen Film als schweizerisch-ausländische Koproduktion verantwortet hat, der in mindestens einem Land ausserhalb der Schweiz kommerziell ausgewertet wurde;
+- d. über das zu fördernde Projekt ein Dealmemo mit einer von ihr unabhängigen verantwortlichen ausländischen Produktionsfirma abgeschlossen hat, das den Voraussetzungen eines von der Schweiz abgeschlossenen Koproduktionsabkommens entspricht.
+
+#### Art. 76k
+
+**Förderbare Projekte**
+
+<sup>1</sup>
+
+Förderbar sind Projekte, die:
+
+- a. voraussichtlich als schweizerisch-ausländische Koproduktionen anerkannt werden können;
+- b. deren Entwicklung im Land der verantwortlichen Produktionsfirma nachweislich zu mehr als 50 Prozent finanziert ist.
+
+<sup>2</sup>
+
+Finanzhilfen können gewährt werden für:
+
+- a. Kinofilmprojekte von mindestens 60 Minuten Länge;
+- b.
+
+  TV-Filmprojekte oder audiovisuelle Projekte, für die eine digitale Erstauswertung vorgesehen ist, mit mindestens folgender Länge:
+
+  - 1\. bei Spielfilmen: 90 Minuten,
+  - 2\. bei Animationsfilmen: 24 Minuten,
+  - 3\. bei kreativen Dokumentarfilmen: 50 Minuten,
+  - 4\. bei Serien: 90 Minuten Gesamtdauer;
+
+- c. nonlineare audiovisuelle Projekte, wenn sie hinsichtlich der verwendeten narrativen Elemente vergleichbar sind mit Filmprojekten des jeweiligen Genres; für solche Projekte gilt keine Mindestlänge.
+
+<sup>3</sup> Der Drehbeginn darf frühestens acht Monate nach der Gesuchseinreichung erfolgen. Für Dokumentarfilmprojekte können auf Gesuch hin Ausnahmen bewilligt werden, namentlich wenn die Dreharbeiten erforderlich sind, um einmalige, unwiederbringliche Ereignisse oder Aussagen von Protagonistinnen und Protagonisten, die später nicht mehr eingeholt werden können, festzuhalten.
+
+<sup>4</sup>
+
+Für folgende Projekte werden keine Finanzhilfen gewährt:
+
+- a. Live-Aufnahmen, TV-Spielshows, -Talkshows und ‑Realityshows;
+- b Musik-Videos, Video-Games und interaktive Bücher;
+- c. Nachrichtensendungen, Berichterstattungen, Reise-, Natur-, Landschafts- und Tierreportagen und «Doku-Soaps»;
+- d. Filme mit Auftrags- oder Werbecharakter, Filme mit vorwiegend didaktischer Zielsetzung und Filme, die die Menschenwürde verletzen, diskriminierend sind, Gewalt verherrlichen oder verharmlosen oder die pornografisch sind (Art. 16 FiG);
+- e. Projekte, für die ein Gesuch um Koentwicklung bereits abgelehnt wurde;
+- f. Projekte, für die Gesuche um andere Finanzhilfen an die Projektentwicklung nach dieser Verordnung oder nach der FiFV[^76k-1] zulässig sind;
+- g. Projekte, die eine Absichtserklärung des BAK für einen Herstellungsbeitrag haben, und Projekte, in deren Herstellung bereits Gutschriften der erfolgsabhängigen Filmförderungen reinvestiert wurden;
+- h. Projekte, für die Gesuche um einen selektiven Herstellungsbeitrag des BAK bereits zweimal abgelehnt wurden.
+
+[^76k-1]: [SR 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+
+#### Art. 76l
+
+**Besondere Anforderungen bei einer Kumulierung von Förderinstrumenten**
+
+Werden für ein Filmprojekt Förderinstrumente des BAK kumuliert, namentlich selektive Drehbuchförderung oder Reinvestition von Gutschriften der erfolgsabhängigen Filmförderung ins Treatment- oder Drehbuchschreiben, so sind zum Budget und zum Finanzierungsplan für die nach dieser Verordnung beantragte Koentwicklung zusätzlich ein Gesamtbudget und ein Gesamtfinanzierungsplan einzureichen, wenn die Vorkosten bei Gesuchseinreichung noch nicht abgerechnet sind oder vor Auszahlung der Finanzhilfe für die Koentwicklung nicht abgerechnet werden.
+
+#### Art. 76m
+
+**Anrechenbare Kosten**
+
+Anrechenbar sind die voraussichtlichen Kosten der Koentwicklung ab Gesuchseinreichung bis Drehbeginn für folgende Budgetposten:
+
+- a. Erwerb von Autorenrechten, soweit diese für die Projektentwicklung durch die gesuchstellende Produktionsfirma notwendig sind;
+- b. Recherchen in der Schweiz;
+- c. Schreiben des Drehbuchs (Treatment bis definitive Fassung);
+- d. Produzentenhonorar und Reisespesen im Umfang von höchstens 15 Prozent des Budgets;
+- e. höchstens 7 Prozent der Handlungsunkosten, sofern die entsprechenden Aufwendungen nicht separat budgetiert sind.
+
+#### Art. 76n
+
+**Förderungskriterien und ihre Gewichtung**
+
+<sup>1</sup> Im Gesuch sind die einzelnen Förderungskriterien aufzuführen und Angaben dazu zu machen.
+
+<sup>2</sup> Die Gewichtung der Kriterien wird gemäss folgender Tabelle vorgenommen:
+
+<table>
+<tr><td>Kriterien</td><td>Punkte</td></tr>
+<tr><td>Qualität des Projekts und Potenzial, sowohl in der Schweiz als auch international ihr Publikum zu erreichen</td><td>40</td></tr>
+<tr><td>Qualität und Kohärenz der Koentwicklungsstrategie</td><td>35</td></tr>
+<tr><td>Anteil Schweizer Mitarbeitende sowie thematischer oder organisatorischer Bezug zur Schweiz</td><td>20</td></tr>
+<tr><td>Reziprozität zwischen den beteiligten Koproduktionsländern nach dem jeweiligen Koproduktionsabkommen</td><td>5</td></tr>
+</table>
+
+<sup>3</sup>
+
+Förderbar sind Projekte, die mindestens 70 Punkte erreichen. Sie erhalten jeweils zusätzlich 5 Punkte, wenn:
+
+- a. ein Autor oder eine Autorin aus der Schweiz an der Koentwicklung beteiligt ist;
+- b. auf einen nachhaltigen Umgang mit Ressourcen geachtet wird; oder
+- c. es sich um Projekte für Animations- oder Kinderfilme handelt.
+
+<sup>4</sup> Übersteigen die förderbaren Projekte die für einen Eingabetermin verfügbaren Kredite, so werden die Projekte mit der höchsten Punktzahl gefördert.
+
+#### Art. 76o
+
+**Bemessung der Finanzhilfe**
+
+<sup>1</sup> Insgesamt darf der Bundesanteil höchstens 70 Prozent der anrechenbaren Kosten betragen.
+
+<sup>2</sup>
+
+Es gelten folgende Höchstbeiträge:
+
+- a. für Spiel- und Animationsfilme: 50 000 Franken;
+- b. für Dokumentarfilme: 25 000 Franken;
+- c. für Serien: 50 000 Franken.
+
+#### Art. 76p
+
+**Auszahlungsmodalitäten**
+
+<sup>1</sup> Die erste Rate wird ausbezahlt, wenn die Durchführung gesichert ist und die Restfinanzierung nachgewiesen ist. Sie beträgt höchstens 70 Prozent.
+
+<sup>2</sup> Die zweite Rate wird ausbezahlt, nachdem die Projektabrechnung und ein kurzer Projektbericht über den Stand und das weitere Vorgehen vorgelegt wurden.
+
+<sup>3</sup> Wird die Projektabrechnung nicht innerhalb von 18 Monaten nach Auszahlung der ersten Rate vorgelegt, so ist unaufgefordert ein Zwischenbericht mit einer Zwischenabrechnung einzureichen. Eine Verlängerung um 6 Monate ist in begründeten Fällen möglich.
+
 ## 4. Kapitel: Schlussbestimmungen
 
 #### Art. 77
@@ -1472,6 +1637,18 @@ Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 5
 
 [^77b-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Febr. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 
+#### Art. 77c
+
+**Übergangsbestimmungen zur Änderung vom 19. Dezember 2022**[^77c-1]
+
+<sup>1</sup> Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 52 Abs. 4) für Eintritte ab Kalenderjahr 2022 erfolgt nach den neuen Ansätzen.
+
+<sup>2</sup> Für Gesuche um selektive Verleihförderung nach den Artikeln 44–49, die im Jahr 2023 eingereicht werden, gilt in Abweichung von Artikel 48 Absatz 1 ein Anteil von höchstens 70 Prozent der anrechenbaren Kosten.
+
+<sup>3</sup> Für Gesuche um die Reinvestition von Gutschriften nach den Artikeln 53–55, die im Jahr 2023 eingereicht werden, gilt in Abweichung von Artikel 54 ein Anteil von höchstens 70 Prozent der anrechenbaren Kosten.
+
+[^77c-1]: Eingefügt durch Ziff. I der V des EDI vom 19. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+
 #### Art. 78
 
 **Inkrafttreten**
@@ -1485,7 +1662,7 @@ Die Berechnung der Gutschriften der erfolgsabhängigen Verleihförderung (Art. 5
 [^78-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^78-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 2 und 26 Abs. 2)
 
@@ -1499,7 +1676,7 @@ Die Förderung der internationalen Präsenz des Schweizer Filmschaffens sowie di
 - – Berücksichtigung in allen Förderbereichen des Grundsatzes der Diversität beim Zugang zur Förderung, insbesondere Beachtung einer ausgewogenen Förderung von Projekten von Frauen und Männern, von Projekten in verschiedenen Sprachregionen sowie von Projekten und Organisationen;
 - – Berücksichtigung eines schonenden Umgangs mit Ressourcen.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 2)
 
@@ -1549,7 +1726,7 @@ Anhang 2*[^t-2]*
 - 2\.1 Die Evaluation der Massnahmen zur Förderung der internationalen Präsenz des schweizerischen Filmschaffens erfolgt jährlich durch die Jahresberichterstattung der Stiftung «Swiss Films» an das BAK.
 - 2\.2 Das BAK führt eine externe Evaluation über die Wirksamkeit ausgewählter Massnahmen durch.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 26 Abs. 2)
 
