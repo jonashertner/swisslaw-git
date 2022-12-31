@@ -4,13 +4,12 @@ number: "921.1"
 title: Loi sur les forêts et la protection contre les catastrophes naturelles
 short: LFCN
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-06
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1999-03-02
 in_force: 1999-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6949/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7597/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Forêts et protection contre les catastrophes naturelles – L
 
 (LFCN)
 
-du 02.03.1999 (version entrée en vigueur le 01.01.2022)
+du 02.03.1999 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -368,7 +367,7 @@ Décrète:
 
 **Circulation – Cycles, autres véhicules, cavaliers**
 
-<sup>1</sup> Le cyclisme, la circulation d'autres véhicules et l'équitation en forêt sont interdits en dehors des routes et des chemins carrossables ainsi qu'en dehors des parcours spécialement réservés.
+<sup>1</sup> Le cyclisme, la circulation d'autres véhicules et l'équitation en forêt sont interdits en dehors des routes et des chemins carrossables ainsi que des itinéraires de mobilité qui leur sont spécialement réservés.
 
 ### 2.4 Protection des forêts contre d'autres atteintes
 

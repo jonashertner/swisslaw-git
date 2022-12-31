@@ -4,13 +4,12 @@ number: "921.1"
 title: Gesetz über den Wald und den Schutz vor Naturereignissen
 short: WSG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-06
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1999-03-02
 in_force: 1999-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6949/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Wald und Schutz vor Naturereignissen – G
 
 (WSG)
 
-vom 02.03.1999 (Fassung in Kraft getreten am 01.01.2022)
+vom 02.03.1999 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -368,7 +367,7 @@ beschliesst:
 
 **Verkehr – Fahrräder, andere Fahrzeuge, Reiten**
 
-<sup>1</sup> Im Wald ist es abseits der Strassen und Fahrwege und ausserhalb der besonders gekennzeichneten Strecken verboten Rad zu fahren, mit anderen Fahrzeugen zu verkehren oder zu reiten.
+<sup>1</sup> Im Wald ist es abseits der Strassen und Fahrwege sowie der besonders gekennzeichneten Mobilitätsrouten verboten, Rad zu fahren, mit anderen Fahrzeugen zu verkehren oder zu reiten.
 
 ### 2.4 Schutz vor anderen Beeinträchtigungen
 
