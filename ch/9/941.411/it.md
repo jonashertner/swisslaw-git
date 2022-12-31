@@ -4,11 +4,11 @@ title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
 short: OEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20220101/it"
 
 (OEspl)
 
-del 27 novembre 2000 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 27 novembre 2000 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -69,7 +69,7 @@ Ai sensi della presente ordinanza s’intende per:
 <sup>2</sup> Per il resto, si applicano le definizioni degli articoli 2 della direttiva 2014/28/UE[^1a-5], 3 della direttiva 2013/29/UE[^1a-6] e 2 della direttiva 2008/43/CE[^1a-7]. In luogo delle definizioni di cui all’articolo 2 punti 15–17 della direttiva 2014/28/UE e all’articolo 3 punti 14–16 della direttiva 2013/29/UE si applicano le definizioni della legislazione in materia di sicurezza dei prodotti e di accreditamento. Si applicano inoltre le equivalenze terminologiche riportate nell’allegato 15.[^1a-8]
 
 [^1a-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^1a-2]: Nuove espressioni giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^1a-2]: Nuove espr. giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1a-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^1a-4]: Introdotta dal n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^1a-5]: Direttiva 2014/28/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, concernente l’armonizzazione delle legislazioni degli Stati membri relative alla messa a disposizione sul mercato e al controllo degli esplosivi per uso civile (rifusione), versione della GU L 96 del 29.3.2014, pag. 1.
@@ -128,9 +128,10 @@ I requisiti di cui agli articoli 8–23 non sono applicabili alle materie giusta
 
 <sup>4</sup> Per i pezzi pirotecnici della categoria P3 è richiesta soltanto l’autorizzazione di fabbricazione e l’autorizzazione d’importazione. A essi non si applicano le altre prescrizioni sui pezzi pirotecnici.
 
-<sup>5</sup> L’Ufficio centrale Esplosivi e Pirotecnica (UCEP) può classificare, in determinati casi, un pezzo pirotecnico in un’altra categoria se ciò è necessario per motivi di ordine pubblico, pubblica sicurezza, incolumità delle persone o protezione ambientale.
+<sup>5</sup> L’Ufficio centrale Esplosivi (UCE)[^6-2] può classificare, in determinati casi, un pezzo pirotecnico in un’altra categoria se ciò è necessario per motivi di ordine pubblico, pubblica sicurezza, incolumità delle persone o protezione ambientale.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^6-2]: Nuova espr. giusta l’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)). Di detta mod. è tenuto conto in tutto il presente testo
 
 #### Art. 7
 
@@ -146,7 +147,7 @@ I requisiti di cui agli articoli 8–23 non sono applicabili alle materie giusta
 
 <sup>5</sup> I fuochi d’artificio della categoria F4 sono destinati unicamente a un uso professionale. Essi possono essere utilizzati esclusivamente da persone con conoscenze specialistiche. Non possono essere venduti nel commercio al dettaglio.
 
-<sup>6</sup> L’UCEP può classificare, in determinati casi, un fuoco d’artificio in un’altra categoria se ciò è necessario per motivi di ordine pubblico, pubblica sicurezza, incolumità delle persone o protezione ambientale.
+<sup>6</sup> L’UCE può classificare, in determinati casi, un fuoco d’artificio in un’altra categoria se ciò è necessario per motivi di ordine pubblico, pubblica sicurezza, incolumità delle persone o protezione ambientale.
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
@@ -154,7 +155,7 @@ I requisiti di cui agli articoli 8–23 non sono applicabili alle materie giusta
 
 **Obblighi**[^7a-1]
 
-<sup>1</sup> Gli obblighi degli operatori economici sono disciplinati dagli articoli 5–8 e dagli allegati II e III, cui fanno riferimento, della direttiva 2014/28/UE[^7a-2] nonché dagli articoli 8, 12 e 13 e dagli allegati I e II, cui fanno riferimento, della direttiva 2013/29/UE[^7a-3], sempreché non derivino dalla presente ordinanza. L’UCEP svolge la funzione di autorità nazionale competente.
+<sup>1</sup> Gli obblighi degli operatori economici sono disciplinati dagli articoli 5–8 e dagli allegati II e III, cui fanno riferimento, della direttiva 2014/28/UE[^7a-2] nonché dagli articoli 8, 12 e 13 e dagli allegati I e II, cui fanno riferimento, della direttiva 2013/29/UE[^7a-3], sempreché non derivino dalla presente ordinanza. L’UCE svolge la funzione di autorità nazionale competente.
 
 <sup>2</sup> L’obbligo di apporre la marcatura CE non è applicabile. Le eventuali marcature CE già apposte possono essere mantenute sempreché siano conformi alle norme dell’UE.
 
@@ -190,8 +191,8 @@ Gli esplosivi possono essere messi a disposizione sul mercato se:[^8-2]
 Le disposizioni del presente capitolo non si applicano:
 
 - a.[^8-6] agli esplosivi utilizzati in quantità limitata a fini scientifici, di ricerca, di sviluppo o di prova;
-- b. a eccezione dell’articolo 19, agli esplosivi destinati a essere utilizzati dalla polizia;
-- c. [^8-7] ...
+- b.[^8-7] a eccezione dell’articolo 19, agli esplosivi destinati a essere utilizzati dalla polizia, dall’esercito o dalle amministrazioni militari federali e cantonali o dalle loro regìe;
+- c. [^8-8] ...
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^8-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -199,7 +200,8 @@ Le disposizioni del presente capitolo non si applicano:
 [^8-4]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
 [^8-5]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^8-6]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^8-7]: Abrogata dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-7]: Nuovo testo giusta l’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^8-8]: Abrogata dal n. I dell’O del 12 mag. 2010, con effetto dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 9
 
@@ -211,7 +213,7 @@ Le disposizioni del presente capitolo non si applicano:
 
 **Norme tecniche**[^10-1]
 
-Le norme tecniche atte a concretare i requisiti essenziali di cui all’allegato II della direttiva 2014/28/UE[^10-2] sono definite conformemente all’articolo 6 della legge del 12 giugno 2009[^10-3] sulla sicurezza dei prodotti. L’UCEP definisce queste norme d’intesa con la Segreteria di Stato dell’economia (SECO).
+Le norme tecniche atte a concretare i requisiti essenziali di cui all’allegato II della direttiva 2014/28/UE[^10-2] sono definite conformemente all’articolo 6 della legge del 12 giugno 2009[^10-3] sulla sicurezza dei prodotti. L’UCE definisce queste norme d’intesa con la Segreteria di Stato dell’economia (SECO).
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^10-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
@@ -318,27 +320,26 @@ Gli organismi preposti all’esame e alla valutazione della conformità, che red
 
 **Controlli susseguenti**
 
-<sup>1</sup> L’UCEP controlla a caso e a intervalli irregolari se gli esplosivi messi a disposizione sul mercato soddisfano i requisiti di conformità della presente ordinanza. A tal fine collabora con gli organi esecutivi cantonali e può fare capo a esperti.[^16-1]
+<sup>1</sup> L’UCE controlla a caso e a intervalli irregolari se gli esplosivi messi a disposizione sul mercato soddisfano i requisiti di conformità della presente ordinanza. A tal fine collabora con gli organi esecutivi cantonali e può fare capo a esperti.[^16-1]
 
-<sup>2</sup> Gli organi esecutivi cantonali informano immediatamente l’UCEP[^16-2] quando riscontrano esplosivi non conformi.
+<sup>2</sup> Gli organi esecutivi cantonali informano immediatamente l’UCE quando riscontrano esplosivi non conformi.
 
 <sup>3</sup> Per verificare la conformità, gli organi di controllo sono autorizzati, durante il normale orario di lavoro, ad accedere e a visitare senza preavviso i locali di produzione e di deposito, a consultare documenti, a raccogliere informazioni, a ordinare prove ed esami nonché a chiedere o prelevare campioni.
 
-<sup>4</sup> L’UCEP può chiedere che l’Ufficio federale della dogana e della sicurezza dei confini[^16-3] gli notifichi, per un determinato periodo, l’importazione di esplosivi. Deve designarli esattamente.
+<sup>4</sup> L’UCE può chiedere che l’Ufficio federale della dogana e della sicurezza dei confini[^16-2] gli notifichi, per un determinato periodo, l’importazione di esplosivi. Deve designarli esattamente.
 
 [^16-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
-[^16-2]: Nuova espr. giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^16-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^16-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
 **Provvedimenti in caso di non conformità degli esplosivi[^17-1]**
 
-<sup>1</sup> Se, in base a informazioni ricevute, conclude che esplosivi messi a disposizione sul mercato non soddisfano i requisiti della presente ordinanza, l’UCEP ingiunge al fabbricante o all’importatore di rendere detti esplosivi conformi alle prescrizioni, minacciando il loro ritiro dal commercio in caso di non ottemperanza.[^17-2]
+<sup>1</sup> Se, in base a informazioni ricevute, conclude che esplosivi messi a disposizione sul mercato non soddisfano i requisiti della presente ordinanza, l’UCE ingiunge al fabbricante o all’importatore di rendere detti esplosivi conformi alle prescrizioni, minacciando il loro ritiro dal commercio in caso di non ottemperanza.[^17-2]
 
-<sup>2</sup> Se esplosivi non conformi rischiano di mettere in pericolo persone o cose quando sono utilizzati secondo la loro destinazione, l’UCEP prende le misure necessarie per mettere sotto sequestro gli esplosivi in questione, toglierli dalla circolazione e impedire ogni loro ulteriore rimessa in commercio.
+<sup>2</sup> Se esplosivi non conformi rischiano di mettere in pericolo persone o cose quando sono utilizzati secondo la loro destinazione, l’UCE prende le misure necessarie per mettere sotto sequestro gli esplosivi in questione, toglierli dalla circolazione e impedire ogni loro ulteriore rimessa in commercio.
 
-<sup>3</sup> L’UCEP è competente per fornire l’assistenza amministrativa internazionale. Informa in particolare la Commissione europea e gli Stati membri dell’UE dei provvedimenti adottati sulla base del presente articolo. Le restrizioni previste dall’articolo 22 LOTC sono applicabili.[^17-3]
+<sup>3</sup> L’UCE è competente per fornire l’assistenza amministrativa internazionale. Informa in particolare la Commissione europea e gli Stati membri dell’UE dei provvedimenti adottati sulla base del presente articolo. Le restrizioni previste dall’articolo 22 LOTC sono applicabili.[^17-3]
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^17-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -350,9 +351,9 @@ Gli organismi preposti all’esame e alla valutazione della conformità, che red
 
 <sup>1</sup> L’esplosivo deve contenere un fattore di rilevamento, omogeneamente distribuito, grazie al quale sia possibile stabilire con certezza, anche dopo l’esplosione, la provenienza e il periodo di fabbricazione dell’esplosivo.
 
-<sup>2</sup> Il fattore di rilevamento stesso e la sua concentrazione nella materia esplosiva devono essere approvati dall’UCEP.
+<sup>2</sup> Il fattore di rilevamento stesso e la sua concentrazione nella materia esplosiva devono essere approvati dall’UCE.
 
-<sup>3</sup> L’UCEP definisce le modalità del contrassegno, effettua controlli e le adegua se necessario.
+<sup>3</sup> L’UCE definisce le modalità del contrassegno, effettua controlli e le adegua se necessario.
 
 #### Art. 19
 
@@ -429,26 +430,27 @@ I pezzi pirotecnici possono essere messi a disposizione sul mercato se:[^24-3]
 - b. sono classificati in una delle categorie di cui agli articoli 6 e 7;
 - c. adempiono le condizioni di cui all’articolo 26.
 
-<sup>2</sup> I fuochi d’artificio delle categorie F1–F3 devono essere inoltre provvisti di un numero d’identificazione CH. Se quest’ultimo non è stato attribuito, occorre presentare una domanda all’UCEP.
+<sup>2</sup> I fuochi d’artificio delle categorie F1–F3 devono essere inoltre provvisti di un numero d’identificazione CH. Se quest’ultimo non è stato attribuito, occorre presentare una domanda all’UCE.
 
 <sup>3</sup>
 
 Le disposizioni del presente capitolo non si applicano ai pezzi pirotecnici:
 
 - a. utilizzati in quantità limitata a fini scientifici, di ricerca, di sviluppo o di prova;
-- b. destinati a essere utilizzati dalla polizia.
+- b.[^24-6] destinati a essere utilizzati dalla polizia, dall’esercito o dalle amministrazioni militari federali e cantonali o dalle loro regìe.
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^24-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-5]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
+[^24-6]: Nuovo testo giusta l’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 25
 
 **Norme tecniche**[^25-1]
 
-Le norme tecniche atte a concretare i requisiti essenziali di cui all’allegato I della direttiva 2013/29/UE[^25-2] sono definite conformemente all’articolo 6 della legge del 12 giugno 2009[^25-3] sulla sicurezza dei prodotti. L’UCEP definisce queste norme d’intesa con la SECO.
+Le norme tecniche atte a concretare i requisiti essenziali di cui all’allegato I della direttiva 2013/29/UE[^25-2] sono definite conformemente all’articolo 6 della legge del 12 giugno 2009[^25-3] sulla sicurezza dei prodotti. L’UCE definisce queste norme d’intesa con la SECO.
 
 [^25-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^25-2]: Cfr. nota a piè di pagina relativa all’art. 1*a* cpv. 2.
@@ -499,7 +501,7 @@ Su ogni unità elementare d’imballaggio destinata alla vendita (imballaggio si
 - e. il peso lordo e la quantità netta di materiale esplosivo attivo;
 - f. le informazioni pertinenti di cui all’allegato 2;
 - g. per i pezzi pirotecnici per scopi professionali, l’uso previsto e la data di scadenza stabilita dal fabbricante;
-- h. per i fuochi d’artificio delle categorie F1–F3, il numero d’identificazione CH attribuito dall’UCEP.
+- h. per i fuochi d’artificio delle categorie F1–F3, il numero d’identificazione CH attribuito dall’UCE.
 
 <sup>3</sup> Le indicazioni devono essere redatte nelle tre lingue ufficiali in modo chiaro e inequivocabile.
 
@@ -520,7 +522,7 @@ Su ogni unità elementare d’imballaggio destinata alla vendita (imballaggio si
 
 **Autorizzazione**
 
-<sup>1</sup> Le autorizzazioni per la fabbricazione di esplosivi, di pezzi pirotecnici e di polvere da sparo sono rilasciate dall’UCEP.[^27-1]
+<sup>1</sup> Le autorizzazioni per la fabbricazione di esplosivi, di pezzi pirotecnici e di polvere da sparo sono rilasciate dall’UCE.[^27-1]
 
 <sup>2</sup> Anche chi prepara direttamente gli esplosivi o i pezzi pirotecnici sul luogo di utilizzazione deve avere un’autorizzazione di fabbricazione.
 
@@ -559,7 +561,7 @@ Se si tratta di esplosivi, nella domanda si indica inoltre:
 
 **Autorizzazioni eccezionali**
 
-In singoli casi motivati, l’UCEP può rilasciare un’autorizzazione eccezionale per la fabbricazione di prodotti che non corrispondono ai requisiti secondo gli articoli 8–25, se la sicurezza è garantita in altro modo.
+In singoli casi motivati, l’UCE può rilasciare un’autorizzazione eccezionale per la fabbricazione di prodotti che non corrispondono ai requisiti secondo gli articoli 8–25, se la sicurezza è garantita in altro modo.
 
 ### Sezione 2: Importazione
 
@@ -567,7 +569,7 @@ In singoli casi motivati, l’UCEP può rilasciare un’autorizzazione ecceziona
 
 **Autorizzazione d’importazione**
 
-<sup>1</sup> Le autorizzazioni per l’importazione di esplosivi, di pezzi pirotecnici e di polvere da sparo sono rilasciate dall’UCEP.[^31-1]
+<sup>1</sup> Le autorizzazioni per l’importazione di esplosivi, di pezzi pirotecnici e di polvere da sparo sono rilasciate dall’UCE.[^31-1]
 
 <sup>2</sup>
 
@@ -646,17 +648,15 @@ L’autorizzazione per la vendita di prodotti ai sensi dell’articolo 27 capove
 
 <sup>1</sup> Un deposito di vendita vale come domicilio d’affari ai sensi dell’articolo 10 capoverso 2 della LEspl. In caso di succursali in più Cantoni, il Cantone che rilascia l’autorizzazione chiede l’approvazione degli altri. Se un Cantone si oppone, l’autorizzazione è negata oppure è limitata in conseguenza.
 
-<sup>2</sup> Il Cantone che rilascia l’autorizzazione ne informa l’UCEP, trasmettendogli copia del documento.[^36-1]
+<sup>2</sup> Il Cantone che rilascia l’autorizzazione ne informa l’UCE, trasmettendogli copia del documento.[^36-1]
 
 [^36-1]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 37
 
-**Autorizzazione per la fornitura di esplosivi da parte di uffici militari**
+[^37-1]
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca[^37-1] rilascia all’esercito, alle amministrazioni militari federali e cantonali o alle loro regie l’autorizzazione di fornire esplosivi a uffici civili e a privati.
-
-[^37-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
+[^37-1]: Abrogato dall’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, con effetto dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 38
 
@@ -672,7 +672,7 @@ Il Dipartimento federale di giustizia e polizia, dopo aver sentito i Cantoni, de
 
 <sup>1</sup> Per l’esame delle domande è lecito far capo a esperti ed esigere campioni di merce e di imballaggi.
 
-<sup>2</sup> Per valutare la conformità con i requisiti di cui agli articoli 8–25*b*, l’UCEP può esigere dal richiedente ulteriori informazioni e documenti tecnici.[^39-1]
+<sup>2</sup> Per valutare la conformità con i requisiti di cui agli articoli 8–25*b*, l’UCE può esigere dal richiedente ulteriori informazioni e documenti tecnici.[^39-1]
 
 [^39-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
@@ -928,7 +928,7 @@ La SEFRI tiene un registro dei permessi rilasciati in cui sono contenuti i dati 
 
 Per adempiere i loro compiti legali, le autorità seguenti possono consultare on line il registro dei permessi:
 
-- a. l’UCEP;
+- a. l’UCE;
 - b. i servizi cantonali specializzati.
 
 <sup>3</sup> I dati sono cancellati quando il titolare ha compiuto 99 anni.
@@ -955,11 +955,7 @@ Per adempiere i loro compiti legali, le autorità seguenti possono consultare on
 
 #### Art. 58b
 
-**Esonero dall’obbligo di partecipare a una formazione complementare a causa della pandemia di COVID-19**[^58b-1]
-
-<sup>1</sup> Fino al 27 settembre 2021 l’obbligo di cui all’articolo 58 capoverso 2 di partecipare a una formazione complementare non si applica ai titolari di un permesso che hanno ottenuto un’abilitazione o frequentato una formazione complementare l’ultima volta dopo il 31 dicembre 2014.
-
-<sup>2</sup> Mediante decisioni di portata generale, la SEFRI può prorogare il termine indicato nel capoverso 1 al massimo fino al 31 dicembre 2022 per i titolari di un permesso che hanno ottenuto un’abilitazione o frequentato una formazione complementare l’ultima volta dopo il 31 dicembre 2014 e che non hanno potuto partecipare a una formazione complementare perché quest’ultima non ha avuto luogo a causa della pandemia di COVID-19. Pubblica le decisioni di portata generale nel Foglio federale.
+[^58b-1]
 
 [^58b-1]: Introdotto dal n. I dell’O del 13 gen. 2021, in vigore dal 28 gen. 2021 al 31 dic. 2022 ([RU 2021 25](https://fedlex.data.admin.ch/eli/oc/2021/25)).
 
@@ -984,7 +980,7 @@ La Commissione d'esame[^59-1] decide nel singolo caso:
 
 **Ritiro del permesso**
 
-<sup>1</sup> Per principio, il Cantone di domicilio ritira il permesso quando il suo titolare è stato condannato per violazione grave delle prescrizioni di protezione o di sicurezza o per un reato in materia di esplosivi e la sentenza è passata in giudicato.
+<sup>1</sup> Per principio, il Cantone di domicilio ritira il permesso quando il suo titolare è stato condannato per violazione grave delle prescrizioni di protezione o di sicurezza o quando sussiste un motivo d’impedimento di cui all’articolo 14*a* capoverso 1 LEspl.[^60-1]
 
 <sup>2</sup> Può ritirare il permesso quando vi sono i presupposti per concludere che il titolare non offre più la garanzia di un’utilizzazione lecita e conforme alle regole dell’arte degli esplosivi o dei pezzi pirotecnici.
 
@@ -992,9 +988,11 @@ La Commissione d'esame[^59-1] decide nel singolo caso:
 
 <sup>4</sup> In vista di un imminente procedura di ritiro, gli organi esecutivi sequestrano il permesso. Questo rimane sotto sequestro fino alla conclusione della procedura. Durante tale periodo sono ritirate le abilitazioni di brillamento e di utilizzazione.
 
-<sup>5</sup> L’UCEP comunica all’autorità che ritira il permesso tutte le decisioni penali che possono comportare il ritiro del permesso.
+<sup>5</sup> L’UCE comunica all’autorità che ritira il permesso tutte le decisioni penali che possono comportare il ritiro del permesso.
 
 <sup>6</sup> Il Cantone comunica per scritto e senza indugio alla SEFRI ogni ritiro di permesso.
+
+[^60-1]: Nuovo testo giusta l’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 ### Sezione 3: Svolgimento della formazione e degli esami
 
@@ -1198,7 +1196,7 @@ I depositi esistenti vanno adeguati alle prescrizioni della presente ordinanza a
 
 <sup>4</sup> In caso di costruzione di più edifici adibiti a deposito o magazzino, la loro reciproca distanza deve essere almeno pari al raggio del cratere (cfr. l’allegato 7); gli edifici devono essere separati gli uni dagli altri da un terrapieno privo di passaggi.
 
-<sup>5</sup> Se le distanze previste negli allegati 5 e 6 non possono essere rispettate, l’autorità competente per il rilascio dell’autorizzazione, d’intesa con l’UCEP, può accordare deroghe, a condizione che il richiedente dimostri, per esempio in base a calcoli e a una valutazione del rischio corrispondenti allo stato della scienza e della tecnica, che la sicurezza delle persone e la proprietà altrui è garantita sufficientemente in altro modo.
+<sup>5</sup> Se le distanze previste negli allegati 5 e 6 non possono essere rispettate, l’autorità competente per il rilascio dell’autorizzazione, d’intesa con l’UCE, può accordare deroghe, a condizione che il richiedente dimostri, per esempio in base a calcoli e a una valutazione del rischio corrispondenti allo stato della scienza e della tecnica, che la sicurezza delle persone e la proprietà altrui è garantita sufficientemente in altro modo.
 
 #### Art. 75
 
@@ -1347,7 +1345,7 @@ Sui cantieri e su altri luoghi d’utilizzazione, le scorte non devono eccedere 
 
 <sup>1</sup> I pezzi pirotecnici della categoria P2 sono depositati e custoditi secondo le prescrizioni in materia di pezzi pirotecnici (art. 87–89).[^86-2]
 
-<sup>1bis</sup> L’UCEP può anche chiedere che determinati pezzi pirotecnici siano depositati e custoditi secondo le prescrizioni in materia di esplosivi (art. 74–84). Se del caso, può autorizzare senza limiti di tempo la loro custodia in contenitori per esplosivi (art. 84) fino a un contenuto massimo di 25 kg di peso netto di sostanze o materie esplosive.[^86-3]
+<sup>1bis</sup> L’UCE può anche chiedere che determinati pezzi pirotecnici siano depositati e custoditi secondo le prescrizioni in materia di esplosivi (art. 74–84). Se del caso, può autorizzare senza limiti di tempo la loro custodia in contenitori per esplosivi (art. 84) fino a un contenuto massimo di 25 kg di peso netto di sostanze o materie esplosive.[^86-3]
 
 <sup>2</sup> I pezzi pirotecnici delle categorie T1, T2 e P1 possono essere depositati e custoditi secondo le prescrizioni in materia di fuochi d’artificio (art. 87–89).
 
@@ -1656,7 +1654,7 @@ Il capo minatore dà i seguenti segnali d’avvertimento:
 
 Gli esplosivi e i pezzi pirotecnici che non possono essere distrutti in base all’articolo 108 sono smaltiti dal proprietario in modo rispettoso dell’ambiente o riconsegnati a tale scopo al fabbricante.
 
-## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica****
+## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica
 
 [^tit9-1]
 
@@ -1699,7 +1697,7 @@ Dagli elenchi dei fabbricanti, importatori, venditori e utilizzatori di esplosiv
 
 <sup>1</sup> I Cantoni sorvegliano il commercio degli esplosivi e dei pezzi pirotecnici, in particolare la loro fabbricazione, vendita, deposito, messa al sicuro e utilizzazione.
 
-<sup>2</sup> Informano immediatamente l’UCEP, se riscontrano esplosivi o pezzi pirotecnici non ammessi o non più utilizzabili. Possono inviare all’UCEP campioni per esame.
+<sup>2</sup> Informano immediatamente l’UCE, se riscontrano esplosivi o pezzi pirotecnici non ammessi o non più utilizzabili. Possono inviare all’UCE campioni per esame.
 
 <sup>3</sup> Almeno ogni due anni e senza preavviso, esaminano gli elenchi dei fabbricanti, dei venditori e degli utilizzatori obbligati a tenere registri. Il controllo è iscritto nell’elenco, indicando la data.
 
@@ -1711,7 +1709,7 @@ Dagli elenchi dei fabbricanti, importatori, venditori e utilizzatori di esplosiv
 
 <sup>1</sup> I controlli alla frontiera spettano agli organi doganali.
 
-<sup>2</sup> Gli invii per i quali manca l’autorizzazione d’importazione sono trattenuti e annunciati all’UCEP.
+<sup>2</sup> Gli invii per i quali manca l’autorizzazione d’importazione sono trattenuti e annunciati all’UCE.
 
 <sup>3</sup>
 
@@ -1787,7 +1785,7 @@ Alle tasse sono aggiunti gli esborsi relativi ai costi supplementari, segnatamen
 - b. le spese di viaggio e di trasporto;
 - c. i costi per i compiti che l’autorità competente fa eseguire a terzi.
 
-### Capitolo 4: Collaborazione tecnico-scientifica****
+### Capitolo 4: Collaborazione tecnico-scientifica
 
 [^tit9-chap4-1]
 
@@ -1797,11 +1795,11 @@ Alle tasse sono aggiunti gli esborsi relativi ai costi supplementari, segnatamen
 
 [^117-1]
 
-L’UCEP può collaborare con servizi tecnico-scientifici, in particolare con il Servizio scientifico di ricerca dell’Istituto forense di Zurigo. La collaborazione è disciplinata su base contrattuale.
+L’UCE può collaborare con servizi tecnico-scientifici, in particolare con il Servizio scientifico di ricerca dell’Istituto forense di Zurigo. La collaborazione è disciplinata su base contrattuale.
 
 [^117-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
-## Titolo 9*a*:**** Banca dati BARBARA
+## Titolo 9*a*: Banca dati BARBARA
 
 [^tit9a-1]
 
@@ -1827,14 +1825,18 @@ BARBARA è composta di:
 
 - a. dati sulle autorizzazioni;
 - b. dati sullo scambio di comunicazioni e informazioni;
-- c. dati su eventi collegati al commercio di esplosivi, pezzi pirotecnici e polvere da sparo;
+- c.[^117c-1] ...
 - d. documentazione tecnica.
+
+[^117c-1]: Abrogata dall’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, con effetto dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 117d
 
 **Contenuto**
 
-L’UCEP tratta in BARBARA i dati personali seguenti:
+<sup>1</sup>
+
+L’UCE tratta in BARBARA i dati personali seguenti:
 
 - a. i numeri d’identificazione attribuiti (art. 24);
 - b. le autorizzazioni di fabbricazione rilasciate (art. 27);
@@ -1843,12 +1845,9 @@ L’UCEP tratta in BARBARA i dati personali seguenti:
 - e. le autorizzazioni di vendita rilasciate (art. 35);
 - f. la gestione della corrispondenza e delle pratiche.
 
-<sup>2</sup>
+<sup>2</sup> ...[^117d-1]
 
-BARBARA contiene i seguenti dati resi anonimi sul commercio di esplosivi, pezzi pirotecnici e polvere da sparo:
-
-- a. i rapporti di polizia;
-- b. i rapporti d’inchiesta, segnatamente del Servizio scientifico di ricerca dell’Istituto forense di Zurigo.
+[^117d-1]: Abrogato dall’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, con effetto dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 117e
 
@@ -1858,26 +1857,27 @@ BARBARA contiene i seguenti dati resi anonimi sul commercio di esplosivi, pezzi 
 
 Le seguenti autorità possono accedere per mezzo di una procedura di richiamo ai dati registrati in BARBARA:
 
-- a. l’UCEP e i servizi cantonali responsabili dell’esecuzione della legislazione sugli esplosivi;
-- b. la Polizia giudiziaria federale per l’adempimento dei suoi compiti disciplinati dalla legge federale del 7 ottobre 1994[^117e-1] sugli Uffici centrali di polizia giudiziaria della Confederazione, dal Codice di procedura penale[^117e-2] e dalla legge federale del 23 dicembre 2011[^117e-3] sulla protezione extraprocessuale dei testimoni.
+- a.[^117e-1] l’UCE;
+- b. la Polizia giudiziaria federale per l’adempimento dei suoi compiti disciplinati dalla legge federale del 7 ottobre 1994[^117e-2] sugli Uffici centrali di polizia giudiziaria della Confederazione, dal Codice di procedura penale[^117e-3] e dalla legge federale del 23 dicembre 2011[^117e-4] sulla protezione extraprocessuale dei testimoni.
 - c. il consulente per la protezione dei dati di fedpol per l’adempimento dei suoi compiti di controllo;
 - d. le persone incaricate della manutenzione informatica e della programmazione per l’adempimento dei loro compiti.
 
 <sup>2</sup> I dettagli dei diritti d’accesso sono disciplinati nell’allegato 17.
 
-[^117e-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^117e-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^117e-3]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^117e-1]: Nuovo testo giusta l’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^117e-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^117e-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^117e-4]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 
 #### Art. 117f
 
 **Trasmissione dei dati**
 
-<sup>1</sup> L’UCEP può trasmettere dati a terzi, nella misura in cui essi ne abbiano bisogno per adempiere i loro compiti legali e siano autorizzati a trattarli.
+<sup>1</sup> L’UCE può trasmettere dati a terzi, nella misura in cui essi ne abbiano bisogno per adempiere i loro compiti legali e siano autorizzati a trattarli.
 
 <sup>2</sup>
 
-Su richiesta, l’UCEP può trasmettere dati registrati nella banca dati in particolare alle seguenti autorità, nella misura in cui esse ne abbiano bisogno per adempiere i loro compiti legali e siano autorizzate a trattarli:
+Su richiesta, l’UCE può trasmettere dati registrati nella banca dati in particolare alle seguenti autorità, nella misura in cui esse ne abbiano bisogno per adempiere i loro compiti legali e siano autorizzate a trattarli:
 
 - a. alle autorità di perseguimento penale federali e cantonali;
 - b. all’Istituto forense di Zurigo;
@@ -1920,7 +1920,7 @@ La sicurezza dei dati è retta:
 - a. dall’articolo 7 della legge federale del 19 giugno 1992[^117j-1] sulla protezione dei dati;
 - b. dall’ordinanza del 27 maggio 2020[^117j-2] sui ciber-rischi.[^117j-3]
 
-<sup>2</sup> L’UCEP adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
+<sup>2</sup> L’UCE adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
 [^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -1969,7 +1969,7 @@ Il Dipartimento federale di giustizia e polizia può adeguare gli allegati 1–1
 
 <sup>4</sup> ...[^119a-3]
 
-<sup>5</sup> Se per un pezzo pirotecnico non sono state ancora definite le norme necessarie per la procedura di valutazione della conformità, prevista dall’articolo 25, l’UCEP è competente per l’ammissione secondo le disposizioni dell’allegato 16.
+<sup>5</sup> Se per un pezzo pirotecnico non sono state ancora definite le norme necessarie per la procedura di valutazione della conformità, prevista dall’articolo 25, l’UCE è competente per l’ammissione secondo le disposizioni dell’allegato 16.
 
 <sup>6</sup> I pezzi pirotecnici della categoria T2 possono essere forniti all’acquirente senza permesso d’uso, finché il permesso d’uso per pezzi pirotecnici e il permesso d’acquisto per questa categoria non saranno disponibili, tuttavia al massimo fino al 1° gennaio 2014.
 
@@ -2025,6 +2025,15 @@ Le autorizzazioni di fabbricazione o d’importazione possono essere rilasciate 
 I pezzi pirotecnici la cui fabbricazione o importazione è stata autorizzata secondo l’articolo 119*d* capoversi 1 e 2 possono essere messi a disposizione sul mercato al massimo fino al 31 gennaio 2023.
 
 [^119e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° feb. 2021 ([RU 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
+
+#### Art. 119f
+
+**Disposizione transitoria della modifica del 25 maggio 2022**[^119f-1]
+
+I dati di cui agli articoli 117*c* lettera c e 117*d* capoverso 2 contenuti in BARBARA al momento dell’entrata in vigore della modifica del 25 maggio 2022, sono trasferiti nel sistema d’informazione di cui all’articolo 21 della legge federale del 25 settembre 2020[^119f-2] sui precursori di sostanze esplodenti (LPre) (art. 22 lett. f LPre).
+
+[^119f-1]: Introdotto dall’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^119f-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 
 #### Art. 120
 
@@ -2212,7 +2221,7 @@ S = Deposito o magazzino di esplosivi
 
 h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image1.png)
 
 Allegato 6
 
@@ -2220,7 +2229,7 @@ Allegato 6
 
 ## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image2.png)
 
 <table>
 <tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
@@ -2246,7 +2255,7 @@ Allegato 7
 
 ## Distanze minime fra gli edifici adibiti a deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image3.png)
 
 L = Quantità depositata in chilogrammi
 
@@ -2262,7 +2271,7 @@ Allegato 8.1[^t-4]
 
 [^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image4.png)
 
 - Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
 - Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
@@ -2282,7 +2291,7 @@ Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
 
 Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image5.png)
 
 Allegato 9.1
 
@@ -2290,7 +2299,7 @@ Allegato 9.1
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image6.png)
 
 Allegato 9.2
 
@@ -2298,9 +2307,9 @@ Allegato 9.2
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image8.png)
 
 Allegato 10.1[^t-5]
 
@@ -2310,7 +2319,7 @@ Allegato 10.1[^t-5]
 
 [^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image9.png)
 
 A = mezzi d’innesco
 
@@ -2348,7 +2357,7 @@ Allegato 11.1
 
 ## Contenitori per esplosivi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image12.png)
 
 Legenda:
 
@@ -2364,7 +2373,7 @@ Allegato 11.2
 
 ## Contenitori per il trasporto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image13.png)
 
 Legenda:
 
@@ -2382,7 +2391,7 @@ F = bretella per trasporto
 
 G = materia esplosiva
 
-Allegati 12.1-13[^t-7]
+Allegati 12.1–13[^t-7]
 
 [^t-7]: Abrogati dal n. II cpv. 2 dell’O del 25 nov. 2015, con effetto dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
@@ -2414,26 +2423,26 @@ Le disposizioni del presente allegato non si applicano:
 
 <sup>4</sup> L’identificazione univoca comprende:
 
-- a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
+- a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCE), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
 - b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/it/xml/image/image14.png)
 
-<sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
+<sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCE) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
 
 <sup>6</sup> Qualora gli articoli non possano essere contrassegnati con l’identificazione univoca di cui al capoverso 5 a causa delle loro dimensioni o della loro particolare forma o progettazione, detta identificazione va apposta su ogni unità elementare d’imballaggio.
 
 <sup>7</sup> Ciascuna unità elementare d’imballaggio è sigillata.
 
-<sup>8</sup> Su ogni detonatore o carica di rinforzo oggetto della deroga di cui al capoverso 6 sono apposte tramite marcatura, in forma indelebile e in modo da essere chiaramente leggibili, le lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e le tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP). Il numero di detonatori e di cariche di rinforzo contenuti è stampato su ogni unità elementare d’imballaggio.
+<sup>8</sup> Su ogni detonatore o carica di rinforzo oggetto della deroga di cui al capoverso 6 sono apposte tramite marcatura, in forma indelebile e in modo da essere chiaramente leggibili, le lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e le tre cifre che indicano il sito di fabbricazione (assegnate dall’UCE). Il numero di detonatori e di cariche di rinforzo contenuti è stampato su ogni unità elementare d’imballaggio.
 
 <sup>9</sup> Ogni miccia detonante oggetto della deroga di cui al capoverso 6 reca l’identificazione univoca apposta tramite marcatura sulla bobina e, se del caso, su ogni unità elementare d’imballaggio.
 
 <sup>10</sup> I distributori che riconfezionano gli esplosivi devono assicurarsi che l’identificazione univoca sia apposta sull’esplosivo e su ogni unità elementare d’imballaggio.
 
-<sup>11</sup> Se il sito di fabbricazione si trova al di fuori del territorio svizzero o dello Spazio economico europeo (SEE), il fabbricante con sede in Svizzera o nel SEE contatta l’UCEP o l’autorità nazionale dello Stato d’importazione membro del SEE per richiedere l’assegnazione di un codice per il sito di fabbricazione.
+<sup>11</sup> Se il sito di fabbricazione si trova al di fuori del territorio svizzero o dello Spazio economico europeo (SEE), il fabbricante con sede in Svizzera o nel SEE contatta l’UCE o l’autorità nazionale dello Stato d’importazione membro del SEE per richiedere l’assegnazione di un codice per il sito di fabbricazione.
 
-<sup>12</sup> Se il sito di fabbricazione si trova al di fuori del territorio svizzero o del SEE e il fabbricante non ha sede né in Svizzera né nel SEE, l’importatore degli esplosivi in questione deve contattare l’UCEP o l’autorità nazionale dello Stato d’importazione membro del SEE per richiedere l’assegnazione di un codice per il sito di fabbricazione.
+<sup>12</sup> Se il sito di fabbricazione si trova al di fuori del territorio svizzero o del SEE e il fabbricante non ha sede né in Svizzera né nel SEE, l’importatore degli esplosivi in questione deve contattare l’UCE o l’autorità nazionale dello Stato d’importazione membro del SEE per richiedere l’assegnazione di un codice per il sito di fabbricazione.
 
 ### 3 Marcatura e apposizione dell’identificazione
 
@@ -2595,7 +2604,7 @@ Allegato 16[^t-10]
 
 ### 1 Ammissione
 
-<sup>1</sup> L’UCEP può rinunciare alla procedura d’ammissione, se la sicurezza è garantita da altre misure.
+<sup>1</sup> L’UCE può rinunciare alla procedura d’ammissione, se la sicurezza è garantita da altre misure.
 
 <sup>2</sup> Non necessitano dell’ammissione i pezzi pirotecnici incorporati in prodotti che a loro volta sottostanno a un obbligo d’esame riconosciuto.
 
@@ -2617,7 +2626,7 @@ Allegato 17[^t-11]
 
 ## Diritti d’accesso a BARBARA
 
-[^t-11]: Introdotto dall’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^t-11]: Introdotto dall’appendice 2 n. 3 dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Aggiornato dall’all. 2 n. 10 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = consultare
 
@@ -2636,7 +2645,7 @@ vuoto = nessun accesso
 
 <table>
 <tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
-<tr><td>Ufficio centrale Esplosivi e pirotecnica</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Ufficio centrale Esplosivi</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 </table>
 
 ### Fornitori di servizi informatici fedpol
@@ -2653,11 +2662,4 @@ vuoto = nessun accesso
 <tr><td>Divisione Indagini Terrorismo</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Divisione Indagini Interventi speciali</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Divisione Indagini Protezione dello Stato</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-</table>
-
-### Autorità cantonali competenti
-
-<table>
-<tr><th></th><th>Dati sulle autorizzazioni (DANTRAG)</th><th>Dati amministrativi (DANTRAG)</th><th>Dati sugli eventi (EREIGNISSE)</th><th>Biblioteca (BIBLIOTHEK)</th></tr>
-<tr><td>Uffici degli esplosivi</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>

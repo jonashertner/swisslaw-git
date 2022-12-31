@@ -4,20 +4,22 @@ title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
 short: OExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur les substances explosibles
+# Ordonnance sur les explosifs
 
-(Ordonnance sur les explosifs, OExpl)
+(OExpl)[^t-1]
 
-du 27 novembre 2000 (Etat le 1<sup>er</sup> janvier 2022)
+du 27 novembre 2000 (État le 1<sup>er</sup> janvier 2023)
+
+[^t-1]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 Le Conseil fédéral suisse,
 
@@ -128,9 +130,10 @@ Les exigences formulées aux art. 8 à 23 ne s’appliquent ni aux substances vi
 
 <sup>4</sup> S’agissant des engins pyrotechniques de la catégorie P3, seules leur fabrication et leur importation requièrent une autorisation. Les autres prescriptions concernant les engins pyrotechniques ne leur sont pas applicables.
 
-<sup>5</sup> L’Office central pour les explosifs et la pyrotechnie (OCEP) peut dans un cas particulier ranger un engin pyrotechnique dans une autre catégorie pour autant que des motifs d’ordre, de sécurité ou de sûreté publics, ou de protection de l’environnement l’exigent.
+<sup>5</sup> L’Office central des explosifs (OCE)[^6-2] peut dans un cas particulier ranger un engin pyrotechnique dans une autre catégorie pour autant que des motifs d’ordre, de sécurité ou de sûreté publics, ou de protection de l’environnement l’exigent.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^6-2]: Nouvelle expression selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 7
 
@@ -146,7 +149,7 @@ Les exigences formulées aux art. 8 à 23 ne s’appliquent ni aux substances vi
 
 <sup>5</sup> Les pièces d’artifice de la catégorie F4 ne sont destinées qu’à un usage professionnel. Elles ne peuvent être utilisées que par des personnes ayant des connaissances particulières. Elles ne peuvent pas être tenues dans le commerce de détail.
 
-<sup>6</sup> L’OCEP peut dans un cas particulier ranger une pièce d’artifice dans une autre catégorie, pour autant que des motifs d’ordre, de sécurité ou de sûreté publics, ou de protection de l’environnement l’exigent.
+<sup>6</sup> L’OCE peut dans un cas particulier ranger une pièce d’artifice dans une autre catégorie, pour autant que des motifs d’ordre, de sécurité ou de sûreté publics, ou de protection de l’environnement l’exigent.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
@@ -154,7 +157,7 @@ Les exigences formulées aux art. 8 à 23 ne s’appliquent ni aux substances vi
 
 **Obligations**[^7a-1]
 
-<sup>1</sup> Les obligations des opérateurs économiques sont régies par les art. 5 à 8 et les annexes II et III auxquelles ils renvoient de la directive 2014/28/UE[^7a-2] et 8, 12 et 13 et les annexes I et II auxquelles ils renvoient de la directive 2013/29/UE[^7a-3], pour autant qu’elles ne découlent pas de la présente ordonnance. L’OCEP est l’autorité nationale compétente.
+<sup>1</sup> Les obligations des opérateurs économiques sont régies par les art. 5 à 8 et les annexes II et III auxquelles ils renvoient de la directive 2014/28/UE[^7a-2] et 8, 12 et 13 et les annexes I et II auxquelles ils renvoient de la directive 2013/29/UE[^7a-3], pour autant qu’elles ne découlent pas de la présente ordonnance. L’OCE est l’autorité nationale compétente.
 
 <sup>2</sup> L’obligation d’apposer le marquage CE ne s’applique pas. Si des marquages CE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE.
 
@@ -190,8 +193,8 @@ Peuvent être mises à disposition sur le marché les matières explosives qui:[
 Les dispositions du présent chapitre ne s’appliquent pas:
 
 - a.[^8-6] aux matières explosives utilisées en quantités limitées par la science, la recherche, le développement ou pour des essais;
-- b. aux matières explosives, exception faite de l’art. 19, qui sont destinées à être employées par la police;
-- c.[^8-7] ...
+- b.[^8-7] aux matières explosives, exception faite de l’art. 19, qui sont destinées à être utilisées par la police, l’armée ou les administrations militaires fédérales et cantonales ou leurs entreprises;
+- c.[^8-8] ...
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -199,7 +202,8 @@ Les dispositions du présent chapitre ne s’appliquent pas:
 [^8-4]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
 [^8-5]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^8-6]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^8-7]: Abrogée par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-7]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^8-8]: Abrogée par le ch. I de l’O du 12 mai 2010, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 9
 
@@ -211,7 +215,7 @@ Les dispositions du présent chapitre ne s’appliquent pas:
 
 **Normes techniques**[^10-1]
 
-Les normes techniques qui se prêtent à la concrétisation des exigences essentielles prévues à l’annexe II de la directive 2014/28/UE[^10-2] sont désignées conformément à l’art. 6 de la loi du 12 juin 2009 sur la sécurité des produits[^10-3]. L’OCEP désigne ces normes en accord avec le Secrétariat d’État à l’économie (SECO).
+Les normes techniques qui se prêtent à la concrétisation des exigences essentielles prévues à l’annexe II de la directive 2014/28/UE[^10-2] sont désignées conformément à l’art. 6 de la loi du 12 juin 2009 sur la sécurité des produits[^10-3]. L’OCE désigne ces normes en accord avec le Secrétariat d’État à l’économie (SECO).
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^10-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
@@ -318,13 +322,13 @@ Les laboratoires d’essais et les organismes d’évaluation de la conformité,
 
 **Contrôle ultérieur**
 
-<sup>1</sup> L’OCEP vérifie par sondage inopiné que les matières explosives mises à disposition sur le marché répondent aux exigences de conformité de la présente ordonnance. À cette fin, il collabore avec les organes d’exécution cantonaux et il peut faire appel à des services spécialisés.[^16-1]
+<sup>1</sup> L’OCE vérifie par sondage inopiné que les matières explosives mises à disposition sur le marché répondent aux exigences de conformité de la présente ordonnance. À cette fin, il collabore avec les organes d’exécution cantonaux et il peut faire appel à des services spécialisés.[^16-1]
 
-<sup>2</sup> Les organes d’exécution cantonaux annoncent sans délai à l’OCEP[^16-2] les découvertes de matières explosives non conformes.
+<sup>2</sup> Les organes d’exécution cantonaux annoncent sans délai à l’OCE[^16-2] les découvertes de matières explosives non conformes.
 
 <sup>3</sup> Aux fins de vérifier la conformité, les organes de contrôle sont habilités, durant les heures de travail habituelles, à pénétrer à l’improviste dans les locaux d’exploitation et les entrepôts et à les inspecter, à examiner les documents utiles, à prendre des renseignements, à faire procéder à des essais, ainsi qu’à demander ou prélever des échantillons.
 
-<sup>4</sup> L’OCEP peut exiger de l’Office fédéral de la douane et de la sécurité des frontières[^16-3] qu’il lui annonce, durant une période déterminée, l’importation de matières explosives dûment désignées. Il doit en faire une description précise.
+<sup>4</sup> L’OCE peut exiger de l’Office fédéral de la douane et de la sécurité des frontières[^16-3] qu’il lui annonce, durant une période déterminée, l’importation de matières explosives dûment désignées. Il doit en faire une description précise.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^16-2]: Nouvelle expression selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Il a été tenu compte de cette mod. dans tout le texte.
@@ -334,11 +338,11 @@ Les laboratoires d’essais et les organismes d’évaluation de la conformité,
 
 **Mesures en cas de non-conformité de matières explosives[^17-1]**
 
-<sup>1</sup> Si l’OCEP, se fondant sur les renseignements reçus, conclut que des matières explosives mises à disposition sur le marché ne répondent pas aux exigences de la présente ordonnance, il enjoint au fabricant ou à l’importateur d’adapter ces matières aux prescriptions, sous peine de leur retrait du marché.[^17-2]
+<sup>1</sup> Si l’OCE, se fondant sur les renseignements reçus, conclut que des matières explosives mises à disposition sur le marché ne répondent pas aux exigences de la présente ordonnance, il enjoint au fabricant ou à l’importateur d’adapter ces matières aux prescriptions, sous peine de leur retrait du marché.[^17-2]
 
-<sup>2</sup> Si des matières explosives non conformes risquent de mettre en danger l’intégrité corporelle des personnes et des biens lorsqu’elles sont utilisées conformément à leur destination, l’OCEP prend les mesures qui s’imposent pour placer sous scellés les marchandises contestées, pour les retirer du marché et prévenir leur commercialisation ultérieure.
+<sup>2</sup> Si des matières explosives non conformes risquent de mettre en danger l’intégrité corporelle des personnes et des biens lorsqu’elles sont utilisées conformément à leur destination, l’OCE prend les mesures qui s’imposent pour placer sous scellés les marchandises contestées, pour les retirer du marché et prévenir leur commercialisation ultérieure.
 
-<sup>3</sup> L’OCEP est compétent pour accorder l’entraide administrative internationale. Il informe notamment la Commission européenne et les États membres de l’UE des mesures prises sur la base du présent article. Les restrictions fixées à l’art. 22 LETC sont applicables.[^17-3]
+<sup>3</sup> L’OCE est compétent pour accorder l’entraide administrative internationale. Il informe notamment la Commission européenne et les États membres de l’UE des mesures prises sur la base du présent article. Les restrictions fixées à l’art. 22 LETC sont applicables.[^17-3]
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^17-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -350,9 +354,9 @@ Les laboratoires d’essais et les organismes d’évaluation de la conformité,
 
 <sup>1</sup> L’explosif doit contenir une substance de marquage répartie de façon uniforme permettant, lors même qu’il a explosé, d’en déceler avec certitude la provenance et la période de fabrication.
 
-<sup>2</sup> La substance de marquage et sa proportion dans l’explosif doivent être agréées par l’OCEP.
+<sup>2</sup> La substance de marquage et sa proportion dans l’explosif doivent être agréées par l’OCE.
 
-<sup>3</sup> L’OCEP fixe le procédé de marquage, opère des contrôles sur celui-ci et l’adapte lorsque les conditions l’exigent.
+<sup>3</sup> L’OCE fixe le procédé de marquage, opère des contrôles sur celui-ci et l’adapte lorsque les conditions l’exigent.
 
 #### Art. 19
 
@@ -430,26 +434,27 @@ Peuvent être mis à disposition sur le marché les engins pyrotechniques:[^24-3
 - b. qui sont attribués à une catégorie selon les art. 6 et 7;
 - c. qui répondent aux exigences formulées à l’art. 26.
 
-<sup>2</sup> Les pièces d’artifice des catégories 1 à 3 doivent en outre être pourvues d’un numéro d’identification-CH. Si celui-ci n’a pas été attribué, une demande doit être adressée à l’OCEP.
+<sup>2</sup> Les pièces d’artifice des catégories 1 à 3 doivent en outre être pourvues d’un numéro d’identification-CH. Si celui-ci n’a pas été attribué, une demande doit être adressée à l’OCE.
 
 <sup>3</sup>
 
 Les dispositions du présent chapitre ne s’appliquent pas:
 
 - a. aux engins pyrotechniques utilisés en quantités limitées par la science, la recherche, le développement ou pour des essais;
-- b. aux engins pyrotechniques destinés à être employés par la police.
+- b.[^24-6] aux engins pyrotechniques destinés à être utilisés par la police, l’armée ou les administrations militaires fédérales et cantonales ou leurs entreprises.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^24-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-4]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-5]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
+[^24-6]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 25
 
 **Normes techniques**[^25-1]
 
-Les normes techniques qui se prêtent à la concrétisation des exigences essentielles de l’annexe I de la directive 2013/29/UE[^25-2] sont désignées conformément à l’art. 6 de la loi du 12 juin 2009 sur la sécurité des produits[^25-3]. L’OCEP désigne ces normes en accord avec le SECO.
+Les normes techniques qui se prêtent à la concrétisation des exigences essentielles de l’annexe I de la directive 2013/29/UE[^25-2] sont désignées conformément à l’art. 6 de la loi du 12 juin 2009 sur la sécurité des produits[^25-3]. L’OCE désigne ces normes en accord avec le SECO.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^25-2]: Cf. note de bas de page relative à l’art. 1*a*, al. 2.
@@ -500,7 +505,7 @@ Sur la plus petite unité d’emballage destinée à la vente (emballage par pi�
 - e. le poids brut et la quantité nette de la matière explosive active;
 - f. les informations pertinentes de l’annexe 2;
 - g. pour les engins pyrotechniques destinés à des fins professionnelles, le but de l’utilisation et la date limite d’utilisation fixée par le fabricant;
-- h. pour les pièces d’artifice des catégories 1 à 3, le numéro d’identification-CH attribué par l’OCEP.
+- h. pour les pièces d’artifice des catégories 1 à 3, le numéro d’identification-CH attribué par l’OCE.
 
 <sup>3</sup> Les indications seront clairement signalées et rédigées dans les trois langues officielles.
 
@@ -521,7 +526,7 @@ Sur la plus petite unité d’emballage destinée à la vente (emballage par pi�
 
 **Autorisation**
 
-<sup>1</sup> L’OCEP accorde les autorisations de production des matières explosives, des engins pyrotechniques et de la poudre de guerre.[^27-1]
+<sup>1</sup> L’OCE accorde les autorisations de production des matières explosives, des engins pyrotechniques et de la poudre de guerre.[^27-1]
 
 <sup>2</sup> Doit également détenir une autorisation de production la personne qui ne prépare les matières et les objets qu’à l’endroit de leur utilisation.
 
@@ -560,7 +565,7 @@ Pour les matières explosives, elle contiendra en plus:
 
 **Autorisations exceptionnelles**
 
-Dans les cas particuliers dûment motivés, l’OCEP peut accorder des autorisations exceptionnelles de production pour des produits qui ne répondent pas aux exigences des art. 8 à 25, lorsque la sécurité est suffisamment garantie d’une autre manière.
+Dans les cas particuliers dûment motivés, l’OCE peut accorder des autorisations exceptionnelles de production pour des produits qui ne répondent pas aux exigences des art. 8 à 25, lorsque la sécurité est suffisamment garantie d’une autre manière.
 
 ### Section 2 Importation
 
@@ -568,7 +573,7 @@ Dans les cas particuliers dûment motivés, l’OCEP peut accorder des autorisat
 
 **Autorisation**
 
-<sup>1</sup> L’OCEP accorde les autorisations d’importation des matières explosives, des engins pyrotechniques et de la poudre de guerre.[^31-1]
+<sup>1</sup> L’OCE accorde les autorisations d’importation des matières explosives, des engins pyrotechniques et de la poudre de guerre.[^31-1]
 
 <sup>2</sup>
 
@@ -647,17 +652,15 @@ L’autorisation de vendre sur le territoire suisse des produits au sens de l’
 
 <sup>1</sup> L’entrepôt du vendeur est réputé siège commercial au sens de l’art. 10, al. 2, de la LExpl. Si le vendeur a des succursales dans plusieurs cantons, le canton qui délivre l’autorisation requiert l’accord des autres cantons intéressés. Lorsqu’il y a opposition de la part d’un canton, l’autorisation est refusée ou restreinte en conséquence.
 
-<sup>2</sup> Le canton qui délivre l’autorisation informe l’OCEP en en transmettant une copie.[^36-1]
+<sup>2</sup> Le canton qui délivre l’autorisation informe l’OCE en en transmettant une copie.[^36-1]
 
 [^36-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 37
 
-**Autorisation pour la remise de matières explosives par des instances militaires**
+[^37-1]
 
-L’autorisation pour la remise de matières explosives par l’armée, les administrations militaires fédérales et cantonales ou leurs entreprises à des offices civils ainsi qu’à des particuliers est octroyée par le Département fédéral de l’économie, de la formation et de la recherche[^37-1].
-
-[^37-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^37-1]: Abrogé par l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 38
 
@@ -673,7 +676,7 @@ Après avoir entendu les cantons, le Département fédéral de justice et police
 
 <sup>1</sup> En vue de l’examen des demandes, il pourra être fait appel à des services spécialisés; l’envoi d’un échantillon de la marchandise et de l’emballage pourra être requis.
 
-<sup>2</sup> L’OCEP peut demander aux requérants d’autres informations et documents techniques pour procéder à l’évaluation de la conformité des produits aux exigences des art. 8 à 25*b*.[^39-1]
+<sup>2</sup> L’OCE peut demander aux requérants d’autres informations et documents techniques pour procéder à l’évaluation de la conformité des produits aux exigences des art. 8 à 25*b*.[^39-1]
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
@@ -930,7 +933,7 @@ Le SEFRI consigne les permis délivrés dans un registre comprenant les données
 
 Dans l’accomplissement de leurs tâches légales, les autorités suivantes peuvent consulter en ligne le registre des permis:
 
-- a. l’OCEP;
+- a. l’OCE;
 - b. les services spécialisés cantonaux.
 
 <sup>3</sup> Les données sont effacées après le 99<sup>e</sup> anniversaire du titulaire.
@@ -957,11 +960,7 @@ Dans l’accomplissement de leurs tâches légales, les autorités suivantes peu
 
 #### Art. 58b
 
-**Dispense de l’obligation de participer à une formation complémentaire en raison de la pandémie de COVID-19**[^58b-1]
-
-<sup>1</sup> L’obligation de participer à un cours complémentaire au sens de l’art. 58, al. 2, ne s’applique pas, jusqu’au 27 septembre 2021, aux titulaires de permis ayant passé leur dernier examen ou suivi leur dernière formation complémentaire après le 31 décembre 2014.
-
-<sup>2</sup> Le SEFRI peut prolonger par décisions de portée générale le délai visé à l’al. 1 jusqu’au 31 décembre 2022 au plus tard pour les titulaires de permis ayant passé leur dernier examen ou suivi leur dernière formation complémentaire après le 31 décembre 2014 et qui n’ont pas pu prendre part à un cours complémentaire parce que celui-ci n’a pas eu lieu en raison de la pandémie de COVID-19. Il publie les décisions de portée générale dans la Feuille fédérale.
+[^58b-1]
 
 [^58b-1]: Introduit par le ch. I de l’O du 13 janv. 2021, en vigueur du 28 janv. 2021 au 31 déc. 2022 ([RO 2021 25](https://fedlex.data.admin.ch/eli/oc/2021/25)).
 
@@ -986,7 +985,7 @@ La commission d’examen[^59-1] décide de cas en cas:
 
 **Retrait du permis**
 
-<sup>1</sup> Lorsque le titulaire du permis a fait l’objet d’une condamnation passée en force pour violation grave des mesures de protection ou de sécurité, ou pour un délit à l’explosif, le permis sera retiré par l’autorité compétente du canton où ledit titulaire a son domicile.
+<sup>1</sup> Lorsque le titulaire du permis a fait l’objet d’une condamnation pour violation grave des mesures de protection ou de sécurité, ou en présence d’un des motifs visés à l’art. 14*a*, al. 1, LExpl, le permis lui est retiré par l’autorité compétente du canton où il a son domicile.[^60-1]
 
 <sup>2</sup> Le permis peut aussi être retiré lorsque des indices permettent de conclure que la conduite du titulaire n’offre plus la garantie d’une utilisation licite et conforme aux règles de l’art des matières explosives ou des engins pyrotechniques.
 
@@ -994,9 +993,11 @@ La commission d’examen[^59-1] décide de cas en cas:
 
 <sup>4</sup> Les organes d’exécution saisissent le permis lorsqu’une procédure de retrait est envisagée. Le permis reste séquestré jusqu’à clôture de la procédure. Les autorisations de minage et d’emploi sont retirées durant cette période.
 
-<sup>5</sup> L’OCEP informe l’autorité cantonale compétente des décisions pénales qui peuvent entraîner un retrait de permis.
+<sup>5</sup> L’OCE informe l’autorité cantonale compétente des décisions pénales qui peuvent entraîner un retrait de permis.
 
 <sup>6</sup> Le canton communique par écrit et sans délai les retraits de permis au SEFRI.
+
+[^60-1]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 ### Section 3 Mise en œuvre de la formation et des examens
 
@@ -1200,7 +1201,7 @@ Les entrepôts existants seront adaptés aux prescriptions de la présente ordon
 
 <sup>4</sup> Lorsque plusieurs entrepôts ou magasins pénétrables sont édifiés, on veillera à respecter entre eux une distance correspondant au moins au rayon du cratère (voir annexe 7); les bâtiments seront séparés les uns des autres par un remblai qui ne permet aucun passage.
 
-<sup>5</sup> Si les distances prévues aux annexes 5 et 6 ne peuvent être respectées, l’autorité compétente peut, d’entente avec l’OCEP, accorder des dérogations dans la mesure où le requérant fournit la preuve que la sécurité des personnes et des biens d’autrui est suffisamment assurée par d’autres moyens, par exemple en calculant et en évaluant le risque en accord avec les règles de la science et de la technique.
+<sup>5</sup> Si les distances prévues aux annexes 5 et 6 ne peuvent être respectées, l’autorité compétente peut, d’entente avec l’OCE, accorder des dérogations dans la mesure où le requérant fournit la preuve que la sécurité des personnes et des biens d’autrui est suffisamment assurée par d’autres moyens, par exemple en calculant et en évaluant le risque en accord avec les règles de la science et de la technique.
 
 #### Art. 75
 
@@ -1349,7 +1350,7 @@ Les réserves existant sur les chantiers et les autres emplacements d’utilisat
 
 <sup>1</sup> Les engins pyrotechniques de la catégorie P2 sont entreposés et conservés selon les prescriptions applicables aux engins pyrotechniques (art. 87 à 89).[^86-2]
 
-<sup>1bis</sup> L’OCEP peut également demander que certains engins soient entreposés et conservés selon les prescriptions applicables aux matières explosives (art. 74 à 84). Le cas échéant, il peut autoriser sans limitation de temps leur conservation dans des récipients à matières explosives (art. 84) jusqu’à un contenu net de 25 kg au maximum d’explosifs ou de substances explosives.[^86-3]
+<sup>1bis</sup> L’OCE peut également demander que certains engins soient entreposés et conservés selon les prescriptions applicables aux matières explosives (art. 74 à 84). Le cas échéant, il peut autoriser sans limitation de temps leur conservation dans des récipients à matières explosives (art. 84) jusqu’à un contenu net de 25 kg au maximum d’explosifs ou de substances explosives.[^86-3]
 
 <sup>2</sup> Les engins des catégories T1, T2, et P1 peuvent être entreposés et conservés selon les prescriptions applicables aux pièces d’artifice (art. 87 à 89).
 
@@ -1427,7 +1428,7 @@ Les exploitants d’entreprises commerciales et de magasins désigneront pour l�
 
 <sup>4</sup> Le transport de matières explosives, même en petites quantités, ou à la main sur les lieux d’utilisation, n’est licite que si l’on utilise des emballages résistants ou des récipients fermés.
 
-[^91-1]: Introduit par le ch. I de l’O du 21 sept. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)). Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^91-1]: Introduit par le ch. I de l’O du 21 sept. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)). Nouvelle teneur selon l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 91a
 
@@ -1438,7 +1439,7 @@ Les exploitants d’entreprises commerciales et de magasins désigneront pour l�
 <sup>2</sup> Si des emblèmes de l’UE ont été apposés, ils peuvent être conservés pour autant qu’ils soient conformes aux prescriptions de l’UE.
 
 [^91a-1]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
-[^91a-2]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^91a-2]: Nouvelle teneur selon l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^91a-3]: D 2004/388/CE de la Commission du 15 avril 2004 relative à un document sur le transfert intracommunautaire d’explosifs, JO L 120 du 24.4.2004, p. 43; modifiée en dernier lieu par la D 2010/347/UE, JO L 155 du 22.6.2010, p. 54.
 
 ## Titre 8 Utilisation et destruction
@@ -1657,7 +1658,7 @@ Les matières explosives et les engins pyrotechniques qui ne pourront pas être 
 
 [^tit9-1]
 
-[^tit9-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^tit9-1]: Nouvelle teneur selon l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ### Chapitre 1 Registres
 
@@ -1696,7 +1697,7 @@ Les inventaires des fabricants, importateurs, vendeurs et utilisateurs de matiè
 
 <sup>1</sup> Les cantons surveillent le commerce des matières explosives et des engins pyrotechniques, en particulier leur fabrication, leur vente, leur entreposage, leur mise en lieu sûr et leur utilisation.
 
-<sup>2</sup> Lorsqu’ils découvrent des matières explosives ou des engins pyrotechniques qui ne sont pas admis dans le commerce ou ne sont plus utilisables, ils en informent sans retard l’OCEP. Ils peuvent faire examiner des spécimens par ce dernier.
+<sup>2</sup> Lorsqu’ils découvrent des matières explosives ou des engins pyrotechniques qui ne sont pas admis dans le commerce ou ne sont plus utilisables, ils en informent sans retard l’OCE. Ils peuvent faire examiner des spécimens par ce dernier.
 
 <sup>3</sup> Les inventaires des fabricants, vendeurs et utilisateurs astreints à tenir un registre seront vérifiés à l’improviste au moins tous les deux ans. Le contrôle sera mentionné dans l’état, qui devra en indiquer la date.
 
@@ -1708,7 +1709,7 @@ Les inventaires des fabricants, importateurs, vendeurs et utilisateurs de matiè
 
 <sup>1</sup> Le contrôle à la frontière incombe aux services douaniers.
 
-<sup>2</sup> Les envois pour lesquels aucune autorisation d’importation n’est présentée doivent être retenus et signalés à l’OCEP.
+<sup>2</sup> Les envois pour lesquels aucune autorisation d’importation n’est présentée doivent être retenus et signalés à l’OCE.
 
 <sup>3</sup>
 
@@ -1717,7 +1718,7 @@ Les envois doivent être retenus et signalés au SECO:
 - a. lorsqu’ils ne sont pas accompagnés d’une autorisation d’exportation;
 - b. lorsque, pour leur transit, la preuve de l’expédition conforme à la LExpl n’a pas été apportée (art. 25 de l’O du 25 juin 1997 sur le contrôle des biens[^112-1]).
 
-[^112-1]: [[RO 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)ch. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)annexe 4 ch. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)annexe 6 ch. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)app. 2 ch. 4, [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446)[4553](https://fedlex.data.admin.ch/eli/oc/2014/760), [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Voir actuellement l’O du 3 juin 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+[^112-1]: [[RO 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)ch. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)annexe 7 ch. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)annexe 4 ch. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)annexe 4 ch. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)annexe 6 ch. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)app. 2 ch. 4; [2014 2507](https://fedlex.data.admin.ch/eli/oc/2014/446), [4553](https://fedlex.data.admin.ch/eli/oc/2014/760); [2016 493](https://fedlex.data.admin.ch/eli/oc/2016/83). [RO 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)art. 30]. Voir actuellement l’O du 3 juin 2016 ([RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
 
 ### Chapitre 3 Émoluments
 
@@ -1727,7 +1728,7 @@ Les envois doivent être retenus et signalés au SECO:
 
 L’ordonnance générale du 8 septembre 2004 sur les émoluments[^112a-2] est applicable, sous réserve des dispositions spéciales de la présente ordonnance.
 
-[^112a-1]: Introduit par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^112a-1]: Introduit par l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^112a-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 113
@@ -1772,7 +1773,7 @@ Pour les examens en vue de l’obtention du permis d’emploi qui relèvent de l
 
 <sup>3</sup> Des émoluments de 100 à 10 000 francs peuvent être perçus pour des contrôles spéciaux. Sont réputés tels les contrôles qui doivent être exécutés en raison d’infractions à la LExpl ou à l’ordonnance, ou ceux auxquels donne lieu le comportement du titulaire d’une autorisation.
 
-[^115-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^115-1]: Nouvelle teneur selon l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^115-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 #### Art. 116
@@ -1789,22 +1790,22 @@ Aux émoluments s’ajoutent les frais suivants:
 
 [^tit9-chap4-1]
 
-[^tit9-chap4-1]: Introduit par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^tit9-chap4-1]: Introduit par l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 117
 
 [^117-1]
 
-L’OCEP peut coopérer avec des services techniques et scientifiques, en particulier avec le service scientifique et de recherches de l’institut de police scientifique de Zurich[^117-2] («Wissenschaftlicher Forschungsdienst des Forensischen Institutes Zürich»). La coopération est réglée contractuellement.
+L’OCE peut coopérer avec des services techniques et scientifiques, en particulier avec le service scientifique et de recherches de l’institut de police scientifique de Zurich[^117-2] («Wissenschaftlicher Forschungsdienst des Forensischen Institutes Zürich»). La coopération est réglée contractuellement.
 
-[^117-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^117-1]: Nouvelle teneur selon l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^117-2]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Titre 9*a* Fichier électronique BARBARA
 
 [^tit9a-1]
 
-[^tit9a-1]: Introduit par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^tit9a-1]: Introduit par l’app. 2 ch. 3 de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 117a
 
@@ -1826,14 +1827,18 @@ BARBARA se compose de:
 
 - a. données relatives aux autorisations;
 - b. données sur les communications et les informations échangées;
-- c. données relatives à des événements en lien avec le commerce de matières explosives, d’engins pyrotechniques et de poudre de guerre;
+- c.[^117c-1] ...
 - d. documents techniques.
+
+[^117c-1]: Abrogée par l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 117d
 
 **Contenu**
 
-L’OCEP traite dans BARBARA les données personnelles suivantes:
+<sup>1</sup>
+
+L’OCE traite dans BARBARA les données personnelles suivantes:
 
 - a. les numéros d’identification attribués (art. 24);
 - b. les autorisations de production accordées (art. 27);
@@ -1842,12 +1847,9 @@ L’OCEP traite dans BARBARA les données personnelles suivantes:
 - e. les autorisations de vendre accordées (art. 35);
 - f. des données sur la gestion de la correspondance et des dossiers.
 
-<sup>2</sup>
+<sup>2</sup> ...[^117d-1]
 
-BARBARA contient en outre des données anonymisées sur le commerce des matières explosives, des objets pyrotechniques et de la poudre de guerre, telles que:
-
-- a. des rapports de police;
-- b. des rapports d’enquête, notamment du service scientifique et de recherches de l’institut de police scientifique de Zurich («Wissenschaftlicher Forschungsdienst des Forensischen Institutes Zürich»).
+[^117d-1]: Abrogé par l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 117e
 
@@ -1857,22 +1859,23 @@ BARBARA contient en outre des données anonymisées sur le commerce des matière
 
 Les autorités suivantes ont accès en ligne aux données enregistrées dans BARBARA:
 
-- a. l’OCEP et les services cantonaux chargés de l’exécution de la législation sur les explosifs;
-- b. la Police judiciaire fédérale, aux fins d’exécution de ses tâches en vertu de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^117e-1], du code de procédure pénale[^117e-2] et de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^117e-3];
+- a.[^117e-1] l’OCE;
+- b. la Police judiciaire fédérale, aux fins d’exécution de ses tâches en vertu de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération[^117e-2], du code de procédure pénale[^117e-3] et de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^117e-4];
 - c. les conseillers à la protection des données de fedpol aux fins d’exécution de leurs tâches de contrôle;
 - d. les personnes chargées de la maintenance et de la programmation informatiques aux fins d’exécution de leurs tâches.
 
 <sup>2</sup> Les droits d’accès sont réglés à l’annexe 17.
 
-[^117e-1]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^117e-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^117e-3]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^117e-1]: Nouvelle teneur selon l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^117e-2]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^117e-3]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^117e-4]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 
 #### Art. 117f
 
 **Transmission de données**
 
-<sup>1</sup> L’OCEP peut transmettre des données à des tiers pour autant qu’ils en aient besoin pour accomplir leurs tâches légales et qu’ils soient autorisés à traiter ces données.
+<sup>1</sup> L’OCE peut transmettre des données à des tiers pour autant qu’ils en aient besoin pour accomplir leurs tâches légales et qu’ils soient autorisés à traiter ces données.
 
 <sup>2</sup>
 
@@ -1919,7 +1922,7 @@ La sécurité des données est garantie conformément à:
 - a. l’art. 7 de la loi fédérale du 19 juin 1992 sur la protection des données[^117j-1];
 - b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^117j-2].[^117j-3]
 
-<sup>2</sup> L’OCEP prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
+<sup>2</sup> L’OCE prend les mesures nécessaires du point de vue organisationnel pour empêcher les accès non autorisés aux données.
 
 [^117j-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^117j-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -1965,7 +1968,7 @@ Le Département fédéral de justice et police peut adapter les annexes 1 à 16 
 
 <sup>4</sup> ...[^119a-3]
 
-<sup>5</sup> Si les normes requises pour la procédure d’évaluation de conformité prévue par l’art. 25 n’existent pas encore pour un engin pyrotechnique, l’OCEP est compétent pour l’homologation selon les règles de l’annexe 16.
+<sup>5</sup> Si les normes requises pour la procédure d’évaluation de conformité prévue par l’art. 25 n’existent pas encore pour un engin pyrotechnique, l’OCE est compétent pour l’homologation selon les règles de l’annexe 16.
 
 <sup>6</sup> Les engins pyrotechniques de catégorie T2 peuvent être remis à l’acquéreur sans permis d’emploi, aussi longtemps que le permis d’emploi d’engins pyrotechniques et le permis d’acquisition pour cette catégorie n’est pas disponible, mais jusqu’au 1<sup>er</sup> janvier 2014 au plus tard.
 
@@ -2022,13 +2025,22 @@ Les engins pyrotechniques dont la fabrication ou l’importation a été autoris
 
 [^119e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
 
+#### Art. 119f
+
+**Disposition transitoire relative à la modification du 25 mai 2022**[^119f-1]
+
+Les données visées aux art. 117*c*, let. c, et 117*d*, al. 2, qui figurent dans BARBARA lors de l’entrée en vigueur de la modification du 25 mai 2022 sont transférées dans le système d’information visé l’art. 21 de la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles (LPSE)[^119f-2] (art. 22, let. f, LPSE).
+
+[^119f-1]: Introduit par l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^119f-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
 #### Art. 120
 
 **Abrogation du droit en vigueur**
 
 L’ordonnance du 26 mars 1980 sur les explosifs[^120-1] est abrogée.
 
-[^120-1]: [[RO 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536), [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982), [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 9 [291](https://fedlex.data.admin.ch/eli/oc/2000/57)annexe ch. II 8]
+[^120-1]: [[RO 1980 536](https://fedlex.data.admin.ch/eli/oc/1980/536_536_536); [1990 1982](https://fedlex.data.admin.ch/eli/oc/1990/1982_1982_1982); [1998 993](https://fedlex.data.admin.ch/eli/oc/1998/993_993_993); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 21 ch. 9, [291](https://fedlex.data.admin.ch/eli/oc/2000/57)annexe ch. II 8]
 
 #### Art. 121
 
@@ -2036,13 +2048,13 @@ L’ordonnance du 26 mars 1980 sur les explosifs[^120-1] est abrogée.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2001.
 
-Annexe 1[^t-1]
+Annexe 1[^t-2]
 
 (art. 6 et 7)
 
 ## Classification des engins pyrotechniques
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 ### 1 Engins pyrotechniques à des fins professionnelles
 
@@ -2088,13 +2100,13 @@ Remarque
 
 Sont notamment réputés initiateurs d’allumage: les différents types de mèches ainsi que les allumeurs électriques et mécaniques. Ces moyens ne sont toutefois pas des engins pyrotechniques au sens de la LExpl.
 
-Annexe 2[^t-2]
+Annexe 2[^t-3]
 
 (art. 26, al. 2)
 
 ## Indications et désignations complémentaires pour les engins pyrotechniques
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Mise à jour par le ch. II de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 1 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Mise à jour par le ch. II de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
 
 - 1\. Engins pyrotechniques destinés à des fins professionnelles de la catégorie T1:
 - «Ne peut être remis à des personnes de moins de 18 ans. Il est interdit par la LExpl d’employer cet engin à des fins autres que celles pour lesquelles il est prévu.» et, le cas échéant, «À utiliser à l’extérieur uniquement» et une distance de sécurité minimale.
@@ -2129,13 +2141,13 @@ Annexe 3
 
 2.3. doivent être déclenchées par une impulsion d’allumage de 2500 mWs/Ohm (décharge d’un condensateur de 270 µF, papier métallisé ou similaire, chargé à 190 V sur l’amorce testée, pourvue d’une prérésistance et totalisant ensemble 2,0 Ohm).
 
-Annexe 4[^t-3]
+Annexe 4[^t-4]
 
 (art. 45, al. 1 et 47, al. 2)
 
 ## Informations à fournir en vue de l’obtention du permis d’acquisition pour matières explosives ou engins pyrotechniques
 
-[^t-3]: Anciennement annexes 4.1 et 4.2. Nouvelle teneur selon le ch. II al. 2 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^t-4]: Anciennement annexes 4.1 et 4.2. Nouvelle teneur selon le ch. II al. 2 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 Requérant ou société requérante:
 
@@ -2207,7 +2219,7 @@ S = Entrepôt ou magasin de matières explosives
 
 h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image1.png)
 
 Annexe 6
 
@@ -2215,7 +2227,7 @@ Annexe 6
 
 ## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image2.png)
 
 <table>
 <tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
@@ -2240,19 +2252,19 @@ Annexe 7
 
 ## Distances minimales entre les entrepôts ou magasins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image3.png)
 
 rK=0,7·L<sup>(1/3)</sup>
 
-Annexe 8.1[^t-4]
+Annexe 8.1[^t-5]
 
 (art. 75, al. 4)
 
 ## Entrepôts ou magasins en béton armé
 
-[^t-4]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image4.png)
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
 - Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2270,7 +2282,7 @@ Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
 
 Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image5.png)
 
 Annexe 9.1
 
@@ -2278,7 +2290,7 @@ Annexe 9.1
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image6.png)
 
 Annexe 9.2
 
@@ -2286,19 +2298,19 @@ Annexe 9.2
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image8.png)
 
-Annexe 10.1[^t-5]
+Annexe 10.1[^t-6]
 
 (art. 83, al. 1)
 
 ## Armoire à explosifs
 
-[^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image9.png)
 
 A = moyens d’allumage
 
@@ -2312,16 +2324,16 @@ Largeur de maille max. 10 cm (filet également)
 
 À ciel ouvert, recouverte de terre ou placée dans une niche de rocher
 
-Annexe 10.2[^t-6]
+Annexe 10.2[^t-7]
 
 (art. 83, al. 2)
 
 ## Armoire à explosifs
 
-[^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-7]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
-<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
 </table>
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2336,7 +2348,7 @@ Annexe 11.1
 
 ## Récipient à matières explosives
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image12.png)
 
 Légende:
 
@@ -2352,7 +2364,7 @@ Annexe 11.2
 
 ## Récipient mobile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image13.png)
 
 Légende:
 
@@ -2370,17 +2382,17 @@ F = Bandoulière
 
 G = Explosifs
 
-Annexe 12.1 à 13[^t-7]
+Annexe 12.1 à 13[^t-8]
 
-[^t-7]: Abrogées par le ch. II al. 2 de l’O du 25 nov. 2015, avec effet au 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-8]: Abrogées par le ch. II al. 2 de l’O du 25 nov. 2015, avec effet au 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-Annexe 14[^t-8]
+Annexe 14[^t-9]
 
 (art. 8, al. 1, let. a<sup>bis</sup>, 20, al. 3, 21, al. 1, 23, al. 4, et 110, al. 2, let. c, et 2<sup>bis</sup>)
 
 ## Conditions relatives à l’identification et à la traçabilité des matières explosives à usage civil
 
-[^t-8]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 1 de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+[^t-9]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 1 de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
 
 ### 1 Champ d’application
 
@@ -2402,26 +2414,26 @@ Les dispositions de la présente annexe ne s’appliquent pas:
 
 <sup>4</sup> L’identification unique comporte:
 
-- a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCEP), le code produit unique et les informations logistiques conçues par le fabricant;
+- a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCE), le code produit unique et les informations logistiques conçues par le fabricant;
 - b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/fr/xml/image/image14.png)
 
-<sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCEP), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
+<sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCE), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
 
 <sup>6</sup> Pour les articles dont la taille, la forme et la conception ne permettent pas d’apposer les données d’identification unique visées à l’al. 5, ladite identification est fixée sur la plus petite unité d’emballage.
 
 <sup>7</sup> Chaque plus petite unité d’emballage est fermée au moyen d’un sceau.
 
-<sup>8</sup> Chaque détonateur ou charge relais faisant l’objet de l’exemption prévue à l’al. 6 est marqué durablement, de manière à garantir une bonne lisibilité des lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et des trois chiffres identifiant le nom du site de production (attribué par l’OCEP). Le nombre de détonateurs et de booster contenus est imprimé sur la plus petite unité d’emballage.
+<sup>8</sup> Chaque détonateur ou charge relais faisant l’objet de l’exemption prévue à l’al. 6 est marqué durablement, de manière à garantir une bonne lisibilité des lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et des trois chiffres identifiant le nom du site de production (attribué par l’OCE). Le nombre de détonateurs et de booster contenus est imprimé sur la plus petite unité d’emballage.
 
 <sup>9</sup> Chaque cordeau détonant faisant l’objet de l’exemption prévue l’al. 6 est pourvu de la marque d’identification unique sur le dévidoir ou la bobine et, le cas échéant, sur la plus petite unité d’emballage.
 
 <sup>10</sup> Les distributeurs qui reconditionnent des matières explosives doivent s’assurer que l’identification unique est fixée à la matière explosive et à la plus petite unité d’emballage.
 
-<sup>11</sup> Lorsque le site de production est situé en dehors de la Suisse ou de l’Espace économique européen (EEE), le producteur établi en Suisse ou dans l’EEE contacte l’OCEP ou une autorité nationale de l’État membre de l’EEE d’importation pour faire attribuer un code au site de production.
+<sup>11</sup> Lorsque le site de production est situé en dehors de la Suisse ou de l’Espace économique européen (EEE), le producteur établi en Suisse ou dans l’EEE contacte l’OCE ou une autorité nationale de l’État membre de l’EEE d’importation pour faire attribuer un code au site de production.
 
-<sup>12</sup> Lorsque le site de production est situé en dehors de la Suisse ou de l’EEE et que le producteur n’est pas établi en Suisse ou dans l’EEE, l’importateur des explosifs concernés contacte l’OCEP ou une autorité nationale de l’État membre de l’EEE d’importation pour faire attribuer un code au site de production.
+<sup>12</sup> Lorsque le site de production est situé en dehors de la Suisse ou de l’EEE et que le producteur n’est pas établi en Suisse ou dans l’EEE, l’importateur des explosifs concernés contacte l’OCE ou une autorité nationale de l’État membre de l’EEE d’importation pour faire attribuer un code au site de production.
 
 ### 3 Identification et fixation
 
@@ -2495,13 +2507,13 @@ Les entreprises peuvent joindre des copies adhésives détachables de l’étiqu
 
 <sup>7</sup> Elles fournissent aux autorités fédérales responsables les coordonnées d’une personne susceptible de fournir des données visée à l’al. 6 en dehors des heures d’ouverture normales des entreprises.
 
-Annexe 15[^t-9]
+Annexe 15[^t-10]
 
 (art. 1*a*, al. 2)
 
 ## Équivalences terminologiques
 
-[^t-9]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 3 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-10]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Nouvelle teneur selon le ch. II al. 3 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 Pour interpréter correctement les directives 2014/28/UE[^annex15-lvlu1-1], 2013/29/UE[^annex15-lvlu1-2] et 2008/43/CE[^annex15-lvlu1-3], auxquelles renvoie la présente ordonnance, on appliquera les équivalences terminologiques suivantes:
 
@@ -2573,17 +2585,17 @@ Pour interpréter correctement les directives 2014/28/UE[^annex15-lvlu1-1], 2013
 <tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
 </table>
 
-Annexe 16[^t-10]
+Annexe 16[^t-11]
 
 (art. 119*a*, al. 5)
 
 ## Homologation
 
-[^t-10]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^t-11]: Introduite par le ch. II al. 4 de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 ### 1 Homologation
 
-<sup>1</sup> L’OCEP peut renoncer à la procédure d’homologation si la sécurité est garantie par d’autres mesures.
+<sup>1</sup> L’OCE peut renoncer à la procédure d’homologation si la sécurité est garantie par d’autres mesures.
 
 <sup>2</sup> N’ont pas besoin d’être homologués les engins pyrotechniques qui entrent dans la fabrication de produits soumis à l’obligation d’un contrôle officiel.
 
@@ -2599,13 +2611,13 @@ Les engins pyrotechniques sont homologués:
 
 Un émolument de 50 à 3000 francs est perçu pour l’homologation.
 
-Annexe 17[^t-11]
+Annexe 17[^t-12]
 
 (art. 117*e*)
 
 ## Droits d’accès à BARBARA
 
-[^t-11]: Introduite par le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^t-12]: Introduite par l’app. 2 ch. 3 de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Mise à jour par l’annexe 2 ch. 10 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = consulter
 
@@ -2624,7 +2636,7 @@ Services fedpol
 
 <table>
 <tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
-<tr><td>Office central pour les explosifs et la pyrotechnie</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Office central des explosifs</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 </table>
 
 Fournisseur de prestations informatiques fedpol
@@ -2641,11 +2653,4 @@ Police judiciaire fédérale
 <tr><td>Division Enquêtes Terrorisme</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Division Enquêtes Engagements spéciaux</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Division Enquêtes Protection de l’État</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-</table>
-
-Services cantonaux compétents
-
-<table>
-<tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
-<tr><td>Bureaux des explosifs</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>

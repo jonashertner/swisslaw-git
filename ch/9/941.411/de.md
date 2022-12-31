@@ -4,20 +4,22 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über explosionsgefährliche Stoffe
+# Sprengstoffverordnung
 
-(Sprengstoffverordnung, SprstV)
+(SprstV)[^t-1]
 
-vom 27. November 2000 (Stand am 1. Januar 2022)
+vom 27. November 2000 (Stand am 1. Januar 2023)
+
+[^t-1]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 Der Schweizerische Bundesrat,
 
@@ -126,9 +128,10 @@ Für Stoffe nach Artikel 2 und Zündmittel, die nicht zu Sprengzwecken auf dem M
 
 <sup>4</sup> Für pyrotechnische Gegenstände der Kategorie P3 ist nur für die Herstellung und die Einfuhr eine Bewilligung erforderlich. Die übrigen Vorschriften für pyrotechnische Gegenstände gelten für sie nicht.
 
-<sup>5</sup> Die Zentralstelle für Sprengstoff und Pyrotechnik (ZSP) kann in besonderen Fällen einen pyrotechnischen Gegenstand einer anderen Kategorie zuweisen, wenn es aus Gründen der Ordnung, der Sicherheit oder des Umweltschutzes erforderlich ist.
+<sup>5</sup> Die Zentralstelle Explosivstoffe (ZSE)[^6-2] kann in besonderen Fällen einen pyrotechnischen Gegenstand einer anderen Kategorie zuweisen, wenn es aus Gründen der Ordnung, der Sicherheit oder des Umweltschutzes erforderlich ist.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^6-2]: Ausdruck gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 7
 
@@ -144,7 +147,7 @@ Für Stoffe nach Artikel 2 und Zündmittel, die nicht zu Sprengzwecken auf dem M
 
 <sup>5</sup> Feuerwerkskörper der Kategorie F4 sind dem gewerblichen Gebrauch vorbehalten. Sie dürfen nur von Personen mit Fachkenntnissen verwendet werden. Sie dürfen nicht in den Detailhandel gebracht werden.
 
-<sup>6</sup> Die ZSP kann in besonderen Fällen einen pyrotechnischen Gegenstand einer anderen Kategorie zuweisen, wenn es aus Gründen der der Ordnung, der Sicherheit oder des Umweltschutzes erforderlich ist.
+<sup>6</sup> Die ZSE kann in besonderen Fällen einen pyrotechnischen Gegenstand einer anderen Kategorie zuweisen, wenn es aus Gründen der der Ordnung, der Sicherheit oder des Umweltschutzes erforderlich ist.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
@@ -152,7 +155,7 @@ Für Stoffe nach Artikel 2 und Zündmittel, die nicht zu Sprengzwecken auf dem M
 
 **Pflichten**[^7a-1]
 
-<sup>1</sup> Die Pflichten der Wirtschaftsakteure richten sich, soweit sie sich nicht aus dieser Verordnung ergeben, nach den Artikeln 5–8 und den darin genannten Anhängen II und III der Richtlinie 2014/28/EU[^7a-2] sowie nach den Artikeln 8, 12 und 13 und den darin genannten Anhängen I und II der Richtlinie 2013/29/EU[^7a-3]. Die ZSP ist die zuständige nationale Behörde.
+<sup>1</sup> Die Pflichten der Wirtschaftsakteure richten sich, soweit sie sich nicht aus dieser Verordnung ergeben, nach den Artikeln 5–8 und den darin genannten Anhängen II und III der Richtlinie 2014/28/EU[^7a-2] sowie nach den Artikeln 8, 12 und 13 und den darin genannten Anhängen I und II der Richtlinie 2013/29/EU[^7a-3]. Die ZSE ist die zuständige nationale Behörde.
 
 <sup>2</sup> Die Pflicht, die CE-Kennzeichnung anzubringen, gilt nicht. Sind CE-Kennzeichnungen bereits angebracht, so können sie belassen werden, sofern sie den Vorschriften der EU entsprechen.
 
@@ -188,8 +191,8 @@ Sprengmittel dürfen auf dem Markt bereitgestellt werden, wenn sie:[^8-2]
 Die Bestimmungen dieses Kapitels gelten nicht:
 
 - a.[^8-6] für Sprengmittel, die in geringen Mengen Zwecken der Wissenschaft, Forschung oder Entwicklung oder für Prüfungen dienen;
-- b. mit Ausnahme von Artikel 19 für Sprengmittel, die für den Verkehr bei der Polizei bestimmt sind;
-- c. [^8-7] …
+- b.[^8-7] mit Ausnahme von Artikel 19 für Sprengmittel, die für den Umgang bei der Polizei oder der Armee oder bei den eidgenössischen und kantonalen Militärverwaltungen oder ihren Betrieben bestimmt sind;
+- c. [^8-8] …
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^8-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -197,7 +200,8 @@ Die Bestimmungen dieses Kapitels gelten nicht:
 [^8-4]: Siehe Fussnote zu Art. 1*a* Abs. 2.
 [^8-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^8-6]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
-[^8-7]: Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^8-7]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^8-8]: Aufgehoben durch Ziff. I der V vom 12. Mai 2010, mit Wirkung seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 9
 
@@ -209,7 +213,7 @@ Die Bestimmungen dieses Kapitels gelten nicht:
 
 **Technische Normen**[^10-1]
 
-Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anforderungen nach Anhang II der Richtlinie 2014/28/EU[^10-2] zu konkretisieren, richtet sich nach Artikel 6 des Bundesgesetzes vom 12. Juni 2009[^10-3] über die Produktesicherheit. Die ZSP bezeichnet die Normen im Einvernehmen mit dem Staatssekretariat für Wirtschaft (SECO).
+Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anforderungen nach Anhang II der Richtlinie 2014/28/EU[^10-2] zu konkretisieren, richtet sich nach Artikel 6 des Bundesgesetzes vom 12. Juni 2009[^10-3] über die Produktesicherheit. Die ZSE bezeichnet die Normen im Einvernehmen mit dem Staatssekretariat für Wirtschaft (SECO).
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^10-2]: Siehe Fussnote zu Art. 1*a* Abs. 2.
@@ -316,27 +320,26 @@ Prüf- oder Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen au
 
 **Nachträgliche Kontrolle**
 
-<sup>1</sup> Die ZSP kontrolliert stichprobenweise, ob die auf dem Markt bereitgestellten Sprengmittel den Konformitätsanforderungen nach dieser Verordnung entsprechen. Zu diesem Zweck arbeitet sie mit den kantonalen Vollzugsorganen zusammen und kann geeignete Fachinstanzen beiziehen.[^16-1]
+<sup>1</sup> Die ZSE kontrolliert stichprobenweise, ob die auf dem Markt bereitgestellten Sprengmittel den Konformitätsanforderungen nach dieser Verordnung entsprechen. Zu diesem Zweck arbeitet sie mit den kantonalen Vollzugsorganen zusammen und kann geeignete Fachinstanzen beiziehen.[^16-1]
 
-<sup>2</sup> Die kantonalen Vollzugsorgane erstatten der ZSP[^16-2] unverzüglich Meldung, wenn sie auf nicht konforme Sprengmittel stossen.
+<sup>2</sup> Die kantonalen Vollzugsorgane erstatten der ZSE unverzüglich Meldung, wenn sie auf nicht konforme Sprengmittel stossen.
 
 <sup>3</sup> Zur Überprüfung der Konformität sind die Kontrollorgane befugt, während der üblichen Arbeitszeit unangemeldet Betriebs- und Lagerräume zu betreten und zu besichtigen, Unterlagen einzusehen, Auskünfte einzuholen, Prüfungen zu veranlassen sowie Proben zu fordern oder zu entnehmen.
 
-<sup>4</sup> Die ZSP kann vom Bundesamt für Zoll und Grenzsicherheit[^16-3] für eine festgesetzte Dauer Meldungen über die Einfuhr von Sprengmittelsendungen verlangen. Sie muss die Sendungen genau bezeichnen.
+<sup>4</sup> Die ZSE kann vom Bundesamt für Zoll und Grenzsicherheit[^16-2] für eine festgesetzte Dauer Meldungen über die Einfuhr von Sprengmittelsendungen verlangen. Sie muss die Sendungen genau bezeichnen.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
-[^16-2]: Ausdruck gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^16-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^16-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 17
 
 **Massnahmen bei nicht konformen Sprengmitteln[^17-1]**
 
-<sup>1</sup> Gelangt die ZSP aufgrund der ihr zugegangenen Erkenntnisse zum Ergebnis, dass auf dem Markt bereitgestellte Sprengmittel den Konformitätsanforderungen nach dieser Verordnung nicht entsprechen, so weist sie den Hersteller oder Importeur an, die Sprengmittel in Einklang mit den Vorschriften zu bringen, unter der Androhung, dass sie andernfalls aus dem Verkehr zu gezogen würden.[^17-2]
+<sup>1</sup> Gelangt die ZSE aufgrund der ihr zugegangenen Erkenntnisse zum Ergebnis, dass auf dem Markt bereitgestellte Sprengmittel den Konformitätsanforderungen nach dieser Verordnung nicht entsprechen, so weist sie den Hersteller oder Importeur an, die Sprengmittel in Einklang mit den Vorschriften zu bringen, unter der Androhung, dass sie andernfalls aus dem Verkehr zu gezogen würden.[^17-2]
 
-<sup>2</sup> Können nicht konforme Sprengmittel bei bestimmungsgemässer Verwendung Leben oder Gut gefährden, trifft die ZSP die gebotenen Massnahmen, um die fraglichen Sprengmittel sicherzustellen, aus dem Verkehr zu ziehen und ihr weiteres Inverkehrbringen zu unterbinden.
+<sup>2</sup> Können nicht konforme Sprengmittel bei bestimmungsgemässer Verwendung Leben oder Gut gefährden, trifft die ZSE die gebotenen Massnahmen, um die fraglichen Sprengmittel sicherzustellen, aus dem Verkehr zu ziehen und ihr weiteres Inverkehrbringen zu unterbinden.
 
-<sup>3</sup> Die ZSP ist zuständig für die Gewährung der internationalen Amtshilfe. Sie informiert insbesondere die Europäische Kommission und die Mitgliedstaaten der EU über die gestützt auf diesen Artikel getroffenen Massnahmen. Es gelten die Einschränkungen nach Artikel 22 THG.[^17-3]
+<sup>3</sup> Die ZSE ist zuständig für die Gewährung der internationalen Amtshilfe. Sie informiert insbesondere die Europäische Kommission und die Mitgliedstaaten der EU über die gestützt auf diesen Artikel getroffenen Massnahmen. Es gelten die Einschränkungen nach Artikel 22 THG.[^17-3]
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^17-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
@@ -348,9 +351,9 @@ Prüf- oder Konformitätsbewertungsstellen, die Berichte oder Bescheinigungen au
 
 <sup>1</sup> Der Sprengstoff muss eine homogen verteilte Markiersubstanz enthalten, über die sich seine Herkunft und der Herstellungszeitraum auch nach der Explosion sicher feststellen lässt.
 
-<sup>2</sup> Die Markiersubstanz und deren mengenmässiger Anteil im Sprengstoff bedürfen der Genehmigung der ZSP.
+<sup>2</sup> Die Markiersubstanz und deren mengenmässiger Anteil im Sprengstoff bedürfen der Genehmigung der ZSE.
 
-<sup>3</sup> Die ZSP legt den Markiermodus fest, führt Kontrollen durch und trägt geänderten Verhältnissen Rechnung.
+<sup>3</sup> Die ZSE legt den Markiermodus fest, führt Kontrollen durch und trägt geänderten Verhältnissen Rechnung.
 
 #### Art. 19
 
@@ -427,26 +430,27 @@ Pyrotechnische Gegenstände dürfen auf dem Markt bereitgestellt werden, wenn si
 - b. einer der Kategorien nach den Artikeln 6 und 7 angehören;
 - c. die Anforderungen von Artikel 26 erfüllen.
 
-<sup>2</sup> Feuerwerkskörper der Kategorien F1–F3 müssen zusätzlich mit einer CH-Identifikationsnummer versehen sein. Wurde keine solche Nummer zugewiesen, so muss sie bei der ZSP beantragt werden.
+<sup>2</sup> Feuerwerkskörper der Kategorien F1–F3 müssen zusätzlich mit einer CH-Identifikationsnummer versehen sein. Wurde keine solche Nummer zugewiesen, so muss sie bei der ZSE beantragt werden.
 
 <sup>3</sup>
 
 Die Bestimmungen dieses Kapitels gelten nicht für:
 
 - a. pyrotechnische Gegenstände, die in geringen Mengen für Wissenschaft, Forschung oder Entwicklung oder für Prüfungen verwendet werden;
-- b. pyrotechnische Gegenstände, die zur Verwendung durch der Polizei bestimmt sind.
+- b.[^24-6] pyrotechnische Gegenstände, die für den Umgang bei der Polizei oder der Armee oder bei den eidgenössischen und kantonalen Militärverwaltungen oder ihren Betrieben bestimmt sind.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 [^24-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^24-5]: Siehe Fussnote zu Art. 1*a* Abs. 2.
+[^24-6]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 25
 
 **Technische Normen**[^25-1]
 
-Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anforderungen nach Anhang I der Richtlinie 2013/29/EU[^25-2] zu konkretisieren, richtet sich nach Artikel 6 des Bundesgesetzes vom 12. Juni 2009[^25-3] über die Produktesicherheit. Die ZSP bezeichnet die Normen im Einvernehmen mit dem SECO.
+Die Bezeichnung der technischen Normen, die geeignet sind, die grundlegenden Anforderungen nach Anhang I der Richtlinie 2013/29/EU[^25-2] zu konkretisieren, richtet sich nach Artikel 6 des Bundesgesetzes vom 12. Juni 2009[^25-3] über die Produktesicherheit. Die ZSE bezeichnet die Normen im Einvernehmen mit dem SECO.
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 [^25-2]: Siehe Fussnote zu Art. 1*a* Abs. 2.
@@ -497,7 +501,7 @@ Auf der kleinsten für den Verkauf bestimmten Verpackungseinheit (Einzel- oder S
 - e. das Bruttogewicht und die Nettomenge an aktivem Explosivstoff;
 - f. die entsprechenden Angaben nach Anhang 2;
 - g. bei pyrotechnischen Gegenständen zu gewerblichen Zwecken: der Verwendungszweck und das vom Hersteller festgelegte Verfalldatum;
-- h. bei Feuerwerkskörpern der Kategorien F1–F3: die von ZSP zugewiesene CH-Identifikationsnummer.
+- h. bei Feuerwerkskörpern der Kategorien F1–F3: die von ZSE zugewiesene CH-Identifikationsnummer.
 
 <sup>3</sup> Die Angaben müssen in übersichtlicher Form in den drei Amtssprachen aufgeführt werden.
 
@@ -518,7 +522,7 @@ Auf der kleinsten für den Verkauf bestimmten Verpackungseinheit (Einzel- oder S
 
 **Bewilligung**
 
-<sup>1</sup> Bewilligungen zur Herstellung von Sprengmitteln, von pyrotechnischen Gegenständen sowie von Schiesspulver werden von der ZSP erteilt.[^27-1]
+<sup>1</sup> Bewilligungen zur Herstellung von Sprengmitteln, von pyrotechnischen Gegenständen sowie von Schiesspulver werden von der ZSE erteilt.[^27-1]
 
 <sup>2</sup> Einer Bewilligung zur Herstellung bedarf auch, wer die Mittel oder Gegenstände erst auf der Verwendungsstelle anfertigt.
 
@@ -557,7 +561,7 @@ Für Sprengmittel muss das Gesuch zudem enthalten:
 
 **Ausnahmebewilligungen**
 
-In begründeten Einzelfällen kann die ZSP für die Herstellung von Produkten, die den Anforderungen der Artikel 8–25 nicht entsprechen, eine Ausnahmebewilligung erteilen, wenn die Sicherheit auf andere Weise gewährleistet ist.
+In begründeten Einzelfällen kann die ZSE für die Herstellung von Produkten, die den Anforderungen der Artikel 8–25 nicht entsprechen, eine Ausnahmebewilligung erteilen, wenn die Sicherheit auf andere Weise gewährleistet ist.
 
 ### 2. Abschnitt: Einfuhr
 
@@ -565,7 +569,7 @@ In begründeten Einzelfällen kann die ZSP für die Herstellung von Produkten, d
 
 **Einfuhrbewilligung**
 
-<sup>1</sup> Bewilligungen zur Einfuhr von Sprengmitteln, von pyrotechnischen Gegenständen sowie von Schiesspulver werden von der ZSP erteilt.[^31-1]
+<sup>1</sup> Bewilligungen zur Einfuhr von Sprengmitteln, von pyrotechnischen Gegenständen sowie von Schiesspulver werden von der ZSE erteilt.[^31-1]
 
 <sup>2</sup>
 
@@ -644,17 +648,15 @@ Die Bewilligung zum Verkauf von Produkten im Sinne von Artikel 27 Absatz 1 im In
 
 <sup>1</sup> Ein Verkäuferlager gilt als geschäftliche Niederlassung im Sinne von Artikel 10 Absatz 2 SprstG. Bei Niederlassungen in mehreren Kantonen holt der Kanton, der die Bewilligung erteilt, die Zustimmung der anderen Kantone ein. Stimmt ein Kanton nicht zu, so wird die Bewilligung nicht erteilt oder entsprechend beschränkt.
 
-<sup>2</sup> Nach Erteilung der Bewilligung informiert der Kanton die ZSP mittels einer Kopie.[^36-1]
+<sup>2</sup> Nach Erteilung der Bewilligung informiert der Kanton die ZSE mittels einer Kopie.[^36-1]
 
 [^36-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 #### Art. 37
 
-**Bewilligung zur Abgabe von Sprengmitteln durch militärische Stellen**
+[^37-1]
 
-Die Bewilligung zur Abgabe von Sprengmitteln durch die Armee, die eidgenössischen und die kantonalen Militärverwaltungen oder ihre Betriebe an zivile Stellen und Private wird vom Eidgenössischen Departement für Wirtschaft, Bildung und Forschung[^37-1] erteilt.
-
-[^37-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
+[^37-1]: Aufgehoben durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 38
 
@@ -670,7 +672,7 @@ Das Eidgenössische Justiz- und Polizeidepartement bestimmt nach Anhören der Ka
 
 <sup>1</sup> Zur Prüfung von Gesuchen können Fachinstanzen beigezogen und Muster von Ware und Verpackung verlangt werden.
 
-<sup>2</sup> Die ZSP kann zur Beurteilung der Übereinstimmung der Produkte mit den Anforderungen nach den Artikeln 8–25*b* von den Gesuchstellern weitere Informationen und technische Unterlagen einfordern.[^39-1]
+<sup>2</sup> Die ZSE kann zur Beurteilung der Übereinstimmung der Produkte mit den Anforderungen nach den Artikeln 8–25*b* von den Gesuchstellern weitere Informationen und technische Unterlagen einfordern.[^39-1]
 
 [^39-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
@@ -923,7 +925,7 @@ Das SBFI führt ein Verzeichnis der abgegebenen Ausweise mit folgenden Daten:
 
 Die folgenden Stellen können zur Wahrnehmung ihrer gesetzlichen Aufgaben das Ausweisverzeichnis online einsehen:
 
-- a. die ZSP;
+- a. die ZSE;
 - b. die Fachstellen der Kantone.
 
 <sup>3</sup> Die Daten werden nach dem 99. Altersjahr der Ausweisinhaberin oder des Ausweisinhabers gelöscht.
@@ -950,11 +952,7 @@ Die folgenden Stellen können zur Wahrnehmung ihrer gesetzlichen Aufgaben das Au
 
 #### Art. 58b
 
-**Befreiung von der Pflicht zur Teilnahme an einer ergänzenden Schulung aufgrund der Covid-19-Pandemie**[^58b-1]
-
-<sup>1</sup> Die Pflicht nach Artikel 58 Absatz 2 zur Teilnahme an einer ergänzenden Schulung gilt bis zum 27. September 2021 nicht für Ausweisinhaberinnen und -inhaber, die nach dem 31. Dezember 2014 das letzte Mal eine Berechtigung erlangt oder eine ergänzende Schulung absolviert haben.
-
-<sup>2</sup> Das SBFI kann mit Allgemeinverfügungen die in Absatz 1 genannte Frist bis längstens am 31. Dezember 2022 verlängern für Ausweisinhaberinnen und -inhaber, die nach dem 31. Dezember 2014 das letzte Mal eine Berechtigung erlangt oder eine ergänzende Schulung absolviert haben und die nicht an einer ergänzenden Schulung teilnehmen konnten, weil diese aufgrund der Covid-19-Pandemie nicht durchgeführt wurde. Es veröffentlicht die Allgemeinverfügungen im Bundesblatt.
+[^58b-1]
 
 [^58b-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2022 ([AS 2021 25](https://fedlex.data.admin.ch/eli/oc/2021/25)).
 
@@ -979,7 +977,7 @@ Die Prüfungskommission[^59-1] entscheidet im Einzelfall:
 
 **Entzug des Ausweises**
 
-<sup>1</sup> Der Wohnortskanton entzieht grundsätzlich den Ausweis, wenn dessen Inhaber wegen grober Missachtung von Schutz- oder Sicherheitsvorschriften oder wegen eines Sprengstoffdeliktes rechtskräftig verurteilt worden ist.
+<sup>1</sup> Der Wohnortskanton entzieht grundsätzlich den Ausweis, wenn dessen Inhaber wegen grober Missachtung von Schutz- oder Sicherheitsvorschriften verurteilt worden ist oder ein Hinderungsgrund nach Artikel 14*a* Absatz 1 SprstG besteht.[^60-1]
 
 <sup>2</sup> Er kann den Ausweis entziehen, wenn Anhaltspunkte dafür vorliegen, dass der Inhaber für eine zulässige und fachgemässe Verwendung der Sprengmittel oder pyrotechnischen Gegenstände nicht mehr Gewähr bietet.
 
@@ -987,9 +985,11 @@ Die Prüfungskommission[^59-1] entscheidet im Einzelfall:
 
 <sup>4</sup> Im Hinblick auf ein allfälliges Entzugsverfahren stellen die Vollzugsorgane den Ausweis sicher. Dieser bleibt bis zum Abschluss des Verfahrens beschlagnahmt. Während dieser Zeit sind die Spreng- und Verwendungsberechtigungen entzogen.
 
-<sup>5</sup> Die ZSP gibt der Entzugsbehörde Kenntnis von Strafentscheiden, die zu einem Ausweisentzug führen können.
+<sup>5</sup> Die ZSE gibt der Entzugsbehörde Kenntnis von Strafentscheiden, die zu einem Ausweisentzug führen können.
 
 <sup>6</sup> Der Kanton teilt Ausweisentzüge dem SBFI schriftlich und ohne Verzug mit.
+
+[^60-1]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 ### 3. Abschnitt: Durchführung von Ausbildung und Prüfungen
 
@@ -1193,7 +1193,7 @@ Bestehende Lager sind den für Verkäufer geltenden Vorschriften dieser Verordnu
 
 <sup>4</sup> Werden mehrere Lager- oder Magazingebäude errichtet, so muss deren gegenseitiger Abstand mindestens dem Kraterradius (siehe Anhang 7) entsprechen; die Gebäude sind unter sich durch einen Schutzwall zu trennen, der keinen Durchgang haben darf.
 
-<sup>5</sup> Können die Distanzen nach den Anhängen 5 und 6 nicht eingehalten werden, so kann die zuständige Bewilligungsbehörde im Einvernehmen mit der ZSP Abweichungen zulassen, sofern die Gesuchstellerin oder der Gesuchsteller, zum Beispiel anhand einer dem Stand der Wissenschaft und der Technik entsprechenden Berechnung und Beurteilung des Risikos, nachweist, dass die Sicherheit von Menschen und fremdem Eigentum auf andere Weise hinreichend gewährleistet ist.
+<sup>5</sup> Können die Distanzen nach den Anhängen 5 und 6 nicht eingehalten werden, so kann die zuständige Bewilligungsbehörde im Einvernehmen mit der ZSE Abweichungen zulassen, sofern die Gesuchstellerin oder der Gesuchsteller, zum Beispiel anhand einer dem Stand der Wissenschaft und der Technik entsprechenden Berechnung und Beurteilung des Risikos, nachweist, dass die Sicherheit von Menschen und fremdem Eigentum auf andere Weise hinreichend gewährleistet ist.
 
 #### Art. 75
 
@@ -1342,7 +1342,7 @@ Auf Bau- und andern Verwendungsstellen dürfen die Vorräte einen Monatsbedarf n
 
 <sup>1</sup> Pyrotechnische Gegenstände der Kategorie P2 sind wie pyrotechnische Gegenstände zu lagern und aufzubewahren (Art. 87–89).[^86-2]
 
-<sup>1bis</sup> Die ZSP kann auch verlangen, dass bestimmte Gegenstände wie Sprengmittel gelagert und aufbewahrt werden (Art. 74–84). Sie kann die Aufbewahrung in Sprengmittelbehältern (Art. 84) bis maximal 25 kg Nettoinhalt an Spreng- oder Explosivstoffen gegebenenfalls ohne zeitliche Beschränkung bewilligen.[^86-3]
+<sup>1bis</sup> Die ZSE kann auch verlangen, dass bestimmte Gegenstände wie Sprengmittel gelagert und aufbewahrt werden (Art. 74–84). Sie kann die Aufbewahrung in Sprengmittelbehältern (Art. 84) bis maximal 25 kg Nettoinhalt an Spreng- oder Explosivstoffen gegebenenfalls ohne zeitliche Beschränkung bewilligen.[^86-3]
 
 <sup>2</sup> Pyrotechnische Gegenstände der Kategorien T1, T2 und P1 dürfen wie Feuerwerkskörper (Art. 87–89) gelagert und aufbewahrt werden.
 
@@ -1694,7 +1694,7 @@ Aus den Verzeichnissen der Hersteller, Importeure, Verkäufer und buchführungsp
 
 <sup>1</sup> Die Kantone überwachen den Verkehr mit Sprengmitteln und pyrotechnischen Gegenständen, insbesondere deren Herstellung, Verkauf, Lagerung, Sicherung und Verwendung.
 
-<sup>2</sup> Sie unterrichten unverzüglich die ZSP, wenn sie nicht zugelassene oder nicht mehr brauchbare Sprengmittel oder pyrotechnische Gegenstände feststellen. Sie können der ZSP Proben zur Prüfung einreichen.
+<sup>2</sup> Sie unterrichten unverzüglich die ZSE, wenn sie nicht zugelassene oder nicht mehr brauchbare Sprengmittel oder pyrotechnische Gegenstände feststellen. Sie können der ZSE Proben zur Prüfung einreichen.
 
 <sup>3</sup> Sie prüfen mindestens alle zwei Jahre unangekündigt die Verzeichnisse der Hersteller, Händler und buchführungspflichtigen Verbraucherinnen oder Verbraucher. Die Prüfung ist im Verzeichnis unter Angabe des Datums zu vermerken.
 
@@ -1706,7 +1706,7 @@ Aus den Verzeichnissen der Hersteller, Importeure, Verkäufer und buchführungsp
 
 <sup>1</sup> Die Kontrolle an der Grenze ist Sache der Zollorgane.
 
-<sup>2</sup> Sendungen, für die keine Einfuhrbewilligung vorliegt, sind anzuhalten und der ZSP zu melden.
+<sup>2</sup> Sendungen, für die keine Einfuhrbewilligung vorliegt, sind anzuhalten und der ZSE zu melden.
 
 <sup>3</sup>
 
@@ -1715,7 +1715,7 @@ Sendungen sind anzuhalten und dem SECO zu melden wenn:
 - a. dafür keine Ausfuhrbewilligung vorliegt;
 - b. für die Durchfuhr kein Nachweis über den rechtmässigen Versand (Art. 25 der Güterkontrollverordnung vom 25. Juni 1977[^112-1]) vorliegt.
 
-[^112-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704), [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 11, [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Ziff. II, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 4 [3537](https://fedlex.data.admin.ch/eli/oc/2005/507), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 63, [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Anhang 4 Ziff. II 3, [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 22, [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569), [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Anhang 6 Ziff. II 1 [1773](https://fedlex.data.admin.ch/eli/oc/2012/249)[6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Beilage 2 Ziff. 4, **2014** 2507 4553, **2016** 493. [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)Art. 30]. S. heute: die V vom 3. Juni 2016 ([SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
+[^112-1]: [[AS 1997 1704](https://fedlex.data.admin.ch/eli/oc/1997/1704_1704_1704); [1999 2471](https://fedlex.data.admin.ch/eli/oc/1999/381); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 21 Ziff. 11; [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)Ziff. II; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Anhang 7 Ziff. 4, [3537](https://fedlex.data.admin.ch/eli/oc/2005/507); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 63; [2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767)Anhang 4 Ziff. II 3; [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)Anhang 4 Ziff. II 22; [2011 3981](https://fedlex.data.admin.ch/eli/oc/2011/569); [2012 1703](https://fedlex.data.admin.ch/eli/oc/2012/245)Anhang 6 Ziff. II 1, [1773](https://fedlex.data.admin.ch/eli/oc/2012/249), [6781](https://fedlex.data.admin.ch/eli/oc/2012/820)Beilage 2 Ziff. 4; **2014** 2507 4553; **2016** 493. [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)Art. 30]. S. heute: die V vom 3. Juni 2016 ([SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)).
 
 ### 3. Kapitel: Gebühren
 
@@ -1793,7 +1793,7 @@ Zu den Gebühren werden Auslagen hinzugeschlagen, die als Kosten zusätzlich anf
 
 [^117-1]
 
-Die ZSP kann mit wissenschaftlich-technisch tätigen Stellen zusammenarbeiten, insbesondere mit dem Wissenschaftlichen Forschungsdienst des Forensischen Institutes Zürich. Die Zusammenarbeit wird vertraglich geregelt.
+Die ZSE kann mit wissenschaftlich-technisch tätigen Stellen zusammenarbeiten, insbesondere mit dem Wissenschaftlichen Forschungsdienst des Forensischen Institutes Zürich. Die Zusammenarbeit wird vertraglich geregelt.
 
 [^117-1]: Fassung gemäss Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -1823,14 +1823,18 @@ BARBARA besteht aus:
 
 - a. Daten zu Bewilligungen;
 - b. Daten über den Austausch von Mitteilungen und Informationen;
-- c. Daten über Ereignisse in Verbindung mit dem Verkehr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver;
+- c.[^117c-1] …
 - d. Fachdokumentation.
+
+[^117c-1]: Aufgehoben durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 117d
 
 **Inhalt**
 
-Die ZSP bearbeitet in BARBARA folgende personenbezogene Angaben:
+<sup>1</sup>
+
+Die ZSE bearbeitet in BARBARA folgende personenbezogene Angaben:
 
 - a. zugewiesene Identifikationsnummern (Art. 24);
 - b. erteilte Herstellungsbewilligungen (Art. 27);
@@ -1839,12 +1843,9 @@ Die ZSP bearbeitet in BARBARA folgende personenbezogene Angaben:
 - e. erteilte Verkaufsbewilligungen (Art. 35);
 - f. die Verwaltung von Schriftverkehr und Geschäften.
 
-<sup>2</sup>
+<sup>2</sup> …[^117d-1]
 
-BARBARA enthält folgende anonymisierte Daten über den Verkehr von Sprengmitteln, pyrotechnischen Gegenständen und Schiesspulver:
-
-- a. Polizeirapporte;
-- b. Untersuchungsberichte, namentlich des Wissenschaftlichen Forschungsdienstes des Forensischen Institutes Zürich.
+[^117d-1]: Aufgehoben durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 #### Art. 117e
 
@@ -1854,22 +1855,23 @@ BARBARA enthält folgende anonymisierte Daten über den Verkehr von Sprengmittel
 
 Folgende Behörden können im Abrufverfahren auf die Daten in BARBARA zugreifen:
 
-- a. die ZSP und die Stellen der Kantone, die für den Vollzug der Sprengstoffgesetzgebung zuständig sind;
-- b. die Bundeskriminalpolizei zur Erfüllung der Aufgaben nach dem Bundesgesetz vom 7. Oktober 1994[^117e-1] über kriminalpolizeiliche Zentralstellen des Bundes, der Strafprozessordnung[^117e-2] und dem Bundesgesetz vom 23. Dezember 2011[^117e-3] über den ausserprozessualen Zeugenschutz.
+- a.[^117e-1] die ZSE;
+- b. die Bundeskriminalpolizei zur Erfüllung der Aufgaben nach dem Bundesgesetz vom 7. Oktober 1994[^117e-2] über kriminalpolizeiliche Zentralstellen des Bundes, der Strafprozessordnung[^117e-3] und dem Bundesgesetz vom 23. Dezember 2011[^117e-4] über den ausserprozessualen Zeugenschutz.
 - c. die Datenschutzberaterinnen und Datenschutzberater von fedpol zur Erfüllung ihrer Kontrollaufgaben;
 - d. die mit Wartungs- und Programmieraufgaben betrauten Personen zur Erfüllung ihrer Aufgaben.
 
 <sup>2</sup> Die Einzelheiten der Zugriffsrechte sind in Anhang 17 geregelt.
 
-[^117e-1]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^117e-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^117e-3]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^117e-1]: Fassung gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^117e-2]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
+[^117e-3]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^117e-4]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
 
 #### Art. 117f
 
 **Datenweitergabe**
 
-<sup>1</sup> Die ZSP kann Daten an Dritte weitergeben, soweit diese die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen und sie die Berechtigung zur Bearbeitung haben.
+<sup>1</sup> Die ZSE kann Daten an Dritte weitergeben, soweit diese die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen und sie die Berechtigung zur Bearbeitung haben.
 
 <sup>2</sup>
 
@@ -1916,7 +1918,7 @@ Für die Gewährleistung der Datensicherheit gelten:
 - a. Artikel 7 des Bundesgesetzes vom 19. Juni 1992[^117j-1] über den Datenschutz;
 - b. die Cyberrisikenverordnung vom 27. Mai 2020[^117j-2].[^117j-3]
 
-<sup>2</sup> Die ZSP trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
+<sup>2</sup> Die ZSE trifft die erforderlichen organisatorischen Massnahmen, um den unbefugten Zugriff auf die Daten zu verhindern.
 
 [^117j-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 [^117j-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
@@ -1962,7 +1964,7 @@ Das Eidgenössische Justiz- und Polizeidepartement kann die Anhänge 1–16 neue
 
 <sup>4</sup> …[^119a-3]
 
-<sup>5</sup> Gibt es für einen pyrotechnischen Gegenstand die für das Konformitätsbewertungsverfahren nach Artikel 25 erforderlichen Normen noch nicht, so ist die ZSP für die Zulassung nach Anhang 16 zuständig*.*
+<sup>5</sup> Gibt es für einen pyrotechnischen Gegenstand die für das Konformitätsbewertungsverfahren nach Artikel 25 erforderlichen Normen noch nicht, so ist die ZSE für die Zulassung nach Anhang 16 zuständig*.*
 
 <sup>6</sup> Pyrotechnische Gegenstände der Kategorie T2 dürfen ohne Ausweis an die Verbraucherin oder den Verbraucher abgegeben werden, solange keine entsprechenden Verwendungsausweise für pyrotechnische Gegenstände und der Erwerbsschein erhältlich sind, längstens jedoch bis zum 1. Januar 2014.
 
@@ -2019,6 +2021,15 @@ Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung
 
 [^119e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Febr. 2021 ([AS 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
 
+#### Art. 119f
+
+**Übergangsbestimmung zur Änderung vom 25. Mai 2022**[^119f-1]
+
+Die Daten nach den Artikeln 117*c* Buchtstabe c und 117*d* Absatz 2, die bei Inkrafttreten der Änderung vom 25. Mai 2022 in BARBARA enthalten sind, werden ins Informationssystem nach Artikel 21 des Vorläuferstoffgesetzes vom 25. September 2020[^119f-2] (VSG) überführt (Art. 22 Bst. f VSG).
+
+[^119f-1]: Eingefügt durch Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^119f-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
 #### Art. 120
 
 **Aufhebung bisherigen Rechts**
@@ -2033,13 +2044,13 @@ Die Sprengstoffverordnung vom 26. März 1980[^120-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Februar 2001 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1[^t-2]
 
 (Art. 6 und 7)
 
 ## Kategorieneinteilung der pyrotechnischen Gegenstände
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 ### 1 Pyrotechnische Gegenstände zu gewerblichen Zwecken
 
@@ -2085,13 +2096,13 @@ Anmerkung
 
 Als Anzündmittel gelten insbesondere: Anzündlitzen, Stoppinen, Anzündschnüre für pyrotechnische Zwecke, elektrische und mechanische Anzünder. Sie sind jedoch keine pyrotechnischen Gegenstände im Sinne des SprstG.
 
-Anhang 2[^t-2]
+Anhang 2[^t-3]
 
 (Art. 26 Abs. 2)
 
 ## Zusätzliche Angaben und Bezeichnungen bei pyrotechnischen Gegenständen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 12. Mai 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Bereinigt gemäss Ziff. II der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 12. Mai 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Bereinigt gemäss Ziff. II der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
 
 - 1\. Pyrotechnische Gegenstände zu gewerblichen Zwecken der Kategorie T1:
 - «Darf nicht an Personen unter 18 Jahren abgegeben werden. Es ist gesetzlich verboten, diesen Gegenstand für andere als den Vorgesehen Zweck zu verwenden.» und gegebenenfalls «nur im Freien zu verwenden» und der minimale Sicherheitsabstand;
@@ -2126,13 +2137,13 @@ Anhang 3
 
 2.3 müssen durch einen Zündimpuls von 2500 mWs/Ohm ausgelöst werden. (Entladung eines auf 190 V aufgeladenen Kondensators von 270 µF, Metallpapier oder gleichwertig, über den zu prüfenden Zünder und einen Vorwiderstand von zusammen 2,0 Ohm).
 
-Anhang 4[^t-3]
+Anhang 4[^t-4]
 
 (Art. 45 Abs. 1 und 47 Abs. 2)
 
 ## Angaben für die Erteilung Erwerbsscheins für Sprengmittel oder pyrotechnische Gegenstände
 
-[^t-3]: Ursprünglich: Anhänge 4.1 und 4.2. Fassung gemäss Ziff. II Abs. 2 der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^t-4]: Ursprünglich: Anhänge 4.1 und 4.2. Fassung gemäss Ziff. II Abs. 2 der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 Gesuchsteller:
 
@@ -2199,7 +2210,7 @@ Legende:
 - S = Sprengmittellager oder -magazin
 - h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2207,7 +2218,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2234,19 +2245,19 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
-Anhang 8.1[^t-4]
+Anhang 8.1[^t-5]
 
 (Art. 75 Abs. 4)
 
 ## Lager- oder Magazingebäude aus Stahlbeton
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2266,7 +2277,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2274,7 +2285,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2282,19 +2293,19 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image8.png)
 
-Anhang 10.1[^t-5]
+Anhang 10.1[^t-6]
 
 (Art. 83 Abs. 1)
 
 ## Schrankmagazin
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2310,13 +2321,13 @@ Maschenweite höchstens 10 cm (auch Netz)
 
 Über Tag mit Erdmaterial überdeckt oder in festem Fels.
 
-Anhang 10.2[^t-6]
+Anhang 10.2[^t-7]
 
 (Art. 83 Abs. 2)
 
 ## Schrankmagazin
 
-[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
 <tr><td>[tab] a. Mit Erdmaterial überdeckt</td><td>[tab] b. In festem Fels</td></tr>
@@ -2336,7 +2347,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image13.png)
 
 Legende:
 
@@ -2352,7 +2363,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image14.png)
 
 Legende:
 
@@ -2370,17 +2381,17 @@ F = Schultertragband
 
 G = Sprengstoff
 
-Anhänge 12.1–13[^t-7]
+Anhänge 12.1–13[^t-8]
 
-[^t-7]: Aufgehoben durch Ziff. II Abs. 2 der V vom 25. Nov. 2015, mit Wirkung seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-8]: Aufgehoben durch Ziff. II Abs. 2 der V vom 25. Nov. 2015, mit Wirkung seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-Anhang 14[^t-8]
+Anhang 14[^t-9]
 
 (Art. 8 Abs. 1 Bst. a<sup>bis</sup>, 20 Abs. 3, 21 Abs. 1, 23 Abs. 4 sowie 110 Abs. 2 Bst. c und 2<sup>bis</sup>)
 
 ## Anforderungen an die Kennzeichnung und die Rückverfolgbarkeit von Explosivstoffen für zivile Zwecke
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 4 der V vom 12. Mai 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Fassung gemäss Ziff. II Abs. 1 der V vom 21. Sept. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
+[^t-9]: Eingefügt durch Ziff. II Abs. 4 der V vom 12. Mai 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Fassung gemäss Ziff. II Abs. 1 der V vom 21. Sept. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5315](https://fedlex.data.admin.ch/eli/oc/2012/609)).
 
 ### 1 Geltungsbereich
 
@@ -2402,26 +2413,26 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 
 <sup>4</sup> Die eindeutige Kennzeichnung umfasst:
 
-- a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
+- a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20220101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20230101/de/xml/image/image15.png)
 
-<sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
+<sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
 <sup>6</sup> Können die Artikel aufgrund ihrer Grösse, Form oder Gestaltung nicht mit einer eindeutigen Kennzeichnung nach Absatz 5 versehen werden, so ist diese auf jeder Verpackungseinheit anzubringen.
 
 <sup>7</sup> Jede Verpackungseinheit wird versiegelt.
 
-<sup>8</sup> Jede Sprengkapsel oder Booster, die beziehungsweise der unter die Ausnahmeregelung nach Absatz 6 fällt, wird so gekennzeichnet, dass die Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und die 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt) dauerhaft und gut leserlich sind. Die Zahl der enthaltenen Sprengkapseln oder Booster wird auf die Verpackungseinheit gedruckt.
+<sup>8</sup> Jede Sprengkapsel oder Booster, die beziehungsweise der unter die Ausnahmeregelung nach Absatz 6 fällt, wird so gekennzeichnet, dass die Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und die 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSE zugeteilt) dauerhaft und gut leserlich sind. Die Zahl der enthaltenen Sprengkapseln oder Booster wird auf die Verpackungseinheit gedruckt.
 
 <sup>9</sup> Jede Sprengschnur, die unter die Ausnahmeregelung nach Absatz 6 fällt, wird auf der Rolle oder Spule und gegebenenfalls auf der Verpackungseinheit mit der eindeutigen Kennzeichnung versehen.
 
 <sup>10</sup> Vertreiber, die Explosivstoffe umverpacken, müssen gewährleisten, dass die eindeutige Kennzeichnung auf dem Explosivstoff und auf jeder Verpackungseinheit angebracht wird.
 
-<sup>11</sup> Ist die Produktionsstätte ausserhalb der Schweiz beziehungsweise ausserhalb eines Mitgliedstaates des Europäischen Wirtschaftsraums (EWR) gelegen, so wendet sich der in der Schweiz beziehungsweise im EWR ansässige Hersteller zwecks Zuteilung eines Codes für die Produktionsstätte an die nationale Behörde des Mitgliedstaates, der die Explosivstoffe einführt, beziehungsweise an die ZSP für die Schweiz.
+<sup>11</sup> Ist die Produktionsstätte ausserhalb der Schweiz beziehungsweise ausserhalb eines Mitgliedstaates des Europäischen Wirtschaftsraums (EWR) gelegen, so wendet sich der in der Schweiz beziehungsweise im EWR ansässige Hersteller zwecks Zuteilung eines Codes für die Produktionsstätte an die nationale Behörde des Mitgliedstaates, der die Explosivstoffe einführt, beziehungsweise an die ZSE für die Schweiz.
 
-<sup>12</sup> Ist die Produktionsstätte ausserhalb der Schweiz beziehungsweise ausserhalb eines Mitgliedstaates des EWR gelegen und ist der Hersteller nicht in der Schweiz beziehungsweise im EWR ansässig, so wendet sich der Importeur der betroffenen Explosivstoffe zwecks Zuteilung eines Codes für die Produktionsstätte an die nationale Behörde des Mitgliedstaates, der die Explosivstoffe einführt, beziehungsweise an die ZSP für die Schweiz.
+<sup>12</sup> Ist die Produktionsstätte ausserhalb der Schweiz beziehungsweise ausserhalb eines Mitgliedstaates des EWR gelegen und ist der Hersteller nicht in der Schweiz beziehungsweise im EWR ansässig, so wendet sich der Importeur der betroffenen Explosivstoffe zwecks Zuteilung eines Codes für die Produktionsstätte an die nationale Behörde des Mitgliedstaates, der die Explosivstoffe einführt, beziehungsweise an die ZSE für die Schweiz.
 
 ### 3 Kennzeichnung und Anbringung
 
@@ -2495,13 +2506,13 @@ Die Unternehmen können aufklebbare und wieder ablösbare Kopien der Originaleti
 
 <sup>7</sup> Sie teilen den verantwortlichen Bundesbehörden die Kontaktdaten einer Person mit, die die Auskünfte nach Absatz 6 ausserhalb der normalen Geschäftszeiten erteilen kann.
 
-Anhang 15[^t-9]
+Anhang 15[^t-10]
 
 (Art. 1*a* Abs. 2)
 
 ## Entsprechungen von Ausdrücken
 
-[^t-9]: Eingefügt durch Ziff. II Abs. 4 der V vom 12. Mai 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Fassung gemäss Ziff. II Abs. 3 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
+[^t-10]: Eingefügt durch Ziff. II Abs. 4 der V vom 12. Mai 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)). Fassung gemäss Ziff. II Abs. 3 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 Für die korrekte Auslegung der Ausdrücke, die in den Richtlinien 2014/28/EU[^annex15-lvlu1-1], 2013/29/EU[^annex15-lvlu1-2] und 2008/43/EG[^annex15-lvlu1-3], auf die in dieser Verordnung verwiesen wird, genannt werden, gelten die folgenden Entsprechungen von Ausdrücken:
 
@@ -2573,17 +2584,17 @@ Für die korrekte Auslegung der Ausdrücke, die in den Richtlinien 2014/28/EU[^a
 <tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
 </table>
 
-Anhang 16[^t-10]
+Anhang 16[^t-11]
 
 (Art. 119*a* Abs. 5)
 
 ## Zulassung
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 4 der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 4 der V vom 12. Mai 2010, in Kraft seit 1. Juli 2010 ([AS 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
 ### 1 Zulassung
 
-<sup>1</sup> Die ZSP kann von einem Zulassungsverfahren absehen, wenn die Sicherheit durch andere Vorkehren gewährleistet ist.
+<sup>1</sup> Die ZSE kann von einem Zulassungsverfahren absehen, wenn die Sicherheit durch andere Vorkehren gewährleistet ist.
 
 <sup>2</sup> Keiner Zulassung bedürfen pyrotechnische Gegenstände, die in Produkte verbaut sind, die ihrerseits einer anerkannten Prüfung unterliegen.
 
@@ -2599,13 +2610,13 @@ Pyrotechnische Gegenstände werden zugelassen, wenn sie:
 
 Für die Zulassung ist eine Gebühr von 50–3000 Franken zu entrichten.
 
-Anhang 17[^t-11]
+Anhang 17[^t-12]
 
 (Art. 117*e*)
 
 ## Zugriffsrechte auf BARBARA
 
-[^t-11]: Eingefügt durch Beilage 2 Ziff. 3 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^t-12]: Eingefügt durch Beilage 2 Ziff. 3 der V vom 21. Nov. 2012 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Bereinigt gemäss Anhang 2 Ziff. 10 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = Abfrage online
 
@@ -2624,7 +2635,7 @@ Dienste fedpol
 
 <table>
 <tr><th></th><th>Bewilligungsdaten (DANTRAG)</th><th>Verwaltungsdaten (DANTRAG)</th><th>Ereignisdaten (EREIGNISSE)</th><th>Bibliothek (BIBLIOTHEK)</th></tr>
-<tr><td>Zentralstelle Sprengstoff und Pyrotechnik</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Zentralstelle Explosivstoffe</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 </table>
 
 Informatik-Leistungserbringer fedpol
@@ -2641,11 +2652,4 @@ Bundeskriminalpolizei
 <tr><td>Abteilung Ermittlungen Terrorismus</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Abteilung Ermittlungen Spezialeinsätze</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Abteilung Ermittlungen Staatsschutz</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-</table>
-
-Zuständigen Stellen der Kantone
-
-<table>
-<tr><th></th><th>Bewilligungsdaten (DANTRAG)</th><th>Verwaltungsdaten (DANTRAG)</th><th>Ereignisdaten (EREIGNISSE)</th><th>Bibliothek (BIBLIOTHEK)</th></tr>
-<tr><td>Sprengstoffbüros</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
